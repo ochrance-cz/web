@@ -1,0 +1,27 @@
+{{ define "main" }}
+{{ $res := .Resources }}
+<main>
+  {{ partial "text-header.html" . }}
+
+  <section class="_zigzag-gallery">
+    {{ range .Params.gallery }}
+      <figure class="item">
+        {{ with .pic }}
+          {{ $pic := $res.GetMatch . }}
+          {{ with $pic }}
+            <div class="img-wrapper">
+              <img src="{{ ($pic.Resize "500x").RelPermalink }}" alt="" aria-hidden="true">
+            </div>
+          {{ end }}
+        {{ end }}
+        <div class="description">
+          {{ partial "md-block.html" .desc }}
+        </div>
+      </figure>
+
+    {{ end }}
+  </section>
+
+  {{ partial "cta-contact.html" }}
+</main>
+{{ end }}

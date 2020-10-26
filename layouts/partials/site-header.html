@@ -1,0 +1,65 @@
+<header class="_site-header">
+  <div class="backdrop">
+    <a class="root-link" href="/">
+      <img class="logo" src="/images/logo.svg" width="200">
+    </a>
+
+    <div class="_collapsible-nav">
+      <input type="checkbox" id="site-nav-toggle">
+      <label class="hide-nav" for="site-nav-toggle"></label>
+      <div class="box">
+        <h3 class="title">
+          <label for="site-nav-toggle">
+            Menu
+          </label>
+        </h3>
+
+        <nav>
+          <ul>
+            <li class="subnav">
+              <span class="subnav-header">Potřebuji pomoc</span>
+              <ul>
+                {{ range sort (where (where .Site.Pages "Section" "potrebuji-pomoc") "Kind" "page") "Params.order" }}
+                  <li>
+                    <a
+                      href="{{ .RelPermalink }}"
+                      class="icon-{{ with .Params.icon }}{{ . }}{{ else }}arrow{{ end }}">
+                      {{- .Title -}}
+                    </a>
+                  </li>
+                {{ end }}
+
+
+                <li><a href="">Správa a evidence podnětů</a></li>
+                <li><a href="/eso/">Evidence stanovisek</a></li>
+              </ul>
+            </li>
+            <li class="subnav">
+              <span class="subnav-header">Pro instituce</span>
+              <ul>
+                {{ range sort (where (where .Site.Pages "Section" "instituce") "Kind" "page") "Params.order" }}
+                  <li>
+                    <a
+                      href="{{ .RelPermalink }}"
+                      class="icon-{{ with .Params.icon }}{{ . }}{{ else }}arrow{{ end }}">
+                      {{- .Title -}}
+                    </a>
+                  </li>
+                {{ end }}
+              </ul>
+            </li>
+            <li class="group">
+              <ul>
+                <li><a href="/o-nas/">O nás</a></li>
+                <li><a href="/aktualne/">Aktuálně</a></li>
+                <li><a href="/kontakt/">Kontakt</a></li>
+              </ul>
+            </li>
+            <li><a href="/hledat/" class="search">Hledání</a></li>
+            <li><a href="/en/" class="lang">EN</a></li>
+          </ul>
+        </nav>
+      </div>
+    </div>
+  </div>
+</header>

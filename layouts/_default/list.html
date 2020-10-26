@@ -1,0 +1,28 @@
+{{ define "main" }}
+<main>
+  {{ partial "text-header.html" . }}
+
+  <section>
+    {{ with .Params.links }}
+      <ul class="_link-list">
+        {{ range . }}
+          <li><a href="{{ .link }}">{{ .text }}</a></li>
+        {{ end }}
+      </ul>
+
+      {{ $.Content }}
+    {{ else }}
+      {{ $.Content }}
+
+      {{ range .Pages }}
+        <article class="_article-preview">
+          <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+          {{ with .Params.perex }}
+            {{ partial "md-block.html" . }}
+          {{ end }}
+        </article>
+      {{ end }}
+    {{ end }}
+  </section>
+</main>
+{{ end }}

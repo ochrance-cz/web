@@ -1,0 +1,8 @@
+._gallery {
+  @include grid(1fr 1fr);
+
+  img {
+    display: block;
+    width: 100%;
+  }
+}

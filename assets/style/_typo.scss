@@ -1,0 +1,278 @@
+@import "svg";
+
+// Open Sans
+$OpenSansPath: "/fonts/open-sans-fontface/fonts";
+
+@import "open-sans/variables";
+@import "open-sans/mixins";
+@import "open-sans/Regular";
+@import "open-sans/Italic";
+@import "open-sans/Bold";
+
+// FontAwesome
+@import "./../../static/fonts/fontawesome-free-5.15.1-web/scss/variables";
+
+@font-face {
+  font-family: "FontAwesome";
+  src: url("/fonts/fontawesome-free-5.15.1-web/webfonts/fa-solid-900.woff2")
+    format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "FontAwesome-Brands";
+  src: url("/fonts/fontawesome-free-5.15.1-web/webfonts/fa-brands-400.woff2")
+    format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@mixin fa-icon($icon, $color: $green) {
+  font-family: "FontAwesome";
+  content: fa-content($icon);
+  display: inline-block;
+  color: $color;
+  font-size: 120%;
+  position: relative;
+  top: 0.1em;
+}
+
+// FF Dax Pro
+// TODO replace with Dax Pro
+@font-face {
+  font-family: "Dax Pro";
+  src: url("/fonts/DaxlinePro-Bold.woff2") format("woff2");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@mixin font-size($small, $large: false) {
+  font-size: $small;
+
+  @if $large {
+    @include medium {
+      font-size: $large;
+      font-size: clamp(#{$large * 0.7}, relFontSize($large), $large);
+    }
+  }
+}
+
+@function relFontSize($pxSize) {
+  @return $pxSize / 1200px * 100vw;
+}
+
+@mixin font-size-s {
+  @include font-size(14px, 16px);
+}
+
+@mixin font-size-m {
+  @include font-size(16px, 18px);
+}
+
+@mixin font-size-l {
+  @include font-size(20px, 24px);
+}
+
+@mixin font-size-xl {
+  @include font-size(24px, 32px);
+}
+
+@mixin font-size-xxl {
+  @include font-size(28px, 40px);
+}
+
+@mixin font-size-xxxl {
+  @include font-size(28px, 50px);
+}
+
+@mixin font-family-headline {
+  font-family: "Dax Pro", "Open Sans", sans-serif;
+}
+
+@mixin font-family-bread {
+  font-family: "Open Sans", sans-serif;
+}
+
+:root {
+  color: $black;
+  @include font-family-bread;
+  @include font-size-m;
+}
+
+h1,
+h2 {
+  @include font-family-headline;
+  line-height: 1.2;
+  letter-spacing: -0.02em;
+  margin-left: -0.05em;
+  @include font-size-xxxl;
+}
+
+h2 {
+  @include font-size-xxl;
+
+  @include medium {
+    margin-top: 4rem;
+  }
+}
+
+h3 {
+  @include font-size-l;
+  letter-spacing: -0.02em;
+
+  &.large {
+    @include font-size-xl;
+  }
+}
+
+p {
+  line-height: 1.4;
+}
+
+.perex {
+  @include medium {
+    margin: 4rem 0;
+  }
+
+  p {
+    @include font-size-l;
+  }
+
+  p:first-child {
+    margin-top: 0;
+  }
+
+  p:last-child {
+    margin-bottom: 0;
+  }
+}
+
+a {
+  color: $black;
+  text-decoration: underline;
+
+  &:hover {
+    color: $green;
+  }
+}
+
+h3 a {
+  color: $green;
+
+  &:hover {
+    color: black;
+  }
+}
+
+ul {
+  margin-bottom: 2rem;
+  padding-left: 1.1rem;
+
+  li {
+    margin-bottom: 1rem;
+
+    ul {
+      margin-top: 1rem;
+    }
+  }
+
+  &._we-can {
+    padding-left: 2rem;
+
+    li {
+      list-style-type: none;
+
+      &:before {
+        @include fa-icon($fa-var-check);
+        margin-left: -2rem;
+        width: 2rem;
+      }
+    }
+  }
+
+  &._we-cannot {
+    padding-left: 2rem;
+
+    li {
+      list-style-type: none;
+
+      &:before {
+        @include fa-icon($fa-var-times, $pink);
+        margin-left: -2rem;
+        width: 2rem;
+      }
+    }
+  }
+}
+
+hr {
+  border: solid $border-gray;
+  border-width: 1px 0 0;
+  margin: 4rem 0;
+}
+
+blockquote {
+  margin: 0 0 1.5rem;
+
+  ._blockquote-body {
+    background: $green-bright;
+    border-radius: 4px;
+    padding: 1rem;
+
+    p:first-child {
+      margin-top: 0;
+      text-indent: -0.4rem;
+
+      &::before {
+        content: "„";
+      }
+    }
+
+    p:last-child {
+      margin-bottom: 0;
+      &::after {
+        content: "“";
+      }
+    }
+  }
+
+  cite {
+    font-style: normal;
+    display: block;
+    margin: 0.5rem 0;
+  }
+}
+
+._typo--small {
+  @include font-size-s;
+}
+
+._big-link {
+  font-weight: bold;
+  color: $green;
+  @include font-size-l;
+
+  &::before {
+    display: inline-block;
+    width: 1.5em;
+    height: 1.2em;
+    vertical-align: bottom;
+    content: " ";
+
+    @include svg-bg($arrow, $green, 0% 50%);
+  }
+
+  &:hover {
+    color: $black;
+
+    &::before {
+      @include svg-bg($arrow, $black, 0% 50%);
+    }
+  }
+}
+
+._icon-info::before {
+  @include fa-icon($fa-var-info-circle, $green);
+  padding-right: 0.5em;
+}

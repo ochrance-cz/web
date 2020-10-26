@@ -1,0 +1,49 @@
+._zigzag-gallery {
+  @include medium {
+    max-width: 80vw;
+    margin: 4rem auto;
+
+    .item {
+      @include grid(11fr 10fr);
+      align-items: start;
+      margin-bottom: 4rem;
+
+      &:nth-child(even) {
+        @include grid(10fr 11fr);
+
+        .img-wrapper {
+          grid-column: 2;
+        }
+
+        .description {
+          grid-column: 1;
+          grid-row: 1;
+        }
+      }
+    }
+
+    .description {
+      h2 {
+        @include font-size-xl;
+      }
+
+      :first-child {
+        margin-top: 0;
+      }
+
+      :last-child {
+        margin-bottom: 0;
+      }
+    }
+
+    .img-wrapper {
+      overflow: hidden;
+
+      img {
+        display: block;
+        filter: grayscale(100%);
+        width: 100%;
+      }
+    }
+  }
+}

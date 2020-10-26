@@ -1,0 +1,35 @@
+{{ define "main" }}
+<main>
+  {{ partial "text-header.html" . }}
+
+  <div {{ with .Params.pic }}class="_backdrop overflow"{{ end }}>
+    <section>
+      {{ with .Params.pic }}
+        {{ $pic := $.Resources.GetMatch . }}
+        {{ with $pic }}
+          <div class="img-wrapper">
+            <img class="_gray-pic" src="{{ ($pic.Resize "500x").RelPermalink }}" alt="" aria-hidden="true">
+          </div>
+        {{ end }}
+      {{ end }}
+
+      <div class="perex">
+        {{ partial "md-block.html" $.Params.perex }}
+      </div>
+
+      {{ .Content }}
+    </section>
+  </div>
+
+  <section>
+    <p>
+      <a href="">Stáhnout PDF</a>
+      <a href="">Tisk</a>
+    </p>
+
+    <p>
+      <a class="_button" href="/aktualne/">Zpět na aktuality</a>
+    </p>
+  </section>
+</main>
+{{ end }}

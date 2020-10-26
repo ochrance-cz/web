@@ -1,0 +1,150 @@
+._contact-page {
+  h1 {
+    .phone-label {
+      display: inline-block;
+      white-space: nowrap;
+      width: 1.2em;
+      overflow: hidden;
+    }
+
+    .phone-label::before {
+      @include fa-icon($fa-var-phone-alt);
+      font-size: 1em;
+      width: 1.2em;
+    }
+
+    .phone {
+      color: $green;
+    }
+  }
+
+  .address-wrapper {
+    @include medium {
+      grid-column: 1 / -1;
+      @include grid(1fr 50%);
+      margin: 3rem 0 -6rem;
+    }
+
+    h2 {
+      margin: 0;
+    }
+
+    .address-comment {
+      @include font-size-l;
+      font-weight: bold;
+
+      :first-child {
+        margin: 0;
+      }
+
+      @include small-only {
+        margin-top: 1rem;
+      }
+    }
+
+    .address {
+      position: relative;
+      z-index: 1;
+      background: $green-bright;
+      padding: 1rem;
+
+      @include small-only {
+        margin: 1rem -1rem 0;
+      }
+
+      @include medium {
+        padding: 3rem;
+      }
+
+      :first-child {
+        margin-top: 0;
+      }
+
+      :last-child {
+        margin-bottom: 0;
+      }
+    }
+  }
+
+  .map {
+    @include small-only {
+      margin: 0rem -1rem 1rem;
+    }
+
+    @include medium {
+      grid-column: 1 / -1;
+      width: 80%;
+    }
+    height: 40vh;
+    margin: 0 auto 4rem;
+  }
+
+  .digital {
+    @include medium {
+      max-width: 80vw;
+      margin-top: 4rem;
+      @include grid(1fr 1fr);
+    }
+
+    p {
+      margin: 0.5rem 0;
+    }
+
+    h2 {
+      margin-top: 0;
+      margin-bottom: 0.5rem;
+      @include font-size-l;
+
+      a {
+        color: $green;
+      }
+    }
+
+    .hearing-loss {
+      background-image: url(/images/hearing.png);
+      background-size: 50px 50px;
+      background-position: 0 0;
+      background-repeat: no-repeat;
+
+      @include medium {
+        padding-left: 70px;
+      }
+
+      @include small-only {
+        margin-top: 2rem;
+        padding-top: 70px;
+      }
+    }
+  }
+
+  dl {
+    dd {
+      margin-left: 2.5rem;
+      margin-bottom: 2rem;
+    }
+
+    dt {
+      font-weight: bold;
+      padding-left: 2.5rem;
+
+      &::before {
+        margin-left: -2.5rem;
+      }
+
+      &.walk-label::before {
+        @include fa-icon($fa-var-walking);
+        width: 2.5rem;
+      }
+
+      &.public-label::before {
+        @include fa-icon($fa-var-bus);
+        width: 2.5rem;
+      }
+
+      &.universal-label::before {
+        @include fa-icon($fa-var-wheelchair);
+        width: 2.5rem;
+      }
+    }
+  }
+}

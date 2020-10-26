@@ -1,0 +1,203 @@
+._site-footer {
+  margin: 0 auto;
+
+  @include small-only {
+    padding: 0.5rem 1rem 2rem;
+  }
+
+  @include medium {
+    max-width: 80vw;
+  }
+
+  .cols {
+    @include medium {
+      @include grid(repeat(3, 1fr));
+    }
+  }
+
+  h2 {
+    @include font-size-m;
+    @include font-family-bread;
+    margin: 0 0 1rem;
+
+    @include small-only {
+      margin-top: 2rem;
+    }
+  }
+
+  ul {
+    padding: 0;
+
+    li {
+      list-style-type: none;
+      margin-bottom: 1rem;
+    }
+  }
+
+  a {
+    color: $white;
+
+    &.movement,
+    &.seeing,
+    &.hearing {
+      display: inline-block;
+      white-space: nowrap;
+
+      font-size: 1.4rem;
+      width: 2.5rem;
+      overflow: hidden;
+    }
+
+    &.movement::before {
+      @include fa-icon($fa-var-wheelchair);
+      vertical-align: top;
+      position: relative;
+      top: -0.1rem;
+      width: 2.5rem;
+      color: $white;
+      text-align: center;
+    }
+
+    &.seeing::before {
+      @include fa-icon($fa-var-eye-slash);
+      vertical-align: top;
+      position: relative;
+      top: -0.1rem;
+      width: 2.5rem;
+      color: $white;
+      text-align: center;
+    }
+
+    &.hearing {
+      width: 5rem;
+
+      &::before {
+        @include fa-icon($fa-var-deaf);
+        vertical-align: top;
+        position: relative;
+        top: -0.1rem;
+        content: fa-content($fa-var-deaf) " " fa-content($fa-var-headphones-alt);
+        width: 5rem;
+        color: $white;
+        text-align: center;
+      }
+    }
+  }
+
+  .phone-label,
+  .email-label,
+  .facebook-label {
+    display: inline-block;
+    width: 2.5rem;
+    height: 2rem;
+    overflow: hidden;
+    white-space: nowrap;
+    box-sizing: border-box;
+
+    &::before {
+      display: inline-block;
+      box-sizing: border-box;
+      width: 2rem;
+      height: 2rem;
+      overflow: hidden;
+      background: $white;
+      line-height: 2rem;
+      text-align: center;
+      border-radius: 1rem;
+    }
+  }
+
+  .facebook-label::before {
+    @include fa-icon($fa-var-facebook-f);
+    font-family: "FontAwesome-Brands";
+    width: 2rem;
+    top: 0;
+    margin-right: 1rem;
+  }
+
+  .phone-label::before {
+    @include fa-icon($fa-var-phone-alt);
+    width: 2rem;
+    top: 0;
+    margin-right: 1rem;
+  }
+
+  .email-label::before {
+    @include fa-icon($fa-var-envelope);
+    width: 2rem;
+    top: 0;
+    margin-right: 1rem;
+  }
+
+  .bottom-line {
+    @include font-size-s;
+
+    @include small-only {
+      .a11y {
+        margin-top: 2rem;
+      }
+
+      .mobile-p {
+        display: block;
+        margin: 1rem 0;
+      }
+    }
+
+    @include medium {
+      @include grid(auto auto);
+      align-items: center;
+
+      p {
+        margin: 0;
+      }
+
+      .a11y {
+        text-align: right;
+      }
+    }
+  }
+
+  .newsletter-wrapper {
+    display: flex;
+    border: 2px solid $white;
+    border-radius: 4px;
+    overflow: hidden;
+
+    input {
+      width: auto;
+      flex-grow: 2;
+      padding: 0.5rem 0.75rem;
+      @include font-size-m;
+      @include font-family-bread;
+
+      background: $green;
+      border: none;
+      display: block;
+      margin: 0;
+    }
+
+    input[type="email"] {
+      color: white;
+
+      &::placeholder {
+        color: $white;
+        opacity: 0.6;
+      }
+    }
+
+    input[type="submit"] {
+      cursor: pointer;
+      background-color: $white;
+      width: 0.1px;
+      flex-grow: 0;
+      padding: 0 0 0 3rem;
+      @include svg-bg($arrow, $green, 50% 50%);
+    }
+  }
+
+  hr {
+    border: solid $border-green;
+    border-width: 1px 0 0;
+    margin: 2rem 0 1rem;
+  }
+}

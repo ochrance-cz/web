@@ -1,0 +1,44 @@
+._pagination {
+  padding-left: 0;
+  padding-right: 0;
+
+  ul {
+    display: inline;
+    margin: 0;
+    padding: 0;
+  }
+
+  li {
+    display: inline-block;
+    height: 2rem;
+    min-width: 2rem;
+    border: 1px solid transparent;
+    border-radius: 1rem;
+
+    a {
+      display: block;
+      line-height: 2rem;
+      text-align: center;
+      text-decoration: none;
+
+      color: $green;
+      text-decoration: none;
+    }
+
+    &.active {
+      border-color: $green;
+    }
+
+    &:hover {
+      background: $green-bright;
+    }
+
+    &.previous a::before {
+      @include fa-icon($fa-var-chevron-left);
+    }
+
+    &.next a::before {
+      @include fa-icon($fa-var-chevron-right);
+    }
+  }
+}

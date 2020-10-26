@@ -1,0 +1,28 @@
+baseURL = "https://www.ochrance.cz"
+defaultContentLanguage = "cs"
+languageCode = "cs"
+title = "Obudsman"
+relativeurls = true
+
+[languages]
+  [languages.cs]
+    contentDir = "content"
+    languageName = "Česky"
+    title = "Ombudsman"
+    weight = 2
+    [languages.cs.params]
+    description = "veřejný ochránce práv"
+  [languages.en]
+    contentDir = "content-en"
+    languageName = "English"
+    title = "Ombudsman"
+    weight = 1
+    [languages.en.params]
+    description = ""
+
+[markup.goldmark.renderer]
+  unsafe = true
+  hardWraps = true
+
+[permalinks]
+info = "/:filename"

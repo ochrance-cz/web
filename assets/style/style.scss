@@ -1,0 +1,26 @@
+/*
+
+CSS style guide
+
+- Styles use cascade.
+- Basic styles are applied to the element_name selectors.
+- Root classes always start with underscore (_example).
+  Root classes are commonly applied to partial layouts
+  and match their names (see layouts/partials).
+- Multiple root classes can be created in one module:
+  keep BEM style double-dash submodule convention (_typo--small).
+- Other classes never start with underscore.
+
+*/
+
+@import "color";
+@import "responsive";
+@import "base";
+
+@import "typo";
+@import "layout";
+@import "a11y";
+
+@import "components/all";
+
+// @import "debug";

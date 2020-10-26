@@ -1,0 +1,71 @@
+._about-person {
+  .bio {
+    @include grid(3fr 4fr);
+    grid-column-gap: 4rem;
+    max-width: 80vw;
+  }
+
+  .img-wrapper {
+    img {
+      width: 100%;
+      filter: grayscale(100%);
+    }
+  }
+
+  .bio-text {
+    margin-top: 7rem;
+  }
+
+  .big-quote {
+    border: solid $border-gray;
+    border-width: 1px 0;
+
+    p {
+      @include font-size-xl;
+      text-indent: -0.4em;
+      max-width: 67%;
+    }
+  }
+
+  .timeline {
+    margin: 4rem 0;
+
+    @include grid(auto auto);
+    grid-gap: 0;
+
+    dt {
+      font-weight: bold;
+      text-align: right;
+      padding-right: 1.5rem;
+    }
+
+    dd {
+      margin: 0;
+
+      padding: 0 0 1rem 1.5rem;
+      position: relative;
+
+      &::before {
+        display: inline-block;
+        content: "⬤";
+        color: $green;
+        width: 2.9rem;
+        margin-left: -2.9rem;
+        text-align: center;
+      }
+
+      &::after {
+        content: " ";
+        position: absolute;
+        top: 1rem;
+        left: 0;
+        height: 100%;
+        border-left: 1px solid $green;
+      }
+
+      &:last-child::after {
+        display: none;
+      }
+    }
+  }
+}

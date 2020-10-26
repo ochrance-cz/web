@@ -1,0 +1,16 @@
+{{ define "main" }}
+
+<main>
+  {{ if eq .Params.active true }}
+    {{ partial "text-header.html" . }}
+
+    <div {{ with .Params.contentBackdrop }} class="{{ . }}"{{ end }}>
+      <section>
+        {{ .Content }}
+      </section>
+    </div>
+  {{ else }}
+    {{ partial "text-header.html" (dict "Title" "Není aktivní žádné upozornění.") }}
+  {{ end }}
+</main>
+{{ end }}

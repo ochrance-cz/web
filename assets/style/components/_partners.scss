@@ -1,0 +1,12 @@
+._partners {
+  h2,
+  h3 {
+    @include font-size-l;
+  }
+
+  img {
+    display: inline-block;
+    height: 130px;
+    margin: 0 2rem 2rem 0;
+  }
+}

@@ -1,0 +1,95 @@
+{{ define "main" }}
+<main class="_contact-page _main--backdrop-s">
+  <div class="_backdrop header">
+    <header class="_pic-header">
+      <div>
+        <h1>
+          {{ .Title }}
+          <br>
+          <span class="phone-label">telefon:</span>
+          <span class="phone">{{ .Params.phone }}</span>
+        </h1>
+        <div class="perex {{ with .Params.pic }}icon-info{{ end }}">
+          {{ with .Params.description }}
+            {{ partial "md-block.html" . }}
+          {{ end }}
+        </div>
+      </div>
+
+      {{ $images := $.Site.GetPage "/images" }}
+      {{ $pic := $images.Resources.GetMatch (replaceRE ".+/" "" .Params.headerPic) }}
+      {{ with $pic }}
+        <div class="green-pic-wrapper">
+          <div class="green-pic">
+            <img src="{{ ($pic.Resize "600x").RelPermalink }}" alt="" aria-hidden="true">
+          </div>
+        </div>
+      {{ end }}
+    </header>
+  </div>
+
+  <section class="digital">
+    <div class="">
+      <h2>E-mail <a href="mailto:{{ .Params.email }}">{{ .Params.email }}</a></h2>
+      <p>ID datové schránky: <strong>jz5adky</strong></p>
+      <p>Zásady písemné komunikace ochránce</p>
+    </div>
+    <div class="hearing-loss">
+      {{ partial "md-block.html" .Params.infolineHearing}}
+    </div>
+  </section>
+
+
+  <section class="_full two-col">
+    {{ .Content }}
+
+    <div class="address-wrapper">
+      <h2>Kde nás najdete?</h2>
+      <div class="address-comment">
+        {{ partial "md-block.html" .Params.addressComment }}
+      </div>
+      <div class="address">
+        {{ partial "md-block.html" .Params.address }}
+      </div>
+    </div>
+
+    <iframe class="map" src="https://en.frame.mapy.cz/s/dobadopeva" width="400" height="400" frameborder="0"></iframe>
+
+    {{ with .Params.access }}
+    <div>
+      <h2>Jak se k nám dostanete?</h2>
+      <dl>
+        <dt class="walk-label">Pěšky</dt>
+        <dd>
+          {{ partial "md-block.html" .walk }}
+        </dd>
+
+        <dt class="public-label">Městskou hromadnou dopravou</dt>
+        <dd>
+          {{ partial "md-block.html" .public }}
+        </dd>
+
+        <dt class="universal-label">Máme přístup pro všechny</dt>
+        <dd>
+          {{ partial "md-block.html" .universal }}
+        </dd>
+      </dl>
+
+    </div>
+    <div>
+      {{ $images := $.Site.GetPage "/images" }}
+      {{ $pic := $images.Resources.GetMatch (replaceRE ".+/" "" .pic) }}
+      {{ with $pic }}
+        <img src="{{ ($pic.Resize "600x").RelPermalink }}" alt="" aria-hidden="true" class="_gray-pic">
+      {{ end }}
+    </div>
+    {{ end }}
+
+  </section>
+
+
+</main>
+{{ end }}
+
+
+

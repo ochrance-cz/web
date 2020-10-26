@@ -1,0 +1,12 @@
+[build]
+  publish = "public"
+  command = "hugo"
+
+[context.production.environment]
+  HUGO_VERSION = "0.60.1"
+
+[[redirects]]
+  from = "/*"
+  to = "/error/404/"
+  status = 404
+

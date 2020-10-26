@@ -1,0 +1,70 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background: $white;
+}
+
+figure {
+  padding: 0;
+  margin: 3rem 0;
+
+  figcaption {
+    margin-top: 0.5rem;
+    text-align: center;
+    font-style: italic;
+  }
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1rem 0 4rem;
+
+  th {
+    background: $green;
+    color: $white;
+    text-align: left;
+  }
+
+  td,
+  th {
+    padding: 0.5rem;
+    border-bottom: 1px solid $border-gray;
+  }
+}
+
+._gray-pic {
+  display: block;
+  width: 100%;
+  filter: grayscale(100%);
+}
+
+@keyframes fade-in {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 100%;
+  }
+}
+
+@mixin button {
+  box-sizing: border-box;
+  display: inline-block;
+  border-radius: 4px;
+
+  font-weight: bold;
+  text-decoration: none;
+
+  color: $green;
+  border: 2px solid $green;
+  padding: 0.7em 1.4em;
+  will-change: background-color;
+  transition: background-color 0.3s ease-in;
+
+  &:hover {
+    color: $black;
+    border-color: $black;
+  }
+}

@@ -1,0 +1,11 @@
+{{ define "main" }}
+<main>
+  {{ partial "text-header.html" . }}
+
+  <section class="_news two-col">
+    {{ range .Pages }}
+      {{ partial "news-preview.html" . }}
+    {{ end }}
+  </section>
+</main>
+{{ end }}

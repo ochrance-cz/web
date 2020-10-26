@@ -1,0 +1,20 @@
+{{ define "main" }}
+<main>
+  {{ partial "text-header.html" . }}
+
+  <section>
+    {{ .Content }}
+
+    {{ with .Params.contact }}
+      {{ partial "contact.html" (dict "contact" . "Resources" $.Resources) }}
+    {{ end }}
+
+    <h2>Osobně v Brně</h2>
+
+    <p>Chcete-li podat stížnost osobně, zjistěte více o přístupnost budovy.</p>
+
+    <p>
+      <a class="_button" href="/pristupnost/budova/">Přístupnost budovy</a>
+    </p>
+</section>
+{{ end }}

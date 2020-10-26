@@ -1,0 +1,14 @@
+<div class="_backdrop header">
+  <header class="_pic-header">
+    <h1>{{ .Title }}</h1>
+
+    {{ with .Params.illustration }}
+      <div class="green-pic-wrapper">
+        <div class="green-pic">
+          {{ $pic := $.Resources.GetMatch . }}
+          <img src="{{ ($pic.Resize "600x").RelPermalink }}" alt="" aria-hidden="true">
+        </div>
+      </div>
+    {{ end }}
+  </header>
+</div>

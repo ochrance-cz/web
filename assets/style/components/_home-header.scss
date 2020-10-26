@@ -1,0 +1,44 @@
+._home-header {
+  img {
+    display: block;
+    width: 100vw;
+  }
+
+  .motto {
+    position: relative;
+
+    @include font-family-headline;
+    line-height: 1.2;
+    letter-spacing: -0.02em;
+    text-indent: -0.05em;
+    @include font-size-xxxl;
+
+    background: $green;
+    color: $white;
+    padding: 1.5rem;
+    margin: -3rem 0 0 5vw;
+  }
+
+  @include medium {
+    margin: 0;
+
+    img {
+      display: block;
+      width: 90vw;
+    }
+
+    .motto {
+      @include font-family-headline;
+      line-height: 1.2;
+      letter-spacing: -0.02em;
+      text-indent: -0.05em;
+      @include font-size-xxxl;
+
+      background: $green;
+      color: $white;
+      margin-left: 50vw;
+      padding: 3rem 15vw 3rem 3rem;
+      margin-top: -8rem;
+    }
+  }
+}

@@ -1,0 +1,276 @@
+._site-header {
+  z-index: 99;
+
+  @include small-only {
+    .backdrop {
+      display: flex;
+      position: relative;
+      z-index: 9;
+    }
+
+    input[type="checkbox"],
+    .box ul {
+      display: none;
+    }
+
+    .root-link {
+      display: block;
+      max-width: 14rem;
+      height: 3rem;
+      padding: 0;
+      margin: 1rem 0 1rem 1rem;
+      flex-shrink: 1;
+
+      img {
+        width: 100%;
+        height: 100%;
+
+        object-fit: contain;
+        object-position: 0% 50%;
+      }
+    }
+
+    ._collapsible-nav {
+      flex: 2;
+    }
+
+    .title {
+      @include font-size-m;
+      font-weight: normal;
+      padding: 0 1rem;
+      text-align: right;
+
+      label {
+        @include button;
+        padding: 0.5rem;
+        font-weight: normal;
+        white-space: nowrap;
+        cursor: pointer;
+
+        &::after {
+          @include fa-icon($fa-var-bars);
+          width: 1.3em;
+        }
+
+        &:hover::after {
+          color: $black;
+        }
+      }
+    }
+
+    input[type="checkbox"] {
+      display: none;
+
+      &:checked {
+        & ~ .hide-nav {
+          display: block;
+          position: fixed;
+          width: 2rem;
+          height: 100vh;
+          background: rgba(0, 0, 0, 0.4);
+
+          top: 0;
+          left: 0rem;
+        }
+
+        & ~ .box {
+          background: $white;
+          position: fixed;
+          top: 0;
+          left: 2rem;
+          right: 0;
+          bottom: 0;
+          box-shadow: -2px 0px 10px rgba(0, 0, 0, 0.2);
+
+          .title label {
+            &::after {
+              @include fa-icon($fa-var-times);
+              width: 1.3em;
+            }
+
+            &:hover::after {
+              color: $black;
+            }
+          }
+
+          nav > ul {
+            position: absolute;
+            top: 4rem;
+            left: 0;
+            bottom: 0;
+            right: 0;
+            padding: 0 0.5rem;
+            overflow: scroll;
+            margin-bottom: 0;
+          }
+
+          ul {
+            display: block;
+            padding: 0;
+
+            .subnav-header {
+              display: block;
+              padding: 1rem 0.5rem 0;
+              margin: 0 0 1rem;
+              border-top: 1px solid $border-gray;
+              font-weight: bold;
+            }
+
+            ul {
+              padding: 0;
+              margin: 0.5rem 0;
+            }
+
+            li {
+              list-style-type: none;
+              margin: 0 0 1rem;
+              padding: 0 0.5rem;
+            }
+
+            li.group {
+              border: solid $border-gray;
+              border-width: 1px 0;
+              margin: 0.5rem;
+              padding: 1rem 0.5rem;
+
+              ul {
+                display: flex;
+
+                li {
+                  flex-grow: 1;
+                  margin: 0;
+                  padding: 0;
+                }
+              }
+            }
+
+            a {
+              color: $green;
+            }
+          }
+        }
+      }
+    }
+  }
+
+  @include medium {
+    position: relative;
+    height: 7rem;
+
+    .backdrop {
+      display: flex;
+      background: $white;
+      z-index: 2;
+    }
+
+    .root-link {
+      display: block;
+      padding: 2rem 0 0 2rem;
+      flex-grow: 2;
+
+      img {
+        width: 14rem;
+      }
+    }
+
+    .search {
+      display: inline-block;
+      width: 1.3em;
+      overflow: hidden;
+
+      &::before {
+        @include fa-icon($fa-var-search);
+        width: 1.3em;
+      }
+    }
+
+    input[type="checkbox"],
+    .box .title {
+      display: none;
+    }
+
+    nav {
+      margin: 0;
+      color: $green;
+      padding-top: 2.75rem;
+      margin: 0;
+
+      li {
+        list-style-type: none;
+        white-space: nowrap;
+      }
+
+      a {
+        color: $green;
+        text-decoration: none;
+
+        &:hover {
+          text-decoration: underline;
+        }
+      }
+
+      & > ul {
+        display: flex;
+        margin: 0;
+        padding-left: 1rem;
+
+        & > li {
+          padding-right: 1.5rem;
+        }
+
+        li.group ul {
+          display: flex;
+          padding: 0;
+          margin: 0;
+
+          li {
+            padding-right: 1.5rem;
+
+            &:last-child {
+              padding: 0;
+            }
+          }
+        }
+
+        li.subnav {
+          ul {
+            display: none;
+            width: 1px;
+            padding: 0;
+            margin-top: 1.5rem;
+
+            li {
+              margin-bottom: 1rem;
+            }
+          }
+
+          &:hover {
+            .subnav-header {
+              padding-bottom: 0.25rem;
+              border-bottom: 1px solid $green;
+            }
+
+            ul {
+              display: block;
+              margin-bottom: 0;
+              z-index: 1;
+
+              &::before {
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 100vw;
+                height: 100vh;
+                content: " ";
+                background: rgba(0, 0, 0, 0.3);
+                animation: fade-in 0.6s ease-out;
+                will-change: opacity;
+                z-index: -1;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

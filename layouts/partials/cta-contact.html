@@ -1,0 +1,23 @@
+<div class="_backdrop cta">
+  <section class="_cta-contact">
+    <div class="">
+      <h2>Potřebujete pomoci se stížností, nebo si nejste podáním jistí?</h2>
+      <p>
+        Kontaktujte nás<br>
+        <span class="phone-label">Telefon: </span>
+          <span class="phone">777 777 777</span>
+          <br>
+        <span class="email-label">E-mail: </span>
+          <a href="">podatelna@ochrance.cz</a>
+      </p>
+    </div>
+
+    {{ $images := $.Site.GetPage "/images" }}
+    {{ $pic := $images.Resources.GetMatch "podatelna.jpg" }}
+    {{ with $pic }}
+      <div class="img-wrapper">
+        <img src="{{ $pic.RelPermalink }}">
+      </div>
+    {{ end }}
+  </section>
+</div>

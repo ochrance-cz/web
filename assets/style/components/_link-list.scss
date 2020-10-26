@@ -1,0 +1,38 @@
+._link-list {
+  margin: 2rem 0;
+  padding-left: 0;
+
+  li {
+    list-style-type: none;
+    @include font-size-l;
+    padding-left: 1.5em;
+
+    &::before {
+      display: inline-block;
+      margin-left: -1.5em;
+      width: 1.5em;
+      height: 1.2em;
+      vertical-align: bottom;
+      content: " ";
+
+      @include svg-bg($arrow, $green, 0% 50%);
+    }
+  }
+
+  a {
+    font-weight: bold;
+    color: $green;
+  }
+
+  &.two-col {
+    @include medium {
+      column-count: 2;
+      column-gap: 2rem;
+    }
+
+    li {
+      margin: 0;
+      padding-bottom: 1rem;
+    }
+  }
+}

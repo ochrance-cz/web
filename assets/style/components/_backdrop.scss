@@ -1,0 +1,80 @@
+._backdrop {
+  @include medium {
+    padding: 3rem 0;
+    margin: 3rem 0;
+  }
+
+  & + .backdrop {
+    @include medium {
+      margin-top: -3rem;
+    }
+  }
+
+  section:first-child h2:first-child {
+    margin-top: 0;
+  }
+
+  &:last-child {
+    margin-bottom: 0;
+    padding-bottom: 3rem;
+  }
+
+  &.header {
+    background: $green-bright;
+
+    @include medium {
+      padding: 0;
+      margin: 0;
+    }
+  }
+
+  &.news {
+    background: $gray;
+  }
+
+  &.footer {
+    background: $green;
+    color: $white;
+    @include medium {
+      margin: 0;
+    }
+  }
+
+  &.cta {
+    background: $orange-bright;
+  }
+
+  &.pink {
+    background: $pink-bright;
+  }
+
+  &.orange {
+    background: $orange-bright;
+  }
+
+  &.green {
+    background: $green-bright;
+  }
+
+  &.overflow {
+    background: linear-gradient(
+      180deg,
+      $green-bright 4rem,
+      rgba(255, 255, 255, 0) 4rem
+    );
+
+    margin-top: 0;
+    padding-top: 0;
+  }
+
+  &.overflow-l {
+    background: linear-gradient(
+      180deg,
+      $green-bright 10rem,
+      rgba(255, 255, 255, 0) 10rem
+    );
+
+    margin-top: 0;
+    padding-top: 0;
+  }
+}

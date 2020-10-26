@@ -1,0 +1,32 @@
+._text-header {
+  padding: 2rem 1rem;
+
+  @include medium {
+    padding: 4rem 0 3rem;
+
+    h1,
+    p {
+      margin-left: 10vw;
+      margin-right: calc((100vw - 40rem) / 2);
+    }
+
+    .date {
+      margin-bottom: 0.5rem;
+
+      & + h1 {
+        margin-top: 0;
+        @include font-size-xxl;
+      }
+    }
+
+    .perex {
+      margin-top: 0;
+      margin-bottom: 0;
+
+      &.icon-info p:first-child::before {
+        padding-right: 0.5em;
+        @include fa-icon($fa-var-info-circle, $green);
+      }
+    }
+  }
+}

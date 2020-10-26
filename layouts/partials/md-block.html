@@ -1,0 +1,6 @@
+{{/*
+    https://discourse.gohugo.io/t/consistent-behavior-of-markdownify-for-single-multiple-paragaphs/8728/4
+*/}}
+{{- $raw := partial "typo.html" . }}
+{{- $block := findRE "(?is)^<(?:address|article|aside|blockquote|canvas|dd|div|dl|dt|fieldset|figcaption|figure|footer|form|h(?:1|2|3|4|5|6)|header|hgroup|hr|li|main|nav|noscript|ol|output|p|pre|section|table|tfoot|ul|video)\\b" $raw 1 -}}
+{{range $block }}{{ $raw }}{{ else }}<p>{{ $raw }}</p>{{ end -}}

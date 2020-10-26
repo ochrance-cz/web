@@ -1,0 +1,9 @@
+<div class="_collapsible">
+  <input type="checkbox" id="{{ .id }}" {{ with .open }}checked{{ end }}>
+  <div class="box">
+    <h3 class="title">
+      <label for="{{ .id }}">
+        {{ .title }}
+      </label>
+    </h3>
+    <div class="content">

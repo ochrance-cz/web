@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  {{ partial "meta.html" . }}
+
+  {{ $css := resources.Get "style/style.scss" | toCSS | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $css.RelPermalink }}">
+</head>
+
+<body>
+  {{ partial "alert-strip.html" . }}
+
+  {{ partial "site-header.html" . }}
+
+  {{ block "main" . }}
+  {{ end }}
+
+  {{ partial "site-footer.html" . }}
+
+  {{ $js := resources.Get "scripts/index.js" | minify | fingerprint }}
+  <script src="{{ $js.RelPermalink }}"></script>
+</body>
+</html>

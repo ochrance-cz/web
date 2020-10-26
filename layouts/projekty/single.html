@@ -1,0 +1,83 @@
+{{ define "main" }}
+<main>
+  {{ partial "text-header.html" . }}
+
+  <section>
+    <div class="_partners">
+      <h2>Partneři projektu</h2>
+
+      {{ range .Params.partners }}
+        {{ $partner := . }}
+        {{ with .logo }}
+          {{ $pic := $.Resources.GetMatch (replaceRE ".+/" "" .) }}
+          {{ with $pic }}
+            <img src="{{ ($pic).RelPermalink }}" alt="{{ $partner.name }}" aria-hidden="true">
+          {{ end }}
+        {{ end }}
+      {{ end }}
+    </div>
+
+    {{ with .Params.illustration }}
+    <figure aria-hidden="true">
+      {{ $pic := $.Resources.GetMatch (replaceRE ".+/" "" .pic) }}
+      {{ with $pic }}
+        <img class="_gray-pic" src="{{ ($pic.Resize "600x").RelPermalink }}" alt="">
+      {{ end }}
+      <figcaption>{{ .caption }}</figcaption>
+    </figure>
+    {{ end }}
+
+    {{ .Content }}
+
+    {{ with .Params.gallery }}
+      <div class="_gallery">
+        {{ range . }}
+          <div>
+            {{ $alt := .alt }}
+            {{ $pic := $.Resources.GetMatch (replaceRE ".+/" "" .pic) }}
+            {{ with $pic }}
+              <img src="{{ ($pic.Resize "400x").RelPermalink }}" alt="{{ $alt }}" aria-hidden="true">
+            {{ end }}
+          </div>
+        {{ end }}
+      </div>
+    {{ end }}
+  </section>
+
+  <div class="_backdrop news">
+    <section class="_news single-col">
+      <h2>Aktuálně [TODO filtrování]</h2>
+      {{ range sort (where (where .Site.Pages "Section" "aktualne") "Kind" "page") "Params.order" }}
+        {{ partial "news-preview.html" . }}
+      {{ end }}
+    </section>
+  </div>
+
+  <section>
+      {{ partial "md-block.html" .Params.bonus }}
+  </section>
+
+  <footer class="_footer-pic">
+    <div class="text">
+      <h2>
+        Chcete vidět víc?
+      </h2>
+
+      <p>Podívejte se na další činnosti ombudsmana</p>
+
+      <p><a href="/cinnost/" class="_button">Prohlédnout činnosti</a>
+
+    </div>
+
+    {{ $images := $.Site.GetPage "/images" }}
+    {{ $pic := $images.Resources.GetMatch (replaceRE ".+/" "" .Params.footerPic) }}
+    {{ with $pic }}
+      <div class="green-pic-wrapper">
+        <div class="green-pic">
+          <img src="{{ ($pic.Resize "600x").RelPermalink }}" alt="" aria-hidden="true">
+        </div>
+      </div>
+    {{ end }}
+  </footer>
+</main>
+{{ end }}

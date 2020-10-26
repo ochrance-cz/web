@@ -1,0 +1,50 @@
+{{ define "main" }}
+<main>
+  {{ partial "pic-header.html" . }}
+
+  <section>
+    <div class="perex">
+      {{ partial "md-block.html" .Params.description }}
+    </div>
+
+    <h2>Aktuální projekty</h2>
+
+    <ul class="_link-list">
+      {{ range where .Pages "Params.ongoing" true }}
+        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+      {{ end }}
+    </ul>
+
+    <h2>Minulé projekty</h2>
+
+    <ul class="_link-list">
+      {{ range where .Pages "Params.ongoing" false }}
+        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+      {{ end }}
+    </ul>
+  </section>
+
+  <footer class="_footer-pic">
+    <div class="text">
+      <h2>
+        Chcete vidět víc?
+      </h2>
+
+      <p>Podívejte se na další činnosti ombudsmana</p>
+
+      <p><a href="/cinnost/" class="_button">Prohlédnout činnosti</a>
+
+    </div>
+
+    {{ $images := $.Site.GetPage "/images" }}
+    {{ $pic := $images.Resources.GetMatch (replaceRE ".+/" "" .Params.footerPic) }}
+    {{ with $pic }}
+      <div class="green-pic-wrapper">
+        <div class="green-pic">
+          <img src="{{ ($pic.Resize "600x").RelPermalink }}" alt="" aria-hidden="true">
+        </div>
+      </div>
+    {{ end }}
+  </footer>
+</main>
+{{ end }}

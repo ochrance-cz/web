@@ -1,0 +1,33 @@
+{{ define "main" }}
+<main>
+  <header class="_home-header">
+    {{ $images := $.Site.GetPage "/images" }}
+    {{ range $images.Resources }}
+      {{ if eq .RelPermalink $.Params.headerPic }}
+        <img class="" src="{{ .RelPermalink }}">
+      {{ end }}
+    {{ end }}
+    <p class="motto">Pomáháme bez&nbsp;rozdílu</p>
+  </header>
+  <section class="_full two-col">
+    <h2>{{ .Params.situationsTitle }}</h2>
+    {{ partial "home-links.html" (where .Site.Pages "Section" "potrebuji-pomoc") }}
+  </section>
+
+  <div class="_backdrop news">
+    <section class="_news">
+      <h2>Aktuálně</h2>
+      {{ range sort (where (where .Site.Pages "Section" "aktualne") "Kind" "page") "Params.order" }}
+        {{ partial "news-preview.html" . }}
+      {{ end }}
+      <p><a href="/aktualne/" class="_button">Další aktuality</a></p>
+    </section>
+  </div>
+
+  <section class="_full two-col">
+    <h2>{{ .Params.institutionsTitle }}</h2>
+    {{ partial "home-links.html" (where .Site.Pages "Section" "instituce") }}
+  </section>
+
+</main>
+{{ end }}

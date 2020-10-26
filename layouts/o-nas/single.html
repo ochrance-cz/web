@@ -1,0 +1,75 @@
+{{ define "main" }}
+<main class="_about-person">
+  {{ partial "text-header.html" . }}
+
+  {{ with .Params.timeline }}
+    <section>
+      <dl class="timeline">
+        {{ range . }}
+          <dt>{{ .time }}</dt>
+          <dd>{{ .desc }}</dd>
+        {{ end }}
+      </dl>
+    </section>
+  {{ else }}
+
+    <div class="_backdrop overflow">
+      <section class="bio">
+        {{ partial "pic.html" (dict "pic" .Params.pic "Resources" .Resources "resize" "600x") }}
+
+        <div class="bio-text">
+          <h2>{{ .Params.name }}</h2>
+          {{ partial "md-block.html" .Params.bio }}
+        </div>
+      </section>
+    </div>
+
+    <section class="_full">
+      <blockquote class="big-quote">
+        {{ partial "md-block.html" .Params.quote }}
+      </blockquote>
+    </section>
+
+    <section>
+      <h2>{{ .Title }} má na starosti</h2>
+
+      <ul>
+        {{ range .Params.areas }}
+          <li>
+            <strong>{{ .area }}</strong>
+            {{ with .desc }}
+              <br>
+              {{ . }}
+            {{ end }}
+          </li>
+        {{ end }}
+      </ul>
+    </section>
+
+  {{ end }}
+
+  <footer class="_footer-pic">
+    <div class="text">
+      <h2>
+        Chcete vidět víc?
+      </h2>
+
+      <p>Podívejte se na další činnosti ombudsmana</p>
+
+      <p><a href="/cinnost/" class="_button">Prohlédnout činnosti</a>
+
+    </div>
+
+    {{ $images := $.Site.GetPage "/images" }}
+    {{ $pic := $images.Resources.GetMatch (replaceRE ".+/" "" .Params.footerPic) }}
+    {{ with $pic }}
+      <div class="green-pic-wrapper">
+        <div class="green-pic">
+          <img src="{{ ($pic.Resize "600x").RelPermalink }}" alt="" aria-hidden="true">
+        </div>
+      </div>
+    {{ end }}
+  </footer>
+
+</main>
+{{ end }}

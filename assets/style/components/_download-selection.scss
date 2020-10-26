@@ -1,0 +1,71 @@
+._download-collapsible {
+  width: 50%;
+  min-width: 20rem;
+
+  .box {
+    border-radius: 4px;
+    border: 1px solid $border-gray;
+  }
+
+  .title,
+  ul li {
+    margin: 0;
+    font-size: 1rem;
+    font-weight: normal;
+    display: block;
+    line-height: 2.5rem;
+    margin: 0;
+  }
+
+  .title::before {
+    float: right;
+    margin-right: 1rem;
+    @include fa-icon($fa-var-chevron-down);
+  }
+
+  a,
+  label {
+    display: block;
+    padding: 0 1rem;
+    cursor: pointer;
+  }
+
+  ul {
+    display: none;
+    padding-left: 0;
+    margin: 0;
+  }
+
+  a {
+    text-decoration: none;
+
+    &::before {
+      padding-right: 0.5em;
+
+      @include fa-icon($fa-var-arrow-alt-circle-down);
+    }
+
+    &:hover {
+      background: $green-bright;
+    }
+  }
+
+  input[type="checkbox"] {
+    display: none;
+
+    &:checked {
+      & ~ .box {
+        border-color: $green;
+        box-shadow: 2px 2px 10px #ccc;
+      }
+
+      & ~ .box .title::before {
+        @include fa-icon($fa-var-chevron-up);
+      }
+
+      & ~ .box ul {
+        display: block;
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+._collapsible {
+  .box {
+    border: solid $border-gray;
+    border-width: 1px 0;
+
+    .content {
+      display: none;
+      margin-top: 3rem;
+    }
+  }
+
+  .title {
+    label {
+      display: block;
+      cursor: pointer;
+
+      text-decoration: underline;
+      color: $green;
+    }
+
+    &::before {
+      float: right;
+      @include fa-icon($fa-var-chevron-down);
+      font-size: 1rem;
+      padding-left: 0.5rem;
+    }
+  }
+
+  input[type="checkbox"] {
+    display: none;
+
+    &:checked {
+      & ~ .box .title::before {
+        @include fa-icon($fa-var-chevron-up);
+        font-size: 1rem;
+      }
+
+      & ~ .box .content {
+        display: block;
+      }
+    }
+  }
+}

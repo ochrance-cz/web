@@ -1,0 +1,14 @@
+$break-small-min: 650px;
+$break-medium-min: 990px;
+
+@mixin small-only {
+  @media only screen and (max-width: $break-small-min - 0.01px) {
+    @content;
+  }
+}
+
+@mixin medium {
+  @media only screen and (min-width: $break-small-min) {
+    @content;
+  }
+}

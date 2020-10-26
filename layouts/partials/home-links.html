@@ -1,0 +1,12 @@
+{{ range sort (where . "Kind" "page") "Params.order" }}
+  <article class="_home-link">
+    <h3>
+      <a
+        href="{{ .RelPermalink }}"
+        class="icon-{{ with .Params.icon }}{{ . }}{{ else }}arrow{{ end }}">
+        {{- .Title -}}
+      </a>
+    </h3>
+    {{ partial "md-block.html" .Params.hp }}
+  </article>
+{{ end }}

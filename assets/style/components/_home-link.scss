@@ -1,0 +1,103 @@
+._home-link {
+  padding-left: 2rem;
+  h3 {
+    text-indent: -2rem;
+    @include font-size-l;
+    margin: 0 0 0.5rem;
+
+    a {
+      font-weight: bold;
+      color: $green;
+
+      &::before {
+        box-sizing: border-box;
+        content: " ";
+        display: inline-block;
+        width: 2rem;
+      }
+
+      &:hover {
+        color: $black;
+      }
+
+      &.icon-arrow {
+        &::before {
+          height: 1.2em;
+          vertical-align: bottom;
+
+          @include svg-bg($arrow, $green, 0% 50%);
+        }
+
+        &:hover {
+          &::before {
+            @include svg-bg($arrow, $black, 0% 50%);
+          }
+        }
+      }
+
+      &.icon-question {
+        &::before {
+          content: "?";
+          text-indent: 0;
+          text-align: center;
+          height: 2rem;
+
+          margin: 0 0.5rem 0 -0.5rem;
+
+          border: 2px solid $green;
+          border-radius: 2rem;
+        }
+
+        &:hover::before {
+          color: $green;
+        }
+      }
+
+      &.icon-kids {
+        &::before {
+          content: " ";
+          background-image: url(/images/deti.png);
+          background-repeat: no-repeat;
+          background-size: cover;
+          text-indent: 0;
+          text-align: center;
+          height: 2rem;
+
+          vertical-align: top;
+          margin: 0 0.5rem 0 -0.5rem;
+        }
+      }
+
+      &.icon-eso {
+        &::before {
+          @include svg-bg($ace, $green, 50% 50%);
+          background-size: 1.2em 1.2em;
+          font-size: 100%;
+          text-indent: 0;
+          text-align: center;
+          height: 2rem;
+
+          vertical-align: top;
+          margin: 0 0.5rem 0 -0.5rem;
+
+          border: 2px solid $green;
+          border-radius: 2rem;
+        }
+      }
+    }
+  }
+
+  p {
+    margin: 0.5rem 0;
+  }
+
+  @include small-only {
+    h3 {
+      margin-bottom: 1rem;
+    }
+
+    p {
+      display: none;
+    }
+  }
+}

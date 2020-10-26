@@ -1,0 +1,584 @@
+backend:
+  name: git-gateway
+  branch: master
+media_folder: content/media
+public_folder: /media
+site_domain: 'https://ecstatic-murdock-c02ed5.netlify.app'
+display_url: 'https://ecstatic-murdock-c02ed5.netlify.app'
+slug:
+  encoding: ascii
+  clean_accents: true
+  sanitize_replacement: _
+collections:
+  - name: singles
+    label: Stránky
+    editor:
+      preview: false
+    files:
+      - label: Homepage
+        name: home
+        file: content/_index.md
+        fields:
+          - label: Titulek
+            name: title
+            widget: string
+          - label: Lišta s upozorněním
+            name: warning
+            required: false
+            hint: 'Ponechte prázdné, pokud chcete lištu skrýt.'
+            widget: string
+          - label: Titulek sekce obecných situací
+            name: situationsTitle
+            required: false
+            widget: string
+          - label: Obecné situace
+            name: situations
+            required: false
+            label_singular: Situace
+            widget: list
+            fields:
+              - label: Titulek
+                name: title
+                widget: string
+              - label: Popis
+                name: description
+                required: false
+                widget: markdown
+              - label: Odkaz
+                name: link
+                required: false
+                widget: string
+          - label: Titulek sekce pro instituce
+            name: institutionsTitle
+            required: false
+            widget: string
+          - label: Stránky pro instituce
+            name: institutions
+            required: false
+            label_singular: Stránka
+            widget: list
+            fields:
+              - label: Titulek
+                name: title
+                widget: string
+              - label: Popis
+                name: description
+                required: false
+                widget: markdown
+              - label: Odkaz
+                name: link
+                required: false
+                widget: string
+          - label: Další weby
+            name: links
+            required: false
+            label_singular: Odkaz
+            widget: list
+            fields:
+              - label: Název
+                name: title
+                widget: string
+              - label: Odkaz
+                name: link
+                required: false
+                widget: string
+          - label: Titulek sekce Aktuálně
+            name: newsTitle
+            required: false
+            widget: string
+          - label: Tlačítko pro rozklik dalších aktualit
+            name: newsButton
+            required: false
+            widget: string
+      - label: Nevíte si rady?
+        name: rozcestnik
+        file: content/rozcestnik.md
+        fields:
+          - label: Titulek
+            name: title
+            widget: string
+          - label: Úvodní věta
+            name: intro
+            required: false
+            widget: string
+          - label: Závěrečná věta
+            name: outro
+            required: false
+            widget: string
+          - label: Závěrečné tlačítko
+            name: outroButton
+            required: false
+            widget: string
+          - label: Úvod k infolince
+            name: contactBoxIntro
+            required: false
+            widget: string
+      - label: Podání podnětu
+        name: proces
+        file: content/proces.md
+        fields:
+          - label: Titulek
+            name: title
+            widget: string
+          - label: Úvodní věta
+            name: methodsIntro
+            required: false
+            widget: string
+          - label: Způsoby podání
+            name: methods
+            required: false
+            label_singular: Způsob
+            widget: list
+            fields:
+              - label: Co ověřit
+                name: title
+                widget: string
+              - label: Možnosti/Způsoby/Odrážky
+                name: items
+                required: false
+                label_singular: Možnost/Způsob
+                widget: list
+                fields:
+                  - label: Možnost/způsob
+                    name: title
+                    widget: string
+                  - label: Ikona
+                    name: icon
+                    required: false
+                    widget: select
+                    options:
+                      - people
+                      - letter
+                      - inbox
+                      - email
+                  - label: Popis
+                    name: desc
+                    required: false
+                    widget: markdown
+              - label: Nezapomeňte na…
+                name: important
+                required: false
+                label_singular: Věc
+                widget: list
+                fields:
+                  - label: title
+                    name: Popis
+                    required: false
+                    widget: markdown
+              - label: Záverečný text
+                name: desc
+                required: false
+                widget: markdown
+          - label: Závěrečná věta
+            name: methodsOutro
+            required: false
+            widget: string
+          - label: Úvod k infolince
+            name: contactBoxIntro
+            required: false
+            widget: string
+      - label: O kanceláři
+        name: about
+        file: content/about.md
+        fields:
+          - label: Titulek
+            name: title
+            widget: string
+          - widget: object
+            label: Mise
+            name: mission
+            required: false
+            fields:
+              - label: Titulek
+                name: title
+                widget: string
+              - label: Popis
+                name: desc
+                required: false
+                widget: markdown
+          - widget: object
+            label: Ombudsman/ka
+            name: ombudsman
+            required: false
+            fields:
+              - label: Jméno
+                name: title
+                widget: string
+              - label: Role
+                name: role
+                required: false
+                widget: string
+              - label: Popis
+                name: desc
+                required: false
+                widget: string
+          - widget: object
+            label: Zástupce/kyně
+            name: vice
+            required: false
+            fields:
+              - label: Jméno
+                name: title
+                widget: string
+              - label: Role
+                name: role
+                required: false
+                widget: string
+              - label: Popis
+                name: desc
+                required: false
+                widget: string
+          - widget: object
+            label: Struktura úřadu
+            name: structure
+            required: false
+            fields:
+              - label: Vizualizace
+                name: pic
+                required: false
+                widget: file
+              - label: Popis
+                name: desc
+                required: false
+                widget: markdown
+          - widget: object
+            label: Provozní informace
+            name: provoz
+            required: false
+            fields:
+              - label: Titulek
+                name: title
+                widget: string
+              - label: Stránky
+                name: provoz
+                required: false
+                widget: relation
+                collection: provoz-kvop
+                valueField: title
+                searchFields:
+                  - title
+                multiple: true
+      - label: Kontakt
+        name: contact
+        file: content/contact.md
+        fields:
+          - label: Titulek
+            name: title
+            widget: string
+          - widget: object
+            label: Infolinka
+            name: infoline
+            required: false
+            fields:
+              - label: Titulek
+                name: title
+                widget: string
+              - label: Číslo
+                name: number
+                required: false
+                widget: string
+              - label: Provozní hodiny
+                name: open
+                required: false
+                widget: string
+          - widget: object
+            label: Chat
+            name: chat
+            required: false
+            fields:
+              - label: Titulek
+                name: title
+                widget: string
+              - label: Provozní hodiny
+                name: open
+                required: false
+                widget: string
+          - widget: object
+            label: E-mail
+            name: email
+            required: false
+            fields:
+              - label: Titulek
+                name: title
+                widget: string
+              - label: E-mailová adresa
+                name: address
+                required: false
+                widget: string
+              - label: Datová schránka
+                name: databox
+                required: false
+                widget: string
+          - widget: object
+            label: Navigace
+            name: location
+            required: false
+            fields:
+              - label: Titulek
+                name: title
+                widget: string
+              - label: Úvodní text
+                name: intro
+                required: false
+                widget: string
+              - label: Provozní doba
+                name: open
+                required: false
+                widget: string
+              - widget: object
+                label: Adresa
+                name: address
+                required: false
+                fields:
+                  - label: Název instituce
+                    name: title
+                    widget: string
+                  - label: Ulice
+                    name: street
+                    required: false
+                    widget: string
+                  - label: Město
+                    name: city
+                    required: false
+                    widget: string
+                  - label: PSČ
+                    name: zip
+                    required: false
+                    widget: string
+              - label: Pozice na mapě
+                name: geo
+                required: false
+                widget: map
+              - label: Titulek k popisům cest
+                name: navTitle
+                required: false
+                widget: string
+              - label: Popisy cest
+                name: routes
+                required: false
+                label_singular: Popis cesty
+                widget: list
+                fields:
+                  - label: Název
+                    name: title
+                    widget: string
+                  - label: Popis
+                    name: desc
+                    required: false
+                    widget: markdown
+      - label: Další informace
+        name: details
+        file: data/details.yml
+        fields:
+          - widget: object
+            label: Patička
+            name: footer
+            required: false
+            fields:
+              - widget: object
+                label: Zpravodaj
+                name: newsletter
+                required: false
+                fields:
+                  - label: Titulek
+                    name: title
+                    widget: string
+                  - label: Tlačítko
+                    name: button
+                    required: false
+                    widget: string
+                  - label: Souhlas s údaji
+                    name: privacy
+                    required: false
+                    widget: string
+              - widget: object
+                label: Rychlé odkazy
+                name: quick-links
+                required: false
+                fields:
+                  - label: Titulek
+                    name: title
+                    widget: string
+                  - label: Odkazy
+                    name: links
+                    required: false
+                    label_singular: Odkaz
+                    widget: list
+                    fields:
+                      - label: Název
+                        name: title
+                        widget: string
+                      - label: Odkaz
+                        name: link
+                        required: false
+                        widget: string
+              - label: Titulek kontaktu
+                name: contact
+                required: false
+                widget: string
+              - label: Copyright
+                name: copyright
+                required: false
+                widget: string
+              - label: Přístupnost
+                name: accessibility
+                required: false
+                widget: string
+  - name: os
+    label: Obecné situace
+    label_singular: Situace
+    folder: content/os
+    extension: md
+    editor:
+      preview: false
+    fields:
+      - label: Titulek
+        name: title
+        widget: string
+      - label: Úvodní věta
+        name: subtitle
+        required: false
+        widget: string
+      - label: 'Pomůžeme vám, když…'
+        name: wecan
+        required: false
+        label_singular: Věc
+        widget: list
+        fields:
+          - label: Název
+            name: title
+            widget: string
+          - label: Ukázka
+            name: example
+            required: false
+            widget: markdown
+      - label: S čím nepomůžeme
+        name: wecannot
+        required: false
+        label_singular: Věc
+        widget: list
+        fields:
+          - label: Název
+            name: title
+            widget: string
+          - label: Ukázka
+            name: example
+            required: false
+            widget: markdown
+      - widget: object
+        label: Příklad
+        name: example
+        required: false
+        hint: 'Ukázat, o jakou jde situaci a jak pomůže Ombudsman'
+        fields:
+          - label: Name
+            name: title
+            widget: string
+          - label: Citace
+            name: description
+            required: false
+            widget: markdown
+      - label: Relevantní kategorie životních situací
+        name: category
+        required: false
+        widget: relation
+        collection: zs-temata
+        valueField: title
+        searchFields:
+          - title
+        multiple: true
+    create: true
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: ''
+  - name: provoz-kvop
+    label: Provozní informace
+    label_singular: Sekce
+    folder: content/provoz
+    extension: md
+    editor:
+      preview: false
+    fields:
+      - label: Název sekce
+        name: title
+        widget: string
+      - label: Obsah
+        name: body
+        required: false
+        hint: >-
+          Cílem prototypu je zisk představy o konkrétním obsahu — zatím tedy
+          stačí nástřel v odrážkách.
+        widget: markdown
+    create: true
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: ''
+  - name: zs
+    label: Životní situace
+    label_singular: Situace
+    folder: content/zs
+    extension: md
+    editor:
+      preview: false
+    fields:
+      - label: Leták
+        name: title
+        widget: string
+      - label: Odkaz
+        name: link
+        required: false
+        widget: string
+      - label: Kategorie
+        name: tema
+        required: false
+        widget: relation
+        collection: zs-temata
+        valueField: title
+        searchFields:
+          - title
+        multiple: true
+      - label: Relevantní cílovky
+        name: cilovka
+        required: false
+        widget: relation
+        collection: zs-cilovky
+        valueField: title
+        searchFields:
+          - title
+        multiple: true
+    create: true
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: ''
+  - name: zs-cilovky
+    label: ŽS/Cílové skupiny
+    label_singular: Cílovka
+    folder: content/zs-cilovky
+    extension: md
+    editor:
+      preview: false
+    fields:
+      - label: Název cílovky
+        name: title
+        widget: string
+      - label: Poznámky
+        name: body
+        required: false
+        widget: markdown
+    create: true
+  - name: zs-temata
+    label: ŽS/Témata
+    label_singular: Téma
+    folder: content/zs-temata
+    extension: md
+    editor:
+      preview: false
+    fields:
+      - label: Název
+        name: title
+        widget: string
+      - label: Poznámky
+        name: body
+        required: false
+        widget: markdown
+    create: true
