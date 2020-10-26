@@ -131,6 +131,8 @@ p {
 }
 
 .perex {
+  margin: 2rem 0;
+
   @include medium {
     margin: 4rem 0;
   }

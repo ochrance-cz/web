@@ -28,43 +28,82 @@
   }
 
   .timeline {
-    margin: 4rem 0;
+    @include small-only {
+      dt {
+        font-weight: bold;
+        padding: 0 0 0 1.5rem;
 
-    @include grid(auto auto);
-    grid-gap: 0;
+        &::before {
+          position: relative;
+          top: -1.5px;
+          display: inline-block;
+          content: "⬤";
+          color: $green;
+          width: 2.9rem;
+          margin-left: -2.9rem;
+          text-align: center;
+        }
+      }
 
-    dt {
-      font-weight: bold;
-      text-align: right;
-      padding-right: 1.5rem;
+      dd {
+        margin: 0;
+        padding: 0 0 2rem 1.5rem;
+        position: relative;
+
+        &::after {
+          content: " ";
+          position: absolute;
+          top: -0.5rem;
+          left: 0;
+          height: calc(100% + 1rem);
+          border-left: 1px solid $green;
+        }
+
+        &:last-child::after {
+          display: none;
+        }
+      }
     }
 
-    dd {
-      margin: 0;
+    @include medium {
+      margin: 4rem 0;
 
-      padding: 0 0 1rem 1.5rem;
-      position: relative;
+      @include grid(auto auto);
+      grid-gap: 0;
 
-      &::before {
-        display: inline-block;
-        content: "⬤";
-        color: $green;
-        width: 2.9rem;
-        margin-left: -2.9rem;
-        text-align: center;
+      dt {
+        font-weight: bold;
+        text-align: right;
+        padding-right: 1.5rem;
       }
 
-      &::after {
-        content: " ";
-        position: absolute;
-        top: 1rem;
-        left: 0;
-        height: 100%;
-        border-left: 1px solid $green;
-      }
+      dd {
+        margin: 0;
 
-      &:last-child::after {
-        display: none;
+        padding: 0 0 1rem 1.5rem;
+        position: relative;
+
+        &::before {
+          display: inline-block;
+          content: "⬤";
+          color: $green;
+          width: 2.9rem;
+          margin-left: -2.9rem;
+          text-align: center;
+        }
+
+        &::after {
+          content: " ";
+          position: absolute;
+          top: 1rem;
+          left: 0;
+          height: 100%;
+          border-left: 1px solid $green;
+        }
+
+        &:last-child::after {
+          display: none;
+        }
       }
     }
   }
