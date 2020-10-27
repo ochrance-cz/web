@@ -46,9 +46,9 @@
       position: relative;
       z-index: 1;
       background: $green-bright;
-      padding: 1rem;
 
       @include small-only {
+        padding: 1rem;
         margin: 1rem -1rem 0;
       }
 
@@ -67,16 +67,15 @@
   }
 
   .map {
-    @include small-only {
-      margin: 0rem -1rem 1rem;
-    }
+    height: 40vh;
+    margin: 0 -1rem 1rem;
+    width: calc(100% + 2rem);
 
     @include medium {
+      margin: 0 auto 4rem;
       grid-column: 1 / -1;
       width: 80%;
     }
-    height: 40vh;
-    margin: 0 auto 4rem;
   }
 
   .digital {

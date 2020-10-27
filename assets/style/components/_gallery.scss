@@ -1,5 +1,7 @@
 ._gallery {
-  @include grid(1fr 1fr);
+  @include medium {
+    @include grid(1fr 1fr);
+  }
 
   img {
     display: block;

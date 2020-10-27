@@ -108,12 +108,19 @@
             display: block;
             padding: 0;
 
-            .subnav-header {
+            .dropdown-title {
               display: block;
+              background: transparent;
+              @include font-family-bread;
+              @include font-size-m;
+
               padding: 1rem 0.5rem 0;
               margin: 0 0 1rem;
-              border-top: 1px solid $border-gray;
+              border: solid $border-gray;
+              border-width: 1px 0 0;
               font-weight: bold;
+              width: 100%;
+              text-align: left;
             }
 
             ul {
@@ -189,86 +196,143 @@
       display: none;
     }
 
+    .dropdown-title {
+      background-color: transparent;
+      border: none;
+      @include font-family-bread;
+    }
+
     nav {
-      margin: 0;
-      color: $green;
-      padding-top: 2.75rem;
-      margin: 0;
+      padding: 2rem 1.5rem 1.5rem;
+      display: grid;
+      place-items: center;
 
-      li {
-        list-style-type: none;
-        white-space: nowrap;
-      }
+      > ul {
+        grid-auto-flow: column;
 
-      a {
-        color: $green;
-        text-decoration: none;
+        > li {
+          margin: 0 0.75rem;
 
-        &:hover {
-          text-decoration: underline;
-        }
-      }
+          a,
+          .dropdown-title {
+            margin: 0;
+            text-decoration: none;
+            display: inline-block;
+            color: $green;
+            @include font-size-m;
 
-      & > ul {
-        display: flex;
-        margin: 0;
-        padding-left: 1rem;
-
-        & > li {
-          padding-right: 1.5rem;
-        }
-
-        li.group ul {
-          display: flex;
-          padding: 0;
-          margin: 0;
-
-          li {
-            padding-right: 1.5rem;
-
-            &:last-child {
-              padding: 0;
-            }
-          }
-        }
-
-        li.subnav {
-          ul {
-            display: none;
-            width: 1px;
-            padding: 0;
-            margin-top: 1.5rem;
-
-            li {
-              margin-bottom: 1rem;
+            &:focus {
+              outline: none;
             }
           }
 
-          &:hover {
-            .subnav-header {
-              padding-bottom: 0.25rem;
+          > a,
+          &.group a,
+          .dropdown-title {
+            white-space: nowrap;
+            padding: 1rem 0rem 0.25rem;
+
+            &:hover,
+            &:focus {
               border-bottom: 1px solid $green;
             }
-
-            ul {
-              display: block;
-              margin-bottom: 0;
-              z-index: 1;
-
-              &::before {
-                position: absolute;
-                top: 0;
-                left: 0;
-                width: 100vw;
-                height: 100vh;
-                content: " ";
-                background: rgba(0, 0, 0, 0.3);
-                animation: fade-in 0.6s ease-out;
-                will-change: opacity;
-                z-index: -1;
-              }
-            }
           }
+        }
+      }
+
+      ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        display: grid;
+
+        li {
+          padding: 0;
+        }
+      }
+
+      li.group ul {
+        display: flex;
+        padding: 0;
+        margin: 0;
+
+        li {
+          padding-right: 1.5rem;
+
+          &:last-child {
+            padding: 0;
+          }
+        }
+      }
+    }
+
+    .dropdown {
+      .dropdown-title {
+        display: inline-flex;
+        align-items: center;
+      }
+
+      .dropdown-menu {
+        width: 5rem;
+        transform-origin: top center;
+        display: none;
+        padding: 0.5em 0;
+
+        &:hover {
+          display: block;
+        }
+
+        li {
+          margin: 0;
+        }
+
+        a {
+          white-space: nowrap;
+          color: $green;
+          display: block;
+          padding: 0.5rem 0;
+          width: 35vw;
+
+          &:hover {
+            text-decoration: underline;
+          }
+
+          &:focus {
+            outline: none;
+            text-decoration: underline;
+          }
+        }
+      }
+
+      &:hover,
+      &:focus-within {
+        .dropdown-title {
+          border-bottom: 1px solid $green;
+        }
+
+        .dropdown-menu {
+          display: block;
+
+          a {
+            opacity: 1;
+          }
+        }
+
+        &:after {
+          opacity: 1;
+        }
+
+        &::before {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100vw;
+          height: 100vh;
+          content: " ";
+          background: rgba(0, 0, 0, 0.3);
+          animation: fade-in 0.6s ease-out;
+          will-change: opacity;
+          z-index: -1;
         }
       }
     }

@@ -1,31 +1,8 @@
 ._backdrop {
-  @include medium {
-    padding: 3rem 0;
-    margin: 3rem 0;
-  }
-
-  & + .backdrop {
-    @include medium {
-      margin-top: -3rem;
-    }
-  }
-
-  section:first-child h2:first-child {
-    margin-top: 0;
-  }
-
-  &:last-child {
-    margin-bottom: 0;
-    padding-bottom: 3rem;
-  }
+  padding: 0.1px 0;
 
   &.header {
     background: $green-bright;
-
-    @include medium {
-      padding: 0;
-      margin: 0;
-    }
   }
 
   &.news {
@@ -35,9 +12,6 @@
   &.footer {
     background: $green;
     color: $white;
-    @include medium {
-      margin: 0;
-    }
   }
 
   &.cta {
@@ -63,7 +37,7 @@
       rgba(255, 255, 255, 0) 4rem
     );
 
-    margin-top: 0;
+    margin-top: -3rem;
     padding-top: 0;
   }
 
@@ -74,7 +48,7 @@
       rgba(255, 255, 255, 0) 10rem
     );
 
-    margin-top: 0;
+    margin-top: -3rem;
     padding-top: 0;
   }
 }

@@ -19,11 +19,13 @@ Stránky, které nemají odkaz, jsou zahrnuté v šablonách, ale neobsahují op
   - [Historie](/o-nas/historie/)
 - [Projekty](/projekty/)
   - [Ukázkový projekt](/projekty/posileni-aktivit/)
-- [Aktuálně](/aktualne/) (chybí filtrování)
+- [Aktuálně](/aktualne/) (bez filtrování)
   - [Ukázková aktualita](/aktualne/svoboda-slova-3/)
 - [Ukázková činnost](/cinnost/dohled-nad-omezovanim-osobni-svobody/)
 - Situace
   - Podstránka Situace
     - <del>Konkrétní situace</del> (bude pouze PDF)
 - Výstupy činností
+- Hledání
+- [Upozornění](/alert/)
 - [Kontakt](/kontakt/)

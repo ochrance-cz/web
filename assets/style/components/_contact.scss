@@ -1,8 +1,14 @@
 ._contact {
-  @include grid(4rem 1fr);
-  grid-gap: 1rem;
-  align-items: center;
-  margin: 1.5rem 0;
+  @include small-only {
+    text-align: center;
+  }
+
+  @include medium {
+    @include grid(4rem 1fr);
+    grid-gap: 1rem;
+    align-items: center;
+    margin: 1.5rem 0;
+  }
 
   p {
     margin: 0;
@@ -15,62 +21,20 @@
   }
 
   .img-wrapper {
-    height: 4rem;
-    width: 4rem;
-    border-radius: 2rem;
     overflow: hidden;
 
-    img {
-      display: block;
-      filter: grayscale(100%);
-      width: 100%;
-    }
-  }
-}
-
-._cta-contact {
-  @include medium {
-    max-width: 80vw;
-    @include grid(1fr 300px);
-  }
-
-  h2 {
-    margin-top: 1rem;
-    @include font-size-xl;
-  }
-
-  p {
-    font-weight: bold;
-    @include font-size-l;
-    white-space: nowrap;
-
-    a,
-    .phone {
-      color: $green;
+    @include small-only {
+      height: 40vw;
+      width: 40vw;
+      border-radius: 20vw;
+      margin: 3rem auto 1rem;
     }
 
-    .phone-label,
-    .email-label {
-      display: inline-block;
-
-      width: 2rem;
-      overflow: hidden;
+    @include medium {
+      height: 4rem;
+      width: 4rem;
+      border-radius: 2rem;
     }
-    .phone-label::before {
-      @include fa-icon($fa-var-phone-alt);
-      width: 2rem;
-    }
-    .email-label::before {
-      @include fa-icon($fa-var-envelope);
-      width: 2rem;
-    }
-  }
-
-  .img-wrapper {
-    height: 300px;
-    width: 300px;
-    border-radius: 150px;
-    overflow: hidden;
 
     img {
       display: block;

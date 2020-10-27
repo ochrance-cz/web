@@ -1,19 +1,9 @@
 ._about-person {
-  .bio {
-    @include grid(3fr 4fr);
-    grid-column-gap: 4rem;
-    max-width: 80vw;
-  }
-
   .img-wrapper {
     img {
       width: 100%;
       filter: grayscale(100%);
     }
-  }
-
-  .bio-text {
-    margin-top: 7rem;
   }
 
   .big-quote {
@@ -24,6 +14,18 @@
       @include font-size-xl;
       text-indent: -0.4em;
       max-width: 67%;
+    }
+  }
+
+  @include medium {
+    .bio {
+      @include grid(3fr 4fr);
+      grid-column-gap: 4rem;
+      max-width: 80vw;
+    }
+
+    .bio-text {
+      margin-top: 4rem;
     }
   }
 

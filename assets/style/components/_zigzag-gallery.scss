@@ -1,4 +1,23 @@
 ._zigzag-gallery {
+  @include small-only {
+    .item {
+      @include grid(1fr);
+      grid-gap: 1rem;
+
+      .img-wrapper {
+        grid-row: 2;
+      }
+
+      .description {
+        grid-row: 1;
+
+        h2 {
+          margin: 0;
+        }
+      }
+    }
+  }
+
   @include medium {
     max-width: 80vw;
     margin: 4rem auto;
@@ -35,15 +54,15 @@
         margin-bottom: 0;
       }
     }
+  }
 
-    .img-wrapper {
-      overflow: hidden;
+  .img-wrapper {
+    overflow: hidden;
 
-      img {
-        display: block;
-        filter: grayscale(100%);
-        width: 100%;
-      }
+    img {
+      display: block;
+      filter: grayscale(100%);
+      width: 100%;
     }
   }
 }

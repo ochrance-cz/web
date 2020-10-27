@@ -14,11 +14,13 @@
           </label>
         </h3>
 
-        <nav>
+        <nav aria-label="Hlavní menu">
           <ul>
-            <li class="subnav">
-              <span class="subnav-header">Potřebuji pomoc</span>
-              <ul>
+            <li class="dropdown">
+              <button type="button" class="dropdown-title" aria-controls="help-dropdown">
+                Potřebuji pomoc
+              </button>
+              <ul class="dropdown-menu" id="help-dropdown">
                 {{ range sort (where (where .Site.Pages "Section" "potrebuji-pomoc") "Kind" "page") "Params.order" }}
                   <li>
                     <a
@@ -29,14 +31,15 @@
                   </li>
                 {{ end }}
 
-
                 <li><a href="">Správa a evidence podnětů</a></li>
                 <li><a href="/eso/">Evidence stanovisek</a></li>
               </ul>
             </li>
-            <li class="subnav">
-              <span class="subnav-header">Pro instituce</span>
-              <ul>
+            <li class="dropdown">
+              <button type="button" class="dropdown-title" aria-controls="inst-dropdown">
+                Pro instituce
+              </button>
+              <ul class="dropdown-menu" id="inst-dropdown">
                 {{ range sort (where (where .Site.Pages "Section" "instituce") "Kind" "page") "Params.order" }}
                   <li>
                     <a
