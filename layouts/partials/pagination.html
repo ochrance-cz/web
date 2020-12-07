@@ -1,0 +1,47 @@
+{{ $pag := $.Paginator }}
+{{ if gt $pag.TotalPages 1 }}
+
+<section class="_pagination">
+  <nav aria-label="Stránkování">
+    <ul>
+      <li class="previous{{ if not $pag.HasPrev }} disabled{{ end }}">
+      <a {{ if $pag.HasPrev }}href="{{ $pag.Prev.URL }}"{{ end }} class="page-link" aria-label="Předchozí">
+        <span class="visuallyhidden">
+          Předchozí
+        </span>
+      </a>
+      </li>
+      {{ $ellipsed := false }}
+      {{ $shouldEllipse := false }}
+      {{ range $pag.Pagers }}
+      {{ $right := sub .TotalPages .PageNumber }}
+      {{ $showNumber := or (le .PageNumber 3) (eq $right 0) }}
+      {{ $showNumber := or $showNumber (and (gt .PageNumber (sub $pag.PageNumber 2)) (lt .PageNumber (add $pag.PageNumber 2)))  }}
+      {{ if $showNumber }}
+          {{ $ellipsed = false }}
+          {{ $shouldEllipse = false }}
+      {{ else }}
+          {{ $shouldEllipse = not $ellipsed }}
+          {{ $ellipsed = true }}
+      {{ end }}
+      {{ if $showNumber }}
+      <li class="{{ if eq . $pag }} active{{ end }}">
+        <a class="page-link" href="{{ .URL }}">
+          <span class="visuallyhidden">strana </span>{{ .PageNumber }}
+        </a>
+      </li>
+      {{ else if $shouldEllipse }}
+      <li class="disabled"><span aria-hidden="true">&nbsp;&hellip;&nbsp;</span></li>
+      {{ end }}
+      {{ end }}
+      <li class="next{{ if not $pag.HasNext }} disabled{{ end }}">
+        <a {{ if $pag.HasNext }}href="{{ $pag.Next.URL }}"{{ end }} class="page-link" aria-label="Následující">
+          <span class="visuallyhidden">
+            Následující
+          </span>
+        </a>
+      </li>
+    </ul>
+</nav>
+</section>
+{{ end }}

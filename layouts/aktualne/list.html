@@ -3,9 +3,11 @@
   {{ partial "text-header.html" . }}
 
   <section class="_news two-col">
-    {{ range .Pages }}
-      {{ partial "news-preview.html" . }}
+    {{ range (.Paginator 20).Pages }}
+        {{ partial "news-preview.html" . }}
     {{ end }}
+
+    {{ partial "pagination.html" . }}
   </section>
 </main>
 {{ end }}
