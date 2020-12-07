@@ -6,6 +6,8 @@
 
   {{ $css := resources.Get "style/style.scss" | toCSS | minify | fingerprint }}
   <link rel="stylesheet" href="{{ $css.RelPermalink }}">
+
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
 
 <body>
@@ -20,5 +22,17 @@
 
   {{ $js := resources.Get "scripts/index.js" | minify | fingerprint }}
   <script src="{{ $js.RelPermalink }}"></script>
+
+  <script>
+    if (window.netlifyIdentity) {
+      window.netlifyIdentity.on("init", user => {
+        if (!user) {
+          window.netlifyIdentity.on("login", () => {
+            document.location.href = "/admin/";
+          });
+        }
+      });
+    }
+  </script>
 </body>
 </html>
