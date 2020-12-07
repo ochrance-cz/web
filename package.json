@@ -1,0 +1,21 @@
+{
+  "name": "ombudsman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "fixCsv": "cd content/instituce/eso && iconv -f cp1250 -t utf8 export.csv | sed 's/\"/\"\"/g' | sed 's/;/\",\"/g' | sed 's/^/\"/g' | sed 's/$/\"/g' > export.fixed.csv",
+    "build": "deno run --allow-write ./config-gen/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jan-martinek/ochrance-cz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jan-martinek/ochrance-cz/issues"
+  },
+  "homepage": "https://github.com/jan-martinek/ochrance-cz#readme"
+}

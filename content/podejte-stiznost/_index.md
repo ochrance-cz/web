@@ -1,6 +1,6 @@
 ---
 title: Podejte stížnost
-description: Jakmile podnět přijmeme, **ozveme se vám nejpozději do 30 dnů.**
+description: Jakmile váš podnět (stížnost či upozornění) přijmeme, co nejdřív se vám ozveme, **nejpozději do 30 dnů.**
 descriptionInfoIcon: true
 email:
   - link: #
@@ -24,16 +24,12 @@ inperson:
   - link: #
     desc: Pro zobrazení čtečkou (.txt)
 submission:
-  title: Jak správně vyplnit podání?
+  title: Jak napsat podnět ombudsmanovi
   body: |
-    **Nezapomeňte na**
+    **Technické poznámky**
 
-    - Technický nosič zaslaný poštou Vám bude vrácen jen na výslovné požádání, při osobním doručení bude nosič vrácen obratem po zkopírování příslušných dat do datového úložiště podatelny.
-    - Celková velikost příchozí zprávy zasílané elektronickou poštou (e-mailem) a pomocí interaktivního on-line formuláře webové podatelny je omezena na maximálně 20 MB (včetně případných příloh). Stejné pravidlo jak je výše uvedeno platí pro předávané datové soubory.
-    - Osobním doručením technického nosiče dat na podatelnu Kanceláře veřejného ochránce práv, Údolní 39, 602 00 Brno v době pondělí až pátek v době od 8:00 do 16:00 hodin a následným zkopírováním příslušných dat do úložiště Kanceláře nebo zasláním nosiče poštou.
-  examples:
-    - ""
-    - ""
+    - Pokud podnět s přílohami zašlete poštou na technickém nosiči (CD ROM, Flash Disk), bude vám vrácen jen na výslovné požádání. Při osobním doručení vám nosič obratem vrátíme, pouze si zkopírujeme příslušné dokumenty do datového úložiště podatelny.
+    - Celková velikost příchozí zprávy zasílané e-mailem nebo pomocí interaktivního on-line formuláře je omezena na maximálně 20 MB. Zvažte tedy, jaké přílohy s podnětem zaslat a jestli není možné soubory zmenšit. Stejné pravidlo o maximální velikosti platí i pro dokumenty osobně předávané k nahrání na podatelně.
   example-links:
     - link: #
       desc: Pro vytištění (.pdf)

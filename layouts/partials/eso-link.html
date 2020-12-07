@@ -1,0 +1,11 @@
+{{ $data := . }}
+
+{{ with .id }}
+  {{ $ids := split . "/" }}
+  <form method="post" action="https://eso.ochrance.cz/Vyhledavani/Search">
+    <input type="hidden" name="PoradoveCislo" value="{{ index $ids 0 }}">
+    <input type="hidden" name="Rok" value="{{ index $ids 1 }}">
+    <input type="hidden" name="Agenda" value="{{ index $ids 2 }}">
+    <input type="submit" value="{{ $data.title }}">
+  </form>
+{{ end }}

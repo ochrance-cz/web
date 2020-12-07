@@ -17,7 +17,7 @@
   <div class="_backdrop news">
     <section class="_news">
       <h2>Aktuálně</h2>
-      {{ range sort (where (where .Site.Pages "Section" "aktualne") "Kind" "page") "Params.order" }}
+      {{ range first 3 (sort (where (where .Site.Pages "Section" "aktualne") "Kind" "page") "Params.order") }}
         {{ partial "news-preview.html" . }}
       {{ end }}
       <p><a href="/aktualne/" class="_button">Další aktuality</a></p>
@@ -26,7 +26,7 @@
 
   <section class="_full two-col">
     <h2>{{ .Params.institutionsTitle }}</h2>
-    {{ partial "home-links.html" (where .Site.Pages "Section" "instituce") }}
+    {{ partial "home-links.html" (where .Site.Pages "Section" "cinnost") }}
   </section>
 
 </main>

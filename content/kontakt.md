@@ -1,5 +1,6 @@
 ---
 title: Jsme tu pro vás
+menuTitle: Kontakt
 phone: 542 542 888
 email: podatelna@ochrance.cz
 dataId: jz5adky

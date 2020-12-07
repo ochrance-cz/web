@@ -12,13 +12,21 @@
         {{ block "portrait" . }}{{ end }}
       {{ end }}
     </section>
+
+    <section>
+      {{ .Content }}
+
+      {{ with .Params.links }}
+        {{ partial "link-list.html" . }}
+      {{ end }}
+    </section>
   </div>
 
   <div class="_backdrop cta">
     <section class="_full">
-      <h2>Činnosti kanceláře veřejného ochránce práv</h2>
+      <h2>Působnost ombudsmana</h2>
       <ul class="_link-list two-col">
-        {{ range where (where .Site.Pages "Section" "cinnost") "Kind" "page" }}
+        {{ range where (where .Site.Pages "Section" "pusobnost") "Kind" "page" }}
           <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
         {{ end }}
       </ul>

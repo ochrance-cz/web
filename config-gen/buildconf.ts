@@ -1,0 +1,362 @@
+import { stringify } from "https://deno.land/std/encoding/yaml.ts";
+
+interface Base {
+  name: string;
+  label: string;
+}
+
+interface Options {
+  required?: boolean;
+  hint?: string;
+  pattern?: [string, string];
+}
+
+interface BaseWidget extends Base, Options {}
+
+const base = (name: string, label: string, options?: Options) => {
+  const w: BaseWidget = { label, name };
+
+  if (name !== "title" && (!options || !options.required)) w.required = false;
+  if (options) {
+    if (options.hint) w.hint = options.hint;
+    if (options.pattern) w.pattern = options.pattern;
+  }
+
+  return w;
+};
+
+interface FileWidget extends BaseWidget {
+  widget: "file";
+}
+
+export const file = (
+  label: string,
+  name: string,
+  options?: Options
+): FileWidget => {
+  const w = { ...base(name, label, options), widget: "file" as const };
+
+  return w;
+};
+
+interface StringWidget extends BaseWidget {
+  widget: "string";
+}
+
+export const string = (
+  label: string,
+  name: string,
+  options?: Options
+): StringWidget => {
+  const w = { ...base(name, label, options), widget: "string" as const };
+
+  return w;
+};
+
+export const title = (label: string) => {
+  return string(label, "title", { required: true });
+};
+
+interface MarkdownWidget extends BaseWidget {
+  widget: "markdown";
+}
+
+export const markdown = (
+  label: string,
+  name: string,
+  options?: Options
+): MarkdownWidget => {
+  const w = { ...base(name, label, options), widget: "markdown" as const };
+
+  return w;
+};
+
+interface MapWidget extends BaseWidget {
+  widget: "map";
+}
+
+export const map = (
+  label: string,
+  name: string,
+  options?: Options
+): MapWidget => {
+  const w = { ...base(name, label, options), widget: "map" as const };
+
+  return w;
+};
+
+interface ListWidget extends BaseWidget {
+  widget: "list";
+  label_singular: string;
+  fields?: Widget[];
+  field?: Widget;
+}
+
+export const list = (
+  label: string,
+  label_singular: string,
+  name: string,
+  fields: Widget[] | Widget,
+  options?: Options
+): ListWidget => {
+  const w: ListWidget = {
+    ...base(name, label, options),
+    label_singular,
+    widget: "list" as const,
+  };
+
+  if (Array.isArray(fields)) w.fields = fields;
+  else w.field = fields;
+
+  checkDuplicates(Array.isArray(fields) ? fields : [fields], name);
+
+  return w;
+};
+
+interface ObjectWidget extends BaseWidget {
+  widget: "object";
+  fields: Widget[];
+}
+
+export const object = (
+  label: string,
+  name: string,
+  fields: Widget[],
+  options?: Options
+): ObjectWidget => {
+  const w = {
+    widget: "object" as const,
+    ...base(name, label, options),
+    fields,
+  };
+
+  checkDuplicates(fields, name);
+
+  return w;
+};
+
+interface SelectWidget extends BaseWidget {
+  widget: "select";
+  multiple?: boolean;
+  options: string[];
+}
+
+interface SelectOptions extends Options {
+  multiple?: boolean;
+}
+
+export const select = (
+  label: string,
+  name: string,
+  items: string[],
+  options?: SelectOptions
+): SelectWidget => {
+  const w: SelectWidget = {
+    ...base(name, label, options),
+    widget: "select" as const,
+    options: items,
+  };
+
+  if (options && options.multiple !== undefined) w.multiple = options.multiple;
+
+  return w;
+};
+
+interface DatetimeWidget extends BaseWidget {
+  widget: "datetime";
+  dateFormat: string | boolean;
+  timeFormat: string | boolean;
+}
+
+interface DatetimeOptions extends Options {
+  dateFormat?: string | boolean;
+  timeFormat?: string | boolean;
+}
+
+export const datetime = (
+  label: string,
+  name: string,
+  options?: DatetimeOptions
+): DatetimeWidget => {
+  const w: DatetimeWidget = {
+    ...base(name, label, options),
+    widget: "datetime" as const,
+    dateFormat:
+      options && options.dateFormat !== undefined
+        ? options.dateFormat
+        : "DD.MM.YYYY",
+    timeFormat:
+      options && options.timeFormat !== undefined
+        ? options.timeFormat
+        : "HH:mm",
+  };
+
+  return w;
+};
+
+interface RelationWidget extends BaseWidget {
+  widget: "relation";
+  collection: string;
+  valueField: string;
+  searchFields: string[];
+  multiple?: boolean;
+}
+
+interface RelationOptions extends Options {
+  collection: string;
+  valueField: string;
+  searchFields: string[];
+  multiple?: boolean;
+}
+
+export const relation = (
+  label: string,
+  name: string,
+  options: RelationOptions
+): RelationWidget => {
+  const { collection, valueField, searchFields, multiple } = options;
+
+  const w = {
+    ...base(name, label, options),
+    widget: "relation" as const,
+    collection,
+    valueField,
+    searchFields,
+    multiple,
+  };
+
+  return w;
+};
+
+type Widget =
+  | BaseWidget
+  | StringWidget
+  | MarkdownWidget
+  | ListWidget
+  | ObjectWidget
+  | SelectWidget
+  | RelationWidget;
+
+interface FileCollection extends Base {
+  file: string;
+  fields: Widget[];
+}
+
+export const fileCollection = (
+  label: string,
+  name: string,
+  file: string,
+  fields: Widget[]
+): FileCollection => {
+  checkDuplicates(fields, name);
+
+  return {
+    label,
+    name,
+    file,
+    fields,
+  };
+};
+
+interface Files {
+  name: string;
+  label: string;
+  editor: {
+    preview: boolean;
+  };
+  files: FileCollection[];
+}
+
+export const files = (
+  label: string,
+  name: string,
+  files: FileCollection[]
+): Files => {
+  checkDuplicates(files, name);
+
+  return {
+    name,
+    label,
+    editor: {
+      preview: false,
+    },
+    files,
+  };
+};
+
+interface FolderCollection {
+  name: string;
+  label: string;
+  label_singular: string;
+  folder: string;
+  extension: string;
+  create?: boolean;
+  path?: string;
+  media_folder?: string;
+  public_folder?: string;
+  editor: {
+    preview: boolean;
+  };
+  fields: Widget[];
+}
+
+interface FolderConfig {
+  folder: string;
+  extension: string;
+  create?: boolean;
+  path?: string;
+  media_folder?: string;
+  public_folder?: string;
+}
+
+export const folderCollection = (
+  label: string,
+  label_singular: string,
+  name: string,
+  folderConfig: FolderConfig,
+  fields: Widget[]
+): FolderCollection => {
+  const { folder, extension } = folderConfig;
+  checkDuplicates(fields, name);
+
+  const d: FolderCollection = {
+    name,
+    label,
+    label_singular,
+    folder,
+    extension,
+    editor: {
+      preview: false,
+    },
+    fields,
+  };
+
+  if (folderConfig.create === true) d.create = true;
+  if (folderConfig.path !== undefined) d.path = folderConfig.path;
+  if (folderConfig.media_folder !== undefined)
+    d.media_folder = folderConfig.media_folder;
+  if (folderConfig.public_folder !== undefined)
+    d.public_folder = folderConfig.public_folder;
+
+  return d;
+};
+
+const checkDuplicates = (items: Base[], name: string) => {
+  const duplicates = findDuplicates(items.map((f) => f.name));
+  if (duplicates.length > 0) {
+    throw new Error(
+      `Repeating name${duplicates.length > 1 ? "s" : ""} "${duplicates.join(
+        ", "
+      )}" in "${name}"!`
+    );
+  }
+};
+
+const findDuplicates = (arr: string[]) =>
+  arr.filter((item, index) => arr.indexOf(item) != index);
+
+export const save = (path: string, config: object) => {
+  const yaml = stringify(config);
+  const encoder = new TextEncoder();
+  Deno.writeFile(path, encoder.encode(yaml));
+};

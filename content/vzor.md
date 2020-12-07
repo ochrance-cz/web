@@ -21,7 +21,7 @@ Stránky, které nemají odkaz, jsou zahrnuté v šablonách, ale neobsahují op
   - [Ukázkový projekt](/projekty/posileni-aktivit/)
 - [Aktuálně](/aktualne/) (bez filtrování)
   - [Ukázková aktualita](/aktualne/svoboda-slova-3/)
-- [Ukázková činnost](/cinnost/dohled-nad-omezovanim-osobni-svobody/)
+- [Ukázková působnost](/pusobnost/dohled-nad-omezovanim-osobni-svobody/)
 - Situace
   - Podstránka Situace
     - <del>Konkrétní situace</del> (bude pouze PDF)

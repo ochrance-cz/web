@@ -30,7 +30,7 @@
 
     <h2>Osobně v Brně</h2>
 
-    <p>Pomůžeme vám sepsat stížnost, zastavte se u nás</p>
+    <p>Můžete si stáhnout formulář a už vyplněný ho přinést, nebo vám pomůžeme podnět na místě sepsat a podat. Stačí přijít v pracovní den v čase 8.00—16.00 na adresu:</p>
 
     <p>Kancelář veřejného ochránce práv<br>
       Údolní 39<br>
@@ -43,16 +43,19 @@
 
     <h2>Podání podnětu bez bariér</h2>
 
-    <p>Potřebujete podat podnět v českém znakovém jazyce nebo braillově písmu?</p>
+    <p>Potřebujete podat podnět v Braillově písmu, v českém znakovém jazyce nebo se dozvědět víc o přístupnosti budovy Kanceláře veřejného ochránce práv?</p>
 
     <p class="_button--wrapper">
       <a href="./braille/" class="_button">V braillově písmu</a>
       <a href="./czj/" class="_button">V českém znakovém jazyce</a>
+      <a href="/pristupnost/" class="_button">Přístup bez bariér</a>
     </p>
 
     <hr>
 
-    <h2 class="_icon-info">Jak správně vyplnit podání?</h2>
+    <h2 class="_icon-info">
+      {{- .Params.submission.title -}}
+    </h2>
 
     {{ partial "md-block.html" .Params.submission.body }}
 

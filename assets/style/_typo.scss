@@ -186,6 +186,10 @@ ul {
     li {
       list-style-type: none;
 
+      p {
+        display: inline;
+      }
+
       &:before {
         @include fa-icon($fa-var-check);
         margin-left: -2rem;
@@ -216,15 +220,34 @@ hr {
 }
 
 blockquote {
-  margin: 0 0 1.5rem;
+  margin: 0 0 2.5rem;
 
-  ._blockquote-body {
-    background: $green-bright;
-    border-radius: 4px;
-    padding: 1rem;
+  background: $green-bright;
+  border-radius: 4px;
+  padding: 1rem;
 
+  footer {
+    font-style: normal;
+    display: block;
+    height: 0;
+    margin-top: -1rem;
+    line-height: 2;
+
+    position: relative;
+    top: 1rem;
+    left: -1rem;
+  }
+
+  p:first-child {
+    margin-top: 0;
+  }
+
+  p:last-child {
+    margin-bottom: 0;
+  }
+
+  &.quotes {
     p:first-child {
-      margin-top: 0;
       text-indent: -0.4rem;
 
       &::before {
@@ -238,12 +261,6 @@ blockquote {
         content: "“";
       }
     }
-  }
-
-  cite {
-    font-style: normal;
-    display: block;
-    margin: 0.5rem 0;
   }
 }
 

@@ -4,11 +4,7 @@
 
   <section>
     {{ with .Params.links }}
-      <ul class="_link-list">
-        {{ range . }}
-          <li><a href="{{ .link }}">{{ .text }}</a></li>
-        {{ end }}
-      </ul>
+      {{ partial "link-list.html" . }}
 
       {{ $.Content }}
     {{ else }}

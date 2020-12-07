@@ -1,6 +1,7 @@
 ---
 title: Historie úřadu ombudsmana
 footerPic: podatelna.jpg
+order: 4
 timeline:
   - time: 2020
     desc: Ombudsman JUDr. Stanislav Křeček a zástupkyně ombudsmana Mgr. Monika Šimůnková

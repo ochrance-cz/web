@@ -5,6 +5,12 @@
       <div class="perex">
         {{ partial "md-block.html" .Params.perex }}
       </div>
+
+      {{ with .Content }}
+        {{ . }}
+      {{ end }}
+
+
       {{ with index .Params "we-can" }}
         <h2>Můžeme pomoci</h2>
 
@@ -17,16 +23,29 @@
 
       {{ with .Params.examples }}
         {{ partial "collapsible-open.html" (dict "id" "examples" "title" "Příklady řešených problémů" "open" true)}}
-        <h3></h3>
 
         {{ range . }}
           <blockquote>
-            <div class="_blockquote-body">
-              {{ partial "md-block.html" .desc }}
-            </div>
-            <cite>{{ .name }}</cite>
+            {{ partial "md-block.html" .desc }}
+            <footer>{{ .name }}</footer>
           </blockquote>
         {{ end }}
+        {{ partial "collapsible-close.html" }}
+
+      {{ end }}
+
+
+      {{ with .Params.whenToContact }}
+        {{ partial "collapsible-open.html" (dict "id" "when" "title" "Obracíte se na ombudsmana ve správný čas?" "open" false)}}
+
+        <ul>
+        {{ range . }}
+          <li>
+            {{ partial "md-block.html" . }}
+          </li>
+        {{ end }}
+        </ul>
+
         {{ partial "collapsible-close.html" }}
 
       {{ end }}
@@ -40,8 +59,10 @@
             <li>{{ partial "typo.html" . }}</li>
           {{ end }}
         </ul>
+      {{ end }}
 
-        <p><a class="_button" href="">Zjistěte co dělat</a></p>
+      {{ with .Params.button }}
+        <p><a class="_button" href="{{ .link }}">{{ .text }}</a></p>
       {{ end }}
     </section>
 

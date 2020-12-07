@@ -1,0 +1,23 @@
+{{ define "main" }}
+<main>
+  {{ partial "text-header.html" . }}
+
+  <div {{ with .Params.contentBackdrop }} class="{{ . }}"{{ end }}>
+    <section>
+      {{ with .Params.perex }}
+        <div class="perex">
+          {{ partial "md-block.html" . }}
+        </div>
+      {{ end }}
+
+    	{{ .Content }}
+
+      <p class="_icon-info">
+        Podívejte se na <a href="/cinnost/">výstupy z naší činnosti</a> nebo si <a href="/eso/">vyhledejte naše zajímavé případy</a>.
+      </p>
+    </section>
+
+    {{ partial "cta.html" . }}
+  </div>
+</main>
+{{ end }}

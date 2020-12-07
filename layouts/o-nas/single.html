@@ -12,40 +12,44 @@
       </dl>
     </section>
   {{ else }}
+    {{ if isset .Params "bio" }}
+      <div class="_backdrop overflow">
+        <section class="bio">
+          {{ partial "pic.html" (dict "pic" .Params.pic "Resources" .Resources "resize" "600x") }}
 
-    <div class="_backdrop overflow">
-      <section class="bio">
-        {{ partial "pic.html" (dict "pic" .Params.pic "Resources" .Resources "resize" "600x") }}
+          <div class="bio-text">
+            <h2>{{ .Params.name }}</h2>
+            {{ partial "md-block.html" .Params.bio }}
+          </div>
+        </section>
+      </div>
 
-        <div class="bio-text">
-          <h2>{{ .Params.name }}</h2>
-          {{ partial "md-block.html" .Params.bio }}
-        </div>
+      <section class="_full">
+        <blockquote class="big-quote">
+          {{ partial "md-block.html" .Params.quote }}
+        </blockquote>
       </section>
-    </div>
 
-    <section class="_full">
-      <blockquote class="big-quote">
-        {{ partial "md-block.html" .Params.quote }}
-      </blockquote>
-    </section>
+      <section>
+        <h2>{{ .Title }} má na starosti</h2>
 
-    <section>
-      <h2>{{ .Title }} má na starosti</h2>
-
-      <ul>
-        {{ range .Params.areas }}
-          <li>
-            <strong>{{ .area }}</strong>
-            {{ with .desc }}
-              <br>
-              {{ . }}
-            {{ end }}
-          </li>
-        {{ end }}
-      </ul>
-    </section>
-
+        <ul>
+          {{ range .Params.areas }}
+            <li>
+              <strong>{{ .area }}</strong>
+              {{ with .desc }}
+                <br>
+                {{ . }}
+              {{ end }}
+            </li>
+          {{ end }}
+        </ul>
+      </section>
+    {{ else }}
+      <section>
+        {{ .Content }}
+      </section>
+    {{ end }}
   {{ end }}
 
   <footer class="_footer-pic">
@@ -54,9 +58,9 @@
         Chcete vidět víc?
       </h2>
 
-      <p>Podívejte se na další činnosti ombudsmana</p>
+      <p>Podívejte se na další působnosti ombudsmana</p>
 
-      <p><a href="/cinnost/" class="_button">Prohlédnout činnosti</a>
+      <p><a href="/pusobnost/" class="_button">Prohlédnout působnost</a>
 
     </div>
 

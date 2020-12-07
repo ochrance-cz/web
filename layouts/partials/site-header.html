@@ -32,15 +32,15 @@
                 {{ end }}
 
                 <li><a href="">Správa a evidence podnětů</a></li>
-                <li><a href="/eso/">Evidence stanovisek</a></li>
+                <li class="_eso-link">{{ partial "link.html" ($.GetPage "/eso") }}</li>
               </ul>
             </li>
             <li class="dropdown">
               <button type="button" class="dropdown-title" aria-controls="inst-dropdown">
-                Pro instituce
+                Naše činnost
               </button>
               <ul class="dropdown-menu" id="inst-dropdown">
-                {{ range sort (where (where .Site.Pages "Section" "instituce") "Kind" "page") "Params.order" }}
+                {{ range sort (where (where .Site.Pages "Section" "cinnost") "Kind" "page") "Params.order" }}
                   <li>
                     <a
                       href="{{ .RelPermalink }}"
@@ -51,11 +51,27 @@
                 {{ end }}
               </ul>
             </li>
+            <!-- <li class="dropdown">
+              <button type="button" class="dropdown-title" aria-controls="about-us-dropdown">
+                O nás
+              </button>
+              <ul class="dropdown-menu" id="about-us-dropdown">
+                {{ range sort (where (where .Site.Pages "Section" "o-nas") "Kind" "page") "Params.order" }}
+                  <li>
+                    <a
+                      href="{{ .RelPermalink }}"
+                      class="icon-{{ with .Params.icon }}{{ . }}{{ else }}arrow{{ end }}">
+                      {{- .Title -}}
+                    </a>
+                  </li>
+                {{ end }}
+              </ul>
+            </li>-->
             <li class="group">
               <ul>
-                <li><a href="/o-nas/">O nás</a></li>
-                <li><a href="/aktualne/">Aktuálně</a></li>
-                <li><a href="/kontakt/">Kontakt</a></li>
+                <li>{{ partial "link.html" ($.GetPage "/o-nas") }}</li>
+                <li>{{ partial "link.html" ($.GetPage "/aktualne") }}</li>
+                <li>{{ partial "link.html" ($.GetPage "/kontakt") }}</li>
               </ul>
             </li>
             <li><a href="/hledat/" class="search">Hledání</a></li>

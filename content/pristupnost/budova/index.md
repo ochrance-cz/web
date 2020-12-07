@@ -14,7 +14,7 @@ gallery:
     desc: |
       ## Hlavní vstup do budovy
 
-      Hlavní vstup do budovy je po schodech. Nad hlavními dveřmi je akustický informační majáček. Naproti hlavního vstupu je recepce. Nalevo od recepce podatelna a dále také kanceláře osobního příjmu. Napravo od recepce je vstup do Sálu Otakara Motejla a dále do Malého sálu, kde probíhá většina veřejných akcí (přednášky, semináře, školení)
+      Hlavní vstup do budovy je po schodech. Nad hlavními dveřmi je akustický informační majáček. Naproti hlavního vstupu je recepce. Nalevo od recepce podatelna a dále také kanceláře osobního příjmu. Napravo od recepce je vstup do Sálu Otakara Motejla a dále do Malého sálu, kde probíhá většina veřejných akcí (přednášky, semináře, školení).
 
   - pic: kvop-03.JPG
     desc: |
@@ -31,7 +31,7 @@ gallery:
     desc: |
       ## Podatelna
 
-      Pokud přinášíte podnět osobně, můžete jej předat pracovnicím na podatelně a to ve všední dny od 8:00 - 16:00. Pracovnice od Vás podnět přeberou a následně předají k dalšímu zpracování.
+      Pokud přinášíte podnět osobně, můžete jej předat pracovnicím na podatelně a to ve všední dny od 8.00 do 16.00. Pracovnice od Vás podnět přeberou a následně předají k dalšímu zpracování.
 
   - pic: DSC_1119.JPG
     desc: |

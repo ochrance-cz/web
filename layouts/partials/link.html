@@ -1,0 +1,7 @@
+<a href="{{ .RelPermalink }}">
+  {{ with .Params.menuTitle }}
+    {{ . }}
+  {{ else }}
+    {{- .Title -}}
+  {{ end }}
+</a>

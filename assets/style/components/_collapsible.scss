@@ -5,24 +5,36 @@
 
     .content {
       display: none;
-      margin-top: 3rem;
+      padding: 0 0 1rem;
     }
   }
 
+  & + ._collapsible .box {
+    border-width: 0 0 1px;
+  }
+
   .title {
+    margin: 0;
+
     label {
       display: block;
+      padding: 1.5rem 0;
       cursor: pointer;
 
       text-decoration: underline;
       color: $green;
     }
 
+    &:hover label {
+      text-decoration: none;
+    }
+
     &::before {
+      pointer-events: none;
       float: right;
       @include fa-icon($fa-var-chevron-down);
       font-size: 1rem;
-      padding-left: 0.5rem;
+      padding: 1.8rem 0 0 0.5rem;
     }
   }
 

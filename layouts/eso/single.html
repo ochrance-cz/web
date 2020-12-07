@@ -1,0 +1,43 @@
+{{ define "main" }}
+<main>
+  {{ partial "text-header.html" . }}
+
+  <div {{ with .Params.contentBackdrop }} class="{{ . }}"{{ end }}>
+    <section>
+      {{ with .Params.perex }}
+        <div class="perex">
+          {{ partial "md-block.html" . }}
+        </div>
+      {{ end }}
+
+    	{{ .Content }}
+
+      {{ with .Params.eso }}
+        {{ with .form }}
+          {{ $selectedForm := . }}
+
+          {{ $data := getCSV "," "content/cinnost/eso/export.fixed.csv" }}
+          {{ range $data }}
+            {{ $id := index . 0 }}
+            {{ $area := index . 1 }}
+
+            {{ $title := index . 2 }}
+            {{ $titles := split $title ", " }}
+            {{ $form := index . 3 }}
+            {{ $date := index . 4 }}
+            {{ $summary := index . 5 }}
+
+            {{ if findRE $selectedForm $form }}
+              <article class="_eso-preview">
+                {{ partial "eso-link.html" (dict "id" $id "title" (print "Zpráva z návštěvy: " $title)) }}
+                {{ partial "md-block.html" (replaceRE "  +" "\n\n" $summary) }}
+                {{ printf "%%" $titles }}
+              </article>
+            {{ end }}
+          {{ end }}
+        {{ end }}
+      {{ end }}
+    </section>
+  </div>
+</main>
+{{ end }}

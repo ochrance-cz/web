@@ -3,10 +3,9 @@ title: Podejte stížnost v braillově písmu
 contact:
   name: Romana Jakešová
   email: romana.jakesova@ochrance.cz
-  phone: 123 456 789
   pic: romana.jpg
 ---
 
-## Mailem
+## E-mailem
 
-Pokud potřebujete odpověď formou braillova písma, dejte nám vědět
+Dejte nám vědět, pokud potřebujete odpověď v Braillově písmu.

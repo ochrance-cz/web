@@ -1,0 +1,14 @@
+{{ $random := delimit (shuffle (split (md5 (.Get 0)) "" )) "" }}
+<div class="_collapsible">
+  <input type="checkbox" id="{{ $random }}">
+  <div class="box">
+    <h3 class="title">
+      <label for="{{ $random }}">
+        {{ .Get 0 }}
+      </label>
+    </h3>
+    <div class="content">
+      {{ partial "md-block.html" .Inner }}
+    </div>
+  </div>
+</div>

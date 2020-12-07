@@ -9,6 +9,8 @@
   .big-quote {
     border: solid $border-gray;
     border-width: 1px 0;
+    border-radius: 0;
+    background: transparent;
 
     p {
       @include font-size-xl;
