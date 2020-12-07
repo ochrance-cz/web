@@ -80,7 +80,7 @@ const aktualne = folderCollection(
 save("./static/admin/config.yml", {
   backend: {
     name: "git-gateway",
-    branch: "master",
+    branch: "main",
   },
   media_folder: "content/media",
   public_folder: "/media",
