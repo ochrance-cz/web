@@ -25,12 +25,19 @@ const pic = (title: string, name: string) =>
   ]);
 
 const cta = () =>
-  object("Kontaktní patička", "cta", [
-    string("Nadpis", "title"),
-    string("Odkaz", "btnLink", {
-      hint: "Výchozí odkaz směřuje na stránku podání stížnosti.",
-    }),
-  ]);
+  object(
+    "Kontaktní patička",
+    "cta",
+    [
+      string("Nadpis", "title"),
+      string("Odkaz", "btnLink", {
+        hint: "Výchozí odkaz směřuje na stránku podání stížnosti.",
+      }),
+    ],
+    {
+      collapsed: true,
+    }
+  );
 
 const tags = [
   "Výroční zpráva",

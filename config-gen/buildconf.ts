@@ -116,19 +116,26 @@ export const list = (
 interface ObjectWidget extends BaseWidget {
   widget: "object";
   fields: Widget[];
+  collapsed?: boolean;
+}
+
+interface ObjectOptions extends Options {
+  collapsed?: boolean;
 }
 
 export const object = (
   label: string,
   name: string,
   fields: Widget[],
-  options?: Options
+  options?: ObjectOptions
 ): ObjectWidget => {
   const w = {
     widget: "object" as const,
     ...base(name, label, options),
     fields,
-  };
+  } as ObjectWidget;
+
+  if (options && options.collapsed) w.collapsed = true;
 
   checkDuplicates(fields, name);
 

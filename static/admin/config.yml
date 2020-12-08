@@ -127,6 +127,7 @@ collections:
             required: false
             hint: Výchozí odkaz směřuje na stránku podání stížnosti.
             widget: string
+        collapsed: true
     path: '{{slug}}/index'
     media_folder: ''
     public_folder: ''
