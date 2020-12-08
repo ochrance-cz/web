@@ -3,8 +3,8 @@ backend:
   branch: main
 media_folder: content/media
 public_folder: /media
-site_domain: "http://ochrance-preview.netlify.app"
-display_url: "http://ochrance-preview.netlify.app"
+site_domain: 'http://ochrance-preview.netlify.app'
+display_url: 'http://ochrance-preview.netlify.app'
 slug:
   encoding: ascii
   clean_accents: true
@@ -26,7 +26,7 @@ collections:
         required: false
         widget: datetime
         dateFormat: DD.MM.YYYY
-        timeFormat: "HH:mm"
+        timeFormat: false
       - label: Perex
         name: perex
         required: false
@@ -36,9 +36,9 @@ collections:
         required: false
         widget: markdown
     create: true
-    path: "{{slug}}/index"
-    media_folder: ""
-    public_folder: ""
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: ''
   - name: dokument
     label: Dokumenty
     label_singular: dokument
@@ -81,6 +81,52 @@ collections:
             required: false
             widget: file
     create: true
-    path: "{{slug}}/index"
-    media_folder: ""
-    public_folder: ""
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: ''
+  - name: pusobnost
+    label: Působnost
+    label_singular: Oblast
+    folder: content/pusobnost
+    extension: md
+    editor:
+      preview: false
+    fields:
+      - label: Název oblasti
+        name: title
+        widget: string
+      - label: Barva hlavičky
+        name: headerColor
+        required: false
+        widget: select
+        options:
+          - label: Zelená
+            value: green
+          - label: Růžová
+            value: pink
+          - label: Oranžová
+            value: orange
+      - label: Perex
+        name: perex
+        required: false
+        widget: markdown
+      - label: Text
+        name: body
+        required: false
+        widget: markdown
+      - widget: object
+        label: Kontaktní patička
+        name: cta
+        required: false
+        fields:
+          - label: Nadpis
+            name: title
+            widget: string
+          - label: Odkaz
+            name: btnLink
+            required: false
+            hint: Výchozí odkaz směřuje na stránku podání stížnosti.
+            widget: string
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: ''

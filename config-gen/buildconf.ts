@@ -135,10 +135,15 @@ export const object = (
   return w;
 };
 
+interface SelectItem {
+  label: string;
+  value: string;
+}
+
 interface SelectWidget extends BaseWidget {
   widget: "select";
   multiple?: boolean;
-  options: string[];
+  options: string[] | SelectItem[];
 }
 
 interface SelectOptions extends Options {
@@ -148,7 +153,7 @@ interface SelectOptions extends Options {
 export const select = (
   label: string,
   name: string,
-  items: string[],
+  items: string[] | SelectItem[],
   options?: SelectOptions
 ): SelectWidget => {
   const w: SelectWidget = {

@@ -24,6 +24,14 @@ const pic = (title: string, name: string) =>
     }),
   ]);
 
+const cta = () =>
+  object("Kontaktní patička", "cta", [
+    string("Nadpis", "title"),
+    string("Odkaz", "btnLink", {
+      hint: "Výchozí odkaz směřuje na stránku podání stížnosti.",
+    }),
+  ]);
+
 const tags = [
   "Výroční zpráva",
   "Publikace",
@@ -57,6 +65,32 @@ const dokument = folderCollection(
   ]
 );
 
+const headerColors = [
+  { label: "Zelená", value: "green" },
+  { label: "Růžová", value: "pink" },
+  { label: "Oranžová", value: "orange" },
+];
+
+const pusobnost = folderCollection(
+  "Působnost",
+  "Oblast",
+  "pusobnost",
+  {
+    folder: "content/pusobnost",
+    path: "{{slug}}/index",
+    extension: "md",
+    media_folder: "",
+    public_folder: "",
+  },
+  [
+    title("Název oblasti"),
+    select("Barva hlavičky", "headerColor", headerColors),
+    markdown("Perex", "perex"),
+    markdown("Text", "body"),
+    cta(),
+  ]
+);
+
 const aktualne = folderCollection(
   "Aktuality",
   "aktualita",
@@ -71,7 +105,7 @@ const aktualne = folderCollection(
   },
   [
     title("Titulek"),
-    datetime("Datum", "date"),
+    datetime("Datum", "date", { timeFormat: false }),
     markdown("Perex", "perex"),
     markdown("Text", "body"),
   ]
@@ -91,5 +125,5 @@ save("./static/admin/config.yml", {
     clean_accents: true,
     sanitize_replacement: "_",
   },
-  collections: [aktualne, dokument],
+  collections: [aktualne, dokument, pusobnost],
 });
