@@ -3,8 +3,8 @@ backend:
   branch: main
 media_folder: content/media
 public_folder: /media
-site_domain: 'http://ochrance-preview.netlify.app'
-display_url: 'http://ochrance-preview.netlify.app'
+site_domain: "http://ochrance-preview.netlify.app"
+display_url: "http://ochrance-preview.netlify.app"
 slug:
   encoding: ascii
   clean_accents: true
@@ -36,9 +36,9 @@ collections:
         required: false
         widget: markdown
     create: true
-    path: '{{slug}}/index'
-    media_folder: ''
-    public_folder: ''
+    path: "{{slug}}/index"
+    media_folder: ""
+    public_folder: ""
   - name: dokument
     label: Dokumenty
     label_singular: dokument
@@ -51,7 +51,7 @@ collections:
         name: title
         widget: string
       - label: Štítky
-        name: tags
+        name: document
         required: false
         widget: select
         options:
@@ -81,9 +81,9 @@ collections:
             required: false
             widget: file
     create: true
-    path: '{{slug}}/index'
-    media_folder: ''
-    public_folder: ''
+    path: "{{slug}}/index"
+    media_folder: ""
+    public_folder: ""
   - name: pusobnost
     label: Působnost
     label_singular: Oblast
@@ -128,6 +128,6 @@ collections:
             hint: Výchozí odkaz směřuje na stránku podání stížnosti.
             widget: string
         collapsed: true
-    path: '{{slug}}/index'
-    media_folder: ''
-    public_folder: ''
+    path: "{{slug}}/index"
+    media_folder: ""
+    public_folder: ""

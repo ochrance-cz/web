@@ -1,5 +1,6 @@
 ---
 title: Cítím se být diskriminován
+illustration: team-spirit-2447163__340.jpg
 order: 3
 hp: |
   Máte pocit, že s vámi někdo zachází hůř kvůli věku, pohlaví, národnosti či z jiných zákonem daných důvodů? Dopouští se diskriminace úřad, soukromá firma nebo místní samospráva?

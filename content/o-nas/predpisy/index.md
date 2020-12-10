@@ -1,5 +1,6 @@
 ---
 title: Právní předpisy
+illustration: predpisy.jpg
 ---
 
 Výčet odkazů na soubory PDF (?)

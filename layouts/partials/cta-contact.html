@@ -5,7 +5,7 @@
     </div>
 
     {{ $images := $.Site.GetPage "/images" }}
-    {{ $pic := $images.Resources.GetMatch "podatelna.jpg" }}
+    {{ $pic := $images.Resources.GetMatch "potrebujete-pomoc-vasickova.jpg" }}
     {{ with $pic }}
       <div class="img-wrapper">
         <img src="{{ $pic.RelPermalink }}">

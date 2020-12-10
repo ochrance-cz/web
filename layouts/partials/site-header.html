@@ -48,6 +48,18 @@
                       {{- .Title -}}
                     </a>
                   </li>
+
+                  {{ if eq .Params.order 1 }}
+                    {{ with .GetPage "/vystupy/" }}
+                      <li>
+                        <a
+                          href="{{ .RelPermalink }}"
+                          class="icon-{{ with .Params.icon }}{{ . }}{{ else }}arrow{{ end }}">
+                          {{- .Title -}}
+                        </a>
+                      </li>
+                    {{ end }}
+                  {{ end }}
                 {{ end }}
               </ul>
             </li>

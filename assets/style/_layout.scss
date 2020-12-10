@@ -50,10 +50,10 @@ article {
       }
     }
 
-    .green-pic-wrapper {
+    .single-hue-pic-wrapper {
       position: relative;
 
-      .green-pic {
+      .single-hue-pic {
         img {
           margin: 0;
           width: 100%;
@@ -84,7 +84,7 @@ article {
         height: 30vh;
         overflow: hidden;
 
-        .green-pic {
+        .single-hue-pic {
           img {
             height: 30vh;
             width: 100%;
@@ -95,7 +95,7 @@ article {
       @include medium {
         height: 100%;
 
-        .green-pic {
+        .single-hue-pic {
           position: absolute;
           top: 0;
           left: 0;
@@ -104,6 +104,14 @@ article {
         }
       }
     }
+  }
+
+  .pink .single-hue-pic-wrapper .single-hue-pic::after {
+    background: $pink;
+  }
+
+  .orange .single-hue-pic-wrapper .single-hue-pic::after {
+    background: $orange;
   }
 
   ._footer-pic {

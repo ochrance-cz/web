@@ -1,5 +1,6 @@
 ---
 title: Špatně zacházejí s lidmi omezenými na svobodě
+illustration: DET-23.png
 hp: |
   Zacházejí s vámi nebo vašim blízkým špatně v domově pro seniory, LDN, psychiatrické nemocnici, v dětském domově, věznici aj. a myslíte si, že by to měl ombudsman prověřit.
 order: 2

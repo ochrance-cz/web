@@ -40,13 +40,17 @@ const cta = () =>
   );
 
 const tags = [
-  "Výroční zpráva",
-  "Publikace",
-  "Připomínky k zákonům",
-  "Materiál pro vládu",
-  "Newsletter",
-  "Seriál na ČT",
-  "Bulletin k monitorování práv lidí s postižením",
+  { label: "Výroční zpráva", value: "vyrocni-zprava" },
+  { label: "Publikace", value: "publikace" },
+  { label: "Připomínky k zákonům", value: "pripominky" },
+  { label: "Materiál pro vládu", value: "pro-vladu" },
+  { label: "Newsletter", value: "newsletter" },
+  { label: "Seriál na ČT", value: "ct" },
+  { label: "Podcast", value: "podcast" },
+  {
+    label: "Bulletin k monitorování práv lidí s postižením",
+    value: "bulletin",
+  },
 ];
 
 const dokument = folderCollection(

@@ -1,6 +1,6 @@
 ---
 title: Mám problém s úřadem nebo státní institucí
-illustration: illu.jpg
+illustration: man-2785071_960_720.jpg
 hp: |
   Nesouhlasíte s rozhodnutím nebo postupem úřadu, úřad nejedná, i když by měl, rozhodování trvá dlouho, nebyl jste přizván jako účastník řízení, úředník se k vám chová nevhodně apod.
 order: 1

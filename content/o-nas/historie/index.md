@@ -1,6 +1,6 @@
 ---
 title: Historie úřadu ombudsmana
-footerPic: podatelna.jpg
+illustration: historie-budova.jpg
 order: 4
 timeline:
   - time: 2020

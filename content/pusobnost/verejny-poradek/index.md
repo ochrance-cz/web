@@ -1,6 +1,7 @@
 ---
 title: Veřejný pořádek
 headerColor: orange
+illustration: verejny-poradek-02.jpg
 cta:
   title: Řešíte takovou situaci a domníváte se, že vám ombudsman může pomoct?
 perex: |

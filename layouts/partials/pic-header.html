@@ -1,12 +1,19 @@
-<div class="_backdrop header">
+<div class="_backdrop header {{ with .Params.headerColor }}{{ . }}{{ end }}">
   <header class="_pic-header">
     <h1>{{ .Title }}</h1>
 
     {{ with .Params.illustration }}
-      <div class="green-pic-wrapper">
-        <div class="green-pic">
+      <div class="single-hue-pic-wrapper">
+        <div class="single-hue-pic">
           {{ $pic := $.Resources.GetMatch . }}
-          <img src="{{ ($pic.Resize "600x").RelPermalink }}" alt="" aria-hidden="true">
+          {{ with $pic }}
+            <img src="{{ (.Resize "600x").RelPermalink }}" alt="" aria-hidden="true">
+          {{ else }}
+            {{ $pic := ($.Site.GetPage "/images/").Resources.GetMatch (replaceRE "/?images/" "" .) }}
+            {{ with $pic }}
+              <img src="{{ (.Resize "600x").RelPermalink }}" alt="" aria-hidden="true">
+            {{ end }}
+          {{ end }}
         </div>
       </div>
     {{ end }}

@@ -4,7 +4,7 @@ contact:
   name: Robert Jungmann
   email: robert.jungmann@ochrance.cz
   phone: 725 988 016
-  pic: robert.jpg
+  pic: jungmann-02.jpg
 ---
 
 ## Formou videa

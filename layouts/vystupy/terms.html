@@ -1,0 +1,37 @@
+{{ define "main" }}
+<main>
+  {{ partial "pic-header.html" . }}
+
+  <div {{ with .Params.contentBackdrop }} class="{{ . }}"{{ end }}>
+    <section>
+      <ul class="_link-list">
+        {{ range where .Pages "Params.media" "ne" true }}
+          <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        {{ end }}
+      </ul>
+      <h2>Dokumenty v ESO</h2>
+      <ul class="_link-list">
+        {{ range where (where .Site.Pages "Section" "eso") "Kind" "page" }}
+          <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        {{ end }}
+      </ul>
+
+      <h2>Mediální výstupy</h2>
+
+      <ul class="_link-list">
+        {{ range where .Pages "Params.media" true }}
+          <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        {{ end }}
+      </ul>
+
+      {{ .Content }}
+
+      <p class="_icon-info">
+        Podívejte se na <a href="/cinnost/">výstupy z naší činnosti</a> nebo si <a href="/eso/">vyhledejte naše zajímavé případy</a>.
+      </p>
+    </section>
+
+    {{ partial "cta.html" . }}
+  </div>
+</main>
+{{ end }}

@@ -6,7 +6,7 @@
       {{ $pic := $res.GetMatch . }}
       {{ with $pic }}
         <div class="img-wrapper">
-          <img src="{{ ($pic.Resize "150x").RelPermalink }}" alt="" aria-hidden="true">
+          <img src="{{ ($pic.Resize "400x").RelPermalink }}" alt="" aria-hidden="true">
         </div>
       {{ end }}
     {{ end }}

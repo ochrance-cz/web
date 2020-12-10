@@ -6,6 +6,6 @@
     <input type="hidden" name="PoradoveCislo" value="{{ index $ids 0 }}">
     <input type="hidden" name="Rok" value="{{ index $ids 1 }}">
     <input type="hidden" name="Agenda" value="{{ index $ids 2 }}">
-    <input type="submit" value="{{ $data.title }}">
+    <input type="submit" value="{{ . }}">
   </form>
 {{ end }}

@@ -1,4 +1,4 @@
-{{ range sort (where . "Kind" "page") "Params.order" }}
+{{ define "link" }}
   <article class="_home-link">
     <h3>
       <a
@@ -9,4 +9,13 @@
     </h3>
     {{ partial "md-block.html" .Params.hp }}
   </article>
+{{ end }}
+
+{{ range sort (where . "Kind" "page") "Params.order" }}
+  {{ block "link" . }}{{ end }}
+  {{ if and (eq .Params.order 1) (eq .Section "cinnost")  }}
+    {{ with .GetPage "/vystupy/" }}
+      {{ block "link" . }}{{ end }}
+    {{ end }}
+  {{ end }}
 {{ end }}

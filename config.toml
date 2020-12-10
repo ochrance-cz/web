@@ -4,6 +4,9 @@ languageCode = "cs"
 title = "Obudsman"
 relativeurls = true
 
+[taxonomies]
+  vystup = "vystupy"
+
 [languages]
   [languages.cs]
     contentDir = "content"

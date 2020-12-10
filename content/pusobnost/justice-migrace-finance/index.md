@@ -1,6 +1,7 @@
 ---
 title: Justice, migrace, finance
 headerColor: pink
+illustration: justice.jpg
 perex: |
   Odbor justice, migrace a financí se ročně zabývá asi 1000 podnětů ze tří tematických skupin: státní správa soudnictví, cizinecké právo a daně, poplatky a cla
 ---
