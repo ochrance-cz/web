@@ -176,13 +176,13 @@ export const select = (
 
 interface DatetimeWidget extends BaseWidget {
   widget: "datetime";
-  dateFormat: string | boolean;
-  timeFormat: string | boolean;
+  date_format: string | boolean;
+  time_format: string | boolean;
 }
 
 interface DatetimeOptions extends Options {
-  dateFormat?: string | boolean;
-  timeFormat?: string | boolean;
+  date_format?: string | boolean;
+  time_format?: string | boolean;
 }
 
 export const datetime = (
@@ -193,13 +193,13 @@ export const datetime = (
   const w: DatetimeWidget = {
     ...base(name, label, options),
     widget: "datetime" as const,
-    dateFormat:
-      options && options.dateFormat !== undefined
-        ? options.dateFormat
+    date_format:
+      options && options.date_format !== undefined
+        ? options.date_format
         : "DD.MM.YYYY",
-    timeFormat:
-      options && options.timeFormat !== undefined
-        ? options.timeFormat
+    time_format:
+      options && options.time_format !== undefined
+        ? options.time_format
         : "HH:mm",
   };
 

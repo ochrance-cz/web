@@ -116,7 +116,7 @@ const aktualne = folderCollection(
   },
   [
     title("Titulek"),
-    datetime("Datum", "date", { timeFormat: false }),
+    datetime("Datum", "date", { time_format: false }),
     markdown("Perex", "perex"),
     markdown("Text", "body"),
   ]
