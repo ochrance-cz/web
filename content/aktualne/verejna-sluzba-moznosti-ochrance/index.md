@@ -1,5 +1,5 @@
 ---
-title: "Veřejná služba &ndash; možnosti ochránce"
+title: "Veřejná služba – možnosti ochránce"
 oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2012/verejna-sluzba-moznosti-ochrance"
 date: 2012-08-14
 perex: "<p>Ombudsman shromažďuje stížnosti a monitoruje situace ohledně bezplatné veřejné služby. Musí však respektovat, že jde o platnou právní úpravu, a nemá žádný přímý nástroj, jak situaci zmírnit či zvrátit.</p>"

@@ -2,7 +2,7 @@
 title: "Nová publikace Stanoviska 13 - Ochrana vod"
 oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2016/nova-publikace-stanoviska-13-ochrana-vod"
 date: 2016-04-28
-perex: "<p>Edicí Stanoviska se veřejný ochránce práv už od roku 2007 snaží usnadnit širší veřejnosti i úřadům orientaci v zákonech, prováděcích vyhláškách a rozsudcích správních soudů. Publikace s pořadovým číslem 13 - Ochrana vod &ndash; je tentokrát určena všem, kdo musí řešit záležitosti podle vodního práva, ať už jde například o budování studní, likvidaci odpadních vod, připojení staveb na vodovodní nebo kanalizační řad, ochranu před povodněmi apod.</p>"
+perex: "<p>Edicí Stanoviska se veřejný ochránce práv už od roku 2007 snaží usnadnit širší veřejnosti i úřadům orientaci v zákonech, prováděcích vyhláškách a rozsudcích správních soudů. Publikace s pořadovým číslem 13 - Ochrana vod – je tentokrát určena všem, kdo musí řešit záležitosti podle vodního práva, ať už jde například o budování studní, likvidaci odpadních vod, připojení staveb na vodovodní nebo kanalizační řad, ochranu před povodněmi apod.</p>"
 ---
 
 <!-- imported from the old website -->

@@ -1,5 +1,5 @@
 ---
-title: "Seriál Ochránce &ndash; 6. díl &ndash; důchody"
+title: "Seriál Ochránce – 6. díl – důchody"
 oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2012/serial-ochrance-6-dil-duchody"
 date: 2012-10-11
 perex: "<p>V neděli 14. 10. ve 11:00h vysílá ČT2 5. díl pořadu Ochránce, tentokrát o problémech s důchodem. Reprízu dílu uvidíte na ČT2 v úterý 16. 10. v 9:00h.</p>"

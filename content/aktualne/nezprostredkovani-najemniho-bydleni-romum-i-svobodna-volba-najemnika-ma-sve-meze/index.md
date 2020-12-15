@@ -1,5 +1,5 @@
 ---
-title: "Nezprostředkování nájemního bydlení Romům &ndash; i svobodná volba nájemníka má své meze"
+title: "Nezprostředkování nájemního bydlení Romům – i svobodná volba nájemníka má své meze"
 oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2014/nezprostredkovani-najemniho-bydleni-romum-i-svobodna-volba-najemnika-ma-sve-meze"
 date: 2014-12-22
 perex: "<p>V případě, že zveřejněná nabídka pronájmu nemovitosti, byť ve vlastnictví soukromé osoby, vylučuje příslušníky určitého etnika, dopouští se ten, kdo nabídku činí (vlastník či zprostředkovatel), přímé diskriminace těchto osob v přístupu k bydlení z důvodu etnicity. Realitního makléře jako zprostředkovatele nikterak nevyviňuje, že jednal na základě požadavku vlastníka nemovitosti.</p>"

@@ -1,5 +1,5 @@
 ---
-title: "„Síla vzdoru“ &ndash; dokument o právu na nezávislý život"
+title: "„Síla vzdoru“ – dokument o právu na nezávislý život"
 oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2019/sila-vzdoru-dokument-o-pravu-na-nezavisly-zivot"
 date: 2019-04-25
 perex: "<p>Právo žít nezávisle není a nebylo pro lidi s postižením samozřejmostí. Dokumentuje to i australský film Síla vzdoru, jehož premiérové promítání v České republice se uskuteční 6. května v Kanceláři veřejného ochránce práv v Brně. Filmový dokument je svědectvím o boji lidí, kteří už nechtěli, aby jiní rozhodovali za ně, aby je společnost zavírala do ústavů, a za svá práva se nebáli bojovat, demonstrovat, nechat se zatýkat.</p>"

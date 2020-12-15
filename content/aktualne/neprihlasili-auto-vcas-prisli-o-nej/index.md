@@ -1,5 +1,5 @@
 ---
-title: "Nepřihlásili auto včas &ndash; přišli o něj"
+title: "Nepřihlásili auto včas – přišli o něj"
 oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2016/neprihlasili-auto-vcas-prisli-o-nej"
 date: 2016-08-24
 perex: "<p>Vozidla, u nichž nebyl do 30. 6. 2015 zapsán v registru vozidel vlastník, administrativně zanikla. Lidé, kteří včas nesplnili svou povinnost a nezapsali se v registru silničních vozidel jako vlastníci, tak fakticky přišli o auta. Nemohou je nyní legálně používat a už je ani není možné znovu registrovat k silničnímu provozu. </p>"
