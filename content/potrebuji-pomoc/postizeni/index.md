@@ -1,6 +1,6 @@
 ---
 order: 4
-title: Potýkám se s problémy kvůli svému postižení.
+title: Potýkám se s problémy kvůli svému postižení
 hp: |
   Máte postižení a zažíváte kvůli tomu diskriminaci, nevstřícnost úřadů či špatné zacházení? Chcete nás upozornit na systémové problémy, třeba nedostupnost některých služeb, bariéry apod.?
 perex: |

@@ -56,7 +56,6 @@ we-can:
     * Náboženského vyznání
     * Víry, světového názoru
     * Státní příslušnosti
-    * .
   - |
     **V oblasti:**
 
