@@ -76,6 +76,46 @@ const dokument = folderCollection(
   ]
 );
 
+const pomoc = folderCollection(
+  "Potřebuji pomoc",
+  "Problematika",
+  "potrebuji-pomoc",
+  {
+    folder: "content/potrebuji-pomoc",
+    path: "{{slug}}/index",
+    extension: "md",
+    media_folder: "",
+    public_folder: "",
+  },
+  [
+    title("Titulek"),
+    markdown("Perex", "perex"),
+    markdown("Popisek na homepage", "hp"),
+    markdown("Úvodní text", "body"),
+    list(
+      "Seznam: můžeme pomoci",
+      "Situace",
+      "we-can",
+      markdown("Situace", "situation"),
+      { collapsed: false }
+    ),
+    list(
+      "Seznam: nemůžeme pomoci",
+      "Situace",
+      "we-cannot",
+      markdown("Situace", "situation"),
+      { collapsed: false }
+    ),
+    list("Příklady", "Příklad", "examples", [
+      string("Jméno", "name"),
+      markdown("Popis případu", "desc"),
+    ]),
+    object("Sekce „podejte podnět“", "button", [
+      string("Text na tlačítku", "text"),
+    ]),
+  ]
+);
+
 const headerColors = [
   { label: "Zelená", value: "green" },
   { label: "Růžová", value: "pink" },
@@ -136,5 +176,5 @@ save("./static/admin/config.yml", {
     clean_accents: true,
     sanitize_replacement: "_",
   },
-  collections: [aktualne, dokument, pusobnost],
+  collections: [aktualne, dokument, pusobnost, pomoc],
 });

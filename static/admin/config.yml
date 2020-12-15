@@ -140,3 +140,72 @@ collections:
     path: '{{slug}}/index'
     media_folder: ''
     public_folder: ''
+  - name: potrebuji-pomoc
+    label: Potřebuji pomoc
+    label_singular: Problematika
+    folder: content/potrebuji-pomoc
+    extension: md
+    editor:
+      preview: false
+    fields:
+      - label: Titulek
+        name: title
+        widget: string
+      - label: Perex
+        name: perex
+        required: false
+        widget: markdown
+      - label: Popisek na homepage
+        name: hp
+        required: false
+        widget: markdown
+      - label: Úvodní text
+        name: body
+        required: false
+        widget: markdown
+      - label: 'Seznam: můžeme pomoci'
+        name: we-can
+        required: false
+        label_singular: Situace
+        widget: list
+        field:
+          label: Situace
+          name: situation
+          required: false
+          widget: markdown
+      - label: 'Seznam: nemůžeme pomoci'
+        name: we-cannot
+        required: false
+        label_singular: Situace
+        widget: list
+        field:
+          label: Situace
+          name: situation
+          required: false
+          widget: markdown
+      - label: Příklady
+        name: examples
+        required: false
+        label_singular: Příklad
+        widget: list
+        fields:
+          - label: Jméno
+            name: name
+            required: false
+            widget: string
+          - label: Popis případu
+            name: desc
+            required: false
+            widget: markdown
+      - widget: object
+        label: Sekce „podejte podnět“
+        name: button
+        required: false
+        fields:
+          - label: Text na tlačítku
+            name: text
+            required: false
+            widget: string
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: ''

@@ -90,6 +90,11 @@ interface ListWidget extends BaseWidget {
   label_singular: string;
   fields?: Widget[];
   field?: Widget;
+  collapsed?: boolean;
+}
+
+interface ListOptions extends Options {
+  collapsed?: boolean;
 }
 
 export const list = (
@@ -97,7 +102,7 @@ export const list = (
   label_singular: string,
   name: string,
   fields: Widget[] | Widget,
-  options?: Options
+  options?: ListOptions
 ): ListWidget => {
   const w: ListWidget = {
     ...base(name, label, options),
@@ -107,6 +112,8 @@ export const list = (
 
   if (Array.isArray(fields)) w.fields = fields;
   else w.field = fields;
+
+  if (options && options.collapsed) w.collapsed = true;
 
   checkDuplicates(Array.isArray(fields) ? fields : [fields], name);
 
