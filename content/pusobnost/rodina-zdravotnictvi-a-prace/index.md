@@ -1,10 +1,11 @@
 ---
 title: Rodina, zdravotnictví a práce
-headerColor: pink
+headerColor: null
 illustration: rodina.jpg
+perex: Odbor rodiny, zdravotnictví a práce vyřídí ročně okolo 1200 podnětů, z
+  nichž přibližně 50 je od dětí.
 cta:
   title: Řešíte takovou situaci a domníváte se, že vám ombudsman může pomoct?
-perex: Odbor rodiny, zdravotnictví a práce vyřídí ročně okolo 1200 podnětů, z nichž přibližně 50 je od dětí.
 ---
 
 ## Rodina
