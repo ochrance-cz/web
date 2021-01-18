@@ -1,4 +1,34 @@
 ---
+title: Cítím se být diskriminován
+perex: Antidiskriminační zákon vyjmenovává konkrétní důvody, kvůli nimž s vámi
+  nesmí být odlišně zacházeno, a také oblasti, v nichž nesmí docházet k
+  nerovnému zacházení.
+hp: >
+  Máte pocit, že s vámi někdo zachází hůř kvůli věku, pohlaví, národnosti či z
+  jiných zákonem daných důvodů? Dopouští se diskriminace úřad, soukromá firma
+  nebo místní samospráva?
+we-can:
+  - |-
+    **Z důvodu:**
+
+    * Rasy, etnického původu, národnosti
+    * Pohlaví
+    * Sexuální orientace
+    * Věku
+    * Zdravotního postižení
+    * Náboženského vyznání
+    * Víry, světového názoru
+    * Státní příslušnosti
+  - |
+    **V oblasti:**
+
+    - Zaměstnávání, povolání, služebního poměru
+    - Přístupu k povolání a podnikání
+    - Vzdělání
+    - Sociálního zabezpečení
+    - Zdravotní péče
+    - Členství v profesních komorách a v odborech
+    - Zboží a služby včetně bydlení
 we-cannot:
   - >
     Ombudsman se může zabývat jen diskriminací uvedenou v antidiskriminačním
@@ -12,10 +42,6 @@ we-cannot:
   - >
     V těchto případech vám alespoň poradíme, co můžete dělat, jak můžete svůj
     problém řešit.
-hp: >
-  Máte pocit, že s vámi někdo zachází hůř kvůli věku, pohlaví, národnosti či z
-  jiných zákonem daných důvodů? Dopouští se diskriminace úřad, soukromá firma
-  nebo místní samospráva?
 examples:
   - desc: >
       Požádal jsem v práci o zkrácení úvazku, abych mohl vydělávat a zároveň se
@@ -41,32 +67,6 @@ examples:
     name: pan Karel
 order: 3
 illustration: team-spirit-2447163__340.jpg
-perex: >
-  Antidiskriminační zákon vyjmenovává konkrétní oblasti, v nichž nesmí docházet
-  k nerovnému zacházení, a to z důvodů, které zákon také vyjmenovává.
-we-can:
-  - |-
-    **Z důvodu:**
-
-    * Rasy, etnického původu, národnosti
-    * Pohlaví
-    * Sexuální orientace
-    * Věku
-    * Zdravotního postižení
-    * Náboženského vyznání
-    * Víry, světového názoru
-    * Státní příslušnosti
-  - |
-    **V oblasti:**
-
-    - Zaměstnávání, povolání, služebního poměru
-    - Přístupu k povolání a podnikání
-    - Vzdělání
-    - Sociálního zabezpečení
-    - Zdravotní péče
-    - Členství v profesních komorách a v odborech
-    - Zboží a služby včetně bydlení
 button:
   text: Zjistěte víc o diskriminaci v různých situacích
-title: Cítím se být diskriminován
 ---
