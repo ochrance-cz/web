@@ -2,16 +2,18 @@
 title: Dohled nad omezováním osobní svobody
 headerColor: pink
 illustration: DET.jpg
-perex: Ombudsman je tzv. národním preventivním mechanismem a chrání lidi omezené na svobodě před špatným zacházením. Odbor dohledu nad omezováním osobní svobody proto provádí návštěvy míst, kde se lidé omezení na svobodě nacházejí nebo mohou nacházet.
+perex: Ombudsman je tzv. národním preventivním mechanismem a chrání lidi omezené
+  na svobodě před špatným zacházením. Odbor dohledu nad omezováním osobní
+  svobody proto provádí návštěvy míst, kde se lidé omezení na svobodě nacházejí
+  nebo mohou nacházet.
 cta:
   title: Potřebujete pomoc ombudsmana?
   btnLink: /potrebuji-pomoc/omezeni-na-svobode/
   btnText: Podejte podnět
 ---
-
 Takovými místy jsou nejen věznice a policejní cely, ale také zařízení pro děti, domovy pro seniory, zařízení pro lidi se zdravotním postižením, léčebny pro dlouhodobě nemocné, psychiatrické nemocnice, kojenecké ústavy, zařízení pro zajištění cizinců aj..
 
-_Co je to národní preventivní mechanismus?_
+*Co je to národní preventivní mechanismus?*
 
 <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fverejny.ochrance.prav%2Fvideos%2F1213417502039257%2F&show_text=false&width=560" width="100%" height="450" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
@@ -25,7 +27,7 @@ Svá zjištění a doporučení týkající se podmínek v určitém typu zaří
 
 ### Počty provedených návštěv zařízení
 
-<table summary="" cellpadding="0" cellspacing="0" class="obecna_varianata2"><thead><tr><th scope="col" colspan="1" rowspan="1">Rok</th><th scope="col" colspan="1" rowspan="1">2006—2016</th><th>2017</th><th>2018</th><th>2019</th></tr></thead><tbody><tr><td>Počet návštěv</td><td>22</td><td>27</td><td>25</td></tr></tbody></table>
+<table summary="" cellpadding="0" cellspacing="0" class="obecna_varianata2"><thead><tr><th scope="col" colspan="1" rowspan="1">Rok</th><th scope="col" colspan="1" rowspan="1">2006—2016</th><th>2017</th><th>2018</th><th>2019</th></tr></thead><tbody><tr><td>Počet návštěv</td><td>387</td><td>22</td><td>27</td><td>25</td></tr></tbody></table>
 
 ### Typy navštívených zařízení
 
