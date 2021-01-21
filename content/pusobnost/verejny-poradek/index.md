@@ -14,7 +14,7 @@ Věnujeme se také pozemkovému právu, tj. hlavně činnosti katastrálních a 
 
 Ročně vyřídíme více než 2000 podnětů.
 
-
+ 
 
 > *Případ nepřístupné cesty k chatě*
 >
