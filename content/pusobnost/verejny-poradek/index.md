@@ -1,11 +1,15 @@
 ---
 title: Veřejný pořádek
-headerColor: orange
+headerColor: null
 illustration: verejny-poradek-02.jpg
+perex: >
+  Odbor veřejného pořádku řeší velkou škálu témat: přestupky (dopravními i proti
+  občanskému soužití), dopravně-správní agendou, která zahrnuje problematiku
+  veřejných cest, ale také dopravní značení, řidičská oprávnění apod., ochranou
+  spotřebitele, evidencí obyvatel a s tím souvisejícím vydáváním občanských
+  průkazy, cestovních pasů, činnosti matrik aj.
 cta:
   title: Řešíte takovou situaci a domníváte se, že vám ombudsman může pomoct?
-perex: |
-  Odbor veřejného pořádku řeší velkou škálu témat: přestupky (dopravními i proti občanskému soužití), dopravně-správní agendou, která zahrnuje problematiku veřejných cest, ale také dopravní značení, řidičská oprávnění apod., ochranou spotřebitele, evidencí obyvatel a s tím souvisejícím vydáváním občanských průkazy, cestovních pasů, činnosti matrik aj.
 ---
 
 Zabýváme se také pozemkovým právem, tj. hlavně činností katastrálních a pozemkových úřadů. Řešíme problémy ve státní službě a ve služebním poměru, poskytování informací, ochranu osobních údajů nebo postup Policie ČR (když nekoná jako orgán činný v trestním řízení).
