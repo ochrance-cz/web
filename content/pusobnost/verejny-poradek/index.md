@@ -10,7 +10,7 @@ perex: "Zabýváme se velkou škálou témat: přestupky (dopravními i proti
 cta:
   title: Řešíte takovou situaci a domníváte se, že vám ombudsman může pomoct?
 ---
-Zabýváme se také pozemkovým právem, tj. hlavně činností katastrálních a pozemkových úřadů. Řešíme problémy ve státní službě a ve služebním poměru, poskytování informací, ochranu osobních údajů nebo postup Policie ČR (když nekoná jako orgán činný v trestním řízení).
+Věnujeme se také pozemkovému právu, tj. hlavně činnosti katastrálních a pozemkových úřadů. Řešíme problémy ve státní službě a ve služebním poměru, poskytování informací, ochranu osobních údajů nebo postup Policie ČR (když nekoná jako orgán činný v trestním řízení).
 
 Ročně vyřídíme více než 2000 podnětů.
 
