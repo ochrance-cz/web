@@ -1,9 +1,13 @@
 ---
 title: Justice, migrace, finance
-headerColor: pink
+headerColor: null
 illustration: justice.jpg
-perex: |
-  Odbor justice, migrace a financí se ročně zabývá asi 1000 podnětů ze tří tematických skupin: státní správa soudnictví, cizinecké právo a daně, poplatky a cla
+perex: >
+  Odbor justice, migrace a financí se ročně zabývá asi 1000 podnětů ze tří
+  tematických skupin: státní správa soudnictví, cizinecké právo a daně, poplatky
+  a cla
+cta:
+  title: Řešíte takovou situaci a domníváte se, že vám ombudsman může pomoct?
 ---
 
 ## Státní správa soudů
