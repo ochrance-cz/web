@@ -9,7 +9,7 @@ order: 5
 perex: Jste v tíživé životní situaci a potřebujete pomoct?
 icon: question
 ---
-* [Bydlení](https://ochrance-preview.netlify.app/admin/#/collections/dokument/entries/resite_bydleni_najemne_rozuctovani_nakladu_davky_na_bydleni_stavebni_zavady/index)
+* [Bydlení](https://ochrance-preview.netlify.app/potrebuji-pomoc/nevite-si-rady/bydleni)
 * Dluhy a exekuce
 * Sociální pomoc, dávky a podpora
 * Soudy
