@@ -2,12 +2,14 @@
 title: Monitorování práv lidí s postižením
 illustration: monitorovani.jpg
 headerColor: green
-perex: Od roku 2018 monitorujeme, jak Česká republika naplňuje práva zakotvená Úmluvou OSN o právech osob se zdravotním postižením. O našich poznatcích informujeme Výbor OSN pro práva lidí s postižením a také vnitrostátní orgány.
+perex: Od roku 2018 monitorujeme, jak Česká republika naplňuje práva zakotvená
+  Úmluvou OSN o právech osob se zdravotním postižením. O našich poznatcích
+  informujeme Výbor OSN pro práva lidí s postižením a také vnitrostátní orgány.
 cta:
-  title: Řešíte problémy související s postižením a domníváte se, že vám ombudsman může pomoct?
+  title: Řešíte problémy související s postižením a domníváte se, že vám ombudsman
+    může pomoct?
 ---
-
-Za tímto účelem provádíme výzkumy, šetření a vypracováváme doporučení ke zlepšení situace lidí s postižením. Intenzivně přitom spolupracujeme právě s lidmi s postižením a s neziskovými organizacemi. Zbýváme se také postupem obcí jako veřejných opatrovníků.
+Za tímto účelem provádíme výzkumy, šetření a vypracováváme doporučení ke zlepšení situace lidí s postižením. Intenzivně přitom spolupracujeme právě s lidmi s postižením a s neziskovými organizacemi. 
 
 Naše činnost vychází z poznatků z praxe. Ombudsman má poradní orgán složený z lidí s postižením nebo lidí hájících práva lidí s postižením. Úkolem poradního orgánu je získávat podněty poukazující na systémové problémy, pomáhat při stanovování priorit a doporučení, stanovovat témata, kterým je třeba se v oblasti práv osob s postižením věnovat. Poradní orgán také zajišťuje informovanost lidí s postižením o činnosti ombudsmana.
 
@@ -16,11 +18,11 @@ Za účelem zapojení lidí s postižením do sledování naplňování Úmluv
 
 Poradní orgán
 
-- **předkládá** ombudsmanovi **systémová témata** v oblasti ochrany práv lidí s postižením,
-- **poskytuje** ombudsmanovi **konzultace** a praktické informace,
-- podílí se na **připomínkování právních předpisů** ombudsmanem a zaujímá stanoviska k jeho strategickým dokumentům týkajícím se práv lidí s postižením,
-- **získává podněty** od lidí s postižením, organizací hájících jejich práva a od pečujících osob,
-- **zajišťuje informovanost** lidí s postižením, organizací hájící jejich práva a široké veřejnosti o činnost ombudsmana v oblasti monitorování podle Úmluvy.
+* **předkládá** ombudsmanovi **systémová témata** v oblasti ochrany práv lidí s postižením,
+* **poskytuje** ombudsmanovi **konzultace** a praktické informace,
+* podílí se na **připomínkování právních předpisů** ombudsmanem a zaujímá stanoviska k jeho strategickým dokumentům týkajícím se práv lidí s postižením,
+* **získává podněty** od lidí s postižením, organizací hájících jejich práva a od pečujících osob,
+* **zajišťuje informovanost** lidí s postižením, organizací hájící jejich práva a široké veřejnosti o činnost ombudsmana v oblasti monitorování podle Úmluvy.
 
 Poradní orgán má [19 členů](https://www.ochrance.cz/monitorovani-prav-lidi-se-zdravotnim-postizenim/poradni-organ/clenove/). Jeho členy jsou lidé s postižením a lidé hájící práva lidí s postižením. Při jmenování členů poradního orgánu přihlíží ombudsman zejména k jejich **odbornosti a angažovanosti v oblasti ochrany práv lidí s postižením**.
 {{< /rozbal >}}
@@ -42,10 +44,10 @@ Klíčovou úlohou Výboru je **posuzovat zprávy smluvních států** o plněn
 
 #### Cyklus podávání zpráv
 
-1.  do 2 let od přijetí Úmluvy podá stát **úvodní zprávu** ,
-2.  po posouzení zprávy Výbor zašle státu **seznam otázek** (List of Issues),
-3.  stát poskytne Výboru **odpověď na seznam otázek** (Reply to List of Issues),
-4.  Výbor vydá **závěrečná doporučení** (Concluding Observations) a určí lhůtu, ve které má stát podat zprávu o jejich naplnění (Follow-up).
+1. do 2 let od přijetí Úmluvy podá stát **úvodní zprávu** ,
+2. po posouzení zprávy Výbor zašle státu **seznam otázek** (List of Issues),
+3. stát poskytne Výboru **odpověď na seznam otázek** (Reply to List of Issues),
+4. Výbor vydá **závěrečná doporučení** (Concluding Observations) a určí lhůtu, ve které má stát podat zprávu o jejich naplnění (Follow-up).
 
 ![](osn-cyklus.svg)
 
@@ -53,9 +55,9 @@ Poté předkládá stát **každé 4 roky doplňující zprávy** . Pokud stá 
 
 #### Zjednodušená procedura
 
-1.  Výbor zašle státu **seznam otázek**  (List of Issues prior to reporting),
-2.  stát poskytne Výboru **odpověď na seznam otázek**  – ta se považuje za doplňující zprávu,
-3.  Výbor vydá **závěrečná doporučení** (Concluding Observations) a určí lhůtu, ve které má stát podat zprávu o jejich naplnění (Follow-up).
+1. Výbor zašle státu **seznam otázek**  (List of Issues prior to reporting),
+2. stát poskytne Výboru **odpověď na seznam otázek**  – ta se považuje za doplňující zprávu,
+3. Výbor vydá **závěrečná doporučení** (Concluding Observations) a určí lhůtu, ve které má stát podat zprávu o jejich naplnění (Follow-up).
 
 ![](osn-cyklus-zkraceny.svg)
 
@@ -63,8 +65,8 @@ Poté předkládá stát **každé 4 roky doplňující zprávy** . Pokud stá 
 
 Vůči státům, které přijaly Opční protokol k Úmluvě, má Výbor navíc tyto pravomoci:
 
-1.  může přijímat a prošetřovat **individuální stížnosti** na porušení Úmluvy,
-2.  **z vlastní iniciativy** může **prošetřit podezření** , že se smluvní stát dopouští závažného nebo systematického porušování Úmluvy.
+1. může přijímat a prošetřovat **individuální stížnosti** na porušení Úmluvy,
+2. **z vlastní iniciativy** může **prošetřit podezření** , že se smluvní stát dopouští závažného nebo systematického porušování Úmluvy.
 
 ### Vydávání obecných komentářů
 
