@@ -9,7 +9,7 @@ hp: >
   nebo místní samospráva?
 we-can:
   - |-
-    **Z důvodu:**
+    **Když jste diskriminován z důvodu:**
 
     * Rasy, etnického původu, národnosti
     * Pohlaví
@@ -19,16 +19,16 @@ we-can:
     * Náboženského vyznání
     * Víry, světového názoru
     * Státní příslušnosti
-  - |
-    **V oblasti:**
+  - |-
+    **K nerovnému zacházení dochází v oblasti:**
 
-    - Zaměstnávání, povolání, služebního poměru
-    - Přístupu k povolání a podnikání
-    - Vzdělání
-    - Sociálního zabezpečení
-    - Zdravotní péče
-    - Členství v profesních komorách a v odborech
-    - Zboží a služby včetně bydlení
+    * Zaměstnávání, povolání, služebního poměru
+    * Přístupu k povolání a podnikání
+    * Vzdělání
+    * Sociálního zabezpečení
+    * Zdravotní péče
+    * Členství v profesních komorách a v odborech
+    * Zboží a služby včetně bydlení
 we-cannot:
   - >
     Ombudsman se může zabývat jen diskriminací uvedenou v antidiskriminačním
