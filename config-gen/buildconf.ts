@@ -303,7 +303,7 @@ export const files = (
   };
 };
 
-interface FolderCollection {
+export interface FolderCollection {
   name: string;
   label: string;
   label_singular: string;

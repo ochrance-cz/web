@@ -13,6 +13,7 @@ import {
   files,
   title,
   folderCollection,
+  FolderCollection,
 } from "./buildconf.ts";
 
 const pic = (title: string, name: string) =>
@@ -162,6 +163,14 @@ const aktualne = folderCollection(
   ]
 );
 
+const englishFolder = (collection: FolderCollection) => {
+  return {
+    ...collection,
+    label: `${collection.label} (EN)`,
+    folder: collection.folder.replace("content/", "content-en/"),
+  };
+};
+
 save("./static/admin/config.yml", {
   backend: {
     name: "git-gateway",
@@ -176,5 +185,5 @@ save("./static/admin/config.yml", {
     clean_accents: true,
     sanitize_replacement: "_",
   },
-  collections: [aktualne, dokument, pusobnost, pomoc],
+  collections: [aktualne, dokument, pusobnost, pomoc, englishFolder(aktualne)],
 });

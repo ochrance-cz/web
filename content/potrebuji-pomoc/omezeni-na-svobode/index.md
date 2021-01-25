@@ -19,7 +19,8 @@ we-cannot:
     jiným způsobem můžete svůj problém řešit.
 examples:
   - name: pan Oldřich
-    desc: Žiju v domově pro seniory a vadilo mi, že musím i přes den nosit pyžamo.
+    desc:
+      Žiju v domově pro seniory a vadilo mi, že musím i přes den nosit pyžamo.
       Proto jsem si stěžoval, když k nám přišla na kontrolu právnička od
       ombudsmana. Pomohlo to a teď můžeme všichni nosit přes den svoje normální
       oblečení.
@@ -29,21 +30,23 @@ examples:
       ombudsmanovi, ten to prošetřil. Ředitel pak změnil názor a začal mi
       propustky dávat.
   - name: paní Veronika
-    desc: Dříve jsme se ve vězení směly sprchovat v teplé vodě jen jednou týdně. Pak
+    desc:
+      Dříve jsme se ve vězení směly sprchovat v teplé vodě jen jednou týdně. Pak
       se tím začal zabývat ombudsman a změnila se vyhláška, takže dnes máme
       právo na sprchu dvakrát za týden.
 order: 2
 illustration: DET-23.png
 ---
+
 Kontrolujeme zařízení, kde jsou lidé omezeni na svobodě:
 
-* Domovy pro seniory
-* Domovy pro osoby se zdravotním postižením
-* Dětské domovy
-* Věznice
-* Policejní cely
-* Psychiatrické nemocnice
-* Léčebny dlouhodobě nemocných
-* Zařízení pro zajištění cizinců a další.
+- Domovy pro seniory
+- Domovy pro osoby se zdravotním postižením
+- Dětské domovy
+- Věznice
+- Policejní cely
+- Psychiatrické nemocnice
+- Léčebny dlouhodobě nemocných
+- Zařízení pro zajištění cizinců a další.
 
 Kontroly provádíme bez ohlášení, abychom zjistili, jak to v nich doopravdy vypadá, jak se v nich s lidmi zachází.

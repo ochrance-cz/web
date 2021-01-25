@@ -15,9 +15,9 @@ collections:
     label_singular: aktualita
     folder: content/aktualne
     extension: md
-    editor:
+    editor: &ref_0
       preview: false
-    fields:
+    fields: &ref_1
       - label: Titulek
         name: title
         widget: string
@@ -206,6 +206,17 @@ collections:
             name: text
             required: false
             widget: string
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: ''
+  - name: aktualne
+    label: Aktuality (EN)
+    label_singular: aktualita
+    folder: content-en/aktualne
+    extension: md
+    editor: *ref_0
+    fields: *ref_1
+    create: true
     path: '{{slug}}/index'
     media_folder: ''
     public_folder: ''
