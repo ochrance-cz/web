@@ -132,7 +132,7 @@ collections:
     editor:
       preview: false
     files:
-      - label: Veřejných ochránce práv
+      - label: Veřejný ochránce práv
         name: ombudsman
         file: content/o-nas/ombudsman/index.md
         fields: &ref_6
@@ -383,7 +383,7 @@ collections:
   - label: O nás (EN)
     name: onas-en
     files:
-      - label: Veřejných ochránce práv
+      - label: Veřejný ochránce práv
         name: ombudsman
         file: content-en/o-nas/ombudsman/index.md
         fields: *ref_6
