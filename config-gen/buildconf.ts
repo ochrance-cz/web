@@ -25,6 +25,20 @@ const base = (name: string, label: string, options?: Options) => {
   return w;
 };
 
+interface ImageWidget extends BaseWidget {
+  widget: "image";
+}
+
+export const image = (
+  label: string,
+  name: string,
+  options?: Options
+): ImageWidget => {
+  const w = { ...base(name, label, options), widget: "image" as const };
+
+  return w;
+};
+
 interface FileWidget extends BaseWidget {
   widget: "file";
 }
@@ -35,6 +49,16 @@ export const file = (
   options?: Options
 ): FileWidget => {
   const w = { ...base(name, label, options), widget: "file" as const };
+
+  return w;
+};
+
+interface HiddenWidget extends BaseWidget {
+  widget: "hidden";
+}
+
+export const hidden = (name: string, value: string): HiddenWidget => {
+  const w = { ...base(name, name), widget: "hidden" as const };
 
   return w;
 };
@@ -55,6 +79,20 @@ export const string = (
 
 export const title = (label: string) => {
   return string(label, "title", { required: true });
+};
+
+interface TextWidget extends BaseWidget {
+  widget: "text";
+}
+
+export const text = (
+  label: string,
+  name: string,
+  options?: Options
+): TextWidget => {
+  const w = { ...base(name, label, options), widget: "text" as const };
+
+  return w;
 };
 
 interface MarkdownWidget extends BaseWidget {
@@ -116,6 +154,20 @@ export const list = (
   if (options && options.collapsed) w.collapsed = true;
 
   checkDuplicates(Array.isArray(fields) ? fields : [fields], name);
+
+  return w;
+};
+
+interface BooleanWidget extends BaseWidget {
+  widget: "boolean";
+}
+
+export const boolean = (
+  label: string,
+  name: string,
+  options?: Options
+): BooleanWidget => {
+  const w = { ...base(name, label, options), widget: "boolean" as const };
 
   return w;
 };
@@ -256,28 +308,39 @@ type Widget =
   | SelectWidget
   | RelationWidget;
 
-interface FileCollection extends Base {
+export interface FileCollection extends Base {
   file: string;
   fields: Widget[];
+  media_folder?: string;
+}
+
+interface FileCollectionOptions {
+  media_folder?: string;
 }
 
 export const fileCollection = (
   label: string,
   name: string,
   file: string,
-  fields: Widget[]
+  fields: Widget[],
+  options?: FileCollectionOptions
 ): FileCollection => {
   checkDuplicates(fields, name);
 
-  return {
+  const col: FileCollection = {
     label,
     name,
     file,
     fields,
   };
+
+  if (options && options.media_folder !== undefined)
+    col["media_folder"] = options.media_folder;
+
+  return col;
 };
 
-interface Files {
+export interface Files {
   name: string;
   label: string;
   editor: {

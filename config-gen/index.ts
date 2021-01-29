@@ -1,15 +1,21 @@
 import {
   string,
+  hidden,
+  text,
   datetime,
   list,
   file,
+  image,
   markdown,
+  boolean,
   object,
   select,
   relation,
   map,
   save,
   fileCollection,
+  FileCollection,
+  Files,
   files,
   title,
   folderCollection,
@@ -53,6 +59,71 @@ const tags = [
     value: "bulletin",
   },
 ];
+
+const stranky = files("Stránky", "stranky", [
+  fileCollection("Varování", "varovani", "content/alert/_index.markdown", [
+    title("Titulek"),
+    boolean("Je varování aktivní?", "active"),
+    markdown("Podrobný popis", "body", {
+      hint:
+        "Titulek se zobrazí na titulní straně, detailní popis na samostatné stránce.",
+    }),
+  ]),
+  fileCollection(
+    "Zpracování osobních údajů",
+    "ou",
+    "content/info/zpracovani-ou.md",
+    [title("Titulek"), markdown("Popis", "body")]
+  ),
+]);
+
+const onas = files("O nás", "onas", [
+  fileCollection(
+    "Veřejný ochránce práv",
+    "ombudsman",
+    "content/o-nas/ombudsman/index.md",
+    [
+      title("Název role"),
+      string("Jméno", "name"),
+      image("Portrét", "pic"),
+      string("Citát / motto", "quote"),
+      markdown("Krátký životopis", "bio"),
+      list("Oblasti", "Oblast", "areas", [
+        string("Název", "area"),
+        string("Popis", "desc"),
+      ]),
+    ],
+    {
+      media_folder: "",
+    }
+  ),
+  fileCollection(
+    "Zástupce",
+    "deputy",
+    "content/o-nas/deputy/index.md",
+    [
+      title("Název role"),
+      string("Jméno", "name"),
+      image("Portrét", "pic"),
+      string("Citát / motto", "quote"),
+      markdown("Krátký životopis", "bio"),
+      list("Oblasti", "Oblast", "areas", [
+        string("Název", "area"),
+        text("Popis", "desc"),
+      ]),
+    ],
+    {
+      media_folder: "",
+    }
+  ),
+  fileCollection("Historie", "historie", "content/o-nas/historie/index.md", [
+    title("Titulek"),
+    list("Časová osa", "Událost", "timeline", [
+      string("Časové určení", "time"),
+      text("Popis", "desc"),
+    ]),
+  ]),
+]);
 
 const dokument = folderCollection(
   "Dokumenty",
@@ -121,6 +192,7 @@ const headerColors = [
   { label: "Zelená", value: "green" },
   { label: "Růžová", value: "pink" },
   { label: "Oranžová", value: "orange" },
+  { label: "Žlutozelená", value: "yellow" },
 ];
 
 const pusobnost = folderCollection(
@@ -166,8 +238,20 @@ const aktualne = folderCollection(
 const englishFolder = (collection: FolderCollection) => {
   return {
     ...collection,
+    name: `${collection.name}-en`,
     label: `${collection.label} (EN)`,
     folder: collection.folder.replace("content/", "content-en/"),
+  };
+};
+
+const englishFiles = (files: Files) => {
+  return {
+    label: `${files.label} (EN)`,
+    name: `${files.name}-en`,
+    files: files.files.map((file: FileCollection) => ({
+      ...file,
+      file: file.file.replace("content/", "content-en/"),
+    })),
   };
 };
 
@@ -185,5 +269,18 @@ save("./static/admin/config.yml", {
     clean_accents: true,
     sanitize_replacement: "_",
   },
-  collections: [aktualne, dokument, pusobnost, pomoc, englishFolder(aktualne)],
+  collections: [
+    stranky,
+    aktualne,
+    dokument,
+    onas,
+    pusobnost,
+    pomoc,
+    englishFiles(stranky),
+    englishFolder(aktualne),
+    englishFolder(dokument),
+    englishFiles(onas),
+    englishFolder(pusobnost),
+    englishFolder(pomoc),
+  ],
 });

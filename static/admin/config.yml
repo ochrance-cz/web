@@ -10,14 +10,48 @@ slug:
   clean_accents: true
   sanitize_replacement: _
 collections:
+  - name: stranky
+    label: Stránky
+    editor:
+      preview: false
+    files:
+      - label: Varování
+        name: varovani
+        file: content/alert/_index.markdown
+        fields: &ref_0
+          - label: Titulek
+            name: title
+            widget: string
+          - label: Je varování aktivní?
+            name: active
+            required: false
+            widget: boolean
+          - label: Podrobný popis
+            name: body
+            required: false
+            hint: >-
+              Titulek se zobrazí na titulní straně, detailní popis na samostatné
+              stránce.
+            widget: markdown
+      - label: Zpracování osobních údajů
+        name: ou
+        file: content/info/zpracovani-ou.md
+        fields: &ref_1
+          - label: Titulek
+            name: title
+            widget: string
+          - label: Popis
+            name: body
+            required: false
+            widget: markdown
   - name: aktualne
     label: Aktuality
     label_singular: aktualita
     folder: content/aktualne
     extension: md
-    editor: &ref_0
+    editor: &ref_2
       preview: false
-    fields: &ref_1
+    fields: &ref_3
       - label: Titulek
         name: title
         widget: string
@@ -44,9 +78,9 @@ collections:
     label_singular: dokument
     folder: content/dokument
     extension: md
-    editor:
+    editor: &ref_4
       preview: false
-    fields:
+    fields: &ref_5
       - label: Titulek
         name: title
         widget: string
@@ -93,14 +127,116 @@ collections:
     path: '{{slug}}/index'
     media_folder: ''
     public_folder: ''
+  - name: onas
+    label: O nás
+    editor:
+      preview: false
+    files:
+      - label: Veřejných ochránce práv
+        name: ombudsman
+        file: content/o-nas/ombudsman/index.md
+        fields: &ref_6
+          - label: Název role
+            name: title
+            widget: string
+          - label: Jméno
+            name: name
+            required: false
+            widget: string
+          - label: Portrét
+            name: pic
+            required: false
+            widget: image
+          - label: Citát / motto
+            name: quote
+            required: false
+            widget: string
+          - label: Krátký životopis
+            name: bio
+            required: false
+            widget: markdown
+          - label: Oblasti
+            name: areas
+            required: false
+            label_singular: Oblast
+            widget: list
+            fields:
+              - label: Název
+                name: area
+                required: false
+                widget: string
+              - label: Popis
+                name: desc
+                required: false
+                widget: string
+        media_folder: ''
+      - label: Zástupce
+        name: deputy
+        file: content/o-nas/deputy/index.md
+        fields: &ref_7
+          - label: Název role
+            name: title
+            widget: string
+          - label: Jméno
+            name: name
+            required: false
+            widget: string
+          - label: Portrét
+            name: pic
+            required: false
+            widget: image
+          - label: Citát / motto
+            name: quote
+            required: false
+            widget: string
+          - label: Krátký životopis
+            name: bio
+            required: false
+            widget: markdown
+          - label: Oblasti
+            name: areas
+            required: false
+            label_singular: Oblast
+            widget: list
+            fields:
+              - label: Název
+                name: area
+                required: false
+                widget: string
+              - label: Popis
+                name: desc
+                required: false
+                widget: text
+        media_folder: ''
+      - label: Historie
+        name: historie
+        file: content/o-nas/historie/index.md
+        fields: &ref_8
+          - label: Titulek
+            name: title
+            widget: string
+          - label: Časová osa
+            name: timeline
+            required: false
+            label_singular: Událost
+            widget: list
+            fields:
+              - label: Časové určení
+                name: time
+                required: false
+                widget: string
+              - label: Popis
+                name: desc
+                required: false
+                widget: text
   - name: pusobnost
     label: Působnost
     label_singular: Oblast
     folder: content/pusobnost
     extension: md
-    editor:
+    editor: &ref_9
       preview: false
-    fields:
+    fields: &ref_10
       - label: Název oblasti
         name: title
         widget: string
@@ -115,6 +251,8 @@ collections:
             value: pink
           - label: Oranžová
             value: orange
+          - label: Žlutozelená
+            value: yellow
       - label: Perex
         name: perex
         required: false
@@ -145,9 +283,9 @@ collections:
     label_singular: Problematika
     folder: content/potrebuji-pomoc
     extension: md
-    editor:
+    editor: &ref_11
       preview: false
-    fields:
+    fields: &ref_12
       - label: Titulek
         name: title
         widget: string
@@ -209,14 +347,73 @@ collections:
     path: '{{slug}}/index'
     media_folder: ''
     public_folder: ''
-  - name: aktualne
+  - label: Stránky (EN)
+    name: stranky-en
+    files:
+      - label: Varování
+        name: varovani
+        file: content-en/alert/_index.markdown
+        fields: *ref_0
+      - label: Zpracování osobních údajů
+        name: ou
+        file: content-en/info/zpracovani-ou.md
+        fields: *ref_1
+  - name: aktualne-en
     label: Aktuality (EN)
     label_singular: aktualita
     folder: content-en/aktualne
     extension: md
-    editor: *ref_0
-    fields: *ref_1
+    editor: *ref_2
+    fields: *ref_3
     create: true
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: ''
+  - name: dokument-en
+    label: Dokumenty (EN)
+    label_singular: dokument
+    folder: content-en/dokument
+    extension: md
+    editor: *ref_4
+    fields: *ref_5
+    create: true
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: ''
+  - label: O nás (EN)
+    name: onas-en
+    files:
+      - label: Veřejných ochránce práv
+        name: ombudsman
+        file: content-en/o-nas/ombudsman/index.md
+        fields: *ref_6
+        media_folder: ''
+      - label: Zástupce
+        name: deputy
+        file: content-en/o-nas/deputy/index.md
+        fields: *ref_7
+        media_folder: ''
+      - label: Historie
+        name: historie
+        file: content-en/o-nas/historie/index.md
+        fields: *ref_8
+  - name: pusobnost-en
+    label: Působnost (EN)
+    label_singular: Oblast
+    folder: content-en/pusobnost
+    extension: md
+    editor: *ref_9
+    fields: *ref_10
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: ''
+  - name: potrebuji-pomoc-en
+    label: Potřebuji pomoc (EN)
+    label_singular: Problematika
+    folder: content-en/potrebuji-pomoc
+    extension: md
+    editor: *ref_11
+    fields: *ref_12
     path: '{{slug}}/index'
     media_folder: ''
     public_folder: ''

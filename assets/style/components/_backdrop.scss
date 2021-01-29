@@ -30,6 +30,10 @@
     background: $green-bright;
   }
 
+  &.yellow {
+    background: $yellow-bright;
+  }
+
   &.overflow {
     background: linear-gradient(
       180deg,
