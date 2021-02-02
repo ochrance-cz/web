@@ -5,13 +5,11 @@ pic: krecek-vyrez2.jpg
 order: 1
 footerPic: /images/kontakt.jpg
 quote: „Na tomto místě bude osobní citace veřejného ochránce práv.“
-bio: >
-  JUDr. Stanislav Křeček se narodil 20. května 1938 v Praze. Vystudoval
-  průmyslovou školu geologickou, výtvarnou školu a Právnickou fakultu Univerzity
-  Karlovy. Po jejím absolvování se stal soudním čekatelem u Městského soudu v
-  Praze. Poté, co byl v 70. letech 20. století nucen z politických důvodů
-  justici opustit, pracoval jako výtvarník, geolog, horník, dělník aj. Od roku
-  1990 se věnoval advokacii.
+bio: >-
+  Funkční období od 19. února 2020
+
+
+  JUDr. Stanislav Křeček se narodil 20. května 1938 v Praze. Vystudoval průmyslovou školu geologickou, výtvarnou školu a Právnickou fakultu Univerzity Karlovy. Po jejím absolvování se stal soudním čekatelem u Městského soudu v Praze. Poté, co byl v 70. letech 20. století nucen z politických důvodů justici opustit, pracoval jako výtvarník, geolog, horník, dělník aj. Od roku 1990 se věnoval advokacii.
 
 
   V letech 2006 – 2010 zasedal v zastupitelstvu Městské části Praha 2.
@@ -20,10 +18,10 @@ bio: >
   Od roku 1998 do dubna 2013 byl poslancem za ČSSD v Poslanecké sněmovně Parlamentu ČR.
 
 
-  3\. dubna 2013 byl zvolen zástupcem veřejného ochránce práv a v souladu se zákonem se poslaneckého mandátu vzdal. Funkci zástupce veřejného ochránce práv vykonával od 5. 4. 2013 do 3. 12. 2019.
+  3. dubna 2013 byl zvolen zástupcem veřejného ochránce práv a v souladu se zákonem se poslaneckého mandátu vzdal. Funkci zástupce veřejného ochránce práv vykonával od 5. 4. 2013 do 3. 12. 2019.
 
 
-  12\. února 2020 byl zvolen veřejným ochráncem práv.
+  12. února 2020 byl zvolen veřejným ochráncem práv.
 
 
   Dlouhodobě se věnuje problematice nájemních vztahů – v roce 1991 se stal spoluzakladatelem a předsedou Sdružení na ochranu nájemníků.
