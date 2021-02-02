@@ -1,7 +1,7 @@
 ---
 title: Veřejný ochránce práv
 name: JUDr. Stanislav Křeček
-pic: krecek-vyrez.jpg
+pic: krecek-vyrez2.jpg
 order: 1
 footerPic: /images/kontakt.jpg
 quote: „Na tomto místě bude osobní citace veřejného ochránce práv.“
