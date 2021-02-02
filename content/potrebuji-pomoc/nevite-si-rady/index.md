@@ -9,7 +9,7 @@ order: 5
 perex: Jste v tíživé životní situaci a potřebujete pomoct?
 icon: question
 ---
-* [Bydlení](https://ochrance-preview.netlify.app/potrebuji-pomoc/nevite-si-rady/bydleni)
+* Bydlení
 * Dluhy a exekuce
 * Sociální pomoc, dávky a podpora
 * Soudy
