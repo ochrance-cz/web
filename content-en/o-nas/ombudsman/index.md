@@ -1,6 +1,6 @@
 ---
-title: Veřejný ochránce práv
-name: JUDr. Stanislav Křeček
+title: Public Defender of Rights
+name: Stanislav Křeček
 pic: krecek-vyrez.jpg
 bio: >-
   In office since 19 February 2020
