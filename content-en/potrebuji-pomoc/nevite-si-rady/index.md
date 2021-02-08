@@ -1,29 +1,29 @@
 ---
-title: Nevím si rady se svou životní situací
+title: I am not sure how to deal with a difficult life situation
 illustration: nevite-si-rady.jpg
-hp: >
-  Podívejte se na naše rady, jak řešit problémy třeba s exekucí, vlekoucím se
-  soudním řízením, se stavebním povolením, šikanou v práci, důchodem nebo
-  sociálními dávkami, kontaktem s dětmi po rozvodu, s přestupky aj.
+hp: Read through our recommendations on how to deal with certain problems, such
+  as debt enforcement, lengthy court proceedings, obtaining a construction
+  permit, bullying at work, pension and social benefits, contact with children
+  after divorce, infractions, etc.
 order: 5
-perex: Jste v tíživé životní situaci a potřebujete pomoct?
+perex: Are you in a difficult life situation and need help?
 icon: question
 ---
-* [Bydlení](https://ochrance-preview.netlify.app/potrebuji-pomoc/nevite-si-rady/bydleni)
-* Dluhy a exekuce
-* Sociální pomoc, dávky a podpora
-* Soudy
-* Práce
-* Stavebnictví
-* Vězeňství
-* Diskriminace
-* Školství
-* Vězeňství
-* Rodina
-* Právní pomoc a poradenství
-* Zdravotnictví
-* Lidé se zdravotním postižením
-* Státní správa a samospráva
+* Housing
+* Debts and debt enforcement
+* Social aid, welfare benefits and support
+* Courts
+* Work
+* Construction
+* Prisons
+* Discrimination
+* Schools
+* Prisons
+* Family
+* Legal advice and consultancy
+* Healthcare
+* People with disabilities
+* Public administration and self-government
 * Finance
-* Cestování
-* Finance a zboží
+* Travel
+* Finance and goods
