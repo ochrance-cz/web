@@ -1,52 +1,50 @@
 ---
-title: Špatně zacházejí s lidmi omezenými na svobodě
-perex: >
-  Zacházejí s vámi nebo vašim blízkým špatně v domově pro seniory, LDN,
-  psychiatrické nemocnici, v dětském domově, věznici aj. a myslíte si, že by to
-  měl ombudsman prověřit.
-hp: >
-  Zacházejí s vámi nebo vašim blízkým špatně v domově pro seniory, LDN,
-  psychiatrické nemocnici, v dětském domově, věznici aj. a myslíte si, že by to
-  měl ombudsman prověřit.
+title: People restricted in their freedom are treated badly
+perex: They treat you, or someone close to you, badly in a retirement home,
+  treatment facility for long-term patients, psychiatric hospital, children’s
+  home, prison, or some other facility, and you think that the Ombudsman should
+  make an inspection.
+hp: They treat you, or someone close to you, badly in a retirement home,
+  treatment facility for long-term patients, psychiatric hospital, children’s
+  home, prison, or some other facility, and you think that the Ombudsman should
+  make an inspection.
 we-can:
-  - Pokud vy sami nebo váš blízký čelíte špatnému zacházení v takovém zařízení.
-  - Můžeme jednat se zařízením nebo jeho zřizovatelem, aby podmínky v zařízení
-    zlepšilo a špatné zacházení odstranilo.
+  - If you, or someone who is close to you, face ill-treatment in one of these
+    facilities.
+  - We can talk with the facility or its founder about improving the conditions
+    and preventing ill-treatment.
 we-cannot:
-  - Nemůžeme zkontrolovat úplně všechna zařízení, takže pokud váš blízký nebo vy
-    čelíte špatnému zacházení v zařízení, kde je omezena svoboda, podejte podnět
-    ombudsmanovi. I kdybychom vám nemohli pomoct, alespoň vám poradíme, jakým
-    jiným způsobem můžete svůj problém řešit.
+  - We are not able to inspect every single facility, so if you, or someone who
+    is close to you, face ill-treatment in a facility where people’s freedom is
+    restricted, do not hesitate to submit a complaint. Even if we cannot deal
+    with your case, we can at least give you advice on how to find a solution..
 examples:
-  - name: pan Oldřich
-    desc:
-      Žiju v domově pro seniory a vadilo mi, že musím i přes den nosit pyžamo.
-      Proto jsem si stěžoval, když k nám přišla na kontrolu právnička od
-      ombudsmana. Pomohlo to a teď můžeme všichni nosit přes den svoje normální
-      oblečení.
-  - name: Monika
-    desc: Ředitel našeho dětského domova mi nechtěl dávat propustky, abych mohla
-      chodit domů na víkendy a vídat se s mámou. Napsala jsem proto
-      ombudsmanovi, ten to prošetřil. Ředitel pak změnil názor a začal mi
-      propustky dávat.
-  - name: paní Veronika
-    desc:
-      Dříve jsme se ve vězení směly sprchovat v teplé vodě jen jednou týdně. Pak
-      se tím začal zabývat ombudsman a změnila se vyhláška, takže dnes máme
-      právo na sprchu dvakrát za týden.
+  - name: Mr. Oldřich
+    desc: I live in a retirement home and I was bothered by the obligation to wear
+      pyjamas all day long. I complained about that when a lawyer from the
+      Ombudsman’s office visited us for an inspection. This helped and we can
+      all now wear our usual everyday clothes.
+  - name: Ms. Monika
+    desc: The director of our children’s home was reluctant to give me permits to
+      visit my mum at home on the weekends. I wrote about this to the Ombudsman
+      who looked into it and, as a result, the director changed his mind and
+      gave me the permit.
+  - name: Ms. Veronika
+    desc: In prison, we were at first allowed to take warm showers only once a week.
+      The Ombudsman was dealing with our case, then the decree was changed and
+      we can now shower twice a week.
 order: 2
 illustration: DET-23.png
 ---
+We inspect facilities where people are restricted in their freedom, including:
 
-Kontrolujeme zařízení, kde jsou lidé omezeni na svobodě:
+* Retirement homes
+* Homes for people with disabilities
+* Children’s homes
+* Prisons
+* Police cells
+* Psychiatric hospitals
+* Treatment facilities for long-term patients
+* Facilities for detention of foreigners and others
 
-- Domovy pro seniory
-- Domovy pro osoby se zdravotním postižením
-- Dětské domovy
-- Věznice
-- Policejní cely
-- Psychiatrické nemocnice
-- Léčebny dlouhodobě nemocných
-- Zařízení pro zajištění cizinců a další.
-
-Kontroly provádíme bez ohlášení, abychom zjistili, jak to v nich doopravdy vypadá, jak se v nich s lidmi zachází.
+We perform the inspections without prior notice so as to witness the actual conditions there.
