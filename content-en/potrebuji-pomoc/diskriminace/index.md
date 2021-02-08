@@ -1,72 +1,69 @@
 ---
-title: Cítím se být diskriminován
-perex: Antidiskriminační zákon vyjmenovává konkrétní důvody, kvůli nimž s vámi
-  nesmí být odlišně zacházeno, a také oblasti, v nichž nesmí docházet k
-  nerovnému zacházení.
-hp: >
-  Máte pocit, že s vámi někdo zachází hůř kvůli věku, pohlaví, národnosti či z
-  jiných zákonem daných důvodů? Dopouští se diskriminace úřad, soukromá firma
-  nebo místní samospráva?
+title: I think I am being discriminated against
+perex: The Anti-Discrimination Act stipulates specific areas in which unequal
+  treatment is prohibited on grounds listed by the Act.
+hp: Do you believe that someone is treating you differently because of your age,
+  sex, nationality or on some other grounds specified by the Anti-Discrimination
+  Act? Is it an authority, a company or local self-government that discriminate
+  against you?
 we-can:
   - |-
-    **Když jste diskriminován z důvodu:**
+    **If someone treats you differently on grounds of:**
 
-    * Rasy, etnického původu, národnosti
-    * Pohlaví
-    * Sexuální orientace
-    * Věku
-    * Zdravotního postižení
-    * Náboženského vyznání
-    * Víry, světového názoru
-    * Státní příslušnosti
+    * Race, ethnicity
+    * Sex/gender
+    * Sexual orientation
+    * Age
+    * Disability
+    * Religion
+    * Belief, worldview
+    * Nationality
   - |-
-    **K nerovnému zacházení dochází v oblasti:**
+    **If someone treats you differently in the areas of:**
 
-    * Zaměstnávání, povolání, služebního poměru
-    * Přístupu k povolání a podnikání
-    * Vzdělání
-    * Sociálního zabezpečení
-    * Zdravotní péče
-    * Členství v profesních komorách a v odborech
-    * Zboží a služby včetně bydlení
+    * Employment, occupation, service relationship
+    * Access to employment and self-employment
+    * Education
+    * Social security
+    * Healthcare
+    * Membership in professional associations and unions
+    * Goods and services, including housing
 we-cannot:
-  - >
-    Ombudsman se může zabývat jen diskriminací uvedenou v antidiskriminačním
-    zákoně. K diskriminaci ale může docházet i v jiných oblastech života a z
-    jiných důvodů, např. kvůli jazyku, sociálnímu původu, členství v politických
-    stranách a hnutích, kvůli manželskému a rodinnému stavu nebo povinnosti k
-    rodině. Za diskriminaci se považuje také obtěžování, vytváření nepřátelského
-    prostředí z diskriminačních důvodů, sexuální obtěžování nebo pronásledování
-    osoby, která se proti diskriminaci bránila. Tyto formy diskriminace zakazují
-    jiné zákony než antidiskriminační.
-  - >
-    V těchto případech vám alespoň poradíme, co můžete dělat, jak můžete svůj
-    problém řešit.
+  - The Ombudsman can only deal with cases that involve discrimination specified
+    in the Anti-Discrimination Act. Unfortunately, that does not mean that
+    discrimination does not occur in other areas of life and on other grounds,
+    such as language, social background, membership in political parties and
+    movements, marital and family status or obligations towards a family. Other
+    cases of discrimination also include harassment, provoking hostile
+    environment, sexual harassment or victimisation of a person defending
+    himself/herself against discrimination. Such conduct is, however, prohibited
+    under laws other than the Anti-Discrimination Act.
+  - If you find yourself in one of these situations, we can still advise you on
+    what to do and how to find a solution.
 examples:
-  - desc: >
-      Požádal jsem v práci o zkrácení úvazku, abych mohl vydělávat a zároveň se
-      starat o děti. Přestože to situace v zaměstnání umožňovala, šéf mi úvazek
-      nezkrátil. Obrátil jsem se na ombudsmana, který vše prověřil a zjistil, že
-      jde o diskriminaci. Díky tomu jsme se se zaměstnavatelem dohodli a
-      zkrácený úvazek jsem dostal, protože na něj mám právo.
-    name: pan Josef
-  - desc: >
-      Město nám nechtělo pronajmout byt, protože jsme Romové. Přišlo mi to
-      nespravedlivé, protože nemáme dluhy, pracujeme, jsme normální nájemníci.
-      Podala jsem proto podnět ombudsmanovi. Díky jeho pomoci jsme byt získali a
-      navíc se město poučilo, že se má k Romům chovat jako ke komukoli jinému.
-    name: paní Věra
-  - desc: >
-      Je mi 71 let, jsem sice v důchodu, ale dál úspěšně podnikám a jsem
-      aktivní. S manželkou jsme se chystali do zahraničí s tím, že tam vypůjčíme
-      auto a budeme cestovat. Půjčovna aut vyžaduje jako garanci kreditní kartu,
-      ale tu mi banka u nás odmítla poskytnout, protože je mi nad 70 let.
-      Obrátil jsem se na ombudsmana, který upozornil banku, že jde o
-      diskriminaci. Banka změnila názor a dnes vydává kreditku i starším
-      klientům.
-    name: pan Karel
+  - desc: I asked my employer for shorter working hours so that I could both earn
+      money and also have time to take care of my children. Even though the
+      situation at work allowed it, my superior refused to change the contract.
+      I approached the Ombudsman who reviewed my case and found out that it
+      involved discrimination. Thanks to his intervention, my employer
+      recognised my right to a part-time job and we reached an agreement
+    name: Mr. Josef
+  - desc: The city refused to rent us a flat because we are a Roma family. I thought
+      it was unfair – we are regular tenants, we work and have no debts. So I
+      submitted a complaint to the Ombudsman. With his help, we managed to rent
+      the flat and the city learned that the Roma people should not be treated
+      differently.
+    name: Ms. Věra
+  - desc: I am 71 years old. I am retired, but still active and I run a successful
+      business. My wife and I were preparing our vacation abroad thinking we
+      could rent a car and travel. The car rental requires a credit card as a
+      guarantee, but our local bank refused to issue one for me because I am
+      over 70 years old. I approached the Ombudsman who pointed out to the bank
+      that their conduct was discriminatory. As a result, they changed their
+      position and now issue credit cards to all elderly clients.
+    name: Mr. Karel
 order: 3
 illustration: team-spirit-2447163__340.jpg
 button:
-  text: Zjistěte víc o diskriminaci v různých situacích
+  text: Find out more about discrimination in different situations
 ---
