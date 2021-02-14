@@ -4,6 +4,9 @@ languageCode = "cs"
 title = "Obudsman"
 relativeurls = true
 
+[outputs]
+home = ["HTML", "RSS", "Elastic"]
+
 [taxonomies]
   vystup = "vystupy"
 
@@ -29,3 +32,13 @@ relativeurls = true
 
 [permalinks]
 info = "/:filename"
+
+[outputFormats.Elastic]
+baseName = "elastic"
+isPlainText = true
+mediaType = "application/json"
+notAlternative = true
+
+[params.Elastic]
+vars = ["title", "summary", "date", "publishdate", "expirydate", "permalink"]
+params = ["categories", "tags"]
