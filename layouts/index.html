@@ -2,12 +2,10 @@
 <main>
   <header class="_home-header">
     {{ $images := $.Site.GetPage "/images" }}
-    {{ range $images.Resources }}
-      {{ if eq .RelPermalink $.Params.headerPic }}
-        <img class="" src="{{ .RelPermalink }}">
-      {{ end }}
+    {{ with $images.Resources.GetMatch (replaceRE "^.+images/" "" .Params.headerPic) }}
+        <img class="" src="{{ .RelPermalink }}" style="aspect-ratio: {{.Width}} / {{.Height}}">
     {{ end }}
-    <p class="motto">Pomáháme bez&nbsp;rozdílu</p>
+    <p class="motto">{{ .Params.claim }}</p>
   </header>
   <section class="_full two-col">
     <h2>{{ .Params.situationsTitle }}</h2>
@@ -16,11 +14,11 @@
 
   <div class="_backdrop news">
     <section class="_news">
-      <h2>Aktuálně</h2>
+      <h2>{{ i18n "news" }}</h2>
       {{ range first 3 (sort (where (where .Site.Pages "Section" "aktualne") "Kind" "page") "Params.order") }}
         {{ partial "news-preview.html" . }}
       {{ end }}
-      <p><a href="/aktualne/" class="_button">Další aktuality</a></p>
+      <p><a href="/aktualne/" class="_button">{{ i18n "more-news" }}</a></p>
     </section>
   </div>
 

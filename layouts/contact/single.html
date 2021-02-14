@@ -30,12 +30,14 @@
 
   <section class="digital">
     <div class="">
-      <h2>E-mail <a href="mailto:{{ .Params.email }}">{{ .Params.email }}</a></h2>
-      <p>ID datové schránky: <strong>jz5adky</strong></p>
-      <p>Zásady písemné komunikace ochránce</p>
+      <h2>{{ i18n "e-mail" }} <a href="mailto:{{ .Params.email }}">{{ .Params.email }}</a></h2>
+      <p>{{ i18n "data-box-id" }}: <strong>jz5adky</strong></p>
+      {{ with .GetPage "info/zasady" }}
+        <p><a href="{{ .RelPermalink }}">{{ .Title }}</a></p>
+      {{ end }}
     </div>
     <div class="hearing-loss">
-      {{ partial "md-block.html" .Params.infolineHearing}}
+      {{ partial "md-block.html" .Params.infolineHearing }}
     </div>
   </section>
 
@@ -44,7 +46,7 @@
     {{ .Content }}
 
     <div class="address-wrapper">
-      <h2>Kde nás najdete?</h2>
+      <h2>{{ i18n "where" }}</h2>
       <div class="address-comment">
         {{ partial "md-block.html" .Params.addressComment }}
       </div>
@@ -57,19 +59,19 @@
 
     {{ with .Params.access }}
     <div>
-      <h2>Jak se k nám dostanete?</h2>
+      <h2>{{ i18n "instructions" }}</h2>
       <dl>
-        <dt class="walk-label">Pěšky</dt>
+        <dt class="walk-label">{{ i18n "on-foot" }}</dt>
         <dd>
           {{ partial "md-block.html" .walk }}
         </dd>
 
-        <dt class="public-label">Městskou hromadnou dopravou</dt>
+        <dt class="public-label">{{ i18n "public-transport" }}</dt>
         <dd>
           {{ partial "md-block.html" .public }}
         </dd>
 
-        <dt class="universal-label">Máme přístup pro všechny</dt>
+        <dt class="universal-label">{{ i18n "accessible-by-all" }}</dt>
         <dd>
           {{ partial "md-block.html" .universal }}
         </dd>

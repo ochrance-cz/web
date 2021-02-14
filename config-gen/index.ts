@@ -61,6 +61,13 @@ const tags = [
 ];
 
 const stranky = files("Stránky", "stranky", [
+  fileCollection("Homepage", "home", "content/_index.markdown", [
+    title("Titulek"),
+    string("Motto", "claim"),
+    markdown("Hlavní text", "body"),
+    string("Mezititulek: potřebuji pomoc", "situationsTitle"),
+    string("Mezititulek: činnost", "cinnostTitle"),
+  ]),
   fileCollection("Varování", "varovani", "content/alert/_index.markdown", [
     title("Titulek"),
     boolean("Je varování aktivní?", "active"),
@@ -69,12 +76,23 @@ const stranky = files("Stránky", "stranky", [
         "Titulek se zobrazí na titulní straně, detailní popis na samostatné stránce.",
     }),
   ]),
-  fileCollection(
-    "Zpracování osobních údajů",
-    "ou",
-    "content/info/zpracovani-ou.md",
-    [title("Titulek"), markdown("Popis", "body")]
-  ),
+  fileCollection("Kontakt", "ou", "content/kontakt.md", [
+    title("Titulek"),
+    string("Podtitul", "description"),
+    string("Titulek v menu", "menuTitle"),
+    string("Telefonní číslo", "phone"),
+    string("E-mail", "email"),
+    string("ID datové schránky", "dataId"),
+    markdown("Adresa", "address"),
+    string("Komentář k adrese", "addressComment"),
+    markdown("Popis infolinky s online-přepisem", "infolineHearing"),
+    object("Přístup do budov", "access", [
+      markdown("Pěšky", "walk"),
+      markdown("MHD", "public"),
+      markdown("Obecně", "universal"),
+      image("Ilustrační obrázek", "pic"),
+    ]),
+  ]),
 ]);
 
 const onas = files("O nás", "onas", [
@@ -215,6 +233,21 @@ const pusobnost = folderCollection(
   ]
 );
 
+const info = folderCollection(
+  "Další informace",
+  "informační stránka",
+  "info",
+  {
+    folder: "content/info",
+    path: "{{slug}}/index",
+    extension: "md",
+    create: true,
+    media_folder: "",
+    public_folder: "",
+  },
+  [title("Titulek"), markdown("Text", "body")]
+);
+
 const aktualne = folderCollection(
   "Aktuality",
   "aktualita",
@@ -276,11 +309,13 @@ save("./static/admin/config.yml", {
     onas,
     pusobnost,
     pomoc,
+    info,
     englishFiles(stranky),
     englishFolder(aktualne),
     englishFolder(dokument),
     englishFiles(onas),
     englishFolder(pusobnost),
     englishFolder(pomoc),
+    englishFolder(info),
   ],
 });

@@ -7,7 +7,7 @@
       {{ partial "md-block.html" .Params.description }}
     </div>
 
-    <h2>Aktuální projekty</h2>
+    <h2>{{ i18n "current-projects" }}</h2>
 
     <ul class="_link-list">
       {{ range where .Pages "Params.ongoing" true }}
@@ -15,7 +15,7 @@
       {{ end }}
     </ul>
 
-    <h2>Minulé projekty</h2>
+    <h2>{{ i18n "past-projects" }}</h2>
 
     <ul class="_link-list">
       {{ range where .Pages "Params.ongoing" false }}
@@ -26,14 +26,7 @@
 
   <footer class="_footer-pic">
     <div class="text">
-      <h2>
-        Chcete vidět víc?
-      </h2>
-
-      <p>Podívejte se na další působnosti ombudsmana</p>
-
-      <p><a href="/pusobnost/" class="_button">Prohlédnout působnost</a>
-
+      {{ partial "check-scope.html" . }}
     </div>
 
     {{ $images := $.Site.GetPage "/images" }}

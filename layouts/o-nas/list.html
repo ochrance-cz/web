@@ -24,7 +24,7 @@
 
   <div class="_backdrop cta">
     <section class="_full">
-      <h2>Působnost ombudsmana</h2>
+      <h2>{{ i18n "scope" }}</h2>
       <ul class="_link-list two-col">
         {{ range where (where .Site.Pages "Section" "pusobnost") "Kind" "page" }}
           <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
@@ -35,7 +35,7 @@
 
 
   <section class="_full">
-    <h2>Provoz kanceláře veřejného ochránce práv</h2>
+    <h2>{{ i18n "ops" }}</h2>
     <ul class="_link-list two-col">
       {{ range where (where .Site.Pages "Section" "provoz") "Kind" "page" }}
         <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
@@ -46,12 +46,12 @@
   <footer class="_footer-pic">
     <div class="text">
       <h2>
-        Chcete vidět víc?
+        {{ i18n "want-to-know-more" }}
       </h2>
 
-      <p>Podívejte se, co aktuálně řešíme</p>
+      <p>{{ i18n "more-what-we-do" }}</p>
 
-      <p><a href="/aktualne/" class="_button">Aktuality</a>
+      <p><a href="/aktualne/" class="_button">{{ i18n "news" }}</a>
 
     </div>
 

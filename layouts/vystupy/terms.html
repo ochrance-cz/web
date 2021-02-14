@@ -9,14 +9,14 @@
           <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
         {{ end }}
       </ul>
-      <h2>Dokumenty v ESO</h2>
+      <h2>{{ i18n "eso-docs" }}</h2>
       <ul class="_link-list">
         {{ range where (where .Site.Pages "Section" "eso") "Kind" "page" }}
           <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
         {{ end }}
       </ul>
 
-      <h2>Mediální výstupy</h2>
+      <h2>{{ i18n "in-media" }}</h2>
 
       <ul class="_link-list">
         {{ range where .Pages "Params.media" true }}
@@ -27,7 +27,7 @@
       {{ .Content }}
 
       <p class="_icon-info">
-        Podívejte se na <a href="/cinnost/">výstupy z naší činnosti</a> nebo si <a href="/eso/">vyhledejte naše zajímavé případy</a>.
+        {{ .Params.info | markdownify }}
       </p>
     </section>
 

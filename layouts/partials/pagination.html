@@ -7,7 +7,7 @@
       <li class="previous{{ if not $pag.HasPrev }} disabled{{ end }}">
       <a {{ if $pag.HasPrev }}href="{{ $pag.Prev.URL }}"{{ end }} class="page-link" aria-label="Předchozí">
         <span class="visuallyhidden">
-          Předchozí
+          {{ i18n "prev" }}
         </span>
       </a>
       </li>
@@ -27,7 +27,7 @@
       {{ if $showNumber }}
       <li class="{{ if eq . $pag }} active{{ end }}">
         <a class="page-link" href="{{ .URL }}">
-          <span class="visuallyhidden">strana </span>{{ .PageNumber }}
+          <span class="visuallyhidden">{{ i18n "page" }} </span>{{ .PageNumber }}
         </a>
       </li>
       {{ else if $shouldEllipse }}
@@ -37,7 +37,7 @@
       <li class="next{{ if not $pag.HasNext }} disabled{{ end }}">
         <a {{ if $pag.HasNext }}href="{{ $pag.Next.URL }}"{{ end }} class="page-link" aria-label="Následující">
           <span class="visuallyhidden">
-            Následující
+            {{ i18n "next" }}
           </span>
         </a>
       </li>

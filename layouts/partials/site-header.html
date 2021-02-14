@@ -18,7 +18,7 @@
           <ul>
             <li class="dropdown">
               <button type="button" class="dropdown-title" aria-controls="help-dropdown">
-                Potřebuji pomoc
+                {{ i18n "need-help" }}
               </button>
               <ul class="dropdown-menu" id="help-dropdown">
                 {{ range sort (where (where .Site.Pages "Section" "potrebuji-pomoc") "Kind" "page") "Params.order" }}
@@ -31,13 +31,13 @@
                   </li>
                 {{ end }}
 
-                <li><a href="">Správa a evidence podnětů</a></li>
+                <li><a href="">{{ i18n "sep" }}</a></li>
                 <li class="_eso-link">{{ partial "link.html" ($.GetPage "/eso") }}</li>
               </ul>
             </li>
             <li class="dropdown">
               <button type="button" class="dropdown-title" aria-controls="inst-dropdown">
-                Naše činnost
+                {{ i18n "our-work" }}
               </button>
               <ul class="dropdown-menu" id="inst-dropdown">
                 {{ range sort (where (where .Site.Pages "Section" "cinnost") "Kind" "page") "Params.order" }}
@@ -63,31 +63,36 @@
                 {{ end }}
               </ul>
             </li>
-            <!-- <li class="dropdown">
-              <button type="button" class="dropdown-title" aria-controls="about-us-dropdown">
-                O nás
-              </button>
-              <ul class="dropdown-menu" id="about-us-dropdown">
-                {{ range sort (where (where .Site.Pages "Section" "o-nas") "Kind" "page") "Params.order" }}
-                  <li>
-                    <a
-                      href="{{ .RelPermalink }}"
-                      class="icon-{{ with .Params.icon }}{{ . }}{{ else }}arrow{{ end }}">
-                      {{- .Title -}}
-                    </a>
-                  </li>
-                {{ end }}
-              </ul>
-            </li>-->
+            </li>
             <li class="group">
               <ul>
-                <li>{{ partial "link.html" ($.GetPage "/o-nas") }}</li>
-                <li>{{ partial "link.html" ($.GetPage "/aktualne") }}</li>
-                <li>{{ partial "link.html" ($.GetPage "/kontakt") }}</li>
+                {{ with $.GetPage "/o-nas" }}
+                  <li>{{ partial "link.html" . }}</li>
+                {{ end }}
+                {{ with $.GetPage "/aktualne" }}
+                  <li>{{ partial "link.html" . }}</li>
+                {{ end }}
+                {{ with $.GetPage "/kontakt" }}
+                  <li>{{ partial "link.html" . }}</li>
+                {{ end }}
               </ul>
             </li>
-            <li><a href="/hledat/" class="search">Hledání</a></li>
-            <li><a href="/en/" class="lang">EN</a></li>
+            <li><a href="/hledat/" class="search">{{ i18n "search" }}</a></li>
+            {{ if .IsTranslated }}
+              {{ range .Translations }}
+                {{ if ne .Language.Lang $.Language.Lang }}
+                  <li><a href="{{ .RelPermalink }}" class="lang">
+                    {{ .Language.Lang | upper }}
+                  </a></li>
+                {{ end  }}
+              {{ end }}
+            {{ else }}
+              {{ if eq .Language.Lang "cs" }}
+                <li><a href="/en/" class="lang">EN</a></li>
+              {{ else }}
+                <li><a href="/" class="lang">CS</a></li>
+              {{ end }}
+            {{ end }}
           </ul>
         </nav>
       </div>

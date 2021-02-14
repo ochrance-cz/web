@@ -1,6 +1,6 @@
 ---
 title: Ombudsman EN
-headerPic: /images/home.jpg
+headerPic: /en/images/home.jpg
 situationsTitle: Potřebuji pomoc
 cinnostTitle: "Jako instituce potřebuji"
 ---

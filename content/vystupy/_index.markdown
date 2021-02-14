@@ -4,4 +4,5 @@ illustration: vystupy.jpg
 hp: |
   Zprávy pro Poslaneckou sněmovnu, výzkumy a doporučení, zprávy z návštěv zařízení, připomínky k zákonům, vyjádření pro vládu aj. Nejdůležitější výstupy najdete na jednom místě.
 order: 2
+info: Podívejte se na [výstupy z naší činnosti](/cinnost/) nebo si [vyhledejte naše zajímavé případy](/eso).
 ---

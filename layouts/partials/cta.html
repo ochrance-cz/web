@@ -4,7 +4,7 @@
     <h2>{{ .title }}</h2>
     {{ with .text }}<p>{{ . }}</p>{{ end }}
     <p><a href="{{ with .btnLink }}{{ . }}{{ else}}/podejte-stiznost/{{ end }}" class="_button large">
-      {{- with .btnText }}{{ . }}{{ else}}Podejte podnět{{ end -}}
+      {{- with .btnText }}{{ . }}{{ else}}{{ i18n "submit-complaint" }}{{ end -}}
     </a></p>
   </section>
 </div>

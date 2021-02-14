@@ -2,28 +2,38 @@
   <footer class="_site-footer">
     <div class="cols">
       <form>
-        <h2>Zůstaňte informovaní</h2>
+        <h2>{{ i18n "stay-informed" }}</h2>
 
-        <p>Přihlaste se k odběru ezpravodaje</p>
+        <p>{{ i18n "subscribe" }}</p>
         <div class="newsletter-wrapper">
           <input type="email" placeholder="jmeno@email.cz">
           <input type="submit" value="Přihlásit se">
         </div>
-        <p class="_typo--small">Odesláním souhlasíte s <a href="/zpracovani-ou/">podmínkami zpracování osobních údajů</a></p>
+        {{ with .GetPage "/" }}
+          <p class="_typo--small">{{ .Params.consent | markdownify }}</p>
+        {{ end }}
       </form>
 
       <section>
-        <h2>Získejte přehled</h2>
+        <h2>{{ i18n "get-overview" }}</h2>
         <ul>
-          <li><a href="">Životní situace</a></li>
-          <li><a href="">Činnost kanceláře ochránce</a></li>
-          <li><a href="">Zákon o veřejném ochránci práv</a></li>
-          <li><a href="">GDPR, OOÚ, Cookies</a></li>
+          {{ with .Site.GetPage "situace" }}
+            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+          {{ end }}
+          {{ with .Site.GetPage "cinnost" }}
+            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+          {{ end }}
+          {{ with .Site.GetPage "o-nas/predpisy" }}
+            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+          {{ end }}
+          {{ with .Site.GetPage "info/zpracovani-ou" }}
+            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+          {{ end }}
         </ul>
       </section>
 
       <section>
-        <h2>Buďme v kontaktu</h2>
+        <h2>{{ i18n "stay-in-touch" }}</h2>
 
         <ul>
           <li>
@@ -32,12 +42,12 @@
           </li>
 
           <li>
-            <span class="email-label">E-mail: </span>
+            <span class="email-label">{{ i18n "e-mail" }}: </span>
             <a href="mailto:podatelna@ochrance.cz">podatelna@ochrance.cz</a>
           </li>
 
           <li>
-            <span class="phone-label">Telefon: </span>
+            <span class="phone-label">{{ i18n "phone" }}: </span>
             <span class="phone">777 777 777</span>
           </li>
         </ul>
@@ -45,13 +55,12 @@
     </div>
     <hr>
     <div class="bottom-line">
-      <p>&copy; 2020 Kancelář veřejného ochránce práv</p>
+      <p>&copy; {{ .Date.Format "2006" }} {{ i18n "kvop" }}</p>
       <p class="a11y">
-        <span class="mobile-p">Jsme přístupní</span>
-        <a href="/pristupnost/budova/" class="movement">lidem s pohybovým znevýhodněním,</a>
-        <a href="" class="seeing">lidem se zrakovým znevýhodněním,</a>
-        <a href="" class="hearing">lidem se sluchovým znevýhodněním,</a>
-        <span class="mobile-p">i lidem s jinými <a href="/pristupnost/">speciálními potřebami.</a></span>
+          {{ with .GetPage "/" }}
+            {{ .Params.accessibility | markdownify }}
+          {{ end }}
+        </span>
       </p>
    </div>
   </footer>
