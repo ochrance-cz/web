@@ -8,12 +8,24 @@ Struktura administrace je záměrně plochá, aby byly všechny kategorie snadno
 
 Na webu jsou některé součásti zanořené skrze podmenu: například v sekci _O nás_ jsou dostupné jak stránky o personálním složení úřadu, tak informace o působnosti Ombudsmana a Provozní informace.
 
+## Práce s obsahem
+
+Celá administrace je složená z různých polí — některé umožňují formátování, jiná ne, jiná umožňují jen výběr z definovaných možností. To by mělo usnadňovat práci, protože by nemělo docházet k chybnému zadání informací.
+
+Pozor je potřeba dávat jen na nadpisy: ty by se měly vždy v kontextu stránky postupně zanořovat (hlavní nadpis > nadpis druhé úrovně > nadpis třetí úrovně atp.). Každá stránka již má hlavní nadpis, takže v editoru by neměl být nikdy vložen nadpis první úrovně — nejlepší je vždy začít druhou úrovní.
+
+> Pozor: promítnutí změn do náhledu webu chvíli trvá (cca 20–30 sekund) kvůli zvolenému technickému řešení.
+
+## Vkládání odkazů
+
+Když chcete odkázat na jinou stránku na webu ombudsmana v textu, můžete zkopírovat celou adresu z adresního řádku prohlížeče. Nyní web běží na dočasné adrese, ale to není problém — při spuštění webu tyto odkazy automaticky zkonvertuji tak, aby směřovaly na správnou doménu.
+
 ## Vkládání obrázků
 
-Obrázek je možné vložit přímo v editoru (tlačítko +, položka Image). Ke každému obrázku je
+Obrázek je možné vložit přímo v editoru (tlačítko +, položka Image). Každý obrázek má krom samotného souboru dvě textová pole:
 
-- nutné připsat k němu alternativní text (Alt Text), který by měl **vždy** popisovat, co je na obrázku vidět (je náhradou za obrázek v případech, kdy obrázek nejde načíst, pro hlasové čtečky a podobně) a
-- možné doplnit titulek, který je **volitelně** zobrazen u obrázku.
+- Povinný alternativní text (Alt Text), který by měl **vždy** popisovat, co je na obrázku vidět — je náhradou za obrázek v případech, kdy obrázek nejde načíst, pro hlasové čtečky a podobně.
+- Nepovinný titulek, který je **volitelně** zobrazen u obrázku.
 
 Většina stránek na webu má vlastní úložiště obrázků, aby nevznikala knihovna plná nejrůznějších obrázků z rozličných zdrojů. Výjimkou jsou následující sekce, které sdílejí jedno společné úložiště:
 
