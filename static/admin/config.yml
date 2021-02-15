@@ -38,6 +38,14 @@ collections:
             name: cinnostTitle
             required: false
             widget: string
+          - label: Info o přístupnosti
+            name: accessibility
+            required: false
+            widget: markdown
+          - label: Souhlas u newsletteru
+            name: consent
+            required: false
+            widget: markdown
       - label: Varování
         name: varovani
         file: content/alert/_index.markdown
@@ -463,14 +471,31 @@ collections:
     path: '{{slug}}/index'
     media_folder: ''
     public_folder: ''
+  - name: provoz
+    label: Provoz
+    label_singular: informační stránka
+    folder: content/provoz
+    extension: md
+    editor: &ref_16
+      preview: false
+    fields: &ref_17
+      - label: Titulek
+        name: title
+        widget: string
+      - label: Text
+        name: body
+        required: false
+        widget: markdown
+    create: true
+    path: '{{slug}}'
   - name: info
     label: Další informace
     label_singular: informační stránka
     folder: content/info
     extension: md
-    editor: &ref_16
+    editor: &ref_18
       preview: false
-    fields: &ref_17
+    fields: &ref_19
       - label: Titulek
         name: title
         widget: string
@@ -564,13 +589,22 @@ collections:
     path: '{{slug}}/index'
     media_folder: ''
     public_folder: ''
+  - name: provoz-en
+    label: Provoz (EN)
+    label_singular: informační stránka
+    folder: content-en/provoz
+    extension: md
+    editor: *ref_16
+    fields: *ref_17
+    create: true
+    path: '{{slug}}'
   - name: info-en
     label: Další informace (EN)
     label_singular: informační stránka
     folder: content-en/info
     extension: md
-    editor: *ref_16
-    fields: *ref_17
+    editor: *ref_18
+    fields: *ref_19
     create: true
     path: '{{slug}}/index'
     media_folder: ''

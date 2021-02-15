@@ -67,6 +67,8 @@ const stranky = files("Stránky", "stranky", [
     markdown("Hlavní text", "body"),
     string("Mezititulek: potřebuji pomoc", "situationsTitle"),
     string("Mezititulek: činnost", "cinnostTitle"),
+    markdown("Info o přístupnosti", "accessibility"),
+    markdown("Souhlas u newsletteru", "consent"),
   ]),
   fileCollection("Varování", "varovani", "content/alert/_index.markdown", [
     title("Titulek"),
@@ -267,6 +269,19 @@ const info = folderCollection(
   [title("Titulek"), markdown("Text", "body")]
 );
 
+const ops = folderCollection(
+  "Provoz",
+  "informační stránka",
+  "provoz",
+  {
+    folder: "content/provoz",
+    path: "{{slug}}",
+    extension: "md",
+    create: true,
+  },
+  [title("Titulek"), markdown("Text", "body")]
+);
+
 const aktualne = folderCollection(
   "Aktuality",
   "aktualita",
@@ -328,6 +343,7 @@ save("./static/admin/config.yml", {
     onas,
     pusobnost,
     pomoc,
+    ops,
     info,
     englishFiles(stranky),
     englishFolder(aktualne),
@@ -335,6 +351,7 @@ save("./static/admin/config.yml", {
     englishFiles(onas),
     englishFolder(pusobnost),
     englishFolder(pomoc),
+    englishFolder(ops),
     englishFolder(info),
   ],
 });
