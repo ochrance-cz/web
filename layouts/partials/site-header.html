@@ -1,7 +1,11 @@
 <header class="_site-header">
   <div class="backdrop">
     <a class="root-link" href="/">
-      <img class="logo" src="/images/logo.svg" width="200">
+      {{ if eq .Language.Lang "en" }}
+        <img class="logo" src="/images/logo-en.svg" width="200">
+      {{ else }}
+        <img class="logo" src="/images/logo.svg" width="200">
+      {{ end }}
     </a>
 
     <div class="_collapsible-nav">

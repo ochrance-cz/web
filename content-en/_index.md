@@ -1,6 +1,6 @@
 ---
 title: Ombudsman EN
 headerPic: /en/images/home.jpg
-situationsTitle: Potřebuji pomoc
-cinnostTitle: "Jako instituce potřebuji"
+situationsTitle: I need help
+cinnostTitle: Public Defender’s activities
 ---
