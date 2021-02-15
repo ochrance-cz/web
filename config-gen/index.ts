@@ -97,6 +97,21 @@ const stranky = files("Stránky", "stranky", [
 
 const onas = files("O nás", "onas", [
   fileCollection(
+    "O kanceláři",
+    "o-kancelari",
+    "content/o-nas/_index.markdown",
+    [
+      title("Titulek stránky"),
+      string("Titulek v menu", "menuTitle"),
+      markdown("Perex", "description"),
+      markdown("Text stránky", "body"),
+      list("Odkazy", "Odkaz", "links", [
+        string("Odkaz", "link"),
+        string("Popis", "text"),
+      ]),
+    ]
+  ),
+  fileCollection(
     "Veřejný ochránce práv",
     "ombudsman",
     "content/o-nas/ombudsman/index.md",
@@ -140,6 +155,10 @@ const onas = files("O nás", "onas", [
       string("Časové určení", "time"),
       text("Popis", "desc"),
     ]),
+  ]),
+  fileCollection("Předpisy", "predpisy", "content/o-nas/predpisy/index.md", [
+    title("Titulek"),
+    markdown("Text stránky", "body"),
   ]),
 ]);
 
