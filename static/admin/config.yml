@@ -245,6 +245,7 @@ collections:
                 name: text
                 required: false
                 widget: string
+        media_folder: ''
       - label: Veřejný ochránce práv
         name: ombudsman
         file: content/o-nas/ombudsman/index.md
@@ -342,6 +343,7 @@ collections:
                 name: desc
                 required: false
                 widget: text
+        media_folder: ''
       - label: Předpisy
         name: predpisy
         file: content/o-nas/predpisy/index.md
@@ -353,6 +355,7 @@ collections:
             name: body
             required: false
             widget: markdown
+        media_folder: ''
   - name: pusobnost
     label: Působnost
     label_singular: Oblast
@@ -486,7 +489,6 @@ collections:
         name: body
         required: false
         widget: markdown
-    create: true
     path: '{{slug}}'
   - name: info
     label: Další informace
@@ -524,7 +526,7 @@ collections:
         fields: *ref_2
   - name: aktualne-en
     label: Aktuality (EN)
-    label_singular: aktualita
+    label_singular: aktualita (en)
     folder: content-en/aktualne
     extension: md
     editor: *ref_3
@@ -535,7 +537,7 @@ collections:
     public_folder: ''
   - name: dokument-en
     label: Dokumenty (EN)
-    label_singular: dokument
+    label_singular: dokument (en)
     folder: content-en/dokument
     extension: md
     editor: *ref_5
@@ -551,6 +553,7 @@ collections:
         name: o-kancelari
         file: content-en/o-nas/_index.markdown
         fields: *ref_7
+        media_folder: ''
       - label: Veřejný ochránce práv
         name: ombudsman
         file: content-en/o-nas/ombudsman/index.md
@@ -565,13 +568,15 @@ collections:
         name: historie
         file: content-en/o-nas/historie/index.md
         fields: *ref_10
+        media_folder: ''
       - label: Předpisy
         name: predpisy
         file: content-en/o-nas/predpisy/index.md
         fields: *ref_11
+        media_folder: ''
   - name: pusobnost-en
     label: Působnost (EN)
-    label_singular: Oblast
+    label_singular: Oblast (en)
     folder: content-en/pusobnost
     extension: md
     editor: *ref_12
@@ -581,7 +586,7 @@ collections:
     public_folder: ''
   - name: potrebuji-pomoc-en
     label: Potřebuji pomoc (EN)
-    label_singular: Problematika
+    label_singular: Problematika (en)
     folder: content-en/potrebuji-pomoc
     extension: md
     editor: *ref_14
@@ -591,16 +596,15 @@ collections:
     public_folder: ''
   - name: provoz-en
     label: Provoz (EN)
-    label_singular: informační stránka
+    label_singular: informační stránka (en)
     folder: content-en/provoz
     extension: md
     editor: *ref_16
     fields: *ref_17
-    create: true
     path: '{{slug}}'
   - name: info-en
     label: Další informace (EN)
-    label_singular: informační stránka
+    label_singular: informační stránka (en)
     folder: content-en/info
     extension: md
     editor: *ref_18

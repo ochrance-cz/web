@@ -111,7 +111,10 @@ const onas = files("O nás", "onas", [
         string("Odkaz", "link"),
         string("Popis", "text"),
       ]),
-    ]
+    ],
+    {
+      media_folder: "",
+    }
   ),
   fileCollection(
     "Veřejný ochránce práv",
@@ -151,17 +154,30 @@ const onas = files("O nás", "onas", [
       media_folder: "",
     }
   ),
-  fileCollection("Historie", "historie", "content/o-nas/historie/index.md", [
-    title("Titulek"),
-    list("Časová osa", "Událost", "timeline", [
-      string("Časové určení", "time"),
-      text("Popis", "desc"),
-    ]),
-  ]),
-  fileCollection("Předpisy", "predpisy", "content/o-nas/predpisy/index.md", [
-    title("Titulek"),
-    markdown("Text stránky", "body"),
-  ]),
+  fileCollection(
+    "Historie",
+    "historie",
+    "content/o-nas/historie/index.md",
+    [
+      title("Titulek"),
+      list("Časová osa", "Událost", "timeline", [
+        string("Časové určení", "time"),
+        text("Popis", "desc"),
+      ]),
+    ],
+    {
+      media_folder: "",
+    }
+  ),
+  fileCollection(
+    "Předpisy",
+    "predpisy",
+    "content/o-nas/predpisy/index.md",
+    [title("Titulek"), markdown("Text stránky", "body")],
+    {
+      media_folder: "",
+    }
+  ),
 ]);
 
 const dokument = folderCollection(
@@ -277,7 +293,6 @@ const ops = folderCollection(
     folder: "content/provoz",
     path: "{{slug}}",
     extension: "md",
-    create: true,
   },
   [title("Titulek"), markdown("Text", "body")]
 );
@@ -307,6 +322,7 @@ const englishFolder = (collection: FolderCollection) => {
     ...collection,
     name: `${collection.name}-en`,
     label: `${collection.label} (EN)`,
+    label_singular: `${collection.label_singular} (en)`,
     folder: collection.folder.replace("content/", "content-en/"),
   };
 };
