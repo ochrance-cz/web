@@ -1,7 +1,7 @@
 ---
 title: Monitorování práv lidí s postižením
 illustration: monitorovani.jpg
-headerColor: green
+headerColor: yellow
 perex: Od roku 2018 monitorujeme, jak Česká republika naplňuje práva zakotvená
   Úmluvou OSN o právech osob se zdravotním postižením. O našich poznatcích
   informujeme Výbor OSN pro práva lidí s postižením a také vnitrostátní orgány.
