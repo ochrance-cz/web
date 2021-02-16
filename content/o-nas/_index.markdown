@@ -10,10 +10,10 @@ description: >
   práva lidí s postižením.
 footerPic: /images/kontakt.jpg
 links:
-  - link: History of the Institution of Ombudsman
-    text: History of the Institution of Ombudsman
-  - link: "Legal regulations "
-    text: "Legal regulations "
+  - link: History institutu ombudsmana
+    text: ""
+  - link: Právní předpisy
+    text: ""
 ---
 
 Ombudsmana volí Poslanecká sněmovna ČR z návrhů prezidenta a Senátu. Funkční období je šestileté a ombudsmana nelze odvolat. Ombudsman má jednoho zástupce, kterého rovněž volí Poslanecká sněmovna ČR. Ombudsman může zástupci svěřit část své působnosti.
