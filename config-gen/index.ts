@@ -430,6 +430,7 @@ save("./static/admin/config.yml", {
     pomoc,
     ops,
     info,
+    projekty,
     englishFiles(stranky),
     englishFolder(aktualne),
     englishFolder(dokument),
@@ -438,5 +439,6 @@ save("./static/admin/config.yml", {
     englishFolder(pomoc),
     englishFolder(ops),
     englishFolder(info),
+    englishFolder(projekty),
   ],
 });

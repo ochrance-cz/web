@@ -543,6 +543,83 @@ collections:
     path: '{{slug}}/index'
     media_folder: ''
     public_folder: ''
+  - name: projetky
+    label: Projekty
+    label_singular: projekt
+    folder: content/projekty
+    extension: md
+    editor: &ref_22
+      preview: false
+    fields: &ref_23
+      - label: Název projektu
+        name: title
+        widget: string
+      - label: Řetezec v adrese
+        name: slug
+        required: false
+        widget: string
+      - label: Probíhající projekt
+        name: ongoing
+        required: false
+        widget: boolean
+      - label: Popis projektu
+        name: body
+        required: false
+        widget: markdown
+      - label: Dodatečný text pod aktualitami k projektu
+        name: bonus
+        required: false
+        widget: markdown
+      - widget: object
+        label: Ilustrační obrázek
+        name: illustration
+        required: false
+        fields:
+          - label: Obrázek
+            name: pic
+            required: false
+            widget: file
+          - label: Titulek obrázku
+            name: caption
+            required: false
+            hint: Titulek viditelný pod obrázkem.
+            widget: string
+          - label: Popis obrázku
+            name: desc
+            hint: Popis slouží ke zpřístupnění obrazového obsahu v textové formě.
+            widget: string
+      - label: Partneři
+        name: partners
+        required: false
+        label_singular: Partner
+        widget: list
+        fields:
+          - label: Název
+            name: name
+            required: false
+            widget: string
+          - label: Logo
+            name: logo
+            required: false
+            widget: image
+      - label: Galerie
+        name: gallery
+        required: false
+        label_singular: Fotka
+        widget: list
+        fields:
+          - label: Obrázek
+            name: pic
+            required: false
+            widget: file
+          - label: Popis obrázku
+            name: alt
+            hint: Popis slouží ke zpřístupnění obrazového obsahu v textové formě.
+            widget: string
+    create: true
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: ''
   - label: Stránky (EN)
     name: stranky-en
     files:
@@ -653,6 +730,17 @@ collections:
     extension: md
     editor: *ref_20
     fields: *ref_21
+    create: true
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: ''
+  - name: projetky-en
+    label: Projekty (EN)
+    label_singular: projekt (en)
+    folder: content-en/projekty
+    extension: md
+    editor: *ref_22
+    fields: *ref_23
     create: true
     path: '{{slug}}/index'
     media_folder: ''
