@@ -1,32 +1,29 @@
 ---
-title: We‘re here for you
+title: We are here for you
+description: ""
 menuTitle: Contact
-phone: 542 542 888
+phone: (+420) 542 542 888
 email: podatelna@ochrance.cz
 dataId: jz5adky
-infolineHearing: |
-  ## [Infolinka s on-line přepisem](/pristupnost/prepis/)
+address: |-
+  Office of the Public Defender of Rights
 
-  Bezplatná infolinka s on-line přepisem pro osoby s postižením sluchu.
-
-  Pondělí–Pátek 9.00–18.00.
-description: Po–pá 8.00–16.00 hod.
-type: contact
-headerPic: /images/podatelna.jpg
-addressComment: Jsme v Brně a zatím jiné zastoupení v krajích nemáme.
-
-address: |
-  Kancelář veřejného ochránce práv
   Údolní 39
   602 00 Brno
-
-  **Jsme tu pro vás každý den od 8–16 hod.**
+addressComment: ""
+infolineHearing: ""
 access:
-  walk: |
-    Pokud přijíždíte do Brna vlakem nebo autobusem, nejlepší spojení do sídla veřejného ochránce práv je tramvají č. 4 od Hlavního nádraží. Pojedete směrem Masarykova čtvrť a vystoupíte na zastávce Obilní trh. Sídlo veřejné ochránkyně práv je na levé straně ulice ve směru jízdy po 50 metrech chůze.
-  public: |
-    Pokud přijíždíte do Brna vlakem nebo autobusem, nejlepší spojení do sídla veřejného ochránce práv je tramvají č. 4 od Hlavního nádraží. Pojedete směrem Masarykova čtvrť a vystoupíte na zastávce Obilní trh. Sídlo veřejné ochránkyně práv je na levé straně ulice ve směru jízdy po 50 metrech chůze.
-  universal: |
-    Návštěvníci kanceláře se zdravotním postižením mají na parkovišti u budovy vyhrazena vhodná parkovací místa a pokud při příjezdu ohlásí tuto potřebu na recepci, je jim zajištěn bezbariérový přístup do budovy a případná asistence.
+  walk: ""
+  public: >-
+    If arriving in Brno by coach or train, to get to the Office of the Public
+    Defender of Rights it is easiest to take tram No. 4 from the Main Railway
+    Station (the stop is located about 10 minutes walk from the Central Coach
+    Station).
+
+
+    Take the tram heading in the direction of Masarykova čtvrt. Get off at Obilní trh (it takes about 10 minutes to get there). Follow the tram tracks and after 50 metres turn left to see the Office of the Public Defender of Rights.
+  universal: ""
   pic: /images/kontakt.jpg
+type: contact
+headerPic: /images/podatelna.jpg
 ---
