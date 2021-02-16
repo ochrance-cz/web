@@ -38,3 +38,43 @@ title: Pronájem prostor
 ![Fotografie zobrazuje velký sál z pohledu zepředu. ](velky_sal_4.jpg "Velký sál")
 
 ![Fotografie zobrazuje velký sál, v popředí je umístěn také řečnický pult a stůl.](velky_sal_5.jpg "Velký sál")
+
+
+
+# Malý sál
+
+<!--StartFragment-->
+
+## Obecné informace o sálu
+
+## <!--StartFragment-->
+
+* Sál je vhodný pro pořádání seminářů, konferencí, apod.
+* Prostor je vybaven stoly + židlemi. Max. kapacita při školní úpravě je 64 míst, při koncertní úpravě 70 míst.
+* Rozměr sálu: šířka místnosti: 8 m, délka místnosti: 17 m
+* Standardní vybavení AV technikou: dataprojektor vč. promítacího plátna, notebook, ozvučení – 2 mikrofony, WiFi, flipchart
+* Sál je klimatizován
+* V sále je zákaz konzumace jídla a nápojů
+* Pro podání pohoštění či neformální setkání je možno využít předsálí
+
+<!--EndFragment-->
+
+![Fotografie zobrazuje malý sál z pohledu zezadu. Stoly jsou uspořádány do tvaru písmene O.](maly_sal_1.jpg "Malý sál")
+
+![Fotografie zobrazuje malý sál z pohledu zezadu. Stoly jsou uspořádány do tvaru písmene O.](maly_sal_2.jpg "Malý sál")
+
+![Fotografie zobrazuje malý sál z pohledu zepředu. Stoly jsou uspořádány do tvaru písmene O.](maly_sal_3.jpg "Malý sál")
+
+# Předsálí
+
+
+
+# Tiskové středisko
+
+# Víceúčelová místnost
+
+# Komerční ceník
+
+# Nekomerční ceník
+
+# Kontaktní osoba
