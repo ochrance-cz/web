@@ -1,14 +1,18 @@
 ---
 title: O kanceláři veřejného ochránce práv
 menuTitle: O nás
-description: |
-  Ombudsman (oficiálně veřejný ochránce práv) chrání osoby před jednáním úřadů a dalších institucí, pokud je toto jednání v rozporu s právem, neodpovídá principům demokratického právního státu, nebo jsou úřady nečinné. Ombudsman také chrání lidi před diskriminací, provádí návštěvy zařízení, kde jsou lidé omezeni na svobodě, a snaží se bránit špatnému zacházení a rovněž monitoruje práva lidí s postižením.
-
+description: >
+  Ombudsman (oficiálně veřejný ochránce práv) chrání osoby před jednáním úřadů a
+  dalších institucí, pokud je toto jednání v rozporu s právem, neodpovídá
+  principům demokratického právního státu, nebo jsou úřady nečinné. Ombudsman
+  také chrání lidi před diskriminací, provádí návštěvy zařízení, kde jsou lidé
+  omezeni na svobodě, a snaží se bránit špatnému zacházení a rovněž monitoruje
+  práva lidí s postižením.
 footerPic: /images/kontakt.jpg
 links:
   - link: historie
     text: Historie úřadu
-  - link: predpisy
+  - link: předpisy
     text: Právní předpisy
 ---
 
