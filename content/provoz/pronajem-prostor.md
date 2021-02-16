@@ -18,6 +18,7 @@ title: Pronájem prostor
 * Pro podání pohoštění či neformální setkání je možno využít předsálí
 
 <!--EndFragment-->\
+
 <!--StartFragment-->
 
 ## Dispoziční možnosti
@@ -28,12 +29,12 @@ title: Pronájem prostor
 
 [Koncertní úprava](https://www.ochrance.cz/fileadmin/user_upload/img/Saly/VS_koncertni_uprava_216_osob.pdf)
 
-![Na fotografii je zobrazen velký sál. Jsou v něm rozestavěny židle v řadách a na straně místnosti jsou pokojové rostliny.](velky_sal_1.jpg)
+![Na fotografii je zobrazen velký sál. Jsou v něm rozestavěny židle v řadách a na straně místnosti jsou pokojové rostliny.](velky_sal_1.jpg "Velký sál")
 
-![Fotografie zobrazuje velký sál zezadu. Mezi rozestavěnými židlemi je uprostřed vytvořená široká chodba na průchod.](velky_sal_2.jpg)
+![Fotografie zobrazuje velký sál zezadu. Mezi rozestavěnými židlemi je uprostřed vytvořená široká chodba na průchod.](velky_sal_2.jpg "Velký sál")
 
-![Fotografie zobrazuje velký sál z pohledu ze strany.](velky_sal_3.jpg)
+![Fotografie zobrazuje velký sál z pohledu ze strany.](velky_sal_3.jpg "Velký sál")
 
-![Fotografie zobrazuje velký sál z pohledu zepředu. ](velky_sal_4.jpg)
+![Fotografie zobrazuje velký sál z pohledu zepředu. ](velky_sal_4.jpg "Velký sál")
 
-![Fotografie zobrazuje velký sál, v popředí je umístěn také řečnický pult a stůl.](velky_sal_5.jpg)
+![Fotografie zobrazuje velký sál, v popředí je umístěn také řečnický pult a stůl.](velky_sal_5.jpg "Velký sál")
