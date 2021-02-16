@@ -85,6 +85,35 @@ title: Pronájem prostor
 
 # Tiskové středisko
 
+
+
+<!--StartFragment-->
+
+## Obecné informace o tiskovém středisku
+
+## <!--EndFragment-->
+
+
+
+
+
+<!--StartFragment-->
+
+* Tiskové středisko je vhodné pro pořádání seminářů, kulatých stolů
+* Prostor je vybaven stoly + židlemi, max. kapacita do 25 osob
+* Rozměr tiskového střediska:
+* Standardní vybavení AV technikou: dataprojektor vč. promítacího plátna, notebook, ozvučení, WiFi, flipchart
+* Prostor je klimatizován
+* Pro podání drobného pohoštění je možno využít prostoru před TS
+
+<!--EndFragment-->
+
+![Na fotografii je zobrazené tiskové středisko. Stoly jsou umístěny rovnoběžně za sebou.](tiskove_stredisko_1.jpg "Tiskové středisko")
+
+![Na fotografii je zobrazené tiskové středisko. Stoly jsou umístěny rovnoběžně za sebou.](tiskove_stredisko_2.jpg "Tiskové středisko")
+
+![Na fotografii je zobrazené tiskové středisko. Stoly jsou umístěny rovnoběžně za sebou.](tiskove_stredisko_3.jpg "Tiskové středisko")
+
 # Víceúčelová místnost
 
 # Komerční ceník
