@@ -38,5 +38,3 @@ title: Veřejné zakázky
 | [Dodávka výpočetní techniky](https://www.ochrance.cz/kancelar-vop/verejne-zakazky/archiv-verejnych-zakazek/p12v00000017/)                                                                       | zakázka malého rozsahu | 28.2.2012        | 7.3.2012 v 10:00 hod.                             | HCV group, a.s.                                    |
 
 <!--EndFragment-->
-
-xxxxx
