@@ -147,4 +147,20 @@ title: Pronájem prostor
 
 ## [Nekomerční ceník](https://www.ochrance.cz/fileadmin/user_upload/img/Saly/Cenik_nekomercni_2020.pdf)
 
-# [](https://www.ochrance.cz/fileadmin/user_upload/img/Saly/Cenik_nekomercni_2020.pdf)Kontaktní osoba
+# Kontaktní osoba
+
+
+
+
+
+<!--StartFragment-->
+
+Markéta Svobodová
+
+sekretariát vedoucího kanceláře
+
+Tel: 542 542 555
+
+E-mail: marketa.svobodova@ochrance.cz
+
+<!--EndFragment-->
