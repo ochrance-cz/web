@@ -10,7 +10,7 @@ description: >
   práva lidí s postižením.
 footerPic: /images/kontakt.jpg
 links:
-  - link: History institutu ombudsmana
+  - link: Historie institutu ombudsmana
     text: ""
   - link: Právní předpisy
     text: ""
