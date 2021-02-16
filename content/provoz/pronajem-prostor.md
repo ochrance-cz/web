@@ -116,6 +116,29 @@ title: Pronájem prostor
 
 # Víceúčelová místnost
 
+<!--StartFragment-->
+
+## Obecné informace o víceúčelové místnosti
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
+* Víceúčelová místnost je vhodná pro sportovní aktivity (aerobic, jóga, pilates), pro taneční tréninky
+* Místnost se nachází v přízemí budovy
+* Max. kapacita do 20 osob
+* Rozměry místnosti: šířka místnosti: 14 m, délka místnosti: 14 m
+* Zrdcadlová stěna
+* K dispozici jsou karimatky, činky, overball, aerobic step bedýnky
+
+<!--EndFragment-->
+
+![Na fotografii je zachycena prázdná víceúčelová místnost.](viceucelova_mistnost_1.jpg "Víceúčelová místnost")
+
+![Na fotografii je zachycena prázdná víceúčelová místnost.](viceucelova_mistnost_2.jpg "Víceúčelová místnost")
+
+![Na fotografii je zachycena prázdná víceúčelová místnost.](viceucelova_mistnost_3.jpg "Víceúčelová místnost")
+
 # Komerční ceník
 
 # Nekomerční ceník
