@@ -39,8 +39,6 @@ title: Pronájem prostor
 
 ![Fotografie zobrazuje velký sál, v popředí je umístěn také řečnický pult a stůl.](velky_sal_5.jpg "Velký sál")
 
-
-
 # Malý sál
 
 <!--StartFragment-->
@@ -67,7 +65,23 @@ title: Pronájem prostor
 
 # Předsálí
 
+<!--StartFragment-->
 
+## Obecné informace o předsálí
+
+## <!--StartFragment-->
+
+* K pronájmu sálů se automaticky připočítává pronájem předsálí
+* Předsálí je vhodné využít zejména pro prezentace a podání pohoštění
+* Rozměr předsálí: šířka místnosti: 10 m, délka místnosti: 21 m
+* Uzamykatelná šatna bez obsluhy, toalety, stoly + židle na případné občerstvení účastníků akce
+* Z provozně-technických důvodů je možné využít cateringových služeb pouze u našeho provozovatele kantýny. Jde o paní Hanu Kobelkovou, tel: 604 906 046, e-mail: [Hana.Kobelkova@email.cz](mailto:Hana.Kobelkova@email.cz)
+
+<!--EndFragment-->
+
+![Fotografie zobrazuje předsálí, kde jsou stolu uspořádány podél stěn v místnosti, v prostoru je také velký stůl s ubrusem.](predsali_1.jpg "Předsálí")
+
+![Fotografie zobrazuje předsálí, kde jsou stolu uspořádány podél stěn v místnosti, v prostoru je také velký stůl s ubrusem.](predsali_2.jpg "Předsálí")
 
 # Tiskové středisko
 
