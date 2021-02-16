@@ -1,5 +1,6 @@
 ---
 title: Posílení aktivit  veřejného ochránce práv v ochraně lidských práv
+slug: posileni-aktivit
 ongoing: true
 partners:
   - logo: norway.png

@@ -44,14 +44,16 @@
     {{ end }}
   </section>
 
-  <div class="_backdrop news">
-    <section class="_news single-col">
-      <h2>{{ i18n "news" }} [TODO filtrování]</h2>
-      {{ range sort (where (where .Site.Pages "Section" "aktualne") "Kind" "page") "Params.order" }}
-        {{ partial "news-preview.html" . }}
-      {{ end }}
-    </section>
-  </div>
+  {{ with (where (where .Site.Pages "Section" "aktualne") "Params.project" .Params.slug) }}
+    <div class="_backdrop news">
+      <section class="_news single-col">
+        <h2>{{ i18n "news" }} [TODO filtrování]</h2>
+        {{ range sort . "Params.order" }}
+          {{ partial "news-preview.html" . }}
+        {{ end }}
+      </section>
+    </div>
+  {{ end }}
 
   <section>
       {{ partial "md-block.html" .Params.bonus }}

@@ -31,6 +31,18 @@ const pic = (title: string, name: string) =>
     }),
   ]);
 
+const fig = (title: string, name: string) =>
+  object(title, name, [
+    file("Obrázek", "pic"),
+    string("Titulek obrázku", "caption", {
+      hint: "Titulek viditelný pod obrázkem.",
+    }),
+    string("Popis obrázku", "desc", {
+      hint: "Popis slouží ke zpřístupnění obrazového obsahu v textové formě.",
+      required: true,
+    }),
+  ]);
+
 const cta = () =>
   object(
     "Kontaktní patička",
@@ -95,6 +107,30 @@ const stranky = files("Stránky", "stranky", [
       image("Ilustrační obrázek", "pic"),
     ]),
   ]),
+  fileCollection(
+    "Přístupnost budovy",
+    "budova",
+    "content/pristupnost/budova/index.md",
+    [
+      title("Titulek"),
+      list("Sekce", "sekce", "gallery", [
+        image("Ilustrační obrázek", "pic"),
+        markdown("Text", "desc"),
+      ]),
+    ],
+    {
+      media_folder: "",
+    }
+  ),
+  fileCollection(
+    "Snadné čtení",
+    "easy-read",
+    "content/pristupnost/snadne-cteni/index.md",
+    [title("Titulek"), markdown("Text stránky", "body")],
+    {
+      media_folder: "",
+    }
+  ),
 ]);
 
 const onas = files("O nás", "onas", [
@@ -107,7 +143,7 @@ const onas = files("O nás", "onas", [
       string("Titulek v menu", "menuTitle"),
       markdown("Perex", "description"),
       markdown("Text stránky", "body"),
-      list("Odkazy", "Odkaz", "links", [
+      list("Odkazy", "odkaz", "links", [
         string("Odkaz", "link"),
         string("Popis", "text"),
       ]),
@@ -314,6 +350,39 @@ const aktualne = folderCollection(
     datetime("Datum", "date", { time_format: false }),
     markdown("Perex", "perex"),
     markdown("Text", "body"),
+  ]
+);
+
+const projekty = folderCollection(
+  "Projekty",
+  "projekt",
+  "projetky",
+  {
+    folder: "content/projekty",
+    path: "{{slug}}/index",
+    extension: "md",
+    create: true,
+    media_folder: "",
+    public_folder: "",
+  },
+  [
+    title("Název projektu"),
+    string("Řetezec v adrese", "slug"),
+    boolean("Probíhající projekt", "ongoing"),
+    markdown("Popis projektu", "body"),
+    markdown("Dodatečný text pod aktualitami k projektu", "bonus"),
+    fig("Ilustrační obrázek", "illustration"),
+    list("Partneři", "Partner", "partners", [
+      string("Název", "name"),
+      image("Logo", "logo"),
+    ]),
+    list("Galerie", "Fotka", "gallery", [
+      file("Obrázek", "pic"),
+      string("Popis obrázku", "alt", {
+        hint: "Popis slouží ke zpřístupnění obrazového obsahu v textové formě.",
+        required: true,
+      }),
+    ]),
   ]
 );
 
