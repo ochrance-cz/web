@@ -38,6 +38,8 @@ Projekt reaguje na přemíru diskriminačních reklam v českém veřejném pros
 
 <!--StartFragment-->
 
-![](https://www.ochrance.cz/uploads/RTEmagicC_osf_praha_cz_02.jpg.jpg)![](https://www.ochrance.cz/uploads/RTEmagicC_norway_grants_02.jpg.jpg)
+![Obrázek představuje logo norway grants.](https://www.ochrance.cz/uploads/RTEmagicC_norway_grants_02.jpg.jpg)
+
+![Obrázek představuje logo OPEN SOCIETY FUND.](nadace_open_society_fund.jpg)
 
 <!--EndFragment-->
