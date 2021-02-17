@@ -6,6 +6,8 @@ illustration:
 ---
 <!--StartFragment-->
 
+![Obrázek zobrazuje logo EU.](eu.jpg)
+
 <!--EndFragment-->
 
 <!--StartFragment-->
