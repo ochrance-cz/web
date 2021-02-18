@@ -1,23 +1,17 @@
 ---
 title: Veřejné zakázky
 ---
-# Profil zadavatele
+## Profil zadavatele
 
 [Profil zadavatele](https://www.vhodne-uverejneni.cz/profil/70836981)
 
-# Aktuální veřejné zakázky
+## Aktuální veřejné zakázky
 
 [Aktuální veřejné zakázky](https://www.vhodne-uverejneni.cz/profil/70836981)
 
-# Archiv veřejných zakázek
+## Archiv veřejných zakázek
 
-<!--StartFragment-->
-
-## Přehled ukončených zadávacích řízení dle zákona č. 137/2006 Sb., o  veřejných zakázkách, ve znění pozdějších předpisů (nadlimitní a  podlimitní veřejné zakázky, zakázky malého rozsahu)
-
-<!--EndFragment-->
-
-<!--StartFragment-->
+### Přehled ukončených zadávacích řízení dle zákona č. 137/2006 Sb., o  veřejných zakázkách, ve znění pozdějších předpisů (nadlimitní a  podlimitní veřejné zakázky, zakázky malého rozsahu)
 
 | Název veřejné zakázky                                                                                                                                                                           | Druh řízení            | Datum zveřejnění | Lhůta pro podání nabídek/doručení žádosti o účast | Vybraný dodavatel                                  |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | ---------------- | ------------------------------------------------- | -------------------------------------------------- |
@@ -36,5 +30,3 @@ title: Veřejné zakázky
 | [Poskytování telekomunikačních služeb, na dobu určitou od 1.7.2012 do 30.6.2014](https://www.ochrance.cz/kancelar-vop/verejne-zakazky/archiv-verejnych-zakazek/p12v00000019/)                   | zakázka malého rozsahu | 17.4.2012        | 2.5.2012 v 10:00 hod.                             | X Zrušené                                          |
 | [Provádění revizí, oprav a údržby bezpečnostních systémů](https://www.ochrance.cz/kancelar-vop/verejne-zakazky/archiv-verejnych-zakazek/p12v00000018/)                                          | zakázka malého rozsahu | 20.4.2012        | 2.5.2012 v 10:00 hod.                             | SECURITY TECHNOLOGIES s. r. o.                     |
 | [Dodávka výpočetní techniky](https://www.ochrance.cz/kancelar-vop/verejne-zakazky/archiv-verejnych-zakazek/p12v00000017/)                                                                       | zakázka malého rozsahu | 28.2.2012        | 7.3.2012 v 10:00 hod.                             | HCV group, a.s.                                    |
-
-<!--EndFragment-->
