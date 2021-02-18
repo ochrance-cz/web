@@ -3,7 +3,7 @@ title: Povinně zveřejňované informace
 ---
 <!--StartFragment-->
 
-# Název
+## Název
 
 <!--EndFragment-->
 
@@ -15,7 +15,7 @@ Kancelář veřejného ochránce práv
 
 <!--StartFragment-->
 
-# Důvod a způsob založení
+## Důvod a způsob založení
 
 <!--EndFragment-->
 
@@ -27,7 +27,7 @@ Kancelář veřejného ochránce práv byla založena k organizačnímu, odborn
 
 <!--StartFragment-->
 
-# Organizační struktura
+## Organizační struktura
 
 <!--EndFragment-->
 
@@ -74,7 +74,7 @@ Organizační struktura Kanceláře veřejného ochránce práv (dále i jen �
 
 <!--StartFragment-->
 
-# Kontaktní spojení
+## Kontaktní spojení
 
 <!--EndFragment-->
 
@@ -118,7 +118,7 @@ Kancelář veřejného ochránce práv nemá vlastní internetovou stránku. Inf
 
 <!--StartFragment-->
 
-# Seznam hlavních dokumentů
+## Seznam hlavních dokumentů
 
 <!--EndFragment-->
 
@@ -131,13 +131,13 @@ Kancelář veřejného ochránce práv nemá vlastní internetovou stránku. Inf
 
 <!--StartFragment-->
 
-# Rozpočet
+## Rozpočet
 
 <!--EndFragment-->
 
 <!--StartFragment-->
 
-## Rok 2020: Závazné ukazatele kapitoly 309 (v tis. Kč): 
+### Rok 2020: Závazné ukazatele kapitoly 309 (v tis. Kč): 
 
 <!--EndFragment-->
 
@@ -164,7 +164,7 @@ Kancelář veřejného ochránce práv nemá vlastní internetovou stránku. Inf
 
 <!--StartFragment-->
 
-## Rok 2019: Závazné ukazatele kapitoly 309 (v tis. Kč):
+### Rok 2019: Závazné ukazatele kapitoly 309 (v tis. Kč):
 
 <!--EndFragment-->
 
@@ -191,7 +191,7 @@ Kancelář veřejného ochránce práv nemá vlastní internetovou stránku. Inf
 
 <!--StartFragment-->
 
-## Rok 2018: Závazné ukazatele kapitoly 309 (v tis. Kč):
+### Rok 2018: Závazné ukazatele kapitoly 309 (v tis. Kč):
 
 <!--EndFragment-->
 
@@ -218,7 +218,7 @@ Kancelář veřejného ochránce práv nemá vlastní internetovou stránku. Inf
 
 <!--StartFragment-->
 
-## Rok 2017: Závazné ukazatele kapitoly 309 (v tis. Kč)
+### Rok 2017: Závazné ukazatele kapitoly 309 (v tis. Kč)
 
 <!--EndFragment-->
 
@@ -245,7 +245,7 @@ Kancelář veřejného ochránce práv nemá vlastní internetovou stránku. Inf
 
 <!--StartFragment-->
 
-## Rok 2016: Závazné ukazatele kapitoly 309 (v tis. Kč)
+### Rok 2016: Závazné ukazatele kapitoly 309 (v tis. Kč)
 
 <!--EndFragment-->
 
@@ -272,7 +272,7 @@ Kancelář veřejného ochránce práv nemá vlastní internetovou stránku. Inf
 
 <!--StartFragment-->
 
-## Rok 2015: Závazné ukazatele kapitoly 309 (v tis. Kč):
+### Rok 2015: Závazné ukazatele kapitoly 309 (v tis. Kč):
 
 <!--EndFragment-->
 
@@ -299,7 +299,7 @@ Kancelář veřejného ochránce práv nemá vlastní internetovou stránku. Inf
 
 <!--StartFragment-->
 
-## Rok 2014: Závazné ukazatele kapitoly 309 (v tis. Kč):
+### Rok 2014: Závazné ukazatele kapitoly 309 (v tis. Kč):
 
 <!--EndFragment-->
 
@@ -323,7 +323,7 @@ Kancelář veřejného ochránce práv nemá vlastní internetovou stránku. Inf
 
 <!--StartFragment-->
 
-## Rok 2012: Závazné ukazatele kapitoly 309 (v tis. Kč):
+### Rok 2012: Závazné ukazatele kapitoly 309 (v tis. Kč):
 
 <!--EndFragment-->
 
@@ -343,7 +343,7 @@ Kancelář veřejného ochránce práv nemá vlastní internetovou stránku. Inf
 
 <!--StartFragment-->
 
-## Rok 2011: Závazné ukazatele kapitoly 309 (v tis. Kč): 
+### Rok 2011: Závazné ukazatele kapitoly 309 (v tis. Kč): 
 
 <!--EndFragment-->
 
@@ -363,7 +363,7 @@ Kancelář veřejného ochránce práv nemá vlastní internetovou stránku. Inf
 
 <!--StartFragment-->
 
-## Rok 2010: Závazné ukazatele kapitoly 309 (v tis. Kč):
+### Rok 2010: Závazné ukazatele kapitoly 309 (v tis. Kč):
 
 <!--EndFragment-->
 
@@ -381,11 +381,9 @@ Kancelář veřejného ochránce práv nemá vlastní internetovou stránku. Inf
 
 <!--EndFragment-->
 
-
-
 <!--StartFragment-->
 
-# Hospodaření Kanceláře veřejného ochránce práv
+## Hospodaření Kanceláře veřejného ochránce práv
 
 <!--EndFragment-->
 
@@ -397,7 +395,7 @@ Státní závěrečný účet Kanceláře za jednotlivé roky je zveřejněn [
 
 <!--StartFragment-->
 
-# Žádosti o informace
+## Žádosti o informace
 
 <!--EndFragment-->
 
@@ -411,7 +409,7 @@ Za vyřizování žádostí o informace, vztahující se k činnosti Kancelá�
 
 <!--StartFragment-->
 
-# Příjem žádostí a dalších podání
+## Příjem žádostí a dalších podání
 
 <!--EndFragment-->
 
@@ -423,7 +421,7 @@ Příjem stížností na Kancelář veřejného ochránce práv je na [kontakt
 
 <!--StartFragment-->
 
-# Popisy postupů – návody na řešení životních situací
+## Popisy postupů – návody na řešení životních situací
 
 <!--EndFragment-->
 
@@ -437,7 +435,7 @@ Možnosti řešení životních situací jsou zveřejněny [v samostatné čás
 
 <!--StartFragment-->
 
-# Nejdůležitější používané předpisy
+## Nejdůležitější používané předpisy
 
 <!--EndFragment-->
 
@@ -445,17 +443,21 @@ Možnosti řešení životních situací jsou zveřejněny [v samostatné čás
 
 Činnost Kanceláře veřejného ochránce práv se řídí zejména těmito předpisy:
 
-* zákon č. 349/1999 Sb., o veřejném ochránci práv, ve znění pozdějších předpisů,
-* nařízení vlády 165/2000 Sb., k provedení zákona o veřejném ochránci práv,
-* # zákon č. 218/2000 Sb., o rozpočtových pravidlech, ve znění pozdějších předpisů,
-* zákon č. 219/2000 Sb., o majetku České republiky a jejím vystupování v právních vztazích, ve znění pozdějších předpisů
-* zákon č. 563/1991 Sb., o účetnictví, ve znění pozdějších předpisů
+zákon č. 349/1999 Sb., o veřejném ochránci práv, ve znění pozdějších předpisů,
+
+nařízení vlády 165/2000 Sb., k provedení zákona o veřejném ochránci práv
+
+zákon č. 218/2000 Sb., o rozpočtových pravidlech, ve znění pozdějších předpisů,
+
+zákon č. 219/2000 Sb., o majetku České republiky a jejím vystupování v právních vztazích, ve znění pozdějších předpisů
+
+zákon č. 563/1991 Sb., o účetnictví, ve znění pozdějších předpisů
 
 <!--EndFragment-->
 
 <!--StartFragment-->
 
-# Vydané právní předpisy
+### Vydané právní předpisy
 
 <!--EndFragment-->
 
@@ -473,7 +475,7 @@ Kancelář veřejného ochránce práv nevydává žádné vlastní právní př
 
 <!--StartFragment-->
 
-# Úhrady za poskytování informací
+## Úhrady za poskytování informací
 
 <!--EndFragment-->
 
@@ -481,7 +483,7 @@ Kancelář veřejného ochránce práv nevydává žádné vlastní právní př
 
 Kancelář veřejného ochránce práv za poskytování informací  požaduje úhradu dle *[Sazebník úhrad za poskytování informací podle zákona č. 106/1999 Sb., o svobodném přístupu k informacím, ve znění pozdějších předpisů](https://www.ochrance.cz/kancelar-vop/poskytovani-informaci-podle-zakona-c-1061999-sb/zasady-pro-poskytovani-informaci/sazebnik-uhrad-za-poskytovani-informaci-podle-zakona-c-1061999-sb-o-svobodnem-pristupu-k-informacim-ve-zneni-pozdejsich-predpisu/)*
 
-# Licenční smlouvy
+## Licenční smlouvy
 
 <!--EndFragment-->
 
