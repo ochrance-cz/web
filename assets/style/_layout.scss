@@ -114,6 +114,10 @@ article {
     background: $orange;
   }
 
+  .yellow .single-hue-pic-wrapper .single-hue-pic::after {
+    background: $yellow;
+  }
+
   ._footer-pic {
     background: $gray;
 
