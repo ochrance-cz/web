@@ -108,11 +108,7 @@ Sál je vhodný pro pořádání seminářů, konferencí, apod.
 
 ![Na fotografii je zachycena prázdná víceúčelová místnost.](viceucelova_mistnost_3.jpg "Víceúčelová místnost")
 
-## Komerční ceník
-
 ## [Komerční ceník](https://www.ochrance.cz/fileadmin/user_upload/img/Saly/Cenik_komercni_2020.pdf)
-
-## [](https://www.ochrance.cz/fileadmin/user_upload/img/Saly/Cenik_komercni_2020.pdf)Nekomerční ceník
 
 ## [Nekomerční ceník](https://www.ochrance.cz/fileadmin/user_upload/img/Saly/Cenik_nekomercni_2020.pdf)
 
