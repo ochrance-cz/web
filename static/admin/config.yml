@@ -508,6 +508,42 @@ collections:
     path: '{{slug}}/index'
     media_folder: ''
     public_folder: ''
+  - name: situace
+    label: Letáky
+    label_singular: leták
+    folder: content/situace
+    extension: md
+    editor:
+      preview: false
+    fields:
+      - label: Název letáku
+        name: title
+        widget: string
+      - label: Krátký popis
+        name: body
+        required: false
+        widget: markdown
+      - label: Leták v PDF
+        name: pdf
+        required: false
+        widget: file
+      - label: Další přílohy
+        name: attachments
+        required: false
+        label_singular: Příloha
+        widget: list
+        fields:
+          - label: Název přílohy
+            name: title
+            widget: string
+          - label: Soubor
+            name: file
+            required: false
+            widget: file
+    create: true
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: ''
   - name: provoz
     label: Provoz
     label_singular: informační stránka
@@ -543,7 +579,7 @@ collections:
     path: '{{slug}}/index'
     media_folder: ''
     public_folder: ''
-  - name: projetky
+  - name: projekty
     label: Projekty
     label_singular: projekt
     folder: content/projekty
@@ -578,7 +614,7 @@ collections:
           - label: Obrázek
             name: pic
             required: false
-            widget: file
+            widget: image
           - label: Titulek obrázku
             name: caption
             required: false
@@ -611,9 +647,10 @@ collections:
           - label: Obrázek
             name: pic
             required: false
-            widget: file
+            widget: image
           - label: Popis obrázku
             name: alt
+            required: false
             hint: Popis slouží ke zpřístupnění obrazového obsahu v textové formě.
             widget: string
     create: true
@@ -734,7 +771,7 @@ collections:
     path: '{{slug}}/index'
     media_folder: ''
     public_folder: ''
-  - name: projetky-en
+  - name: projekty-en
     label: Projekty (EN)
     label_singular: projekt (en)
     folder: content-en/projekty

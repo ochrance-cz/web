@@ -424,7 +424,6 @@ const projekty = folderCollection(
       image("Obrázek", "pic"),
       string("Popis obrázku", "alt", {
         hint: "Popis slouží ke zpřístupnění obrazového obsahu v textové formě.",
-        required: true,
       }),
     ]),
   ]
