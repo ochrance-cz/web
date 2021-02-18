@@ -1,5 +1,5 @@
 ---
-title: EASY READ
+title: What does the ombudsman do? (easy read)
 ---
 Ombudsman is a person who helps people.
 
