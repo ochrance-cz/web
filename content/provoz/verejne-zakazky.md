@@ -1,13 +1,9 @@
 ---
 title: Veřejné zakázky
 ---
-## Profil zadavatele
+## [Profil zadavatele](https://www.vhodne-uverejneni.cz/profil/70836981)
 
-[Profil zadavatele](https://www.vhodne-uverejneni.cz/profil/70836981)
-
-## Aktuální veřejné zakázky
-
-[Aktuální veřejné zakázky](https://www.vhodne-uverejneni.cz/profil/70836981)
+## [Aktuální veřejné zakázky](https://www.vhodne-uverejneni.cz/profil/70836981)
 
 ## Archiv veřejných zakázek
 
