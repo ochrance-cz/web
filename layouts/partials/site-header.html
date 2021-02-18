@@ -28,7 +28,7 @@
                 {{ range sort (where (where .Site.Pages "Section" "potrebuji-pomoc") "Kind" "page") "Params.order" }}
                   <li>
                     <a
-                      href="{{ .RelPermalink }}"
+                      href="{{ cond (isset .Params "link") .Params.link .RelPermalink }}"
                       class="icon-{{ with .Params.icon }}{{ . }}{{ else }}arrow{{ end }}">
                       {{- .Title -}}
                     </a>

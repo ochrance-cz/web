@@ -15,10 +15,10 @@
     <p class="contacts">
       Kontaktujte nás<br>
       <span class="phone-label">Telefon: </span>
-        <span class="phone">777 777 777</span>
+        <span class="phone">{{ (.GetPage "kontakt").Params.phone }}</span>
         <br>
       <span class="email-label">E-mail: </span>
-        <a href="">podatelna@ochrance.cz</a>
+        <a href="mailto:{{ (.GetPage "kontakt").Params.email }}">{{ (.GetPage "kontakt").Params.email }}</a>
     </p>
   </section>
 </div>

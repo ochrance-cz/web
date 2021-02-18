@@ -1,7 +1,7 @@
 <div class="_backdrop footer">
   <footer class="_site-footer">
     <div class="cols">
-      <form>
+      <!-- <form>
         <h2>{{ i18n "stay-informed" }}</h2>
 
         <p>{{ i18n "subscribe" }}</p>
@@ -12,7 +12,7 @@
         {{ with .GetPage "/" }}
           <p class="_typo--small">{{ .Params.consent | markdownify }}</p>
         {{ end }}
-      </form>
+      </form> -->
 
       <section>
         <h2>{{ i18n "get-overview" }}</h2>
@@ -37,18 +37,33 @@
 
         <ul>
           <li>
+            <span class="email-label">{{ i18n "e-mail" }}: </span>
+            <a href="mailto:{{ (.GetPage "kontakt").Params.email }}">{{ (.GetPage "kontakt").Params.email }}</a>
+          </li>
+
+          <li>
+            <span class="phone-label">{{ i18n "phone" }}: </span>
+            <span class="phone">{{ (.GetPage "kontakt").Params.phone }}</span>
+          </li>
+
+          <li>
             <span class="facebook-label">Facebook: </span>
             <a href="https://fb.com/verejny.ochrance.prav">verejny.ochrance.prav</a>
           </li>
 
           <li>
-            <span class="email-label">{{ i18n "e-mail" }}: </span>
-            <a href="mailto:podatelna@ochrance.cz">podatelna@ochrance.cz</a>
+            <span class="twitter-label">Twitter: </span>
+            <a href="https://twitter.com/ochranceprav">@ochranceprav</a>
           </li>
 
           <li>
-            <span class="phone-label">{{ i18n "phone" }}: </span>
-            <span class="phone">777 777 777</span>
+            <span class="instagram-label">Instagram: </span>
+            <a href="https://www.instagram.com/verejny.ochrance.prav">verejny.ochrance.prav</a>
+          </li>
+
+          <li>
+            <span class="youtube-label">Youtube: </span>
+            <a href="https://www.youtube.com/channel/UCdWvuDhPr0GVH1mlSbWnNjQ">Ombudsman</a>
           </li>
         </ul>
       </section>

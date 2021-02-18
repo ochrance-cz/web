@@ -87,7 +87,10 @@
 
   .phone-label,
   .email-label,
-  .facebook-label {
+  .facebook-label,
+  .instagram-label,
+  .youtube-label,
+  .twitter-label {
     display: inline-block;
     width: 2.5rem;
     height: 2rem;
@@ -110,6 +113,30 @@
 
   .facebook-label::before {
     @include fa-icon($fa-var-facebook-f);
+    font-family: "FontAwesome-Brands";
+    width: 2rem;
+    top: 0;
+    margin-right: 1rem;
+  }
+
+  .instagram-label::before {
+    @include fa-icon($fa-var-instagram);
+    font-family: "FontAwesome-Brands";
+    width: 2rem;
+    top: 0;
+    margin-right: 1rem;
+  }
+
+  .youtube-label::before {
+    @include fa-icon($fa-var-youtube);
+    font-family: "FontAwesome-Brands";
+    width: 2rem;
+    top: 0;
+    margin-right: 1rem;
+  }
+
+  .twitter-label::before {
+    @include fa-icon($fa-var-twitter);
     font-family: "FontAwesome-Brands";
     width: 2rem;
     top: 0;

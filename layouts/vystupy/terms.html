@@ -9,12 +9,17 @@
           <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
         {{ end }}
       </ul>
+
       <h2>{{ i18n "eso-docs" }}</h2>
-      <ul class="_link-list">
-        {{ range where (where .Site.Pages "Section" "eso") "Kind" "page" }}
-          <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-        {{ end }}
-      </ul>
+      <p>
+        Ombudsman publikuje svá stanoviska prostřednictvím databáze <a href="/eso/">ESO</a> (Evidence stanovisek ombudsmana). Najdete v ní mimo jiné
+        {{ $docsCats := where (where .Site.Pages "Section" "eso") "Kind" "page"}}
+        {{ range $index, $cat := $docsCats }}
+          <strong>{{ $cat.Title }}</strong>
+          {{- if lt (add $index 2) (len $docsCats) }}, {{ end -}}
+          {{- if eq (add $index 2) (len $docsCats) }} a {{ end -}}
+        {{ end }}.
+      </p>
 
       <h2>{{ i18n "in-media" }}</h2>
 
@@ -26,9 +31,11 @@
 
       {{ .Content }}
 
+      {{ with .Params.info }}
       <p class="_icon-info">
-        {{ .Params.info | markdownify }}
+        {{ . | markdownify }}
       </p>
+      {{ end }}
     </section>
 
     {{ partial "cta.html" . }}

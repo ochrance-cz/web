@@ -24,7 +24,7 @@ import {
 
 const pic = (title: string, name: string) =>
   object(title, name, [
-    file("Obrázek", "pic"),
+    image("Obrázek", "pic"),
     string("Popis obrázku", "desc", {
       hint: "Popis slouží ke zpřístupnění obrazového obsahu v textové formě.",
       required: true,
@@ -33,7 +33,7 @@ const pic = (title: string, name: string) =>
 
 const fig = (title: string, name: string) =>
   object(title, name, [
-    file("Obrázek", "pic"),
+    image("Obrázek", "pic"),
     string("Titulek obrázku", "caption", {
       hint: "Titulek viditelný pod obrázkem.",
     }),
@@ -353,10 +353,54 @@ const aktualne = folderCollection(
   ]
 );
 
+const kategorie = [
+  { label: "Bydlení", value: "bydleni" },
+  { label: "Cestování", value: "cestovani" },
+  { label: "Cizinci", value: "cizinci" },
+  { label: "Diskriminace", value: "diskriminace" },
+  { label: "Dluhy", value: "dluhy" },
+  { label: "Finance a zboží", value: "finance" },
+  { label: "Lidé se zdravotním postižením", value: "zdravotni-postizeni" },
+  { label: "Ombudsman a jeho pravomoce", value: "pravomoce" },
+  { label: "Práce", value: "prace" },
+  { label: "Právní pomoc a poradenství", value: "pravni-pomoc" },
+  { label: "Rodina", value: "rodina" },
+  { label: "Školství", value: "skolstvi" },
+  { label: "Sociální pomoc a podpora", value: "socialni-pomoc" },
+  { label: "Soudy", value: "soudy" },
+  { label: "Státní správa a samospráva", value: "sprava" },
+  { label: "Stavebnictví", value: "stavebnictvi" },
+  { label: "Vězeňství", value: "vezenstvi" },
+  { label: "Zdravotnictví", value: "zdravotnictvi" },
+];
+
+const situace = folderCollection(
+  "Letáky",
+  "leták",
+  "situace",
+  {
+    folder: "content/situace",
+    path: "{{slug}}/index",
+    extension: "md",
+    create: true,
+    media_folder: "",
+    public_folder: "",
+  },
+  [
+    title("Název letáku"),
+    markdown("Krátký popis", "body"),
+    file("Leták v PDF", "pdf"),
+    list("Další přílohy", "Příloha", "attachments", [
+      title("Název přílohy"),
+      file("Soubor", "file"),
+    ]),
+  ]
+);
+
 const projekty = folderCollection(
   "Projekty",
   "projekt",
-  "projetky",
+  "projekty",
   {
     folder: "content/projekty",
     path: "{{slug}}/index",
@@ -377,7 +421,7 @@ const projekty = folderCollection(
       image("Logo", "logo"),
     ]),
     list("Galerie", "Fotka", "gallery", [
-      file("Obrázek", "pic"),
+      image("Obrázek", "pic"),
       string("Popis obrázku", "alt", {
         hint: "Popis slouží ke zpřístupnění obrazového obsahu v textové formě.",
         required: true,
@@ -428,6 +472,7 @@ save("./static/admin/config.yml", {
     onas,
     pusobnost,
     pomoc,
+    situace,
     ops,
     info,
     projekty,

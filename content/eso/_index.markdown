@@ -1,3 +1,3 @@
 ---
-title: Eso
+title: Evidence stanovisek ombudsmana (ESO)
 ---
