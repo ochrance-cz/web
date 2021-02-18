@@ -1,13 +1,9 @@
 ---
 title: Pronájem prostor
 ---
-# Velký sál
+## Velký sál
 
-<!--StartFragment-->
-
-## Obecné informace o sálu
-
-## <!--StartFragment-->
+### Obecné informace o sálu
 
 * Sál je vhodný pro pořádání seminářů, konferencí, koncertů, hudebních programů (solidní akustika), apod.
 * Prostor je vybaven stoly + židlemi, pódiem. Max. kapacita při školní úpravě je 144 míst, při koncertní úpravě 216 míst.
@@ -17,13 +13,7 @@ title: Pronájem prostor
 * V sále je zákaz konzumace jídla a nápojů
 * Pro podání pohoštění či neformální setkání je možno využít předsálí
 
-<!--EndFragment-->\
-
-<!--StartFragment-->
-
-## Dispoziční možnosti
-
-<!--EndFragment-->
+### Dispoziční možnosti
 
 [Školní úprava](https://www.ochrance.cz/fileadmin/user_upload/img/Saly/VS_skolni_uprava_144_osob.pdf)
 
@@ -39,15 +29,12 @@ title: Pronájem prostor
 
 ![Fotografie zobrazuje velký sál, v popředí je umístěn také řečnický pult a stůl.](velky_sal_5.jpg "Velký sál")
 
-# Malý sál
+## Malý sál
 
-<!--StartFragment-->
+### Obecné informace o sálu
 
-## Obecné informace o sálu
+Sál je vhodný pro pořádání seminářů, konferencí, apod.
 
-## <!--StartFragment-->
-
-* Sál je vhodný pro pořádání seminářů, konferencí, apod.
 * Prostor je vybaven stoly + židlemi. Max. kapacita při školní úpravě je 64 míst, při koncertní úpravě 70 míst.
 * Rozměr sálu: šířka místnosti: 8 m, délka místnosti: 17 m
 * Standardní vybavení AV technikou: dataprojektor vč. promítacího plátna, notebook, ozvučení – 2 mikrofony, WiFi, flipchart
@@ -55,21 +42,15 @@ title: Pronájem prostor
 * V sále je zákaz konzumace jídla a nápojů
 * Pro podání pohoštění či neformální setkání je možno využít předsálí
 
-<!--EndFragment-->
-
 ![Fotografie zobrazuje malý sál z pohledu zezadu. Stoly jsou uspořádány do tvaru písmene O.](maly_sal_1.jpg "Malý sál")
 
 ![Fotografie zobrazuje malý sál z pohledu zezadu. Stoly jsou uspořádány do tvaru písmene O.](maly_sal_2.jpg "Malý sál")
 
 ![Fotografie zobrazuje malý sál z pohledu zepředu. Stoly jsou uspořádány do tvaru písmene O.](maly_sal_3.jpg "Malý sál")
 
-# Předsálí
+## Předsálí
 
-<!--StartFragment-->
-
-## Obecné informace o předsálí
-
-## <!--StartFragment-->
+### Obecné informace o předsálí
 
 * K pronájmu sálů se automaticky připočítává pronájem předsálí
 * Předsálí je vhodné využít zejména pro prezentace a podání pohoštění
@@ -83,21 +64,9 @@ title: Pronájem prostor
 
 ![Fotografie zobrazuje předsálí, kde jsou stolu uspořádány podél stěn v místnosti, v prostoru je také velký stůl s ubrusem.](predsali_2.jpg "Předsálí")
 
-# Tiskové středisko
+## Tiskové středisko
 
-
-
-<!--StartFragment-->
-
-## Obecné informace o tiskovém středisku
-
-## <!--EndFragment-->
-
-
-
-
-
-<!--StartFragment-->
+### Obecné informace o tiskovém středisku
 
 * Tiskové středisko je vhodné pro pořádání seminářů, kulatých stolů
 * Prostor je vybaven stoly + židlemi, max. kapacita do 25 osob
@@ -114,11 +83,11 @@ title: Pronájem prostor
 
 ![Na fotografii je zobrazené tiskové středisko. Stoly jsou umístěny rovnoběžně za sebou.](tiskove_stredisko_3.jpg "Tiskové středisko")
 
-# Víceúčelová místnost
+## Víceúčelová místnost
 
 <!--StartFragment-->
 
-## Obecné informace o víceúčelové místnosti
+### Obecné informace o víceúčelové místnosti
 
 <!--EndFragment-->
 
@@ -139,21 +108,15 @@ title: Pronájem prostor
 
 ![Na fotografii je zachycena prázdná víceúčelová místnost.](viceucelova_mistnost_3.jpg "Víceúčelová místnost")
 
-# Komerční ceník
+## Komerční ceník
 
 ## [Komerční ceník](https://www.ochrance.cz/fileadmin/user_upload/img/Saly/Cenik_komercni_2020.pdf)
 
-# [](https://www.ochrance.cz/fileadmin/user_upload/img/Saly/Cenik_komercni_2020.pdf)Nekomerční ceník
+## [](https://www.ochrance.cz/fileadmin/user_upload/img/Saly/Cenik_komercni_2020.pdf)Nekomerční ceník
 
 ## [Nekomerční ceník](https://www.ochrance.cz/fileadmin/user_upload/img/Saly/Cenik_nekomercni_2020.pdf)
 
-# Kontaktní osoba
-
-
-
-
-
-<!--StartFragment-->
+## Kontaktní osoba
 
 Markéta Svobodová
 
