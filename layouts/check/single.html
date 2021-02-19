@@ -1,0 +1,42 @@
+{{ define "main" }}
+<main>
+  {{ partial "text-header.html" . }}
+
+  <div {{ with .Params.contentBackdrop }} class="{{ . }}"{{ end }}>
+    <section>
+      <h1>Krátký obsah (počet znaků)</h1>
+      <ul>
+      {{ range .Site.AllPages }}
+        {{ if and (gt (len .Content) 0) (lt (len .Content) 100) }}
+          <li><a href="{{ .RelPermalink }}">{{ .Title }} — {{ .RelPermalink }}</a> {{ len .Content }}</li>
+        {{ end }}
+      {{ end }}
+      </ul>
+    </section>
+
+    <section>
+      <h1>K dotažení</h1>
+      <p>Stránky, které obsahují text TODO.</p>
+      <ul>
+      {{ range .Site.AllPages }}
+        {{ if findRE "TODO" (printf "%%" .Params .Content) }}
+
+          <li><a href="{{ .RelPermalink }}">{{ .Title }} — {{ .RelPermalink }}</a></li>
+        {{ end }}
+      {{ end }}
+      </ul>
+    </section>
+
+    <section>
+      <h1>Žádný obsah</h1>
+      <ul>
+      {{ range .Site.AllPages }}
+        {{ if eq .Content "" }}
+          <li><a href="{{ .RelPermalink }}">{{ .Title }} — {{ .RelPermalink }}</a></li>
+        {{ end }}
+      {{ end }}
+      </ul>
+    </section>
+  </div>
+</main>
+{{ end }}
