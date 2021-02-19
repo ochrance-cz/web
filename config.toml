@@ -5,7 +5,7 @@ title = "Obudsman"
 relativeurls = true
 
 [outputs]
-home = ["HTML", "RSS", "Elastic"]
+home = ["HTML", "RSS", "Elastic", "htaccess"]
 
 [taxonomies]
   vystup = "vystupy"
@@ -42,3 +42,12 @@ notAlternative = true
 [params.Elastic]
 vars = ["title", "summary", "date", "publishdate", "expirydate", "permalink"]
 params = ["categories", "tags"]
+
+[outputFormats.htaccess]
+baseName = ""
+isPlainText = true
+mediaType = "text/htaccess"
+
+[mediaTypes]
+[mediaTypes."text/htaccess"]
+suffixes = ["htaccess"]
