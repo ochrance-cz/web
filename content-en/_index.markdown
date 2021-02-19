@@ -1,6 +1,7 @@
 ---
 title: Public Defender of Rights
-claim: Being here for everyone
+headerPic: /en/images/home.jpg
 situationsTitle: I need help
-cinnostTitle: " Ombudsman’s activities"
+cinnostTitle: Public Defender’s activities
+claim: Being here for everyone
 ---
