@@ -1,0 +1,13 @@
+@media only print {
+  ._site-header ._collapsible-nav {
+    display: none;
+  }
+
+  ._site-footer {
+    display: none;
+  }
+
+  ._no-print {
+    display: none;
+  }
+}
