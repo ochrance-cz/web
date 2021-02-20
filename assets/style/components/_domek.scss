@@ -1,0 +1,28 @@
+._domek {
+  display: block;
+  padding-top: 8rem;
+  background: #e0edf3;
+  background-image: url(/images/domek.png);
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 0% 100%;
+  color: white;
+  text-decoration: none;
+
+  .title {
+    background: #00608a;
+    padding: 1rem;
+    margin-left: 50%;
+
+    h2 {
+      text-decoration: underline;
+    }
+
+    h2,
+    p {
+      color: white;
+      margin: 0;
+    }
+  }
+}

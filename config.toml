@@ -9,6 +9,8 @@ home = ["HTML", "RSS", "Elastic", "htaccess"]
 
 [taxonomies]
   vystup = "vystupy"
+  situation = "situations"
+
 
 [languages]
   [languages.cs]

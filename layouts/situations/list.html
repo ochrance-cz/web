@@ -1,0 +1,38 @@
+{{ define "main" }}
+<main>
+  {{ partial "pic-header.html" . }}
+
+  <div {{ with .Params.contentBackdrop }} class="{{ . }}"{{ end }}>
+    <section>
+      {{ with .Params.perex }}
+        <div class="perex">
+          {{ partial "md-block.html" . }}
+        </div>
+      {{ else }}
+        <div class="perex">
+          <p>Ombudsman pro vás připravil pomocné návody na řešení vašich životních situací.</p>
+        </div>
+      {{ end }}
+
+      <ul class="_link-list">
+        {{ range .Pages }}
+          {{ $path := replaceRE "[^/]+$" "" .RelPermalink }}
+          <li>
+            <a href="{{ $path }}{{ .Params.file }}">{{ .Title | replaceRE " - " " – " }}</a>
+            {{ if or (isset .Params "roma") (isset .Params "seeing") }}
+              <ul>
+                {{ with .Params.roma }}
+                  <li><a href="{{ $path }}{{ . }}">romsky</a></li>
+                {{ end }}
+                {{ with .Params.seeing }}
+                  <li><a href="{{ $path }}{{ . }}">verze pro osoby se zrakovým postižením</a></li>
+                {{ end }}
+              </ul>
+            {{ end }}
+          </li>
+        {{ end }}
+        </ul>
+    </section>
+  </div>
+</main>
+{{ end }}
