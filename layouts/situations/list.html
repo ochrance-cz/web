@@ -19,8 +19,14 @@
           {{ $path := replaceRE "[^/]+$" "" .RelPermalink }}
           <li>
             <a href="{{ $path }}{{ .Params.file }}">{{ .Title | replaceRE " - " " – " }}</a>
-            {{ if or (isset .Params "roma") (isset .Params "seeing") }}
+            {{ if (in .Params.situations "Formuláře") }}
+              <span class="_label">Formulář</span>
+            {{ end }}
+            {{ if or (isset .Params "info") (isset .Params "roma") (isset .Params "seeing") }}
               <ul>
+                {{ with .Params.info }}
+                  <li><a href="{{ $path }}{{ . }}">příloha</a></li>
+                {{ end }}
                 {{ with .Params.roma }}
                   <li><a href="{{ $path }}{{ . }}">romsky</a></li>
                 {{ end }}

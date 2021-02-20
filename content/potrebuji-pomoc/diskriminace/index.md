@@ -69,4 +69,5 @@ order: 3
 illustration: team-spirit-2447163__340.jpg
 button:
   text: Zjistěte víc o diskriminaci v různých situacích
+  link: /situations/diskriminace/
 ---

@@ -23,7 +23,8 @@ examples:
       ombudsmana. Ten zjistil, že úřad postupoval špatně a zajistil, že mamince
       zvýšili příspěvek na péči a vyplatili jí peníze i zpětně.
   - name: paní Martina
-    desc: Po opravě chodníku v obci nám začalo zatékat do garáže. Jednání s městem
+    desc:
+      Po opravě chodníku v obci nám začalo zatékat do garáže. Jednání s městem
       nikam nevedlo, tak jsem se obrátila na ombudsmana. Poradil nám a pomohl
       situaci rychle vyřešit. Město nakonec postavilo žlaby, které vodu odvádí
       mimo naši garáž.
@@ -32,7 +33,8 @@ examples:
       jeho zásahem úřady nezohlednily, jak dlouho jsem vážně nemocná, a proto
       jsem dostávala míň peněz.
   - name: pan Lukáš
-    desc: Když jsem měl problémy s dluhy a exekucí, obrátil jsem se na ombudsmana.
+    desc:
+      Když jsem měl problémy s dluhy a exekucí, obrátil jsem se na ombudsmana.
       Vysvětlil mi sice, že nemá pravomoc moje problémy řešit, ale přesto mi moc
       pomohl. Poradil mi, jak mám postupovat, na koho se mám obrátit.
 whenToContact:
@@ -59,4 +61,5 @@ we-can:
     nevhodně.
 button:
   text: Zjistěte, co můžete dělat
+  link: /situations/státn%C3%AD-správa-a-samospráva/
 ---

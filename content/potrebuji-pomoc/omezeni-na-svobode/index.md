@@ -36,6 +36,9 @@ examples:
       právo na sprchu dvakrát za týden.
 order: 2
 illustration: DET-23.png
+button:
+  text: Jak monitorujeme omezování osobní svobody?
+  link: /pusobnost/dohled-nad-omezovanim-osobni-svobody/
 ---
 
 Kontrolujeme zařízení, kde jsou lidé omezeni na svobodě:
