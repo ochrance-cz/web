@@ -9,7 +9,7 @@ home = ["HTML", "RSS", "Elastic", "htaccess"]
 
 [taxonomies]
   vystup = "vystupy"
-  situation = "situations"
+  situace = "situace"
 
 
 [languages]

@@ -508,10 +508,10 @@ collections:
     path: '{{slug}}/index'
     media_folder: ''
     public_folder: ''
-  - name: situace
+  - name: letaky
     label: Letáky
     label_singular: leták
-    folder: content/situace
+    folder: content/letaky
     extension: md
     editor:
       preview: false
@@ -523,27 +523,60 @@ collections:
         name: body
         required: false
         widget: markdown
+      - label: Situace
+        name: situace
+        required: false
+        widget: relation
+        collection: situace
+        valueField: title
+        searchFields:
+          - title
+        multiple: true
       - label: Leták v PDF
-        name: pdf
+        name: file
         required: false
         widget: file
-      - label: Další přílohy
-        name: attachments
+      - label: Příloha
+        name: info
         required: false
-        label_singular: Příloha
-        widget: list
-        fields:
-          - label: Název přílohy
-            name: title
-            widget: string
-          - label: Soubor
-            name: file
-            required: false
-            widget: file
+        widget: file
+      - label: Verze pro zrakově znevýhodněné
+        name: seeing
+        required: false
+        widget: file
+      - label: Verze v romštině
+        name: roma
+        required: false
+        widget: file
     create: true
     path: '{{slug}}/index'
     media_folder: ''
     public_folder: ''
+  - name: situace
+    label: Situace
+    label_singular: situace
+    folder: content/situace
+    extension: md
+    editor:
+      preview: false
+    fields:
+      - label: Název situace
+        name: title
+        widget: string
+      - label: Titulek ve formě otázky
+        name: questionTitle
+        required: false
+        widget: string
+      - label: Perex
+        name: perex
+        required: false
+        widget: markdown
+      - label: Ilustrační obrázek
+        name: illustration
+        required: false
+        widget: image
+    create: true
+    path: '{{slug}}/_index'
   - name: provoz
     label: Provoz
     label_singular: informační stránka

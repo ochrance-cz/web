@@ -353,33 +353,30 @@ const aktualne = folderCollection(
   ]
 );
 
-const kategorie = [
-  { label: "Bydlení", value: "bydleni" },
-  { label: "Cestování", value: "cestovani" },
-  { label: "Cizinci", value: "cizinci" },
-  { label: "Diskriminace", value: "diskriminace" },
-  { label: "Dluhy", value: "dluhy" },
-  { label: "Finance a zboží", value: "finance" },
-  { label: "Lidé se zdravotním postižením", value: "zdravotni-postizeni" },
-  { label: "Ombudsman a jeho pravomoce", value: "pravomoce" },
-  { label: "Práce", value: "prace" },
-  { label: "Právní pomoc a poradenství", value: "pravni-pomoc" },
-  { label: "Rodina", value: "rodina" },
-  { label: "Školství", value: "skolstvi" },
-  { label: "Sociální pomoc a podpora", value: "socialni-pomoc" },
-  { label: "Soudy", value: "soudy" },
-  { label: "Státní správa a samospráva", value: "sprava" },
-  { label: "Stavebnictví", value: "stavebnictvi" },
-  { label: "Vězeňství", value: "vezenstvi" },
-  { label: "Zdravotnictví", value: "zdravotnictvi" },
-];
-
 const situace = folderCollection(
-  "Letáky",
-  "leták",
+  "Situace",
+  "situace",
   "situace",
   {
     folder: "content/situace",
+    path: "{{slug}}/_index",
+    extension: "md",
+    create: true,
+  },
+  [
+    title("Název situace"),
+    string("Titulek ve formě otázky", "questionTitle"),
+    markdown("Perex", "perex"),
+    image("Ilustrační obrázek", "illustration"),
+  ]
+);
+
+const letaky = folderCollection(
+  "Letáky",
+  "leták",
+  "letaky",
+  {
+    folder: "content/letaky",
     path: "{{slug}}/index",
     extension: "md",
     create: true,
@@ -389,11 +386,16 @@ const situace = folderCollection(
   [
     title("Název letáku"),
     markdown("Krátký popis", "body"),
-    file("Leták v PDF", "pdf"),
-    list("Další přílohy", "Příloha", "attachments", [
-      title("Název přílohy"),
-      file("Soubor", "file"),
-    ]),
+    relation("Situace", "situace", {
+      collection: "situace",
+      valueField: "title",
+      searchFields: ["title"],
+      multiple: true,
+    }),
+    file("Leták v PDF", "file"),
+    file("Příloha", "info"),
+    file("Verze pro zrakově znevýhodněné", "seeing"),
+    file("Verze v romštině", "roma"),
   ]
 );
 
@@ -471,6 +473,7 @@ save("./static/admin/config.yml", {
     onas,
     pusobnost,
     pomoc,
+    letaky,
     situace,
     ops,
     info,

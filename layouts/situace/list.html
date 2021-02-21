@@ -1,28 +1,44 @@
 {{ define "main" }}
 <main>
-  {{ partial "text-header.html" . }}
+  {{ partial "pic-header.html" . }}
 
-  <section>
-    {{ range .Site.Data.situace.situace }}
-      {{ $situace := . }}
-      <h2>{{ . }}</h2>
+  <div {{ with .Params.contentBackdrop }} class="{{ . }}"{{ end }}>
+    <section>
+      {{ with .Params.perex }}
+        <div class="perex">
+          {{ partial "md-block.html" . }}
+        </div>
+      {{ else }}
+        <div class="perex">
+          <p>Ombudsman pro vás připravil pomocné návody na řešení vašich životních situací.</p>
+        </div>
+      {{ end }}
 
-      {{ range $.Pages }}
-        {{ if in .Params.category $situace }}
-        <article class="_article-preview">
-          <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-          {{ with .Params.perex }}
-            {{ partial "md-block.html" . }}
-          {{ end }}
-        </article>
+      <ul class="_link-list">
+        {{ range .Pages }}
+          {{ $path := replaceRE "[^/]+$" "" .RelPermalink }}
+          <li>
+            <a href="{{ $path }}{{ .Params.file | replaceRE ".+/" "" }}">{{ .Title | replaceRE " -[  ]" " – " }}</a>
+            {{ if (in .Params.situace "Formuláře") }}
+              <span class="_label">Formulář</span>
+            {{ end }}
+            {{ if or (isset .Params "info") (isset .Params "roma") (isset .Params "seeing") }}
+              <ul>
+                {{ with .Params.info }}
+                  <li><a href="{{ $path }}{{ . | replaceRE ".+/" "" }}">příloha</a></li>
+                {{ end }}
+                {{ with .Params.roma }}
+                  <li><a href="{{ $path }}{{ . | replaceRE ".+/" "" }}">romsky</a></li>
+                {{ end }}
+                {{ with .Params.seeing }}
+                  <li><a href="{{ $path }}{{ . | replaceRE ".+/" "" }}">verze pro osoby se zrakovým postižením</a></li>
+                {{ end }}
+              </ul>
+            {{ end }}
+          </li>
         {{ end }}
-      {{ end }}
-
-      {{ range where $.Pages . "in" "Params.category" }}
-
-      {{ end }}
-
-    {{ end }}
-  </section>
+        </ul>
+    </section>
+  </div>
 </main>
 {{ end }}

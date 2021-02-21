@@ -1,6 +1,6 @@
 ---
 title: Nevím si rady se svou životní situací
-link: /situations/
+link: /situace/
 illustration: nevite-si-rady.jpg
 hp: >
   Podívejte se na naše rady, jak řešit problémy třeba s exekucí, vlekoucím se
