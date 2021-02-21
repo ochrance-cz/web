@@ -4,7 +4,7 @@ headerColor: orange
 illustration: DIS.jpg
 perex: Od roku 2009 je ombudsman národním orgánem pro rovné zacházení a ochranu před diskriminací. Jeho úkolem je poskytovat obětem diskriminace metodickou pomoc, provádět výzkumy v oblasti diskriminace, vydávat doporučení k prosazování rovného zacházení.
 cta:
-  title: Řešíte takovou situaci a domníváte se, že vám ombudsman může pomoct?
+  title: Řešíte podobnou situaci a domníváte se, že vám ombudsman může pomoct?
 ---
 
 Zatímco „tradiční“ působnost ombudsmana se vztahuje pouze na úřady a instituce vykonávající státní správu, v oblasti diskriminace se ombudsman může zabývat i stížnostmi na diskriminační jednání obcí (např. při pronajímání obecních bytů), zaměstnavatelů (při výběru zaměstnanců, odměňování, ukončování pracovního poměru apod.), obchodníků (při nabízení produktů a služeb), škol a dalších.

@@ -16,6 +16,10 @@ $grid-gap: 2rem;
 
 main,
 article {
+  section img {
+    max-width: 100%;
+  }
+
   ._pic-header,
   ._footer-pic {
     align-items: center;

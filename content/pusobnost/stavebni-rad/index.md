@@ -3,6 +3,8 @@ title: Stavební řád
 headerColor: green
 illustration: stavebko-03.jpg
 perex: Stavebnictví je druhou největší oblastí, kterou se ombudsman zabývá. Odbor stavebního řádu se však kromě stavebnictví věnuje také problematice životního prostředí, památkové péči, pohřebnictví, ale také ochraně před nadměrným hlukem nebo ochranou zvířat před týráním. Ročně řešíme asi 900 podnětů.
+cta:
+  title: Řešíte podobnou situaci a domníváte se, že vám ombudsman může pomoct?
 ---
 
 ## Stavebnictví

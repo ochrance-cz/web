@@ -590,7 +590,10 @@ collections:
         name: body
         required: false
         widget: markdown
-    path: '{{slug}}'
+    create: true
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: ''
   - name: info
     label: Další informace
     label_singular: informační stránka
@@ -790,7 +793,10 @@ collections:
     extension: md
     editor: *ref_18
     fields: *ref_19
-    path: '{{slug}}'
+    create: true
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: ''
   - name: info-en
     label: Další informace (EN)
     label_singular: informační stránka (en)

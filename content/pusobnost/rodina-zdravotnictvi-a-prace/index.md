@@ -5,7 +5,7 @@ illustration: rodina.jpg
 perex: Odbor rodiny, zdravotnictví a práce vyřídí ročně okolo 1200 podnětů, z
   nichž přibližně 50 je od dětí.
 cta:
-  title: Řešíte takovou situaci a domníváte se, že vám ombudsman může pomoct?
+  title: Řešíte podobnou situaci a domníváte se, že vám ombudsman může pomoct?
 ---
 
 ## Rodina

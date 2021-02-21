@@ -7,7 +7,7 @@ perex: >
   tematických skupin: státní správa soudnictví, cizinecké právo a daně, poplatky
   a cla
 cta:
-  title: Řešíte takovou situaci a domníváte se, že vám ombudsman může pomoct?
+  title: Řešíte podobnou situaci a domníváte se, že vám ombudsman může pomoct?
 ---
 
 ## Státní správa soudů

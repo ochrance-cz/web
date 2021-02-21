@@ -327,8 +327,11 @@ const ops = folderCollection(
   "provoz",
   {
     folder: "content/provoz",
-    path: "{{slug}}",
+    path: "{{slug}}/index",
     extension: "md",
+    create: true,
+    media_folder: "",
+    public_folder: "",
   },
   [title("Titulek"), markdown("Text", "body")]
 );
