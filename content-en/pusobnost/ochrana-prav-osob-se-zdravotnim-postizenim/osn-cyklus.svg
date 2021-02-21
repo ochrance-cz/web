@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 565 384.022">
+  <g id="Group_1" data-name="Group 1" transform="translate(51.544 289.852)">
+    <path id="Path_1" data-name="Path 1" d="M35.129-223.678,62.838-238.23l-4.985,30.9-3.189-19.536Z" transform="translate(5.37 0)" fill="#0a8576" fill-rule="evenodd"/>
+    <path id="Path_2" data-name="Path 2" d="M393.664-238.23a204.531,204.531,0,0,1,42.753,125.42c0,113.407-92.074,205.48-205.481,205.48S25.456.6,25.456-112.81A204.428,204.428,0,0,1,60.034-226.868" transform="translate(0 0)" fill="none" stroke="#0a8576" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+  </g>
+  <g id="Rectangle_1" data-name="Rectangle 1" transform="translate(0 95)" fill="#fff" stroke="#0a8576" stroke-width="1">
+    <rect width="174" height="134" rx="30" stroke="none"/>
+    <rect x="0.5" y="0.5" width="173" height="133" rx="29.5" fill="none"/>
+  </g>
+  <g id="Rectangle_4" data-name="Rectangle 4" transform="translate(391 112)" fill="#fff" stroke="#0a8576" stroke-width="1">
+    <rect width="174" height="88" rx="30" stroke="none"/>
+    <rect x="0.5" y="0.5" width="173" height="87" rx="29.5" fill="none"/>
+  </g>
+  <g id="Rectangle_2" data-name="Rectangle 2" transform="translate(60 272)" fill="#fff" stroke="#0a8576" stroke-width="1">
+    <rect width="174" height="102" rx="30" stroke="none"/>
+    <rect x="0.5" y="0.5" width="173" height="101" rx="29.5" fill="none"/>
+  </g>
+  <g id="Rectangle_3" data-name="Rectangle 3" transform="translate(332 272)" fill="#fff" stroke="#0a8576" stroke-width="1">
+    <rect width="174" height="102" rx="30" stroke="none"/>
+    <rect x="0.5" y="0.5" width="173" height="101" rx="29.5" fill="none"/>
+  </g>
+  <text id="Postup_podávání_zprávy" data-name="Postup podávání zprávy" transform="translate(174 21)" fill="#0a8576" font-family="FF Dax, sans-serif" font-size="20"><tspan x="0" y="0">Postup podávání zprávy</tspan></text>
+  <text id="Do_dvou_let_od_přijetí_Úmluvy_podá_stát_úvodní_zprávu." data-name="Do dvou let od přijetí Úmluvy podá stát úvodní zprávu." transform="translate(406 125)" fill="#0a8576" font-family="FF Dax, sans-serif" font-size="14"><tspan x="0" y="14">Do dvou let od přijetí </tspan><tspan x="0" y="35">Úmluvy podá stát </tspan><tspan x="0" y="56" font-weight="700">úvodní zprávu.</tspan></text>
+  <text id="Po_posouzení_zprávy_Výbor_zašle_státu_seznam_otázek." data-name="Po posouzení zprávy Výbor zašle státu seznam otázek." transform="translate(351 292)" fill="#0a8576" font-family="FF Dax, sans-serif" font-size="14"><tspan x="0" y="14">Po posouzení zprávy </tspan><tspan x="0" y="35">Výbor zašle státu </tspan><tspan x="0" y="56" font-weight="700">seznam otázek</tspan><tspan y="56">.</tspan></text>
+  <text id="Stát_poskytne_Výboru_odpověď_na_seznam_otázek." data-name="Stát poskytne Výboru odpověď na seznam otázek." transform="translate(75 292)" fill="#0a8576" font-family="FF Dax, sans-serif" font-size="14"><tspan x="0" y="14">Stát poskytne Výboru </tspan><tspan x="0" y="35" font-weight="700">odpověď na seznam </tspan><tspan x="0" y="56" font-weight="700">otázek</tspan><tspan y="56">.</tspan></text>
+  <text id="Výbor_vydá_závěrečná_doporučení_a_určí_lhůtu_ve_které_má_stát_podat_zprávu_o_jejich_naplnění." data-name="Výbor vydá závěrečná doporučení a určí lhůtu, ve které má stát podat zprávu o jejich naplnění." transform="translate(15 112)" fill="#0a8576" font-family="FF Dax, sans-serif" font-size="14"><tspan x="0" y="14">Výbor vydá </tspan><tspan y="14" font-weight="700">závěrečná </tspan><tspan x="0" y="35" font-weight="700">doporučení</tspan><tspan y="35" xml:space="preserve"> a určí </tspan><tspan x="0" y="56">lhůtu, ve které má stát </tspan><tspan x="0" y="77">podat zprávu o jejich </tspan><tspan x="0" y="98">naplnění.</tspan></text>
+</svg>

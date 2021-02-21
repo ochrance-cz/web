@@ -568,9 +568,9 @@ collections:
     label_singular: leták
     folder: content/letaky
     extension: md
-    editor:
+    editor: &ref_19
       preview: false
-    fields:
+    fields: &ref_20
       - label: Název letáku
         name: title
         widget: string
@@ -610,9 +610,9 @@ collections:
     label_singular: situace
     folder: content/situace
     extension: md
-    editor:
+    editor: &ref_21
       preview: false
-    fields:
+    fields: &ref_22
       - label: Název situace
         name: title
         widget: string
@@ -632,15 +632,19 @@ collections:
     path: '{{slug}}/_index'
   - name: provoz
     label: Provoz
-    label_singular: informační stránka
+    label_singular: provozní info
     folder: content/provoz
     extension: md
-    editor: &ref_19
+    editor: &ref_23
       preview: false
-    fields: &ref_20
+    fields: &ref_24
       - label: Titulek
         name: title
         widget: string
+      - label: Uložit jako draft
+        name: draft
+        required: false
+        widget: boolean
       - label: Odkazy
         name: links
         required: false
@@ -679,12 +683,12 @@ collections:
     public_folder: ''
   - name: info
     label: Další informace
-    label_singular: informační stránka
+    label_singular: infostránka
     folder: content/info
     extension: md
-    editor: &ref_21
+    editor: &ref_25
       preview: false
-    fields: &ref_22
+    fields: &ref_26
       - label: Titulek
         name: title
         widget: string
@@ -729,9 +733,9 @@ collections:
     label_singular: projekt
     folder: content/projekty
     extension: md
-    editor: &ref_23
+    editor: &ref_27
       preview: false
-    fields: &ref_24
+    fields: &ref_28
       - label: Název projektu
         name: title
         widget: string
@@ -901,10 +905,10 @@ collections:
     path: '{{slug}}/index'
     media_folder: ''
     public_folder: ''
-  - name: provoz-en
-    label: Provoz (EN)
-    label_singular: informační stránka (en)
-    folder: content-en/provoz
+  - name: letaky-en
+    label: Letáky (EN)
+    label_singular: leták (en)
+    folder: content-en/letaky
     extension: md
     editor: *ref_19
     fields: *ref_20
@@ -912,13 +916,33 @@ collections:
     path: '{{slug}}/index'
     media_folder: ''
     public_folder: ''
-  - name: info-en
-    label: Další informace (EN)
-    label_singular: informační stránka (en)
-    folder: content-en/info
+  - name: situace-en
+    label: Situace (EN)
+    label_singular: situace (en)
+    folder: content-en/situace
     extension: md
     editor: *ref_21
     fields: *ref_22
+    create: true
+    path: '{{slug}}/_index'
+  - name: provoz-en
+    label: Provoz (EN)
+    label_singular: provozní info (en)
+    folder: content-en/provoz
+    extension: md
+    editor: *ref_23
+    fields: *ref_24
+    create: true
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: ''
+  - name: info-en
+    label: Další informace (EN)
+    label_singular: infostránka (en)
+    folder: content-en/info
+    extension: md
+    editor: *ref_25
+    fields: *ref_26
     create: true
     path: '{{slug}}/index'
     media_folder: ''
@@ -928,8 +952,8 @@ collections:
     label_singular: projekt (en)
     folder: content-en/projekty
     extension: md
-    editor: *ref_23
-    fields: *ref_24
+    editor: *ref_27
+    fields: *ref_28
     create: true
     path: '{{slug}}/index'
     media_folder: ''

@@ -329,7 +329,7 @@ const pusobnost = folderCollection(
 
 const info = folderCollection(
   "Další informace",
-  "informační stránka",
+  "infostránka",
   "info",
   {
     folder: "content/info",
@@ -349,7 +349,7 @@ const info = folderCollection(
 
 const ops = folderCollection(
   "Provoz",
-  "informační stránka",
+  "provozní info",
   "provoz",
   {
     folder: "content/provoz",
@@ -361,6 +361,7 @@ const ops = folderCollection(
   },
   [
     title("Titulek"),
+    boolean("Uložit jako draft", "draft"),
     links("Odkazy"),
     markdown("Text", "body"),
     links("Odkazy pod hlavním textem", "linksAfter"),
@@ -518,6 +519,8 @@ save("./static/admin/config.yml", {
     englishFiles(onas),
     englishFolder(pusobnost),
     englishFolder(pomoc),
+    englishFolder(letaky),
+    englishFolder(situace),
     englishFolder(ops),
     englishFolder(info),
     englishFolder(projekty),
