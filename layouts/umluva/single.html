@@ -1,0 +1,115 @@
+{{ define "styles" }}
+<link href="/umluva-player/jplayer/skin/blue.monday/css/jplayer.blue.monday.min.css" rel="stylesheet" type="text/css" />
+<style>
+.unavailable {
+  color: #777;
+  text-transform: uppercase;
+}
+
+.online-streaming {
+  display: block;
+  text-decoration: underline;
+  text-transform: uppercase;
+}
+
+.icon-eye svg {
+  fill: #008576;
+  margin-bottom: 3px;
+}
+
+/* jPlayer */
+.jp-type-playlist {
+    position: relative;
+}
+
+.jp-playlist li {
+    background: none;
+    text-indent: -5px;
+    padding-left: 0.5rem !important;
+    list-style-type: none !important;
+}
+
+.jp-playlist ul {
+    height: 100% !important;
+    max-height: 338px !important;
+    overflow: auto;
+    padding: 0px !important;
+}
+
+.jp-playlist a {
+    display: block;
+    padding: 5px 0;
+}
+
+.jp-playlist {
+    position: absolute;
+    right: -145px;
+    top: 0;
+    width: 140px;
+    border-top: 0;
+}
+
+#video-wrap {
+    margin-bottom: 2rem;
+}
+
+.csc-frame-frame1.active p {
+    color: #008576;
+    font-weight: bold;
+}
+
+#title-video {
+    margin-top: 0;
+}
+
+/*
+#c1004628 ul.csc-menu-1 {
+  -webkit-column-count: 1;
+  -moz-column-count: 1;
+  column-count: 1;
+}
+*/
+#c1004628,#c1005443 { display: inline-block; }
+#c1004628 ul.csc-menu-1 li,
+#c1005443 ul.csc-menu-1 li {
+  font-size: 1.5em;
+}
+</style>
+{{ end }}
+
+{{ define "scripts" }}
+
+{{ end }}
+
+{{ define "main" }}
+<main>
+  {{ partial "text-header.html" . }}
+
+  <div {{ with .Params.contentBackdrop }} class="{{ . }}"{{ end }}>
+    <section>
+      {{ .Content }}
+
+      {{ $pages := sort (where .Site.Pages "Section" "umluva") ".File.Path" }}
+      {{ range $index, $page := $pages }}
+        {{ if eq $.File.Path $page.File.Path}}
+          {{ with index $pages (sub $index 1) }}
+            <a href="{{ .RelPermalink }}" class="_button back">{{ .Title }}</a>
+          {{ end }}
+
+          {{ with index $pages (add $index 1) }}
+            <a href="{{ .RelPermalink }}" class="_button">{{ .Title }}</a>
+          {{ end }}
+        {{ end }}
+      {{ end }}
+    </section>
+
+
+
+  <script type="text/javascript" src="/umluva-player/mootools-core.js"></script>
+  <script type="text/javascript" src="/umluva-player/jquery.min.js"></script>
+  <script type="text/javascript" src="/umluva-player/jplayer/jplayer/jquery.jplayer.min.js"></script>
+  <script type="text/javascript" src="/umluva-player/jplayer/add-on/jplayer.playlist.min.js"></script>
+  <script type="text/javascript" src="/umluva-player/main.js"></script>
+  </div>
+</main>
+{{ end }}

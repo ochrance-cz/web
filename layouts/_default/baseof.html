@@ -6,7 +6,7 @@
 
   {{ $css := resources.Get "style/style.scss" | toCSS | minify | fingerprint }}
   <link rel="stylesheet" href="{{ $css.RelPermalink }}">
-
+  {{ block "styles" . }}{{ end }}
   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
 
@@ -22,6 +22,8 @@
 
   {{ $js := resources.Get "scripts/index.js" | minify | fingerprint }}
   <script src="{{ $js.RelPermalink }}"></script>
+
+  {{ block "scripts" . }}{{ end }}
 
   <script>
     if (window.netlifyIdentity) {

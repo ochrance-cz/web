@@ -47,6 +47,14 @@
       </section>
     {{ else }}
       <section>
+        <div class="perex">
+          {{ partial "md-block.html" .Params.perex }}
+        </div>
+
+        {{ with .Params.links }}
+          {{ partial "link-list.html" . }}
+        {{ end }}
+
         {{ .Content }}
       </section>
     {{ end }}

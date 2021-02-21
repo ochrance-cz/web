@@ -1,0 +1,15 @@
+{{ define "main" }}
+<main>
+  {{ partial "text-header.html" . }}
+
+  <section>
+    {{ $.Content }}
+
+    <ul class="_link-list">
+      {{ range sort .Pages "File.Path" }}
+        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+      {{ end }}
+    </ul>
+  </section>
+</main>
+{{ end }}
