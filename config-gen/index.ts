@@ -385,10 +385,9 @@ const letaky = folderCollection(
   },
   [
     title("Název letáku"),
-    markdown("Krátký popis", "body"),
     relation("Situace", "situace", {
       collection: "situace",
-      valueField: "title",
+      valueField: "slug",
       searchFields: ["title"],
       multiple: true,
     }),

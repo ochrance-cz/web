@@ -519,16 +519,12 @@ collections:
       - label: Název letáku
         name: title
         widget: string
-      - label: Krátký popis
-        name: body
-        required: false
-        widget: markdown
       - label: Situace
         name: situace
         required: false
         widget: relation
         collection: situace
-        valueField: title
+        valueField: slug
         searchFields:
           - title
         multiple: true
