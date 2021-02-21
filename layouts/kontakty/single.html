@@ -1,0 +1,37 @@
+{{ define "main" }}
+<main>
+  {{ partial "text-header.html" . }}
+
+  <div {{ with .Params.contentBackdrop }} class="{{ . }}"{{ end }}>
+    <section>
+      {{ with .Params.perex }}
+        <div class="perex">
+          {{ partial "md-block.html" . }}
+        </div>
+      {{ end }}
+
+      {{ range .Params.sections }}
+        <h2>{{ .title }}</h2>
+        {{ .intro | markdownify }}
+
+        {{ if eq .title "Sekce právní" }}
+          {{ range $.Params.lawyers }}
+            <h3>{{ .title }}</h3>
+            <p>E-mailové adresy právníků a právniček neslouží k podávání stížností/podnětů k šetření. <a href="/podejte-stiznost/">Jak podat podnět zjistíte zde.</a></p>
+            <div class="_cards">
+              {{ range .people }}
+                <p class="card">
+                  <strong>{{ .name }}</strong><br>
+                  {{ .role }}<br>
+                  {{ .phone }}<br>
+                  <a href="mailto:{{ .email }}">{{ .email }}</a>
+                </p>
+              {{ end }}
+            </div>
+          {{ end }}
+        {{ end }}
+      {{ end }}
+    </section>
+  </div>
+</main>
+{{ end }}

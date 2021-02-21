@@ -97,7 +97,7 @@ const stranky = files("Stránky", "stranky", [
         "Titulek se zobrazí na titulní straně, detailní popis na samostatné stránce.",
     }),
   ]),
-  fileCollection("Kontakt", "ou", "content/kontakt.md", [
+  fileCollection("Kontakt", "kontakt", "content/kontakt.md", [
     title("Titulek"),
     string("Podtitul", "description"),
     string("Titulek v menu", "menuTitle"),
@@ -112,6 +112,23 @@ const stranky = files("Stránky", "stranky", [
       markdown("MHD", "public"),
       markdown("Obecně", "universal"),
       image("Ilustrační obrázek", "pic"),
+    ]),
+  ]),
+  fileCollection("Kontakty", "kontakty", "content/provoz/kontakty/index.md", [
+    title("Titulek"),
+    list("Sekce a odbory", "sekce", "sections", [
+      title("Název"),
+      markdown("Popis", "intro"),
+    ]),
+    list("Odbory právní sekce", "odbor", "lawyers", [
+      title("Název"),
+      markdown("Popis", "intro"),
+      list("Lidé", "vizitka", "people", [
+        string("Jméno", "name"),
+        string("Role", "role"),
+        string("Telefon", "phone"),
+        string("E-mail", "email"),
+      ]),
     ]),
   ]),
   fileCollection(

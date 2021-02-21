@@ -1,0 +1,13 @@
+._cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  grid-gap: 1rem;
+
+  .card {
+    display: block;
+    background: $green-bright;
+    padding: 1rem;
+    margin: 0;
+    @include font-size-s;
+  }
+}
