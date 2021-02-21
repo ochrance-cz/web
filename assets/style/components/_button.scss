@@ -47,6 +47,25 @@
       }
     }
   }
+
+  &.back {
+    &::before {
+      display: inline-block;
+      width: 1rem;
+      height: 1.2em;
+      vertical-align: bottom;
+      padding-right: 1rem;
+      margin-left: -0.25rem;
+      content: " ";
+
+      @include svg-bg($backArrow, $green);
+    }
+
+    &::after {
+      display: none;
+      content: "";
+    }
+  }
 }
 
 ._button--wrapper {
