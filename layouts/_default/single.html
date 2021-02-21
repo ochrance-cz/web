@@ -10,7 +10,15 @@
         </div>
       {{ end }}
 
+      {{ with .Params.links }}
+        {{ partial "link-list.html" . }}
+      {{ end }}
+
     	{{ .Content }}
+
+      {{ with .Params.linksAfter }}
+        {{ partial "link-list.html" . }}
+      {{ end }}
     </section>
   </div>
 </main>

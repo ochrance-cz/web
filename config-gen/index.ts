@@ -58,6 +58,13 @@ const cta = () =>
     }
   );
 
+const links = (title: string, name: string = "links") => {
+  return list(title, "odkaz", name, [
+    string("Odkaz", "link"),
+    string("Popis", "text"),
+  ]);
+};
+
 const tags = [
   { label: "Výroční zpráva", value: "vyrocni-zprava" },
   { label: "Publikace", value: "publikace" },
@@ -143,10 +150,7 @@ const onas = files("O nás", "onas", [
       string("Titulek v menu", "menuTitle"),
       markdown("Perex", "description"),
       markdown("Text stránky", "body"),
-      list("Odkazy", "odkaz", "links", [
-        string("Odkaz", "link"),
-        string("Popis", "text"),
-      ]),
+      links("Odkazy"),
     ],
     {
       media_folder: "",
@@ -318,7 +322,12 @@ const info = folderCollection(
     media_folder: "",
     public_folder: "",
   },
-  [title("Titulek"), markdown("Text", "body")]
+  [
+    title("Titulek"),
+    links("Odkazy"),
+    markdown("Text", "body"),
+    links("Odkazy pod hlavním textem", "linksAfter"),
+  ]
 );
 
 const ops = folderCollection(
@@ -333,7 +342,12 @@ const ops = folderCollection(
     media_folder: "",
     public_folder: "",
   },
-  [title("Titulek"), markdown("Text", "body")]
+  [
+    title("Titulek"),
+    links("Odkazy"),
+    markdown("Text", "body"),
+    links("Odkazy pod hlavním textem", "linksAfter"),
+  ]
 );
 
 const aktualne = folderCollection(

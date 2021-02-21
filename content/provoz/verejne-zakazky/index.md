@@ -1,9 +1,14 @@
 ---
 title: Veřejné zakázky
+links:
+  - text: Profil zadavatele
+    link: https://www.vhodne-uverejneni.cz/profil/70836981
+  - text: Aktuální veřejné zakázky
+    link: https://www.vhodne-uverejneni.cz/profil/70836981
+linksAfter:
+  - text: Přehled ukončených zadávacích řízení dle zákona č. 137/2006 Sb.
+    link: zakazky2011.zip
 ---
-## [Profil zadavatele](https://www.vhodne-uverejneni.cz/profil/70836981)
-
-## [Aktuální veřejné zakázky](https://www.vhodne-uverejneni.cz/profil/70836981)
 
 ## Archiv veřejných zakázek
 

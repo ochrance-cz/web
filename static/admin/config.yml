@@ -586,10 +586,38 @@ collections:
       - label: Titulek
         name: title
         widget: string
+      - label: Odkazy
+        name: links
+        required: false
+        label_singular: odkaz
+        widget: list
+        fields:
+          - label: Odkaz
+            name: link
+            required: false
+            widget: string
+          - label: Popis
+            name: text
+            required: false
+            widget: string
       - label: Text
         name: body
         required: false
         widget: markdown
+      - label: Odkazy pod hlavním textem
+        name: linksAfter
+        required: false
+        label_singular: odkaz
+        widget: list
+        fields:
+          - label: Odkaz
+            name: link
+            required: false
+            widget: string
+          - label: Popis
+            name: text
+            required: false
+            widget: string
     create: true
     path: '{{slug}}/index'
     media_folder: ''
@@ -605,10 +633,38 @@ collections:
       - label: Titulek
         name: title
         widget: string
+      - label: Odkazy
+        name: links
+        required: false
+        label_singular: odkaz
+        widget: list
+        fields:
+          - label: Odkaz
+            name: link
+            required: false
+            widget: string
+          - label: Popis
+            name: text
+            required: false
+            widget: string
       - label: Text
         name: body
         required: false
         widget: markdown
+      - label: Odkazy pod hlavním textem
+        name: linksAfter
+        required: false
+        label_singular: odkaz
+        widget: list
+        fields:
+          - label: Odkaz
+            name: link
+            required: false
+            widget: string
+          - label: Popis
+            name: text
+            required: false
+            widget: string
     create: true
     path: '{{slug}}/index'
     media_folder: ''
