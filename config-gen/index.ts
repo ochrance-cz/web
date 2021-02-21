@@ -387,8 +387,9 @@ const letaky = folderCollection(
     title("Název letáku"),
     relation("Situace", "situace", {
       collection: "situace",
-      valueField: "slug",
-      searchFields: ["title"],
+      value_field: "slug",
+      display_fields: ["title"],
+      search_fields: ["title"],
       multiple: true,
     }),
     file("Leták v PDF", "file"),

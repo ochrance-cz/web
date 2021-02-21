@@ -268,15 +268,17 @@ export const datetime = (
 interface RelationWidget extends BaseWidget {
   widget: "relation";
   collection: string;
-  valueField: string;
-  searchFields: string[];
+  value_field: string;
+  display_fields?: string[];
+  search_fields: string[];
   multiple?: boolean;
 }
 
 interface RelationOptions extends Options {
   collection: string;
-  valueField: string;
-  searchFields: string[];
+  value_field: string;
+  display_fields?: string[];
+  search_fields: string[];
   multiple?: boolean;
 }
 
@@ -285,14 +287,21 @@ export const relation = (
   name: string,
   options: RelationOptions
 ): RelationWidget => {
-  const { collection, valueField, searchFields, multiple } = options;
+  const {
+    collection,
+    value_field,
+    display_fields,
+    search_fields,
+    multiple,
+  } = options;
 
   const w = {
     ...base(name, label, options),
     widget: "relation" as const,
     collection,
-    valueField,
-    searchFields,
+    value_field,
+    display_fields,
+    search_fields,
     multiple,
   };
 

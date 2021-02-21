@@ -524,8 +524,10 @@ collections:
         required: false
         widget: relation
         collection: situace
-        valueField: slug
-        searchFields:
+        value_field: slug
+        display_fields:
+          - title
+        search_fields:
           - title
         multiple: true
       - label: Leták v PDF
