@@ -276,7 +276,7 @@
       }
 
       .dropdown-menu {
-        width: 5rem;
+        width: 3rem;
         transform-origin: top center;
         display: none;
         padding: 0.5em 0;
@@ -290,11 +290,11 @@
         }
 
         a {
-          white-space: nowrap;
+          //white-space: nowrap;
           color: $green;
           display: block;
           padding: 0.5rem 0;
-          width: 35vw;
+          width: 30vw;
 
           &:hover {
             text-decoration: underline;
