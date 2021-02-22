@@ -1144,6 +1144,37 @@ collections:
     path: '{{slug}}/index'
     media_folder: ''
     public_folder: ''
+  - name: info106
+    label: Poskytované informace
+    label_singular: rok poskytovaných informací
+    folder: content/info106
+    extension: md
+    editor:
+      preview: false
+    fields:
+      - label: Rok
+        name: title
+        widget: string
+      - editor_components:
+          - image
+        buttons:
+          - bold
+          - italic
+          - link
+          - heading-two
+          - heading-three
+          - heading-four
+          - quote
+          - bulleted-list
+          - numbered-list
+        label: Text
+        name: body
+        required: false
+        widget: markdown
+    create: true
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: ''
   - name: projekty
     label: Projekty
     label_singular: projekt

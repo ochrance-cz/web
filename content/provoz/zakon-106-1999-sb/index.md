@@ -4,7 +4,7 @@ links:
   - text: Databáze poskytnutých informací
     link: /info106/
   - text: Výroční zprávy
-    link: /info106/vyrocni-zpravy/
+    link: /vyrocni-zpravy-106/
 ---
 
 ## Zásady pro poskytování informací

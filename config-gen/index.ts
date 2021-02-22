@@ -334,6 +334,21 @@ const pusobnost = folderCollection(
   ]
 );
 
+const info106 = folderCollection(
+  "Poskytované informace",
+  "rok poskytovaných informací",
+  "info106",
+  {
+    folder: "content/info106",
+    path: "{{slug}}/index",
+    extension: "md",
+    create: true,
+    media_folder: "",
+    public_folder: "",
+  },
+  [title("Rok"), markdown("Text", "body")]
+);
+
 const info = folderCollection(
   "Další informace",
   "infostránka",
