@@ -1,5 +1,5 @@
 ---
-title: GDPR a ochrana osobních údajů
+title: GDPR and personal data protection
 ---
 <!--StartFragment-->
 
