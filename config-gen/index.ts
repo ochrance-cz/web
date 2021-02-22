@@ -538,6 +538,7 @@ save("./static/admin/config.yml", {
     situace,
     ops,
     info,
+    info106,
     projekty,
     englishFiles(stranky),
     englishFolder(aktualne),
