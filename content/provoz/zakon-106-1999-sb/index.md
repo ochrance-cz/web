@@ -45,13 +45,13 @@ Pokud Kancelář žádosti, byť i jen zčásti, nevyhoví, vydá ve lhůtě 1
 
 ### Stížnost na postup při vyřizování žádosti
 
-- - Žadatel:
-- \- který nesouhlasí s vyřízením žádosti,
-- \- kterému po uplynutí lhůty 15 dnů nebyla poskytnuta informace a nebylo vydáno rozhodnutí o odmítnutí žádosti,
-- \- kterému byla informace poskytnuta částečně, aniž bylo o zbytku žádosti vydáno rozhodnutí o odmítnutí, nebo
-- \- který nesouhlasí s výší úhrady za poskytnutí informací
-- může podat stížnost na postup při vyřizování žádosti.
-- - Stížnost se podává ve lhůtě do 30 dnů na adrese Kanceláře veřejného ochránce práv, Údolní 39, Brno. Kancelář předloží stížnost spolu se spisovým materiálem nadřízenému orgánu do 7 dnů ode dne, kdy mu stížnost došla, pokud v této lhůtě stížnosti sám zcela nevyhoví. Nadřízeným orgánem je Úřad pro ochranu osobních údajů.
+- Žadatel:
+  - který nesouhlasí s vyřízením žádosti,
+  - kterému po uplynutí lhůty 15 dnů nebyla poskytnuta informace a nebylo vydáno rozhodnutí o odmítnutí žádosti,
+  - kterému byla informace poskytnuta částečně, aniž bylo o zbytku žádosti vydáno rozhodnutí o odmítnutí, nebo
+  - který nesouhlasí s výší úhrady za poskytnutí informací
+  - může podat stížnost na postup při vyřizování žádosti.
+- Stížnost se podává ve lhůtě do 30 dnů na adrese Kanceláře veřejného ochránce práv, Údolní 39, Brno. Kancelář předloží stížnost spolu se spisovým materiálem nadřízenému orgánu do 7 dnů ode dne, kdy mu stížnost došla, pokud v této lhůtě stížnosti sám zcela nevyhoví. Nadřízeným orgánem je Úřad pro ochranu osobních údajů.
 
 ## Sazebník úhrad za poskytování informací podle zákona č. 106/1999 Sb., o svobodném přístupu k informacím, ve znění pozdějších předpisů
 
