@@ -38,11 +38,11 @@ $OpenSansPath: "/fonts/open-sans-fontface/fonts";
   top: 0.1em;
 }
 
-// FF Dax Pro
-// TODO replace with Dax Pro
+// Daxline Pro
 @font-face {
-  font-family: "Dax Pro";
-  src: url("/fonts/DaxlinePro-Bold.woff2") format("woff2");
+  font-family: "Daxline";
+  src: url("/fonts//daxline/Fonts/5764632/aae167a7-9a23-484f-9760-d1b54002602f.woff2")
+    format("woff2");
   font-weight: bold;
   font-style: normal;
 }
@@ -87,7 +87,7 @@ $OpenSansPath: "/fonts/open-sans-fontface/fonts";
 }
 
 @mixin font-family-headline {
-  font-family: "Dax Pro", "Open Sans", sans-serif;
+  font-family: "Daxline", "Open Sans", sans-serif;
 }
 
 @mixin font-family-bread {
