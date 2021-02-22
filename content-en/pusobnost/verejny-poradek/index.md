@@ -1,46 +1,49 @@
 ---
-title: Veřejný pořádek
+title: Public order
 headerColor: null
 illustration: verejny-poradek-02.jpg
-perex: "Zabýváme se velkou škálou témat: přestupky (dopravními i proti
-  občanskému soužití), dopravně-správní agendou, která zahrnuje problematiku
-  veřejných cest, ale také dopravní značení, řidičská oprávnění apod., ochranou
-  spotřebitele, evidencí obyvatel a s tím souvisejícím vydáváním občanských
-  průkazy, cestovních pasů, činnosti matrik aj."
+perex: "The Department of Public Order deals with a large range of issues:
+  infractions (both traffic infractions and infractions against civil
+  cohabitation), transport and administrative matters, including public roads,
+  as well as traffic signs, driving licenses, consumer protection, population
+  records and the related issue of identity cards, passports, activities of
+  registry offices, etc."
 cta:
-  title: Řešíte podobnou situaci a domníváte se, že vám ombudsman může pomoct?
+  title: Are you dealing with a similar situation and believe that the Ombudsman
+    can help you?
 ---
+We also focus on property law, i.e., especially the activities of land registry offices and land-use authorities. We deal with problems in civil service and employment with the State (service relationships), provision of information, personal data protection and conduct of the Police (unless it acts in the capacity of a prosecuting body).
 
-Věnujeme se také pozemkovému právu, tj. hlavně činnosti katastrálních a pozemkových úřadů. Řešíme problémy ve státní službě a ve služebním poměru, poskytování informací, ochranu osobních údajů nebo postup Policie ČR (když nekoná jako orgán činný v trestním řízení).
+Each year, we deal with over 2,000 complaints.
 
-Ročně vyřídíme více než 2000 podnětů.
 
-> _Případ nepřístupné cesty k chatě_
+
+> *A case of an inaccessible road to a cabin*
 >
-> Pan Jiří vlastní chatu, ale nemohl se k ní dostat. Majitel sousední nemovitosti totiž provedl na obecní cestě takové úpravy, že přestala být sjízdná k chatě pana Jiřího. Zjistili jsme, že řízení o existenci veřejně přístupné účelové komunikace běží už 10 let a za tu dobu úřad nezjistil stav věci, neprovedl řádné dokazování. Ačkoli terénní úpravy brání provozu na cestě, úřad nezahájil ani řízení o odstranění překážky.
+> Jiří owns a cabin, but was unable to get to it. The owner of the neighbouring plot carried out such modifications on the local road that Jiří could no longer use it to drive a car to his cabin. We found that proceedings on the existence of a publicly accessible special-purpose road had already been underway for 10 years and the relevant authority had not ascertained the facts of the case over that time and failed to take proper evidence. Although landscaping modifications make the road unusable for traffic, the relevant municipality did not even initiate proceedings on removal of the obstructions. We approached the regional authority as the municipal administration’s superior body and advised the regional authority of the municipality’s inactivity. The regional authority intervened and ordered the municipality to check whether the road was still obstructed by the landscaping modifications. If it were, the regional authority ordered the authority to immediately initiate proceedings on removal of the obstruction to ensure that the road was usable for traffic.
 >
-> Obrátili jsme se na krajský úřad, jako jeho nadřízený orgán, a upozornili ho na nečinnost. Krajský úřad zasáhl a nařídil úřadu ověřit, jestli je cesta i nadále přehrazena terénními úpravami. Pokud ano, nařídil úřadu, aby ihned zahájil řízení o odstranění překážky a zajistil zprůjezdnění cesty.
 >
-> _Případ nahrávání veřejné schůze starosty k projektu obce_
 >
-> Pan Marek se v sousední vesnici zúčastnil jednání k budování kanalizace. Šlo o veřejnou schůzi svolanou starostou za účasti zpracovatele projektu, úředníků a investičního poradce. Pan Marek si pořizoval videozáznam, ale starosta přítomným sdělil, že podle Policie ČR nesmí pan Marek schůzku natáčet. Když s tím pan Marek nesouhlasil, přivolal starosta policii, která ho vyzvala, aby natáčení ukončil. Když neuposlechl, zajistili ho a s nasazenými pouty odvezli na služebnu.
+> *A case of recording a mayor’s public meeting regarding a municipal project*
 >
-> Upozornili jsme krajského ředitele Policie ČR, že jednání bylo v záležitosti veřejného zájmu, bylo veřejné, takže pořizování videozáznamu není protiprávním jednáním. Policie pochybení uznala, panu Markovi se omluvila a policisté byli poučeni, jak mají v obdobných případech postupovat.
+> Marek took part in a meeting in a neighbouring village concerning the construction of a sewer system. This was a public meeting convened by the mayor with participation of the designer of the project, officers and an investment adviser. Marek was making a video recording, but the mayor informed the persons present that, according to the police, Marek was not allowed to make a recording of the meeting. When Marek disagreed, the mayor called in the police who asked him to stop recording. When he refused to obey, the officers detained him and took him to a police station in handcuffs. We notified the regional police director that the meeting was public and concerned a matter of public interest, therefore making a video recording of it was not illegal. The police admitted their error, apologised to Marek and the police officers concerned were advised on how to proceed in similar cases.
 >
-> _Pěstounka nemohla požádat o pas pro svěřené dítě_
 >
-> Paní Magda je pěstounka a se svěřeným dítětem chtěla jet v létě k moři. Zjistila ale, že to není tak snadné. Aby mohla požádat o pas pro dítě, musela k tomu mít souhlas soudu, protože nejde o „běžnou záležitost“, o které by mohl pěstoun rozhodnout sám. Tím se ale podání žádosti o pas odkládá.
 >
-> Dospěli jsme k závěru, že cestování dětí do ciziny dnes není ničím mimořádným, školní i rodinné výlety do zahraničí jsou běžné, takže souhlas soudu by neměl být vyžadován. Ministerstvo vnitra a Ministerstvo spravedlnosti po našem upozornění praxi změnilo, takže k podání žádosti o pas pro dítě stačí pěstounovi souhlas zákonného zástupce, případně potvrzení orgánu sociálně-právní ochrany dětí.
+> *A case of a foster mother who was unable to apply for a passport for the child placed in her care*
 >
-> _Případ obtěžování úřady kvůli problémovému jmenovci_
+> Magda is a foster mother. For summer holidays, she planned to take the child placed in her care to the seaside. However, she found out that it was not so easy. In order to apply for the child’s passport, she had to obtain court approval because this was not an “everyday matter” falling within the foster parent’s discretion. This, however, delays the passport application. We came to the conclusion that nowadays, children travel abroad on a regular basis. Both school and family trips to other countries are common and, therefore, court approval should not be required. Following our intervention, the Ministry of the Interior and the Ministry of Justice changed their procedure and, consequently, the legal representative’s consent or a confirmation issued by the body for social and legal protection of children is now sufficient for a foster parent to apply for their foster child’s passport.
 >
-> Pan Jiří z Moravy zjistil, že v jiném okrese žije jeho jmenovec, který se navíc narodil ve stejný den. Dozvěděl se to od exekutora, který hledal toho druhého. Vše se vysvětlilo po kontrole občanského průkazu, protože pan Jiří má v rodném čísle za lomítkem jiné číslice, než jeho jmenovec. Jenže přicházeli další exekutoři a další vysvětlování. Jednou pana Jiřího dokonce zadržela policie, protože po jeho jmenovci bylo vyhlášeno celostátní pátrání. Vyvrcholilo to výzvou k odevzdání řidičského průkazu, protože mu měl být uložen zákaz řízení motorových vozidel na dobu 20 měsíců.
 >
-> Ukázalo se, že úředníci nezkontrolovali osobní údaje – když souhlasilo jméno a datum narození, jiná adresa je netrápila, říkali si, že se asi přestěhoval. Po našem zásahu se panu Jiřímu omluvili a slíbili, že si budou osobní údaje v registru obyvatel ověřovat pečlivěji.
 >
-> _Případ smlouvy po telefonu a nekalých obchodních praktik_
+> *A case of official trouble caused by a delinquent namesake*
 >
-> Pan Václav dostal po telefonu nabídku na odběr potravinového doplňku. Byl přesvědčen, že se k pravidelnému odběru výrobku nezavázal, ale obchodní společnost trvala na tom, že po telefonu uzavřel kupní smlouvu, a požadovala po něm peníze. Pan Václav od smlouvy odstoupil a stěžoval si Státní zemědělské a potravinářské inspekci. Podle inspekce se ale o nekalé obchodní praktiky nejednalo.
+> Jiří, who lives in Moravia, learned that he had a namesake in another Czech district who had been born on the same day. He learned this from the private enforcement agent who was looking for Jiří’s namesake. All this was explained after Jiří’s identity card was checked because the sequence of digits following the slash in Jiří’s birth identification number was different from that of his namesake’s. However, more private enforcement agents kept bothering Jiří with requests for further explanation. In one case, Jiří was even detained by the police because his namesake was a wanted person within a nationwide manhunt. In the end, Jiří was asked to surrender his driving license, as, supposedly, a 20-month ban on driving of motor vehicles had been imposed on him. It was found that the officials had not properly checked his personal data. Upon finding a corresponding name and date of birth, they did not care the address was different, as they supposed that Jiří had moved. After our intervention, they apologised to Jiří and promised to check personal data in the population register more carefully.
 >
-> Po analýze nahrávek rozhovorů jsme dospěli k opačnému závěru a jednali jsme o tom s inspekcí. Trvali jsme na tom, že musí postupovat efektivně. Inspekce nakonec zahájila kontrolu obchodní společnosti, nekalé obchodní praktiky prokázala a přiměla společnost, aby vše napravila a jednala podle zákona.
+>
+>
+> *A case of a contract concluded over the phone and unfair commercial practices*
+>
+> Václav was offered to purchase a food supplement over the phone. He was convinced that he had not agreed to purchase the product regularly, but the company insisted that he had entered into a purchase contract over the phone and demanded money from him. Václav withdrew from the contract and complained to the Czech Agriculture and Food Inspection Authority. However, according to the Inspection Authority, the case at hand did not constitute unfair commercial practices. After analysing the recordings of the interviews, we reached the opposite conclusion and discussed the case with the Inspection Authority. We insisted that they had to proceed more effectively. In the end, the Inspection Authority initiated an inspection of the company, demonstrated unfair commercial practices on its part and forced the company to provide remedy and act in accordance with the law.
+>
+>
