@@ -4,7 +4,6 @@ ongoing: true
 illustration:
   desc: XY
 ---
-<!--StartFragment-->
 
 ## Centrum ekonomických a právních studií Masarykovy univerzity
 
@@ -12,20 +11,14 @@ illustration:
 
 Mezifakultní projekt, který Ekonomicko-správní fakulta realizuje ve spolupráci s Právnickou fakultou.
 
-[www.ceps.muni.cz](http://www.ceps.muni.cz/ "Otevření do nového okna") ![](https://www.ochrance.cz/typo3/ext/od_linkdesc/icons/external.gif)
-
-<!--EndFragment-->
-
-<!--StartFragment-->
+[www.ceps.muni.cz](http://www.ceps.muni.cz/) ![](https://www.ochrance.cz/typo3/ext/od_linkdesc/icons/external.gif)
 
 ## Teorie - dovednosti - praxe: inovace studia práva
 
-(reg.č. CZ.1.07/2.2.00/15.0198, Operační program Vzdělávání pro konkurenceschopnost, Oblast podpory 2.2 Vysokoškolské vzdělávání) 
+(reg.č. CZ.1.07/2.2.00/15.0198, Operační program Vzdělávání pro konkurenceschopnost, Oblast podpory 2.2 Vysokoškolské vzdělávání)
 
 Cílem projektu je zvýšení konkurenceschopnosti studentů magisterského studijního programu Právo a právní věda, obor Právo na Právnické fakultě Masarykovy univerzity inovací studijního plánu.
 
-[dovednosti.law.muni.cz](http://dovednosti.law.muni.cz/ "Otevření do nového okna") ![](https://www.ochrance.cz/typo3/ext/od_linkdesc/icons/external.gif)
-
-<!--EndFragment-->
+[dovednosti.law.muni.cz](http://dovednosti.law.muni.cz/) ![](https://www.ochrance.cz/typo3/ext/od_linkdesc/icons/external.gif)
 
 ![Na obrázku jsou loga ESF, EU, MŠMT, OP Vzdělávání pro konkurenceschopnost, Masarykovy univerzity.](spoluprace-mu.jpg)

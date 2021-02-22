@@ -1,0 +1,21 @@
+{{ define "main" }}
+<main>
+  {{ partial "text-header.html" . }}
+
+  <section>
+    {{ with .Params.links }}
+      {{ partial "link-list.html" . }}
+
+      {{ $.Content }}
+    {{ else }}
+      {{ $.Content }}
+
+      <ul class="_link-list">
+        {{ range (sort .Pages ".File.Path" "desc") }}
+            <li><a href="{{ .RelPermalink }}">{{ if lt 2000 .Title }}Informace podle zákona 106/1999 Sb. za rok {{ end }}{{ .Title }}</a></li>
+        {{ end }}
+      </ul>
+    {{ end }}
+  </section>
+</main>
+{{ end }}

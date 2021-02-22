@@ -1,37 +1,16 @@
 ---
 title: Povinně zveřejňované informace
 ---
-<!--StartFragment-->
 
 ## Název
 
-<!--EndFragment-->
-
-<!--StartFragment-->
-
 Kancelář veřejného ochránce práv
-
-<!--EndFragment-->
-
-<!--StartFragment-->
 
 ## Důvod a způsob založení
 
-<!--EndFragment-->
-
-<!--StartFragment-->
-
 Kancelář veřejného ochránce práv byla založena k organizačnímu, odbornému a technickému zabezpečení činnosti veřejného ochránce práv [Statutem kanceláře veřejného ochránce práv účinným od 1. března 2013](https://www.ochrance.cz/kancelar-vop/statut/), vydaným ochráncem na základě § 25 zákona č. 349/1999 Sb. o Veřejném ochránci práv.
 
-<!--EndFragment-->
-
-<!--StartFragment-->
-
 ## Organizační struktura
-
-<!--EndFragment-->
-
-<!--StartFragment-->
 
 Organizační struktura Kanceláře veřejného ochránce práv (dále i jen „Kancelář“) je upravena [Organizačním řádem](https://www.ochrance.cz/kancelar-vop/statut/organizacni-rad/). V čele Kanceláře je vedoucí, který svou činnost vykonává podle pokynů veřejného ochránce práv.
 
@@ -39,46 +18,38 @@ Organizační struktura Kanceláře veřejného ochránce práv (dále i jen �
 
 **Vedoucímu Kanceláře** jsou přímo podřízeny:
 
-* sekretariát vedoucího Kanceláře,
-* samostatný referát dětské skupiny
-* útvar interního auditu.
+- sekretariát vedoucího Kanceláře,
+- samostatný referát dětské skupiny
+- útvar interního auditu.
 
 **Právní sekce** se dále člení na:
 
-* sekretariát právní sekce,
-* úsek výzkumu,
-* odbor stavebního řádu a životního prostředí,
-* odbor veřejného pořádku a místní správy,
-* odbor dohledu nad omezovaním osobní svobody,
-* odbor sociálního zabezpečení,
-* odbor rovného zacházení,
-* odbor justice, migrace a financí,
-* odbor rodiny, zdravotnictví a práce,
-* odbor metodiky a analýz,
-* odbor ochrany práv osob se zdravotním postižením
+- sekretariát právní sekce,
+- úsek výzkumu,
+- odbor stavebního řádu a životního prostředí,
+- odbor veřejného pořádku a místní správy,
+- odbor dohledu nad omezovaním osobní svobody,
+- odbor sociálního zabezpečení,
+- odbor rovného zacházení,
+- odbor justice, migrace a financí,
+- odbor rodiny, zdravotnictví a práce,
+- odbor metodiky a analýz,
+- odbor ochrany práv osob se zdravotním postižením
 
 **Odbor administrativních a spisových služeb** se dále člení na:
 
-* oddělení administrativních služeb a
-* oddělení spisových služeb.
+- oddělení administrativních služeb a
+- oddělení spisových služeb.
 
 **Odbor vnitřní správy** se dále člení na:
 
-* oddělení ekonomické,
-* samostatný referát personální a EP,
-* samostatný referát informatiky a IT,
-* samostatný referát správy budovy a
-* samostatný referát dopravy.
-
-<!--EndFragment-->
-
-<!--StartFragment-->
+- oddělení ekonomické,
+- samostatný referát personální a EP,
+- samostatný referát informatiky a IT,
+- samostatný referát správy budovy a
+- samostatný referát dopravy.
 
 ## Kontaktní spojení
-
-<!--EndFragment-->
-
-<!--StartFragment-->
 
 Veškeré kontaktní údaje vč. možnosti vyhledání v mapě, trasovačů a informací o přístupu handicapových osob jsou zveřejněny v sekci [Kontakty](https://www.ochrance.cz/kontakty/).
 
@@ -114,34 +85,14 @@ Kancelář veřejného ochránce práv nemá vlastní internetovou stránku. Inf
 **IČ** Kanceláře veřejného ochránce práv: 70836981\
 **DIČ** Kancelář veřejného ochránce práv není plátcem DPH.
 
-<!--EndFragment-->
-
-<!--StartFragment-->
-
 ## Seznam hlavních dokumentů
 
-<!--EndFragment-->
-
-<!--StartFragment-->
-
-* [Statut Kanceláře veřejného ochránce práv účinný od 1. března 2013](https://www.ochrance.cz/kancelar-vop/statut/)
-* [Organizační řád Kanceláře veřejného ochránce práv](https://www.ochrance.cz/kancelar-vop/statut/organizacni-rad/)
-
-<!--EndFragment-->
-
-<!--StartFragment-->
+- [Statut Kanceláře veřejného ochránce práv účinný od 1. března 2013](https://www.ochrance.cz/kancelar-vop/statut/)
+- [Organizační řád Kanceláře veřejného ochránce práv](https://www.ochrance.cz/kancelar-vop/statut/organizacni-rad/)
 
 ## Rozpočet
 
-<!--EndFragment-->
-
-<!--StartFragment-->
-
 ### Rok 2020: Závazné ukazatele kapitoly 309 (v tis. Kč): 
-
-<!--EndFragment-->
-
-<!--StartFragment-->
 
 |                                                                                                                   | Schválený rozpočet |
 | ----------------------------------------------------------------------------------------------------------------- | ------------------ |
@@ -160,15 +111,7 @@ Kancelář veřejného ochránce práv nemá vlastní internetovou stránku. Inf
 | podíl prostředků finančních mechanismů                                                                            | 0                  |
 | Výdaje vedené v informačním systému programového financování EDS/SMVS celkem                                      | 2 654              |
 
-<!--EndFragment-->
-
-<!--StartFragment-->
-
 ### Rok 2019: Závazné ukazatele kapitoly 309 (v tis. Kč):
-
-<!--EndFragment-->
-
-<!--StartFragment-->
 
 | Název ukazatele                                                                                                   | Rozpočet po změnách | Skutečnost | %   |
 | ----------------------------------------------------------------------------------------------------------------- | ------------------- | ---------- | --- |
@@ -187,15 +130,7 @@ Kancelář veřejného ochránce práv nemá vlastní internetovou stránku. Inf
 |           podíl prostředků finančních mechanismů                                                                  | 9 520               | 0          | 0   |
 | Výdaje vedené v informačním systému programového financování EDS/SMVS celkem                                      | 15 471              | 17 441     | 113 |
 
-<!--EndFragment-->
-
-<!--StartFragment-->
-
 ### Rok 2018: Závazné ukazatele kapitoly 309 (v tis. Kč):
-
-<!--EndFragment-->
-
-<!--StartFragment-->
 
 |                                                                                                                   | Rozpočet po změnách | Skutečnost | %   |
 | ----------------------------------------------------------------------------------------------------------------- | ------------------- | ---------- | --- |
@@ -214,15 +149,7 @@ Kancelář veřejného ochránce práv nemá vlastní internetovou stránku. Inf
 | podíl prostředků finančních mechanismů                                                                            | 0                   | 0          | \-  |
 | Výdaje vedené v informačním systému programového financování EDS/SMVS celkem                                      | 20 451              | 49 868     | 24  |
 
-<!--EndFragment-->
-
-<!--StartFragment-->
-
 ### Rok 2017: Závazné ukazatele kapitoly 309 (v tis. Kč)
-
-<!--EndFragment-->
-
-<!--StartFragment-->
 
 |                                                                                                                   | Rozpočet po změnách | Skutečnost | %   |
 | ----------------------------------------------------------------------------------------------------------------- | ------------------- | ---------- | --- |
@@ -241,15 +168,7 @@ Kancelář veřejného ochránce práv nemá vlastní internetovou stránku. Inf
 |            podíl prostředků finančních mechanismů                                                                 | 0                   | 0          | \-  |
 | Výdaje vedené v informačním systému programového financování EDS/SMVS celkem                                      | 13 396              | 6 967      | 52  |
 
-<!--EndFragment-->
-
-<!--StartFragment-->
-
 ### Rok 2016: Závazné ukazatele kapitoly 309 (v tis. Kč)
-
-<!--EndFragment-->
-
-<!--StartFragment-->
 
 |                                                                                                                   | Rozpočet po změnách | Skutečnost | %   |
 | ----------------------------------------------------------------------------------------------------------------- | ------------------- | ---------- | --- |
@@ -268,15 +187,7 @@ Kancelář veřejného ochránce práv nemá vlastní internetovou stránku. Inf
 |           podíl prostředků finančních mechanistů                                                                  | 0                   | 0          | \-  |
 | Výdaje vedené v informačním systému programového financování EDS/SMVS celkem                                      | 8 450               | 5 668      | 67  |
 
-<!--EndFragment-->
-
-<!--StartFragment-->
-
 ### Rok 2015: Závazné ukazatele kapitoly 309 (v tis. Kč):
-
-<!--EndFragment-->
-
-<!--StartFragment-->
 
 |                                                                                                                   | **Rozpočet po změnách** | **Skutečnost** | **%** |
 | ----------------------------------------------------------------------------------------------------------------- | ----------------------- | -------------- | ----- |
@@ -295,15 +206,7 @@ Kancelář veřejného ochránce práv nemá vlastní internetovou stránku. Inf
 | podíl prostředků finančních mechanismů                                                                            | 2 020                   | 0              | \-    |
 | Výdaje vedení v informačním systému programového financování EDS/SMVS celkem                                      | 12 640                  | 12 328         | 98    |
 
-<!--EndFragment-->
-
-<!--StartFragment-->
-
 ### Rok 2014: Závazné ukazatele kapitoly 309 (v tis. Kč):
-
-<!--EndFragment-->
-
-<!--StartFragment-->
 
 |                                                                                                              | Rozpočet po změnách | Skutečnost | %   |
 | ------------------------------------------------------------------------------------------------------------ | ------------------- | ---------- | --- |
@@ -319,15 +222,7 @@ Kancelář veřejného ochránce práv nemá vlastní internetovou stránku. Inf
 | podíl rozpočtu Evropské unie                                                                                 | 8 550               | 5 801      | 68  |
 | Výdaje vedení v informačním systému programového financování EDS/SMVS celkem                                 | 13 812              | 13 025     | 94  |
 
-<!--EndFragment-->
-
-<!--StartFragment-->
-
 ### Rok 2012: Závazné ukazatele kapitoly 309 (v tis. Kč):
-
-<!--EndFragment-->
-
-<!--StartFragment-->
 
 |                                                                              | Rozpočet po změnách | Skutečnost | %   |
 | ---------------------------------------------------------------------------- | ------------------- | ---------- | --- |
@@ -339,15 +234,7 @@ Kancelář veřejného ochránce práv nemá vlastní internetovou stránku. Inf
 | Platy zaměstnanců v pracovním poměru                                         | 42 441              | 42 441     | 100 |
 | Výdaje vedení v informačním systému programového financování EDS/SMVS celkem | 13 362              | 9 166      | 69  |
 
-<!--EndFragment-->
-
-<!--StartFragment-->
-
 ### Rok 2011: Závazné ukazatele kapitoly 309 (v tis. Kč): 
-
-<!--EndFragment-->
-
-<!--StartFragment-->
 
 |                                                                              | Rozpočet po změnách | Skutečnost | %   |
 | ---------------------------------------------------------------------------- | ------------------- | ---------- | --- |
@@ -359,15 +246,7 @@ Kancelář veřejného ochránce práv nemá vlastní internetovou stránku. Inf
 | Platy zaměstnanců v pracovním poměru                                         | 42 441              | 40 029     | 94  |
 | Výdaje vedení v informačním systému programového financování EDS/SMVS celkem | 13 100              | 4 780      | 57  |
 
-<!--EndFragment-->
-
-<!--StartFragment-->
-
 ### Rok 2010: Závazné ukazatele kapitoly 309 (v tis. Kč):
-
-<!--EndFragment-->
-
-<!--StartFragment-->
 
 |                                                  | Rozpočet po změnách | Skutečnost | %   |
 | ------------------------------------------------ | ------------------- | ---------- | --- |
@@ -379,67 +258,27 @@ Kancelář veřejného ochránce práv nemá vlastní internetovou stránku. Inf
 | Platy zaměstnanců v pracovním poměru             | 46 322              | 39 741     | 86  |
 | Výdaje na programy vedené v ISPROFIN celkem      | 14 160              | 7 392      | 52  |
 
-<!--EndFragment-->
-
-<!--StartFragment-->
-
 ## Hospodaření Kanceláře veřejného ochránce práv
-
-<!--EndFragment-->
-
-<!--StartFragment-->
 
 Státní závěrečný účet Kanceláře za jednotlivé roky je zveřejněn [v samostatné části této sekce](https://www.ochrance.cz/kancelar-vop/vysledky-hospodareni/).
 
-<!--EndFragment-->
-
-<!--StartFragment-->
-
 ## Žádosti o informace
-
-<!--EndFragment-->
-
-<!--StartFragment-->
 
 Za vyřizování žádostí o informace, vztahující se k činnosti Kanceláře veřejného ochránce práv dle zákona č. 106/1999 Sb., o svobodném přístupu k informacím, ve znění pozdějších předpisů, je odpovědný vedoucí Kanceláře veřejného ochránce práv.
 
 [Zásady Kanceláře veřejného ochránce práv pro poskytování informací](https://www.ochrance.cz/kancelar-vop/poskytovani-informaci-podle-zakona-c-1061999-sb/) a Výroční zprávy za příslušný rok v souladu se zákonem č. 106/1999 Sb., jsou zveřejněny [v samostatné části této sekce](https://www.ochrance.cz/kancelar-vop/poskytovani-informaci-podle-zakona-c-1061999-sb/).
 
-<!--EndFragment-->
-
-<!--StartFragment-->
-
 ## Příjem žádostí a dalších podání
-
-<!--EndFragment-->
-
-<!--StartFragment-->
 
 Příjem stížností na Kancelář veřejného ochránce práv je na [kontaktní poštovní adrese](https://www.ochrance.cz/kontakty/) nebo osobně na podatelně v budově Kanceláře veřejného ochránce práv, Údolní 39, Brno.
 
-<!--EndFragment-->
-
-<!--StartFragment-->
-
 ## Popisy postupů – návody na řešení životních situací
-
-<!--EndFragment-->
-
-<!--StartFragment-->
 
 S ohledem na zákonem vymezený účel (slouží k organizačnímu, odbornému a technickému zabezpečení činnosti veřejného ochránce práv) nemá Kancelář veřejného ochránce práv žádné vlastní postupy či návody.
 
 Možnosti řešení životních situací jsou zveřejněny [v samostatné části webu ochránce](https://www.ochrance.cz/stiznosti-na-urady/chcete-si-stezovat/zivotni-situace/).
 
-<!--EndFragment-->
-
-<!--StartFragment-->
-
 ## Nejdůležitější používané předpisy
-
-<!--EndFragment-->
-
-<!--StartFragment-->
 
 Činnost Kanceláře veřejného ochránce práv se řídí zejména těmito předpisy:
 
@@ -453,42 +292,16 @@ zákon č. 219/2000 Sb., o majetku České republiky a jejím vystupování 
 
 zákon č. 563/1991 Sb., o účetnictví, ve znění pozdějších předpisů
 
-<!--EndFragment-->
-
-<!--StartFragment-->
-
 ### Vydané právní předpisy
-
-<!--EndFragment-->
-
-<!--StartFragment-->
 
 Kancelář veřejného ochránce práv nevydává žádné vlastní právní předpisy.
 
-<!--EndFragment-->
-
-<!--StartFragment-->
-
-# [Přehled účelů zpracování osobních údajů ](https://www.ochrance.cz/fileadmin/user_upload/Kancelar/Info_dle_101.pdf "Otevření do nového okna")
-
-<!--EndFragment-->
-
-<!--StartFragment-->
+# [Přehled účelů zpracování osobních údajů ](https://www.ochrance.cz/fileadmin/user_upload/Kancelar/Info_dle_101.pdf)
 
 ## Úhrady za poskytování informací
-
-<!--EndFragment-->
-
-<!--StartFragment-->
 
 Kancelář veřejného ochránce práv za poskytování informací  požaduje úhradu dle *[Sazebník úhrad za poskytování informací podle zákona č. 106/1999 Sb., o svobodném přístupu k informacím, ve znění pozdějších předpisů](https://www.ochrance.cz/kancelar-vop/poskytovani-informaci-podle-zakona-c-1061999-sb/zasady-pro-poskytovani-informaci/sazebnik-uhrad-za-poskytovani-informaci-podle-zakona-c-1061999-sb-o-svobodnem-pristupu-k-informacim-ve-zneni-pozdejsich-predpisu/)*
 
 ## Licenční smlouvy
 
-<!--EndFragment-->
-
-<!--StartFragment-->
-
 Kancelář veřejného ochránce práv není poskytovatelem žádné licence.
-
-<!--EndFragment-->

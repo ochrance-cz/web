@@ -1,0 +1,31 @@
+{{ define "title"}}Informace podle zákona 106/1999 Sb. za rok {{ .Title }}{{ end }}
+
+{{ define "main" }}
+<main>
+  <div class="_backdrop header {{ with .Params.headerColor }}{{ . }}{{ end }}">
+  <header class="_text-header">
+    <h1>{{ if lt 2000 .Title }}Informace podle zákona 106/1999 Sb. za rok{{ end }} {{ .Title }}</h1>
+    <div class="perex {{ with .Params.descriptionInfoIcon }}icon-info{{ end }}">
+      {{ with .Params.description }}
+        {{ partial "md-block.html" . }}
+      {{ end }}
+    </div>
+  </header>
+  </div>
+
+
+  <div {{ with .Params.contentBackdrop }} class="{{ . }}"{{ end }}>
+    <section>
+      {{ with .Params.perex }}
+        <div class="perex">
+          {{ partial "md-block.html" . }}
+        </div>
+      {{ end }}
+
+    	{{ .Content }}
+
+      <p><a href="../" class="_button back">zpět</a>
+    </section>
+  </div>
+</main>
+{{ end }}
