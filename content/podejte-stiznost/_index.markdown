@@ -1,6 +1,6 @@
 ---
-title: Podejte stížnost
-description: Jakmile váš podnět (stížnost či upozornění) přijmeme, co nejdřív se vám ozveme, **nejpozději do 30 dnů.**
+title: Podejte podnět
+description: Jakmile váš podnět (stížnost či upozornění) přijmeme, co nejdřív se vám ozveme. **Nejpozději do 30 dnů.**
 descriptionInfoIcon: true
 email:
   - link: #

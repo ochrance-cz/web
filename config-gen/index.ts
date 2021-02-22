@@ -96,6 +96,35 @@ const stranky = files("Stránky", "stranky", [
         "Titulek se zobrazí na titulní straně, detailní popis na samostatné stránce.",
     }),
   ]),
+  fileCollection(
+    "Podejte stížnost",
+    "stiznost",
+    "content/podejte-stiznost/_index.markdown",
+    [
+      title("Titulek"),
+      string("Podtitul", "description"),
+      list("Formuláře (e-mail)", "formulář", "email", [
+        file("Soubor", "link"),
+        string("Popis", "desc"),
+      ]),
+      list("Formuláře (poštou)", "formulář", "post", [
+        file("Soubor", "link"),
+        string("Popis", "desc"),
+      ]),
+      list("Formuláře (osobně)", "formulář", "inperson", [
+        file("Soubor", "link"),
+        string("Popis", "desc"),
+      ]),
+      object("Jak napsat ombudsmanovi", "submission", [
+        title("Titulek"),
+        markdown("Poznámky", "body"),
+      ]),
+      list("Ukázky", "ukázkově vyplněný formulář", "example-links", [
+        file("Soubor", "link"),
+        string("Popis", "desc"),
+      ]),
+    ]
+  ),
   fileCollection("Kontakt", "kontakt", "content/kontakt.md", [
     title("Titulek"),
     string("Podtitul", "description"),

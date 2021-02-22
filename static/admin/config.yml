@@ -96,10 +96,101 @@ collections:
               Titulek se zobrazí na titulní straně, detailní popis na samostatné
               stránce.
             widget: markdown
+      - label: Podejte stížnost
+        name: stiznost
+        file: content/podejte-stiznost/_index.markdown
+        fields: &ref_2
+          - label: Titulek
+            name: title
+            widget: string
+          - label: Podtitul
+            name: description
+            required: false
+            widget: string
+          - label: Formuláře (e-mail)
+            name: email
+            required: false
+            label_singular: formulář
+            widget: list
+            fields:
+              - label: Soubor
+                name: link
+                required: false
+                widget: file
+              - label: Popis
+                name: desc
+                required: false
+                widget: string
+          - label: Formuláře (poštou)
+            name: post
+            required: false
+            label_singular: formulář
+            widget: list
+            fields:
+              - label: Soubor
+                name: link
+                required: false
+                widget: file
+              - label: Popis
+                name: desc
+                required: false
+                widget: string
+          - label: Formuláře (osobně)
+            name: inperson
+            required: false
+            label_singular: formulář
+            widget: list
+            fields:
+              - label: Soubor
+                name: link
+                required: false
+                widget: file
+              - label: Popis
+                name: desc
+                required: false
+                widget: string
+          - widget: object
+            label: Jak napsat ombudsmanovi
+            name: submission
+            required: false
+            fields:
+              - label: Titulek
+                name: title
+                widget: string
+              - editor_components:
+                  - image
+                buttons:
+                  - bold
+                  - italic
+                  - link
+                  - heading-two
+                  - heading-three
+                  - heading-four
+                  - quote
+                  - bulleted-list
+                  - numbered-list
+                label: Poznámky
+                name: body
+                required: false
+                widget: markdown
+          - label: Ukázky
+            name: example-links
+            required: false
+            label_singular: ukázkově vyplněný formulář
+            widget: list
+            fields:
+              - label: Soubor
+                name: link
+                required: false
+                widget: file
+              - label: Popis
+                name: desc
+                required: false
+                widget: string
       - label: Kontakt
         name: kontakt
         file: content/kontakt.md
-        fields: &ref_2
+        fields: &ref_3
           - label: Titulek
             name: title
             widget: string
@@ -219,7 +310,7 @@ collections:
       - label: Kontakty
         name: kontakty
         file: content/provoz/kontakty/index.md
-        fields: &ref_3
+        fields: &ref_4
           - label: Titulek
             name: title
             widget: string
@@ -298,7 +389,7 @@ collections:
       - label: Přístupnost budovy
         name: budova
         file: content/pristupnost/budova/index.md
-        fields: &ref_4
+        fields: &ref_5
           - label: Titulek
             name: title
             widget: string
@@ -332,7 +423,7 @@ collections:
       - label: Snadné čtení
         name: easy-read
         file: content/pristupnost/snadne-cteni/index.md
-        fields: &ref_5
+        fields: &ref_6
           - label: Titulek
             name: title
             widget: string
@@ -356,7 +447,7 @@ collections:
       - label: Newsletter
         name: newsletter
         file: content/newsletter.md
-        fields: &ref_6
+        fields: &ref_7
           - label: Titulek
             name: title
             widget: string
@@ -385,9 +476,9 @@ collections:
     label_singular: aktualita
     folder: content/aktualne
     extension: md
-    editor: &ref_7
+    editor: &ref_8
       preview: false
-    fields: &ref_8
+    fields: &ref_9
       - label: Titulek
         name: title
         widget: string
@@ -442,9 +533,9 @@ collections:
     label_singular: dokument
     folder: content/dokument
     extension: md
-    editor: &ref_9
+    editor: &ref_10
       preview: false
-    fields: &ref_10
+    fields: &ref_11
       - label: Titulek
         name: title
         widget: string
@@ -515,7 +606,7 @@ collections:
       - label: O kanceláři
         name: o-kancelari
         file: content/o-nas/_index.markdown
-        fields: &ref_11
+        fields: &ref_12
           - label: Titulek stránky
             name: title
             widget: string
@@ -573,7 +664,7 @@ collections:
       - label: Veřejný ochránce práv
         name: ombudsman
         file: content/o-nas/ombudsman/index.md
-        fields: &ref_12
+        fields: &ref_13
           - label: Název role
             name: title
             widget: string
@@ -623,7 +714,7 @@ collections:
       - label: Zástupce
         name: deputy
         file: content/o-nas/deputy/index.md
-        fields: &ref_13
+        fields: &ref_14
           - label: Název role
             name: title
             widget: string
@@ -673,7 +764,7 @@ collections:
       - label: Historie
         name: historie
         file: content/o-nas/historie/index.md
-        fields: &ref_14
+        fields: &ref_15
           - label: Titulek
             name: title
             widget: string
@@ -695,7 +786,7 @@ collections:
       - label: Předpisy
         name: predpisy
         file: content/o-nas/predpisy/index.md
-        fields: &ref_15
+        fields: &ref_16
           - label: Titulek
             name: title
             widget: string
@@ -721,9 +812,9 @@ collections:
     label_singular: Oblast
     folder: content/pusobnost
     extension: md
-    editor: &ref_16
+    editor: &ref_17
       preview: false
-    fields: &ref_17
+    fields: &ref_18
       - label: Název oblasti
         name: title
         widget: string
@@ -799,9 +890,9 @@ collections:
     label_singular: Problematika
     folder: content/potrebuji-pomoc
     extension: md
-    editor: &ref_18
+    editor: &ref_19
       preview: false
-    fields: &ref_19
+    fields: &ref_20
       - label: Titulek
         name: title
         widget: string
@@ -940,9 +1031,9 @@ collections:
     label_singular: leták
     folder: content/letaky
     extension: md
-    editor: &ref_20
+    editor: &ref_21
       preview: false
-    fields: &ref_21
+    fields: &ref_22
       - label: Název letáku
         name: title
         widget: string
@@ -986,9 +1077,9 @@ collections:
     label_singular: situace
     folder: content/situace
     extension: md
-    editor: &ref_22
+    editor: &ref_23
       preview: false
-    fields: &ref_23
+    fields: &ref_24
       - label: Název situace
         name: title
         widget: string
@@ -1023,9 +1114,9 @@ collections:
     label_singular: provozní info
     folder: content/provoz
     extension: md
-    editor: &ref_24
+    editor: &ref_25
       preview: false
-    fields: &ref_25
+    fields: &ref_26
       - label: Titulek
         name: title
         widget: string
@@ -1086,9 +1177,9 @@ collections:
     label_singular: infostránka
     folder: content/info
     extension: md
-    editor: &ref_26
+    editor: &ref_27
       preview: false
-    fields: &ref_27
+    fields: &ref_28
       - label: Titulek
         name: title
         widget: string
@@ -1180,9 +1271,9 @@ collections:
     label_singular: projekt
     folder: content/projekty
     extension: md
-    editor: &ref_28
+    editor: &ref_29
       preview: false
-    fields: &ref_29
+    fields: &ref_30
       - label: Název projektu
         name: title
         widget: string
@@ -1292,35 +1383,39 @@ collections:
         name: varovani
         file: content-en/alert/_index.markdown
         fields: *ref_1
+      - label: Podejte stížnost
+        name: stiznost
+        file: content-en/podejte-stiznost/_index.markdown
+        fields: *ref_2
       - label: Kontakt
         name: kontakt
         file: content-en/kontakt.md
-        fields: *ref_2
+        fields: *ref_3
       - label: Kontakty
         name: kontakty
         file: content-en/provoz/kontakty/index.md
-        fields: *ref_3
+        fields: *ref_4
       - label: Přístupnost budovy
         name: budova
         file: content-en/pristupnost/budova/index.md
-        fields: *ref_4
+        fields: *ref_5
         media_folder: ''
       - label: Snadné čtení
         name: easy-read
         file: content-en/pristupnost/snadne-cteni/index.md
-        fields: *ref_5
+        fields: *ref_6
         media_folder: ''
       - label: Newsletter
         name: newsletter
         file: content-en/newsletter.md
-        fields: *ref_6
+        fields: *ref_7
   - name: aktualne-en
     label: Aktuality (EN)
     label_singular: aktualita (en)
     folder: content-en/aktualne
     extension: md
-    editor: *ref_7
-    fields: *ref_8
+    editor: *ref_8
+    fields: *ref_9
     create: true
     path: '{{slug}}/index'
     media_folder: ''
@@ -1330,8 +1425,8 @@ collections:
     label_singular: dokument (en)
     folder: content-en/dokument
     extension: md
-    editor: *ref_9
-    fields: *ref_10
+    editor: *ref_10
+    fields: *ref_11
     create: true
     path: '{{slug}}/index'
     media_folder: ''
@@ -1342,35 +1437,35 @@ collections:
       - label: O kanceláři
         name: o-kancelari
         file: content-en/o-nas/_index.markdown
-        fields: *ref_11
+        fields: *ref_12
         media_folder: ''
       - label: Veřejný ochránce práv
         name: ombudsman
         file: content-en/o-nas/ombudsman/index.md
-        fields: *ref_12
+        fields: *ref_13
         media_folder: ''
       - label: Zástupce
         name: deputy
         file: content-en/o-nas/deputy/index.md
-        fields: *ref_13
+        fields: *ref_14
         media_folder: ''
       - label: Historie
         name: historie
         file: content-en/o-nas/historie/index.md
-        fields: *ref_14
+        fields: *ref_15
         media_folder: ''
       - label: Předpisy
         name: predpisy
         file: content-en/o-nas/predpisy/index.md
-        fields: *ref_15
+        fields: *ref_16
         media_folder: ''
   - name: pusobnost-en
     label: Působnost (EN)
     label_singular: Oblast (en)
     folder: content-en/pusobnost
     extension: md
-    editor: *ref_16
-    fields: *ref_17
+    editor: *ref_17
+    fields: *ref_18
     create: true
     path: '{{slug}}/index'
     media_folder: ''
@@ -1380,8 +1475,8 @@ collections:
     label_singular: Problematika (en)
     folder: content-en/potrebuji-pomoc
     extension: md
-    editor: *ref_18
-    fields: *ref_19
+    editor: *ref_19
+    fields: *ref_20
     path: '{{slug}}/index'
     media_folder: ''
     public_folder: ''
@@ -1390,8 +1485,8 @@ collections:
     label_singular: leták (en)
     folder: content-en/letaky
     extension: md
-    editor: *ref_20
-    fields: *ref_21
+    editor: *ref_21
+    fields: *ref_22
     create: true
     path: '{{slug}}/index'
     media_folder: ''
@@ -1401,8 +1496,8 @@ collections:
     label_singular: situace (en)
     folder: content-en/situace
     extension: md
-    editor: *ref_22
-    fields: *ref_23
+    editor: *ref_23
+    fields: *ref_24
     create: true
     path: '{{slug}}/_index'
   - name: provoz-en
@@ -1410,8 +1505,8 @@ collections:
     label_singular: provozní info (en)
     folder: content-en/provoz
     extension: md
-    editor: *ref_24
-    fields: *ref_25
+    editor: *ref_25
+    fields: *ref_26
     create: true
     path: '{{slug}}/index'
     media_folder: ''
@@ -1421,8 +1516,8 @@ collections:
     label_singular: infostránka (en)
     folder: content-en/info
     extension: md
-    editor: *ref_26
-    fields: *ref_27
+    editor: *ref_27
+    fields: *ref_28
     create: true
     path: '{{slug}}/index'
     media_folder: ''
@@ -1432,8 +1527,8 @@ collections:
     label_singular: projekt (en)
     folder: content-en/projekty
     extension: md
-    editor: *ref_28
-    fields: *ref_29
+    editor: *ref_29
+    fields: *ref_30
     create: true
     path: '{{slug}}/index'
     media_folder: ''
