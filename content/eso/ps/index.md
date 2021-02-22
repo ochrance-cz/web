@@ -5,5 +5,3 @@ perex: Ombudsman pravidelně informuje poslance o své činnosti a poznatcích. 
 eso:
   - Čtvrtletní zpráva sněmovně § 24/1 a)
 ---
-
-TODO (čtvrtletní zprávy + přílohy – seznam souborů PDF)

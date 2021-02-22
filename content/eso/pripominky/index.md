@@ -5,8 +5,3 @@ perex: Ombudsman má možnost připomínkovat návrhy právních předpisů nebo
 eso:
   - Připomínka v legislativním procesu
 ---
-
-Výběr některých důležitých připomínek ombudsmana podle roků:
-2020
-2019….
-(další stránky: Výběr připomínek ombudsmana za rok …. + výčet odkazů do ESO, příp. PDF soubory)

@@ -5,5 +5,3 @@ perex: Ombudsman je pravidelně žádán mezinárodními orgány o vyjádření 
 eso:
   - Spolupráce se státními orgány, NGO, soukromým sektorem, zahraničními subjekty
 ---
-
-(přehled vyjádření – odkazy do ESO nebo soubory PDF)

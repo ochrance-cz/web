@@ -12,7 +12,11 @@
 
     	{{ .Content }}
 
-      {{ with .Params.eso }}
+      <p>
+        <a class="_button" href="https://eso.ochrance.cz">Vstoupit do ESO</a>
+      </p>
+
+      {{/* with .Params.eso }}
         {{ $keys := . }}
 
         {{ $data := getCSV "," "content/cinnost/eso/export.fixed.csv" }}
@@ -48,7 +52,7 @@
             </article>
           {{ end }}
         {{ end }}
-      {{ end }}
+      {{ end */}}
     </section>
   </div>
 </main>

@@ -61,5 +61,5 @@ we-can:
     nevhodně.
 button:
   text: Zjistěte, co můžete dělat
-  link: /situace/státn%C3%AD-správa-a-samospráva/
+  link: /situace/statni-sprava-a-samosprava/
 ---

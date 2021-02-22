@@ -36,7 +36,7 @@ examples:
     name: paní Ladislava
 button:
   text: Zjistěte, co dělat v různých situacích
-  link: /situace/lidé-se-zdravotn%C3%ADm-postižen%C3%ADm/
+  link: /situace/lide-se-zdravotnim-postizenim/
 ---
 
 Snažíme se systematicky zlepšovat situaci lidí s postižením. Spolupracujeme přímo s lidmi s postižením, pravidelně navštěvujeme zařízení, kde jsou lidé s postižením, provádíme výzkumy.

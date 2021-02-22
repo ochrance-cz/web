@@ -10,5 +10,3 @@ eso:
 Ombudsman není oprávněn sám navrhovat zrušení zákona nebo jeho části. Pokud ale jiný oprávněný navrhovatel podá Ústavnímu soudu návrh na zrušení zákona, ombudsman se může do řízení zapojit jako tzv. vedlejší účastník. Ústavnímu soudu pak může předložit své poznatky, které se daného zákona týkají.
 
 V případech, kdy Ústavní soud rozhoduje ve věci, kterou se ombudsman zabýval, může ho Ústavní soud požádat o stanovisko, aby se seznámil s širším kontextem tématu. Ombudsman pak vystupuje jako tzv. „amicus curiae“.
-
-TODO Výčet materiálů – jako seznam s odkazy do ESO a s uvedením roků (nedělat další členění na nové stránky podle ročníků, materiálů není moc)
