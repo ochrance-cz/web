@@ -11,7 +11,8 @@ perex: >-
 
   <!--EndFragment-->
 cta:
-  title: Řešíte podobnou situaci a domníváte se, že vám ombudsman může pomoct?
+  title: Are you dealing with a similar situation and believe that the Ombudsman
+    can help you?
 ---
 <!--StartFragment-->
 
