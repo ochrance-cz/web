@@ -1,34 +1,36 @@
 ---
-title: Rovné zacházení a diskriminace
+title: Equal treatment and discrimination
 headerColor: orange
 illustration: DIS.jpg
-perex: Od roku 2009 je ombudsman národním orgánem pro rovné zacházení a ochranu před diskriminací. Jeho úkolem je poskytovat obětem diskriminace metodickou pomoc, provádět výzkumy v oblasti diskriminace, vydávat doporučení k prosazování rovného zacházení.
+perex: Since 2009, the Ombudsman has acted in the role of the national equality
+  body responsible for equal treatment and protection against discrimination.
+  The Ombudsman’s goal is to provide victims of discrimination with
+  methodological assistance, conduct research in the area of discrimination and
+  issue recommendations to promote equal treatment.
 cta:
-  title: Řešíte podobnou situaci a domníváte se, že vám ombudsman může pomoct?
+  title: Are you dealing with a similar situation and believe that the Ombudsman
+    can help you?
 ---
+While the “traditional” competence of the Ombudsman only applies to authorities and institutions performing State administration, in the area of discrimination, the Ombudsman may also address complaints against discriminatory conduct of municipalities (e.g. in renting of municipal flats), employers (in recruitment procedure, remuneration, termination of employment, etc.), vendors (in offering products and services), schools and others.
 
-Zatímco „tradiční“ působnost ombudsmana se vztahuje pouze na úřady a instituce vykonávající státní správu, v oblasti diskriminace se ombudsman může zabývat i stížnostmi na diskriminační jednání obcí (např. při pronajímání obecních bytů), zaměstnavatelů (při výběru zaměstnanců, odměňování, ukončování pracovního poměru apod.), obchodníků (při nabízení produktů a služeb), škol a dalších.
+In general, discrimination means different treatment in comparable situations without a reasonable justification. The feeling of being discriminated against is not sufficient in itself – legally speaking, discrimination only means conduct described and prohibited by law. The Anti-Discrimination Act lists the grounds based on which discrimination is inadmissible. These grounds include race, ethnic background, nationality, sex and gender, sexual orientation, age, disability, religion, belief or world view. At the same time, the Anti-Discrimination Act defines situations where discrimination is prohibited. These include areas of employment, business, education, healthcare and provision of goods and services, including housing, if offered to the public.
 
-Diskriminací se obecně rozumí odlišné zacházení ve srovnatelných situacích bez rozumného odůvodnění. Nestačí se však diskriminovaným či diskriminovanou pouze cítit – diskriminace musí skutečně existovat jako jednání popsané a zakázané zákonem. Antidiskriminační zákon stanoví, z jakých důvodů je rozlišování mezi lidmi nepřípustné. Jsou to rasa, etnický původ, národnost, státní příslušnost, pohlaví, sexuální orientace, věk, zdravotní postižení, náboženské vyznání, víra a světový názor. Současně antidiskriminační zákon vymezuje situace, v nichž je diskriminace zakázána. Jde o zaměstnání, podnikání, vzdělání, zdravotní péči, poskytování zboží a služeb včetně bydlení, pokud jsou nabízeny veřejnosti.
+Some other laws (such as the Schools Act, the Labour Code, the Consumer Protection Act, etc.) prohibit discrimination on other grounds, e.g., on the grounds of membership in trade unions and political parties, on the grounds of family status, social background, property, etc. Compliance with these regulations is supervised by other inspection bodies, such as the Czech Schools Inspectorate, the Czech Trade Inspection Authority, and the Labour Inspectorate.
 
-Některé další zákony (např. školský zákon, zákoník práce, zákon o ochraně spotřebitele aj.) zakazují diskriminaci i z jiných důvodů, např. z důvodu členství v odborových organizacích či politických stranách, z důvodu rodinného stavu, sociálního původu, majetku atd. Na jejich dodržování dohlížejí jiné kontrolní orgány, např. Česká školní inspekce, Česká obchodní inspekce, inspektoráty práce aj.
 
-> _Výpověď z práce kvůli věku_
->
-> Paní Marie dosáhla důchodového věku a zaměstnavatel se jí chtěl zbavit, stejně jako několika dalších starších kolegyň. Snažil se je přimět k tomu, aby přistoupily na dohodu o ukončení pracovního poměru. Těm, které odmítly, nevyplatil roční odměny a vyhrožoval jim, že je bude přesouvat z místa na místo a znepříjemňovat jim zaměstnání tak, že samy odejdou. Když se nedaly zastrašit, dal jim výpověď pro nadbytečnost, ale vzápětí na jejich místa vypsal výběrové řízení.
->
-> Paní Marie se s diskriminací nesmířila a rozhodla se bránit. Potvrdili jsme, že šlo o diskriminaci z důvodu věku. Paní Marie se obrátila na soud a uspěla. Soud rozhodl, že její výpověď pro nadbytečnost je neplatná. Zaměstnavatel se odvolal, ale neuspěl. Případ definitivně uzavřel Nejvyšší soud, který rozhodnutí nižších soudů potvrdil.
 
-> _Zákaz vstupu do prodejny s kočárkem_
+> *Termination of employment on grounds of age*
 >
-> Majitelka obchodu s potravinami nechtěla v prodejně kočárky, a tak na dveře umístila obrázek s přeškrtnutým kočárkem. Paní Ivana nechtěla nechávat svého dvouletého syna v kočárku samotného venku před dveřmi, když byl obchod dostatečně prostorný i pro její kočárek. Obrátila se tedy na Českou obchodní inspekci, která se ale jejím problémem odmítla zabývat.
+> As Marie reached her retirement age, her employer wanted to get rid of her and several other of her older colleagues. He tried to force them to accept an agreement on termination of employment. Those who did not accept lost annual bonuses and were threatened with a transfer to positions that would make their job as unpleasant as possible in order to force them to leave. When this intimidation tactic did not work, the employer gave them notice on grounds of redundancy, but announced a selection procedure for positions corresponding to their former positions immediately afterwards. Marie did not accept this form of discrimination and decided to defend herself. We confirmed that the employer’s conduct amounted to age discrimination. Marie turned to court and succeeded. The court decided that her notice of termination on grounds of redundancy was invalid. The employer appealed, but did not succeed. The case was finally closed by the Supreme Court, which upheld the decisions of the lower courts. 
 >
-> Nakonec se paní Ivana obrátila na ombudsmana. Ombudsman situaci posoudil jako nepřímou diskriminaci z důvodu pohlaví. Ačkoli se na první pohled může zdát, že si obchodníci mohou stanovit své podmínky, jak uznají za vhodné, není to tak vždy. Ani obchodníci nesmí diskriminovat – jejich podmínky a pravidla nesmí při nákupu zboží nespravedlivě dopadat na rodiče malých dětí.
 >
-> Po upozornění ombudsmana provozovatelka obrázek s přeškrtnutým kočárkem odstranila. Bezpečnost zákazníků je možné řešit i jinými způsoby než úplným zákazem vstupu rodičů s kočárky. Pokud zrovna obchod nebude plný zákazníků a neohrozí to ničí bezpečnost, provozovatelka rodičům vjezd s kočárkem dovolí.
-
-> _Nepřidělení obecního bytu kvůli etnicitě_
 >
-> Paní Růžena se potřebovala přestěhovat do bytu, který by lépe vyhovoval jejímu synovi se zdravotním postižením. Dvakrát žádala o městský byt, dvakrát vyhrála výběrové řízení, ale město s ní nájemní smlouvu neuzavřelo. Paní Růženě se postup města nelíbil a obrátila se na ombudsmana.
+> *Prohibition of entry into a store with a baby carriage*
 >
-> Ombudsman zjistil, že město jednalo s paní Růženou jinak než s jinými žadateli o byt. Žadatelé, kteří splnili podmínky pro přidělení bytu a nebyli Romové, byt od města dostali. Paní Růžena jako Romka byt nedostala. Ombudsman řekl, že to je diskriminace, a doporučil paní Růženě, aby se soudila, pokud se s městem nedohodne. Město uznalo svou chybu a s paní Růženou uzavřelo smlouvu na byt na dobu neurčitou.
+> An owner of a grocery store prohibited baby carriages from entering by placing a “no baby carriages” sign on the door. Ivana did not want to leave her two-year-old son outside unattended because the store was sufficiently spacious for her to enter even with the baby carriage. Therefore, she turned to the Czech Trade Inspection Authority, which, however, refused to deal with her problem. In the end, Ivana contacted the Ombudsman. The Ombudsman assessed the situation as indirect discrimination on grounds of sex/gender. Although it may seem at first glance that business owners may set whatever conditions they consider appropriate, this is not always the case. Business owners, too, must avoid unlawful discrimination – their conditions and rules must not unfairly affect parents of young children when buying goods. After being notified by the Ombudsman, the store operator removed the sign. Customers’ safety can also be ensured by means other than full ban on entry of people with baby carriages. If the store is not full of customers and this does not endanger safety, the operator will allow people to enter with baby carriages.
+>
+>
+>
+> *Non-assignment of a municipal flat due to ethnicity*
+>
+> Růžena needed to move into a flat that would better suit her disabled son. She twice applied for a municipal flat, won the tender procedure twice, but the municipality did not conclude a lease contract with her. Růžena did not like the procedure taken by the municipality and turned to the Ombudsman. The Ombudsman found that the municipality had treated Růžena differently compared to the other applicants. Non-Roma applicants who fulfilled the conditions for assigning a flat did get the contract. On the other hand, Růžena as a Roma person did not. The Ombudsman stated that this was a case of discrimination and recommended Růžena to file a lawsuit unless she reached an agreement with the municipality. The municipality acknowledged its error and concluded a lease contract with Růžena for an indefinite term.
