@@ -1,39 +1,82 @@
 ---
-title: Rodina, zdravotnictví a práce
+title: Family, healthcare and labour
 headerColor: null
 illustration: rodina.jpg
-perex: Odbor rodiny, zdravotnictví a práce vyřídí ročně okolo 1200 podnětů, z
-  nichž přibližně 50 je od dětí.
+perex: >-
+  <!--StartFragment-->
+
+
+  Each year, the Department of Family, Healthcare and Labour handles about 1,200 complaints, including approximately 50 complaints from children.
+
+
+  <!--EndFragment-->
 cta:
   title: Řešíte podobnou situaci a domníváte se, že vám ombudsman může pomoct?
 ---
+<!--StartFragment-->
 
-## Rodina
+## **Family**
 
-Lidé nejčastěji hledají pomoc s problémy v oblasti rodinného života, zejména když nejsou spokojeni s postupem orgánu sociálně-právní ochrany dětí. Tedy např. v situaci, kdy rodič brání druhému rodiči ve styku s dítětem, kdy hrozí odebrání dítěte z rodiny, kdy kolizní opatrovník v soudním řízení nehájí zájem dítěte. Věnujeme se ale i problematice náhradní rodinné péče a stížnostem na podmínky v zařízeních pro děti apod.
+<!--EndFragment-->
 
-> _Případ umístění dívky do krizového zařízení pro děti_
+<!--StartFragment-->
+
+In most cases, people seek help with problems in the area of family life, especially when they are dissatisfied with the procedure taken by a body for social and legal protection of children (BSLPC). This includes situations where a parent prevents the other parent from contacting their child, where there is a risk of removal of a child from the family or where the guardian ad litem does not protect the child’s interest in court proceedings. Apart from the above, we also deal with issues such as substitute family care and complaints concerning conditions in facilities for children. 
+
+<!--EndFragment--><!--StartFragment-->
+
+*A case of a girl placed in a crisis facility for children*
+
+<!--EndFragment-->
+
+> <!--StartFragment-->
 >
-> 14letá Jana byla na návrh OSPOD umístěna do krizového zařízení pro děti. Napsala ombudsmanovi, že neví, proč v zařízení je, jak dlouho v něm bude, proč byla odebrána z péče otce. Během převozu autem po ní navíc soudní vykonavatel požadoval, aby měla celou dobu ruce na klíně.
+> A 14-year-old Jana was placed in a crisis facility for children at the request of the BSLPC. She wrote to the Ombudsman, stating that she did not know why she had been placed in the facility, how long she would be there, or why she had been taken from her father’s care. Furthermore, throughout the trip to the facility, the law enforcement officer had demanded that the girl keep her hands in her lap. We criticised the BSLPC for failing to communicate with the girl to explain all details to her, as well as for failing to inquire whether any of her relatives could have taken care of her. Furthermore, we criticised the BSLPC for not taking action against the insensitive conduct of the law enforcement officer. The BSLPC provided advice to its employees, clarified the issue of proper conduct towards children with the law enforcement officer in question and improved communication with Jana.
 >
-> Vytkli jsme OSPOD, že s dívkou nekomunikoval lépe a vše jí nevysvětlil, že nezjišťoval, jestli by nemohla být v péči někoho z příbuzných, a kritizovali jsme OSPOD i za to, že nezasáhl proti necitlivému jednání soudního vykonavatele. OSPOD poučil své pracovníky, vyjasnil si se soudním vykonavatelem přístup k dítěti a začal s Janou intenzivně komunikovat.
+> <!--EndFragment-->
 
-## Práce a zaměstnanost
+<!--StartFragment-->
 
-Zabýváme se postupem úřadu práce. Především jde o stížnosti na rozhodnutí o podpoře v nezaměstnanosti, o sankčním vyřazení z evidence uchazečů o zaměstnání či o rekvalifikaci. Šetříme ale i činnost inspektorátů práce, např. nedostatečné provedení kontroly zaměstnavatele apod.
+## Work and employment
 
-> _Případ vyřazení z evidence úřadu práce_
+<!--EndFragment-->
+
+<!--StartFragment-->
+
+We inquire into the procedure of the Labour Office. Specifically, we deal with complaints against decisions on matters such as unemployment benefits, the penalty of removal from the register of jobseekers, and re-training. However, we also inquire into the activities of labour inspectorates, for instance in relation to insufficient inspection of the employer, etc.
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
+*A case of removal from the Labour Office’s register*
+
+<!--EndFragment-->
+
+> <!--StartFragment-->
 >
-> Pan Petr byl sankčně vyřazen z evidence úřadu práce, protože opožděně úřad informoval o lékařem vystavené dočasné neschopnosti. Přišel o podporu v nezaměstnanosti, zdravotní pojištění hrazené státem i možnost žádat o dávky pomoci v hmotné nouzi. Nepomohlo mu vysvětlení, že když šel od lékaře, byl už úřad práce zavřený, další den se tam jeho družka nedovolala a neschopenku proto na úřad odnesla až třetí pracovní den.
+> Petr was removed from the register of the Labour Office as punishment for failing to notify it in time of his temporary unfitness to work certified by his physician. This resulted in him no longer being entitled to receive unemployment benefits, State-paid health insurance and the possibility to apply for assistance in material need. Petr tried to explain that after he had left his physician’s office, the Labour Office had already been closed; on the following day, the Office had not answered his partner’s phone calls. This is why she had delivered the sick note to the Labour Office only on the third business day after it was issued. The Labour Office did not accept this explanation. We pointed out that the Labour Office should have assessed the severity of the breach of Petr’s duties and should have considered whether the punishment in the form of removal from the register was appropriate. While the Labour Office maintained its position, Petr did not give up. He turned to the court and won the case with the help of our reports and reasoning. As a result, the court cancelled the penalty of removal from the Labour Office's register.
 >
-> Vytkli jsme úřadu práce, že měl posoudit míru závažnosti porušení povinností a zvážit, jestli je trest v podobě vyřazení z evidence přiměřený. Úřad práce trval na svém, ale pan Petr se nevzdal. S pomocí našich zpráv a argumentace se obrátil na soud a vyhrál. Soud sankční vyřazení z evidence úřadu práce zrušil.
+> <!--EndFragment-->
 
-## Zdravotnictví
+<!--StartFragment-->
 
-V oblasti zdravotnictví lidé hledají pomoc ombudsmana především v souvislosti se zdravotním pojištěním, ale také se stížnostmi na péči o zdraví.
+## **Healthcare**
 
-> _Případ úhrady pobytu v lázních_
+<!--EndFragment-->
+
+<!--StartFragment-->
+
+In the area of healthcare, people seek the Ombudsman’s assistance especially in connection with health insurance and healthcare-related complaints.
+
+<!--EndFragment--><!--StartFragment-->
+
+*A case concerning payment for staying in a spa*
+
+<!--EndFragment-->
+
+> <!--StartFragment-->
 >
-> Pan Milan měl jet do lázní. Zdravotní pojišťovna schválila úhradu jeho pobytu. Vzhledem k tomu, že je kvůli mozkové příhodě omezen v pohyblivosti, požádal o úhradu pobytu své manželky jako průvodce. Zdravotní pojišťovna to však neschválila.
+> Milan was going to a spa. The health insurance company approved the reimbursement of his stay. Since his mobility was reduced after suffering a stroke, he also asked for reimbursement of his wife’s stay as his assistant. However, the health insurance company did not approve this reimbursement. Upon our request, the insurance company re-evaluated Milan’s need for assistance and promised to pay for his wife's stay.
 >
-> Po naší výzvě pojišťovna znovu zhodnotila reálnou potřebu doprovodu pana Milana v lázních a přislíbila, že pobyt manželky uhradí.
+> <!--EndFragment-->
