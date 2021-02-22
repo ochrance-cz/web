@@ -1,42 +1,53 @@
 ---
-title: Stavební řád
+title: Rules of construction procedure
 headerColor: green
 illustration: stavebko-03.jpg
-perex: Stavebnictví je druhou největší oblastí, kterou se ombudsman zabývá. Odbor stavebního řádu se však kromě stavebnictví věnuje také problematice životního prostředí, památkové péči, pohřebnictví, ale také ochraně před nadměrným hlukem nebo ochranou zvířat před týráním. Ročně řešíme asi 900 podnětů.
+perex: >-
+  <!--StartFragment-->
+
+
+  Construction is the second largest area dealt with by the Ombudsman. However, in addition to the area of the construction sector itself, the Department of Construction Procedure also deals with environmental issues, monument care, funeral services, as well as protection against excessive noise and animal welfare. Each year, we deal with approximately 900 complaints. 
+
+
+  <!--EndFragment-->
 cta:
-  title: Řešíte podobnou situaci a domníváte se, že vám ombudsman může pomoct?
+  title: Are you dealing with a similar situation and believe that the Ombudsman
+    can help you?
 ---
+## Construction
 
-## Stavebnictví
+People most often seek help in connection with a structure’s placement and/or approval. Another major area includes proceedings on removal of a structure and the related proceedings on additional approval of a structure. We also deal with complaints concerning use of a structure for other purposes than those covered by the occupancy permit. People also complain about the construction authorities’ inactivity in addressing buildings in a state of disrepair.
 
-Lidé nejčastěji hledají pomoc v souvislosti s umístěním a povolením stavby. Dalším velkým tématem je řízení o odstranění stavby a s tím související řízení o dodatečném povolení stavby. Zabýváme se například i stížnostmi na užívání stavby k jinému účelu, než k jakému je zkolaudovaná. Lidé si také stěžují na nečinnost stavebního úřadu při řešení havarijního stavu staveb.
+*A case of noise coming from a chess club used as a ball and wedding venue*
 
-> _Případ hluku z šachového klubu využívaného k plesům a svatbám_
+> Michal complained that a building in the neighbourhood had formerly served as a chess club, but now weddings, conferences and balls were held there, resulting in heavy traffic and noise until late hours. The construction authority told him that there was nothing wrong with that. We found that the structure’s occupancy permit had designated it as a chess club and also as a multifunctional civic amenities facility. However, we believe that a chess club building cannot be used for all activities that fall within the notion of “civic amenities”. Indeed, in the original occupancy permit proceedings, the parties involved only considered the use of the structure for playing chess, not for various other cultural events. The construction authority agreed with our opinion and initiated proceedings to change the intended use of the building. People affected by the structure will be able to voice their objections in the proceedings. Until a decision is made, the construction authority put a restriction on using the building as a venue for cultural events.
 >
-> Pan Michal si stěžoval, že budova v sousedství dříve sloužila jako šachový klub, ale nyní jsou zde pořádány svatby, konference a plesy, což znamená velký provoz a hluk až do noci. Stavební úřad mu řekl, že je to v pořádku.
 >
-> Zjistili jsme však, že stavba byla zkolaudována k využívání jako šachový klub a také jako komplexní zařízení občanské vybavenosti. Jsme však toho názoru, stavbu šachového klubu nelze využívat ke všem činnostem, které lze zahrnout pod občanskou vybavenost. Účastníci kolaudačního řízení se totiž vyjadřovali pouze k záměru užívat stavbu ke hře šachů, nikoli k různým kulturním akcím. Stavební úřad s naším názorem nakonec souhlasil a zahájil řízení o změně užívání stavby. Lidé, kteří jsou stavbou dotčeni, budou moct v řízení uplatnit své námitky. Do vydání rozhodnutí pak stavební úřad omezil pořádání kulturních akcí.
 
-## Životní prostředí
+## **Environment**
 
-Oblast ochrany životního prostředí zahrnuje např. nakládání s vodami (budování kanalizací, studní či jiných vodních děl, vypouštění odpadních vod, realizace protipovodňových opatření aj.), ochranu před znečištěním ovzduší, ochranu lesů a zemědělského půdního fondu, řešíme problém skládek odpadů a také hornickou a báňskou činnost. K tématu životního prostředí řadíme i záležitosti související s myslivostí nebo rybolovem.
+The area of environmental protection includes matters such as water management (building of sewer systems, wells and other water works, discharge of wastewater, implementation of flood prevention measures, etc.), protection against air pollution, protection of forests and agricultural land, as well as the issues associated with landfills and mining activities. The area of the environment also includes matters related to hunting and fishing.
 
-> _Případ zápachu, prachu a hluku z průmyslového podniku_
+
+
+> *A case of a malodorous, dusty and noisy industrial enterprise*
 >
-> Paní Markéta si stěžovala na dlouhodobé obtěžování hlukem, zápachem a prachem z linky na drcení skla. Zjistili jsme, že vzhledem k možným negativním dopadům na okolí, povolil stavební úřad provozovateli na 9 měsíců zkušební provoz, během kterého měla být provedena měření znečišťujících látek a hluku. Krajský úřad provozovateli vydal povolení k provozu zdroje znečištění. Stavební úřad pak zkušební provoz dvakrát prodloužil, aniž by ověřoval výsledky a bral v úvahu stížnosti lidí na hluk, zápach a prach.
+> Markéta complained about long-term nuisance caused by noisy, malodorous and dusty glass crushing works. We found that due to possible negative impacts on the surrounding area, the construction authority permitted the operator to perform a 9-month trial operation during which measurements of pollutants and noise were to be conducted. The regional authority issued a permit for operation of a pollution source to the operator. The construction authority subsequently extended the trial operation period twice without checking the results and without taking into account complaints from the people about noise, odours and dust. We criticised the construction authority for these facts, advising that it should have discussed the case with the regional authority, the competence of which includes environmental protection. The regional authority could have set specific conditions and evaluated whether the trial operation could at all be extended. After our inquiry, Markéta informed us that the situation had improved significantly and the operator was implementing dust and noise reducing measures.
 >
-> Vytkli jsme tyto skutečnosti stavebnímu úřadu a upozornili jsme ho, že měl věc projednat s krajským úřadem, do jehož působnosti spadá ochrana životního prostředí. Krajský úřad by mohl stanovit specifické podmínky a zhodnotit, jestli je vůbec možné zkušební provoz prodloužit. Po našem šetření nás paní Markéta informovala, že se situace výrazně zlepšila a provozovatel provádí opatření proti obtěžování okolí prachem a hlukem.
-
-## Památková péče
-
-Obracejí se na nás lidé, kteří vlastní domy v památkových zónách a rezervacích, když nesouhlasí s omezeními např. při rekonstrukcích a přestavbách. Zabýváme se také tématem chátrání památek a nedostatečné snahy vlastníků udržet památkově chráněné stavby v dobrém stavu. Vyskytují se i případy, kdy lidé nesouhlasí s tím, že má být odstraněna historická stavba, která není památkově chráněná.
-
-## Pohřebnictví
-
-Specifickou oblastí, kterou se zabýváme, je i pohřebnictví. Podívejte se na náš sborník – Pohřebnictví obsahující stanoviska ke konkrétním případům a odpovědi na nejčastější dotazy, s nimiž se ochránce při své činnosti na úseku pohřebnictví setkal.
-
-> _Problém zrušení hrobu bez informování příbuzných_
 >
-> Sestra zesnulého při návštěvě hřbitova zjistila, že hrob jejího bratra a rodičů byl zrušen. Na jeho místě byla jen prázdná jáma bez pomníčku. Na správě hřbitova se dozvěděla, že hrob nechal zrušit její synovec a zpopelněné ostatky si odnesl. Na její dopisy a prosby o sdělení, kam ostatky přenesl, nereagoval.
+
+## Monument care
+
+We are approached by people who own houses in protected heritage areas and reservations when they disagree with the restrictions applied there, typically as concerns restorations and reconstructions. We also deal with the issue of neglect of protected monuments and insufficient efforts of the owners to keep protected structures in good condition. There are also cases where people disagree with the removal of historical structures that are not subject to heritage protection.
+
+## Funeral services
+
+Funeral services are another specific area we deal with. Have a look at our “Funeral Services” collection, containing opinions on specific cases and answers to frequently asked questions the Defender encountered in his activities in the area of funeral services.
+
+
+
+> *A case of a grave being removed without informing the relatives*
 >
-> Nikdo dopředu neočekává, že se jednou dostane s příbuznými do sporu o hrob, přesto k tomu dochází. Jde o jeden z opakujících se problémů, kdy dojde ke zrušení hrobu proti vůli některých pozůstalých, aniž by byli informováni, kam byly zpopelněné ostatky přemístěny. Podle zákona o pohřebnictví totiž může s hrobovým místem nakládat výlučně jeho nájemce. Je jen na jeho úvaze, jestli bude v nájmu pokračovat, nebo ho ukončí a zpopelněné ostatky v urně a hrobové zařízení si odebere. Zákon nevyžaduje, aby se zrušením hrobu souhlasili ostatní příbuzní, ani není povinností nájemce či hřbitovní správy ostatní příbuzné informovat o zrušení hrobu.
+> When a woman visited the grave of her brother and her parents, she learned that it had been removed. At the site of the grave, she only found an empty pit with the headstone missing. Upon contacting the cemetery administration, she found out that her nephew had had the grave removed, taking the cremated remains with him. He did not respond to her letters and requests asking him to provide her with information on the whereabouts of the remains.
+>
+> Usually, people do not expect to ever get into a dispute with their relatives regarding a grave; yet, such things do happen. Often the grave is removed against the will of some of the survivors without them being informed of the new whereabouts of the cremated remains. Indeed, according to the Funeral Services Act, only the grave plot’s tenant can dispose of it. It is then only up to the tenant’s discretion whether the lease of the grave plot will continue or will be terminated; in such a case, the tenant takes over the gravestone and the cremated remains placed in the urn. The Act does not require other relatives to approve the removal of the grave and it is not the duty of the tenant or the cemetery administration to inform other relatives of the removal.
