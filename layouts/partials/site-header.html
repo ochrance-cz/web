@@ -36,7 +36,6 @@
                 {{ end }}
 
                 <li><a href="">{{ i18n "sep" }}</a></li>
-                <li class="_eso-link">{{ partial "link.html" ($.GetPage "/eso") }}</li>
               </ul>
             </li>
             <li class="dropdown">
@@ -47,7 +46,7 @@
                 {{ range sort (where (where .Site.Pages "Section" "cinnost") "Kind" "page") "Params.order" }}
                   <li>
                     <a
-                      href="{{ .RelPermalink }}"
+                      href="{{ cond (isset .Params "link") .Params.link .RelPermalink }}"
                       class="icon-{{ with .Params.icon }}{{ . }}{{ else }}arrow{{ end }}">
                       {{- .Title -}}
                     </a>
