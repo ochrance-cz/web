@@ -26,7 +26,19 @@ collections:
             name: claim
             required: false
             widget: string
-          - label: Hlavní text
+          - editor_components:
+              - image
+            buttons:
+              - bold
+              - italic
+              - link
+              - heading-two
+              - heading-three
+              - heading-four
+              - quote
+              - bulleted-list
+              - numbered-list
+            label: Hlavní text
             name: body
             required: false
             widget: markdown
@@ -38,12 +50,20 @@ collections:
             name: cinnostTitle
             required: false
             widget: string
-          - label: Info o přístupnosti
+          - editor_components:
+              - image
+            buttons:
+              - bold
+              - italic
+              - link
+              - heading-two
+              - heading-three
+              - heading-four
+              - quote
+              - bulleted-list
+              - numbered-list
+            label: Info o přístupnosti
             name: accessibility
-            required: false
-            widget: markdown
-          - label: Souhlas u newsletteru
-            name: consent
             required: false
             widget: markdown
       - label: Varování
@@ -57,7 +77,19 @@ collections:
             name: active
             required: false
             widget: boolean
-          - label: Podrobný popis
+          - editor_components:
+              - image
+            buttons:
+              - bold
+              - italic
+              - link
+              - heading-two
+              - heading-three
+              - heading-four
+              - quote
+              - bulleted-list
+              - numbered-list
+            label: Podrobný popis
             name: body
             required: false
             hint: >-
@@ -91,7 +123,19 @@ collections:
             name: dataId
             required: false
             widget: string
-          - label: Adresa
+          - editor_components:
+              - image
+            buttons:
+              - bold
+              - italic
+              - link
+              - heading-two
+              - heading-three
+              - heading-four
+              - quote
+              - bulleted-list
+              - numbered-list
+            label: Adresa
             name: address
             required: false
             widget: markdown
@@ -99,7 +143,19 @@ collections:
             name: addressComment
             required: false
             widget: string
-          - label: Popis infolinky s online-přepisem
+          - editor_components:
+              - image
+            buttons:
+              - bold
+              - italic
+              - link
+              - heading-two
+              - heading-three
+              - heading-four
+              - quote
+              - bulleted-list
+              - numbered-list
+            label: Popis infolinky s online-přepisem
             name: infolineHearing
             required: false
             widget: markdown
@@ -108,15 +164,51 @@ collections:
             name: access
             required: false
             fields:
-              - label: Pěšky
+              - editor_components:
+                  - image
+                buttons:
+                  - bold
+                  - italic
+                  - link
+                  - heading-two
+                  - heading-three
+                  - heading-four
+                  - quote
+                  - bulleted-list
+                  - numbered-list
+                label: Pěšky
                 name: walk
                 required: false
                 widget: markdown
-              - label: MHD
+              - editor_components:
+                  - image
+                buttons:
+                  - bold
+                  - italic
+                  - link
+                  - heading-two
+                  - heading-three
+                  - heading-four
+                  - quote
+                  - bulleted-list
+                  - numbered-list
+                label: MHD
                 name: public
                 required: false
                 widget: markdown
-              - label: Obecně
+              - editor_components:
+                  - image
+                buttons:
+                  - bold
+                  - italic
+                  - link
+                  - heading-two
+                  - heading-three
+                  - heading-four
+                  - quote
+                  - bulleted-list
+                  - numbered-list
+                label: Obecně
                 name: universal
                 required: false
                 widget: markdown
@@ -140,7 +232,19 @@ collections:
               - label: Název
                 name: title
                 widget: string
-              - label: Popis
+              - editor_components:
+                  - image
+                buttons:
+                  - bold
+                  - italic
+                  - link
+                  - heading-two
+                  - heading-three
+                  - heading-four
+                  - quote
+                  - bulleted-list
+                  - numbered-list
+                label: Popis
                 name: intro
                 required: false
                 widget: markdown
@@ -153,7 +257,19 @@ collections:
               - label: Název
                 name: title
                 widget: string
-              - label: Popis
+              - editor_components:
+                  - image
+                buttons:
+                  - bold
+                  - italic
+                  - link
+                  - heading-two
+                  - heading-three
+                  - heading-four
+                  - quote
+                  - bulleted-list
+                  - numbered-list
+                label: Popis
                 name: intro
                 required: false
                 widget: markdown
@@ -196,7 +312,19 @@ collections:
                 name: pic
                 required: false
                 widget: image
-              - label: Text
+              - editor_components:
+                  - image
+                buttons:
+                  - bold
+                  - italic
+                  - link
+                  - heading-two
+                  - heading-three
+                  - heading-four
+                  - quote
+                  - bulleted-list
+                  - numbered-list
+                label: Text
                 name: desc
                 required: false
                 widget: markdown
@@ -208,33 +336,100 @@ collections:
           - label: Titulek
             name: title
             widget: string
-          - label: Text stránky
+          - editor_components:
+              - image
+            buttons:
+              - bold
+              - italic
+              - link
+              - heading-two
+              - heading-three
+              - heading-four
+              - quote
+              - bulleted-list
+              - numbered-list
+            label: Text stránky
             name: body
             required: false
             widget: markdown
         media_folder: ''
+      - label: Newsletter
+        name: newsletter
+        file: content/newsletter.md
+        fields: &ref_6
+          - label: Titulek
+            name: title
+            widget: string
+          - label: Uložit jako draft
+            name: draft
+            required: false
+            widget: boolean
+          - editor_components:
+              - image
+            buttons:
+              - bold
+              - italic
+              - link
+              - heading-two
+              - heading-three
+              - heading-four
+              - quote
+              - bulleted-list
+              - numbered-list
+            label: Souhlas u newsletteru
+            name: consent
+            required: false
+            widget: markdown
   - name: aktualne
     label: Aktuality
     label_singular: aktualita
     folder: content/aktualne
     extension: md
-    editor: &ref_6
+    editor: &ref_7
       preview: false
-    fields: &ref_7
+    fields: &ref_8
       - label: Titulek
         name: title
         widget: string
+      - label: Uložit jako draft
+        name: draft
+        required: false
+        widget: boolean
       - label: Datum
         name: date
         required: false
         widget: datetime
         date_format: DD.MM.YYYY
         time_format: false
-      - label: Perex
+      - editor_components:
+          - image
+        buttons:
+          - bold
+          - italic
+          - link
+          - heading-two
+          - heading-three
+          - heading-four
+          - quote
+          - bulleted-list
+          - numbered-list
+        label: Perex
         name: perex
         required: false
         widget: markdown
-      - label: Text
+      - editor_components:
+          - image
+        buttons:
+          - bold
+          - italic
+          - link
+          - heading-two
+          - heading-three
+          - heading-four
+          - quote
+          - bulleted-list
+          - numbered-list
+        label: Text
         name: body
         required: false
         widget: markdown
@@ -247,12 +442,16 @@ collections:
     label_singular: dokument
     folder: content/dokument
     extension: md
-    editor: &ref_8
+    editor: &ref_9
       preview: false
-    fields: &ref_9
+    fields: &ref_10
       - label: Titulek
         name: title
         widget: string
+      - label: Uložit jako draft
+        name: draft
+        required: false
+        widget: boolean
       - label: Štítky
         name: tags
         required: false
@@ -275,7 +474,19 @@ collections:
           - label: Bulletin k monitorování práv lidí s postižením
             value: bulletin
         multiple: true
-      - label: Text
+      - editor_components:
+          - image
+        buttons:
+          - bold
+          - italic
+          - link
+          - heading-two
+          - heading-three
+          - heading-four
+          - quote
+          - bulleted-list
+          - numbered-list
+        label: Text
         name: body
         required: false
         widget: markdown
@@ -304,7 +515,7 @@ collections:
       - label: O kanceláři
         name: o-kancelari
         file: content/o-nas/_index.markdown
-        fields: &ref_10
+        fields: &ref_11
           - label: Titulek stránky
             name: title
             widget: string
@@ -312,11 +523,35 @@ collections:
             name: menuTitle
             required: false
             widget: string
-          - label: Perex
+          - editor_components:
+              - image
+            buttons:
+              - bold
+              - italic
+              - link
+              - heading-two
+              - heading-three
+              - heading-four
+              - quote
+              - bulleted-list
+              - numbered-list
+            label: Perex
             name: description
             required: false
             widget: markdown
-          - label: Text stránky
+          - editor_components:
+              - image
+            buttons:
+              - bold
+              - italic
+              - link
+              - heading-two
+              - heading-three
+              - heading-four
+              - quote
+              - bulleted-list
+              - numbered-list
+            label: Text stránky
             name: body
             required: false
             widget: markdown
@@ -338,7 +573,7 @@ collections:
       - label: Veřejný ochránce práv
         name: ombudsman
         file: content/o-nas/ombudsman/index.md
-        fields: &ref_11
+        fields: &ref_12
           - label: Název role
             name: title
             widget: string
@@ -354,7 +589,19 @@ collections:
             name: quote
             required: false
             widget: string
-          - label: Krátký životopis
+          - editor_components:
+              - image
+            buttons:
+              - bold
+              - italic
+              - link
+              - heading-two
+              - heading-three
+              - heading-four
+              - quote
+              - bulleted-list
+              - numbered-list
+            label: Krátký životopis
             name: bio
             required: false
             widget: markdown
@@ -376,7 +623,7 @@ collections:
       - label: Zástupce
         name: deputy
         file: content/o-nas/deputy/index.md
-        fields: &ref_12
+        fields: &ref_13
           - label: Název role
             name: title
             widget: string
@@ -392,7 +639,19 @@ collections:
             name: quote
             required: false
             widget: string
-          - label: Krátký životopis
+          - editor_components:
+              - image
+            buttons:
+              - bold
+              - italic
+              - link
+              - heading-two
+              - heading-three
+              - heading-four
+              - quote
+              - bulleted-list
+              - numbered-list
+            label: Krátký životopis
             name: bio
             required: false
             widget: markdown
@@ -414,7 +673,7 @@ collections:
       - label: Historie
         name: historie
         file: content/o-nas/historie/index.md
-        fields: &ref_13
+        fields: &ref_14
           - label: Titulek
             name: title
             widget: string
@@ -436,11 +695,23 @@ collections:
       - label: Předpisy
         name: predpisy
         file: content/o-nas/predpisy/index.md
-        fields: &ref_14
+        fields: &ref_15
           - label: Titulek
             name: title
             widget: string
-          - label: Text stránky
+          - editor_components:
+              - image
+            buttons:
+              - bold
+              - italic
+              - link
+              - heading-two
+              - heading-three
+              - heading-four
+              - quote
+              - bulleted-list
+              - numbered-list
+            label: Text stránky
             name: body
             required: false
             widget: markdown
@@ -450,12 +721,16 @@ collections:
     label_singular: Oblast
     folder: content/pusobnost
     extension: md
-    editor: &ref_15
+    editor: &ref_16
       preview: false
-    fields: &ref_16
+    fields: &ref_17
       - label: Název oblasti
         name: title
         widget: string
+      - label: Uložit jako draft
+        name: draft
+        required: false
+        widget: boolean
       - label: Barva hlavičky
         name: headerColor
         required: false
@@ -469,11 +744,35 @@ collections:
             value: orange
           - label: Žlutozelená
             value: yellow
-      - label: Perex
+      - editor_components:
+          - image
+        buttons:
+          - bold
+          - italic
+          - link
+          - heading-two
+          - heading-three
+          - heading-four
+          - quote
+          - bulleted-list
+          - numbered-list
+        label: Perex
         name: perex
         required: false
         widget: markdown
-      - label: Text
+      - editor_components:
+          - image
+        buttons:
+          - bold
+          - italic
+          - link
+          - heading-two
+          - heading-three
+          - heading-four
+          - quote
+          - bulleted-list
+          - numbered-list
+        label: Text
         name: body
         required: false
         widget: markdown
@@ -491,6 +790,7 @@ collections:
             hint: Výchozí odkaz směřuje na stránku podání stížnosti.
             widget: string
         collapsed: true
+    create: true
     path: '{{slug}}/index'
     media_folder: ''
     public_folder: ''
@@ -499,21 +799,57 @@ collections:
     label_singular: Problematika
     folder: content/potrebuji-pomoc
     extension: md
-    editor: &ref_17
+    editor: &ref_18
       preview: false
-    fields: &ref_18
+    fields: &ref_19
       - label: Titulek
         name: title
         widget: string
-      - label: Perex
+      - editor_components:
+          - image
+        buttons:
+          - bold
+          - italic
+          - link
+          - heading-two
+          - heading-three
+          - heading-four
+          - quote
+          - bulleted-list
+          - numbered-list
+        label: Perex
         name: perex
         required: false
         widget: markdown
-      - label: Popisek na homepage
+      - editor_components:
+          - image
+        buttons:
+          - bold
+          - italic
+          - link
+          - heading-two
+          - heading-three
+          - heading-four
+          - quote
+          - bulleted-list
+          - numbered-list
+        label: Popisek na homepage
         name: hp
         required: false
         widget: markdown
-      - label: Úvodní text
+      - editor_components:
+          - image
+        buttons:
+          - bold
+          - italic
+          - link
+          - heading-two
+          - heading-three
+          - heading-four
+          - quote
+          - bulleted-list
+          - numbered-list
+        label: Úvodní text
         name: body
         required: false
         widget: markdown
@@ -523,6 +859,18 @@ collections:
         label_singular: Situace
         widget: list
         field:
+          editor_components:
+            - image
+          buttons:
+            - bold
+            - italic
+            - link
+            - heading-two
+            - heading-three
+            - heading-four
+            - quote
+            - bulleted-list
+            - numbered-list
           label: Situace
           name: situation
           required: false
@@ -533,6 +881,18 @@ collections:
         label_singular: Situace
         widget: list
         field:
+          editor_components:
+            - image
+          buttons:
+            - bold
+            - italic
+            - link
+            - heading-two
+            - heading-three
+            - heading-four
+            - quote
+            - bulleted-list
+            - numbered-list
           label: Situace
           name: situation
           required: false
@@ -547,7 +907,19 @@ collections:
             name: name
             required: false
             widget: string
-          - label: Popis případu
+          - editor_components:
+              - image
+            buttons:
+              - bold
+              - italic
+              - link
+              - heading-two
+              - heading-three
+              - heading-four
+              - quote
+              - bulleted-list
+              - numbered-list
+            label: Popis případu
             name: desc
             required: false
             widget: markdown
@@ -568,12 +940,16 @@ collections:
     label_singular: leták
     folder: content/letaky
     extension: md
-    editor: &ref_19
+    editor: &ref_20
       preview: false
-    fields: &ref_20
+    fields: &ref_21
       - label: Název letáku
         name: title
         widget: string
+      - label: Uložit jako draft
+        name: draft
+        required: false
+        widget: boolean
       - label: Situace
         name: situace
         required: false
@@ -610,9 +986,9 @@ collections:
     label_singular: situace
     folder: content/situace
     extension: md
-    editor: &ref_21
+    editor: &ref_22
       preview: false
-    fields: &ref_22
+    fields: &ref_23
       - label: Název situace
         name: title
         widget: string
@@ -620,7 +996,19 @@ collections:
         name: questionTitle
         required: false
         widget: string
-      - label: Perex
+      - editor_components:
+          - image
+        buttons:
+          - bold
+          - italic
+          - link
+          - heading-two
+          - heading-three
+          - heading-four
+          - quote
+          - bulleted-list
+          - numbered-list
+        label: Perex
         name: perex
         required: false
         widget: markdown
@@ -635,9 +1023,9 @@ collections:
     label_singular: provozní info
     folder: content/provoz
     extension: md
-    editor: &ref_23
+    editor: &ref_24
       preview: false
-    fields: &ref_24
+    fields: &ref_25
       - label: Titulek
         name: title
         widget: string
@@ -659,7 +1047,19 @@ collections:
             name: text
             required: false
             widget: string
-      - label: Text
+      - editor_components:
+          - image
+        buttons:
+          - bold
+          - italic
+          - link
+          - heading-two
+          - heading-three
+          - heading-four
+          - quote
+          - bulleted-list
+          - numbered-list
+        label: Text
         name: body
         required: false
         widget: markdown
@@ -686,12 +1086,16 @@ collections:
     label_singular: infostránka
     folder: content/info
     extension: md
-    editor: &ref_25
+    editor: &ref_26
       preview: false
-    fields: &ref_26
+    fields: &ref_27
       - label: Titulek
         name: title
         widget: string
+      - label: Uložit jako draft
+        name: draft
+        required: false
+        widget: boolean
       - label: Odkazy
         name: links
         required: false
@@ -706,7 +1110,19 @@ collections:
             name: text
             required: false
             widget: string
-      - label: Text
+      - editor_components:
+          - image
+        buttons:
+          - bold
+          - italic
+          - link
+          - heading-two
+          - heading-three
+          - heading-four
+          - quote
+          - bulleted-list
+          - numbered-list
+        label: Text
         name: body
         required: false
         widget: markdown
@@ -733,12 +1149,16 @@ collections:
     label_singular: projekt
     folder: content/projekty
     extension: md
-    editor: &ref_27
+    editor: &ref_28
       preview: false
-    fields: &ref_28
+    fields: &ref_29
       - label: Název projektu
         name: title
         widget: string
+      - label: Uložit jako draft
+        name: draft
+        required: false
+        widget: boolean
       - label: Řetezec v adrese
         name: slug
         required: false
@@ -747,11 +1167,35 @@ collections:
         name: ongoing
         required: false
         widget: boolean
-      - label: Popis projektu
+      - editor_components:
+          - image
+        buttons:
+          - bold
+          - italic
+          - link
+          - heading-two
+          - heading-three
+          - heading-four
+          - quote
+          - bulleted-list
+          - numbered-list
+        label: Popis projektu
         name: body
         required: false
         widget: markdown
-      - label: Dodatečný text pod aktualitami k projektu
+      - editor_components:
+          - image
+        buttons:
+          - bold
+          - italic
+          - link
+          - heading-two
+          - heading-three
+          - heading-four
+          - quote
+          - bulleted-list
+          - numbered-list
+        label: Dodatečný text pod aktualitami k projektu
         name: bonus
         required: false
         widget: markdown
@@ -835,13 +1279,17 @@ collections:
         file: content-en/pristupnost/snadne-cteni/index.md
         fields: *ref_5
         media_folder: ''
+      - label: Newsletter
+        name: newsletter
+        file: content-en/newsletter.md
+        fields: *ref_6
   - name: aktualne-en
     label: Aktuality (EN)
     label_singular: aktualita (en)
     folder: content-en/aktualne
     extension: md
-    editor: *ref_6
-    fields: *ref_7
+    editor: *ref_7
+    fields: *ref_8
     create: true
     path: '{{slug}}/index'
     media_folder: ''
@@ -851,8 +1299,8 @@ collections:
     label_singular: dokument (en)
     folder: content-en/dokument
     extension: md
-    editor: *ref_8
-    fields: *ref_9
+    editor: *ref_9
+    fields: *ref_10
     create: true
     path: '{{slug}}/index'
     media_folder: ''
@@ -863,35 +1311,36 @@ collections:
       - label: O kanceláři
         name: o-kancelari
         file: content-en/o-nas/_index.markdown
-        fields: *ref_10
+        fields: *ref_11
         media_folder: ''
       - label: Veřejný ochránce práv
         name: ombudsman
         file: content-en/o-nas/ombudsman/index.md
-        fields: *ref_11
+        fields: *ref_12
         media_folder: ''
       - label: Zástupce
         name: deputy
         file: content-en/o-nas/deputy/index.md
-        fields: *ref_12
+        fields: *ref_13
         media_folder: ''
       - label: Historie
         name: historie
         file: content-en/o-nas/historie/index.md
-        fields: *ref_13
+        fields: *ref_14
         media_folder: ''
       - label: Předpisy
         name: predpisy
         file: content-en/o-nas/predpisy/index.md
-        fields: *ref_14
+        fields: *ref_15
         media_folder: ''
   - name: pusobnost-en
     label: Působnost (EN)
     label_singular: Oblast (en)
     folder: content-en/pusobnost
     extension: md
-    editor: *ref_15
-    fields: *ref_16
+    editor: *ref_16
+    fields: *ref_17
+    create: true
     path: '{{slug}}/index'
     media_folder: ''
     public_folder: ''
@@ -900,8 +1349,8 @@ collections:
     label_singular: Problematika (en)
     folder: content-en/potrebuji-pomoc
     extension: md
-    editor: *ref_17
-    fields: *ref_18
+    editor: *ref_18
+    fields: *ref_19
     path: '{{slug}}/index'
     media_folder: ''
     public_folder: ''
@@ -910,8 +1359,8 @@ collections:
     label_singular: leták (en)
     folder: content-en/letaky
     extension: md
-    editor: *ref_19
-    fields: *ref_20
+    editor: *ref_20
+    fields: *ref_21
     create: true
     path: '{{slug}}/index'
     media_folder: ''
@@ -921,8 +1370,8 @@ collections:
     label_singular: situace (en)
     folder: content-en/situace
     extension: md
-    editor: *ref_21
-    fields: *ref_22
+    editor: *ref_22
+    fields: *ref_23
     create: true
     path: '{{slug}}/_index'
   - name: provoz-en
@@ -930,8 +1379,8 @@ collections:
     label_singular: provozní info (en)
     folder: content-en/provoz
     extension: md
-    editor: *ref_23
-    fields: *ref_24
+    editor: *ref_24
+    fields: *ref_25
     create: true
     path: '{{slug}}/index'
     media_folder: ''
@@ -941,8 +1390,8 @@ collections:
     label_singular: infostránka (en)
     folder: content-en/info
     extension: md
-    editor: *ref_25
-    fields: *ref_26
+    editor: *ref_26
+    fields: *ref_27
     create: true
     path: '{{slug}}/index'
     media_folder: ''
@@ -952,8 +1401,8 @@ collections:
     label_singular: projekt (en)
     folder: content-en/projekty
     extension: md
-    editor: *ref_27
-    fields: *ref_28
+    editor: *ref_28
+    fields: *ref_29
     create: true
     path: '{{slug}}/index'
     media_folder: ''

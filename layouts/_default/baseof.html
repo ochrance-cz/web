@@ -2,6 +2,7 @@
 <html>
 
 <head>
+  <title>{{ block "title" . }}{{ .Title }}{{ end }}</title>
   {{ partial "meta.html" . }}
 
   {{ $css := resources.Get "style/style.scss" | toCSS | minify | fingerprint }}

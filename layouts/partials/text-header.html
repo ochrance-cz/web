@@ -9,7 +9,7 @@
         {{ partial "date.html" (dict "date" . "months" $.Site.Data.months) }}
       </p>
     {{ end }}
-    <h1>{{ .Title }}</h1>
+    <h1>{{ block "title" . }}{{ .Title }}{{ end }}</h1>
     <div class="perex {{ with .Params.descriptionInfoIcon }}icon-info{{ end }}">
       {{ with .Params.description }}
         {{ partial "md-block.html" . }}

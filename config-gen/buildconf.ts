@@ -97,6 +97,15 @@ export const text = (
 
 interface MarkdownWidget extends BaseWidget {
   widget: "markdown";
+  minimal?: boolean;
+  buttons?: string[];
+  editor_components?: string[];
+}
+
+interface MarkdownOptions extends Options {
+  minimal?: boolean;
+  buttons?: string[];
+  editor_components?: string[];
 }
 
 export const markdown = (
@@ -104,7 +113,22 @@ export const markdown = (
   name: string,
   options?: Options
 ): MarkdownWidget => {
-  const w = { ...base(name, label, options), widget: "markdown" as const };
+  const w = {
+    editor_components: ["image"],
+    buttons: [
+      "bold",
+      "italic",
+      "link",
+      "heading-two",
+      "heading-three",
+      "heading-four",
+      "quote",
+      "bulleted-list",
+      "numbered-list",
+    ],
+    ...base(name, label, options),
+    widget: "markdown" as const,
+  };
 
   return w;
 };

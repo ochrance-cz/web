@@ -87,7 +87,6 @@ const stranky = files("Stránky", "stranky", [
     string("Mezititulek: potřebuji pomoc", "situationsTitle"),
     string("Mezititulek: činnost", "cinnostTitle"),
     markdown("Info o přístupnosti", "accessibility"),
-    markdown("Souhlas u newsletteru", "consent"),
   ]),
   fileCollection("Varování", "varovani", "content/alert/_index.markdown", [
     title("Titulek"),
@@ -155,6 +154,11 @@ const stranky = files("Stránky", "stranky", [
       media_folder: "",
     }
   ),
+  fileCollection("Newsletter", "newsletter", "content/newsletter.md", [
+    title("Titulek"),
+    boolean("Uložit jako draft", "draft"),
+    markdown("Souhlas u newsletteru", "consent"),
+  ]),
 ]);
 
 const onas = files("O nás", "onas", [
@@ -251,6 +255,7 @@ const dokument = folderCollection(
   },
   [
     title("Titulek"),
+    boolean("Uložit jako draft", "draft"),
     select("Štítky", "tags", tags, { multiple: true }),
     markdown("Text", "body"),
     list("Přílohy", "Příloha", "attachments", [
@@ -315,11 +320,13 @@ const pusobnost = folderCollection(
     folder: "content/pusobnost",
     path: "{{slug}}/index",
     extension: "md",
+    create: true,
     media_folder: "",
     public_folder: "",
   },
   [
     title("Název oblasti"),
+    boolean("Uložit jako draft", "draft"),
     select("Barva hlavičky", "headerColor", headerColors),
     markdown("Perex", "perex"),
     markdown("Text", "body"),
@@ -341,6 +348,7 @@ const info = folderCollection(
   },
   [
     title("Titulek"),
+    boolean("Uložit jako draft", "draft"),
     links("Odkazy"),
     markdown("Text", "body"),
     links("Odkazy pod hlavním textem", "linksAfter"),
@@ -382,6 +390,7 @@ const aktualne = folderCollection(
   },
   [
     title("Titulek"),
+    boolean("Uložit jako draft", "draft"),
     datetime("Datum", "date", { time_format: false }),
     markdown("Perex", "perex"),
     markdown("Text", "body"),
@@ -420,6 +429,7 @@ const letaky = folderCollection(
   },
   [
     title("Název letáku"),
+    boolean("Uložit jako draft", "draft"),
     relation("Situace", "situace", {
       collection: "situace",
       value_field: "slug",
@@ -448,6 +458,7 @@ const projekty = folderCollection(
   },
   [
     title("Název projektu"),
+    boolean("Uložit jako draft", "draft"),
     string("Řetezec v adrese", "slug"),
     boolean("Probíhající projekt", "ongoing"),
     markdown("Popis projektu", "body"),
