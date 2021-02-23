@@ -1,5 +1,6 @@
 ---
 title: Povinně zveřejňované informace
+draft: true
 ---
 
 ## Název
