@@ -1,5 +1,6 @@
 ---
 title: Pronájem prostor
+draft: true
 ---
 
 ## Velký sál
