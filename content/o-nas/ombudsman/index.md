@@ -4,7 +4,7 @@ name: JUDr. Stanislav Křeček
 pic: krecek-vyrez2.jpg
 order: 1
 footerPic: /images/kontakt.jpg
-quote: „Na tomto místě bude osobní citace veřejného ochránce práv.“
+quote: „Právo je tu proto, aby mocní nemohli vše.“
 bio: >-
   Funkční období od 19. února 2020
 
