@@ -1,5 +1,6 @@
 ---
 title: Poskytování informací (zákon 106/1999 Sb.)
+draft: true
 links:
   - text: Databáze poskytnutých informací
     link: /info106/
