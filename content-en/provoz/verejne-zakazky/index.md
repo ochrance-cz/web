@@ -1,5 +1,6 @@
 ---
 title: Veřejné zakázky
+draft: true
 links:
   - text: Profil zadavatele
     link: https://www.vhodne-uverejneni.cz/profil/70836981
