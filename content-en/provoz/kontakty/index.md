@@ -10,7 +10,6 @@ sections:
 
       **Sekretariát**
       Telefon: (+420) 542 542 555
-
   - title: Sekce právní
     intro: |
       **Jana Gregorová**
@@ -22,28 +21,25 @@ sections:
       **Sekretariát:**
       Michaela Nováková, tel: 542 542 238
       Hana Suská, tel: 542 542 380
-
   - title: Odbor vnitřní správy
     intro: |
       **Ing. Josef Svoboda**
       vedoucí odboru vnitřní správy 
       Tel: 542 542 444
-
   - title: Odbor administrativních a spisových služeb
     intro: |
       **Mgr. Bc. Libuše Kuncová**
       vedoucí odboru
       Tel: 542 542 224
-
   - title: Odbor péče o zaměstnance
     intro: |
       **Mgr. Gabriela Lžičařová**
       vedoucí odboru
       Tel: 542 542 347
-
 lawyers:
   - title: Odbor stavebního řádu a životního prostředí
-    intro: činnost stavebních úřadů, územní plánování, ochrana životního prostřední, hluk, památková péče, myslivost, pohřebnictví apod.
+    intro: činnost stavebních úřadů, územní plánování, ochrana životního prostřední,
+      hluk, památková péče, myslivost, pohřebnictví apod.
     people:
       - name: Pavel Půček
         role: vedoucí odboru
@@ -98,11 +94,18 @@ lawyers:
         phone: 542 542 282
         email: jitka.vecerova@ochrance.cz
   - title: Odbor veřejného pořádku a místní správy
-    intro: |
-      matriky, evidence obyvatel, občanské a cestovní průkazy, státní občanství, Policie ČR mimo trestní řízení, dopravně správní agenda – řidičská oprávnění aj., přestupky, dozor státu nad samosprávou, pozemní komunikace, katastr nemovitostí, ochrana osobních údajů, svobodný přístup k informacím, ochrana spotřebitele (ČOI, ČTÚ, ERÚ, ČNB, SEI), Úřad pro ochranu hospodářské soutěže, Český statistický úřad, Rada pro rozhlasové a televizní vysílání apod.
+    intro: >
+      matriky, evidence obyvatel, občanské a cestovní průkazy, státní občanství,
+      Policie ČR mimo trestní řízení, dopravně správní agenda – řidičská
+      oprávnění aj., přestupky, dozor státu nad samosprávou, pozemní komunikace,
+      katastr nemovitostí, ochrana osobních údajů, svobodný přístup k
+      informacím, ochrana spotřebitele (ČOI, ČTÚ, ERÚ, ČNB, SEI), Úřad pro
+      ochranu hospodářské soutěže, Český statistický úřad, Rada pro rozhlasové a
+      televizní vysílání apod.
     people:
       - name: Veronika Gabrišová
-        role: vedoucí odboru (ochrana osobních údajů, právo na informace, služební poměry)
+        role: vedoucí odboru (ochrana osobních údajů, právo na informace, služební
+          poměry)
         phone: 542 542 311
         email: veronika.gabrisova@ochrance.cz
       - name: Jiří Barč
@@ -130,7 +133,8 @@ lawyers:
         phone: 542 542 386
         email: jakub.martinec@ochrance.cz
       - name: Tereza Němcová Čáslavská
-        role: právnička (ochrana spotřebitele, správa na úseku podnikání, dohled nad exekuční činností)
+        role: právnička (ochrana spotřebitele, správa na úseku podnikání, dohled nad
+          exekuční činností)
         phone: 542 542 325
         email: tereza.nemcova-caslavska@ochrance.cz
       - name: Anna Štěpánková
@@ -146,7 +150,9 @@ lawyers:
         phone: 542 542 324
         email: david.vavra@ochrance.cz
   - title: Odbor sociálního zabezpečení
-    intro: dávky pomoci v hmotné nouzi, příspěvek na péči, dávky pro zdravotně postižené, důchody, dávky nemocenského pojištění, dávky státní sociální podpory apod.
+    intro: dávky pomoci v hmotné nouzi, příspěvek na péči, dávky pro zdravotně
+      postižené, důchody, dávky nemocenského pojištění, dávky státní sociální
+      podpory apod.
     people:
       - name: Jiří Hrubý
         role: vedoucí odboru
@@ -193,15 +199,20 @@ lawyers:
         phone: 542 542 369
         email: katerina.pavlickova@ochrance.cz
       - name: Ivana Rejzková
-        role: právnička (dávky pomoci v hmotné nouzi, dávky pro osoby se zdravotním postižením, dávky státní sociální podpory)
+        role: právnička (dávky pomoci v hmotné nouzi, dávky pro osoby se zdravotním
+          postižením, dávky státní sociální podpory)
         phone: 542 542 387
         email: ivana.rejzkova@ochrance.cz
       - name: Zuzana Ščuková
-        role: právnička (dávky pomoci v hmotné nouzi, dávky pro osoby se zdravotním postižením)
+        role: právnička (dávky pomoci v hmotné nouzi, dávky pro osoby se zdravotním
+          postižením)
         phone: 542 542 341
         email: zuzana.scukova@ochrance.cz
   - title: Odbor justice, migrace a financí
-    intro: daně, cla, správní a místní poplatky, cizinecké záležitosti (víza, dlouhodobý pobyt, azyl, vyhoštění aj.), státní správa soudnictví (průtahy v řízení, nevhodné chování soudních osob, správa znalecké a tlumočnické agendy, dohled Ministerstva spravedlnosti).
+    intro: daně, cla, správní a místní poplatky, cizinecké záležitosti (víza,
+      dlouhodobý pobyt, azyl, vyhoštění aj.), státní správa soudnictví (průtahy
+      v řízení, nevhodné chování soudních osob, správa znalecké a tlumočnické
+      agendy, dohled Ministerstva spravedlnosti).
     people:
       - name: Petra Janoušková
         role: vedoucí odboru
@@ -248,14 +259,17 @@ lawyers:
         phone: 542 542 229
         email: veronika.vichova@ochrance.cz
   - title: Odbor rodiny, zdravotnictví a práce
-    intro: veřejné zdravotní pojištění, stížnosti ve zdravotnictví, činnost OSPOD, ústavní výchova, evidence uchazečů o zaměstnání u Úřadu práce, inspekce práce apod.
+    intro: veřejné zdravotní pojištění, stížnosti ve zdravotnictví, činnost OSPOD,
+      ústavní výchova, evidence uchazečů o zaměstnání u Úřadu práce, inspekce
+      práce apod.
     people:
       - name: Petra Šuplerová
         role: vedoucí odboru
         phone: 542 542 389
         email: petra.suplerova@ochrance.cz
       - name: Eva Hilšerová
-        role: právnička (zaměstnanost a inspekce práce, sociálně-právní ochrana dětí, pěstounská péče)
+        role: právnička (zaměstnanost a inspekce práce, sociálně-právní ochrana dětí,
+          pěstounská péče)
         phone: 542 542 344
         email: eva.hilserova@ochrance.cz
       - name: Klára Ille
@@ -315,8 +329,12 @@ lawyers:
         phone: 542 542 372
         email: alice.zizlavska@ochrance.cz
   - title: Odbor rovného zacházení
-    intro: |
-      poskytování metodické pomoci obětem diskriminace, provádění výzkumu v oblasti rovného zacházení, vydávání doporučení a stanovisek k projevům diskriminace, státní správa na úseku školství (předškolní, základní, střední, vyšší odborné a vysokoškolské vzdělávání, postup České školní inspekce a Ministerstva školství, mládeže a tělovýchovy)
+    intro: >
+      poskytování metodické pomoci obětem diskriminace, provádění výzkumu v
+      oblasti rovného zacházení, vydávání doporučení a stanovisek k projevům
+      diskriminace, státní správa na úseku školství (předškolní, základní,
+      střední, vyšší odborné a vysokoškolské vzdělávání, postup České školní
+      inspekce a Ministerstva školství, mládeže a tělovýchovy)
     people:
       - name: Veronika Bazalová
         role: vedoucí odboru
@@ -379,8 +397,11 @@ lawyers:
         phone: 542 542 227
         email: jana.vomelova@ochrance.cz
   - title: Odbor dohledu nad omezováním osobní svobody
-    intro: |
-      provádění systematických preventivních návštěv v zařízení, kde se mohou nacházet osoby omezené na svobodě s cílem zajistit ochranu před špatným zacházením, šetření stížností na činnost Vězeňské služby ČR, ochranné léčení
+    intro: >
+      provádění systematických preventivních návštěv v zařízení, kde se mohou
+      nacházet osoby omezené na svobodě s cílem zajistit ochranu před špatným
+      zacházením, šetření stížností na činnost Vězeňské služby ČR, ochranné
+      léčení
     people:
       - name: Ondřej Vala
         role: vedoucí odboru
@@ -511,4 +532,5 @@ lawyers:
         role: výzkumná pracovnice
         phone: 542 542 265
         email: lucie.novotna@ochrance.cz
+draft: true
 ---
