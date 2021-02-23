@@ -1,9 +1,9 @@
 ---
 title: "Legal regulations "
 ---
+
 ## Act on the Public Defender of Rights
 
-\
 Act 349/1999 Coll. of 8th December 1999 on the Public Defender of Rights
 
 Amended by: 265/2001 Coll.
@@ -32,11 +32,7 @@ Amended by: 396/2012 Coll.
 
 Amendment: 198/2017 Coll., 365/2017 Coll.
 
- 
-
 The Parliament has adopted the following Act of the Czech Republic:
-
-
 
 ### PART ONE
 
@@ -60,17 +56,17 @@ c) places where persons restricted in their freedom are or may be confined as a
 
 (hereinafter a “facility”).
 
-(5) The Defender shall act within his or her competence in matters concerning the right to equal treatment and protection against discrimination.1)
+(5) The Defender shall act within his or her competence in matters concerning the right to equal treatment and protection against discrimination.[^1]
 
 (6) The Defender shall monitor detention of foreign nationals and the enforcement of administrative expulsion, transfer or transit of detained foreign nationals and of the punishment of expulsion imposed on foreign nationals placed in expulsion  custody or serving prison sentences (hereinafter “expulsion monitoring”).
 
-(7) The Defender shall monitor the implementation of the international treaty on the rights of persons with disabilities.6)
+(7) The Defender shall monitor the implementation of the international treaty on the rights of persons with disabilities.[^6]
 
-(8) The Defender shall perform competence in matters related to the freedom of movement of citizens of the European Union and the European Economic Area and their family members9) (hereinafter “citizens of the European Union”) within the scope pursuant to Section 21d.10)
+(8) The Defender shall perform competence in matters related to the freedom of movement of citizens of the European Union and the European Economic Area and their family members[^9] (hereinafter “citizens of the European Union”) within the scope pursuant to Section 21d.[^10]
 
 (9) The competence of the Defender does not apply to the Parliament, the President of the Republic and the Government, the Supreme Audit Office, the intelligence services of the Czech Republic, prosecuting bodies, public prosecutors and courts, with the exception of the public prosecutor’s administrative bodies and the State administration of courts.
 
-(10) The Defender is authorised to initiate proceedings pursuant to the Act on Proceedings in Matters of Judges and Public Prosecutors1a) and participate in the proceedings.
+(10) The Defender is authorised to initiate proceedings pursuant to the Act on Proceedings in Matters of Judges and Public Prosecutors[^1a] and participate in the proceedings.
 
 (11) The Defender is not authorised to interfere with the activities and decisions made by authorities and facilities in any manner other than as stipulated in this Act.
 
@@ -84,8 +80,6 @@ c) places where persons restricted in their freedom are or may be confined as a
 
 (4) The Deputy Defender shall represent the Defender in full during periods of the Defender’s absence. The Defender may delegate part of his or her competence to the Deputy. Unless stipulated otherwise in this Act, the provisions of this Act concerning the Defender apply analogously to the election, loss of office, removal from office and the legal status of the Deputy Defender.
 
- 
-
 ##### Section 3
 
 (1) The office of Defender is incompatible with the office of the President of the Republic, member of the Chamber of Deputies or the Senate, and judge, as well as with any role in public administration.
@@ -96,8 +90,6 @@ c) places where persons restricted in their freedom are or may be confined as a
 
 (4) If subject to compulsory military conscription, the Defender shall not be called up for active service or the active service will be suspended during the term of his or her office; military exercise periods thus missed shall be waived.
 
- 
-
 ##### Section 4 
 
 (1) The Defender shall assume the office by taking an oath before the Speaker of the Chamber of Deputies, but not before the date following the date of expiry of the term in office of the previous Defender; the former Defender shall exercise the competence of the Defender until the new Defender takes the oath.
@@ -106,15 +98,11 @@ c) places where persons restricted in their freedom are or may be confined as a
 
 (3) If the Defender fails to take the oath within 10 days of election or if the Defender takes the oath with a reservation, he or she shall be deemed not to have been elected.
 
- 
-
 ##### Section 5
 
 (1) The Defender shall discharge his or her office independently and impartially.
 
 (2) The Defender is accountable to the Chamber of Deputies.
-
- 
 
 ##### Section 6 
 
@@ -142,8 +130,6 @@ e) the Defender’s written declaration of resignation from the office was de
 
 (7) If the Defender is not elected within the period pursuant to paragraph 5 or 6 above, a new election shall take place within 60 days.
 
- 
-
 ##### Section 7
 
 (1) The Defender may not be criminally prosecuted without the consent of the Chamber of Deputies. If the Chamber of Deputies denies consent, criminal prosecution of the Defender shall be impossible during the term of exercise of the Defender’s competence.
@@ -154,15 +140,11 @@ e) the Defender’s written declaration of resignation from the office was de
 
 (4) Governmental bodies, including the prosecuting bodies, may inspect the Defender’s files or remove such files only on the basis of a law and with the consent of the Defender or, if the Defender denies consent, with the consent of the Speaker of the Chamber of Deputies.
 
- 
-
 ##### Section 8
 
 (1) The office of the Defender is a public office.
 
-(2) The Defender is entitled to a pay, severance pay, reimbursement of expenses and benefits in kind equal to that of the President of the Supreme Audit Office. The Deputy Defender is entitled to a pay, severance pay, reimbursement of expenses and benefits in kind equal to that of the Vice-President of the Supreme Audit Office. 
-
-
+(2) The Defender is entitled to a pay, severance pay, reimbursement of expenses and benefits in kind equal to that of the President of the Supreme Audit Office. The Deputy Defender is entitled to a pay, severance pay, reimbursement of expenses and benefits in kind equal to that of the Vice-President of the Supreme Audit Office.
 
 ### PART TWO
 
@@ -172,7 +154,7 @@ e) the Defender’s written declaration of resignation from the office was de
 
 The Defender shall act
 
-a) on the basis of a complaint lodged by a natural or legal person (hereinafter a “complaint”) addressed to him or her; 
+a) on the basis of a complaint lodged by a natural or legal person (hereinafter a “complaint”) addressed to him or her;
 
 b) on the basis of a complaint addressed to a member of the Chamber of Deputies or the Senate, who has passed the said complaint on to the Defender;
 
@@ -188,8 +170,6 @@ d) on his or her own initiative.
 
 (3) A complaint is not subject to a fee.
 
- 
-
 ##### Section 11 
 
 (1) A complaint must contain
@@ -203,8 +183,6 @@ c) a proof that the authority to which the complaint pertains has been unsucc
 d) the name, surname and domicile (or, for a legal person, the name, seat/registered office and persons authorised to act on its behalf) of the party lodging the complaint (hereinafter the “complainant”).
 
 (2) Where a complaint concerns a decision, the complainant shall submit a copy of the decision.
-
- 
 
 ##### Section 12
 
@@ -224,19 +202,13 @@ e) if the complaint is filed in a case that has already been inquired into by
 
 (3) The Defender shall advise the complainant in writing that the complaint has been set aside and state the reasons.
 
- 
-
 ##### Section 13
 
 Where, in view of its content, a complaint represents a remedy pursuant to regulations on proceedings in administrative or judicial matters, a lawsuit or remedy in administrative justice, or a constitutional complaint, the Defender shall inform the complainant accordingly without delay and provide instructions to the complainant as to the correct procedure.
 
- 
-
 ##### Section 14
 
 If the Defender does not set the complaint aside (Section 12) or does not proceed according to Section 13, the Defender shall initiate an inquiry and the complainant shall be informed in writing accordingly.
-
- 
 
 ##### Section 15
 
@@ -264,13 +236,9 @@ e) perform such supervisory actions to which they are authorised by law and whi
 
 (4) For the purposes of inquiry pursuant to the previous paragraphs, a person authorised to this effect pursuant to a special law shall release individual employees of an authority, at the Defender’s request, from the duty to maintain confidentiality that has been imposed on them by a special law. Where no special law identifies the person authorised to release the above from the duty to maintain confidentiality, for the purposes hereof the head of the relevant authority shall be deemed to be such a person with respect to any employee of that authority, the head of the superior authority, or if there is no such authority, the Prime Minister, shall be deemed such with respect to the head of a subordinate authority. For the purposes of an inquiry under this Act, the Defender cannot be required to comply with a confidentiality obligation based on a contract.
 
- 
-
 ##### Section 16 
 
 All governmental bodies and persons exercising public administration are obliged, within the scope of their competence, to provide any assistance requested by the Defender in the performance of the Defender’s inquiry.
-
- 
 
 ##### Section 16a
 
@@ -366,21 +334,15 @@ e) place and district of birth, or in the case of a natural person born abroa
 
 (7) In each specific case, only the data necessary for carrying out a given task may be taken from the accessible records.
 
- 
-
 ##### Section 17
 
 If the Defender does not ascertain any breach of legal regulations or any other maladministration (Section 1 (1)) in the course of his or her inquiry, the Defender shall inform the complainant and the authority in writing accordingly.
-
- 
 
 ##### Section 18
 
 (1) If the Defender ascertains a breach of legal regulations or any other maladministration (Section 1 (1)) in the course of his or her inquiry, he or she shall request the authority to provide a statement on the Defender’s findings within 30 days.
 
 (2) If the authority states at the request pursuant to paragraph 1 above that it has implemented or is in the process of implementing remedial measures, and the Defender finds these measures to be sufficient, the Defender shall inform the complainant and the authority accordingly. Otherwise, following receipt of the statement or expiry of the deadline to no effect, the Defender shall inform the complainant and the authority in writing of the Defender’s final statement; the latter shall include a suggested remedy.
-
- 
 
 ##### Section 19 
 
@@ -396,8 +358,6 @@ d) initiating prosecution for a criminal offence, infraction or some other adm
 
 e) provision of indemnification or filing a claim for indemnification.
 
- 
-
 ##### Section 20
 
 (1) The authority shall inform the Defender within 30 days of receipt of the final statement of the remedial measures that have been adopted.
@@ -410,13 +370,9 @@ b) may inform the public of his or her findings, including disclosure of the 
 
 (3) The Defender may also proceed in the manner set forth in paragraph 2 above if the authority fails to comply with a duty arising from Sections 15 and 16.
 
- 
-
 ##### Section 21 
 
 If the Defender acts on his or her own initiative, Sections 15 to 20 apply analogously.
-
- 
 
 ##### Section 21a
 
@@ -429,8 +385,6 @@ If the Defender acts on his or her own initiative, Sections 15 to 20 apply an
 (4) The Defender shall request the facility to respond to the Defender’s report, recommendations or suggestions for remedial measures within the deadline set by the Defender. The Defender may also request that the founder of the facility or the competent authorities issue a statement. If the Defender finds their statement satisfactory, the Defender will inform the facility or its founder, or the competent authorities accordingly. Otherwise, following receipt of the statement or expiry of the deadline to no effect, the Defender may proceed pursuant to Section 20 (2) analogously.
 
 (5) In case of failure to comply with the co-operation duty pursuant to Sections 15 and 16, the Defender may proceed pursuant to Section 20 (2).
-
- 
 
 ##### Section 21b
 
@@ -460,11 +414,9 @@ d) provide for exchange of the available information with the relevant foreign
 
 (3) In case of failure to comply with the co-operation duty pursuant to Sections 15 and 16, the Defender may inform the public of this fact, including specification of the names and surnames of the persons authorised to act on behalf of the obliged body.
 
- 
-
 ##### Section 21d
 
-(1) With a view to facilitating the freedom of movement of citizens of the European Union in conformity with the directly applicable regulation of the European Union in the area of the freedom of movement for workers,11) the Defender shall
+(1) With a view to facilitating the freedom of movement of citizens of the European Union in conformity with the directly applicable regulation of the European Union in the area of the freedom of movement for workers,[^11] the Defender shall
 
 a) provide methodological assistance to victims of discrimination in lodging their applications to initiate proceedings concerning discrimination;
 
@@ -476,20 +428,17 @@ d) publish up-to-date information on the rights of citizens of the European Un
 
 e) provide for exchange of the available information with the relevant national, foreign and international entities.
 
-(2) The Defender shall also perform the tasks under paragraph 1 above in matters of the freedom of movement of citizens of the European Union that are not subject to the applicable regulation of the European Union in the area of the freedom of movement for workers.11)
+(2) The Defender shall also perform the tasks under paragraph 1 above in matters of the freedom of movement of citizens of the European Union that are not subject to the applicable regulation of the European Union in the area of the freedom of movement for workers.[^11]
 
 (3) Sections 15 and 16 shall apply mutatis mutandis within the performance of the tasks under paragraph 1 above.
 
 (4) In case of failure to comply with the co-operation duty, the Defender may proceed analogously pursuant to Section 20 (2)(b).
-
-
 
 ### PART THREE
 
 #### SPECIAL POWERS AND DUTIES OF THE DEFENDER
 
 \
-<!--StartFragment-->
 
 ##### Section 22
 
@@ -499,15 +448,11 @@ e) provide for exchange of the available information with the relevant nationa
 
 (3) The Defender may nominate lay judges for registration in the list of lay judges in proceedings concerning judicial distrainers pursuant to a special legal regulation.
 
- 
-
 ##### Section 23
 
 (1) By 31 March each year, the Defender shall submit to the Chamber of Deputies a written annual report on the Defender’s activities during the past year; the report shall be a parliamentary publication. The Defender shall simultaneously send the report to the Senate, the President of the Republic, the Government, and ministries and other administrative authorities having competence over the entire territory of the State and the Defender shall publish the report in a suitable manner.
 
 (2) The Defender shall systematically inform the public of his or her activities under this Act and of any findings resulting from his or her activities. The Defender shall publish in a suitable manner reports on visits to facilities and reports on monitoring of expulsions, including statements received, and selected reports on completed inquiries in individual matters; Section 20 (2) (b) shall apply analogously.
-
- 
 
 ##### Section 24 
 
@@ -522,8 +467,6 @@ c) recommendations pursuant to Section 22 hereof as regards legal regulations.
 (2) The Chamber of Deputies shall discuss the reports and information submitted by the Defender.
 
 (3) The Defender is authorised to participate in meetings of the Chamber of Deputies and its bodies pertaining to matters concerning the Defender’s competence, even if the meeting or part thereof has been declared closed to the public. The Defender shall be given the floor if he or she so requests.
-
-
 
 ### PART FOUR
 
@@ -541,25 +484,19 @@ c) recommendations pursuant to Section 22 hereof as regards legal regulations.
 
 (5) A citizen who meets the requirement of integrity and good conduct and who has completed university education in a master’s study programme in law and has carried out preparatory practice in the Office for at least 12 months may be appointed as an assistant. The integrity and good conduct requirement is deemed to not have been met by a person who has been convicted of a criminal offence  even if he or she is considered not to have been convicted.
 
-(6) The Defender may authorise assistants and other employees of the Office to perform inquiries in cases pursuant to Sections 15, 16 and 21a (1). However, only assistants may act on behalf of the Defender in proceedings before a court or Constitutional Court.4)
-
- 
+(6) The Defender may authorise assistants and other employees of the Office to perform inquiries in cases pursuant to Sections 15, 16 and 21a (1). However, only assistants may act on behalf of the Defender in proceedings before a court or Constitutional Court.[^4]
 
 ##### Section 25a
 
-(1) For the performance of the tasks pursuant to Section 21c, the Defender shall establish an advisory body for the co-operation in monitoring of the performance of an international treaty on the rights of persons with disabilities.6)
+(1) For the performance of the tasks pursuant to Section 21c, the Defender shall establish an advisory body for the co-operation in monitoring of the performance of an international treaty on the rights of persons with disabilities.[^6]
 
 (2) The advisory body shall be composed of persons with disabilities and persons defending their rights and interests. The members of the advisory body shall be appointed by the Defender based on consultation with organisations of persons with disabilities.
 
 (3) The details of organisation and the tasks of the advisory body shall be defined in the Statute to be issued by the Defender.
 
- 
-
 ##### Section 26 
 
 Costs related to the activities of the Defender and his or her Office will be covered under a separate chapter in the State budget.
-
- 
 
 ##### Section 27 
 
@@ -567,15 +504,11 @@ Costs related to the activities of the Defender and his or her Office will be 
 
 (2) The salaries and renumeration of employees of the Office shall be governed by the legal regulations on salary schemes of employees of bodies of public administration.
 
- 
-
 ##### Section 28
 
 Effect
 
 This Act enters into force on the sixtieth day following its publication.
-
- 
 
 Klaus, signed
 
@@ -583,24 +516,12 @@ Havel, signed
 
 Zeman, signed
 
- 
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-*1) Act No. 198/2009 Coll., on equal treatment and legal remedies for protection against discrimination and on amendment to certain laws (the Anti-Discrimination Act).*
-
-*1a) Act No. 7/2002 Coll., on proceedings in matters of judges and public prosecutors, as amended.*
-
-*2) Act No. 133/2000Coll., on population records and birth identification numbers and on amendment to certain laws (the Population Records Act), as amended.*
-
-*4) Section 13b of Act No. 133/2000 Coll., as amended by Act No. 53/2004 Coll.*
-
-*5) Act No. 40/1993 Coll., on acquisition and loss of citizenship of the Czech Republic, as amended.*
-
-*6) Convention on the Rights of Persons with Disabilities, promulgated under No. 10/2010 Coll. of International Treaties.*
-
-*9) Section 15a of Act No. 326/1999 Coll., on the presence of foreigners in the territory of the Czech Republic and on amendment to certain laws, as amended.*
-
-*10) Articles 4 and 7 (2) of Directive 2014/54/EU of the European Parliament and of the Council of 16 April 2014 on measures facilitating the exercise of rights conferred on workers in the context of freedom of movement for workers.*
-
-*11) Regulation (EU) No 492/2011 of the European Parliament and of the Council of 5 April 2011 on freedom of movement for workers within the Union.*
+[^1]: Act No. 198/2009 Coll., on equal treatment and legal remedies for protection against discrimination and on amendment to certain laws (the Anti-Discrimination Act).
+[^1a]: Act No. 7/2002 Coll., on proceedings in matters of judges and public prosecutors, as amended.
+[^2]: Act No. 133/2000Coll., on population records and birth identification numbers and on amendment to certain laws (the Population Records Act), as amended.
+[^4]: Section 13b of Act No. 133/2000 Coll., as amended by Act No. 53/2004 Coll.
+[^5]: Act No. 40/1993 Coll., on acquisition and loss of citizenship of the Czech Republic, as amended.
+[^6]: Convention on the Rights of Persons with Disabilities, promulgated under No. 10/2010 Coll. of International Treaties.
+[^9]: Section 15a of Act No. 326/1999 Coll., on the presence of foreigners in the territory of the Czech Republic and on amendment to certain laws, as amended.
+[^10]: Articles 4 and 7 (2) of Directive 2014/54/EU of the European Parliament and of the Council of 16 April 2014 on measures facilitating the exercise of rights conferred on workers in the context of freedom of movement for workers.
+[^11]: Regulation (EU) No 492/2011 of the European Parliament and of the Council of 5 April 2011 on freedom of movement for workers within the Union.
