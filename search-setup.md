@@ -79,7 +79,7 @@ Pokud je soubor dostupný, nechte server se statickými soubory běžet a může
 
 ## Zpět jako root v prvním okně:
 
-Odklepnout Enterem verifikaci, hláška by měla pogratulovat a uložit soubory
+Odklepnout Enterem verifikaci, proces by měl pogratulovat a uložit soubory
 
 ```
 /etc/letsencrypt/live/search.ochrance.cz/fullchain.pem
