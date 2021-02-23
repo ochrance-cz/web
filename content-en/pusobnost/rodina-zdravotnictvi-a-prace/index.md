@@ -3,9 +3,6 @@ title: Family, healthcare and labour
 headerColor: null
 illustration: rodina.jpg
 perex: >-
-
-
-
   Each year, the Department of Family, Healthcare and Labour handles about 1,200 complaints, including approximately 50 complaints from children.
 
 cta:
@@ -13,7 +10,7 @@ cta:
     can help you?
 ---
 
-## **Family**
+## Family
 
 In most cases, people seek help with problems in the area of family life, especially when they are dissatisfied with the procedure taken by a body for social and legal protection of children (BSLPC). This includes situations where a parent prevents the other parent from contacting their child, where there is a risk of removal of a child from the family or where the guardian ad litem does not protect the child’s interest in court proceedings. Apart from the above, we also deal with issues such as substitute family care and complaints concerning conditions in facilities for children.
 

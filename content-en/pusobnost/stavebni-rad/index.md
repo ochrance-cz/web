@@ -3,9 +3,6 @@ title: Rules of construction procedure
 headerColor: green
 illustration: stavebko-03.jpg
 perex: >-
-
-
-
   Construction is the second largest area dealt with by the Ombudsman. However, in addition to the area of the construction sector itself, the Department of Construction Procedure also deals with environmental issues, monument care, funeral services, as well as protection against excessive noise and animal welfare. Each year, we deal with approximately 900 complaints. 
 
 cta:
