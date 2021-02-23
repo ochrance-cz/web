@@ -1,0 +1,4 @@
+---
+title: Kontrola
+type: check
+---
