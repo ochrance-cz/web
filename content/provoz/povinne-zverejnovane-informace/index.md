@@ -2,7 +2,7 @@
 title: Povinně zveřejňované informace
 links:
   - text: Organizační struktura
-    link: zamestnanci-a-organizacni-struktura
+    link: /provoz/zamestnanci-a-organizacni-struktura
   - text: Rozpočet a výsledky hospodaření
     link: /provoz/rozpocet-a-hospodareni
   - text: Nejdůležitější používané předpisy
