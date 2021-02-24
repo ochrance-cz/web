@@ -11,9 +11,10 @@ cta:
   btnLink: /potrebuji-pomoc/omezeni-na-svobode/
   btnText: Podejte podnět
 ---
+
 Takovými místy jsou nejen věznice a policejní cely, ale také zařízení pro děti, domovy pro seniory, zařízení pro lidi se zdravotním postižením, léčebny pro dlouhodobě nemocné, psychiatrické nemocnice, kojenecké ústavy, zařízení pro zajištění cizinců aj..
 
-*Co je to národní preventivní mechanismus?*
+_Co je to národní preventivní mechanismus?_
 
 <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fverejny.ochrance.prav%2Fvideos%2F1213417502039257%2F&show_text=false&width=560" width="100%" height="450" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
@@ -40,7 +41,13 @@ Svá zjištění a doporučení týkající se podmínek v určitém typu zaří
 <tr><td>Zařízení sociálních služeb</td><td>129</td><td>6</td><td>14</td><td>3</td></tr>
 <tr><td>Zdravotnická zařízení</td><td>56</td><td>6</td><td>4</td><td>5</td></tr></tbody></table>
 
-### Mapa navštívených zařízení
+### Mapy navštívených zařízení
 
-TODO: Kde je na stávajícím webu?
-)
+- [Návštěvy azylových zařízení](http://maps.google.cz/maps/ms?hl=cs&gl=cz&ie=UTF8&oe=UTF8&brcurrent=5,0,1&msa=0&msid=107066762010799711627.000489aea0f209bf58ab0&ll=49.632062,15.908203&spn=3.415766,7.03125&z=7&source=embed)
+- [Návštěvy léčeben dlouhodobě nemocných](http://maps.google.cz/maps/ms?hl=cs&gl=cz&ie=UTF8&oe=UTF8&brcurrent=5,0,1&msa=0&msid=107066762010799711627.00048b58a9069b8a0d5bf&ll=49.688955,15.545654&spn=3.411777,7.03125&z=7&source=embed)
+- [Návštěvy policejních cel](http://maps.google.cz/maps/ms?hl=cs&gl=cz&ie=UTF8&oe=UTF8&brcurrent=5,0,1&msa=0&msid=107066762010799711627.0004899db2cc4ca400844&ll=49.809632,15.534668&spn=3.403304,7.03125&z=7&source=embed)
+- [Návštěvy psychiatrických léčeben](http://maps.google.cz/maps/ms?hl=cs&gl=cz&ie=UTF8&oe=UTF8&brcurrent=5,0,1&msa=0&msid=107066762010799711627.00048a65788858dc7d347&ll=49.866317,15.578613&spn=3.399319,7.03125&z=7&source=embed)
+- [Návštěvy věznic a vazebních věznic](http://maps.google.cz/maps/ms?hl=cs&gl=cz&ie=UTF8&oe=UTF8&brcurrent=5,0,1&msa=0&msid=107066762010799711627.000489ad27dc44603bda8&ll=50.205033,15.831299&spn=3.375437,7.03125&z=7&source=embed)
+- [Návštěvy zařízení sociálních služeb](http://maps.google.cz/maps/ms?hl=cs&gl=cz&ie=UTF8&oe=UTF8&brcurrent=5,0,1&msa=0&msid=107066762010799711627.00048b59bad07983f514e&ll=49.894634,15.446777&spn=3.397327,7.03125&z=7&source=embed)
+- [Návštěvy zařízení, kde je vykonávána ústavní a ochranná výchova](http://maps.google.cz/maps/ms?hl=cs&gl=cz&ie=UTF8&oe=UTF8&brcurrent=5,0,1&msa=0&msid=107066762010799711627.00048b58fc5a5c5849d70&ll=50.310392,15.809326&spn=3.367985,7.03125&z=7&source=embed)
+- [Návštěvy záchytných stanic](https://maps.google.cz/maps/ms?msa=0&msid=207229622776715058500.0004ef9c157f5c7282892&brcurrent=5,0,0&ie=UTF8&t=m&ll=49.745781,15.512695&spn=3.407789,7.03125&z=7&source=embed)
