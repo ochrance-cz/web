@@ -1,5 +1,5 @@
 ---
-title: Poskytování informací (zákon 106/1999 Sb.)
+title: Zásady poskytování informací dle zákona 106/1999 Sb.
 links:
   - text: Databáze poskytnutých informací
     link: /info106/
@@ -7,20 +7,18 @@ links:
     link: /vyrocni-zpravy-106/
 ---
 
-## Zásady pro poskytování informací
-
-### Kdo vyřizuje žádosti?
+## Kdo vyřizuje žádosti?
 
 1. Za vyřizování žádostí o poskytnutí informací podle [zákona č. 106/1999 Sb., o svobodném přístupu k informacím](https://www.zakonyprolidi.cz/cs/1999-106), ve znění pozdějších předpisů, vztahujícím se k činnosti veřejného ochránce práv nebo Kanceláře veřejného ochránce práv, je odpovědný vedouocí Kanceláře veřejného ochránce, (dále také „Kancelář“).
 2. Vyřizování žádostí o poskytnutí informací se řídí Směrnicí k poskytování informací o činnosti veřejného ochránce práv a Kanceláře veřejného ochránce práv
 
-### Jak má vypadat žádost?
+## Jak má vypadat žádost?
 
 - Žádost se podává ústně nebo písemně, a to i prostřednictvím sítě nebo služby elektronických komunikací. Elektronická žádost musí být podána prostřednictvím elektronické podatelny Kanceláře veřejného ochránce práv [podatelna![](https://www.ochrance.cz/uploads/RTEmagicC_zavinac_38.png.png)ochrance.cz](mailto:podatelna@ochrance.cz)  nebo prostřednictvím datové schránky **ID:** jz5adky
 - Ze žádosti musí být zřejmé, komu je určena, kdo ji činí a že se žadatel domáhá poskytnutí informace podle zákona č. 106/1999 Sb., o svobodném přístupu k informacím.
 - Žádost nemusí být zaslána na zvláštním formuláři nebo být odůvodněna a nemusí obsahovat žádné podklady. Za její podání se nehradí žádné poplatky. Kancelář za poskytnutí informací může vyžadovat úhradu. Výše úhrady se řídí [Sazebníkem úhrad za poskytování informací podle zákona č. 106/1999 Sb., o svobodném přístupu k informacím, ve znění pozdějších předpisů](https://www.ochrance.cz/kancelar-vop/poskytovani-informaci-podle-zakona-c-1061999-sb/zasady-pro-poskytovani-informaci/sazebnik-uhrad-za-poskytovani-informaci-podle-zakona-c-1061999-sb-o-svobodnem-pristupu-k-informacim-ve-zneni-pozdejsich-predpisu/)
 
-### Vyřizování žádostí
+## Vyřizování žádostí
 
 - Neobsahuje-li žádost výše uvedené náležitosti, není žádostí ve smyslu zákona č. 106/1999 Sb., o svobodném přístupu k informacím.
 - Kancelář posoudí obsah žádosti a v případě, že nedostatek údajů o žadateli brání vyřízení žádosti, vyzve žadatele ve lhůtě 7 dnů ode dne doručení žádosti, aby ji doplnil. Nevyhoví-li žadatel této výzvě do 30 dnů, Kancelář žádost odloží.
@@ -34,16 +32,16 @@ links:
 
 Žadatel musí být o prodloužení lhůty i o jeho důvodech vždy prokazatelně informován, a to včas před uplynutím lhůty pro poskytnutí informace.
 
-### Rozhodnutí o odmítnutí žádosti
+## Rozhodnutí o odmítnutí žádosti
 
 Pokud Kancelář žádosti, byť i jen zčásti, nevyhoví, vydá ve lhůtě 15 dnů rozhodnutí o odmítnutí žádosti, popřípadě o odmítnutí části žádosti.
 
-### Odvolání
+## Odvolání
 
 - Proti rozhodnutí o odmítnutí žádosti lze podat odvolání prostřednictvím Kanceláře.
 - Kancelář předloží odvolání spolu se spisovým materiálem ve lhůtě 15 dnů nadřízenému orgánu, kterým je podle ust. § 20 odst. 5 zákona č. 106/1999 Sb., o svobodném přístupu k informacím, ve znění pozdějších předpisů, Úřad pro ochranu osobních údajů..
 
-### Stížnost na postup při vyřizování žádosti
+## Stížnost na postup při vyřizování žádosti
 
 - Žadatel:
   - který nesouhlasí s vyřízením žádosti,
@@ -52,6 +50,8 @@ Pokud Kancelář žádosti, byť i jen zčásti, nevyhoví, vydá ve lhůtě 1
   - který nesouhlasí s výší úhrady za poskytnutí informací
   - může podat stížnost na postup při vyřizování žádosti.
 - Stížnost se podává ve lhůtě do 30 dnů na adrese Kanceláře veřejného ochránce práv, Údolní 39, Brno. Kancelář předloží stížnost spolu se spisovým materiálem nadřízenému orgánu do 7 dnů ode dne, kdy mu stížnost došla, pokud v této lhůtě stížnosti sám zcela nevyhoví. Nadřízeným orgánem je Úřad pro ochranu osobních údajů.
+
+---
 
 ## Sazebník úhrad za poskytování informací podle zákona č. 106/1999 Sb., o svobodném přístupu k informacím, ve znění pozdějších předpisů
 
