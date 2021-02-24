@@ -11,11 +11,10 @@
   </article>
 {{ end }}
 
-{{ range sort (where . "Kind" "page") "Params.order" }}
+{{ if eq (printf "%T" .) "*hugolib.pageState" }}
   {{ block "link" . }}{{ end }}
-  {{ if and (eq .Params.order 1) (eq .Section "cinnost")  }}
-    {{ with .GetPage "/vystupy/" }}
-      {{ block "link" . }}{{ end }}
-    {{ end }}
+{{ else }}
+  {{ range sort (where . "Kind" "page") "Params.order" }}
+    {{ block "link" . }}{{ end }}
   {{ end }}
 {{ end }}

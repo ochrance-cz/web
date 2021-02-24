@@ -15,6 +15,7 @@
   <div class="_backdrop news">
     <section class="_news">
       <h2>{{ i18n "news" }}</h2>
+
       {{ range first 3 (sort (where (where .Site.Pages "Section" "aktualne") "Kind" "page") "Params.order") }}
         {{ partial "news-preview.html" . }}
       {{ end }}
@@ -27,7 +28,22 @@
 
   <section class="_full two-col">
     <h2>{{ .Params.cinnostTitle }}</h2>
-    {{ partial "home-links.html" (where .Site.Pages "Section" "cinnost") }}
+
+    {{ with .GetPage "/info/setreni" }}
+      {{ partial "home-links.html" . }}
+    {{ end }}
+
+    {{ with .GetPage "/vystupy/" }}
+      {{ partial "home-links.html" . }}
+    {{ end }}
+
+    {{ with .GetPage "/vzdelavaci-akce" }}
+      {{ partial "home-links.html" . }}
+    {{ end }}
+
+    {{ with .GetPage "/eso" }}
+      {{ partial "home-links.html" . }}
+    {{ end }}
   </section>
 
 </main>
