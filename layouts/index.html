@@ -3,7 +3,7 @@
   <header class="_home-header">
     {{ $images := $.Site.GetPage "/images" }}
     {{ with $images.Resources.GetMatch (replaceRE "^.+images/" "" .Params.headerPic) }}
-        <img class="" src="{{ .RelPermalink }}" style="aspect-ratio: {{.Width}} / {{.Height}}">
+        <img src="{{ .RelPermalink }}" style="aspect-ratio: {{.Width}} / {{.Height}}" width={{ .Width }} height={{.Height}}>
     {{ end }}
     <p class="motto">{{ .Params.claim }}</p>
   </header>
