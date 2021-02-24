@@ -19,7 +19,7 @@
         {{ partial "news-preview.html" . }}
       {{ end }}
       {{ with .GetPage "aktualne" }}
-      <p><a href="{{ .RelPermalink }}" class="_button">{{ i18n "more-news" }}</a></p>
+        <p><a href="{{ .RelPermalink }}" class="_button">{{ i18n "more-news" }}</a></p>
       {{ end }}
 
     </section>

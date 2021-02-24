@@ -13,9 +13,16 @@
   </header>
   </div>
 
-
   <div {{ with .Params.contentBackdrop }} class="{{ . }}"{{ end }}>
     <section>
+      {{ with .GetPage "/info106" }}
+        <ul class="_link-list">
+          {{ range (sort .Pages ".File.Path" "desc") }}
+              <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+          {{ end }}
+        </ul>
+      {{ end }}
+
       {{ with .Params.perex }}
         <div class="perex">
           {{ partial "md-block.html" . }}
@@ -24,7 +31,9 @@
 
     	{{ .Content }}
 
-      <p><a href="../" class="_button back">zpět</a>
+      {{ with .GetPage "/info106 "}}
+        <p><a href="{{ .RelPermalink }}" class="_button back">{{ i18n "back" }}</a>
+      {{ end }}
     </section>
   </div>
 </main>

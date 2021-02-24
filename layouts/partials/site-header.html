@@ -1,12 +1,14 @@
 <header class="_site-header">
   <div class="backdrop">
-    <a class="root-link" href="/">
-      {{ if eq .Language.Lang "en" }}
+    {{ if eq .Language.Lang "en" }}
+      <a class="root-link" href="/en/">
         <img class="logo" src="/images/logo-en.svg" width="200">
-      {{ else }}
+      </a>
+    {{ else }}
+      <a class="root-link" href="/">
         <img class="logo" src="/images/logo.svg" width="200">
-      {{ end }}
-    </a>
+      </a>
+    {{ end }}
 
     <div class="_collapsible-nav">
       <input type="checkbox" id="site-nav-toggle">

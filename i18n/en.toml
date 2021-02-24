@@ -22,6 +22,9 @@ other = "More news"
 [print]
 other = "Print"
 
+[back]
+other = "back"
+
 [back-to-news]
 other = "Back to news"
 

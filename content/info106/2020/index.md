@@ -294,7 +294,7 @@ title: 2020
 
 [Příloha. ](/info106/2020/52_2020_odpoved_priloha.pdf)
 
-## sp. zn. 53/2020 – Informace z oblasti vězeňství
+## 53/2020 – Informace z oblasti vězeňství
 
 [Žádost o informace.](/info106/2020/53_2020_zadost.pdf)
 
@@ -302,7 +302,7 @@ title: 2020
 
 [Příloha.](/info106/2020/Sbornik_stanovisek_VOP_vezenstvi_II.pdf)
 
-## sp. zn. 54/2020 – Informace z oblasti vězeňství
+## 54/2020 – Informace z oblasti vězeňství
 
 [Žádost o informace.](/info106/2020/54_2020_zadost.pdf)
 
@@ -310,7 +310,7 @@ title: 2020
 
 [Příloha.](/info106/2020/Sbornik_stanovisek_VOP_vezenstvi_II.pdf)
 
-## sp. zn. 55/2020 – Informace z oblasti vězeňství
+## 55/2020 – Informace z oblasti vězeňství
 
 [Žádost o informace.](/info106/2020/55_2020_zadost.pdf)
 
@@ -318,19 +318,19 @@ title: 2020
 
 [Příloha.](/info106/2020/Sbornik_stanovisek_VOP_vezenstvi_II.pdf)
 
-## sp. zn. 56/2020 – Informace ke spisům z oblasti diskriminace
+## 56/2020 – Informace ke spisům z oblasti diskriminace
 
 [Žádost o informace.](/info106/2020/56_2020_zadost.pdf)
 
 [Odpověď na žádost](/info106/2020/56_2020_odpoved.odt).
 
-## sp. zn. 57/2020 – Informace k Evropskému Veřejnému ochránci práv
+## 57/2020 – Informace k Evropskému Veřejnému ochránci práv
 
 [Žádost o informace](/info106/2020/57_2020_zadost.pdf)
 
 [Odpověď na žádost](/info106/2020/57_2020_odpoved.rtf).
 
-## sp. zn. 58/2020 – Informace z oblasti vězeňství
+## 58/2020 – Informace z oblasti vězeňství
 
 [Žádost o informace.](/info106/2020/58_2020_zadost.pdf)
 
@@ -338,7 +338,7 @@ title: 2020
 
 [Příloha.](/info106/2020/Sbornik_stanovisek_VOP_vezenstvi_II.pdf)
 
-## sp. zn. 60/2020 – Informace z oblasti vězeňství
+## 60/2020 – Informace z oblasti vězeňství
 
 [Žádost o informace.](/info106/2020/60_2020_zadost.pdf)
 
@@ -346,13 +346,13 @@ title: 2020
 
 [Příloha.](/info106/2020/Sbornik_stanovisek_VOP_vezenstvi_II.pdf)
 
-## sp. zn. 61/2020 – Informace z oblasti vězeňství
+## 61/2020 – Informace z oblasti vězeňství
 
 [Žádost o informace.](/info106/2020/61_2020_zadost.pdf)
 
 [Odpověď na žádost](/info106/2020/61_2020_odpoved.odt).
 
-## sp. zn. 62/2020 – Informace z oblasti sociálního zabezpečení
+## 62/2020 – Informace z oblasti sociálního zabezpečení
 
 [Žádost o informace.](/info106/2020/62_2020_zadost.pdf)
 
@@ -360,7 +360,7 @@ title: 2020
 
 [Příloha.](/info106/2020/62_2020_odpoved_priloha.pdf)
 
-## sp. zn. 63/2020 – Informace z oblasti působnosti Ministerstva spravedlnosti, probační a mediační služba
+## 63/2020 – Informace z oblasti působnosti Ministerstva spravedlnosti, probační a mediační služba
 
 [Žádost o informace.](/info106/2020/63_2020_zadost.pdf)
 
@@ -368,19 +368,19 @@ title: 2020
 
 [Příloha.](/info106/2020/63_2020_odpoved_priloha.pdf)
 
-## sp. zn. 64/2020 – Informace z oblasti pozemkového práva a restitucí
+## 64/2020 – Informace z oblasti pozemkového práva a restitucí
 
 [Žádost o informace.](/info106/2020/64_2020_zadost.pdf)
 
 [Odpověď na žádost](/info106/2020/64_2020_odpoved.odt).
 
-## sp. zn. 66/2020 – Informace ze spisu z oblasti detence &ndash; zdravotnická zařízení
+## 66/2020 – Informace ze spisu z oblasti detence &ndash; zdravotnická zařízení
 
 [Žádost o informace.](/info106/2020/66_2020_zadost.pdf)
 
 [Odpověď na žádost](/info106/2020/66_2020_odpoved.odt).
 
-## sp. zn. 67/2020 – Informace z oblasti vězeňství a ke KVOP
+## 67/2020 – Informace z oblasti vězeňství a ke KVOP
 
 [Žádost o informace.](/info106/2020/67_2020_zadost.pdf)
 

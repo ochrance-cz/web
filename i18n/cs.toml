@@ -25,6 +25,9 @@ other = "Další aktuality"
 [print]
 other = "Vytisknout"
 
+[back]
+other = "zpět"
+
 [back-to-news]
 other = "Zpět na aktuality"
 
