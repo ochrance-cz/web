@@ -14,7 +14,7 @@ cta:
 ---
 These places include not only prisons and police cells, but also facilities for children, retirement homes, facilities for people with disabilities, treatment facilities for long-term patients, psychiatric hospitals, infant care centres, facilities for detention of foreigners, etc.
 
-### What is the national preventive mechanism? 
+### What is the national preventive mechanism?
 
 <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fverejny.ochrance.prav%2Fvideos%2F1213417502039257%2F&show_text=false&width=560" width="100%" height="450" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
@@ -26,22 +26,23 @@ Each of the facilities visited receives a report summarising our findings and we
 
 We generalise our findings and recommendations concerning the conditions in a given type of facility in summary reports on visits. Recommendations concerning improvement of the ascertained conditions are directed both to the facilities themselves and their operators as well as central governmental authorities.
 
-
-
 ## Number of visits to facilities
 
-<table summary="" cellpadding="0" cellspacing="0" class="obecna_varianata2"><thead><tr><th scope="col" colspan="1" rowspan="1">Rok</th><th scope="col" colspan="1" rowspan="1">2006—2016</th><th>2017</th><th>2018</th><th>2019</th></tr></thead><tbody><tr><td>Počet návštěv</td><td>387</td><td>22</td><td>27</td><td>25</td></tr></tbody></table>
+| Year             | 2006-2016 | 2017 | 2018 | 2019 |
+| ---------------- | --------- | ---- | ---- | ---- |
+| Number of visits | 387       | 22   | 27   | 25   |
 
 ## Types of facilities visited
 
-<table summary="" cellpadding="0" cellspacing="0" class="obecna_varianata2 align-center"><thead><tr><th scope="col" colspan="1" rowspan="1"></th><th scope="col" colspan="1" rowspan="1">2006—2016</th><th>2017</th><th>2018</th><th>2019</th></tr></thead><tbody>
-<tr><td>Vězeňská zařízení</td><td>33</td><td>2</td><td>2</td><td>3</td></tr>
-<tr><td>Policejní cely</td><td>86</td><td>4</td><td>6</td><td>3</td></tr>
-<tr><td>Zařízení pro děti</td><td>64</td><td>3</td><td>1</td><td>9</td></tr>
-<tr><td>Zařízení pro cizince</td><td>15</td><td>0</td><td>0</td><td>1</td></tr>
-<tr><td>Zařízení pro azylanty</td><td>4</td><td>1</td><td>0</td><td></td></tr>
-<tr><td>Zařízení sociálních služeb</td><td>129</td><td>6</td><td>14</td><td>3</td></tr>
-<tr><td>Zdravotnická zařízení</td><td>56</td><td>6</td><td>4</td><td>5</td></tr></tbody></table>
+|                               |  2006—2016 | 2017 | 2018 | 2019 |
+| ----------------------------- | ---------- | ---- | ---- | ---- |
+| Prisons                       | 33         | 2    | 2    | 3    |
+| Police cells                  | 86         | 4    | 6    | 3    |
+| Facilities for children       | 64         | 3    | 1    | 9    |
+| Facilities for foreigners     | 15         | 0    | 0    | 1    |
+| Facilities for asylum seekers | 4          | 1    | 0    |      |
+| Social services facilities    | 129        | 6    | 14   | 3    |
+| Health-care facilities        | 56         | 6    | 4    | 5    |
 
 ## Map of the facilities visited 
 
