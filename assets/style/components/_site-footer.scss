@@ -49,6 +49,7 @@
     &.hearing {
       display: inline-block;
       white-space: nowrap;
+      vertical-align: middle;
 
       font-size: 1.4rem;
       width: 2.5rem;
@@ -103,6 +104,7 @@
     overflow: hidden;
     white-space: nowrap;
     box-sizing: border-box;
+    vertical-align: middle;
 
     &::before {
       display: inline-block;
