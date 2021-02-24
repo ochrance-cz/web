@@ -6,10 +6,12 @@ perex: Od roku 2018 monitorujeme, jak Česká republika naplňuje práva zakotve
   Úmluvou OSN o právech osob se zdravotním postižením. O našich poznatcích
   informujeme Výbor OSN pro práva lidí s postižením a také vnitrostátní orgány.
 cta:
-  title: Řešíte problémy související s postižením a domníváte se, že vám ombudsman
+  title:
+    Řešíte problémy související s postižením a domníváte se, že vám ombudsman
     může pomoct?
 ---
-Za tímto účelem provádíme výzkumy, šetření a vypracováváme doporučení ke zlepšení situace lidí s postižením. Intenzivně přitom spolupracujeme právě s lidmi s postižením a s neziskovými organizacemi. 
+
+Za tímto účelem provádíme výzkumy, šetření a vypracováváme doporučení ke zlepšení situace lidí s postižením. Intenzivně přitom spolupracujeme právě s lidmi s postižením a s neziskovými organizacemi.
 
 Naše činnost vychází z poznatků z praxe. Ombudsman má poradní orgán složený z lidí s postižením nebo lidí hájících práva lidí s postižením. Úkolem poradního orgánu je získávat podněty poukazující na systémové problémy, pomáhat při stanovování priorit a doporučení, stanovovat témata, kterým je třeba se v oblasti práv osob s postižením věnovat. Poradní orgán také zajišťuje informovanost lidí s postižením o činnosti ombudsmana.
 
@@ -18,11 +20,11 @@ Za účelem zapojení lidí s postižením do sledování naplňování Úmluv
 
 Poradní orgán
 
-* **předkládá** ombudsmanovi **systémová témata** v oblasti ochrany práv lidí s postižením,
-* **poskytuje** ombudsmanovi **konzultace** a praktické informace,
-* podílí se na **připomínkování právních předpisů** ombudsmanem a zaujímá stanoviska k jeho strategickým dokumentům týkajícím se práv lidí s postižením,
-* **získává podněty** od lidí s postižením, organizací hájících jejich práva a od pečujících osob,
-* **zajišťuje informovanost** lidí s postižením, organizací hájící jejich práva a široké veřejnosti o činnost ombudsmana v oblasti monitorování podle Úmluvy.
+- **předkládá** ombudsmanovi **systémová témata** v oblasti ochrany práv lidí s postižením,
+- **poskytuje** ombudsmanovi **konzultace** a praktické informace,
+- podílí se na **připomínkování právních předpisů** ombudsmanem a zaujímá stanoviska k jeho strategickým dokumentům týkajícím se práv lidí s postižením,
+- **získává podněty** od lidí s postižením, organizací hájících jejich práva a od pečujících osob,
+- **zajišťuje informovanost** lidí s postižením, organizací hájící jejich práva a široké veřejnosti o činnost ombudsmana v oblasti monitorování podle Úmluvy.
 
 Poradní orgán má [19 členů](https://www.ochrance.cz/monitorovani-prav-lidi-se-zdravotnim-postizenim/poradni-organ/clenove/). Jeho členy jsou lidé s postižením a lidé hájící práva lidí s postižením. Při jmenování členů poradního orgánu přihlíží ombudsman zejména k jejich **odbornosti a angažovanosti v oblasti ochrany práv lidí s postižením**.
 {{< /rozbal >}}
@@ -76,4 +78,4 @@ Za účelem sjednocení výkladu Úmluvy vydává Výbor [obecné komentáře](h
 
 Zajímá vás, o čem jsme Výbor OSN informovali? Podívejte se sem (TODO odkaz na Vyjádření pro mezinárodní orgány)
 
-Naším cílem je posilovat přístupnost informací pro všechny bez rozdílu. Jako první a jediní v České republice jsme proto přeložili celou Úmluvu OSN do znakového jazyka (TODO odkaz na stránku s videi) a snažíme se zpřístupňovat informace [ve formě pro snadné čtení](mezinarodni_umluva_ETR.pdf).
+Naším cílem je posilovat přístupnost informací pro všechny bez rozdílu. Jako první a jediní v České republice jsme proto přeložili celou [Úmluvu OSN do znakového jazyka](/umluva/) a snažíme se zpřístupňovat informace [ve formě pro snadné čtení](mezinarodni_umluva_ETR.pdf).
