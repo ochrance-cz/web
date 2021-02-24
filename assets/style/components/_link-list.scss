@@ -5,14 +5,17 @@
   li {
     list-style-type: none;
     @include font-size-l;
-    padding-left: 1.5em;
-    text-indent: -1.5em;
+    padding-left: 1.5rem;
+    text-indent: -1.5rem;
 
     &::before {
       display: inline-block;
-      width: 1.2em;
-      height: 1.2em;
-      vertical-align: bottom;
+      width: 1.5rem;
+      height: 1.5rem;
+      padding: 0;
+      margin: 0;
+      margin-top: -0.2rem;
+      vertical-align: middle;
       content: " ";
 
       @include svg-bg($arrow, $green, 0% 50%);

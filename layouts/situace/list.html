@@ -17,8 +17,7 @@
       <ul class="_link-list">
         {{ range .Pages }}
           {{ $path := replaceRE "[^/]+$" "" .RelPermalink }}
-          <li>
-            <a href="{{ $path }}{{ .Params.file | replaceRE ".+/" "" }}">{{ .Title | replaceRE " -[  ]" " – " }}</a>
+          <li><a href="{{ $path }}{{ .Params.file | replaceRE ".+/" "" }}">{{ .Title | replaceRE " -[  ]" " – " }}</a>
             {{ if (in .Params.situace "Formuláře") }}
               <span class="_label">Formulář</span>
             {{ end }}
