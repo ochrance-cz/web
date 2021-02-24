@@ -4,17 +4,10 @@ menuTitle: Kontakt
 phone: 542 542 888
 email: podatelna@ochrance.cz
 dataId: jz5adky
-infolineHearing: |
-  ## [Infolinka s on-line přepisem](/pristupnost/prepis/)
-
-  Bezplatná infolinka s on-line přepisem pro osoby s postižením sluchu.
-
-  Pondělí–Pátek 9.00–18.00.
 description: Po–pá 8.00–16.00 hod.
 type: contact
 headerPic: /images/podatelna.jpg
 addressComment: Jsme v Brně a zatím jiné zastoupení v krajích nemáme.
-
 address: |
   Kancelář veřejného ochránce práv
   Údolní 39

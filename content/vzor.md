@@ -10,7 +10,6 @@ Stránky, které nemají odkaz, jsou zahrnuté v šablonách, ale neobsahují op
   - [Braille](/podejte-stiznost/braille/)
   - [ČZJ](/podejte-stiznost/czj/)
 - [Ombudsman bez bariér](/pristupnost/)
-  - [Online přepis](/pristupnost/prepis/)
   - [Bezbariérový přístup](/pristupnost/budova/)
 - Vstup a vysvětlení ESO
 - [O nás](/o-nas/)

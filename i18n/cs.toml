@@ -40,9 +40,6 @@ other = "e-mail"
 [data-box-id]
 other = "ID datové schránky"
 
-[rules]
-other = "Zásady písemné komunikace ochránce"
-
 [where]
 other = "Kde nás najdete?"
 

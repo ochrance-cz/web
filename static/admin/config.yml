@@ -234,22 +234,6 @@ collections:
             name: addressComment
             required: false
             widget: string
-          - editor_components:
-              - image
-            buttons:
-              - bold
-              - italic
-              - link
-              - heading-two
-              - heading-three
-              - heading-four
-              - quote
-              - bulleted-list
-              - numbered-list
-            label: Popis infolinky s online-přepisem
-            name: infolineHearing
-            required: false
-            widget: markdown
           - widget: object
             label: Přístup do budov
             name: access

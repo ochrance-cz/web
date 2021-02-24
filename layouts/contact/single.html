@@ -32,12 +32,9 @@
     <div class="">
       <h2>{{ i18n "e-mail" }} <a href="mailto:{{ .Params.email }}">{{ .Params.email }}</a></h2>
       <p>{{ i18n "data-box-id" }}: <strong>jz5adky</strong></p>
-      {{ with .GetPage "info/zasady" }}
+      {{ with .GetPage "info/pravidla-komunikace" }}
         <p><a href="{{ .RelPermalink }}">{{ .Title }}</a></p>
       {{ end }}
-    </div>
-    <div class="hearing-loss">
-      {{ partial "md-block.html" .Params.infolineHearing }}
     </div>
   </section>
 

@@ -134,7 +134,6 @@ const stranky = files("Stránky", "stranky", [
     string("ID datové schránky", "dataId"),
     markdown("Adresa", "address"),
     string("Komentář k adrese", "addressComment"),
-    markdown("Popis infolinky s online-přepisem", "infolineHearing"),
     object("Přístup do budov", "access", [
       markdown("Pěšky", "walk"),
       markdown("MHD", "public"),

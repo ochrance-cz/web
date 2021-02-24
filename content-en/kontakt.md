@@ -11,7 +11,6 @@ address: |-
   Údolní 39
   602 00 Brno
 addressComment: ""
-infolineHearing: ""
 access:
   walk: ""
   public: >-
