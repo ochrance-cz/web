@@ -26,9 +26,11 @@
       <a href="#" onClick="window.print();">{{ i18n "print" }}</a>
     </p>
 
+    {{ with .GetPage "/aktualne"}}
     <p>
-      <a class="_button back" href="/aktualne/">Zpět na aktuality</a>
+      <a class="_button back" href="{{ .RelPermalink }}">{{ i18n "back-to-news" }}</a>
     </p>
+    {{ end }}
   </section>
 </main>
 {{ end }}
