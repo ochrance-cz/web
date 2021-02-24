@@ -23,6 +23,8 @@ inperson:
     desc: Pro vyplnění v počítači (.word)
   - link: #
     desc: Pro zobrazení čtečkou (.txt)
+help: |
+  TODO Text nápovědy
 submission:
   title: Jak napsat podnět ombudsmanovi
   body: |

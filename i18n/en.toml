@@ -147,3 +147,9 @@ other = "Documents in ESO"
 
 [in-media]
 other = "Media outputs"
+
+[email-is-not-registry]
+other = "E-mailové adresy právníků a právniček neslouží k podávání stížností/podnětů k šetření."
+
+[how-to-submit]
+other = "Zjistěte, jak podat podnět."

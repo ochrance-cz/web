@@ -4,4 +4,6 @@
 
 <p>{{ i18n "more-what-we-do" }}</p>
 
-<p><a href="/pusobnost/" class="_button">{{ i18n "check-scope" }}</a>
+{{ with .GetPage "/pusobnost" }}
+  <p><a href="{{ .RelPermalink }}" class="_button">{{ i18n "check-scope" }}</a>
+{{ end }}

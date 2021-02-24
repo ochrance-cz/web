@@ -17,7 +17,11 @@
         {{ if eq .title "Sekce právní" }}
           {{ range $.Params.lawyers }}
             <h3>{{ .title }}</h3>
-            <p>E-mailové adresy právníků a právniček neslouží k podávání stížností/podnětů k šetření. <a href="/podejte-stiznost/">Jak podat podnět zjistíte zde.</a></p>
+            {{ with $.GetPage "/podejte-stiznost" }}
+            <p>
+              {{ i18n "email-is-not-registry"}}
+              <a href="{{ .RelPermalink }}">{{ i18n "how-to-submit" }}</a></p>
+            {{ end }}
             <div class="_cards">
               {{ range .people }}
                 <p class="card">

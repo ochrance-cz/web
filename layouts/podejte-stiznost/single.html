@@ -13,8 +13,10 @@
 
     <p>Naše budova je přístupná. Podnět můžete podat osobně kterýkoli pracovní den.</p>
 
+    {{ with .GetPage "/pristupnost/budova" }}
     <p>
-      <a class="_button" href="/pristupnost/budova/">Přístupnost budovy</a>
+      <a class="_button" href="{{ .RelPermalink }}">Přístupnost budovy</a>
     </p>
+    {{ end }}
 </section>
 {{ end }}

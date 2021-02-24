@@ -45,6 +45,9 @@
                 {{ i18n "our-work" }}
               </button>
               <ul class="dropdown-menu" id="inst-dropdown">
+                {{ with .GetPage "/projekty" }}
+                  <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+                {{ end }}
                 {{ range sort (where (where .Site.Pages "Section" "cinnost") "Kind" "page") "Params.order" }}
                   <li>
                     <a

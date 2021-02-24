@@ -1,0 +1,9 @@
+{{ with . }}
+<a href="{{ .RelPermalink }}" class="_button">
+  {{ with .Params.menuTitle }}
+    {{ . }}
+  {{ else }}
+    {{- .Title -}}
+  {{ end }}
+</a>
+{{ end }}

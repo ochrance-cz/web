@@ -12,7 +12,7 @@
     <h2>E-mailem</h2>
 
     <p>Stáhněte formulář, vytiskněte, vyplňte a pošlete:
-    <strong><a href="">podatelna@ochrance.cz</a></strong></p>
+    <strong><a href="mailto:podatelna@ochrance.cz">podatelna@ochrance.cz</a></strong></p>
 
     {{ partial "download-collapsible.html" (dict "title" "Stáhněte si formulář" "items" .Params.email)}}
 
@@ -26,7 +26,7 @@
 
     {{ partial "download-collapsible.html" (dict "title" "Stáhněte si formulář" "items" .Params.post)}}
 
-    <p><a href="#">Nápověda pro vyplnění</a></p>
+    <p><a href="#help">Nápověda pro vyplnění</a></p>
 
     <h2>Osobně v Brně</h2>
 
@@ -46,20 +46,29 @@
     <p>Potřebujete podat podnět v Braillově písmu, v českém znakovém jazyce nebo se dozvědět víc o přístupnosti budovy Kanceláře veřejného ochránce práv?</p>
 
     <p class="_button--wrapper">
-      <a href="./braille/" class="_button">V braillově písmu</a>
-      <a href="./czj/" class="_button">V českém znakovém jazyce</a>
-      <a href="/pristupnost/" class="_button">Přístup bez bariér</a>
+      {{ with .GetPage "/podejte-stiznost/braille" }}
+        <a href="{{ .RelPermalink }}" class="_button">V braillově písmu</a>
+      {{ end }}
+
+      {{ with .GetPage "/podejte-stiznost/czj" }}
+        <a href="{{ .RelPermalink }}" class="_button">V českém znakovém jazyce</a>
+      {{ end }}
+
+      {{ with .GetPage "/pristupnost" }}
+        <a href="{{ .RelPermalink }}" class="_button">Přístup bez bariér</a>
+      {{ end }}
     </p>
 
     <hr>
+    <div id="help">
+      <h2 id="help" class="_icon-info">
+        {{- .Params.submission.title -}}
+      </h2>
 
-    <h2 class="_icon-info">
-      {{- .Params.submission.title -}}
-    </h2>
+      {{ partial "md-block.html" .Params.submission.body }}
 
-    {{ partial "md-block.html" .Params.submission.body }}
-
-    {{ partial "download-collapsible.html" (dict "title" "Stáhněte si příklad" "items" (index .Params.submission "example-links"))}}
+      {{ partial "download-collapsible.html" (dict "title" "Stáhněte si příklad" "items" (index .Params.submission "example-links"))}}
+    </div>
   </section>
 
   {{ partial "cta-contact.html" . }}

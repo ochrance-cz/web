@@ -51,8 +51,9 @@
 
       <p>{{ i18n "more-what-we-do" }}</p>
 
-      <p><a href="/aktualne/" class="_button">{{ i18n "news" }}</a>
-
+      {{ with .GetPage "/aktualne" }}
+        <p><a href="{{ .RelPermalink }}" class="_button">{{ i18n "news" }}</a>
+      {{ end }}
     </div>
 
     {{ $images := $.Site.GetPage "/images" }}
