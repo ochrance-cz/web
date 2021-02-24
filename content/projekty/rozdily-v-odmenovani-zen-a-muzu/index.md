@@ -20,8 +20,6 @@ Cílem projektu je zvýšit povědomí veřejnosti v ČR o problematice nerovn
 
 Právničky a právníci Oddělení rovného zacházení spolu s odbornicemi z GIC NORA, o. p. s. mimo jiné realizují celorepublikovou kampaň v jejímž rámci diskutují s veřejností, studujícími středních škol a sociálními partnery (zaměstnavateli, odbory apod.), sbírají podklady pro poziční dokument a připravují závěrečnou mezinárodní konferenci k tématu, která se uskuteční v lednu 2016 v prostorách Kanceláře veřejného ochránce práv.
 
-Více informací včetně aktuálního dění v projektu naleznete na [www.jetofer.cz](http://www.jetofer.cz/) ![](https://www.ochrance.cz/typo3/ext/od_linkdesc/icons/external.gif).
+Více informací včetně aktuálního dění v projektu naleznete na [www.jetofer.cz](http://www.jetofer.cz/).
 
 Projekt podpořila Nadace Open Society Fund Praha z programu Dejme (že)nám šanci, který je financován z Norských fondů.
-
-![]()

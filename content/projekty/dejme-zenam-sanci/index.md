@@ -7,15 +7,13 @@ illustration:
 
 [www.dejmezenamsanci.cz](http://www.dejmezenamsanci.cz/)
 
-##### [Zlepšování antidiskriminační a sociální legislativy ve prospěch znevýhodněných žen](http://alternativaplus.cz/projekty-a-aktivity/zlepsovani-antidiskriminacni-a-socialni-legislativy-ve-prospech-znevyhodnenych-zen/) ![](https://www.ochrance.cz/typo3/ext/od_linkdesc/icons/external.gif)
+## [Zlepšování antidiskriminační a sociální legislativy ve prospěch znevýhodněných žen](http://alternativaplus.cz/projekty-a-aktivity/zlepsovani-antidiskriminacni-a-socialni-legislativy-ve-prospech-znevyhodnenych-zen/)
 
 (reg.č. CZ12 Uplatňování hlediska rovných příležitostí žen a mužů a podpora slaďování pracovního a soukromého života/Domácí násilí a násilí založené na pohlaví)
 
-Kancelář veřejného ochránce práv je partnerem neziskové organizace Alternativa 50+, o.p.s. zaměřeného na zlepšování antidiskriminační a sociální politiky ve prospěch znevýhodněných žen. Cílem projektu je zlepšit postavení žen, jež je do značné míry ovlivněné nejen genderovou a věkovou diskriminací, ale také znevýhodněním sociálním a konkrétně znevýhodněním osob pečujících. Projekt podpořila [Nadace Open Society Fund Praha ](http://www.osf.cz/) ![](https://www.ochrance.cz/typo3/ext/od_linkdesc/icons/external.gif)z programu [Dejme (že)nám šanci](http://www.dejmezenamsanci.cz/o-programu/dejme-ze-nam-sanci-a-norske-fondy/) ![](https://www.ochrance.cz/typo3/ext/od_linkdesc/icons/external.gif), který je financován z [Norských fondů](http://eeagrants.org/) ![](https://www.ochrance.cz/typo3/ext/od_linkdesc/icons/external.gif).
+Kancelář veřejného ochránce práv je partnerem neziskové organizace Alternativa 50+, o.p.s. zaměřeného na zlepšování antidiskriminační a sociální politiky ve prospěch znevýhodněných žen. Cílem projektu je zlepšit postavení žen, jež je do značné míry ovlivněné nejen genderovou a věkovou diskriminací, ale také znevýhodněním sociálním a konkrétně znevýhodněním osob pečujících. Projekt podpořila [Nadace Open Society Fund Praha ](http://www.osf.cz/)z programu [Dejme (že)nám šanci](http://www.dejmezenamsanci.cz/o-programu/dejme-ze-nam-sanci-a-norske-fondy/), který je financován z [Norských fondů](http://eeagrants.org/).
 
-#### [Aktuality](https://www.ochrance.cz/?id=102513)
-
-##### Systémová změna v diskriminačním zobrazování žen a mužů v reklamě
+## Systémová změna v diskriminačním zobrazování žen a mužů v reklamě
 
 Kancelář veřejného ochránce práv je partnerem nevládní organizace Nesehnutí v projektu Systémová změna v diskriminačním zobrazování žen a mužů v reklamě, který podpořila Nadace Open Society Fund Praha z programu Dejme (že)nám šanci financovaného z Norských fondů.
 

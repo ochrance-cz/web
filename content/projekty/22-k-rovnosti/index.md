@@ -22,6 +22,6 @@ Hlavním cílem projektu je:
 
 – navrhnout a v praxi ověřit inovativní nástroje a přístupy k řešení dané problematiky
 
-Více o aktuálním dění v projektu, jeho zaměření, aktivitách, výstupech i problematice jako takové se dozvíte na [www.rovnaodmena.cz](http://www.rovnaodmena.cz/) ![](https://www.ochrance.cz/typo3/ext/od_linkdesc/icons/external.gif).
+Více o aktuálním dění v projektu, jeho zaměření, aktivitách, výstupech i problematice jako takové se dozvíte na [www.rovnaodmena.cz](http://www.rovnaodmena.cz/).
 
 ![Na obrázcích jsou loga EU, MPSV a Rovné odměny.](https://www.ochrance.cz/uploads/RTEmagicC_trojlogo_22.png.png)

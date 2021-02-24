@@ -11,7 +11,7 @@ illustration:
 
 Mezifakultní projekt, který Ekonomicko-správní fakulta realizuje ve spolupráci s Právnickou fakultou.
 
-[www.ceps.muni.cz](http://www.ceps.muni.cz/) ![](https://www.ochrance.cz/typo3/ext/od_linkdesc/icons/external.gif)
+[www.ceps.muni.cz](http://www.ceps.muni.cz/)
 
 ## Teorie - dovednosti - praxe: inovace studia práva
 
@@ -19,6 +19,6 @@ Mezifakultní projekt, který Ekonomicko-správní fakulta realizuje ve spolupr�
 
 Cílem projektu je zvýšení konkurenceschopnosti studentů magisterského studijního programu Právo a právní věda, obor Právo na Právnické fakultě Masarykovy univerzity inovací studijního plánu.
 
-[dovednosti.law.muni.cz](http://dovednosti.law.muni.cz/) ![](https://www.ochrance.cz/typo3/ext/od_linkdesc/icons/external.gif)
+[dovednosti.law.muni.cz](http://dovednosti.law.muni.cz/)
 
 ![Na obrázku jsou loga ESF, EU, MŠMT, OP Vzdělávání pro konkurenceschopnost, Masarykovy univerzity.](spoluprace-mu.jpg)
