@@ -17,6 +17,13 @@ Lidé nejčastěji hledají pomoc v souvislosti s umístěním a povolením stav
 >
 > Zjistili jsme však, že stavba byla zkolaudována k využívání jako šachový klub a také jako komplexní zařízení občanské vybavenosti. Jsme však toho názoru, stavbu šachového klubu nelze využívat ke všem činnostem, které lze zahrnout pod občanskou vybavenost. Účastníci kolaudačního řízení se totiž vyjadřovali pouze k záměru užívat stavbu ke hře šachů, nikoli k různým kulturním akcím. Stavební úřad s naším názorem nakonec souhlasil a zahájil řízení o změně užívání stavby. Lidé, kteří jsou stavbou dotčeni, budou moct v řízení uplatnit své námitky. Do vydání rozhodnutí pak stavební úřad omezil pořádání kulturních akcí.
 
+<a href="https://domek.ochrance.cz/" class="_domek">
+  <div class="title">
+    <h2>Domek po lopatě</h2>
+    <p>Věcný průvodce stavbou rodinného domu</p>
+  </div>
+</a>
+
 ## Životní prostředí
 
 Oblast ochrany životního prostředí zahrnuje např. nakládání s vodami (budování kanalizací, studní či jiných vodních děl, vypouštění odpadních vod, realizace protipovodňových opatření aj.), ochranu před znečištěním ovzduší, ochranu lesů a zemědělského půdního fondu, řešíme problém skládek odpadů a také hornickou a báňskou činnost. K tématu životního prostředí řadíme i záležitosti související s myslivostí nebo rybolovem.
