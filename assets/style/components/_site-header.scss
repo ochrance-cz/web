@@ -150,10 +150,6 @@
                 }
               }
             }
-
-            a {
-              color: $green;
-            }
           }
         }
       }
@@ -268,6 +264,14 @@
       }
     }
 
+    li:nth-child(1) .dropdown {
+      z-index: 5;
+    }
+
+    li:nth-child(1) .dropdown {
+      z-index: 4;
+    }
+
     .dropdown {
       .dropdown-title {
         display: inline-flex;
@@ -290,7 +294,7 @@
         }
 
         a {
-          //white-space: nowrap;
+          white-space: nowrap;
           color: $green;
           display: block;
           padding: 0.5rem 0;
@@ -303,6 +307,67 @@
           &:focus {
             outline: none;
             text-decoration: underline;
+          }
+
+          &.icon-question {
+            &::after {
+              display: inline-block;
+              box-sizing: border-box;
+              @include font-size-m;
+              font-weight: bold;
+              content: "?";
+              text-indent: 0;
+              text-align: center;
+              height: 1.5rem;
+              width: 1.5rem;
+              line-height: 1.5rem;
+              margin: -0.5rem 0 -1rem 0.5rem;
+
+              border: 2px solid $green;
+              border-radius: 1.5rem;
+            }
+
+            &:hover::after {
+              color: $green;
+            }
+          }
+
+          &.icon-kids {
+            &::after {
+              display: inline-block;
+              box-sizing: border-box;
+              @include font-size-l;
+              content: " ";
+              background-image: url(/images/deti.png);
+              background-repeat: no-repeat;
+              background-size: cover;
+              text-indent: 0;
+              text-align: center;
+              height: 1.5rem;
+              width: 1.5rem;
+              vertical-align: top;
+              margin: 0rem 0 -1rem 0.5rem;
+            }
+          }
+
+          &.icon-eso {
+            &::after {
+              display: inline-block;
+              box-sizing: border-box;
+              @include font-size-m;
+              content: " ";
+              @include svg-bg($ace, $green, 50% 50%);
+              background-size: 1.2em 1.2em;
+              text-indent: 0;
+              text-align: center;
+              height: 1.5rem;
+              width: 1.5rem;
+              vertical-align: top;
+              margin: 0rem 0 -1rem 0.5rem;
+
+              border: 2px solid $green;
+              border-radius: 1.5rem;
+            }
           }
         }
       }

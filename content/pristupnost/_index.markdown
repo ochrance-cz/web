@@ -9,12 +9,6 @@ links:
     link: /podejte-stiznost/czj/
   - text: Jak do budovy Kanceláře veřejného ochránce práv bez bariér
     link: /pristupnost/budova/
+  - text: Prohlášení o přístupnosti webu ochrance.cz
+    link: /pristupnost/prohlaseni/
 ---
-
-## Prohlášení o přístupnosti KVOP a webu ochrance.cz
-
-Kancelář veřejného ochránce práv prohlašuje, že při tvorbě webu byl kladen důraz na maximální funkčnost a přístupnost obsahu. Web veřejného ochránce práv vyhovuje všem důležitým doporučením obsaženým v dokumentu Best practice - Pravidla pro tvorbu přístupného webu, vydaném Ministerstvem informatiky ČR a WCAG 1.0.
-
-Máme i certifikát Blind Friendly.
-
-![](/images/bfw3.gif)
