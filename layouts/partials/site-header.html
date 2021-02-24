@@ -1,3 +1,13 @@
+{{ define "menu-link" }}
+<li>
+  <a
+    href="{{ cond (isset .Params "link") .Params.link .RelPermalink }}"
+    class="icon-{{ with .Params.icon }}{{ . }}{{ else }}arrow{{ end }}">
+    {{- .Title -}}
+  </a>
+</li>
+{{ end }}
+
 <header class="_site-header">
   <div class="backdrop">
     {{ if eq .Language.Lang "en" }}
@@ -28,15 +38,8 @@
               </button>
               <ul class="dropdown-menu" id="help-dropdown">
                 {{ range sort (where (where .Site.Pages "Section" "potrebuji-pomoc") "Kind" "page") "Params.order" }}
-                  <li>
-                    <a
-                      href="{{ cond (isset .Params "link") .Params.link .RelPermalink }}"
-                      class="icon-{{ with .Params.icon }}{{ . }}{{ else }}arrow{{ end }}">
-                      {{- .Title -}}
-                    </a>
-                  </li>
+                  {{ block "menu-link" . }}{{ end }}
                 {{ end }}
-
                 <li><a href="https://portal.ochrance.cz">{{ i18n "sep" }}</a></li>
               </ul>
             </li>
@@ -45,32 +48,25 @@
                 {{ i18n "our-work" }}
               </button>
               <ul class="dropdown-menu" id="inst-dropdown">
-                {{ range sort (where (where .Site.Pages "Section" "cinnost") "Kind" "page") "Params.order" }}
-                  <li>
-                    <a
-                      href="{{ cond (isset .Params "link") .Params.link .RelPermalink }}"
-                      class="icon-{{ with .Params.icon }}{{ . }}{{ else }}arrow{{ end }}">
-                      {{- .Title -}}
-                    </a>
-                  </li>
-
-                  {{ if eq .Params.order 1 }}
-                    {{ with .GetPage "/vystupy/" }}
-                      <li>
-                        <a
-                          href="{{ .RelPermalink }}"
-                          class="icon-{{ with .Params.icon }}{{ . }}{{ else }}arrow{{ end }}">
-                          {{- .Title -}}
-                        </a>
-                      </li>
-                      {{ with .GetPage "/projekty" }}
-                        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-                      {{ end }}
-                    {{ end }}
+                  {{ with .GetPage "/info/setreni" }}
+                    {{ block "menu-link" . }}{{ end }}
                   {{ end }}
-                {{ end }}
 
+                  {{ with .GetPage "/vystupy/" }}
+                    {{ block "menu-link" . }}{{ end }}
+                  {{ end }}
 
+                  {{ with .GetPage "/vzdelavaci-akce" }}
+                    {{ block "menu-link" . }}{{ end }}
+                  {{ end }}
+
+                  {{ with .GetPage "/projekty" }}
+                    {{ block "menu-link" . }}{{ end }}
+                  {{ end }}
+
+                  {{ with .GetPage "/eso" }}
+                    {{ block "menu-link" . }}{{ end }}
+                  {{ end }}
               </ul>
             </li>
             </li>
