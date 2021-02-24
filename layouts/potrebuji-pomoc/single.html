@@ -12,7 +12,7 @@
 
 
       {{ with index .Params "we-can" }}
-        <h2>Můžeme pomoci</h2>
+        <h2>{{ i18n "we-can-help" }}</h2>
 
         <ul class="_we-can">
           {{ range . }}
@@ -22,7 +22,7 @@
       {{ end }}
 
       {{ with .Params.examples }}
-        {{ partial "collapsible-open.html" (dict "id" "examples" "title" "Příklady řešených problémů" "open" true)}}
+        {{ partial "collapsible-open.html" (dict "id" "examples" "title" (i18n "case-examples") "open" true)}}
 
         {{ range . }}
           <blockquote>
@@ -34,9 +34,8 @@
 
       {{ end }}
 
-
       {{ with .Params.whenToContact }}
-        {{ partial "collapsible-open.html" (dict "id" "when" "title" "Obracíte se na ombudsmana ve správný čas?" "open" false)}}
+        {{ partial "collapsible-open.html" (dict "id" "when" "title" (i18n "right-time") "open" false)}}
 
         <ul>
         {{ range . }}
@@ -52,7 +51,7 @@
 
 
       {{ with index .Params "we-cannot" }}
-        <h2>Nemůžeme pomoci</h2>
+        <h2>{{ i18n "we-cannot-help" }}</h2>
 
         <ul class="_we-cannot">
           {{ range . }}

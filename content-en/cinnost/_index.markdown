@@ -1,3 +1,4 @@
 ---
-title: Činnost kanceláře ochránce
+title: Our work
+url: activities
 ---

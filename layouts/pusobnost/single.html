@@ -12,9 +12,11 @@
 
     	{{ .Content }}
 
+      {{ with .GetPage "/pusobnost/" }}
       <p class="_icon-info">
-        Podívejte se na <a href="/cinnost/">výstupy z naší činnosti</a> nebo si <a href="/eso/">vyhledejte naše zajímavé případy</a>.
+        {{ .Params.seeMore | markdownify }}
       </p>
+      {{ end }}
     </section>
 
     {{ partial "cta.html" . }}

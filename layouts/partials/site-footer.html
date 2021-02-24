@@ -76,7 +76,7 @@
     </div>
     <hr>
     <div class="bottom-line">
-      <p>&copy; {{ .Date.Format "2006" }} {{ i18n "kvop" }}</p>
+      <p>&copy; {{ now.Format "2006" }} {{ i18n "kvop" }}</p>
       <p class="a11y">
           {{ with .GetPage "/" }}
             {{ .Params.accessibility | markdownify }}

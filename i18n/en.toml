@@ -55,6 +55,12 @@ other = "We are accessible for all"
 [subject]
 other = "Subject"
 
+[right-time]
+other = "Is it the right time to address the Public Defender?"
+
+[case-examples]
+other = "Case examples"
+
 [area-of-law]
 other = "Area of law"
 

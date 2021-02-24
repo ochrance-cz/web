@@ -58,8 +58,14 @@ other = "Máme přístup pro všechny"
 [subject]
 other = "Věc"
 
+[right-time]
+other = "Obracíte se na ombudsmana ve správný čas?"
+
 [area-of-law]
 other = "Oblast práva"
+
+[case-examples]
+other = "Příklady řešených problémů"
 
 [form]
 other = "Forma zjištění"
