@@ -12,6 +12,7 @@ cta:
   btnLink: /potrebuji-pomoc/omezeni-na-svobode/
   btnText: Podejte podnět
 ---
+
 These places include not only prisons and police cells, but also facilities for children, retirement homes, facilities for people with disabilities, treatment facilities for long-term patients, psychiatric hospitals, infant care centres, facilities for detention of foreigners, etc.
 
 ### What is the national preventive mechanism?
@@ -43,3 +44,14 @@ We generalise our findings and recommendations concerning the conditions in a gi
 | Facilities for asylum seekers | 4         | 1    | 0    |      |
 | Social services facilities    | 129       | 6    | 14   | 3    |
 | Health-care facilities        | 56        | 6    | 4    | 5    |
+
+## Map of the facilities visited 
+
+- [Visits of facilities for asylum seekers](http://maps.google.cz/maps/ms?hl=cs&gl=cz&ie=UTF8&oe=UTF8&brcurrent=5,0,1&msa=0&msid=107066762010799711627.000489aea0f209bf58ab0&ll=49.632062,15.908203&spn=3.415766,7.03125&z=7&source=embed)
+- [Visits of long-term healthcare facilities](http://maps.google.cz/maps/ms?hl=cs&gl=cz&ie=UTF8&oe=UTF8&brcurrent=5,0,1&msa=0&msid=107066762010799711627.00048b58a9069b8a0d5bf&ll=49.688955,15.545654&spn=3.411777,7.03125&z=7&source=embed)
+- [Visits of police cells](http://maps.google.cz/maps/ms?hl=cs&gl=cz&ie=UTF8&oe=UTF8&brcurrent=5,0,1&msa=0&msid=107066762010799711627.0004899db2cc4ca400844&ll=49.809632,15.534668&spn=3.403304,7.03125&z=7&source=embed)
+- [Visits of psychiatric care facilities](http://maps.google.cz/maps/ms?hl=cs&gl=cz&ie=UTF8&oe=UTF8&brcurrent=5,0,1&msa=0&msid=107066762010799711627.00048a65788858dc7d347&ll=49.866317,15.578613&spn=3.399319,7.03125&z=7&source=embed)
+- [Visits of prisons and jails](http://maps.google.cz/maps/ms?hl=cs&gl=cz&ie=UTF8&oe=UTF8&brcurrent=5,0,1&msa=0&msid=107066762010799711627.000489ad27dc44603bda8&ll=50.205033,15.831299&spn=3.375437,7.03125&z=7&source=embed)
+- [Visits of social service facilities](http://maps.google.cz/maps/ms?hl=cs&gl=cz&ie=UTF8&oe=UTF8&brcurrent=5,0,1&msa=0&msid=107066762010799711627.00048b59bad07983f514e&ll=49.894634,15.446777&spn=3.397327,7.03125&z=7&source=embed)
+- [Visits of facilities for children](http://maps.google.cz/maps/ms?hl=cs&gl=cz&ie=UTF8&oe=UTF8&brcurrent=5,0,1&msa=0&msid=107066762010799711627.00048b58fc5a5c5849d70&ll=50.310392,15.809326&spn=3.367985,7.03125&z=7&source=embed)
+- [Visits of sobering-up cells](https://maps.google.cz/maps/ms?msa=0&msid=207229622776715058500.0004ef9c157f5c7282892&brcurrent=5,0,0&ie=UTF8&t=m&ll=49.745781,15.512695&spn=3.407789,7.03125&z=7&source=embed)

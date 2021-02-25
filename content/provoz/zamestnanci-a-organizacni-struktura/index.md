@@ -1,11 +1,11 @@
 ---
 title: Zaměstnanci a organizační struktura
-links:
+linksAfter:
   - text: Organizační schéma
     link: https://www.ochrance.cz/fileadmin/user_upload/Kancelar/Schema_KVOP-2020.pdf
 ---
 
-Organizační struktura Kanceláře veřejného ochránce práv (dále i jen „Kancelář“) je upravena [Organizačním řádem](https://www.ochrance.cz/kancelar-vop/statut/organizacni-rad/). V čele Kanceláře je vedoucí, který svou činnost vykonává podle pokynů veřejného ochránce práv.
+Organizační struktura Kanceláře veřejného ochránce práv (dále i jen „Kancelář“) je upravena [Organizačním řádem](/organizacni-rad/). V čele Kanceláře je vedoucí, který svou činnost vykonává podle pokynů veřejného ochránce práv.
 
 **Kancelář** se člení na tyto organizační útvary: Vedoucí Kanceláře, sekretariát veřejného ochránce práv a jeho zástupce, právní sekce, odbor administrativních a spisových služeb, odbor vnitřní správy a odbor péče o zaměstnance.
 

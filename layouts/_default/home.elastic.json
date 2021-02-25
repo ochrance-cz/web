@@ -3,10 +3,9 @@
 {{- range .Site.Pages -}}
   {{- if or (and (.IsDescendant $section) (and (not .Draft) (not .Params.private))) $section.IsHome -}}
     {{/* action / metadata */}}
-    {{ $id := delimit (shuffle (split (md5 .Permalink) "" )) "" }}
+    {{ $id := md5 .Permalink }}
     {{ with .File }}{{ $id = .UniqueID }}{{ end }}
     {{ (dict "index" (dict "_index" "hugo" "_type" "doc"  "_id" $id)) | jsonify }}
     {{ (dict "objectID" $id "date" .Date.UTC.Unix "description" .Description "expirydate" .ExpiryDate.UTC.Unix "fuzzywordcount" .FuzzyWordCount "keywords" .Keywords "kind" .Kind "lang" .Lang "lastmod" .Lastmod.UTC.Unix "permalink" .Permalink "publishdate" .PublishDate "readingtime" .ReadingTime "relpermalink" .RelPermalink "summary" .Summary "title" .Title "type" .Type "url" .Permalink "weight" .Weight "wordcount" .WordCount "section" .Section "tags" .Params.Tags "categories" .Params.Categories "authors" .Params.Authors) | jsonify }}
-    {{ with .File }} {{ (dict "dir" .Dir) }}{{ end }}
   {{- end -}}
 {{- end }}
