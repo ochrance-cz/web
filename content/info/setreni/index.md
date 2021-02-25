@@ -1,11 +1,11 @@
 ---
 title: Jak probíhá šetření?
 illustration: setreni.jpg
-hp: >-
-  Zjistěte, jak ombudsman postupuje, když dostane stížnost na úřad, na diskriminaci nebo jak provádí návštěvy v zařízení, kde jsou lidé omezeni na svobodě.
+hp: Zjistěte, jak ombudsman postupuje, když dostane stížnost na úřad, na
+  diskriminaci nebo jak provádí návštěvy v zařízení, kde jsou lidé omezeni na
+  svobodě.
 order: 1
 ---
-
 ## Posouzení a šetření
 
 Po přijetí podnětu k šetření následuje posouzení zda obsah stížnosti odpovídá působnosti ombudsmana.
@@ -50,6 +50,6 @@ Pokud úřad pochybení nenapravil, zpracuje ombudsman Závěrečné stanovisko,
 
 #### Sankce
 
-Jestliže chybující úřad stále odmítá přijmout navržená opatření k nápravě, přistupuje ombudsman k sancki: informuje nadřízení orgán chybujícího úřadu a žádá zjednání nápravy. Rovněž může celý případ medializovat včetně uvedené jmen chybujících úředníků.
+Jestliže chybující úřad stále odmítá přijmout navržená opatření k nápravě, přistupuje ombudsman k sancki: informuje nadřízení orgán chybujícího úřadu a žádá zjednání nápravy. Rovněž může celý případ medializovat včetně uvedení jmen chybujících úředníků.
 
 {{< /rozbal >}}
