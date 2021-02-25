@@ -34,17 +34,12 @@ We generalise our findings and recommendations concerning the conditions in a gi
 
 ## Types of facilities visited
 
-|                               |  2006—2016 | 2017 | 2018 | 2019 |
-| ----------------------------- | ---------- | ---- | ---- | ---- |
-| Prisons                       | 33         | 2    | 2    | 3    |
-| Police cells                  | 86         | 4    | 6    | 3    |
-| Facilities for children       | 64         | 3    | 1    | 9    |
-| Facilities for foreigners     | 15         | 0    | 0    | 1    |
-| Facilities for asylum seekers | 4          | 1    | 0    |      |
-| Social services facilities    | 129        | 6    | 14   | 3    |
-| Health-care facilities        | 56         | 6    | 4    | 5    |
-
-## Map of the facilities visited 
-
-TODO: Kde je na stávajícím webu?
-)
+|                               | 2006—2016 | 2017 | 2018 | 2019 |
+| ----------------------------- | --------- | ---- | ---- | ---- |
+| Prisons                       | 33        | 2    | 2    | 3    |
+| Police cells                  | 86        | 4    | 6    | 3    |
+| Facilities for children       | 64        | 3    | 1    | 9    |
+| Facilities for foreigners     | 15        | 0    | 0    | 1    |
+| Facilities for asylum seekers | 4         | 1    | 0    |      |
+| Social services facilities    | 129       | 6    | 14   | 3    |
+| Health-care facilities        | 56        | 6    | 4    | 5    |
