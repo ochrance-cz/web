@@ -4,6 +4,8 @@ title: GDPR a ochrana osobních údajů
 
 [Obecné nařízení o ochraně osobních údajů](https://eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX:32016R0679) nám ukládá informovat subjekty údajů, že Kancelář veřejného ochránce práv je správce osobních údajů.
 
+{{< youtube "9cpwDVL7BU0" >}}
+
 ## Čí osobní údaje, proč a jak zpracováváme?
 
 Zpracováváme, tj. shromažďujeme a uchováváme v papírové a elektronické podobě osobní údaje:
