@@ -1,5 +1,5 @@
 ---
-title: "Soud potvrdil kritiku postupu ministerstva u dotací \"Zelená úsporám\""
+title: "Soud potvrdil kritiku postupu ministerstva u dotací „Zelená úsporám”"
 oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2015/soud-potvrdil-kritiku-postupu-ministerstva-u-dotaci-zelena-usporam"
 date: 2015-05-06
 perex: "<p>Rozhodnutí Městského soudu v Praze potvrzuje závěry ochránce o nesprávném postupu ministerstva životního prostředí při zamítání žádostí o dotace „Zelená úsporám“.</p>"

@@ -1,0 +1,22 @@
+{{ define "main" }}
+<main>
+  {{ partial "pic-header.html" . }}
+
+  <section class="_news single-col">
+    {{ range (.Paginate (sort .Pages "Params.startDate" "desc") 20).Pages }}
+      <article class="_article-preview">
+
+        <p>{{ partial "date.html" (dict "date" (time .Params.startDate) "months" $.Site.Data.months) }}</p>
+        <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+
+
+        {{ with .Params.perex }}
+          {{ partial "md-block.html" . }}
+        {{ end }}
+      </article>
+    {{ end }}
+
+    {{ partial "pagination.html" . }}
+  </section>
+</main>
+{{ end }}
