@@ -24,10 +24,13 @@ jobs:
       - name: Build
         run: hugo
 
+      - name: Compress build
+        run: tar -zcvf build.tar.gz ./public
+
       - name: Publish
         uses: nogsantos/scp-deploy@master
         with:
-          src: ./public/*
+          src: ./build.tar.gz
           host: ${{ secrets.SSH_HOSTNAME }}
           remote: /home/ochrance/public_html
           port: ${{ secrets.SSH_PORT }}
