@@ -1,42 +1,18 @@
 ---
-title: Submit a complaint
-description: We will get back to you as soon as possible after receiving your submission (complaint or notice), but not later than within 30 days.
-descriptionInfoIcon: true
+title: "Submit a complaint "
+description: ""
 email:
-  - link: #
-    desc: Printable form (.pdf)
-  - link: #
-    desc: To fill in on a PC (.docx)
-  - link: #
-    desc: Text-to-speech plain text (.txt)
+  - desc: Download the form, fill it in and send it to podatelna@ochrance.cz
+      Instructions for filling in the form
 post:
-  - link: #
-    desc: Printable form (.pdf)
-  - link: #
-    desc: To fill in on a PC (.docx)
-  - link: #
-    desc: Text-to-speech plain text (.txt)
+  - desc: "Download the form, print it and send it filled out to the following
+      address: Office of the Public Defender of Rights Údolní 39 602 00 Brno
+      Instructions for filling in the form"
 inperson:
-  - link: #
-    desc: Printable form (.pdf)
-  - link: #
-    desc: To fill in on a PC (.docx)
-  - link: #
-    desc: Text-to-speech plain text (.txt)
-help: |
-  TODO Text nápovědy
+  - desc: "You can also download the form and bring it to us already filled out, or
+      bring a blank copy – we will help you to complete and submit it. Visit us
+      on any business day from 8 a.m. to 4 p.m. at: Office of the Public
+      Defender of Rights Údolní 39 602 00 Brno Deliveries in person"
 submission:
-  title: Jak napsat podnět ombudsmanovi
-  body: |
-    **Technické poznámky**
-
-    - Pokud podnět s přílohami zašlete poštou na technickém nosiči (CD ROM, Flash Disk), bude vám vrácen jen na výslovné požádání. Při osobním doručení vám nosič obratem vrátíme, pouze si zkopírujeme příslušné dokumenty do datového úložiště podatelny.
-    - Celková velikost příchozí zprávy zasílané e-mailem nebo pomocí interaktivního on-line formuláře je omezena na maximálně 20 MB. Zvažte tedy, jaké přílohy s podnětem zaslat a jestli není možné soubory zmenšit. Stejné pravidlo o maximální velikosti platí i pro dokumenty osobně předávané k nahrání na podatelně.
-  example-links:
-    - link: #
-      desc: Printable form (.pdf)
-    - link: #
-      desc: To fill in on a PC (.docx)
-    - link: #
-      desc: Text-to-speech plain text (.txt)
+  title: X
 ---
