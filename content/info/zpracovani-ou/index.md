@@ -1,4 +1,4 @@
 ---
 title: Podmínky zpracování osobních údajů
-draft: false
+draft: true
 ---
