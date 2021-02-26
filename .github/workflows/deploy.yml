@@ -25,7 +25,7 @@ jobs:
         run: hugo
 
       - name: Compress build
-        run: tar -zcvf build.tar.gz ./public
+        run: tar -zcf build.tar.gz ./public
 
       - name: Publish
         uses: nogsantos/scp-deploy@master
@@ -36,3 +36,13 @@ jobs:
           port: ${{ secrets.SSH_PORT }}
           user: ${{ secrets.SSH_USERNAME }}
           key: ${{ secrets.SSH_PRIVATE_KEY }}
+
+      - name: Unpack tar into place
+        uses: garygrossgarten/github-action-ssh@release
+        with:
+          command: |
+            cd /home/ochrance/public_html
+            tar -xf build.tar.gz -C ./test --strip-components=2
+          host: ${{ secrets.SSH_HOSTNAME }}
+          username: ${{ secrets.SSH_USERNAME }}
+          privateKey: ${{ secrets.SSH_PRIVATE_KEY }}
