@@ -6,25 +6,23 @@ email:
   - link: #
     desc: Pro vytištění (.pdf)
   - link: #
-    desc: Pro vyplnění v počítači (.word)
+    desc: Pro vyplnění v počítači (.doc)
   - link: #
     desc: Pro zobrazení čtečkou (.txt)
 post:
   - link: #
     desc: Pro vytištění (.pdf)
   - link: #
-    desc: Pro vyplnění v počítači (.word)
+    desc: Pro vyplnění v počítači (.doc)
   - link: #
     desc: Pro zobrazení čtečkou (.txt)
 inperson:
   - link: #
     desc: Pro vytištění (.pdf)
   - link: #
-    desc: Pro vyplnění v počítači (.word)
+    desc: Pro vyplnění v počítači (.doc)
   - link: #
     desc: Pro zobrazení čtečkou (.txt)
-help: |
-  TODO Text nápovědy
 submission:
   title: Jak napsat podnět ombudsmanovi
   body: |
@@ -36,7 +34,7 @@ submission:
     - link: #
       desc: Pro vytištění (.pdf)
     - link: #
-      desc: Pro vyplnění v počítači (.word)
+      desc: Pro vyplnění v počítači (.doc)
     - link: #
       desc: Pro zobrazení čtečkou (.txt)
 ---
