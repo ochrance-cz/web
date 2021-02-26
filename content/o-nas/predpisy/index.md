@@ -22,3 +22,7 @@ links:
 - [zákon č. 219/2000 Sb.](https://www.zakonyprolidi.cz/cs/2000-219), o majetku České republiky a jejím vystupování v právních vztazích, ve znění pozdějších předpisů
 
 - [zákon č. 563/1991 Sb.](https://www.zakonyprolidi.cz/cs/1991-563), o účetnictví, ve znění pozdějších předpisů
+
+## Další dokumenty
+
+- [Benátské principy](Benatske-principy.pdf) — principy ochrany a podpory ombudsmanských institucí ([český neoficiální překlad](Benatske-principy.pdf), [anglický originál](Venice-principles.pdf))

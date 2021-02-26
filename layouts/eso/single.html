@@ -12,47 +12,16 @@
 
     	{{ .Content }}
 
+
+
+      {{ if eq .Language.Lang "cs" }}
+        <h2>Jak používat ESO?</h2>
+        {{ partial "youtube.html" "lBpJjN13Q8E" }}
+      {{ end }}
+
       <p>
         <a class="_button" href="https://eso.ochrance.cz">Vstoupit do ESO</a>
       </p>
-
-      {{/* with .Params.eso }}
-        {{ $keys := . }}
-
-        {{ $data := getCSV "," "content/cinnost/eso/export.fixed.csv" }}
-        {{ range $data }}
-          {{ $id := index . 0 }}
-          {{ $area := index . 1 }}
-          {{ $title := index . 2 }}
-          {{ $titles := split $title ", " }}
-          {{ $form := index . 3 }}
-          {{ $date := index . 4 }}
-          {{ $summary := index . 5 }}
-
-          {{ $data := dict "id" $id "area" $area "title" $title "titles" $titles "form" $form "date" $date "summary" $summary }}
-
-          {{ if in $keys $form }}
-            <article class="_eso-preview">
-
-
-
-              {{ partial "eso-link.html" $data }}
-              <p>
-                {{ with $date }}{{ . }}<br>{{ end }}
-                {{ with $title }}<b>Věc</b>: {{ . }}<br>{{ end }}
-                {{ with $area }}<b>Oblast práva</b>: {{ . }}<br>{{ end }}
-                {{ with $form }}<b>Forma zjištění</b>: {{ . }}{{ end }}
-              </p>
-
-              {{ if ne $summary "" }}
-                <h3>Právní věty</h3>
-                {{ partial "md-block.html" (replaceRE "  +" "\n\n" $summary) }}
-              {{ end }}
-
-            </article>
-          {{ end }}
-        {{ end }}
-      {{ end */}}
     </section>
   </div>
 </main>

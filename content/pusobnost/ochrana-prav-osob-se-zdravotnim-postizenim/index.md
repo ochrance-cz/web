@@ -76,6 +76,4 @@ Za účelem sjednocení výkladu Úmluvy vydává Výbor [obecné komentáře](h
 
 {{< /rozbal >}}
 
-Zajímá vás, o čem jsme Výbor OSN informovali? Podívejte se sem (TODO odkaz na Vyjádření pro mezinárodní orgány)
-
 Naším cílem je posilovat přístupnost informací pro všechny bez rozdílu. Jako první a jediní v České republice jsme proto přeložili celou [Úmluvu OSN do znakového jazyka](/umluva/) a snažíme se zpřístupňovat informace [ve formě pro snadné čtení](mezinarodni_umluva_ETR.pdf).

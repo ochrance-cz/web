@@ -24,27 +24,31 @@
         </section>
       </div>
 
+      {{ with .Params.quote }}
       <section class="_full">
         <blockquote class="big-quote">
-          {{ partial "md-block.html" .Params.quote }}
+          {{ partial "md-block.html" . }}
         </blockquote>
       </section>
+      {{ end }}
 
-      <section>
-        <h2>{{ .Title }} má na starosti</h2>
+      {{ with .Params.areas }}
+        <section>
+          <h2>{{ $.Title }} {{ i18n "cares-about" }}</h2>
 
-        <ul>
-          {{ range .Params.areas }}
-            <li>
-              <strong>{{ .area }}</strong>
-              {{ with .desc }}
-                <br>
-                {{ . }}
-              {{ end }}
-            </li>
-          {{ end }}
-        </ul>
-      </section>
+          <ul>
+            {{ range . }}
+              <li>
+                <strong>{{ .area }}</strong>
+                {{ with .desc }}
+                  <br>
+                  {{ . }}
+                {{ end }}
+              </li>
+            {{ end }}
+          </ul>
+        </section>
+      {{ end }}
     {{ else }}
       <section>
         <div class="perex">
