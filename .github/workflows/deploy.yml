@@ -24,14 +24,12 @@ jobs:
       - name: Build
         run: hugo
 
-      - name: Deploy to server
-        id: deploy
-        uses: Pendect/action-rsyncer@v1.1.0
-        env:
-          DEPLOY_KEY: ${{secrets.SSH_PRIVATE_KEY}}
+      - name: Publish
+        uses: nogsantos/scp-deploy@master
         with:
-          flags: "-avzr --delete"
-          options: "--exclude uploads-import"
-          ssh_options: ""
-          src: "public/"
-          dest: "${{ secrets.SSH_USERNAME }}@${{ secrets.SSH_HOSTNAME }}:/home/ochrance/public_html"
+          src: ./public/*
+          host: ${{ secrets.SSH_HOSTNAME }}
+          remote: /home/ochrance/public_html
+          port: ${{ secrets.SSH_PORT }}
+          user: ${{ secrets.SSH_USERNAME }}
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
