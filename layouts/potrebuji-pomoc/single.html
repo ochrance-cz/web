@@ -65,11 +65,13 @@
       {{ end }}
     </section>
 
+    {{ with .GetPage "/podejte-stiznost" }}
     <div class="_backdrop cta">
       <section>
         <h2>{{ i18n "can-we-help" }}</h2>
-        <p><a href="/podejte-stiznost/" class="_button large">{{ i18n "submit-complaint" }}</a></p>
+        <p><a href="{{ .RelPermalink }}" class="_button large">{{ i18n "submit-complaint" }}</a></p>
       </section>
     </div>
+    {{ end }}
   </article>
 {{ end }}

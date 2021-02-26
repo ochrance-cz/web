@@ -13,6 +13,9 @@ other = "Potřebuji pomoc"
 [download-pdf]
 other = "Stáhnout PDF"
 
+[leaflets-intro]
+other = "Ombudsman pro vás připravil pomocné návody na řešení vašich životních situací."
+
 [claim]
 other = "Pomáháme bez&nbsp;rozdílu"
 
@@ -21,6 +24,12 @@ other = "Aktuálně"
 
 [more-news]
 other = "Další aktuality"
+
+[dl-form]
+other = "Stáhněte si formulář"
+
+[dl-example]
+other = "Stáhněte si příklad"
 
 [print]
 other = "Vytisknout"

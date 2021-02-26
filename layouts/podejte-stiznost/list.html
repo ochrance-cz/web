@@ -1,20 +1,58 @@
 {{ define "main" }}
 <main>
   {{ partial "text-header.html" . }}
-
+  {{ $link := cond (eq .Language.Lang "cs") "https://portal.ochrance.cz" "https://portal.ochrance.cz/Default/Show?lang=en"}}
   <section>
+  {{ if eq .Language.Lang "en" }}
+
     <h2>On-line</h2>
 
-    <p>Vyplňte formulář krok za krokem přímo na <a href="https://portal.ochrance.cz">portal.ochrance.cz</a></p>
+    <p>Fill in an interactive on-line form on our website <a href="{{ $link }}">portal.ochrance.cz</a></p>
 
-    <p><a href="https://portal.ochrance.cz" class="_button large">Podejte on-line</a></p>
+    <p><a href="{{ $link }}" class="_button large">Submit on-line</a></p>
+
+    <h2>By e-mail</h2>
+
+    <p>Download the form, fill it in and send it to
+    <strong><a href="mailto:podatelna@ochrance.cz">podatelna@ochrance.cz</a></strong></p>
+
+    {{ partial "download-collapsible.html" (dict "title" (i18n "dl-form") "items" .Params.email)}}
+
+    <h2>By mail</h2>
+
+    <p>Download the form, print it and send it filled out to the following address:</p>
+
+    <p>Office of the Public Defender of Rights<br>
+    Údolní 39<br>
+    602 00 Brno</p>
+
+    {{ partial "download-collapsible.html" (dict "title" (i18n "dl-form") "items" .Params.post)}}
+
+    {{/*<p><a href="#help">Instructions for filling in the form</a></p>*/}}
+
+    <h2>In person (only in our office in Brno)</h2>
+
+    <p>You can also download the form and bring it to us already filled out, or bring a blank copy – we will help you to complete and submit it. Visit us on any business day from 8 a.m. to 4 p.m. at:</p>
+
+    <p>Office of the Public Defender of Rights<br>
+      Údolní 39<br>
+      602 00 Brno<br>
+      Osobní příjem</p>
+
+    {{ partial "download-collapsible.html" (dict "title" (i18n "dl-form") "items" .Params.inperson)}}
+  {{ else }}
+    <h2>On-line</h2>
+
+    <p>Vyplňte formulář krok za krokem přímo na <a href="{{ $link }}">portal.ochrance.cz</a></p>
+
+    <p><a href="{{ $link }}" class="_button large">Podejte on-line</a></p>
 
     <h2>E-mailem</h2>
 
     <p>Stáhněte formulář, vytiskněte, vyplňte a pošlete:
     <strong><a href="mailto:podatelna@ochrance.cz">podatelna@ochrance.cz</a></strong></p>
 
-    {{ partial "download-collapsible.html" (dict "title" "Stáhněte si formulář" "items" .Params.email)}}
+    {{ partial "download-collapsible.html" (dict "title" (i18n "dl-form") "items" .Params.email)}}
 
     <h2>Poštou</h2>
 
@@ -24,7 +62,7 @@
       Údolní 39<br>
       602 00 Brno</p>
 
-    {{ partial "download-collapsible.html" (dict "title" "Stáhněte si formulář" "items" .Params.post)}}
+    {{ partial "download-collapsible.html" (dict "title" (i18n "dl-form") "items" .Params.post)}}
 
     <p><a href="#help">Nápověda pro vyplnění</a></p>
 
@@ -39,26 +77,25 @@
 
     <p>Vyplněný podnět doneste na podatelnu</p>
 
-    {{ partial "download-collapsible.html" (dict "title" "Stáhněte si formulář" "items" .Params.inperson)}}
+    {{ partial "download-collapsible.html" (dict "title" (i18n "dl-form") "items" .Params.inperson)}}
 
     <h2>Podání podnětu bez bariér</h2>
 
     <p>Potřebujete podat podnět v Braillově písmu, v českém znakovém jazyce nebo se dozvědět víc o přístupnosti budovy Kanceláře veřejného ochránce práv?</p>
 
     <p class="_button--wrapper">
-      {{ with .GetPage "/podejte-stiznost/braille" }}
+      {{ with .GetPage "podejte-stiznost/braille" }}
         <a href="{{ .RelPermalink }}" class="_button">V braillově písmu</a>
       {{ end }}
 
-      {{ with .GetPage "/podejte-stiznost/czj" }}
+      {{ with .GetPage "podejte-stiznost/czj" }}
         <a href="{{ .RelPermalink }}" class="_button">V českém znakovém jazyce</a>
       {{ end }}
 
-      {{ with .GetPage "/pristupnost" }}
+      {{ with .GetPage "pristupnost" }}
         <a href="{{ .RelPermalink }}" class="_button">Přístup bez bariér</a>
       {{ end }}
     </p>
-
     <hr>
     <div id="help">
       <h2 id="help" class="_icon-info">
@@ -67,8 +104,9 @@
 
       {{ partial "md-block.html" .Params.submission.body }}
 
-      {{ partial "download-collapsible.html" (dict "title" "Stáhněte si příklad" "items" (index .Params.submission "example-links"))}}
+      {{ partial "download-collapsible.html" (dict "title" (i18n "dl-example") "items" (index .Params.submission "example-links"))}}
     </div>
+  {{ end }}
   </section>
 
   {{ partial "cta-contact.html" . }}
