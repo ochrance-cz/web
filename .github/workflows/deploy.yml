@@ -25,12 +25,12 @@ jobs:
         run: hugo
 
       - name: Deploy via rsync
-        uses: trendyminds/github-actions-rsync@master
-        with:
-          RSYNC_OPTIONS: -avzr --delete --exclude 'uploads-import'
-          RSYNC_TARGET: /home/ochrance/public_html
-          RSYNC_SOURCE: /public/
+        uses: AEnterprise/rsync-deploy@v1.0
         env:
-          SSH_PRIVATE_KEY: ${{secrets.SSH_PRIVATE_KEY}}
-          SSH_USERNAME: ${{secrets.SSH_USERNAME}}
-          SSH_HOSTNAME: ${{secrets.SSH_HOSTNAME}}
+          DEPLOY_KEY: ${{secrets.SSH_PRIVATE_KEY}}
+          ARGS: "-avzr --delete --exclude 'uploads-import'"
+          SERVER_PORT: ${{ secrets.SSH_PORT }}
+          FOLDER: "./public/"
+          SERVER_IP: ${{ secrets.SSH_HOSTNAME }}
+          USERNAME: ${{ secrets.SSH_USERNAME }}
+          SERVER_DESTINATION: /home/ochrance/public_html
