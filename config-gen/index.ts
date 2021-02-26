@@ -182,6 +182,15 @@ const stranky = files("Stránky", "stranky", [
       media_folder: "",
     }
   ),
+  fileCollection(
+    "Výstupy",
+    "output",
+    "content/vystupy/_index.markdown",
+    [title("Titulek"), markdown("Podtitul na homepage", "hp")],
+    {
+      media_folder: "",
+    }
+  ),
   fileCollection("Newsletter", "newsletter", "content/newsletter.md", [
     title("Titulek"),
     boolean("Uložit jako draft", "draft"),

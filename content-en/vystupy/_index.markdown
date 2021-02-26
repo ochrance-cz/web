@@ -2,6 +2,6 @@
 title: Public Defender’s publications
 illustration: vystupy.jpg
 hp: |
-  Zprávy pro Poslaneckou sněmovnu, výzkumy a doporučení, zprávy z návštěv zařízení, připomínky k zákonům, vyjádření pro vládu aj. Nejdůležitější výstupy najdete na jednom místě.
+  Reports for the Chamber of Deputies of Parliament, research and recommendations, reports from visits to facilities etc. The most important publications in one place.
 order: 2
 ---
