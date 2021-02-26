@@ -11,4 +11,6 @@ links:
     link: /pristupnost/budova/
   - text: Prohlášení o přístupnosti webu ochrance.cz
     link: /pristupnost/prohlaseni/
+  - text: Úmluva o právech osob se zdravotním postižením v českém znakovém jazyce
+    link: /umluva/
 ---

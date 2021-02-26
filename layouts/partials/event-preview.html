@@ -1,0 +1,9 @@
+<article class="_event-preview single-col">
+  <p class="date">{{ partial "date.html" (dict "date" (time .Params.startDate) "months" $.Site.Data.months) }}</p>
+  <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+
+
+  {{ with .Params.perex }}
+    {{ partial "md-block.html" . }}
+  {{ end }}
+</article>

@@ -3,6 +3,10 @@
   {{ partial "text-header.html" . }}
 
   <section>
+    <div class="perex">
+      {{ partial "md-block.html" .Params.perex }}
+    </div>
+
     {{ $.Content }}
 
     <ul class="_link-list">

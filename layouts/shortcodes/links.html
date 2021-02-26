@@ -1,0 +1,6 @@
+<ul class="_link-list">
+  <li><a href="{{ .Get 0 }}">{{ .Get 1 }}</a>
+  {{ with .Get 2 }}
+    <li><a href="{{ . }}">{{ $.Get 3  }}</a>
+  {{ end }}
+</ul>

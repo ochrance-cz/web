@@ -16,7 +16,7 @@ Za tímto účelem provádíme výzkumy, šetření a vypracováváme doporučen
 Naše činnost vychází z poznatků z praxe. Ombudsman má poradní orgán složený z lidí s postižením nebo lidí hájících práva lidí s postižením. Úkolem poradního orgánu je získávat podněty poukazující na systémové problémy, pomáhat při stanovování priorit a doporučení, stanovovat témata, kterým je třeba se v oblasti práv osob s postižením věnovat. Poradní orgán také zajišťuje informovanost lidí s postižením o činnosti ombudsmana.
 
 {{< rozbal "Poradní orgán" >}}
-Za účelem zapojení lidí s postižením do sledování naplňování Úmluvy na vnitrostátní úrovni zřizuje ombudsman Poradní orgán.
+Za účelem zapojení lidí s postižením do sledování naplňování [Úmluvy](/umluva/) na vnitrostátní úrovni zřizuje ombudsman Poradní orgán.
 
 Poradní orgán
 
@@ -34,7 +34,7 @@ Výbor OSN pro práva osob se zdravotním postižením pravidelně vyhodnocuje s
 Výboru zasíláme monitorovací zprávu o plnění Úmluvy o právech osob se zdravotním postižením, která nejen mapuje současný stav pohledem ombudsmana, ale současně reaguje na zprávu České republiky. Vedle toho vypracováváme také seznam otázek. Tyto otázky může Výbor použít při sestavování vlastního tzv. List of Issues (seznam otázek), který by měla Česká republika zodpovědět.
 
 {{< rozbal "Výbor OSN pro práva osob se zdravotním postižením" >}}
-Výbor OSN pro práva osob se zdravotním postižením (dále jen Výbor) byl zřízen Úmluvou pro účely **monitorování jejího naplňování** .
+Výbor OSN pro práva osob se zdravotním postižením (dále jen Výbor) byl zřízen Úmluvou pro účely **monitorování jejího naplňování**.
 
 Má **[18 členů](https://www.ohchr.org/EN/HRBodies/CRPD/Pages/Membership.aspx)** , volí je smluvní státy Úmluvy. Úmluva vyžaduje, aby se jednalo o osoby s výraznými morálními kvalitami a současně odborníky v oblastech, na které se vztahuje. Smluvní státy by měly dbát také na spravedlivé zastoupení mužů a žen ze všech částí světa.
 
@@ -77,3 +77,15 @@ Za účelem sjednocení výkladu Úmluvy vydává Výbor [obecné komentáře](h
 {{< /rozbal >}}
 
 Naším cílem je posilovat přístupnost informací pro všechny bez rozdílu. Jako první a jediní v České republice jsme proto přeložili celou [Úmluvu OSN do znakového jazyka](/umluva/) a snažíme se zpřístupňovat informace [ve formě pro snadné čtení](mezinarodni_umluva_ETR.pdf).
+
+## Proč ombudsman monitoruje Úmluvu o právech osob se zdravotním postižením?
+
+{{< youtube SqEBVMuk24I >}}
+
+## Právo na spravedlivé a uspokojivé pracovní podmínky mají všichni bez rozdílu
+
+{{< youtube uFDJPE4IGMI >}}
+
+## Lidé se zdravotním postižením mají zaručenu právní způsobilost ve všech oblastech života
+
+{{< youtube Cc13KuBIPto >}}

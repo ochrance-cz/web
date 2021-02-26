@@ -1,0 +1,30 @@
+._event-preview {
+  margin-bottom: 2rem;
+
+  .date {
+    margin: 0;
+  }
+
+  h3 {
+    margin: 0.5rem 0;
+  }
+}
+
+._events.single-col {
+  ._event-preview {
+    padding-bottom: 1rem;
+    border-bottom: 1px solid $border-gray;
+
+    &:last-child {
+      border-bottom: none;
+    }
+  }
+}
+
+._events.two-col {
+  margin: 3rem auto;
+
+  ._event-preview {
+    @include grid(1fr 1fr);
+  }
+}
