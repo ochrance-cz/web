@@ -16,9 +16,9 @@
   <div {{ with .Params.contentBackdrop }} class="{{ . }}"{{ end }}>
     <section>
       {{ with .GetPage "/info106" }}
-        <ul class="_link-list">
+        <ul class="_horizontal-list">
           {{ range (sort .Pages ".File.Path" "desc") }}
-              <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+              <li><a href="{{ .RelPermalink }}" {{ if eq .RelPermalink $.RelPermalink }}class="selected"{{ end }}>{{ .Title }}</a></li>
           {{ end }}
         </ul>
       {{ end }}

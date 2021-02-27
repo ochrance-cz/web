@@ -2,6 +2,10 @@ ErrorDocument 400 /err/400/index.html
 ErrorDocument 404 /err/404/index.html
 ErrorDocument 500 /err/500/index.html
 
+RewriteEngine On
+RewriteBase /
+RewriteRule ^dalsi-aktivity/archiv-vzdelavacich-akci.*$ /vzdelavaci-akce/? [R=301,L]
+
 {{ range .Site.AllPages -}}
 {{ $link := .RelPermalink }}
 {{- with .Params.oldUrl }}

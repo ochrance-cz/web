@@ -1,0 +1,29 @@
+._horizontal-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(3rem, 1fr));
+  padding: 0;
+  border-bottom: 1px solid $green;
+
+  li {
+    display: block;
+    list-style-type: none;
+    margin: 0;
+    text-align: center;
+  }
+
+  a {
+    display: block;
+    padding: 1rem 0;
+    text-decoration: none;
+    color: $green;
+  }
+
+  .selected {
+    color: $white;
+    background: $green;
+  }
+}
+
+main section:first-child > ._horizontal-list {
+  margin-top: -3rem;
+}
