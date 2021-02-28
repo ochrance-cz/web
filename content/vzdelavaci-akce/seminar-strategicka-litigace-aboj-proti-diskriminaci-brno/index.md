@@ -5,7 +5,7 @@ startDate: 2017-11-13
 ---
 
 <p><strong></strong></p><h4 class="vinova oranzova"><u>I. Odkaz na finální program semináře:</u></h4>
-<p class="vinova oranzova"></p><ul><li><strong><a href="https://www.ochrance.cz/fileadmin/user_upload/projekt_ESF/01_01_MIMOPROJEKTOVE/11_13_PPO/11_13_Strategicka_litigace_a_boj_proti_diskriminaci_program.pdf" target="_blank">PROGRAM</a> (518.5 kB, Adobe Acrobat dokument)</strong></li></ul><p><strong></strong></p>
+<p class="vinova oranzova"></p><ul><li><strong><a href="https://www.ochrance.cz/uploads-import/projekt_ESF/01_01_MIMOPROJEKTOVE/11_13_PPO/11_13_Strategicka_litigace_a_boj_proti_diskriminaci_program.pdf" target="_blank">PROGRAM</a> (518.5 kB, Adobe Acrobat dokument)</strong></li></ul><p><strong></strong></p>
 <p></p><h4 class="vinova oranzova"><u>II. Odkazy na videozáznamy ze semináře:</u> </h4>
 <p class="vinova oranzova"></p><ul><li><a href="http://ochrance.livebox.cz/VoD/20171121-130227-part0-dshlri.html"><strong>Úvodní slovo</strong></a></li></ul><p><em>   Anna Šabatová, veřejná ochránkyně práv</em></p>
 <p><em></em></p><ul><li><a href="http://ochrance.livebox.cz/VoD/20171121-133722-part0-yerfss.html"><strong>Úvodní přednáška</strong></a></li></ul><p>   <em>James Goldston, výkonný ředitel Open Society Justice Initiative</em></p>

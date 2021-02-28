@@ -297,7 +297,7 @@ zákon č. 563/1991 Sb., o účetnictví, ve znění pozdějších předpis�
 
 Kancelář veřejného ochránce práv nevydává žádné vlastní právní předpisy.
 
-# [Přehled účelů zpracování osobních údajů ](https://www.ochrance.cz/fileadmin/user_upload/Kancelar/Info_dle_101.pdf)
+# [Přehled účelů zpracování osobních údajů ](https://www.ochrance.cz/uploads-import/Kancelar/Info_dle_101.pdf)
 
 ## Úhrady za poskytování informací
 

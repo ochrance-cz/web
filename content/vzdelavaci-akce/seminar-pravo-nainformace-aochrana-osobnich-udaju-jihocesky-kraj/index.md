@@ -13,4 +13,4 @@ startDate: 2019-10-24
 <p style="line-height: 17.92px; font-size: 12.8px;">   - zneužití práva na informace</p>
 <p style="line-height: 17.92px; font-size: 12.8px;"></p>
 <p style="line-height: 17.92px; font-size: 12.8px;"></p>
-<p style="line-height: 17.92px; font-size: 12.8px;"><span style="font-size: 12.8px;">POZVÁNKA S PROGRAMEM <a href="https://www.ochrance.cz/fileadmin/user_upload/projekt_ESF/00_2019_VA/SEMINARE/10_24_Pravo_na_informace_CB/10_24_Pravo_na_informace_a_ochrana_osobnich_udaju_POZVANKA.pdf" target="_blank">ZDE</a> (386.4 kB, Adobe Acrobat dokument)</span></p>
+<p style="line-height: 17.92px; font-size: 12.8px;"><span style="font-size: 12.8px;">POZVÁNKA S PROGRAMEM <a href="https://www.ochrance.cz/uploads-import/projekt_ESF/00_2019_VA/SEMINARE/10_24_Pravo_na_informace_CB/10_24_Pravo_na_informace_a_ochrana_osobnich_udaju_POZVANKA.pdf" target="_blank">ZDE</a> (386.4 kB, Adobe Acrobat dokument)</span></p>

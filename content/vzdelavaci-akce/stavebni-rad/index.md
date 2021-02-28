@@ -52,4 +52,4 @@ perex: |
 <p>14:50 – 15:15</p>
 <p><strong>Diskuse na téma: Problémy nové právní úpravy, možnost či nutnost novelizace</strong></p>
 <p>15:15 Ukončení konference</p>
-<p><strong><a href="https://www.ochrance.cz/fileadmin/user_upload/Publikace/Stavebni_rad_konference.pdf" target="_blank">Sborník z konference</a> (887.2 kB, Adobe Acrobat dokument)</strong></p>
+<p><strong><a href="https://www.ochrance.cz/uploads-import/Publikace/Stavebni_rad_konference.pdf" target="_blank">Sborník z konference</a> (887.2 kB, Adobe Acrobat dokument)</strong></p>

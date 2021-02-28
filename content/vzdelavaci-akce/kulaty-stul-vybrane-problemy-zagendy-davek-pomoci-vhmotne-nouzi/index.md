@@ -18,4 +18,4 @@ a majetkovým poměrům</span></p>
 <p><span style="background-color: initial; font-size: 12.8px;">   - sociální poradenství sociálně zranitelným skupinám</span></p>
 <p></p>
 <p></p>
-<p style="line-height: 17.92px; font-size: 12.8px;"><span style="font-size: 12.8px;">POZVÁNKA S PROGRAMEM </span><a href="https://www.ochrance.cz/fileadmin/user_upload/projekt_ESF/00_2019_VA/KULATE_STOLY/04_11_Vybrane_problemy_z_agendy_davek_pomoci_v_hmotne_nouzi/04_11_Vybrane_problemy_z_agendy_davek_pomoci_v_hmotne_nouzi_POZVANKA.pdf" style="font-size: 12.8px;">ZDE</a><span style="font-size: 12.8px;">.</span></p>
+<p style="line-height: 17.92px; font-size: 12.8px;"><span style="font-size: 12.8px;">POZVÁNKA S PROGRAMEM </span><a href="https://www.ochrance.cz/uploads-import/projekt_ESF/00_2019_VA/KULATE_STOLY/04_11_Vybrane_problemy_z_agendy_davek_pomoci_v_hmotne_nouzi/04_11_Vybrane_problemy_z_agendy_davek_pomoci_v_hmotne_nouzi_POZVANKA.pdf" style="font-size: 12.8px;">ZDE</a><span style="font-size: 12.8px;">.</span></p>

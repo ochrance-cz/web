@@ -6,7 +6,7 @@ startDate: 2019-11-01
 
 <p class="align-blok">V letošním roce si připomínáme desáté výročí ratifikace Úmluvy o právech osob se zdravotním postižením Českou republikou.</p>
 <p class="align-bottom align-blok">Prostředkem ke společnému zamyšlení nad tím, jak Úmluva proměnila život lidí s postižením v České republice, i nad tím, co je ještě zapotřebí k naplnění práv lidí s postižením v oblasti přístupnosti veřejné správy, výrobků a služeb nebo práce a zaměstnání na běžném trhu práce, byla konference konaná dne 1. listopadu 2019 v Brně.</p>
-<p class="align-bottom align-blok">CELÝ PROGRAM KONFERENCE NALEZNETE <a href="https://www.ochrance.cz/fileadmin/user_upload/projekt_ESF/00_2019_VA/SYMPOSIA_KONFERENCE_VELEAKCE/11_01_Deset_let_s_Umluvou/ARCHIV/11_01_Deset_let_s_Umluvou_o_pravech_osob_se_zdravotnim_postizenim_PROGRAM.pdf" target="_blank">ZDE</a> (464.6 kB, Adobe Acrobat dokument)</p>
+<p class="align-bottom align-blok">CELÝ PROGRAM KONFERENCE NALEZNETE <a href="https://www.ochrance.cz/uploads-import/projekt_ESF/00_2019_VA/SYMPOSIA_KONFERENCE_VELEAKCE/11_01_Deset_let_s_Umluvou/ARCHIV/11_01_Deset_let_s_Umluvou_o_pravech_osob_se_zdravotnim_postizenim_PROGRAM.pdf" target="_blank">ZDE</a> (464.6 kB, Adobe Acrobat dokument)</p>
 <p class="align-bottom align-blok"> </p><h4 class="align-bottom align-blok">Úvodní slovo</h4>
 <p class="align-bottom align-blok"><strong>Anna Šabatová</strong>, veřejná ochránkyně práv</p>
 <p class="align-bottom align-blok"> </p>

@@ -25,4 +25,4 @@ perex: |
 <p>Miloslav Čermák, náměstek hejtmana pro oblast sociálních věcí, Karlovarský kraj</p>
 <p>Petr Zmuda, Dětský domov Karlovy Vary a Ostrov </p>
 <p>Patrik Matoušů, Výchovný ústav Klíčov</p>
-<p><a href="https://www.ochrance.cz/fileadmin/user_upload/Publikace/Pece_o_ohrozene_deti.pdf" target="_blank">PŘÍSPĚVKY Z KONFERENCE</a> (833.6 kB, Adobe Acrobat dokument)</p>
+<p><a href="https://www.ochrance.cz/uploads-import/Publikace/Pece_o_ohrozene_deti.pdf" target="_blank">PŘÍSPĚVKY Z KONFERENCE</a> (833.6 kB, Adobe Acrobat dokument)</p>

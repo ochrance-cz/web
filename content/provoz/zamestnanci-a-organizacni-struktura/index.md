@@ -2,7 +2,7 @@
 title: Zaměstnanci a organizační struktura
 linksAfter:
   - text: Organizační schéma
-    link: https://www.ochrance.cz/fileadmin/user_upload/Kancelar/Schema_KVOP-2020.pdf
+    link: https://www.ochrance.cz/uploads-import/Kancelar/Schema_KVOP-2020.pdf
 ---
 
 Organizační struktura Kanceláře veřejného ochránce práv (dále i jen „Kancelář“) je upravena [Organizačním řádem](/organizacni-rad/). V čele Kanceláře je vedoucí, který svou činnost vykonává podle pokynů veřejného ochránce práv.

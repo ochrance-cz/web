@@ -17,7 +17,7 @@ ve věci vyslovení přípustnosti převzetí nebo držení ve zdravotním
 že osoby jsou na záchytnou stanici umisťovány nejdéle na 24 hodin,
 a to je také maximální doba, v níž musí zařízení vyrozumět soud, lze
 dovodit, že záchytné stanice nemají povinnost oznamovat soudu umístění osob
-na stanici. (blíže viz kapitola 5.4 <a href="http://www.ochrance.cz/fileadmin/user_upload/ochrana_osob/ZARIZENI/Zdravotnicka_zarizeni/Zachytne-stanice-2014.pdf" target="_blank">souhrnné zprávy</a>.</p><p class="MsoNormal"><span style="line-height: 17.92px; font-size: 12.8px;">Na základě znepokojivých informací od místopředsedy
+na stanici. (blíže viz kapitola 5.4 <a href="http://www.ochrance.cz/uploads-import/ochrana_osob/ZARIZENI/Zdravotnicka_zarizeni/Zachytne-stanice-2014.pdf" target="_blank">souhrnné zprávy</a>.</p><p class="MsoNormal"><span style="line-height: 17.92px; font-size: 12.8px;">Na základě znepokojivých informací od místopředsedy
 okresního soudu, v jehož obvodě se nachází protialkoholní záchytná
 stanice, vyplynula konkrétní obava, že dochází k odklonu od dosavadní praxe
 neohlašovat příslušným soudům nedobrovolná umístění v protialkoholních

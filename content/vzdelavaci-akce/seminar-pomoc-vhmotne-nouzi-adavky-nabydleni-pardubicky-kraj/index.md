@@ -28,4 +28,4 @@ startDate: 2019-06-17
 <p style="line-height: 17.92px; font-size: 12.8px;">   - řešení případových studií</p>
 <p style="line-height: 17.92px; font-size: 12.8px;">   - judikatura správních soudů</p>
 <p style="line-height: 17.92px; font-size: 12.8px;"></p>
-<p style="line-height: 17.92px; font-size: 12.8px;"><span style="font-size: 12.8px;">POZVÁNKA S PROGRAMEM <a href="https://www.ochrance.cz/fileadmin/user_upload/projekt_ESF/00_2019_VA/SEMINARE/06_17_Pomoc_v_hmotne_nouzi_a_davky_na_bydleni__Pardubice_/06_17_Pomoc_v_hmotne_nouzi_a_davky_na_bydleni_POZVANKA.pdf" target="_blank">ZDE</a> (389.7 kB, Adobe Acrobat dokument)</span></p>
+<p style="line-height: 17.92px; font-size: 12.8px;"><span style="font-size: 12.8px;">POZVÁNKA S PROGRAMEM <a href="https://www.ochrance.cz/uploads-import/projekt_ESF/00_2019_VA/SEMINARE/06_17_Pomoc_v_hmotne_nouzi_a_davky_na_bydleni__Pardubice_/06_17_Pomoc_v_hmotne_nouzi_a_davky_na_bydleni_POZVANKA.pdf" target="_blank">ZDE</a> (389.7 kB, Adobe Acrobat dokument)</span></p>

@@ -14,4 +14,4 @@ startDate: 2019-12-04
 <p class="align-blok">   – judikatura</p>
 <p class="align-blok">   – případy ochránce</p>
 <p class="align-blok"> </p>
-<p class="align-blok"><span style="font-size: 12.8px; text-align: left;">POZVÁNKA S PROGRAMEM <a href="https://www.ochrance.cz/fileadmin/user_upload/projekt_ESF/00_2019_VA/SEMINARE/12_04_Mistni_poplatky_Usti/12_04_Sprava_mistnich_poplatku_POZVANKA.pdf" target="_blank">ZDE</a> (387 kB, Adobe Acrobat dokument)</span></p>
+<p class="align-blok"><span style="font-size: 12.8px; text-align: left;">POZVÁNKA S PROGRAMEM <a href="https://www.ochrance.cz/uploads-import/projekt_ESF/00_2019_VA/SEMINARE/12_04_Mistni_poplatky_Usti/12_04_Sprava_mistnich_poplatku_POZVANKA.pdf" target="_blank">ZDE</a> (387 kB, Adobe Acrobat dokument)</span></p>

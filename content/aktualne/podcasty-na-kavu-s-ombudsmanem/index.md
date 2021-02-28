@@ -1,10 +1,10 @@
 ---
 title: "Podcasty Na kávu s ombudsmanem"
 tags:
-  - Tisková zpráva
+  - Podcast
 oldUrl: "/aktualne/tiskove-zpravy-2020/podcasty-na-kavu-s-ombudsmanem"
 date: 2020-10-07
-perex: "<p></p><p>Ombudsman připravuje seriál podcastů s názvem Na kávu s ombudsmanem, v nichž bude zodpovídat dotazy lidí a vysvětlovat problémy v oblastech, kterými se zabývá. Úvodní díly budou věnovány důchodům – starobním, invalidním i pozůstalostním. Lidé mohou dotazy nebo problémy z oblasti důchodů, které je zajímají, zasílat do konce října na e-mailovou adresu <a href=\"mailto:podcasty@ochrance.cz\">podcasty@ochrance.cz</a>.</p>"
+perex: '<p></p><p>Ombudsman připravuje seriál podcastů s názvem Na kávu s ombudsmanem, v nichž bude zodpovídat dotazy lidí a vysvětlovat problémy v oblastech, kterými se zabývá. Úvodní díly budou věnovány důchodům – starobním, invalidním i pozůstalostním. Lidé mohou dotazy nebo problémy z oblasti důchodů, které je zajímají, zasílat do konce října na e-mailovou adresu <a href="mailto:podcasty@ochrance.cz">podcasty@ochrance.cz</a>.</p>'
 ---
 
 <!-- imported from the old website -->

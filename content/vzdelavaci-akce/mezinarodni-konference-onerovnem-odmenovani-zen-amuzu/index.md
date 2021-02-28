@@ -8,5 +8,5 @@ perex: |
 
 <p>style="line-height: 17.92px; font-size: 12.8px;">Na akci vystoupí řada zahraničních i českých expertů a expertek. Problému se dotknou z pohledu práva, zaměstnavatelů i jiných sociálních partnerů a představí možnosti řešení včetně příkladů dobré praxe. </p>
 <p style="line-height: 17.92px; font-size: 12.8px;"><span style="line-height: 17.92px; font-size: 12.8px;">Tlumočení i občerstvení zajištěno.</span></p>
-<p style="line-height: 17.92px; font-size: 12.8px;"><span style="line-height: 17.92px; font-size: 12.8px;"><a href="https://www.ochrance.cz/fileadmin/user_upload/Konference/Konference_2016/nerovne-odmenovani-CZ.pdf" target="_blank">Program konference</a> (179.9 kB, Adobe Acrobat dokument)</span></p>
+<p style="line-height: 17.92px; font-size: 12.8px;"><span style="line-height: 17.92px; font-size: 12.8px;"><a href="https://www.ochrance.cz/uploads-import/Konference/Konference_2016/nerovne-odmenovani-CZ.pdf" target="_blank">Program konference</a> (179.9 kB, Adobe Acrobat dokument)</span></p>
 <p style="line-height: 17.92px; font-size: 12.8px;"><img src="https://www.ochrance.cz/uploads/RTEmagicC_odmenovani-prog.jpg.jpg" width="627" height="1050" alt="" /></p>

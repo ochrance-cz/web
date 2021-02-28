@@ -31,4 +31,4 @@ startDate: 2019-03-18
 <p style="line-height: 17.92px; font-size: 12.8px;">   - rehabilitace, aktivizace pacientů</p>
 <p style="line-height: 17.92px; font-size: 12.8px;">   - péče o umírající, paliativní péče</p>
 <p style="line-height: 17.92px; font-size: 12.8px;"></p>
-<p style="line-height: 17.92px; font-size: 12.8px;">OFICIÁLNÍ POZVÁNKA S PROGRAMEM <a href="https://www.ochrance.cz/fileadmin/user_upload/projekt_ESF/00_2019_VA/SEMINARE/03_18_Poznatky_ze_systematickych_navstev_LDN__Brno_/03_18_Poznatky_ze_systematickych_navstev_LDN_POZVANKA.pdf" target="_blank">ZDE</a> (388.6 kB, Adobe Acrobat dokument)</p>
+<p style="line-height: 17.92px; font-size: 12.8px;">OFICIÁLNÍ POZVÁNKA S PROGRAMEM <a href="https://www.ochrance.cz/uploads-import/projekt_ESF/00_2019_VA/SEMINARE/03_18_Poznatky_ze_systematickych_navstev_LDN__Brno_/03_18_Poznatky_ze_systematickych_navstev_LDN_POZVANKA.pdf" target="_blank">ZDE</a> (388.6 kB, Adobe Acrobat dokument)</p>

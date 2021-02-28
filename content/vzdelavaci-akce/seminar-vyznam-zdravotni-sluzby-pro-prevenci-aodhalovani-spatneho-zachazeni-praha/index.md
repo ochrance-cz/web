@@ -17,4 +17,4 @@ startDate: 2019-02-05
 <p>   - Praktická stránka zjišťování a vyšetřování případů v prostředí detence</p>
 <p>   - Jsou nezbytné legislativní změny?</p>
 <p></p>
-<p><span style="font-size: 12.8px;">Související pozvánka včetně programu je dostupná </span><a href="https://www.ochrance.cz/fileadmin/user_upload/projekt_ESF/00_2019_VA/SEMINARE/02_05_Vyznam_zdravotni_sluzby/02_05_Vyznam_zdravotni_sluzby_pro_prevenci_a_odhalovani_spatneho_zachazeni_POZVANKA.pdf" style="font-size: 12.8px;">ZDE</a><span style="font-size: 12.8px;">.</span></p>
+<p><span style="font-size: 12.8px;">Související pozvánka včetně programu je dostupná </span><a href="https://www.ochrance.cz/uploads-import/projekt_ESF/00_2019_VA/SEMINARE/02_05_Vyznam_zdravotni_sluzby/02_05_Vyznam_zdravotni_sluzby_pro_prevenci_a_odhalovani_spatneho_zachazeni_POZVANKA.pdf" style="font-size: 12.8px;">ZDE</a><span style="font-size: 12.8px;">.</span></p>

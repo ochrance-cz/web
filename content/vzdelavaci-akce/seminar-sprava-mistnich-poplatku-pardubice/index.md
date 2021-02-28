@@ -14,4 +14,4 @@ startDate: 2019-03-05
 <p class="align-blok" style="line-height: 17.92px; font-size: 12.8px;">   – judikatura</p>
 <p class="align-blok" style="line-height: 17.92px; font-size: 12.8px;">   – případy ochránce</p>
 <p class="align-blok" style="line-height: 17.92px; font-size: 12.8px;"> </p>
-<p class="align-blok" style="line-height: 17.92px; font-size: 12.8px;"><span style="font-size: 12.8px; text-align: left;">POZVÁNKA S PROGRAMEM <a href="https://www.ochrance.cz/fileadmin/user_upload/projekt_ESF/00_2019_VA/SEMINARE/03_05_Sprava_mistnich_poplatku/03_05_Sprava_mistnich_poplatku_POZVANKA.pdf" target="_blank">ZDE</a> (386.1 kB, Adobe Acrobat dokument)</span></p>
+<p class="align-blok" style="line-height: 17.92px; font-size: 12.8px;"><span style="font-size: 12.8px; text-align: left;">POZVÁNKA S PROGRAMEM <a href="https://www.ochrance.cz/uploads-import/projekt_ESF/00_2019_VA/SEMINARE/03_05_Sprava_mistnich_poplatku/03_05_Sprava_mistnich_poplatku_POZVANKA.pdf" target="_blank">ZDE</a> (386.1 kB, Adobe Acrobat dokument)</span></p>
