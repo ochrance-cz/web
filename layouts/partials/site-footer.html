@@ -17,16 +17,16 @@
       <section>
         <h2>{{ i18n "get-overview" }}</h2>
         <ul>
+          {{ with .Site.GetPage "pristupnost/snadne-cteni" }}
+            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+          {{ end }}
           {{ with .Site.GetPage "situace" }}
             <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
           {{ end }}
-          {{ with .Site.GetPage "cinnost" }}
+          {{ with .Site.GetPage "vystupy" }}
             <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
           {{ end }}
           {{ with .Site.GetPage "o-nas/predpisy" }}
-            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-          {{ end }}
-          {{ with .Site.GetPage "info/zpracovani-ou" }}
             <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
           {{ end }}
         </ul>

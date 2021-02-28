@@ -13,7 +13,7 @@
       {{ .Content }}
     </section>
     <section class="_news single-col">
-      {{ $paginator := .Paginate (where .Pages "Section" "aktualne") 20 }}
+      {{ $paginator := .Paginate .Pages 20 }}
 
       {{ range $paginator.Pages }}
         {{ partial "news-preview.html" . }}

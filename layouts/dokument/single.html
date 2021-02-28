@@ -10,6 +10,19 @@
         </div>
       {{ end }}
 
+      {{ if or (isset .Params "report") (isset .Params "subreports") }}
+        <ul class="_link-list">
+          {{ with .Params.report }}
+            <li><a href="{{ . }}">Výroční zpráva</a></li>
+          {{ end }}
+          {{ with .Params.subreports }}
+            {{ range . }}
+              <li><a href="{{ .link }}">{{ .title }}</a></li>
+            {{ end }}
+          {{ end }}
+        </ul>
+      {{ end }}
+
       {{ .Content }}
 
       {{ with .Params.file }}
