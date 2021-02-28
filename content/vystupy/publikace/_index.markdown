@@ -5,16 +5,11 @@ illustration: sborniky-03.JPG
 perex: Zajímá vás určité téma a hledáte k němu komplexní informace? Možná je najdete v některém z našich sborníků, ať už jde o řadu Stanoviska, sborníky z tematických konferencí, nebo o jiné publikace.
 ---
 
-TODO
-
-- Edice Stanoviska
-- Sborníky z konferencí
-- Edice dobré správní praxe
-
 ## Edice Stanoviska
 
 Od roku 2007 vydává ombudsman tematické publikace v ediční řadě Stanoviska. Publikace jsou určeny úřadům a dalším institucím jako určitá metodická pomůcka. Obsahují totiž vysvětlení témat a pojmů, uvádějí přehled právních předpisů a důležitých soudních rozhodnutí a především veškerou problematiku ukazují na konkrétních případech, kterými se ombudsman zabýval. Publikace je ale užitečná i pro neodborníky, protože jim umožní zorientovat se v tématu a seznámit se se svými právy.
-(výčet publikací – soubory PDF)
+
+{{< links "/vystupy/publikace/stanoviska" "Edice Stanoviska">}}
 
 ## Sborníky z konferencí
 
