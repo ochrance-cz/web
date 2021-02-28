@@ -12,4 +12,4 @@ perex: "<p>Naši zástupci se minulý týden v Záhřebu zúčastnili celoevrop
 <p><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;
 mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-font-family:
 &quot;Times New Roman&quot;;mso-ansi-language:CS;mso-fareast-language:EN-US;mso-bidi-language:
-AR-SA"><a title="Otevření do nového okna" href="https://www.ochrance.cz/fileadmin/user_upload/lidska_prava/Zagreb_Declaration_.pdf" target="_blank"><img alt="" src="https://www.ochrance.cz/typo3/ext/od_linkdesc/icons/pdf.gif" class="od_linkdesc_icon" /> Celé znění deklarace naleznete zde</a> (328 kB, Adobe Acrobat dokument).</span></p><p></p>
+AR-SA"><a title="Otevření do nového okna" href="/uploads-import/lidska_prava/Zagreb_Declaration_.pdf" target="_blank"><img alt="" src="https://www.ochrance.cz/typo3/ext/od_linkdesc/icons/pdf.gif" class="od_linkdesc_icon" /> Celé znění deklarace naleznete zde</a> (328 kB, Adobe Acrobat dokument).</span></p><p></p>

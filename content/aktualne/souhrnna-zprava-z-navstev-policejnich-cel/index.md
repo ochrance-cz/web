@@ -11,4 +11,4 @@ perex: "<p></p>"
 
 <p class="MsoNormal">Zveřejnili
 jsme souhrnnou zprávu z návštěv 47 policejních cel realizovaných
-v letech 2015 – 2016. Více se dozvíte v tiskové zprávě <a href="https://www.ochrance.cz/fileadmin/user_upload/ESO/22-2017-NZ_Souhrnna_zprava_Policejni_cely_2017_CZ.pdf" target="_blank">zde</a>.</p>
+v letech 2015 – 2016. Více se dozvíte v tiskové zprávě <a href="/uploads-import/ESO/22-2017-NZ_Souhrnna_zprava_Policejni_cely_2017_CZ.pdf" target="_blank">zde</a>.</p>

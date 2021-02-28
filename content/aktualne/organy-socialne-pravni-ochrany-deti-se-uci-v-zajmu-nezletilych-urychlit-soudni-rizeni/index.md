@@ -13,4 +13,4 @@ perex: "<p>V minulém roce jsme vyřešili případ, ve kterém trvalo neúmě
 font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
 Calibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;
 mso-bidi-font-family:&quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi;
-mso-ansi-language:CS;mso-fareast-language:EN-US;mso-bidi-language:AR-SA"><a href="https://www.ochrance.cz/fileadmin/user_upload/Publikace/sborniky_stanoviska/Sbornik_Statni-sprava-soudu.pd">http://www.ochrance.cz/fileadmin/user_upload/Publikace/sborniky_stanoviska/Sbornik_Statni-sprava-soudu.pd</a></span></p><p></p>
+mso-ansi-language:CS;mso-fareast-language:EN-US;mso-bidi-language:AR-SA"><a href="/uploads-import/Publikace/sborniky_stanoviska/Sbornik_Statni-sprava-soudu.pd">http://www.ochrance.cz/fileadmin/user_upload/Publikace/sborniky_stanoviska/Sbornik_Statni-sprava-soudu.pd</a></span></p><p></p>

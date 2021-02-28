@@ -4,7 +4,7 @@ tags:
   - Tisková zpráva
 oldUrl: "/aktualne/tiskove-zpravy-2013/spotrebitelsky-ombudsman-neni-to-same-co-verejny-ochrance-prav"
 date: 2013-05-30
-perex: "<p></p><p><img src=\"https://www.ochrance.cz/fileadmin/user_upload/img/Ikony/072038A.JPG\" style=\"PADDING-RIGHT: 10px; FLOAT: left\" height=\"219\" width=\"157\" alt=\"\" />Za účelem okamžitého řešení problémů s nepoctivým přístupem některých prodejců na tzv. předváděcích akcích vytvořilo Ministerstvo průmyslu a obchodu při živnostenských úřadech nový systém tzv. Spotřebitelského ombudsmana. Lidé by si ho však neměli plést s veřejným ochráncem práv (ombudsmanem), protože ten není oprávněn jednání prodejců na předváděcích akcích prošetřovat, ani poskytovat právní poradenství v této oblasti.</p>"
+perex: "<p></p><p><img src=\"/uploads-import/img/Ikony/072038A.JPG\" style=\"PADDING-RIGHT: 10px; FLOAT: left\" height=\"219\" width=\"157\" alt=\"\" />Za účelem okamžitého řešení problémů s nepoctivým přístupem některých prodejců na tzv. předváděcích akcích vytvořilo Ministerstvo průmyslu a obchodu při živnostenských úřadech nový systém tzv. Spotřebitelského ombudsmana. Lidé by si ho však neměli plést s veřejným ochráncem práv (ombudsmanem), protože ten není oprávněn jednání prodejců na předváděcích akcích prošetřovat, ani poskytovat právní poradenství v této oblasti.</p>"
 ---
 
 <!-- imported from the old website -->
