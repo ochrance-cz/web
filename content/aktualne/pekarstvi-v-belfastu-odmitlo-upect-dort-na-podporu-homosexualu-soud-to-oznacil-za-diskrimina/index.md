@@ -35,4 +35,4 @@ soudu nemusí být ještě konečné, majitelé pekařství zvažují dovolání
 k nejvyššímu soudu.</p>
 
 <p class="MsoNormal" style="text-align:justify"><span style="font-size: 12.8px;">Celý
-rozsudek k dispozici <a title="Otevření do nového okna" href="http://www.equalityni.org/Footer-Links/News/Delivering-Equality/Court-Rules-Cake-Case-was-Discrimination" target="_blank">zde</a> <img alt="" src="https://www.ochrance.cz/typo3/ext/od_linkdesc/icons/external.gif" class="od_linkdesc_icon_external" />.</span></p>
+rozsudek k dispozici <a title="Otevření do nového okna" href="http://www.equalityni.org/Footer-Links/News/Delivering-Equality/Court-Rules-Cake-Case-was-Discrimination" target="_blank">zde</a> .</span></p>

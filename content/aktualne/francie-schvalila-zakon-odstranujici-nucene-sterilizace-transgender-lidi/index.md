@@ -25,4 +25,4 @@ jakékoli intervence ze strany státu.&lt;o:p&gt;&lt;/o:p&gt;</p>
 <p class="MsoNormal" style="text-align:justify">I
 přes uvedené výhrady je novela zákona vnímána velmi pozitivně jako velký krok
 vpřed pro práva všech trans lidí ve Francii.</p><p class="MsoNormal" style="text-align:justify"><span style="font-size: 12.8px;">Více
-informací najdete na <a title="Otevření do nového okna" href="http://www.ilga-europe.org/resources/news/latest-news/france-adopts-new-legal-gender-recognition-procedure" target="_blank">tomto odkazu</a> <img alt="" src="https://www.ochrance.cz/typo3/ext/od_linkdesc/icons/external.gif" class="od_linkdesc_icon_external" />. </span></p>
+informací najdete na <a title="Otevření do nového okna" href="http://www.ilga-europe.org/resources/news/latest-news/france-adopts-new-legal-gender-recognition-procedure" target="_blank">tomto odkazu</a> . </span></p>

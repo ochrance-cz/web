@@ -46,4 +46,4 @@ zdravotním postižením rovné učení a zajistit takové prostředí, které 
 nejlépe odpovídat jejich požadavkům a přednostem.&lt;o:p&gt;&lt;/o:p&gt;</p>
 
 <p class="MsoNormal" style="text-align:justify"><span style="font-size: 12.8px;">Celé znění přijatých
-připomínek Úmluvy a další informace naleznete na <a title="Otevření do nového okna" href="http://www.ohchr.org/EN/HRBodies/CRPD/Pages/GC.aspx" target="_blank">odkazu Vysokého Komisaře pro lidská práva</a> <img alt="" src="https://www.ochrance.cz/typo3/ext/od_linkdesc/icons/external.gif" class="od_linkdesc_icon_external" />.</span></p>
+připomínek Úmluvy a další informace naleznete na <a title="Otevření do nového okna" href="http://www.ohchr.org/EN/HRBodies/CRPD/Pages/GC.aspx" target="_blank">odkazu Vysokého Komisaře pro lidská práva</a> .</span></p>

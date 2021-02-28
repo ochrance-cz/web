@@ -9,4 +9,4 @@ perex: "<p>Ještě jim ani nebylo osmnáct let, ale už na ně čekají exekuce
 
 <!-- imported from the old website -->
 
-Více se dozvíte <a title="Otevření do nového okna" href="http://www.ceskatelevize.cz/ct24/domaci/316738-jsou-cerstve-plnoleti-ale-s-exekuci-na-krku-kvuli-rodicum/" target="_blank">v reportáži České televize</a> <img alt="" src="https://www.ochrance.cz/typo3/ext/od_linkdesc/icons/external.gif" class="od_linkdesc_icon_external" />.
+Více se dozvíte <a title="Otevření do nového okna" href="http://www.ceskatelevize.cz/ct24/domaci/316738-jsou-cerstve-plnoleti-ale-s-exekuci-na-krku-kvuli-rodicum/" target="_blank">v reportáži České televize</a> .

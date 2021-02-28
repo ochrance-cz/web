@@ -49,4 +49,4 @@ jako zneužití práva. Taková osoba nemůže být považována za “poškoze
 nemůže  se dovolávat ochrany, kterou
 uvedené směrnice poskytují.</span></p>
 
-<p class="MsoNormal">Plné znění rozsudku je k dispozici <a title="Otevření do nového okna" href="http://eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX:62015CJ0423&amp;print=true" target="_blank">zde</a> <img alt="" src="https://www.ochrance.cz/typo3/ext/od_linkdesc/icons/external.gif" class="od_linkdesc_icon_external" />.</p>
+<p class="MsoNormal">Plné znění rozsudku je k dispozici <a title="Otevření do nového okna" href="http://eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX:62015CJ0423&amp;print=true" target="_blank">zde</a> .</p>

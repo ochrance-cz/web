@@ -118,4 +118,4 @@ s poptávanou prací, není přiměřené, aby byl odmítnut pouze na základ�
 trestní minulosti. Je legitimní odmítnout osobu odsouzenou za týrání 
 svěřené osoby např. na pozici vychovatele, či odsouzeného za majetkovou 
 trestnou činnost na pozici pokladníka. Nepřijetí takové osoby 
-např. na zahradnické práce je však nepřiměřené.</p><p><a title="Otevření do nového okna" href="http://ochrancedev.omegadesign.cz/diskriminace/doporuceni-ochrance/" target="_blank">Celý text výzkumu pracovní inzerce a doporučení k požadavku výpisu z rejstříku trestů.</a> <img alt="" src="https://www.ochrance.cz/typo3/ext/od_linkdesc/icons/external.gif" class="od_linkdesc_icon_external" /></p>
+např. na zahradnické práce je však nepřiměřené.</p><p><a title="Otevření do nového okna" href="http://ochrancedev.omegadesign.cz/diskriminace/doporuceni-ochrance/" target="_blank">Celý text výzkumu pracovní inzerce a doporučení k požadavku výpisu z rejstříku trestů.</a> </p>

@@ -9,7 +9,7 @@ perex: "<p>Anglie – Komise kontroly kvality provedla téměř čtyři tisíce 
 
 <!-- imported from the old website -->
 
-<p class="MsoNormal">Komise kontroly kvality (<a title="Otevření do nového okna" href="http://www.cqc.org.uk" target="_blank">Care Quality Commission</a> <img alt="" src="https://www.ochrance.cz/typo3/ext/od_linkdesc/icons/external.gif" class="od_linkdesc_icon_external" />), nezávislý orgán
+<p class="MsoNormal">Komise kontroly kvality (<a title="Otevření do nového okna" href="http://www.cqc.org.uk" target="_blank">Care Quality Commission</a> ), nezávislý orgán
 dohlížející na kvalitu poskytovaných zdravotních a sociálních služeb v Anglii,
 přijal v říjnu roku 2014 novou metodiku kontroly kvality v pobytových
 zařízeních sociálních služeb. Nově si kontroloři anglických domovů kladou
@@ -22,4 +22,4 @@ zařízení nesplňuje požadované standardy péče, kdy 8 % z těchto zaří
 lze považovat za nedostatečné. Od října 2014 do současnosti byla 30 domovům s pečovatelskou
 službou odebrána registrace a tyto byly uzavřeny. </p>
 
-<p class="MsoNormal">Podívejte se na <a title="Otevření do nového okna" href="http://www.bbc.com/news/health-33195604" target="_blank">původní reportáž BBC</a> <img alt="" src="https://www.ochrance.cz/typo3/ext/od_linkdesc/icons/external.gif" class="od_linkdesc_icon_external" /> na toto téma.</p>
+<p class="MsoNormal">Podívejte se na <a title="Otevření do nového okna" href="http://www.bbc.com/news/health-33195604" target="_blank">původní reportáž BBC</a>  na toto téma.</p>

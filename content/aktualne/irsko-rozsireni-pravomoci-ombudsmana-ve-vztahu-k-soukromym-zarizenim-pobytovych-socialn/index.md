@@ -72,7 +72,7 @@ mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Calibri;mso-fareast-the
 minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&quot;Times New Roman&quot;;
 mso-bidi-theme-font:minor-bidi;mso-ansi-language:CS;mso-fareast-language:EN-US;
 mso-bidi-language:AR-SA">[1]</span></span></span></a>
-Informace zveřejněná International Ombudsman Institute – dostupné z: <a title="Otevření do nového okna" href="http://www.theioi.org/ioi-news/current-news/ombudsman-will-be-able-to-examine-complaints-about-private-nursing-homes" target="_blank">http://www.theioi.org/ioi-news/current-news/ombudsman-will-be-able-to-examine-complaints-about-private-nursing-homes</a> <img alt="" src="https://www.ochrance.cz/typo3/ext/od_linkdesc/icons/external.gif" class="od_linkdesc_icon_external" /></p></div></div><div><div><div id="_com_1" class="msocomtxt">
+Informace zveřejněná International Ombudsman Institute – dostupné z: <a title="Otevření do nového okna" href="http://www.theioi.org/ioi-news/current-news/ombudsman-will-be-able-to-examine-complaints-about-private-nursing-homes" target="_blank">http://www.theioi.org/ioi-news/current-news/ombudsman-will-be-able-to-examine-complaints-about-private-nursing-homes</a> </p></div></div><div><div><div id="_com_1" class="msocomtxt">
 
 </div>
 

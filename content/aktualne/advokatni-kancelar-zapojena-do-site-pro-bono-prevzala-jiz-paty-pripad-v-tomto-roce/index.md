@@ -44,7 +44,7 @@ Letos jsme pro ně uspořádali dva odborné semináře (Diskriminace při posky
 služeb, Sankce v antidiskriminačním právu) a na podzim chystáme dva další
 (Obtěžování na pracovišti, Přiměřená opatření pro osoby s postižením).</p>
 
-<p class="MsoBodyText">Více o Pro bono alianci <a title="Otevření do nového okna" href="http://www.probonoaliance.cz/cz/" target="_blank">zde</a> <img alt="" src="https://www.ochrance.cz/typo3/ext/od_linkdesc/icons/external.gif" class="od_linkdesc_icon_external" />. </p>
+<p class="MsoBodyText">Více o Pro bono alianci <a title="Otevření do nového okna" href="http://www.probonoaliance.cz/cz/" target="_blank">zde</a> . </p>
 
 <p class="MsoPlainText">Seznam zapojených advokátů a advokátek pro oblast
 antidiskriminace: </p>

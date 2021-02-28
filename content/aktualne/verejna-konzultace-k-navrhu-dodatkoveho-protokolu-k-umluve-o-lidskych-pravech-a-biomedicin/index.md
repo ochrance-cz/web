@@ -9,7 +9,7 @@ perex: "<p>Výbor pro bioetiku (DH-BIO) Rady Evropy v současné době připrav
 
 <!-- imported from the old website -->
 
-<p class="MsoNormal">V této souvislosti Výbor zahájil <a title="Otevření do nového okna" href="http://www.coe.int/en/web/bioethics/-/public-consultation-on-a-working-document" target="_blank">veřejnou konzultaci</a> <img alt="" src="https://www.ochrance.cz/typo3/ext/od_linkdesc/icons/external.gif" class="od_linkdesc_icon_external" /> návrhu zmíněného Dodatkového protokolu. Tento pracovní dokument má číslo jednací
+<p class="MsoNormal">V této souvislosti Výbor zahájil <a title="Otevření do nového okna" href="http://www.coe.int/en/web/bioethics/-/public-consultation-on-a-working-document" target="_blank">veřejnou konzultaci</a>  návrhu zmíněného Dodatkového protokolu. Tento pracovní dokument má číslo jednací
 DH-BIO/INF (2015) 7.</p>
 
 <p class="MsoNormal">Tajemník Výboru pro bioetiku pan Laurence Lwoff ve svém
