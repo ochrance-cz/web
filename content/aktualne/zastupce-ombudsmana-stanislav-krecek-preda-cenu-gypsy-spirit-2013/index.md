@@ -1,7 +1,7 @@
 ---
 title: "Zástupce ombudsmana Stanislav Křeček předá cenu Gypsy Spirit 2013"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2013/zastupce-ombudsmana-stanislav-krecek-preda-cenu-gypsy-spirit-2013"
 date: 2013-12-09
 perex: "<p></p>"

@@ -1,7 +1,7 @@
 ---
 title: "Péče o seniory jako podnikatelský záměr bez záruky kvality"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2012/pece-o-seniory-jako-podnikatelsky-zamer-bez-zaruky-kvality"
 date: 2012-06-22
 perex: "<p></p><p>Některá neregistrovaná zařízení pro seniory budí zdání zařízení sociálních služeb nebo zdravotnických zařízení, přestože nesplňují ani minimální zákonné požadavky. Zacházení s klienty může podle veřejného ochránce práv představovat i reálné riziko pro život, zdraví a důstojnost. </p>"

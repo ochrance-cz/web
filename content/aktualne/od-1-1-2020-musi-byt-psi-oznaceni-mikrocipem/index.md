@@ -1,7 +1,7 @@
 ---
 title: "Od 1. 1. 2020 musí být psi označeni mikročipem"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/od-1-1-2020-musi-byt-psi-oznaceni-mikrocipem"
 date: 2019-11-11
 perex: "<p>Na splnění povinnosti majitelů nechat očipovat svého psa zbývají už pouze necelé dva měsíce. V případě nesplnění povinnosti hrozí majitelům psů pokuta. </p>"

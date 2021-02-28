@@ -1,7 +1,7 @@
 ---
 title: "Světový den porozumění autismu"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2018/svetovy-den-porozumeni-autismu/"
 date: 2018-04-05
 perex: "<p>V letošním roce se u příležitosti Světového dne porozumění autismu i Kancelář veřejného ochránce práv zapojila do celosvětové kampaně „Light it up blue!“ a v noci z 2. na 3. dubna se budova kanceláře rozsvítila modře.</p>"

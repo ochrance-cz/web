@@ -1,7 +1,7 @@
 ---
 title: "Šíříme osvětu a spolupracujeme se studenty Fakulty sociálních studií Masarykovy univerzity"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2018/sirime-osvetu-a-spolupracujeme-se-studenty-fakulty-socialnich-studii-masarykovy-univerzity/"
 date: 2018-10-19
 perex: "<p></p>"

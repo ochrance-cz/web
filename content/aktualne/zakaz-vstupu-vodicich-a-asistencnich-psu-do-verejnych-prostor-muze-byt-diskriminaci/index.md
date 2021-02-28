@@ -1,7 +1,7 @@
 ---
 title: "Zákaz vstupu vodicích a asistenčních psů do veřejných prostor může být diskriminací"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2010/zakaz-vstupu-vodicich-a-asistencnich-psu-do-verejnych-prostor-muze-byt-diskriminaci"
 date: 2010-08-10
 perex: "<p></p><p>Zákaz vstupu vodicích a asistenčních psů do veřejných prostor může být diskriminací</p>"

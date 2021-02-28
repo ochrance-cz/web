@@ -1,7 +1,7 @@
 ---
 title: "Kdyby se silvestrovské oslavy vymkly z rukou"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2014/kdyby-se-silvestrovske-oslavy-vymkly-z-rukou"
 date: 2014-12-30
 perex: "<p>Konec roku je pro většinu lidí spojen s oslavami. Všichni s nimi počítají a jsou k jejich projevům tolerantnější než jindy, stejně tak i k nedostatkům či nepohodlí. Přesto mohou nastat situace, jejichž aktéři budou následně žádat o pomoc úřady či ombudsmana. Zde jsou některé z těch, s nimiž se lidé na ombudsmana obracejí, a návod, jak je řešit:</p>"

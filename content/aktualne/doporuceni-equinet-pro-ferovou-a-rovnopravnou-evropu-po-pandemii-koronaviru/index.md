@@ -1,7 +1,7 @@
 ---
 title: "Doporučení Equinet pro férovou a rovnoprávnou Evropu po pandemii koronaviru"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2020/doporuceni-equinet-pro-ferovou-a-rovnopravnou-evropu-po-pandemii-koronaviru/"
 date: 2020-07-02
 perex: "<p></p>"

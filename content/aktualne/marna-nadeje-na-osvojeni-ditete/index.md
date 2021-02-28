@@ -1,7 +1,7 @@
 ---
 title: "Marná naděje na osvojení dítěte"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2018/marna-nadeje-na-osvojeni-ditete"
 date: 2018-08-22
 perex: "<p>Úřad dal žadatelům o osvojení společného dítěte naději, když je zařadil do evidence osob vhodných stát se osvojiteli, přestože nebyli manželé a nesplňovali zákonnou podmínku pro osvojení společného dítěte. Úřad v rozhodnutí uvedl, že vzhledem k neuzavření sňatku může být osvojení problematické. Pokud by se však žadatelé rozhodli manželství uzavřít, úřad trval na tom, že až po třech letech od svatby zhodnotí stabilitu manželství a teprve pak by mohlo dojít ke zprostředkování osvojení.</p>"

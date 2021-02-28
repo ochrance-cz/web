@@ -1,7 +1,7 @@
 ---
 title: "Ochránkyně uspěla u vlády se zákonem o asistenčních psech"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2016/ochrankyne-uspela-u-vlady-se-zakonem-o-asistencnich-psech"
 date: 2016-09-05
 perex: "<p>Na doporučení ochránkyně vznikne zákon chránící práva osob se zdravotním postižením, které využívají speciálně vycvičené psy.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Nedožité osmdesátiny JUDr. Motejla"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2012/nedozite-osmdesatiny-judr-motejla"
 date: 2012-09-10
 perex: "<p>Otakar Motejl, první český ombudsman, by se dnes dožil 80 let.</p>"

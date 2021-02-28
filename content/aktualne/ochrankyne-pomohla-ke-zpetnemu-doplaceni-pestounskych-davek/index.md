@@ -1,7 +1,7 @@
 ---
 title: "Ochránkyně pomohla ke zpětnému doplacení pěstounských dávek"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2015/ochrankyne-pomohla-ke-zpetnemu-doplaceni-pestounskych-davek"
 date: 2015-06-09
 perex: "<p>Rady veřejné ochránkyně práv opět vedly k napravení nespravedlnosti. Tentokrát se pomoci dočkala babička, která si vzala vnučku do pěstounské péče. </p>"

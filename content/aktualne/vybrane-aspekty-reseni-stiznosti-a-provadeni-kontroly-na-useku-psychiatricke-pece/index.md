@@ -1,7 +1,7 @@
 ---
 title: "Vybrané aspekty řešení stížností a provádění kontroly na úseku psychiatrické péče"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2017/vybrane-aspekty-reseni-stiznosti-a-provadeni-kontroly-na-useku-psychiatricke-pece/"
 date: 2017-11-14
 perex: "<p>Seminář na toto téma proběhl v Kanceláři 10. října 2017. Materiály pro účastníky jsou zveřejněny na našich stránkách.</p>"

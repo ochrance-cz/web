@@ -1,7 +1,7 @@
 ---
 title: "Avizované skončení systému DONEZ"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2013/avizovane-skonceni-systemu-donez"
 date: 2013-01-24
 perex: "<p></p>"

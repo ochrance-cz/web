@@ -1,7 +1,7 @@
 ---
 title: "Bránění matkám v kojení na veřejnosti? Nový trestný čin na Kypru!"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2018/braneni-matkam-v-kojeni-na-verejnosti-novy-trestny-cin-na-kypru/"
 date: 2018-08-20
 perex: "<p>Nevhodný přístup ke kojícím matkám a zabraňování jim v kojení je na Kypru novým trestným činem, za který hrozí značný peněžitý trest.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Nejdůležitější rozsudky Nejvyššího a Nejvyššího správního soudu v oblasti diskriminace"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2019/nejdulezitejsi-rozsudky-nejvyssiho-a-nejvyssiho-spravniho-soudu-v-oblasti-diskriminace/"
 date: 2019-01-04
 perex: "<p>Přinášíme přehled těch nejdůležitějších rozhodnutí, která obě nejvyšší soudní instance vydaly v roce 2018. Pokud víte ještě o nějakém klíčovém rozsudku, kontaktujte nás. Rádi se o něm dozvíme.</p>"

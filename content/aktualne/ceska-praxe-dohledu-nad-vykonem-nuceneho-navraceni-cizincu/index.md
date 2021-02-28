@@ -1,7 +1,7 @@
 ---
 title: "Česká praxe dohledu nad výkonem nuceného navracení cizinců"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2015/ceska-praxe-dohledu-nad-vykonem-nuceneho-navraceni-cizincu/"
 date: 2015-06-19
 perex: "<p></p>"

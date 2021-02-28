@@ -1,7 +1,7 @@
 ---
 title: "Advokátní kancelář zapojená do sítě pro bono převzala již pátý případ v tomto roce"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2016/advokatni-kancelar-zapojena-do-site-pro-bono-prevzala-jiz-paty-pripad-v-tomto-roce/"
 date: 2016-08-17
 perex: "<p>Veřejný ochránce práv spolupracuje s Pro bono aliancí od roku 2012, a to na základě Memoranda o spolupráci ve věcech bezplatné právní pomoci stěžovatelům. Advokáti mohou od ochránce převzít 10 případů ročně, z toho tři se nemusí nutně týkat diskriminace. </p>"

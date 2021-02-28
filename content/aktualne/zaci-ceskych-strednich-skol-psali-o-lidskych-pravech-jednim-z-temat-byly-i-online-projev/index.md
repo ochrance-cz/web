@@ -1,7 +1,7 @@
 ---
 title: "Žáci českých středních škol psali o lidských právech. Jedním z témat byly i online projevy nenávisti"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2020/zaci-ceskych-strednich-skol-psali-o-lidskych-pravech-jednim-z-temat-byly-i-online-projev/"
 date: 2020-03-18
 perex: "<p>I v letošním roce (7. března) pražská Nová radnice hostila finálové kolo prestižní Olympiády lidských práv. V rámci osmého ročníku soutěže se utkalo 42 žáků a žákyň středních škol z celé České republiky. Záštitu této soutěži pro letošní rok udělili například Evropský parlament, Hlavní město Praha, Organizace Sinopsis nebo veřejný ochránce práv. </p>"

@@ -1,7 +1,7 @@
 ---
 title: "Srpen – měsíc spinální muskulární (svalové) atrofie"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2018/srpen-mesic-spinalni-muskularni-svalove-atrofie/"
 date: 2018-07-26
 perex: "<p>Kancelář veřejného ochránce práv se ve spolupráci s pacientskou organizací SMÁci, z. s., (www.smaci.cz) zapojí  v měsíci srpnu do aktivit na podporu osob se spinální svalovou atrofií (SMA).</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Ochránkyně převzala záštitu nad projektem Moje smrt"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2014/ochrankyne-prevzala-zastitu-nad-projektem-moje-smrt/"
 date: 2014-11-14
 perex: "<p>Hospicové občanské sdružení Cesta domů spustilo osvětovou kampaň Moje smrt. Ochránkyně nad ní, mimo jiné i vzhledem ke svému zájmu o témata jako je péče o osoby s demencí nebo paliativní péče, převzala záštitu.</p>"

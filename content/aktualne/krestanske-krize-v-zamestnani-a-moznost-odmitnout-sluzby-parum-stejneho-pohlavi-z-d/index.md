@@ -1,7 +1,7 @@
 ---
 title: "Křesťanské kříže v zaměstnání a možnost odmítnout služby párům stejného pohlaví z důvodu víry z pohledu ESLP"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2013/krestanske-krize-v-zamestnani-a-moznost-odmitnout-sluzby-parum-stejneho-pohlavi-z-d/"
 date: 2013-01-25
 perex: "<p>Dne 15. 1. 2013 vydal Evropský soud pro lidská práva společný rozsudek v případech čtyř stěžovatelů namítajících proti omezení nosit kříž, jako křesťanský náboženský symbol, v zaměstnání a žádajících posouzení otázky, zda má státní úředník právo odmítnout z důvodu svého náboženského přesvědčení poskytnout služby párům stejného pohlaví. </p>"

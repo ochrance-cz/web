@@ -1,7 +1,7 @@
 ---
 title: "Ministr vnitra a ombudsmanka hledají řešení pravidel volebního práva cizinců"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2014/ministr-vnitra-a-ombudsmanka-hledaji-reseni-pravidel-volebniho-prava-cizincu"
 date: 2014-08-29
 perex: "<p>Ochránkyně se sešla s ministrem vnitra k jednání o změně pravidel účasti občanů EU v komunálních volbách. Ministr přislíbil vydat v nejbližší době závazné právní stanovisko.</p>"

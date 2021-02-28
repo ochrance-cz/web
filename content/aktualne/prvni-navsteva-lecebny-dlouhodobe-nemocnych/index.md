@@ -1,7 +1,7 @@
 ---
 title: "První návštěva léčebny dlouhodobě nemocných"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2015/prvni-navsteva-lecebny-dlouhodobe-nemocnych/"
 date: 2015-04-17
 perex: "<p>Veřejná ochránkyně práv na přelomu března a dubna 2015 provedla první systematickou návštěvu léčebny dlouhodobě nemocných z aktuálního cyklu návštěv.</p>"

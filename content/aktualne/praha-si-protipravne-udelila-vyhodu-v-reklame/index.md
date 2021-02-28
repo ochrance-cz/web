@@ -1,7 +1,7 @@
 ---
 title: "Praha si protiprávně udělila výhodu v reklamě"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2016/praha-si-protipravne-udelila-vyhodu-v-reklame"
 date: 2016-10-20
 perex: "<p>Pokud obec vydá nařízení, kterým se zakazuje reklama na určitém území, protože je pro danou lokalitu škodlivá, nemůže zároveň sobě udělit výjimku. Praha proto porušila princip rovnosti a zvýhodnila se před ostatními pořadateli, když sobě povolila, ale ostatním pořadatelům zakázala, reklamu v atraktivním prostředí Pražské památkové rezervace.</p>"

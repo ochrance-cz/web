@@ -1,7 +1,7 @@
 ---
 title: "Krajský úřad Středočeského kraje vydává v případech veřejně přístupných účelových komunikací dlouhodobě nesrozumitelná správní rozhodnutí"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2021/krajsky-urad-stredoceskeho-kraje-vydava-v-pripadech-verejne-pristupnych-ucelovych"
 date: 2021-02-19
 perex: "<p>Krajský úřad Středočeského kraje vydává v oblasti správních řízení o existenci veřejně přístupných účelových komunikací dlouhodobě a opakovaně správní rozhodnutí, která jsou nesrozumitelná, věcně vadná a neodpovídají platnému právu. Ombudsman Stanislav Křeček na tuto záležitost krajský úřad opakovaně upozorňoval, aniž by došlo k nápravě. Proto o tomto případu informuje veřejnost v rámci sankční tiskové zprávy. </p>"

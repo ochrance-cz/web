@@ -1,7 +1,7 @@
 ---
 title: "Zástupkyně ombudsmana odmítá spojení jejích obecných vyjádření s konkrétním případem, kterým se nezabývala"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2021/zastupkyne-ombudsmana-odmita-spojeni-jejich-obecnych-vyjadreni-s-konkretnim-pripadem"
 date: 2021-01-05
 perex: "<p></p>"

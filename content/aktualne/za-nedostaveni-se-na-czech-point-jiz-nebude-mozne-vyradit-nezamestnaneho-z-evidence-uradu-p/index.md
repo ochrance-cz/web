@@ -1,7 +1,7 @@
 ---
 title: "Za nedostavení se na Czech POINT již nebude možné vyřadit nezaměstnaného z evidence úřadu práce"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2013/za-nedostaveni-se-na-czech-point-jiz-nebude-mozne-vyradit-nezamestnaneho-z-evidence-uradu-p"
 date: 2013-05-27
 perex: "<p></p>"

@@ -1,7 +1,7 @@
 ---
 title: "Ochrana lidí před hlukem je trvale nedostatečná"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2008/ochrana-lidi-pred-hlukem-je-trvale-nedostatecna"
 date: 2008-12-10
 perex: "<p></p>"

@@ -1,7 +1,7 @@
 ---
 title: "Zástupce ombudsmanky prověří černou stavbu v přírodním parku Dolní Poohří"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/zastupce-ombudsmanky-proveri-cernou-stavbu-v-prirodnim-parku-dolni-poohri"
 date: 2019-10-02
 perex: "<p>Zástupce ombudsmanky zahájil šetření z vlastní iniciativy, aby prověřil postup stavebního úřadu v případě nepovolené stavby, která se nachází v přírodním parku Dolní Poohří na území obce Budyně nad Ohří.</p>"

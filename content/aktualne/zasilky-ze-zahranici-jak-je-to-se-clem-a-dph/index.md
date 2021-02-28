@@ -1,7 +1,7 @@
 ---
 title: "Zásilky ze zahraničí – jak je to se clem a DPH?"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2018/zasilky-ze-zahranici-jak-je-to-se-clem-a-dph"
 date: 2018-11-26
 perex: "<p>Díky členství v Evropské unii je pro nás mnohem jednodušší obchodovat s jednotlivými členskými státy. To se týká také nákupů v e-shopech. Pozornost však musíme věnovat dovozu zboží ze států, které členy nejsou. V Česku to jsou typicky nákupy v amerických nebo čínských e-shopech. V tomto případě hovoříme o zásilkách ze třetích zemí. Za třetí země označujeme všechny státy mimo Evropskou unii, s výjimkou Norska, Švýcarska, Lichtenštejnska a Islandu, které jsou součástí Evropského hospodářského prostoru a podmínky mají nastaveny příznivěji.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Školíme se ve sledování nucených návratů"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2019/skolime-se-ve-sledovani-nucenych-navratu/"
 date: 2019-03-25
 perex: "<p>Zaměstnanec Kanceláře veřejného ochránce práv se účastnil týdenního školení, které připravilo Mezinárodní středisko pro rozvoj migračních politik (ICMPD) ve spolupráci s agenturou Frontex a trenéry z řad eskortujících policistů a kanceláře řeckého a českého ombudsmana. </p>"

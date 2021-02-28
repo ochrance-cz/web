@@ -1,7 +1,7 @@
 ---
 title: "Veřejná ochránkyně práv vyhrála žalobu ve veřejném zájmu"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2014/verejna-ochrankyne-prav-vyhrala-zalobu-ve-verejnem-zajmu"
 date: 2014-10-08
 perex: "<p>Krajský soud v Ústí nad Labem dnes rozhodl o historicky první žalobě k ochraně veřejného zájmu podané veřejným ochráncem práv. Žalobě vyhověl a zrušil rozhodnutí Městského úřadu Duchcov, kterými byla povolena stavba fotovoltaické elektrárny na území obce Moldava. Ochránkyně Anna Šabatová se dnešního jednání a vynesení rozsudku osobně účastnila.</p>"

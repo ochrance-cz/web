@@ -1,7 +1,7 @@
 ---
 title: "Klíčovým problémem vězeňství je přeplněnost"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2016/klicovym-problemem-vezenstvi-je-preplnenost"
 date: 2016-03-23
 perex: "<p>Věznice jsou přeplněné, personál je přetížený administrativními úkoly a nemůže se dostatečně věnovat práci s odsouzenými. S tím pak souvisí řada dalších problémů, které ve výsledku snižují možnosti nápravy odsouzených. Takové jsou hlavní závěry návštěv veřejné ochránkyně práv ve věznicích.</p>"

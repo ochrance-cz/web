@@ -1,7 +1,7 @@
 ---
 title: "Nový zástupce ombudsmana"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2013/novy-zastupce-ombudsmana"
 date: 2013-04-04
 perex: "<p></p>"

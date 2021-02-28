@@ -1,7 +1,7 @@
 ---
 title: "Opatrovnictví – mýty a fakta"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2020/opatrovnictvi-myty-a-fakta/"
 date: 2020-06-08
 perex: "<p>Opatrovnictví vyvolává mnoho nedorozumění. Pokud má člověk opatrovníka, neznamená to, že pozbyl všechna svá práva a že za něj o všem rozhoduje někdo jiný. Opatrovník má opatrovanému především pomáhat naplňovat jeho potřeby a chránit jeho práva, nikoli jednat proti jeho vůli. Nejčastější mýty a fakta týkající se opatrovnictví přinášíme níže. </p>"

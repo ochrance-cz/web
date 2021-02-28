@@ -1,7 +1,7 @@
 ---
 title: "Pozor! Změna vstupu do budovy"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/pozor-zmena-vstupu-do-budovy"
 date: 2019-07-16
 perex: "<p>Z důvodu rekonstrukce vstupního schodiště, bude od středy 17. 7. minimálně do 31. 7. uzavřen vstup hlavním schodištěm do budovy Kanceláře veřejného ochránce práv. </p>"

@@ -1,7 +1,7 @@
 ---
 title: "Maminka chlapce s postižením se dočkala příspěvku na péči i odškodnění"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2018/maminka-chlapce-s-postizenim-se-dockala-prispevku-na-peci-i-odskodneni"
 date: 2018-04-20
 perex: "<p>S pomocí ombudsmanky se matka tříletého chlapce se zdravotním postižením po téměř roce a půl dočkala příspěvku na péči a průkazu ZTP. Na základě její rady pak požádala o odškodnění a ministerstvo jí za průtahy v řízení přiznalo 20 000 Kč.</p>"

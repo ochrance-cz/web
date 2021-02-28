@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Bezmocný blízký"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-ii/pripad-pro-ombudsmana-bezmocny-blizky/"
 date: 2010-02-19
 perex: "<p></p><p>&quot;Bezmocným blízkým&quot; je v tomto konkrétním příběhu účastník autonehody, který v důsledku cizího zavinění utrpěl těžká zranění: ochrnutí horních i dolních končetin, amputaci levé ruky. </p>"

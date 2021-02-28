@@ -1,7 +1,7 @@
 ---
 title: "Při omezování pohybu pacientů nepanují standardy obvyklé v Evropě. Ministerstvo zdravotnictví se dlouhodobě brání jejich zavedení"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2017/pri-omezovani-pohybu-pacientu-nepanuji-standardy-obvykle-v-evrope-ministerstvo-zdravotnictv"
 date: 2017-10-26
 perex: "<p>Jedním z velkých problémů poskytovatelů zdravotních služeb je neexistující evidence případů používání omezovacích prostředků. Ministerstvo zdravotnictví ji dlouhodobě odmítá zavést. Obtížně se proto kontroluje, jak často a v jakých případech jsou omezovací prostředky používány, není možné srovnávat postupy jednotlivých zařízení. Z výsledků šetření ombudsmana vyplývá, že někteří pacienti jsou omezováni i když to není nezbytné, nebo zbytečně dlouho. Ať už jsou zklidňováni léky nebo přikurtováni k postelím.</p>"

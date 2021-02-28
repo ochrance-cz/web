@@ -1,7 +1,7 @@
 ---
 title: "Lidé si na služební zákon zatím zvykají"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2016/lide-si-na-sluzebni-zakon-zatim-zvykaji"
 date: 2016-06-23
 perex: "<p>Po prvním roce účinnosti služebního zákona se začínají objevovat stížnosti a výhrady lidí, kteří v praxi narážejí na nové požadavky a podmínky vycházející ze zákona. Především namítají ztížení podmínek při přijímání do služebního poměru.</p>"

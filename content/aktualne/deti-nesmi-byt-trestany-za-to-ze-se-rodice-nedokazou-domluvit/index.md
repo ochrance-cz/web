@@ -1,7 +1,7 @@
 ---
 title: "Děti nesmí být „trestány“ za to, že se rodiče nedokážou domluvit"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2011/deti-nesmi-byt-trestany-za-to-ze-se-rodice-nedokazou-domluvit"
 date: 2011-07-14
 perex: "<p></p>"

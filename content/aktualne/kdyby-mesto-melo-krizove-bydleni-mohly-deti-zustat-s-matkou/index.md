@@ -1,7 +1,7 @@
 ---
 title: "Kdyby město mělo krizové bydlení, mohly děti zůstat s matkou"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2018/kdyby-mesto-melo-krizove-bydleni-mohly-deti-zustat-s-matkou"
 date: 2018-11-16
 perex: "<p>K odebrání dětí matce žijící dočasně v garáži v Ústí nad Labem nemuselo dojít, kdyby existovalo sociální bydlení. Stačilo, aby mělo město k dispozici obecní byty pro řešení krizových životních situací svých občanů, hlavně rodin s dětmi, a děti mohly zůstat s matkou.</p>"

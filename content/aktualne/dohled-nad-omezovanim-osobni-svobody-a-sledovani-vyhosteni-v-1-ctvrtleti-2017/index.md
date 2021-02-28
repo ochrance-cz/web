@@ -1,7 +1,7 @@
 ---
 title: "Dohled nad omezováním osobní svobody a sledování vyhoštění v 1. čtvrtletí 2017"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2017/dohled-nad-omezovanim-osobni-svobody-a-sledovani-vyhosteni-v-1-ctvrtleti-2017/"
 date: 2017-05-24
 perex: "<p>V rámci prevence špatného zacházení a dohledu nad omezováním osobní svobody provedli pověření zaměstnanci Kanceláře veřejného ochránce práv (dále též jen „Kancelář“) v prvním čtvrtletí roku 2017 celkem 5 systematických návštěv zařízení a 6 sledování vyhoštění.</p>"

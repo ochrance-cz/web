@@ -1,7 +1,7 @@
 ---
 title: "Deset let ombudsmana jako národního preventivního mechanismu"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2016/deset-let-ombudsmana-jako-narodniho-preventivniho-mechanismu/"
 date: 2016-05-02
 perex: "<p>Od roku 2006 provádí ochránce systematických návštěv zařízení, kde se nacházejí osoby omezené na osobní svobodě, a posiluje jejich ochranu před mučením a jiným špatným zacházením. Plní tak úkoly národního preventivního mechanismu podle Opčního protokolu k Úmluvě proti mučení a jinému krutému, nelidskému či ponižujícímu zacházení nebo trestání (OPCAT).</p>"

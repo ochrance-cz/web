@@ -1,7 +1,7 @@
 ---
 title: "Ombudsman Stanislav Křeček zjišťuje, zda jsou myslivecké obory přístupné veřejnosti a jak se v nich návštěvníci mohou pohybovat"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/ombudsman-stanislav-krecek-zjistuje-zda-jsou-myslivecke-obory-pristupne-verejnosti-a-jak-s"
 date: 2020-08-06
 perex: "<p>Na ombudsmana se obracejí lidé se stížnostmi ohledně omezeného vstupu do některých mysliveckých obor. Ombudsman se proto rozhodl zahájit výzkumné šetření ohledně přístupu veřejnosti do obor a pohybu v nich. Informace o přístupu veřejnosti do obor a podmínkách pohybu by měly vyplynout z odpovědí orgánů státní správy myslivosti, orgánů státní správy lesů, orgánů ochrany přírody a uživatelů, na které se ombudsman obrátí. </p>"

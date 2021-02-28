@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Ochrana veřejného zdraví"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-iv/pripad-pro-ombudsmana-ochrana-verejneho-zdravi/"
 date: 2008-11-12
 perex: "<p></p>"

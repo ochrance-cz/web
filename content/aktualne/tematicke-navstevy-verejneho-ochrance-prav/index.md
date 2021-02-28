@@ -1,7 +1,7 @@
 ---
 title: "Tematické návštěvy veřejného ochránce práv"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2011/tematicke-navstevy-verejneho-ochrance-prav/"
 date: 2011-08-31
 perex: "<p></p><p>Vedle hloubkových šetření zaměřených na celou škálu lidsko-právních aspektů života v instituci, jež v praxi ochránce převažují, zařazuje veřejný ochránce práv do plánu systematických návštěv také tzv. tematické návštěvy.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Odebrání mobilu policií při dopravním přestupku"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2013/odebrani-mobilu-policii-pri-dopravnim-prestupku"
 date: 2013-10-09
 perex: "<p>Existence mobilního telefonu sama o sobě není důkazem, že ho řidič za jízdy držel a dopustil se tak dopravního přestupku. Jeho zabavení policií s tím, že jde o věc důležitou pro řízení o přestupku, je proto nejen nesmyslné, ale budí dojem svévole a zneužití práva.</p>"

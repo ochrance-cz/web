@@ -1,7 +1,7 @@
 ---
 title: "Nevidomým, ale nejen jim, pomáháme už nyní"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2017/nevidomym-ale-nejen-jim-pomahame-uz-nyni"
 date: 2017-11-13
 perex: "<p>Právy osob se zdravotním postižením se sice ombudsmanka bude moct systematicky zabývat až od 1. ledna 2018, ale individuální podněty týkající se činnosti státní správy nebo rovného zacházení řeší i nyní. Její pomoc se tedy vztahuje i na nevidomé a slabozraké. Ti si dnes Mezinárodním dnem nevidomých připomínají narození autora písma rozpoznatelného hmatem, které umožnilo i nevidomým číst.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Seminář roku: Strategická litigace a boj proti diskriminaci"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2017/seminar-roku-strategicka-litigace-a-boj-proti-diskriminaci/"
 date: 2017-11-09
 perex: "<p>V pondělí 13. listopadu 2017 proběhne v Kanceláři veřejného ochránce práv právnický seminář s mezinárodní účastí. Připomene desetileté výroční od vynesení rozsudku Evropského soudu pro lidská práva ve věci D. H. a ostatní proti České republice. Ochránkyně pořádá tuto akci spolu s Nadací Open Society Fund Praha a Open Society Justice Initiative.</p>"

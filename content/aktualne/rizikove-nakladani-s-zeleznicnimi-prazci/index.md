@@ -1,7 +1,7 @@
 ---
 title: "Rizikové nakládání s železničními pražci"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2009/rizikove-nakladani-s-zeleznicnimi-prazci"
 date: 2009-02-18
 perex: "<p></p><p>Použité dřevěné železniční pražce mohou být v důsledku kontaminace zdraví škodlivými látkami nebezpečným odpadem, který je nutné likvidovat způsobem, jenž stanoví zákon o odpadech (tj. předat k likvidaci příslušnému odbornému zařízení). Pražce nelze bez dalšího prodávat fyzickým osobám k volnému použití.</p>"

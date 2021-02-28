@@ -1,7 +1,7 @@
 ---
 title: "Používání poutacích řetězů"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2012/pouzivani-poutacich-retezu/"
 date: 2012-12-12
 perex: "<p>Ochránce zjišťoval, jaké donucovací prostředky se používají v zahraničních věznicích. Poutací řetězy, které se používají u nás, v zahraničí považují za nehumánní.</p>"

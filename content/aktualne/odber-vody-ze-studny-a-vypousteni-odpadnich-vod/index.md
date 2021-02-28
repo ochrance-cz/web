@@ -1,7 +1,7 @@
 ---
 title: "Odběr vody ze studny a vypouštění odpadních vod"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2007/odber-vody-ze-studny-a-vypousteni-odpadnich-vod"
 date: 2007-05-11
 perex: "<p></p>"

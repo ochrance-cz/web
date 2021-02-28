@@ -1,7 +1,7 @@
 ---
 title: "Pohřebnictví je často víc o etice a vztazích než o právu"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2013/pohrebnictvi-je-casto-vic-o-etice-a-vztazich-nez-o-pravu"
 date: 2013-10-15
 perex: "<p>Na jedné straně přibývá v České republice tzv. sociálních pohřbů zajišťovaných obcemi, ale současně se stále častěji objevují přání lidí, aby jejich ostatky byly pohřbeny netradičním způsobem. Znovu a znovu se ochránce také setkává s vyhrocenými a často velmi komplikovanými spory o hroby mezi příbuznými. Za určitý dluh v oblasti pohřebnictví pak ochránce považuje nevymahatelnost povinného zřizování ochranného pásma kolem hřbitovů obcemi.</p>"

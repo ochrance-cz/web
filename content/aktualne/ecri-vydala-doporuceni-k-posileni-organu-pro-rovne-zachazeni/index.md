@@ -1,7 +1,7 @@
 ---
 title: "ECRI vydala doporučení k posílení orgánů pro rovné zacházení"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2018/ecri-vydala-doporuceni-k-posileni-organu-pro-rovne-zachazeni/"
 date: 2018-07-31
 perex: "<p>Podle Evropské komise proti rasismu a nesnášenlivosti (ECRI) je třeba posílit nezávislost a efektivitu orgánů pro rovné zacházení.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Ve věznicích jsou v omezeném rozsahu opět povoleny návštěvy"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/ve-veznicich-jsou-v-omezenem-rozsahu-opet-povoleny-navstevy"
 date: 2020-06-08
 perex: "<p>V souvislosti s rozvolňováním protipandemických opatření se na základě mimořádného opatření Ministerstva zdravotnictví ze dne 15. 5. 2020 ve vazebních věznicích, věznicích a v ústavech pro výkon zabezpečovací detence znovu umožnily návštěvy, nicméně zatím pouze v omezeném rozsahu. Od 18. 5. 2020 může být vězněná osoba v rámci jedné návštěvy navštívena pouze jedním návštěvníkem.</p>"

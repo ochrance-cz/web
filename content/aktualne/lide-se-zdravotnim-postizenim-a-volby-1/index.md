@@ -1,7 +1,7 @@
 ---
 title: "Lidé se zdravotním postižením a volby"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2018/lide-se-zdravotnim-postizenim-a-volby-1/"
 date: 2018-10-02
 perex: "<p>Účast ve volbách znamená pro voliče možnost ovlivňovat podmínky svého života, spoluutvářet místo, kde žijí. Má tedy pro lidi se zdravotním postižením stejně zásadní význam, jako pro kohokoli jiného. Pro lidi se zdravotním postižením navíc představuje i jeden ze znaků jejich rovnoprávného postavení a začlenění do společnosti. Přesto v souvislosti s každými volbami vyvstane otázka volební účasti lidí s omezenou svéprávností.</p>"

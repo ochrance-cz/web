@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Kdo by mohl pomoci?"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-v/pripad-pro-ombudsmana-kdo-by-mohl-pomoci/"
 date: 2009-09-09
 perex: "<p></p>"

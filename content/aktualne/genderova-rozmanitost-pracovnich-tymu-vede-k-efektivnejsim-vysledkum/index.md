@@ -1,7 +1,7 @@
 ---
 title: "Genderová rozmanitost pracovních týmů vede k efektivnějším výsledkům"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2016/genderova-rozmanitost-pracovnich-tymu-vede-k-efektivnejsim-vysledkum/"
 date: 2016-09-05
 perex: "<p>Organizace European Women on Boards (EWoB) zveřejnila výsledky rozsáhlé studie týkající se zastoupení žen ve výkonných a dozorčích radách v 600 největších evropských obchodních společnostech. </p>"

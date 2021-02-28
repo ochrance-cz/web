@@ -1,7 +1,7 @@
 ---
 title: "Náhradu za újmu způsobenou diskriminací může žádat pouze vážný uchazeč či uchazečka o zaměstnání"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2016/nahradu-za-ujmu-zpusobenou-diskriminaci-muze-zadat-pouze-vazny-uchazec-ci-uchazecka-o/"
 date: 2016-11-02
 perex: "<p>Soudní dvůr EU ve svém rozsudku z 28. července 2016 rozhodl, že pokud je uchazeč o zaměstnání motivován pouze získáním náhrady újmy v penězích a nikoli získáním místa a zaměstnání, nemůže se takový uchazeč v případě odmítnutí dovolávat ochrany proti diskriminaci, kterou upravují směrnice Rady 2000/78/ES a Rady 2006/54/ES týkající se rovného zacházení a rovných příležitostí pro muže a ženy v oblasti zaměstnání a povolání (dále “směrnice 2000/78 a směrnice 2006/54”).</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Majetek zemřelého připadne státu, ten odmítá uhradit důstojný pohřeb"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2008/majetek-zemreleho-pripadne-statu-ten-odmita-uhradit-dustojny-pohreb"
 date: 2008-11-06
 perex: "<p></p>"

@@ -1,7 +1,7 @@
 ---
 title: "Konference Alzheimer Europe 2013"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2013/konference-alzheimer-europe-2013/"
 date: 2013-11-11
 perex: "<p></p>"

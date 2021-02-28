@@ -1,7 +1,7 @@
 ---
 title: "Blahopřejeme Equinetu k 10 letům činnosti"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2017/blahoprejeme-equinetu-k-10-letum-cinnosti"
 date: 2017-10-09
 perex: "<p>Evropská síť Equinet sdružující národní orgány a centra rovného zacházení slaví 10 let své činnosti. Při této příležitosti pořádá v úterý 10. 10. v Bruselu výroční konferenci „Společně za rovnou Evropu“. Účastní se jí zástupci evropských antidiskriminačních orgánů včetně ombudsmanky Anny Šabatové, zástupci institucí Evropské unie, nevládních organizací, vlád a parlamentů aj.</p>"

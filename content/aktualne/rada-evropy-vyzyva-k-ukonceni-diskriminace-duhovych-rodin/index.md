@@ -1,7 +1,7 @@
 ---
 title: "Rada Evropy vyzývá k ukončení diskriminace duhových rodin"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2019/rada-evropy-vyzyva-k-ukonceni-diskriminace-duhovych-rodin/"
 date: 2019-01-03
 perex: "<p>Parlamentní shromáždění Rady Evropy (PACE) přijalo rezoluci požadující po členských státech přiznání práv LGBTQ rodinám.</p>"

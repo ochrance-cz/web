@@ -1,7 +1,7 @@
 ---
 title: "Vojákům z povolání může být zpětně proplacena nařízená dosažitelnost"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2013/vojakum-z-povolani-muze-byt-zpetne-proplacena-narizena-dosazitelnost"
 date: 2013-12-11
 perex: "<p>Ministr obrany při jednání se zástupcem ombudsmana přislíbil zpětně vyplatit vojákům z povolání odměnu za služební pohotovost, která byla nařizována v rozporu se zákonem o vojácích z povolání jako tzv. dosažitelnost. Pokud vojáci znovu požádají o proplacení nařízené dosažitelnosti, lze očekávat, že jim bude při splnění všech náležitostí vyhověno.</p>"

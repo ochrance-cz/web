@@ -1,7 +1,7 @@
 ---
 title: "Ani na ministerskou databázi ujetých kilometrů nelze úplně spoléhat"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2016/ani-na-ministerskou-databazi-ujetych-kilometru-nelze-uplne-spolehat"
 date: 2016-03-02
 perex: "<p>Zástupce ombudsmanky požádal Ministerstvo dopravy, aby co nejdříve zajistilo spolehlivost údajů v databázi www.kontrolatachometru.cz a umožnilo opravovat prokazatelně chybné informace nebo je alespoň označovat jako chybné.</p>"

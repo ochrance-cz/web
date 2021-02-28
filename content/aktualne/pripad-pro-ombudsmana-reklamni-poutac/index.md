@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Reklamní poutač"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-iv/pripad-pro-ombudsmana-reklamni-poutac/"
 date: 2008-12-30
 perex: "<p></p>"

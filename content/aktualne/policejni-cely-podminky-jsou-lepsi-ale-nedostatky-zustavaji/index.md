@@ -1,7 +1,7 @@
 ---
 title: "Policejní cely: podmínky jsou lepší, ale nedostatky zůstávají"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2010/policejni-cely-podminky-jsou-lepsi-ale-nedostatky-zustavaji"
 date: 2010-10-13
 perex: "<p></p>"

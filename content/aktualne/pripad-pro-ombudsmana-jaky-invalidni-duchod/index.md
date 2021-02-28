@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Jaký invalidní důchod"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-i/pripad-pro-ombudsmana-jaky-invalidni-duchod/"
 date: 2010-02-19
 perex: "<p></p><p>Neslyšící matka dvou dětí ve svém podnětu Kanceláři VOP namítala, že její invalidní důchod je ve srovnání s ostatními stejně postiženými nižší. </p>"

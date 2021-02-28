@@ -1,7 +1,7 @@
 ---
 title: "PF 2013"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2012/pf-2013"
 date: 2012-12-20
 perex: "<p>Ombudsman a jeho zástupkyně přejí všem lidem pokojné Vánoce a šťastný nový rok.</p>"

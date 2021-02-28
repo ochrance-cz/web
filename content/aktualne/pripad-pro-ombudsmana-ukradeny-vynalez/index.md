@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Ukradený vynález"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-i/pripad-pro-ombudsmana-ukradeny-vynalez/"
 date: 2010-02-19
 perex: "<p></p><p>Příběh skupinky vynálezců se soudně vleče od roku 1991, vystřídalo se na něm několik soudců. Žalovaná strana vydělávala od osmdesátých let ročně miliony na vynálezu, za který jeho autoři nedostali nikdy nic. V současné době je zemědělské družstvo v Pasece u Šternberku, které vynález využívalo, v likvidaci, vynálezcům je kolem osmdesátky, jejich případ je zastaven.</p>"

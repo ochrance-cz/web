@@ -1,7 +1,7 @@
 ---
 title: "Pavel Varvařovský k smrti Ernesta Valka"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2010/pavel-varvarovsky-k-smrti-ernesta-valka"
 date: 2010-11-10
 perex: "<p></p>"

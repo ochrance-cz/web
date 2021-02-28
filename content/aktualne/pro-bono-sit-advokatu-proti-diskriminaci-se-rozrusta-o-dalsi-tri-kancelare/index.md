@@ -1,7 +1,7 @@
 ---
 title: "Pro bono síť advokátů proti diskriminaci se rozrůstá o další tři kanceláře"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2015/pro-bono-sit-advokatu-proti-diskriminaci-se-rozrusta-o-dalsi-tri-kancelare/"
 date: 2015-10-20
 perex: "<p>Kancelář ombudsmana a Pro bono aliance proškolily další advokáty</p>"

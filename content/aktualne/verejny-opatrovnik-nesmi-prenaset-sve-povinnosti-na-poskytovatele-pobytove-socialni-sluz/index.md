@@ -1,7 +1,7 @@
 ---
 title: "Veřejný opatrovník nesmí přenášet své povinnosti na poskytovatele pobytové sociální služby"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/verejny-opatrovnik-nesmi-prenaset-sve-povinnosti-na-poskytovatele-pobytove-socialni-sluz"
 date: 2020-09-15
 perex: "<p>Dle zástupkyně ombudsmana je nepřípustné, aby veřejní opatrovníci přenášeli své povinnosti, včetně hospodaření s majetkem opatrovanců, na poskytovatele sociální služby, na níž jsou opatrovanci závislí. Tímto jednáním opatrovníci nejen obchází zákonnou úpravu, ale také vystavují opatrovance nepřiměřenému riziku zneužití.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Zástupkyně ochránce k petici na záchranu lázní Kyselka"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2011/zastupkyne-ochrance-k-petici-na-zachranu-lazni-kyselka"
 date: 2011-02-17
 perex: "<p></p>"

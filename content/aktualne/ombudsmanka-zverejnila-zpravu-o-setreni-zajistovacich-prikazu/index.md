@@ -1,7 +1,7 @@
 ---
 title: "Ombudsmanka zveřejnila zprávu o šetření zajišťovacích příkazů"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2017/ombudsmanka-zverejnila-zpravu-o-setreni-zajistovacich-prikazu"
 date: 2017-12-11
 perex: "<p>Přestože nelze vyloučit individuální pochybení, šetření ombudsmanky prozatím neprokázalo, že by finanční správa plošně využívala, či dokonce zneužívala vůči podnikatelům zajišťovací příkazy. O případných individuálních pochybeních nyní rozhodují soudy. Ombudsmanka vyzvala finanční správu, aby statistické údaje doplnila o další podstatná data. Zabývala se také možným zkvalitněním práce finanční správy do budoucna.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Léčebny dlouhodobě nemocných: přehled práv pacientů"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2018/lecebny-dlouhodobe-nemocnych-prehled-prav-pacientu"
 date: 2018-04-13
 perex: "<p>Zákon přiznává pacientům léčeben dlouhodobě nemocných řadu práv. Pacienti a jejich blízcí o nich však často nevědí, nebo si nejsou jisti jejich obsahem (viz právo pacienta na úctu, důstojné zacházení, na ohleduplnost a respektování soukromí při poskytování péče). Přinášíme proto přehled práv a povinností, které souvisejí s poskytováním péče v léčebnách a s jejichž porušováním se ombudsmanka během návštěv léčeben nejčastěji setkává.</p>"

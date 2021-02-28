@@ -1,7 +1,7 @@
 ---
 title: "Občané EU žijící v ČR mají právo účastnit se politického života"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2014/obcane-eu-zijici-v-cr-maji-pravo-ucastnit-se-politickeho-zivota"
 date: 2014-07-23
 perex: "<p></p>"

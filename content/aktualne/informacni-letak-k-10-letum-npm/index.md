@@ -1,7 +1,7 @@
 ---
 title: "Informační leták k 10 letům NPM"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2016/informacni-letak-k-10-letum-npm/"
 date: 2016-02-04
 perex: "<p>Do 1. ledna 2006 neexistoval v České republice orgán, který by systematicky sledoval, zda jsou dodržována práva osob omezených na svobodě, zda tito lidé nejsou vystaveni špatnému zacházení nebo jím ohroženi. Případné kontroly či dozor se soustředily zejména na dodržování právních předpisů, nikoli na hledisko respektování lidské důstojnosti.</p>"

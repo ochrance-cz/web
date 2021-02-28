@@ -1,7 +1,7 @@
 ---
 title: "Vztah veřejného opatrovníka a opatrovaného musí být založen na důvěře (nález Ústavního soudu sp. zn. III. ÚS 3333/11)"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2013/vztah-verejneho-opatrovnika-a-opatrovaneho-musi-byt-zalozen-na-duvere-nalez-ustavniho/"
 date: 2013-10-24
 perex: "<p>Rozhodnutí Ústavního soudu sp. zn. III. ÚS 3333/11 ze dne 26. září 2013 se týká stěžovatele, který je omezen způsobilosti k právním úkonům a který se v řízeních před obecními soudy pokoušel dosáhnout změny osoby (veřejného) opatrovníka. Ústavní soud zrušil rozhodnutí krajského soudu, který nesprávně dovozoval, že soud nemá důvod změnit opatrovníka pouze na základě žádosti opatrovaného opřené o osobní neshody a vztah nedůvěry mezi opatrovaným a opatrovníkem.</p>"

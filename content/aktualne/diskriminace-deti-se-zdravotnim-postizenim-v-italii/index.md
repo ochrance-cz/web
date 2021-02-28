@@ -1,7 +1,7 @@
 ---
 title: "Diskriminace dětí se zdravotním postižením v Itálii"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2015/diskriminace-deti-se-zdravotnim-postizenim-v-italii/"
 date: 2015-02-10
 perex: "<p>Italský Nejvyšší soud ve svém rozhodnutí z 25. listopadu 2014 zdůraznil roli asistentů pedagoga při vzdělávání dětí se zdravotním postižením, když shledal jednání omezující přístup k asistenci za nepřímo diskriminační.</p>"

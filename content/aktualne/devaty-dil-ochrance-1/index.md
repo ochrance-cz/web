@@ -1,7 +1,7 @@
 ---
 title: "Devátý díl Ochránce"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/ochrance-iii-2013/devaty-dil-ochrance-1/"
 date: 2013-11-01
 perex: "<p>V neděli 3. listopadu v 11:20 h začíná na ČT2 devátý díl pořadu Ochránce. První příběh se týká policejního násilí, které nakonec řešil až Evropský soud pro lidská práva. Na začátku druhého případu bylo vulgární slovo v reklamě a ve třetím čelí policista propuštění ze služebního poměru kvůli zdravotní nezpůsobilosti. Opakování tohoto dílu je na programu ČT2 ve středu 6. 11. ve 13:15 a další reprízy jsou pak zařazeny do vysílání ČT2 v neděli a úterý vždy po půlnoci.</p>"

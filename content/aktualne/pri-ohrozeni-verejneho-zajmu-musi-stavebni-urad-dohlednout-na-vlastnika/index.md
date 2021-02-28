@@ -1,7 +1,7 @@
 ---
 title: "Při ohrožení veřejného zájmu musí stavební úřad „dohlédnout“ na vlastníka"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2014/pri-ohrozeni-verejneho-zajmu-musi-stavebni-urad-dohlednout-na-vlastnika"
 date: 2014-10-01
 perex: "<p>Jestliže může být ohrožen veřejný zájem, musí stavební úřad věc prověřit a přijmout opatření podle stavebního zákona. Nemůže nájemce bytu pouze odkazovat na vlastníka. Vlastník (pronajímatel) má sice obecnou povinnost předat nájemci byt ve způsobilém stavu k užívání a udržovat stavbu v dobrém stavu, ale pokud vyvstane podezření, že byt ohrožuje zdraví nájemníků, musí stavební úřad věc prověřit a využít svých pravomocí k ochraně veřejného zájmu (zdraví).</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Vyšla nová studie o přiměřených opatřeních! Netýká se pouze práv osob se zdravotním postižením, ale i jiných menšin."
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2014/vysla-nova-studie-o-primerenych-opatrenich-netyka-se-pouze-prav-osob-se-zdravotnim-post/"
 date: 2014-02-21
 perex: "<p>Evropská síť právních expertů v oblasti potírání diskriminace zveřejnila novou tematickou zprávu s názvem „Přiměřená antidiskriminační opatření mimo rámec zdravotního postižení“. </p>"

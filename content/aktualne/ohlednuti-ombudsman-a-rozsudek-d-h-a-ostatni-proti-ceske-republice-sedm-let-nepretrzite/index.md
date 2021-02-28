@@ -1,7 +1,7 @@
 ---
 title: "Ohlédnutí: Ombudsman a rozsudek D. H. a ostatní proti České republice. Sedm let nepřetržité práce pro romské děti."
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2017/ohlednuti-ombudsman-a-rozsudek-d-h-a-ostatni-proti-ceske-republice-sedm-let-nepretrzite/"
 date: 2017-11-14
 perex: "<p>Od roku 2009, kdy se stal ombudsman národním orgánem pro rovné zacházení (national equality body) podle Rasové směrnice EU, je problematika segregace romských dětí ve vzdělávání jednou z nejdůležitějších v jeho antidiskriminační agendě. Podívejme se na některé zásadní okamžiky z uplynulých let.</p>"

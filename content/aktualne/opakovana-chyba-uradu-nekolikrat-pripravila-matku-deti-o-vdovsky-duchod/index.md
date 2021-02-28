@@ -1,7 +1,7 @@
 ---
 title: "Opakovaná chyba úřadu několikrát připravila matku dětí o vdovský důchod"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2017/opakovana-chyba-uradu-nekolikrat-pripravila-matku-deti-o-vdovsky-duchod"
 date: 2017-06-19
 perex: "<p>Ochránkyně vytkla České správě sociálního zabezpečení, že opakovaně odnímala vdovský důchod matce pečující o dvě nezaopatřené děti.  Žena přitom pokaždé na chybu upozornila, ale nebylo jí to nic platné. ČSSZ svůj chybný postup pouze odůvodňovala technickým nastavením systému výplaty pozůstalostních důchodů. Podle ochránkyně se s takovým stavem nelze smířit. Po jejím šetření úřad své pracovníky poučil a přislíbil systém do budoucna změnit.</p>"

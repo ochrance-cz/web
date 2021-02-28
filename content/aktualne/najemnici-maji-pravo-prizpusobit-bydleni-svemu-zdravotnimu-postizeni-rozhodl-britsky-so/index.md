@@ -1,7 +1,7 @@
 ---
 title: "Nájemníci mají právo přizpůsobit bydlení svému zdravotnímu postižení, rozhodl britský soud"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2019/najemnici-maji-pravo-prizpusobit-bydleni-svemu-zdravotnimu-postizeni-rozhodl-britsky-so/"
 date: 2019-06-10
 perex: "<p>Britský soud se zastal ženy se zdravotním postižením, které pronajímatel nepovolil upravit byt podle jejích potřeb.</p>"

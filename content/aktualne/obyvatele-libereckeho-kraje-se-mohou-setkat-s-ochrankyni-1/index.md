@@ -1,7 +1,7 @@
 ---
 title: "Obyvatelé Libereckého kraje se mohou setkat s ochránkyní"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2015/obyvatele-libereckeho-kraje-se-mohou-setkat-s-ochrankyni-1"
 date: 2015-05-07
 perex: "<p>Obyvatelé Libereckého kraje mají ve čtvrtek 21. května možnost setkat se s veřejnou ochránkyní práv Annou Šabatovou. V rámci akce „Zajímáte nás“ se dozví víc o působnosti a pravomoci ochránkyně a mohou jí předat podnět k šetření.</p>"

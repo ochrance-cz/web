@@ -1,7 +1,7 @@
 ---
 title: "Návštěva ochránkyně v regionu pomohla k obnovení výplaty důchodu"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2015/navsteva-ochrankyne-v-regionu-pomohla-k-obnoveni-vyplaty-duchodu"
 date: 2015-07-07
 perex: "<p>Díky návštěvě ochránkyně v Pardubickém kraji se jeden z těch, kdo přišli a podali podnět, dočkal toho, že po roce a půl začal znovu dostávat invalidní důchod. Setkání veřejné ochránkyně práv s občany v regionech spojená s možností osobního předání podnětu tak přinášejí konkrétní výsledky. </p>"

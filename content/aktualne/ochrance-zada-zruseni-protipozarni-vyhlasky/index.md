@@ -1,7 +1,7 @@
 ---
 title: "Ochránce žádá zrušení protipožární vyhlášky"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2009/ochrance-zada-zruseni-protipozarni-vyhlasky"
 date: 2009-01-26
 perex: "<p></p><p>Veřejný ochránce práv předložil Ústavnímu soudu návrh na zrušení vyhlášky č. 23/2008 Sb., o technických podmínkách požární ochrany staveb („protipožární vyhláška“), vydané Ministerstvem vnitra a účinné od 1. července 2008. Tato vyhláška mj. stanovuje povinnost vybavit nové domy hasicími přístroji a u vybraných objektů i kouřovými čidly.</p>"

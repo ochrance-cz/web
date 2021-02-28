@@ -1,7 +1,7 @@
 ---
 title: "Věk sám o sobě by neměl být kritériem pro stanovení omezení, tvrdí belgické organizace"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2020/vek-sam-o-sobe-by-nemel-byt-kriteriem-pro-stanoveni-omezeni-tvrdi-belgicke-organizace/"
 date: 2020-05-27
 perex: "<p>Organizace hájící práva starších lidí v Belgii kritizují protipandemické opatření, které povoluje péči o vnoučata pouze prarodičům, kteří nedosáhli věku 65 let.</p>"

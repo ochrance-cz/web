@@ -1,7 +1,7 @@
 ---
 title: "Možnost zadržených použít v policejní cele sprchu – zkušenosti ze zahraničí"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2012/moznost-zadrzenych-pouzit-v-policejni-cele-sprchu-zkusenosti-ze-zahranici/"
 date: 2012-10-23
 perex: "<p>Na dotaz českého ombudsmana popsali kolegové z evropských NPM práva zadržených v policejních celách, konkrétně možnosti použití sprchu, pobývat na čerstvém vzduchu a rovněž se vyjádřili k zajištění přirozeného osvětlení v celách.</p>"

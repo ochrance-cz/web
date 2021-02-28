@@ -1,7 +1,7 @@
 ---
 title: "Posouzení zdravotního stavu před umístěním do policejní cely"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2012/posouzeni-zdravotniho-stavu-pred-umistenim-do-policejni-cely/"
 date: 2012-07-10
 perex: "<p></p>"

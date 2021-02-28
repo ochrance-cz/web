@@ -1,7 +1,7 @@
 ---
 title: "Anna Šabatová se ujala funkce"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2014/anna-sabatova-se-ujala-funkce"
 date: 2014-02-18
 perex: "<p>Slibem do rukou předsedy Poslanecké sněmovny se dnes Anna Šabatová ujala funkce veřejné ochránkyně práv.</p>"

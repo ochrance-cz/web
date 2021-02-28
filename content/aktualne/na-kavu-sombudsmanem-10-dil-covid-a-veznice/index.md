@@ -1,7 +1,7 @@
 ---
 title: "Na kávu s ombudsmanem, 10. díl: COVID a věznice"
-tags:
-  - Podcast
+vystupy:
+  - podcast
 oldUrl: "/aktualne/tiskove-zpravy-2021/na-kavu-sombudsmanem-10-dil-covid-a-veznice"
 date: 2021-02-12
 perex: "Dnešní podcast se zabývá dopady pandemie COVID-19 na život za mřížemi. Dozvíte se třeba to, jaký vliv měla opatření proti šíření pandemie na vězně a zaměstnance, nebo proč jsou rizika spojená s tímto onemocněním ve vězení vyšší než v běžné populaci."

@@ -1,7 +1,7 @@
 ---
 title: "Návštěva ochránkyně v Pardubickém kraji"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2014/navsteva-ochrankyne-v-pardubickem-kraji"
 date: 2014-10-07
 perex: "<p>Ve čtvrtek 16. října se v Pardubickém kraji uskuteční další z návštěv veřejné ochránkyně práv Anny Šabatové v regionech v rámci osvětové kampaně „Zajímáte nás“. Cílem setkání s občany  je zvyšovat jejich právní povědomí, povzbudit je v řešení problémů s úřady či diskriminací a informovat je o působnosti veřejného ochránce práv. Zájemci mohou využít návštěvy i k podání podnětu ochránkyni.</p>"

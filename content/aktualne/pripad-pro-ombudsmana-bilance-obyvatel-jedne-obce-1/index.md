@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Bilance obyvatel jedné obce"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-vi/pripad-pro-ombudsmana-bilance-obyvatel-jedne-obce-1/"
 date: 2010-10-14
 perex: "<p></p><p>V pátek 15. 10. vysílá Česká televize na ČT1 v 18:25 sedmý díl cyklu Případ pro ombudsmana (repríze v pondělí 18. 10. ve 12:25 na ČT2). V díle nazvaném Bilance obyvatel jedné obce ochránce pomáhal obci Kuřimská Nová Ves, která vinou špatných údajů o počtu obyvatel přišla o peníze.</p>"

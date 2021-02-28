@@ -1,7 +1,7 @@
 ---
 title: "Seriál Ochránce – 10. díl – Zdravotní pojištění"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2012/serial-ochrance-10-dil-zdravotni-pojisteni"
 date: 2012-11-09
 perex: "<p>V neděli 11. 11. ve 11:00h vysílá ČT2 10. díl pořadu Ochránce, tentokrát o ochraně práv dětí. Reprízu dílu uvidíte na ČT2 v úterý 13. 11. v 9:00h.</p>"

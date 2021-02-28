@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Cesta k hradu"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-vi/pripad-pro-ombudsmana-cesta-k-hradu-1/"
 date: 2010-10-22
 perex: "<p></p><p>V pátek 22. 10. vysílá Česká televize na ČT1 v 18:25 osmý díl cyklu Případ pro ombudsmana (repríze v pondělí 25. 10. ve 12:25 na ČT2). Díl nazvaný Cesta k hradu vypráví o nadšenci, který koupil polorozbořenou kulturní památku Nový hrad a začal ho rekonstruovat. Majitel pozemků, po nichž vede jediná přístupová cesta na hrad, však stanovil podmínky pro užívání cesty, které rekonstrukci znemožňují.</p>"

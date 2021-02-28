@@ -1,7 +1,7 @@
 ---
 title: "Euroobčané, máte právo účastnit se komunálních voleb"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2014/euroobcane-mate-pravo-ucastnit-se-komunalnich-voleb"
 date: 2014-09-08
 perex: "<p>I přes odmítavé stanovisko ministra vnitra je ochránkyně přesvědčena, že občané EU s potvrzením o přechodném pobytu v České republice mají právo účastnit se komunálních voleb. Rozhodla se proto poskytnout jim návod, jak postupovat, a argumenty, které mohou při prosazení svého práva využít.</p>"

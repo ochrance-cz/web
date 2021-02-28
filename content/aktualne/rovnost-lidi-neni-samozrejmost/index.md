@@ -1,7 +1,7 @@
 ---
 title: "Rovnost lidí není samozřejmost"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2016/rovnost-lidi-neni-samozrejmost"
 date: 2016-08-25
 perex: "<p>Základním kamenem demokratických společností a jejich právního řádu je přesvědčení, že všichni lidé mají stejná individuální práva. Bez rozdílu. V České republice je jejich katalog zakotven explicitně v Listině základních práv a svobod. Tento zdánlivě samozřejmý předpoklad je dodnes předmětem mnoha sporů a nedorozumění. </p>"

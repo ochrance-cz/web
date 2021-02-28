@@ -1,7 +1,7 @@
 ---
 title: "Systematická návštěva Psychiatrické nemocnice v Horních Beřkovicích"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2017/systematicka-navsteva-psychiatricke-nemocnice-v-hornich-berkovicich/"
 date: 2017-03-07
 perex: "<p></p>"

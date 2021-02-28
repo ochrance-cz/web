@@ -1,7 +1,7 @@
 ---
 title: "Nová zpráva Equinetu zkoumá vývoj legislativy v oblasti diskriminace na základě víry a přesvědčení"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2018/nova-zprava-equinetu-zkouma-vyvoj-legislativy-v-oblasti-diskriminace-na-zaklade-viry-a-presv/"
 date: 2018-08-09
 perex: "<p>Evropská síť orgánů pro rovné zacházení Equinet vydala publikaci Faith in Equality: Religion and Belief in Europe.</p>"

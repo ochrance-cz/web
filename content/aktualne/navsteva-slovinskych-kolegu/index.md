@@ -1,7 +1,7 @@
 ---
 title: "Návštěva slovinských kolegů"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2012/navsteva-slovinskych-kolegu/"
 date: 2012-10-11
 perex: "<p>Pracovníci slovinského ombudsmana se účastnili několika systematických návštěv v českých zařízeních. S kolegy z oddělení dohledu nad omezováním osobní svobody pak diskutovali o rozdílech v postupu, vyměňovali si zkušenosti a náměty.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Provádění stavebních úprav ze sousedního pozemku bez vědomí jeho vlastníků"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2015/provadeni-stavebnich-uprav-ze-sousedniho-pozemku-bez-vedomi-jeho-vlastniku"
 date: 2015-11-11
 perex: "<p>Pokud někdo přeleze plot k sousedům, aby si z jejich pozemku opravil dům, a sousedy nepožádá o souhlas, ani jim to předem neřekne, dopouští se přestupku přinejmenším proti občanskému soužití. Ačkoli to vypadá jako jednoduchá záležitost, pro úřady nemusí být snadné takovou věc správně posoudit. Ilustruje to případ, na který ochránkyně upozornila poslance v rámci své Zprávy o činnosti ve 3. čtvrtletí.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Seriál Ochránce – 8. díl – Nezaměstnaní"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2012/serial-ochrance-8-dil-nezamestnani"
 date: 2012-10-25
 perex: "<p>V neděli 28. 10. ve 10:05h vysílá ČT2 8. díl pořadu Ochránce, tentokrát o problémech nezaměstnaných. Reprízu dílu uvidíte na ČT2 v úterý 30. 10. v 9:00h.</p>"

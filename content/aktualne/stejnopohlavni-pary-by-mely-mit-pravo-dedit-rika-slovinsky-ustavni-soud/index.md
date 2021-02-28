@@ -1,7 +1,7 @@
 ---
 title: "Stejnopohlavní páry by měly mít právo dědit, říká slovinský Ústavní soud"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2013/stejnopohlavni-pary-by-mely-mit-pravo-dedit-rika-slovinsky-ustavni-soud/"
 date: 2013-11-21
 perex: "<p>Slovinský zákon o dědění nepřipouštěl dědictví mezi partnery stejného pohlaví. Ústavní soud Slovinské republiky dne 14. dubna 2013 prohlásil tento zákon protiústavním.</p>"

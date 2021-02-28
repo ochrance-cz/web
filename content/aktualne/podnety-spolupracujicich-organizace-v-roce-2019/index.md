@@ -1,7 +1,7 @@
 ---
 title: "Podněty spolupracujících organizace v roce 2019"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2020/podnety-spolupracujicich-organizace-v-roce-2019/"
 date: 2020-01-23
 perex: "<p></p>"

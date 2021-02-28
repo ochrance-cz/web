@@ -1,7 +1,7 @@
 ---
 title: "Budou mít rodiče právo na pohřbení mrtvě narozených dětí a vzniknou v Česku soukromé hřbitovy?"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2015/budou-mit-rodice-pravo-na-pohrbeni-mrtve-narozenych-deti-a-vzniknou-v-cesku-soukrome-hrb"
 date: 2015-07-15
 perex: "<p>Na otázky související s pohřbíváním hledá odpověď komise Ministerstva pro místní rozvoj, které zahájilo přípravu novely zákona o pohřebnictví. Jejím členem je také Marek Hanák z Kanceláře veřejného ochránce práv. </p>"

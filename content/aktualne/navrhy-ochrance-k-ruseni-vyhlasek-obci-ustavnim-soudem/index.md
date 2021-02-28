@@ -1,7 +1,7 @@
 ---
 title: "Návrhy ochránce k rušení vyhlášek obcí Ústavním soudem"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2009/navrhy-ochrance-k-ruseni-vyhlasek-obci-ustavnim-soudem"
 date: 2009-04-03
 perex: "<p></p><p>V roce 2008 vystupoval ochránce jako tzv. vedlejší účastník v řízeních u Ústavního soudu o návrzích na zrušení tří obecně závazných vyhlášek obcí. Jednalo se o vyhlášku o místních poplatcích obce Plchov, jejíž zrušení navrhovalo Ministerstvo vnitra, o vyhlášku města Budyně nad Ohří o stanovení podmínek pro spalování tuhých paliv, jejíž zrušení rovněž navrhlo Ministerstvo vnitra, a o návrh Krajského úřadu Středočeského kraje na zrušení nařízení města Mnichovice o stavební uzávěře.</p>"

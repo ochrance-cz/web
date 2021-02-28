@@ -1,7 +1,7 @@
 ---
 title: "Genderová nerovnost v EU stále přetrvává, ukazuje nejnovější Gender Equality Index"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2019/genderova-nerovnost-v-eu-stale-pretrvava-ukazuje-nejnovejsi-gender-equality-index/"
 date: 2019-11-19
 perex: "<p>Aktuální Index genderové rovnosti (Gender Equality Index 2019) ukazuje, že k pokroku sice dochází, ale změny postupují velmi pomalu.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Diskuze o problémech v činnosti soudních znalců"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2016/diskuze-o-problemech-v-cinnosti-soudnich-znalcu"
 date: 2016-12-12
 perex: "<p></p>"

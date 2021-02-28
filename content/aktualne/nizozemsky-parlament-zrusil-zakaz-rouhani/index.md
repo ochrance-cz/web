@@ -1,7 +1,7 @@
 ---
 title: "Nizozemský parlament zrušil zákaz rouhání"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2013/nizozemsky-parlament-zrusil-zakaz-rouhani/"
 date: 2013-05-21
 perex: "<p>Desítky let trvající debata o zrušení trestného činu rouhání vyvrcholila v tomto roce změnou nizozemského trestního zákoníku. Změna trestní legislativy má však podle odborníků na antidiskriminační právo pouze symbolickou povahu.</p>"

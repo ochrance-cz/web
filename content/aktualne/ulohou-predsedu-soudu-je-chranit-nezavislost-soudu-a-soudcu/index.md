@@ -1,7 +1,7 @@
 ---
 title: "Úlohou předsedů soudů je chránit nezávislost soudů a soudců"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/ulohou-predsedu-soudu-je-chranit-nezavislost-soudu-a-soudcu"
 date: 2019-01-17
 perex: "<p>Reakce ombudsmanky Anny Šabatové ke „komentování“ živých soudních kauz.</p>"

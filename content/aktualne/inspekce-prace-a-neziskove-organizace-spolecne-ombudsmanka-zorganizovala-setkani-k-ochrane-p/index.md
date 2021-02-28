@@ -1,7 +1,7 @@
 ---
 title: "Inspekce práce a neziskové organizace společně. Ombudsmanka zorganizovala setkání k ochraně před diskriminací"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/inspekce-prace-a-neziskove-organizace-spolecne-ombudsmanka-zorganizovala-setkani-k-ochrane-p"
 date: 2020-02-11
 perex: "<p>Neziskové organizace pomáhají lidem bránit se proti diskriminaci, orgány inspekce práce prošetřují zaměstnavatele, jestli se dopouštějí diskriminace. Ombudsmanka se rozhodla poprvé pozvat zástupce obou těchto aktérů ochrany lidí s diskriminací na pracovním trhu a umožnit jim navzájem se informovat o aktuálních poznatcích, vyměnit si zkušenosti a diskutovat např. o tom, jak se diskriminace projevuje v praxi, jak ji prokazovat a jak je to obtížné.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Lidé podceňují chov zvířat – úřady musí při řešení spolupracovat"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2017/lide-podcenuji-chov-zvirat-urady-musi-pri-reseni-spolupracovat"
 date: 2017-10-05
 perex: "<p>V poslední době přibývá stížností a podnětů souvisejících s chovem zvířat a s případným podezřením z týrání zvířat. Nezřídka se takové případy objevují i v médiích. Problémy mnohdy pramení z podcenění podmínek chovu zvířat, jejich potřeb a projevů. Důsledkem může být ohrožení zvířat týráním a rovněž může docházet k ohrožení zdraví a majetku osob.</p>"

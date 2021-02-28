@@ -1,7 +1,7 @@
 ---
 title: "Devátý díl Ochránce"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2016/devaty-dil-ochrance-2"
 date: 2016-03-03
 perex: "<p>Co dělat, když stromy stíní byty a úřad je nedovolí pokácet, průtahy s přiznáním dorovnávacího přídavku k důchodu a příliš hlučná střelnice, každodenně používaná střelnice v malé obci. Těmto problémům se věnuje další díl pořadu Ochránce, který vysílá ČT 2 v neděli 6. 3. od 18:15 h a v reprízách ve čtvrtek v 18:55 h a v pátek ve 14:00 h.</p>"

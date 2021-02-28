@@ -1,7 +1,7 @@
 ---
 title: "Kulatý stůl Evropské komise proti rasismu a nesnášenlivosti (ECRI)"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2017/kulaty-stul-evropske-komise-proti-rasismu-a-nesnasenlivosti-ecri/"
 date: 2017-02-22
 perex: "<p>Dne 3. listopadu 2016 se na Úřadu vlády v Praze uskutečnil kulatý stůl „Proti rasové diskriminaci a nesnášenlivosti v České republice“. Akci pořádala ECRI  ve spolupráci s ministrem pro lidská práva, rovné příležitosti a legislativu Jiřím Dienstbierem a veřejnou ochránkyní práv Annou Šabatovou.</p>"

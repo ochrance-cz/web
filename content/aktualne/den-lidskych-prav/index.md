@@ -1,7 +1,7 @@
 ---
 title: "Den lidských práv"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2015/den-lidskych-prav"
 date: 2015-12-10
 perex: "<p></p>"

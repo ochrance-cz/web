@@ -1,7 +1,7 @@
 ---
 title: "Úřad se zastal učitelky, která z náboženských důvodů odmítla aktivně participovat na povinné vánoční akci školy a dostala proto výpověď"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2019/urad-se-zastal-ucitelky-ktera-z-nabozenskych-duvodu-odmitla-aktivne-participovat-na-povi/"
 date: 2019-07-08
 perex: "<p>Dánský Úřad pro rovné zacházení uvedl, že zaměstnavatel musí v podobných případech prokázat, že je požadavek po zaměstnancích/zaměstnankyních opodstatněný a nutný.</p>"

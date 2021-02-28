@@ -1,7 +1,7 @@
 ---
 title: "Seznam otázek (List of Issues)"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2018/seznam-otazek-list-of-issues/"
 date: 2018-12-06
 perex: "<p>Dne 1. dubna 2019 má Výbor OSN pro práva osob se zdravotním postižením (dále jen „výbor“) vydat tzv. seznam otázek (List of Issues) před podáním zprávy pro Českou republiku. Protože Česká republika přistoupila na zjednodušenou proceduru, zodpovězením otázek výboru splní svou povinnost podat periodickou zprávu o naplňování Úmluvy.  </p>"

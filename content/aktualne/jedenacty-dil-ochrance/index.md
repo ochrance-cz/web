@@ -1,7 +1,7 @@
 ---
 title: "Jedenáctý díl Ochránce"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/ochrance-iii-2013/jedenacty-dil-ochrance/"
 date: 2013-11-15
 perex: "<p>V neděli 17. listopadu můžete na ČT2 už v 10:40 h sledovat jedenáctý díl pořadu Ochránce. První příběh se dá nazvat šikanování nezaměstnaných systémem DONEZ, ve druhém se seniorka stala obětí zmateného vymáhání penále za již promlčené dluhy. Poslední případ je rovněž o dluzích, v nichž se ocitla mladá žena, za kterou rodiče několikrát nezaplatili poplatek za komunální odpad, a exekutoři po ní chtěli přes sto tisíc. Repríza je na programu ve středu 20. 11. ve 13:00 h, další opakování pak v neděli a úterý po půlnoci.</p>"

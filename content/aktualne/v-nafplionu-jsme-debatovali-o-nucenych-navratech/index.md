@@ -1,7 +1,7 @@
 ---
 title: "V Nafplionu jsme debatovali o nucených návratech"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2018/v-nafplionu-jsme-debatovali-o-nucenych-navratech/"
 date: 2018-10-19
 perex: "<p></p>"

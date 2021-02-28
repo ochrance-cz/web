@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmanku od dubna na ČT"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/pripad-pro-ombudsmanku-od-dubna-na-ct"
 date: 2019-03-07
 perex: "<p>Nová řada publicistického pořadu, který připravila Česká televize ve spolupráci s ombudsmankou, se začne vysílat od 7. dubna vždy v neděli dopoledne na ČT 2.</p>"

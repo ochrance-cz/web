@@ -1,7 +1,7 @@
 ---
 title: "Policie musí být při zajišťování záznamů z bezpečnostních kamer důsledná"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2016/policie-musi-byt-pri-zajistovani-zaznamu-z-bezpecnostnich-kamer-dusledna"
 date: 2016-08-16
 perex: "<p>Je obecně známou skutečností, že jsou záběry z bezpečnostních kamer po čase přemazány další nahrávkou a případné důkazy jsou nenávratně zničeny. To se stalo v případě muže, který byl fyzicky napaden neznámým útočníkem. Policie se k záznamům, které mohly odhalit jeho identitu, dostala až skoro po třech týdnech. Pozdě. </p>"

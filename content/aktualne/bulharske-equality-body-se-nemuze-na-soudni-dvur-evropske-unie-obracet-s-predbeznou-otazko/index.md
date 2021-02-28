@@ -1,7 +1,7 @@
 ---
 title: "Bulharské equality body se nemůže na Soudní dvůr Evropské Unie obracet s předběžnou otázkou"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2013/bulharske-equality-body-se-nemuze-na-soudni-dvur-evropske-unie-obracet-s-predbeznou-otazko/"
 date: 2013-02-11
 perex: "<p>Soudní dvůr Evropské Unie se nepřiklonil ke stanovisku generální advokátky Julianne Kokott a vzdal se tak možnosti rozhodování o meritu věci zajímavého případu o otázce nepřímé diskriminace na základě etnického původu. </p>"

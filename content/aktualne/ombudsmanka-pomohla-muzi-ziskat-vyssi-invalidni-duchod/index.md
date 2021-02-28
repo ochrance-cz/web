@@ -1,7 +1,7 @@
 ---
 title: "Ombudsmanka pomohla muži získat vyšší invalidní důchod"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2017/ombudsmanka-pomohla-muzi-ziskat-vyssi-invalidni-duchod"
 date: 2017-08-17
 perex: "<p>Muž pobíral neadekvátně nízký invalidní důchod. Jeho opatrovnice se v této věci obrátila na ombudsmanku. V průběhu šetření se nám podařilo prokázat, že výše jeho důchodu je skutečně špatně vypočítaná a bylo tomu tak i v minulosti. Na základě našeho šetření přiznala Česká správa sociálního zabezpečení (ČSSZ) muži takřka o 2000 korun vyšší důchod a současně mu byl vyplacen doplatek za předchozí období přesahující 200 tisíc korun. Případ jsme tak mohli uzavřít, protože pochybení úřadů bylo napraveno. </p>"

@@ -1,7 +1,7 @@
 ---
 title: "Zpráva pro poslance o činnosti ve 4. čtvrtletí"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2018/zprava-pro-poslance-o-cinnosti-ve-4-ctvrtleti-1"
 date: 2018-02-20
 perex: "<p></p>"

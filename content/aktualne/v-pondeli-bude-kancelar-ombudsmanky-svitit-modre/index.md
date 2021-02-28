@@ -1,7 +1,7 @@
 ---
 title: "V pondělí bude Kancelář ombudsmanky svítit modře"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2018/v-pondeli-bude-kancelar-ombudsmanky-svitit-modre"
 date: 2018-03-29
 perex: "<p>Na Velikonoční pondělí večer se budova Kanceláře veřejného ochránce práv na Údolní 39 v Brně rozsvítí modře. Na tento den totiž připadá Světový den zvýšení povědomí o autismu.</p>"

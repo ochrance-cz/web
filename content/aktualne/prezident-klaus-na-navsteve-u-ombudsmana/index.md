@@ -1,7 +1,7 @@
 ---
 title: "Prezident Klaus na návštěvě u ombudsmana"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2010/prezident-klaus-na-navsteve-u-ombudsmana"
 date: 2010-04-12
 perex: "<p></p><p>Prezident Václav Klaus zahájil svůj dnešní pobyt v Brně setkáním s veřejným ochráncem práv JUDr. Otakarem Motejlem. Ochránce při této příležitosti předal prezidentovi souhrnnou zprávu o své činnosti za rok 2009.</p>"

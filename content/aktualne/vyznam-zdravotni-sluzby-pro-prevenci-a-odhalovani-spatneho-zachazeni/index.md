@@ -1,7 +1,7 @@
 ---
 title: "Význam zdravotní služby pro prevenci a odhalování špatného zacházení"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2019/vyznam-zdravotni-sluzby-pro-prevenci-a-odhalovani-spatneho-zachazeni/"
 date: 2019-02-14
 perex: "<p>Dne 5. února proběhl v Praze seminář pro profesionály, kteří jsou zapojeni do prevence, dokumentování a vyšetřování špatného zacházení s osobami zbavenými svobody. Přednášela Dr. Marzena Ksel, 1. viceprezidentka výboru CPT, a diskutovali také veřejná ochránkyně práv, státní zástupci a zdravotníci Vězeňské služby ČR. </p>"

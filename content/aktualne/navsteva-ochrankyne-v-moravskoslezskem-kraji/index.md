@@ -1,7 +1,7 @@
 ---
 title: "Návštěva ochránkyně v Moravskoslezském kraji"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2014/navsteva-ochrankyne-v-moravskoslezskem-kraji"
 date: 2014-11-29
 perex: "<p></p>"

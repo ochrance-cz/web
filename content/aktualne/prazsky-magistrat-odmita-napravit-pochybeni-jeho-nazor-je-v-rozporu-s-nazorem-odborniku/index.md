@@ -1,7 +1,7 @@
 ---
 title: "Pražský magistrát odmítá napravit pochybení. Jeho názor je v rozporu s názorem odborníků."
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2010/prazsky-magistrat-odmita-napravit-pochybeni-jeho-nazor-je-v-rozporu-s-nazorem-odborniku"
 date: 2010-03-24
 perex: "<p></p><p>Protože Magistrát hl. města Prahy odmítá uznat svá pochybení a přijmout ochráncem navržená opatření k nápravě, volí ochránce zveřejnění informací o jeho jednání a názorech jako formu sankce podle zákona o veřejném ochránci práv. </p>"

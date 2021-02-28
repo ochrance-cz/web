@@ -1,7 +1,7 @@
 ---
 title: "Ženy čelí během pandemie koronaviru specifickým výzvám a je třeba to řešit, upozorňují organizace"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2020/zeny-celi-behem-pandemie-koronaviru-specifickym-vyzvam-a-je-treba-to-resit-upozornuji-o/"
 date: 2020-04-27
 perex: "<p>Britské lidskoprávní organizace vyzývají, aby vládní opatření v reakci na pandemii koronaviru zohledňovala zranitelné skupiny a reflektovala specifickou situaci žen.</p>"

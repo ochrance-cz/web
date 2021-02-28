@@ -1,7 +1,7 @@
 ---
 title: "Návštěva amerického velvyslance"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2011/navsteva-americkeho-velvyslance"
 date: 2011-03-17
 perex: "<p></p>"

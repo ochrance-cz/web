@@ -1,7 +1,7 @@
 ---
 title: "Standard CPT k používání omezovacích prostředků – konečně i v češtině"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2016/standard-cpt-k-pouzivani-omezovacich-prostredku-konecne-i-v-cestine/"
 date: 2016-06-15
 perex: "<p>Standardy Evropského výboru pro předcházení mučení a nelidskému nebo ponižujícímu zacházení nebo trestání (CPT) tvoří tematické výňatky z každoročních všeobecných zpráv. K roku 2006 se datuje poslední aktualizace pasáže o používání omezovacích prostředků. Je posazena do kontextu zacházení v psychiatrických zařízeních pro dospělé. Nyní je dostupná také v češtině.</p>"

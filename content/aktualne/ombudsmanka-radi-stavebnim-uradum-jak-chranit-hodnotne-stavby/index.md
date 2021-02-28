@@ -1,7 +1,7 @@
 ---
 title: "Ombudsmanka radí stavebním úřadům, jak chránit hodnotné stavby"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2018/ombudsmanka-radi-stavebnim-uradum-jak-chranit-hodnotne-stavby"
 date: 2018-01-30
 perex: "<p>Ombudsmanka vydala „návod“, jak by měly stavební úřady posuzovat případy, kdy stavební úpravy změní vzhled stavby. Kvůli nejednotnému postupu úřadů dochází podle ombudsmanky v některých případech k necitlivým a nevratným zásahům do architektonických hodnot staveb, které sice nejsou památkově chráněné, ale spoluutvářejí vzhled obcí a měst.</p>"

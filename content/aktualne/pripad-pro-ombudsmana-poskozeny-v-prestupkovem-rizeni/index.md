@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Poškozený v přestupkovém řízení"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-iv/pripad-pro-ombudsmana-poskozeny-v-prestupkovem-rizeni/"
 date: 2008-09-30
 perex: "<p></p>"

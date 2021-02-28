@@ -1,7 +1,7 @@
 ---
 title: "Je dost dobrých důvodů pro udržení samostatnosti dětské a dorostové psychiatrie?"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2014/je-dost-dobrych-duvodu-pro-udrzeni-samostatnosti-detske-a-dorostove-psychiatrie/"
 date: 2014-10-29
 perex: "<p></p>"

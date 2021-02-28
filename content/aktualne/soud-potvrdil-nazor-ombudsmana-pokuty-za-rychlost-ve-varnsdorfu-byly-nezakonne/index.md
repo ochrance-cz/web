@@ -1,7 +1,7 @@
 ---
 title: "Soud potvrdil názor ombudsmana: pokuty za rychlost ve Varnsdorfu byly nezákonné"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/soud-potvrdil-nazor-ombudsmana-pokuty-za-rychlost-ve-varnsdorfu-byly-nezakonne"
 date: 2020-07-10
 perex: "<p>Soud potvrdil ombudsmanem kritizované protiprávní jednání Městského úřadu Varnsdorf. Ten ukládal pokuty za překročení rychlosti na základě nezákonných důkazů. Ombudsman už před rokem na tuto záležitost upozorňoval Krajský úřad Ústeckého kraje a žádal ho, aby zasáhl. Nezákonnost nyní napravuje soud.</p>"

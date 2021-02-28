@@ -1,7 +1,7 @@
 ---
 title: "Jen třetina podnikatelů plní povinnosti vůči obchodnímu rejstříku – na ostatní je stát zatím krátký"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2013/jen-tretina-podnikatelu-plni-povinnosti-vuci-obchodnimu-rejstriku-na-ostatni-je-stat-z"
 date: 2013-01-30
 perex: "<p>Dvě třetiny podnikatelů neplní zákonnou povinnost zveřejňovat ve sbírce listin obchodního rejstříku své účetní závěrky. Rejstříkové soudy nemají ani personální kapacity, ani efektivní právní nástroje, aby podnikatele přinutily výsledky hospodaření dodat. Výsledkem je neaktualizovaný obchodní rejstřík.</p>"

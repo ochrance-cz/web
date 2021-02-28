@@ -1,7 +1,7 @@
 ---
 title: "Bílá kniha aneb švédský krok v otázce postavení Romů"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2014/bila-kniha-aneb-svedsky-krok-v-otazce-postaveni-romu/"
 date: 2014-07-14
 perex: "<p>Švédská vláda přijala dne 16. února 2012 dlouhodobou strategii týkající se romské otázky, jejíž snahou je postupné zlepšování životní úrovně Romů. Jeden z milníků této koncepce byl slavnostně představen 25. března 2014. Jedná se o takzvanou Bílou knihu či také Bílý papír, v angličtině nazývanou jako The Dark and Unknown History – A White Book of Abuse And Discrimination of Roma People During the 1900 century. </p>"

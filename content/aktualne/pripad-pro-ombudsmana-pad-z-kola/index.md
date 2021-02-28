@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Pád z kola"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-iii/pripad-pro-ombudsmana-pad-z-kola/"
 date: 2008-04-09
 perex: "<p></p>"

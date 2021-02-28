@@ -1,7 +1,7 @@
 ---
 title: "Ve 3. čtvrtletí ochránkyně pomohla a poradila více lidem"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2016/ve-3-ctvrtleti-ochrankyne-pomohla-a-poradila-vice-lidem"
 date: 2016-10-24
 perex: "<p>Ve třetím čtvrtletí vyhledalo pomoc veřejné ochránkyně práv zatím nejvíc lidí za celý rok. V celkovém počtu 2193 podnětů se navíc o 10 % zvýšil počet podnětů v působnosti, takže se ochránkyně mnohem častěji mohla problémy lidí zabývat a reálně tak pomohla či poradila více lidem než v předchozích částech roku.</p>"

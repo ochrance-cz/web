@@ -1,7 +1,7 @@
 ---
 title: "Protiprávní jednání silničního správního úřadu v Novém Jičíně"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2018/protipravni-jednani-silnicniho-spravniho-uradu-v-novem-jicine"
 date: 2018-04-25
 perex: "<p>Městský úřad Nový Jičín, jako silniční správní úřad, zcela rezignoval na svou zákonnou povinnost, když se odmítl zabývat problémem překážek na přístupové cestě k domu. Toto pochybení nenapravil ani Krajský úřad Moravskoslezského kraje, když úřadu v Novém Jičíně nenařídil postupovat v souladu s právními předpisy a judikaturou soudů.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Odebrání dětí"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-ii/pripad-pro-ombudsmana-odebrani-deti-1/"
 date: 2010-02-19
 perex: "<p></p><p>Další případ, který řešila Kancelář veřejného ochránce práv, se týká výkonu sociálně-právní ochrany dětí. </p>"

@@ -1,7 +1,7 @@
 ---
 title: "Petice v Británii chce změnit zákon o firemním dress codu, některé ženy se cítí diskriminované"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2017/petice-v-britanii-chce-zmenit-zakon-o-firemnim-dress-codu-nektere-zeny-se-citi-diskriminov"
 date: 2017-01-12
 perex: "<p>Poté, co byla žena poslána z práce domů, protože odmítla nosit boty na vysokém podpatku, iniciovala petici požadující změnu zákona týkajícího se firemního dress codu. Stávající úprava firmám umožňuje, aby nošení vysokých podpatků po zaměstnankyních vyžadovaly.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Zlepšení přístupu Romů k zaměstnání by mělo být prioritou státu"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2014/zlepseni-pristupu-romu-k-zamestnani-by-melo-byt-prioritou-statu/"
 date: 2014-12-01
 perex: "<p>Vyloučení pracovníků s nízkou kvalifikací a diskriminace vylučuje romskou populaci z trhu práce. Experiment Institutu finanční politiky (analytický útvar Ministerstva financí SR) ukázal, že na Slovensku je šance přizvání Roma k pracovnímu pohovoru poloviční oproti uchazeči z majority, Romové jsou proto méně konkurenceschopní na trhu práce.</p>"

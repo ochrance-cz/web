@@ -1,7 +1,7 @@
 ---
 title: "Ombudsmanka Anna Šabatová obdržela Řád čestné legie"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2018/ombudsmanka-anna-sabatova-obdrzela-rad-cestne-legie"
 date: 2018-06-18
 perex: "<p>Anna Šabatová získala toto ocenění za celoživotní odhodlání bojovat za ochranu lidských práv a právního státu. Státní ocenění jí propůjčil francouzský prezident Emmanuel Macron. Jedná se o nejvyšší francouzské státní vyznamenání, které bylo založeno v roce 1802 Napoleonem Bonapartem. Ocenění jí bylo uděleno v pátek 15. června na francouzské ambasádě v Praze. </p>"

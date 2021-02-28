@@ -1,7 +1,7 @@
 ---
 title: "Kulatý stůl věnovaný zařízením pro děti vyžadující okamžitou pomoc"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2017/kulaty-stul-venovany-zarizenim-pro-deti-vyzadujici-okamzitou-pomoc/"
 date: 2017-03-08
 perex: "<p>Dne 7. března 2017 proběhl za účasti veřejné ochránkyně práv kulatý stůl věnovaný aktuálním problémům při poskytování ochrany a pomoci dětem v zařízeních pro děti vyžadující okamžitou pomoc. </p>"

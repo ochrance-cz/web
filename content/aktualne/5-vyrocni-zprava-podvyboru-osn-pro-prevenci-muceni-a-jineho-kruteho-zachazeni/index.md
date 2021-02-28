@@ -1,7 +1,7 @@
 ---
 title: "5. výroční zpráva podvýboru OSN pro prevenci mučení a jiného krutého zacházení"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2012/5-vyrocni-zprava-podvyboru-osn-pro-prevenci-muceni-a-jineho-kruteho-zachazeni/"
 date: 2012-06-11
 perex: "<p></p><p>Zpráva Podvýboru OSN pro prevenci mučení a jiného krutého, nelidského nebo ponižujícího zacházení nebo trestání pokrývá práci 25 členů Podvýboru za rok 2011. Představuje záležitosti, které Podvýbor aktuálně řeší, a prezentuje stanoviska Podvýboru. </p>"

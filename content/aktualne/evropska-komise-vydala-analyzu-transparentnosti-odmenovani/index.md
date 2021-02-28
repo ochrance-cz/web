@@ -1,7 +1,7 @@
 ---
 title: "Evropská komise vydala analýzu transparentnosti odměňování"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2017/evropska-komise-vydala-analyzu-transparentnosti-odmenovani/"
 date: 2017-07-07
 perex: "<p>Cílem rozsáhlé analýzy, která probíhala ve všech členských státech EU, Lichtenštejnsku, Norsku a na Islandu, bylo posílit zásadu rovného odměňování mužů a žen skrze zavedení transparentnosti v odměňování.</p>"

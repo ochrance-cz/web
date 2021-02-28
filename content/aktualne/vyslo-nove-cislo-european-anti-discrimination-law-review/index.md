@@ -1,7 +1,7 @@
 ---
 title: "Vyšlo nové číslo European Anti-discrimination Law Review"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2012/vyslo-nove-cislo-european-anti-discrimination-law-review/"
 date: 2012-11-07
 perex: "<p>V patnáctém čísle, které vyšlo 25. října 2012, naleznete novinky, analýzy a informace o implementaci antidiskriminačního práva v členských státech Evropské unie, Chorvatsku, bývalé jugoslávské republice Makedonii, Turecku, Islandu, Lichtenštejnsku a Norsku. Aktuální číslo reflektuje stav k 15. červnu 2012.   </p>"

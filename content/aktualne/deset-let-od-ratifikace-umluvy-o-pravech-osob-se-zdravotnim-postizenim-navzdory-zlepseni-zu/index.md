@@ -1,7 +1,7 @@
 ---
 title: "Deset let od ratifikace Úmluvy o právech osob se zdravotním postižením: navzdory zlepšení zůstává mnoho výzev"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/deset-let-od-ratifikace-umluvy-o-pravech-osob-se-zdravotnim-postizenim-navzdory-zlepseni-zu"
 date: 2019-11-06
 perex: "<p>V pátek 1. listopadu uspořádala ombudsmanka k desátému výročí ratifikace Úmluvy o právech osob se zdravotním postižením konferenci. Česká republika patřila k prvním zemím, které tuto Úmluvu ratifikovaly. Spolu s Úmluvou vznikl tzv. Opční protokol, který ale pro Českou republiku doposud není závazný. Protokol, jehož ratifikace pořád vázne, je v druhém čtení v Poslanecké sněmovně a hlasovat by se o něm mělo v pátek 8. listopadu. Jeho ratifikace by představovala další možnosti posílení ochrany práv lidí s postižením. </p>"

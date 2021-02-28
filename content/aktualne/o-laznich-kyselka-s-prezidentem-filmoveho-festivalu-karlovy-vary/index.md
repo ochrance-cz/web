@@ -1,7 +1,7 @@
 ---
 title: "O lázních Kyselka s prezidentem filmového festivalu Karlovy Vary"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2011/o-laznich-kyselka-s-prezidentem-filmoveho-festivalu-karlovy-vary"
 date: 2011-05-26
 perex: "<p></p><p>V souvislosti s dlouhodobě neřešeným havarijním stavem památkově chráněných staveb lázeňského komplexu v obci Kyselka u Karlových Varů se zástupkyně veřejného ochránce práv obrátila na prezidenta Mezinárodního filmového festivalu Karlovy Vary s žádostí, aby podpořil úsilí o zachování kulturního dědictví. </p>"

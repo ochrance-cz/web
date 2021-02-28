@@ -1,7 +1,7 @@
 ---
 title: "Lékař nesmí po pacientovi chtít souhlas s léčbou bez poskytnutí informací"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2007/lekar-nesmi-po-pacientovi-chtit-souhlas-s-lecbou-bez-poskytnuti-informaci"
 date: 2007-09-11
 perex: "<p></p>"

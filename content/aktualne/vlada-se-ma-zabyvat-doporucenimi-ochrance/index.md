@@ -1,7 +1,7 @@
 ---
 title: "Vláda se má zabývat doporučeními ochránce"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2014/vlada-se-ma-zabyvat-doporucenimi-ochrance"
 date: 2014-06-20
 perex: "<p>Vláda má do 30. září předložit Poslanecké sněmovně zprávu o tom, jak se zabývala legislativními doporučeními uvedenými v Souhrnné zprávě o činnosti ochránce za rok 2013.</p>"

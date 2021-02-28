@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Příspěvek na péči"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-iv/pripad-pro-ombudsmana-prispevek-na-peci/"
 date: 2008-12-09
 perex: "<p></p>"

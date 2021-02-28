@@ -1,7 +1,7 @@
 ---
 title: "Den lidských práv"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2015/den-lidskych-prav-1/"
 date: 2015-12-11
 perex: "<p>Ochránkyně si připomněla den lidských práv bilancí 10 let činnosti národního preventivního mechanismu.</p>"

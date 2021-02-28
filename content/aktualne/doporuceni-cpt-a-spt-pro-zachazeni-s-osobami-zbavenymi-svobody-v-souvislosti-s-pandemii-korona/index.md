@@ -1,7 +1,7 @@
 ---
 title: "Doporučení CPT a SPT pro zacházení s osobami zbavenými svobody v souvislosti s pandemií koronaviru"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2020/doporuceni-cpt-a-spt-pro-zachazeni-s-osobami-zbavenymi-svobody-v-souvislosti-s-pandemii-korona/"
 date: 2020-04-06
 perex: "<p></p>"

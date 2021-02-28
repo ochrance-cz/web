@@ -1,7 +1,7 @@
 ---
 title: "Propadnutí kreditu a deaktivace telefonního čísla u předplacených telefonních karet"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2014/propadnuti-kreditu-a-deaktivace-telefonniho-cisla-u-predplacenych-telefonnich-karet"
 date: 2014-10-17
 perex: "<p>Pokud ze smluvních podmínek mobilních operátorů jasně a srozumitelně nevyplývá, že následkem nevyužití zaplaceného kreditu a nedobití nového kreditu ve stanoveném období je propadnutí zbývajícího kreditu, jedná se o porušení ustanovení § 63 odst. 1 zákona o elektronických komunikacích.</p>"

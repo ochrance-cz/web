@@ -1,7 +1,7 @@
 ---
 title: "Sdílení dobré praxe se slovenskými a maďarskými kolegy"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2014/sdileni-dobre-praxe-se-slovenskymi-a-madarskymi-kolegy"
 date: 2014-02-11
 perex: "<p></p>"

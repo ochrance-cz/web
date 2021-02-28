@@ -1,7 +1,7 @@
 ---
 title: "Poznatky ochránce z návštěv zařízení pro děti"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2011/poznatky-ochrance-z-navstev-zarizeni-pro-deti"
 date: 2011-05-17
 perex: "<p></p><p>V systému péče o děti stále přetrvává roztříštěnost, jejíž důsledky některé děti poškozují. Podle ochránce je třeba usilovat o přechod od institucionalizované péče ke zřizování malých zařízení rodinného typu, které by byly schopny pružně reagovat na potřeby dětí. Rovněž chybí systematická sociální práce s rodinou, aby se zvýšila šance dětí na návrat z ústavní péče.</p>"

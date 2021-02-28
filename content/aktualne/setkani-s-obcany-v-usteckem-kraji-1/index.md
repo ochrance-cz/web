@@ -1,7 +1,7 @@
 ---
 title: "Setkání s občany v Ústeckém kraji"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2015/setkani-s-obcany-v-usteckem-kraji-1"
 date: 2015-05-28
 perex: "<p>Do Ústeckého kraje míří ve čtvrtek 4. června veřejná ochránkyně práv Anna Šabatová, aby se v rámci akce „Zajímáte nás“ setkala s občany. Je to příležitost dozvědět se víc o působnosti a pravomocech ochránkyně nebo přímo podat podnět k šetření (stížnost na úřady nebo na diskriminaci).</p>"

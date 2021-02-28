@@ -1,7 +1,7 @@
 ---
 title: "Vláda vyslyšela ochránce ve věci informačního systému evidence obyvatel"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2011/vlada-vyslysela-ochrance-ve-veci-informacniho-systemu-evidence-obyvatel"
 date: 2011-04-14
 perex: "<p></p><p>Vláda ve středu 13. dubna přijala návrh veřejného ochránce práv na označování nesprávných osobních údajů v informačním systému evidence obyvatel. Trvale osvojené děti by už tedy v budoucnosti neměly být kontaktovány úřady, soudy či policií v záležitostech týkajících se jejich biologických rodičů. Nemělo by tak docházet k necitlivým zásahům do soukromí osvojených dětí.</p>"

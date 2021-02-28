@@ -1,7 +1,7 @@
 ---
 title: "Vyžadování potřesení rukou na pozdrav může být diskriminační, rozhodl soud"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2018/vyzadovani-potreseni-rukou-na-pozdrav-muze-byt-diskriminacni-rozhodl-soud/"
 date: 2018-10-26
 perex: "<p>Švédský soud se zastal ženy, která z náboženských důvodů odmítla při pracovním pohovoru potřesení rukou s mužem.</p>"

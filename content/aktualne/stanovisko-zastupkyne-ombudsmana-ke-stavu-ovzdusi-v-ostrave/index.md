@@ -1,7 +1,7 @@
 ---
 title: "Stanovisko zástupkyně ombudsmana ke stavu ovzduší v Ostravě"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2012/stanovisko-zastupkyne-ombudsmana-ke-stavu-ovzdusi-v-ostrave"
 date: 2012-01-03
 perex: "<p></p><p>Úřady podle zjištění zástupkyně ombudsmana dosud nevyužily všech nástrojů, které mají k dispozici, aby dosáhly snížení znečištění ovzduší v Ostravě na úroveň zákonných limitů. </p>"

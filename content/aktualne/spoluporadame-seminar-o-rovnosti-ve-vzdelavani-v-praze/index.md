@@ -1,7 +1,7 @@
 ---
 title: "Spolupořádáme seminář o rovnosti ve vzdělávání v Praze"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2016/spoluporadame-seminar-o-rovnosti-ve-vzdelavani-v-praze"
 date: 2016-05-19
 perex: "<p>Evropská síť organizací pro rovné zacházení EQUINET spolu s veřejnou ochránkyní práv organizují ve čtvrtek 19. května seminář na téma rovnost ve vzdělávání. I přes dlouhodobé snahy totiž genderová nerovnost ve vzdělávání přetrvává, jak vyplývá ze závěrů Evropské komise i z praxe institucí pro rovnost. </p>"

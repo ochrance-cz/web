@@ -1,7 +1,7 @@
 ---
 title: "Nesetrvání na místě malé dopravní nehody"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2014/nesetrvani-na-miste-male-dopravni-nehody"
 date: 2014-03-18
 perex: "<p>Zjednodušující závěr některých médií o tom, že ujetí od malé nehody není přestupkem, je zcela mylný. </p>"

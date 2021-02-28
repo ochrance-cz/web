@@ -1,7 +1,7 @@
 ---
 title: "BRNO slaví Den vzácných onemocnění 2019"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2019/brno-slavi-den-vzacnych-onemocneni-2019/"
 date: 2019-02-07
 perex: "<p>Přijďte s námi oslavit Den vzácných onemocnění. Můžete se těšit na diskuzi se zajímavými hosty. Zapojila se i Kancelář veřejného ochránce práv.</p>"

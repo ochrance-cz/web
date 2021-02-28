@@ -1,7 +1,7 @@
 ---
 title: "Ombudsman podporuje poslanecký návrh ke zveřejňování soudních rozhodnutí"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/ombudsman-podporuje-poslanecky-navrh-ke-zverejnovani-soudnich-rozhodnuti"
 date: 2020-11-18
 perex: "<p></p>"

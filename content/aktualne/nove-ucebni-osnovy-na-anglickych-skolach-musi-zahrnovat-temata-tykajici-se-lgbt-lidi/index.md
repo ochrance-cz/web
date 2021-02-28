@@ -1,7 +1,7 @@
 ---
 title: "Nové učební osnovy na anglických školách musí zahrnovat témata týkající se LGBT+ lidí"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2020/nove-ucebni-osnovy-na-anglickych-skolach-musi-zahrnovat-temata-tykajici-se-lgbt-lidi/"
 date: 2020-12-28
 perex: "<p>Začlenění LGBT+ tématiky a dalších současných témat do sexuální výchovy a výuky o vztazích má podle ministerstva školství lépe odrážet svět, ve kterém žijeme.</p>"

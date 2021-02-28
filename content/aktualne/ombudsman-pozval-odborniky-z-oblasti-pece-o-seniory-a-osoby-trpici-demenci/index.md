@@ -1,7 +1,7 @@
 ---
 title: "Ombudsman pozval odborníky z oblasti péče o seniory a osoby trpící demencí"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2014/ombudsman-pozval-odborniky-z-oblasti-pece-o-seniory-a-osoby-trpici-demenci/"
 date: 2014-03-04
 perex: "<p>Ve dnech 20. – 21. února se v Kanceláři veřejného ochránce práv uskutečnila konference Ochrana práv seniorů v instituci s důrazem na osoby s demencí. Při poslechu přednášek i v diskusi na workshopech se setkali veřejná ochránkyně práv, pracovníci Kanceláře provádějící systematické návštěvy, experti ochránce, přizvaní odborníci, pracovníci krajských úřadů a Úřadu práce i lidé z šedesátky sociálních a zdravotních služeb. Plenárního i speciálního programu se dále účastnila desítka zahraničních hostí – pracovníků národních preventivních mechanismů a ombudsmanských institucí z Francie, Maďarska, Polska, Slovenska a Slovinska.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Hřbitovy nejsou jen místa k uctění památky zemřelých. Mnohdy jsou i svědky sporů mezi pozůstalými"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2015/hrbitovy-nejsou-jen-mista-k-ucteni-pamatky-zemrelych-mnohdy-jsou-i-svedky-sporu-mezi-pozu"
 date: 2015-11-02
 perex: "<p>Každý rok s nadcházejícím svátkem Památky zesnulých, u nás tradičně označovaným jako „Dušičky“, přicházejí do Kanceláře veřejného ochránce práv stížnosti lidí, které se týkají sporů o hrobová místa a nepietního nakládání s ostatky zemřelých.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Další překlady výstupů CPT do češtiny"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2018/dalsi-preklady-vystupu-cpt-do-cestiny/"
 date: 2018-11-27
 perex: "<p></p>"

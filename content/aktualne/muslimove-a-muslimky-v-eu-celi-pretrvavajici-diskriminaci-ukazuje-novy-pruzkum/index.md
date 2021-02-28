@@ -1,7 +1,7 @@
 ---
 title: "Muslimové a muslimky v EU čelí přetrvávající diskriminaci, ukazuje nový průzkum"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2017/muslimove-a-muslimky-v-eu-celi-pretrvavajici-diskriminaci-ukazuje-novy-pruzkum/"
 date: 2017-11-24
 perex: "<p>Navzdory častým zkušenostem s diskriminací má většina muslimů a muslimek žijících v EU velkou důvěru v demokratické instituce.</p>"

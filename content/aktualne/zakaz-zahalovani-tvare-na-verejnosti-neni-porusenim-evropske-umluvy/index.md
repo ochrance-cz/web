@@ -1,7 +1,7 @@
 ---
 title: "Zákaz zahalování tváře na veřejnosti není porušením Evropské úmluvy"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2014/zakaz-zahalovani-tvare-na-verejnosti-neni-porusenim-evropske-umluvy/"
 date: 2014-07-29
 perex: "<p>V případu S.A.S proti Francii Velký senát Evropského soudu pro lidská práva rozhodl, že francouzský zákon zakazující zahalování tváře na veřejných prostranstvích neporušuje žádné ze stěžovatelkou namítaných práv (právo na soukromí, svoboda myšlení, svědomí a vyznání, zákaz diskriminace).</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Média o prezentaci špatného zacházení v neregistrovaných zařízeních poskytujících péči seniorům"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2014/media-o-prezentaci-spatneho-zachazeni-v-neregistrovanych-zarizenich-poskytujicich-peci/"
 date: 2014-07-18
 perex: "<p>Na tiskové konferenci v úterý 24. června seznámila veřejná ochránkyně práv veřejnost s průběžnými výsledky systematických návštěv ubytovacích zařízení, která poskytují péči seniorům, aniž by měla potřebné oprávnění k poskytování sociálních služeb. Přinášíme vybrané ohlasy médií:</p>"

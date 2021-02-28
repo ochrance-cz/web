@@ -1,7 +1,7 @@
 ---
 title: "Hmotněprávní úprava detence v sociálních službách"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2016/hmotnepravni-uprava-detence-v-socialnich-sluzbach/"
 date: 2016-08-01
 perex: "<p></p>"

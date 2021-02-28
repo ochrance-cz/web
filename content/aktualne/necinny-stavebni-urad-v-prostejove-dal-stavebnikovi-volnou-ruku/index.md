@@ -1,7 +1,7 @@
 ---
 title: "Nečinný stavební úřad v Prostějově dal stavebníkovi volnou ruku"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/necinny-stavebni-urad-v-prostejove-dal-stavebnikovi-volnou-ruku"
 date: 2019-06-25
 perex: "<p>Stavební úřad Magistrátu města Prostějova pouze přihlížel terénním úpravám v nezastavěném území obce Hradčany-Kobeřice, aniž by je podle stavebního zákona posoudil. Úřad nezjišťoval rozsah úprav (plánovaný i reálný) a nezabýval se záměrem stavebníka, tedy účelem zemních prací, přestože občané obce upozorňovali, že má jít pravděpodobně o stavbu střelnice. Úřad místo posouzení legálnosti ponechal stavebníkovi „volnou ruku“.</p>"

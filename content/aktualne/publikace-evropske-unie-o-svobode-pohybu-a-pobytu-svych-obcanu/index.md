@@ -1,7 +1,7 @@
 ---
 title: "Publikace Evropské unie o svobodě pohybu a pobytu svých občanů"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2018/publikace-evropske-unie-o-svobode-pohybu-a-pobytu-svych-obcanu/"
 date: 2018-10-04
 perex: "<p>„Uplatňování práv občanů Evropské unie – soudy členských států prosazují svobodu pohybu a práva související“ je nejnovějším titulem vydaným Agenturou Evropské unie pro základní práva se sídlem ve Vídni.</p>"

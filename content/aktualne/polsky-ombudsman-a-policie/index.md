@@ -1,7 +1,7 @@
 ---
 title: "Polský ombudsman a policie"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2017/polsky-ombudsman-a-policie/"
 date: 2017-06-19
 perex: "<p>V poslední době bylo v Polsku slyšet o případech prokázaného i domnělého špatného zacházení ze strany policie. Varovným hlas často patřil Adamu Bodnarovi, polskému ombudsmanovi, který vykonává rovněž mandát národního preventivního mechanismu.</p>"

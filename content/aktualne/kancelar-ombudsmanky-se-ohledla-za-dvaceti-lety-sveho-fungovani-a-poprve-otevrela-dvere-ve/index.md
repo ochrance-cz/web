@@ -1,7 +1,7 @@
 ---
 title: "Kancelář ombudsmanky se ohlédla za dvaceti lety svého fungování  a poprvé otevřela dveře veřejnosti"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/kancelar-ombudsmanky-se-ohledla-za-dvaceti-lety-sveho-fungovani-a-poprve-otevrela-dvere-ve"
 date: 2019-12-09
 perex: "<p>Rok 2020 bude dvacátým rokem existence instituce ombudsmana. Kancelář veřejného ochránce práv proto otevřela své dveře veřejnosti. Formou přednášek a zážitků lidem ukazuje, co všechno se jí za dvě dekády podařilo změnit k lepšímu – od nepříznivých osudů jednotlivců až po systémové problémy. </p>"

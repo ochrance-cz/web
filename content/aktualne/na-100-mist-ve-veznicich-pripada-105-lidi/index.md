@@ -1,7 +1,7 @@
 ---
 title: "Na 100 míst ve věznicích připadá 105 lidí"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2019/na-100-mist-ve-veznicich-pripada-105-lidi/"
 date: 2019-04-11
 perex: "<p></p>"

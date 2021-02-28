@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Boj o halu"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-i/pripad-pro-ombudsmana-boj-o-halu/"
 date: 2010-02-19
 perex: "<p></p><p>Příběh rodiny soukromého zemědělce Jana Krejcara z malé osady Příložany na Třebíčsku, kterému veřejný ochránce práv pomohl k vydání stavebního povolení na stavbu haly pro zemědělské stroje.</p>"

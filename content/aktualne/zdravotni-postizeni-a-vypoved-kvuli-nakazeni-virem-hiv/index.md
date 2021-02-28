@@ -1,7 +1,7 @@
 ---
 title: "Zdravotní postižení a výpověď kvůli nakažení virem HIV"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2014/zdravotni-postizeni-a-vypoved-kvuli-nakazeni-virem-hiv/"
 date: 2014-06-25
 perex: "<p>Lze infekci virem HIV označit jako zdravotní postižení a poskytnout nakaženému zaměstnanci ochranu před nerovným zacházením?</p>"

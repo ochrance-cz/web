@@ -1,7 +1,7 @@
 ---
 title: "Věcné břemeno k pozemku s elektrickým nebo plynovým vedením zaniká při odstranění vedení"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2015/vecne-bremeno-k-pozemku-s-elektrickym-nebo-plynovym-vedenim-zanika-pri-odstraneni-vedeni"
 date: 2015-05-15
 perex: "<p>Vlastníci pozemků s elektrickým vedením nebo plynovodem museli podle dřívější právní úpravy strpět umístění a provozování vedení na svém pozemku. Jejich povinnost sice stále trvá, nicméně pouze po dobu existence vedení – v okamžiku jeho odstranění povinnost zanikne. To platí také v případě, kdy je původní vedení nahrazeno stavbou nového, i když ve stejné trase.</p>"

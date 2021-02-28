@@ -1,7 +1,7 @@
 ---
 title: "Dokumenty k rozšíření dozorové působnosti státního zastupitelství"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2018/dokumenty-k-rozsireni-dozorove-pusobnosti-statniho-zastupitelstvi/"
 date: 2018-01-04
 perex: "<p>Na řadě míst zbavení svobody chybí dozor nezávislého orgánu, který by mohl rychle zjednat nápravu v případě špatného zacházení. Rada vlády pro lidská práva schválila v roce 2016 návrh doporučující nápravu formou rozšíření dozorové působnosti státního zastupitelství. Zde jsou související dokumenty pohromadě.</p>"

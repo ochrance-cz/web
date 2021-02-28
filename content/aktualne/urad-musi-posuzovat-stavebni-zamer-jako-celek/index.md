@@ -1,7 +1,7 @@
 ---
 title: "Úřad musí posuzovat stavební záměr jako celek"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2018/urad-musi-posuzovat-stavebni-zamer-jako-celek"
 date: 2018-02-09
 perex: "<p>Ombudsmanka a její zástupce se při své činnosti opakovaně setkávají se snahou obcházet zákonné požadavky na posuzování vlivu stavebních záměrů na životní prostředí. Obvyklou metodou obcházení zákonných požadavků je schvalování stavebních záměrů po jednotlivých částech. S takovým případem se na ombudsmanku obrátili stěžovatelé, v jejichž blízkosti vyrůstá bytový komplex. Stěžovatelé napadli sdělení příslušného magistrátu, že se jedná o podlimitní záměr a proto nepodléhá zjišťovacímu řízení. Šetření jejich podezření potvrdilo. </p>"

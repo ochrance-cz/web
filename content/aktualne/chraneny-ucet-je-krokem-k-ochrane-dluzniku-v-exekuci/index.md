@@ -1,7 +1,7 @@
 ---
 title: "Chráněný účet je krokem k ochraně dlužníků v exekuci"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2021/chraneny-ucet-je-krokem-k-ochrane-dluzniku-v-exekuci"
 date: 2021-02-02
 perex: "<p></p>"

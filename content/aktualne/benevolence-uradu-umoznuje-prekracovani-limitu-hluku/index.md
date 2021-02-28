@@ -1,7 +1,7 @@
 ---
 title: "Benevolence úřadů umožňuje překračování limitů hluku"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2010/benevolence-uradu-umoznuje-prekracovani-limitu-hluku"
 date: 2010-01-13
 perex: "<p></p><p>Počet stížností občanů na hluk se neustále zvyšuje, a to i přes opakovaně vydávaná stanoviska ochránce a jeho jednání s orgány ochrany veřejného zdraví i stavebními úřady. Občané si stále častěji stěžují nejen na vlastní hluk, ale také na související vlivy (např. otřesy způsobené přetížením nevyhovujících komunikací kamionovou dopravou a rovněž na zvýšenou koncentraci škodlivin).</p>"

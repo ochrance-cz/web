@@ -1,7 +1,7 @@
 ---
 title: "Na semináři ve Štrasburku se diskutovalo o podmínkách ve věznicích"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2015/na-seminari-ve-strasburku-se-diskutovalo-o-podminkach-ve-veznicich/"
 date: 2015-05-12
 perex: "<p>Přeplněné věznice a špatné podmínky v nich. Jak z toho ven? Mohou pomoci alternativy k uvěznění? A jak může veřejný ochránce práv napomoci předcházení špatnému zacházení? Tato témata byla předmětem semináře ve Štrasburku, kterého se 7. a 8. května zúčastnil i zástupce Oddělení dohledu nad omezováním osobní svobody z Kanceláře veřejného ochránce práv.</p>"

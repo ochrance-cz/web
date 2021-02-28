@@ -1,7 +1,7 @@
 ---
 title: "Příběhy, které inspirují – diskriminace z důvodu sexuální orientace a genderové identity"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2019/pribehy-ktere-inspiruji-diskriminace-z-duvodu-sexualni-orientace-a-genderove-identity/"
 date: 2019-05-16
 perex: "<p>Ombudsmanka vydala v pořadí již pátý leták z edice Příběhy, které inspirují, tentokrát na téma diskriminace z důvodu sexuální orientace a genderové identity. Jeho vydáním zároveň, mimo jiné, podporuje aktivity LGBT+ osob, spojené s Mezinárodním dnem proti homofobii, transfobii a bifobii, který připadá na 17. května. </p>"

@@ -1,7 +1,7 @@
 ---
 title: "Mezinárodní den dětí – ombudsman pomáhá dětem již dvacet let"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/mezinarodni-den-deti-ombudsman-pomaha-detem-jiz-dvacet-let"
 date: 2020-06-01
 perex: "<p>Dnes je den dětí a my jim přejeme krásný a radostný svátek. V práci ombudsmana mají děti výsadní pozici každý den již dvacet let. Podněty dětí jsou vyřizovány přednostně. Jezdíme do škol. Dohlížíme již čtrnáct let na podmínky v dětských domovech, zařízeních pro děti vyžadujících okamžitou pomoc, kojeneckých ústavech a dalších výchovných zařízeních, kde jsou děti umístěny. Monitorujeme práva dětí s postižením. Speciální kategorii tvoří naše kontrola činnosti orgánů sociálně-právní ochrany dětí, u nichž sledujeme, nakolik pracují v nejlepším zájmu dítěte. Pokud tomu tak není, prosazujeme nápravu a jsme v tom velmi úspěšní. V pozici kolizního opatrovníka zastupujeme děti před Ústavním soudem a hájíme jejich práva. </p>"

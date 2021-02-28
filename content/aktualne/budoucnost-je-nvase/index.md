@@ -1,7 +1,7 @@
 ---
 title: "Budoucnost je (n)(v)aše"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2018/budoucnost-je-nvase"
 date: 2018-12-07
 perex: "<p>Informační centrum OSN v Praze a ombudsmanka společně pořádají v Brně výstavu „Budoucnost je (n)(v)aše“ připomínající 70. výročí přijetí Všeobecné deklarace lidských práv. Výstava je volně přístupná od 10. prosince do 4. ledna v Kanceláři veřejného ochránce práv v Brně.</p>"

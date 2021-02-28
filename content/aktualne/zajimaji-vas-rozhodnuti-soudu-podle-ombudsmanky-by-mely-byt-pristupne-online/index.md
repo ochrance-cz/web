@@ -1,7 +1,7 @@
 ---
 title: "Zajímají vás rozhodnutí soudů? Podle ombudsmanky by měly být přístupné online"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/zajimaji-vas-rozhodnuti-soudu-podle-ombudsmanky-by-mely-byt-pristupne-online"
 date: 2019-03-01
 perex: "<p>Soudy v současnosti zveřejňují online jen málo rozhodnutí. Navzdory povinnosti (od roku 2002) zveřejňovat aspoň významná rozhodnutí, některé soudy nezveřejňují vůbec nic. Tomuto tématu se věnoval kulatý stůl na téma Elektronické zveřejňování rozhodnutí soudů, který se uskutečnil 28. února v sídle ombudsmanky. Zaměřil se na otázku, jak nejlépe online zveřejňovat rozhodnutí soudů, aby byla zdarma v anonymizované formě přístupná široké veřejnosti. </p>"

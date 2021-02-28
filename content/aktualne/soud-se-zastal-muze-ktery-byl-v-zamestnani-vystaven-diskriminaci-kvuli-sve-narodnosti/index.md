@@ -1,7 +1,7 @@
 ---
 title: "Soud se zastal muže, který byl v zaměstnání vystaven diskriminaci kvůli své národnosti"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2020/soud-se-zastal-muze-ktery-byl-v-zamestnani-vystaven-diskriminaci-kvuli-sve-narodnosti/"
 date: 2020-01-20
 perex: "<p>Soud v Severním Irsku nařídil, aby bylo muži z Polska vyplaceno odškodné ve výši 15 tisíc liber.</p>"

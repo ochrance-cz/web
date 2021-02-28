@@ -1,7 +1,7 @@
 ---
 title: "Trestní dohra nezákonné stavby domů ve Špindlerově Mlýně"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2017/trestni-dohra-nezakonne-stavby-domu-ve-spindlerove-mlyne"
 date: 2017-04-04
 perex: "<p>Okresní soud v Trutnově bude ve čtvrtek rozhodovat ve věci úředníků obviněných z maření úkolu úřední osoby z nedbalosti v souvislosti s povolením stavby dvou bytových domů ve Špindlerově Mlýně. Případem se zabýval i zástupce veřejné ochránkyně práv, který zjistil porušení stavebního zákona ze strany stavebního úřadu ve Špindlerově Mlýně a nečinnost Krajského úřadu Královéhradeckého kraje, který mohl částečně věc napravit, ale neudělal to, takže nezákonnost fakticky potvrdil.</p>"

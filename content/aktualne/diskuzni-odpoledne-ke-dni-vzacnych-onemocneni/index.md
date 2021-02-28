@@ -1,7 +1,7 @@
 ---
 title: "Diskuzní odpoledne ke Dni vzácných onemocnění"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2020/diskuzni-odpoledne-ke-dni-vzacnych-onemocneni/"
 date: 2020-02-27
 perex: "<p>Při příležitosti Dne vzácných onemocnění 2020, který oslavíme 29. února, DEBRA včera uspořádala diskusní odpoledne Spolu NADOTEK.</p>"

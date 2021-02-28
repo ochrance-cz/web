@@ -1,7 +1,7 @@
 ---
 title: "Úspěch ochránkyně v odškodňování za nečinnost úřadů"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2015/uspech-ochrankyne-v-odskodnovani-za-necinnost-uradu"
 date: 2015-06-18
 perex: "<p>Ministerstvo dopravy přistoupilo na doporučení ochránkyně a začne lidi odškodňovat za nečinnost úřadů. Po Ministerstvu práce a sociálních věcí, které od loňského roku dobrovolně odškodňuje za nesprávný úřední postup, tak ochránkyně dosáhla dalšího úspěchu ve prospěch lidí, kteří měsíce i roky marně čekali na úřední rozhodnutí ve své věci a celou dobu museli žít v nejistotě a stresu.</p>"

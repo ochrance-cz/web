@@ -1,7 +1,7 @@
 ---
 title: "Ochránkyně vyzvala senátory k posílení práv jednotlivců proti stavebním investorům"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2017/ochrankyne-vyzvala-senatory-k-posileni-prav-jednotlivcu-proti-stavebnim-investorum"
 date: 2017-05-17
 perex: "<p>Ochránkyně požádala senátory, aby věnovali zvýšenou pozornost novele stavebního zákona, kterou senátní výbory aktuálně začínají projednávat. Upozorňuje je, že některé navrhované změny mohou v praxi vyvolat víc problémů a konfliktů a výrazně mohou snížit ochranu práv jednotlivců. Vychází přitom z mnohaletých zkušeností veřejného ochránce práv z šetření několika tisíc podnětů z oblasti stavebního řádu.</p>"

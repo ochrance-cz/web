@@ -1,7 +1,7 @@
 ---
 title: "Na životní prostředí je třeba myslet nejen 5. června"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/na-zivotni-prostredi-je-treba-myslet-nejen-5-cervna"
 date: 2020-06-05
 perex: "<p>V posledních šesti letech se ombudsman zabýval více než 4500 podnětů, které se ve větší či menší míře týkaly životního prostředí, ať už šlo o stavební činnost ovlivňující krajinu, posuzování vlivu staveb na životní prostředí, terénní úpravy s odpady na odtokové podmínky v území, provoz průmyslových podniků s vlivem na kvalitu ovzduší, vypouštění odpadních vod, nakládání s odpady, kácení stromů, ochranu zemědělské půdy, hlukovou zátěž a další.</p>"

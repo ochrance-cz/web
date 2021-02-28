@@ -1,7 +1,7 @@
 ---
 title: "Požadavek na ochutnávání vepřového masa byl shledán diskriminačním"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2014/pozadavek-na-ochutnavani-veproveho-masa-byl-shledan-diskriminacnim/"
 date: 2014-03-04
 perex: "<p>Dánský soud rozhodl, že nepovolení výjimky z ochutnávání vepřového masa muslimské studentce odborné školy zakládá nepřímou diskriminaci. </p>"

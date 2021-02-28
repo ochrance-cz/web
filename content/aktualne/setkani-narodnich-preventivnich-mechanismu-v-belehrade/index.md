@@ -1,7 +1,7 @@
 ---
 title: "Setkání národních preventivních mechanismů v Bělehradě"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2014/setkani-narodnich-preventivnich-mechanismu-v-belehrade/"
 date: 2014-12-29
 perex: "<p></p>"

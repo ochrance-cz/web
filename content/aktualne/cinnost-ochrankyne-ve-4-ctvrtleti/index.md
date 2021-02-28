@@ -1,7 +1,7 @@
 ---
 title: "Činnost ochránkyně ve 4. čtvrtletí"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2017/cinnost-ochrankyne-ve-4-ctvrtleti"
 date: 2017-02-03
 perex: "<p>Ve čtvrtém čtvrtletí 2016 se na ochránkyni obrátilo s žádostí o pomoc a radu 2050 osob. Nejčastěji se jejich problémy týkaly sociálního zabezpečení (375 případů), staveb a územního plánování (137 případů), činnosti Vězeňské služby ČR (99 případů) a sociálně-právní ochrany dětí (93 případů). V 58 podnětech lidé namítali diskriminaci ve smyslu antidiskriminačního zákona, a to zejména v oblasti práce a zaměstnání. V rámci prevence špatného zacházení a dohledu nad omezováním osobní svobody realizovala ochránkyně 5 systematických návštěv tří zařízení pro děti vyžadující okamžitou pomoc, léčebny dlouhodobě nemocných a věznice a ústavu pro výkon zabezpečovací detence.</p>"

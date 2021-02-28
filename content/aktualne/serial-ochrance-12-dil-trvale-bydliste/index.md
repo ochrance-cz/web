@@ -1,7 +1,7 @@
 ---
 title: "Seriál Ochránce – 12. díl – Trvalé bydliště"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2012/serial-ochrance-12-dil-trvale-bydliste"
 date: 2012-11-23
 perex: "<p>V neděli 25. 11. ve 11:05h vysílá ČT2 12. díl pořadu Ochránce, tentokrát o trvalém bydlišti a evidenci obyvatel. Reprízu dílu uvidíte na ČT2 v úterý 27. 11. v 9:00h.</p>"

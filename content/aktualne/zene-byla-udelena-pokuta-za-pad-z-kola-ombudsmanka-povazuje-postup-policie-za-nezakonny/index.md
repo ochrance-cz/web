@@ -1,7 +1,7 @@
 ---
 title: "Ženě byla udělena pokuta za pád z kola. Ombudsmanka považuje postup policie za nezákonný"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2017/zene-byla-udelena-pokuta-za-pad-z-kola-ombudsmanka-povazuje-postup-policie-za-nezakonny"
 date: 2017-11-16
 perex: "<p>Žena ve věku sedmdesát dva let jela brzo ráno obcí na kole do kostela. Při odbočování vpravo se lekla protijedoucího auta, seskočila z kola, špatně došlápla a zlomila si kotník. Během její následné hospitalizace ji v nemocnici navštívil policista a uložil jí pokutu, protože se plně nevěnovala řízení jízdního kola. Ombudsmanka považuje postup policie za nezákonný, nemravný a nedůstojný. Během šetření konstatovala pochybení policisty, Krajského ředitelství policie Zlínského kraje a policejního prezidenta. Ti své pochybení odmítají.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Systematické návštěvy zaměřené na riziko malnutrice"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2011/systematicke-navstevy-zamerene-na-riziko-malnutrice/"
 date: 2011-10-11
 perex: "<p></p><p>Pro seznámení veřejnosti s činností ochránce a s poznatky, které při ní získal (ustanovení § 23 odst. 2 zákona o veřejném ochránci práv), informujeme o dvou nejaktuálnějších systematických návštěvách, které v psychiatrických léčebnách jako národní preventivní mechanismus provedl.</p>"

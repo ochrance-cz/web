@@ -1,7 +1,7 @@
 ---
 title: "Zasedání Odborné skupiny VVZPO pro koncepční řešení problematiky života osob s poruchami autistického spektra"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2019/zasedani-odborne-skupiny-vvzpo-pro-koncepcni-reseni-problematiky-zivota-osob-s-poruchami-au/"
 date: 2019-01-28
 perex: "<p></p>"

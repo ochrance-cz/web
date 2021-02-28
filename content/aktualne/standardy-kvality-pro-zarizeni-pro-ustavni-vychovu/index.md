@@ -1,7 +1,7 @@
 ---
 title: "Standardy kvality pro zařízení pro ústavní výchovu"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2015/standardy-kvality-pro-zarizeni-pro-ustavni-vychovu/"
 date: 2015-04-30
 perex: "<p></p>"

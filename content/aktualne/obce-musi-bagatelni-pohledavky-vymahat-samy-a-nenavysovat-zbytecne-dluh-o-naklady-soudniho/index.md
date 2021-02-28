@@ -1,7 +1,7 @@
 ---
 title: "Obce musí bagatelní pohledávky vymáhat samy a nenavyšovat zbytečně dluh o náklady soudního exekutora"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2018/obce-musi-bagatelni-pohledavky-vymahat-samy-a-nenavysovat-zbytecne-dluh-o-naklady-soudniho"
 date: 2018-08-31
 perex: "<p>Město vymáhalo po stěžovateli pokutu ve výši 1 000 Kč prostřednictvím soudního exekutora. Celkové náklady exekuce dosáhly částky téměř 4 600 Kč. Město tímto postupem pochybilo, protože je povinno volit takový způsob vymáhání, aby výše nákladů nebyla ve zjevném nepoměru k výši nedoplatku. Město již částky do 10 000 Kč prostřednictvím soudního exekutora nevymáhá.  </p>"

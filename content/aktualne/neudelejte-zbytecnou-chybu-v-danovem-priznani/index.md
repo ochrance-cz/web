@@ -1,7 +1,7 @@
 ---
 title: "Neudělejte zbytečnou chybu v daňovém přiznání"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2018/neudelejte-zbytecnou-chybu-v-danovem-priznani"
 date: 2018-03-05
 perex: "<p>Ombudsman se setkává s problémy lidí, které pramení z nesprávného vyplnění daňového přiznání k dani z příjmů fyzických osob.  Prvním úskalím je uplatnění slevy na manžela nebo manželku a správné rozlišení příspěvků, které se započítávají do rozhodného příjmu pro účely uplatnění slevy. Druhým problémem je otázka toho, kdo může uplatnit slevu na dítě. Přinášíme proto jednoduchý manuál, jak se v těchto otázkách vyznat. Připomínáme, že daňové přiznání za rok 2017 je třeba podat nejpozději do 3. dubna 2018 (včetně). </p>"

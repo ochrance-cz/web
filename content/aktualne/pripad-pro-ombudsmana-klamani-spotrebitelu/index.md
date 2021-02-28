@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Klamání spotřebitelů"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-iv/pripad-pro-ombudsmana-klamani-spotrebitelu/"
 date: 2008-10-21
 perex: "<p></p>"

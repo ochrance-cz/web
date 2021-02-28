@@ -1,7 +1,7 @@
 ---
 title: "Belgický soud poprvé rozhodl o odvozené diskriminaci"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2014/belgicky-soud-poprve-rozhodl-o-odvozene-diskriminaci/"
 date: 2014-02-26
 perex: "<p>Pracovní soud v Leuvenu uznal jako formu přímé diskriminace výpověď zaměstnance z důvodu zdravotního postižení jeho dítěte. </p>"

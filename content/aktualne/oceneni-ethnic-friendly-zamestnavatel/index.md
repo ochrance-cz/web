@@ -1,7 +1,7 @@
 ---
 title: "Ocenění Ethnic Friendly zaměstnavatel"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2012/oceneni-ethnic-friendly-zamestnavatel/"
 date: 2011-11-21
 perex: "<p></p><p>V úterý 15. listopadu 2011 proběhla v Domě národnostních menšin v pražské Vocelově ulici slavnostní certifikace nových Ethnic Friendly zaměstnavatelů. </p>"

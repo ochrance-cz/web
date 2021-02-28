@@ -1,7 +1,7 @@
 ---
 title: "Pracovní inzerát založený na populárním internetovém memu je sexistický, tvrdí švédský ombudsman pro reklamu"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2018/pracovni-inzerat-zalozeny-na-popularnim-internetovem-memu-je-sexisticky-tvrdi-svedsky-o/"
 date: 2018-11-08
 perex: "<p>Švédská firma využila internetový mem „Distracted boyfriend“ v nabídce zaměstnání, úřad ombudsmana inzerát označil za nevhodný a sexistický.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Rasová diskriminace a nesnášenlivost v České republice – Komise proti rasismu Rady Evropy uspořádá kulatý stůl v Praze"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2016/rasova-diskriminace-a-nesnasenlivost-v-ceske-republice-komise-proti-rasismu-rady-evropy-usp/"
 date: 2016-11-02
 perex: "<p>Komise proti rasismu Rady Evropy (ECRI) organizuje ve spolupráci s  ministrem pro lidská práva, rovné příležitosti a  legislativu a s veřejnou ochránkyní práv kulatý stůl k projednání opatření, jež byla učiněna v návaznosti na doporučení ECRI v její poslední monitorovací zprávě o České republice z roku 2015. Kulatý stůl se koná v Praze 3. listopadu.</p>"

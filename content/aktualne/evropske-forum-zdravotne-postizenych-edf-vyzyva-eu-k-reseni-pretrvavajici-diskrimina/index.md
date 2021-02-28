@@ -1,7 +1,7 @@
 ---
 title: "Evropské fórum zdravotně postižených (EDF) vyzývá EU k řešení přetrvávající diskriminace v železniční přepravě"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2019/evropske-forum-zdravotne-postizenych-edf-vyzyva-eu-k-reseni-pretrvavajici-diskrimina/"
 date: 2019-09-30
 perex: "<p>Lidé se zdravotním postižením a omezenou schopností pohybu si musí před cestou vlakem objednat pomoc s dvoudenním předstihem, podle EDF to ale omezuje jejich možnosti cestování.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Nová zpráva zkoumá přechod osob se zdravotním postižením od institucionální péče k nezávislému životu"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2019/nova-zprava-zkouma-prechod-osob-se-zdravotnim-postizenim-od-institucionalni-pece-k-nezav/"
 date: 2019-03-27
 perex: "<p>Agentura EU pro základní práva (FRA) zjišťuje, co osobám se zdravotním postižením pomáhá s přechodem k nezávislému životu a jakým překážkám při tom čelí.</p>"

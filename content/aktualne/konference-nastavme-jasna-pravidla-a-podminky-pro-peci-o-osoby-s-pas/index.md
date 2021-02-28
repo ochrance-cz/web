@@ -1,7 +1,7 @@
 ---
 title: "Konference „Nastavme jasná pravidla a podmínky pro péči o osoby s PAS“"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2018/konference-nastavme-jasna-pravidla-a-podminky-pro-peci-o-osoby-s-pas/"
 date: 2018-06-20
 perex: "<p></p>"

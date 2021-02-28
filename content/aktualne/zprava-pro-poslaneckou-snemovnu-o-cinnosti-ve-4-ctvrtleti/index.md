@@ -1,7 +1,7 @@
 ---
 title: "Zpráva pro Poslaneckou sněmovnu o činnosti ve 4. čtvrtletí"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/zprava-pro-poslaneckou-snemovnu-o-cinnosti-ve-4-ctvrtleti"
 date: 2019-02-06
 perex: "<p>1888 doručených podnětů, první výsledky analýzy soudních rozhodnutí o omezení svéprávnosti, účast klientů domovů pro osoby se zdravotním postižením ve volbách, „šmejdi“ po telefonu, problém podání žádosti o pas na zastupitelském úřadu v cizině… tato a další zajímavá témata shrnula ombudsmanka v pravidelné zprávě pro poslance.</p>"

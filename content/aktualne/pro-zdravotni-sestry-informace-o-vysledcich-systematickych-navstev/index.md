@@ -1,7 +1,7 @@
 ---
 title: "Pro zdravotní sestry: Informace o výsledcích systematických návštěv"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2015/pro-zdravotni-sestry-informace-o-vysledcich-systematickych-navstev/"
 date: 2015-05-26
 perex: "<p></p>"

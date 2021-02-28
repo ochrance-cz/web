@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Hluk"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-ii/pripad-pro-ombudsmana-hluk/"
 date: 2010-02-19
 perex: "<p></p><p>Pokud žijete v domě, který má z jedné strany koupaliště a z druhé rekreační objekt, rozhodně si příliš klidu asi neužijete. </p>"

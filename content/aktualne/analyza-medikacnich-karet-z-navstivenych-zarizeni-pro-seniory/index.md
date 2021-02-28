@@ -1,7 +1,7 @@
 ---
 title: "Analýza medikačních karet z navštívených zařízení pro seniory"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2014/analyza-medikacnich-karet-z-navstivenych-zarizeni-pro-seniory/"
 date: 2014-10-20
 perex: "<p></p>"

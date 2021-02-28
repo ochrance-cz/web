@@ -1,7 +1,7 @@
 ---
 title: "Vše, co jste kdy chtěli vědět o diskriminaci"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/vse-co-jste-kdy-chteli-vedet-o-diskriminaci"
 date: 2019-06-13
 perex: "<p>Při příležitosti 10. výročí antidiskriminačního zákona v České republice vydala ombudsmanka sborník stanovisek Diskriminace. Svou komplexností jedinečná publikace detailně vysvětluje pojmy týkající se diskriminace, jejich zákonné definice a případně i výklady soudů. Vše přibližuje na konkrétních příkladech, s nimiž se ochránce v uplynulých deseti letech setkával.</p>"

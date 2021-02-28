@@ -1,7 +1,7 @@
 ---
 title: "Zpráva CPT z návštěv Řecka a Makedonie"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2012/zprava-cpt-z-navstev-recka-a-makedonie/"
 date: 2012-03-20
 perex: "<p></p><p>Evropský výbor pro zabránění mučení a nelidskému či ponižujícímu zacházení nebo trestání (CPT) vydal v lednu 2012 zprávy z návštěv Řecka, Moldávie a Makedonie. Závažná pochybení byla zjištěna zejména v Makedonii. </p>"

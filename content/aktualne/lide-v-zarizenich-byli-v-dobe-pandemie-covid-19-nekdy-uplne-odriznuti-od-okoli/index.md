@@ -1,7 +1,7 @@
 ---
 title: "Lidé v zařízeních byli v době pandemie Covid-19 někdy úplně „odříznuti“ od okolí"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/lide-v-zarizenich-byli-v-dobe-pandemie-covid-19-nekdy-uplne-odriznuti-od-okoli"
 date: 2020-07-30
 perex: "<p>Omezení návštěv, absence kontaktu s blízkými osobami a mnohdy i nemožnost vycházet z objektu patřily k nejproblematičtějším důsledkům opatření proti šíření onemocnění Covid-19 v zařízeních, kde jsou lidé závislí na poskytované péči nebo jsou jinak omezeni na osobní svobodě. Zástupkyně ombudsmana doporučuje ministerstvům, aby její zjištění zohlednily v metodických materiálech a zajistily pro případ opakování obdobné situace lepší vyvážení ochrany veřejného zdraví a práv jednotlivců.</p>"

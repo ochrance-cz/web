@@ -1,7 +1,7 @@
 ---
 title: "Britský soud rozhodl, že zaměstnavatel může ženám na mateřské dovolené nabízet více peněz než mužům na rodičovské dovolené"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2019/britsky-soud-rozhodl-ze-zamestnavatel-muze-zenam-na-materske-dovolene-nabizet-vice-pen/"
 date: 2019-10-14
 perex: "<p>Rozdílná výše dávek není podle soudu diskriminační, protože mateřská dovolená slouží jinému účelu než rodičovská dovolená.</p>"

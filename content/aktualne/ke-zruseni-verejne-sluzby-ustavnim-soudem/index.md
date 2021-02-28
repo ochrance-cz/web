@@ -1,7 +1,7 @@
 ---
 title: "Ke zrušení veřejné služby Ústavním soudem"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2012/ke-zruseni-verejne-sluzby-ustavnim-soudem"
 date: 2012-11-27
 perex: "<p>Veřejný ochránce práv uvítal rozhodnutí Ústavního soudu zrušit povinnou veřejnou službu. Rozhodnutí koresponduje s jeho názorem a argumenty, jimiž se snažil přesvědčit zákonodárce, že tento způsob jednání státu s občany je porušováním Listiny základních práv a svobod.</p>"

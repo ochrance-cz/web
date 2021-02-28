@@ -1,7 +1,7 @@
 ---
 title: "Veřejná ochránkyně práv ve spolupráci s Právnickou fakultou UK pořádala konferenci „Praktická implementace článku 12 Úmluvy o právech osob se zdravotním postižením“"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2018/verejna-ochrankyne-prav-ve-spolupraci-s-pravnickou-fakultou-uk-poradala-konferenci-prakt/"
 date: 2018-11-26
 perex: "<p>Ve dnech 22. – 23. listopadu proběhla v prostorách Kanceláře veřejného ochránce práv konference, která mimo jiné ukázala, že soudy i nadále ve velkém omezují svéprávnost lidí se zdravotním postižením.</p>"

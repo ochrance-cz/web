@@ -1,7 +1,7 @@
 ---
 title: "Návštěva Ústavně právního výboru Parlamentu ČR"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2008/navsteva-ustavne-pravniho-vyboru-parlamentu-cr"
 date: 2008-03-14
 perex: "<p></p>"

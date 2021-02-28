@@ -1,7 +1,7 @@
 ---
 title: "U starobních důchodů lidé nejčastěji napadají jejich výši"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2015/u-starobnich-duchodu-lide-nejcasteji-napadaji-jejich-vysi"
 date: 2015-05-25
 perex: "<p></p>"

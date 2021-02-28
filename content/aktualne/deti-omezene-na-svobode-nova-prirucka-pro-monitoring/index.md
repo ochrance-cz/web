@@ -1,7 +1,7 @@
 ---
 title: "Děti omezené na svobodě: nová příručka pro monitoring"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2016/deti-omezene-na-svobode-nova-prirucka-pro-monitoring/"
 date: 2016-03-10
 perex: "<p>V rámci projektu Children’s Rights Behind Bars vychází praktický rádce Monitoring míst, kde jsou děti omezené na svobodě. </p>"

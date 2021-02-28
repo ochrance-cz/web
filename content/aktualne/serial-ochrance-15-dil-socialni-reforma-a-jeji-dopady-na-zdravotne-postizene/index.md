@@ -1,7 +1,7 @@
 ---
 title: "Seriál Ochránce – 15. díl – Sociální reforma a její dopady na zdravotně postižené"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2012/serial-ochrance-15-dil-socialni-reforma-a-jeji-dopady-na-zdravotne-postizene"
 date: 2012-12-13
 perex: "<p>V neděli 16. 12. v 11:00h vysílá ČT2 15. díl pořadu Ochránce, tentokrát o tom, jak sociální reforma dopadá na lidi se zdravotním postižením. Reprízu dílu uvidíte na ČT2 v úterý 18. 12. v 9:05h.</p>"

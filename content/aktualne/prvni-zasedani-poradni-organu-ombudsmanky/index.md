@@ -1,7 +1,7 @@
 ---
 title: "První zasedání Poradní orgánu ombudsmanky"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2018/prvni-zasedani-poradni-organu-ombudsmanky/"
 date: 2018-05-28
 perex: "<p>V pondělí 22. května 2018 se poprvé sešel poradní orgán ombudsmanky pro oblast práv osob se zdravotním postižením. Jeho hlavním úkolem bude sledovat společně s ombudsmankou naplňování Úmluvy o právech osob se zdravotním postižením v České republice.</p>"

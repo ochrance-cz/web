@@ -1,7 +1,7 @@
 ---
 title: "Seminář pro školní inspektory"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2016/seminar-pro-skolni-inspektory/"
 date: 2016-11-10
 perex: "<p>Dne 9. listopadu 2016 proběhl v kanceláři veřejné ochránkyně práv seminář „Metody šetření a zjištění ochránce v zařízeních pro výkon ústavní a ochranné výchovy“, jehož se účastnilo 70 inspektorů z celé České republiky. </p>"

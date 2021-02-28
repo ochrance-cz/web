@@ -1,7 +1,7 @@
 ---
 title: "Limit 90 dní v LDN neexistuje"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2010/limit-90-dni-v-ldn-neexistuje"
 date: 2010-03-18
 perex: "<p></p><p>Délka hospitalizace v léčebně dlouhodobě nemocných není omezena žádným právním předpisem a řídí se pouze zdravotním stavem pacienta. Přesto se na ochránce obracejí občané s dotazy na maximální dobu hospitalizace s tím, že podle informací, které dostali, je délka pobytu v LDN omezena na dobu maximálně 3 měsíců a také v médiích ochránce zaznamenal několik případů, kdy délka pobytu v léčebně měla být po třech měsících ukončena. Zdravotní pojišťovny údajně delší pobyt neproplácejí a po třech měsících musí být pacient z léčebny propuštěn, musí si hledat jiné zařízení nebo si svůj další pobyt v léčebně musí platit. </p>"

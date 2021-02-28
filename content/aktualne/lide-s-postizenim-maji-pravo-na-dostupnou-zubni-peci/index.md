@@ -1,7 +1,7 @@
 ---
 title: "Lidé s postižením mají právo na dostupnou zubní péči"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/lide-s-postizenim-maji-pravo-na-dostupnou-zubni-peci"
 date: 2019-02-28
 perex: "<p>Lidé s mentálním postižením nebo s poruchou autistického spektra musí mnohdy čekat na šetření zubu až jeden a půl roku. Pokud totiž musí absolvovat zubařský zákrok v celkové anestezii, jsou čekací doby neúměrné. Z výzkumu ombudsmanky vyplynulo, že v případě dětí je průměrná čekací doba čtyři a půl měsíce a u dospělých čtyři měsíce. Obrovské rozdíly však panují mezi regiony – u dětí jsou na Moravě čtyřikrát delší než v Čechách. V některých krajích čekají děti na zákrok jeden a půl roku a ve dvou potřebná zařízení ani neexistují. Této problematice se věnoval kulatý stůl, který se konal ve čtvrtek 28. února v sídle ombudsmanky. Zúčastnili se ho zástupci Ministerstva zdravotnictví, zdravotních pojišťoven, České lékařské komory, univerzit a nemocnic. </p>"

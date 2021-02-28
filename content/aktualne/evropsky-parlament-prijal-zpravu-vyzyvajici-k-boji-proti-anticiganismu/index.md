@@ -1,7 +1,7 @@
 ---
 title: "Evropský parlament přijal zprávu vyzývající k boji proti anticiganismu"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2017/evropsky-parlament-prijal-zpravu-vyzyvajici-k-boji-proti-anticiganismu/"
 date: 2017-12-07
 perex: "<p>Romové a Romky v EU stále čelí diskriminaci, podle Evropského parlamentu je třeba situaci změnit.</p>"

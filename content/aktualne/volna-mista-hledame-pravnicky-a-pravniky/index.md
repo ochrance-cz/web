@@ -1,7 +1,7 @@
 ---
 title: "Volná místa! Hledáme právničky a právníky"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2018/volna-mista-hledame-pravnicky-a-pravniky"
 date: 2018-05-03
 perex: "<p></p>"

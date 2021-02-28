@@ -1,7 +1,7 @@
 ---
 title: "Jednání ochránkyně s ministryní školství"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2015/jednani-ochrankyne-s-ministryni-skolstvi/"
 date: 2015-11-09
 perex: "<p></p>"

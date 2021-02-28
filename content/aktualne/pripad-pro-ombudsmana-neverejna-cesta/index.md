@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Neveřejná cesta"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-ii/pripad-pro-ombudsmana-neverejna-cesta/"
 date: 2010-02-19
 perex: "<p></p><p>Spor o průchod Vranovskou pláží. Na začátku sporu stálo pouhých 15 korun českých, které stanovil vlastník areálu Vranovské pláže jako poplatek za průchod přes svůj pozemek. </p>"

@@ -1,7 +1,7 @@
 ---
 title: "Vyřizování příspěvků na péči podle nového zákona je spojeno s průtahy"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2007/vyrizovani-prispevku-na-peci-podle-noveho-zakona-je-spojeno-s-prutahy"
 date: 2007-12-05
 perex: "<p><h2 class=\"Nadpis1\">Vyřizování příspěvků na péči podle nového zákona je spojeno s průtahy</h2> <p class=\"Normln-web\">Vyřizování žádostí o příspěvek na péči podle nového zákona o sociálních službách (zákon č. 108/2006 Sb. účinný od 1. 1. 2007) přináší problémy spojené s mnohaměsíčním čekáním. Obvykle déle než půl roku nemají žadatelé prostředky na úhradu sociálních služeb.</p>"

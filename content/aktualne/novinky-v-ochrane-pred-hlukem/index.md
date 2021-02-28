@@ -1,7 +1,7 @@
 ---
 title: "Novinky v ochraně před hlukem"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2016/novinky-v-ochrane-pred-hlukem"
 date: 2016-04-27
 perex: "<p>Novela zákona o ochraně veřejného zdraví zavedla od 1. 12. 2015 nové povinnosti úřadům i stavebníkům a změnila i možnosti obrany před obtěžujícím hlukem z restaurací, kaváren, hřišť apod. V praxi mohou tyto novinky způsobovat problémy, nejasnosti a vést k různým výkladům. Kancelář veřejného ochránce práv proto uspořádala kulatý stůl pro odborníky, kteří se stavebním zákonem a ochranou před hlukem zabývají, k diskuzi a vyjasnění, jaký by měl být optimální postup při řešení různých situací v praxi.</p>"

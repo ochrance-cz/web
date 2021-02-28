@@ -1,7 +1,7 @@
 ---
 title: "Rok 1 – víc šetření, víc legislativních aktivit"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2011/rok-1-vic-setreni-vic-legislativnich-aktivit"
 date: 2011-09-13
 perex: "<p></p><p>První rok činnosti druhého českého ombudsmana se nese ve znamení postupného zvyšování počtu stížností, s nimiž se na něj lidé obracejí, a zejména s jejich „zkvalitněním“. Trvale roste počet stížností v působnosti ombudsmana, tedy věcí, kterými se může zabývat, může provádět šetření a stěžovatelům skutečně pomoci, nikoli jim pouze poradit, kam jinam se mohou obrátit. Například jen za měsíc srpen ochránce přijal o 100 stížností v působnosti víc, než v srpnu loňského roku.</p>"

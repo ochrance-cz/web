@@ -1,7 +1,7 @@
 ---
 title: "Zástupkyně ochránce žádá zákaz užívání honitby Obora Radějov jako obory"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2010/zastupkyne-ochrance-zada-zakaz-uzivani-honitby-obora-radejov-jako-obory"
 date: 2010-02-10
 perex: "<p></p><p>Zástupkyně ochránce ukončila šetření ve věci práva myslivosti v oboře Radějov vydáním závěrečného stanoviska s návrhem opatření k nápravě. Šetření vedla z vlastní iniciativy na základě informací o vysokém překročení normovaných stavů zvěře a neetickém hromadném odlovu, a to zejména s ohledem na skutečnost, že obora Radějov se nachází v CHKO Bílé Karpaty, kde je z důvodu ochrany přírody zvýšený zájem na tom, aby normované stavy zvěře nebyly překračovány.</p>"

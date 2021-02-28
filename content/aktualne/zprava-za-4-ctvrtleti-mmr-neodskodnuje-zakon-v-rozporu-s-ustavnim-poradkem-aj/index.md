@@ -1,7 +1,7 @@
 ---
 title: "Zpráva za 4. čtvrtletí: MMR neodškodňuje, zákon v rozporu s ústavním pořádkem aj."
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2014/zprava-za-4-ctvrtleti-mmr-neodskodnuje-zakon-v-rozporu-s-ustavnim-poradkem-aj"
 date: 2014-02-04
 perex: "<p>Zástupce ombudsmana zaslal Poslanecké sněmovně zprávu o činnosti veřejného ochránce práv za 4. čtvrtletí roku 2013. V její příloze upozorňuje mj. na chybný postup Ministerstva pro místní rozvoj, které neposkytuje přiměřené zadostiučinění za nesprávný úřední postup.</p>"

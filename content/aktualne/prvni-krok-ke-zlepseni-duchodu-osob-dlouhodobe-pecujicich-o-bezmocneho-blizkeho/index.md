@@ -1,7 +1,7 @@
 ---
 title: "První krok ke zlepšení důchodů osob dlouhodobě pečujících o bezmocného blízkého"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2007/prvni-krok-ke-zlepseni-duchodu-osob-dlouhodobe-pecujicich-o-bezmocneho-blizkeho"
 date: 2007-05-09
 perex: "<p></p>"

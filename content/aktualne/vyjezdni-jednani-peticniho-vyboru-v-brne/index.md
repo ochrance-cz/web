@@ -1,7 +1,7 @@
 ---
 title: "Výjezdní jednání petičního výboru v Brně"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2018/vyjezdni-jednani-peticniho-vyboru-v-brne"
 date: 2018-04-04
 perex: "<p>Dnes proběhlo v sídle ombudsmana jednání petičního výboru Poslanecké sněmovny Parlamentu ČR. Smyslem jednání bylo seznámení členů petičního výboru s činností ombudsmana a diskuze nad možnostmi vzájemné spolupráce.</p>"

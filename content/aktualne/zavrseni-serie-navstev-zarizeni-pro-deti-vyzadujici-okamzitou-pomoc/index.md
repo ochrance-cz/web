@@ -1,7 +1,7 @@
 ---
 title: "Završení série návštěv zařízení pro děti vyžadující okamžitou pomoc"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2016/zavrseni-serie-navstev-zarizeni-pro-deti-vyzadujici-okamzitou-pomoc/"
 date: 2016-12-08
 perex: "<p></p>"

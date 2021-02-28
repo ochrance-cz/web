@@ -1,7 +1,7 @@
 ---
 title: "Seriál ČT „Ochránce“ – 3. díl – Exekuce"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2011/serial-ct-ochrance-3-dil-exekuce"
 date: 2011-09-16
 perex: "<p></p><p>Třetí díl seriálu Ochránce věnovaný tentokrát problémům souvisejícím s exekucemi vysílá ČT2 v úterý 20. 9. v 17:20 hod. Reprízu dílu uvidíte na ČT2 ve středu v 9:35 hod.</p>"

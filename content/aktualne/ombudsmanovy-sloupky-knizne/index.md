@@ -1,7 +1,7 @@
 ---
 title: "Ombudsmanovy sloupky knižně"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2012/ombudsmanovy-sloupky-knizne"
 date: 2012-05-28
 perex: "<p></p>"

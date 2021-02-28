@@ -1,7 +1,7 @@
 ---
 title: "Pomohli jsme pěstounce získat odškodnění za pochybení úřadu"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2017/pomohli-jsme-pestounce-ziskat-odskodneni-za-pochybeni-uradu"
 date: 2017-07-18
 perex: "<p>Babička se stala pěstounkou svého vnuka. Aby péči o něj zvládla, odešla do předčasného starobního důchodu. Na základě doporučení Orgánu sociálně-právní ochrany dětí si k důchodu požádala o dávku pěstounské péče – odměnu pěstouna, kterou ji přiznal úřad práce. Ani jeden z úřadů ji bohužel neupozornil na skutečnost, že nemůže pobírat současně předčasný důchod a odměnu pěstouna. Oba úřady tím pochybily. Babička musela po necelém roce a půl začít splácet 150 000, protože předčasný důchod pobírala neoprávněně. Našla si brigádu, aby zvládla splácet 4000 měsíčně a současně se nadále starat o vnuka. Pomohli jsme jí získat odškodnění 35 500 korun.</p>"

@@ -1,6 +1,7 @@
 ---
 title: Výroční zpráva 2019
-vystupy: vyrocni-zprava
+vystupy:
+  - vyrocni-zprava
 ---
 
 fsdf

@@ -1,7 +1,7 @@
 ---
 title: "Ochránkyně jednala s generálním ředitelem Vězeňské služby ČR"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2014/ochrankyne-jednala-s-generalnim-reditelem-vezenske-sluzby-cr/"
 date: 2014-11-11
 perex: "<p></p>"

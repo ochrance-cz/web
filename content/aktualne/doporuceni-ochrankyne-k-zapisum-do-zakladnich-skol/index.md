@@ -1,7 +1,7 @@
 ---
 title: "Doporučení ochránkyně k zápisům do základních škol"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2016/doporuceni-ochrankyne-k-zapisum-do-zakladnich-skol"
 date: 2016-01-14
 perex: "<p>Zápis do základní školy není pouze významným dnem v životě každého dítěte, ale přináší sebou také možné komplikace jak pro rodiče, tak pro ředitelky a ředitele základních škol. Ve všech situacích je však nutné jednat v souladu se školským zákonem. Veřejná ochránkyně práv vydala soubor doporučení, která v nejasných situacích pomohou rodičům i ředitelům příslušných škol. </p>"

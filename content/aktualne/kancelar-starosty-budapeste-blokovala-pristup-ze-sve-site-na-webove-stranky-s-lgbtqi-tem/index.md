@@ -1,7 +1,7 @@
 ---
 title: "Kancelář starosty Budapeště blokovala přístup ze své sítě na webové stránky s LGBTQI tématikou"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2019/kancelar-starosty-budapeste-blokovala-pristup-ze-sve-site-na-webove-stranky-s-lgbtqi-tem/"
 date: 2019-09-02
 perex: "<p>Podle maďarského ombudsmana tento krok poškodil nejen dotčené neziskové organizace, ale rovněž celou LGBTQI komunitu.</p>"

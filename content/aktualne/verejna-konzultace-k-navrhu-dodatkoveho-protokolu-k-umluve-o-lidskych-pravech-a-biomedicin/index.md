@@ -1,7 +1,7 @@
 ---
 title: "Veřejná konzultace k návrhu Dodatkového protokolu k Úmluvě o lidských právech a biomedicíně"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2015/verejna-konzultace-k-navrhu-dodatkoveho-protokolu-k-umluve-o-lidskych-pravech-a-biomedicin/"
 date: 2015-08-06
 perex: "<p>Výbor pro bioetiku (DH-BIO) Rady Evropy v současné době připravuje Dodatkový protokol k Úmluvě o lidských právech a biomedicíně (Oviedská úmluva, vyhlášena pod č. 96/2001 Sb. m. s.), který se bude věnovat problematice ochrany lidských práv a důstojnosti osob s duševní poruchou s ohledem na nedobrovolnou hospitalizaci a nedobrovolnou léčbu. </p>"

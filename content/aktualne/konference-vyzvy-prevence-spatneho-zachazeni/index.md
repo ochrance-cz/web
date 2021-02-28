@@ -1,7 +1,7 @@
 ---
 title: "Konference Výzvy prevence špatného zacházení"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2015/konference-vyzvy-prevence-spatneho-zachazeni/"
 date: 2015-11-16
 perex: "<p>Veřejná ochránkyně práv pořádá společně s Právnickou fakultou Univerzity Palackého v Olomouci odbornou konferenci Výzvy prevence špatného zacházení. Koná se 30. listopadu v Rotundě Právnické fakulty UP v Olomouci.</p>"

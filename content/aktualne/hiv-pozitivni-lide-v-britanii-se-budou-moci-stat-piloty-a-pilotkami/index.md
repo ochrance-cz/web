@@ -1,7 +1,7 @@
 ---
 title: "HIV pozitivní lidé v Británii se budou moci stát piloty a pilotkami"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2018/hiv-pozitivni-lide-v-britanii-se-budou-moci-stat-piloty-a-pilotkami/"
 date: 2018-03-21
 perex: "<p>Britský Úřad pro civilní letectví se chystá změnit pravidla, která HIV pozitivním lidem omezují pilotování na komerčních linkách.</p>"

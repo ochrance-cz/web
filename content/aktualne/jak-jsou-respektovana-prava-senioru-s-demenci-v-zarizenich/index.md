@@ -1,7 +1,7 @@
 ---
 title: "Jak jsou respektována práva seniorů s demencí v zařízeních"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2014/jak-jsou-respektovana-prava-senioru-s-demenci-v-zarizenich"
 date: 2014-02-20
 perex: "<p>Péče o narůstající počet starých lidí trpících demencí je velkou výzvou pro celou společnost. Špatné zacházení se seniory v zařízeních však není nijak zřídkavé. V Brně se proto sešli odborníci nejrůznějších profesí, které se nějakým způsobem dotýkají péče o seniory, aby diskutovali o některých klíčových problémech.</p>"

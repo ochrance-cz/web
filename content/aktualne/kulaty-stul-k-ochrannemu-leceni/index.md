@@ -1,7 +1,7 @@
 ---
 title: "Kulatý stůl k ochrannému léčení"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2017/kulaty-stul-k-ochrannemu-leceni/"
 date: 2017-12-07
 perex: "<p>Setkání s experty pro provádění návštěv a s představiteli navštívených zařízení završuje události NPM roku 2017 zaměřené na prevenci špatného zacházení v oblasti ochranného léčení.</p>"

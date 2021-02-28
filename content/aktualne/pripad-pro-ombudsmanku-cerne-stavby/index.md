@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmanku: Černé stavby"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/pripad-pro-ombudsmanku-cerne-stavby"
 date: 2019-06-28
 perex: "<p>V neděli 30. 6. v 11:00 h vysílá ČT2  premiéru posledního, dvanáctého dílu pořadu Případ pro ombudsmanku. Tématem jsou černé stavby, tedy potíže s neukázněnými stavebníky, kteří staví bez povolení.</p>"

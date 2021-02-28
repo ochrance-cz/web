@@ -1,7 +1,7 @@
 ---
 title: "Ombudsmanka žádá ministry o řešení dlouhodobých problémů"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2018/ombudsmanka-zada-ministry-o-reseni-dlouhodobych-problemu"
 date: 2018-09-05
 perex: "<p>Ombudsmanka informovala ministry nové vlády o problémech, s nimiž se v jejich resortech dlouhodobě nebo často setkává. Jde o záležitosti, které mnohdy velmi negativně zasahují do životů lidí, v některých případech se navíc týkají zvlášť ohrožených skupin. Většina problémů má systémový charakter a jejich řešení si vyžádá delší dobu (např. přijetí komplexní novely právního předpisu) a aktivní přístup ministerstva. Politická situace (loňské podzimní volby do Poslanecké sněmovny, vláda bez důvěry) dosud neumožňovala tato témata s ministerstvy projednat.</p>"

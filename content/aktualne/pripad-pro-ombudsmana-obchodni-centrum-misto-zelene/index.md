@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Obchodní centrum místo zeleně?"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-iv/pripad-pro-ombudsmana-obchodni-centrum-misto-zelene/"
 date: 2008-10-30
 perex: "<p></p>"

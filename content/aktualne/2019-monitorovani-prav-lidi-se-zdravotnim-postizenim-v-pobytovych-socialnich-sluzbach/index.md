@@ -1,7 +1,7 @@
 ---
 title: "2019: monitorování práv lidí se zdravotním postižením v pobytových sociálních službách"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2019/2019-monitorovani-prav-lidi-se-zdravotnim-postizenim-v-pobytovych-socialnich-sluzbach/"
 date: 2019-01-24
 perex: "<p>Jedním z témat, kterým se chce ombudsmanka v roce 2019 věnovat, jsou práva lidí se zdravotním postižením dlouhodobě žijících v domovech pro osoby se zdravotním postižením.</p>"

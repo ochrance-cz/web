@@ -1,7 +1,7 @@
 ---
 title: "Účast na 4. Mezinárodním kolaborativním a dialogickém sympoziu"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2018/ucast-na-4-mezinarodnim-kolaborativnim-a-dialogickem-sympoziu/"
 date: 2018-05-18
 perex: "<p></p>"

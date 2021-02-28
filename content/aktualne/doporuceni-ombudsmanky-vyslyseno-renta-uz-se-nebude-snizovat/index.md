@@ -1,7 +1,7 @@
 ---
 title: "Doporučení ombudsmanky vyslyšeno – renta už se nebude snižovat"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2018/doporuceni-ombudsmanky-vyslyseno-renta-uz-se-nebude-snizovat"
 date: 2018-09-26
 perex: "<p>Renta je odškodnění, které má zaměstnanci kompenzovat  ztrátu na výdělku po pracovním úrazu nebo nemoci z povolání v důsledku snížení pracovních schopností. Od 1. října se už  nebude poškozeným zaměstnancům  renta snižovat v důsledku zvyšování  minimální mzdy. Novela zákoníku práce odstraňuje  ve prospěch zaměstnanců dosavadní rozdíly v přístupu odškodňujících pojišťoven ke  způsobu stanovení výše renty, které ombudsmanka dlouhodobě kritizovala. Řada lidí, kteří utrpěli pracovní úraz nebo onemocněli nemocí z povolání, se tak po mnoha letech dočká  přepočítání a zvýšení své renty.</p>"

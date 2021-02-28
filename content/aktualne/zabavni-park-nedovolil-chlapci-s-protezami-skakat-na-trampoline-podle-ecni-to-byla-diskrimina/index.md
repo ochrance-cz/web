@@ -1,7 +1,7 @@
 ---
 title: "Zábavní park nedovolil chlapci s protézami skákat na trampolíně, podle ECNI to byla diskriminace"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2020/zabavni-park-nedovolil-chlapci-s-protezami-skakat-na-trampoline-podle-ecni-to-byla-diskrimina/"
 date: 2020-02-20
 perex: "<p>Podle Komise pro rovné zacházení v Severním Irsku (ECNI) musí provozovatelé služeb zajistit přístup ke službám také pro osoby s postižením.</p>"

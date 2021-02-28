@@ -1,7 +1,7 @@
 ---
 title: "Standardy CPT nově v češtině: Záruky pro neregulérní migranty zbavené osobní svobody a Přístup k právnímu zástupci jako prostředek prevence špatného zacházení"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2016/standardy-cpt-nove-v-cestine-zaruky-pro-neregulerni-migranty-zbavene-osobni-svobody-a-pr/"
 date: 2016-11-29
 perex: "<p>Standardy Evropského výboru pro zabránění mučení a nelidskému nebo ponižujícímu zacházení nebo trestání (CPT) tvoří tematické výňatky z každoročních všeobecných zpráv. Kompletní sbírka je českému čtenáři dosud dostupná pouze v angličtině nebo francouzštině. V českém překladu přibyly další dvě části. </p>"

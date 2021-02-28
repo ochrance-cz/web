@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Příspěvek na péči pro hluchoněmého syna"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-vi/pripad-pro-ombudsmana-prispevek-na-peci-pro-hluchonemeho-syna-1/"
 date: 2010-11-29
 perex: "<p></p><p>V pátek 3. 12. vysílá Česká televize na ČT1 v 18:25 třináctý díl cyklu Případ pro ombudsmana (repríze v pondělí 6. 12. ve 12:25 na ČT2). Díl nazvaný příspěvek na péči pro hluchoněmého syna se zabývá postupem úřadů při posouzení zdravotního postižení. </p>"

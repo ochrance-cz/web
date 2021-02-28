@@ -1,7 +1,7 @@
 ---
 title: "Patnáctý díl Ochránce"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/ochrance-iii-2013/patnacty-dil-ochrance-1/"
 date: 2013-12-13
 perex: "<p>V neděli 15. prosince v 11:00 h začíná na ČT2 patnáctý díl pořadu Ochránce. Příběhy se tentokrát týkají ochrany osobních údajů, snahy občanů o záchranu domu v centru Prahy před demolicí a průtahů v dědickém řízení. Společné mají aktéři těchto případů jedno – nevzdávají se. Opakování tohoto dílu je na programu ČT2 ve středu 18. 12. ve 14:05 a další reprízy jsou pak v neděli a úterý vždy po půlnoci.</p>"

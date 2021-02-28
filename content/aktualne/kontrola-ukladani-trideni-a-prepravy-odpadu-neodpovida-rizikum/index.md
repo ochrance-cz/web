@@ -1,7 +1,7 @@
 ---
 title: "Kontrola ukládání, třídění a přepravy odpadu neodpovídá rizikům"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2009/kontrola-ukladani-trideni-a-prepravy-odpadu-neodpovida-rizikum"
 date: 2009-07-14
 perex: "<p></p><p>Nakládání s většinou odpadů, zejména nebezpečných, je podřízeno opačnému principu trhu, než je tomu u oběhu výrobků. Vlastník nebo původce odpadu při jeho prodeji – předání k dalšímu využití či likvidaci – nemá zisk, ale naopak musí zaplatit nemalou finanční částku. Je pak příznačnou snahou některých vlastníků se odpadu zbavit nelegálně. Pokud proto není odpad od svého vzniku po celou dobu evidován a sledován, dochází ke vzniku nelegálních skladů nebo skládek, u nichž se mj. nedbá na bezpečnostní předpisy. Důsledkem takové činnosti pak mohou být mj. i případy zahoření velkokapacitních nelegálních skladů odpadů.</p>"

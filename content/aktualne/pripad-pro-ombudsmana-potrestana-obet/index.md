@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Potrestaná oběť"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-iv/pripad-pro-ombudsmana-potrestana-obet/"
 date: 2008-11-18
 perex: "<p></p>"

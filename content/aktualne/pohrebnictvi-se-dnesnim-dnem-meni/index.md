@@ -1,7 +1,7 @@
 ---
 title: "Pohřebnictví se dnešním dnem mění"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2017/pohrebnictvi-se-dnesnim-dnem-meni"
 date: 2017-09-01
 perex: "<p>Ode dneška platí některé významné změny v pohřebnictví. Po šestnácti letech se zásadněji mění zákon o pohřebnictví, aby lépe odpovídal změnám, jimiž společnost prošla.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Ochrana práv dětí v českém soudnictví"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2016/ochrana-prav-deti-v-ceskem-soudnictvi"
 date: 2016-10-20
 perex: "<p>Konflikty rodičů, rozchody i rozvody, jsou běžnou součástí našeho života. Můžeme jistě chtít, nebo si upřímně přát, aby tomu tak nebylo. Tím ale realitu nezměníme. Co změnit můžeme a změnit dokonce musíme, jsou dopady těchto konfliktů na děti. Musíme neustále hledat odpověď na otázku, jaký je nejlepší zájem daného konkrétního dítěte. Odpověď na tuto otázku hledal také seminář pořádaný na půdě Senátu s názvem Budoucnost rodinněprávního soudnictví aneb justice vstřícná k dětem. </p>"

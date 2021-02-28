@@ -1,7 +1,7 @@
 ---
 title: "Poznatky z činnosti veřejného ochránce práv – zpráva o plnění úmluvy Mezinárodní organizace práce č. 111 o diskriminaci v zaměstnání a povolání z roku 1958"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2012/poznatky-z-cinnosti-verejneho-ochrance-prav-zprava-o-plneni-umluvy-mezinarodni-organi/"
 date: 2012-08-08
 perex: "<p>Veřejný ochránce práv zaslal Ministerstvu práce a sociálních věcí ČR zprávu o svých zkušenostech při řešení případů diskriminace v oblasti zaměstnání a povolání.</p>"

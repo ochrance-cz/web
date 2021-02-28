@@ -1,7 +1,7 @@
 ---
 title: "Zápisy do mateřských škol: přehled doporučení pro rodiče a ředitelky a ředitele školek"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2018/zapisy-do-materskych-skol-prehled-doporuceni-pro-rodice-a-reditelky-a-reditele-skolek"
 date: 2018-04-20
 perex: "<p>Rodiče dětí stejně jako ředitelky a ředitelé mateřských škol si často nejsou jistí, jaké jsou práva a povinnosti jednotlivých stran. Přinášíme proto jejich přehled, který pomůže rodičům s nástupem jejich potomka do předškolního vzdělávání. Ředitelkám a ředitelům škol zase ujasní, jak stanovit kritéria výběru dětí tak, aby neporušovali zákon a zajistili všem dětem rovný přístup ke vzdělání. </p>"

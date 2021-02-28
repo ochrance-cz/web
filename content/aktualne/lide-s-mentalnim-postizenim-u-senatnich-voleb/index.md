@@ -1,7 +1,7 @@
 ---
 title: "Lidé s mentálním postižením u senátních voleb"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2018/lide-s-mentalnim-postizenim-u-senatnich-voleb"
 date: 2018-10-12
 perex: "<p>Velká část lidí s mentálním postižením není nijak omezena na právu volit své zástupce do orgánů veřejné správy. Mnoho jich přišlo volit do zastupitelstev obcí a chystají se také dnes nebo zítra odevzdat svůj hlas ve druhém kole senátních voleb. Společnost pro podporu lidí s mentálním postižením (SPMP ČR) proto společně s Ministerstvem vnitra České republiky připravila leták, který voliče názorně provede celým procesem volby.</p>"

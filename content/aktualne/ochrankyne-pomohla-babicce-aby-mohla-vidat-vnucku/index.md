@@ -1,7 +1,7 @@
 ---
 title: "Ochránkyně pomohla babičce, aby mohla vídat vnučku"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2016/ochrankyne-pomohla-babicce-aby-mohla-vidat-vnucku"
 date: 2016-02-17
 perex: "<p>Babička z Brna chtěla vídat svou malou vnučku, ale bývalá snacha tomu bránila. Když nepomohli sociální pracovníci, obrátila se o radu na ombudsmanku. Díky tomu se situace mění k lepšímu a babička se s vnučkou bude vídat.</p>"

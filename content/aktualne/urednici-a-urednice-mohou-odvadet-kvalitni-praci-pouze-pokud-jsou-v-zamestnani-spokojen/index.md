@@ -1,7 +1,7 @@
 ---
 title: "Úředníci a úřednice mohou odvádět kvalitní práci, pouze pokud jsou v zaměstnání spokojení"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2018/urednici-a-urednice-mohou-odvadet-kvalitni-praci-pouze-pokud-jsou-v-zamestnani-spokojen"
 date: 2018-10-04
 perex: "<p>Ombudsmanka vydala doporučení služebním úřadům. Pokud jej úřady vyslyší, zajistí zaměstnancům a zaměstnankyním lepší podmínky pro slaďování osobního a pracovního života.</p>"

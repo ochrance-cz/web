@@ -1,7 +1,7 @@
 ---
 title: "Činnost ochránce v agendě dohledu nad omezováním osobní svobody v 1. čtvrtletí 2011"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2011/cinnost-ochrance-v-agende-dohledu-nad-omezovanim-osobni-svobody-v-1-ctvrtleti-2011/"
 date: 2011-05-18
 perex: "<p></p><p><strong>V průběhu prvních čtyř měsíců roku 2011 ochránce zjišťoval realizaci některých opatření k nápravě v dříve navštívených zařízeních omezujících osobní svobodu. Znovu proto provedl návštěvy v psychiatrické léčebně, léčebně dlouhodobě nemocných, pokračoval v návštěvách policejních cel a zaměřil se rovněž na dosud nerealizovaná opatření v zařízeních pro cizince.</strong></p>"

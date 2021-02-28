@@ -1,7 +1,7 @@
 ---
 title: "Fungující systém památkové péče by mohl zabránit případům, jako je Ostravica či havířovské nádraží"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2014/fungujici-system-pamatkove-pece-by-mohl-zabranit-pripadum-jako-je-ostravica-ci-haviro"
 date: 2014-08-05
 perex: "<p>Co nejrychlejší přijetí nového památkového zákona, který by nahradil nevyhovující právní úpravu z roku 1987, je nezbytným krokem k zajištění správně fungujícího systému státní památkové péče. Zástupce veřejné ochránkyně práv Stanislav Křeček proto vítá, že ministerstvo kultury na novém zákoně intenzivně pracuje, a v rámci jednání poradního sboru uplatnil své poznatky získané z šetření konkrétních případů.</p>"

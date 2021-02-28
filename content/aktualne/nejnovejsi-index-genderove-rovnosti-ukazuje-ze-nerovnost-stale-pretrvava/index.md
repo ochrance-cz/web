@@ -1,7 +1,7 @@
 ---
 title: "Nejnovější index genderové rovnosti ukazuje, že nerovnost stále přetrvává"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2017/nejnovejsi-index-genderove-rovnosti-ukazuje-ze-nerovnost-stale-pretrvava/"
 date: 2017-11-29
 perex: "<p>Aktuální Gender Equality Index 2017 ukazuje pokrok, avšak změny postupují velmi pomalu.</p>"

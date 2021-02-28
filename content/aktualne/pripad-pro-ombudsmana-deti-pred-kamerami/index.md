@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Děti před kamerami"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-iii/pripad-pro-ombudsmana-deti-pred-kamerami/"
 date: 2008-03-11
 perex: "<p></p>"

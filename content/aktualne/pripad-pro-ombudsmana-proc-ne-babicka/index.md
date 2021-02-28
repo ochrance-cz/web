@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Proč ne babička?"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-iii/pripad-pro-ombudsmana-proc-ne-babicka/"
 date: 2008-09-17
 perex: "<p></p>"

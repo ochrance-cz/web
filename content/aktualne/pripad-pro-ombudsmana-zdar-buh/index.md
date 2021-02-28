@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Zdař Bůh!"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-v/pripad-pro-ombudsmana-zdar-buh/"
 date: 2009-10-15
 perex: "<p></p>"

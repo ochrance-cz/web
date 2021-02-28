@@ -1,7 +1,7 @@
 ---
 title: "Kulatý stůl na téma péče o osoby s demencí v pobytových zařízeních sociálních služeb"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2014/kulaty-stul-na-tema-pece-o-osoby-s-demenci-v-pobytovych-zarizenich-socialnich-sluzeb/"
 date: 2014-04-11
 perex: "<p>Dne 28. 3. 2014 se v sídle veřejného ochránce práv uskutečnil kulatý stůl na téma „Doporučení ke zvýšení standardu péče o seniory v pobytových zařízeních sociálních služeb“.</p>"

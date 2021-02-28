@@ -1,7 +1,7 @@
 ---
 title: "Sociální detence na stole"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2014/socialni-detence-na-stole/"
 date: 2014-09-04
 perex: "<p>Ministerstvo práce a sociálních věcí zahájilo práce na legislativním textu, kterým mají být do českého práva doplněny citelně chybějící zákonné podmínky pro omezení osobní svobody v prostředí sociálních služeb.</p>"

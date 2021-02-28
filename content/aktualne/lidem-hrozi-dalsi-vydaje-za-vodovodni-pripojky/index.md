@@ -1,7 +1,7 @@
 ---
 title: "Lidem hrozí další výdaje za vodovodní přípojky"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2013/lidem-hrozi-dalsi-vydaje-za-vodovodni-pripojky"
 date: 2013-04-03
 perex: "<p>Kromě rostoucí ceny za vodné a stočné by měli vlastníci vodovodních a kanalizačních přípojek hradit i náklady za jejich údržbu a opravu v části pod veřejným prostranstvím (chodníky, silnice). Navrhuje to projednávaná novela zákona o vodovodech a kanalizacích. Náklady, které mohou dosáhnout až desítky tisíc korun, až dosud hradí provozovatel veřejné sítě.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "S přispěním dvou ombudsmanů rodina získala dávky na děti"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2018/s-prispenim-dvou-ombudsmanu-rodina-ziskala-davky-na-deti"
 date: 2018-11-14
 perex: "<p>Spolupráce ombudsmanky Anny Šabatové s rakouským ombudsmanem přispěla k vyřešení dlouhodobých problémů české rodiny s žádostí o dávky na děti od rakouského státu.</p>"

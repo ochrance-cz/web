@@ -1,7 +1,7 @@
 ---
 title: "Výzva k „prankům“ na učitele porušila zákon"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2016/vyzva-k-prankum-na-ucitele-porusila-zakon"
 date: 2016-11-11
 perex: "<p>Po výzvě ochránkyně se Rada pro rozhlasové a televizní vysílání zabývala rádiem odvysílanou soutěžní výzvou žákům a studentům k natáčení tzv. pranků – videí zachycujících učitele v nečekaných nepříjemných situacích, které žáci zinscenují. Podle ochránkyně musí provozovatelé rádií přistupovat k vyjádřením směřujícím k dětem a mladistvým odpovědně a obezřetně s vědomím jejich snazší ovlivnitelnosti.</p>"

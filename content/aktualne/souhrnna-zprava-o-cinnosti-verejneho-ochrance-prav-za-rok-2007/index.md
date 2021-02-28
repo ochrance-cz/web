@@ -1,7 +1,7 @@
 ---
 title: "Souhrnná zpráva o činnosti veřejného ochránce práv za rok 2007"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2008/souhrnna-zprava-o-cinnosti-verejneho-ochrance-prav-za-rok-2007"
 date: 2008-04-09
 perex: "<p></p>"

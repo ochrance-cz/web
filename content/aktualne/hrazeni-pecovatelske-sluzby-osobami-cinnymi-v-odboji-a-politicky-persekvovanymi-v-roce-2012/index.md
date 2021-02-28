@@ -1,7 +1,7 @@
 ---
 title: "Hrazení pečovatelské služby osobami činnými v odboji a politicky persekvovanými v roce 2012"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2011/hrazeni-pecovatelske-sluzby-osobami-cinnymi-v-odboji-a-politicky-persekvovanymi-v-roce-2012/"
 date: 2011-12-27
 perex: "<p></p>"

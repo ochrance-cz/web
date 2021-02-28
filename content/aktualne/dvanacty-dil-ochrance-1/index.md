@@ -1,7 +1,7 @@
 ---
 title: "Dvanáctý díl Ochránce"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2013/dvanacty-dil-ochrance-1"
 date: 2013-11-22
 perex: "<p>V neděli 24. listopadu v 11:15 h začíná na ČT2 dvanáctý díl pořadu Ochránce. Všechny tři zařazené příběhy spojuje hlavně dlouhá doba, po kterou se jejich protagonisté snažili domáhat rozhodnutí úřadů. Ty totiž ne vždy rozhodují v době přiměřené složitosti problémů, kterým byli v těchto případech nadměrný hluk z předzahrádky sportbaru, honitba, o kterou se myslivci nesmí starat, a sporné rozúčtování nákladů na teplo v bytovém domě. Opakování tohoto dílu je na programu ČT2 ve středu 27. 11. ve 12:50 a další reprízy jsou pak zařazeny do vysílání ČT2 v neděli a úterý vždy po půlnoci.</p>"

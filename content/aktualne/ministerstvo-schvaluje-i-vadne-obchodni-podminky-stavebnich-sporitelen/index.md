@@ -1,7 +1,7 @@
 ---
 title: "Ministerstvo schvaluje i „vadné“ obchodní podmínky stavebních spořitelen"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2015/ministerstvo-schvaluje-i-vadne-obchodni-podminky-stavebnich-sporitelen"
 date: 2015-04-08
 perex: "<p>Ministerstvo financí při schvalování všeobecných obchodních podmínek stavebních spořitelen nedostatečně kontroluje, zda jsou v souladu s právním řádem jako celkem, nejen se zákonem o stavebním spoření. Ačkoli je ministerstvo gestorem ochrany spotřebitele na finančním trhu, umožňuje svým jednáním, aby byla práva klientů poškozována.</p>"

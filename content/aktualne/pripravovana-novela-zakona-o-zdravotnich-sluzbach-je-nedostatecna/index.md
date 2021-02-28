@@ -1,7 +1,7 @@
 ---
 title: "Připravovaná novela zákona o zdravotních službách je nedostatečná"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/pripravovana-novela-zakona-o-zdravotnich-sluzbach-je-nedostatecna"
 date: 2020-09-22
 perex: "<p>Ministerstvu zdravotnictví jsme odeslali rozsáhlé připomínky k připravované novele zákona o zdravotních službách a podmínkách jejich poskytování. Některé z připomínek inicioval také nově zvolený poradní orgán ombudsmana, který pomáhá s monitorováním naplňování Úmluvy o právech osob se zdravotním postižením. Připravovaná novela má bohužel nejen v této oblasti řadu nedostatků, o jejichž nápravu usilujeme. Některé body novely na druhou stranu oceňujeme, např. návrh, podle kterého budou mít poskytovatelé sociálních služeb poskytující také zdravotní služby povinnost mít oprávnění k poskytování zdravotních služeb podle zákona o zdravotních službách.</p>"

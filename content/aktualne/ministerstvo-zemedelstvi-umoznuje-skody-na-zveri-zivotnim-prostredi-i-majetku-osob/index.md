@@ -1,7 +1,7 @@
 ---
 title: "Ministerstvo zemědělství umožňuje škody na zvěři, životním prostředí i majetku osob"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2012/ministerstvo-zemedelstvi-umoznuje-skody-na-zveri-zivotnim-prostredi-i-majetku-osob"
 date: 2012-11-28
 perex: "<p>Ministerstvo dlouhodobě trvá na tom, že pokud je právní osud honitby nejistý, nelze v ní myslivost vykonávat, ačkoli materiálně jde stále o krajiny, v níž volně žije a množí se zvěř, která v důsledku přemnožení způsobuje vážné škody na lesních a zemědělských pozemcích. Popíráno je tak základní poslání myslivosti jako specifického druhu péče o životní prostředí.</p>"

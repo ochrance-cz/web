@@ -1,7 +1,7 @@
 ---
 title: "Požadavek doplňujícího důkazu totožnosti u osob narozených mimo EU není diskriminací na základě etnického původu, rozhodl soud"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2017/pozadavek-doplnujiciho-dukazu-totoznosti-u-osob-narozenych-mimo-eu-neni-diskriminaci-na-za/"
 date: 2017-08-17
 perex: "<p>Soudní dvůr EU rozhodl, že etnický původ se nedá obecně předpokládat na základě určení země narození.</p>"

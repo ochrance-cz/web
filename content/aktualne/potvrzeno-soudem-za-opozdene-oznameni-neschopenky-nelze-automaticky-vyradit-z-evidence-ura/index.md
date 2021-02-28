@@ -1,7 +1,7 @@
 ---
 title: "Potvrzeno soudem:  za opožděné oznámení neschopenky nelze automaticky vyřadit z evidence úřadu práce"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/potvrzeno-soudem-za-opozdene-oznameni-neschopenky-nelze-automaticky-vyradit-z-evidence-ura"
 date: 2020-09-25
 perex: "<p>Nejvyšší správní soud potvrdil názor zástupkyně ombudsmana Moniky Šimůnkové, že v případě stěžovatele nemohlo být opožděné oznámení dočasné neschopnosti důvodem jeho automatického vyřazení z evidence úřadu práce. Stěžovatel, jehož případem se zástupkyně ombudsmana zabývala, se díky tomu vrací do evidence uchazečů o zaměstnání, a nebude mít dluh na zdravotním pojištění.</p>"

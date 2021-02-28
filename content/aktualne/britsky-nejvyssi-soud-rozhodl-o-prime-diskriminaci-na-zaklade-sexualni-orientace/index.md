@@ -1,7 +1,7 @@
 ---
 title: "Britský Nejvyšší soud rozhodl o přímé diskriminaci na základě sexuální orientace"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2014/britsky-nejvyssi-soud-rozhodl-o-prime-diskriminaci-na-zaklade-sexualni-orientace/"
 date: 2014-04-08
 perex: "<p>Nejvyšší soud Spojeného království Velké Británie a Severního Irska považuje odmítnutí ubytování registrovaných partnerů v hotelu za přímou diskriminaci na základě sexuální orientace.</p>"

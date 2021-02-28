@@ -1,7 +1,7 @@
 ---
 title: "Právo na město mají všichni bez ohledu na věk"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2016/pravo-na-mesto-maji-vsichni-bez-ohledu-na-vek/"
 date: 2016-09-19
 perex: "<p>AGE Platform Europe vydala publikaci Applying the Right to the City to older persons: Seizing the opportunity of the EU Urban Agenda.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Čím by se měli noví ministři zabývat"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2014/cim-by-se-meli-novi-ministri-zabyvat"
 date: 2014-02-12
 perex: "<p>Zástupce ombudsmana poblahopřál novým ministrům ke jmenování do funkce a současně každého z nich upozornil na některé problémy, jejichž řešení považuje za naléhavé.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Současný důchodový systém povede ke zvýšení počtu seniorů bez nároku na důchod"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/soucasny-duchodovy-system-povede-ke-zvyseni-poctu-senioru-bez-naroku-na-duchod"
 date: 2020-10-07
 perex: "<p>Současné nastavení důchodového systému povede k nárůstu počtu seniorů, kterým nevznikne nárok na starobní důchod. Po roce 2010 totiž došlo ke zpřísnění podmínek, které jsou v rámci  zemí EU mimořádné a minimální doba pojištění pro získání starobního důchodu se postupně prodloužila až na 35 let. K tomu se ještě nezapočítávají nebo krátí některé náhradní doby pojištění získané po roce 2009, včetně např. studia. Ombudsman proto apeluje na vládu a politickou reprezentaci, aby se tímto zásadním problémem zabývaly, ať už v rámci komplexní důchodové reformy, nebo dílčími změnami právní úpravy.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Pozor: Prodej auta nekončí předáním klíčů"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2017/pozor-prodej-auta-nekonci-predanim-klicu"
 date: 2017-11-28
 perex: "<p>Už několik let se ombudsmanka opakovaně setkává s případy lidí, kteří prodali auto a neohlídali si, jestli došlo i k jeho přepisu na nového vlastníka v registru vozidel. Administrativně tak zůstávají vlastníky s povinností platit povinné ručení nebo pokuty za přestupky způsobené kupujícím.</p>"

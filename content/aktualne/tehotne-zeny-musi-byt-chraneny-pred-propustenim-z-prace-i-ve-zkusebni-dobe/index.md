@@ -1,7 +1,7 @@
 ---
 title: "Těhotné ženy musí být chráněny před propuštěním z práce i ve zkušební době"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/tehotne-zeny-musi-byt-chraneny-pred-propustenim-z-prace-i-ve-zkusebni-dobe"
 date: 2019-01-30
 perex: "<p>Žena otěhotněla ve zkušební době a oznámila tuto skutečnost svému zaměstnavateli. Ten jí propustil bez uvedení důvodu s odkazem na skutečnost, že na to má ve zkušební době právo. Žena přitom pro daného zaměstnavatele pracovala v předchozích letech, aniž by měl k její práci jakékoli výhrady. Zákoník práce takový postup skutečně umožňuje. Dostává se tím však do kolize se směrnicí Evropské unie, která požaduje po členských státech přijmout nezbytná opatření zakazující výpověď zaměstnankyním mimo jiné v době těhotenství. Současně se i na zkušební dobu vztahuje antidiskriminační zákon.</p>"

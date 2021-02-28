@@ -1,7 +1,7 @@
 ---
 title: "Nespravedlivé rozhodování o příspěvku na motorové vozidlo pro lidi s postižením"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/nespravedlive-rozhodovani-o-prispevku-na-motorove-vozidlo-pro-lidi-s-postizenim"
 date: 2019-02-28
 perex: "<p>Ombudsmanka se opakovaně setkává s případy, kdy lidem se zjevnými těžkými poruchami pohyblivosti není přiznán příspěvek na pořízení motorového vozidla s odůvodněním, že jejich pohybové potíže jsou projevem jiného onemocnění, nikoli přímou vadou pohybového ústrojí. Takový výklad považuje ombudsmanka za příliš restriktivní. Chce jednat s MPSV o změně náhledu na smysl a účel příspěvku na motorové vozidlo.</p>"

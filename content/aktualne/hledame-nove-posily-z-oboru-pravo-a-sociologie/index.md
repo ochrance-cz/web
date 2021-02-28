@@ -1,7 +1,7 @@
 ---
 title: "Hledáme nové posily z oborů právo a sociologie"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2017/hledame-nove-posily-z-oboru-pravo-a-sociologie"
 date: 2017-09-06
 perex: "<p>V Kanceláři veřejného ochránce práv usilujeme dlouhodobě o dobrou veřejnou správu a společnost bez předsudků. Snažíme se také předcházet špatnému zacházení s lidmi, kteří žijí v institucích. Od ledna 2018 budeme také systémově chránit práva osob s postižením. </p>"

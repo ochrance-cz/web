@@ -1,7 +1,7 @@
 ---
 title: "Konference Sociální reforma v praxi"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2012/konference-socialni-reforma-v-praxi"
 date: 2012-04-26
 perex: "<p></p><p>3. května 2012 pořádá ochránce odbornou konferenci s výměnou zkušeností vyplývajících z praktických důsledků nové právní úpravy nepojistných sociálních dávek a aktivní politiky zaměstnanosti </p>"

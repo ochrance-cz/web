@@ -1,7 +1,7 @@
 ---
 title: "Rovnost a zákaz diskriminace v činnosti veřejného ochránce práv"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2013/rovnost-a-zakaz-diskriminace-v-cinnosti-verejneho-ochrance-prav"
 date: 2013-02-19
 perex: "<p>Dosud největší setkání odborníků na diskriminaci v České republice se uskuteční ve středu 20. února v Kanceláři veřejného ochránce práv.</p>"

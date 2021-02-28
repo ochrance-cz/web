@@ -1,7 +1,7 @@
 ---
 title: "Kulatý stůl s řediteli navštívených diagnostických ústavů"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2012/kulaty-stul-s-rediteli-navstivenych-diagnostickych-ustavu/"
 date: 2012-10-17
 perex: "<p></p>"

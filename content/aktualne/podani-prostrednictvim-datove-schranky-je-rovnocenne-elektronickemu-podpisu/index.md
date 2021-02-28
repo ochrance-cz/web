@@ -1,7 +1,7 @@
 ---
 title: "Podání prostřednictvím datové schránky je rovnocenné elektronickému podpisu"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2016/podani-prostrednictvim-datove-schranky-je-rovnocenne-elektronickemu-podpisu"
 date: 2016-06-14
 perex: "<p>Zaslání plné moci datovou schránkou má stejnou platnost, jako kdyby šlo o dokument opatřený uznávaným elektronickým podpisem.</p>"

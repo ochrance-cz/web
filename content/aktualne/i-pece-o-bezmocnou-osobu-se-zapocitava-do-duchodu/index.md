@@ -1,7 +1,7 @@
 ---
 title: "I péče o bezmocnou osobu se započítává do důchodu"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2015/i-pece-o-bezmocnou-osobu-se-zapocitava-do-duchodu"
 date: 2015-08-21
 perex: "<p>Osobní péče o bezmocnou blízkou osobu se počítá jako doba účasti na důchodovém zabezpečení a zhodnotí se při výpočtu důchodu.  Žadatelé o důchod mohou přesto narazit na problémy. Jeden takový pomohla vyřešit současná ombudsmanka Anna Šabatová. </p>"

@@ -1,7 +1,7 @@
 ---
 title: "Odmítnutí uzavření nájemní smlouvy s těhotnou ženou je v Irsku diskriminační"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2015/odmitnuti-uzavreni-najemni-smlouvy-s-tehotnou-zenou-je-v-irsku-diskriminacni/"
 date: 2015-06-30
 perex: "<p>V Irsku se nedávno objevil případ, kdy realitní kancelář Vincent Finnegan Ltd odmítla uzavřít smlouvu o nájmu bytu s těhotnou ženou a jejím manželem. Poté, co si těhotná žena prohlédla byt v Dublinu a projevila o něj zájem, obdržela dotaz, kdo se v daném bytě bude zdržovat. Žena uvedla, že ona a její manžel a do tří měsíců také jejich očekávané dítě. Smlouva s ní nakonec nebyla uzavřena.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Evropská komise vybízí k vyplnění dotazníku týkajícího se lidí s postižením"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2019/evropska-komise-vybizi-k-vyplneni-dotazniku-tykajiciho-se-lidi-s-postizenim/"
 date: 2019-08-12
 perex: "<p></p>"

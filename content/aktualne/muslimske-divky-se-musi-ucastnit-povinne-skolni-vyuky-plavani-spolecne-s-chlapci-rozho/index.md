@@ -1,7 +1,7 @@
 ---
 title: "Muslimské dívky se musí účastnit povinné školní výuky plavání společně s chlapci, rozhodl soud"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2017/muslimske-divky-se-musi-ucastnit-povinne-skolni-vyuky-plavani-spolecne-s-chlapci-rozho/"
 date: 2017-03-01
 perex: "<p>Evropský soud pro lidská práva ve svém rozsudku z 10. ledna 2017 jednomyslně rozhodl, že švýcarské úřady neporušily právo na náboženskou svobodu, když odmítly udělit dvěma muslimským dívkám výjimku z povinných hodin plavání. Rodiče obou dívek požadovaly, aby se dívky nemusely plavání účastnit z důvodu přítomnosti chlapců. Společné hodiny plavání totiž podle nich odporují jejich náboženskému přesvědčení.</p>"

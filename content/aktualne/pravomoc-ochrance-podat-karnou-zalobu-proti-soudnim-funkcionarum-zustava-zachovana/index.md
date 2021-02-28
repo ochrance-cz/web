@@ -1,7 +1,7 @@
 ---
 title: "Pravomoc ochránce podat kárnou žalobu proti soudním funkcionářům zůstává zachována"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2011/pravomoc-ochrance-podat-karnou-zalobu-proti-soudnim-funkcionarum-zustava-zachovana"
 date: 2011-03-30
 perex: "<p></p><p>Ochránce má i nadále právo navrhnout zahájení kárného řízení s předsedy a místopředsedy soudů. Rozhodl o tom Ústavní soud, když jako neopodstatněný odmítl návrh kárného senátu Nejvyššího správního soudu na zrušení pravomoci, kterou ochránce získal v roce 2008.</p>"

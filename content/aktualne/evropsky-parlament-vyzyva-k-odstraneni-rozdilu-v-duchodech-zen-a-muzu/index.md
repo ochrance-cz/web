@@ -1,7 +1,7 @@
 ---
 title: "Evropský parlament vyzývá k odstranění rozdílu v důchodech žen a mužů"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2017/evropsky-parlament-vyzyva-k-odstraneni-rozdilu-v-duchodech-zen-a-muzu/"
 date: 2017-08-11
 perex: "<p>Ve spolupráci s Evropskou komisí a členskými státy EU by měla být vypracována strategie, jak odstranit rozdíl v důchodech.</p>"

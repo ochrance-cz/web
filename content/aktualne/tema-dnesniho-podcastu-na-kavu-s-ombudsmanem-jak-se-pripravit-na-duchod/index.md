@@ -1,8 +1,8 @@
 ---
 title: "Téma dnešního podcastu Na kávu s ombudsmanem: Jak se připravit na důchod"
-tags:
-  - Podcast
-  - Tisková zpráva
+vystupy:
+  - podcast
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/tema-dnesniho-podcastu-na-kavu-s-ombudsmanem-jak-se-pripravit-na-duchod"
 date: 2020-12-04
 perex: "<p>Zatímco úvodní díl podcastu Na kávu s ombudsmanem se věnoval obecně činnosti a působnosti ombudsmana, ode dneška se v následujících čtyřech dílech zaměříme na téma důchodů a postupně v nich vysvětlíme vše, co by lidé měli v souvislosti s důchody vědět.</p>"

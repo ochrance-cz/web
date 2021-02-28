@@ -1,7 +1,7 @@
 ---
 title: "Ochránkyně zahájila sérii systematických návštěv léčeben dlouhodobě nemocných"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2015/ochrankyne-zahajila-serii-systematickych-navstev-leceben-dlouhodobe-nemocnych"
 date: 2015-04-03
 perex: "<p>Veřejná ochránkyně práv má podle zákona za úkol provádět tzv. systematické návštěvy míst, kde se nacházejí nebo mohou nacházet osoby omezené na svobodě veřejnou mocí nebo v důsledku závislosti na poskytované péči. Cílem návštěv je prevence špatného zacházení. Proto návštěvy neprobíhají za účelem prošetřování individuálních stížností, ale systematicky se zaměřením na celou Českou republiku. Ve druhém čtvrtletí roku 2015 tým ochránkyně navštíví léčebny dlouhodobě nemocných. První návštěva v Léčebně pro dlouhodobě nemocné v Hradci Králové právě skončila, další budou následovat.</p>"

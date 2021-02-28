@@ -2,19 +2,14 @@
   display: inline-block;
   white-space: nowrap;
   background: $green-bright;
-  font-size: 1rem;
+  font-size: 0.8rem;
   text-transform: uppercase;
-  padding: 0.2rem 1rem;
+  padding: 0.1rem 0.8rem;
   border-radius: 1rem;
-  vertical-align: baseline;
+  vertical-align: top;
 }
 
-._tag.on-green {
+._text-header ._tag,
+._backdrop.news ._tag {
   background: $white;
-}
-
-._tags {
-  display: block;
-  float: right;
-  margin: 0 0 1rem 1rem;
 }

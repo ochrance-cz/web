@@ -1,7 +1,7 @@
 ---
 title: "Ombudsman prověřuje případ Libčany"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2007/ombudsman-proveruje-pripad-libcany"
 date: 2007-06-01
 perex: "<p></p>"

@@ -1,7 +1,7 @@
 ---
 title: "Ombudsmanka ulehčila život poručníkům. Už nebudou muset žádat soud o vydání cestovního dokladu pro dítě"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2018/ombudsmanka-ulehcila-zivot-porucnikum-uz-nebudou-muset-zadat-soud-o-vydani-cestovniho-do"
 date: 2018-10-25
 perex: "<p>Lidé, které soud ustanovil poručníkem dítěte, čelili opakujícímu se problému. Museli žádat soud o souhlas, když chtěli pro svěřené dítě vyřídit cestovní doklad. Přitom cestování do ciziny není v současných podmínkách nijak výjimečnou situací a je součástí rodinných nebo školních výletů. Jednalo se o formální překážku, která poručníkům zbytečně komplikovala jejich péči o svěřené děti. Ombudsmanka se proto rozhodla tuto praxi změnit a obrátila se na Ministerstvo vnitra. To se ztotožnilo s argumentací ombudsmanky a praxi změnilo. Poručníci tak již nyní nepotřebují souhlas soudu pro vydání cestovních dokladů. </p>"

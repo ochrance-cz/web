@@ -1,7 +1,7 @@
 ---
 title: "Aktuální vývoj antidiskriminačního práva v Evropě: vyšlo nové číslo European Equality Law Review"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2016/aktualni-vyvoj-antidiskriminacniho-prava-v-evrope-vyslo-nove-cislo-european-equality-law/"
 date: 2016-08-29
 perex: "<p>Nejnovější číslo European Equality Law Review, které vyšlo 17. srpna 2016, přináší novinky, analýzy a informace o vývoji antidiskriminačního práva jak v judikatuře Soudního dvora EU a Evropského soudu pro lidská práva, tak v jednotlivých členských státech Evropské unie, Bývalé jugoslávské republice Makedonii, Turecku, Islandu, Lichtenštejnsku a Norsku. Reflektuje stav k 31. prosinci 2015.</p>"

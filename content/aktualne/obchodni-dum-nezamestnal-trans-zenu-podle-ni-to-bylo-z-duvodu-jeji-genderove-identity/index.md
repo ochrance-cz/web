@@ -1,7 +1,7 @@
 ---
 title: "Obchodní dům nezaměstnal trans ženu. Podle ní to bylo z důvodu její genderové identity"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2020/obchodni-dum-nezamestnal-trans-zenu-podle-ni-to-bylo-z-duvodu-jeji-genderove-identity/"
 date: 2020-03-25
 perex: "<p>Komise pro rovné zacházení v Severním Irsku (Equality Commission for Northern Ireland) v rámci případu připomněla důležitost otevřeného a inkluzivního výběrového řízení.</p>"

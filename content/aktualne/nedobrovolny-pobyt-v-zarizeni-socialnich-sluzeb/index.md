@@ -1,7 +1,7 @@
 ---
 title: "Nedobrovolný pobyt v zařízení sociálních služeb"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2014/nedobrovolny-pobyt-v-zarizeni-socialnich-sluzeb/"
 date: 2014-02-27
 perex: "<p></p>"

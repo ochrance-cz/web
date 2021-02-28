@@ -1,7 +1,7 @@
 ---
 title: "Nedostatky systému Visapoint odporují mezinárodním závazkům ČR"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2012/nedostatky-systemu-visapoint-odporuji-mezinarodnim-zavazkum-cr"
 date: 2012-09-11
 perex: "<p>Po dlouhodobém a marném upozorňování na nedostatky systému Visapoint a porušování směrnic EU se ombudsman obrátil na Evropskou komisi. Chce, aby fungování systému Visapoint posoudila.</p>"

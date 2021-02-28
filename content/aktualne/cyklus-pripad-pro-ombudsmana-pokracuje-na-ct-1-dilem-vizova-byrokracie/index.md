@@ -1,7 +1,7 @@
 ---
 title: "Cyklus Případ pro ombudsmana pokračuje na ČT 1 dílem Vízová byrokracie"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2008/cyklus-pripad-pro-ombudsmana-pokracuje-na-ct-1-dilem-vizova-byrokracie"
 date: 2008-04-02
 perex: "<p></p>"

@@ -1,7 +1,7 @@
 ---
 title: "Pekařství v Belfastu odmítlo upéct dort na podporu homosexuálů, soud to označil za diskriminaci"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2016/pekarstvi-v-belfastu-odmitlo-upect-dort-na-podporu-homosexualu-soud-to-oznacil-za-diskrimina/"
 date: 2016-11-28
 perex: "<p>Odvolací soud v severoirském Belfastu potvrdil rozsudek soudu první instance v případu Lee vs. Ashers Baking Company Ltd. Pekařská firma se dopustila diskriminačního jednání, když odmítla zákazníkovi upéct dort s nápisem na podporu homosexuálních sňatků. Soud dospěl k závěru, že se firma dopustila diskriminace na základě sexuální orientace.</p>"

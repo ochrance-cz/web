@@ -1,7 +1,7 @@
 ---
 title: "Výzkum rozhodování soudů o podpůrných opatřeních: nejčastěji volí omezení svéprávnosti"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/vyzkum-rozhodovani-soudu-o-podpurnych-opatrenich-nejcasteji-voli-omezeni-svepravnosti"
 date: 2020-11-19
 perex: "<p>Celkem je v Česku asi 40 tisíc lidí omezených ve svéprávnosti. Výzkum zástupkyně ombudsmana, který analyzoval 256 rozhodnutí soudů z let 2013 až 2019, ukazuje, že omezení svéprávnosti je nejčastěji využívaným opatřením u lidí, kteří potřebují podporu v rozhodování. Nejčastěji soudy omezují svéprávnost v oblasti nakládání s majetkem. Průměrná částka, se kterou mohou tito lidé nakládat je 3170 korun, což je méně než životní minimum. Třetina lidí má dokonce méně než tisíc korun měsíčně. Všechny platby nad tuto částku za ně musí provádět opatrovník.  </p>"

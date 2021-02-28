@@ -1,7 +1,7 @@
 ---
 title: "V Nizozemsku se nyní bude vhodnost reklam posuzovat i z hlediska sexismu"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2017/v-nizozemsku-se-nyni-bude-vhodnost-reklam-posuzovat-i-z-hlediska-sexismu/"
 date: 2017-04-11
 perex: "<p>Nizozemská Komise dohlížející na dodržování pravidel reklamy rozhodla, že bude nyní reklamy posuzovat i podle toho, zda jsou v souladu s Úmluvou o odstranění všech forem diskriminace žen (CEDAW). Doposud byly reklamy v Nizozemsku posuzovány pouze podle toho, zda jsou či nejsou v souladu s dobrými mravy.</p>"

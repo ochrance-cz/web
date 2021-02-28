@@ -1,7 +1,7 @@
 ---
 title: "Arménský NPM upozornil na bití, používání elektrošoků a psychologického nátlaku ve věznicích a policejních celách"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2012/armensky-npm-upozornil-na-biti-pouzivani-elektrosoku-a-psychologickeho-natlaku-ve-vezni/"
 date: 2012-10-15
 perex: "<p>Arménský ombudsman identifikoval v arménských věznicích a policejních celách problémy, které odpovědné orgány dostatečně neřeší.</p>"

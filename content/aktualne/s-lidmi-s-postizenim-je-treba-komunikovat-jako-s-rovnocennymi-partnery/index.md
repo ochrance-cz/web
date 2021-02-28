@@ -1,7 +1,7 @@
 ---
 title: "S lidmi s postižením je třeba komunikovat jako s rovnocennými partnery"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/s-lidmi-s-postizenim-je-treba-komunikovat-jako-s-rovnocennymi-partnery"
 date: 2020-05-27
 perex: "<p>Zástupkyně ombudsmana zveřejnila doporučení nejen pro média, jak mluvit a psát o lidech s postižením a jak s nimi komunikovat. S lidmi s postižením je podle ní třeba mluvit jako s rovnocennými partnery, přizpůsobit podmínky i způsob vedení rozhovoru konkrétnímu člověku s postižením.</p>"

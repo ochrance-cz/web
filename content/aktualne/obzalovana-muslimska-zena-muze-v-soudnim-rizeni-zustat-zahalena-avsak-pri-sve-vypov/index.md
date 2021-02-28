@@ -1,7 +1,7 @@
 ---
 title: "Obžalovaná muslimská žena může v soudním řízení zůstat zahalena, avšak při své výpovědi musí odložit šátek"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2013/obzalovana-muslimska-zena-muze-v-soudnim-rizeni-zustat-zahalena-avsak-pri-sve-vypov/"
 date: 2013-11-27
 perex: "<p>Britský soudce stanovil precedent pro trestní soudy, jak jednat s obžalovanými, popřípadě svědky, kteří nosí tradiční nikáb. </p>"

@@ -1,7 +1,7 @@
 ---
 title: "Návštěva kyrgyzského ombudsmana"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2008/navsteva-kyrgyzskeho-ombudsmana"
 date: 2008-04-03
 perex: "<p></p>"

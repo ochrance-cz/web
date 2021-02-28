@@ -1,7 +1,7 @@
 ---
 title: "Výplata dávek formou poukázek v Litvínově vykazuje řadu vážných pochybení"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2008/vyplata-davek-formou-poukazek-v-litvinove-vykazuje-radu-vaznych-pochybeni"
 date: 2008-11-26
 perex: "<p></p>"

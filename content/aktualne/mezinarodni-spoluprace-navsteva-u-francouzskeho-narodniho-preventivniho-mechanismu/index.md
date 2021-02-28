@@ -1,7 +1,7 @@
 ---
 title: "Mezinárodní spolupráce: návštěva u francouzského národního preventivního mechanismu"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2013/mezinarodni-spoluprace-navsteva-u-francouzskeho-narodniho-preventivniho-mechanismu/"
 date: 2013-12-09
 perex: "<p></p>"

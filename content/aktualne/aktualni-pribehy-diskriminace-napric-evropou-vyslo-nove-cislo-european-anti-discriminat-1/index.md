@@ -1,7 +1,7 @@
 ---
 title: "Aktuální příběhy diskriminace napříč Evropou: vyšlo nové číslo European Anti-Discrimination Law Review"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2014/aktualni-pribehy-diskriminace-napric-evropou-vyslo-nove-cislo-european-anti-discriminat-1/"
 date: 2014-08-05
 perex: "<p>Osmnácté číslo European Anti-Discrimination Law Review, které vyšlo v červnu 2014, přináší novinky, analýzy a informace o vývoji antidiskriminačního práva v členských státech Evropské unie, bývalé jugoslávské republice Makedonii, Turecku, Islandu, Lichtenštejnsku a Norsku. Aktuální číslo reflektuje stav k 15. lednu 2014.</p>"

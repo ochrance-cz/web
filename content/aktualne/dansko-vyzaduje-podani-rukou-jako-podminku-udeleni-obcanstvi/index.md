@@ -1,7 +1,7 @@
 ---
 title: "Dánsko vyžaduje podání rukou jako podmínku udělení občanství"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2019/dansko-vyzaduje-podani-rukou-jako-podminku-udeleni-obcanstvi/"
 date: 2019-02-27
 perex: "<p>Nově přijatý zákon je podle některých diskriminační, protože vyžaduje podání rukou od lidí, jejichž náboženství tento akt nedovoluje.</p>"

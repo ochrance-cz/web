@@ -1,7 +1,7 @@
 ---
 title: "Ombudsmanka zahájila sérii návštěv domovů se zvláštním režimem"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2019/ombudsmanka-zahajila-serii-navstev-domovu-se-zvlastnim-rezimem/"
 date: 2019-12-18
 perex: "<p></p>"

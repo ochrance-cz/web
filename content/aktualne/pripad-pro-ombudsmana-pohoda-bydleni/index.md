@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Pohoda bydlení"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-i/pripad-pro-ombudsmana-pohoda-bydleni/"
 date: 2010-02-19
 perex: "<p></p><p>Tento případ zpočátku vypadal jako typická sousedská nesrovnalost, vedená možná jakýmisi kverulanty, kteří vydrží dlouhých osm let psát stížnosti na všechny strany. </p>"

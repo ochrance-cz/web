@@ -1,7 +1,7 @@
 ---
 title: "Neúnosná délka vyřizování příspěvku na péči"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2018/neunosna-delka-vyrizovani-prispevku-na-peci"
 date: 2018-09-14
 perex: "<p>Nedodržování lhůt při posuzování zdravotního stavu posudkovými lékaři v řízeních o příspěvku na péči je dlouhodobý problém. Zejména u odvolání jsou lhůty výrazně překračovány a není neobvyklé, že se na výsledek odvolacího řízení čeká déle než rok. Na ombudsmanku se v této věci obrací stále víc lidí, o řešení problému chce proto jednat s ministryní práce a sociálních věcí.</p>"

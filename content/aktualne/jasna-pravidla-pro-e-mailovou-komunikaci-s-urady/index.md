@@ -1,7 +1,7 @@
 ---
 title: "Jasná pravidla pro e-mailovou komunikaci s úřady"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2015/jasna-pravidla-pro-e-mailovou-komunikaci-s-urady"
 date: 2015-06-03
 perex: "<p>Ochránkyně uspěla s návrhem, aby Ministerstvo vnitra sjednotilo způsob, jakým různé úřady a úředníci veřejné správy vyřizují e-maily od občanů. Nová metodika ministerstva stanovila jasná pravidla, kdy mají úřady vyřizovat e-maily i bez elektronického podpisu a kdy mají odesílatele vyzvat k jeho doplnění, aby bylo možné e-mail považovat za podání podle správního řádu.</p>"

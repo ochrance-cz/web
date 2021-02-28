@@ -1,7 +1,7 @@
 ---
 title: "Pokrok v dosahování genderové rovnosti v EU je pomalý, tvrdí Evropská komise"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2020/pokrok-v-dosahovani-genderove-rovnosti-v-eu-je-pomaly-tvrdi-evropska-komise/"
 date: 2020-04-10
 perex: "<p>Strategie genderové rovnosti na období 2020 až 2025 má podle Evropské komise přispět k většímu a rychlejšímu pokroku.</p>"

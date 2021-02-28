@@ -1,7 +1,7 @@
 ---
 title: "Média o úspěchu ochránkyně – prosadila častější sprchování ve věznicích"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2015/media-o-uspechu-ochrankyne-prosadila-castejsi-sprchovani-ve-veznicich/"
 date: 2015-02-26
 perex: "<p>Na doporučení veřejné ochránkyně práv byla povinnost věznic, umožnit odsouzeným sprchovat se nejméně dvakrát týdně,  zapracována do novely řádu výkonu trestu odnětí svobody. Od začátku března se tak změní dosud nastavený systém, který odsouzeným zaručoval koupání v teplé vodě pouze jednou za týden. Takto média na zprávu o úspěchu ochránkyně reagovala.</p>"

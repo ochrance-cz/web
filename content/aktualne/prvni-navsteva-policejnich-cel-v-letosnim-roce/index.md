@@ -1,7 +1,7 @@
 ---
 title: "První návštěva policejních cel v letošním roce"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2017/prvni-navsteva-policejnich-cel-v-letosnim-roce/"
 date: 2017-01-31
 perex: "<p></p>"

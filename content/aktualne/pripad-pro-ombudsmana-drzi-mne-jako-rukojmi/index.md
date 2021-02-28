@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Drží mne jako rukojmí"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-i/pripad-pro-ombudsmana-drzi-mne-jako-rukojmi/"
 date: 2010-02-19
 perex: "<p></p><p>Případ paní Karly &ndash; uvalení exekuce na prokazatelně její majetek jako kompenzace dluhů způsobených manželem. Ačkoliv nespadal do působnosti veřejného ochránce práv, protože ombudsman nemá právo zasahovat do rozhodovací činnosti soudů, je kauza příkladem snahy Kanceláře VOP poskytnout stěžovatelce alespoň právní radu. V tomto lidsky křehkém příběhu i tento druh pomoci znamenal velmi mnoho.</p>"

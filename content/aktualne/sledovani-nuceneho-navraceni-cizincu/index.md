@@ -1,7 +1,7 @@
 ---
 title: "Sledování nuceného navracení cizinců"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2016/sledovani-nuceneho-navraceni-cizincu/"
 date: 2016-03-15
 perex: "<p>Zaměstnanci Kanceláře veřejného ochránce práv absolvovali školení osob vykonávajících dohled nad nuceným navracením cizinců.</p>"

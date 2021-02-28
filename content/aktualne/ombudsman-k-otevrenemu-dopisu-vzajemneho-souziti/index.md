@@ -1,7 +1,7 @@
 ---
 title: "Ombudsman k otevřenému dopisu Vzájemného soužití"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/ombudsman-k-otevrenemu-dopisu-vzajemneho-souziti"
 date: 2020-12-14
 perex: "<p></p>"

@@ -1,7 +1,7 @@
 ---
 title: "Setkání ombudsmanky s organizacemi hájícími práva lidí s postižením"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2019/setkani-ombudsmanky-s-organizacemi-hajicimi-prava-lidi-s-postizenim/"
 date: 2019-06-10
 perex: "<p></p>"

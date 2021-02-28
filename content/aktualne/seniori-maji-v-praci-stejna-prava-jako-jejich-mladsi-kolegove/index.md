@@ -1,7 +1,7 @@
 ---
 title: "Senioři mají v práci stejná práva jako jejich mladší kolegové"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2018/seniori-maji-v-praci-stejna-prava-jako-jejich-mladsi-kolegove"
 date: 2018-09-13
 perex: "<p>Na ombudsmanku se obrátila učitelka střední školy, kterou zaměstnavatel diskriminoval z důvodu věku. Odmítl jí poskytnout studijní volno, na které má ze zákona nárok. Zaměstnavatel to zdůvodnil vnitřním předpisem školy, který toto právo upíral učitelům pobírajícím starobní důchod. Po konzultaci s ombudsmankou se stěžovatelce podařilo zjednat nápravu. </p>"

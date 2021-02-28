@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Podpora v nezaměstnanosti"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-v/pripad-pro-ombudsmana-podpora-v-nezamestnanosti/"
 date: 2009-12-16
 perex: "<p></p>"

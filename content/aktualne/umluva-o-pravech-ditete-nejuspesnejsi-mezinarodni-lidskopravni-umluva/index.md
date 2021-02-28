@@ -1,7 +1,7 @@
 ---
 title: "Úmluva o právech dítěte: nejúspěšnější mezinárodní lidskoprávní úmluva"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2014/umluva-o-pravech-ditete-nejuspesnejsi-mezinarodni-lidskopravni-umluva/"
 date: 2014-11-14
 perex: "<p></p>"

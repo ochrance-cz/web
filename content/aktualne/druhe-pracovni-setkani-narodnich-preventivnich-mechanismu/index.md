@@ -1,7 +1,7 @@
 ---
 title: "Druhé pracovní setkání národních preventivních mechanismů"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2014/druhe-pracovni-setkani-narodnich-preventivnich-mechanismu/"
 date: 2014-12-01
 perex: "<p>Ve dnech 27. až 28. listopadu 2014 se uskutečnilo setkání zástupců českého, francouzského, gruzínského, maďarského, polského a slovinského národního preventivního mechanismu (NPM) a pracovníků kanceláře slovenské ombudsmanky. Cílem setkání bylo sdílení dobré praxe týkající se jak organizace a zásad práce NPM, tak i konkrétních typů zařízení, která NPM navštěvuje.</p>"

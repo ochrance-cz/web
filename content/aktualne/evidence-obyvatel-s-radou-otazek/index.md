@@ -1,7 +1,7 @@
 ---
 title: "Evidence obyvatel s řadou otázek"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2013/evidence-obyvatel-s-radou-otazek"
 date: 2013-03-21
 perex: "<p></p>"

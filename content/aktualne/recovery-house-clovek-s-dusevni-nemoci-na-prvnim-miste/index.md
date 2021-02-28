@@ -1,7 +1,7 @@
 ---
 title: "Recovery house: člověk s duševní nemocí na prvním místě"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2020/recovery-house-clovek-s-dusevni-nemoci-na-prvnim-miste/"
 date: 2020-01-30
 perex: "<p>Dne 29. ledna 2020 se zaměstnanci Kanceláře z odboru ochrany práv osob se zdravotním postižením zúčastnili semináře „Recovery house jako nástroj destigmatizace“. Na toto téma přednášeli Paul Baker (zakládající člen skupiny Hearing Voices a Intervoice) a také John Jenkins z International Mental Health Collaborating Network. Seminář proběhl v Brně v rámci projektu Podpora vzniku Center duševního zdraví I.  </p>"

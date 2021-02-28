@@ -1,5 +1,6 @@
 ---
 title: Sborníky a publikace
+slug: publikace
 illustration: sborniky-03.JPG
 perex: Zajímá vás určité téma a hledáte k němu komplexní informace? Možná je najdete v některém z našich sborníků, ať už jde o řadu Stanoviska, sborníky z tematických konferencí, nebo o jiné publikace.
 ---

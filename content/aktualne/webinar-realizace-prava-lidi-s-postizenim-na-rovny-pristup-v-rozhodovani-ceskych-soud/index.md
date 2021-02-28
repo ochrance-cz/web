@@ -1,7 +1,7 @@
 ---
 title: "Webinář: Realizace práva lidí s postižením na rovný přístup v rozhodování českých soudů (2015 – 2019)"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2020/webinar-realizace-prava-lidi-s-postizenim-na-rovny-pristup-v-rozhodovani-ceskych-soud/"
 date: 2020-06-17
 perex: "<p>Zástupkyně ombudsmana Monika Šimůnková dnes uspořádala webinář pro organizace hájící práva lidí s postižením a odbornou veřejnost (advokacii a akademickou sféru). Dvacet účastnic a účastníků se věnovalo třem různým tématům. Všechna pojila Úmluva OSN o právech osob se zdravotním postižením a její uplatňování v praxi.</p>"

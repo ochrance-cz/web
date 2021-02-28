@@ -1,7 +1,7 @@
 ---
 title: "Problémů rodin je hodně – mnohé se ochránkyni daří řešit"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2017/problemu-rodin-je-hodne-mnohe-se-ochrankyni-dari-resit"
 date: 2017-05-16
 perex: "<p>Včerejší Mezinárodní den rodin připomněl důležitost rodiny a její nezastupitelnou roli ve společnosti. Také veřejná ochránkyně práv se velice často setkává s tématem rodiny, ať už jde o problémy ve vztazích rodičů a dětí, kam v rámci ochrany práv dětí vstupuje stát, nebo o podmínky života rodin, když jde o sociální podporu, nebo například o slaďování rodinného a pracovního života apod.</p>"

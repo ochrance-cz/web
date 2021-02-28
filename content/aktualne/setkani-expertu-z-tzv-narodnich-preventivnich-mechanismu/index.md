@@ -1,7 +1,7 @@
 ---
 title: "Setkání expertů z tzv. národních preventivních mechanismů"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2014/setkani-expertu-z-tzv-narodnich-preventivnich-mechanismu"
 date: 2014-11-27
 perex: "<p></p>"

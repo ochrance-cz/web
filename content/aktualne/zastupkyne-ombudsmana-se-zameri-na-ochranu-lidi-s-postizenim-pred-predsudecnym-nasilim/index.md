@@ -1,7 +1,7 @@
 ---
 title: "Zástupkyně ombudsmana se zaměří na ochranu lidí s postižením před předsudečným násilím"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/zastupkyne-ombudsmana-se-zameri-na-ochranu-lidi-s-postizenim-pred-predsudecnym-nasilim"
 date: 2020-11-13
 perex: "<p>Jakékoliv výroky o tom, že někteří lidé s postižením jsou pro společnost přítěží nebo jejich život není plnohodnotný, považujeme za nepřípustné. </p>"

@@ -1,7 +1,7 @@
 ---
 title: "Kamerové systémy a ochrana osobních údajů"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2012/kamerove-systemy-a-ochrana-osobnich-udaju/"
 date: 2012-01-04
 perex: "<p></p><p>Upozorňujeme na Informační bulletin 2/2011 Úřadu pro ochranu osobních údajů, který se zaměřuje na problematiku používání kamerových systémů. Je přístupný na internetových stránkách Úřadu a může obsahovat informace užitečné i zařízením navštěvovaným ochráncem v rámci systematických návštěv. </p>"

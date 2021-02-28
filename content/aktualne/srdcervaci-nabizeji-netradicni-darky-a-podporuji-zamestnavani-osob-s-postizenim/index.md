@@ -1,7 +1,7 @@
 ---
 title: "Srdcerváči nabízejí netradiční dárky a podporují zaměstnávání osob s postižením"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2013/srdcervaci-nabizeji-netradicni-darky-a-podporuji-zamestnavani-osob-s-postizenim/"
 date: 2013-11-15
 perex: "<p>Exkurze do huti, tričko André Agassiho a Steffi Grafové s vlastnoručními podpisy, výroba vlastní cedule ve smaltovně, „bedňákem“ na zkoušku u bratří Ebenů, CD Karla Gotta s autogramem, prohlídka technologických prostor Žižkovské věže, či na chvilku popelářem – to jsou některé z dárků či zážitků, které nabízí netradiční neziskový projekt Srdcerváči. </p>"

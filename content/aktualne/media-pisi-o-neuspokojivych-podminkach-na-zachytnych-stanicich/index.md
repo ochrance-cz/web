@@ -1,7 +1,7 @@
 ---
 title: "Média píší o neuspokojivých podmínkách na záchytných stanicích"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2014/media-pisi-o-neuspokojivych-podminkach-na-zachytnych-stanicich/"
 date: 2014-10-06
 perex: "<p>Na tiskové konferenci dne 9. 9. 2014 seznámila ochránkyně veřejnost se závěry své Souhrnné zprávy ze systematických návštěv protialkoholních záchytných stanic. Média informovala o poznatcích ochránkyně následujícím způsobem.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Nelze odepřít přístup k informacím o vnitřním pokynu, který dopadá na osoby stojící vně instituce"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2012/nelze-odeprit-pristup-k-informacim-o-vnitrnim-pokynu-ktery-dopada-na-osoby-stojici-vne"
 date: 2012-10-16
 perex: "<p>Za interní informace nelze považovat vnitřní pokyny, jejichž uplatnění dopadá na osoby stojící vně instituce. Nelze k nim tedy odepřít přístup podle zákona 106/1999 Sb., o svobodném přístupu k informacím. S tímto závěrem šetření své zástupkyně seznámil veřejný ochránce práv poslance v rámci své pravidelné zprávy o činnosti za 3. čtvrtletí roku 2012.</p>"

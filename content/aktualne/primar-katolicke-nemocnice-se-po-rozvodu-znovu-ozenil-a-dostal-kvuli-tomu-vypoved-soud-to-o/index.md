@@ -1,7 +1,7 @@
 ---
 title: "Primář katolické nemocnice se po rozvodu znovu oženil a dostal kvůli tomu výpověď. Soud to označil za diskriminaci."
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2019/primar-katolicke-nemocnice-se-po-rozvodu-znovu-ozenil-a-dostal-kvuli-tomu-vypoved-soud-to-o/"
 date: 2019-07-26
 perex: "<p>Podle německého Spolkového pracovního soudu (Bundesarbeitsgericht) není dodržení svátosti manželství u zaměstnanců/zaměstnankyň katolického vyznání legitimním profesním požadavkem.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Přednášeli jsme o české praxi dohledu nad vyhošťováním cizinců na mezinárodní konferenci"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2015/prednaseli-jsme-o-ceske-praxi-dohledu-nad-vyhostovanim-cizincu-na-mezinarodni-konferenci/"
 date: 2015-06-01
 perex: "<p></p>"

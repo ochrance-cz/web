@@ -1,7 +1,7 @@
 ---
 title: "Antisemitismus: Jaká je situace v Evropské unii?"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2013/antisemitismus-jaka-je-situace-v-evropske-unii/"
 date: 2013-11-29
 perex: "<p>Agentura Evropské unie pro základní práva (FRA) publikovala v listopadu 2013 souhrnnou zprávu pojednávající o projevech antisemitismu ve státech Evropské unie. </p>"

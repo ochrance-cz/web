@@ -1,7 +1,7 @@
 ---
 title: "Školy stále diskriminují romské žáky, říká Amnesty International a Evropské centrum pro práva Romů"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2012/skoly-stale-diskriminuji-romske-zaky-rika-amnesty-international-a-evropske-centrum-pro-pr/"
 date: 2012-11-12
 perex: "<p>Ani po pěti letech ode dne, kdy Evropský soud pro lidská práva vydal přelomový rozsudek v případu D.H. a ostatní proti České republice, nemají Romové zajištěný rovný přístup ke vzdělávání. Ve své společné zprávě to konstatovali neziskové organizace Amnesty International a Evropské centrum pro práva Romů.</p>"

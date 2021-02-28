@@ -1,7 +1,7 @@
 ---
 title: "Ombudsmanka radí rodičům a studentům, jak na problémy ve škole"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2017/ombudsmanka-radi-rodicum-a-studentum-jak-na-problemy-ve-skole"
 date: 2017-09-04
 perex: "<p></p>"

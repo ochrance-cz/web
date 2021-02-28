@@ -1,7 +1,7 @@
 ---
 title: "Kdo může a kdo nemůže volit ve volbách do Evropského parlamentu?"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2019/kdo-muze-a-kdo-nemuze-volit-ve-volbach-do-evropskeho-parlamentu/"
 date: 2019-05-20
 perex: "<p>Ombudsmanka připravila nové schéma o tom, jak mohou lidé s postižením volit do Evropského parlamentu. Na rozdíl od voleb do obecního zastupitelstva mají v těchto volbách také možnost volit prostřednictvím voličského průkazu, pokud si přejí volit mimo svůj volební okrsek, například proto, že jejich běžná volební místnost není bezbariérová.     </p>"

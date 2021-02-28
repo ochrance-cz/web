@@ -1,7 +1,7 @@
 ---
 title: "Arménie spustila projekt přístupu k právní pomoci pro oběti mučení a špatného zacházení"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2012/armenie-spustila-projekt-pristupu-k-pravni-pomoci-pro-obeti-muceni-a-spatneho-zachazeni/"
 date: 2012-08-06
 perex: "<p></p>"

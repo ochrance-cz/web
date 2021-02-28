@@ -1,7 +1,7 @@
 ---
 title: "Harassment nebo svoboda projevu? Aneb jak se váží svoboda v Británii"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2013/harassment-nebo-svoboda-projevu-aneb-jak-se-vazi-svoboda-v-britanii/"
 date: 2013-05-16
 perex: "<p>Britský soud se zabýval zajímavým konfliktem mezi svobodou projevu a náboženskou svobodou. Na pozadí případu stojí kritika státu Izrael a obvinění z vícenásobné diskriminace v akademickém prostředí.</p>"

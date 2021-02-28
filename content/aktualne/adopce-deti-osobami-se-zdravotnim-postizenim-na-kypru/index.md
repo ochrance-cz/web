@@ -1,7 +1,7 @@
 ---
 title: "Adopce dětí osobami se zdravotním postižením na Kypru"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2015/adopce-deti-osobami-se-zdravotnim-postizenim-na-kypru/"
 date: 2015-05-21
 perex: "<p>Manželé trpící postižením pohybového aparátu podali v únoru 2014 podnět ke kyperskému Ombudsmanovi z důvodu diskriminačního a předsudečného zacházení ze strany tamějšího orgánu sociální péče. Ombudsman dospěl k závěru, že kyperský orgán porušil Úmluvu OSN o právech osob se zdravotním postižením.</p>"

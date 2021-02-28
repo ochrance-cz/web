@@ -1,7 +1,7 @@
 ---
 title: "Dny paměti: otestujte se na  Alzheimerovu chorobu"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2017/dny-pameti-otestujte-se-na-alzheimerovu-chorobu"
 date: 2017-09-12
 perex: "<p>Na konci září proběhne pro veřejnost v sídle ombudsmanky testování paměti, které dokáže včas odhalit počínající Alzheimerovu chorobu. Včasná diagnóza může pomoci zastavit postup nemoci. Projekt je zaštítěn Českou alzheimerovskou společností. </p>"

@@ -1,7 +1,7 @@
 ---
 title: "Týden rané péče"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2019/tyden-rane-pece/"
 date: 2019-11-05
 perex: "<p></p>"

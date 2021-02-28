@@ -1,7 +1,7 @@
 ---
 title: "Kulatý stůl na téma věková diskriminace"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2018/kulaty-stul-na-tema-vekova-diskriminace"
 date: 2018-02-28
 perex: "<p>Ombudsmanka dnes pořádá kulatý stůl o právních aspektech věkové diskriminace –  především v oblasti práce a zaměstnání. Kulatého stolu se účastní zaměstnanci ministerstev, orgánů inspekce práce, soudci nebo zástupci neziskového sektoru.</p>"

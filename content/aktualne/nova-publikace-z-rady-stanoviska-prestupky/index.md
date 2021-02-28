@@ -1,7 +1,7 @@
 ---
 title: "Nová publikace z řady Stanoviska: Přestupky"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2012/nova-publikace-z-rady-stanoviska-prestupky"
 date: 2012-09-19
 perex: "<p>Ochránce vydal již devátou publikaci z řady Stanoviska. Sborník Přestupky uceleným způsobem vysvětluje proces projednávání přestupku, rozhodování úřadů a práva účastníků přestupkových řízení.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Za nedodržení časové a místní dostupnosti zdravotní péče hrozí až desetimilionová pokuta"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2013/za-nedodrzeni-casove-a-mistni-dostupnosti-zdravotni-pece-hrozi-az-desetimilionova-pokuta"
 date: 2013-01-24
 perex: "<p>Jestliže zdravotní pojišťovna nezajistí poskytování hrazené služby svým pojištěncům, včetně místní a časové dostupnosti (např. dodržení maximální stanovené čekací doby na operaci), může jí Ministerstvo zdravotnictví udělit pokutu až do výše 10 milionů Kč.</p>"

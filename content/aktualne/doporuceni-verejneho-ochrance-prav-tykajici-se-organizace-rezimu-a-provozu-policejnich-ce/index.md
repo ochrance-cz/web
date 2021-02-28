@@ -1,7 +1,7 @@
 ---
 title: "Doporučení veřejného ochránce práv týkající se organizace režimu a provozu policejních cel"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2011/doporuceni-verejneho-ochrance-prav-tykajici-se-organizace-rezimu-a-provozu-policejnich-ce/"
 date: 2011-03-28
 perex: "<p></p>"

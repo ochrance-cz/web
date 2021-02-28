@@ -1,7 +1,7 @@
 ---
 title: "Závěry z šetření ochránkyně v oblasti ochrany dětí, mládeže a rodiny"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2016/zavery-z-setreni-ochrankyne-v-oblasti-ochrany-deti-mladeze-a-rodiny"
 date: 2016-06-07
 perex: "<p>Činnost veřejné ochránkyně práv v oblasti ochrany dětí, mládeže a rodiny patří k jedné z nejcitlivějších agend, kterými se zabývá. V letech 2014 a 2015 obdržela ochránkyně celkem 472 podnětů týkajících se práce orgánů sociálně-právní ochrany dětí (OSPOD). Ve 142 případech jsme zahájili šetření a v 77 případech byla zjištěna pochybení (54 %) ze strany OSPOD. Ve všech případech orgány uznaly svá pochybení a pokud to bylo ještě možné, chyby napravily. Celkově proto spolupráci s OSPOD hodnotíme pozitivně. </p>"

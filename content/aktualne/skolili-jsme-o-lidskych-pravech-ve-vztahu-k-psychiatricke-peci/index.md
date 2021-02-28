@@ -1,7 +1,7 @@
 ---
 title: "Školili jsme o lidských právech ve vztahu k psychiatrické péči"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2019/skolili-jsme-o-lidskych-pravech-ve-vztahu-k-psychiatricke-peci/"
 date: 2019-05-07
 perex: "<p></p>"

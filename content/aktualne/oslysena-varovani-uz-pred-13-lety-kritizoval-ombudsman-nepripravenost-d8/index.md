@@ -1,7 +1,7 @@
 ---
 title: "Oslyšená varování: Už před 13 lety kritizoval ombudsman nepřipravenost D8"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2016/oslysena-varovani-uz-pred-13-lety-kritizoval-ombudsman-nepripravenost-d8"
 date: 2016-10-24
 perex: "<p>Média v posledních dnech opět upozorňují na nedostatky stále nedokončené dálnice D8. Touto stavbou se už v roce 2003 zabýval ombudsman Otakar Motejl a kritizoval nedodržení zákonných postupů při přípravě záměru stavby D8 v úseku Lovosice – Řehlovice, vedoucí přes Chráněnou krajinnou oblast České středohoří. </p>"

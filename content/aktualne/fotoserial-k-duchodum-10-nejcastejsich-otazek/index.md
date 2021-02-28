@@ -1,7 +1,7 @@
 ---
 title: "Fotoseriál k důchodům: 10 nejčastějších otázek"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2016/fotoserial-k-duchodum-10-nejcastejsich-otazek"
 date: 2016-12-22
 perex: "<p>Každoročně vyřídíme tisíce podnětů a dotazů týkajících se důchodů. Proto jsme připravili malý grafický seriál, ve kterém se snažíme na nejčastější otázky odpovědět. Více informací k důchodům najdete také na odkazu bit.ly/duchody.</p>"

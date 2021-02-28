@@ -1,7 +1,7 @@
 ---
 title: "Uspořádali jsme on-line workshop pro studentky a studenty práv o zaměstnávání lidí s postižením"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2020/usporadali-jsme-on-line-workshop-pro-studentky-a-studenty-prav-o-zamestnavani-lidi-s-postiz/"
 date: 2020-12-08
 perex: "<p>Otázka zaměstnávání lidí s postižením je stále na okraji pozornosti právnické veřejnosti. I proto jsme ve spolupráci s Právnickou fakultou Univerzity Karlovy uspořádali workshop o zaměstnávání lidí s postižením pro budoucí advokáty, soudce či zaměstnance státní správy.</p>"

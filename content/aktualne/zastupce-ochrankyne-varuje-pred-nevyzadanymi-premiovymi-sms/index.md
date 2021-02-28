@@ -1,7 +1,7 @@
 ---
 title: "Zástupce ochránkyně varuje před „nevyžádanými“ prémiovými SMS"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2014/zastupce-ochrankyne-varuje-pred-nevyzadanymi-premiovymi-sms"
 date: 2014-03-04
 perex: "<p>Prostřednictvím prémiových SMS zpráv je možné jednoduše a rychle koupit jízdenku na MHD, zaplatit za parkování, hlasovat v televizní soutěži, zakoupit si nový vyzváněcí tón apod. Někteří klienti si však stěžují, že podle vyúčtování mobilního operátora mají platit částky v řádu několika set nebo i tisíc korun za zaslání prémiových SMS zpráv, které si nevyžádali, neobjednali a neudělili ani souhlas s jejich zasíláním.</p>"

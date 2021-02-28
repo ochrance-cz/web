@@ -1,7 +1,7 @@
 ---
 title: "Snížení finanční kompenzace za lékařskou chybu bylo diskriminační, rozhodl soud"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2017/snizeni-financni-kompenzace-za-lekarskou-chybu-bylo-diskriminacni-rozhodl-soud/"
 date: 2017-10-30
 perex: "<p>Podle Evropského soudu pro lidská práva bylo snížení finančního vyrovnání za lékařské pochybení při gynekologické operaci rozhodnuto na základě pohlaví a věku stěžovatelky.</p>"

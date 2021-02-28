@@ -1,7 +1,7 @@
 ---
 title: "Zástupkyně ochránce prověří výplatu sociálních dávek v Litvínově"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2008/zastupkyne-ochrance-proveri-vyplatu-socialnich-davek-v-litvinove"
 date: 2008-06-11
 perex: "<p></p>"

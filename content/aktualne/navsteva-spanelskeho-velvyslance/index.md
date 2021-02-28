@@ -1,7 +1,7 @@
 ---
 title: "Návštěva španělského velvyslance"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2014/navsteva-spanelskeho-velvyslance"
 date: 2014-03-24
 perex: "<p></p>"

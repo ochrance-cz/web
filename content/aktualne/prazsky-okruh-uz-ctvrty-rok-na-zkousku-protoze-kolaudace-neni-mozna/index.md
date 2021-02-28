@@ -1,7 +1,7 @@
 ---
 title: "Pražský okruh už čtvrtý rok „na zkoušku“, protože kolaudace není možná"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2014/prazsky-okruh-uz-ctvrty-rok-na-zkousku-protoze-kolaudace-neni-mozna"
 date: 2014-06-12
 perex: "<p>Stavba Pražského okruhu u obce Jesenice je příkladem nedůslednosti úřadů, které povolují stavební záměry s nedostatečně vyhodnocenými, či dokonce podhodnocenými dopady. Stavba nesplňuje hygienické limity, takže ji není možné zkolaudovat.</p>"

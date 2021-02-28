@@ -1,7 +1,7 @@
 ---
 title: "Strach a diskriminace jsou pro LGBT komunitu v Evropě běžné, ukazuje výzkum FRA"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2013/strach-a-diskriminace-jsou-pro-lgbt-komunitu-v-evrope-bezne-ukazuje-vyzkum-fra/"
 date: 2013-05-17
 perex: "<p>Průzkum Agentury Evropské unie pro základní práva (FRA), kterého se zúčastnilo více než 93 tisíc LGBT osob ze států Evropské unie a z Chorvatska, poukazuje na rozsáhlou diskriminaci a netoleranci vůči LGBT komunitě. Jak uvádí agentura FRA, řada lesbicky, homosexuálně, bisexuálně a transsexuálně orientovaných lidí nemůže být v každodenním životě sama sebou, žije v izolaci a strachu, skrývá svou identitu a čelí diskriminaci a násilí. Výsledky výzkumu byly představeny u příležitosti Mezinárodního dne proti homofobii a transfobii (17. května).</p>"

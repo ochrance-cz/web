@@ -1,7 +1,7 @@
 ---
 title: "Návštěva ústavně právního výboru"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2014/navsteva-ustavne-pravniho-vyboru"
 date: 2014-03-06
 perex: "<p>Ve čtvrtek 6. března se část ústavně právního výboru Poslanecké sněmovny setkala v Brně s ochránkyní, zástupcem ochránkyně a jejich spolupracovníky.</p>"

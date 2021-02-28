@@ -1,7 +1,7 @@
 ---
 title: "10 let antidiskriminačního zákona"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/10-let-antidiskriminacniho-zakona"
 date: 2019-10-03
 perex: "<p>Už 10 let platí v České republice antidiskriminační zákon. Na mezinárodní konferenci, kterou dnes v Senátu společně pořádají místopředsedkyně Senátu Miluše Horská a ombudsmanka Anna Šabatová, odborníci i politikové z České republiky a 11 zemí Evropské unie společně diskutují o tom, jak se desetiletá účinnost zákona projevuje na české společnosti, na jaké limity zákona praxe naráží a zda je namístě zákon do budoucna změnit.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Seriál Ochránce – 7. díl – Ochrana spotřebitele"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/ochrance-ii-2012/serial-ochrance-7-dil-ochrana-spotrebitele-1/"
 date: 2012-10-18
 perex: "<p>V neděli 21. 10. ve 11:00h vysílá ČT2 7. díl pořadu Ochránce, tentokrát o ochraně spotřebitele. Reprízu dílu uvidíte na ČT2 v úterý 23. 10. v 9:00h.</p>"

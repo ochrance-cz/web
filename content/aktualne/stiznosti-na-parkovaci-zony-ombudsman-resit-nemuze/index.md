@@ -1,7 +1,7 @@
 ---
 title: "Stížnosti na parkovací zóny ombudsman řešit nemůže"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2016/stiznosti-na-parkovaci-zony-ombudsman-resit-nemuze"
 date: 2016-09-21
 perex: "<p>V poslední době roste počet stížností na parkovací zóny v Praze. Jejich zavedení je však v souladu se zákonem a je zcela v pravomoci obcí a měst tímto způsobem parkování na svém území upravit. Veřejný ochránce práv není oprávněn do rozhodování samosprávy zasahovat.</p>"

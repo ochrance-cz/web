@@ -1,7 +1,7 @@
 ---
 title: "Situace v soudnictví ohrožuje právo na spravedlivý proces"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2012/situace-v-soudnictvi-ohrozuje-pravo-na-spravedlivy-proces"
 date: 2012-03-14
 perex: "<p></p><p>Dlouhodobá přetíženost soudů a jejich nedostatečné personální a technické zajištění vedou k porušování ústavně zaručeného práva na spravedlivý proces a tedy i práva na to, aby věc byla rozhodnuta v přiměřené lhůtě. Jde o stále častější jev, s nímž se ochránce při vyřizování podnětů z oblasti státní správy soudů setkává. Jestliže jsou za této situace soudům přidávány další rozsáhlé povinnosti, jedná se podle ochránce o nerozvážné ohrožení životaschopnosti justice, jehož důsledkem nutně musí být zhoršený přístup k právu.</p>"

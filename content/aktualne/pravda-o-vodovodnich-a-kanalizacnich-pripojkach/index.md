@@ -1,7 +1,7 @@
 ---
 title: "Pravda o vodovodních a kanalizačních přípojkách"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2013/pravda-o-vodovodnich-a-kanalizacnich-pripojkach"
 date: 2013-04-17
 perex: "<p>Opakované tvrzení ministerstva zemědělství, že návrh, aby vlastníci platili opravy a údržbu přípojek pod veřejným prostranstvím, vzešel od ombudsmana, si lze vysvětlit snad jen vírou ministerstva, že opakováním se i nesmysl stane pravdou.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Ochránce zaslal Poslanecké sněmovně zprávu o své činnosti ve 3. čtvrtletí"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2012/ochrance-zaslal-poslanecke-snemovne-zpravu-o-sve-cinnosti-ve-3-ctvrtleti"
 date: 2012-10-17
 perex: "<p></p><p>V pravidelné čtvrtletní zprávě o činnosti, kterou ombudsman poslal Poslanecké sněmovně, informuje o trvalém růstu počtu stížností, s nimiž se na něj lidé obracejí. Ve třetím čtvrtletí obdržel o 131 stížností více než ve stejném období loňského roku. Nejčastěji se lidé v tomto období na ombudsmana obraceli s problémy v oblasti sociálního zabezpečení.</p>"

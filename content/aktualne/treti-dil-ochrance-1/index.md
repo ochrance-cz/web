@@ -1,7 +1,7 @@
 ---
 title: "Třetí díl Ochránce"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/ochrance-iii-2013/treti-dil-ochrance-1/"
 date: 2013-09-19
 perex: "<p>V neděli 22. září vysílá ČT2 od 11:20 h třetí díl nové řady pořadu Ochránce. Tentokrát půjde o konflikt práva na informace a ochrany osobních údajů politiků, o potíže se změnou užívání nebytových prostor a také o problémech, či dokonce schválnosti jednoho stavebního úřadu. Repríza je na programu ve středu ve 13:10 a další opakování jsou pak zařazena do vysílání ČT2 v neděli a úterý vždy po půlnoci.</p>"

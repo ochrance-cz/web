@@ -1,7 +1,7 @@
 ---
 title: "Nevzdávejme se inkluze"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2018/nevzdavejme-se-inkluze/"
 date: 2018-01-02
 perex: "<p>Společné zamyšlení ombudsmanky Anny Šabatové a komisaře pro lidská práva Rady Evropy Nilse Muižniekse.</p>"

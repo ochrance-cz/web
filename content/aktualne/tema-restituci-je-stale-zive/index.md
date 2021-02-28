@@ -1,7 +1,7 @@
 ---
 title: "Téma restitucí je stále živé"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2018/tema-restituci-je-stale-zive"
 date: 2018-06-26
 perex: "<p>Ani téměř 30 let od pádu komunismu není téma restitucí v České republice skončeno. Na ombudsmana se stále obracejí lidé o pomoc a radu, jak dosáhnout nápravy majetkových křivd. Pro většinu z nich už je ale pozdě.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Lidé čelí diskriminaci nejčastěji při hledání práce z důvodu vysokého věku"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2016/lide-celi-diskriminaci-nejcasteji-pri-hledani-prace-z-duvodu-vysokeho-veku"
 date: 2016-01-20
 perex: "<p>Osobní zkušenost s diskriminací má 11 % obyvatel České republiky a obvykle ji zažívají při hledání práce nebo přímo na pracovišti. Nejčastějším problémem je diskriminace kvůli vysokému věku. Oběti diskriminace zároveň nevěří, že mohou aktivně bránit svá práva a domoci se spravedlnosti. Často ani netuší, na koho by se měly obrátit. Taková jsou hlavní zjištění, která vyplynula z rozsáhlého reprezentativního šetření, jež si veřejný ochránce práv nechal zpracovat v roce 2014 na vzorku 2079 respondentů. </p>"

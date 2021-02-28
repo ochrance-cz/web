@@ -1,7 +1,7 @@
 ---
 title: "Představení zprávy MDAC o klecových lůžkách"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2014/predstaveni-zpravy-mdac-o-klecovych-luzkach/"
 date: 2014-07-14
 perex: "<p>Mezinárodní nevládní organizace Mental Disability Advocacy Center představila 30. června v Praze dokument Klecová lůžka a používání omezovacích prostředků v českých psychiatrických zařízeních.</p>"

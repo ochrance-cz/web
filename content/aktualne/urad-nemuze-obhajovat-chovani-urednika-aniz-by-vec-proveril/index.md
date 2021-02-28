@@ -1,7 +1,7 @@
 ---
 title: "Úřad nemůže obhajovat chování úředníka, aniž by věc prověřil"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2018/urad-nemuze-obhajovat-chovani-urednika-aniz-by-vec-proveril"
 date: 2018-06-19
 perex: "<p>Úředníci musí vždy zachovávat profesionalitu a pravidla slušnosti. Jestliže úřad vyřizuje stížnost na nevhodné chování úředníka, nemůže se bez dalšího přiklonit na jeho stranu, aniž by co nejpřesněji zjistil skutkový stav. Ombudsmanka vytkla úřadu, že nevyslechl stěžujícího si občana a porušil tím princip nestrannosti. Takové jednání podle ombudsmanky nepřispívá ke kultivování jednání úředníků, ani k posilování důvěry občanů v úřednický stav.</p>"

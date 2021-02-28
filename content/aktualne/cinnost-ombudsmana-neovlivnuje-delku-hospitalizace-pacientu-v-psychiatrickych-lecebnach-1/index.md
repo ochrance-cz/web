@@ -1,7 +1,7 @@
 ---
 title: "Činnost ombudsmana neovlivňuje délku hospitalizace pacientů v psychiatrických léčebnách"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2012/cinnost-ombudsmana-neovlivnuje-delku-hospitalizace-pacientu-v-psychiatrickych-lecebnach-1/"
 date: 2012-01-27
 perex: "<p></p><p>Veřejný ochránce práv nezasahuje do rozhodování lékařů či soudů o tom, zda a kdy má být pacient psychiatrické léčebny propuštěn z léčení, zda má být do léčebny přijat, jak má léčba probíhat, či jak dlouho má hospitalizace trvat. </p>"

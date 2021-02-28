@@ -1,7 +1,7 @@
 ---
 title: "Město Břeclav v exekuci neoprávněně zabavilo dávky pomoci v hmotné nouzi"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/mesto-breclav-v-exekuci-neopravnene-zabavilo-davky-pomoci-v-hmotne-nouzi"
 date: 2019-11-22
 perex: "<p>Městský úřad Břeclav se dopustil pochybení, když v rámci exekuce zabavil ženě dávky pomoci v hmotné nouzi, které ze zákona exekuci nepodléhají. Ve chvíli, kdy byl na tuto nezákonnou situaci upozorněn, prostředky odmítl vrátit a svou chybu neuznal. Úřad nereagoval ani na upozornění zástupce ombudsmanky a nadále odmítá chybu uznat a peníze vrátit. Dávky pomoci v hmotné nouzi jsou přitom zákonem chráněny, a proto je nelze exekucí vůbec postihnout. Tyto dávky slouží výhradně k zajištění základních životních potřeb příjemce a jeho rodiny, kdy jejich i krátkodobé zabavení může způsobit dotyčnému a jeho rodině existenční problémy.    </p>"

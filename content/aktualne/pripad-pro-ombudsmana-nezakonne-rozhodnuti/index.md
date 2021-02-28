@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Nezákonné rozhodnutí"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-iv/pripad-pro-ombudsmana-nezakonne-rozhodnuti/"
 date: 2008-12-22
 perex: "<p></p>"

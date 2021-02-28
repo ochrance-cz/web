@@ -1,7 +1,7 @@
 ---
 title: "Přehled standardu CPT k tématu eskort lidí omezených na svobodě"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2018/prehled-standardu-cpt-k-tematu-eskort-lidi-omezenych-na-svobode/"
 date: 2018-06-25
 perex: "<p>Sekretariát Evropského výboru pro zabránění mučení a nelidskému či ponižujícímu zacházení nebo trestání (CPT) připravil nový factsheet, tedy přehled názorů Výboru na jedno téma. Tentokrát rozvádí požadavek na lidský, bezpečný a zabezpečený způsob provádění převozů osob omezených na svobodě.</p>"

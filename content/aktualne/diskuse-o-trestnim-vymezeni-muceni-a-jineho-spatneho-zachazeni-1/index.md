@@ -1,7 +1,7 @@
 ---
 title: "Diskuse o trestním vymezení mučení a jiného špatného zacházení"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2014/diskuse-o-trestnim-vymezeni-muceni-a-jineho-spatneho-zachazeni-1"
 date: 2014-12-29
 perex: "<p>Veřejná ochránkyně práv opakovaně informuje o případech špatného zacházení na místech, kde dochází nebo může docházet k omezení svobody. Jako národní preventivní mechanismus podle Opčního protokolu k Úmluvě proti mučení provádí systematické návštěvy s cílem posílit prevenci špatného zacházení.</p>"

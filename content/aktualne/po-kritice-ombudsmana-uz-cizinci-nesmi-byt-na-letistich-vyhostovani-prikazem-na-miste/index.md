@@ -1,7 +1,7 @@
 ---
 title: "Po kritice ombudsmana už cizinci nesmí být na letištích vyhošťování příkazem na místě, tj. ihned"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2013/po-kritice-ombudsmana-uz-cizinci-nesmi-byt-na-letistich-vyhostovani-prikazem-na-miste"
 date: 2013-06-20
 perex: "<p></p><p>Po kritice ze strany veřejného ochránce práv přestala cizinecká policie na letištích protiprávně vyhošťovat cizince z České republiky formou příkazu na místě bez možnosti odvolání. O vyhoštění cizince tak musí být vždy rozhodováno ve správním řízení.</p>"

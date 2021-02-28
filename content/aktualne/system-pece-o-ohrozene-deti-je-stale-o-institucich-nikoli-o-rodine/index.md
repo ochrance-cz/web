@@ -1,7 +1,7 @@
 ---
 title: "Systém péče o ohrožené děti je stále o institucích, nikoli o rodině"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2013/system-pece-o-ohrozene-deti-je-stale-o-institucich-nikoli-o-rodine"
 date: 2013-08-28
 perex: "<p>Ačkoli se ochránce v zařízeních nesetkal s případy týrání nebo vysloveně špatného zacházení, znovu musí konstatovat, že celý systém péče je komplikovaný a péče je příliš institucionovaná. Chybí preventivní péče, práce s rodinou, užší spolupráce s orgány sociálně-právní ochrany dětí a sociální služby.</p>"

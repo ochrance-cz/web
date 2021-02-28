@@ -1,7 +1,7 @@
 ---
 title: "Pacienti, klienti, hejbejte se"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2011/pacienti-klienti-hejbejte-se/"
 date: 2011-05-13
 perex: "<p></p>"

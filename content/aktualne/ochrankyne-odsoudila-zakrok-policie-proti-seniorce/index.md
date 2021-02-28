@@ -1,7 +1,7 @@
 ---
 title: "Ochránkyně odsoudila zákrok policie proti seniorce"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2017/ochrankyne-odsoudila-zakrok-policie-proti-seniorce"
 date: 2017-04-20
 perex: "<p>Za zcela nepřiměřený označila veřejná ochránkyně práv Anna Šabatová postup policistů proti seniorce (ročník 1949), o níž se domnívali, že je účastníkem nehody. Policista vůči ženě použil hmaty a chvaty a spoutal ji, přestože na něj nijak neútočila. Policisté ženu rovněž zajistili. K takovému postupu nebyly splněny zákonné předpoklady. Krajské ředitelství policie navíc následnou stížnost ženy vyhodnotilo jako nedůvodnou.</p>"

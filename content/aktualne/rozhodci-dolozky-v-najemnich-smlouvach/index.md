@@ -1,7 +1,7 @@
 ---
 title: "Rozhodčí doložky v nájemních smlouvách"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2012/rozhodci-dolozky-v-najemnich-smlouvach"
 date: 2012-06-11
 perex: "<p></p><p>Podle veřejného ochránce práv by obce jako veřejnoprávní korporace neměly omezovat ochranu nájemce, jak ji sleduje právní úprava nájmu. Nedoporučuje proto předávat spory plynoucí z nájemního vztahu rozhodcům, namísto soudu. </p>"

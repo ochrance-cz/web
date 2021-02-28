@@ -1,7 +1,7 @@
 ---
 title: "V České republice chybí sociální bydlení i zákon, který by ho upravoval"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2009/v-ceske-republice-chybi-socialni-bydleni-i-zakon-ktery-by-ho-upravoval"
 date: 2009-06-11
 perex: "<p></p><p>Česká republika potřebuje nový zákon o sociálním bydlení, který by přesně definoval pojem sociální bydlení, vymezil jeho cílovou skupinu, rozdělil pravomoci a kompetence a uložil také konkrétní povinnosti. Současná právní úprava je roztříštěná a právní předpisy upravují pouze jednotlivé aspekty sociálního bydlení bez účinné provázanosti. Stát poskytuje příspěvek na bydlení, doplatek na bydlení, zakotvuje nárok na poskytnutí sociálního poradenství a obecně i povinnost obce uspokojovat sociální potřeby občanů, včetně bytových. Žádný z těchto nástrojů však nepředstavuje systémové řešení, které by umožnilo předcházet sociálnímu vyloučení. Díky vzájemné neprovázanosti jednotlivých nástrojů se naopak rozšiřuje podstandardní bydlení, prohlubuje sociální izolace a tvoří nová ghetta.</p>"

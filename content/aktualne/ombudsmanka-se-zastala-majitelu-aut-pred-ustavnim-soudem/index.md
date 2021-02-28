@@ -1,7 +1,7 @@
 ---
 title: "Ombudsmanka se zastala majitelů aut před Ústavním soudem"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2018/ombudsmanka-se-zastala-majitelu-aut-pred-ustavnim-soudem"
 date: 2018-05-30
 perex: "<p>Ombudsmanka se coby vedlejší účastník řízení připojila k návrhu, aby Ústavní soud zrušil část zákona, který zbavil technické způsobilosti auta uvízlá v převodu. Jedná se o situaci, kdy jeden majitel odhlásil vozidlo, ale nový jej nepřihlásil. Pokud tak neučinil do konce června roku 2015, je vozidlo považováno za zaniklé. Ombudsmanka považuje takový postup za neústavní. </p>"

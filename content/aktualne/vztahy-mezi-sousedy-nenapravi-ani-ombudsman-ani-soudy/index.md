@@ -1,7 +1,7 @@
 ---
 title: "Vztahy mezi sousedy nenapraví ani ombudsman, ani soudy"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/vztahy-mezi-sousedy-nenapravi-ani-ombudsman-ani-soudy"
 date: 2020-05-29
 perex: "<p>Sousedské spory dokážou pořádně potrápit. Třeba v oblasti stavebního řádu a životního prostředí se prvek sousedského sporu objevuje pomalu v každé druhé kauze. Někdy vede mezilidský konflikt k pozdější neochotě domluvit se ve stavebních záležitostech, jindy je naopak stavební či obdobná činnost počátkem mnohaletého sporu. 30. květen je mezinárodním svátkem sousedů a je tak namístě připomenout jednoduchou pravdu, na níž ombudsman upozorňuje už 20 let: sousedský spor nemá vítěze, protože i nadále budete sousedy. Lepší je se domluvit.</p>"

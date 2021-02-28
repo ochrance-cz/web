@@ -1,7 +1,7 @@
 ---
 title: "Ženu šikanoval zaměstnavatel kvůli věku. Musel se jí omluvit a zaplatit odškodné"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2018/zenu-sikanoval-zamestnavatel-kvuli-veku-musel-se-ji-omluvit-a-zaplatit-odskodne"
 date: 2018-06-11
 perex: "<p>Na ombudsmanku se obrátila žena, která čelila šikaně ze strany zaměstnavatele z důvodu svého věku. Šikana dolehla také na její podobně staré kolegy a na ty, kdo se jí zastali. Ombudsmanka ve svém šetření konstatovala zjištění diskriminace. Na základě zprávy ombudsmanky a zjištění inspekce práce podala stěžovatelka žalobu. Žena u soudu uspěla. Zaměstnavatel – vysoká škola – se ženě omluvil a zaplatil jí finanční kompenzaci za způsobenou újmu.  </p>"

@@ -1,7 +1,7 @@
 ---
 title: "Práva osob umístěných v policejních celách – školení pro policii pokračují"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2015/prava-osob-umistenych-v-policejnich-celach-skoleni-pro-policii-pokracuji/"
 date: 2015-05-11
 perex: "<p></p>"

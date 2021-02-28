@@ -1,7 +1,7 @@
 ---
 title: "Kampaň ke Dni vzácných onemocnění"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2019/kampan-ke-dni-vzacnych-onemocneni/"
 date: 2019-02-28
 perex: "<p></p>"

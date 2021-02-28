@@ -1,7 +1,7 @@
 ---
 title: "Ochránce rozjíždí testování bank a pojišťoven"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2013/ochrance-rozjizdi-testovani-bank-a-pojistoven"
 date: 2013-05-21
 perex: "<p>Seniorům nelze odmítat finanční služby pouze z důvodu věku, přesto se ochránce s takovými případy setkává. Zahájil proto výzkum dostupnosti finančních produktů pro seniory, jehož součástí bude i testování na pobočkách za pomoci figurantů.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Přiznání invalidního důchodu"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2010/pripad-pro-ombudsmana-priznani-invalidniho-duchodu-1"
 date: 2010-09-29
 perex: "<p></p><p>V pátek 1. 10. vysílá Česká televize na ČT1 v 18:25 pátý díl cyklu Případ pro ombudsmana (repríze v pondělí 4. 10. ve 12:25 na ČT2). Díl nazvaný Přiznání invalidního důchodu vypráví o dvouleté anabázi jednání s Českou správou sociálního zabezpečení, kterou nakonec musel rozhodnout až Nejvyšší správní soud.</p>"

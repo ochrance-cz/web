@@ -1,7 +1,7 @@
 ---
 title: "Workshop „Problematika diskriminace v praxi mediátora“"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2013/workshop-problematika-diskriminace-v-praxi-mediatora"
 date: 2013-11-19
 perex: "<p></p>"

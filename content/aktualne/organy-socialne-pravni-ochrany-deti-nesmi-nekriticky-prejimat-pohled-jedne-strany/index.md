@@ -1,7 +1,7 @@
 ---
 title: "Orgány sociálně-právní ochrany dětí nesmí nekriticky přejímat pohled jedné strany"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2017/organy-socialne-pravni-ochrany-deti-nesmi-nekriticky-prejimat-pohled-jedne-strany"
 date: 2017-03-02
 perex: "<p>Konflikty rodičů jsou vždy nepřehlednou situací, kdy se obě strany vzájemně obviňují. Nelze však rezignovat na nestrannost a přistoupit nekriticky na verzi jedné strany. Takový případ jsme však šetřili. Otec odešel od matky a dvou dětí (7 a 13 let). Na svou ženu podal trestní oznámení pro údajné týrání dětí a požádal orgán sociálně-právní ochrany dětí (OSPOD) o jejich odebrání z péče matky. OSPOD se neptal na názor dětí – o jeho šetření v rodině neexistuje oficiální záznam – a podal návrh soudu na jejich umístění do zařízení pro děti vyžadující okamžitou pomoc (ZDVOP). Soud na návrh OSPOD přistoupil. Takhle však postupovat nelze.</p>"

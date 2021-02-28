@@ -1,7 +1,7 @@
 ---
 title: "K povinnému odchodu francouzských úředníků do důchodu se vyslovil Conseil d´État"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2013/k-povinnemu-odchodu-francouzskych-uredniku-do-duchodu-se-vyslovil-conseil-detat/"
 date: 2013-08-23
 perex: "<p>Pro francouzské úředníky je odchod do důchodu stanoven na 65 let. Státní rada, neboli Conseil d´État (nejvyšší odvolací soud pro správní soudy) se zabýval souladem vnitrostátního ustanovení z roku 1984 se směrnicí Rady 2000/78. </p>"

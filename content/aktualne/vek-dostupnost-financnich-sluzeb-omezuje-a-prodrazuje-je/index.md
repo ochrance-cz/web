@@ -1,7 +1,7 @@
 ---
 title: "Věk dostupnost finančních služeb omezuje a prodražuje je"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2013/vek-dostupnost-financnich-sluzeb-omezuje-a-prodrazuje-je"
 date: 2013-09-11
 perex: "<p>Zamezení přístupu k finančním službám pouze z důvodu věku se v České republice vyskytuje, i když v ne příliš vysoké míře. Vyšší věk však v některých případech pořízení určitého finančního produktu či služby výrazně prodražuje. Tyto závěry vyplývají z výzkumu, který vůbec poprvé v České republice soustavněji zmapoval dostupnost finančních produktů starším klientům, a tedy jejich možnou diskriminaci z důvodu věku.</p>"

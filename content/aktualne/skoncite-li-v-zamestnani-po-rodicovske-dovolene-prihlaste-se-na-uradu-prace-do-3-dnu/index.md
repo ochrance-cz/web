@@ -1,7 +1,7 @@
 ---
 title: "Skončíte-li v zaměstnání po rodičovské dovolené, přihlaste se na úřadu práce do 3 dnů"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2014/skoncite-li-v-zamestnani-po-rodicovske-dovolene-prihlaste-se-na-uradu-prace-do-3-dnu"
 date: 2014-01-22
 perex: "<p>Rodiče, kteří se vrátí do zaměstnání po rodičovské dovolené a jejich pracovní poměr následně skončí, by si měli dát pozor, aby se na úřadu práce přihlásili nejpozději do tří pracovních dnů. Pokud se totiž do evidence úřadu práce přihlásí později, bude jim přiznána jen minimální podpora v nezaměstnanosti. </p>"

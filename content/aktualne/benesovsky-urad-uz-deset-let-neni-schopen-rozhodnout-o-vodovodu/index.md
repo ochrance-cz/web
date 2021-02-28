@@ -1,7 +1,7 @@
 ---
 title: "Benešovský úřad už deset let není schopen rozhodnout o vodovodu"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2011/benesovsky-urad-uz-deset-let-neni-schopen-rozhodnout-o-vodovodu"
 date: 2011-03-15
 perex: "<p>Sankce vůči vodoprávnímu úřadu Městského úřadu v Benešově</p><p>Už déle než 10 let úřady ví o nepovoleném a nezkolaudovaném vodovodu v Hvězdonicích na Benešovsku, přesto o něm vodoprávní úřad Městského úřadu v Benešově ani po výzvách Krajského úřadu Středočeského kraje a Ministerstva zemědělství není schopen rozhodnout. </p>"

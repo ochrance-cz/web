@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Nedůstojné podmínky"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-iv/pripad-pro-ombudsmana-nedustojne-podminky/"
 date: 2008-12-30
 perex: "<p></p>"

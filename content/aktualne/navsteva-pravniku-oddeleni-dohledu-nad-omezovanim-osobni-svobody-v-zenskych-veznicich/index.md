@@ -1,7 +1,7 @@
 ---
 title: "Návštěva právníků oddělení dohledu nad omezováním osobní svobody v ženských věznicích ve Světlé nad Sázavou a v Chemnitz"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2015/navsteva-pravniku-oddeleni-dohledu-nad-omezovanim-osobni-svobody-v-zenskych-veznicich/"
 date: 2015-11-16
 perex: "<p>Právníci oddělení dohledu nad omezováním osobní svobody se společně se zaměstnanci ženské věznice JVA Chemnitz, zástupkyní Generálního konzulátu Dresden paní Evou Reinöhlovou a pracovníkem Evropské poradny pro oběti trestných činů a osoby ve výkonu trestu (EBS Dresden) Martinem Loukotou zúčastnili jednodenní exkurze v ženské věznici ve Světlé nad Sázavou.</p>"

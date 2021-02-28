@@ -1,7 +1,7 @@
 ---
 title: "Ženám se zlepší přístup k vědeckým grantům"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2013/zenam-se-zlepsi-pristup-k-vedeckym-grantum"
 date: 2013-04-08
 perex: "<p>Veřejný ochránce uvítal, že se Grantová agentura ČR rozhodla přehodnotit svůj postoj k ženám-vědkyním a začíná jednat o změnách, které jí ochránce doporučil. Poskytování postdoktorských grantů, tedy přístup k vědě a výzkumu, by se nově mělo řídit pravidly, která budou více respektovat rovnost žen a mužů a zohledňovat i právo na rodinný život.</p>"

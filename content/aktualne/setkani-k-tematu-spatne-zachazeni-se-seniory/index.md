@@ -1,7 +1,7 @@
 ---
 title: "Setkání k tématu špatné zacházení se seniory"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2016/setkani-k-tematu-spatne-zachazeni-se-seniory/"
 date: 2016-09-27
 perex: "<p>Fórum pro lidská práva uspořádalo v Praze setkání s poskytovateli sociálních služeb zacílené na diskutování nejčastějších problémů souvisejících se zajištěním důstojné péče seniorům a osobám s duševní poruchou.</p>"

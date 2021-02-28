@@ -1,7 +1,7 @@
 ---
 title: "2. čtvrtletí: S jakými problémy lidé vyhledávají pomoc ombudsmanky"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2016/2-ctvrtleti-s-jakymi-problemy-lide-vyhledavaji-pomoc-ombudsmanky"
 date: 2016-08-03
 perex: "<p>Ve druhém čtvrtletí se na ochránkyni obrátilo 2103 lidí s žádostí o pomoc při řešení své životní situace. Dvě třetiny (64 %) jejich podnětů spadá do působnosti veřejného ochránce práv a ochránkyně se jimi může zabývat.</p>"

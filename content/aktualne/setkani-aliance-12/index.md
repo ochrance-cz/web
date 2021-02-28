@@ -1,7 +1,7 @@
 ---
 title: "Setkání ALIANCE 12"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2019/setkani-aliance-12/"
 date: 2019-03-08
 perex: "<p></p>"

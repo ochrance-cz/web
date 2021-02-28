@@ -1,7 +1,7 @@
 ---
 title: "Komisař Rady Evropy pro lidská práva vyzývá k ochraně sexuálních a reprodukčních práv žen"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2018/komisar-rady-evropy-pro-lidska-prava-vyzyva-k-ochrane-sexualnich-a-reprodukcnich-prav-ze/"
 date: 2018-04-30
 perex: "<p>Podle komisaře vzrůstají v některých evropských státech snahy o omezení sexuálních a reprodukčních práv žen.</p>"

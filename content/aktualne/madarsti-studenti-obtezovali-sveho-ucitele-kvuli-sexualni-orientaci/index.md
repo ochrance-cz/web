@@ -1,7 +1,7 @@
 ---
 title: "Maďarští studenti obtěžovali svého učitele kvůli sexuální orientaci"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2014/madarsti-studenti-obtezovali-sveho-ucitele-kvuli-sexualni-orientaci/"
 date: 2014-04-15
 perex: "<p>Úřad pro rovné zacházení stanovil, že učitel byl vystaven obtěžování ze strany studentů, když jeho zaměstnavatel naprosto selhal u řešení této situace.</p>"

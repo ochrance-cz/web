@@ -1,7 +1,7 @@
 ---
 title: "Francie chce umožnit přístup k asistované reprodukci pro lesbické páry i ženy bez partnera"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2019/francie-chce-umoznit-pristup-k-asistovane-reprodukci-pro-lesbicke-pary-i-zeny-bez-partnera/"
 date: 2019-11-26
 perex: "<p>Podle francouzské vlády je dosavadní praxe diskriminační, protože metody asistované reprodukce jsou dostupné pouze heterosexuálním párům.</p>"

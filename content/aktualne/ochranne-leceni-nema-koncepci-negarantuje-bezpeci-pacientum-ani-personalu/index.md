@@ -1,7 +1,7 @@
 ---
 title: "Ochranné léčení nemá koncepci, negarantuje bezpečí pacientům, ani personálu"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/ochranne-leceni-nema-koncepci-negarantuje-bezpeci-pacientum-ani-personalu"
 date: 2019-11-21
 perex: "<p>Stav ochranného léčení zůstává po pěti letech od tzv. žďárské kauzy stejný. Chybí koncepce a také zákonný rámec ochranného léčení je nedokonalý. Přísliby Ministerstva zdravotnictví zůstaly nenaplněny, probíhající reforma psychiatrické péče se ochranného léčení dotýká jen v detailech. Nejistota ohledně budoucího poslání psychiatrických nemocnic vede jen k přešlapování, jehož výsledkem může být další snižování bezpečnosti pacientů a personálu a špatné zacházení.</p>"

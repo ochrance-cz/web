@@ -1,7 +1,7 @@
 ---
 title: "Mezinárodní den rodiny"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2020/mezinarodni-den-rodiny/"
 date: 2020-05-15
 perex: "<p>Patnáctý květen již tradičně patří oslavám mezinárodního dne rodiny. Existuje mnoho definic a modelů rodiny. Klíčové ovšem je, že její členy spojuje citové pouto a vzájemná odpovědnost. Jde o nezbytné přísady pro příznivý vývoj dítěte, a proto by každé dítě mělo vyrůstat v rodině. Děti s postižením nejsou výjimkou.</p>"

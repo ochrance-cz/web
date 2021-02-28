@@ -1,7 +1,7 @@
 ---
 title: "Kulatý stůl: medicínské, sociální, etické a právní aspekty intersex problematiky"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/kulaty-stul-medicinske-socialni-eticke-a-pravni-aspekty-intersex-problematiky"
 date: 2019-11-05
 perex: "<p>V každé zemi se rodí děti, jejichž pohlavní znaky částečně či zcela neodpovídají tomu, co medicína a společnost očekává od mužských a ženských těl (intersex děti). Uvádí se, že takových dětí se rodí ve světě zhruba tolik, jako dětí se zrzavými vlasy. Dne 4. listopadu 2019 proto ombudsmanka uspořádala kulatý stůl určený zástupcům z řad praktikujících lékařů, právníků, kteří se zabývají související lidskoprávní problematikou, lékařských etiků, sociologů, představitelů ústředních orgánů státní správy, podporujících spolků, ale i samotných intersex lidí. </p>"

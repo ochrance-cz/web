@@ -1,7 +1,7 @@
 ---
 title: "Obraz Romů v českých médiích je negativní a stereotypní, vyplývá z analýzy Agentury pro sociální začleňování"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2013/obraz-romu-v-ceskych-mediich-je-negativni-a-stereotypni-vyplyva-z-analyzy-agentury-pro-so/"
 date: 2013-04-18
 perex: "<p>Na základě událostí z druhé poloviny roku 2011 zpracovala Agentura pro sociální začleňování rozsáhlou obsahovou analýzu článků a reportáží týkajících se Romů. Výzkum dospěl k závěru, že česká média podporují negativní stereotypy o Romech ve společnosti. </p>"

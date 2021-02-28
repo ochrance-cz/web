@@ -1,7 +1,7 @@
 ---
 title: "Soudní řízení o svěření dítěte do péče lze urychlit. Nečinnost soudních znalců může prověřit soud."
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2016/soudni-rizeni-o-svereni-ditete-do-pece-lze-urychlit-necinnost-soudnich-znalcu-muze"
 date: 2016-06-17
 perex: "<p>Soudní řízení se někdy prodlužují, protože se vyčkává na vyhotovení znaleckých posudků. Bohužel se s touto praxí setkáváme u tak nelehké životní události, jako je rozvod nebo rozpad vztahu rodičů. Trvá často neúměrně dlouho, než soud rozhodne, do jakého typu péče nezletilé děti svěří. Důvodem bývá čekání na vyhotovení znaleckých posudků, bez kterých soud v některých případech nemůže rozhodnout. Orgán sociálně-právní ochrany dětí (OSPOD), který v těchto případech nejčastěji vykonává roli kolizního opatrovníka, však tento zdlouhavý proces může uspíšit. Může podat stížnost směřující proti průtahům způsobeným soudními znalci. Bohužel však o této možnosti často neví. </p>"

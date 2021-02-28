@@ -1,7 +1,7 @@
 ---
 title: "Seriál ČT „Ochránce“ – 11. díl: Hluk"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2011/serial-ct-ochrance-11-dil-hluk-1"
 date: 2011-11-14
 perex: "<p></p><p>Tři příběhy lidí, kteří se snaží bránit nadměrnému a obtěžujícímu hluku přináší 11. díl pořadu Ochránce vysílaný na ČT2 v úterý 15. 11. v 17:20 hod a v repríze ve středu 16. 11. v 9:35. </p>"

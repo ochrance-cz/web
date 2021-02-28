@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Dávky pomoci v hmotné nouzi"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-vi/pripad-pro-ombudsmana-davky-pomoci-v-hmotne-nouzi-1/"
 date: 2010-11-18
 perex: "<p></p><p>V pátek 12. 11. vysílá Česká televize na ČT1 v 18:25 jedenáctý díl cyklu Případ pro ombudsmana (repríze v pondělí 15. 11. ve 12:25 na ČT2). Díl nazvaný Dávky pomoci v hmotné nouzi poukazuje na nedostatky zákona z pohledu nedostupné, přitom zákonem předpokládané, veřejné služby, a z pohledu výrazného znevýhodnění invalidních občanů. </p>"

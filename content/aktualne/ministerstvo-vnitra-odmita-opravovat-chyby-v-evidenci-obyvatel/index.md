@@ -1,7 +1,7 @@
 ---
 title: "Ministerstvo vnitra odmítá opravovat chyby v evidenci obyvatel"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2017/ministerstvo-vnitra-odmita-opravovat-chyby-v-evidenci-obyvatel"
 date: 2017-08-22
 perex: "<p>Ministerstvo vnitra odmítá zpětně ukončit trvalý pobyt lidem, kteří před rokem 1990 emigrovali a v České republice od té doby nežijí. Úřady totiž některým z nich v 80. letech trvalý pobyt nezrušily, ačkoli měly, nebo jim naopak po znovunabytí státního občanství trvalý pobyt bez jejich vědomí vytvořily. Aniž by to tušili, mají tito lidé v ČR trvalý pobyt, v důsledku čehož jim například vzniká dluh za komunální odpad. Ministerstvo však trvá na tom, že údaj o trvalém pobytu zpětně změnit nelze a odmítá těmto lidem pomoct.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Kdy je místo pobytu diskriminačním důvodem? Odpoví Evropský soud pro lidská práva"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2014/kdy-je-misto-pobytu-diskriminacnim-duvodem-odpovi-evropsky-soud-pro-lidska-prava/"
 date: 2014-01-27
 perex: "<p>Ukrajinský občan se domáhal obnovení výplaty svého důchodu, avšak vnitrostátní orgány jeho žádosti nevyhověly. Nezbylo mu, než se obrátit na štrasburský soud a poukázat na nerovné zacházení z důvodu místa pobytu.</p>"

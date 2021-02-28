@@ -1,7 +1,7 @@
 ---
 title: "Pavel Varvařovský novým veřejným ochráncem práv"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2010/pavel-varvarovsky-novym-verejnym-ochrancem-prav"
 date: 2010-09-07
 perex: "<p></p>"

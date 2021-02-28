@@ -1,7 +1,7 @@
 ---
 title: "Kulatý stůl Vládního výboru pro zdravotně postižení občany k problematice sociálních služeb pro lidi s poruchami autistického spektra"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2018/kulaty-stul-vladniho-vyboru-pro-zdravotne-postizeni-obcany-k-problematice-socialnich-slu/"
 date: 2018-10-16
 perex: "<p></p>"

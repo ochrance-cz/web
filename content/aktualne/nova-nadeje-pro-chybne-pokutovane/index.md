@@ -1,7 +1,7 @@
 ---
 title: "Nová naděje pro chybně pokutované"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2008/nova-nadeje-pro-chybne-pokutovane"
 date: 2008-03-05
 perex: "<p></p>"

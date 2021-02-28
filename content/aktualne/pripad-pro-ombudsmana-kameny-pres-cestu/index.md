@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Kameny přes cestu"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-iii/pripad-pro-ombudsmana-kameny-pres-cestu/"
 date: 2008-03-25
 perex: "<p></p>"

@@ -1,7 +1,7 @@
 ---
 title: "Ombudsmanka zakončila sérii návštěv domovů pro osoby se zdravotním postižením"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2018/ombudsmanka-zakoncila-serii-navstev-domovu-pro-osoby-se-zdravotnim-postizenim/"
 date: 2018-09-17
 perex: "<p>Jedním  z mnoha úkolů ombudsmanky je provádět systematické návštěvy míst, kde se nacházejí nebo mohou nacházet osoby omezené na svobodě veřejnou mocí nebo v důsledku závislosti na poskytované péči, jak je tomu například v domovech pro osoby se zdravotním postižením. </p>"

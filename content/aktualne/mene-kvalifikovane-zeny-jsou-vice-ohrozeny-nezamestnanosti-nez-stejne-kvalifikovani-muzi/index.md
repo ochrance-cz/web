@@ -1,7 +1,7 @@
 ---
 title: "Méně kvalifikované ženy jsou více ohroženy nezaměstnaností než stejně kvalifikovaní muži, ukazuje studie"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2017/mene-kvalifikovane-zeny-jsou-vice-ohrozeny-nezamestnanosti-nez-stejne-kvalifikovani-muzi/"
 date: 2017-09-28
 perex: "<p>Ženy na pracovním trhu častěji čelí diskriminaci, pracují na horších pozicích a jsou tak více ohroženy chudobou.</p>"

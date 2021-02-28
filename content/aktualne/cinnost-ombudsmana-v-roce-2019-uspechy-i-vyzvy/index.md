@@ -1,7 +1,7 @@
 ---
 title: "Činnost ombudsmana v roce 2019 – úspěchy i výzvy"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/cinnost-ombudsmana-v-roce-2019-uspechy-i-vyzvy"
 date: 2020-06-30
 perex: "<p>Ombudsman informoval Poslaneckou sněmovnu o činnosti v roce 2019, poznatcích, trendech a doporučeních k dlouhodobým problémům, jejichž řešení vyžaduje změny či přijetí právních předpisů. Zprávu už projednal Senát a také Petiční výbor Poslanecké sněmovny, který doporučí, aby Sněmovna uložila vládě zabývat se poznatky a doporučeními ombudsmana.</p>"

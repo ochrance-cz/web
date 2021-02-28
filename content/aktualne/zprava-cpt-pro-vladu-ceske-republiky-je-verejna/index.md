@@ -1,7 +1,7 @@
 ---
 title: "Zpráva CPT pro vládu České republiky je veřejná"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2019/zprava-cpt-pro-vladu-ceske-republiky-je-verejna/"
 date: 2019-07-09
 perex: "<p>Vláda požádala o zveřejnění zprávy o návštěvě, kterou Evropský výbor pro zabránění mučení a nelidskému či ponižujícímu zacházení nebo trestání (CPT) provedl v říjnu 2019.</p>"

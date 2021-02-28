@@ -1,7 +1,7 @@
 ---
 title: "Ústavní soud dal za pravdu ombudsmance, poplatek 10 000 Kč za podnět k Úřadu pro ochranu hospodářské soutěže je neústavní"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/ustavni-soud-dal-za-pravdu-ombudsmance-poplatek-10-000-kc-za-podnet-k-uradu-pro-ochranu-hospo"
 date: 2019-11-13
 perex: "<p>Ústavní soud dnes zrušil poplatek 10 000 korun, kterým bylo od 1. října 2016 zpoplatněno podání podnětu k Úřadu pro ochranu hospodářské soutěže. Ombudsmanka se účastnila řízení coby vedlejší účastník a připojila se k návrhu na jeho zrušení poté, co vláda odmítla její doporučení poplatek zrušit. Poplatek podle ombudsmanky omezuje právo petiční – tedy právo obrátit se na státní orgán. Zakládá také možnou nepřímou diskriminaci z důvodu majetku, kdy si lidé s nízkými příjmy nemohou dovolit se na úřad obrátit.</p>"

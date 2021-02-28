@@ -1,7 +1,7 @@
 ---
 title: "Dnes si připomínáme Mezinárodní den lidí s postižením"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/dnes-si-pripominame-mezinarodni-den-lidi-s-postizenim"
 date: 2020-12-03
 perex: "<p>U příležitosti Mezinárodního dne lidí s postižením se v Kanceláři veřejného ochránce práv konala online diskuze Lidé s postižením a Evropská úmluva o ochraně lidských práv (1950 – 2020). Vedle zástupkyně ombudsmana Moniky Šimůnkové se zúčastnila řada odborníků, např. Vít Alexander Schorm, Pavel Kotrady, Martina Grochová či Radka Maxová. Mezinárodní den osob s postižením má letos také speciální význam v souvislosti se sedmdesátiletým výročím Úmluvy o ochraně lidských práv a základních svobod.</p>"

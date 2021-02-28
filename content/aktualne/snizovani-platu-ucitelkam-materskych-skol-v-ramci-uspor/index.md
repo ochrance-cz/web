@@ -1,7 +1,7 @@
 ---
 title: "Snižování platu učitelkám mateřských škol v rámci úspor"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2013/snizovani-platu-ucitelkam-materskych-skol-v-ramci-uspor"
 date: 2013-11-05
 perex: "<p>Zástupce veřejného ochránce práv se zabýval stížnostmi celé řady učitelek v mateřských školách, které upozorňovaly na to, že v důsledku úsporných opatření byly hromadně přeřazovány do nižší platové třídy (z 9. platové třídy do 8. platové třídy). Nejvíce podnětů k ochránci směřovalo z Olomouckého kraje, problém se však plošně dotkl i jiných krajů v rámci celé České republiky. </p>"

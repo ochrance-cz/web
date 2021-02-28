@@ -1,7 +1,7 @@
 ---
 title: "Po deseti letech se dočkal správného invalidního důchodu"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2015/po-deseti-letech-se-dockal-spravneho-invalidniho-duchodu"
 date: 2015-11-20
 perex: "<p>Deset let pobíral nesprávně stanovený, velmi nízký invalidní důchod, než ho napadlo obrátit se na veřejnou ochránkyni práv. Ta dosáhla nejen stanovení důchodu ve správné výši, ale i zpětného doplacení toho, co mu bylo neprávem odepřeno. Tak vypadá typický úspěch ochránkyně při řešení stížnosti na invalidní důchod.</p>"

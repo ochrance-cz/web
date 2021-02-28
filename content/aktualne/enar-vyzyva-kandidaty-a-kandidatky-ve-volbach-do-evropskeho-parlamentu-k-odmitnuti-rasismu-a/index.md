@@ -1,7 +1,7 @@
 ---
 title: "ENAR vyzývá kandidáty a kandidátky ve volbách do Evropského parlamentu k odmítnutí rasismu a nenávisti"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2019/enar-vyzyva-kandidaty-a-kandidatky-ve-volbach-do-evropskeho-parlamentu-k-odmitnuti-rasismu-a/"
 date: 2019-04-25
 perex: "<p>Podle Evropské sítě proti rasismu (ENAR) by klíčovým poselstvím voleb měly být inkluze a rovnost ve společnosti.</p>"

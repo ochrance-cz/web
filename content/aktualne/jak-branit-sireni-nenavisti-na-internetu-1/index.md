@@ -1,7 +1,7 @@
 ---
 title: "Jak bránit šíření nenávisti na internetu"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/jak-branit-sireni-nenavisti-na-internetu-1"
 date: 2019-10-16
 perex: "<p>Obrana proti šíření nenávistných projevů na internetu je zatím pomalá a nepříliš efektivní. Předseda Ústavního soudu, ombudsmanka a nejvyšší státní zástupce proto uspořádali odbornou konferenci určenou zejména policistům, státním zástupcům a soudcům s cílem hledat způsoby, jak tomuto nebezpečnému jevu účinně čelit a předcházet.</p>"

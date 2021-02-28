@@ -1,7 +1,7 @@
 ---
 title: "Výzkum ochránce jako bod programu na zasedání Rady vlády ČR pro záležitosti romské menšiny"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2012/vyzkum-ochrance-jako-bod-programu-na-zasedani-rady-vlady-cr-pro-zalezitosti-romske-mensiny/"
 date: 2012-07-09
 perex: "<p>Výzkum ochránce k otázce etnického složení žáků bývalých zvláštních škol je zařazen do programu zasedání Rady vlády ČR pro záležitosti romské menšiny.</p>"

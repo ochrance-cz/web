@@ -1,7 +1,7 @@
 ---
 title: "Výzkum slovenské ochránkyně práv: Romové jsou vyloučeni ze vzdělávání"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2013/vyzkum-slovenske-ochrankyne-prav-romove-jsou-vylouceni-ze-vzdelavani/"
 date: 2013-09-10
 perex: "<p>Romské děti jsou nejen vyloučeny do „romských škol“, ale jsou navíc vyloučeny i ze standardního systému vzdělávání. Kvůli tomu nemohou pokračovat ve vzdělávání, čímž je nepříznivě ovlivněn jejich další osud. </p>"

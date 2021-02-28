@@ -1,7 +1,7 @@
 ---
 title: "V Dánsku došlo k dalšímu zpřesnění pojmu zdravotní postižení"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2013/v-dansku-doslo-k-dalsimu-zpresneni-pojmu-zdravotni-postizeni/"
 date: 2013-08-05
 perex: "<p>Dánský nejvyšší soud rozhodl, že pokud zaměstnavatel propustil ženu jen z toho důvodu, že trpí poruchou ADHD, dopustil se diskriminačního jednání z důvodu zdravotního postižení.</p>"

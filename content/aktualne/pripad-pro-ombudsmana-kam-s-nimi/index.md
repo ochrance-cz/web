@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Kam s nimi"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2008/pripad-pro-ombudsmana-kam-s-nimi"
 date: 2008-07-09
 perex: "<p></p>"

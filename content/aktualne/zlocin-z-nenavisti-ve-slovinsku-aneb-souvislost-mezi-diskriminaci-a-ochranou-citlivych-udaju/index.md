@@ -1,7 +1,7 @@
 ---
 title: "Zločin z nenávisti ve Slovinsku aneb souvislost mezi diskriminací a ochranou citlivých údajů"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2015/zlocin-z-nenavisti-ve-slovinsku-aneb-souvislost-mezi-diskriminaci-a-ochranou-citlivych-udaju/"
 date: 2015-02-19
 perex: "<p>Slovinský Nejvyšší soud zrušil rozhodnutí soudu nižší instance, kterým byli odsouzeni obžalovaní v případě trestného činu s homofobním podtextem.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Ochránkyně odeslala ústředním orgánům doporučení týkající se domovů pro seniory a domovů se zvláštním režimem"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2015/ochrankyne-odeslala-ustrednim-organum-doporuceni-tykajici-se-domovu-pro-seniory-a-domov/"
 date: 2015-10-02
 perex: "<p></p>"

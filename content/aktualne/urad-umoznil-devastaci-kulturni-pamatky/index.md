@@ -1,7 +1,7 @@
 ---
 title: "Úřad umožnil devastaci kulturní památky"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2014/urad-umoznil-devastaci-kulturni-pamatky"
 date: 2014-07-29
 perex: "<p>Stavební úřad Úřadu městské části Praha 1 nezákonným rozhodnutím umožnil stavební činnost, která závažným a rozsáhlým způsobem zdevastovala nemovitou kulturní památku měšťanský dům „U Tří andělů“ na Hradčanech, v Pražské památkové rezervaci – jednom z nejcennějších památkově chráněných území České republiky zapsaném i na seznamu UNESCO. </p>"

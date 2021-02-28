@@ -1,7 +1,7 @@
 ---
 title: "Hledáme právničky a právníky do našich řad"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2017/hledame-pravnicky-a-pravniky-do-nasich-rad-1"
 date: 2017-06-12
 perex: "<p>Aktuálně hledáme právničky/právníky se zájmem o problematiku

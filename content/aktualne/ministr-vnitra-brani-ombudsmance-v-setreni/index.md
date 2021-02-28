@@ -1,7 +1,7 @@
 ---
 title: "Ministr vnitra brání ombudsmance v šetření"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/ministr-vnitra-brani-ombudsmance-v-setreni"
 date: 2019-02-20
 perex: "<p>Ombudsmanka se rozhodla vyrozumět vládu o tom, že jí Ministerstvo vnitra soustavně znemožňuje provádět šetření jeho postupu. V rozporu se zákonem jí neumožňuje plný přístup k podkladům svých rozhodnutí o žádostech o udělení státního občanství s odvoláním, že jde o utajované informace.</p>"

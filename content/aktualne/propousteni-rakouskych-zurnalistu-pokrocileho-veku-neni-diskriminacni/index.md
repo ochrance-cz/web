@@ -1,7 +1,7 @@
 ---
 title: "Propouštění rakouských žurnalistů pokročilého věku není diskriminační"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2014/propousteni-rakouskych-zurnalistu-pokrocileho-veku-neni-diskriminacni/"
 date: 2014-04-22
 perex: "<p>Podle rakouského nejvyššího soudu může zaměstnavatel nacházející se v ekonomicky obtížné situaci propouštět primárně ty zaměstnance, kteří již mají nárok na předčasný důchod.  </p>"

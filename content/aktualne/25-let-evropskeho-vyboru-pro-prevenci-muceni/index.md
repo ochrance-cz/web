@@ -1,7 +1,7 @@
 ---
 title: "25 let Evropského výboru pro prevenci mučení"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2015/25-let-evropskeho-vyboru-pro-prevenci-muceni"
 date: 2015-03-24
 perex: "<p>CPT své narozeniny oslavil na počátku března konferencí s podtitulem Inventura a vykročení vpřed. Veřejná ochránkyně práv, představitelka českého národního preventivního mechanismu (NPM), byla při tom.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Setkání s organizacemi hájícími práva lidí s postižením"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/setkani-s-organizacemi-hajicimi-prava-lidi-s-postizenim"
 date: 2019-06-14
 perex: "<p>V pátek 14. června pořádá ombudsmanka setkání se zástupci organizací, které hájí práva lidí s postižením. Pro svoji činnost v oblasti monitorování naplňování práv lidí s postižením totiž potřebuje co nejvíce informací, podnětů a zkušeností z praxe.</p>"

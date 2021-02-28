@@ -1,7 +1,7 @@
 ---
 title: "Zpráva ombudsmanky za 2. čtvrtletí"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2018/zprava-ombudsmanky-za-2-ctvrtleti"
 date: 2018-08-02
 perex: "<p>Ombudsmanka zaslala Poslanecké sněmovně zprávu o své činnosti ve 2. čtvrtletí. Informuje v ní o podnětech, s nimiž se na ni lidé obracejí, o ukončených případech, provedených návštěvách míst, kde se nacházejí lidé omezení na svobodě, a o některých dalších tématech, kterým se věnovala např. v rámci připomínkových řízení nebo ve vztahu k Ústavnímu soudu. </p>"

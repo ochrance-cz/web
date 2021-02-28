@@ -1,7 +1,7 @@
 ---
 title: "EU musí lépe chránit práva žen a dívek se zdravotním postižením, vyzývá EHSV"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2018/eu-musi-lepe-chranit-prava-zen-a-divek-se-zdravotnim-postizenim-vyzyva-ehsv/"
 date: 2018-09-10
 perex: "<p>Podle Evropského hospodářského a sociálního výboru (EHSV) se ženy se zdravotním postižením stále potýkají s různými formami diskriminace a často jim hrozí sociální vyloučení a chudoba.</p>"

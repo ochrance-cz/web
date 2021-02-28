@@ -1,7 +1,7 @@
 ---
 title: "Kancelář veřejného ochránce práv se zúčastnila oslav mezinárodního dne znakových jazyků"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2018/kancelar-verejneho-ochrance-prav-se-zucastnila-oslav-mezinarodniho-dne-znakovych-jazyku/"
 date: 2018-09-26
 perex: "<p>Dne 22. září 2018 uspořádala Asociace organizací neslyšících, nedoslýchavých a jejich přátel, z.s., zkráceně ASNEP, z. s., u příležitosti Mezinárodního dne znakových jazyků celodenní zábavně vzdělávací akci.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Příběhy, které inspirují – diskriminace z důvodu pohlaví"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2019/pribehy-ktere-inspiruji-diskriminace-z-duvodu-pohlavi/"
 date: 2019-03-20
 perex: "<p>Veřejná ochránkyně práv vydala nový leták, v němž informuje o pěti případech diskriminace z důvodu pohlaví, které v uplynulých letech řešila a v nichž se podařilo zajistit nápravu.</p>"

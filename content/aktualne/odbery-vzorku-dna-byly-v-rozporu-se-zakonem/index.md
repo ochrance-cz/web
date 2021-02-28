@@ -1,7 +1,7 @@
 ---
 title: "Odběry vzorků DNA byly v rozporu se zákonem"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2008/odbery-vzorku-dna-byly-v-rozporu-se-zakonem"
 date: 2008-02-27
 perex: "<p></p>"

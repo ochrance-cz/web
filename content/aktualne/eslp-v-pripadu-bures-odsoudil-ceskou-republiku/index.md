@@ -1,7 +1,7 @@
 ---
 title: "ESLP v případu Bureš odsoudil Českou republiku"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2012/eslp-v-pripadu-bures-odsoudil-ceskou-republiku/"
 date: 2012-11-06
 perex: "<p>Evropský soud pro lidská práva v říjnu 2012 odsoudil Českou republiku v případu pana Bureše za nelidské a ponižující zacházení na záchytce, a tedy za porušení čl. 3 Úmluvy o ochraně lidských práv a základních svobod.</p>"

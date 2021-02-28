@@ -1,7 +1,7 @@
 ---
 title: "Důkazní standard na prokázání jednání v duševní poruše za účelem zneplatnění takového jednání je nadměrně vysoký (Nález Ústavního soudu sp. zn. I. ÚS 173/13)"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2014/dukazni-standard-na-prokazani-jednani-v-dusevni-poruse-za-ucelem-zneplatneni-takoveho/"
 date: 2014-09-22
 perex: "<p></p>"

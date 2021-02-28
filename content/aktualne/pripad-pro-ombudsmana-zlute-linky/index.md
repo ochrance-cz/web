@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Žluté linky"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-ii/pripad-pro-ombudsmana-zlute-linky/"
 date: 2010-02-19
 perex: "<p></p><p>Veřejný ochránce práv řeší stížnosti uživatelů internetu, vstupuje do sporu o účtování tzv.&quot;žluté linky&quot;. </p>"

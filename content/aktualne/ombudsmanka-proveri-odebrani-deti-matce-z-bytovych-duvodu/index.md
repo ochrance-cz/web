@@ -1,7 +1,7 @@
 ---
 title: "Ombudsmanka prověří odebrání dětí matce z bytových důvodů"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2018/ombudsmanka-proveri-odebrani-deti-matce-z-bytovych-duvodu"
 date: 2018-10-05
 perex: "<p></p>"

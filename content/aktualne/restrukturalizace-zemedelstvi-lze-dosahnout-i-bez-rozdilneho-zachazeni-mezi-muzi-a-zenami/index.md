@@ -1,7 +1,7 @@
 ---
 title: "Restrukturalizace zemědělství lze dosáhnout i bez rozdílného zacházení mezi muži a ženami"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2013/restrukturalizace-zemedelstvi-lze-dosahnout-i-bez-rozdilneho-zachazeni-mezi-muzi-a-zenami/"
 date: 2013-06-25
 perex: "<p>Podmínky pro evropskou podporu v zemědělství nesmí diskriminovat ženy. Česká republika musí diskriminaci v zemědělství odstranit.  </p>"

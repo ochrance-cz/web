@@ -1,7 +1,7 @@
 ---
 title: "Kulatý stůl na téma záchytných stanic"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2014/kulaty-stul-na-tema-zachytnych-stanic/"
 date: 2014-04-03
 perex: "<p>Dne 19. 3. 2014 se v sídle veřejného ochránce práv uskutečnil kulatý stůl na téma „Aktuální otázky zacházení s osobami na protialkoholních a protitoxikomanických záchytných stanicích“.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Podělte se s námi o své zkušenosti z aktuální situace v zařízeních sociálních služeb, léčebnách a dalších zařízeních"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/podelte-se-s-nami-o-sve-zkusenosti-z-aktualni-situace-v-zarizenich-socialnich-sluzeb-l"
 date: 2020-11-13
 perex: "<p>Naším úkolem je navštěvovat různé typy zařízení a zjišťovat, jak je zacházeno s lidmi, kteří zde pobývají a v jakých podmínkách žijí. Jedná se například o zařízení sociálních služeb, léčebny, dětské domovy a další. Pokud zjistíme nedostatky, žádáme nápravu přímo po zařízení. Pokud jde o systémové problémy, požadujeme změny po odpovědných úřadech. Aktuálně však z důvodů preventivních opatření proti šíření onemocnění COVID 19 zařízení dočasně nenavštěvujeme. Proto se obracíme na vás, kdo v těchto zařízeních pobýváte nebo zde máte své blízké, abyste se s námi podělili o své zkušenosti.</p>"

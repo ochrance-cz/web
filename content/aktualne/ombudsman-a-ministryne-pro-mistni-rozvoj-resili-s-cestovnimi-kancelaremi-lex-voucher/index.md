@@ -1,7 +1,7 @@
 ---
 title: "Ombudsman a ministryně pro místní rozvoj řešili s cestovními kancelářemi Lex Voucher"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/ombudsman-a-ministryne-pro-mistni-rozvoj-resili-s-cestovnimi-kancelaremi-lex-voucher"
 date: 2020-06-11
 perex: "<p>Na Ministerstvu pro místní rozvoj dnes proběhlo jednání za účasti ministryně Kláry Dostálové, veřejného ochránce práv Stanislava Křečka a předních zástupců českých cestovních kanceláří a agentur. Projednávala se právní úprava obsažená v zákoně o některých opatřeních ke zmírnění dopadů epidemie koronaviru na cestovní ruch a aktuální problémy spojené s postupy cestovních kanceláří.   </p>"

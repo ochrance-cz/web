@@ -1,7 +1,7 @@
 ---
 title: "Promíjení místního poplatku za komunální odpad"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/promijeni-mistniho-poplatku-za-komunalni-odpad"
 date: 2019-06-28
 perex: "<p>Ombudsman se ve své praxi setkává s tím, že obecní úřady chybují při promíjení místního poplatku za provoz systému shromažďování, sběru, přepravy, třídění, využívání a odstraňování komunálních odpadů. Ombudsman proto ve spolupráci s Ministerstvem financí a krajskými úřady připravil nový informační leták, který obecním úřadům při rozhodování pomůže. </p>"

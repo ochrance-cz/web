@@ -1,7 +1,7 @@
 ---
 title: "Značku Ethnic Friendly získali čtyři noví zaměstnavatelé"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2013/znacku-ethnic-friendly-ziskali-ctyri-novi-zamestnavatele/"
 date: 2013-10-24
 perex: "<p>Značka Ethnic Friendly zaměstnavatel umožňuje ocenění zaměstnavatelů, kteří se hlásí k zásadě rovného zacházení s etnicky odlišným obyvatelstvem a ve své personální praxi tuto zásadu dlouhodobě naplňují a dbají o její dodržování. </p>"

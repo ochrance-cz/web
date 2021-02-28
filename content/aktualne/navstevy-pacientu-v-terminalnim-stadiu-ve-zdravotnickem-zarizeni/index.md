@@ -1,7 +1,7 @@
 ---
 title: "Návštěvy pacientů v terminálním stadiu ve zdravotnickém zařízení"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/navstevy-pacientu-v-terminalnim-stadiu-ve-zdravotnickem-zarizeni"
 date: 2020-11-03
 perex: "<p>Zástupkyně ombudsmana Monika Šimůnková se setkává s přibývajícím množstvím dotazů týkajících se návštěv ve zdravotnických zařízeních, zvláště v souvislosti s okamžiky nejsmutnějšími, a to návštěvami umírajících blízkých osob. Zákon o veřejném ochránci práv ji neopravňuje zasahovat do postupu nemocnice v této věci, nemůže proto přímo působit na poskytovatele zdravotních služeb. Rozhodli jsme se ale přehledně shrnout, jaké možnosti lidé v této nelehké situaci během krizových opatření mají.  </p>"

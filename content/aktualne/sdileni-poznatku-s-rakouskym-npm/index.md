@@ -1,7 +1,7 @@
 ---
 title: "Sdílení poznatků s rakouským NPM"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2017/sdileni-poznatku-s-rakouskym-npm/"
 date: 2017-10-19
 perex: "<p></p>"

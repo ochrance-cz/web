@@ -1,7 +1,7 @@
 ---
 title: "Správní poplatky neodpovídají novému stavebnímu zákonu"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2007/spravni-poplatky-neodpovidaji-novemu-stavebnimu-zakonu"
 date: 2007-12-19
 perex: "<p></p>"

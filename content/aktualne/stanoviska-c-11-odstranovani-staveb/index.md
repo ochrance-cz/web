@@ -1,7 +1,7 @@
 ---
 title: "Stanoviska č. 11 - Odstraňování staveb"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2014/stanoviska-c-11-odstranovani-staveb"
 date: 2014-03-12
 perex: "<p>Vydali jsme novou publikaci z řady Stanoviska zaměřenou tentokrát na nejnáročnější postupy podle stavebního zákona, na odstraňování a dodatečné povolování staveb. </p>"

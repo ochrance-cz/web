@@ -1,7 +1,7 @@
 ---
 title: "I policie musí řešit stížnosti řádně"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2008/i-policie-musi-resit-stiznosti-radne"
 date: 2008-02-27
 perex: "<p></p>"

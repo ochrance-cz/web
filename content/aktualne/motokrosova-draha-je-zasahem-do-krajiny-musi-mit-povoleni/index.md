@@ -1,7 +1,7 @@
 ---
 title: "Motokrosová dráha je zásahem do krajiny – musí mít povolení"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2011/motokrosova-draha-je-zasahem-do-krajiny-musi-mit-povoleni"
 date: 2011-12-14
 perex: "<p></p>"

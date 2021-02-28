@@ -1,7 +1,7 @@
 ---
 title: "Průlom v důchodech osob dlouhodobě pečujících o blízkého"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2007/prulom-v-duchodech-osob-dlouhodobe-pecujicich-o-blizkeho"
 date: 2007-07-02
 perex: "<p></p>"

@@ -1,7 +1,7 @@
 ---
 title: "Seriál ČT „Ochránce“ – 6. díl: Památková péče"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2011/serial-ct-ochrance-6-dil-pamatkova-pece-1"
 date: 2011-10-10
 perex: "<p></p><p>Co dělat, když vlastníte dům v památkové zóně a chcete měnit okna? Můžete něco dělat, když chodíte kolem chátrající památky, o kterou se vlastníci nestarají? 6. díl seriálu Ochránce, který v premiéře vysílá ČT2 v úterý 11. 10. v 17:20 hod a v repríze ve středu 12. 10. v 9:30 bude právě o ochraně památek.</p>"

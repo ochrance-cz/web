@@ -1,7 +1,7 @@
 ---
 title: "Ministerstvo zdravotnictví bylo nečinné a ani se za to neomluvilo"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2015/ministerstvo-zdravotnictvi-bylo-necinne-a-ani-se-za-to-neomluvilo"
 date: 2015-09-02
 perex: "<p>Sankce proti Ministerstvu zdravotnictví za nečinnost při vyřizování podnětu k přezkumu závazného stanoviska krajské hygienické stanice ke stavebním změnám haly. </p>"

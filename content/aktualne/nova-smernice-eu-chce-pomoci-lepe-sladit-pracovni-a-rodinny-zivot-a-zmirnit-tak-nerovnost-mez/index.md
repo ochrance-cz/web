@@ -1,7 +1,7 @@
 ---
 title: "Nová směrnice EU chce pomoci lépe sladit pracovní a rodinný život a zmírnit tak nerovnost mezi ženami a muži"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2019/nova-smernice-eu-chce-pomoci-lepe-sladit-pracovni-a-rodinny-zivot-a-zmirnit-tak-nerovnost-mez/"
 date: 2019-12-19
 perex: "<p>Směrnice zavádí opatření, která by měla ulehčit propojení pracovního a soukromého života a podpořit větší rovnost mezi ženami a muži.</p>"

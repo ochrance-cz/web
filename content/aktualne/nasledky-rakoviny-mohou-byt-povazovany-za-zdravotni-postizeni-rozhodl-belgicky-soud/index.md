@@ -1,7 +1,7 @@
 ---
 title: "Následky rakoviny mohou být považovány za zdravotní postižení, rozhodl belgický soud"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2018/nasledky-rakoviny-mohou-byt-povazovany-za-zdravotni-postizeni-rozhodl-belgicky-soud/"
 date: 2018-07-09
 perex: "<p>Podle belgického soudu může rakovina v konečném důsledku zakládat diskriminační důvod.</p>"

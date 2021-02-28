@@ -1,7 +1,7 @@
 ---
 title: "Přeložili jsme Úmluvu o právech osob s postižením do českého znakového jazyka"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/prelozili-jsme-umluvu-o-pravech-osob-s-postizenim-do-ceskeho-znakoveho-jazyka-1"
 date: 2019-09-23
 perex: "<p></p>"

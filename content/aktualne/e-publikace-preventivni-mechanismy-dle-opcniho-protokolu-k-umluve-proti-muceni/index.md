@@ -1,7 +1,7 @@
 ---
 title: "E-publikace: Preventivní mechanismy dle Opčního protokolu k Úmluvě proti mučení"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2017/e-publikace-preventivni-mechanismy-dle-opcniho-protokolu-k-umluve-proti-muceni/"
 date: 2017-05-29
 perex: "<p></p><p>Od května 2017 je možné se seznámit s publikací Preventivní mechanismy dle Opčního protokolu k Úmluvě proti mučení i v elektronické podobě <a href=\"https://rozkotova.cld.bz/SLP-11-2016/1\" target=\"_blank\">zde</a>.</p>"

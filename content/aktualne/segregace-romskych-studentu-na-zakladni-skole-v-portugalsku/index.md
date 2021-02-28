@@ -1,7 +1,7 @@
 ---
 title: "Segregace romských studentů na základní škole v Portugalsku"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2015/segregace-romskych-studentu-na-zakladni-skole-v-portugalsku/"
 date: 2015-01-14
 perex: "<p>Vzdělání je nezadatelné právo a diskriminace v této oblasti je nezákonná, přičemž je možné sladit základní lidská práva, a to právo na přístup ke vzdělání a právo na svou kulturní identitu, vyplývá ze zprávy portugalských expertů. </p>"

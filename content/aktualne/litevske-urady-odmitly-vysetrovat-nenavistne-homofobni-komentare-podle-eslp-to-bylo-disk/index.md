@@ -1,7 +1,7 @@
 ---
 title: "Litevské úřady odmítly vyšetřovat nenávistné homofobní komentáře, podle ESLP to bylo diskriminační"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2020/litevske-urady-odmitly-vysetrovat-nenavistne-homofobni-komentare-podle-eslp-to-bylo-disk/"
 date: 2020-03-27
 perex: "<p>Podle Evropského soudu pro lidská práva (ESLP) vycházelo jednání příslušných orgánů z diskriminačního postoje vůči homosexuálům.</p>"

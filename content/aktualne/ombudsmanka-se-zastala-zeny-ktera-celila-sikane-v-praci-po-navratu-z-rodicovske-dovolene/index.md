@@ -1,7 +1,7 @@
 ---
 title: "Ombudsmanka se zastala ženy, která čelila šikaně v práci po návratu z rodičovské dovolené"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2018/ombudsmanka-se-zastala-zeny-ktera-celila-sikane-v-praci-po-navratu-z-rodicovske-dovolene"
 date: 2018-03-08
 perex: "<p>Na ombudsmanku se obrátila žena, která čelila po návratu z rodičovské dovolené v práci šikaně. Cílem šikany měl být její odchod ze zaměstnání. Žena se opakovaně obrátila na oblastní inspektorát práce (OIP), ale jeho kontroly problémy nevyřešily. Ombudsmanka ve svém šetření konstatovala několik pochybení, kterých se inspektorát dopustil. Především nekonstatoval porušení zákoníku práce v situaci, kdy zaměstnavatel ženě prokazatelně přiděloval práci v době její pracovní neschopnosti.</p>"

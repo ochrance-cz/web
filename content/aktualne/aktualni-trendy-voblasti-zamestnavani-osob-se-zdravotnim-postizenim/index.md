@@ -1,7 +1,7 @@
 ---
 title: "Aktuální trendy v oblasti zaměstnávání osob se zdravotním postižením"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2013/aktualni-trendy-voblasti-zamestnavani-osob-se-zdravotnim-postizenim/"
 date: 2013-02-12
 perex: "<p>Personalisté velkých a středně velkých soukromých společností sdíleli dne 7. února 2013 své zkušenosti s plněním zákonných povinností, které souvisí s uplatněním osob se zdravotním postižením na českém pracovním trhu. Seminář „Zaměstnávání osob se zdravotním postižením“ uspořádala organizace LMC, s níž veřejný ochránce práv spolupracuje v oblasti osvěty a vzdělávání privátního sektoru. Na semináři byly řešeny i praktické příklady z činnosti ochránce jako antidiskriminačního místa.</p>"

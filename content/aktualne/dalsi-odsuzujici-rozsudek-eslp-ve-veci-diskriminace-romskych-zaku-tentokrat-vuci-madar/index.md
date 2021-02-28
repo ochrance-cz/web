@@ -1,7 +1,7 @@
 ---
 title: "Další odsuzující rozsudek ESLP ve věci diskriminace romských žáků, tentokrát vůči Maďarsku"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2013/dalsi-odsuzujici-rozsudek-eslp-ve-veci-diskriminace-romskych-zaku-tentokrat-vuci-madar/"
 date: 2013-02-06
 perex: "<p>Dva maďarští Romové uspěli se svou stížností u Evropského soudu pro lidská práva ve Štrasburku. Namítali porušení svého práva na vzdělání (čl. 2 Protokolu č. 1 k Úmluvě o ochraně lidských práv a svobod) a zákaz diskriminace (čl. 14 Úmluvy). </p>"

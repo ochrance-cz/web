@@ -1,7 +1,7 @@
 ---
 title: "Ombudsman prověří činnost orgánů státní správy v souvislosti s úniky závadných látek do řeky Bečvy"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/ombudsman-proveri-cinnost-organu-statni-spravy-v-souvislosti-s-uniky-zavadnych-latek-do"
 date: 2020-12-02
 perex: "<p></p><p><i>„Už první zpráva v září o úniku nebezpečných látek do Bečvy mne zasáhla, jako snad každého v zemi. Nejen jako ombudsman, ale i jako aktivní rybář jsem byl otřesen závažností a rozsahem vzniklé situace. Věřil jsem, že příslušné správní orgány budou postupovat v souladu se zákony a učiní bezodkladně veškeré kroky k okamžité nápravě a prošetření věci tak, aby se v žádném případě situace neopakovala. Rozpačité informace, které se o postupu úřadů v médiích objevují, a dnešní zpráva o dalším úniku neznámé látky, která způsobila další úhyn ryb, mne však přesvědčují o tom, že je třeba se činností úřadů v této věci zabývat,“</i> vysvětluje ombudsman Stanislav Křeček své rozhodnutí zahájit šetření z vlastní iniciativy (odkazuje na <a href=\"https://www.novinky.cz/domaci/clanek/do-zdecimovane-becvy-opet-unikla-neznama-latka-hynou-ryby-40343968#dop_ab_variant=0&amp;dop_req_id=J327XCqlENw-202012021000&amp;dop_source_zone_name=novinky.sznhp.box&amp;source=hp&amp;seq_no=1&amp;utm_campaign=&amp;utm_medium=z-boxiku&amp;utm_source=www.seznam.cz\" target=\"_blank\">aktuální zprávu z médií</a>).</p>"

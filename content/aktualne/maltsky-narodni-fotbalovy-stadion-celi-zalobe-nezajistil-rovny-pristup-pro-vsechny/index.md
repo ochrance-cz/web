@@ -1,7 +1,7 @@
 ---
 title: "Maltský národní fotbalový stadion čelí žalobě – nezajistil rovný přístup pro všechny"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2013/maltsky-narodni-fotbalovy-stadion-celi-zalobe-nezajistil-rovny-pristup-pro-vsechny/"
 date: 2013-07-09
 perex: "<p>Maltská Národní komise pro osoby se zdravotním postižením žaluje provozovatele národního fotbalového stadionu, protože nezajistil bezbariérový přístup pro osoby se zdravotním postižením.</p>"

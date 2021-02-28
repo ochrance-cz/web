@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Vymáhání penále"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-iii/pripad-pro-ombudsmana-vymahani-penale/"
 date: 2008-06-19
 perex: "<p></p>"

@@ -1,7 +1,7 @@
 ---
 title: "Ombudsmanka zahajuje sérii návštěv domovů pro osoby se zdravotním postižením"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2017/ombudsmanka-zahajuje-serii-navstev-domovu-pro-osoby-se-zdravotnim-postizenim/"
 date: 2017-10-17
 perex: "<p>Jedním z mnoha úkolů veřejné ochránkyně práv je provádět systematické návštěvy zařízení míst, kde se nacházejí nebo mohou nacházet osoby omezené na svobodě veřejnou mocí nebo v důsledku závislosti na poskytované péči, jak je tomu například v domovech pro osoby se zdravotním postižením (DOZP). Začátkem října letošního roku byla zahájena série návštěv těchto zařízení, na něž se pracovníci Kanceláře veřejného ochránce práv zaměřili již v roce 2009, kdy navštívili celkově 25 zařízení tohoto typu. </p>"

@@ -1,7 +1,7 @@
 ---
 title: "Inspektoráty práce neefektivní – nemají dost lidí"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2007/inspektoraty-prace-neefektivni-nemaji-dost-lidi"
 date: 2007-11-15
 perex: "<p></p>"

@@ -1,7 +1,7 @@
 ---
 title: "Estonský soud konstatoval pronásledování učitele ruské národnosti"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2013/estonsky-soud-konstatoval-pronasledovani-ucitele-ruske-narodnosti/"
 date: 2013-12-17
 perex: "<p>Dne 22. října 2013 došel Estonský odvolací soud k závěru, že učitel ruské národnosti, který podal na svého zaměstnavatele stížnost pro diskriminační zacházení, čelil po podání této stížnosti diskriminaci formou pronásledování.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Transgender lidé ve Švédsku budou odškodněni za povinně podstoupené sterilizace"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2018/transgender-lide-ve-svedsku-budou-odskodneni-za-povinne-podstoupene-sterilizace/"
 date: 2018-06-06
 perex: "<p>Švédsko je první zemí na světě, která transgender lidem vyplatí finanční kompenzaci.</p>"

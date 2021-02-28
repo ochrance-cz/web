@@ -1,7 +1,7 @@
 ---
 title: "Výroční zpráva Evropského výboru pro prevenci mučení (CPT)"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2019/vyrocni-zprava-evropskeho-vyboru-pro-prevenci-muceni-cpt/"
 date: 2019-05-15
 perex: "<p>Stejně jako český národní preventivní mechanismus i CPT zveřejnil svou výroční zprávu za rok 2018, v níž shrnuje svoji aktivitu za uplynulý rok a jednu kapitolu věnuje svým doporučením vůči policii v souvislosti s prevencí špatného zacházení.</p>"

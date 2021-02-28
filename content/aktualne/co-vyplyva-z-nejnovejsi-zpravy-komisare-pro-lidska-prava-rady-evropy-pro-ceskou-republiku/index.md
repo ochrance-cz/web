@@ -1,7 +1,7 @@
 ---
 title: "Co vyplývá z nejnovější zprávy Komisaře pro lidská práva Rady Evropy pro Českou republiku?"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2013/co-vyplyva-z-nejnovejsi-zpravy-komisare-pro-lidska-prava-rady-evropy-pro-ceskou-republiku/"
 date: 2013-03-12
 perex: "<p>Komisař pro lidská práva Rady Evropy, Nils Muižnieks, navštívil ve dnech 12. - 15. listopadu loňského roku Českou republiku a následně na základě této návštěvy pojmenoval nejpalčivější problémy, s nimiž se v České republice setkávají menšiny i majoritní společnost při zajištění základních práv.</p>"

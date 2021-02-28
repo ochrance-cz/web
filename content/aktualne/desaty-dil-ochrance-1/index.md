@@ -1,7 +1,7 @@
 ---
 title: "Desátý díl Ochránce"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/ochrance-iii-2013/desaty-dil-ochrance-1/"
 date: 2013-11-08
 perex: "<p>V neděli 10. listopadu můžete na ČT2 od 11:30 h sledovat desátý díl pořadu Ochránce. Ukážeme vám, jak si někdy úřady mezi sebou přehazují problém jako horký brambor a žádný z nich ho nechce řešit. Jindy se naopak nechají ovlivnit a původní stanovisko změní ve váš neprospěch. A na závěr pak přidáme ještě jeden případ podivného postupu policie. Repríza je na programu ve středu 13. 11. ve 13:10 a další opakování jsou pak zařazena do vysílání ČT2 v neděli a úterý vždy po půlnoci.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Hledáme administrativní pracovnici nebo administrativního pracovníka"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2018/hledame-administrativni-pracovnici-nebo-administrativniho-pracovnika"
 date: 2018-07-09
 perex: "<p></p>"

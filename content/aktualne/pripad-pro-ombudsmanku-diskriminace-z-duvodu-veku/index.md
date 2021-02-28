@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmanku: Diskriminace z důvodu věku"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/pripad-pro-ombudsmanku-diskriminace-z-duvodu-veku"
 date: 2019-04-12
 perex: "<p>V neděli 14. 4. pokračuje na ČT2 druhým dílem pořad Případ pro ombudsmanku. Tentokrát se zaměřuje na diskriminaci z důvodu věku, což je v zaměstnání nejčastěji lidmi uváděný důvod nerovného zacházení. V pořadu se dozvíte, jak se proti tomu bránit.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Doporučení ochránce Poslanecké sněmovně"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2009/doporuceni-ochrance-poslanecke-snemovne"
 date: 2009-04-15
 perex: "<p></p><p>Na ochránce se v loňském roce obrátili občané s rekordním počtem 7051 stížností a stoupající trend potvrzují i první měsíce roku 2009. Vysoký počet podnětů svědčí dlouhodobém příznivém hodnocení a důvěru v činnost ochránce ze strany občanů. Na druhou stranu je třeba konstatovat, že tematické zaměření a obsah podnětů jsou stejné, jako tomu bylo v minulých letech, což signalizuje, že v celé řadě oblastí veřejné správy nedošlo dosud k výraznějším změnám nebo nápravě nesprávných postupů.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Nezákonné vyvlastnění"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2018/nezakonne-vyvlastneni"
 date: 2018-01-10
 perex: "<p>Magistrát města Ústí nad Labem nezákonným způsobem vyvlastnil kvůli plynovodu část pozemku a vlastníkům za to přiznal 530 Kč – přibližně šedesátkrát méně, než mohli podle svého znaleckého posudku obdržet. Chybu magistrátu nenapravil ani krajský úřad v odvolacím řízení a právo vlastníkům pozemku upřelo i Ministerstvo pro místní rozvoj. Takové jednání úřadů je v rozporu s principy právního státu založeného na úctě k právům občanů.</p>"

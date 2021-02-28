@@ -1,0 +1,9 @@
+{{ $page := . }}
+
+{{ with .Params.vystupy }}
+  <span class="_tags">
+    {{ range . }}
+      <span class="_tag">{{ with $page.GetPage (print "/vystupy/" .) }}{{ .Title }}{{ end }}</span>
+    {{ end }}
+  </span>
+{{ end }}

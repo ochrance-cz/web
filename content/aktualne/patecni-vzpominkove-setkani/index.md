@@ -1,7 +1,7 @@
 ---
 title: "Páteční vzpomínkové setkání"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2010/patecni-vzpominkove-setkani"
 date: 2010-05-18
 perex: "<p></p>"

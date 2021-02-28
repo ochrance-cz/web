@@ -1,7 +1,7 @@
 ---
 title: "Přiznání placeného svátku pouze pro pracující, kteří patří k určitým církvím, je diskriminací, rozhodl Soudní dvůr EU"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2019/priznani-placeneho-svatku-pouze-pro-pracujici-kteri-patri-k-urcitym-cirkvim-je-disk/"
 date: 2019-04-02
 perex: "<p>Podle Soudního dvora EU představuje rakouská právní úprava přímou diskriminaci na základě náboženského vyznání.</p>"

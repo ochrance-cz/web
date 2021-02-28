@@ -1,7 +1,7 @@
 ---
 title: "Proti certifikátu autorizovaného inspektora zatím jen žaloba"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2011/proti-certifikatu-autorizovaneho-inspektora-zatim-jen-zaloba"
 date: 2011-12-14
 perex: "<p></p>"

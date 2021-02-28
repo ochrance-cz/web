@@ -1,7 +1,7 @@
 ---
 title: "Školení o zacházení v policejních celách"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2014/skoleni-o-zachazeni-v-policejnich-celach/"
 date: 2014-10-07
 perex: "<p>Dne 2. října 2014 proběhlo v kanceláři veřejné ochránkyně práv školení 60 policistů z Jihomoravského kraje. Tématem bylo zacházení s osobami umístěnými v policejních celách.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Ochránkyně v Královéhradeckém kraji"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2014/ochrankyne-v-kralovehradeckem-kraji"
 date: 2014-10-07
 perex: "<p>Osvětová kampaň veřejné ochránkyně práv Anny Šabatové „Zajímáte nás“ pokračuje ve středu 15. října návštěvou Královéhradeckého kraje. Setkání ochránkyně s občany mají za cíl zvyšovat povědomí lidí o jejich právech, povzbudit je v řešení problémů s úřady či diskriminací a informovat je o působnosti veřejného ochránce práv. Zájemci mohou využít návštěvy i k podání podnětu ochránkyni.</p>"

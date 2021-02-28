@@ -1,7 +1,7 @@
 ---
 title: "Seriál Ochránce – 3. díl – stavební řízení"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/ochrance-ii-2012/serial-ochrance-3-dil-stavebni-rizeni-1/"
 date: 2012-09-11
 perex: "<p>V neděli 23. 9. ve 11:20h vysílá ČT2 3. díl pořadu Ochránce o problémech, do kterých se lidé dostávají ve vztahu k úřadům, tentokrát o činnosti stavebních úřadů. Reprízu dílu uvidíte na ČT2 v úterý 25. 9. v 9:00h.</p>"

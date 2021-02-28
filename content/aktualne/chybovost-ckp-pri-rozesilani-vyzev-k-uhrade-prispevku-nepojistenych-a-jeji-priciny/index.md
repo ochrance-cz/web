@@ -1,7 +1,7 @@
 ---
 title: "Chybovost ČKP při rozesílání výzev k úhradě příspěvku nepojištěných a její příčiny dle poznatků ochránkyně"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2014/chybovost-ckp-pri-rozesilani-vyzev-k-uhrade-prispevku-nepojistenych-a-jeji-priciny"
 date: 2014-03-10
 perex: "<p></p>"

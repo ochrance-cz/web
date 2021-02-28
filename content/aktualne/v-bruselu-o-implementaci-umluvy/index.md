@@ -1,7 +1,7 @@
 ---
 title: "V Bruselu o implementaci Úmluvy"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2019/v-bruselu-o-implementaci-umluvy/"
 date: 2019-05-13
 perex: "<p></p>"

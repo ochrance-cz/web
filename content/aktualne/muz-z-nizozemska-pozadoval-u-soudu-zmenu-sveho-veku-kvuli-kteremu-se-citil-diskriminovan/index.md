@@ -1,7 +1,7 @@
 ---
 title: "Muž z Nizozemska požadoval u soudu změnu svého věku, kvůli kterému se cítil diskriminován"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2019/muz-z-nizozemska-pozadoval-u-soudu-zmenu-sveho-veku-kvuli-kteremu-se-citil-diskriminovan/"
 date: 2019-01-14
 perex: "<p>Muž (69 let) doufal, že snížení věku mu přinese více pracovních příležitostí a zvýší šance v milostném životě. Nizozemský soud však jeho žádost odmítl.</p>"

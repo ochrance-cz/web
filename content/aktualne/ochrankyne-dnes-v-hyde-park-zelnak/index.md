@@ -1,7 +1,7 @@
 ---
 title: "Ochránkyně dnes v Hyde Park Zelňák"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2014/ochrankyne-dnes-v-hyde-park-zelnak"
 date: 2014-03-26
 perex: "<p>Další díl série Hyde Park Zelňák, tentokrát s podtitulem Co chce hájit ombudsmanka?, je v plánu dnes od 20.00 hodin v kongresovém sále Divadla Husa na provázku v Brně. Hostem debaty moderované Ivanou Svobodovou (Respekt) a Karlem Škrabalem (MF DNES) bude nová veřejná ochránkyně práv Anna Šabatová. </p>"

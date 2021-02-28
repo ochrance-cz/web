@@ -1,7 +1,7 @@
 ---
 title: "Tvrzení královéhradeckých politiků o „stranickém“ šetření ombudsmana je nepravdivé"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/tvrzeni-kralovehradeckych-politiku-o-stranickem-setreni-ombudsmana-je-nepravdive"
 date: 2020-08-25
 perex: "<p>Ombudsman odmítá tvrzení, že se zabývá stížností na možnou diskriminaci v souvislosti s regionálním předvolebním bojem a že je členem politické strany. Ombudsman je ze zákona nestranný a nezávislý a nesmí být členem žádné politické strany. U stížností nikdy nezkoumá jejich politické pozadí, ale posuzuje pouze možné porušení právních předpisů.</p>"

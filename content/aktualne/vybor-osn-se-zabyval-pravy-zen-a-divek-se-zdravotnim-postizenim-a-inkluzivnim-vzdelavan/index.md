@@ -1,7 +1,7 @@
 ---
 title: "Výbor OSN se zabýval právy žen a dívek se zdravotním postižením a inkluzivním vzděláváním"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2016/vybor-osn-se-zabyval-pravy-zen-a-divek-se-zdravotnim-postizenim-a-inkluzivnim-vzdelavan/"
 date: 2016-11-16
 perex: "<p>Výbor OSN pro práva osob se zdravotním postižením přijal 26. srpna 2016 jako součást Úmluvy o právech osob se zdravotním postižením (dále jen “Úmluva”) dvě obecné připomínky týkající se práv žen a dívek s postižením a inkluzivního vzdělávání osob s postižením.</p>"

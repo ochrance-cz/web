@@ -1,7 +1,7 @@
 ---
 title: "Námitky proti zavedení soudních poplatků u britských zaměstnaneckých tribunálů"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2015/namitky-proti-zavedeni-soudnich-poplatku-u-britskych-zamestnaneckych-tribunalu/"
 date: 2015-01-20
 perex: "<p>Britský soud nevidí problém se zavedením poplatků u zaměstnaneckých tribunálů ani v případech týkajících se diskriminace. V důsledku zavedení poplatkové povinnosti klesl v prvních šesti měsících po zavedení poplatků počet žalob u zaměstnaneckých tribunálů až o 79 %. </p>"

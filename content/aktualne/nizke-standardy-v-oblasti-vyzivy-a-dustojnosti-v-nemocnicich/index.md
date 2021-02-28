@@ -1,7 +1,7 @@
 ---
 title: "Nízké standardy v oblasti výživy a důstojnosti v nemocnicích"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2015/nizke-standardy-v-oblasti-vyzivy-a-dustojnosti-v-nemocnicich/"
 date: 2015-08-04
 perex: "<p>Londýn – Hloubková analýza London School of Economics (LSE) odhalila špatné standardy v oblasti výživy a důstojnosti pro pacienty – seniory v anglických nemocnicích, které vedou k zásadnímu ovlivnění kvality jejich života.</p>"

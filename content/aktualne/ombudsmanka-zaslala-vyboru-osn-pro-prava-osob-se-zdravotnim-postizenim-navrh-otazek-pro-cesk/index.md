@@ -1,7 +1,7 @@
 ---
 title: "Ombudsmanka zaslala Výboru OSN pro práva osob se zdravotním postižením návrh otázek pro Českou republiku"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2019/ombudsmanka-zaslala-vyboru-osn-pro-prava-osob-se-zdravotnim-postizenim-navrh-otazek-pro-cesk/"
 date: 2019-02-21
 perex: "<p></p>"

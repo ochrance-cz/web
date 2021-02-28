@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Rekultivace jako byznys?"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-iv/pripad-pro-ombudsmana-rekultivace-jako-byznys/"
 date: 2008-12-02
 perex: "<p></p>"

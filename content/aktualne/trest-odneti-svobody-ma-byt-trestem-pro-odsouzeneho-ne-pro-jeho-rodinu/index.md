@@ -1,7 +1,7 @@
 ---
 title: "Trest odnětí svobody má být trestem pro odsouzeného, ne pro jeho rodinu"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2016/trest-odneti-svobody-ma-byt-trestem-pro-odsouzeneho-ne-pro-jeho-rodinu"
 date: 2016-12-22
 perex: "<p>Vánoce jsou symbolem klidu, míru a vzájemného porozumění. Jsou to také svátky smíření a odpuštění. Veřejná ochránkyně práv se v těchto dnech obrátila dopisem na ředitele jedné české věznice, aby podpořil cestu z vězení jednoho odsouzeného v tíživé rodinné situaci. Jde o čerstvě ovdovělého otce, na kterého doma čekají dvě nezaopatřené děti. Odsouzený nespáchal žádný závažný zločin. Do vězení se dostal za přečin maření úředního rozhodnutí</p>"

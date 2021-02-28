@@ -1,7 +1,7 @@
 ---
 title: "Neschopnost dohody a nedostatek lidského pochopení zaměstnavatele tvrdě potrestal irský soud"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2014/neschopnost-dohody-a-nedostatek-lidskeho-pochopeni-zamestnavatele-tvrde-potrestal-irsky-soud/"
 date: 2014-03-25
 perex: "<p>Neuvážené ukončení pracovního poměru se zaměstnankyní trpící intrakraniální hypertenzí finančně značně pocítí irský řetězec maloobchodů se smíšeným zbožím.</p>"

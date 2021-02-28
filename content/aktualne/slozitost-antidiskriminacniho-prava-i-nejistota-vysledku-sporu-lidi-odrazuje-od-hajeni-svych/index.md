@@ -1,7 +1,7 @@
 ---
 title: "Složitost antidiskriminačního práva i nejistota výsledku sporu lidi odrazuje od hájení svých práv"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2013/slozitost-antidiskriminacniho-prava-i-nejistota-vysledku-sporu-lidi-odrazuje-od-hajeni-svych"
 date: 2013-02-20
 perex: "<p></p>"

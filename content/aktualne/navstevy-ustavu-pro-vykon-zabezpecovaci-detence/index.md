@@ -1,7 +1,7 @@
 ---
 title: "Návštěvy ústavů pro výkon zabezpečovací detence"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2018/navstevy-ustavu-pro-vykon-zabezpecovaci-detence/"
 date: 2018-03-29
 perex: "<p></p>"

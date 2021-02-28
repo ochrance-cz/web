@@ -1,7 +1,7 @@
 ---
 title: "Okruh lidí s nárokem na příspěvek na zvláštní pomůcku se rozšířil, ale stále to nestačí"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/okruh-lidi-s-narokem-na-prispevek-na-zvlastni-pomucku-se-rozsiril-ale-stale-to-nestac"
 date: 2020-03-05
 perex: "<p>Novela zákona o poskytování dávek osobám se zdravotním postižením sice trochu rozšířila okruh lidí s nárokem na příspěvek na zvláštní pomůcku, ale ty nejpodstatnější problémy neřeší. Například u nároku na příspěvek na motorové vozidlo tak stále nestačí, že mají lidé těžkou poruchu pohyblivosti, ale záleží na tom, co je příčinou jejich stavu. Nespravedlivé rozlišování tak pokračuje.</p>"

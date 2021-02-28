@@ -1,7 +1,7 @@
 ---
 title: "Dojíždíte za prací do jiného státu EU? Zjistěte si, kde žádat o rodičovský příspěvek!"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2015/dojizdite-za-praci-do-jineho-statu-eu-zjistete-si-kde-zadat-o-rodicovsky-prispevek"
 date: 2015-08-19
 perex: "<p>Bydlíte a vychováváte děti v České republice, ale jeden z rodičů pracuje v Německu nebo jiném členském státě EU? Pak musíte dávat pozor, ze které země dostanete vyplacený rodičovský příspěvek. Pravidla pro určení státu, který bude rodičovský příspěvek v těchto případech vyplácet, upravuje nařízení EU.</p>"

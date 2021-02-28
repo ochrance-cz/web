@@ -1,7 +1,7 @@
 ---
 title: "Rodiče mají právo doprovázet své nezletilé děti v průběhu hospitalizace"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2017/rodice-maji-pravo-doprovazet-sve-nezletile-deti-v-prubehu-hospitalizace"
 date: 2017-01-11
 perex: "<p>U dětí mladších 6 let musí nemocnice umožnit pobyt rodičů, nebo zákonných zástupců, a to bez ohledu na pohlaví rodičů. Tato povinnost vyplývá ze zákona o zdravotních službách. Bohužel jsme řešili případ, kdy nemocnice odmítla poskytnout pobyt s dvěma malými dětmi jejich otci. Za přijatelný považovala pouze pobyt matky nebo babičky. Takový postup však odporuje právu na rovné zacházení. </p>"

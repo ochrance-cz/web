@@ -1,7 +1,7 @@
 ---
 title: "Podcast Na kávu s ombudsmanem – Doby pojištění"
-tags:
-  - Podcast
+vystupy:
+  - podcast
 oldUrl: "/aktualne/tiskove-zpravy-2020/podcast-na-kavu-s-ombudsmanem-doby-pojisteni"
 date: 2020-12-11
 perex: "<p></p>"

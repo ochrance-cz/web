@@ -1,7 +1,7 @@
 ---
 title: "Seriál Ochránce – 2. díl – soudní průtahy"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2012/serial-ochrance-2-dil-soudni-prutahy"
 date: 2012-09-12
 perex: "<p>V neděli 16. 9. ve 12:05h vysílá ČT2 2. díl pořadu Ochránce o problémech, do kterých se lidé dostávají ve vztahu k úřadům, tentokrát o právu na spravedlivý proces. Reprízu dílu uvidíte na ČT2 v úterý 18. 9. v 9:00h.</p>"

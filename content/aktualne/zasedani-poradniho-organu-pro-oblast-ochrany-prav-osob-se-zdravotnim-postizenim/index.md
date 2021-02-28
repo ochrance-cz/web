@@ -1,7 +1,7 @@
 ---
 title: "Zasedání poradního orgánu pro oblast ochrany práv osob se zdravotním postižením"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2021/zasedani-poradniho-organu-pro-oblast-ochrany-prav-osob-se-zdravotnim-postizenim"
 date: 2021-01-29
 perex: "<p>Ve středu 27. ledna se sešel poprvé v tomto roce poradní orgán pro monitorování práv lidí s postižením. Setkání se vzhledem k epidemii konalo online. Hlavním tématem jednání bylo zaměstnávání a práce lidí s postižením a problémy, kterým na pracovním trhu čelí. Na jednání byla diskutována také aktuální problematika týkající se přístupnosti testovacích a očkovacích míst pro lidi s postižením. V této věci se zástupkyně ombudsmana Monika Šimůnková, která poradnímu orgánu předsedá, obrátila na ministra zdravotnictví. Zvolen byl také nový místopředseda poradního orgánu, jímž se stal právník Jiří Černý. </p>"

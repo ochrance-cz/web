@@ -1,7 +1,7 @@
 ---
 title: "Ženy v EU vydělávají v průměru o 14,1 % méně než muži"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2020/zeny-v-eu-vydelavaji-v-prumeru-o-141-mene-nez-muzi/"
 date: 2020-12-14
 perex: "<p>Podle Evropské komise jsou nižší platy žen důsledkem řady nerovností, kterým čelí v přístupu k pracovním odměnám, v kariérním postupu či obecně v přístupu na trh práce. </p>"

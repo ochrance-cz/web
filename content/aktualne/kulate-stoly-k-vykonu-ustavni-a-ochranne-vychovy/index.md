@@ -1,7 +1,7 @@
 ---
 title: "Kulaté stoly k výkonu ústavní a ochranné výchovy"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2011/kulate-stoly-k-vykonu-ustavni-a-ochranne-vychovy/"
 date: 2011-11-11
 perex: "<p></p>"

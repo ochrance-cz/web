@@ -1,7 +1,7 @@
 ---
 title: "Ochránce ke stavu v českých věznicích"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2009/ochrance-ke-stavu-v-ceskych-veznicich"
 date: 2009-07-14
 perex: "<p></p><p>Na veřejného ochránce práv se obrátil generální ředitel Vězeňské služby ČR, genmjr. PhDr. Luděk Kula v souvislosti s požadavkem vládního usnesení z června 2009 na další snížení funkčních míst ve Vězeňské službě ČR. Ve svém dopise generální ředitel Vězeňské služby ČR poukazuje na již tak nedostatečný počet pracovníků Vězeňské služby ČR (zejména občanských zaměstnanců) a na souběžný nárůst odsouzených.</p>"

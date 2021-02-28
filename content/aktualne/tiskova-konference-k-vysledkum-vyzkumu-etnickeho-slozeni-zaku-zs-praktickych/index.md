@@ -1,7 +1,7 @@
 ---
 title: "Tisková konference k výsledkům výzkumu etnického složení žáků ZŠ praktických"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2012/tiskova-konference-k-vysledkum-vyzkumu-etnickeho-slozeni-zaku-zs-praktickych"
 date: 2012-06-05
 perex: "<p></p>"

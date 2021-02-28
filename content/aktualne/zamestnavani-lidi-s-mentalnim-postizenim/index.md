@@ -1,7 +1,7 @@
 ---
 title: "Zaměstnávání lidí s mentálním postižením"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2018/zamestnavani-lidi-s-mentalnim-postizenim/"
 date: 2018-10-17
 perex: "<p></p>"

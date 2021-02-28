@@ -1,7 +1,7 @@
 ---
 title: "Příspěvky z konference Aktuální problémy vězeňství"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2013/prispevky-z-konference-aktualni-problemy-vezenstvi-1/"
 date: 2013-01-29
 perex: "<p></p>"

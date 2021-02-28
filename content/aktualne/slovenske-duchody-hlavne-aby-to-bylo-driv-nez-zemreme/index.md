@@ -1,7 +1,7 @@
 ---
 title: "Slovenské důchody: „Hlavně aby to bylo dřív, než zemřeme“"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2008/slovenske-duchody-hlavne-aby-to-bylo-driv-nez-zemreme"
 date: 2008-07-14
 perex: "<p></p>"

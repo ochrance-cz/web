@@ -1,7 +1,7 @@
 ---
 title: "Setkání ombudsmanů V4"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2015/setkani-ombudsmanu-v4"
 date: 2015-10-05
 perex: "<p></p>"

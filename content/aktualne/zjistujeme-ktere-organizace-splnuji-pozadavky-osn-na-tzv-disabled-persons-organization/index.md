@@ -1,7 +1,7 @@
 ---
 title: "Zjišťujeme, které organizace splňují požadavky OSN na tzv. Disabled Persons‘ Organization"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2018/zjistujeme-ktere-organizace-splnuji-pozadavky-osn-na-tzv-disabled-persons-organization/"
 date: 2018-11-14
 perex: "<p></p>"

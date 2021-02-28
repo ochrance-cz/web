@@ -1,7 +1,7 @@
 ---
 title: "Přečtěte si samostatnou výroční zprávu o ochraně před diskriminací za rok 2015"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2016/prectete-si-samostatnou-vyrocni-zpravu-o-ochrane-pred-diskriminaci-za-rok-2015/"
 date: 2016-08-22
 perex: "<p>Letos poprvé předkládá ochránkyně veřejnosti samostatnou výroční zprávu o své činnosti ve věcech práva na rovné zacházení a ochrany před diskriminací.</p>"

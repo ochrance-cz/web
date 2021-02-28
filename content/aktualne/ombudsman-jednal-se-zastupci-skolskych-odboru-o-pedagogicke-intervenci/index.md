@@ -1,7 +1,7 @@
 ---
 title: "Ombudsman jednal se zástupci školských odborů o pedagogické intervenci"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2021/ombudsman-jednal-se-zastupci-skolskych-odboru-o-pedagogicke-intervenci"
 date: 2021-01-26
 perex: "<p>Ombudsman se sešel se zástupci školských odborů k projednání problematiky pedagogické intervence v souvislosti s novelou nařízení vlády č. 75/2005 Sb. Podstatnou otázkou diskuze byly nejasnosti v tom, jak budou ředitelé škol řešit odměňování či rozvrhování prací mezi jednotlivé vyučující.</p>"

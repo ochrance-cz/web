@@ -1,7 +1,7 @@
 ---
 title: "Soudní dvůr Evropské unie rozhodl o homofobním prohlášení patrona fotbalového klubu"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2013/soudni-dvur-evropske-unie-rozhodl-o-homofobnim-prohlaseni-patrona-fotbaloveho-klubu/"
 date: 2013-06-18
 perex: "<p>Soudní dvůr Evropské unie potvrdil, že se tzv. Rámcová směrnice vztahuje i na případy, kdy patron fotbalového klubu činí homofobní prohlášení ve spojitosti s náborem fotbalistů, ačkoliv nemá právní způsobilost zavazovat nebo zastupovat klub v oblasti zaměstnávání. Dále Soud potvrdil, že taková homofobní prohlášení mohou vést k přesunu důkazního břemene. V neposlední řadě Soud vyslovil názor, že pokud při přijímání nových hráčů došlo k diskriminaci na základě sexuální orientace, není v řízení po zaměstnavateli vyžadováno podání důkazu, jehož předložením by nutně bylo porušeno právo na respektování soukromého života. </p>"

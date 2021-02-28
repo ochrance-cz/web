@@ -1,7 +1,7 @@
 ---
 title: "Slaďování osobního a pracovního života"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2014/sladovani-osobniho-a-pracovniho-zivota"
 date: 2014-10-23
 perex: "<p></p>"

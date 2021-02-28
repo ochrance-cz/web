@@ -1,7 +1,7 @@
 ---
 title: "Návštěvy v zařízeních pro seniory v době epidemie"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/navstevy-v-zarizenich-pro-seniory-v-dobe-epidemie"
 date: 2020-10-01
 perex: "<p>Dnes je Mezinárodní den seniorů a my vám všem přejeme co nejklidnější prožití tohoto významného dne. Nemůžeme ovšem přehlížet, že letošní 1. říjen se od těch předchozích dramaticky liší. Jelikož je druhá vlna epidemie koronaviru v plném proudu, mohli bychom se z té první v mnohém poučit.</p>"

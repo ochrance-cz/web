@@ -1,7 +1,7 @@
 ---
 title: "Nový průzkum odhalil přetrvávající antisemitismus v EU"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2019/novy-pruzkum-odhalil-pretrvavajici-antisemitismus-v-eu/"
 date: 2019-02-13
 perex: "<p>Rozsáhlý průzkum agentury EU pro základní práva (FRA) zjišťoval zkušenosti evropských Židů a Židovek s antisemitismem, diskriminací a projevy nenávisti.</p>"

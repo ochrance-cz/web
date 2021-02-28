@@ -1,7 +1,7 @@
 ---
 title: "K umístění dítěte na psychiatrii kvůli neshodám rodičů"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2007/k-umisteni-ditete-na-psychiatrii-kvuli-neshodam-rodicu"
 date: 2007-07-23
 perex: "<p></p>"

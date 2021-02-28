@@ -1,7 +1,7 @@
 ---
 title: "Ochránkyně se setkala s francouzskou Generální inspektorkou míst, kde se nachází osoby omezené na svobodě"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2014/ochrankyne-se-setkala-s-francouzskou-generalni-inspektorkou-mist-kde-se-nachazi-osoby-omezen/"
 date: 2014-12-01
 perex: "<p>Ochránkyně se sešla s Adeline Hazan, nejvyšší představitelkou francouzského národního preventivních mechanismu. Jednaly spolu u příležitosti setkání zástupců českého, francouzského, gruzínského, maďarského, polského a slovinského národního preventivního mechanismu (NPM) a pracovníků kanceláře slovenské ombudsmanky, které se uskutečnilo ve dnech 27. až 28. listopadu 2014 v Brně.</p>"

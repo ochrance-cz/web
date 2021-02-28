@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Evidence obyvatel"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-vi/pripad-pro-ombudsmana-evidence-obyvatel-1/"
 date: 2010-09-08
 perex: "<p></p><p>V pátek 10. 9. vysílá Česká televize na ČT1 v 18:25 druhý díl šestého cyklu pořadu Případ pro ombudsmana (repríze v pondělí 13. 9. ve 12:25 na ČT2). Díl nazvany Evidence obyvatel vypráví o případu nezákonného postupu úředníků při ohlašování místa trvaného pobytu. Občanské sdružení Z§vůle práva poukázalo na nezákonný postup úředníků na ohlašovně při vyřizování změny místa trvalého pobytu. Upozorňovalo, že může docházet k diskriminaci. Šetření ukázalo, že postup úředníků byl v rozporu se zákonem a tato nestandardní praxe byla posléze zrušena.</p>"

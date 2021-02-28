@@ -1,7 +1,7 @@
 ---
 title: "Šikanu na pracovišti nelze tolerovat"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/sikanu-na-pracovisti-nelze-tolerovat"
 date: 2020-10-29
 perex: "<p>Řešili jsme případ ženy, kterou v práci šikanovala její nadřízená. Žena se obrátila na inspektorát práce, který v případu neshledal žádné vážné pochybení. Zástupkyně ombudsmana Monika Šimůnková však v šetření inspektorátu shledala pochybení několik. Inspektorát práce vyhověl závěrům zástupkyně a v podobným případech bude postupovat dle jejích doporučení. </p>"

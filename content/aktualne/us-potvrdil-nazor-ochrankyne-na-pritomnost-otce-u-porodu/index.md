@@ -1,7 +1,7 @@
 ---
 title: "ÚS potvrdil názor ochránkyně na přítomnost otce u porodu"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2016/us-potvrdil-nazor-ochrankyne-na-pritomnost-otce-u-porodu"
 date: 2016-04-26
 perex: "<p>Ochránkyně vítá rozhodnutí Ústavního soudu, který potvrdil, že právo otce na přítomnost u porodu nemůže být zpoplatněno. Ústavní soud v tomto směru zaujal totožný právní názor, k němuž ochránkyně dospěla ve svých šetřeních a který také Ústavnímu soudu sdělila v rámci projednávání ústavní stížnosti jednoho z otců.</p>"

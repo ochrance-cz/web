@@ -1,7 +1,7 @@
 ---
 title: "Rušení železniční trati Děčín – Oldřichov"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2008/ruseni-zeleznicni-trati-decin-oldrichov"
 date: 2008-11-03
 perex: "<p></p>"

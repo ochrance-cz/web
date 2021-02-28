@@ -1,7 +1,7 @@
 ---
 title: "Antidiskriminace a české soudy v roce 2016"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2017/antidiskriminace-a-ceske-soudy-v-roce-2016/"
 date: 2017-02-02
 perex: "<p>Osoba žijící v registrovaném partnerství může osvojit dítě. Základní škola má povinnost přijmout spádového žáka s postižením. To jsou dvě klíčová soudní rozhodnutí roku 2016.</p>"

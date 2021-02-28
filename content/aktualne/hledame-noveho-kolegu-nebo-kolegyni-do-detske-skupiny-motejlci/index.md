@@ -1,7 +1,7 @@
 ---
 title: "Hledáme nového kolegu nebo kolegyni do dětské skupiny Motejlci"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2018/hledame-noveho-kolegu-nebo-kolegyni-do-detske-skupiny-motejlci"
 date: 2018-02-12
 perex: "<p></p>"

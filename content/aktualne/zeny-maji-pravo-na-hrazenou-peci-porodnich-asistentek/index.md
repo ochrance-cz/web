@@ -1,7 +1,7 @@
 ---
 title: "Ženy mají právo na hrazenou péči porodních asistentek"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2018/zeny-maji-pravo-na-hrazenou-peci-porodnich-asistentek"
 date: 2018-06-22
 perex: "<p>Porodní asistentky nabízí možnost domácí návštěvy těhotné ženy či matky v období šestinedělí. Pomáhají ženám zvládnout náročné životní období. Porodní asistentky mohou poskytovat a zajišťovat základní a specializovanou ošetřovatelskou péči těhotné ženě, rodící ženě a ženě do šestého týdne po porodu (tzv. šestinedělce). V některých krajích je jejich péče běžně dostupná a hrazená ze zdravotního pojištění. V jiných krajích jsou jejich služby takřka nedostupné. Není přitom jasné, proč existují tak velké regionální rozdíly. </p>"

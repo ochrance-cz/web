@@ -1,7 +1,7 @@
 ---
 title: "Výsledek soudního přezkumu dostupnosti sociální služby pro děti s autismem"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2016/vysledek-soudniho-prezkumu-dostupnosti-socialni-sluzby-pro-deti-s-autismem/"
 date: 2016-04-18
 perex: "<p>Problém dostupnosti sociální služby má podobu veřejného subjektivního práva, se soudně vymahatelným nárokem. Zásahová žaloba je přípustná. Soud se přitom zabývá otázkami, zda byly naplněny standardy vyplývající ze zákonného provedení sociálních práv a zda konkrétní způsob zajišťování sociálních práv nezasahuje do jejich esenciální podstaty, není diskriminační a vyhovuje testu racionality.</p>"

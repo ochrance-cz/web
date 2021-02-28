@@ -1,7 +1,7 @@
 ---
 title: "Chátrání železniční stanice v Děčíně"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2014/chatrani-zeleznicni-stanice-v-decine"
 date: 2014-01-30
 perex: "<p>Na seznamu nejohroženějších kulturních památek v České republice je i 7 objektů železničního stavitelství. K nejzanedbanějším patří i budova železniční stanice bývalé Rakouské severozápadní dráhy Děčín-východ v Ústeckém kraji, jejímž stavem se zabýval i ombudsman.</p>"

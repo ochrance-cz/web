@@ -1,7 +1,7 @@
 ---
 title: "Musí se ženatý transsexuál rozvést, aby mohl postoupit změnu pohlaví? Rozhodne italský Ústavní soud."
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2013/musi-se-zenaty-transsexual-rozvest-aby-mohl-postoupit-zmenu-pohlavi-rozhodne-italsky-usta/"
 date: 2013-08-01
 perex: "<p>Italský Nejvyšší soud (Corte di Cassazione) přerušil soudní řízení, v němž řeší automatické ukončení manželství jednoho páru z důvodu, že manžel podstoupil změnu pohlaví.  </p>"

@@ -1,7 +1,7 @@
 ---
 title: "Neregistrovaná zařízení sociálních služeb v době epidemie"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/neregistrovana-zarizeni-socialnich-sluzeb-v-dobe-epidemie"
 date: 2020-12-02
 perex: "<p>V současnosti se provádí plošné antigenní testování na onemocnění COVID 19 v zařízeních sociálních služeb a míří do nich také potřebné ochranné zdravotní prostředky. Určitá část péče o seniory je však poskytována mimo systém, v neregistrovaných zařízeních sociálních služeb, která poskytují péči bez oprávnění a bez kontroly.</p>"

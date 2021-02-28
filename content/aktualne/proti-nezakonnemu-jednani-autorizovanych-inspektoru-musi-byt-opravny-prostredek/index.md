@@ -1,7 +1,7 @@
 ---
 title: "Proti nezákonnému jednání autorizovaných inspektorů musí být opravný prostředek"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2010/proti-nezakonnemu-jednani-autorizovanych-inspektoru-musi-byt-opravny-prostredek"
 date: 2010-06-15
 perex: "<p></p><p>Činnost autorizovaných inspektorů může za současného právního stavu vést k nezvratnému dotčení a omezení práv osob, které by jinak byly účastníky stavebního řízení. Stejně tak mohou být vydáním certifikátu autorizovaného inspektora omezeny veřejné zájmy, které by jinak byly chráněny stavebními úřady. I v případě, že autorizovaný inspektor postupoval v rozporu se zákonem, totiž není možné domáhat se zrušení či změny vydaného certifikátu. </p>"

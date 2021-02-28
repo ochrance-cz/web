@@ -1,7 +1,7 @@
 ---
 title: "Stanoviska ochránce k řízením u Ústavního soudu"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2013/stanoviska-ochrance-k-rizenim-u-ustavniho-soudu"
 date: 2013-12-02
 perex: "<p>Ochránce, jako vedlejší účastník řízení, zaslal Ústavnímu soudu své stanovisko k návrhu senátorů na zrušení povinné kauce 20 milionů Kč pro distributory pohonných hmot. </p>"

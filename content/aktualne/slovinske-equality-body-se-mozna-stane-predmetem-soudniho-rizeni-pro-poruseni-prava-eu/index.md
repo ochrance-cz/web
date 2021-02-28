@@ -1,7 +1,7 @@
 ---
 title: "Slovinské equality body se možná stane předmětem soudního řízení pro porušení práva EU"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2014/slovinske-equality-body-se-mozna-stane-predmetem-soudniho-rizeni-pro-poruseni-prava-eu/"
 date: 2014-11-11
 perex: "<p>Evropská komise upozornila oficiálním dopisem Slovinsko na zahájení řízení pro porušení povinnosti vzhledem k tomu, že slovinská instituce pro podporu rovného zacházení nefunguje v souladu s evropskými směrnicemi.</p>"

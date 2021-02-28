@@ -1,7 +1,7 @@
 ---
 title: "Evropský institut pro rovnost žen a mužů vyhlašuje anketu \"Ženy inspirující Evropu\""
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2012/evropsky-institut-pro-rovnost-zen-a-muzu-vyhlasuje-anketu-zeny-inspirujici-evropu/"
 date: 2012-06-02
 perex: "<p>Z profilů dvanácti vybraných žen bude následně sestaven kalendář na rok 2013. </p>"

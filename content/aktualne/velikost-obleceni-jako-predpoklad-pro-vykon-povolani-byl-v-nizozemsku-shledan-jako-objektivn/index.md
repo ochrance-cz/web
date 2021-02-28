@@ -1,7 +1,7 @@
 ---
 title: "Velikost oblečení jako předpoklad pro výkon povolání byl v Nizozemsku shledán jako objektivně odůvodněný požadavek"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2015/velikost-obleceni-jako-predpoklad-pro-vykon-povolani-byl-v-nizozemsku-shledan-jako-objektivn/"
 date: 2015-06-22
 perex: "<p>Neúspěšná žadatelka o práci si stěžovala u Nizozemského institutu pro lidská práva (NIHR) na rozhodnutí marketingové společnosti o nepřijetí do pracovního poměru z důvodu její velikosti oblečení. NIHR shledal požadavek určité velikosti oblečení (předpokladu pro výkon povolání) jako objektivně odůvodněný požadavek. </p>"

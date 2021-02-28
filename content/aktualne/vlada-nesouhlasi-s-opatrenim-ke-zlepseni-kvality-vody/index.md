@@ -1,7 +1,7 @@
 ---
 title: "Vláda nesouhlasí s opatřením ke zlepšení kvality vody"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2015/vlada-nesouhlasi-s-opatrenim-ke-zlepseni-kvality-vody"
 date: 2015-12-14
 perex: "<p>Vláda odmítla opatření, které by umožnilo zlepšit kvalitu vody v řekách a vodních nádržích. Veřejná ochránkyně práv osobně vládu upozornila, že podle jejích zjištění nepracují čistírny odpadních na plný výkon. Do vodních toků a nádrží je tak vypouštěno víc znečišťujících látek a kvalita vody se zhoršuje.</p>"

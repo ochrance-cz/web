@@ -1,7 +1,7 @@
 ---
 title: "Nový seriál „Ochránce“ na ČT2"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2011/novy-serial-ochrance-na-ct2"
 date: 2011-08-31
 perex: "<p></p><p>V úterý 6. 9. začíná ČT2 vysílat nový seriál „Ochránce“. Vždy v úterý v 17:20 nebo v repríze ve středu v 9:35 hod se diváci budou setkávat s příběhy lidí, kteří se dostali do potíží s úřady, a když už nevěděli kudy kam, obrátili se na ombudsmana. Často se jedná o situace a problémy, do nichž se může dostat prakticky kdokoli. Ombudsman proto nejen komentuje konkrétní případy, ale v každém díle přináší i rady, jak by měli lidé v podobných situacích postupovat, jaká jsou jejich práva, na koho se při řešení problémů obracet, co mají po úřadech chtít.</p>"

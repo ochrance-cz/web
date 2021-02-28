@@ -1,7 +1,7 @@
 ---
 title: "Jen důslednost stavebních úřadů zabrání černým stavbám"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2011/jen-duslednost-stavebnich-uradu-zabrani-cernym-stavbam"
 date: 2011-03-23
 perex: "<p></p><p>Kdo porušuje zákon a staví bez povolení, nesmí být ve výhodě oproti těm, kdo zákony respektují a dodržují. Pokud stavební úřady nebudou důsledně a přísně postihovat vlastníky „černých“ staveb, fakticky se staví na stranu porušování zákona. V právním státě není možné podobné jednání akceptovat. </p>"

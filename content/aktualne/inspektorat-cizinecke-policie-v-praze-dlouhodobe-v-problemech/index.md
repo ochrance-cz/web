@@ -1,7 +1,7 @@
 ---
 title: "Inspektorát cizinecké policie v Praze dlouhodobě v problémech"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2008/inspektorat-cizinecke-policie-v-praze-dlouhodobe-v-problemech"
 date: 2008-09-10
 perex: "<p></p>"

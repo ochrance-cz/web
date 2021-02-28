@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Hluk a prach"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-iii/pripad-pro-ombudsmana-hluk-a-prach/"
 date: 2008-05-29
 perex: "<p></p>"

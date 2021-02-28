@@ -1,7 +1,7 @@
 ---
 title: "Ombudsmanka žádá vládu o nápravu nezákonné praxe v oblasti stavebního řádu"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2016/ombudsmanka-zada-vladu-o-napravu-nezakonne-praxe-v-oblasti-stavebniho-radu"
 date: 2016-12-08
 perex: "<p>Ministerstvo pro místní rozvoj je dlouhodobě nečinné v řešení náhradního výkonu rozhodnutí stavebních úřadů vydaných ve veřejném zájmu. Veřejná ochránkyně práv proto žádá vládu, aby ministerstvu uložila vytvořit program s pravidly poskytování finančních prostředků ze státního rozpočtu ke krytí nákladů na výkon těchto rozhodnutí.</p>"

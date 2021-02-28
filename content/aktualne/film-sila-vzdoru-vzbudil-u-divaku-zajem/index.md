@@ -1,7 +1,7 @@
 ---
 title: "Film Síla vzdoru vzbudil u diváků zájem"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2019/film-sila-vzdoru-vzbudil-u-divaku-zajem/"
 date: 2019-05-07
 perex: "<p></p>"

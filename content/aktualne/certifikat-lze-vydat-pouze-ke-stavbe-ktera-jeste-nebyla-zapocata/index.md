@@ -1,7 +1,7 @@
 ---
 title: "Certifikát lze vydat pouze ke stavbě, která ještě nebyla započata"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2013/certifikat-lze-vydat-pouze-ke-stavbe-ktera-jeste-nebyla-zapocata"
 date: 2013-12-17
 perex: "<p></p>"

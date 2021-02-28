@@ -1,7 +1,7 @@
 ---
 title: "Reprízy pořadu Ochránce"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2014/reprizy-poradu-ochrance"
 date: 2014-07-21
 perex: "<p></p>"

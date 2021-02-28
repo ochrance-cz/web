@@ -1,7 +1,7 @@
 ---
 title: "Seriál ČT „Ochránce“ – díl 2 – Soudní průtahy"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/ochrance-i-2011/serial-ct-ochrance-dil-2-soudni-prutahy-1/"
 date: 2011-09-09
 perex: "<p></p><p>V úterý 13. 9. v 17:20 hod vysílá ČT2 druhý díl seriálu Ochránce věnovaný tentokrát průtahům v soudních řízeních. Reprízu dílu uvidíte na ČT2 ve středu v 9:35 hod.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Zkušenosti transsexuálů v EU? Převažuje šikana v zaměstnání a ve škole, uvádí výzkum FRA"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2014/zkusenosti-transsexualu-v-eu-prevazuje-sikana-v-zamestnani-a-ve-skole-uvadi-vyzkum-fr/"
 date: 2014-12-29
 perex: "<p>Agentura pro základní práva Evropské unie (FRA) zveřejnila výzkumnou zprávu, která popisuje diskriminaci transsexuálních osob žijících v EU, a to v různých oblastech života (zaměstnání, vzdělání, služby, zdravotní péče). FRA doporučuje všem státům výrazně posílit ochranu těchto osob, které patří ke zvlášť zranitelným skupinám ve společnosti. </p>"

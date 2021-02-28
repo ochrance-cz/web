@@ -1,7 +1,7 @@
 ---
 title: "Partneři z jiných zemí mohou žít zase spolu"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/partneri-z-jinych-zemi-mohou-zit-zase-spolu"
 date: 2020-12-21
 perex: "<p>Přispěli jsme k prosazení výjimky pro partnery a partnerky občanů Evropské unie žijících v České republice, kteří nemohli kvůli ochranným opatřením vstupovat na její území. Ministerstvo zdravotnictví totiž svým ochranným opatřením stanovilo podmínky vstupu na české území pro zahraniční partnery českých občanů. Tyto podmínky se však nevztahovaly na partnery občanů Evropské unie, kteří v Česku žijí, což podle zástupkyně ombudsmana porušovalo Smlouvu o fungování EU, podle které se musí vztahovat stejná pravidla na občany EU pobývající v ČR jako na české občany.  </p>"

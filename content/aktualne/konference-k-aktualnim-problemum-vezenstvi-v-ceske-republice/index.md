@@ -1,7 +1,7 @@
 ---
 title: "Konference k aktuálním problémům vězeňství v České republice"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2012/konference-k-aktualnim-problemum-vezenstvi-v-ceske-republice"
 date: 2012-11-05
 perex: "<p>Ve čtvrtek 8. 11. pořádá veřejný ochránce práv konferenci „Aktuální problémy vězeňství“. Účastníci budou diskutovat o záměrech Ministerstva spravedlnosti s reformou vězeňství, o tom, jak se finanční krize promítá do podmínek ve věznicích, s jakými problémy se věznice momentálně potýkají apod.</p>"

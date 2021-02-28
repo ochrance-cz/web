@@ -1,7 +1,7 @@
 ---
 title: "Děti mají právo spolurozhodovat o svém budoucím životě. Jejich názor nelze ignorovat"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2017/deti-maji-pravo-spolurozhodovat-o-svem-budoucim-zivote-jejich-nazor-nelze-ignorovat"
 date: 2017-05-22
 perex: "<p>Orgány sociálně-právní ochrany dětí v roli kolizního opatrovníka nemohou být pasivní a pouze čekat na rozhodnutí soudu. Jejich základní povinností je hájit nejlepší zájem dětí při rozvodových konfliktech rodičů. Přesto jsme nedávno uzavřeli případ, kdy sociální pracovnice navštívila děti, jejichž zájem měla hájit, až po druhém soudním líčení a to na výzvu soudu. Na jejich názor ohledně budoucího života se jich nezeptala nikdy. </p>"

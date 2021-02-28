@@ -1,7 +1,7 @@
 ---
 title: "Česká obchodní inspekce nezákonně odpírá informace"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2009/ceska-obchodni-inspekce-nezakonne-odpira-informace"
 date: 2009-01-22
 perex: "<p></p><p>Jestliže orgán státní správy odmítá občanům <span style=\"FONT-WEIGHT: bold\">poskytnout informace</span> o výsledcích správního řízení bez zákonného důvodu, porušuje tím zákon. Setrvávání na takovém postoji navíc vážným způsobem podkopává léta pečlivě budovaný systém transparentnosti a otevřenosti veřejné správy.</p>"

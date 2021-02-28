@@ -1,7 +1,7 @@
 ---
 title: "Zajímáte nás"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2014/zajimate-nas"
 date: 2014-09-17
 perex: "<p>V říjnu zahajuje veřejná ochránkyně práv sérii osvětových návštěv regionů nazvanou „Zajímáte nás“ s cílem setkávat se s občany, vysvětlovat jim jejich práva i to, v čem jim ombudsman může pomoci. Lidé se také budou moci v průběhu návštěvy na ochránkyni obrátit se svými podněty k šetření. Osvětová setkání se konají v rámci projektu Společně k dobré správě financovaného z prostředků Evropského sociálního fondu v ČR.</p>"

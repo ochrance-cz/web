@@ -1,7 +1,7 @@
 ---
 title: "Lidé s tmavou barvou pleti jsou v EU stále vystaveni rasismu a diskriminaci"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2019/lide-s-tmavou-barvou-pleti-jsou-v-eu-stale-vystaveni-rasismu-a-diskriminaci/"
 date: 2019-05-10
 perex: "<p>Nová zpráva agentury EU pro základní práva (FRA) odhaluje problémy, se kterými se lidé afrického původu v zemích EU stále potýkají.</p>"

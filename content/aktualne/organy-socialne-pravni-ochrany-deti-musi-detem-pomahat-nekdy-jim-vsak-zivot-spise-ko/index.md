@@ -1,7 +1,7 @@
 ---
 title: "Orgány sociálně-právní ochrany dětí musí dětem pomáhat. Někdy jim však život spíše komplikují"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2017/organy-socialne-pravni-ochrany-deti-musi-detem-pomahat-nekdy-jim-vsak-zivot-spise-ko"
 date: 2017-02-17
 perex: "<p>Dítě má právo požádat o pomoc a orgán sociálně-právní ochrany dětí (OSPOD) a ten je povinen pomoc v rámci svých možností poskytnout. Smyslem jeho existence je sledovat nejlepší zájem dítěte. Bohužel se občas setkáváme s případy, kdy tomu tak není. Obrátila se na nás šestnáctiletá dívka ve složité životní situaci, kterou však sociální pracovnice významně zlehčovala. Po vleklých sporech s příslušným OSPOD se nám nakonec podařilo zjednat nápravu. </p>"

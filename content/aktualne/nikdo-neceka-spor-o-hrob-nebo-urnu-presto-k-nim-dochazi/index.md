@@ -1,7 +1,7 @@
 ---
 title: "Nikdo nečeká spor o hrob nebo urnu, přesto k nim dochází"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2018/nikdo-neceka-spor-o-hrob-nebo-urnu-presto-k-nim-dochazi"
 date: 2018-10-26
 perex: "<p>V podnětech veřejnému ochránci práv se vždy objevovalo i téma pohřebnictví a práva na pietu. Nejčastěji si lidé stěžují na zrušení hrobu bez vědomí části příbuzných či na nemožnost uctít památku zemřelého kvůli znepřístupnění zpopelněných ostatků. V posledních třech letech šlo o třicítku případů a častěji než v minulosti v nich šlo také o hroby „na věčné časy“.</p>"

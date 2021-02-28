@@ -1,7 +1,7 @@
 ---
 title: "Činnost konzulátů při udělování víz"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2008/cinnost-konzulatu-pri-udelovani-viz"
 date: 2008-09-03
 perex: "<p></p>"

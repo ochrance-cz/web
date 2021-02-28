@@ -1,7 +1,7 @@
 ---
 title: "Výbor OSN pro práva osob se zdravotním postižením zveřejnil seznam otázek pro Českou republiku"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2019/vybor-osn-pro-prava-osob-se-zdravotnim-postizenim-zverejnil-seznam-otazek-pro-ceskou-republi/"
 date: 2019-05-02
 perex: "<p></p>"

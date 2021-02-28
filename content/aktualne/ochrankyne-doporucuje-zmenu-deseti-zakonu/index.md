@@ -1,7 +1,7 @@
 ---
 title: "Ochránkyně doporučuje změnu deseti zákonů"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2014/ochrankyne-doporucuje-zmenu-deseti-zakonu"
 date: 2014-04-17
 perex: "<p>Veřejná ochránkyně práv dnes na tiskové konferenci v Poslanecké sněmovně informovala o nejzávažnějších zjištěních uplynulého roku a problémech, které je třeba řešit změnou zákona. Věří, že se jejími doporučeními bude Poslanecká sněmovna i vláda zabývat.</p>"

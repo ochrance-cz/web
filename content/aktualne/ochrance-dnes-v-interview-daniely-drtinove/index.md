@@ -1,7 +1,7 @@
 ---
 title: "Ochránce dnes v Interview Daniely Drtinové"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2013/ochrance-dnes-v-interview-daniely-drtinove"
 date: 2013-10-17
 perex: "<p></p>"

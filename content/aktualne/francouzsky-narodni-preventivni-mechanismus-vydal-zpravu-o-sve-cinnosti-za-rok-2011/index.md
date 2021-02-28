@@ -1,7 +1,7 @@
 ---
 title: "Francouzský národní preventivní mechanismus vydal zprávu o své činnosti za rok 2011"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2012/francouzsky-narodni-preventivni-mechanismus-vydal-zpravu-o-sve-cinnosti-za-rok-2011/"
 date: 2012-05-23
 perex: "<p></p>"

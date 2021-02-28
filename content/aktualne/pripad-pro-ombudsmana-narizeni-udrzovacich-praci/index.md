@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Nařízení udržovacích prací"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-v/pripad-pro-ombudsmana-narizeni-udrzovacich-praci/"
 date: 2009-11-10
 perex: "<p> </p>"

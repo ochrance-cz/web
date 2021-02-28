@@ -1,7 +1,7 @@
 ---
 title: "Zimní stadion v Jihlavě"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2012/zimni-stadion-v-jihlave"
 date: 2012-07-10
 perex: "<p></p><p>O tom, zda je umístění budovaného zimního stadionu v Jihlavě v souladu se zákonem, rozhodne krajský soud. Právě proto se zástupkyně ombudsmana touto otázkou nezabývala. </p>"

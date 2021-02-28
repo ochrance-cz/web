@@ -1,7 +1,7 @@
 ---
 title: "Aktuálně k aktivitám Oddělení rovného zacházení Kanceláře ombudsmana"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2012/aktualne-k-aktivitam-oddeleni-rovneho-zachazeni-kancelare-ombudsmana/"
 date: 2012-05-15
 perex: "<p>Semináře, konference, workshopy, zasedání, diskuse, kulaté stoly, setkání a shromáždění, kterých se účastní právničky a právníci Oddělení rovného zacházení. </p>"

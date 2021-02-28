@@ -1,7 +1,7 @@
 ---
 title: "Práva osob při ochraně osobních údajů"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2009/prava-osob-pri-ochrane-osobnich-udaju"
 date: 2009-11-11
 perex: "<p> </p><p>Podle zákona o ochraně osobních údajů zpracovává správce údaje se souhlasem fyzické osoby a v mezích uděleného souhlasu. Je nutné, aby: </p>"

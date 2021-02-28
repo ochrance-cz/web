@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Nárok na sirotčí důchod"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-iii/pripad-pro-ombudsmana-narok-na-sirotci-duchod/"
 date: 2008-05-13
 perex: "<p></p>"

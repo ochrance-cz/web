@@ -1,7 +1,7 @@
 ---
 title: "Ochránkyně zveřejnila seznam svých expertů pro LDN"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2015/ochrankyne-zverejnila-seznam-svych-expertu-pro-ldn/"
 date: 2015-04-30
 perex: "<p></p>"

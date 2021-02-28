@@ -1,7 +1,7 @@
 ---
 title: "Účastnili jsme se školení Evropské pohraniční a pobřežní stráže"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2018/ucastnili-jsme-se-skoleni-evropske-pohranicni-a-pobrezni-straze/"
 date: 2018-10-01
 perex: "<p></p>"

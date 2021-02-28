@@ -1,7 +1,7 @@
 ---
 title: "Kauza Vsetín – vyhodnocení uložených opatření k nápravě"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2007/kauza-vsetin-vyhodnoceni-ulozenych-opatreni-k-naprave"
 date: 2007-12-12
 perex: "<p></p>"

@@ -1,7 +1,7 @@
 ---
 title: "Diskuze u ombudsmanky: Jak správně anonymizovat soudní rozhodnutí"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/diskuze-u-ombudsmanky-jak-spravne-anonymizovat-soudni-rozhodnuti"
 date: 2019-11-15
 perex: "<p>I soudní rozhodnutí nižších soudů je třeba zveřejňovat ve společné databázi a anonymizovat je podle jednotných pravidel. Podobně již činí vrcholné soudy. Shodli se na tom zástupci Ministerstva spravedlnosti, Ústavního soudu, Nejvyššího soudu, Nejvyššího správního soudu, krajských a okresních soudů a odborníci z akademické sféry na setkání pořádaném ombudsmankou. Ministerstvo spravedlnosti sjednotí pravidla ve své směrnici pro předsedy soudů a zakomponuje je do aktuálně vyvíjeného anonymizačního softwaru.</p>"

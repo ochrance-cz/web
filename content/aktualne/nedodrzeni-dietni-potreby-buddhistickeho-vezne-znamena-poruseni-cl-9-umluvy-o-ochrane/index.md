@@ -1,7 +1,7 @@
 ---
 title: "Nedodržení dietní potřeby buddhistického vězně znamená porušení čl. 9 Úmluvy o ochraně lidských práv a základních svobod"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2014/nedodrzeni-dietni-potreby-buddhistickeho-vezne-znamena-poruseni-cl-9-umluvy-o-ochrane/"
 date: 2014-03-18
 perex: "<p>Evropský soud pro lidská práva rozhodl o potřebě přizpůsobit se stravovacím potřebám vězňů s náboženským přesvědčením. V opačném případě se jedná o diskriminaci z důvodu náboženského vyznání.</p>"

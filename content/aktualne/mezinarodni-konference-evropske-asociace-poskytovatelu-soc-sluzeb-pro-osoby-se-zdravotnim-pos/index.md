@@ -1,7 +1,7 @@
 ---
 title: "Mezinárodní konference Evropské asociace poskytovatelů soc. služeb pro osoby se zdravotním postižením"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2018/mezinarodni-konference-evropske-asociace-poskytovatelu-soc-sluzeb-pro-osoby-se-zdravotnim-pos/"
 date: 2018-06-19
 perex: "<p>Právnička Kanceláře veřejného ochránce práv se jako jediná zástupkyně z České republiky účastnila zahraniční konference s tématem „Sociální ekonomika jako účinný model sociálního začleňování“.</p>"

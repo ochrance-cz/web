@@ -1,7 +1,7 @@
 ---
 title: "Třetina Britů a Britek připouští, že má předsudky vůči lidem vyššího věku, ukazuje nová zpráva"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2019/tretina-britu-a-britek-pripousti-ze-ma-predsudky-vuci-lidem-vyssiho-veku-ukazuje-nov/"
 date: 2019-12-10
 perex: "<p>Zpráva Ageist Britain? zkoumá zkušenosti lidí s projevy ageismu a užívání stereotypního jazyka vůči starším lidem na sociálních sítích a v médiích.</p>"

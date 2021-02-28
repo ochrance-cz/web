@@ -1,7 +1,7 @@
 ---
 title: "10 základních rad: Jak pomoci oběti šikany na pracovišti?"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2017/10-zakladnich-rad-jak-pomoci-obeti-sikany-na-pracovisti/"
 date: 2017-05-15
 perex: "<p>Pracujete v advokacii, neziskovém sektoru nebo odborové organizaci? Obrátil se na Vás klient nebo klientka s žádostí o radu, jak řešit šikanu na pracovišti? Veřejná ochránkyně práv spolu s Pro bono aliancí připravila informační leták, který je praktickým průvodcem při řešení této problematiky.</p>"

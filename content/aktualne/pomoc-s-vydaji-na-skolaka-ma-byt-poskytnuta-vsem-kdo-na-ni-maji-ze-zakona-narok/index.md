@@ -1,7 +1,7 @@
 ---
 title: "Pomoc s výdaji na školáka má být poskytnuta všem, kdo na ni mají ze zákona nárok"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/pomoc-s-vydaji-na-skolaka-ma-byt-poskytnuta-vsem-kdo-na-ni-maji-ze-zakona-narok"
 date: 2020-08-21
 perex: "<p>Začátek školního roku je pro rodiny spojen s většími výdaji. Pořídit školákovi potřebné vybavení a školní pomůcky vyjde na několik tisíc korun, k nimž je třeba připočítat ještě náklady na školní obědy a zájmové kroužky. Zvlášť pro rodiny s nízkými příjmy či nemajetné je nemožné vlastními silami zajistit dítěti vše potřebné. Stát sice pro tyto situace počítá s dávkou mimořádné okamžité pomoci na úhradu odůvodněných nákladů souvisejících se vzděláním a zájmovou činností nezaopatřeného dítěte, ale výzkum ombudsmana ukázal, že se informovanost rodin a jejich šance tuto dávku na školáka získat v jednotlivých krajích výrazně liší.</p>"

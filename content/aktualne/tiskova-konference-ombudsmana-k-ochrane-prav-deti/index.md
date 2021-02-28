@@ -1,7 +1,7 @@
 ---
 title: "Tisková konference ombudsmana k ochraně práv dětí"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2011/tiskova-konference-ombudsmana-k-ochrane-prav-deti"
 date: 2011-07-13
 perex: "<p></p>"

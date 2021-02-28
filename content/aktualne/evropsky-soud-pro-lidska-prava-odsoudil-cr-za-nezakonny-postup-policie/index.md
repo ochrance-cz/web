@@ -1,7 +1,7 @@
 ---
 title: "Evropský soud pro lidská práva odsoudil ČR za nezákonný postup policie"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2013/evropsky-soud-pro-lidska-prava-odsoudil-cr-za-nezakonny-postup-policie"
 date: 2013-07-30
 perex: "<p></p><p><img src=\"https://www.ochrance.cz/uploads/RTEmagicC_ESLP.jpg.jpg\" style=\"PADDING-RIGHT: 10px; FLOAT: left; PADDING-TOP: 10px\" height=\"181\" width=\"299\" alt=\"\" />Evropský soud pro lidská práva svým rozsudkem ve věci K. vs. Česká republika potvrdil závěry o porušení zákona ze strany Policie ČR, k nimž dospěl svým šetřením i veřejný ochránce práv. Evropský soud pro lidská práva konstatoval, že Česká republika porušila čl. 3 Úmluvy o ochraně lidských práv a základních svobod, podle kterého nesmí být nikdo mučen nebo podrobován nelidskému či ponižujícímu zacházení nebo trestu. V odůvodnění rozsudku soud shrnuje závěry veřejného ochránce práv v této kauze a cituje z jeho zprávy.</p>"

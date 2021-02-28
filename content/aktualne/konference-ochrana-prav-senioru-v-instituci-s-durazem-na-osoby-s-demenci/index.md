@@ -1,7 +1,7 @@
 ---
 title: "Konference „Ochrana práv seniorů v instituci, s důrazem na osoby s demencí“"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2014/konference-ochrana-prav-senioru-v-instituci-s-durazem-na-osoby-s-demenci/"
 date: 2014-01-15
 perex: "<p>Ve dnech 20. - 21. února 2014 pořádá veřejný ochránce práv ve svém sídle na Údolní ulici 39 v Brně mezinárodní odbornou konferenci s názvem „Ochrana práv seniorů v instituci, s důrazem na osoby s demencí“.</p>"

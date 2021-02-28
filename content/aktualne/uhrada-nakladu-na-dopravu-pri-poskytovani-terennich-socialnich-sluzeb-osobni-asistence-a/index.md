@@ -1,7 +1,7 @@
 ---
 title: "Úhrada nákladů na dopravu při poskytování terénních sociálních služeb osobní asistence a pečovatelská služba"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2011/uhrada-nakladu-na-dopravu-pri-poskytovani-terennich-socialnich-sluzeb-osobni-asistence-a/"
 date: 2011-12-05
 perex: "<p></p>"

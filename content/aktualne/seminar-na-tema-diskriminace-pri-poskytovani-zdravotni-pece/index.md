@@ -1,7 +1,7 @@
 ---
 title: "Seminář na téma Diskriminace při poskytování zdravotní péče"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2019/seminar-na-tema-diskriminace-pri-poskytovani-zdravotni-pece/"
 date: 2019-05-15
 perex: "<p></p>"

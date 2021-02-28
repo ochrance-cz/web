@@ -1,7 +1,7 @@
 ---
 title: "Policie ČR neproplácela nezákonně nařizované přesčasy"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2015/policie-cr-neproplacela-nezakonne-narizovane-prescasy"
 date: 2015-11-18
 perex: "<p>Ochránkyně se zastala policisty, kterému Krajské ředitelství policie Moravskoslezského kraje zamítlo žádost o proplacení nezákonně nařizovaných přesčasů. Policistovi byly z důvodu podstavu příslušníků střediska dva roky nařizovány přesčasové služby. Nebyly ale zaplaceny s odůvodněním, že je pokryl služební příjem. Podle ochránkyně byla přesčasová služba nařizována v rozporu se zákonem a judikaturou správních soudů a měla být zaplacena.</p>"

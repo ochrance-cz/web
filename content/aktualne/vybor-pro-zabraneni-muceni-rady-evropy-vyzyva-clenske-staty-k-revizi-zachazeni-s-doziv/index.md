@@ -1,7 +1,7 @@
 ---
 title: "Výbor pro zabránění mučení Rady Evropy vyzývá členské státy k revizi zacházení s doživotně odsouzenými"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2016/vybor-pro-zabraneni-muceni-rady-evropy-vyzyva-clenske-staty-k-revizi-zachazeni-s-doziv/"
 date: 2016-05-06
 perex: "<p>Evropský výbor pro zabránění mučení (CPT) zveřejnil v dubnu 25. obecnou zprávu. Její tematickou část věnoval problematice zacházení s doživotně odsouzenými. Výbor vyzývá členské státy Rady Evropy, aby revidovaly způsob zacházení s těmito vězni s ohledem na individuální zhodnocení rizika a počítaly s tím, že by se jednou mohli také reintegrovat do společnosti. </p>"

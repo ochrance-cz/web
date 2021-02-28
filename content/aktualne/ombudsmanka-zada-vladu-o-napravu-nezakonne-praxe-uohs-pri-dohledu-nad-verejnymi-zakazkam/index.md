@@ -1,7 +1,7 @@
 ---
 title: "Ombudsmanka žádá vládu o nápravu nezákonné praxe ÚOHS při dohledu nad veřejnými zakázkami"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/ombudsmanka-zada-vladu-o-napravu-nezakonne-praxe-uohs-pri-dohledu-nad-verejnymi-zakazkam"
 date: 2019-05-10
 perex: "<p>Vláda v pondělí 13. 5. projedná vyrozumění ombudsmanky o nezákonné praxi Úřadu pro ochranu hospodářské soutěže a její doporučení na změnu zákona o zadávání veřejných zakázek.</p>"

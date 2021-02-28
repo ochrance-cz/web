@@ -1,7 +1,7 @@
 ---
 title: "Pátý díl Ochránce"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2016/paty-dil-ochrance-2"
 date: 2016-02-05
 perex: "<p>V neděli 7. 2. sledujte na ČT2 od 18:15 h pátý díl pořadu Ochránce. Tentokrát se budeme věnovat potížím při zápisu do matriky, když se dítě narodilo doma, obtěžování obyvatel obce provozem průmyslového areálu a také případu podmáčení bytového domu. Reprízy můžete sledovat na ČT2 ve čtvrtek v 19:00 h a v pátek ve 14:10 h.  </p>"

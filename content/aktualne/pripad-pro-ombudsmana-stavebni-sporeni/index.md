@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Stavební spoření"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-i/pripad-pro-ombudsmana-stavebni-sporeni/"
 date: 2010-02-19
 perex: "<p></p><p>Malého Jakuba a jeho maminku vyhodil jeho otec z bytu. Odstěhovali se tedy k dědečkovi, který platil po přechodnou dobu za Jakuba stavební spoření. Úřad, který měl vyplácet dávky sociální péče, zažaloval Jakubovu matku a nutil ji, aby stavební spoření zrušila. Odebral jí sociální dávky a soudně vymáhal vrácení dávek již přeplacených. Matka se po policejních výsleších psychicky zhroutila.</p>"

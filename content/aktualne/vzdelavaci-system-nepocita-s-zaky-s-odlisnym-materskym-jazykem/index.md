@@ -1,7 +1,7 @@
 ---
 title: "Vzdělávací systém nepočítá s žáky s odlišným mateřským jazykem"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/vzdelavaci-system-nepocita-s-zaky-s-odlisnym-materskym-jazykem"
 date: 2020-01-21
 perex: "<p>Ombudsmanka ve spolupráci s organizací META, o.p.s., uspořádala konferenci k současné situaci ve vzdělávání žáků s odlišným mateřským jazykem „Neznalost jazyka neomlouvá!?“ Vzdělávací systém totiž dosud není na tyto žáky připraven, přestože se jejich počet zvyšuje. Chybí koncepce i podpora. Setkání s odborníky se proto zaměřilo na připravované změny v systému podpory žáků s odlišným mateřským jazykem ve vzdělávání a na inspiraci dobrou praxí v zahraničí.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Řízení o příspěvku na péči jsou dlouhá a nezohledňují skutečný stav žadatele"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2010/rizeni-o-prispevku-na-peci-jsou-dlouha-a-nezohlednuji-skutecny-stav-zadatele"
 date: 2010-03-17
 perex: "<p></p><p>V roce 2007 byla přijata nová právní úprava týkající se příspěvku na péči. Od tohoto roku stížností k ochránci přibývá a zcela jednoznačně mezi nimi převládají stížnosti na průtahy v řízení a na problémy související s posuzováním stupně závislosti na péči. Podle informací z MPSV evidovaly Posudkové komise MPSV k 31. 5. 2009 celkem 2482 případů, které nebyly projednány ve lhůtě. Ministerstvu se sice od roku 2008 podařilo počet nevyřízených žádostí výrazně snížit, přesto nejsou plněny zákonné lhůty a zejména řízení v gesci ČSSZ (na straně posudkových lékařů) jsou v průtazích.</p>"

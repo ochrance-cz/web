@@ -1,7 +1,7 @@
 ---
 title: "Svoboda užívání stavby má své meze"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2017/svoboda-uzivani-stavby-ma-sve-meze"
 date: 2017-06-28
 perex: "<p>Často se setkáváme s problémem, kdy je stavba využívána k jinému účelu, než k jakému byla původně zkolaudována. Střetává se zde soukromé právo vlastníka užívat stavbu podle svého s požadavkem práva veřejného, které chrání veřejný zájem. Proto je třeba ustanovení o tom, že stavba může být užívána jen k účelu, ke kterému byla kolaudována vykládat tak, aby byla respektována vůle vlastníka, ale současně chráněn i veřejný zájem. K porušení veřejného zájmu dochází zpravidla tehdy, pokud je nemovitost odňata účelu bydlení, k čemuž byla kolaudována, a bydlení, jak tomuto pojmu rozumíme, je nahrazeno podnikatelským záměrem, který s bydlením nemá nic společného. Krom vnitřních bezpečnostních a hygienických předpisů je nutné posuzovat také vliv užívání stavby na své okolí. Zástupce veřejné ochránkyně práv, JUDr. Stanislav Křeček, šetřil případ, kdy byla stavba zkolaudována jako rodinný dům, ale reálně je využívána jako ubytovací zařízení. Okolí je tak zatěžováno hlukem a zvýšenou dopravou. </p>"

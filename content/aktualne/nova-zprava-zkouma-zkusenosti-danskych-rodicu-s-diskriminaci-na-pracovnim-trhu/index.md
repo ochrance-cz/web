@@ -1,7 +1,7 @@
 ---
 title: "Nová zpráva zkoumá zkušenosti dánských rodičů s diskriminací na pracovním trhu"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2019/nova-zprava-zkouma-zkusenosti-danskych-rodicu-s-diskriminaci-na-pracovnim-trhu/"
 date: 2019-08-13
 perex: "<p>Zpráva Dánského institutu pro lidská práva ukazuje, že během těhotenství, rodičovské dovolené a po návratu do zaměstnání zažilo diskriminaci téměř 45 % žen a 23 % mužů.</p>"

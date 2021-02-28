@@ -1,7 +1,7 @@
 ---
 title: "Ochránce zahajuje tažení proti diskriminaci"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2009/ochrance-zahajuje-tazeni-proti-diskriminaci"
 date: 2009-12-09
 perex: "<p> </p>"

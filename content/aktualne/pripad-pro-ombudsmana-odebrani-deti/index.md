@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Odebrání dětí"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-iii/pripad-pro-ombudsmana-odebrani-deti/"
 date: 2008-06-25
 perex: "<p></p>"

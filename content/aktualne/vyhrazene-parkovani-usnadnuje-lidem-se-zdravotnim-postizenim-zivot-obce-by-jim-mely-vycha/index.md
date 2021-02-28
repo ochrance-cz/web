@@ -1,7 +1,7 @@
 ---
 title: "Vyhrazené parkování usnadňuje lidem se zdravotním postižením život. Obce by jim měly vycházet vstříc"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2016/vyhrazene-parkovani-usnadnuje-lidem-se-zdravotnim-postizenim-zivot-obce-by-jim-mely-vycha"
 date: 2016-12-20
 perex: "<p>Města a obce musí přijímat taková opatření, která umožní osobám se zdravotním postižením využívat parkoviště nabízená veřejnosti. Pokud je to možné a dané osobě to přinese užitek, mají obce povinnost zřizovat vyhrazené parkovací stání. Bohužel se veřejná ochránkyně práv setkává s případy, kdy obce rezignují na individuální posuzování žádostí a na základě vlastních formalistických pravidel je zamítají. </p>"

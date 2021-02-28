@@ -1,7 +1,7 @@
 ---
 title: "Ombudsman se zabývá stavbou „Nová Masaryčka“ v Praze"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/ombudsman-se-zabyva-stavbou-nova-masarycka-v-praze"
 date: 2020-11-05
 perex: "<p>Ombudsman se rozhodl zahájit šetření z vlastní iniciativy a prověřit postup úřadů ve věci stavby „Nová Masaryčka“. Reaguje tak na informace z médií naznačující možné pochybení úřadů u této pražské stavby.</p>"

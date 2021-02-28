@@ -1,7 +1,7 @@
 ---
 title: "Pomoc seniorům jednou z priorit ombudsmanky"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2017/pomoc-seniorum-jednou-z-priorit-ombudsmanky"
 date: 2017-09-29
 perex: "<p>Mezinárodní den seniorů připadající na 1. 10. je připomínkou, že by se společnost měla zajímat o kvalitu života starší generace. Pro ombudsmanku je to jedna z nejdůležitějších skupin lidí, na jejichž problémy se zaměřuje. Neřeší jen potíže jednotlivců, ale zaměřuje se i na zlepšování kvality služeb a na dobré zacházení se seniory v zařízeních sociálních služeb a rovněž na rovné zacházení nejen se seniory, ale i s těmi, kdo o své blízké v seniorském věku pečují.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Ochránkyně žádá vládu o systémové řešení neregistrovaných zařízení"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2015/ochrankyne-zada-vladu-o-systemove-reseni-neregistrovanych-zarizeni"
 date: 2015-09-22
 perex: "<p>Problém existence neregistrovaných zařízení pobytových sociálních služeb a špatného zacházení se seniory v nich nelze odstranit pouze represí, jestliže současně není dostupná legální alternativa. I kdyby úřady neregistrovaná zařízení sociálních služeb důsledně a úplně potlačily, není jasné, co by bylo s množstvím starých a nemocných lidí, kteří v nich nyní žijí, a jak by se zabránilo novému rozvoji těchto zařízení.</p>"

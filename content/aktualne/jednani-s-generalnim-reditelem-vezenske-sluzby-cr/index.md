@@ -1,7 +1,7 @@
 ---
 title: "Jednání s generálním ředitelem Vězeňské služby ČR"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2015/jednani-s-generalnim-reditelem-vezenske-sluzby-cr/"
 date: 2015-02-04
 perex: "<p>Druhé společné jednání ochránkyně Mgr. Anny Šabatové, Ph.D. a generálního ředitele Vězeňské služby ČR brig. gen. PhDr. Pavla Ondráška proběhlo dne 23. 1. 2015 v Brně.</p>"

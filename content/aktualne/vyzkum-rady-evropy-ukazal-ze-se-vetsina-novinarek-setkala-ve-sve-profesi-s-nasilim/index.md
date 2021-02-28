@@ -1,7 +1,7 @@
 ---
 title: "Výzkum Rady Evropy ukázal, že se většina novinářek setkala ve své profesi s násilím"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2017/vyzkum-rady-evropy-ukazal-ze-se-vetsina-novinarek-setkala-ve-sve-profesi-s-nasilim/"
 date: 2017-07-18
 perex: "<p>Výzkum, který probíhal skrze anonymní online dotazník ve 47 členských státech Rady Evropy a Bělorusku s 940 novináři a novinářkami, ukazuje vysokou úroveň sexuálního obtěžování a násilí, které je pácháno zejména na novinářkách během jejich práce.</p>"

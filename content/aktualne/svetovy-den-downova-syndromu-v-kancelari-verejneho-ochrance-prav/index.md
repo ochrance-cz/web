@@ -1,7 +1,7 @@
 ---
 title: "Světový den Downova syndromu v Kanceláři veřejného ochránce práv"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2019/svetovy-den-downova-syndromu-v-kancelari-verejneho-ochrance-prav/"
 date: 2019-03-19
 perex: "<p>Světový den Downova syndromu je celosvětově slaven 21. března. Každoročně je příležitostí, jak informovat širokou veřejnost o geneticky podmíněném postižení nazvaném Downův syndrom a potřebách lidí, kteří se s ním narodili.</p>"

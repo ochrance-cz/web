@@ -1,7 +1,7 @@
 ---
 title: "Již pošesté navštívili Českou republiku zástupci Evropského výboru pro zabránění mučení a nelidskému nebo ponižujícímu zacházení nebo trestání (CPT)"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2018/jiz-poseste-navstivili-ceskou-republiku-zastupci-evropskeho-vyboru-pro-zabraneni-mucen/"
 date: 2018-10-22
 perex: "<p></p>"

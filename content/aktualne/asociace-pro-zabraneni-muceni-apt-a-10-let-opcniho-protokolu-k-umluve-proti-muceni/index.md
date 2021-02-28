@@ -1,7 +1,7 @@
 ---
 title: "Asociace pro zabránění mučení (APT) a 10 let Opčního protokolu k Úmluvě proti mučení"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2016/asociace-pro-zabraneni-muceni-apt-a-10-let-opcniho-protokolu-k-umluve-proti-muceni/"
 date: 2016-07-21
 perex: "<p>APT (Association for the Prevention of Torture) je nevládní organizace se sídlem v Ženevě, která se velkou měrou podílela na tvorbě úmluv o zabránění mučení a stále celosvětově přispívá k prevenci mučení a špatného zacházení.</p>"

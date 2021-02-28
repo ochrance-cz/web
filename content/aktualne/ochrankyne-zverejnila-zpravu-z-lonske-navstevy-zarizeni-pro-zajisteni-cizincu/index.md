@@ -1,7 +1,7 @@
 ---
 title: "Ochránkyně zveřejnila zprávu z loňské návštěvy zařízení pro zajištění cizinců"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2015/ochrankyne-zverejnila-zpravu-z-lonske-navstevy-zarizeni-pro-zajisteni-cizincu/"
 date: 2015-09-29
 perex: "<p></p>"

@@ -1,7 +1,7 @@
 ---
 title: "Ombudsman nemá říkat občanům, jak mají žít"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/ombudsman-nema-rikat-obcanum-jak-maji-zit"
 date: 2020-12-09
 perex: "<p>Loni uplynulo dvacet let od přijetí zákona o veřejném ochránci práv, v letošním roce pak uplyne již sedmdesát let od přijetí Evropské úmluvy o lidských právech a 10. prosince si jako každoročně připomeneme Den lidských práv. Snad je to příležitost k alespoň krátkému zamyšlení nad stavem lidských práv i ombudsmanství u nás.</p>"

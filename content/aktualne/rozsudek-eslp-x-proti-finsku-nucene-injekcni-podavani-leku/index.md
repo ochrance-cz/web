@@ -1,7 +1,7 @@
 ---
 title: "Rozsudek ESLP X. proti Finsku – Nucené injekční podávání léků"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2012/rozsudek-eslp-x-proti-finsku-nucene-injekcni-podavani-leku/"
 date: 2012-08-10
 perex: "<p>Odsuzující rozsudek proti Finsku vynesl Evropský soud pro lidská práva v případu dětské lékařky, která byla v rámci trestního řízení nedobrovolně hospitalizována v psychiatrické léčebně a proti její vůli jí byly injekčně podávány léky.</p>"

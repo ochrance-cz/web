@@ -1,7 +1,7 @@
 ---
 title: "Školení policistů v Liberci"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2015/skoleni-policistu-v-liberci/"
 date: 2015-05-25
 perex: "<p></p>"

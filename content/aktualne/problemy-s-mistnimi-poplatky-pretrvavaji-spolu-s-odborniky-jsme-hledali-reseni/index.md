@@ -1,7 +1,7 @@
 ---
 title: "Problémy s místními poplatky přetrvávají. Spolu s odborníky jsme hledali řešení"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2015/problemy-s-mistnimi-poplatky-pretrvavaji-spolu-s-odborniky-jsme-hledali-reseni"
 date: 2015-06-29
 perex: "<p>O aktuálních problémech správy místních poplatků jsme diskutovali se zástupci Ministerstva financí, krajských a obecních úřadů i akademické obce. Na kulatém stole pořádaném 19. června jsme se dotkli témat jako vyměřování poplatku za komunální odpad nezletilým a jeho následného vymáhání, nebo problémů spojených s místním poplatkem z ubytovací kapacity.</p>"

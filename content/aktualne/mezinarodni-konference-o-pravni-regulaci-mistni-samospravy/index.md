@@ -1,7 +1,7 @@
 ---
 title: "Mezinárodní konference o právní regulaci místní samosprávy"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2008/mezinarodni-konference-o-pravni-regulaci-mistni-samospravy"
 date: 2008-07-09
 perex: "<p></p>"

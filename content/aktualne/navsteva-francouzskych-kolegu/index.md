@@ -1,7 +1,7 @@
 ---
 title: "Návštěva francouzských kolegů"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2011/navsteva-francouzskych-kolegu/"
 date: 2011-09-27
 perex: "<p></p><p>Ve dnech 20. až 24. září 2011 uvítal ochránce tři pracovníky francouzského národního preventivního mechanismu. Pozváním tak oplatil návštěvu, kterou u instituce Contrôleur général des lieux de privation de liberté (<a title=\"Otevření do nového okna\" href=\"http://www.cglpl.fr/\" target=\"_blank\">www.cglpl.fr</a> <img alt=\"\" src=\"https://www.ochrance.cz/typo3/ext/od_linkdesc/icons/external.gif\" class=\"od_linkdesc_icon_external\" />) ve Francii vykonali v březnu 2011 tři pracovníci Kanceláře veřejného ochránce práv.</p>"

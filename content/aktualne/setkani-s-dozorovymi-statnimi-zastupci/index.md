@@ -1,7 +1,7 @@
 ---
 title: "Setkání s dozorovými státními zástupci"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2013/setkani-s-dozorovymi-statnimi-zastupci/"
 date: 2013-10-08
 perex: "<p></p>"

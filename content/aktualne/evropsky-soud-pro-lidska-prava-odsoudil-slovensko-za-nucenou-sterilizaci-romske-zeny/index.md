@@ -1,7 +1,7 @@
 ---
 title: "Evropský soud pro lidská práva odsoudil Slovensko za nucenou sterilizaci romské ženy"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2012/evropsky-soud-pro-lidska-prava-odsoudil-slovensko-za-nucenou-sterilizaci-romske-zeny/"
 date: 2011-11-15
 perex: "<p>Evropský soud pro lidská práva konstatoval v případě V. C. proti Slovensku, ve kterém se romská žena domáhala odškodnění za nucenou sterilizaci, porušení stěžovatelčina práva na ochranu před nelidským a ponižujícím zacházením a porušení práva na ochranu soukromého a rodinného života.</p>"

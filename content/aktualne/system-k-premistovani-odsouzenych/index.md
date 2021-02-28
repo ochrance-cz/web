@@ -1,7 +1,7 @@
 ---
 title: "Systém k přemísťování odsouzených"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2015/system-k-premistovani-odsouzenych/"
 date: 2015-11-20
 perex: "<p>Veřejná ochránkyně práv a její předchůdci dlouhodobě doporučovali vytvořit spravedlivý a racionální systém pro vyřizování žádostí odsouzených o přemístění do jiné věznice. Nyní došlo k pokroku.</p>"

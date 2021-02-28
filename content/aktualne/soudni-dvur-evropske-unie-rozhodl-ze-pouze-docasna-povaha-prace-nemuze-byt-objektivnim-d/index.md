@@ -1,7 +1,7 @@
 ---
 title: "Soudní dvůr Evropské unie rozhodl, že pouze dočasná povaha práce nemůže být objektivním důvodem ospravedlňujícím nerovné zacházení zaměstnanců ve veřejné správě"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2012/soudni-dvur-evropske-unie-rozhodl-ze-pouze-docasna-povaha-prace-nemuze-byt-objektivnim-d/"
 date: 2012-11-02
 perex: "<p>Pět zaměstnankyň italského Národního úřadu pro hospodářskou soutěž se obrátilo na Soudní dvůr Evropské unie, aby se vyjádřil k souladu italské legislativy s evropskou právní úpravou.</p>"

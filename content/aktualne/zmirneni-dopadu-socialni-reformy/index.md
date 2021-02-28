@@ -1,7 +1,7 @@
 ---
 title: "Zmírnění dopadů sociální reformy"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2012/zmirneni-dopadu-socialni-reformy"
 date: 2012-10-31
 perex: "<p></p><p>Od 1. prosince 2012 může být nově přiznán rodičovský příspěvek rodičům, kteří mají dítě závislé na péči do 4 let věku a pobírají na ně příspěvek na péči, pokud nemají vyčerpánu celou maximální částku rodičovského příspěvku, tj. 220 000 Kč. Umožňuje to novela zákona o státní sociální podpoře a změně některých dalších zákonů, která 1. 12. nabývá účinnosti. Žádost o přiznání rodičovského příspěvku od 1. 12. 2012 mohou rodiče podat již nyní, neboť žádost lze podat až 60 dnů přede dnem, od kterého oprávněná osoba dávku žádá.</p>"

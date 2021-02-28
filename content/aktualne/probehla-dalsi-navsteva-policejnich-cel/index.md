@@ -1,7 +1,7 @@
 ---
 title: "Proběhla další návštěva policejních cel"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2015/probehla-dalsi-navsteva-policejnich-cel/"
 date: 2015-11-27
 perex: "<p></p>"

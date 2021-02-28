@@ -1,7 +1,7 @@
 ---
 title: "Francie chce zakázat diskriminaci na základě přízvuku"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2020/francie-chce-zakazat-diskriminaci-na-zaklade-prizvuku/"
 date: 2021-01-08
 perex: "<p>Za porušení zákazu hrozí podle předkládaného zákona pokuta až do výše 45 tisíc eur.</p>"

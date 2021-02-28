@@ -1,7 +1,7 @@
 ---
 title: "Nový pořad Případ pro ombudsmanku na ČT2"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/novy-porad-pripad-pro-ombudsmanku-na-ct2"
 date: 2019-04-05
 perex: "<p>Od neděle 7. 4. začíná Česká televize vysílat nový pořad Případ pro ombudsmanku. Každou neděli dopoledne až do prázdnin se tak na ČT 2 lidé mohou seznámit s případy, kterými se ombudsmanka nebo její zástupce zabývali, a dozví se, jak se některé životní situace dají řešit a s čím jim ombudsman pomůže.</p>"

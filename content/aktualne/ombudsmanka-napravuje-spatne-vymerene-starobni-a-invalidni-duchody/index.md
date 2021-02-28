@@ -1,7 +1,7 @@
 ---
 title: "Ombudsmanka napravuje špatně vyměřené starobní a invalidní důchody"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2015/ombudsmanka-napravuje-spatne-vymerene-starobni-a-invalidni-duchody"
 date: 2015-09-29
 perex: "<p>Nesprávně vyměřené starobní a invalidní důchody nebo jejich nepřiznání ze strany úřadů. To jsou jedny z nejčastějších problémů, se kterými lidem pomáhá veřejná ochránkyně práv Anna Šabatová. Ze strany úřadů se přitom nejedná o úmysl, ale často o chyby pramenící z nedostatku času, který mohou věnovat jednotlivým případům.</p>"

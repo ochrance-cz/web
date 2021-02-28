@@ -1,7 +1,7 @@
 ---
 title: "Návštěva ministra pro lidská práva"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2014/navsteva-ministra-pro-lidska-prava"
 date: 2014-03-13
 perex: "<p>Na pracovní jednání s veřejnou ochránkyní práv přijel dnes ministr pro lidská práva, rovné příležitosti a legislativu Jiří Dienstbier.</p>"

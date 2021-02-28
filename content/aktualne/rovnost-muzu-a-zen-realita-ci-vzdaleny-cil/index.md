@@ -1,7 +1,7 @@
 ---
 title: "Rovnost mužů a žen = realita či vzdálený cíl?"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2012/rovnost-muzu-a-zen-realita-ci-vzdaleny-cil/"
 date: 2012-10-20
 perex: "<p>Dne 20. září 2012 proběhlo na půdě Rady pro lidská práva OSN (Human Rights Council) každoroční diskusní fórum na téma lidských práv a posilování práv žen v rámci OSN.</p>"

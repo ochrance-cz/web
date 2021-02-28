@@ -1,7 +1,7 @@
 ---
 title: "Třetí zasedání poradního orgánu ombudsmanky"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2018/treti-zasedani-poradniho-organu-ombudsmanky/"
 date: 2018-12-04
 perex: "<p>Ve čtvrtek 29. listopadu 2018 se již potřetí sešel poradní orgán ombudsmanky pro oblast ochrany práv osob se zdravotním postižením.</p>"

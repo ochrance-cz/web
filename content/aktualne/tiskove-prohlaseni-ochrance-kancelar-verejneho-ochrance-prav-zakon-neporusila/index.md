@@ -1,7 +1,7 @@
 ---
 title: "Tiskové prohlášení ochránce: Kancelář veřejného ochránce práv zákon neporušila"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2007/tiskove-prohlaseni-ochrance-kancelar-verejneho-ochrance-prav-zakon-neporusila"
 date: 2007-05-24
 perex: "<p></p><p>I přesto, že případ dětí z Kuřimi do působnosti ombudsmana nespadá, rozhodl se ochránce porušit svoji zásadu a vyjádřit se i k případu, v němž nemá žádné pravomoci.</p>"

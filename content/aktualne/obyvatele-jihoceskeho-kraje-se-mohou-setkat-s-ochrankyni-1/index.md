@@ -1,7 +1,7 @@
 ---
 title: "Obyvatelé Jihočeského kraje se mohou setkat s ochránkyní"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2015/obyvatele-jihoceskeho-kraje-se-mohou-setkat-s-ochrankyni-1"
 date: 2015-10-02
 perex: "<p>Obyvatelé Jihočeského kraje mají ve čtvrtek 15. října možnost setkat se s veřejnou ochránkyní práv Annou Šabatovou. V rámci akce „Zajímáte nás“ se dozví víc o působnosti a pravomoci ochránkyně a mohou jí předat podnět k šetření.</p>"

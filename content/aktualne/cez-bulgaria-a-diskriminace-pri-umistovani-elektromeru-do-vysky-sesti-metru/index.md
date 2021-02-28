@@ -1,7 +1,7 @@
 ---
 title: "ČEZ Bulgaria a diskriminace při umisťování elektroměrů do výšky šesti metrů"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2015/cez-bulgaria-a-diskriminace-pri-umistovani-elektromeru-do-vysky-sesti-metru/"
 date: 2015-08-24
 perex: "<p>Bulharský soud se obrátil na Soudní dvůr Evropské unie s žádostí o rozhodnutí předběžných otázek ohledně umisťování elektroměrů do výšky šesti metrů nad zemí. Energetická společnost ČEZ Bulgaria přistoupila k tomuto opatření, aby zamezila manipulaci s elektroměry a neoprávněnému odběru elektrické energie. Vysoko umístěné elektroměry jsou především v „romských čtvrtích“ bulharských měst. Soudní dvůr EU naznačil, že by se mohlo za jistých okolností jednat o diskriminaci.</p>"

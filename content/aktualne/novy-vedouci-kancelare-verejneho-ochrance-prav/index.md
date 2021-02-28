@@ -1,7 +1,7 @@
 ---
 title: "Nový vedoucí Kanceláře veřejného ochránce práv"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2012/novy-vedouci-kancelare-verejneho-ochrance-prav"
 date: 2012-10-03
 perex: "<p></p>"

@@ -1,7 +1,7 @@
 ---
 title: "Otakar Motejl – spravedlnost, demokracie a služba lidem"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2010/otakar-motejl-spravedlnost-demokracie-a-sluzba-lidem"
 date: 2010-05-11
 perex: "<p></p><p>V osobě Otakara Motejla nás opustil člověk, jehož životní moudrost a vytrvalá služba lidem se pro všechny stala vzorem. Byl skautem a až do konce života příkladně naplňoval slova skautského slibu: „Tělem i duší být připraven sloužit vlasti i bližním“. V českém veřejném životě takových lidí není mnoho.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Kulturní diverzita ve švédské praxi – lze vynucovat podání rukou?"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2013/kulturni-diverzita-ve-svedske-praxi-lze-vynucovat-podani-rukou/"
 date: 2013-07-24
 perex: "<p>Švédské soudy považují za diskriminační vynucovat podání rukou v situaci, kdy to osoba (spolupracovník opačného pohlaví) odmítá z náboženských, nebo etnických důvodů.</p>"

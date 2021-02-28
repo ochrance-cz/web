@@ -1,7 +1,7 @@
 ---
 title: "Systém sociálních dávek vykazuje řadu nedostatků"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2009/system-socialnich-davek-vykazuje-radu-nedostatku"
 date: 2009-01-14
 perex: "<p></p><p>Počet podnětů týkajících se dávek neklesá. Vedle konkrétních problémů s přiznáváním jednotlivých dávek se podle zástupkyně veřejného ochránce práv celý systém dlouhodobě potýká s roztříštěností. Dávky státní sociální podpory (celkem 10 různých dávek), dávky pomoci v hmotné nouzi (3 - příspěvek na živobytí, doplatek na bydlení a mimořádná okamžitá pomoc) a dávky pro zdravotně postižené (7 dávek podle zákona o sociálním zabezpečení + příspěvek na péči) nejsou vypláceny na jednom místě. Rozhodují o nich různé úřady, které se obvykle nenacházejí v téže obci a mají i různě stanoveny správní obvody. Například dávky pomoci v hmotné nouzi poskytují pověřené obecní úřady, se žádostí o dávky pro zdravotně postižené se však žadatelé musejí obracet na obecní úřady s rozšířenou působností, které jsou ve větších městech (tzv. malé okresy). Podporu v nezaměstnanosti nebo státní sociální podporu zase vyřizují úřady práce sídlící v okresních městech. Ty také provádějí posouzení zdravotního stavu pro účely přiznání příspěvku na péči.</p>"

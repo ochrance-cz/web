@@ -1,7 +1,7 @@
 ---
 title: "Ministerstvo životního prostředí postupovalo při zamítání dotací z programu Zelená úsporám v rozporu se zákonem"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2013/ministerstvo-zivotniho-prostredi-postupovalo-pri-zamitani-dotaci-z-programu-zelena-uspor"
 date: 2013-08-05
 perex: "<p>Neúspěšní žadatelé o dotace z programu Zelená úsporám, kteří jsou přesvědčeni o oprávněnosti svých námitek, by si měli od Ministerstva životního prostředí vyžádat písemné znění rozhodnutí o svých námitkách, včetně odůvodnění, a následně toto rozhodnutí napadnout správní žalobou u Městského soudu v Praze. </p>"

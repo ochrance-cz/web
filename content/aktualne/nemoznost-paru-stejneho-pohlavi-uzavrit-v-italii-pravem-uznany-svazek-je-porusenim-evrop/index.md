@@ -1,7 +1,7 @@
 ---
 title: "Nemožnost párů stejného pohlaví uzavřít v Itálii právem uznaný svazek je porušením Evropské úmluvy o lidských právech"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2015/nemoznost-paru-stejneho-pohlavi-uzavrit-v-italii-pravem-uznany-svazek-je-porusenim-evrop/"
 date: 2015-08-17
 perex: "<p>Šest občanů Itálie se obrátilo na Evropský soud pro lidská práva ve věci porušení Úmluvy o ochraně lidských práv a základních svobod, protože jim stát neumožňoval žádnou právem uznanou formu partnerství, ať už registrované partnerství či manželství. Namítali jak porušení práva na respektování soukromého a rodinného života (čl. 8), tak práva uzavřít manželství (čl. 12) a také diskriminaci vyplývající z těchto porušení.</p>"

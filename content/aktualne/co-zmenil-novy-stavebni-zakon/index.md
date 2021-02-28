@@ -1,7 +1,7 @@
 ---
 title: "Co změnil nový stavební zákon"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2007/co-zmenil-novy-stavebni-zakon"
 date: 2007-11-14
 perex: "<p></p>"

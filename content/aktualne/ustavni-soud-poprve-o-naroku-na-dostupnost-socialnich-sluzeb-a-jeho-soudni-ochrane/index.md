@@ -1,7 +1,7 @@
 ---
 title: "Ústavní soud poprvé o nároku na dostupnost sociálních služeb a jeho soudní ochraně"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2018/ustavni-soud-poprve-o-naroku-na-dostupnost-socialnich-sluzeb-a-jeho-soudni-ochrane/"
 date: 2018-02-21
 perex: "<p>Nález ve věci sp. zn. I. ÚS 2637/17 ze dne 14. 2. 2018, kterým Ústavní soud rozhodl o stížnosti chlapce trpícího autismem a mentálním postižením na nezajištění sociální služby krajem, obsahuje řadu důležitých poznatků pro aplikaci práva sociálních služeb. Dostupností sociálních služeb se Ústavní soud podrobněji zabýval poprvé.</p>"

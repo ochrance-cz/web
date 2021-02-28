@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Fiktivní výživné"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-i/pripad-pro-ombudsmana-fiktivni-vyzivne/"
 date: 2010-02-19
 perex: "<p></p><p>Na začátku tohoto případu stála otázka: &quot;Jsou všichni sociálně potřební podvodníky?&quot; Na příkladu matek samoživitelek, které z důvodu ochrany dítěte nechtějí zveřejnit jméno otce, lze dokázat, že tomu tak být nemusí a mnohdy vůbec není.</p>"

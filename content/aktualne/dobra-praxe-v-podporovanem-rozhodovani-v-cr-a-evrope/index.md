@@ -1,7 +1,7 @@
 ---
 title: "Dobrá praxe v podporovaném rozhodování v ČR a Evropě"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2020/dobra-praxe-v-podporovanem-rozhodovani-v-cr-a-evrope/"
 date: 2020-06-12
 perex: "<p></p>"

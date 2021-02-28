@@ -1,7 +1,7 @@
 ---
 title: "I nevidomí mají právo užívat bankomaty na rovnoprávném základě s ostatními"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2013/i-nevidomi-maji-pravo-uzivat-bankomaty-na-rovnopravnem-zaklade-s-ostatnimi/"
 date: 2013-09-03
 perex: "<p>V Maďarsku podaly dvě nevidomé osoby žalobu na místní banku (OTP Bank Zrt.) z důvodu placení každoročních poplatků za užívání a transakce, které ale nebyly samy schopny užívat a provádět. Případ se dostal až před Výbor pro práva osob se zdravotním postižením.</p>"

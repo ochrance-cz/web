@@ -1,7 +1,7 @@
 ---
 title: "Veřejný ochránce práv nemá nic společného se sdružením Český ombudsman"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2011/verejny-ochrance-prav-nema-nic-spolecneho-se-sdruzenim-cesky-ombudsman"
 date: 2011-12-06
 perex: "<p></p>"

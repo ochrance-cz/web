@@ -1,7 +1,7 @@
 ---
 title: "Zacházení s dětmi umístěnými v institucích"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2013/zachazeni-s-detmi-umistenymi-v-institucich/"
 date: 2013-06-26
 perex: "<p></p>"

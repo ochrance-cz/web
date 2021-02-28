@@ -1,7 +1,7 @@
 ---
 title: "Soudní dvůr Evropské unie konstatoval v případě nerovného vyplácení doplňkového starobního důchodu diskriminaci na základě sexuální orientace"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2012/soudni-dvur-evropske-unie-konstatoval-v-pripade-nerovneho-vyplaceni-doplnkoveho-starobni/"
 date: 2012-01-05
 perex: "<p>K jednomu z nejdůležitějších judikátů Soudního dvoru Evropské unie za uplynulé období v oblasti diskriminace z důvodu sexuální orientace patří případ Jürgen Römer versus Město Hamburg. Soudní dvůr rozhodl, že doplňkový starobní důchod má být registrovaným partnerům vyplácen ve stejné výši jako v případě manželů. Soudní dvůr dále uvedl, že v návaznosti na postupné přiblížení režimu zavedeného pro registrované partnerství k režimu, kterým se řídí manželství, již neexistují významné právní rozdíly mezi těmito dvěma stavy osob.</p>"

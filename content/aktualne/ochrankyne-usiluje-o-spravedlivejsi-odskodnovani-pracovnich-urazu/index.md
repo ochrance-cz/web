@@ -1,7 +1,7 @@
 ---
 title: "Ochránkyně usiluje o spravedlivější odškodňování pracovních úrazů"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2017/ochrankyne-usiluje-o-spravedlivejsi-odskodnovani-pracovnich-urazu"
 date: 2017-05-24
 perex: "<p>Jedno z letošních doporučení veřejné ochránkyně práv Poslanecké sněmovně směřuje ke zlepšení situace lidí, kteří utrpěli pracovní úraz nebo nemoc z povolání. Ochránkyně usiluje o spravedlivější způsob jejich odškodňování za snížení příjmu kvůli trvalým následkům úrazu či nemoci. Za problematický považuje způsob výpočtu renty se započítáním fiktivního výdělku ve výši minimální mzdy a také rozdílný přístup odškodňujících pojišťoven.</p>"

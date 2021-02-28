@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Sociální potřebnost"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-iii/pripad-pro-ombudsmana-socialni-potrebnost/"
 date: 2008-04-29
 perex: "<p></p>"

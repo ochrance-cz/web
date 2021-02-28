@@ -1,7 +1,7 @@
 ---
 title: "Činnost oddělení dohledu v prvním čtvrtletí 2013"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2013/cinnost-oddeleni-dohledu-v-prvnim-ctvrtleti-2013/"
 date: 2013-04-08
 perex: "<p></p>"

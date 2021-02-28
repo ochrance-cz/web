@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Zápis práva"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2010/pripad-pro-ombudsmana-zapis-prava"
 date: 2010-12-09
 perex: "<p></p><p>V pátek 10. 12. vysílá Česká televize na ČT1 v 18:25 patnáctý díl cyklu Případ pro ombudsmana (repríze v pondělí 13. 12. ve 12:25 na ČT2). Díl nazvaný Zápis práva upozorňuje na možnost odlišného právního názoru ve věci vlastnictví v katastru nemovitostí. </p>"

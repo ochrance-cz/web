@@ -1,7 +1,7 @@
 ---
 title: "Výhrady ochránce k sKartě"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2013/vyhrady-ochrance-k-skarte"
 date: 2013-02-01
 perex: "<p></p>"

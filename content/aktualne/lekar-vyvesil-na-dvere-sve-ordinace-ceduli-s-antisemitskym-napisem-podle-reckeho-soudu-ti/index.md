@@ -1,7 +1,7 @@
 ---
 title: "Lékař vyvěsil na dveře své ordinace ceduli s antisemitským nápisem, podle řeckého soudu tím inicioval rasovou diskriminaci"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2019/lekar-vyvesil-na-dvere-sve-ordinace-ceduli-s-antisemitskym-napisem-podle-reckeho-soudu-ti/"
 date: 2019-09-13
 perex: "<p>Řecký odvolací soud potvrdil původní rozsudek, který lékaře odsoudil k 14 měsícům odnětí svobody a uložil mu pokutu ve výši 2.500,- EUR.</p>"

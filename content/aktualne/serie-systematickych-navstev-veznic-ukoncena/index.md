@@ -1,7 +1,7 @@
 ---
 title: "Série systematických návštěv věznic ukončena"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2015/serie-systematickych-navstev-veznic-ukoncena/"
 date: 2015-05-07
 perex: "<p></p>"

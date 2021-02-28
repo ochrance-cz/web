@@ -1,7 +1,7 @@
 ---
 title: "Dodržování pracovních podmínek polských dělníků"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2008/dodrzovani-pracovnich-podminek-polskych-delniku"
 date: 2008-02-07
 perex: "<p></p>"

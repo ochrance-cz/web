@@ -1,7 +1,7 @@
 ---
 title: "Ochrana práv seniorů v pobytových zařízeních sociálních služeb"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2014/ochrana-prav-senioru-v-pobytovych-zarizenich-socialnich-sluzeb/"
 date: 2014-12-18
 perex: "<p>Ve dnech 19. a 20. listopadu 2014 uspořádalo oddělení dohledu nad omezováním osobní svobody v Kanceláři veřejného ochránce práv konferenci na téma „Ochrana práv seniorů v pobytových zařízeních sociálních služeb“. Mezi přednášejícími byli jak právníci z Kanceláře, tak i odborníci, kteří s Kanceláří dlouhodobě spolupracují a účastnili se i systematických návštěv domovů pro seniory či domovů se zvláštním režimem, jejichž cílovou skupinu tvoří osoby s demencí.</p>"

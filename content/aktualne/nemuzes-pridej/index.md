@@ -1,7 +1,7 @@
 ---
 title: "Nemůžeš? Přidej!"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2018/nemuzes-pridej/"
 date: 2018-06-15
 perex: "<p></p>"

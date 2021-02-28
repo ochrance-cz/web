@@ -1,7 +1,7 @@
 ---
 title: "Lze zakázat nošení náboženské pokrývky hlavy jako součást pracovní uniformy?"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2014/lze-zakazat-noseni-nabozenske-pokryvky-hlavy-jako-soucast-pracovni-uniformy/"
 date: 2014-11-25
 perex: "<p>Norský soud rozhodl, že zákaz nošení náboženské pokrývky hlavy u pracovníků soukromé bezpečnostní služby na letišti není porušením zákazu přímé diskriminace z náboženských důvodů a nepřímé diskriminace z důvodu pohlaví.</p>"

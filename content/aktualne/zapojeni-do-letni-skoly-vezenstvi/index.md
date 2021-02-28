@@ -1,7 +1,7 @@
 ---
 title: "Zapojení do Letní školy vězeňství"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2017/zapojeni-do-letni-skoly-vezenstvi/"
 date: 2017-06-29
 perex: "<p></p>"

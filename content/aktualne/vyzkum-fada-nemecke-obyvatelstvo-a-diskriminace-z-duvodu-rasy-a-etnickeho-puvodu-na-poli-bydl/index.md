@@ -1,7 +1,7 @@
 ---
 title: "Výzkum FADA: německé obyvatelstvo a diskriminace z důvodu rasy a etnického původu na poli bydlení."
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2020/vyzkum-fada-nemecke-obyvatelstvo-a-diskriminace-z-duvodu-rasy-a-etnickeho-puvodu-na-poli-bydl/"
 date: 2020-04-08
 perex: "<p>Německé národní těleso pro rovné zacházení (Federeal Anti-Discrimination Agency, FADA) provedlo na podzim loňského roku výzkum. Předmětem výzkumu bylo zjistit, jaký názor mají obyvatelé Německa na rasovou diskriminaci v oblasti bydlení, zda se sami dotazovaní setkali s diskriminací a zda například vědí o existenci antidiskriminačního zákona.</p>"

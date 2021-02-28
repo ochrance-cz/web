@@ -1,7 +1,7 @@
 ---
 title: "Příručka antidiskriminačního práva pro vzdělávání sociálních pracovníků a pracovnic"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/prirucka-antidiskriminacniho-prava-pro-vzdelavani-socialnich-pracovniku-a-pracovnic"
 date: 2020-09-24
 perex: "<p></p>"

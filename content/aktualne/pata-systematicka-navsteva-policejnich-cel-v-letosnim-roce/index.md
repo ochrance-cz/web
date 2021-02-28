@@ -1,7 +1,7 @@
 ---
 title: "Pátá systematická návštěva policejních cel v letošním roce"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2016/pata-systematicka-navsteva-policejnich-cel-v-letosnim-roce/"
 date: 2016-08-22
 perex: "<p></p>"

@@ -1,7 +1,7 @@
 ---
 title: "Přístupy k nemovitostem – pozemní komunikace"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2006/pristupy-k-nemovitostem-pozemni-komunikace"
 date: 2006-09-07
 perex: "<p></p>"

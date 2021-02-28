@@ -1,7 +1,7 @@
 ---
 title: "Seriál ČT „Ochránce“ – 10. díl: Veřejné cesty"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/ochrance-i-2011/serial-ct-ochrance-10-dil-verejne-cesty/"
 date: 2011-11-04
 perex: "<p></p><p>Soukromá komunikace nebo veřejná cesta? Má majitel právo ji zahradit? O problémech s cestami vypráví 10. díl pořadu Ochránce vysílaný na ČT2 v úterý 8. 11. v 17:20 hod a v repríze ve středu 9. 11. v 9:35. </p>"

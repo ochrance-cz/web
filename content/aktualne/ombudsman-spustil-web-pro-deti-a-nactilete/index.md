@@ -1,7 +1,7 @@
 ---
 title: "Ombudsman spustil web pro děti a náctileté"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2012/ombudsman-spustil-web-pro-deti-a-nactilete"
 date: 2012-09-03
 perex: "<p>I děti a náctiletí se mohou se svými problémy obracet na ombudsmana. Pomůže jim v tom nová internetová stránka, na které se dozví, co pro ně může ombudsman udělat, s čím a jak jim může pomoci a jak se na něj mohou obrátit.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Videoseriál: Základní práva jsou nás všech"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2016/videoserial-zakladni-prava-jsou-nas-vsech"
 date: 2016-12-15
 perex: "<p>Loni uplynulo 50 let od vzniku prvního závazného katalogu lidských práv. Valné shromáždění OSN v roce 1966 přijalo dvě mezinárodní smlouvy – Pakt o občanských a politických právech a Pakt o hospodářských, sociálních a kulturních právech. Tehdejší Československo oba pakty podepsalo již v roce 1968, ale ratifikovalo je až téměř po deseti letech. Lidská práva jsou naším společným dědictvím a týkají se každého člověka bez rozdílu. Některá z nich jsme proto připomněli krátkým videoseriálem.</p>"

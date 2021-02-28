@@ -1,7 +1,7 @@
 ---
 title: "Pátý díl Ochránce"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/ochrance-iii-2013/paty-dil-ochrance-1/"
 date: 2013-09-26
 perex: "<p>V neděli 6. října vysílá ČT2 od 11:30 h pátý díl pořadu Ochránce. V prvním příběhu protíná nepovolená stavba silnice dvůr starého mlýna, ve druhém úřady odebraly příspěvek na bydlení, protože stěžovatelka posílala platby za své bydlení přes synův účet, a třetí příběh ukazuje, jak dlouhé může být čekání na důchod, pokud k jeho přiznání potřebujete doklad ze zahraničí. Všechny příběhy spojuje jedno – i když jsou úřady proti vám, rodina je oporou. Repríza tohoto dílu je na programu ČT2 ve středu 9. 10. ve 12:50 a další opakování jsou pak zařazena do vysílání ČT2 v neděli a úterý vždy po půlnoci.</p>"

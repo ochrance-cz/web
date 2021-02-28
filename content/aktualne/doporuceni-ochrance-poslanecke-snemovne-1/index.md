@@ -1,7 +1,7 @@
 ---
 title: "Doporučení ochránce Poslanecké sněmovně"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2010/doporuceni-ochrance-poslanecke-snemovne-1"
 date: 2010-04-07
 perex: "<p></p><p>Počet stížností, s nimiž se občané v loňském roce obrátili, meziročně opět stoupl o dalších přibližně 300 stížností. Ochránce obdržel celkem 7321 stížností, z nichž 53 % bylo v působnosti ochránce. Dalším více než 800 občanů byla při návštěvě Kanceláře poskytnuta jednoduchá právní rada, jak mohou řešit svůj konkrétní problém.</p>"

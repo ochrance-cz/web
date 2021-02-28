@@ -1,7 +1,7 @@
 ---
 title: "Při neshodě rodičů musí o výběru základní školy rozhodnout soud"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2017/pri-neshode-rodicu-musi-o-vyberu-zakladni-skoly-rozhodnout-soud"
 date: 2017-01-24
 perex: "<p>Jestliže se rodiče neshodnou na tom, na kterou školu dítě přihlásí k plnění povinné školní docházky, může o výběru školy rozhodnout jedině soud. Tyto spory vždy negativně dopadají především na dítě a jeho školní vzdělávání. </p>"

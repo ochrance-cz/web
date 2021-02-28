@@ -1,7 +1,7 @@
 ---
 title: "Běháme za dobrou věc"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2017/behame-za-dobrou-vec/"
 date: 2017-07-10
 perex: "<p></p>"

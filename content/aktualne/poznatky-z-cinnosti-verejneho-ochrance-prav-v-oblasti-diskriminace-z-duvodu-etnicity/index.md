@@ -1,7 +1,7 @@
 ---
 title: "Poznatky z činnosti veřejného ochránce práv v oblasti diskriminace z důvodu etnicity"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2013/poznatky-z-cinnosti-verejneho-ochrance-prav-v-oblasti-diskriminace-z-duvodu-etnicity/"
 date: 2013-10-03
 perex: "<p>Zmocněnkyně vlády pro lidská práva Monika Šimůnková v souvislosti s přípravou Desáté a Jedenácté periodické zprávy o plnění závazků plynoucích z Úmluvy OSN o odstranění všech forem rasové diskriminace požádala veřejného ochránce práv o informace týkající se jeho zkušeností při řešení případů diskriminace z důvodu etnicity.  </p>"

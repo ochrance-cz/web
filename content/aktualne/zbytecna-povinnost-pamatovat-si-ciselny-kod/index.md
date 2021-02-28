@@ -1,7 +1,7 @@
 ---
 title: "Zbytečná povinnost pamatovat si číselný kód"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2017/zbytecna-povinnost-pamatovat-si-ciselny-kod"
 date: 2017-01-05
 perex: "<p>Od roku 2012 \"získá\" každý občan při vyřizování nového občanského průkazu číselný kód, který si má zapamatovat. Když zapomene, za odblokování zaplatí správní poplatek 100 Kč. Kód ale k ničemu neslouží – elektronizace veřejné správy, kde by se používal, je totiž stále v nedohlednu.</p>"

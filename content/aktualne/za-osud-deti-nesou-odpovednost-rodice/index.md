@@ -1,7 +1,7 @@
 ---
 title: "Za osud dětí nesou odpovědnost rodiče"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2018/za-osud-deti-nesou-odpovednost-rodice"
 date: 2018-03-16
 perex: "<p>K rozpadu manželství vede mnoho cest a dochází k němu v nejrůznějších životních situacích. Ve chvíli, kdy se začne řešit budoucí osud dětí, však obvykle sledujeme podobný příběh, jehož ústředním motivem je neschopnost či neochota rodičů se dohodnout. Jeden z takových případů jsme nedávno uzavřeli. Obrátil se na nás stěžovatel, který byl po rozchodu se svou manželkou nespokojen s úpravou styku se svými čtyřmi dětmi. Za hlavní příčinu problémů označoval skutečnost, že současně opustil křesťanskou církev, zatímco zbytek rodiny zůstal jejími členy. Vinil také orgán sociálně-právní ochrany dětí (OSPOD), že straní manželce. Během šetření se však ukázalo, že příčiny problémů ležely spíše na jeho straně.   </p>"

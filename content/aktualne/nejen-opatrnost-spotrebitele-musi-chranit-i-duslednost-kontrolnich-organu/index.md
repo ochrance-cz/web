@@ -1,7 +1,7 @@
 ---
 title: "Nejen opatrnost – spotřebitele musí chránit i důslednost kontrolních orgánů"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/nejen-opatrnost-spotrebitele-musi-chranit-i-duslednost-kontrolnich-organu"
 date: 2019-03-15
 perex: "<p>Problémů v oblasti ochrany spotřebitele neubývá. Částečně za to může neopatrnost a důvěřivost samotných spotřebitelů, ale hlavním důvodem je fakt, že prodejci jsou ve svých obchodních strategiích stále o krok napřed. Ve chvíli, kdy se kontrolním orgánům podaří určité nekalé obchodní praktiky potlačit, obchodníci už využívají jiné. Vedle neustálé osvěty je tak podle zástupce ombudsmanky jediným řešením tvrdý a důsledný postup kontrolních orgánů.</p>"

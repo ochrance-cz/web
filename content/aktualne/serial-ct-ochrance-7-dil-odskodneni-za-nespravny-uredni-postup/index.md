@@ -1,7 +1,7 @@
 ---
 title: "Seriál ČT „Ochránce“ – 7. díl: Odškodnění za nesprávný úřední postup"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2011/serial-ct-ochrance-7-dil-odskodneni-za-nespravny-uredni-postup"
 date: 2011-10-17
 perex: "<p></p><p>Poškodil vás úřad nesprávným jednáním, nezákonným rozhodnutím nebo nečinností? Pak můžete žádat odškodnění. O něm bude 7. díl seriálu Ochránce vysílaný na ČT2 v úterý 18. 10. v 17:20 hod a v repríze ve středu 19. 10. v 9:35 hod. </p>"

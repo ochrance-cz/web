@@ -1,7 +1,7 @@
 ---
 title: "Díky ochránkyni získala dívka 25 000 Kč po ukončení pěstounské péče"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2015/diky-ochrankyni-ziskala-divka-25-000-kc-po-ukonceni-pestounske-pece"
 date: 2015-09-04
 perex: "<p>Téměř v poslední chvíli se díky radě ochránkyně podařilo čerstvě plnoleté dívce získat příspěvek při ukončení pěstounské péče. Vyplacená částka 25 000 Kč se jí hodila, protože zrovna maturovala a mohla si tak z příspěvku zaplatit třeba přihlášky na vysoké školy.</p>"

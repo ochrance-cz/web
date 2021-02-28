@@ -1,7 +1,7 @@
 ---
 title: "Vlastníci nechávají lázně Kyselka dál chátrat a úřady tomu přihlížejí"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2012/vlastnici-nechavaji-lazne-kyselka-dal-chatrat-a-urady-tomu-prihlizeji"
 date: 2012-08-29
 perex: "<p>Za dobu tří let, kdy se veřejný ochránce práv případem zabývá, se stav objektů bývalých lázní v Kyselce zhoršil. Žádné zásadní a efektivní práce, které by směřovaly ke skutečné záchraně památek, dosud nebyly provedeny.</p>"

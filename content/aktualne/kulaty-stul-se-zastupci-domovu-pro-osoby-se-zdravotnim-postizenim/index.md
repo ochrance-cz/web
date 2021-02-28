@@ -1,7 +1,7 @@
 ---
 title: "Kulatý stůl se zástupci domovů pro osoby se zdravotním postižením"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2018/kulaty-stul-se-zastupci-domovu-pro-osoby-se-zdravotnim-postizenim/"
 date: 2018-11-16
 perex: "<p>V návaznosti na zakončení série návštěv domovů pro osoby se zdravotním postižením (DOZP) si jejich zástupce ombudsmanka do svého sídla pozvala k prodiskutování nejpalčivější témata v této oblasti poskytování sociálních služeb.</p>"

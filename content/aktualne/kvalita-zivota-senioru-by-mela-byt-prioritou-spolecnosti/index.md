@@ -1,7 +1,7 @@
 ---
 title: "Kvalita života seniorů by měla být prioritou společnosti"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2016/kvalita-zivota-senioru-by-mela-byt-prioritou-spolecnosti"
 date: 2016-09-30
 perex: "<p>Zítřejší Mezinárodní den seniorů má připomínat postavení a význam starších lidí ve společnosti. Přestože OSN již před 25 lety přijalo zásady pro seniory a vyzvalo členské státy, aby je naplňovaly, každodenní praxe veřejné ochránkyně práv ukazuje, že život českých seniorů ne vždy myšlenkám těchto zásad odpovídá. Přitom kvalita péče o seniory vypovídá mnohé o společnosti a měla by být její prioritou.</p>"

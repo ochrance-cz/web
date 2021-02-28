@@ -1,7 +1,7 @@
 ---
 title: "Přinášíme pro vás dokument Síla vzdoru online: shlédnutím oslavíte nezávislost"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2020/prinasime-pro-vas-dokument-sila-vzdoru-online-shlednutim-oslavite-nezavislost/"
 date: 2020-04-30
 perex: "<p></p>"

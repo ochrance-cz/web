@@ -1,7 +1,7 @@
 ---
 title: "Evropský výbor pro zabránění mučení (CPT) vydal checklist pro návštěvy sociálních zařízení"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2015/evropsky-vybor-pro-zabraneni-muceni-cpt-vydal-checklist-pro-navstevy-socialnich-zari/"
 date: 2015-10-19
 perex: "<p></p>"

@@ -1,7 +1,7 @@
 ---
 title: "Ne každá práce se započítává do důchodového pojištění. Pozor na to"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/ne-kazda-prace-se-zapocitava-do-duchodoveho-pojisteni-pozor-na-to"
 date: 2019-04-04
 perex: "<p>Chodit dlouhodobě pouze na brigádu a pracovat na dohodu o provedení práce se nemusí vyplatit, když pracovník později žádá o invalidní důchod. Může se stát, že i když bude uznán invalidním, na výplatu důchodu nebude mít nárok, protože mu budou chybět odpracované roky s důchodovým pojištěním.</p>"

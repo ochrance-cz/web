@@ -1,7 +1,7 @@
 ---
 title: "Polské soudy nedostatečně řešily podmínky porozvodového kontaktu mezi otcem a synem, rozhodl soud"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2017/polske-soudy-nedostatecne-resily-podminky-porozvodoveho-kontaktu-mezi-otcem-a-synem-rozhodl/"
 date: 2017-05-31
 perex: "<p>Evropský soud pro lidská práva se zabýval případem Kacper Nowakowski vs. Polsko, který řešil porozvodový kontakt hluchoněmého otce se sluchově postiženým synem.</p>"

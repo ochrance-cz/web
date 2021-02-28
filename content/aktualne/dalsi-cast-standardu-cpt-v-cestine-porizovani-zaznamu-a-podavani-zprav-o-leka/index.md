@@ -1,7 +1,7 @@
 ---
 title: "Další část standardů CPT v češtině – Pořizování záznamů a podávání zpráv o lékařských zjištěních o špatném zacházení"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2016/dalsi-cast-standardu-cpt-v-cestine-porizovani-zaznamu-a-podavani-zprav-o-leka/"
 date: 2016-09-14
 perex: "<p></p>"

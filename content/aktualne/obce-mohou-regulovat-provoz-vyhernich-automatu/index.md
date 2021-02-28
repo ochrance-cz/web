@@ -1,7 +1,7 @@
 ---
 title: "Obce mohou regulovat provoz výherních automatů"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2011/obce-mohou-regulovat-provoz-vyhernich-automatu"
 date: 2011-06-14
 perex: "<p>Ústavní soud dnes vyslyšel názor ochránce a v souladu s jeho doporučením zamítl návrh Ministerstva vnitra na zrušení ustanovení čl. I obecně závazné vyhlášky města Chrastava č. 5/2009, o stanovení míst, na kterých mohou být provozovány interaktivní videoloterijní terminály. Obce tedy mohou regulovat provoz výherních hracích přístrojů na svém území. </p>"

@@ -1,7 +1,7 @@
 ---
 title: "První odvolání proti nepřijetí dětí do školek a školky bez rezerv"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2013/prvni-odvolani-proti-neprijeti-deti-do-skolek-a-skolky-bez-rezerv"
 date: 2013-06-11
 perex: "<p>Zástupce veřejného ochránce práv už zaregistroval první případy, kdy se rodiče odvolávají ke krajskému úřadu proti nepřijetí dítěte do mateřské školky, ale ředitelé škol už mezitím všechna volná místa obsadili. Očekávají nyní, že krajský úřad, pokud potvrdí jimi namítanou nezákonnost rozhodnutí o nepřijetí dítěte, zajistí nápravu a jejich dítě do školky nastoupí.</p>"

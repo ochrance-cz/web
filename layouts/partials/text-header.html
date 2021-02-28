@@ -8,11 +8,7 @@
         Zveřejněno
         {{ partial "date.html" (dict "date" . "months" $.Site.Data.months) }}
 
-        {{ with $.Params.tags }}
-          {{ range . }}
-            <span class="_tag on-green">{{ . }}</span>
-          {{ end }}
-        {{ end }}
+        {{ partial "tags.html" $ }}
       </p>
     {{ end }}
     <h1>{{ block "title" . }}{{ .Title }}{{ end }}</h1>

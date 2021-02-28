@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Parkovací místo"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-v/pripad-pro-ombudsmana-parkovaci-misto/"
 date: 2009-10-27
 perex: "<p></p>"

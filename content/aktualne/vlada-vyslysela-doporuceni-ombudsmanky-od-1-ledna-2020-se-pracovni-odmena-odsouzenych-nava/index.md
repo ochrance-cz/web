@@ -1,7 +1,7 @@
 ---
 title: "Vláda vyslyšela doporučení ombudsmanky: od 1. ledna 2020 se pracovní odměna odsouzených naváže na minimální mzdu"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/vlada-vyslysela-doporuceni-ombudsmanky-od-1-ledna-2020-se-pracovni-odmena-odsouzenych-nava"
 date: 2019-12-20
 perex: "<p>Práce má jednoznačně pozitivní vliv na odsouzené. Jedná se o smysluplné trávení volného času, vytvoření či udržení základních pracovních návyků a současně o možnost, jak hradit dluhy, které odsouzené mnohdy do vězení přivedly. O práci je mezi odsouzenými i zaměstnavateli zájem. Současně od roku 2000 dlouhých 18 let výše pracovní odměny stagnovala, což se od ledna změní. Základní měsíční sazba tak bude nově 50 % minimální mzdy. </p>"

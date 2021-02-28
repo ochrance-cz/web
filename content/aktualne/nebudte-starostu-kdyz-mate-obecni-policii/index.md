@@ -1,7 +1,7 @@
 ---
 title: "Nebuďte starostu, když máte obecní policii"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2014/nebudte-starostu-kdyz-mate-obecni-policii"
 date: 2014-07-15
 perex: "<p></p>"

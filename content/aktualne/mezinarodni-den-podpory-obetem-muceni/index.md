@@ -1,7 +1,7 @@
 ---
 title: "Mezinárodní den podpory obětem mučení"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2015/mezinarodni-den-podpory-obetem-muceni"
 date: 2015-06-26
 perex: "<p></p><p>&quot;Dnes je den, kdy projevujeme respekt lidem, kteří protrpěli nepředstavitelné. Je to příležitost k tomu, aby se svět vyslovil, proti nevyslovitelnému. Dnešní den je určen k celosvětové podpoře těch, kteří mučení přežili, a vzpomínce na ty, kdo se stali jeho obětí.&quot; Kofi Annan, Generální tajemník OSN, 26. 6. 1998 u příležitosti mezinárodního dne podpory obětem mučení.</p>"

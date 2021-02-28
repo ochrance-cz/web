@@ -1,7 +1,7 @@
 ---
 title: "Vyšel nový NPM Newsletter"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2015/vysel-novy-npm-newsletter/"
 date: 2015-09-23
 perex: "<p>Nesletter přináší novinky z jednotlivých národních preventivních mechanismů (NPM), mezinárodních organizací angažujících se na poli prevence špatného zacházení či přehled nejnovějších rozsudků Evropského soudu pro lidská práva týkajících se zákazu špatného zacházení.</p>"

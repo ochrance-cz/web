@@ -1,7 +1,7 @@
 ---
 title: "Ombudsman prověří vyloučení části podnikatelů z nároku na kompenzační bonus a praxi finančních úřadů při vyřizování žádostí"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2021/ombudsman-proveri-vylouceni-casti-podnikatelu-z-naroku-na-kompenzacni-bonus-a-praxi-finan"
 date: 2021-01-13
 perex: "<p>Ombudsman požádal ministryni financí o vysvětlení, z jakých důvodů byla část podnikatelů vyloučena z možnosti získat kompenzační bonus v souvislosti se zákazem nebo omezením podnikatelské činnosti kvůli pandemii koronaviru SARS CoV-2. Podle v listopadu přijatého zákona (zákon č. 461/2020 Sb.) totiž nemůže kompenzační bonus získat osoba, která byla v bonusovém období, tj. od 5. října 2020 v úpadku, i když dál podniká a dopadají na ni vládní omezení činnosti.</p>"

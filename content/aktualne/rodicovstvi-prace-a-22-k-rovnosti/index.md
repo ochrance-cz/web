@@ -1,7 +1,7 @@
 ---
 title: "Rodičovství, práce a 22 % k rovnosti"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2019/rodicovstvi-prace-a-22-k-rovnosti/"
 date: 2019-01-29
 perex: "<p></p>"

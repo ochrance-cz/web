@@ -1,7 +1,7 @@
 ---
 title: "Seriál ČT „Ochránce“ – 16. díl: Jak se žije lidem s postižením"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/ochrance-i-2011/serial-ct-ochrance-16-dil-jak-se-zije-lidem-s-postizenim/"
 date: 2011-12-16
 perex: "<p></p><p>Poslední díl vypráví o tom, jak společnost lidem se zdravotním postižením jejich už tak těžký život příliš neulehčuje. Vysílá ho ČT2 v úterý 20. 12. v 17:20 hod a ve středu 21. 12. v 9:35 hod.</p>"

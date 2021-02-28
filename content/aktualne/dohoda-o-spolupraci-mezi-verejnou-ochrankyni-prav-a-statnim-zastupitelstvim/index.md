@@ -1,7 +1,7 @@
 ---
 title: "Dohoda o spolupráci mezi veřejnou ochránkyní práv a státním zastupitelstvím"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2014/dohoda-o-spolupraci-mezi-verejnou-ochrankyni-prav-a-statnim-zastupitelstvim/"
 date: 2014-09-12
 perex: "<p>V měsíci srpnu 2014 uzavřeli veřejná ochránkyně práv Mgr. Anna Šabatová, Ph.D., a nejvyšší státní zástupce JUDr. Pavel Zeman dohodu o součinnosti, kterou se ustavil způsob spolupráce a pomoci mezi ochránkyní, Nejvyšším státním zastupitelstvím a ostatními státními zastupitelstvími při plnění jejich zákonných úkolů. </p>"

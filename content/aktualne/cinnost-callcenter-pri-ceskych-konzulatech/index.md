@@ -1,7 +1,7 @@
 ---
 title: "Činnost callcenter při českých konzulátech"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2008/cinnost-callcenter-pri-ceskych-konzulatech"
 date: 2008-09-03
 perex: "<p></p>"

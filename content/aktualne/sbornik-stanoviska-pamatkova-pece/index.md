@@ -1,7 +1,7 @@
 ---
 title: "Sborník Stanoviska – Památková péče"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2012/sbornik-stanoviska-pamatkova-pece"
 date: 2012-09-25
 perex: "<p>Publikace Památková péče je praktickou příručkou pro zájemce o památkovou péči, pro vlastníky kulturních památek a především pro pracovníky orgánů státní památkové péče, památkkových ústavů a dalších institucí.</p>"

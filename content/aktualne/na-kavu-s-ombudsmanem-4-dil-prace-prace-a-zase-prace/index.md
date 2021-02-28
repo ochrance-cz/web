@@ -1,7 +1,7 @@
 ---
 title: "Na kávu s ombudsmanem, 4. díl: Práce, práce a zase práce"
-tags:
-  - Podcast
+vystupy:
+  - podcast
 oldUrl: "/aktualne/tiskove-zpravy-2020/na-kavu-s-ombudsmanem-4-dil-prace-prace-a-zase-prace"
 date: 2020-12-18
 perex: "<p></p>"

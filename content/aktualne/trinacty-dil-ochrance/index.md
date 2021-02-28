@@ -1,7 +1,7 @@
 ---
 title: "Třináctý díl Ochránce"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/ochrance-iii-2013/trinacty-dil-ochrance/"
 date: 2013-11-26
 perex: "<p>V neděli 1. prosince v 11:40 h začíná na ČT2 třináctý díl pořadu Ochránce. První příběh se dotýká obyvatel pražského sídliště Spořilov a života v hluku a znečištěném ovzduší. Na začátku druhého případu stála koupě domu na vesnici a vidina bydlení v pohodě, která se změnila v dlouhý spor u úřadů i soudu. Třetí příběh je o komplikacích se změnou rodného příjmení po svatbě. Opakování tohoto dílu je na programu ČT2 ve středu 4. 12. ve 13:10 a další reprízy jsou pak zařazeny do vysílání ČT2 v neděli a úterý vždy po půlnoci.</p>"

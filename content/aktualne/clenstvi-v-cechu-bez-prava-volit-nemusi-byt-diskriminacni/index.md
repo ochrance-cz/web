@@ -1,7 +1,7 @@
 ---
 title: "Členství v cechu bez práva volit nemusí být diskriminační"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/clenstvi-v-cechu-bez-prava-volit-nemusi-byt-diskriminacni"
 date: 2020-07-16
 perex: "<p>Vůbec poprvé se ombudsman zabýval případem namítané diskriminace v soukromém profesním sdružení – v cechu řemeslníků. Člen cechu si stěžoval, že cech diskriminuje členy z důvodu jejich vyššího věku. On sám byl důchodového věku a v rámci senior členství neměl podle stanov právo hlasovat na valné hromadě a být volen do většiny orgánů cechu. Považoval to za diskriminaci.</p>"

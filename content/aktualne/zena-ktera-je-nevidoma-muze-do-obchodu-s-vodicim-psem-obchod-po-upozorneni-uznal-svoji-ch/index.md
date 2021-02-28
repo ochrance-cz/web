@@ -1,7 +1,7 @@
 ---
 title: "Žena, která je nevidomá, může do obchodu s vodicím psem. Obchod po upozornění uznal svoji chybu"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2020/zena-ktera-je-nevidoma-muze-do-obchodu-s-vodicim-psem-obchod-po-upozorneni-uznal-svoji-ch/"
 date: 2020-05-13
 perex: "<p>Britská organizace Guide Dogs připomíná, že podobné případy, kdy je lidem se zrakovým postižením v doprovodu vodicího psa odepřen vstup do obchodu, jsou stále velmi časté.</p>"

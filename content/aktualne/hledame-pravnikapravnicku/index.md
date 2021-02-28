@@ -1,7 +1,7 @@
 ---
 title: "Hledáme právníka/právničku"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2018/hledame-pravnikapravnicku"
 date: 2018-06-06
 perex: "<p>Kancelář veřejného ochránce práv hledá právníka/právničku s rozvinutou schopností ústavněprávní (lidskoprávní) argumentace.</p>"

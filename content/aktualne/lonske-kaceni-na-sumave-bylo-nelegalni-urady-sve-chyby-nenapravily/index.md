@@ -1,7 +1,7 @@
 ---
 title: "Loňské kácení na Šumavě bylo nelegální, úřady své chyby nenapravily"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2012/lonske-kaceni-na-sumave-bylo-nelegalni-urady-sve-chyby-nenapravily"
 date: 2012-06-28
 perex: "<p></p><p>Ministerstvo životního prostředí a Správa NP Šumava nenapravily svá pochybení, kterých se dopustily v souvislosti s kácením stromů v lokalitě Ptačího pokota v červenci a srpnu 2011. Neakceptovaly ani opatření zástupkyně veřejného ochránce práv k nápravě a rovněž jednání, která s nimi v průběhu roku vedla, nepřinesla pozitivní změnu. </p>"

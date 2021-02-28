@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Veřejné prostranství"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-ii/pripad-pro-ombudsmana-verejne-prostranstvi/"
 date: 2010-02-19
 perex: "<p></p><p>Celých deset let provozuje podnikatelka stánek s ovocem a zeleninou, sportovnímu klubu platí nájem z pronajatého pozemku. </p>"

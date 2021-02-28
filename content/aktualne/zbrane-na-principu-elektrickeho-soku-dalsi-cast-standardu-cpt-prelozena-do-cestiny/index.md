@@ -1,7 +1,7 @@
 ---
 title: "Zbraně na principu elektrického šoku – další část standardů CPT přeložená do češtiny"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2016/zbrane-na-principu-elektrickeho-soku-dalsi-cast-standardu-cpt-prelozena-do-cestiny/"
 date: 2016-10-17
 perex: "<p>Standardy Evropského výboru pro předcházení mučení a nelidskému nebo ponižujícímu zacházení nebo trestání (CPT) tvoří tematické výňatky z každoročních všeobecných zpráv. Roku 2010 vyšel standard týkající se používání zbraní na principu elektrického šoku – anglicky electrical discharge weapons.</p>"

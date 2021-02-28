@@ -1,7 +1,7 @@
 ---
 title: "Příručka k dani z příjmu: jak se vyvarovat chyb u daně z příjmu"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/prirucka-k-dani-z-prijmu-jak-se-vyvarovat-chyb-u-dane-z-prijmu"
 date: 2020-07-02
 perex: "<p>Lidé, kteří z důvodu koronakrize teprve budou podávat daňové přiznání, mohou využít Základní příručku k dani z příjmu vytvořenou na základě dřívější spolupráce ombudsmana s Komorou daňových poradců a Finanční správou. Je určena především zaměstnancům, ale některá doporučení využijí i drobní podnikatelé. Vysvětluje základní pravidla, upozorňuje na časté chyby a radí, jak správně snížit daň.</p>"

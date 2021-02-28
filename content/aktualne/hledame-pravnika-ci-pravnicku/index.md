@@ -1,7 +1,7 @@
 ---
 title: "Hledáme právníka či právničku"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2014/hledame-pravnika-ci-pravnicku"
 date: 2014-09-19
 perex: "<p></p>"

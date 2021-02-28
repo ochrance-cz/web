@@ -1,7 +1,7 @@
 ---
 title: "Trans muž chtěl být uveden v matrice jako otec dítěte, které porodil. Soud to však odmítl."
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2020/trans-muz-chtel-byt-uveden-v-matrice-jako-otec-ditete-ktere-porodil-soud-to-vsak-odmitl/"
 date: 2020-06-05
 perex: "<p>Odvolací soud ve Velké Británii uvedl, že matkou je člověk, který podstoupil těhotenství a porod, a to bez ohledu na jeho právně uznané pohlaví.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "České dráhy přijaly po zásahu ombudsmanky nová opatření týkající se přepravy asistenčních psů"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/ceske-drahy-prijaly-po-zasahu-ombudsmanky-nova-opatreni-tykajici-se-prepravy-asistencn"
 date: 2019-02-15
 perex: "<p>Na ombudsmanku se obrátila žena se zdravotním postižením, která je po úraze na invalidním vozíku. Ve svém životě využívá služeb asistenčního psa. Jeho pomoc však nemohla využít při přepravě vlakem. Cestovala totiž spoji, které nejsou bezbariérové a do kterých proto musela nastupovat pomocí zdvihací plošiny. Tu však nesměli využívat asistenční psi. Hrozilo, že se její starší pes při seskakování z vlaku zraní. Po jednání ombudsmanky se zástupci Českých drah se podařilo najít řešení, které umožní přepravu asistenčních psů pomocí zdvihacích plošin. </p>"

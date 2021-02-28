@@ -1,7 +1,7 @@
 ---
 title: "Zástupce ombudsmanky šetří devastaci slavné Ostravice"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2014/zastupce-ombudsmanky-setri-devastaci-slavne-ostravice"
 date: 2014-03-20
 perex: "<p>Zástupce veřejné ochránkyně práv se začal z vlastní iniciativy zabývat devastací památkově chráněných objektů bývalého obchodního domu Textilia – Ostravica a Moravsko-ostravské obchodní a průmyslové banky v Ostravě. </p>"

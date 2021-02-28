@@ -1,7 +1,7 @@
 ---
 title: "Činnost oddělení dohledu ve třetím čtvrtletí roku 2011"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2011/cinnost-oddeleni-dohledu-ve-tretim-ctvrtleti-roku-2011/"
 date: 2011-10-06
 perex: "<p></p><p>V číslech lze návštěvy třetího kvartálu charakterizovat takto: 6 klasických systematických návštěv, 2 následné návštěvy, 1 tematická návštěva; z toho tři návštěvy obsahovaly šetření zaměřené na téma prevence malnutrice .</p>"

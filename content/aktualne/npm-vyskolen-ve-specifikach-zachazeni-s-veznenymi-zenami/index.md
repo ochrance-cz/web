@@ -1,7 +1,7 @@
 ---
 title: "NPM vyškolen ve specifikách zacházení s vězněnými ženami"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2015/npm-vyskolen-ve-specifikach-zachazeni-s-veznenymi-zenami/"
 date: 2015-08-31
 perex: "<p></p>"

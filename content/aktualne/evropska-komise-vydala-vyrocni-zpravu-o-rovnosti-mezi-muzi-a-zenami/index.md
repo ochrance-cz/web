@@ -1,7 +1,7 @@
 ---
 title: "Evropská komise vydala výroční zprávu o rovnosti mezi muži a ženami"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2017/evropska-komise-vydala-vyrocni-zpravu-o-rovnosti-mezi-muzi-a-zenami/"
 date: 2017-06-12
 perex: "<p>Evropská komise vydala zprávu o rovnosti mezi muži a ženami na území Evropské unie, ve které mapuje například společenské postavení žen na pracovním trhu či v jiných oblastech života. Komise v posledních letech podporuje rovnost žen a mužů ve společnosti a nabádá členské státy EU ke spolupráci.</p>"

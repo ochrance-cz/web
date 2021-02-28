@@ -1,7 +1,7 @@
 ---
 title: "Britské matky si stěžují, že jim zaměstnavatelé neumožňují pracovat z domu, otcům však tuto možnost nabízí"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2020/britske-matky-si-stezuji-ze-jim-zamestnavatele-neumoznuji-pracovat-z-domu-otcum-vsak-t/"
 date: 2020-05-05
 perex: "<p>Organizace Working Families upozorňuje, že zaměstnavatelé se vystavují riziku případných žalob kvůli nerovnému zacházení z důvodu pohlaví.</p>"

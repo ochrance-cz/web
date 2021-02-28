@@ -1,7 +1,7 @@
 ---
 title: "Stále je možné odškodňovat za politickou perzekuci"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2016/stale-je-mozne-odskodnovat-za-politickou-perzekuci"
 date: 2016-11-16
 perex: "<p></p><p>Za dobu komunistického režimu, bylo v tehdejším Československu z politických důvodů vězněno 205 486 osob, Pomocnými technickými prapory (PTP) a Technickými prapory (TP) prošlo asi 60 000 osob<sup>[1]</sup>. Nelze ani odhadnout, kolik lidí přišlo z politických důvodů o zaměstnání, nemluvě o jiných formách perzekuce. </p>"

@@ -1,7 +1,7 @@
 ---
 title: "OSN Výbor proti mučení adresoval České republice nová doporučení"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2018/osn-vybor-proti-muceni-adresoval-ceske-republice-nova-doporuceni/"
 date: 2018-06-05
 perex: "<p>Během květnového zasedání se Výbor zabýval 6. periodickou zprávou České republiky o tom, jak naplňuje závazky plynoucí z Úmluvy proti mučení a jinému krutému, nelidskému či ponižujícímu zacházení nebo trestání (č. 143/1988 Sb.). Výsledkem podrobného přezkumu a doptávání jsou obecné poznámky s doporučeními.</p>"

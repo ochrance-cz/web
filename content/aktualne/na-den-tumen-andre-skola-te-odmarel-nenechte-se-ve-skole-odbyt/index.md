@@ -1,7 +1,7 @@
 ---
 title: "Na den tumen andre škola te odmarel! Nenechte se ve škole odbýt!"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2017/na-den-tumen-andre-skola-te-odmarel-nenechte-se-ve-skole-odbyt/"
 date: 2017-04-03
 perex: "<p>Veřejná ochránkyně práv připravila leták pro romské rodiče o tom, jak se bránit diskriminaci při zápisech dětí do základních a mateřských škol.</p>"

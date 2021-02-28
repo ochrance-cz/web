@@ -1,7 +1,7 @@
 ---
 title: "Nahrávka jako důkaz ve správním řízení"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2011/nahravka-jako-dukaz-ve-spravnim-rizeni"
 date: 2011-05-05
 perex: "<p></p><p>V odůvodněných případech lze podle ochránce připustit audio či video nahrávku pořízenou bez souhlasu zachycené osoby jako důkaz ve správním řízení, pokud jsou přitom naplněny podmínky ustanovení § 5 odst. 2 písm. e) zákona na ochranu osobních údajů.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Připojujeme se k Týdnu rané péče"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/pripojujeme-se-k-tydnu-rane-pece"
 date: 2020-11-06
 perex: "<p>Raná péče je službou, která již třicet let pomáhá rodinám, jimž se narodí dítě s těžkým zdravotním postižením či onemocněním. Bohužel je tato pomoc pro mnoho rodin stále nedostupná, a to především pro její omezenou kapacitu, ale také kvůli nedostatečné informovanosti. Nejen z těchto důvodů se připojujeme k Týdnu rané péče, který probíhá od 2. do 8. listopadu.  </p>"

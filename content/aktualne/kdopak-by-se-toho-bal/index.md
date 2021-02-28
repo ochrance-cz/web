@@ -1,7 +1,7 @@
 ---
 title: "Kdopak by se toho bál?"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/kdopak-by-se-toho-bal"
 date: 2019-03-08
 perex: "<p>Ombudsmanka se připojuje ke Světovému dni Downova syndromu. V sobotu 16. března pořádá společně se spolkem Úsměvy divadelní představení divadla Aldente a autorské čtení Marka Orko Váchy a Milana Kosmáka. Ve spolupráci s Domem dětí a mládeže Helceletka je připraven také zábavný program pro děti.</p>"

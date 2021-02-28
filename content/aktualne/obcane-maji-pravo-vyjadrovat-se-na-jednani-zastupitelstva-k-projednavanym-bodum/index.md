@@ -1,7 +1,7 @@
 ---
 title: "Občané mají právo vyjadřovat se na jednání zastupitelstva k projednávaným bodům"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2008/obcane-maji-pravo-vyjadrovat-se-na-jednani-zastupitelstva-k-projednavanym-bodum"
 date: 2008-09-01
 perex: "<p></p>"

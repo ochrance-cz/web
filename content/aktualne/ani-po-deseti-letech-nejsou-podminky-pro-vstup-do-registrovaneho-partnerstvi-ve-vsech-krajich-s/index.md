@@ -1,7 +1,7 @@
 ---
 title: "Ani po deseti letech nejsou podmínky pro vstup do registrovaného partnerství ve všech krajích stejné"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2016/ani-po-deseti-letech-nejsou-podminky-pro-vstup-do-registrovaneho-partnerstvi-ve-vsech-krajich-s"
 date: 2016-07-07
 perex: "<p>Před deseti lety vešel v účinnost zákon o registrovaném partnerství. Za dobu jeho existence vstoupilo do tohoto svazku 2174 párů (k 1.1. 2016). Registrované partnerství lze v České republice uzavřít pouze na 14 místech – v krajských městech.  Náš výzkum ukázal, že navzdory převažující dobré praxi existují mezi některými krajskými městy velké rozdíly v podmínkách, za kterých mohou páry do svazku vstoupit. Ať již se to týká volby místa, času nebo výše vybíraných poplatků. </p>"

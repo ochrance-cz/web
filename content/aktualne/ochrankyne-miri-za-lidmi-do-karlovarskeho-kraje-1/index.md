@@ -1,7 +1,7 @@
 ---
 title: "Ochránkyně míří za lidmi do Karlovarského kraje"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2015/ochrankyne-miri-za-lidmi-do-karlovarskeho-kraje-1"
 date: 2015-05-27
 perex: "<p>Ve středu 3. června budou mít lidé v Karlovarském kraji příležitost setkat se s veřejnou ochránkyní práv Annou Šabatovou. Lidé toho mohou využít k získání informací o tom, jak řešit některé životní situace, mohou přímo podat podnět k šetření, dozví se, s čím vším jim může ombudsman pomoci.</p>"

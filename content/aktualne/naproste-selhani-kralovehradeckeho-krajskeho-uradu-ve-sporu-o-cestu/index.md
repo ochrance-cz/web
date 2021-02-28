@@ -1,7 +1,7 @@
 ---
 title: "Naprosté selhání Královéhradeckého krajského úřadu ve sporu o cestu"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/naproste-selhani-kralovehradeckeho-krajskeho-uradu-ve-sporu-o-cestu"
 date: 2019-10-24
 perex: "<p>Krajský úřad Královéhradeckého kraje selhává v pozici nadřízeného správního orgánu. Ve sporu o cestu přesouvá rozhodování z úřadu na úřad a podílí se tak na průtazích. Volí postup, který vyhovuje pouze jeho vlastním zájmům a z účastníků řízení dělá nedobrovolné rukojmí čekající pět let na rozhodnutí. Krajský úřad odmítá jakékoli pochybení i provedení nápravy. Zástupce ombudsmanky se proto rozhodl vyrozumět o případu Ministerstvo dopravy jako nadřízený úřad a věc také zveřejnit.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Nelze odmítnout krátkodobý úvěr seniorovi jen kvůli věku"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/nelze-odmitnout-kratkodoby-uver-seniorovi-jen-kvuli-veku"
 date: 2020-07-21
 perex: "<p>Senioři se stále setkávají s omezeními při poskytování finančních služeb. Přestože může jít o diskriminaci, stížností na znevýhodnění z důvodu věku se stále objevují. I jeden takový případ může vést k odstranění špatné praxe, jak se to podařilo v případě seniora, kterému stavební spořitelna odmítla poskytnout úvěr k financování rekonstrukce.</p>"

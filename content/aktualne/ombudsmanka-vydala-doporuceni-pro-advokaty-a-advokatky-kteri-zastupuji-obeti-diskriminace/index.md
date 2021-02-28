@@ -1,7 +1,7 @@
 ---
 title: "Ombudsmanka vydala doporučení pro advokáty a advokátky, kteří zastupují oběti diskriminace"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/ombudsmanka-vydala-doporuceni-pro-advokaty-a-advokatky-kteri-zastupuji-obeti-diskriminace"
 date: 2019-09-16
 perex: "<p>Letos uplynulo deset let od chvíle, kdy vstoupil v platnost antidiskriminační zákon a kdy byla současně ombudsmanovi v souladu s právem Evropské unie svěřena funkce národního tělesa pro rovné zacházení a ochranu před diskriminací (equality body). Jelikož ombudsman nemá pravomoc zastupovat oběti diskriminace před soudem, hrají v tomto ohledu klíčovou roli advokáti a advokátky. Ombudsmanka proto připravila dokument, který by jim v tom měl pomoci. Krom doporučení a shrnutí konkrétních případů, které ombudsmanka předala Pro bono alianci ke zprostředkování právního zastoupení, text obsahuje analýzu výzkumného šetření, jehož cílem bylo prozkoumat zkušenosti advokátů a advokátek se zastupováním obětí diskriminace.  </p>"

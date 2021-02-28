@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Vybírání poplatku"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-v/pripad-pro-ombudsmana-vybirani-poplatku/"
 date: 2009-12-03
 perex: "<p></p>"

@@ -1,7 +1,7 @@
 ---
 title: "Evropský soud pro lidská práva: Rusko musí přijmout opatření k humanizaci výkonu vazby"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2012/evropsky-soud-pro-lidska-prava-rusko-musi-prijmout-opatreni-k-humanizaci-vykonu-vazby/"
 date: 2012-01-19
 perex: "<p></p><p>Senát Evropského soudu pro lidská práva (dále jen ESLP) rozhodl ve věci Ananyev a ostatní v. Rusko (stížnost č. 42525/07 a 60800/08). Konstatoval, že v případě stěžovatelů byl během výkonu vazby porušen čl. 3 (zákaz nelidského a ponižujícího zacházení) a čl. 13 (právo na účinné opravné prostředky).<sup>[1]</sup></p>"

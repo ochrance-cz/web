@@ -1,7 +1,7 @@
 ---
 title: "Evropský ombudsman v České republice"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2009/evropsky-ombudsman-v-ceske-republice"
 date: 2009-05-21
 perex: "<p></p><p>Na pozvání veřejného ochránce práv navštívil ve dnech 17. – 20. května Českou republiku evropský ombudsman P. Nikiforos Diamandouros. V průběhu tří dnů se setkal s prezidentem Václavem Klausem, předsedou vlády Janem Fischerem a ministrem pro lidská práva Michaelem Kocábem. Významnou část programu evropského ombudsmana v České republice tvořila také setkání se zástupci podnikatelské sféry a nevládních organizací. Pan Diamandouros na těchto jednáních vysvětloval svou působnost a také skutečnost, že není nadřízeným českého ombudsmana, ani neslouží jako odvolací instance proti jeho závěrům. Na konkrétních příkladech ze své agendy ukazoval, jak může pomoci českým občanům, podnikatelům i nevládním organizacím v jejich komunikaci s orgány Evropské unie. Pokud se kterýkoli občan nebo firma cítí být poškozena na svých právech nějakou institucí EU, může se obrátit na evropského ombudsmana a žádat pomoc či nápravu. Podmínkou je, aby se porušení evropského práva dopustila instituce Evropské unie (např. Evropská komise, agentura zřízená Evropskou komisí apod.). Pokud by se takového jednání dopustila instituce česká, pochybením se bude zabývat český ombudsman, nikoli evropský.</p>"

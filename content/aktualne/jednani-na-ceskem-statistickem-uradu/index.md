@@ -1,7 +1,7 @@
 ---
 title: "Jednání na Českém statistickém úřadu"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2018/jednani-na-ceskem-statistickem-uradu/"
 date: 2018-05-17
 perex: "<p></p>"

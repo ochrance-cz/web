@@ -1,7 +1,7 @@
 ---
 title: "Plošná výplata dávek poukázkami v Litvínově byla nezákonná"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2009/plosna-vyplata-davek-poukazkami-v-litvinove-byla-nezakonna"
 date: 2009-07-21
 perex: "<p></p><p>V pondělí 20. července zveřejnila některá média nepravdivou informaci o závěrech šetření zástupkyně ochránce ve věci výplaty dávek pomoci v hmotné nouzi v Litvínově. Vyjádření starosty Litvínova Voláka, která média uváděla, jsou zcela pozměněná a nezakládají se na pravdě. </p>"

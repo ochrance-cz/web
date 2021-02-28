@@ -1,7 +1,7 @@
 ---
 title: "Za vadný obsah reklamy odpovídá i ten, kdo ji šíří"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2017/za-vadny-obsah-reklamy-odpovida-i-ten-kdo-ji-siri"
 date: 2017-07-13
 perex: "<p>Za reklamu a její obsah nese odpovědnost i šiřitel reklamy, nejen zadavatel a zpracovatel. Pokud je tedy reklama nekalou obchodní praktikou, má dohledový orgán zahájit správní řízení pro delikt podle zákona o regulaci reklamy i s tím, kdo takovou reklamu šíří. Jen důsledný dohled a vymáhání odpovědného přístupu šiřitelů reklamy mohou vést ke skutečné ochraně spotřebitele.</p>"

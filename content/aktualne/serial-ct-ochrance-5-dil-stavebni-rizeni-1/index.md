@@ -1,7 +1,7 @@
 ---
 title: "Seriál ČT „Ochránce“ – 5. díl: Stavební řízení"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/ochrance-i-2011/serial-ct-ochrance-5-dil-stavebni-rizeni-1/"
 date: 2011-09-30
 perex: "<p></p><p>Co dělat, když v sousedství najednou začnou stavět? Co s černou stavbou vedle vašeho domu? Jaká máte práva ve stavebním řízení souseda? O tom bude 5. díl seriálu Ochránce, který v premiéře vysílá ČT2 v úterý 4. 10. v 17:20 hod a v repríze ve středu 5. 10. v 9:30.</p>"

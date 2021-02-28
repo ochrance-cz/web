@@ -1,7 +1,7 @@
 ---
 title: "Večer na téma…. ombudsman"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2010/vecer-na-tema-ombudsman"
 date: 2010-12-16
 perex: "<p></p><p>K desetiletému výročí existence veřejného ochránce práv neboli ombudsmana v České republice připravila Česká televize komponovaný pořad na téma ombudsman. Vysílat se bude na ČT2 v neděli 19. prosince od 20 hodin.</p>"

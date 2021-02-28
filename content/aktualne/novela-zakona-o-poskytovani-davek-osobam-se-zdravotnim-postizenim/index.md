@@ -1,7 +1,7 @@
 ---
 title: "Novela zákona o poskytování dávek osobám se zdravotním postižením"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2020/novela-zakona-o-poskytovani-davek-osobam-se-zdravotnim-postizenim/"
 date: 2020-03-05
 perex: "<p>Od 1. března 2020 vstoupila v účinnost novela zákona č. 329/2019 Sb., o poskytování dávek osobám se zdravotním postižením a přináší dvě významné změny.</p>"

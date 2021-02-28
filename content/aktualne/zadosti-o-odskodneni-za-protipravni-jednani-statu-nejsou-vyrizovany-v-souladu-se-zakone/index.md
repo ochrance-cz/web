@@ -1,7 +1,7 @@
 ---
 title: "Žádosti o odškodnění za protiprávní jednání státu nejsou vyřizovány v souladu se zákonem"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2010/zadosti-o-odskodneni-za-protipravni-jednani-statu-nejsou-vyrizovany-v-souladu-se-zakone"
 date: 2010-11-10
 perex: "<p></p>"

@@ -1,7 +1,7 @@
 ---
 title: "Učitelé náboženství mohou nosit náboženské symboly i o přestávkách"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2014/ucitele-nabozenstvi-mohou-nosit-nabozenske-symboly-i-o-prestavkach/"
 date: 2014-07-02
 perex: "<p>Belgická Státní rada rozhodovala o sporu mezi dvěma učitelkami islámu, které si odmítly mimo vyučování sundávat šátky, a školou, která s nimi neobnovila pracovní smlouvu. Požadavek, aby „o přestávce“ učitelé náboženství nenosili náboženské symboly, označila za protiústavní, nicméně výkon napadených rozhodnutí pozastavit odmítla.    </p>"

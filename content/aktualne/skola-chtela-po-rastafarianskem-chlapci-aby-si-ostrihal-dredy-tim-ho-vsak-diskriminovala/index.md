@@ -1,7 +1,7 @@
 ---
 title: "Škola chtěla po rastafariánském chlapci, aby si ostříhal dredy. Tím ho však diskriminovala."
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2018/skola-chtela-po-rastafarianskem-chlapci-aby-si-ostrihal-dredy-tim-ho-vsak-diskriminovala/"
 date: 2018-11-01
 perex: "<p>Podle britské Komise pro rovnost a lidská práva (EHRC) se škola dopustila diskriminace, jelikož chlapcovy dredy jsou součástí jeho rastafariánského náboženského vyznání.</p>"

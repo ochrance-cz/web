@@ -1,7 +1,7 @@
 ---
 title: "Dnes slavíme Světový den přístupnosti!"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2019/dnes-slavime-svetovy-den-pristupnosti/"
 date: 2019-05-16
 perex: "<p></p>"

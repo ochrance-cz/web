@@ -1,7 +1,7 @@
 ---
 title: "Klient s autismem? Sociální službu prakticky nenajde"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2018/klient-s-autismem-socialni-sluzbu-prakticky-nenajde"
 date: 2018-11-22
 perex: "<p>Česká republika se zavázala zajistit lidem se zdravotním postižením, tedy i těm s autismem, místně, časově i finančně dostupné služby, které budou zohledňovat jejich individuální potřeby. Skutečnost je však taková, že rodiny osob s autismem jsou nuceny pátrat po celé republice, zda se někde najde vhodná sociální služba. Najít sociální službu pro klienta s autismem, je takřka nemožné.</p>"

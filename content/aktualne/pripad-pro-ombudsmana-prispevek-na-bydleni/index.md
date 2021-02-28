@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Příspěvek na bydlení"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-v/pripad-pro-ombudsmana-prispevek-na-bydleni/"
 date: 2009-10-07
 perex: "<p> </p>"

@@ -1,7 +1,7 @@
 ---
 title: "Translidé nemusejí rušit manželství, aby měli po dosažení věku nově získaného pohlaví nárok na důchod, rozhodl soud."
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2018/translide-nemuseji-rusit-manzelstvi-aby-meli-po-dosazeni-veku-nove-ziskaneho-pohlavi-n/"
 date: 2018-08-24
 perex: "<p>Požadavek zrušení manželství pro uznání důchodu je podle Soudního dvora EU diskriminační.</p>"

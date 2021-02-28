@@ -1,7 +1,7 @@
 ---
 title: "Výsledky monitoringu fungování systému Visapoint"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2017/vysledky-monitoringu-fungovani-systemu-visapoint"
 date: 2017-11-29
 perex: "<p>Ministerstvo zahraničních věcí České republiky ukončilo ke dni 31. října 2017 provoz systému Visapoint. Ombudsmanka dlouhodobě sledovala fungování systému Visapoint prostřednictvím každodenního ověřování dostupnosti termínů pro podání žádostí o pobytová oprávnění na vybraných zastupitelských úřadech. Ze souhrnných výsledků monitoringu vyplynula nefunkčnost celého systému. </p>"

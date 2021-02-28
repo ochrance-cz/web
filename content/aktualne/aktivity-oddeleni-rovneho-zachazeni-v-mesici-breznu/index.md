@@ -1,7 +1,7 @@
 ---
 title: "Aktivity oddělení rovného zacházení v měsíci březnu"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2013/aktivity-oddeleni-rovneho-zachazeni-v-mesici-breznu/"
 date: 2013-03-19
 perex: "<p>Právníci oddělení rovného zacházení se v březnu aktivně účastní semináře evropské sítě EQUINET k situačnímu testování a přesunu důkazního břemene, simulovaného soudního procesu v rámce ELSA DAY, konference k výsledkům projektu Role měst v integraci sociálně vyloučené romské lokality a setkání s personalisty velkých a středně velkých společnosti na téma férového náboru.</p>"

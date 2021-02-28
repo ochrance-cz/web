@@ -1,7 +1,7 @@
 ---
 title: "Evropská komise se zabývá problémem průsečíkové diskriminace na základě pohlaví"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2016/evropska-komise-se-zabyva-problemem-prusecikove-diskriminace-na-zaklade-pohlavi/"
 date: 2016-09-12
 perex: "<p>Významná profesorka práva na oxfordské univerzitě Sandra Fredman, k jejíž specializaci patří antidiskriminační právo, zpracovala publikaci s názvem Intersectional discrimination in EU gender equality and non-discrimination law.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Adopční agentura neumožnila manželskému páru adopci kvůli jejich rasovému původu. Podle soudu došlo k diskriminaci"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2020/adopcni-agentura-neumoznila-manzelskemu-paru-adopci-kvuli-jejich-rasovemu-puvodu-podle-sou/"
 date: 2020-02-05
 perex: "<p>Rasový původ obou manželů byl pro agenturu jediným kritériem k odmítnutí adopce, což bylo podle britského soudu diskriminační.</p>"

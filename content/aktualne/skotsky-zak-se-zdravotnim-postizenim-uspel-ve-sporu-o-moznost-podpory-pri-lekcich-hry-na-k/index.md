@@ -1,7 +1,7 @@
 ---
 title: "Skotský žák se zdravotním postižením uspěl ve sporu o možnost podpory při lekcích hry na kytaru"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2013/skotsky-zak-se-zdravotnim-postizenim-uspel-ve-sporu-o-moznost-podpory-pri-lekcich-hry-na-k/"
 date: 2013-08-30
 perex: "<p>Školák se zdravotním postižením bude smět navštěvovat lekce hry na kytaru. V prvním případu svého typu ve Skotsku tak rozhodl Tribunál pro podporu dodatkových potřeb (Additional Support Needs Tribunals for Scotland). Jeho rozhodnutí se tak stane inspirací pro budoucí řešení podobných případů.</p>"

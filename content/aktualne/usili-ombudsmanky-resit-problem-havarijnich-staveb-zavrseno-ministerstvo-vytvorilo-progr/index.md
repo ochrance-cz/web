@@ -1,7 +1,7 @@
 ---
 title: "Úsilí ombudsmanky řešit problém havarijních staveb završeno – ministerstvo vytvořilo program financování"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/usili-ombudsmanky-resit-problem-havarijnich-staveb-zavrseno-ministerstvo-vytvorilo-progr"
 date: 2019-03-21
 perex: "<p>Několikaleté úsilí o řešení problému odstraňování chátrajících staveb ohrožujících životy a zdraví lidí snad spěje ke zdárnému konci. Ministerstvo pro místní rozvoj vyhovělo ombudsmance, zpracovalo program nazvaný „Podpora výkonů rozhodnutí stavebních úřadů“ a vydalo pravidla pro čerpání finančních prostředků ze státního rozpočtu na krytí nákladů na výkon rozhodnutí stavebních úřadů.</p>"

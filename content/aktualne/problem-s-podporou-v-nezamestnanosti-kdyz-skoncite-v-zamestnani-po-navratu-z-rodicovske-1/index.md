@@ -1,7 +1,7 @@
 ---
 title: "Problém s podporou v nezaměstnanosti, když skončíte v zaměstnání po návratu z rodičovské dovolené"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/problem-s-podporou-v-nezamestnanosti-kdyz-skoncite-v-zamestnani-po-navratu-z-rodicovske-1"
 date: 2019-01-02
 perex: "<p>Rodiče dětí do 4 let, kteří se vrátí do zaměstnání po rodičovské dovolené, jejich pracovní poměr následně skončí, a nemají vyhlídky na brzké zaměstnání, by si měli dát pozor, aby se na úřadu práce přihlásili nejpozději do 3 pracovních dnů od skončení pracovního poměru. Pokud splňují zákonné podmínky pro přiznání podpory v nezaměstnanosti, ale do evidence úřadu práce přihlásí později, podpora jim bude přiznána jen v minimální výši.</p>"

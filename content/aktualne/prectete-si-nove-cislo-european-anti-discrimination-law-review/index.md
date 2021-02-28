@@ -1,7 +1,7 @@
 ---
 title: "Přečtěte si nové číslo European Anti-Discrimination Law Review"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2014/prectete-si-nove-cislo-european-anti-discrimination-law-review/"
 date: 2014-12-15
 perex: "<p>Devatenácté číslo European Anti-Discrimination Law Review, které vyšlo v listopadu 2014, přináší novinky, analýzy a informace o vývoji antidiskriminačního práva v členských státech Evropské unie, bývalé jugoslávské republice Makedonii, Turecku, Islandu, Lichtenštejnsku a Norsku. Aktuální číslo reflektuje právní a judikaturní stav k 15. červnu 2014.</p>"

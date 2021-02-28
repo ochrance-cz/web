@@ -1,7 +1,7 @@
 ---
 title: "Nová úprava adopce homosexuálními partnery v Německu je nedostačující"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2014/nova-uprava-adopce-homosexualnimi-partnery-v-nemecku-je-nedostacujici/"
 date: 2014-07-09
 perex: "<p>Německo se rozhodlo rozšířit možnost adopce homosexuálními páry, avšak neumožňuje společnou adopci partnery, čímž v oblasti osvojení stále není dosaženo rovnosti homosexuálních a heterosexuálních párů.</p>"

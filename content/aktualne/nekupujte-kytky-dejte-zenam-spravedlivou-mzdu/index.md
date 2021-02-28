@@ -1,7 +1,7 @@
 ---
 title: "Nekupujte kytky, dejte ženám spravedlivou mzdu"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2019/nekupujte-kytky-dejte-zenam-spravedlivou-mzdu/"
 date: 2019-03-25
 perex: "<p>Ženy samoživitelky chodí do práce, starají se o děti a často třou bídu s nouzí jako před sto lety. Jak je to možné? </p>"

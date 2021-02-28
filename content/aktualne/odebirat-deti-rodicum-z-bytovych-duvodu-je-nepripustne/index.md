@@ -1,7 +1,7 @@
 ---
 title: "Odebírat děti rodičům z bytových důvodů je nepřípustné"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2007/odebirat-deti-rodicum-z-bytovych-duvodu-je-nepripustne"
 date: 2007-12-12
 perex: "<p></p><p>V rámci svých šetření veřejný ochránce práv zjistil, že s rodinami postiženými nebo ohroženými sociálním propadem je paradoxně mnohdy zacházeno stejně, jako s rodiči, kteří své děti týrají, zneužívají nebo jinak ohrožují jejich život či výchovu. Děti jsou odebírány z rodin na základě hygienických nedostatků v bytě nebo kvůli neschopnosti rodičů zajistit vlastní bydlení. Pokud k tomu dojde, tak díky následné izolaci rodiče často ztrácejí motivaci ke zlepšení ekonomických funkcí a citové vazby rodičů a dětí se rozvolňují. Veřejný ochránce práv považuje tento postup za zcela nepřípustný a v rozporu nejen s právy dítěte, ale lidskými právy vůbec.</p>"

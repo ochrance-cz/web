@@ -1,7 +1,7 @@
 ---
 title: "11. duben je Světovým dnem Parkinsonovy nemoci"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2020/11-duben-je-svetovym-dnem-parkinsonovy-nemoci/"
 date: 2020-04-10
 perex: "<p>Parkinsonova nemoc je chronické, pomalu postupující onemocnění nervové soustavy. Způsobuje nadměrné odumírání mozkových buněk, které vytvářejí dopamin. V důsledku úbytku dopaminu se zhoršují schopnosti člověka ovládat nebo kontrolovat svůj pohyb. Nemoc poprvé popsal v roce 1817 britský lékař James Parkinson. Světový den Parkinsonovy nemoci připadá na jeho narozeniny. </p>"

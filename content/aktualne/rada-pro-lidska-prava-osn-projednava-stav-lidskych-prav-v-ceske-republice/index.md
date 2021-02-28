@@ -1,7 +1,7 @@
 ---
 title: "Rada pro lidská práva OSN projednává stav lidských práv v České republice"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2017/rada-pro-lidska-prava-osn-projednava-stav-lidskych-prav-v-ceske-republice"
 date: 2017-11-06
 perex: "<p>Dnes dopoledne proběhlo v Radě pro lidská práva OSN projednání stavu lidských práv v České republice. Jedná se o univerzální periodický přezkum naplňování mezinárodních lidskoprávních závazků a doporučení. Výstupem bude zhodnocení stavu lidských práv v České republice a případná doporučení, které oblasti je třeba zlepšit. </p>"

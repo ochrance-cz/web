@@ -1,7 +1,7 @@
 ---
 title: "Policejní cely: podmínky a situace umístěných osob"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2017/policejni-cely-podminky-a-situace-umistenych-osob"
 date: 2017-08-29
 perex: "<p>Ombudsmanka shrnula zjištění z návštěv 47 policejních cel prováděných v letech 2015 a 2016. Setkala se s nedostatečným poučováním osob umístěných v celách i s nepřiměřeným zásahem do jejich práv, soukromí a důstojnosti. Většinu doporučení ombudsmanky policie akceptovala a pracuje na nápravě.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Konzulát odmítal vydat cestovní průkaz nemocnému dítěti, které se tak nemohlo vrátit s matkou zpět do Česka. Pomohl až zásah ombudsmanky"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/konzulat-odmital-vydat-cestovni-prukaz-nemocnemu-diteti-ktere-se-tak-nemohlo-vratit-s-matk"
 date: 2019-08-16
 perex: "<p>Ženě, žijící se svou rodinou v zahraničí, se na začátku letošního roku narodilo dítě. Syn měl vrozenou vadu nohy, kterou bylo nutné operovat co nejdříve po narození, jelikož by se tato vada s dalším růstem dítěte dále zhoršovala. Češka proto chtěla s chlapcem urychleně vycestovat z africké země zpátky do České republiky, kde by mu byla poskytnuta potřebná péče. Zastupitelský úřad jí však odmítl vydat náhradní cestovní průkaz, bez něhož však s dítětem nemohla odjet. Tíživou životní situaci pomohl vyřešit až zásah ombudsmanky a Ministerstva zahraničních věcí.</p>"

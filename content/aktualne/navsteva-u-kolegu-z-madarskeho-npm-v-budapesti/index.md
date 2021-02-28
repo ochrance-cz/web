@@ -1,7 +1,7 @@
 ---
 title: "Návštěva u kolegů z maďarského NPM v Budapešti"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2015/navsteva-u-kolegu-z-madarskeho-npm-v-budapesti/"
 date: 2015-11-06
 perex: "<p>Dvě právničky z oddělení dohledu nad omezováním osobní svobody na konci října navštívily kolegy z maďarského národního preventivního mechanismu. Cílem byla výměna zkušeností a diskuse nad společnými problémy.</p>"

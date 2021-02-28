@@ -1,7 +1,7 @@
 ---
 title: "Konference: Praktická implementace článku 12 Úmluvy o právech osob se zdravotním postižením"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2018/konference-prakticka-implementace-clanku-12-umluvy-o-pravech-osob-se-zdravotnim-postizenim/"
 date: 2018-11-14
 perex: "<p>Veřejná ochránkyně práv Mgr. Anna Šabatová, Ph. D. ve spolupráci s Právnickou fakultou UK si vás dovoluje pozvat na konferenci Praktická implementace článku 12 Úmluvy o právech osob se zdravotním postižením. </p>"

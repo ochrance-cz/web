@@ -1,7 +1,7 @@
 ---
 title: "První návštěvy v roce 2015"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2015/prvni-navstevy-v-roce-2015/"
 date: 2015-01-15
 perex: "<p></p>"

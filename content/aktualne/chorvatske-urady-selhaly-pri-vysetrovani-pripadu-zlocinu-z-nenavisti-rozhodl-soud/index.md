@@ -1,7 +1,7 @@
 ---
 title: "Chorvatské úřady selhaly při vyšetřování případu zločinu z nenávisti, rozhodl soud"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2017/chorvatske-urady-selhaly-pri-vysetrovani-pripadu-zlocinu-z-nenavisti-rozhodl-soud/"
 date: 2017-08-25
 perex: "<p>Podle Evropského soudu pro lidská práva může být obětí zločinu z nenávisti i člověk na základě spřízněnosti s druhou osobou.</p>"

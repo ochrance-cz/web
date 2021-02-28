@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Střelnice vedle našeho domu"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-v/pripad-pro-ombudsmana-strelnice-vedle-naseho-domu/"
 date: 2009-09-09
 perex: "<p></p>"

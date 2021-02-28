@@ -1,7 +1,7 @@
 ---
 title: "Pokračují školení dalších krajských ředitelství policie"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2016/pokracuji-skoleni-dalsich-krajskych-reditelstvi-policie/"
 date: 2016-07-11
 perex: "<p>Ve druhém čtvrtletí tohoto roku proběhla školení policistů z Krajského ředitelství policie Zlínského kraje, Karlovarského kraje a Plzeňského kraje. </p>"

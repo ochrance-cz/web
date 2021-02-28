@@ -1,7 +1,7 @@
 ---
 title: "Úřad nemůže tvrdit, že se skutek nestal, když má videozáznam o jeho spáchání"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/urad-nemuze-tvrdit-ze-se-skutek-nestal-kdyz-ma-videozaznam-o-jeho-spachani"
 date: 2020-09-09
 perex: "<p>Když poškozený předloží v přestupkovém řízení videozáznam incidentu, na němž jsou zachyceny urážlivé výroky, nemůže úřad řízení zastavit s konstatováním, že spáchání daného skutku neprokázal. Musí odůvodnit, proč podle něj zaznamenané skutečnosti nenaplňují znaky přestupku, zda zohlednil nějaké polehčující okolnosti apod. Tyto argumenty pak mohou vést k zastavení řízení.</p>"

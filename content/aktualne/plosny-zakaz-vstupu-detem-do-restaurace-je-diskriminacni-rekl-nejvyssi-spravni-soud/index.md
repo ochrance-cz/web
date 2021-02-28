@@ -1,7 +1,7 @@
 ---
 title: "Plošný zákaz vstupu dětem do restaurace je diskriminační, řekl Nejvyšší správní soud"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2014/plosny-zakaz-vstupu-detem-do-restaurace-je-diskriminacni-rekl-nejvyssi-spravni-soud/"
 date: 2014-11-13
 perex: "<p>Nejvyšší správní soud dal svým rozsudkem za pravdu České obchodní inspekci, která uložila provozovateli restaurace pokutu za to, že zakazoval vstup do svého zařízení dětem.</p>"

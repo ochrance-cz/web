@@ -1,7 +1,7 @@
 ---
 title: "Společné prohlášení ombudsmanů států Visegrádské skupiny: Lidská práva pro každého"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2017/spolecne-prohlaseni-ombudsmanu-statu-visegradske-skupiny-lidska-prava-pro-kazdeho"
 date: 2017-09-07
 perex: "<p></p>"

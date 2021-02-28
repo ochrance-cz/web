@@ -1,7 +1,7 @@
 ---
 title: "Ombudsman informoval Zvláštní zpravodajku OSN"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2020/ombudsman-informoval-zvlastni-zpravodajku-osn/"
 date: 2020-04-16
 perex: "<p>Zvláštní zpravodajka OSN pro práva osob se zdravotním postižením, Catalina Devandas Aguilar, se v současnosti zajímá o zapojování lidí s postižením v rámci mezinárodní spolupráce. Za tímto účelem se obrátila s dotazy na aktéry z celého světa. </p>"

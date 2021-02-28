@@ -1,7 +1,7 @@
 ---
 title: "Uplatňování Haagské úmluvy v České republice"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2006/uplatnovani-haagske-umluvy-v-ceske-republice"
 date: 2006-07-12
 perex: "<p></p>"

@@ -1,7 +1,7 @@
 ---
 title: "Účast českého zástupce na 5. tematickém pracovním semináři národních preventivních mechanismů v Talinu"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2011/ucast-ceskeho-zastupce-na-5-tematickem-pracovnim-seminari-narodnich-preventivnich-mecha/"
 date: 2011-06-28
 perex: "<p></p><p>Ve dnech 14. – 16. června 2011 se pracovník oddělení dohledu nad omezováním osobní svobody zúčastnil v estonském Talinu 5. tématického pracovního semináře národních preventivních mechanismů nazvaného „Shromažďování a ověřování informací v rámci preventivních systematických návštěv“. Seminář pořádala Evropská unie, Rada Evropy a estonský ombudsman. </p>"

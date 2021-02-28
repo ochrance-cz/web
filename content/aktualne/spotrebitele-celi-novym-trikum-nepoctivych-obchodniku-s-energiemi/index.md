@@ -1,7 +1,7 @@
 ---
 title: "Spotřebitelé čelí novým trikům nepoctivých obchodníků s energiemi"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2017/spotrebitele-celi-novym-trikum-nepoctivych-obchodniku-s-energiemi"
 date: 2017-03-15
 perex: "<p>Na trhu s energiemi se dlouhodobě vede velmi tvrdý boj o zákazníka. Toto prostředí také přitahuje společnosti a obchodníky, jejichž jednání se někdy pohybuje na hraně zákona i morálky. Spotřebitel se před těmito praktikami nejlépe ochrání tím, že v časové tísni a bez řádné úvahy nic nepodepíše. A to ani tehdy, tvrdí-li mu obchodník, že jeho podpis je nezávazný. V opačném případě se spotřebitel sice stále může bránit, potřebuje k tomu ovšem dostatek informací a znalost vlastních práv. A musí jednat rychle. </p>"

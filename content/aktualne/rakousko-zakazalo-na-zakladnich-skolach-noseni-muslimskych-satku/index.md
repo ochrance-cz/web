@@ -1,7 +1,7 @@
 ---
 title: "Rakousko zakázalo na základních školách nošení muslimských šátků"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2019/rakousko-zakazalo-na-zakladnich-skolach-noseni-muslimskych-satku/"
 date: 2019-07-01
 perex: "<p>Zákaz nošení tradičních šátků platí pro muslimské dívky do 10 let věku na všech rakouských základních školách.</p>"

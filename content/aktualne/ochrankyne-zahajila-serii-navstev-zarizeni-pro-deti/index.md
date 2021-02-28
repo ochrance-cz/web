@@ -1,7 +1,7 @@
 ---
 title: "Ochránkyně zahájila sérii návštěv zařízení pro děti"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2019/ochrankyne-zahajila-serii-navstev-zarizeni-pro-deti/"
 date: 2019-04-30
 perex: "<p></p>"

@@ -1,7 +1,7 @@
 ---
 title: "Ombudsmanka šetří nestandardní průtahy v řízení o udělení mezinárodní ochrany křesťanům z Číny"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2017/ombudsmanka-setri-nestandardni-prutahy-v-rizeni-o-udeleni-mezinarodni-ochrany-krestan"
 date: 2017-12-21
 perex: "<p>Na základě opakované medializace průtahů, ke kterým má dle dostupných informací docházet v řízeních o žádostech početné skupiny čínských státních příslušníků o mezinárodní ochranu v České republice, ombudsmanka zahájila šetření z vlastní iniciativy. V průběhu šetření se na ombudsmanku obrátili tři čínští stěžovatelé ve stejné záležitosti. </p>"

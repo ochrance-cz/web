@@ -1,7 +1,7 @@
 ---
 title: "Základní práva starších lidí je třeba lépe chránit, uvádí nová zpráva agentury FRA"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2018/zakladni-prava-starsich-lidi-je-treba-lepe-chranit-uvadi-nova-zprava-agentury-fra/"
 date: 2018-07-11
 perex: "<p>Podle agentury EU pro základní práva (FRA) nejsou práva starších lidí stále dostatečně chráněna, starší lidé často čelí chudobě a diskriminaci.</p>"

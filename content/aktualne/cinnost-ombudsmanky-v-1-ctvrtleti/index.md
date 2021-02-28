@@ -1,7 +1,7 @@
 ---
 title: "Činnost ombudsmanky v 1. čtvrtletí"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/cinnost-ombudsmanky-v-1-ctvrtleti"
 date: 2019-05-06
 perex: "<p>Ombudsmanka zaslala Poslanecké sněmovně zprávu o své činnosti v 1. čtvrtletí. Lidé se na ni v tomto období obrátili s 2 178 podněty. Nejčastěji lidé hledali pomoc v otázkách týkajících se stavebnictví (165 podnětů), důchodů (157 podnětů), dávek sociální podpory a hmotné nouze (119 podnětů) a činnosti Vězeňské služby (115 podnětů). V 77 podnětech lidé namítali nerovné zacházení. V rámci prevence špatného zacházení se uskutečnilo 7 návštěv zařízení (včetně dětského domova, nemocnice a domova pro seniory).</p>"

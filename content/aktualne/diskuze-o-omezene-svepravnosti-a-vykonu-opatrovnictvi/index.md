@@ -1,7 +1,7 @@
 ---
 title: "Diskuze o omezené svéprávnosti a výkonu opatrovnictví"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2020/diskuze-o-omezene-svepravnosti-a-vykonu-opatrovnictvi/"
 date: 2020-09-07
 perex: "<p>2. a 3. září právničky Kanceláře veřejného ochránce práv diskutovaly s odbornou veřejností právní otázky, které s sebou přináší omezení svéprávnosti a výkon opatrovnictví.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Rada Evropy vydala publikaci, jejímž cílem je boj proti nenávistným projevům"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2017/rada-evropy-vydala-publikaci-jejimz-cilem-je-boj-proti-nenavistnym-projevum/"
 date: 2017-08-29
 perex: "<p>Publikovaná příručka, kterou vydala Rada Evropy, představuje soubor on-line a off-line komunikačních a vzdělávacích přístupů a nástrojů, pomocí nichž chce poukázat na projevy nenávisti zejména v on-line prostředí. Jejím cílem je kromě boje proti nenávistným projevům také podpora lidských práv.</p>"

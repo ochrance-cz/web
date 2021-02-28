@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Bylo to nekonečné"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-i/pripad-pro-ombudsmana-bylo-to-nekonecne/"
 date: 2010-02-19
 perex: "<p></p><p>Paní Valentyna, Ukrajinka s vysokoškolským vzděláním, která se do ČR vdala, se obrátila na VOP s podnětem směřujícím proti průtahům v činnosti Ministerstva školství, mládeže a tělovýchovy ČR. Jednalo se jí o uznání jejího vysokoškolského vzdělání. Pod tlakem Kanceláře VOP ministerstvo své pochybení uznalo.</p>"

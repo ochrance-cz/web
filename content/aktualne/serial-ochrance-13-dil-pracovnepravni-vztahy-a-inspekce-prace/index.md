@@ -1,7 +1,7 @@
 ---
 title: "Seriál Ochránce – 13. díl – Pracovněprávní vztahy a inspekce práce"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2012/serial-ochrance-13-dil-pracovnepravni-vztahy-a-inspekce-prace"
 date: 2012-11-30
 perex: "<p>V neděli 2. 12. v 11:55 h vysílá ČT2 13. díl pořadu Ochránce, tentokrát o pracovněprávních vztazích a činnosti inspektorátů práce. Reprízu dílu uvidíte na ČT2 v úterý 4. 12. v 9:00h.</p>"

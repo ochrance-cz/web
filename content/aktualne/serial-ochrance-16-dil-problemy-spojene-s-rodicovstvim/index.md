@@ -1,7 +1,7 @@
 ---
 title: "Seriál Ochránce – 16. díl – Problémy spojené s rodičovstvím"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2012/serial-ochrance-16-dil-problemy-spojene-s-rodicovstvim"
 date: 2012-12-19
 perex: "<p>V neděli 23. 12. v 10:50h vysílá ČT2 poslední, 16. díl pořadu Ochránce, tentokrát o problémech spojených s rodičovstvím. Reprízu dílu uvidíte na ČT2 tentokrát ve středu 26. 12. po půlnoci v 02:40h.</p>"

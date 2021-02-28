@@ -1,7 +1,7 @@
 ---
 title: "Policejní cely námětem setkání OBSE"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2014/policejni-cely-nametem-setkani-obse/"
 date: 2014-06-23
 perex: "<p></p>"

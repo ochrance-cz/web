@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Svěření do péče"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2010/pripad-pro-ombudsmana-svereni-do-pece"
 date: 2010-11-18
 perex: "<p></p><p>V pátek 19. 11. vysílá Česká televize na ČT1 v 18:25 dvanáctý díl cyklu Případ pro ombudsmana (repríze v pondělí 22. 11. ve 12:25 na ČT2). Díl nazvaný Svěření do péče upozorňuje na nutnost prověřit možnosti svěření dítěte do péče širší rodiny předtím, než bude umístěna do ústavní péče. </p>"

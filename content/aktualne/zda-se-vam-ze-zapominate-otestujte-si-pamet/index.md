@@ -1,7 +1,7 @@
 ---
 title: "Zdá se vám, že zapomínáte? Otestujte si paměť"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2017/zda-se-vam-ze-zapominate-otestujte-si-pamet"
 date: 2017-12-01
 perex: "<p>Na podporu včasného zachycení poruch paměti a prevence Alzheimerovy choroby organizuje ombudsmanka ve spolupráci s Českou alzheimerovskou společností ve dnech 13. – 15. 12. testování paměti. Kdokoli má zájem, může si rezervovat termín a zdarma si ověřit, jak je na tom s pamětí, jestli třeba zapomíná jen z roztržitosti, nebo může jít o počátek poruchy paměti.</p>"

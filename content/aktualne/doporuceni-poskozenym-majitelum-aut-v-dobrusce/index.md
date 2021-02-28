@@ -1,7 +1,7 @@
 ---
 title: "Doporučení poškozeným majitelům aut v Dobrušce"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2017/doporuceni-poskozenym-majitelum-aut-v-dobrusce"
 date: 2017-04-07
 perex: "<p>Majitelé aut, jejichž technickou způsobilost nezákonně schvaloval úředník Městského úřadu v Dobrušce, odsouzený za to z trestného činu, se proti nynějším rozhodnutím o obnově řízení mohou bránit podnětem k přezkumnému řízení, v němž budou namítat dobrou víru, s níž auto v ČR zakoupili, a také újmu, která jim nyní vznikne.</p>"

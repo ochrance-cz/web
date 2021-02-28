@@ -1,7 +1,7 @@
 ---
 title: "Návštěvy zařízení pro děti vyžadující okamžitou pomoc"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2016/navstevy-zarizeni-pro-deti-vyzadujici-okamzitou-pomoc/"
 date: 2016-04-06
 perex: "<p>V roce 2016 bude veřejná ochránkyně práv provádět návštěvy zařízení pro děti vyžadující okamžitou pomoc. Tato zařízení poskytují ochranu a pomoc dětem, které se ocitly bez jakékoliv péče,  je vážně ohrožen jejich život nebo vývoj, jde-li o děti tělesně nebo duševně týrané nebo zneužívané anebo jsou závažným způsobem ohrožena jejich základní práva. </p>"

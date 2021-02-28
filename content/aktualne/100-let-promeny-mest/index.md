@@ -1,7 +1,7 @@
 ---
 title: "100 let – proměny měst"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2018/100-let-promeny-mest"
 date: 2018-03-26
 perex: "<p>Na památkovou péči v České a Slovenské republice a na rozvoj našich historických sídel se zaměřila konference „100 let – proměny měst“, které jsme se účastnili. Téma bylo současně připomínkou stoletého výročí ukončení 1. světové války, úcty ke svobodě, občanským právům, rovnoprávnosti a mírové spolupráci evropských národů.</p>"

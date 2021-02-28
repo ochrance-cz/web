@@ -1,7 +1,7 @@
 ---
 title: "Francie nařídila povinné zakrytí obličeje kvůli koronaviru, nošení nikábu či burky ale bude nadále pokutovat"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2020/francie-naridila-povinne-zakryti-obliceje-kvuli-koronaviru-noseni-nikabu-ci-burky-ale-bud/"
 date: 2020-07-14
 perex: "<p>Někteří experti však upozorňují, že faktický zákaz nošení nikábu či burky na veřejnosti nemůže být už kvůli protipandemickým opatřením vymahatelný.</p>"

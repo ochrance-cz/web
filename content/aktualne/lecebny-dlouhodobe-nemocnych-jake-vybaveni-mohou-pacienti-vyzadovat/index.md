@@ -1,7 +1,7 @@
 ---
 title: "Léčebny dlouhodobě nemocných: jaké vybavení mohou pacienti vyžadovat?"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2018/lecebny-dlouhodobe-nemocnych-jake-vybaveni-mohou-pacienti-vyzadovat"
 date: 2018-03-23
 perex: "<p>Pacienti v léčebnách dlouhodobě nemocných často netuší, jaké služby a vybavení mohou očekávat a vyžadovat. Potřebné informace chybí také jejich příbuzným. Přinášíme proto přehled základních materiálních podmínek, které má každé takové zařízení splňovat. Ombudsmanka dlouhodobě monitoruje podmínky lidí, kteří jsou umístěni v léčebnách pro dlouhodobě nemocné. O svých zjištěních pravidelně informuje veřejnost.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Při ochraně práv zaměstnanců musí inspektoráty práce působit i sankčně"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2016/pri-ochrane-prav-zamestnancu-musi-inspektoraty-prace-pusobit-i-sankcne"
 date: 2016-11-03
 perex: "<p>Inspektoráty práce musí v zájmu ochrany zaměstnanců důsledně plnit jak úlohu preventivní, tak i sankční. Jestliže zjistí, že zaměstnavatel porušil pracovněprávní předpisy, musí s ním vždy zahájit správní řízení o správním deliktu. Fakt, že zaměstnavatel následně projevil vstřícnost a zjištěné nedostatky odstranil, může inspektorát práce zohlednit pouze ve výši sankce, ale není to důvodem k nezahájení správního řízení s ním.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Stanovisko ombudsmana k tvrzení nové ministryně práce a sociálních věcí o povinnosti využívat sKartu"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2012/stanovisko-ombudsmana-k-tvrzeni-nove-ministryne-prace-a-socialnich-veci-o-povinnosti-vyuzi"
 date: 2012-11-20
 perex: "<p></p>"

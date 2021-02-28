@@ -1,7 +1,7 @@
 ---
 title: "Podvýbor OSN pro zabránění mučení navštívil Senegal"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2013/podvybor-osn-pro-zabraneni-muceni-navstivil-senegal/"
 date: 2013-02-19
 perex: "<p>Jednalo se o první návštěvu zaměřenou na podporu nově vzniklému NPM.</p>"

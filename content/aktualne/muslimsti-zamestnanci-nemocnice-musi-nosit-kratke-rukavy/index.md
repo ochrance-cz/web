@@ -1,7 +1,7 @@
 ---
 title: "Muslimští zaměstnanci nemocnice musí nosit krátké rukávy"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2014/muslimsti-zamestnanci-nemocnice-musi-nosit-kratke-rukavy/"
 date: 2014-08-21
 perex: "<p>Rotterdamský okresní soud nedal za pravdu muslimce, která požadovala určení neplatnosti výpovědi. Pedagogická pracovnice dostala od nemocnice výpověď kvůli tomu, že odmítla nosit krátké rukávy. </p>"

@@ -1,7 +1,7 @@
 ---
 title: "Stavební úřady řeší podmáčení staveb, vlhkost se vznikem plísní a jiné závady, jen když ohrožují zdraví"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/stavebni-urady-resi-podmaceni-staveb-vlhkost-se-vznikem-plisni-a-jine-zavady-jen-kdy"
 date: 2020-11-25
 perex: "<p>Vlhko a chlad mohou způsobovat škody na stavbách, komplikovat život jejich vlastníkům nebo i ohrožovat jejich zdraví. Právě na podzim proto přibývá dotazů ombudsmanovi a žádostí o radu či pomoc při řešení problémů s podmáčením nemovitostí, vlhkostí zdiva a s tím spojeným rizikem vzniku plísní. Lidé obvykle namítají, že k poškozování jejich nemovitosti dochází v důsledku závadného stavu sousední stavby nebo pozemku, a nejsou spokojeni s tím, že stavební úřad nevyhověl jejich podání.</p>"

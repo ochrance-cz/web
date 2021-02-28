@@ -1,7 +1,7 @@
 ---
 title: "Návštěva domova se zvláštním režimem"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2013/navsteva-domova-se-zvlastnim-rezimem/"
 date: 2013-02-27
 perex: "<p>Formou exkurzí a školení získávají pracovníci Kanceláře ombudsmana podrobné ifnormace o poskytování péče o seniory trpící Alzheimerovou chorobou, dalšími typy demence, degenerativním onemocněním mozku nebo po cévní mozkové příhodě. Připravují se tak na provádění systematických návštěv zařízení pro seniory v roce 2013.</p>"

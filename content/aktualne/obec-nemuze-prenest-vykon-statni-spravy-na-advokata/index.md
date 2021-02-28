@@ -1,7 +1,7 @@
 ---
 title: "Obec nemůže přenést výkon státní správy na advokáta"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2013/obec-nemuze-prenest-vykon-statni-spravy-na-advokata"
 date: 2013-04-30
 perex: "<p>Není možné, aby státní správu vykonávali advokáti. Správní rozhodnutí a další správní akty musí být vždy vydávány příslušnými úřady. Pokud úřad potřebuje v rámci přípravy služeb advokáta, musí se jednat pouze o právní poradenství. Listina vydaná advokátní kanceláří, i když je vydávána za správní rozhodnutí úřadu, není veřejnou listinou ve smyslu správního řádu a adresáty nezavazuje.</p>"

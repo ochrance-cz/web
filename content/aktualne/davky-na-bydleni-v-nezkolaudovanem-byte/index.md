@@ -1,7 +1,7 @@
 ---
 title: "Dávky na bydlení v nezkolaudovaném bytě"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2014/davky-na-bydleni-v-nezkolaudovanem-byte"
 date: 2014-12-10
 perex: "<p>Prostor nemusí být zkolaudovaný jako byt, pokud je ale vhodný k trvalému bydlení, je možné jeho obyvatelům přiznat příspěvek na bydlení a doplatek na bydlení. Krajský soud v Brně potvrdil názor veřejného ochránce práv v žalobě stěžovatele proti Ministerstvu práce a sociálních věcí. Od 1. ledna 2015 už bude tato možnost přímo v zákoně o pomoci v hmotné nouzi.</p>"

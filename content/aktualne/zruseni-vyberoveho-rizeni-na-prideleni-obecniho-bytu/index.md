@@ -1,7 +1,7 @@
 ---
 title: "Zrušení výběrového řízení na přidělení obecního bytu"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2014/zruseni-vyberoveho-rizeni-na-prideleni-obecniho-bytu"
 date: 2014-08-04
 perex: "<p>Na případ možné diskriminace z důvodu etnického původu v přístupu k bydlení upozornila veřejná ochránkyně práv Poslaneckou sněmovnu v rámci zprávy o činnosti ve 2. čtvrtletí. Město bez odůvodnění zrušilo výběrové řízení na uzavření nájemní smlouvy k obecnímu bytu, které vyhrála romská žadatelka.</p>"

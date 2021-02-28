@@ -1,7 +1,7 @@
 ---
 title: "Sál Otakara Motejla"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2010/sal-otakara-motejla"
 date: 2010-12-10
 perex: "<p></p>"

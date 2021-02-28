@@ -1,7 +1,7 @@
 ---
 title: "Nová pravidla by měla zpřístupnit bezplatnou právní pomoc"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2018/nova-pravidla-by-mela-zpristupnit-bezplatnou-pravni-pomoc"
 date: 2018-07-26
 perex: "<p>Od 1. července 2018 platí nová pravidla pro poskytování bezplatné právní pomoci. Ta by měla být nyní dostupnější. Zatímco doposud byla bezplatná právní pomoc poskytována obvykle v maximální délce 15 minut, od 1. července se může jednat až o 120 minut ročně. Bezplatná právní pomoc je určena těm, kdo si služby advokáta nemohou z finančních důvodů dovolit. Tuto skutečnost však musí prokázat.</p>"

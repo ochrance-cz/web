@@ -1,7 +1,7 @@
 ---
 title: "Hledáme nové posily z oborů právo a sociologie"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2017/hledame-nove-posily-z-oboru-pravo-a-sociologie-1"
 date: 2017-10-31
 perex: "<p>Hledáme právníka/právničku se zájmem o téma ochrany spotřebitele a na poloviční úvazek či DPČ také sociologa/socioložku se zaměřením na kvantitativní výzkum.</p>"

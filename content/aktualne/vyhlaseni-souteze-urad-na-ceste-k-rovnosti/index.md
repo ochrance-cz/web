@@ -1,7 +1,7 @@
 ---
 title: "Vyhlášení soutěže Úřad na cestě k rovnosti"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2019/vyhlaseni-souteze-urad-na-ceste-k-rovnosti/"
 date: 2019-09-09
 perex: "<p></p>"

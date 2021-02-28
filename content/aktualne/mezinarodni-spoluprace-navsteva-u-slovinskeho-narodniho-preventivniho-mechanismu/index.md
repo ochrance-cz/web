@@ -1,7 +1,7 @@
 ---
 title: "Mezinárodní spolupráce: návštěva u slovinského národního preventivního mechanismu"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2013/mezinarodni-spoluprace-navsteva-u-slovinskeho-narodniho-preventivniho-mechanismu/"
 date: 2013-11-18
 perex: "<p>Ve dnech 6. – 7. listopadu navštívili tři pracovníci oddělení dohledu své slovinské kolegy z Kanceláře Ombudsmana Slovinské republiky, který stejně jako veřejný ochránce práv vykonává úkol národního preventivního mechanismu. Cílem reciproční návštěvy bylo bližší seznámení se s praktickými aspekty systematických návštěv, jak je provádějí kolegové ve Slovinsku.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Nelze odnímat příspěvek na bydlení kvůli neochotě pronajímatele vystavit doklad"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/nelze-odnimat-prispevek-na-bydleni-kvuli-neochote-pronajimatele-vystavit-doklad"
 date: 2020-12-15
 perex: "<p>Úřad práce nemůže odejmout příspěvek na bydlení nájemci bytu, kterému přes maximální snahu pronajímatel odmítá vydat doklad s vyúčtováním placených služeb. Takový postup úřadu je podle ombudsmana formalistický a popírá účel dávky na bydlení.</p>"

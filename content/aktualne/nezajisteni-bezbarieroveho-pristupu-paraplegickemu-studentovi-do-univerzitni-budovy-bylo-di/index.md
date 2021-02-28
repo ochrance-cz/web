@@ -1,7 +1,7 @@
 ---
 title: "Nezajištění bezbariérového přístupu paraplegickému studentovi do univerzitní budovy bylo diskriminační, rozhodl soud"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2018/nezajisteni-bezbarieroveho-pristupu-paraplegickemu-studentovi-do-univerzitni-budovy-bylo-di/"
 date: 2018-03-16
 perex: "<p>Podle Evropského soudu pro lidská práva je absence přístupu do univerzitní budovy pro imobilní studující porušením jejich práva na vzdělání.</p>"

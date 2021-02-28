@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Výměna oken"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2010/pripad-pro-ombudsmana-vymena-oken"
 date: 2010-10-07
 perex: "<p></p><p>V pátek 8. 10. vysílá Česká televize na ČT1 v 18:25 šestý díl cyklu Případ pro ombudsmana (repríze v pondělí 11. 10. ve 12:25 na ČT2). Díl nazvaný Výměna oken se zabývá problémy vlastníka domu v památkové zóně, kterých chtěl vyměnit okna a opravit fasádu.</p>"

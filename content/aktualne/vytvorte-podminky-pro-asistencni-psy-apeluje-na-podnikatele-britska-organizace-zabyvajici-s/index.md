@@ -1,7 +1,7 @@
 ---
 title: "Vytvořte podmínky pro asistenční psy, apeluje na podnikatele britská organizace zabývající se lidskými právy"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2013/vytvorte-podminky-pro-asistencni-psy-apeluje-na-podnikatele-britska-organizace-zabyvajici-s/"
 date: 2013-07-29
 perex: "<p>Britská Komise pro rovné zacházení a lidská práva se rozhodla informovat veřejnost o často přehlížených problémech v životě lidí se zdravotním postižením odkázaných na pomoc asistenčních psů. Učinila tak prostřednictvím průvodce cíleného především na podnikatele a provozovatele veřejných služeb. Jeho účelem má být především podpora těchto lidí na základě vytvoření takového tržního prostředí, ve kterém budou mít stejná práva a možnosti jako všichni ostatní zákazníci. </p>"

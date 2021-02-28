@@ -1,7 +1,7 @@
 ---
 title: "Ukončení projektu „Podpora účinného systému sledování nucených návratů“"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2019/ukonceni-projektu-podpora-ucinneho-systemu-sledovani-nucenych-navratu/"
 date: 2019-11-01
 perex: "<p></p>"

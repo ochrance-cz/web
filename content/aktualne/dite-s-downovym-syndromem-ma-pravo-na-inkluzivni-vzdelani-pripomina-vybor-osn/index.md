@@ -1,7 +1,7 @@
 ---
 title: "Dítě s Downovým syndromem má právo na inkluzivní vzdělání, připomíná Výbor OSN"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2020/dite-s-downovym-syndromem-ma-pravo-na-inkluzivni-vzdelani-pripomina-vybor-osn/"
 date: 2020-09-29
 perex: "<p>Výbor OSN v Ženevě uznal důvodnou stížnost španělského chlapce jménem Rubén. Když se Rubén vzdělával již pátým rokem v běžné škole, rozhodly španělské úřady o jeho přeřazení do speciální školy. Zároveň zahájily trestní řízení proti jeho rodičům, které s přeřazením do speciální školy nesouhlasili. Výbor OSN řekl, že došlo k porušení Úmluvy o právech osob se zdravotním postižením. Španělsko musí Rubéna odškodnit, účinně prošetřit všechna jeho obvinění, zajistit mu odborné inkluzivní vzdělávání a ukončit segregaci dětí s postižením ve vzdělávání.</p>"

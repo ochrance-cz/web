@@ -1,7 +1,7 @@
 ---
 title: "Aktualizace mezinárodních vězeňských pravidel"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2020/aktualizace-mezinarodnich-vezenskych-pravidel/"
 date: 2020-07-16
 perex: "<p>Ve výčtu relevantních dokumentů upravujících téma omezení osobní svobody ve vězení nesmí chybět  základní dokumenty, které byly vytvořeny na půdě mezinárodních organizací a mají povahu toliko doporučení – tzv. soft law. Jejich význam spočívá v tom, že představují základní vodítka pro tvorbu, aplikaci a interpretaci vnitrostátních právních předpisů. Tyto dokumenty jsou živé, reagují na stále se měnící svět za mřížemi. Dva z těchto významných dokumentů byly v nedávné době aktualizovány.</p>"

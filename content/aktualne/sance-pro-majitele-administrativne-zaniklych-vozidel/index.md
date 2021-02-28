@@ -1,7 +1,7 @@
 ---
 title: "Šance pro majitele administrativně zaniklých vozidel?"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2017/sance-pro-majitele-administrativne-zaniklych-vozidel"
 date: 2017-03-08
 perex: "<p>Lidem, kteří včas nesplnili svou povinnost zapsat se v registru silničních vozidel jako vlastníci a o svá auta tak úředně přišli, svitla nová naděje. Ministr dopravy přislíbil veřejné ochránkyni práv individuálně prozkoumat možnost „vrácení“ jednotlivých vozidel zpět do provozu.</p>"

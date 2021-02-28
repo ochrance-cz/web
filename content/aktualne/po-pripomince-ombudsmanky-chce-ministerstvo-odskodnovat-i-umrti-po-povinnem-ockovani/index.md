@@ -1,7 +1,7 @@
 ---
 title: "Po připomínce ombudsmanky chce ministerstvo odškodňovat i úmrtí po povinném očkování"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/po-pripomince-ombudsmanky-chce-ministerstvo-odskodnovat-i-umrti-po-povinnem-ockovani"
 date: 2019-02-07
 perex: "<p>Ombudsmanka jako jediná trvala na své připomínce, že je třeba odškodňovat i rodiče či blízké za smrt způsobenou povinným očkováním. Ministerstvo zdravotnictví s tím totiž ve svém návrhu zákona nepočítalo a plánovalo odškodňovat pouze újmu způsobenou očkované osobě. Návrh měl být takto předložen vládě. V reakci na kritiku se ministerstvo rozhodlo zákon přepracovat a předložit vládě nové znění, v němž bude i odškodnění v případě úmrtí po očkování.</p>"

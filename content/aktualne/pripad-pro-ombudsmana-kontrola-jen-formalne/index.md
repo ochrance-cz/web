@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Kontrola jen formálně?"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-iv/pripad-pro-ombudsmana-kontrola-jen-formalne/"
 date: 2008-11-25
 perex: "<p></p>"

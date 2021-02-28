@@ -1,7 +1,7 @@
 ---
 title: "Ombudsman upozorňuje na možné problémy při výplatě  „rouškovného“"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/ombudsman-upozornuje-na-mozne-problemy-pri-vyplate-rouskovneho"
 date: 2020-12-18
 perex: "<p>V souvislosti s výplatou jednorázového příspěvku seniorům – tzv. rouškovného – upozorňuje ombudsman na problémy, s nimiž se mohou setkat lidé, kteří nepobírají důchod na bankovní účet. Příspěvek se nevyplácí spolu s důchodem a pro výplatu v hotovosti se využívá odlišná poštovní služba. Zatímco běžný důchod se lidem v hotovosti vyplácí prostřednictvím Důchodové služby, rouškovné se vyplácí složenkou typu B. Dle informací České správy sociálního zabezpečení (ČSSZ) bylo takových složenek rozesláno 860 tisíc.  </p>"

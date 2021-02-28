@@ -1,7 +1,7 @@
 ---
 title: "Projednávání ratifikace Opčního protokolu k Úmluvě o právech osob se zdravotním postižením"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2019/projednavani-ratifikace-opcniho-protokolu-k-umluve-o-pravech-osob-se-zdravotnim-postizeni/"
 date: 2019-02-19
 perex: "<p></p>"

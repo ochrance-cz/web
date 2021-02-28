@@ -1,7 +1,7 @@
 ---
 title: "Věk nemůže být důvodem pro výpověď"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2016/vek-nemuze-byt-duvodem-pro-vypoved"
 date: 2016-04-11
 perex: "<p>Soud dal výpověď několika svým zaměstnankyním. Jako jediný důvod jim sdělil, že dosáhly důchodového věku. Těm, které odmítly přistoupit na dohodu o ukončení pracovního poměru, nevyplatil roční odměny. Jejich nadřízený jim také dle jejich tvrzení vyhrožoval, že je bude přesouvat z místa na místo, dokud jim práci nezprotiví. Nakonec jim dal výpověď pro nadbytečnost, aby vzápětí vypsal výběrové řízení na obdobnou pozici. Veřejná ochránkyně práv ve své závěrečné zprávě konstatovala zjevnou diskriminaci těchto zaměstnankyň z důvodu věku. O věci bude rozhodovat soud. </p>"

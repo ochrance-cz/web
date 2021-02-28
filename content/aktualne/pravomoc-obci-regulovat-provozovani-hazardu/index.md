@@ -1,7 +1,7 @@
 ---
 title: "Pravomoc obcí regulovat provozování hazardu"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2013/pravomoc-obci-regulovat-provozovani-hazardu"
 date: 2013-04-19
 perex: "<p>Co pro obce znamená zrušení přechodného ustanovení novely loterijního zákona Ústavním soudem? Jak mohou postupovat, pokud chtějí dosáhnout zrušení vydaných povolení?</p>"

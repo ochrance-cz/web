@@ -1,7 +1,7 @@
 ---
 title: "Řecký obchodní řetězec je podezřelý z diskriminace na základě etnicity"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2014/recky-obchodni-retezec-je-podezrely-z-diskriminace-na-zaklade-etnicity/"
 date: 2014-05-06
 perex: "<p>Přestože zaměstnankyně původem z Ruské federace získala řecké občanství, byla na základě obchodní politiky obchodního řetězce propuštěna z práce.</p>"

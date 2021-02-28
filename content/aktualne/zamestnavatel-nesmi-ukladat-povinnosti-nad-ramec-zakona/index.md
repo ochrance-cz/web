@@ -1,7 +1,7 @@
 ---
 title: "Zaměstnavatel nesmí ukládat povinnosti nad rámec zákona"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2016/zamestnavatel-nesmi-ukladat-povinnosti-nad-ramec-zakona"
 date: 2016-01-28
 perex: "<p>Zaměstnavatel nemůže vnitřním předpisem ukládat zaměstnancům povinnosti, které jsou nad rámec zákoníku práce nebo nad rámec povinností vyplývajících z pracovní či jiné smlouvy. Je pak úkolem inspektorátu práce postup zaměstnavatele prověřit, protože takový vnitřní předpis plošně omezuje všechny zaměstnance nad zákonem dovolenou mez.</p>"

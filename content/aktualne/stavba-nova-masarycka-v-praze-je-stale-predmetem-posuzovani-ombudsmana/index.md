@@ -1,7 +1,7 @@
 ---
 title: "Stavba „Nová Masaryčka“ v Praze je stále předmětem posuzování ombudsmana"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/stavba-nova-masarycka-v-praze-je-stale-predmetem-posuzovani-ombudsmana"
 date: 2020-12-15
 perex: "<p>V listopadu tohoto roku ombudsman informoval veřejnost, že se na základě mediálních zpráv rozhodl zahájit šetření z vlastní iniciativy a prověřit tak postupy úřadů ve věci stavby Polyfunkční objekt Masaryk Centre 1, nazývané též jako Nová Masaryčka v Praze. Šetření zatím není ukončeno.</p>"

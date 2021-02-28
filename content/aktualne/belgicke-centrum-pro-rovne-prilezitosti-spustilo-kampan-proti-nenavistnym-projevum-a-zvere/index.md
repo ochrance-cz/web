@@ -1,7 +1,7 @@
 ---
 title: "Belgické centrum pro rovné příležitosti spustilo kampaň proti nenávistným projevům a zveřejnilo první barometr odlišností"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2012/belgicke-centrum-pro-rovne-prilezitosti-spustilo-kampan-proti-nenavistnym-projevum-a-zvere/"
 date: 2012-10-24
 perex: "<p>Centrum odstartovalo kampaň proti nenávistným projevům na koncertních scénách. Taktéž vydalo svůj první Barometr odlišností, který zkoumá oblast zaměstnání.</p>"

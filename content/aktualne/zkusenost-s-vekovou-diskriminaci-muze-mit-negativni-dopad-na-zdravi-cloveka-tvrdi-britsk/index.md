@@ -1,7 +1,7 @@
 ---
 title: "Zkušenost s věkovou diskriminací může mít negativní dopad na zdraví člověka, tvrdí britská studie"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2019/zkusenost-s-vekovou-diskriminaci-muze-mit-negativni-dopad-na-zdravi-cloveka-tvrdi-britsk/"
 date: 2019-11-06
 perex: "<p>Britská studie odhalila, že lidé se zkušeností s věkovou diskriminaci uvádějí zhoršení zdravotního stavu častěji než ti, kteří tuto diskriminaci nezažili.</p>"

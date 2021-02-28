@@ -1,7 +1,7 @@
 ---
 title: "K rezignaci JUDr. Varvařovského"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2013/k-rezignaci-judr-varvarovskeho"
 date: 2013-12-11
 perex: "<p>Můžeme potvrdit, že JUDr. Pavel Varvařovský má v úmyslu k 20. prosinci tohoto roku rezignovat na funkci veřejného ochránce práv. Rozhodl se, že důvody tohoto kroku nebude uvádět.</p>"

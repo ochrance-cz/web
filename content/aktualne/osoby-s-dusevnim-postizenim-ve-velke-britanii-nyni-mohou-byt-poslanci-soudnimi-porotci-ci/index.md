@@ -1,7 +1,7 @@
 ---
 title: "Osoby s duševním postižením ve Velké Británii nyní mohou být poslanci, soudními porotci či členy představenstva společností"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2013/osoby-s-dusevnim-postizenim-ve-velke-britanii-nyni-mohou-byt-poslanci-soudnimi-porotci-ci/"
 date: 2013-05-07
 perex: "<p>Zákon proti diskriminaci osob s duševním postižením nově upravuje a redefinuje postavení osob s duševním postižením, a změnou stávajících předpisů odstraňuje některá nepřiměřená omezení. </p>"

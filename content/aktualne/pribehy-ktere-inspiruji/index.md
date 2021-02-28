@@ -1,7 +1,7 @@
 ---
 title: "Příběhy, které inspirují"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2018/pribehy-ktere-inspiruji/"
 date: 2018-01-09
 perex: "<p>Veřejná ochránkyně práv vydala leták informující o třech případech diskriminace Romů/Romek, které v uplynulých letech řešila a v nichž se podařilo zajistit nápravu.</p>"

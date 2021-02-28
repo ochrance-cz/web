@@ -1,7 +1,7 @@
 ---
 title: "Třetí díl Ochránce"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2016/treti-dil-ochrance-2"
 date: 2016-01-22
 perex: "<p>V neděli 24. 1. od 17:15 můžete na ČT2 sledovat třetí díl pořadu Ochránce. Tentokrát se příběhy týkají potíží s katastrálním úřadem při majetkovém vyrovnání bývalých manželů, přiznávání mimořádné dávky pomoci v hmotné nouzi a snahy občanů pořizovat si kopie ze spisů k některým velkým stavebním záměrům. Reprízy pořadu jsou na programu ČT2 následující čtvrtek v 18:55 a v pátek ve 14:15.</p>"

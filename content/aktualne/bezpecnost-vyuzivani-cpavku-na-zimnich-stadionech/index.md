@@ -1,7 +1,7 @@
 ---
 title: "Bezpečnost využívání čpavku na zimních stadionech"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2008/bezpecnost-vyuzivani-cpavku-na-zimnich-stadionech"
 date: 2008-10-13
 perex: "<p></p>"

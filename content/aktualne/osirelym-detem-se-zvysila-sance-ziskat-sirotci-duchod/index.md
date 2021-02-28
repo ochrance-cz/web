@@ -1,7 +1,7 @@
 ---
 title: "Osiřelým dětem se zvýšila šance získat sirotčí důchod"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2018/osirelym-detem-se-zvysila-sance-ziskat-sirotci-duchod"
 date: 2018-02-05
 perex: "<p>Dne 1. února 2018 nabyla účinnosti novela zákona o důchodovém pojištění, jejíž přijetí ombudsmanka i její předchůdci ve funkci dlouhodobě podporovali. Novela zmírňuje podmínky pro přiznání sirotčího důchodu. Nově tak sirotčí důchod mohou získat i ti, kdo o něj dosud neúspěšně žádali, protože jejich zemřelý rodič nezískal potřebnou dobu důchodového pojištění.</p>"

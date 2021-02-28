@@ -1,7 +1,7 @@
 ---
 title: "Pravidla OSN pro zacházení s vězni nově v češtině"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/pravidla-osn-pro-zachazeni-svezni-nove-vcestine"
 date: 2020-12-17
 perex: "<p>Ve výčtu relevantních dokumentů upravujících téma omezení osobní svobody ve vězení nesmí chybět základní dokumenty, které byly vytvořeny na půdě mezinárodních organizací a mají povahu toliko doporučení – tzv. soft law. Jejich význam spočívá v tom, že představují základní vodítka pro tvorbu, aplikaci a interpretaci vnitrostátních právních předpisů. Tyto dokumenty jsou živé, reagují na stále se měnící svět za mřížemi. Patří k nim i „Pravidla Nelsona Mandely“, která právníci Kanceláře veřejného ochránce práv přeložili do češtiny. </p>"

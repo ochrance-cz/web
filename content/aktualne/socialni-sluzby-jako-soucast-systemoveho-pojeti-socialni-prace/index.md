@@ -1,7 +1,7 @@
 ---
 title: "Sociální služby jako součást systémového pojetí sociální práce"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2014/socialni-sluzby-jako-soucast-systemoveho-pojeti-socialni-prace/"
 date: 2014-10-13
 perex: "<p>Dne 8. října uspořádal v Ostravě Krajský úřad Moravskoslezského kraje meziresortní setkání k informovanosti o povinnostech poskytovatelů sociálních služeb ve vztahu k dodržování práv osob. Velký prostor byl věnován i tématu neregistrovaných služeb.</p>"

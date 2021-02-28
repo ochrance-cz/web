@@ -1,7 +1,7 @@
 ---
 title: "Většinu doporučení poslanci realizovali, ochránce jim předkládá 7 dalších"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2012/vetsinu-doporuceni-poslanci-realizovali-ochrance-jim-predklada-7-dalsich"
 date: 2012-04-11
 perex: "<p></p>"

@@ -1,7 +1,7 @@
 ---
 title: "Školení krajských ředitelství policie završen"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2016/skoleni-krajskych-reditelstvi-policie-zavrsen/"
 date: 2016-10-18
 perex: "<p>Ve dnech 6., 7. a 11. října 2016 proběhla školení policistů z Krajského ředitelství policie Středočeského a Ústeckého kraje. Zaměřila se na základní práva v souvislosti s omezením osobní svobody a umístěním v policejní cele ve světle judikatury Evropského soudu pro lidská práva. Pozornost byla věnována čl. 3 Úmluvy o ochraně lidských práv a základních svobod, dle kterého nesmí být nikdo mučen nebo podrobován nelidskému či ponižujícímu zacházení anebo trestu. </p>"

@@ -1,7 +1,7 @@
 ---
 title: "Přednáška belgického odborníka na témata týkající se lidí s postižením"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2020/prednaska-belgickeho-odbornika-na-temata-tykajici-se-lidi-s-postizenim/"
 date: 2020-01-15
 perex: "<p>Dne 13. ledna se zaměstnanci Kanceláře z odboru ochrany práv osob se zdravotním postižením a z úseku výzkumu zúčastnili přednášky Prof. dr. Geert Van Hove, odborníka na témata týkající se lidí s postižením ze známé belgické Ghent University. Přednášku organizovala FSS MU Brno.</p>"

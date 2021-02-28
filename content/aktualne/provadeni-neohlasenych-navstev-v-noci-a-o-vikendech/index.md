@@ -1,7 +1,7 @@
 ---
 title: "Provádění neohlášených návštěv v noci a o víkendech"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2012/provadeni-neohlasenych-navstev-v-noci-a-o-vikendech/"
 date: 2012-06-05
 perex: "<p></p>"

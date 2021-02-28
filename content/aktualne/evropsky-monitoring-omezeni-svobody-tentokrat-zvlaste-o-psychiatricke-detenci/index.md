@@ -1,7 +1,7 @@
 ---
 title: "Evropský monitoring omezení svobody: tentokrát zvláště o psychiatrické detenci"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2016/evropsky-monitoring-omezeni-svobody-tentokrat-zvlaste-o-psychiatricke-detenci/"
 date: 2016-01-27
 perex: "<p>Pro fanoušky práce národních preventivních mechanismů odkazujeme na vydání č. 70/71 evropského newsletteru, které zahrnuje listopad a prosinec 2015. </p>"

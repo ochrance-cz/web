@@ -1,7 +1,7 @@
 ---
 title: "Vláda odmítla návrhy ombudsmanky, které měly lidem ulehčit život"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/vlada-odmitla-navrhy-ombudsmanky-ktere-mely-lidem-ulehcit-zivot"
 date: 2019-01-11
 perex: "<p>Vláda dnes projednala dva návrhy ombudsmanky. První se týkal možnosti dálkového nahlížení do spisů, který měl lidem ulehčit komunikaci s úřady. Ombudsmanka chtěla, aby úřady účastníkům řízení umožnily dálkové nahlížení do spisů formou zaslání kopií. Lidé by tak nemuseli jezdit všude osobně, což je pro některé lidi nepřekonatelná překážka. V druhém případě ombudsmanka žádala, aby úřady upozorňovaly účastníky řízení na možnost soudního přezkumu. Lidé totiž mnohdy neví, že v případě nesouhlasu s úředním rozhodnutím mají právo obrátit se na soud.   </p>"

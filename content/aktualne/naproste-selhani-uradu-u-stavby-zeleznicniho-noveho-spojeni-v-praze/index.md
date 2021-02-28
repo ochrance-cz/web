@@ -1,7 +1,7 @@
 ---
 title: "Naprosté selhání úřadů u stavby železničního Nového spojení v Praze"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/naproste-selhani-uradu-u-stavby-zeleznicniho-noveho-spojeni-v-praze"
 date: 2020-10-26
 perex: "<p>Železniční Nové spojení Praha hl. n., Masarykovo n. – Libeň, Vysočany, Holešovice je podle ombudsmana tristní ukázkou selhání orgánů státní správy na všech úrovních. Současně ukazuje nedostatky právní úpravy. Ta nepočítá s možností řešit případy staveb a provozů, na nichž je silný veřejný zájem, které ale ani po realizaci protihlukových opatření nesplňují hygienické limity hluku, a je zjevné, že je ani do budoucna nebudou splňovat. V každém případě je ale podle ombudsmana nepřijatelné, aby úřady déle než deset let umožňovaly využívat nezkolaudovatelnou stavbu opakovaným povolováním zkušebního provozu.</p>"

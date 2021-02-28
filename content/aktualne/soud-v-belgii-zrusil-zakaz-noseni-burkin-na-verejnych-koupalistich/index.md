@@ -1,7 +1,7 @@
 ---
 title: "Soud v Belgii zrušil zákaz nošení burkin na veřejných koupalištích"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2018/soud-v-belgii-zrusil-zakaz-noseni-burkin-na-verejnych-koupalistich/"
 date: 2018-12-18
 perex: "<p>Koupaliště v belgickém městě Gent musí povolit nošení tzv. burkin do veřejných bazénů. Rozsudek je v Belgii prvním svého druhu.</p>"

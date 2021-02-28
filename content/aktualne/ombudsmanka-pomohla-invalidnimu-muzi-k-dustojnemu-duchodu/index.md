@@ -1,7 +1,7 @@
 ---
 title: "Ombudsmanka pomohla invalidnímu muži k důstojnému důchodu"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/ombudsmanka-pomohla-invalidnimu-muzi-k-dustojnemu-duchodu"
 date: 2019-10-25
 perex: "<p>Na ombudsmanku se obrátil muž v invalidním důchodu. Namítal, že je jeho důchod pro důstojný život příliš nízký. Myslel si, že je na vině nezapočítaná doba jeho studia. Muž totiž neměl důchodově zhodnocenu dobu studia v období let 2004 a 2005. Během šetření ombudsmanky vyšlo najevo, že muž v těchto letech opakoval ročník, ale studium na střední škole nepřerušil. Ombudsmanka během šetření dále zjistila, že Česká správa sociálního zabezpečení (ČSSZ) rozhodla o důchodu na základě chybně stanoveného data vzniku invalidity. ČSSZ napravila vytýkané pochybení, na která ombudsmanka upozornila, zvedla muži invalidní důchod na dvojnásobek a současně mu vyplatila doplatek důchodu více než 300 tisíc korun. </p>"

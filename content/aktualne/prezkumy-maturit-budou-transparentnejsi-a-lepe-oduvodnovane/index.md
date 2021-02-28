@@ -1,7 +1,7 @@
 ---
 title: "Přezkumy maturit budou transparentnější a lépe odůvodňované"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2018/prezkumy-maturit-budou-transparentnejsi-a-lepe-oduvodnovane"
 date: 2018-10-24
 perex: "<p>Studenti, kteří se brání proti hodnocení maturitní zkoušky, se dočkají férovějšího a transparentnějšího přístupu. Na základě připomínek ombudsmanky novelizovalo ministerstvo školství tzv. maturitní vyhlášku, upravilo některé postupy a formuláře, takže studenti budou jednak lépe poučeni o tom, jak uplatnit své námitky, ale také dostanou přesnější odůvodnění, pokud ministerstvo jejich námitkám nevyhoví. I přes tyto pozitivní změny zůstávají oblasti, v nichž ombudsmanka a ministerstvo nenašly shodu.</p>"

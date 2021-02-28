@@ -1,7 +1,7 @@
 ---
 title: "Ochránkyně se úspěšně zastala přeshraničních zaměstnanců"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2015/ochrankyne-se-uspesne-zastala-preshranicnich-zamestnancu"
 date: 2015-05-04
 perex: "<p>Ministerstvo práce a sociálních věcí se ztotožnilo s názorem veřejné ochránkyně práv a změnilo chybnou praxi České správy sociálního zabezpečení týkající se přeshraničních pracovníků. České maminky pracující v rámci přeshraničního zaměstnání v jiné zemi už se nemusí bát, že by jim stát odmítl přiznat peněžitou pomoc v mateřství, pokud jim předtím přiznal podporu v nezaměstnanosti.</p>"

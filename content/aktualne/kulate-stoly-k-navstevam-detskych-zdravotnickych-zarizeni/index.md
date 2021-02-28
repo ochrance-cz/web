@@ -1,7 +1,7 @@
 ---
 title: "Kulaté stoly k návštěvám dětských zdravotnických zařízení"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2012/kulate-stoly-k-navstevam-detskych-zdravotnickych-zarizeni/"
 date: 2012-03-26
 perex: "<p></p>"

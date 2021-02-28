@@ -1,7 +1,7 @@
 ---
 title: "Vyřadit z evidence úřadu práce ze zdravotních důvodů lze již jen na základě lékařského posudku, pouhá lékařská zpráva nestačí"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2021/vyradit-zevidence-uradu-prace-ze-zdravotnich-duvodu-lze-jiz-jen-na-zaklade-lekarskeh"
 date: 2021-02-03
 perex: "<p>Úřad práce vyřadil muže z evidence uchazečů o zaměstnání. Vyhodnotil, že muž není ze zdravotních důvodů schopen spolupráce při zprostředkování zaměstnání. Stěžovatel kvůli tomuto rozhodnutí přišel následně o příspěvek na živobytí a příspěvek na bydlení a ocitl se prakticky bez prostředků. Úřad práce přitom své rozhodnutí opřel o jedinou větu v lékařské zprávě. Na základě podnětu tohoto stěžovatele se nám podařilo změnit praxi úřadů práce a k podobným případům by již nemělo docházet.  </p>"

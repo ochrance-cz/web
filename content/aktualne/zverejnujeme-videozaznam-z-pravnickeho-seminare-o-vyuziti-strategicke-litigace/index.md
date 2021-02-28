@@ -1,7 +1,7 @@
 ---
 title: "Zveřejňujeme videozáznam z právnického semináře o využití strategické litigace"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2017/zverejnujeme-videozaznam-z-pravnickeho-seminare-o-vyuziti-strategicke-litigace/"
 date: 2017-11-21
 perex: "<p>Dne 13. 11. 2017 proběhl v Kanceláři ombudsmanky mezinárodní právnický seminář. Připravili jsme také několik videí se známými osobnostmi, na které se můžete podívat na Youtube. Tématem je právo na vzdělání.</p>"

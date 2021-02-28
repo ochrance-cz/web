@@ -1,7 +1,7 @@
 ---
 title: "Muž nebo žena? Kyperské Equality body k právům transsexuálů ve vazbě"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2013/muz-nebo-zena-kyperske-equality-body-k-pravum-transsexualu-ve-vazbe/"
 date: 2013-07-12
 perex: "<p>Kyperské antidiskriminační místo považuje podmínky výkonu vazby podle stávající právní úpravy za diskriminační vůči transgender osobám a vyzvalo policii k zpracování předpisů, které budou zárukou práv, bezpečnosti a důstojnosti těchto osob.</p>"

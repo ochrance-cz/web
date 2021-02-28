@@ -1,7 +1,7 @@
 ---
 title: "Veřejný ochránce práv vydal doporučení k problematice zřizování vyhrazeného parkování pro osoby se zdravotním postižením"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2012/verejny-ochrance-prav-vydal-doporuceni-k-problematice-zrizovani-vyhrazeneho-parkovani-pr/"
 date: 2012-05-26
 perex: "<p>Veřejný ochránce práv vypracoval Doporučení ke zřizování vyhrazeného parkování na místních komunikacích, ve kterém vymezil, kdy se vlastník komunikace dopouští diskriminace, pokud se zřízením vyhrazeného parkování nesouhlasí.</p>"

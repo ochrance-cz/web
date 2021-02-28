@@ -1,7 +1,7 @@
 ---
 title: "Rok 2007 z pohledu veřejného ochránce práv"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2008/rok-2007-z-pohledu-verejneho-ochrance-prav"
 date: 2008-04-24
 perex: "<p></p>"

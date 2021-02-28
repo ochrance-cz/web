@@ -1,7 +1,7 @@
 ---
 title: "Ombudsman bude moct lépe chránit osoby se zdravotním postižením"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2017/ombudsman-bude-moct-lepe-chranit-osoby-se-zdravotnim-postizenim"
 date: 2017-06-21
 perex: "<p>Od ledna 2018  bude mít veřejný ochránce oprávnění, která mu umožní lépe hájit práva osob se zdravotním postižením. Stane se totiž monitorovacím orgánem podle úmluvy OSN o právech osob se zdravotním postižením.</p>"

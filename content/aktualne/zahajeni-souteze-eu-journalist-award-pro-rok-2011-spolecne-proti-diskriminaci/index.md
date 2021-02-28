@@ -1,7 +1,7 @@
 ---
 title: "Zahájení soutěže EU Journalist Award pro rok 2011 – Společně proti diskriminaci!"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2012/zahajeni-souteze-eu-journalist-award-pro-rok-2011-spolecne-proti-diskriminaci/"
 date: 2011-09-14
 perex: "<p></p>"

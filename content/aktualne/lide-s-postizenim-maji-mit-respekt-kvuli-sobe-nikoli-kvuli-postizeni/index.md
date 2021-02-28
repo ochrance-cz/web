@@ -1,7 +1,7 @@
 ---
 title: "Lidé s postižením mají mít respekt kvůli sobě, nikoli kvůli postižení"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/lide-s-postizenim-maji-mit-respekt-kvuli-sobe-nikoli-kvuli-postizeni"
 date: 2020-06-09
 perex: "<p>To, co jednomu člověku s postižením nevadí, může být pro druhého necitlivým a nedůstojným jednáním. Ať už jde o výrazy nebo chování. Podle ombudsmana to ale neznamená, že bychom měli rezignovat a neusilovat o obecnou kultivaci společnosti a zlepšování přístupu k lidem s postižením.</p>"

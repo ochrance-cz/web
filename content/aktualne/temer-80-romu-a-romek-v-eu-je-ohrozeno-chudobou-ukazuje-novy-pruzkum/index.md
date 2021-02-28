@@ -1,7 +1,7 @@
 ---
 title: "Téměř 80 % Romů a Romek v EU je ohroženo chudobou, ukazuje nový průzkum"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2016/temer-80-romu-a-romek-v-eu-je-ohrozeno-chudobou-ukazuje-novy-pruzkum/"
 date: 2016-12-21
 perex: "<p></p><p>Z nového průzkumu Agentury Evropské unie pro základní práva* (FRA) vyplývá, že romští obyvatelé zemí EU stále čelí v každodenním životě diskriminaci. Rodiny žijí navíc často ve velké chudobě a romské děti mají kvůli nízkému vzdělání malou šanci na lepší život. Zpráva Second European Union Minorities and Discrimination Survey (EU-MIDIS): Roma analyzuje nedostatky v oblasti začleňování romských obyvatel v zemích EU. Uvedená zpráva je postavena na průzkumu mezi 8000 příslušníky romské komunity z devíti členských zemí EU.</p>"

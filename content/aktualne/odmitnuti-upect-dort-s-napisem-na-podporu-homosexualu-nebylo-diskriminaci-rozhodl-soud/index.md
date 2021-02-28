@@ -1,7 +1,7 @@
 ---
 title: "Odmítnutí upéct dort s nápisem na podporu homosexuálů nebylo diskriminací, rozhodl soud"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2018/odmitnuti-upect-dort-s-napisem-na-podporu-homosexualu-nebylo-diskriminaci-rozhodl-soud/"
 date: 2018-12-10
 perex: "<p>Nejvyšší soud Velké Británie se zastal pekařství, které odmítlo připravit dort s nápisem podporujícím homosexuální sňatky. Rozhodnutí nejvyššího soudu ruší dřívější soudní rozsudky, podle kterých pekařství odmítnutého zákazníka diskriminovalo.</p>"

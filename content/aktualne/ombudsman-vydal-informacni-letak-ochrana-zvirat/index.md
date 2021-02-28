@@ -1,7 +1,7 @@
 ---
 title: "Ombudsman vydal informační leták „Ochrana zvířat“"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/ombudsman-vydal-informacni-letak-ochrana-zvirat"
 date: 2020-12-15
 perex: "<p>Právní úprava, která stanoví pravidla pro chov zvířat a jejich ochranu, není jednoduchá. Prolíná se několika právními předpisy, pomocí nichž se stát snaží zajistit, aby se zvířaty nebylo špatně zacházeno. Po zkušenostech s případy nezvládnutých chovů zvířat se ombudsman rozhodl jednoduchou formou seznámit veřejnost s nejdůležitějšími povinnostmi, které se k chovu zvířat a jejich ochraně vztahují. V novém informačním letáku odpovídá na základní otázky a popisuje, v jakých souvislostech se ombudsman může ochranou zvířat zabývat a s čím může pomoci. Informace v letáku nejsou určeny pouze chovatelům, nýbrž i široké veřejnosti.</p>"

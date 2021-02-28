@@ -1,7 +1,7 @@
 ---
 title: "Pomoc ombudsmanky vyhledalo letos už více než 6000 lidí"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2017/pomoc-ombudsmanky-vyhledalo-letos-uz-vice-nez-6000-lidi"
 date: 2017-11-02
 perex: "<p>Ve třetím čtvrtletí se lidé na ombudsmanku obrátili s 2043 podněty (od začátku roku jde už celkem o 6255 podnětů), z nichž 68 % bylo v působnosti a ombudsmanka se jimi může zabývat. Ve stejném období vyřídila 1977 podnětů, z nichž ve 113 případech konstatovala pochybení úřadu či diskriminaci.</p>"

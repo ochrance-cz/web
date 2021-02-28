@@ -1,7 +1,7 @@
 ---
 title: "\"Síla vzdoru\" – už v pondělí 6. 5."
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/sila-vzdoru-uz-v-pondeli-6-5"
 date: 2019-05-03
 perex: "<p>Filmové svědectví o tom, jak lidé s postižením bojovali za svá práva a za možnost žít nezávisle. Dokonce se kvůli svému \"vzdoru\" nechali i zatknout. Česká premiéra australského dokumentu následovaná diskuzí o právech lidí s postižením v ČR už v pondělí 6. 5. od 16:00 h.</p>"

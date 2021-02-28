@@ -1,7 +1,7 @@
 ---
 title: "Aktuální činnost britské Komise pro rovnost v Severním Irsku"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2012/aktualni-cinnost-britske-komise-pro-rovnost-v-severnim-irsku/"
 date: 2012-10-16
 perex: "<p>Čím se v uplynulém období zabývala britská Equality Commission for Nothern Ireland?</p>"

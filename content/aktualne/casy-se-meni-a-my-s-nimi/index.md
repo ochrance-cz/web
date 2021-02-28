@@ -1,7 +1,7 @@
 ---
 title: "Časy se mění a my s nimi"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2018/casy-se-meni-a-my-s-nimi"
 date: 2018-09-17
 perex: "<p></p>"

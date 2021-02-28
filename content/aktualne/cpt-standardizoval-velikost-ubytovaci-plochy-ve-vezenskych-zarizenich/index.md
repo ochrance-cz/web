@@ -1,7 +1,7 @@
 ---
 title: "CPT standardizoval velikost ubytovací plochy ve vězeňských zařízeních"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2016/cpt-standardizoval-velikost-ubytovaci-plochy-ve-vezenskych-zarizenich/"
 date: 2016-01-12
 perex: "<p></p><p>Evropský výbor pro zabránění mučení a nelidskému či ponižujícímu zacházení nebo trestání (CPT) zveřejnil dne 15. prosince „Standard CPT k velikosti ubytovací plochy na jednoho vězně ve vězeňském zařízení“ (Living space per prisoner in prison establishments: CPT standards; CPT/Inf (2015) 44; dále jen „Standard“; dostupné z <a title=\"Otevření do nového okna\" href=\"http://www.cpt.coe.int/en/working-documents/cpt-inf-2015-44-eng.pdf\" target=\"_blank\">http://www.cpt.coe.int/en/working-documents/cpt-inf-2015-44-eng.pdf</a> <img alt=\"\" src=\"https://www.ochrance.cz/typo3/ext/od_linkdesc/icons/external.gif\" class=\"od_linkdesc_icon_external\" />). Jedná se o základní minimální standard v rámci harmonizace přijatelných podmínek vězněných osob sdílený<a name=\"_GoBack\"></a> napříč zeměmi Rady Evropy.  </p>"

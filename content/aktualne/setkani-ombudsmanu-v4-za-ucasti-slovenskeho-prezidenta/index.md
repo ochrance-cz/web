@@ -1,7 +1,7 @@
 ---
 title: "Setkání ombudsmanů V4 za účasti slovenského prezidenta"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2016/setkani-ombudsmanu-v4-za-ucasti-slovenskeho-prezidenta"
 date: 2016-09-27
 perex: "<p>Ombudsmani zemí V4 se sešli k diskuzi o lidských právech, vývoji jejich ochrany a dodržování, i o současném ohrožení lidských práv v zemích V4. Každoročního setkání ombudsmanů, které letos pořádá slovenská ombudsmanka, se zúčastnil i slovenský prezident Andrej Kiska.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Nevymahatelné podmínky"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2008/nevymahatelne-podminky"
 date: 2008-12-22
 perex: "<p></p><p>Jedním z pochybení, na které ochránce při šetření rozhodování stavebních úřadů naráží, je začleňování takových podmínek, které jsou mimo rámec působnosti stavebního úřadu. Obvykle se jedná o podmínky z oblasti občanského práva a stavební úřady si tímto postupem snaží často usnadnit průběh řízení.</p>"

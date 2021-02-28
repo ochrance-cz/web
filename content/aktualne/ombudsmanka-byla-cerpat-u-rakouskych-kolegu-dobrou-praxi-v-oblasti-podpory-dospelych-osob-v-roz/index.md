@@ -1,7 +1,7 @@
 ---
 title: "Ombudsmanka byla čerpat u rakouských kolegů dobrou praxi v oblasti podpory dospělých osob v rozhodování"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2019/ombudsmanka-byla-cerpat-u-rakouskych-kolegu-dobrou-praxi-v-oblasti-podpory-dospelych-osob-v-roz/"
 date: 2019-11-28
 perex: "<p></p>"

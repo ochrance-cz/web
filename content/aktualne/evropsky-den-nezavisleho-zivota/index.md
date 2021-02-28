@@ -1,7 +1,7 @@
 ---
 title: "Evropský den nezávislého života"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2018/evropsky-den-nezavisleho-zivota"
 date: 2018-05-04
 perex: "<p>Kancelář veřejného ochránce práv se jako první v České republice zapojila do celoevropské kampaně k Evropskému dni nezávislého života, který připadá na 5. května. Ve spolupráci s osobami s různým typem zdravotního postižení, ale i bez něj, vytvořila video upozorňující na to, jak je nezávislost pro lidi se zdravotním postižením důležitá.</p>"

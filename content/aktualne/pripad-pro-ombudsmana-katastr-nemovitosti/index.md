@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Katastr nemovitostí"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-v/pripad-pro-ombudsmana-katastr-nemovitosti/"
 date: 2009-12-08
 perex: "<p></p>"

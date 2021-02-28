@@ -1,7 +1,7 @@
 ---
 title: "Činnost oddělení dohledu v květnu a červnu roku 2011"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2011/cinnost-oddeleni-dohledu-v-kvetnu-a-cervnu-roku-2011/"
 date: 2011-07-11
 perex: "<p></p><p>V rámci pokračujících návštěv zařízení, v nichž jsou umístěny děti, ochránce vyzdvihuje dobrou praxi Dětského domova Karlovy Vary a Ostrov, které umožňují dětem prožít život způsobem, který se neliší od života v rodině.</p>"

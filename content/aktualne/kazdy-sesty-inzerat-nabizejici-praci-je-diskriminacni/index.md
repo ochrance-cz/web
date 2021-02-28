@@ -1,7 +1,7 @@
 ---
 title: "Každý šestý inzerát nabízející práci je diskriminační"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2011/kazdy-sesty-inzerat-nabizejici-praci-je-diskriminacni"
 date: 2011-06-15
 perex: "<p>Analýza 12 044 inzerátů zveřejněných v týdnu od 1. do 7. dubna 2011 na největším portálu s pracovní inzercí v ČR www.prace.cz  ukázala, že diskriminace není v nabídkách práce ojedinělá. Každý šestý inzerát obsahoval jeden nebo dokonce i více diskriminačních požadavků na uchazeče o zaměstnání. Mnozí zájemci, kteří splňují kvalifikační podmínky, jsou tak zaměstnavateli už dopředu vyloučeni z možnosti ucházet se o práci, což má vzhledem k významu práce v moderní společnosti vážné negativní důsledky.</p>"

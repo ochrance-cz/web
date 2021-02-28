@@ -1,7 +1,7 @@
 ---
 title: "Školka v Belgii odmítla chlapce s Downovým syndromem, soud to označil za diskriminační"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2019/skolka-v-belgii-odmitla-chlapce-s-downovym-syndromem-soud-to-oznacil-za-diskriminacni/"
 date: 2019-04-10
 perex: "<p>Belgický soud první instance proto udělil školce pokutu ve výši 650,- EUR.</p>"

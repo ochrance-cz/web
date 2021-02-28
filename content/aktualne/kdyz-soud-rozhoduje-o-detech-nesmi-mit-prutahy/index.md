@@ -1,7 +1,7 @@
 ---
 title: "Když soud rozhoduje o dětech, nesmí mít průtahy"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2018/kdyz-soud-rozhoduje-o-detech-nesmi-mit-prutahy"
 date: 2018-05-03
 perex: "<p>Rozhodování soudu o dětech musí být plynulá a rychlá, průtahy totiž mohou prohlubovat strach a nejistotu dětí o jejich dalším životě a vztazích. Podařilo se nám přesvědčit předsedu soudu, aby se zasadil o co nejrychlejší rozhodnutí v řízení týkajícím se desetileté holčičky.</p>"

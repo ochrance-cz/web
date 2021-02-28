@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Terapie za ostnatým drátem"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-iii/pripad-pro-ombudsmana-terapie-za-ostnatym-dratem/"
 date: 2008-04-21
 perex: "<p></p>"

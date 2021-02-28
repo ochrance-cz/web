@@ -1,7 +1,7 @@
 ---
 title: "Zajímavé zahraniční publikace s antidiskriminační problematikou"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2013/zajimave-zahranicni-publikace-s-antidiskriminacni-problematikou/"
 date: 2013-05-10
 perex: "<p>Oddělení rovného zacházení Kanceláře ombudsmana upozorňuje státní orgány, samosprávy, nevládní organizace a odbornou veřejnost na vydání několika zajímavých zahraničních studií z pera Equinetu, Agentury EU pro základní práva a dalších evropských subjektů zabývajících se ochranou před diskriminací. </p>"

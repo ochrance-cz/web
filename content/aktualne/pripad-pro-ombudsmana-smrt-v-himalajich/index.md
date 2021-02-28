@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Smrt v Himalájích"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-iii/pripad-pro-ombudsmana-smrt-v-himalajich/"
 date: 2010-02-19
 perex: "<p></p><p>O nedostatečném zajištění jedné výpravy a o důsledcích z toho plynoucích, které také řešil veřejný ochránce práv.</p>"

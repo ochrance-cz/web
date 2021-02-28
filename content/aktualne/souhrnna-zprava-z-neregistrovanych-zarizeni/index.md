@@ -1,7 +1,7 @@
 ---
 title: "Souhrnná zpráva z neregistrovaných zařízení"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2015/souhrnna-zprava-z-neregistrovanych-zarizeni/"
 date: 2015-05-18
 perex: "<p>Veřejná ochránkyně práv vydala zprávu shrnující poznatky z návštěv zařízení, která poskytují sociální služby bez zákonem stanoveného oprávnění.</p>"

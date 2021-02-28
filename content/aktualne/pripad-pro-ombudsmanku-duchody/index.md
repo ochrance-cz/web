@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmanku: Důchody"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/pripad-pro-ombudsmanku-duchody"
 date: 2019-04-26
 perex: "<p>V neděli 28. 4. pokračuje na ČT2 pořad Případ pro ombudsmanku třetím dílem věnujícím se sociálnímu zabezpečení, konkrétně invalidním důchodům a příspěvkům na péči.</p>"

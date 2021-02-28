@@ -1,7 +1,7 @@
 ---
 title: "Česko se propadlo v žebříčku rovnosti pohlaví"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2014/cesko-se-propadlo-v-zebricku-rovnosti-pohlavi/"
 date: 2014-02-17
 perex: "<p>Světové ekonomické fórum (World Economic Forum) vydalo žebříček rovnosti žen a mužů za rok 2013 – The Global Gender Gap Report 2013 . Žebříček je sestavován již od roku 2006 a představuje jeden z nejkomplexnějších přehledů o rovnoprávnosti pohlaví. Zpráva porovnává 136 zemí světa, včetně České republiky.</p>"

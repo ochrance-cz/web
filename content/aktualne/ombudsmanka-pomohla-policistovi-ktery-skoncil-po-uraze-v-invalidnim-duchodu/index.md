@@ -1,7 +1,7 @@
 ---
 title: "Ombudsmanka pomohla policistovi, který skončil po úraze v invalidním důchodu"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/ombudsmanka-pomohla-policistovi-ktery-skoncil-po-uraze-v-invalidnim-duchodu"
 date: 2019-04-12
 perex: "<p>V roce 2017 byl muž propuštěn z práce a odešel do invalidního důchodu. Po předchozích služebních úrazech se totiž jeho zdravotní stav zhoršil natolik, že již nemohl vykonávat svou práci. Protože bylo zhoršení zdravotního stavu zapříčiněné služebním poměrem, získal od policie rentu. Muž však nesouhlasil s tím, že mu od ní byly odečítány minimální mzda a podpora v nezaměstnanosti, i když žádnou podporu nepobíral. Bývalý policista se proto obrátil s žádostí o pomoc na ombudsmanku. Ta shledala ve způsobu výpočtu pochybení, policie chybu uznala a muži vyplatila více než stotisícový nedoplatek. Případ tak bylo možné úspěšně uzavřít. </p>"

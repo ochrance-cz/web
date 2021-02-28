@@ -1,7 +1,7 @@
 ---
 title: "Klienti sociálních služeb s omezenou svéprávností mají právo na úplné a přístupné informace o očkování proti COVID-19"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2021/klienti-socialnich-sluzeb-somezenou-svepravnosti-maji-pravo-na-uplne-a-pristupne-inf"
 date: 2021-01-12
 perex: "<p>Na základě dotazů ze strany poskytovatelů sociálních služeb připravila zástupkyně ombudsmana Monika Šimůnková informační leták, který uvádí doporučený postup pro očkování klientů s omezenou svéprávností. </p>"

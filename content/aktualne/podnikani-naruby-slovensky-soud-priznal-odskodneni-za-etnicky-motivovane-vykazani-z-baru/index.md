@@ -1,7 +1,7 @@
 ---
 title: "Podnikání naruby? Slovenský soud přiznal odškodnění za etnicky motivované vykázání z baru"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2014/podnikani-naruby-slovensky-soud-priznal-odskodneni-za-etnicky-motivovane-vykazani-z-baru/"
 date: 2014-06-20
 perex: "<p>Okresní soud ve Spišské Nové Vsi nedávno přiznal odškodnění ve výši 600 Eur (cca 16 440 Kč) manželskému páru, jenž nebyl obsloužen pro etnický původ. Své jednání majitel baru odůvodnil možným přílivem dalších zákazníků romského etnika. </p>"

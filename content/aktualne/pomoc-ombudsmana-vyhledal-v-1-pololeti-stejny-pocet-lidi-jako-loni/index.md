@@ -1,7 +1,7 @@
 ---
 title: "Pomoc ombudsmana vyhledal v 1. pololetí stejný počet lidí jako loni"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/pomoc-ombudsmana-vyhledal-v-1-pololeti-stejny-pocet-lidi-jako-loni"
 date: 2020-07-08
 perex: "<p>V prvním pololetí se na ombudsmana obrátilo 4 171 lidí se stížnostmi a žádostmi o pomoc. Jde o zcela srovnatelný počet jako v loňském roce. Po přechodném útlumu v době nouzového stavu totiž došlo v květnu a červnu k výraznému nárůstu počtu podnětů. Jen za červen eviduje ombudsman 776 podnětů, což je o 170 víc než v červnu loňského roku.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Bavit se o platu je normální"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2019/bavit-se-o-platu-je-normalni/"
 date: 2019-03-25
 perex: "<p>Chceme-li jednou dosáhnout platové rovnosti mezi muži a ženami, musíme začít o své mzdě mluvit nahlas </p>"

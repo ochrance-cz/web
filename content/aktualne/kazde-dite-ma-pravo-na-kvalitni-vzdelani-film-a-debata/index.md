@@ -1,7 +1,7 @@
 ---
 title: "Každé dítě má právo na kvalitní vzdělání: film a debata"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2017/kazde-dite-ma-pravo-na-kvalitni-vzdelani-film-a-debata/"
 date: 2017-11-22
 perex: "<p>Zajímají se romští rodiče o vzdělání svých dětí? Je začlenění romských dětí do běžných škol reálné? Jak se inkluze týká romských žáků a žákyň a jak se proinkluzivní principy rozvíjí v sociálně vyloučených lokalitách? S čím se romské děti setkávají? Čemu musí čelit jejich rodiče?</p>"

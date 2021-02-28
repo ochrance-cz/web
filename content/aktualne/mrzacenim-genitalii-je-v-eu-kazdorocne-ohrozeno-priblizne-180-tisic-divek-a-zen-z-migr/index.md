@@ -1,7 +1,7 @@
 ---
 title: "Mrzačením genitálií je v EU každoročně ohroženo přibližně 180 tisíc dívek a žen z migrantských rodin"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2019/mrzacenim-genitalii-je-v-eu-kazdorocne-ohrozeno-priblizne-180-tisic-divek-a-zen-z-migr/"
 date: 2019-05-02
 perex: "<p>Evropský institut pro genderovou rovnost (EIGE) připomíná, že tato extrémně krutá praktika je problémem i pro Evropskou unii.</p>"

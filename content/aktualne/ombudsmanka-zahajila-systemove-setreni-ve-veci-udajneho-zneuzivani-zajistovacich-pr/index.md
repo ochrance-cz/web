@@ -1,7 +1,7 @@
 ---
 title: "Ombudsmanka zahájila systémové šetření ve věci údajného zneužívání zajišťovacích příkazů finanční správou"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2017/ombudsmanka-zahajila-systemove-setreni-ve-veci-udajneho-zneuzivani-zajistovacich-pr"
 date: 2017-09-06
 perex: "<p>Ombudsmanka v posledních měsících pozorně sleduje zprávy o údajných nezákonných postupech finanční správy při vydávání zajišťovacích příkazů. Ač obsah i četnost dosavadních podnětů řešených ombudsmanem zatím nenasvědčuje riziku jejich plošného zneužívání, nebere tyto indicie na lehkou váhu a rozhodla se postupy finanční správy prověřit v systémovém šetření.</p>"

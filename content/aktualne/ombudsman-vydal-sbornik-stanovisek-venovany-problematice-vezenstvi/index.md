@@ -1,7 +1,7 @@
 ---
 title: "Ombudsman vydal sborník stanovisek věnovaný problematice vězeňství"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/ombudsman-vydal-sbornik-stanovisek-venovany-problematice-vezenstvi"
 date: 2019-06-20
 perex: "<p>Ombudsman vydal v pořadí druhý sborník věnovaný problematice vězeňství. Obsáhlá publikace shrnuje právní stanoviska ombudsmana k této problematice z let 2010 až 2018. Ombudsman se vězeňství věnuje již od svého vzniku a od roku 2006 pak provádí systematické návštěvy míst, kde jsou lidé omezeni na svobodě, kam patří také věznice. Ombudsman je ze zákona povinen dohlížet na to, aby ve věznicích nedocházelo k mučení, či jinému špatnému zacházení, aby byla respektována lidská důstojnost a aby život člověka odsouzeného k výkonu trestu odnětí svobody neztrácel smysl. Sborník proto přináší jednak výklad toho, co vyžaduje právní úprava a dále přináší výběr stanovisek ombudsmana za uplynulých deset let. </p>"

@@ -1,7 +1,7 @@
 ---
 title: "Zpráva z návštěv zařízení sociálních služeb pro seniory"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2007/zprava-z-navstev-zarizeni-socialnich-sluzeb-pro-seniory"
 date: 2007-08-20
 perex: "<p></p>"

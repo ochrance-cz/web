@@ -1,7 +1,7 @@
 ---
 title: "Slovenský soud se postavil proti segregaci romských dětí ve školách"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2012/slovensky-soud-se-postavil-proti-segregaci-romskych-deti-ve-skolach/"
 date: 2012-01-22
 perex: "<p>Slovenský soud rozhodl, že základní škola ve Šarišských Michľanech musí ukončit segregaci romských dětí. Škola má dlouhodobě zříženy segregované třídy, které navštěvují výhradně žáci romského etnického původu. Tím porušuje  zásadu rovného zacházení ve smyslu slovenského Antidiskriminačního zákona a dopouští se diskriminace romských dětí z důvodu jejich etnické příslušnosti. </p>"

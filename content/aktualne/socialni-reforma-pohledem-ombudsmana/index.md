@@ -1,7 +1,7 @@
 ---
 title: "Sociální reforma pohledem ombudsmana"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2012/socialni-reforma-pohledem-ombudsmana"
 date: 2012-05-16
 perex: "<p></p><p>Po čtyřech měsících účinnosti tzv. Sociální reformy veřejný ochránce práv konstatuje, že realita se od proklamovaného záměru podstatně liší. Sociální systém nefunguje, jak by měl, a situace zejména rodin s dětmi a seniorů se zhoršuje.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Zahradní stavby a pohoda bydlení"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2006/zahradni-stavby-a-pohoda-bydleni"
 date: 2006-06-07
 perex: "<p></p>"

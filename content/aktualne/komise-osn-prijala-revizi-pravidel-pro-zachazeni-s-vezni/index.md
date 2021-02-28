@@ -1,7 +1,7 @@
 ---
 title: "Komise OSN přijala revizi pravidel pro zacházení s vězni"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2015/komise-osn-prijala-revizi-pravidel-pro-zachazeni-s-vezni/"
 date: 2015-08-05
 perex: "<p>Komise OSN pro prevenci kriminality a trestní justici (Commission on Crime Prevention and Criminal Justice; CCPCJ) přijala během svého 24. plenárního zasedání, které se konalo ve dnech 18. – 22. května ve Vídni, zásadní revizi Standardních minimálních pravidel OSN pro zacházení s vězni.</p>"

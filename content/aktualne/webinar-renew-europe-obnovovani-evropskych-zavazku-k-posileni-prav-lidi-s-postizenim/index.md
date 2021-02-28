@@ -1,7 +1,7 @@
 ---
 title: "Webinář Renew Europe: Obnovování evropských závazků k posílení práv lidí s postižením"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2020/webinar-renew-europe-obnovovani-evropskych-zavazku-k-posileni-prav-lidi-s-postizenim/"
 date: 2020-06-30
 perex: "<p></p>"

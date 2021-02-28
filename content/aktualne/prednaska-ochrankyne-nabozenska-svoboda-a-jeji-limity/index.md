@@ -1,7 +1,7 @@
 ---
 title: "Přednáška ochránkyně Náboženská svoboda a její limity"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2014/prednaska-ochrankyne-nabozenska-svoboda-a-jeji-limity/"
 date: 2014-12-03
 perex: "<p>Ochránkyně Anna Šabatová přijala pozvání Common Law Society k účasti na Rosa Parks Memorial Lecture.</p>"

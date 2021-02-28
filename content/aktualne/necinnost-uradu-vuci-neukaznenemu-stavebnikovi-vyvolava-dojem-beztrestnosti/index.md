@@ -1,7 +1,7 @@
 ---
 title: "Nečinnost úřadu vůči neukázněnému stavebníkovi vyvolává dojem beztrestnosti"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/necinnost-uradu-vuci-neukaznenemu-stavebnikovi-vyvolava-dojem-beztrestnosti"
 date: 2019-06-18
 perex: "<p>Pokaždé, když stavební úřad aktivně nevystupuje proti černým stavbám, vytváří dojem beztrestnosti těch, kdo nerespektují zákony, a zvyšuje nedůvěru v řádný výkon veřejné správy u lidí, kteří jsou nepovolenou stavební činností přímo dotčeni. V každém případě takový úřad neplní řádně své povinnosti.</p>"

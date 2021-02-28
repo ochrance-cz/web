@@ -1,7 +1,7 @@
 ---
 title: "Ochránkyně se zastala policistů a vojáků v exekuci"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2016/ochrankyne-se-zastala-policistu-a-vojaku-v-exekuci"
 date: 2016-01-22
 perex: "<p></p>"

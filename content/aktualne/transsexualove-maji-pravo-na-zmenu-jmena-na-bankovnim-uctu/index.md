@@ -1,7 +1,7 @@
 ---
 title: "Transsexuálové mají právo na změnu jména na bankovním účtu"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2014/transsexualove-maji-pravo-na-zmenu-jmena-na-bankovnim-uctu/"
 date: 2014-04-01
 perex: "<p>Irský Tribunál pro rovnost konstatoval, že banka Allied Irish Bank diskriminovala ženu pro transsexualitu, když jí nedovolila změnit si jméno na svém bankovním účtu, ačkoliv se úředně změnilo.</p>"

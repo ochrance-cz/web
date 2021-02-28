@@ -1,7 +1,7 @@
 ---
 title: "Věznice nesmí bránit advokátům v účasti na kázeňském řízení"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/veznice-nesmi-branit-advokatum-v-ucasti-na-kazenskem-rizeni"
 date: 2020-12-22
 perex: "<p>Ani ve vězení člověk nepřichází o všechna svá práva. Jedním z nich je právo na právní pomoc, které garantuje Listina základních práv a svobod. Úspěšně jsme vyřešili případ odsouzeného, jehož advokátovi věznice bránila, aby se osobně účastnil kázeňského řízení, které proti odsouzenému vedla. Věznice takto postupovala proto, aby nemohlo dojít k protahování řízení. Takový argument jsme však považovali za neudržitelný.  </p>"

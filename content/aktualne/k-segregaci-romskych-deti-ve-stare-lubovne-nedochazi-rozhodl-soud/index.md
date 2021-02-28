@@ -1,7 +1,7 @@
 ---
 title: "K segregaci romských dětí ve Staré Lubovně nedochází, rozhodl soud"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2017/k-segregaci-romskych-deti-ve-stare-lubovne-nedochazi-rozhodl-soud/"
 date: 2017-03-20
 perex: "<p>Slovenský soud zamítl veřejnou žalobu proti Ministerstvu školství Slovenské republiky a městu Stará Lubovňa kvůli segregaci romských dětí na místní základní škole. Podle soudu k segregaci nedochází, protože děti chodí na uvedenou školu z důvodu příslušnosti ke školskému obvodu, nikoli kvůli svému etnickému původu.</p>"

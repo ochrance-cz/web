@@ -1,7 +1,7 @@
 ---
 title: "Zúčastnili jsme se mezinárodní konference NPM v Gruzii"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2019/zucastnili-jsme-se-mezinarodni-konference-npm-v-gruzii/"
 date: 2019-10-17
 perex: "<p></p>"

@@ -1,7 +1,7 @@
 ---
 title: "Doporučení z provedených návštěv a sledování jejich plnění"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2015/doporuceni-z-provedenych-navstev-a-sledovani-jejich-plneni/"
 date: 2015-05-04
 perex: "<p>Dne 29. dubna 2015 proběhla ve Vídni pod patronací Institutu Ludwiga Boltzmanna a Bristolské univerzity konference na téma „Jak posílit plnění doporučení národních preventivních mechanismů v zemích Evropské unie“. Český národní preventivní mechanismus reprezentoval Mgr. et Mgr. Ladislav Tomeček.</p>"

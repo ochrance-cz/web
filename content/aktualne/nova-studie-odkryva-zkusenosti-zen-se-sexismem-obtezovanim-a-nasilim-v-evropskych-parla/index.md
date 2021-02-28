@@ -1,7 +1,7 @@
 ---
 title: "Nová studie odkrývá zkušenosti žen se sexismem, obtěžováním a násilím v evropských parlamentech"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2018/nova-studie-odkryva-zkusenosti-zen-se-sexismem-obtezovanim-a-nasilim-v-evropskych-parla/"
 date: 2018-11-16
 perex: "<p>Studie Meziparlamentní unie (IPU) se zaměřuje na nepřijatelné chování vůči poslankyním a zaměstnankyním evropských parlamentů.</p>"

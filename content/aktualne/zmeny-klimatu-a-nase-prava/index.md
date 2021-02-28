@@ -1,7 +1,7 @@
 ---
 title: "Změny klimatu a naše práva"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2018/zmeny-klimatu-a-nase-prava"
 date: 2018-12-06
 perex: "<p>Při příležitosti 70. výročí přijetí Všeobecné deklarace lidských práv a Mezinárodního dne lidských práv vás zveme na promítání dokumentu a diskuzi na téma „změny klimatu a naše práva“. Koná se v pondělí 10. prosince v sále Otakara Motejla v Kanceláři veřejného ochránce práv v Brně.</p>"

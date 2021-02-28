@@ -1,7 +1,7 @@
 ---
 title: "Brexit a návraty ze zahraničí – nejčastější problémy a jejich řešení"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/brexit-a-navraty-ze-zahranici-nejcastejsi-problemy-a-jejich-reseni"
 date: 2019-03-26
 perex: "<p>Ombudsmanka se dlouhodobě setkává s problémy lidí, kteří se vrací do České republiky z dlouhodobého pobytu v zahraničí. Jejich problémy a otázky se týkají oblastí, jako jsou doklady, sociální zabezpečení, předškolní a školní vzdělávání dětí, bydlení nebo zdravotnictví. Ombudsmanka proto vydala informační příručku, která zevrubně pokrývá většinu témat, které musí lidé před a po návratu řešit. Informační příručka je určena lidem vracejícím se ze všech zemí se zaměřením na návraty z Velké Británie. </p>"

@@ -1,7 +1,7 @@
 ---
 title: "Změny v dávkách pomoci v hmotné nouzi a příspěvku na bydlení od 1. 1. 2015"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2014/zmeny-v-davkach-pomoci-v-hmotne-nouzi-a-prispevku-na-bydleni-od-1-1-2015"
 date: 2014-12-15
 perex: "<p>Od 1. 1. 2015 se mění některé podmínky pro přiznání dávek pomoci v hmotné nouzi a příspěvku na bydlení a pro určování jejich výše. Veřejná ochránkyně práv uplatňovala připomínky k těmto změnám, které navazovaly na dlouhodobou snahu ochránce umožnit přiznání nárokových dávek na bydlení i k jiným nemovitostem než bytům (rekreační objekt, část bytu), pokud umožňují lidsky důstojné bydlení. V průběhu legislativního procesu byly některé z těchto připomínek do návrhu zákona zapracovány. </p>"

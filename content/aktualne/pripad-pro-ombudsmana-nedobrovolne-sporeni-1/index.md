@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Nedobrovolné spoření"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-vi/pripad-pro-ombudsmana-nedobrovolne-sporeni-1/"
 date: 2010-11-04
 perex: "<p></p><p>V pátek 5. 11. vysílá Česká televize na ČT1 v 18:25 desátý díl cyklu Případ pro ombudsmana (repríze v pondělí 8. 11. ve 12:25 na ČT2). Díl nazvaný Nedobrovolné spoření upozorňuje na to, že Česká správa sociálního zabezpečení zatím prakticky není schopna včas plnit všechny své povinnosti plátce důchodu postiženého exekucí.</p>"

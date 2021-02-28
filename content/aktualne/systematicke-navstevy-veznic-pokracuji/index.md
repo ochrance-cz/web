@@ -1,7 +1,7 @@
 ---
 title: "Systematické návštěvy věznic pokračují"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2015/systematicke-navstevy-veznic-pokracuji/"
 date: 2015-03-03
 perex: "<p></p>"

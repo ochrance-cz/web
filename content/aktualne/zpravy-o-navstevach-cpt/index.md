@@ -1,7 +1,7 @@
 ---
 title: "Zprávy o návštěvách CPT"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2013/zpravy-o-navstevach-cpt/"
 date: 2013-11-14
 perex: "<p>Během léta 2013 vydal Výbor Rady Evropy pro prevenci mučení (CPT) zprávy z návštěv několika detenčních zařízení v Lotyšsku, Gruzii a ve Slovinsku.</p>"

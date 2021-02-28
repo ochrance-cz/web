@@ -1,7 +1,7 @@
 ---
 title: "Od října už žádné výjimky pro zkracování nočního klidu"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2016/od-rijna-uz-zadne-vyjimky-pro-zkracovani-nocniho-klidu"
 date: 2016-09-20
 perex: "<p>Od 1. října 2016 se pro obce mění pravidla pro povolování akcí způsobujících hluk do pozdních nočních hodin. Až dosud mohly obce takovým akcím udělovat výjimky, ale to už od října neplatí. </p>"

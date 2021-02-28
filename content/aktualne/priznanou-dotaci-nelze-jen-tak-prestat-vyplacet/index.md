@@ -1,7 +1,7 @@
 ---
 title: "Přiznanou dotaci nelze jen tak přestat vyplácet"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2016/priznanou-dotaci-nelze-jen-tak-prestat-vyplacet"
 date: 2016-12-19
 perex: "<p></p><p>Poskytovatel přizná dotaci, ale pak část nevyplatí s odůvodněním, že má pochybnosti, jestli příjemce neporušil pravidla pro zadávání veřejných zakázek. Finanční úřad sice posléze ve prospěch příjemce konstatuje, že k porušení rozpočtové kázně nedošlo, ale poskytovatel „zadrženou“ část dotace stejně nevyplatí a tvrdí, že nikoli finanční úřad, ale poskytovatel sám může posoudit, jestli byly podmínky porušeny nebo ne. Porušení pravidel však nemusí příjemci prokazovat, nevede žádné transparentní správní řízení a donedávna zákon dokonce vylučoval soudní přezkum zastavení toku průběžně proplácené dotace.</p>"

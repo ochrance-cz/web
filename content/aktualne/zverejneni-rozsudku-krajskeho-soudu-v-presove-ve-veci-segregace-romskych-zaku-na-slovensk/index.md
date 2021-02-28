@@ -1,7 +1,7 @@
 ---
 title: "Zveřejnění rozsudku Krajského soudu v Prešově ve věci segregace romských žáků na Slovensku"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2013/zverejneni-rozsudku-krajskeho-soudu-v-presove-ve-veci-segregace-romskych-zaku-na-slovensk/"
 date: 2013-01-10
 perex: "<p>Přečtěte si anonymizovaný rozsudek Krajského soudu v Prešově, dle kterého musí základní škola ve Šarišských Michaľanech ukončit segregaci romských dětí. </p>"

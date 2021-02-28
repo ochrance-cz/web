@@ -1,7 +1,7 @@
 ---
 title: "Coming out a kariéra"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2012/coming-out-a-kariera/"
 date: 2012-05-11
 perex: "<p>Právnička oddělení rovného zacházení Kanceláře veřejného ochránce Lucie Obrovská se dne 9. 5. 2012 zúčastnila debaty k otázce „Coming outu a kariéry“, kterou pořádalo hnutí PROUD – Platforma pro rovnost, uznání a diverzitu v kavárně Q-Café v Praze.</p>"

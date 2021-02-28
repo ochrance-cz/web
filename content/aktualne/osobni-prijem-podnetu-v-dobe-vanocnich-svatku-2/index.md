@@ -1,7 +1,7 @@
 ---
 title: "Osobní příjem podnětů v době vánočních svátků"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2015/osobni-prijem-podnetu-v-dobe-vanocnich-svatku-2"
 date: 2015-12-21
 perex: "<p></p>"

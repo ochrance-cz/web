@@ -1,7 +1,7 @@
 ---
 title: "Portugalsko možná bude pátou zemí, která umožní homosexuálům adoptovat děti partnera"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2013/portugalsko-mozna-bude-patou-zemi-ktera-umozni-homosexualum-adoptovat-deti-partnera/"
 date: 2013-08-16
 perex: "<p>Portugalský parlament překvapivě schválil zákon umožňující párům stejného pohlaví adoptovat za určitých podmínek děti partnera. </p>"

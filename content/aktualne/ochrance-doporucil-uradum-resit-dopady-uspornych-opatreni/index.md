@@ -1,7 +1,7 @@
 ---
 title: "Ochránce doporučil úřadům řešit dopady úsporných opatření"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2011/ochrance-doporucil-uradum-resit-dopady-uspornych-opatreni"
 date: 2011-03-21
 perex: "<p></p><p>V důsledku zrušení sociálního příplatku se některé rodiny s nezaopatřenými dětmi dostaly do tíživé sociální situace, neboť ztratily příjem, na němž byly existenčně závislé. Příspěvek pobíraly rodiny, jejichž celkový příjem nedosahoval dvojnásobku životního minima, a sloužil ke krytí nákladů na výchovu a výživu dětí. </p>"

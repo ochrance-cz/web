@@ -1,7 +1,7 @@
 ---
 title: "Po zásahu ochránkyně úřad doplatil rodičovský příspěvek"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2016/po-zasahu-ochrankyne-urad-doplatil-rodicovsky-prispevek"
 date: 2016-05-17
 perex: "<p>Po šetření veřejné ochránkyně práv doplatil úřad práce více než 140 000 Kč rodičovského příspěvku, na který měla matka nárok, přestože otec dítěte pracoval v zahraničí. Úřad práce tak napravil svou nečinnost, v jejímž důsledku matka po velkou část rodičovské dovolené nedostávala žádné peníze. Případ podle ochránkyně ilustruje, že problematika vyplácení dávek v případě přeshraničních pracovníků není jednoduchá s ohledem na nezbytnou komunikaci se zahraničními institucemi a také pracovníci úřadu práce si ji dosud ne zcela osvojili.</p>"

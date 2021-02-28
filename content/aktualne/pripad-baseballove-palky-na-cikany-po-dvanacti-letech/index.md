@@ -1,7 +1,7 @@
 ---
 title: "Případ baseballové pálky „Na cikány…“ po dvanácti letech"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2013/pripad-baseballove-palky-na-cikany-po-dvanacti-letech/"
 date: 2013-04-19
 perex: "<p>Známy případ baseballové pálky má své další pokračování – rozsudkem Nejvyššího soudu České republiky ze dne  28. února 2013, spis. zn. 30 Cdo 2314/2012, se věc vrací k dalšímu řízení. </p>"

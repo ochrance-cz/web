@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Předběžné opatření"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-ii/pripad-pro-ombudsmana-predbezne-opatreni/"
 date: 2010-02-19
 perex: "<p></p><p>Bude nezletilého chlapce vychovávat otec či pěstouni? Když bylo Pavlovi deset let, byl se souhlasem matky svěřen do péče svého otce. </p>"

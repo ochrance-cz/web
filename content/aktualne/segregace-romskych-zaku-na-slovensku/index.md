@@ -1,7 +1,7 @@
 ---
 title: "Segregace romských žáků na Slovensku"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2012/segregace-romskych-zaku-na-slovensku/"
 date: 2012-11-01
 perex: "<p>Krajský soud v Prešově potvrdil verdikt prvostupňového soudu o segregaci romských žáků na Základní a mateřské škole v Šarišských Michaľanech. Rozsudek je pro Slovenskou republiku přelomový. </p>"

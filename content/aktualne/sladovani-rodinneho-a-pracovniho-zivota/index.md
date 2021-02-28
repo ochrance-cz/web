@@ -1,7 +1,7 @@
 ---
 title: "Slaďování rodinného a pracovního života"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2015/sladovani-rodinneho-a-pracovniho-zivota/"
 date: 2015-09-07
 perex: "<p></p>"

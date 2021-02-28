@@ -1,7 +1,7 @@
 ---
 title: "Asociace pro prevenci mučení (APT) vydala zprávu o své činnosti za rok 2011"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2012/asociace-pro-prevenci-muceni-apt-vydala-zpravu-o-sve-cinnosti-za-rok-2011/"
 date: 2012-08-15
 perex: "<p>APT mapovala situaci v jednotlivých regionech světa a stav ratifikace Opčního protokolu. Nejlepší situace je v Evropě a Střední Asii, nejpomaleji se závazek ochrany před mučením prosazuje v Asii a Pacifiku, pomalý je i proces implementace v Jižní Americe, v afrických zemích pak naráží na nedostatek politické vůle.</p>"

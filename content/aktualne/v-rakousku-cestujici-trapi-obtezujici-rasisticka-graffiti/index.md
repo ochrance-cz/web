@@ -1,7 +1,7 @@
 ---
 title: "V Rakousku cestující trápí obtěžující rasistická graffiti"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2015/v-rakousku-cestujici-trapi-obtezujici-rasisticka-graffiti/"
 date: 2015-11-16
 perex: "<p>V Rakousku aktuálně cestující i tamní kolemjdoucí obtěžují rasistické nápisy a vyobrazení tmavých tváří s širokými nosy a plnými rty na budově Dopravního podniku. Navzdory opakovaným stížnostem vedení tohoto podniku ovšem hyzdí tyto graffiti veřejné budovy nadále. </p>"

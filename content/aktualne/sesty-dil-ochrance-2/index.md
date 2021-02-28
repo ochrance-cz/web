@@ -1,7 +1,7 @@
 ---
 title: "Šestý díl Ochránce"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2016/sesty-dil-ochrance-2"
 date: 2016-02-12
 perex: "<p>Nepřiměřený policejní zásah proti důchodci, průtahy kolem přiznání invalidního důchodu a tahanice o spisovné znění jména v rodném listu. Dívejte se na šestý díl Ochránce na ČT 2 v neděli 14. 2. v 18:15 h nebo v reprízách následující čtvrtek v 18:55 h a pátek ve 13:10 h.</p>"

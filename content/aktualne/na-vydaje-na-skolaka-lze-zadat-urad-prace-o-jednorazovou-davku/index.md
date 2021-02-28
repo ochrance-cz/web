@@ -1,7 +1,7 @@
 ---
 title: "Na výdaje na školáka lze žádat úřad práce o jednorázovou dávku"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/na-vydaje-na-skolaka-lze-zadat-urad-prace-o-jednorazovou-davku"
 date: 2019-08-01
 perex: "<p>Na pořízení pomůcek do školy, zájmové kroužky, školu v přírodě nebo školní obědy lze využít jednorázovou dávku mimořádné okamžité pomoci. Řada rodičů-samoživitelů a nemajetných rodin o této možnosti neví.</p>"

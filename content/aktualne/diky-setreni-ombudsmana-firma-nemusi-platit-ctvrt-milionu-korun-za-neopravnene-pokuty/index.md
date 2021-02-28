@@ -1,7 +1,7 @@
 ---
 title: "Díky šetření ombudsmana firma nemusí platit čtvrt milionu korun za neoprávněné pokuty"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/diky-setreni-ombudsmana-firma-nemusi-platit-ctvrt-milionu-korun-za-neopravnene-pokuty"
 date: 2019-10-14
 perex: "<p>Na ombudsmana se obrátila firma, které správce daně vyměřil pokuty za nepodané daňové přiznání ve výši bezmála čtvrt milionu korun. Problém byl v tom, že firma podávala v letech 2013 a 2014 daňová přiznání k DPH ve formátu PDF. V daném období totiž zákon ani vyhláška nespecifikovaly, v jakém formátu se má přiznání zasílat. Správce daně však na základě interních předpisů požadoval, aby firma daňová přiznání zasílala výhradně ve formátu XML. Správce daně proto firmě vyměřil pokuty za nepodané daňové přiznání k DPH. Výši daně i pokuty přitom paradoxně určil na základě podkladů, které firma dodala. </p>"

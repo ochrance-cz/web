@@ -1,7 +1,7 @@
 ---
 title: "Ochránce nemůže zajistit výplatu prostředků uložených u Metropolitního spořitelního družstva"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2013/ochrance-nemuze-zajistit-vyplatu-prostredku-ulozenych-u-metropolitniho-sporitelniho-druz"
 date: 2013-08-27
 perex: "<p></p>"

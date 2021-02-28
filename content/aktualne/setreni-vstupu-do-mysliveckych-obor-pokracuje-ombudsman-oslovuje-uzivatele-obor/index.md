@@ -1,7 +1,7 @@
 ---
 title: "Šetření vstupu do mysliveckých obor pokračuje – ombudsman oslovuje uživatele obor"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2021/setreni-vstupu-do-mysliveckych-obor-pokracuje-ombudsman-oslovuje-uzivatele-obor"
 date: 2021-01-08
 perex: "<p>Veřejný ochránce práv pokračuje ve výzkumném šetření zaměřeném na vstup do mysliveckých obor. Poté, co se nejprve obrátil na orgány státní správy, nyní oslovuje také uživatele obor.</p>"

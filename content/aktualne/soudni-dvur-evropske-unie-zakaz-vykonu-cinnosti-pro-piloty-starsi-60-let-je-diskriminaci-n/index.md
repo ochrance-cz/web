@@ -1,7 +1,7 @@
 ---
 title: "Soudní dvůr Evropské unie: zákaz výkonu činnosti pro piloty starší 60 let je diskriminací na základě věku"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2012/soudni-dvur-evropske-unie-zakaz-vykonu-cinnosti-pro-piloty-starsi-60-let-je-diskriminaci-n/"
 date: 2011-10-04
 perex: "<p></p><p>Reinhard Prigge, Michael Fromm a Volker Lambach pracovali pro německou společnost Deutsche Lufthansa AG po řadu let jako piloti a později jako kapitáni letadel. Poté, co dovršili věku 60 let, jejich pracovní smlouvy v souladu s platnou kolektivní smlouvou skončily. Jelikož mezinárodní a německé právní předpisy zakazují pilotům vykonávat činnosti až po dosažení věku 65 let, zaměstnanci Lufthansy se obrátili na německé soudy s tím, že se cítí být oběťmi diskriminace. Soudní dvůr Evropské unie dal pilotům za pravdu. </p>"

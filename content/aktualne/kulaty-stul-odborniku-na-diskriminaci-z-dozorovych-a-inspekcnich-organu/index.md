@@ -1,7 +1,7 @@
 ---
 title: "Kulatý stůl odborníků na diskriminaci z dozorových a inspekčních orgánů"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2013/kulaty-stul-odborniku-na-diskriminaci-z-dozorovych-a-inspekcnich-organu"
 date: 2013-02-18
 perex: "<p>Kulatý stůl \"Společně proti diskriminaci: kooperační a koordinační schůzka veřejného ochránce práv a vybraných ústředních, inspekčních a dozorových orgánů\" zahajuje tradici diskusních a bilančních setkání odborníků působících v oblasti rovného zacházení.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Naprosté selhání stavebního úřadu v Novém Městě na Moravě"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2016/naproste-selhani-stavebniho-uradu-v-novem-meste-na-morave"
 date: 2016-03-07
 perex: "<p>Zástupce veřejné ochránkyně práv se zastal lidí, kteří už více než deset let bojují se sběrnou odpadů, jejíž vznik umožnil stavební úřad v Novém Městě na Moravě i na pozemcích, které k takovému podnikání nejsou určeny. Úřad navíc svou pětiletou nečinností zmařil možnost donutit vlastníka k odstranění stavby, kterou bez povolení postavil. Na kritiku úřad nereaguje a své chyby odmítá napravit.</p>"

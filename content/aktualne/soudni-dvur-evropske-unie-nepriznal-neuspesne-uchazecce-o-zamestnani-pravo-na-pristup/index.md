@@ -1,7 +1,7 @@
 ---
 title: "Soudní dvůr Evropské unie nepřiznal neúspěšné uchazečce o zaměstnání právo na přístup k informacím od zaměstnavatele nasvědčujících diskriminaci"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2012/soudni-dvur-evropske-unie-nepriznal-neuspesne-uchazecce-o-zamestnani-pravo-na-pristup/"
 date: 2012-05-11
 perex: "<p>Soudní dvůr Evropské unie v případě Galina Meister v. Speech Design Carrier Systems GmbH rozhodl, že unijní právní předpisy nevyžadují, aby zaměstnavatel, který čelí obvinění z diskriminace ze strany neúspěšného uchazeče o pracovní místo, poskytl tomuto neúspěšnému uchazeči informace o úspěšném kandidátovi. Odmítnutí poskytnout jakékoliv informace však může představovat jeden z faktorů, které třeba zohlednit v rámci zjišťování skutečností nasvědčujících tomu, že došlo k diskriminaci.  </p>"

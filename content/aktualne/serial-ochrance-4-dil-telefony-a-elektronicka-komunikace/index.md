@@ -1,7 +1,7 @@
 ---
 title: "Seriál Ochránce – 4. díl – telefony a elektronická komunikace"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2012/serial-ochrance-4-dil-telefony-a-elektronicka-komunikace"
 date: 2012-09-26
 perex: "<p>V neděli 30. 9. ve 11:50h vysílá ČT2 4. díl pořadu Ochránce o problémech, do kterých se lidé dostávají ve vztahu k úřadům, tentokrát o problémech s operátory. Reprízu dílu uvidíte na ČT2 v úterý 2. 10. v 9:00h.</p>"

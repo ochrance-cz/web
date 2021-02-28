@@ -1,7 +1,7 @@
 ---
 title: "Seminář k ochraně ohrožených dětí a jejich rodin"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2013/seminar-k-ochrane-ohrozenych-deti-a-jejich-rodin/"
 date: 2013-05-09
 perex: "<p></p>"

@@ -1,7 +1,7 @@
 ---
 title: "LGBTI osoby čelí v přístupu ke zdravotní péči nerovnému zacházení, tvrdí studie"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2017/lgbti-osoby-celi-v-pristupu-ke-zdravotni-peci-nerovnemu-zachazeni-tvrdi-studie/"
 date: 2017-11-08
 perex: "<p>Nová studie zjistila, že LGBTI osoby jsou v oblasti zdravotní péče vystaveny řadě překážkám a diskriminaci.</p>"

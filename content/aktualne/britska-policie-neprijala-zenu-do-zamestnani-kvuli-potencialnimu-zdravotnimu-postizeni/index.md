@@ -1,7 +1,7 @@
 ---
 title: "Britská policie nepřijala ženu do zaměstnání kvůli potenciálnímu zdravotnímu postižení"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2019/britska-policie-neprijala-zenu-do-zamestnani-kvuli-potencialnimu-zdravotnimu-postizeni/"
 date: 2019-08-05
 perex: "<p>Britský soud však rozhodl, že se policie dopustila přímé diskriminace na základě domnělého diskriminačního důvodu.</p>"

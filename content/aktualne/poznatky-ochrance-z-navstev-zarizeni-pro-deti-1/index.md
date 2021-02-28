@@ -1,7 +1,7 @@
 ---
 title: "Poznatky ochránce z návštěv zařízení pro děti"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2011/poznatky-ochrance-z-navstev-zarizeni-pro-deti-1/"
 date: 2011-05-18
 perex: "<p></p><p>V systému péče o děti stále přetrvává roztříštěnost, jejíž důsledky některé děti poškozují. Podle ochránce je třeba usilovat o přechod od institucionalizované péče ke zřizování malých zařízení rodinného typu, které by byly schopny pružně reagovat na potřeby dětí. Rovněž chybí systematická sociální práce s rodinou, aby se zvýšila šance dětí na návrat z ústavní péče.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Návrat k normálu přinese víc stížností na hluk. Ombudsman připravil návod, jak obtěžování hlukem řešit"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/navrat-k-normalu-prinese-vic-stiznosti-na-hluk-ombudsman-pripravil-navod-jak-obtezovan"
 date: 2020-12-14
 perex: "<p>V poslední době sice lidi hluk příliš netrápil, o to citlivěji budou po návratu k normálnímu fungování hostinských provozoven vnímat hluk z obnovených hudebních produkcí. Ombudsman proto považuje za nutné na danou věc upozornit už nyní a poskytnout lidem v předstihu jednoduchý návod, jak problémy s hlukem řešit.</p>"

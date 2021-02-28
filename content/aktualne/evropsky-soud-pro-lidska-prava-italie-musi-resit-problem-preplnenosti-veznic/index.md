@@ -1,7 +1,7 @@
 ---
 title: "Evropský soud pro lidská práva: Itálie musí řešit problém přeplněnosti věznic"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2013/evropsky-soud-pro-lidska-prava-italie-musi-resit-problem-preplnenosti-veznic/"
 date: 2013-01-14
 perex: "<p>Evropský soud pro lidská práva vyzval Itálii k řešení přeplněnosti italských věznic. Jejich kapacita je naplněna na 141 %, takže podmínky v porušují Úmluvu o ochraně lidských práv. V ČR přeplněnost věznic dočasně vyřešila amnestie prezidenta republiky. Pokud se včak nezmění trestní politika státu, budou věznice během několika let znovu plné.</p>"

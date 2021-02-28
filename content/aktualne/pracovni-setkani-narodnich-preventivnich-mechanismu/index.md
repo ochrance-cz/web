@@ -1,7 +1,7 @@
 ---
 title: "Pracovní setkání národních preventivních mechanismů"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2014/pracovni-setkani-narodnich-preventivnich-mechanismu/"
 date: 2014-03-19
 perex: "<p></p>"

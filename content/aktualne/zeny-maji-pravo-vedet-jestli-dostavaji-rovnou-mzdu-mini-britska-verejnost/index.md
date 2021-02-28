@@ -1,7 +1,7 @@
 ---
 title: "Ženy mají právo vědět, jestli dostávají rovnou mzdu, míní britská veřejnost"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2020/zeny-maji-pravo-vedet-jestli-dostavaji-rovnou-mzdu-mini-britska-verejnost/"
 date: 2020-12-21
 perex: "<p>Podle britské organizace The Fawcett Society je klíčové, aby ženy měly zákonné právo požadovat informace o platech svých mužských kolegů. Jinak se totiž nedozví, jestli jsou platově diskriminovány.</p>"

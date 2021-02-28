@@ -1,7 +1,7 @@
 ---
 title: "Aktuální judikatura Evropského soudu pro lidská práva k tématu omezení osobní svobody"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2014/aktualni-judikatura-evropskeho-soudu-pro-lidska-prava-k-tematu-omezeni-osobni-svobody/"
 date: 2014-11-07
 perex: "<p></p>"

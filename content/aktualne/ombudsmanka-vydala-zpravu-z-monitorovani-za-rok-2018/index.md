@@ -1,7 +1,7 @@
 ---
 title: "Ombudsmanka vydala zprávu z monitorování za rok 2018"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2019/ombudsmanka-vydala-zpravu-z-monitorovani-za-rok-2018/"
 date: 2019-09-05
 perex: "<p>V prvním roce působnosti jako monitorovacího orgánu pro práva lidí s postižením zahájila ombudsmanka řadu výzkumů k zásadním tématům a problémům. Na jejich vytipování se výrazně podíleli přímo lidé s postižením, zejména prostřednictvím poradního orgánu ombudsmanky. Na některé zjištěné nedostatky upozornila ombudsmanka Výbor OSN pro práva osob se zdravotním postižením.</p>"

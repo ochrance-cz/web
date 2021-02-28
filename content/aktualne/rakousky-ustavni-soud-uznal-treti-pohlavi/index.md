@@ -1,7 +1,7 @@
 ---
 title: "Rakouský ústavní soud uznal třetí pohlaví"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2018/rakousky-ustavni-soud-uznal-treti-pohlavi/"
 date: 2018-08-30
 perex: "<p>Údaj o pohlaví budou moci v úředních dokumentech uvádět i osoby, jejichž pohlaví není jednoznačně mužské či ženské.</p>"

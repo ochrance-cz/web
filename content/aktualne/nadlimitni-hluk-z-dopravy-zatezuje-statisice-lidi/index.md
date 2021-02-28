@@ -1,7 +1,7 @@
 ---
 title: "Nadlimitní hluk z dopravy zatěžuje statisíce lidí"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2016/nadlimitni-hluk-z-dopravy-zatezuje-statisice-lidi"
 date: 2016-04-21
 perex: "<p>Jen důsledný postup orgánů státní správy a strategické dopravní plánování mohou zabránit negativním dopadům dopravní zátěže na život a zdraví lidí. Podle zástupce veřejné ochránkyně práv Stanislava Křečka to potvrzuje patnáctiletá zkušenost ochránce s šetřením stížností občanů na hluk, prašnost a vibrace způsobené dopravou.</p>"

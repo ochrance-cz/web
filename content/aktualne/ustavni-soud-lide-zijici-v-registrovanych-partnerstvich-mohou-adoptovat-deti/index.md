@@ -1,7 +1,7 @@
 ---
 title: "Ústavní soud: lidé žijící v registrovaných partnerstvích mohou adoptovat děti"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2016/ustavni-soud-lide-zijici-v-registrovanych-partnerstvich-mohou-adoptovat-deti"
 date: 2016-06-28
 perex: "<p>Ústavní soud poprvé ve své historii rozhodoval o sexuální orientaci a registrovaném partnerství. Zrušil ustanovení, které zakazovalo lidem žijícím v registrovaných partnerstvích adoptovat dítě. Toto právo přitom měl každý člověk před vstupem do registrovaného svazku – bez ohledu na svou sexuální orientaci. Veřejná ochránkyně práv byla vedlejší účastníci řízení. </p>"

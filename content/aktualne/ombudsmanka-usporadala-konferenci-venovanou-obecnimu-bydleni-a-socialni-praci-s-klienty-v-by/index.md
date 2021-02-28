@@ -1,7 +1,7 @@
 ---
 title: "Ombudsmanka uspořádala konferenci věnovanou obecnímu bydlení a sociální práci s klienty v bytové nouzi"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/ombudsmanka-usporadala-konferenci-venovanou-obecnimu-bydleni-a-socialni-praci-s-klienty-v-by"
 date: 2020-02-14
 perex: "<p>V pondělí 10. února se v sídle ombudsmanky konala konference věnovaná problematice obecního bydlení a sociální práce s lidmi v bytové nouzi.</p>"

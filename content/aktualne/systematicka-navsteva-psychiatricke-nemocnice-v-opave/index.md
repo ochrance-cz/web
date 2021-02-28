@@ -1,7 +1,7 @@
 ---
 title: "Systematická návštěva Psychiatrické nemocnice v Opavě"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2017/systematicka-navsteva-psychiatricke-nemocnice-v-opave/"
 date: 2017-02-06
 perex: "<p></p>"

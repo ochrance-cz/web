@@ -1,7 +1,7 @@
 ---
 title: "Úřady musí být při řešení černých staveb důsledné"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/urady-musi-byt-pri-reseni-cernych-staveb-dusledne"
 date: 2020-12-01
 perex: "<p>Jestliže stavební úřad zjistí nepovolenou stavební činnost, měl by vůči stavebníkovi postupovat rázně, jak mu ukládá zákon. Zejména by neměl připustit, aby nepovolená výstavba pokračovala. Liknavý přístup, kdy neukázněnému stavebníkovi není z moci úřední zabráněno v pokračování a celkovém dokončení nepovolené stavby, je špatným signálem pro společnost a může vést k názoru, že zákony, a především úřady, neměří všem stejně.</p>"

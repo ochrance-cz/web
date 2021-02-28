@@ -1,7 +1,7 @@
 ---
 title: "Práva občanů obce"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2011/prava-obcanu-obce"
 date: 2011-03-01
 perex: "<p></p><p>Publikace z Edice dobré správní praxe je praktickým a použitelným návodem pro obce a města a jejich občany. Poskytuje informace těm, kdo státní správu a samosprávu vykonávají, tak i občanům, aby věděli, jaká jsou jejich práva a jak se jich mohou domoci.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Registrovaní partneři v Rakousku můžou nově uzavřít svazek rovněž mimo úřední místnost"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2013/registrovani-partneri-v-rakousku-muzou-nove-uzavrit-svazek-rovnez-mimo-uredni-mistnost/"
 date: 2013-08-13
 perex: "<p>Zakotvení toho, že registrované partnerství smí být uzavřeno „pouze v úřední místnosti“ ve srovnání s možností uzavřít manželství i mimo úřední místnost, je diskriminační. </p>"

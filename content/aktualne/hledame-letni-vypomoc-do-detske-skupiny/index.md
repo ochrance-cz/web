@@ -1,7 +1,7 @@
 ---
 title: "Hledáme letní výpomoc do dětské skupiny"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2017/hledame-letni-vypomoc-do-detske-skupiny"
 date: 2017-05-29
 perex: "<p>Hledáme kolegyni nebo kolegu jako zástup v době dovolené do dětské skupiny Motejlci při Kanceláři veřejného ochránce práv.</p>"

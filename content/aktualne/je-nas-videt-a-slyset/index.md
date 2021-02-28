@@ -1,7 +1,7 @@
 ---
 title: "Je nás vidět a slyšet!"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2019/je-nas-videt-a-slyset/"
 date: 2019-06-18
 perex: "<p></p>"

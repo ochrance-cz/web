@@ -1,7 +1,7 @@
 ---
 title: "Jak připravit neslyšící na budoucnost"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2018/jak-pripravit-neslysici-na-budoucnost/"
 date: 2018-06-13
 perex: "<p></p>"

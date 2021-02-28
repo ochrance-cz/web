@@ -1,7 +1,7 @@
 ---
 title: "Návštěva delegace z Lotyšska"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2015/navsteva-delegace-z-lotysska/"
 date: 2015-01-30
 perex: "<p></p>"

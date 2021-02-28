@@ -1,7 +1,7 @@
 ---
 title: "Mezinárodní den památek: ombudsman dlouhodobě upozorňuje na častou nečinnost úřadů"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2016/mezinarodni-den-pamatek-ombudsman-dlouhodobe-upozornuje-na-castou-necinnost-uradu"
 date: 2016-04-18
 perex: "<p>Mezinárodní den památek se slaví od roku 1982 vždy 18. dubna, tedy dnes. Vyhlásilo jej UNESCO, které dohlíží nad světovým kulturním dědictvím. Veřejný ochránce práv se během své existence zabýval mnoha případy chátrajících budov, které spadaly pod památkovou ochranu. Velmi často musel bohužel konstatovat pochybení úřadů, které svůj dohled nad památkovou péčí vykonávaly pouze formálně a nesnažily se aktivně dotčené objekty v soukromém vlastnictví zachránit. Příkladem z minulosti jsou například Lázně Kyselka, železniční stanice v Děčíně nebo zateplení neorenesanční budovy U Zlaté koule v Olomouci. </p>"

@@ -1,0 +1,4 @@
+---
+title: Diskriminace
+slug: diskriminace
+---

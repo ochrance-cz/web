@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Život na uhlí"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-ii/pripad-pro-ombudsmana-zivot-na-uhli/"
 date: 2010-02-19
 perex: "<p></p><p>Získat stavební povolení nemusí být vždy jednoduché, obzvláště jedná-li se o chráněné ložiskové území. V tomto případě se majitelé rodinného domku rozhodli, že si zřídí podkrovní byt. </p>"

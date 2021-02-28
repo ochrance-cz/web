@@ -1,7 +1,7 @@
 ---
 title: "Připomínky ochránce k věcnému záměru volebního zákoníku"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2011/pripominky-ochrance-k-vecnemu-zameru-volebniho-zakoniku"
 date: 2011-02-02
 perex: "<p></p>"

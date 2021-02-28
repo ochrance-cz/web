@@ -1,7 +1,7 @@
 ---
 title: "Diskriminace na základě pohlaví v oblasti zboží a služeb a jejich poskytování je často opomíjeným tématem"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2015/diskriminace-na-zaklade-pohlavi-v-oblasti-zbozi-a-sluzeb-a-jejich-poskytovani-je-casto-opom/"
 date: 2015-01-09
 perex: "<p>Equinet, Evropská síť subjektů zabývajících se rovností (The European Network of Equality Bodies), vydal zprávu o uplatňování směrnice Rady 2004/113/ES, kterou se zavádí zásada rovného zacházení s muži a ženami v přístupu ke zboží a službám a jejich poskytování. Tato oblast je pro většinu členů Equinetu méně známým a často novým tématem. Nikoliv pro veřejnou ochránkyni práv.</p>"

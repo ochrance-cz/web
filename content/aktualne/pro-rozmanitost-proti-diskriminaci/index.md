@@ -1,7 +1,7 @@
 ---
 title: "„Pro rozmanitost. Proti diskriminaci.“"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2012/pro-rozmanitost-proti-diskriminaci/"
 date: 2012-05-16
 perex: "<p>Evropská unie vede kampaň s cílem zvýšit informovanost o diskriminaci. </p>"

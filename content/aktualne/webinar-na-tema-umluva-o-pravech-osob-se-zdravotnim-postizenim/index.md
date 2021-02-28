@@ -1,7 +1,7 @@
 ---
 title: "Webinář na téma Úmluva o právech osob se zdravotním postižením"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2019/webinar-na-tema-umluva-o-pravech-osob-se-zdravotnim-postizenim/"
 date: 2019-01-30
 perex: "<p></p>"

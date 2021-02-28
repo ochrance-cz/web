@@ -1,7 +1,7 @@
 ---
 title: "Školení na téma péče o osoby s demencí"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2012/skoleni-na-tema-pece-o-osoby-s-demenci/"
 date: 2012-10-05
 perex: "<p>Pracovníci oddělení dohledu nad omezováním osobní svobody se školili v zařízeních pro seniory. Seznamovali se s medicínskými aspekty péče o osoby s demencí i s praktickou stránkou péče o tyto klienty.</p>"

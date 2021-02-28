@@ -1,7 +1,7 @@
 ---
 title: "Irsko: Rozšíření pravomocí ombudsmana ve vztahu k soukromým zařízením pobytových sociálních služeb"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2015/irsko-rozsireni-pravomoci-ombudsmana-ve-vztahu-k-soukromym-zarizenim-pobytovych-socialn/"
 date: 2015-07-30
 perex: "<p>Irsko, 26. června 2015 – Irský ombudsman bude s účinností od 24. srpna 2015 oprávněn přijímat a šetřit stížnosti veřejnosti týkající se poskytovaných služeb nejenom ve veřejných zařízeních pobytových sociálních služeb (nursing home), jak tomu bylo doposud, ale nově i v soukromých domovech. </p>"

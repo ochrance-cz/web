@@ -1,7 +1,7 @@
 ---
 title: "Činnost ombudsmana ve 2. čtvrtletí 2020"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/cinnost-ombudsmana-ve-2-ctvrtleti-2020"
 date: 2020-08-07
 perex: "<p>Ombudsman informoval Poslaneckou sněmovnu o své činnosti v 2. čtvrtletí roku 2020.  Ombudsman obdržel 2124 podnětů, což je oproti stejnému období loňského roku nárůst o 5,5 %. Podíl podnětů v působnosti, tedy těch, kterými se ombudsman může zabývat, činil 65 % a nachází se o šest procentních bodů pod průměrem roku 2019. Nejvíce podnětů se týkalo sociálního zabezpečení a staveb.</p>"

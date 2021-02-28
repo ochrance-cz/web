@@ -1,7 +1,7 @@
 ---
 title: "Byli jsme slyšet v médiích!"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2019/byli-jsme-slyset-v-mediich/"
 date: 2019-07-29
 perex: "<p></p>"

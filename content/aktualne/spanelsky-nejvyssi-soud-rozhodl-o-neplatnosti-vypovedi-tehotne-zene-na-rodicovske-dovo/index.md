@@ -1,7 +1,7 @@
 ---
 title: "Španělský Nejvyšší soud rozhodl o neplatnosti výpovědi těhotné ženě na rodičovské dovolené"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2015/spanelsky-nejvyssi-soud-rozhodl-o-neplatnosti-vypovedi-tehotne-zene-na-rodicovske-dovo/"
 date: 2015-08-05
 perex: "<p>Soud v přelomovém rozsudku zdůraznil institut důkazního břemene, který leží na zaměstnavateli v antidiskriminačních sporech týkajících se hromadného propuštění, pakliže dopadá na těhotné zaměstnankyně, případně na zaměstnankyně a zaměstnance na rodičovské dovolené.</p>"

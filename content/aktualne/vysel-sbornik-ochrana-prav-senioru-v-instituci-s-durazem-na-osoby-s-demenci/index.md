@@ -1,7 +1,7 @@
 ---
 title: "Vyšel sborník Ochrana práv seniorů v instituci s důrazem na osoby s demencí"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2014/vysel-sbornik-ochrana-prav-senioru-v-instituci-s-durazem-na-osoby-s-demenci/"
 date: 2014-12-04
 perex: "<p></p>"

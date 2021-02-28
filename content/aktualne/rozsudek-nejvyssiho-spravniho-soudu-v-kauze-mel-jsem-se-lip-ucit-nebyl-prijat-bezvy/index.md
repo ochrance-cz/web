@@ -1,7 +1,7 @@
 ---
 title: "Rozsudek Nejvyššího správního soudu v kauze „Měl jsem se líp učit!“ nebyl přijat bezvýhradně"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2014/rozsudek-nejvyssiho-spravniho-soudu-v-kauze-mel-jsem-se-lip-ucit-nebyl-prijat-bezvy/"
 date: 2014-01-09
 perex: "<p>V případě diskriminace podle rasy, pohlaví nebo národnosti pro porušení zákona o regulaci reklamy není třeba dokazovat rozpor s dobrými mravy. </p>"

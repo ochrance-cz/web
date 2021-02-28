@@ -1,7 +1,7 @@
 ---
 title: "Seriál ČT „Ochránce“ – 13. díl: Zdravotní péče"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2011/serial-ct-ochrance-13-dil-zdravotni-pece-1"
 date: 2011-11-27
 perex: "<p></p><p>S nespravedlností se můžete setkat v nemocnicích nebo u zdravotních pojišťoven. Stížnosti na ně řeší i ombudsman. Dívejte se na 13. díl seriálu Ochránce na ČT2 v úterý 29. 11. v 17:20 nebo ve středu 30. 11. v 9:35 hod.</p>"

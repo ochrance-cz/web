@@ -1,7 +1,7 @@
 ---
 title: "Ombudsman dnes na jednání vlády k loteriím a nezákonné praxi Ministerstva financí"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2012/ombudsman-dnes-na-jednani-vlady-k-loteriim-a-nezakonne-praxi-ministerstva-financi"
 date: 2012-02-08
 perex: "<p></p><p>Na dnešním zasedání se bude vláda zabývat materiálem týkajícím se dlouhodobé nezákonné praxe Ministerstva financí spočívající v nerespektování zákona č. 202/1990 Sb., o loteriích (loterijní zákon) a obecně závazných vyhlášek obcí přijatých za účelem regulace hazardu. Materiál vládě předložil veřejný ochránce práv s doporučením, aby vláda uložila Ministerstvu financí změnu správní praxe a prosadila tak i realizaci opatření k nápravě, která ochránce ministerstvu navrhoval.</p>"

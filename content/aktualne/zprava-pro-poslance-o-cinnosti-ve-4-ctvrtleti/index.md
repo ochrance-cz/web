@@ -1,7 +1,7 @@
 ---
 title: "Zpráva pro poslance o činnosti ve 4. čtvrtletí"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2016/zprava-pro-poslance-o-cinnosti-ve-4-ctvrtleti"
 date: 2016-02-02
 perex: "<p></p><p>Ochránkyně zaslala Poslanecké sněmovně zprávu o své činnosti ve čtvrtém čtvrtletí roku 2015. V tomto období se na ni obrátili lidé s 1649 podněty. Většina z nich (64 %) spadá do její působnosti, takže se jimi může zabývat. Nejčastěji jde o problémy v oblasti sociálního zabezpečení (268 podnětů) a stavebního řízení (111 podnětů). </p>"

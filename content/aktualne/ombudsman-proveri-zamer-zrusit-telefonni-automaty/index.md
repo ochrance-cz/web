@@ -1,7 +1,7 @@
 ---
 title: "Ombudsman prověří záměr zrušit telefonní automaty"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/ombudsman-proveri-zamer-zrusit-telefonni-automaty"
 date: 2020-06-02
 perex: "<p>Ombudsman se rozhodl zahájit šetření z vlastní iniciativy v souvislosti se záměrem Českého telekomunikačního úřadu od příštího roku neuložit povinnost provozovat veřejné telefonní automaty. Podle ombudsmana takovému kroku musí předcházet důsledné ověření, že služba skutečně není potřebná nebo že je dostatečně zajištěna jinak – komerčně.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Konference „Autismus – receptivní a expresivní komunikace“"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2019/konference-autismus-receptivni-a-expresivni-komunikace/"
 date: 2019-01-25
 perex: "<p></p>"

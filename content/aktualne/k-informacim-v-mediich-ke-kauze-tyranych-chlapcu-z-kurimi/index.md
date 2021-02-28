@@ -1,7 +1,7 @@
 ---
 title: "K informacím v médiích ke kauze týraných chlapců z Kuřimi"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2007/k-informacim-v-mediich-ke-kauze-tyranych-chlapcu-z-kurimi"
 date: 2007-09-05
 perex: "<p></p>"

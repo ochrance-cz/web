@@ -1,7 +1,7 @@
 ---
 title: "Na kávu s ombudsmanem, 6. díl: Kdy do důchodu?"
-tags:
-  - Podcast
+vystupy:
+  - podcast
 oldUrl: "/aktualne/tiskove-zpravy-2021/na-kavu-s-ombudsmanem-6-dil-kdy-do-duchodu"
 date: 2021-01-15
 perex: "<p>V tomto dílu podcastu vysvětlíme, kdy lze odejít do důchodu, tedy jaké jsou druhy důchodů a jaké podmínky je třeba splnit. Objasníme vám, kdy lze odejít do předčasného důchodu, řádného důchodu či důchodu pozdního. Řeč bude i o krácení předčasného důchodu a naopak o zvýšení důchodu při přesluhování.</p>"

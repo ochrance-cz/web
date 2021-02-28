@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Sanitka pro maminku"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-i/pripad-pro-ombudsmana-sanitka-pro-maminku/"
 date: 2010-02-19
 perex: "<p></p><p>Paní Ema Borovská žádá kancelář Veřejného ochránce práv o pomoc při šetření její stížnosti na zdravotní péči poskytnutou její matce. Nemohla se léta dočkat odpovědí úřadů na nejasnosti kolem smrti své matky.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Vymáhání pojistného"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-v/pripad-pro-ombudsmana-vymahani-pojistneho/"
 date: 2009-09-02
 perex: "<p></p>"

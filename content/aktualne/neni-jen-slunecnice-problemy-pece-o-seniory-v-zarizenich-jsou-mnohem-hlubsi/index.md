@@ -1,7 +1,7 @@
 ---
 title: "Není jen Slunečnice, problémy péče o seniory v zařízeních jsou mnohem hlubší"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/neni-jen-slunecnice-problemy-pece-o-seniory-v-zarizenich-jsou-mnohem-hlubsi"
 date: 2019-11-28
 perex: "<p></p><p><i>„Jako většina lidí jsem ráda, že se zainteresované úřady začaly aktivně zajímat o zacházení se seniory v ostravském zařízení Slunečnice, jenže to nestačí. Stát by měl usilovat o to, aby důstojné podmínky a zacházení garantoval všem seniorům v zařízeních, nejen v jednom zrovna medializovaném. Bohužel, v systémovém řešení dlouhodobě selhává,“</i> upozorňuje ombudsmanka. </p>"

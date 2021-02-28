@@ -1,7 +1,7 @@
 ---
 title: "Hledáme výzkumníka či výzkumnici na poloviční úvazek"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/hledame-vyzkumnika-ci-vyzkumnici-na-polovicni-uvazek"
 date: 2020-10-23
 perex: "<p>Hledáme výzkumníka či výzkumnici na poloviční úvazek k provádění kvantitativních a kvalitativních empirických výzkumů. Požadujeme ukončené vysokoškolské vzdělává v oboru sociologie nebo v příbuzném sociálně-vědním oboru. Zájemci se mohou hlásit do 15. 11.2020 </p>"

@@ -1,7 +1,7 @@
 ---
 title: "Živě: Práva lidí s postižením na trhu práce: diskuze o nejdůležitějších otázkách s orgány inspekce práce"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2020/zive-prava-lidi-s-postizenim-na-trhu-prace-diskuze-o-nejdulezitejsich-otazkach-s-org/"
 date: 2020-02-11
 perex: "<p>Dne 11. února 2020 proběhne od 13.00 – 16.30 odborný seminář pro orgány inspekce práce. Seminář lze živě sledovat na webu ochránce. Po skončení semináře bude na webu dostupný záznam.</p>"

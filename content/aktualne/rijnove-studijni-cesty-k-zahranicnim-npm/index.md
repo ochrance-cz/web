@@ -1,7 +1,7 @@
 ---
 title: "Říjnové studijní cesty k zahraničním NPM"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2015/rijnove-studijni-cesty-k-zahranicnim-npm/"
 date: 2015-11-05
 perex: "<p>Veřejný ochránce práv jako národní preventivní mechanismus sdílí se zahraničními kolegy zkušenosti z praxe a také metodologii provádění návštěv. V říjnu proběhly návštěvy NPM ve Španělsku, Gruzii a Maďarsku.</p>"

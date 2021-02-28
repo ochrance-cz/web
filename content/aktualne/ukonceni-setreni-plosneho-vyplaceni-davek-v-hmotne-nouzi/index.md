@@ -1,7 +1,7 @@
 ---
 title: "Ukončení šetření plošného vyplácení dávek v hmotné nouzi"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2008/ukonceni-setreni-plosneho-vyplaceni-davek-v-hmotne-nouzi"
 date: 2008-07-09
 perex: "<p></p>"

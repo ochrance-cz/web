@@ -1,7 +1,7 @@
 ---
 title: "Je alarmující, že stát odsouvá ochranu seniorů"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/je-alarmujici-ze-stat-odsouva-ochranu-senioru"
 date: 2019-07-23
 perex: "<p>Vláda včera přijala nesouhlasné stanovisko k poslaneckému návrhu, který navrhoval zavést přestupek v sociálních službách za špatné zacházení. Ombudsmanka s důvody odmítnutí nesouhlasí a nepovažuje za šťastné, aby vláda čekala se zavedením přestupku až do roku 2021, kdy je plánována účinnost přislíbené připravované vládní novely.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Podezření na klamavou reklamu musí být řešeno správním řízením"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2008/podezreni-na-klamavou-reklamu-musi-byt-reseno-spravnim-rizenim"
 date: 2008-01-28
 perex: "<p></p>"

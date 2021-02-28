@@ -1,7 +1,7 @@
 ---
 title: "Stavební zákon se opět mění a není jisté, zda k lepšímu"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2015/stavebni-zakon-se-opet-meni-a-neni-jiste-zda-k-lepsimu"
 date: 2015-10-22
 perex: "<p>Neustálé novelizace právních předpisů jsou podle zástupce veřejné ochránkyně práv Stanislava Křečka kontraproduktivní. Platí to i pro stavebnictví, kde Ministerstvo pro místní rozvoj připravilo už třetí zásadní novelu za posledních osm let. I tato, aktuálně projednávaná, má podle ministerstva urychlit proces výstavby. Vzhledem k tomu, že ke stejnému cíli měly vést i obě předchozí novely, vyvolává to otázku po smysluplnosti častých změn.</p>"

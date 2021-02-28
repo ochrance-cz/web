@@ -1,7 +1,7 @@
 ---
 title: "Média píší o špatném zacházení a možných podvodech v Domově Petruška"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2014/media-pisi-o-spatnem-zachazeni-a-moznych-podvodech-v-domove-petruska/"
 date: 2014-09-08
 perex: "<p>Média informovala o špatném zacházení a možném podvodném jednání s klienty neregistrovaného domova pro seniory Domov Petruška v Šestajovicích u Prahy, a to na základě tiskové zprávy Policie České republiky a zprávy z návštěvy zařízení, kterou z důvodu nedostatečné součinnosti domova a jeho neochoty přistoupit k nápravě vytýkaných nedostatků zveřejnila ochránkyně.</p>"

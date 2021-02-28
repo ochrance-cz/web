@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Pobyt v ilegalitě"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-iii/pripad-pro-ombudsmana-pobyt-v-ilegalite/"
 date: 2008-05-21
 perex: "<p></p>"

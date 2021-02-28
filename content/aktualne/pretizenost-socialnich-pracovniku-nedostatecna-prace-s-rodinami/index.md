@@ -1,7 +1,7 @@
 ---
 title: "Přetíženost sociálních pracovníků = nedostatečná práce s rodinami"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2008/pretizenost-socialnich-pracovniku-nedostatecna-prace-s-rodinami"
 date: 2008-04-10
 perex: "<p></p>"

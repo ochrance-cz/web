@@ -1,7 +1,7 @@
 ---
 title: "Jak české soudy rozhodují o diskriminaci"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/jak-ceske-soudy-rozhoduji-o-diskriminaci"
 date: 2020-10-01
 perex: "<p>Za posledních 5 let soudy rozhodovaly o 90 žalobách s námitkou diskriminace. Polovina žalobců byla neúspěšná. Výzkum ombudsmana ukázal, že nejčastěji lidé u soudu napadají diskriminaci v zaměstnání, a to především z důvodu věku a pohlaví. I když uspějí, české soudy jim přiznávají jen velmi nízké odškodnění.</p>"

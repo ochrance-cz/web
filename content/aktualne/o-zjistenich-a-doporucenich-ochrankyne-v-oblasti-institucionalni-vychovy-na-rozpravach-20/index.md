@@ -1,7 +1,7 @@
 ---
 title: "O zjištěních a doporučeních ochránkyně v oblasti institucionální výchovy na Rozpravách 2015"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2015/o-zjistenich-a-doporucenich-ochrankyne-v-oblasti-institucionalni-vychovy-na-rozpravach-20/"
 date: 2015-05-15
 perex: "<p>Ve dnech 14. – 15. května proběhla konference Rozpravy 2015 o institucionální péči a nejen o ní, současnost a perspektivy V. Letošní podtitul zněl Pedagog v centru rizikového chování.</p>"

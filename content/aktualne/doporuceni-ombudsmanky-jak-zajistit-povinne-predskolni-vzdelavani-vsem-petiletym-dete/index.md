@@ -1,7 +1,7 @@
 ---
 title: "Doporučení ombudsmanky, jak zajistit povinné předškolní vzdělávání všem pětiletým dětem"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/doporuceni-ombudsmanky-jak-zajistit-povinne-predskolni-vzdelavani-vsem-petiletym-dete"
 date: 2019-05-02
 perex: "<p>Dnes, 2. května, začínají zápisy do mateřských škol. Podle zjištění České školní inspekce se ale do povinného předškolního vzdělávání nepodaří zapojit až 3 % pětiletých dětí. Přibližně 3 400 pětiletých dětí pak může mít kvůli tomu ztížený nástup do první třídy základní školy, protože jim chybí systematická předškolní příprava. Zejména obce, ale i samotné mateřské školy, ministerstvo školství a Česká školní inspekce by podle ombudsmanky měly usilovat o to, aby se všechny pětileté děti mohly do povinného předškolního vzdělávání zapojit. Zvláštní pozornost je třeba věnovat především dětem ze sociálně a ekonomicky znevýhodněného prostředí. Těm předškolní vzdělávání pomůže nejvíc a ovlivní i jejich úspěch v budoucím životě.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Cena za ekologicky nejpříznivější provoz"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2008/cena-za-ekologicky-nejpriznivejsi-provoz"
 date: 2008-10-16
 perex: "<p><h2 class=\"Nadpis1\">Cena za ekologicky nejpříznivější provoz</h2> <p class=\"Normln-web\">Už potřetí získala Kancelář veřejného ochránce práv cenu za ekologicky nejpříznivější provoz v kategorii „pověřené obecní úřady a instituce“ v Jihomoravském kraji.</p>"

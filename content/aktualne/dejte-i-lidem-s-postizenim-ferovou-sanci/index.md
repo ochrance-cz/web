@@ -1,7 +1,7 @@
 ---
 title: "Dejte i lidem s postižením férovou šanci"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2020/dejte-i-lidem-s-postizenim-ferovou-sanci/"
 date: 2020-05-14
 perex: "<p>Přeložili jsme pro Vás video od ILO Global Business and Disability Network (ILO-GBDN). ILO-GBDN je platforma, která se zaměřuje na zaměstnávání lidí s postižením. Lidi s postižením, zaměstnavatelé, zaměstnavatelé s postižením a ostatní lidé si zde vyměňují zkušenosti, dobrou praxi, inovativní politiky a přístupy k zaměstnávání lidí s postižením.</p>"

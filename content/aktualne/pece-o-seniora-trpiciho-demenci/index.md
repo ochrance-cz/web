@@ -1,7 +1,7 @@
 ---
 title: "Péče o seniora trpícího demencí"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2017/pece-o-seniora-trpiciho-demenci/"
 date: 2017-06-01
 perex: "<p>V pondělí 29. května proběhl ve spolupráci s Krajským úřadem Královehradeckého kraje další ze série seminářů zaměřených problematiku péče o seniory trpící syndromem demence v pobytových sociálních službách.</p>"

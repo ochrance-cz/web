@@ -1,7 +1,7 @@
 ---
 title: "Petice vyzývá k zajištění práva volit pro osoby se zdravotním postižením"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2019/petice-vyzyva-k-zajisteni-prava-volit-pro-osoby-se-zdravotnim-postizenim/"
 date: 2019-02-20
 perex: "<p>Evropské fórum zdravotně postižených vyzývá vlády členských států EU, aby odstranily překážky, které by mohly lidem se zdravotním postižením komplikovat účast ve volbách do Evropského parlamentu.</p>"

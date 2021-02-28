@@ -1,7 +1,7 @@
 ---
 title: "Výstava fotografií na podporu lidí se spinální svalovou atrofií"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2018/vystava-fotografii-na-podporu-lidi-se-spinalni-svalovou-atrofii/"
 date: 2018-09-24
 perex: "<p>Jak jsme vás již informovali, během měsíce srpna spustila pacientská organizace SMAáci, z.s., za podpory Kanceláře veřejného ochránce práv kampaň s cílem rozšířit povědomí o spinální svalové atrofii (SMA). Spinální svalová (muskulární) atrofie je genetické nervosvalové onemocnění, které velmi omezuje pohyb celého těla.</p>"

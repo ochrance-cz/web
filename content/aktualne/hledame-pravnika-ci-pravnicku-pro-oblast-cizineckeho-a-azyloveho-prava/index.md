@@ -1,7 +1,7 @@
 ---
 title: "Hledáme právníka či právničku pro oblast cizineckého a azylového práva"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/hledame-pravnika-ci-pravnicku-pro-oblast-cizineckeho-a-azyloveho-prava"
 date: 2020-08-24
 perex: "<p>Zájemci s ukončeným vysokoškolským vzděláním v oboru právo (Mgr.) se mohou hlásit do 15. září 2020.</p>"

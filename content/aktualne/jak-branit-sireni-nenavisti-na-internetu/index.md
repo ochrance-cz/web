@@ -1,7 +1,7 @@
 ---
 title: "Jak bránit šíření nenávisti na internetu"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2018/jak-branit-sireni-nenavisti-na-internetu"
 date: 2018-04-03
 perex: "<p>Ombudsmanka považuje za alarmující, že narůstá počet nenávistných projevů na internetu od „běžných“ občanů, kteří nejsou nijak spojeni s extrémistickými skupinami. Tématu se dlouhodobě věnuje a iniciovala proto dnešní jednání s orgány a institucemi, které se mohou zabývat nenávistnými projevy ve veřejném prostoru.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Seriál ČT „Ochránce“ – 4. díl: Diskriminace na pracovišti"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2011/serial-ct-ochrance-4-dil-diskriminace-na-pracovisti"
 date: 2011-09-26
 perex: "<p></p><p>Čtvrtý díl seriálu zaměřený tentokrát na problematiku nerovného zacházení v pracovně-právních vztazích vysílá ČT2 v úterý 27. 9. v 17:20 hod a v repríze ve středu 28. 9. v 9:35 hod.</p>"

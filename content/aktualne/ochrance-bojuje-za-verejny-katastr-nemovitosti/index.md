@@ -1,7 +1,7 @@
 ---
 title: "Ochránce bojuje za veřejný katastr nemovitostí"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2009/ochrance-bojuje-za-verejny-katastr-nemovitosti"
 date: 2009-07-08
 perex: "<p></p>"

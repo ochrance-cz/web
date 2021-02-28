@@ -1,7 +1,7 @@
 ---
 title: "Přečtěte si příběhy lidí, kteří čelí diskriminaci – vyšlo nové číslo European Anti-discrimination Law Review"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2013/prectete-si-pribehy-lidi-kteri-celi-diskriminaci-vyslo-nove-cislo-european-anti-di/"
 date: 2013-08-22
 perex: "<p>Šestnácté číslo European Anti-discrimination Law Review, které vyšlo v červenci 2013, přináší novinky, analýzy a informace o vývoji antidiskriminačního práva v členských státech Evropské unie, bývalé jugoslávské republice Makedonii, Turecku, Islandu, Lichtenštejnsku a Norsku. Aktuální číslo reflektuje stav k 15. lednu 2013.</p>"

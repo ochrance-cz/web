@@ -1,7 +1,7 @@
 ---
 title: "Hledáme právníky či právničky"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2014/hledame-pravniky-ci-pravnicky"
 date: 2014-05-05
 perex: "<p>Aktuální nabídka zaměstnání v Kanceláři veřejného ochránce práv pro zájemce s právnickým vzděláním.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Výroční zpráva o ochraně před špatným zacházením v roce 2014"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2015/vyrocni-zprava-o-ochrane-pred-spatnym-zachazenim-v-roce-2014"
 date: 2015-05-12
 perex: "<p>Vůbec poprvé vydala veřejná ochránkyně práv samostatnou výroční zprávu o své činnosti jako národního preventivního mechanismu České republiky (NPM). Shrnuje v ní celoroční poznatky z návštěv zařízení, v nichž mohou být lidé vystaveni špatnému zacházení.</p>"

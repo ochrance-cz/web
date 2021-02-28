@@ -1,7 +1,7 @@
 ---
 title: "Standardy CPT pro používání omezovacích prostředků v psychiatrických zařízeních"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2017/standardy-cpt-pro-pouzivani-omezovacich-prostredku-v-psychiatrickych-zarizenich/"
 date: 2017-03-28
 perex: "<p>Evropský výbor pro zabránění mučení (CPT) zveřejnil revidované standardy používání omezovacích prostředků v psychiatrických zařízení pro dospělé</p>"

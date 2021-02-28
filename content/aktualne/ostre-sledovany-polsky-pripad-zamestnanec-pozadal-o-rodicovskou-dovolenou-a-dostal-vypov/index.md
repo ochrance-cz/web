@@ -1,7 +1,7 @@
 ---
 title: "Ostře sledovaný polský případ: zaměstnanec požádal o rodičovskou dovolenou a dostal výpověď"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2015/ostre-sledovany-polsky-pripad-zamestnanec-pozadal-o-rodicovskou-dovolenou-a-dostal-vypov/"
 date: 2015-07-07
 perex: "<p>Okresní soud ve Varšavě rozhodl o náhradě škody ve výši 4 000 EUR v případu zaměstnance, se kterým byl rozvázán pracovní poměr krátce poté, co požádal o rodičovskou dovolenou. </p>"

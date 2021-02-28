@@ -1,7 +1,7 @@
 ---
 title: "10 let národního preventivního mechanismu v Česku"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2016/10-let-narodniho-preventivniho-mechanismu-v-cesku/"
 date: 2016-06-27
 perex: "<p></p>"

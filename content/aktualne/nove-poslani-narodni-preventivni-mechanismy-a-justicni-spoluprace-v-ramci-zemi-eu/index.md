@@ -1,7 +1,7 @@
 ---
 title: "Nové poslání: národní preventivní mechanismy a justiční spolupráce v rámci zemí EU"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2017/nove-poslani-narodni-preventivni-mechanismy-a-justicni-spoluprace-v-ramci-zemi-eu/"
 date: 2017-04-12
 perex: "<p></p>"

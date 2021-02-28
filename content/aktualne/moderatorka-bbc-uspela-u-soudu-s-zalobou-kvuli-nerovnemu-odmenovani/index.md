@@ -1,7 +1,7 @@
 ---
 title: "Moderátorka BBC uspěla u soudu s žalobou kvůli nerovnému odměňování"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2020/moderatorka-bbc-uspela-u-soudu-s-zalobou-kvuli-nerovnemu-odmenovani/"
 date: 2020-02-13
 perex: "<p>Veřejnoprávní stanice BBC vyplácela moderátorce šestkrát nižší mzdu, než jakou pobíral jiný moderátor. Podle britského soudu to bylo diskriminační, protože šlo o stejnou práci.</p>"

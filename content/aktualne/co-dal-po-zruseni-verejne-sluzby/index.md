@@ -1,7 +1,7 @@
 ---
 title: "Co dál po zrušení veřejné služby?"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2012/co-dal-po-zruseni-verejne-sluzby"
 date: 2012-12-06
 perex: "<p>Ačkoli se podle rozhodnutí Ústavního soudu veřejná služba ruší dnem vyhlášení nálezu ve Sbírce zákonů (což lze očekávat v nejbližších dnech), od 27. listopadu, kdy Ústavní soud svůj nález veřejně vyhlásil, nesmí být žádní další uchazeči o zaměstnání k výkonu veřejné služby zařazeni.</p>"

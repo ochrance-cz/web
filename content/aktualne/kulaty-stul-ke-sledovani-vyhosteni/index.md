@@ -1,7 +1,7 @@
 ---
 title: "Kulatý stůl ke sledování vyhoštění"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2019/kulaty-stul-ke-sledovani-vyhosteni/"
 date: 2019-01-30
 perex: "<p></p>"

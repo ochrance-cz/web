@@ -1,7 +1,7 @@
 ---
 title: "Páté zasedání poradního orgánu ombudsmanky"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2019/pate-zasedani-poradniho-organu-ombudsmanky/"
 date: 2019-06-10
 perex: "<p>V úterý 28. května se popáté sešel poradní orgán ombudsmanky pro oblast ochrany práv osob se zdravotním postižením. Poradní orgán se tentokrát věnoval zejména tématu vzdělávání, tedy článku č. 24 Úmluvy o právech osob se zdravotním postižením.</p>"

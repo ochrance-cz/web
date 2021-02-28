@@ -1,7 +1,7 @@
 ---
 title: "Možnost zřizovat výhradně chlapecké školy z pohledu německého Spolkového správního soudu"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2013/moznost-zrizovat-vyhradne-chlapecke-skoly-z-pohledu-nemeckeho-spolkoveho-spravniho-soudu/"
 date: 2013-05-24
 perex: "<p>Zajímavý případ týkající se namítané diskriminace v oblasti přístupu ke vzdělání rozhodl v minulých měsících Spolkový správní soud v Lipsku. Sporný případ se týkal možnosti soukromých subjektů zřizovat školy výhradně pro žáky jednoho pohlaví (v daném případě pro chlapce). </p>"

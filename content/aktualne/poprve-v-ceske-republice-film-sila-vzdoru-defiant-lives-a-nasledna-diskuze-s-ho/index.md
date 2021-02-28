@@ -1,7 +1,7 @@
 ---
 title: "Poprvé v České republice: film „Síla vzdoru“ („Defiant Lives“) a následná diskuze s hosty"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2019/poprve-v-ceske-republice-film-sila-vzdoru-defiant-lives-a-nasledna-diskuze-s-ho/"
 date: 2019-04-16
 perex: "<p></p>"

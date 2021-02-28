@@ -1,7 +1,7 @@
 ---
 title: "Připomínky ochránce k právním předpisům"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2013/pripominky-ochrance-k-pravnim-predpisum"
 date: 2013-03-29
 perex: "<p>Od začátku roku ochránce připomínkoval už 13 projednávaných právních předpisů, jejichž obsah se dotýká problémů, s nimiž se v rámci své činnosti setkává. Využil tak zvláštní oprávnění, které mu umožňuje tímto způvostem přispívat ke zlepšení právního prostředí.</p>"

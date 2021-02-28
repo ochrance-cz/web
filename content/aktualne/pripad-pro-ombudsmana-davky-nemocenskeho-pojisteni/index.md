@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Dávky nemocenského pojištění"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-v/pripad-pro-ombudsmana-davky-nemocenskeho-pojisteni/"
 date: 2009-10-01
 perex: "<p> </p>"

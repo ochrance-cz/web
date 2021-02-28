@@ -1,7 +1,7 @@
 ---
 title: "Projekt Posílení aktivit veřejného ochránce práv v ochraně lidských práv"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/projekt-posileni-aktivit-verejneho-ochrance-prav-v-ochrane-lidskych-prav"
 date: 2020-01-15
 perex: "<p></p><p>Kancelář veřejného ochránce práv zahájila čtyřletý projekt zaměřený na ochranu lidských práv. Projekt umožní ombudsmanovi ještě intenzivněji se zaměřit na zvlášť ohrožené skupiny, jako jsou děti, lidé se zdravotním postižením nebo lidé omezeni na svobodě.</p>"

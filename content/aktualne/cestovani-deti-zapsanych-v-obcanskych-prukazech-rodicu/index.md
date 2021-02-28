@@ -1,7 +1,7 @@
 ---
 title: "Cestování dětí zapsaných v občanských průkazech rodičů"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2007/cestovani-deti-zapsanych-v-obcanskych-prukazech-rodicu"
 date: 2007-07-11
 perex: "<p></p>"

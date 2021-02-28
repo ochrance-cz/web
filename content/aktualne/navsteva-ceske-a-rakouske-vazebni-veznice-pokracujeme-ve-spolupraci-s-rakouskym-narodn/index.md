@@ -1,7 +1,7 @@
 ---
 title: "Návštěva české a rakouské vazební věznice: pokračujeme ve spolupráci s rakouským národním preventivním mechanismem (NPM)"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2018/navsteva-ceske-a-rakouske-vazebni-veznice-pokracujeme-ve-spolupraci-s-rakouskym-narodn/"
 date: 2018-09-27
 perex: "<p>V rámci navázané spolupráce s rakouským NPM se v měsíci září uskutečnily dvě exkurze ve vazebních věznicích: v Brně a v rakouském městě Korneuburg. </p>"

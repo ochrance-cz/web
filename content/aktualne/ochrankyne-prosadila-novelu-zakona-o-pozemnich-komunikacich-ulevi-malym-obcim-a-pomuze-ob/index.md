@@ -1,7 +1,7 @@
 ---
 title: "Ochránkyně prosadila novelu zákona o pozemních komunikacích: uleví malým obcím a pomůže občanům"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2015/ochrankyne-prosadila-novelu-zakona-o-pozemnich-komunikacich-ulevi-malym-obcim-a-pomuze-ob"
 date: 2015-10-23
 perex: "<p>Po dlouhých 12 letech se podařilo prosadit novelu zákona o pozemních komunikacích. Dosud o veřejně přístupných účelových komunikacích, coby nejnižší kategorii pozemních komunikací, rozhodovaly všechny obecní úřady. Nyní se tato komplikovaná agenda bude týkat jen obcí s rozšířenou působností. Prosazení této změny ulehčí malým obcím, zpřehlednění působnost jednotlivých úřadů a především zkvalitní vyřizování podnětů od občanů. Tuto změnu prosazoval již první veřejný ochránce práv JUDr. Otakar Motejl. </p>"

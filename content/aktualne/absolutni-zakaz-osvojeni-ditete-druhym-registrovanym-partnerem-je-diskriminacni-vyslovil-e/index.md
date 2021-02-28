@@ -1,7 +1,7 @@
 ---
 title: "Absolutní zákaz osvojení dítěte druhým registrovaným partnerem je diskriminační, vyslovil ESLP ve svém průlomovém rozsudku"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2013/absolutni-zakaz-osvojeni-ditete-druhym-registrovanym-partnerem-je-diskriminacni-vyslovil-e/"
 date: 2013-03-01
 perex: "<p>Evropský soud pro lidská práva (ESLP) vynesl dne 19. února 2013 stěžejní rozsudek v otázce možnosti osvojení dítěte partnerem rodiče dítěte v případě, že rodič a jeho partner jsou osobami se stejnou sexuální orientací a žijí po svém boku v dlouhotrvajícím svazku společně s dítětem, takže soužití všech tří osob má charakter rodinného života (případ X a ostatní proti Rakousku, stížnost č. 19010/07)).</p>"

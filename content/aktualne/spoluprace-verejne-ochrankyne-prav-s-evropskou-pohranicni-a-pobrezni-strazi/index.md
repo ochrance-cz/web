@@ -1,7 +1,7 @@
 ---
 title: "Spolupráce veřejné ochránkyně práv s Evropskou pohraniční a pobřežní stráží"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2017/spoluprace-verejne-ochrankyne-prav-s-evropskou-pohranicni-a-pobrezni-strazi/"
 date: 2017-06-07
 perex: "<p>Evropská pohraniční a pobřežní stráž (agentura Frontex) obdržela zjištění svého úředníka pro otázky základních práv k návratovým operacím uskutečněným ve druhém pololetí roku 2016. Tato zjištění jsou shrnutím výsledků práce monitorů nucených návratů koordinovaných touto agenturou, kteří zpracovávají poznatky z jednotlivých misí a výsledné zprávy nadále postupují i úředníkovi pro otázky základních práv. Ten se také v uplynulém roce významně zasadil o spuštění mezinárodního projektu k výcviku monitorů, díky kterému nyní také dva experti z Kanceláře veřejného ochránce práv sledují návratové operace jako tzv. evropští monitoři.</p>"

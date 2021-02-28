@@ -1,7 +1,7 @@
 ---
 title: "Obchodníci by měli být k lidem s postižením vstřícní, když na ně vláda zapomněla s výjimkou"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/obchodnici-by-meli-byt-k-lidem-s-postizenim-vstricni-kdyz-na-ne-vlada-zapomnela-s-vyji"
 date: 2020-12-11
 perex: "<p>Vláda by při přijímání omezujících opatření měla více brát v úvahu specifické situace, zvažovat dopady omezení na různé skupiny osob a dopředu stanovit nezbytné výjimky. Podle ombudsmana je závažným opomenutím, že v případě maloobchodního prodeje sice vláda stanovila výjimku pro osoby s kočárkem, které nesmí být nuceny používat nákupní vozík, ale podobnou výjimku nemají lidé s postižením používající kompenzační pomůcky. Ombudsman se v této věci obrací na vládu, ale především apeluje na obchodníky, aby k lidem s postižením přistupovali vstřícně a nebránili jim ve vstupu do provozovny, pokud nemohou kvůli svému postižení používat nákupní vozík nebo košík.</p>"

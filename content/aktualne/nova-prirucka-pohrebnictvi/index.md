@@ -1,7 +1,7 @@
 ---
 title: "Nová příručka Pohřebnictví"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2013/nova-prirucka-pohrebnictvi"
 date: 2013-07-19
 perex: "<p></p>"

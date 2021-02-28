@@ -1,7 +1,7 @@
 ---
 title: "Činnost oddělení dohledu ve čtvrtém čtvrtletí roku 2011"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2012/cinnost-oddeleni-dohledu-ve-ctvrtem-ctvrtleti-roku-2011/"
 date: 2012-01-02
 perex: "<p></p><p>V posledním čtvrtletí roku 2011 provedlo oddělení dohledu 5 systematických návštěv a 1 opakovanou návštěvu. Realizovalo také dva kulaté stoly k projednání zjištění s představiteli zařízení a rovněž zahájilo práci na zprávě ochránce shrnující návštěvy školských zařízení.</p>"

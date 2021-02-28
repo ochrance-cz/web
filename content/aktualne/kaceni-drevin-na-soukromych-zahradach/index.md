@@ -1,7 +1,7 @@
 ---
 title: "Kácení dřevin na soukromých zahradách"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2014/kaceni-drevin-na-soukromych-zahradach"
 date: 2014-03-28
 perex: "<p>Vyhláška týkající se povolování kácení dřevin přinesla některá kontroverzní pravidla (zejména spornou definici zahrad a vynětí kácení v nich z povolovacího režimu), která se stala okamžitě předmětem kritiky odborné i laické veřejnosti. Ministerstvo životního prostředí přislíbilo zástupci ochránkyně vyhlášku novelizovat a zohlednit jeho výhrady.</p>"

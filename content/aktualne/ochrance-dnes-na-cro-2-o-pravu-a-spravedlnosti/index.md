@@ -1,7 +1,7 @@
 ---
 title: "Ochránce dnes na ČRo 2 o právu a spravedlnosti"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2013/ochrance-dnes-na-cro-2-o-pravu-a-spravedlnosti"
 date: 2013-03-05
 perex: "<p></p>"

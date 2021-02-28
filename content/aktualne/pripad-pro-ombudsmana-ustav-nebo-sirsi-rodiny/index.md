@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Ústav nebo širší rodiny"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-vi/pripad-pro-ombudsmana-ustav-nebo-sirsi-rodiny/"
 date: 2010-10-27
 perex: "<p></p><p>V pátek 29. 10. vysílá Česká televize na ČT1 v 18:25 devátý díl cyklu Případ pro ombudsmana (repríze v pondělí 1. 11. ve 12:25 na ČT2). Díl nazvaný Ústav nebo širší rodina popisuje případ malé holčičky, která možná zbytečně strávila dva roky v ústavním zařízení, protože odpovědné úřady nezjišťovaly zájem širší rodiny o převzetí dítěte do péče.</p>"

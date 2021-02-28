@@ -1,7 +1,7 @@
 ---
 title: "Úřad neprávem odepřel odměnu pěstounovi. Musel mu ji doplatit."
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2018/urad-nepravem-odeprel-odmenu-pestounovi-musel-mu-ji-doplatit"
 date: 2018-07-11
 perex: "<p>Úřad práce musel pěstounovi doplatit odměnu pěstouna, kterou mu neprávem odepřel s odůvodněním, že je pěstounský manželský pár finančně zabezpečen a pěstounova manželka je babičkou dítěte, takže by jí dávka stejně nenáležela, pokud by nešlo o případ hodný zvláštního zřetele. Jestliže však z pěstounského manželského páru požádá o odměnu pěstouna ten z manželů, který není prarodičem dítěte, nezkoumá se jeho finanční situace a odměna mu musí být přiznána.</p>"

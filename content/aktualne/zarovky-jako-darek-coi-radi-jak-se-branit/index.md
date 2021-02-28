@@ -1,7 +1,7 @@
 ---
 title: "Žárovky jako dárek? ČOI radí, jak se bránit"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2017/zarovky-jako-darek-coi-radi-jak-se-branit"
 date: 2017-08-01
 perex: "<p>Pokud se zákazník rozhodne odstoupit od smlouvy, nesmí mu prodejce vyhrožovat žalobou a požadovat přemrštěnou částku za žárovky, které byly „dárkem“ ke smlouvě o dodávce energií. Podle zástupce ombudsmanky by se zákazníci neměli výhrůžek obchodníků s energiemi zaleknout. Mají pouze povinnost žárovky vrátit, nebo doplatit cenu obvyklou, za kterou lze žárovky zakoupit v běžné obchodní síti. V případě sporu s prodejcem by se měli hned obrátit na Oddělení mimosoudního řešení sporů České obchodní inspekce (Oddělení ADR).</p>"

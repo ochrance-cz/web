@@ -1,7 +1,7 @@
 ---
 title: "Studijní návštěva u francouzských kolegů"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2011/studijni-navsteva-u-francouzskych-kolegu/"
 date: 2011-03-17
 perex: "<p></p><p>Na pozvání Jeana-Marie Delarue, francouzského Contrôleur général v oblasti ochrany osob omezených na svobodě absolvovali pracovníci Kanceláře veřejného ochránce práv ve dnech 7. – 10. března 2011 stáž ve Francii. </p>"

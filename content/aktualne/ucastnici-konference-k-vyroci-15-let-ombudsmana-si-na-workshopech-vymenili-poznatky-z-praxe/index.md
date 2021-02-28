@@ -1,7 +1,7 @@
 ---
 title: "Účastníci konference k výročí 15 let ombudsmana si na workshopech vyměnili poznatky z praxe"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2015/ucastnici-konference-k-vyroci-15-let-ombudsmana-si-na-workshopech-vymenili-poznatky-z-praxe"
 date: 2015-03-27
 perex: "<p>Ombudsmani a jejich spolupracovníci z osmi evropských států se v pátek na třech paralelních pracovních jednáních věnovali metodám práce ombudsmanů, jejich možnostem ovlivňovat právní úpravu a sdíleli také zkušenosti s mediální prezentací své činnosti.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Ombudsman je tady už 15 let, aby lidem pomáhal"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2015/ombudsman-je-tady-uz-15-let-aby-lidem-pomahal"
 date: 2015-12-17
 perex: "<p>Už patnáct let pomáhá veřejný ochránce práv lidem bránit jejich práva a napravovat nesprávný postup úřadů, snaží se je chránit před špatným a nedůstojným zacházením nebo před diskriminací. Za tu dobu se na něj s žádostí o pomoc obrátilo téměř sto tisíc lidí. Všem ombudsman pomohl nebo poradil, vysvětlil jim jejich možnosti, doporučil, jak se dá jejich situace změnit. Mnohá šetření ochránce navíc vedla k plošným změnám praxe, takže zprostředkovaně se pomoci ombudsmana dostalo i dalším desítkám tisíc lidí.</p>"

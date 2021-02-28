@@ -1,7 +1,7 @@
 ---
 title: "Jednání s policejním prezidentem"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2014/jednani-s-policejnim-prezidentem/"
 date: 2014-07-04
 perex: "<p></p>"

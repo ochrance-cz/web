@@ -1,7 +1,7 @@
 ---
 title: "Ústecký kraj odepírá informace o platech úředních osob"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2013/ustecky-kraj-odepira-informace-o-platech-urednich-osob"
 date: 2013-08-21
 perex: "<p></p><p>Krajský úřad Ústeckého kraje nerespektuje zákon o svobodném přístupu k informacím, judikaturu Nejvyššího správního soudu i společné metodické doporučení Ministerstva vnitra a Úřadu pro ochranu osobních údajů pro poskytování informací o platech a odměnách úředních osob. Svým potvrzením zamítavého rozhodnutí Magistrátu města Děčín tak posvětil názor tohoto úřadu, že informace o platu a odměnách úředníků vyplácených z veřejných prostředků jsou obecně osobním údajem úředníků a poskytnout je lze jen s jejich souhlasem.</p>"

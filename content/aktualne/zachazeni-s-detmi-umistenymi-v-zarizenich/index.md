@@ -1,7 +1,7 @@
 ---
 title: "Zacházení s dětmi umístěnými v zařízeních"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2013/zachazeni-s-detmi-umistenymi-v-zarizenich"
 date: 2013-07-01
 perex: "<p></p>"

@@ -1,7 +1,7 @@
 ---
 title: "Ombudsmanka žádá vládu o zajištění zákonného postupu úřadů práce"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/ombudsmanka-zada-vladu-o-zajisteni-zakonneho-postupu-uradu-prace"
 date: 2019-11-27
 perex: "<p>Ombudsmanka žádá vládu, aby napravila nezákonnou praxi úřadů práce. Ty podle ombudsmanky postupují nezákonně a netransparentně při rozhodování o žádostech o příspěvky aktivní politiky zaměstnanosti (např. na zřízení společensky účelného pracovního místa apod.). Ministryně práce a sociálních věci nápravu nezjednala, proto o ni ombudsmanka žádá vládu.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Evropský výbor proti mučení (CPT) vydal zprávu z návštěvy Nizozemska"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2012/evropsky-vybor-proti-muceni-cpt-vydal-zpravu-z-navstevy-nizozemska/"
 date: 2012-10-22
 perex: "<p>Materiální podmínky ve věznicích i policejních celách v Nizozemsku jsou na vysoké úrovni, stížnosti CPT zaznamenal na četnost osobních prohlídek ve věznicích.</p>"

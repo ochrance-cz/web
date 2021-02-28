@@ -1,7 +1,7 @@
 ---
 title: "Rumunský orgán pro rovné zacházení opětovně uložil pokutu za neodstranění segregační zdi"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2020/rumunsky-organ-pro-rovne-zachazeni-opetovne-ulozil-pokutu-za-neodstraneni-segregacni-zdi/"
 date: 2020-04-01
 perex: "<p>Rumunská Národní rada pro boj proti diskriminaci (CNCD) dlouhodobě usiluje o odstranění zdi kolem romského sídliště ve městě Baia Mare.</p>"

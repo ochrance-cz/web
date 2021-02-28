@@ -1,7 +1,7 @@
 ---
 title: "Protialkoholní záchytné stanice nemají povinnost ohlašovat soudu nedobrovolná umístění na stanici"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2015/protialkoholni-zachytne-stanice-nemaji-povinnost-ohlasovat-soudu-nedobrovolna-umisteni-na-s/"
 date: 2015-10-09
 perex: "<p>Veřejná ochránkyně práv v průběhu let 2013 a 2014 provedla systematickou návštěvu šesti z 18 provozovaných protialkoholních záchytných stanic. Cílem systematických návštěv bylo posílit ochranu osob před všemi formami tzv. špatného zacházení. </p>"

@@ -1,7 +1,7 @@
 ---
 title: "O žádostech o informace musí úřad rozhodnout, i když je považuje za šikanu"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2013/o-zadostech-o-informace-musi-urad-rozhodnout-i-kdyz-je-povazuje-za-sikanu"
 date: 2013-11-28
 perex: "<p>I když občan zahltí úřad desítkami žádostí o informace a úřad je přesvědčen, že jde šikanózní jednání a účelovou snahu destabilizovat úřad, musí tyto žádosti vyřizovat v souladu se zákonem o svobodném přístupu k informacím. Jestliže přestane na žádosti reagovat a současně požadované informace nezveřejňuje, jde ze strany úřadu o nezákonný postup.</p>"

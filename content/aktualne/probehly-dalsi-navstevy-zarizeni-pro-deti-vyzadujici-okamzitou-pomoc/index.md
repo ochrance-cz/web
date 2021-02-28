@@ -1,7 +1,7 @@
 ---
 title: "Proběhly další návštěvy zařízení pro děti vyžadující okamžitou pomoc"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2016/probehly-dalsi-navstevy-zarizeni-pro-deti-vyzadujici-okamzitou-pomoc/"
 date: 2016-05-18
 perex: "<p></p>"

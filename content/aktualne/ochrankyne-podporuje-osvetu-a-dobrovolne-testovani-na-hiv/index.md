@@ -1,7 +1,7 @@
 ---
 title: "Ochránkyně podporuje osvětu a dobrovolné testování na HIV"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2014/ochrankyne-podporuje-osvetu-a-dobrovolne-testovani-na-hiv"
 date: 2014-12-01
 perex: "<p>Za nejdůležitější nástroj boje proti šíření AIDS považuje veřejná ochránkyně práv Anna Šabatová osvětu. Počet nakažených osob se v České republice zvyšuje, zatímco výdaje na osvětu se snižují. Přitom právě informovanost o onemocnění, šíření viru, průběhu a příznacích nemoci, léčbě a zejména o způsobu ochrany před virem HIV mohou do budoucna vést ke snižování počtu nakažených osob.</p>"

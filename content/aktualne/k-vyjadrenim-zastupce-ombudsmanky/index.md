@@ -1,7 +1,7 @@
 ---
 title: "K vyjádřením zástupce ombudsmanky"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2016/k-vyjadrenim-zastupce-ombudsmanky"
 date: 2016-07-15
 perex: "<p></p>"

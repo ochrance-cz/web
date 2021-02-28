@@ -1,7 +1,7 @@
 ---
 title: "Ombudmanka zahájila sérii systematických návštěv vazebních věznic"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2018/ombudmanka-zahajila-serii-systematickych-navstev-vazebnich-veznic/"
 date: 2018-12-14
 perex: "<p>Jedním z mnoha úkolů veřejné ochránkyně práv je i vykonávání činnosti národního preventivního mechanismu, v jehož rámci provádí systematické návštěvy míst, kde se nacházejí nebo mohou nacházet osoby omezené na svobodě veřejnou mocí nebo v důsledku závislosti na poskytované péči. Začátkem prosince letošního roku byla zahájena série návštěv vazebních věznic, na něž se pracovníci Kanceláře veřejného ochránce práv zaměřili naposledy v roce 2009, kdy navštívili čtyři zařízení tohoto typu.</p>"

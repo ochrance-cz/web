@@ -1,7 +1,7 @@
 ---
 title: "Švédský ombudsman pro rovnost zveřejnil studii o roli statistiky v boji proti diskriminaci"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2013/svedsky-ombudsman-pro-rovnost-zverejnil-studii-o-roli-statistiky-v-boji-proti-diskriminaci/"
 date: 2013-08-27
 perex: "<p></p>"

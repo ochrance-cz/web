@@ -1,7 +1,7 @@
 ---
 title: "Sedmý díl Ochránce"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2013/sedmy-dil-ochrance"
 date: 2013-10-18
 perex: "<p>V neděli 20. října vysílá ČT2 od 11:10 h sedmý díl pořadu Ochránce. Tři příběhy tohoto dílu spojuje nejspíš trpělivost, kterou se stěžovatelé museli při jednání s úřady obrnit. První řešili problém s příjezdovou cestou přes cizí pozemek, další s anglickým přepisem svého jména a třetí se snažili zamezit nepovoleným stavbám v sousedství. Repríza tohoto dílu je na programu ČT2 tentokrát až v pátek 25. 10. v 9:10 a další opakování jsou pak zařazena do vysílání ČT2 v neděli a úterý vždy po půlnoci.</p>"

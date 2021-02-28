@@ -1,7 +1,7 @@
 ---
 title: "Ombudsman informoval Poslaneckou sněmovnu o činnosti ve 4. čtvrtletí 2020"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2021/ombudsman-informoval-poslaneckou-snemovnu-o-cinnosti-ve-4-ctvrtleti-2020"
 date: 2021-02-09
 perex: "<p>Počet podnětů byl v říjnu, listopadu a prosinci stejný jako v předešlém roce a potvrdil, že se na problémech lidí s úřady příliš neprojevilo ani určité utlumení života společnosti a opatření proti šíření nákazy COVID-19. Lidé stále hledali pomoc ombudsmana především v oblasti sociálního zabezpečení, v oblasti staveb, činnosti Vězeňské služby ČR, orgánů sociálně-právní ochrany dětí a správy daní. V 75 případech lidé namítali nerovné zacházení, z toho ve 41 případech z důvodů zakázaných antidiskriminačním zákonem. Ve 4. čtvrtletí se s ohledem na prevenci šíření nákazy COVID-19 neprováděly systematické návštěvy zařízení, s výjimkou karanténních prostor v Zařízení pro zajištění cizinců Bělá-Jezová.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Nejvyšší správní soud změnil názor na přezkoumatelnost souhlasů stavebních úřadů ve správním soudnictví"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/nejvyssi-spravni-soud-zmenil-nazor-na-prezkoumatelnost-souhlasu-stavebnich-uradu-ve-spr"
 date: 2019-10-25
 perex: "<p>Souhlas vydaný stavebním úřadem podle stavebního zákona považuje Nejvyšší správní soud nově za rozhodnutí, proti němuž je možné bránit se správní žalobou. Zvyšuje se tím ochrana osob dotčených stavební činností a je tak zajištěno jejich právo na spravedlivý proces.</p>"

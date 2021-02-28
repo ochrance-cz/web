@@ -1,7 +1,7 @@
 ---
 title: "Jakým způsobem mohou volit lidé se zdravotním postižením?"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2018/jakym-zpusobem-mohou-volit-lide-se-zdravotnim-postizenim"
 date: 2018-01-11
 perex: "<p>V pátek a sobotu 12. a 13 ledna 2018 proběhne první kolo volby prezidenta České republiky. V této souvislosti chceme upozornit, že lidé se zdravotním postižením mají právo na úpravu volebního procesu tak, aby mohli také platně odevzdat svůj hlas. </p>"

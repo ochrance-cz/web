@@ -1,7 +1,7 @@
 ---
 title: "Vysoké poplatky za vjezd do areálu nemocnic"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2017/vysoke-poplatky-za-vjezd-do-arealu-nemocnic"
 date: 2017-12-07
 perex: "<p>Zástupce ombudsmanky zaznamenal v poslední době dotazy a stížnosti na vysoké platby požadované za vjezd osobními auty do areálů nemocnic.</p>"

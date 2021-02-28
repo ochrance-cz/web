@@ -1,7 +1,7 @@
 ---
 title: "Nedobrovolní pacienti mají právo na setkání se zástupci, důvěrníky či podpůrci"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/nedobrovolni-pacienti-maji-pravo-na-setkani-se-zastupci-duverniky-ci-podpurci"
 date: 2020-12-14
 perex: "<p>Lidé hospitalizovaní bez svého souhlasu se i v době krizového opatření vlády mohou osobně stýkat se svým zástupcem, důvěrníkem nebo podpůrcem, pokud přitom budou splněna nezbytná hygienická opatření, aby se předešlo šíření epidemie. Ministerstvo zdravotnictví na základě upozornění zástupkyně ombudsmana přislíbilo sjednotit přístup poskytovatelů zdravotních služeb tak, aby nedocházelo k omezování práv nedobrovolných pacientů v rozporu s vládními opatřeními.</p>"

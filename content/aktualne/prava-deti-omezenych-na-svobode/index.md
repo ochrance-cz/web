@@ -1,7 +1,7 @@
 ---
 title: "Práva dětí omezených na svobodě"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2016/prava-deti-omezenych-na-svobode/"
 date: 2016-02-23
 perex: "<p></p>"

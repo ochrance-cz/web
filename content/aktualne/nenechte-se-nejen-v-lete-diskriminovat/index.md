@@ -1,7 +1,7 @@
 ---
 title: "Nenechte se (nejen) v létě diskriminovat"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/nenechte-se-nejen-v-lete-diskriminovat"
 date: 2019-07-18
 perex: "<p>V letních měsících lidé tráví více času mimo domov, častěji využívají různé služby poskytující kulturní či sportovní vyžití. Chodí na koupaliště a plovárny, navštěvují hrady a zámky, cestují a ubytovávají se, častěji chodí do kaváren a restaurací. Provozovatelé a poskytovatelé služeb se je snaží přilákat různými slevami či výhodami, někdy naopak poskytnutí služeb omezují určitými zákazy.</p>"

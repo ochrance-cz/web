@@ -1,7 +1,7 @@
 ---
 title: "Sedm let od rozsudku proti České republice a nic se nezměnilo"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2014/sedm-let-od-rozsudku-proti-ceske-republice-a-nic-se-nezmenilo"
 date: 2014-11-14
 perex: "<p>I sedm let po rozsudku „D.H. a ostatní proti České republice“ jsou romské děti vzdělávány v bývalých zvláštních školách. Děti romského původu stále tvoří přibližně třetinu žáků vzdělávaných podle upraveného vzdělávacího programu pro žáky s lehkým mentálním postižením, což neodpovídá faktu, že podíl Romů v populaci je odhadován jen na 1,4 – 2,8%.</p>"

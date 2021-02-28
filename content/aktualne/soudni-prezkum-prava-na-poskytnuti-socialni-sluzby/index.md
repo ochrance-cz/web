@@ -1,7 +1,7 @@
 ---
 title: "Soudní přezkum práva na poskytnutí sociální služby"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2015/soudni-prezkum-prava-na-poskytnuti-socialni-sluzby/"
 date: 2015-02-04
 perex: "<p>Nejvyšší správní soud se v rozsudku ze dne 30. 10. 2014, sp. zn. 4 Ads 134/2014 zastal dětí se zdravotním postižením a uznal jejich právo na přístup k soudu ve věci poskytnutí odpovídající sociální služby, která by jim umožnila setrvat v jejich přirozeném sociálním prostředí. V prvotní fázi se na snaze zajistit vhodné sociální služby podílela i ochránkyně, když se obracela na představitele Jihočeského kraje s žádostí o pomoc dotčeným rodinám. </p>"

@@ -1,7 +1,7 @@
 ---
 title: "Výbor CPT zveřejnil zprávu o návštěvě věznic v Belgii (2016) a míst, kde byli omezeni na svobodě cizinci, v Maďarsku (2015)"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2016/vybor-cpt-zverejnil-zpravu-o-navsteve-veznic-v-belgii-2016-a-mist-kde-byli-omezeni-na-sv/"
 date: 2016-11-18
 perex: "<p>Evropský výbor pro zabránění mučení a nelidskému nebo ponižujícímu zacházení nebo trestání (CPT) aktuálně zveřejnil dvě zprávy, které se týkají poměrně nedávných návštěv. Zprávy a související vyjádření vlády výbor zveřejňuje na žádost úřadů dotčeného státu.</p>"

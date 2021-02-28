@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Stavební bezohlednost"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-iii/pripad-pro-ombudsmana-stavebni-bezohlednost/"
 date: 2008-04-16
 perex: "<p></p>"

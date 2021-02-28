@@ -1,7 +1,7 @@
 ---
 title: "Tisková konference nového ombudsmana"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2010/tiskova-konference-noveho-ombudsmana"
 date: 2010-09-10
 perex: "<p></p><p>První brněnská tisková konference nového veřejného ochránce práv JUDr. Pavla Varvařovského se uskuteční ve středu 15. září v 9:00 hod v tiskovém středisku Kanceláře veřejného ochránce práv na Údolní 39 v Brně.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Ochránce k situaci v psychiatrických léčebnách"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2008/ochrance-k-situaci-v-psychiatrickych-lecebnach"
 date: 2008-11-06
 perex: "<p></p>"

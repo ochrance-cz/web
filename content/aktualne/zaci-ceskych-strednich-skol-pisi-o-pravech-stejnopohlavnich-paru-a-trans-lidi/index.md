@@ -1,7 +1,7 @@
 ---
 title: "Žáci českých středních škol píší o právech stejnopohlavních párů a trans lidí"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2018/zaci-ceskych-strednich-skol-pisi-o-pravech-stejnopohlavnich-paru-a-trans-lidi/"
 date: 2018-12-19
 perex: "<p></p>"

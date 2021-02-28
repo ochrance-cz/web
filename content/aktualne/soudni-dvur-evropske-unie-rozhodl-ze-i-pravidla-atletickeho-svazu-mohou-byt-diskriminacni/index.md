@@ -1,7 +1,7 @@
 ---
 title: "Soudní dvůr Evropské unie rozhodl, že i pravidla atletického svazu mohou být diskriminační."
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2019/soudni-dvur-evropske-unie-rozhodl-ze-i-pravidla-atletickeho-svazu-mohou-byt-diskriminacni/"
 date: 2019-07-31
 perex: "<p>Soudní dvůr Evropské unie (SDEU) vydal v červnu rozsudek, ve kterém rozhodl, že pravidla atletického svazu, která vylučují cizí státní příslušníky z účasti na národním mistrovství, jsou diskriminační. Omezují totiž volný pohyb osob uvnitř EU a jsou tak v rozporu s čl. 18, 21 a 165 Smlouvy o fungování EU.</p>"

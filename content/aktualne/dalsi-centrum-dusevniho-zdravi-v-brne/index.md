@@ -1,7 +1,7 @@
 ---
 title: "Další centrum duševního zdraví v Brně"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2020/dalsi-centrum-dusevniho-zdravi-v-brne/"
 date: 2020-02-20
 perex: "<p>V rámci reformy psychiatrické péče otevřely 19. 2. 2020 Fakultní nemocnice Brno a organizace Práh jižní Morava, z.ú. v Brně již druhé centrum duševního zdraví. </p>"

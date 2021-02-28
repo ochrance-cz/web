@@ -1,7 +1,7 @@
 ---
 title: "Aktualita: Kulatý stůl s inspektory sociálních služeb"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2014/aktualita-kulaty-stul-s-inspektory-socialnich-sluzeb/"
 date: 2014-12-15
 perex: "<p>Dne 23. října 2014 proběhlo v Praze setkání zaměstnanců oddělení dohledu s vybranými inspektory sociálních služeb a zástupci Ministerstva práce a sociálních věcí.</p>"

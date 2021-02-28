@@ -1,7 +1,7 @@
 ---
 title: "Lesby a gayové volají po manželství, společnost se na to zdá být připravená"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/lesby-a-gayove-volaji-po-manzelstvi-spolecnost-se-na-to-zda-byt-pripravena"
 date: 2019-05-17
 perex: "<p>Ombudsmanka provedla jedno z nejrozsáhlejších dotazníkových šetření mezi lesbami, gayi, bisexuály a trans lidmi v České republice. Ve spolupráci s Prague Pride zjišťovala, s jakými problémy a překážkami se LGBT+ osoby v posledních pěti letech potýkaly, jak je podle nich společnost přijímá, s jakými společenskými stereotypy a předsudky se setkávali a jaké jsou jejich zkušenosti s diskriminací a obtěžováním.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Ochrana osob omezených na svobodě"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2006/ochrana-osob-omezenych-na-svobode"
 date: 2006-04-12
 perex: "<p> </p>"

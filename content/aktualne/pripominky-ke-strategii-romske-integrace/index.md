@@ -1,7 +1,7 @@
 ---
 title: "Připomínky ke Strategii romské integrace"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2021/pripominky-ke-strategii-romske-integrace"
 date: 2021-01-13
 perex: "<p>Ombudsman uplatnil připomínky ke Strategii romské integrace 2021 – 2030, v nichž konstatoval, že jde o nerealizovatelný dokument.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Ministerstvo školství, mládeže a tělovýchovy porušuje zákon při přezkumech maturitních zkoušek"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2018/ministerstvo-skolstvi-mladeze-a-telovychovy-porusuje-zakon-pri-prezkumech-maturitnich-zk"
 date: 2018-07-12
 perex: "<p>Ombudsmanka se postupem ministerstva školství při přezkumech maturitních zkoušek zabývá již od roku 2014. Přes opakovaná upozornění se na nezákonné praxi ministerstva mnoho nezměnilo. Maturita je často první životní událostí, kdy se mladí lidé dostávají do kontaktu se státní mocí. Nezájem státu vypořádat se s námitkami maturantů zasévá u mladých lidí nedůvěru ve stát jako takový.</p>"

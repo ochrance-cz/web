@@ -1,7 +1,7 @@
 ---
 title: "Ombudsmanka žádá o snížení byrokracie a zatěžování lidí při nahlížení do spisů"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2018/ombudsmanka-zada-o-snizeni-byrokracie-a-zatezovani-lidi-pri-nahlizeni-do-spisu"
 date: 2018-12-07
 perex: "<p>Ombudsmanka žádá vládu, aby zajistila účastníkům správních řízení možnost dálkově nahlížet do spisu formou pořízení a zaslání kopií. Úřady v současnosti nejsou jednotné, některé na žádost kopie ze správních spisů posílají, jiné trvají na tom, že to zákon neumožňuje a že se žadatel musí na úřad dostavit osobně. Ministerstvo vnitra odmítá špatnou správní praxi rozdílného přístupu napravit, proto  se ombudsmanka obrací na vládu, aby dálkové nahlížení do spisů jednoznačně umožnila změnou zákona.</p>"

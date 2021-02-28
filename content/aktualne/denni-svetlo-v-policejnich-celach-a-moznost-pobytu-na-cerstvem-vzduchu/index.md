@@ -1,7 +1,7 @@
 ---
 title: "Denní světlo v policejních celách a možnost pobytu na čerstvém vzduchu"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2012/denni-svetlo-v-policejnich-celach-a-moznost-pobytu-na-cerstvem-vzduchu/"
 date: 2012-11-02
 perex: "<p>Ochránce zjišťoval zkušenosti zahraničních kolegů s podmínkami v policejních celách pokud jde o právo pobytu na čerstvém vzduch při zadržení delším než 24 hodin a přirozené osvětlení.</p>"

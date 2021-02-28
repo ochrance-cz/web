@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Motokros"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-ii/pripad-pro-ombudsmana-motokros/"
 date: 2010-02-19
 perex: "<p></p><p>Motokrosový areál, o kterém bude v případu řeč, byl postupně budován už od roku 1999. O tři roky později se na upravených pozemcích trénovalo, vzápětí přišly první motokrosové závody. </p>"

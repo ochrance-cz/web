@@ -1,7 +1,7 @@
 ---
 title: "Čtvrté zasedání poradního orgánu ombudsmanky"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2019/ctvrte-zasedani-poradniho-organu-ombudsmanky/"
 date: 2019-03-05
 perex: "<p>Ve středu 27. 2. 2019 se společně s veřejnou ochránkyní práv sešli členky a členové poradního orgánu pro oblast ochrany práv osob se zdravotním postižením. Pravidelné setkání se tentokrát uskutečnilo v Praze a to v sídle Společnosti pro podporu lidí s mentálním postižením v České republice, z.s. Poradní orgán se věnoval hlavně článku 25 Úmluvy o právech osob se zdravotním postižením, tedy tématu zdraví.</p>"

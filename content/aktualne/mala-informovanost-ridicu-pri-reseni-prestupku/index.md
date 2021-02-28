@@ -1,7 +1,7 @@
 ---
 title: "Malá informovanost řidičů při řešení přestupků"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2011/mala-informovanost-ridicu-pri-reseni-prestupku"
 date: 2011-11-09
 perex: "<p></p>"

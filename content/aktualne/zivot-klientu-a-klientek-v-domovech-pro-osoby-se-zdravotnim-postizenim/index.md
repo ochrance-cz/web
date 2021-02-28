@@ -1,7 +1,7 @@
 ---
 title: "Život klientů a klientek v domovech pro osoby se zdravotním postižením"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2021/zivot-klientu-a-klientek-v-domovech-pro-osoby-se-zdravotnim-postizenim"
 date: 2021-02-11
 perex: "<p>Životem klientek a klientů v domovech pro osoby se zdravotním postižením se ombudsman zabývá již od roku 2006. Jelikož z dlouhodobých poznatků vyplývá, že realizace práv garantovaných Úmluvou o právech osob se zdravotním postižením není naplňována, rozhodla se zástupkyně ombudsmana Monika Šimůnková systematicky zmapovat situaci v domovech pro osoby se zdravotním postižením (DOZP). Tématy výzkumu byly především otázky týkající se nastavení služby pro nezletilé, zaměstnávání klientů a zajištění zdravotní péče. Na základě výsledků šetření budou připravena doporučení pro tato zařízení. Osloveny byly všechny dané služby registrované k červnu 2019. Tři čtvrtiny z nich se výzkumu zúčastnilo, celkem tedy 156 zařízení.  </p>"

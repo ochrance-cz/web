@@ -1,7 +1,7 @@
 ---
 title: "Čtvrtý díl Ochránce"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2016/ctvrty-dil-ochrance-2"
 date: 2016-01-29
 perex: "<p>V neděli 31. 1. můžete na ČT2 od 18:15 h sledovat čtvrtý díl pořadu Ochránce. Věnovat se bude případům plánované silnice přes soukromé pozemky, průtahům při odškodňování za nefungující registr vozidel a problémům diskriminace lidí starších 50 let ze strany zaměstnavatelů. Reprízy tohoto dílu vysílá ČT2 následující čtvrtek v 18:55 a v pátek ve 14:10 h.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Setkání ombudsmanů zemí Visegrádské čtyřky v Brně"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2012/setkani-ombudsmanu-zemi-visegradske-ctyrky-v-brne"
 date: 2012-05-23
 perex: "<p></p>"

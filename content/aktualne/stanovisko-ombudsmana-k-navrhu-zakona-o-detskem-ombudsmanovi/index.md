@@ -1,7 +1,7 @@
 ---
 title: "Stanovisko ombudsmana k návrhu zákona o dětském ombudsmanovi"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/stanovisko-ombudsmana-k-navrhu-zakona-o-detskem-ombudsmanovi"
 date: 2020-07-02
 perex: "<p>Ombudsman zaslal vládě nesouhlasné stanovisko k předložené podobě návrhu zákona o zřízení ochránce práv dětí. Výhrady se netýkají zřízení dětského ombudsmana samotného, ale pouze tohoto konkrétního návrhu zákona, který předpokládá přenesení veškeré agendy veřejného ochránce práv na dětského ombudsmana podle kritéria věku.</p>"

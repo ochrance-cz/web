@@ -1,7 +1,7 @@
 ---
 title: "Příběhy, které inspirují – Věková diskriminace"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2018/pribehy-ktere-inspiruji-vekova-diskriminace/"
 date: 2018-10-10
 perex: "<p>Ombudsmanka vydala leták, který informuje o pěti případech diskriminace na základě věku, které v uplynulých letech řešila a v nichž se podařilo zajistit nápravu.</p>"

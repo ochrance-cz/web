@@ -1,7 +1,7 @@
 ---
 title: "Náhradní rodinná péče pro děti s postižením"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2019/nahradni-rodinna-pece-pro-deti-s-postizenim/"
 date: 2019-02-01
 perex: "<p></p>"

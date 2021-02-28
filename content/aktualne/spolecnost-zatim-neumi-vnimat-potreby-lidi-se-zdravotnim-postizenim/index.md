@@ -1,7 +1,7 @@
 ---
 title: "Společnost zatím neumí vnímat potřeby lidí se zdravotním postižením"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2017/spolecnost-zatim-neumi-vnimat-potreby-lidi-se-zdravotnim-postizenim"
 date: 2017-03-16
 perex: "<p>Na práva osob se zdravotním postižením se začalo poukazovat teprve na začátku devadesátých let a od té doby prošla naše společnost významnými změnami v přístupu k lidem se zdravotním postižením. Mnohem častěji jsou aktivně zapojeni do společnosti, studují, vykonávají běžná zaměstnání. Přesto se ukazuje, že stále nedokážeme vnímat jejich odlišné potřeby a nahlížíme na ně pohledem lidí bez postižení. To je důvodem, proč u nás lidé se zdravotním postižením stále čelí překážkám v každodenním životě, a to i v tak klíčových oblastech, jako je vzdělání, zaměstnanost nebo bydlení.</p>"

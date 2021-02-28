@@ -1,7 +1,7 @@
 ---
 title: "Diskriminace homosexuálů při darování krve ve Francii"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2015/diskriminace-homosexualu-pri-darovani-krve-ve-francii/"
 date: 2015-05-15
 perex: "<p>Soudní dvůr Evropské Unie ve svém rozsudku ze dne 29. dubna 2015 (C-528/13) zdůraznil roli vnitrostátního soudu při posuzování výše rizika přenosu závažných infekčních onemocnění přenášejících se krví a nutnost řádného posouzení splněných podmínek pro trvalé vyloučení možnosti darování krve pro muže, kteří měli sexuální styk s jiným mužem.</p>"

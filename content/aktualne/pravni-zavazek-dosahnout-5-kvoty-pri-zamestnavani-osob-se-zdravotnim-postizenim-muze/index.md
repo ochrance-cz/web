@@ -1,7 +1,7 @@
 ---
 title: "Právní závazek dosáhnout 5% kvóty při zaměstnávání osob se zdravotním postižením může být v Nizozemsku uložen v roce 2017"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2014/pravni-zavazek-dosahnout-5-kvoty-pri-zamestnavani-osob-se-zdravotnim-postizenim-muze/"
 date: 2014-05-21
 perex: "<p>Pokud zaměstnavatelé nevytvoří určitý počet nových pracovních míst pro lidi se zdravotním postižením, může být právní úprava vzniku kvót přijata beze všeho v roce 2017.</p>"

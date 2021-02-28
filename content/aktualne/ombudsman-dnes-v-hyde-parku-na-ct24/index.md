@@ -1,7 +1,7 @@
 ---
 title: "Ombudsman dnes v Hyde Parku na ČT24"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2011/ombudsman-dnes-v-hyde-parku-na-ct24"
 date: 2011-09-22
 perex: "<p></p>"

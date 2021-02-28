@@ -1,7 +1,7 @@
 ---
 title: "V Kyselce stát naprosto selhal"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2009/v-kyselce-stat-naprosto-selhal"
 date: 2009-10-29
 perex: "<p></p><p>Stav památkově chráněných objektů v Kyselce je smutným dokladem toho, jak mohou dopadnout památkově chráněné stavby, přidá-li se k nečinnosti vlastníka i nečinnost státu a jeho orgánů.</p>"

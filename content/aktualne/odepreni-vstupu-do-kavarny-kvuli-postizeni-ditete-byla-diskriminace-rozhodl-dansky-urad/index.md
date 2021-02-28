@@ -1,7 +1,7 @@
 ---
 title: "Odepření vstupu do kavárny kvůli postižení dítěte byla diskriminace, rozhodl dánský úřad"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2020/odepreni-vstupu-do-kavarny-kvuli-postizeni-ditete-byla-diskriminace-rozhodl-dansky-urad/"
 date: 2021-01-25
 perex: "<p>Dánský Úřad pro rovné zacházení rozhodl, že kavárna musí vyplatit dítěti se zdravotním postižením i jeho matce odškodné v celkové výši 10 000 dánských korun.</p>"

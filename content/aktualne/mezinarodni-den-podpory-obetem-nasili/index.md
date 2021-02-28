@@ -1,7 +1,7 @@
 ---
 title: "Mezinárodní den podpory obětem násilí"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/mezinarodni-den-podpory-obetem-nasili"
 date: 2020-06-26
 perex: "<p>Ombudsman působí dlouhodobě jako často jediná státní instituce, která má v popisu práce bránit špatnému zacházení s lidmi, kteří jsou z různých důvodů omezeni na svobodě. Ať se jedná o klienty sociálních služeb, uvězněné či o pacienty léčeben nebo psychiatrických nemocnic. Ombudsman nejen dohlíží, jak je s těmito lidmi zacházeno, ale především upozorňuje na všechna pochybení, ke kterým mnohdy dochází jednoduše proto, že je české zákony umožňují a tolerují. Na tyto systémové problémy je vhodné upozornit právě dnes, kdy si připomínáme Mezinárodní den podpory obětem násilí. Již čtrnáct let se snažíme, aby těchto obětí bylo co nejméně. Pomohly by také systémové změny, o které se již několik let snažíme. Rozhodli jsme se proto upozornit na několik aspektů prevence, které dlouhodobě unikají pozornosti veřejnosti.</p>"

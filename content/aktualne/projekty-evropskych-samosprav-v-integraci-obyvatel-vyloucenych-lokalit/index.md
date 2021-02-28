@@ -1,7 +1,7 @@
 ---
 title: "Projekty evropských samospráv v integraci obyvatel vyloučených lokalit"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2013/projekty-evropskych-samosprav-v-integraci-obyvatel-vyloucenych-lokalit/"
 date: 2013-04-04
 perex: "<p>Na Strategii boje proti sociálnímu vyloučení v letech 2011-2015, zdůrazňující potřebu koncepčního řešení postavení osob žijících v sociálně vyloučených lokalitách, reagují některé české obce, města nebo městské části realizací projektů, jejichž cílem je sdílení dobré praxe v dané oblasti. </p>"

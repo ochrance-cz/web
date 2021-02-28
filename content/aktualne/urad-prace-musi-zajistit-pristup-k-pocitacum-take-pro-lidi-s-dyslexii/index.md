@@ -1,7 +1,7 @@
 ---
 title: "Úřad práce musí zajistit přístup k počítačům také pro lidi s dyslexií"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2020/urad-prace-musi-zajistit-pristup-k-pocitacum-take-pro-lidi-s-dyslexii/"
 date: 2020-02-27
 perex: "<p>Podle dánského Úřadu pro rovné zacházení (Ligebehandlingsnaevnet) je povinností úřadu práce zajistit lidem s dyslexií rovný přístup k počítačům, které jsou určeny ke hledání zaměstnání.</p>"

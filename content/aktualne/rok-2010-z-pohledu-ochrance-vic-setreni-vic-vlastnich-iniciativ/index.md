@@ -1,7 +1,7 @@
 ---
 title: "Rok 2010 z pohledu ochránce – víc šetření, víc vlastních iniciativ"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2011/rok-2010-z-pohledu-ochrance-vic-setreni-vic-vlastnich-iniciativ"
 date: 2011-04-07
 perex: "<p></p>"

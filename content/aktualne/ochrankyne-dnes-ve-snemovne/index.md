@@ -1,7 +1,7 @@
 ---
 title: "Ochránkyně dnes ve Sněmovně"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2014/ochrankyne-dnes-ve-snemovne"
 date: 2014-06-19
 perex: "<p></p>"

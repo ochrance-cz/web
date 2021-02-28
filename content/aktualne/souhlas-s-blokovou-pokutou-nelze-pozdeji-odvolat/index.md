@@ -1,7 +1,7 @@
 ---
 title: "Souhlas s blokovou pokutou nelze později odvolat"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2011/souhlas-s-blokovou-pokutou-nelze-pozdeji-odvolat"
 date: 2011-11-09
 perex: "<p></p><p>Jestliže má řidič jakékoli výhrady k ukládané blokové pokutě, může s jejím uložením nesouhlasit. V takovém případě policista sepíše záznam o události a věc pak projedná příslušný obecní úřad ve správním přestupkovém řízení. Pokud řidič s blokovou pokutou souhlasí a teprve později ho chce odvolat, téměř nikdy neuspěje. </p>"

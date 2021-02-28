@@ -1,7 +1,7 @@
 ---
 title: "Stát není schopen garantovat základní právo na rozhodnutí bez průtahů"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/stat-neni-schopen-garantovat-zakladni-pravo-na-rozhodnuti-bez-prutahu"
 date: 2020-12-10
 perex: "<p>V souvislosti s Dnem lidských práv ombudsman připomíná, že nejčastěji porušovaným základním právem je podle jeho poznatků právo lidí na to, aby byla jejich věc projednána bez zbytečných průtahů. Vyplývá to z podnětů, s nimiž se lidé na ombudsmana obracejí. Z každoročních 8000 podnětů se podle ombudsmana přinejmenším třetina dotýká některého práva zaručeného Listinou základních práv a svobod a nejčastěji jde právě o nepřiměřenou dlouhé čekání na rozhodnutí.</p>"

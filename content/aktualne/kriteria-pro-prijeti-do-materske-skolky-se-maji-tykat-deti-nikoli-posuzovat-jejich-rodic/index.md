@@ -1,7 +1,7 @@
 ---
 title: "Kritéria pro přijetí do mateřské školky se mají týkat dětí, nikoli posuzovat jejich rodiče"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2011/kriteria-pro-prijeti-do-materske-skolky-se-maji-tykat-deti-nikoli-posuzovat-jejich-rodic"
 date: 2011-02-16
 perex: "<p></p><p>Na základě individuálních stížností rodičů odmítnutých dětí a prostudování kritérií více než 50 různých mateřských škol v celé ČR se ochránce rozhodl analyzovat nejobvyklejší kritéria. Některá z nich lze používat naprosto legitimně, jiná je třeba zvažovat spolu s dalšími okolnostmi a některá podle ochránce zavádějí nepřípustné rozlišování.</p>"

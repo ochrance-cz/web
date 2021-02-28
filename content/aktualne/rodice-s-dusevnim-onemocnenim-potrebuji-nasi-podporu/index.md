@@ -1,7 +1,7 @@
 ---
 title: "Rodiče s duševním onemocněním potřebují naši podporu"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/rodice-s-dusevnim-onemocnenim-potrebuji-nasi-podporu"
 date: 2020-06-11
 perex: "<p>Každý rok řešíme případy, ve kterých rodiče přicházejí o své děti z důvodu svého duševního onemocnění nebo jiného postižení. Důvodem však obvykle není to, že by se o děti nechtěli či nemohli starat, ale že jim chybí podpora v jejich péči. Příliš často se zapomíná, že chránit máme především nejlepší zájem dítěte a takovým zájmem obvykle je, aby dítě mohlo vyrůstat se svými rodiči. </p>"

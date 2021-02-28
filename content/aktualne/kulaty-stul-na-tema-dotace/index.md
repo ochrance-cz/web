@@ -1,7 +1,7 @@
 ---
 title: "Kulatý stůl na téma dotace"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2015/kulaty-stul-na-tema-dotace"
 date: 2015-11-09
 perex: "<p></p>"

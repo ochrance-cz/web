@@ -1,7 +1,7 @@
 ---
 title: "Vsetín při vystěhování romských rodin pochybil"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2007/vsetin-pri-vystehovani-romskych-rodin-pochybil"
 date: 2007-06-13
 perex: "<p></p>"

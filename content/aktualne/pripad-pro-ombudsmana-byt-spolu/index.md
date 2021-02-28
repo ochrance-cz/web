@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Být spolu"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-i/pripad-pro-ombudsmana-byt-spolu/"
 date: 2010-02-19
 perex: "<p></p><p>Asi málokdo z nás si dokáže představit, že by byl odloučen od rodiny několik let. Tento případ řešil sloučení rodiny azylanta a podnět směřoval proti Zastupitelství úřadu České republiky v Islámábádu a MZV ČR.</p>"

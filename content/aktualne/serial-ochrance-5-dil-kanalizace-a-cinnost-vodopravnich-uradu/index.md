@@ -1,7 +1,7 @@
 ---
 title: "Seriál Ochránce – 5. díl – kanalizace a činnost vodoprávních úřadů"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2012/serial-ochrance-5-dil-kanalizace-a-cinnost-vodopravnich-uradu"
 date: 2012-10-04
 perex: "<p>V neděli 7. 10. ve 11:00h vysílá ČT2 5. díl pořadu Ochránce o problémech, do kterých se lidé dostávají ve vztahu k úřadům, tentokrát o potížích s kanalizací a o činnosti vodoprávních úřadů. Reprízu dílu uvidíte na ČT2 v úterý 9. 10. v 9:00h.</p>"

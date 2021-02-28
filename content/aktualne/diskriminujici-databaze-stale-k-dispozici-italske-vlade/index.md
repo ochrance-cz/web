@@ -1,7 +1,7 @@
 ---
 title: "Diskriminující databáze stále k dispozici italské vládě"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2013/diskriminujici-databaze-stale-k-dispozici-italske-vlade/"
 date: 2013-08-08
 perex: "<p>Italské soudy nařídily v individuálním případě vládě zaplatit odškodné za diskriminující uchování osobních údajů.</p>"

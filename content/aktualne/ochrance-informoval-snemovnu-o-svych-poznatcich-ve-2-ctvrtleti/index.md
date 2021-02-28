@@ -1,7 +1,7 @@
 ---
 title: "Ochránce informoval Sněmovnu o svých poznatcích ve 2. čtvrtletí"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2013/ochrance-informoval-snemovnu-o-svych-poznatcich-ve-2-ctvrtleti"
 date: 2013-07-17
 perex: "<p></p>"

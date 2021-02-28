@@ -1,7 +1,7 @@
 ---
 title: "Estonská komisařka pro rovné zacházení shledala v roce 2011 porušení rovného zacházení ve 23 případech"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2012/estonska-komisarka-pro-rovne-zachazeni-shledala-v-roce-2011-poruseni-rovneho-zachazeni-ve/"
 date: 2012-10-18
 perex: "<p>Počet stížností, které ročně řeší Estonská komisařka pro rovné zacházení, se za pět let zvýšil z méně než 50 na 358.  </p>"

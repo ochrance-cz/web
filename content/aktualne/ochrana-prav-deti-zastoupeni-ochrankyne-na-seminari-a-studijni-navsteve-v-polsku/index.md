@@ -1,7 +1,7 @@
 ---
 title: "Ochrana práv dětí: zastoupení ochránkyně na semináři a studijní návštěvě v Polsku"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2014/ochrana-prav-deti-zastoupeni-ochrankyne-na-seminari-a-studijni-navsteve-v-polsku/"
 date: 2014-10-16
 perex: "<p>Veřejná ochránkyně práv přijala pozvání Ministerstva zahraničních věcí Polské republiky k představení své činnosti na semináři o ochraně práv dětí konaném 30. září ve Varšavě. </p>"

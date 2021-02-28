@@ -1,7 +1,7 @@
 ---
 title: "Seminář k problematice získávání a práce s daty z národních a mezinárodních archivů"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2018/seminar-k-problematice-ziskavani-a-prace-s-daty-z-narodnich-a-mezinarodnich-archivu/"
 date: 2018-06-04
 perex: "<p></p>"

@@ -1,7 +1,7 @@
 ---
 title: "Na kávu s ombudsmanem, 11. díl: Veřejné cesty"
-tags:
-  - Podcast
+vystupy:
+  - podcast
 oldUrl: "/aktualne/tiskove-zpravy-2021/na-kavu-sombudsmanem-11-dil-verejne-cesty"
 date: 2021-02-19
 perex:

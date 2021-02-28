@@ -1,7 +1,7 @@
 ---
 title: "Začíná vysílání nových dílů Ochránce"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2016/zacina-vysilani-novych-dilu-ochrance"
 date: 2016-01-06
 perex: "<p>Česká televize začíná v neděli 10. 1. vysílat nové díly pořadu Ochránce. Zařazeny jsou do programu ČT2, premiéra vždy v neděli od 18:15 h, reprízy ve čtvrtek v 19:15 a v pátek ve 14:00. První díl se věnuje případům nepřiznaného invalidního důchodu, neproplácení služební dosažitelnosti vojákům a diskriminaci zahraničních studentů na univerzitě.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Nový informační leták pro děti v dětském domově nebo výchovném ústavu"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/novy-informacni-letak-pro-deti-v-detskem-domove-nebo-vychovnem-ustavu"
 date: 2020-08-13
 perex: "<p>Připravili jsme informační leták, který je určený dětem umístěným v dětském domově nebo ve výchovném ústavu. Leták se zaměřuje na práva dětí a nejčastější problémy, se kterými se potkávají. Zástupkyně ombudsmana v této souvislosti kontaktovala ředitele a ředitelky dětských domovů, výchovných ústavů nebo diagnostických ústavů, aby děti o letáku informovali. Dětem byl adresován také samostatný dopis s informací, s jakými problémy se mohou na zástupkyni obracet.</p>"

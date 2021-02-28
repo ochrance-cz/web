@@ -1,7 +1,7 @@
 ---
 title: "Veřejný ochránce práv a české soudy mají obvykle stejný právní názor"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2016/verejny-ochrance-prav-a-ceske-soudy-maji-obvykle-stejny-pravni-nazor"
 date: 2016-03-04
 perex: "<p>Analýza rozhodnutí českých soudů ukázala, že soudy ve většině případů souhlasí se stanovisky veřejného ochránce práv. Stanoviska ochránce tak slouží k lepšímu uplatňování spravedlnosti v České republice. </p>"

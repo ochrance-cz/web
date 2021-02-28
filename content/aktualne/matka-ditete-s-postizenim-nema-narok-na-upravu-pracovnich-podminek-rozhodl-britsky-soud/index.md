@@ -1,7 +1,7 @@
 ---
 title: "Matka dítěte s postižením nemá nárok na úpravu pracovních podmínek, rozhodl britský soud"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2014/matka-ditete-s-postizenim-nema-narok-na-upravu-pracovnich-podminek-rozhodl-britsky-soud/"
 date: 2014-10-30
 perex: "<p>Britský odvolací soud rozhodl, že povinnost zaměstnavatele přijmout přiměřená opatření se nevztahuje na případy, kdy postižením netrpí zaměstnanec sám, ale jeho dítě.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Souhrnná zpráva z návštěv policejních cel"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2017/souhrnna-zprava-z-navstev-policejnich-cel/"
 date: 2017-08-30
 perex: "<p></p>"

@@ -1,7 +1,7 @@
 ---
 title: "Nová zástupkyně ombudsmanky nastoupila do funkce"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/nova-zastupkyne-ombudsmanky-nastoupila-do-funkce"
 date: 2019-12-12
 perex: "<p>Nově zvolená zástupkyně ombudsmanky Monika Šimůnková začala od pondělí 9. 12. vykonávat svou funkci. V brněnské kanceláři se bude nejprve do konce roku seznamovat se všemi oblastmi a agendami, kterým se veřejný ochránce práv věnuje, s metodou práce a vnitřním chodem instituce. V lednu se pak samostatně ujme části působnosti, kterou jí ombudsmanka Anna Šabatová svěří.</p>"

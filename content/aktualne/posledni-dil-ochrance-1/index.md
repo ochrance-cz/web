@@ -1,7 +1,7 @@
 ---
 title: "Poslední díl Ochránce"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/ochrance-iii-2013/posledni-dil-ochrance-1/"
 date: 2013-12-19
 perex: "<p>Šestnáctý, závěrečný díl letošního cyklu Ochránce vysílá ČT2 v neděli 22. prosince ve 13:00 h. Lidé z těchto tří příběhů svou vytrvalostí dokázali uspět proti chybujícím úřadům, ať už ve sporu o výsluhový příspěvek, přístup k informacím o platu státních zaměstnanců a při odnětí invalidního důchodu vážně nemocnému příjemci. Reprízy pořadu jsou na programu ČT2 v neděli a úterý po půlnoci.</p>"

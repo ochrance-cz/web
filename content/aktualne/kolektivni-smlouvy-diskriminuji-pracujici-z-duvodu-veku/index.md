@@ -1,7 +1,7 @@
 ---
 title: "Kolektivní smlouvy diskriminují pracující z důvodu věku"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2018/kolektivni-smlouvy-diskriminuji-pracujici-z-duvodu-veku"
 date: 2018-05-04
 perex: "<p>Ombudsmanka se setkává s případy, kdy kolektivní smlouvy diskriminují pracující z důvodu věku. Obvykle se jedná o situace, kdy je se zaměstnanci zacházeno rozdílně, protože získali nárok na starobní důchod. V této situaci pak přicházejí o benefity, které jsou poskytovány jejich mladším spolupracovníkům. Pokud však takové zacházení nemá věcný důvod spočívající v povaze vykonávané práce, jedná se o přímou diskriminaci z důvodu věku. Lidé se mohou obrátit na soud či inspekci práce.</p>"

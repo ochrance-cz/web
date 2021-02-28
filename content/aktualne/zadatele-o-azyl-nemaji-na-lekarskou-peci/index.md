@@ -1,7 +1,7 @@
 ---
 title: "Žadatelé o azyl nemají na lékařskou péči"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2008/zadatele-o-azyl-nemaji-na-lekarskou-peci"
 date: 2008-05-15
 perex: "<p></p>"

@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Zastavení řízení"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-v/pripad-pro-ombudsmana-zastaveni-rizeni/"
 date: 2009-11-05
 perex: "<p> </p>"

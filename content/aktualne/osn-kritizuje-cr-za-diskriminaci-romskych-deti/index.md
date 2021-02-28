@@ -1,7 +1,7 @@
 ---
 title: "OSN kritizuje ČR za diskriminaci romských dětí"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2012/osn-kritizuje-cr-za-diskriminaci-romskych-deti/"
 date: 2011-06-27
 perex: "<p></p><p>Výbor OSN pro práva dítěte vytknul České republice nečinnost v oblasti ochrany práv dětí. Vyzval mimo jiné k urychlenému přijetí opatření, která by zabránila diskriminaci romských a postižených dětí v oblasti vzdělávání. Tyto děti jsou podle zprávy OSN ve školství segregovány a stát je v oblasti jejich integrace pasivní. <b></b></p>"

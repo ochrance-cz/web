@@ -1,7 +1,7 @@
 ---
 title: "Evropský parlament přijal usnesení o základních právech lidí afrického původu v EU"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2019/evropsky-parlament-prijal-usneseni-o-zakladnich-pravech-lidi-africkeho-puvodu-v-eu/"
 date: 2019-06-17
 perex: "<p>Evropský parlament přijetím rezoluce poprvé oficiálně uznal specifický rasismus a diskriminaci, kterým v EU čelí lidé afrického původu.</p>"

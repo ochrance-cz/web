@@ -1,7 +1,7 @@
 ---
 title: "Čtvrtý díl Ochránce"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2013/ctvrty-dil-ochrance"
 date: 2013-09-26
 perex: "<p>V neděli 29. září můžete na ČT2 od 11:20 h sledovat čtvrtý díl pořadu Ochránce. Ukážeme vám případ snížené podpory v nezaměstnanosti při výpovědi dohodou, příběh otce snažícího se zrušit u sebe místo trvalého bydliště dětem svěřeným do péče matky a případ tak trochu podivných kritérií pojišťovny pro čerpání prostředků z fondu prevence. Repríza je na programu ve středu 2. 10. ve 13:10 a další opakování jsou pak zařazena do vysílání ČT2 v neděli a úterý vždy po půlnoci.</p>"

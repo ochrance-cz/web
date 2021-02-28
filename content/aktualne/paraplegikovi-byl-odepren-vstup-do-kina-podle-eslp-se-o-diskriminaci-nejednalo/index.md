@@ -1,7 +1,7 @@
 ---
 title: "Paraplegikovi byl odepřen vstup do kina, podle ESLP se o diskriminaci nejednalo"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2020/paraplegikovi-byl-odepren-vstup-do-kina-podle-eslp-se-o-diskriminaci-nejednalo/"
 date: 2020-01-31
 perex: "<p>Evropský soud pro lidská práva (ESLP) v tomto případě nepovažoval odmítnutí vstupu za zásadní narušení mužova společenského života či jeho práva vydat se do kina.</p>"

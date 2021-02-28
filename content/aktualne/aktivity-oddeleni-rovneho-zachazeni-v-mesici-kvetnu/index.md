@@ -1,7 +1,7 @@
 ---
 title: "Aktivity oddělení rovného zacházení v měsíci květnu"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2013/aktivity-oddeleni-rovneho-zachazeni-v-mesici-kvetnu/"
 date: 2013-05-14
 perex: "<p>Sociální vyloučení, práva sexuálních menšin, diskuse nad rovnými příležitostmi žen a mužů a výměna poznatků o boji proti diskriminaci se srbským equality body. To jsou aktivity, na nichž se podílí právníci oddělení rovného zacházení Kanceláře veřejného ochránce práv v tomto kalendářním měsíci.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Zřízení sekce pro děti z vyloučené lokality na místní škole byla diskriminace, uznalo město"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2020/zrizeni-sekce-pro-deti-z-vyloucene-lokality-na-mistni-skole-byla-diskriminace-uznalo-mest/"
 date: 2020-06-15
 perex: "<p>Dánský institut pro lidská práva uvedl, že vyčlenění speciální části školy pro tyto děti představuje diskriminaci z důvodu etnického původu.</p>"

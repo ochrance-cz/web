@@ -1,7 +1,7 @@
 ---
 title: "Hledáme odborníky z řad dětských psychologů, psychoterapeutů, etopedů a sociálních pracovníků"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2015/hledame-odborniky-z-rad-detskych-psychologu-psychoterapeutu-etopedu-a-socialnich-pracovn-1/"
 date: 2015-09-22
 perex: "<p>Veřejná ochránkyně práv zve dětské psychology, psychoterapeuty, etopedy a sociální pracovníky ke spolupráci. Hledá odborníky, kteří by měli zájem podílet se na prevenci proti špatnému zacházení s dětmi a nezletilými v zařízeních, v nichž se vykonává ochranná nebo ústavní výchova, zařízeních sociálně-právní ochrany dětí, a dále ve zvláštních dětských zařízeních. Spolupráce se týká konzultací a účasti na provádění systematických návštěv v daných typech zařízení, poradenské, případně školící činnosti. Ochránkyně současně uvítá jakékoliv podněty od veřejnosti, které souvisí s tématem ochrany dětí před špatným zacházením.</p>"

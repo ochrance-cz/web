@@ -1,7 +1,7 @@
 ---
 title: "Ochránkyně uspěla u vlády s péčí o seniory"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2015/ochrankyne-uspela-u-vlady-s-peci-o-seniory"
 date: 2015-10-06
 perex: "<p>Na návrh veřejné ochránkyně práv Anny Šabatové uložila vláda ministryni práce a sociálních věcí, aby podnikla kroky k zajištění dostupnosti sociálních služeb pro seniory a nemocné. Vláda také přijala celkové doporučení ochránkyně na systematické řešení problematiky neregistrovaných zařízení sociálních služeb tak, aby stát garantoval, že senioři nebudou vystavováni špatnému zacházení.</p>"

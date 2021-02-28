@@ -1,7 +1,7 @@
 ---
 title: "Města mají právo odstraňovat vraky ze svých ulic"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2018/mesta-maji-pravo-odstranovat-vraky-ze-svych-ulic"
 date: 2018-11-15
 perex: "<p>Města a obce si neví rady s nepojízdnými vraky na svých ulicích. Některá volají po změně legislativy, která by jim umožnila auta odstraňovat. Nemusí však čekat. Platná právní úprava umožňuje odstraňování nejen vraků, ale také automobilů bez platné technické kontroly. Vlastníky místních komunikací jsou obvykle obce a právě na jejich návrh může silniční správní úřad nařídit provozovateli vozidla odstranění vraku. Pokud tak provozovatel v zákonné lhůtě neučiní, může jej odstranit obec. </p>"

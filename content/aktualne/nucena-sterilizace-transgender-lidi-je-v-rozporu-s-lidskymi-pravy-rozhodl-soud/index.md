@@ -1,7 +1,7 @@
 ---
 title: "Nucená sterilizace transgender lidí je v rozporu s lidskými právy, rozhodl soud"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2017/nucena-sterilizace-transgender-lidi-je-v-rozporu-s-lidskymi-pravy-rozhodl-soud/"
 date: 2017-07-28
 perex: "<p>Evropský soud pro lidská práva rozhodl, že požadavek nucené sterilizace v rámci procesu právního uznání změny pohlaví je v rozporu s lidskými právy.</p>"

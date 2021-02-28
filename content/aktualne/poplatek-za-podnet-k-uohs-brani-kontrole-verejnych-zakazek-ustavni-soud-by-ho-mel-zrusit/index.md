@@ -1,7 +1,7 @@
 ---
 title: "Poplatek za podnět k ÚOHS brání kontrole veřejných zakázek, Ústavní soud by ho měl zrušit"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/poplatek-za-podnet-k-uohs-brani-kontrole-verejnych-zakazek-ustavni-soud-by-ho-mel-zrusit"
 date: 2019-07-11
 perex: "<p>Ombudsmanka se jako vedlejší účastník připojila k řízení u Ústavního soudu a navrhuje zrušit poplatek 10 000 Kč za podání podnětu Úřadu pro ochranu hospodářské soutěže.</p>"

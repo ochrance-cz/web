@@ -1,7 +1,7 @@
 ---
 title: "Ochránkyně míří za lidmi do Plzeňského kraje"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2015/ochrankyne-miri-za-lidmi-do-plzenskeho-kraje-1"
 date: 2015-10-01
 perex: "<p>Ve středu 14. října budou mít lidé v Plzeňském kraji příležitost setkat se s veřejnou ochránkyní práv Annou Šabatovou. Lidé toho mohou využít k získání informací o tom, jak řešit některé životní situace, mohou přímo podat podnět k šetření, dozví se, s čím vším jim může ombudsman pomoci.</p>"

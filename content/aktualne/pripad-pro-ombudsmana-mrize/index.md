@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Mříže"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-v/pripad-pro-ombudsmana-mrize/"
 date: 2009-10-20
 perex: "<p> </p>"

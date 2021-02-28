@@ -1,7 +1,7 @@
 ---
 title: "Zaměstnavatel je povinen zajistit pracovní prostředí, ve kterém nebude docházet  k obtěžování, rozhodl dánský úřad"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2018/zamestnavatel-je-povinen-zajistit-pracovni-prostredi-ve-kterem-nebude-dochazet-k-obtezova/"
 date: 2018-06-20
 perex: "<p>Dánský Úřad pro rovné zacházení se zastal učitelky, která kvůli svému etnickému původu čelila diskriminačnímu jednání a její zaměstnavatel tomu nijak nebránil.</p>"

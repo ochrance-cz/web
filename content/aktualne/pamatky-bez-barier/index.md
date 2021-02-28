@@ -1,7 +1,7 @@
 ---
 title: "Památky bez bariér"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2014/pamatky-bez-barier"
 date: 2014-04-08
 perex: "<p></p>"

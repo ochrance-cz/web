@@ -1,7 +1,7 @@
 ---
 title: "Smrtí účastníka smlouva s operátorem zaniká"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2008/smrti-ucastnika-smlouva-s-operatorem-zanika"
 date: 2008-08-13
 perex: "<p></p>"

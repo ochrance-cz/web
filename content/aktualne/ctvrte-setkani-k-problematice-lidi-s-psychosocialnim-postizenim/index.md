@@ -1,7 +1,7 @@
 ---
 title: "Čtvrté setkání k problematice lidí s psychosociálním postižením"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2020/ctvrte-setkani-k-problematice-lidi-s-psychosocialnim-postizenim/"
 date: 2020-01-13
 perex: "<p>Dne 10.1.2020 proběhlo již čtvrté setkání lidí se zkušeností s psychosociálním postižením, pečujících osob a odborníků v této oblasti. </p>"

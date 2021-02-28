@@ -1,7 +1,7 @@
 ---
 title: "Právo na trvalý pobyt v EU mají i homosexuálové ze třetích zemí, kteří uzavřeli manželství s osobami z EU, rozhodl Soudní dvůr EU."
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2018/pravo-na-trvaly-pobyt-v-eu-maji-i-homosexualove-ze-tretich-zemi-kteri-uzavreli-manzelst/"
 date: 2018-07-23
 perex: "<p>Rozhodnutí Soudního dvora se týká výhradně práva na pobyt v EU, který nesmí omezovat ani unijní státy neuznávající homosexuální sňatky.</p>"

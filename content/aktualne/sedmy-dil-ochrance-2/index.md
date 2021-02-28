@@ -1,7 +1,7 @@
 ---
 title: "Sedmý díl Ochránce"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2016/sedmy-dil-ochrance-2"
 date: 2016-02-19
 perex: "<p>Spor o to, jestli oplocení sadu narušuje krajinný ráz, příhraniční pracovnice, které Česká ani Slovenská republika nechtěly přiznat mateřskou, a snaha občanského sdružení o řádné posouzení záměru stavby obchodního centra – sledujte v neděli 21. 2. sedmý díl pořadu Ochránce na ČT2 v 18:15 h. Reprízy pořadu uvidíte na ČT2 ve čtvrtek v 19:00 h a v pátek ve 14:05 h.</p>"

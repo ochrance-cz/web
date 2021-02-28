@@ -1,7 +1,7 @@
 ---
 title: "K případu zavražděného chlapce"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2008/k-pripadu-zavrazdeneho-chlapce"
 date: 2008-01-28
 perex: "<p></p>"

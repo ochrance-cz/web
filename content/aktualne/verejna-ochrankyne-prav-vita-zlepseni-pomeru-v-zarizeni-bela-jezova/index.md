@@ -1,7 +1,7 @@
 ---
 title: "Veřejná ochránkyně práv vítá zlepšení poměrů v zařízení Bělá-Jezová"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2015/verejna-ochrankyne-prav-vita-zlepseni-pomeru-v-zarizeni-bela-jezova"
 date: 2015-11-05
 perex: "<p>Veřejná ochránkyně práv oceňuje, že se podmínky pro zadržené cizince v zařízení Bělá-Jezová na základě jejích doporučení zlepšily. Dnes zde panují diametrálně odlišné podmínky, než jaké jsme zaznamenali při naší návštěvě v srpnu nebo začátkem října.</p>"

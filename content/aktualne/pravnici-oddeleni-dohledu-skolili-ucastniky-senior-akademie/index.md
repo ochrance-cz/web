@@ -1,7 +1,7 @@
 ---
 title: "Právníci oddělení dohledu školili účastníky Senior Akademie"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2017/pravnici-oddeleni-dohledu-skolili-ucastniky-senior-akademie/"
 date: 2017-11-29
 perex: "<p></p>"

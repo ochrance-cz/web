@@ -12,6 +12,17 @@
 
       {{ .Content }}
     </section>
+    <section class="_news single-col">
+
+
+      {{ with index .Site.Taxonomies.vystupy .Params.slug }}
+        {{ range . }}
+          {{ partial "news-preview.html" . }}
+        {{ end }}
+      {{ end }}
+
+      {{ partial "pagination.html" . }}
+    </section>
   </div>
 </main>
 {{ end }}

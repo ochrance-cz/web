@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Důchod pro Zdenka"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-i/pripad-pro-ombudsmana-duchod-pro-zdenka/"
 date: 2010-02-19
 perex: "<p></p><p>Do kanceláře Veřejného ochránce práv byl doručen podnět paní Věry Rokytenské, matky Zdeňka Rokytenského, který je od dětství mentálně postižený. Paní Rokytenská si stěžovala na to, že jejímu synovi byl přiznán minimální invalidní důchod. Přestože Krajský soud v Hradci Králové rozhodl o tom, že Česká správa sociálního zabezpečení v Praze pochybila při výčtu jeho oprávněných nároků, nebyla rodina schopna několik let úřady přimět k plnění jejich povinností.</p>"

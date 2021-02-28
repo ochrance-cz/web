@@ -1,7 +1,7 @@
 ---
 title: "OSPOD nechal matce se zdravotním postižením přechodně odebrat dítě, místo aby se ji snažil podpořit"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/ospod-nechal-matce-se-zdravotnim-postizenim-prechodne-odebrat-dite-misto-aby-se-ji-snazil"
 date: 2019-09-03
 perex: "<p>Devítiletý chlapec se přestěhoval se svou matkou k babičce z otcovy strany. O několik měsíců později soud dítě svěřil na přechodnou dobu pěstounům a babičce s ním zakázal osobní i písemný styk. Za této situace se babička obrátila na ombudsmanku, protože s tímto postupem nesouhlasila. Jak ukázalo následující šetření, příslušný OSPOD ve své práci skutečně pochybil, nicméně především vůči matce a chlapci a nikoli vůči babičce. </p>"

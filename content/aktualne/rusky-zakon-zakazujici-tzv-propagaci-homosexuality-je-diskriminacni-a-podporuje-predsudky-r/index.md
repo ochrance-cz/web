@@ -1,7 +1,7 @@
 ---
 title: "Ruský zákon zakazující tzv. propagaci homosexuality je diskriminační a podporuje předsudky, rozhodl soud"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2017/rusky-zakon-zakazujici-tzv-propagaci-homosexuality-je-diskriminacni-a-podporuje-predsudky-r/"
 date: 2017-09-04
 perex: "<p>Podle Evropského soudu pro lidská práva je ruský antipropagační zákon diskriminační, porušuje svobodu projevu a podporuje homofobní atmosféru ve společnosti.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Genderová rovnost v EU postupuje pomalým tempem, ukazuje aktuální Gender Equality Index"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2020/genderova-rovnost-v-eu-postupuje-pomalym-tempem-ukazuje-aktualni-gender-equality-index/"
 date: 2021-01-14
 perex: "<p>Podle Evropského institutu pro genderovou rovnost (EIGE) dosáhneme genderové rovnosti za stávajícího tempa až za 60 let.</p>"

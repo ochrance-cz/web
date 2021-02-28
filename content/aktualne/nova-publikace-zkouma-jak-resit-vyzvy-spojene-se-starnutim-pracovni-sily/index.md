@@ -1,7 +1,7 @@
 ---
 title: "Nová publikace zkoumá, jak řešit výzvy spojené se stárnutím pracovní síly"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2017/nova-publikace-zkouma-jak-resit-vyzvy-spojene-se-starnutim-pracovni-sily/"
 date: 2017-09-15
 perex: "<p>Publikace přináší pohled na dopady demografických změn z různých perspektiv a nabízí řešení, jak dosáhnout vhodných pracovních podmínek pro stárnoucí populaci.</p>"

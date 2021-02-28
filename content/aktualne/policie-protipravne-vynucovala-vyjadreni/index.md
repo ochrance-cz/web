@@ -1,7 +1,7 @@
 ---
 title: "Policie protiprávně vynucovala vyjádření"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2015/policie-protipravne-vynucovala-vyjadreni"
 date: 2015-07-22
 perex: "<p>Je nepřípustné, aby policie s použitím donucovacích prostředků nutila občana využít jeho práva. Vyjádřit se k přestupku je právem, nikoli povinností, a pokud policisté v takové situaci použijí výzvu „jménem zákona“ a donucovací prostředky, jde podle veřejné ochránkyně práv o nezákonný postup. </p>"

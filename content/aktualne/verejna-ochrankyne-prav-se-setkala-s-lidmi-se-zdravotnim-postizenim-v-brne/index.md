@@ -1,7 +1,7 @@
 ---
 title: "Veřejná ochránkyně práv se setkala s lidmi se zdravotním postižením v Brně"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2018/verejna-ochrankyne-prav-se-setkala-s-lidmi-se-zdravotnim-postizenim-v-brne/"
 date: 2018-02-16
 perex: "<p></p>"

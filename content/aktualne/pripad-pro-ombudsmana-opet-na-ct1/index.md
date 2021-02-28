@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana opět na ČT1"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-vi/pripad-pro-ombudsmana-opet-na-ct1/"
 date: 2010-09-02
 perex: "<p></p>"

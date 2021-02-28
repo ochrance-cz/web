@@ -1,7 +1,7 @@
 ---
 title: "Činnost oddělení dohledu ve třetím a čtvrtém čtvrtletí 2012"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2013/cinnost-oddeleni-dohledu-ve-tretim-a-ctvrtem-ctvrtleti-2012/"
 date: 2013-02-11
 perex: "<p></p>"

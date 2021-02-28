@@ -1,7 +1,7 @@
 ---
 title: "Stanovení vzniku invalidity – typický problém, kde se ale daří chyby napravovat"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2017/stanoveni-vzniku-invalidity-typicky-problem-kde-se-ale-dari-chyby-napravovat"
 date: 2017-03-29
 perex: "<p>Chybné stanovení data vzniku invalidity ovlivňuje nejen výši invalidního důchodu, ale může být zásadní i pro přiznání invalidního důchodu vůbec. Naštěstí se veřejné ochránkyni práv dlouhodobě daří nedostatky v této oblasti napravovat a zajistit tak lidem, na co mají právo.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Novou veřejnou ochránkyní práv byla dnes zvolena Anna Šabatová"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2014/novou-verejnou-ochrankyni-prav-byla-dnes-zvolena-anna-sabatova"
 date: 2014-02-14
 perex: "<p>Funkce se ujme složením slibu do rukou předsedy Poslanecké sněmovny Jana Hamáčka, k čemuž by mělo dojít v úterý 18. února.</p>"

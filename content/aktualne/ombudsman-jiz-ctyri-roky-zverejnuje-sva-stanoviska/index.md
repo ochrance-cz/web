@@ -1,7 +1,7 @@
 ---
 title: "Ombudsman již čtyři roky zveřejňuje svá stanoviska"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/ombudsman-jiz-ctyri-roky-zverejnuje-sva-stanoviska"
 date: 2019-03-19
 perex: "<p>Před čtyřmi lety ombudsman spustil elektronickou evidenci, ve které si nejširší veřejnost může vyhledat stanoviska k jednotlivým případům, výzkumné zprávy, zprávy z navštívených zařízení nebo připomínky k zákonům. Zatímco některé soudy navzdory své povinnosti vyplývající z instrukce Ministerstva spravedlnosti dodnes nezveřejňují téměř žádné rozsudky, ombudsman jde příkladem a k dnešnímu dni zpřístupnil 3000 svých zpráv a zjištění. </p>"

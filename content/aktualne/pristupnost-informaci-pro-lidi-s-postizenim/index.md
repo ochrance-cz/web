@@ -1,7 +1,7 @@
 ---
 title: "Přístupnost informací pro lidi s postižením"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2019/pristupnost-informaci-pro-lidi-s-postizenim/"
 date: 2019-04-08
 perex: "<p></p>"

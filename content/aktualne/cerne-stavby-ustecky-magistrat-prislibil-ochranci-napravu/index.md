@@ -1,7 +1,7 @@
 ---
 title: "Černé stavby: Ústecký magistrát přislíbil ochránci nápravu"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2010/cerne-stavby-ustecky-magistrat-prislibil-ochranci-napravu"
 date: 2010-04-27
 perex: "<p></p><p>V souvislosti s šetřením ve věci nepovolených staveb P. Oulického v obci Řehlovice v CHKO České středohoří informoval Magistrát Ústí nad Labem ochránce, že již vydal příslušné pokyny stavebnímu odboru, aby postupoval tak, jak uvádí zpráva veřejného ochránce práv. </p>"

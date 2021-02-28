@@ -1,7 +1,7 @@
 ---
 title: "Proč společnost ženy trestá?"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2019/proc-spolecnost-zeny-tresta/"
 date: 2019-07-01
 perex: "<p>Ve všech zemích světa dostávají ženy za stejnou práci méně peněz než muži. Nicméně rozdíly mezi jednotlivými zeměmi jsou obrovské. Na jedné straně stojí Lucembursko, kde mají ženy v průměru o 5 % nižší mzdy – a na straně druhé je bohužel Česká republika, kde je rozdíl 22 %, tedy skoro čtvrtina platu. Od nižší mzdy se odvíjí i nižší nemocenská a ve stáří pak nižší důchod.  </p>"

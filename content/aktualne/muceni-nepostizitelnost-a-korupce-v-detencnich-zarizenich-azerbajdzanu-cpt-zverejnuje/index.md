@@ -1,7 +1,7 @@
 ---
 title: "Mučení, nepostižitelnost a korupce v detenčních zařízeních Ázerbajdžánu: CPT zveřejňuje zprávy z návštěv"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2018/muceni-nepostizitelnost-a-korupce-v-detencnich-zarizenich-azerbajdzanu-cpt-zverejnuje/"
 date: 2018-08-01
 perex: "<p>Ke zveřejnění dochází na žádost ázerbajdžánské vlády, která celkem šest zpráv ponechávala v neveřejném režimu. S ohledem na to, že vláda dosud selhává v implementaci doporučení, která jí výbor navrhl k prevenci mučení a špatného zacházení, je tento krok prvním významným posunem směrem k naplňování závazků státu plynoucích z Evropské úmluvy o zabránění mučení a nelidskému či ponižujícímu zacházení nebo trestání.</p>"

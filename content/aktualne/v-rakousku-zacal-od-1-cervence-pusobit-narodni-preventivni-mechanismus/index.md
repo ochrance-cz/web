@@ -1,7 +1,7 @@
 ---
 title: "V Rakousku začal od 1. července působit Národní preventivní mechanismus"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2012/v-rakousku-zacal-od-1-cervence-pusobit-narodni-preventivni-mechanismus/"
 date: 2012-07-31
 perex: "<p></p>"

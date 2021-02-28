@@ -1,7 +1,7 @@
 ---
 title: "Na nákladnou bezlepkovou dietu stát nemocným nepřispívá"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2008/na-nakladnou-bezlepkovou-dietu-stat-nemocnym-neprispiva"
 date: 2008-08-13
 perex: "<p></p>"

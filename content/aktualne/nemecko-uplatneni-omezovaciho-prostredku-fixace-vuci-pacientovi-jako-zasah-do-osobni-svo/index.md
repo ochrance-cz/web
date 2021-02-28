@@ -1,7 +1,7 @@
 ---
 title: "Německo: Uplatnění omezovacího prostředku (fixace) vůči pacientovi jako zásah do osobní svobody vyžadující soudní přezkum"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2018/nemecko-uplatneni-omezovaciho-prostredku-fixace-vuci-pacientovi-jako-zasah-do-osobni-svo/"
 date: 2018-08-23
 perex: "<p>Zaujalo nás nedávného rozhodnutí spolkového ústavního soudu, ze dne 24. června 2018, zn. 2 BVR 309/15, 2 BvR 502/16.</p>"

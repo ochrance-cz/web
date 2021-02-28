@@ -1,7 +1,7 @@
 ---
 title: "Zpráva CPT z návštěvy České republiky"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2015/zprava-cpt-z-navstevy-ceske-republiky/"
 date: 2015-08-27
 perex: "<p>Evropský výbor pro zabránění mučení a nelidskému či ponižujícímu zacházení nebo trestání (CPT) vydal v březnu 2015 zprávu z návštěvy České republiky, která proběhla ve dnech 1. – 10. dubna 2014</p>"

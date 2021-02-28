@@ -1,7 +1,7 @@
 ---
 title: "Jak na technoparties"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2014/jak-na-technoparties"
 date: 2014-07-30
 perex: "<p>Jak se dají řešit problémy s obtěžováním hlukem z veřejných hudebních produkcí. Které úřady či orgány mají v této věci kompetence a jak účinné.</p>"

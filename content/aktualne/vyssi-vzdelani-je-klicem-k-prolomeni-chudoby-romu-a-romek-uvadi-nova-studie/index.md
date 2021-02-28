@@ -1,7 +1,7 @@
 ---
 title: "Vyšší vzdělání je klíčem k prolomení chudoby Romů a Romek, uvádí nová studie"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2018/vyssi-vzdelani-je-klicem-k-prolomeni-chudoby-romu-a-romek-uvadi-nova-studie/"
 date: 2018-10-18
 perex: "<p>Nová studie agentury pro lidská práva Evropské unie (FRA) zkoumá faktory znesnadňující mladým lidem romského původu získat vzdělání a stálé zaměstnání.</p>"

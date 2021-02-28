@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Doklady pro děti narozené v cizině"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-iii/pripad-pro-ombudsmana-doklady-pro-deti-narozene-v-cizine/"
 date: 2008-06-10
 perex: "<p></p>"

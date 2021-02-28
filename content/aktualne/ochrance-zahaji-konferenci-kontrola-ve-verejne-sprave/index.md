@@ -1,7 +1,7 @@
 ---
 title: "Ochránce zahájí konferenci Kontrola ve veřejné správě"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2010/ochrance-zahaji-konferenci-kontrola-ve-verejne-sprave"
 date: 2010-09-21
 perex: "<p></p><p>Veřejný ochránce práv Pavel Varvařovský zahájí ve čtvrtek 23. 9. dvoudenní konferenci Kontrola ve veřejné správě, která se koná v Kanceláři veřejného ochránce práv v Brně. </p>"

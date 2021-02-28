@@ -1,7 +1,7 @@
 ---
 title: "Divadelní představení ke Světovému dni Downova syndromu"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2018/divadelni-predstaveni-ke-svetovemu-dni-downova-syndromu/"
 date: 2018-03-28
 perex: "<p>U příležitosti Světového dne Downova syndromu, který připadá na 21. března, proběhlo včera 26. března v Kanceláři veřejného ochránce práv divadelní představení „Kdopak by se DS bál“? Představení zahráli herci a herečky s Downovým syndromem i bez něj z divadla Aldente, a to pro zaměstnance kanceláře a také pro veřejnost.</p>"

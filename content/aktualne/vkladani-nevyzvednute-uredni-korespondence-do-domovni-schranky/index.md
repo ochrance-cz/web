@@ -1,7 +1,7 @@
 ---
 title: "Vkládání nevyzvednuté úřední korespondence do domovní schránky"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2017/vkladani-nevyzvednute-uredni-korespondence-do-domovni-schranky"
 date: 2017-03-23
 perex: "<p>Vkládání úředních písemností, které si adresát po výzvě pošty nevyzvedl, do schránek je standardem. Odchýlit se od něho lze jen tehdy, když vložení do schránky není možné, nebo to úřad odůvodněně vyloučil.</p>"

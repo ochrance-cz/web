@@ -1,7 +1,7 @@
 ---
 title: "Soudní dvůr EU rozhodl, že zákaz náboženských symbolů v zaměstnání není diskriminace"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2017/soudni-dvur-eu-rozhodl-ze-zakaz-nabozenskych-symbolu-v-zamestnani-neni-diskriminace/"
 date: 2017-07-27
 perex: "<p>Vnitropodnikový zákaz nošení muslimských šátků či jiných viditelných náboženských symbolů na pracovišti nepředstavuje podle Soudního dvora EU přímou diskriminaci.</p>"

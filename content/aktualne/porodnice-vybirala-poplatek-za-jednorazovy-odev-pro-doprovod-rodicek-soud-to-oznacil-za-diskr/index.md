@@ -1,7 +1,7 @@
 ---
 title: "Porodnice vybírala poplatek za jednorázový oděv pro doprovod rodiček, soud to označil za diskriminační"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2019/porodnice-vybirala-poplatek-za-jednorazovy-odev-pro-doprovod-rodicek-soud-to-oznacil-za-diskr/"
 date: 2019-07-16
 perex: "<p>Maďarský odvolací soud potvrdil původní rozsudek, podle kterého měl výběr poplatku negativní dopad především na ekonomicky znevýhodněné ženy romského původu.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Nový průzkum zjišťuje zkušenosti s diskriminací a předsudky ve Velké Británii"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2019/novy-pruzkum-zjistuje-zkusenosti-s-diskriminaci-a-predsudky-ve-velke-britanii/"
 date: 2019-01-28
 perex: "<p>Britská Komise pro rovnost a lidská práva (Equality and Human Rights Commission) provedla poprvé po deseti letech celonárodní průzkum na téma diskriminace a předsudky ve společnosti.</p>"

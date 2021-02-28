@@ -1,7 +1,7 @@
 ---
 title: "Úmrtí Václava Havla"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2011/umrti-vaclava-havla"
 date: 2011-12-19
 perex: "<p></p><p>Reakce veřejného ochránce práv Pavla Varvařovského a zástupkyně veřejného ochránce práv Jitky Seitlové na úmrtí bývalého prezidenta Václava Havla. </p>"

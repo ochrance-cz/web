@@ -1,7 +1,7 @@
 ---
 title: "Setkání v regionech – kdy a kde"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2018/setkani-v-regionech-kdy-a-kde/"
 date: 2018-02-08
 perex: "<p>Ombudsmanka organizuje sérii pracovních setkání v regionech k problematice monitorování práv lidí se zdravotním postižením. Se všemi zainteresovanými bude diskutovat o oblastech a tématech, na které by se měla zaměřit. Účastníci setkání také mohou nominovat budoucí členy Poradního orgánu ombudsmanky.</p>"

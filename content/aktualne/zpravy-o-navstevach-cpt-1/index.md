@@ -1,7 +1,7 @@
 ---
 title: "Zprávy o návštěvách CPT"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2013/zpravy-o-navstevach-cpt-1/"
 date: 2013-02-15
 perex: "<p>V průběhu roku 2012 vydal Výbor Rady Evropy pro prevenci mučení (CPT) zprávy z návštěv Belgie (věznice), Bulharska (věznice) a Ukrajiny (policejní cely). Zejména na Ukrajině zaznamenal případy, kdy špatné zacházení bylo možné považovat za mučení.</p>"

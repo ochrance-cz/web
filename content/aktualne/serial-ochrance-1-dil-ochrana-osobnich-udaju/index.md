@@ -1,7 +1,7 @@
 ---
 title: "Seriál Ochránce – 1. díl &ndash; Ochrana osobních údajů"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/ochrance-ii-2012/serial-ochrance-1-dil-ochrana-osobnich-udaju/"
 date: 2012-09-06
 perex: "<p>V neděli 9. 9. v 11:20h vysílá ČT2 první díl nové řady pořadu Ochránce o problémech, do kterých se lidé dostávají ve vztahu k úřadům. Reprízu dílu uvidíte na ČT2 v úterý 11. 9. v 9:00h.</p>"

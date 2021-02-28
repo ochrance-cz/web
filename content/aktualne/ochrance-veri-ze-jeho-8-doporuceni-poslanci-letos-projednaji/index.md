@@ -1,7 +1,7 @@
 ---
 title: "Ochránce věří, že jeho 8 doporučení poslanci letos projednají"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2011/ochrance-veri-ze-jeho-8-doporuceni-poslanci-letos-projednaji"
 date: 2011-04-07
 perex: "<p></p>"

@@ -1,7 +1,7 @@
 ---
 title: "Rekonstrukce energetické sítě může být novou stavbou, nikoli jen úpravou"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2011/rekonstrukce-energeticke-site-muze-byt-novou-stavbou-nikoli-jen-upravou"
 date: 2011-07-19
 perex: "<p>Sankce vůči Městskému úřadu v Hořovicích a Krajskému úřadu Středočeského kraje:</p><p>Výměnu původní stavby za novou nelze považovat za pouhou stavební úpravu. Jestliže v rámci rekonstrukce sítě elektrického vedení dojde k úplné výměně původních stožárů za nové, konstrukčně odlišné, navíc v jiném osazení, nemůže se jednat o pouhou úpravu. Městskému úřadu v Hořovicích však k závěru, že nejde o novou stavbu, stačilo, že nedošlo ke změně trasy vedení.</p>"

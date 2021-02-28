@@ -1,7 +1,7 @@
 ---
 title: "Školení pracovníků léčeben dlouhodobě nemocných"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2019/skoleni-pracovniku-leceben-dlouhodobe-nemocnych/"
 date: 2019-06-10
 perex: "<p></p>"

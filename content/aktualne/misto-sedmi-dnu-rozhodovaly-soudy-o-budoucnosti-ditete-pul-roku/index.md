@@ -1,7 +1,7 @@
 ---
 title: "Místo sedmi dnů rozhodovaly soudy o budoucnosti dítěte půl roku"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/misto-sedmi-dnu-rozhodovaly-soudy-o-budoucnosti-ditete-pul-roku"
 date: 2019-05-16
 perex: "<p>Otec se obrátil na okresní soud, aby mu předběžným opatřením svěřil do péče nezletilého syna. V takovém případě má soud rozhodnout bezodkladně, nejpozději do sedmi dnů. Otec však na vydání rozhodnutí čekal půl roku. Místo aby soud rozhodl, začaly si dva okresní soudy případ navzájem předávat, protože se nemohly shodnout na místní příslušnosti. Takový postup je v případě, kdy se rozhoduje o životě dítěte, nepřípustný. Okresní soud výhrady ombudsmana akceptoval a přijal opatření, aby se takový postup již neopakoval. </p>"

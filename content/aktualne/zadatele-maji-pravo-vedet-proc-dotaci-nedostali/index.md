@@ -1,7 +1,7 @@
 ---
 title: "Žadatelé mají právo vědět, proč dotaci nedostali"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2015/zadatele-maji-pravo-vedet-proc-dotaci-nedostali"
 date: 2015-11-25
 perex: "<p>Jestliže je žádost o dotaci zamítnuta, musí se tak stát v souladu se správním řádem. Poskytovatel o tom musí vydat rozhodnutí s řádným odůvodněním a s poučením žadatele, jak se může bránit. Tento postup vyplývá podle veřejné ochránkyně práv z judikatury správních soudů, přesto není v praxi dodržován.</p>"

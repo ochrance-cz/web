@@ -1,7 +1,7 @@
 ---
 title: "Festival Prague Pride připomíná: mezi LGBT+ lidmi jsou i senioři a seniorky"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2019/festival-prague-pride-pripomina-mezi-lgbt-lidmi-jsou-i-seniori-a-seniorky/"
 date: 2019-08-05
 perex: "<p>Od pondělí 5. srpna do neděle 11. srpna se v Praze koná již tradiční festival Prague Pride, který představí přes stovku kulturních i společenských akcí, veřejných diskusí a debat, sportovních událostí i duchovních setkání. Všechny tyto akce spojuje téma LGBT+, postavení a práv sexuálních menšin a queer kultury. Letošní festival si připomene především počátky aktivismu LGBT+ komunity a důležité téma vztahů mezi jednotlivými generacemi. </p>"

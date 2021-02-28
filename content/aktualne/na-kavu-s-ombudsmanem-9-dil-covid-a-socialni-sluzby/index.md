@@ -1,7 +1,7 @@
 ---
 title: "Na kávu s ombudsmanem, 9 díl: COVID a sociální služby"
-tags:
-  - Podcast
+vystupy:
+  - podcast
 oldUrl: "/aktualne/tiskove-zpravy-2021/na-kavu-s-ombudsmanem-9-dil-covid-a-socialni-sluzby"
 date: 2021-02-05
 perex: "V dnešním podcastu se budeme věnovat sociálním službám. Dozvíte se, jaký dopad měla pandemie onemocnění COVID-19 na život klientů v domovech pro seniory a dalších zařízeních, jaká opatření klienty nejvíce zasáhla a proč."

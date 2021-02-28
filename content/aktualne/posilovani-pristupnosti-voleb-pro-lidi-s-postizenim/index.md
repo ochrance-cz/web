@@ -1,7 +1,7 @@
 ---
 title: "Posilování přístupnosti voleb pro lidi s postižením"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2021/posilovani-pristupnosti-voleb-pro-lidi-s-postizenim"
 date: 2021-02-12
 perex: "<p>Zástupkyně ombudsmana Monika Šimůnková jednala ve středu 10. února se zástupci Ministerstva vnitra ohledně přístupnosti voleb pro lidi s postižením. Tématem byla přístupnost volebních místností, informování o konání voleb přístupnou formou, vzdělávání volebních komisí nebo otázka omezení svéprávnosti v oblasti volebního práva. Ministerstvo přislíbilo v jednotlivých oblastech zlepšení. Již v minulosti se nám společně podařilo zajistit například informace o volbách ve znakovém jazyce.  </p>"

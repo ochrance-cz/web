@@ -1,7 +1,7 @@
 ---
 title: "Etika v péči o osoby trpící syndromem demence"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2016/etika-v-peci-o-osoby-trpici-syndromem-demence/"
 date: 2016-07-25
 perex: "<p></p>"

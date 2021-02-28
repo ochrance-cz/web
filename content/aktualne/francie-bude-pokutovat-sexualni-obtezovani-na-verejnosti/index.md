@@ -1,7 +1,7 @@
 ---
 title: "Francie bude pokutovat sexuální obtěžování na veřejnosti"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2018/francie-bude-pokutovat-sexualni-obtezovani-na-verejnosti/"
 date: 2018-09-21
 perex: "<p>Za obtěžující chování sexuální povahy včetně urážlivých slovních projevů může být udělena pokuta až do výše 750 eur.</p>"

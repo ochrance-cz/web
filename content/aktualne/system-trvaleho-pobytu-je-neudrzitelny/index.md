@@ -1,7 +1,7 @@
 ---
 title: "Systém trvalého pobytu je neudržitelný"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2008/system-trvaleho-pobytu-je-neudrzitelny"
 date: 2008-04-17
 perex: "<p></p>"

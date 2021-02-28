@@ -1,7 +1,7 @@
 ---
 title: "Zprávy z návštěv zařízení jsou veřejné!"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2018/zpravy-z-navstev-zarizeni-jsou-verejne/"
 date: 2018-05-10
 perex: "<p></p>"

@@ -1,7 +1,7 @@
 ---
 title: "Tragický případ chovatele lvů ukazuje, jak stát selhává"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/tragicky-pripad-chovatele-lvu-ukazuje-jak-stat-selhava"
 date: 2019-03-05
 perex: "<p></p>"

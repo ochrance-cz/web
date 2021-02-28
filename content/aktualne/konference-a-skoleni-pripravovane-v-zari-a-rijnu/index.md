@@ -1,7 +1,7 @@
 ---
 title: "Konference a školení připravované v září a říjnu"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2012/konference-a-skoleni-pripravovane-v-zari-a-rijnu/"
 date: 2012-09-07
 perex: "<p>Školení, konference a workshopy, kterých se účastní právničky a právníci Oddělení rovného zacházení. </p>"

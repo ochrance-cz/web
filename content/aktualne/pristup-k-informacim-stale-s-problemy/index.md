@@ -1,7 +1,7 @@
 ---
 title: "Přístup k informacím stále s problémy"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2009/pristup-k-informacim-stale-s-problemy"
 date: 2009-05-06
 perex: "<p></p><p>Přístup občanů k informacím z činnosti úřadů není ještě stále dostatečný. Lidé se na ochránce obracejí v mnoha případech, kdy jim úřady mnohdy bezdůvodně odmítají informace poskytnout, nebo žádost o informaci chybně vyhodnotí. Občané se dostávají do situací, kdy právě kvůli neposkytnutým informacím nemají v řízení rovnocenné postavení a úřady jim tímto způsobem upírají jedno ze základních práv – právo na spravedlivý proces.</p>"

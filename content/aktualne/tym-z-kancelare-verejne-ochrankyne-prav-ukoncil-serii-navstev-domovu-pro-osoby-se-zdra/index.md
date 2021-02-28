@@ -1,7 +1,7 @@
 ---
 title: "Tým z Kanceláře veřejné ochránkyně práv ukončil sérii návštěv domovů pro osoby se zdravotním postižením po celé České republice"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2019/tym-z-kancelare-verejne-ochrankyne-prav-ukoncil-serii-navstev-domovu-pro-osoby-se-zdra/"
 date: 2019-11-19
 perex: "<p></p>"

@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Odběry vzorků DNA"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-iii/pripad-pro-ombudsmana-odbery-vzorku-dna/"
 date: 2008-05-06
 perex: "<p></p>"

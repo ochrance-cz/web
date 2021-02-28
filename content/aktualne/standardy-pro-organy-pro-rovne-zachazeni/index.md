@@ -1,7 +1,7 @@
 ---
 title: "Standardy pro orgány pro rovné zacházení"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2017/standardy-pro-organy-pro-rovne-zachazeni/"
 date: 2017-04-06
 perex: "<p>Evropská síť orgánů pro rovné zacházení (Equinet) vydala pracovní dokument „Vytváření standardů pro orgány pro rovné zacházení“. </p>"

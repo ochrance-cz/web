@@ -1,7 +1,7 @@
 ---
 title: "Na etické veganství se vztahuje ochrana před diskriminací, rozhodl soud"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2020/na-eticke-veganstvi-se-vztahuje-ochrana-pred-diskriminaci-rozhodl-soud/"
 date: 2020-03-06
 perex: "<p>Britský soud uvedl, že etické veganství je filozofickým přesvědčením, a proto je před diskriminací chráněno zákonem. </p>"

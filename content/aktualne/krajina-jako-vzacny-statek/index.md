@@ -1,7 +1,7 @@
 ---
 title: "Krajina jako vzácný statek"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2006/krajina-jako-vzacny-statek"
 date: 2006-10-10
 perex: "<p></p>"

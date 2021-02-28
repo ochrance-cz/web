@@ -1,7 +1,7 @@
 ---
 title: "Na kávu s ombudsmanem, 5. díl: Péče o dítě nebo o osobu závislou na péči"
-tags:
-  - Podcast
+vystupy:
+  - podcast
 oldUrl: "/aktualne/tiskove-zpravy-2021/na-kavu-s-ombudsmanem-5-dil-pece-o-dite-nebo-o-osobu-zavislou-na-peci"
 date: 2021-01-08
 perex: "<p>Ode dneška pokračují páteční podcasty Na kávu s ombudsmanem. Každý pátek v poledne se můžete těšit na povídání o dalších zajímavých tématech, jimž se ombudsman věnuje, dostane se i na rady, jak řešit některé životní situace a problémy.</p>"

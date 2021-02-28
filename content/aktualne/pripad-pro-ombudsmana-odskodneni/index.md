@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Odškodnění"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-iii/pripad-pro-ombudsmana-odskodneni/"
 date: 2008-07-08
 perex: "<p></p>"

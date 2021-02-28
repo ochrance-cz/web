@@ -1,7 +1,7 @@
 ---
 title: "Ombudsmanka vydala sborník stanovisek týkajících se občanství Evropské unie"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2017/ombudsmanka-vydala-sbornik-stanovisek-tykajicich-se-obcanstvi-evropske-unie"
 date: 2017-11-30
 perex: "<p>Ombudsmanka vydala sborník stanovisek na téma občanství Evropské unie. Sborník je prezentací činnosti veřejného ochránce práv s přesahem do evropského práva napříč všemi agendami, kterými se zabývá. Pomáhat občanům Evropské unie, kteří využili práva na volný pohyb po Evropské unii, může ombudsmanka v řadě otázek už nyní. Od 1. ledna 2018 se tyto možnosti rozšíří díky novele antidiskriminačního zákona. Ombudsmanka získá navíc možnost věnovat se systematicky problémům, kterým tito lidé čelí. Podobně pomáhají úřady v jednotlivých zemích Evropské unie českým pracovníkům, kteří čelí diskriminaci na pracovním trhu. </p>"

@@ -1,7 +1,7 @@
 ---
 title: "Francie schválila zákon odstraňující nucené sterilizace transgender lidí"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2016/francie-schvalila-zakon-odstranujici-nucene-sterilizace-transgender-lidi/"
 date: 2016-11-14
 perex: "<p>Francouzský parlament v říjnu schválil novelizaci zákona, která transgender lidem dává právo změnit si oficiálně pohlaví bez podstoupení nucené sterilizace. Rovněž nebudou muset předkládat žádná potvrzení o tom, zda podstupují hormonální léčbu či chirurgický zákrok. Uvedené změny se týkají jak dospělých, tak nezletilých trans lidí. </p>"

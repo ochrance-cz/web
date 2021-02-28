@@ -1,7 +1,7 @@
 ---
 title: "Výbor CPT ve veřejném prohlášení kritizuje špatnou situaci v belgických věznicích"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2017/vybor-cpt-ve-verejnem-prohlaseni-kritizuje-spatnou-situaci-v-belgickych-veznicich/"
 date: 2017-07-14
 perex: "<p>Evropský výbor pro zabránění mučení (CPT) učinil 13. 7. 2017 veřejné prohlášení vůči Belgii o selhání tamních úřadů zajistit minimální úroveň služby, která by garantovala práva vězňů v průběhu stávky vězeňského personálu.</p>"

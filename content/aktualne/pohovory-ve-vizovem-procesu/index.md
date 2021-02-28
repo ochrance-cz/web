@@ -1,7 +1,7 @@
 ---
 title: "Pohovory ve vízovém procesu"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2008/pohovory-ve-vizovem-procesu"
 date: 2008-09-01
 perex: "<p></p>"

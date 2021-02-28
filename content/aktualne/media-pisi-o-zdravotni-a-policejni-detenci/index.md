@@ -1,7 +1,7 @@
 ---
 title: "Média píší o zdravotní a policejní detenci"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2014/media-pisi-o-zdravotni-a-policejni-detenci/"
 date: 2014-08-21
 perex: "<p>Na základě informací zveřejněných ve Zprávě veřejné ochránkyně práv za druhé čtvrtletí roku 2014 přináší média informace o poznatcích ochránkyně z prošetřování stížností na podmínky pobytu na záchytné stanici a v policejní cele.</p>"

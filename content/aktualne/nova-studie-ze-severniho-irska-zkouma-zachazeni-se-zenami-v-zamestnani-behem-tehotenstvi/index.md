@@ -1,7 +1,7 @@
 ---
 title: "Nová studie ze Severního Irska zkoumá zacházení se ženami v zaměstnání během těhotenství a mateřské dovolené"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2016/nova-studie-ze-severniho-irska-zkouma-zachazeni-se-zenami-v-zamestnani-behem-tehotenstvi/"
 date: 2016-12-12
 perex: "<p>Severoirská Equality Commission (Komise pro rovné zacházení, dále jen „Komise“) vydala zprávu Expecting Equality: a Formal Investigation under the Sex Discrimination (Northern Ireland) Order 1976 pojednávající o zacházení s těhotnými ženami a matkami na pracovišti. Zpráva vychází z šetření Komise, která zjišťovala zkušenosti žen v zaměstnání v souvislosti s těhotenstvím, mateřskou dovolenou a následným návratem zpět do práce. Část výzkumu se také zaměřila na firmy, které se podělily o svoje zkušenosti z pohledu zaměstnavatelů.</p>"

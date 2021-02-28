@@ -1,7 +1,7 @@
 ---
 title: "Ombudsmanka: úřady spolu musí komunikovat. Nemohou občany zatěžovat zbytečnou administrativou"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2017/ombudsmanka-urady-spolu-musi-komunikovat-nemohou-obcany-zatezovat-zbytecnou-administrativou"
 date: 2017-10-20
 perex: "<p>Asi všichni chceme, aby zde úřady byly pro občany a nikoli občané pro úřady. Občas je tomu nutné pomoci. Obrátila se na nás stěžovatelka, která zastupovala svou klientku v řízení o příspěvku na péči. Měla pro to její plnou moc. Plná moc byla založena ve spisu příslušného Úřadu práce. Při následném jednání s Okresní správou sociálního zabezpečení (OSSZ) však bylo po stěžovatelce požadováno doložení další plné moci. Jenomže úřady jsou povinny spolu komunikovat a občany nezatěžovat zbytečnou administrativou. Podařilo se nám zajistit, aby tomu tak v budoucnu skutečně bylo. </p>"

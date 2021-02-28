@@ -1,7 +1,7 @@
 ---
 title: "Orgány sociálně-právní ochrany dětí se učí v zájmu nezletilých urychlit soudní řízení"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2017/organy-socialne-pravni-ochrany-deti-se-uci-v-zajmu-nezletilych-urychlit-soudni-rizeni"
 date: 2017-04-12
 perex: "<p>V minulém roce jsme vyřešili případ, ve kterém trvalo neúměrně dlouho, než soud rozhodl, do jakého typu péče svěří nezletilé dítě. Pět měsíců se čekalo na vyhotovení potřebných znaleckých posudků. Upozornili jsme OSPOD, že může v podobných situacích podat stížnost směřující proti průtahům způsobených soudními znalci. OSPOD se naším doporučením začal řídit a v dalším podobném typu řízení se mu podařilo soudní jednání zkrátit. Ostatní orgány sociálně-právní ochrany dětí by tuto praxi měly následovat. Nelze se spokojit s tím, že budou děti žít v nekončící nejistotě, jak bude jejich budoucí život vypadat. </p>"

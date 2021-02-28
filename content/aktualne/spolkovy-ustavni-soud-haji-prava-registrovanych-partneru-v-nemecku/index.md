@@ -1,7 +1,7 @@
 ---
 title: "Spolkový ústavní soud hájí práva registrovaných partnerů v Německu"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2013/spolkovy-ustavni-soud-haji-prava-registrovanych-partneru-v-nemecku/"
 date: 2013-09-17
 perex: "<p>Vyloučení registrovaných partnerů z možnosti využít institutu společného zdanění je podle německého Spolkového ústavního soudu protiústavní, proto mají mít registrovaní partneři v Německu nadále možnost využít společného zdanění stejně jako manželé.</p>"

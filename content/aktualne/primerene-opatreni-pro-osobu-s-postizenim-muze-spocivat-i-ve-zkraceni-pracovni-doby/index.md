@@ -1,7 +1,7 @@
 ---
 title: "Přiměřené opatření pro osobu s postižením může spočívat i ve zkrácení pracovní doby, říká Soudní dvůr Evropské unie"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2013/primerene-opatreni-pro-osobu-s-postizenim-muze-spocivat-i-ve-zkraceni-pracovni-doby/"
 date: 2013-06-06
 perex: "<p>Dne 11. dubna 2013 druhý senát Soudního dvora Evropské unie rozhodl o předběžné otázce ve spojených věcech C-335/11 a C-337/11, a upřesnil pojem „zdravotní postižení“ tak, jak je používán směrnicí Rady 2000/78/ES. Uvedl, že léčitelná či neléčitelná nemoc způsobující fyzické, duševní nebo psychické omezení může být postavena na roveň zdravotnímu postižení. Zaměstnavateli pak vůči osobám s postižením vzniká povinnost přijímat přiměření opatření. Ta mohou spočívat i v úpravě pracovní doby.</p>"

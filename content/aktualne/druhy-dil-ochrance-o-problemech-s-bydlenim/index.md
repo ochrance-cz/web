@@ -1,7 +1,7 @@
 ---
 title: "Druhý díl Ochránce o problémech s bydlením"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2016/druhy-dil-ochrance-o-problemech-s-bydlenim"
 date: 2016-01-13
 perex: "<p>Co dělat, když vám bydlení znepříjemňuje hluk od sousedů, prach z betonárny anebo na bydlení nemáte dost peněz? Sledujte v neděli 17. 1. od 18:15 h na ČT 2 druhý díl pořadu Ochránce. Reprízy bude ČT2 vysílat následující čtvrtek a pátek v 19:15, resp. ve 14:00 h.</p>"

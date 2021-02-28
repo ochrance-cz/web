@@ -1,7 +1,7 @@
 ---
 title: "V katastru nemovitostí zůstávají zápisy už zaniklých práv"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/v-katastru-nemovitosti-zustavaji-zapisy-uz-zaniklych-prav"
 date: 2020-07-28
 perex: "<p>Stávající právní úprava neumožňuje domoci se výmazu již neplatného předkupního práva jinak než vkladem a uhrazením správního poplatku 2000 Kč. Podle ombudsmana může být pro řadu lidí poplatek překážkou k odstranění záznamu, který jejich vlastnictví v zásadě neomezuje. Katastr nemovitostí se ale „zapleveluje“ neplatnými zápisy. Ombudsman by podpořil případnou novelu katastrálního zákona, která by problém odstranila.</p>"

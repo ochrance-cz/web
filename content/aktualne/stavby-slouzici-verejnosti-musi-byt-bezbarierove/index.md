@@ -1,7 +1,7 @@
 ---
 title: "Stavby sloužící veřejnosti musí být bezbariérové"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2016/stavby-slouzici-verejnosti-musi-byt-bezbarierove"
 date: 2016-02-11
 perex: "<p>Nově budované či přestavované objekty sloužící veřejnosti, tedy např. vzdělávací zařízení, sportovní haly, správní a administrativní objekty, nákupní a obchodních centra, kulturní centra, domy s pečovatelskou službou apod. musí být bezbariérové. </p>"

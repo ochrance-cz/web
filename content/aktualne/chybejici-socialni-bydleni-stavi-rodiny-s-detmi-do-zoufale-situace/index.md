@@ -1,7 +1,7 @@
 ---
 title: "Chybějící sociální bydlení staví rodiny s dětmi do zoufalé situace"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/chybejici-socialni-bydleni-stavi-rodiny-s-detmi-do-zoufale-situace"
 date: 2019-05-02
 perex: "<p>Děti se nesmí odebírat z rodin kvůli nedostatečným bytovým poměrům. Říká to občanský zákoník i soudy, včetně těch nejvyšších. Přesto však k takovým případům stále dochází. Stát totiž rezignoval na zodpovědnou bytovou politiku. Kvůli chybějícímu sociálnímu bydlení mnoha rodinám hrozí, že s dětmi skončí na ulici.</p>"

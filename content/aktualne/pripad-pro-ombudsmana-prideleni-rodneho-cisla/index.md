@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Přidělení rodného čísla"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-iv/pripad-pro-ombudsmana-prideleni-rodneho-cisla/"
 date: 2008-10-15
 perex: "<p></p>"

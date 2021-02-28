@@ -1,7 +1,7 @@
 ---
 title: "Rasová diskriminace na pracovním trhu v EU stále přetrvává, ukazuje nová studie"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2018/rasova-diskriminace-na-pracovnim-trhu-v-eu-stale-pretrvava-ukazuje-nova-studie/"
 date: 2018-04-23
 perex: "<p>Studie upozorňuje, že navzdory antidiskriminačním zákonům se nedaří s rasovou diskriminací účinně bojovat.</p>"

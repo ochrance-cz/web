@@ -1,7 +1,7 @@
 ---
 title: "Přijetí švédské velvyslankyně"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2014/prijeti-svedske-velvyslankyne"
 date: 2014-04-04
 perex: "<p>Veřejná ochránkyně práv dnes přijala švédskou velvyslankyni na krátké pracovní setkání. Diskutovaly o práci ombudsmana, lidských právech, plánech ochránkyně v oblasti diskriminace apod.</p>"

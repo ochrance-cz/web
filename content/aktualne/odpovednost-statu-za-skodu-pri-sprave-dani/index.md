@@ -1,7 +1,7 @@
 ---
 title: "Odpovědnost státu za škodu při správě daní"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/odpovednost-statu-za-skodu-pri-sprave-dani"
 date: 2019-04-01
 perex: "<p>Ve čtvrtek 28. března proběhl specializovaný seminář pořádaný veřejnou ochránkyní práv Annou Šabatovou ve spolupráci s Komorou daňových poradců ČR na téma náhrady škody v daňové oblasti, moderovaný Filipem Melzerem. Semináře se zúčastnili také soudci nejvyšších soudů, advokáti, zástupci Ministerstva spravedlnosti, Ministerstva financí a Generálního finančního ředitelství.</p>"

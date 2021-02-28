@@ -1,7 +1,7 @@
 ---
 title: "Právnička může nosit šátek na hlavě i v soudní síni"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2014/pravnicka-muze-nosit-satek-na-hlave-i-v-soudni-sini/"
 date: 2014-10-22
 perex: "<p>Turecký ústavní soud dospěl k závěru, že rozhodnutí nižšího soudu, které zakázalo právničce s šátkem na hlavě reprezentovat klientku, bylo projevem diskriminace.</p>"

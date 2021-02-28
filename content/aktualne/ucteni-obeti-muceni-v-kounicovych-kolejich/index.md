@@ -1,7 +1,7 @@
 ---
 title: "Uctění obětí mučení v Kounicových kolejích"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2018/ucteni-obeti-muceni-v-kounicovych-kolejich/"
 date: 2018-06-27
 perex: "<p></p>"

@@ -1,7 +1,7 @@
 ---
 title: "Slovenský soud rozhodl, že žena byla diskriminována v přístupu k zaměstnání kvůli etnické příslušnosti"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2018/slovensky-soud-rozhodl-ze-zena-byla-diskriminovana-v-pristupu-k-zamestnani-kvuli-etnicke/"
 date: 2018-04-17
 perex: "<p>Slovenský soud rozhodl, že město Spišská Nová Ves diskriminovalo ženu při výběrovém řízení na místo sociální pracovnice. Město se musí ženě omluvit a finančně ji odškodnit.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Systém výběru soudců by měl zohledňovat potřeby soudnictví"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2018/system-vyberu-soudcu-by-mel-zohlednovat-potreby-soudnictvi"
 date: 2018-10-12
 perex: "<p>Ombudsmanka se dnes účastní 28. shromáždění delegátů Soudcovské unie ČR. Se soudci chce při této příležitosti hovořit především o aktuálních tématech justice, s nimiž se v rámci své činnosti setkává. Upozornit chce především na dlouhodobě přetrvávající nedostatky ve zveřejňování soudních rozhodnutí v databázi Ministerstva spravedlnosti.</p>"

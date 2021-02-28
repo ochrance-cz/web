@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Bloková pokuta"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-iv/pripad-pro-ombudsmana-blokova-pokuta/"
 date: 2008-09-09
 perex: "<p></p>"

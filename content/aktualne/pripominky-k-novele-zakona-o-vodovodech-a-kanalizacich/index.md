@@ -1,7 +1,7 @@
 ---
 title: "Připomínky k novele zákona o vodovodech a kanalizacích"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2013/pripominky-k-novele-zakona-o-vodovodech-a-kanalizacich"
 date: 2013-04-08
 perex: "<p></p>"

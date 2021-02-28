@@ -1,7 +1,7 @@
 ---
 title: "Bulharské equality body má povahu soudního orgánu, říká generální advokátka Soudního dvora EU"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2012/bulharske-equality-body-ma-povahu-soudniho-organu-rika-generalni-advokatka-soudniho-dvor/"
 date: 2012-10-24
 perex: "<p>Bulharská Komise pro ochranu před diskriminací se obrátila na Soudní dvůr Evropské unie o rozhodnutí o předběžné otázce v případě nepřímé diskriminace z důvodu etnicity.</p>"

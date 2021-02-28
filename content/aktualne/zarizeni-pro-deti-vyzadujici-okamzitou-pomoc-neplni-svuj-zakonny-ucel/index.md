@@ -1,7 +1,7 @@
 ---
 title: "Zařízení pro děti vyžadující okamžitou pomoc neplní svůj zákonný účel"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/zarizeni-pro-deti-vyzadujici-okamzitou-pomoc-neplni-svuj-zakonny-ucel"
 date: 2019-06-12
 perex: "<p>V roce 2016 zahájila ombudsmanka návštěvy v zařízeních pro děti vyžadující okamžitou pomoc. Jedním z cílů bylo zjistit, jak vypadá krizová pomoc dětem a jejich rodinám. V čem pomoc spočívá a jak je úspěšná. Tato zařízení vznikla v roce 1999 a měla sloužit jako krizová zařízení pro děti, které se ocitly bez jakékoliv péče nebo byly jinak vážně ohroženy. Těm měla zařízení poskytnout péči po dobu nezbytnou, než se najde jiné a dlouhodobé řešení. Jak se však ukázalo po návštěvě jedenácti zařízení v průběhu tří let, současná praxe se od původního záměru značně posunula. V současnosti je v České republice provozováno celkem 60 zařízení pro děti vyžadující okamžitou pomoc.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Kam kráčíš, equality body?"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2019/kam-kracis-equality-body/"
 date: 2019-06-13
 perex: "<p>Dnes budeme on line přenášet odborný seminář, který má shrnout 10 let působení ombudsmana v roli orgánu pro rovné zacházení (angl. equality body). Zde naleznete nejdůležitější podklady.</p>"

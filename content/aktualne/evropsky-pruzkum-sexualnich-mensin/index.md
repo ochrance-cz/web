@@ -1,7 +1,7 @@
 ---
 title: "Evropský průzkum sexuálních menšin"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2012/evropsky-pruzkum-sexualnich-mensin/"
 date: 2012-05-15
 perex: "<p>Agentura Evropské unie pro základní práva (FRA) spustila v celé Evropské Unii průzkum LGBT menšin.</p>"

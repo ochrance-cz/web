@@ -1,7 +1,7 @@
 ---
 title: "Případ vyhořelého domu na Přízové stále neuzavřen"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2007/pripad-vyhoreleho-domu-na-prizove-stale-neuzavren"
 date: 2007-07-11
 perex: "<p></p>"

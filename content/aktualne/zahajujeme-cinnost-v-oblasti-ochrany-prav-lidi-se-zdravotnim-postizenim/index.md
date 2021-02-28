@@ -1,7 +1,7 @@
 ---
 title: "Zahajujeme činnost v oblasti ochrany práv lidí se zdravotním postižením"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2018/zahajujeme-cinnost-v-oblasti-ochrany-prav-lidi-se-zdravotnim-postizenim/"
 date: 2018-01-02
 perex: "<p></p>"

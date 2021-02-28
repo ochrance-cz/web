@@ -1,7 +1,7 @@
 ---
 title: "Chceme zlepšit nerovné postavení žen na trhu práce"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2016/chceme-zlepsit-nerovne-postaveni-zen-na-trhu-prace"
 date: 2016-07-08
 perex: "<p>Ženy mají v České republice v průměru o 22 % nižší platy než muži. Tento fakt je dlouhodobě znám a je také dlouhodobě přehlížen. Nejen z tohoto důvodu se Kancelář veřejné ochránkyně práv zapojila – spolu s Genderovým informačním centrem NORA – do projektu „Pozor na rozdíly v odměňování žen a mužů!“ Hlavním cílem projektu bylo zvýšení povědomí veřejnosti o problematice nerovného odměňování. Smyslem projektu bylo také hledání cest, jak nerovnému odměňování předcházet. Projekt začal v roce 2015 a byl ukončen v červnu 2016.</p>"

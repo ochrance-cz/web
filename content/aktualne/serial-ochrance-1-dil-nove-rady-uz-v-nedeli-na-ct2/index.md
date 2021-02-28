@@ -1,7 +1,7 @@
 ---
 title: "Seriál Ochránce – 1. díl nové řady už v neděli na ČT2"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2012/serial-ochrance-1-dil-nove-rady-uz-v-nedeli-na-ct2"
 date: 2012-09-06
 perex: "<p>V neděli 9. 9. v 11:20h vysílá ČT2 první díl nové řady pořadu Ochránce o problémech, do kterých se lidé dostávají ve vztahu k úřadům. Reprízu dílu uvidíte na ČT2 v úterý 11. 9. v 9:00h.</p>"

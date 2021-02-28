@@ -1,7 +1,7 @@
 ---
 title: "Na informace o zdravotní péči dětí mají nárok oba rodiče"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2007/na-informace-o-zdravotni-peci-deti-maji-narok-oba-rodice"
 date: 2007-12-05
 perex: "<p><h2 class=\"Nadpis1\">Na informace o zdravotní péči dětí mají nárok oba rodiče</h2> <p class=\"Normln-web\">Do oblasti zdravotnictví patří také stížnosti na zdravotní pojišťovny, které odmítly vyhovět žádosti o poskytnutí přehledu zdravotní péče vykázané na dítě rodiči, kterému po rozvodu nebylo dítě svěřeno do péče, pokud nebyl soudem omezen nebo zbaven rodičovské zodpovědnosti.</p>"

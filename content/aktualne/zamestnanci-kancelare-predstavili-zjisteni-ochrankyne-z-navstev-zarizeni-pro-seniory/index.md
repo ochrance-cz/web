@@ -1,7 +1,7 @@
 ---
 title: "Zaměstnanci Kanceláře představili zjištění ochránkyně z návštěv zařízení pro seniory odborné veřejnosti v Praze a Bratislavě"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2014/zamestnanci-kancelare-predstavili-zjisteni-ochrankyne-z-navstev-zarizeni-pro-seniory/"
 date: 2014-10-03
 perex: "<p>Zaměstnanci oddělení dohledu nad omezováním osobní svobody seznámili odbornou veřejnost s poznatky a doporučeními ochránkyně z návštěv pobytových zařízení sociálních služeb pro osoby trpící syndromem demence. </p>"

@@ -1,7 +1,7 @@
 ---
 title: "Vyhlášení soutěže – Úřad na cestě k rovnosti"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/vyhlaseni-souteze-urad-na-ceste-k-rovnosti-1"
 date: 2020-06-22
 perex: "<p>Minulý týden byl vyhlášen 14. ročník soutěže „Úřad na cestě k rovnosti“. Soutěž pořádá Ministerstvo vnitra a Institut pro veřejnou správu Praha společně s Úřadem vlády ČR a je určena pro obecní úřady. Tématem letošního ročníku je bezpečnost ve veřejném prostoru z hlediska rovnosti žen a mužů.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Odklonění tranzitní kamionové dopravy ze silnic nižších tříd"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2014/odkloneni-tranzitni-kamionove-dopravy-ze-silnic-nizsich-trid"
 date: 2014-08-11
 perex: "<p>Zástupce ochránkyně se zastal stěžovatelů žijících v blízkosti silnic II. třídy, na které byla svedena tranzitní kamionová doprava. Ta přitom patří zejména na dálnice a silnice I. třídy. O dvou takových případech informovala ochránkyně Poslaneckou sněmovnu v rámci své zprávy za 2. čtvrtletí.</p>"

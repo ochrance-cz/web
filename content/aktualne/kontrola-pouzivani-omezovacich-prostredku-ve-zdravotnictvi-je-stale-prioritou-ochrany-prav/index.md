@@ -1,7 +1,7 @@
 ---
 title: "Kontrola používání omezovacích prostředků ve zdravotnictví je stále prioritou ochrany práv pacientů v České republice"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2014/kontrola-pouzivani-omezovacich-prostredku-ve-zdravotnictvi-je-stale-prioritou-ochrany-prav"
 date: 2014-08-12
 perex: "<p>Omezovací prostředky lze použít pouze v krajním případě (nelze-li situaci řešit jinak – lépe). Zjištění ochránkyně svědčí o „preventivním“ nadužívání omezovacích prostředků mimo jiné z důvodu nedostatku personálu jednotlivých zařízení. Ochránkyně upozorňuje také na nedostatečnou kontrolu používání omezovacích prostředků a na neexistenci následného hodnocení, které by umožnilo nalézt systémové řešení aktuálního nepřijatelného stavu.</p>"

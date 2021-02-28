@@ -1,7 +1,7 @@
 ---
 title: "Stanovisko BUSINESSEUROPE k problematice nerovného odměňování mužů a žen"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2015/stanovisko-businesseurope-k-problematice-nerovneho-odmenovani-muzu-a-zen/"
 date: 2015-08-10
 perex: "<p>Organizace BUSINESSEUROPE, sdružující 41 podnikatelských a zaměstnavatelských svazů z 35 zemí Evropy, vydala dne 23. června 2015 stanovisko k otázce nerovného odměňování mužů a žen. V něm kriticky nahlíží především na doporučení Evropské komise o posílení zásady rovného odměňování mužů a žen prostřednictvím transparentnosti.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Opatrnost a zodpovědnost mohou snížit riziko zneužívání dětí"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2009/opatrnost-a-zodpovednost-mohou-snizit-riziko-zneuzivani-deti"
 date: 2009-10-09
 perex: "<p></p><p>Dětské domovy nemohou přihlašovat děti do soutěží, kde výhrou je pobyt u jiné fyzické osoby, tzv. hostitelský pobyt. S takovým pobytem musí předem písemně souhlasit orgán sociálně-právní ochrany dětí. V současné atmosféře medializovaných případů zneužívání dětí či dětské pornografie nabádá ochránce k opatrnosti, zvláště v případech, kdy organizátoři takové soutěže požadují osobní údaje o dětech včetně fotografie.</p>"

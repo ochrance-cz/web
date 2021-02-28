@@ -1,7 +1,7 @@
 ---
 title: "Rozdílné zacházení v oblasti zaměstnání s osobou mladší 18 let není v rozporu s právními předpisy EU"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2014/rozdilne-zachazeni-v-oblasti-zamestnani-s-osobou-mladsi-18-let-neni-v-rozporu-s-pravnimi/"
 date: 2014-02-10
 perex: "<p>Ke konci roku 2013 dánský Nejvyšší soud rozhodl, že ustanovení v zákoně, které povoluje zvláštní režim pro osoby mladší osmnácti let upravený kolektivní smlouvou pro oblast zaměstnávání, odměňování a propuštění, není v rozporu s právem EU, jelikož je odůvodněn potřebou integrace těchto osob na trh práce.</p>"

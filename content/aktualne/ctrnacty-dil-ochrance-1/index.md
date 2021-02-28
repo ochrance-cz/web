@@ -1,7 +1,7 @@
 ---
 title: "Čtrnáctý díl Ochránce"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/ochrance-iii-2013/ctrnacty-dil-ochrance-1/"
 date: 2013-12-05
 perex: "<p>V neděli 8. prosince v 11:55 h začíná na ČT2 čtrnáctý díl pořadu Ochránce. Všechny tři do vysílání zařazené příběhy spojuje hlavně nezodpovědnost úředníků, kteří si možná nedostatečně uvědomují svou poměrně velkou moc a komplikují tak životy obyčejných lidí více, než tuší. Stavební povolení v záplavovém území, navyšování penále za promlčené dluhy a omezování správy vlastního majetku – to jsou Ochráncem řešené případy, které budou moci diváci v rámci 14. dílu seriálu zhlédnout i ve středeční repríze na ČT2 v 12:55 hod, další reprízy jsou poté zařazeny do vysílání ČT2 v neděli 8. 12. a v úterý 10. 12. vždy po půlnoci.</p>"

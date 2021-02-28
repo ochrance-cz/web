@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Rušení nočního klidu"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-iii/pripad-pro-ombudsmana-ruseni-nocniho-klidu/"
 date: 2008-06-05
 perex: "<p></p>"

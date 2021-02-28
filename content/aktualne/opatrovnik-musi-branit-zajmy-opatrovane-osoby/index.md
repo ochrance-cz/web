@@ -1,7 +1,7 @@
 ---
 title: "Opatrovník musí bránit zájmy opatrované osoby"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2018/opatrovnik-musi-branit-zajmy-opatrovane-osoby"
 date: 2018-04-27
 perex: "<p>Ombudsmanka šetřila případ ženy, která byla omezena na svéprávnosti. Její zájmy měl hájit opatrovník stanovený soudem. Žena vlastnila na půl rodinný dům spolu se svým bratrancem. Ten celou nemovitost pronajímal, aniž by to se ženou a opatrovníkem konzultoval. Opatrovník v této záležitosti účinně nehájil zájmy opatrované a nebyl pro ni schopný vymoci adekvátní podíl na pronájmu. </p>"

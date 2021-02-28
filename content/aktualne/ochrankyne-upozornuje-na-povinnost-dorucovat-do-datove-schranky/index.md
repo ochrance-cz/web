@@ -1,7 +1,7 @@
 ---
 title: "Ochránkyně upozorňuje na povinnost doručovat do datové schránky"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2015/ochrankyne-upozornuje-na-povinnost-dorucovat-do-datove-schranky"
 date: 2015-08-03
 perex: "<p>Úřady mají již 6 let povinnost doručovat dokumenty přednostně prostřednictvím datové schránky těm fyzickým osobám, které ji mají. Tuto svoji zákonem stanovenou povinnost však poměrně často porušují. </p>"

@@ -1,7 +1,7 @@
 ---
 title: "Francie oznámila Národní akční plán boje proti rasismu a antisemitismu"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2015/francie-oznamila-narodni-akcni-plan-boje-proti-rasismu-a-antisemitismu/"
 date: 2015-07-28
 perex: "<p>Dne 19. dubna 2015, zhruba tři měsíce po teroristických útocích v Paříži, při nichž přišlo o život celkem 17 lidí (včetně pracovníků redakce satirického časopisu Charlie Hedbo) oznámil premiér Manuel Valls Národní akční plán boje proti rasismu a antisemitismu.</p>"

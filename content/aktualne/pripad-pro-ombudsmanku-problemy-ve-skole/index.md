@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmanku: Problémy ve škole"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/pripad-pro-ombudsmanku-problemy-ve-skole"
 date: 2019-05-10
 perex: "<p>V neděli 12. 5. vysílá ČT2 další díl pořadu Případ pro ombudsmanku, tentokrát zaměřený na problémy ve škole či se školou.</p>"

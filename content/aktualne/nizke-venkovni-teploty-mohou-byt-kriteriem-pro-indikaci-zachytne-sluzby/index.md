@@ -1,7 +1,7 @@
 ---
 title: "Nízké venkovní teploty mohou být kritériem pro indikaci záchytné služby"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2014/nizke-venkovni-teploty-mohou-byt-kriteriem-pro-indikaci-zachytne-sluzby/"
 date: 2014-12-15
 perex: "<p>Při zkoumání, zda byly naplněny zákonné podmínky pro umístění osoby na stanici, je nutné zvažovat všechny okolnosti přijetí, včetně rizika plynoucího z nízkých venkovních teplot.</p>"

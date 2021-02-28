@@ -1,7 +1,7 @@
 ---
 title: "Homofobní výroky mohou představovat diskriminaci v oblasti zaměstnání, rozhodl Soudní dvůr EU"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2020/homofobni-vyroky-mohou-predstavovat-diskriminaci-v-oblasti-zamestnani-rozhodl-soudni-dvur-e/"
 date: 2020-06-30
 perex: "<p>Podle Soudního dvora EU mohou být takové výroky v oblasti zaměstnání diskriminační, pokud pochází od osoby s vlivem na náborovou politiku.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Seriál ČT „Ochránce“ – 8. Díl: Problémy cizinců"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/ochrance-i-2011/serial-ct-ochrance-8-dil-problemy-cizincu/"
 date: 2011-10-21
 perex: "<p></p><p>8. díl seriálu vysílaný na ČT2 v úterý 25. 10. v 17:20 hod a v repríze ve středu 26. 10. v 9:35 se bude věnovat problémů cizinců, pro něž se Česká republika stala novým domovem. Pracují zde, platí daně, vychovávají své děti a mnohdy musí těžce bojovat s úřady. </p>"

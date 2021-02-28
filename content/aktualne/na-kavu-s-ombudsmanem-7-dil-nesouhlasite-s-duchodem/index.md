@@ -1,7 +1,7 @@
 ---
 title: "Na kávu s ombudsmanem, 7 díl: Nesouhlasíte s důchodem"
-tags:
-  - Podcast
+vystupy:
+  - podcast
 oldUrl: "/aktualne/tiskove-zpravy-2021/na-kavu-s-ombudsmanem-7-dil-nesouhlasite-s-duchodem"
 date: 2021-01-22
 perex: "<p>V dnešním podcastu Na kávu s ombudsmanem se naposledy zaměříme na důchody. V předchozích dílech jsme mluvili o tom, jak se na důchod připravit, jak se započítává různá doba pojištění apod. Dnes se zaměříme na moment, kdy už dostanete rozhodnutí o přiznání důchodu, ale nesouhlasíte s vyměřeným důchodem a nevíte, jak se bránit.</p>"

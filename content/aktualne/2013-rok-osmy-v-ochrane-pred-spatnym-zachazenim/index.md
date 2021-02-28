@@ -1,7 +1,7 @@
 ---
 title: "2013: rok osmý v ochraně před špatným zacházením"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2014/2013-rok-osmy-v-ochrane-pred-spatnym-zachazenim/"
 date: 2014-01-28
 perex: "<p>Již osm let vykonává veřejný ochránce práv také působnost národního preventivního mechanismu České republiky a věnuje se ochraně osob omezených na svobodě před všemi formami špatného zacházení. Podrobné informace o jeho činnosti v roce osmém budou jako součást Souhrnné zprávy o činnosti veřejného ochránce práv za rok 2013 předloženy Poslanecké sněmovně v březnu. Nyní tedy jen stručně:</p>"

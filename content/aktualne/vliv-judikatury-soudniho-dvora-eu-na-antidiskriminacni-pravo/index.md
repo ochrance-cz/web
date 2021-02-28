@@ -1,7 +1,7 @@
 ---
 title: "Vliv judikatury Soudního dvora EU na antidiskriminační právo"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2014/vliv-judikatury-soudniho-dvora-eu-na-antidiskriminacni-pravo"
 date: 2014-11-28
 perex: "<p></p>"

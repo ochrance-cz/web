@@ -1,7 +1,7 @@
 ---
 title: "Zveme na konferenci o nerovném odměňování"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2016/zveme-na-konferenci-o-nerovnem-odmenovani"
 date: 2016-01-18
 perex: "<p>Spolu s organizací GIC NORA, o. p. s. pořádáme mezinárodní konferenci k tématu nerovného odměňování žen a mužů. Konference se uskuteční v pátek 22. ledna 2016 v Kanceláři veřejného ochránce práv v Brně. </p>"

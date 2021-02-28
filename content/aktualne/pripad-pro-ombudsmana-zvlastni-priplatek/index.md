@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Zvláštní příplatek"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-iv/pripad-pro-ombudsmana-zvlastni-priplatek/"
 date: 2008-10-08
 perex: "<p></p>"

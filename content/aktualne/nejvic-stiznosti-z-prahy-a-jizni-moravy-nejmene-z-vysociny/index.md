@@ -1,7 +1,7 @@
 ---
 title: "Nejvíc stížností z Prahy a jižní Moravy, nejméně z Vysočiny"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2016/nejvic-stiznosti-z-prahy-a-jizni-moravy-nejmene-z-vysociny"
 date: 2016-04-12
 perex: "<p>V průběhu roku 2015 se ochránkyně zabývala podněty a stížnostmi lidí ze všech krajů České republiky. Nejvíce jich bylo z Jihomoravského kraje (1324 stížností) a z Prahy (942 stížností). Hned za nimi následuje Moravskoslezský kraj (676 stížností) a Středočeský kraj (579 stížností).</p>"

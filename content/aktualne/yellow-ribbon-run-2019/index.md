@@ -1,7 +1,7 @@
 ---
 title: "Yellow Ribbon Run 2019"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2019/yellow-ribbon-run-2019/"
 date: 2019-06-27
 perex: "<p></p>"

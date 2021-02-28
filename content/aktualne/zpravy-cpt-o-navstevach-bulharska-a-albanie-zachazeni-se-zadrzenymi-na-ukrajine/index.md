@@ -1,7 +1,7 @@
 ---
 title: "Zprávy CPT o návštěvách Bulharska a Albánie, zacházení se zadrženými na Ukrajině"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2012/zpravy-cpt-o-navstevach-bulharska-a-albanie-zachazeni-se-zadrzenymi-na-ukrajine/"
 date: 2012-06-18
 perex: "<p></p>"

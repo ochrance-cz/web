@@ -1,7 +1,7 @@
 ---
 title: "Maďarská policie selhala při ochraně Romů před rasistickými demonstranty, rozhodl soud"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2017/madarska-policie-selhala-pri-ochrane-romu-pred-rasistickymi-demonstranty-rozhodl-soud/"
 date: 2017-05-23
 perex: "<p>Podle Evropského soudu pro lidská práva nedokázala maďarská policie během protiromské demonstrace adekvátním způsobem zabránit rasistickým projevům a následně nedostatečně vyšetřovala násilný incident, ke kterému na demonstraci došlo.</p>"

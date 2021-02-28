@@ -1,7 +1,7 @@
 ---
 title: "Opakující se problém: zdravotní pojištění v jiné evropské zemi"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/opakujici-se-problem-zdravotni-pojisteni-v-jine-evropske-zemi"
 date: 2020-11-26
 perex: "<p>Opakovaně šetříme problémy lidí, kteří mají v rámci Evropské unie zdravotní pojištění v jedné zemi, ale bydlí v zemi jiné a tam také čerpají zdravotní péči. Ve většině případů vše funguje bez problémů a zdravotní pojišťovny si na základě formulářů mezi sebou platby přeúčtují. Co si ale počít v situaci, kdy to tak lehce nefunguje? </p>"

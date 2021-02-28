@@ -1,7 +1,7 @@
 ---
 title: "Účastnili jsme se Pražských gerontologických dnů"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2018/ucastnili-jsme-se-prazskych-gerontologickych-dnu/"
 date: 2018-10-01
 perex: "<p></p>"

@@ -1,7 +1,7 @@
 ---
 title: "Dohled nad omezováním osobní svobody ve 4. čtvrtletí 2016"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2017/dohled-nad-omezovanim-osobni-svobody-ve-4-ctvrtleti-2016/"
 date: 2017-02-03
 perex: "<p>V rámci prevence špatného zacházení a dohledu nad omezováním osobní svobody provedli pověření zaměstnanci Kanceláře veřejného ochránce práv ve čtvrtém čtvrtletí roku 2016 celkem 5 systematických návštěv zařízení.</p>"

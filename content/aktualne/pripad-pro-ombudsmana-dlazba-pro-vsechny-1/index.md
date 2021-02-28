@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Dlažba pro všechny"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-vi/pripad-pro-ombudsmana-dlazba-pro-vsechny-1/"
 date: 2010-11-25
 perex: "<p></p><p>V pátek 26. 11. vysílá Česká televize na ČT1 v 18:25 třináctý díl cyklu Případ pro ombudsmana (repríze v pondělí 29. 11. ve 12:25 na ČT2). Díl nazvaný Dlažba pro všechny se týká veřejných staveb, jejichž výstavba či rekonstrukce je povolována bez toho, aby splňovaly podmínky pro přístupnost osobám se zdravotním postižením. </p>"

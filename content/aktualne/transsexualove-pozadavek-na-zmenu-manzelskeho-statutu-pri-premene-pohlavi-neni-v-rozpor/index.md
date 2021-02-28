@@ -1,7 +1,7 @@
 ---
 title: "Transsexuálové: Požadavek na změnu manželského statutu při přeměně pohlaví není v rozporu s lidskými právy"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2014/transsexualove-pozadavek-na-zmenu-manzelskeho-statutu-pri-premene-pohlavi-neni-v-rozpor/"
 date: 2014-09-26
 perex: "<p>Evropský soud pro lidská práva v případu Hämäläinen v. Finland rozhodl, že státy nemohou být nuceny k tomu, aby vyhověly požadavku na změnu rodného čísla a tím fakticky připustily existenci manželství mezi osobami stejného pohlaví, byť se jedná o případ, kdy se jeden z manželů rozhodne pro změnu pohlaví.  </p>"

@@ -1,8 +1,9 @@
 ---
 title: Materiály pro vládu
+slug: pro-vladu
 illustration: vyjadreni-vlada.jpg
 perex: |
-  Ombudsman se může obracet na vládu. Činí tak ve třech případech: 
+  Ombudsman se může obracet na vládu. Činí tak ve třech případech:
 
   1. Informuje vládu o tom, že některé ministerstvo nepřijalo po šetření ombudsmana dostatečná opatření k nápravě konkrétního pochybení.
 

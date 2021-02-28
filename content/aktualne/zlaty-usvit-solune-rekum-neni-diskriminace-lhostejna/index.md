@@ -1,7 +1,7 @@
 ---
 title: "Zlatý úsvit Soluně? Řekům není diskriminace lhostejná"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2013/zlaty-usvit-solune-rekum-neni-diskriminace-lhostejna/"
 date: 2013-08-20
 perex: "<p>Příznivec řecké nacionalistické strany Zlatý úsvit a řidič autobusu v jedné osobě, vykázal z vozu dvě osoby afrického původu. Jeho jednání se ale setkalo s odporem.</p>"

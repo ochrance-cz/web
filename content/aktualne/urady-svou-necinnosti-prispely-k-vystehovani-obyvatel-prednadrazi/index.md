@@ -1,7 +1,7 @@
 ---
 title: "Úřady svou nečinností přispěly k vystěhování obyvatel Přednádraží"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2013/urady-svou-necinnosti-prispely-k-vystehovani-obyvatel-prednadrazi"
 date: 2013-08-30
 perex: "<p>Jestliže vlastník dlouhodobě nerespektuje svou povinnost udržovat objekty v dobrém stavebně-technickém stavu a stavby začnou ohrožovat veřejné zájmy, tj. zdraví a životy osob, je povinností úřadů zakročit. Za stav objektů v lokalitě Přednádraží tedy nese zásadní měrou odpovědnost jejich vlastník, případně jeho předchůdci (mezi nimiž byl i stát), avšak nelze přitom pominout ani roli správních orgánů, zejména stavebního a vodoprávního úřadu, které nečinily vůči vlastníkům žádná efektivní opatření k vynucení nezbytných stavebních úprav a navzájem nespolupracovaly.</p>"

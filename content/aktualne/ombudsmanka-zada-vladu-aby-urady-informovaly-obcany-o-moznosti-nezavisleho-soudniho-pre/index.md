@@ -1,7 +1,7 @@
 ---
 title: "Ombudsmanka žádá vládu, aby úřady informovaly občany o možnosti nezávislého soudního přezkoumání úředních rozhodnutí"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2018/ombudsmanka-zada-vladu-aby-urady-informovaly-obcany-o-moznosti-nezavisleho-soudniho-pre"
 date: 2018-12-17
 perex: "<p>Každý má ústavně garantované právo, aby jeho záležitost byla projednána nezávislým a nestranným soudem. U správních orgánů se předpokládá nestrannost, ale nikoli jejich nezávislost. Tu může garantovat pouze soud. Ombudsmanka proto doporučila vládě, aby zakotvila povinnost správních orgánů poučit účastníka řízení o právu podat proti správnímu rozhodnutí žalobu k soudu.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Role lidských práv ve veřejné správě: Zaostřeno na práva lidí s postižením"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2020/role-lidskych-prav-ve-verejne-sprave-zaostreno-na-prava-lidi-s-postizenim/"
 date: 2020-10-22
 perex: "<p></p>"

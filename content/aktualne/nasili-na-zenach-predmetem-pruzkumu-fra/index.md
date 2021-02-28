@@ -1,7 +1,7 @@
 ---
 title: "Násilí na ženách předmětem průzkumu FRA"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2014/nasili-na-zenach-predmetem-pruzkumu-fra/"
 date: 2014-03-11
 perex: "<p>Agentura základních práv Evropské unie (FRA) provedla na základě žádosti Evropského parlamentu a Rady EU v průběhu roku 2012 dosud nejrozsáhlejší průzkum týkající se násilí na ženách žijících v EU. </p>"

@@ -1,7 +1,7 @@
 ---
 title: "K výsledkům kontroly NKÚ"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2006/k-vysledkum-kontroly-nku"
 date: 2006-12-06
 perex: "<p></p>"

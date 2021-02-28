@@ -1,7 +1,7 @@
 ---
 title: "Měsíc bláznovství"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2018/mesic-blaznovstvi/"
 date: 2018-05-11
 perex: "<p></p>"

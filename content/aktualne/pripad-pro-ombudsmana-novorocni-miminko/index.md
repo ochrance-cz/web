@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Novoroční miminko"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-i/pripad-pro-ombudsmana-novorocni-miminko/"
 date: 2010-02-19
 perex: "<p></p><p>Zástupkyni veřejného ochránce práv Annu Šabatovou zaujal titulek v tisku &ndash; &quot;Novoroční miminko skončilo i s dárky v ústavu&quot; Na základě ověřených informací se rozhodla šetřit z vlastní iniciativy, což zákon umožňuje, proti magistrátu města Karviné ve věci Návrhu předběžného opatření, kterým se nezletilá Evička svěřuje do kojeneckého ústavu. Nyní je malá Evička doma.</p>"

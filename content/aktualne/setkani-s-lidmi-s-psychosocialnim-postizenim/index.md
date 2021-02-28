@@ -1,7 +1,7 @@
 ---
 title: "Setkání s lidmi s psychosociálním postižením"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2019/setkani-s-lidmi-s-psychosocialnim-postizenim/"
 date: 2019-04-01
 perex: "<p></p>"

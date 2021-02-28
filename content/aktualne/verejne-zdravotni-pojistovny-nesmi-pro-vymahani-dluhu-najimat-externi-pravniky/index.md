@@ -1,7 +1,7 @@
 ---
 title: "Veřejné zdravotní pojišťovny nesmí pro vymáhání dluhů najímat externí právníky"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2016/verejne-zdravotni-pojistovny-nesmi-pro-vymahani-dluhu-najimat-externi-pravniky"
 date: 2016-08-29
 perex: "<p>Pokud má někdo dluh na zdravotním pojištění, jsou zdravotní pojišťovny oprávněny a také povinny tyto dluhy vymáhat. K rutinnímu úkonu však nesmí najímat externí advokáty a neúměrně tak navyšovat náklady na vymáhání dluhu. Tyto další náklady zbytečně dopadají na bedra dlužníků. Pojišťovna má povinnost tyto rutinní úkony vykonávat sama.</p>"

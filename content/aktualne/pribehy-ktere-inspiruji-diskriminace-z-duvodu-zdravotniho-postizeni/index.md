@@ -1,7 +1,7 @@
 ---
 title: "Příběhy, které inspirují – diskriminace z důvodu zdravotního postižení"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2019/pribehy-ktere-inspiruji-diskriminace-z-duvodu-zdravotniho-postizeni/"
 date: 2019-03-04
 perex: "<p>Veřejná ochránkyně práv vydala nový leták, v němž informuje o pěti případech diskriminace na základě zdravotního postižení, které v uplynulých letech řešila a v nichž se podařilo zajistit nápravu.</p>"

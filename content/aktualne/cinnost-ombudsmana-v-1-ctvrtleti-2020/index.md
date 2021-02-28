@@ -1,7 +1,7 @@
 ---
 title: "Činnost ombudsmana v 1. čtvrtletí 2020"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/cinnost-ombudsmana-v-1-ctvrtleti-2020"
 date: 2020-05-25
 perex: "<p>Ombudsman informoval Poslaneckou sněmovnu o činnosti v 1. čtvrtletí. Tu do jisté míry poznamenal vyhlášený nouzový stav a opatření vlády proti šíření onemocnění Covid-19. Na ombudsmana se obrátili lidé s 2048 podněty, což je o 130 méně než v předchozím roce. Struktura podnětů se nezměnila a stále lidé nejčastěji vyhledávali pomoc ombudsmana v oblasti sociálního zabezpečení, stavebnictví a činnosti Vězeňské služby. Objevila se však i nová témata reagující na aktuální situaci v zemi.</p>"

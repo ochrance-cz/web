@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Bezmocní blízcí"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-iii/pripad-pro-ombudsmana-bezmocni-blizci/"
 date: 2010-02-19
 perex: "<p></p><p>Veřejný ochránce práv České republiky ve sporu o výši starobního důchodu</p>"

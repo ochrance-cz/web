@@ -1,7 +1,7 @@
 ---
 title: "Státní správa u schvalování areálu na Ještědu selhala"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2008/statni-sprava-u-schvalovani-arealu-na-jestedu-selhala"
 date: 2008-08-13
 perex: "<p></p>"

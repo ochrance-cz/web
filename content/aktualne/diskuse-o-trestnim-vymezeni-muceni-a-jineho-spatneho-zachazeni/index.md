@@ -1,7 +1,7 @@
 ---
 title: "Diskuse o trestním vymezení mučení a jiného špatného zacházení"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2014/diskuse-o-trestnim-vymezeni-muceni-a-jineho-spatneho-zachazeni/"
 date: 2014-12-10
 perex: "<p>Veřejná ochránkyně práv opakovaně informuje o případech špatného zacházení na místech, kde dochází nebo může docházet k omezení svobody. Jako národní preventivní mechanismus podle Opčního protokolu k Úmluvě proti mučení provádí systematické návštěvy s cílem posílit prevenci špatného zacházení. Jaká reakce je adekvátní v případě, když špatné zacházení dosahuje intenzity ponižujícího zacházení? Nabízí právní řád možnost postihu, který by odpovídal požadavkům Úmluvy proti mučení a Evropské úmluvy o lidských právech? Veřejná ochránkyně práv Anna Šabatová uspořádala 3. prosince v Brně neformální diskusi nad uvedenými tématy. </p>"

@@ -1,7 +1,7 @@
 ---
 title: "Inspirace pro zaměření studentských prací: témata prevence špatného zacházení"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2015/inspirace-pro-zamereni-studentskych-praci-temata-prevence-spatneho-zachazeni/"
 date: 2015-11-13
 perex: "<p>Deset let práce veřejného ochránce práv jako národního preventivního mechanismu, tedy 10 let práce na poli prevence špatného zacházení přináší poznatky o úspěších České republiky, ale také o přetrvávajících výzvách a problémech k řešení.</p>"

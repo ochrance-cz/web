@@ -1,7 +1,7 @@
 ---
 title: "Šestý díl Ochránce"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2013/sesty-dil-ochrance"
 date: 2013-10-12
 perex: "<p>V neděli 13. října můžete od 11:20 h sledovat na ČT2 šestý díl pořadu Ochránce, tentokrát s méně obvyklými případy, které dokazují značnou šíři témat, jimiž se ochránce zabývá. Půjde o potíže s provozem malé vodní elektrárny, odmítání banky vydat kreditní kartu seniorovi a o změnu místa narození v dokladech oproti rodnému listu. Repríza pořadu je na programu ČT2 ve středu 16. 10. ve 13:05.</p>"

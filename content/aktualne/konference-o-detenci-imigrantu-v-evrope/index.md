@@ -1,7 +1,7 @@
 ---
 title: "Konference o detenci imigrantů v Evropě"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2013/konference-o-detenci-imigrantu-v-evrope/"
 date: 2013-12-16
 perex: "<p></p>"

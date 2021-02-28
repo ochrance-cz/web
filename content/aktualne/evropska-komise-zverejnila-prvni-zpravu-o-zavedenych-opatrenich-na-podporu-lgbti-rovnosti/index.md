@@ -1,7 +1,7 @@
 ---
 title: "Evropská komise zveřejnila první zprávu o zavedených opatřeních na podporu LGBTI rovnosti"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2017/evropska-komise-zverejnila-prvni-zpravu-o-zavedenych-opatrenich-na-podporu-lgbti-rovnosti/"
 date: 2017-06-23
 perex: "<p>Evropská komise v únoru zveřejnila zprávu o opatřeních, která byla přijata v loňském roce na podporu homosexuálů, bisexuálů a transsexuálů (lesbian, gay, bisexual, transgender, and intersex = LGBTI) v Evropské unii.  Komise vybízí k užší spolupráci členské země EU, občany či podniky, aby se připojily k boji proti diskriminaci na základě sexuální orientace  a genderové identity.</p>"

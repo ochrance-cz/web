@@ -1,7 +1,7 @@
 ---
 title: "Rozdělení kompetencí mezi ochránkyní a jejím zástupcem"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2014/rozdeleni-kompetenci-mezi-ochrankyni-a-jejim-zastupcem"
 date: 2014-02-24
 perex: "<p></p>"

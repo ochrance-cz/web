@@ -1,7 +1,7 @@
 ---
 title: "Ochrana vlastnictví nemovitostí musí být posílena"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2007/ochrana-vlastnictvi-nemovitosti-musi-byt-posilena"
 date: 2007-09-12
 perex: "<p></p>"

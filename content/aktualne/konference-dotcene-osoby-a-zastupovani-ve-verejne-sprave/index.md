@@ -1,7 +1,7 @@
 ---
 title: "Konference Dotčené osoby a zastupování ve veřejné správě"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2016/konference-dotcene-osoby-a-zastupovani-ve-verejne-sprave"
 date: 2016-05-18
 perex: "<p>Právnická fakulta Masarykovy univerzity a veřejná ochránkyně práv společně pořádají 9. - 10. června v Telči 8. letní mezinárodní konferenci Dotčené osoby a zastupování ve veřejné správě. Zájemci o účast se mohou hlásit do 30. května.</p>"

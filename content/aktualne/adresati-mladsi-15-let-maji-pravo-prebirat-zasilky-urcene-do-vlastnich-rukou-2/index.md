@@ -1,7 +1,7 @@
 ---
 title: "Adresáti mladší 15 let mají právo přebírat zásilky určené do vlastních rukou"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2016/adresati-mladsi-15-let-maji-pravo-prebirat-zasilky-urcene-do-vlastnich-rukou"
 date: 2015-12-15
 perex: "<p>Česká pošta změnila podmínky pro vydávání doporučených psaní a balíků. Nyní je nově mohou přebírat i nezletilí, kteří nedosáhli 15 let. Změnu pravidel inicioval svým podnětem k ombudsmanovi čtrnáctiletý stěžovatel. Český telekomunikační úřad následně uznal výhrady a argumentaci ombudsmana, a přiměl Českou poštu ke změně pravidel.</p>"

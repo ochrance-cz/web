@@ -1,7 +1,7 @@
 ---
 title: "Systematická návštěva Domova pro seniory Burešov"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2017/systematicka-navsteva-domova-pro-seniory-buresov/"
 date: 2017-06-12
 perex: "<p></p>"

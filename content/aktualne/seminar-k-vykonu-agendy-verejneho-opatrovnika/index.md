@@ -1,7 +1,7 @@
 ---
 title: "Seminář k výkonu agendy veřejného opatrovníka"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2015/seminar-k-vykonu-agendy-verejneho-opatrovnika/"
 date: 2015-06-22
 perex: "<p></p>"

@@ -1,7 +1,7 @@
 ---
 title: "Nevyhovující podmínky ve vazebních věznicích vedou k nerespektování práv obviněných"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2010/nevyhovujici-podminky-ve-vazebnich-veznicich-vedou-k-nerespektovani-prav-obvinenych"
 date: 2010-05-25
 perex: "<p></p><p>Nedostatečné počty pracovníků ve Vězeňské službě ČR a rovněž nedostatečná kapacita věznic mají za následek nekvalitní naplňování práv obviněných, ale mají rovněž potenciál ohrozit i bezpečnost. Systematické návštěvy ve vazebních věznicích ukázaly, že v posledních čtyřech letech k žádnému posunu zatím nedošlo.</p>"

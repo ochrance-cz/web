@@ -1,7 +1,7 @@
 ---
 title: "Systematické návštěvy zařízení, kde se vykonává ústavní výchova a ochranná výchova"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2007/systematicke-navstevy-zarizeni-kde-se-vykonava-ustavni-vychova-a-ochranna-vychova"
 date: 2007-03-07
 perex: "<p></p>"

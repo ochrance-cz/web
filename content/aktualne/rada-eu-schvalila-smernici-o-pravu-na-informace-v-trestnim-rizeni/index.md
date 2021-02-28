@@ -1,7 +1,7 @@
 ---
 title: "Rada EU schválila směrnici o právu na informace v trestním řízení"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2012/rada-eu-schvalila-smernici-o-pravu-na-informace-v-trestnim-rizeni/"
 date: 2012-07-24
 perex: "<p></p>"

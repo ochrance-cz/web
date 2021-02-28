@@ -1,7 +1,7 @@
 ---
 title: "Napojení rodinných domů na cestu v soukromém vlastnictví je rizikem"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/napojeni-rodinnych-domu-na-cestu-v-soukromem-vlastnictvi-je-rizikem"
 date: 2019-05-23
 perex: "<p>Stavět rodinný dům „na zelené louce“ s sebou může přinášet určitá rizika, pokud není výstavba domu zkoordinována s výstavbou infrastruktury. Zástupce ombudsmanky se opakovaně setkává s případy developerských projektů výstavby rodinných domů, kdy domy už jsou dokončeny, ale chybí příjezdová komunikace. Ta buď není postavena vůbec, nebo se v souvislosti s ní vyskytnou právní překážky, které nejenže znemožňují její užívání, ale fakticky mohou ohrozit i zkolaudování a užívání vlastních rodinných domů.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Pořizování fotografií během systematických návštěv"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2012/porizovani-fotografii-behem-systematickych-navstev/"
 date: 2012-03-20
 perex: "<p></p><p>Pořizování fotografií pro dokumentaci systematické návštěvy detenčních zařízení je samozřejmou součástí práce evropských národních preventivních mechanismů. Vyplývá to ze zjištění Direktorátu pro lidská práva Rady Evropy.</p>"

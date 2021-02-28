@@ -1,7 +1,7 @@
 ---
 title: "Přesvědčivé určení data vzniku invalidity vedlo k vyššímu důchodu a doplatku"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2021/presvedcive-urceni-data-vzniku-invalidity-vedlo-k-vyssimu-duchodu-a-doplatku"
 date: 2021-01-11
 perex: "<p>Datum vzniku invalidity je třeba určit přesvědčivě a řádně ho odůvodnit. Nelze za něj bez dalšího považovat datum vydání lékařské zprávy. Přesto se ombudsman s takovými případy setkává. Naštěstí se pochybení prakticky vždy podaří napravit. V souvislosti s invalidními důchody se na ombudsmana ročně obrátí více než 300 lidí. </p>"

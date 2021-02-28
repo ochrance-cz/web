@@ -1,7 +1,7 @@
 ---
 title: "Dámská kupé muže nediskriminují"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2018/damska-kupe-muze-nediskriminuji"
 date: 2018-03-16
 perex: "<p>Dámské oddíly ve vlacích nemohou výrazněji omezit přístup mužů k využívání vlakové dopravy, takže se nejedná o diskriminaci. Představují pouze šest vyhrazených míst v celém vlaku a využívají se jen v některých spojích. Podle ombudsmanky navíc dámská kupé sledují legitimní cíl zvýšit pocit bezpečí cestujících žen, tedy i zvýšit zájem žen o cestování vlakem.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Média o špatném zacházení v neregistrovaných zařízeních sociálních služeb"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2015/media-o-spatnem-zachazeni-v-neregistrovanych-zarizenich-socialnich-sluzeb/"
 date: 2015-02-05
 perex: "<p></p><p>Veřejná ochránkyně práv vydala 29. ledna 2015 tiskovou zprávu, v níž upozornila na špatné zacházení se seniory ve 4 konkrétních zařízeních, která poskytují sociální služby bez náležité registrace (tisková zpráva je dostupná <a href=\"https://www.ochrance.cz/tiskove-zpravy/tiskove-zpravy-2015/ochrankyne-varuje-pred-dalsimi-ctyrmi-zarizenimi-pecujicimi-o-seniory/\">zde</a>). Takto média na vydanou tiskovou zprávu reagovala.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Vegetariánství je pouze životní styl a není důvodem k ochraně před diskriminací, rozhodl soud"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2019/vegetarianstvi-je-pouze-zivotni-styl-a-neni-duvodem-k-ochrane-pred-diskriminaci-rozhodl-so/"
 date: 2019-12-04
 perex: "<p>Britský zaměstnanecký soud uvedl, že vegetariánství není filozofickým přesvědčením a nespadá proto pod ochranu před diskriminací.</p>"

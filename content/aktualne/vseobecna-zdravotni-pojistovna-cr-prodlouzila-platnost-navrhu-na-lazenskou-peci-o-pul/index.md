@@ -1,7 +1,7 @@
 ---
 title: "Všeobecná zdravotní pojišťovna ČR prodloužila platnost návrhů na lázeňskou péči o půl roku"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/vseobecna-zdravotni-pojistovna-cr-prodlouzila-platnost-navrhu-na-lazenskou-peci-o-pul"
 date: 2020-05-27
 perex: "<p>Nestihli jste kvůli epidemii koronaviru nastoupit do lázní v termínu? Se stejným problémem se na nás obrátila jedna stěžovatelka. Pomohli jsme úspěšně vyřešit tuto situaci tím, že její zdravotní pojišťovna prodloužila platnost návrhu na lázeňskou péči.</p>"

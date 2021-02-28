@@ -1,7 +1,7 @@
 ---
 title: "Nepřijetí dítěte do arménské školy z důvodu etnicity bylo nepřípustné"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2014/neprijeti-ditete-do-armenske-skoly-z-duvodu-etnicity-bylo-nepripustne/"
 date: 2014-02-03
 perex: "<p>Turecký soud jednoznačně konstatoval, že diskriminační politika v přístupu ke vzdělání z důvodu odlišné etnicity je porušováním práva na vzdělání garantovaného tureckou Ústavou a Evropskou úmluvou o lidských právech. Případ navíc odhalil, že se turecké státní orgány dopouštějí rasového profilování v masovém měřítku.</p>"

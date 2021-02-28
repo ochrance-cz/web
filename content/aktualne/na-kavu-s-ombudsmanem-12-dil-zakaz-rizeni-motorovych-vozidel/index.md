@@ -1,7 +1,7 @@
 ---
 title: "Na kávu s ombudsmanem, 12. díl: Zákaz řízení motorových vozidel"
-tags:
-  - Podcast
+vystupy:
+  - podcast
 oldUrl: "/aktualne/tiskove-zpravy-2021/na-kavu-s-ombudsmanem-12-dil-zakaz-rizeni-motorovych-vozidel"
 date: 2021-02-26
 perex: "Dnešní podcast se věnuje zákazu řízení motorových vozidel. Dozvíte se, jak můžete k zákazu přijít a na co si dát v takovém případě pozor."

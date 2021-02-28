@@ -1,7 +1,7 @@
 ---
 title: "Vláda podpořila rozšíření pravomocí ochránce"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2014/vlada-podporila-rozsireni-pravomoci-ochrance"
 date: 2014-12-09
 perex: "<p></p>"

@@ -1,7 +1,7 @@
 ---
 title: "Hledáme právníka/právničku do týmu ochrany práv osob s postižením"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/hledame-pravnikapravnicku-do-tymu-ochrany-prav-osob-s-postizenim"
 date: 2019-08-21
 perex: "<p>Zájemci se mohou hlásit do 11. září. Podmínkou je ukončené vysokoškolské vzdělání v oboru právo, dobrá znalost mezinárodních úmluv, dokumentů a judikatury v oblasti práv lidí s postižením, dobrá znalost češtiny a jednoho světového jazyka.</p>"

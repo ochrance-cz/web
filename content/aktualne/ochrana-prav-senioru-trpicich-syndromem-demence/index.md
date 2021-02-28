@@ -1,7 +1,7 @@
 ---
 title: "Ochrana práv seniorů trpících syndromem demence"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2013/ochrana-prav-senioru-trpicich-syndromem-demence/"
 date: 2013-08-26
 perex: "<p></p>"

@@ -1,7 +1,7 @@
 ---
 title: "Zástupkyně veřejného ochránce práv vydala doporučení „Jak chránit práva rodičů s psychosociálním postižením a jejich dětí.“"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2020/zastupkyne-verejneho-ochrance-prav-vydala-doporuceni-jak-chranit-prava-rodicu-s-psych/"
 date: 2020-10-12
 perex: "<p></p>"

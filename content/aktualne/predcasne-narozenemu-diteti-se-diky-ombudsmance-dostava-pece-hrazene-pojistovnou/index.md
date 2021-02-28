@@ -1,7 +1,7 @@
 ---
 title: "Předčasně narozenému dítěti se díky ombudsmance dostává péče hrazené pojišťovnou"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/predcasne-narozenemu-diteti-se-diky-ombudsmance-dostava-pece-hrazene-pojistovnou"
 date: 2019-07-29
 perex: "<p></p>"

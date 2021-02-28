@@ -1,7 +1,7 @@
 ---
 title: "Výzkum etnického složení žáků základních škol praktických"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2011/vyzkum-etnickeho-slozeni-zaku-zakladnich-skol-praktickych"
 date: 2011-12-01
 perex: "<p>Ochránce zahájil rozsáhlý výzkum spojený se sběrem neadresných etnických dat v bývalých zvláštních školách. Výsledek výzkumu by měl vyvrátit nebo potvrdit kritiku České republiky za vysoký počet romských žáků ve školách určených ke vzdělávání zdravotně postižených. </p>"

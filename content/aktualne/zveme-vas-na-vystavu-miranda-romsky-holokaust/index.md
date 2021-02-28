@@ -1,7 +1,7 @@
 ---
 title: "Zveme Vás na výstavu „Miranda – romský holokaust“"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2018/zveme-vas-na-vystavu-miranda-romsky-holokaust"
 date: 2018-01-22
 perex: "<p>Ve středu 24. ledna bude v Kanceláři veřejného ochránce práv slavnostní vernisáží a za přítomnosti autora zahájena výstava „Miranda – romský holokaust“. Prostřednictvím autentického příběhu Slovensky Mirandy přibližuje genocidu Romů za 2. světové války. Putovní výstavu vytvořenou ve Finsku mohou zájemci navštívit až do 25. 2. každý všední den od 10 do 18 h.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Druhý díl Ochránce 2013"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/ochrance-iii-2013/druhy-dil-ochrance-2013/"
 date: 2013-09-12
 perex: "<p>V neděli 15. září vysílá ČT2 od 11:25 h premiéru druhého dílu nové řady pořadu Ochránce. Tentokrát půjde o případ průchodu přes cizí pozemek, snížení osobního ohodnocení v práci kvůli věku a potíže s neoprávněným vyřazením z evidence Úřadu práce. Repríza je na programu ve středu ve 13:10 a další opakování jsou pak zařazena do vysílání ČT2 v neděli a úterý vždy po půlnoci. </p>"

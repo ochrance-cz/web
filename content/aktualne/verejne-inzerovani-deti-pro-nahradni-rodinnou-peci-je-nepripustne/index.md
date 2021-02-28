@@ -1,7 +1,7 @@
 ---
 title: "Veřejné inzerování dětí pro náhradní rodinnou péči je nepřípustné"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2011/verejne-inzerovani-deti-pro-nahradni-rodinnou-peci-je-nepripustne"
 date: 2011-02-09
 perex: "<p></p>"

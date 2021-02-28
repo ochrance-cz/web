@@ -1,7 +1,7 @@
 ---
 title: "OSN Zásady účinného vyšetřování a dokumentování mučení a špatného zacházení konečně v češtině"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2019/osn-zasady-ucinneho-vysetrovani-a-dokumentovani-muceni-a-spatneho-zachazeni-konecn-1/"
 date: 2019-01-02
 perex: "<p>Kancelář veřejného ochránce práv pořídila překlad dokumentu OSN, který od roku 1999 představuje mezinárodní standard vyšetřování a dokumentování špatného zacházení.</p>"

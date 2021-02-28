@@ -1,7 +1,7 @@
 ---
 title: "Nový výzkum zjišťuje postoje k rasismu a xenofobii mezi mladými lidmi na Slovensku"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2018/novy-vyzkum-zjistuje-postoje-k-rasismu-a-xenofobii-mezi-mladymi-lidmi-na-slovensku/"
 date: 2018-06-27
 perex: "<p>Výzkum Slovenského národní střediska pro lidská práva (SNSĽP) zjišťoval postoje k náboženským, rasovým a etnickým skupinám a sousedním zemím.</p>"

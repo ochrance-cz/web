@@ -1,7 +1,7 @@
 ---
 title: "Čtvrté zasedání Otevřené pracovní skupiny OSN o přijetí Úmluvy o právech seniorů"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2013/ctvrte-zasedani-otevrene-pracovni-skupiny-osn-o-prijeti-umluvy-o-pravech-senioru/"
 date: 2013-09-23
 perex: "<p>V srpnu proběhlo v New Yorku již čtvrté zasedání tzv. „Otevřené pracovní skupiny“ (Open-ending working group). Tato skupina byla vytvořena rezolucí Valného shromáždění OSN v roce 2010 s cílem zhodnotit mezinárodní ochranu práv seniorů a prošetřit, zda stávající mezinárodní právní rámec ochrany práv seniorů netrpí nedostatky a „slepými místy“, které by bránily v plném uplatnění jejich základních práv a svobod. </p>"

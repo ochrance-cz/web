@@ -1,7 +1,7 @@
 ---
 title: "Premiéra třetí řady pořadu Ochránce na ČT"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2013/premiera-treti-rady-poradu-ochrance-na-ct-1"
 date: 2013-09-05
 perex: "<p>V neděli 8. září začíná ČT2 premiérově vysílat třetí řadu pořadu Ochránce o nejrůznějších problémech lidí s úřady. První díl začíná v neděli v 11:40 h, jeho repríza ve středu ve 13:15 a další opakování jsou pak zařazena do vysílání ČT2 v neděli a úterý vždy po půlnoci. </p>"

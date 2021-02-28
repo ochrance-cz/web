@@ -1,7 +1,7 @@
 ---
 title: "Osmý díl Ochránce"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/ochrance-iii-2013/osmy-dil-ochrance-1/"
 date: 2013-10-25
 perex: "<p>V neděli 27. října můžete na ČT2 od 11:20 h sledovat osmý díl pořadu Ochránce. Ukážeme vám, jak může i drobná chyba úřadu pořádně zkomplikovat život, když vám pak sníží příspěvek na péči o dítě, v sousedství vznikne dům, který nerespektuje charakter prostředí, nebo když po vás vymáhají povinné ručení za auto, které nemáte. Repríza je na programu ve středu 30. 10. ve 12:20 a další opakování jsou pak zařazena do vysílání ČT2 v neděli a úterý vždy po půlnoci.</p>"

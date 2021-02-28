@@ -1,7 +1,7 @@
 ---
 title: "Výpovědi z nájmu bytu podle novely občanského zákoníku"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2006/vypovedi-z-najmu-bytu-podle-novely-obcanskeho-zakoniku"
 date: 2006-05-10
 perex: "<p></p>"

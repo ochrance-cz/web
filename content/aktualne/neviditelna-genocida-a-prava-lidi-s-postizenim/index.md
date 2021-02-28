@@ -1,7 +1,7 @@
 ---
 title: "Neviditelná genocida a práva lidí s postižením"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2020/neviditelna-genocida-a-prava-lidi-s-postizenim/"
 date: 2020-10-19
 perex: "<p></p>"

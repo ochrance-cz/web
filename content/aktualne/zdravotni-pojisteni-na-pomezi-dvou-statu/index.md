@@ -1,7 +1,7 @@
 ---
 title: "Zdravotní pojištění na pomezí dvou států"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2020/zdravotni-pojisteni-na-pomezi-dvou-statu"
 date: 2020-10-21
 perex: "<p>Zástupkyně ombudsmana Monika Šimůnková se zabývala případem ženy, jež si platila pojištění jako samoplátce. Jednoho dne jí pojišťovna platby vrátila a oznámila, že dluží za poskytnuté zdravotní služby za sebe a svou dceru téměř 100 tisíc korun. Tak se začal odvíjet dvouletý absurdní příběh, který se podařilo dovést ke šťastnému konci. Manžel české občanky je totiž Ital a pobírá italský důchod. V obdobích, kdy žena neměla žádný příjem, se na ni a její nezletilou dceru v souladu s koordinačními nařízeními EU vztahovalo italské zdravotní pojištění a žena tedy neměla platit pojištění v České republice. Italská pojišťovna však nekomunikovala a žena i její dcera se ocitly v pasti. </p>"

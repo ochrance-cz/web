@@ -1,7 +1,7 @@
 ---
 title: "I ke staré studni musíte úřadům doložit dokumentaci"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2014/i-ke-stare-studni-musite-uradum-dolozit-dokumentaci"
 date: 2014-03-27
 perex: "<p>Na tzv. historické studny, u nichž je odběr vody považován za povolený, se rovněž vztahuje stavební zákon. Vlastník proto musí vodoprávnímu úřadu na jeho vyzvání doložit buď ověřenou dokumentaci o provedení studny podle vydaných povolení, případně dokumentaci skutečného provedení stavby. Jestliže nemá takové dokumenty k dispozici, vodoprávní úřad mu musí nařídit pořízení této dokumentace, případně zjednodušené dokumentace (pasport stavby).</p>"

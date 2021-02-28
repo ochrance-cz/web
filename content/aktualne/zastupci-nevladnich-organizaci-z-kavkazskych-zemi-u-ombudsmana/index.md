@@ -1,7 +1,7 @@
 ---
 title: "Zástupci nevládních organizací z kavkazských zemí u ombudsmana"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2013/zastupci-nevladnich-organizaci-z-kavkazskych-zemi-u-ombudsmana"
 date: 2013-10-17
 perex: "<p></p>"

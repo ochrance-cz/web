@@ -1,7 +1,7 @@
 ---
 title: "TV pořad o skutečné práci policie by neměl ukazovat policisty porušující zákony"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2021/tv-porad-o-skutecne-praci-policie-by-nemel-ukazovat-policisty-porusujici-zakony"
 date: 2021-02-03
 perex: "<p>Ombudsman se dopisem obrátil na policejního prezidenta s upozorněním na pořad TV Prima „Policie v akci“ zobrazující ve formě reality show skutečné policisty, kteří v rámci plnění běžných služebních povinností porušují zákony. Varuje ho, že se tím deformuje právní povědomí občanů o tom, jaké jsou pravomoci policistů.</p>"

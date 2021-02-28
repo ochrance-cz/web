@@ -1,7 +1,7 @@
 ---
 title: "Stát musí památky lépe chránit"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2008/stat-musi-pamatky-lepe-chranit"
 date: 2008-02-04
 perex: "<p></p>"

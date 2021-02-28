@@ -1,7 +1,7 @@
 ---
 title: "Každý den se 23 lidí rozhodne požádat ombudsmanku o pomoc"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2017/kazdy-den-se-23-lidi-rozhodne-pozadat-ombudsmanku-o-pomoc"
 date: 2017-05-18
 perex: "<p>V loňském roce obdržela veřejná ochránkyně práv 8 398 podnětů od lidí z celé České republiky, což znamená, že každý den v roce se 23 lidí rozhodlo na ni obrátit a požádat o pomoc. Úspěšnost ochránkyně je totiž vysoká – pokud zjistí pochybení úřadů, v 96 % případů se jí podaří dosáhnout jejich napravení.</p>"

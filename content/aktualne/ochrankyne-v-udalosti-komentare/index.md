@@ -1,7 +1,7 @@
 ---
 title: "Ochránkyně v Události, komentáře"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2014/ochrankyne-v-udalosti-komentare"
 date: 2014-06-24
 perex: "<p></p>"

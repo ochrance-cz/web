@@ -1,7 +1,7 @@
 ---
 title: "Na doporučení ochránkyně mění ministerstvo metodiku ve prospěch pěstounů"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2015/na-doporuceni-ochrankyne-meni-ministerstvo-metodiku-ve-prospech-pestounu"
 date: 2015-09-29
 perex: "<p>Na doporučení veřejné ochránkyně práv mění Ministerstvo práce a sociálních věcí metodiku k posuzování nároku na dávky pěstounské péče, aby zajistilo správný výklad zákona. Úřad práce ČR tak bude pěstounské dávky přiznávat již od data, ke kterému soud svěřil dítě pěstounům.</p>"

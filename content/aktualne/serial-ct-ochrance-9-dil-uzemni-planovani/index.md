@@ -1,7 +1,7 @@
 ---
 title: "Seriál ČT „Ochránce“ – 9. díl: Územní plánování"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/ochrance-i-2011/serial-ct-ochrance-9-dil-uzemni-planovani/"
 date: 2011-10-27
 perex: "<p></p><p>Nesouhlasíte se změnami územního plánu, s připravovanou výstavbou nebo sami chcete změnit územní plán? O tom bude 9. díl pořadu Ochránce vysílaný na ČT2 v úterý 1. 11. v 17:20 hod a v repríze ve středu 2. 11. v 9:35. </p>"

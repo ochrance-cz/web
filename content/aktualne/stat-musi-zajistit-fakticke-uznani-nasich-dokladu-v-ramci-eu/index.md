@@ -1,7 +1,7 @@
 ---
 title: "Stát musí zajistit faktické uznání našich dokladů v rámci EU"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2007/stat-musi-zajistit-fakticke-uznani-nasich-dokladu-v-ramci-eu"
 date: 2007-09-10
 perex: "<p></p>"

@@ -1,7 +1,7 @@
 ---
 title: "Příspěvek „Ochránce, etnicita a média“ jako součást panelu na konferenci Mediální křižovatky po dvaceti letech"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2012/prispevek-ochrance-etnicita-a-media-jako-soucast-panelu-na-konferenci-medialni-kri/"
 date: 2012-10-15
 perex: "<p>Na konferenci Mediální křižovatky po dvaceti letech, kterou ve dnech 9. – 10. října v Telči pořádala Rada pro rozhlasové a televizní vysílání (RRTV), se kromě jiných témat diskutovalo i o problematice mediální reprezentace etnických menšin, zejména Romů.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Zjišťujeme zkušenosti s mimosoudním řešením spotřebitelských sporů"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2016/zjistujeme-zkusenosti-s-mimosoudnim-resenim-spotrebitelskych-sporu"
 date: 2016-11-07
 perex: "<p>Zítra se v rámci kulatého stolu setkáme se zástupci subjektů, které mimosoudně řeší spotřebitelské spory (např. Finanční arbitr, ČTÚ, ČOI, Sdružení českých spotřebitelů, ERÚ aj.). Chceme zjistit, jaké jsou zkušenosti z praxe po prvním půlroce, kdy je možné spotřebitelské spory řešit i mimosoudně.</p>"

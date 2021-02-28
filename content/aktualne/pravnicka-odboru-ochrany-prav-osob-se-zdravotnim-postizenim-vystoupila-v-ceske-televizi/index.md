@@ -1,7 +1,7 @@
 ---
 title: "Právnička odboru ochrany práv osob se zdravotním postižením vystoupila v České televizi"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2018/pravnicka-odboru-ochrany-prav-osob-se-zdravotnim-postizenim-vystoupila-v-ceske-televizi/"
 date: 2018-05-31
 perex: "<p></p>"

@@ -1,7 +1,7 @@
 ---
 title: "Semináře o lidskoprávním psychiatrickém minimu v kontextu psychiatrické hospitalizace"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2019/seminare-o-lidskopravnim-psychiatrickem-minimu-v-kontextu-psychiatricke-hospitalizace/"
 date: 2019-09-11
 perex: "<p>Právníci odboru dohledu připravili a prezentovali témata nejen prevence špatného zacházení. Pro Ministerstvo zdravotnictví, či spíše pro různé odborníky působící v psychiatrických nemocnicích, jež jsou zapojeny do Reformy psychiatrické péče.</p>"

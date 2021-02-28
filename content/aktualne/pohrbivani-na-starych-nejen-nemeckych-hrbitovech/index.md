@@ -1,7 +1,7 @@
 ---
 title: "Pohřbívání na starých, nejen „německých“ hřbitovech"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2016/pohrbivani-na-starych-nejen-nemeckych-hrbitovech"
 date: 2016-05-24
 perex: "<p>Je možné znovu začít pohřbívat na hřbitově, který není od války využíván? Jak řešit, když chce být někdo pohřben v rodinné hrobce na hřbitově, který už takové pohřbívání neumožňuje? Je možné obnovit zrušený hřbitov? I takové dotazy a žádosti o radu řešil za poslední rok zástupce ombudsmanky. </p>"

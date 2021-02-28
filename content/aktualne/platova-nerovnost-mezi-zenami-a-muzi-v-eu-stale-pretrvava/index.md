@@ -1,7 +1,7 @@
 ---
 title: "Platová nerovnost mezi ženami a muži v EU stále přetrvává"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2018/platova-nerovnost-mezi-zenami-a-muzi-v-eu-stale-pretrvava/"
 date: 2018-11-27
 perex: "<p>V rámci Evropského dne rovného odměňování upozornila Evropská komise, že ženy v EU vydělávají průměrně o 16,2 % méně než muži.</p>"

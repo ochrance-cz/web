@@ -1,7 +1,7 @@
 ---
 title: "Zpráva OSN o etických otázkách pokroku v biologii a medicíně"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2020/zprava-osn-o-etickych-otazkach-pokroku-v-biologii-a-medicine/"
 date: 2020-01-27
 perex: "<p>Zvláštní zpravodajka OSN pro práva osob se zdravotním postižením vydala zprávu zaměřenou na bioetiku, tedy na etické otázky vyplývajících z pokroku v biologii a medicíně a jejich dopad na člověka a společnost. </p>"

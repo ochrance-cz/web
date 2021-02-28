@@ -1,7 +1,7 @@
 ---
 title: "Nově vytvořená pracovní skupina Equinetu zaměřená na diskriminaci z důvodu pohlaví"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2013/nove-vytvorena-pracovni-skupina-equinetu-zamerena-na-diskriminaci-z-duvodu-pohlavi/"
 date: 2013-04-17
 perex: "<p>Dne 19. dubna 2013 se právnička oddělení rovného zacházení Jana Kvasnicová zúčastní prvního setkání pracovní skupiny evropské sítě EQUINET zaměřené na otázky související s genderovou rovností (rovností mužů a žen) v Paříži. </p>"

@@ -1,7 +1,7 @@
 ---
 title: "Lidé se zdravotním postižením se už ve Znojmě dostanou do objektu občanské vybavenosti"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2018/lide-se-zdravotnim-postizenim-se-uz-ve-znojme-dostanou-do-objektu-obcanske-vybavenosti"
 date: 2018-03-22
 perex: "<p>Objekt občanské vybavenosti ve Znojmě, v němž jsou například i lékařské ordinace, je opět bezpečně přístupný i lidem se zdravotním postižením. Znojemský stavební úřad po upozornění zástupce ombudsmanky přiměl vlastníka, aby zajistil bezbariérovost budovy.</p>"

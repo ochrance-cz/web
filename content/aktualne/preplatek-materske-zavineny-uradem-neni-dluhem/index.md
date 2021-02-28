@@ -1,7 +1,7 @@
 ---
 title: "Přeplatek mateřské zaviněný úřadem není dluhem"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2014/preplatek-materske-zavineny-uradem-neni-dluhem"
 date: 2014-08-13
 perex: "<p>Ochránkyně v rámci zprávy pro Poslaneckou sněmovnu informovala o případu, kdy pochybením České správy sociálního zabezpečení vznikl přeplatek na peněžité pomoci v mateřství, dosahující téměř 50.000,- Kč. Stěžovatelce byla předmětná dávka vyplacena ze dvou pojištění, ačkoliv z prvního pojištění nárok nevznikl. Stěžovatelka na přání České správy sociálního zabezpečení podepsala právní úkon uznání „svého dluhu“, poté se obrátila na veřejného ochránce práv.</p>"

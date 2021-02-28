@@ -1,7 +1,7 @@
 ---
 title: "Anonymizované životopisy jsou šancí pro všechny, ukazuje pilotní projekt německého tělesa pro rovné zacházení"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2013/anonymizovane-zivotopisy-jsou-sanci-pro-vsechny-ukazuje-pilotni-projekt-nemeckeho-telesa-p/"
 date: 2013-05-30
 perex: "<p>Jak odstranit nerovnost v přístupu k zaměstnání, která mnohdy začíná již ve fázi vyhodnocování životopisů? Německé těleso pro rovné zacházení (Die Antidiskriminierungsstelle des Bundes) se rozhodlo v rámci pilotního projektu vyzkoušet, zda by tento problém pomohly vyřešit takzvané anonymizované životopisy – v těch jsou sice obsaženy všechny potřebné informace o vzdělání a praxi uchazeče, chybí ale identifikační údaje jako například jméno a příjmení, datum a místo narození, rodinný stav nebo fotografie. </p>"

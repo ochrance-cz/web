@@ -1,7 +1,7 @@
 ---
 title: "Proběhla systematická návštěva další léčebny dlouhodobě nemocných"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2015/probehla-systematicka-navsteva-dalsi-lecebny-dlouhodobe-nemocnych/"
 date: 2015-04-23
 perex: "<p>Ve dnech 15. a 16. dubna 2015 veřejná ochránkyně práv provedla druhou ze série systematických návštěv léčeben dlouhodobě nemocných. Sérii návštěv celkem přibližně šesti zařízení tohoto typu ochránkyně plánuje provést v průběhu tohoto roku. Po jejím ukončení vydá zprávu, v níž shrne poznatky o špatné i dobré praxi, která aktuálně v léčebnách dlouhodobě nemocných panuje.</p>"

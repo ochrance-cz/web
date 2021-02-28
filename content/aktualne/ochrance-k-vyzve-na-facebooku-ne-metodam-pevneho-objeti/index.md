@@ -1,7 +1,7 @@
 ---
 title: "Ochránce k výzvě na Facebooku „Ne metodám pevného objetí“"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2011/ochrance-k-vyzve-na-facebooku-ne-metodam-pevneho-objeti"
 date: 2011-02-08
 perex: "<p></p><p>Ochránce není odborně kompetentní v oblasti psychologie, aby mohl rozhodovat odborný spor o to, zda je určitá terapeutická metoda riskantní, či kdy a za jakých podmínek má být používána.</p>"

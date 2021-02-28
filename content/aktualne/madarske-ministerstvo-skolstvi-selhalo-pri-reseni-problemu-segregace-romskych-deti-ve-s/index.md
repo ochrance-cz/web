@@ -1,7 +1,7 @@
 ---
 title: "Maďarské ministerstvo školství selhalo při řešení problému segregace romských dětí ve školách, rozhodl soud"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2019/madarske-ministerstvo-skolstvi-selhalo-pri-reseni-problemu-segregace-romskych-deti-ve-s/"
 date: 2019-06-24
 perex: "<p>Maďarský odvolací soud potvrdil původní rozsudek, podle kterého je ministerstvo školství odpovědné za dlouholetou segregaci romských dětí na základních školách.</p>"

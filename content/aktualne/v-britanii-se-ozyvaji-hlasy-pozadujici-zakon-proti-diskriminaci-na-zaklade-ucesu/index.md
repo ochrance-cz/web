@@ -1,7 +1,7 @@
 ---
 title: "V Británii se ozývají hlasy požadující zákon proti diskriminaci na základě účesu"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2019/v-britanii-se-ozyvaji-hlasy-pozadujici-zakon-proti-diskriminaci-na-zaklade-ucesu/"
 date: 2019-08-23
 perex: "<p>Internetová petice a některá britská média upozorňují na provázanost této diskriminace s rasismem.</p>"

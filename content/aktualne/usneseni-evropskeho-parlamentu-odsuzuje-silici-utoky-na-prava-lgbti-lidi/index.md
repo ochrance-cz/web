@@ -1,7 +1,7 @@
 ---
 title: "Usnesení Evropského parlamentu odsuzuje sílící útoky na práva LGBTI lidí"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2020/usneseni-evropskeho-parlamentu-odsuzuje-silici-utoky-na-prava-lgbti-lidi/"
 date: 2020-03-16
 perex: "<p>Evropský parlament upozorňuje na vzrůstající diskriminaci a nesnášenlivost vůči LGBTI lidem v EU, a to rovněž ze strany veřejných orgánů a politických představitelů některých členských zemí.</p>"

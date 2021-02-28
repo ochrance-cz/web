@@ -1,7 +1,7 @@
 ---
 title: "Studijní cesta zaměstnanců KVOP do Gruzie"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2014/studijni-cesta-zamestnancu-kvop-do-gruzie/"
 date: 2014-12-11
 perex: "<p></p>"

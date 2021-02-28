@@ -1,7 +1,7 @@
 ---
 title: "Setkání s organizacemi hájícími práva lidí s postižením"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2019/setkani-s-organizacemi-hajicimi-prava-lidi-s-postizenim-1/"
 date: 2019-11-29
 perex: "<p>V pátek dne 29. listopadu pořádá ombudsmanka další z pravidelných setkání s organizacemi hájícími práva lidí s postižením.</p>"

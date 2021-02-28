@@ -1,7 +1,7 @@
 ---
 title: "Zlepšování podmínek v detenci – role Evropské úmluvy, Soudu a národních soudů"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2014/zlepsovani-podminek-v-detenci-role-evropske-umluvy-soudu-a-narodnich-soudu/"
 date: 2014-11-13
 perex: "<p></p>"

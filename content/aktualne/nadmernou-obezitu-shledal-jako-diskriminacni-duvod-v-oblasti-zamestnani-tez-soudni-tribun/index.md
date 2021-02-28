@@ -1,7 +1,7 @@
 ---
 title: "Nadměrnou obezitu shledal jako diskriminační důvod v oblasti zaměstnání též soudní tribunál v Severním Irsku"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2015/nadmernou-obezitu-shledal-jako-diskriminacni-duvod-v-oblasti-zamestnani-tez-soudni-tribun/"
 date: 2015-05-18
 perex: "<p>Podle severoirského Fair Employment Tribunal byl obézní muž obětí diskriminace ve formě obtěžování. Kolega na pracovišti se posmíval jeho nadváze.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Souhrnná zpráva o činnosti národního preventivního mechanismu"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2018/souhrnna-zprava-o-cinnosti-narodniho-preventivniho-mechanismu/"
 date: 2018-04-11
 perex: "<p></p>"

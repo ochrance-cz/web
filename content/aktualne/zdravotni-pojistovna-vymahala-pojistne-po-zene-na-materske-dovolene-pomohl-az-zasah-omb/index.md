@@ -1,7 +1,7 @@
 ---
 title: "Zdravotní pojišťovna vymáhala pojistné po ženě na mateřské dovolené. Pomohl až zásah ombudsmanky"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/zdravotni-pojistovna-vymahala-pojistne-po-zene-na-materske-dovolene-pomohl-az-zasah-omb"
 date: 2019-08-08
 perex: "<p>Ombudsmanka vyřešila případ, ve kterém byla kadeřnice nejprve několik měsíců nemocná a následně nastoupila na mateřskou dovolenou, protože se blížil termín porodu. Zaměstnanci takový přechod v podstatě nezaznamenají. Žena však pracovala jako osoba samostatně výdělečná činná (OSVČ) a dostala se kvůli přechodu z nemocenské na mateřskou do konfliktu se zdravotní pojišťovnou, která po ní chtěla uhradit minimální zálohu pojistného. V obou případech však za ní měl pojistné uhradit stát. Problém se podařilo vyřešit díky zásahu ombudsmanky. </p>"

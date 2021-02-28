@@ -1,7 +1,7 @@
 ---
 title: "Necelá polovina domovů sociálních služeb v Anglii nesplňuje požadované standardy"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2015/necela-polovina-domovu-socialnich-sluzeb-v-anglii-nesplnuje-pozadovane-standardy/"
 date: 2015-08-13
 perex: "<p>Anglie – Komise kontroly kvality provedla téměř čtyři tisíce místních šetření. Odhalila přitom, že 44 % zařízení nesplňuje požadované standardy péče.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Referát k Národnímu akčnímu plánu podporujícímu pozitivní stárnutí"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2013/referat-k-narodnimu-akcnimu-planu-podporujicimu-pozitivni-starnuti/"
 date: 2013-12-05
 perex: "<p></p>"

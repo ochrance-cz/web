@@ -1,7 +1,7 @@
 ---
 title: "Ombudsmanka hájila dvou a půl leté dítě, které zažilo už 3 změny pečovatelů"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2019/ombudsmanka-hajila-dvou-a-pul-lete-dite-ktere-zazilo-uz-3-zmeny-pecovatelu"
 date: 2019-01-24
 perex: "<p>Ústavní soud svým rozhodnutím zabránil tomu, aby byla dvou a půl letá holčička vystavena už třetí změně pečující osoby v tak útlém dětství a ztratila navíc kontakt s rodiči. V souladu s názorem ombudsmanky, coby kolizní opatrovnice dítěte, zrušil Ústavní soud rozsudek o svěření dítěte do dlouhodobé pěstounské péče.</p>"

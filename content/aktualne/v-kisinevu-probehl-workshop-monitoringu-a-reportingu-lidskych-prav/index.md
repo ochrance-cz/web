@@ -1,7 +1,7 @@
 ---
 title: "V Kišiněvu proběhl workshop monitoringu a reportingu lidských práv"
-tags:
-  - Monitorování
+vystupy:
+  - monitorovani
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2018/v-kisinevu-probehl-workshop-monitoringu-a-reportingu-lidskych-prav/"
 date: 2018-03-15
 perex: "<p>Čtrnáct účastníků z 11 evropských lidskoprávních institucí se od 5. do 7. března 2018 účastnilo workshopu k monitoringu a reportingu lidských práv v Kišiněvu v Moldavsku.</p>"

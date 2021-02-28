@@ -1,7 +1,7 @@
 ---
 title: "Stížnosti potvrzují nedostatky nových zákonů v sociální oblasti"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2011/stiznosti-potvrzuji-nedostatky-novych-zakonu-v-socialni-oblasti"
 date: 2011-01-19
 perex: "<p></p>"

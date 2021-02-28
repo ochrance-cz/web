@@ -1,7 +1,7 @@
 ---
 title: "Setkání s představiteli pobytových školských zařízení a pedopsychiatry"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2012/setkani-s-predstaviteli-pobytovych-skolskych-zarizeni-a-pedopsychiatry/"
 date: 2012-07-12
 perex: "<p></p><p>Kulatého stolu pořádaného veřejným ochráncem práv v Psychiatrické léčebně Bohnice se zúčastnila třicítka zástupců pobytových školských zařízení a pedopsychiatrů. Prostřednictvím zápisu se s průběhem a obsahem jednání mohou seznámit i další zájemci.</p>"

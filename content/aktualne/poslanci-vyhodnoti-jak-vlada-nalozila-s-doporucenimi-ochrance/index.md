@@ -1,7 +1,7 @@
 ---
 title: "Poslanci vyhodnotí, jak vláda naložila s doporučeními ochránce"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2012/poslanci-vyhodnoti-jak-vlada-nalozila-s-doporucenimi-ochrance"
 date: 2012-12-12
 perex: "<p>Ve čtvrtek 13. 12. projedná Poslanecká sněmovna za přítomnosti ombudsmana Pavla Varvařovského zprávu vlády o naplňování jeho doporučení. </p>"

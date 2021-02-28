@@ -1,7 +1,7 @@
 ---
 title: "Muslimské školačky nemají nárok na osvobození z koedukativní výuky plavání, rozhodl německý soud"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2013/muslimske-skolacky-nemaji-narok-na-osvobozeni-z-koedukativni-vyuky-plavani-rozhodl-nemec/"
 date: 2013-10-28
 perex: "<p>Německý spolkový správní soud dospěl k závěru, že muslimské školačky nemohou požadovat osvobození z koedukativní výuky plavání, tj. společné výuky chlapců a děvčat, pokud mají možnost nosit tzv. burkini (slovo vzniklo spojením slov burka + bikini). </p>"

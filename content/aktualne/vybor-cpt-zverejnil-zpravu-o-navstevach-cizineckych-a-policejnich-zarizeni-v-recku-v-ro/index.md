@@ -1,7 +1,7 @@
 ---
 title: "Výbor CPT zveřejnil zprávu o návštěvách cizineckých a policejních zařízení v Řecku v roce 2016"
-tags:
-  - Detence
+vystupy:
+  - detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2017/vybor-cpt-zverejnil-zpravu-o-navstevach-cizineckych-a-policejnich-zarizeni-v-recku-v-ro/"
 date: 2017-10-02
 perex: "<p>Evropský výbor pro zabránění mučení a nelidskému nebo ponižujícímu zacházení nebo trestání (CPT) aktuálně zveřejnil zprávu o dvou ad hoc návštěvách, které reagovaly na zvýšené riziko špatného zacházení kvůli extrémní zátěži Řecka z důvodu vlny migrujících cizinců. Zprávy a související vyjádření vlády výbor zveřejňuje na žádost úřadů dotčeného státu.</p>"

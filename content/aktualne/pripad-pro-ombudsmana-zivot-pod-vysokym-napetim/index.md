@@ -1,7 +1,7 @@
 ---
 title: "Případ pro ombudsmana: Život pod vysokým napětím"
-tags:
-  - TV seriál
+vystupy:
+  - tv
 oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-v/pripad-pro-ombudsmana-zivot-pod-vysokym-napetim/"
 date: 2009-09-09
 perex: "<p></p>"

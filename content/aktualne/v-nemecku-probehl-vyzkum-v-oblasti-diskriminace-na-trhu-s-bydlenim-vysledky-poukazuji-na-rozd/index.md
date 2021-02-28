@@ -1,7 +1,7 @@
 ---
 title: "V Německu proběhl výzkum v oblasti diskriminace na trhu s bydlením: výsledky poukazují na rozdílné zacházení"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2015/v-nemecku-probehl-vyzkum-v-oblasti-diskriminace-na-trhu-s-bydlenim-vysledky-poukazuji-na-rozd/"
 date: 2015-11-11
 perex: "<p>Německé antidiskriminační místo Antidiskriminierungsstelle des Bundes (ADB) se aktuálně již po dlouhou dobu zabývá otázkou, na jakých místech vyvstávají diskriminační rizika na trhu s bydlením a dále tím, zda výsledky testování vůbec mohou být důkazem přítomnosti skutečné diskriminace.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Ani po nálezu Ústavního soudu nejsou spolky účastníky řízení podle stavebního zákona"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2021/ani-po-nalezu-ustavniho-soudu-nejsou-spolky-ucastniky-rizeni-podle-stavebniho-zakona"
 date: 2021-02-22
 perex: "<p>Ombudsman v roce 2017 vstoupil jako vedlejší účastník do řízení před Ústavním soudem. Podpořil tak návrh skupiny senátorů na zrušení vybraných ustanovení stavebního zákona a zákona o ochraně přírody a krajiny. Napadená právní úprava od 1. ledna 2018 vylučovala účast spolků v řízeních vedených podle stavebního zákona. Omezovala také přezkum závazných stanovisek dotčených orgánů oproti obecné právní úpravě správního řádu.  </p>"

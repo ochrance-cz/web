@@ -1,7 +1,7 @@
 ---
 title: "Ke zrušení pověření zástupkyně ombudsmana k zastupování ve vládních radách"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2021/ke-zruseni-povereni-zastupkyne-ombudsmana-k-zastupovani-ve-vladnich-radach"
 date: 2021-01-20
 perex: "<p></p>"

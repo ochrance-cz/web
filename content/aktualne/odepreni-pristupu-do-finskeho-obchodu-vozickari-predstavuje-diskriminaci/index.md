@@ -1,7 +1,7 @@
 ---
 title: "Odepření přístupu do finského obchodu vozíčkáři představuje diskriminaci"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2014/odepreni-pristupu-do-finskeho-obchodu-vozickari-predstavuje-diskriminaci/"
 date: 2014-05-13
 perex: "<p>Helsinský odvolací soud shledal diskriminaci při odepření přístupu do obchodu vozíčkáři. Majiteli obchodu tak přikázal zaplatit pokutu ve výši 420 Eur a odškodnění oběti ve výši 600 Eur. </p>"

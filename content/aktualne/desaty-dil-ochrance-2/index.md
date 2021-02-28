@@ -1,7 +1,7 @@
 ---
 title: "Desátý díl Ochránce"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2016/desaty-dil-ochrance-2"
 date: 2016-03-10
 perex: "<p>Devastace přístupové cesty kvůli stavbě, nezhodnocení péče při výpočtu důchodu a podivné značení zákazu vjezdu. Případy, které si našly cestu na stůl ombudsmanky. Desátý díl pořadu Ochránce s těmito případy můžete sledovat na ČT2 v neděli 13. 3. v 18:15 h, reprízy ve čtvrtek v 18:55 h a v pátek ve 13:45 h.</p>"

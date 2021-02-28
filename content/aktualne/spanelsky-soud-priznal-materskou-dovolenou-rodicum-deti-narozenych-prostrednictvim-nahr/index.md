@@ -1,7 +1,7 @@
 ---
 title: "Španělský soud přiznal mateřskou dovolenou rodičům dětí narozených prostřednictvím náhradního mateřství"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2017/spanelsky-soud-priznal-materskou-dovolenou-rodicum-deti-narozenych-prostrednictvim-nahr/"
 date: 2017-03-28
 perex: "<p>Nejvyšší soud ve Španělsku rozhodl, že rodiče dětí narozených prostřednictvím náhradního mateřství mají nárok na mateřskou dovolenou.</p>"

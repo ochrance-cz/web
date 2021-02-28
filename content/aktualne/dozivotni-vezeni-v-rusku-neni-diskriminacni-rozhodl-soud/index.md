@@ -1,7 +1,7 @@
 ---
 title: "Doživotní vězení v Rusku není diskriminační, rozhodl soud"
-tags:
-  - Diskriminace
+vystupy:
+  - diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2017/dozivotni-vezeni-v-rusku-neni-diskriminacni-rozhodl-soud/"
 date: 2017-06-07
 perex: "<p>Evropský soud pro lidská práva rozhodl, že ruský zákon vylučující ženy, nezletilé a starší osoby z udělení doživotních trestů není diskriminační.</p>"

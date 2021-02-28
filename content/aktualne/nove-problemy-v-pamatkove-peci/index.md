@@ -1,7 +1,7 @@
 ---
 title: "Nové problémy v památkové péči"
-tags:
-  - Tisková zpráva
+vystupy:
+  - tz
 oldUrl: "/aktualne/tiskove-zpravy-2017/nove-problemy-v-pamatkove-peci"
 date: 2017-04-18
 perex: "<p>Tzv. vizuální smog a nesouhlas majitelů nemovitostí s vyhlašováním památkových zón jsou dvě nová témata, která se v poslední době opakují v podnětech a dotazech veřejné ochránkyni práv. Rozšiřují tradiční problémy památkové péče (zejména dotace pro vlastníky nemovitostí v památkovém území), pro jejichž řešení se s nadějí očekává dlouho připravovaný a nyní projednávaný nový památkový zákon.</p>"
