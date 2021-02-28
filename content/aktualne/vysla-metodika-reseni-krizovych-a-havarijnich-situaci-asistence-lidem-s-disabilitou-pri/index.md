@@ -1,5 +1,5 @@
 ---
-title: "Vyšla metodika řešení krizových a havarijních situací &ndash; „Asistence lidem s disabilitou při katastrofách“"
+title: "Vyšla metodika řešení krizových a havarijních situací – „Asistence lidem s disabilitou při katastrofách“"
 tags:
   - Monitorování
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2019/vysla-metodika-reseni-krizovych-a-havarijnich-situaci-asistence-lidem-s-disabilitou-pri/"

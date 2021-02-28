@@ -1,5 +1,5 @@
 ---
-title: "Vyhlášení soutěže &ndash; Úřad na cestě k rovnosti"
+title: "Vyhlášení soutěže – Úřad na cestě k rovnosti"
 tags:
   - Tisková zpráva
 oldUrl: "/aktualne/tiskove-zpravy-2020/vyhlaseni-souteze-urad-na-ceste-k-rovnosti-1"

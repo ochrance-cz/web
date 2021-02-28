@@ -1,5 +1,5 @@
 ---
-title: "„Síla vzdoru“ &ndash; dokument o právu na nezávislý život"
+title: "„Síla vzdoru“ – dokument o právu na nezávislý život"
 tags:
   - Tisková zpráva
 oldUrl: "/aktualne/tiskove-zpravy-2019/sila-vzdoru-dokument-o-pravu-na-nezavisly-zivot"

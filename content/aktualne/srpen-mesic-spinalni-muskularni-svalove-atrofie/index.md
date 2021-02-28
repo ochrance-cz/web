@@ -1,5 +1,5 @@
 ---
-title: "Srpen &ndash; měsíc spinální muskulární (svalové) atrofie"
+title: "Srpen – měsíc spinální muskulární (svalové) atrofie"
 tags:
   - Monitorování
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2018/srpen-mesic-spinalni-muskularni-svalove-atrofie/"

@@ -9,4 +9,4 @@ perex: "<p></p>"
 
 <!-- imported from the old website -->
 
-<p>K již zveřejněným powerpointovým prezentacím jsme přidali i texty některých příspěvků, které zazněly na konferenci Aktuální problémy vězeňství, uspořádané veřejným ochráncem práv 8. listopadu 2012 v Brně. V brzké době budou doplněny i zbývající. </p><p>Materiály z konferencí a kulatých stolů najdete vždy v části Ochrana osob omezených na svobodě &ndash; Z činnosti ombudsmana &ndash; Konference a kulaté stoly.</p><p>Nově zveřejněné příspěvky z konference o vězeňství najdete přímo zde.</p>
+<p>K již zveřejněným powerpointovým prezentacím jsme přidali i texty některých příspěvků, které zazněly na konferenci Aktuální problémy vězeňství, uspořádané veřejným ochráncem práv 8. listopadu 2012 v Brně. V brzké době budou doplněny i zbývající. </p><p>Materiály z konferencí a kulatých stolů najdete vždy v části Ochrana osob omezených na svobodě – Z činnosti ombudsmana – Konference a kulaté stoly.</p><p>Nově zveřejněné příspěvky z konference o vězeňství najdete přímo zde.</p>

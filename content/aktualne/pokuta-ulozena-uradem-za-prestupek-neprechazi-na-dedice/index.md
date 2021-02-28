@@ -4,7 +4,7 @@ tags:
   - Tisková zpráva
 oldUrl: "/aktualne/tiskove-zpravy-2013/pokuta-ulozena-uradem-za-prestupek-neprechazi-na-dedice"
 date: 2013-07-12
-perex: "<p>Povinnost zaplatit pokutu za přestupek nepřechází na jiné osoby &ndash; na dědice. Neuplatní se zde obecné pravidlo o přechodu daňové povinnosti zakotvené v zákoně o správě daní a poplatků. Pokuta za přestupek představuje jeden z příkladů peněžité povinnosti, která má osobní povahu. Je vázána na konkrétní osobu a proto je nezcizitelná a nepřevoditelná.</p>"
+perex: "<p>Povinnost zaplatit pokutu za přestupek nepřechází na jiné osoby – na dědice. Neuplatní se zde obecné pravidlo o přechodu daňové povinnosti zakotvené v zákoně o správě daní a poplatků. Pokuta za přestupek představuje jeden z příkladů peněžité povinnosti, která má osobní povahu. Je vázána na konkrétní osobu a proto je nezcizitelná a nepřevoditelná.</p>"
 ---
 
 <!-- imported from the old website -->

@@ -1,5 +1,5 @@
 ---
-title: "Problémů rodin je hodně &ndash; mnohé se ochránkyni daří řešit"
+title: "Problémů rodin je hodně – mnohé se ochránkyni daří řešit"
 tags:
   - Tisková zpráva
 oldUrl: "/aktualne/tiskove-zpravy-2017/problemu-rodin-je-hodne-mnohe-se-ochrankyni-dari-resit"

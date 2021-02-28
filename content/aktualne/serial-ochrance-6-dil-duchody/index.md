@@ -1,5 +1,5 @@
 ---
-title: "Seriál Ochránce &ndash; 6. díl &ndash; důchody"
+title: "Seriál Ochránce – 6. díl – důchody"
 tags:
   - Tisková zpráva
 oldUrl: "/aktualne/tiskove-zpravy-2012/serial-ochrance-6-dil-duchody"

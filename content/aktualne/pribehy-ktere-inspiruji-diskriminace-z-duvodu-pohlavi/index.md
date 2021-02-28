@@ -1,5 +1,5 @@
 ---
-title: "Příběhy, které inspirují &ndash; diskriminace z důvodu pohlaví"
+title: "Příběhy, které inspirují – diskriminace z důvodu pohlaví"
 tags:
   - Diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2019/pribehy-ktere-inspiruji-diskriminace-z-duvodu-pohlavi/"

@@ -1,5 +1,5 @@
 ---
-title: "Domovy pro seniory si chtějí zajistit peníze z dědictví klientů &ndash; ombudsman žádá nápravu"
+title: "Domovy pro seniory si chtějí zajistit peníze z dědictví klientů – ombudsman žádá nápravu"
 tags:
   - Tisková zpráva
 oldUrl: "/aktualne/tiskove-zpravy-2007/domovy-pro-seniory-si-chteji-zajistit-penize-z-dedictvi-klientu-ombudsman-zada-napravu"

@@ -1,5 +1,5 @@
 ---
-title: "Možnost zadržených použít v policejní cele sprchu &ndash; zkušenosti ze zahraničí"
+title: "Možnost zadržených použít v policejní cele sprchu – zkušenosti ze zahraničí"
 tags:
   - Detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2012/moznost-zadrzenych-pouzit-v-policejni-cele-sprchu-zkusenosti-ze-zahranici/"

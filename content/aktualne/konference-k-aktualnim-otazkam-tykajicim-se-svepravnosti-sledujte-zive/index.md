@@ -1,5 +1,5 @@
 ---
-title: "Konference k aktuálním otázkám týkajícím se svéprávnosti &ndash; sledujte živě"
+title: "Konference k aktuálním otázkám týkajícím se svéprávnosti – sledujte živě"
 tags:
   - Tisková zpráva
 oldUrl: "/aktualne/tiskove-zpravy-2018/konference-k-aktualnim-otazkam-tykajicim-se-svepravnosti-sledujte-zive"

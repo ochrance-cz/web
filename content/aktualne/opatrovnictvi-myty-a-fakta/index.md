@@ -1,5 +1,5 @@
 ---
-title: "Opatrovnictví &ndash; mýty a fakta"
+title: "Opatrovnictví – mýty a fakta"
 tags:
   - Monitorování
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2020/opatrovnictvi-myty-a-fakta/"

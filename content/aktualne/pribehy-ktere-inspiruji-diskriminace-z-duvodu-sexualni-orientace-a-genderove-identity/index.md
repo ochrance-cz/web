@@ -1,5 +1,5 @@
 ---
-title: "Příběhy, které inspirují &ndash; diskriminace z důvodu sexuální orientace a genderové identity"
+title: "Příběhy, které inspirují – diskriminace z důvodu sexuální orientace a genderové identity"
 tags:
   - Diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2019/pribehy-ktere-inspiruji-diskriminace-z-duvodu-sexualni-orientace-a-genderove-identity/"

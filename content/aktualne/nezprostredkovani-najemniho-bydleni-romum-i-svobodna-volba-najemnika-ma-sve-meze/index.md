@@ -1,5 +1,5 @@
 ---
-title: "Nezprostředkování nájemního bydlení Romům &ndash; i svobodná volba nájemníka má své meze"
+title: "Nezprostředkování nájemního bydlení Romům – i svobodná volba nájemníka má své meze"
 tags:
   - Tisková zpráva
 oldUrl: "/aktualne/tiskove-zpravy-2014/nezprostredkovani-najemniho-bydleni-romum-i-svobodna-volba-najemnika-ma-sve-meze"

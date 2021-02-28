@@ -1,5 +1,5 @@
 ---
-title: "Setkání v regionech &ndash; kdy a kde"
+title: "Setkání v regionech – kdy a kde"
 tags:
   - Monitorování
 oldUrl: "/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2018/setkani-v-regionech-kdy-a-kde/"

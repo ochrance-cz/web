@@ -1,5 +1,5 @@
 ---
-title: "Rozsudek ESLP X. proti Finsku &ndash; Nucené injekční podávání léků"
+title: "Rozsudek ESLP X. proti Finsku – Nucené injekční podávání léků"
 tags:
   - Detence
 oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2012/rozsudek-eslp-x-proti-finsku-nucene-injekcni-podavani-leku/"

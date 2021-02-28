@@ -1,5 +1,5 @@
 ---
-title: "Kauza Vsetín &ndash; vyhodnocení uložených opatření k nápravě"
+title: "Kauza Vsetín – vyhodnocení uložených opatření k nápravě"
 tags:
   - Tisková zpráva
 oldUrl: "/aktualne/tiskove-zpravy-2007/kauza-vsetin-vyhodnoceni-ulozenych-opatreni-k-naprave"

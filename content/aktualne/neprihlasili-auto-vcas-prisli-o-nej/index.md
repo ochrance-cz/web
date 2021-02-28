@@ -1,5 +1,5 @@
 ---
-title: "Nepřihlásili auto včas &ndash; přišli o něj"
+title: "Nepřihlásili auto včas – přišli o něj"
 tags:
   - Tisková zpráva
 oldUrl: "/aktualne/tiskove-zpravy-2016/neprihlasili-auto-vcas-prisli-o-nej"

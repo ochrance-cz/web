@@ -9,4 +9,4 @@ perex: "<p></p>"
 
 <!-- imported from the old website -->
 
-<p>Prezentace k příspěvkům, které zazněly v rámci konference Aktuální problémy vězeňství uspořádané ochráncem 8. listopadu 2012 v Brně, jsou k dispozici na internetu. Najdete je v části Ochrana osob omezených na svobodě &ndash; Z činnosti ombudsmana &ndash; Konference a kulaté stoly, tj. zde.</p>
+<p>Prezentace k příspěvkům, které zazněly v rámci konference Aktuální problémy vězeňství uspořádané ochráncem 8. listopadu 2012 v Brně, jsou k dispozici na internetu. Najdete je v části Ochrana osob omezených na svobodě – Z činnosti ombudsmana – Konference a kulaté stoly, tj. zde.</p>

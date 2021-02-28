@@ -1,5 +1,5 @@
 ---
-title: "Přečtěte si příběhy lidí, kteří čelí diskriminaci &ndash; vyšlo nové číslo European Anti-discrimination Law Review"
+title: "Přečtěte si příběhy lidí, kteří čelí diskriminaci – vyšlo nové číslo European Anti-discrimination Law Review"
 tags:
   - Diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2013/prectete-si-pribehy-lidi-kteri-celi-diskriminaci-vyslo-nove-cislo-european-anti-di/"

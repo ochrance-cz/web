@@ -1,5 +1,5 @@
 ---
-title: "Srpen &ndash; měsíc spinální muskulární (svalové) atrofie"
+title: "Srpen – měsíc spinální muskulární (svalové) atrofie"
 tags:
   - Tisková zpráva
 oldUrl: "/aktualne/tiskove-zpravy-2018/srpen-mesic-spinalni-muskularni-svalove-atrofie-1"

@@ -4,7 +4,7 @@ tags:
   - Diskriminace
 oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2014/potrestano-39-rumunskych-starostu-za-diskriminaci-osob-s-postizenim/"
 date: 2014-07-18
-perex: "<p>Třicet devět rumunských starostů je na základě rozhodnutí rumunského antidiskriminačního  místa (NCCD &ndash; National Council for Combating Discrimination) povinno zaplatit pokutu. Podle zjištění dostatečně nezabezpečili přístupnost dopravních prostředků městské hromadné dopravy tělesně postiženým osobám.</p>"
+perex: "<p>Třicet devět rumunských starostů je na základě rozhodnutí rumunského antidiskriminačního  místa (NCCD – National Council for Combating Discrimination) povinno zaplatit pokutu. Podle zjištění dostatečně nezabezpečili přístupnost dopravních prostředků městské hromadné dopravy tělesně postiženým osobám.</p>"
 ---
 
 <!-- imported from the old website -->

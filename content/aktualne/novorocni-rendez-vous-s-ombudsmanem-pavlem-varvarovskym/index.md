@@ -4,7 +4,7 @@ tags:
   - Tisková zpráva
 oldUrl: "/aktualne/tiskove-zpravy-2010/novorocni-rendez-vous-s-ombudsmanem-pavlem-varvarovskym"
 date: 2010-12-30
-perex: "<p></p><p>Pokud si na Nový rok ve 14.00 hod naladíte Český rozhlas Brno, čeká vás pořad Rendez-vous s Marcelou Vandrovou a jejím hostem &ndash; veřejným ochráncem práv Pavlem Varvařovským.</p>"
+perex: "<p></p><p>Pokud si na Nový rok ve 14.00 hod naladíte Český rozhlas Brno, čeká vás pořad Rendez-vous s Marcelou Vandrovou a jejím hostem – veřejným ochráncem práv Pavlem Varvařovským.</p>"
 ---
 
 <!-- imported from the old website -->

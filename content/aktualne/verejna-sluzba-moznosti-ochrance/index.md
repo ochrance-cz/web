@@ -1,5 +1,5 @@
 ---
-title: "Veřejná služba &ndash; možnosti ochránce"
+title: "Veřejná služba – možnosti ochránce"
 tags:
   - Tisková zpráva
 oldUrl: "/aktualne/tiskove-zpravy-2012/verejna-sluzba-moznosti-ochrance"

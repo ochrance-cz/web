@@ -14,7 +14,7 @@ obecné připomínky (v angl. <i>general
 comments</i>). Tyto připomínky jsou pro výbory OSN užitečnými nástroji při
 podávání výkladů různých právních předpisů, které jsou v úmluvách OSN
 obsaženy. Obecné připomínky jsou v zásadě zaměřeny na uplatňování lidských práv
-držiteli práv, rovněž pomáhají smluvním státům při provádění úmluv &ndash; objasňují
+držiteli práv, rovněž pomáhají smluvním státům při provádění úmluv – objasňují
 působnost různých právních předpisů, což těmto státům pomáhá v jejich
 lepším porozumění při zavádění těchto předpisů do praxe.</span><span style="font-size: 12.8px;"> </span></p>
 

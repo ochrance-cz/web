@@ -1,5 +1,5 @@
 ---
-title: "Zpráva pro poslance &ndash; přibývá podnětů, úspěšných šetření i případů, které si zaslouží pozornost"
+title: "Zpráva pro poslance – přibývá podnětů, úspěšných šetření i případů, které si zaslouží pozornost"
 tags:
   - Tisková zpráva
 oldUrl: "/aktualne/tiskove-zpravy-2015/zprava-pro-poslance-pribyva-podnetu-uspesnych-setreni-i-pripadu-ktere-si-zaslou"
