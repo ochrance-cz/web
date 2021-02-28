@@ -22,4 +22,4 @@ se vícekrát setkala s případy, kdy firmy uhradily platby včas, ty však ne
 připsány do 31. 12., ale až nejbližší pracovní den, tj. 2. 1. Z pohledu zákona
 tím ale firma nesplnila podmínky a o příspěvek za uplynulé čtvrtletí přišla. </span></p>
 
-<p class="MsoNormal"><span lang="CS">Více o tom zde: </span><a href="aktualne/tiskove-zpravy-2019/zamestnavate-lidi-s-postizenim-dejte-si-pozor-na-konec-ctvrtleti/" style="font-size: 12.8px;">https://www.ochrance.cz/aktualne/tiskove-zpravy-2019/zamestnavate-lidi-s-postizenim-dejte-si-pozor-na-konec-ctvrtleti/</a></p>
+<p class="MsoNormal"><span lang="CS">Více o tom zde: </span><a href="aktualne/tiskove-zpravy-2019/zamestnavate-lidi-s-postizenim-dejte-si-pozor-na-konec-ctvrtleti/" style="font-size: 12.8px;">tiskove-zpravy-2019/zamestnavate-lidi-s-postizenim-dejte-si-pozor-na-konec-ctvrtleti/</a></p>
