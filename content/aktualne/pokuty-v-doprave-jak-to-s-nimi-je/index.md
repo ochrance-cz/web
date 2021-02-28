@@ -1,6 +1,8 @@
 ---
 title: "Pokuty v dopravě – jak to s nimi je"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2011/pokuty-v-doprave-jak-to-s-nimi-je"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2011/pokuty-v-doprave-jak-to-s-nimi-je"
 date: 2011-11-11
 perex: "<p></p><p>Vysvětlení některých nejasností týkajících se ukládání blokových pokut za dopravní přestupky, nápravy nesprávného pokutování městskou policií a zákazu řízení.</p>"
 ---

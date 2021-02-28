@@ -1,6 +1,8 @@
 ---
 title: "Přiznání podpory v nezaměstnanosti už neohrožuje nepoctivost zaměstnavatele"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2013/priznani-podpory-v-nezamestnanosti-uz-neohrozuje-nepoctivost-zamestnavatele"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2013/priznani-podpory-v-nezamestnanosti-uz-neohrozuje-nepoctivost-zamestnavatele"
 date: 2013-05-23
 perex: "<p>Nesplní-li zaměstnavatel svou povinnost odvést za zaměstnance pojistné, nemůže to jít k tíži zaměstnanci, který pak na úřadu práce žádá o podporu v nezaměstnanosti. Dobou důchodového pojištění je i ta, kdy zaměstnanec pojistné zaplatil, ale zaměstnavatel ho neodvedl. </p>"
 ---

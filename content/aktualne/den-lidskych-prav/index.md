@@ -1,6 +1,8 @@
 ---
 title: "Den lidských práv"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2015/den-lidskych-prav"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2015/den-lidskych-prav"
 date: 2015-12-10
 perex: "<p></p>"
 ---

@@ -1,6 +1,8 @@
 ---
 title: "Případ pro ombudsmanku: Týrání zvířat"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2019/pripad-pro-ombudsmanku-tyrani-zvirat"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2019/pripad-pro-ombudsmanku-tyrani-zvirat"
 date: 2019-05-03
 perex: "<p>Další díl pořadu Případ pro ombudsmanku, který vysílá ČT 2 v neděli 5. 5. je trochu jiný, protože předmětem ochrany jsou zvířata. Lidé v těchto případech vystupují obvykle jako ti, kdo začali chovat zvířata obvykle s dobrým úmyslem, ale chov nezvládli, nebo při něm porušují zákony. Ve výsledku trpí právě chovaná zvířata. Lidé se často ptají, jestli tomu nešlo zabránit, co mají dělat, když ve svém okolí na takového chovatele narazí.</p>"
 ---

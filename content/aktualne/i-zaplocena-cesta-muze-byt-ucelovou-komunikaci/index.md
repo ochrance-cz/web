@@ -1,6 +1,8 @@
 ---
 title: "I zaplocená cesta může být účelovou komunikací"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2014/i-zaplocena-cesta-muze-byt-ucelovou-komunikaci"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2014/i-zaplocena-cesta-muze-byt-ucelovou-komunikaci"
 date: 2014-07-10
 perex: "<p>Nezrušitelný územní souhlas se stavbou oplocení vydaný stavebním úřadem nemá vliv na povinnost silničního správního úřadu nezávisle posoudit, jestli se oplocení nachází na veřejné pozemní komunikaci.</p>"
 ---

@@ -1,6 +1,8 @@
 ---
 title: "Ombudsman vyzval ministra k úpravě podmínek ošetřovného pro OSVČ"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2020/ombudsman-vyzval-ministra-k-uprave-podminek-osetrovneho-pro-osvc"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2020/ombudsman-vyzval-ministra-k-uprave-podminek-osetrovneho-pro-osvc"
 date: 2020-05-26
 perex: "<p>„Ošetřovné“ pro OSVČ poskytované Ministerstvem průmyslu a obchodu má být obdobou ošetřovného poskytovaného zaměstnancům. Stejně jako ošetřovné pro zaměstnance by tedy ani ošetřovné pro OSVČ nemělo být ovlivněno exekucí, jinak by popíralo svůj účel. Ombudsman na to upozornil ministra průmyslu a obchodu a doporučil mu podmínky ošetřovného pro OSVČ upravit.</p>"
 ---

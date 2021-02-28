@@ -1,6 +1,8 @@
 ---
 title: "Cesta ke společnému vzdělávání romských a neromských dětí"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2018/cesta-ke-spolecnemu-vzdelavani-romskych-a-neromskych-deti"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2018/cesta-ke-spolecnemu-vzdelavani-romskych-a-neromskych-deti"
 date: 2018-12-12
 perex: "<p>Kancelář ombudsmanky v letošním roce realizovala výzkum, v němž zjišťovala problémy škol, které mají zkušenost se vzděláváním romských žáků, jsou otevřené společnému vzdělávání nebo se snaží poskytovat kvalitní vzdělání všem bez ohledu na etnicitu. Na základě tohoto výzkumu ombudsmanka připravila sérii doporučení jednotlivým aktérům, kteří mohou zlepšit situaci romských dětí v českém vzdělávacím systému.</p>"
 ---

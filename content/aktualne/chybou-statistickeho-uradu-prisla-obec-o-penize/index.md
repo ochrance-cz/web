@@ -1,6 +1,8 @@
 ---
 title: "Chybou statistického úřadu přišla obec o peníze"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2009/chybou-statistickeho-uradu-prisla-obec-o-penize"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2009/chybou-statistickeho-uradu-prisla-obec-o-penize"
 date: 2009-09-16
 perex: "<p></p><p>Kvůli chybě Českého statistického úřadu přišla obec Kuřimská Nová Ves (okr. Brno-venkov) o nemalou částku z finančních prostředků státu. Český statistický úřad totiž nesprávně vykazoval počet obyvatel v obci a kvůli tomu byla Kuřimská Nová Ves poškozena při výpočtu podílu obce na výnosu daně z přidané hodnoty a daní z příjmu. Ochránce proto navrhl, aby Český statistický úřad poskytl obci náhradu škody podle zákona č. 82/1998 Sb., o odpovědnosti za škodu způsobenou při výkonu veřejné moci rozhodnutím nebo nesprávným úředním postupem, pokud obec nárok na náhradu škody uplatní. Český statistický úřad neuznává svou odpovědnost za chybně sestavenou bilanci obyvatel a neakceptuje ani návrh na náhradu způsobené škody. <span style=\"FONT-WEIGHT: bold\">Ochránce se proto rozhodl využít svého zákonného oprávnění použít medializaci jako formu sankce a informovat veřejnost o svých zjištěních.</span></p>"
 ---

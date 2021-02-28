@@ -1,6 +1,8 @@
 ---
 title: "K provozu střelnice nestačí povolení stavebního úřadu"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2018/k-provozu-strelnice-nestaci-povoleni-stavebniho-uradu"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2018/k-provozu-strelnice-nestaci-povoleni-stavebniho-uradu"
 date: 2018-10-16
 perex: "<p>Provozovatel nemůže rozšiřovat provoz sportovní střelnice např. o střelbu z jiných typů zbraní, i kdyby k tomu měl souhlas Policie ČR. Střelnici je možné užívat jen tak, jak je uvedeno např. v kolaudačním rozhodnutí nebo kolaudačním souhlasu vydaném stavebním úřadem. Přesto přibývá stížností lidí na nelegální provoz střelnic.</p>"
 ---

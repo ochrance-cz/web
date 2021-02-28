@@ -1,6 +1,8 @@
 ---
 title: "Památky bez bariér"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2014/pamatky-bez-barier"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2014/pamatky-bez-barier"
 date: 2014-04-08
 perex: "<p></p>"
 ---

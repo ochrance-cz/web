@@ -1,6 +1,8 @@
 ---
 title: "Počet stížností na nový systém DOcházky NEZaměstnaných roste"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2012/pocet-stiznosti-na-novy-system-dochazky-nezamestnanych-roste"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2012/pocet-stiznosti-na-novy-system-dochazky-nezamestnanych-roste"
 date: 2012-01-19
 perex: "<p></p><p>Od listopadu, kdy byl systém DONEZ (Docházka nezaměstnaných) spuštěn, obrací se na ochránce občané se stížnostmi na vysoké výdaje na dopravu, které s ohledem na svoji aktuální finanční a sociální situaci nejsou schopni hradit</p>"
 ---

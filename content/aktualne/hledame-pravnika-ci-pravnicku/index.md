@@ -1,6 +1,8 @@
 ---
 title: "Hledáme právníka či právničku"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2014/hledame-pravnika-ci-pravnicku"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2014/hledame-pravnika-ci-pravnicku"
 date: 2014-09-19
 perex: "<p></p>"
 ---

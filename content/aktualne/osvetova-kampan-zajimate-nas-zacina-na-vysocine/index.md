@@ -1,6 +1,8 @@
 ---
 title: "Osvětová kampaň „Zajímáte nás“ začíná na Vysočině"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2014/osvetova-kampan-zajimate-nas-zacina-na-vysocine"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2014/osvetova-kampan-zajimate-nas-zacina-na-vysocine"
 date: 2014-09-19
 perex: "<p>Návštěvou Kraje Vysočina 2. října 2014 zahájí veřejná ochránkyně práv Anna Šabatová  osvětovou kampaň v regionech s cílem zvýšit povědomí lidí o jejich právech, o působnosti veřejného ochránce práv a o tom, v čem jim může pomoci. Návštěvy mohou zájemci využít i k podání podnětu ochránkyni.</p>"
 ---

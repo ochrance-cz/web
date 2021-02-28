@@ -1,6 +1,8 @@
 ---
 title: "Spolupráce ombudsmana s advokáty ve věcech diskriminace slaví první úspěch"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2013/spoluprace-ombudsmana-s-advokaty-ve-vecech-diskriminace-slavi-prvni-uspech"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2013/spoluprace-ombudsmana-s-advokaty-ve-vecech-diskriminace-slavi-prvni-uspech"
 date: 2013-04-10
 perex: "<p>Hned první případ diskriminace, který od veřejného ochránce práv převzali advokáti zapojení do projektu pro bono centrum skončil ukončením diskriminačního jednání a omluvou oběti diskriminace.</p>"
 ---

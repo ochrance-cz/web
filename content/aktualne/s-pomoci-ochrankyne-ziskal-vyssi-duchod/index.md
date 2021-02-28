@@ -1,6 +1,8 @@
 ---
 title: "S pomocí ochránkyně získal vyšší důchod"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2015/s-pomoci-ochrankyne-ziskal-vyssi-duchod"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2015/s-pomoci-ochrankyne-ziskal-vyssi-duchod"
 date: 2015-11-13
 perex: "<p>Senior, který se na ochránkyni obrátil s prosbou o prověření výše svého důchodu, se do dvou měsíců dočkal jeho zvýšení a doplatku rozdílu za téměř 10 let zpětně.</p>"
 ---

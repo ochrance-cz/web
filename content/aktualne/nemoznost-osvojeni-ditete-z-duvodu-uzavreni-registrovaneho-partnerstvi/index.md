@@ -1,6 +1,8 @@
 ---
 title: "Nemožnost osvojení dítěte z důvodu uzavření registrovaného partnerství"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2014/nemoznost-osvojeni-ditete-z-duvodu-uzavreni-registrovaneho-partnerstvi"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2014/nemoznost-osvojeni-ditete-z-duvodu-uzavreni-registrovaneho-partnerstvi"
 date: 2014-07-31
 perex: "<p>V rámci pravidelné zprávy Poslanecké sněmovně o činnosti za 2. čtvrtletí informovala veřejná ochránkyně práv o případu zamítnutí žádosti muže žijícího v registrovaném partnerství o zařazení do databáze potencionálních osvojitelů.</p>"
 ---

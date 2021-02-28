@@ -1,6 +1,8 @@
 ---
 title: "Nakládání se zdravotnickou dokumentací v souvislosti se změnou ošetřujícího lékaře či ukončením činnosti zdravotnického zařízení"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2010/nakladani-se-zdravotnickou-dokumentaci-v-souvislosti-se-zmenou-osetrujiciho-lekare-ci-uk"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2010/nakladani-se-zdravotnickou-dokumentaci-v-souvislosti-se-zmenou-osetrujiciho-lekare-ci-uk"
 date: 2010-12-08
 perex: "<p></p>"
 ---

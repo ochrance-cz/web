@@ -1,6 +1,8 @@
 ---
 title: "Výsledek maturitní zkoušky může přezkoumat soud"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2012/vysledek-maturitni-zkousky-muze-prezkoumat-soud"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2012/vysledek-maturitni-zkousky-muze-prezkoumat-soud"
 date: 2012-07-19
 perex: "<p></p><p>Maturanti, kteří nesouhlasí s rozhodnutím krajského úřadu či ministerstva po přezkoumání výsledku své maturitní zkoušky, se mohou obrátit na správní soud. Veřejný ochránce práv nemá pravomoc změnit rozhodnutí správních orgánů, může pouze prověřit, zda úřady postupovaly v souladu se zákony a principy dobré správy.</p>"
 ---

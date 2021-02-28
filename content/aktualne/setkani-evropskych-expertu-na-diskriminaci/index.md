@@ -1,6 +1,8 @@
 ---
 title: "Setkání evropských expertů na diskriminaci"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2012/setkani-evropskych-expertu-na-diskriminaci"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2012/setkani-evropskych-expertu-na-diskriminaci"
 date: 2012-10-19
 perex: "<p>Na pozvání veřejného ochránce práv dnes v Brně jedná pracovní skupina Equality Law in Practice evropské sítě antidiskriminačních míst EQUINET, jejímž je ombudsman rovněž členem. Cílem jednání je sdílet evropské zkušenosti z řešení konkrétních případů z oblasti ochrany před diskriminací.</p>"
 ---

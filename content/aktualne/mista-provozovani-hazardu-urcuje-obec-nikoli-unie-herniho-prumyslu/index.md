@@ -1,6 +1,8 @@
 ---
 title: "Místa provozování hazardu určuje obec, nikoli Unie herního průmyslu"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2016/mista-provozovani-hazardu-urcuje-obec-nikoli-unie-herniho-prumyslu"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2016/mista-provozovani-hazardu-urcuje-obec-nikoli-unie-herniho-prumyslu"
 date: 2016-05-02
 perex: "<p>Veřejná ochránkyně práv se zabývala zákonností obecně závazné vyhlášky města Karlovy Vary týkající se regulace hazardu. Zjistila, že město neurčilo místa, na nichž má být hazard povolen, ale výběr ponechalo na Unii herního průmyslu. Takový proces přijímání právního předpisu je podle ochránkyně nepřijatelný. Ministerstvo vnitra na základě jejích závěrů předalo věc k šetření Úřadu pro ochranu hospodářské soutěže. Ochránkyně na tento případ upozornila i Poslaneckou sněmovnu v rámci své zprávy o činnosti v 1. čtvrtletí 2016.</p>"
 ---

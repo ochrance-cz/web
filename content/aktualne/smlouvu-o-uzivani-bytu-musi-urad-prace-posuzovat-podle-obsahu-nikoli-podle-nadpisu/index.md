@@ -1,6 +1,8 @@
 ---
 title: "Smlouvu o užívání bytu musí úřad práce posuzovat podle obsahu, nikoli podle nadpisu"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2014/smlouvu-o-uzivani-bytu-musi-urad-prace-posuzovat-podle-obsahu-nikoli-podle-nadpisu"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2014/smlouvu-o-uzivani-bytu-musi-urad-prace-posuzovat-podle-obsahu-nikoli-podle-nadpisu"
 date: 2014-12-18
 perex: "<p>Úřad práce je při rozhodování o žádosti o doplatek na bydlení povinen posoudit předloženou smlouvu o užívání bytu podle obsahu, nikoli podle označení. Pokud žadatel o doplatek na bydlení předloží smlouvu sice označenou jako podnájemní, ale podle obsahu jde o smlouvu nájemní, úřad práce by na ni měl nahlížet jako na smlouvu o nájmu bytu, tedy jako na splnění jedné z podmínek pro přiznání nároku na dávku.</p>"
 ---

@@ -1,6 +1,8 @@
 ---
 title: "Milionový doplatek důchodu"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2014/milionovy-doplatek-duchodu"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2014/milionovy-doplatek-duchodu"
 date: 2014-05-29
 perex: "<p>Mimořádně vysoké částky zpětně doplaceného důchodu se díky veřejnému ochránci práv dočkala stěžovatelka původem z bývalého státu Sovětského svazu, trvale žijící v České republice. </p>"
 ---

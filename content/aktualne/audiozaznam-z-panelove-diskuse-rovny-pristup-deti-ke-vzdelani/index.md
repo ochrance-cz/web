@@ -1,6 +1,8 @@
 ---
 title: "Audiozáznam z panelové diskuse „Rovný přístup dětí ke vzdělání“"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2012/audiozaznam-z-panelove-diskuse-rovny-pristup-deti-ke-vzdelani"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2012/audiozaznam-z-panelove-diskuse-rovny-pristup-deti-ke-vzdelani"
 date: 2012-09-25
 perex: "<p>Ministerstvo školství, mládeže a tělovýchovy ve spolupráci s vládní zmocněnkyní pro lidská práva a veřejným ochráncem práv uspořádalo dne 20. září 2012 v Praze panelovou diskuzi „Rovný přístup dětí ke vzdělání“. </p>"
 ---

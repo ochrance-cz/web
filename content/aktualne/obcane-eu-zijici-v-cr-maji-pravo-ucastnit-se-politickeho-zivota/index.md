@@ -1,6 +1,8 @@
 ---
 title: "Občané EU žijící v ČR mají právo účastnit se politického života"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2014/obcane-eu-zijici-v-cr-maji-pravo-ucastnit-se-politickeho-zivota"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2014/obcane-eu-zijici-v-cr-maji-pravo-ucastnit-se-politickeho-zivota"
 date: 2014-07-23
 perex: "<p></p>"
 ---

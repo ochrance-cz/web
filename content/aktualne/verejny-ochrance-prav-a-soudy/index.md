@@ -1,6 +1,8 @@
 ---
 title: "Veřejný ochránce práv a soudy"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2006/verejny-ochrance-prav-a-soudy"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2006/verejny-ochrance-prav-a-soudy"
 date: 2006-12-08
 perex: "<p></p>"
 ---

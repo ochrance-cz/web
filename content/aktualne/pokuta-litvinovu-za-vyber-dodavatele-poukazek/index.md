@@ -1,6 +1,8 @@
 ---
 title: "Pokuta Litvínovu za výběr dodavatele poukázek"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2008/pokuta-litvinovu-za-vyber-dodavatele-poukazek"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2008/pokuta-litvinovu-za-vyber-dodavatele-poukazek"
 date: 2008-11-26
 perex: "<p></p>"
 ---

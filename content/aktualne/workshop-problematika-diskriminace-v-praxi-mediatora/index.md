@@ -1,6 +1,8 @@
 ---
 title: "Workshop „Problematika diskriminace v praxi mediátora“"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2013/workshop-problematika-diskriminace-v-praxi-mediatora"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2013/workshop-problematika-diskriminace-v-praxi-mediatora"
 date: 2013-11-19
 perex: "<p></p>"
 ---

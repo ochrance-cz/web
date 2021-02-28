@@ -1,6 +1,8 @@
 ---
 title: "Konference v Senátu o působení ochránce ve vztahu k lidským právům a svobodám"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2011/konference-v-senatu-o-pusobeni-ochrance-ve-vztahu-k-lidskym-pravum-a-svobodam"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2011/konference-v-senatu-o-pusobeni-ochrance-ve-vztahu-k-lidskym-pravum-a-svobodam"
 date: 2011-11-15
 perex: "<p></p>"
 ---

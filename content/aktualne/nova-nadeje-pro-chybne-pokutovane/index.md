@@ -1,6 +1,8 @@
 ---
 title: "Nová naděje pro chybně pokutované"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2008/nova-nadeje-pro-chybne-pokutovane"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2008/nova-nadeje-pro-chybne-pokutovane"
 date: 2008-03-05
 perex: "<p></p>"
 ---

@@ -1,6 +1,8 @@
 ---
 title: "Úřady svými průtahy upřely právo stěžovatelům při posuzování nepovolené stavby"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2020/urady-svymi-prutahy-uprely-pravo-stezovatelum-pri-posuzovani-nepovolene-stavby"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2020/urady-svymi-prutahy-uprely-pravo-stezovatelum-pri-posuzovani-nepovolene-stavby"
 date: 2020-08-27
 perex: "<p>Stavební úřad Úvaly a Krajský úřad Středočeského kraje při řešení nepovolené stavby pochybily. Dovodily, že není třeba přihlížet k aktuálnímu územnímu plánu a vztáhly na stavbu hromadné územní rozhodnutí z roku 1998, které však pro tento konkrétní případ již nebylo možné využít. Svými průtahy v řízeních pak úřady znemožnily, aby právní otázku použitelnosti plně nevyužitých územních rozhodnutí pro případné budoucí změny staveb posoudilo ministerstvo a jejich názor na problém usměrnilo.</p>"
 ---

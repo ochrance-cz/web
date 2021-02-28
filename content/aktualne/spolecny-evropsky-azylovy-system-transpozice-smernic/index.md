@@ -1,6 +1,8 @@
 ---
 title: "Společný evropský azylový systém: transpozice směrnic"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2008/spolecny-evropsky-azylovy-system-transpozice-smernic"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2008/spolecny-evropsky-azylovy-system-transpozice-smernic"
 date: 2008-07-25
 perex: "<p></p>"
 ---

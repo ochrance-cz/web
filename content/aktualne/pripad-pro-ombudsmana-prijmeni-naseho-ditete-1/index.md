@@ -1,6 +1,8 @@
 ---
 title: "Případ pro ombudsmana: Příjmení našeho dítěte"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2010/pripad-pro-ombudsmana-prijmeni-naseho-ditete-1"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2010/pripad-pro-ombudsmana-prijmeni-naseho-ditete-1"
 date: 2010-09-21
 perex: "<p></p><p>V pátek 24. 9. vysílá Česká televize na ČT1 v 18:25 čtvrtý díl cyklu Případ pro ombudsmana (repríze v pondělí 27. 9. ve 12:25 na ČT2). V dílu nazvaném Příjmení našeho dítěte ochránce řešil potíže nesezdaného páru, který chtěl, aby dcera měla příjmení po matce a syn po otci. </p>"
 ---

@@ -1,6 +1,8 @@
 ---
 title: "Sborník Stanoviska: Důchody"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2009/sbornik-stanoviska-duchody"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2009/sbornik-stanoviska-duchody"
 date: 2009-03-11
 perex: "<p></p><p>Ochránce v těchto dnech vydal již čtvrtý sborník z řady Stanoviska, tentokrát zaměřený na problematiku důchodového pojištění. Jde o jednu z nejpočetněji zastoupených oblastí práva, v níž se na ochránce občané obracejí, což je dáno i tím, že rozhodování o důchodu je jedním z mála správních řízení, kterým v určité fázi života projde prakticky každý.</p>"
 ---

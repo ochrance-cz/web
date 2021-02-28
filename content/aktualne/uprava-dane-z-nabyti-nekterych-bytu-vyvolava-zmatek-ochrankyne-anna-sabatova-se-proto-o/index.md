@@ -1,6 +1,8 @@
 ---
 title: "Úprava daně z nabytí některých bytů vyvolává zmatek. Ochránkyně Anna Šabatová se proto obrací s návrhem řešení na ministra financí a Generální finanční ředitelství"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2017/uprava-dane-z-nabyti-nekterych-bytu-vyvolava-zmatek-ochrankyne-anna-sabatova-se-proto-o"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2017/uprava-dane-z-nabyti-nekterych-bytu-vyvolava-zmatek-ochrankyne-anna-sabatova-se-proto-o"
 date: 2017-06-15
 perex: "<p>Když si někdo koupí nový rodinný dům nebo nový byt v bytovém domě, je osvobozen od daně z nabytí nemovitosti. Pokud si však od 1. ledna 2014 koupil nový byt v rodinném domě, finanční úřad osvobození neuzná, protože v zákoně nejsou oproti dřívější době výslovně osvobozeny „bytové jednotky v rodinných domech“. V letošním roce se totiž Finanční správa přiklonila k doslovnému výkladu zákona a daň včetně úroků požaduje i zpětně – tedy od 1. ledna 2014. Podle veřejné ochránkyně práv se může jednat o nedůvodné znevýhodnění určité skupiny vlastníků a o nezamýšlenou mezeru v zákoně. Ochránkyně navrhuje ministru financí několik možností, jak absurdní situaci vyřešit. Reaguje tím na podněty a dotazy občanů.</p>"
 ---

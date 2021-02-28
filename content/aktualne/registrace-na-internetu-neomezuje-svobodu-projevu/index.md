@@ -1,6 +1,8 @@
 ---
 title: "Registrace na internetu neomezuje svobodu projevu"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2008/registrace-na-internetu-neomezuje-svobodu-projevu"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2008/registrace-na-internetu-neomezuje-svobodu-projevu"
 date: 2008-03-06
 perex: "<p></p>"
 ---

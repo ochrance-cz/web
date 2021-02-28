@@ -1,6 +1,8 @@
 ---
 title: "Seriál Ochránce – 14. díl – Obchodní rejstřík"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2012/serial-ochrance-14-dil-obchodni-rejstrik"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2012/serial-ochrance-14-dil-obchodni-rejstrik"
 date: 2012-12-06
 perex: "<p>V neděli 9. 12. v 11:00h vysílá ČT2 14. díl pořadu Ochránce, tentokrát o pracovněprávních vztazích a činnosti inspektorátů práce. Reprízu dílu uvidíte na ČT2 v úterý 11. 12. v 9:05h.</p>"
 ---

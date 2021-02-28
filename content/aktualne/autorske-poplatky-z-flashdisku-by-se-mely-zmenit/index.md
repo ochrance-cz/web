@@ -1,6 +1,8 @@
 ---
 title: "Autorské poplatky z flashdisků by se měly změnit"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2008/autorske-poplatky-z-flashdisku-by-se-mely-zmenit"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2008/autorske-poplatky-z-flashdisku-by-se-mely-zmenit"
 date: 2008-09-01
 perex: "<p></p>"
 ---

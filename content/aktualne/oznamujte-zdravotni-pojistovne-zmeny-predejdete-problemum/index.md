@@ -1,6 +1,8 @@
 ---
 title: "Oznamujte zdravotní pojišťovně změny, předejdete problémům"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2016/oznamujte-zdravotni-pojistovne-zmeny-predejdete-problemum"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2016/oznamujte-zdravotni-pojistovne-zmeny-predejdete-problemum"
 date: 2016-05-19
 perex: "<p>Každý s trvalým pobytem v České republice se účastní veřejného zdravotního pojištění a s tím se pojí i povinnost platit pojistné. V určitých životních situacích je plátcem pojištění stát. Aby však stát za pojištěnce platil, musí nejprve proběhnout řetězec oznámení, na jehož počátku přitom zpravidla stojí sám pojištěnec. Pokud on sám aktivně neoznámí pojišťovně změny, riskuje vznik dluhu na pojistném.</p>"
 ---

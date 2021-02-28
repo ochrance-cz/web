@@ -1,6 +1,8 @@
 ---
 title: "Návštěva Výboru pro ústavní legislativu, právní a soudní otázky Ruské federace"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2013/navsteva-vyboru-pro-ustavni-legislativu-pravni-a-soudni-otazky-ruske-federace"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2013/navsteva-vyboru-pro-ustavni-legislativu-pravni-a-soudni-otazky-ruske-federace"
 date: 2013-05-14
 perex: "<p></p>"
 ---

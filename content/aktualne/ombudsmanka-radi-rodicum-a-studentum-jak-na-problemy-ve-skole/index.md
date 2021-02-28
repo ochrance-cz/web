@@ -1,6 +1,8 @@
 ---
 title: "Ombudsmanka radí rodičům a studentům, jak na problémy ve škole"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2017/ombudsmanka-radi-rodicum-a-studentum-jak-na-problemy-ve-skole"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2017/ombudsmanka-radi-rodicum-a-studentum-jak-na-problemy-ve-skole"
 date: 2017-09-04
 perex: "<p></p>"
 ---

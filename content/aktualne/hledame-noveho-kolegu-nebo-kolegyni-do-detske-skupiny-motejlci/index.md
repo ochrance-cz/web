@@ -1,6 +1,8 @@
 ---
 title: "Hledáme nového kolegu nebo kolegyni do dětské skupiny Motejlci"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2018/hledame-noveho-kolegu-nebo-kolegyni-do-detske-skupiny-motejlci"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2018/hledame-noveho-kolegu-nebo-kolegyni-do-detske-skupiny-motejlci"
 date: 2018-02-12
 perex: "<p></p>"
 ---

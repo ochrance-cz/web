@@ -1,6 +1,8 @@
 ---
 title: "Ombudsmanka pomohla matce, jejíž dítě mělo těžké zdravotní postižení"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2019/ombudsmanka-pomohla-matce-jejiz-dite-melo-tezke-zdravotni-postizeni"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2019/ombudsmanka-pomohla-matce-jejiz-dite-melo-tezke-zdravotni-postizeni"
 date: 2019-04-05
 perex: "<p>Ženě se narodil syn s těžkým zdravotním postižením. Prodělal několik náročných operací a po dobu následujících měsíců musel zůstat v nemocnici. Postupně se však jeho stav zlepšil a stabilizoval natolik, že mohl být propuštěn do domácí péče. Tady však nastal problém. Aby mohl být propuštěn z nemocnice, musel být předán do péče pediatra. Žádný pediatr se ho však nechtěl ujmout. Matka se postupně obracela na dětské lékaře v blízkém i vzdáleném okolí, ale všichni jejího syna odmítali. Ten tak musel dále zůstávat sám v nemocnici a nemohl jít domů. Matka měla podezření, že se stala obětí diskriminace. Obrátila se na ombudsmanku, která jí dokázala pomoci. Dnes je se svým synem konečně doma. </p>"
 ---

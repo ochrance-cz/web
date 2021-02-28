@@ -1,6 +1,8 @@
 ---
 title: "Změny v rodičovském příspěvku"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2018/zmeny-v-rodicovskem-prispevku"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2018/zmeny-v-rodicovskem-prispevku"
 date: 2018-01-08
 perex: "<p>Od 1. ledna se změnily podmínky pro čerpání rodičovského příspěvku. Některé změny iniciovala ombudsmanka na základě svých poznatků z praxe. Nejdůležitější změnou je možnost rodičů čerpat rodičovský příspěvek až ve výši 7 600 Kč měsíčně.</p>"
 ---

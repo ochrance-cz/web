@@ -1,6 +1,8 @@
 ---
 title: "Nerovné postavení cizinců nemusí být diskriminací, přesto vyžaduje řešení"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2010/nerovne-postaveni-cizincu-nemusi-byt-diskriminaci-presto-vyzaduje-reseni"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2010/nerovne-postaveni-cizincu-nemusi-byt-diskriminaci-presto-vyzaduje-reseni"
 date: 2010-07-21
 perex: "<p></p><p>Postavení cizince na území hostitelského státu není nikdy zcela shodné s právním postavením občana. Z činnosti veřejného ochránce práv vyplývá, že v některých právních vztazích se cizinec, občan třetí země, dostává do nerovného postavení, ačkoli ne vždy je tato nerovnost oprávněná či opodstatněná. </p>"
 ---

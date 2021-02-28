@@ -1,6 +1,8 @@
 ---
 title: "Datum početí dítěte může ovlivnit, jestli má matka nárok na mateřskou"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2016/datum-poceti-ditete-muze-ovlivnit-jestli-ma-matka-narok-na-materskou"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2016/datum-poceti-ditete-muze-ovlivnit-jestli-ma-matka-narok-na-materskou"
 date: 2016-05-12
 perex: "<p>Neobvyklý případ s úspěšným koncem řešila veřejná ochránkyně práv na základě podnětu ženy z jižních Čech. Jen díky přesnějšímu určení data početí dítěte se totiž podařilo zajistit ženě nárok na peněžitou pomoc v mateřství.</p>"
 ---

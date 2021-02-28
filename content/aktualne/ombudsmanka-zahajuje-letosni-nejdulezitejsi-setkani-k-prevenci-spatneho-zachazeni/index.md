@@ -1,6 +1,8 @@
 ---
 title: "Ombudsmanka zahajuje letošní nejdůležitější setkání k prevenci špatného zacházení"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2017/ombudsmanka-zahajuje-letosni-nejdulezitejsi-setkani-k-prevenci-spatneho-zachazeni"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2017/ombudsmanka-zahajuje-letosni-nejdulezitejsi-setkani-k-prevenci-spatneho-zachazeni"
 date: 2017-11-14
 perex: "<p>14. – 15. 11. 2017 se v Praze koná nejvýznamnější setkání zástupců evropských národních preventivních mechanismů, tj. institucí, které systematicky dohlížejí na práva lidí v psychiatrických léčebnách, věznicích, dětských domovech, LDN, zařízeních pro seniory, policejních celách a jiných zařízeních, kde dochází k omezení svobody. Evropské NPM fórum pořádá ve spolupráci s českou ombudsmankou Rada Evropy a Evropská unie. </p>"
 ---

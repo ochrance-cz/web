@@ -1,6 +1,8 @@
 ---
 title: "Za problémy s registrem vozidel mohou lidé požadovat přiměřené zadostiučinění"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2012/za-problemy-s-registrem-vozidel-mohou-lide-pozadovat-primerene-zadostiucineni"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2012/za-problemy-s-registrem-vozidel-mohou-lide-pozadovat-primerene-zadostiucineni"
 date: 2012-07-20
 perex: "<p>Za problémy způsobené nefungujícím Centrálním registrem vozidel mohou lidé po ministerstvu požadovat nejen náhradu škody (musí ji vyčíslit a prokázat), ale také přiměřené zadostiučinění za vzniklou nemajetkovou újmu (nemohli odjet na dovolenou, byli vystaveni stresu a nejistotě apod.).</p>"
 ---

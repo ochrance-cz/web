@@ -1,6 +1,8 @@
 ---
 title: "Ombudsmanka zahajuje šetření zateplení školy v Kamenných Žehrovicích"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2017/ombudsmanka-zahajuje-setreni-zatepleni-skoly-v-kamennych-zehrovicich"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2017/ombudsmanka-zahajuje-setreni-zatepleni-skoly-v-kamennych-zehrovicich"
 date: 2017-08-30
 perex: "<p>Na základě zpráv z médií a zvýšeného zájmu veřejnosti se ombudsmanka rozhodla prošetřit okolnosti rekonstrukce školy v Kamenných Žehrovicích, během které došlo k zásadní změně vzhledu více než stoleté budovy. Šetření se nebude věnovat krokům vedení školy ani vedení města, neboť tyto kroky ombudsmance nepřísluší hodnotit. Cílem šetření je pouze ověřit, zda příslušný stavební úřad postupoval v mezích platných stavebních předpisů.</p>"
 ---

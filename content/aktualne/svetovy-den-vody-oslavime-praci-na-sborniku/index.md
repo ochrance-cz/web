@@ -1,6 +1,8 @@
 ---
 title: "Světový den vody oslavíme prací na sborníku"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2015/svetovy-den-vody-oslavime-praci-na-sborniku"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2015/svetovy-den-vody-oslavime-praci-na-sborniku"
 date: 2015-03-20
 perex: "<p>Už od roku 1993 připadá na 22. březen Světový den vody. Voda je totiž neodmyslitelnou součástí našeho života, podmínkou přežití a fungování každého živého organismu. Veřejná ochránkyně práv, její zástupce a kolektiv právníků z oddělení stavebního řádu oslaví den vody prací na sborníku stanovisek „Ochrana vod“.</p>"
 ---

@@ -1,6 +1,8 @@
 ---
 title: "Rok 2017 v činnosti ombudsmanky"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2018/rok-2017-v-cinnosti-ombudsmanky"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2018/rok-2017-v-cinnosti-ombudsmanky"
 date: 2018-04-10
 perex: "<p>V roce 2017 jsme obdrželi 8 191 podnětů a vyřídili jich 8 266. Provedli jsme návštěvu 22 zařízení, v nichž jsou lidé omezeni na svobodě. Vzrostl počet podnětů v působnosti, tedy těch, kterými jsme se mohli zabývat a mohli lidem pomoci s řešením jejich problémů. Historicky jich bylo nejvíc – 68 %, tj. 5 600 podnětů.</p>"
 ---

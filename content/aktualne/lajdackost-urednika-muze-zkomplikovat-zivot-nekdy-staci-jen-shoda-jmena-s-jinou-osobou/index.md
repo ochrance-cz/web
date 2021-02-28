@@ -1,6 +1,8 @@
 ---
 title: "Lajdáckost úředníka může zkomplikovat život. Někdy stačí jen shoda jména s jinou osobou"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2019/lajdackost-urednika-muze-zkomplikovat-zivot-nekdy-staci-jen-shoda-jmena-s-jinou-osobou"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2019/lajdackost-urednika-muze-zkomplikovat-zivot-nekdy-staci-jen-shoda-jmena-s-jinou-osobou"
 date: 2019-12-11
 perex: "<p>Úředníci ne vždy pečlivě ověří údaje o osobách, nevyužívají k tomu základní registr obyvatel, takže snadno dojde k záměně. Lidé se proti takové nedbalosti musí bránit stížností.</p>"
 ---

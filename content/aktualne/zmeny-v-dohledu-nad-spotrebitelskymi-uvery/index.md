@@ -1,6 +1,8 @@
 ---
 title: "Změny v dohledu nad spotřebitelskými úvěry"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2018/zmeny-v-dohledu-nad-spotrebitelskymi-uvery"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2018/zmeny-v-dohledu-nad-spotrebitelskymi-uvery"
 date: 2018-06-07
 perex: "<p>Od 1. června musí mít nebankovní poskytovatelé spotřebitelských úvěrů licenci od České národní banky. ČNB je také jediným dohledovým orgánem, který řeší stížnosti spotřebitelů na poskytovatele úvěrů, na jejich všeobecné obchodní podmínky apod.</p>"
 ---

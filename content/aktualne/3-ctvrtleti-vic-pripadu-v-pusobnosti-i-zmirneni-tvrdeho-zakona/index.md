@@ -1,6 +1,8 @@
 ---
 title: "3. čtvrtletí: víc případů v působnosti i zmírnění tvrdého zákona"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2015/3-ctvrtleti-vic-pripadu-v-pusobnosti-i-zmirneni-tvrdeho-zakona"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2015/3-ctvrtleti-vic-pripadu-v-pusobnosti-i-zmirneni-tvrdeho-zakona"
 date: 2015-10-09
 perex: "<p>Ve třetím čtvrtletí se na ochránkyni obrátilo s žádostí o pomoc celkem 1658 osob. Letní měsíce se jako každý rok projevily mírným snížením počtu stížností, což ale dalo ochránkyni příležitost ukončovat časově náročnější šetření z předchozích období. Ve třetím čtvrtletí tak ochránkyně vyřídila 1766 stížností. </p>"
 ---

@@ -1,6 +1,8 @@
 ---
 title: "Ochránkyně uspěla, peněžitá pomoc obětem trestných činů nezpomalí"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2015/ochrankyne-uspela-penezita-pomoc-obetem-trestnych-cinu-nezpomali"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2015/ochrankyne-uspela-penezita-pomoc-obetem-trestnych-cinu-nezpomali"
 date: 2015-11-13
 perex: "<p>Na základě připomínek veřejné ochránkyně práv upustilo Ministerstvo spravedlnosti od návrhu prodloužit lhůtu pro posouzení žádostí obětí trestných činů o peněžitou pomoc.</p>"
 ---

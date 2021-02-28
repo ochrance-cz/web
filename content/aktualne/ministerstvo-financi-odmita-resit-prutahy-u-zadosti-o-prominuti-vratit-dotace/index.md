@@ -1,6 +1,8 @@
 ---
 title: "Ministerstvo financí odmítá řešit průtahy u žádosti o prominutí vrátit dotace"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2015/ministerstvo-financi-odmita-resit-prutahy-u-zadosti-o-prominuti-vratit-dotace"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2015/ministerstvo-financi-odmita-resit-prutahy-u-zadosti-o-prominuti-vratit-dotace"
 date: 2015-07-31
 perex: "<p>Pokud někdo poruší podmínky dotace, vznikne mu povinnost ji vrátit a zaplatit penále, v souladu se smlouvou o poskytnutí dotace. I v takovém případě by však měl mít možnost obrany. Ministerstvo financí by se při posuzování případů mělo zabývat například tím, zda rada kraje nepřekročila meze správního uvážení při rozhodování o žádosti o prominutí odvodu, jakým způsobem si vyložila „důvody hodné zvláštního zřetele“, které by mohly vést k prominutí povinnosti vrátit dotace apod.</p>"
 ---

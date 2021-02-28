@@ -1,6 +1,8 @@
 ---
 title: "Seriál ČT „Ochránce“ – 15. díl: Strasti a útrapy se samosprávou"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2011/serial-ct-ochrance-15-dil-strasti-a-utrapy-se-samospravou-1"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2011/serial-ct-ochrance-15-dil-strasti-a-utrapy-se-samospravou-1"
 date: 2011-12-09
 perex: "<p></p><p>Jak mohou občané kontrolovat jednání zastupitelstva obce? Mohou ovlivňovat jeho rozhodování? O tom bude 15. díl seriálu Ochránce vysílaný na ČT2 v úterý 13. 12. v 17:20 hod a v repríze ve středu 14. 12. v 9:35 hod.</p>"
 ---

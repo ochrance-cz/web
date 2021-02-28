@@ -1,6 +1,8 @@
 ---
 title: "Setkání v regionech k monitorování práv lidí se zdravotním postižením"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2018/setkani-v-regionech-k-monitorovani-prav-lidi-se-zdravotnim-postizenim"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2018/setkani-v-regionech-k-monitorovani-prav-lidi-se-zdravotnim-postizenim"
 date: 2018-02-08
 perex: "<p>Ombudsmanka organizuje sérii pracovních setkání v regionech k problematice monitorování práv lidí se zdravotním postižením. Se všemi zainteresovanými bude diskutovat o oblastech a tématech, na které by se měla zaměřit. Účastníci setkání také mohou nominovat budoucí členy Poradního orgánu ombudsmanky.</p>"
 ---

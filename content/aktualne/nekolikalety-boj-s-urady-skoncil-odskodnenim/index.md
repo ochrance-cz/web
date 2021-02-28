@@ -1,6 +1,8 @@
 ---
 title: "Několikaletý boj s úřady skončil odškodněním"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2017/nekolikalety-boj-s-urady-skoncil-odskodnenim"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2017/nekolikalety-boj-s-urady-skoncil-odskodnenim"
 date: 2017-02-28
 perex: "<p>Téměř sedm let bojoval muž z Prahy proti sankčnímu vyřazení z evidence úřadu práce. Poslední čtyři roky bylo Ministerstvo práce a sociálních věcí zcela nečinné a ani přes urgence nevydalo v jeho záležitosti rozhodnutí. Nyní mu za to přiznalo alespoň odškodnění ve výši 66 000 Kč jako zadostiučinění za nemajetkovou újmu.</p>"
 ---

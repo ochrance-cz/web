@@ -1,6 +1,8 @@
 ---
 title: "Železniční doprava potřebuje zlepšit přístup k lidem s postižením"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2019/zeleznicni-doprava-potrebuje-zlepsit-pristup-k-lidem-s-postizenim"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2019/zeleznicni-doprava-potrebuje-zlepsit-pristup-k-lidem-s-postizenim"
 date: 2019-12-17
 perex: "<p>Vlaková přeprava je pro lidi s postižením nedostatečně přístupná. Lidé používající vozík se na většinu nástupišť vůbec nedostanou, to samé platí o železničních stanicích a zastávkách. Ne všechny vlaky na českých železnicích mají dostatečně široké dveře vagonů, aby jimi projel elektrický vozík. Nedostatky jsou například i v poskytování informací o přepravě lidí s vozíkem. Právo lidí s postižením na přístupnost tak není naplňováno. Ombudsmanka doufá, že její zjištění přispějí ke změnám v drážní dopravě ve prospěch lidí s postižením.</p>"
 ---

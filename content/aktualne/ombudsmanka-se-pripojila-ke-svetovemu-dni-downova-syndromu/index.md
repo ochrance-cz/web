@@ -1,6 +1,8 @@
 ---
 title: "Ombudsmanka se připojila ke Světovému dni Downova syndromu"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2018/ombudsmanka-se-pripojila-ke-svetovemu-dni-downova-syndromu"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2018/ombudsmanka-se-pripojila-ke-svetovemu-dni-downova-syndromu"
 date: 2018-03-21
 perex: "<p>Ombudsmanka u příležitosti Světového dne Downova syndromu, který připadá na 21. března, se svými spolupracovníky oblékla barevné ponožky, které se staly symbolem Downova syndromu. Tři páry ponožek patami k sobě připomínají tři písmena X, jsou tedy paralelou na tři 21. chromozomy X, které zapříčiňují Downův syndrom. </p>"
 ---

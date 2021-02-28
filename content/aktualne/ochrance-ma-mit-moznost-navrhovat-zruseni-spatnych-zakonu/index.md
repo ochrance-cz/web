@@ -1,6 +1,8 @@
 ---
 title: "Ochránce má mít možnost navrhovat zrušení špatných zákonů"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2010/ochrance-ma-mit-moznost-navrhovat-zruseni-spatnych-zakonu"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2010/ochrance-ma-mit-moznost-navrhovat-zruseni-spatnych-zakonu"
 date: 2010-09-15
 perex: "<p></p><p>Nový ochránce bude usilovat o rozšíření pravomocí o možnost navrhovat Ústavnímu soudu zrušení zákonů a možnost podávat žaloby k ochraně veřejného zájmu. Na druhou stranu hodlá čelit snahám o rozšiřování působnosti v návaznosti na nejrůznější evropské směrnice. </p>"
 ---

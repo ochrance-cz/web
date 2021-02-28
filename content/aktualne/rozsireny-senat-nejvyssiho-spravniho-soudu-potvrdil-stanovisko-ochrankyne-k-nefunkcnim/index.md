@@ -1,6 +1,8 @@
 ---
 title: "Rozšířený senát Nejvyššího správního soudu potvrdil stanovisko ochránkyně k nefunkčnímu systému Visapoint"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2017/rozsireny-senat-nejvyssiho-spravniho-soudu-potvrdil-stanovisko-ochrankyne-k-nefunkcnim"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2017/rozsireny-senat-nejvyssiho-spravniho-soudu-potvrdil-stanovisko-ochrankyne-k-nefunkcnim"
 date: 2017-06-12
 perex: "<p>Analýza rozhodnutí českých soudů ukázala, že soudy ve většině případů souhlasí se stanovisky veřejného ochránce práv. Ochránkyně o tom informovala v minulém roce. Stanoviska ochránce slouží k lepšímu uplatňování spravedlnosti v České republice. Poznatků z činnosti veřejné ochránkyně práv využil aktuálně Nejvyšší správní soud v několika svých rozhodnutích. </p>"
 ---

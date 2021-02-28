@@ -1,6 +1,8 @@
 ---
 title: "Soudy dávají ve svých rozhodnutích ombudsmance za pravdu"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2019/soudy-davaji-ve-svych-rozhodnutich-ombudsmance-za-pravdu"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2019/soudy-davaji-ve-svych-rozhodnutich-ombudsmance-za-pravdu"
 date: 2019-09-25
 perex: "<p>Během uplynulých pěti let české soudy ve více než 450 rozhodnutích zmínily nebo využily stanovisko ombudsmana. V drtivé většině případů přitom rozhodly v souladu se závěry ombudsmana.</p>"
 ---

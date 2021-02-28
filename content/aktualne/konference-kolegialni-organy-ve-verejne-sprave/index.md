@@ -1,8 +1,10 @@
 ---
 title: "Konference Kolegiální orgány ve veřejné správě"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2013/konference-kolegialni-organy-ve-verejne-sprave"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2013/konference-kolegialni-organy-ve-verejne-sprave"
 date: 2013-06-04
-perex: "<p>24. – 25. 6. se v Telči uskuteční 7. ročník mezinárodní konference věnující se otázkám správního práva a veřejné správy, kterou pořádá Právnická fakulta Masarykovy univerzity společně s Veřejným ochráncem práv.</p>"
+perex: "<p>24. &ndash; 25. 6. se v Telči uskuteční 7. ročník mezinárodní konference věnující se otázkám správního práva a veřejné správy, kterou pořádá Právnická fakulta Masarykovy univerzity společně s Veřejným ochráncem práv.</p>"
 ---
 
 <!-- imported from the old website -->

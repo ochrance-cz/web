@@ -1,6 +1,8 @@
 ---
 title: "Seriál Ochránce – 9. díl – Orgán sociálně-právní ochrany dětí"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2012/serial-ochrance-9-dil-organ-socialne-pravni-ochrany-deti"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2012/serial-ochrance-9-dil-organ-socialne-pravni-ochrany-deti"
 date: 2012-11-02
 perex: "<p>V neděli 4. 11. ve 10:55h vysílá ČT2 9. díl pořadu Ochránce, tentokrát o ochraně práv dětí. Reprízu dílu uvidíte na ČT2 v úterý 6. 11. v 9:00h.</p>"
 ---

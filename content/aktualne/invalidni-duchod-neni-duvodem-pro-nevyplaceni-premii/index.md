@@ -1,6 +1,8 @@
 ---
 title: "Invalidní důchod není důvodem pro nevyplacení prémií"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2016/invalidni-duchod-neni-duvodem-pro-nevyplaceni-premii"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2016/invalidni-duchod-neni-duvodem-pro-nevyplaceni-premii"
 date: 2016-02-23
 perex: "<p>Zaměstnavatel má právo hodnotit pracovní výkony jednotlivých zaměstnanců a podle toho rozhodovat o výši prémií či osobního příplatku. Současně ale musí respektovat princip spravedlivé odměny a rovného zacházení se zaměstnanci. </p>"
 ---

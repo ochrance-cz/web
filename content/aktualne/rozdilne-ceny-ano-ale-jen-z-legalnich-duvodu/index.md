@@ -1,6 +1,8 @@
 ---
 title: "Rozdílné ceny ano, ale jen z legálních důvodů"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2011/rozdilne-ceny-ano-ale-jen-z-legalnich-duvodu"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2011/rozdilne-ceny-ano-ale-jen-z-legalnich-duvodu"
 date: 2011-09-13
 perex: "<p></p><p>Vedle práva hospodářské soutěže je trh vázán i zákazem diskriminace. Přestože je existence různých cen žádoucím projevem konkurence, nesmí být používání různých cen založeno na zakázaném diskriminačním důvodu a nesmí zasahovat do důstojnosti osob.</p>"
 ---

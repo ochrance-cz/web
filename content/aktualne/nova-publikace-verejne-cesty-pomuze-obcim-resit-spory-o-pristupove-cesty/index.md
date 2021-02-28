@@ -1,6 +1,8 @@
 ---
 title: "Nová publikace Veřejné cesty pomůže obcím řešit spory o přístupové cesty"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2011/nova-publikace-verejne-cesty-pomuze-obcim-resit-spory-o-pristupove-cesty"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2011/nova-publikace-verejne-cesty-pomuze-obcim-resit-spory-o-pristupove-cesty"
 date: 2011-10-10
 perex: "<p></p><p>Nové vydání publikace Veřejné cesty přináší rozšířené a aktualizované vysvětlení problematiky pozemních komunikací, shrnutí důležitých soudních rozhodnutí a zobecnění právních závěrů z šetření, která ombudsman v posledních letech vedl. Na konkrétních případech pak ukazuje, jak mají úřady v určitých situacích postupovat. </p>"
 ---

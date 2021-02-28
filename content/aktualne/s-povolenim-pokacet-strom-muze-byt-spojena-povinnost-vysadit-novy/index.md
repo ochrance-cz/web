@@ -1,6 +1,8 @@
 ---
 title: "S povolením pokácet strom může být spojena povinnost vysadit nový"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2020/s-povolenim-pokacet-strom-muze-byt-spojena-povinnost-vysadit-novy"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2020/s-povolenim-pokacet-strom-muze-byt-spojena-povinnost-vysadit-novy"
 date: 2020-08-18
 perex: "<p>Pokud chcete pokácet jiný než ovocný strom na své zahradě, ověřte si, jestli k tomu nepotřebujete povolení. Zákon o ochraně přírody a krajiny a s ním související právní předpisy se totiž vztahují i na stromy rostoucí na soukromém pozemku. Jako kompenzaci ekologické újmy může navíc úřad v rámci povolení kácení uložit i povinnost provést náhradní výsadbu nových stromů a následně o stromy pečovat.</p>"
 ---

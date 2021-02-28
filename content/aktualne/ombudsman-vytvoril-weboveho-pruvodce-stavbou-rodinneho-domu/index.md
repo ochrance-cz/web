@@ -1,6 +1,8 @@
 ---
 title: "Ombudsman vytvořil webového průvodce stavbou rodinného domu"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2019/ombudsman-vytvoril-weboveho-pruvodce-stavbou-rodinneho-domu"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2019/ombudsman-vytvoril-weboveho-pruvodce-stavbou-rodinneho-domu"
 date: 2019-11-07
 perex: "<p>Webová stránka Domek polopatě pomůže lidem vyznat se v tom, co vše je potřeba zařídit při stavbě rodinného domu a s jakými úřady komunikovat – od výběru pozemku až po vyřízení čísla popisného. </p>"
 ---

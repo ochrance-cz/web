@@ -1,6 +1,8 @@
 ---
 title: "Ochránce odmítá navrhované změny v zákoně o zaměstnanosti"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2010/ochrance-odmita-navrhovane-zmeny-v-zakone-o-zamestnanosti"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2010/ochrance-odmita-navrhovane-zmeny-v-zakone-o-zamestnanosti"
 date: 2010-10-27
 perex: "<p></p><p>Ochránce ve své pravidelné zprávě o činnosti doporučil Poslanecké sněmovně vrátit novelu zákona o zaměstnanosti k přepracování. Podle jeho názoru by mělo být především vypuštěno snížení podpory v nezaměstnanosti těm, kdo ukončili poslední zaměstnání sami nebo dohodou se zaměstnavatelem.</p>"
 ---

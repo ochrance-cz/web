@@ -1,6 +1,8 @@
 ---
 title: "Ústecký krajský úřad podporuje nezákonné jednání"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2019/ustecky-krajsky-urad-podporuje-nezakonne-jednani"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2019/ustecky-krajsky-urad-podporuje-nezakonne-jednani"
 date: 2019-10-22
 perex: "<p>Krajský úřad Ústeckého kraje toleruje protiprávní jednání Městského úřadu Varnsdorf. Městský úřad Varnsdorf totiž ukládá pokuty za překročení rychlosti na základě nezákonných důkazů od soukromého provozovatele radarů, který je hmotně zainteresován na odhalení přestupku.</p>"
 ---

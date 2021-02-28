@@ -1,6 +1,8 @@
 ---
 title: "Ministerstvo má informovat o možném zdravotním riziku"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2016/ministerstvo-ma-informovat-o-moznem-zdravotnim-riziku"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2016/ministerstvo-ma-informovat-o-moznem-zdravotnim-riziku"
 date: 2016-03-30
 perex: "<p>Veřejnost by měla vědět o možném vlivu neionizujícího záření na zdraví. Právě nedostatečnou komunikaci s odbornou i širší veřejností vytkla veřejná ochránkyně práv Ministerstvu zdravotnictví v souvislosti s ochranou před neionizujícím zářením.</p>"
 ---

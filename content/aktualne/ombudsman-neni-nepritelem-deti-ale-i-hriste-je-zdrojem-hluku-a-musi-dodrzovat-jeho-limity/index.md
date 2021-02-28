@@ -1,6 +1,8 @@
 ---
 title: "Ombudsman není nepřítelem dětí, ale i hřiště je zdrojem hluku a musí dodržovat jeho limity"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2014/ombudsman-neni-nepritelem-deti-ale-i-hriste-je-zdrojem-hluku-a-musi-dodrzovat-jeho-limity"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2014/ombudsman-neni-nepritelem-deti-ale-i-hriste-je-zdrojem-hluku-a-musi-dodrzovat-jeho-limity"
 date: 2014-03-25
 perex: "<p>Lidé, v jejichž sousedství byla vybudována hřiště a kteří jsou opakovaně vystavováni hluku způsobeného nejen hrou dětí, ale křikem hráčů i diváků během sportovních zápasů, by asi nebyli nadšeni, kdyby jim zástupce ombudsmana poradil, ať jsou rádi, že si děti hrají, neboť jim jednou budou přispívat na penzi. Takhle to však vidí spolupracovník Českého rozhlasu Ivan Hoffman, podle kterého společnost stárne a  chybí ji tolerance a zástupce ombudsmanky Stanislav Křeček, který vydává „podivná rozhodnutí“ o tom, že všechno – i hluk – má svoji míru, tomu jen nahrává... Alespoň tak se I. Hoffman vyjádřil v rozhlasovém pořadu 24. března.</p>"
 ---

@@ -1,6 +1,8 @@
 ---
 title: "Administrativně zaniklá vozidla definitivně nelze dodatečně zapsat do registru"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2019/administrativne-zanikla-vozidla-definitivne-nelze-dodatecne-zapsat-do-registru"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2019/administrativne-zanikla-vozidla-definitivne-nelze-dodatecne-zapsat-do-registru"
 date: 2019-05-22
 perex: "<p>Ústavní soud definitivně potvrdil, že administrativně zaniklá vozidla již nelze dodatečně zapsat do registru vozidel a legálně je užívat v silničním provozu.</p>"
 ---

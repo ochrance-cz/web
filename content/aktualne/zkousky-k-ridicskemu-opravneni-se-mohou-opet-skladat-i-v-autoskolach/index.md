@@ -1,6 +1,8 @@
 ---
 title: "Zkoušky k řidičskému oprávnění se mohou opět skládat i v autoškolách"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2015/zkousky-k-ridicskemu-opravneni-se-mohou-opet-skladat-i-v-autoskolach"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2015/zkousky-k-ridicskemu-opravneni-se-mohou-opet-skladat-i-v-autoskolach"
 date: 2015-07-27
 perex: "<p>Zástupce veřejné ochránkyně práv šetřil stížnost autoškoly na Ministerstvo dopravy v souvislosti se zkouškami odborné způsobilosti žadatelů o řidičské oprávnění. Ministerstvo totiž trvalo na tom, že teoretická část zkoušek se může vykonávat pouze v prostorách úřadů a nikoli v autoškolách.</p>"
 ---

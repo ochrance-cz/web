@@ -1,6 +1,8 @@
 ---
 title: "Zástupkyně ochránce varuje před neplatným potvrzením o způsobilosti k řízení"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2010/zastupkyne-ochrance-varuje-pred-neplatnym-potvrzenim-o-zpusobilosti-k-rizeni"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2010/zastupkyne-ochrance-varuje-pred-neplatnym-potvrzenim-o-zpusobilosti-k-rizeni"
 date: 2010-06-08
 perex: "<p></p><p>Formuláře, na nichž lékaři potrzují řidičům nad 60 let jejich zdravotní způsobilost k řízení motorových vozidel, ne vždy odpovídají platným právním předpisům. Řidičům s takovým potrzením pak hrozí pokuta ve výši 5-10 tisíc Kč a zákaz řízení na 6-12 měsíců.</p>"
 ---

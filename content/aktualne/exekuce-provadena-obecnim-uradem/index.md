@@ -1,6 +1,8 @@
 ---
 title: "Exekuce prováděná obecním úřadem"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2009/exekuce-provadena-obecnim-uradem"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2009/exekuce-provadena-obecnim-uradem"
 date: 2009-08-26
 perex: "<p></p><p>Za určitých okolností může exekuci provést i obecní (městský) úřad, pokud vymáhá nedoplatky například na pokutách nebo místních poplatcích, které svým rozhodnutím sám uložil. Postup takového úřadu se řídí zákonem o správě daní a poplatků a přiměřeně občanským soudním řádem. Jiné dluhy (např. na nájemném) nesmí obce a města tímto způsobem vymáhat. V takových případech může obec (město) podat návrh na soudní výkon rozhodnutí nebo na nařízení exekuce prováděné soudním exekutorem.</p>"
 ---

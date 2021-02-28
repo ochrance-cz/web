@@ -1,6 +1,8 @@
 ---
 title: "Tisková konference zástupkyně veřejného ochránce práv"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2010/tiskova-konference-zastupkyne-verejneho-ochrance-prav"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2010/tiskova-konference-zastupkyne-verejneho-ochrance-prav"
 date: 2010-06-11
 perex: "<p></p><p>V úterý 15. června se v 9:00 hod v budově Kanceláře veřejného ochránce práv v Brně uskuteční tisková konference zástupkyně veřejného ochránce práv k problematice autorizovaných inspektorů ve stavebnictví a k pochybením, jichž se dopouští Psychiatrická léčebna Šternberk.</p>"
 ---

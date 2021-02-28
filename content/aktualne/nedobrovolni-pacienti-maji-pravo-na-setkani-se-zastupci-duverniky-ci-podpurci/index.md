@@ -1,0 +1,12 @@
+---
+title: "Nedobrovolní pacienti mají právo na setkání se zástupci, důvěrníky či podpůrci"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2020/nedobrovolni-pacienti-maji-pravo-na-setkani-se-zastupci-duverniky-ci-podpurci"
+date: 2020-12-14
+perex: "<p>Lidé hospitalizovaní bez svého souhlasu se i v době krizového opatření vlády mohou osobně stýkat se svým zástupcem, důvěrníkem nebo podpůrcem, pokud přitom budou splněna nezbytná hygienická opatření, aby se předešlo šíření epidemie. Ministerstvo zdravotnictví na základě upozornění zástupkyně ombudsmana přislíbilo sjednotit přístup poskytovatelů zdravotních služeb tak, aby nedocházelo k omezování práv nedobrovolných pacientů v rozporu s vládními opatřeními.</p>"
+---
+
+<!-- imported from the old website -->
+
+<p><i>„Nedobrovolní pacienti se v psychiatrické nemocnici ocitli neočekávaně, potřebují svou situaci probrat s někým, komu důvěřují, potřebují, aby jim někdo přinesl běžné osobní věci, a v neposlední řadě je takové setkání důležité i jako kontrola nad omezováním osobní svobody. Nejde o běžnou společenskou návštěvu, proto ani v době epidemie není na místě ji zakazovat, spíš je třeba hledat způsob, jak taková setkání bezpečně realizovat,“</i> vysvětluje zástupkyně ombudsmana Monika Šimůnková.</p> <p>Po jarní vlně epidemie upozornila Ministerstvo zdravotnictví na nejednotný přístup nemocnic k právům pacientů hospitalizovaných bez souhlasu setkat se se svým zástupcem, důvěrníkem nebo podpůrcem. Vzhledem k tomu, že v psychiatrických nemocnicích je každý rok hospitalizováno několik tisíc osob bez svého souhlasu, nejde o bezvýznamné téma.</p> <p>Ministerstvo přislíbilo, že v případě opětovného plošného zákazu návštěv v nemocnicích bude situace nedobrovolných pacientů zohledněna, usnesení vlády z 8. října 2020 se však tomuto tématu nevěnuje. Podle zástupkyně ombudsmana se tak opakuje situace z jara a některá zdravotnická zařízení vztahují zákaz návštěv i na setkání nedobrovolně hospitalizovaných pacientů se svými zástupci, důvěrníky či podpůrci. Zástupkyně ombudsmana proto požádala ministra zdravotnictví o metodické vedení psychiatrických nemocnic, aby krizové opatření nedopadalo i na toto setkávání.</p> <p>Ministr zdravotnictví se s názorem zástupkyně ombudsmana na práva pacientů hospitalizovaných bez souhlasu ztotožnil. V reakci na její upozornění přislíbil metodicky vést zdravotnická zařízení tak, aby nedocházelo k nesprávnému výkladu vládních opatření a k porušování práv nedobrovolných pacientů.</p>

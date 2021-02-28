@@ -1,6 +1,8 @@
 ---
 title: "Přibývá dětí žádajících ombudsmanku o pomoc"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2016/pribyva-deti-zadajicich-ombudsmanku-o-pomoc"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2016/pribyva-deti-zadajicich-ombudsmanku-o-pomoc"
 date: 2016-06-01
 perex: "<p>Děti jsou mnohdy okolnostmi nuceny řešit problémy, s nimiž by si nevěděla rady ani řada dospělých. Pomoc a radu pak hledají u veřejné ochránkyně práv, která se jim snaží pomáhat alespoň v rámci své působnosti. Částečně tím nahrazuje v České republice neexistujícího dětského ombudsmana.</p>"
 ---

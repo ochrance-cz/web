@@ -1,6 +1,8 @@
 ---
 title: "Ochránkyně iniciovala spravedlivější systém rodičovského příspěvku"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2016/ochrankyne-iniciovala-spravedlivejsi-system-rodicovskeho-prispevku"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2016/ochrankyne-iniciovala-spravedlivejsi-system-rodicovskeho-prispevku"
 date: 2016-07-28
 perex: "<p>Výplata rodičovského příspěvku by měla být do budoucna spravedlivější. V reakci na dlouhodobé upozorňování veřejné ochránkyně práv a na její doporučení připravilo Ministerstvo práce a sociálních věcí novelu zákona o státní sociální podpoře. Vláda návrh schválila a předložila ho Poslanecké sněmovně.</p>"
 ---

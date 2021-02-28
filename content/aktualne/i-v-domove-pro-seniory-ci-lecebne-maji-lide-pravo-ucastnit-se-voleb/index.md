@@ -1,6 +1,8 @@
 ---
 title: "I v domově pro seniory či léčebně mají lidé právo účastnit se voleb"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2013/i-v-domove-pro-seniory-ci-lecebne-maji-lide-pravo-ucastnit-se-voleb"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2013/i-v-domove-pro-seniory-ci-lecebne-maji-lide-pravo-ucastnit-se-voleb"
 date: 2013-10-11
 perex: "<p>Občané, kteří nemohou volit přímo ve volební místnosti podle místa svého trvalého bydliště, protože se nacházejí např. v zařízeních pro seniory, psychiatrických léčebnách, nemocnicích, porodnicích, policejních celách či ve výkonu vazby či trestu odnětí svobody apod., nejsou zbaveni volebního práva. Musí jim být umožněno volit prostřednictvím zápisu do zvláštního seznamu nebo na základě voličského průkazu.</p>"
 ---

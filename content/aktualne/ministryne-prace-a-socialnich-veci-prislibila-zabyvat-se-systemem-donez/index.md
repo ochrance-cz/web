@@ -1,6 +1,8 @@
 ---
 title: "Ministryně práce a sociálních věcí přislíbila zabývat se systémem DONEZ"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2012/ministryne-prace-a-socialnich-veci-prislibila-zabyvat-se-systemem-donez"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2012/ministryne-prace-a-socialnich-veci-prislibila-zabyvat-se-systemem-donez"
 date: 2012-12-12
 perex: "<p>Ministerstvo práce a sociálních věcí přislíbilo provést do poloviny ledna analýzu námitek ombudsmana k protiprávnosti systému DONEZ a informovat ho, jak bude v této věci dál postupovat. </p>"
 ---

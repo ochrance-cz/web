@@ -1,6 +1,8 @@
 ---
 title: "Zástupkyně ochránce v pořadu Před půlnocí"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2013/zastupkyne-ochrance-v-poradu-pred-pulnoci"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2013/zastupkyne-ochrance-v-poradu-pred-pulnoci"
 date: 2013-02-15
 perex: "<p>RNDr. Jitka Seitlová bude dnes (pátek 15. 2.) ve 23:30 hostem pořadu ČT 24 Před půlnocí. </p>"
 ---

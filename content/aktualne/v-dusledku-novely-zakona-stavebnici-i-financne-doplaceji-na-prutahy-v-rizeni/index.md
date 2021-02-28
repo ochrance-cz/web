@@ -1,6 +1,8 @@
 ---
 title: "V důsledku novely zákona stavebníci i finančně doplácejí na průtahy v řízení"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2018/v-dusledku-novely-zakona-stavebnici-i-financne-doplaceji-na-prutahy-v-rizeni"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2018/v-dusledku-novely-zakona-stavebnici-i-financne-doplaceji-na-prutahy-v-rizeni"
 date: 2018-10-22
 perex: "<p>Řada stavebníků doplácí na organizačně a personálně nepřipravenou změnu stavebního zákona. Orgány územního plánovaní, od nichž musí nově získat závazné stanovisko k posouzení souladu stavebního záměru s územně plánovací dokumentací, nezvládají žádosti vyřizovat bez průtahů, což může negativně zasahovat i do finanční sféry stavebníka, do jeho smluvních vztahů s bankou nebo stavební firmou. Podle zástupce ombudsmanky to mj. ilustruje kontraproduktivnost neustálých novelizací právních předpisů.</p>"
 ---

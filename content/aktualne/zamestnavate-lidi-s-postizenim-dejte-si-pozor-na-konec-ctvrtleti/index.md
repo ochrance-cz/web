@@ -1,6 +1,8 @@
 ---
 title: "Zaměstnáváte lidi s postižením? Dejte si pozor na konec čtvrtletí."
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2019/zamestnavate-lidi-s-postizenim-dejte-si-pozor-na-konec-ctvrtleti"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2019/zamestnavate-lidi-s-postizenim-dejte-si-pozor-na-konec-ctvrtleti"
 date: 2019-09-17
 perex: "<p>Firmám zaměstnávajícím lidi se zdravotním postižením přináší každý konec čtvrtletí riziko, že nedostanou příspěvek na podporu zaměstnávání osob se zdravotním postižením na úhradu jejich platů, mezd a dalších nákladů spojených s jejich zaměstnáváním. Pokud totiž z jakéhokoli důvodu nestihnout zaplatit všechny povinné daně a odvody tak, aby byly nejpozději poslední kalendářní den čtvrtletí připsány na příslušné bankovní účty, nesplní jednu z podmínek pro získání příspěvku. Aktuální kalendářní čtvrtletí končí v pondělí 30. září a zaměstnavatelé by si měli pohlídat, že všechny povinné odvody do tohoto dne s jistotou uhradí.</p>"
 ---

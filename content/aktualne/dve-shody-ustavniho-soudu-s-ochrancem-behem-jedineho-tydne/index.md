@@ -1,6 +1,8 @@
 ---
 title: "Dvě shody Ústavního soudu s ochráncem během jediného týdne"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2014/dve-shody-ustavniho-soudu-s-ochrancem-behem-jedineho-tydne"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2014/dve-shody-ustavniho-soudu-s-ochrancem-behem-jedineho-tydne"
 date: 2014-05-29
 perex: "<p>Už podruhé se během tohoto týdne Ústavní soud ve svých rozhodnutích ztotožnil s názorem veřejného ochránce práv. V obou případech ochránce vystupoval jako vedlejší účastník řízení a Ústavnímu soudu předložil své stanovisko k projednávané věci. V obou svých rozhodnutích se Ústavní soud s názorem ochránce shodl. </p>"
 ---

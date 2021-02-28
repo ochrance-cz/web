@@ -1,6 +1,8 @@
 ---
 title: "Čekat na rozhodnutí o odvolání rok a déle? Ve Středočeském kraji normální."
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2019/cekat-na-rozhodnuti-o-odvolani-rok-a-dele-ve-stredoceskem-kraji-normalni"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2019/cekat-na-rozhodnuti-o-odvolani-rok-a-dele-ve-stredoceskem-kraji-normalni"
 date: 2019-04-15
 perex: "<p>Na rozhodnutí o odvolání v silniční agendě si ve Středočeském kraji počkáte i rok a půl. Je to sice mnohonásobně déle, než stanoví zákon, ale takový je reálný stav, který krajský úřad dlouhodobě neřeší. Naprázdno zatím vychází i snaha Ministerstva dopravy nečinnost úřadu odstranit.</p>"
 ---

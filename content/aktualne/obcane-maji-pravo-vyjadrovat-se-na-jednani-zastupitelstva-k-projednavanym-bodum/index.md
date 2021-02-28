@@ -1,6 +1,8 @@
 ---
 title: "Občané mají právo vyjadřovat se na jednání zastupitelstva k projednávaným bodům"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2008/obcane-maji-pravo-vyjadrovat-se-na-jednani-zastupitelstva-k-projednavanym-bodum"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2008/obcane-maji-pravo-vyjadrovat-se-na-jednani-zastupitelstva-k-projednavanym-bodum"
 date: 2008-09-01
 perex: "<p></p>"
 ---

@@ -1,6 +1,8 @@
 ---
 title: "Výzkum – obecní bydlení z pohledu práva na rovné zacházení"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2020/vyzkum-obecni-bydleni-z-pohledu-prava-na-rovne-zachazeni"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2020/vyzkum-obecni-bydleni-z-pohledu-prava-na-rovne-zachazeni"
 date: 2020-06-19
 perex: "<p>Ombudsman zveřejnil zprávu z výzkumu týkajícího se obecního bydlení z pohledu práva na rovné zacházení. Výzkum realizovala bývalá ombudsmanka a zabývala v něm zejména pravidly pro přidělování obecních bytů. Pozornost se však zaměřila také na stav bytového fondu obcí a sociální práci s klienty v bytové nouzi. Omezená dostupnost obecního bydlení a bytová nouze spolu totiž úzce souvisí. </p>"
 ---

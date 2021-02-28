@@ -1,6 +1,8 @@
 ---
 title: "Ochránkyně usiluje o systémová a koncepční řešení v justici"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2016/ochrankyne-usiluje-o-systemova-a-koncepcni-reseni-v-justici"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2016/ochrankyne-usiluje-o-systemova-a-koncepcni-reseni-v-justici"
 date: 2016-11-04
 perex: "<p>Za posledních šest let se veřejný ochránce práv zabýval více než tisícovkou podnětů na průtahy v soudních řízeních. Jde přitom jen o zlomek ilustrující obecný problém, s nímž se potýkají lidé v celé republice. Na dlouhodobou přetíženost soudů a jejich nedostatečné personální a materiální zajištění upozorňoval ombudsman vládu už v roce 2012, a přestože to vedlo k vypracování analýzy reálných potřeb jednotlivých soudů, k přijetí účinných opatření zatím tak úplně nedošlo.</p>"
 ---

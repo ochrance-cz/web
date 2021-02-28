@@ -1,6 +1,8 @@
 ---
 title: "Stížností týkajících se sociálního zabezpečení je historicky nejvíc"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2018/stiznosti-tykajicich-se-socialniho-zabezpeceni-je-historicky-nejvic"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2018/stiznosti-tykajicich-se-socialniho-zabezpeceni-je-historicky-nejvic"
 date: 2018-07-24
 perex: "<p>Ve druhém čtvrtletí se lidé na ombudsmanku obrátili s 2160 podněty, což je srovnatelné s letošním prvním čtvrtletím, ale opět vzrostl počet podnětů v působnosti ombudsmana. Aktuálně jich je už téměř 70 %.</p>"
 ---

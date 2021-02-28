@@ -1,6 +1,8 @@
 ---
 title: "Kulatý stůl veřejného ochránce práv – vybrané problémy z aplikace stavebního práva"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2012/kulaty-stul-verejneho-ochrance-prav-vybrane-problemy-z-aplikace-stavebniho-prava"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2012/kulaty-stul-verejneho-ochrance-prav-vybrane-problemy-z-aplikace-stavebniho-prava"
 date: 2012-05-11
 perex: "<p></p>"
 ---

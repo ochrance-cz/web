@@ -1,6 +1,8 @@
 ---
 title: "Aplikace stavebního zákona a možnosti řešení hluku – kulatý stůl"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2016/aplikace-stavebniho-zakona-a-moznosti-reseni-hluku-kulaty-stul"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2016/aplikace-stavebniho-zakona-a-moznosti-reseni-hluku-kulaty-stul"
 date: 2016-04-25
 perex: "<p>V úterý 26. dubna se v Kanceláři veřejného ochránce práv (v předvečer Mezinárodního dne ochrany proti hluku) uskuteční kulatý stůl k odborné diskuzi nad vybranými problémy při aplikování stavebního zákona v praxi, nad změnami v možnostech řešení hluku z restaurací, kaváren, barů a dalších hostinských zařízení a nad ochranou před hlukem z komunálního prostředí. </p>"
 ---

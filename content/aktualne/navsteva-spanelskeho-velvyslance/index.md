@@ -1,6 +1,8 @@
 ---
 title: "Návštěva španělského velvyslance"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2014/navsteva-spanelskeho-velvyslance"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2014/navsteva-spanelskeho-velvyslance"
 date: 2014-03-24
 perex: "<p></p>"
 ---

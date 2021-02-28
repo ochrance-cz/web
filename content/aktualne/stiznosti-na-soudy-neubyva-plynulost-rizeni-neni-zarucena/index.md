@@ -1,6 +1,8 @@
 ---
 title: "Stížností na soudy neubývá, plynulost řízení není zaručena"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2015/stiznosti-na-soudy-neubyva-plynulost-rizeni-neni-zarucena"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2015/stiznosti-na-soudy-neubyva-plynulost-rizeni-neni-zarucena"
 date: 2015-09-03
 perex: "<p>Podle statistik Evropského soudu pro lidská práva sice patří české soudy k nejrychlejším v Evropě, na počtu stížností na průtahy, s nimiž se lidé na veřejného ochránce práv obracejí, se to však neprojevuje. Od roku 2012, kdy ochránce upozornil vládu na nepříznivý stav soudnictví, se situace příliš nezlepšila. Zástupce ochránkyně, kterému veřejná ochránkyně práv tuto agendu svěřila, tak musí i po dalších třech letech konstatovat, že stát není schopen s jistotou garantovat právo na rozhodnutí bez zbytečných průtahů, které je jedním z aspektů práva na spravedlivý proces. </p>"
 ---

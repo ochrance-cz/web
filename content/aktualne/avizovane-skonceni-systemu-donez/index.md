@@ -1,6 +1,8 @@
 ---
 title: "Avizované skončení systému DONEZ"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2013/avizovane-skonceni-systemu-donez"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2013/avizovane-skonceni-systemu-donez"
 date: 2013-01-24
 perex: "<p></p>"
 ---

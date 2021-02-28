@@ -1,6 +1,8 @@
 ---
 title: "Ombudsman dnes hostem ČRo Brno"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2012/ombudsman-dnes-hostem-cro-brno"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2012/ombudsman-dnes-hostem-cro-brno"
 date: 2012-08-08
 perex: "<p>Ombudsman Pavel Varvařovský bude dnes, ve středu 8. 8., od 15:00 h hostem Marcely Vandrové v pořadu Rendez-vous na ČRo Brno.</p>"
 ---

@@ -1,6 +1,8 @@
 ---
 title: "Průvodce zadáváním nediskriminační pracovní inzerce"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2011/pruvodce-zadavanim-nediskriminacni-pracovni-inzerce"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2011/pruvodce-zadavanim-nediskriminacni-pracovni-inzerce"
 date: 2011-08-01
 perex: "<p></p><p>Spolupráce ombudsmana s provozovatelem pracovních portálů jobs.cz a prace.cz přináší zaměstnavatelům pomůcku pro zadávání náborových inzerátů, které nediskriminují a naopak jim mohou přivést nové kvalitní zaměstnance.</p>"
 ---

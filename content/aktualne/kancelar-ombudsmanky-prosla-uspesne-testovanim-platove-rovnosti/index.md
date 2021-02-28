@@ -1,6 +1,8 @@
 ---
 title: "Kancelář ombudsmanky prošla úspěšně testováním platové rovnosti"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2019/kancelar-ombudsmanky-prosla-uspesne-testovanim-platove-rovnosti"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2019/kancelar-ombudsmanky-prosla-uspesne-testovanim-platove-rovnosti"
 date: 2019-11-04
 perex: "<p>Kancelář ombudsmanky úspěšně prošla jako první organizace ve veřejné správě pilotním testováním, které zjišťovalo platovou nerovnost mezi muži a ženami. Testování pomocí nástroje Logib zohlednilo charakteristiky vykonávané práce a klíčové osobní charakteristiky zaměstnankyň a zaměstnanců (věk, délka praxe, vzdělání). Nástroj pro zjišťování platové nerovnosti bude po svém otestování na konci roku 2020 přístupný široké veřejnosti. </p>"
 ---

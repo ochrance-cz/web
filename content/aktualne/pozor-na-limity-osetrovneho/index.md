@@ -1,6 +1,8 @@
 ---
 title: "Pozor na limity ošetřovného"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2017/pozor-na-limity-osetrovneho"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2017/pozor-na-limity-osetrovneho"
 date: 2017-05-04
 perex: "<p>Poskytování ošetřovného má svá úskalí, kterého by si měli být rodiče ošetřující nemocné dítě vědomi. Zákon nepřipouští možnost, že by na sebe doba nutného ošetřování bezprostředně navazovala, tj. že by onemocnění následovala hned za sebou. Pokud k tomu dojde, je doba ošetřování považována jednu souvislou a ošetřovné je vypláceno jen za limitovaný počet dnů.</p>"
 ---

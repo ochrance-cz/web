@@ -1,6 +1,8 @@
 ---
 title: "Ministryně musí vyřešit problém nebezpečných zchátralých objektů"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2017/ministryne-musi-vyresit-problem-nebezpecnych-zchatralych-objektu"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2017/ministryne-musi-vyresit-problem-nebezpecnych-zchatralych-objektu"
 date: 2017-01-31
 perex: "<p>Ministryně pro místní rozvoj má do konce března vládě předložit návrh fungujícího systému, který zajistí financování výkonů rozhodnutí stavebních úřadů ve veřejném zájmu. Vláda to ministryni uložila na základě žádosti veřejné ochránkyně práv. Jde zejména o případy zchátralých staveb ohrožujících bezpečnost a zdraví lidí.</p>"
 ---

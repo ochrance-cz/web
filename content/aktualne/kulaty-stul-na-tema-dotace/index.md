@@ -1,6 +1,8 @@
 ---
 title: "Kulatý stůl na téma dotace"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2015/kulaty-stul-na-tema-dotace"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2015/kulaty-stul-na-tema-dotace"
 date: 2015-11-09
 perex: "<p></p>"
 ---

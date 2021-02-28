@@ -1,6 +1,8 @@
 ---
 title: "Uznání manželství partnerů s dvojím občanstvím"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2016/uznani-manzelstvi-partneru-s-dvojim-obcanstvim"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2016/uznani-manzelstvi-partneru-s-dvojim-obcanstvim"
 date: 2016-09-27
 perex: "<p>Podle zákona nemůže občan České republiky uzavřít manželství na zastupitelském úřadu cizího státu v České republice. Platí to i pro ty, kdo mají kromě českého i jiné občanství. Do české matriky nelze takový sňatek zapsat a manželé se musí obrátit na soud, aby rozhodl, jestli manželství platí.</p>"
 ---

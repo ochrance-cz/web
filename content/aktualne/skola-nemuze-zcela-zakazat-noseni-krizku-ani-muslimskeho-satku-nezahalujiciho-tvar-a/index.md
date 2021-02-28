@@ -1,6 +1,8 @@
 ---
 title: "Škola nemůže zcela zakázat nošení křížku ani muslimského šátku nezahalujícího tvář a znemožnit tak přístup ke vzdělání"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2014/skola-nemuze-zcela-zakazat-noseni-krizku-ani-muslimskeho-satku-nezahalujiciho-tvar-a"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2014/skola-nemuze-zcela-zakazat-noseni-krizku-ani-muslimskeho-satku-nezahalujiciho-tvar-a"
 date: 2014-08-28
 perex: "<p>Střední zdravotnická škola se dopustila nepřímé diskriminace, když studentce zakázala nosit při běžném vyučování muslimský šátek (hidžáb zahalující pouze vlasy, krk, případně také poprsí). Projevy náboženského přesvědčení lze omezit výhradně zákonem a jen k dosažení legitimního cíle (veřejná bezpečnost, ochrana veřejného pořádku, zdraví nebo morálky a ochrana práv a svobod jiných). Školní řád zakazoval nosit ve škole jakoukoli pokrývku hlavy jako projev neslušného chování. Krom toho, že nošení hidžábu obecně není neslušné, nelze ho zakázat školním řádem, ale pouze zákonem.</p>"
 ---

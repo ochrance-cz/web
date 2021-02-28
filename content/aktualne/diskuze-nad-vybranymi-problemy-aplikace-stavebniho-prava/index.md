@@ -1,6 +1,8 @@
 ---
 title: "Diskuze nad vybranými problémy aplikace stavebního práva"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2013/diskuze-nad-vybranymi-problemy-aplikace-stavebniho-prava"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2013/diskuze-nad-vybranymi-problemy-aplikace-stavebniho-prava"
 date: 2013-05-07
 perex: "<p></p><p>Je balkón či lodžie společnou částí bytového domu nebo je součástí bytové jednotky? Je zasklívání lodžie změnou vzhledu stavby domu? Jak mají stavební úřady při povolování stavby uplatňovat zásadu „šetrnosti k zájmům vlastníků sousedních pozemků a staveb“? Toto jsou jen některé otázky, o nich diskutovali účastníci kulatého stolu pořádaného veřejným ochráncem práv 25. 4. 2013. Pozvání na něj přijali zástupci Ministerstva pro místní rozvoj, krajských úřadů a Magistrátů hlavního města Prahy a města Brna, tedy úřadů působících v roli ústředního správního orgánu státní správy na úseku stavebního řádu a odvolacích správních orgánů, které mají široké zkušenosti s aplikací stavebního zákona. </p>"
 ---

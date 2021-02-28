@@ -1,6 +1,8 @@
 ---
 title: "Ochránce v Interview ČT24"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2013/ochrance-v-interview-ct24"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2013/ochrance-v-interview-ct24"
 date: 2013-02-27
 perex: "<p></p>"
 ---

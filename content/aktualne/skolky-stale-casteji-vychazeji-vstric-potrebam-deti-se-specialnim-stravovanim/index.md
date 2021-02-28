@@ -1,6 +1,8 @@
 ---
 title: "Školky stále častěji vycházejí vstříc potřebám dětí se speciálním stravováním"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2015/skolky-stale-casteji-vychazeji-vstric-potrebam-deti-se-specialnim-stravovanim"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2015/skolky-stale-casteji-vychazeji-vstric-potrebam-deti-se-specialnim-stravovanim"
 date: 2015-08-24
 perex: "<p>Více než polovina školek se v uplynulých třech letech setkala s požadavkem rodičů na speciální dietní stravu pro děti. Zjistila to veřejná ochránkyně práv dotazníkovým výzkumem 799 mateřských škol zapsaných v Rejstříku škol a školských zařízení. Nejčastěji dítě potřebovalo bezlepkovou nebo bezlaktózovou stravu, případně rodiče požadovali jinou úpravu stravy zejména s ohledem na potravinové alergie (např. kakao, ořechy, rajčata apod.).</p>"
 ---

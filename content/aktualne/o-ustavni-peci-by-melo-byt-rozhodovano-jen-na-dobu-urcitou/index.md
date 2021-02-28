@@ -1,6 +1,8 @@
 ---
 title: "O ústavní péči by mělo být rozhodováno jen na dobu určitou"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2007/o-ustavni-peci-by-melo-byt-rozhodovano-jen-na-dobu-urcitou"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2007/o-ustavni-peci-by-melo-byt-rozhodovano-jen-na-dobu-urcitou"
 date: 2007-12-13
 perex: "<p></p>"
 ---

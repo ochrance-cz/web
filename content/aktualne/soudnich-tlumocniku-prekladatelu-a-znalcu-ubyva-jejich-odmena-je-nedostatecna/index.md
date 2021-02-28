@@ -1,6 +1,8 @@
 ---
 title: "Soudních tlumočníků, překladatelů a znalců ubývá, jejich odměna je nedostatečná"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2020/soudnich-tlumocniku-prekladatelu-a-znalcu-ubyva-jejich-odmena-je-nedostatecna"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2020/soudnich-tlumocniku-prekladatelu-a-znalcu-ubyva-jejich-odmena-je-nedostatecna"
 date: 2020-09-21
 perex: "<p>Odměna soudních tlumočníků a překladatelů a soudních znalců je nedostatečná, neodpovídá odborným předpokladům, ani odpovědnosti, kterou tito odborníci nesou. I když ombudsman vítá, že se má po 17 letech odměna soudních tlumočníků, překladatelů a znalců zvýšil, navrhovanou odměnu považuje za nedostatečnou.</p>"
 ---

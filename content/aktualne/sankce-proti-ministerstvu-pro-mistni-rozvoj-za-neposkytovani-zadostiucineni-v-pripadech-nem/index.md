@@ -1,6 +1,8 @@
 ---
 title: "Sankce proti Ministerstvu pro místní rozvoj za neposkytování zadostiučinění v případech nemajetkové újmy"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2013/sankce-proti-ministerstvu-pro-mistni-rozvoj-za-neposkytovani-zadostiucineni-v-pripadech-nem"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2013/sankce-proti-ministerstvu-pro-mistni-rozvoj-za-neposkytovani-zadostiucineni-v-pripadech-nem"
 date: 2013-10-24
 perex: "<p>Ministerstvo pro místní rozvoj neposkytuje odškodnění za nemajetkovou újmu způsobenou nesprávným úředním postupem. Chybně vyhodnocuje nesprávný úřední postup a po žadatelích vyžaduje prokázání nemajetkové újmy, ačkoli v těchto případech je věcí státu, aby vyvrátil tvrzení o jejím vzniku.</p>"
 ---

@@ -1,6 +1,8 @@
 ---
 title: "Zahradní stavby a pohoda bydlení"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2006/zahradni-stavby-a-pohoda-bydleni"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2006/zahradni-stavby-a-pohoda-bydleni"
 date: 2006-06-07
 perex: "<p></p>"
 ---

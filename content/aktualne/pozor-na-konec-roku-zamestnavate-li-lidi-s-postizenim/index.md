@@ -1,6 +1,8 @@
 ---
 title: "Pozor na konec roku, zaměstnáváte-li lidi s postižením"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2019/pozor-na-konec-roku-zamestnavate-li-lidi-s-postizenim"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2019/pozor-na-konec-roku-zamestnavate-li-lidi-s-postizenim"
 date: 2019-12-12
 perex: "<p>S blížícím se koncem roku by měly zpozornět firmy zaměstnávající lidi s postižením. Pokud nestihnou zaplatit všechny povinné daně a odvody do posledního kalendářního dne, přijdou o příspěvek na zaměstnávání lidí s postižením.</p>"
 ---

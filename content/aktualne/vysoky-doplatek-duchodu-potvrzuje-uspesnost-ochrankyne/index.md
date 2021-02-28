@@ -1,6 +1,8 @@
 ---
 title: "Vysoký doplatek důchodu potvrzuje úspěšnost ochránkyně"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2016/vysoky-doplatek-duchodu-potvrzuje-uspesnost-ochrankyne"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2016/vysoky-doplatek-duchodu-potvrzuje-uspesnost-ochrankyne"
 date: 2016-09-15
 perex: "<p>Šetřením, upozorňováním a výzvami k nápravě se ochránkyni podařilo vymoci muži ve III. stupni invalidity nejen invalidní důchod ve správné výši, ale i doplatek téměř 400 000 Kč za původně nesprávně stanovený invalidní důchod.</p>"
 ---

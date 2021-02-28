@@ -1,6 +1,8 @@
 ---
 title: "Sporů o děti přibývá a jsou vyhrocenější"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2018/sporu-o-deti-pribyva-a-jsou-vyhrocenejsi"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2018/sporu-o-deti-pribyva-a-jsou-vyhrocenejsi"
 date: 2018-05-30
 perex: "<p>V posledních dvou letech vzrostl počet podnětů týkajících se ochrany práv dětí a mění se i témata, kterými se ombudsmanka častěji zabývá. Spory rodičů o děti jsou vyhrocenější a tvrdší než v minulých letech a přibývá stížností souvisejících s pěstounskou péčí.</p>"
 ---

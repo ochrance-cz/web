@@ -1,6 +1,8 @@
 ---
 title: "Osobní příjem podnětů v době vánočních svátků"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2013/osobni-prijem-podnetu-v-dobe-vanocnich-svatku"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2013/osobni-prijem-podnetu-v-dobe-vanocnich-svatku"
 date: 2013-12-18
 perex: "<p></p>"
 ---

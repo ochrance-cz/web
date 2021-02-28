@@ -1,6 +1,8 @@
 ---
 title: "Novela zákona o pomoci v hmotné nouzi sociální situaci lidí ještě zhorší"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2014/novela-zakona-o-pomoci-v-hmotne-nouzi-socialni-situaci-lidi-jeste-zhorsi"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2014/novela-zakona-o-pomoci-v-hmotne-nouzi-socialni-situaci-lidi-jeste-zhorsi"
 date: 2014-01-20
 perex: "<p>Zástupce ombudsmana zásadně nesouhlasí s návrhem novely zákona o pomoci v hmotné nouzi, který bude současná vláda v demisi projednávat ve středu 22. ledna 2014.</p>"
 ---

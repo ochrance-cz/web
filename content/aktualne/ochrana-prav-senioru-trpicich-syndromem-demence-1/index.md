@@ -1,6 +1,8 @@
 ---
 title: "Ochrana práv seniorů trpících syndromem demence"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2013/ochrana-prav-senioru-trpicich-syndromem-demence-1"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2013/ochrana-prav-senioru-trpicich-syndromem-demence-1"
 date: 2013-08-26
 perex: "<p>Ochránce letos provedl systematické návštěvy už ve 13 domovech pro seniory a domovech se zvláštním režimem. Nedostatky zjistil především v zajištění soukromí při osobní hygieně, v prevenci pádů, nepřizpůsobení péče onemocnění klienta či v účtování zvláštního poplatku za činnosti, které jsou součástí základních sociálních služeb.</p>"
 ---

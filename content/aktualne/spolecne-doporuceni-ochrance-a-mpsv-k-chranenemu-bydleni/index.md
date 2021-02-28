@@ -1,6 +1,8 @@
 ---
 title: "Společné doporučení ochránce a MPSV k chráněnému bydlení"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2009/spolecne-doporuceni-ochrance-a-mpsv-k-chranenemu-bydleni"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2009/spolecne-doporuceni-ochrance-a-mpsv-k-chranenemu-bydleni"
 date: 2009-12-02
 perex: "<p></p><p>Zákonem č. 206/2009 Sb., došlo k novelizaci zákona č. 108/2006 Sb., o sociálních službách (dále jen zákon o sociálních službách), a zákona č. 111/2006 Sb., o pomoci v hmotné nouzi (dále jen zákon o pomoci v hmotné nouzi), s účinností od 1. srpna 2009.</p><p>Jednou ze změn, kterou novela přinesla, je i to, se na uživatele služby chráněného bydlení již nadále nevztahuje zaručený minimální zůstatek příjmu po úhradě stravy a ubytování ve výši 15 % příjmu. </p>"
 ---

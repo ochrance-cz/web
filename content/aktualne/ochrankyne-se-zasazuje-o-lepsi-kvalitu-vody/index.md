@@ -1,6 +1,8 @@
 ---
 title: "Ochránkyně se zasazuje o lepší kvalitu vody"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2015/ochrankyne-se-zasazuje-o-lepsi-kvalitu-vody"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2015/ochrankyne-se-zasazuje-o-lepsi-kvalitu-vody"
 date: 2015-12-10
 perex: "<p>Veřejná ochránkyně práv žádá vládu, aby zastavila znečišťování vodních toků a nádrží. Máme sice kvalitní čistírny odpadních vod, ale kvůli právnímu předpisu úřady nemohou provozovatele nutit, aby do řek a nádrží vypouštěli méně znečišťujících látek.</p>"
 ---

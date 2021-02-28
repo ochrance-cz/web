@@ -1,6 +1,8 @@
 ---
 title: "Ombudsman u premiéra Nečase"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2011/ombudsman-u-premiera-necase"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2011/ombudsman-u-premiera-necase"
 date: 2011-05-26
 perex: "<p></p><p>Veřejný ochránce práv Pavel Varvařovský se dnes v 9:30 hod v Praze sejde s premiérem Petrem Nečasem. Předá mu zprávu o činnosti za rok 2010 a upozorní na zásadní doporučení k přijetí některých dlouhodobě potřebných legislativních změn. Doporučení ochránce vycházejí z poznatků z šetření, z řadu let se opakujících tíživých problémů, do nichž se lidé dostávají a které nelze napravit jinak, než změnou zákona.</p>"
 ---

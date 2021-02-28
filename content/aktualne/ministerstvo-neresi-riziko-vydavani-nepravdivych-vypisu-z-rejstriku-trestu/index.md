@@ -1,6 +1,8 @@
 ---
 title: "Ministerstvo neřeší riziko vydávání nepravdivých výpisů z rejstříku trestů"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2015/ministerstvo-neresi-riziko-vydavani-nepravdivych-vypisu-z-rejstriku-trestu"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2015/ministerstvo-neresi-riziko-vydavani-nepravdivych-vypisu-z-rejstriku-trestu"
 date: 2015-07-30
 perex: "<p>V rámci čtvrtletní zprávy o činnosti informovala veřejná ochránkyně práv Poslaneckou sněmovnu o riziku, kdy trestaná osoba může obdržet čistý výpis z rejstříku trestů. Upozornila v této souvislosti poslance, že Ministerstvo spravedlnosti dosud odmítá přijmout opatření, která by toto riziko eliminovala.</p>"
 ---

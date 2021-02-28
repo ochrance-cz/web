@@ -1,6 +1,8 @@
 ---
 title: "Potíže matrik při určování data úmrtí"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2016/potize-matrik-pri-urcovani-data-umrti"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2016/potize-matrik-pri-urcovani-data-umrti"
 date: 2016-03-15
 perex: "<p>Jestliže lidé zemřou mimo zdravotnické zařízení, stojí někdy matrikáři před problémem, jaké datum a čas úmrtí zapsat do matričních knih. Ne vždy je ale podle ochránkyně věc tak nejasná, aby musel o datu smrti rozhodovat soud.</p>"
 ---

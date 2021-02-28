@@ -1,6 +1,8 @@
 ---
 title: "Když je soused sousedovi „vlkem“"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2017/kdyz-je-soused-sousedovi-vlkem"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2017/kdyz-je-soused-sousedovi-vlkem"
 date: 2017-06-29
 perex: "<p>Na začátku řady stížností veřejnému ochránci práv jsou spory mezi sousedy. Počet podnětů, v nichž významnou roli hraje sousedský spor, dokonce stoupá. Nejčastěji jde o problémy soužití nebo konflikty související s bydlením a užíváním nemovitostí. Minimálně každý druhý podnět ve stavebnictví tak souvisí se sousedským sporem a podobné je to u přestupků proti občanskému soužití. Neschopnost dohodnout se je ale typická také např. u záležitostí veřejných cest apod.</p>"
 ---

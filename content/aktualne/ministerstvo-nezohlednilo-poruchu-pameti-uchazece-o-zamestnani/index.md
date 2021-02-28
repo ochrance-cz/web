@@ -1,6 +1,8 @@
 ---
 title: "Ministerstvo nezohlednilo poruchu paměti uchazeče o zaměstnání"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2014/ministerstvo-nezohlednilo-poruchu-pameti-uchazece-o-zamestnani"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2014/ministerstvo-nezohlednilo-poruchu-pameti-uchazece-o-zamestnani"
 date: 2014-12-12
 perex: "<p>Ministerstvo práce a sociálních věcí odmítlo zrušit rozhodnutí Úřadu práce ČR, kterým byl z evidence vyřazen uchazeč o zaměstnání za to, že se nedostavil na informační schůzku. Ministerstvo přitom nezohlednilo fakt, že uchazeč dlouhodobě trpí poruchou paměti.</p>"
 ---

@@ -1,6 +1,8 @@
 ---
 title: "Prohlášení ochránce: FOD obviňuje jiné bez ohledu na vlastní roli v kuřimské kauze"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2007/prohlaseni-ochrance-fod-obvinuje-jine-bez-ohledu-na-vlastni-roli-v-kurimske-kauze"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2007/prohlaseni-ochrance-fod-obvinuje-jine-bez-ohledu-na-vlastni-roli-v-kurimske-kauze"
 date: 2007-06-28
 perex: "<p></p><p>Ochránce se ohrazuje proti obviňování ze strany Fondu ohrožených dětí pro porušení oznamovací povinnosti v souvislosti s případem týraných dětí z Kuřimi.</p>"
 ---

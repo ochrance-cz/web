@@ -1,6 +1,8 @@
 ---
 title: "Ochránkyně chce zachovat včasnou finanční pomoc obětem trestných činů"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2015/ochrankyne-chce-zachovat-vcasnou-financni-pomoc-obetem-trestnych-cinu"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2015/ochrankyne-chce-zachovat-vcasnou-financni-pomoc-obetem-trestnych-cinu"
 date: 2015-09-09
 perex: "<p>Ministerstvo spravedlnosti navrhuje změnu zákona o obětech trestných činů. Žádá prodloužit tříměsíční lhůtu, během které musí posoudit žádosti obětí trestných činů a pozůstalých po těchto obětech o finanční pomoc. Smyslem finanční pomoci je zmírnění negativních a traumatických dopadů na oběti. Aby byla pomoc účinná, musí být také včasná. Ombudsmanka proto nesouhlasí s návrhem, který by lhůtu pro vyplácení pomoci prodloužil na dobu neurčitou.</p>"
 ---

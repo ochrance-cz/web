@@ -1,6 +1,8 @@
 ---
 title: "Případ pro ombudsmanku: Rodičovství"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2019/pripad-pro-ombudsmanku-rodicovstvi"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2019/pripad-pro-ombudsmanku-rodicovstvi"
 date: 2019-06-21
 perex: "<p>V neděli 23. 6. v 10:20 h můžete na ČT2 sledovat jedenáctý díl pořadu Případ pro ombudsmanku. Je zaměřený na problémy spojené s rodičovství, tj. s čím se potýkají nejen matky na mateřské nebo rodičovské dovolené a po ní, při návratu do zaměstnání.</p>"
 ---

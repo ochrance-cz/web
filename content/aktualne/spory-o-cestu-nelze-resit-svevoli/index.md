@@ -1,6 +1,8 @@
 ---
 title: "Spory o cestu nelze řešit svévolí"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2008/spory-o-cestu-nelze-resit-svevoli"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2008/spory-o-cestu-nelze-resit-svevoli"
 date: 2008-07-28
 perex: "<p></p>"
 ---

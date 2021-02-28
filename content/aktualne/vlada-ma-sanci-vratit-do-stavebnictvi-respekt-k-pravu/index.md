@@ -1,6 +1,8 @@
 ---
 title: "Vláda má šanci vrátit do stavebnictví respekt k právu"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2017/vlada-ma-sanci-vratit-do-stavebnictvi-respekt-k-pravu"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2017/vlada-ma-sanci-vratit-do-stavebnictvi-respekt-k-pravu"
 date: 2017-01-12
 perex: "<p>Vláda v pondělí 16. 1. projedná žádost veřejné ochránkyně práv, aby Ministerstvo pro místní rozvoj odstranilo nezákonnou praxi a zajistilo náhradní výkon rozhodnutí stavebních úřadů vydaných ve veřejném zájmu. Neukázněné stavebníky by tím přiměla respektovat právo a rozhodnutí úřadů.</p>"
 ---

@@ -1,6 +1,8 @@
 ---
 title: "Přetíženost sociálních pracovníků = nedostatečná práce s rodinami"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2008/pretizenost-socialnich-pracovniku-nedostatecna-prace-s-rodinami"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2008/pretizenost-socialnich-pracovniku-nedostatecna-prace-s-rodinami"
 date: 2008-04-10
 perex: "<p></p>"
 ---

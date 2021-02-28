@@ -1,6 +1,8 @@
 ---
-title: "Umisťování antén na domě – možnosti uživatele bytu při nesouhlasu vlastníka domu"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2010/umistovani-anten-na-dome-moznosti-uzivatele-bytu-pri-nesouhlasu-vlastnika-domu"
+title: "Umisťování antén na domě &ndash; možnosti uživatele bytu při nesouhlasu vlastníka domu"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2010/umistovani-anten-na-dome-moznosti-uzivatele-bytu-pri-nesouhlasu-vlastnika-domu"
 date: 2010-04-21
 perex: "<p></p>"
 ---

@@ -1,6 +1,8 @@
 ---
 title: "MPSV použilo zákon před jeho účinností a chybu odmítlo napravit"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2013/mpsv-pouzilo-zakon-pred-jeho-ucinnosti-a-chybu-odmitlo-napravit"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2013/mpsv-pouzilo-zakon-pred-jeho-ucinnosti-a-chybu-odmitlo-napravit"
 date: 2013-08-30
 perex: "<p>Sankční zveřejnění postupu Ministerstva práce a sociálních věcí, které potvrdilo chybné rozhodnutí o snížení podpory v nezaměstnanosti za ukončení pracovního poměru dohodou. Svůj postoj ministerstvo odmítá změnit.</p>"
 ---

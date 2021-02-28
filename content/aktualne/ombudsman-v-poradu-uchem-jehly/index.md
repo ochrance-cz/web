@@ -1,6 +1,8 @@
 ---
 title: "Ombudsman v pořadu Uchem jehly"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2012/ombudsman-v-poradu-uchem-jehly"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2012/ombudsman-v-poradu-uchem-jehly"
 date: 2012-04-18
 perex: "<p></p>"
 ---

@@ -1,6 +1,8 @@
 ---
 title: "Obrana v daňové exekuci – jasněji v nejasných podáních"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2019/obrana-v-danove-exekuci-jasneji-v-nejasnych-podanich"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2019/obrana-v-danove-exekuci-jasneji-v-nejasnych-podanich"
 date: 2019-04-26
 perex: "<p>Ombudsman řešil případy dlužníků, kterým finanční úřady v daňové exekuci postihly bankovní účet. Na účet jim však chodila pouze mzda nebo důchod. Ty jsou chráněné a postihnout je lze pouze prostřednictvím srážek ze mzdy či důchodu. Zbylou část prostředků musí úřady dlužníkovi ponechat. Bohužel ne vždy se dlužníkům podařilo tuto situaci bez pomoci vyřešit. Ombudsman proto připravil nové informační letáky, které lidem pomohou se v problematice zorientovat. Současně Generální finanční ředitelství vydalo metodický pokyn, který sjednocuje a vyjasňuje postup finančních úřadů v případě nejasných podání.</p>"
 ---

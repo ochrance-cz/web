@@ -1,6 +1,8 @@
 ---
 title: "Marné čekání na rozhodnutí podjatého úřadu"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2017/marne-cekani-na-rozhodnuti-podjateho-uradu"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2017/marne-cekani-na-rozhodnuti-podjateho-uradu"
 date: 2017-03-13
 perex: "<p>Za dobu více než čtyř let nebyl stavební úřad Prahy 1 schopen efektivně zjednat nápravu v případě restaurace, která svým provozem porušovala kolaudační povolení a byla neustálým předmětem stížností obyvatel domu kvůli hluku. Podle zástupce ombudsmanky taková nečinnost alarmující. Upozornil také na možnou podjatost úředníků a zajistil, že záležitost bude řešit jiný úřad.</p>"
 ---

@@ -1,6 +1,8 @@
 ---
 title: "Pokuta za nedodržení elektronické formy podání daňového přiznání"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2016/pokuta-za-nedodrzeni-elektronicke-formy-podani-danoveho-priznani-1"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2016/pokuta-za-nedodrzeni-elektronicke-formy-podani-danoveho-priznani-1"
 date: 2016-09-12
 perex: "<p>Pokud někdo má – nebo musí mít – datovou schránku, je povinen podat daňové přiznání jejím prostřednictví. Platí to už druhý rok, přesto o této povinnosti řada lidí stále neví. Proti pokutě se přitom nelze bránit.</p>"
 ---

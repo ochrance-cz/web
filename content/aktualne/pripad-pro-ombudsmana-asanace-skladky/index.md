@@ -1,6 +1,8 @@
 ---
 title: "Případ pro ombudsmana: Asanace skládky"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2010/pripad-pro-ombudsmana-asanace-skladky"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2010/pripad-pro-ombudsmana-asanace-skladky"
 date: 2010-09-16
 perex: "<p></p><p>V pátek 17. 9. vysílá Česká televize na ČT1 v 18:25 třetí díl šestého cyklu pořadu Případ pro ombudsmana (repríze v pondělí 20. 9. ve 12:25 na ČT2). V dílu nazvaném Asanace skládky veřejný ochránce práv řeší dlouhodobé nelegální skladování odpadu, nečinnost úřadů a průtahy v řízení.</p>"
 ---

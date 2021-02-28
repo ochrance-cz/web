@@ -1,0 +1,12 @@
+---
+title: "Ombudsmanka uspořádala konferenci věnovanou obecnímu bydlení a sociální práci s klienty v bytové nouzi"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2020/ombudsmanka-usporadala-konferenci-venovanou-obecnimu-bydleni-a-socialni-praci-s-klienty-v-by"
+date: 2020-02-14
+perex: "<p>V pondělí 10. února se v sídle ombudsmanky konala konference věnovaná problematice obecního bydlení a sociální práce s lidmi v bytové nouzi.</p>"
+---
+
+<!-- imported from the old website -->
+
+<p>Nastavení bytové politiky obcí a bytová nouze spolu úzce souvisí, proto byla tato témata společným předmětem konference. </p> <p>Dopolední příspěvky se věnovaly pravidlům obcí pro přidělování obecních bytů. Jde sice o otázku samosprávy, i při jejím výkonu se však obce musejí řídit zákony. Jedním z nich je antidiskriminační zákon, který zakazuje diskriminaci mimo jiné v přístupu k bydlení, pokud je nabízeno veřejnosti.  Obce proto při poskytování obecního bydlení musejí naplňovat právo na rovné zacházení. </p> <p>Po úvodním slovu ombudsmanky byly představeny první výsledky výzkumu, který se věnoval vyhodnocení pravidel obcí pro přidělování obecních bytů z pohledu práva na rovné zacházení. Účastníci z řad zástupců obcí, krajských úřadů, příslušných ministerstev i nevládních organizací a sociálních pracovníků byli seznámeni s tím, jak obce dle zjištění výzkumu naplňují právo na rovné zacházení a úkoly obce při výkonu samosprávy v otázce bydlení. </p> <p>Zástupce z Ministerstva vnitra se pak ve svém příspěvku věnoval nejčastěji zjištěným pochybením, na která v pravidlech obcí narážejí při výkonu dozoru. Odpolední část začala příspěvkem Magdaleny Opletalové, která seznámila přítomné s analýzou toho, jak veřejné rozpočty zatěžuje bezdomovectví. </p> <p>Zbývající příspěvky se věnovaly sociální práci s klienty v bytové nouzi. Právničky ombudsmanky seznámily účastníky se zjištěními, které se týkají výkonu sociální práce na obecních úřadech. Věnovaly se tomu, co je třeba proto, aby sociální pracovníci mohli svým klientům efektivně pomoci. </p> <p>Závěrečnou část konference tvořil diskusní panel, a to za účasti zástupců nevládních organizací i obcí, kteří se podělili o své zkušenosti z praxe sociální práce s lidmi v bytové nouzi a také s možnými přístupy k řešení bytové nouze. Společně s účastníky v publiku probírali limity sociální práce, co se osvědčuje, co se neosvědčuje, na jaké překážky sociální pracovníci i jejich klienti narážejí a jak se jim daří je překonávat. </p>

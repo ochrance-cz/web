@@ -1,6 +1,8 @@
 ---
 title: "K vyjádřením zástupce ombudsmanky"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2016/k-vyjadrenim-zastupce-ombudsmanky"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2016/k-vyjadrenim-zastupce-ombudsmanky"
 date: 2016-07-15
 perex: "<p></p>"
 ---

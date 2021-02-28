@@ -1,6 +1,8 @@
 ---
 title: "Nepřípustná prohlídka civilistů ve Věznici Vinařice"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2013/nepripustna-prohlidka-civilistu-ve-veznici-vinarice"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2013/nepripustna-prohlidka-civilistu-ve-veznici-vinarice"
 date: 2013-09-09
 perex: "<p>Svlečení do naha a dřepování, které vyžadovala Věznice Vinařice po civilních osobách vstupujících do věznice, považuje zástupce veřejného ochránce práv za hrubý exces. </p>"
 ---

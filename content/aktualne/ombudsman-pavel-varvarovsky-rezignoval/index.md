@@ -1,6 +1,8 @@
 ---
 title: "Ombudsman Pavel Varvařovský rezignoval"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2013/ombudsman-pavel-varvarovsky-rezignoval"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2013/ombudsman-pavel-varvarovsky-rezignoval"
 date: 2013-12-20
 perex: "<p>K dnešnímu dni ukončil JUDr. Pavel Varvařovský své působení jako veřejný ochránce práv. Do zvolení nového ombudsmana (mělo by se tak stát do 60 dnů) bude jeho činnost v plném rozsahu a se všemi oprávněními vykonávat zástupce veřejného ochránce práv JUDr. Stanislav Křeček.</p>"
 ---

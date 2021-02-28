@@ -1,6 +1,8 @@
 ---
 title: "Milionový doplatek za chybně přiznaný invalidní důchod"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2018/milionovy-doplatek-za-chybne-priznany-invalidni-duchod"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2018/milionovy-doplatek-za-chybne-priznany-invalidni-duchod"
 date: 2018-06-07
 perex: "<p>Ombudsmanka pomohla vážně nemocnému muži nejen k výraznému zvýšení invalidního důchodu, ale také k doplatku více než 1 000 0000 Kč za důchod, který měl správně pobírat. Problém byl v nesprávně stanoveném datu vzniku invalidity – muž měl být uznán invalidním už o sedm let dříve. Chyba byla napravena a muži byl invalidní důchod z aktuálních 3 500 Kč zvýšen na 12 000 Kč. Rovněž mu byl přiznán doplatek invalidního důchodu ve výši 1 030 000 Kč.</p>"
 ---

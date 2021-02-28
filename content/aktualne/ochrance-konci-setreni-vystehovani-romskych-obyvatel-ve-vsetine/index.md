@@ -1,6 +1,8 @@
 ---
 title: "Ochránce končí šetření vystěhování romských obyvatel ve Vsetíně"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2007/ochrance-konci-setreni-vystehovani-romskych-obyvatel-ve-vsetine"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2007/ochrance-konci-setreni-vystehovani-romskych-obyvatel-ve-vsetine"
 date: 2007-04-04
 perex: "<p></p>"
 ---

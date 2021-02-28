@@ -1,6 +1,8 @@
 ---
 title: "Úřad přestal vyplácet vdovský a sirotčí důchod dřív, než o tom rozhodl"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2018/urad-prestal-vyplacet-vdovsky-a-sirotci-duchod-driv-nez-o-tom-rozhodl"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2018/urad-prestal-vyplacet-vdovsky-a-sirotci-duchod-driv-nez-o-tom-rozhodl"
 date: 2018-05-18
 perex: "<p>Matka se synem přišli o vdovský a sirotčí důchod, aniž by o tom úřad předtím rozhodl a rozhodnutí jim doručil. Později vydané rozhodnutí jim navíc odňalo důchody k již uplynulému datu, což podle zákona není možné.</p>"
 ---

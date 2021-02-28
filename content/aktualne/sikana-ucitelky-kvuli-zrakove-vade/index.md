@@ -1,6 +1,8 @@
 ---
 title: "Šikana učitelky kvůli zrakové vadě"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2018/sikana-ucitelky-kvuli-zrakove-vade"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2018/sikana-ucitelky-kvuli-zrakove-vade"
 date: 2018-09-20
 perex: "<p>Pokud zaměstnavatel žádá o posouzení zdravotní způsobilosti svého zaměstnance, nezohlední přitom omezení vyplývající z jeho zdravotního postižení, přestože o nich ví, a neprovede žádné úpravy pracovních podmínek, může se dopouštět diskriminace.</p>"
 ---

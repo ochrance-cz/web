@@ -1,6 +1,8 @@
 ---
 title: "Úřad pro ochranu hospodářské soutěže v případě Národní knihovny pochybil"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2009/urad-pro-ochranu-hospodarske-souteze-v-pripade-narodni-knihovny-pochybil"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2009/urad-pro-ochranu-hospodarske-souteze-v-pripade-narodni-knihovny-pochybil"
 date: 2009-04-30
 perex: "<p></p><p>Ochránce ukončil šetření postupu a rozhodování Úřadu pro ochranu hospodářské soutěže (ÚOHS) ve věci architektonické soutěže o návrh nové budovy Národní knihovny.</p>"
 ---

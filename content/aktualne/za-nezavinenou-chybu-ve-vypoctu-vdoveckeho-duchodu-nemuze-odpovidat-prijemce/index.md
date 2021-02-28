@@ -1,6 +1,8 @@
 ---
 title: "Za nezaviněnou chybu ve výpočtu vdoveckého důchodu nemůže odpovídat příjemce"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2017/za-nezavinenou-chybu-ve-vypoctu-vdoveckeho-duchodu-nemuze-odpovidat-prijemce"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2017/za-nezavinenou-chybu-ve-vypoctu-vdoveckeho-duchodu-nemuze-odpovidat-prijemce"
 date: 2017-07-24
 perex: "<p>Muž, který pobíral chybně stanovený vdovecký důchod, nemusel přeplatek vracet. Chyba totiž nevznikla jeho vinnou a nemůže za ni nést odpovědnost. Ihned po upozornění ochránkyně ČSSZ chybu napravila a už uhrazený přeplatek stěžovateli vrátila.</p>"
 ---

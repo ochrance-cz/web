@@ -1,6 +1,8 @@
 ---
 title: "Ústavní soud souhlasí s veřejnou ochránkyní práv. Cesta k pořádku nevede přes plošné zákazy"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2017/ustavni-soud-souhlasi-s-verejnou-ochrankyni-prav-cesta-k-poradku-nevede-pres-plosne-za"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2017/ustavni-soud-souhlasi-s-verejnou-ochrankyni-prav-cesta-k-poradku-nevede-pres-plosne-za"
 date: 2017-07-14
 perex: "<p>Ochránkyně vítá rozhodnutí Ústavního soudu, který zrušil některá ustanovení vyhlášek měst Varnsdorf a Litvínov. ÚS v souladu s názorem ochránkyně potvrdil, že když všem lidem ve městě zakážeme sedět venku jinde než na lavičce, nevyřešíme tím problém vandalismu. Pouze z každého, kdo si sedne se zmrzlinou na zídku nebo před školou na zábradlí, uděláme pachatele přestupku. Lidé mají právo sednout si svobodně tam, kde sami uznají za vhodné. </p>"
 ---

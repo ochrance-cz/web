@@ -1,6 +1,8 @@
 ---
 title: "Návštěva maďarského ombudsmana"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2014/navsteva-madarskeho-ombudsmana"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2014/navsteva-madarskeho-ombudsmana"
 date: 2014-05-29
 perex: "<p>V rámci projektu Společně k dobré správě navštívil Kancelář veřejného ochránce práv maďarský ombudsman se svými kolegy.</p>"
 ---

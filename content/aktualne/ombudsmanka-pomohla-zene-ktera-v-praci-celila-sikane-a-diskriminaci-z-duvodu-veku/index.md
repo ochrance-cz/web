@@ -1,6 +1,8 @@
 ---
 title: "Ombudsmanka pomohla ženě, která v práci čelila šikaně a diskriminaci z důvodu věku"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2018/ombudsmanka-pomohla-zene-ktera-v-praci-celila-sikane-a-diskriminaci-z-duvodu-veku"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2018/ombudsmanka-pomohla-zene-ktera-v-praci-celila-sikane-a-diskriminaci-z-duvodu-veku"
 date: 2018-12-05
 perex: "<p>Žena čelila v práci šikaně kvůli svému věku od dalších spolupracovnic. Stěžovala si své nadřízené, která jí ale místo vyřešení problému nabídla jinou práci a později jí dala výpověď. Žena se obrátila na inspektorát práce. Ten se ale spokojil jen s formální kontrolou a vyjádřením její nadřízené. Zastání našla až u ombudsmanky.  </p>"
 ---

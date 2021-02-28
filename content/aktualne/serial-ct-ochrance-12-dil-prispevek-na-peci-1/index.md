@@ -1,6 +1,8 @@
 ---
 title: "Seriál ČT „Ochránce“ – 12. díl: Příspěvek na péči"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2011/serial-ct-ochrance-12-dil-prispevek-na-peci-1"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2011/serial-ct-ochrance-12-dil-prispevek-na-peci-1"
 date: 2011-11-21
 perex: "<p></p><p>Pečujete o někoho, kdo se o sebe pro své zdravotní postižení nedokáže postarat sám nebo takovou pomoc potřebujete sami? 12. díl seriálu Ochránce vysílaný na ČT2 v úterý 22. 11. v 17.20 hod a v repríze ve středu 23. 11. v 9:35 hod poradí, jak se domoci příspěvku na péči, který vám náleží.</p>"
 ---

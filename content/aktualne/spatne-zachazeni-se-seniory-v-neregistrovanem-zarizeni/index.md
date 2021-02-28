@@ -1,6 +1,8 @@
 ---
 title: "Špatné zacházení se seniory v neregistrovaném zařízení"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2014/spatne-zachazeni-se-seniory-v-neregistrovanem-zarizeni"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2014/spatne-zachazeni-se-seniory-v-neregistrovanem-zarizeni"
 date: 2014-08-28
 perex: "<p>V Domově Petruška v Šestajovicích zjistila veřejná ochránkyně práv špatné zacházení s klienty, omezování jejich osobní svobody, zásahy do soukromí, problematické zacházení s léky, nedostatky v poskytování stravy a zanedbávání bezpečnosti klientů. Poznatky ochránkyně vyplývají z neohlášené dvoudenní systematické návštěvy zařízení.</p>"
 ---

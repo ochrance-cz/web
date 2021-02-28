@@ -1,6 +1,8 @@
 ---
 title: "Ombudsman v médiích: Lidem v Ostravě dochází trpělivost"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2012/ombudsman-v-mediich-lidem-v-ostrave-dochazi-trpelivost"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2012/ombudsman-v-mediich-lidem-v-ostrave-dochazi-trpelivost"
 date: 2012-01-09
 perex: "<p></p><p>Jedna z reportáží pořadu ČT2 Nedej se uvedeného v neděli 8. 1. se věnovala problematice ostravského ovzduší, kterým se v rámci šetření z vlastní iniciativy věnovala zástupkyně ombudsmana. Ta v reportáži vysvětluje důvody a průběh šetření a především informuje o svých zjištěních a závěrech.</p>"
 ---

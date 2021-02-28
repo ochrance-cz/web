@@ -1,6 +1,8 @@
 ---
 title: "Pojišťovna má povinnost sama aktivně šetřit škodní událost"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2014/pojistovna-ma-povinnost-sama-aktivne-setrit-skodni-udalost"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2014/pojistovna-ma-povinnost-sama-aktivne-setrit-skodni-udalost"
 date: 2014-10-30
 perex: "<p>Zákon o pojišťovnictví ukládá pojišťovně povinnost provádět bez zbytečného odkladu šetření škodní události. K tomu je povinna využít všech svých oprávnění. Mezi mě opatření patří i právo nahlížet do spisu vedeného v řízení o trestném činu či správním deliktu, případně požádat o dobrovolnou spolupráci soukromé osoby, které byly přítomny vzniku škody. Pokud pojišťovna škodní událost sama řádně nešetří a pouze vyčkává, jak dopadne související přestupkové řízení, je to v rozporu se zákonem.</p>"
 ---

@@ -1,6 +1,8 @@
 ---
 title: "Neplatiče ve společenství vlastníků bytů se dá zbavit prodejem jeho bytu"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2015/neplatice-ve-spolecenstvi-vlastniku-bytu-se-da-zbavit-prodejem-jeho-bytu"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2015/neplatice-ve-spolecenstvi-vlastniku-bytu-se-da-zbavit-prodejem-jeho-bytu"
 date: 2015-12-02
 perex: "<p>Problém s dlužníkem ve společenství vlastníků bytů, kvůli kterému hrozí, že celý dům bude odpojen od vody a energií, se dá řešit pomocí občanského zákoníku. Zástupce ombudsmanky upozorňuje, že nový občanský zákoník umožňuje ostatním vlastníkům obrátit se na soud, aby nařídil prodej bytu dlužníka.</p>"
 ---

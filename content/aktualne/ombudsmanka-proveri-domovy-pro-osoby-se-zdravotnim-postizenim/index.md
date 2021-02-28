@@ -1,6 +1,8 @@
 ---
 title: "Ombudsmanka prověří domovy pro osoby se zdravotním postižením"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2017/ombudsmanka-proveri-domovy-pro-osoby-se-zdravotnim-postizenim"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2017/ombudsmanka-proveri-domovy-pro-osoby-se-zdravotnim-postizenim"
 date: 2017-10-18
 perex: "<p>Ombudsmanka zahájila sérii systematických návštěv domovů pro osoby se zdravotním postižením. Zaměří se v nich na podmínky v zařízení s ohledem na potřeby klientů, na respektování důstojnosti, soukromí a autonomie vůle klientů, na volnost pohybu, na zajištění školní docházky a pracovního uplatnění, na možnost realizovat soukromý život aj. Návštěvy zařízení budou probíhat v letošní i příštím roce a zahrnou celou republiku. Na tento typ zařízení se ombudsman zaměřil naposledy v roce 2009.</p>"
 ---

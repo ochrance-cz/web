@@ -1,6 +1,8 @@
 ---
 title: "Dospívající dívce v dětském domově upírali její práva. Zastání našla u ombudsmanky"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2019/dospivajici-divce-v-detskem-domove-upirali-jeji-prava-zastani-nasla-u-ombudsmanky"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2019/dospivajici-divce-v-detskem-domove-upirali-jeji-prava-zastani-nasla-u-ombudsmanky"
 date: 2019-05-22
 perex: "<p>Na ombudsmanku se obrátila sedmnáctiletá dívka, která byla umístěna do dětského domova. Podle svých slov byla do domova umístěna poté, co její poručníci nesouhlasili s tím, aby bydlela u svého již zletilého přítele.  Po umístění do dětského domova jí ředitel zařízení zakázal se s přítelem stýkat, měla omezený přístup k telefonu a nesměla používat internet. Dívka byla navíc umístěna do jiného dětského domova, než si sama přála, a musela kvůli tomu změnit také školu. Ombudsmanka během svého šetření zjistila celou řadu pochybení, kterých se vůči dospívající ženě dopustil jak orgán sociálně-právní ochrany dětí (OSPOD), tak ředitel dětského domova, do kterého byla mladá žena umístěna. </p>"
 ---

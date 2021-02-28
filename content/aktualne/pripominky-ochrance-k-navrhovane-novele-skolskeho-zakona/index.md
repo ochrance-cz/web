@@ -1,6 +1,8 @@
 ---
 title: "Připomínky ochránce k navrhované novele školského zákona"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2013/pripominky-ochrance-k-navrhovane-novele-skolskeho-zakona"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2013/pripominky-ochrance-k-navrhovane-novele-skolskeho-zakona"
 date: 2013-05-29
 perex: "<p>Navrhovaná novela školského zákona, k níž veřejný ochránce práv připojil své připomínky, je pro něj spíše zklamáním. Četné diskuze odborníků v uplynulém roce ukázaly, že český vzdělávací systém vyžaduje radikální změnu přístupu všech klíčových aktérů – zřizovatelů skol, rodičů, pedagogů, odborníků v oblasti zdravotnictví i orgánů státní správy. Předložený návrh novely školského zákona je však kompromisem, který podle ochránce zásadní změnu praxe nepřinese.</p>"
 ---

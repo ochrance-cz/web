@@ -1,6 +1,8 @@
 ---
 title: "Ombudsmanovy sloupky knižně"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2012/ombudsmanovy-sloupky-knizne"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2012/ombudsmanovy-sloupky-knizne"
 date: 2012-05-28
 perex: "<p></p>"
 ---

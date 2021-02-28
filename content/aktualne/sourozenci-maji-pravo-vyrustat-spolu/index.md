@@ -1,6 +1,8 @@
 ---
 title: "Sourozenci mají právo vyrůstat spolu"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2018/sourozenci-maji-pravo-vyrustat-spolu"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2018/sourozenci-maji-pravo-vyrustat-spolu"
 date: 2018-01-24
 perex: "<p>Pěstounská rodina pečovala o skupinu pěti sourozenců. Děti byly v rodině tři roky. Měly velmi silné vazby na pěstouny i širší rodinu. Dle zpráv orgánu sociálně-právní ochrany dětí (OSPOD) fungovala péče bez jakýchkoli problémů. V rodině bohužel došlo k tragickému úmrtí nejstaršího ze sourozenců. Následně byli sourozenci na základně předběžného opatření z rodiny odňati a rozděleni. Děti ztratily kontakt s pěstouny i mezi sebou navzájem. Z šetření ombudsmanky vyplynulo, že tak závažný zásah do rodinného života dětí nebyl nezbytný. Shledala v práci OSPOD sérii závažných pochybení. </p>"
 ---

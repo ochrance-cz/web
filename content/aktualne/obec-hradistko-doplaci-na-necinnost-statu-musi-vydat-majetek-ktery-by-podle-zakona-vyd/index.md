@@ -1,6 +1,8 @@
 ---
 title: "Obec Hradištko doplácí na nečinnost státu – musí vydat majetek, který by podle zákona vydávat nemusela"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2014/obec-hradistko-doplaci-na-necinnost-statu-musi-vydat-majetek-ktery-by-podle-zakona-vyd"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2014/obec-hradistko-doplaci-na-necinnost-statu-musi-vydat-majetek-ktery-by-podle-zakona-vyd"
 date: 2014-06-19
 perex: "<p>Zástupce veřejné ochránkyně práv Stanislav Křeček se obrátil na Královskou kanonii premonstrátů s přímluvou za obec Hradištko. Ta požádala o pomoc při řešení své situace v souvislosti s církevními restitucemi.</p>"
 ---

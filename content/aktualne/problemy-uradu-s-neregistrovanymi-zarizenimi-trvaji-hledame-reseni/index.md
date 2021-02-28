@@ -1,6 +1,8 @@
 ---
 title: "Problémy úřadů s neregistrovanými zařízeními trvají. Hledáme řešení"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2016/problemy-uradu-s-neregistrovanymi-zarizenimi-trvaji-hledame-reseni"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2016/problemy-uradu-s-neregistrovanymi-zarizenimi-trvaji-hledame-reseni"
 date: 2016-10-18
 perex: "<p>Omezování pohybu, nevyhovující strava a materiální podmínky, špatné zacházení, neoprávněné nakládání s léky. To jsou jen některé z problémů, které s sebou přináší neoprávněné poskytování sociálních služeb (tzv. neregistrované domovy pro seniory). S těmito zařízeními se denně potýkají krajské úřady, které mají ze zákona provozovatele zařízení stíhat za správní delikt neoprávněného poskytování sociálních služeb. </p>"
 ---

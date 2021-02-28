@@ -1,6 +1,8 @@
 ---
 title: "Pandemie Covid-19 se projevuje i v pohřebnictví"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2020/pandemie-covid-19-se-projevuje-i-v-pohrebnictvi"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2020/pandemie-covid-19-se-projevuje-i-v-pohrebnictvi"
 date: 2020-10-29
 perex: "<p>V souvislosti s pohřebnictvím v minulosti ombudsman upozorňoval na zvyšující se počet sociálních pohřbů na náklady obce. V letošním roce však zaznamenal případy, kdy z různých důvodů došlo k sociálnímu pohřbu a pozůstalí se pak snažili získat urnu s ostatky svého blízkého. I když chtěli dodatečně náklady pohřbu uhradit, pohřební služba jim urnu odmítla vydat. Ani pohřebnictví také nezůstalo bez dopadů pandemie Covid-19.</p>"
 ---

@@ -1,6 +1,8 @@
 ---
 title: "Ministerstvo pro místní rozvoj porušuje zákon. Ochránkyně vyzvala vládu k zjednání nápravy"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2016/ministerstvo-pro-mistni-rozvoj-porusuje-zakon-ochrankyne-vyzvala-vladu-k-zjednani-napravy"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2016/ministerstvo-pro-mistni-rozvoj-porusuje-zakon-ochrankyne-vyzvala-vladu-k-zjednani-napravy"
 date: 2016-09-01
 perex: "<p>Ministerstvo pro místní rozvoj odmítá jako jediné poskytovat odškodnění za nepřiměřenou délku řízení. Nejčastěji se jedná o řízení před stavebními úřady. Veřejná ochránkyně práv se snažila přesvědčit ministryni a její náměstky, aby od této nezákonné praxe upustili. Bohužel marně. Nyní se proto obrací na vládu, aby ministerstvu uložila zjednání nápravy. </p>"
 ---

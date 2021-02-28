@@ -1,6 +1,8 @@
 ---
 title: "Zřizování dětských skupin je výraznou pomocí rodinám"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2014/zrizovani-detskych-skupin-je-vyraznou-pomoci-rodinam"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2014/zrizovani-detskych-skupin-je-vyraznou-pomoci-rodinam"
 date: 2014-03-25
 perex: "<p>Veřejná ochránkyně práv podporuje přijetí vládního návrhu zákona o poskytování služby péče o dítě v dětské skupině. Dětské skupiny, jak je definuje a upravuje návrh (Sněmovní tisk  82/0), kterým se poslanci začnou zabývat ve středu 26. 3., přinášejí rodinám možnost dostupné služby péče o děti. Přijetí takto koncipovaného zákona umožní naplnit záměr vlády podporovat rychlejší návrat pečujících rodičů do zaměstnání a umožnit sladění pracovního a rodinného života rodičů s malými dětmi. </p>"
 ---

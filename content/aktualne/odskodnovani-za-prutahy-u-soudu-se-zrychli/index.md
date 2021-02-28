@@ -1,6 +1,8 @@
 ---
 title: "Odškodňování za průtahy u soudů se zrychlí"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2015/odskodnovani-za-prutahy-u-soudu-se-zrychli"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2015/odskodnovani-za-prutahy-u-soudu-se-zrychli"
 date: 2015-11-06
 perex: "<p>Lidé žádající Ministerstvo spravedlnosti o odškodnění za průtahy v soudních řízeních mají naději, že jejich žádost bude vyřízena rychleji, než tomu bylo dosud.  Ministerstvo reagovalo na opakovanou kritiku veřejného ochránce práv a aktuálně informovalo zástupce ochránkyně, že personálně posílí odbor odškodňování.</p>"
 ---

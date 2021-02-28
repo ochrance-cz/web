@@ -1,6 +1,8 @@
 ---
 title: "Zjištění z návštěv zařízení pro osoby s mentálním postižením"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2009/zjisteni-z-navstev-zarizeni-pro-osoby-s-mentalnim-postizenim"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2009/zjisteni-z-navstev-zarizeni-pro-osoby-s-mentalnim-postizenim"
 date: 2009-10-14
 perex: "<p></p><p>Zařízení pro osoby s mentálním postižením by podle ochránce neměly investovat do rozšiřování stávajících velkokapacitních areálů na odlehlých místech, ale zaměřit se spíše na budování malých detašovaných pracovišť umístěných v běžné zástavbě v obcích a městech. Jen tak mohou napodobit přirozené domácí prostředí, které mají nahrazovat, a zajistit klientům příležitost kontaktů s vnějším okolím.</p>"
 ---

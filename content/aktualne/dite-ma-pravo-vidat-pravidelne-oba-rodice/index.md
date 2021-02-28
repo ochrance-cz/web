@@ -1,6 +1,8 @@
 ---
 title: "Dítě má právo vídat pravidelně oba rodiče"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2016/dite-ma-pravo-vidat-pravidelne-oba-rodice"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2016/dite-ma-pravo-vidat-pravidelne-oba-rodice"
 date: 2016-08-02
 perex: "<p>Rozvod rodičů je zátěžovou situací, do které dítě spadne bez ohledu na svá přání. Nemělo by však zbytečně trpět jen proto, že se rodiče nedokáží dohodnout. Nejlepší zájem dítěte obvykle v roli kolizního opatrovníka hájí orgán sociálně-právní ochrany dětí. Nebo by alespoň měl. Nesmí jen pasivně čekat na rozhodnutí soudu, který určí rozdělení péče o děti. I v průběhu soudního řízení by měl zmírňovat spor mezi rodiči tak, aby v ideálním případě dospěli k dohodě.</p>"
 ---

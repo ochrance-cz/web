@@ -1,6 +1,8 @@
 ---
 title: "Tisková konference veřejného ochránce práv"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2010/tiskova-konference-verejneho-ochrance-prav"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2010/tiskova-konference-verejneho-ochrance-prav"
 date: 2010-10-12
 perex: "<p></p>"
 ---

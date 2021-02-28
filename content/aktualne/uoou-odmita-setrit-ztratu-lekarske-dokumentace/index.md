@@ -1,6 +1,8 @@
 ---
 title: "ÚOOÚ odmítá šetřit ztrátu lékařské dokumentace"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2010/uoou-odmita-setrit-ztratu-lekarske-dokumentace"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2010/uoou-odmita-setrit-ztratu-lekarske-dokumentace"
 date: 2010-12-08
 perex: "<p></p><p>Úřad pro ochranu osobních údajů odmítá provést kontrolu v nestátním zdravotnickém zařízení, v němž zřejmě došlo ke ztrátě lékařské dokumentace několika pacientek. Přestože se o ztrátě karet prokazatelně dozvěděl od jedné z takto postižených pacientek už v roce 2007, neprovedl dosud šetření v souladu se zákonem a nevyužil svá zákonná oprávnění k prověření, zda jsou v tomto zdravotnickém zařízení osobní údaje pacientů spravovány a zabezpečeny, jak vyžaduje zákon. Nečinností a nesprávným postupem ÚOOÚ tak nejen, že nedošlo k postihu osob odpovědných za ztrátu citlivých osobních dat, ale nebylo ani zajištěno, že se situace nemůže opakovat.</p>"
 ---

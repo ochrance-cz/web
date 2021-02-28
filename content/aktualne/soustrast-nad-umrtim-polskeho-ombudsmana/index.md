@@ -1,6 +1,8 @@
 ---
 title: "Soustrast nad úmrtím polského ombudsmana"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2010/soustrast-nad-umrtim-polskeho-ombudsmana"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2010/soustrast-nad-umrtim-polskeho-ombudsmana"
 date: 2010-04-10
 perex: "<p></p><p>Veřejný ochránce práv JUDr. Otakar Motejl s nesmírnou lítostí přijal zprávu o smrti svého polského kolegy, ombudsmana Dr. Janusze Kochanowského, který dnes zahynul spolu s prezidentem Polské republiky a dalšími významnými představiteli polského státu při leteckém neštěstí u Smolenska.</p>"
 ---

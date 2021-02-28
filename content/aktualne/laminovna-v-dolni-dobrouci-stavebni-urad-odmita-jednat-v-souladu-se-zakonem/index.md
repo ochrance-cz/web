@@ -1,6 +1,8 @@
 ---
 title: "Laminovna v Dolní Dobrouči: Stavební úřad odmítá jednat v souladu se zákonem"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2010/laminovna-v-dolni-dobrouci-stavebni-urad-odmita-jednat-v-souladu-se-zakonem"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2010/laminovna-v-dolni-dobrouci-stavebni-urad-odmita-jednat-v-souladu-se-zakonem"
 date: 2010-03-05
 perex: "<p></p><p>Provoz laminovny společnosti USSPA, s. r. o. v obci Dolní Dobrouč provází řada závažných pochybení na straně orgánů státní správy. Laminovna je od samého začátku provozována v rozporu s povolením o užívání stavby, přesto byl zejména stavební úřad po celou dobu zcela nečinný a v nečinnosti i nadále setrvává. </p>"
 ---

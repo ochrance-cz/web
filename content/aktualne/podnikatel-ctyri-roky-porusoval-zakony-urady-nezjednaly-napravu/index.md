@@ -1,6 +1,8 @@
 ---
 title: "Podnikatel čtyři roky porušoval zákony, úřady nezjednaly nápravu"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2013/podnikatel-ctyri-roky-porusoval-zakony-urady-nezjednaly-napravu"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2013/podnikatel-ctyri-roky-porusoval-zakony-urady-nezjednaly-napravu"
 date: 2013-02-28
 perex: "<p>Čtyři roky prováděl podnikatel v Dymokurech nezákonnou činnost, přesto mu byla úřady státu udělena pouze jediná pokuta. Stavební úřad měl důkazy o nezákonné činnosti, přesto nezahájil sankční řízení. Krajský úřad Středočeského kraje nepřijal žádné opatření, aby nečinnost stavebního úřadu odstranil, až mu to aktuálně muselo přikázat Ministerstvo pro místní rozvoj. Ačkoli podnikatel porušoval živnostenský zákon, živnostenský úřad neprováděl kontrolu a nevyužil svá oprávnění, aby zajistil respektování zákona. </p>"
 ---

@@ -1,6 +1,8 @@
 ---
 title: "Páteční vzpomínkové setkání"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2010/patecni-vzpominkove-setkani"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2010/patecni-vzpominkove-setkani"
 date: 2010-05-18
 perex: "<p></p>"
 ---

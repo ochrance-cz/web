@@ -1,6 +1,8 @@
 ---
 title: "Kancelář veřejného ochránce práv na Yellow Ribbon Run"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2017/kancelar-verejneho-ochrance-prav-na-yellow-ribbon-run"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2017/kancelar-verejneho-ochrance-prav-na-yellow-ribbon-run"
 date: 2017-06-14
 perex: "<p>Štafeta složená z pracovníků oddělení dohledu nad omezováním osobní svobody Kanceláře veřejného ochránce práv se dnes účastní O2 Pražské štafety pořádané v rámci projektu Yellow Ribbon Run na podporu zaměstnávání osob po výkonu trestu. Ochránkyně nad akcí převzala záštitu.</p>"
 ---

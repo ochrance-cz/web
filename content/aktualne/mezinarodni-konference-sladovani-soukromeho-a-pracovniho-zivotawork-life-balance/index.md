@@ -1,6 +1,8 @@
 ---
 title: "Mezinárodní konference „Slaďování soukromého a pracovního života/Work-life balance“"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2014/mezinarodni-konference-sladovani-soukromeho-a-pracovniho-zivotawork-life-balance"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2014/mezinarodni-konference-sladovani-soukromeho-a-pracovniho-zivotawork-life-balance"
 date: 2014-10-13
 perex: "<p>23. a 24. října 2014 pořádá veřejná ochránkyně práv mezinárodní konferenci „Slaďování soukromého a pracovního života/Work-life balance“.</p>"
 ---

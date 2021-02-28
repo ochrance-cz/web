@@ -1,6 +1,8 @@
 ---
 title: "Nízký věk už nebude překážkou pro získání zákaznické karty České pošty"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2016/nizky-vek-uz-nebude-prekazkou-pro-ziskani-zakaznicke-karty-ceske-posty"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2016/nizky-vek-uz-nebude-prekazkou-pro-ziskani-zakaznicke-karty-ceske-posty"
 date: 2016-12-09
 perex: "<p>Česká pošta bude od 1. ledna 2017 poskytovat zákaznické karty nově taky osobám mladším 15 let. Tuto změnu inicioval svým podnětem v roce 2014 tehdy čtrnáctiletý stěžovatel, kterému Česká pošta odmítla zvýhodněnou kartu s ohledem na jeho věk poskytnout. Se stížností neuspěl u Českého telekomunikačního úřadu ani u poštovní ombudsmanky. Veřejná ochránkyně práv mu však během svého šetření dala za pravdu a podmínky České pošty se proto změní pro všechny. </p>"
 ---

@@ -1,6 +1,8 @@
 ---
 title: "Zástupce ombudsmana dnes na Radiožurnálu"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2013/zastupce-ombudsmana-dnes-na-radiozurnalu"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2013/zastupce-ombudsmana-dnes-na-radiozurnalu"
 date: 2013-05-28
 perex: "<p>Zástupce ombudsmana Stanislav Křeček bude dnes po 17:00h hostem pořadu Dvacet minut Radiožurnálu.</p>"
 ---

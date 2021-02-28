@@ -1,6 +1,8 @@
 ---
 title: "Péče o ohrožené děti a jejich rodiny"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2012/pece-o-ohrozene-deti-a-jejich-rodiny"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2012/pece-o-ohrozene-deti-a-jejich-rodiny"
 date: 2012-04-06
 perex: "<p></p><p>Poznatky ochránce ze systematických návštěv ústavních zařízení pro děti se staly východiskem odborného semináře, který se pod záštitou Stálé komise pro rodinu a rovné příležitosti uskutečnil ve čtvrtek 5. 4. 2012 v Poslanecké sněmovně. Poslancům, zástupcům ministerstev, odborníkům v oblasti sociálně-právní ochrany dětí, zástupcům samosprávy, ředitelům zařízení a dalším odborníkům ochránce v úvodu popsal, jak se v řadě případů diametrálně liší standardy péče, které ochránce formuloval, tedy to, jak má péče o ohrožené děti vypadat, od skutečného stavu.</p>"
 ---

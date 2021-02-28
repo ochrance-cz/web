@@ -1,6 +1,8 @@
 ---
 title: "Kulatý stůl k vybraným problémům aplikace stavebního zákona"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2015/kulaty-stul-k-vybranym-problemum-aplikace-stavebniho-zakona"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2015/kulaty-stul-k-vybranym-problemum-aplikace-stavebniho-zakona"
 date: 2015-04-28
 perex: "<p>Dne 28. 4. 2015 se v sídle Kanceláře veřejného ochránce práv uskutečnil kulatý stůl se zástupci všech krajských úřadů, Ministerstva pro místní rozvoj, Magistrátu města Brna, Magistrátu hl. m. Prahy a České společnosti pro stavební právo. Cílem byla diskuze vybraných témat stavebního práva a seznámení účastníků s aktuálními poznatky v této oblasti.</p>"
 ---

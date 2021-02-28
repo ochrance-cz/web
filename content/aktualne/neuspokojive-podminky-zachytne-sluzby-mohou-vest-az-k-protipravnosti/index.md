@@ -1,6 +1,8 @@
 ---
 title: "Neuspokojivé podmínky záchytné služby mohou vést až k protiprávnosti"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2014/neuspokojive-podminky-zachytne-sluzby-mohou-vest-az-k-protipravnosti"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2014/neuspokojive-podminky-zachytne-sluzby-mohou-vest-az-k-protipravnosti"
 date: 2014-09-09
 perex: "<p></p>"
 ---

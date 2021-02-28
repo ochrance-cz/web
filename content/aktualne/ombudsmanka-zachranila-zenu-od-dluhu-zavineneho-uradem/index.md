@@ -1,6 +1,8 @@
 ---
 title: "Ombudsmanka zachránila ženu od dluhu zaviněného úřadem"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2017/ombudsmanka-zachranila-zenu-od-dluhu-zavineneho-uradem"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2017/ombudsmanka-zachranila-zenu-od-dluhu-zavineneho-uradem"
 date: 2017-02-16
 perex: "<p>Ochránkyni se podařilo vyřešit potíže prababičky, která si vzala do péče své dvě pravnučky. Chybou úřadu jí totiž vznikl přeplatek na rodičovském příspěvku a přídavcích na děti. Díky ochránkyni přistoupilo ministerstvo na řešení, které ženu nepoškodilo.</p>"
 ---

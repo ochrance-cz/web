@@ -1,6 +1,8 @@
 ---
 title: "Úřad práce nemůže zastavit vyplácení podpory v nezaměstnanosti dříve, než o tom vydá rozhodnutí"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2019/urad-prace-nemuze-zastavit-vyplaceni-podpory-v-nezamestnanosti-drive-nez-o-tom-vyda-roz"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2019/urad-prace-nemuze-zastavit-vyplaceni-podpory-v-nezamestnanosti-drive-nez-o-tom-vyda-roz"
 date: 2019-09-13
 perex: "<p>Úřad práce vyřadil muže z evidence uchazečů o zaměstnání, protože se bez vážného důvodu nedostavil na stanovenou kontaktní schůzku. Od stejného dne mu okamžitě přestal vyplácet podporu v nezaměstnanosti, přestože rozhodnutí o vyřazení stěžovatele vydal až za dva měsíce. Ombudsmanka ve svém šetření dospěla k závěru, že byl muž z evidence vyřazen oprávněně, nicméně úřad práce nemůže zastavit vyplácení podpory před tím, než o tom vydá rozhodnutí. To by totiž znamenalo, že úřad předjímá, že řízení musí vždy skončit vyřazením z evidence. </p>"
 ---

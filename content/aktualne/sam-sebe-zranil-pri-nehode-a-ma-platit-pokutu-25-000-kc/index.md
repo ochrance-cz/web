@@ -1,6 +1,8 @@
 ---
 title: "Sám sebe zranil při nehodě a má platit pokutu 25 000 Kč"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2007/sam-sebe-zranil-pri-nehode-a-ma-platit-pokutu-25-000-kc"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2007/sam-sebe-zranil-pri-nehode-a-ma-platit-pokutu-25-000-kc"
 date: 2007-09-19
 perex: "<p></p>"
 ---

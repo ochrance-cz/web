@@ -1,6 +1,8 @@
 ---
 title: "K vrácení invalidního důchodu stačila rada"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2015/k-vraceni-invalidniho-duchodu-stacila-rada"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2015/k-vraceni-invalidniho-duchodu-stacila-rada"
 date: 2015-05-07
 perex: "<p>Rada od veřejné ochránkyně práv nebo návod, jak postupovat, někdy stačí, aby se problém úspěšně vyřešil. Přesvědčila se o tom stěžovatelka z Prahy, která takhle dosáhla vrácení invalidního důchodu – zkonzultovala s ochránkyní, jak by se měla bránit, když jí Česká správa sociálního zabezpečení invalidní důchod odňala.</p>"
 ---

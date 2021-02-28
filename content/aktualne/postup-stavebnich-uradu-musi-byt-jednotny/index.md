@@ -1,6 +1,8 @@
 ---
 title: "Postup stavebních úřadů musí být jednotný"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2014/postup-stavebnich-uradu-musi-byt-jednotny"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2014/postup-stavebnich-uradu-musi-byt-jednotny"
 date: 2014-05-16
 perex: "<p>Zástupce veřejné ochránkyně práv uskutečnil pracovní setkání se zástupci krajských úřadů, magistrátů Prahy a Brna, Ministerstva pro místní rozvoj a České společnosti pro stavební právo s cílem porovnat navzájem zkušenosti, diskutovat o aktuálních problémech a zajistit jednotnost postupu úřadů v praxi.</p>"
 ---

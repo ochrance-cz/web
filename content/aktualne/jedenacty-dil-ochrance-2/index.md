@@ -1,6 +1,8 @@
 ---
 title: "Jedenáctý díl Ochránce"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2016/jedenacty-dil-ochrance-2"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2016/jedenacty-dil-ochrance-2"
 date: 2016-03-18
 perex: "<p>Dá se něco dělat, když hrozí, že váš dům obklíčí silnice? Kdy můžete přijít o pěstounské dávky a jak řešit situaci, když vám dítě odmítnou vzít do školky kvůli bezlepkové dietě? Sledujte na ČT2 v neděli 20. 3. v 18:15 h, reprízy ve čtvrtek v 18:55 h a v pátek v 6:00 h.</p>"
 ---

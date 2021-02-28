@@ -1,6 +1,8 @@
 ---
 title: "Lidé s autismem mají právo na odpovídající sociální služby, které jim usnadní život"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2018/lide-s-autismem-maji-pravo-na-odpovidajici-socialni-sluzby-ktere-jim-usnadni-zivot"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2018/lide-s-autismem-maji-pravo-na-odpovidajici-socialni-sluzby-ktere-jim-usnadni-zivot"
 date: 2018-02-13
 perex: "<p>Na ombudsmanku se obrátila babička muže s autismem, který s ohledem na míru svého postižení potřebuje pro život podporu prostřednictvím pobytové sociální služby. Ve svém kraji však neuspěl. Muž se tak nacházel bez adekvátní pomoci více než dva roky. Nejedná se o ojedinělý problém. </p>"
 ---

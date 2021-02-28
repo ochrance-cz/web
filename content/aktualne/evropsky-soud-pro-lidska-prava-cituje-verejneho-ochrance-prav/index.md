@@ -1,6 +1,8 @@
 ---
 title: "Evropský soud pro lidská práva cituje veřejného ochránce práv"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2008/evropsky-soud-pro-lidska-prava-cituje-verejneho-ochrance-prav"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2008/evropsky-soud-pro-lidska-prava-cituje-verejneho-ochrance-prav"
 date: 2008-12-22
 perex: "<p></p>"
 ---

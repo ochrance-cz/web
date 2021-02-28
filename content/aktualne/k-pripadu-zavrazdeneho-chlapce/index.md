@@ -1,6 +1,8 @@
 ---
 title: "K případu zavražděného chlapce"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2008/k-pripadu-zavrazdeneho-chlapce"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2008/k-pripadu-zavrazdeneho-chlapce"
 date: 2008-01-28
 perex: "<p></p>"
 ---

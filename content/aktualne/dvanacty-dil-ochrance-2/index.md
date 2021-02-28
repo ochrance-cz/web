@@ -1,6 +1,8 @@
 ---
 title: "Dvanáctý díl Ochránce"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2016/dvanacty-dil-ochrance-2"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2016/dvanacty-dil-ochrance-2"
 date: 2016-04-01
 perex: "<p>Poslední díl Ochránce je jiný než ostatní. Nevěnuje se jednotlivým stížnostem, ale ukazuje, jakým způsobem provádí ochránce dohled nad místy, kde jsou lidé omezeni na svobodě. V tomto případě konkrétně v diagnostickém ústavu pro děti, v policejních celách a v domově pro seniory.  Sledujte na ČT2 v neděli 3. 4. v 18:15 h, reprízy ve čtvrtek v 18:55 h a v pátek.</p>"
 ---

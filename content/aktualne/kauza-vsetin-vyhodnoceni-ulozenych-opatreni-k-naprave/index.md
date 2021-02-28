@@ -1,6 +1,8 @@
 ---
-title: "Kauza Vsetín – vyhodnocení uložených opatření k nápravě"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2007/kauza-vsetin-vyhodnoceni-ulozenych-opatreni-k-naprave"
+title: "Kauza Vsetín &ndash; vyhodnocení uložených opatření k nápravě"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2007/kauza-vsetin-vyhodnoceni-ulozenych-opatreni-k-naprave"
 date: 2007-12-12
 perex: "<p></p>"
 ---

@@ -1,6 +1,8 @@
 ---
 title: "Prominutí poplatku za komunální odpad"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2016/prominuti-poplatku-za-komunalni-odpad"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2016/prominuti-poplatku-za-komunalni-odpad"
 date: 2016-11-04
 perex: "<p>Obecní úřady získaly po necelých pěti letech zpět oprávnění na žádost prominout místní poplatek za komunální odpad. Pokud žádost zamítnou, musejí své rozhodnutí řádně odůvodnit. Veřejný ochránce práv se setkal se stížnostmi, že obecní úřady odůvodněné rozhodnutí nevydávají.</p>"
 ---

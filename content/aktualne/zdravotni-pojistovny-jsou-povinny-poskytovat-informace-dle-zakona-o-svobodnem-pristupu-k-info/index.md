@@ -1,6 +1,8 @@
 ---
 title: "Zdravotní pojišťovny jsou povinny poskytovat informace dle zákona o svobodném přístupu k informacím"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2016/zdravotni-pojistovny-jsou-povinny-poskytovat-informace-dle-zakona-o-svobodnem-pristupu-k-info"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2016/zdravotni-pojistovny-jsou-povinny-poskytovat-informace-dle-zakona-o-svobodnem-pristupu-k-info"
 date: 2016-11-30
 perex: "<p>Zdravotní pojišťovny dlouhodobě tvrdí, že se na ně nevztahuje zákon o svobodném přístupu k informacím a odmítají proto žadatelům informace poskytovat. Výjimkou je pouze Všeobecná zdravotní pojišťovna České republiky (VZP). V této souvislosti jsme ukončili šetření Revírní bratrské pokladny, zdravotní pojišťovny, která odepřela žadateli poskytnout informace. Během šetření se nám podařilo dosáhnout toho, že tento konkrétní žadatel nakonec své informace dostal, nicméně pojišťovna odmítá upravit své vnitřní předpisy tak, aby se z poskytování informací stal standard. </p>"
 ---

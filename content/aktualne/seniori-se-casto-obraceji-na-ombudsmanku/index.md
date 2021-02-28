@@ -1,6 +1,8 @@
 ---
 title: "Senioři se často obracejí na ombudsmanku"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2018/seniori-se-casto-obraceji-na-ombudsmanku"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2018/seniori-se-casto-obraceji-na-ombudsmanku"
 date: 2018-10-01
 perex: "<p>Senioři tvoří významnou skupinu lidí, kteří vyhledávají pomoc ombudsmanky. Ročně jich více než 2000 podá podnět k šetření ve své záležitosti. Právům dalších několika tisíců seniorů, podmínkách, v nichž žijí a péči, které se jim  se pak ombudsmanka věnuje i v rámci provádění návštěv např. domovů pro seniory, léčeben pro dlouhodobě nemocné aj.</p>"
 ---

@@ -1,6 +1,8 @@
 ---
 title: "Ombudsman spustil podcasty s radami, jak řešit různé životní situace"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2020/ombudsman-spustil-podcasty-s-radami-jak-resit-ruzne-zivotni-situace"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2020/ombudsman-spustil-podcasty-s-radami-jak-resit-ruzne-zivotni-situace"
 date: 2020-11-27
 perex: "<p>Dříve avizovaný seriál podcastů Na kávu s ombudsmanem dnes začíná. Úvodní díl se nejprve věnuje vysvětlení působnosti ombudsmana a způsobu, jaký se podněty řeší. Další díly se zaměří na konkrétní problémy a životní situace, s nimiž se lidé na ombudsmana obracejí. Jako první budou na řadě důchody.</p>"
 ---

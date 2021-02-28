@@ -1,6 +1,8 @@
 ---
 title: "Veřejná ochránkyně práv v roce 2015: víc problémů rodin s dětmi a seniorů"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2016/verejna-ochrankyne-prav-v-roce-2015-vic-problemu-rodin-s-detmi-a-senioru"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2016/verejna-ochrankyne-prav-v-roce-2015-vic-problemu-rodin-s-detmi-a-senioru"
 date: 2016-04-05
 perex: "<p>Výroční zprávou za rok 2015 ochránkyně informuje Poslaneckou sněmovnu o svých poznatcích a trendech, o zajímavých případech, ale také o tématech, jejichž řešení vyžaduje změny na úrovni právních předpisů. Na základě svých poznatků také zformulovala celkem šest témat, jimiž by se měla Poslanecká sněmovna zabývat.</p>"
 ---

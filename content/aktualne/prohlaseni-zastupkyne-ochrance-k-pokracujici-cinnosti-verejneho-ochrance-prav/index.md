@@ -1,6 +1,8 @@
 ---
 title: "Prohlášení zástupkyně ochránce k pokračující činnosti veřejného ochránce práv"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2010/prohlaseni-zastupkyne-ochrance-k-pokracujici-cinnosti-verejneho-ochrance-prav"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2010/prohlaseni-zastupkyne-ochrance-k-pokracujici-cinnosti-verejneho-ochrance-prav"
 date: 2010-07-29
 perex: "<p></p><p>Až do doby zvolení nového ombudsmana vykonává jeho činnost v plném rozsahu zástupkyně ochránce RNDr. Jitka Seitlová. Činnost veřejného ochránce práv tedy zůstává nezměněna a občané se na ochránce i nadále mohou obracet se svými stížnostmi a podněty k šetření.</p>"
 ---

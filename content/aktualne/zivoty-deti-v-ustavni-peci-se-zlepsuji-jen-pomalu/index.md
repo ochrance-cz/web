@@ -1,6 +1,8 @@
 ---
 title: "Životy dětí v ústavní péči se zlepšují jen pomalu."
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2016/zivoty-deti-v-ustavni-peci-se-zlepsuji-jen-pomalu"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2016/zivoty-deti-v-ustavni-peci-se-zlepsuji-jen-pomalu"
 date: 2016-05-31
 perex: "<p>Za posledních deset let veřejný ochránce práv prověřil životní podmínky 2178 dětí žijících v ústavech. Pochybení některých ústavů a zařízení jsme obvykle dokázali velmi rychle napravit. Pokud však problémy vyplývaly například z nedostatku personálu, bylo často mimo naše možnosti prosadit účinné řešení. Obecně platí, že systém péče o ohrožené děti u nás neodpovídá úrovni dalších evropských států. Základním problémem je vysoký počet dětí v ústavní péči. </p>"
 ---

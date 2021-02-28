@@ -1,6 +1,8 @@
 ---
 title: "Sleva nesmí znevýhodňovat"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2020/sleva-nesmi-znevyhodnovat"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2020/sleva-nesmi-znevyhodnovat"
 date: 2020-10-20
 perex: "<p>Ombudsman chce prověřit slevy na správních poplatcích při využití portálu občana, který obce a města zavádějí v rámci elektronických služeb. Sleva sice má oporu v zákoně, ale současně může podle ombudsmana nepříznivě dopadat např. na starší občany nevyužívající internet.</p>"
 ---

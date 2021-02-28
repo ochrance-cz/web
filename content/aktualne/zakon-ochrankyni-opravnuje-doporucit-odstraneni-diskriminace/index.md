@@ -1,6 +1,8 @@
 ---
 title: "Zákon ochránkyni opravňuje doporučit odstranění diskriminace"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2014/zakon-ochrankyni-opravnuje-doporucit-odstraneni-diskriminace"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2014/zakon-ochrankyni-opravnuje-doporucit-odstraneni-diskriminace"
 date: 2014-09-25
 perex: "<p></p>"
 ---

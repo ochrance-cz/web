@@ -1,6 +1,8 @@
 ---
 title: "Činnost ombudsmanky v roce 2018"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2019/cinnost-ombudsmanky-v-roce-2018"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2019/cinnost-ombudsmanky-v-roce-2018"
 date: 2019-03-29
 perex: "<p>V roce 2018 se na ombudsmanku obrátilo 8 152 osob s žádostí o pomoc a radu. Opět se zvýšil podíl podnětů v působnosti (na 69 %). Ombudsmanka a její zástupce vyřídili 8 115 podnětů, v 513 případech zjistili pochybení, která se ve 488 případech podařilo napravit. Ve 30 případech zjistila diskriminaci. V průběhu roku ombudsmanka uskutečnila systematické návštěvy 27 zařízení, v nichž jsou lidé omezeni na svobodě, zaměřila se zejména na domovy pro lidi s postižením. Od 1. 1. 2018 také ombudsmanka vykonávala působnost jako monitorovací orgán pro práva lidí se zdravotním postižením.</p>"
 ---

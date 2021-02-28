@@ -1,6 +1,8 @@
 ---
 title: "Na sirotčí důchod dosáhne více dětí"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2016/na-sirotci-duchod-dosahne-vice-deti"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2016/na-sirotci-duchod-dosahne-vice-deti"
 date: 2016-07-22
 perex: "<p>Česká správa sociálního zabezpečení bude o sirotčích důchodech rozhodovat mírnějším způsobem, než tomu bylo doposud. Více osiřelých dětí se tak dočká finanční podpory. Stávající zákonná úprava se vztahuje i na ty, kterým zemřel rodič ještě před tím, než nabyla účinnosti.  Za touto změnou stojí odhodlání paní Kolářové, která se odmítla smířit s pro ni nepříznivým rozhodnutím České správy sociálního zabezpečení (ČSSZ). Ministerstvo práce a sociálních věcí vydalo na podkladě případu jejího syna stanovisko, kterým se nyní musí řídit ČSSZ. Jsme rádi, že jsme v tomto úsilí mohli paní Kolářové pomoci. </p>"
 ---

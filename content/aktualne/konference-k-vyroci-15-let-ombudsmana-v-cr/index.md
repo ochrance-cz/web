@@ -1,6 +1,8 @@
 ---
 title: "Konference k výročí 15 let ombudsmana v ČR"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2015/konference-k-vyroci-15-let-ombudsmana-v-cr"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2015/konference-k-vyroci-15-let-ombudsmana-v-cr"
 date: 2015-03-19
 perex: "<p>Jaká je role ombudsmana v české společnosti po patnácti letech existence? Čeho veřejný ochránce práv dosáhl, jak ho vnímají politikové, úřady i veřejnost? Jak se liší postavení českého ombudsmana od podobných institucí v zahraničí? Těmto otázkám se budou věnovat hosté mezinárodní konference konané při příležitosti 15. výročí vzniku veřejného ochránce práv v ČR ve dnech 26. a 27. března 2015 v Kanceláři veřejného ochránce práv v Brně.</p>"
 ---

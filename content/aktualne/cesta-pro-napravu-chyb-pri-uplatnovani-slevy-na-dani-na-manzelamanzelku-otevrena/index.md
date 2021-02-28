@@ -1,6 +1,8 @@
 ---
 title: "Cesta pro nápravu chyb při uplatňování slevy na dani na manžela/manželku otevřena"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2020/cesta-pro-napravu-chyb-pri-uplatnovani-slevy-na-dani-na-manzelamanzelku-otevrena"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2020/cesta-pro-napravu-chyb-pri-uplatnovani-slevy-na-dani-na-manzelamanzelku-otevrena"
 date: 2020-09-29
 perex: "<p>Lidé často chybují u daně z příjmů při započítávání peněžité pomoci v mateřství do výše příjmu pro možnost uplatnění slevy na manžela. V minulosti se tak dělo i kvůli nesprávným potvrzením o vyplacených dávkách vydávaných okresními správami sociálního zabezpečení. Neoprávněně uplatněnou slevu lidé museli doplatit. Díky šetření ombudsmana mají nyní možnost žádat alespoň o prominutí úroku z prodlení, který by jinak také museli zaplatit.</p>"
 ---

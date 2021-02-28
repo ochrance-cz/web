@@ -1,6 +1,8 @@
 ---
 title: "Zařízení v Chrastavě deset let neplnilo své povinnosti"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2016/zarizeni-v-chrastave-deset-let-neplnilo-sve-povinnosti"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2016/zarizeni-v-chrastave-deset-let-neplnilo-sve-povinnosti"
 date: 2016-06-07
 perex: "<p>Systematickou návštěvu výchovného ústavu a dětského domova v Chrastavě provedl veřejný ochránce práv v uplynulých deseti letech celkem třikrát. V roce 2006 za působení ombudsmana Otakara Motejla, v roce 2012 během mandátu Pavla Varvařovského a v letošním roce z pověření Anny Šabatové. Kromě právníků se návštěv účastnili speciální pedagogové – přední odborníci na výchovu dětí. Všichni ochránci ve svých zprávách konstatovali stejná nebo obdobná pochybení. Za uplynulých deset let došlo jen k minimálnímu zlepšení. V mnoha ohledech se situace zhoršila. Zařízení dlouhodobě ignoruje výzvy k nápravě. Dle přizvaných odborníků nelze při zachování současného stavu výchovy vyloučit další eskalaci problémů a konfliktů. </p>"
 ---

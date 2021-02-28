@@ -1,6 +1,8 @@
 ---
 title: "Zeptejte se pacientů, jestli chtějí volit"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2010/zeptejte-se-pacientu-jestli-chteji-volit"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2010/zeptejte-se-pacientu-jestli-chteji-volit"
 date: 2010-05-03
 perex: "<p></p><p>Občané, kteří se v době voleb nacházejí v nemocnici, porodnici, ústavu sociální péče apod., případně v policejní cele, v místě výkonu vazby nebo výkonu trestu odnětí svobody, nepřicházejí o své volební právo. Jejich zdravotní stav či situace, v níž se nacházejí, jim sice neumožňuje volit přímo ve volební místnosti podle místa svého trvalého pobytu, ovšem zákon o volbách do Parlamentu ČR nabízí jiné způsoby, jak mohou volit.</p>"
 ---

@@ -1,6 +1,8 @@
 ---
 title: "Chybná úprava vozovky může vést k podmáčení sousedních domů. Bránit se je třeba včas."
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2020/chybna-uprava-vozovky-muze-vest-k-podmaceni-sousednich-domu-branit-se-je-treba-vcas"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2020/chybna-uprava-vozovky-muze-vest-k-podmaceni-sousednich-domu-branit-se-je-treba-vcas"
 date: 2020-06-24
 perex: "<p>Na ombudsmana se opakovaně obracejí lidé se stížnostmi na poškozování jejich nemovitostí v důsledku chybně provedené stavby vozovky. Dochází k tomu např. po výstavbě nové kanalizace či vodovodu nebo po rekonstrukci silnice. Na vozovku je na závěr položen nový asfalt, kterým dojde k navýšení nivelety (výška a sklon). Dešťová voda pak z vozovky stéká k přilehlým domům a podmáčí je. Proti takovému riziku je třeba se bránit už v době povolování stavby.</p>"
 ---

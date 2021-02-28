@@ -1,6 +1,8 @@
 ---
 title: "Novinky plánované ve stavebním zákoně"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2015/novinky-planovane-ve-stavebnim-zakone"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2015/novinky-planovane-ve-stavebnim-zakone"
 date: 2015-10-22
 perex: "<p>Novela stavebního zákona přinese některé nové instituty, které by podle ministerstva měly zrychlit proces výstavby. Některé schvalovací proces natolik uvolňují, že lidé budou muset být ve střehu a hlídat jakoukoli stavební činnost ve svém okolí, aby případně mohli bránit svá práva.</p>"
 ---

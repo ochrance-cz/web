@@ -1,6 +1,8 @@
 ---
 title: "Nejvyšší soud souhlasí se stanoviskem ombudsmanky: antidiskriminační žalobou mohou podávat také pozůstalí"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2018/nejvyssi-soud-souhlasi-se-stanoviskem-ombudsmanky-antidiskriminacni-zalobou-mohou-podavat-t"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2018/nejvyssi-soud-souhlasi-se-stanoviskem-ombudsmanky-antidiskriminacni-zalobou-mohou-podavat-t"
 date: 2018-03-28
 perex: "<p>Domáhat se práv, která byla omezena diskriminačním jednáním, může nejen diskriminovaná osoba, ale po její smrti také její blízcí, kteří byli diskriminačním jednáním dotčeni nepřímo. Nejvyšší soud v tomto souhlasil se stanoviskem ombudsmanky. Jednalo se o případ, kdy nemocnice odmítala převést jednoleté dítě na jednotku intenzivní péče s tím, že by taková péče neměla smysl. Dívka totiž trpěla onemocněním „motýlích křídel“. Rodiče měli za to, že s ní zacházeli diskriminačně kvůli jejímu onemocnění. Po její smrti podali na nemocnici antidiskriminační žalobu. Žádali omluvu a finanční odškodnění. Soudy nižších instancí jejich žalobu zamítly s tím, že jí mohla podat pouze jejich dcera a toto právo na dědice nepřechází.</p>"
 ---

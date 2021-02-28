@@ -1,6 +1,8 @@
 ---
 title: "Zpráva ochránce za 4. čtvrtletí 2010 pro Poslaneckou sněmovnu PČR"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2011/zprava-ochrance-za-4-ctvrtleti-2010-pro-poslaneckou-snemovnu-pcr"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2011/zprava-ochrance-za-4-ctvrtleti-2010-pro-poslaneckou-snemovnu-pcr"
 date: 2011-01-25
 perex: "<p></p>"
 ---

@@ -1,6 +1,8 @@
 ---
 title: "Transparentnost jako nástroj k potlačení korupce"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2009/transparentnost-jako-nastroj-k-potlaceni-korupce"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2009/transparentnost-jako-nastroj-k-potlaceni-korupce"
 date: 2009-11-29
 perex: "<p></p><p>Otevřenost veřejné správy je jedním ze základních pilířů demokratického státu, je základním principem dobře fungující veřejné správy, je přímým nástrojem kontroly a je také nástrojem pro potlačování korupce veřejné moci. Bez respektování principu otevřenosti by veřejná správa nemohla plnit svou základní funkci – sloužit občanům. Otevřenost veřejné správy je také předpokladem důvěryhodnosti. To jsou stěžejní myšlenky, které se opakovaly v projevech všech účastníků konference Otevřenost veřejné správy.</p>"
 ---

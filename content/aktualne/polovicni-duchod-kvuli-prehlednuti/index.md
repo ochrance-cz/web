@@ -1,6 +1,8 @@
 ---
 title: "Poloviční důchod kvůli přehlédnutí"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2016/polovicni-duchod-kvuli-prehlednuti"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2016/polovicni-duchod-kvuli-prehlednuti"
 date: 2016-03-29
 perex: "<p>Úřad při výpočtu invalidního důchodu přehlédl doklad o evidenci na úřadu práce a stěžovatel v důsledku toho pobíral invalidní důchod ve výši 4 500 Kč, přestože měl dostávat dvojnásobek. Obrátil se proto o pomoc na veřejnou ochránkyni práv a té se podařilo jeho nároky prosadit. Nyní dostává invalidní důchod ve správné výši. Česká správa sociálního zabezpečení mu také doplatila téměř čtvrt milionu v součtu částek, které mu v uplynulých několika letech chybně upřela.</p>"
 ---

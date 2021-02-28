@@ -1,6 +1,8 @@
 ---
 title: "Sociální služby v domovech pro seniory stále s nedostatky"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2007/socialni-sluzby-v-domovech-pro-seniory-stale-s-nedostatky"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2007/socialni-sluzby-v-domovech-pro-seniory-stale-s-nedostatky"
 date: 2007-05-21
 perex: "<p></p>"
 ---

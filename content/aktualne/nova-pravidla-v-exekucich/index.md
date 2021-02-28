@@ -1,6 +1,8 @@
 ---
 title: "Nová pravidla v exekucích"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2009/nova-pravidla-v-exekucich"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2009/nova-pravidla-v-exekucich"
 date: 2009-08-26
 perex: "<p></p><p>Od 20. července 2009 se obstavení účtu (jednoho z účtů) dlužníka-povinného nedotkne částky odpovídající dvojnásobku životního minima (celkem 6.252 Kč). Tuto částku banka povinnému na jeho žádost vyplatí. Jde pouze o jednorázovou ochranu povinných.</p>"
 ---

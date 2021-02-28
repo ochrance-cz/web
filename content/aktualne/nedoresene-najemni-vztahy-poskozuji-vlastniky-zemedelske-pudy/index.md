@@ -1,6 +1,8 @@
 ---
 title: "Nedořešené nájemní vztahy poškozují vlastníky zemědělské půdy"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2007/nedoresene-najemni-vztahy-poskozuji-vlastniky-zemedelske-pudy"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2007/nedoresene-najemni-vztahy-poskozuji-vlastniky-zemedelske-pudy"
 date: 2007-12-13
 perex: "<p></p>"
 ---

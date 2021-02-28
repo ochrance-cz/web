@@ -1,6 +1,8 @@
 ---
 title: "Případ pro ombudsmanku: Policejní zásahy"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2019/pripad-pro-ombudsmanku-policejni-zasahy"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2019/pripad-pro-ombudsmanku-policejni-zasahy"
 date: 2019-05-16
 perex: "<p>V neděli 19. 5. můžete v 10:45 na ČT2 sledovat premiéru dalšího dílu pořadu Případ pro ombudsmanku, jehož tématem jsou tentokrát případy, s nimiž se na ombudsmanku obrátily oběti policejních zásahů.</p>"
 ---

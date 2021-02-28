@@ -1,6 +1,8 @@
 ---
 title: "Případ nošení muslimských šátků ve škole dosud není ukončen"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2014/pripad-noseni-muslimskych-satku-ve-skole-dosud-neni-ukoncen"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2014/pripad-noseni-muslimskych-satku-ve-skole-dosud-neni-ukoncen"
 date: 2014-08-27
 perex: "<p>Veřejná ochránkyně práv se zabývá stížností na diskriminaci v přístupu ke vzdělání kvůli nošení muslimských šátků. Šetření dosud není skončeno, proto ochránkyně nezveřejní průběžné závěry a nebude komentovat informace z médií.</p>"
 ---

@@ -1,6 +1,8 @@
 ---
 title: "Ozdravné pobyty pro děti jako okamžitá pomoc Ostravsku"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2010/ozdravne-pobyty-pro-deti-jako-okamzita-pomoc-ostravsku"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2010/ozdravne-pobyty-pro-deti-jako-okamzita-pomoc-ostravsku"
 date: 2010-02-12
 perex: "<p></p><p>Zástupkyně veřejného ochránce práv považuje za velmi vážnou problematiku znečištění ovzduší na Ostravsku, a to nejen s ohledem na smogovou situaci, která nastala v uplynulých dnech. Podněty upozorňující na kvalitu ovzduší obdržel veřejný ochránce již dříve a opakovaně.</p>"
 ---

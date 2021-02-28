@@ -1,6 +1,8 @@
 ---
 title: "Nový zástupce ombudsmana poprvé v „úřadu“"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2013/novy-zastupce-ombudsmana-poprve-v-uradu"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2013/novy-zastupce-ombudsmana-poprve-v-uradu"
 date: 2013-04-11
 perex: "<p>JUDr. Stanislav Křeček, nový zástupce veřejného ochránce práv, se dnes skutečně ujal své funkce.</p>"
 ---

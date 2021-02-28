@@ -1,6 +1,8 @@
 ---
 title: "Vjezd do garáže není veřejným prostranstvím a nelze ho tak zpoplatnit"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2019/vjezd-do-garaze-neni-verejnym-prostranstvim-a-nelze-ho-tak-zpoplatnit"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2019/vjezd-do-garaze-neni-verejnym-prostranstvim-a-nelze-ho-tak-zpoplatnit"
 date: 2019-08-22
 perex: "<p>Úřad požadoval zaplacení místního poplatku za užívání veřejného prostranství po vlastníkovi domu, který si na svůj sjezd do garáže složil stavební materiál pro rekonstrukci. Úřad to považoval za zábor veřejného prostranství. Vlastník s tím nesouhlasil, ale poplatek nakonec zaplatil poté, co ho úřad varoval, že mu ho může vyměřit až v trojnásobné výši. Zástupce ombudsmanky úřadu vytkl pochybení jak v pokládání sjezdu do garáže za veřejné prostranství, tak i v procesním postupu. Úřad sice na svém názoru trvá, zaplacený místní poplatek ale vlastníkovi vrátil.</p>"
 ---

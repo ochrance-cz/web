@@ -1,6 +1,8 @@
 ---
 title: "Přestupky – přehled práv a povinností"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2019/prestupky-prehled-prav-a-povinnosti"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2019/prestupky-prehled-prav-a-povinnosti"
 date: 2019-08-02
 perex: "<p>Přestupky existují ve všech oblastech veřejné správy. Nejedná se o trestný čin, ale o společensky škodlivý protiprávní čin, který za přestupek označuje některý ze zákonů. Právě s přestupky mají lidé obvykle nejčastější zkušenost, a to ať už coby přímí pachatelé přestupků nebo naopak jejich oběti. Ombudsmanka proto vytvořila nový informační leták, jenž vychází z aktuálně platné právní úpravy. Leták shrnuje základní práva a povinnosti pachatelů, obětí, ale také zákonné možnosti těch, kdo byli ze spáchání přestupku obviněni neprávem. </p>"
 ---

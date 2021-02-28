@@ -1,6 +1,8 @@
 ---
 title: "Návštěva amerického velvyslance"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2011/navsteva-americkeho-velvyslance"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2011/navsteva-americkeho-velvyslance"
 date: 2011-03-17
 perex: "<p></p>"
 ---

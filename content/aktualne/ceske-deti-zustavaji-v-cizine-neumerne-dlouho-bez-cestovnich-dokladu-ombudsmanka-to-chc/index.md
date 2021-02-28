@@ -1,6 +1,8 @@
 ---
 title: "České děti zůstávají v cizině neúměrně dlouho bez cestovních dokladů. Ombudsmanka to chce změnit"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2017/ceske-deti-zustavaji-v-cizine-neumerne-dlouho-bez-cestovnich-dokladu-ombudsmanka-to-chc"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2017/ceske-deti-zustavaji-v-cizine-neumerne-dlouho-bez-cestovnich-dokladu-ombudsmanka-to-chc"
 date: 2017-09-22
 perex: "<p>Narození dítěte je vždy významná událost. Pokud k ní však dojde při pobytu v cizině, doprovází ji komplikace s vyřízením cestovních dokladů. Na ombudsmanku se obrátila stěžovatelka, jejíž dcera narodila v Německu. Na vyřízení českého cestovního pasu čekala osm měsíců. Bez něj přitom nemůže s dítětem legálně překročit hranice. V jiných zemích může chybějící cestovní doklad přinášet další komplikace při jednání s místními úřady. Ombudsmanka se snaží dosáhnout toho, aby české děti narozené v cizině získaly své doklady co nejdříve. </p>"
 ---

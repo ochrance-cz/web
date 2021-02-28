@@ -1,6 +1,8 @@
 ---
 title: "Případ pro ombudsmanku: LDN, domovy pro seniory"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2019/pripad-pro-ombudsmanku-ldn-domovy-pro-seniory"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2019/pripad-pro-ombudsmanku-ldn-domovy-pro-seniory"
 date: 2019-06-14
 perex: "<p>V neděli 16. 6. v 10:20 h vysílá ČT2  desátý díl pořadu Případ pro ombudsmanku. Jeho tématem jsou podmínky v léčebnách pro dlouhodobě nemocné a domovech pro seniory.</p>"
 ---

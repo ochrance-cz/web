@@ -1,6 +1,8 @@
 ---
 title: "Příspěvky z konference Péče o ohrožené děti a jejich rodiny jsou na internetu"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2012/prispevky-z-konference-pece-o-ohrozene-deti-a-jejich-rodiny-jsou-na-internetu"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2012/prispevky-z-konference-pece-o-ohrozene-deti-a-jejich-rodiny-jsou-na-internetu"
 date: 2012-07-19
 perex: "<p>Na webových stránkách ochránce jsou k dispozici příspěvky vystupujících na konferenci, kterou ochránce uspořádal v Poslanecké sněmovně k problematice práv dětí a podmínek v zařízeních pro děti.</p>"
 ---

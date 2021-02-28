@@ -1,6 +1,8 @@
 ---
 title: "Úspěšně jsme ukončili projekt „Služba šitá na míru“"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2018/uspesne-jsme-ukoncili-projekt-sluzba-sita-na-miru"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2018/uspesne-jsme-ukoncili-projekt-sluzba-sita-na-miru"
 date: 2018-08-17
 perex: "<p>Projekt byl zejména zaměřen na zmapování využívání opatření pro slaďování rodinného a osobního života s výkonem státní služby. Zvyšovali jsme proto povědomí o rovných příležitostech nejen mezi vedoucími služebních úřadů, ale také mezi státními zaměstnanci a zaměstnankyněmi. V oblasti slaďování chce jít Kancelář ombudsmana dalším zaměstnavatelům ve veřejné správě příkladem. Proto jsme hledali cesty, jak častou náročnou a odpovědnou práci v Kanceláři upravit potřebám všech zaměstnanců a zaměstnankyň. </p>"
 ---

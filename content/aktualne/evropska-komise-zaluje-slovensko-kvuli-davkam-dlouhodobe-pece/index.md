@@ -1,6 +1,8 @@
 ---
 title: "Evropská komise žaluje Slovensko kvůli dávkám dlouhodobé péče"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2013/evropska-komise-zaluje-slovensko-kvuli-davkam-dlouhodobe-pece"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2013/evropska-komise-zaluje-slovensko-kvuli-davkam-dlouhodobe-pece"
 date: 2013-07-23
 perex: "<p>Na základě stížností seniorů žijících v ČR a pobírajících důchod ze Slovenska upozornil ochránce Evropskou komisi , že slovenská vláda trvale odmítá vyplácet dávky dlouhodobé péče svým důchodcům pobývajícím v zahraničí, přestože tuto povinnost ukládá nařízení Evropského parlamentu a Rady. </p>"
 ---

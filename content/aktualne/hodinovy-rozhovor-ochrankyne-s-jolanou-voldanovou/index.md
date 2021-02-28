@@ -1,6 +1,8 @@
 ---
 title: "Hodinový rozhovor ochránkyně s Jolanou Voldánovou"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2014/hodinovy-rozhovor-ochrankyne-s-jolanou-voldanovou"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2014/hodinovy-rozhovor-ochrankyne-s-jolanou-voldanovou"
 date: 2014-03-27
 perex: "<p>Dnes od 11 hodin vysílá ČRo 2 živě hodinový rozhovor Jolany Voldánové s veřejnou ochránkyní práv Annou Šabatovou.</p>"
 ---

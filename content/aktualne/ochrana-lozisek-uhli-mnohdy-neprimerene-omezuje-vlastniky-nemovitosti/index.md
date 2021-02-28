@@ -1,6 +1,8 @@
 ---
 title: "Ochrana ložisek uhlí mnohdy nepřiměřeně omezuje vlastníky nemovitostí"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2012/ochrana-lozisek-uhli-mnohdy-neprimerene-omezuje-vlastniky-nemovitosti"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2012/ochrana-lozisek-uhli-mnohdy-neprimerene-omezuje-vlastniky-nemovitosti"
 date: 2012-07-02
 perex: "<p></p><p>Podmínky ochrany v některých částech chráněného ložiskového území české části hornoslezské pánve neodpovídají aktuálnímu stavu území. Vlastníci nemovitostí ve vymezeném chráněném ložiskovém území jsou tak nepřiměřeným způsobem omezováni, zejména ve vztahu k jakékoli stavební činnosti.</p>"
 ---

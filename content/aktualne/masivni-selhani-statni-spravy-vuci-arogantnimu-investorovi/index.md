@@ -1,6 +1,8 @@
 ---
 title: "Masivní selhání státní správy vůči arogantnímu investorovi"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2019/masivni-selhani-statni-spravy-vuci-arogantnimu-investorovi"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2019/masivni-selhani-statni-spravy-vuci-arogantnimu-investorovi"
 date: 2019-12-05
 perex: "<p>Činnost úřadů v souvislosti s nepovolenými terénními úpravami a stavbami v obci Škvorec jsou naprostým selháním státní správy. Zejména stavební úřad Úvaly a Krajský úřad Středočeského kraje svou nečinností a neúčinnými kroky nechaly investora vykácet stovky stromů, provádět nepovolené terénní úpravy a na nich začít bez povolení stavět domy. Ty pak investor dokonce nelegálně napojil na vodovod a kanalizaci nacházející se na pozemku jiného vlastníka. Za přihlížení úřadů nakonec oblast rozparceloval a rozprodal dalším osobám. Ty nyní domy dostavují nebo v nich chtějí začít bydlet, ale jde o nepovolené stavby.</p>"
 ---

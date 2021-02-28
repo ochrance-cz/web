@@ -1,6 +1,8 @@
 ---
 title: "Opuštěním dětského domova nezaniká nárok na dávky"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2014/opustenim-detskeho-domova-nezanika-narok-na-davky"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2014/opustenim-detskeho-domova-nezanika-narok-na-davky"
 date: 2014-05-07
 perex: "<p>Nezaopatřené dítě pokračující ve studiu má po nabytí zletilosti právo, nikoli povinnost zůstat v dětském domově do 26 let. Při posuzování nároku na příspěvek na živobytí tedy nemůže jít nezaopatřenému dítěti k tíži, když po dosažení zletilosti dobrovolně nezůstane v dětském domově. Stejně tak nezaniká dítěti nárok na přídavek na dítě, pouze ho Úřad práce přestane vyplácet dětskému domovu a příjemcem bude přímo dítě.</p>"
 ---

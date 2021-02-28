@@ -1,6 +1,8 @@
 ---
 title: "Sociální systém není dostatečně transparentní ani srozumitelný"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2010/socialni-system-neni-dostatecne-transparentni-ani-srozumitelny"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2010/socialni-system-neni-dostatecne-transparentni-ani-srozumitelny"
 date: 2010-02-11
 perex: "<p></p><p>Sociální síť by měla být především funkční, a to hlavně pro ty, kdo se nemohou obejít bez pomoci a nemají ani dostatečné schopnosti, aby svou sociální či životní situaci zlepšili nebo alespoň zvládli. Ochránce proto pozval odborníky i lidi z praxe na kulatý stůl Sociální vyloučení a chudoba, aby si zde nejen vyměnili zkušenosti a popsali aktuální účinné způsoby, jak pomáhat osobám ohroženým sociálním vyloučením, ale aby také odhalili rezervy v činnosti stávajících úřadů a institucí. </p>"
 ---

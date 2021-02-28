@@ -1,6 +1,8 @@
 ---
 title: "Pozůstatky totalitního období mohou stále ohrožovat vlastnické vztahy"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2007/pozustatky-totalitniho-obdobi-mohou-stale-ohrozovat-vlastnicke-vztahy"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2007/pozustatky-totalitniho-obdobi-mohou-stale-ohrozovat-vlastnicke-vztahy"
 date: 2007-08-13
 perex: "<p></p>"
 ---

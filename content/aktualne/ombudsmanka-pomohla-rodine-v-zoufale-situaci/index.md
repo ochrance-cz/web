@@ -1,6 +1,8 @@
 ---
 title: "Ombudsmanka pomohla rodině v zoufalé situaci"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2018/ombudsmanka-pomohla-rodine-v-zoufale-situaci"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2018/ombudsmanka-pomohla-rodine-v-zoufale-situaci"
 date: 2018-01-11
 perex: "<p>Rodina se ocitla v zoufalé situaci. Navzdory předchozí domluvě odmítla škola specializující se na vzdělávání dětí se zdravotním postižením přijmout jejího syna se zdravotním postižením. Ještě v říjnu tak chlapec neměl zajištěnou školní docházku a ocitl se mimo vzdělávací systém. Ombudsmanka kontaktovala ředitelku odboru školství příslušného magistrátu a původní odmítavé rozhodnutí se následně podařilo zvrátit. Chlapec tak mohl nastoupit do školy.  </p>"
 ---

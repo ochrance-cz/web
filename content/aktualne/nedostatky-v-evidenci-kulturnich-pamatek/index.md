@@ -1,6 +1,8 @@
 ---
 title: "Nedostatky v evidenci kulturních památek"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2019/nedostatky-v-evidenci-kulturnich-pamatek"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2019/nedostatky-v-evidenci-kulturnich-pamatek"
 date: 2019-06-20
 perex: "<p>Památková ochrana ve veřejném zájmu znamená omezení vlastnického práva, takže její neurčité vymezení nebo jiné nedostatky v evidenci kulturních památek vedou k nejistotě vlastníka o jeho právech. Současně ale také znamenají riziko, že kulturní památky nebudou dostatečně chráněny. Přesto jsou nepřesnosti a chybné údaje v evidenci nemovitých kulturních památek jedním z problémů, s nimiž se zástupce ombudsmanky opakovaně setkává.</p>"
 ---

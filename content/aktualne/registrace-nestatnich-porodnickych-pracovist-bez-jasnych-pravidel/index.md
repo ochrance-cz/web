@@ -1,6 +1,8 @@
 ---
 title: "Registrace nestátních porodnických pracovišť bez jasných pravidel"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2010/registrace-nestatnich-porodnickych-pracovist-bez-jasnych-pravidel"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2010/registrace-nestatnich-porodnickych-pracovist-bez-jasnych-pravidel"
 date: 2010-03-01
 perex: "<p></p><p>Zástupkyně ochránce ukončila šetření a vydala závěrečné stanovisko s návrhem opatření k nápravě ve věci postupu krajských úřadů, příp. Magistrátu hlavního města Prahy při rozhodování o udělení registrace nestátním zdravotnickým zařízením, v nichž by byla zdravotní péče poskytována porodními asistentkami, a to včetně provádění fyziologických porodů. Šetření vedla z vlastní iniciativy na základě informací z médií, které vzbuzovaly vážné pochybnosti o jednotném postupu příslušných správních orgánů vůči žadatelům o registraci.</p>"
 ---

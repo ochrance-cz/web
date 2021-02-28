@@ -1,6 +1,8 @@
 ---
 title: "Brněnský systém zápisu do mateřských škol je legitimní"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2012/brnensky-system-zapisu-do-materskych-skol-je-legitimni"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2012/brnensky-system-zapisu-do-materskych-skol-je-legitimni"
 date: 2012-02-14
 perex: "<p></p>"
 ---

@@ -1,6 +1,8 @@
 ---
 title: "Česká správa sociálního zabezpečení diskriminuje některé klienty"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2007/ceska-sprava-socialniho-zabezpeceni-diskriminuje-nektere-klienty"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2007/ceska-sprava-socialniho-zabezpeceni-diskriminuje-nektere-klienty"
 date: 2007-11-16
 perex: "<p></p>"
 ---

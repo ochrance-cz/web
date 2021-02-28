@@ -1,6 +1,8 @@
 ---
 title: "I maringotka může být stavbou"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2019/i-maringotka-muze-byt-stavbou"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2019/i-maringotka-muze-byt-stavbou"
 date: 2019-09-11
 perex: "<p>Maringotka je sice běžně považována za silniční vozidlo, stejně jako třeba karavan, ale pokud je užívána k účelu, který by jinak plnila stavba, musí ji stavební úřad jako stavbu posuzovat.</p>"
 ---

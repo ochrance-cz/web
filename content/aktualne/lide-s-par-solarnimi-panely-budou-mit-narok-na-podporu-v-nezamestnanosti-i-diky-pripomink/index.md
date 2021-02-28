@@ -1,6 +1,8 @@
 ---
 title: "Lidé s pár solárními panely budou mít nárok na podporu v nezaměstnanosti. I díky připomínkám ochránkyně"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2015/lide-s-par-solarnimi-panely-budou-mit-narok-na-podporu-v-nezamestnanosti-i-diky-pripomink"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2015/lide-s-par-solarnimi-panely-budou-mit-narok-na-podporu-v-nezamestnanosti-i-diky-pripomink"
 date: 2015-06-24
 perex: "<p>Ochránkyně Anna Šabatová loni poukázala na absurdní stav, kdy provozovatelé malých fotovoltaických elektráren kvůli pár solárním panelům na střeše domku nedosáhli při ztrátě zaměstnání na podporu v nezaměstnanosti. Podle zákona totiž byli považováni za osoby samostatně výdělečně činné, které nemohou být vedené v evidenci uchazečů o zaměstnání úřadu práce. Při ztrátě zaměstnání se tak výroba elektřiny ze solárních panelů stala dle zákona jejich hlavním příjmem, byť si výrobou vydělali maximálně pár tisíc korun ročně. S přispěním ochránkyně nyní došlo ke změně zákona, která malým provozovatelům uděluje výjimku.</p>"
 ---

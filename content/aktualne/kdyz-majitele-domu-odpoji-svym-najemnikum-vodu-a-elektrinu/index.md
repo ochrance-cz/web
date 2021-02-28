@@ -1,6 +1,8 @@
 ---
 title: "Když majitelé domů odpojí svým nájemníkům vodu a elektřinu"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2007/kdyz-majitele-domu-odpoji-svym-najemnikum-vodu-a-elektrinu"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2007/kdyz-majitele-domu-odpoji-svym-najemnikum-vodu-a-elektrinu"
 date: 2007-09-05
 perex: "<p></p>"
 ---

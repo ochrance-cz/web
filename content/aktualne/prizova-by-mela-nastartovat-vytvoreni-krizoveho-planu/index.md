@@ -1,6 +1,8 @@
 ---
 title: "Přízová by měla nastartovat vytvoření krizového plánu"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2007/prizova-by-mela-nastartovat-vytvoreni-krizoveho-planu"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2007/prizova-by-mela-nastartovat-vytvoreni-krizoveho-planu"
 date: 2007-12-06
 perex: "<p></p>"
 ---

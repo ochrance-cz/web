@@ -1,6 +1,8 @@
 ---
 title: "Ochránce bude odpovídat čtenářům idnes.cz"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2010/ochrance-bude-odpovidat-ctenarum-idnescz"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2010/ochrance-bude-odpovidat-ctenarum-idnescz"
 date: 2010-10-19
 perex: "<p></p>"
 ---

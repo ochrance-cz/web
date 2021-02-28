@@ -1,6 +1,8 @@
 ---
 title: "Čestný doktorát Univerzity Palackého JUDr. Motejlovi"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2009/cestny-doktorat-univerzity-palackeho-judr-motejlovi"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2009/cestny-doktorat-univerzity-palackeho-judr-motejlovi"
 date: 2009-10-21
 perex: "<p> </p><p>Otakar Motejl dnes z rukou rektora Lubomíra Dvořáka převzal čestný doktorát Univerzity Palackého v Olomouci. Po Simonu Wiesenthalovi, JUDr. Vladislavu Davidovi, DrSc, a Prof. Dr. jur Willibaldu Poschovi se tak stal v pořadí čtvrtým nositelem tohoto titulu.</p>"
 ---

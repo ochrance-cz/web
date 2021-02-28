@@ -1,6 +1,8 @@
 ---
 title: "Sál Otakara Motejla"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2010/sal-otakara-motejla"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2010/sal-otakara-motejla"
 date: 2010-12-10
 perex: "<p></p>"
 ---

@@ -1,6 +1,8 @@
 ---
 title: "Setkání ombudsmanů V4"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2015/setkani-ombudsmanu-v4"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2015/setkani-ombudsmanu-v4"
 date: 2015-10-05
 perex: "<p></p>"
 ---

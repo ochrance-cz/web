@@ -1,6 +1,8 @@
 ---
 title: "Ombudsmanka ve 4. čtvrtletí: přímá pomoc nebo rada více než 1800 lidem"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2018/ombudsmanka-ve-4-ctvrtleti-prima-pomoc-nebo-rada-vice-nez-1800-lidem"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2018/ombudsmanka-ve-4-ctvrtleti-prima-pomoc-nebo-rada-vice-nez-1800-lidem"
 date: 2018-01-19
 perex: "<p>Za poslední tři měsíce loňského roku ombudsmanka vyřídila 2092 podnětů. Pomohla v nich více než 1200 stěžovatelům. Dalším více než 600 lidem, jejichž problémy nebyly v její působnosti, poskytla alespoň stručnou radu či vysvětlení.</p>"
 ---

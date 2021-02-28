@@ -1,6 +1,8 @@
 ---
 title: "Český telekomunikační úřad a veřejný ochránce práv jednali o záměru neukládat povinnost provozovat veřejné telefonní automaty"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2020/cesky-telekomunikacni-urad-a-verejny-ochrance-prav-jednali-o-zameru-neukladat-povinnost"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2020/cesky-telekomunikacni-urad-a-verejny-ochrance-prav-jednali-o-zameru-neukladat-povinnost"
 date: 2020-06-16
 perex: "<p>Český telekomunikační úřad (ČTÚ) vítá zájem  a iniciativu veřejného ochránce práv zabývat se problematikou veřejných telefonních automatů. </p>"
 ---

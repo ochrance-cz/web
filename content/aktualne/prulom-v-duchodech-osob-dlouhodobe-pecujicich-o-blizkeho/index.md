@@ -1,6 +1,8 @@
 ---
 title: "Průlom v důchodech osob dlouhodobě pečujících o blízkého"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2007/prulom-v-duchodech-osob-dlouhodobe-pecujicich-o-blizkeho"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2007/prulom-v-duchodech-osob-dlouhodobe-pecujicich-o-blizkeho"
 date: 2007-07-02
 perex: "<p></p>"
 ---

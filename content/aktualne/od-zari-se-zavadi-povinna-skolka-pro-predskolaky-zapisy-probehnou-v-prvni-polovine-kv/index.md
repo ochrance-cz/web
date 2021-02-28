@@ -1,6 +1,8 @@
 ---
 title: "Od září se zavádí povinná školka pro předškoláky. Zápisy proběhnou v první polovině května"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2017/od-zari-se-zavadi-povinna-skolka-pro-predskolaky-zapisy-probehnou-v-prvni-polovine-kv"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2017/od-zari-se-zavadi-povinna-skolka-pro-predskolaky-zapisy-probehnou-v-prvni-polovine-kv"
 date: 2017-03-30
 perex: "<p>V letošním roce se pro předškoláky zavádí povinná školka. Děti, které do začátku září dosáhnou pěti let, musí povinně navštěvovat mateřskou školu. Zápisy do mateřských škol budou probíhat mezi 2. a 16. květnem. Konkrétní termín si každá mateřská škola určuje sama. Rodiče, nebo jiní zákonní zástupci, mají povinnost přihlásit dítě k předškolní docházce, svědomitě ho do školky posílat a také omlouvat jeho nepřítomnost. </p>"
 ---

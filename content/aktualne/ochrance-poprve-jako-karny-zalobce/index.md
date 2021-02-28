@@ -1,6 +1,8 @@
 ---
 title: "Ochránce poprvé jako kárný žalobce"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2010/ochrance-poprve-jako-karny-zalobce"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2010/ochrance-poprve-jako-karny-zalobce"
 date: 2010-02-24
 perex: "<p></p><p>Veřejný ochránce práv poprvé využil své pravomoci a podal Nejvyššímu správnímu soudu návrh na zahájení kárného řízení vůči místopředsedovi Vrchního soudu v Praze JUDr. Jaroslavu Burešovi.</p>"
 ---

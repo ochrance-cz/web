@@ -1,8 +1,10 @@
 ---
 title: "Dítě má právo být se svou matkou"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2020/dite-ma-pravo-byt-se-svou-matkou"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2020/dite-ma-pravo-byt-se-svou-matkou"
 date: 2020-10-09
-perex: "<p>Na zástupkyni ombudsmana Moniku Šimůnkovou se obrátil dědeček sedmnáctiměsíční holčičky, jejíž matka nastoupila výkon trestu. Matce nebylo vyhověno, aby se o své dítě mohla starat i ve vězení. Žádost matky byla zamítnuta s tím, že v době ukončení trestu budou dítěti více než čtyři roky – věznice umožňují výkon trestu s dítětem obvykle do tří let věku. Na straně matky stál přitom Orgán sociálně-právní ochrany dětí, dětská lékařka i psycholožka, kteří potvrzovali její mateřské kompetence i zájem o dceru pečovat. Otec dítěte zemřel při autonehodě a o dítě se neměl kdo jiný postarat. Místo mateřské péče by tak dítě čekal dětský domov. Naštěstí se situaci podařilo po zásahu zástupkyně ombudsmana napravit. </p>"
+perex: "<p>Na zástupkyni ombudsmana Moniku Šimůnkovou se obrátil dědeček sedmnáctiměsíční holčičky, jejíž matka nastoupila výkon trestu. Matce nebylo vyhověno, aby se o své dítě mohla starat i ve vězení. Žádost matky byla zamítnuta s tím, že v době ukončení trestu budou dítěti více než čtyři roky &ndash; věznice umožňují výkon trestu s dítětem obvykle do tří let věku. Na straně matky stál přitom Orgán sociálně-právní ochrany dětí, dětská lékařka i psycholožka, kteří potvrzovali její mateřské kompetence i zájem o dceru pečovat. Otec dítěte zemřel při autonehodě a o dítě se neměl kdo jiný postarat. Místo mateřské péče by tak dítě čekal dětský domov. Naštěstí se situaci podařilo po zásahu zástupkyně ombudsmana napravit. </p>"
 ---
 
 <!-- imported from the old website -->

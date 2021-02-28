@@ -1,6 +1,8 @@
 ---
 title: "Nerovné postavení cizinců v ČR v přístupu k veřejnému zdravotnímu pojištění"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2009/nerovne-postaveni-cizincu-v-cr-v-pristupu-k-verejnemu-zdravotnimu-pojisteni"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2009/nerovne-postaveni-cizincu-v-cr-v-pristupu-k-verejnemu-zdravotnimu-pojisteni"
 date: 2009-03-11
 perex: "<p></p><p>Veřejný ochránce práv považuje nastavení stávajícího systému veřejného zdravotního pojištění ve vztahu k určitým kategoriím cizinců za deficitní a nevyvážené. Za neoprávněně znevýhodněné považuje zejména</p>"
 ---

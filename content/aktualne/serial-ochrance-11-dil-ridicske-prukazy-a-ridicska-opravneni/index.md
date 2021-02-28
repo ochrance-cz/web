@@ -1,6 +1,8 @@
 ---
 title: "Seriál Ochránce – 11. díl – Řidičské průkazy a řidičská oprávnění"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2012/serial-ochrance-11-dil-ridicske-prukazy-a-ridicska-opravneni"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2012/serial-ochrance-11-dil-ridicske-prukazy-a-ridicska-opravneni"
 date: 2012-11-16
 perex: "<p>V neděli 18. 11. ve 11:05h vysílá ČT2 11. díl pořadu Ochránce, tentokrát o problémech souvisejících s řidičskými průkazy a řidičským oprávněním. Reprízu dílu uvidíte na ČT2 v úterý 20. 11. v 9:00h.</p>"
 ---

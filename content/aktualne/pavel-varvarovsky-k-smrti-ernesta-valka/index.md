@@ -1,6 +1,8 @@
 ---
 title: "Pavel Varvařovský k smrti Ernesta Valka"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2010/pavel-varvarovsky-k-smrti-ernesta-valka"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2010/pavel-varvarovsky-k-smrti-ernesta-valka"
 date: 2010-11-10
 perex: "<p></p>"
 ---

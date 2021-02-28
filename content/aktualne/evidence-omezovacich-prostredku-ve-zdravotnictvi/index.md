@@ -1,6 +1,8 @@
 ---
 title: "Evidence omezovacích prostředků ve zdravotnictví"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2015/evidence-omezovacich-prostredku-ve-zdravotnictvi"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2015/evidence-omezovacich-prostredku-ve-zdravotnictvi"
 date: 2015-11-09
 perex: "<p>Ochránkyně usiluje o evidenci používání omezovacích prostředků ve zdravotních službách. O potřebě změnit v tomto smyslu právní úpravu informovala poslance v rámci své Zprávy o činnosti ve 3. čtvrtletí.</p>"
 ---

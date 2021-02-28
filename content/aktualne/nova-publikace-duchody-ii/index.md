@@ -1,6 +1,8 @@
 ---
 title: "Nová publikace Důchody II"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2016/nova-publikace-duchody-ii"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2016/nova-publikace-duchody-ii"
 date: 2016-11-28
 perex: "<p>Vydali jsme novou publikaci z řady Stanoviska, už čtrnáctou v pořadí, zaměřenou tentokrát na důchody. Odborné i širší veřejnosti se tak dostává uceleného a srozumitelného výkladu práva důchodového pojištění, doplněného o analýzu konkrétních případů, kterými se veřejný ochránce práv zabýval v uplynulých osmi letech.</p>"
 ---

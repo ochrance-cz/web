@@ -1,6 +1,8 @@
 ---
 title: "Sankce proti Městskému úřadu Hostivice a Krajskému úřadu Středočeského kraje pro přetrvávající nečinnost ve věci zavážení skládky Chýně"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2013/sankce-proti-mestskemu-uradu-hostivice-a-krajskemu-uradu-stredoceskeho-kraje-pro-pretrva"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2013/sankce-proti-mestskemu-uradu-hostivice-a-krajskemu-uradu-stredoceskeho-kraje-pro-pretrva"
 date: 2013-10-11
 perex: "<p></p>"
 ---

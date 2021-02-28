@@ -1,6 +1,8 @@
 ---
 title: "Ombudsmanka upozorňuje na přetrvávající problémy lidí, kteří čelí špatnému zacházení"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2019/ombudsmanka-upozornuje-na-pretrvavajici-problemy-lidi-kteri-celi-spatnemu-zachazeni"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2019/ombudsmanka-upozornuje-na-pretrvavajici-problemy-lidi-kteri-celi-spatnemu-zachazeni"
 date: 2019-05-09
 perex: "<p>Ombudsmanka zveřejnila výroční zprávu věnující se ochraně před špatným zaházením. Kromě shrnutí své činnosti za rok 2018 v ní předkládá seznam problémů, které přetrvávají v nejrůznějších zařízeních, kde jsou lidé omezeni na svobodě nebo odkázáni na péči druhých. Ať už se jedná o léčebny dlouhodobě nemocných, policejní cely nebo dětské domovy. Například klienti v zařízeních sociálních služeb se nemají kam obrátit, pokud jsou porušována jejich práva.  Neexistuje nezávislý úřad, který by se jejich stížností musel zabývat. V letošním roce se v rámci návštěv zařízení ombudsmanka zaměří na školská zařízení pro děti, u kterých soud rozhodl o ústavní nebo ochranné výchově. </p>"
 ---

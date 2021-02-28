@@ -1,6 +1,8 @@
 ---
-title: "Zpráva pro poslance – přibývá podnětů, úspěšných šetření i případů, které si zaslouží pozornost"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2015/zprava-pro-poslance-pribyva-podnetu-uspesnych-setreni-i-pripadu-ktere-si-zaslou"
+title: "Zpráva pro poslance &ndash; přibývá podnětů, úspěšných šetření i případů, které si zaslouží pozornost"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2015/zprava-pro-poslance-pribyva-podnetu-uspesnych-setreni-i-pripadu-ktere-si-zaslou"
 date: 2015-05-04
 perex: "<p>Na veřejnou ochránkyni práv Annu Šabatovou se v prvních třech měsících roku obrátilo víc lidí, než tomu bylo loni ve stejném období. Rostoucí důvěru ilustruje stručná statistika v úvodu zprávy o činnosti v 1. čtvrtletí, kterou ochránkyně zaslala Poslanecké sněmovně.</p>"
 ---

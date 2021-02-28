@@ -1,6 +1,8 @@
 ---
 title: "Dodržování pracovních podmínek polských dělníků"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2008/dodrzovani-pracovnich-podminek-polskych-delniku"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2008/dodrzovani-pracovnich-podminek-polskych-delniku"
 date: 2008-02-07
 perex: "<p></p>"
 ---

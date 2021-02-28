@@ -1,6 +1,8 @@
 ---
 title: "Ženu nezákonně vyřadili z úřadu práce, pomohla až ombudsmanka"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2017/zenu-nezakonne-vyradili-z-uradu-prace-pomohla-az-ombudsmanka"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2017/zenu-nezakonne-vyradili-z-uradu-prace-pomohla-az-ombudsmanka"
 date: 2017-09-18
 perex: "<p>Úřad práce potrestal ženu sankčním vyřazením z evidence uchazečů o zaměstnání kvůli údajné nelegální práci. I když podle pozdějšího závěru inspektorátu práce o nelegální práci nešlo a nelze ji prokázat, MPSV rozhodnutí o vyřazení potvrdilo. Žena kvůli tomu přišla o pojištění hrazené státem a podporu v nezaměstnanosti. Až na základě šetření ombudsmanky ministerstvo změnilo názor a vyřazení z evidence úřadu práce zrušilo.</p>"
 ---

@@ -1,6 +1,8 @@
 ---
 title: "Neobvyklý případ se šťastným koncem"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2018/neobvykly-pripad-se-stastnym-koncem"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2018/neobvykly-pripad-se-stastnym-koncem"
 date: 2018-03-27
 perex: "<p>S pomocí ombudsmanky a díky snaze bývalého manželka se žena se zdravotním postižením dočkala invalidního důchodu, vyššího příspěvku na péči a půlmilionového doplatku původně odepřených dávek. Do té doby byl jejím jediným příjmem příspěvek na péči ve výši 880 Kč.</p>"
 ---

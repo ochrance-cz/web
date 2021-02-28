@@ -1,6 +1,8 @@
 ---
 title: "V prvním čtvrtletí přibylo problémů s důchody a dávkami"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2015/v-prvnim-ctvrtleti-pribylo-problemu-s-duchody-a-davkami"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2015/v-prvnim-ctvrtleti-pribylo-problemu-s-duchody-a-davkami"
 date: 2015-04-15
 perex: "<p>Za první tři měsíce roku se na veřejnou ochránkyni práv obrátilo 2 128 lidí s podnětem k šetření či žádostí o pomoc při řešení jejich složitých životních situací. Další dva tisíce lidí využily k dotazům na působnost ochránkyně či k žádostem o jednoduchou právní radu telefonní informační linku ochránkyně.</p>"
 ---

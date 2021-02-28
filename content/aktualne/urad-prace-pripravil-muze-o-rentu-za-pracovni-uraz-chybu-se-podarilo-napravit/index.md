@@ -1,6 +1,8 @@
 ---
 title: "Úřad práce připravil muže o rentu za pracovní úraz. Chybu se podařilo napravit"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2020/urad-prace-pripravil-muze-o-rentu-za-pracovni-uraz-chybu-se-podarilo-napravit"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2020/urad-prace-pripravil-muze-o-rentu-za-pracovni-uraz-chybu-se-podarilo-napravit"
 date: 2020-08-05
 perex: "<p>Úřad práce vyřadil z evidence uchazeče o zaměstnání, který kvůli skončeným úředním hodinám nahlásil neschopenku od lékaře až druhý den ráno. Muž však kvůli tomu přišel o rentu po vážném pracovním úrazu. Podle zástupkyně ombudsmana úřad nepřihlédl ke specifickým okolnostem případu ani ke skutečnosti, že nešlo o účelové a úmyslné vyhýbání se povinnostem. Po její výzvě Ministerstvo práce a sociálních věcí zrušilo rozhodnutí úřadu práce a uložilo mu věc znovu projednat. Úřad práce poté řízení o vyřazení uchazeče z evidence zastavil. Na stěžovatele je nyní nahlíženo tak, že jeho evidence nebyla přerušena.  Pojišťovna mu také musí vyplatit pozastavenou rentu.</p>"
 ---

@@ -1,6 +1,8 @@
 ---
 title: "Pozitivní změny se daří prosazovat průběžně"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2015/pozitivni-zmeny-se-dari-prosazovat-prubezne"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2015/pozitivni-zmeny-se-dari-prosazovat-prubezne"
 date: 2015-04-22
 perex: "<p>Většinu systémových problémů, na které ochránkyně narazí během šetření, se daří odstraňovat průběžně díky intenzivním jednáním s ministerstvy či prostřednictvím připomínek k chystaným zákonům. Na Poslaneckou sněmovnu se proto za rok 2014 ochránkyně obrací pouze s pěti doporučeními.</p>"
 ---

@@ -1,6 +1,8 @@
 ---
 title: "Vyjádření ke zveřejněnému dopisu zaměstnankyně zařízení pro zajišťování cizinců Bělá-Jezová"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2015/vyjadreni-ke-zverejnenemu-dopisu-zamestnankyne-zarizeni-pro-zajistovani-cizincu-bel"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2015/vyjadreni-ke-zverejnenemu-dopisu-zamestnankyne-zarizeni-pro-zajistovani-cizincu-bel"
 date: 2015-11-04
 perex: "<p>Veřejná ochránkyně práv si je vědoma náročnosti a zodpovědnosti práce, kterou vykonávají zaměstnanci v českých zařízeních pro zajišťování cizinců. Stejně tak vnímá mimořádnost současné situace, jak ostatně vyplývá ze zpráv, které byly postupně zveřejňovány v rámci opakovaných návštěv v Bělé-Jezové.</p>"
 ---

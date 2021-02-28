@@ -1,6 +1,8 @@
 ---
 title: "Postup úřadů Ústeckého kraje podporuje protiprávní jednání stavebníka"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2011/postup-uradu-usteckeho-kraje-podporuje-protipravni-jednani-stavebnika"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2011/postup-uradu-usteckeho-kraje-podporuje-protipravni-jednani-stavebnika"
 date: 2011-03-23
 perex: "<p></p><p>Jestliže úřady poskytly stavebníkovi, který porušil zákon, již rok a půl času, aby mohl doplnit svoji žádost o dodatečné povolení staveb, fakticky tak tolerují protiprávnost. Už od roku 2008 je přitom známo, že černé stavby v Řehlovicích v CHKO České středohoří není možné povolit, protože nesplňují základní podmínky – soulad s územním plánem a souhlasné stanovisko Správy CHKO. </p>"
 ---

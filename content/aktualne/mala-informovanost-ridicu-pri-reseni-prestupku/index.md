@@ -1,6 +1,8 @@
 ---
 title: "Malá informovanost řidičů při řešení přestupků"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2011/mala-informovanost-ridicu-pri-reseni-prestupku"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2011/mala-informovanost-ridicu-pri-reseni-prestupku"
 date: 2011-11-09
 perex: "<p></p>"
 ---

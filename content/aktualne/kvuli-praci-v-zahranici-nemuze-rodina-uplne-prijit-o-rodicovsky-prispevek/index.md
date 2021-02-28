@@ -1,6 +1,8 @@
 ---
 title: "Kvůli práci v zahraničí nemůže rodina úplně přijít o rodičovský příspěvek"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2015/kvuli-praci-v-zahranici-nemuze-rodina-uplne-prijit-o-rodicovsky-prispevek"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2015/kvuli-praci-v-zahranici-nemuze-rodina-uplne-prijit-o-rodicovsky-prispevek"
 date: 2015-12-01
 perex: "<p>Vyplácení rodičovského příspěvku u rodin využívajících možnosti příhraničního zaměstnání stále provázejí problémy. Veřejná ochránkyně práv se opakovaně setkává s případy, kdy rodina v České republice nedostává žádný příspěvek v důsledku „sporů“ o to, kdo ho má vyplácet.</p>"
 ---

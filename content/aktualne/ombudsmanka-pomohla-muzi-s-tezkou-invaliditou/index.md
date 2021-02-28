@@ -1,6 +1,8 @@
 ---
 title: "Ombudsmanka pomohla muži s těžkou invaliditou"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2018/ombudsmanka-pomohla-muzi-s-tezkou-invaliditou"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2018/ombudsmanka-pomohla-muzi-s-tezkou-invaliditou"
 date: 2018-01-05
 perex: "<p>Česká správa sociálního zabezpečení (ČSSZ) uznala mladého muže invalidním ve druhém stupni. Invalidní důchod mu však nepřiznala. Důvodem byla chybějící doba důchodového pojištění. Rodiče muže se proto obrátili na ombudsmanku, které se během šetření podařilo sjednat nápravu. Muži byl přiznán invalidní důchod a získal také doplatek za období, kdy mu nebyl vyplácen. Ombudsmanka proto mohla případ uzavřít. </p>"
 ---

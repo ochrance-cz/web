@@ -1,6 +1,8 @@
 ---
 title: "Rozpoznat neetické jednání není vždy jednoduché. Otevřený soubor etických dilemat soudce může být užitečnou pomůckou"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2020/rozpoznat-neeticke-jednani-neni-vzdy-jednoduche-otevreny-soubor-etickych-dilemat-soudce-m"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2020/rozpoznat-neeticke-jednani-neni-vzdy-jednoduche-otevreny-soubor-etickych-dilemat-soudce-m"
 date: 2020-08-10
 perex: "<p></p>"
 ---

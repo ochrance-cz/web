@@ -1,6 +1,8 @@
 ---
 title: "Problémy v důchodovém pojištění přetrvávají"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2008/problemy-v-duchodovem-pojisteni-pretrvavaji"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2008/problemy-v-duchodovem-pojisteni-pretrvavaji"
 date: 2008-07-23
 perex: "<p></p>"
 ---

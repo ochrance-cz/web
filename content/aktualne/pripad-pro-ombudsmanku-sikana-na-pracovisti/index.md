@@ -1,6 +1,8 @@
 ---
 title: "Případ pro ombudsmanku: Šikana na pracovišti"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2019/pripad-pro-ombudsmanku-sikana-na-pracovisti"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2019/pripad-pro-ombudsmanku-sikana-na-pracovisti"
 date: 2019-05-24
 perex: "<p>V neděli 26. 5. v 10:40 h vysílá ČT2  premiéru sedmého dílu pořadu Případ pro ombudsmanku. Tématem je šikana na pracovišti, tedy problémy, s nimiž se může setkat každý. Dozvíte se, jak takové potíže řešit.</p>"
 ---

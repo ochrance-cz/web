@@ -1,6 +1,8 @@
 ---
 title: "Ombudsmanka brání fasádu historického domu v Olomouci"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2015/ombudsmanka-brani-fasadu-historickeho-domu-v-olomouci"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2015/ombudsmanka-brani-fasadu-historickeho-domu-v-olomouci"
 date: 2015-08-13
 perex: "<p>Olomouc – Známý dům U Zlaté koule z 19. století se zdobenou neorenesanční fasádou nedávno překrylo polystyrenové zateplení a křiklavé barvy. Podle místních i odborníků se jednalo o necitlivý zásah do vzhledu historické budovy. Přestože olomoucký stavební úřad původně namítal nemožnost zasáhnout, po upozornění veřejné ochránkyně práv zahájil s majitelem domu řízení o odstranění nepovolených stavebních úprav.</p>"
 ---

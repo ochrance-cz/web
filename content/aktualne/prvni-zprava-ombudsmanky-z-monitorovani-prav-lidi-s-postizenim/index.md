@@ -1,6 +1,8 @@
 ---
 title: "První zpráva ombudsmanky z monitorování práv lidí s postižením"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2019/prvni-zprava-ombudsmanky-z-monitorovani-prav-lidi-s-postizenim"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2019/prvni-zprava-ombudsmanky-z-monitorovani-prav-lidi-s-postizenim"
 date: 2019-09-05
 perex: "<p>V prvním roce působnosti jako monitorovacího orgánu pro práva lidí s postižením zahájila ombudsmanka řadu výzkumů k zásadním tématům a problémům. Na jejich vytipování se výrazně podíleli přímo lidé s postižením, zejména prostřednictvím poradního orgánu ombudsmanky. Na některé zjištěné nedostatky upozornila ombudsmanka Výbor OSN pro práva osob se zdravotním postižením.</p>"
 ---

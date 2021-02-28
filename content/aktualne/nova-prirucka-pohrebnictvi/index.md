@@ -1,6 +1,8 @@
 ---
 title: "Nová příručka Pohřebnictví"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2013/nova-prirucka-pohrebnictvi"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2013/nova-prirucka-pohrebnictvi"
 date: 2013-07-19
 perex: "<p></p>"
 ---

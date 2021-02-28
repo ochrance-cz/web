@@ -1,6 +1,8 @@
 ---
 title: "Zástupci nevládních organizací z kavkazských zemí u ombudsmana"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2013/zastupci-nevladnich-organizaci-z-kavkazskych-zemi-u-ombudsmana"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2013/zastupci-nevladnich-organizaci-z-kavkazskych-zemi-u-ombudsmana"
 date: 2013-10-17
 perex: "<p></p>"
 ---

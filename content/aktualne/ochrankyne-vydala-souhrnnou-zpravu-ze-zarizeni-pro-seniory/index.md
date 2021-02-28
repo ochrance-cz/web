@@ -1,6 +1,8 @@
 ---
 title: "Ochránkyně vydala souhrnnou zprávu ze zařízení pro seniory"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2015/ochrankyne-vydala-souhrnnou-zpravu-ze-zarizeni-pro-seniory"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2015/ochrankyne-vydala-souhrnnou-zpravu-ze-zarizeni-pro-seniory"
 date: 2015-05-20
 perex: "<p>Zpráva shrnuje poznatky z pobytových zařízení sociálních služeb pečujících o seniory a může sloužit jako pomůcka a zdroj informací pro všechny, kdo v sociálních službách působí či se o ně zajímají. Cílem zprávy je přispívat ke zlepšení péče o staré a bezmocné lidi.</p>"
 ---

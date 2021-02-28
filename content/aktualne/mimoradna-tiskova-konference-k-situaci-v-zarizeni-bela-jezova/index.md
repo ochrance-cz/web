@@ -1,6 +1,8 @@
 ---
 title: "Mimořádná tisková konference k situaci v zařízení Bělá-Jezová"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2015/mimoradna-tiskova-konference-k-situaci-v-zarizeni-bela-jezova"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2015/mimoradna-tiskova-konference-k-situaci-v-zarizeni-bela-jezova"
 date: 2015-10-13
 perex: "<p>Situace dětí a rodin s dětmi v zařízení Bělá-Jezová je natolik vážná, že dochází k porušování Evropské úmluvy o lidských právech a Úmluvy o právech dítěte. Děti zde žijí v objektivně horších podmínkách, než mají čeští vězni. Mluvíme o bývalém vojenském zařízení, ve kterém v mnoha ohledech panují horší podmínky než v českých věznicích. Ve věznicích jsou umístěni lidé, kteří spáchali zločin a byli za to pravomocně odsouzeni. V Bělé jsou umístění lidé, které nikdo neodsoudil a žádný trest jim nebyl uložen. Že tímto zařízením prošly stovky dětí odporuje naší představě o České republice coby civilizované zemi. </p>"
 ---

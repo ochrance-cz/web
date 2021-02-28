@@ -1,6 +1,8 @@
 ---
 title: "Nová zástupkyně ombudsmanky se ujala funkce"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2019/nova-zastupkyne-ombudsmanky-se-ujala-funkce"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2019/nova-zastupkyne-ombudsmanky-se-ujala-funkce"
 date: 2019-12-04
 perex: "<p>Monika Šimůnková, kterou Poslanecká sněmovna zvolila na post zástupkyně veřejné ochránkyně práv, dnes složila slib do rukou předsedy Poslanecké sněmovny a ujala se své funkce.</p>"
 ---

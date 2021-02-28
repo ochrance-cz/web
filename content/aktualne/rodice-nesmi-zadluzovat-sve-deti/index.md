@@ -1,6 +1,8 @@
 ---
 title: "Rodiče nesmí zadlužovat své děti"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2016/rodice-nesmi-zadluzovat-sve-deti"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2016/rodice-nesmi-zadluzovat-sve-deti"
 date: 2016-10-11
 perex: "<p>Český telekomunikační úřad (ČTÚ) přestal na základě našeho šetření vydávat rozhodnutí, která vedla k exekuci dluhů na dětech. Setkávali jsme se s případy, kdy si rodič sjednal mobilní tarif a smlouvu napsal na své dítě. Neplatil za mobilní služby a následný dluh byl exekučně vymáhán na dítěti. Tuto praxi se nám podařilo změnit. Nezletilé děti nemohou být odpovědné za protiprávní jednání svých rodičů. Ti naopak nesou odpovědnost za jejich závazky.  Postupně se nám daří odbourávat příčiny, díky kterým vstupují někteří nezletilí do věku dospělosti zatíženi nesplacenými dluhy. </p>"
 ---

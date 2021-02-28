@@ -1,6 +1,8 @@
 ---
 title: "Zájemci o pěstounskou péči mohou získat finanční pomoc ještě před svěřením dítěte do péče"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2017/zajemci-o-pestounskou-peci-mohou-ziskat-financni-pomoc-jeste-pred-sverenim-ditete-do"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2017/zajemci-o-pestounskou-peci-mohou-ziskat-financni-pomoc-jeste-pred-sverenim-ditete-do"
 date: 2017-03-24
 perex: "<p>Dlouhodobé a neřešené problémy v rodině donutily šestnáctiletou dívku odejít z domova. Ujali se jí vzdálení příbuzní, kteří oba pobírali starobní důchod. Starost o nezaopatřenou dívku je však finančně vyčerpala, protože prvních pět měsíců neměli nárok na pěstounské dávky. Stačilo však, aby příslušný Orgán sociálně-právní ochrany dětí (OSPOD) byl aktivnější a budoucí pěstouni se do složité finanční situace vůbec nemuseli dostat. </p>"
 ---

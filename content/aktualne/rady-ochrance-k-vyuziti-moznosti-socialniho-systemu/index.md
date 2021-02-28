@@ -1,6 +1,8 @@
 ---
 title: "Rady ochránce k využití možností sociálního systému"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2012/rady-ochrance-k-vyuziti-moznosti-socialniho-systemu"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2012/rady-ochrance-k-vyuziti-moznosti-socialniho-systemu"
 date: 2012-01-05
 perex: "<p></p><p>Zákony tzv. Sociální reformy 2011 přinesly celou řadu změn, z nichž některé mohou podle ochránce významně zasáhnout určité skupiny občanů, zejména osoby se zdravotním postižením, seniory a rodiny s nezaopatřenými dětmi a nízkými příjmy. </p>"
 ---

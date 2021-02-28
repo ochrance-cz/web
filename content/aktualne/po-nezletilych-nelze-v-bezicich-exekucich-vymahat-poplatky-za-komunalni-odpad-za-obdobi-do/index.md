@@ -1,6 +1,8 @@
 ---
 title: "Po nezletilých nelze v běžících exekucích vymáhat poplatky za komunální odpad za období do roku 2012 (včetně)"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2017/po-nezletilych-nelze-v-bezicich-exekucich-vymahat-poplatky-za-komunalni-odpad-za-obdobi-do"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2017/po-nezletilych-nelze-v-bezicich-exekucich-vymahat-poplatky-za-komunalni-odpad-za-obdobi-do"
 date: 2017-08-28
 perex: "<p>Ombudsman řešil dlouhodobě problém, kdy se mnozí mladí lidé ocitali v dluzích a na prahu dospělosti čelili exekuci. Příčinou byly neuhrazené platby za komunální odpad. Ty za ně měli platit rodiče. Nicméně až do roku 2013 prakticky nebylo možné tyto poplatky rodičům vyměřit a tedy je po nich ani vymáhat.  Dalším případem byly děti z dětských domovů, za které neměl poplatky kdo uhradit. Ústavní soud nyní rozhodl, že nezletilým tyto poplatky neměly být do roku 2013 vůbec vyměřovány a nelze je tedy po nich ani nyní vymáhat. Exekuce musí být ukončeny. Toto rozhodnutí vítáme.</p>"
 ---

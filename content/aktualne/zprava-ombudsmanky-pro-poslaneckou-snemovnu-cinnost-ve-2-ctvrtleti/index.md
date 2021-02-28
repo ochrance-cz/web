@@ -1,6 +1,8 @@
 ---
 title: "Zpráva ombudsmanky pro Poslaneckou sněmovnu: činnost ve 2. čtvrtletí"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2019/zprava-ombudsmanky-pro-poslaneckou-snemovnu-cinnost-ve-2-ctvrtleti"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2019/zprava-ombudsmanky-pro-poslaneckou-snemovnu-cinnost-ve-2-ctvrtleti"
 date: 2019-08-28
 perex: "<p>Ombudsmanka shrnula v pravidelné zprávě pro poslance to nejpodstatnější ze své činnosti ve 2. čtvrtletí. Obrátilo se na ni o pomoc 2013 lidí, nejčastěji s problémy v oblasti sociálního zabezpečení a stavebnictví, v 51 případech lidé namítali diskriminaci. V šesti šetřených případech úřady dostatečně nenapravily svá pochybení a nápravy se nepodařilo dosáhnout ani vyrozuměním nadřízeného úřadu či vlády, nebo zveřejněním. K prevenci špatného zacházení proběhly systematické návštěvy 10 zařízení, v nichž jsou lidé omezeni na svobodě. Ombudsmanka také zahájila výzkumy zaměstnávání lidí s postižením ve veřejném sektoru a dostupnosti azylového bydlení a nocleháren pro lidi s postižením. </p>"
 ---

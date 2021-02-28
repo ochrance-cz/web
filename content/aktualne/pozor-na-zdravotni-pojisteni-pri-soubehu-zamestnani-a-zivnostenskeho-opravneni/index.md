@@ -1,6 +1,8 @@
 ---
 title: "Pozor na zdravotní pojištění při souběhu zaměstnání a živnostenského oprávnění"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2019/pozor-na-zdravotni-pojisteni-pri-soubehu-zamestnani-a-zivnostenskeho-opravneni"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2019/pozor-na-zdravotni-pojisteni-pri-soubehu-zamestnani-a-zivnostenskeho-opravneni"
 date: 2019-09-24
 perex: "<p>Zaměstnanci s živnostenským listem by neměli zapomínat na to, že pokud nejsou zaměstnáni celý kalendářní měsíc, pohlíží se na ně jako na podnikající, samostatně výdělečně činné osoby, a musí si v daném měsíci zaplatit zdravotní pojištění alespoň v minimální výši.</p>"
 ---

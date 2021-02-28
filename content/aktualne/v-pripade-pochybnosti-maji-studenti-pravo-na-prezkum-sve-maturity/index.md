@@ -1,6 +1,8 @@
 ---
 title: "V případě pochybností mají studenti právo na přezkum své maturity"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2016/v-pripade-pochybnosti-maji-studenti-pravo-na-prezkum-sve-maturity"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2016/v-pripade-pochybnosti-maji-studenti-pravo-na-prezkum-sve-maturity"
 date: 2016-05-20
 perex: "<p>V tomto období zažívají někteří studenti středních škol horké chvíle při maturitních zkouškách. Ne každému se však povede napoprvé u maturity uspět. Ne vždy je přitom chyba na straně studenta nebo studentky. Pokud je student přesvědčen, že nechyboval, ale chybné bylo zadání, vyhodnocení nebo průběh zkoušky, má možnost požádat o přezkum. Obrátit se může na příslušný krajský úřad nebo  Ministerstvo školství, mládeže a tělovýchovy. Přinášíme jednoduchý návod, jak to udělat. </p>"
 ---

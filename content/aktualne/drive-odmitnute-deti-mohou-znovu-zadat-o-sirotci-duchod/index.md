@@ -1,6 +1,8 @@
 ---
 title: "Dříve odmítnuté děti mohou znovu žádat o sirotčí důchod"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2012/drive-odmitnute-deti-mohou-znovu-zadat-o-sirotci-duchod"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2012/drive-odmitnute-deti-mohou-znovu-zadat-o-sirotci-duchod"
 date: 2012-02-09
 perex: "<p></p>"
 ---

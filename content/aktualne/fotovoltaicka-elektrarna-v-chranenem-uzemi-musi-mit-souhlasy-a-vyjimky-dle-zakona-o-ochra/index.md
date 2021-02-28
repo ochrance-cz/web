@@ -1,6 +1,8 @@
 ---
 title: "Fotovoltaická elektrárna v chráněném území musí mít souhlasy a výjimky dle zákona o ochraně přírody"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2011/fotovoltaicka-elektrarna-v-chranenem-uzemi-musi-mit-souhlasy-a-vyjimky-dle-zakona-o-ochra"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2011/fotovoltaicka-elektrarna-v-chranenem-uzemi-musi-mit-souhlasy-a-vyjimky-dle-zakona-o-ochra"
 date: 2011-11-03
 perex: "<p></p><p>Z hlediska zájmů ochrany přírody a krajiny vyžaduje stavba fotovoltaické elektrárny, pokud je umisťovaná na území Natura 2000 do ptačí oblasti vyhlášené nařízením vlády a na území výskytu zvláště chráněných druhů rostlin a živočichů, nezbytné souhlasy a stanoviska orgánu ochrany přírody a krajiny.</p>"
 ---

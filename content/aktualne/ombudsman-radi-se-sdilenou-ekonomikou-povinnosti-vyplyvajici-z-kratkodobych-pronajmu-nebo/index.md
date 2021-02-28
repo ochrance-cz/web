@@ -1,6 +1,8 @@
 ---
 title: "Ombudsman radí se sdílenou ekonomikou: povinnosti vyplývající z krátkodobých pronájmů nebo z poskytování přepravy"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2019/ombudsman-radi-se-sdilenou-ekonomikou-povinnosti-vyplyvajici-z-kratkodobych-pronajmu-nebo"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2019/ombudsman-radi-se-sdilenou-ekonomikou-povinnosti-vyplyvajici-z-kratkodobych-pronajmu-nebo"
 date: 2019-12-06
 perex: "<p>Při poskytování služeb v rámci tzv. sdílené ekonomiky lidé bohužel často neplní všechny své povinnosti, protože o nich často ani neví. Ombudsman proto ve spolupráci s příslušnými úřady připravil dva materiály, které pokrývají momentálně nejužívanější služby. Jednou je poskytování přepravních služeb (nejznámějším příkladem je Uber) a druhou je poskytování krátkodobého ubytování (nejznámějším příkladem je Airbnb). Lidé se mimo jiné dozvědí, jak je to splacením daní či pojistného za zdravotní a sociální pojištění. </p>"
 ---

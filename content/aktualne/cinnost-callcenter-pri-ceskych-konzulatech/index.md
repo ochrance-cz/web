@@ -1,6 +1,8 @@
 ---
 title: "Činnost callcenter při českých konzulátech"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2008/cinnost-callcenter-pri-ceskych-konzulatech"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2008/cinnost-callcenter-pri-ceskych-konzulatech"
 date: 2008-09-03
 perex: "<p></p>"
 ---

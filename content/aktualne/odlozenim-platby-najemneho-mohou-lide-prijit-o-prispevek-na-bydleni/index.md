@@ -1,6 +1,8 @@
 ---
 title: "Odložením platby nájemného mohou lidé přijít o příspěvek na bydlení"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2020/odlozenim-platby-najemneho-mohou-lide-prijit-o-prispevek-na-bydleni"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2020/odlozenim-platby-najemneho-mohou-lide-prijit-o-prispevek-na-bydleni"
 date: 2020-06-12
 perex: "<p>Využitím možnosti odložit platbu nájemného kvůli pandemii mohou lidé přijít o příspěvek na bydlení. Ombudsman upozorňuje na úskalí jinak dobře myšleného speciálního zákona. Lidé, kteří počítají s pobíráním příspěvku na bydlení, by možnost odložení platby nájemného neměli využívat a nájemné by měli zaplatit nejpozději do konce června, jinak jim nemusí nárok na příspěvek vzniknout.</p>"
 ---

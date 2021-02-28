@@ -1,6 +1,8 @@
 ---
 title: "Pitná voda už není samozřejmost"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2019/pitna-voda-uz-neni-samozrejmost"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2019/pitna-voda-uz-neni-samozrejmost"
 date: 2019-09-23
 perex: "<p>Na počátku důsledků klimatických změn konfliktů o zdroje přibývá. Měli bychom se připravit na další dekády</p>"
 ---

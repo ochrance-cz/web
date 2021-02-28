@@ -1,6 +1,8 @@
 ---
 title: "MŠMT je nečinné vůči špatnému zacházení v zařízení pro děti-cizince"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2012/msmt-je-necinne-vuci-spatnemu-zachazeni-v-zarizeni-pro-deti-cizince"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2012/msmt-je-necinne-vuci-spatnemu-zachazeni-v-zarizeni-pro-deti-cizince"
 date: 2012-04-17
 perex: "<p></p>"
 ---

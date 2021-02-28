@@ -1,6 +1,8 @@
 ---
 title: "Pomoc státu zdravotně postiženým není jen pro nemajetné"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2011/pomoc-statu-zdravotne-postizenym-neni-jen-pro-nemajetne"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2011/pomoc-statu-zdravotne-postizenym-neni-jen-pro-nemajetne"
 date: 2011-01-19
 perex: "<p></p><p>Úřady, které zkoumají majetkové poměry těžce zdravotně postižených žádajících o příspěvek na opatření zvláštní pomůcky, porušují zákon. Ten podobný postup neumožňuje, a to ani za předpokladu, že by žadatel podepsal souhlas se zjišťováním, shromažďováním a uchováváním takto citlivých osobních údajů v rámci správního řízení.</p>"
 ---

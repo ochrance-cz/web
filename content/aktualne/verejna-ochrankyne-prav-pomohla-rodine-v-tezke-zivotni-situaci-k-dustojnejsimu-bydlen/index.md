@@ -1,6 +1,8 @@
 ---
 title: "Veřejná ochránkyně práv pomohla rodině v těžké životní situaci k důstojnějšímu bydlení"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2017/verejna-ochrankyne-prav-pomohla-rodine-v-tezke-zivotni-situaci-k-dustojnejsimu-bydlen"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2017/verejna-ochrankyne-prav-pomohla-rodine-v-tezke-zivotni-situaci-k-dustojnejsimu-bydlen"
 date: 2017-06-08
 perex: "<p>Obrátil se na nás stěžovatel v invalidním důchodu, jehož rodina bydlela v malém bytě 1+1 a sdílela jednu postel. Jeho osmiletý syn trpí autismem a vyžaduje nepřetržitou péči, kterou mu poskytuje matka a nemůže proto pracovat. Stěžovatel si podal žádost o větší městský byt. Po roce a půl čekání se pak obrátil na veřejnou ochránkyni práv. Poté, co se ochránkyně začala případem zabývat, město souhlasilo s přidělením odpovídajícího bytu. Panu starostovi jsme za jeho vstřícnost poděkovali a případ uzavřeli. </p>"
 ---

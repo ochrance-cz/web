@@ -1,6 +1,8 @@
 ---
-title: "Ochránce a projekt „Ma den pes!”"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2009/ochrance-a-projekt-ma-den-pes"
+title: "Ochránce a projekt \"Ma den pes!\""
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2009/ochrance-a-projekt-ma-den-pes"
 date: 2009-07-27
 perex: "<p></p><p>Veřejný ochránce práv se podílí na projektu &quot;Ma den pes!&quot;, který realizuje občanské sdružení Z§vůle práva, o.s. s finanční podporou Ministerstva vnitra ČR.</p>"
 ---

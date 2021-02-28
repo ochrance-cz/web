@@ -1,6 +1,8 @@
 ---
 title: "Systém povinné veřejné služby není dořešen"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2009/system-povinne-verejne-sluzby-neni-doresen"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2009/system-povinne-verejne-sluzby-neni-doresen"
 date: 2009-08-26
 perex: "<p></p><p>Lidem v hmotné nouzi, kteří nevykonávají krátkodobé zaměstnání či bezplatnou práci pro obec alespoň 20 hodin měsíčně, je od 1. července 2009 dávka pomoci v hmotné nouzi snížena na existenční minimum. V řadě případů tyto pracovní příležitosti nedostupné, takže tito lidé zákonnou podmínku objektivně splnit nemohou. Zástupkyně ochránce souhlasí s principem veřejných služeb a myšlenkou motivace k zapojení do pracovního procesu. Systém podle ní ale není dořešen, požadované pracovní aktivity nejsou dostupné a zákon tvrdě dopadá zejména na zdravotně postižené.</p>"
 ---

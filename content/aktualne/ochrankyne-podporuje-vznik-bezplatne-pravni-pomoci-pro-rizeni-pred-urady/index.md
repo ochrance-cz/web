@@ -1,6 +1,8 @@
 ---
 title: "Ochránkyně podporuje vznik bezplatné právní pomoci pro řízení před úřady"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2016/ochrankyne-podporuje-vznik-bezplatne-pravni-pomoci-pro-rizeni-pred-urady"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2016/ochrankyne-podporuje-vznik-bezplatne-pravni-pomoci-pro-rizeni-pred-urady"
 date: 2016-04-18
 perex: "<p>Každý má právo na právní pomoc nejen v řízení před soudy, ale i při jednání před úřady. Ochránkyně proto uvítala záměr ministerstva spravedlnosti rozšířit bezplatnou právní pomoc i na správní řízení. Lidem, kteří si z finančních nebo jiných důvodů právní pomoc nemohou obstarat sami, by ji tak zajišťoval stát.</p>"
 ---

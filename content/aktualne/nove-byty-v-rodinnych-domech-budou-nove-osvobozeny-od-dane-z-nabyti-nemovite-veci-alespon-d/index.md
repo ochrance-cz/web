@@ -1,6 +1,8 @@
 ---
 title: "Nové byty v rodinných domech budou nově osvobozeny od daně z nabytí nemovité věci. Alespoň do budoucna tak bude vyřešen problém, na který ombudsmanka dlouhodobě upozorňovala"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2019/nove-byty-v-rodinnych-domech-budou-nove-osvobozeny-od-dane-z-nabyti-nemovite-veci-alespon-d"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2019/nove-byty-v-rodinnych-domech-budou-nove-osvobozeny-od-dane-z-nabyti-nemovite-veci-alespon-d"
 date: 2019-10-10
 perex: "<p>Pokud si někdo koupí nový rodinný dům nebo nový byt v bytovém domě, je osvobozen od daně z nabytí nemovitosti. Finanční správa dosud zastávala názor, že nabytí nového bytu v rodinném domě od daně osvobozeno nebylo. Na tuto zjevnou nespravedlnost dlouhodobě upozorňovala ombudsmanka a žádala nápravu. Prezident podepsal novelu, která tuto nespravedlnost odstraňuje. </p>"
 ---

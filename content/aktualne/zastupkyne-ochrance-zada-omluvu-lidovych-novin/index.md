@@ -1,6 +1,8 @@
 ---
 title: "Zástupkyně ochránce žádá omluvu Lidových novin"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2010/zastupkyne-ochrance-zada-omluvu-lidovych-novin"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2010/zastupkyne-ochrance-zada-omluvu-lidovych-novin"
 date: 2010-03-04
 perex: "<p></p><p><b>Zástupkyně ochránce požádala šéfredaktora Lidových novin o omluvu a opravu nepravdivé informace zveřejněné 3. 3. 2010 v článku „Státní správa v područí politiků“. </b><p>Přestože zástupkyně ochránce s autorem článku hovořila a detailně mu vysvětlila postavení veřejného ochránce práv, zejména skutečnost, že ochránce není orgánem státní správy, tedy úřadem, v článku je ochránce postaven na roveň úřadů. Zástupkyně ochránce sama pak byla článkem fakticky označena za vysokého úředníka.</p>"
 ---

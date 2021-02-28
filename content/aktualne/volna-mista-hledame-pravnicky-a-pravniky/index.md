@@ -1,6 +1,8 @@
 ---
 title: "Volná místa! Hledáme právničky a právníky"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2018/volna-mista-hledame-pravnicky-a-pravniky"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2018/volna-mista-hledame-pravnicky-a-pravniky"
 date: 2018-05-03
 perex: "<p></p>"
 ---

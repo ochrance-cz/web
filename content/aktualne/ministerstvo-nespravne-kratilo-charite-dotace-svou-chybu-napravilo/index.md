@@ -1,6 +1,8 @@
 ---
 title: "Ministerstvo nesprávně krátilo charitě dotace – svou chybu napravilo"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2019/ministerstvo-nespravne-kratilo-charite-dotace-svou-chybu-napravilo"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2019/ministerstvo-nespravne-kratilo-charite-dotace-svou-chybu-napravilo"
 date: 2019-04-29
 perex: "<p>Přiznané dotace není možné krátit v průběhu jejich čerpání s odůvodněním, že se zpřesnila pravidla dotačního programu. Úspěšný žadatel, kterému byly po splnění podmínek programu dotace přiznány, legitimně očekává, že mu budou proplaceny všechny výdaje ze schválené žádosti. Zpětné promítnutí změn dotačních podmínek do již vyplácených dotací je nesprávným úředním postupem, který navíc může příjemce dotace i poškodit.</p>"
 ---

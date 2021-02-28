@@ -1,6 +1,8 @@
 ---
 title: "Slučování škol není v působnosti veřejného ochránce práv"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2007/slucovani-skol-neni-v-pusobnosti-verejneho-ochrance-prav"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2007/slucovani-skol-neni-v-pusobnosti-verejneho-ochrance-prav"
 date: 2007-07-30
 perex: "<p></p>"
 ---

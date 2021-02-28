@@ -1,6 +1,8 @@
 ---
 title: "Zpráva z šetření zákazu nošení pokrývek hlavy na střední zdravotnické škole"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2014/zprava-z-setreni-zakazu-noseni-pokryvek-hlavy-na-stredni-zdravotnicke-skole"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2014/zprava-z-setreni-zakazu-noseni-pokryvek-hlavy-na-stredni-zdravotnicke-skole"
 date: 2014-10-06
 perex: "<p></p>"
 ---

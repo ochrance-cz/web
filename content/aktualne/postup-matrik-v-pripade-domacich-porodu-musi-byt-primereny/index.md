@@ -1,6 +1,8 @@
 ---
 title: "Postup matrik v případě domácích porodů musí být přiměřený"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2014/postup-matrik-v-pripade-domacich-porodu-musi-byt-primereny"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2014/postup-matrik-v-pripade-domacich-porodu-musi-byt-primereny"
 date: 2014-07-02
 perex: "<p>Matriční úřady se nemohou spoléhat na pouhé prohlášení rodičů o domácím porodu. Současně ale musí v požadavcích na rodiče respektovat princip přiměřenosti.</p>"
 ---

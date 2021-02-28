@@ -1,6 +1,8 @@
 ---
 title: "Na konferenci k výročí 15 let ombudsmana v Česku se probírala i novela zákona o ochránci"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2015/na-konferenci-k-vyroci-15-let-ombudsmana-v-cesku-se-probirala-i-novela-zakona-o-ochranci"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2015/na-konferenci-k-vyroci-15-let-ombudsmana-v-cesku-se-probirala-i-novela-zakona-o-ochranci"
 date: 2015-03-26
 perex: "<p>Vládní návrh na změnu zákona o veřejném ochránci práv bude Poslanecká sněmovna ČR projednávat už v úterý 31. března. Proto bylo toto téma jedním z hlavním bodů prvního dne výroční konference k patnácti rokům od založení instituce veřejného ochránce práv v Česku.</p>"
 ---

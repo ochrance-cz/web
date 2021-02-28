@@ -1,6 +1,8 @@
 ---
 title: "Znovu se rozhoduje v žalobě o fotovoltaické elektrárně v obci Moldava v Krušných horách"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2015/znovu-se-rozhoduje-v-zalobe-o-fotovoltaicke-elektrarne-v-obci-moldava-v-krusnych-horach"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2015/znovu-se-rozhoduje-v-zalobe-o-fotovoltaicke-elektrarne-v-obci-moldava-v-krusnych-horach"
 date: 2015-12-14
 perex: "<p>Krajský soud v Ústí nad Labem dnes znovu rozhoduje o žalobě veřejného ochránce práv proti rozhodnutí Městského úřadu Duchcov, kterým byla povolena stavba fotovoltaické elektrárny v obci Moldava. </p>"
 ---

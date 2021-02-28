@@ -1,6 +1,8 @@
 ---
 title: "Vyřizování příspěvků na péči podle nového zákona je spojeno s průtahy"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2007/vyrizovani-prispevku-na-peci-podle-noveho-zakona-je-spojeno-s-prutahy"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2007/vyrizovani-prispevku-na-peci-podle-noveho-zakona-je-spojeno-s-prutahy"
 date: 2007-12-05
 perex: "<p><h2 class=\"Nadpis1\">Vyřizování příspěvků na péči podle nového zákona je spojeno s průtahy</h2> <p class=\"Normln-web\">Vyřizování žádostí o příspěvek na péči podle nového zákona o sociálních službách (zákon č. 108/2006 Sb. účinný od 1. 1. 2007) přináší problémy spojené s mnohaměsíčním čekáním. Obvykle déle než půl roku nemají žadatelé prostředky na úhradu sociálních služeb.</p>"
 ---
@@ -14,7 +16,7 @@ perex: "<p><h2 class=\"Nadpis1\">Vyřizování příspěvků na péči podle no
 <p class="Normln">Současný kritický stav nejen způsobuje žadatelům sociálních potíže, ale podle zástupkyně ochránce může do budoucna zatížit státní rozpočet, pokud se žadatelé začnou obracet na soudy s žalobami o náhradu škody způsobené nesprávným úředním postupem.</p>
 </p>
 	
-	<h2 class="Nadpis1">Vyřizování příspěvků na péči podle nového zákona je spojeno s průtahy</h2>
+<h2 class="Nadpis1">Vyřizování příspěvků na péči podle nového zákona je spojeno s průtahy</h2>
 <p class="Normln-web">Vyřizování žádostí o příspěvek na péči podle nového zákona o sociálních službách (zákon č. 108/2006 Sb. účinný od 1. 1. 2007) přináší problémy spojené s mnohaměsíčním čekáním. Obvykle déle než půl roku nemají žadatelé prostředky na úhradu sociálních služeb.</p>
 <p class="Normln-web">Místní úřady, na nichž se o příspěvek žádá, čelí od začátku roku náporu žádostí. Jen v Praze bylo letos podáno 20 000 žádostí. Přestože se jedná o přechodné období, kdy se celý systém sociálních služeb mění, není možné touto změnou obhajovat skutečnost, že vyřízení žádosti trvá déle než 90 dní. Přitom lhůta tří měsíců bývá i podle judikatury Evropského soudu pro lidská práva obvykle považována za maximální přiměřenou pro provedení procesního úkonu. Žadatel o příspěvek se tak průtahy a nečinností úřadů dostává do často složité sociální situace a po řadu měsíců žije v nejistotě. Úřad ho nepovažuje za rovnocenného partnera, neinformuje ho o průběhu řízení a důvodech nečinnosti a prohlubuje tak jeho nedůvěru v zákony a státní úřady.</p>
 <p class="Normln-web">Nárok na příspěvek na péči má osoba, která z důvodu dlouhodobě nepříznivého zdravotního stavu potřebuje pomoc jiné fyzické osoby. Příspěvek pak žadatel použije buď pro zaplacení služeb například v zařízení pro seniory nebo si tyto služby „nakoupí“ jiným způsobem. Podle zákona 108/2006 Sb., o sociálních službách, se žádost o příspěvek podává u místně příslušného obecního úřadu. Ten provede sociální šetření, tj. zjistí, do jaké míry je žadatel soběstačný a jakou péči o sebe je schopen vykonávat. Zároveň požádá příslušný úřad práce o posouzení zdravotního stavu žadatele. Agenda posuzování zdravotního stavu pro některé dávkové systémy byla totiž v červenci 2006 převedena na úřady práce. Teprve s lékařským posudkem může být žádost o příspěvek na péči vyřízena.</p>

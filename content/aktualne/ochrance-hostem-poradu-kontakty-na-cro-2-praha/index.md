@@ -1,6 +1,8 @@
 ---
 title: "Ochránce hostem pořadu Kontakty na ČRo 2 Praha"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2011/ochrance-hostem-poradu-kontakty-na-cro-2-praha"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2011/ochrance-hostem-poradu-kontakty-na-cro-2-praha"
 date: 2011-02-23
 perex: "<p></p>"
 ---

@@ -1,6 +1,8 @@
 ---
 title: "Dlouhodobé problémy v památkové péči ohrožují kulturní bohatství České republiky"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2012/dlouhodobe-problemy-v-pamatkove-peci-ohrozuji-kulturni-bohatstvi-ceske-republiky"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2012/dlouhodobe-problemy-v-pamatkove-peci-ohrozuji-kulturni-bohatstvi-ceske-republiky"
 date: 2012-02-01
 perex: "<p></p><p>Pokud v oblasti památkové péče nedojde k legislativní změně a neodstraní se problémy, na něž ombudsman dlouhodobě upozorňuje, obává se zástupkyně ochránce, že některé památky nebudou dostatečně chráněny, bude pokračovat jejich devastace a Česká republika přijde o část svého kulturního bohatství.</p>"
 ---

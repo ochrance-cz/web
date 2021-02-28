@@ -1,6 +1,8 @@
 ---
 title: "Desatero dobré praxe pro posouzení žádostí o odškodnění"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2010/desatero-dobre-praxe-pro-posouzeni-zadosti-o-odskodneni"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2010/desatero-dobre-praxe-pro-posouzeni-zadosti-o-odskodneni"
 date: 2010-11-10
 perex: "<p></p><p>Desatero dobré praxe podle ombudsmana pro posouzení žádostí o odškodnění za nezákonné rozhodnutí nebo nesprávný úřední postup. Jeho cílem je informovat žadatele, co mohou po ministerstvu požadovat, jak má ministerstvo postupovat. Současně tím dává najevo, na základě jakých kritérií bude správnost postupu ministerstev posuzovat.</p>"
 ---

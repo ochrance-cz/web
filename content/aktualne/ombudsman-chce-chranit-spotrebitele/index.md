@@ -1,6 +1,8 @@
 ---
 title: "Ombudsman chce chránit spotřebitele"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2007/ombudsman-chce-chranit-spotrebitele"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2007/ombudsman-chce-chranit-spotrebitele"
 date: 2007-04-11
 perex: "<p></p>"
 ---

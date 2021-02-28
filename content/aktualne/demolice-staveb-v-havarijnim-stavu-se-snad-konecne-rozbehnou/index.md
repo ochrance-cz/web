@@ -1,6 +1,8 @@
 ---
 title: "Demolice staveb v havarijním stavu se snad konečně rozběhnou"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2015/demolice-staveb-v-havarijnim-stavu-se-snad-konecne-rozbehnou"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2015/demolice-staveb-v-havarijnim-stavu-se-snad-konecne-rozbehnou"
 date: 2015-06-30
 perex: "<p>V České republice stále chybí dostatečné finanční prostředky pro zajištění nuceného výkonu rozhodnutí stavebních úřadů vydávaných ve veřejném zájmu, pokud vlastník dobrovolně rozhodnutí nesplní. Na problém upozorňuje kancelář ombudsmana již od roku 2004 a nyní, po jedenácti letech, se program financování exekucí připravuje.</p>"
 ---

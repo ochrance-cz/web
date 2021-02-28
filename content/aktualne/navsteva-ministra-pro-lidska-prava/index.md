@@ -1,6 +1,8 @@
 ---
 title: "Návštěva ministra pro lidská práva"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2014/navsteva-ministra-pro-lidska-prava"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2014/navsteva-ministra-pro-lidska-prava"
 date: 2014-03-13
 perex: "<p>Na pracovní jednání s veřejnou ochránkyní práv přijel dnes ministr pro lidská práva, rovné příležitosti a legislativu Jiří Dienstbier.</p>"
 ---

@@ -1,6 +1,8 @@
 ---
 title: "ČOI může trestat nekalé praktiky autobazarů"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2010/coi-muze-trestat-nekale-praktiky-autobazaru"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2010/coi-muze-trestat-nekale-praktiky-autobazaru"
 date: 2010-07-16
 perex: "<p></p><p>Jestliže autobazar nabízí auto bez konkrétního a jasně srozumitelného poučení kupujícího, že stav tachometru nemusí odpovídat počtu skutečně najetých kilometrů, jedná se podle zástupkyně ochránce o klamavou obchodní praktiku.</p>"
 ---

@@ -1,6 +1,8 @@
 ---
 title: "Ombudsmanka žádá vládu o ochranu lidí před chátrajícími stavbami"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2017/ombudsmanka-zada-vladu-o-ochranu-lidi-pred-chatrajicimi-stavbami"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2017/ombudsmanka-zada-vladu-o-ochranu-lidi-pred-chatrajicimi-stavbami"
 date: 2017-08-21
 perex: "<p>Veřejná ochránkyně práv bude dnes osobně žádat vládu, aby konečně vyřešila financování náhradního výkonu rozhodnutí stavebních úřadů. Bez zajištění financování trvá ohrožení bezpečností a zdraví lidí nebezpečnými chátrajícími stavbami.</p>"
 ---

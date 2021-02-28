@@ -1,6 +1,8 @@
 ---
 title: "Za inzerovanou péčí o seniory se může skrývat špatné zacházení"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2012/za-inzerovanou-peci-o-seniory-se-muze-skryvat-spatne-zachazeni"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2012/za-inzerovanou-peci-o-seniory-se-muze-skryvat-spatne-zachazeni"
 date: 2012-10-24
 perex: "<p>V ČR existují soukromá zařízení formálně vydávaná za ubytovací a pohostinskou činnost, ve skutečnosti nelegálně za úplatu nabízející sociální a zdravotní služby, které neodpovídají standardům. Ohroženo je zde zdraví i důstojnost seniorů. Příkladem je Domov důstojného stáří v Líchovech u středočeských Sedlčan. S nedbalostí a nerespektováním zákonných povinností se však ochránce setkal i v registrovaném zařízení Domov se zvláštním režimem v Jevišovce.</p>"
 ---

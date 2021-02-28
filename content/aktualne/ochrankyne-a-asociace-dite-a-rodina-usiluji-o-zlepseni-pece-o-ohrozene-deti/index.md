@@ -1,6 +1,8 @@
 ---
 title: "Ochránkyně a Asociace Dítě a Rodina usilují o zlepšení péče o ohrožené děti"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2016/ochrankyne-a-asociace-dite-a-rodina-usiluji-o-zlepseni-pece-o-ohrozene-deti"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2016/ochrankyne-a-asociace-dite-a-rodina-usiluji-o-zlepseni-pece-o-ohrozene-deti"
 date: 2016-07-26
 perex: "<p>Děti mají žít přednostně v rodině, ať už biologické nebo náhradní, na tomto principu musí stát systém péče o ohrožené děti.</p>"
 ---

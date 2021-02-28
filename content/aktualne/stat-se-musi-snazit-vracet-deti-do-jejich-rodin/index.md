@@ -1,6 +1,8 @@
 ---
 title: "Stát se musí snažit vracet děti do jejich rodin"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2017/stat-se-musi-snazit-vracet-deti-do-jejich-rodin"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2017/stat-se-musi-snazit-vracet-deti-do-jejich-rodin"
 date: 2017-05-03
 perex: "<p>Matce byly odebrány tři děti a svěřeny do zařízení pro děti vyžadující okamžitou pomoc. Chtěla se o své děti nadále starat, ale nevěděla, co přesně po ní orgán sociálně-právní ochrany dětí (OSPOD) požaduje; co musí udělat, aby jí byly děti vráceny. Obrátila se na veřejnou ochránkyni práv. Během šetření jsme na straně práce OSPOD zjistili několik závažných pochybení, především nedostatečnou sociální práci s matkou s cílem vrátit děti zpátky do rodiny. </p>"
 ---

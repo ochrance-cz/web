@@ -1,6 +1,8 @@
 ---
 title: "Provoz malých fotovoltaických elektráren byl nesprávně zdaňován"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2015/provoz-malych-fotovoltaickych-elektraren-byl-nespravne-zdanovan"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2015/provoz-malych-fotovoltaickych-elektraren-byl-nespravne-zdanovan"
 date: 2015-05-29
 perex: "<p>Generální finanční ředitelství při aplikování zákona o podporovaných zdrojích energie zvýhodnilo stát a nerespektovalo zásadu právního státu, že v případě nejasností se zákon vykládá ve prospěch adresátů. Někteří výrobci elektřiny z malých fotovoltaických elektráren tak byli nuceni zaplatit dodatkovou daň, přestože je od ní zákon osvobozoval.</p>"
 ---

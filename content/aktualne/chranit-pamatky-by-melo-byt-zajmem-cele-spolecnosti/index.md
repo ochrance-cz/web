@@ -1,6 +1,8 @@
 ---
 title: "Chránit památky by mělo být zájmem celé společnosti"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2014/chranit-pamatky-by-melo-byt-zajmem-cele-spolecnosti"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2014/chranit-pamatky-by-melo-byt-zajmem-cele-spolecnosti"
 date: 2014-08-21
 perex: "<p>Péče o památky a úroveň jejich ochrany dobře ilustrují priority společnosti a vztah ke kulturním hodnotám. Už nyní stát ukládá vlastníkům povinnosti pečovat o památky, ale problém je v tom, že není schopen jejich plnění vynucovat. Dokud nebude odstraněna tato disproporce, budou nám kulturní památky dál chátrat.</p>"
 ---

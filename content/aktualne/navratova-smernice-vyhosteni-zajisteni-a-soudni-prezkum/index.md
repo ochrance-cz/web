@@ -1,6 +1,8 @@
 ---
 title: "Návratová směrnice: vyhoštění, zajištění a soudní přezkum"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2012/navratova-smernice-vyhosteni-zajisteni-a-soudni-prezkum"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2012/navratova-smernice-vyhosteni-zajisteni-a-soudni-prezkum"
 date: 2012-12-28
 perex: "<p>Aktuálně vydaný sborník příspěvků z vědeckého semináře uskutečněného dne 20. října 2011 v Brně.</p>"
 ---

@@ -1,6 +1,8 @@
 ---
 title: "Panelová diskuze Rovný přístup dětí ke vzdělání"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2012/panelova-diskuze-rovny-pristup-deti-ke-vzdelani"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2012/panelova-diskuze-rovny-pristup-deti-ke-vzdelani"
 date: 2012-09-18
 perex: "<p>Ministr školství, zmocněnkyně vlády pro lidská práva a ombudsman společně pořádají panelovou diskuzi, která by měla pomoci vytvořit vzdělávací systém zajišťující rovný přístup ke vzdělání.</p>"
 ---

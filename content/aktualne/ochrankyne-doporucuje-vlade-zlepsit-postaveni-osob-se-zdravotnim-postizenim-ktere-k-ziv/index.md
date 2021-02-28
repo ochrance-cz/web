@@ -1,6 +1,8 @@
 ---
 title: "Ochránkyně doporučuje vládě zlepšit postavení osob se zdravotním postižením, které k životu potřebují psy se speciálním výcvikem"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2016/ochrankyne-doporucuje-vlade-zlepsit-postaveni-osob-se-zdravotnim-postizenim-ktere-k-ziv"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2016/ochrankyne-doporucuje-vlade-zlepsit-postaveni-osob-se-zdravotnim-postizenim-ktere-k-ziv"
 date: 2016-04-14
 perex: "<p>Za posledních sedm let jsme obdrželi mnoho podnětů, kdy byl například odepřen vstup osob doprovázených asistenčním psem do některých budov nebo prostředků MHD. Podobným překážkám někteří stěžovatelé čelili také v přístupu k lázeňské péči nebo v zaměstnání. V České republice neexistuje zákonná úprava, která by práva osob doprovázených asistenčním psem vymezovala. Veřejná ochránkyně práv proto navrhuje vládě přijetí zákona, jenž upraví práva osob se zdravotním postižením využívajících psa se speciálním výcvikem.</p>"
 ---

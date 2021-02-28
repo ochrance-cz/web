@@ -1,6 +1,8 @@
 ---
 title: "Obcím chybí vstřícnost při zřizování individuálních vyhrazených parkovišť"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2020/obcim-chybi-vstricnost-pri-zrizovani-individualnich-vyhrazenych-parkovist"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2020/obcim-chybi-vstricnost-pri-zrizovani-individualnich-vyhrazenych-parkovist"
 date: 2020-06-16
 perex: "<p>Jen čtvrtina obcí projevuje jistou vstřícnost vůči žadatelům o individuální vyhrazené parkování pro osoby se zdravotním postižením a snaží se jim co nejvíc ulehčit proces získání povolení a zřízení parkovacího místa. Ostatní obce mají naopak různě vysoké, mnohdy zatěžující a neopodstatněné požadavky. Individuální posuzování žádosti stále není standardem, stejně jako navrhování reálných náhradních opatření. Obvyklejší je pouze formální odkaz např. na využívání veřejného parkoviště, které však situaci žadatele neřeší.</p>"
 ---

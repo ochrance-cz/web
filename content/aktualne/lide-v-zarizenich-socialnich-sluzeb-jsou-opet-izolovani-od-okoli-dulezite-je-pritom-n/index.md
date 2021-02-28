@@ -1,6 +1,8 @@
 ---
 title: "Lidé v zařízeních sociálních služeb jsou opět izolováni od okolí, důležité je přitom nejen zdraví, ale i psychika"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2020/lide-v-zarizenich-socialnich-sluzeb-jsou-opet-izolovani-od-okoli-dulezite-je-pritom-n"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2020/lide-v-zarizenich-socialnich-sluzeb-jsou-opet-izolovani-od-okoli-dulezite-je-pritom-n"
 date: 2020-11-05
 perex: "<p>Na vládou nařízený zákaz vycházení z domovů pro seniory a domovů se zvláštním režimem a zákaz návštěv je podle zástupkyně ombudsmana třeba pohlížet jako na zcela krajní nástroj ochrany zdraví a života klientů, který se střetává se základními lidskými právy a svobodami. Výjimky z omezení proto musí být citlivě uplatňovány a je třeba co nejdříve najít způsob, jak bezpečně umožnit návštěvy u klientů zařízení.</p>"
 ---

@@ -1,6 +1,8 @@
 ---
 title: "Úřad práce odmítl napravit chybně zastavenou výplatu podpory v nezaměstnanosti"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2020/urad-prace-odmitl-napravit-chybne-zastavenou-vyplatu-podpory-v-nezamestnanosti"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2020/urad-prace-odmitl-napravit-chybne-zastavenou-vyplatu-podpory-v-nezamestnanosti"
 date: 2020-11-23
 perex: "<p>Úřad práce zastavil výplatu podpory v nezaměstnanosti k dřívějšímu datu, než měl. O zastavení výplaty nevydal rozhodnutí, proti kterému by se mohl uchazeč o zaměstnání bránit. Úřad práce trvá na tom,  že postupoval správně, a Ministerstvo práce a sociálních věcí ho podpořilo. Zástupkyně ombudsmana je přesto nadále přesvědčena, že právní názor obou úřadů je chybný. Protože vyčerpala všechny zákonné možnosti k zajištění nápravy, kterou však úřady odmítly provést, rozhodla se případ zveřejnit.</p>"
 ---

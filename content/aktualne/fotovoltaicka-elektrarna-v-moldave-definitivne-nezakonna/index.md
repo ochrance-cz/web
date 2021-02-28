@@ -1,6 +1,8 @@
 ---
 title: "Fotovoltaická elektrárna v Moldavě definitivně nezákonná"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2016/fotovoltaicka-elektrarna-v-moldave-definitivne-nezakonna"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2016/fotovoltaicka-elektrarna-v-moldave-definitivne-nezakonna"
 date: 2016-07-21
 perex: "<p>Nejvyšší správní soud s konečnou platností rozhodl, že povolení k výstavbě fotovoltaické elektrárny v chráněné ptačí rezervaci v Krušných horách v obci Moldava byla vydána v rozporu se zákonem. Potvrdil tak verdikt Krajského soudu v Ústí nad Labem, který rozhodnutí o umístění a povolení stavby zrušil pro nezákonnost. Úplným úspěchem tím skončila dosud první žaloba podaná veřejným ochráncem práv ve veřejném zájmu.</p>"
 ---

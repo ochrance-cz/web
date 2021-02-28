@@ -1,6 +1,8 @@
 ---
 title: "Ústavní soud ve shodě s veřejným ochráncem práv"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2009/ustavni-soud-ve-shode-s-verejnym-ochrancem-prav"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2009/ustavni-soud-ve-shode-s-verejnym-ochrancem-prav"
 date: 2009-01-26
 perex: "<p></p><p>Ochránce uvítal nález Ústavního soudu (Pl. ÚS 26/07, vyhlášený dne 17.12.2008) kterým zrušil ustanovení § 171 odst. 1 písm. c) zákona o pobytu cizinců. Podle tohoto ustanovení se cizinci, kteří nacházeli na území České republiky neoprávněně, nemohli soudní cestou bránit proti rozhodnutí o vyhoštění. </p>"
 ---

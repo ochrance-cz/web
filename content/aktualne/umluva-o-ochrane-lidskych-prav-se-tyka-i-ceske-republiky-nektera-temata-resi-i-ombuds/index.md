@@ -1,6 +1,8 @@
 ---
 title: "Úmluva o ochraně lidských práv se týká i České republiky, některá témata řeší i ombudsman"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2020/umluva-o-ochrane-lidskych-prav-se-tyka-i-ceske-republiky-nektera-temata-resi-i-ombuds"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2020/umluva-o-ochrane-lidskych-prav-se-tyka-i-ceske-republiky-nektera-temata-resi-i-ombuds"
 date: 2020-11-04
 perex: "<p>Před 70. lety byla přijata evropská Úmluva o ochraně lidských práv a základních svobod. S tématy souvisejícími se závazky států a s případy možného porušení Úmluvy se setkává i ombudsman.</p>"
 ---

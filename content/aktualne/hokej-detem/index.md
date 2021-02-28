@@ -1,6 +1,8 @@
 ---
 title: "Hokej dětem"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2017/hokej-detem"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2017/hokej-detem"
 date: 2017-05-31
 perex: "<p>Někteří rodiče nesouhlasí s přestupovou politikou hokejových klubů vůči dětským hráčům. Přestup do jiného klubu je totiž už od věku 10 let podmiňován odstupným. To většinou zaplatí rodiče formou daru či sponzoringu novému klubu, který za tyto peníze „vykoupí“ malého hokejistu z jeho mateřského klubu.</p>"
 ---

@@ -1,6 +1,8 @@
 ---
 title: "Poobědový spánek dětí ve školce není povinný"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2013/poobedovy-spanek-deti-ve-skolce-neni-povinny"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2013/poobedovy-spanek-deti-ve-skolce-neni-povinny"
 date: 2013-09-24
 perex: "<p>Mohou učitelky v mateřské školce nutit děti po obědě spát nebo ležet v postýlce? Zástupce veřejného ochránce práv obdržel dotaz, který poukazoval na praxi školek po obědě děti uložit na lehátko, kde musí 90 minut ležet, i když nespí. Mají pak mnohdy problém usnout večer. Podle stěžovatelky se tak i zbytečně utlumují děti přirozeně aktivní, zvídavé a tvořivé, které by před poledním spánkem daly přednost nějaké klidné činnosti.</p>"
 ---

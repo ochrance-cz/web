@@ -1,6 +1,8 @@
 ---
 title: "Návštěva Ústavně právního výboru Parlamentu ČR"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2008/navsteva-ustavne-pravniho-vyboru-parlamentu-cr"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2008/navsteva-ustavne-pravniho-vyboru-parlamentu-cr"
 date: 2008-03-14
 perex: "<p></p>"
 ---

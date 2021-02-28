@@ -1,6 +1,8 @@
 ---
 title: "Ochránce informoval poslance o svých poznatcích za 1. čtvrtletí"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2013/ochrance-informoval-poslance-o-svych-poznatcich-za-1-ctvrtleti"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2013/ochrance-informoval-poslance-o-svych-poznatcich-za-1-ctvrtleti"
 date: 2013-04-25
 perex: "<p>Ve své pravidelné zprávě pro Poslaneckou sněmovnu o činnosti za uplynulé čtvrtletí ochránce informuje poslance mj. o čtyřech závažných případech, jejichž šetření ukončil, o své účasti v řízeních před Ústavním soudem a uplatněných připomínkách k návrhům zákonů.</p>"
 ---

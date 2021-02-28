@@ -1,6 +1,8 @@
 ---
 title: "Provozovatelé malých fotovoltaických elektráren by měli mít nárok na podporu v nezaměstnanosti"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2014/provozovatele-malych-fotovoltaickych-elektraren-by-meli-mit-narok-na-podporu-v-nezamestnanos"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2014/provozovatele-malych-fotovoltaickych-elektraren-by-meli-mit-narok-na-podporu-v-nezamestnanos"
 date: 2014-04-23
 perex: "<p>Jedno z deseti legislativních doporučení, která veřejná ochránkyně práv předložila Poslanecké sněmovně, se týká i provozovatelů malých fotovoltaických elektráren. Drobní výrobci elektřiny (provozovatelé střešních fotovoltaických elektráren o výkonu několika kW připojených do sítě) jsou totiž podle zákona o důchodovém pojištění považováni za osoby samostatně výdělečně činné.</p>"
 ---

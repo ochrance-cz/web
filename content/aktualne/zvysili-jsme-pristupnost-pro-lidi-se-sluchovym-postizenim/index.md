@@ -1,6 +1,8 @@
 ---
 title: "Zvýšili jsme přístupnost pro lidi se sluchovým postižením"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2020/zvysili-jsme-pristupnost-pro-lidi-se-sluchovym-postizenim"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2020/zvysili-jsme-pristupnost-pro-lidi-se-sluchovym-postizenim"
 date: 2020-07-14
 perex: "<p>Kancelář veřejného ochránce práv se rozhodla posílit službu své infolinky pro lidi s postižením nebo pro lidi s horší schopností porozumět mluvenému slovu. Nově mohou využívat přepisu hovoru prostřednictvím tzv. služby transkript.</p>"
 ---

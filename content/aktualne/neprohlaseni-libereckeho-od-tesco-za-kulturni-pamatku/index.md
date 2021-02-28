@@ -1,6 +1,8 @@
 ---
 title: "Neprohlášení libereckého OD Tesco za kulturní památku"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2008/neprohlaseni-libereckeho-od-tesco-za-kulturni-pamatku"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2008/neprohlaseni-libereckeho-od-tesco-za-kulturni-pamatku"
 date: 2008-02-14
 perex: "<p></p>"
 ---

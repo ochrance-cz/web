@@ -1,6 +1,8 @@
 ---
 title: "Ombudsmanka zahajuje systematickou ochranu lidí se zdravotním postižením"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2018/ombudsmanka-zahajuje-systematickou-ochranu-lidi-se-zdravotnim-postizenim"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2018/ombudsmanka-zahajuje-systematickou-ochranu-lidi-se-zdravotnim-postizenim"
 date: 2018-02-12
 perex: "<p>Veřejná ochránkyně práv se od 1. ledna 2018 komplexně zabývá naplňováním práv lidí se zdravotním postižením. Prioritními oblastmi monitorování budou vzdělání, práce, přístupnost, svéprávnost a sociální zabezpečení.</p>"
 ---

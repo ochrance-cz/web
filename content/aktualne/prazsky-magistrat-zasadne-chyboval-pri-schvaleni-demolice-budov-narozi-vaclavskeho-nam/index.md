@@ -1,6 +1,8 @@
 ---
 title: "Pražský magistrát zásadně chyboval při schválení demolice budov nároží Václavského náměstí a Opletalovy ulice v Praze"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2013/prazsky-magistrat-zasadne-chyboval-pri-schvaleni-demolice-budov-narozi-vaclavskeho-nam"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2013/prazsky-magistrat-zasadne-chyboval-pri-schvaleni-demolice-budov-narozi-vaclavskeho-nam"
 date: 2013-07-30
 perex: "<p>Odbor kultury, památkové péče a cestovního ruchu Magistrátu hlavního města Prahy se v roce 2010 dopustil závažných procesních pochybení v případě vydání kladného závazného stanoviska k povolení demolice tři objektů na nároží Václavského náměstí a Opletalovy ulice.</p>"
 ---

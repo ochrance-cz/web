@@ -1,6 +1,8 @@
 ---
 title: "Pavel Varvařovský v Krásných ztrátách na ČT2"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2011/pavel-varvarovsky-v-krasnych-ztratach-na-ct2"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2011/pavel-varvarovsky-v-krasnych-ztratach-na-ct2"
 date: 2011-05-18
 perex: "<p></p><p>Veřejný ochránce práv bude ve čtvrtek 19. 5. od 21:35 na ČT 2 hostem pořadu Krásné ztráty v baru u Michala Prokopa.</p>"
 ---

@@ -1,6 +1,8 @@
 ---
 title: "Jednání s policejním prezidentem"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2014/jednani-s-policejnim-prezidentem-1"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2014/jednani-s-policejnim-prezidentem-1"
 date: 2014-07-07
 perex: "<p>Ochránkyně se sešla s policejním prezidentem k jednání o právech osob v policejních celách. Zajímala se o způsob předcházení problémům souvisejících s umisťováním do cel.</p>"
 ---

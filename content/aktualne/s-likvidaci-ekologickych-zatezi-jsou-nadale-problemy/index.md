@@ -1,6 +1,8 @@
 ---
 title: "S likvidací ekologických zátěží jsou nadále problémy"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2009/s-likvidaci-ekologickych-zatezi-jsou-nadale-problemy"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2009/s-likvidaci-ekologickych-zatezi-jsou-nadale-problemy"
 date: 2009-02-18
 perex: "<p></p><p>Ochránce se v posledních letech opakovaně setkával s nedořešeným problémem ekologických zátěží. České právo zná sice zákon o předcházení ekologické újmě, ale podle tohoto zákona nelze postupovat v případě, kdy k události způsobující ekologickou újmu došlo před jeho účinností, tj. před 19. 5. 2008. Navíc, i tento zákon se zabývá pouze otázkou bezprostředního ohrožení životního prostředí. Zcela opomíjena jsou však rizika dlouhodobého působení nepovolených nebezpečných skládek, bývalých skladů pesticidů nebo úložišť nebezpečných chemických látek, kdy dosud k bezprostřednímu ohrožení nedošlo, ale je zřejmé že během času se riziko zvyšuje a k poškození může dojít. To je typické pro řadu starých ekologických zátěží, kdy v řadě případů nelze ani identifikovat konkrétní osobu zodpovědnou za vzniklý stav. Navíc je dnešní ekologická zátěž mnohdy výsledkem činností probíhajících v souladu s dříve platnými právními předpisy. Tyto staré zátěže nejsou součástí vládou připravovaného velkého tendru sanací znečištění. Tendr se týká pouze závazků státu z privatizačních projektů.</p>"
 ---

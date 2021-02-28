@@ -1,6 +1,8 @@
 ---
 title: "Diskriminace z důvodu náboženství se v agendě ochránce takřka nevyskytuje"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2016/diskriminace-z-duvodu-nabozenstvi-se-v-agende-ochrance-takrka-nevyskytuje"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2016/diskriminace-z-duvodu-nabozenstvi-se-v-agende-ochrance-takrka-nevyskytuje"
 date: 2016-11-22
 perex: "<p>Případ studentky, která chtěla chodit do školy s šátkem pokrývajícím její vlasy, ochránkyně ukončila zprávou v roce 2014. Zda může školní řád omezovat Listinu základních práv a svobod, o tom rozhodne soud. Případ budí tolik pozornosti také proto, že je v České republice ojedinělý. Na veřejného ochránce práv se v posledních letech s podobným tématem nikdo neobrátil. </p>"
 ---

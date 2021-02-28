@@ -1,6 +1,8 @@
 ---
 title: "Role ochránce v prosazování rovného zacházení"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2009/role-ochrance-v-prosazovani-rovneho-zachazeni"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2009/role-ochrance-v-prosazovani-rovneho-zachazeni"
 date: 2009-09-16
 perex: "<p></p>"
 ---

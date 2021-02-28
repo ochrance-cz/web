@@ -1,6 +1,8 @@
 ---
 title: "Ombudsman žádá vládu o řešení průtahů v činnosti ministerstev"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2007/ombudsman-zada-vladu-o-reseni-prutahu-v-cinnosti-ministerstev"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2007/ombudsman-zada-vladu-o-reseni-prutahu-v-cinnosti-ministerstev"
 date: 2007-06-15
 perex: "<p></p>"
 ---

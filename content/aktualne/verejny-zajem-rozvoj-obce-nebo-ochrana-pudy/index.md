@@ -1,6 +1,8 @@
 ---
 title: "Veřejný zájem: Rozvoj obce nebo ochrana půdy?"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2016/verejny-zajem-rozvoj-obce-nebo-ochrana-pudy"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2016/verejny-zajem-rozvoj-obce-nebo-ochrana-pudy"
 date: 2016-03-01
 perex: "<p></p>"
 ---

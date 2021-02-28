@@ -1,6 +1,8 @@
 ---
 title: "Výzkum potvrdil nepřímou diskriminaci romských žáků"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2012/vyzkum-potvrdil-neprimou-diskriminaci-romskych-zaku"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2012/vyzkum-potvrdil-neprimou-diskriminaci-romskych-zaku"
 date: 2012-06-06
 perex: "<p></p><p>Ačkoli se podíl romské populace v České republice pohybuje v rozmezí 1,4 – 2,8 % obyvatel, romské děti tvoří 32 % žáků základních škol praktických. Vyplývá to z výzkumu, který veřejný ochránce provedl v 67 náhodně vybraných základních školách praktických v rámci všech regionů České republiky. </p>"
 ---

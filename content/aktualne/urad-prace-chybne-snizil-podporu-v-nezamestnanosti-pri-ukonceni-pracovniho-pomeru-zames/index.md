@@ -1,6 +1,8 @@
 ---
 title: "Úřad práce chybně snížil podporu v nezaměstnanosti při ukončení pracovního poměru zaměstnancem"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2013/urad-prace-chybne-snizil-podporu-v-nezamestnanosti-pri-ukonceni-pracovniho-pomeru-zames"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2013/urad-prace-chybne-snizil-podporu-v-nezamestnanosti-pri-ukonceni-pracovniho-pomeru-zames"
 date: 2013-11-11
 perex: "<p>Sankce: Úřad práce ČR, krajská pobočka v Pardubicích, kontaktní pracoviště Hlinsko, postupoval nepřípustným způsobem, když snížil podporu v nezaměstnanosti uchazečce, která sama ukončila pracovní poměr. Nevyhodnotil totiž, zda existovaly vážné důvodů, kvůli nimž uchazečka pracovní poměr ukončila.</p>"
 ---

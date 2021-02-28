@@ -1,6 +1,8 @@
 ---
 title: "NEMŮŽEME MLČET"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2017/nemuzeme-mlcet"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2017/nemuzeme-mlcet"
 date: 2017-07-21
 perex: "<p>Společné prohlášení předsedů Ústavního soudu, Nejvyššího soudu, Nejvyššího správního soudu, nejvyššího státního zástupce a veřejné ochránkyně práv.</p>"
 ---

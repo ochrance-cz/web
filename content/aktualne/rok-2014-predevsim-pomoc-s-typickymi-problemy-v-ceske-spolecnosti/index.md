@@ -1,6 +1,8 @@
 ---
 title: "Rok 2014: především pomoc s typickými problémy v české společnosti"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2015/rok-2014-predevsim-pomoc-s-typickymi-problemy-v-ceske-spolecnosti"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2015/rok-2014-predevsim-pomoc-s-typickymi-problemy-v-ceske-spolecnosti"
 date: 2015-04-22
 perex: "<p>V roce 2014 se na veřejnou ochránkyni práv obrátilo 8202 lidí se stížnostmi na úřady. Kromě toho šetřila ochránkyně 332 podnětů, v nichž bylo namítáno nerovné zacházení, a provedla 19 neohlášených systematických návštěv zařízení, v nichž se nacházejí lidé omezení na svobodě. Kromě toho uplatnila ochránkyně připomínky k 34 návrhům právních předpisů a vstoupila do pěti řízení u Ústavního soudu.</p>"
 ---

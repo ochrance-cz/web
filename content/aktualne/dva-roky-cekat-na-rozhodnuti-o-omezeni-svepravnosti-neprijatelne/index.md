@@ -1,8 +1,10 @@
 ---
 title: "Dva roky čekat na rozhodnutí o omezení svéprávnosti? Nepřijatelné."
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2017/dva-roky-cekat-na-rozhodnuti-o-omezeni-svepravnosti-neprijatelne"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2017/dva-roky-cekat-na-rozhodnuti-o-omezeni-svepravnosti-neprijatelne"
 date: 2017-11-22
-perex: "<p>Kvůli problémům při zpracování znaleckého posudku žena už dva roky čeká na rozhodnutí soudu o omezení svéprávnosti její dcery trpící schizofrenií. Není jediná – průtahy v soudních řízeních jsou nejčastějším důvodem stížností ombudsmance na činnost soudů. Jejich počet neklesá, v letošním roce už jich lidé poslali stejně, jako za celý loňský rok. Řada průtahů souvisí právě se znaleckou činností.</p>"
+perex: "<p>Kvůli problémům při zpracování znaleckého posudku žena už dva roky čeká na rozhodnutí soudu o omezení svéprávnosti její dcery trpící schizofrenií. Není jediná &ndash; průtahy v soudních řízeních jsou nejčastějším důvodem stížností ombudsmance na činnost soudů. Jejich počet neklesá, v letošním roce už jich lidé poslali stejně, jako za celý loňský rok. Řada průtahů souvisí právě se znaleckou činností.</p>"
 ---
 
 <!-- imported from the old website -->

@@ -1,6 +1,8 @@
 ---
 title: "Stavební úřad Brno-Líšeň nečinný"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2012/stavebni-urad-brno-lisen-necinny"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2012/stavebni-urad-brno-lisen-necinny"
 date: 2012-07-17
 perex: "<p></p><p>Sankční zveřejnění nesoučinnosti Úřadu městské části Brno-Líšeň při šetření zástupkyně ombudsmana ve věci nečinnosti v řízení o odstranění nepovolené stavby.</p>"
 ---

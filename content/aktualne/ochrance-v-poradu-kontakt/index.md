@@ -1,6 +1,8 @@
 ---
 title: "Ochránce v pořadu Kontakt"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2013/ochrance-v-poradu-kontakt"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2013/ochrance-v-poradu-kontakt"
 date: 2013-08-08
 perex: "<p></p>"
 ---

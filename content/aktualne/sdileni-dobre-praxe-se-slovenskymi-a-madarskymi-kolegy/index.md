@@ -1,6 +1,8 @@
 ---
 title: "Sdílení dobré praxe se slovenskými a maďarskými kolegy"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2014/sdileni-dobre-praxe-se-slovenskymi-a-madarskymi-kolegy"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2014/sdileni-dobre-praxe-se-slovenskymi-a-madarskymi-kolegy"
 date: 2014-02-11
 perex: "<p></p>"
 ---

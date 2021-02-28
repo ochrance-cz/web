@@ -1,6 +1,8 @@
 ---
 title: "Občané EU s přechodným pobytem v ČR mohou volit v komunálních volbách"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2014/obcane-eu-s-prechodnym-pobytem-v-cr-mohou-volit-v-komunalnich-volbach"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2014/obcane-eu-s-prechodnym-pobytem-v-cr-mohou-volit-v-komunalnich-volbach"
 date: 2014-09-22
 perex: "<p>Veřejná ochránkyně práv Anna Šabatová vítá rozhodnutí Státní volební komise zapisovat do dodatků volebních seznamů občany EU s potvrzením o přechodném pobytu v České republice.</p>"
 ---

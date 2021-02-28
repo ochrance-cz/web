@@ -1,0 +1,12 @@
+---
+title: "Chráněný účet je krokem k ochraně dlužníků v exekuci"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2021/chraneny-ucet-je-krokem-k-ochrane-dluzniku-v-exekuci"
+date: 2021-02-02
+perex: "<p></p>"
+---
+
+<!-- imported from the old website -->
+
+<p>Už od roku 2013 ochránce upozorňoval na nedostatečnou ochranu dlužníků, kteří v exekuci přicházeli o příjmy, které jsou ze zákona chráněné. Buď jsou z exekuce vyloučeny úplně, nebo je exekutor může postihnout jen srážkami. V praxi se ale celé roky setkává s případy, kdy je takový „chráněný“ příjem zaslán na bankovní účet, exekutor účet zablokuje a dlužník se k těmto nezabavitelným částkám dostane jen velmi složitě. Často se to týká například příjemců důchodu nebo dávek. Ochránce proto vítá schválení právní úpravy zavádějící možnost zřídit si tzv. chráněný účet, na němž budou příjmy, které exekuci nepodléhají a dlužníci je tak budou moci využívat. </p> <p><i>„Považuji to za přiměřeně rychlé řešení některých problémů v oblasti exekucí. Dlužníci nebudou muset kvůli obstavenému účtu řešit změnu způsobu výplatu důchodu či dávek složenkou, nebudou muset řešit vyvázání nezabavitelných prostředků z účtu návrhem na částečné zastavení exekuce. Všechny tyto kroky odpadnou, což ve výsledku nejen pomůže dlužníkovi, ale sníží se i další administrativa na straně exekutorů, soudů apod.“</i> říká ombudsman Stanislav Křeček. </p> <p>Ilustrovat to lze na příkladu, v němž se na ombudsmana obrátila žena, které byly na bankovní účet vypláceny dávky pomoci v hmotné nouzi. Exekutor účet zablokovat a peníze na něm v rámci exekuce postihl. Dávky pomoci v hmotné nouzi jsou přitom zákonem z exekuce vyloučeny bez ohledu na to, jak jsou vypláceny. Mají sloužit k zajištění základních životních potřeb příjemce a jeho rodiny a tento charakter neztrácejí okamžikem vyplacení. Ombudsman upozornil, že vyplacením na účet se z nich nestávají „anonymní“ peníze, které lze exekucí postihnout, stále jde o nezabavitelný příjem. </p> <p>Až dosud měli dlužníci jedinou možnost. Aby nezůstali ze dne na den bez prostředků, mohli si ze zablokovaného účtu jednorázově vybrat dvojnásobek životního minima. Pak museli žádat o vyloučení příjmů, které nelze postihnout nebo jen částečně srážkami z exekuce. Museli prokázat původ peněz, a pokud exekutor nevyhověl, musel o tom rozhodnout soud.</p><i>  „Nová právní úprava bude účinná od dubna a samozřejmě že se může stát, že se v praxi objeví i některé nedostatky. Pořád jsem ale přesvědčen, že jde o krok správným směrem,“</i> uzavírá ombudsman.

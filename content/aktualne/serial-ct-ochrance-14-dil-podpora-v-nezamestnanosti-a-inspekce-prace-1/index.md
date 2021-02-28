@@ -1,6 +1,8 @@
 ---
 title: "Seriál ČT „Ochránce“ – 14. díl: Podpora v nezaměstnanosti a inspekce práce"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2011/serial-ct-ochrance-14-dil-podpora-v-nezamestnanosti-a-inspekce-prace-1"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2011/serial-ct-ochrance-14-dil-podpora-v-nezamestnanosti-a-inspekce-prace-1"
 date: 2011-12-05
 perex: "<p></p><p>Problémy s podporou v nezaměstnanosti, vyřazení z registru úřadu práce, nevhodné pracovní prostředí. To jsou témata 14. dílu seriálu Ochránce vysílaného na ČT2 v úterý 6. 12. v 17:20 hod a v repríze ve středu 7. 12. v 9:35 hod.</p>"
 ---

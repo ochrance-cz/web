@@ -1,6 +1,8 @@
 ---
 title: "Záznam z konference o ochraně zvířat proti týrání"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2018/zaznam-z-konference-o-ochrane-zvirat-proti-tyrani"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2018/zaznam-z-konference-o-ochrane-zvirat-proti-tyrani"
 date: 2018-03-01
 perex: "<p>Videozáznam z konference a prezentace k příspěvkům, které zde zazněly, by měly být dostupné na webu ochránce ve druhé polovině března. Konference k problematice ochrany zvířat proti týrání se konala 22. února.</p>"
 ---

@@ -1,6 +1,8 @@
 ---
 title: "Zástupce ombudsmana dnes ke služebnímu zákonu"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2014/zastupce-ombudsmana-dnes-ke-sluzebnimu-zakonu"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2014/zastupce-ombudsmana-dnes-ke-sluzebnimu-zakonu"
 date: 2014-01-23
 perex: "<p>Zástupce ombudsmana Stanislav Křeček se dnes v Poslanecké sněmovně účastní pracovního semináře ke služebnímu zákonu „Kvalitní státní správa. Cesta k řádné správě věcí veřejných.“, který se koná pod záštitou předsedy ústavně právního výboru.</p>"
 ---

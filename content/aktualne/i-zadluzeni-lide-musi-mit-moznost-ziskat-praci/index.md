@@ -1,6 +1,8 @@
 ---
 title: "I zadlužení lidé musí mít možnost získat práci"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2016/i-zadluzeni-lide-musi-mit-moznost-ziskat-praci"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2016/i-zadluzeni-lide-musi-mit-moznost-ziskat-praci"
 date: 2016-11-01
 perex: "<p>Dluh by neměl být absolutní překážkou při hledání zaměstnání. Pokud nejde o pracovní pozici, v níž by zaměstnanec nakládal s penězi a mohl pro zaměstnavatele představovat určité riziko, nemělo by obecně platit, že zadlužení lidé nezískají práci. Konstatovala to veřejná ochránkyně práv v případu, o němž informovala i Poslaneckou sněmovnu v rámci pravidelné zprávy o činnosti.</p>"
 ---

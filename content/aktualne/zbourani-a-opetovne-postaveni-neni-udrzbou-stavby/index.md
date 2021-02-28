@@ -1,6 +1,8 @@
 ---
 title: "Zbourání a opětovné postavení není údržbou stavby"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2016/zbourani-a-opetovne-postaveni-neni-udrzbou-stavby"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2016/zbourani-a-opetovne-postaveni-neni-udrzbou-stavby"
 date: 2016-04-20
 perex: "<p>Údržbou stavby není, pokud vlastník původní stavbu zcela zbourá a poté na jejím místě postaví stejnou stavbu znovu. V takovém případě provádí novou stavbu, k níž musí ještě před zahájením získat odpovídající povolení stavebního úřadu.</p>"
 ---

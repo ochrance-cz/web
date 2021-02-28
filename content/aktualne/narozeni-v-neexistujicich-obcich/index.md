@@ -1,6 +1,8 @@
 ---
 title: "Narozeni v neexistujících obcích"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2009/narozeni-v-neexistujicich-obcich"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2009/narozeni-v-neexistujicich-obcich"
 date: 2009-03-20
 perex: "<p></p><p>K zajímavým případům, s nimiž se ochránce setkává, patří uvádění údajů o místě narození v úředních dokladech v situaci, kdy již například původní obec neexistuje. Občané jsou většinou nespokojeni s tím, že mají v dokladech jako místo narození uvedenu obec podle aktuálního územního členění a nikoli obec, která mezitím zanikla např. v důsledku důlní činnosti nebo vybudování vodní nádrže nebo se stala součástí jiné obce. Naposledy šlo o případ občanů narozených v obci Mušov zaniklé v důsledku vybudování vodní nádrže Nové Mlýny, kteří mají v občanských průkazech jako místo narození uvedeny Pasohlávky.</p>"
 ---

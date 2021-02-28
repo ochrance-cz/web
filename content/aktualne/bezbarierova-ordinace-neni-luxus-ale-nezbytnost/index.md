@@ -1,6 +1,8 @@
 ---
 title: "Bezbariérová ordinace není luxus, ale nezbytnost"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2020/bezbarierova-ordinace-neni-luxus-ale-nezbytnost"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2020/bezbarierova-ordinace-neni-luxus-ale-nezbytnost"
 date: 2020-10-06
 perex: "<p>Na jaře se na zástupkyni ombudsmana obrátil muž pohybující se na vozíku ve věci vyřízení své stížnosti týkající se návštěvy lékařky. Muž si u krajského úřadu stěžoval mimo jiné na chybějící bezbariérový přístup do její ordinace. K této části podnětu se však krajský úřad vůbec nevyjádřil. Na základě našeho šetření pak krajský úřad vyzval dotčenou lékařku k přijetí takových opatření, která by zajistila bezbariérový přístup do ordinace. </p>"
 ---

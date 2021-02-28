@@ -1,6 +1,8 @@
 ---
 title: "Invalidní důchodci mají právo na spravedlivou odměnu za práci"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2016/invalidni-duchodci-maji-pravo-na-spravedlivou-odmenu-za-praci"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2016/invalidni-duchodci-maji-pravo-na-spravedlivou-odmenu-za-praci"
 date: 2016-02-23
 perex: "<p>Ochránkyně odmítá praxi, kdy lidé se zdravotním postižením dostávají ve srovnání se zdravými kolegy nižší odměnu za stejnou práci. Rozhodla se proto podat návrh Ústavnímu soudu na zrušení části nařízení vlády o minimální mzdě, která k nerovnosti přispívá. Současně apeluje na oblastní inspektoráty práce, aby při svých kontrolách věnovaly pozornost i tomu, jak zaměstnavatelé odměňují práci invalidních zaměstnanců, zda dodržují zákoník práce. </p>"
 ---

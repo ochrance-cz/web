@@ -1,6 +1,8 @@
 ---
 title: "Bytové družstvo nemůže ospravedlnit diskriminaci hlasováním svých členů"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2020/bytove-druzstvo-nemuze-ospravedlnit-diskriminaci-hlasovanim-svych-clenu"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2020/bytove-druzstvo-nemuze-ospravedlnit-diskriminaci-hlasovanim-svych-clenu"
 date: 2020-06-18
 perex: "<p>Bytové družstvo odmítlo své člence se zdravotním postižením povolit zřízení dálkového otevírání vchodových dveří, přestože to odůvodňovala zdravotními problémy a nabízela, že náklady uhradí. Podle ombudsmana jde o nepřímou diskriminaci z důvodu zdravotního postižení a ani hlasování členů nemůže popřít zákonný nárok. Doporučil proto družstvu, aby stěžovatelce vyhovělo a postupovalo v souladu se zákonným účelem družstva zajišťovat bytové potřeby svých členů.</p>"
 ---

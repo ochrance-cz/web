@@ -1,6 +1,8 @@
 ---
 title: "Ministerstvo se vyhýbá povinnosti regulovat zápach"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2012/ministerstvo-se-vyhyba-povinnosti-regulovat-zapach"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2012/ministerstvo-se-vyhyba-povinnosti-regulovat-zapach"
 date: 2012-02-29
 perex: "<p></p><p>Současné právní předpisy nechrání občany před nadměrným zápachem. Zvlášť závažně se tento nedostatek projevuje v případech, kdy je zdrojem zápachu dlouhodobá a soustavná činnost některých velkých provozů např. karosáren, bioplynových stanic, živočišné a potravinářské výroby.  Zatímco v případě hluku či jiného znečištění stát garantuje právními předpisy ochranu veřejného zájmu, u obtěžujícího zápachu jsou občané ponecháni svému osudu a jejich jedinou možností je občanskoprávní žaloba používaná u sousedských sporů, a to i v případech, kdy je zdrojem zápachu velká firma.</p>"
 ---

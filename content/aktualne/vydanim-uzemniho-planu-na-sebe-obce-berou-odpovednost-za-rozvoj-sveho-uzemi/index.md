@@ -1,6 +1,8 @@
 ---
 title: "Vydáním územního plánu na sebe obce berou odpovědnost za rozvoj svého území"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2013/vydanim-uzemniho-planu-na-sebe-obce-berou-odpovednost-za-rozvoj-sveho-uzemi"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2013/vydanim-uzemniho-planu-na-sebe-obce-berou-odpovednost-za-rozvoj-sveho-uzemi"
 date: 2013-11-20
 perex: "<p>Jestliže obec v územním plánu vymezí určitou lokalitu pro bydlení, měla by usilovat o to, aby byla v daném území vybudována veřejná infrastruktura, bez které nelze postavené domy povolit k užívání. </p>"
 ---

@@ -1,6 +1,8 @@
 ---
 title: "Nová publikace Dávky pomoci v hmotné nouzi"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2017/nova-publikace-davky-pomoci-v-hmotne-nouzi"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2017/nova-publikace-davky-pomoci-v-hmotne-nouzi"
 date: 2017-10-17
 perex: "<p>Ombudsmanka vydala publikaci, která uceleně a podrobně zpracovává problematiku dávek pomoci v hmotné nouzi. Shrnuje a zobecňuje v ní zásadní stanoviska, která veřejný ochránce práv formuloval od roku 2007 za dobu účinnosti zákona o pomoci v hmotné nouzi. Vychází přitom z více než 3 500 vyřízených podnětů týkajících se dávek pomoci v hmotné nouzi.</p>"
 ---

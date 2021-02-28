@@ -1,6 +1,8 @@
 ---
 title: "Fotovoltaická elektrárna v obci Moldava je nepovolenou stavbou"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2015/fotovoltaicka-elektrarna-v-obci-moldava-je-nepovolenou-stavbou"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2015/fotovoltaicka-elektrarna-v-obci-moldava-je-nepovolenou-stavbou"
 date: 2015-12-16
 perex: "<p>Krajský soud v Ústí nad Labem dnes i napodruhé zrušil rozhodnutí, kterým byla ve sloučeném územním a stavebním řízení povolena stavba fotovoltaické elektrárny na území obce Moldava. Vyhověl tak žalobě veřejného ochránce práv, který napadl nezákonnost rozhodnutí.</p>"
 ---

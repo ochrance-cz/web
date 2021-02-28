@@ -1,6 +1,8 @@
 ---
 title: "Státní orgány musí spotřebitele lépe chránit"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2008/statni-organy-musi-spotrebitele-lepe-chranit"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2008/statni-organy-musi-spotrebitele-lepe-chranit"
 date: 2008-06-16
 perex: "<p></p>"
 ---

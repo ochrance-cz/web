@@ -1,6 +1,8 @@
 ---
 title: "Ochránce upozorňuje na protiprávní aspekty tzv. karty sociálních systémů (sKarty)"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2012/ochrance-upozornuje-na-protipravni-aspekty-tzv-karty-socialnich-systemu-skarty"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2012/ochrance-upozornuje-na-protipravni-aspekty-tzv-karty-socialnich-systemu-skarty"
 date: 2012-08-08
 perex: "<p></p>"
 ---

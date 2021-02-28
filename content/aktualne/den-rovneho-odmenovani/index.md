@@ -1,6 +1,8 @@
 ---
 title: "Den rovného odměňování"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2015/den-rovneho-odmenovani"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2015/den-rovneho-odmenovani"
 date: 2015-04-17
 perex: "<p>Veřejná ochránkyně práv nesouhlasí s rozdílným odměňováním mužů a žen za stejnou práci. Podporuje proto aktivitu neziskových organizací, které se osvětovými akcemi připojily k celosvětovému Dni rovnosti platů (Equal Pay Day). Ten byl v České republice stanoven na pátek 17. 4. 2015 – symbolicky jde o den, kdy podle propočtů dosáhnou ženy v České republice stejného platu nebo mzdy mužů za předchozí kalendářní rok.</p>"
 ---

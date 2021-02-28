@@ -1,6 +1,8 @@
 ---
 title: "Zimní stadion není cirkusový stan"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2017/zimni-stadion-neni-cirkusovy-stan"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2017/zimni-stadion-neni-cirkusovy-stan"
 date: 2017-02-22
 perex: "<p>Zimní stadion, i když je budován jen jako dočasná stavba kvůli jednomu sportovnímu utkání, není z hlediska stavebního zákona to samé, co cirkusový stan, a nelze ho stavět bez povolení. V Brně v loňském roce přesto hokejový stadion právě takhle postavili. Ministerstvo už proto vydalo metodiku k demontovatelným stavbám.</p>"
 ---

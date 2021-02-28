@@ -1,6 +1,8 @@
 ---
 title: "Jak je to s odškodněním za veřejnou službu"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2013/jak-je-to-s-odskodnenim-za-verejnou-sluzbu"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2013/jak-je-to-s-odskodnenim-za-verejnou-sluzbu"
 date: 2013-03-04
 perex: "<p>Podle ochránce, lidé, kteří veřejnou službu bezplatně vykonávali před jejím zrušením Ústavním soudem, nemají nárok na náhradu škody či přiměřené zadostiučinění. Kdo však byl vyřazen z evidence Úřadu práce kvůli odmítnutí veřejné služby, může podat podnět k přezkumnému řízení a zrušení rozhodnutí pro nezákonnost.</p>"
 ---

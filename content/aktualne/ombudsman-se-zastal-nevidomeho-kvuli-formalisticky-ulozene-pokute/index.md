@@ -1,6 +1,8 @@
 ---
 title: "Ombudsman se zastal nevidomého kvůli formalisticky uložené pokutě"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2020/ombudsman-se-zastal-nevidomeho-kvuli-formalisticky-ulozene-pokute"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2020/ombudsman-se-zastal-nevidomeho-kvuli-formalisticky-ulozene-pokute"
 date: 2020-07-31
 perex: "<p>Úřady podle ombudsmana v rozporu se zákonem uložily pokutu za neoprávněné parkování na místě vyhrazeném pro osoby s postižením ženě, která vozem převážela svého nevidomého manžela. Ten je držitelem platného průkazu ZTP/P, auto řádně označil parkovacím průkazem, ale ani on, ani jeho žena si nevšimli, že parkovacímu průkazu uplynula platnost. Úřady uložily pokutu, aniž v souladu se zákonem posoudily, zda toto jednání naplňovalo všechny znaky přestupku. Formalismus tak zvítězil nejen nad zákonem, ale i nad zdravým rozumem.</p>"
 ---

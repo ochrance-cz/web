@@ -1,6 +1,8 @@
 ---
 title: "I při zkušební jízdě musí mít řidič od auta doklady"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2019/i-pri-zkusebni-jizde-musi-mit-ridic-od-auta-doklady"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2019/i-pri-zkusebni-jizde-musi-mit-ridic-od-auta-doklady"
 date: 2019-10-07
 perex: "<p>Pokud se zájemce o koupi automobilu rozhodne pro zkušební jízdu, měl by se ujistit, že během ní bude vozidlo opatřeno přidělenými registračními značkami a u sebe bude mít tzv. malý technický průkaz a zelenou kartu povinného ručení. V opačném případě totiž řidiči hrozí nejen pokuta, ale i zákaz řízení.</p>"
 ---

@@ -1,6 +1,8 @@
 ---
 title: "Dítě lze přijmout do školky i nad kapacitu míst"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2013/dite-lze-prijmout-do-skolky-i-nad-kapacitu-mist"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2013/dite-lze-prijmout-do-skolky-i-nad-kapacitu-mist"
 date: 2013-05-27
 perex: "<p>Jestliže dítě protiprávně nebylo přijato do mateřské školy, měl by krajský úřad v odvolacím řízení dítě přijmout dodatečně, i kdyby tím došlo k překročení maximální kapacity míst ve školce. Je pak povinností zřizovatele, aby před zahájením školního roku uvedl školku do souladu se zákonem tím, že její kapacitu navýší.</p>"
 ---

@@ -1,6 +1,8 @@
 ---
 title: "Sankce: stavební úřad v Hostivicích je opět nečinný"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2015/sankce-stavebni-urad-v-hostivicich-je-opet-necinny"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2015/sankce-stavebni-urad-v-hostivicich-je-opet-necinny"
 date: 2015-05-21
 perex: "<p>Práce stavebního úřadu v Hostivicích, i jeho vedoucího Ing. Vojtěcha Budila, dlouhodobě vykazuje vážné nedostatky. Úřad opakovaně porušuje pravidla, jimiž se má řídit, a dává tím značný prostor pro nepovolenou stavební činnost.</p>"
 ---

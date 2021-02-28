@@ -1,6 +1,8 @@
 ---
 title: "Ochránce šetří postup města Vsetín při vystěhování romských obyvatel pavlačového domu"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2007/ochrance-setri-postup-mesta-vsetin-pri-vystehovani-romskych-obyvatel-pavlacoveho-domu"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2007/ochrance-setri-postup-mesta-vsetin-pri-vystehovani-romskych-obyvatel-pavlacoveho-domu"
 date: 2007-03-28
 perex: "<p></p>"
 ---

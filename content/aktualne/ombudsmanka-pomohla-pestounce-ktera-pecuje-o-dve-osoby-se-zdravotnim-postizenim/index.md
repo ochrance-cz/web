@@ -1,6 +1,8 @@
 ---
 title: "Ombudsmanka pomohla pěstounce, která pečuje o dvě osoby se zdravotním postižením"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2017/ombudsmanka-pomohla-pestounce-ktera-pecuje-o-dve-osoby-se-zdravotnim-postizenim"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2017/ombudsmanka-pomohla-pestounce-ktera-pecuje-o-dve-osoby-se-zdravotnim-postizenim"
 date: 2017-12-14
 perex: "<p>Žena pečuje o dvě osoby se zdravotním postižením a o další dvě děti v pěstounské péči. Společně s osobami se zdravotním postižením zakoupila ze tří obdržených dávek automobil, který měl rodině usnadnit život. Po více než půl roce však úřad práce rozhodl, že pěstounka jednala v rozporu se zákonem a chtěl vrátit příspěvek na zakoupení motorového vozidla ve výši sto tisíc korun. Ministerstvo práce a sociálních věcí (MPSV) zamítlo odvolání a potvrdilo, že pěstounka musí příspěvek vrátit. Obrátila se na ombudsmanku, protože si nebyla vědoma toho, že by porušila zákon. Ombudsmanka zahájila šetření postupu MPSV, které následně zrušilo původní rozhodnutí. Žena je nadále spoluvlastníkem automobilu a bude ji pomáhat v péči o druhé. </p>"
 ---

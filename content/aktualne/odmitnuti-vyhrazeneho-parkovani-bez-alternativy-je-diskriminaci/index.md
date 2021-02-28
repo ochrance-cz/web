@@ -1,6 +1,8 @@
 ---
 title: "Odmítnutí vyhrazeného parkování bez alternativy je diskriminací"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2012/odmitnuti-vyhrazeneho-parkovani-bez-alternativy-je-diskriminaci"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2012/odmitnuti-vyhrazeneho-parkovani-bez-alternativy-je-diskriminaci"
 date: 2012-05-24
 perex: "<p></p><p>Obec by měla se zřízením parkování pro zdravotně postiženou osobu souhlasit vždy, pokud tomu nebrání závažný důvod a pokud potižený nemůže využít jiné, srovnatelné řešení. Pokud obec odmítne individuální parkovací místo zřídit, aniž nabídne přiměřenou alternativu, dopouští se diskriminace.</p>"
 ---

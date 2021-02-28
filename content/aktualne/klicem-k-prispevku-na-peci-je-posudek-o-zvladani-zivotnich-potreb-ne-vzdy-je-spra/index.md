@@ -1,6 +1,8 @@
 ---
 title: "Klíčem k příspěvku na péči je posudek o zvládání životních potřeb – ne vždy je správný"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2016/klicem-k-prispevku-na-peci-je-posudek-o-zvladani-zivotnich-potreb-ne-vzdy-je-spra"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2016/klicem-k-prispevku-na-peci-je-posudek-o-zvladani-zivotnich-potreb-ne-vzdy-je-spra"
 date: 2016-06-30
 perex: "<p>Řada lidí se stará o svého blízkého, který z důvodu dlouhodobě špatného zdravotního stavu potřebuje pomoc další osoby. Ne všichni přitom vědí, kdo má nárok na příspěvek na péči a jak se určuje jeho výše. Ochránkyně řeší především případy nesprávného či neúplného posouzení závislosti žadatele na péči.</p>"
 ---

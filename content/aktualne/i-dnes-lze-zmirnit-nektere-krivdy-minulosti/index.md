@@ -1,6 +1,8 @@
 ---
 title: "I dnes lze zmírnit některé křivdy minulosti"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2016/i-dnes-lze-zmirnit-nektere-krivdy-minulosti"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2016/i-dnes-lze-zmirnit-nektere-krivdy-minulosti"
 date: 2016-09-07
 perex: "<p>I sedmdesát let od konce 2. světové války žijí v České republice lidé, kteří osobně pociťují její důsledky na své současné sociální situaci. Každý rok tak veřejná ochránkyně práv řeší několik podnětů týkajících se možného zvýšení důchodu nebo nároku na odškodnění v souvislosti s totálním nasazením, vězněním, účastí na národním boji za osvobození nebo úmrtím rodičů v důsledku nacistické perzekuce. Některým z nich dokáže ombudsmanka pomoci a alespoň trochu zmírnit jejich těžký osud.</p>"
 ---

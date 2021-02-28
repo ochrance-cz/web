@@ -1,6 +1,8 @@
 ---
 title: "Zacházení s dětmi umístěnými v zařízeních"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2013/zachazeni-s-detmi-umistenymi-v-zarizenich"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2013/zachazeni-s-detmi-umistenymi-v-zarizenich"
 date: 2013-07-01
 perex: "<p></p>"
 ---

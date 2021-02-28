@@ -1,6 +1,8 @@
 ---
 title: "Rozloučení s JUDr. Otakarem Motejlem"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2010/rozlouceni-s-judr-otakarem-motejlem"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2010/rozlouceni-s-judr-otakarem-motejlem"
 date: 2010-05-12
 perex: "<p></p><p>Rozloučit se a připomenout si památku JUDr. Otakara Motejla bude možné na smutečním obřadu 17. 5. v Praze, zádušní mši 19. 5. v Praze a vzpomínkovém setkání 21. 5. v Brně.</p>"
 ---

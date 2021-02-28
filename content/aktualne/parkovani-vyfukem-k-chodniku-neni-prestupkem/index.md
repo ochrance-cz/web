@@ -1,6 +1,8 @@
 ---
 title: "Parkování výfukem k chodníku není přestupkem"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2016/parkovani-vyfukem-k-chodniku-neni-prestupkem"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2016/parkovani-vyfukem-k-chodniku-neni-prestupkem"
 date: 2016-10-04
 perex: "<p>Parkovat výfukem k chodníku sice může být pro chodce a obyvatele přilehlých domů nepříjemné, ale nejde o dopravní přestupek. Mohlo by to být přestupek pouze v případě, pokud by byl směr parkování přímo stanoven dodatkovou tabulkou k dopravní značce. Proti blokové pokutě za „špatný“ směr auta při parkování je možné se bránit do šesti měsíců od jejího uložení.</p>"
 ---

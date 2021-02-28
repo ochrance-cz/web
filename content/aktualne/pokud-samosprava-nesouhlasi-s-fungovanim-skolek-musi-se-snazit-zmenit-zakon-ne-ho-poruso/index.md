@@ -1,6 +1,8 @@
 ---
 title: "Pokud samospráva nesouhlasí s fungováním školek, musí se snažit změnit zákon, ne ho porušovat"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2013/pokud-samosprava-nesouhlasi-s-fungovanim-skolek-musi-se-snazit-zmenit-zakon-ne-ho-poruso"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2013/pokud-samosprava-nesouhlasi-s-fungovanim-skolek-musi-se-snazit-zmenit-zakon-ne-ho-poruso"
 date: 2013-08-06
 perex: "<p>Absolutní přednost dětí v posledním roce před povinnou docházkou je pro přijímání do mateřské školy stanovena školským zákonem, nikoli pouhým doporučením veřejného ochránce práv. Jestliže se proto samospráva, i ze sebelepších důvodů, vědomě rozhodne jednat v rozporu se zákonem nebo záměrně a veřejně hledá cestu, jak zákon obejít, dává občanům signál, že účel světí prostředek a zákony není třeba respektovat, když se nám to nehodí.</p>"
 ---

@@ -1,6 +1,8 @@
 ---
 title: "Ochránce odmítá stát se monitorovacím orgánem pro práva osob se zdravotním postižením"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2013/ochrance-odmita-stat-se-monitorovacim-organem-pro-prava-osob-se-zdravotnim-postizenim"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2013/ochrance-odmita-stat-se-monitorovacim-organem-pro-prava-osob-se-zdravotnim-postizenim"
 date: 2013-12-09
 perex: "<p></p>"
 ---

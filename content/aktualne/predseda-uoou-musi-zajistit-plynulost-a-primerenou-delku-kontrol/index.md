@@ -1,6 +1,8 @@
 ---
 title: "Předseda ÚOOÚ musí zajistit plynulost a přiměřenou délku kontrol"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2010/predseda-uoou-musi-zajistit-plynulost-a-primerenou-delku-kontrol"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2010/predseda-uoou-musi-zajistit-plynulost-a-primerenou-delku-kontrol"
 date: 2010-12-08
 perex: "<p></p><p>Stížností týkajících se ochrany osobních údajů přibývá, jak si lidé stále více uvědomují nutnost chránit své soukromí. I když tato oblast nepatří v činnosti ochránce k nejobsáhlejší, rozvoj moderních technologií a sdílení stále většího množství informací vede lidi k větší opatrnosti a k vyšším nárokům na zabezpečení přístupů k citlivým osobním údajům. Zatímco před deseti lety bychom např. číslo mobilního telefonu, profil DNA, IP adresu, strukturu sítnice či geometrii ruky za osobní údaje nepovažovali, dnes takovými údaji jsou a mají svůj vlastní režim ochrany.</p>"
 ---

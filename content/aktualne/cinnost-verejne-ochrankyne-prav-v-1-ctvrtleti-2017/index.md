@@ -1,6 +1,8 @@
 ---
 title: "Činnost veřejné ochránkyně práv v 1. čtvrtletí 2017"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2017/cinnost-verejne-ochrankyne-prav-v-1-ctvrtleti-2017"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2017/cinnost-verejne-ochrankyne-prav-v-1-ctvrtleti-2017"
 date: 2017-05-10
 perex: "<p>V pravidelné zprávě pro Poslaneckou sněmovnu ochránkyně informuje o počtech a tématech podnětů, s nimiž se na ni lidé obrátili, shrnuje vybrané uzavřené případy a vybírá i to nejdůležitější z legislativních doporučení a využití zvláštních oprávnění. Upozorňuje rovněž na případy, v nichž se nepodařilo dosáhnout nápravy nesprávného postupu úřadu.</p>"
 ---

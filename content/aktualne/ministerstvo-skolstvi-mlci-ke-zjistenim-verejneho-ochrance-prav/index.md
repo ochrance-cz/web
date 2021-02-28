@@ -1,6 +1,8 @@
 ---
 title: "Ministerstvo školství mlčí ke zjištěním veřejného ochránce práv"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2007/ministerstvo-skolstvi-mlci-ke-zjistenim-verejneho-ochrance-prav"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2007/ministerstvo-skolstvi-mlci-ke-zjistenim-verejneho-ochrance-prav"
 date: 2007-05-11
 perex: "<p></p>"
 ---

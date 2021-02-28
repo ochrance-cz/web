@@ -1,6 +1,8 @@
 ---
 title: "Při rozhodování o příspěvku na péči jsou zásadní dopady onemocnění na schopnost žít bez pomoci"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2020/pri-rozhodovani-o-prispevku-na-peci-jsou-zasadni-dopady-onemocneni-na-schopnost-zit-be"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2020/pri-rozhodovani-o-prispevku-na-peci-jsou-zasadni-dopady-onemocneni-na-schopnost-zit-be"
 date: 2020-09-01
 perex: "<p>Na začátku měl 88letý pan Martin příspěvek na péči 880 Kč měsíčně. Přitom byl trvale ležící s vážným postižením kyčelních kloubů, plicním a cévním onemocněním a mírnou demencí. Proti rozhodnutí Úřadu práce se odvolal, ale neuspěl. Na konci mu byl přiznán příspěvek na péči 12 800 Kč měsíčně a ombudsman mohl případ uzavřít.</p>"
 ---

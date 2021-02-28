@@ -1,6 +1,8 @@
 ---
 title: "Platbu finančnímu úřadu si zkontrolujte, chyba se nemusí vyplatit"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2020/platbu-financnimu-uradu-si-zkontrolujte-chyba-se-nemusi-vyplatit"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2020/platbu-financnimu-uradu-si-zkontrolujte-chyba-se-nemusi-vyplatit"
 date: 2020-06-10
 perex: "<p>Kdo platí daň, měl by si pečlivě zkontrolovat, že ji správně označil variabilním symbolem a zasílá ji na správný bankovní účet. Jen tak finanční úřad zjistí, kdo a za co platí. Chyba v platebních údajích může vést k tomu, že finanční úřad bude platbu považovat v lepším případě za nejasnou, nebo v horším případě ji přiřadí k jinému daňovému subjektu. Získat takto omylem zaslanou platbu od finančního úřadu zpět může být velmi problematické a do budoucna i nemožné.</p>"
 ---

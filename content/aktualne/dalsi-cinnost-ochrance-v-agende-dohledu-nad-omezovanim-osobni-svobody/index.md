@@ -1,6 +1,8 @@
 ---
 title: "Další činnost ochránce v agendě dohledu nad omezováním osobní svobody"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2011/dalsi-cinnost-ochrance-v-agende-dohledu-nad-omezovanim-osobni-svobody"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2011/dalsi-cinnost-ochrance-v-agende-dohledu-nad-omezovanim-osobni-svobody"
 date: 2011-05-17
 perex: "<p></p><p><strong>V průběhu prvních čtyř měsíců roku 2011 ochránce zjišťoval realizaci některých opatření k nápravě v dříve navštívených zařízeních omezujících osobní svobodu. Znovu proto provedl návštěvy v psychiatrické léčebně, léčebně dlouhodobě nemocných, pokračoval v návštěvách policejních cel a zaměřil se rovněž na dosud nerealizovaná opatření v zařízeních pro cizince.</strong></p>"
 ---

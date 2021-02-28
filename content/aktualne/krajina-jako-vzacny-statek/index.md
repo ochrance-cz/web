@@ -1,6 +1,8 @@
 ---
 title: "Krajina jako vzácný statek"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2006/krajina-jako-vzacny-statek"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2006/krajina-jako-vzacny-statek"
 date: 2006-10-10
 perex: "<p></p>"
 ---

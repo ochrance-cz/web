@@ -1,6 +1,8 @@
 ---
 title: "Úřady už budou jednotně akceptovat generální plné moci udělené klientem advokátovi pro správní řízení"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2020/urady-uz-budou-jednotne-akceptovat-generalni-plne-moci-udelene-klientem-advokatovi-pro-spr"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2020/urady-uz-budou-jednotne-akceptovat-generalni-plne-moci-udelene-klientem-advokatovi-pro-spr"
 date: 2020-10-13
 perex: "<p>Ombudsman dosáhl dohody s Ministerstvem vnitra, že se sjednotí postup správních orgánů při akceptování generální plné moci udělené advokátovi. Klienti, kteří se nechávají zastoupit advokátem a dají mu plnou moc pro všechna správní řízení, se už nebudou muset bát, že kvůli neuznání zmocnění přijdou o svá práva, nebo že na ně budou mít úřady požadavky nad rámec zákona.</p>"
 ---

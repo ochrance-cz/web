@@ -1,6 +1,8 @@
 ---
 title: "Nenávist na internetu nelze „hájit“ svobodou slova"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2020/nenavist-na-internetu-nelze-hajit-svobodou-slova"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2020/nenavist-na-internetu-nelze-hajit-svobodou-slova"
 date: 2020-06-08
 perex: "<p>Podle ombudsmana je důležité intenzivně se věnovat problematice nenávisti na internetu, ať už jde o komentáře k článkům, blogy nebo příspěvky na sociálních sítích. Důvodem je potřeba chránit lidské soužití před projevy, které ve svých důsledcích ohrožují lidská práva a občanské soužití. Varuje přitom, že u vyjádření nenávisti a hrozeb často nebývá od slov daleko k činům. V prostředí internetu je to podle něj ještě umocněno dojmem anonymity, a tedy i zdáním beztrestnosti, což u jiných sdělovacích prostředků či komunikačních forem není tak patrné. V současné době ombudsman shromažďuje reakce oslovených institucí na dříve zaslaný výzkum a doporučení k nenávistným projevům.</p>"
 ---

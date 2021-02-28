@@ -1,6 +1,8 @@
 ---
 title: "Činnost veřejné ochránkyně práv v roce 2016"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2017/cinnost-verejne-ochrankyne-prav-v-roce-2016"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2017/cinnost-verejne-ochrankyne-prav-v-roce-2016"
 date: 2017-04-26
 perex: "<p>V roce 2016 se na veřejnou ochránkyni práv obrátilo 8 398 osob s žádostí o pomoc a prověření postupu úřadů v jejich věci. Je to o téměř 900 podnětů víc, než ochránkyně obdržela v předchozím roce. Nejčastěji lidé hledali pomoc s problémy v oblasti sociálního zabezpečení a stavebního řádu. Právě stížnosti na stavební úřady zaznamenaly největší nárůst téměř o 40%. Výrazněji rovněž stoupl počet podnětů týkajících se dopravy (32 %), zdravotnictví (31 %), ochrany práv dětí (30 %) a zaměstnanosti a práce (29 %). V 833 případech ochránkyně zahájila šetření, z toho v 50 případech z vlastní iniciativy.</p>"
 ---

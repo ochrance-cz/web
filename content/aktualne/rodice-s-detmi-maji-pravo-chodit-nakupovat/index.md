@@ -1,6 +1,8 @@
 ---
 title: "Rodiče s dětmi mají právo chodit nakupovat"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2017/rodice-s-detmi-maji-pravo-chodit-nakupovat"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2017/rodice-s-detmi-maji-pravo-chodit-nakupovat"
 date: 2017-11-23
 perex: "<p>Obchod zakázal vstup do prodejny s kočárky. Žena, která v obchodě pravidelně nakupovala, se cítila postupem majitelky obchodu diskriminována. Protože nechtěla své dítě nechávat samotné v kočárku na ulici, nemohla služeb prodejny využít. Obrátila se nejprve na Českou obchodní inspekci a poté na ombudsmanku. Podařilo se nám nalézt řešení. Zákaz vstupu s kočárky doplnila informace, že zákaz platí pouze v situaci, kdy se v prodejně nachází větší množství zákazníků. Podle zjištění inspektorátu takto nastavená pravidla fungují a rodiče s kočárky se do prodejny dostanou. </p>"
 ---

@@ -1,6 +1,8 @@
 ---
 title: "Inspektoráty práce neefektivní – nemají dost lidí"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2007/inspektoraty-prace-neefektivni-nemaji-dost-lidi"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2007/inspektoraty-prace-neefektivni-nemaji-dost-lidi"
 date: 2007-11-15
 perex: "<p></p>"
 ---

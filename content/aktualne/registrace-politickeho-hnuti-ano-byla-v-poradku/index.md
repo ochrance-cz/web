@@ -1,6 +1,8 @@
 ---
 title: "Registrace politického hnutí ANO byla v pořádku"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2013/registrace-politickeho-hnuti-ano-byla-v-poradku"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2013/registrace-politickeho-hnuti-ano-byla-v-poradku"
 date: 2013-12-05
 perex: "<p>Tento závěr vyslovil zástupce ombudsmana Stanislav Křeček, který se vůbec poprvé za dobu existence instituce veřejného ochránce práv zabýval stížností občana na postup Ministerstva vnitra při registraci politických stran a hnutí.</p>"
 ---

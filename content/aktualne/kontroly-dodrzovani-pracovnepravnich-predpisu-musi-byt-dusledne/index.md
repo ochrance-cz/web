@@ -1,6 +1,8 @@
 ---
 title: "Kontroly dodržování pracovněprávních předpisů musí být důsledné"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2016/kontroly-dodrzovani-pracovnepravnich-predpisu-musi-byt-dusledne"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2016/kontroly-dodrzovani-pracovnepravnich-predpisu-musi-byt-dusledne"
 date: 2016-07-01
 perex: "<p>Poznatky a zkušenosti veřejné ochránkyně práv s řešením podnětů v oblasti pracovněprávních vztahů se uplatnily v rámci projektu „Testování evropského občanství: hledisko porušování pracovních práv“, realizovaného Multikulturním centrem Praha. Projekt se sice zaměřil na prověření dodržování rovných podmínek pro pracovníky ze států Evropské unie, ale s obdobnými problémy se setkávají i někteří čeští zaměstnanci. Je proto třeba, aby dohled nad dodržováním právních předpisů byl systematický a důsledný.</p>"
 ---

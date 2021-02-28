@@ -1,6 +1,8 @@
 ---
 title: "Poradní orgán ombudsmanky a zasazení stromu dobré vůle pro Olgu Havlovou"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2018/poradni-organ-ombudsmanky-a-zasazeni-stromu-dobre-vule-pro-olgu-havlovou"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2018/poradni-organ-ombudsmanky-a-zasazeni-stromu-dobre-vule-pro-olgu-havlovou"
 date: 2018-05-21
 perex: "<p>V úterý 22. května ombudsmanka jmenuje svůj jedenáctičlenný poradní orgán pro plnění úkolů plynoucích z Úmluvy o právech osob se zdravotním postižením. Na ustavujícím jednání členové prodiskutují plán aktivit a témata, na která by se ombudsmanka měla v roce 2018 zaměřit. Při příležitosti setkání ombudsmanka také zasadí jeden z 85 stromů dobré vůle připomínajících osobnost Olgy Havlové.</p>"
 ---

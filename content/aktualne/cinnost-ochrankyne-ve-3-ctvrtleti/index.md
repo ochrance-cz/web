@@ -1,6 +1,8 @@
 ---
 title: "Činnost ochránkyně ve 3. čtvrtletí"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2014/cinnost-ochrankyne-ve-3-ctvrtleti"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2014/cinnost-ochrankyne-ve-3-ctvrtleti"
 date: 2014-11-06
 perex: "<p>Ve třetím čtvrtletí se na ochránkyni obrátilo o 233 lidí více než ve stejném období loňského roku. Nejvíce stížností se týkalo sociálního zabezpečení. Ochránkyně o tom informovala Poslaneckou sněmovnu ve své pravidelné zprávě o činnosti.</p>"
 ---

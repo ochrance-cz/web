@@ -1,6 +1,8 @@
 ---
 title: "Zaměstnavatel nesmí ženu vyhodit jen proto, že má děti"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2017/zamestnavatel-nesmi-zenu-vyhodit-jen-proto-ze-ma-deti"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2017/zamestnavatel-nesmi-zenu-vyhodit-jen-proto-ze-ma-deti"
 date: 2017-07-27
 perex: "<p>Matka dvou dětí se po skončení rodičovské dovolené vrátila zpátky na pozici asistentky jedné finanční instituce. Ještě před ukončením rodičovské dovolené se ji zaměstnavatel snažil přesvědčit, aby přistoupila na ukončení pracovního poměru a do práce se nevracela. To si však žena, která se sama starala o dvě děti, nemohla dovolit a ani k tomu neměla důvod. Po návratu do práce se jí zaměstnavatel snažil podmínky znepříjemnit natolik, aby raději sama podala výpověď. Po půl roce, kdy žena tlaku odolávala, jí zaměstnavatel oznámil, že jí bude dána výpověď z důvodu zrušení pracovní pozice. Žena se na nás obrátila a nám se podařilo jí pomoci dosáhnout řešení, které vyhovovalo oběma stranám.  </p>"
 ---

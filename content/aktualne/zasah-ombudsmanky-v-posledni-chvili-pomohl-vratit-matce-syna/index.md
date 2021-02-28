@@ -1,6 +1,8 @@
 ---
 title: "Zásah ombudsmanky v poslední chvíli pomohl vrátit matce syna"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2018/zasah-ombudsmanky-v-posledni-chvili-pomohl-vratit-matce-syna"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2018/zasah-ombudsmanky-v-posledni-chvili-pomohl-vratit-matce-syna"
 date: 2018-11-26
 perex: "<p>Až na základě šetření ombudsmanky podnikl OSPOD na poslední chvíli kroky k tomu, aby se roční chlapec vrátil do péče matky.</p>"
 ---

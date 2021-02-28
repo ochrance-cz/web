@@ -1,6 +1,8 @@
 ---
 title: "Návštěva kyrgyzského ombudsmana"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2008/navsteva-kyrgyzskeho-ombudsmana"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2008/navsteva-kyrgyzskeho-ombudsmana"
 date: 2008-04-03
 perex: "<p></p>"
 ---

@@ -1,6 +1,8 @@
 ---
 title: "Chyby v systému evidence obyvatel"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2016/chyby-v-systemu-evidence-obyvatel"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2016/chyby-v-systemu-evidence-obyvatel"
 date: 2016-10-13
 perex: "<p>Představte si situaci, kdy člověk, který před téměř 40 lety emigroval z České republiky a nežije zde, dostane exekuční příkaz kvůli údajnému dluhu za svoz komunálního odpadu v místě, kde žil před emigrací. I takhle mohou vypadat důsledky chyb v informačním systému evidence obyvatel.</p>"
 ---

@@ -1,6 +1,8 @@
 ---
 title: "Deset let ochránce úspěšně bojuje proti špatnému zacházení"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2015/deset-let-ochrance-uspesne-bojuje-proti-spatnemu-zachazeni"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2015/deset-let-ochrance-uspesne-bojuje-proti-spatnemu-zachazeni"
 date: 2015-12-08
 perex: "<p>Za deset let dokázal ombudsman jako národní preventivní mechanismus zlepšit podmínky tisíců seniorů, dětí, lidí trpících duševní chorobou, lidí se zdravotním postižením, vězňů i osob zadržených policií. Podařilo se prosadit do zákona pravidla používání prostředků k omezení pohybu, pro dětské domovy vznikly standardy péče. Zadržený v policejní cele dostane poučení o tom, že může kontaktovat rodinu, advokáta a lékaře.</p>"
 ---

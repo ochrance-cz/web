@@ -1,6 +1,8 @@
 ---
 title: "Odstraňování staveb II: aktualizovaná publikace pro občany i úřady"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2020/odstranovani-staveb-ii-aktualizovana-publikace-pro-obcany-i-urady"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2020/odstranovani-staveb-ii-aktualizovana-publikace-pro-obcany-i-urady"
 date: 2020-10-05
 perex: "<p>Stavební právo je druhou největší oblastí, s níž se ombudsman setkává v rámci podnětů občanů. Nepovolené stavby a jejich odstraňování patří k často zmiňovaným problémům, proto v aktualizovaném vydání publikace stanovisek Odstraňování staveb II ombudsman zohledňuje nejnovější poznatky získané při šetření konkrétních případů nesprávného či nezákonného jednání úřadů nebo nečinnosti úřadů. Publikace pro ilustraci nabízí i řadu příkladů dobré a špatné správní praxe v této oblasti.</p>"
 ---

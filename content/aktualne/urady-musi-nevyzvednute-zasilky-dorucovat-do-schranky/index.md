@@ -1,6 +1,8 @@
 ---
 title: "Úřady musí nevyzvednuté zásilky doručovat do schránky"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2015/urady-musi-nevyzvednute-zasilky-dorucovat-do-schranky"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2015/urady-musi-nevyzvednute-zasilky-dorucovat-do-schranky"
 date: 2015-11-27
 perex: "<p>Jedním z častých problémů, kterým lidé čelí zcela zbytečně, jsou obtíže při přebírání úředních doporučených dopisů. Doručovatelka nebo doručovatel je doma nezastihne a kvůli pracovní době se zase oni nedostanou na poštu, kde si psaní mohou vyzvednout. Změna správního řádu z roku 2009 měla tento problém vyřešit. V případě nevyzvednutí zásilky má být dopis vhozen do schránky. Pokud je to možné, úřady musí lidem vycházet vstříc. Ne vždy tomu tak skutečně je. </p>"
 ---

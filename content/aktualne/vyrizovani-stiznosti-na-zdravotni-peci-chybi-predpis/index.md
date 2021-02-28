@@ -1,6 +1,8 @@
 ---
 title: "Vyřizování stížností na zdravotní péči chybí předpis"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2007/vyrizovani-stiznosti-na-zdravotni-peci-chybi-predpis"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2007/vyrizovani-stiznosti-na-zdravotni-peci-chybi-predpis"
 date: 2007-11-29
 perex: "<p></p>"
 ---

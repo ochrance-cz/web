@@ -1,6 +1,8 @@
 ---
 title: "Ombudsman pilířem národní integrity"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2013/ombudsman-pilirem-narodni-integrity"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2013/ombudsman-pilirem-narodni-integrity"
 date: 2013-06-26
 perex: "<p>Podle studie Transparency International má ombudsman stabilně nejblíže k ideálu, pokud jde o nezávislost, odpovědnost, skládání účtů, transparentnost, integritu, zdroje a jejich využívání apod.</p>"
 ---

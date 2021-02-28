@@ -1,6 +1,8 @@
 ---
 title: "Hledáme pracovníky pro oddělení dohledu nad omezováním osobní svobody"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2014/hledame-pracovniky-pro-oddeleni-dohledu-nad-omezovanim-osobni-svobody"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2014/hledame-pracovniky-pro-oddeleni-dohledu-nad-omezovanim-osobni-svobody"
 date: 2014-12-19
 perex: "<p>Kancelář veřejného ochránce práv hledá vhodného kandidáta/vhodnou kandidátku na pracovní pozici pracovník/pracovnice oddělení dohledu nad omezování osobní svobody, vykonávající úkoly národního preventivního mechanismu podle Opčního protokolu k Úmluvě proti mučení a jinému krutému, nelidskému či ponižujícímu zacházení nebo trestání (OPCAT). </p>"
 ---

@@ -1,6 +1,8 @@
 ---
 title: "Připravované změny vzbuzují naději pro české vězeňství, dosavadní opatření však příliš účinná nebyla"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2012/pripravovane-zmeny-vzbuzuji-nadeji-pro-ceske-vezenstvi-dosavadni-opatreni-vsak-pril"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2012/pripravovane-zmeny-vzbuzuji-nadeji-pro-ceske-vezenstvi-dosavadni-opatreni-vsak-pril"
 date: 2012-11-08
 perex: "<p></p>"
 ---

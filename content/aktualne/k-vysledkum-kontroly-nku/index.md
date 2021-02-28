@@ -1,6 +1,8 @@
 ---
 title: "K výsledkům kontroly NKÚ"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2006/k-vysledkum-kontroly-nku"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2006/k-vysledkum-kontroly-nku"
 date: 2006-12-06
 perex: "<p></p>"
 ---

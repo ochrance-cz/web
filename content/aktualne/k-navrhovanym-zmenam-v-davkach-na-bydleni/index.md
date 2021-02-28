@@ -1,6 +1,8 @@
 ---
 title: "K navrhovaným změnám v dávkách na bydlení"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2012/k-navrhovanym-zmenam-v-davkach-na-bydleni"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2012/k-navrhovanym-zmenam-v-davkach-na-bydleni"
 date: 2012-07-11
 perex: "<p></p><p>V současné době projednává Poslanecká sněmovna změny v dávkách na bydlení, které (budou-li přijaty) mohou dostat tisíce seniorů a rodin s malými dětmi pod hranici existenčního minima. V době hospodářské krize a s tím spojeným přirozeným zvyšováním nákladů na bydlení tyto změny navíc nedopadnou jen na sociálně nejslabší a nejohroženější skupiny obyvatel, ale mohou zhoršit sociální situaci i stávající střední třídy. Takový zásah státu může znamenat porušení ústavně zaručeného práva na pomoc v hmotné nouzi podle Listiny základních práva a svobod. </p>"
 ---

@@ -1,6 +1,8 @@
 ---
 title: "Ochránce žádá zákaz rozhodčích doložek ve spotřebitelských smlouvách"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2010/ochrance-zada-zakaz-rozhodcich-dolozek-ve-spotrebitelskych-smlouvach"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2010/ochrance-zada-zakaz-rozhodcich-dolozek-ve-spotrebitelskych-smlouvach"
 date: 2010-02-10
 perex: "<p></p><p>Veřejný ochránce práv v osobním vystoupení ve Sněmovně vyzval poslance, aby se zabývali problematikou předběžných rozhodčích doložek a zakázali jejich používání ve spotřebitelských smlouvách. Nejen, že by tím Česká republika splnila závaznou směrnici Evropské unie, ale především by jasně dala najevo svůj zájem chránit občany před nekalými praktikami některých podnikatelů a garantovala respektování ústavního práva na spravedlivý proces.</p>"
 ---

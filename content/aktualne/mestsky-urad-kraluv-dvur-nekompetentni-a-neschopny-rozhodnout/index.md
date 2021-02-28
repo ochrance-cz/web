@@ -1,6 +1,8 @@
 ---
 title: "Městský úřad Králův Dvůr nekompetentní a neschopný rozhodnout"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2010/mestsky-urad-kraluv-dvur-nekompetentni-a-neschopny-rozhodnout"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2010/mestsky-urad-kraluv-dvur-nekompetentni-a-neschopny-rozhodnout"
 date: 2010-12-16
 perex: "<p></p><p>Dva roky se Městský úřad Králův Dvůr vyhýbal své povinnosti. Postup úřadu byl nedbalý až úmyslně poškozující stěžovatele. Ze strany úředníka Martina Votavy šlo o neschopnost, kterou starosta Petr Vychodil akceptoval.</p>"
 ---

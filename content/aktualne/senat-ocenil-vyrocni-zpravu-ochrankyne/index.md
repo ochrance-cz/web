@@ -1,6 +1,8 @@
 ---
 title: "Senát ocenil výroční zprávu ochránkyně"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2016/senat-ocenil-vyrocni-zpravu-ochrankyne"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2016/senat-ocenil-vyrocni-zpravu-ochrankyne"
 date: 2016-05-26
 perex: "<p></p>"
 ---

@@ -1,6 +1,8 @@
 ---
 title: "Po 11 letech správný důchod a s pomocí ochránkyně i jeho zpětné doplacení"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2017/po-11-letech-spravny-duchod-a-s-pomoci-ochrankyne-i-jeho-zpetne-doplaceni"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2017/po-11-letech-spravny-duchod-a-s-pomoci-ochrankyne-i-jeho-zpetne-doplaceni"
 date: 2017-06-14
 perex: "<p>Ochránkyně se zastala ženy, která 11 let dostávala nižší invalidní důchod, než jaký jí náležel. Po přepočítání na správnou výši přiznal úřad ženě doplatek celkově 200 000 Kč. Nejprve sice úřad uznal nárok na doplacení jen za 5 let zpátky, po šetření ochránkyně doplatil dalšího 3,5 roku, tedy maximum, co zákon umožňuje.</p>"
 ---

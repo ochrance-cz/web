@@ -1,6 +1,8 @@
 ---
 title: "Kameny kolem silnice mohou zhoršit bezpečnost provozu"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2015/kameny-kolem-silnice-mohou-zhorsit-bezpecnost-provozu"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2015/kameny-kolem-silnice-mohou-zhorsit-bezpecnost-provozu"
 date: 2015-07-14
 perex: "<p>Majitelé pozemků sousedících se silnicí či jinou veřejnou komunikací, by měli zvažovat bezpečnostní hledisko, než kolem cesty umístí velké kameny. Vhodnější je použít jiné, bezpečnější prvky, které budou viditelné i v noci (např. sloupky s reflexními prvky). Současně je na místě zvažovat i jejich vzdálenost od cesty tak, aby se například projíždějící auta bezpečně vyhnula.</p>"
 ---

@@ -1,6 +1,8 @@
 ---
 title: "Zástupce ombudsmanky jednal o novém památkovém zákoně"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2014/zastupce-ombudsmanky-jednal-o-novem-pamatkovem-zakone"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2014/zastupce-ombudsmanky-jednal-o-novem-pamatkovem-zakone"
 date: 2014-04-10
 perex: "<p>Zástupce veřejné ochránkyně práv se setkal se zástupci Ministerstva kultury, Památkové inspekce a Národního památkového ústavu. Hlavním tématem pracovní schůzky byl nový zákon o památkovém fondu. </p>"
 ---

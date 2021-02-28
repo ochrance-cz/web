@@ -1,6 +1,8 @@
 ---
 title: "Muž neměl nárok na stejné benefity jako jeho mladší kolegové. Takové jednání je nepřípustné"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2018/muz-nemel-narok-na-stejne-benefity-jako-jeho-mladsi-kolegove-takove-jednani-je-nepripus"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2018/muz-nemel-narok-na-stejne-benefity-jako-jeho-mladsi-kolegove-takove-jednani-je-nepripus"
 date: 2018-05-17
 perex: "<p>Muž nedostával v práci stejné benefity jako jeho mladší kolegové. Zaměstnavatel mu neposkytoval příspěvek na penzijní připojištění a netýkala se ho také pravidla pro automatické navyšování mezd. Rozdílné zacházení bylo zakotveno přímo v kolektivní smlouvě, která z některých benefitů vyjímala zaměstnance, kteří pobírali starobní důchod. Muž se proto obrátil na ombudsmanku, která jeho podezření na diskriminační jednání zaměstnavatele potvrdila. </p>"
 ---

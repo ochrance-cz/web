@@ -1,6 +1,8 @@
 ---
 title: "Nezaplatíte-li 10 000 Kč, ÚOHS ani nezákonná veřejná zakázka nezajímá. Ombudsmanka to chce změnit."
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2019/nezaplatite-li-10-000-kc-uohs-ani-nezakonna-verejna-zakazka-nezajima-ombudsmanka-to-chce"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2019/nezaplatite-li-10-000-kc-uohs-ani-nezakonna-verejna-zakazka-nezajima-ombudsmanka-to-chce"
 date: 2019-03-29
 perex: "<p>Přestože má Úřad pro ochranu hospodářské soutěže vykonávat dohled nad zadáváním veřejných zakázek a prověřit je vždy, když z podnětu získá důvodné podezření, že mohlo dojít k porušení zákona, realita je jiná. Podle svých vnitřních předpisů a vyjádření pro soudy se ÚOHS nezabývá podněty, u nichž není zaplacen poplatek 10 000 Kč, bez ohledu na závažnost oznamovaných informací. Většinu podnětů od jiných orgánů veřejné správy navíc ÚOHS zpoplatňuje v rozporu se zákonem. Zavedení desetitisícového poplatku je iracionální, vedlo k naprosté netransparentnosti jednání úřadu, což vyvolává pochybnosti o snaze státu bránit korupčnímu jednání ve veřejných zakázkách. Ombudsmanka proto žádá vládu, aby zrušila zpoplatnění podnětu a zajistila efektivní dohled nad veřejnými zakázkami.</p>"
 ---

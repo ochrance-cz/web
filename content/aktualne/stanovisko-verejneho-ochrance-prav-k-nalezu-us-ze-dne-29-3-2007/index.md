@@ -1,6 +1,8 @@
 ---
 title: "Stanovisko veřejného ochránce práv k nálezu ÚS ze dne 29. 3. 2007"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2007/stanovisko-verejneho-ochrance-prav-k-nalezu-us-ze-dne-29-3-2007"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2007/stanovisko-verejneho-ochrance-prav-k-nalezu-us-ze-dne-29-3-2007"
 date: 2007-04-04
 perex: "<p></p>"
 ---

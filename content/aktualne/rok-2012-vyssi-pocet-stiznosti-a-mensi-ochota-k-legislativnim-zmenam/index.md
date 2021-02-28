@@ -1,6 +1,8 @@
 ---
 title: "Rok 2012: vyšší počet stížností a menší ochota k legislativním změnám"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2013/rok-2012-vyssi-pocet-stiznosti-a-mensi-ochota-k-legislativnim-zmenam"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2013/rok-2012-vyssi-pocet-stiznosti-a-mensi-ochota-k-legislativnim-zmenam"
 date: 2013-04-16
 perex: "<p>Za posledních deset let se lidé na veřejného ochránce práv obrátili s 68 470 stížnostmi a podněty k šetření. Loňský rok drží z tohoto pohledu poněkud smutný primát. Počet stížností totiž meziročně vzrostl o pětinu na celkem 8641 podání.</p>"
 ---

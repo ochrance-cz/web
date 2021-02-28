@@ -1,6 +1,8 @@
 ---
 title: "Komentář ombudsmanky: Elektronizace je krásná věc, musí ale fungovat"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2019/komentar-ombudsmanky-elektronizace-je-krasna-vec-musi-ale-fungovat"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2019/komentar-ombudsmanky-elektronizace-je-krasna-vec-musi-ale-fungovat"
 date: 2019-07-08
 perex: "<p>Elektronizace státní správy měla usnadnit život občanům, kteří jednají s úřady. Praxe ale ukazuje, že záleží hlavně na libovůli úředníků, zda lidem pomohou. </p>"
 ---

@@ -1,6 +1,8 @@
 ---
 title: "Ombudsmanka s realitními kancelářemi společně hledají cestu k férovému nájemnímu trhu"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2015/ombudsmanka-s-realitnimi-kancelaremi-spolecne-hledaji-cestu-k-ferovemu-najemnimu-trhu"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2015/ombudsmanka-s-realitnimi-kancelaremi-spolecne-hledaji-cestu-k-ferovemu-najemnimu-trhu"
 date: 2015-08-26
 perex: "<p>Nájemní bydlení a zejména kritéria, která jsou či nejsou přípustná pro zjišťování spolehlivosti nájemníků a pro rozlišování mezi nimi, budou ve čtvrtek 27. srpna tématem kulatého stolu ombudsmanky Anny Šabatové a Asociace realitních kanceláří.</p>"
 ---

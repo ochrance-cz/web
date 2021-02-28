@@ -1,6 +1,8 @@
 ---
 title: "Policie chybovala při návštěvě čínského prezidenta"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2016/policie-chybovala-pri-navsteve-cinskeho-prezidenta"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2016/policie-chybovala-pri-navsteve-cinskeho-prezidenta"
 date: 2016-10-05
 perex: "<p>V rámci bezpečnostních opatření při návštěvě čínského prezidenta policie při některých incidentech jednala nepřiměřeně a zmatečně. Bezdůvodně některé osoby zajišťovala a převážela je na služebnu Bartolomějská, jako zmatečné lze označit jednání na FAMU v souvislosti s vyvěšenou tibetskou vlajkou. Místo aby zakročila proti agresivním příznivcům čínského prezidenta nebo alespoň zjistila jejich totožnost, zakročila naopak proti oběti jejich útoku.</p>"
 ---

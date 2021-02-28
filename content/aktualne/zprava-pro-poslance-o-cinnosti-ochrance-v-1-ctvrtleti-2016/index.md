@@ -1,6 +1,8 @@
 ---
 title: "Zpráva pro poslance o činnosti ochránce v 1. čtvrtletí 2016"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2016/zprava-pro-poslance-o-cinnosti-ochrance-v-1-ctvrtleti-2016"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2016/zprava-pro-poslance-o-cinnosti-ochrance-v-1-ctvrtleti-2016"
 date: 2016-05-02
 perex: "<p>Ochránkyně zaslala Poslanecké sněmovně zprávu o své činnosti v prvním čtvrtletí roku 2016. V tomto období se na ni obrátili lidé s 2110 podněty. Většina z nich (66 %) spadá do její působnosti. Nejvíc podnětů se týkalo sociálního zabezpečení (385 podnětů). Součástí této zprávy je mimořádná příloha věnovaná činnosti ochránce coby národního preventivního mechanismu. Zpráva se soustředí na systémové problémy v péči o ohrožené děti a situaci v péči o seniory. </p>"
 ---

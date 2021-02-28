@@ -1,6 +1,8 @@
 ---
 title: "Osmý díl Ochránce"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2016/osmy-dil-ochrance-2"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2016/osmy-dil-ochrance-2"
 date: 2016-02-26
 perex: "<p>Hluk ze střelnice u bytové zástavby, přestupkové řízení po napadení sousedem, a diskriminace lidí se zdravotním postižením v lázních – takové případy nabízí 8. díl pořadu Ochránce. Sledovat ho můžete na ČT2 v neděli 28. 2. v 18:15 h, reprízy pak ve čtvrtek v 18:55 h a v pátek ve 13:05 h.</p>"
 ---

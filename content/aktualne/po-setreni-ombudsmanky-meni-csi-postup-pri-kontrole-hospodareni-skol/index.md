@@ -1,6 +1,8 @@
 ---
 title: "Po šetření ombudsmanky mění ČŠI postup při kontrole hospodaření škol"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2017/po-setreni-ombudsmanky-meni-csi-postup-pri-kontrole-hospodareni-skol"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2017/po-setreni-ombudsmanky-meni-csi-postup-pri-kontrole-hospodareni-skol"
 date: 2017-11-07
 perex: "<p>Pokud ČŠI při kontrole zjistí, že škola neefektivně čerpá prostředky ze státního rozpočtu, bude svá zjištění důsledně předávat krajskému úřadu, aby se mohl hospodařením školy zabývat, vyvodit důsledky a zajistit nápravu. Po šetření ombudsmanky instruoval ústřední školní inspektor ČŠI ředitele všech inspektorátů, aby takto postupovali. Rovněž v tomto smyslu upravil interní předpisy ČŠI.</p>"
 ---

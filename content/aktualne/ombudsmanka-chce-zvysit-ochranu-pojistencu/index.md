@@ -1,6 +1,8 @@
 ---
 title: "Ombudsmanka chce zvýšit ochranu pojištěnců"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2014/ombudsmanka-chce-zvysit-ochranu-pojistencu"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2014/ombudsmanka-chce-zvysit-ochranu-pojistencu"
 date: 2014-08-20
 perex: "<p>Pojištěnci zdravotních pojišťoven si zaslouží stejnou ochranu, jakou mají ve vztahu k jiným úřadům. I zdravotní pojišťovny totiž mají postavení správních orgánů, které při své činnosti musí postupovat podle určitých procesních pravidel. Pokud by pojišťovny měly možnost získávat údaje o jménech a adresách z registru obyvatel, zvýšila by se jejich šance pojištěnce kontaktovat. Pomohlo by to snížit počet případů, kdy dochází k často zbytečnému narůstání dluhů na pojistném.</p>"
 ---

@@ -1,6 +1,8 @@
 ---
 title: "Úřady musí nově pomáhat při hledání ztracených příbuzných a známých"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2010/urady-musi-nove-pomahat-pri-hledani-ztracenych-pribuznych-a-znamych"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2010/urady-musi-nove-pomahat-pri-hledani-ztracenych-pribuznych-a-znamych"
 date: 2010-07-14
 perex: "<p></p><p>Od 1. července 2010 musí úřady přijímat žádosti občanů o poskytnutí údaje o místu trvalého pobytu jiné osoby z informačního systému evidence obyvatel a informovat hledaného, že se s ním chce někdo zkontaktovat. O tuto změnu zákona usiloval ochránce už od roku 2006 na základě mnoha stížností na úřady, které odmítaly pomoci občanům hledajícím své příbuzné či ztracené přátele. </p>"
 ---

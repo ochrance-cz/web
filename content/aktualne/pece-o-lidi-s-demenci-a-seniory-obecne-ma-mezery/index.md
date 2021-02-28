@@ -1,6 +1,8 @@
 ---
 title: "Péče o lidi s demencí a seniory obecně má mezery"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2019/pece-o-lidi-s-demenci-a-seniory-obecne-ma-mezery"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2019/pece-o-lidi-s-demenci-a-seniory-obecne-ma-mezery"
 date: 2019-09-19
 perex: "<p>Při příležitosti Mezinárodního dne Alzheimerovy choroby (21. 9.) ombudsmanka upozorňuje, že se tomuto tématu a péči o lidi s demencí stále nevěnuje tolik pozornosti, kolik je třeba. Samotná ochrana seniorů a nemocných lidí v sociálních službách má podle ombudsmanky dlouhodobé a vážné mezery.</p>"
 ---

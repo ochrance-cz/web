@@ -1,6 +1,8 @@
 ---
 title: "Sankce proti neregistrovanému zařízení pro seniory: Centrum komplexních služeb, Kunštát na Moravě"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2014/sankce-proti-neregistrovanemu-zarizeni-pro-seniory-centrum-komplexnich-sluzeb-kunstat-na-m"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2014/sankce-proti-neregistrovanemu-zarizeni-pro-seniory-centrum-komplexnich-sluzeb-kunstat-na-m"
 date: 2014-05-20
 perex: "<p></p>"
 ---

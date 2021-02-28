@@ -1,6 +1,8 @@
 ---
 title: "Slaďování osobního a pracovního života"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2014/sladovani-osobniho-a-pracovniho-zivota"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2014/sladovani-osobniho-a-pracovniho-zivota"
 date: 2014-10-23
 perex: "<p></p>"
 ---

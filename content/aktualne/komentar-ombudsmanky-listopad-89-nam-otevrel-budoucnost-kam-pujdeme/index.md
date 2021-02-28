@@ -1,6 +1,8 @@
 ---
 title: "Komentář ombudsmanky: Listopad 89 nám otevřel budoucnost. Kam půjdeme?"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2019/komentar-ombudsmanky-listopad-89-nam-otevrel-budoucnost-kam-pujdeme"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2019/komentar-ombudsmanky-listopad-89-nam-otevrel-budoucnost-kam-pujdeme"
 date: 2019-11-18
 perex: "<p></p>"
 ---

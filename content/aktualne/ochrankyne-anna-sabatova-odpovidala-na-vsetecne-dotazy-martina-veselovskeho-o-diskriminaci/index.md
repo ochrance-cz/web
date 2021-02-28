@@ -1,6 +1,8 @@
 ---
 title: "Ochránkyně Anna Šabatová odpovídala na všetečné dotazy Martina Veselovského o diskriminaci"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2015/ochrankyne-anna-sabatova-odpovidala-na-vsetecne-dotazy-martina-veselovskeho-o-diskriminaci"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2015/ochrankyne-anna-sabatova-odpovidala-na-vsetecne-dotazy-martina-veselovskeho-o-diskriminaci"
 date: 2015-03-26
 perex: "<p>Víte, co vše je diskriminace? Může si vlastník dělat, co chce, když veřejně nabízí nájem svého bytu? Na tyto a další otázky odpovídala ochránkyně Anna Šabatová v pořadu DVTV.  </p>"
 ---

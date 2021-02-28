@@ -1,6 +1,8 @@
 ---
 title: "Restituování pozemků sloužících jako komunikace"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2014/restituovani-pozemku-slouzicich-jako-komunikace"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2014/restituovani-pozemku-slouzicich-jako-komunikace"
 date: 2014-06-25
 perex: "<p></p>"
 ---

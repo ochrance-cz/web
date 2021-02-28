@@ -1,6 +1,8 @@
 ---
 title: "Rovnost v odměňování"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2015/rovnost-v-odmenovani"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2015/rovnost-v-odmenovani"
 date: 2015-05-05
 perex: "<p>Zaměstnavatel je vázán povinností poskytnout zaměstnancům stejnou mzdu za práci stejné hodnoty. Není možné, aby odměnu snížil některým zaměstnancům jen z důvodu, že mají i jiný příjem z důchodu. Ochránkyně na to upozorňuje ve zprávě pro Poslaneckou sněmovnu.</p>"
 ---

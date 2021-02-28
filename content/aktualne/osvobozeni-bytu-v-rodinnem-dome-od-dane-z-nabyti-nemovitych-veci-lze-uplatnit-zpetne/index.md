@@ -1,6 +1,8 @@
 ---
 title: "Osvobození bytu v rodinném domě od daně z nabytí nemovitých věcí lze uplatnit zpětně"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2020/osvobozeni-bytu-v-rodinnem-dome-od-dane-z-nabyti-nemovitych-veci-lze-uplatnit-zpetne"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2020/osvobozeni-bytu-v-rodinnem-dome-od-dane-z-nabyti-nemovitych-veci-lze-uplatnit-zpetne"
 date: 2020-07-09
 perex: "<p>První pořízení nového bytu v rodinném domě je osvobozeno od daně z nabytí nemovitých věcí. Lidé, kteří si před 1. listopadem 2019 pořídili byt v rodinném domě, mohou osvobození uplatnit, pokud jim ještě neuplynula lhůta pro stanovení daně. Mohou tak učinit i ti, kdo už daňové přiznání podali a daň zaplatili podle dřívějšího výkladu finanční správy. Napravuje se tak několik let trvající nespravedlnost způsobená opomenutím zákonodárce.</p>"
 ---

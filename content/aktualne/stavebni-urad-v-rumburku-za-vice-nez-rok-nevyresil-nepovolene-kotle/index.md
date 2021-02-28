@@ -1,6 +1,8 @@
 ---
 title: "Stavební úřad v Rumburku za více než rok nevyřešil nepovolené kotle"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2015/stavebni-urad-v-rumburku-za-vice-nez-rok-nevyresil-nepovolene-kotle"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2015/stavebni-urad-v-rumburku-za-vice-nez-rok-nevyresil-nepovolene-kotle"
 date: 2015-05-13
 perex: "<p>Stavební úřad v Rumburku déle než rok nerozhodl ve věci nepovolené změny způsobu vytápění v bytových domech ve Šluknově. Přestože muselo být úřadu zřejmé, že v zájmu obyvatel domů je třeba rychle rozhodnout, zda umístěné kotle povolí nebo ne, neučinil tak. Obyvatele domů tak dlouhodobě ponechával v nejistotě, zda nepřijdou o dodávky tepla. </p>"
 ---

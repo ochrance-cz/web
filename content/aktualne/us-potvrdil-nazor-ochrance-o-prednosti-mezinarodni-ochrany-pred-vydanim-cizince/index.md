@@ -1,6 +1,8 @@
 ---
 title: "ÚS potvrdil názor ochránce o přednosti mezinárodní ochrany před vydáním cizince"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2013/us-potvrdil-nazor-ochrance-o-prednosti-mezinarodni-ochrany-pred-vydanim-cizince"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2013/us-potvrdil-nazor-ochrance-o-prednosti-mezinarodni-ochrany-pred-vydanim-cizince"
 date: 2013-08-29
 perex: "<p></p>"
 ---

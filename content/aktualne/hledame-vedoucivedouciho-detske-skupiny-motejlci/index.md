@@ -1,6 +1,8 @@
 ---
 title: "Hledáme vedoucí/vedoucího dětské skupiny Motejlci"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2018/hledame-vedoucivedouciho-detske-skupiny-motejlci"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2018/hledame-vedoucivedouciho-detske-skupiny-motejlci"
 date: 2018-09-05
 perex: "<p>V Kanceláři veřejného ochránce práv usilujeme dlouhodobě o dobrou veřejnou správu a společnost bez předsudků. Jsme férový zaměstnavatel a rádi mezi nás přijmeme osoby přicházející z různých skupin společnosti. Diverzita na pracovišti je pro nás důležitá.</p>"
 ---

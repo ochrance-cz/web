@@ -1,6 +1,8 @@
 ---
 title: "Livia Klausová dnes se zástupkyní ombudsmana o ochraně práv dětí"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2010/livia-klausova-dnes-se-zastupkyni-ombudsmana-o-ochrane-prav-deti"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2010/livia-klausova-dnes-se-zastupkyni-ombudsmana-o-ochrane-prav-deti"
 date: 2010-08-25
 perex: "<p></p><p>Dnes v odpoledních hodinách navštíví Kancelář veřejného ochránce práv manželka prezidenta České republiky Livia Klausová. V 16:00 hod se sejde se zástupkyní ochránce Jitkou Seitlovou, aby s ní projednala záležitosti týkající se ochrany práv dětí.</p>"
 ---

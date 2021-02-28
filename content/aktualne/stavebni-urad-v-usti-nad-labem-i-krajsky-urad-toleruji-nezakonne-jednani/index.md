@@ -1,6 +1,8 @@
 ---
 title: "Stavební úřad v Ústí nad Labem i krajský úřad tolerují nezákonné jednání"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2013/stavebni-urad-v-usti-nad-labem-i-krajsky-urad-toleruji-nezakonne-jednani"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2013/stavebni-urad-v-usti-nad-labem-i-krajsky-urad-toleruji-nezakonne-jednani"
 date: 2013-07-15
 perex: "<p></p><p>Stavební úřad Magistrátu města Ústí nad Labem i jeho odvolací instance krajský úřad jsou dlouhodobě nečinné a vědomě tak tolerují existenci černých staveb. Soubor hospodářských objektů v Němčí u Malečova vznikl bez stavebního povolení již na počátku 90. let a správní úřady dosud nesplnily své zákonné povinnosti, nerozhodly žádným způsobem o černých stavbách a neuložily ani pokuty.  </p>"
 ---

@@ -1,6 +1,8 @@
 ---
 title: "Na osvobození od placení místního poplatku mají někteří jen 15 dnů"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2018/na-osvobozeni-od-placeni-mistniho-poplatku-maji-nekteri-jen-15-dnu"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2018/na-osvobozeni-od-placeni-mistniho-poplatku-maji-nekteri-jen-15-dnu"
 date: 2018-01-09
 perex: "<p>Od roku 2018 se mění pravidlo pro ohlášení nároku na osvobození od placení místních poplatků. Pokud poplatník neohlásí obecnímu úřadu údaj rozhodný pro osvobození nebo úlevu od poplatku včas, nárok mu zanikne.</p>"
 ---

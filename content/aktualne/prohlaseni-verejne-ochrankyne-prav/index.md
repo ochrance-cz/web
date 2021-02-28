@@ -1,6 +1,8 @@
 ---
 title: "Prohlášení veřejné ochránkyně práv"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2014/prohlaseni-verejne-ochrankyne-prav"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2014/prohlaseni-verejne-ochrankyne-prav"
 date: 2014-02-20
 perex: "<p>Anna Šabatová nebude ohrožovat důstojnost funkce ombudsmana, ani důvěru v nezávislost a nestrannost, vyjádřeními k politice či politickým rozhodnutím. O totéž požádala i svého zástupce.</p>"
 ---

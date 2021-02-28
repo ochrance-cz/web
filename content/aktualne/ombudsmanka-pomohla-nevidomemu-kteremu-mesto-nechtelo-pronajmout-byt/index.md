@@ -1,6 +1,8 @@
 ---
 title: "Ombudsmanka pomohla nevidomému, kterému město nechtělo pronajmout byt"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2017/ombudsmanka-pomohla-nevidomemu-kteremu-mesto-nechtelo-pronajmout-byt"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2017/ombudsmanka-pomohla-nevidomemu-kteremu-mesto-nechtelo-pronajmout-byt"
 date: 2017-08-22
 perex: "<p>Nevidomý muž z jižních Čech žil v domě se svými rodiči. Vzhledem k vrozené poruše imunity trpěl v domě častými infekcemi dýchacích cest z důvodu zvýšené vlhkosti domu. Rozhodl se proto svůj problém řešit a požádal o pronájem městského bytu. Město mu však byt odmítlo pronajmout a to právě kvůli jeho zdravotnímu postižení. Takové jednání je však nepřípustné. </p>"
 ---

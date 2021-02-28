@@ -1,6 +1,8 @@
 ---
 title: "Ochránkyně ve Středočeském kraji"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2015/ochrankyne-ve-stredoceskem-kraji-1"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2015/ochrankyne-ve-stredoceskem-kraji-1"
 date: 2015-05-06
 perex: "<p>Zájem o problémy lidí přivede veřejnou ochránkyni práv Annu Šabatovou ve středu 20. května do Středočeského kraje. Kdokoli má zájem, může návštěvy využít k předání podnětu k šetření, k získání informací, jak řešit některé životní situace, dozvědět se víc o svých právech a o tom, v čem může ombudsman pomoci.</p>"
 ---

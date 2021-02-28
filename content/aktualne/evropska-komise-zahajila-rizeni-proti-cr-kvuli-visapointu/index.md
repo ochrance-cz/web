@@ -1,6 +1,8 @@
 ---
 title: "Evropská komise zahájila řízení proti ČR kvůli Visapointu"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2013/evropska-komise-zahajila-rizeni-proti-cr-kvuli-visapointu"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2013/evropska-komise-zahajila-rizeni-proti-cr-kvuli-visapointu"
 date: 2013-09-02
 perex: "<p>Důvodem \"předžalobního\" řízení je systém Visapoint spuštěný Ministerstvem zahraničních věcí, jehož prostřednictvím se cizinci ve vybraných zemích musí nejprve zaregistrovat, aby vůbec mohli požádat o vízum. Systém však dlouhodobě nefunguje, takže ani cizinci, kteří mají na pobyt v ČR nárok (sloučení rodiny nebo studium) nemají šanci žádost podat, což je v rozporu s právem EU.</p>"
 ---

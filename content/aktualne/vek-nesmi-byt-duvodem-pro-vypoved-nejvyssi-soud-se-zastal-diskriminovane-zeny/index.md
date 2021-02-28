@@ -1,6 +1,8 @@
 ---
 title: "Věk nesmí být důvodem pro výpověď. Nejvyšší soud se zastal diskriminované ženy"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2019/vek-nesmi-byt-duvodem-pro-vypoved-nejvyssi-soud-se-zastal-diskriminovane-zeny"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2019/vek-nesmi-byt-duvodem-pro-vypoved-nejvyssi-soud-se-zastal-diskriminovane-zeny"
 date: 2019-11-26
 perex: "<p>Nejvyšší soud definitivně uzavřel případ diskriminace ženy z důvodu věku, na jejíž stranu se postavila ombudsmanka. Žena byla zaměstnankyní soudu, u kterého dostala spolu s dalšími kolegyněmi výpověď. Nadřízený jim jako jediný důvod sdělil, že dosáhly důchodového věku. Jedna z žen se s takovým jednáním odmítla smířit a svůj případ vyhrála u několika soudů.</p>"
 ---

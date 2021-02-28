@@ -1,6 +1,8 @@
 ---
 title: "Opatrovník nemůže ignorovat přání člověka, jehož zájmy má zastupovat"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2019/opatrovnik-nemuze-ignorovat-prani-cloveka-jehoz-zajmy-ma-zastupovat"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2019/opatrovnik-nemuze-ignorovat-prani-cloveka-jehoz-zajmy-ma-zastupovat"
 date: 2019-10-04
 perex: "<p>Na ombudsmanku se obrátila žena, která byla omezena ve svéprávnosti v průběhu výkonu ústavní formy ochranného léčení. Opatrovníkem bylo jmenováno město. Žena se na ombudsmanku obrátila s podezřením na pochybení opatrovníka především v oblasti hospodaření s majetkem, stěžovala si také na nedostatečný kontakt a celkový nezájem o její osud. Ombudsmanka během svého šetření dala ženě za pravdu a podařilo se jí sjednat v jejím případu dostatečnou nápravu. </p>"
 ---

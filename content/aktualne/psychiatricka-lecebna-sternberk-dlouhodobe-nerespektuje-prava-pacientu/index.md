@@ -1,6 +1,8 @@
 ---
 title: "Psychiatrická léčebna Šternberk dlouhodobě nerespektuje práva pacientů"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2010/psychiatricka-lecebna-sternberk-dlouhodobe-nerespektuje-prava-pacientu"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2010/psychiatricka-lecebna-sternberk-dlouhodobe-nerespektuje-prava-pacientu"
 date: 2010-06-15
 perex: "<p></p><p>Psychiatrická léčebna nerespektuje doporučení ochránce k nápravě pochybení zjištěných v roce 2008 a znovu v roce 2009. V léčebně například až dosud chybí jasná pravidla pro používání omezovacích prostředků (síťová lůžka, psychofarmaka apod.), s některými pacienty je zacházeno nedůstojně a nejsou respektována jejich práva. Zatímco jiné léčebny dokázaly obdobná pochybení relativně rychle a bezproblémově odstranit, vedení léčebny Šternberk kritiku i doporučení k nápravě odmítá.</p>"
 ---

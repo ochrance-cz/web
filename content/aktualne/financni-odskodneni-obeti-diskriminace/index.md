@@ -1,6 +1,8 @@
 ---
 title: "Finanční odškodnění oběti diskriminace"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2013/financni-odskodneni-obeti-diskriminace"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2013/financni-odskodneni-obeti-diskriminace"
 date: 2013-06-03
 perex: "<p>Díky spolupráci veřejného ochránce práv a Pro bono aliance získal stěžovatel 80 000 Kč jako odškodnění za diskriminaci v přístupu k zaměstnání z důvodu věku.</p>"
 ---

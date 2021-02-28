@@ -1,6 +1,8 @@
 ---
 title: "Hledáme právničky a právníky do našich řad"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2017/hledame-pravnicky-a-pravniky-do-nasich-rad-1"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2017/hledame-pravnicky-a-pravniky-do-nasich-rad-1"
 date: 2017-06-12
 perex: "<p>Aktuálně hledáme právničky/právníky se zájmem o problematiku  rovného zacházení a ochrany před diskriminací, práv osob se zdravotním postižením, ochrany práv dětí, zaměstnanosti a inspekce práce, zdravotnictví včetně veřejného zdravotního pojištění.</p>"
 ---

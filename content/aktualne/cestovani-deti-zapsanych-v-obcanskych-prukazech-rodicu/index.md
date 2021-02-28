@@ -1,6 +1,8 @@
 ---
 title: "Cestování dětí zapsaných v občanských průkazech rodičů"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2007/cestovani-deti-zapsanych-v-obcanskych-prukazech-rodicu"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2007/cestovani-deti-zapsanych-v-obcanskych-prukazech-rodicu"
 date: 2007-07-11
 perex: "<p></p>"
 ---

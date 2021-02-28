@@ -1,6 +1,8 @@
 ---
 title: "Postoj ministerstva k řešení hlukových záležitostí není zatím přesvědčivý"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2013/postoj-ministerstva-k-reseni-hlukovych-zalezitosti-neni-zatim-presvedcivy"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2013/postoj-ministerstva-k-reseni-hlukovych-zalezitosti-neni-zatim-presvedcivy"
 date: 2013-02-12
 perex: "<p>Ačkoli ministerstvo zdravotnictví chystá novelu zákona o ochraně veřejného zdraví týkající se ochrany před hlukem, má zástupkyně veřejného ochránce práv pochybnosti, zda novela přinese skutečně efektivní opatření k odstranění dlouhodobých problémů.</p>"
 ---

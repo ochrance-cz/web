@@ -1,6 +1,8 @@
 ---
 title: "OSSZ musí zaměstnavateli poskytnout údaj o úmrtí zaměstnance"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2011/ossz-musi-zamestnavateli-poskytnout-udaj-o-umrti-zamestnance"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2011/ossz-musi-zamestnavateli-poskytnout-udaj-o-umrti-zamestnance"
 date: 2011-08-12
 perex: "<p></p><p>V případě, kdy zaměstnavatel nezná přesné datum úmrtí svého zaměstnance a tento údaj sám nemůže zjistit, může se obrátit na příslušnou Okresní správu sociálního zabezpečení. Neexistuje žádná zákonná překážka, aby pro účely plnění povinnosti zaměstnavatele v rámci nemocenského a důchodového pojištění OSSZ tento údaj neposkytla. </p>"
 ---

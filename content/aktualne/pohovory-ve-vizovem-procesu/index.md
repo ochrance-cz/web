@@ -1,6 +1,8 @@
 ---
 title: "Pohovory ve vízovém procesu"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2008/pohovory-ve-vizovem-procesu"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2008/pohovory-ve-vizovem-procesu"
 date: 2008-09-01
 perex: "<p></p>"
 ---

@@ -1,6 +1,8 @@
 ---
 title: "Zástupkyně veřejného ochránce práv vyzývá ministra k zákazu E128"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2007/zastupkyne-verejneho-ochrance-prav-vyzyva-ministra-k-zakazu-e128"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2007/zastupkyne-verejneho-ochrance-prav-vyzyva-ministra-k-zakazu-e128"
 date: 2007-07-23
 perex: "<p></p>"
 ---

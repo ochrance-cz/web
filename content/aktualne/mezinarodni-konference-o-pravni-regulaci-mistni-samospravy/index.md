@@ -1,6 +1,8 @@
 ---
 title: "Mezinárodní konference o právní regulaci místní samosprávy"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2008/mezinarodni-konference-o-pravni-regulaci-mistni-samospravy"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2008/mezinarodni-konference-o-pravni-regulaci-mistni-samospravy"
 date: 2008-07-09
 perex: "<p></p>"
 ---

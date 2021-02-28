@@ -1,6 +1,8 @@
 ---
 title: "Navrhovaná pomoc obcím zbavit se ubytoven povede k bezdomovectví"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2014/navrhovana-pomoc-obcim-zbavit-se-ubytoven-povede-k-bezdomovectvi"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2014/navrhovana-pomoc-obcim-zbavit-se-ubytoven-povede-k-bezdomovectvi"
 date: 2014-10-21
 perex: "<p>Veřejná ochránkyně práv nesouhlasí s návrhem zavést podmínku, aby obce vyslovovaly souhlas s přiznáním doplatku na bydlení v ubytovně. Považuje to za nesystémový krok, který problém bydlení sociálně slabých neřeší, pouze ho přesouvá jinam. Možnost obce ovlivnit existenci ubytovny na jejím území nesmí spočívat v zásahu do rozhodování o jednotlivých žádostech o pomoc v hmotné nouzi, o nichž rozhoduje stát.</p>"
 ---

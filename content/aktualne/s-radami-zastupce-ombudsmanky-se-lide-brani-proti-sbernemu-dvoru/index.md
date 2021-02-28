@@ -1,6 +1,8 @@
 ---
 title: "S radami zástupce ombudsmanky se lidé brání proti sběrnému dvoru"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2015/s-radami-zastupce-ombudsmanky-se-lide-brani-proti-sbernemu-dvoru"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2015/s-radami-zastupce-ombudsmanky-se-lide-brani-proti-sbernemu-dvoru"
 date: 2015-09-09
 perex: "<p>Lidé z okolí sběrného dvora na Praze 10 začali na radu zástupce ombudsmanky bránit kvalitu svého bydlení. Zástupce ombudsmanky jim doporučil konkrétní kroky k tomu, aby dosáhli snížení obtěžování hlukem a prachem. Protože podle rad postupují a také úřady jsou aktivní, mají obyvatelé lokality šanci, že se jejich životní prostředí zlepší.</p>"
 ---

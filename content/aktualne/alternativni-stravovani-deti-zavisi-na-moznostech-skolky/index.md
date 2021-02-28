@@ -1,6 +1,8 @@
 ---
 title: "Alternativní stravování dětí závisí na možnostech školky"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2019/alternativni-stravovani-deti-zavisi-na-moznostech-skolky"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2019/alternativni-stravovani-deti-zavisi-na-moznostech-skolky"
 date: 2019-07-12
 perex: "<p>Mají školky povinnost vyhovět rodičům, kteří žádají dietní stravu pro své děti trpící celiakií, potravinovou alergií nebo intolerancí, nebo by pro ně chtěli vegetariánskou či veganskou stravu?</p>"
 ---

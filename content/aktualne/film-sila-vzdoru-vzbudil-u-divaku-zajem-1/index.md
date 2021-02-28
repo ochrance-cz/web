@@ -1,6 +1,8 @@
 ---
 title: "Film Síla vzdoru vzbudil u diváků zájem"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2019/film-sila-vzdoru-vzbudil-u-divaku-zajem-1"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2019/film-sila-vzdoru-vzbudil-u-divaku-zajem-1"
 date: 2019-05-07
 perex: "<p></p>"
 ---

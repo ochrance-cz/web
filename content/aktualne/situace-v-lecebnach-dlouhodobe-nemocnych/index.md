@@ -1,6 +1,8 @@
 ---
 title: "Situace v léčebnách dlouhodobě nemocných"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2017/situace-v-lecebnach-dlouhodobe-nemocnych"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2017/situace-v-lecebnach-dlouhodobe-nemocnych"
 date: 2017-11-30
 perex: "<p>Na základě zjištění z návštěv léčeben dlouhodobě nemocných formulovala ombudsmanka doporučení, která je třeba začít urychleně realizovat, aby se péče o pacienty zlepšila. Zejména v důsledku nedostatečného personálního zajištění může docházet k zásahům do důstojnosti a soukromí pacientů.</p>"
 ---

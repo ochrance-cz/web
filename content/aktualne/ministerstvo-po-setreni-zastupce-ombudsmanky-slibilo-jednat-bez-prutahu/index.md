@@ -1,6 +1,8 @@
 ---
 title: "Ministerstvo po šetření zástupce ombudsmanky slíbilo jednat bez průtahů"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2019/ministerstvo-po-setreni-zastupce-ombudsmanky-slibilo-jednat-bez-prutahu"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2019/ministerstvo-po-setreni-zastupce-ombudsmanky-slibilo-jednat-bez-prutahu"
 date: 2019-10-15
 perex: "<p>Po výtkách zástupce ombudsmanky zjednalo ministerstvo nápravu v průtazích. Uznalo, že je nepřípustné, aby přezkoumání závazného stanoviska krajské hygienické stanice trvalo měsíce i roky. Ministerstvo přislíbilo změnit svůj postup tak, aby byly podněty vyřizovány v přiměřených lhůtách.</p>"
 ---

@@ -1,6 +1,8 @@
 ---
 title: "Ombudsmanka upozorňuje na některé problematické body věcného záměru stavebního zákona"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2019/ombudsmanka-upozornuje-na-nektere-problematicke-body-vecneho-zameru-stavebniho-zakona"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2019/ombudsmanka-upozornuje-na-nektere-problematicke-body-vecneho-zameru-stavebniho-zakona"
 date: 2019-07-03
 perex: "<p>Ombudsmanka se aktivně účastnila připomínkového řízení k věcnému záměru stavebního zákona. Bohužel některé její zásadní připomínky předkladatel (Ministerstvo pro místní rozvoj) nevyslyšel a vláda materiál dne 24. června přes tyto rozpory schválila. Příprava nového stavebního zákona tak dostala zelenou.  Ombudsmanka především nesouhlasí se zaváděným institutem automaticky generovaného rozhodnutí v případech, kdy stavební úřad nerozhodne ve stanovených lhůtách. Výhrady má také k integraci jednotlivých orgánů do jedné instituce, kdy dojde narušení jejich nezávislosti. </p>"
 ---

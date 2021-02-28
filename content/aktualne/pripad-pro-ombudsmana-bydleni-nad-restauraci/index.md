@@ -1,6 +1,8 @@
 ---
 title: "Případ pro ombudsmana: Bydlení nad restaurací"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2010/pripad-pro-ombudsmana-bydleni-nad-restauraci"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2010/pripad-pro-ombudsmana-bydleni-nad-restauraci"
 date: 2010-12-15
 perex: "<p></p><p>V pátek 17. 12. vysílá Česká televize na ČT1 v 18:25 poslední díl šestého cyklu pořadu Případ pro ombudsmana (repríze v pondělí 20. 12. ve 12:25 na ČT2). Díl nazvaný Bydlení nad restaurací vypráví o problému obtěžování nadměrným hlukem z restaurace a o průtazích při provedení nezbytných stavebních úprav k jeho odstranění. </p>"
 ---

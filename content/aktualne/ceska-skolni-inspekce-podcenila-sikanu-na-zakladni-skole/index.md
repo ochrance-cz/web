@@ -1,6 +1,8 @@
 ---
 title: "Česká školní inspekce podcenila šikanu na základní škole"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2018/ceska-skolni-inspekce-podcenila-sikanu-na-zakladni-skole"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2018/ceska-skolni-inspekce-podcenila-sikanu-na-zakladni-skole"
 date: 2018-08-10
 perex: "<p>Základní škola nedokázala zabránit šikaně chlapce, který čelil slovním a fyzickým úrokům. Jeho matka se proto obrátila na Českou školní inspekci (ČŠI). Inspekce shledala její stížnost částečně nedůvodnou a částečně neprůkaznou. Ombudsmanka během svého šetření konstatovala dvě pochybení v činnosti inspekce. Ta neprovedla ve škole kontrolu a nezabývala se tedy tím, zda k šikaně skutečně dochází. Šikana je závažný problém a její dopady na životy dětí nelze zlehčovat. </p>"
 ---

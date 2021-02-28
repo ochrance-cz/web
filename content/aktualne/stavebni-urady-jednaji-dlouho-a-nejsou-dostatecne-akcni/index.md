@@ -1,6 +1,8 @@
 ---
 title: "Stavební úřady jednají dlouho a nejsou dostatečně „akční“"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2016/stavebni-urady-jednaji-dlouho-a-nejsou-dostatecne-akcni"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2016/stavebni-urady-jednaji-dlouho-a-nejsou-dostatecne-akcni"
 date: 2016-12-15
 perex: "<p>V letošním roce výrazně stoupl počet podnětů z oblasti územního plánování a stavebního řádu. Za jedenáct měsíců letošního roku řešil zástupce ombudsmanky už 575 podnětů k činnosti stavebních úřadů, což je o čtvrtinu víc než za celý loňský rok. Lidé si mnohem častěji ověřují, jestli je postup stavebního úřadu v pořádku, brání se proti jeho rozhodnutí nebo namítají nečinnost úřadu.</p>"
 ---

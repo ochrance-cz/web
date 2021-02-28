@@ -1,6 +1,8 @@
 ---
 title: "Hledáme odborníky z řad dětských psychologů, psychoterapeutů, etopedů a sociálních pracovníků"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2015/hledame-odborniky-z-rad-detskych-psychologu-psychoterapeutu-etopedu-a-socialnich-pracovn"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2015/hledame-odborniky-z-rad-detskych-psychologu-psychoterapeutu-etopedu-a-socialnich-pracovn"
 date: 2015-10-06
 perex: "<p>Veřejná ochránkyně práv zve dětské psychology, psychoterapeuty, etopedy a sociální pracovníky ke spolupráci. Hledá odborníky, kteří by měli zájem podílet se na prevenci proti špatnému zacházení s dětmi a nezletilými v zařízeních, v nichž se vykonává ochranná nebo ústavní výchova, zařízeních sociálně-právní ochrany dětí, a dále ve zvláštních dětských zařízeních. Spolupráce se týká konzultací a účasti na provádění systematických návštěv v daných typech zařízení, poradenské, případně školící činnosti. Ochránkyně současně uvítá jakékoliv podněty od veřejnosti, které souvisí s tématem ochrany dětí před špatným zacházením.</p>"
 ---

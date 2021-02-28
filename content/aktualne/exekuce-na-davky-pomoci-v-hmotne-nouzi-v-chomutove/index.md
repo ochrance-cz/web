@@ -1,6 +1,8 @@
 ---
 title: "Exekuce na dávky pomoci v hmotné nouzi v Chomutově"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2009/exekuce-na-davky-pomoci-v-hmotne-nouzi-v-chomutove"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2009/exekuce-na-davky-pomoci-v-hmotne-nouzi-v-chomutove"
 date: 2009-02-18
 perex: "<p></p><p>Na základě informací o exekucích prováděných zabavením hotových peněz pocházejících z právě vyplacených dávek pomoci v hmotné nouzi v prostorách Magistrátu města Chomutova ochránce podal Ministerstvu spravedlnosti podnět k výkonu státního dohledu nad exekuční činností soudního exekutora.</p>"
 ---

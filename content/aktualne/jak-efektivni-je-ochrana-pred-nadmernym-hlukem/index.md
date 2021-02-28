@@ -1,6 +1,8 @@
 ---
 title: "Jak efektivní je ochrana před nadměrným hlukem?"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2019/jak-efektivni-je-ochrana-pred-nadmernym-hlukem"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2019/jak-efektivni-je-ochrana-pred-nadmernym-hlukem"
 date: 2019-11-19
 perex: "<p>Nadměrný hluk má nepříznivé dopady na lidské zdraví, je prokázána souvislost s kardiovaskulárním onemocněním i jinými zdravotními problémy. Z podnětů, které veřejný ochránce práv řadu let dostává, přitom vyplývá nespokojenost lidí s tím, jak úřady postupují vůči provozovatelům zdrojů hluku dlouhodobě překračujících hygienické hlukové limity. Zástupce ombudsmanky proto svolal zástupce Ministerstva zdravotnictví, jednotlivých krajských hygienických stanic a Národní referenční laboratoře k diskuzi o tom, jak efektivně ovlivňovat provozovatele zdrojů nadlimitního hluku, jakými sankčními nástroji a nápravnými opatřeními disponují orgány ochrany veřejného zdraví a jak je využívají.</p>"
 ---

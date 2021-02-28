@@ -1,6 +1,8 @@
 ---
 title: "Nový zástupce ombudsmana"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2013/novy-zastupce-ombudsmana"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2013/novy-zastupce-ombudsmana"
 date: 2013-04-04
 perex: "<p></p>"
 ---

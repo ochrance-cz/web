@@ -1,6 +1,8 @@
 ---
 title: "Inspektoráty práce mají nástroje pro důkladné šetření pracovních podmínek. Ne vždy je však dokáží využít"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2017/inspektoraty-prace-maji-nastroje-pro-dukladne-setreni-pracovnich-podminek-ne-vzdy-je-v"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2017/inspektoraty-prace-maji-nastroje-pro-dukladne-setreni-pracovnich-podminek-ne-vzdy-je-v"
 date: 2017-08-03
 perex: "<p>Pět zaměstnankyň bylo přesvědčeno, že je zaměstnavatel šikanuje a proto se obrátily na inspektorát práce. Ten na základě jejich podnětu zahájil šetření. V něm konstatoval, že k žádné šikaně nedochází. Naopak naznačil, že možná zaměstnankyně šikanují svého zaměstnavatele – aniž by své tvrzení nějak doložil. Nespokojené stěžovatelky se obrátily na veřejnou ochránkyni práv. Jak jsme zjistili během šetření, inspektorát práce nevyužil svých možností, jeho šetření bylo spíše formální a víceméně se ztotožnil s tvrzením zaměstnavatele.   </p>"
 ---

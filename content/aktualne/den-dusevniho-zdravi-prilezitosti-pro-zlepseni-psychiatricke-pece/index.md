@@ -1,6 +1,8 @@
 ---
 title: "Den duševního zdraví příležitostí pro zlepšení psychiatrické péče"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2017/den-dusevniho-zdravi-prilezitosti-pro-zlepseni-psychiatricke-pece"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2017/den-dusevniho-zdravi-prilezitosti-pro-zlepseni-psychiatricke-pece"
 date: 2017-10-10
 perex: "<p>Při příležitosti Světového dne duševního zdraví uspořádala ombudsmanka seminář, s cílem zlepšit kontrolní činnost krajských úřadů v psychiatrických nemocnicích. Úředníci by díky němu měli lépe porozumět právním i klinickým problémům a svými kontrolami pak přispívat k prevenci špatného zacházení s pacienty s psychiatrickým onemocněním.</p>"
 ---

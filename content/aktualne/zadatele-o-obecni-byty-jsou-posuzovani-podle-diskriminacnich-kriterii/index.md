@@ -1,6 +1,8 @@
 ---
 title: "Žadatelé o obecní byty jsou posuzování podle diskriminačních kritérií"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2010/zadatele-o-obecni-byty-jsou-posuzovani-podle-diskriminacnich-kriterii"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2010/zadatele-o-obecni-byty-jsou-posuzovani-podle-diskriminacnich-kriterii"
 date: 2010-03-10
 perex: "<p></p><p>Pravidla obcí pro výběr žadatelů o obecní byty obsahují často diskriminační podmínky. Šetření veřejného ochránce práv ukázalo, že nejčastěji jsou uchazeči o obecní byty diskriminováni na základě státního občanství, pohlaví nebo rasové či etnické příslušnosti. Jde přitom o důvody, které u přístupu k bydlení výslovně zakazuje antidiskriminační zákon.</p>"
 ---

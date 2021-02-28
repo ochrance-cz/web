@@ -1,6 +1,8 @@
 ---
 title: "Proporcionalita způsobu vedení exekuce"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2014/proporcionalita-zpusobu-vedeni-exekuce"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2014/proporcionalita-zpusobu-vedeni-exekuce"
 date: 2014-05-12
 perex: "<p>Automatické zřizování exekutorského zástavního práva, bez ohledu na hodnotu vymáhané pohledávky a celkovou hodnotu postižených nemovitostí povinného, je nezákonné. Stejně nezákonné je také automatické vydávání exekučních příkazů k prodeji nemovitostí povinného, bez ohledu na hodnotu vymáhané pohledávky s veškerým očekávaným příslušenstvím a zejména bez ohledu na možnost uspokojení vymáhané pohledávky přednostními způsoby exekuce.</p>"
 ---

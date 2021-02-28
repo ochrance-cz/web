@@ -1,6 +1,8 @@
 ---
 title: "Stát sice nabízí příspěvek na dojížďku, ale žádosti formalisticky odmítá"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2020/stat-sice-nabizi-prispevek-na-dojizdku-ale-zadosti-formalisticky-odmita"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2020/stat-sice-nabizi-prispevek-na-dojizdku-ale-zadosti-formalisticky-odmita"
 date: 2020-06-04
 perex: "<p>Lidé v evidenci úřadu práce mohou žádat o příspěvek na dojížďku, pokud si najdou práci jinde než v místě bydliště. Stát tím podporuje nezaměstnané, aby se lépe uplatnili na trhu práce. Na poskytnutí příspěvku sice obecně není právní nárok, ale pokud žadatel splní stanovené podmínky, měl by úřad práce jeho žádosti vyhovět. Podle zástupkyně ombudsmana však Ministerstvo práce a sociálních věcí a Úřad práce České republiky – krajská pobočka v Brně nerespektují účel příspěvku, nejednají vstřícně, jak by veřejná správa měla, a žádosti o příspěvek aktivní politiky zaměstnanosti posuzují formalisticky.</p>"
 ---

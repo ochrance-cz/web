@@ -1,6 +1,8 @@
 ---
 title: "Závěry z šetření ochránkyně v oblasti důchodů"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2016/zavery-z-setreni-ochrankyne-v-oblasti-duchodu"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2016/zavery-z-setreni-ochrankyne-v-oblasti-duchodu"
 date: 2016-11-08
 perex: "<p>Veřejná ochránkyně práv dostává dlouhodobě nejvíce podnětů týkajících se důchodů. V letech 2014 a 2015 obdržela ochránkyně celkem 857 podnětů z této agendy. V 70 % případů jsme stěžovatelům pomohli formou rady nebo jiné pomoci, aniž by došlo k zahájení šetření.  Ve 185 případech jsme zahájili šetření. Z těchto případů jsme v 87 konstatovali pochybení (47 %), většinou ze strany České správy sociálního zabezpečení (ČSSZ). V drtivé většině případů orgány uznaly svá pochybení, a pokud to bylo ještě možné, chyby napravily. Celkově spolupráci s ČSSZ hodnotíme pozitivně. Musíme také upozornit, že se na nás obrací rostoucí počet lidí, kteří nedosáhnou na starobní důchod.</p>"
 ---

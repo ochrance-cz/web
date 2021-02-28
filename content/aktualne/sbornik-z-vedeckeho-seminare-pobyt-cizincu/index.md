@@ -1,6 +1,8 @@
 ---
 title: "Sborník z vědeckého semináře Pobyt cizinců"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2015/sbornik-z-vedeckeho-seminare-pobyt-cizincu"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2015/sbornik-z-vedeckeho-seminare-pobyt-cizincu"
 date: 2015-09-21
 perex: "<p>Nejen pro účastníky, ale i pro další odborníky a zájemce, je již k dispozici sborník z vědeckého semináře Pobyt cizinců: vybrané právní problémy II, který se konal 26. června 2014 v Kanceláři veřejného ochránce práv.</p>"
 ---

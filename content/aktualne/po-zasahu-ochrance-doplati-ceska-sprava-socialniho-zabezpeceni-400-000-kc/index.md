@@ -1,6 +1,8 @@
 ---
 title: "Po zásahu ochránce doplatí Česká správa sociálního zabezpečení 400 000 Kč"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2011/po-zasahu-ochrance-doplati-ceska-sprava-socialniho-zabezpeceni-400-000-kc"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2011/po-zasahu-ochrance-doplati-ceska-sprava-socialniho-zabezpeceni-400-000-kc"
 date: 2011-06-28
 perex: "<p></p><p>Po zásahu ochránce vyplatí Česká správa sociálního zabezpečení stěžovatelce přes 400 000 Kč jako doplatek od roku 2006 za zpětně přiznaný invalidní důchod. Podle nového posouzení bylo datum invalidity stanoveno už k roku 1989.</p>"
 ---

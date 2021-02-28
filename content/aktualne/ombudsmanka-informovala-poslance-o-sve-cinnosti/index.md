@@ -1,6 +1,8 @@
 ---
 title: "Ombudsmanka informovala poslance o své činnosti"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2018/ombudsmanka-informovala-poslance-o-sve-cinnosti"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2018/ombudsmanka-informovala-poslance-o-sve-cinnosti"
 date: 2018-11-08
 perex: "<p>Ve 3. čtvrtletí se na ombudsmanku obrátili lidé s 1899 žádostmi o pomoc. Nejčastěji se jejich výhrady týkaly postupu Vězeňské služby ČR, důchodů a dávek pomoci v hmotné nouzi. V 60 přijatých podnětech se objevila námitka nerovného zacházení. To nejpodstatnější ze své činnosti ve 3. čtvrtletí shrnula ombudsmanka ve zprávě, kterou zaslala Poslanecké sněmovně.</p>"
 ---

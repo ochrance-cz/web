@@ -1,6 +1,8 @@
 ---
 title: "Setkání expertů z tzv. národních preventivních mechanismů"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2014/setkani-expertu-z-tzv-narodnich-preventivnich-mechanismu"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2014/setkani-expertu-z-tzv-narodnich-preventivnich-mechanismu"
 date: 2014-11-27
 perex: "<p></p>"
 ---

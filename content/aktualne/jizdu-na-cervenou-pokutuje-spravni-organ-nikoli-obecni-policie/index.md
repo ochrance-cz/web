@@ -1,6 +1,8 @@
 ---
 title: "Jízdu na červenou pokutuje správní orgán, nikoli obecní policie"
-oldUrl: "src/www.ochrance.cz/aktualne/tiskove-zpravy-2011/jizdu-na-cervenou-pokutuje-spravni-organ-nikoli-obecni-policie"
+tags:
+  - Tisková zpráva
+oldUrl: "/aktualne/tiskove-zpravy-2011/jizdu-na-cervenou-pokutuje-spravni-organ-nikoli-obecni-policie"
 date: 2011-11-09
 perex: "<p></p><p>Jízda na červenou je přestupkem proti bezpečnosti a plynulosti provozu na pozemních komunikacích, za nějž lze uložit pokutu ve výši 2500 – 5000 Kč a v rámci bodového hodnocení za ni přísluší zápis 5 bodů. Uložit ji řidiči motorového vozidla však může správní orgán (obecní úřad, nebo Policie ČR), nikoli obecní policie. </p>"
 ---
