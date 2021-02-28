@@ -1,0 +1,12 @@
+---
+title: "Seriál ČT „Ochránce“ – 4. díl: Diskriminace na pracovišti"
+tags:
+  - TV seriál
+oldUrl: "/dalsi-aktivity/tv-serial/ochrance-i-2011/serial-ct-ochrance-4-dil-diskriminace-na-pracovisti-1/"
+date: 2011-09-23
+perex: "<p></p><p>Čtvrtý díl seriálu zaměřený tentokrát na problematiku nerovného zacházení v pracovně-právních vztazích vysílá ČT2 v úterý 27. 9. v 17:20 hod a v repríze ve středu 28. 9. v 9:35 hod.</p>"
+---
+
+<!-- imported from the old website -->
+
+<p>Nerovné zacházení a ochrana před diskriminací jsou témata, kterými se ombudsman zabývá od prosince roku 2009 v souvislosti s přijetím antidiskriminačního zákona. Podle něj se za diskriminaci považuje odlišné zacházení z důvodu rasy, etnického původu, národnosti, pohlaví, sexuální orientace, věku, zdravotního postižení, náboženského vyznání, víry či světového názoru. Diskriminace je zakázána v přístupu k zaměstnání, v pracovně-právních vztazích, v přístupu k podnikání, ke vzdělání, ke zdravotní péči, v přístupu ke zboží a službám, k přiznání sociálních výhod a v členství v odborových organizacích či profesních komorách.</p><p>Právě oblasti zaměstnání je nejčastějším místem, kde se lidé podle svého názoru setkávají s nerovným zacházením. Také tři příběhy tohoto pořadu spojuje pracovní prostředí a pocit tří žen, že s nimi zaměstnavatel nezacházel férově, že se jim stala nespravedlnost a možná byly diskriminovány. Všechny tři se proto obrátily na ombudsmana, aby jejich záležitosti prošetřil.</p><p>Paní Mičánková se stěžovala, že ji zaměstnavatel diskriminoval kvůli zdravotnímu stavu. Pracovala 15 let jako účetní, ale její šestiměsíční pracovní neschopnost po operaci kyčle byla pro jejího zaměstnavatele problémem. S paní Mičánkovou ukončil pracovní poměr s tím, že místo pro údajnou nadbytečnost ruší.</p><p>Paní Švábová je Slovenka. Na ombudsmana se obrátila nikoli se stížností, ale s dotazem a prosbou o stanovisko. Jejím nadřízeným totiž vadí slovenština a v hodnocení jí vytýkají, že ji používá. Žádají, aby i v běžném hovoru na pracovišti používala češtinu.</p><p>Paní Jakubcová se na ombudsmana obrátila s podezřením, že ji zaměstnavatel diskriminoval z důvodu věku. Pracovala jako inspektorka Státní zemědělské a potravinářské inspekce a i když dospěla do důchodového věku, do důchodu jít nechtěla a požádala o možnost vykonávat kontroly obchodů i nadále. V rámci organizačních změn však bylo její místo zrušeno, právě i s poukazem na její důchodový věk.</p>

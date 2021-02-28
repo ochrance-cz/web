@@ -1,0 +1,12 @@
+---
+title: "Případ pro ombudsmana: Evidence obyvatel"
+tags:
+  - TV seriál
+oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-vi/pripad-pro-ombudsmana-evidence-obyvatel-1/"
+date: 2010-09-08
+perex: "<p></p><p>V pátek 10. 9. vysílá Česká televize na ČT1 v 18:25 druhý díl šestého cyklu pořadu Případ pro ombudsmana (repríze v pondělí 13. 9. ve 12:25 na ČT2). Díl nazvany Evidence obyvatel vypráví o případu nezákonného postupu úředníků při ohlašování místa trvaného pobytu. Občanské sdružení Z§vůle práva poukázalo na nezákonný postup úředníků na ohlašovně při vyřizování změny místa trvalého pobytu. Upozorňovalo, že může docházet k diskriminaci. Šetření ukázalo, že postup úředníků byl v rozporu se zákonem a tato nestandardní praxe byla posléze zrušena.</p>"
+---
+
+<!-- imported from the old website -->
+
+<p><b>Spis. zn. VOP 1672/2009</b></p><p>Občanské sdružení Z§vůle práva, o. s., se na ochránce obrátilo se stížností, v níž poukazovalo na dlouhodobou praxi ohlašovny Úřadu městského obvodu Vítkovice v Ostravě, v rámci které jsou osoby, jež chtějí ohlásit změnu místa trvalého pobytu, nejprve posílány k představitelům samosprávy městského obvodu. Zaevidování změny tak bylo podle sdružení podmíněno souhlasem jednoho z představitelů samosprávy, vyjádřeného jeho parafou na přihlašovacím lístku. Občanské sdružení upozorňovalo, že by se mohlo jednat o nezákonnou praktiku, která je v rozporu s ústavně zaručeným právem na svobodu pohybu. Tento postup by mohl vést k diskriminaci některých občanů, zejména občanů romského původu.</p><p>K nahlášení změny místa trvalého pobytu je třeba na příslušném úřadě předložit občanský průkaz, přihlašovací lístek, pokud je občan vlastníkem objektu, do něhož se přihlašuje, tak výpis z katastru nemovitostí, pokud je v objektu v nájmu, pak nájemní smlouvu. Jestliže úředník vyžaduje další úkon, v tomto případě návštěvu představitele samosprávy, hodnotí ochránce takové jednání jako nepřípustné a nad rámec zákona.</p><p>Šetření ukázalo, že schůzka občana s představitelem samosprávy byla kladena jako nutná podmínka, bez níž nebylo možné přijmout ohlášení změny pobytu. Zástupkyně ochránce proto vytkla úřadu překračování zákona, ale vytkla také Magistrátu města Ostravy, jako nadřízenému orgánu, že nevyužil svých kontrolních a dozorových povinností, ačkoli o této nezákonné praxi věděl.</p><p>Na pokyn starosty byl nezákonný postup zrušen a pracovníci poučeni, jak mají podle práva ve věci napříště postupovat.</p>

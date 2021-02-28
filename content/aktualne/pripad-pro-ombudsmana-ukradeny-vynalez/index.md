@@ -1,0 +1,12 @@
+---
+title: "Případ pro ombudsmana: Ukradený vynález"
+tags:
+  - TV seriál
+oldUrl: "/dalsi-aktivity/tv-serial/pripad-pro-ombudsmana-i/pripad-pro-ombudsmana-ukradeny-vynalez/"
+date: 2010-02-19
+perex: "<p></p><p>Příběh skupinky vynálezců se soudně vleče od roku 1991, vystřídalo se na něm několik soudců. Žalovaná strana vydělávala od osmdesátých let ročně miliony na vynálezu, za který jeho autoři nedostali nikdy nic. V současné době je zemědělské družstvo v Pasece u Šternberku, které vynález využívalo, v likvidaci, vynálezcům je kolem osmdesátky, jejich případ je zastaven.</p>"
+---
+
+<!-- imported from the old website -->
+
+<h1>Ukradený vynález</h1><p><b>Spis. značka VOP 355/2004</b></p><p>Příběh vychází z podnětu veřejnému ochránci práv v němž se jedná o průtahy v řízení o zaplacení odměny za využití vynálezu vedené u okresního soudu již od roku 1991. Uvážíme-li, že soudní řízení bylo pravomocně skončeno až v roce 2004, jedná se o řízení vskutku dlouhodobé. Ochránce zahájil své šetření na základě podnětu zástupců kolektivu autorů vynálezu v roce 2004, když během projednávání této věci marně podali množství stížností na průtahy v soudním řízení okresnímu soudu, krajskému soudu i Ministerstvu spravedlnosti.</p><p>Ochránce šetřením zjistil, že nepřiměřenou délku řízení ovlivnily objektivní i subjektivní příčiny jako je změna soudce, častá nemocnost a nepřítomnost rozhodujícího soudce, ale také skutečnost, že se jednalo o právně a skutkově složitou věc. Soudní řízení bylo dlouhou dobu přerušeno, protože musela být nejprve vyřešena tzv. předběžná otázka, kterou posuzoval Úřad průmyslového vlastnictví. Průtahy byly rovněž shledány na straně znalce, který včas a řádně nespolupracoval se soudem, ale i na straně vyřizujícího soudce, jenž způsobil průtah od září 2002 do podzimu roku 2003. Celkovou délku řízení ovlivnila i nepříznivá personální situace u okresního soudu, kde byl dlouhodobý nedostatek soudců a navíc docházelo k jejich časté obměně, neboť přecházeli k olomoucké pobočce Krajského soudu v Ostravě a k Vrchnímu soudu v Olomouci.</p><p>Ochránce po skončení šetření konstatoval, že ačkoliv se stěžovatelé opakovaně a se zvýšenou frekvencí obraceli na soud a na orgány státní správy soudu, řízení trpělo průtahy, nadto některé stížnosti zůstaly bez věcného vyřízení. Stížnosti na průtahy v řízení je totiž nutno řádně vyřídit, i když nejsou adresovány k rukám předsedy soudu, a skutečnost, že jde o stížnost na průtahy v řízení je zřejmá až z obsahu přípisu (např. je označen jako žádost).</p>
