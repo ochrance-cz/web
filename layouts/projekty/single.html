@@ -44,7 +44,7 @@
     {{ end }}
   </section>
 
-  {{ with (where (where .Site.Pages "Section" "aktualne") "Params.project" .Params.slug) }}
+  {{ with (where (where .Site.Pages "Section" "aktualne") "Params.project" .Title) }}
     <div class="_backdrop news">
       <section class="_news single-col">
         <h2>{{ i18n "news" }} [TODO filtrování]</h2>

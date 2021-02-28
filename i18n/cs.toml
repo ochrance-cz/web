@@ -121,6 +121,9 @@ other = "Získejte přehled"
 [check-in]
 other = "Ozvěte se nám"
 
+[published]
+other = "Zveřejněno"
+
 [stay-in-touch]
 other = "Buďme v kontaktu"
 
@@ -156,3 +159,6 @@ other = "Mediální výstupy"
 
 [cares-about]
 other = "má na starosti"
+
+[go-to-sits]
+other = "Přejít na rozcestník"

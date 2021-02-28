@@ -13,15 +13,13 @@
       {{ .Content }}
     </section>
     <section class="_news single-col">
+      {{ $paginator := .Paginate (where .Pages "Section" "aktualne") 20 }}
 
-
-      {{ with index .Site.Taxonomies.vystupy .Params.slug }}
-        {{ range . }}
-          {{ partial "news-preview.html" . }}
-        {{ end }}
+      {{ range $paginator.Pages }}
+        {{ partial "news-preview.html" . }}
       {{ end }}
 
-      {{ partial "pagination.html" . }}
+      {{ partial "pagination.html" $paginator }}
     </section>
   </div>
 </main>

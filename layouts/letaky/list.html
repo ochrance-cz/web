@@ -3,25 +3,8 @@
   {{ partial "text-header.html" . }}
 
   <section>
-    {{ range .Site.Data.situace.situace }}
-      {{ $situace := . }}
-      <h2>{{ . }}</h2>
-
-      {{ range $.Pages }}
-        {{ if in .Params.category $situace }}
-        <article class="_article-preview">
-          <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-          {{ with .Params.perex }}
-            {{ partial "md-block.html" . }}
-          {{ end }}
-        </article>
-        {{ end }}
-      {{ end }}
-
-      {{ range where $.Pages . "in" "Params.category" }}
-
-      {{ end }}
-
+    {{ with .GetPage "/situace" }}
+      <p><a href="{{ .RelPermalink }}" class="_button">{{ .Title }}</a></p>
     {{ end }}
   </section>
 </main>

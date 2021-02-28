@@ -1,5 +1,11 @@
 <article class="_event-preview single-col">
-  <p class="date">{{ partial "date.html" (dict "date" (time .Params.startDate) "months" $.Site.Data.months) }}</p>
+  <p class="date">
+    {{ if eq $.Language.Lang "en" }}
+      {{ time .Params.startDate | dateFormat "January 2, 2006"}}
+    {{ else }}
+      {{ partial "date.html" (dict "date" (time .Params.startDate) "months" $.Site.Data.months) }}
+    {{ end }}
+  </p>
   <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
 
 

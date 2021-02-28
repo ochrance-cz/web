@@ -1,4 +1,4 @@
-{{ $pag := $.Paginator }}
+{{ $pag := . }}
 {{ if gt $pag.TotalPages 1 }}
 
 <section class="_pagination">

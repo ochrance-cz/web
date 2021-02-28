@@ -130,6 +130,9 @@ other = "We can help"
 [we-cannot-help]
 other = "We cannot help"
 
+[published]
+other = "Published on"
+
 [can-we-help]
 other = "Did you find we can help you?"
 
@@ -165,3 +168,6 @@ other = "Download the form"
 
 [dl-example]
 other = "Download examples"
+
+[go-to-sits]
+other = "Explore by life situations"

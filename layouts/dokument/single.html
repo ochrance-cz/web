@@ -12,7 +12,9 @@
 
       {{ .Content }}
 
-      TODO
+      {{ with .Params.file }}
+        <a href="{{ . }}" class="_button">Stáhnout dokument</a>
+      {{ end }}
     </section>
   </div>
 </main>
