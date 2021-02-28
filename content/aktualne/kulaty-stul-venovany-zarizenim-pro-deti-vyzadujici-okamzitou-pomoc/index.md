@@ -1,0 +1,12 @@
+---
+title: "Kulatý stůl věnovaný zařízením pro děti vyžadující okamžitou pomoc"
+tags:
+  - Detence
+oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2017/kulaty-stul-venovany-zarizenim-pro-deti-vyzadujici-okamzitou-pomoc/"
+date: 2017-03-08
+perex: "<p>Dne 7. března 2017 proběhl za účasti veřejné ochránkyně práv kulatý stůl věnovaný aktuálním problémům při poskytování ochrany a pomoci dětem v zařízeních pro děti vyžadující okamžitou pomoc. </p>"
+---
+
+<!-- imported from the old website -->
+
+<p>Jedná se o zařízení sociálně-právní ochrany pečující o děti, které se ocitly bez jakékoliv péče nebo děti, jejichž životy nebo příznivý vývoj jsou vážně ohroženy anebo se ocitly bez péče přiměřené jeho věku, děti tělesně nebo duševně týrané nebo zneužívané anebo o děti, které se ocitly v prostředí nebo situaci, kdy jsou závažným způsobem ohrožena jeho základní práva. Ochrana a pomoc takovým dětem má  spočívat nejen v uspokojování základních životních potřeb, ale také v poskytování výchovné péče, poradenství dítěti a jeho rodičům a zajištění odborné péče prostřednictvím sociálního pracovníka a psychologa. </p> <p>Účastníci byli pracovníky kanceláře seznámeni s doporučeními, které vzešly z návštěv devíti zařízení, jež probíhaly od března do listopadu roku 2016. Jednalo se zejména o problematiku pobytu dětí umístěných bez právního titulu, náležitostí dohody o umístění, dlouhodobé umístění a nežádoucí řetězení různých pobytových titulů, povolování pobytu mimo zařízení, vydávání správního rozhodnutí v případě zamítnutí žádosti o povolení pobytu mimo zařízení a zastoupení dítěte v běžných a nikoliv významných záležitostech. </p> <p>Pozornost byla věnována konkrétní absenci výchovné péče, nutnosti podpory rodinných vztahů, práci s rodinou, multidisciplinární spolupráci, iniciaci případových konferencí a spolupráci s orgánem sociálně-právní ochrany. Praktických otázek spojených s pobytem dítěte v zařízení se týkala problematiky vnitřních pravidel a stížnostního mechanismu, právu na sociální autonomii, kontaktu s osobami blízkými, právu sourozenců na společné umístění a kontaktu s přirozeným sociálním prostředím. </p><p> Z diskuzí vyplynulo, že zařízení mají mít krátkodobý, rodinný, azylový a překlenovací charakter, musejí poskytovat během přechodného pobytu okamžitou a krizovou pomoc, která primárně musí směřovat k návratu dítěte zpět do původní biologické rodiny, a pokud se toto nezdaří tak do náhradní péče s tím, že pěstounská péče má přednost před péčí ústavní.</p>

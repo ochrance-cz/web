@@ -1,0 +1,12 @@
+---
+title: "Ženy v EU vydělávají v průměru o 14,1 % méně než muži"
+tags:
+  - Diskriminace
+oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2020/zeny-v-eu-vydelavaji-v-prumeru-o-141-mene-nez-muzi/"
+date: 2020-12-14
+perex: "<p>Podle Evropské komise jsou nižší platy žen důsledkem řady nerovností, kterým čelí v přístupu k pracovním odměnám, v kariérním postupu či obecně v přístupu na trh práce. </p>"
+---
+
+<!-- imported from the old website -->
+
+<p>Při příležitosti Evropského dne rovného odměňování (European Equal Pay Day) zveřejnila Evropská komise údaje o průměrném rozdílu platů žen a mužů v EU. Z údajů vyplývá, že ženy stále vydělávají méně než muži, a to průměrně o 14, 1 %. Podle Komise došlo pouze k mírnému zlepšení oproti minulému roku, kdy průměrný rozdíl činil 14, 5 %. </p> <p>Evropský den rovného odměňování má za cíl upozornit na rozdíly v odměnách žen a mužů. Od tohoto dne ženy symbolicky přestávají dostávat odměnu, jakou dostávají muži za stejnou práci. Podle Komise tento den letos připadá na 10. listopad. Počínaje tímto dnem tak ženy až do konce roku symbolicky pracují zadarmo. </p> <p>Komise upozorňuje na značné rozdíly v platech žen a mužů mezi jednotlivými zeměmi. Ty se pohybují zhruba od 3 % až k více než 20 %. Nižší rozdíl mezi průměrným hodinovým výdělkem žen a mužů ale podle Komise automaticky neznamená, že jsou ženy lépe placeny. Nízký rozdíl v odměnách se totiž často objevuje v zemích s nízkou mírou zaměstnanosti žen. Vysoký rozdíl je zase charakteristický pro pracovní trh, ve kterém je vysoká koncentrace žen v nízkopříjmových sektorech a kde značná část žen pracuje na částečný úvazek.</p> <p>Do rozdílných výdělků žen a mužů se podle Komise promítá řada faktorů. Ženy jsou nadměrně zastoupeny v nízkopříjmových oblastech jako pečovatelství či učitelství, naproti tomu muži tvoří většinu (přes 80 %) v sektorech s vyššími příjmy, například ve vědě, inženýrství či v oblasti technologií. K dalším faktorů patří nerovné rozdělení práce v domácnosti a péče o děti mezi partnery, překážky v kariérním postupu či platová diskriminace, kdy jsou ženy placeny za stejnou či rovnocennou práci méně než muži.</p> <p> </p> <p>Více o tématu zde:</p> <p><a href="https://ec.europa.eu/info/policies/justice-and-fundamental-rights/gender-equality/equal-pay/equal-pay-day_en" target="_blank">https://ec.europa.eu/info/policies/justice-and-fundamental-rights/gender-equality/equal-pay/equal-pay-day_en</a></p>

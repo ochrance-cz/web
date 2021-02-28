@@ -1,0 +1,12 @@
+---
+title: "Návštěva slovinských kolegů"
+tags:
+  - Detence
+oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2012/navsteva-slovinskych-kolegu/"
+date: 2012-10-11
+perex: "<p>Pracovníci slovinského ombudsmana se účastnili několika systematických návštěv v českých zařízeních. S kolegy z oddělení dohledu nad omezováním osobní svobody pak diskutovali o rozdílech v postupu, vyměňovali si zkušenosti a náměty.</p>"
+---
+
+<!-- imported from the old website -->
+
+<p>Ve dnech 25. - 27. září navštívili ombudsmana a oddělení dohledu nad omezováním osobní svobody slovinští kolegové pověření výkonem tzv. národního preventivního mechanismu (NPM). Ten, obdobně jako český NPM, provádí preventivní návštěvy míst, kde se nacházejí osoby omezené na svobodě. </p><p>Ombudsman JUDr. Pavel Varvařovský seznámil slovinské kolegy se svou zákonnou pravomocí v souvislosti s prováděním preventivních návštěv a podpořil myšlenku předávání zkušeností získaných při provádění preventivních návštěv v mezinárodní rovině. </p><p>Slovinští kolegové projevili zájem zúčastnit se návštěv prováděných českým NPM a proto se v rámci svého pobytu stali součástí českého týmu, respektive tří týmů, a provedli s nimi systematické návštěvy zařízení. Zástupce slovinského ombudsmana Ivan Šelih, pověřený vedením NPM ve Slovinsku, provedl spolu s českými kolegy návštěvu policejních cel v Brně. Další návštěva se uskutečnila v zařízení sociálních služeb Villa Martha v Hrušovanech u Brna, které poskytuje službu domov se zvláštním režimem. Té se účastnil slovinský kolega Jure Markič. Ve Věznici Rapotice neproběhla klasická návštěva, ale ve spolupráci s vězeňskou službou informační exkurze, díky níž se mohl slovinský kolega Robert Gačnik seznámit s jednotlivými aspekty českého vězeňství a praktickým chodem české věznice. </p><p>Poslední den návštěvy byl věnován srovnávání postupů při provádění návštěv, zkušeností z návštěv probíhajících v nočních hodinách, formulování doporučení dle „smart kritérií“, provádění následných návštěv v krátkém časovém horizontu a sankcím. Slovinští kolegové např. upozornili na jejich dobrou zkušenost posilující prevenci před špatným zacházením spočívající ve zveřejňování jednotlivých doporučení, reakcí zařízení a jejich zřizovatelů či nadřízených orgánů přímo na webových stránkách. Diskutovány byly také zkušenosti se spoluprací s externisty, např. pedopsychiatry, gerontology či pedagogy. </p>

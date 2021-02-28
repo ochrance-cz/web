@@ -1,0 +1,12 @@
+---
+title: "Zřízení sekce pro děti z vyloučené lokality na místní škole byla diskriminace, uznalo město"
+tags:
+  - Diskriminace
+oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2020/zrizeni-sekce-pro-deti-z-vyloucene-lokality-na-mistni-skole-byla-diskriminace-uznalo-mest/"
+date: 2020-06-15
+perex: "<p>Dánský institut pro lidská práva uvedl, že vyčlenění speciální části školy pro tyto děti představuje diskriminaci z důvodu etnického původu.</p>"
+---
+
+<!-- imported from the old website -->
+
+<p>V roce 2018 rozhodlo město Herning v Dánsku, že na místní základní škole zřídí oddělenou část pro děti z vyloučené lokality Holtbjerg. Provoz oddělené části školy označované jako „sekce Holtbjerg“ byl zahájen v roce 2019. Žáci a žákyně prvního stupně pocházející z této lokality museli opustit svoje původní třídy a byli přeřazeni do tříd v „sekci Holtbjerg“, noví žáci a žákyně z této oblasti nastoupili do nových tříd v této sekci rovnou. Ve třídách „sekce Holtbjerg“ nakonec škola evidovala 64 žáků a žákyň, z nichž 63 patřilo k etnické menšině žijící v dané oblasti.</p> <p>Zřízení oddělené části školy kritizoval Dánský institut pro lidská práva (Institut for Menneskerettigheder, dále v textu „Institut“). Podle Institutu byl sice na provoz „sekce Holtjberg“ vyčleněn dostatečný objem finančních prostředků a bylo tak zřejmé, že má město zájem na jejím řádném fungování, avšak již samotná segregace je diskriminační. Zřizování oddělených tříd totiž vede ke stigmatizaci dětí, a to bez ohledu na výši vynaložených prostředků na provoz těchto tříd. Podle Institutu muselo být navíc městu jasné, že toto opatření povede k segregaci dětí z etnických menšin, které žijí v uvedené lokalitě. Institut se tak na základě výše uvedeného domníval, že v tomto případě došlo k diskriminaci z důvodu etnického původu. V listopadu 2019 proto podal stížnost místnímu Úřadu pro rovné zacházení (Ligebehandlingsnaevnet), aby celý případ prošetřil.</p> <p>V březnu letošního roku došlo mezi Institutem a městem Herning k mimosoudní dohodě, kdy město uznalo, že se neúmyslně dopustilo diskriminačního jednání a přislíbilo nápravu. Celý případ se tak uzavřel ještě před dalším šetřením.</p> <p> </p> <p>Více k případu zde:</p> <a href="https://www.equalitylaw.eu/downloads/5099-denmark-school-segregation-76-kb" target="_blank">https://www.equalitylaw.eu/downloads/5099-denmark-school-segregation-76-kb</a>

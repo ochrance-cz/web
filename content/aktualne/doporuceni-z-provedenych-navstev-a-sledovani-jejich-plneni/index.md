@@ -1,0 +1,12 @@
+---
+title: "Doporučení z provedených návštěv a sledování jejich plnění"
+tags:
+  - Detence
+oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2015/doporuceni-z-provedenych-navstev-a-sledovani-jejich-plneni/"
+date: 2015-05-04
+perex: "<p>Dne 29. dubna 2015 proběhla ve Vídni pod patronací Institutu Ludwiga Boltzmanna a Bristolské univerzity konference na téma „Jak posílit plnění doporučení národních preventivních mechanismů v zemích Evropské unie“. Český národní preventivní mechanismus reprezentoval Mgr. et Mgr. Ladislav Tomeček.</p>"
+---
+
+<!-- imported from the old website -->
+
+<p>Dílčí bloky konference se týkaly dialogu národního preventivního mechanismu s příslušnými státními orgány, zveřejňování doporučení, a to i ve sdělovacích prostředcích, a tvorby strategie pro naplňování doporučení. Ze studie, kterou provedly pořádající instituce ve státech Evropské unie, jež zřídily národní preventivní mechanismus, vyplynulo, že poměrně silnou stránkou všech národních preventivních mechanismů je provádění návštěv a formulování kvalitních doporučení. Z různých důvodů, např. právě z důvodů chybějící strategie, nedostatku personálních zdrojů nebo časové náročnosti, kterou představuje provádění návštěv, však není věnována dostatečná pozornost plnění doporučení. Potenciál prevence před špatným zacházením je tak často zbytečně promrhán. Je proto vhodné, aby si jednotlivé NPM vytvářely jakýsi akční plán, který bude zahrnovat dílčí a konkrétní kroky vedoucí k splnění jednotlivých doporučení. Dialog vedoucí k naplňování doporučení má být nejen vertikální a písemný, tedy vůči státu, ale zároveň horizontální, tzn. směrem k navštěvovaným zařízením a osobám, které přicházejí do kontaktu s těmi, kdo jsou omezeni na osobní svobodě či těmi, kdo jsou závislí na poskytované péči. </p><p>V této souvislosti poukázal pracovník oddělení dohledu nad omezováním osobní svobody reprezentující Českou republiku na dobrou zkušenost, kterou představuje pořádání kulatých stolů se zástupci navštívených zařízení, nebo pořádání konferencí, jejichž tématem byly prezentace zjištění z návštěv zařízení poskytujících péči osobám s demencí s ohledem na ochranu práv těchto osob. Dále pak poukázal na to, že účinnou formu plnění doporučení představují také probíhající školení policistů, jejichž tématem jsou práva osob umístěných v policejních celách a vybraná judikatura Evropského soudu pro lidská práva.</p>

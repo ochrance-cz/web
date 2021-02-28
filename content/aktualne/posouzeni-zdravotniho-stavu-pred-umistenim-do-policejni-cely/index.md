@@ -1,0 +1,12 @@
+---
+title: "Posouzení zdravotního stavu před umístěním do policejní cely"
+tags:
+  - Detence
+oldUrl: "/ochrana-osob-omezenych-na-svobode/aktuality-z-detenci/aktuality-z-detenci-2012/posouzeni-zdravotniho-stavu-pred-umistenim-do-policejni-cely/"
+date: 2012-07-10
+perex: "<p></p>"
+---
+
+<!-- imported from the old website -->
+
+<p>Během provádění systematických návštěv policejních cel v květnu 2012 se ochránce setkal s problematikou týkající se poskytovatele zdravotní služby, tj. určení konkrétního poskytovatele, který vyšetří osobu z důvodu zjištění, zda ji lze umístit do policejní cely nebo je nutno ji z ní propustit. Ochránce se setkal s názorem, že po 1. dubnu 2012, kdy nabyl účinnosti zákon č. 372/2011 Sb., o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách), si poskytovatele může určit sama osoba, která má být do cely umístěna či z ní být propuštěna. Zákon o zdravotních službách v ust. § 28 odst. 3 písm. b) výslovně garantuje právo pacienta zvolit si poskytovatele oprávněného k poskytnutí zdravotních služeb, které odpovídají zdravotním potřebám pacienta, a zdravotnické zařízení, pokud tento zákon nebo jiné právní předpisy nestanoví jinak. Zároveň pak dle ust. § 29 odst. 2 písm. d) zákona o zdravotních službách platí, že se možnost volby poskytovatele a zdravotnického zařízení nevztahuje na osoby umístěné v policejních celách zřízených u útvarů Policie České republiky; tyto osoby si mohou na své vlastní náklady přizvat k poskytnutí zdravotních služeb zvoleného zdravotnického pracovníka. </p>Je potřeba vzít v úvahu fakt, že zákon o zdravotních službách má povahu „lex generalis“. Přednost však má i nadále speciální právní úprava, kterou v tomto případě představuje zákon č. 273/2008 Sb., o Policii České republiky, ve znění pozdějších předpisů. Dle ust. § 24 odst. 5 zákona o Policii České republiky platí, že osoba omezená na svobodě má právo nechat se vyšetřit nebo ošetřit lékařem podle svého výběru; to neplatí pro vyšetření lékařem ke zjištění, zda ji lze umístit do policejní cely nebo je nutno ji z ní propustit. Policie za účelem ošetření nebo vyšetření umožní přístup lékaře k této osobě. Z uvedeného „lex specialis“ vyplývá, že o tom, zda lze osobu umístit do policejní cely nebo je nutno ji z ní propustit, rozhoduje vždy poskytovatel zdravotních služeb, se kterým Policie ČR spolupracuje či na kterého se v této věci Policie ČR obrátí, nikoli poskytovatel zvolený umísťovanou osobou.

@@ -1,0 +1,12 @@
+---
+title: "Rada Evropy vydala publikaci, jejímž cílem je boj proti nenávistným projevům"
+tags:
+  - Diskriminace
+oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2017/rada-evropy-vydala-publikaci-jejimz-cilem-je-boj-proti-nenavistnym-projevum/"
+date: 2017-08-29
+perex: "<p>Publikovaná příručka, kterou vydala Rada Evropy, představuje soubor on-line a off-line komunikačních a vzdělávacích přístupů a nástrojů, pomocí nichž chce poukázat na projevy nenávisti zejména v on-line prostředí. Jejím cílem je kromě boje proti nenávistným projevům také podpora lidských práv.</p>"
+---
+
+<!-- imported from the old website -->
+
+<p>Cílem publikace je přimět ke spolupráci mládež, pedagogy a pedagožky a další aktivisty a aktivistky, kteří se zabývají vzděláváním v oblasti lidských práv, nebo jsou ochotni být do této oblasti zapojeni. Publikace WE CAN! byla vydána v rámci kampaně Rady Evropy „No Hate Speech Movement“, která se týká oblasti lidských práv v on-line sféře a je určena především pro mládež. </p> <p>V dnešní Evropě jsou podle generálního tajemníka Rady Evropy Thorbjørna Jaglanda nenávistné projevy jednou z nejčastějších forem netolerance a xenofobie a jsou hrubým porušením lidských práv. Nenávistné projevy se objevují zejména v on-line sféře, protože anonymní uživatelé a uživatelky mohou velmi snadno vyjadřovat nenávist vůči ostatním. Tyto nenávistné projevy mohou ovlivnit nejenom život jedinců, vůči kterým je nenávist směřována, ale také celou společnost jako celek. Anonymní uživatelé nejčastěji urážejí ostatní kvůli rase, náboženství, sexuální orientaci nebo pohlaví. Mnozí z těchto uživatelů ale zapomínají, že je policie může snadno dohledat pomocí jedinečné IP adresy počítače, ze kterého tito uživatelé komunikují. Sociální média, skrze která je nenávist často šířena, značně změnila způsob, kterým komunikujeme, a mladí lidé skrze ně utvářejí společenské vztahy. </p> <p>Další informace: <a title="Otevření do nového okna" href="http://www.equineteurope.org/We-can-Taking-action-against-hate-speech-through-Counter-and-Alternative" target="_blank">http://www.equineteurope.org/We-can-Taking-action-against-hate-speech-through-Counter-and-Alternative</a> <img alt="" src="https://www.ochrance.cz/typo3/ext/od_linkdesc/icons/external.gif" class="od_linkdesc_icon_external" /> </p> <a href="https://rm.coe.int/wecan-eng-final-23052017-web/168071ba08" target="_blank">https://rm.coe.int/wecan-eng-final-23052017-web/168071ba08</a>

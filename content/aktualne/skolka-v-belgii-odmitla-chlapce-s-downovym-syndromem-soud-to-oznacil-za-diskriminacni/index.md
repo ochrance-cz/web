@@ -1,0 +1,12 @@
+---
+title: "Školka v Belgii odmítla chlapce s Downovým syndromem, soud to označil za diskriminační"
+tags:
+  - Diskriminace
+oldUrl: "/diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2019/skolka-v-belgii-odmitla-chlapce-s-downovym-syndromem-soud-to-oznacil-za-diskriminacni/"
+date: 2019-04-10
+perex: "<p>Belgický soud první instance proto udělil školce pokutu ve výši 650,- EUR.</p>"
+---
+
+<!-- imported from the old website -->
+
+<p>Belgický soud v Antverpách se v listopadu 2018 zabýval případem chlapce, kterého školka odmítla kvůli jeho zdravotnímu postižení. Chlapec s Downovým syndromem navštěvoval místní školku jeden rok. Jeho rodiče si přáli, aby další rok v této školce pokračoval, ta však chlapce tentokrát odmítla. Vedení školky totiž uspořádalo mezi vyučujícími průzkum, ve kterém zjišťovalo, kdo z vyučujících si vezme chlapce do své třídy a bude schopen mu poskytnout náležitou podporu. V uvedeném průzkumu se vyjádřili negativně všichni vyučující. Vedení školky tak rodičům sdělilo, že si musí najít jinou školku, protože na další rok již chlapce nepřijmou. Rodiče chlapce se proto obrátili na belgický orgán pro rovné zacházení UNIA (Interfederal Centre for Equal Opportunities), který celý případ dovedl k soudu.</p><p>Soud první instance ve svém rozhodnutí uvedl, že se školka v tomto případě dopustila diskriminačního jednání. Soud shledal, že vedení školky mělo povinnost zajistit přiměřená opatření, která by chlapci umožnila účast v předškolním vzdělávání spolu s dětmi z majoritní společnosti. Soud připomněl, že umisťování dětí se zdravotním postižením do speciálních vzdělávacích zařízení by se mělo provádět pouze ve výjimečných případech. Podle soudu jsou proto veškerá opatření nutná k začlenění dětí se zdravotním postižením v principu přiměřená, pokud tato opatření nepředstavují nepřiměřenou zátěž. Školka nicméně v tomto případě nijak neprokázala, že potřebná opatření by pro ni byla nepřiměřená. Vhodná opatření vůbec nezvažovala a nepřijetím chlapce tak porušila zákon o rovných příležitostech a rovném zacházení. </p><p>Soud rovněž stanovil, že školka musí rodině chlapce zaplatit 650,- EUR jako odškodné za morální újmu.</p><p> </p><p>Informace k případu zde:</p><a href="https://www.equalitylaw.eu/downloads/4762-belgium-the-first-instance-court-of-antwerp-fosters-inclusive-education-pdf-97-kb" target="_blank">https://www.equalitylaw.eu/downloads/4762-belgium-the-first-instance-court-of-antwerp-fosters-inclusive-education-pdf-97-kb</a>
