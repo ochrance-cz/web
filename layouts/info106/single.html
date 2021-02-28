@@ -16,12 +16,16 @@
   <div {{ with .Params.contentBackdrop }} class="{{ . }}"{{ end }}>
     <section>
       {{ with .GetPage "/info106" }}
+      <nav>
         <ul class="_horizontal-list">
           {{ range (sort .Pages ".File.Path" "desc") }}
               <li><a href="{{ .RelPermalink }}" {{ if eq .RelPermalink $.RelPermalink }}class="selected"{{ end }}>{{ .Title }}</a></li>
           {{ end }}
         </ul>
+      </nav>
       {{ end }}
+
+      <h2>{{ if lt 2000 .Title }}Informace podle zákona 106/1999 Sb. za rok{{ end }} {{ .Title }}</h2>
 
       {{ with .Params.perex }}
         <div class="perex">
