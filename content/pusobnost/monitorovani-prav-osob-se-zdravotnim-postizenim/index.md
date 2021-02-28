@@ -1,5 +1,5 @@
 ---
-title: Monitorování práv lidí s postižením
+title: Monitorování práv lidí s postižením
 illustration: monitorovani.jpg
 headerColor: yellow
 perex: Od roku 2018 monitorujeme, jak Česká republika naplňuje práva zakotvená
