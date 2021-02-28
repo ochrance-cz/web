@@ -1,0 +1,20 @@
+._tag {
+  display: inline-block;
+  white-space: nowrap;
+  background: $green-bright;
+  font-size: 1rem;
+  text-transform: uppercase;
+  padding: 0.2rem 1rem;
+  border-radius: 1rem;
+  vertical-align: baseline;
+}
+
+._tag.on-green {
+  background: $white;
+}
+
+._tags {
+  display: block;
+  float: right;
+  margin: 0 0 1rem 1rem;
+}

@@ -4,9 +4,15 @@
       <p><img src="{{ . }}" width="50"></p>
     {{ end }}
     {{ with .Params.date }}
-      <p class="date">
+      <p class="details">
         Zveřejněno
         {{ partial "date.html" (dict "date" . "months" $.Site.Data.months) }}
+
+        {{ with $.Params.tags }}
+          {{ range . }}
+            <span class="_tag on-green">{{ . }}</span>
+          {{ end }}
+        {{ end }}
       </p>
     {{ end }}
     <h1>{{ block "title" . }}{{ .Title }}{{ end }}</h1>

@@ -17,10 +17,28 @@
     <section>
       {{ with .GetPage "/info106" }}
       <nav>
-        <ul class="_horizontal-list">
-          {{ range (sort .Pages ".File.Path" "desc") }}
+        <ul class="_horizontal-list more">
+          {{ range first 4 (sort .Pages ".File.Path" "desc") }}
               <li><a href="{{ .RelPermalink }}" {{ if eq .RelPermalink $.RelPermalink }}class="selected"{{ end }}>{{ .Title }}</a></li>
           {{ end }}
+
+          {{ $random := delimit (shuffle (split (md5 now.Unix) "" )) "" }}
+          <li class="_more-collapsible">
+            <input type="checkbox" id="nav-opener-{{ $random }}">
+            <div class="box">
+              <p class="title">
+                <label for="nav-opener-{{ $random }}">
+                  Starší
+                </p>
+              </span>
+              <ul>
+                {{ range after 4 (sort .Pages ".File.Path" "desc") }}
+                  <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+                {{ end }}
+              </ul>
+            </div>
+          </li>
+
         </ul>
       </nav>
       {{ end }}

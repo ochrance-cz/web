@@ -10,8 +10,16 @@
   {{ end }}
 
   <div>
+    {{ with $.Params.tags }}
+      <p class="_tags">
+        {{ range . }}
+          <span class="_tag">{{ . }}</span>
+        {{ end }}
+      </p>
+    {{ end }}
+
     {{ with .Params.date }}
-      <p class="date">
+      <p class="details">
         {{ partial "date.html" (dict "date" . "months" $.Site.Data.months) }}
       </p>
     {{ end }}
