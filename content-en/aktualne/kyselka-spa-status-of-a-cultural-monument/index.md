@@ -1,0 +1,12 @@
+---
+title: "Kyselka Spa – status of a cultural monument"
+tags:
+  - News
+oldUrl: "/en/news/press-releases-2010/kyselka-spa-status-of-a-cultural-monument/"
+date: 2010-11-19
+perex: "<p></p><p>State monument preservation bodies failed to meet their commitments as imposed by the law and their lack of action means that the protected sites in the former spa complex in Kyselka can no longer be saved.</p>"
+---
+
+<!-- imported from the old website -->
+
+<p>In 2010 the Deputy Defender dealt with a case relating to the spa in Kyselka. This case shares closely ties with monumental care. During the investigation the Deputy Defender referred to the fact that if the state has an interest in monumental protection, in cases where the owner of a particular site takes no action, the state is obliged to take essential steps to save the listed building and then claim the costs of such work from the owner. The state of the protected sites in Kyselka is proof of what can happen if lack of action on the part of the owner is accompanied by a similar lack of action on the part of the state and state bodies, including the institute allowing for the alternative enforcement of decisions, which does not work.</p><p>In 2010 the case had reached the point where an appraisal by the National Monuments Institute deemed that the structural and technical condition of the spa complex, including the Mattoni Villa, was in a state of emergency. In the opinion of the National Monuments Institute there is nothing to prevent the building authority from ordering that buildings which pose a risk to the public and to traffic be demolished. According to the Ministry of Culture, the buildings were now in such a serious state of disrepair that the preservation of the valuable artistic and historical interiors could not be guaranteed. Therefore the Ministry of Culture took steps aimed at declassifying the former spa complex in Kyselka, or at least part of it, as a cultural monument.</p><p>It should be said that despite the Deputy Defender’s efforts to urge state monument preservation bodies to comply with their obligations, and despite meetings with the heads of the Ministry of Culture and the National Monuments Institute, the bodies in the monumental care section failed to meet their commitments as imposed by the law and their lack of action means that the protected sites in the former spa complex in Kyselka can no longer be saved. This case highlights the complete failure of monumental care.</p><p></p><p></p>

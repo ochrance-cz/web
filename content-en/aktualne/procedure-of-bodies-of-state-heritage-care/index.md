@@ -1,0 +1,12 @@
+---
+title: "Procedure of bodies of State Heritage Care"
+tags:
+  - News
+oldUrl: "/en/news/press-releases-2017/procedure-of-bodies-of-state-heritage-care/"
+date: 2017-09-04
+perex: "<p></p>"
+---
+
+<!-- imported from the old website -->
+
+<p>Deputy Ombudsman learned from publicly available information sources about a protest of numerous citizens of Česká Třebová against a structure overshadowing the St. Catherine Rotunda, a protected monument. The citizens complained against the structure by lodging a petition in which they argued that the structure overshadowed the heritage site, which had used to be the dominant feature of the hill. They expected a simple reconstruction of a house, yet the construction works were much larger in scope. Therefore, they wished to restart the construction permit proceedings. Critics of the structure complained that the house under construction did not have the original (more appropriate) hipped roof and that the roof loggias significantly exceed the perimeter walls.</p> <p>Following investigation in the matter, the Deputy Ombudsman reached a conclusion that the body of State Heritage Care had erred as it had not sufficiently justified its binding opinion in which it had found the construction modifications proposed by the developer to be permissible and it had not duly dealt with all the objections against the project voiced by the National Heritage Institute, especially the objection that the implementation of the construction work would result in direct confrontation with the St. Catherine Rotunda in both the short and long-distance panoramas.</p> <p>In the report on the results of the inquiry, the Deputy Ombudsman also mentioned that the parties to the planning and construction proceedings had not made timely use of their procedural rights including lodging ordinary remedies. They did not object to the construction during the procedure, did not acquaint themselves with the contents of the file (including project documentation) and did not even take advantage of the possibility to lodge an appeal against the construction permit.</p> <p>Given that the final form of the building including the problematic elements of a changed roof shape, massive dormers and loggias exceeding the facade of the building is currently supported by a final and unreviewable construction permit, the Deputy Ombudsman decided to close the case and not pursue the inquiry any further.</p>

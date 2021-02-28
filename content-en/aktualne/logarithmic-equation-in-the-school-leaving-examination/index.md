@@ -1,0 +1,12 @@
+---
+title: "Logarithmic equation in the school-leaving examination"
+tags:
+  - News
+oldUrl: "/en/news/press-releases-2017/logarithmic-equation-in-the-school-leaving-examination/"
+date: 2017-12-14
+perex: "<p></p>"
+---
+
+<!-- imported from the old website -->
+
+<p>The ombudsman was notified by the professional public that students taking their school-leaving exam in the spring of 2016 had to solve a logarithmic equation as a part of the didactic test in mathematics [”For <i>x ∈ R</i>, find the equation definition field (conditions) and resolve the equation: <i>log8 &ndash; log2 = log⁡(2x-2) / 2</i>.“], even though such teaching material is not included in the framework educational programme for secondary vocational schools.</p> <p>According to the Schools Act, the purpose of the school-leaving exam is to check whether the students reached the goals of education stipulated by the framework and school educational programmes. The framework educational programme (FEP) is a document through which the Ministry of Education, Youth and Sports defines the mandatory contents, scope and conditions of education. That is why teaching materials that are not included in the programme cannot be part of the school-leaving exam.</p> <p>Only logarithmic functions and logarithms are included in the framework educational programme for vocational schools, not logarithmic equations (this is different to the FEP for academic secondary schools, in which logarithmic equations are expressly included). The ombudsman therefore considered including a logarithmic equation unlawful, as it allowed to test a skill that the students of secondary vocational school do not have to have.</p> The Ministry did not agree with such conclusion. It believes that the FEPs only contain general expected outputs, which are then specified in more detail by other documents. Nevertheless, the Ministry is preparing a comprehensive amendment to the mathematic educational area of FEP for secondary vocational schools effective as of the 2019/2020 school year. The “logarithmic equations” teaching material will be expressly added to the FEP. For that reason, the ombudsman decided not to exercise her other authorisations for immediate remedy. Until the Ministry changes the FEP for secondary vocational schools, the students taking the school-leaving exam can lodge an action against including logarithmic equations individually.

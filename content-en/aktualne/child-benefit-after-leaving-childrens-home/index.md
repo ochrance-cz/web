@@ -1,0 +1,12 @@
+---
+title: "Child benefit after leaving children’s home"
+tags:
+  - News
+oldUrl: "/en/news/press-releases-2014/child-benefit-after-leaving-childrens-home/"
+date: 2014-05-19
+perex: "<p></p>"
+---
+
+<!-- imported from the old website -->
+
+<p>The Defender received a complaint with request for help from a complainant who upon his 18th birthday left a children’s home and found his own housing. With respect to his studies he had applied for benefits of assistance in material need. The Labour Office of the Czech Republic, regional branch for the Capital City of Prague (the “labour office”) had called on him to submit a confirmation of the children’s home that he could no longer stay in the children’s home. On grounds of the complainant's leaving the children’s home, the labour office had withdrawn the child benefit.</p><p>An inquiry into the complaint showed that the requirement of the labour office to submit a confirmation of the children’s home that the complainant could not stay in the children’s home was unreasonable and in violation of the Act on Assistance in Material Need (Act No. 111/2006 Coll., as amended). It is a right and not a duty of a dependent child continuing studies to stay voluntarily in a children’s home until the age of 26 even after reaching the legal age and the termination of institutional education. In assessing an entitlement to a subsistence allowance, the labour office should not take into consideration that the dependent child has decided to leave the children’s home.</p><p>In addition, the labour office had proceeded in violation of the Act on State Social Support (Act No. 117/1995 Coll., as amended) when it had removed the child benefit of the complainant. If statutory conditions are met, a child is entitled to a child benefit. In case of a dependent minor in a children’s home, the benefit is paid to the children’s home, which also represents the child in benefit proceedings. After the child reaches legal age, he or she does not lose entitlement to the child benefit – only the benefit recipient changes because after the child reaches legal age, the benefit may be paid directly to the child. The labour office then stops paying benefits to the children’s home.</p>The labour office agreed with the conclusions. In order to prevent similar situations in future, it adopted an internal rule setting a duty to provide social counselling and to record in writing any dealings with clients.

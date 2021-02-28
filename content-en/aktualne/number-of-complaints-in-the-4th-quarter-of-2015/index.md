@@ -1,0 +1,12 @@
+---
+title: "Number of complaints in the 4th quarter of 2015"
+tags:
+  - News
+oldUrl: "/en/news/press-releases-2016/number-of-complaints-in-the-4th-quarter-of-2015/"
+date: 2016-01-29
+perex: "<p></p>"
+---
+
+<!-- imported from the old website -->
+
+<p>A total of <b>1,649</b> complaints were received in the 4th quarter of 2015, which is <b>349 </b>less than in the same period last year. The Defender was approached by 1,053 persons in matters falling within my competence under the law, which is 140 less than in the 4th quarter of the last year. <b>Thus, the proportion of complaints falling within the Defender’s mandate increased to 64%</b> (the figure for the last year was 58%). Most complaints were related to social security (268 complaints); many complaints (111) concerned the area of construction proceedings and spatial planning and also the prison system, police and army (85).</p> <p>In <b>59 </b>of the complaints received, the complainants claimed unequal treatment by public administration and private individuals. The number of complaints directed against discrimination in the sense of the Anti-discrimination Act reach<a name="_GoBack"></a>ed <b>35</b>. In <b>15 </b>cases, we also provided information and analyses related to discrimination to international parties and national bodies. </p> <p>In the fourth quarter, we performed <b>3 </b>systematic visits to facilities where persons restricted in their freedom are or may be present. In the area of monitoring detention of foreign nationals and performance of administrative expulsion, we monitored <b>1,728 </b>decisions. </p> <p>The following figure illustrates the numbers of complaints.</p> <p></p><ul><li><span style="line-height: 17.92px; font-size: 12.8px;"><b>64%</b> – the share of complaints in Q4 falling within the Defender’s competence, meaning we can initiate inquiry</span></li><li><span style="line-height: 17.92px; font-size: 12.8px;"><b>1,649 </b>complaints were lodged in Q4 2015, of which:</span></li><li><span style="line-height: 17.92px; font-size: 12.8px;"><b>268 </b>concerned the area of social security</span></li><li><span style="line-height: 17.92px; font-size: 12.8px;"><b>111 </b>concerned the area of construction and spatial planning</span></li><li><span style="line-height: 17.92px; font-size: 12.8px;"><b>85 </b>concerned the area of prisons, police and the army construction</span></li></ul><p></p>

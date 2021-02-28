@@ -1,0 +1,12 @@
+---
+title: "The Czech Equality Body publishes the summary report 2017"
+tags:
+  - News
+oldUrl: "/en/news/press-releases-2018/the-czech-equality-body-publishes-the-summary-report-2017/"
+date: 2018-05-16
+perex: "<p></p><p>The Equality Body of the Czech Republic &ndash; the Ombudswoman – published the <a href=\"https://www.ochrance.cz/fileadmin/user_upload/DISKRIMINACE/Vyrocni_zpravy/Summary_report_on_protection_against_discrimination_2017.pdf\" target=\"_blank\">summary report for the year 2017</a> informing about her main activities in the field of protection against discrimination.</p>"
+---
+
+<!-- imported from the old website -->
+
+<p>The Ombudswoman received <b>384 complaints</b> concerning discrimination in 2017, most of them from the area of <b>work and employment</b>. In the year 2017, people mostly complained about <b>discrimination on the grounds of disability</b>. Ombudswoman established discrimination in 40 individual cases.</p> <p>In the <b>summary report 2017</b>, you can find especially (but not only)</p><ul><li>The overview of the number of complaints received by the Ombudswoman in 2017</li><li>The main problems people had mostly to deal with in the area of discrimination</li><li>Concrete cases in which the Ombudswoman helped people who faced discrimination in their lives</li><li>The overview of the most important cases in the field of anti-discrimination law of Czech courts, the European Court of Human Rights and the Court of Justice of the EU</li><li>Legislative recommendations made by the Ombudswoman since 2013</li><li>Cooperation of Ombudswoman with NGOs and international actors</li><li>Information about the Survey concerning the work-life balance on the Czech Ministries</li><li>More detailed information about the “topics of the year” such as protection against discrimination on the grounds of race, ethnicity and nationality, combating hate speech, rights of parents, rights of HIV positive people, etc. </li></ul> <p>The summary report specifically deals with raising awareness activities of Ombudswoman and some welcome developments made by various stakeholders.</p> <p>The summary report on the protection against discrimination was sent to administrative bodies, legislators, NGOs, social partners, academic experts and international organizations. </p> <p> </p> <p>Contact person: <a href="mailto:petr.polak@ochrance.cz">petr.polak@ochrance.cz</a> </p> <p></p>

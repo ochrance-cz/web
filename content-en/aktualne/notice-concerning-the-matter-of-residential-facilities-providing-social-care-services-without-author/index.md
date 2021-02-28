@@ -1,0 +1,12 @@
+---
+title: "Notice concerning the matter of residential facilities providing social care services without authorisation"
+tags:
+  - News
+oldUrl: "/en/news/press-releases-2015/notice-concerning-the-matter-of-residential-facilities-providing-social-care-services-without-author/"
+date: 2015-12-17
+perex: "<p></p>"
+---
+
+<!-- imported from the old website -->
+
+<p>In the past quarter, the Defender exercised her power under the Public Defender of Rights Act and approached the Government with the findings she obtained in systematic visits of nine facilities providing their clients, aside from accommodation and meals, with services identical in terms of content to social care services, without having obtained the necessary authorisation under Section 78 et seq. of Act No. 108/2006 Coll., on social services, as amended. The Defender found ill-treatment and violations of fundamental rights and freedoms, respectively, of the accommodated persons in all the visited unregistered residential social services facilities. Some of the findings were so alarming that the Defender reported them to the prosecuting bodies.</p> <p>This is a systemic problem which may only be addressed by the Ministry of Labour and Social Affairs in close co-operation with other Ministries as well as the regional and municipal authorities. In the Defender’s opinion, the solution must not consist solely in repression against the unregistered residential social services facilities. Systemic steps need to be taken to ensure sufficient supply on the part of the registered social care services, increasing their availability.</p> <p>In the document, the Defender suggested that the Government task the Minister of Labour and Social Affairs with preparing a plan of measures to deal with the availability of social care services (for which the unregistered facilities substitute) and, further, to co-operate with regional and municipal authorities to prepare a plan of measures to actively search for and help persons who receive services from unregistered facilities, or who may receive them in the future. The Minister of Labour and Social Affairs is to incorporate both documents into the planned National Strategy for Development of Social Services in 2016–2020, which is to be submitted for the Government’s approval by 31 December 2015.</p> <p>The submitted document was discussed by the Government on 5 October 2015; the Government accepted the Defender’s recommendations.</p>

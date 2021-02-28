@@ -1,0 +1,12 @@
+---
+title: "Exercise of social and legal protection of sexually abused children"
+tags:
+  - News
+oldUrl: "/en/news/press-releases-2010/exercise-of-social-and-legal-protection-of-sexually-abused-children/"
+date: 2010-02-10
+perex: "<p></p><p>Based on news in the media, the Defender opened an inquiry into the procedure of the children’s home in Uherský Ostroh and the Brno-north municipal office. </p>"
+---
+
+<!-- imported from the old website -->
+
+<p>The objective of the inquiry is to ascertain whether both institutions could have prevented the abuse of a boy from a children’s home who, as the winner of a contest for <i>“a child’s stay with a V.I.P.”, </i>was sent to stay with the organiser of the contest without checking the situation there, after which the organiser of the contest sexually abused the child. The Defender concluded, based on the inquiry undertaken, that the head of the children’s home had not proceeded in accordance with the Act on the Exercise of Institutional Education and Protective Education and the Act on Social and Legal Protection of Children in permitting the stay since she enabled, without written consent of the body of social and legal protection of children (BSLPC), the boy to stay with Mr H. (now convicted) who sexually abused him. In the Defender’s opinion, she should bear responsibility for breaching her statutory obligation, sending the child to the stay without properly checking the situation, and without consent from the BSLPC, thereby enabling Mr H. to abuse the child. The Defender sent a report containing his conclusions to the authorities concerned. Since the Defender did not find the statements of the authorities obtained by him to be sufficient, he issued a final statement where he also formulated proposals for remedial measures. Given the nature of one of the proposed measures (labour-law punishment of the head of the home established by the Region), the Defender addressed the Regional President of the Zlín Region with a request that the case be presented at the meeting of the Council of the Zlín Region. The Defender was advised that it had been discussed with the heads of the children’s homes established by the Zlín Region how to proceed in similar situations and personal extra pay was withdrawn in full from the head of the Children’s Home in Uherské Hradiště and the matter was again discussed with her. Since the proposed measures were fulfilled, the Defender closed the case. </p>

@@ -1,0 +1,12 @@
+---
+title: "Joint recommendations of the Ministry of Labour and Social Affairs and the Public Defender of Rights on Sheltered Housing"
+tags:
+  - News
+oldUrl: "/en/news/press-releases-2010/joint-recommendations-of-the-ministry-of-labour-and-social-affairs-and-the-public-defender-of-rights/"
+date: 2010-03-01
+perex: "<p></p><p>In connection with the amendment to the Social Services Act effective since August 1, 2009, the Defender together with the Ministry of Labour and Social Affairs issued recommendations concerning sheltered housing. </p>"
+---
+
+<!-- imported from the old website -->
+
+<p>One of the changes brought by the amendment was that the users of the sheltered housing service are no longer subject to the guaranteed minimum balance of income after the payment of meals and accommodation, equal to 15% of income. Simultaneously, the Assistance in Material Need Act was amended, enabling a user of sheltered housing who lacks funds to provide for his basic living conditions to use the possibility of social protection within the system of assistance in material need. It is obvious from the Defender’s findings that the providers of the sheltered housing service feared before the date of effect of the aforementioned amendment and still fear that clients are left with no funds after payment of accommodation and meals or, if the payments are decreased so as to avoid the aforementioned situation, this will mean an increased financial burden which may be impossible to cover. There is also some lack of clarity related to the conditions for use of assistance from the system of assistance in material need. Thus, it is necessary in the light of the foregoing that the provider set an amount of payments for each user of sheltered housing that will provide for his/her accommodation and meals, but also satisfy other basic personal needs where the person concerned will be able to participate in society and live in a manner which is considered to be normal by society. The Defender together with the Ministry of Labour and Social Affairs explained in detail in the recommendation what the procedure of the providers of sheltered housing and their clients should be after August 1, 2009. The statement was accompanied by comprehensible examples of the possibilities of drawing the subsistence allowance and contribution for housing based on reasons deserving special attention.</p><p></p><p></p>

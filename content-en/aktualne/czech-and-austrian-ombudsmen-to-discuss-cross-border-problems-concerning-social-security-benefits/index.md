@@ -1,0 +1,12 @@
+---
+title: "Czech and Austrian Ombudsmen to discuss cross-border problems concerning social security benefits"
+tags:
+  - News
+oldUrl: "/en/news/press-releases-2018/czech-and-austrian-ombudsmen-to-discuss-cross-border-problems-concerning-social-security-benefits/"
+date: 2018-02-26
+perex: "<p>Anna Šabatová, Czech Ombudswoman, and Günther Kräuter, one of three Austrian Ombudsmen, together with their colleagues from the social security departments met in Vienna on the 20th February and discussed the cross-border problems concerning the application of the EU Regulation on the Coordination of Social Security Systems in the EU Member States.</p>"
+---
+
+<!-- imported from the old website -->
+
+<p>The meeting followed after the meeting from November 2017 in Mikulov which has started the cooperation between the two ombudsmen’s offices in matters concerning both concrete cross-border cases and systematic problems from the area of EU social security law (especially family benefits).</p> <p>The problematic cases concern mostly parents who live in a different EU Member State than they actually work and ask for family benefits in one of these states. The applicants usually wait for months, even years until their claims are processed by the public authorities. There are two main reasons causing the delays – public authority dealing with the case is overloaded and therefore the administrative procedure takes too long or the question of which state is competent to process the claim and pay the benefits is unclear.</p> <p>In the first case, the service SOLVIT can help to make the whole process quicker or smoother. In the second case, however, the situation is more complicated because there is no conclusion between the public authorities from the EU Member States concerned on which of them is competent, and therefore obliged to deal with the claim.</p><p> The number of claims concerning the above mentioned issues is gradually increasing in both countries. Mr. Günther Kräuter and Ms. Anna Šabatová came to conclusion that this issue shall be brought to attention during the annual European Network of Ombudsmen Conference in Brussels in the beginning of March this year. The cooperation between the Czech and Austrian Ombudsman Institutions shall continue in order to support each other in addressing the difficulties connected with the interpretation and rightful application of the EU Regulation on the Coordination of Social Security Systems. </p>

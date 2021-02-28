@@ -1,0 +1,12 @@
+---
+title: "Focus on care for the elderly"
+tags:
+  - News
+oldUrl: "/en/news/press-releases-2013/focus-on-care-for-the-elderly-1/"
+date: 2013-03-15
+perex: "<p>Ombudsman started visits of facilities for seniors. His research reveals that three quarters of regional facilities for seniors write on their websites that they will not admit persons treated for a mental disease (including dementia) or people who had problems with alcohol sometimes in their life.</p>"
+---
+
+<!-- imported from the old website -->
+
+<p>Ombudsman has started systematic visits to homes for elderly people and homes with special regime. Special attention will be mainly paid to treatment of persons suffering for dementia. The ombudsman wants to concentrate in the facilities on certain things, including prevention of unmanaged pain, enough privacy and placement in a facility in spite of disagreement of the person concerned. As the Ombudsman Pavel Varvarovsky mentioned, old people are reluctant to complain. &quot;They often fear that this will be used against them,&quot; he said at the press conference.</p><p>Representatives of the ombudsman's office will pay 12 unannounced visits to facilities for elderly people and homes with special regime by July 2013.</p><p>During preparation of visits the ombudsman performed research which found out, how the facilities are responsive to potential clients. Research concentrated on the websites of 183 regional facilities for elderly people. The ombudsman found that three quarters of these facilities will not admit persons treated for a mental disease or people who had problems with alcohol sometimes in their life. They mention certain health conditions as a problem for admission even though they need not be connected with a behaviour ruling out collective coexistence. The ability of collective coexistence is a law-embedded condition for admission.</p><p>They do not want to accept them although dementia-suffering people has already constituted up to 40 percent of people in the facilities for seniors in the Czech Republic.</p><p>According to data of the Alzheimer’s Disease Worldwide, as of 2010, there are an estimated 35.6 million people with dementia worldwide and this number will nearly double every 20 years, to an estimated 65.7 million in 2030, and 115.4 million in 2050.</p><p>Ombudsman has looked into care of old people several times in the past. Last year he found shortcomings in two facilities that also cared for dementia patients.</p>
