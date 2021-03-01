@@ -7,13 +7,11 @@
 const http = require("http");
 
 module.exports.getJSON = (options, onResult) => {
-  console.log("rest::getJSON");
   const port = http;
 
   let output = "";
 
   const req = port.request(options, (res) => {
-    console.log(`${options.host} : ${res.statusCode}`);
     res.setEncoding("utf8");
 
     res.on("data", (chunk) => {
