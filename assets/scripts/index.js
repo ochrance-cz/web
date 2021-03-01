@@ -1,13 +1,29 @@
+var lang =
+  document.querySelector("html").getAttribute("lang") == "en" ? "en" : "cs";
+
+var i18n = {
+  cs: {
+    noResults: "Nebyly nalezeny žádné výsledky.",
+    typeSomething: "Zadejte výraz k vyhledání.",
+  },
+  en: {
+    noResults: "No results found.",
+    typeSomething: "Please, enter some keywords into the search field.",
+  },
+};
+
 function initSearch() {
   var field = document.getElementById("search-field");
 
   if (!field) return;
-
   field.focus();
 
   var debouncedSearch = debounce(function () {
     getJSON(
-      "https://search.ochrance.cz/?q=" + encodeURIComponent(field.value),
+      "https://search.ochrance.cz/" +
+        lang +
+        "?q=" +
+        encodeURIComponent(field.value),
       displayResults
     );
   }, 350);
@@ -17,6 +33,17 @@ function initSearch() {
   document.querySelector("h1").appendChild(q);
 
   field.addEventListener("input", debouncedSearch);
+
+  document
+    .querySelector(".search-form")
+    .addEventListener("submit", function (e) {
+      e.preventDefault();
+    });
+  document
+    .getElementById("search-button")
+    .addEventListener("click", function (e) {
+      e.preventDefault();
+    });
 }
 
 function displayResults(err, results) {
@@ -41,11 +68,11 @@ function displayResults(err, results) {
         document.getElementById("searched-for").innerHTML =
           ": " + document.getElementById("search-field").value;
         document.getElementById("search-results").innerHTML =
-          "Nebyly nalezeny žádné výsledky.";
+          i18n[lang].noResults;
       } else {
         document.getElementById("searched-for").innerHTML = "";
         document.getElementById("search-results").innerHTML =
-          "Zadejte výraz k vyhledání.";
+          i18n[lang].typeSomething;
       }
     }
   }
