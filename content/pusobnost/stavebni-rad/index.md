@@ -2,20 +2,23 @@
 title: Stavební řád
 headerColor: green
 illustration: stavebko-03.jpg
-perex: Stavebnictví je druhou největší oblastí, kterou se ombudsman zabývá. Odbor stavebního řádu se však kromě stavebnictví věnuje také problematice životního prostředí, památkové péči, pohřebnictví, ale také ochraně před nadměrným hlukem nebo ochranou zvířat před týráním. Ročně řešíme asi 900 podnětů.
+perex: Stavebnictví je druhou největší oblastí, kterou se ombudsman zabývá.
+  Odbor stavebního řádu se však kromě stavebnictví věnuje také problematice
+  životního prostředí, památkové péči, pohřebnictví, ale také ochraně před
+  nadměrným hlukem nebo ochranou zvířat před týráním. Ročně řešíme asi 900
+  podnětů.
 cta:
   title: Řešíte podobnou situaci a domníváte se, že vám ombudsman může pomoct?
 ---
-
 ## Stavebnictví
 
 Lidé nejčastěji hledají pomoc v souvislosti s umístěním a povolením stavby. Dalším velkým tématem je řízení o odstranění stavby a s tím související řízení o dodatečném povolení stavby. Zabýváme se například i stížnostmi na užívání stavby k jinému účelu, než k jakému je zkolaudovaná. Lidé si také stěžují na nečinnost stavebního úřadu při řešení havarijního stavu staveb.
 
-> _Případ hluku z šachového klubu využívaného k plesům a svatbám_
+> *Ombudsman zakročil proti stavbě v přírodním parku*
 >
-> Pan Michal si stěžoval, že budova v sousedství dříve sloužila jako šachový klub, ale nyní jsou zde pořádány svatby, konference a plesy, což znamená velký provoz a hluk až do noci. Stavební úřad mu řekl, že je to v pořádku.
+> Média upozornila, že někdo staví v přírodním parku na místě, kde se to vůbec nesmí. Pokračoval v tom i přes zákaz stavebního úřadu. Ombudsman přiměl stavební úřad, aby rychle jednal. Stavebníkovi pak úřad uložil pokutu za to, že začal stavět, i za to, že porušil jeho zákaz pokračovat, a zahájil řízení o odstranění stavby.
 >
-> Zjistili jsme však, že stavba byla zkolaudována k využívání jako šachový klub a také jako komplexní zařízení občanské vybavenosti. Jsme však toho názoru, stavbu šachového klubu nelze využívat ke všem činnostem, které lze zahrnout pod občanskou vybavenost. Účastníci kolaudačního řízení se totiž vyjadřovali pouze k záměru užívat stavbu ke hře šachů, nikoli k různým kulturním akcím. Stavební úřad s naším názorem nakonec souhlasil a zahájil řízení o změně užívání stavby. Lidé, kteří jsou stavbou dotčeni, budou moct v řízení uplatnit své námitky. Do vydání rozhodnutí pak stavební úřad omezil pořádání kulturních akcí.
+> <!--EndFragment-->
 
 <a href="https://domek.ochrance.cz/" class="_domek">
   <div class="title">
@@ -28,7 +31,7 @@ Lidé nejčastěji hledají pomoc v souvislosti s umístěním a povolením stav
 
 Oblast ochrany životního prostředí zahrnuje např. nakládání s vodami (budování kanalizací, studní či jiných vodních děl, vypouštění odpadních vod, realizace protipovodňových opatření aj.), ochranu před znečištěním ovzduší, ochranu lesů a zemědělského půdního fondu, řešíme problém skládek odpadů a také hornickou a báňskou činnost. K tématu životního prostředí řadíme i záležitosti související s myslivostí nebo rybolovem.
 
-> _Případ zápachu, prachu a hluku z průmyslového podniku_
+> *Případ zápachu, prachu a hluku z průmyslového podniku*
 >
 > Paní Markéta si stěžovala na dlouhodobé obtěžování hlukem, zápachem a prachem z linky na drcení skla. Zjistili jsme, že vzhledem k možným negativním dopadům na okolí, povolil stavební úřad provozovateli na 9 měsíců zkušební provoz, během kterého měla být provedena měření znečišťujících látek a hluku. Krajský úřad provozovateli vydal povolení k provozu zdroje znečištění. Stavební úřad pak zkušební provoz dvakrát prodloužil, aniž by ověřoval výsledky a bral v úvahu stížnosti lidí na hluk, zápach a prach.
 >
@@ -42,7 +45,7 @@ Obracejí se na nás lidé, kteří vlastní domy v památkových zónách a rez
 
 Specifickou oblastí, kterou se zabýváme, je i pohřebnictví. Podívejte se na náš sborník – Pohřebnictví obsahující stanoviska ke konkrétním případům a odpovědi na nejčastější dotazy, s nimiž se ochránce při své činnosti na úseku pohřebnictví setkal.
 
-> _Problém zrušení hrobu bez informování příbuzných_
+> *Problém zrušení hrobu bez informování příbuzných*
 >
 > Sestra zesnulého při návštěvě hřbitova zjistila, že hrob jejího bratra a rodičů byl zrušen. Na jeho místě byla jen prázdná jáma bez pomníčku. Na správě hřbitova se dozvěděla, že hrob nechal zrušit její synovec a zpopelněné ostatky si odnesl. Na její dopisy a prosby o sdělení, kam ostatky přenesl, nereagoval.
 >
