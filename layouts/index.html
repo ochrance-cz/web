@@ -26,6 +26,7 @@
     </section>
   </div>
 
+  {{ if eq .Language.Lang "cs" }}
   <section class="_full two-col">
     <h2>{{ .Params.cinnostTitle }}</h2>
 
@@ -33,9 +34,16 @@
       {{ partial "home-links.html" . }}
     {{ end }}
 
-    {{ with .GetPage "/vystupy/" }}
+    {{/* with .GetPage "/vystupy/" }}
       {{ partial "home-links.html" . }}
-    {{ end }}
+    {{ end */}}
+
+    <article class="_home-link">
+      <h3>
+        <a href="./vystupy/" class="icon-arrow">Výstupy z činností</a>
+      </h3>
+      <p>Zprávy pro Poslaneckou sněmovnu, výzkumy a doporučení, zprávy z návštěv zařízení, připomínky k zákonům, vyjádření pro vládu aj. Nejdůležitější výstupy najdete na jednom místě.</p>
+    </article>
 
     {{ with .GetPage "/vzdelavaci-akce" }}
       {{ partial "home-links.html" . }}
@@ -45,6 +53,7 @@
       {{ partial "home-links.html" . }}
     {{ end }}
   </section>
+  {{ end }}
 
 </main>
 {{ end }}

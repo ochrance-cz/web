@@ -52,8 +52,19 @@
                     {{ block "menu-link" . }}{{ end }}
                   {{ end }}
 
-                  {{ with .GetPage "/vystupy/" }}
+                  {{/* with .GetPage "/info/setreni" }}
                     {{ block "menu-link" . }}{{ end }}
+                  {{ end */}}
+
+                  {{ if eq .Language.Lang "cs" }}
+                  <li>
+                    <a href="/vystupy/" class="icon-arrow">Výstupy z činností</a>
+                  </li>
+                  {{ end }}
+                  {{ if eq .Language.Lang "en" }}
+                  <li>
+                    <a href="/en/vystupy/" class="icon-arrow">Public Defender’s publications</a>
+                  </li>
                   {{ end }}
 
                   {{ with .GetPage "/vzdelavaci-akce" }}
