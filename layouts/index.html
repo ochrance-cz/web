@@ -34,16 +34,9 @@
       {{ partial "home-links.html" . }}
     {{ end }}
 
-    {{/* with .GetPage "/vystupy/" }}
+    {{ range where (where .Site.Pages ".RelPermalink" "/vystupy/") "Kind" "taxonomy" }}
       {{ partial "home-links.html" . }}
-    {{ end */}}
-
-    <article class="_home-link">
-      <h3>
-        <a href="./vystupy/" class="icon-arrow">Výstupy z činností</a>
-      </h3>
-      <p>Zprávy pro Poslaneckou sněmovnu, výzkumy a doporučení, zprávy z návštěv zařízení, připomínky k zákonům, vyjádření pro vládu aj. Nejdůležitější výstupy najdete na jednom místě.</p>
-    </article>
+    {{ end }}
 
     {{ with .GetPage "/vzdelavaci-akce" }}
       {{ partial "home-links.html" . }}

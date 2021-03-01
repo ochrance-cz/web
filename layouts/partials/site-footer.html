@@ -23,9 +23,9 @@
           {{ with .Site.GetPage "situace" }}
             <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
           {{ end }}
-          {{/* with .Site.GetPage "vystupy" }}
-            <li><a href="{{ .RelPermalink }}">Výstupy z činností</a></li>
-          {{ end */}}
+          {{ range where (where .Site.Pages ".RelPermalink" "/vystupy/") "Kind" "taxonomy" }}
+            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+          {{ end }}
           {{ with .Site.GetPage "o-nas/predpisy" }}
             <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
           {{ end }}
