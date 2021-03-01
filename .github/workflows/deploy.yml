@@ -46,17 +46,16 @@ jobs:
           host: ${{ secrets.SSH_HOSTNAME }}
           username: ${{ secrets.SSH_USERNAME }}
           privateKey: ${{ secrets.SSH_PRIVATE_KEY }}
-
-      - name: Update search indices
-        uses: garygrossgarten/github-action-ssh@release
-        with:
-          command: |
-            wget -O index.json http://www.ochrance.cz/elastic.json
-            wget -O index-en.json http://www.ochrance.cz/en/elastic.json
-            curl -X DELETE 'http://localhost:9200/indices'
-            curl -H "Content-Type: application/x-ndjson" -XPOST "localhost:9200/cs/_bulk" --data-binary @index.json
-            curl -H "Content-Type: application/x-ndjson" -XPOST "localhost:9200/en/_bulk" --data-binary @index-en.json
-            curl http://localhost:9200/_cat/indices?v
-          host: ${{ secrets.ELASTICUSER_HOSTNAME }}
-          username: ${{ secrets.ELASTICUSER_USERNAME }}
-          privateKey: ${{ secrets.ELASTICUSER_PRIVATE_KEY }}
+#      - name: Update search indices
+#        uses: garygrossgarten/github-action-ssh@release
+#        with:
+#          command: |
+#            wget -O index.json http://www.ochrance.cz/elastic.json
+#            wget -O index-en.json http://www.ochrance.cz/en/elastic.json
+#            curl -X DELETE 'http://localhost:9200/indices'
+#            curl -H "Content-Type: application/x-ndjson" -XPOST "localhost:9200/cs/_bulk" --data-binary @index.json
+#            curl -H "Content-Type: application/x-ndjson" -XPOST "localhost:9200/en/_bulk" --data-binary @index-en.json
+#            curl http://localhost:9200/_cat/indices?v
+#          host: ${{ secrets.ELASTICUSER_HOSTNAME }}
+#          username: ${{ secrets.ELASTICUSER_USERNAME }}
+#          privateKey: ${{ secrets.ELASTICUSER_PRIVATE_KEY }}
