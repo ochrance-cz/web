@@ -83,7 +83,10 @@
                 {{ end }}
               </ul>
             </li>
-            <li><a href="/hledat/" class="search">{{ i18n "search" }}</a></li>
+            {{ with .GetPage "/hledat/" }}
+              <li><a href="{{ .RelPermalink }}" class="search">{{ i18n "search" }}</a></li>
+            {{ end }}
+
             {{ if .IsTranslated }}
               {{ range .Translations }}
                 {{ if ne .Language.Lang $.Language.Lang }}
