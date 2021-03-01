@@ -5,7 +5,7 @@ other = "Správa a evidence podnětů"
 other = "Hledání"
 
 [enter-query]
-other = ""
+other = "Hledat…"
 
 [go-search]
 other = "Vyhledat"

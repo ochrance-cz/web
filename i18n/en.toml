@@ -5,7 +5,7 @@ other = "Administration and registration of complaints"
 other = "Search"
 
 [enter-query]
-other = ""
+other = "…"
 
 [go-search]
 other = "Search"
