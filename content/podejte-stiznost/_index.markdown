@@ -3,7 +3,7 @@ title: Podejte podnět
 description: Jakmile váš podnět (stížnost či upozornění) přijmeme, co nejdřív se vám ozveme. **Nejpozději do 30 dnů.**
 descriptionInfoIcon: true
 email:
-  - link: #
+  - link: ##
     desc: Pro vytištění (.pdf)
   - link: #
     desc: Pro vyplnění v počítači (.doc)
