@@ -9,4 +9,4 @@ perex: "<p>Veřejná ochránkyně práv dnes přijala švédskou velvyslankyni n
 
 <!-- imported from the old website -->
 
-<p><img src="https://www.ochrance.cz/uploads/RTEmagicC_svedska-01.jpg.jpg" height="433" width="624" alt="" /></p><p><img src="https://www.ochrance.cz/uploads/RTEmagicC_svedska-02.jpg.jpg" height="421" width="624" alt="" /></p><p><img src="https://www.ochrance.cz/uploads/RTEmagicC_svedska-03.jpg.jpg" height="415" width="624" alt="" /></p>
+<p><img src="/uploads-import/uploads/RTEmagicC_svedska-01.jpg.jpg" height="433" width="624" alt="" /></p><p><img src="/uploads-import/uploads/RTEmagicC_svedska-02.jpg.jpg" height="421" width="624" alt="" /></p><p><img src="/uploads-import/uploads/RTEmagicC_svedska-03.jpg.jpg" height="415" width="624" alt="" /></p>

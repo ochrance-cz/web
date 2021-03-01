@@ -24,4 +24,4 @@ Hlavním cílem projektu je:
 
 Více o aktuálním dění v projektu, jeho zaměření, aktivitách, výstupech i problematice jako takové se dozvíte na [www.rovnaodmena.cz](http://www.rovnaodmena.cz/).
 
-![Na obrázcích jsou loga EU, MPSV a Rovné odměny.](https://www.ochrance.cz/uploads/RTEmagicC_trojlogo_22.png.png)
+![Na obrázcích jsou loga EU, MPSV a Rovné odměny.](/uploads-import/uploads/RTEmagicC_trojlogo_22.png.png)

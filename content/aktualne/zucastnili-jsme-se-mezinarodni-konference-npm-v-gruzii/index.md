@@ -16,4 +16,4 @@ který zde prezentoval své zkušenosti za dobu, kdy se v roce 2009 stal
 národním preventivním mechanismem. Kromě gruzínského ombudsmana na konferenci
 vystoupili zástupci OSN, Rady Evropy a někteří gruzínští ministři. <br />Marie
 Lukasová seznámila účastníky konference se zkušenostmi českého ombudsmana v oblasti
-prevence špatného zacházení.</p><p class="MsoNormal"><img src="https://www.ochrance.cz/uploads/RTEmagicC_lukasova_Gruzie.jpg.jpg" width="749" height="562" alt="" /></p>
+prevence špatného zacházení.</p><p class="MsoNormal"><img src="/uploads-import/uploads/RTEmagicC_lukasova_Gruzie.jpg.jpg" width="749" height="562" alt="" /></p>

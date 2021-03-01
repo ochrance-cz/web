@@ -4,7 +4,7 @@ vystupy:
   - tz
 oldUrl: "/aktualne/tiskove-zpravy-2013/plosne-osobni-prohlidky-ve-veznicich-jsou-neprimerenym-zasahem-do-lidske-dustojnosti"
 date: 2013-08-08
-perex: "<p></p><p><img src=\"https://www.ochrance.cz/uploads/RTEmagicC_telo.jpg.jpg\" style=\"PADDING-RIGHT: 10px; FLOAT: left\" height=\"336\" width=\"234\" alt=\"\" />Osobní prohlídky obecně představují zásah do lidské důstojnosti vězněných osob. V prostředí výkonu trestu odnětí svobody je legitimní k ní přistoupit z důvodu zajištění vnitřní bezpečnosti (zabránění průniku nepovolených věcí do věznice), avšak pouze tehdy, pokud je prohlídka prováděna přiměřeně a  způsobem, který maximálně šetří lidskou důstojnost. </p>"
+perex: '<p></p><p><img src="/uploads-import/uploads/RTEmagicC_telo.jpg.jpg" style="PADDING-RIGHT: 10px; FLOAT: left" height="336" width="234" alt="" />Osobní prohlídky obecně představují zásah do lidské důstojnosti vězněných osob. V prostředí výkonu trestu odnětí svobody je legitimní k ní přistoupit z důvodu zajištění vnitřní bezpečnosti (zabránění průniku nepovolených věcí do věznice), avšak pouze tehdy, pokud je prohlídka prováděna přiměřeně a  způsobem, který maximálně šetří lidskou důstojnost. </p>'
 ---
 
 <!-- imported from the old website -->

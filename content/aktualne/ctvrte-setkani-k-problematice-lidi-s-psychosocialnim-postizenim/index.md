@@ -33,5 +33,5 @@ AR-SA">Se svými podněty k právům osob s psychosociálními problémy se
 na Mgr. Zuzanu Durajovou můžete obracet i kdykoliv dříve, a to na
 zuzana.durajova</span><span lang="CS" style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:
 Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-font-family:&quot;Times New Roman&quot;;
-mso-ansi-language:CS;mso-fareast-language:EN-US;mso-bidi-language:AR-SA"><img src="https://www.ochrance.cz/uploads/RTEmagicC_zavinac_10.png.png" height="13" width="11" style="color: rgb(57, 74, 88); font-family: Arial, Verdana, Helvetica, sans-serif; font-size: 12.8px;" alt="" />ochrance.cz
+mso-ansi-language:CS;mso-fareast-language:EN-US;mso-bidi-language:AR-SA"><img src="/uploads-import/uploads/RTEmagicC_zavinac_10.png.png" height="13" width="11" style="color: rgb(57, 74, 88); font-family: Arial, Verdana, Helvetica, sans-serif; font-size: 12.8px;" alt="" />ochrance.cz
 či tel. č. 542 542 201.</span></p>

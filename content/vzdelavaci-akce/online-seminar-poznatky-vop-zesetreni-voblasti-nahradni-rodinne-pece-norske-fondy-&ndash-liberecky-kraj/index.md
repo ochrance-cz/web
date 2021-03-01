@@ -4,7 +4,7 @@ oldUrl: /dalsi-aktivity/archiv-vzdelavacich-akci/?tx_odcalendar[uid]=352&cHash=0
 startDate: 2021-01-20
 ---
 
-<p><img src="https://www.ochrance.cz/uploads/RTEmagicC_Norway_grants_4x__Custom__06.png.png" height="104" width="93" alt="" /></p>
+<p><img src="/uploads-import/uploads/RTEmagicC_Norway_grants_4x__Custom__06.png.png" height="104" width="93" alt="" /></p>
 <p></p>
 <p class="align-blok">Ve středu 20. ledna 2021 proběhl z Kanceláře veřejného ochránce práv v Brně pro Liberecký kraj online odborný seminář na téma <strong>Poznatky veřejného ochránce práv ze šetření v oblasti náhradní rodinné péče</strong>.</p>
 <p class="align-blok">Cílem semináře bylo přiblížit účastníkům a účastnicím (zejména zástupcům a zástupkyním orgánů sociálně-právní ochrany dětí a neziskového sektoru z Libereckého kraje) možné problematické oblasti, se kterými se ochránce často setkává při řešení podnětů v oblasti náhradní rodinné péče.</p>

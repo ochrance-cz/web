@@ -4,7 +4,7 @@ oldUrl: /dalsi-aktivity/archiv-vzdelavacich-akci/?tx_odcalendar[uid]=334&cHash=c
 startDate: 2020-03-05
 ---
 
-<p class="align-blok"><img src="https://www.ochrance.cz/uploads/RTEmagicC_Norway_grants_4x__Custom_.png.png" height="104" width="93" alt="" /></p>
+<p class="align-blok"><img src="/uploads-import/uploads/RTEmagicC_Norway_grants_4x__Custom_.png.png" height="104" width="93" alt="" /></p>
 <p class="align-blok"> </p>
 <p class="align-blok">Ve čtvrtek 5. března 2020 proběhl v Brně odborný seminář na téma <strong>Poznatky ze systematických návštěv zařízení pro děti vyžadující okamžitou pomoc</strong>.</p>
 <p class="align-blok">Cílem semináře, realizovaného v rámci projektu <a href="/kancelar-vop/projekty-spoluprace/posileni-aktivit-verejneho-ochrance-prav-v-ochrane-lidskych-prav/" target="_blank">Posílení aktivit veřejného ochránce práv v ochraně lidských práv (směrem k ustavení Národní lidskoprávní instituce v ČR)</a> financovaného z Norských fondů 2014-2021 prostřednictvím Ministerstva financí ČR, bylo přiblížit účastníkům a účastnicím možné problematické oblasti, se kterými se ochránce nejčastěji setkával během série návštěv zařízení pro děti vyžadující okamžitou pomoc.</p>

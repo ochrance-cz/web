@@ -18,4 +18,4 @@ v těchto zařízeních, ale také k vytvoření platformy pro diskuzi a
 prostoru pro sdílení zkušeností a problémů z praxe. Rovněž byly otevřeny
 některé otázky systémového charakteru, kterými se ombudsmanka bude dále
 zabývat. I poznatky z tohoto setkání budou přínosem pro sestavení souhrnné
-zprávy z návštěv.</p><p class="MsoNormal"><img src="https://www.ochrance.cz/uploads/RTEmagicC_Kulaty_stul_DOZP_01.JPG.JPG" width="658" height="440" alt="" /></p>
+zprávy z návštěv.</p><p class="MsoNormal"><img src="/uploads-import/uploads/RTEmagicC_Kulaty_stul_DOZP_01.JPG.JPG" width="658" height="440" alt="" /></p>

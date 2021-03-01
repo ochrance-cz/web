@@ -13,7 +13,7 @@ perex: "<p>Omezování pohybu, nevyhovující strava a materiální podmínky, 
 zařízení odstíhat. Na vině může být nedostatek důkazů, rafinované obcházení
 zákona provozovatelů těchto zařízení pomocí asistentů sociální péče či
 registrované terénní sociální služby, nedostatečná součinnost ze strany jiných
-státních orgánů, jakož i systémové nedostatky.</span></p><p class="MsoNormal"> <img src="https://www.ochrance.cz/uploads/RTEmagicC_DSC_4737_e_web_01.jpg.jpg" width="623" height="467" alt="" /></p>
+státních orgánů, jakož i systémové nedostatky.</span></p><p class="MsoNormal"> <img src="/uploads-import/uploads/RTEmagicC_DSC_4737_e_web_01.jpg.jpg" width="623" height="467" alt="" /></p>
 
 <p class="MsoNormal"><span style="font-size: 10pt; font-family: Tahoma, sans-serif;">Proto jsme pro zástupce krajských úřadů uspořádali kulatý stůl,
 kde měli možnost prezentovat svoji praxi a definovat překážky, které jim stojí

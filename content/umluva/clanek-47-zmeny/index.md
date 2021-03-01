@@ -3,7 +3,7 @@ title: "Článek 47: Změny"
 ---
 
 <div id="c1004632" class="csc-frame csc-frame-frame1">
-<div class="csc-textpic csc-textpic-center csc-textpic-above"><img src="https://www.ochrance.cz/uploads/pics/zastupny-obrazek_c234e2.jpg" width="480" height="270" border="0" alt="" />
+<div class="csc-textpic csc-textpic-center csc-textpic-above"><img src="/uploads-import/uploads/pics/zastupny-obrazek_c234e2.jpg" width="480" height="270" border="0" alt="" />
 <h2><a href="/uploads-import/CRPD/Umluva/Clanek_47.mp4" target="_blank">Článek 47 -&nbsp;Změny</a>&nbsp;(1&nbsp;MB,&nbsp;MP4)</h2></div>
 <div class="csc-textpic-clear"><!-- --></div></div>
 <div id="c1005385" class="csc-frame csc-frame-frame1">

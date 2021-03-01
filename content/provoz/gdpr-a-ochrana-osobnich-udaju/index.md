@@ -157,7 +157,7 @@ Tím je Úřad pro ochranu osobních údajů. Bližší informace o činnosti 
 
 ---
 
-Všechna **svá práva můžete uplatnit prostřednictvím žádosti** adresované Kanceláři veřejného ochránce práv, obdobně jako v případě [podání podnětu veřejnému ochránci práv](https://www.ochrance.cz/stiznosti-na-urady/jak-podat-stiznost/).
+Všechna **svá práva můžete uplatnit prostřednictvím žádosti** adresované Kanceláři veřejného ochránce práv, obdobně jako v případě [podání podnětu veřejnému ochránci práv](/podejte-stiznost/).
 
 Ve všech případech, kdy uplatníte svá práva, Vás do **jednoho měsíce od obdržení Vaší žádosti vyrozumíme o přijatých opatřeních**. Pokud budeme potřebovat tuto lhůtu prodloužit, budeme Vás předem informovat, včetně důvodů prodloužení.
 

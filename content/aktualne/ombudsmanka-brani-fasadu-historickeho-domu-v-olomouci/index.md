@@ -38,6 +38,6 @@ obnovit předcházející stav stavby. <i>„I na
 první pohled technologicky jednoduché změny, které ale výrazně ovlivňují vzhled
 stavby a jejího okolí, je lepší předem konzultovat se stavebním úřadem.
 Stavebník se tak vyhne pokutám nebo možným komplikacím v budoucnu,“ u</i>zavírá
-právník Hanák. </p><p class="MsoNormal" style="text-align:justify;line-height:150%"><img src="https://www.ochrance.cz/uploads/RTEmagicC_Dum_U_Zlate_koule_01.png.png" width="630" height="308" alt="" /></p><p class="MsoNormal" style="text-align:justify"><span style="font-size: 9pt;">Srovnání podoby olomouckého
+právník Hanák. </p><p class="MsoNormal" style="text-align:justify;line-height:150%"><img src="/uploads-import/uploads/RTEmagicC_Dum_U_Zlate_koule_01.png.png" width="630" height="308" alt="" /></p><p class="MsoNormal" style="text-align:justify"><span style="font-size: 9pt;">Srovnání podoby olomouckého
 historického domu U Zlaté koule z 19. století před (vlevo)
 a po úpravách (vpravo). Foto: koláž iDNES.cz</span></p>

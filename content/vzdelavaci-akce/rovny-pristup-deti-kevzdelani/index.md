@@ -6,7 +6,7 @@ perex: |
   Panelolvá diskuze navazuje na výsledky výzkumu etnického složení žáků bývalých zvláštních škol. Umožní odborníkům, aby v diskuzi hledali odpovědi na otázku, co může stát a samospráva udělat pro změnu stávající situace.
 ---
 
-<p><table summary="" cellpadding="0" cellspacing="0" class="align-center"><tbody><tr><td rowspan="1"><img src="https://www.ochrance.cz/uploads/RTEmagicC_MSMT.jpg.jpg" height="92" width="151" alt="" /></td><td rowspan="1"><img src="https://www.ochrance.cz/uploads/RTEmagicC_vlada.jpg.jpg" height="164" width="154" alt="" /></td><td rowspan="1"><img src="https://www.ochrance.cz/uploads/RTEmagicC_logo-male2.jpg.jpg" height="56" width="284" alt="" /></td></tr><tr><td><p>Petr Fiala</p>
+<p><table summary="" cellpadding="0" cellspacing="0" class="align-center"><tbody><tr><td rowspan="1"><img src="/uploads-import/uploads/RTEmagicC_MSMT.jpg.jpg" height="92" width="151" alt="" /></td><td rowspan="1"><img src="/uploads-import/uploads/RTEmagicC_vlada.jpg.jpg" height="164" width="154" alt="" /></td><td rowspan="1"><img src="/uploads-import/uploads/RTEmagicC_logo-male2.jpg.jpg" height="56" width="284" alt="" /></td></tr><tr><td><p>Petr Fiala</p>
 <p>ministr školství, mládeže a tělovýchovy</p></td><td><p>Monika Šimůnková</p>
 <p>zmocněnkyně vlády pro lidská práva</p></td><td><p>Pavel Varvařovský</p>
 <p>veřejný ochránce práv</p></td></tr></tbody></table></p>

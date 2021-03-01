@@ -3,12 +3,12 @@ title: "Článek 44: Organizace regionální instituce"
 ---
 
 <div id="c1004634" class="csc-frame csc-frame-frame1">
-<div class="csc-textpic csc-textpic-center csc-textpic-above"><img src="https://www.ochrance.cz/uploads/pics/zastupny-obrazek_02.jpg" width="480" height="270" border="0" alt="" />
+<div class="csc-textpic csc-textpic-center csc-textpic-above"><img src="/uploads-import/uploads/pics/zastupny-obrazek_02.jpg" width="480" height="270" border="0" alt="" />
 <h2><a href="/uploads-import/CRPD/Umluva/Clanek_44.mp4" target="_blank">Článek 44</a>&nbsp;(1.4&nbsp;MB,&nbsp;MP4)</h2>
 </div>
 <div class="csc-textpic-clear"><!-- --></div></div>
 <div id="c1004619" class="csc-frame csc-frame-frame1">
-<div class="csc-textpic csc-textpic-center csc-textpic-above"><img src="https://www.ochrance.cz/uploads/pics/zastupny-obrazek.jpg" width="480" height="270" border="0" alt="" />
+<div class="csc-textpic csc-textpic-center csc-textpic-above"><img src="/uploads-import/uploads/pics/zastupny-obrazek.jpg" width="480" height="270" border="0" alt="" />
 <h2><a href="/uploads-import/CRPD/Umluva/Clanek_44-1_01.mp4" target="_blank">Odst. (1)</a>&nbsp;(9.8&nbsp;MB,&nbsp;MP4)</h2>
 <p>(1) „Organizací regionální integrace” se rozumí organizace ustanovená svrchovanými státy daného regionu, na&nbsp;kterou její členské státy převedly kompetence v&nbsp;záležitostech upravovaných touto úmluvou. Uvedené organizace oznámí ve&nbsp;svých listinách o&nbsp;formálním potvrzení nebo přistoupení rozsah svých kompetencí v&nbsp;záležitostech upravovaných touto úmluvou. Následně informují depozitáře o&nbsp;jakékoli podstatné změně v&nbsp;rozsahu svých kompetencí.</p></div>
 <div class="csc-textpic-clear"><!-- --></div></div>

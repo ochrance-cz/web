@@ -4,7 +4,7 @@ oldUrl: /dalsi-aktivity/archiv-vzdelavacich-akci/?tx_odcalendar[uid]=342&cHash=b
 startDate: 2020-09-04
 ---
 
-<p><img src="https://www.ochrance.cz/uploads/RTEmagicC_Norway_grants_4x__Custom__01.png.png" height="104" width="93" alt="" /></p>
+<p><img src="/uploads-import/uploads/RTEmagicC_Norway_grants_4x__Custom__01.png.png" height="104" width="93" alt="" /></p>
 <p> </p>
 <p class="align-blok">V pátek 4. září 2020 proběhl v prostorách Krajského úřadu Moravskoslezského kraje v Ostravě seminář na téma <strong>Umísťování dětí do neutrálního prostředí</strong>.</p>
 <p class="align-blok">Cílem semináře, realizovaného v rámci projektu <a href="/kancelar-vop/projekty-spoluprace/posileni-aktivit-verejneho-ochrance-prav-v-ochrane-lidskych-prav/" target="_blank">Posílení aktivit veřejného ochránce práv v ochraně lidských práv (směrem k ustavení Národní lidskoprávní instituce v ČR)</a> financovaného z Norských fondů 2014-2021 prostřednictvím Ministerstva financí ČR, bylo přiblížit účastníkům a účastnicím (zejména pracovníkům a pracovnicím orgánů sociálně-právní ochrany dětí) poznatky veřejného ochránce práv získané při řešení podnětů, které se týkají umístění dětí do vhodného (neutrálního) prostředí. </p>

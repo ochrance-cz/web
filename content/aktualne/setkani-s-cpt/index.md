@@ -9,4 +9,4 @@ perex: "<p>V rámci návštěvy České republiky si Evropský výbor pro zabrá
 
 <!-- imported from the old website -->
 
-<img src="https://www.ochrance.cz/uploads/RTEmagicC_2014-04-03_navsteva-CPT.JPG.JPG" height="467" width="622" alt="" />
+<img src="/uploads-import/uploads/RTEmagicC_2014-04-03_navsteva-CPT.JPG.JPG" height="467" width="622" alt="" />

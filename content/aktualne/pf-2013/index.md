@@ -9,4 +9,4 @@ perex: "<p>Ombudsman a jeho zástupkyně přejí všem lidem pokojné Vánoce a
 
 <!-- imported from the old website -->
 
-<img src="https://www.ochrance.cz/uploads/RTEmagicC_PF2013.jpg.jpg" height="352" width="627" alt="" />
+<img src="/uploads-import/uploads/RTEmagicC_PF2013.jpg.jpg" height="352" width="627" alt="" />

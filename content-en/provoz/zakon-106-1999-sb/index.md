@@ -17,7 +17,7 @@ links:
 
 ### Jak má vypadat žádost?
 
-- Žádost se podává ústně nebo písemně, a to i prostřednictvím sítě nebo služby elektronických komunikací. Elektronická žádost musí být podána prostřednictvím elektronické podatelny Kanceláře veřejného ochránce práv [podatelna![](https://www.ochrance.cz/uploads/RTEmagicC_zavinac_38.png.png)ochrance.cz](mailto:podatelna@ochrance.cz)  nebo prostřednictvím datové schránky **ID:** jz5adky
+- Žádost se podává ústně nebo písemně, a to i prostřednictvím sítě nebo služby elektronických komunikací. Elektronická žádost musí být podána prostřednictvím elektronické podatelny Kanceláře veřejného ochránce práv [podatelna![](/uploads-import/uploads/RTEmagicC_zavinac_38.png.png)ochrance.cz](mailto:podatelna@ochrance.cz)  nebo prostřednictvím datové schránky **ID:** jz5adky
 - Ze žádosti musí být zřejmé, komu je určena, kdo ji činí a že se žadatel domáhá poskytnutí informace podle zákona č. 106/1999 Sb., o svobodném přístupu k informacím.
 - Žádost nemusí být zaslána na zvláštním formuláři nebo být odůvodněna a nemusí obsahovat žádné podklady. Za její podání se nehradí žádné poplatky. Kancelář za poskytnutí informací může vyžadovat úhradu. Výše úhrady se řídí [Sazebníkem úhrad za poskytování informací podle zákona č. 106/1999 Sb., o svobodném přístupu k informacím, ve znění pozdějších předpisů](https://www.ochrance.cz/kancelar-vop/poskytovani-informaci-podle-zakona-c-1061999-sb/zasady-pro-poskytovani-informaci/sazebnik-uhrad-za-poskytovani-informaci-podle-zakona-c-1061999-sb-o-svobodnem-pristupu-k-informacim-ve-zneni-pozdejsich-predpisu/)
 

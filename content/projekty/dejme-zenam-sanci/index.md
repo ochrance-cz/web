@@ -19,6 +19,6 @@ Kancelář veřejného ochránce práv je partnerem nevládní organizace Nesehn
 
 Projekt reaguje na přemíru diskriminačních reklam v českém veřejném prostoru. Cílem je změnit praxi dozorových a samoregulačních orgánů reklamy, která nevyužívají dostatečně kompetence, které jim současná legislativa umožňuje. Zároveň bude zapojovat veřejnost tak, aby se o problematice nejen kvalitně dozvěděla, ale také se aktivně podílela na řešení.
 
-![Obrázek představuje logo norway grants.](https://www.ochrance.cz/uploads/RTEmagicC_norway_grants_02.jpg.jpg)
+![Obrázek představuje logo norway grants.](/uploads-import/uploads/RTEmagicC_norway_grants_02.jpg.jpg)
 
 ![Obrázek představuje logo OPEN SOCIETY FUND.](nadace_open_society_fund.jpg)

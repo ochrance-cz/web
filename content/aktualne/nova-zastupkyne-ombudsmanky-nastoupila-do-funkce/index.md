@@ -14,4 +14,4 @@ slov ráda věnovala ochraně práv zvlášť ohrožených skupin, především 
 seniorů a lidí s postižením. Za klíčovou považuje pomoc konkrétním lidem,
 kteří se na ombudsmana obracejí, při řešení jejich problémů. Stejně zásadní je
 ale podle ní také úsilí o systémové změny s pozitivním dopadem na větší
-skupiny. V oblastech, které jí ombudsmanka svěří do působnosti, by se rovněž chtěla zaměřit na postupné odstraňování dlouhodobých problémů.</span></p><p class="MsoNormal"><img src="https://www.ochrance.cz/uploads/RTEmagicC_Sabatova-Simunkova.jpg.jpg" width="600" height="600" alt="" /></p>
+skupiny. V oblastech, které jí ombudsmanka svěří do působnosti, by se rovněž chtěla zaměřit na postupné odstraňování dlouhodobých problémů.</span></p><p class="MsoNormal"><img src="/uploads-import/uploads/RTEmagicC_Sabatova-Simunkova.jpg.jpg" width="600" height="600" alt="" /></p>

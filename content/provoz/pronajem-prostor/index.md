@@ -16,9 +16,9 @@ title: Pronájem prostor
 
 ### Dispoziční možnosti
 
-[Školní úprava](https://www.ochrance.cz/uploads-import/img/Saly/VS_skolni_uprava_144_osob.pdf)
+[Školní úprava](/uploads-import/img/Saly/VS_skolni_uprava_144_osob.pdf)
 
-[Koncertní úprava](https://www.ochrance.cz/uploads-import/img/Saly/VS_koncertni_uprava_216_osob.pdf)
+[Koncertní úprava](/uploads-import/img/Saly/VS_koncertni_uprava_216_osob.pdf)
 
 ![Na fotografii je zobrazen velký sál. Jsou v něm rozestavěny židle v řadách a na straně místnosti jsou pokojové rostliny.](velky_sal_1.jpg "Velký sál")
 
@@ -97,9 +97,9 @@ Sál je vhodný pro pořádání seminářů, konferencí, apod.
 
 ![Na fotografii je zachycena prázdná víceúčelová místnost.](viceucelova_mistnost_3.jpg "Víceúčelová místnost")
 
-### [Komerční ceník](https://www.ochrance.cz/uploads-import/img/Saly/Cenik_komercni_2020.pdf)
+### [Komerční ceník](/uploads-import/img/Saly/Cenik_komercni_2020.pdf)
 
-### [Nekomerční ceník](https://www.ochrance.cz/uploads-import/img/Saly/Cenik_nekomercni_2020.pdf)
+### [Nekomerční ceník](/uploads-import/img/Saly/Cenik_nekomercni_2020.pdf)
 
 ## Kontaktní osoba
 

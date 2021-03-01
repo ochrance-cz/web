@@ -8,4 +8,4 @@ perex: |
 
 <p><a href="/uploads-import/Konference/Konference_2014/Sladovani-pracovniho-zivota.pdf" target="_blank">Program konference</a> (374.6 kB, Adobe Acrobat dokument)</p>
 <p>Konference je pořádána v rámci projektu Společně k dobré správě. Přihlašování probíhá pomocí elektronického formuláře, který naleznete <a href="no_cache/spolecne-k-dobre-sprave/konference-seminare-a-kulate-stoly/">zde</a>.</p>
-<p><img src="https://www.ochrance.cz/uploads/RTEmagicC_esf_eu_12.jpg.jpg" height="67" width="622" alt="" /></p>
+<p><img src="/uploads-import/uploads/RTEmagicC_esf_eu_12.jpg.jpg" height="67" width="622" alt="" /></p>
