@@ -4,6 +4,12 @@ other = "Správa a evidence podnětů"
 [search]
 other = "Hledání"
 
+[enter-query]
+other = ""
+
+[go-search]
+other = "Vyhledat"
+
 [our-work]
 other = "Naše činnost"
 

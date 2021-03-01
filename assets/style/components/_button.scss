@@ -66,6 +66,12 @@
       content: "";
     }
   }
+
+  &.search {
+    color: $white;
+    background: $green;
+    @include font-size-m;
+  }
 }
 
 ._button--wrapper {

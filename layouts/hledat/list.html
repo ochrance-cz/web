@@ -1,0 +1,23 @@
+{{ define "main" }}
+<main class="_search">
+  <form class="search-form">
+    <input id="search-field" class="query"type="text" name="q" placeholder="{{ i18n "enter-query" }}"><input id="search-button" class="_button search" type="submit" value="{{ i18n "go-search" }}">
+  </form>
+
+  {{ partial "text-header.html" . }}
+
+  <div {{ with .Params.contentBackdrop }} class="{{ . }}"{{ end }}>
+    <section>
+      {{ with .Params.perex }}
+        <div id="search-info" class="perex">
+          {{ partial "md-block.html" . }}
+        </div>
+      {{ end }}
+
+      <div id="search-results">
+
+      </div>
+    </section>
+  </div>
+</main>
+{{ end }}

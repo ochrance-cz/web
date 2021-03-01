@@ -1,0 +1,27 @@
+._search {
+  .search-form {
+    text-align: right;
+    padding: 0 2.15rem 2rem;
+    margin-top: 3px;
+  }
+
+  #search-field {
+    display: inline-block;
+    padding: 0.7em 1.4em;
+    @include font-size-m;
+    border: 1px solid $border-gray;
+    border-radius: 4px 0 0 4px;
+    margin-right: 0;
+
+    &:focus {
+      border-color: $green;
+      outline: none;
+      box-shadow: 0 0 3px $border-gray;
+    }
+  }
+
+  #search-button {
+    margin-left: 0;
+    border-radius: 0 4px 4px 0;
+  }
+}

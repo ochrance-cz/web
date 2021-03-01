@@ -4,6 +4,12 @@ other = "Administration and registration of complaints"
 [search]
 other = "Search"
 
+[enter-query]
+other = ""
+
+[go-search]
+other = "Search"
+
 [our-work]
 other = "Our work"
 
