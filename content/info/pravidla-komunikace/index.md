@@ -10,7 +10,7 @@ a) elektronickou poštou (e-mailem) na adresu elektronické podatelny [podateln
 
 b) pomocí interaktivního on-line formuláře na webovou podatelnu Kanceláře veřejného ochránce práv (<a title="Otevření do nového okna" href="http://poe.gordic.cz/KVOP/" target="_blank">http://poe.gordic.cz/KVOP/</a>)
 
-<p style="font-size:12px;">Upozorňujeme, že údaje, které o sobě uvedete při vyplňování on-line formuláře, pro nás zpracovává společnost GORDIC spol. s. r. o. se sídlem Erbenova 4, 586 01 Jihlava, IČ: 47903783 na základě smlouvy o hostingu www- podatelny ze dne 28. 3. 2003.Pokud se chcete obrátit na veřejnou ochránkyni přímo, zvolte <a href="https://www.ochrance.cz/stiznosti-na-urady/jak-podat-stiznost/">jiný způsob podání stížnosti</a>.
+<p style="font-size:12px;">Upozorňujeme, že údaje, které o sobě uvedete při vyplňování on-line formuláře, pro nás zpracovává společnost GORDIC spol. s. r. o. se sídlem Erbenova 4, 586 01 Jihlava, IČ: 47903783 na základě smlouvy o hostingu www- podatelny ze dne 28. 3. 2003.Pokud se chcete obrátit na veřejnou ochránkyni přímo, zvolte <a href="/stiznosti-na-urady/jak-podat-stiznost/">jiný způsob podání stížnosti</a>.
 
 c) zasláním datové zprávy prostřednictvím informačního systému datových schránek provozovaného Českou poštou, s. p., ID datové schránky Kanceláře veřejného ochránce práv: jz5adky
 

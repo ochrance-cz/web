@@ -8,5 +8,5 @@ perex: |
 
 <p><strong>Termín: 20. - 21. února 2014</strong></p>
 <p><strong>Místo: Kancelář veřejného ochránce práv, Údolní 39, Brno</strong></p>
-<p><a href="https://www.ochrance.cz/uploads-import/Konference/Konference_2014/Program_konference_final.pdf" target="_blank">Program konference</a> (593 kB, Adobe Acrobat dokument)</p>
-<p>„Konference je pořádána v rámci projektu Společně k dobré správě. Přihlašování probíhá pomocí elektronického formuláře, který naleznete <a href="https://www.ochrance.cz/no_cache/spolecne-k-dobre-sprave/konference-seminare-a-kulate-stoly/">zde</a>.</p>
+<p><a href="/uploads-import/Konference/Konference_2014/Program_konference_final.pdf" target="_blank">Program konference</a> (593 kB, Adobe Acrobat dokument)</p>
+<p>„Konference je pořádána v rámci projektu Společně k dobré správě. Přihlašování probíhá pomocí elektronického formuláře, který naleznete <a href="/no_cache/spolecne-k-dobre-sprave/konference-seminare-a-kulate-stoly/">zde</a>.</p>

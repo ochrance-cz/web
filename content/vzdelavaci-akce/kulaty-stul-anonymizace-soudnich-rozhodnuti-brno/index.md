@@ -45,4 +45,4 @@ a další otázky</p>
 k informacím a anonymizace</p>
 <p>   - Nahlížení do spisu versus poskytování informací </p>
 <p></p>
-<p><span style="font-size: 12.8px;">POZVÁNKA S PROGRAMEM </span><a href="https://www.ochrance.cz/uploads-import/projekt_ESF/00_2019_VA/KULATE_STOLY/11_15_Anonymizace_soudnich_rozhodnuti/11_15_Anonymizace_soudnich_rozhodnuti_POZVANKA.pdf" style="font-size: 12.8px;">ZDE</a><span style="font-size: 12.8px;">.</span></p>
+<p><span style="font-size: 12.8px;">POZVÁNKA S PROGRAMEM </span><a href="/uploads-import/projekt_ESF/00_2019_VA/KULATE_STOLY/11_15_Anonymizace_soudnich_rozhodnuti/11_15_Anonymizace_soudnich_rozhodnuti_POZVANKA.pdf" style="font-size: 12.8px;">ZDE</a><span style="font-size: 12.8px;">.</span></p>

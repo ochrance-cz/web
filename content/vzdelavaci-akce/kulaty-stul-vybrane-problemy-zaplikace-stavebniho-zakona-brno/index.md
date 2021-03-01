@@ -20,4 +20,4 @@ metodické pomoci</b></li></ul><p><span style="background-color: initial; font-s
 ve „volném režimu“ </b></li><li><b>Diskuze, aktuality a témata ze strany účastníků kulatého stolu </b></li></ul>
 <p style="line-height: 17.92px; font-size: 12.8px;"></p>
 <p style="line-height: 17.92px; font-size: 12.8px;"></p>
-<p style="line-height: 17.92px; font-size: 12.8px;"><span style="font-size: 12.8px;">POZVÁNKA S PROGRAMEM </span><a href="https://www.ochrance.cz/uploads-import/projekt_ESF/00_2019_VA/KULATE_STOLY/04_23_Vybrane_problemy_z_aplikace_stavebniho_zakona/04_23_Vybrane_problemy_z_aplikace_stavebniho_zakona_POZVANKA.pdf" style="font-size: 12.8px;">ZDE</a><span style="font-size: 12.8px;">.</span></p>
+<p style="line-height: 17.92px; font-size: 12.8px;"><span style="font-size: 12.8px;">POZVÁNKA S PROGRAMEM </span><a href="/uploads-import/projekt_ESF/00_2019_VA/KULATE_STOLY/04_23_Vybrane_problemy_z_aplikace_stavebniho_zakona/04_23_Vybrane_problemy_z_aplikace_stavebniho_zakona_POZVANKA.pdf" style="font-size: 12.8px;">ZDE</a><span style="font-size: 12.8px;">.</span></p>

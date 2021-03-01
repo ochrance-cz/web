@@ -9,4 +9,4 @@ perex: "<p>Všechny příspěvky, které zazněly na konferenci o právech sen
 
 <!-- imported from the old website -->
 
-<p>Jednotlivé dokumenty je možné si stáhnout <a href="https://www.ochrance.cz/spolecne-k-dobre-sprave/dokumenty-ke-stazeni/">zde</a>.</p>
+<p>Jednotlivé dokumenty je možné si stáhnout <a href="/spolecne-k-dobre-sprave/dokumenty-ke-stazeni/">zde</a>.</p>

@@ -27,7 +27,7 @@ sociálních služeb je úkolem inspekce poskytování sociálních služeb, kte
 provádí Ministerstvo práce a sociálních věcí. Veřejný ochránce práv do zařízení
 sociálních služeb vstupuje v rámci monitoringu zacházení s osobami
 omezenými na svobodě. Nejnovější výstupy – souhrnná zpráva o návštěvách domovů
-pro seniory a domovů se zvláštním režimem, jsou zveřejněny <a href="http://www.ochrance.cz/ochrana-osob-omezenych-na-svobode/z-cinnosti-ombudsmana/zpravy-z-navstev-zarizeni/">zde</a>.</p>
+pro seniory a domovů se zvláštním režimem, jsou zveřejněny <a href="/ochrana-osob-omezenych-na-svobode/z-cinnosti-ombudsmana/zpravy-z-navstev-zarizeni/">zde</a>.</p>
 
 <p class="MsoNormal"><i>„</i><i><span lang="DE">Ombudsman
 Peter Tyndall has today, Thursday 25 June, welcomed the announcement by
@@ -62,8 +62,6 @@ mso-bidi-theme-font:minor-bidi;mso-ansi-language:DE;mso-fareast-language:EN-US;
 mso-bidi-language:AR-SA"><a href="file:///C:/Users/stachonova/AppData/Local/Microsoft/Windows/Temporary%20Internet%20Files/Content.Outlook/P8DAVLJH/Aktualita_Irsk%C3%BD%20ombudsman.docx#_ftn1" name="_ftnref1">[1]</a></span></b></span></span></span></i></p><div>
 
 <hr />
-
-
 
 <div id="ftn1">
 

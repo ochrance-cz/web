@@ -9,4 +9,4 @@ perex: "<p></p>"
 
 <!-- imported from the old website -->
 
-<p><a href="https://www.ochrance.cz/pf2018/">https://www.ochrance.cz/pf2018/</a></p><p></p>
+<p><a href="/pf2018/">https://www.ochrance.cz/pf2018/</a></p><p></p>

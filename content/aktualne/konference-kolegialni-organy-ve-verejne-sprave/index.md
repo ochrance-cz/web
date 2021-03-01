@@ -9,4 +9,4 @@ perex: "<p>24. – 25. 6. se v Telči uskuteční 7. ročník mezinárodní
 
 <!-- imported from the old website -->
 
-<p>Smyslem těchto letních konferencí je především výměna názorů, definování správné správní praxe a společné přemítání nad vybranými tématy, která se jeví jako zásadní či obzvlášť palčivá, ať již de lege lata či de lege ferenda. Mezi sebou mají možnost diskutovat představitelé české i zahraniční právní vědy, ústavní a správní justice a veřejnosprávní praxe. </p><p>Podrobnosti o konferenci najdete <a href="http://www.ochrance.cz/dalsi-aktivity/konference/?tx_odcalendar%5Buid%5D=33&amp;cHash=2930d6dafdea0e3ecb30c3c0da1fadd6">zde</a>.</p>
+<p>Smyslem těchto letních konferencí je především výměna názorů, definování správné správní praxe a společné přemítání nad vybranými tématy, která se jeví jako zásadní či obzvlášť palčivá, ať již de lege lata či de lege ferenda. Mezi sebou mají možnost diskutovat představitelé české i zahraniční právní vědy, ústavní a správní justice a veřejnosprávní praxe. </p><p>Podrobnosti o konferenci najdete <a href="/dalsi-aktivity/konference/?tx_odcalendar%5Buid%5D=33&amp;cHash=2930d6dafdea0e3ecb30c3c0da1fadd6">zde</a>.</p>

@@ -9,4 +9,4 @@ perex: "<p>Ve čtvrtek a pátek 22. a 23. listopadu pořádáme spolu s Pr�
 
 <!-- imported from the old website -->
 
-Program konference najdete <a href="https://www.ochrance.cz/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2018/konference-prakticka-implementace-clanku-12-umluvy-o-pravech-osob-se-zdravotnim-postizenim/" target="_blank">zde</a>.
+Program konference najdete <a href="/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2018/konference-prakticka-implementace-clanku-12-umluvy-o-pravech-osob-se-zdravotnim-postizenim/" target="_blank">zde</a>.

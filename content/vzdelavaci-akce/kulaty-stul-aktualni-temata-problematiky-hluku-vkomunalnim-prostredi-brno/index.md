@@ -29,4 +29,4 @@ stav de lege ferenda </b></li><li><b>Diskuse k vybraným aktuálním tématům
 v komunálním prostředí (např. hluk ze střelnic a „sportovních“ letišť, užívání
 staveb – hluk z tepelných čerpadel, hluk z pravidelných hudebních produkcí
 ve stavbě ad. </b></li></ul><p></p>
-<p><span style="font-size: 12.8px;">POZVÁNKA S PROGRAMEM </span><a href="https://www.ochrance.cz/uploads-import/projekt_ESF/00_2019_VA/KULATE_STOLY/11_19_Aktualni_temata_problematiky_hluku/11_19_Aktualni_temata_problematiky_hluku_v_komunalnim_prostredi_POZVANKA.pdf" style="font-size: 12.8px;">ZDE</a>.</p>
+<p><span style="font-size: 12.8px;">POZVÁNKA S PROGRAMEM </span><a href="/uploads-import/projekt_ESF/00_2019_VA/KULATE_STOLY/11_19_Aktualni_temata_problematiky_hluku/11_19_Aktualni_temata_problematiky_hluku_v_komunalnim_prostredi_POZVANKA.pdf" style="font-size: 12.8px;">ZDE</a>.</p>

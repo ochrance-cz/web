@@ -9,4 +9,4 @@ perex: "<p></p>"
 
 <!-- imported from the old website -->
 
-<p>Veškeré názory vyjadřované JUDr. Stanislavem Křečkem k  tématům, která se netýkají části agendy, kterou mu veřejná ochránkyně práv svěřila jako svému zástupci (viz <a href="http://www.ochrance.cz/rozdeleni-pusobnosti/">http://www.ochrance.cz/rozdeleni-pusobnosti/</a>), jsou výhradně jeho soukromými názory. V žádném případě nejde o stanoviska či názory veřejné ochránkyně práv.</p>
+<p>Veškeré názory vyjadřované JUDr. Stanislavem Křečkem k  tématům, která se netýkají části agendy, kterou mu veřejná ochránkyně práv svěřila jako svému zástupci (viz <a href="/rozdeleni-pusobnosti/">http://www.ochrance.cz/rozdeleni-pusobnosti/</a>), jsou výhradně jeho soukromými názory. V žádném případě nejde o stanoviska či názory veřejné ochránkyně práv.</p>

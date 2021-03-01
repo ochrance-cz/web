@@ -46,4 +46,4 @@ perex: |
 <p>14:00 – 14:15 <strong>Diskuse</strong></p>
 <p>14:15</p>
 <p>Ukončení konference</p>
-<p>Sborník z konference naleznete v části Publikace – <a href="https://www.ochrance.cz/dalsi-aktivity/publikace/sborniky-z-konferenci/">Sborníky z konferencí</a>.</p>
+<p>Sborník z konference naleznete v části Publikace – <a href="/dalsi-aktivity/publikace/sborniky-z-konferenci/">Sborníky z konferencí</a>.</p>

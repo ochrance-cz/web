@@ -28,5 +28,5 @@ perex: |
 <p>14:30 – 14:50  Přestávka na kávu a malé občerstvení</p>
 <p>14:50 – 15:30  </p><h4>V. blok – MOŽNOSTI SOUDNÍ OBRANY</h4><h5>„Žaloba proti rozhodnutí správního orgánu“</h5><p>JUDr. Kateřina Šimáčková, Ph.D., Nejvyšší správní soud</p><h5>„Žaloba ve veřejném zájmu – nová pravomoc veřejného ochránce práv od 1. 1. 2012“</h5><p>Mgr. Kateřina Valachová, Ph.D., Kancelář veřejného ochránce práv</p>
 <p>15:30 – 16:00  Shrnutí výsledků konference, formulace závěrů, ukončení konference</p>
-<p><a href="https://www.ochrance.cz/uploads-import/Konference/Organizacni_informace.doc" target="_blank"><img alt="" src="https://www.ochrance.cz/typo3/ext/od_linkdesc/icons/doc.gif" class="od_linkdesc_icon" /> Organizační informace</a> (38.9 kB, MS Word dokument)</p>
-<p><a href="https://www.ochrance.cz/uploads-import/Konference/Socialni-reforma_program.pdf" target="_blank">Program konference</a> (305.6 kB, Adobe Acrobat dokument)</p>
+<p><a href="/uploads-import/Konference/Organizacni_informace.doc" target="_blank"><img alt="" src="https://www.ochrance.cz/typo3/ext/od_linkdesc/icons/doc.gif" class="od_linkdesc_icon" /> Organizační informace</a> (38.9 kB, MS Word dokument)</p>
+<p><a href="/uploads-import/Konference/Socialni-reforma_program.pdf" target="_blank">Program konference</a> (305.6 kB, Adobe Acrobat dokument)</p>

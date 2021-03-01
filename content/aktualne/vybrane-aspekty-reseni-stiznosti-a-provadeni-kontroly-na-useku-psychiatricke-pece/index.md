@@ -9,4 +9,4 @@ perex: "<p>Seminář na toto téma proběhl v Kanceláři 10. října 2017. M
 
 <!-- imported from the old website -->
 
-Materiály jsou <a href="https://www.ochrance.cz/dalsi-aktivity/archiv-vzdelavacich-akci/?tx_odcalendar%5Buid%5D=240&amp;cHash=b8145b75e9334ae33451a38c7d8ce8af" target="_blank">zde</a>. Mimo jiné prezentace Povinnosti státu na úseku psychiatrie vyplývající z Evropské úmluvy o lidských právech a Přehled problematiky omezovacích prostředků.
+Materiály jsou <a href="/dalsi-aktivity/archiv-vzdelavacich-akci/?tx_odcalendar%5Buid%5D=240&amp;cHash=b8145b75e9334ae33451a38c7d8ce8af" target="_blank">zde</a>. Mimo jiné prezentace Povinnosti státu na úseku psychiatrie vyplývající z Evropské úmluvy o lidských právech a Přehled problematiky omezovacích prostředků.

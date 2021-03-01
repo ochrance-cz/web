@@ -27,5 +27,5 @@ klienty, kteří často ani netuší, v jakém nebezpečí se nacházejí.</spa
 předáme Ministerstvu práce a sociálních věcí, do jehož gesce tato
 problematika spadá, a který metodicky činnost krajských úřadů usměrňuje. </span><span style="font-family: Tahoma, sans-serif; font-size: 10pt;"> </span></p>
 
-<p class="MsoNormal"><span style="font-size: 10pt; font-family: Tahoma, sans-serif;">Více informací k tématu najdete také v naší <a href="http://www.ochrance.cz/uploads-import/ochrana_osob/ZARIZENI/Socialni_sluzby/SZ-Neregistrovana_web.pdf" target="_blank">publikaci k
+<p class="MsoNormal"><span style="font-size: 10pt; font-family: Tahoma, sans-serif;">Více informací k tématu najdete také v naší <a href="/uploads-import/ochrana_osob/ZARIZENI/Socialni_sluzby/SZ-Neregistrovana_web.pdf" target="_blank">publikaci k
 neregistrovaným zařízením</a>.</span></p>

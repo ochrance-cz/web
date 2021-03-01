@@ -17,4 +17,4 @@ startDate: 2019-09-19
 <p>   - účastníci řízení</p>
 <p>   - expertní součinnost</p>
 <p></p>
-<p><span style="font-size: 12.8px;">POZVÁNKA S PROGRAMEM <a href="https://www.ochrance.cz/uploads-import/projekt_ESF/00_2019_VA/SEMINARE/09_19_Stavebni_zavady_a_moznosti_jejich_reseni__Jihlava_/09_19_Stavebni_zavady_a_moznosti_jejich_reseni_POZVANKA.pdf" target="_blank">ZDE</a> (385.8 kB, Adobe Acrobat dokument)</span></p>
+<p><span style="font-size: 12.8px;">POZVÁNKA S PROGRAMEM <a href="/uploads-import/projekt_ESF/00_2019_VA/SEMINARE/09_19_Stavebni_zavady_a_moznosti_jejich_reseni__Jihlava_/09_19_Stavebni_zavady_a_moznosti_jejich_reseni_POZVANKA.pdf" target="_blank">ZDE</a> (385.8 kB, Adobe Acrobat dokument)</span></p>
