@@ -3,10 +3,10 @@
   command = "hugo"
 
 [context.production.environment]
-  HUGO_VERSION = "0.72.0"
+  HUGO_VERSION = "0.81.0"
 
 [[redirects]]
   from = "/*"
-  to = "/error/404/"
+  to = "/err/404/"
   status = 404
 
