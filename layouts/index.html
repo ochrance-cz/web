@@ -2,7 +2,7 @@
 <main>
   <header class="_home-header">
     {{ $images := $.Site.GetPage "/images" }}
-    {{ with $images.Resources.GetMatch (replaceRE "^.+images/" "" .Params.headerPic) }}
+    {{ with ($images.Resources.GetMatch (replaceRE "^.+images/" "" .Params.headerPic)).Resize "2000x" }}
         <img src="{{ .RelPermalink }}" style="aspect-ratio: {{.Width}} / {{.Height}}" width={{ .Width }} height={{.Height}}>
     {{ end }}
     <p class="motto">{{ .Params.claim }}</p>
