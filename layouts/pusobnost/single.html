@@ -31,6 +31,8 @@
    {{ $newsCat = "detence" }}
   {{ end }}
 
+  {{ partial "cta.html" . }}
+
   {{ if and (eq .Language.Lang "cs") (ne $newsCat "") }}
     <div class="_backdrop news">
       <section class="_news">
@@ -46,7 +48,5 @@
       </section>
     </div>
   {{ end }}
-
-  {{ partial "cta.html" . }}
 </main>
 {{ end }}
