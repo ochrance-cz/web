@@ -1,10 +1,9 @@
-{{/* Generates a valid Elasticsearch _bulk index payload */}}
 {{- $section := $.Site.GetPage "section" .Section }}
 {{- range .Site.Pages -}}
 {{- if or (and (.IsDescendant $section) (and (not .Draft) (not .Params.private))) $section.IsHome -}}
 {{- $id := md5 .Permalink }}
 {{- with .File }}{{ $id = .UniqueID }}{{ end }}
-{{ (dict "index" (dict "_index" "hugo" "_type" "doc"  "_id" $id)) | jsonify }}
+{{ (dict "index" (dict "_index" (print "ochrance-" .Language.Lang) "_type" "doc"  "_id" $id)) | jsonify }}
 {{ (dict "objectID" $id "date" .Date.UTC.Unix "description" .Description "expirydate" .ExpiryDate.UTC.Unix "fuzzywordcount" .FuzzyWordCount "keywords" .Keywords "kind" .Kind "lang" .Lang "lastmod" .Lastmod.UTC.Unix "permalink" .Permalink "publishdate" .PublishDate "readingtime" .ReadingTime "relpermalink" .RelPermalink "summary" .Summary "title" .Title "type" .Type "url" .Permalink "weight" .Weight "wordcount" .WordCount "section" .Section "tags" .Params.Tags "categories" .Params.Categories "authors" .Params.Authors "content" .Plain) | jsonify }}
 {{- end -}}
 {{- end }}
