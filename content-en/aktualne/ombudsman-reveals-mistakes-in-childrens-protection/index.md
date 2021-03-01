@@ -1,7 +1,7 @@
 ---
 title: "Ombudsman reveals mistakes in children's protection"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2016/ombudsman-reveals-mistakes-in-childrens-protection/"
 date: 2016-06-08
 perex: "<p>The Czech Ombudsman's Office has looked into 142 complaints against the bodies for social and legal protection of children (OSPOD) in the past two years and has found mistakes in 77 cases (54 percent).</p>"

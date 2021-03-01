@@ -1,7 +1,7 @@
 ---
 title: "Documentary film competition called Equal.doc"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2019/documentary-film-competition-called-equaldoc/"
 date: 2019-11-26
 perex: "<p></p>"

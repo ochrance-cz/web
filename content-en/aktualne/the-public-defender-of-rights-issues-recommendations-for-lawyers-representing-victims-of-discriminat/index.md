@@ -1,7 +1,7 @@
 ---
 title: "The Public Defender of Rights issues recommendations for lawyers representing victims of discrimination"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2019/the-public-defender-of-rights-issues-recommendations-for-lawyers-representing-victims-of-discriminat/"
 date: 2019-10-22
 perex: "<p></p>"

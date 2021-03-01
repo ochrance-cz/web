@@ -1,7 +1,7 @@
 ---
 title: "Czech Ombudswoman: the fee of CZK 10.000 for the notification addressed to the Office for the Protection of Competition about the potentially unlawful public procurement procedure is unconstitutional"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2019/czech-ombudswoman-the-fee-of-czk-10000-for-the-notification-addressed-to-the-office-for-the-protec/"
 date: 2019-07-11
 perex: "<p></p>"

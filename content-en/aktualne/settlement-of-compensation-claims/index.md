@@ -1,7 +1,7 @@
 ---
 title: "Settlement of compensation claims"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2012/settlement-of-compensation-claims/"
 date: 2012-01-30
 perex: "<p></p><p>Investigation into the settlement of compensation claims in compliance with Law No. 82/1998 Coll., the Liability for Damage Caused When Exercising Public Authority by a Decision or a Wrong Procedure Act, as subsequently amended</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Czech and Austrian Ombudsmen to discuss cross-border problems concerning social security benefits"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2018/czech-and-austrian-ombudsmen-to-discuss-cross-border-problems-concerning-social-security-benefits/"
 date: 2018-02-26
 perex: "<p>Anna Šabatová, Czech Ombudswoman, and Günther Kräuter, one of three Austrian Ombudsmen, together with their colleagues from the social security departments met in Vienna on the 20th February and discussed the cross-border problems concerning the application of the EU Regulation on the Coordination of Social Security Systems in the EU Member States.</p>"

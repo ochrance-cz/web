@@ -1,7 +1,7 @@
 ---
 title: "Shortcoming in providing subsidies from the Green Savings Programme"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2013/shortcoming-in-providing-subsidies-from-the-green-savings-programme/"
 date: 2013-12-10
 perex: "<p>The Ombudsman informed the Chamber of Deputies of the Parliament of the Czech Republic about shortcoming of the Ministry of Environment and the State Environmental Fund in proving subsidies from the Green Savings Programme. The Ombudsman has not managed to achieve adequate remedial measures, even after having advised a higher authority or the government or informed the public of the findings from inquiries.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Believer's work on Saturday no discrimination"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2011/believers-work-on-saturday-no-discrimination/"
 date: 2011-07-29
 perex: "<p></p><p>The employer who wants his religious employee to work on Saturday commits no discrimination, Czech ombudsman Pavel Varvarovsky said today, commenting on the case of two employees who had turned to him with their problem.</p>"

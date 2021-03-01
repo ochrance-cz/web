@@ -1,7 +1,7 @@
 ---
 title: "Plan to Expand the Human Rights Activities of the Public Defender of Rights"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2020/plan-to-expand-the-human-rights-activities-of-the-public-defender-of-rights/"
 date: 2020-01-23
 perex: "<p>The Office of the Public Defender of Rights has launched a four-year plan focused on human rights protection. The Plan will allow the ombudsman to focus even more strongly on particularly vulnerable groups, such as children, people with disabilities and people whose freedom has been restricted.</p>"

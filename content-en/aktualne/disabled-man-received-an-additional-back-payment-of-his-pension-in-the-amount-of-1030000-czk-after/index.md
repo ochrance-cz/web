@@ -1,7 +1,7 @@
 ---
 title: "Disabled man received an additional back payment of his pension in the amount of 1.030.000 CZK after the intervention of the Ombudswoman"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2018/disabled-man-received-an-additional-back-payment-of-his-pension-in-the-amount-of-1030000-czk-after/"
 date: 2018-09-05
 perex: "<p></p>"

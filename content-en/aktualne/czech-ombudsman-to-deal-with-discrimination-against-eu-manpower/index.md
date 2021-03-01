@@ -1,7 +1,7 @@
 ---
 title: "Czech ombudsman to deal with discrimination against EU manpower"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2018/czech-ombudsman-to-deal-with-discrimination-against-eu-manpower/"
 date: 2018-01-05
 perex: "<p>Under an amendment to the anti-discrimination law which took affect on the 1st January 2018, the Czech ombudsman will observe whether foreign workers from EU countries are discriminated in the Czech Republic over their citizenship.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Recommendation to adopt a law concerning persons with disabilities accompanied by a specially trained guide dog"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2016/recommendation-to-adopt-a-law-concerning-persons-with-disabilities-accompanied-by-a-specially-traine/"
 date: 2016-09-26
 perex: "<p></p>"

@@ -1,7 +1,7 @@
 ---
 title: "Ombudsman succeeded with his critics of the project DONEZ"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2013/ombudsman-succeeded-with-his-critics-of-the-project-donez/"
 date: 2013-01-30
 perex: "<p>After critics of the system and unsuccessful recommendation addressed to the Chamber of Deputies to cancel the part of provision of employment law the ombudsman announced he was considering bringing an action to the administrative court protect the public interest. On the 24th January the Minister of Labour announced, the Ministry of Labour and Social Affairs is going to dampen the project.</p>"

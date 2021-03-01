@@ -1,7 +1,7 @@
 ---
 title: "Indemnification for a delay of an administrative authority"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2017/indemnification-for-a-delay-of-an-administrative-authority/"
 date: 2017-11-20
 perex: "<p></p>"

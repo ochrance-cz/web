@@ -1,7 +1,7 @@
 ---
 title: "Removal from a managerial position on grounds of maternity"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2015/removal-from-a-managerial-position-on-grounds-of-maternity/"
 date: 2015-03-18
 perex: "<p>In this case, the complainant was removed by her employer from a managerial position shortly before going on maternity leave. She considered this to be discriminatory and protested against the employer’s conduct in writing. The employer responded by referring to Section 73 of the Labour Code and claiming that she could be removed from such a position without being given a reason.</p>"

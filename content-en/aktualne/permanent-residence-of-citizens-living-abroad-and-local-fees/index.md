@@ -1,7 +1,7 @@
 ---
 title: "Permanent residence of citizens living abroad and local fees"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2020/permanent-residence-of-citizens-living-abroad-and-local-fees/"
 date: 2020-04-27
 perex: "<p></p>"

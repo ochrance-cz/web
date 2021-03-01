@@ -1,7 +1,7 @@
 ---
 title: "The Defender’s Activities in the Area of Detention in the 1st quarter of 2007"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2007/the-defenders-activities-in-the-area-of-detention-in-the-1st-quarter-of-2007/"
 date: 2007-07-26
 perex: '<p><h2 class="Nadpis4" style="margin-top:18pt;"><span style="font-size:14pt;text-decoration:none;">The Defender’s Activities in the Area of Deten</span><span style="font-size:14pt;text-decoration:none;">tion in the 1</span><span style="font-size:14pt;text-decoration:none;">st</span><span style="font-size:14pt;text-decoration:none;"> quarter of 2007</span><span style="font-size:14pt;text-decoration:none;"> </span></h2> <p class="zkladntextodsazen" style="text-indent:27pt;">In March 2007, the Defender published his conclusions from <span style="font-weight:bold;font-style:italic;">visits to facilities for the exercise of institutional and protective education</span><span style="font-weight:bold;"> </span>carried out in the fourth quarter of 2006. The unabridged version of the extensive reports from such facilities is displayed on the Defender’s website in the <a href="http://www.ochrance.cz/cinnost/ochrana.php">Ochrana osob omezených na svobodě</a> section.</p>'

@@ -1,7 +1,7 @@
 ---
 title: "Increased number of cases"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2012/increased-number-of-cases/"
 date: 2012-08-01
 perex: "<p></p>"

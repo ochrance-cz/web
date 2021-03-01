@@ -1,7 +1,7 @@
 ---
 title: "Assistance in material need is not subject to debt collection procedures"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2020/assistance-in-material-need-is-not-subject-to-debt-collection-procedures/"
 date: 2020-05-14
 perex: "<p></p>"

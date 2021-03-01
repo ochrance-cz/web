@@ -1,7 +1,7 @@
 ---
 title: "Ombudsman unveiled maltreatment in unregistered homes for elderly"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2015/ombudsman-unveiled-maltreatment-in-unregistered-homes-for-elderly/"
 date: 2015-02-02
 perex: "<p></p>"

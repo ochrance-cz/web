@@ -1,7 +1,7 @@
 ---
 title: "Czech Ombudsman published final report on the sociological research named Work-Life Balance On Czech Ministries"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2018/czech-ombudsman-published-final-report-on-the-sociological-research-named-work-life-balance-on-czech/"
 date: 2018-04-19
 perex: "<p>The survey confirms what other both foreign and domestic surveys already showed &ndash; that satisfied employees are more effective workers and more loyal to their employers. There is apparently a relation not only between worker satisfaction and flexible work and benefits supporting work-life balance, but also between economic development and the growth of the organisation.</p>"

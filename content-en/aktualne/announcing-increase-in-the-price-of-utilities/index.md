@@ -1,7 +1,7 @@
 ---
 title: "Announcing increase in the price of utilities"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2015/announcing-increase-in-the-price-of-utilities/"
 date: 2015-05-22
 perex: "<p></p>"

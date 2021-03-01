@@ -1,7 +1,7 @@
 ---
 title: "New collection of opinions on the topic Citizenship of the EU"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2018/new-collection-of-opinions-on-the-topic-citizenship-of-the-eu/"
 date: 2018-04-10
 perex: "<p></p>"

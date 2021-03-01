@@ -1,7 +1,7 @@
 ---
 title: "Discrimination on grounds of sex – the main theme in raising public awareness and research activities in 2014 in the area of equal treatment"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2014/discrimination-on-grounds-of-sex-the-main-theme-in-raising-public-awareness-and-research-activit/"
 date: 2014-07-21
 perex: "<p></p>"

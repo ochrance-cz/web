@@ -1,7 +1,7 @@
 ---
 title: "European citizens, you have the right to take part in municipal elections"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2014/european-citizens-you-have-the-right-to-take-part-in-municipal-elections/"
 date: 2014-09-16
 perex: "<p></p>"

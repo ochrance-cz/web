@@ -1,7 +1,7 @@
 ---
 title: "Czech ombudsman takes up case of Chinese Christians seeking asylum"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2018/czech-ombudsman-takes-up-case-of-chinese-christians-seeking-asylum/"
 date: 2018-01-02
 perex: "<p>The Czech ombudsman has taken up the case of around 70 Chinese Christians who applied for asylum in the Czech Republic on the grounds that they fear persecution at home. </p>"

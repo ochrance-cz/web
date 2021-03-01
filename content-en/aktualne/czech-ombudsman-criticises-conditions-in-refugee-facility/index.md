@@ -1,7 +1,7 @@
 ---
 title: "Czech ombudsman criticises conditions in refugee facility"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2015/czech-ombudsman-criticises-conditions-in-refugee-facility/"
 date: 2015-10-15
 perex: "<p>The severe conditions which children and families with children have to endure in Bělá-Jezová constitute a violation of the European Convention on Human Rights and the Convention on the Rights of the Child. Objectively speaking, children in the facility have worse living conditions than inmates in Czech prisons. Bělá-Jezová is a former military facility where the living conditions are, in many ways, much worse than those in Czech prisons. Prison inmates are people who committed a crime and were convicted for it. On the other hand, the people in Bělá have not been convicted of any crime and no sentence has been imposed on them. The fact that hundreds of children are detained in this facility goes against our notion of the Czech Republic as a civilised country. </p>"

@@ -1,7 +1,7 @@
 ---
 title: "Child’s right to be in contact with his/her tutors"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2020/childs-right-to-be-in-contact-with-hisher-tutors/"
 date: 2020-03-18
 perex: "<p></p>"

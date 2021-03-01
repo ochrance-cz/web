@@ -1,7 +1,7 @@
 ---
 title: "The Ombudsman’s Deputy helped families separated by the pandemic"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2020/the-ombudsmans-deputy-helped-families-separated-by-the-pandemic/"
 date: 2020-05-11
 perex: "<p></p>"

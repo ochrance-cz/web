@@ -1,7 +1,7 @@
 ---
 title: "Regulation of advertising in Prague"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2016/regulation-of-advertising-in-prague/"
 date: 2016-11-29
 perex: "<p></p>"

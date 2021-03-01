@@ -1,7 +1,7 @@
 ---
 title: "Defender’s own initiative &ndash; modification of the façade of a historical building"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2015/defenders-own-initiative-modification-of-the-facade-of-a-historical-building/"
 date: 2015-11-09
 perex: "<p></p>"

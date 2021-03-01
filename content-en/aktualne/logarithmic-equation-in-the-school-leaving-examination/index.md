@@ -1,7 +1,7 @@
 ---
 title: "Logarithmic equation in the school-leaving examination"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2017/logarithmic-equation-in-the-school-leaving-examination/"
 date: 2017-12-14
 perex: "<p></p>"

@@ -1,10 +1,10 @@
 ---
 title: "Eviction of Romani families from Vsetín"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2007/eviction-of-romani-families-from-vsetin/"
 date: 2007-08-16
-perex: "<p><h2 class=\"Nadpis1\">Eviction of Romani families from Vsetín</h2> <p class=\"Normln-web\">The inquiry in the case of the eviction of the Romani residents from the balcony house in Smetanova street in Vsetín was closed, stating maladministration by the Municipal Authority in Vsetín.</p>"
+perex: '<p><h2 class="Nadpis1">Eviction of Romani families from Vsetín</h2> <p class="Normln-web">The inquiry in the case of the eviction of the Romani residents from the balcony house in Smetanova street in Vsetín was closed, stating maladministration by the Municipal Authority in Vsetín.</p>'
 ---
 
 <!-- imported from the old website -->
@@ -17,7 +17,7 @@ perex: "<p><h2 class=\"Nadpis1\">Eviction of Romani families from Vsetín</h2> <
 <p class="Normln-web">The Defender has already issued his final statement in the case of the eviction of the Romani families from Vsetín and he is waiting to discover whether the Municipal Authority in Vsetín adopts the remedial measures proposed by him.</p>
 <p class="Normln-web"> </p>
 </p>
-	
+  
 <h2 class="Nadpis1">Eviction of Romani families from Vsetín</h2>
 <p class="Normln-web">The inquiry in the case of the eviction of the Romani residents from the balcony house in Smetanova street in Vsetín was closed, stating maladministration by the Municipal Authority in Vsetín.</p>
 <p class="Normln-web">The Defender holds the view that the export of socially excluded families or families threatened with social exclusion from municipalities and towns where they have lived for a long time cannot be accepted as a conceptual and effective solution. Co-operation between the bodies of aid in material need, the social and legal protection of children, field social workers, non-governmental organisations, Romani families and the self-governing bodies of the town is the key to dealing with social exclusion.</p>

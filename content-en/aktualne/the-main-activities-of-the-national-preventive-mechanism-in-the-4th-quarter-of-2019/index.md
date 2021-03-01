@@ -1,7 +1,7 @@
 ---
 title: "The main activities of the National Preventive Mechanism in the 4th quarter of 2019"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2020/the-main-activities-of-the-national-preventive-mechanism-in-the-4th-quarter-of-2019/"
 date: 2020-03-30
 perex: "<p></p>"

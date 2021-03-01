@@ -1,7 +1,7 @@
 ---
 title: "The abbreviation of the foreign degree should be included in the identity card if requested"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2019/the-abbreviation-of-the-foreign-degree-should-be-included-in-the-identity-card-if-requested/"
 date: 2019-07-31
 perex: "<p></p>"

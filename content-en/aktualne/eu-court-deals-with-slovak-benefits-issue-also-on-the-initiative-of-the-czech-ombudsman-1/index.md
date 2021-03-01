@@ -1,7 +1,7 @@
 ---
 title: "EU court deals with Slovak benefits issue also on the initiative of the Czech ombudsman"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2013/eu-court-deals-with-slovak-benefits-issue-also-on-the-initiative-of-the-czech-ombudsman-1/"
 date: 2013-07-25
 perex: "<p>The European Court of Justice in Luxembourg has started dealing with the issue of long-time care benefits that Slovakia is not paying to its citizens living in the Czech Republic, on the initiative of Czech ombudsman Pavel Varvarovsky. </p>"

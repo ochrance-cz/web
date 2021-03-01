@@ -1,7 +1,7 @@
 ---
 title: "Czech bill on foreigners' health insurance is bad"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2014/czech-bill-on-foreigners-health-insurance-is-bad/"
 date: 2014-07-24
 perex: "<p>The Defender (ombudsman) Anna Šabatova is convinced that the draft of the bill on foreigners' health insurance is completely bad and has so many shortcomings that it is incorrigible.</p>"

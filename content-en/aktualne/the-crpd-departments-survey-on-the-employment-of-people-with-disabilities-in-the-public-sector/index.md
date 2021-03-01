@@ -1,7 +1,7 @@
 ---
 title: "The CRPD Department’s survey on the employment of people with disabilities in the public sector"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2020/the-crpd-departments-survey-on-the-employment-of-people-with-disabilities-in-the-public-sector/"
 date: 2020-04-17
 perex: "<p></p>"

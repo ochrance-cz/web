@@ -1,10 +1,10 @@
 ---
 title: "The Czech Equality Body publishes the summary report 2017"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2018/the-czech-equality-body-publishes-the-summary-report-2017/"
 date: 2018-05-16
-perex: "<p></p><p>The Equality Body of the Czech Republic &ndash; the Ombudswoman – published the <a href=\"https://www.ochrance.cz/fileadmin/user_upload/DISKRIMINACE/Vyrocni_zpravy/Summary_report_on_protection_against_discrimination_2017.pdf\" target=\"_blank\">summary report for the year 2017</a> informing about her main activities in the field of protection against discrimination.</p>"
+perex: '<p></p><p>The Equality Body of the Czech Republic &ndash; the Ombudswoman – published the <a href="https://www.ochrance.cz/fileadmin/user_upload/DISKRIMINACE/Vyrocni_zpravy/Summary_report_on_protection_against_discrimination_2017.pdf" target="_blank">summary report for the year 2017</a> informing about her main activities in the field of protection against discrimination.</p>'
 ---
 
 <!-- imported from the old website -->

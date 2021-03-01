@@ -1,7 +1,7 @@
 ---
 title: "Review of school leaving examinations in the Czech Republic will become more transparent"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2019/review-of-school-leaving-examinations-in-the-czech-republic-will-become-more-transparent/"
 date: 2019-03-04
 perex: "<p></p>"

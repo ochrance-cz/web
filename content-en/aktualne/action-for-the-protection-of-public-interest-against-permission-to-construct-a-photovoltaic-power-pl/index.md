@@ -1,7 +1,7 @@
 ---
 title: "Action for the protection of public interest against permission to construct a photovoltaic power plant"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2016/action-for-the-protection-of-public-interest-against-permission-to-construct-a-photovoltaic-power-pl/"
 date: 2016-04-01
 perex: "<p></p>"

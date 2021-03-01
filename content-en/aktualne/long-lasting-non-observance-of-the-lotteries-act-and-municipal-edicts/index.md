@@ -1,7 +1,7 @@
 ---
 title: "Long-lasting non-observance of the Lotteries Act and municipal edicts"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2012/long-lasting-non-observance-of-the-lotteries-act-and-municipal-edicts/"
 date: 2012-07-20
 perex: "<p></p>"

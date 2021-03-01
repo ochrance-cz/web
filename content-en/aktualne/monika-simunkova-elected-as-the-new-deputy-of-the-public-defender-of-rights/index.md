@@ -1,7 +1,7 @@
 ---
 title: "Monika Šimůnková elected as the new Deputy of the Public Defender of Rights"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2021/monika-simunkova-elected-as-the-new-deputy-of-the-public-defender-of-rights/"
 date: 2020-02-04
 perex: "<p>On 4 December 2019, the newly elected Deputy of the Public Defender of Rights Monika Šimůnková took her office. The current Ombudswoman Anna Šabatová entrusted Ms. Šimůnková with the concrete agendas on 9 January. Ms. Šimůnková will deal with the cases and issues from the areas of the protection of children’s rights, environmental law, building law, issues concerning the transportation, law on administrative delicts, tax law, and the right to information.</p>"

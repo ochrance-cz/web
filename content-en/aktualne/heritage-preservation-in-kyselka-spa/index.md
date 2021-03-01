@@ -1,7 +1,7 @@
 ---
 title: "Heritage preservation in Kyselka Spa"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2010/heritage-preservation-in-kyselka-spa/"
 date: 2010-03-18
 perex: "<p></p>"

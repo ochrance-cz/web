@@ -1,7 +1,7 @@
 ---
 title: "Foreign development co-operation assistance to a segregated school"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2017/foreign-development-co-operation-assistance-to-a-segregated-school/"
 date: 2017-12-20
 perex: "<p></p>"

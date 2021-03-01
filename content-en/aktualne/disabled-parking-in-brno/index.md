@@ -1,7 +1,7 @@
 ---
 title: "Disabled parking in Brno"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2019/disabled-parking-in-brno/"
 date: 2019-02-20
 perex: "<p></p>"

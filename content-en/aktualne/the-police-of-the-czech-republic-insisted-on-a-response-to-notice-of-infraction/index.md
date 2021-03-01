@@ -1,7 +1,7 @@
 ---
 title: "The Police of the Czech Republic insisted on a response to notice of infraction"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2015/the-police-of-the-czech-republic-insisted-on-a-response-to-notice-of-infraction/"
 date: 2015-07-31
 perex: "<p>The Ombudsman was approached by a complainant who objected to the procedure taken by the Police of the Czech Republic within a road safety campaign.</p>"

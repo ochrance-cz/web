@@ -1,7 +1,7 @@
 ---
 title: "Joint recommendations of the Ministry of Labour and Social Affairs and the Public Defender of Rights on Sheltered Housing"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2010/joint-recommendations-of-the-ministry-of-labour-and-social-affairs-and-the-public-defender-of-rights/"
 date: 2010-03-01
 perex: "<p></p><p>In connection with the amendment to the Social Services Act effective since August 1, 2009, the Defender together with the Ministry of Labour and Social Affairs issued recommendations concerning sheltered housing. </p>"

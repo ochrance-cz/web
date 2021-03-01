@@ -1,7 +1,7 @@
 ---
 title: "People turn more often to ombudsman, especially with social problems"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2013/people-turn-more-often-to-ombudsman-especially-with-social-problems/"
 date: 2013-04-17
 perex: "<p></p>"

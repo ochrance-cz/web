@@ -1,7 +1,7 @@
 ---
 title: "Return of property seized by Communists"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2018/return-of-property-seized-by-communists/"
 date: 2018-06-26
 perex: "<p>Nearly 30 years after the Velvet Revolution the Czech ombudsman still receives complaints regarding the return of the property confiscated by the Communist regime. In the past five years, deputy ombudsman Stanislav Krecek dealt with almost 150 of them, on average two a month.</p>"

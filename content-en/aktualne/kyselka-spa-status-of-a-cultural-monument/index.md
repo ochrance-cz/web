@@ -1,7 +1,7 @@
 ---
 title: "Kyselka Spa – status of a cultural monument"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2010/kyselka-spa-status-of-a-cultural-monument/"
 date: 2010-11-19
 perex: "<p></p><p>State monument preservation bodies failed to meet their commitments as imposed by the law and their lack of action means that the protected sites in the former spa complex in Kyselka can no longer be saved.</p>"

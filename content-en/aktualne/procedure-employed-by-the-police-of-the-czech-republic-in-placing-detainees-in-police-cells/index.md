@@ -1,7 +1,7 @@
 ---
 title: "Procedure employed by the Police of the Czech Republic in placing detainees in police cells"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2010/procedure-employed-by-the-police-of-the-czech-republic-in-placing-detainees-in-police-cells/"
 date: 2010-12-08
 perex: "<p></p>"

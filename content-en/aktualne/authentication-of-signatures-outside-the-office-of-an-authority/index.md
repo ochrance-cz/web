@@ -1,7 +1,7 @@
 ---
 title: "Authentication of signatures outside the office of an authority"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2009/authentication-of-signatures-outside-the-office-of-an-authority/"
 date: 2009-08-18
 perex: "<p></p>"

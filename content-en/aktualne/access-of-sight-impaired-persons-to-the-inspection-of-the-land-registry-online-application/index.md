@@ -1,7 +1,7 @@
 ---
 title: "Access of sight impaired persons to the “Inspection of the Land Registry” online application"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2016/access-of-sight-impaired-persons-to-the-inspection-of-the-land-registry-online-application/"
 date: 2016-05-18
 perex: "<p>The Deputy-Defender inquired into the conditions under which sight impaired persons are able to use the “Inspection of the Land Registry” online application without entering CAPTCHA codes.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Identity of representatives of the public in a courtroom"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2012/identity-of-representatives-of-the-public-in-a-courtroom/"
 date: 2012-11-21
 perex: "<p>Establishment of identity of representatives of the public in a courtroom as an incorrect official procedure pursuant to Act No. 82/1999 Coll.</p>"

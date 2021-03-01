@@ -1,7 +1,7 @@
 ---
 title: "“Pranks” on teachers"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2017/pranks-on-teachers/"
 date: 2017-02-13
 perex: "<p></p>"

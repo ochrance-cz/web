@@ -1,7 +1,7 @@
 ---
 title: "Imposition of the duty to visit a mediator"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2016/imposition-of-the-duty-to-visit-a-mediator/"
 date: 2016-08-17
 perex: "<p>A father of a child approached the Defender with a request for inquiry into the procedure of the Prague City Hall (hereinafter also the “City Hall”), which, in the appellate proceedings, annulled the decision of the Prague 10 Municipal Authority on imposing on the mother the duty to visit a mediator.</p>"

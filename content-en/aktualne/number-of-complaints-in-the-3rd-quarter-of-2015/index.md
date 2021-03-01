@@ -1,7 +1,7 @@
 ---
 title: "Number of complaints in the 3rd quarter of 2015"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2015/number-of-complaints-in-the-3rd-quarter-of-2015/"
 date: 2015-10-29
 perex: "<p></p>"

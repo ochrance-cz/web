@@ -1,7 +1,7 @@
 ---
 title: "Unequal pay"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2016/unequal-pay/"
 date: 2016-04-27
 perex: "<p></p>"

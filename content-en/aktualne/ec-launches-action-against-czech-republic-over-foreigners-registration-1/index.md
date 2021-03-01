@@ -1,7 +1,7 @@
 ---
 title: "EC launches action against Czech Republic over foreigners' registration"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2013/ec-launches-action-against-czech-republic-over-foreigners-registration-1/"
 date: 2013-09-05
 perex: "<p>The European Commission (EC) has launched proceedings EU Pilot before court action against the Czech Republic over Visapoint, the Foreign Ministry's system for foreigners' registration, on the initiative of the Czech Ombudsman.</p>"

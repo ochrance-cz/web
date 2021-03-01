@@ -1,7 +1,7 @@
 ---
 title: "Research confirms indirect discrimination against Romany pupils"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2012/research-confirms-indirect-discrimination-against-romany-pupils/"
 date: 2012-06-07
 perex: "<p></p><p>Although the proportion of Romany people in the Czech Republic ranges from 1.4 – 2.8 % of the total number of inhabitants, 32 % of pupils in practical elementary schools are Romany children. This figure is based on a survey carried out by the Public Defender of Rights in 67 randomly selected practical elementary schools in all the regions of the Czech Republic. </p>"

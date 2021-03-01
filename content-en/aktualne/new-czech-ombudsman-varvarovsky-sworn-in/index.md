@@ -1,7 +1,7 @@
 ---
 title: "New Czech Ombudsman Varvarovsky sworn-in"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2010/new-czech-ombudsman-varvarovsky-sworn-in/"
 date: 2010-09-13
 perex: "<p></p>"

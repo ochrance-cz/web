@@ -1,7 +1,7 @@
 ---
 title: "Anna Šabatová becomes new Czech ombudsman"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2014/anna-sabatova-becomes-new-czech-ombudsman/"
 date: 2014-02-14
 perex: "<p>She will take up the post after being sworn-in by Chamber of Deputies chairman Jan Hamacek on the 18th February.</p>"

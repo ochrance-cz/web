@@ -1,7 +1,7 @@
 ---
 title: "Czech ombudsman wants MPs to make eight changes to laws"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2011/czech-ombudsman-wants-mps-to-make-eight-changes-to-laws/"
 date: 2011-04-07
 perex: "<p></p><p>Czech ombudsman Pavel Varvarovsky has recommended to lawmakers to make eight changes to laws or directives that are to help the unemployed, orphans and mental hospital inmates, among others, he told journalists today. </p>"

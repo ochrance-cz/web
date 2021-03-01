@@ -1,7 +1,7 @@
 ---
 title: "Choosing a secondary school for children placed in a children’s home"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2018/choosing-a-secondary-school-for-children-placed-in-a-childrens-home/"
 date: 2018-05-09
 perex: "<p></p>"

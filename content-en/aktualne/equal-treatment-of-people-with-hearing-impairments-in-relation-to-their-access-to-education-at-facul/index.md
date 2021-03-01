@@ -1,7 +1,7 @@
 ---
 title: "Equal treatment of people with hearing impairments in relation to their access to education at faculties of education of public universities"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2018/equal-treatment-of-people-with-hearing-impairments-in-relation-to-their-access-to-education-at-facul/"
 date: 2018-09-12
 perex: "<p></p>"

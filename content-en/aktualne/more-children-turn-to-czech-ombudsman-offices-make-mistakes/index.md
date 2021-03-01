@@ -1,7 +1,7 @@
 ---
 title: "More children turn to Czech ombudsman, offices make mistakes"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2016/more-children-turn-to-czech-ombudsman-offices-make-mistakes/"
 date: 2016-10-31
 perex: "<p>(CTK) &ndash; The Office of Czech Ombudsman Anna Sabatova has received 49 complaints from children this year, her assistant Barbora Kubikova told CTK, adding that the number for the full last year was 51 in the country with a population of 10.5 million.</p>"

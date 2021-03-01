@@ -1,7 +1,7 @@
 ---
 title: "Czech Ombudsman as the National Preventive Mechanism presents the NPM annual report 2017"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2018/czech-ombudsman-as-the-national-preventive-mechanism-presents-the-npm-annual-report-2017/"
 date: 2018-04-30
 perex: "<p></p>"

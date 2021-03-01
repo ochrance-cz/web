@@ -1,7 +1,7 @@
 ---
 title: "Comments on draft directive to specify the model, details and design of Social Systems Cards"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2012/comments-on-draft-directive-to-specify-the-model-details-and-design-of-social-systems-cards/"
 date: 2012-04-26
 perex: "<p></p>"

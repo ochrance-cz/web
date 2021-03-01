@@ -1,7 +1,7 @@
 ---
 title: "Permitting a change of surname and the applicant’s good faith"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2017/permitting-a-change-of-surname-and-the-applicants-good-faith/"
 date: 2017-03-20
 perex: "<p></p>"

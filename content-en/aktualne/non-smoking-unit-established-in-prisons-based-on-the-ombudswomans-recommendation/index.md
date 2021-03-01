@@ -1,7 +1,7 @@
 ---
 title: "Non-smoking unit established in prisons based on the Ombudswoman’s recommendation"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2018/non-smoking-unit-established-in-prisons-based-on-the-ombudswomans-recommendation/"
 date: 2018-09-19
 perex: "<p></p>"

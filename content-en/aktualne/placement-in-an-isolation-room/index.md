@@ -1,7 +1,7 @@
 ---
 title: "Placement in an isolation room"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2017/placement-in-an-isolation-room/"
 date: 2017-06-12
 perex: "<p></p>"

@@ -1,7 +1,7 @@
 ---
 title: "Exercise of social and legal protection of sexually abused children"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2010/exercise-of-social-and-legal-protection-of-sexually-abused-children/"
 date: 2010-02-10
 perex: "<p></p><p>Based on news in the media, the Defender opened an inquiry into the procedure of the children’s home in Uherský Ostroh and the Brno-north municipal office. </p>"

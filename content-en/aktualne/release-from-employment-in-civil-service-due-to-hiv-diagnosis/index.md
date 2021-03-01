@@ -1,7 +1,7 @@
 ---
 title: "Release from employment in civil service due to HIV diagnosis"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2014/release-from-employment-in-civil-service-due-to-hiv-diagnosis/"
 date: 2014-02-24
 perex: "<p>Infection with HIV (including the asymptomatic phase) can be considered disability, i.e. a prohibited ground of discrimination according to the Antidiscrimination Act. On the basis of the Defender’s report, the complainant filed a court action.</p>"

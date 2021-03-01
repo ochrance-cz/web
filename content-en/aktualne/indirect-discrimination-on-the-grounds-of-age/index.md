@@ -1,7 +1,7 @@
 ---
 title: "Indirect discrimination on the grounds of age"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2015/indirect-discrimination-on-the-grounds-of-age/"
 date: 2015-05-04
 perex: "<p></p>"

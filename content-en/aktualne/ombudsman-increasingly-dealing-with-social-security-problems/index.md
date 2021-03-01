@@ -1,7 +1,7 @@
 ---
 title: "Ombudsman increasingly dealing with social security problems"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2018/ombudsman-increasingly-dealing-with-social-security-problems/"
 date: 2018-04-17
 perex: "<p>The total number of complaints delivered in 2017 to the Ombudsman was 8,191. People increasingly turn to the Ombudsman's Office with their problems in the sphere of social security and also number of complaints concerning work and employment increased by 39 percent.</p>"

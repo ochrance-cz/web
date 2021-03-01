@@ -1,7 +1,7 @@
 ---
 title: "Siblings have the right to grow up together"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2018/siblings-have-the-right-to-grow-up-together/"
 date: 2018-02-12
 perex: "<p></p>"

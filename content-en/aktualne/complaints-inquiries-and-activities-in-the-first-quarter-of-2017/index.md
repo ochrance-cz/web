@@ -1,7 +1,7 @@
 ---
 title: "Complaints, inquiries and activities in the first quarter of 2017"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2017/complaints-inquiries-and-activities-in-the-first-quarter-of-2017/"
 date: 2017-05-16
 perex: "<p>A total of 2170 complaints were received in the first quarter of 2017, which is 60 more than in the same period last year. The ombudsman was approached by 1462 persons in matters falling within her competence under the law, which is 79 more than in the first quarter of the past year.</p>"

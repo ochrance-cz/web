@@ -1,7 +1,7 @@
 ---
 title: "Ombudsman unveils shortcomings in police treating detainees"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2010/ombudsman-unveils-shortcomings-in-police-treating-detainees/"
 date: 2010-10-13
 perex: "<p></p>"

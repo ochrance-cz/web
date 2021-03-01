@@ -1,7 +1,7 @@
 ---
 title: "Labour inspection in the Czech Republic focused on discriminatory job ads published on an online advertising portal"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2019/labour-inspection-in-the-czech-republic-focused-on-discriminatory-job-ads-published-on-an-online-adv/"
 date: 2019-02-25
 perex: "<p></p>"

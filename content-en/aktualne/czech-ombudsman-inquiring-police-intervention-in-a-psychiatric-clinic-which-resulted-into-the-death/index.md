@@ -1,7 +1,7 @@
 ---
 title: "Czech Ombudsman inquiring police intervention in a psychiatric clinic which resulted into the death of the patient"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2019/czech-ombudsman-inquiring-police-intervention-in-a-psychiatric-clinic-which-resulted-into-the-death/"
 date: 2019-02-15
 perex: "<p></p>"

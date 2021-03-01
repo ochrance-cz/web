@@ -1,7 +1,7 @@
 ---
 title: "Notice concerning the matter of residential facilities providing social care services without authorisation"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2015/notice-concerning-the-matter-of-residential-facilities-providing-social-care-services-without-author/"
 date: 2015-12-17
 perex: "<p></p>"

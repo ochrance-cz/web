@@ -1,7 +1,7 @@
 ---
 title: "Ombudsman criticised the system of transfer compensation in child hockey"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2017/ombudsman-criticised-the-system-of-transfer-compensation-in-child-hockey/"
 date: 2017-06-19
 perex: "<p>(with CTK) &ndash; Czech parents have to pay up to 70,000 crowns for the transfer of their child from one ice-hockey club to another, which is quite absurd and unethical, they complain. Ombudsman Anna Sabatova criticised the system.</p>"

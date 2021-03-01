@@ -1,7 +1,7 @@
 ---
 title: "Fair unemployment benefits even without the employer’s confirmation"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2020/fair-unemployment-benefits-even-without-the-employers-confirmation/"
 date: 2020-04-08
 perex: "<p></p>"

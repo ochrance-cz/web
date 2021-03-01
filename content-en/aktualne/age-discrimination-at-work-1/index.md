@@ -1,7 +1,7 @@
 ---
 title: "Age discrimination at work"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2019/age-discrimination-at-work-1/"
 date: 2019-03-19
 perex: "<p></p>"

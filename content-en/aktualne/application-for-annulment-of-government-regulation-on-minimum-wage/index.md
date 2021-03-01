@@ -1,7 +1,7 @@
 ---
 title: "Application for annulment of Government Regulation on minimum wage"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2016/application-for-annulment-of-government-regulation-on-minimum-wage/"
 date: 2016-06-22
 perex: "<p></p>"

@@ -1,7 +1,7 @@
 ---
 title: "Procedure of bodies of State Heritage Care"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2017/procedure-of-bodies-of-state-heritage-care/"
 date: 2017-09-04
 perex: "<p></p>"

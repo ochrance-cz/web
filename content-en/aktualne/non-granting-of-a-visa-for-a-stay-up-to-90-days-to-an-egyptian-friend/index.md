@@ -1,7 +1,7 @@
 ---
 title: "Non-granting of a visa for a stay up to 90 days to an Egyptian friend"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2009/non-granting-of-a-visa-for-a-stay-up-to-90-days-to-an-egyptian-friend/"
 date: 2009-10-23
 perex: "<p></p>"

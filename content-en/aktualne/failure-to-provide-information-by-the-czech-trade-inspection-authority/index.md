@@ -1,7 +1,7 @@
 ---
 title: "Failure to provide information by the Czech Trade Inspection Authority"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2010/failure-to-provide-information-by-the-czech-trade-inspection-authority/"
 date: 2010-01-12
 perex: "<p></p>"

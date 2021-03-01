@@ -1,7 +1,7 @@
 ---
 title: "Contact between parents and children can be restricted only by the court’s decision"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2019/contact-between-parents-and-children-can-be-restricted-only-by-the-courts-decision/"
 date: 2019-08-14
 perex: "<p></p>"

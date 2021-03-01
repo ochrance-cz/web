@@ -1,7 +1,7 @@
 ---
 title: "Pavel Varvarovsky resigned as Czech ombudsman"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2013/pavel-varvarovsky-resigned-as-czech-ombudsman/"
 date: 2013-12-20
 perex: "<p></p>"

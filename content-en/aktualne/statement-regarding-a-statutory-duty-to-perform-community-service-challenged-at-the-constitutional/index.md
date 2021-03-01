@@ -1,7 +1,7 @@
 ---
 title: "Statement regarding a statutory duty to perform community service, challenged at the Constitutional Court"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2012/statement-regarding-a-statutory-duty-to-perform-community-service-challenged-at-the-constitutional/"
 date: 2012-12-12
 perex: "<p>Constitutional Court deleted compulsory community service from the government reform package, agreeing with the ombudsman statement.</p>"

@@ -1,7 +1,7 @@
 ---
 title: "Failure to set a favourable rate of disability pension"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2016/failure-to-set-a-favourable-rate-of-disability-pension/"
 date: 2016-05-27
 perex: "<p></p>"

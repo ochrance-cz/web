@@ -1,7 +1,7 @@
 ---
 title: "Complaint against the excessive length of proceedings is well-founded, even if the state is liable, not the judge"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2020/complaint-against-the-excessive-length-of-proceedings-is-well-founded-even-if-the-state-is-liable/"
 date: 2020-06-03
 perex: "<p>The Public Defender of Rights receives around 250 complaints concerning the state administration of courts a year, one third of them addresses delays in court proceedings. </p>"

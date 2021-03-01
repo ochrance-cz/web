@@ -1,7 +1,7 @@
 ---
 title: "The reaction of the Czech Ombudswoman Anna Šabatová on the attempts of the President to interfere with the independence of the judiciary"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2019/the-reaction-of-the-czech-ombudswoman-anna-sabatova-on-the-attempts-of-the-president-to-interfere/"
 date: 2019-02-06
 perex: "<p></p>"

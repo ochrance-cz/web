@@ -1,7 +1,7 @@
 ---
 title: "Administrative punishment by the Labour Inspectorate"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2016/administrative-punishment-by-the-labour-inspectorate/"
 date: 2016-12-15
 perex: "<p></p>"

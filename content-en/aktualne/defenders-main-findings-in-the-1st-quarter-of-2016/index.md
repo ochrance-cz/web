@@ -1,7 +1,7 @@
 ---
 title: "Defender’s main findings in the 1st quarter of 2016"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2016/defenders-main-findings-in-the-1st-quarter-of-2016/"
 date: 2016-05-13
 perex: "<p></p>"

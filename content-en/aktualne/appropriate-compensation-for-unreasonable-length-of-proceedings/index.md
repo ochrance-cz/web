@@ -1,7 +1,7 @@
 ---
 title: "Appropriate compensation for unreasonable length of proceedings"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2015/appropriate-compensation-for-unreasonable-length-of-proceedings/"
 date: 2015-06-17
 perex: "<p></p>"

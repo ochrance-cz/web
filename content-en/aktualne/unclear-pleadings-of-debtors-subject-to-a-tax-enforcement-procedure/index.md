@@ -1,7 +1,7 @@
 ---
 title: "Unclear pleadings of debtors subject to a tax enforcement procedure"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2019/unclear-pleadings-of-debtors-subject-to-a-tax-enforcement-procedure/"
 date: 2019-08-07
 perex: "<p></p>"

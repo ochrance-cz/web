@@ -1,10 +1,10 @@
 ---
 title: "Proposal for annulment of decree on Technical Conditions of Fire Protection of Buildings"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2009/proposal-for-annulment-of-decree-on-technical-conditions-of-fire-protection-of-buildings/"
 date: 2009-09-04
-perex: "<p><h2 class=\"Nadpis1\" style=\"text-decoration:none;\">Proposal of the Public Defender of Rights for annulment of decree on Technical Conditions of Fire Protection of Buildings</h2> <p class=\"Normln\" style=\"text-decoration:underline;\">Proceedings before the Constitutional Court</p>"
+perex: '<p><h2 class="Nadpis1" style="text-decoration:none;">Proposal of the Public Defender of Rights for annulment of decree on Technical Conditions of Fire Protection of Buildings</h2> <p class="Normln" style="text-decoration:underline;">Proceedings before the Constitutional Court</p>'
 ---
 
 <!-- imported from the old website -->
@@ -20,7 +20,7 @@ perex: "<p><h2 class=\"Nadpis1\" style=\"text-decoration:none;\">Proposal of the
 <p class="Normln" style="font-style:italic;">It can therefore be stated that access to the Czech technical standards set forth in Annex No. 1 to Decree No. 23/2008 Coll. is public and free of charge. The principle of public and free accessibility of the Czech technical standards set forth in Decree No. 23/2008 Coll. is not breached as the condition of public and free accessibility of technical standards for the citizen is provided for at state institutions, i.e. the fire rescue services of regions. Thus, a fundamental principle of the democratic state, i.e. equality before the law (Art. 1 of the Constitution, Art. 1 of the Charter), is not violated as a result of the existence of references to technical standards contained in the relevant Decree.”</p>
 <p class="Normln"> </p>
 </p>
-	
+  
 <h2 class="Nadpis1" style="text-decoration:none;">Proposal of the Public Defender of Rights for annulment of decree on Technical Conditions of Fire Protection of Buildings</h2>
 <p class="Normln" style="text-decoration:underline;">Proceedings before the Constitutional Court</p>
 <p class="Normln">The Decree generally stipulates the technical conditions of fire protection for the design, implementation and use of a building, stipulates the numbers of portable extinguishers, the obligation of the owners of selected buildings to furnish the building with the equipment for autonomous detection and signalling, with details contained in the annexes to the Decree. However, the overwhelming majority of the annexes refer to Czech technical standards that are not commonly available to the public, and more importantly, are not available free of charge.</p>

@@ -1,7 +1,7 @@
 ---
 title: "Extension of a mining area"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2009/extension-of-a-mining-area/"
 date: 2009-11-26
 perex: "<p></p><p>The deputy of the Defender inquired into the steps of the District Mining Authority in Ostrava and the Czech Mining Authority in Prague and found maladministration <i>inter alia </i>in that the author of the expert reports which served as underlying documents for decision-making by the authorities was biased. </p>"

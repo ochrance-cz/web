@@ -1,7 +1,7 @@
 ---
 title: "Number of complaints in the first quarter of 2015"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2015/number-of-complaints-in-the-first-quarter-of-2015/"
 date: 2015-04-01
 perex: "<p></p>"

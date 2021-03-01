@@ -1,7 +1,7 @@
 ---
 title: "The Defender’s main findings in the 2nd Quarter of 2016"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2016/the-defenders-main-findings-in-the-2nd-quarter-of-2016/"
 date: 2016-07-25
 perex: "<p></p>"

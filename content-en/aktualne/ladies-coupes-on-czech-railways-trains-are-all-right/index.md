@@ -1,7 +1,7 @@
 ---
 title: "Ladies’ coupés on Czech Railways trains are all right"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2018/ladies-coupes-on-czech-railways-trains-are-all-right/"
 date: 2018-03-08
 perex: "<p>Ladies coupés on Czech Railways trains were introduced in 2012 after Czech Railways received a considerable number of complaints from passengers (especially women) claiming that they do not feel safe in the trains while sitting with strange men in one coupé. Inspired by the solution adopted abroad (for example in Germany or Austria), Czech Railways decided to reserve six seats (one coupé) on trains only for women.</p>"

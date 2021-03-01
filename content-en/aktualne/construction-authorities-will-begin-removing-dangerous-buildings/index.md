@@ -1,7 +1,7 @@
 ---
 title: "Construction authorities will begin removing dangerous buildings"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2019/construction-authorities-will-begin-removing-dangerous-buildings/"
 date: 2019-07-17
 perex: "<p></p>"

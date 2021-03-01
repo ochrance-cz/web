@@ -1,7 +1,7 @@
 ---
 title: "Ministerial procedure in the handling of claims for compensation for unlawful rulings"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2011/ministerial-procedure-in-the-handling-of-claims-for-compensation-for-unlawful-rulings/"
 date: 2011-01-11
 perex: "<p></p><p>The Defender investigated procedural approaches taken by the Ministry of Justice, the Ministry of Employment and Social Affairs and the Ministry of Transport in the handling of claims for compensation for unlawful rulings or improper official procedure on the part of authorities</p>"

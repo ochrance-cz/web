@@ -1,7 +1,7 @@
 ---
 title: "Comments on the draft strategy for the law on the defender of children"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2010/comments-on-the-draft-strategy-for-the-law-on-the-defender-of-children/"
 date: 2010-02-01
 perex: "<p></p>"

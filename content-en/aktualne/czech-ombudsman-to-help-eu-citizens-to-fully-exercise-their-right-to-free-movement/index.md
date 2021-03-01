@@ -1,7 +1,7 @@
 ---
 title: "Czech Ombudsman to help EU citizens to fully exercise their right to free movement"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2018/czech-ombudsman-to-help-eu-citizens-to-fully-exercise-their-right-to-free-movement/"
 date: 2018-02-05
 perex: "<p>From January 2018, Public Defender of Rights of the Czech Republic became the body that shall contribute to the full exercise of free movement of EU citizens. </p>"

@@ -1,7 +1,7 @@
 ---
 title: "Activities of the ombudsman for the third quarter of 2017"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2017/activities-of-the-ombudsman-for-the-third-quarter-of-2017/"
 date: 2017-10-30
 perex: "<p></p>"

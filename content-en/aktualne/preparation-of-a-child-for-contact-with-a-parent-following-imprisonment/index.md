@@ -1,7 +1,7 @@
 ---
 title: "Preparation of a child for contact with a parent following imprisonment"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2012/preparation-of-a-child-for-contact-with-a-parent-following-imprisonment/"
 date: 2012-08-27
 perex: "<p></p>"

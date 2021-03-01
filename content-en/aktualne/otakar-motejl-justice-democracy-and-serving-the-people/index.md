@@ -1,7 +1,7 @@
 ---
 title: "Otakar Motejl – justice, democracy and serving the people"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2010/otakar-motejl-justice-democracy-and-serving-the-people/"
 date: 2010-05-12
 perex: "<p></p><p>In Otakar Motejl we have lost a man whose wisdom and untiring service to others made him a role model to all. In his youth he was a scout, and right up to the very last moments of his life he was a shining example of one who upheld the scout oath  &ndash; to be prepared to help one's country and fellow men with all one's soul and body. Such people are rare in Czech public life.</p>"

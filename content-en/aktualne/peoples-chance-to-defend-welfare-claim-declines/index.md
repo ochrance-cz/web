@@ -1,7 +1,7 @@
 ---
 title: "People's chance to defend welfare claim declines"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2012/peoples-chance-to-defend-welfare-claim-declines/"
 date: 2012-03-14
 perex: "<p></p>"

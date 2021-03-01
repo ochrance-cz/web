@@ -1,7 +1,7 @@
 ---
 title: "Cooperation with Pro bono aliance shows first signs of success"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2013/cooperation-with-pro-bono-aliance-shows-first-signs-of-success/"
 date: 2013-05-27
 perex: "<p>Ombudsman successfully handed two cases concerning discrimination to attorneys providing pro bono services. Both were concluded by an out-of-court settlement and the satisfaction of the claim of discrimination victims.</p>"

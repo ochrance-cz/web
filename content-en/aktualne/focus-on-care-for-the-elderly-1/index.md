@@ -1,7 +1,7 @@
 ---
 title: "Focus on care for the elderly"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2013/focus-on-care-for-the-elderly-1/"
 date: 2013-03-15
 perex: "<p>Ombudsman started visits of facilities for seniors. His research reveals that three quarters of regional facilities for seniors write on their websites that they will not admit persons treated for a mental disease (including dementia) or people who had problems with alcohol sometimes in their life.</p>"

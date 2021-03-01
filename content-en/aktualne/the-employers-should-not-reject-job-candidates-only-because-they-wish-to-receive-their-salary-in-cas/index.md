@@ -1,7 +1,7 @@
 ---
 title: "The employers should not reject job candidates only because they wish to receive their salary in cash"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2018/the-employers-should-not-reject-job-candidates-only-because-they-wish-to-receive-their-salary-in-cas/"
 date: 2018-10-17
 perex: "<p></p>"

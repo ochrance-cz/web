@@ -1,7 +1,7 @@
 ---
 title: "Complaints in the 2nd Quarter of 2016"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2016/complaints-in-the-2nd-quarter-of-2016/"
 date: 2016-07-18
 perex: "<p></p>"

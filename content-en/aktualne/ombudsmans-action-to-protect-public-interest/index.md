@@ -1,7 +1,7 @@
 ---
 title: "Ombudsman's action to protect public interest"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2012/ombudsmans-action-to-protect-public-interest/"
 date: 2012-08-18
 perex: "<p>Ombudsman filed the first action to protect public interest against a building permit for a photovoltaic power plant, using his new powers based on an amendment to the Code of Administrative Justice. </p>"

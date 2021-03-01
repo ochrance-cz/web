@@ -1,7 +1,7 @@
 ---
 title: "Cases and investigations in the first quarter of 2014"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2014/cases-and-investigations-in-the-first-quarter-of-2014/"
 date: 2014-04-28
 perex: "<p></p>"

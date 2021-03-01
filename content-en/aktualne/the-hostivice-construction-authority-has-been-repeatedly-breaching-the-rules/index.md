@@ -1,7 +1,7 @@
 ---
 title: "The Hostivice construction authority has been repeatedly breaching the rules"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2015/the-hostivice-construction-authority-has-been-repeatedly-breaching-the-rules/"
 date: 2015-08-26
 perex: "<p>The Public Defender of Rights (then Deputy Ombudsman) has criticised the Authority for its failure to observe the deadlines for issuing decisions and other acts within proceedings, and also for its failure to keep proper file records, to respond to the citizens’ applications and complaints, etc.</p>"

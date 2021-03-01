@@ -1,7 +1,7 @@
 ---
 title: "People over 75 years of age cannot be excluded from a public opinion poll which is to replace a local referendum"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2020/people-over-75-years-of-age-cannot-be-excluded-from-a-public-opinion-poll-which-is-to-replace-a-loca/"
 date: 2020-05-04
 perex: "<p></p>"

@@ -1,7 +1,7 @@
 ---
 title: "Fences around a farm as possible interference with the appearance of the landscape"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2017/fences-around-a-farm-as-possible-interference-with-the-appearance-of-the-landscape/"
 date: 2017-10-17
 perex: "<p>A married couple turned to the ombudsman in a case involving the procedure of authorities (the Nature Conservation Body, the Construction Authority) in connection to granting permission to fence a fallow deer farm on their land.</p>"

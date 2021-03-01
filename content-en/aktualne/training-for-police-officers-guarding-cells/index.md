@@ -1,7 +1,7 @@
 ---
 title: "Training for police officers guarding cells"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2015/training-for-police-officers-guarding-cells/"
 date: 2015-03-11
 perex: "<p>Based on agreement with the Police President, the Defender prepared a training programme for police officers responsible for guarding persons placed in police cells. The training was aimed at fostering the prevention of maltreatment, especially in those areas where shortcomings are regularly found on the part of the Police of the Czech Republic during our systematic visits</p>"

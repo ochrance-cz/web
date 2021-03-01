@@ -1,7 +1,7 @@
 ---
 title: "Inclusive education is not a utopian project"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2018/inclusive-education-is-not-a-utopian-project-1/"
 date: 2018-01-11
 perex: "<p>Ombudsman Anna Šabatová and Council of Europe Commissioner for Human Rights Nils Muižnieks about inclusive education in the Czech Republic.</p>"

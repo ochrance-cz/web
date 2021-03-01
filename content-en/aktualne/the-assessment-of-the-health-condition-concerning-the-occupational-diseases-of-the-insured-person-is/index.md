@@ -1,7 +1,7 @@
 ---
 title: "The assessment of the health condition concerning the occupational diseases of the insured person is free of charge"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2021/the-assessment-of-the-health-condition-concerning-the-occupational-diseases-of-the-insured-person-is/"
 date: 2020-06-12
 perex: "<p>If an employee asks a hospital to issue an assessment whether he suffers an occupational disease the evaluation of his state of health is covered by the public health insurance &ndash; regardless whether the outcome is positive or negative.</p>"

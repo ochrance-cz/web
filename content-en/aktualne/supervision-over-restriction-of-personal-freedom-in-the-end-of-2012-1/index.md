@@ -1,7 +1,7 @@
 ---
 title: "Supervision over restriction of personal freedom in the end of 2012"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2013/supervision-over-restriction-of-personal-freedom-in-the-end-of-2012-1/"
 date: 2013-02-07
 perex: "<p>Within the fourth quarter of 2012 the ombudsman conducted eight systematic visits, held meeting with the directors of visited institution for children and prepared the systematic visits to institutions for persons suffering from dementia.</p>"

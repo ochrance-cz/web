@@ -1,7 +1,7 @@
 ---
 title: "Discriminatory prohibition of entry into a store with a baby carriage"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2018/discriminatory-prohibition-of-entry-into-a-store-with-a-baby-carriage/"
 date: 2018-05-23
 perex: "<p></p>"

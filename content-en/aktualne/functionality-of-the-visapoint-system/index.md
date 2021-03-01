@@ -1,7 +1,7 @@
 ---
 title: "Functionality of the Visapoint system"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2011/functionality-of-the-visapoint-system/"
 date: 2011-11-16
 perex: "<p></p><p>As part of several cases the ombudsman found that for certain destinations (the Ukraine, Kazakhstan, Uzbekistan and Vietnam) the Visapoint system does not allow users to register to submit applications for long-term visas or short-term/permanent residency. </p>"

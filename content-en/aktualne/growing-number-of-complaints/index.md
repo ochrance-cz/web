@@ -1,7 +1,7 @@
 ---
 title: "Growing number of complaints"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2012/growing-number-of-complaints/"
 date: 2012-10-25
 perex: "<p></p>"

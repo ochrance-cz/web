@@ -1,7 +1,7 @@
 ---
 title: "Proposal for cancellation of parts of generally binding municipal ordinances"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2016/proposal-for-cancellation-of-parts-of-generally-binding-municipal-ordinances/"
 date: 2016-03-25
 perex: "<p></p>"

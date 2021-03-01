@@ -1,7 +1,7 @@
 ---
 title: "Czech police erred during Chinese President's visit"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2016/czech-police-erred-during-chinese-presidents-visit/"
 date: 2016-10-10
 perex: "<p>(with CTK) &ndash; According to Ombudsman Anna Sabatova, the Czech police acted chaotically and disproportionately during some incidents in the streets of Prague accompanying the March visit by Chinese President Xi Jinping. The police detained some people groundlessly.</p>"

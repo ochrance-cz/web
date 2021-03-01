@@ -1,7 +1,7 @@
 ---
 title: "Proportionality of the manner of performing distrainment"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2014/proportionality-of-the-manner-of-performing-distrainment/"
 date: 2014-06-23
 perex: "<p></p>"

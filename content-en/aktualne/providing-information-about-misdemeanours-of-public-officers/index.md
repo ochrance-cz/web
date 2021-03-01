@@ -1,7 +1,7 @@
 ---
 title: "Providing information about misdemeanours of public officers"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2013/providing-information-about-misdemeanours-of-public-officers/"
 date: 2013-12-02
 perex: "<p></p>"

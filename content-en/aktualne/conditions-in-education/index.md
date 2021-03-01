@@ -1,7 +1,7 @@
 ---
 title: "Conditions in education"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2016/conditions-in-education/"
 date: 2016-09-01
 perex: "<p></p>"

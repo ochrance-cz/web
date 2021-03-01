@@ -1,7 +1,7 @@
 ---
 title: "Together towards Good Governance Project"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2016/together-towards-good-governance-project/"
 date: 2016-04-12
 perex: "<p></p>"

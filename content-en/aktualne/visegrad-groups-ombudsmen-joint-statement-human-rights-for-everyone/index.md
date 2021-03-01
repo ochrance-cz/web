@@ -1,7 +1,7 @@
 ---
 title: "Visegrad Group‘s Ombudsmen &ndash; Joint Statement: Human Rights for everyone"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2017/visegrad-groups-ombudsmen-joint-statement-human-rights-for-everyone/"
 date: 2017-09-07
 perex: "<p></p>"

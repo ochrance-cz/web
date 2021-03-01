@@ -1,7 +1,7 @@
 ---
-title: "Admission of a child to a kindergarten \"in excess of the maximum capacity\""
-tags:
-  - News
+title: 'Admission of a child to a kindergarten "in excess of the maximum capacity"'
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2013/admission-of-a-child-to-a-kindergarten-in-excess-of-the-maximum-capacity/"
 date: 2013-09-26
 perex: "<p>The Defender had pointed out the problem of only theoretical and solely formal possibility of a child to defend itself against an unlawful decision of a head teacher by appealing such a decision. </p>"

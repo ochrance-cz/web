@@ -1,7 +1,7 @@
 ---
 title: "Findings from visits to police cells"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2017/findings-from-visits-to-police-cells/"
 date: 2017-08-30
 perex: "<p>Ombudsman published a report summarizing her findings from unannounced visits to 47 cells for provisional detention at 14 district police stations. Ombudsman came to conclusion that provisionally detained people are sometimes humiliated and their rights, privacy and dignity might be violated.</p>"

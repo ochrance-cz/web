@@ -1,7 +1,7 @@
 ---
 title: "Systematic visit to the Facility for Detention of Foreigners in Bělá-Jezová"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2015/systematic-visit-to-the-facility-for-detention-of-foreigners-in-bela-jezova/"
 date: 2015-11-20
 perex: "<p></p>"

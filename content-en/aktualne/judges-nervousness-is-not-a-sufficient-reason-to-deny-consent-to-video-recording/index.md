@@ -1,7 +1,7 @@
 ---
 title: "Judge’s nervousness is not a sufficient reason to deny consent to video recording"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2018/judges-nervousness-is-not-a-sufficient-reason-to-deny-consent-to-video-recording/"
 date: 2018-10-03
 perex: "<p></p>"

@@ -1,7 +1,7 @@
 ---
 title: "European Standards for Equality Bodies"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2016/european-standards-for-equality-bodies/"
 date: 2016-06-16
 perex: "<p>Mr Polak, Head of the Division of Equal Treatment, as a member of the Equinet Executive Board has been actively involved in formulating the European standards on the independence, effectiveness, functions and powers of national equality bodies, which are being presented at the Equinet Conference in Brussels (15-16 June).</p>"

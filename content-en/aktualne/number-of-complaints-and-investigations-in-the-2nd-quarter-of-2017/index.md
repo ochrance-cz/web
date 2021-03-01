@@ -1,7 +1,7 @@
 ---
 title: "Number of complaints and investigations in the 2nd quarter of 2017"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2017/number-of-complaints-and-investigations-in-the-2nd-quarter-of-2017/"
 date: 2017-08-25
 perex: "<p></p>"

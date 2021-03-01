@@ -1,7 +1,7 @@
 ---
 title: "The Ombudsman called on the Prime Minister to take an action against the unprofessionalism of the Ministry of Regional Development"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2020/the-ombudsman-called-on-the-prime-minister-to-take-an-action-against-the-unprofessionalism-of-the-mi/"
 date: 2020-05-08
 perex: "<p>The Ombudsman addressed the Prime Minister with the objections to the non-standard and unpredictable actions of the Ministry of Regional Development in connection with the draft Building Act.</p>"

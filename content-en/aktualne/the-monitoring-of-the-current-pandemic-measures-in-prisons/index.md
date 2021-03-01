@@ -1,7 +1,7 @@
 ---
 title: "The monitoring of the current pandemic measures in prisons"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2020/the-monitoring-of-the-current-pandemic-measures-in-prisons/"
 date: 2020-05-18
 perex: "<p>The Deputy Ombudsman, Monika Šimůnková, being entrusted with the supervision of places where personal freedom is restricted, is regularly monitoring the current situation in prisons. As it is not possible to carry out personal visits in prisons under the current circumstances, Ms. Šimůnková and her colleagues conduct a research on the COVID-19 protective measures taken in prisons.</p>"

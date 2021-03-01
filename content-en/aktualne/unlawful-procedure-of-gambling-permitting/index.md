@@ -1,7 +1,7 @@
 ---
 title: "Unlawful procedure of gambling permitting"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2011/unlawful-procedure-of-gambling-permitting/"
 date: 2011-10-25
 perex: "<p></p><p>Ombudsman considers the procedure of gambling permitting adopted by the Ministry of Finance to be unlawful. Ministry has failed to properly apply the provisions of the Lotteries Act and has not respected the generally binding municipal directives regulating the operation of gambling machines.</p>"

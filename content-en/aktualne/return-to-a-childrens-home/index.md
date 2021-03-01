@@ -1,7 +1,7 @@
 ---
 title: "Return to a children’s home"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2017/return-to-a-childrens-home/"
 date: 2017-05-31
 perex: "<p></p>"

@@ -1,7 +1,7 @@
 ---
 title: "Comments on non-legislative material relating to the UN Convention on the Rights of Persons with Disabilities"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2014/comments-on-non-legislative-material-relating-to-the-un-convention-on-the-rights-of-persons-with-dis/"
 date: 2014-03-03
 perex: "<p>In his last report for the Chamber of Deputies the previous Defender informed about his comments on non-legislative document concerning of establishing a monitoring mechanism.</p>"

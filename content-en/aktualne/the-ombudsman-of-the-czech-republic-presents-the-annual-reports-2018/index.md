@@ -1,7 +1,7 @@
 ---
 title: "The Ombudsman of the Czech Republic presents the annual reports 2018"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2019/the-ombudsman-of-the-czech-republic-presents-the-annual-reports-2018/"
 date: 2019-08-15
 perex: "<p></p>"

@@ -1,7 +1,7 @@
 ---
 title: "Ordering institutional care of a child without checking with the broader family"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2016/ordering-institutional-care-of-a-child-without-checking-with-the-broader-family/"
 date: 2016-02-20
 perex: "<p></p>"

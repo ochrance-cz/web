@@ -1,7 +1,7 @@
 ---
 title: "Issuance of a parking card to the owner of a real estate located in a parking zone"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2017/issuance-of-a-parking-card-to-the-owner-of-a-real-estate-located-in-a-parking-zone/"
 date: 2017-05-23
 perex: "<p>Complainant stated that she owned a specific real estate in the city. The city informed her that pursuant to the regulation concerning the issuance of parking cards, only a natural person with his/her permanent address within the defined area was allowed to apply for the issuance of a parking card.</p>"

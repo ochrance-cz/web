@@ -1,7 +1,7 @@
 ---
 title: "Pražský magistrát odmítá napravit pochybení EN"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2010/prazsky-magistrat-odmita-napravit-pochybeni-en/"
 date: 2010-03-26
 perex: "<p></p><p>Protože Magistrát hl. města Prahy odmítá uznat svá pochybení a přijmout ochráncem navržená opatření k nápravě, volí ochránce zveřejnění informací o jeho jednání a názorech jako formu sankce podle zákona o veřejném ochránci práv. </p>"

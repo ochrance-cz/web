@@ -1,7 +1,7 @@
 ---
 title: "Child benefit after leaving children’s home"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2014/child-benefit-after-leaving-childrens-home/"
 date: 2014-05-19
 perex: "<p></p>"

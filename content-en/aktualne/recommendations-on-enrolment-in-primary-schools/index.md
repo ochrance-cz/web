@@ -1,7 +1,7 @@
 ---
 title: "Recommendations on enrolment in primary schools"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2016/recommendations-on-enrolment-in-primary-schools/"
 date: 2016-06-15
 perex: "<p></p>"

@@ -1,7 +1,7 @@
 ---
 title: "Ombudsman is the most popular Czech public institution"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2013/ombudsman-is-the-most-popular-czech-public-institution/"
 date: 2013-07-09
 perex: "<p>Ombudsman Pavel Varvarovsky is the most popular institution of the Czech social and political life, followed by President Milos Zeman, according to a CVVM's agency poll.</p>"

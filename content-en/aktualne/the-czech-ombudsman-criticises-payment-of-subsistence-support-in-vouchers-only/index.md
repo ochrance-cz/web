@@ -1,7 +1,7 @@
 ---
 title: "The Czech Ombudsman criticises Payment of subsistence support in vouchers only"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2018/the-czech-ombudsman-criticises-payment-of-subsistence-support-in-vouchers-only/"
 date: 2018-06-06
 perex: "<p></p>"

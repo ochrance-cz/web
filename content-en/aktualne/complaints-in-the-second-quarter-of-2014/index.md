@@ -1,7 +1,7 @@
 ---
 title: "Complaints in the second quarter of 2014"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2014/complaints-in-the-second-quarter-of-2014/"
 date: 2014-07-26
 perex: "<p></p>"

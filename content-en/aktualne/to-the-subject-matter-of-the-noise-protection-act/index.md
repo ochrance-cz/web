@@ -1,7 +1,7 @@
 ---
 title: "To the subject-matter of the noise protection act"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2012/to-the-subject-matter-of-the-noise-protection-act/"
 date: 2012-12-14
 perex: "<p>Ombdusman stated that by the failure to discuss the subject-matter of the bill sufficiently with the public, its quality, in addition to democratic values, suffered. </p>"

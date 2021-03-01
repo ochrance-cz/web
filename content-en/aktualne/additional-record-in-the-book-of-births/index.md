@@ -1,7 +1,7 @@
 ---
 title: "Additional record in the book of births"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2017/additional-record-in-the-book-of-births/"
 date: 2017-12-01
 perex: "<p></p>"

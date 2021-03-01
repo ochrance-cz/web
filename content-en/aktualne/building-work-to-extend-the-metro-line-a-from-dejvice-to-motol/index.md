@@ -1,7 +1,7 @@
 ---
 title: "Building work to extend the metro line A from Dejvice to Motol"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2011/building-work-to-extend-the-metro-line-a-from-dejvice-to-motol/"
 date: 2011-02-25
 perex: "<p></p><p>The Defender decided to propose that the Supreme Attorney file a lawsuit to protect the public interest against the decision of Office of the City District of Prague 6 regarding the position of the building work which included the extension of the metro A line.</p>"

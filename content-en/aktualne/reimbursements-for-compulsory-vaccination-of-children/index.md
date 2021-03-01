@@ -1,7 +1,7 @@
 ---
 title: "Reimbursements for compulsory vaccination of children"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2018/reimbursements-for-compulsory-vaccination-of-children/"
 date: 2018-10-10
 perex: "<p></p>"

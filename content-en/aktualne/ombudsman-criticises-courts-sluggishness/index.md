@@ -1,7 +1,7 @@
 ---
 title: "Ombudsman criticises courts' sluggishness"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2012/ombudsman-criticises-courts-sluggishness/"
 date: 2012-03-14
 perex: "<p></p>"

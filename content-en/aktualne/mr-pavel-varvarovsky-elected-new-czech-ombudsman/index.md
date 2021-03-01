@@ -1,7 +1,7 @@
 ---
 title: "Mr Pavel Varvarovsky elected new Czech ombudsman"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2010/mr-pavel-varvarovsky-elected-new-czech-ombudsman/"
 date: 2010-09-08
 perex: "<p></p>"

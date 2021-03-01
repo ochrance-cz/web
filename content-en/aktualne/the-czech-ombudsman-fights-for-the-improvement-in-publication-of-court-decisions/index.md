@@ -1,7 +1,7 @@
 ---
 title: "The Czech Ombudsman fights for the improvement in publication of court decisions"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2019/the-czech-ombudsman-fights-for-the-improvement-in-publication-of-court-decisions/"
 date: 2019-07-24
 perex: "<p></p>"

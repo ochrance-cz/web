@@ -1,7 +1,7 @@
 ---
 title: "Instant assistance allowance for covering co-payments for medicinal products"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2013/instant-assistance-allowance-for-covering-co-payments-for-medicinal-products/"
 date: 2013-11-20
 perex: "<p></p><p>The ombudsman dealt with a complaint about the procedure of a labour office which had not awarded an instant assistance allowance for covering co-payments for medicinal products, stating that expenses for medicinal products were already contained in the amount of the living minimum and that they needed to be paid from the subsistence allowance received by the complainant. He arrived at a conclusion that the office had erred because it had failed to substantiate in a sufficient manner its decision not to award the benefit.  </p>"

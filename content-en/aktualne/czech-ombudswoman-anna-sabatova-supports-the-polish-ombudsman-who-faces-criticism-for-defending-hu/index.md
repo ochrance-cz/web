@@ -1,7 +1,7 @@
 ---
 title: "Czech Ombudswoman Anna Šabatová supports the Polish Ombudsman who faces criticism for defending human rights in Poland"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2019/czech-ombudswoman-anna-sabatova-supports-the-polish-ombudsman-who-faces-criticism-for-defending-hu/"
 date: 2019-07-04
 perex: "<p>Number of international organisations and networks, namely ENNHRI, Equinet, GANHRI, IOI and OHCHR Europe, recently issued a statement in which they openly supported the Commissioner for Human Rights of Poland Adam Bodnar who is currently facing a strong criticism including the hateful campaign against him and hate speech for publicly protecting the right to a fair trial and the prohibition from inhumane and degrading treatment. </p>"

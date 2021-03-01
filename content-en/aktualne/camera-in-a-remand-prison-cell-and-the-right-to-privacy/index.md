@@ -1,7 +1,7 @@
 ---
 title: "Camera in a remand prison cell and the right to privacy"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2019/camera-in-a-remand-prison-cell-and-the-right-to-privacy/"
 date: 2019-08-21
 perex: "<p></p>"

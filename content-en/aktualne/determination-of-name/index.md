@@ -1,7 +1,7 @@
 ---
 title: "Determination of name"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2016/determination-of-name/"
 date: 2016-03-09
 perex: "<p></p>"

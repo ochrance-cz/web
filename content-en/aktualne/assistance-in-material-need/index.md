@@ -1,7 +1,7 @@
 ---
 title: "Assistance in material need"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2015/assistance-in-material-need/"
 date: 2015-04-13
 perex: "<p></p>"

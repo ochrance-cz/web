@@ -1,7 +1,7 @@
 ---
 title: "International conference on gender pay gap"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2016/international-conference-on-gender-pay-gap/"
 date: 2016-01-18
 perex: "<p>Public Defender of Rights and GIC NORA, o. p. s. organise an international conference on gender pay gap. The conference is held on Friday 22 January 2016 in the Office of the Public Defender of Rights in Brno.</p>"

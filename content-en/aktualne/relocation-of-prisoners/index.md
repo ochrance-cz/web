@@ -1,7 +1,7 @@
 ---
 title: "Relocation of prisoners"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2015/relocation-of-prisoners/"
 date: 2015-03-06
 perex: "<p>The Defender was approached by a complainant who had been unsuccessfully applying for relocation to another prison. He had filed such applications mainly to improve his accessibility for visits by related persons.</p>"

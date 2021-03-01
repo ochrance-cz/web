@@ -1,7 +1,7 @@
 ---
 title: "ECHR confirmed the Ombudsman’s findings concerning humiliating treatment"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2013/echr-confirmed-the-ombudsmans-findings-concerning-humiliating-treatment-1/"
 date: 2013-08-07
 perex: "<p>The European Court of Human Rights in Strasbourg last week convicted the Czech Republic of inhuman and humiliating treatment of a detained man at a police station, which is the first similar verdict related to Czechs.</p>"

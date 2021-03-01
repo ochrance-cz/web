@@ -1,7 +1,7 @@
 ---
 title: "Inactivity of the Ministry of Justice in processing an application for the provision of adequate satisfaction"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2009/inactivity-of-the-ministry-of-justice-in-processing-an-application-for-the-provision-of-adequate-sat/"
 date: 2009-12-15
 perex: "<p></p>"

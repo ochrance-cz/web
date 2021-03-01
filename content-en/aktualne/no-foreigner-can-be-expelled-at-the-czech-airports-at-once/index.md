@@ -1,7 +1,7 @@
 ---
 title: "No foreigner can be expelled at the Czech airports at once"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2013/no-foreigner-can-be-expelled-at-the-czech-airports-at-once/"
 date: 2013-06-21
 perex: "<p></p>"

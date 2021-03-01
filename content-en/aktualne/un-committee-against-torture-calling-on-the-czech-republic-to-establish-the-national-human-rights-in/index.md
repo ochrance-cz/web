@@ -1,7 +1,7 @@
 ---
 title: "UN Committee Against Torture calling on the Czech Republic to establish the national human rights institution by increasing powers of the Ombudsman"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2019/un-committee-against-torture-calling-on-the-czech-republic-to-establish-the-national-human-rights-in/"
 date: 2019-02-11
 perex: "<p></p>"

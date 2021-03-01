@@ -1,7 +1,7 @@
 ---
 title: "Financial compensation of a victim of discrimination"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2013/financial-compensation-of-a-victim-of-discrimination/"
 date: 2013-10-31
 perex: "<p>Thanks to collaboration of the Ombudsman with Pro bono aliance, a complainant received CZK 80,000 as compensation for discrimination in access to employment on grounds of age. </p>"

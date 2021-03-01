@@ -1,7 +1,7 @@
 ---
 title: "Mistake of the Czech Social Security Administration in pension insurance"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2013/mistake-of-the-czech-social-security-administration-in-pension-insurance/"
 date: 2013-03-07
 perex: "<p></p>"

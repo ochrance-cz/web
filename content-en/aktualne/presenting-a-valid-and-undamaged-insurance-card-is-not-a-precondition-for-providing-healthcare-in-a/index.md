@@ -1,7 +1,7 @@
 ---
 title: "Presenting a valid and undamaged insurance card is not a precondition for providing healthcare in a prison"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2020/presenting-a-valid-and-undamaged-insurance-card-is-not-a-precondition-for-providing-healthcare-in-a/"
 date: 2020-05-22
 perex: "<p></p>"

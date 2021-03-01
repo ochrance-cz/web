@@ -1,7 +1,7 @@
 ---
 title: "Incorrect procedure: removal of a job seeker from the records of job seekers"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2015/incorrect-procedure-removal-of-a-job-seeker-from-the-records-of-job-seekers/"
 date: 2015-02-24
 perex: "<p>The Ministry of Labour and Social Affairs refused to cancel a decision by which the Labour Office of the Czech Republic removed a job seeker from the records on the grounds of his failure to appear for an information meeting. The Ministry of Labour and Social Affairs failed to take into consideration that the job seeker has long been suffering from memory impairment.</p>"

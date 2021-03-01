@@ -1,7 +1,7 @@
 ---
 title: "The Czech Ombudsman Presents the New Mandate Concerning EU Citizens to EU and EEA Ambassadors"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2018/the-czech-ombudsman-presents-the-new-mandate-concerning-eu-citizens-to-eu-and-eea-ambassadors/"
 date: 2018-04-23
 perex: "<p>On 17 April 2018, the Ombudsman presented the new mandate in the field of protection of the rights of EU citizens to the EU and EEA Ambassadors. The meeting was held at the French embassy under the auspices of French Ambassador Roland Galharague.</p>"

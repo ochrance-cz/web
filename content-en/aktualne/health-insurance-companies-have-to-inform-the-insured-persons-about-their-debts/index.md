@@ -1,7 +1,7 @@
 ---
 title: "Health insurance companies have to inform the insured persons about their debts"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2020/health-insurance-companies-have-to-inform-the-insured-persons-about-their-debts/"
 date: 2020-02-27
 perex: "<p></p>"

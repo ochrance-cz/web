@@ -1,7 +1,7 @@
 ---
 title: "The construction of the Šantovka Tower in Olomouc may not start until the court decides on the case"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2020/the-construction-of-the-santovka-tower-in-olomouc-may-not-start-until-the-court-decides-on-the-case/"
 date: 2020-05-28
 perex: "<p>The Regional Court in Ostrava &ndash; Branch Office in Olomouc granted the action against the construction of the Šantovka Tower in Olomouc a suspensive effect. This means that until the final decision is given, the building permit may not be issued, and the construction must not be commenced.</p>"

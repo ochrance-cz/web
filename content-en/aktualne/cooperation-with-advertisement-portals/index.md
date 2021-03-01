@@ -1,7 +1,7 @@
 ---
 title: "Cooperation with advertisement portals"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2011/cooperation-with-advertisement-portals/"
 date: 2011-12-01
 perex: "<p></p><p>The ombudsman started cooperation with operator of advertisement portals to deal with discrimination in job advertisements and to raise awareness of labour law and the principles of anti-discrimination.</p>"

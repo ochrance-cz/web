@@ -1,7 +1,7 @@
 ---
 title: "Number of complaints in the 4th quarter of 2015"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2016/number-of-complaints-in-the-4th-quarter-of-2015/"
 date: 2016-01-29
 perex: "<p></p>"

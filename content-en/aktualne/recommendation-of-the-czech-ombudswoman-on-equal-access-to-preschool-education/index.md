@@ -1,7 +1,7 @@
 ---
 title: "Recommendation of the Czech Ombudswoman on equal access to preschool education"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2018/recommendation-of-the-czech-ombudswoman-on-equal-access-to-preschool-education/"
 date: 2018-08-31
 perex: "<p></p>"

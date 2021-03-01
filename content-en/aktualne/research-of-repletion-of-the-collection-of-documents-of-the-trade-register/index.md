@@ -1,7 +1,7 @@
 ---
 title: "Research of repletion of the collection of documents of the Trade Register"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2013/research-of-repletion-of-the-collection-of-documents-of-the-trade-register/"
 date: 2013-02-25
 perex: "<p>More than two thirds of entrepreneurs do not publish their annual statements in the Trade Register, although it is their obligation. The ombudsman performed an inquiry in order to determine whether registration courts monitor the correctness of the recorded data and the completeness of the collection of documents.</p>"

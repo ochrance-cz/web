@@ -1,7 +1,7 @@
 ---
 title: "Job advertisements published in foreign languages in themselves do not constitute discrimination"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2018/job-advertisements-published-in-foreign-languages-in-themselves-do-not-constitute-discrimination/"
 date: 2018-09-26
 perex: "<p></p>"

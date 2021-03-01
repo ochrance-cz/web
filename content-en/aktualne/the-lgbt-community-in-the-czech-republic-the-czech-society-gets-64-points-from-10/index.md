@@ -1,7 +1,7 @@
 ---
 title: "The LGBT+ community in the Czech Republic: the Czech society gets 6,4 points from 10"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2019/the-lgbt-community-in-the-czech-republic-the-czech-society-gets-64-points-from-10/"
 date: 2019-07-18
 perex: "<p></p>"

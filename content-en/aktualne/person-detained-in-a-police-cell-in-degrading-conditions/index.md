@@ -1,7 +1,7 @@
 ---
 title: "Person detained in a police cell in degrading conditions"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2014/person-detained-in-a-police-cell-in-degrading-conditions/"
 date: 2014-08-18
 perex: "<p></p>"

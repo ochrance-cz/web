@@ -1,7 +1,7 @@
 ---
 title: "In two cases, the Supreme Court confirmed the Defender’s previous legal opinion"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2020/in-two-cases-the-supreme-court-confirmed-the-defenders-previous-legal-opinion/"
 date: 2020-03-09
 perex: "<p></p>"

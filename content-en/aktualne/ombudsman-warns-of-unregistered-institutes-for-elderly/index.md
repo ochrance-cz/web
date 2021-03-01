@@ -1,7 +1,7 @@
 ---
 title: "Ombudsman warns of unregistered institutes for elderly"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2014/ombudsman-warns-of-unregistered-institutes-for-elderly/"
 date: 2014-06-25
 perex: "<p></p>"

@@ -1,7 +1,7 @@
 ---
 title: "Comments on the bill amending Act on victims of crime"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2015/comments-on-the-bill-amending-act-on-victims-of-crime/"
 date: 2015-12-01
 perex: "<p>The Defender disagreed with the planned change that would extend the deadline for the provision of financial assistance to an indefinite period and she stressed this aspect to the submitter within the commentary procedure.</p>"

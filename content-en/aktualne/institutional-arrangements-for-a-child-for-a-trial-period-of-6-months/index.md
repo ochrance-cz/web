@@ -1,7 +1,7 @@
 ---
 title: "Institutional arrangements for a child “for a trial period of 6 months”"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2017/institutional-arrangements-for-a-child-for-a-trial-period-of-6-months/"
 date: 2017-04-03
 perex: "<p></p>"

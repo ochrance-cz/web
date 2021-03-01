@@ -1,7 +1,7 @@
 ---
 title: "Complaints in the 4th Quarter of 2016"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2017/complaints-in-the-4th-quarter-of-2016/"
 date: 2017-01-31
 perex: "<p></p>"

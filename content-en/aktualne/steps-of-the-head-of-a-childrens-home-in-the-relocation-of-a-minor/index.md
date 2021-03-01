@@ -1,7 +1,7 @@
 ---
 title: "Steps of the head of a children’s home in the relocation of a minor"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2009/steps-of-the-head-of-a-childrens-home-in-the-relocation-of-a-minor/"
 date: 2009-09-30
 perex: "<p></p>"

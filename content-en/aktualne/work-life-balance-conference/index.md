@@ -1,7 +1,7 @@
 ---
 title: "Work-life balance conference"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2014/work-life-balance-conference/"
 date: 2014-10-14
 perex: "<p>The Public Defender of Rights has the pleasure to invite you to a conference with international participation „Work-life balance“ held 23rd and 24th October 2014 in the Office of the Public Defender of Rights, Brno.</p>"

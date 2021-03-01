@@ -1,7 +1,7 @@
 ---
 title: "Stanislav Křeček elected as the new Public Defender of Rights"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2020/stanislav-krecek-elected-as-the-new-public-defender-of-rights/"
 date: 2020-03-10
 perex: "<p>Chamber of Deputies of the Czech Republic elected Mr. Stanislav Křeček as the new Public Defender of Rights for the term of six years. Mr. Křeček succeeded Ms. Anna Šabatová and took his office on 19 February 2020.</p>"

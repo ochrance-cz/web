@@ -1,7 +1,7 @@
 ---
 title: "Comments on the legislative plan for the election law"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2011/comments-on-the-legislative-plan-for-the-election-law/"
 date: 2011-02-03
 perex: "<p></p><p>The Defender had fundamental objections to the fact that the active and passive right to vote on the part of foreigners from third countries in elections to municipal and regional councils is restricted only to those people whose right to vote is acknowledged by an international contract. </p>"

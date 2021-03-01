@@ -1,7 +1,7 @@
 ---
 title: "New Deputy-Ombudsman"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2013/new-deputy-ombudsman/"
 date: 2013-04-04
 perex: "<p></p>"

@@ -1,7 +1,7 @@
 ---
 title: "EU citizens living in the Czech Republic are denied to vote in local poll"
-tags:
-  - News
+vystupy:
+  - news
 oldUrl: "/en/news/press-releases-2014/eu-citizens-living-in-the-czech-republic-are-denied-to-vote-in-local-poll/"
 date: 2014-07-24
 perex: "<p>Foreigners from EU states with a long-time residence permit in the Czech Republic have been denied the right to take part in local elections which is at variance with European law.</p>"
