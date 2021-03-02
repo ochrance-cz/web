@@ -1,5 +1,5 @@
 ---
-title: Slaďování soukromého a pracovního života</a>
+title: Slaďování soukromého a pracovního života
 vystupy:
   - sbornik
 perex: Sborník z konference 23. - 24. října 2014.
