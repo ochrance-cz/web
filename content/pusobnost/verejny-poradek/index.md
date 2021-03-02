@@ -6,7 +6,7 @@ perex: "Zabýváme se velkou škálou témat: přestupky (dopravními i proti
   občanskému soužití), dopravně-správní agendou, která zahrnuje problematiku
   veřejných cest, ale také dopravní značení, řidičská oprávnění apod., ochranou
   spotřebitele, evidencí obyvatel a s tím souvisejícím vydáváním občanských
-  průkazy, cestovních pasů, činnosti matrik aj."
+  průkazů, cestovních pasů, činností matrik aj."
 cta:
   title: Řešíte podobnou situaci a domníváte se, že vám ombudsman může pomoct?
 ---
