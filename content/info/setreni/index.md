@@ -8,7 +8,7 @@ order: 1
 ---
 ## Posouzení a šetření
 
-Po přijetí podnětu k šetření následuje posouzení zda obsah stížnosti odpovídá působnosti ombudsmana.
+Po přijetí podnětu k šetření následuje posouzení, zda obsah stížnosti odpovídá působnosti ombudsmana.
 
 {{< rozbal "Podnět je v působnosti ombudsmana" >}}
 
