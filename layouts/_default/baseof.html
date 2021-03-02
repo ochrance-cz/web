@@ -10,8 +10,24 @@
   {{ block "styles" . }}{{ end }}
   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
-
 <body>
+  {{ if eq .Site.Title "Ombudsman - Preview" }}
+    <p style="margin: 0; background: yellow; color: red; padding: 0.5rem 1rem">Náhled webu (vygenerováno {{ now.Format "02 Jan 06 15:04 MST" }}<span id="elapsed" data-timestamp="{{ now.Unix }}"></span>)</p>
+    <script type="text/javascript">
+      var el = document.getElementById('elapsed');
+      var time = el.getAttribute('data-timestamp');
+      setInterval(function(){
+        var elapsed = (Date.now() / 1000) - time;
+        el.innerHTML = ' – před ' +
+          (elapsed < 60 ? Math.floor(elapsed) + ' s' :
+          elapsed < 60 * 60 ? Math.floor(elapsed/60) + ' min' :
+          elapsed < 60 * 60 * 24 ? Math.floor(elapsed/(60/60)) + 'hod' :
+          Math.floor(elapsed/(60/60*24)) + 'den');
+      }, 1000);
+    </script>
+  </script>
+  {{ end }}
+
   {{ partial "alert-strip.html" . }}
 
   {{ partial "site-header.html" . }}

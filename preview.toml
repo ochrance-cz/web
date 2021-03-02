@@ -1,7 +1,7 @@
-baseURL = "https://www.ochrance.cz"
+baseURL = "https://jan-martinek.github.io/ochrance-cz/"
 defaultContentLanguage = "cs"
 languageCode = "cs"
-title = "Ombudsman"
+title = "Ombudsman - Preview"
 relativeurls = true
 staticDir = ["static", "static-preview"]
 
@@ -16,14 +16,14 @@ home = ["HTML"]
   [languages.cs]
     contentDir = "content"
     languageName = "Česky"
-    title = "Ombudsman"
+    title = "Ombudsman - Preview"
     weight = 2
     [languages.cs.params]
     description = "veřejný ochránce práv"
   [languages.en]
     contentDir = "content-en"
     languageName = "English"
-    title = "Ombudsman"
+    title = "Ombudsman - Preview"
     weight = 1
     [languages.en.params]
     description = ""
