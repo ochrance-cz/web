@@ -65,20 +65,6 @@ const links = (title: string, name: string = "links") => {
   ]);
 };
 
-const tags = [
-  { label: "Výroční zpráva", value: "vyrocni-zprava" },
-  { label: "Publikace", value: "publikace" },
-  { label: "Připomínky k zákonům", value: "pripominky" },
-  { label: "Materiál pro vládu", value: "pro-vladu" },
-  { label: "Newsletter", value: "newsletter" },
-  { label: "Seriál na ČT", value: "ct" },
-  { label: "Podcast", value: "podcast" },
-  {
-    label: "Bulletin k monitorování práv lidí s postižením",
-    value: "bulletin",
-  },
-];
-
 const stranky = files("Stránky", "stranky", [
   fileCollection("Homepage", "home", "content/_index.markdown", [
     title("Titulek"),
@@ -293,7 +279,13 @@ const dokument = folderCollection(
   [
     title("Titulek"),
     boolean("Uložit jako draft", "draft"),
-    select("Štítky", "tags", tags, { multiple: true }),
+    relation("Štítky", "vystupy", {
+      collection: "vystupy",
+      value_field: "slug",
+      display_fields: ["title"],
+      search_fields: ["title"],
+      multiple: true,
+    }),
     markdown("Text", "body"),
     list("Přílohy", "Příloha", "attachments", [
       title("Název přílohy"),
@@ -444,6 +436,13 @@ const aktualne = folderCollection(
     title("Titulek"),
     boolean("Uložit jako draft", "draft"),
     datetime("Datum", "date", { time_format: false }),
+    relation("Štítky", "vystupy", {
+      collection: "vystupy",
+      value_field: "slug",
+      display_fields: ["title"],
+      search_fields: ["title"],
+      multiple: true,
+    }),
     markdown("Perex", "perex"),
     markdown("Text", "body"),
   ]
