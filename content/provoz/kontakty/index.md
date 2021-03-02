@@ -19,20 +19,18 @@ sections:
       **Sekretariát**
       Telefon: (+420) 542 542 666
 
-
-
-
-
       ### **Vedoucí sekretariátu veřejného ochránce práv a jeho zástupkyně**
 
       **Miroslav Přidal**
 
       Telefon: (+420) 542 542 779
+
+      e-mail: miroslav.pridal@ochrance.cz
   - title: Vedoucí Kanceláře veřejného ochránce práv
-    intro: |
+    intro: |-
       **Pavel Pořízek**
       Telefon: (+420) 542 542 554
-      e-mail: pavel.porizekochrance.cz  
+      e-mail: pavel.porizek@ochrance.cz  
 
       **Sekretariát**
       Telefon: (+420) 542 542 555
