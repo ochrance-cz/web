@@ -4,11 +4,9 @@ type: kontakty
 sections:
   - title: Veřejný ochránce práv
     intro: |-
-      #### **JUDr. Stanislav Křeček** 
+      #### **JUDr. Stanislav Křeček**
 
       veřejný ochránce práv
-
-
 
       **Sekretariát**
       Telefon: (+420) 542 542 777
@@ -21,7 +19,11 @@ sections:
       **Sekretariát**
       Telefon: (+420) 542 542 666
 
-      ## **Vedoucí sekretariátu veřejného ochránce práv a jeho zástupkyně**
+
+
+
+
+      ### **Vedoucí sekretariátu veřejného ochránce práv a jeho zástupkyně**
 
       **Miroslav Přidal**
 
