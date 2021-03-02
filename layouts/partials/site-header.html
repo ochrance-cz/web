@@ -12,11 +12,11 @@
   <div class="backdrop">
     {{ if eq .Language.Lang "en" }}
       <a class="root-link" href="/en/">
-        <img class="logo" src="/images/logo-en.svg" width="200">
+        <img class="logo" src="{{ "/images/logo-en.svg" | absURL }}" width="200">
       </a>
     {{ else }}
       <a class="root-link" href="/">
-        <img class="logo" src="/images/logo.svg" width="200">
+        <img class="logo" src="{{ "/images/logo.svg" | absURL }}" width="200">
       </a>
     {{ end }}
 
