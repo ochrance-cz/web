@@ -1117,14 +1117,51 @@ collections:
         widget: image
     create: true
     path: '{{slug}}/_index'
+  - name: vystupy
+    label: Kategorie výstupů
+    label_singular: Kategorie výstupů
+    folder: content/vystupy
+    extension: md
+    editor: &ref_26
+      preview: false
+    fields: &ref_27
+      - label: Název kategorie
+        name: title
+        widget: string
+      - label: Řetezec v adrese
+        name: slug
+        required: false
+        widget: string
+      - editor_components:
+          - image
+        buttons:
+          - bold
+          - italic
+          - link
+          - heading-two
+          - heading-three
+          - heading-four
+          - quote
+          - bulleted-list
+          - numbered-list
+        label: Perex
+        name: perex
+        required: false
+        widget: markdown
+      - label: Ilustrační obrázek
+        name: illustration
+        required: false
+        widget: image
+    create: true
+    path: '{{slug}}/_index'
   - name: provoz
     label: Provoz
     label_singular: provozní info
     folder: content/provoz
     extension: md
-    editor: &ref_26
+    editor: &ref_28
       preview: false
-    fields: &ref_27
+    fields: &ref_29
       - label: Titulek
         name: title
         widget: string
@@ -1185,9 +1222,9 @@ collections:
     label_singular: infostránka
     folder: content/info
     extension: md
-    editor: &ref_28
+    editor: &ref_30
       preview: false
-    fields: &ref_29
+    fields: &ref_31
       - label: Titulek
         name: title
         widget: string
@@ -1279,9 +1316,9 @@ collections:
     label_singular: projekt
     folder: content/projekty
     extension: md
-    editor: &ref_30
+    editor: &ref_32
       preview: false
-    fields: &ref_31
+    fields: &ref_33
       - label: Název projektu
         name: title
         widget: string
@@ -1513,13 +1550,22 @@ collections:
     fields: *ref_25
     create: true
     path: '{{slug}}/_index'
+  - name: vystupy-en
+    label: Kategorie výstupů (EN)
+    label_singular: Kategorie výstupů (en)
+    folder: content-en/vystupy
+    extension: md
+    editor: *ref_26
+    fields: *ref_27
+    create: true
+    path: '{{slug}}/_index'
   - name: provoz-en
     label: Provoz (EN)
     label_singular: provozní info (en)
     folder: content-en/provoz
     extension: md
-    editor: *ref_26
-    fields: *ref_27
+    editor: *ref_28
+    fields: *ref_29
     create: true
     path: '{{slug}}/index'
     media_folder: ''
@@ -1529,8 +1575,8 @@ collections:
     label_singular: infostránka (en)
     folder: content-en/info
     extension: md
-    editor: *ref_28
-    fields: *ref_29
+    editor: *ref_30
+    fields: *ref_31
     create: true
     path: '{{slug}}/index'
     media_folder: ''
@@ -1540,8 +1586,8 @@ collections:
     label_singular: projekt (en)
     folder: content-en/projekty
     extension: md
-    editor: *ref_30
-    fields: *ref_31
+    editor: *ref_32
+    fields: *ref_33
     create: true
     path: '{{slug}}/index'
     media_folder: ''

@@ -466,6 +466,24 @@ const situace = folderCollection(
   ]
 );
 
+const vystupy = folderCollection(
+  "Kategorie výstupů",
+  "Kategorie výstupů",
+  "vystupy",
+  {
+    folder: "content/vystupy",
+    path: "{{slug}}/_index",
+    extension: "md",
+    create: true,
+  },
+  [
+    title("Název kategorie"),
+    string("Řetezec v adrese", "slug"),
+    markdown("Perex", "perex"),
+    image("Ilustrační obrázek", "illustration"),
+  ]
+);
+
 const letaky = folderCollection(
   "Letáky",
   "leták",
@@ -572,6 +590,7 @@ save("./static/admin/config.yml", {
     pomoc,
     letaky,
     situace,
+    vystupy,
     ops,
     info,
     info106,
@@ -584,6 +603,7 @@ save("./static/admin/config.yml", {
     englishFolder(pomoc),
     englishFolder(letaky),
     englishFolder(situace),
+    englishFolder(vystupy),
     englishFolder(ops),
     englishFolder(info),
     englishFolder(projekty),
