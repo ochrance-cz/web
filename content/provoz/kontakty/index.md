@@ -18,16 +18,12 @@ sections:
 
       zástupkyně veřejného ochránce práv
 
-
-
       **Sekretariát**
       Telefon: (+420) 542 542 666
 
+      ## **Vedoucí sekretariátu veřejného ochránce práv a jeho zástupkyně**
 
-
-      #### **Vedoucí sekretariátu veřejného ochránce práv a jeho zástupkyně**
-
-      **Mgr. et Mgr. Miroslav Přidal**
+      **Miroslav Přidal**
 
       Telefon: (+420) 542 542 779
   - title: Vedoucí Kanceláře veřejného ochránce práv
@@ -50,18 +46,18 @@ sections:
       Michaela Nováková, tel: 542 542 238
       Hana Suská, tel: 542 542 380
   - title: Odbor vnitřní správy
-    intro: |
-      **Ing. Josef Svoboda**
+    intro: |-
+      **Josef Svoboda**
       vedoucí odboru vnitřní správy 
       Tel: 542 542 444
   - title: Odbor administrativních a spisových služeb
-    intro: |
-      **Mgr. Bc. Libuše Kuncová**
+    intro: |-
+      **Libuše Kuncová**
       vedoucí odboru
       Tel: 542 542 224
   - title: Odbor péče o zaměstnance
-    intro: |
-      **Mgr. Gabriela Lžičařová**
+    intro: |-
+      **Gabriela Lžičařová**
       vedoucí odboru
       Tel: 542 542 347
 lawyers:
