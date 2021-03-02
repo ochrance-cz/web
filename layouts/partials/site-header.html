@@ -1,7 +1,7 @@
 {{ define "menu-link" }}
 <li>
   <a
-    href="{{ cond (isset .Params "link") .Params.link .RelPermalink }}"
+    href="{{ cond (isset .Params "link") .Params.link .Permalink }}"
     class="icon-{{ with .Params.icon }}{{ . }}{{ else }}arrow{{ end }}">
     {{- .Title -}}
   </a>
@@ -84,22 +84,22 @@
               </ul>
             </li>
             {{ with .GetPage "/hledat/" }}
-              <li><a href="{{ .RelPermalink }}" class="search">{{ i18n "search" }}</a></li>
+              <li><a href="{{ .Permalink }}" class="search">{{ i18n "search" }}</a></li>
             {{ end }}
 
             {{ if .IsTranslated }}
               {{ range .Translations }}
                 {{ if ne .Language.Lang $.Language.Lang }}
-                  <li><a href="{{ .RelPermalink }}" class="lang">
+                  <li><a href="{{ .Permalink }}" class="lang">
                     {{ .Language.Lang | upper }}
                   </a></li>
                 {{ end  }}
               {{ end }}
             {{ else }}
               {{ if eq .Language.Lang "cs" }}
-                <li><a href="/en/" class="lang">EN</a></li>
+                <li><a href="{{ "/en/" | absURL }}" class="lang">EN</a></li>
               {{ else }}
-                <li><a href="/" class="lang">CS</a></li>
+                <li><a href="{{ "/" | absURL }}" class="lang">CS</a></li>
               {{ end }}
             {{ end }}
           </ul>
