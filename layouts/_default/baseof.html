@@ -6,7 +6,7 @@
   {{ partial "meta.html" . }}
 
   {{ $css := resources.Get "style/style.scss" | toCSS | minify | fingerprint }}
-  <link rel="stylesheet" href="{{ $css.RelPermalink }}">
+  <link rel="stylesheet" href="{{ $css.Permalink }}">
   {{ block "styles" . }}{{ end }}
   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
@@ -22,7 +22,7 @@
   {{ partial "site-footer.html" . }}
 
   {{ $js := resources.Get "scripts/index.js" | minify | fingerprint }}
-  <script src="{{ $js.RelPermalink }}"></script>
+  <script src="{{ $js.Permalink }}"></script>
 
   {{ block "scripts" . }}{{ end }}
 
