@@ -2,6 +2,34 @@
 title: Kontakty
 type: kontakty
 sections:
+  - title: Veřejný ochránce práv
+    intro: |-
+      #### **JUDr. Stanislav Křeček** 
+
+      veřejný ochránce práv
+
+
+
+      **Sekretariát**
+      Telefon: (+420) 542 542 777
+  - title: Zástupkyně veřejného ochránce práv
+    intro: |-
+      #### **Mgr. Monika Šimůnková**
+
+      zástupkyně veřejného ochránce práv
+
+
+
+      **Sekretariát**
+      Telefon: (+420) 542 542 666
+
+
+
+      #### **Vedoucí sekretariátu veřejného ochránce práv a jeho zástupkyně**
+
+      **Mgr. et Mgr. Miroslav Přidal**
+
+      Telefon: (+420) 542 542 779
   - title: Vedoucí Kanceláře veřejného ochránce práv
     intro: |
       **Pavel Pořízek**
