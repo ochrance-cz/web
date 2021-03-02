@@ -9,7 +9,7 @@ sections:
       veřejný ochránce práv
 
       **Sekretariát**
-      Telefon: (+420) 542 542 777
+      telefon: (+420) 542 542 777
   - title: Zástupkyně veřejného ochránce práv
     intro: |-
       #### **Mgr. Monika Šimůnková**
@@ -17,30 +17,30 @@ sections:
       zástupkyně veřejného ochránce práv
 
       **Sekretariát**
-      Telefon: (+420) 542 542 666
+      telefon: (+420) 542 542 666
 
       ### **Vedoucí sekretariátu veřejného ochránce práv a jeho zástupkyně**
 
       **Miroslav Přidal**
 
-      Telefon: (+420) 542 542 779
+      telefon: (+420) 542 542 779
 
       e-mail: miroslav.pridal@ochrance.cz
   - title: Vedoucí Kanceláře veřejného ochránce práv
     intro: |-
       **Pavel Pořízek**
-      Telefon: (+420) 542 542 554
+      telefon: (+420) 542 542 554
       e-mail: pavel.porizek@ochrance.cz  
 
       **Sekretariát**
-      Telefon: (+420) 542 542 555
+      telefon: (+420) 542 542 555
   - title: Sekce právní
-    intro: |
+    intro: |-
       **Jana Gregorová**
       ředitelka sekce
-      tel: 542 542 360
+      telefon: 542 542 360
       fax: 542 542 332
-      e-mail: jana.gregorovaochrance.cz 
+      e-mail: jana.gregorova@ochrance.cz 
 
       **Sekretariát:**
       Michaela Nováková, tel: 542 542 238
@@ -49,17 +49,29 @@ sections:
     intro: |-
       **Josef Svoboda**
       vedoucí odboru vnitřní správy 
-      Tel: 542 542 444
+
+
+      telefon: 542 542 444
+
+      e-mail: josef.svoboda@ochrance.cz
   - title: Odbor administrativních a spisových služeb
     intro: |-
       **Libuše Kuncová**
       vedoucí odboru
-      Tel: 542 542 224
+
+
+      telefon: 542 542 224
+
+      e-mail: libuse.kuncova@ochrance.cz
   - title: Odbor péče o zaměstnance
     intro: |-
       **Gabriela Lžičařová**
       vedoucí odboru
-      Tel: 542 542 347
+
+
+      telefon: : 542 542 347
+
+      e-mail: gabriela.lzicarova@ochrance.cz
 lawyers:
   - title: Odbor stavebního řádu a životního prostředí
     intro: činnost stavebních úřadů, územní plánování, ochrana životního prostřední,
