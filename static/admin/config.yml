@@ -1121,7 +1121,7 @@ collections:
     label: Kategorie výstupů
     label_singular: Kategorie výstupů
     folder: content/vystupy
-    extension: md
+    extension: markdown
     editor: &ref_26
       preview: false
     fields: &ref_27
@@ -1554,7 +1554,7 @@ collections:
     label: Kategorie výstupů (EN)
     label_singular: Kategorie výstupů (en)
     folder: content-en/vystupy
-    extension: md
+    extension: markdown
     editor: *ref_26
     fields: *ref_27
     create: true

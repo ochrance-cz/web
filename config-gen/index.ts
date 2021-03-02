@@ -473,7 +473,7 @@ const vystupy = folderCollection(
   {
     folder: "content/vystupy",
     path: "{{slug}}/_index",
-    extension: "md",
+    extension: "markdown",
     create: true,
   },
   [
