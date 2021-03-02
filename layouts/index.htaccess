@@ -5,7 +5,6 @@ ErrorDocument 500 /err/500/index.html
 RewriteEngine On
 RewriteRule ^dalsi-aktivity/archiv-vzdelavacich-akci.*$ /vzdelavaci-akce/? [R=301,L]
 RewriteRule ^fileadmin/user_upload/(.*)$ /uploads-import/$1 [R=301,L]
-RewriteRule ^https://www.ochrance.cz/en/situace/
 
 {{ range .Site.AllPages -}}
 {{ $link := .RelPermalink }}
