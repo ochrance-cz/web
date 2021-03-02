@@ -6,6 +6,7 @@ hp: Zjistěte, jak ombudsman postupuje, když dostane stížnost na úřad, na
   svobodě.
 order: 1
 ---
+
 ## Posouzení a šetření
 
 Po přijetí podnětu k šetření následuje posouzení, zda obsah stížnosti odpovídá působnosti ombudsmana.
@@ -18,7 +19,7 @@ Stěžovatel je informován, že ombudsman v jeho věci zahajuje šetření, jak
 
 #### Šetření
 
-Omdbudsman postupně získává od úřadů důležité dokumenty, shromažďuje fakta a v některých případech provede i místní šetření. Veškerá zjištění ombudsman vyhodnocuje.
+Ombudsman postupně získává od úřadů důležité dokumenty, shromažďuje fakta a v některých případech provede i místní šetření. Veškerá zjištění ombudsman vyhodnocuje.
 
 #### Ukončení šetření
 
@@ -36,7 +37,7 @@ Ombudsman stěžovateli písemně vysvětlí, proč v dané věci nemůže nic u
 
 {{< rozbal "Úřad nepochybil" >}}
 
-Pokud nedošlo k pochybení, ombudsman Zprávou o vásledku šetření celou kauzu ukončuje a vyrozumí o tom stěžovatele i úřady.
+Pokud nedošlo k pochybení, ombudsman Zprávou o výsledku šetření celou kauzu ukončuje a vyrozumí o tom stěžovatele i úřady.
 
 {{< /rozbal >}}
 
