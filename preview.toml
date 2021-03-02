@@ -3,14 +3,14 @@ defaultContentLanguage = "cs"
 languageCode = "cs"
 title = "Ombudsman"
 relativeurls = true
+staticDir = ["static", "static-preview"]
 
 [outputs]
-home = ["HTML", "RSS", "Elastic", "htaccess"]
+home = ["HTML"]
 
 [taxonomies]
   vystup = "vystupy"
   situace = "situace"
-
 
 [languages]
   [languages.cs]
@@ -34,22 +34,3 @@ home = ["HTML", "RSS", "Elastic", "htaccess"]
 
 [permalinks]
 info = "/:filename"
-
-[outputFormats.Elastic]
-baseName = "elastic"
-isPlainText = true
-mediaType = "application/json"
-notAlternative = true
-
-[params.Elastic]
-vars = ["title", "summary", "date", "publishdate", "expirydate", "permalink"]
-params = ["categories", "tags"]
-
-[outputFormats.htaccess]
-baseName = ""
-isPlainText = true
-mediaType = "text/htaccess"
-
-[mediaTypes]
-[mediaTypes."text/htaccess"]
-suffixes = ["htaccess"]

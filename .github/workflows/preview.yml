@@ -1,0 +1,38 @@
+name: Publish preview
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          submodules: false
+          fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: "0.81.0"
+          extended: true
+
+      - name: Remove docs
+        run: |
+          find . -name "*.pdf" -type f -delete
+          find . -name "*.docx" -type f -delete
+          find . -name "*.doc" -type f -delete
+          find . -name "*.rtf" -type f -delete
+          find . -name "*.zip" -type f -delete
+
+      - name: Build
+        run: hugo --config preview.toml
+
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@4.0.0
+        with:
+          branch: gh-pages
+          folder: public
