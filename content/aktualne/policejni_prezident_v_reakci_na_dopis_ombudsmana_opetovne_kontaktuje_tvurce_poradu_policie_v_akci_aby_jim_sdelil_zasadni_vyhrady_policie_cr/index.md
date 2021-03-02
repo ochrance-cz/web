@@ -2,6 +2,8 @@
 title: Policejní prezident v reakci na dopis ombudsmana opětovně kontaktuje
   tvůrce pořadu „Policie v akci“, aby jim sdělil zásadní výhrady Policie ČR
 date: 2021-03-01T12:05:34.280Z
+vystupy:
+  - tz
 perex: Ombudsman se dopisem obrátil na policejního prezidenta s upozorněním
   na pořad TV Prima „Policie v akci“ zobrazující ve formě reality show
   policisty, kteří v rámci plnění běžných služebních povinností porušují zákony.
