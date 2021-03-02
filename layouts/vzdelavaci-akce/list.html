@@ -3,6 +3,8 @@
   {{ partial "pic-header.html" . }}
 
   <section class="_events single-col">
+    {{ .Content }}
+
     {{ range (.Paginate (sort .Pages "Params.startDate" "desc") 20).Pages }}
       {{ partial "event-preview.html" . }}
     {{ end }}
