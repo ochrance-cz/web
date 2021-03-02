@@ -524,6 +524,7 @@ lawyers:
       - name: Veronika Vítková
         role: právnička
         email: veronika.vitkova@ochrance.cz
+        phone: 542 542 250
   - title: Odbor metodiky a analýzy
     people:
       - name: Jaroslav Švoma
