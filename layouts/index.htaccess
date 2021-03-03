@@ -3,6 +3,12 @@ ErrorDocument 404 /err/404/index.html
 ErrorDocument 500 /err/500/index.html
 
 RewriteEngine On
+
+RewriteCond %{HTTPS} off
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+RewriteCond %{HTTP_HOST} !^www\. [NC]
+RewriteRule (.*) https://www.%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
 RewriteRule ^dalsi-aktivity/archiv-vzdelavacich-akci.*$ /vzdelavaci-akce/? [R=301,L]
 RewriteRule ^fileadmin/user_upload/(.*)$ /uploads-import/$1 [R=301,L]
 
