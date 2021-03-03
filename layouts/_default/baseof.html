@@ -8,7 +8,12 @@
   {{ $css := resources.Get "style/style.scss" | toCSS | minify | fingerprint }}
   <link rel="stylesheet" href="{{ $css.Permalink }}">
   {{ block "styles" . }}{{ end }}
-  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
+  {{ if eq .Site.Title "Ombudsman - Preview" }}
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  {{ end }}
+
+  {{ if ne .Site.Title "Ombudsman - Preview" }}
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-15014639-1"></script>
   <script>
@@ -18,6 +23,7 @@
 
     gtag('config', 'UA-15014639-1');
   </script>
+  {{ end }}
 </head>
 <body>
   {{ if eq .Site.Title "Ombudsman - Preview" }}
@@ -51,6 +57,7 @@
 
   {{ block "scripts" . }}{{ end }}
 
+  {{ if eq .Site.Title "Ombudsman - Preview" }}
   <script>
     if (window.netlifyIdentity) {
       window.netlifyIdentity.on("init", user => {
@@ -62,5 +69,6 @@
       });
     }
   </script>
+  {{ end }}
 </body>
 </html>
