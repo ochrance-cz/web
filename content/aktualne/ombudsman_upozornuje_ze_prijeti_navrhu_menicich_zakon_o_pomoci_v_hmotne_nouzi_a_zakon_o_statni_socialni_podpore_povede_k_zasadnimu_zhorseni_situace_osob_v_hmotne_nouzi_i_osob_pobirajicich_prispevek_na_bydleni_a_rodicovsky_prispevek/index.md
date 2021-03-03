@@ -3,8 +3,10 @@ title: Ombudsman upozorňuje, že přijetí návrhů měnících zákon o pomoci
   nouzi a zákon o státní sociální podpoře povede k zásadnímu zhoršení situace
   osob v hmotné nouzi i osob pobírajících příspěvek na bydlení a rodičovský
   příspěvek
+vystupy:
+  - tz
 date: 2021-03-02T11:32:32.620Z
-perex: "*Ombudsman varuje před přijetím dvou poslaneckých návrhů (sněmovní tisky
+perex: "Ombudsman varuje před přijetím dvou poslaneckých návrhů (sněmovní tisky
   č. 290 a 652, ve znění komplexních pozměňovacích návrhů poslance Ing. Jana
   Bauera a poslance Marka Nováka, MBA), kterými se mění zákon č. 111/2006 Sb., o
   pomoci v hmotné nouzi, ve znění pozdějších předpisů a další zákony. Obává se,
@@ -14,8 +16,9 @@ perex: "*Ombudsman varuje před přijetím dvou poslaneckých návrhů (sněmovn
   situace mnoha lidí výrazně zhoršuje. Ombudsman v dopisu adresovaném členům
   Výboru pro sociální politiku Poslanecké sněmovny a ministryni práce a
   sociálních věcí shrnul své výhrady a apeluje na poslance, aby přijetí návrhů
-  zvážili.*"
+  zvážili."
 ---
+
 „Jsem znepokojen tím, že k zavedení postihů na dávkách pomoci v hmotné nouzi za opakované spáchání některých přestupků a k zásadnímu zpřísnění podmínek pro čerpání některých dávek pomoci v hmotné nouzi a státní sociální podpory dochází v době pandemie koronaviru. Lze očekávat, že sociální důsledky pandemie pocítí nejvíce právě ti nejchudší. V současné době by více než kdy jindy měl systém dávek pomoci v hmotné nouzi plnit roli poslední ‚záchranné sítě‘ před pádem lidí do chudoby a sociálního vyloučení,“ uvedl ombudsman Stanislav Křeček.
 
 ### Rizika přijetí sněmovního tisku č. 290 dle ombudsmana
