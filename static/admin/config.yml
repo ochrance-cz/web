@@ -511,22 +511,10 @@ collections:
         search_fields:
           - title
         multiple: true
-      - editor_components:
-          - image
-        buttons:
-          - bold
-          - italic
-          - link
-          - heading-two
-          - heading-three
-          - heading-four
-          - quote
-          - bulleted-list
-          - numbered-list
-        label: Perex
+      - label: Perex
         name: perex
         required: false
-        widget: markdown
+        widget: text
       - editor_components:
           - image
         buttons:
@@ -622,22 +610,10 @@ collections:
             name: menuTitle
             required: false
             widget: string
-          - editor_components:
-              - image
-            buttons:
-              - bold
-              - italic
-              - link
-              - heading-two
-              - heading-three
-              - heading-four
-              - quote
-              - bulleted-list
-              - numbered-list
-            label: Perex
+          - label: Perex
             name: description
             required: false
-            widget: markdown
+            widget: text
           - editor_components:
               - image
             buttons:
@@ -843,22 +819,10 @@ collections:
             value: orange
           - label: Žlutozelená
             value: yellow
-      - editor_components:
-          - image
-        buttons:
-          - bold
-          - italic
-          - link
-          - heading-two
-          - heading-three
-          - heading-four
-          - quote
-          - bulleted-list
-          - numbered-list
-        label: Perex
+      - label: Perex
         name: perex
         required: false
-        widget: markdown
+        widget: text
       - editor_components:
           - image
         buttons:
@@ -904,22 +868,10 @@ collections:
       - label: Titulek
         name: title
         widget: string
-      - editor_components:
-          - image
-        buttons:
-          - bold
-          - italic
-          - link
-          - heading-two
-          - heading-three
-          - heading-four
-          - quote
-          - bulleted-list
-          - numbered-list
-        label: Perex
+      - label: Perex
         name: perex
         required: false
-        widget: markdown
+        widget: text
       - editor_components:
           - image
         buttons:
@@ -1095,22 +1047,10 @@ collections:
         name: questionTitle
         required: false
         widget: string
-      - editor_components:
-          - image
-        buttons:
-          - bold
-          - italic
-          - link
-          - heading-two
-          - heading-three
-          - heading-four
-          - quote
-          - bulleted-list
-          - numbered-list
-        label: Perex
+      - label: Perex
         name: perex
         required: false
-        widget: markdown
+        widget: text
       - label: Ilustrační obrázek
         name: illustration
         required: false
@@ -1132,22 +1072,10 @@ collections:
         name: slug
         required: false
         widget: string
-      - editor_components:
-          - image
-        buttons:
-          - bold
-          - italic
-          - link
-          - heading-two
-          - heading-three
-          - heading-four
-          - quote
-          - bulleted-list
-          - numbered-list
-        label: Perex
+      - label: Perex
         name: perex
         required: false
-        widget: markdown
+        widget: text
       - label: Ilustrační obrázek
         name: illustration
         required: false

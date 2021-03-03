@@ -192,7 +192,7 @@ const onas = files("O nás", "onas", [
     [
       title("Titulek stránky"),
       string("Titulek v menu", "menuTitle"),
-      markdown("Perex", "description"),
+      text("Perex", "description"),
       markdown("Text stránky", "body"),
       links("Odkazy"),
     ],
@@ -307,7 +307,7 @@ const pomoc = folderCollection(
   },
   [
     title("Titulek"),
-    markdown("Perex", "perex"),
+    text("Perex", "perex"),
     markdown("Popisek na homepage", "hp"),
     markdown("Úvodní text", "body"),
     list(
@@ -357,7 +357,7 @@ const pusobnost = folderCollection(
     title("Název oblasti"),
     boolean("Uložit jako draft", "draft"),
     select("Barva hlavičky", "headerColor", headerColors),
-    markdown("Perex", "perex"),
+    text("Perex", "perex"),
     markdown("Text", "body"),
     cta(),
   ]
@@ -443,7 +443,7 @@ const aktualne = folderCollection(
       search_fields: ["title"],
       multiple: true,
     }),
-    markdown("Perex", "perex"),
+    text("Perex", "perex"),
     markdown("Text", "body"),
   ]
 );
@@ -461,7 +461,7 @@ const situace = folderCollection(
   [
     title("Název situace"),
     string("Titulek ve formě otázky", "questionTitle"),
-    markdown("Perex", "perex"),
+    text("Perex", "perex"),
     image("Ilustrační obrázek", "illustration"),
   ]
 );
@@ -479,7 +479,7 @@ const vystupy = folderCollection(
   [
     title("Název kategorie"),
     string("Řetezec v adrese", "slug"),
-    markdown("Perex", "perex"),
+    text("Perex", "perex"),
     image("Ilustrační obrázek", "illustration"),
   ]
 );
