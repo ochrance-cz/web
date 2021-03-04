@@ -9,6 +9,7 @@ ErrorDocument 500 /err/500/index.html
   Header set X-Content-Type-Options nosniff
 </IfModule>
 
+AddType image/svg+xml .svg .svgz
 AddType application/font-woff            woff
 AddType application/font-woff2           woff2
 
@@ -21,12 +22,13 @@ ExpiresByType image/jpg "access plus 1 year"
 ExpiresByType image/jpeg "access plus 1 year"
 ExpiresByType image/gif "access plus 1 year"
 ExpiresByType image/png "access plus 1 year"
-ExpiresByType text/css "access plus 1 month"
+ExpiresByType text/css "access plus 1 year"
 ExpiresByType text/image/svg+xml "access plus 1 month"
 ExpiresByType application/font-woff "access plus 1 year"
 ExpiresByType application/font-woff2 "access plus 1 year"
 ExpiresByType application/pdf "access plus 1 year"
 ExpiresByType text/x-javascript "access plus 1 month"
+ExpiresByType text/javascript "access plus 1 month"
 ExpiresByType image/x-icon "access plus 1 year"
 ExpiresDefault "access plus 2 days"
 
