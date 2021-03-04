@@ -76,7 +76,12 @@
     </div>
     <hr>
     <div class="bottom-line">
-      <p>&copy; {{ now.Format "2006" }} {{ i18n "kvop" }}</p>
+      <p>&copy; {{ now.Format "2006" }} {{ i18n "kvop" }}
+        <a href="https://www.toplist.cz" style="margin-top: -20px;" id="toplist"></a>
+          <script language="JavaScript" type="text/javascript" charset="utf-8">
+            <!-- document.getElementById('toplist').innerHTML = ('<img src="https://toplist.cz/dot.asp?id=30867&http='+ encodeURIComponent(document.referrer)+'&t='+encodeURIComponent(document.title)+'&l='+encodeURIComponent(document.URL)+'&wi='+encodeURIComponent(window.screen.width)+'&he='+encodeURIComponent(window.screen.height)+'&cd='+encodeURIComponent(window.screen.colorDepth)+'" width="1" height="1" border=0 alt="TOPlist" />'); //--></script>
+          <noscript><img src="https://toplist.cz/dot.asp?id=30867&njs=1" border="0" alt="TOPlist" width="1" height="1" /></noscript>
+      </p>
       <p class="a11y">
           {{ with .GetPage "/" }}
             {{ .Params.accessibility | markdownify }}
@@ -85,12 +90,4 @@
       </p>
    </div>
   </footer>
-  <a href="https://www.toplist.cz" style="margin-top: -20px;"><script language="JavaScript" type="text/javascript" charset="utf-8">
-  <!--
-  document.write('<img src="https://toplist.cz/dot.asp?id=30867&http='+
-  encodeURIComponent(document.referrer)+'&t='+encodeURIComponent(document.title)+'&l='+encodeURIComponent(document.URL)+
-  '&wi='+encodeURIComponent(window.screen.width)+'&he='+encodeURIComponent(window.screen.height)+'&cd='+
-  encodeURIComponent(window.screen.colorDepth)+'" width="1" height="1" border=0 alt="TOPlist" />');
-  //--></script><noscript><img src="https://toplist.cz/dot.asp?id=30867&njs=1" border="0"
-  alt="TOPlist" width="1" height="1" /></noscript></a>
 </div>
