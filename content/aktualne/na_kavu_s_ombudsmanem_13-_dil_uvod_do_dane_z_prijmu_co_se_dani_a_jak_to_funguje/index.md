@@ -1,10 +1,10 @@
 ---
 title: "Na kávu s ombudsmanem, 13. díl: Úvod do daně z příjmů – co se daní a jak
   to funguje"
-date: 2021-03-05T10:28:19.367Z
+date: 2021-03-05T10:53:28.510Z
 vystupy:
   - podcast
-perex: >+
+perex: >
   Řádný termín pro podání daňového přiznání k dani z příjmů se nezadržitelně
   blíží. V podcastu se proto věnujeme tomu, jaké příjmy se daní. Vysvětlíme, jak
   to chodí s daňovým přiznáním u zaměstnanců. Poradíme také, jak lze daňové
