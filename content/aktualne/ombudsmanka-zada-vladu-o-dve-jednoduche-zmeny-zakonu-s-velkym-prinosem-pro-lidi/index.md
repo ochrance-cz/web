@@ -1,0 +1,12 @@
+---
+title: "Ombudsmanka žádá vládu o dvě jednoduché změny zákonů s velkým přínosem pro lidi"
+vystupy:
+  - tz
+oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2019/ombudsmanka-zada-vladu-o-dve-jednoduche-zmeny-zakonu-s-velkym-prinosem-pro-lidi/"
+date: 2019-01-10
+perex: "<p>Vláda v pátek 11. 1. projedná dva návrhy ombudsmanky. Ta vládu žádá o zajištění dvou jednoduchých změn právních předpisů, které však budou mít výrazný pozitivní přínos pro občany při projednávání jejich záležitostí s úřady.</p>"
+---
+
+<!-- imported from the old website -->
+
+<p>V prvním případě ombudsmanka navrhuje změnit správní řád tak, aby výslovně umožňoval účastníkům řízení dálkové nahlížet do spisů formou zaslání kopií. Ombudsmanka se setkává s případy, kdy lidé z nejrůznějších důvodů nemohou osobně navštívit úřad, u něhož se řízení v jejich věci vede, a nemohou tak uplatnit své právo seznámit se s podklady, na jejichž základě bude úřad rozhodovat. V současné době musí spoléhat pouze na vstřícnost toho kterého úřadu, protože podle zjištění ombudsmanky některé úřady kopie dokumentů účastníkům na žádost zasílají, jiné to však odmítají. Ombudsmanka žádala ministra vnitra, aby praxi úřadů sjednotil ve prospěch zasílání kopií a usnadnil tím řadě lidí život. Ministr to odmítl, proto se ombudsmanka obrátila na vládu. </p> <p>Podrobnosti najdete <a href="https://www.ochrance.cz/aktualne/tiskove-zpravy-2018/ombudsmanka-zada-o-snizeni-byrokracie-a-zatezovani-lidi-pri-nahlizeni-do-spisu/" target="_blank">zde</a></p> <p>Druhý návrh ombudsmanky se týká práva účastníků řízení podat proti správnímu rozhodnutí žalobu. Každý má právo na to, aby jeho záležitost byla projednána nezávislým a nestranným soudem v případě, kdy nesouhlasí s úředním rozhodnutím. Přestože je většina úředních rozhodnutí zákonná, existují i sporné případy. Úřady by na možnost soudního přezkumu měly účastníky řízení upozorňovat. Podle ombudsmanky nejde o žádnou nadměrnou zátěž pro úřady, protože by stačilo do stávajících poučení, která jsou součástí rozhodnutí, doplnit jednu standardizovanou větu o možnosti podání soudní žaloby. Rozhodnutí České správy sociálního zabezpečení takto lidi poučují už řadu let a není důvod, aby stejně nepostupovaly i jiné správní orgány. </p> <p>Podrobnosti k návrhu ombudsmanky najdete <a href="https://www.ochrance.cz/aktualne/tiskove-zpravy-2019/ombudsmanka-zada-vladu-aby-urady-informovaly-obcany-o-moznosti-nezavisleho-soudniho-pre/" target="_blank">zde</a></p>

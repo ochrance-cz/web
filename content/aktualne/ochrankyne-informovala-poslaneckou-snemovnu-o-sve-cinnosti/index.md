@@ -1,0 +1,12 @@
+---
+title: "Ochránkyně informovala Poslaneckou sněmovnu o své činnosti"
+vystupy:
+  - tz
+oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2015/ochrankyne-informovala-poslaneckou-snemovnu-o-sve-cinnosti/"
+date: 2015-02-05
+perex: "<p>Průtahy, které vedly k zániku odpovědnosti za přestupek, formalistní nepřiznání doplatku na bydlení, odvolání z vedoucí funkce z důvodu mateřství. Tyto a další případy zahrnula ochránkyně do zprávy o činnosti ve 4. čtvrtletí, kterou v těchto dnech zaslala Poslanecké sněmovně.</p>"
+---
+
+<!-- imported from the old website -->
+
+<p>Nejvíce stížností se i ve čtvrtém čtvrtletí týkalo sociálního zabezpečení a stavebního řízení. V 67 případech lidé namítali nerovné zacházení.</p><p>Velkou pozornost věnuje ochránkyně ve své zprávě dohledu nad omezováním osobní svobody. Upozorňuje na opakující se případy špatného zacházení, které vyvolávají otázku, zda právní řád nabízí adekvátní možnost postihu. Konkrétní skutky mohou představovat trestné činy omezování osobní svobody, ublížení na zdraví apod., ale nezdá se, že by bylo postihnuto hlavní negativum spočívající ve vytvoření celkových podmínek zvyšujících riziko špatného zacházení (odpovědnost provozovatelů a vedoucích pracovníků).</p><p>Ve zprávě se ochránkyně vrací i k tématu záchytných stanic s upozorněním, že nízké venkovní teploty mohou být důvodem ohrožení života a lékaři přijímající zachycenou osobu musí zvažovat i tuto okolnost.</p><p>Součástí čtvrtletní zprávy ochránkyně je také informace o případu, kdy Úřad práce ČR formalistickým přístupem vyřadil z evidence uchazeče trpícího poruchou paměti a MPSV toto rozhodnutí odmítlo zrušit. Ochránkyni se nepodařilo dosáhnout nápravy, proto o případu informovala poslance.</p><p><a title="Otevření do nového okna" href="/uploads-importzpravy_pro_poslaneckou_snemovnu/Ctvrtletky/2014-04-Q-web.pdf" target="_blank"><img alt="" src="https://test.ochrance.cz/typo3/ext/od_linkdesc/icons/pdf.gif" class="od_linkdesc_icon" /> Zpráva za 4. čtvrtletí</a> (319.1 kB, Adobe Acrobat dokument)</p><p><a title="Otevření do nového okna" href="/uploads-importzpravy_pro_poslaneckou_snemovnu/Ctvrtletky/2014-04-Q-sankce-web.pdf" target="_blank"><img alt="" src="https://test.ochrance.cz/typo3/ext/od_linkdesc/icons/pdf.gif" class="od_linkdesc_icon" /> Příloha - informace o případu, v němž nebylo dosaženo nápravy</a> (145.9 kB, Adobe Acrobat dokument)</p><p>Další zprávy pro Poslaneckou sněmovnu najdete <a href="https://test.ochrance.cz/zpravy-o-cinnosti/zpravy-pro-poslaneckou-snemovnu/">zde</a>.</p>
