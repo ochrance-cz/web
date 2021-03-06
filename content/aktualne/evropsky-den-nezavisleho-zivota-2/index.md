@@ -2,7 +2,7 @@
 title: "Evropský den nezávislého života"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/evropsky-den-nezavisleho-zivota-2/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/evropsky-den-nezavisleho-zivota-2/"
 date: 2020-05-05
 perex: "<p>Kancelář veřejného ochránce práv se již tradičně připojuje k Evropskému dni nezávislého života, který připadá na 5. května. Tento den nám připomíná, že lidé s postižením mají právo na samostatný a nezávislý život. Za Kancelář vyjádřila podporu zástupkyně ombudsmana Monika Šimůnková, která má svěřenou agendu týkající se monitorování práv lidí se zdravotním postižením. </p>"
 ---

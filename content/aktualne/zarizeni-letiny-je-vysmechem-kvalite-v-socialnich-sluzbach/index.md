@@ -2,7 +2,7 @@
 title: "Zařízení Letiny je výsměchem kvalitě v sociálních službách"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2015/zarizeni-letiny-je-vysmechem-kvalite-v-socialnich-sluzbach/"
+oldUrl: "/aktualne/tiskove-zpravy-2015/zarizeni-letiny-je-vysmechem-kvalite-v-socialnich-sluzbach/"
 date: 2015-02-25
 perex: "<p>Činnost Sociálního a zdravotního centra Letiny by měla být neprodleně ukončena. Natolik jsou závažné zjištěné nedostatky i skutečnost, že vedení zařízení není schopno zajistit poskytování kvalitní péče. Situace v zařízení se navíc dále zhoršuje a klienti jsou dlouhodobě vystaveni špatnému zacházení. Takový stav nelze podle ochránkyně tolerovat.</p>"
 ---

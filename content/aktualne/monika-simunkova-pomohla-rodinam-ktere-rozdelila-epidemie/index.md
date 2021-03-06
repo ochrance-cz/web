@@ -2,9 +2,11 @@
 title: "Monika Šimůnková pomohla rodinám, které rozdělila epidemie"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/monika-simunkova-pomohla-rodinam-ktere-rozdelila-epidemie/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/monika-simunkova-pomohla-rodinam-ktere-rozdelila-epidemie/"
 date: 2020-04-09
-perex: "<p>Monika Šimůnková vyřešila se svými kolegy několik případů, ve kterých přijatá protikrizová opatření rozdělila rodiny. Jednalo se o případy, kdy manželské páry pocházely z rozdílných zemí, a hrozilo, že je uzavřené hranice od sebe oddělí. V jednom případě se to týkalo těhotné ženy, v druhém manželů s půlročním dítětem a v tom posledním vážně nemocných partnerů, kteří spolu žijí v obci na hranici Česka a Slovenska. Ve všech třech případech se zástupkyni ombudsmana podařilo rychle zjednat nápravu. Za vstřícnost v řešení těchto případů děkujeme odboru azylové a migrační politiky Ministerstva vnitra, cizinecké policii a Ministerstvu zahraničí.  </p>"
+perex:
+  "<p>Monika Šimůnková vyřešila se svými kolegy několik případů, ve kterých přijatá protikrizová opatření rozdělila rodiny. Jednalo se o případy, kdy manželské páry pocházely z rozdílných zemí, a hrozilo, že je uzavřené hranice od sebe oddělí. V jednom případě se to týkalo těhotné ženy, v druhém manželů s půlročním dítětem a v tom posledním vážně nemocných partnerů, kteří spolu žijí v obci na hranici Česka a Slovenska. Ve všech třech případech se zástupkyni ombudsmana podařilo rychle zjednat nápravu. Za vstřícnost v řešení těchto případů děkujeme odboru azylové a migrační politiky Ministerstva vnitra, cizinecké policii a Ministerstvu zahraničí.
+  </p>"
 ---
 
 <!-- imported from the old website -->

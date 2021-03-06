@@ -2,7 +2,7 @@
 title: "Chybí zákon, který by chránil lidi s postižením s asistenčními a vodicími psy"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/chybi-zakon-ktery-by-chranil-lidi-s-postizenim-s-asistencnimi-a-vodicimi-psy/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/chybi-zakon-ktery-by-chranil-lidi-s-postizenim-s-asistencnimi-a-vodicimi-psy/"
 date: 2020-02-19
 perex: "<p>Zástupkyně ombudsmana Monika Šimůnková odsoudila jednání taxikáře, který vyhodil nevidomou ženu z vozu kvůli tomu, že ji doprovázel vodicí pes. Tento případ podle ní ilustruje důsledky dlouhodobě chybějícího zákona, který by upravoval postavení vodicích a asistenčních psů.</p>"
 ---

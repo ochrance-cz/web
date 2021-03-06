@@ -2,7 +2,7 @@
 title: "Ombudsman: Kdo ochrání klienty cestovních kanceláří?"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/ombudsman-kdo-ochrani-klienty-cestovnich-kancelari/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/ombudsman-kdo-ochrani-klienty-cestovnich-kancelari/"
 date: 2020-04-28
 perex: "<p>Ombudsman požádal ministryni pro místní rozvoj o informaci, proč ministerstvo v souvislosti s pandemií koronaviru přistoupilo k větší ochraně cestovních kanceláří, aniž by obdobně chránilo také jejich klienty. Ti jsou v důsledku opatření vlády rovněž ve složité finanční situaci, přesto nyní musí doplatit zájezdy, o nichž ví, že se neuskuteční, nebo zaplatit vysoké storno poplatky. Ombudsman požádal ministryni, aby hledala pomoc i pro klienty cestovních kanceláří.</p>"
 ---

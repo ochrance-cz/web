@@ -2,7 +2,7 @@
 title: "Hospodářské noviny zveřejnily nepravdivou informaci, stanovisko bývalé ombudsmanky platí"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/hospodarske-noviny-zverejnily-nepravdivou-informaci-stanovisko-byvale-ombudsmanky-plati/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/hospodarske-noviny-zverejnily-nepravdivou-informaci-stanovisko-byvale-ombudsmanky-plati/"
 date: 2020-04-23
 perex: "<p>Hospodářské noviny dnes v článku „Nebudu přehnaně aktivní. Křeček se nechce zastávat sexuálních menšin“ zveřejnily nepravdivou informaci o tom, že ombudsman stáhl z Ústavního soudu stanovisko své předchůdkyně k problematice sterilizace jako podmínky změny pohlaví. Nic takového ombudsman neudělal.</p>"
 ---

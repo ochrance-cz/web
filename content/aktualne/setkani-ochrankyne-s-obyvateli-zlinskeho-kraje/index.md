@@ -2,7 +2,7 @@
 title: "Setkání ochránkyně s obyvateli Zlínského kraje"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2015/setkani-ochrankyne-s-obyvateli-zlinskeho-kraje/"
+oldUrl: "/aktualne/tiskove-zpravy-2015/setkani-ochrankyne-s-obyvateli-zlinskeho-kraje/"
 date: 2015-03-17
 perex: "<p>Obyvatelé Zlínského kraje budou mít ve středu 1. dubna možnost setkat se s veřejnou ochránkyní práv Annou Šabatovou, dozvědět se víc o její práci, a o tom, s čím jim může pomoci. Zájemci mohou návštěvy využít i k podání podnětu ochránkyni.</p>"
 ---

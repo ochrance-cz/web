@@ -2,7 +2,7 @@
 title: "Ochránkyně a její zástupce představují své poznatky poslancům a poradnímu orgánu vlády"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2015/ochrankyne-a-jeji-zastupce-predstavuji-sve-poznatky-poslancum-a-poradnimu-organu-vlady/"
+oldUrl: "/aktualne/tiskove-zpravy-2015/ochrankyne-a-jeji-zastupce-predstavuji-sve-poznatky-poslancum-a-poradnimu-organu-vlady/"
 date: 2015-03-03
 perex: "<p>V průběhu dvou dnů (3. a 4. března) představí ochránkyně Anna Šabatová a její zástupce Stanislav Křeček poznatky z šetření a svá doporučení petičnímu výboru a podvýboru ústavně právního výboru Poslanecké sněmovny a Radě vlády pro seniory a stárnutí populace.</p>"
 ---

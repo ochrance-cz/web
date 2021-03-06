@@ -2,7 +2,7 @@
 title: "Obec po upozornění změnila přístup k romskému nájemníkovi"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/obec-po-upozorneni-zmenila-pristup-k-romskemu-najemnikovi/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/obec-po-upozorneni-zmenila-pristup-k-romskemu-najemnikovi/"
 date: 2020-04-02
 perex: "<p>Když obec nabídne náhradní bydlení všem nájemníkům ve stejném místě, pouze romského nájemníka ubytuje v horší lokalitě, může to působit jako diskriminace. Obec po upozornění obratem nabídla nájemníkovi náhradní byt ve stejné lokalitě, kam přestěhovala i ostatní nájemníky.</p>"
 ---

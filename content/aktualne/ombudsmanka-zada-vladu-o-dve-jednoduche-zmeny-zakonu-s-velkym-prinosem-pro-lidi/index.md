@@ -2,7 +2,7 @@
 title: "Ombudsmanka žádá vládu o dvě jednoduché změny zákonů s velkým přínosem pro lidi"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2019/ombudsmanka-zada-vladu-o-dve-jednoduche-zmeny-zakonu-s-velkym-prinosem-pro-lidi/"
+oldUrl: "/aktualne/tiskove-zpravy-2019/ombudsmanka-zada-vladu-o-dve-jednoduche-zmeny-zakonu-s-velkym-prinosem-pro-lidi/"
 date: 2019-01-10
 perex: "<p>Vláda v pátek 11. 1. projedná dva návrhy ombudsmanky. Ta vládu žádá o zajištění dvou jednoduchých změn právních předpisů, které však budou mít výrazný pozitivní přínos pro občany při projednávání jejich záležitostí s úřady.</p>"
 ---

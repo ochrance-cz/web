@@ -2,7 +2,7 @@
 title: "Potřebujete zjistit právní názor ochránce? Zkuste ESO."
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2015/potrebujete-zjistit-pravni-nazor-ochrance-zkuste-eso/"
+oldUrl: "/aktualne/tiskove-zpravy-2015/potrebujete-zjistit-pravni-nazor-ochrance-zkuste-eso/"
 date: 2015-03-19
 perex: "<p>Veřejná ochránkyně práv spustila na webu nový evidenční systém umožňující zájemcům vyhledávat zprávy a stanoviska k případům, kterými se ochránce zabýval, ale také například připomínky k zákonům a další dokumenty. Odborníci i veřejnost se tak mohou detailněji seznamovat s právními názory veřejného ochránce práv na konkrétní situace a témata.</p>"
 ---

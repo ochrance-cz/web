@@ -2,7 +2,7 @@
 title: "Ombudsman vyzval premiéra k postupu proti neprofesionalitě Ministerstva pro místní rozvoj"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/ombudsman-vyzval-premiera-k-postupu-proti-neprofesionalite-ministerstva-pro-mistni-rozvoj/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/ombudsman-vyzval-premiera-k-postupu-proti-neprofesionalite-ministerstva-pro-mistni-rozvoj/"
 date: 2020-04-15
 perex: "<p>Ombudsman se obrátil na předsedu vlády s ohrazením proti nestandardnímu a nepředvídatelnému postupu Ministerstva pro místní rozvoj v souvislosti s návrhem stavebního zákona. K této výzvě se připojila i další připomínková místa. Stavební zákon patří k nejzásadnějším veřejnoprávním předpisům dopadajícím na obrovské množství subjektů a podle ombudsmana nelze k jeho přípravě přistupovat formou pokus-omyl, jak k tomu nyní dochází.</p>"
 ---

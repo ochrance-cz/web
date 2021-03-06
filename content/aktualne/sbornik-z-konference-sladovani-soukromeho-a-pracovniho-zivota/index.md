@@ -2,7 +2,7 @@
 title: "Sborník z konference Slaďování soukromého a pracovního života"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2015/sbornik-z-konference-sladovani-soukromeho-a-pracovniho-zivota/"
+oldUrl: "/aktualne/tiskove-zpravy-2015/sbornik-z-konference-sladovani-soukromeho-a-pracovniho-zivota/"
 date: 2015-03-16
 perex: "<p>Vyšel sborník z dvoudenní mezinárodní konference o slaďování soukromého a pracovního života. </p>"
 ---

@@ -2,7 +2,7 @@
 title: "Mezinárodní den rodiny – ombudsman pomáhá již 20 let"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/mezinarodni-den-rodiny-ombudsman-pomaha-jiz-20-let/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/mezinarodni-den-rodiny-ombudsman-pomaha-jiz-20-let/"
 date: 2020-05-15
 perex: "<p>Mezinárodní den rodiny se slaví 15. května již od roku 1994. V činnosti ombudsmana se různé aspekty rodiny prolínají napříč agendami. Ať už se to týká oblasti řešení podnětů vůči orgánům sociálně-právní ochrany dětí, návštěv v zařízeních pro děti a mladistvé, pomoci při problémech s bydlením, slaďování rodinného života a práce, řešení exekucí vedených proti nezletilým nebo pomoc v případech s domácím násilím. </p>"
 ---

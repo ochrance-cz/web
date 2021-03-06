@@ -2,7 +2,7 @@
 title: "Víme, že se povodně budou opakovat, prevenci však zanedbáváme"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2014/vime-ze-se-povodne-budou-opakovat-prevenci-vsak-zanedbavame/"
+oldUrl: "/aktualne/tiskove-zpravy-2014/vime-ze-se-povodne-budou-opakovat-prevenci-vsak-zanedbavame/"
 date: 2014-01-15
 perex: "<p>Vyhlašování záplavových zón a jejich aktivních zón, společně se zodpovědným územním plánováním, významně přispívá ke snižování rizika a škod při povodních. Jako preventivní opatření je nezastupitelné. Ani opakující se povodně minulých let a miliardové škody však nevedly k jeho důslednému využívání.</p>"
 ---

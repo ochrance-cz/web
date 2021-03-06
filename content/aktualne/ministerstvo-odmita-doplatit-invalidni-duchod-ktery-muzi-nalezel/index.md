@@ -2,7 +2,7 @@
 title: "Ministerstvo odmítá doplatit invalidní důchod, který muži náležel"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2019/ministerstvo-odmita-doplatit-invalidni-duchod-ktery-muzi-nalezel/"
+oldUrl: "/aktualne/tiskove-zpravy-2019/ministerstvo-odmita-doplatit-invalidni-duchod-ktery-muzi-nalezel/"
 date: 2019-01-28
 perex: "<p>Ministerstvo práce a sociálních věcí odmítá doplatit mladému muži s duševním onemocněním invalidní důchod, který mu kvůli chybě České správy sociálního zabezpečení nebyl řadu let vyplácen. Ombudsmanka se proto rozhodla informovat vládu – sama už vyčerpala všechny možnosti k nápravě zjištěného pochybení.</p>"
 ---

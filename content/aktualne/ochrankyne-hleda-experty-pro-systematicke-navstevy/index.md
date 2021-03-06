@@ -2,7 +2,7 @@
 title: "Ochránkyně hledá experty pro systematické návštěvy"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2015/ochrankyne-hleda-experty-pro-systematicke-navstevy/"
+oldUrl: "/aktualne/tiskove-zpravy-2015/ochrankyne-hleda-experty-pro-systematicke-navstevy/"
 date: 2015-01-21
 perex: "<p>Veřejná ochránkyně práv zve zdravotníky – lékaře, sestry a další odborníky – ke spolupráci při provádění systematických návštěv léčeben dlouhodobě nemocných a gerontopsychiatrických oddělení nemocnic. Ochránkyně jednak uvítá jakékoli podněty od veřejnosti související s ochranou před špatným zacházením, a jednak hledá potenciální externí spolupracovníky, kteří by se chtěli podílet na systematických návštěvách těchto typů zařízení a přispět tak k prevenci špatného zacházení.  </p>"
 ---

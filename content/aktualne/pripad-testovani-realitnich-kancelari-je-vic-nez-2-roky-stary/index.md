@@ -2,7 +2,7 @@
 title: "Případ testování realitních kanceláří je víc než 2 roky starý!"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2015/pripad-testovani-realitnich-kancelari-je-vic-nez-2-roky-stary/"
+oldUrl: "/aktualne/tiskove-zpravy-2015/pripad-testovani-realitnich-kancelari-je-vic-nez-2-roky-stary/"
 date: 2015-04-09
 perex: "<p>Médii propíraný případ diskriminace Romů realitními kancelářemi se celý, včetně situačního testování a žaloby, udál v letech 2012-2013, tj. dlouho předtím, než se veřejnou ochránkyní práv stala Anna Šabatová. Ta v září 2014 pouze shrnula kroky a zjištění svého předchůdce a tento starý případ uzavřela. </p>"
 ---

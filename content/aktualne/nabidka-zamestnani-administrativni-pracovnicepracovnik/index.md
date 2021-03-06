@@ -2,9 +2,11 @@
 title: "Nabídka zaměstnání: administrativní pracovnice/pracovník"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/nabidka-zamestnani-administrativni-pracovnicepracovnik/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/nabidka-zamestnani-administrativni-pracovnicepracovnik/"
 date: 2020-02-24
-perex: "<p>Hledáme administrativní pracovnici nebo administrativního pracovníka do odboru administrativních a spisových služeb. Uzávěrka přihlášek je v pátek 6. března 2020.</p>"
+perex:
+  "<p>Hledáme administrativní pracovnici nebo administrativního pracovníka do odboru administrativních a spisových služeb.
+  Uzávěrka přihlášek je v pátek 6. března 2020.</p>"
 ---
 
 <!-- imported from the old website -->

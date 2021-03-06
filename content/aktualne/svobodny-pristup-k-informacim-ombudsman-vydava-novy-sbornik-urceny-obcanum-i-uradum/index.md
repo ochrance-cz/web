@@ -2,7 +2,7 @@
 title: "Svobodný přístup k informacím: ombudsman vydává nový sborník určený občanům i úřadům"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/svobodny-pristup-k-informacim-ombudsman-vydava-novy-sbornik-urceny-obcanum-i-uradum/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/svobodny-pristup-k-informacim-ombudsman-vydava-novy-sbornik-urceny-obcanum-i-uradum/"
 date: 2020-02-07
 perex: "<p>Ombudsman vydal sborník stanovisek, který se věnuje právu na svobodný přístup k informacím. Sborník čerpá z poznatků, které ombudsman získal při šetření podnětů lidí, kteří se na něj obrátili. Ať už se jednalo o problémy s nesprávným či nezákonným jednáním úřadů či s jejich nečinností. Sborník poskytuje příklady dobré i špatné správní praxe v této oblasti. </p>"
 ---

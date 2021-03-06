@@ -2,7 +2,7 @@
 title: "Ochránkyně se bude zabývat stížností na církevní restituce"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2016/ochrankyne-se-bude-zabyvat-stiznosti-na-cirkevni-restituce/"
+oldUrl: "/aktualne/tiskove-zpravy-2016/ochrankyne-se-bude-zabyvat-stiznosti-na-cirkevni-restituce/"
 date: 2016-01-29
 perex: "<p>Vydáváním pozemků podle zákona o majetkovém vyrovnání s církvemi se bude zabývat i veřejná ochránkyně práv. Obdržela totiž podnět zahrádkářů, kteří namítají, že pozemek zahrádek je zastavěn vodovodní přípojkou a elektrickými přípojkami, což by mělo jeho vydání bránit. </p>"
 ---

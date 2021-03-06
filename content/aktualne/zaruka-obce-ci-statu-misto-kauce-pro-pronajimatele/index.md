@@ -2,7 +2,7 @@
 title: "Záruka obce či státu místo kauce pro pronajímatele"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/zaruka-obce-ci-statu-misto-kauce-pro-pronajimatele/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/zaruka-obce-ci-statu-misto-kauce-pro-pronajimatele/"
 date: 2020-03-04
 perex: "<p>Obce, stát či jiné instituce by podle ombudsmana mohly přispět k řešení bytových problémů. Řada lidí a rodin nezíská nájemní smlouvu, protože nedokáže složit obvykle požadovanou kauci ve výši tří měsíčních nájmů. Místo vynakládání sociálních dávek na to, aby skončily jako kauce na účtu pronajímatele, by obce či stát mohly poskytnout smluvně zajištěnou záruku.</p>"
 ---

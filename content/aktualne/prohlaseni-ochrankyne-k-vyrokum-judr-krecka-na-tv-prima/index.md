@@ -2,7 +2,7 @@
 title: "Prohlášení ochránkyně k výrokům JUDr. Křečka na TV Prima"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2016/prohlaseni-ochrankyne-k-vyrokum-judr-krecka-na-tv-prima/"
+oldUrl: "/aktualne/tiskove-zpravy-2016/prohlaseni-ochrankyne-k-vyrokum-judr-krecka-na-tv-prima/"
 date: 2016-02-19
 perex: "<p></p>"
 ---

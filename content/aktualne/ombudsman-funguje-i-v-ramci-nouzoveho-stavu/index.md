@@ -2,7 +2,7 @@
 title: "Ombudsman funguje i v rámci nouzového stavu"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/ombudsman-funguje-i-v-ramci-nouzoveho-stavu/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/ombudsman-funguje-i-v-ramci-nouzoveho-stavu/"
 date: 2020-03-23
 perex: "<p>I přes omezení spojená s nouzovým stavem a s maximálním dodržování bezpečnostních opatření se činnost ombudsmana nezastavila a dál se snaží pomáhat lidem s jejich problémy.</p>"
 ---

@@ -2,7 +2,7 @@
 title: "Nové oprávnění ochránce jako vedlejšího účastníka u Ústavního soudu"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2013/nove-opravneni-ochrance-jako-vedlejsiho-ucastnika-u-ustavniho-soudu/"
+oldUrl: "/aktualne/tiskove-zpravy-2013/nove-opravneni-ochrance-jako-vedlejsiho-ucastnika-u-ustavniho-soudu/"
 date: 2013-01-22
 perex: "<p>Od 1. ledna může být ochránce vedlejším účastníkem v řízeních před Ústavním soudem o zrušení zákonů. Bude tak moci šířeji uplatňovat poznatky ze své činnosti a šetření. </p>"
 ---

@@ -2,7 +2,7 @@
 title: "Jako Hlava XXII: svědek je zbytečný, slovo policisty má větší váhu"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/jako-hlava-xxii-svedek-je-zbytecny-slovo-policisty-ma-vetsi-vahu/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/jako-hlava-xxii-svedek-je-zbytecny-slovo-policisty-ma-vetsi-vahu/"
 date: 2020-05-12
 perex: "<p>Ombudsman se zastal řidiče, kterého úřady uznaly vinným z dopravního přestupku držení telefonu během řízení vozidla pouze na základě svědectví hlídkujících policistů. Úřady nezjistily skutkový stav, o němž nejsou důvodné pochybnosti, přesto rozhodly o vině stěžovatele. Vadné rozhodnutí přestupkového orgánu nejprve potvrdil krajský úřad a odmítl se k němu vyjádřit. Pochybnou argumentaci pak převzalo i Ministerstvo dopravy a rovněž odmítlo zahájit přezkum.</p>"
 ---

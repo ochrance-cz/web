@@ -2,7 +2,7 @@
 title: "Komentář ombudsmana: Práva lidí s postižením? Skutek utek."
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/komentar-ombudsmana-prava-lidi-s-postizenim-skutek-utek/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/komentar-ombudsmana-prava-lidi-s-postizenim-skutek-utek/"
 date: 2020-03-02
 perex: "<p></p>"
 ---

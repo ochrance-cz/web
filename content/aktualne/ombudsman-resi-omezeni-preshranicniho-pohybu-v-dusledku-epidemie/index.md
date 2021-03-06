@@ -2,7 +2,7 @@
 title: "Ombudsman řeší omezení přeshraničního pohybu v důsledku epidemie"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/ombudsman-resi-omezeni-preshranicniho-pohybu-v-dusledku-epidemie/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/ombudsman-resi-omezeni-preshranicniho-pohybu-v-dusledku-epidemie/"
 date: 2020-05-21
 perex: "<p>Ombudsman Stanislav Křeček se 12. května obrátil na ministra vnitra ve věci opatření týkajících se překročení státní hranice, která byla přijata v souvislosti s epidemií. Ombudsman tak reaguje na podněty stěžovatelů, jichž se tato opatření dotýkají. Jedná se především o přeshraniční pracovníky, studenty, občany žijící v pohraničí nebo občany Evropské unie, kteří mají partnerský vztah s občanem České republiky. Ombudsman ministra požádal, aby během uvolňování opatření bylo na situaci těchto osob pamatováno.</p>"
 ---

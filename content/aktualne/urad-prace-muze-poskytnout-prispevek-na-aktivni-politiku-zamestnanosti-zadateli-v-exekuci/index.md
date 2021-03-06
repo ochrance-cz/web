@@ -2,7 +2,7 @@
 title: "Úřad práce může poskytnout příspěvek na aktivní politiku zaměstnanosti žadateli v exekuci"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/urad-prace-muze-poskytnout-prispevek-na-aktivni-politiku-zamestnanosti-zadateli-v-exekuci/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/urad-prace-muze-poskytnout-prispevek-na-aktivni-politiku-zamestnanosti-zadateli-v-exekuci/"
 date: 2020-04-17
 perex: "<p>Nařízeni exekuce a obstavení účtu žadatele exekutorem není překážkou poskytnutí příspěvku na aktivní politiku zaměstnanosti úřadem práce. Účelově určené prostředky (např. příspěvek na zřízení pracovního místa pro osobu se zdravotním postižením, dotace ze státního rozpočtu) totiž podle zákona nepodléhají exekuci.</p>"
 ---

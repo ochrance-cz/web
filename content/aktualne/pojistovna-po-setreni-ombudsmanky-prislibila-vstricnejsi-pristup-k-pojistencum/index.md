@@ -2,7 +2,7 @@
 title: "Pojišťovna po šetření ombudsmanky přislíbila vstřícnější přístup k pojištěncům"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/pojistovna-po-setreni-ombudsmanky-prislibila-vstricnejsi-pristup-k-pojistencum/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/pojistovna-po-setreni-ombudsmanky-prislibila-vstricnejsi-pristup-k-pojistencum/"
 date: 2020-02-03
 perex: "<p>Zdravotní pojišťovna by měla pravidelně kontrolovat plnění povinností pojištěnců (v maximálně ročních intervalech) a pojištěnce o vzniku dluhu na pojistném informovat neprodleně po zjištění vzniku dluhu za kontrolované období. Současně by ho měla vyrozumět i o možnosti podání žádosti o prominutí penále. Po šetření ombudsmanky pojišťovna k této vstřícnější praxi přistoupila.</p>"
 ---

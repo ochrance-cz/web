@@ -2,7 +2,7 @@
 title: "Nový ombudsman složí slib ve středu"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/novy-ombudsman-slozi-slib-ve-stredu/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/novy-ombudsman-slozi-slib-ve-stredu/"
 date: 2020-02-17
 perex: "<p>Nově zvolený ombudsman JUDr. Stanislav Křeček se ujme výkonu funkce ve středu 19. 2. složením slibu do rukou předsedy Poslanecké sněmovny.</p>"
 ---

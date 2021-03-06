@@ -2,7 +2,7 @@
 title: "Ombudsman v Impulsech Václava Moravce"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2013/ombudsman-v-impulsech-vaclava-moravce/"
+oldUrl: "/aktualne/tiskove-zpravy-2013/ombudsman-v-impulsech-vaclava-moravce/"
 date: 2013-01-09
 perex: "<p></p>"
 ---

@@ -2,7 +2,7 @@
 title: "Vláda projedná žádost ombudsmanky o nápravu nezákonného postupu úřadů práce"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/vlada-projedna-zadost-ombudsmanky-o-napravu-nezakonneho-postupu-uradu-prace-1/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/vlada-projedna-zadost-ombudsmanky-o-napravu-nezakonneho-postupu-uradu-prace-1/"
 date: 2020-01-03
 perex: "<p>Za přítomnosti ombudsmanky Anny Šabatové projedná vláda v pondělí 6. ledna její žádost o zajištění zákonného postupu úřadů práce při rozhodování o žádostech o příspěvek na aktivní politiku zaměstnanosti. </p>"
 ---

@@ -2,7 +2,7 @@
 title: "Domovy pro osoby s postižením nejsou domovem"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/domovy-pro-osoby-s-postizenim-nejsou-domovem/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/domovy-pro-osoby-s-postizenim-nejsou-domovem/"
 date: 2020-01-15
 perex: "<p>Situace v domovech pro osoby se zdravotním postižením potvrzuje, že se transformace sociálních služeb téměř zastavila a přestala být společenským a politickým tématem. Zařízení mají stále charakter ústavů a nepřipomínají normální domov. Lidem zde žijícím se nedostává potřebné podpory k udržení a rozvíjení schopností a dovedností, mnohdy se naopak prohlubuje jejich závislost na péči.</p>"
 ---

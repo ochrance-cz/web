@@ -2,7 +2,7 @@
 title: "Sněmovna projednala výroční zprávu za rok 2018"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/snemovna-projednala-vyrocni-zpravu-za-rok-2018/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/snemovna-projednala-vyrocni-zpravu-za-rok-2018/"
 date: 2020-03-06
 perex: "<p>Poslanecká sněmovna za přítomnosti ombudsmana projednala výroční zprávu za rok 2018. Jde o zprávu, kterou poslancům předložila bývalá ombudsmanka Anna Šabatová, a která shrnuje poznatky vyplývající z její činnosti a z činnosti současného ombudsmana Stanislava Křečka, jejího tehdejšího zástupce.</p>"
 ---

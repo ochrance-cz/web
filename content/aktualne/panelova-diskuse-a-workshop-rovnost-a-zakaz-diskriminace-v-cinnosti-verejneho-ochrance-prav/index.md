@@ -2,7 +2,7 @@
 title: "Panelová diskuse a workshop Rovnost a zákaz diskriminace v činnosti veřejného ochránce práv"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2013/panelova-diskuse-a-workshop-rovnost-a-zakaz-diskriminace-v-cinnosti-verejneho-ochrance-prav/"
+oldUrl: "/aktualne/tiskove-zpravy-2013/panelova-diskuse-a-workshop-rovnost-a-zakaz-diskriminace-v-cinnosti-verejneho-ochrance-prav/"
 date: 2013-01-04
 perex: "<p>Ochránce pořádá 20. 2. 2013 panelovou diskuzi a workshop, jejichž cílem je zhodnotit uplatňování antidiskriminačního zákona v českém prostředí, pojmenovat faktické, institucionální a zákonné bariéry a navrhnout způsoby řešení problémů v oblasti rovného zacházení.</p>"
 ---

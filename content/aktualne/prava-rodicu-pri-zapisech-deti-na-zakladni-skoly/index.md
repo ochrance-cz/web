@@ -2,7 +2,7 @@
 title: "Práva rodičů při zápisech dětí na základní školy"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2016/prava-rodicu-pri-zapisech-deti-na-zakladni-skoly/"
+oldUrl: "/aktualne/tiskove-zpravy-2016/prava-rodicu-pri-zapisech-deti-na-zakladni-skoly/"
 date: 2016-01-22
 perex: "<p>Pro rodiče i děti je lepší, když se spolu dostaví k zápisu, naváží kontakt s učiteli a dítě se začne připravovat na velkou změnu ve svém životě, kterou nástup do školy bezpochyby je. V životě však rovněž nastávají situace, které ideální postup znemožňují. Školský zákon s nimi počítá a ochránkyně na ně upozornila ve svém doporučení. Pokud rodiče nebo zákonní zástupci nemohou vzít v den zápisu dítě sebou, neznamená to, že dítě nelze k povinné školní docházce zapsat – tím by školy porušily zákon.  </p>"
 ---

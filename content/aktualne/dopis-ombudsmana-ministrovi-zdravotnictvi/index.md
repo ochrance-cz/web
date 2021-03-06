@@ -2,7 +2,7 @@
 title: "Dopis ombudsmana ministrovi zdravotnictví"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/dopis-ombudsmana-ministrovi-zdravotnictvi/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/dopis-ombudsmana-ministrovi-zdravotnictvi/"
 date: 2020-04-17
 perex: "<p>Již ve čtvrtek 9. dubna se ombudsman obrátil dopisem na ministra zdravotnictví ve věci zákazu přítomnosti otců u porodu.</p>"
 ---

@@ -2,7 +2,7 @@
 title: "Osvětový seminář „Poznatky ze systematických návštěv zařízení pro děti vyžadující okamžitou pomoc“"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/osvetovy-seminar-poznatky-ze-systematickych-navstev-zarizeni-pro-deti-vyzadujici-o/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/osvetovy-seminar-poznatky-ze-systematickych-navstev-zarizeni-pro-deti-vyzadujici-o/"
 date: 2020-03-05
 perex: "<p>Kancelář veřejného ochránce odstartovala, v rámci projektu Posílení aktivit veřejného ochránce práv v ochraně lidských práv, cyklus vzdělávacích seminářů pro pracovníky zařízení, kde se nacházejí nebo mohou nacházet osoby omezené na osobní svobodě.</p>"
 ---

@@ -2,7 +2,7 @@
 title: "Ochránkyně míří za občany do Olomouce a Prostějova"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2015/ochrankyne-miri-za-obcany-do-olomouce-a-prostejova/"
+oldUrl: "/aktualne/tiskove-zpravy-2015/ochrankyne-miri-za-obcany-do-olomouce-a-prostejova/"
 date: 2015-01-19
 perex: "<p>Ve středu 21. ledna zahajuje veřejná ochránkyně práv návštěvou Olomouce a Prostějova další pokračování osvětové kampaně v regionech s cílem zvýšit povědomí lidí o jejich právech, o působnosti veřejného ochránce práv a o tom, v čem jim může pomoci. Zájemci mohou její návštěvy v regionu využít nejen k diskuzi, ale i k podání podnětů, jimiž se pak ochránkyně bude zabývat.</p>"
 ---

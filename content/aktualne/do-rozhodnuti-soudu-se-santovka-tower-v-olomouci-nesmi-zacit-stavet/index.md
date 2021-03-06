@@ -2,7 +2,7 @@
 title: "Do rozhodnutí soudu se Šantovka Tower v Olomouci nesmí začít stavět"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/do-rozhodnuti-soudu-se-santovka-tower-v-olomouci-nesmi-zacit-stavet/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/do-rozhodnuti-soudu-se-santovka-tower-v-olomouci-nesmi-zacit-stavet/"
 date: 2020-03-26
 perex: "<p>Krajský soud v Ostravě – pobočka v Olomouci přiznal žalobě týkající se stavby Šantovka Tower v Olomouci odkladný účinek. Znamená to, že do doby, než soud ve věci rozhodne, nesmí být vydáno stavební povolení a nesmí být výstavba zahájena.</p>"
 ---

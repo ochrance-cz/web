@@ -2,7 +2,7 @@
 title: "Ochránkyně a Krajský úřad Jihomoravského kraje společně proti neregistrovaným zařízením"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2015/ochrankyne-a-krajsky-urad-jihomoravskeho-kraje-spolecne-proti-neregistrovanym-zarizenim/"
+oldUrl: "/aktualne/tiskove-zpravy-2015/ochrankyne-a-krajsky-urad-jihomoravskeho-kraje-spolecne-proti-neregistrovanym-zarizenim/"
 date: 2015-02-17
 perex: "<p></p>"
 ---

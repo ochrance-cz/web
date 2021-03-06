@@ -2,7 +2,7 @@
 title: "Děti s postižením mají právo chodit do školy"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/deti-s-postizenim-maji-pravo-chodit-do-skoly/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/deti-s-postizenim-maji-pravo-chodit-do-skoly/"
 date: 2020-05-13
 perex: "<p>Od 25. května (pro žáky 9. tříd již od 11. května) má být umožněn opětovný návrat dětí do základních škol. Rodiče si mohou vybrat, zda jejich děti budou v tomto školním roce školu navštěvovat. Ministerstvo školství však v metodice vymezilo, že se tato volba netýká dětí s postižením. Školy a třídy pro žáky s tělesným postižením, mentálním postižením, souběžným postižením více vadami, poruchami autistického spektra či závažnými poruchami chování mají zůstat do 30. června 2020 uzavřeny. Zástupkyně ombudsmana se proto obrátila dopisem na ministra školství, aby umožnil také dětem s postižením přístup ke vzdělání za stejných podmínek, jaké mají ostatní.</p>"
 ---

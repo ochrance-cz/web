@@ -2,7 +2,7 @@
 title: "Chybuje veřejná ochránkyně práv tím, že poukazuje na nezákonný postup realitních kanceláří?"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2015/chybuje-verejna-ochrankyne-prav-tim-ze-poukazuje-na-nezakonny-postup-realitnich-kancela/"
+oldUrl: "/aktualne/tiskove-zpravy-2015/chybuje-verejna-ochrankyne-prav-tim-ze-poukazuje-na-nezakonny-postup-realitnich-kancela/"
 date: 2015-03-25
 perex: "<p>Ochránkyně vydala tiskovou zprávu k diskriminaci romských zájemců o nájem bytu již 22. prosince 2014. Bez větší odezvy. Nyní čelí vlně odporu v důsledku nařčení pramenících z neznalosti právní úpravy, správní praxe a rozhodnutí soudů. Ochránkyně vítá současnou diskusi a věří, že porozumění problému diskriminace zabrání šíření nesnášenlivosti.</p>"
 ---

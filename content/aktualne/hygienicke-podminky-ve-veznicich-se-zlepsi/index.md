@@ -2,7 +2,7 @@
 title: "Hygienické podmínky ve věznicích se zlepší"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2015/hygienicke-podminky-ve-veznicich-se-zlepsi/"
+oldUrl: "/aktualne/tiskove-zpravy-2015/hygienicke-podminky-ve-veznicich-se-zlepsi/"
 date: 2015-02-18
 perex: "<p>Dlouhodobé úsilí ochránkyně o zlepšení hygienických standardů ve věznicích bylo završeno novelou řádu výkonu trestu odnětí svobody. Do českého právního řádu je tak od března znovu zavedeno pravidlo, že odsouzení ve výkonu trestu odnětí svobody mají právo se koupat (to je osprchovat se v teplé vodě) minimálně dvakrát týdně tak, jak to stanoví evropské standardy (Evropská vězeňská pravidla). Dosud mají odsouzení možnost se koupat pouze jedenkrát týdně.</p>"
 ---

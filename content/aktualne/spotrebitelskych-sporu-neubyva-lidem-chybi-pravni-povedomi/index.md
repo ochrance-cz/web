@@ -2,7 +2,7 @@
 title: "Spotřebitelských sporů neubývá, lidem chybí právní povědomí"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2015/spotrebitelskych-sporu-neubyva-lidem-chybi-pravni-povedomi/"
+oldUrl: "/aktualne/tiskove-zpravy-2015/spotrebitelskych-sporu-neubyva-lidem-chybi-pravni-povedomi/"
 date: 2015-01-22
 perex: "<p>Více než stovka občanů se v loňském roce obrátila na veřejnou ochránkyni práv, protože se cítili být poškozeni nebo podvedeni jednáním různých podnikatelských subjektů. Jde přitom o pouhý zlomek lidí, kteří se jako spotřebitelé dostanou do potíží a zkusí se obrátit i na veřejného ochránce práv, přestože ten nemůže do soukromoprávních sporů zasahovat a může se zabývat pouze případným postupem orgánů státní správy (zejména České obchodní inspekce) vůči podnikatelům.</p>"
 ---

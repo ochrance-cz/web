@@ -2,7 +2,7 @@
 title: "Invalidní důchod i v případě chybějících lékařských zpráv"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2019/invalidni-duchod-i-v-pripade-chybejicich-lekarskych-zprav/"
+oldUrl: "/aktualne/tiskove-zpravy-2019/invalidni-duchod-i-v-pripade-chybejicich-lekarskych-zprav/"
 date: 2019-01-18
 perex: "<p>Ke stanovení data vzniku invalidity může v mimořádných situacích, když nejsou k dispozici lékařské zprávy, napomoct i výkaz péče od zdravotní pojišťovny. Právě ten nakonec využila Česká správa sociálního zabezpečení k vyhodnocení vývoje onemocnění žadatelky o invalidní důchod. Díky přesnějšímu posouzení vzniku invalidity dosáhla žena zvýšení invalidního důchodu a doplatku za předchozí roky.</p>"
 ---

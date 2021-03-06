@@ -2,7 +2,7 @@
 title: "Připomínka ochránkyně ve věci uprchlíků"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2015/pripominka-ochrankyne-ve-veci-uprchliku/"
+oldUrl: "/aktualne/tiskove-zpravy-2015/pripominka-ochrankyne-ve-veci-uprchliku/"
 date: 2015-04-16
 perex: "<p>Už nyní nelze udělit správní vyhoštění uprchlíkovi, který požádá o mezinárodní ochranu a do České republiky přicestoval nelegálně – např. v úkrytu či s převaděči mimo hraniční přechod, pokud splňuje další podmínky Úmluvy o právním postavení uprchlíků. Z praktického hlediska by naplnění připomínky ochránkyně nevedlo ke zvýšení počtu žadatelů o udělení mezinárodní ochrany, kteří mohou na území České republiky setrvat. </p>"
 ---

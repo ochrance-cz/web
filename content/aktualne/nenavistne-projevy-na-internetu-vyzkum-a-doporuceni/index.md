@@ -2,7 +2,7 @@
 title: "Nenávistné projevy na internetu – výzkum a doporučení"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/nenavistne-projevy-na-internetu-vyzkum-a-doporuceni/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/nenavistne-projevy-na-internetu-vyzkum-a-doporuceni/"
 date: 2020-05-22
 perex: "<p>Ombudsmanka Anna Šabatová se od roku 2016 intenzivněji věnovala problematice nenávistných projevů na internetu, kterou považovala za mimořádně závažnou. S nebezpečností fenoménu souhlasí také ombudsman Stanislav Křeček. Podle něj zvláště v situaci současné epidemie, kdy se komunikace na sociálních sítích zintenzivnila, hrozí, že se lidé uchýlí k vyjádřením, která mohou mít trestně právní rovinu. Justice se s nenávistnými projevy teprve učí zacházet. Zahraniční výzkumy přitom ukazují, že nárůst nenávisti v internetovém prostoru souvisí s vyšším počtem násilných útoků v reálném světě. Internet tak může sloužit jako „předpolí“ pro trestné činy, které ohrožují zdraví, život a integritu člověka. Ombudsmanka se v roce 2019 rozhodla provést výzkum vnitrostátní trestněprávní judikatury soudů v této oblasti a v roce 2020 vydala také doporučení pro dotčené státní orgány. </p>"
 ---

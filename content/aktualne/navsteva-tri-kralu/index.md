@@ -2,7 +2,7 @@
 title: "Návštěva Tří králů"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2015/navsteva-tri-kralu/"
+oldUrl: "/aktualne/tiskove-zpravy-2015/navsteva-tri-kralu/"
 date: 2015-01-07
 perex: "<p>Ochránkyně Anna Šabatová a její zástupce Stanislav Křeček se zapojili do Tříkrálové sbírky pořádané každoročně Charitou České republiky. Její výtěžek je určen především na pomoc nemocným, handicapovaným, seniorům, matkám s dětmi v tísni a dalším jinak sociálně potřebným skupinám lidí.</p>"
 ---

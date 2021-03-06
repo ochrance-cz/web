@@ -2,7 +2,7 @@
 title: "Pro děti a náctileté jsme zde pořád"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/pro-deti-a-nactilete-jsme-zde-porad/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/pro-deti-a-nactilete-jsme-zde-porad/"
 date: 2020-03-23
 perex: "<p></p>"
 ---

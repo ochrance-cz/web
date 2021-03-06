@@ -2,7 +2,7 @@
 title: "Omezení provozu podatelny Kanceláře veřejného ochránce práv"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/omezeni-provozu-podatelny-kancelare-verejneho-ochrance-prav/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/omezeni-provozu-podatelny-kancelare-verejneho-ochrance-prav/"
 date: 2020-03-16
 perex: "<p></p>"
 ---

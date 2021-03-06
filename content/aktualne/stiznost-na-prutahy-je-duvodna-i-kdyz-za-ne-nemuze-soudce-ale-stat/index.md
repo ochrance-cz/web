@@ -2,7 +2,7 @@
 title: "Stížnost na průtahy je důvodná, i když za ně nemůže soudce, ale stát"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/stiznost-na-prutahy-je-duvodna-i-kdyz-za-ne-nemuze-soudce-ale-stat/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/stiznost-na-prutahy-je-duvodna-i-kdyz-za-ne-nemuze-soudce-ale-stat/"
 date: 2020-03-31
 perex: "<p>Státní správy soudnictví se každý rok týká okolo 250 podnětů. Třetinu z toho tvoří stížnosti na průtahy v soudních řízeních. Jeden takový velmi specifický případ průtahů ukončil ombudsman před několika dny.</p>"
 ---

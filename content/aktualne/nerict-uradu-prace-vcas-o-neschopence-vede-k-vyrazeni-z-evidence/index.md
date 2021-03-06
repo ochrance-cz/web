@@ -2,7 +2,7 @@
 title: "Neříct úřadu práce včas o neschopence vede k vyřazení z evidence"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/nerict-uradu-prace-vcas-o-neschopence-vede-k-vyrazeni-z-evidence/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/nerict-uradu-prace-vcas-o-neschopence-vede-k-vyrazeni-z-evidence/"
 date: 2020-01-08
 perex: "<p>Ombudsmanka zaznamenala vyšší počet stížností na vyřazení z evidence úřadu práce od lidí, kteří z důvodu nemoci nebo ošetření u lékaře nemohli plnit povinnosti uchazeče o zaměstnání. Pokud úřadu práce neoznámili dočasnou neschopnost nejpozději v den, kdy jim lékař potvrzení vystavil, byli vyřazeni z evidence. Zákon je podle ombudsmanky až příliš přísný. Lidé by si proto měli dávat pozor a dočasnou neschopnost by měli ihned jakýmkoli způsobem úřadu práce oznamovat.</p>"
 ---

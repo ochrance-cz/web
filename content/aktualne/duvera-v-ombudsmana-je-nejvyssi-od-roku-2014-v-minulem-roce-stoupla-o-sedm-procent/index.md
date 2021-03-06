@@ -2,7 +2,7 @@
 title: "Důvěra v ombudsmana je nejvyšší od roku 2014, v minulém roce stoupla o sedm procent"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/duvera-v-ombudsmana-je-nejvyssi-od-roku-2014-v-minulem-roce-stoupla-o-sedm-procent/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/duvera-v-ombudsmana-je-nejvyssi-od-roku-2014-v-minulem-roce-stoupla-o-sedm-procent/"
 date: 2020-01-27
 perex: "<p>Podle pravidelných průzkumů Centra pro výzkum veřejného mínění (CVVM) je důvěra v ombudsmana nejvyšší od roku 2014, naopak nedůvěra v instituci je za posledních šest let nejnižší. Tato data vyvrací nepravdivé výroky, které se v současné době ozývají v médiích a veřejných diskuzích.</p>"
 ---

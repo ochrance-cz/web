@@ -2,7 +2,7 @@
 title: "Ochránkyně u rakouského ombudsmana"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2015/ochrankyne-u-rakouskeho-ombudsmana/"
+oldUrl: "/aktualne/tiskove-zpravy-2015/ochrankyne-u-rakouskeho-ombudsmana/"
 date: 2015-01-27
 perex: "<p>Ochránkyně Anna Šabatová dnes ve Vídni jedná s Güntherem Kräuterem, jedním ze tří rakouských ombudsmanů. Rakousko projevilo zájem spolupracovat s českou ombudsmankou v oblasti ochrany práv osob omezených na svobodě a prevence špatného zacházení.</p>"
 ---

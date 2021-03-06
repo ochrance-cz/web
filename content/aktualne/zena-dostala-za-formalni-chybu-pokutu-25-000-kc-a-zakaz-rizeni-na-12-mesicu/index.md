@@ -2,7 +2,7 @@
 title: "Žena dostala za formální chybu pokutu 25 000 Kč a zákaz řízení na 12 měsíců"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2019/zena-dostala-za-formalni-chybu-pokutu-25-000-kc-a-zakaz-rizeni-na-12-mesicu/"
+oldUrl: "/aktualne/tiskove-zpravy-2019/zena-dostala-za-formalni-chybu-pokutu-25-000-kc-a-zakaz-rizeni-na-12-mesicu/"
 date: 2019-01-21
 perex: "<p>Stěžovatelka měla řidičský průkaz státu Izrael, na němž byl uveden údaj o bydlišti pouze v hebrejštině a chyběl přepis latinkou. Magistrát odmítl tento průkaz uznat, stěžovatelku shledal vinnou z přestupku řízení bez řidičského oprávnění. Uložil jí poutu 25 000 Kč a zákaz řízení na 12 měsíců. Stěžovatelka proto obrátila na ombudsmanku.</p>"
 ---

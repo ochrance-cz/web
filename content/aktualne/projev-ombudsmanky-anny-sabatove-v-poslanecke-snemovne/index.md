@@ -2,7 +2,7 @@
 title: "Projev ombudsmanky Anny Šabatové v Poslanecké sněmovně"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/projev-ombudsmanky-anny-sabatove-v-poslanecke-snemovne/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/projev-ombudsmanky-anny-sabatove-v-poslanecke-snemovne/"
 date: 2020-01-23
 perex: "<p></p>"
 ---

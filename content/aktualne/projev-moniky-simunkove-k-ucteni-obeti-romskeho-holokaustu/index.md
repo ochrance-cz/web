@@ -2,7 +2,7 @@
 title: "Projev Moniky Šimůnkové k uctění obětí romského holokaustu"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/projev-moniky-simunkove-k-ucteni-obeti-romskeho-holokaustu/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/projev-moniky-simunkove-k-ucteni-obeti-romskeho-holokaustu/"
 date: 2020-03-09
 perex: "<p></p>"
 ---

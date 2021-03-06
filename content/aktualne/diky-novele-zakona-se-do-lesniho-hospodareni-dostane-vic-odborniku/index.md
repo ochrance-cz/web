@@ -2,7 +2,7 @@
 title: "Díky novele zákona se do lesního hospodaření dostane víc odborníků"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2019/diky-novele-zakona-se-do-lesniho-hospodareni-dostane-vic-odborniku/"
+oldUrl: "/aktualne/tiskove-zpravy-2019/diky-novele-zakona-se-do-lesniho-hospodareni-dostane-vic-odborniku/"
 date: 2019-03-04
 perex: "<p>Ministerstvo zemědělství na doporučení zástupce ombudsmanky připravuje nová pravidla pro udělování licence odborného lesního hospodáře. Chystaná novela lesního zákona by měla rozšířit okruh uznávaného odborného lesnického vzdělání.</p>"
 ---

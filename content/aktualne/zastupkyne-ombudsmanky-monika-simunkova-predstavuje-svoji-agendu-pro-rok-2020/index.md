@@ -2,7 +2,7 @@
 title: "Zástupkyně ombudsmanky Monika Šimůnková představuje svoji agendu pro rok 2020"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/zastupkyne-ombudsmanky-monika-simunkova-predstavuje-svoji-agendu-pro-rok-2020/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/zastupkyne-ombudsmanky-monika-simunkova-predstavuje-svoji-agendu-pro-rok-2020/"
 date: 2020-01-10
 perex: "<p>Ombudsmanka Anna Šabatová od 9. ledna pověřila svoji zástupkyni Moniku Šimůnkovou výkonem působnosti v agendách ochrany práv dětí a rodiny, životního prostředí, stavebního práva, dopravy, daní, přestupků nebo práva na informace. V každé ze svěřených oblastí si zástupkyně ombudsmanky vytyčila několik priorit, kterým se chce v letošním roce věnovat. </p>"
 ---

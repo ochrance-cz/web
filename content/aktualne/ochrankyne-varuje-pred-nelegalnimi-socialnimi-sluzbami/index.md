@@ -2,7 +2,7 @@
 title: "Ochránkyně varuje před nelegálními sociálními službami"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2014/ochrankyne-varuje-pred-nelegalnimi-socialnimi-sluzbami/"
+oldUrl: "/aktualne/tiskove-zpravy-2014/ochrankyne-varuje-pred-nelegalnimi-socialnimi-sluzbami/"
 date: 2014-06-24
 perex: "<p>Veřejná ochránkyně práv navštívila 7 neregistrovaných zařízení poskytujících sociální služby a zjistila neodbornou péči, omezování klientů v pohybu, podávání léků podle uvážení personálu, zdravotní úkony prováděné nekvalifikovaným personálem a řadu dalších nedostatků, které v souhrnu představují špatné zacházení. Varuje proto veřejnost před nejrůznějšími ubytovacími zařízeními, která porušují zákon, nemají potřebná oprávnění, a přesto sociální a ošetřovatelskou péči poskytují.</p>"
 ---

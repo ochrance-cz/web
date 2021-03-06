@@ -2,7 +2,7 @@
 title: "Ombudsman pověřil svou zástupkyni částí agendy"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/ombudsman-poveril-svou-zastupkyni-casti-agendy/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/ombudsman-poveril-svou-zastupkyni-casti-agendy/"
 date: 2020-02-25
 perex: "<p>Ombudsman Stanislav Křeček s účinností od 24. 2. pověřil svou zástupkyni Moniku Šimůnkovou částí zákonem vymezené působnosti. </p>"
 ---

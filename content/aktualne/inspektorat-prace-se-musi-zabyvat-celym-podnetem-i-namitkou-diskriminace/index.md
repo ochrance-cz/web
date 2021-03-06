@@ -2,7 +2,7 @@
 title: "Inspektorát práce se musí zabývat celým podnětem, i námitkou diskriminace"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/inspektorat-prace-se-musi-zabyvat-celym-podnetem-i-namitkou-diskriminace/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/inspektorat-prace-se-musi-zabyvat-celym-podnetem-i-namitkou-diskriminace/"
 date: 2020-04-23
 perex: "<p>Ombudsman uzavřel šetření případů namítané diskriminace v zaměstnání, v nichž inspektoráty práce provedly nedostatečnou kontrolu, nevěnovaly se podezření na diskriminaci a nedostatečně zjistily skutkový stav. Inspektoráty pochybení uznaly a poučily inspektory, aby kontroly zaměstnavatelů prováděli důkladněji a zabývali se všemi námitkami stěžovatelů.</p>"
 ---

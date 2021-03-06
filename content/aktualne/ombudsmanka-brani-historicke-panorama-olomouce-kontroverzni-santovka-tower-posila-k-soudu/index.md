@@ -2,7 +2,7 @@
 title: "Ombudsmanka brání historické panorama Olomouce – kontroverzní Šantovka Tower posílá k soudu"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/ombudsmanka-brani-historicke-panorama-olomouce-kontroverzni-santovka-tower-posila-k-soudu/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/ombudsmanka-brani-historicke-panorama-olomouce-kontroverzni-santovka-tower-posila-k-soudu/"
 date: 2020-02-14
 perex: "<p>Ombudsmanka podala žalobu ve veřejném zájmu proti rozhodnutí Magistrátu města Olomouce o umístění stavby Šantovka Tower. Magistrát podle ní porušil zákon o státní památkové péči, zákon o ochraně přírody a krajiny, správní řád, stavební zákon i závazky České republiky z Úmluvy o ochraně architektonického dědictví Evropy. Zcela popřel samotné principy zákonnosti a jeho jednání vzbuzuje vážné pochybnosti o systémové nepodjatosti.</p>"
 ---

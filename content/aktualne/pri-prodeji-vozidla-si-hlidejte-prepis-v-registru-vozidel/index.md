@@ -2,7 +2,7 @@
 title: "Při prodeji vozidla si hlídejte přepis v registru vozidel"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/pri-prodeji-vozidla-si-hlidejte-prepis-v-registru-vozidel/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/pri-prodeji-vozidla-si-hlidejte-prepis-v-registru-vozidel/"
 date: 2020-04-06
 perex: "<p>Ombudsman varuje před spoléháním se na to, že při prodeji vozu zajistí kupující přepis v registru vozidel. I nyní platí desetidenní lhůta pro přepis, po jejím uplynutí už je přepis komplikovaný. V praxi stále dochází k případům, kdy kvůli neprovedenému přepisu je pokuta za dopravní přestupek uložena bývalému vlastníkovi. V registru vozidel je stále veden jako vlastník a nese za provoz vozidla odpovědnost. </p>"
 ---

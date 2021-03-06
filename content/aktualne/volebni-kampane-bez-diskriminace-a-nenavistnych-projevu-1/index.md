@@ -2,7 +2,7 @@
 title: "Volební kampaně bez diskriminace a nenávistných projevů"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2019/volebni-kampane-bez-diskriminace-a-nenavistnych-projevu-1/"
+oldUrl: "/aktualne/tiskove-zpravy-2019/volebni-kampane-bez-diskriminace-a-nenavistnych-projevu-1/"
 date: 2019-03-25
 perex: "<p>S ohledem na blížící se volby do Evropského parlamentu vydal Equinet Doporučení pro boj s diskriminací a nenávistnými projevy ve volebních kampaních. Equinet je Evropská síť orgánů pro rovné zacházení, která spojuje 49 orgánů pro rovné zacházení z 36 evropských zemí, včetně všech států EU. Orgánem pro rovné zacházení je v ČR veřejný ochránce práv (ombudsman).</p>"
 ---

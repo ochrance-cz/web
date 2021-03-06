@@ -2,7 +2,7 @@
 title: "Komentář: Práva většiny, práva menšiny"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/komentar-prava-vetsiny-prava-mensiny/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/komentar-prava-vetsiny-prava-mensiny/"
 date: 2020-03-11
 perex: "<p>Kladu si otázku, kde se ve veřejném prostoru vzalo najednou tolik úvah o právech většiny a právech menšiny. Nikdy v polistopadové historii se o právech menšin nemluvilo tolik jako nyní.</p>"
 ---

@@ -2,7 +2,7 @@
 title: "Kulatý stůl k tématu zabezpečovací detence"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2019/kulaty-stul-k-tematu-zabezpecovaci-detence/"
+oldUrl: "/aktualne/tiskove-zpravy-2019/kulaty-stul-k-tematu-zabezpecovaci-detence/"
 date: 2019-02-13
 perex: "<p>Ombudsmanka pořádá 14. 2. 2019 kulatý stůl k prodiskutování zjištění z návštěv ústavů pro výkon zabezpečovací detence. Ta byla v České republice zavedena v roce 2009 a v současné době fungují dva ústavy, v Brně a Opavě. Na přelomu let 2017 a 2018 ombudsmanka oba navštívila a v rámci kulatého stolu bude o svých zjištěních jednat se zástupci ústavů, Ministerstva spravedlnosti ČR, Vězeňské služby ČR, soudů, státního zastupitelství.</p>"
 ---

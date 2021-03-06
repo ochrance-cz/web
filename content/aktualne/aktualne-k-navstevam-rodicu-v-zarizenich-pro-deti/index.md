@@ -2,7 +2,7 @@
 title: "Aktuálně k návštěvám rodičů v zařízeních pro děti"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/aktualne-k-navstevam-rodicu-v-zarizenich-pro-deti/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/aktualne-k-navstevam-rodicu-v-zarizenich-pro-deti/"
 date: 2020-03-18
 perex: "<p></p>"
 ---

@@ -2,7 +2,7 @@
 title: "Ombudsman se připojuje k oslavám Mezinárodního dne Romů"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/ombudsman-se-pripojuje-k-oslavam-mezinarodniho-dne-romu/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/ombudsman-se-pripojuje-k-oslavam-mezinarodniho-dne-romu/"
 date: 2020-04-08
 perex: "<p></p>"
 ---

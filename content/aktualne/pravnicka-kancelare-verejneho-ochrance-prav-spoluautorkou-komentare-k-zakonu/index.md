@@ -2,7 +2,7 @@
 title: "Právnička Kanceláře veřejného ochránce práv spoluautorkou komentáře k zákonu"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2015/pravnicka-kancelare-verejneho-ochrance-prav-spoluautorkou-komentare-k-zakonu/"
+oldUrl: "/aktualne/tiskove-zpravy-2015/pravnicka-kancelare-verejneho-ochrance-prav-spoluautorkou-komentare-k-zakonu/"
 date: 2015-04-14
 perex: "<p>Lidem, kteří se obracejí na veřejnou ochránkyni práv se svými problémy, pomáhají špičkoví právníci s hlubokými znalostmi a zkušenostmi. Jejich vysokou odbornost nejlépe dokládá i nejčerstvější úspěch: právnička Kanceláře veřejného ochránce práv Michaela Černínová je spoluautorkou nově vydaného komentáře k zákonu o pozemních komunikacích.</p>"
 ---

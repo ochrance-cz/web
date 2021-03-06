@@ -2,7 +2,7 @@
 title: "Ochránkyně informovala Poslaneckou sněmovnu o své činnosti"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2015/ochrankyne-informovala-poslaneckou-snemovnu-o-sve-cinnosti/"
+oldUrl: "/aktualne/tiskove-zpravy-2015/ochrankyne-informovala-poslaneckou-snemovnu-o-sve-cinnosti/"
 date: 2015-02-05
 perex: "<p>Průtahy, které vedly k zániku odpovědnosti za přestupek, formalistní nepřiznání doplatku na bydlení, odvolání z vedoucí funkce z důvodu mateřství. Tyto a další případy zahrnula ochránkyně do zprávy o činnosti ve 4. čtvrtletí, kterou v těchto dnech zaslala Poslanecké sněmovně.</p>"
 ---

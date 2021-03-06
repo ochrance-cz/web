@@ -2,7 +2,7 @@
 title: "Koronavirus a senioři v péči neregistrovaných zařízení"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/koronavirus-a-seniori-v-peci-neregistrovanych-zarizeni/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/koronavirus-a-seniori-v-peci-neregistrovanych-zarizeni/"
 date: 2020-04-07
 perex: "<p>Pozornost se v posledních dnech soustředí na zajišťování a distribuci ochranných pomůcek a jiných prostředků do zařízení sociálních služeb či následné péče, která poskytují péči seniorům. Na tato zařízení míří také opatření, která vydal ministr zdravotnictví, jejichž cílem je zabránění nákazy a šíření nemoci COVID-19. Péči o seniory však zajišťují také zařízení či poskytovatelé, kteří ke své činnosti nemají potřebná oprávnění. Tato zařízení se mohou nacházet mimo distribuční systém ochranných prostředků. Nikdo v tuto chvíli neví, zda jsou v nich senioři před nákazou chráněni nebo kolik z nich je případně nakažených.</p>"
 ---

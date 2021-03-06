@@ -2,7 +2,7 @@
 title: "Ministryně Klára Dostálová a veřejný ochránce práv Stanislav Křeček nabádají CK k lepší komunikaci"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/ministryne-klara-dostalova-a-verejny-ochrance-prav-stanislav-krecek-nabadaji-ck-k-leps/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/ministryne-klara-dostalova-a-verejny-ochrance-prav-stanislav-krecek-nabadaji-ck-k-leps/"
 date: 2020-05-21
 perex: "<p>Ministryně pro místní rozvoj Klára Dostálová a veřejný ochránce práv Stanislav Křeček dnes (21.5.) rozeslali společný dopis provozovatelům cestovních kanceláří, ve kterém uvádějí přesné postupy, jak by se cestovní kanceláře měly v problematických situacích vůči klientovi zachovat. </p>"
 ---

@@ -2,7 +2,7 @@
 title: "Ochránkyně varuje před dalšími čtyřmi zařízeními „pečujícími“ o seniory"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2015/ochrankyne-varuje-pred-dalsimi-ctyrmi-zarizenimi-pecujicimi-o-seniory/"
+oldUrl: "/aktualne/tiskove-zpravy-2015/ochrankyne-varuje-pred-dalsimi-ctyrmi-zarizenimi-pecujicimi-o-seniory/"
 date: 2015-01-29
 perex: "<p>Ochránkyně zjistila další 4 případy špatného zacházení se seniory v neregistrovaných zařízeních. Ve dvou byla zjištění natolik závažná, že se ochránkyně obrátila na státní zastupitelství s podnětem k prověření, zda nedochází k trestné činnosti. </p>"
 ---

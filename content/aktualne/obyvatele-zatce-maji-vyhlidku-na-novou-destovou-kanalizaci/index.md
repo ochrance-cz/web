@@ -2,7 +2,7 @@
 title: "Obyvatelé Žatce mají vyhlídku na novou dešťovou kanalizaci"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2015/obyvatele-zatce-maji-vyhlidku-na-novou-destovou-kanalizaci/"
+oldUrl: "/aktualne/tiskove-zpravy-2015/obyvatele-zatce-maji-vyhlidku-na-novou-destovou-kanalizaci/"
 date: 2015-02-12
 perex: "<p>Díky šetření zástupce veřejné ochránkyně práv a spolupráci s představiteli Městského úřadu Žatec mají obyvatelé podmáčené lokality v Žatci vyhlídku na novou dešťovou kanalizaci. Po dlouholetých problémech s podmáčenými pozemky a vodou ve sklepeních domů a po výtkách zástupce ombudsmanky, že úřad nebyl dostatečně aktivní, se město rozhodlo situaci řešit přímočaře. Namísto zdlouhavých a nejistých správních řízení se rozhodlo vybudovat novou dešťovou kanalizaci.</p>"
 ---

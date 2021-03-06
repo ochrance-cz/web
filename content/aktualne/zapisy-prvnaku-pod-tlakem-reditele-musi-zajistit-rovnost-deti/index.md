@@ -2,7 +2,7 @@
 title: "Zápisy prvňáků pod tlakem – ředitelé musí zajistit rovnost dětí"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2015/zapisy-prvnaku-pod-tlakem-reditele-musi-zajistit-rovnost-deti/"
+oldUrl: "/aktualne/tiskove-zpravy-2015/zapisy-prvnaku-pod-tlakem-reditele-musi-zajistit-rovnost-deti/"
 date: 2015-01-15
 perex: "<p>Právě začínající zápisy do prvních tříd staví ředitele některých základních škol před složitou otázku. Počet přihlášených dětí často přesahuje kapacitu škol a ředitelé musí rozhodovat, které z dětí přijmou a které ne, aniž by jednali protiprávně.</p>"
 ---

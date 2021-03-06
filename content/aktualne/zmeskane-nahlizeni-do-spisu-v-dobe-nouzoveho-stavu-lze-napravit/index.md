@@ -2,7 +2,7 @@
 title: "Zmeškané nahlížení do spisu v době nouzového stavu lze napravit"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/zmeskane-nahlizeni-do-spisu-v-dobe-nouzoveho-stavu-lze-napravit/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/zmeskane-nahlizeni-do-spisu-v-dobe-nouzoveho-stavu-lze-napravit/"
 date: 2020-05-18
 perex: "<p>Dnešním dnem začíná běžet patnáctidenní lhůta pro ty, kdo v důsledku nouzového stavu nemohli uplatnit své právo nahlédnout do spisu.</p>"
 ---

@@ -2,7 +2,7 @@
 title: "Přítomnost blízkých osob u porodu v rámci nouzového stavu"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/pritomnost-blizkych-osob-u-porodu-v-ramci-nouzoveho-stavu/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/pritomnost-blizkych-osob-u-porodu-v-ramci-nouzoveho-stavu/"
 date: 2020-04-08
 perex: "<p></p>"
 ---

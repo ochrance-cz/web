@@ -2,7 +2,7 @@
 title: "Poslanci pustili do druhého čtení návrh zákona rozšiřující pravomoci ochránce"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2015/poslanci-pustili-do-druheho-cteni-navrh-zakona-rozsirujici-pravomoci-ochrance/"
+oldUrl: "/aktualne/tiskove-zpravy-2015/poslanci-pustili-do-druheho-cteni-navrh-zakona-rozsirujici-pravomoci-ochrance/"
 date: 2015-03-31
 perex: "<p>Poslanci projednali návrh zákona, který by ochránci nově umožnil navrhnout u Ústavního soudu zrušení zákona nebo podat takzvanou antidiskriminační žalobu. Návrh propustili do druhého čtení.</p>"
 ---

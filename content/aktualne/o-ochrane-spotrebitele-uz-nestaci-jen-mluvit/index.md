@@ -2,7 +2,7 @@
 title: "O ochraně spotřebitele už nestačí jen mluvit"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/o-ochrane-spotrebitele-uz-nestaci-jen-mluvit/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/o-ochrane-spotrebitele-uz-nestaci-jen-mluvit/"
 date: 2020-03-13
 perex: "<p>Pouze osvěta a neustálé připomínání, že je třeba být maximálně opatrný u jakýchkoli telefonických nabídek nebo podomního prodeje, už k ochraně spotřebitele nestačí. Při příležitosti mezinárodního dne spotřebitelských práv (15. 3.) připomíná ombudsman nedostatečnou ochranu spotřebitele. Kontrolní orgány by podle něj měly mít možnost efektivněji proti nekalým obchodním praktikám zasáhnout. V případě tzv. energetických šmejdů by ochraně spotřebitele výrazně pomohla připravovaná novela energetického zákona. Její projednání a přijetí by nemělo být odkládáno.</p>"
 ---

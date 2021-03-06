@@ -2,7 +2,7 @@
 title: "Zástupkyně ombudsmana Monika Šimůnková se obrátila na ministry s žádostí o podporu ohrožených rodin, lidí s postižením i jejich pečujících"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/zastupkyne-ombudsmana-monika-simunkova-se-obratila-na-ministry-s-zadosti-o-podporu-ohrozen/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/zastupkyne-ombudsmana-monika-simunkova-se-obratila-na-ministry-s-zadosti-o-podporu-ohrozen/"
 date: 2020-05-01
 perex: "<p>Některá z přijatých vládních opatření, která mají pomoci řešit epidemii koronaviru, dopadají nepřiměřeně na zranitelné skupiny obyvatel. Pozastavení sociálně aktivizačních služeb se například přímo dotýká životů dětí vyrůstajících v ohrožených rodinách. Děti ohrožené domácím násilím či zneužíváním jsou v tuto chvíli bez potřebné pomoci a podpory. Bez podpory jsou nyní také lidé pečující o své blízké, kterým chybí denní a týdenní stacionáře. Zástupkyně ombudsmana se obrátila na ministryni práce a sociálních věcí a na ministra zdravotnictví, aby urychlili rozvolňování terénních a ambulantních služeb. </p>"
 ---

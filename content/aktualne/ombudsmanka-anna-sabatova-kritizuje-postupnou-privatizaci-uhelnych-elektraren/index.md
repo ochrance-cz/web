@@ -2,7 +2,7 @@
 title: "Ombudsmanka Anna Šabatová kritizuje postupnou privatizaci uhelných elektráren"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/ombudsmanka-anna-sabatova-kritizuje-postupnou-privatizaci-uhelnych-elektraren/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/ombudsmanka-anna-sabatova-kritizuje-postupnou-privatizaci-uhelnych-elektraren/"
 date: 2020-02-18
 perex: "<p>Ombudsmanka Anna Šabatová vedla šetření ve věci nezákonné výjimky z emisních limitů pro Elektrárnu Chvaletice. Výjimku v průběhu šetření zrušilo Ministerstvo životního prostředí. Tento jeden případ je však symptomem širšího problému současné energetické politiky státu. Ten nebere vážně aktuální stav klimatu a s ním související nezbytná opatření pro snižování skleníkových plynů. Česká republika se privatizací největších uhelných elektráren v zemi zbavuje přímé kontroly nad nejvýznamnějšími producenty emisí. Takové jednání je krajně nezodpovědné a hazarduje s životy budoucích generací.</p>"
 ---

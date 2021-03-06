@@ -2,7 +2,7 @@
 title: "Zákaz zvyšování nájemného"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/zakaz-zvysovani-najemneho/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/zakaz-zvysovani-najemneho/"
 date: 2020-05-13
 perex: "<p></p>"
 ---

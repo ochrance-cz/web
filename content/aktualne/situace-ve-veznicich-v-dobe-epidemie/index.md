@@ -2,7 +2,7 @@
 title: "Situace ve věznicích v době epidemie"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/situace-ve-veznicich-v-dobe-epidemie/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/situace-ve-veznicich-v-dobe-epidemie/"
 date: 2020-04-22
 perex: "<p>Zástupkyni ombudsmana Monice Šimůnkové je svěřena oblast dohledu nad místy, kde je omezována osobní svoboda, což se týká také vězeňství. V současnosti není možné kvůli epidemii provádět kontrolní návštěvy věznic. Zástupkyně za této situace zjišťuje, jaká opatření byla ve věznicích přijata, zda je všude dostatek ochranných prostředků a jaká je situace ohledně počtu nakažených. Dle posledních informací nebyl koronavirem nakažen zatím žádný vězeň.</p>"
 ---

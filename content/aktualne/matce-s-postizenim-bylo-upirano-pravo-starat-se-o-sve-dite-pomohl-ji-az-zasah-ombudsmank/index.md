@@ -2,9 +2,11 @@
 title: "Matce s postižením bylo upíráno právo starat se o své dítě. Pomohl jí až zásah ombudsmanky"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/matce-s-postizenim-bylo-upirano-pravo-starat-se-o-sve-dite-pomohl-ji-az-zasah-ombudsmank/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/matce-s-postizenim-bylo-upirano-pravo-starat-se-o-sve-dite-pomohl-ji-az-zasah-ombudsmank/"
 date: 2020-01-24
-perex: "<p>Ženě se zdravotním postižením se narodilo dítě. Orgán sociálně-právní ochrany dětí po jeho narození podpořil návrh babičky na svěření dítěte do její péče. Matka tak nedostala ani šanci prokázat, že se o dítě dokáže postarat. Ombudsmanka během svého šetření zjistila, že se OSPOD v roli kolizního opatrovníka již na počátku přiklonil na stranu babičky, aniž by disponoval dostatkem informací. Nehájil tak nejlepší zájem dítěte, nesledoval ochranu rodičovství a nedal matce možnost prokázat, že se o dítě dokáže postarat. Nakonec se podařilo dosáhnout toho, aby bylo dítě svěřeno do péče matky a OSPOD přijal opatření k nápravě, které by měly podobným případům zabránit. Ombudsmanka Anna Šabatová tak mohla případ uzavřít.  </p>"
+perex:
+  "<p>Ženě se zdravotním postižením se narodilo dítě. Orgán sociálně-právní ochrany dětí po jeho narození podpořil návrh babičky na svěření dítěte do její péče. Matka tak nedostala ani šanci prokázat, že se o dítě dokáže postarat. Ombudsmanka během svého šetření zjistila, že se OSPOD v roli kolizního opatrovníka již na počátku přiklonil na stranu babičky, aniž by disponoval dostatkem informací. Nehájil tak nejlepší zájem dítěte, nesledoval ochranu rodičovství a nedal matce možnost prokázat, že se o dítě dokáže postarat. Nakonec se podařilo dosáhnout toho, aby bylo dítě svěřeno do péče matky a OSPOD přijal opatření k nápravě, které by měly podobným případům zabránit. Ombudsmanka Anna Šabatová tak mohla případ uzavřít.
+  </p>"
 ---
 
 <!-- imported from the old website -->

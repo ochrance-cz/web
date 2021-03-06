@@ -2,7 +2,7 @@
 title: "Kopii projektové dokumentace stavby lze poskytnout i bez souhlasu vlastníka"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/kopii-projektove-dokumentace-stavby-lze-poskytnout-i-bez-souhlasu-vlastnika/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/kopii-projektove-dokumentace-stavby-lze-poskytnout-i-bez-souhlasu-vlastnika/"
 date: 2020-02-06
 perex: "<p>Podle zástupkyně ombudsmanky by se měl sjednotit postup stavebních úřadů při poskytování kopií projektové dokumentace staveb. Z výzkumu provedeného mezi krajskými úřady a Magistrátem hl. města Prahy totiž vyplynulo, že praxe v krajích se liší. Ministerstvo pro místní rozvoj přislíbilo nápravu. Ochráncem dlouhodobě zastávaný názor, že kopii dokumentace lze poskytnout, i když s tím vlastník stavby či projektant nesouhlasí, totiž nedávno potvrdil i Nejvyšší správní soud.</p>"
 ---

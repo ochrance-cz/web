@@ -2,7 +2,7 @@
 title: "Návštěva velvyslance USA"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2015/navsteva-velvyslance-usa/"
+oldUrl: "/aktualne/tiskove-zpravy-2015/navsteva-velvyslance-usa/"
 date: 2015-03-12
 perex: "<p>Velvyslanec USA Andrew Schapiro se ve čtvrtek 12. března setkal s veřejnou ochránkyní práv Annou Šabatovou, aby se seznámil s její činností a jejím pohledem na některá lidskoprávní témata.</p>"
 ---

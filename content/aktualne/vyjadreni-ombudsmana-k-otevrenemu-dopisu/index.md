@@ -2,7 +2,7 @@
 title: "Vyjádření ombudsmana k otevřenému dopisu"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/vyjadreni-ombudsmana-k-otevrenemu-dopisu/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/vyjadreni-ombudsmana-k-otevrenemu-dopisu/"
 date: 2020-04-15
 perex: "<p></p>"
 ---

@@ -2,7 +2,7 @@
 title: "Norská velvyslankyně u veřejné ochránkyně práv"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2015/norska-velvyslankyne-u-verejne-ochrankyne-prav/"
+oldUrl: "/aktualne/tiskove-zpravy-2015/norska-velvyslankyne-u-verejne-ochrankyne-prav/"
 date: 2015-03-16
 perex: "<p>Norská velvyslankyně Siri Ellen Sletner navštívila v pondělí 16. března veřejnou ochránkyni práv. </p>"
 ---

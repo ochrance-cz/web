@@ -2,7 +2,7 @@
 title: "Zmeškání lhůty pro nahlížení do spisu lze napravit po skončení nouzového stavu"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/zmeskani-lhuty-pro-nahlizeni-do-spisu-lze-napravit-po-skonceni-nouzoveho-stavu/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/zmeskani-lhuty-pro-nahlizeni-do-spisu-lze-napravit-po-skonceni-nouzoveho-stavu/"
 date: 2020-05-12
 perex: "<p>Pokud někdo v důsledku nařízených omezujících opatření nemůže ve stanovené lhůtě nahlédnout do spisu, má možnost své právo uplatnit po ukončení nouzového stavu. Nepřijde tím o možnost získat informace o aktuálním stavu správního řízení a zvolit pak účinný způsob ochrany svých práv a zájmů.</p>"
 ---

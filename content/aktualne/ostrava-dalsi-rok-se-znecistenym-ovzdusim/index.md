@@ -2,7 +2,7 @@
 title: "Ostrava – další rok se znečištěným ovzduším"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2013/ostrava-dalsi-rok-se-znecistenym-ovzdusim/"
+oldUrl: "/aktualne/tiskove-zpravy-2013/ostrava-dalsi-rok-se-znecistenym-ovzdusim/"
 date: 2013-01-16
 perex: "<p>Před více než rokem vydala zástupkyně ombudsmana stanovisko k problematice znečištěného ovzduší na Ostravsku a doporučila konkrétní opatření k nápravě. Nyní vyhodnotila, co jednotlivé úřady realizovaly a co naopak zůstává neřešeno.</p>"
 ---

@@ -2,7 +2,7 @@
 title: "Ochránkyně navrhuje poslancům vypustit sporné ustanovení školského zákona"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2015/ochrankyne-navrhuje-poslancum-vypustit-sporne-ustanoveni-skolskeho-zakona/"
+oldUrl: "/aktualne/tiskove-zpravy-2015/ochrankyne-navrhuje-poslancum-vypustit-sporne-ustanoveni-skolskeho-zakona/"
 date: 2015-01-20
 perex: "<p>V uplynulých týdnech se v tisku a odborných kruzích vedla diskuse ohledně dopadu kritérií pro posuzování mentálního postižení na vzdělávání dětí se speciálními vzdělávacími potřebami. Tato kritéria jsou nově uvedena v návrhu ustanovení § 16a odst. 5 novely školského zákona, kterou aktuálně projednává Poslanecká sněmovna Parlamentu České republiky (sněmovní tisk 288).</p>"
 ---

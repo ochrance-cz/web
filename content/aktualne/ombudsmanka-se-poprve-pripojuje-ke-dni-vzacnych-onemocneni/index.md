@@ -2,7 +2,7 @@
 title: "Ombudsmanka se poprvé připojuje ke Dni vzácných onemocnění"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2019/ombudsmanka-se-poprve-pripojuje-ke-dni-vzacnych-onemocneni/"
+oldUrl: "/aktualne/tiskove-zpravy-2019/ombudsmanka-se-poprve-pripojuje-ke-dni-vzacnych-onemocneni/"
 date: 2019-02-19
 perex: "<p>Už podvanácté se 28. 2. koná mezinárodní Den vzácných onemocnění. Na celém světě se k němu připojují stovky pacientských organizací, lékařů, poskytovatelů sociálních služeb, nevládních organizací, vědců a dalších. Poprvé se do organizace Dne vzácných onemocnění zapojuje i veřejná ochránkyně práv, aby tím vyjádřila podporu celosvětové komunitě lidí se vzácným onemocněním.</p>"
 ---

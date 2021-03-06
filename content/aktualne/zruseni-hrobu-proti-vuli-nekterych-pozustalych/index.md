@@ -2,7 +2,7 @@
 title: "Zrušení hrobu proti vůli některých pozůstalých"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2015/zruseni-hrobu-proti-vuli-nekterych-pozustalych/"
+oldUrl: "/aktualne/tiskove-zpravy-2015/zruseni-hrobu-proti-vuli-nekterych-pozustalych/"
 date: 2015-03-11
 perex: "<p>Případy týkající se pohřebnictví nejsou ani tolik o právu, jako o etice a mezilidských vztazích. Pokud ale nelze dosáhnout smírného řešení, nepomohou úřady, ani ombudsman. Jedinou, ale krajní možností, je obrátit se na soud. Obvykle jde přitom o spory mezi příbuznými.</p>"
 ---

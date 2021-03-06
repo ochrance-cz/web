@@ -2,7 +2,7 @@
 title: "Dětský domov se musí o své klienty postarat i o prázdninách"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2015/detsky-domov-se-musi-o-sve-klienty-postarat-i-o-prazdninach/"
+oldUrl: "/aktualne/tiskove-zpravy-2015/detsky-domov-se-musi-o-sve-klienty-postarat-i-o-prazdninach/"
 date: 2015-02-09
 perex: "<p>Pokud se ředitelé rozhodnou dětský domov po dobu školních prázdnin uzavřít a dětem zařídí pobyt mimo zařízení, musí se postarat také o mladé lidi, kteří v domově pobývají dobrovolně i po dosažení zletilosti, na základě smlouvy se zařízením.</p>"
 ---

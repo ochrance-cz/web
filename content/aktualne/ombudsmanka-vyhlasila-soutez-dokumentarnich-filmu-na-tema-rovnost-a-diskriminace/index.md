@@ -2,7 +2,7 @@
 title: "Ombudsmanka vyhlásila soutěž dokumentárních filmů na téma rovnost a diskriminace"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2019/ombudsmanka-vyhlasila-soutez-dokumentarnich-filmu-na-tema-rovnost-a-diskriminace/"
+oldUrl: "/aktualne/tiskove-zpravy-2019/ombudsmanka-vyhlasila-soutez-dokumentarnich-filmu-na-tema-rovnost-a-diskriminace/"
 date: 2019-03-18
 perex: "<p>Letos uplyne deset let od chvíle, kdy vstoupil v platnost antidiskriminační zákon. Při této příležitosti se ombudsmanka rozhodla vyhlásit soutěž krátkých dokumentárních filmů na téma rovnost nebo diskriminace. Vítězné snímky se budou promítat na Letní filmové škole v Uherském hradišti.  Soutěž je určena mladým lidem ve věku patnáct až devatenáct let. </p>"
 ---

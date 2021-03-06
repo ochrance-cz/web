@@ -2,7 +2,7 @@
 title: "Souhrnná zpráva z návštěv neregistrovaných zařízení pro seniory"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2015/souhrnna-zprava-z-navstev-neregistrovanych-zarizeni-pro-seniory/"
+oldUrl: "/aktualne/tiskove-zpravy-2015/souhrnna-zprava-z-navstev-neregistrovanych-zarizeni-pro-seniory/"
 date: 2015-02-13
 perex: "<p>Ochránkyně vydala již dříve avizovanou souhrnnou zprávu z návštěv ubytovacích zařízení, která bez oprávnění poskytují péči seniorům.</p>"
 ---

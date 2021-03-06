@@ -2,7 +2,7 @@
 title: "Kulatý stůl: Vybrané problémy placení daní"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2016/kulaty-stul-vybrane-problemy-placeni-dani/"
+oldUrl: "/aktualne/tiskove-zpravy-2016/kulaty-stul-vybrane-problemy-placeni-dani/"
 date: 2016-02-22
 perex: "<p>V pátek 12. února 2016 jsme k tématu placení daní uspořádali setkání se zástupci finanční a celní správy, obecních a krajských úřadů, s daňovými poradci a akademickými pracovníky. </p>"
 ---

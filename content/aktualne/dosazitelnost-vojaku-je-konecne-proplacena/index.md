@@ -2,7 +2,7 @@
 title: "Dosažitelnost vojáků je konečně proplácena"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2016/dosazitelnost-vojaku-je-konecne-proplacena/"
+oldUrl: "/aktualne/tiskove-zpravy-2016/dosazitelnost-vojaku-je-konecne-proplacena/"
 date: 2016-01-07
 perex: "<p>Po několikaletém společném úsilí vojáků a postupně i dvou ombudsmanů se vojáci z povolání konečně dočkají proplacení nařizované služební pohotovosti.</p>"
 ---

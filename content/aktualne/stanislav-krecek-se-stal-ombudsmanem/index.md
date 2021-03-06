@@ -2,7 +2,7 @@
 title: "Stanislav Křeček se stal ombudsmanem"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/stanislav-krecek-se-stal-ombudsmanem/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/stanislav-krecek-se-stal-ombudsmanem/"
 date: 2020-02-19
 perex: "<p>Složením slibu do rukou místopředsedy Poslanecké sněmovny se JUDr. Stanislav Křeček dnešním dnem stal veřejným ochráncem práv. Nahradil ve funkci Annu Šabatovou, jejíž šestiletý mandát skončil.</p>"
 ---

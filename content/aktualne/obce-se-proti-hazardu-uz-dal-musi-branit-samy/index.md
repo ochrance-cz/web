@@ -2,7 +2,7 @@
 title: "Obce se proti hazardu už dál musí bránit samy"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2012/obce-se-proti-hazardu-uz-dal-musi-branit-samy/"
+oldUrl: "/aktualne/tiskove-zpravy-2012/obce-se-proti-hazardu-uz-dal-musi-branit-samy/"
 date: 2012-05-30
 perex: "<p></p><p>Ani po vyčerpání všech možností se ochránci nepodařilo zjednání plné nápravy ve věci povolování sázkových her provozovaných prostřednictvím tzv. jiných technických herních zařízení (např. videoloterijních terminálů) v rozporu s loterijním zákonem a obecně závaznými vyhláškami obcí. </p>"
 ---

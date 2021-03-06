@@ -2,7 +2,7 @@
 title: "Aktualizovali jsme rady pro řešení některých životních situací"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2015/aktualizovali-jsme-rady-pro-reseni-nekterych-zivotnich-situaci/"
+oldUrl: "/aktualne/tiskove-zpravy-2015/aktualizovali-jsme-rady-pro-reseni-nekterych-zivotnich-situaci/"
 date: 2015-01-08
 perex: "<p></p>"
 ---

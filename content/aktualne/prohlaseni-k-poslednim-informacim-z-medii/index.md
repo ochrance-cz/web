@@ -2,7 +2,7 @@
 title: "Prohlášení k posledním informacím z medií"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/prohlaseni-k-poslednim-informacim-z-medii/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/prohlaseni-k-poslednim-informacim-z-medii/"
 date: 2020-02-15
 perex: "<p></p>"
 ---

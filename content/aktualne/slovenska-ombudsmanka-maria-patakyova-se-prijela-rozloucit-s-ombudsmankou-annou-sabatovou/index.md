@@ -2,7 +2,7 @@
 title: "Slovenská ombudsmanka Mária Patakyová se přijela rozloučit s ombudsmankou Annou Šabatovou"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/slovenska-ombudsmanka-maria-patakyova-se-prijela-rozloucit-s-ombudsmankou-annou-sabatovou/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/slovenska-ombudsmanka-maria-patakyova-se-prijela-rozloucit-s-ombudsmankou-annou-sabatovou/"
 date: 2020-02-05
 perex: "<p>V úterý 4. února 2020 navštívila ombudsmanku Annu Šabatovou slovenská veřejná ochránkyně práv Mária Patakyová, aby se s ní rozloučila před koncem jejího mandátu. Společného pracovního oběda se zúčastnila také zástupkyně ombudsmanky Monika Šimůnková. </p>"
 ---

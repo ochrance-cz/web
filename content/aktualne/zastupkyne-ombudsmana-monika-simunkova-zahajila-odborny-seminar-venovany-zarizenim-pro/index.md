@@ -2,9 +2,12 @@
 title: "Zástupkyně ombudsmana Monika Šimůnková zahájila odborný seminář věnovaný zařízením pro děti vyžadující okamžitou pomoc"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/zastupkyne-ombudsmana-monika-simunkova-zahajila-odborny-seminar-venovany-zarizenim-pro/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/zastupkyne-ombudsmana-monika-simunkova-zahajila-odborny-seminar-venovany-zarizenim-pro/"
 date: 2020-03-05
-perex: "<p>V letech 2016 až 2018 prováděla tehdejší ombudsmanka Anna Šabatová návštěvy v zařízeních pro děti vyžadující okamžitou pomoc (ZDVOP). Cílem bylo zjistit, jak vypadá krizová pomoc dětem a jejich rodinám, v čem spočívá a jak je úspěšná. Zpráva z těchto návštěv byla zveřejněna v červnu roku 2019. Nejdůležitější poznatky byly prodiskutovány s účastníky odborného semináře, který zahájila zástupkyně ombudsmana Monika Šimůnková.   Seminář je realizován prostřednictvím projektu Posílení aktivit veřejného ochránce práv (směrem k ustavení Národní lidskoprávní instituce v ČR), číslo projektu LP-PDP3-001. Projekt je součástí Programu lidská práva financovaného z Norských fondů 2014-2021 prostřednictvím Ministerstva financí ČR. </p>"
+perex:
+  "<p>V letech 2016 až 2018 prováděla tehdejší ombudsmanka Anna Šabatová návštěvy v zařízeních pro děti vyžadující okamžitou pomoc (ZDVOP). Cílem bylo zjistit, jak vypadá krizová pomoc dětem a jejich rodinám, v čem spočívá a jak je úspěšná. Zpráva z těchto návštěv byla zveřejněna v červnu roku 2019. Nejdůležitější poznatky byly prodiskutovány s účastníky odborného semináře, který zahájila zástupkyně ombudsmana Monika Šimůnková.
+
+  Seminář je realizován prostřednictvím projektu Posílení aktivit veřejného ochránce práv (směrem k ustavení Národní lidskoprávní instituce v ČR), číslo projektu LP-PDP3-001. Projekt je součástí Programu lidská práva financovaného z Norských fondů 2014-2021 prostřednictvím Ministerstva financí ČR. </p>"
 ---
 
 <!-- imported from the old website -->

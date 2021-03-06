@@ -2,7 +2,7 @@
 title: "Všem, kdo pracují v sociálních službách"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/vsem-kdo-pracuji-v-socialnich-sluzbach/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/vsem-kdo-pracuji-v-socialnich-sluzbach/"
 date: 2020-03-30
 perex: "<p>Chci vyjádřit podporu Vám všem, kdo pomáháte lidem závislým na poskytované péči. Ať už své poslání naplňujete v domácím prostředí klientek či klientů nebo v pobytových zařízeních.</p>"
 ---

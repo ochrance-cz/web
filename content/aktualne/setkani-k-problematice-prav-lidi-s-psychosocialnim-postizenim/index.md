@@ -2,7 +2,7 @@
 title: "Setkání k problematice práv lidí s psychosociálním postižením"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2019/setkani-k-problematice-prav-lidi-s-psychosocialnim-postizenim/"
+oldUrl: "/aktualne/tiskove-zpravy-2019/setkani-k-problematice-prav-lidi-s-psychosocialnim-postizenim/"
 date: 2019-03-14
 perex: "<p>Ombudsmanka pořádá 29. března od 14:30 setkání lidí se zkušeností s psychosociálním postižením, pečujících osob a odborníků v této oblasti.</p>"
 ---

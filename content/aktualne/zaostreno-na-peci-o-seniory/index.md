@@ -2,7 +2,7 @@
 title: "Zaostřeno na péči o seniory"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2013/zaostreno-na-peci-o-seniory/"
+oldUrl: "/aktualne/tiskove-zpravy-2013/zaostreno-na-peci-o-seniory/"
 date: 2013-03-13
 perex: "<p>Určitá skupina seniorů trpících demencí je domovy pro seniory vnímána jako nežádoucí. Tři čtvrtiny krajských zařízení uvádí na svých webových stránkách okolnosti, které určité zájemce odradí a zařízení je tím eliminuje. Ochránce se proto v letošním roce v rámci dohledu nad omezováním svobody ochránce zaměřní na prevenci špatného zacházení se seniory, zejména na péči o seniory trpící demencí. </p>"
 ---

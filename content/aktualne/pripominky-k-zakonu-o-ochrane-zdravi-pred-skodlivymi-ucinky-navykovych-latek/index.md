@@ -2,7 +2,7 @@
 title: "Připomínky k zákonu o ochraně zdraví před škodlivými účinky návykových látek"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2015/pripominky-k-zakonu-o-ochrane-zdravi-pred-skodlivymi-ucinky-navykovych-latek/"
+oldUrl: "/aktualne/tiskove-zpravy-2015/pripominky-k-zakonu-o-ochrane-zdravi-pred-skodlivymi-ucinky-navykovych-latek/"
 date: 2015-02-27
 perex: "<p>Veřejná ochránkyně práv vznesla připomínky k návrhu zákona o ochraně zdraví před škodlivými účinky tabáku, alkoholu a jiných návykových látek. Vychází přitom z poznatků z návštěv protialkoholních záchytných stanic.</p>"
 ---

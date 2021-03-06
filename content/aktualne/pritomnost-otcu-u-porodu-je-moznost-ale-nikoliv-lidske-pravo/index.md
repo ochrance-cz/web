@@ -2,7 +2,7 @@
 title: "Přítomnost otců u porodu je možnost, ale nikoliv lidské právo"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/pritomnost-otcu-u-porodu-je-moznost-ale-nikoliv-lidske-pravo/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/pritomnost-otcu-u-porodu-je-moznost-ale-nikoliv-lidske-pravo/"
 date: 2020-03-29
 perex: "<p>Vážná situace, ve které se dnes celá lidská společnost nachází, je jistě příležitostí zamyslet nad tím, co jsou skutečná lidská práva člověka, která musí být v každé situaci a za každou cenu respektována a jejichž existence nesmí být nijak a nikdy ohrožena, a co jsou jen další možnosti, které rozšiřují míru svobody občana, ale nejsou pro zachování řádného fungování společnosti zásadní. A je tedy možné je, za určitých okolností, z dobrých důvodů omezit.</p>"
 ---

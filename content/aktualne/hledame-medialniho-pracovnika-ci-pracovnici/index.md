@@ -2,7 +2,7 @@
 title: "Hledáme mediálního pracovníka či pracovnici"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/hledame-medialniho-pracovnika-ci-pracovnici/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/hledame-medialniho-pracovnika-ci-pracovnici/"
 date: 2020-04-27
 perex: "<p>Do mediálního týmu hledáme pracovníka či pracovnici především na správu sociálních sítí. Uzávěrka přihlášek je už 6. května!</p>"
 ---

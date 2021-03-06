@@ -2,7 +2,7 @@
 title: "Nominace do poradního orgánu zástupkyně ombudsmana pro monitorování práv lidí se zdravotním postižením"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/nominace-do-poradniho-organu-zastupkyne-ombudsmana-pro-monitorovani-prav-lidi-se-zdravotnim/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/nominace-do-poradniho-organu-zastupkyne-ombudsmana-pro-monitorovani-prav-lidi-se-zdravotnim/"
 date: 2020-04-16
 perex: "<p>Ombudsman má za úkol monitorovat plnění Úmluvy o právech osob se zdravotním postižením. Působnost v této agendě byla svěřena zástupkyni ombudsmana Monice Šimůnkové. Jejím úkolem bude průběžně sledovat a upozorňovat na systémové nedostatky v oblasti práv lidí s postižením a také o nich informovat Výbor OSN pro práva lidí se zdravotním postižením. Na plnění těchto úkolů se bude podílet i poradní orgán, který nyní sestavuje. Až do 15. května nám můžete napsat, koho byste v poradním orgánu rádi viděli.</p>"
 ---

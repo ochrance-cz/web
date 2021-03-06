@@ -2,7 +2,7 @@
 title: "Ani v současné situaci nemůže nemocnice přítomnost rodičů u dítěte zcela vyloučit"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/ani-v-soucasne-situaci-nemuze-nemocnice-pritomnost-rodicu-u-ditete-zcela-vyloucit/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/ani-v-soucasne-situaci-nemuze-nemocnice-pritomnost-rodicu-u-ditete-zcela-vyloucit/"
 date: 2020-05-06
 perex: "<p>Dítě má při poskytování zdravotních služeb právo na nepřetržitou přítomnost rodiče a nemocnice to musí umožnit, pokud to není v rozporu s právními předpisy a vnitřním řádem a pokud to nenarušuje poskytování zdravotních služeb. I za současných podmínek by nemocnice měly přijmout potřebná hygienická a bezpečnostní opatření a umožnit co nejširší kontakt rodiče s hospitalizovaným dítětem.</p>"
 ---

@@ -2,9 +2,11 @@
 title: "Policejní prezident v reakci na dopis ombudsmana opětovně kontaktuje tvůrce pořadu „Policie v akci“, aby jim sdělil zásadní výhrady Policie ČR"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2021/policejni-prezident-vreakci-na-dopis-ombudsmana-opetovne-kontaktuje-tvurce-poradu-policie/"
+oldUrl: "/aktualne/tiskove-zpravy-2021/policejni-prezident-vreakci-na-dopis-ombudsmana-opetovne-kontaktuje-tvurce-poradu-policie/"
 date: 2021-03-01
-perex: "<p>Ombudsman se dopisem obrátil na policejního prezidenta s upozorněním na pořad TV Prima „Policie v akci“ zobrazující ve formě reality show policisty, kteří v rámci plnění běžných služebních povinností porušují zákony. Policejní prezident nyní přislíbil, že se na tvůrce pořadu s výtkami znovu obrátí. </p>"
+perex:
+  "<p>Ombudsman se dopisem obrátil na policejního prezidenta s upozorněním na pořad TV Prima „Policie v akci“ zobrazující ve formě reality show policisty, kteří v rámci plnění běžných služebních povinností porušují zákony. Policejní prezident nyní přislíbil, že se na tvůrce pořadu s výtkami znovu obrátí.
+  </p>"
 ---
 
 <!-- imported from the old website -->

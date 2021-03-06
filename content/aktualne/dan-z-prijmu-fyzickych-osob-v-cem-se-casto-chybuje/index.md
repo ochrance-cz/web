@@ -2,7 +2,7 @@
 title: "Daň z příjmů fyzických osob – v čem se často chybuje"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2019/dan-z-prijmu-fyzickych-osob-v-cem-se-casto-chybuje/"
+oldUrl: "/aktualne/tiskove-zpravy-2019/dan-z-prijmu-fyzickych-osob-v-cem-se-casto-chybuje/"
 date: 2019-03-13
 perex: "<p>Ombudsman řeší každý rok případy lidí, kteří chybují v daňovém přiznání k dani z příjmů fyzických osob.  Minulý rok se nejvíce podnětů týkalo slevy na dani na manžela nebo manželku. Přinášíme proto základní popis toho, kdy lze tuto slevu uplatnit. Daňové přiznání za rok 2018 je třeba podat nejpozději 1. dubna 2019. </p>"
 ---

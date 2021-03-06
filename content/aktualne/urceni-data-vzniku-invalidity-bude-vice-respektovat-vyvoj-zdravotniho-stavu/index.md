@@ -2,7 +2,7 @@
 title: "Určení data vzniku invalidity bude více respektovat vývoj zdravotního stavu"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/urceni-data-vzniku-invalidity-bude-vice-respektovat-vyvoj-zdravotniho-stavu/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/urceni-data-vzniku-invalidity-bude-vice-respektovat-vyvoj-zdravotniho-stavu/"
 date: 2020-05-07
 perex: "<p>Určení data vzniku invalidity pro přiznání invalidního důchodu už by mělo vycházet výhradně z řádně zjištěného vývoje zdravotního stavu žadatele. Česká správa sociálního zabezpečení na doporučení ombudsmana změnila svůj vnitřní předpis a nebude už určení data vzniku invalidity odvíjet od data, které žadatel uvedl v žádosti o invalidní důchod. Datum se bude určovat podle vývoje zdravotního stavu ke dni, kdy invalidita skutečně vznikla.</p>"
 ---

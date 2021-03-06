@@ -2,7 +2,7 @@
 title: "Komentář ombudsmanky: Záminka pro omezování práv"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2019/komentar-ombudsmanky-zaminka-pro-omezovani-prav/"
+oldUrl: "/aktualne/tiskove-zpravy-2019/komentar-ombudsmanky-zaminka-pro-omezovani-prav/"
 date: 2019-03-14
 perex: "<p>Veřejná kontrola a rychlost stavebního řízení nejsou v opozici. </p>"
 ---

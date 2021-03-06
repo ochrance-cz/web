@@ -2,7 +2,7 @@
 title: "Na většinu doporučení ochránkyně zákonodárci slyší"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2015/na-vetsinu-doporuceni-ochrankyne-zakonodarci-slysi/"
+oldUrl: "/aktualne/tiskove-zpravy-2015/na-vetsinu-doporuceni-ochrankyne-zakonodarci-slysi/"
 date: 2015-03-18
 perex: "<p>67 % legislativních doporučení za roky 2012 a 2013, která ochránkyně a její předchůdce Poslanecké sněmovně předložili, již bylo přijato nebo se potřebná změna právní úpravy připravuje.</p>"
 ---

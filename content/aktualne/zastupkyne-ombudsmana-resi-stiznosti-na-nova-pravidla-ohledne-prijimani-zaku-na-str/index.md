@@ -2,7 +2,7 @@
 title: "Zástupkyně ombudsmana řeší stížnosti na nová pravidla ohledně přijímání žáků na střední školy"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/zastupkyne-ombudsmana-resi-stiznosti-na-nova-pravidla-ohledne-prijimani-zaku-na-str/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/zastupkyne-ombudsmana-resi-stiznosti-na-nova-pravidla-ohledne-prijimani-zaku-na-str/"
 date: 2020-04-24
 perex: "<p>Letošní maturity a přijímací řízení na střední školy upravuje nový zákon, který vstoupil v platnost na konci března. V této souvislosti se na zástupkyni ombudsmana Moniku Šimůnkovou obrací stěžovatelé, kteří nesouhlasí s některými nově zavedenými pravidly. Jedná se především o stanovení jednoho termínu přijímací zkoušky místo dvou a dále o nemožnost odvolání proti rozhodnutí o nepřijetí ke studiu. Zástupkyně ombudsmana se proto v této věci obrátila dopisem na ministra školství. </p>"
 ---

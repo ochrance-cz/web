@@ -2,9 +2,11 @@
 title: "Monika Šimůnková se zúčastnila konference o inkluzivním vzdělávání na kanadském velvyslanectví"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/monika-simunkova-se-zucastnila-konference-o-inkluzivnim-vzdelavani-na-kanadskem-velvyslan/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/monika-simunkova-se-zucastnila-konference-o-inkluzivnim-vzdelavani-na-kanadskem-velvyslan/"
 date: 2020-03-12
-perex: "<p>Zástupkyně ombudsmana Monika Šimůnková se zúčastnila konference o inkluzivním vzdělávání, která se konala ve středu 11. března na kanadském velvyslanectví v Praze. Ve svém úvodním příspěvku shrnula svůj názor na aktuální situaci v oblasti inkluze, tedy vzdělávání, které zohledňuje na jedné straně individuální potřeby a jedinečnost každého dítěte a zároveň se snaží všechny děti v maximálně možné míře a kvalitě vzdělávat společně. Zmínila také výzkumy a doporučení předchozích ombudsmanů Pavla Varvařovského a Anny Šabatové, které se týkaly především kvality vzdělávání romských dětí a existence segregovaných škol. </p>"
+perex:
+  "<p>Zástupkyně ombudsmana Monika Šimůnková se zúčastnila konference o inkluzivním vzdělávání, která se konala ve středu 11. března na kanadském velvyslanectví v Praze. Ve svém úvodním příspěvku shrnula svůj názor na aktuální situaci v oblasti inkluze, tedy vzdělávání, které zohledňuje na jedné straně individuální potřeby a jedinečnost každého dítěte a zároveň se snaží všechny děti v maximálně možné míře a kvalitě vzdělávat společně. Zmínila také výzkumy a doporučení předchozích ombudsmanů Pavla Varvařovského a Anny Šabatové, které se týkaly především kvality vzdělávání romských dětí a existence segregovaných škol.
+  </p>"
 ---
 
 <!-- imported from the old website -->

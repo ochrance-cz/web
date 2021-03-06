@@ -2,7 +2,7 @@
 title: "Monika Šimůnková k porodům a omezením návštěv ve zdravotnických zařízeních"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/monika-simunkova-k-porodum-a-omezenim-navstev-ve-zdravotnickych-zarizenich/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/monika-simunkova-k-porodum-a-omezenim-navstev-ve-zdravotnickych-zarizenich/"
 date: 2020-04-03
 perex: "<p>Na základě mimořádného opatření ministerstva zdravotnictví je s účinností od 28. března 2020 nařízen zákaz návštěv pacientů ve zdravotnických zařízeních, ve kterých se poskytuje lůžková péče, s výjimkou (mimo jiné) návštěv nezletilých pacientů. Zároveň je tímto opatřením rovněž s některými výjimkami zakázána přítomnost třetích osob při porodu.</p>"
 ---

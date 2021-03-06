@@ -2,7 +2,7 @@
 title: "Monika Šimůnková k novele zákona o sociálně-právní ochraně dětí: ministerstvo nevyužilo šanci sjednotit péči"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/monika-simunkova-k-novele-zakona-o-socialne-pravni-ochrane-deti-ministerstvo-nevyuzilo/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/monika-simunkova-k-novele-zakona-o-socialne-pravni-ochrane-deti-ministerstvo-nevyuzilo/"
 date: 2020-01-30
 perex: "<p>Ombudsman již od roku 2006 upozorňuje na roztříštěnost péče o ohrožené děti. Situace se v této oblasti bohužel příliš nezlepšuje. V současnosti ombudsman připomínkuje návrh novely zákona o sociálně-právní ochraně dětí, který předkládá Ministerstvo práce a sociálních věcí. Zástupkyně ombudsmanky Monika Šimůnková upozorňuje na některé problematické body navrhovaného zákona. Ty se týkají například zajištění dostupnosti psychologické péče v zařízeních pro děti vyžadující okamžitou pomoc nebo problematické úpravy odměny pěstouna-prarodiče. </p>"
 ---

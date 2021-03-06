@@ -2,7 +2,7 @@
 title: "K situaci v „přerovském lazaretu“"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2015/k-situaci-v-prerovskem-lazaretu/"
+oldUrl: "/aktualne/tiskove-zpravy-2015/k-situaci-v-prerovskem-lazaretu/"
 date: 2015-02-03
 perex: "<p></p>"
 ---

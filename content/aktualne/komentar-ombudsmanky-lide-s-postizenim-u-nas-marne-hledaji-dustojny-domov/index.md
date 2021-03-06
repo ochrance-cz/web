@@ -2,7 +2,7 @@
 title: "Komentář ombudsmanky: Lidé s postižením u nás marně hledají důstojný domov"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/komentar-ombudsmanky-lide-s-postizenim-u-nas-marne-hledaji-dustojny-domov/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/komentar-ombudsmanky-lide-s-postizenim-u-nas-marne-hledaji-dustojny-domov/"
 date: 2020-02-13
 perex: "<p></p>"
 ---

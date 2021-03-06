@@ -2,7 +2,7 @@
 title: "Nedostatky v zákonech se daří odstraňovat dřív, než jsou schváleny"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2015/nedostatky-v-zakonech-se-dari-odstranovat-driv-nez-jsou-schvaleny/"
+oldUrl: "/aktualne/tiskove-zpravy-2015/nedostatky-v-zakonech-se-dari-odstranovat-driv-nez-jsou-schvaleny/"
 date: 2015-03-18
 perex: "<p>V roce 2014 uplatnila ochránkyně připomínky k celkem 34 návrhům právních předpisů a jejich předkladatelé se zabývali celkem 229 připomínkami veřejné ochránkyně práv. Nejvíce z nich se týkalo novely zákona o azylu a zákona o pobytu cizinců.</p>"
 ---

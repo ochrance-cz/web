@@ -2,7 +2,7 @@
 title: "Dluhy nemohou být důvodem odmítnutí poručnictví, zájem dítěte je důležitější"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/dluhy-nemohou-byt-duvodem-odmitnuti-porucnictvi-zajem-ditete-je-dulezitejsi/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/dluhy-nemohou-byt-duvodem-odmitnuti-porucnictvi-zajem-ditete-je-dulezitejsi/"
 date: 2020-04-07
 perex: "<p>Ústavní soud potvrdil, že při rozhodování o poručnictví nelze trestat za „hříchy z mládí“. V souladu s názorem zástupkyně ombudsmana Moniky Šimůnkové, vystupující v řízení jako opatrovník desetiletého chlapce s postižením, zrušil Ústavní soud rozhodnutí městského a krajského soudu, které odmítly jmenovat poručnicí ženu, v jejíž láskyplné péči chlapec dlouhodobě žije. </p>"
 ---

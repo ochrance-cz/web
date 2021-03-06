@@ -2,7 +2,7 @@
 title: "Zpráva o plnění Úmluvy o právech osob se zdravotním postižením"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/zprava-o-plneni-umluvy-o-pravech-osob-se-zdravotnim-postizenim/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/zprava-o-plneni-umluvy-o-pravech-osob-se-zdravotnim-postizenim/"
 date: 2020-04-17
 perex: "<p>Když v roce 2009 ratifikovala Česká republika Úmluvu o právech osob se zdravotním postižením, vznikla jí mimo jiné povinnost v pravidelných intervalech informovat Výbor OSN pro práva lidí s postižením (dále jen „Výbor“) o plnění této Úmluvy. Právě dnes (17. dubna) měla Česká republika předkládat Výboru pravidelnou zprávu a popsat, jaké kroky učinila, aby lidé s postižením mohli v naší zemi žít rovnoprávně s ostatními. S ohledem na celosvětovou situaci způsobenou pandemií koronaviru je termín posunut na zatím neznámé datum. </p>"
 ---

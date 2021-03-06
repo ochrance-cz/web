@@ -2,7 +2,7 @@
 title: "Komentář: Jizvy"
 vystupy:
   - tz
-oldUrl: "/aktualne2/aktualne/tiskove-zpravy-2020/komentar-jizvy/"
+oldUrl: "/aktualne/tiskove-zpravy-2020/komentar-jizvy/"
 date: 2020-03-23
 perex: "<p>V budoucnu nás čeká veliký úkol, pro jehož splnění můžeme mnohé učinit už dnes. Postarat se o to, aby rány, které jsme dosud utrpěli a které ještě utrpíme, se staly jen jizvami na našem „občansko-ekonomicko-společenském těle“, a nikoliv krvácejícími ranami, které budeme muset léčit dlouhý čas.</p>"
 ---
