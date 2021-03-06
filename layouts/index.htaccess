@@ -43,6 +43,13 @@ RewriteRule ^uploads/(.*)$ /uploads-import/uploads/$1 [R=301,L]
 RewriteRule ^dalsi-aktivity/archiv-vzdelavacich-akci.*$ /vzdelavaci-akce/? [R=301,L]
 RewriteRule ^fileadmin/user_upload/(.*)$ /uploads-import/$1 [R=301,L]
 
+{{ range .Site.AllPages -}}
+{{ $link := .RelPermalink }}
+{{- with .Params.oldUrl }}
+Redirect 301 {{ . }} {{ $link | replaceRE "/$" "" }}
+{{- end -}}
+{{- end -}}
+
 Redirect 301 /zpravy-o-cinnosti/zpravy-pro-poslaneckou-snemovnu/ /dokument/2020
 Redirect 301 /monitorovani-prav-lidi-se-zdravotnim-postizenim/cim-se-zabyvame/vyzkumy/ https://eso.ochrance.cz
 Redirect 301 /monitorovani-prav-lidi-sezdravotnim-postizenim/poradni-organ /pusobnost/monitorovani-prav-osob-se-zdravotnim-postizenim
@@ -174,10 +181,3 @@ Redirect 301 /stiznosti-na-urady/jak-podat-stiznost/ /podejte-stiznost
 Redirect 301 /stiznosti-na-urady/jak-podat-stiznost/formulare-a-vzory-dalsi/ /
 Redirect 301 /stiznosti-na-urady/principy-dobre-spravy/ /
 Redirect 301 /stiznosti-na-urady/sankce/ /
-
-{{ range .Site.AllPages -}}
-{{ $link := .RelPermalink }}
-{{- with .Params.oldUrl }}
-Redirect 301 {{ . }} {{ $link | replaceRE "/$" "" }}
-{{- end -}}
-{{- end -}}
