@@ -185,6 +185,8 @@
       &::before {
         @include fa-icon($fa-var-search);
         width: 1.3em;
+        padding-left: 1px;
+        padding-right: 1px;
       }
     }
 

@@ -16,7 +16,6 @@ function initSearch() {
   var field = document.getElementById("search-field");
 
   if (!field) return;
-  field.focus();
 
   var debouncedSearch = debounce(function () {
     getJSON(
@@ -44,6 +43,17 @@ function initSearch() {
     .addEventListener("click", function (e) {
       e.preventDefault();
     });
+
+  field.focus();
+}
+
+function displayInfo(text, className) {
+  var f = document.createDocumentFragment(f);
+  var p = document.createElement("P");
+  if (className) p.classList.add("search-" + className);
+  p.innerHTML = text;
+  f.appendChild(p);
+  return f;
 }
 
 function displayResults(err, results) {
@@ -67,12 +77,16 @@ function displayResults(err, results) {
       if (searchedFor) {
         document.getElementById("searched-for").innerHTML =
           ": " + document.getElementById("search-field").value;
-        document.getElementById("search-results").innerHTML =
-          i18n[lang].noResults;
+        document.getElementById("search-results").innerHTML = "";
+        document
+          .getElementById("search-results")
+          .appendChild(displayInfo(i18n[lang].noResults));
       } else {
         document.getElementById("searched-for").innerHTML = "";
-        document.getElementById("search-results").innerHTML =
-          i18n[lang].typeSomething;
+        document.getElementById("search-results").innerHTML = "";
+        document
+          .getElementById("search-results")
+          .appendChild(displayInfo(i18n[lang].typeSomething));
       }
     }
   }
@@ -91,7 +105,9 @@ function displayResult(hit) {
   h.appendChild(a);
 
   var p = document.createElement("P");
-  p.innerHTML = hit._source.summary;
+  var shorter = hit._source.summary.split(" ").slice(0, 20).join(" ");
+  p.innerHTML =
+    shorter === hit._source.summary ? hit._source.summary : `${shorter}…`;
 
   f.appendChild(h);
   f.appendChild(p);
