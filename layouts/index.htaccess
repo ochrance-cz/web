@@ -18,12 +18,13 @@ AddOutputFilterByType DEFLATE text/css
 AddOutputFilterByType DEFLATE text/x-javascript
 
 ExpiresActive On
+ExpiresByType text/html "access plus 0 seconds"
 ExpiresByType image/jpg "access plus 1 year"
 ExpiresByType image/jpeg "access plus 1 year"
 ExpiresByType image/gif "access plus 1 year"
 ExpiresByType image/png "access plus 1 year"
 ExpiresByType text/css "access plus 1 year"
-ExpiresByType text/image/svg+xml "access plus 1 month"
+ExpiresByType image/svg+xml "access plus 1 month"
 ExpiresByType application/font-woff "access plus 1 year"
 ExpiresByType application/font-woff2 "access plus 1 year"
 ExpiresByType application/pdf "access plus 1 year"
@@ -38,8 +39,141 @@ RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 RewriteCond %{HTTP_HOST} !^www\. [NC]
 RewriteRule (.*) https://www.%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 
+RewriteRule ^uploads/(.*)$ /uploads-import/uploads/$1 [R=301,L]
 RewriteRule ^dalsi-aktivity/archiv-vzdelavacich-akci.*$ /vzdelavaci-akce/? [R=301,L]
 RewriteRule ^fileadmin/user_upload/(.*)$ /uploads-import/$1 [R=301,L]
+
+Redirect 301 /zpravy-o-cinnosti/zpravy-pro-poslaneckou-snemovnu/ /dokument/2020
+Redirect 301 /monitorovani-prav-lidi-se-zdravotnim-postizenim/cim-se-zabyvame/vyzkumy/ https://eso.ochrance.cz
+Redirect 301 /monitorovani-prav-lidi-sezdravotnim-postizenim/poradni-organ /pusobnost/monitorovani-prav-osob-se-zdravotnim-postizenim
+Redirect 301 /monitorovaniprav-lidi-se-zdravotnimpostizenim/cim-se-zabyvame/informacni-bulletin /vystupy/bulletin
+Redirect 301 /monitorovaniprav-lidi-se-zdravotnimpostizenim/cim-se-zabyvame/informacni-bulletin/ /vystupy/bulletin
+Redirect 301 /kancelar-vop/vysledkyhospodareni /provoz/rozpocet-a-hospodareni
+
+Redirect 301 /zvlastni-opravneni/ /vystupy
+Redirect 301 /zvlastni-opravneni/pripominky-k-zakonum/ /eso
+Redirect 301 /zvlastni-opravneni/ustavni-soud/ /eso
+Redirect 301 /zvlastni-opravneni/ustavni-soud/2014-ockovani/ /eso
+Redirect 301 /zvlastni-opravneni/vlada-cr/ /vystupy/pro-vladu
+
+Redirect 301 /ochrana-osob-omezenych-na-svobode/ /pusobnost/dohled-nad-omezovanim-osobni-svobody
+Redirect 301 /ochrana-osob-omezenych-na-svobode/neregistrovane-socialni-sluzby/ /pusobnost/dohled-nad-omezovanim-osobni-svobody
+Redirect 301 /ochrana-osob-omezenych-na-svobode/policejni-cely/ /pusobnost/dohled-nad-omezovanim-osobni-svobody
+Redirect 301 /ochrana-osob-omezenych-na-svobode/provadeni-navstev-zarizeni/co-je-spatne-zachazeni/ /pusobnost/dohled-nad-omezovanim-osobni-svobody
+Redirect 301 /ochrana-osob-omezenych-na-svobode/sankce/ /pusobnost/dohled-nad-omezovanim-osobni-svobody
+Redirect 301 /ochrana-osob-omezenych-na-svobode/veznice/ /pusobnost/dohled-nad-omezovanim-osobni-svobody
+Redirect 301 /ochrana-osob-omezenych-na-svobode/vyrocni-zpravy/ /pusobnost/dohled-nad-omezovanim-osobni-svobody
+Redirect 301 /ochrana-osob-omezenych-na-svobode/zarizeni-pro-deti/ /pusobnost/dohled-nad-omezovanim-osobni-svobody
+Redirect 301 /ochrana-osob-omezenych-na-svobode/zarizeni-socialnich-sluzeb/ /pusobnost/dohled-nad-omezovanim-osobni-svobody
+Redirect 301 /ochrana-osob-omezenych-na-svobode/zarizeni/zarizeni-pro-cizince /pusobnost/dohled-nad-omezovanim-osobni-svobody
+Redirect 301 /ochrana-osob-omezenych-na-svobode/zarizeni/zarizeni-ustavni-a-ochranne-vychovy/ /pusobnost/dohled-nad-omezovanim-osobni-svobody
+Redirect 301 /ochrana-osob-omezenych-na-svobode/zdravotnicka-zarizeni/ /pusobnost/dohled-nad-omezovanim-osobni-svobody
+Redirect 301 /ochrana-osob-omezenych-na-svobode/zdravotnicka-zarizeni/kojenecke-ustavy/ /pusobnost/dohled-nad-omezovanim-osobni-svobody
+Redirect 301 /ochrana-osob-omezenych-na-svobode/zdravotnicka-zarizeni/psychiatricke-nemocnice/ /pusobnost/dohled-nad-omezovanim-osobni-svobody
+
+Redirect 301 /monitorovani-prav-lidi-se-zdravotnim-postizenim/ /pusobnost/monitorovani-prav-osob-se-zdravotnim-postizenim
+Redirect 301 /monitorovani-prav-lidi-se-zdravotnim-postizenim/cim-se-zabyvame/doporuceni/ /pusobnost/monitorovani-prav-osob-se-zdravotnim-postizenim
+Redirect 301 /monitorovani-prav-lidi-se-zdravotnim-postizenim/cim-se-zabyvame/informacni-bulletin/ /pusobnost/monitorovani-prav-osob-se-zdravotnim-postizenim
+Redirect 301 /monitorovani-prav-lidi-se-zdravotnim-postizenim/poradni-organ/ /pusobnost/monitorovani-prav-osob-se-zdravotnim-postizenim
+Redirect 301 /monitorovani-prav-lidi-se-zdravotnim-postizenim/poradni-organ/clenove/ /pusobnost/monitorovani-prav-osob-se-zdravotnim-postizenim
+
+Redirect 301 /pusobnost-verejneho-ochrance-prav/ /o-nas
+Redirect 301 /rozdeleni-pusobnosti/ /o-nas
+
+Redirect 301 /verejny-ochrance-prav-ombudsman/ /o-nas/ombudsman
+Redirect 301 /verejny-ochrance-prav/ /o-nas/ombudsman
+Redirect 301 /zakon-o-verejnem-ochranci-prav/ /o-nas/predpisy
+Redirect 301 /zastupkyne-verejneho-ochrance-prav/ /o-nas/deputy
+
+Redirect 301 /kancelar-vop/detska-skupina/ /o-nas
+Redirect 301 /kancelar-vop/ochrana-osobnich-udaju/ /provoz/gdpr-a-ochrana-osobnich-udaju
+Redirect 301 /kancelar-vop/organizacni-struktura/ /provoz/zamestnanci-a-organizacni-struktura
+Redirect 301 /kancelar-vop/poskytovani-informaci-podle-zakona-c-1061999-sb/ /provoz/zakon-106-1999-sb
+Redirect 301 /kancelar-vop/povinne-zverejnovane-informace/ /provoz/povinne-zverejnovane-informace
+Redirect 301 /kancelar-vop/projekty-spoluprace/ /projekty
+Redirect 301 /kancelar-vop/projekty-spoluprace/sluzba-sita-na-miru/ /projekty
+Redirect 301 /kancelar-vop/pronajem-konferencnich-salu-a-ostatnich-prostor/ /provoz/pronajem-prostor
+Redirect 301 /kancelar-vop/registr-oznameni-dle-zakona-c-1592006-sb-o-stretu-zajmu/ /info106
+Redirect 301 /kancelar-vop/smlouvy/ /o-nas
+Redirect 301 /kancelar-vop/statut/ /o-nas
+Redirect 301 /kancelar-vop/statut/organizacni-rad/ /o-nas
+Redirect 301 /kancelar-vop/strategie-rozvoje-kancelare/ /o-nas
+Redirect 301 /kancelar-vop/verejne-zakazky/ /o-nas
+Redirect 301 /kancelar-vop/volna-mista-a-staze/ /o-nas
+Redirect 301 /kancelar-vop/vysledky-hospodareni/ /o-nas
+Redirect 301 /mezinarodnepravni-dokumenty/ /o-nas/predpisy
+
+Redirect 301 /pristupnost-webu/ /pristupnost/prohlaseni
+
+Redirect 301 /kontakty/ /kontakt
+Redirect 301 /kontakty/jak-se-k-nam-dostanete/ /kontakt
+
+Redirect 301 /historie/ /o-nas/historie
+Redirect 301 /historie/anna-sabatova/ /o-nas/historie
+Redirect 301 /historie/cesky-verejny-ochrance-prav/ /o-nas/historie
+Redirect 301 /historie/jitka-seitlova/ /o-nas/historie
+Redirect 301 /historie/judr-motejl-prvni-cesky-verejny-ochrance-prav/ /o-nas/historie
+Redirect 301 /historie/pavel-varvarovsky/ /o-nas/historie
+Redirect 301 /historie/stanislav-krecek/ /o-nas/historie
+
+Redirect 301 /diskriminace/ /pusobnost/rovne-zachazeni-a-diskriminace
+Redirect 301 /diskriminace/aktuality-z-diskriminace/aktuality-z-diskriminace-2017/ /pusobnost/rovne-zachazeni-a-diskriminace
+Redirect 301 /diskriminace/doporuceni/ /pusobnost/rovne-zachazeni-a-diskriminace
+Redirect 301 /diskriminace/pomoc-obetem-diskriminace/ /pusobnost/rovne-zachazeni-a-diskriminace
+Redirect 301 /diskriminace/pomoc-obetem-diskriminace/bezplatna-pravni-pomoc-obetem-diskriminace/ /pusobnost/rovne-zachazeni-a-diskriminace
+Redirect 301 /diskriminace/pomoc-obetem-diskriminace/chcete-si-stezovat-na-diskriminaci/ /pusobnost/rovne-zachazeni-a-diskriminace
+Redirect 301 /diskriminace/pomoc-obetem-diskriminace/co-je-co-neni-diskriminace/ /pusobnost/rovne-zachazeni-a-diskriminace
+Redirect 301 /diskriminace/pomoc-obetem-diskriminace/situacni-testovani/ /pusobnost/rovne-zachazeni-a-diskriminace
+Redirect 301 /diskriminace/pripady-ochrance/diskriminace-dle-oblasti/vzdelavani/ /pusobnost/rovne-zachazeni-a-diskriminace
+Redirect 301 /diskriminace/pripady-ochrance/diskriminace-dle-zakazanych-duvodu/diskriminace-na-zaklade-pohlavi/ /pusobnost/rovne-zachazeni-a-diskriminace
+Redirect 301 /diskriminace/pripady-ochrance/diskriminace-dle-zakazanych-duvodu/diskriminace-na-zaklade-veku /pusobnost/rovne-zachazeni-a-diskriminace
+
+Redirect 301 /diskriminace/vyrocni-zpravy/ /vystupy/vyrocni-zprava
+Redirect 301 /diskriminace/vyzkum/ https://eso.ochrance.cz
+
+Redirect 301 /dalsi-aktivity/ /o-nas
+Redirect 301 /dalsi-aktivity/elektronicky-zpravodaj/ /o-nas
+Redirect 301 /dalsi-aktivity/publikace/ /vystupy/publikace
+Redirect 301 /dalsi-aktivity/publikace/sborniky-stanoviska/ /vystupy/publikace
+Redirect 301 /dalsi-aktivity/publikace/sborniky-stanoviska/rodina-a-dite-dodatky/rodina-a-dite-obecne-dodatky/ /vystupy/publikace
+Redirect 301 /dalsi-aktivity/publikace/sborniky-z-konferenci/ /vystupy/publikace
+Redirect 301 /dalsi-aktivity/tv-serial/ /vystupy/tv
+Redirect 301 /dalsi-aktivity/videonavod/ /eso
+
+Redirect 301 /aktualne/tiskove-zpravy-2006/ /aktualne
+Redirect 301 /aktualne/tiskove-zpravy-2007/ /aktualne
+Redirect 301 /aktualne/tiskove-zpravy-2009/ /aktualne
+Redirect 301 /aktualne/tiskove-zpravy-2010/ /aktualne
+Redirect 301 /aktualne/tiskove-zpravy-2011/ /aktualne
+Redirect 301 /aktualne/tiskove-zpravy-2012/ /aktualne
+Redirect 301 /aktualne/tiskove-zpravy-2013/ /aktualne
+Redirect 301 /aktualne/tiskove-zpravy-2014/ /aktualne
+Redirect 301 /aktualne/tiskove-zpravy-2015/ /aktualne
+Redirect 301 /aktualne/tiskove-zpravy-2016/ /aktualne
+Redirect 301 /aktualne/tiskove-zpravy-2017/ /aktualne
+Redirect 301 /aktualne/tiskove-zpravy-2018/ /aktualne
+Redirect 301 /aktualne/tiskove-zpravy-2019/ /aktualne
+Redirect 301 /aktualne/tiskove-zpravy-2020/ /aktualne
+Redirect 301 /aktualne/tiskove-zpravy-2021/ /aktualne
+
+Redirect 301 /en/news/press-releases-2007/ /en/news
+Redirect 301 /en/news/press-releases-2008/ /en/news
+Redirect 301 /en/news/press-releases-2010/ /en/news
+Redirect 301 /en/news/press-releases-2011/ /en/news
+Redirect 301 /en/news/press-releases-2013/ /en/news
+Redirect 301 /en/news/press-releases-2016/ /en/news
+Redirect 301 /en/news/press-releases-2018/ /en/news
+Redirect 301 /en/news/press-releases-2019/ /en/news
+
+Redirect 301 /stiznosti-na-urady/ /
+Redirect 301 /stiznosti-na-urady/chcete-si-stezovat/ /
+Redirect 301 /stiznosti-na-urady/chcete-si-stezovat/co-predchazi-stiznosti-ombudsmanovi/ /podejte-stiznost
+Redirect 301 /stiznosti-na-urady/chcete-si-stezovat/jak-probiha-setreni-dalsi/ /
+Redirect 301 /stiznosti-na-urady/chcete-si-stezovat/pravidla-elektronicke-komunikace/ /podejte-stiznost
+Redirect 301 /stiznosti-na-urady/jak-podat-stiznost/ /podejte-stiznost
+Redirect 301 /stiznosti-na-urady/jak-podat-stiznost/formulare-a-vzory-dalsi/ /
+Redirect 301 /stiznosti-na-urady/principy-dobre-spravy/ /
+Redirect 301 /stiznosti-na-urady/sankce/ /
 
 {{ range .Site.AllPages -}}
 {{ $link := .RelPermalink }}
