@@ -42,6 +42,7 @@
 
       label {
         @include button;
+        background: $white;
         padding: 0.5rem;
         font-weight: normal;
         white-space: nowrap;
@@ -83,6 +84,11 @@
           box-shadow: -2px 0px 10px rgba(0, 0, 0, 0.2);
 
           .title label {
+            position: relative;
+            background: $white;
+            z-index: 1;
+            box-shadow: 0 0 3px 3px rgba(0, 0, 0, 0.1);
+
             &::after {
               @include fa-icon($fa-var-times);
               width: 1.3em;
@@ -95,43 +101,56 @@
 
           nav > ul {
             position: absolute;
-            top: 4rem;
+            top: 0rem;
             left: 0;
             bottom: 0;
             right: 0;
             padding: 0 0.5rem;
             overflow: scroll;
             margin-bottom: 0;
-          }
 
-          ul {
-            display: block;
+            display: grid;
+            grid-template-columns: 1fr 80%;
             padding: 0;
+            margin: 0;
 
-            .dropdown-title {
-              display: block;
-              background: transparent;
-              @include font-family-bread;
-              @include font-size-m;
+            & > li {
+              grid-column: 1 / -1;
+            }
 
-              padding: 1rem 0.5rem 0;
-              margin: 0 0 1rem;
-              border: solid $border-gray;
-              border-width: 1px 0 0;
-              font-weight: bold;
-              width: 100%;
-              text-align: left;
+            & > li:nth-last-child(2) {
+              grid-row: 1;
+              grid-column: 2;
+              margin-top: 1.7rem;
+            }
+
+            & > li:last-child {
+              grid-row: 1;
+              grid-column: 1;
+              margin-left: 0.5rem;
+              margin-top: 1.7rem;
+            }
+
+            a {
+              color: $green;
+
+              &:hover {
+                text-decoration: none;
+              }
             }
 
             ul {
+              display: block;
               padding: 0;
-              margin: 0.5rem 0;
             }
 
             li {
               list-style-type: none;
-              margin: 0 0 1rem;
               padding: 0 0.5rem;
+            }
+
+            li.dropdown {
+              margin-bottom: 0;
             }
 
             li.group {
@@ -150,8 +169,41 @@
                 }
               }
             }
+
+            .dropdown-menu {
+              margin-bottom: 0;
+            }
+
+            .dropdown-title {
+              display: block;
+              background: transparent;
+              @include font-family-bread;
+              @include font-size-m;
+
+              padding: 1rem 0.5rem 0;
+              margin: 0 0 1rem;
+              border: solid $border-gray;
+              border-width: 1px 0 0;
+              font-weight: bold;
+              width: 100%;
+              text-align: left;
+            }
           }
         }
+      }
+    }
+
+    .search {
+      display: block;
+      float: left;
+      white-space: nowrap;
+      overflow: hidden;
+
+      &::before {
+        @include fa-icon($fa-var-search);
+        width: 1.3em;
+        padding-left: 1px;
+        padding-right: 1px;
       }
     }
   }
