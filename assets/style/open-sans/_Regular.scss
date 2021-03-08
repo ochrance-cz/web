@@ -1,8 +1,9 @@
 /* BEGIN Regular */
 @font-face {
-  font-family: 'Open Sans';
+  font-family: "Open Sans";
   @include fontdef($OpenSansPath, $OpenSansVersion, "Regular");
   font-weight: normal;
   font-style: normal;
+  font-display: swap;
 }
 /* END Regular */
