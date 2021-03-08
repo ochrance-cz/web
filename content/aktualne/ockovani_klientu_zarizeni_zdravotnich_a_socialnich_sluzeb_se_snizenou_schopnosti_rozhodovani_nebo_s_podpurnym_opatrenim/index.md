@@ -24,7 +24,7 @@ perex: "V lednu vydala zástupkyně ombudsmana Monika Šimůnková informačn�
 5. Doporučujeme, aby v případě klientů s omezenou svéprávností v oblasti zdravotních služeb či s opatrovníkem ustanoveným pro tuto oblast, vyžadoval poskytovatel udělení souhlasu s očkováním od opatrovníka i klienta, ledaže jej klient není schopen v žádné formě udělit. 
 6. V případě, že klient nemá zástupce ani jinou blízkou osobu a není schopen udělit souhlas s očkováním, doporučujeme, aby poskytovatel pobytových sociálních služeb či dlouhodobé zdravotní péče podal návrh soudu na ustanovení opatrovníka pro poskytnutí souhlasu s očkováním.   
 
- **Celé znění doporučení:** 
+**Celé znění doporučení:** 
 
 <https://eso.ochrance.cz/Nalezene/Edit/9016>
 
