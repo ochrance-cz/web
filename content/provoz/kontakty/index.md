@@ -7,33 +7,32 @@ sections:
       #### **JUDr. Stanislav Křeček**
 
       veřejný ochránce práv
-
-      **Sekretariát**
-      telefon: (+420) 542 542 777
-
-      ### **Právní asistent veřejného ochránce práv**
-
-      **Miroslav Frýdek**
-
-      telefon: (+420) 542 542 228
-
-      e-mail: miroslav.frydek@ochrance.cz
   - title: Zástupkyně veřejného ochránce práv
     intro: |-
       #### **Mgr. Monika Šimůnková**
 
       zástupkyně veřejného ochránce práv
-
-      **Sekretariát**
-      telefon: (+420) 542 542 666
-
+  - title: Sekretariát veřejného ochránce práv a jeho zástupkyně
+    intro: |-
       ### **Vedoucí sekretariátu veřejného ochránce práv a jeho zástupkyně**
 
       **Miroslav Přidal**
 
-      telefon: (+420) 542 542 779 
+      telefon: (+420) 542 542 779
 
       e-mail: miroslav.pridal@ochrance.cz
+
+
+
+
+
+      **Sekretariát veřejného ochránce práv**
+
+      (+420) 542 542 777
+
+      **Sekretariát zástupkyně veřejného ochránce práv**
+
+      (+420) 542 542 666
   - title: Vedoucí Kanceláře veřejného ochránce práv
     intro: |-
       **Pavel Pořízek**
