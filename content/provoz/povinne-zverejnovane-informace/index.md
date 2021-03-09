@@ -7,8 +7,6 @@ links:
     link: /provoz/rozpocet-a-hospodareni
   - text: Nejdůležitější používané předpisy
     link: /o-nas/predpisy
-  - text: Přehled účelů zpracování osobních údajů
-    link: Info_dle_101.pdf
 ---
 
 ## Název
