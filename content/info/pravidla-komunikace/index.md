@@ -7,7 +7,7 @@ Elektronická podatelna Kanceláře veřejného ochránce práv je určena pro p
 
 a) elektronickou poštou (e-mailem) na adresu elektronické podatelny [podatelna@ochrance.cz](mailto:podatelna@ochrance.cz)
 
-b) pomocí interaktivního on-line formuláře na portal.ochrance.cz
+b) pomocí interaktivního on-line formuláře na [portal.ochrance.cz](https://portal.ochrance.cz/).
 
 <p style="font-size:12px;">Upozorňujeme, že údaje, které o sobě uvedete při vyplňování on-line formuláře, pro nás zpracovává společnost GORDIC spol. s. r. o. se sídlem Erbenova 4, 586 01 Jihlava, IČ: 47903783 na základě smlouvy o hostingu www- podatelny ze dne 28. 3. 2003.Pokud se chcete obrátit na veřejnou ochránkyni přímo, zvolte <a href="/stiznosti-na-urady/jak-podat-stiznost/">jiný způsob podání stížnosti</a>.
 
