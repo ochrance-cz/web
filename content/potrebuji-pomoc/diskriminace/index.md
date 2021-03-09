@@ -56,12 +56,11 @@ examples:
       Podala jsem proto podnět ombudsmanovi. Díky jeho pomoci jsme byt získali a
       navíc se město poučilo, že se má k Romům chovat jako ke komukoli jinému.
     name: paní Věra
-  - desc: >
-      Je mi 71 let, jsem sice v důchodu, ale dál úspěšně podnikám a jsem
-      aktivní. S manželkou jsme se chystali do zahraničí s tím, že tam vypůjčíme
-      auto a budeme cestovat. Půjčovna aut vyžaduje jako garanci kreditní kartu,
-      ale tu mi banka u nás odmítla poskytnout, protože je mi nad 70 let.
-      Obrátil jsem se na ombudsmana, který upozornil banku, že jde o
+  - desc: Je mi 71 let, jsem sice v důchodu, ale dál úspěšně podnikám a jsem
+      aktivní. S manželkou jsme se chystali do zahraničí s tím, že si tam
+      vypůjčíme auto a budeme cestovat. Půjčovna aut vyžaduje jako garanci
+      kreditní kartu, ale tu mi banka u nás odmítla poskytnout, protože je mi
+      nad 70 let. Obrátil jsem se na ombudsmana, který upozornil banku, že jde o
       diskriminaci. Banka změnila názor a dnes vydává kreditku i starším
       klientům.
     name: pan Karel
