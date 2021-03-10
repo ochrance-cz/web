@@ -1,6 +1,15 @@
 ---
-title: Setup
+title: Nastavení webu
 ---
+
+# Web
+
+Deployment webu je jednoduchý — spusťte hugo v0.81.0 v kořenovém adresáři a
+umístěte na server složku ./public. V souboru .github/workflows/deploy.yml je popsaný automatický
+deploy pomocí Github Actions: build probíhá na Githubu, následně se přesouvá obsah pomocí SCP
+(rsync není na serveru dostupný) a ten se pak rozbalí.
+
+# Elastic search
 
 Kroky ke zprovoznění elasticsearch pro web ombudsman.cz na čisté VPS (Debian10), která běží na subdoméně.
 
