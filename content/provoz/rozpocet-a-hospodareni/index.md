@@ -1,6 +1,7 @@
 ---
 title: Rozpočet a výsledky hospodaření
 ---
+
 ## Rozpočet
 
 ### Rok 2021: Závazné ukazatele kapitoly 309 (v tis. Kč):
@@ -211,22 +212,23 @@ title: Rozpočet a výsledky hospodaření
 
 ### Závěrečné účty Kanceláře veřejného ochránce práv
 
-* [Závěrečný účet 2019](SZU_309_KVOP_2019.pdf)
-* [Závěrečný účet 2018](SZU_309_KVOP_2018.pdf)
-* [Závěrečný účet 2017](SZU_309_KVOP_2017.pdf)
-* [Závěrečný účet 2016](SZU_309_KVOP_2016.pdf)
-* [Závěrečný účet 2015](SZU_309_KVOP_2015.pdf)
-* [Závěrečný účet 2014](SZU_309_KVOP_2014.pdf)
-* [Závěrečný účet 2013](SZU_309_KVOP_2013.pdf)
-* [Závěrečný účet 2012](SZU_309_KVOP_2012.pdf)
-* [Závěrečný účet 2011](SZU_309_KVOP_2011.pdf)
-* [Závěrečný účet 2010](SZU_309_KVOP_2010.pdf)
-* [Závěrečný účet 2009](zaver_ucet_2009.pdf)
-* [Závěrečný účet 2008](szu_kvop_2008.pdf)
-* [Závěrečný účet 2007](szu_kvop_2007.pdf)
-* [Závěrečný účet 2006](szu_kvop_2006.pdf)
+- [Závěrečný účet 2019](SZU_309_KVOP_2020.pdf)
+- [Závěrečný účet 2019](SZU_309_KVOP_2019.pdf)
+- [Závěrečný účet 2018](SZU_309_KVOP_2018.pdf)
+- [Závěrečný účet 2017](SZU_309_KVOP_2017.pdf)
+- [Závěrečný účet 2016](SZU_309_KVOP_2016.pdf)
+- [Závěrečný účet 2015](SZU_309_KVOP_2015.pdf)
+- [Závěrečný účet 2014](SZU_309_KVOP_2014.pdf)
+- [Závěrečný účet 2013](SZU_309_KVOP_2013.pdf)
+- [Závěrečný účet 2012](SZU_309_KVOP_2012.pdf)
+- [Závěrečný účet 2011](SZU_309_KVOP_2011.pdf)
+- [Závěrečný účet 2010](SZU_309_KVOP_2010.pdf)
+- [Závěrečný účet 2009](zaver_ucet_2009.pdf)
+- [Závěrečný účet 2008](szu_kvop_2008.pdf)
+- [Závěrečný účet 2007](szu_kvop_2007.pdf)
+- [Závěrečný účet 2006](szu_kvop_2006.pdf)
 
 ### Roční zprávy Kanceláře veřejného ochránce práv
 
-* [Zpráva za rok 2006](rocni_zprava_kvop_2006.pdf)
-* [Zpráva za rok 2005](rocni_zprava_kvop_2005.pdf)
+- [Zpráva za rok 2006](rocni_zprava_kvop_2006.pdf)
+- [Zpráva za rok 2005](rocni_zprava_kvop_2005.pdf)
