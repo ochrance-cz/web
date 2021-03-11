@@ -212,7 +212,7 @@ title: Rozpočet a výsledky hospodaření
 
 ### Závěrečné účty Kanceláře veřejného ochránce práv
 
-- [Závěrečný účet 2019](SZU_309_KVOP_2020.pdf)
+- [Závěrečný účet 2020](SZU_309_KVOP_2020.pdf)
 - [Závěrečný účet 2019](SZU_309_KVOP_2019.pdf)
 - [Závěrečný účet 2018](SZU_309_KVOP_2018.pdf)
 - [Závěrečný účet 2017](SZU_309_KVOP_2017.pdf)
