@@ -2,6 +2,8 @@
 title: "Péče o děti se závislostí na návykových látkách v prostředí
   institucionální výchovy "
 date: 2021-03-12T09:26:08.835Z
+vystupy:
+  - tz
 perex: "Ve čtvrtek 4. března zástupkyně ombudsmana Monika Šimůnková uspořádala
   seminář k systému péče o děti se závislostí na návykových látkách v prostředí
   institucionální výchovy. Setkání se zúčastnili zástupci Úřadu vlády, MŠMT,
