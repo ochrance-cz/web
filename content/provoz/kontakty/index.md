@@ -438,6 +438,9 @@ lawyers:
         role: právnička
         phone: 542 542 227
         email: jana.vomelova@ochrance.cz
+      - name: Barbora Votoupalová
+        role: "právnička "
+        phone: "542 542 267 "
   - title: Odbor dohledu nad omezováním osobní svobody
     intro: >
       provádění systematických preventivních návštěv v zařízení, kde se mohou
@@ -538,6 +541,9 @@ lawyers:
         role: právnička
         email: veronika.vitkova@ochrance.cz
         phone: 542 542 250
+      - name: Romana Švecová
+        role: "právnička "
+        phone: 542 542 256
   - title: Odbor metodiky a analýzy
     people:
       - name: Jaroslav Švoma
