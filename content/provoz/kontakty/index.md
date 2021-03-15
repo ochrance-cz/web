@@ -300,6 +300,7 @@ lawyers:
       - name: Marie Poppeová
         role: "právnička (státní správa soudů) "
         phone: "542 542 321 "
+        email: marie.poppeova@ochrance.cz
   - title: Odbor rodiny, zdravotnictví a práce
     intro: veřejné zdravotní pojištění, stížnosti ve zdravotnictví, činnost OSPOD,
       ústavní výchova, evidence uchazečů o zaměstnání u Úřadu práce, inspekce
