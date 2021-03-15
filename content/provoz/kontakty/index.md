@@ -441,6 +441,7 @@ lawyers:
       - name: Barbora Votoupalová
         role: "právnička "
         phone: "542 542 267 "
+        email: barbora.votoupalova@ochrance.cz
   - title: Odbor dohledu nad omezováním osobní svobody
     intro: >
       provádění systematických preventivních návštěv v zařízení, kde se mohou
@@ -507,6 +508,7 @@ lawyers:
       - name: Gabriela Ungrová
         role: "právnička "
         phone: 542 542 373
+        email: gabriela.ungrova@ochrance.cz
   - title: Odbor ochrany práv osob se zdravotním postižením
     people:
       - name: Romana Jakešová
@@ -544,6 +546,7 @@ lawyers:
       - name: Romana Švecová
         role: "právnička "
         phone: 542 542 256
+        email: romana.svecova@ochrance.cz
   - title: Odbor metodiky a analýzy
     people:
       - name: Jaroslav Švoma
