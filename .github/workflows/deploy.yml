@@ -25,12 +25,12 @@ jobs:
         run: hugo
 
       - name: Compress build
-        run: tar -zcf build-${{ github.run_id }}.tar.gz ./public
+        run: tar -zcf build-${{ github.run_number }}.tar.gz ./public
 
       - name: Publish
         uses: nogsantos/scp-deploy@master
         with:
-          src: ./build-${{ github.run_id }}.tar.gz
+          src: ./build-${{ github.run_number }}.tar.gz
           host: ${{ secrets.SSH_HOSTNAME }}
           remote: /home/ochrance/public_html
           port: ${{ secrets.SSH_PORT }}
@@ -42,15 +42,15 @@ jobs:
         with:
           command: |
             cd /home/ochrance/public_html
-            echo ${{ github.run_id }} > GHRN.txt
-            mkdir www-${{ github.run_id }}
-            tar -xf build-${{ github.run_id }}.tar.gz -C ./www-${{ github.run_id }} --strip-components=2
-            if [[ $(<GHRN.txt) > ${{ github.run_id }} ]]; then
+            echo ${{ github.run_number }} > GHRN.txt
+            mkdir www-${{ github.run_number }}
+            tar -xf build-${{ github.run_number }}.tar.gz -C ./www-${{ github.run_number }} --strip-components=2
+            if [[ $(<GHRN.txt) > ${{ github.run_number }} ]]; then
               echo "Newer Github workflow detected. Aborting directory overwrite."
-              rm -rf www-${{ github.run_id }}
+              rm -rf www-${{ github.run_number }}
             else
               mv www-prod www-old
-              mv www-${{ github.run_id }} www-prod
+              mv www-${{ github.run_number }} www-prod
               rm aktualne
               rm alert
               rm apple-touch-icon.png
@@ -147,7 +147,7 @@ jobs:
               ln -s www-prod/.htaccess .htaccess
               rm -rf www-old
             fi
-            rm build-${{ github.run_id }}.tar.gz
+            rm build-${{ github.run_number }}.tar.gz
           host: ${{ secrets.SSH_HOSTNAME }}
           username: ${{ secrets.SSH_USERNAME }}
           privateKey: ${{ secrets.SSH_PRIVATE_KEY }}
@@ -155,11 +155,11 @@ jobs:
         uses: garygrossgarten/github-action-ssh@release
         with:
           command: |
-            wget -O index-${{ github.run_id }}.json http://www.ochrance.cz/elastic.json
-            wget -O index-en-${{ github.run_id }}.json http://www.ochrance.cz/en/elastic.json
+            wget -O index-${{ github.run_number }}.json http://www.ochrance.cz/elastic.json
+            wget -O index-en-${{ github.run_number }}.json http://www.ochrance.cz/en/elastic.json
             curl -X DELETE 'http://localhost:9200/indices'
-            curl -H "Content-Type: application/x-ndjson" -XPOST "localhost:9200/cs/_bulk" --data-binary @index-${{ github.run_id }}.json
-            curl -H "Content-Type: application/x-ndjson" -XPOST "localhost:9200/en/_bulk" --data-binary @index-en-${{ github.run_id }}.json
+            curl -H "Content-Type: application/x-ndjson" -XPOST "localhost:9200/cs/_bulk" --data-binary @index-${{ github.run_number }}.json
+            curl -H "Content-Type: application/x-ndjson" -XPOST "localhost:9200/en/_bulk" --data-binary @index-en-${{ github.run_number }}.json
             curl http://localhost:9200/_cat/indices?v
           host: ${{ secrets.ELASTICUSER_HOSTNAME }}
           username: ${{ secrets.ELASTICUSER_USERNAME }}
