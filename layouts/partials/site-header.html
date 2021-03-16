@@ -11,12 +11,11 @@
 <header class="_site-header">
   <div class="backdrop">
     {{ if eq .Language.Lang "en" }}
-      <a class="root-link" href="/en/">
-
+      <a class="root-link" href="{{ .Site.BaseURL }}/en/">
         <img class="logo" src="{{ .Site.BaseURL }}{{ "/images/logo-en.svg" }}" width="200">
       </a>
     {{ else }}
-      <a class="root-link" href="/">
+      <a class="root-link" href="{{ .Site.BaseURL }}">
         <img class="logo" src="{{ .Site.BaseURL }}{{ "/images/logo.svg" }}" width="200">
       </a>
     {{ end }}
@@ -98,9 +97,9 @@
               {{ end }}
             {{ else }}
               {{ if eq .Language.Lang "cs" }}
-                <li><a href="{{ "/en/" | absURL }}" class="lang">EN</a></li>
+                <li><a href="{{ .Site.BaseURL }}{{ "/en/" | absURL }}" class="lang">EN</a></li>
               {{ else }}
-                <li><a href="{{ "/" | absURL }}" class="lang">CS</a></li>
+                <li><a href="{{ .Site.BaseURL }}{{ "/" | absURL }}" class="lang">CS</a></li>
               {{ end }}
             {{ end }}
           </ul>

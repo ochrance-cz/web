@@ -62,8 +62,11 @@
 
       {{ with .Params.button }}
         {{ $text := .text }}
-        {{ with $.GetPage .link }}
-          <p><a class="_button" href="{{ .Permalink }}">{{ $text }}</a></p>
+        {{ with .link }}
+          {{ $link := replaceRE "^/|/$" "" . }}
+          {{ with $.GetPage $link }}
+            <p><a class="_button" href="{{ .Permalink }}">{{ $text }}</a></p>
+          {{ end }}
         {{ end }}
 
       {{ end }}

@@ -13,7 +13,7 @@
       {{ if eq .Language.Lang "cs" }}
         <h2>{{ i18n "eso-docs" }}</h2>
         <p>
-          Ombudsman publikuje svá stanoviska prostřednictvím databáze <a href="/eso/">ESO</a> (Evidence stanovisek ombudsmana). Najdete v ní mimo jiné
+          Ombudsman publikuje svá stanoviska prostřednictvím databáze <a href="{{ .Site.BaseURL }}/eso/">ESO</a> (Evidence stanovisek ombudsmana). Najdete v ní mimo jiné
           {{ $docsCats := where (where .Site.Pages "Section" "eso") "Kind" "page"}}
           {{ range $index, $cat := $docsCats }}
             <strong>{{ $cat.Title }}</strong>
@@ -22,7 +22,7 @@
           {{ end }}.
         </p>
         <p>
-          <a class="_button" href="/eso/">Více informací o ESO</a>
+          <a class="_button" href="{{ .Site.BaseURL }}/eso/">Více informací o ESO</a>
         </p>
 
 
