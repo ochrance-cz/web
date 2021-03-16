@@ -409,6 +409,7 @@ export interface FolderCollection {
   path?: string;
   media_folder?: string;
   public_folder?: string;
+  preview_path?: string;
   editor: {
     preview: boolean;
   };
@@ -422,6 +423,7 @@ interface FolderConfig {
   path?: string;
   media_folder?: string;
   public_folder?: string;
+  preview_path?: string;
 }
 
 export const folderCollection = (
@@ -452,6 +454,8 @@ export const folderCollection = (
     d.media_folder = folderConfig.media_folder;
   if (folderConfig.public_folder !== undefined)
     d.public_folder = folderConfig.public_folder;
+  if (folderConfig.preview_path !== undefined)
+    d.preview_path = folderConfig.preview_path;
 
   return d;
 };

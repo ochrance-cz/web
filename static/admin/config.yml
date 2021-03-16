@@ -531,10 +531,28 @@ collections:
         name: body
         required: false
         widget: markdown
+      - label: Přílohy
+        name: attachments
+        required: false
+        label_singular: Příloha
+        widget: list
+        fields:
+          - label: Název přílohy
+            name: title
+            widget: string
+          - label: Soubor
+            name: file
+            required: false
+            widget: file
+          - label: Odkaz
+            name: link
+            required: false
+            widget: string
     create: true
     path: '{{slug}}/index'
     media_folder: ''
     public_folder: ''
+    preview_path: '/aktualne/{{slug}}'
   - name: dokument
     label: Dokumenty
     label_singular: dokument
@@ -546,6 +564,12 @@ collections:
       - label: Titulek
         name: title
         widget: string
+      - label: Datum publikování
+        name: date
+        required: false
+        widget: datetime
+        date_format: DD.MM.YYYY
+        time_format: false
       - label: Uložit jako draft
         name: draft
         required: false
@@ -590,10 +614,15 @@ collections:
             name: file
             required: false
             widget: file
+          - label: Odkaz
+            name: link
+            required: false
+            widget: string
     create: true
     path: '{{slug}}/index'
     media_folder: ''
     public_folder: ''
+    preview_path: '/dokument/{{slug}}'
   - name: onas
     label: O nás
     editor:
@@ -1398,6 +1427,7 @@ collections:
     path: '{{slug}}/index'
     media_folder: ''
     public_folder: ''
+    preview_path: '/aktualne/{{slug}}'
   - name: dokument-en
     label: Dokumenty (EN)
     label_singular: dokument (en)
@@ -1409,6 +1439,7 @@ collections:
     path: '{{slug}}/index'
     media_folder: ''
     public_folder: ''
+    preview_path: '/dokument/{{slug}}'
   - label: O nás (EN)
     name: onas-en
     files:

@@ -43,6 +43,13 @@ const fig = (title: string, name: string) =>
     }),
   ]);
 
+const attached = () =>
+  list("Přílohy", "Příloha", "attachments", [
+    title("Název přílohy"),
+    file("Soubor", "file"),
+    string("Odkaz", "link"),
+  ]);
+
 const cta = () =>
   object(
     "Kontaktní patička",
@@ -270,6 +277,7 @@ const dokument = folderCollection(
   "dokument",
   {
     folder: "content/dokument",
+    preview_path: "/dokument/{{slug}}",
     path: "{{slug}}/index",
     extension: "md",
     create: true,
@@ -278,6 +286,7 @@ const dokument = folderCollection(
   },
   [
     title("Titulek"),
+    datetime("Datum publikování", "date", { time_format: false }),
     boolean("Uložit jako draft", "draft"),
     relation("Štítky", "vystupy", {
       collection: "vystupy",
@@ -287,10 +296,7 @@ const dokument = folderCollection(
       multiple: true,
     }),
     markdown("Text", "body"),
-    list("Přílohy", "Příloha", "attachments", [
-      title("Název přílohy"),
-      file("Soubor", "file"),
-    ]),
+    attached(),
   ]
 );
 
@@ -426,6 +432,7 @@ const aktualne = folderCollection(
   "aktualne",
   {
     folder: "content/aktualne",
+    preview_path: "/aktualne/{{slug}}",
     path: "{{slug}}/index",
     extension: "md",
     create: true,
@@ -445,6 +452,7 @@ const aktualne = folderCollection(
     }),
     text("Perex", "perex"),
     markdown("Text", "body"),
+    attached(),
   ]
 );
 
