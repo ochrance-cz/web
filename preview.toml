@@ -1,4 +1,4 @@
-baseURL = "https://ochrance-preview.netlify.app"
+baseURL = "https://www.ochrance.cz/_preview/"
 defaultContentLanguage = "cs"
 languageCode = "cs"
 title = "Ombudsman - Preview"
