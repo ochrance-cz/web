@@ -2,9 +2,9 @@ name: Publish preview
 
 on:
   workflow_dispatch:
-#  push:
-#    branches:
-#      - main
+  push:
+    branches:
+      - main
 
 jobs:
   deploy:
@@ -35,5 +35,5 @@ jobs:
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@4.0.0
         with:
-          branch: gh-pages
+          branch: preview
           folder: public
