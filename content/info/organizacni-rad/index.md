@@ -4,7 +4,6 @@ links:
   - text: "Příloha: Organizační struktura"
     link: /provoz/zamestnanci-a-organizacni-struktura
 ---
-
 V souladu s ustanovením § 25 odst. 2 zákona č. 349/1999 Sb., o veřejném ochránci práv, ve znění pozdějších předpisů, a čl. 3 Statutu Kanceláře veřejného ochránce práv ze dne 25. 2. 2013 vydává veřejný ochránce práv (dále jen „ochránce“) tento organizační řád:
 
 ## Čl. I<br>Základní ustanovení
@@ -37,13 +36,13 @@ c) v rámci výkonu svěřených činností odpovídá vedoucímu Kanceláře za
 
 d) v rámci výkonu svěřených činností je prvoinstančním orgánem v řízení podle zákona č. 106/1999 Sb., o svobodném přístupu k informacím, ve znění pozdějších předpisů.
 
-(6) **Právní sekce**[^1]</sup> se člení na
+(6) **Právní sekce**[^1] se člení na
 
 a) sekretariát právní sekce,
 
 b) úsek výzkumu,
 
-c) odbor[^2]</sup> stavebního řádu a životního prostředí,
+c) odbor[^2] stavebního řádu a životního prostředí,
 
 d) odbor veřejného pořádku a místní správy,
 
@@ -461,5 +460,5 @@ V Brně dne 31. prosince 2017
 
 Mgr. Anna Šabatová, Ph.D., veřejná ochránkyně práv
 
-[^1]: Pokud účinné vnitřní řídící akty ochránce a vedoucího Kanceláře používají pojem „odbor právní“, je tím myšlena „právní sekce“.</i>
-[^2]: Pokud účinné vnitřní řídící akty ochránce a vedoucího Kanceláře používají pojem „oddělení odboru právního“, je tím myšlen „odbor právní sekce“.</i>
+[^1]: Pokud účinné vnitřní řídící akty ochránce a vedoucího Kanceláře používají pojem „odbor právní“, je tím myšlena „právní sekce“.
+[^2]: Pokud účinné vnitřní řídící akty ochránce a vedoucího Kanceláře používají pojem „oddělení odboru právního“, je tím myšlen „odbor právní sekce“.
