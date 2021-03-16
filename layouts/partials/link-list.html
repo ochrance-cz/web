@@ -3,7 +3,7 @@
   {{ range .list }}
     <li><a href="
       {{ with .file }}
-        {{- . | absURL -}}
+        {{- (print $page.Permalink (replaceRE "^.+/" "" .)) -}}
       {{ else }}
         {{ if (findRE "^http" .link) }}
           {{- .link -}}
