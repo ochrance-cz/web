@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zdravotnictví on Ombudsman - Preview</title>
+    <link>https://ochrance-preview.netlify.app/situace/zdravotnictvi/</link>
+    <description>Recent content in Zdravotnictví on Ombudsman - Preview</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cs</language><atom:link href="https://ochrance-preview.netlify.app/situace/zdravotnictvi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pobyt na psychiatrii</title>
+      <link>https://ochrance-preview.netlify.app/letaky/psychiatricka-nemocnice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ochrance-preview.netlify.app/letaky/psychiatricka-nemocnice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zdravotnictví - stížnosti ve zdravotnictví</title>
+      <link>https://ochrance-preview.netlify.app/letaky/zdravotnictvi-stiznosti/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ochrance-preview.netlify.app/letaky/zdravotnictvi-stiznosti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zdravotní pojištění</title>
+      <link>https://ochrance-preview.netlify.app/letaky/zdravotni-pojisteni/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ochrance-preview.netlify.app/letaky/zdravotni-pojisteni/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

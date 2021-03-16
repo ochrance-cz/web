@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>O kanceláři veřejného ochránce práv on Ombudsman - Preview</title>
+    <link>https://ochrance-preview.netlify.app/o-nas/</link>
+    <description>Recent content in O kanceláři veřejného ochránce práv on Ombudsman - Preview</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cs</language><atom:link href="https://ochrance-preview.netlify.app/o-nas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Historie úřadu ombudsmana</title>
+      <link>https://ochrance-preview.netlify.app/o-nas/historie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ochrance-preview.netlify.app/o-nas/historie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Právní předpisy</title>
+      <link>https://ochrance-preview.netlify.app/o-nas/predpisy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ochrance-preview.netlify.app/o-nas/predpisy/</guid>
+      <description>Činnost Kanceláře veřejného ochránce práv se řídí dále zejména těmito předpisy:
+ nařízení vlády 165/2000 Sb., k provedení zákona o veřejném ochránci práv zákon č. 218/2000 Sb., o rozpočtových pravidlech, ve znění pozdějších předpisů, zákon č. 219/2000 Sb., o majetku České republiky a jejím vystupování v právních vztazích, ve znění pozdějších předpisů zákon č. 563/1991 Sb., o účetnictví, ve znění pozdějších předpisů  Další dokumenty   Benátské principy — principy ochrany a podpory ombudsmanských institucí (český neoficiální překlad, anglický originál)</description>
+    </item>
+    
+    <item>
+      <title>Veřejný ochránce práv</title>
+      <link>https://ochrance-preview.netlify.app/o-nas/ombudsman/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ochrance-preview.netlify.app/o-nas/ombudsman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zástupkyně veřejného ochránce práv</title>
+      <link>https://ochrance-preview.netlify.app/o-nas/deputy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ochrance-preview.netlify.app/o-nas/deputy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

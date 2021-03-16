@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ombudsman bez bariér on Ombudsman - Preview</title>
+    <link>https://ochrance-preview.netlify.app/pristupnost/</link>
+    <description>Recent content in Ombudsman bez bariér on Ombudsman - Preview</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cs</language><atom:link href="https://ochrance-preview.netlify.app/pristupnost/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bezbariérový přístup</title>
+      <link>https://ochrance-preview.netlify.app/pristupnost/budova/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ochrance-preview.netlify.app/pristupnost/budova/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Co dělá ombudsman? (Snadné čtení)</title>
+      <link>https://ochrance-preview.netlify.app/pristupnost/snadne-cteni/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ochrance-preview.netlify.app/pristupnost/snadne-cteni/</guid>
+      <description>Ombudsman je člověk, který pomáhá lidem.
+Má kancelář v Brně, ale pomáhá lidem z celé České republiky.
+Pomůže a poradí vám, když máte potíže s úřady.
+Ombudsman pomůže, když se k vám někdo chová hůř než k ostatním lidem.
+Také poradí a pomůže, když jste někde zavřeni a chovají se tam k vám špatně.
+Máte potíže s úřady Ombudsman vám pomůže, když úřady dělají něco špatně nebo nedělají, co by měly.</description>
+    </item>
+    
+    <item>
+      <title>Prohlášení o přístupnosti webu ochrance.cz</title>
+      <link>https://ochrance-preview.netlify.app/pristupnost/prohlaseni/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ochrance-preview.netlify.app/pristupnost/prohlaseni/</guid>
+      <description>Kancelář veřejného ochránce práv se zavazuje ke zpřístupnění obsahu svých internetových stránek v souladu se zákonem č. 99/2019 Sb., o přístupnosti internetových stránek a mobilních aplikací a o změně zákona č. 365/2000 Sb., o informačních systémech veřejné správy a o změně některých dalších zákonů, ve znění pozdějších předpisů, které provádějí směrnici Evropského parlamentu a Rady (EU) 2016/2102.
+Toto prohlášení o přístupnosti se vztahuje na internetové stránky www.ochrance.cz.
+Stav souladu Tyto webové stránky jsou částečně v souladu se zákonem č.</description>
+    </item>
+    
+  </channel>
+</rss>

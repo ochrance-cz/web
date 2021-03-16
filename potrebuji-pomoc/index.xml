@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ombudsman - Preview</title>
+    <link>https://ochrance-preview.netlify.app/potrebuji-pomoc/</link>
+    <description>Recent content on Ombudsman - Preview</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cs</language><atom:link href="https://ochrance-preview.netlify.app/potrebuji-pomoc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cítím se být diskriminován</title>
+      <link>https://ochrance-preview.netlify.app/potrebuji-pomoc/diskriminace/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ochrance-preview.netlify.app/potrebuji-pomoc/diskriminace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jsem dítě a hledám pomoc v nesnázích</title>
+      <link>https://ochrance-preview.netlify.app/potrebuji-pomoc/dite/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ochrance-preview.netlify.app/potrebuji-pomoc/dite/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mám problém s úřadem nebo státní institucí</title>
+      <link>https://ochrance-preview.netlify.app/potrebuji-pomoc/problem-s-uradem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ochrance-preview.netlify.app/potrebuji-pomoc/problem-s-uradem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nevím si rady se svou životní situací</title>
+      <link>https://ochrance-preview.netlify.app/potrebuji-pomoc/nevite-si-rady/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ochrance-preview.netlify.app/potrebuji-pomoc/nevite-si-rady/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Potýkám se s problémy kvůli svému postižení</title>
+      <link>https://ochrance-preview.netlify.app/potrebuji-pomoc/postizeni/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ochrance-preview.netlify.app/potrebuji-pomoc/postizeni/</guid>
+      <description>Snažíme se systematicky zlepšovat situaci lidí s postižením. Spolupracujeme přímo s lidmi s postižením, pravidelně navštěvujeme zařízení, kde jsou lidé s postižením, provádíme výzkumy.
+Budeme rádi, když nás upozorníte na problémy, s nimiž se lidé s postižením setkávají, abychom se na ně mohli zaměřit – třeba že se lidé na vozíku nemohou dostat do vlaku, že není dost tlumočníků do znakového jazyka, že chybí nějaké služby, které by lidem s postižením pomohly žít nezávisle apod.</description>
+    </item>
+    
+    <item>
+      <title>Špatně zacházejí s lidmi omezenými na svobodě</title>
+      <link>https://ochrance-preview.netlify.app/potrebuji-pomoc/omezeni-na-svobode/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ochrance-preview.netlify.app/potrebuji-pomoc/omezeni-na-svobode/</guid>
+      <description>Kontrolujeme zařízení, kde jsou lidé omezeni na svobodě:
+ Domovy pro seniory Domovy pro osoby se zdravotním postižením Dětské domovy Věznice Policejní cely Psychiatrické nemocnice Léčebny dlouhodobě nemocných Zařízení pro zajištění cizinců a další.  Kontroly provádíme bez ohlášení, abychom zjistili, jak to v nich doopravdy vypadá, jak se v nich s lidmi zachází.</description>
+    </item>
+    
+  </channel>
+</rss>

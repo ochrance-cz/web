@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Provozní informace on Ombudsman - Preview</title>
+    <link>https://ochrance-preview.netlify.app/en/provoz/</link>
+    <description>Recent content in Provozní informace on Ombudsman - Preview</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cs</language><atom:link href="https://ochrance-preview.netlify.app/en/provoz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GDPR and personal data protection</title>
+      <link>https://ochrance-preview.netlify.app/en/provoz/gdpr-a-ochrana-osobnich-udaju/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ochrance-preview.netlify.app/en/provoz/gdpr-a-ochrana-osobnich-udaju/</guid>
+      <description>Under the General Data Protection Regulation,1 we are required to inform data subjects that the Office of the Public Defender of Rights is a personal data controller.
+Whose personal data we process, how and why? We process, i.e. collect and store in paper and electronic form, the following personal data:
+ personal data of persons who approach us with their complaints pursuant to the Public Defender of Rights Act,2 for the purposes of processing their complaint; personal data of those requesting information under the Free Access to Information Act,3 for the purposes of processing their request for information; personal data of persons deprived of liberty by a public authority or as a result of dependence on the care provided to them, who are present in facilities and other places listed by the Public Defender of Rights Act; we need the personal data in order to perform our statutory duties and prevent ill-treatment; personal data of our current and former employees and their family members, within the scope necessary for the performance of contractual arrangements and related legal obligations of the Office of the Public Defender of Rights as the employer; personal data of candidates seeking employment with the Office of the Public Defender of Rights, for the purposes of conducting the selection procedure and defence of potential legal claims; personal data of our contractual partners and their employees, for the purposes of performance of contractual obligations; personal data of participants in our awareness raising and educational events who give their consent to the processing of their personal data; persons captured on CCTV footage, for the purposes of protection of property and legitimate interests of the Office of the Public Defender of Rights and third parties.</description>
+    </item>
+    
+  </channel>
+</rss>

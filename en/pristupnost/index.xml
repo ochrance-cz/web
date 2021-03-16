@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pristupnosts on Ombudsman - Preview</title>
+    <link>https://ochrance-preview.netlify.app/en/pristupnost/</link>
+    <description>Recent content in Pristupnosts on Ombudsman - Preview</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cs</language><atom:link href="https://ochrance-preview.netlify.app/en/pristupnost/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Barrier-free access </title>
+      <link>https://ochrance-preview.netlify.app/en/pristupnost/budova/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ochrance-preview.netlify.app/en/pristupnost/budova/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What does the ombudsman do? (easy read)</title>
+      <link>https://ochrance-preview.netlify.app/en/pristupnost/snadne-cteni/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ochrance-preview.netlify.app/en/pristupnost/snadne-cteni/</guid>
+      <description>Ombudsman is a person who helps people.
+His office is in Brno, but he helps all the people in the Czech Republic.
+He can help and advise you if you have any problems with authorities.
+The Ombudsman can help you if somebody treats you worse than others.
+He can also advise and help you if you stay in a facility where they treat you badly.
+I have issues with authorities The Ombudsman can help you if the authorities are doing something wrong or when they are not doing what they should be doing.</description>
+    </item>
+    
+  </channel>
+</rss>

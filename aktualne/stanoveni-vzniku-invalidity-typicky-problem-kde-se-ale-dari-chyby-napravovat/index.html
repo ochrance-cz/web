@@ -1,0 +1,405 @@
+<!DOCTYPE html>
+<html lang="cs">
+
+<head>
+  <title>Stanovení vzniku invalidity – typický problém, kde se ale daří chyby napravovat</title>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="apple-touch-icon" sizes="180x180" href="https://ochrance-preview.netlify.app/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://ochrance-preview.netlify.app/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://ochrance-preview.netlify.app/favicon-16x16.png">
+
+
+  
+  <link rel="stylesheet" href="https://ochrance-preview.netlify.app/style/style.min.b9f7ce854e632705c321207767b59013f63469bed1a0cdc1a0991a329c35a83f.css">
+  
+
+  
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  
+
+  <link rel="preload" href="https://ochrance-preview.netlify.app/fonts/open-sans-fontface/fonts/Bold/OpenSans-Bold.woff" as="font" type="font/woff">
+  <link rel="preload" href="https://ochrance-preview.netlify.app/fonts/open-sans-fontface/fonts/Regular/OpenSans-Regular.woff" as="font" type="font/woff">
+  <link rel="preload" href="https://ochrance-preview.netlify.app/fonts/fontawesome-free-5.15.1-web/webfonts/fa-solid-900.woff2" as="font" type="font/woff2">
+  <link rel="preload" href="https://ochrance-preview.netlify.app/fonts/daxline/Fonts/5764632/aae167a7-9a23-484f-9760-d1b54002602f.woff2" as="font" type="font/woff2">
+  <link rel="preload" href="https://ochrance-preview.netlify.app/fonts/fontawesome-free-5.15.1-web/webfonts/fa-brands-400.woff2" as="font" type="font/woff2">
+
+  
+</head>
+<body>
+  
+    <p style="margin: 0; background: yellow; color: red; padding: 0.5rem 1rem">Náhled webu (vygenerováno 16 Mar 21 13:27 UTC<span id="elapsed" data-timestamp="1615901254"></span>)</p>
+    <script type="text/javascript">
+      var el = document.getElementById('elapsed');
+      var time = el.getAttribute('data-timestamp');
+      setInterval(function(){
+        var elapsed = (Date.now() / 1000) - time;
+        el.innerHTML = ' – před ' +
+          (elapsed < 60 ? Math.floor(elapsed) + ' s' :
+          elapsed < 60 * 60 ? Math.floor(elapsed/60) + ' min' :
+          elapsed < 60 * 60 * 24 ? Math.floor(elapsed/(60/60)) + 'hod' :
+          Math.floor(elapsed/(60/60*24)) + 'den');
+      }, 1000);
+    </script>
+  </script>
+  
+
+  
+  
+    <div class="_alert-strip">
+      <p>
+        AKTUÁLNĚ: <a href="../../alert/">Kvůli COVID-19 je vstup veřejnosti do Kanceláře veřejného ochránce práv možný v pondělí a ve středu v 8:00 – 16:00</a>
+      </p>
+    </div>
+  
+
+
+
+  
+
+<header class="_site-header">
+  <div class="backdrop">
+    
+      <a class="root-link" href="../../">
+        <img class="logo" src="https://ochrance-preview.netlify.app/images/logo.svg" width="200">
+      </a>
+    
+
+    <div class="_collapsible-nav">
+      <input type="checkbox" id="site-nav-toggle">
+      <label class="hide-nav" for="site-nav-toggle"></label>
+      <div class="box">
+        <h3 class="title">
+          <label for="site-nav-toggle">
+            Menu
+          </label>
+        </h3>
+
+        <nav aria-label="Hlavní menu">
+          <ul>
+            <li class="dropdown">
+              <button type="button" class="dropdown-title" aria-controls="help-dropdown">
+                Potřebuji pomoc
+              </button>
+              <ul class="dropdown-menu" id="help-dropdown">
+                
+                  
+<li>
+  <a
+    href="https://ochrance-preview.netlify.app/potrebuji-pomoc/problem-s-uradem/"
+    class="icon-arrow">Mám problém s úřadem nebo státní institucí</a>
+</li>
+
+                
+                  
+<li>
+  <a
+    href="https://ochrance-preview.netlify.app/potrebuji-pomoc/omezeni-na-svobode/"
+    class="icon-arrow">Špatně zacházejí s lidmi omezenými na svobodě</a>
+</li>
+
+                
+                  
+<li>
+  <a
+    href="https://ochrance-preview.netlify.app/potrebuji-pomoc/diskriminace/"
+    class="icon-arrow">Cítím se být diskriminován</a>
+</li>
+
+                
+                  
+<li>
+  <a
+    href="https://ochrance-preview.netlify.app/potrebuji-pomoc/postizeni/"
+    class="icon-arrow">Potýkám se s problémy kvůli svému postižení</a>
+</li>
+
+                
+                  
+<li>
+  <a
+    href="../../situace/"
+    class="icon-question">Nevím si rady se svou životní situací</a>
+</li>
+
+                
+                  
+<li>
+  <a
+    href="https://deti.ochrance.cz"
+    class="icon-kids">Jsem dítě a hledám pomoc v nesnázích</a>
+</li>
+
+                
+                <li><a href="https://portal.ochrance.cz">Správa a evidence podnětů</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+              <button type="button" class="dropdown-title" aria-controls="inst-dropdown">
+                Naše činnost
+              </button>
+              <ul class="dropdown-menu" id="inst-dropdown">
+                  
+                    
+<li>
+  <a
+    href="https://ochrance-preview.netlify.app/setreni/"
+    class="icon-arrow">Jak probíhá šetření?</a>
+</li>
+
+                  
+
+                  
+                    
+<li>
+  <a
+    href="https://ochrance-preview.netlify.app/vystupy/"
+    class="icon-arrow">Výstupy z činností</a>
+</li>
+
+                  
+
+                  
+                    
+<li>
+  <a
+    href="https://ochrance-preview.netlify.app/vzdelavaci-akce/"
+    class="icon-arrow">Vzdělávací akce</a>
+</li>
+
+                  
+
+                  
+                    
+<li>
+  <a
+    href="https://ochrance-preview.netlify.app/projekty/"
+    class="icon-arrow">Projekty a spolupráce KVOP</a>
+</li>
+
+                  
+
+                  
+                    
+<li>
+  <a
+    href="https://ochrance-preview.netlify.app/eso/"
+    class="icon-eso">ESO</a>
+</li>
+
+                  
+              </ul>
+            </li>
+            </li>
+            <li class="group">
+              <ul>
+                
+                  <li><a href="https://ochrance-preview.netlify.app/o-nas/">
+  
+    O nás
+  
+</a>
+</li>
+                
+                
+                  <li><a href="https://ochrance-preview.netlify.app/aktualne/">
+  
+    Aktuálně
+  
+</a>
+</li>
+                
+                
+                  <li><a href="https://ochrance-preview.netlify.app/kontakt/">
+  
+    Kontakt
+  
+</a>
+</li>
+                
+              </ul>
+            </li>
+            
+              <li><a href="https://ochrance-preview.netlify.app/hledat/" class="search">Hledání</a></li>
+            
+
+            
+              
+                <li><a href="https://ochrance-preview.netlify.app/en/" class="lang">EN</a></li>
+              
+            
+          </ul>
+        </nav>
+      </div>
+    </div>
+  </div>
+</header>
+
+
+  
+<main>
+  <div class="_backdrop header ">
+  <header class="_text-header">
+    
+    
+      <p class="details">
+        Zveřejněno
+        
+          <time class="post-date " datetime="2017-03-29T00:00:00Z">29.&nbsp;března
+      2017</time>
+        
+        
+
+
+  <span class="_tags">
+    
+      <span class="_tag">Tisková zpráva</span>
+    
+  </span>
+
+
+      </p>
+    
+    <h1>Stanovení vzniku invalidity – typický problém, kde se ale daří chyby napravovat</h1>
+    <div class="perex ">
+      
+    </div>
+  </header>
+</div>
+
+
+  <div >
+    <section>
+      
+
+      <div class="perex">
+        <p>Chybné stanovení data vzniku invalidity ovlivňuje nejen výši invalidního důchodu, ale může být zásadní i pro přiznání invalidního důchodu vůbec. Naštěstí se&nbsp;veřejné ochránkyni práv dlouhodobě daří nedostatky v této oblasti napravovat a zajistit tak lidem, na co mají právo.</p>
+      </div>
+
+      <!-- imported from the old website -->
+<p>Posouzení zdravotního stavu vycházející z neúplných podkladů, nedostatečné odůvodnění posudku a zejména stanoveného data vzniku invalidity, to jsou typické problémy, s nimiž se veřejná ochránkyně práv opakovaně setkává. Dokládají to i dva případy, které úspěšně ukončila v uplynulém měsíci. V obou došlo k zásahu do práva na přiměřené sociální zabezpečení při nezpůsobilosti k práci. V jednom případě stěžovateli v důsledku chyby orgánu sociálního zabezpečení vůbec nebyl vyplácen invalidní důchod, přestože na něj měl nárok, ve druhém mělo špatně stanovené datum vzniku invalidity negativní vliv na výši invalidního důchodu.</p> <p>Ročně obdrží ochránkyně okolo dvou set podnětů týkajících se invalidních důchodů. Každý desátý končí zjištěním pochybení na straně orgánu sociálního zabezpečení.</p> <h4>Opomenutí trvající invalidity</h4> <p>Na ochránkyni se obrátil muž z Královéhradeckého kraje s žádostí o pomoc v těžké sociální situaci. Před lety vážně onemocněl a nemoc i léčba měly trvalé následky. Od roku 2003 byl kvůli svému stavu uznán plně invalidním, ale protože nesplnil potřebou dobu pěti let důchodového pojištění z posledních deseti let před vznikem invalidity, nemohl mu být invalidní důchod přiznán. Musel tak žít pouze ze sociálních dávek. </p> <p>Od 1. 1. 2010 došlo ke změně zákona a rozšířily se podmínky pro přiznávání invalidního důchodu. Nově na něj mají nárok lidé, kteří jsou ke dni vzniku invalidity starší 38 let a v období 20 let před vznikem invalidity získali dobu 10 let důchodového pojištění. Stěžovatel proto o invalidní důchod znovu požádal, v únoru 2010 byla provedena lékařská prohlídka a ke dni jejího konání byl uznán invalidním ve III. stupni. Podmínku získání potřebné doby pojištění pro přiznání invalidního důchodu (v jeho případě 10 let důchodového pojištění z doby 1990 – 2010) však opět nesplnil, takže mu nebyl přiznán. </p> <p>Veřejná ochránkyně práv se seznámila s podklady a konstatovala, že se ČSSZ dopustila v roce 2010 pochybení spočívajícího v neúplnosti a nepřesvědčivosti posudku o invaliditě. Posudkový lékař neuvedl, proč za datum vzniku invalidity III. stupně stanovil den konání lékařské prohlídky v roce 2010, když ze spisové dokumentace jasně vyplývá, že onemocnění stěžovatele způsobující dlouhodobě nepříznivý zdravotní stav vzniklo mnohem dříve (v roce 2003). Nevypořádal se také se skutečností, že plná invalidita stěžovatele nebyla nikdy oduznána (trvala nepřetržitě od roku 2003). V roce 2010 tak invalidita nemohla nově vzniknout, ale šlo o její pokračování, pouze pod novým označením (plná invalidita se od 1. 1. 2010 změnila na invaliditu III. stupně). Pokud by byl vznik invalidity správně stanoven k roku 2003, stěžovatel by podmínky pro nárok na invalidní důchod splnil (v roce 2003 byl starší 38 let a v letech 1983 – 2003 získal 10 let důchodového pojištění). Od účinnosti zákona, tj. od 1. 1. 2010 by tak mohl invalidní důchod dostávat.</p> <p>ČSSZ pochybení uznala, novým rozhodnutím potvrdila datum vzniku invalidity III. stupně v roce 2003. Následně stěžovateli přiznala a zpětně doplatila invalidní důchod od 1. 1. 2010.</p> <h4>Nedostatečné posouzení zdravotního stavu</h4> <p>Stěžovatelka z Jihomoravského kraje měla přiznaný invalidní důchod pro invaliditu III. stupně ve výši jen něco málo přes tři tisíce korun, tedy méně než je životní minimum. Požádala proto ochránkyni o přezkoumání přiznaného důchodu. Ve svém podnětu popsala, že k prvnímu náporu psychické nemoci, která je příčinou jejího dlouhodobě nepříznivého zdravotního stavu, došlo v roce 2003. Několik let se snažila vše zvládnout, dokončila studium a začala pracovat. O invalidní důchod požádala až v roce 2010. Datum vzniku invalidity bylo stanoveno na srpen 2010 a k tomuto datu jí byl přiznán invalidní důchod. </p> <p>Ochránkyně vyhodnotila posudek o invaliditě za neúplný a nepřesvědčivý. Nevycházel podle ní z úplně zjištěného skutkového stavu. Ochránkyně zjistila, že orgán sociálního zabezpečení neměl k dispozici dostatečnou podkladovou dokumentaci pro objektivní posouzení zdravotního stavu stěžovatelky. Ani na základě podkladů od stěžovatelky správní orgán nedošetřil relevantní dokumentaci. Podle ochránkyně si měl správní orgán od ošetřujícího lékaře vyžádat psychiatrickou dokumentaci stěžovatelky a zaměřit se na nálezy z období před rokem 2010. Z nich totiž vyplývá, že zdravotní postižení, pro něž je stěžovatelka invalidní ve III. stupni, jí bylo diagnostikováno už v roce 2007, příznaky se pak objevily ještě podstatně dříve.</p><p> Na základě šetření ochránkyně vydala ČSSZ nové rozhodnutí, kterým stěžovatelce přiznala invalidní důchod už od roku 2007 (nejprve ve II., později ve III. stupni). </p>
+
+
+      
+    </section>
+  </div>
+
+  <section class="_no-print">
+    <p>
+      <a href="#" onClick="window.print();">Vytisknout</a>
+    </p>
+
+    
+    <p>
+      <a class="_button back" href="../../aktualne/">Zpět na aktuality</a>
+    </p>
+    
+  </section>
+</main>
+
+
+  <div class="_backdrop footer">
+  <footer class="_site-footer">
+    <div class="cols">
+      
+
+      <section>
+        <h2>Získejte přehled</h2>
+        <ul>
+          
+            <li><a href="https://ochrance-preview.netlify.app/pristupnost/snadne-cteni/">Co dělá ombudsman? (Snadné čtení)</a></li>
+          
+          
+            <li><a href="https://ochrance-preview.netlify.app/situace/">Jste v tíživé životní situaci a potřebujete pomoct?</a></li>
+          
+          
+            <li><a href="https://ochrance-preview.netlify.app/vystupy/">Výstupy z činností</a></li>
+          
+          
+            <li><a href="https://ochrance-preview.netlify.app/o-nas/predpisy/">Právní předpisy</a></li>
+          
+        </ul>
+      </section>
+
+      <section class="stay-in-touch">
+        <h2>Buďme v kontaktu</h2>
+        <ul>
+          <li>
+            <span class="facebook-label">Facebook: </span>
+            <a href="https://fb.com/verejny.ochrance.prav">verejny.ochrance.prav</a>
+          </li>
+
+          <li>
+            <span class="twitter-label">Twitter: </span>
+            <a href="https://twitter.com/ochranceprav">@ochranceprav</a>
+          </li>
+
+          <li>
+            <span class="instagram-label">Instagram: </span>
+            <a href="https://www.instagram.com/verejny.ochrance.prav">verejny.ochrance.prav</a>
+          </li>
+
+          <li>
+            <span class="youtube-label">Youtube: </span>
+            <a href="https://www.youtube.com/channel/UCdWvuDhPr0GVH1mlSbWnNjQ">Ombudsman</a>
+          </li>
+        </ul>
+      </section>
+
+      <section class="stay-in-touch">
+        <h2>Ozvěte se nám</h2>
+
+        <ul>
+          <li>
+            <span class="email-label">e-mail: </span>
+            <a href="mailto:podatelna@ochrance.cz">podatelna@ochrance.cz</a>
+          </li>
+
+          <li>
+            <span class="phone-label">telefon: </span>
+            <span class="phone">542 542 888</span>
+          </li>
+
+        </ul>
+      </section>
+    </div>
+    <hr>
+    <div class="bottom-line">
+      <p>&copy; 2021 Kancelář veřejného ochránce práv
+        <a href="https://www.toplist.cz" style="margin-top: -20px;" id="toplist"></a>
+          <script language="JavaScript" type="text/javascript" charset="utf-8">
+            <!-- document.getElementById('toplist').innerHTML = ('<img src="https://toplist.cz/dot.asp?id=30867&http='+ encodeURIComponent(document.referrer)+'&t='+encodeURIComponent(document.title)+'&l='+encodeURIComponent(document.URL)+'&wi='+encodeURIComponent(window.screen.width)+'&he='+encodeURIComponent(window.screen.height)+'&cd='+encodeURIComponent(window.screen.colorDepth)+'" width="1" height="1" border=0 alt="TOPlist" />'); </script>
+          <noscript><img src="https://toplist.cz/dot.asp?id=30867&njs=1" border="0" alt="TOPlist" width="1" height="1" /></noscript>
+      </p>
+      <p class="a11y">
+          
+            <span class="mobile-p">Jsme přístupní</span> <a href="../../pristupnost/budova/" class="movement">lidem s pohybovým znevýhodněním,</a> <a href="../../pristupnost/" class="seeing">lidem se zrakovým znevýhodněním,</a> <a href="../../pristupnost/" class="hearing">lidem se sluchovým znevýhodněním,</a> <span class="mobile-p">i lidem s jinými <a href="../../pristupnost/">speciálními potřebami.</a>
+          
+        </span>
+      </p>
+   </div>
+  </footer>
+</div>
+
+
+  
+  <script src="https://ochrance-preview.netlify.app/scripts/index.min.fef0951a58460d16e80e8e9e093632d4194a284f5ee2bf44e869725cf2ba87e4.js"></script>
+
+  
+
+  
+  <script>
+    if (window.netlifyIdentity) {
+      window.netlifyIdentity.on("init", user => {
+        if (!user) {
+          window.netlifyIdentity.on("login", () => {
+            document.location.href = "/admin/";
+          });
+        }
+      });
+    }
+  </script>
+  
+</body>
+</html>

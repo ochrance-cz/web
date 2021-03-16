@@ -1,0 +1,696 @@
+<!DOCTYPE html>
+<html lang="cs">
+
+<head>
+  <title>Preambule</title>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="apple-touch-icon" sizes="180x180" href="https://ochrance-preview.netlify.app/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://ochrance-preview.netlify.app/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://ochrance-preview.netlify.app/favicon-16x16.png">
+
+
+  
+  <link rel="stylesheet" href="https://ochrance-preview.netlify.app/style/style.min.b9f7ce854e632705c321207767b59013f63469bed1a0cdc1a0991a329c35a83f.css">
+  
+<link href="../../umluva-player/jplayer/skin/blue.monday/css/jplayer.blue.monday.min.css" rel="stylesheet" type="text/css" />
+<style>
+.unavailable {
+  color: #777;
+  text-transform: uppercase;
+}
+
+.online-streaming {
+  display: block;
+  text-decoration: underline;
+  text-transform: uppercase;
+}
+
+.icon-eye svg {
+  fill: #008576;
+  margin-bottom: 3px;
+}
+
+ 
+.jp-type-playlist {
+    position: relative;
+}
+
+.jp-playlist li {
+    background: none;
+    text-indent: -5px;
+    padding-left: 0.5rem !important;
+    list-style-type: none !important;
+}
+
+.jp-playlist ul {
+    height: 100% !important;
+    max-height: 338px !important;
+    overflow: auto;
+    padding: 0px !important;
+}
+
+.jp-playlist a {
+    display: block;
+    padding: 5px 0;
+}
+
+.jp-playlist {
+    position: absolute;
+    right: -145px;
+    top: 0;
+    width: 140px;
+    border-top: 0;
+}
+
+#video-wrap {
+    margin-bottom: 2rem;
+}
+
+.csc-frame-frame1.active p {
+    color: #008576;
+    font-weight: bold;
+}
+
+#title-video {
+    margin-top: 0;
+}
+
+ 
+#c1004628,#c1005443 { display: inline-block; }
+#c1004628 ul.csc-menu-1 li,
+#c1005443 ul.csc-menu-1 li {
+  font-size: 1.5em;
+}
+</style>
+
+
+  
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  
+
+  <link rel="preload" href="https://ochrance-preview.netlify.app/fonts/open-sans-fontface/fonts/Bold/OpenSans-Bold.woff" as="font" type="font/woff">
+  <link rel="preload" href="https://ochrance-preview.netlify.app/fonts/open-sans-fontface/fonts/Regular/OpenSans-Regular.woff" as="font" type="font/woff">
+  <link rel="preload" href="https://ochrance-preview.netlify.app/fonts/fontawesome-free-5.15.1-web/webfonts/fa-solid-900.woff2" as="font" type="font/woff2">
+  <link rel="preload" href="https://ochrance-preview.netlify.app/fonts/daxline/Fonts/5764632/aae167a7-9a23-484f-9760-d1b54002602f.woff2" as="font" type="font/woff2">
+  <link rel="preload" href="https://ochrance-preview.netlify.app/fonts/fontawesome-free-5.15.1-web/webfonts/fa-brands-400.woff2" as="font" type="font/woff2">
+
+  
+</head>
+<body>
+  
+    <p style="margin: 0; background: yellow; color: red; padding: 0.5rem 1rem">Náhled webu (vygenerováno 16 Mar 21 13:27 UTC<span id="elapsed" data-timestamp="1615901262"></span>)</p>
+    <script type="text/javascript">
+      var el = document.getElementById('elapsed');
+      var time = el.getAttribute('data-timestamp');
+      setInterval(function(){
+        var elapsed = (Date.now() / 1000) - time;
+        el.innerHTML = ' – před ' +
+          (elapsed < 60 ? Math.floor(elapsed) + ' s' :
+          elapsed < 60 * 60 ? Math.floor(elapsed/60) + ' min' :
+          elapsed < 60 * 60 * 24 ? Math.floor(elapsed/(60/60)) + 'hod' :
+          Math.floor(elapsed/(60/60*24)) + 'den');
+      }, 1000);
+    </script>
+  </script>
+  
+
+  
+  
+    <div class="_alert-strip">
+      <p>
+        AKTUÁLNĚ: <a href="../../alert/">Kvůli COVID-19 je vstup veřejnosti do Kanceláře veřejného ochránce práv možný v pondělí a ve středu v 8:00 – 16:00</a>
+      </p>
+    </div>
+  
+
+
+
+  
+
+<header class="_site-header">
+  <div class="backdrop">
+    
+      <a class="root-link" href="../../">
+        <img class="logo" src="https://ochrance-preview.netlify.app/images/logo.svg" width="200">
+      </a>
+    
+
+    <div class="_collapsible-nav">
+      <input type="checkbox" id="site-nav-toggle">
+      <label class="hide-nav" for="site-nav-toggle"></label>
+      <div class="box">
+        <h3 class="title">
+          <label for="site-nav-toggle">
+            Menu
+          </label>
+        </h3>
+
+        <nav aria-label="Hlavní menu">
+          <ul>
+            <li class="dropdown">
+              <button type="button" class="dropdown-title" aria-controls="help-dropdown">
+                Potřebuji pomoc
+              </button>
+              <ul class="dropdown-menu" id="help-dropdown">
+                
+                  
+<li>
+  <a
+    href="https://ochrance-preview.netlify.app/potrebuji-pomoc/problem-s-uradem/"
+    class="icon-arrow">Mám problém s úřadem nebo státní institucí</a>
+</li>
+
+                
+                  
+<li>
+  <a
+    href="https://ochrance-preview.netlify.app/potrebuji-pomoc/omezeni-na-svobode/"
+    class="icon-arrow">Špatně zacházejí s lidmi omezenými na svobodě</a>
+</li>
+
+                
+                  
+<li>
+  <a
+    href="https://ochrance-preview.netlify.app/potrebuji-pomoc/diskriminace/"
+    class="icon-arrow">Cítím se být diskriminován</a>
+</li>
+
+                
+                  
+<li>
+  <a
+    href="https://ochrance-preview.netlify.app/potrebuji-pomoc/postizeni/"
+    class="icon-arrow">Potýkám se s problémy kvůli svému postižení</a>
+</li>
+
+                
+                  
+<li>
+  <a
+    href="../../situace/"
+    class="icon-question">Nevím si rady se svou životní situací</a>
+</li>
+
+                
+                  
+<li>
+  <a
+    href="https://deti.ochrance.cz"
+    class="icon-kids">Jsem dítě a hledám pomoc v nesnázích</a>
+</li>
+
+                
+                <li><a href="https://portal.ochrance.cz">Správa a evidence podnětů</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+              <button type="button" class="dropdown-title" aria-controls="inst-dropdown">
+                Naše činnost
+              </button>
+              <ul class="dropdown-menu" id="inst-dropdown">
+                  
+                    
+<li>
+  <a
+    href="https://ochrance-preview.netlify.app/setreni/"
+    class="icon-arrow">Jak probíhá šetření?</a>
+</li>
+
+                  
+
+                  
+                    
+<li>
+  <a
+    href="https://ochrance-preview.netlify.app/vystupy/"
+    class="icon-arrow">Výstupy z činností</a>
+</li>
+
+                  
+
+                  
+                    
+<li>
+  <a
+    href="https://ochrance-preview.netlify.app/vzdelavaci-akce/"
+    class="icon-arrow">Vzdělávací akce</a>
+</li>
+
+                  
+
+                  
+                    
+<li>
+  <a
+    href="https://ochrance-preview.netlify.app/projekty/"
+    class="icon-arrow">Projekty a spolupráce KVOP</a>
+</li>
+
+                  
+
+                  
+                    
+<li>
+  <a
+    href="https://ochrance-preview.netlify.app/eso/"
+    class="icon-eso">ESO</a>
+</li>
+
+                  
+              </ul>
+            </li>
+            </li>
+            <li class="group">
+              <ul>
+                
+                  <li><a href="https://ochrance-preview.netlify.app/o-nas/">
+  
+    O nás
+  
+</a>
+</li>
+                
+                
+                  <li><a href="https://ochrance-preview.netlify.app/aktualne/">
+  
+    Aktuálně
+  
+</a>
+</li>
+                
+                
+                  <li><a href="https://ochrance-preview.netlify.app/kontakt/">
+  
+    Kontakt
+  
+</a>
+</li>
+                
+              </ul>
+            </li>
+            
+              <li><a href="https://ochrance-preview.netlify.app/hledat/" class="search">Hledání</a></li>
+            
+
+            
+              
+                <li><a href="https://ochrance-preview.netlify.app/en/" class="lang">EN</a></li>
+              
+            
+          </ul>
+        </nav>
+      </div>
+    </div>
+  </div>
+</header>
+
+
+  
+<main>
+  <div class="_backdrop header ">
+  <header class="_text-header">
+    
+    
+    <h1>Preambule</h1>
+    <div class="perex ">
+      
+    </div>
+  </header>
+</div>
+
+
+  <div >
+    <section>
+      <div id="c1004673" class="csc-frame csc-frame-frame1">
+<div class="csc-textpic csc-textpic-center csc-textpic-above"><img src="../../uploads-import/uploads/pics/zastupny-obrazek_10.jpg" width="480" height="270" border="0" alt="" />
+<h2><a href="../../uploads-import/CRPD/Umluva/Uvod.mp4" target="_blank">Preambule</a>&nbsp;(1.2&nbsp;MB,&nbsp;MP4)</h2>
+</div>
+<div class="csc-textpic-clear"><!-- --></div></div>
+<div id="c1004672" class="csc-frame csc-frame-frame1">
+<div class="csc-textpic csc-textpic-center csc-textpic-above"><img src="../../uploads-import/uploads/pics/zastupny-obrazek_09.jpg" width="480" height="270" border="0" alt="" />
+<h2><a href="../../uploads-import/CRPD/Umluva/Uvod-1.mp4" target="_blank">Odst.</a>&nbsp;(1.7&nbsp;MB,&nbsp;MP4)</h2>
+<p>Státy, které jsou smluvní stranou této úmluvy, </p></div>
+<div class="csc-textpic-clear"><!-- --></div></div>
+<div id="c1005393" class="csc-frame csc-frame-frame1">
+<div class="csc-textpic csc-textpic-center csc-textpic-above"><img src="../../uploads-import/uploads/pics/zastupny-obrazek_5bcd80.jpg" width="480" height="270" border="0" alt="" />
+<h2><a href="../../uploads-import/CRPD/Umluva/Uvod-a.mp4" target="_blank">Odst.&nbsp;(a)</a>&nbsp;(8.9&nbsp;MB,&nbsp;MP4)</h2>
+<p>(a) majíce na&nbsp;zřeteli, že&nbsp;podle zásad vyhlášených v&nbsp;Chartě Organizace spojených národů je uznání přirozené důstojnosti a&nbsp;hodnoty a&nbsp;rovných a&nbsp;nezcizitelných práv všech členů lidské rodiny základem svobody, spravedlnosti a&nbsp;míru ve&nbsp;světě.</p></div>
+<div class="csc-textpic-clear"><!-- --></div></div>
+<div id="c1004690" class="csc-frame csc-frame-frame1">
+<div class="csc-textpic csc-textpic-center csc-textpic-above"><img src="../../uploads-import/uploads/pics/zastupny-obrazek_27.jpg" width="480" height="270" border="0" alt="" />
+<h2><a href="../../uploads-import/CRPD/Umluva/Uvod-b.mp4" style="text-decoration-line: none;">Odst. (b)</a></h2>
+<p>(b) uznávajíce, že&nbsp;Organizace spojených národů ve&nbsp;Všeobecné deklaraci lidských práv a&nbsp;v&nbsp;mezinárodních paktech o&nbsp;lidských právech prohlásila a&nbsp;dohodla se na&nbsp;tom, že&nbsp;každému příslušejí všechna v&nbsp;nich stanovená práva a&nbsp;svobody, a&nbsp;to bez jakýchkoliv rozdílů,</p></div>
+<div class="csc-textpic-clear"><!-- --></div></div>
+<div id="c1004689" class="csc-frame csc-frame-frame1">
+<div class="csc-textpic csc-textpic-center csc-textpic-above"><img src="../../uploads-import/uploads/pics/zastupny-obrazek_26.jpg" width="480" height="270" border="0" alt="" />
+<h2><a href="../../uploads-import/CRPD/Umluva/Uvod-c.mp4" target="_blank">Odst. (c)</a>&nbsp;(6.1&nbsp;MB,&nbsp;MP4)</h2>
+<p>(c) znovu potvrzujíce všestrannost, nedělitelnost a&nbsp;vzájemnou závislost a&nbsp;souvislost všech lidských práv a&nbsp;základních svobod a&nbsp;potřebu zaručit osobám se zdravotním postižením plné užívání těchto práv a&nbsp;svobod bez diskriminace,</p></div>
+<div class="csc-textpic-clear"><!-- --></div></div>
+<div id="c1004688" class="csc-frame csc-frame-frame1">
+<div class="csc-textpic csc-textpic-center csc-textpic-above"><img src="../../uploads-import/uploads/pics/zastupny-obrazek_25.jpg" width="480" height="270" border="0" alt="" />
+<h2><a href="../../uploads-import/CRPD/Umluva/Uvod-d.mp4" target="_blank">Odst. (d)</a>&nbsp;(12.1&nbsp;MB,&nbsp;MP4)</h2>
+<p>(d) majíce na&nbsp;zřeteli Mezinárodní pakt o&nbsp;hospodářských, sociálních a&nbsp;kulturních právech, Mezinárodní pakt o&nbsp;občanských a&nbsp;politických právech, Mezinárodní úmluvu o&nbsp;odstranění všech forem rasové diskriminace, Úmluvu o&nbsp;odstranění všech forem diskriminace žen, Úmluvu proti mučení a&nbsp;jinému krutému, nelidskému či&nbsp;ponižujícímu zacházení nebo trestání, Úmluvu o&nbsp;právech dítěte a&nbsp;Mezinárodní úmluvu o&nbsp;ochraně práv všech migrujících pracovníků a&nbsp;členů jejich rodin, </p></div>
+<div class="csc-textpic-clear"><!-- --></div></div>
+<div id="c1004687" class="csc-frame csc-frame-frame1">
+<div class="csc-textpic csc-textpic-center csc-textpic-above"><img src="../../uploads-import/uploads/pics/zastupny-obrazek_24.jpg" width="480" height="270" border="0" alt="" />
+<h2><a href="../../uploads-import/CRPD/Umluva/Uvod-e.mp4" target="_blank">Odst. (e)</a>&nbsp;(6.5&nbsp;MB,&nbsp;MP4)</h2>
+<p>(e) uznávajíce, že&nbsp;zdravotní postižení je pojem, který se vyvíjí a&nbsp;který je výsledkem vzájemného působení mezi osobami s&nbsp;postižením a&nbsp;bariérami v&nbsp;postojích a&nbsp;v&nbsp;prostředí, které brání jejich plnému a&nbsp;účinnému zapojení do&nbsp;společnosti, na&nbsp;rovnoprávném základě s&nbsp;ostatními, </p></div>
+<div class="csc-textpic-clear"><!-- --></div></div>
+<div id="c1004686" class="csc-frame csc-frame-frame1">
+<div class="csc-textpic csc-textpic-center csc-textpic-above"><img src="../../uploads-import/uploads/pics/zastupny-obrazek_23.jpg" width="480" height="270" border="0" alt="" />
+<h2><a href="../../uploads-import/CRPD/Umluva/Uvod-f.mp4" target="_blank">Odst. (f)</a>&nbsp;(11&nbsp;MB,&nbsp;MP4)</h2>
+<p>(f) uznávajíce význam zásad a&nbsp;hlavních směrů politiky obsažených ve&nbsp;Světovém akčním plánu pro osoby se zdravotním postižením a&nbsp;ve&nbsp;Standardních pravidlech pro vyrovnávání příležitostí pro osoby se zdravotním postižením a&nbsp;jejich vliv na&nbsp;podporu, formulaci a&nbsp;hodnocení politiky, plánů, programů a&nbsp;opatření na&nbsp;vnitrostátní, regionální a&nbsp;mezinárodní úrovni zaměřených na&nbsp;další vyrovnávání příležitostí pro osoby se zdravotním postižením, </p></div>
+<div class="csc-textpic-clear"><!-- --></div></div>
+<div id="c1004685" class="csc-frame csc-frame-frame1">
+<div class="csc-textpic csc-textpic-center csc-textpic-above"><img src="../../uploads-import/uploads/pics/zastupny-obrazek_22.jpg" width="480" height="270" border="0" alt="" />
+<h2><a href="../../uploads-import/CRPD/Umluva/Uvod-g.mp4" target="_blank">Odst. (g)</a>&nbsp;(4.1&nbsp;MB,&nbsp;MP4)</h2>
+<p>(g) zdůrazňujíce význam zohlednění problematiky zdravotního postižení jako nedílné součásti příslušných strategií udržitelného rozvoje, </p></div>
+<div class="csc-textpic-clear"><!-- --></div></div>
+<div id="c1004684" class="csc-frame csc-frame-frame1">
+<div class="csc-textpic csc-textpic-center csc-textpic-above"><img src="../../uploads-import/uploads/pics/zastupny-obrazek_21.jpg" width="480" height="270" border="0" alt="" />
+<h2><a href="../../uploads-import/CRPD/Umluva/Uvod-h.mp4" target="_blank">Odst. (h)</a>&nbsp;(4&nbsp;MB,&nbsp;MP4)</h2>
+<p>(h) uznávajíce rovněž, že&nbsp;diskriminace jakékoli osoby na&nbsp;základě zdravotního postižení je porušením přirozené důstojnosti a&nbsp;hodnoty lidské bytosti, </p></div>
+<div class="csc-textpic-clear"><!-- --></div></div>
+<div id="c1004683" class="csc-frame csc-frame-frame1">
+<div class="csc-textpic csc-textpic-center csc-textpic-above"><img src="../../uploads-import/uploads/pics/zastupny-obrazek_20.jpg" width="480" height="270" border="0" alt="" />
+<h2><a href="../../uploads-import/CRPD/Umluva/Uvod-i.mp4" target="_blank">Odst. (i)</a>&nbsp;(2.5&nbsp;MB,&nbsp;MP4)</h2>
+<p>(i) uznávajíce rovněž různorodost osob se zdravotním postižením, </p></div>
+<div class="csc-textpic-clear"><!-- --></div></div>
+<div id="c1004682" class="csc-frame csc-frame-frame1">
+<div class="csc-textpic csc-textpic-center csc-textpic-above"><img src="../../uploads-import/uploads/pics/zastupny-obrazek_19.jpg" width="480" height="270" border="0" alt="" />
+<h2><a href="../../uploads-import/CRPD/Umluva/Uvod-j.mp4" target="_blank">Odst. (j)</a>&nbsp;(3.7&nbsp;MB,&nbsp;MP4)</h2>
+<p>(j) uznávajíce potřebu podporovat a&nbsp;chránit lidská práva všech osob se zdravotním postižením, včetně těch, které potřebují vyšší míru podpory, </p></div>
+<div class="csc-textpic-clear"><!-- --></div></div>
+<div id="c1004681" class="csc-frame csc-frame-frame1">
+<div class="csc-textpic csc-textpic-center csc-textpic-above"><img src="../../uploads-import/uploads/pics/zastupny-obrazek_18.jpg" width="480" height="270" border="0" alt="" />
+<h2><a href="../../uploads-import/CRPD/Umluva/Uvod-k.mp4" target="_blank">Odst. (k)</a>&nbsp;(5.9&nbsp;MB,&nbsp;MP4)</h2>
+<p>(k) vyjadřujíce znepokojení, že&nbsp;navzdory těmto různým nástrojům a&nbsp;závazkům, osoby se zdravotním postižením ve&nbsp;všech částech světa čelí i&nbsp;nadále bariérám, které jim brání v&nbsp;rovnoprávném zapojení do&nbsp;společnosti, a&nbsp;jsou porušována jejich lidská práva, </p></div>
+<div class="csc-textpic-clear"><!-- --></div></div>
+<div id="c1004680" class="csc-frame csc-frame-frame1">
+<div class="csc-textpic csc-textpic-center csc-textpic-above"><img src="../../uploads-import/uploads/pics/zastupny-obrazek_17.jpg" width="480" height="270" border="0" alt="" />
+<h2><a href="../../uploads-import/CRPD/Umluva/Uvod-l.mp4" target="_blank">Odst. (l)</a>&nbsp;(4.1&nbsp;MB,&nbsp;MP4)</h2>
+<p>(l) uznávajíce význam mezinárodní spolupráce pro zlepšování životních podmínek </p></div>
+<div class="csc-textpic-clear"><!-- --></div></div>
+<div id="c1004679" class="csc-frame csc-frame-frame1">
+<div class="csc-textpic csc-textpic-center csc-textpic-above"><img src="../../uploads-import/uploads/pics/zastupny-obrazek_16.jpg" width="480" height="270" border="0" alt="" />
+<h2><a href="../../uploads-import/CRPD/Umluva/Uvod-m.mp4" target="_blank">Odst. (m)</a>&nbsp;(9.5&nbsp;MB,&nbsp;MP4)</h2>
+<p>(m) uznávajíce hodnotu stávajícího a&nbsp;potencionálního přínosu osob se zdravotním postižením k&nbsp;celkovému prospěchu a&nbsp;rozmanitosti jejich společenství a&nbsp;vědouce, že&nbsp;podpora plného užívání lidských práv a&nbsp;základních svobod osobami se zdravotním postižením a&nbsp;jejich plné začlenění povede k&nbsp;jejich většímu pocitu sounáležitosti a&nbsp;k&nbsp;významnému urychlení lidského, sociálního a&nbsp;hospodářského rozvoje společnosti a&nbsp;na&nbsp;odstranění chudoby, </p></div>
+<div class="csc-textpic-clear"><!-- --></div></div>
+<div id="c1004678" class="csc-frame csc-frame-frame1">
+<div class="csc-textpic csc-textpic-center csc-textpic-above"><img src="../../uploads-import/uploads/pics/zastupny-obrazek_15.jpg" width="480" height="270" border="0" alt="" />
+<h2><a href="../../uploads-import/CRPD/Umluva/Uvod-n.mp4" target="_blank">Odst. (n)</a>&nbsp;(3.3&nbsp;MB,&nbsp;MP4)</h2>
+<p>(n) uznávajíce význam, jaký má pro osoby se zdravotním postižením osobní nezávislost a&nbsp;samostatnost, včetně svobody volby, </p></div>
+<div class="csc-textpic-clear"><!-- --></div></div>
+<div id="c1004677" class="csc-frame csc-frame-frame1">
+<div class="csc-textpic csc-textpic-center csc-textpic-above"><img src="../../uploads-import/uploads/pics/zastupny-obrazek_14.jpg" width="480" height="270" border="0" alt="" />
+<h2><a href="../../uploads-import/CRPD/Umluva/Uvod-o.mp4" target="_blank">Odst. (o)</a>&nbsp;(3.7&nbsp;MB,&nbsp;MP4)</h2>
+<p>(o) domnívajíce se, že&nbsp;osoby se zdravotním postižením by měly mít příležitost se aktivně zapojovat do&nbsp;rozhodovacích procesů o&nbsp;politikách a&nbsp;programech, zejména těch, které se jich přímo týkají, </p></div>
+<div class="csc-textpic-clear"><!-- --></div></div>
+<div id="c1004676" class="csc-frame csc-frame-frame1">
+<div class="csc-textpic csc-textpic-center csc-textpic-above"><img src="../../uploads-import/uploads/pics/zastupny-obrazek_13.jpg" width="480" height="270" border="0" alt="" />
+<h2><a href="../../uploads-import/CRPD/Umluva/Uvod-p.mp4" target="_blank">Odst. (p)</a>&nbsp;(7.6&nbsp;MB,&nbsp;MP4)</h2>
+<p>(p) vyjadřujíce znepokojení nad obtížnými podmínkami osob se zdravotním postižením, které jsou vystavovány mnohonásobným a&nbsp;závažným formám diskriminace na&nbsp;základě rasy, barvy pleti, pohlaví, jazyka, náboženství, politického nebo jiného smýšlení, národnostního, etnického, domorodého nebo sociálního původu, majetku, rodu, věku nebo jiného postavení, </p></div>
+<div class="csc-textpic-clear"><!-- --></div></div>
+<div id="c1004675" class="csc-frame csc-frame-frame1">
+<div class="csc-textpic csc-textpic-center csc-textpic-above"><img src="../../uploads-import/uploads/pics/zastupny-obrazek_12.jpg" width="480" height="270" border="0" alt="" />
+<h2><a href="../../uploads-import/CRPD/Umluva/Uvod-q.mp4" target="_blank">Odst. (q)</a>&nbsp;(4.2&nbsp;MB,&nbsp;MP4)</h2>
+<p>(q) uznávajíce, že&nbsp;ženy a&nbsp;dívky se zdravotním postižením jsou často vystavovány, doma i&nbsp;mimo domov, většímu riziku násilí, zranění nebo zneužívání, zanedbávání nebo nedbalému zacházení, týrání nebo vykořisťování, </p></div>
+<div class="csc-textpic-clear"><!-- --></div></div>
+<div id="c1004808" class="csc-frame csc-frame-frame1">
+<div class="csc-textpic csc-textpic-center csc-textpic-above"><img src="../../uploads-import/uploads/pics/zastupny-obrazek_57.jpg" width="480" height="270" border="0" alt="" />
+<h2><a href="../../uploads-import/CRPD/Umluva/Uvod-r.mp4" target="_blank">Odst. (r)</a>&nbsp;(5.4&nbsp;MB,&nbsp;MP4)</h2>
+<p>(r)&nbsp;uznávajíce, že&nbsp;děti se zdravotním postižením by měly plně užívat všechna lidská práva a&nbsp;základní svobody na&nbsp;rovnoprávném základě s&nbsp;ostatními dětmi, a&nbsp;majíce na&nbsp;zřeteli závazky, které za&nbsp;tímto účelem přijaly státy, které jsou smluvní stranou Úmluvy o&nbsp;právech dítěte, </p></div>
+<div class="csc-textpic-clear"><!-- --></div></div>
+<div id="c1004807" class="csc-frame csc-frame-frame1">
+<div class="csc-textpic csc-textpic-center csc-textpic-above"><img src="../../uploads-import/uploads/pics/zastupny-obrazek_56.jpg" width="480" height="270" border="0" alt="" />
+<h2><a href="../../uploads-import/CRPD/Umluva/Uvod-s.mp4" target="_blank">Odst. (s)</a>&nbsp;(3.7&nbsp;MB,&nbsp;MP4)</h2>
+<p>(s) zdůrazňujíce potřebu začlenit hledisko rovnoprávnosti mužů a&nbsp;žen do&nbsp;všech snah o&nbsp;podporu plného užívání lidských práv a&nbsp;základních svobod osobami se zdravotním postižením, </p></div>
+<div class="csc-textpic-clear"><!-- --></div></div>
+<div id="c1004806" class="csc-frame csc-frame-frame1">
+<div class="csc-textpic csc-textpic-center csc-textpic-above"><img src="../../uploads-import/uploads/pics/zastupny-obrazek_55.jpg" width="480" height="270" border="0" alt="" />
+<h2><a href="../../uploads-import/CRPD/Umluva/Uvod-t.mp4" target="_blank">Odst. (t)</a>&nbsp;(4.6&nbsp;MB,&nbsp;MP4)</h2>
+<p>(t) upozorňujíce na&nbsp;skutečnost, že&nbsp;většina osob se zdravotním postižením žije v&nbsp;podmínkách chudoby, a&nbsp;v&nbsp;tomto ohledu uznávajíce naléhavou potřebu zabývat se nepříznivým dopadem chudoby na&nbsp;osoby se zdravotním postižením, </p></div>
+<div class="csc-textpic-clear"><!-- --></div></div>
+<div id="c1004805" class="csc-frame csc-frame-frame1">
+<div class="csc-textpic csc-textpic-center csc-textpic-above"><img src="../../uploads-import/uploads/pics/zastupny-obrazek_54.jpg" width="480" height="270" border="0" alt="" />
+<h2><a href="../../uploads-import/CRPD/Umluva/Uvod-u.mp4" target="_blank">Odst. (u)</a>&nbsp;(7.3&nbsp;MB,&nbsp;MP4)</h2>
+<p>(u) majíce na&nbsp;paměti, že&nbsp;pro dosažení plné ochrany osob se zdravotním postižením, zejména během ozbrojených konfliktů a&nbsp;zahraniční okupace, je nezbytné dodržovat podmínky míru a&nbsp;bezpečnosti založené na&nbsp;plném uznání účelů a&nbsp;zásad obsažených v&nbsp;Chartě Organizace spojených národů a&nbsp;na&nbsp;dodržování platných nástrojů v&nbsp;oblasti lidských práv, </p></div>
+<div class="csc-textpic-clear"><!-- --></div></div>
+<div id="c1004804" class="csc-frame csc-frame-frame1">
+<div class="csc-textpic csc-textpic-center csc-textpic-above"><img src="../../uploads-import/uploads/pics/zastupny-obrazek_53.jpg" width="480" height="270" border="0" alt="" />
+<h2><a href="../../uploads-import/CRPD/Umluva/Uvod-v.mp4" target="_blank">Odst. (v)</a>&nbsp;(6.9&nbsp;MB,&nbsp;MP4)</h2>
+<p>(v) uznávajíce význam přístupnosti fyzického, sociálního, hospodářského a&nbsp;kulturního prostředí, přístupu ke&nbsp;zdravotní péči a&nbsp;vzdělání a&nbsp;k&nbsp;informacím a&nbsp;komunikaci, aby osoby se zdravotním postižením mohly plně užívat všechna lidská práva a&nbsp;základní svobody, </p></div>
+<div class="csc-textpic-clear"><!-- --></div></div>
+<div id="c1004803" class="csc-frame csc-frame-frame1">
+<div class="csc-textpic csc-textpic-center csc-textpic-above"><img src="../../uploads-import/uploads/pics/zastupny-obrazek_52.jpg" width="480" height="270" border="0" alt="" />
+<h2><a href="../../uploads-import/CRPD/Umluva/Uvod-w.mp4" target="_blank">Odst. (w)</a>&nbsp;(5.6&nbsp;MB,&nbsp;MP4)</h2>
+<p>(w) uvědomujíce si, že&nbsp;jedinec mající povinnosti vůči dalším jedincům a&nbsp;ke&nbsp;společenství,
+k&nbsp;němuž náleží, je vázán odpovědností usilovat o&nbsp;prosazování a&nbsp;dodržování práv uznaných
+v&nbsp;Mezinárodní listině lidských práv, </p></div>
+<div class="csc-textpic-clear"><!-- --></div></div>
+<div id="c1004674" class="csc-frame csc-frame-frame1">
+<div class="csc-textpic csc-textpic-center csc-textpic-above"><img src="../../uploads-import/uploads/pics/zastupny-obrazek_11.jpg" width="480" height="270" border="0" alt="" />
+<h2><a href="../../uploads-import/CRPD/Umluva/Uvod-x.mp4" target="_blank">Odst. (x)</a>&nbsp;(8.3&nbsp;MB,&nbsp;MP4)</h2>
+<p>(x) přesvědčeny, že&nbsp;rodina je přirozenou a&nbsp;základní jednotkou společnosti a&nbsp;má právo na&nbsp;ochranu ze&nbsp;strany společnosti a&nbsp;státu a&nbsp;že&nbsp;osobám se zdravotním postižením a&nbsp;jejich rodinným příslušníkům by měla být poskytována nezbytná ochrana a&nbsp;pomoc, aby rodiny měly možnost přispívat k&nbsp;plnému a&nbsp;rovnému užívání práv osobami se zdravotním postižením, </p></div>
+<div class="csc-textpic-clear"><!-- --></div></div>
+<div id="c1004802" class="csc-frame csc-frame-frame1">
+<div class="csc-textpic csc-textpic-center csc-textpic-above"><img src="../../uploads-import/uploads/pics/zastupny-obrazek_51.jpg" width="480" height="270" border="0" alt="" />
+<h2><a href="../../uploads-import/CRPD/Umluva/Uvod-y.mp4" target="_blank">Odst. (y)</a>&nbsp;(11.1&nbsp;MB,&nbsp;MP4)</h2>
+<p>(y) přesvědčeny, že&nbsp;komplexní a&nbsp;ucelená mezinárodní úmluva na&nbsp;podporu a&nbsp;ochranu práv a&nbsp;důstojnosti osob se zdravotním postižením přispěje významným způsobem k&nbsp;odstranění hlubokého sociálního znevýhodnění osob se zdravotním postižením a&nbsp;na&nbsp;základě rovných příležitostí podpoří jejich účast ve&nbsp;všech oblastech občanského, politického, hospodářského, sociálního a&nbsp;kulturního života v&nbsp;rozvinutých i&nbsp;rozvojových zemích, se dohodly na&nbsp;následujícím: </p></div>
+<div class="csc-textpic-clear"><!-- --></div></div>
+
+
+      
+      
+        
+      
+        
+          
+            <a href="../../umluva/" class="_button back">Úmluva o právech osob se zdravotním postižením v českém znakovém jazyce</a>
+          
+
+          
+            <a href="../../umluva/clanek-01-ucel/" class="_button">Článek 1: Účel</a>
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </section>
+
+
+
+  <script type="text/javascript" src="../../umluva-player/mootools-core.js"></script>
+  <script type="text/javascript" src="../../umluva-player/jquery.min.js"></script>
+  <script type="text/javascript" src="../../umluva-player/jplayer/jplayer/jquery.jplayer.min.js"></script>
+  <script type="text/javascript" src="../../umluva-player/jplayer/add-on/jplayer.playlist.min.js"></script>
+  <script type="text/javascript" src="../../umluva-player/main.js"></script>
+  </div>
+</main>
+
+
+  <div class="_backdrop footer">
+  <footer class="_site-footer">
+    <div class="cols">
+      
+
+      <section>
+        <h2>Získejte přehled</h2>
+        <ul>
+          
+            <li><a href="https://ochrance-preview.netlify.app/pristupnost/snadne-cteni/">Co dělá ombudsman? (Snadné čtení)</a></li>
+          
+          
+            <li><a href="https://ochrance-preview.netlify.app/situace/">Jste v tíživé životní situaci a potřebujete pomoct?</a></li>
+          
+          
+            <li><a href="https://ochrance-preview.netlify.app/vystupy/">Výstupy z činností</a></li>
+          
+          
+            <li><a href="https://ochrance-preview.netlify.app/o-nas/predpisy/">Právní předpisy</a></li>
+          
+        </ul>
+      </section>
+
+      <section class="stay-in-touch">
+        <h2>Buďme v kontaktu</h2>
+        <ul>
+          <li>
+            <span class="facebook-label">Facebook: </span>
+            <a href="https://fb.com/verejny.ochrance.prav">verejny.ochrance.prav</a>
+          </li>
+
+          <li>
+            <span class="twitter-label">Twitter: </span>
+            <a href="https://twitter.com/ochranceprav">@ochranceprav</a>
+          </li>
+
+          <li>
+            <span class="instagram-label">Instagram: </span>
+            <a href="https://www.instagram.com/verejny.ochrance.prav">verejny.ochrance.prav</a>
+          </li>
+
+          <li>
+            <span class="youtube-label">Youtube: </span>
+            <a href="https://www.youtube.com/channel/UCdWvuDhPr0GVH1mlSbWnNjQ">Ombudsman</a>
+          </li>
+        </ul>
+      </section>
+
+      <section class="stay-in-touch">
+        <h2>Ozvěte se nám</h2>
+
+        <ul>
+          <li>
+            <span class="email-label">e-mail: </span>
+            <a href="mailto:podatelna@ochrance.cz">podatelna@ochrance.cz</a>
+          </li>
+
+          <li>
+            <span class="phone-label">telefon: </span>
+            <span class="phone">542 542 888</span>
+          </li>
+
+        </ul>
+      </section>
+    </div>
+    <hr>
+    <div class="bottom-line">
+      <p>&copy; 2021 Kancelář veřejného ochránce práv
+        <a href="https://www.toplist.cz" style="margin-top: -20px;" id="toplist"></a>
+          <script language="JavaScript" type="text/javascript" charset="utf-8">
+            <!-- document.getElementById('toplist').innerHTML = ('<img src="https://toplist.cz/dot.asp?id=30867&http='+ encodeURIComponent(document.referrer)+'&t='+encodeURIComponent(document.title)+'&l='+encodeURIComponent(document.URL)+'&wi='+encodeURIComponent(window.screen.width)+'&he='+encodeURIComponent(window.screen.height)+'&cd='+encodeURIComponent(window.screen.colorDepth)+'" width="1" height="1" border=0 alt="TOPlist" />'); </script>
+          <noscript><img src="https://toplist.cz/dot.asp?id=30867&njs=1" border="0" alt="TOPlist" width="1" height="1" /></noscript>
+      </p>
+      <p class="a11y">
+          
+            <span class="mobile-p">Jsme přístupní</span> <a href="../../pristupnost/budova/" class="movement">lidem s pohybovým znevýhodněním,</a> <a href="../../pristupnost/" class="seeing">lidem se zrakovým znevýhodněním,</a> <a href="../../pristupnost/" class="hearing">lidem se sluchovým znevýhodněním,</a> <span class="mobile-p">i lidem s jinými <a href="../../pristupnost/">speciálními potřebami.</a>
+          
+        </span>
+      </p>
+   </div>
+  </footer>
+</div>
+
+
+  
+  <script src="https://ochrance-preview.netlify.app/scripts/index.min.fef0951a58460d16e80e8e9e093632d4194a284f5ee2bf44e869725cf2ba87e4.js"></script>
+
+  
+
+  
+  <script>
+    if (window.netlifyIdentity) {
+      window.netlifyIdentity.on("init", user => {
+        if (!user) {
+          window.netlifyIdentity.on("login", () => {
+            document.location.href = "/admin/";
+          });
+        }
+      });
+    }
+  </script>
+  
+</body>
+</html>

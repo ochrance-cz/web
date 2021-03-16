@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Discrimination on Ombudsman - Preview</title>
+    <link>https://ochrance-preview.netlify.app/en/situace/discrimination/</link>
+    <description>Recent content in Discrimination on Ombudsman - Preview</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cs</language><atom:link href="https://ochrance-preview.netlify.app/en/situace/discrimination/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Equal Treatment and Protection Against Discrimination</title>
+      <link>https://ochrance-preview.netlify.app/en/letaky/en-discrimination/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ochrance-preview.netlify.app/en/letaky/en-discrimination/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gleichbehandlung und Schutz vor Diskriminierung</title>
+      <link>https://ochrance-preview.netlify.app/en/letaky/d-diskriminierung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ochrance-preview.netlify.app/en/letaky/d-diskriminierung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>La discrimination</title>
+      <link>https://ochrance-preview.netlify.app/en/letaky/f-discrimination/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ochrance-preview.netlify.app/en/letaky/f-discrimination/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Равное обращение и защита от дискриминации</title>
+      <link>https://ochrance-preview.netlify.app/en/letaky/ru-diskriminacija/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ochrance-preview.netlify.app/en/letaky/ru-diskriminacija/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ESO on Ombudsman - Preview</title>
+    <link>https://ochrance-preview.netlify.app/eso/</link>
+    <description>Recent content in ESO on Ombudsman - Preview</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cs</language><atom:link href="https://ochrance-preview.netlify.app/eso/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Doporučení ombudsmana</title>
+      <link>https://ochrance-preview.netlify.app/eso/doporuceni/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ochrance-preview.netlify.app/eso/doporuceni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Připomínky k zákonům</title>
+      <link>https://ochrance-preview.netlify.app/eso/pripominky/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ochrance-preview.netlify.app/eso/pripominky/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vyjádření pro mezinárodní orgány</title>
+      <link>https://ochrance-preview.netlify.app/eso/mo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ochrance-preview.netlify.app/eso/mo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vyjádření pro Ústavní soud</title>
+      <link>https://ochrance-preview.netlify.app/eso/us/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ochrance-preview.netlify.app/eso/us/</guid>
+      <description>Ombudsman není oprávněn sám navrhovat zrušení zákona nebo jeho části. Pokud ale jiný oprávněný navrhovatel podá Ústavnímu soudu návrh na zrušení zákona, ombudsman se může do řízení zapojit jako tzv. vedlejší účastník. Ústavnímu soudu pak může předložit své poznatky, které se daného zákona týkají.
+V případech, kdy Ústavní soud rozhoduje ve věci, kterou se ombudsman zabýval, může ho Ústavní soud požádat o stanovisko, aby se seznámil s širším kontextem tématu. Ombudsman pak vystupuje jako tzv.</description>
+    </item>
+    
+    <item>
+      <title>Výzkumy ombudsmana</title>
+      <link>https://ochrance-preview.netlify.app/eso/vyzkum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ochrance-preview.netlify.app/eso/vyzkum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zprávy z návštěv zařízení</title>
+      <link>https://ochrance-preview.netlify.app/eso/zpravy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ochrance-preview.netlify.app/eso/zpravy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Čtvrtletní informace o činnosti pro Poslaneckou sněmovnu</title>
+      <link>https://ochrance-preview.netlify.app/eso/ps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ochrance-preview.netlify.app/eso/ps/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

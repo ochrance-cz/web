@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ombudsman - Preview</title>
+    <link>https://ochrance-preview.netlify.app/en/potrebuji-pomoc/</link>
+    <description>Recent content on Ombudsman - Preview</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cs</language><atom:link href="https://ochrance-preview.netlify.app/en/potrebuji-pomoc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I am not sure how to deal with a difficult life situation</title>
+      <link>https://ochrance-preview.netlify.app/en/potrebuji-pomoc/nevite-si-rady/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ochrance-preview.netlify.app/en/potrebuji-pomoc/nevite-si-rady/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I have a problem with an official authority</title>
+      <link>https://ochrance-preview.netlify.app/en/potrebuji-pomoc/problem-s-uradem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ochrance-preview.netlify.app/en/potrebuji-pomoc/problem-s-uradem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I have problems related to my disability</title>
+      <link>https://ochrance-preview.netlify.app/en/potrebuji-pomoc/postizeni/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ochrance-preview.netlify.app/en/potrebuji-pomoc/postizeni/</guid>
+      <description>Our aim is to systematically improve the lives of people with disabilities. We work with them directly, visit regularly the facilities where they live and conduct relevant research and surveys. We would appreciate if you let us know about any problems that people with disabilities have to face so that we can look into them. For example, issues such as that it is impossible for wheelchair users to get on a train, that there are not enough sign language interpreters or there is a lack of some other services that could help people with disabilities live more independent lives.</description>
+    </item>
+    
+    <item>
+      <title>I think I am being discriminated against</title>
+      <link>https://ochrance-preview.netlify.app/en/potrebuji-pomoc/diskriminace/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ochrance-preview.netlify.app/en/potrebuji-pomoc/diskriminace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>People restricted in their freedom are treated badly</title>
+      <link>https://ochrance-preview.netlify.app/en/potrebuji-pomoc/omezeni-na-svobode/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ochrance-preview.netlify.app/en/potrebuji-pomoc/omezeni-na-svobode/</guid>
+      <description>We inspect facilities where people are restricted in their freedom, including:
+ Retirement homes Homes for people with disabilities Children’s homes Prisons Police cells Psychiatric hospitals Treatment facilities for long-term patients Facilities for detention of foreigners and others  We perform the inspections without prior notice so as to witness the actual conditions there.</description>
+    </item>
+    
+  </channel>
+</rss>

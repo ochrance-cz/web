@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ombudsman a jeho pravomoci on Ombudsman - Preview</title>
+    <link>https://ochrance-preview.netlify.app/situace/ombudsman-a-jeho-pravomoce/</link>
+    <description>Recent content in Ombudsman a jeho pravomoci on Ombudsman - Preview</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cs</language><atom:link href="https://ochrance-preview.netlify.app/situace/ombudsman-a-jeho-pravomoce/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ombudsman aneb veřejný ochránce práv: co dělá a co ne?</title>
+      <link>https://ochrance-preview.netlify.app/letaky/ombudsman/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ochrance-preview.netlify.app/letaky/ombudsman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zvláštní oprávnění veřejného ochránce práv</title>
+      <link>https://ochrance-preview.netlify.app/letaky/zvlastni-opravneni/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ochrance-preview.netlify.app/letaky/zvlastni-opravneni/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
