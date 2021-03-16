@@ -575,7 +575,7 @@ const englishFiles = (files: Files) => {
   };
 };
 
-save("./static/admin/config.yml", {
+save("./static-preview/admin/config.yml", {
   backend: {
     name: "git-gateway",
     branch: "main",
