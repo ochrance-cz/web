@@ -33,7 +33,12 @@
 </head>
 <body>
   {{ if eq .Site.Title "Ombudsman - Preview" }}
-    <p style="margin: 0; background: yellow; color: red; padding: 0.5rem 1rem">Náhled webu (vygenerováno {{ now.Format "02 Jan 06 15:04 MST" }}<span id="elapsed" data-timestamp="{{ now.Unix }}"></span>)</p>
+    <p style="margin: 0; background: yellow; color: red; padding: 0.5rem 1rem">
+      Náhled webu (vygenerováno {{ now.Format "02 Jan 06 15:04 MST" }}<span id="elapsed" data-timestamp="{{ now.Unix }}"></span>)<br>
+      <a id="doc_url" href="https://www.ochrance.cz{{ .RelPermalink | replaceRE "_preview/" "" }}">kopírovat adresu</a>
+      {{ if and (eq .Section "aktualne") (eq .Kind "page") }}
+        <a href="https://ochrance-preview.netlify.app/admin/#/collections/aktualne/entries/{{ .RelPermalink | replaceRE "_preview/aktualne" "" | replaceRE "/" "" }}/index">upravit</a></p>
+      {{ end }}
     <script type="text/javascript">
       var el = document.getElementById('elapsed');
       var time = el.getAttribute('data-timestamp');
@@ -45,6 +50,33 @@
           elapsed < 60 * 60 * 24 ? Math.floor(elapsed/(60/60)) + 'hod' :
           Math.floor(elapsed/(60/60*24)) + 'den');
       }, 1000);
+
+      function copyUrl(e) {
+        e.preventDefault();
+
+        var url = e.target.getAttribute('href');
+
+        var dummy = document.createElement('p');
+        dummy.textContent = url;
+        document.body.appendChild(dummy);
+
+        var range = document.createRange();
+        range.setStartBefore(dummy);
+        range.setEndAfter(dummy);
+
+        var selection = window.getSelection();
+        selection.removeAllRanges();
+        selection.addRange(range);
+
+        document.execCommand('copy');
+        document.body.removeChild(dummy);
+
+        alert("Adresa " + url + " zkopírována do schránky.");
+      }
+
+      window.addEventListener('DOMContentLoaded', (event) => {
+        document.getElementById('doc_url').addEventListener('click', copyUrl)
+      });
     </script>
   </script>
   {{ end }}
