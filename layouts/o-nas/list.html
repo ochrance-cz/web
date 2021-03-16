@@ -27,7 +27,7 @@
       <h2>{{ i18n "scope" }}</h2>
       <ul class="_link-list two-col">
         {{ range where (where .Site.Pages "Section" "pusobnost") "Kind" "page" }}
-          <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+          <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
         {{ end }}
       </ul>
     </section>
@@ -38,7 +38,7 @@
     <h2>{{ i18n "ops" }}</h2>
     <ul class="_link-list two-col">
       {{ range where (where .Site.Pages "Section" "provoz") "Kind" "page" }}
-        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
       {{ end }}
     </ul>
   </section>
@@ -52,7 +52,7 @@
       <p>{{ i18n "more-what-we-do" }}</p>
 
       {{ with .GetPage "/aktualne" }}
-        <p><a href="{{ .RelPermalink }}" class="_button">{{ i18n "news" }}</a>
+        <p><a href="{{ .Permalink }}" class="_button">{{ i18n "news" }}</a>
       {{ end }}
     </div>
 
@@ -61,7 +61,7 @@
     {{ with $pic }}
       <div class="single-hue-pic-wrapper">
         <div class="single-hue-pic">
-          <img src="{{ ($pic.Resize "600x").RelPermalink }}" alt="" aria-hidden="true">
+          <img src="{{ ($pic.Resize "600x").Permalink }}" alt="" aria-hidden="true">
         </div>
       </div>
     {{ end }}
@@ -76,7 +76,7 @@
   {{ partial "pic.html" (dict "pic" .Params.pic "Resources" .Resources "resize" "600x") }}
 
   <p>
-    <a href="{{ .RelPermalink }}">
+    <a href="{{ .Permalink }}">
       {{- .Params.name -}}
     </a>
     <br>

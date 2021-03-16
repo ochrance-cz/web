@@ -8,7 +8,7 @@
     {{ $pic := $images.Resources.GetMatch "potrebujete-pomoc-vasickova.jpg" }}
     {{ with $pic }}
       <div class="img-wrapper">
-        <img src="{{ $pic.RelPermalink }}">
+        <img src="{{ $pic.Permalink }}">
       </div>
     {{ end }}
 

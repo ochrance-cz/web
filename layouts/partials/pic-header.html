@@ -7,11 +7,11 @@
         <div class="single-hue-pic">
           {{ $pic := $.Resources.GetMatch . }}
           {{ with $pic }}
-            <img src="{{ (.Resize "900x").RelPermalink }}" alt="" aria-hidden="true">
+            <img src="{{ (.Resize "900x").Permalink }}" alt="" aria-hidden="true">
           {{ else }}
-            {{ $pic := ($.Site.GetPage "/images/").Resources.GetMatch (replaceRE "/?images/" "" .) }}
+            {{ $pic := ($.Site.GetPage "images").Resources.GetMatch (replaceRE "/?images/" "" .) }}
             {{ with $pic }}
-              <img src="{{ (.Resize "900x").RelPermalink }}" alt="" aria-hidden="true">
+              <img src="{{ (.Resize "900x").Permalink }}" alt="" aria-hidden="true">
             {{ end }}
           {{ end }}
         </div>

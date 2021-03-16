@@ -61,7 +61,11 @@
       {{ end }}
 
       {{ with .Params.button }}
-        <p><a class="_button" href="{{ .link }}">{{ .text }}</a></p>
+        {{ $text := .text }}
+        {{ with $.GetPage .link }}
+          <p><a class="_button" href="{{ .Permalink }}">{{ $text }}</a></p>
+        {{ end }}
+
       {{ end }}
     </section>
 
@@ -69,7 +73,7 @@
     <div class="_backdrop cta">
       <section>
         <h2>{{ i18n "can-we-help" }}</h2>
-        <p><a href="{{ .RelPermalink }}" class="_button large">{{ i18n "submit-complaint" }}</a></p>
+        <p><a href="{{ .Permalink }}" class="_button large">{{ i18n "submit-complaint" }}</a></p>
       </section>
     </div>
     {{ end }}

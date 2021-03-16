@@ -3,7 +3,7 @@
   <header class="_home-header">
     {{ $images := $.Site.GetPage "/images" }}
     {{ with ($images.Resources.GetMatch (replaceRE "^.+images/" "" .Params.headerPic)).Resize "2000x" }}
-        <img src="{{ .RelPermalink }}" style="aspect-ratio: {{.Width}} / {{.Height}}" width={{ .Width }} height={{.Height}}>
+        <img src="{{ .Permalink }}" style="aspect-ratio: {{.Width}} / {{.Height}}" width={{ .Width }} height={{.Height}}>
     {{ end }}
     <p class="motto">{{ .Params.claim }}</p>
   </header>
@@ -20,7 +20,7 @@
         {{ partial "news-preview.html" . }}
       {{ end }}
       {{ with .GetPage "aktualne" }}
-        <p><a href="{{ .RelPermalink }}" class="_button">{{ i18n "more-news" }}</a></p>
+        <p><a href="{{ .Permalink }}" class="_button">{{ i18n "more-news" }}</a></p>
       {{ end }}
 
     </section>

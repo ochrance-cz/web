@@ -21,7 +21,7 @@
       {{ with $pic }}
         <div class="single-hue-pic-wrapper">
           <div class="single-hue-pic">
-            <img src="{{ ($pic.Resize "600x").RelPermalink }}" alt="" aria-hidden="true">
+            <img src="{{ ($pic.Resize "600x").Permalink }}" alt="" aria-hidden="true">
           </div>
         </div>
       {{ end }}
@@ -33,7 +33,7 @@
       <h2>{{ i18n "e-mail" }} <a href="mailto:{{ .Params.email }}">{{ .Params.email }}</a></h2>
       <p>{{ i18n "data-box-id" }}: <strong>jz5adky</strong></p>
       {{ with .GetPage "info/pravidla-komunikace" }}
-        <p><a href="{{ .RelPermalink }}">{{ .Title }}</a></p>
+        <p><a href="{{ .Permalink }}">{{ .Title }}</a></p>
       {{ end }}
     </div>
   </section>
@@ -79,7 +79,7 @@
       {{ $images := $.Site.GetPage "/images" }}
       {{ $pic := $images.Resources.GetMatch (replaceRE ".+/" "" .pic) }}
       {{ with $pic }}
-        <img src="{{ ($pic.Resize "600x").RelPermalink }}" alt="" aria-hidden="true" class="_gray-pic">
+        <img src="{{ ($pic.Resize "600x").Permalink }}" alt="" aria-hidden="true" class="_gray-pic">
       {{ end }}
     </div>
     {{ end }}

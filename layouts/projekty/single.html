@@ -11,7 +11,7 @@
         {{ with .logo }}
           {{ $pic := $.Resources.GetMatch (replaceRE ".+/" "" .) }}
           {{ with $pic }}
-            <img src="{{ ($pic).RelPermalink }}" alt="{{ $partner.name }}" aria-hidden="true">
+            <img src="{{ ($pic).Permalink }}" alt="{{ $partner.name }}" aria-hidden="true">
           {{ end }}
         {{ end }}
       {{ end }}
@@ -21,7 +21,7 @@
     <figure aria-hidden="true">
       {{ $pic := $.Resources.GetMatch (replaceRE ".+/" "" .pic) }}
       {{ with $pic }}
-        <img class="_gray-pic" src="{{ ($pic.Resize "600x").RelPermalink }}" alt="">
+        <img class="_gray-pic" src="{{ ($pic.Resize "600x").Permalink }}" alt="">
       {{ end }}
       <figcaption>{{ .caption }}</figcaption>
     </figure>
@@ -36,7 +36,7 @@
             {{ $alt := .alt }}
             {{ $pic := $.Resources.GetMatch (replaceRE ".+/" "" .pic) }}
             {{ with $pic }}
-              <img src="{{ ($pic.Resize "400x").RelPermalink }}" alt="{{ $alt }}" aria-hidden="true">
+              <img src="{{ ($pic.Resize "400x").Permalink }}" alt="{{ $alt }}" aria-hidden="true">
             {{ end }}
           </div>
         {{ end }}
@@ -69,7 +69,7 @@
     {{ with $pic }}
       <div class="single-hue-pic-wrapper">
         <div class="single-hue-pic">
-          <img src="{{ ($pic.Resize "600x").RelPermalink }}" alt="" aria-hidden="true">
+          <img src="{{ ($pic.Resize "600x").Permalink }}" alt="" aria-hidden="true">
         </div>
       </div>
     {{ end }}

@@ -2,18 +2,18 @@
 <ul class="_link-list">
   {{ range .list }}
     <li><a href="
-      {{ with .file }}
+      {{- with .file -}}
         {{- (print $page.Permalink (replaceRE "^.+/" "" .)) -}}
-      {{ else }}
-        {{ if (findRE "^http" .link) }}
+      {{- else -}}
+        {{- if (findRE "^http" .link) -}}
           {{- .link -}}
         {{- else -}}
-          {{- $link := ($page.GetPage .link).RelPermalink -}}
-          {{ with $link }}
+          {{- $link := ($page.GetPage .link).Permalink -}}
+          {{- with $link -}}
             {{-  . | absURL -}}
-          {{ end }}
+          {{- end -}}
         {{- end -}}
-      {{ end }}">
+      {{- end }}">
         {{- with .text }}{{ . }}{{ else }}{{ .title }}{{ end -}}
       </a></li>
   {{ end }}

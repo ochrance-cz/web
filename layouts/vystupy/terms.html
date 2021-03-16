@@ -6,7 +6,7 @@
     <section>
       <ul class="_link-list">
         {{ range where .Pages "Params.media" "ne" true }}
-          <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+          <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
         {{ end }}
       </ul>
 
@@ -30,7 +30,7 @@
 
         <ul class="_link-list">
           {{ range where .Pages "Params.media" true }}
-            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+            <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
           {{ end }}
         </ul>
       {{ end }}

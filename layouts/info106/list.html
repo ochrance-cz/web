@@ -12,7 +12,7 @@
 
       <ul class="_link-list">
         {{ range (sort .Pages ".File.Path" "desc") }}
-            <li><a href="{{ .RelPermalink }}">{{ if lt 2000 .Title }}Informace podle zákona 106/1999 Sb. za rok {{ end }}{{ .Title }}</a></li>
+            <li><a href="{{ .Permalink }}">{{ if lt 2000 .Title }}Informace podle zákona 106/1999 Sb. za rok {{ end }}{{ .Title }}</a></li>
         {{ end }}
       </ul>
     {{ end }}

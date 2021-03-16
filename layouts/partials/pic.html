@@ -7,6 +7,6 @@
 {{ $resized := $pic.Resize $size }}
 {{ with $resized }}
   <div class="img-wrapper">
-    <img src="{{ .RelPermalink }}" style="aspect-ratio: {{.Width}} / {{.Height}}" alt="" aria-hidden="true">
+    <img src="{{ .Permalink }}" style="aspect-ratio: {{.Width}} / {{.Height}}" alt="" aria-hidden="true">
   </div>
 {{ end }}

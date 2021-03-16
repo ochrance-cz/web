@@ -8,7 +8,7 @@
       <ul>
       {{ range .Site.AllPages }}
         {{ if and (gt (len .Content) 0) (lt (len .Content) 100) }}
-          <li><a href="{{ .RelPermalink }}">{{ .Title }} — {{ .RelPermalink }}</a> {{ len .Content }}</li>
+          <li><a href="{{ .Permalink }}">{{ .Title }} — {{ .RelPermalink }}</a> {{ len .Content }}</li>
         {{ end }}
       {{ end }}
       </ul>
@@ -21,7 +21,7 @@
       {{ range .Site.AllPages }}
         {{ if findRE "TODO" (printf "%%" .Params .Content) }}
 
-          <li><a href="{{ .RelPermalink }}">{{ .Title }} — {{ .RelPermalink }}</a></li>
+          <li><a href="{{ .Permalink }}">{{ .Title }} — {{ .RelPermalink }}</a></li>
         {{ end }}
       {{ end }}
       </ul>
@@ -32,7 +32,7 @@
       <ul>
       {{ range .Site.AllPages }}
         {{ if eq .Content "" }}
-          <li><a href="{{ .RelPermalink }}">{{ .Title }} — {{ .RelPermalink }}</a></li>
+          <li><a href="{{ .Permalink }}">{{ .Title }} — {{ .RelPermalink }}</a></li>
         {{ end }}
       {{ end }}
       </ul>

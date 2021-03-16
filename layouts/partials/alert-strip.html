@@ -2,7 +2,7 @@
   {{ if eq .Params.active true }}
     <div class="_alert-strip">
       <p>
-        AKTUÁLNĚ: <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        AKTUÁLNĚ: <a href="{{ .Permalink }}">{{ .Title }}</a>
       </p>
     </div>
   {{ end }}

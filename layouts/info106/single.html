@@ -19,7 +19,7 @@
       <nav>
         <ul class="_horizontal-list more">
           {{ range first 4 (sort .Pages ".File.Path" "desc") }}
-              <li><a href="{{ .RelPermalink }}" {{ if eq .RelPermalink $.RelPermalink }}class="selected"{{ end }}>{{ .Title }}</a></li>
+              <li><a href="{{ .Permalink }}" {{ if eq .RelPermalink $.RelPermalink }}class="selected"{{ end }}>{{ .Title }}</a></li>
           {{ end }}
 
           {{ $random := delimit (shuffle (split (md5 now.Unix) "" )) "" }}
@@ -33,7 +33,7 @@
               </span>
               <ul>
                 {{ range after 4 (sort .Pages ".File.Path" "desc") }}
-                  <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+                  <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
                 {{ end }}
               </ul>
             </div>
@@ -54,7 +54,7 @@
     	{{ .Content }}
 
       {{ with .GetPage "/info106 "}}
-        <p><a href="{{ .RelPermalink }}" class="_button back">{{ i18n "back" }}</a>
+        <p><a href="{{ .Permalink }}" class="_button back">{{ i18n "back" }}</a>
       {{ end }}
     </section>
   </div>

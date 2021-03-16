@@ -11,7 +11,7 @@
 
     <ul class="_link-list">
       {{ range sort .Pages "File.Path" }}
-        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
       {{ end }}
     </ul>
   </section>

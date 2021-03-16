@@ -2,7 +2,7 @@
   <article class="_home-link">
     <h3>
       <a
-        href="{{ cond (isset .Params "link") .Params.link .RelPermalink }}"
+        href="{{ cond (isset .Params "link") .Params.link .Permalink }}"
         class="icon-{{ with .Params.icon }}{{ . }}{{ else }}arrow{{ end }}">
         {{- .Title -}}
       </a>

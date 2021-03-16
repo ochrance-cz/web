@@ -93,11 +93,11 @@
       {{ range $index, $page := $pages }}
         {{ if eq $.File.Path $page.File.Path}}
           {{ with index $pages (sub $index 1) }}
-            <a href="{{ .RelPermalink }}" class="_button back">{{ .Title }}</a>
+            <a href="{{ .Permalink }}" class="_button back">{{ .Title }}</a>
           {{ end }}
 
           {{ with index $pages (add $index 1) }}
-            <a href="{{ .RelPermalink }}" class="_button">{{ .Title }}</a>
+            <a href="{{ .Permalink }}" class="_button">{{ .Title }}</a>
           {{ end }}
         {{ end }}
       {{ end }}

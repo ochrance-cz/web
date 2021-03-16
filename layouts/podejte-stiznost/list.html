@@ -85,15 +85,15 @@
 
     <p class="_button--wrapper">
       {{ with .GetPage "podejte-stiznost/braille" }}
-        <a href="{{ .RelPermalink }}" class="_button">V braillově písmu</a>
+        <a href="{{ .Permalink }}" class="_button">V braillově písmu</a>
       {{ end }}
 
       {{ with .GetPage "podejte-stiznost/czj" }}
-        <a href="{{ .RelPermalink }}" class="_button">V českém znakovém jazyce</a>
+        <a href="{{ .Permalink }}" class="_button">V českém znakovém jazyce</a>
       {{ end }}
 
       {{ with .GetPage "pristupnost" }}
-        <a href="{{ .RelPermalink }}" class="_button">Přístup bez bariér</a>
+        <a href="{{ .Permalink }}" class="_button">Přístup bez bariér</a>
       {{ end }}
     </p>
     <hr>

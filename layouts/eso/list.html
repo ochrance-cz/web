@@ -24,7 +24,7 @@
 
       {{ range .Pages }}
         <article class="_article-preview">
-          <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+          <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
           {{ with .Params.perex }}
             {{ partial "md-block.html" . }}
           {{ end }}

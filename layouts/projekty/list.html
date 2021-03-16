@@ -11,7 +11,7 @@
 
     <ul class="_link-list">
       {{ range where .Pages "Params.ongoing" true }}
-        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
       {{ end }}
     </ul>
 
@@ -19,7 +19,7 @@
 
     <ul class="_link-list">
       {{ range where .Pages "Params.ongoing" false }}
-        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
       {{ end }}
     </ul>
   </section>
@@ -34,7 +34,7 @@
     {{ with $pic }}
       <div class="single-hue-pic-wrapper">
         <div class="single-hue-pic">
-          <img src="{{ ($pic.Resize "600x").RelPermalink }}" alt="" aria-hidden="true">
+          <img src="{{ ($pic.Resize "600x").Permalink }}" alt="" aria-hidden="true">
         </div>
       </div>
     {{ end }}

@@ -20,7 +20,7 @@
             {{ with $.GetPage "/podejte-stiznost" }}
             <p>
               {{ i18n "email-is-not-registry"}}
-              <a href="{{ .RelPermalink }}">{{ i18n "how-to-submit" }}</a></p>
+              <a href="{{ .Permalink }}">{{ i18n "how-to-submit" }}</a></p>
             {{ end }}
             <div class="_cards">
               {{ range .people }}

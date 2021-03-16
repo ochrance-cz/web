@@ -4,7 +4,7 @@
     {{ $pic := $res.GetMatch . }}
     {{ with $pic }}
       <div class="img-wrapper">
-        <img src="{{ ($pic.Resize "600x").RelPermalink }}" alt="" aria-hidden="true">
+        <img src="{{ ($pic.Resize "600x").Permalink }}" alt="" aria-hidden="true">
       </div>
     {{ end }}
   {{ end }}
@@ -25,7 +25,7 @@
 
     <h3>
       <a
-        href="{{ .RelPermalink }}"
+        href="{{ .Permalink }}"
         class="icon-{{ with .Params.icon }}{{ . }}{{ else }}arrow{{ end }}">
         {{- .Title -}}
       </a>

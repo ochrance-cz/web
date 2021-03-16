@@ -8,7 +8,7 @@
         {{ $pic := $.Resources.GetMatch . }}
         {{ with $pic }}
           <div class="img-wrapper">
-            <img class="_gray-pic" src="{{ ($pic.Resize "500x").RelPermalink }}" alt="" aria-hidden="true">
+            <img class="_gray-pic" src="{{ ($pic.Resize "500x").Permalink }}" alt="" aria-hidden="true">
           </div>
         {{ end }}
       {{ end }}
@@ -32,7 +32,7 @@
 
     {{ with .GetPage "/aktualne"}}
     <p>
-      <a class="_button back" href="{{ .RelPermalink }}">{{ i18n "back-to-news" }}</a>
+      <a class="_button back" href="{{ .Permalink }}">{{ i18n "back-to-news" }}</a>
     </p>
     {{ end }}
   </section>
