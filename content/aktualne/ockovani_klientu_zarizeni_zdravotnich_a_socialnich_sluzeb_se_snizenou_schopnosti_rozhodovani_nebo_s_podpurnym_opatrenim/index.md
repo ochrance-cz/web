@@ -12,8 +12,14 @@ perex: "V lednu vydala zástupkyně ombudsmana Monika Šimůnková informačn�
   také klientům s jiným podpůrným opatřením (nápomoc při rozhodování, zastoupení
   členem domácnosti, ustanovení opatrovníka bez omezení svéprávností) či
   klientům bez podpůrného opatření, kteří nejsou schopni udělit souhlas.    "
+attachments:
+  - file: doporuceni-ockovani.pdf
+    title: Celé znění doporučení v PDF
+  - title: Celé znění doporučení
+    link: https://eso.ochrance.cz/Nalezene/Edit/9016
+  - title: Informační leták
+    link: https://www.ochrance.cz/uploads-import/Letaky/Ockovani_klientu_s_omezenou_svepravnosti.pdf
 ---
-
 „Jedná se o praktické doporučení pro poskytovatele zdravotních služeb provádějících očkování, zaměstnance zařízení sociálních či zdravotních služeb, ale také pro opatrovníky a další podpůrné osoby klientů,” vysvětluje zástupkyně ombudsmana.
 
 „Cílem bylo zmírnit nejistotu osob, které provádějí očkování či o něm rozhodují, a zejména zdůraznit, že i když si všichni přejeme, aby očkování proběhlo co nejrychleji, nesmí se zapomínat na respektování základních práv jednotlivých klientů. Jde zejména o právo na autonomii, právo na tělesnou a duševní integritu či právo na úplné a přístupné informace ohledně očkování,“ doplňuje Monika Šimůnková.
@@ -26,9 +32,3 @@ perex: "V lednu vydala zástupkyně ombudsmana Monika Šimůnková informačn�
 4. Doporučujeme, aby poskytovatel zdravotních služeb, který očkování provádí, umožnil přítomnost další osoby v průběhu očkování, pokud si to klient přeje.
 5. Doporučujeme, aby v případě klientů s omezenou svéprávností v oblasti zdravotních služeb či s opatrovníkem ustanoveným pro tuto oblast, vyžadoval poskytovatel udělení souhlasu s očkováním od opatrovníka i klienta, ledaže jej klient není schopen v žádné formě udělit.
 6. V případě, že klient nemá zástupce ani jinou blízkou osobu a není schopen udělit souhlas s očkováním, doporučujeme, aby poskytovatel pobytových sociálních služeb či dlouhodobé zdravotní péče podal návrh soudu na ustanovení opatrovníka pro poskytnutí souhlasu s očkováním.
-
-{{< links "doporuceni-ockovani.pdf" "Celé znění doporučení v PDF" >}}
-
-{{< links "https://eso.ochrance.cz/Nalezene/Edit/9016" "Celé znění doporučení" >}}
-
-{{< links "https://www.ochrance.cz/uploads-import/Letaky/Ockovani_klientu_s_omezenou_svepravnosti.pdf" "Informační leták" >}}
