@@ -2,9 +2,9 @@ name: deploy to production
 
 on:
   workflow_dispatch:
-#  push:
-#    branches:
-#      - main
+  push:
+    branches:
+      - main
 
 jobs:
   deploy:
@@ -27,7 +27,7 @@ jobs:
       - name: Deploy via rsync
         uses: trendyminds/github-actions-rsync@master
         with:
-          RSYNC_OPTIONS: -avzr --delete --exclude admin
+          RSYNC_OPTIONS: -azr --delete --exclude admin
           RSYNC_TARGET: /home/ochrance/public_html/www-prod
           RSYNC_SOURCE: /public/
         env:
