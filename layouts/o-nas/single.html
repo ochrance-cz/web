@@ -56,7 +56,7 @@
         </div>
 
         {{ with .Params.links }}
-          {{ partial "link-list.html" . }}
+          {{ partial "link-list.html" (dict "list" . "page" $) }}
         {{ end }}
 
         {{ .Content }}

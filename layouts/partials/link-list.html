@@ -1,5 +1,20 @@
+{{ $page := .page -}}
 <ul class="_link-list">
-  {{ range . }}
-    <li><a href="{{ .link }}">{{ .text }}</a></li>
+  {{ range .list }}
+    <li><a href="
+      {{ with .file }}
+        {{- . | absURL -}}
+      {{ else }}
+        {{ if (findRE "^http" .link) }}
+          {{- .link -}}
+        {{- else -}}
+          {{- $link := ($page.GetPage .link).RelPermalink -}}
+          {{ with $link }}
+            {{-  . | absURL -}}
+          {{ end }}
+        {{- end -}}
+      {{ end }}">
+        {{- with .text }}{{ . }}{{ else }}{{ .title }}{{ end -}}
+      </a></li>
   {{ end }}
 </ul>

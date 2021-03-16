@@ -18,6 +18,10 @@
       </div>
 
       {{ .Content }}
+
+      {{ with .Params.attachments }}
+        {{ partial "link-list.html" (dict "list" . "page" $) }}
+      {{ end }}
     </section>
   </div>
 

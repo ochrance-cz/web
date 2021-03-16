@@ -11,13 +11,13 @@
       {{ end }}
 
       {{ with .Params.links }}
-        {{ partial "link-list.html" . }}
+        {{ partial "link-list.html" (dict "list" . "page" $) }}
       {{ end }}
 
     	{{ .Content }}
 
       {{ with .Params.linksAfter }}
-        {{ partial "link-list.html" . }}
+        {{ partial "link-list.html" (dict "list" . "page" $) }}
       {{ end }}
     </section>
   </div>
