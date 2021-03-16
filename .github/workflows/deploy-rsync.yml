@@ -1,0 +1,50 @@
+name: deploy to production
+
+on:
+  workflow_dispatch:
+#  push:
+#    branches:
+#      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          submodules: false
+          fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: "0.81.0"
+          extended: true
+
+      - name: Build
+        run: hugo
+
+      - name: Deploy via rsync
+        uses: trendyminds/github-actions-rsync@master
+        with:
+          RSYNC_OPTIONS: -avzr --delete --exclude admin
+          RSYNC_TARGET: /home/ochrance/public_html/www-prod
+          RSYNC_SOURCE: /public/
+        env:
+          SSH_PRIVATE_KEY: ${{secrets.SSH_PRIVATE_KEY}}
+          SSH_USERNAME: ${{secrets.SSH_USERNAME}}
+          SSH_HOSTNAME: ${{secrets.SSH_HOSTNAME}}
+
+      - name: Update search indices
+        uses: garygrossgarten/github-action-ssh@release
+        with:
+          command: |
+            wget -O index-${{ github.run_number }}.json http://www.ochrance.cz/elastic.json
+            wget -O index-en-${{ github.run_number }}.json http://www.ochrance.cz/en/elastic.json
+            curl -X DELETE 'http://localhost:9200/indices'
+            curl -H "Content-Type: application/x-ndjson" -XPOST "localhost:9200/cs/_bulk" --data-binary @index-${{ github.run_number }}.json
+            curl -H "Content-Type: application/x-ndjson" -XPOST "localhost:9200/en/_bulk" --data-binary @index-en-${{ github.run_number }}.json
+            curl http://localhost:9200/_cat/indices?v
+          host: ${{ secrets.ELASTICUSER_HOSTNAME }}
+          username: ${{ secrets.ELASTICUSER_USERNAME }}
+          privateKey: ${{ secrets.ELASTICUSER_PRIVATE_KEY }}
