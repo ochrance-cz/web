@@ -4,4 +4,5 @@ file: mop.pdf
 kids: mop-pro-deti.pdf
 situace:
   - rodina
+  - socialni-pomoc-a-podpora
 ---
