@@ -1,6 +1,6 @@
 ---
 title: Zdravotní pojištění cizinců
-file: zdravotni-pojisteni-cizincu.pdf
 situace:
-  - cizinci
+  - cestovani
+file: zdravotni-pojisteni-cizincu.pdf
 ---
