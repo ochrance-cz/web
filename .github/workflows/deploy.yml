@@ -98,6 +98,8 @@ jobs:
               rm vzdelavaci-akce
               rm vzor
               rm .htaccess
+              rm obcane-eu
+              ln -s www-prod/obcane-eu obcane-eu
               ln -s www-prod/aktualne aktualne
               ln -s www-prod/alert alert
               ln -s www-prod/apple-touch-icon.png apple-touch-icon.png
