@@ -1,6 +1,6 @@
 ---
-title: Pozemkové úřady a Úřad pro zastupování státu ve věcech majetkových
-file: pozemkove-urady.pdf
+title: "Pozemkové úřady "
 situace:
   - stavebnictvi
+file: pozemkove-urady.pdf
 ---
