@@ -1,7 +1,8 @@
 ---
 title: Diskriminace
-file: rovne-zachazeni.pdf
-roma: Romsky-Diskriminace.pdf
 situace:
   - diskriminace
+  - lide-se-zdravotnim-postizenim
+file: rovne-zachazeni.pdf
+roma: Romsky-Diskriminace.pdf
 ---
