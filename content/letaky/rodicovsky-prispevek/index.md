@@ -1,6 +1,7 @@
 ---
 title: Rodičovský příspěvek
-file: rodicovsky-prispevek.pdf
 situace:
   - rodina
+  - socialni-pomoc-a-podpora
+file: rodicovsky-prispevek.pdf
 ---
