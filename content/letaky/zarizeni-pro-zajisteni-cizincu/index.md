@@ -1,6 +1,6 @@
 ---
 title: Zařízení pro zajištění cizinců
-file: zarizeni-pro-zajisteni-cizincu.pdf
 situace:
-  - cizinci
+  - cestovani
+file: zarizeni-pro-zajisteni-cizincu.pdf
 ---
