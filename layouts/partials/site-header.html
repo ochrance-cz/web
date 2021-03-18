@@ -40,6 +40,11 @@
                 {{ range sort (where (where .Site.Pages "Section" "potrebuji-pomoc") "Kind" "page") "Params.order" }}
                   {{ block "menu-link" . }}{{ end }}
                 {{ end }}
+
+                {{ with .GetPage "info/obcane-eu" }}
+                  {{ block "menu-link" . }}{{ end }}
+                {{ end }}
+
                 <li><a href="https://portal.ochrance.cz">{{ i18n "sep" }}</a></li>
               </ul>
             </li>
