@@ -1,5 +1,5 @@
 ---
-title: Citizens of the European Union
+title: I am a citizen of the European Union
 ---
 
 Thanks to European Union every member state designated one or more bodies which provides help to EU citizens abroad and thus contributes to the full exercise of free movement of EU citizens. The list of the bodies is available at [European Commission webpage](http://ec.europa.eu/social/main.jsp?catId=1277&langId=en). The Defender is the designated body in the Czech Republic.
