@@ -194,7 +194,7 @@ For more information about running a business on regular or permanent basis in 
 
   - **permanent residence permit** – in case you have a permanent residence permit the Police may only expel you in case you are a serious threat to the security of the state or in case you seriously impede the public policy and it is not sufficient to revoke your permit, given the gravity of your acts.
 
-**Exception**: A decision on administrative expulsion **cannot be issued** a) in case of minors (persons younger than 18 years) unless this would be in their best interest b)    in case you have stayed in the Czech Republic longer than 10 years (unless you are a particularly serious threat to the security of the state).\*\*
+**Exception**: A decision on administrative expulsion **cannot be issued** a) in case of minors (persons younger than 18 years) unless this would be in their best interest b)    in case you have stayed in the Czech Republic longer than 10 years (unless you are a particularly serious threat to the security of the state).
 
 - **Important notice!** Should your decision on refusal of entry, revocation or refusal to issue a permit or certificate or expulsion decision be based on confidential information, the reasons will only be included in the decision to the extent to which they are not confidential. Should the decision be based on you being a threat to the state security, the decision will only include a statement that the reason is‚ threat to the security of the state without further explanation. Even in such cases the decision **has to contain** assessment whether the impact of the decision is proportionate to your right to a family and private life.
 
