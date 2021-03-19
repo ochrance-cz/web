@@ -1,6 +1,6 @@
 ---
 title: Školství
-file: skolstvi.pdf
 situace:
-  - skolstvi
+  - skolství
+file: skolstvi.pdf
 ---
