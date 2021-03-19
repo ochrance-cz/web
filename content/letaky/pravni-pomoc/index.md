@@ -1,6 +1,7 @@
 ---
 title: Právní pomoc
-file: pravni-pomoc.pdf
+draft: true
 situace:
   - pravni-pomoc-a-poradenstvi
+file: pravni-pomoc.pdf
 ---
