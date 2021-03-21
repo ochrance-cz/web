@@ -191,7 +191,7 @@ Redirect 301 /fileadmin/user_upload/Letaky/Dan-z-prijmu.pdf /letaky/dan-z-prijmu
 Redirect 301 /fileadmin/user_upload/Letaky/Danova-exekuce.pdf /letaky/danova-exekuce/danova-exekuce.pdf
 Redirect 301 /fileadmin/user_upload/Letaky/Danovy-rad.pdf /letaky/danovy-rad/danovy-rad.pdf
 Redirect 301 /fileadmin/user_upload/Letaky/Davky-na-bydleni.pdf /letaky/davky-na-bydleni/davky-na-bydleni.pdf
-Redirect 301 /fileadmin/user_upload/Letaky/Desatero_stavebni_urady.pdf /letaky/desatero_stavebni_urady/desatero_stavebni_urady.pdf /uploads-import/ESO/Ochrance_letak_Desatero_dobre_praxe.pdf  nenalezeno, možná dát pod: Sociální pomoc a podpora
+Redirect 301 /fileadmin/user_upload/Letaky/Desatero_stavebni_urady.pdf /letaky/desatero_stavebni_urady/desatero_stavebni_urady.pdf
 Redirect 301 /fileadmin/user_upload/Letaky/Detsky-domov-rodice.pdf /letaky/detsky-domov-rodice/detsky-domov-rodice.pdf
 Redirect 301 /fileadmin/user_upload/Letaky/Rovne-zachazeni.pdf /letaky/rovne-zachazeni/rovne-zachazeni.pdf
 Redirect 301 /fileadmin/user_upload/Letaky/Romsky-Diskriminace.pdf /letaky/rovne-zachazeni/Romsky-Diskriminace.pdf
@@ -289,7 +289,7 @@ Redirect 301 /fileadmin/user_upload/Letaky/Vodici-a-asistencni-psi.pdf /letaky/v
 Redirect 301 /fileadmin/user_upload/Letaky/Vyrazeni-z-evidence-UP.pdf /letaky/vyrazeni-z-evidence-up/vyrazeni-z-evidence-up.pdf
 Redirect 301 /fileadmin/user_upload/Letaky/Vyzivovaci-povinnost.pdf /letaky/vyzivovaci-povinnost/vyzivovaci-povinnost.pdf
 Redirect 301 /fileadmin/user_upload/Letaky/2017_letak_romske_rodice_CJ.pdf /letaky/zapisy-do-skol/2017_letak_romske_rodice_cj.pdf
-Redirect 301 /fileadmin/user_upload/Letaky/2017_letak_romske_rodice_ROM.pdf /letaky/zapisy-do-skol/2017_letak_romske_rodice_rom.pdf /uploads-import/ESO/Ochrance_letak_Zasady_vyrizovani_stiznosti_na_postup_poskytovatelu_zdravotnich_sluzeb.pdf /letaky/zasady_vyrizovani_stiznosti_na_postup_poskytovatelu_zdravotnich_sluzeb/ochrance_letak_zasady_vyrizovani_stiznosti_na_postup_poskytovatelu_zdravotnich_sluzeb.pdf
+Redirect 301 /fileadmin/user_upload/Letaky/2017_letak_romske_rodice_ROM.pdf /letaky/zapisy-do-skol/2017_letak_romske_rodice_rom.pdf
 Redirect 301 /fileadmin/user_upload/Letaky/Zarizeni-pro-zajisteni-cizincu.pdf /letaky/zarizeni-pro-zajisteni-cizincu/zarizeni-pro-zajisteni-cizincu.pdf
 Redirect 301 /fileadmin/user_upload/Letaky/Zdravotni-pojisteni.pdf /letaky/zdravotni-pojisteni/zdravotni-pojisteni.pdf
 Redirect 301 /fileadmin/user_upload/Letaky/Zdravotni-pojisteni-cizincu.pdf /letaky/zdravotni-pojisteni-cizincu/zdravotni-pojisteni-cizincu.pdf
