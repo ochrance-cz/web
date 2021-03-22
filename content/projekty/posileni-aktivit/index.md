@@ -2,10 +2,7 @@
 title: Posílení aktivit  veřejného ochránce práv v ochraně lidských práv
 slug: posileni-aktivit
 ongoing: true
-bonus: |
-  ## Připravili jsme pro vás e-learningový kurz
-
-  [spusting kurz]()
+bonus: ""
 illustration:
   pic: illu.jpg
   caption: Posílení aktivit veřejného ochránce práv v ochraně lidských práv
