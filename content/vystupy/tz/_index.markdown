@@ -1,4 +1,4 @@
 ---
-title: Tisková zpráva
+title: Tiskové zprávy
 slug: tz
 ---
