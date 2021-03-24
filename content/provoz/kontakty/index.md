@@ -16,7 +16,7 @@ sections:
     intro: |-
       **Sekretariát veřejného ochránce práv**
 
-      (+420) 542 542 777
+      Marie Uhlerová, tel: (+420) 542 542 777
 
       **Sekretariát zástupkyně veřejného ochránce práv**
 
