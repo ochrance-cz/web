@@ -19,19 +19,17 @@ we-cannot:
     jiným způsobem můžete svůj problém řešit.
 examples:
   - name: pan Oldřich
-    desc:
-      Žiju v domově pro seniory a vadilo mi, že musím i přes den nosit pyžamo.
+    desc: Žiju v domově pro seniory a vadilo mi, že musím i přes den nosit pyžamo.
       Proto jsem si stěžoval, když k nám přišla na kontrolu právnička od
       ombudsmana. Pomohlo to a teď můžeme všichni nosit přes den svoje normální
       oblečení.
-  - name: Monika
+  - name: paní Monika
     desc: Ředitel našeho dětského domova mi nechtěl dávat propustky, abych mohla
       chodit domů na víkendy a vídat se s mámou. Napsala jsem proto
       ombudsmanovi, ten to prošetřil. Ředitel pak změnil názor a začal mi
       propustky dávat.
   - name: paní Veronika
-    desc:
-      Dříve jsme se ve vězení směly sprchovat v teplé vodě jen jednou týdně. Pak
+    desc: Dříve jsme se ve vězení směly sprchovat v teplé vodě jen jednou týdně. Pak
       se tím začal zabývat ombudsman a změnila se vyhláška, takže dnes máme
       právo na sprchu dvakrát za týden.
 order: 2
