@@ -1,6 +1,8 @@
 ---
 title: "Participace dítěte na rozhodování při hospitalizaci na psychiatrii "
 date: 2021-03-25T15:31:52.710Z
+vystupy:
+  - tz
 perex: "Ve středu 24. března uspořádali zástupkyně ombudsmana Monika Šimůnková a
   náměstek ministra zdravotnictví Radek Policar online seminář, který se věnoval
   participaci dítěte na rozhodování v souvislosti s jeho hospitalizací na
