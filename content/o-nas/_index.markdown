@@ -1,5 +1,5 @@
 ---
-title: O kanceláři veřejného ochránce práv
+title: O Kanceláři veřejného ochránce práv
 menuTitle: O nás
 description: >
   Ombudsman (oficiálně veřejný ochránce práv) chrání osoby před jednáním úřadů a
