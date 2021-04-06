@@ -51,23 +51,21 @@ Pro vložení složitějších prvků do textu je místy potřebné použít ná
 
 Odkazy na Youtube obsahují vždy identifikátor, který označuje konkrétní video. Mohou vypadat např. takto:
 
-```
 https://www.youtube.com/watch?v=dQw4w9WgXcQ&t=20
 https://www.youtube.com/watch?v=dQw4w9WgXcQ
 https://youtu.be/dQw4w9WgXcQ
-```
 
-Pro vložení videa je potřeba jen tento identifikátor. Takto vložené video je zobrazí automaticky ve správné velikosti.
+Pro vložení videa je potřeba jen tento identifikátor nebo adresa. Takto vložené video je zobrazí automaticky ve správné velikosti.
 
 **Ukázka:**
 
 {{< youtube "dQw4w9WgXcQ" >}}
 
-**Kód:**
+**Kód (obě varianty jsou správně):**
 
-<pre>
 &#123;&#123;< youtube "dQw4w9WgXcQ" >&#125;&#125;
-</pre>
+
+&#123;&#123;< youtube "https://youtu.be/dQw4w9WgXcQ" >&#125;&#125;
 
 ### Rozbalovací text
 
@@ -83,10 +81,8 @@ Další odstavec
 
 **Kód:**
 
-<pre>
 &#123;&#123;< rozbal "Titulek" >&#125;&#125;
 Vložený text
 
 Další odstavec
 &#123;&#123;< /rozbal >&#125;&#125;
-</pre>

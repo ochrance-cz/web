@@ -4,11 +4,13 @@
 
   <div {{ with .Params.contentBackdrop }} class="{{ . }}"{{ end }}>
     <section>
-      <h1>Krátký obsah (počet znaků)</h1>
+      <h1>Krátký obsah (počet znaků < 100)</h1>
       <ul>
       {{ range .Site.AllPages }}
+        {{ if ne .Content nil }}
         {{ if and (gt (len .Content) 0) (lt (len .Content) 100) }}
           <li><a href="{{ .Permalink }}">{{ .Title }} — {{ .RelPermalink }}</a> {{ len .Content }}</li>
+        {{ end }}
         {{ end }}
       {{ end }}
       </ul>
