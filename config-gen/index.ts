@@ -205,6 +205,7 @@ const onas = files("O nás", "onas", [
     [
       title("Titulek stránky"),
       string("Titulek v menu", "menuTitle"),
+      image("Ilustrační obrázek", "illustration"),
       text("Perex", "description"),
       markdown("Text stránky", "body"),
       links("Odkazy"),
@@ -257,6 +258,7 @@ const onas = files("O nás", "onas", [
     "content/o-nas/historie/index.md",
     [
       title("Titulek"),
+      image("Ilustrační obrázek", "illustration"),
       list("Časová osa", "Událost", "timeline", [
         string("Časové určení", "time"),
         text("Popis", "desc"),
@@ -270,7 +272,11 @@ const onas = files("O nás", "onas", [
     "Předpisy",
     "predpisy",
     "content/o-nas/predpisy/index.md",
-    [title("Titulek"), markdown("Text stránky", "body")],
+    [
+      title("Titulek"),
+      image("Ilustrační obrázek", "illustration"),
+      markdown("Text stránky", "body"),
+    ],
     {
       media_folder: "",
     }
@@ -320,6 +326,7 @@ const pomoc = folderCollection(
   [
     title("Titulek"),
     text("Perex", "perex"),
+    image("Ilustrační obrázek", "illustration"),
     markdown("Popisek na homepage", "hp"),
     markdown("Úvodní text", "body"),
     list(
@@ -368,6 +375,7 @@ const pusobnost = folderCollection(
   [
     title("Název oblasti"),
     boolean("Uložit jako draft", "draft"),
+    image("Ilustrační obrázek", "illustration"),
     select("Barva hlavičky", "headerColor", headerColors),
     text("Perex", "perex"),
     markdown("Text", "body"),
@@ -448,6 +456,7 @@ const aktualne = folderCollection(
   [
     title("Titulek"),
     boolean("Uložit jako draft", "draft"),
+    image("Ilustrační obrázek", "illustration"),
     datetime("Datum", "date", { time_format: false }),
     relation("Štítky", "vystupy", {
       collection: "vystupy",
