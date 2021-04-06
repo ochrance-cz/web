@@ -1,5 +1,7 @@
 ---
-title: Materiály pro vládu
+title: Materiál pro vládu
+plural: Materiály pro vládu
+listed: true
 slug: pro-vladu
 illustration: vyjadreni-vlada.jpg
 perex: |

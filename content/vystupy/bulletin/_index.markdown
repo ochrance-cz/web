@@ -1,5 +1,6 @@
 ---
 title: Bulletin CRPD
+plural: Bulletiny CRPD
 illustration: bulletin-CRPD-01.JPG
 media: true
 slug: bulletin

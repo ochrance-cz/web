@@ -1,5 +1,7 @@
 ---
-title: Výroční zprávy
+title: Výroční zpráva
+plural: Výroční zprávy
+listed: true
 illustration: vyrocni-zpravy.jpg
 weight: 1
 slug: vyrocni-zprava

@@ -1,6 +1,6 @@
 <div class="_backdrop header {{ with .Params.headerColor }}{{ . }}{{ end }}">
   <header class="_pic-header">
-    <h1>{{ block "title" . }}{{ with .Params.questionTitle }}{{ . }}{{ else }}{{ .Title }}{{ end }}{{ end }}</h1>
+    <h1>{{ with .Params.plural }}{{ . }}{{ else }}{{ with .Params.questionTitle }}{{ . }}{{ else }}{{ .Title }}{{ end }}{{ end }}</h1>
 
     {{ with .Params.illustration }}
       <div class="single-hue-pic-wrapper">

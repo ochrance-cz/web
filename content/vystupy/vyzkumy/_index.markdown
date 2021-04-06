@@ -1,3 +1,5 @@
 ---
-title: Výzkumy
+title: Výzkum
+plural: Výzkumy
+listed: true
 ---
