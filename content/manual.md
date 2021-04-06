@@ -1,5 +1,6 @@
 ---
 title: Manuál k tvorbě webu
+type: manual
 ---
 
 ## Struktura administrace

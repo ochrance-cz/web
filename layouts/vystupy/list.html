@@ -17,7 +17,7 @@
     <section class="_news single-col">
       {{ if eq .RelPermalink "/vystupy/tv/" }}
         {{ range .Pages.GroupByDate "2006" }}
-          {{ partial "collapsible-open.html" (dict "id" "examples" "title" (print "Sezóna " .Key) "open" false) }}
+          {{ partial "collapsible-open.html" (dict "id" .Key "title" (print "Sezóna " .Key) "open" false) }}
           {{ range .Pages }}
             {{ partial "news-preview.html" . }}
           {{ end }}

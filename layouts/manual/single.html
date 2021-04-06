@@ -1,0 +1,40 @@
+{{ define "main" }}
+<main>
+  {{ partial "text-header.html" . }}
+
+  <div {{ with .Params.contentBackdrop }} class="{{ . }}"{{ end }}>
+    <section>
+      {{ with .Params.perex }}
+        <div class="perex">
+          {{ partial "md-block.html" . }}
+        </div>
+      {{ end }}
+
+      {{ with .Params.links }}
+        {{ partial "link-list.html" (dict "list" . "page" $) }}
+      {{ end }}
+
+      {{ .Content }}
+
+      {{ with .Params.linksAfter }}
+        {{ partial "link-list.html" (dict "list" . "page" $) }}
+      {{ end }}
+
+
+      <h2>Všechny odkazy</h2>
+      {{ range .Site.Pages.GroupBy "Section" }}
+      <div>
+        {{ $title := cond (ne .Key "") .Key "obecné" }}
+        {{ partial "collapsible-open.html" (dict "id" $title "title" $title "open" false)}}
+        <p>
+          {{ range sort .Pages "Title" "asc" }}
+            <a href=".Permalink">{{ .Title }}</a><br>
+          {{ end }}
+        </p>
+        {{ partial "collapsible-close.html" }}
+      </div>
+      {{ end }}
+    </section>
+  </div>
+</main>
+{{ end }}
