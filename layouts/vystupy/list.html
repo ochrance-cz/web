@@ -15,13 +15,24 @@
       {{ .Content }}
     </section>
     <section class="_news single-col">
-      {{ $paginator := .Paginate .Pages 20 }}
+      {{ if eq .RelPermalink "/vystupy/tv/" }}
+        {{ range .Pages.GroupByDate "2006" }}
+          {{ partial "collapsible-open.html" (dict "id" "examples" "title" (print "Sezóna " .Key) "open" false) }}
+          {{ range .Pages }}
+            {{ partial "news-preview.html" . }}
+          {{ end }}
+          {{ partial "collapsible-close.html" }}
+        {{ end }}
 
-      {{ range $paginator.Pages }}
-        {{ partial "news-preview.html" . }}
+      {{ else}}
+        {{ $paginator := .Paginate .Pages 20 }}
+
+        {{ range $paginator.Pages }}
+          {{ partial "news-preview.html" . }}
+        {{ end }}
+
+        {{ partial "pagination.html" $paginator }}
       {{ end }}
-
-      {{ partial "pagination.html" $paginator }}
     </section>
   </div>
 </main>

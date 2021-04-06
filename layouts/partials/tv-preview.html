@@ -1,0 +1,36 @@
+<article class="_news-preview">
+  {{ $res := .Resources }}
+  {{ with .Params.pic }}
+    {{ $pic := $res.GetMatch . }}
+    {{ with $pic }}
+      <div class="img-wrapper">
+        <img src="{{ ($pic.Resize "600x").Permalink }}" alt="" aria-hidden="true">
+      </div>
+    {{ end }}
+  {{ end }}
+
+  <div>
+    {{ with .Params.date }}
+      <p class="details">
+        {{ if eq $.Section "aktualne" }}
+          {{ if eq $.Language.Lang "en" }}
+            {{ . | dateFormat "January 2, 2006"}}
+          {{ else }}
+            {{ partial "date.html" (dict "date" . "months" $.Site.Data.months) }}
+          {{ end }}
+          {{ partial "tags.html" $ }}
+        {{ end }}
+      </p>
+    {{ end }}
+
+    <h4>
+      <a
+        href="{{ .Permalink }}"
+        class="icon-{{ with .Params.icon }}{{ . }}{{ else }}arrow{{ end }}">
+        {{- .Title -}}
+      </a>
+    </h4>
+    {{ partial "md-block.html" .Params.perex }}
+  </div>
+</article>
+
