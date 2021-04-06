@@ -2,7 +2,7 @@
 title: Prázdniny bezpečně s ombudsmanem
 situace:
   - cestovani
-  - skolství
+  - skolstvi
   - rodina
 file: prazdniny-bezpecne.pdf
 ---
