@@ -72,7 +72,7 @@ const links = (title: string, name: string = "links") => {
   ]);
 };
 
-const stranky = files("Stránky", "stranky", [
+const stranky = files("Jiné", "stranky", [
   fileCollection("Homepage", "home", "content/_index.markdown", [
     title("Titulek"),
     string("Motto", "claim"),
@@ -88,6 +88,12 @@ const stranky = files("Stránky", "stranky", [
       hint:
         "Titulek se zobrazí na titulní straně, detailní popis na samostatné stránce.",
     }),
+  ]),
+  fileCollection("Přesměrování", "presmerovani", "data/redirects.yml", [
+    list("Seznam přesměrování", "přesměrování", "redirects", [
+      string("Původní adresa", "from"),
+      string("Nová adresa", "to"),
+    ]),
   ]),
   fileCollection(
     "Podejte stížnost",

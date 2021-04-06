@@ -50,6 +50,10 @@ Redirect 301 {{ . }} {{ $link | replaceRE "/$" "" }}
 {{- end -}}
 {{- end }}
 
+{{ range .Site.Data.redirects.redirects }}
+Redirect 301 {{ .from }} {{ .to }}
+{{ end }}
+
 Redirect 301 /zpravy-o-cinnosti/zpravy-pro-poslaneckou-snemovnu/ /dokument/2020
 Redirect 301 /monitorovani-prav-lidi-se-zdravotnim-postizenim/cim-se-zabyvame/vyzkumy/ https://eso.ochrance.cz
 Redirect 301 /monitorovani-prav-lidi-sezdravotnim-postizenim/poradni-organ /pusobnost/monitorovani-prav-osob-se-zdravotnim-postizenim
