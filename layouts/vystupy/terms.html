@@ -5,8 +5,8 @@
   <div {{ with .Params.contentBackdrop }} class="{{ . }}"{{ end }}>
     <section>
       <ul class="_link-list">
-        {{ range where .Pages "Params.media" "ne" true }}
-          <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+        {{ range where .Pages "Params.listed" true }}
+          <li><a href="{{ .Permalink }}">{{ .Params.plural }}</a></li>
         {{ end }}
       </ul>
 
@@ -24,15 +24,6 @@
         <p>
           <a class="_button" href="{{ .Site.BaseURL }}/eso/">Více informací o ESO</a>
         </p>
-
-
-        <h2>{{ i18n "in-media" }}</h2>
-
-        <ul class="_link-list">
-          {{ range where .Pages "Params.media" true }}
-            <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
-          {{ end }}
-        </ul>
       {{ end }}
 
       {{ .Content }}
