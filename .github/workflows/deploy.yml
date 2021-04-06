@@ -2,6 +2,8 @@ name: scp deploy
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "0 * * * *"
   push:
     branches:
       - main
