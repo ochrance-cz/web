@@ -457,7 +457,7 @@ const aktualne = folderCollection(
     title("Titulek"),
     boolean("Uložit jako draft", "draft"),
     image("Ilustrační obrázek", "illustration"),
-    datetime("Datum", "date"),
+    datetime("Datum", "date", { time_format: true }),
     relation("Štítky", "vystupy", {
       collection: "vystupy",
       value_field: "slug",

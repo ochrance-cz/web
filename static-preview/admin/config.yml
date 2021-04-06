@@ -512,12 +512,16 @@ collections:
         name: draft
         required: false
         widget: boolean
+      - label: Ilustrační obrázek
+        name: illustration
+        required: false
+        widget: image
       - label: Datum
         name: date
         required: false
         widget: datetime
         date_format: DD.MM.YYYY
-        time_format: false
+        time_format: true
       - label: Štítky
         name: vystupy
         required: false
@@ -657,6 +661,10 @@ collections:
             name: menuTitle
             required: false
             widget: string
+          - label: Ilustrační obrázek
+            name: illustration
+            required: false
+            widget: image
           - label: Perex
             name: description
             required: false
@@ -799,6 +807,10 @@ collections:
           - label: Titulek
             name: title
             widget: string
+          - label: Ilustrační obrázek
+            name: illustration
+            required: false
+            widget: image
           - label: Časová osa
             name: timeline
             required: false
@@ -821,6 +833,10 @@ collections:
           - label: Titulek
             name: title
             widget: string
+          - label: Ilustrační obrázek
+            name: illustration
+            required: false
+            widget: image
           - editor_components:
               - image
             buttons:
@@ -853,6 +869,10 @@ collections:
         name: draft
         required: false
         widget: boolean
+      - label: Ilustrační obrázek
+        name: illustration
+        required: false
+        widget: image
       - label: Barva hlavičky
         name: headerColor
         required: false
@@ -919,6 +939,10 @@ collections:
         name: perex
         required: false
         widget: text
+      - label: Ilustrační obrázek
+        name: illustration
+        required: false
+        widget: image
       - editor_components:
           - image
         buttons:
