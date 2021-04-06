@@ -491,7 +491,9 @@ const vystupy = folderCollection(
     create: true,
   },
   [
-    title("Název kategorie"),
+    title("Kategorie výstupu (singulár)"),
+    string("Titulek kategorie (plurál)", "plural"),
+    boolean("Zobrazovat v seznamu výstupů z činnosti", "listed"),
     string("Řetezec v adrese", "slug"),
     text("Perex", "perex"),
     image("Ilustrační obrázek", "illustration"),

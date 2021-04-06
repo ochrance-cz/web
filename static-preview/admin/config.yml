@@ -1112,9 +1112,17 @@ collections:
     editor: &ref_27
       preview: false
     fields: &ref_28
-      - label: Název kategorie
+      - label: Kategorie výstupu (singulár)
         name: title
         widget: string
+      - label: Titulek kategorie (plurál)
+        name: plural
+        required: false
+        widget: string
+      - label: Zobrazovat v seznamu výstupů z činnosti
+        name: listed
+        required: false
+        widget: boolean
       - label: Řetezec v adrese
         name: slug
         required: false
