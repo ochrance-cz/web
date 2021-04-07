@@ -1,6 +1,6 @@
 ---
 title: Komunální odpad
-file: komunalni-odpad.pdf
 situace:
   - bydleni
+file: komunalni_odpad_-_iii._21.pdf
 ---
