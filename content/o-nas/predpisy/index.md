@@ -22,5 +22,4 @@ links:
 ## Další dokumenty
 
 * [Benátské principy](Benatske-principy.pdf) — principy ochrany a podpory ombudsmanských institucí ([český neoficiální překlad](Benatske-principy.pdf), [anglický originál](Venice-principles.pdf))
-
-  Principy dobré správy
+* [Principy dobré správy](https://www.ochrance.cz/dokument/principy-dobre-spravy/) — neformální zásady kvalitního spravování věcí veřejných
