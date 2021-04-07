@@ -1,6 +1,6 @@
 ---
 title: Občanské poradny - kontaktní údaje podle krajů
-file: obcanske-poradny.pdf
 situace:
   - pravni-pomoc-a-poradenstvi
+file: obcanske_poradny_-_priloha_-_iv._21.pdf
 ---
