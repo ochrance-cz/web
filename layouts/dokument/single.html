@@ -28,6 +28,10 @@
       {{ with .Params.file }}
         <a href="{{ . }}" class="_button">Stáhnout dokument</a>
       {{ end }}
+
+      {{ with .Params.attachments }}
+        {{ partial "link-list.html" (dict "list" . "page" $) }}
+      {{ end }}
     </section>
   </div>
 </main>
