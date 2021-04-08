@@ -13,10 +13,11 @@ perex: "Zástupkyně ombudsmana Monika Šimůnková dokončila dva výzkumy, kte
   možnost místo zaměstnání lidí s postižením zaplatit finanční sankci, což je v
   případě státní správy demotivující prvek.  "
 attachments:
-  - title: Zaměstnávání lidí s postižením ve veřejném sektoru – pohled zaměstnavatelů
+  - title: "Výzkumná zpráva: Zaměstnávání lidí s postižením ve veřejném sektoru –
+      pohled zaměstnavatelů"
     file: zamestnavani_-_pohled_zamestnavatelu.pdf
-  - title: Zaměstnávání lidí s postižením ve veřejném sektoru – pohled lidí s
-      postižením
+  - title: "Výzkumná zpráva: Zaměstnávání lidí s postižením ve veřejném sektoru –
+      pohled lidí s postižením"
     file: zamestnavani_-_pohled_lidi_s_postizenim.pdf
   - title: Shrnutí výzkumů - verze pro snadné čtení
     file: etr_zamestnavani_lidi_s_postizenim_ve_verejnem_sektoru.pdf
@@ -50,5 +51,7 @@ Výzkum sledující pohled lidí s postižením byl kvalitativní a formou rozho
 * Téměř polovina budov ve veřejném sektoru je pro zaměstnance s postižením z pohledu fyzické mobility nepřístupná.   
 * Současné nastavení systému práce v organizacích státní správy poskytuje jen malé možnosti k začlenění lidí s omezenou pracovní výkonností.   
 * Lidé s vážnějším pracovním omezením se ve veřejném sektoru téměř nezaměstnávají.  
+
+### Výzkumné zprávy a shrnutí:
 
 **Shrnutí výzkumů – video v českém znakovém jazyce:** <https://youtu.be/0_2FlcXnvSc>
