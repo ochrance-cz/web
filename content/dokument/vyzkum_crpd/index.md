@@ -1,7 +1,9 @@
 ---
-title: Výzkum CRPD
+title: Zaměstnávání lidí s postižením ve veřejném sektoru
 date: 2021-04-08T06:50:59.441Z
-draft: true
+draft: false
+vystupy:
+  - vyzkumy
 attachments:
   - file: shrnuti_vyzkumnych_zprav.pdf
     title: Zaměstnávání lidí s postižením ve veřejném sektoru - shrnutí
