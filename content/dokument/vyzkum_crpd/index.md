@@ -16,4 +16,7 @@ attachments:
       postižením
   - file: zamestnavani_ozp_-_vyzkum_-_pohled_zamestnavatelu.pdf
     title: Zaměstnávání lidí s postižením ve veřejném sektoru - pohled zaměstnavatelů
+  - file: shrnuti_vyzkumnych_zprav_-_verze_pro_snadne_cteni.pdf
+    title: Zaměstnávání lidí s postižením ve veřejném sektoru - shrnutí - verze pro
+      snadné čtení
 ---
