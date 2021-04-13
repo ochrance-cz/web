@@ -3,6 +3,7 @@ title: Cítím se být diskriminován
 perex: Antidiskriminační zákon vyjmenovává konkrétní důvody, kvůli nimž s vámi
   nesmí být odlišně zacházeno, a také oblasti, v nichž nesmí docházet k
   nerovnému zacházení.
+illustration: team-spirit-2447163__340.jpg
 hp: >
   Máte pocit, že s vámi někdo zachází hůř kvůli věku, pohlaví, národnosti či z
   jiných zákonem daných důvodů? Dopouští se diskriminace úřad, soukromá firma
@@ -30,15 +31,11 @@ we-can:
     * Členství v profesních komorách a v odborech
     * Zboží a služby včetně bydlení
 we-cannot:
-  - >
-    Ombudsman se může zabývat jen diskriminací uvedenou v antidiskriminačním
+  - Ombudsman se může zabývat jen diskriminací uvedenou v antidiskriminačním
     zákoně. K diskriminaci ale může docházet i v jiných oblastech života a z
-    jiných důvodů, např. kvůli jazyku, sociálnímu původu, členství v politických
-    stranách a hnutích, kvůli manželskému a rodinnému stavu nebo povinnosti k
-    rodině. Za diskriminaci se považuje také obtěžování, vytváření nepřátelského
-    prostředí z diskriminačních důvodů, sexuální obtěžování nebo pronásledování
-    osoby, která se proti diskriminaci bránila. Tyto formy diskriminace zakazují
-    jiné zákony než antidiskriminační.
+    jiných důvodů, např. kvůli sociálnímu původu, členství v politických
+    stranách a hnutích nebo v odborových organizacích, kvůli manželskému a
+    rodinnému stavu.
   - >
     V těchto případech vám alespoň poradíme, co můžete dělat, jak můžete svůj
     problém řešit.
@@ -65,7 +62,6 @@ examples:
       klientům.
     name: pan Karel
 order: 3
-illustration: team-spirit-2447163__340.jpg
 button:
   text: Zjistěte víc o diskriminaci v různých situacích
   link: /situace/diskriminace/
