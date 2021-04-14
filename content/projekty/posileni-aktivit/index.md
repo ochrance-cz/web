@@ -4,9 +4,9 @@ slug: posileni-aktivit
 ongoing: true
 bonus: ""
 illustration:
-  pic: illu.jpg
-  caption: Posílení aktivit veřejného ochránce práv v ochraně lidských práv
-  desc: XY
+  pic: ""
+  caption: ""
+  desc: xy
 partners:
   - logo: norway.png
     name: Norway Grants
