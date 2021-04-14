@@ -1,7 +1,7 @@
 ---
 title: Dohled nad omezováním osobní svobody
-headerColor: pink
 illustration: DET.jpg
+headerColor: pink
 perex: Ombudsman je tzv. národním preventivním mechanismem a chrání lidi omezené
   na svobodě před špatným zacházením. Odbor dohledu nad omezováním osobní
   svobody proto provádí návštěvy míst, kde se lidé omezení na svobodě nacházejí
@@ -13,7 +13,7 @@ cta:
 ---
 Takovými místy jsou nejen věznice a policejní cely, ale také zařízení pro děti, domovy pro seniory, zařízení pro lidi se zdravotním postižením, léčebny pro dlouhodobě nemocné, psychiatrické nemocnice, kojenecké ústavy, zařízení pro zajištění cizinců aj..
 
-*Co je to národní preventivní mechanismus?*
+*Co je to národní preventivní mechanismus se dozvíte ve videu:*
 
 <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fverejny.ochrance.prav%2Fvideos%2F1213417502039257%2F&show_text=false&width=560" width="100%" height="450" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
