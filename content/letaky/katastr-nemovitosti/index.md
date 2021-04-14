@@ -1,6 +1,7 @@
 ---
 title: Katastr nemovitostí
-file: katastr-nemovitosti.pdf
 situace:
   - stavebnictvi
+  - statni-sprava-a-samosprava
+file: katastr-nemovitosti.pdf
 ---
