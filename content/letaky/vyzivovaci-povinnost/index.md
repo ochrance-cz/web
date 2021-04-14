@@ -1,6 +1,7 @@
 ---
 title: Vyživovací povinnost rodičů k dětem, stanovení výživného
-file: vyzivovaci-povinnost.pdf
+draft: true
 situace:
   - rodina
+file: vyzivovaci-povinnost.pdf
 ---
