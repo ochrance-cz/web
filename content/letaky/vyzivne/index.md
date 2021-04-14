@@ -1,5 +1,5 @@
 ---
-title: Výživné na dítě
+title: Výživné na dítě n
 situace:
   - rodina
   - finance-a-zbozi
