@@ -1,6 +1,6 @@
 ---
-title: Úprava styku s dětmi
-file: uprava-styku.pdf
+title: "Děti mezi rodiči "
 situace:
   - rodina
+file: uprava_styku.pdf
 ---
