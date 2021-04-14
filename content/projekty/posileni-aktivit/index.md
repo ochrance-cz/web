@@ -37,7 +37,7 @@ Kancelář vybuduje nové partnerství s **[Norwegian National Human Rights Ins
 
 ## Aktuality
 
-* 14.4.2021 – zveřejňujeme [Doporučení veřejného ochránce práv ve věci deinstitucionalizace péče o malé děti](content/media/doporuceni_ochrance_ve_veci_deinstitucionalizace_pece_o_male_deti.pdf) a Doporučení veřejného ochránce práv ve věci zvýšení odměn pěstounům na přechodnou dobu.
+* 14.4.2021 – zveřejňujeme [Doporučení veřejného ochránce práv ve věci deinstitucionalizace péče o malé děti](content/media/doporuceni_ochrance_ve_veci_deinstitucionalizace_pece_o_male_deti.pdf) a [Doporučení veřejného ochránce práv ve věci zvýšení odměn pěstounům na přechodnou dobu](content/media/doporuceni_ochrance_ve_veci_zvyseni_odmen_pestounum_na_prechodnou_dobu.pdf).
 * 22.3.2021 – přehledný leták pro děti, který popisuje kdo je ombudsman, ve kterých situacích může pomáhat dětem a jak se na něj mohou děti obrátit, máme v několika jazykových variantách. Letáky jsou ke stažení [zde](https://deti.ochrance.cz/english-po-rysski-deutsch-romanes/) .
 * 1.2.2021 – pustili jsme do světa sociálních sítí první osvětové video. Jde o pilotní díl připravované minisérie, která představí práci kanceláře ombudsmana pomocí krátkých videí určených především dětem a dospívajícím. Podívat se na něj můžete [zde](https://www.youtube.com/watch?v=iiw2OM4jDbA).
 
