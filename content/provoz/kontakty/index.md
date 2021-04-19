@@ -446,6 +446,7 @@ lawyers:
       - name: Jana Červenková
         role: "právnička "
         email: "jana.cervenkova@ochrance.cz "
+        phone: 722 981 699
   - title: Odbor dohledu nad omezováním osobní svobody
     intro: >
       provádění systematických preventivních návštěv v zařízení, kde se mohou
