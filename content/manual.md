@@ -87,3 +87,21 @@ Vložený text
 
 Další odstavec
 &#123;&#123;< /rozbal >&#125;&#125;
+
+### Časová osa
+
+**Ukázka:**
+
+{{< cas >}}
+datum :: popis co se stalo
+datum :: popis co se stalo
+datum :: popis co se stalo
+{{< /cas >}}
+
+**Kód:**
+
+&#123;&#123;< cas >&#125;&#125;
+datum :: popis co se stalo
+datum :: popis co se stalo
+datum :: popis co se stalo
+&#123;&#123;< /cas >&#125;&#125;

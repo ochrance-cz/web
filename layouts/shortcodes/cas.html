@@ -1,0 +1,9 @@
+<dl class="_timeline">
+{{ range (split (.Inner) "\n") }}
+  {{ if ne . "" }}
+    {{ $seg := split . "::" }}
+    <dt>{{ index $seg 0 }}</dt>
+    <dd>{{ index $seg 1 }}</dd>
+  {{ end }}
+{{ end }}
+</dl>
