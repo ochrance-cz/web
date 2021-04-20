@@ -57,7 +57,7 @@
                     {{ block "menu-link" . }}{{ end }}
                   {{ end }}
 
-                  {{ range where (where .Site.Pages ".RelPermalink" "/vystupy/") "Kind" "taxonomy" }}
+                  {{ range where .Site.Pages "Dir" "vystupy/" }}
                     {{ block "menu-link" . }}{{ end }}
                   {{ end }}
 
