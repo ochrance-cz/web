@@ -3,7 +3,9 @@ title: Zprávy pro Poslaneckou sněmovnu 2014
 date: 2014-01-01
 vystupy:
   - vyrocni-zprava
-report: Souhrnna-zprava_VOP_2014.pdf
+attachmentsTop:
+  - text: Výroční zpráva
+    link: Souhrnna-zprava_VOP_2014.pdf
 ---
 
 **[Zpráva za 4. čtvrtletí roku 2014](2014-04-Q-web.pdf)**

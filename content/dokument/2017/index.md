@@ -3,11 +3,12 @@ title: Zprávy pro Poslaneckou sněmovnu 2017
 date: 2017-01-01
 vystupy:
   - vyrocni-zprava
-report: Vyrocni-zprava-2017_web.pdf
-subreports:
-  - title: Ochrana před špatným zacházením 2017
+attachmentsTop:
+  - text: Výroční zpráva
+    link: Vyrocni-zprava-2017_web.pdf
+  - text: Ochrana před špatným zacházením 2017
     link: 2017-DET-vyrocni-zprava.pdf
-  - title: Ochrana před diskriminací 2017
+  - text: Ochrana před diskriminací 2017
     link: Vyrocni_zprava_o_ochrane_pred_diskriminaci_2017.pdf
 ---
 

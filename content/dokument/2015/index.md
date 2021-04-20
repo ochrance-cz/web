@@ -3,11 +3,12 @@ title: Zprávy pro Poslaneckou sněmovnu 2015
 date: 2015-01-01
 vystupy:
   - vyrocni-zprava
-report: Souhrnna-zprava_VOP_2015.pdf
-subreports:
-  - title: Ochrana před špatným zacházením 2015
+attachmentsTop:
+  - text: Výroční zpráva
+    link: Souhrnna-zprava_VOP_2015.pdf
+  - text: Ochrana před špatným zacházením 2015
     link: 2015-DET-vyrocni-zprava.pdf
-  - title: Ochrana před diskriminací 2015
+  - text: Ochrana před diskriminací 2015
     link: PDCJ_640-2016_Vyrocni_zprava_DIS_2015.pdf
 ---
 

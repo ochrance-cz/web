@@ -3,7 +3,9 @@ title: Zprávy pro Poslaneckou sněmovnu 2012
 date: 2012-01-01
 vystupy:
   - vyrocni-zprava
-report: Souhrnna_zprava_VOP_2012-web.pdf
+attachmentsTop:
+  - text: Výroční zpráva
+    link: Souhrnna_zprava_VOP_2012-web.pdf
 ---
 
 **[Zpráva za 4. čtvrtletí roku 2012](2012_4_zprava.pdf)**

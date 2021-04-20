@@ -3,7 +3,9 @@ title: Zprávy pro Poslaneckou sněmovnu 2011
 date: 2011-01-01
 vystupy:
   - vyrocni-zprava
-report: Souhrnna_zprava_VOP_2011.pdf
+attachmentsTop:
+  - text: Výroční zpráva
+    link: Souhrnna_zprava_VOP_2011.pdf
 ---
 
 **[Zpráva za 4. čtvrtletí roku 2011](2011_4_ctvrtleti.pdf)**

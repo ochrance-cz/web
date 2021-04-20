@@ -5,7 +5,7 @@
   <div {{ with .Params.contentBackdrop }} class="{{ . }}"{{ end }}>
     <section>
       <ul class="_link-list">
-        {{ range where .Pages "Params.listed" true }}
+        {{ range sort (where .Pages "Params.listed" true) "Params.plural" }}
           <li><a href="{{ .Permalink }}">{{ .Params.plural }}</a></li>
         {{ end }}
       </ul>

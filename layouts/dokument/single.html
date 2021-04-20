@@ -10,16 +10,9 @@
         </div>
       {{ end }}
 
-      {{ if or (isset .Params "report") (isset .Params "subreports") }}
+      {{ with .Params.attachmentsTop }}
         <ul class="_link-list">
-          {{ with .Params.report }}
-            <li><a href="{{ . }}">Výroční zpráva</a></li>
-          {{ end }}
-          {{ with .Params.subreports }}
-            {{ range . }}
-              <li><a href="{{ .link }}">{{ .title }}</a></li>
-            {{ end }}
-          {{ end }}
+          {{ partial "link-list.html" (dict "list" . "page" $) }}
         </ul>
       {{ end }}
 

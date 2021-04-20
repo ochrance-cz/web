@@ -3,7 +3,9 @@ title: Zprávy pro Poslaneckou sněmovnu 2013
 date: 2013-01-01
 vystupy:
   - vyrocni-zprava
-report: Souhrnna-zprava_2013_PDF_A.pdf
+attachmentsTop:
+  - text: Výroční zpráva
+    link: Souhrnna-zprava_2013_PDF_A.pdf
 ---
 
 **[Zpráva za 4. čtvrtletí roku 2013](2013_4Q_zprava.pdf)**

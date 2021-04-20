@@ -3,13 +3,14 @@ title: Zprávy pro Poslaneckou sněmovnu 2018
 date: 2018-01-01
 vystupy:
   - vyrocni-zprava
-report: Vyrocni_zprava_2018.pdf
-subreports:
-  - title: Ochrana před špatným zacházením 2018
+attachmentsTop:
+  - text: Výroční zpráva
+    link: Vyrocni_zprava_2018.pdf
+  - text: Ochrana před špatným zacházením 2018
     link: 2018-DET-vyrocni-zprava.pdf
-  - title: Ochrana před diskriminací 2018
+  - text: Ochrana před diskriminací 2018
     link: 2018-DIS-vyrocni-zprava.pdf
-  - title: Monitorování práv lidí s postižením 2018
+  - text: Monitorování práv lidí s postižením 2018
     link: CRPD_2018_CZ_web.pdf
 ---
 

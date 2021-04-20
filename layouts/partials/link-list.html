@@ -3,7 +3,7 @@
   {{ range .list }}
     <li><a href="
       {{- with .file -}}
-        {{- (print $page.Permalink (replaceRE "^.+/" "" .)) -}}
+        {{- (print $page.Permalink (replaceRE "^https?://www.ochrance.cz/" "/" .)) -}}
       {{- else -}}
         {{- if (findRE "^http" .link) -}}
           {{- .link -}}
@@ -11,6 +11,8 @@
           {{- $link := ($page.GetPage .link).Permalink -}}
           {{- with $link -}}
             {{-  . | absURL -}}
+          {{- else -}}
+            {{ .link }}
           {{- end -}}
         {{- end -}}
       {{- end }}">
