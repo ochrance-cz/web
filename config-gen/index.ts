@@ -43,8 +43,11 @@ const fig = (title: string, name: string) =>
     }),
   ]);
 
-const attached = () =>
-  list("Přílohy", "Příloha", "attachments", [
+const attached = (
+  listTitle: string = "Přílohy",
+  name: string = "attachments"
+) =>
+  list(listTitle, "Příloha", name, [
     title("Název přílohy"),
     file("Soubor", "file"),
     string("Odkaz", "link"),
@@ -308,7 +311,8 @@ const dokument = folderCollection(
       multiple: true,
     }),
     markdown("Text", "body"),
-    attached(),
+    attached("Přílohy před textem", "attachmentsTop"),
+    attached("Přílohy pod textem"),
   ]
 );
 

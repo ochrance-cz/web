@@ -623,7 +623,24 @@ collections:
         name: body
         required: false
         widget: markdown
-      - label: Přílohy
+      - label: Přílohy před textem
+        name: attachmentsTop
+        required: false
+        label_singular: Příloha
+        widget: list
+        fields:
+          - label: Název přílohy
+            name: title
+            widget: string
+          - label: Soubor
+            name: file
+            required: false
+            widget: file
+          - label: Odkaz
+            name: link
+            required: false
+            widget: string
+      - label: Přílohy pod textem
         name: attachments
         required: false
         label_singular: Příloha
