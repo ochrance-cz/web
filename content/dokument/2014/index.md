@@ -4,8 +4,8 @@ date: 2014-01-01
 vystupy:
   - vyrocni-zprava
 attachmentsTop:
-  - text: Výroční zpráva
-    link: Souhrnna-zprava_VOP_2014.pdf
+  - title: Výroční zpráva
+    file: Souhrnna-zprava_VOP_2014.pdf
 ---
 
 **[Zpráva za 4. čtvrtletí roku 2014](2014-04-Q-web.pdf)**

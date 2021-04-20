@@ -4,8 +4,8 @@ date: 2011-01-01
 vystupy:
   - vyrocni-zprava
 attachmentsTop:
-  - text: Výroční zpráva
-    link: Souhrnna_zprava_VOP_2011.pdf
+  - title: Výroční zpráva
+    file: Souhrnna_zprava_VOP_2011.pdf
 ---
 
 **[Zpráva za 4. čtvrtletí roku 2011](2011_4_ctvrtleti.pdf)**

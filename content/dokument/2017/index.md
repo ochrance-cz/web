@@ -4,12 +4,12 @@ date: 2017-01-01
 vystupy:
   - vyrocni-zprava
 attachmentsTop:
-  - text: Výroční zpráva
-    link: Vyrocni-zprava-2017_web.pdf
-  - text: Ochrana před špatným zacházením 2017
-    link: 2017-DET-vyrocni-zprava.pdf
-  - text: Ochrana před diskriminací 2017
-    link: Vyrocni_zprava_o_ochrane_pred_diskriminaci_2017.pdf
+  - title: Výroční zpráva
+    file: Vyrocni-zprava-2017_web.pdf
+  - title: Ochrana před špatným zacházením 2017
+    file: 2017-DET-vyrocni-zprava.pdf
+  - title: Ochrana před diskriminací 2017
+    file: Vyrocni_zprava_o_ochrane_pred_diskriminaci_2017.pdf
 ---
 
 **[Zpráva za 4. čtvrtletí roku 2017](2017_4-Q.pdf)**

@@ -4,8 +4,8 @@ date: 2012-01-01
 vystupy:
   - vyrocni-zprava
 attachmentsTop:
-  - text: Výroční zpráva
-    link: Souhrnna_zprava_VOP_2012-web.pdf
+  - title: Výroční zpráva
+    file: Souhrnna_zprava_VOP_2012-web.pdf
 ---
 
 **[Zpráva za 4. čtvrtletí roku 2012](2012_4_zprava.pdf)**

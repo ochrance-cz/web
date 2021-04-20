@@ -4,12 +4,12 @@ date: 2015-01-01
 vystupy:
   - vyrocni-zprava
 attachmentsTop:
-  - text: Výroční zpráva
-    link: Souhrnna-zprava_VOP_2015.pdf
-  - text: Ochrana před špatným zacházením 2015
-    link: 2015-DET-vyrocni-zprava.pdf
-  - text: Ochrana před diskriminací 2015
-    link: PDCJ_640-2016_Vyrocni_zprava_DIS_2015.pdf
+  - title: Výroční zpráva
+    file: Souhrnna-zprava_VOP_2015.pdf
+  - title: Ochrana před špatným zacházením 2015
+    file: 2015-DET-vyrocni-zprava.pdf
+  - title: Ochrana před diskriminací 2015
+    file: PDCJ_640-2016_Vyrocni_zprava_DIS_2015.pdf
 ---
 
 **[Zpráva za 4. čtvrtletí roku 2015](2015_4_Q.pdf)**

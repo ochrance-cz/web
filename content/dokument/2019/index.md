@@ -4,14 +4,14 @@ date: 2019-01-01
 vystupy:
   - vyrocni-zprava
 attachmentsTop:
-  - text: Výroční zpráva
-    link: Vyrocni-zprava-2019.pdf
-  - text: Ochrana před špatným zacházením 2019
-    link: VZ_DET_2019_CZ.pdf
-  - text: Ochrana před diskriminací 2019
-    link: VZ_DIS_2019_CZ.pdf
-  - text: Monitorování práv lidí s postižením 2019
-    link: VZ_CRPD_2019_CZ.pdf
+  - title: Výroční zpráva
+    file: Vyrocni-zprava-2019.pdf
+  - title: Ochrana před špatným zacházením 2019
+    file: VZ_DET_2019_CZ.pdf
+  - title: Ochrana před diskriminací 2019
+    file: VZ_DIS_2019_CZ.pdf
+  - title: Monitorování práv lidí s postižením 2019
+    file: VZ_CRPD_2019_CZ.pdf
 ---
 
 **[Zpráva za 4. čtvrtletí roku 2019](2019-IV-Q.pdf)**

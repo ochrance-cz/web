@@ -4,14 +4,14 @@ date: 2018-01-01
 vystupy:
   - vyrocni-zprava
 attachmentsTop:
-  - text: Výroční zpráva
-    link: Vyrocni_zprava_2018.pdf
-  - text: Ochrana před špatným zacházením 2018
-    link: 2018-DET-vyrocni-zprava.pdf
-  - text: Ochrana před diskriminací 2018
-    link: 2018-DIS-vyrocni-zprava.pdf
-  - text: Monitorování práv lidí s postižením 2018
-    link: CRPD_2018_CZ_web.pdf
+  - title: Výroční zpráva
+    file: Vyrocni_zprava_2018.pdf
+  - title: Ochrana před špatným zacházením 2018
+    file: 2018-DET-vyrocni-zprava.pdf
+  - title: Ochrana před diskriminací 2018
+    file: 2018-DIS-vyrocni-zprava.pdf
+  - title: Monitorování práv lidí s postižením 2018
+    file: CRPD_2018_CZ_web.pdf
 ---
 
 **[Zpráva za 4. čtvrtletí roku 2018](2018-IV-Q.pdf)**
