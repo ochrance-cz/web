@@ -1,7 +1,7 @@
 ---
 title: Publikace
 slug: publikace
-plural: Publikace
+plural: Sborníky a publikace
 listed: true
 illustration: sborniky-03.JPG
 perex: Zajímá vás určité téma a hledáte k němu komplexní informace? Možná je najdete v některém z našich sborníků, ať už jde o řadu Stanoviska, sborníky z tematických konferencí, nebo o jiné publikace.

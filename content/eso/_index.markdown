@@ -1,6 +1,6 @@
 ---
-title: ESO
-hp: Evidence stanovisek ombudsmana
+title: Evidence stanovisek ombudsmana (ESO)
+hp: ESO je prohledávatelná databáze vydaných stanovisek ombudsmana.
 icon: eso
 perex: ESO je kompletní databáze vydaných stanovisek ombudsmana. Můžete v něm hledat podle konkrétní spisové značky nebo třeba dle oblasti práva.
 ---

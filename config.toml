@@ -32,9 +32,6 @@ home = ["HTML", "RSS", "Elastic", "htaccess"]
   unsafe = true
   hardWraps = true
 
-[permalinks]
-info = "/:filename"
-
 [outputFormats.Elastic]
 baseName = "elastic"
 isPlainText = true

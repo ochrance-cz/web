@@ -1,6 +1,6 @@
 ---
 title: Sborník
 plural: Sborníky
-listed: true
+listed: false
 slug: sbornik
 ---

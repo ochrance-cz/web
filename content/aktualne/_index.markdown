@@ -1,5 +1,5 @@
 ---
-title: Aktuálně ze světa ochránce práv
+title: Aktuálně
 menuTitle: Aktuálně
 illustration: /images/aktuality.jpg
 ---

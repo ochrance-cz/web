@@ -88,6 +88,19 @@ Vložený text
 Další odstavec
 &#123;&#123;< /rozbal >&#125;&#125;
 
+### Tlačítko
+
+**Ukázky:**
+
+{{< button "http://deti.ochrance.cz" "Dětský web" >}}
+{{< button "/vystupy/" "Výstupy" >}}
+
+**Kódy:**
+
+&#123;&#123;< button "http://deti.ochrance.cz" "Dětský web" >&#125;&#125;
+
+&#123;&#123;< button "/vystupy/" "Výstupy" >&#125;&#125;
+
 ### Časová osa
 
 **Ukázka:**
