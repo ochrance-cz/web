@@ -30,22 +30,22 @@ Ombudsman vznesl v roce 2020 celkem 404 připomínek ke 37 materiálům minister
 ### Časová osa významných momentů
 
 {{< cas >}}
-:: Podali jsme žalobu ve veřejném zájmu, kterou jsme napadli územní rozhodnutí o umístění výškové budovy Šantovka Tower v Olomouci.
-:: Představili jsme zprávu z návštěv domovů pro osoby se zdravotním postižením. Kromě jiného zde upozorňujeme, že transformace sociálních služeb se téměř zastavila a přestala být společenským a politickým tématem.
-:: Ohradili jsme se proti nestandardnímu a nepředvídatelnému postupu Ministerstva pro místní rozvoj v souvislosti s návrhem stavebního zákona.
-:: Upozornili jsme na to, že distribuce ochranných pomůcek a jiných prostředků do sociálních služeb či služeb následné péče, které se poskytovaly seniorům, musí mířit i do zařízení, která o seniory pečují, aniž by měla k činnosti potřebná oprávnění.
-:: Upozornili jsme ministry, že některá z vládních opatření proti COVID-19 dopadají nepřiměřeně na zranitelné skupiny, zejména na ohrožené rodiny, lidi s postižením nebo jejich pečující.
-:: Spolu s Ministerstvem pro místní rozvoj jsme společně oslovili provozovatele cestovních kanceláří a uvedli přesné postupy, jak by se cestovní kanceláře měly v případě rušení zájezdů kvůli pandemii COVID-19 vůči klientovi zachovat.
-:: Vydali jsme výzkumnou zprávu mapující, jak obce přistupují k individuálním žádostem o vyhrazené parkování pro osoby se zdravotním postižením. Jen čtvrtina obcí vůči nim projevuje jistou vstřícnost.
-:: Zveřejnili jsme zprávu z návštěv zařízení, která reflektovala dobu pandemie COVID-19. Lidé v zařízeních byli v této době někdy úplně „odříznuti“ od okolí. Omezení návštěv, absence kontaktu s blízkými osobami a mnohdy i nemožnost vycházet z objektu patřily k nejproblematičtějším důsledkům opatření proti šíření onemocnění.
-:: Osvobození bytu v rodinném domě od daně z nabytí nemovitých věcí lze nově uplatnit zpětně. Lidé, kteří si před 1. listopadem 2019 pořídili byt v rodinném domě, mohou osvobození uplatnit, pokud jim ještě neuplynula lhůta pro stanovení daně. Napravuje se tak několik let trvající nespravedlnost způsobená opomenutím zákonodárce, na kterou jsme dlouhodobě upozorňovali.
-:: Připravili jsme informační leták a video, které dětem jednoduchou formou přibližuje činnost ombudsmana a možnosti, jak jim může pomoci. Dále jsme vydali i druhý leták, který je určený dětem umístěným v dětském domově nebo ve výchovném ústavu. Leták se zaměřuje na práva dětí a nejčastější problémy, se kterými se potkávají. 
-:: Vydali jsme sborník Stanovisek: Odstraňování staveb II. Jde o aktualizovanou publikaci pro občany i úřady.
-:: Apelovali jsme na vládu a politickou reprezentaci, aby se zabývaly postupným prodloužením doby důchodového pojištění až na mimořádně přísných 35 let. Povede to k nárůstu počtu seniorů, kterým nevznikne nárok na starobní důchod.
-:: Začali jsme se zabývat stavbou „Nová Masaryčka“ v Praze, abychom prověřili postup úřadů a možné pochybení úřadů.
-:: Vydali jsme výzkum, jak o diskriminaci rozhodují české soudy.
-:: Zveřejnili jsme výzkum rozhodování soudů o podpůrných opatřeních – soudy nejčastěji volí omezení svéprávnosti. Výzkum analyzoval 256 rozhodnutí soudů z let 2013 až 2019.
-:: Spustili jsme podcasty Na kávu s ombudsmanem s radami, jak řešit různé životní situace. 
-:: Začali jsme prověřovat činnost orgánů státní správy v souvislosti s úniky závadných látek do řeky Bečvy.
-:: Vypracovali jsme doporučení týkající se kontaktu dětí v pěstounské péči s rodiči, sourozenci a dalšími blízkými. Upozorňujeme zde, že zakázat kontakt s rodičem může pouze soud.
+::Podali jsme žalobu ve veřejném zájmu, kterou jsme napadli územní rozhodnutí o umístění výškové budovy Šantovka Tower v Olomouci.
+::Představili jsme zprávu z návštěv domovů pro osoby se zdravotním postižením. Kromě jiného zde upozorňujeme, že transformace sociálních služeb se téměř zastavila a přestala být společenským a politickým tématem.
+::Ohradili jsme se proti nestandardnímu a nepředvídatelnému postupu Ministerstva pro místní rozvoj v souvislosti s návrhem stavebního zákona.
+::Upozornili jsme na to, že distribuce ochranných pomůcek a jiných prostředků do sociálních služeb či služeb následné péče, které se poskytovaly seniorům, musí mířit i do zařízení, která o seniory pečují, aniž by měla k činnosti potřebná oprávnění.
+::Upozornili jsme ministry, že některá z vládních opatření proti COVID-19 dopadají nepřiměřeně na zranitelné skupiny, zejména na ohrožené rodiny, lidi s postižením nebo jejich pečující.
+::Spolu s Ministerstvem pro místní rozvoj jsme společně oslovili provozovatele cestovních kanceláří a uvedli přesné postupy, jak by se cestovní kanceláře měly v případě rušení zájezdů kvůli pandemii COVID-19 vůči klientovi zachovat.
+::Vydali jsme výzkumnou zprávu mapující, jak obce přistupují k individuálním žádostem o vyhrazené parkování pro osoby se zdravotním postižením. Jen čtvrtina obcí vůči nim projevuje jistou vstřícnost.
+::Zveřejnili jsme zprávu z návštěv zařízení, která reflektovala dobu pandemie COVID-19. Lidé v zařízeních byli v této době někdy úplně „odříznuti“ od okolí. Omezení návštěv, absence kontaktu s blízkými osobami a mnohdy i nemožnost vycházet z objektu patřily k nejproblematičtějším důsledkům opatření proti šíření onemocnění.
+::Osvobození bytu v rodinném domě od daně z nabytí nemovitých věcí lze nově uplatnit zpětně. Lidé, kteří si před 1. listopadem 2019 pořídili byt v rodinném domě, mohou osvobození uplatnit, pokud jim ještě neuplynula lhůta pro stanovení daně. Napravuje se tak několik let trvající nespravedlnost způsobená opomenutím zákonodárce, na kterou jsme dlouhodobě upozorňovali.
+::Připravili jsme informační leták a video, které dětem jednoduchou formou přibližuje činnost ombudsmana a možnosti, jak jim může pomoci. Dále jsme vydali i druhý leták, který je určený dětem umístěným v dětském domově nebo ve výchovném ústavu. Leták se zaměřuje na práva dětí a nejčastější problémy, se kterými se potkávají. 
+::Vydali jsme sborník Stanovisek: Odstraňování staveb II. Jde o aktualizovanou publikaci pro občany i úřady.
+::Apelovali jsme na vládu a politickou reprezentaci, aby se zabývaly postupným prodloužením doby důchodového pojištění až na mimořádně přísných 35 let. Povede to k nárůstu počtu seniorů, kterým nevznikne nárok na starobní důchod.
+::Začali jsme se zabývat stavbou „Nová Masaryčka“ v Praze, abychom prověřili postup úřadů a možné pochybení úřadů.
+::Vydali jsme výzkum, jak o diskriminaci rozhodují české soudy.
+::Zveřejnili jsme výzkum rozhodování soudů o podpůrných opatřeních – soudy nejčastěji volí omezení svéprávnosti. Výzkum analyzoval 256 rozhodnutí soudů z let 2013 až 2019.
+::Spustili jsme podcasty Na kávu s ombudsmanem s radami, jak řešit různé životní situace. 
+::Začali jsme prověřovat činnost orgánů státní správy v souvislosti s úniky závadných látek do řeky Bečvy.
+::Vypracovali jsme doporučení týkající se kontaktu dětí v pěstounské péči s rodiči, sourozenci a dalšími blízkými. Upozorňujeme zde, že zakázat kontakt s rodičem může pouze soud.
 {{< /cas >}}
