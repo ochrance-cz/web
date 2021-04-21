@@ -12,6 +12,6 @@ perex: Pod pojmem státní správa soudů si toho mnozí moc nepředstavíme. P�
 
 Příští dva podcasty se budou věnovat ochraně zvířat. Budeme hovořit o právech a povinnostech lidí ve vztahu ke zvířatům. Příští pátek se budeme zabývat situacemi zvířat uvnitř, tedy v bytě, domě, na zahradě apod.
 
-Všechny dosud zveřejněné díly najdete na [Youtube ](https://ochrance-preview.netlify.app/admin/#/collections/aktualne/new)nebo na [Spotify](https://open.spotify.com/show/0cUUj1UIaAu3hYzWgLNO6P?fbclid=IwAR2BbFgIdbE2Ke8LubN8m-iVR5KLLj0KsZH-Q96QqzpVYM1WVG3_NFuAel4).
+Všechny dosud zveřejněné díly najdete na [Youtube](https://www.youtube.com/watch?v=LwOJmih0rMQ&list=PLWNv_IxgJdEKvV9-ZYu7VTxvc1SjDRb2i) nebo na [Spotify](https://open.spotify.com/show/0cUUj1UIaAu3hYzWgLNO6P?fbclid=IwAR2BbFgIdbE2Ke8LubN8m-iVR5KLLj0KsZH-Q96QqzpVYM1WVG3_NFuAel4).
 
 Dále jsou podcasty dostupné na všech běžně používaných podcastových aplikacích – Apple Podcasts, Google Podcasty atd.
