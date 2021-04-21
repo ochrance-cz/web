@@ -3,6 +3,9 @@ title: Zprávy pro Poslaneckou sněmovnu 2020
 date: 2020-01-01
 vystupy:
   - vyrocni-zprava
+attachmentsTop:
+  - title: Výroční zpráva 2020
+    file: vy_roc_ni_zpra_va_2020.pdf
 ---
 
 **[Zpráva za 4. čtvrtletí roku 2020](2020-IV-Q.pdf)**
