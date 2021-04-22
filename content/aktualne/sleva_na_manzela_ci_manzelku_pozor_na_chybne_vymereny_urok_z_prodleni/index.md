@@ -1,5 +1,5 @@
 ---
-title: "Sleva na manžela či manželku – pozor na chybně vyměřený úrok z prodlení "
+title: "Sleva na manžela či manželku – pozor na úrok z prodlení "
 date: 2021-04-22T07:55:39.406Z
 vystupy:
   - tz
