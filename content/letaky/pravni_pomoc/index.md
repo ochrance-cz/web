@@ -2,5 +2,5 @@
 title: Právní pomoc
 situace:
   - pravni-pomoc-a-poradenstvi
-file: pravni_pomoc.pdf
+file: pravni-pomoc.pdf
 ---
