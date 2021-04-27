@@ -1,6 +1,6 @@
 ---
-title: "Děti mezi rodiči "
+title: Děti mezi rodiči n
 situace:
   - rodina
-file: ""
+file: uprava-styku.pdf
 ---
