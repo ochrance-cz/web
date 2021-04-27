@@ -5,7 +5,7 @@ description: Jakmile váš podnět (stížnost či upozornění) přijmeme, co n
 descriptionInfoIcon: true
 email:
   - desc: Podání stížnosti - formulář pouze k tisku a vyplnění rukou
-    link: /media/formular_-_podnet_-_tisk.pdf
+    link: /media/formular-podnet-tisk.pdf
   - link: /media/formular_-_podnet.docx
     desc: Podání stížnosti - formulář k vyplnění na počítači
   - link: /media/formular_-_podnet_-_diskriminace_-_tisk.pdf
