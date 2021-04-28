@@ -1,6 +1,5 @@
 ---
 title: Health insurance for foreign nationals
-situace:
-  - zdravotnictvi
+situace: []
 file: zdravotni-pojisteni-cizincu.pdf
 ---
