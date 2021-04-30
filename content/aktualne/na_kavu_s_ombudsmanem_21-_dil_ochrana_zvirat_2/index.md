@@ -8,7 +8,7 @@ perex: Nový podcast navazuje na téma z minulého týdne – ochranu zvířat. 
   dostaneme se nejen k tématu chovu zvířat, ale třeba i k situaci nálezu
   zraněného zvířete. Minule jsme se zaměřili na situace, když jsou zvířata
   “uvnitř”, dnes to budou situace, když jsou zvířata "venku", tedy například
-  žijí v lese nebo třeba na poli. Řekneme také, jak je to se zvířaty na
+  žijí-li v lese nebo třeba na poli. Řekneme také, jak je to se zvířaty na
   procházce.
 ---
 {{< youtube "mijh5Udllis" >}}
