@@ -99,6 +99,7 @@ jobs:
               rm vystupy
               rm vzdelavaci-akce
               rm vzor
+              rm media
               rm .htaccess
               rm obcane-eu
               ln -s www-prod/obcane-eu obcane-eu
@@ -126,6 +127,7 @@ jobs:
               ln -s www-prod/kontrola kontrola
               ln -s www-prod/letaky letaky
               ln -s www-prod/manual manual
+              ln -s www-prod/media media
               ln -s www-prod/o-nas o-nas
               ln -s www-prod/organizacni-rad organizacni-rad
               ln -s www-prod/podejte-stiznost podejte-stiznost
