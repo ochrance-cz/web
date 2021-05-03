@@ -431,10 +431,6 @@ lawyers:
         role: právník
         phone: 542 542 271
         email: martin.smid@ochrance.cz
-      - name: Anna Katerina Vintrová
-        role: právnička
-        phone: 542 542 253
-        email: anna.vintrova@ochrance.cz
       - name: Jana Vomelová
         role: právnička
         phone: 542 542 227
@@ -544,10 +540,6 @@ lawyers:
         role: právník
         phone: 542 542 374
         email: petr.polak@ochrance.cz
-      - name: Veronika Vítková
-        role: právnička
-        email: veronika.vitkova@ochrance.cz
-        phone: 542 542 250
       - name: Romana Švecová
         role: "právnička "
         phone: 542 542 256
