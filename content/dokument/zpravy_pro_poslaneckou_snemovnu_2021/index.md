@@ -10,6 +10,3 @@ attachments:
   - title: Příloha: věci, v nichž nebylo dosaženo nápravy
     file: 2021-i-q.pdf
 ---
-
-
-Příloha: věci, v nichž nebylo dosaženo nápravy: odmítnutí příspěvku na bydlení, zastavená výplata podpory v nezaměstnanosti
