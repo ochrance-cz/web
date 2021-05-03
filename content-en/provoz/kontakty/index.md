@@ -493,6 +493,10 @@ lawyers:
         role: právník
         phone: 542 542 374
         email: petr.polak@ochrance.cz
+      - name: Ondřej Kašpar
+        role: právník
+        phone: 542 542 255
+        email: ondrej.kaspar@ochrance.cz
   - title: Odbor metodiky a analýzy
     people:
       - name: Jaroslav Švoma
