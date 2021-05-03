@@ -552,6 +552,10 @@ lawyers:
         role: "právnička "
         phone: 542 542 256
         email: romana.svecova@ochrance.cz
+      - name: Ondřej Kašpar
+        role: "právník "
+        phone: 542 542 255
+        email: ondrej.kaspar@ochrance.cz
   - title: Odbor metodiky a analýzy
     people:
       - name: Jaroslav Švoma
