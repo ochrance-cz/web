@@ -13,7 +13,7 @@ partners:
 gallery:
   - pic: dsc_0825upraveno.jpg
     alt: Na obrázku jsou reklamní předměty s logem Norských fondů.
-  - pic: dsc_0812upraveno.jpg
+  - pic: dsc_0817upraveno.jpg
     alt: Na obrázku jsou reklamní předměty s logem Norských fondů.
 ---
 ## Stručný popis projektu
