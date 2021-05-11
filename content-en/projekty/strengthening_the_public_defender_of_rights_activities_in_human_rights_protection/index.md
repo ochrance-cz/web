@@ -36,7 +36,8 @@ The Office will forge a new partnership with the **[Norwegian National Human R
 
 ## News
 
-January 1, 2021 – we launched the first educational video into the world of social networks. It is a pilot part of a miniseries being prepared, which will present the work of the Ombudsman's office using short videos intended primarily for children and adolescents. You can see the video [here](https://www.youtube.com/watch?v=iiw2OM4jDbA).
+* March 22, 2021 - a clear leaflet for children, which describes who the ombudsman is, in which situations he can help children and how children can turn to them, we have in several language variants. Leaflets can be downloaded [here](https://deti.ochrance.cz/english-po-rysski-deutsch-romanes/).
+* January 1, 2021 – we launched the first educational video into the world of social networks. It is a pilot part of a miniseries being prepared, which will present the work of the Ombudsman's office using short videos intended primarily for children and adolescents. You can see the video [here](https://www.youtube.com/watch?v=iiw2OM4jDbA).
 
 ![The picture shows the text: What we implemented in 2020.](what_we_implemented.jpg)
 
