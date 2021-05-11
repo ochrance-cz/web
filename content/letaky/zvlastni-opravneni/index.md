@@ -1,6 +1,7 @@
 ---
-title: Zvláštní oprávnění veřejného ochránce práv
-file: zvlastni-opravneni.pdf
+title: "Ombudsman: pomáhá i jinak (zvláštní oprávnění)"
 situace:
   - ombudsman-a-jeho-pravomoce
+file: ""
+info: zvlastni-opravneni.pdf
 ---
