@@ -65,4 +65,4 @@ Kancelář vybuduje nové partnerství s **[Norwegian National Human Rights Ins
 
 ![Na fotce sedí za stolem během tiskové konference ombudsmanka Anna Šabatová, právnička a tisková mluvčí.](tk_norske_fondy_.png "Zahajovací tisková konference")
 
-## <https://www.eeagrants.cz/>
+<https://www.eeagrants.cz/>
