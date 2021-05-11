@@ -11,10 +11,10 @@ partners:
   - logo: norway.png
     name: Norway Grants
 gallery:
-  - pic: illu.jpg
-    alt: text
-  - pic: illu.jpg
-    alt: text
+  - pic: dsc_0825upraveno.jpg
+    alt: Na obrázku jsou reklamní předměty s logem Norských fondů.
+  - pic: dsc_0812upraveno.jpg
+    alt: Na obrázku jsou reklamní předměty s logem Norských fondů.
 ---
 ## Stručný popis projektu
 
