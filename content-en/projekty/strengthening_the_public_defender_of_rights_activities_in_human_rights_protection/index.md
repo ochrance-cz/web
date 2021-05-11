@@ -4,6 +4,10 @@ title: Strengthening the Public Defender of Rights’ activities in human rights
 ongoing: true
 illustration:
   desc: XY
+  pic: ""
+gallery:
+  - pic: dsc_0825upraveno.jpg
+  - pic: dsc_0812upraveno.jpg
 ---
 
 ![The picture shows the logo Norway grants.](norway_grants_2.png)
