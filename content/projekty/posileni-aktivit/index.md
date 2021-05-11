@@ -7,15 +7,19 @@ illustration:
   pic: ""
   caption: ""
   desc: xy
-partners:
-  - logo: norway.png
-    name: Norway Grants
+partners: []
 gallery:
   - pic: dsc_0825upraveno.jpg
     alt: Na obrázku jsou reklamní předměty s logem Norských fondů.
   - pic: dsc_0817upraveno.jpg
     alt: Na obrázku jsou reklamní předměty s logem Norských fondů.
 ---
+![Na obrázku je logo Norských fondů.](norway.png)
+
+## Partneři projektu
+
+Kancelář vybuduje nové partnerství s Norwegian National Human Rights Institution, která působí jako norská národní lidskoprávní instituce (dále jen „NHRI“) a má zkušenosti s uplatňováním lidskoprávního přístupu ve své činnosti. Zaměstnanci Kanceláře navštíví tuto norskou instituci, aby získali know-how, příklady dobré praxe a inspirovali se v metodách práce.
+
 ## Stručný popis projektu
 
 Veřejný ochránce práv (dále jen „ochránce“) dle zákona č. 349/1999 Sb., o veřejném ochránci práv, ve znění pozdějších předpisů, od samého počátku chrání osoby před jednáním vybraných veřejných úřadů a institucí, čímž má dle výslovného zákonného požadavku přispívat k ochraně základních práv a svobod. Jeho referenčním rámcem má být nejen prostá zákonnost, nýbrž vedle principů dobré správy rovněž principy demokratického právního státu, mezi něž v moderních demokraciích neodmyslitelně patří ochrana základních práv a svobod. V následujících letech se navíc působnost ochránce rozrostla o výsostně lidskoprávní agendy jako je např. ochrana osob omezených na svobodě a agenda rovného zacházení a ochrany před diskriminací.
@@ -32,8 +36,6 @@ Projekt cílí na vyvážení zmiňovaného stavu tím, že personálně posiluj
 * Posílení práva na rovné zacházení a ochranu před diskriminací (odbor rovného zacházení).
 
 **Tento předem definovaný projekt pod registračním číslem LP-PDP3-001 je financován z Norských fondů 2014 – 2021** (program Lidská práva) a umožní provádění analytické, výzkumné a osvětové činnosti, které napomohou zlepšení situace ohrožených a marginalizovaných skupin, a to jak z hlediska ochrany jejich práv, tak z hlediska získávání kompetencí při jejich prosazování.
-
-Kancelář vybuduje nové partnerství s **[Norwegian National Human Rights Institution](https://www.nhri.no/)**, která působí jako norská národní lidskoprávní instituce (dále jen „NHRI“) a má zkušenosti s uplatňováním lidskoprávního přístupu ve své činnosti. Zaměstnanci Kanceláře navštíví tuto norskou instituci, aby získali know-how, příklady dobré praxe a inspirovali se v metodách práce.
 
 ## Aktuality
 
