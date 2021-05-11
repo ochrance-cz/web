@@ -7,7 +7,7 @@ illustration:
   pic: ""
 gallery:
   - pic: dsc_0825upraveno.jpg
-  - pic: dsc_0812upraveno.jpg
+  - pic: dsc_0817upraveno.jpg
 ---
 
 ![The picture shows the logo Norway grants.](norway_grants_2.png)
