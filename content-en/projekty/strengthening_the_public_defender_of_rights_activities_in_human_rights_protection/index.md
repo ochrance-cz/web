@@ -11,9 +11,17 @@ gallery:
 ---
 ![The picture shows the logo Norway grants.](norway_grants_4x.png)
 
+## **Project partners**
+
+The Office will forge a new partnership with the Norwegian National Human Rights Institution, (i.e. the Norwegian NHRI), which is experienced in promoting human rights approach within its activities. Employees of the Office will visit the Norwegian NHRI in order to obtain know-how and familiarise themselves with best practices and working methods of their Norwegian colleagues.
+
+## Project Summary
+
 Pursuant to Act No. 349/1999 Coll., on the Public Defender of Rights, as amended, the Public Defender of Rights (hereinafter the “Defender”) has, from the very beginning of the institution, protected individuals against acts of selected public authorities and institutions in order to carry out his or her explicit statutory role of contributing to the protection of fundamental rights and freedoms. The Defender is active not only within the framework of maintaining basic lawfulness; in addition to protecting the principles of good governance, the Defender also monitors the observance of rule of law to the extent in which it is inseparably linked with the protection of fundamental rights and freedoms in modern democratic countries. In the years that followed the establishment of the Defender’s institution, new responsibilities closely linked with human rights were added to the Defender’s portfolio, including e.g. protection of persons deprived of liberty, equal treatment and protection against discrimination.
 
 At the present time, the Defender, i.e. the Office of the Public Defender of Rights (hereinafter the “Office”), which provides for the professional, organisational and technical support of the Defender’s activities, has sufficient resources to fund its basic roles and responsibilities. However, the Defender lacks resources to cover a broader range of activities with a society-wide impact aimed at promoting systemic changes.
+
+## Project Goal
 
 The project aims to address this situation by hiring new staff for four of the Office’s departments:
 
