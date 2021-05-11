@@ -11,7 +11,7 @@ gallery:
 ---
 ![The picture shows the logo Norway grants.](norway_grants_4x.png)
 
-## **Project partners**
+## **Project Partners**
 
 The Office will forge a new partnership with the Norwegian National Human Rights Institution, (i.e. the Norwegian NHRI), which is experienced in promoting human rights approach within its activities. Employees of the Office will visit the Norwegian NHRI in order to obtain know-how and familiarise themselves with best practices and working methods of their Norwegian colleagues.
 
