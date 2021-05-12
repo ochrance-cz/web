@@ -14,7 +14,7 @@ gallery:
   - pic: dsc_0817upraveno.jpg
     alt: Na obrázku jsou reklamní předměty s logem Norských fondů.
 ---
-![Na obrázku je logo Norských fondů.](norway_grants_4x.png)
+![Na obrázku je logo Norských fondů.](norway_grants_-_logo_-_kopie.png)
 
 ## Partneři projektu
 
