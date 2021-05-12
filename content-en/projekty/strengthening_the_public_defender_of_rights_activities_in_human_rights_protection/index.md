@@ -9,7 +9,7 @@ gallery:
   - pic: dsc_0825upraveno.jpg
   - pic: dsc_0817upraveno.jpg
 ---
-![The picture shows the logo Norway grants.](norway_grants_4x.png)
+![The picture shows the logo Norway grants.](norway_grants_-_logo_-_kopie.png)
 
 ## **Project Partners**
 
