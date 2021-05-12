@@ -882,6 +882,10 @@ collections:
       - label: Název oblasti
         name: title
         widget: string
+      - label: Překladový klíč
+        name: translationKey
+        required: false
+        widget: string
       - label: Uložit jako draft
         name: draft
         required: false
@@ -956,6 +960,10 @@ collections:
         name: perex
         required: false
         widget: text
+      - label: Překladový klíč
+        name: translationKey
+        required: false
+        widget: string
       - label: Ilustrační obrázek
         name: illustration
         required: false
@@ -1193,6 +1201,10 @@ collections:
         name: draft
         required: false
         widget: boolean
+      - label: Překladový klíč
+        name: translationKey
+        required: false
+        widget: string
       - label: Odkazy
         name: links
         required: false
@@ -1256,6 +1268,10 @@ collections:
         name: draft
         required: false
         widget: boolean
+      - label: Překladový klíč
+        name: translationKey
+        required: false
+        widget: string
       - label: Odkazy
         name: links
         required: false
@@ -1352,6 +1368,10 @@ collections:
         widget: boolean
       - label: Řetezec v adrese
         name: slug
+        required: false
+        widget: string
+      - label: Překladový klíč
+        name: translationKey
         required: false
         widget: string
       - label: Probíhající projekt

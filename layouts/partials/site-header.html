@@ -102,9 +102,9 @@
               {{ end }}
             {{ else }}
               {{ if eq .Language.Lang "cs" }}
-                <li><a href="{{ .Site.BaseURL }}{{ "/en/" | absURL }}" class="lang">EN</a></li>
+                <li><a href="{{ "/en/" | absURL }}" class="lang">EN</a></li>
               {{ else }}
-                <li><a href="{{ .Site.BaseURL }}{{ "/" | absURL }}" class="lang">CS</a></li>
+                <li><a href="{{ "/" | absURL }}" class="lang">CS</a></li>
               {{ end }}
             {{ end }}
           </ul>

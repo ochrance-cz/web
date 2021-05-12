@@ -143,6 +143,19 @@ function debounce(func, wait) {
   };
 }
 
-document.addEventListener("DOMContentLoaded", function () {
+function setupTargetBlanks() {
+  var links = Array.prototype.slice.call(
+    document.querySelectorAll(
+      'a[href$=".pdf"], a[href*="//"]:not([href*="' + window.location.hostname + '"]'
+    )
+  );
+  links.forEach(function (link) {
+    link.setAttribute('target', '_blank');
+    link.setAttribute('rel', 'noopener');
+  });
+}
+
+document.addEventListener('DOMContentLoaded', function () {
   initSearch();
+  setupTargetBlanks();
 });
