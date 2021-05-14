@@ -4,7 +4,7 @@ title: "Na kávu s ombudsmanem, 23. díl: Mezinárodní den rodiny – podpora d
 date: 2021-05-14T10:01:04.588Z
 vystupy:
   - podcast
-perex: 15. května slavíme Mezinárodní den rodiny, u této příležitosti budeme v
+perex: 15.května slavíme Mezinárodní den rodiny, u této příležitosti budeme v
   dnešním podcastu hovořit o sociální službě rané péče, která podporuje děti s
   postižením a jejich rodiny. Vysvětlíme, v čem podpora spočívá a komu je
   určena. Věnovat se budeme také výzvám, kterým poskytovatelé rané péče čelí, a
