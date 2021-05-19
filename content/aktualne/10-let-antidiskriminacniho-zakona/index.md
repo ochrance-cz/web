@@ -14,6 +14,7 @@ perex: <p>Už 10 let platí v České republice antidiskriminační zákon.
 ---
 <i>„S antidiskriminačním zákonem přišel do naší společnosti nový pohled, stali jsme se vyspělejší společností. Praxe nám ale pořád ještě nejde a máme značné rezervy, takže se v médiích dočítáme o diskriminaci, ať už například kvůli věku, národnosti či pohlaví,“</i> hodnotí deset let s antidiskriminačním zákonem <b>místopředsedkyně Senátu Miluše Horská</b>.
 
+<br>
 **#**test
 
 <br>
@@ -21,6 +22,7 @@ perex: <p>Už 10 let platí v České republice antidiskriminační zákon.
 | ------------ | --- | --- |
 |  |  |  |
 |  | xyz |  |
+<br>
 <br>
 <b>Ombudsmanka Anna Šabatová</b>, do jejíž působnosti patří ochrana před diskriminací a zajišťování rovného zacházení, s ní souhlasí a dodává: <i>„Před deseti lety se bouřlivě diskutovalo o tom, jestli antidiskriminační zákon potřebujeme a jestli se u nás diskriminace vyskytuje. Dnes už o tom těžko někdo pochybuje. K diskriminaci dochází zcela běžně v nejrůznějších oblastech, někdy dokonce velmi často, jen tyto jevy nebyly v minulosti pojmenovány a oběti nerovného zacházení neměly šanci se bránit. Díky antidiskriminačnímu zákonu se pomalu daří společnost v některých oblastech života kultivovat k férovému a rovnému přístupu. Řada stereotypů a předsudků však přetrvává.“</i> Podle ní k tomu přispívá nízká ochota samotných obětí diskriminace bránit se proti porušování svých práv, nesmířit se s nerovným zacházením a nebát se obrátit i na soud. Důvodem je přetrvávající přesvědčení, že nemá smysl se bránit, obava před dalšími hrozbami ze strany diskriminujících i nedostatek finančních prostředků na soudní výlohy. I po deseti letech účinnosti antidiskriminačního zákona se tak lidé na soudy obrátí v průměru pouze s pěti žalobami proti diskriminaci za rok. <i>„Ocitáme se v začarovaném kruhu. Máme sice zákon, který zakazuje diskriminaci, ale protože se lidé nebrání a hrozba žalob je nízká, diskriminovat se vyplácí. Po deseti letech účinnosti antidiskriminačního zákona si musíme přiznat, že mu chybí možnosti efektivní vymahatelnosti nápravy a zejména preventivní účinek,“</i> vysvětluje ombudsmanka.
 
