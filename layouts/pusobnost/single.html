@@ -20,33 +20,6 @@
     </section>
   </div>
 
-  {{ $newsCat := "" }}
-  {{ if findRE "monitorovani" .File.Dir }}
-   {{ $newsCat = "monitorovani" }}
-  {{ end }}
-  {{ if findRE "diskriminace" .File.Dir }}
-   {{ $newsCat = "diskriminace" }}
-  {{ end }}
-  {{ if findRE "osobni-svobody" .File.Dir }}
-   {{ $newsCat = "detence" }}
-  {{ end }}
-
   {{ partial "cta.html" . }}
-
-  {{ if and (eq .Language.Lang "cs") (ne $newsCat "") }}
-    <div class="_backdrop news">
-      <section class="_news">
-        <h2>{{ i18n "news" }}</h2>
-
-        {{ with .GetPage (print "/vystupy/" $newsCat) }}
-          {{ range first 3 .Pages }}
-            {{ partial "news-preview.html" . }}
-          {{ end }}
-
-          <p><a href="{{ .Permalink }}" class="_button">{{ i18n "more-news" }}</a></p>
-        {{ end }}
-      </section>
-    </div>
-  {{ end }}
 </main>
 {{ end }}
