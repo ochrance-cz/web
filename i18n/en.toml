@@ -183,3 +183,6 @@ other = "All materials"
 
 [handouts-by-sit]
 other = "By situation"
+
+[all-situations]
+other = "Show all situations"
