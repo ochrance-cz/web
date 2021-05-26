@@ -393,6 +393,7 @@ const dokument = folderCollection(
     markdown('Text', 'body'),
     attached('Přílohy před textem', 'attachmentsTop'),
     attached('Přílohy pod textem'),
+    attached('Přílohy do textu', 'attachmentsHidden'),
   ]
 );
 
