@@ -31,6 +31,15 @@ const pic = (title: string, name: string) =>
     }),
   ]);
 
+const slug = () =>
+  string('Řetezec v adrese', 'slug', {
+    hint: 'Pouze číslice, písmena anglické abecedy, spojovník a podtržítko.',
+    pattern: [
+      '^[a-z0-9-_]+$',
+      'Řetezec v adrese může obsahovat pouze číslice, písmena anglické abecedy, spojovník a podtržítko.',
+    ],
+  });
+
 const fig = (title: string, name: string) =>
   object(title, name, [
     image('Obrázek', 'pic'),
@@ -460,6 +469,7 @@ const situace = folderCollection(
   },
   [
     title('Název situace'),
+    slug(),
     string('Titulek ve formě otázky', 'questionTitle'),
     text('Perex', 'perex'),
     image('Ilustrační obrázek', 'illustration'),

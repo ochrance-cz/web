@@ -1,3 +1,4 @@
 ---
 title: Důchody
+slug: duchody
 ---
