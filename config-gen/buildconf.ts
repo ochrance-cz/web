@@ -1,4 +1,4 @@
-import { stringify } from "https://deno.land/std/encoding/yaml.ts";
+import { stringify } from 'https://deno.land/std/encoding/yaml.ts';
 
 interface Base {
   name: string;
@@ -16,7 +16,7 @@ interface BaseWidget extends Base, Options {}
 const base = (name: string, label: string, options?: Options) => {
   const w: BaseWidget = { label, name };
 
-  if (name !== "title" && (!options || !options.required)) w.required = false;
+  if (name !== 'title' && (!options || !options.required)) w.required = false;
   if (options) {
     if (options.hint) w.hint = options.hint;
     if (options.pattern) w.pattern = options.pattern;
@@ -26,77 +26,61 @@ const base = (name: string, label: string, options?: Options) => {
 };
 
 interface ImageWidget extends BaseWidget {
-  widget: "image";
+  widget: 'image';
 }
 
-export const image = (
-  label: string,
-  name: string,
-  options?: Options
-): ImageWidget => {
-  const w = { ...base(name, label, options), widget: "image" as const };
+export const image = (label: string, name: string, options?: Options): ImageWidget => {
+  const w = { ...base(name, label, options), widget: 'image' as const };
 
   return w;
 };
 
 interface FileWidget extends BaseWidget {
-  widget: "file";
+  widget: 'file';
 }
 
-export const file = (
-  label: string,
-  name: string,
-  options?: Options
-): FileWidget => {
-  const w = { ...base(name, label, options), widget: "file" as const };
+export const file = (label: string, name: string, options?: Options): FileWidget => {
+  const w = { ...base(name, label, options), widget: 'file' as const };
 
   return w;
 };
 
 interface HiddenWidget extends BaseWidget {
-  widget: "hidden";
+  widget: 'hidden';
 }
 
 export const hidden = (name: string, value: string): HiddenWidget => {
-  const w = { ...base(name, name), widget: "hidden" as const };
+  const w = { ...base(name, name), widget: 'hidden' as const };
 
   return w;
 };
 
 interface StringWidget extends BaseWidget {
-  widget: "string";
+  widget: 'string';
 }
 
-export const string = (
-  label: string,
-  name: string,
-  options?: Options
-): StringWidget => {
-  const w = { ...base(name, label, options), widget: "string" as const };
+export const string = (label: string, name: string, options?: Options): StringWidget => {
+  const w = { ...base(name, label, options), widget: 'string' as const };
 
   return w;
 };
 
 export const title = (label: string) => {
-  return string(label, "title", { required: true });
+  return string(label, 'title', { required: true });
 };
 
 interface TextWidget extends BaseWidget {
-  widget: "text";
+  widget: 'text';
 }
 
-export const text = (
-  label: string,
-  name: string,
-  options?: Options
-): TextWidget => {
-  const w = { ...base(name, label, options), widget: "text" as const };
+export const text = (label: string, name: string, options?: Options): TextWidget => {
+  const w = { ...base(name, label, options), widget: 'text' as const };
 
   return w;
 };
 
 interface MarkdownWidget extends BaseWidget {
-  widget: "markdown";
+  widget: 'markdown';
   minimal?: boolean;
   buttons?: string[];
   editor_components?: string[];
@@ -108,50 +92,42 @@ interface MarkdownOptions extends Options {
   editor_components?: string[];
 }
 
-export const markdown = (
-  label: string,
-  name: string,
-  options?: Options
-): MarkdownWidget => {
+export const markdown = (label: string, name: string, options?: Options): MarkdownWidget => {
   const w = {
-    editor_components: ["image"],
+    editor_components: ['image'],
     buttons: [
-      "bold",
-      "italic",
-      "link",
-      "heading-two",
-      "heading-three",
-      "heading-four",
-      "quote",
-      "bulleted-list",
-      "numbered-list",
+      'bold',
+      'italic',
+      'link',
+      'heading-two',
+      'heading-three',
+      'heading-four',
+      'quote',
+      'bulleted-list',
+      'numbered-list',
     ],
     ...base(name, label, options),
-    widget: "markdown" as const,
+    widget: 'markdown' as const,
   };
 
   return w;
 };
 
 interface MapWidget extends BaseWidget {
-  widget: "map";
+  widget: 'map';
 }
 
-export const map = (
-  label: string,
-  name: string,
-  options?: Options
-): MapWidget => {
-  const w = { ...base(name, label, options), widget: "map" as const };
+export const map = (label: string, name: string, options?: Options): MapWidget => {
+  const w = { ...base(name, label, options), widget: 'map' as const };
 
   return w;
 };
 
 interface ListWidget extends BaseWidget {
-  widget: "list";
+  widget: 'list';
   label_singular: string;
-  fields?: Widget[];
-  field?: Widget;
+  fields?: AnyWidget[];
+  field?: AnyWidget;
   collapsed?: boolean;
 }
 
@@ -163,13 +139,13 @@ export const list = (
   label: string,
   label_singular: string,
   name: string,
-  fields: Widget[] | Widget,
+  fields: AnyWidget[] | AnyWidget,
   options?: ListOptions
 ): ListWidget => {
   const w: ListWidget = {
     ...base(name, label, options),
     label_singular,
-    widget: "list" as const,
+    widget: 'list' as const,
   };
 
   if (Array.isArray(fields)) w.fields = fields;
@@ -183,22 +159,18 @@ export const list = (
 };
 
 interface BooleanWidget extends BaseWidget {
-  widget: "boolean";
+  widget: 'boolean';
 }
 
-export const boolean = (
-  label: string,
-  name: string,
-  options?: Options
-): BooleanWidget => {
-  const w = { ...base(name, label, options), widget: "boolean" as const };
+export const boolean = (label: string, name: string, options?: Options): BooleanWidget => {
+  const w = { ...base(name, label, options), widget: 'boolean' as const };
 
   return w;
 };
 
 interface ObjectWidget extends BaseWidget {
-  widget: "object";
-  fields: Widget[];
+  widget: 'object';
+  fields: AnyWidget[];
   collapsed?: boolean;
 }
 
@@ -209,11 +181,11 @@ interface ObjectOptions extends Options {
 export const object = (
   label: string,
   name: string,
-  fields: Widget[],
+  fields: AnyWidget[],
   options?: ObjectOptions
 ): ObjectWidget => {
   const w = {
-    widget: "object" as const,
+    widget: 'object' as const,
     ...base(name, label, options),
     fields,
   } as ObjectWidget;
@@ -231,7 +203,7 @@ interface SelectItem {
 }
 
 interface SelectWidget extends BaseWidget {
-  widget: "select";
+  widget: 'select';
   multiple?: boolean;
   options: string[] | SelectItem[];
 }
@@ -248,7 +220,7 @@ export const select = (
 ): SelectWidget => {
   const w: SelectWidget = {
     ...base(name, label, options),
-    widget: "select" as const,
+    widget: 'select' as const,
     options: items,
   };
 
@@ -258,7 +230,7 @@ export const select = (
 };
 
 interface DatetimeWidget extends BaseWidget {
-  widget: "datetime";
+  widget: 'datetime';
   date_format: string | boolean;
   time_format: string | boolean;
 }
@@ -275,22 +247,16 @@ export const datetime = (
 ): DatetimeWidget => {
   const w: DatetimeWidget = {
     ...base(name, label, options),
-    widget: "datetime" as const,
-    date_format:
-      options && options.date_format !== undefined
-        ? options.date_format
-        : "DD.MM.YYYY",
-    time_format:
-      options && options.time_format !== undefined
-        ? options.time_format
-        : "HH:mm",
+    widget: 'datetime' as const,
+    date_format: options && options.date_format !== undefined ? options.date_format : 'DD.MM.YYYY',
+    time_format: options && options.time_format !== undefined ? options.time_format : 'HH:mm',
   };
 
   return w;
 };
 
 interface RelationWidget extends BaseWidget {
-  widget: "relation";
+  widget: 'relation';
   collection: string;
   value_field: string;
   display_fields?: string[];
@@ -306,22 +272,12 @@ interface RelationOptions extends Options {
   multiple?: boolean;
 }
 
-export const relation = (
-  label: string,
-  name: string,
-  options: RelationOptions
-): RelationWidget => {
-  const {
-    collection,
-    value_field,
-    display_fields,
-    search_fields,
-    multiple,
-  } = options;
+export const relation = (label: string, name: string, options: RelationOptions): RelationWidget => {
+  const { collection, value_field, display_fields, search_fields, multiple } = options;
 
   const w = {
     ...base(name, label, options),
-    widget: "relation" as const,
+    widget: 'relation' as const,
     collection,
     value_field,
     display_fields,
@@ -332,18 +288,9 @@ export const relation = (
   return w;
 };
 
-type Widget =
-  | BaseWidget
-  | StringWidget
-  | MarkdownWidget
-  | ListWidget
-  | ObjectWidget
-  | SelectWidget
-  | RelationWidget;
-
 export interface FileCollection extends Base {
   file: string;
-  fields: Widget[];
+  fields: AnyWidget[];
   media_folder?: string;
 }
 
@@ -355,7 +302,7 @@ export const fileCollection = (
   label: string,
   name: string,
   file: string,
-  fields: Widget[],
+  fields: AnyWidget[],
   options?: FileCollectionOptions
 ): FileCollection => {
   checkDuplicates(fields, name);
@@ -367,8 +314,7 @@ export const fileCollection = (
     fields,
   };
 
-  if (options && options.media_folder !== undefined)
-    col["media_folder"] = options.media_folder;
+  if (options && options.media_folder !== undefined) col['media_folder'] = options.media_folder;
 
   return col;
 };
@@ -382,11 +328,7 @@ export interface Files {
   files: FileCollection[];
 }
 
-export const files = (
-  label: string,
-  name: string,
-  files: FileCollection[]
-): Files => {
+export const files = (label: string, name: string, files: FileCollection[]): Files => {
   checkDuplicates(files, name);
 
   return {
@@ -413,8 +355,23 @@ export interface FolderCollection {
   editor: {
     preview: boolean;
   };
-  fields: Widget[];
+  fields: AnyWidget[];
 }
+
+export type AnyWidget =
+  | ImageWidget
+  | FileWidget
+  | HiddenWidget
+  | StringWidget
+  | TextWidget
+  | MarkdownWidget
+  | MapWidget
+  | ListWidget
+  | BooleanWidget
+  | ObjectWidget
+  | SelectWidget
+  | DatetimeWidget
+  | RelationWidget;
 
 interface FolderConfig {
   folder: string;
@@ -431,7 +388,7 @@ export const folderCollection = (
   label_singular: string,
   name: string,
   folderConfig: FolderConfig,
-  fields: Widget[]
+  fields: AnyWidget[]
 ): FolderCollection => {
   const { folder, extension } = folderConfig;
   checkDuplicates(fields, name);
@@ -450,29 +407,23 @@ export const folderCollection = (
 
   if (folderConfig.create === true) d.create = true;
   if (folderConfig.path !== undefined) d.path = folderConfig.path;
-  if (folderConfig.media_folder !== undefined)
-    d.media_folder = folderConfig.media_folder;
-  if (folderConfig.public_folder !== undefined)
-    d.public_folder = folderConfig.public_folder;
-  if (folderConfig.preview_path !== undefined)
-    d.preview_path = folderConfig.preview_path;
+  if (folderConfig.media_folder !== undefined) d.media_folder = folderConfig.media_folder;
+  if (folderConfig.public_folder !== undefined) d.public_folder = folderConfig.public_folder;
+  if (folderConfig.preview_path !== undefined) d.preview_path = folderConfig.preview_path;
 
   return d;
 };
 
 const checkDuplicates = (items: Base[], name: string) => {
-  const duplicates = findDuplicates(items.map((f) => f.name));
+  const duplicates = findDuplicates(items.map(f => f.name));
   if (duplicates.length > 0) {
     throw new Error(
-      `Repeating name${duplicates.length > 1 ? "s" : ""} "${duplicates.join(
-        ", "
-      )}" in "${name}"!`
+      `Repeating name${duplicates.length > 1 ? 's' : ''} "${duplicates.join(', ')}" in "${name}"!`
     );
   }
 };
 
-const findDuplicates = (arr: string[]) =>
-  arr.filter((item, index) => arr.indexOf(item) != index);
+const findDuplicates = (arr: string[]) => arr.filter((item, index) => arr.indexOf(item) != index);
 
 export const save = (path: string, config: object) => {
   const yaml = stringify(config);

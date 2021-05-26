@@ -20,6 +20,7 @@ import {
   title,
   folderCollection,
   FolderCollection,
+  AnyWidget,
 } from './buildconf.ts';
 
 const pic = (title: string, name: string) =>
@@ -221,7 +222,7 @@ const onas = files('O nás', 'onas', [
       image('Portrét', 'pic'),
       string('Citát / motto', 'quote'),
       markdown('Krátký životopis', 'bio'),
-      list('Oblasti', 'Oblast', 'areas', [string('Název', 'area'), string('Popis', 'desc')]),
+      list('Oblasti', 'oblast', 'areas', [string('Název', 'area'), string('Popis', 'desc')]),
     ],
     {
       media_folder: '',
@@ -237,7 +238,7 @@ const onas = files('O nás', 'onas', [
       image('Portrét', 'pic'),
       string('Citát / motto', 'quote'),
       markdown('Krátký životopis', 'bio'),
-      list('Oblasti', 'Oblast', 'areas', [string('Název', 'area'), text('Popis', 'desc')]),
+      list('Oblasti', 'oblast', 'areas', [string('Název', 'area'), text('Popis', 'desc')]),
     ],
     {
       media_folder: '',
@@ -345,7 +346,7 @@ const headerColors = [
 
 const pusobnost = folderCollection(
   'Působnost',
-  'Oblast',
+  'oblast působnosti',
   'pusobnost',
   {
     folder: 'content/pusobnost',
@@ -478,7 +479,7 @@ const situace = folderCollection(
 
 const vystupy = folderCollection(
   'Kategorie výstupů',
-  'Kategorie výstupů',
+  'kategorie výstupů',
   'vystupy',
   {
     folder: 'content/vystupy',
@@ -490,7 +491,7 @@ const vystupy = folderCollection(
     title('Kategorie výstupu (singulár)'),
     string('Titulek kategorie (plurál)', 'plural'),
     boolean('Zobrazovat v seznamu výstupů z činnosti', 'listed'),
-    string('Řetezec v adrese', 'slug'),
+    slug(),
     text('Perex', 'perex'),
     image('Ilustrační obrázek', 'illustration'),
   ]
@@ -510,6 +511,7 @@ const letaky = folderCollection(
   },
   [
     title('Název letáku'),
+    slug(),
     boolean('Uložit jako draft', 'draft'),
     relation('Situace', 'situace', {
       collection: 'situace',
@@ -540,7 +542,7 @@ const projekty = folderCollection(
   [
     title('Název projektu'),
     boolean('Uložit jako draft', 'draft'),
-    string('Řetezec v adrese', 'slug'),
+    slug(),
     string('Překladový klíč', 'translationKey'),
     boolean('Probíhající projekt', 'ongoing'),
     markdown('Popis projektu', 'body'),
@@ -563,6 +565,7 @@ const englishFolder = (collection: FolderCollection) => {
     label: `${collection.label} (EN)`,
     label_singular: `${collection.label_singular} (en)`,
     folder: collection.folder.replace('content/', 'content-en/'),
+    fields: collection.fields.map((field: AnyWidget) => englishWidget(field)),
   };
 };
 
@@ -573,8 +576,17 @@ const englishFiles = (files: Files) => {
     files: files.files.map((file: FileCollection) => ({
       ...file,
       file: file.file.replace('content/', 'content-en/'),
+      fields: file.fields.map((field: AnyWidget) => englishWidget(field)),
     })),
   };
+};
+
+const englishWidget = (widget: AnyWidget) => {
+  const ew = { ...widget };
+
+  if (ew.widget && ew.widget === 'relation') ew.collection = `${ew.collection}-en`;
+
+  return ew;
 };
 
 save('./static-preview/admin/config.yml', {
@@ -582,6 +594,7 @@ save('./static-preview/admin/config.yml', {
     name: 'git-gateway',
     branch: 'main',
   },
+  locale: 'cs',
   media_folder: 'content/media',
   public_folder: '/media',
   site_domain: 'http://ochrance-preview.netlify.app',
