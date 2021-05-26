@@ -3,8 +3,44 @@
   {{ partial "text-header.html" . }}
 
   <section>
+    <ul class="_horizontal-list">
+      {{ with .GetPage "/situace" }}
+        <li><a href="{{ .Permalink }}">{{ i18n "handouts-by-sit" }}</a></li>
+      {{ end }}
+      <li><a href="{{ .Permalink }}" class="selected">{{ i18n "handouts-all" }}</a></li>
+    </ul>
+
+    <ul class="_link-list">
+      {{ range .Pages }}
+        {{ $path := replaceRE "[^/]+$" "" .Permalink }}
+        <li><a href="
+          {{- if (len (findRE "^http" .Params.file)) }}
+            {{ .Params.file }}
+          {{- else -}}
+            {{ $path }}{{ .Params.file | replaceRE ".+/" "" }}
+          {{- end }}">{{ .Title | replaceRE " -[  ]" " – " }}</a>
+          {{ if (in .Params.situace "Formuláře") }}
+            <span class="_label">Formulář</span>
+          {{ end }}
+          {{ if or (isset .Params "info") (isset .Params "roma") (isset .Params "seeing") }}
+            <ul>
+              {{ with .Params.info }}
+                <li><a href="{{ $path }}{{ . | replaceRE ".+/" "" }}">příloha</a></li>
+              {{ end }}
+              {{ with .Params.roma }}
+                <li><a href="{{ $path }}{{ . | replaceRE ".+/" "" }}">romsky</a></li>
+              {{ end }}
+              {{ with .Params.seeing }}
+                <li><a href="{{ $path }}{{ . | replaceRE ".+/" "" }}">verze pro osoby se zrakovým postižením</a></li>
+              {{ end }}
+            </ul>
+          {{ end }}
+        </li>
+      {{ end }}
+    </ul>
+
     {{ with .GetPage "/situace" }}
-      <p><a href="{{ .Permalink }}" class="_button">{{ .Title }}</a></p>
+      <p><a href="{{ .Permalink }}" class="_button">{{ i18n "show-situations" }}</a></p>
     {{ end }}
   </section>
 </main>

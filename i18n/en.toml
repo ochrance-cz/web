@@ -177,3 +177,9 @@ other = "Download examples"
 
 [go-to-sits]
 other = "Explore by life situations"
+
+[handouts-all]
+other = "All materials"
+
+[handouts-by-sit]
+other = "By situation"

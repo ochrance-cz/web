@@ -10,6 +10,13 @@
         </div>
       {{ end }}
 
+      <ul class="_horizontal-list">
+        <li><a href="{{ .Permalink }}" class="selected">{{ i18n "handouts-by-sit" }}</a></li>
+        {{ with .GetPage "/letaky" }}
+          <li><a href="{{ .Permalink }}">{{ i18n "handouts-all" }}</a></li>
+        {{ end }}
+      </ul>
+
       <ul class="_link-list">
         {{ range sort .Pages "File.Path" "asc" }}
           <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>

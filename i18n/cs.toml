@@ -168,3 +168,9 @@ other = "má na starosti"
 
 [go-to-sits]
 other = "Přejít na rozcestník"
+
+[handouts-all]
+other = "Všechny materiály"
+
+[handouts-by-sit]
+other = "Dle situace"
