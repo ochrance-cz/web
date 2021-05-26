@@ -195,6 +195,97 @@ const stranky = files('Jiné', 'stranky', [
   ]),
 ]);
 
+const strankyEn = files('Jiné', 'stranky', [
+  fileCollection('Homepage', 'home', 'content/_index.markdown', [
+    title('Titulek'),
+    string('Motto', 'claim'),
+    markdown('Hlavní text', 'body'),
+    string('Mezititulek: potřebuji pomoc', 'situationsTitle'),
+    string('Mezititulek: činnost', 'cinnostTitle'),
+    markdown('Info o přístupnosti', 'accessibility'),
+  ]),
+  fileCollection('Varování', 'varovani', 'content/alert/_index.markdown', [
+    title('Titulek'),
+    boolean('Je varování aktivní?', 'active'),
+    markdown('Podrobný popis', 'body', {
+      hint: 'Titulek se zobrazí na titulní straně, detailní popis na samostatné stránce.',
+    }),
+  ]),
+  fileCollection('Podejte stížnost', 'stiznost', 'content/podejte-stiznost/_index.markdown', [
+    title('Titulek'),
+    string('Podtitul', 'description'),
+    list('Formuláře (e-mail)', 'formulář', 'email', [
+      file('Soubor', 'link'),
+      string('Popis', 'desc'),
+    ]),
+    list('Formuláře (poštou)', 'formulář', 'post', [
+      file('Soubor', 'link'),
+      string('Popis', 'desc'),
+    ]),
+    list('Formuláře (osobně)', 'formulář', 'inperson', [
+      file('Soubor', 'link'),
+      string('Popis', 'desc'),
+    ]),
+    object('Jak napsat ombudsmanovi', 'submission', [
+      title('Titulek'),
+      markdown('Poznámky', 'body'),
+    ]),
+    list('Ukázky', 'ukázkově vyplněný formulář', 'example-links', [
+      file('Soubor', 'link'),
+      string('Popis', 'desc'),
+    ]),
+  ]),
+  fileCollection('Kontakt', 'kontakt', 'content/kontakt.md', [
+    title('Titulek'),
+    string('Podtitul', 'description'),
+    string('Titulek v menu', 'menuTitle'),
+    string('Telefonní číslo', 'phone'),
+    string('E-mail', 'email'),
+    string('ID datové schránky', 'dataId'),
+    markdown('Adresa', 'address'),
+    string('Komentář k adrese', 'addressComment'),
+    object('Přístup do budov', 'access', [
+      markdown('Pěšky', 'walk'),
+      markdown('MHD', 'public'),
+      markdown('Obecně', 'universal'),
+      image('Ilustrační obrázek', 'pic'),
+    ]),
+  ]),
+  fileCollection(
+    'Přístupnost budovy',
+    'budova',
+    'content/pristupnost/budova/index.md',
+    [
+      title('Titulek'),
+      list('Sekce', 'sekce', 'gallery', [
+        image('Ilustrační obrázek', 'pic'),
+        markdown('Text', 'desc'),
+      ]),
+    ],
+    {
+      media_folder: '',
+    }
+  ),
+  fileCollection(
+    'Snadné čtení',
+    'easy-read',
+    'content/pristupnost/snadne-cteni/index.md',
+    [title('Titulek'), markdown('Text stránky', 'body')],
+    {
+      media_folder: '',
+    }
+  ),
+  fileCollection(
+    'Výstupy',
+    'output',
+    'content/vystupy/_index.markdown',
+    [title('Titulek'), markdown('Podtitul na homepage', 'hp')],
+    {
+      media_folder: '',
+    }
+  ),
+]);
+
 const onas = files('O nás', 'onas', [
   fileCollection(
     'O kanceláři',
@@ -618,7 +709,7 @@ save('./static-preview/admin/config.yml', {
     info,
     info106,
     projekty,
-    englishFiles(stranky),
+    englishFiles(strankyEn),
     englishFolder(aktualne),
     englishFolder(dokument),
     englishFiles(onas),
