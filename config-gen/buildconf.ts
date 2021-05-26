@@ -113,6 +113,23 @@ export const markdown = (label: string, name: string, options?: Options): Markdo
   return w;
 };
 
+interface CustomEditorWidget extends BaseWidget {
+  widget: 'customEditor';
+}
+
+export const customEditor = (
+  label: string,
+  name: string,
+  options?: Options
+): CustomEditorWidget => {
+  const w = {
+    ...base(name, label, options),
+    widget: 'customEditor' as const,
+  };
+
+  return w;
+};
+
 interface MapWidget extends BaseWidget {
   widget: 'map';
 }
@@ -365,6 +382,7 @@ export type AnyWidget =
   | StringWidget
   | TextWidget
   | MarkdownWidget
+  | CustomEditorWidget
   | MapWidget
   | ListWidget
   | BooleanWidget

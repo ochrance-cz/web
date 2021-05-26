@@ -1,12 +1,12 @@
 import {
   string,
-  hidden,
   text,
   datetime,
   list,
   file,
   image,
   markdown,
+  customEditor,
   boolean,
   object,
   select,
@@ -453,7 +453,7 @@ const aktualne = folderCollection(
       multiple: true,
     }),
     text('Perex', 'perex'),
-    markdown('Text', 'body'),
+    customEditor('Text', 'body'),
     attached(),
   ]
 );
