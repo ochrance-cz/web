@@ -1,7 +1,8 @@
 ---
 title: Daň z příjmu. Základní příručka
+slug: dan-z-prijmu
 situace:
   - prace
   - finance-a-zbozi
-file: dan_z_prijmu.pdf
+file: dan-z-prijmu.pdf
 ---
