@@ -40,4 +40,4 @@ Svá zjištění a doporučení týkající se podmínek v určitém typu zaří
 <tr><td>Zařízení sociálních služeb</td><td>129</td><td>6</td><td>14</td><td>3</td></tr>
 <tr><td>Zdravotnická zařízení</td><td>56</td><td>6</td><td>4</td><td>5</td></tr></tbody></table>
 
-### [Mapy navštívených zařízení](https://www.google.com/maps/d/embed?mid=1h8Nxe-xnknSxOMrZKUyud0jmjdpsLAyt&hl=cs&ll=49.860819393211585%2C15.441935000000022&z=8)
+### [Mapa navštívených zařízení](https://www.google.com/maps/d/embed?mid=1h8Nxe-xnknSxOMrZKUyud0jmjdpsLAyt&hl=cs&ll=49.860819393211585%2C15.441935000000022&z=8)
