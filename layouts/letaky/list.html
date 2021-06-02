@@ -11,7 +11,7 @@
     </ul>
 
     <ul class="_link-list">
-      {{ range .Pages }}
+      {{ range sort .Pages "File.Path" "asc" }}
         {{ $path := replaceRE "[^/]+$" "" .Permalink }}
         <li><a href="
           {{- if (len (findRE "^http" .Params.file)) }}
