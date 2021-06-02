@@ -547,6 +547,7 @@ const aktualne = folderCollection(
     text('Perex', 'perex'),
     customEditor('Text', 'body'),
     attached(),
+    attached('Přílohy do textu', 'attachmentsHidden'),
   ]
 );
 

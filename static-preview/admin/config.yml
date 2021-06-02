@@ -559,6 +559,23 @@ collections:
             name: link
             required: false
             widget: string
+      - label: Přílohy do textu
+        name: attachmentsHidden
+        required: false
+        label_singular: Příloha
+        widget: list
+        fields: &ref_4
+          - label: Název přílohy
+            name: title
+            widget: string
+          - label: Soubor
+            name: file
+            required: false
+            widget: file
+          - label: Odkaz
+            name: link
+            required: false
+            widget: string
     create: true
     path: '{{slug}}/index'
     media_folder: ''
@@ -569,7 +586,7 @@ collections:
     label_singular: dokument
     folder: content/dokument
     extension: md
-    editor: &ref_4
+    editor: &ref_5
       preview: false
     fields:
       - label: Titulek
@@ -591,14 +608,14 @@ collections:
         widget: relation
         collection: vystupy
         value_field: slug
-        display_fields: &ref_5
+        display_fields: &ref_6
           - title
-        search_fields: &ref_6
+        search_fields: &ref_7
           - title
         multiple: true
-      - editor_components: &ref_7
+      - editor_components: &ref_8
           - image
-        buttons: &ref_8
+        buttons: &ref_9
           - bold
           - italic
           - link
@@ -617,7 +634,7 @@ collections:
         required: false
         label_singular: Příloha
         widget: list
-        fields: &ref_9
+        fields: &ref_10
           - label: Název přílohy
             name: title
             widget: string
@@ -634,7 +651,7 @@ collections:
         required: false
         label_singular: Příloha
         widget: list
-        fields: &ref_10
+        fields: &ref_11
           - label: Název přílohy
             name: title
             widget: string
@@ -651,7 +668,7 @@ collections:
         required: false
         label_singular: Příloha
         widget: list
-        fields: &ref_11
+        fields: &ref_12
           - label: Název přílohy
             name: title
             widget: string
@@ -692,9 +709,9 @@ collections:
             name: description
             required: false
             widget: text
-          - editor_components: &ref_12
+          - editor_components: &ref_13
               - image
-            buttons: &ref_13
+            buttons: &ref_14
               - bold
               - italic
               - link
@@ -713,7 +730,7 @@ collections:
             required: false
             label_singular: odkaz
             widget: list
-            fields: &ref_14
+            fields: &ref_15
               - label: Odkaz
                 name: link
                 required: false
@@ -742,9 +759,9 @@ collections:
             name: quote
             required: false
             widget: string
-          - editor_components: &ref_15
+          - editor_components: &ref_16
               - image
-            buttons: &ref_16
+            buttons: &ref_17
               - bold
               - italic
               - link
@@ -763,7 +780,7 @@ collections:
             required: false
             label_singular: oblast
             widget: list
-            fields: &ref_17
+            fields: &ref_18
               - label: Název
                 name: area
                 required: false
@@ -792,9 +809,9 @@ collections:
             name: quote
             required: false
             widget: string
-          - editor_components: &ref_18
+          - editor_components: &ref_19
               - image
-            buttons: &ref_19
+            buttons: &ref_20
               - bold
               - italic
               - link
@@ -813,7 +830,7 @@ collections:
             required: false
             label_singular: oblast
             widget: list
-            fields: &ref_20
+            fields: &ref_21
               - label: Název
                 name: area
                 required: false
@@ -839,7 +856,7 @@ collections:
             required: false
             label_singular: Událost
             widget: list
-            fields: &ref_21
+            fields: &ref_22
               - label: Časové určení
                 name: time
                 required: false
@@ -860,9 +877,9 @@ collections:
             name: illustration
             required: false
             widget: image
-          - editor_components: &ref_22
+          - editor_components: &ref_23
               - image
-            buttons: &ref_23
+            buttons: &ref_24
               - bold
               - italic
               - link
@@ -882,7 +899,7 @@ collections:
     label_singular: oblast působnosti
     folder: content/pusobnost
     extension: md
-    editor: &ref_24
+    editor: &ref_25
       preview: false
     fields:
       - label: Název oblasti
@@ -904,7 +921,7 @@ collections:
         name: headerColor
         required: false
         widget: select
-        options: &ref_25
+        options: &ref_26
           - label: Zelená
             value: green
           - label: Růžová
@@ -917,9 +934,9 @@ collections:
         name: perex
         required: false
         widget: text
-      - editor_components: &ref_26
+      - editor_components: &ref_27
           - image
-        buttons: &ref_27
+        buttons: &ref_28
           - bold
           - italic
           - link
@@ -937,7 +954,7 @@ collections:
         label: Kontaktní patička
         name: cta
         required: false
-        fields: &ref_28
+        fields: &ref_29
           - label: Nadpis
             name: title
             widget: string
@@ -956,7 +973,7 @@ collections:
     label_singular: Problematika
     folder: content/potrebuji-pomoc
     extension: md
-    editor: &ref_29
+    editor: &ref_30
       preview: false
     fields:
       - label: Titulek
@@ -974,9 +991,9 @@ collections:
         name: illustration
         required: false
         widget: image
-      - editor_components: &ref_30
+      - editor_components: &ref_31
           - image
-        buttons: &ref_31
+        buttons: &ref_32
           - bold
           - italic
           - link
@@ -990,9 +1007,9 @@ collections:
         name: hp
         required: false
         widget: markdown
-      - editor_components: &ref_32
+      - editor_components: &ref_33
           - image
-        buttons: &ref_33
+        buttons: &ref_34
           - bold
           - italic
           - link
@@ -1011,7 +1028,7 @@ collections:
         required: false
         label_singular: Situace
         widget: list
-        field: &ref_34
+        field: &ref_35
           editor_components:
             - image
           buttons:
@@ -1033,7 +1050,7 @@ collections:
         required: false
         label_singular: Situace
         widget: list
-        field: &ref_35
+        field: &ref_36
           editor_components:
             - image
           buttons:
@@ -1055,7 +1072,7 @@ collections:
         required: false
         label_singular: Příklad
         widget: list
-        fields: &ref_36
+        fields: &ref_37
           - label: Jméno
             name: name
             required: false
@@ -1080,7 +1097,7 @@ collections:
         label: Sekce „podejte podnět“
         name: button
         required: false
-        fields: &ref_37
+        fields: &ref_38
           - label: Text na tlačítku
             name: text
             required: false
@@ -1093,7 +1110,7 @@ collections:
     label_singular: leták
     folder: content/letaky
     extension: md
-    editor: &ref_38
+    editor: &ref_39
       preview: false
     fields:
       - label: Název letáku
@@ -1103,7 +1120,7 @@ collections:
         name: slug
         required: false
         hint: 'Pouze číslice, písmena anglické abecedy, spojovník a podtržítko.'
-        pattern: &ref_39
+        pattern: &ref_40
           - '^[a-z0-9-_]+$'
           - >-
             Řetezec v adrese může obsahovat pouze číslice, písmena anglické
@@ -1119,9 +1136,9 @@ collections:
         widget: relation
         collection: situace
         value_field: slug
-        display_fields: &ref_40
+        display_fields: &ref_41
           - title
-        search_fields: &ref_41
+        search_fields: &ref_42
           - title
         multiple: true
       - label: Leták v PDF
@@ -1149,7 +1166,7 @@ collections:
     label_singular: situace
     folder: content/situace
     extension: md
-    editor: &ref_42
+    editor: &ref_43
       preview: false
     fields:
       - label: Název situace
@@ -1159,7 +1176,7 @@ collections:
         name: slug
         required: false
         hint: 'Pouze číslice, písmena anglické abecedy, spojovník a podtržítko.'
-        pattern: &ref_43
+        pattern: &ref_44
           - '^[a-z0-9-_]+$'
           - >-
             Řetezec v adrese může obsahovat pouze číslice, písmena anglické
@@ -1184,7 +1201,7 @@ collections:
     label_singular: kategorie výstupů
     folder: content/vystupy
     extension: markdown
-    editor: &ref_44
+    editor: &ref_45
       preview: false
     fields:
       - label: Kategorie výstupu (singulár)
@@ -1202,7 +1219,7 @@ collections:
         name: slug
         required: false
         hint: 'Pouze číslice, písmena anglické abecedy, spojovník a podtržítko.'
-        pattern: &ref_45
+        pattern: &ref_46
           - '^[a-z0-9-_]+$'
           - >-
             Řetezec v adrese může obsahovat pouze číslice, písmena anglické
@@ -1223,7 +1240,7 @@ collections:
     label_singular: provozní info
     folder: content/provoz
     extension: md
-    editor: &ref_46
+    editor: &ref_47
       preview: false
     fields:
       - label: Titulek
@@ -1242,7 +1259,7 @@ collections:
         required: false
         label_singular: odkaz
         widget: list
-        fields: &ref_47
+        fields: &ref_48
           - label: Odkaz
             name: link
             required: false
@@ -1251,9 +1268,9 @@ collections:
             name: text
             required: false
             widget: string
-      - editor_components: &ref_48
+      - editor_components: &ref_49
           - image
-        buttons: &ref_49
+        buttons: &ref_50
           - bold
           - italic
           - link
@@ -1272,7 +1289,7 @@ collections:
         required: false
         label_singular: odkaz
         widget: list
-        fields: &ref_50
+        fields: &ref_51
           - label: Odkaz
             name: link
             required: false
@@ -1290,7 +1307,7 @@ collections:
     label_singular: infostránka
     folder: content/info
     extension: md
-    editor: &ref_51
+    editor: &ref_52
       preview: false
     fields:
       - label: Titulek
@@ -1309,7 +1326,7 @@ collections:
         required: false
         label_singular: odkaz
         widget: list
-        fields: &ref_52
+        fields: &ref_53
           - label: Odkaz
             name: link
             required: false
@@ -1318,9 +1335,9 @@ collections:
             name: text
             required: false
             widget: string
-      - editor_components: &ref_53
+      - editor_components: &ref_54
           - image
-        buttons: &ref_54
+        buttons: &ref_55
           - bold
           - italic
           - link
@@ -1339,7 +1356,7 @@ collections:
         required: false
         label_singular: odkaz
         widget: list
-        fields: &ref_55
+        fields: &ref_56
           - label: Odkaz
             name: link
             required: false
@@ -1388,7 +1405,7 @@ collections:
     label_singular: projekt
     folder: content/projekty
     extension: md
-    editor: &ref_56
+    editor: &ref_57
       preview: false
     fields:
       - label: Název projektu
@@ -1402,7 +1419,7 @@ collections:
         name: slug
         required: false
         hint: 'Pouze číslice, písmena anglické abecedy, spojovník a podtržítko.'
-        pattern: &ref_57
+        pattern: &ref_58
           - '^[a-z0-9-_]+$'
           - >-
             Řetezec v adrese může obsahovat pouze číslice, písmena anglické
@@ -1416,9 +1433,9 @@ collections:
         name: ongoing
         required: false
         widget: boolean
-      - editor_components: &ref_58
+      - editor_components: &ref_59
           - image
-        buttons: &ref_59
+        buttons: &ref_60
           - bold
           - italic
           - link
@@ -1432,9 +1449,9 @@ collections:
         name: body
         required: false
         widget: markdown
-      - editor_components: &ref_60
+      - editor_components: &ref_61
           - image
-        buttons: &ref_61
+        buttons: &ref_62
           - bold
           - italic
           - link
@@ -1452,7 +1469,7 @@ collections:
         label: Ilustrační obrázek
         name: illustration
         required: false
-        fields: &ref_62
+        fields: &ref_63
           - label: Obrázek
             name: pic
             required: false
@@ -1471,7 +1488,7 @@ collections:
         required: false
         label_singular: Partner
         widget: list
-        fields: &ref_63
+        fields: &ref_64
           - label: Název
             name: name
             required: false
@@ -1485,7 +1502,7 @@ collections:
         required: false
         label_singular: Fotka
         widget: list
-        fields: &ref_64
+        fields: &ref_65
           - label: Obrázek
             name: pic
             required: false
@@ -1907,6 +1924,12 @@ collections:
         label_singular: Příloha
         widget: list
         fields: *ref_3
+      - label: Přílohy do textu
+        name: attachmentsHidden
+        required: false
+        label_singular: Příloha
+        widget: list
+        fields: *ref_4
     create: true
     path: '{{slug}}/index'
     media_folder: ''
@@ -1917,7 +1940,7 @@ collections:
     label_singular: dokument (en)
     folder: content-en/dokument
     extension: md
-    editor: *ref_4
+    editor: *ref_5
     fields:
       - label: Titulek
         name: title
@@ -1938,11 +1961,11 @@ collections:
         widget: relation
         collection: vystupy-en
         value_field: slug
-        display_fields: *ref_5
-        search_fields: *ref_6
+        display_fields: *ref_6
+        search_fields: *ref_7
         multiple: true
-      - editor_components: *ref_7
-        buttons: *ref_8
+      - editor_components: *ref_8
+        buttons: *ref_9
         label: Text
         name: body
         required: false
@@ -1952,19 +1975,19 @@ collections:
         required: false
         label_singular: Příloha
         widget: list
-        fields: *ref_9
+        fields: *ref_10
       - label: Přílohy pod textem
         name: attachments
         required: false
         label_singular: Příloha
         widget: list
-        fields: *ref_10
+        fields: *ref_11
       - label: Přílohy do textu
         name: attachmentsHidden
         required: false
         label_singular: Příloha
         widget: list
-        fields: *ref_11
+        fields: *ref_12
     create: true
     path: '{{slug}}/index'
     media_folder: ''
@@ -1992,8 +2015,8 @@ collections:
             name: description
             required: false
             widget: text
-          - editor_components: *ref_12
-            buttons: *ref_13
+          - editor_components: *ref_13
+            buttons: *ref_14
             label: Text stránky
             name: body
             required: false
@@ -2003,7 +2026,7 @@ collections:
             required: false
             label_singular: odkaz
             widget: list
-            fields: *ref_14
+            fields: *ref_15
         media_folder: ''
       - label: Veřejný ochránce práv
         name: ombudsman
@@ -2024,8 +2047,8 @@ collections:
             name: quote
             required: false
             widget: string
-          - editor_components: *ref_15
-            buttons: *ref_16
+          - editor_components: *ref_16
+            buttons: *ref_17
             label: Krátký životopis
             name: bio
             required: false
@@ -2035,7 +2058,7 @@ collections:
             required: false
             label_singular: oblast
             widget: list
-            fields: *ref_17
+            fields: *ref_18
         media_folder: ''
       - label: Zástupce
         name: deputy
@@ -2056,8 +2079,8 @@ collections:
             name: quote
             required: false
             widget: string
-          - editor_components: *ref_18
-            buttons: *ref_19
+          - editor_components: *ref_19
+            buttons: *ref_20
             label: Krátký životopis
             name: bio
             required: false
@@ -2067,7 +2090,7 @@ collections:
             required: false
             label_singular: oblast
             widget: list
-            fields: *ref_20
+            fields: *ref_21
         media_folder: ''
       - label: Historie
         name: historie
@@ -2085,7 +2108,7 @@ collections:
             required: false
             label_singular: Událost
             widget: list
-            fields: *ref_21
+            fields: *ref_22
         media_folder: ''
       - label: Předpisy
         name: predpisy
@@ -2098,8 +2121,8 @@ collections:
             name: illustration
             required: false
             widget: image
-          - editor_components: *ref_22
-            buttons: *ref_23
+          - editor_components: *ref_23
+            buttons: *ref_24
             label: Text stránky
             name: body
             required: false
@@ -2110,7 +2133,7 @@ collections:
     label_singular: oblast působnosti (en)
     folder: content-en/pusobnost
     extension: md
-    editor: *ref_24
+    editor: *ref_25
     fields:
       - label: Název oblasti
         name: title
@@ -2131,13 +2154,13 @@ collections:
         name: headerColor
         required: false
         widget: select
-        options: *ref_25
+        options: *ref_26
       - label: Perex
         name: perex
         required: false
         widget: text
-      - editor_components: *ref_26
-        buttons: *ref_27
+      - editor_components: *ref_27
+        buttons: *ref_28
         label: Text
         name: body
         required: false
@@ -2146,7 +2169,7 @@ collections:
         label: Kontaktní patička
         name: cta
         required: false
-        fields: *ref_28
+        fields: *ref_29
         collapsed: true
     create: true
     path: '{{slug}}/index'
@@ -2157,7 +2180,7 @@ collections:
     label_singular: Problematika (en)
     folder: content-en/potrebuji-pomoc
     extension: md
-    editor: *ref_29
+    editor: *ref_30
     fields:
       - label: Titulek
         name: title
@@ -2174,14 +2197,14 @@ collections:
         name: illustration
         required: false
         widget: image
-      - editor_components: *ref_30
-        buttons: *ref_31
+      - editor_components: *ref_31
+        buttons: *ref_32
         label: Popisek na homepage
         name: hp
         required: false
         widget: markdown
-      - editor_components: *ref_32
-        buttons: *ref_33
+      - editor_components: *ref_33
+        buttons: *ref_34
         label: Úvodní text
         name: body
         required: false
@@ -2191,24 +2214,24 @@ collections:
         required: false
         label_singular: Situace
         widget: list
-        field: *ref_34
+        field: *ref_35
       - label: 'Seznam: nemůžeme pomoci'
         name: we-cannot
         required: false
         label_singular: Situace
         widget: list
-        field: *ref_35
+        field: *ref_36
       - label: Příklady
         name: examples
         required: false
         label_singular: Příklad
         widget: list
-        fields: *ref_36
+        fields: *ref_37
       - widget: object
         label: Sekce „podejte podnět“
         name: button
         required: false
-        fields: *ref_37
+        fields: *ref_38
     path: '{{slug}}/index'
     media_folder: ''
     public_folder: ''
@@ -2217,7 +2240,7 @@ collections:
     label_singular: leták (en)
     folder: content-en/letaky
     extension: md
-    editor: *ref_38
+    editor: *ref_39
     fields:
       - label: Název letáku
         name: title
@@ -2226,7 +2249,7 @@ collections:
         name: slug
         required: false
         hint: 'Pouze číslice, písmena anglické abecedy, spojovník a podtržítko.'
-        pattern: *ref_39
+        pattern: *ref_40
         widget: string
       - label: Uložit jako draft
         name: draft
@@ -2238,8 +2261,8 @@ collections:
         widget: relation
         collection: situace-en
         value_field: slug
-        display_fields: *ref_40
-        search_fields: *ref_41
+        display_fields: *ref_41
+        search_fields: *ref_42
         multiple: true
       - label: Leták v PDF
         name: file
@@ -2266,7 +2289,7 @@ collections:
     label_singular: situace (en)
     folder: content-en/situace
     extension: md
-    editor: *ref_42
+    editor: *ref_43
     fields:
       - label: Název situace
         name: title
@@ -2275,7 +2298,7 @@ collections:
         name: slug
         required: false
         hint: 'Pouze číslice, písmena anglické abecedy, spojovník a podtržítko.'
-        pattern: *ref_43
+        pattern: *ref_44
         widget: string
       - label: Titulek ve formě otázky
         name: questionTitle
@@ -2296,7 +2319,7 @@ collections:
     label_singular: kategorie výstupů (en)
     folder: content-en/vystupy
     extension: markdown
-    editor: *ref_44
+    editor: *ref_45
     fields:
       - label: Kategorie výstupu (singulár)
         name: title
@@ -2313,7 +2336,7 @@ collections:
         name: slug
         required: false
         hint: 'Pouze číslice, písmena anglické abecedy, spojovník a podtržítko.'
-        pattern: *ref_45
+        pattern: *ref_46
         widget: string
       - label: Perex
         name: perex
@@ -2330,7 +2353,7 @@ collections:
     label_singular: provozní info (en)
     folder: content-en/provoz
     extension: md
-    editor: *ref_46
+    editor: *ref_47
     fields:
       - label: Titulek
         name: title
@@ -2348,9 +2371,9 @@ collections:
         required: false
         label_singular: odkaz
         widget: list
-        fields: *ref_47
-      - editor_components: *ref_48
-        buttons: *ref_49
+        fields: *ref_48
+      - editor_components: *ref_49
+        buttons: *ref_50
         label: Text
         name: body
         required: false
@@ -2360,7 +2383,7 @@ collections:
         required: false
         label_singular: odkaz
         widget: list
-        fields: *ref_50
+        fields: *ref_51
     create: true
     path: '{{slug}}/index'
     media_folder: ''
@@ -2370,7 +2393,7 @@ collections:
     label_singular: infostránka (en)
     folder: content-en/info
     extension: md
-    editor: *ref_51
+    editor: *ref_52
     fields:
       - label: Titulek
         name: title
@@ -2388,9 +2411,9 @@ collections:
         required: false
         label_singular: odkaz
         widget: list
-        fields: *ref_52
-      - editor_components: *ref_53
-        buttons: *ref_54
+        fields: *ref_53
+      - editor_components: *ref_54
+        buttons: *ref_55
         label: Text
         name: body
         required: false
@@ -2400,7 +2423,7 @@ collections:
         required: false
         label_singular: odkaz
         widget: list
-        fields: *ref_55
+        fields: *ref_56
     create: true
     path: '{{slug}}/index'
     media_folder: ''
@@ -2410,7 +2433,7 @@ collections:
     label_singular: projekt (en)
     folder: content-en/projekty
     extension: md
-    editor: *ref_56
+    editor: *ref_57
     fields:
       - label: Název projektu
         name: title
@@ -2423,7 +2446,7 @@ collections:
         name: slug
         required: false
         hint: 'Pouze číslice, písmena anglické abecedy, spojovník a podtržítko.'
-        pattern: *ref_57
+        pattern: *ref_58
         widget: string
       - label: Překladový klíč
         name: translationKey
@@ -2433,14 +2456,14 @@ collections:
         name: ongoing
         required: false
         widget: boolean
-      - editor_components: *ref_58
-        buttons: *ref_59
+      - editor_components: *ref_59
+        buttons: *ref_60
         label: Popis projektu
         name: body
         required: false
         widget: markdown
-      - editor_components: *ref_60
-        buttons: *ref_61
+      - editor_components: *ref_61
+        buttons: *ref_62
         label: Dodatečný text pod aktualitami k projektu
         name: bonus
         required: false
@@ -2449,19 +2472,19 @@ collections:
         label: Ilustrační obrázek
         name: illustration
         required: false
-        fields: *ref_62
+        fields: *ref_63
       - label: Partneři
         name: partners
         required: false
         label_singular: Partner
         widget: list
-        fields: *ref_63
+        fields: *ref_64
       - label: Galerie
         name: gallery
         required: false
         label_singular: Fotka
         widget: list
-        fields: *ref_64
+        fields: *ref_65
     create: true
     path: '{{slug}}/index'
     media_folder: ''

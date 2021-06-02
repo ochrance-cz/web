@@ -13,6 +13,13 @@ import { Editor } from '@toast-ui/react-editor';
 //  onChange(data: string): void;
 //}
 
+function formatHtml(src: string) {
+  return src
+    .replace('<p>{{', '\n\n{{')
+    .replace('}}</p>', '}}\n\n')
+    .replace('href="content/', 'href="');
+}
+
 class CustomEditorWidgetControl extends React.Component<CmsWidgetControlProps> {
   constructor(props: CmsWidgetControlProps) {
     super(props);
@@ -22,7 +29,7 @@ class CustomEditorWidgetControl extends React.Component<CmsWidgetControlProps> {
 
   handleChange = () => {
     const editor = (this.editorRef as any).current.getInstance();
-    this.props.onChange(editor.getHtml());
+    this.props.onChange(formatHtml(editor.getHtml()));
   };
 
   render = () => (
