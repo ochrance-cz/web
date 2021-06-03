@@ -15,8 +15,8 @@ import { Editor } from '@toast-ui/react-editor';
 
 function formatHtml(src: string) {
   return src
-    .replace('<p>{{', '\n\n{{')
-    .replace('}}</p>', '}}\n\n')
+    .replace('<p>{{&lt;', '\n\n{{<')
+    .replace('&gt;}}</p>', '>}}\n\n')
     .replace('href="content/', 'href="');
 }
 
