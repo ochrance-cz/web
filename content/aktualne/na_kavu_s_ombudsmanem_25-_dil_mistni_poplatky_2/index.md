@@ -13,7 +13,7 @@ perex: Nový podcast pokračuje v tématu z minulého týdne a zabývá se míst
 <p>Přikládáme také <a href="https://www.ochrance.cz/aktualne/na_kavu_s_ombudsmanem_24-_dil_mistni_poplatky_1/" data-tomark-pass="">první díl podcastu</a>, který se věnuje tématu místních poplatků.</p>
 
 
-{{&lt; youtube "ifsZ9HEfZC0" &gt;}}
+{{< youtube "ifsZ9HEfZC0" >}}
 
 
 <p>Další podcast příští týden se bude vztahovat ke Světovému dni životního prostředí, tématem budou odpady, takže navážeme na dva díly o poplatcích za komunální odpad.</p>
