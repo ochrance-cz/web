@@ -10,11 +10,7 @@ perex: Nový podcast pokračuje v tématu z minulého týdne a zabývá se míst
   Popíšeme základní pravidla, jak tyto systémy placení za komunální odpad
   fungují, na co si dát pozor a kde hledat podrobnější informace.
 ---
-
-
-{{&lt; youtube "ifsZ9HEfZC0" &gt;}}
-
-
+<p><span class="colour" style="color: rgb(0, 0, 0);" data-tomark-pass="">{{&lt; youtube “</span>ifsZ9HEfZC0<span class="colour" style="color: rgb(0, 0, 0);" data-tomark-pass="">” &gt;}}</span></p>
 <p>Přikládáme také <a href="https://www.ochrance.cz/aktualne/na_kavu_s_ombudsmanem_24-_dil_mistni_poplatky_1/" data-tomark-pass="">první díl podcastu</a>, který se věnuje tématu místních poplatků.</p>
 <p><br data-tomark-pass=""><br>
 <br data-tomark-pass=""><br>
