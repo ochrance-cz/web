@@ -12,7 +12,7 @@ perex: Nový podcast pokračuje v tématu z minulého týdne a zabývá se míst
 ---
 
 
-{{&lt; youtube "ifsZ9HEfZC0" &gt;}}
+{{< youtube "ifsZ9HEfZC0" >}}
 
 
 <p>Přikládáme také <a href="https://www.ochrance.cz/aktualne/na_kavu_s_ombudsmanem_24-_dil_mistni_poplatky_1/" data-tomark-pass="">první díl podcastu</a>, který se věnuje tématu místních poplatků.</p>
