@@ -12,8 +12,9 @@ attachments:
 <p>„<em>Spolu s ombudsmanem a jeho zástupkyní i zdejšími odborníky bych ráda představovala práci organizace ať už v případech konkrétních stěžovatelů nebo při odhalování a nápravě systémových nedostatků v nejrůznějších oblastech. Líbí se mi, že síla veřejného ochránce práv stojí na autoritě instituce jako takové. Jde nám především o pomoc lidem a ochranu jejich práv i důstojnosti. Lidé by měli vědět, že ombudsman je tu především pro ně</em>,“ říká o svém působení v kanceláři ombudsmana Bočková.</p>
 <p><br data-tomark-pass=""></p>
 <h3>Kontakty:</h3>
-<h3><strong>Mgr. Markéta Bočková</strong></h3>
-<p><span class="colour" style="color:black" data-tomark-pass="">tisková mluvčí</span></p>
+<h3></h3>
+<p><strong>Mgr. Markéta Bočková</strong><br>
+<span class="colour" style="color:black" data-tomark-pass="">tisková mluvčí</span></p>
 <p><br data-tomark-pass=""><br>
 Kancelář veřejného ochránce práv<br>
 Údolní 39, 602 00&nbsp;Brno<br>
