@@ -1,6 +1,7 @@
 ---
 title: Domácí násilí
-file: domaci-nasili.pdf
+slug: domaci-nasili
 situace:
   - rodina
+file: domaci-nasili.pdf
 ---
