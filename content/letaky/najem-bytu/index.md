@@ -1,6 +1,7 @@
 ---
 title: Nájem bytu
-file: najem-bytu.pdf
+slug: najem-bytu
 situace:
   - bydleni
+file: najem-bytu.pdf
 ---
