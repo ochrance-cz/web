@@ -1,6 +1,7 @@
 ---
 title: Konkurzní a insolvenční řízení
-file: konkursni-a-insolvencni-rizeni.pdf
+slug: konkursni-a-insolvencni-rizeni
 situace:
   - dluhy
+file: konkursni-a-insolvencni-rizeni.pdf
 ---
