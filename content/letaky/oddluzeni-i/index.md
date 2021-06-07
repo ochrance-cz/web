@@ -1,6 +1,7 @@
 ---
 title: Oddlužení I
-file: oddluzeni-i.pdf
+slug: oddluzeni-i
 situace:
   - dluhy
+file: oddluzeni-i.pdf
 ---
