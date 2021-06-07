@@ -1,6 +1,7 @@
 ---
 title: Mediace
-file: mediace.pdf
+slug: mediace
 situace:
   - pravni-pomoc-a-poradenstvi
+file: mediace.pdf
 ---
