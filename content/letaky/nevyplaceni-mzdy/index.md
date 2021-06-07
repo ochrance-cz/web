@@ -1,6 +1,7 @@
 ---
 title: Nevyplácení mzdy, platební neschopnost zaměstnavatele a dlužné odstupné
-file: nevyplaceni-mzdy.pdf
+slug: nevyplaceni-mzdy
 situace:
   - prace
+file: nevyplaceni-mzdy.pdf
 ---
