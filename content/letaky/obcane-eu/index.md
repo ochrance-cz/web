@@ -1,6 +1,7 @@
 ---
 title: Občané Evropské unie
-file: obcane-eu.pdf
+slug: obcane-eu
 situace:
   - cestovani
+file: obcane-eu.pdf
 ---
