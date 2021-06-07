@@ -1,7 +1,8 @@
 ---
 title: Daňový řád
-file: danovy-rad.pdf
+slug: danovy-rad
 situace:
   - prace
   - finance-a-zbozi
+file: danovy-rad.pdf
 ---
