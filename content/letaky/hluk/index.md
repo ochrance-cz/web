@@ -1,6 +1,7 @@
 ---
 title: Hluk
-file: hluk.pdf
+slug: hluk
 situace:
   - stavebnictvi
+file: hluk.pdf
 ---
