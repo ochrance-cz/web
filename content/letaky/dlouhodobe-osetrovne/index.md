@@ -1,6 +1,8 @@
 ---
 title: Dlouhodobé ošetřovné
-file: dlouhodobe-osetrovne.pdf
+slug: dlouhodobe-osetrovne
 situace:
   - socialni-pomoc-a-podpora
+  - zdravotnictvi
+file: dlouhodobe-osetrovne.pdf
 ---
