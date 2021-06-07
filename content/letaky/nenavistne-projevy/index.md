@@ -1,6 +1,7 @@
 ---
 title: Nenávistné projevy na internetu
-file: nenavistne-projevy.pdf
+slug: nenavistne-projevy
 situace:
   - diskriminace
+file: nenavistne-projevy.pdf
 ---
