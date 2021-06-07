@@ -1,6 +1,7 @@
 ---
 title: "Šikana na pracovišti: Jak pomoci oběti šikany na pracovišti"
-file: sikana-na-pracovisti_rady.pdf
+slug: sikana-na-pracovisti-rady
 situace:
   - prace
+file: sikana-na-pracovisti-rady.pdf
 ---
