@@ -1,5 +1,6 @@
 ---
 title: Diskriminace
+slug: rovne-zachazeni
 situace:
   - diskriminace
   - lide-se-zdravotnim-postizenim
