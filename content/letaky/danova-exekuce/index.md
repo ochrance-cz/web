@@ -1,6 +1,7 @@
 ---
 title: Daňová exekuce
-file: danova-exekuce.pdf
+slug: danova-exekuce
 situace:
   - dluhy
+file: danova-exekuce.pdf
 ---
