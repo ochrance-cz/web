@@ -1,7 +1,6 @@
 ---
 title: 2021
 ---
-
 ### 1/2021 – Informace ze spisu z oblasti územní, stavební řízení, užívání stavby
 
 [Žádost o informace](/info106/2021/1_2021_zadost.pdf).
@@ -33,6 +32,12 @@ title: 2021
 [Žádost o informace](/info106/2021/7_2021_zadost.pdf).
 
 [Odpověď na žádost](/info106/2021/7_2021_odpoved.odt).
+
+### 8/2021
+
+Žádost o informace.
+
+Odpověď na žádost.
 
 ### 9/2021 – Informace z oblasti vězeňství
 
