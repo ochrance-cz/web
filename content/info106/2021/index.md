@@ -33,9 +33,9 @@ title: 2021
 
 [Odpověď na žádost](/info106/2021/7_2021_odpoved.odt).
 
-### 8/2021
+### 8/2021 – Informace z oblasti činnosti VOP
 
-[Žádost o informace.](https://www.ochrance.cz/media/8_2021_zadost.pdf)
+Žádost o informace.
 
 [](content/media/8_2021_zadost.pdf)Odpověď na žádost.
 
