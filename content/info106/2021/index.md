@@ -35,9 +35,9 @@ title: 2021
 
 ### 8/2021
 
-Žádost o informace.
+[Žádost o informace.](content/media/8_2021_zadost.pdf)
 
-Odpověď na žádost.
+[](content/media/8_2021_zadost.pdf)Odpověď na žádost.
 
 ### 9/2021 – Informace z oblasti vězeňství
 
