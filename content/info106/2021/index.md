@@ -35,9 +35,9 @@ title: 2021
 
 ### 8/2021 – Informace z oblasti činnosti VOP
 
-[Žádost o informace.](/media/8_2021_zadost.pdf)
+[Žádost o informace](www.ochrance.cz/media/8_2021_zadost.pdf).
 
-[Odpověď na žádost](/media/8_2021_odpoved.odt).
+[Odpověď na žádost](www.ochrance.cz/media/8_2021_odpoved.odt).
 
 ### 9/2021 – Informace z oblasti vězeňství
 
@@ -45,4 +45,8 @@ title: 2021
 
 [Odpověď na žádost](/info106/2021/9_2021_odpoved.odt).
 
-### 10/2021 –
+### 10/2021 – Informace z oblasti působnosti VOP a organizace KVOP
+
+[Žádost o informace](media/10_2021_zadost.pdf).
+
+[Odpověď na žádost](media/10_2021_odpoved.odt).
