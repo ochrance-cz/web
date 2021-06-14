@@ -35,7 +35,7 @@ title: 2021
 
 ### 8/2021
 
-[Žádost o informace.](content/media/8_2021_zadost.pdf)
+[Žádost o informace.](https://www.ochrance.cz/media/8_2021_zadost.pdf)
 
 [](content/media/8_2021_zadost.pdf)Odpověď na žádost.
 
