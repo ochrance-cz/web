@@ -8,6 +8,9 @@ perex: Z průběžného šetření, které ombudsman zahájil z vlastní iniciat
   vyplývá, že při řešení havárie spojené s masivním úhynem ryb na řece Bečvě v
   září loňského roku se ukázala nedostatečnost současného vodního zákona – a to
   především v oblasti ohlašování a zneškodňování havárií.
+attachments:
+  - link: https://eso.ochrance.cz/Nalezene/Edit/9238
+    title: Celá průběžná zpráva
 ---
 <p>To vedlo k tomu, že některé z úřadů nedostaly včas potřebné informace. Kvůli nejasnostem v zákoně se zpráva o havárii dostala ke krajským úřadům v zasažených oblastech až následující den. Kraje přitom mohly už v den havárie plnit roli koordinátora při jejím zneškodňování.</p>
 <p>„<em>S určitou nadsázkou můžeme říct, že všichni mají informovat všechny, až se následně ztratí přehled o tom, kdo koho kdy informoval. To se stalo i u havárie na Bečvě, když vodoprávní úřad Valašské Meziříčí dostal informaci, že Českou inspekci životního prostředí zatím nikdo o události neinformoval. Přitom inspekce o havárii už víc než dvě hodiny věděla</em>,“ dodává k průběžným výsledkům šetření ombudsman Stanislav Křeček.</p>
