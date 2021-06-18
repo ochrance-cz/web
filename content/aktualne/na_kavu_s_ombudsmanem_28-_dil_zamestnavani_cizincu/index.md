@@ -7,7 +7,7 @@ perex: "Druhý prázdninový podcast se zaměří na problematiku zaměstnáván
   v České republice. Řekneme, co musí zaměstnavatel udělat, aby mohl v Česku
   zaměstnávat cizince, a jak může cizinec získat zaměstnaneckou kartu. "
 ---
-<p><span class="colour" style="color:black" data-tomark-pass="">{{&lt; youtube “</span>gLP_0I0u0VQ<span class="colour" style="color:black" data-tomark-pass="">” &gt;}}</span></p>
+<p>Podcast je k dispozici na <a href="https://youtu.be/gLP_0I0u0VQ">Youtube</a>.</p>
 <p><strong>Užitečné odkazy:</strong><br>
 <a href="https://www.mpsv.cz/zamestnavani-cizincu" data-tomark-pass="">https://www.mpsv.cz/zamestnavani-cizincu</a>,<br>
 <a href="https://www.mvcr.cz/clanek/informace-pro-zamestnavatele.aspx" data-tomark-pass="">https://www.mvcr.cz/clanek/informace-pro-zamestnavatele.aspx</a>,<br>
