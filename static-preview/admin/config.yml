@@ -4,8 +4,8 @@ backend:
 locale: cs
 media_folder: content/media
 public_folder: /media
-site_domain: 'http://ochrance-preview.netlify.app'
-display_url: 'http://ochrance-preview.netlify.app'
+site_domain: 'https://ochrance-preview.netlify.app'
+display_url: 'https://www.ochrance.cz/_preview/'
 slug:
   encoding: ascii
   clean_accents: true
