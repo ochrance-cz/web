@@ -95,45 +95,49 @@ title: 2021
 
 ### 19/2021 – Informace k podnětům z oblasti diskriminace
 
-Žádost o informace.
+[Žádost o informace](/media/19_2021_zadost.pdf).
 
-Odpověď na žádost.
+[Odpověď na žádost](/media/19_2021_odpoved.odt).
 
 ### 20/2021 – Informace z oblasti vězeňství
 
-Žádost o informace.
+[Žádost o informace](/media/20_2021_zadost.pdf).
 
-Odpověď na žádost.
+[Odpověď na žádost](/media/20_2021_odpoved.odt).
 
 ### 21/2021 – Informace ke spisu oblasti působnost Ministerstva spravedlnosti
 
-Žádost o informace.
+[Žádost o informace](/media/21_2021_zadost.pdf).
 
-Odpověď na žádost.
+[Odpověď na žádost](/media/21_2021_odpoved.odt).
 
 ### 23/2021 – Informace z oblasti vězeňství
 
-Žádost o informace.
+[Žádost o informace](/media/23_2021_zadost.pdf).
 
-Odpověď na žádost.
+[Odpověď na žádost](/media/23_2021_odpoved.odt).
 
 ### 24/2021 – Informace ke statistice z oblasti sociálního zabezpečení
 
-Žádost o informace.
+[Žádost o informace](/media/24_2021_zadost.pdf).
 
-Odpověď na žádost.
+[Odpověď na žádost](/media/24_2021_odpoved.odt).
+
+[Příloha](/media/24_2021_odpoved_priloha.pdf).
 
 ### 26/2021 – Informace k distribuci publikací
 
-Žádost o informace.
+[Žádost o informace](/media/26_2021_zadost.pdf).
 
-Odpověď na žádost.
+[Odpověď na žádost](/media/26_2021_priloha.odt).
+
+[Příloha](/media/26_2021_odpoved_priloha.pdf).
 
 ### 27/2021 – Informace z oblasti diskriminace 
 
-Žádost o informace.
+[Žádost o informace](/media/27_2021_zadost.pdf).
 
-Odpověď na žádost.
+[Odpověď na žádost](/media/27_2021_odpoved.odt).
 
 ### 28/2021 – Informace ke statistikám spisů z oblasti diskriminace
 
