@@ -1,6 +1,7 @@
 ---
 title: Oddlužení II
-file: oddluzeni-ii.pdf
+slug: oddluzeni-ii
 situace:
   - dluhy
+file: oddluzeni-ii.pdf
 ---
