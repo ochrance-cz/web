@@ -89,9 +89,9 @@ title: 2021
 
 ### 18/2021 – Informace k pracovnímu uplatnění v KVOP
 
-Žádost o informace.
+[Žádost o informace](/media/18_2021_zadost.pdf).
 
-Odpověď na žádost.
+[Odpověď na žádost](/media/18_2021_odpoved.odt).
 
 ### 19/2021 – Informace k podnětům z oblasti diskriminace
 
@@ -111,67 +111,67 @@ Odpověď na žádost.
 
 Odpověď na žádost.
 
-### 23/2021 – 
+### 23/2021 – Informace z oblasti vězeňství
 
 Žádost o informace.
 
 Odpověď na žádost.
 
-### 24/2021 – 
+### 24/2021 – Informace ke statistice z oblasti sociálního zabezpečení
 
 Žádost o informace.
 
 Odpověď na žádost.
 
-### 26/2021 – 
+### 26/2021 – Informace k distribuci publikací
 
 Žádost o informace.
 
 Odpověď na žádost.
 
-### 27/2021 – 
+### 27/2021 – Informace z oblasti diskriminace 
 
 Žádost o informace.
 
 Odpověď na žádost.
 
-### 28/2021 – 
+### 28/2021 – Informace ke statistikám spisů z oblasti diskriminace
 
 Žádost o informace.
 
 Odpověď na žádost.
 
-### 29/2021 – 
+### 29/2021 – Informace ke statistikám spisů z oblasti diskriminace
 
 Žádost o informace.
 
 Odpověď na žádost.
 
-### 30/2021 – 
+### 30/2021 – Informace ke spisům z oblasti soc. práce na obci a veřejné opatrovnictví
 
 Žádost o informace.
 
 Odpověď na žádost.
 
-### 31/2021 – 
+### 31/2021 – Informace ke spisům z oblasti práva na informace a státní správy soudnictví
 
 Žádost o informace.
 
 Odpověď na žádost.
 
-### 33/2021 – 
+### 33/2021 – Informace z oblasti vězeňství
 
 Žádost o informace.
 
 Odpověď na žádost.
 
-### 34/2021 – 
+### 34/2021 – Informace ke spisu z oblasti detence – zdravotnická zařízení
 
 Žádost o informace.
 
 Odpověď na žádost.
 
-### 35/2021 – 
+### 35/2021 – Informace z oblasti vězeňství
 
 Žádost o informace.
 
