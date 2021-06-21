@@ -50,3 +50,15 @@ title: 2021
 [Žádost o informace](/media/10_2021_zadost.pdf).
 
 [Odpověď na žádost](/media/10_2021_odpoved.odt).
+
+### 11/2021 – Informace z oblasti statistických dat při vyřizování podnětů VOP
+
+[Žádost o informace](/media/11_2021_zadost.pdf).
+
+[Odpověď na žádost](/media/11_2021_odpoved.odt). 
+
+### 12/2021 - Informace z oblasti vězeňství
+
+Žádost o informace.
+
+Odpověď na žádost.
