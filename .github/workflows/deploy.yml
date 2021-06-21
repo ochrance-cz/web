@@ -11,6 +11,7 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    if: "!contains(github.event.head_commit.message, 'Upload')"
     steps:
       - uses: actions/checkout@v2
         with:
