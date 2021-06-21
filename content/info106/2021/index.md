@@ -71,11 +71,17 @@ title: 2021
 
 ### 14/2021 – Informace z oblasti statistických dat při vyřizování podnětů VOP
 
+[Žádost o informace](/media/14_2021_zadost.pdf).
+
+[Odpověď na žádost](/media/14_2021_odpoved.odt).
+
+### 15/2021 – Informace k žalobám ve veřejném zájmu VOP
+
 Žádost o informace.
 
 Odpověď na žádost.
 
-### 15/2021 –
+### 16/2021 –
 
 Žádost o informace.
 
