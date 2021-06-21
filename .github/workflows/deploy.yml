@@ -168,6 +168,8 @@ jobs:
             curl -H "Content-Type: application/x-ndjson" -XPOST "localhost:9200/cs/_bulk" --data-binary @index-${{ github.run_number }}.json
             curl -H "Content-Type: application/x-ndjson" -XPOST "localhost:9200/en/_bulk" --data-binary @index-en-${{ github.run_number }}.json
             curl http://localhost:9200/_cat/indices?v
+            rm index-${{ github.run_number }}.json
+            rm index-en-${{ github.run_number }}.json
           host: ${{ secrets.ELASTICUSER_HOSTNAME }}
           username: ${{ secrets.ELASTICUSER_USERNAME }}
           privateKey: ${{ secrets.ELASTICUSER_PRIVATE_KEY }}
