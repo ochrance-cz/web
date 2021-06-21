@@ -141,42 +141,46 @@ title: 2021
 
 ### 28/2021 – Informace ke statistikám spisů z oblasti diskriminace
 
-Žádost o informace.
+[Žádost o informace](/media/28_2021_zadost.pdf).
 
-Odpověď na žádost.
+[Odpověď na žádost](/media/28_2021_odpoved.odt).
 
 ### 29/2021 – Informace ke statistikám spisů z oblasti diskriminace
 
-Žádost o informace.
+[Žádost o informace](/media/29_2021_zadost.pdf).
 
-Odpověď na žádost.
+[Odpověď na žádost](/media/29_2021_odpoved.odt).
 
 ### 30/2021 – Informace ke spisům z oblasti soc. práce na obci a veřejné opatrovnictví
 
-Žádost o informace.
+[Žádost o informace](/media/30_2021_zadost.pdf).
 
-Odpověď na žádost.
+[Odpověď na žádost](/media/30_2021odpoved.odt).
 
 ### 31/2021 – Informace ke spisům z oblasti práva na informace a státní správy soudnictví
 
-Žádost o informace.
+[Žádost o informace](/media/31_2021_zadost.pdf).
 
-Odpověď na žádost.
+[Odpověď na žádost](/media/31_2021_odpoved.odt).
 
 ### 33/2021 – Informace z oblasti vězeňství
 
-Žádost o informace.
+[Žádost o informace](/media/33_2021_zadost.pdf).
 
-Odpověď na žádost.
+[Odpověď na žádost](/media/33_2021_odpoved.odt).
+
+[Příloha](/media/33_2021_odpoved_priloha.pdf).
 
 ### 34/2021 – Informace ke spisu z oblasti detence – zdravotnická zařízení
 
-Žádost o informace.
+[Žádost o informace](/media/34_2021_zadost.pdf).
 
-Odpověď na žádost.
+[Odpověď na žádost](/media/34_2021_odpoved.odt).
 
 ### 35/2021 – Informace z oblasti vězeňství
 
-Žádost o informace.
+[Žádost o informace](/media/35_2021_zadost.pdf).
 
-Odpověď na žádost.
+[Odpověď na žádost](/media/35_2021_odpoved.odt).
+
+[Příloha](/media/35_2021_odpoved_priloha.pdf).
