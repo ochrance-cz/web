@@ -129,11 +129,11 @@ title: 2021
 
 [Žádost o informace](/media/26_2021_zadost.pdf).
 
-[Odpověď na žádost](/media/26_2021_priloha.odt).
+[Odpověď na žádost](/media/26_2021_odpoved.odt).
 
 [Příloha](/media/26_2021_odpoved_priloha.pdf).
 
-### 27/2021 – Informace z oblasti diskriminace 
+### 27/2021 – Informace z oblasti diskriminace
 
 [Žádost o informace](/media/27_2021_zadost.pdf).
 
