@@ -63,4 +63,20 @@ title: 2021
 
 [Odpověď na žádost](/media/12_2021_odpoved.odt).
 
-### 13/2021 –
+### 13/2021 – Informace z oblasti systematických návštěv školských zařízení pro výkon ÚV a OV
+
+[Žádost o informace](/media/13_2021_zadost.pdf).
+
+[Odpověď na žádost](/media/13_2021_odpoved.odt).
+
+### 14/2021 – Informace z oblasti statistických dat při vyřizování podnětů VOP
+
+Žádost o informace.
+
+Odpověď na žádost.
+
+### 15/2021 –
+
+Žádost o informace.
+
+Odpověď na žádost.
