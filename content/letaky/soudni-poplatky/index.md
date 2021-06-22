@@ -1,6 +1,6 @@
 ---
-title: Soudní poplatky a osvobození od těchto poplatků
-file: soudni-poplatky.pdf
+title: "Soudní poplatky "
 situace:
   - soudy
+file: soudni-poplatky.pdf
 ---
