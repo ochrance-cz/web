@@ -1,5 +1,5 @@
 ---
-title: Srážky ze mzdy (a jiných příjmů)
+title: "Srážky ze mzdy "
 situace:
   - dluhy
   - prace
