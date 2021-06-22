@@ -1,7 +1,7 @@
 ---
 title: Stavební činnost
-file: stavebni-cinnost.pdf
 situace:
   - bydleni
   - stavebnictvi
+file: stavebni-cinnost.pdf
 ---
