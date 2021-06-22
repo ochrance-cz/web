@@ -1,6 +1,6 @@
 ---
 title: Zdravotní pojištění
-file: zdravotni-pojisteni.pdf
 situace:
   - zdravotnictvi
+file: zdravotni-pojisteni.pdf
 ---
