@@ -3,3 +3,5 @@ redirects:
     to: /kontakt
   - to: /aktualne/osn_zasady_ucinneho_vysetrovani_a_dokumentovani_muceni_a_spatneho_zachazeni_konecne_v_cestine/
     from: /pusobnost/dohled-nad-omezovanim-osobni-svobodyaktuality-z-detenci/aktuality-z-detenci-2019/osn-zasady-ucinneho-vysetrovani-a-dokumentovani-muceni-a-spatneho-zachazeni-konecn-1/
+  - from: /letaky/sluzebni-pomer-ozbrojene-slozky/sluzebni-pomer-ozbrojene-slozky.pdf
+    to: /letaky/statni-sluzba/statni-sluzba.pdf
