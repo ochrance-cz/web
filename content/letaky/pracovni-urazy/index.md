@@ -1,6 +1,7 @@
 ---
 title: "Pracovní úrazy a nemoci z povolání: odškodňování"
-file: pracovni-urazy.pdf
+slug: ""
 situace:
   - prace
+file: pracovni-urazy.pdf
 ---
