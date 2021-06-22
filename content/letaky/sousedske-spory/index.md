@@ -1,6 +1,6 @@
 ---
 title: Sousedské spory
-file: sousedske-spory.pdf
 situace:
   - bydleni
+file: sousedske-spory.pdf
 ---
