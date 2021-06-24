@@ -2,6 +2,8 @@
 title: Majority of Czech libraries treats EU citizens equally, however, there
   are challenges, notes the Ombudsman in an analysis
 date: 2021-06-10T08:02:04.664Z
+vystupy:
+  - news
 perex: The Ombudsman looked into the services of libraries in relation to
   equality of conditions for EU citizens coming from other Member States and
   Czech citizens. "It is important that not only Czech citizens have access to
