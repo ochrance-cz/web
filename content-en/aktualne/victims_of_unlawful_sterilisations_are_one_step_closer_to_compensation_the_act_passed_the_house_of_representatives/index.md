@@ -2,6 +2,8 @@
 title: Victims of unlawful sterilisations are one step closer to compensation,
   the Act passed the House of Representatives
 date: 2021-06-04T07:59:30.079Z
+vystupy:
+  - news
 perex: On 4 June 2021, the House of Representatives adopted the Act enabling
   victims of illegally performed sterilisations to claim one-time compensation
   of approx. 11.700 EUR (300.000 CZK). The Act relates to all victims of illegal
