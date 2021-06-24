@@ -4,6 +4,5 @@ slug: potrebuji-invalidni-duchod
 situace:
   - duchody
   - lide-se-zdravotnim-postizenim
-  - socialni-pomoc-a-podpora
 file: potrebuji-invalidni-duchod.pdf
 ---
