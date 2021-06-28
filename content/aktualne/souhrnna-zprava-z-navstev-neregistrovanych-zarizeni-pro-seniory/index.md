@@ -1,12 +1,10 @@
 ---
-title: "Souhrnná zpráva z návštěv neregistrovaných zařízení pro seniory"
+title: Souhrnná zpráva z návštěv neregistrovaných zařízení pro seniory
 vystupy:
   - tz
-oldUrl: "/aktualne/tiskove-zpravy-2015/souhrnna-zprava-z-navstev-neregistrovanych-zarizeni-pro-seniory/"
+oldUrl: /aktualne/tiskove-zpravy-2015/souhrnna-zprava-z-navstev-neregistrovanych-zarizeni-pro-seniory/
 date: 2015-02-13
-perex: "<p>Ochránkyně vydala již dříve avizovanou souhrnnou zprávu z návštěv ubytovacích zařízení, která bez oprávnění poskytují péči seniorům.</p>"
+perex: <p>Ochránkyně vydala již dříve avizovanou souhrnnou zprávu z návštěv
+  ubytovacích zařízení, která bez oprávnění poskytují péči seniorům.</p>
 ---
-
-<!-- imported from the old website -->
-
-<p>Zpráva je dostupná <a title="Otevření do nového okna" href="/uploads-importochrana_osob/ZARIZENI/Socialni_sluzby/SZ-Neregistrovana_web.pdf" target="_blank"><img alt="" src="https://test.ochrance.cz/typo3/ext/od_linkdesc/icons/pdf.gif" class="od_linkdesc_icon" /> zde</a> (582.8 kB, Adobe Acrobat dokument).</p>
+<p>Zpráva je dostupná <a href="https://www.ochrance.cz/uploads-import/ESO/28-2014-NZ_Souhrnna_zprava_-_neregistrovana_zarizeni__CJ_.pdf">zde</a>.</p>
