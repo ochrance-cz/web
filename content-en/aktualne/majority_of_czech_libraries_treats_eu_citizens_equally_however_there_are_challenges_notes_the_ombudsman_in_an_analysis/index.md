@@ -13,6 +13,9 @@ perex: The Ombudsman looked into the services of libraries in relation to
   Czech libraries showed that this is not always the case. Certain libraries
   implement problematic conditions for EU citizens when registering, but
   especially when borrowing books and documents.
+attachments:
+  - file: recommendations.pdf
+    title: Recommendations
 ---
 <p>The research aimed to examine and compare the conditions of library services concerning EU citizens and Czech citizens. Ensuring equal access to library services is important as libraries not only provide meaningful leisure time but are also important for education or employment. Library services include providing access to books and documents, and also other services such as research, Internet access, copy services, or cultural and educational activities. The research focused mainly on the registration of new users, lending of books, and providing distance (online) services. Remote access has become more important during the covid-19 epidemic when it was necessary to provide services remotely.</p>
 <p>The analysis included libraries established by the Ministry of Culture, the Ministry of Education, the Czech Academy of Sciences, and Regional Authorities. The research showed that the library rules of two of the 22 libraries contained problematic conditions concerning the registration of foreigners from the other EU Member States. They had to prove permanent residence in the Czech Republic and there was a different age requirement in comparison with Czech citizens (18 years for EU citizens, 15 years for Czechs). Nevertheless, problematic provisions were more common in the rules for remote registration of new users. The Ombudsman identified this issue in four of the nine libraries that offer this form of registration. Some libraries also require that the applicant has to be a Czech citizen or they want proof of permanent residence or residence permit.</p>
