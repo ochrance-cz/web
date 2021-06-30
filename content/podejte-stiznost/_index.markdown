@@ -4,24 +4,32 @@ description: Jakmile váš podnět (stížnost či upozornění) přijmeme, co n
   vám ozveme. **Nejpozději do 30 dnů.**
 descriptionInfoIcon: true
 email:
-  - desc: Podání stížnosti - formulář pouze k tisku a vyplnění rukou
+  - desc: Podnět ombudsmanovi – jen k tisku a vyplnění rukou
     link: /media/formular-podnet-tisk.pdf
   - link: /media/formular_-_podnet.docx
-    desc: Podání stížnosti - formulář k vyplnění na počítači
+    desc: " Podnět ombudsmanovi – k vyplnění na počítači"
   - link: /media/formular_-_podnet_-_diskriminace_-_tisk.pdf
-    desc: Podání stížnosti na diskriminaci - formulář pouze k tisku a vyplnění rukou
-  - desc: Podání stížnosti na diskriminaci - formulář k vyplnění na počítači
+    desc: Podnět ombudsmanovi kvůli diskriminaci – jen k tisku a vyplnění rukou
+  - desc: Podnět ombudsmanovi kvůli diskriminaci – k vyplnění na počítači
     link: /media/formular_-_podnet_-_diskriminace.docx
 post:
-  - link: /uploads-import/Formulare/11__Formular_-_podani_VOP_-_V-18.doc
-    desc: Podání stížnosti
-  - link: /uploads-import/Formulare/Formular-podani_VOP_diskriminace-V_18.doc
-    desc: Podání stížnosti na diskriminaci
+  - link: /media/formular-podnet-tisk.pdf
+    desc: Podnět ombudsmanovi – jen k tisku a vyplnění rukou
+  - desc: " Podnět ombudsmanovi – k vyplnění na počítači"
+    link: /media/formular_-_podnet.docx
+  - link: /media/formular_-_podnet_-_diskriminace_-_tisk.pdf
+    desc: Podnět ombudsmanovi kvůli diskriminaci – jen k tisku a vyplnění rukou
+  - link: /media/formular_-_podnet_-_diskriminace.docx
+    desc: Podnět ombudsmanovi kvůli diskriminaci – k vyplnění na počítači
 inperson:
-  - link: /uploads-import/Formulare/11__Formular_-_podani_VOP_-_V-18.doc
-    desc: Podání stížnosti
-  - link: /uploads-import/Formulare/Formular-podani_VOP_diskriminace-V_18.doc
-    desc: Podání stížnosti na diskriminaci
+  - link: /media/formular-podnet-tisk.pdf
+    desc: Podnět ombudsmanovi – jen k tisku a vyplnění rukou
+  - link: /media/formular_-_podnet.docx
+    desc: " Podnět ombudsmanovi – k vyplnění na počítači"
+  - link: /media/formular_-_podnet_-_diskriminace_-_tisk.pdf
+    desc: Podnět ombudsmanovi kvůli diskriminaci – jen k tisku a vyplnění rukou
+  - desc: Podnět ombudsmanovi kvůli diskriminaci – k vyplnění na počítači
+    link: /media/formular_-_podnet_-_diskriminace.docx
 submission:
   title: Jak napsat podnět ombudsmanovi
   body: >
