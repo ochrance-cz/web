@@ -6,4 +6,7 @@ vystupy:
 attachmentsTop:
   - file: bulletin_cerven_2021.pdf
     title: Bulletin – červen 2021
+attachments:
+  - title: Bulletin - červen 2021 - textová verze
+    file: bulletin_cerven_2021.doc
 ---
