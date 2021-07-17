@@ -1,0 +1,23 @@
+{{ $page := .Page }}
+
+{{ range .pages }}
+  {{ $alpha := "aábcčdďeéěfgh#iíjklmnňoópqrřsštťuúůvwxyýzž" }}
+  {{ $title := substr (.Title | lower | replaceRE "ch" "#" | replaceRE (print "[^" $alpha "]") "") 0 40 }}
+
+  {{ $sortStr := split $title  "" }}
+  {{ $len := len $sortStr }}
+
+  {{ $score := math.Pow 100 42 }}
+
+  {{ range $index, $char := $sortStr }}
+    {{/*  calc character rank */}}
+    {{ $num := len (index (findRE (print "^.*" $char) $alpha) 0) }}
+
+    {{/*  calc score */}}
+    {{ $score = add $score (mul $num (math.Pow 100 (sub 40 $index))) }}
+  {{ end }}
+
+  {{ $sortKey := print (lang.NumFmt 0 $score "- .") $title }}
+
+  {{ $page.Scratch.SetInMap "pages" $sortKey (dict "Title" .Title "Permalink" .Permalink "Params" .Params) }}
+{{ end }}

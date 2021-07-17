@@ -11,7 +11,9 @@
     </ul>
 
     <ul class="_link-list">
-      {{ range sort .Pages "File.Path" "asc" }}
+      {{ partial "pages-map.html" (dict "Page" . "pages" .Pages) }}
+
+      {{ range (.Page.Scratch.GetSortedMapValues "pages") }}
         {{ $path := replaceRE "[^/]+$" "" .Permalink }}
         <li><a href="
           {{- if (len (findRE "^http" .Params.file)) }}
