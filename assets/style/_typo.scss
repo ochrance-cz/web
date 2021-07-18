@@ -1,37 +1,35 @@
-@import "svg";
+@import 'svg';
 
 // Open Sans
-$OpenSansPath: "/fonts/open-sans-fontface/fonts";
+$OpenSansPath: '/fonts/open-sans-fontface/fonts';
 
-@import "open-sans/variables";
-@import "open-sans/mixins";
-@import "open-sans/Regular";
-@import "open-sans/Italic";
-@import "open-sans/Bold";
+@import 'open-sans/variables';
+@import 'open-sans/mixins';
+@import 'open-sans/Regular';
+@import 'open-sans/Italic';
+@import 'open-sans/Bold';
 
 // FontAwesome
-@import "./../../static/fonts/fontawesome-free-5.15.1-web/scss/variables";
+@import './../../static/fonts/fontawesome-free-5.15.1-web/scss/variables';
 
 @font-face {
-  font-family: "FontAwesome";
-  src: url("/fonts/fontawesome-free-5.15.1-web/webfonts/fa-solid-900.woff2")
-    format("woff2");
+  font-family: 'FontAwesome';
+  src: url('/fonts/fontawesome-free-5.15.1-web/webfonts/fa-solid-900.woff2') format('woff2');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: "FontAwesome-Brands";
-  src: url("/fonts/fontawesome-free-5.15.1-web/webfonts/fa-brands-400.woff2")
-    format("woff2");
+  font-family: 'FontAwesome-Brands';
+  src: url('/fonts/fontawesome-free-5.15.1-web/webfonts/fa-brands-400.woff2') format('woff2');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
 }
 
 @mixin fa-icon($icon, $color: $green) {
-  font-family: "FontAwesome";
+  font-family: 'FontAwesome';
   content: fa-content($icon);
   display: inline-block;
   color: $color;
@@ -42,9 +40,9 @@ $OpenSansPath: "/fonts/open-sans-fontface/fonts";
 
 // Daxline Pro
 @font-face {
-  font-family: "Daxline";
-  src: url("/fonts/daxline/Fonts/5764632/aae167a7-9a23-484f-9760-d1b54002602f.woff2")
-    format("woff2");
+  font-family: 'Daxline';
+  src: url('/fonts/daxline/Fonts/5764632/aae167a7-9a23-484f-9760-d1b54002602f.woff2')
+    format('woff2');
   font-weight: bold;
   font-style: normal;
   font-display: swap;
@@ -90,11 +88,11 @@ $OpenSansPath: "/fonts/open-sans-fontface/fonts";
 }
 
 @mixin font-family-headline {
-  font-family: "Daxline", "Open Sans", sans-serif;
+  font-family: 'Daxline', 'Open Sans', sans-serif;
 }
 
 @mixin font-family-bread {
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 
 :root {
@@ -155,11 +153,11 @@ p {
 }
 
 a {
-  color: $black;
+  color: $green;
   text-decoration: underline;
 
   &:hover {
-    color: $green;
+    color: $black;
   }
 }
 
@@ -255,14 +253,14 @@ blockquote {
       text-indent: -0.4rem;
 
       &::before {
-        content: "„";
+        content: '„';
       }
     }
 
     p:last-child {
       margin-bottom: 0;
       &::after {
-        content: "“";
+        content: '“';
       }
     }
   }
@@ -282,7 +280,7 @@ blockquote {
     width: 1.5em;
     height: 1.2em;
     vertical-align: bottom;
-    content: " ";
+    content: ' ';
 
     @include svg-bg($arrow, $green, 0% 50%);
   }
