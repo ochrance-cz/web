@@ -29,4 +29,9 @@ access:
   pic: /images/kontakt.jpg
 type: contact
 headerPic: /images/podatelna.jpg
+pressAgent:
+  role: Tisková mluvčí
+  name: Mgr. Markéta Bočková
+  phone: +420 604 975 154
+  email: marketa.bockova@ochrance.cz
 ---

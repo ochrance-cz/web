@@ -140,6 +140,12 @@ const stranky = files('Jiné', 'stranky', [
       markdown('Obecně', 'universal'),
       image('Ilustrační obrázek', 'pic'),
     ]),
+    object('Mluvčí', 'pressAgent', [
+      string('Pozice', 'role'),
+      string('Jméno', 'name'),
+      string('Telefon', 'phone'),
+      string('E-mail', 'email '),
+    ]),
   ]),
   fileCollection('Kontakty', 'kontakty', 'content/provoz/kontakty/index.md', [
     title('Titulek'),

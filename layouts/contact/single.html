@@ -36,6 +36,17 @@
         <p><a href="{{ .Permalink }}">{{ .Title }}</a></p>
       {{ end }}
     </div>
+
+    {{ with .Params.pressAgent }}
+    <div class="press-agent">
+      <h2>{{ .role }}</h2>
+      <p>
+        <strong>{{ .name }}</strong><br>
+        {{ .phone }}<br>
+        <a href="mailto:{{ .email }}">{{ .email }}</a>
+      </p>
+    </div>
+    {{ end }}
   </section>
 
 
