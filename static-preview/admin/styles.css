@@ -1,0 +1,105 @@
+@font-face {
+  font-family: open sans;
+  src: url(/_preview/fonts/open-sans-fontface/fonts/Regular/OpenSans-Regular.eot?v=1.1.0);
+  src: url(/_preview/fonts/open-sans-fontface/fonts/Regular/OpenSans-Regular.eot?#iefix&v=1.1.0)
+      format('embedded-opentype'),
+    url(/_preview/fonts/open-sans-fontface/fonts/Regular/OpenSans-Regular.woff?v=1.1.0)
+      format('woff'),
+    url(/_preview/fonts/open-sans-fontface/fonts/Regular/OpenSans-Regular.ttf?v=1.1.0)
+      format('truetype'),
+    url(/_preview/fonts/open-sans-fontface/fonts/Regular/OpenSans-Regular.svg?v=1.1.0#Regular)
+      format('svg');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: open sans;
+  src: url(/_preview/fonts/open-sans-fontface/fonts/Italic/OpenSans-Italic.eot?v=1.1.0);
+  src: url(/_preview/fonts/open-sans-fontface/fonts/Italic/OpenSans-Italic.eot?#iefix&v=1.1.0)
+      format('embedded-opentype'),
+    url(/_preview/fonts/open-sans-fontface/fonts/Italic/OpenSans-Italic.woff?v=1.1.0) format('woff'),
+    url(/_preview/fonts/open-sans-fontface/fonts/Italic/OpenSans-Italic.ttf?v=1.1.0)
+      format('truetype'),
+    url(/_preview/fonts/open-sans-fontface/fonts/Italic/OpenSans-Italic.svg?v=1.1.0#Italic)
+      format('svg');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: open sans;
+  src: url(/_preview/fonts/open-sans-fontface/fonts/Bold/OpenSans-Bold.eot?v=1.1.0);
+  src: url(/_preview/fonts/open-sans-fontface/fonts/Bold/OpenSans-Bold.eot?#iefix&v=1.1.0)
+      format('embedded-opentype'),
+    url(/_preview/fonts/open-sans-fontface/fonts/Bold/OpenSans-Bold.woff?v=1.1.0) format('woff'),
+    url(/_preview/fonts/open-sans-fontface/fonts/Bold/OpenSans-Bold.ttf?v=1.1.0) format('truetype'),
+    url(/_preview/fonts/open-sans-fontface/fonts/Bold/OpenSans-Bold.svg?v=1.1.0#Bold) format('svg');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Daxline';
+  src: url('/_preview/fonts/daxline/Fonts/5764632/aae167a7-9a23-484f-9760-d1b54002602f.woff2')
+    format('woff2');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+h2 {
+  font-family: Daxline;
+  font-size: 35px;
+}
+
+h3 {
+  font-family: Daxline;
+  font-size: 28px;
+}
+
+p,
+li,
+td,
+th,
+blockquote {
+  font-family: 'open sans';
+  font-size: 14px;
+}
+
+blockquote {
+  margin: 0 0 2.5rem;
+  background: #e5f5f3;
+  border-radius: 4px;
+  padding: 1rem;
+}
+
+ul,
+ol {
+  margin-bottom: 2rem;
+  padding-left: 1.3rem;
+}
+
+ul li,
+ol li {
+  margin-bottom: 1rem;
+}
+
+a {
+  color: #008576;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1rem 0 4rem;
+}
+
+table td,
+table th {
+  padding: 0.5rem;
+  border-bottom: 1px solid #b8b8b8;
+}
