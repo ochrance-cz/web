@@ -1,13 +1,13 @@
 @font-face {
   font-family: open sans;
-  src: url(/_preview/fonts/open-sans-fontface/fonts/Regular/OpenSans-Regular.eot?v=1.1.0);
-  src: url(/_preview/fonts/open-sans-fontface/fonts/Regular/OpenSans-Regular.eot?#iefix&v=1.1.0)
+  src: url(https://www.ochrance.cz/fonts/open-sans-fontface/fonts/Regular/OpenSans-Regular.eot?v=1.1.0);
+  src: url(https://www.ochrance.cz/fonts/open-sans-fontface/fonts/Regular/OpenSans-Regular.eot?#iefix&v=1.1.0)
       format('embedded-opentype'),
-    url(/_preview/fonts/open-sans-fontface/fonts/Regular/OpenSans-Regular.woff?v=1.1.0)
+    url(https://www.ochrance.cz/fonts/open-sans-fontface/fonts/Regular/OpenSans-Regular.woff?v=1.1.0)
       format('woff'),
-    url(/_preview/fonts/open-sans-fontface/fonts/Regular/OpenSans-Regular.ttf?v=1.1.0)
+    url(https://www.ochrance.cz/fonts/open-sans-fontface/fonts/Regular/OpenSans-Regular.ttf?v=1.1.0)
       format('truetype'),
-    url(/_preview/fonts/open-sans-fontface/fonts/Regular/OpenSans-Regular.svg?v=1.1.0#Regular)
+    url(https://www.ochrance.cz/fonts/open-sans-fontface/fonts/Regular/OpenSans-Regular.svg?v=1.1.0#Regular)
       format('svg');
   font-weight: 400;
   font-style: normal;
@@ -16,13 +16,14 @@
 
 @font-face {
   font-family: open sans;
-  src: url(/_preview/fonts/open-sans-fontface/fonts/Italic/OpenSans-Italic.eot?v=1.1.0);
-  src: url(/_preview/fonts/open-sans-fontface/fonts/Italic/OpenSans-Italic.eot?#iefix&v=1.1.0)
+  src: url(https://www.ochrance.cz/fonts/open-sans-fontface/fonts/Italic/OpenSans-Italic.eot?v=1.1.0);
+  src: url(https://www.ochrance.cz/fonts/open-sans-fontface/fonts/Italic/OpenSans-Italic.eot?#iefix&v=1.1.0)
       format('embedded-opentype'),
-    url(/_preview/fonts/open-sans-fontface/fonts/Italic/OpenSans-Italic.woff?v=1.1.0) format('woff'),
-    url(/_preview/fonts/open-sans-fontface/fonts/Italic/OpenSans-Italic.ttf?v=1.1.0)
+    url(https://www.ochrance.cz/fonts/open-sans-fontface/fonts/Italic/OpenSans-Italic.woff?v=1.1.0)
+      format('woff'),
+    url(https://www.ochrance.cz/fonts/open-sans-fontface/fonts/Italic/OpenSans-Italic.ttf?v=1.1.0)
       format('truetype'),
-    url(/_preview/fonts/open-sans-fontface/fonts/Italic/OpenSans-Italic.svg?v=1.1.0#Italic)
+    url(https://www.ochrance.cz/fonts/open-sans-fontface/fonts/Italic/OpenSans-Italic.svg?v=1.1.0#Italic)
       format('svg');
   font-weight: 400;
   font-style: italic;
@@ -31,12 +32,15 @@
 
 @font-face {
   font-family: open sans;
-  src: url(/_preview/fonts/open-sans-fontface/fonts/Bold/OpenSans-Bold.eot?v=1.1.0);
-  src: url(/_preview/fonts/open-sans-fontface/fonts/Bold/OpenSans-Bold.eot?#iefix&v=1.1.0)
+  src: url(https://www.ochrance.cz/fonts/open-sans-fontface/fonts/Bold/OpenSans-Bold.eot?v=1.1.0);
+  src: url(https://www.ochrance.cz/fonts/open-sans-fontface/fonts/Bold/OpenSans-Bold.eot?#iefix&v=1.1.0)
       format('embedded-opentype'),
-    url(/_preview/fonts/open-sans-fontface/fonts/Bold/OpenSans-Bold.woff?v=1.1.0) format('woff'),
-    url(/_preview/fonts/open-sans-fontface/fonts/Bold/OpenSans-Bold.ttf?v=1.1.0) format('truetype'),
-    url(/_preview/fonts/open-sans-fontface/fonts/Bold/OpenSans-Bold.svg?v=1.1.0#Bold) format('svg');
+    url(https://www.ochrance.cz/fonts/open-sans-fontface/fonts/Bold/OpenSans-Bold.woff?v=1.1.0)
+      format('woff'),
+    url(https://www.ochrance.cz/fonts/open-sans-fontface/fonts/Bold/OpenSans-Bold.ttf?v=1.1.0)
+      format('truetype'),
+    url(https://www.ochrance.cz/fonts/open-sans-fontface/fonts/Bold/OpenSans-Bold.svg?v=1.1.0#Bold)
+      format('svg');
   font-weight: 700;
   font-style: normal;
   font-display: swap;
@@ -44,7 +48,7 @@
 
 @font-face {
   font-family: 'Daxline';
-  src: url('/_preview/fonts/daxline/Fonts/5764632/aae167a7-9a23-484f-9760-d1b54002602f.woff2')
+  src: url('https://www.ochrance.cz/fonts/daxline/Fonts/5764632/aae167a7-9a23-484f-9760-d1b54002602f.woff2')
     format('woff2');
   font-weight: bold;
   font-style: normal;

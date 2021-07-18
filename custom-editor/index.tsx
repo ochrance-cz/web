@@ -74,8 +74,8 @@ class CustomEditorWidgetControl extends React.Component<CmsWidgetControlProps> {
             { name: 'others', groups: ['others'] },
             { name: 'about', groups: ['about'] },
           ],
-          contentsCss: '/_preview/admin/styles.css',
-          stylesSet: 'ochrance:/_preview/admin/styles.js',
+          contentsCss: '/admin/styles.css',
+          stylesSet: 'ochrance:/admin/styles.js',
           allowedContent: true,
           entities_latin: false,
           removeButtons:
