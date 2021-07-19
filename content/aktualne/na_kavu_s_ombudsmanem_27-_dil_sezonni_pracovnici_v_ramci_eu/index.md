@@ -16,10 +16,17 @@ perex: Chystáte se na léto vyjet za prací do některé ze zemí Evropské uni
 {{< youtube "c8LvXPlNdHY" >}}
 
 
-<p>Dnešní podcast je dostupný na <a href="https://www.youtube.com/playlist?list=PLWNv_IxgJdEKvV9-ZYu7VTxvc1SjDRb2i" data-tomark-pass="">Youtube</a>.</p>
-<p><br data-tomark-pass=""><br>
-Praktické rady naleznete také v příručce<a href="https://www.ochrance.cz/uploads-import/Letaky/Prazdniny-bezpecne.pdf?fbclid=IwAR2y1QCHNyG2RI0MqS7TAYcn5VPJgXXxemqq1yDURl08goQa3sIJj2V_ENw" data-tomark-pass="">Prázdniny bezpečně s ombudsmanem</a>, ve které odpovídáme na nejčastější otázky spojené s letními prázdninami.</p>
-<p><br data-tomark-pass=""><br>
+
+<p>&nbsp;</p>
+
+<p><br data-tomark-pass="" />
+<br />
+Praktické rady naleznete také v příručce<a data-tomark-pass="" href="https://www.ochrance.cz/uploads-import/Letaky/Prazdniny-bezpecne.pdf?fbclid=IwAR2y1QCHNyG2RI0MqS7TAYcn5VPJgXXxemqq1yDURl08goQa3sIJj2V_ENw">Prázdniny bezpečně s ombudsmanem</a>, ve které odpovídáme na nejčastější otázky spojené s letními prázdninami.</p>
+
+<p><br data-tomark-pass="" />
+<br />
 Druhý prázdninový podcast příští pátek se bude zabývat zaměstnáváním cizinců v Česku. Dozvíte se, co musí zaměstnavatel udělat, aby mohl v České republice zaměstnávat cizince, a jak může cizinec získat zaměstnaneckou kartu.</p>
-<p>Všechny dosud zveřejněné díly najdete na <a href="https://www.youtube.com/playlist?list=PLWNv_IxgJdEKvV9-ZYu7VTxvc1SjDRb2i" data-tomark-pass="">Youtube</a> nebo na <a href="https://open.spotify.com/show/0cUUj1UIaAu3hYzWgLNO6P?fbclid=IwAR2BbFgIdbE2Ke8LubN8m-iVR5KLLj0KsZH-Q96QqzpVYM1WVG3_NFuAel4" data-tomark-pass="">Spotify</a>.</p>
-<p>Dále jsou podcasty dostupné na všech běžně používaných podcastových aplikacích – Apple Podcasts, Google Podcasty atd.</p>
+
+<p>Všechny dosud zveřejněné díly najdete na <a data-tomark-pass="" href="https://www.youtube.com/playlist?list=PLWNv_IxgJdEKvV9-ZYu7VTxvc1SjDRb2i">Youtube</a> nebo na <a data-tomark-pass="" href="https://open.spotify.com/show/0cUUj1UIaAu3hYzWgLNO6P?fbclid=IwAR2BbFgIdbE2Ke8LubN8m-iVR5KLLj0KsZH-Q96QqzpVYM1WVG3_NFuAel4">Spotify</a>.</p>
+
+<p>Dále jsou podcasty dostupné na všech běžně používaných podcastových aplikacích &ndash; Apple Podcasts, Google Podcasty atd.</p>
