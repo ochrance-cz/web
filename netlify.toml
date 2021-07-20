@@ -1,6 +1,6 @@
 [build]
   publish = "public"
-  command = "hugo --config preview.toml"
+  command = "hugo --config preview-netlify.toml"
 
 [context.production.environment]
   HUGO_VERSION = "0.81.0"

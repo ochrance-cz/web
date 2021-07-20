@@ -1,0 +1,36 @@
+baseURL = "https://ochrance-preview.netlify.app/"
+defaultContentLanguage = "cs"
+languageCode = "cs"
+title = "Ombudsman - Preview"
+relativeurls = true
+staticDir = ["static", "static-preview"]
+
+[outputs]
+home = ["HTML"]
+
+[taxonomies]
+  vystup = "vystupy"
+  situace = "situace"
+
+[languages]
+  [languages.cs]
+    contentDir = "content"
+    languageName = "Česky"
+    title = "Ombudsman - Preview"
+    weight = 2
+    [languages.cs.params]
+    description = "veřejný ochránce práv"
+  [languages.en]
+    contentDir = "content-en"
+    languageName = "English"
+    title = "Ombudsman - Preview"
+    weight = 1
+    [languages.en.params]
+    description = ""
+
+[markup.goldmark.renderer]
+  unsafe = true
+  hardWraps = true
+
+[permalinks]
+info = "/:filename"
