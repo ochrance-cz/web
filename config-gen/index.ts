@@ -556,7 +556,7 @@ const aktualne = folderCollection(
       search_fields: ['title'],
       multiple: true,
     }),
-    markdown('Perex', 'perex'),
+    text('Perex', 'perex'),
     customEditor('Text', 'body'),
     attached(),
     attached('Přílohy do textu', 'attachmentsHidden'),
