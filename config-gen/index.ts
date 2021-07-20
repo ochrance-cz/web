@@ -146,6 +146,12 @@ const stranky = files('Jiné', 'stranky', [
       string('Telefon', 'phone'),
       string('E-mail', 'email '),
     ]),
+    object('International Relations Officer', 'intl', [
+      string('Pozice', 'role'),
+      string('Jméno', 'name'),
+      string('Telefon', 'phone'),
+      string('E-mail', 'email '),
+    ]),
   ]),
   fileCollection('Kontakty', 'kontakty', 'content/provoz/kontakty/index.md', [
     title('Titulek'),

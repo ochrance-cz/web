@@ -38,13 +38,26 @@
     </div>
 
     {{ with .Params.pressAgent }}
-    <div class="press-agent">
-      <h2>{{ .role }}</h2>
-      <p>
-        <strong>{{ .name }}</strong><br>
-        {{ .phone }}<br>
-        <a href="mailto:{{ .email }}">{{ .email }}</a>
-      </p>
+    <div>
+      {{ with $.Params.intl }}
+        <div class="intl">
+          <h2>{{ .role }}</h2>
+          <p>
+            <strong>{{ .name }}</strong><br>
+            {{ .phone }}<br>
+            <a href="mailto:{{ .email }}">{{ .email }}</a>
+          </p>
+        </div>
+      {{ end }}
+
+      <div class="press-agent">
+        <h2>{{ .role }}</h2>
+        <p>
+          <strong>{{ .name }}</strong><br>
+          {{ .phone }}<br>
+          <a href="mailto:{{ .email }}">{{ .email }}</a>
+        </p>
+      </div>
     </div>
     {{ end }}
   </section>

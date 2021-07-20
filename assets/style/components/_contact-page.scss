@@ -18,6 +18,10 @@
     }
   }
 
+  .intl {
+    margin-bottom: 2rem;
+  }
+
   .address-wrapper {
     @include medium {
       grid-column: 1 / -1;

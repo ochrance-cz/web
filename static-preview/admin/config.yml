@@ -5,7 +5,7 @@ locale: cs
 media_folder: content/media
 public_folder: /media
 site_domain: 'https://ochrance-preview.netlify.app'
-display_url: 'https://www.ochrance.cz/_preview/'
+display_url: 'https://www.ochrance.cz/_admin/'
 slug:
   encoding: ascii
   clean_accents: true
@@ -313,6 +313,27 @@ collections:
           - widget: object
             label: Mluvčí
             name: pressAgent
+            required: false
+            fields:
+              - label: Pozice
+                name: role
+                required: false
+                widget: string
+              - label: Jméno
+                name: name
+                required: false
+                widget: string
+              - label: Telefon
+                name: phone
+                required: false
+                widget: string
+              - label: E-mail
+                name: 'email '
+                required: false
+                widget: string
+          - widget: object
+            label: International Relations Officer
+            name: intl
             required: false
             fields:
               - label: Pozice
