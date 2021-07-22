@@ -298,3 +298,18 @@ blockquote {
   @include fa-icon($fa-var-info-circle, $green);
   padding-right: 0.5em;
 }
+
+._ck4 {
+  img {
+    display: block;
+    max-width: 100%;
+  }
+
+  img[style*='float: left'] {
+    margin: 0 1rem 1rem 0;
+  }
+
+  img[style*='float: right'] {
+    margin: 0 0 1rem 1rem;
+  }
+}

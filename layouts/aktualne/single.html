@@ -17,7 +17,9 @@
         {{ partial "md-block.html" $.Params.perex }}
       </div>
 
-      {{ .Content }}
+      <div class="_ck4">
+        {{ .Content }}
+      </div>
 
       {{ with .Params.attachments }}
         {{ partial "link-list.html" (dict "list" . "page" $) }}
