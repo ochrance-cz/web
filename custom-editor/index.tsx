@@ -75,12 +75,12 @@ class CustomEditorWidgetControl extends React.Component<CmsWidgetControlProps> {
             { name: 'about', groups: ['about'] },
           ],
           allowedContent:
-            'blockquote h2 h3 ul ol li p del s hr strong em b i; img[!alt,!src]; a [!href];table thead tbody td th[*]',
+            'blockquote h2 h3 ul ol li p del s hr strong em b i; img[alt,src]{float}; a [!href];table thead tbody td th[*]',
           contentsCss: '/admin/styles.css',
           stylesSet: 'ochrance:/admin/styles.js',
           entities_latin: false,
           removeButtons:
-            'Save,NewPage,ExportPdf,Preview,Print,Templates,SelectAll,Scayt,Form,Checkbox,Radio,Textarea,Select,Button,ImageButton,HiddenField,TextField,Underline,Superscript,Subscript,CopyFormatting,CreateDiv,Indent,Outdent,JustifyBlock,BidiLtr,BidiRtl,Language,Anchor,Image,Flash,Smiley,SpecialChar,PageBreak,Iframe,TextColor,BGColor,About,FontSize,Font,Format',
+            'Save,NewPage,ExportPdf,Preview,Print,Templates,SelectAll,Scayt,Form,Checkbox,Radio,Textarea,Select,Button,HiddenField,TextField,Underline,Superscript,Subscript,CopyFormatting,CreateDiv,Indent,Outdent,JustifyBlock,BidiLtr,BidiRtl,Language,Anchor,Flash,Smiley,SpecialChar,PageBreak,Iframe,TextColor,BGColor,About,FontSize,Font,Format',
         }}
       />
     );
