@@ -1,21 +1,18 @@
 {{ $page := .page -}}
 <ul class="_link-list">
   {{ range .list }}
-    <li><a href="
-      {{- with .file -}}
-        {{- (print $page.Permalink (replaceRE "^https?://www.ochrance.cz/" "/" .)) -}}
+    {{ $link := cond (isset . "file") .file .link }}
+    <li>{{ .link }}<a href="
+      {{- if (findRE "^http" $link) -}}
+        {{- $link -}}
       {{- else -}}
-        {{- if (findRE "^http" .link) -}}
-          {{- .link -}}
+        {{- $permalink := ($page.GetPage $link).Permalink -}}
+        {{- with $permalink -}}
+          {{-  . | absURL -}}
         {{- else -}}
-          {{- $link := ($page.GetPage .link).Permalink -}}
-          {{- with $link -}}
-            {{-  . | absURL -}}
-          {{- else -}}
-            {{ .link }}
-          {{- end -}}
+          {{ $link }}
         {{- end -}}
-      {{- end }}">
+      {{- end -}}">
         {{- with .text }}{{ . }}{{ else }}{{ .title }}{{ end -}}
       </a></li>
   {{ end }}
