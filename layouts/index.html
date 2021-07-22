@@ -16,7 +16,10 @@
     <section class="_news">
       <h2>{{ i18n "news" }}</h2>
 
-      {{ range first 3 (sort (where (where .Site.Pages "Section" "aktualne") "Kind" "page") "Params.order") }}
+      {{ $news := where (where .Site.Pages "Section" "aktualne") "Kind" "page" }}
+
+
+      {{ range first 3 (sort (where $news "Params.vystupy" "intersect" (slice "tz" "podcast")) "Params.order") }}
         {{ partial "news-preview.html" . }}
       {{ end }}
       {{ with .GetPage "aktualne" }}
