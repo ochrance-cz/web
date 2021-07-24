@@ -542,7 +542,7 @@ const aktualne = folderCollection(
     extension: 'md',
     create: true,
     media_folder: '',
-    public_folder: '',
+    public_folder: 'https://www.ochrance.cz/aktualne/{{slug}}',
   },
   [
     title('Titulek'),

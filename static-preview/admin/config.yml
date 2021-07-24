@@ -621,7 +621,7 @@ collections:
     create: true
     path: '{{slug}}/index'
     media_folder: ''
-    public_folder: ''
+    public_folder: 'https://www.ochrance.cz/aktualne/{{slug}}'
     preview_path: '/aktualne/{{slug}}'
   - name: dokument
     label: Dokumenty
@@ -1975,7 +1975,7 @@ collections:
     create: true
     path: '{{slug}}/index'
     media_folder: ''
-    public_folder: ''
+    public_folder: 'https://www.ochrance.cz/aktualne/{{slug}}'
     preview_path: '/aktualne/{{slug}}'
   - name: dokument-en
     label: Dokumenty (EN)
