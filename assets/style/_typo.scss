@@ -303,15 +303,22 @@ blockquote {
   img {
     display: block;
     max-width: 100%;
+    margin: 1rem 0;
+    box-sizing: border-box;
+    padding: 0;
   }
 
-  img[style*='float: left'] {
-    margin: 0 1rem 1rem 0;
-    max-width: 45%;
-  }
+  @include medium {
+    img[style*='float:left'],
+    img[style*='float: left'] {
+      margin: 0 1rem 1rem 0;
+      max-width: 45%;
+    }
 
-  img[style*='float: right'] {
-    margin: 0 0 1rem 1rem;
-    max-width: 45%;
+    img[style*='float:right'],
+    img[style*='float: right'] {
+      margin: 0 0 1rem 1rem;
+      max-width: 45%;
+    }
   }
 }
