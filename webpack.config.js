@@ -15,8 +15,12 @@ module.exports = {
       },
     ],
   },
+  devtool: 'eval',
   output: {
     filename: 'bundle.js',
     path: path.resolve(__dirname, 'static-preview/admin'),
+  },
+  watchOptions: {
+    ignored: ['**/static-preview', '**/node_modules'],
   },
 };
