@@ -19,3 +19,17 @@ perex: Senát na čtvrtečním jednání schválil zákon o odškodnění obět�
 <p>Zákon bude účinný od začátku příštího roku. Žádosti bude možné podávat v&nbsp;následujících třech letech. Posuzovat je bude ministerstvo zdravotnictví.</p>
 
 <p>Ti, kdo by chtěli o odškodnění požádat, by si měli shromáždit všechny dostupné dokumenty potvrzující provedení zákroku a jeho okolnosti &ndash; především jakékoli zdravotnické záznamy. Jako důkaz mohou posloužit i svědectví dalších lidí.</p>
+
+
+
+{{< cas >}}
+
+
+datum :: test<br />
+datum :: popis co se stalo<br />
+datum :: popis co se stalo<br />
+
+
+{{< /cas >}}
+
+
