@@ -67,7 +67,6 @@ class CustomEditorWidgetControl extends React.Component<CmsWidgetControlProps, I
      */
     const mediaPath = nextProps.mediaPaths.get(this.state.controlID);
     if (mediaPath && nextProps.value !== mediaPath) {
-
       return true;
     }
 
@@ -125,7 +124,6 @@ class CustomEditorWidgetControl extends React.Component<CmsWidgetControlProps, I
   };
 
   render = () => {
-    const { mediaPaths } = this.props as any;
     const { value } = this.props;
 
     return (
