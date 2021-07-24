@@ -37,7 +37,7 @@
       Náhled webu (vygenerováno {{ now.Format "02 Jan 06 15:04 MST" }}<span id="elapsed" data-timestamp="{{ now.Unix }}"></span>)<br>
       <a id="doc_url" href="https://www.ochrance.cz{{ .RelPermalink | replaceRE "_preview/" "" }}">kopírovat adresu</a>
       {{ if and (eq .Section "aktualne") (eq .Kind "page") }}
-        <a href="https://ochrance-preview.netlify.app/admin/#/collections/aktualne/entries/{{ .RelPermalink | replaceRE "_preview/aktualne" "" | replaceRE "/" "" }}/index">upravit</a></p>
+        <a href="https://ochrance-preview.netlify.app/admin/#/collections/aktualne/entries/{{ .RelPermalink | replaceRE "^/aktualne/" "" | replaceRE "^/_preview/aktualne/" "" | replaceRE "/" "" }}/index">upravit</a></p>
       {{ end }}
     <script type="text/javascript">
       var el = document.getElementById('elapsed');
