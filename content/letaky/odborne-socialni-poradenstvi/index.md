@@ -1,6 +1,7 @@
 ---
 title: Odborné sociální poradenství
-file: odborne-socialni-poradenstvi.pdf
+slug: odborne-socialni-poradenstvi
 situace:
   - socialni-pomoc-a-podpora
+file: odborne-socialni-poradenstvi.pdf
 ---
