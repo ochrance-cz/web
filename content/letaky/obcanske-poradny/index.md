@@ -1,5 +1,5 @@
 ---
-title: Občanské poradny - kontaktní údaje podle krajů
+title: Občanské poradny podle krajů
 slug: obcanske-poradny
 situace:
   - pravni-pomoc-a-poradenstvi
