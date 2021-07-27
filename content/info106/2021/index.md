@@ -223,42 +223,54 @@ title: 2021
 
 ### 44/2021 – Informace z oblasti vězeňství
 
-Žádost o informace.
+[Žádost o informace](/media/44_2021_zadost.pdf).
 
-Odpověď na žádost.
+[Odpověď na žádost](/media/44_2021_odpoved.odt).
+
+[Příloha 1](/media/44_2021_odpoved_priloha1.odt).
+
+[Příloha 2](/media/44_2021_odpoved_priloha2.odt).
+
+[Příloha 3](/media/44_2021_odpoved_priloha3.pdf).
 
 ### 46/2021 – Informace z oblasti statistických dat při vyřizování podnětů VOP a rozpočtu KVOP
 
-Žádost o informace.
+[Žádost o informace](/media/46_2021_zadost.pdf).
 
-Odpověď na žádost.
+[Odpověď na žádost](/media/46_2021_odpoved.odt).
+
+[Příloha 1](/media/46_2021_odpoved_priloha_1.pdf).
+
+[Příloha 2](/media/46_2021_odpoved_priloha_2.pdf).
 
 ### 47/2021 – Informace ke spisu z oblasti nevhodné chování soudních osob
 
-Žádost o informace.
+[Žádost o informace](/media/47_2021_zadost.pdf).
 
-Odpověď na žádost.
+[Odpověď na žádost](/media/47_2021_odpoved.odt).
 
 ### 48/2021 – Informace ke spisům z oblasti činnost OSPOD
 
-Žádost o informace.
+[Žádost o informace](/media/48_2021_zadost.pdf).
 
-Odpověď na žádost.
+[Odpověď na žádost](/media/48_2021_odpoved.odt).
 
 ### 50/2021 – Informace z oblasti vězeňství
 
-Žádost o informace.
+[Žádost o informace](/media/50_2021_zadost.pdf).
 
-Odpověď na žádost.
+[Odpověď na žádost](/media/50_2021_odpoved.odt).
 
 ### 51/2021 – Informace ke spisům z oblasti diskriminace
 
-Žádost o informace.
+[Žádost o informace](/media/51_2021_zadost.pdf).
 
-Odpověď na žádost.
+[Odpověď na žádost](/media/51_2021_odpoved.odt).
 
 ### 52/2021 – Informace z oblasti vězeňství
 
-Žádost o informace.
+[Žádost o informace](/media/52_2021_zadost.pdf).
 
-Odpověď na žádost.
+[Odpověď na žádost](/media/52_2021_odpoved.odt).
+
+[Příloha](/media/52_2021_odpoved_priloha.pdf).
