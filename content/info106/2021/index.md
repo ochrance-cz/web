@@ -184,3 +184,21 @@ title: 2021
 [Odpověď na žádost](/media/35_2021_odpoved.odt).
 
 [Příloha](/media/35_2021_odpoved_priloha.pdf).
+
+### 36/2021 – Informace ke spisu z oblasti ochrany přírody a krajiny
+
+[Žádost o informace](/media/10_2021_odpoved.odt).
+
+[Odpověď na žádost](/media/36_2021_odpoved.odt).
+
+[Příloha 1](/media/36_2021_odpoved_priloha1.pdf).
+
+[Příloha 2](/media/36_2021_odpoved_priloha2.pdf).
+
+### 37/2021 – I
+
+Žádost o informace.
+
+Odpověď na žádost.
+
+Příloha.
