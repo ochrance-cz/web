@@ -67,6 +67,17 @@ collections:
             name: accessibility
             required: false
             widget: markdown
+          - label: Zobrazené kategorie aktualit
+            name: aktuality
+            required: false
+            widget: relation
+            collection: vystupy
+            value_field: slug
+            display_fields:
+              - title
+            search_fields:
+              - title
+            multiple: true
       - label: Varování
         name: varovani
         file: content/alert/_index.markdown

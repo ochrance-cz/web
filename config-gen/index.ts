@@ -87,6 +87,13 @@ const stranky = files('Jiné', 'stranky', [
     string('Mezititulek: potřebuji pomoc', 'situationsTitle'),
     string('Mezititulek: činnost', 'cinnostTitle'),
     markdown('Info o přístupnosti', 'accessibility'),
+    relation('Zobrazené kategorie aktualit', 'aktuality', {
+      collection: 'vystupy',
+      value_field: 'slug',
+      display_fields: ['title'],
+      search_fields: ['title'],
+      multiple: true,
+    }),
   ]),
   fileCollection('Varování', 'varovani', 'content/alert/_index.markdown', [
     title('Titulek'),

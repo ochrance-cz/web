@@ -19,7 +19,7 @@
       {{ $news := where (where .Site.Pages "Section" "aktualne") "Kind" "page" }}
 
 
-      {{ range first 3 (sort (where $news "Params.vystupy" "intersect" (slice "tz" "podcast")) "Params.order") }}
+      {{ range first 3 (sort (where $news "Params.vystupy" "intersect" .Params.aktuality) "Params.order") }}
         {{ partial "news-preview.html" . }}
       {{ end }}
       {{ with .GetPage "aktualne" }}
