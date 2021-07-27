@@ -187,7 +187,7 @@ title: 2021
 
 ### 36/2021 – Informace ke spisu z oblasti ochrany přírody a krajiny
 
-[Žádost o informace](/media/10_2021_odpoved.odt).
+[Žádost o informace](/media/36_2021_zadost.pdf).
 
 [Odpověď na žádost](/media/36_2021_odpoved.odt).
 
@@ -195,10 +195,70 @@ title: 2021
 
 [Příloha 2](/media/36_2021_odpoved_priloha2.pdf).
 
-### 37/2021 – I
+### 38/2021 – Informace z oblasti vězeňství
+
+[Žádost o informace](/media/38_2021_zadost.pdf).
+
+[Odpověď na žádost](/media/38_2021_odpoved.odt).
+
+[Příloha](/media/38_2021_odpoved_priloha.pdf).
+
+### 40/2021 – Informace ke spisu z oblasti pěstounské péče
+
+[Žádost o informace](/media/40_2021_zadost.pdf).
+
+[Odpověď na žádost](/media/40_2021_odpoved.odt).
+
+### 41/2021 – Informace k Evropskému ochránci práv
+
+[Žádost o informace](/media/41_2021_zadost.pdf).
+
+[Odpověď na žádost](/media/41_2021_odpoved.odt).
+
+### 42/2021 – Informace ke spisu z oblasti veřejné opatrovnictví
+
+[Žádost o informace](/media/42_2021_zadost.pdf).
+
+[Odpověď na žádost](/media/42_2021_odpoved.odt).
+
+### 44/2021 – Informace z oblasti vězeňství
 
 Žádost o informace.
 
 Odpověď na žádost.
 
-Příloha.
+### 46/2021 – Informace z oblasti statistických dat při vyřizování podnětů VOP a rozpočtu KVOP
+
+Žádost o informace.
+
+Odpověď na žádost.
+
+### 47/2021 – Informace ke spisu z oblasti nevhodné chování soudních osob
+
+Žádost o informace.
+
+Odpověď na žádost.
+
+### 48/2021 – Informace ke spisům z oblasti činnost OSPOD
+
+Žádost o informace.
+
+Odpověď na žádost.
+
+### 50/2021 – Informace z oblasti vězeňství
+
+Žádost o informace.
+
+Odpověď na žádost.
+
+### 51/2021 – Informace ke spisům z oblasti diskriminace
+
+Žádost o informace.
+
+Odpověď na žádost.
+
+### 52/2021 – Informace z oblasti vězeňství
+
+Žádost o informace.
+
+Odpověď na žádost.
