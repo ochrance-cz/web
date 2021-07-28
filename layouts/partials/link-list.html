@@ -2,7 +2,7 @@
 <ul class="_link-list">
   {{ range .list }}
     {{ $link := cond (isset . "file") .file .link }}
-    <li>{{ .link }}<a href="
+    <li><a href="
       {{- if (findRE "^http" $link) -}}
         {{- $link -}}
       {{- else -}}
