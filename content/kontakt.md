@@ -27,11 +27,11 @@ access:
     recepci, je jim zajištěn bezbariérový přístup do budovy a případná
     asistence.
   pic: /images/kontakt.jpg
-type: contact
-headerPic: /images/podatelna.jpg
 pressAgent:
-  role: Tisková mluvčí
+  role: Tisková mluvčí (kontakt pouze pro média)
   name: Mgr. Markéta Bočková
   phone: +420 604 975 154
   email: marketa.bockova@ochrance.cz
+type: contact
+headerPic: /images/podatelna.jpg
 ---
