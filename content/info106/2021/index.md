@@ -1,6 +1,7 @@
 ---
 title: 2021
 ---
+
 ### 1/2021 – Informace ze spisu z oblasti územní, stavební řízení, užívání stavby
 
 [Žádost o informace](/info106/2021/1_2021_zadost.pdf).
@@ -35,9 +36,9 @@ title: 2021
 
 ### 8/2021 – Informace z oblasti činnosti VOP
 
-[Žádost o informace](/media/8_2021_zadost.pdf).
+[Žádost o informace](/info106/8_2021_zadost.pdf).
 
-[Odpověď na žádost](/media/8_2021_odpoved.odt).
+[Odpověď na žádost](/info106/8_2021_odpoved.odt).
 
 ### 9/2021 – Informace z oblasti vězeňství
 
@@ -47,230 +48,230 @@ title: 2021
 
 ### 10/2021 – Informace z oblasti působnosti VOP a organizace KVOP
 
-[Žádost o informace](/media/10_2021_zadost.pdf).
+[Žádost o informace](/info106/10_2021_zadost.pdf).
 
-[Odpověď na žádost](/media/10_2021_odpoved.odt).
+[Odpověď na žádost](/info106/10_2021_odpoved.odt).
 
 ### 11/2021 – Informace z oblasti statistických dat při vyřizování podnětů VOP
 
-[Žádost o informace](/media/11_2021_zadost.pdf).
+[Žádost o informace](/info106/11_2021_zadost.pdf).
 
-[Odpověď na žádost](/media/11_2021_odpoved.odt). 
+[Odpověď na žádost](/info106/11_2021_odpoved.odt).
 
 ### 12/2021 – Informace z oblasti vězeňství
 
-[Žádost o informace](/media/12_2021_zadost.pdf).
+[Žádost o informace](/info106/12_2021_zadost.pdf).
 
-[Odpověď na žádost](/media/12_2021_odpoved.odt).
+[Odpověď na žádost](/info106/12_2021_odpoved.odt).
 
 ### 13/2021 – Informace z oblasti systematických návštěv školských zařízení pro výkon ÚV a OV
 
-[Žádost o informace](/media/13_2021_zadost.pdf).
+[Žádost o informace](/info106/13_2021_zadost.pdf).
 
-[Odpověď na žádost](/media/13_2021_odpoved.odt).
+[Odpověď na žádost](/info106/13_2021_odpoved.odt).
 
 ### 14/2021 – Informace z oblasti statistických dat při vyřizování podnětů VOP
 
-[Žádost o informace](/media/14_2021_zadost.pdf).
+[Žádost o informace](/info106/14_2021_zadost.pdf).
 
-[Odpověď na žádost](/media/14_2021_odpoved.odt).
+[Odpověď na žádost](/info106/14_2021_odpoved.odt).
 
 ### 15/2021 – Informace k žalobám ve veřejném zájmu VOP
 
-[Žádost o informace](/media/15_2021_zadost.pdf).
+[Žádost o informace](/info106/15_2021_zadost.pdf).
 
-[Odpověď na žádost](/media/15_2021_odpoved.odt).
+[Odpověď na žádost](/info106/15_2021_odpoved.odt).
 
 ### 16/2021 – Informace k organizaci KVOP a veřejným zakázkám
 
-[Žádost o informace](/media/16_2021_zadost.pdf).
+[Žádost o informace](/info106/16_2021_zadost.pdf).
 
-[Odpověď na žádost](/media/16_2021_odpoved.odt).
+[Odpověď na žádost](/info106/16_2021_odpoved.odt).
 
 ### 18/2021 – Informace k pracovnímu uplatnění v KVOP
 
-[Žádost o informace](/media/18_2021_zadost.pdf).
+[Žádost o informace](/info106/18_2021_zadost.pdf).
 
-[Odpověď na žádost](/media/18_2021_odpoved.odt).
+[Odpověď na žádost](/info106/18_2021_odpoved.odt).
 
 ### 19/2021 – Informace k podnětům z oblasti diskriminace
 
-[Žádost o informace](/media/19_2021_zadost.pdf).
+[Žádost o informace](/info106/19_2021_zadost.pdf).
 
-[Odpověď na žádost](/media/19_2021_odpoved.odt).
+[Odpověď na žádost](/info106/19_2021_odpoved.odt).
 
 ### 20/2021 – Informace z oblasti vězeňství
 
-[Žádost o informace](/media/20_2021_zadost.pdf).
+[Žádost o informace](/info106/20_2021_zadost.pdf).
 
-[Odpověď na žádost](/media/20_2021_odpoved.odt).
+[Odpověď na žádost](/info106/20_2021_odpoved.odt).
 
 ### 21/2021 – Informace ke spisu oblasti působnost Ministerstva spravedlnosti
 
-[Žádost o informace](/media/21_2021_zadost.pdf).
+[Žádost o informace](/info106/21_2021_zadost.pdf).
 
-[Odpověď na žádost](/media/21_2021_odpoved.odt).
+[Odpověď na žádost](/info106/21_2021_odpoved.odt).
 
 ### 23/2021 – Informace z oblasti vězeňství
 
-[Žádost o informace](/media/23_2021_zadost.pdf).
+[Žádost o informace](/info106/23_2021_zadost.pdf).
 
-[Odpověď na žádost](/media/23_2021_odpoved.odt).
+[Odpověď na žádost](/info106/23_2021_odpoved.odt).
 
 ### 24/2021 – Informace ke statistice z oblasti sociálního zabezpečení
 
-[Žádost o informace](/media/24_2021_zadost.pdf).
+[Žádost o informace](/info106/24_2021_zadost.pdf).
 
-[Odpověď na žádost](/media/24_2021_odpoved.odt).
+[Odpověď na žádost](/info106/24_2021_odpoved.odt).
 
-[Příloha](/media/24_2021_odpoved_priloha.pdf).
+[Příloha](/info106/24_2021_odpoved_priloha.pdf).
 
 ### 26/2021 – Informace k distribuci publikací
 
-[Žádost o informace](/media/26_2021_zadost.pdf).
+[Žádost o informace](/info106/26_2021_zadost.pdf).
 
-[Odpověď na žádost](/media/26_2021_odpoved.odt).
+[Odpověď na žádost](/info106/26_2021_odpoved.odt).
 
-[Příloha](/media/26_2021_odpoved_priloha.pdf).
+[Příloha](/info106/26_2021_odpoved_priloha.pdf).
 
 ### 27/2021 – Informace z oblasti diskriminace
 
-[Žádost o informace](/media/27_2021_zadost.pdf).
+[Žádost o informace](/info106/27_2021_zadost.pdf).
 
-[Odpověď na žádost](/media/27_2021_odpoved.odt).
+[Odpověď na žádost](/info106/27_2021_odpoved.odt).
 
 ### 28/2021 – Informace ke statistikám spisů z oblasti diskriminace
 
-[Žádost o informace](/media/28_2021_zadost.pdf).
+[Žádost o informace](/info106/28_2021_zadost.pdf).
 
-[Odpověď na žádost](/media/28_2021_odpoved.odt).
+[Odpověď na žádost](/info106/28_2021_odpoved.odt).
 
 ### 29/2021 – Informace ke statistikám spisů z oblasti diskriminace
 
-[Žádost o informace](/media/29_2021_zadost.pdf).
+[Žádost o informace](/info106/29_2021_zadost.pdf).
 
-[Odpověď na žádost](/media/29_2021_odpoved.odt).
+[Odpověď na žádost](/info106/29_2021_odpoved.odt).
 
 ### 30/2021 – Informace ke spisům z oblasti soc. práce na obci a veřejné opatrovnictví
 
-[Žádost o informace](/media/30_2021_zadost.pdf).
+[Žádost o informace](/info106/30_2021_zadost.pdf).
 
-[Odpověď na žádost](/media/30_2021odpoved.odt).
+[Odpověď na žádost](/info106/30_2021odpoved.odt).
 
 ### 31/2021 – Informace ke spisům z oblasti práva na informace a státní správy soudnictví
 
-[Žádost o informace](/media/31_2021_zadost.pdf).
+[Žádost o informace](/info106/31_2021_zadost.pdf).
 
-[Odpověď na žádost](/media/31_2021_odpoved.odt).
+[Odpověď na žádost](/info106/31_2021_odpoved.odt).
 
 ### 33/2021 – Informace z oblasti vězeňství
 
-[Žádost o informace](/media/33_2021_zadost.pdf).
+[Žádost o informace](/info106/33_2021_zadost.pdf).
 
-[Odpověď na žádost](/media/33_2021_odpoved.odt).
+[Odpověď na žádost](/info106/33_2021_odpoved.odt).
 
-[Příloha](/media/33_2021_odpoved_priloha.pdf).
+[Příloha](/info106/33_2021_odpoved_priloha.pdf).
 
 ### 34/2021 – Informace ke spisu z oblasti detence – zdravotnická zařízení
 
-[Žádost o informace](/media/34_2021_zadost.pdf).
+[Žádost o informace](/info106/34_2021_zadost.pdf).
 
-[Odpověď na žádost](/media/34_2021_odpoved.odt).
+[Odpověď na žádost](/info106/34_2021_odpoved.odt).
 
 ### 35/2021 – Informace z oblasti vězeňství
 
-[Žádost o informace](/media/35_2021_zadost.pdf).
+[Žádost o informace](/info106/35_2021_zadost.pdf).
 
-[Odpověď na žádost](/media/35_2021_odpoved.odt).
+[Odpověď na žádost](/info106/35_2021_odpoved.odt).
 
-[Příloha](/media/35_2021_odpoved_priloha.pdf).
+[Příloha](/info106/35_2021_odpoved_priloha.pdf).
 
 ### 36/2021 – Informace ke spisu z oblasti ochrany přírody a krajiny
 
-[Žádost o informace](/media/36_2021_zadost.pdf).
+[Žádost o informace](/info106/36_2021_zadost.pdf).
 
-[Odpověď na žádost](/media/36_2021_odpoved.odt).
+[Odpověď na žádost](/info106/36_2021_odpoved.odt).
 
-[Příloha 1](/media/36_2021_odpoved_priloha1.pdf).
+[Příloha 1](/info106/36_2021_odpoved_priloha1.pdf).
 
-[Příloha 2](/media/36_2021_odpoved_priloha2.pdf).
+[Příloha 2](/info106/36_2021_odpoved_priloha2.pdf).
 
 ### 38/2021 – Informace z oblasti vězeňství
 
-[Žádost o informace](/media/38_2021_zadost.pdf).
+[Žádost o informace](/info106/38_2021_zadost.pdf).
 
-[Odpověď na žádost](/media/38_2021_odpoved.odt).
+[Odpověď na žádost](/info106/38_2021_odpoved.odt).
 
-[Příloha](/media/38_2021_odpoved_priloha.pdf).
+[Příloha](/info106/38_2021_odpoved_priloha.pdf).
 
 ### 40/2021 – Informace ke spisu z oblasti pěstounské péče
 
-[Žádost o informace](/media/40_2021_zadost.pdf).
+[Žádost o informace](/info106/40_2021_zadost.pdf).
 
-[Odpověď na žádost](/media/40_2021_odpoved.odt).
+[Odpověď na žádost](/info106/40_2021_odpoved.odt).
 
 ### 41/2021 – Informace k Evropskému ochránci práv
 
-[Žádost o informace](/media/41_2021_zadost.pdf).
+[Žádost o informace](/info106/41_2021_zadost.pdf).
 
-[Odpověď na žádost](/media/41_2021_odpoved.odt).
+[Odpověď na žádost](/info106/41_2021_odpoved.odt).
 
 ### 42/2021 – Informace ke spisu z oblasti veřejné opatrovnictví
 
-[Žádost o informace](/media/42_2021_zadost.pdf).
+[Žádost o informace](/info106/42_2021_zadost.pdf).
 
-[Odpověď na žádost](/media/42_2021_odpoved.odt).
+[Odpověď na žádost](/info106/42_2021_odpoved.odt).
 
 ### 44/2021 – Informace z oblasti vězeňství
 
-[Žádost o informace](/media/44_2021_zadost.pdf).
+[Žádost o informace](/info106/44_2021_zadost.pdf).
 
-[Odpověď na žádost](/media/44_2021_odpoved.odt).
+[Odpověď na žádost](/info106/44_2021_odpoved.odt).
 
-[Příloha 1](/media/44_2021_odpoved_priloha1.odt).
+[Příloha 1](/info106/44_2021_odpoved_priloha1.odt).
 
-[Příloha 2](/media/44_2021_odpoved_priloha2.odt).
+[Příloha 2](/info106/44_2021_odpoved_priloha2.odt).
 
-[Příloha 3](/media/44_2021_odpoved_priloha3.pdf).
+[Příloha 3](/info106/44_2021_odpoved_priloha3.pdf).
 
 ### 46/2021 – Informace z oblasti statistických dat při vyřizování podnětů VOP a rozpočtu KVOP
 
-[Žádost o informace](/media/46_2021_zadost.pdf).
+[Žádost o informace](/info106/46_2021_zadost.pdf).
 
-[Odpověď na žádost](/media/46_2021_odpoved.odt).
+[Odpověď na žádost](/info106/46_2021_odpoved.odt).
 
-[Příloha 1](/media/46_2021_odpoved_priloha_1.pdf).
+[Příloha 1](/info106/46_2021_odpoved_priloha_1.pdf).
 
-[Příloha 2](/media/46_2021_odpoved_priloha_2.pdf).
+[Příloha 2](/info106/46_2021_odpoved_priloha_2.pdf).
 
 ### 47/2021 – Informace ke spisu z oblasti nevhodné chování soudních osob
 
-[Žádost o informace](/media/47_2021_zadost.pdf).
+[Žádost o informace](/info106/47_2021_zadost.pdf).
 
-[Odpověď na žádost](/media/47_2021_odpoved.odt).
+[Odpověď na žádost](/info106/47_2021_odpoved.odt).
 
 ### 48/2021 – Informace ke spisům z oblasti činnost OSPOD
 
-[Žádost o informace](/media/48_2021_zadost.pdf).
+[Žádost o informace](/info106/48_2021_zadost.pdf).
 
-[Odpověď na žádost](/media/48_2021_odpoved.odt).
+[Odpověď na žádost](/info106/48_2021_odpoved.odt).
 
 ### 50/2021 – Informace z oblasti vězeňství
 
-[Žádost o informace](/media/50_2021_zadost.pdf).
+[Žádost o informace](/info106/50_2021_zadost.pdf).
 
-[Odpověď na žádost](/media/50_2021_odpoved.odt).
+[Odpověď na žádost](/info106/50_2021_odpoved.odt).
 
 ### 51/2021 – Informace ke spisům z oblasti diskriminace
 
-[Žádost o informace](/media/51_2021_zadost.pdf).
+[Žádost o informace](/info106/51_2021_zadost.pdf).
 
-[Odpověď na žádost](/media/51_2021_odpoved.odt).
+[Odpověď na žádost](/info106/51_2021_odpoved.odt).
 
 ### 52/2021 – Informace z oblasti vězeňství
 
-[Žádost o informace](/media/52_2021_zadost.pdf).
+[Žádost o informace](/info106/52_2021_zadost.pdf).
 
-[Odpověď na žádost](/media/52_2021_odpoved.odt).
+[Odpověď na žádost](/info106/52_2021_odpoved.odt).
 
-[Příloha](/media/52_2021_odpoved_priloha.pdf).
+[Příloha](/info106/52_2021_odpoved_priloha.pdf).
