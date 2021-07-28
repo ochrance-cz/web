@@ -412,7 +412,6 @@ const dokument = folderCollection(
     customEditor('Text', 'body'),
     attached('Přílohy před textem', 'attachmentsTop'),
     attached('Přílohy pod textem'),
-    attached('Skryté přílohy do textu', 'attachmentsHidden'),
   ]
 );
 
@@ -566,7 +565,6 @@ const aktualne = folderCollection(
     text('Perex', 'perex'),
     customEditor('Text', 'body'),
     attached(),
-    attached('Skryté přílohy do textu', 'attachmentsHidden'),
   ]
 );
 
