@@ -156,6 +156,38 @@ a {
   color: $green;
   text-decoration: underline;
 
+  &[href$='.pdf']::after,
+  &[href$='.doc']::after,
+  &[href$='.docx']::after,
+  &[href$='.odt']::after {
+    content: 'PDF';
+
+    color: $green;
+    font-weight: bold;
+    display: inline-block;
+    white-space: nowrap;
+    background: $green-bright;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    padding: 0.1rem 0.8rem;
+    border-radius: 1rem;
+    margin: 0 0.25em;
+    vertical-align: top;
+    text-indent: 0;
+  }
+
+  &[href$='.doc']::after {
+    content: 'DOC';
+  }
+
+  &[href$='.docx']::after {
+    content: 'DOCX';
+  }
+
+  &[href$='.odt']::after {
+    content: 'ODT';
+  }
+
   &:hover {
     color: $black;
   }
