@@ -612,7 +612,7 @@ collections:
             name: link
             required: false
             widget: string
-      - label: Přílohy do textu
+      - label: Skryté přílohy do textu
         name: attachmentsHidden
         required: false
         label_singular: Příloha
@@ -704,7 +704,7 @@ collections:
             name: link
             required: false
             widget: string
-      - label: Přílohy do textu
+      - label: Skryté přílohy do textu
         name: attachmentsHidden
         required: false
         label_singular: Příloha
@@ -724,7 +724,7 @@ collections:
     create: true
     path: '{{slug}}/index'
     media_folder: ''
-    public_folder: ''
+    public_folder: 'https://www.ochrance.cz/dokument/{{slug}}'
     preview_path: '/dokument/{{slug}}'
   - name: onas
     label: O nás
@@ -1309,28 +1309,16 @@ collections:
             name: text
             required: false
             widget: string
-      - editor_components: &ref_47
-          - image
-        buttons: &ref_48
-          - bold
-          - italic
-          - link
-          - heading-two
-          - heading-three
-          - heading-four
-          - quote
-          - bulleted-list
-          - numbered-list
-        label: Text
+      - label: Text
         name: body
         required: false
-        widget: markdown
+        widget: customEditor
       - label: Odkazy pod hlavním textem
         name: linksAfter
         required: false
         label_singular: odkaz
         widget: list
-        fields: &ref_49
+        fields: &ref_47
           - label: Odkaz
             name: link
             required: false
@@ -1348,7 +1336,7 @@ collections:
     label_singular: infostránka
     folder: content/info
     extension: md
-    editor: &ref_50
+    editor: &ref_48
       preview: false
     fields:
       - label: Titulek
@@ -1367,7 +1355,7 @@ collections:
         required: false
         label_singular: odkaz
         widget: list
-        fields: &ref_51
+        fields: &ref_49
           - label: Odkaz
             name: link
             required: false
@@ -1376,28 +1364,16 @@ collections:
             name: text
             required: false
             widget: string
-      - editor_components: &ref_52
-          - image
-        buttons: &ref_53
-          - bold
-          - italic
-          - link
-          - heading-two
-          - heading-three
-          - heading-four
-          - quote
-          - bulleted-list
-          - numbered-list
-        label: Text
+      - label: Text
         name: body
         required: false
-        widget: markdown
+        widget: customEditor
       - label: Odkazy pod hlavním textem
         name: linksAfter
         required: false
         label_singular: odkaz
         widget: list
-        fields: &ref_54
+        fields: &ref_50
           - label: Odkaz
             name: link
             required: false
@@ -1409,7 +1385,7 @@ collections:
     create: true
     path: '{{slug}}/index'
     media_folder: ''
-    public_folder: ''
+    public_folder: 'https://www.ochrance.cz/info/{{slug}}'
   - name: info106
     label: Poskytované informace
     label_singular: rok poskytovaných informací
@@ -1421,32 +1397,20 @@ collections:
       - label: Rok
         name: title
         widget: string
-      - editor_components:
-          - image
-        buttons:
-          - bold
-          - italic
-          - link
-          - heading-two
-          - heading-three
-          - heading-four
-          - quote
-          - bulleted-list
-          - numbered-list
-        label: Text
+      - label: Text
         name: body
         required: false
-        widget: markdown
+        widget: customEditor
     create: true
     path: '{{slug}}/index'
     media_folder: ''
-    public_folder: ''
+    public_folder: 'https://www.ochrance.cz/info106/{{slug}}'
   - name: projekty
     label: Projekty
     label_singular: projekt
     folder: content/projekty
     extension: md
-    editor: &ref_55
+    editor: &ref_51
       preview: false
     fields:
       - label: Název projektu
@@ -1460,7 +1424,7 @@ collections:
         name: slug
         required: false
         hint: 'Pouze číslice, písmena anglické abecedy, spojovník a podtržítko.'
-        pattern: &ref_56
+        pattern: &ref_52
           - '^[a-z0-9-_]+$'
           - >-
             Řetezec v adrese může obsahovat pouze číslice, písmena anglické
@@ -1474,9 +1438,9 @@ collections:
         name: ongoing
         required: false
         widget: boolean
-      - editor_components: &ref_57
+      - editor_components: &ref_53
           - image
-        buttons: &ref_58
+        buttons: &ref_54
           - bold
           - italic
           - link
@@ -1490,9 +1454,9 @@ collections:
         name: body
         required: false
         widget: markdown
-      - editor_components: &ref_59
+      - editor_components: &ref_55
           - image
-        buttons: &ref_60
+        buttons: &ref_56
           - bold
           - italic
           - link
@@ -1510,7 +1474,7 @@ collections:
         label: Ilustrační obrázek
         name: illustration
         required: false
-        fields: &ref_61
+        fields: &ref_57
           - label: Obrázek
             name: pic
             required: false
@@ -1529,7 +1493,7 @@ collections:
         required: false
         label_singular: Partner
         widget: list
-        fields: &ref_62
+        fields: &ref_58
           - label: Název
             name: name
             required: false
@@ -1543,7 +1507,7 @@ collections:
         required: false
         label_singular: Fotka
         widget: list
-        fields: &ref_63
+        fields: &ref_59
           - label: Obrázek
             name: pic
             required: false
@@ -1965,7 +1929,7 @@ collections:
         label_singular: Příloha
         widget: list
         fields: *ref_3
-      - label: Přílohy do textu
+      - label: Skryté přílohy do textu
         name: attachmentsHidden
         required: false
         label_singular: Příloha
@@ -2021,7 +1985,7 @@ collections:
         label_singular: Příloha
         widget: list
         fields: *ref_9
-      - label: Přílohy do textu
+      - label: Skryté přílohy do textu
         name: attachmentsHidden
         required: false
         label_singular: Příloha
@@ -2030,7 +1994,7 @@ collections:
     create: true
     path: '{{slug}}/index'
     media_folder: ''
-    public_folder: ''
+    public_folder: 'https://www.ochrance.cz/dokument/{{slug}}'
     preview_path: '/dokument/{{slug}}'
   - label: O nás (EN)
     name: onas-en
@@ -2411,18 +2375,16 @@ collections:
         label_singular: odkaz
         widget: list
         fields: *ref_46
-      - editor_components: *ref_47
-        buttons: *ref_48
-        label: Text
+      - label: Text
         name: body
         required: false
-        widget: markdown
+        widget: customEditor
       - label: Odkazy pod hlavním textem
         name: linksAfter
         required: false
         label_singular: odkaz
         widget: list
-        fields: *ref_49
+        fields: *ref_47
     create: true
     path: '{{slug}}/index'
     media_folder: ''
@@ -2432,7 +2394,7 @@ collections:
     label_singular: infostránka (en)
     folder: content-en/info
     extension: md
-    editor: *ref_50
+    editor: *ref_48
     fields:
       - label: Titulek
         name: title
@@ -2450,29 +2412,27 @@ collections:
         required: false
         label_singular: odkaz
         widget: list
-        fields: *ref_51
-      - editor_components: *ref_52
-        buttons: *ref_53
-        label: Text
+        fields: *ref_49
+      - label: Text
         name: body
         required: false
-        widget: markdown
+        widget: customEditor
       - label: Odkazy pod hlavním textem
         name: linksAfter
         required: false
         label_singular: odkaz
         widget: list
-        fields: *ref_54
+        fields: *ref_50
     create: true
     path: '{{slug}}/index'
     media_folder: ''
-    public_folder: ''
+    public_folder: 'https://www.ochrance.cz/info/{{slug}}'
   - name: projekty-en
     label: Projekty (EN)
     label_singular: projekt (en)
     folder: content-en/projekty
     extension: md
-    editor: *ref_55
+    editor: *ref_51
     fields:
       - label: Název projektu
         name: title
@@ -2485,7 +2445,7 @@ collections:
         name: slug
         required: false
         hint: 'Pouze číslice, písmena anglické abecedy, spojovník a podtržítko.'
-        pattern: *ref_56
+        pattern: *ref_52
         widget: string
       - label: Překladový klíč
         name: translationKey
@@ -2495,14 +2455,14 @@ collections:
         name: ongoing
         required: false
         widget: boolean
-      - editor_components: *ref_57
-        buttons: *ref_58
+      - editor_components: *ref_53
+        buttons: *ref_54
         label: Popis projektu
         name: body
         required: false
         widget: markdown
-      - editor_components: *ref_59
-        buttons: *ref_60
+      - editor_components: *ref_55
+        buttons: *ref_56
         label: Dodatečný text pod aktualitami k projektu
         name: bonus
         required: false
@@ -2511,19 +2471,19 @@ collections:
         label: Ilustrační obrázek
         name: illustration
         required: false
-        fields: *ref_61
+        fields: *ref_57
       - label: Partneři
         name: partners
         required: false
         label_singular: Partner
         widget: list
-        fields: *ref_62
+        fields: *ref_58
       - label: Galerie
         name: gallery
         required: false
         label_singular: Fotka
         widget: list
-        fields: *ref_63
+        fields: *ref_59
     create: true
     path: '{{slug}}/index'
     media_folder: ''

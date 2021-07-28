@@ -412,7 +412,7 @@ const dokument = folderCollection(
     customEditor('Text', 'body'),
     attached('Přílohy před textem', 'attachmentsTop'),
     attached('Přílohy pod textem'),
-    attached('Přílohy do textu', 'attachmentsHidden'),
+    attached('Skryté přílohy do textu', 'attachmentsHidden'),
   ]
 );
 
@@ -489,9 +489,9 @@ const info106 = folderCollection(
     extension: 'md',
     create: true,
     media_folder: '',
-    public_folder: '',
+    public_folder: 'https://www.ochrance.cz/info106/{{slug}}',
   },
-  [title('Rok'), markdown('Text', 'body')]
+  [title('Rok'), customEditor('Text', 'body')]
 );
 
 const info = folderCollection(
@@ -504,14 +504,14 @@ const info = folderCollection(
     extension: 'md',
     create: true,
     media_folder: '',
-    public_folder: '',
+    public_folder: 'https://www.ochrance.cz/info/{{slug}}',
   },
   [
     title('Titulek'),
     boolean('Uložit jako draft', 'draft'),
     string('Překladový klíč', 'translationKey'),
     links('Odkazy'),
-    markdown('Text', 'body'),
+    customEditor('Text', 'body'),
     links('Odkazy pod hlavním textem', 'linksAfter'),
   ]
 );
@@ -533,7 +533,7 @@ const ops = folderCollection(
     boolean('Uložit jako draft', 'draft'),
     string('Překladový klíč', 'translationKey'),
     links('Odkazy'),
-    markdown('Text', 'body'),
+    customEditor('Text', 'body'),
     links('Odkazy pod hlavním textem', 'linksAfter'),
   ]
 );
@@ -566,7 +566,7 @@ const aktualne = folderCollection(
     text('Perex', 'perex'),
     customEditor('Text', 'body'),
     attached(),
-    attached('Přílohy do textu', 'attachmentsHidden'),
+    attached('Skryté přílohy do textu', 'attachmentsHidden'),
   ]
 );
 
