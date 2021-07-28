@@ -409,7 +409,7 @@ const dokument = folderCollection(
       search_fields: ['title'],
       multiple: true,
     }),
-    markdown('Text', 'body'),
+    customEditor('Text', 'body'),
     attached('Přílohy před textem', 'attachmentsTop'),
     attached('Přílohy pod textem'),
     attached('Přílohy do textu', 'attachmentsHidden'),
