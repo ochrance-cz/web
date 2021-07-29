@@ -20,7 +20,7 @@ sections:
 
       **Sekretariát zástupkyně veřejného ochránce práv**
 
-      (+420) 542 542 666
+      Marie Hemalová, tel: (+420) 542 542 666
 
       ### **Vedoucí sekretariátu veřejného ochránce práv a jeho zástupkyně**
 
