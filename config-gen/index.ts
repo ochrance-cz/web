@@ -222,6 +222,13 @@ const strankyEn = files('Jiné', 'stranky', [
     string('Mezititulek: potřebuji pomoc', 'situationsTitle'),
     string('Mezititulek: činnost', 'cinnostTitle'),
     markdown('Info o přístupnosti', 'accessibility'),
+    relation('Zobrazené kategorie aktualit', 'aktuality', {
+      collection: 'vystupy-en',
+      value_field: 'slug',
+      display_fields: ['title'],
+      search_fields: ['title'],
+      multiple: true,
+    }),
   ]),
   fileCollection('Varování', 'varovani', 'content/alert/_index.markdown', [
     title('Titulek'),
@@ -681,6 +688,7 @@ const englishFolder = (collection: FolderCollection) => {
 
 const englishFiles = (files: Files) => {
   return {
+    ...files,
     label: `${files.label} (EN)`,
     name: `${files.name}-en`,
     files: files.files.map((file: FileCollection) => ({
