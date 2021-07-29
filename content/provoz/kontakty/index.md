@@ -29,6 +29,26 @@ sections:
       telefon: (+420) 542 542 779
 
       e-mail: miroslav.pridal@ochrance.cz
+
+      ### **Právní asistenti veřejného ochránce práv a jeho zástupkyně**
+
+      **Miroslav Frýdek**
+
+      telefon: (+420) 542 542 228
+
+      e-mail: miroslav.frydek@ochrance.cz
+
+      **Barbora Mazalová**
+
+      telefon: (+420) 542 542 366
+
+      e-mail: barbora.mazalova@ochrance.cz
+
+      **Petra Zdražilová**
+
+      telefon: (+420) 542 542 308
+
+      e-mail: petra.zdrazilova@ochrance.cz
   - title: Vedoucí Kanceláře veřejného ochránce práv
     intro: |-
       **Pavel Pořízek**
