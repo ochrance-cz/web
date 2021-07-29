@@ -5,9 +5,10 @@ type: manual
 
 ## Základní odkazy
 
-- [web: www.ochrance.cz](https://www.ochrance.cz)
-- [administrace: ochrance-preview.netlify.app/admin/](https://ochrance-preview.netlify.app/admin/)
-- [náhled webu: www.ochrance.cz/\_preview/](https://www.ochrance.cz/_preview/)
+- web: [www.ochrance.cz](https://www.ochrance.cz)
+- administrace: [ochrance-preview.netlify.app/admin/](https://ochrance-preview.netlify.app/admin/)
+- náhled webu: [www.ochrance.cz/\_preview/](https://www.ochrance.cz/_preview/)
+- probíhající publikování webu [github.com](https://github.com/ochrance-cz/web/actions)
 
 ## Administrace
 
