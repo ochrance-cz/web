@@ -223,7 +223,7 @@ const strankyEn = files('Jiné', 'stranky', [
     string('Mezititulek: činnost', 'cinnostTitle'),
     markdown('Info o přístupnosti', 'accessibility'),
     relation('Zobrazené kategorie aktualit', 'aktuality', {
-      collection: 'vystupy-en',
+      collection: 'vystupy',
       value_field: 'slug',
       display_fields: ['title'],
       search_fields: ['title'],

@@ -1547,7 +1547,7 @@ collections:
             name: aktuality
             required: false
             widget: relation
-            collection: vystupy-en-en
+            collection: vystupy-en
             value_field: slug
             display_fields:
               - title
