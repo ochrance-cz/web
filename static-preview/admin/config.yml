@@ -1779,6 +1779,48 @@ collections:
                 name: pic
                 required: false
                 widget: image
+          - widget: object
+            label: Mluvčí
+            name: pressAgent
+            required: false
+            fields:
+              - label: Pozice
+                name: role
+                required: false
+                widget: string
+              - label: Jméno
+                name: name
+                required: false
+                widget: string
+              - label: Telefon
+                name: phone
+                required: false
+                widget: string
+              - label: E-mail
+                name: 'email '
+                required: false
+                widget: string
+          - widget: object
+            label: International Relations Officer
+            name: intl
+            required: false
+            fields:
+              - label: Pozice
+                name: role
+                required: false
+                widget: string
+              - label: Jméno
+                name: name
+                required: false
+                widget: string
+              - label: Telefon
+                name: phone
+                required: false
+                widget: string
+              - label: E-mail
+                name: 'email '
+                required: false
+                widget: string
       - label: Přístupnost budovy
         name: budova
         file: content-en/pristupnost/budova/index.md

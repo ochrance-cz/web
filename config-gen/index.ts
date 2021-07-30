@@ -276,6 +276,18 @@ const strankyEn = files('Jiné', 'stranky', [
       markdown('Obecně', 'universal'),
       image('Ilustrační obrázek', 'pic'),
     ]),
+    object('Mluvčí', 'pressAgent', [
+      string('Pozice', 'role'),
+      string('Jméno', 'name'),
+      string('Telefon', 'phone'),
+      string('E-mail', 'email '),
+    ]),
+    object('International Relations Officer', 'intl', [
+      string('Pozice', 'role'),
+      string('Jméno', 'name'),
+      string('Telefon', 'phone'),
+      string('E-mail', 'email '),
+    ]),
   ]),
   fileCollection(
     'Přístupnost budovy',
