@@ -7,25 +7,21 @@ attachmentsTop:
   - title: Výroční zpráva 2020
     file: vy_roc_ni_zpra_va_2020.pdf
 ---
+<p><strong><a href="2020-IV-Q.pdf">Zpráva za 4. čtvrtletí roku 2020</a></strong></p>
 
-**[Zpráva za 4. čtvrtletí roku 2020](2020-IV-Q.pdf)**
+<p>Příloha: <a href="2020-IV-Q-sankce.pdf">Věci, v nichž nebylo dosaženo nápravy</a>: odmítnutí příspěvku na&nbsp;bydlení, zastavená výplata podpory v&nbsp;nezaměstnanosti</p>
 
-Příloha: [věci, v nichž nebylo dosaženo nápravy](2020-IV-Q-sankce.pdf): odmítnutí příspěvku na bydlení, zastavená výplata podpory v nezaměstnanosti
+<hr />
+<p><strong><a href="2020-III-Q.pdf">Zpráva za 3. čtvrtletí roku 2020</a></strong></p>
 
----
+<p>Příloha: <a href="2020-III-Q-sankce.pdf">Věci, v nichž nebylo dosaženo nápravy</a>: řízení o&nbsp;odstranění staveb, uložení kázeňského trestu</p>
 
-**[Zpráva za 3. čtvrtletí roku 2020](2020-III-Q.pdf)**
+<hr />
+<p><strong><a href="2020-II-Q.pdf">Zpráva za 2. čtvrtletí roku 2020</a></strong></p>
 
-Příloha: [věci, v nichž nebylo dosaženo nápravy](2020-III-Q-sankce.pdf): řízení o odstranění staveb, uložení kázeňského trestu
+<p>Příloha: <a href="2020-II-Q-sankce.pdf">Věci, v nichž nebylo dosaženo nápravy</a>: získání příspěvku na&nbsp;aktivní politiku zaměstnanosti</p>
 
----
+<hr />
+<p><strong><a href="2020-I-Q.pdf">Zpráva za 1. čtvrtletí roku 2020</a></strong></p>
 
-**[Zpráva za 2. čtvrtletí roku 2020](2020-II-Q.pdf)**
-
-Příloha: [Věci, v nichž nebylo dosaženo nápravy](2020-II-Q-sankce.pdf): získání příspěvku na aktivní politiku zaměstnanosti
-
----
-
-**[Zpráva za 1. čtvrtletí roku 2020](2020-I-Q.pdf)**
-
-Příloha: [Věci, v nichž nebylo dosaženo nápravy](2020-I-Q-sankce.pdf): užívání věcí ve výkonu trestu odnětí svobody
+<p>Příloha: <a href="2020-I-Q-sankce.pdf">Věci, v nichž nebylo dosaženo nápravy</a>: užívání věcí ve&nbsp;výkonu trestu odnětí svobody</p>
