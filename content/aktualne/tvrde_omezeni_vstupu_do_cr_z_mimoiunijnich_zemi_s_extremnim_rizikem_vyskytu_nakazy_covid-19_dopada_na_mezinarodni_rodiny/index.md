@@ -14,7 +14,7 @@ perex: Na ombudsmana se obrátili lidé, jejichž rodinní příslušníci se ne
 ---
 <p>Ochranné opatření především nepamatuje na rodinné příslušníky bez pobytového oprávnění, kteří se nacházejí v&nbsp;zemích s extrémním rizikem nákazy. Ti nemají možnost v těchto zemích podat žádost o vízum. Víza totiž vydávají jen zastupitelské úřady v&nbsp;zemích, které nejsou na seznamu těch s extrémním rizikem výskytu onemocnění COVID-19.</p>
 
-<p>Se svou&nbsp;českou ženou se kvůli chybějící výjimce nemohl shledat například indický manžel. Podobně se za svým mužem do Česka nedostala ruská manželka, která u nás neměla žádný typ pobytového oprávnění. A se stejným problémem se setkal i česko-brazilský manželský pár - přitom oba potřebovali odcestovat do Česka dřív, než postupující těhotenství ženě let úplně znemožní.</p>
+<p>Se svou&nbsp;českou ženou se kvůli chybějící výjimce nemohl shledat například indický manžel. Podobně se za svým mužem do Česka nedostala ruská manželka, která u nás neměla žádný typ pobytového oprávnění. A se stejným problémem se setkal i česko-brazilský manželský pár.</p>
 
 <p>Výjimky nezahrnují ani další kategorie rodinných příslušníků &ndash; například nesezdané partnery žijící v&nbsp;trvalém partnerském vztahu. Proto se také nemohla za svým dlouholetým partnerem do Česka vrátit Ruska, která vyjela navštívit rodinu.</p>
 
