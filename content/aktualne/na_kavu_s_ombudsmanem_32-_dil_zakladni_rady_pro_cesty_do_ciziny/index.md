@@ -14,7 +14,7 @@ perex: Dnešní podcast poskytne základní rady pro cesty do ciziny. Řekneme, 
 
 
 
-<p>&nbsp;</p>
+<p>Užitečný může být také odkaz na stránku <a href="https://www.mzv.cz/jnp/cz/cestujeme/index.html">Cestujeme </a>na webu Ministerstva zahraničních věcí nebo <a href="https://www.kancelarzp.cz/cs/">Kancelář zdravotního pojištění</a>.</p>
 
 <p>Další díl ze série prázdninových podcastů bude za dva týdny, v&nbsp;pátek 13. 8. a bude se věnovat poplatkům z pobytu a sdílené ekonomice.</p>
 
