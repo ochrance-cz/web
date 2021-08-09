@@ -175,10 +175,10 @@ lawyers:
         role: právnička (veřejné cesty)
         phone: 542 542 312
         email: michaela.cerninova@ochrance.cz
-      - name: Žaneta Dočkalíková
+      - name: Žaneta Zdráhalová
         role: právnička (ochrana spotřebitele)
         phone: 542 542 331
-        email: zaneta.dockalikova@ochrance.cz
+        email: zaneta.zdrahalova@ochrance.cz
       - name: Milan Kocourek
         role: právník (doprava, policie, armáda)
         phone: 542 542 390
@@ -233,10 +233,10 @@ lawyers:
         role: právnička (důchody, nemocenské pojištění)
         phone: 542 542 348
         email: petra.foltasova@ochrance.cz
-      - name: Kateřina Havlišová
+      - name: Kateřina Quittová
         role: právnička
         phone: 542 542 296
-        email: havlisova@ochrance.cz
+        email: quittova@ochrance.cz
       - name: Eva Hodaňová
         role: právnička (důchody)
         phone: 542 542 370
