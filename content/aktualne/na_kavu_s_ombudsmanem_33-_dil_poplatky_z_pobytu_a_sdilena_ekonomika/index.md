@@ -1,7 +1,7 @@
 ---
 title: "Na kávu s ombudsmanem, 33. díl: Poplatky z pobytu a sdílená ekonomika"
-draft: true
-date: 2021-08-03T12:58:40.599Z
+draft: false
+date: 2021-08-13T09:56:00.000Z
 vystupy:
   - podcast
 perex: V novém prázdninovém podcastu se posluchači dozví, jak funguje poplatek z
@@ -14,7 +14,7 @@ perex: V novém prázdninovém podcastu se posluchači dozví, jak funguje popla
 ---
 
 
-{{< youtube "xy" >}}
+{{< youtube "xGJdu4VD66U" >}}
 
 
 
