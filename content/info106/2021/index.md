@@ -1,277 +1,276 @@
 ---
 title: 2021
 ---
+<h3>1/2021 &ndash; Informace ze spisu z oblasti územní, stavební řízení, užívání stavby</h3>
 
-### 1/2021 – Informace ze spisu z oblasti územní, stavební řízení, užívání stavby
+<p><a href="/info106/2021/1_2021_zadost.pdf">Žádost o informace</a>.</p>
 
-[Žádost o informace](/info106/2021/1_2021_zadost.pdf).
+<p><a href="/info106/2021/1_2021_odpoved.odt">Odpověď na žádost</a>.</p>
 
-[Odpověď na žádost](/info106/2021/1_2021_odpoved.odt).
+<h3>2/2021 &ndash; Informace z oblasti vězeňství</h3>
 
-### 2/2021 – Informace z oblasti vězeňství
+<p><a href="/info106/2021/2_2021_zadost.pdf">Žádost o informace</a>.</p>
 
-[Žádost o informace](/info106/2021/2_2021_zadost.pdf).
+<p><a href="/info106/2021/2_2021_odpoved.odt">Odpověď na žádost</a>.</p>
 
-[Odpověď na žádost](/info106/2021/2_2021_odpoved.odt).
+<h3>3/2021 &ndash; Informace z oblasti připomínek VOP k návrhu zákona</h3>
 
-### 3/2021 – Informace z oblasti připomínek VOP k návrhu zákona
+<p><a href="/info106/2021/3_2021_zadost.pdf">Žádost o informace</a>.</p>
 
-[Žádost o informace](/info106/2021/3_2021_zadost.pdf).
+<p><a href="/info106/2021/3_2021_odpoved.odt">Odpověď na žádost</a>.</p>
 
-[Odpověď na žádost](/info106/2021/3_2021_odpoved.odt).
+<p><a href="/info106/2021/K106_3_2021_priloha_1.pdf">Příloha 1.</a> <a href="/info106/2021/K106_3_2021_priloha_2.pdf">Příloha 2.</a></p>
 
-[Příloha 1.](/info106/2021/K106_3_2021_priloha_1.pdf) [Příloha 2.](/info106/2021/K106_3_2021_priloha_2.pdf)
+<h3>5/2021 &ndash; Informace z oblasti statistických dat při vyřizování podnětů VOP</h3>
 
-### 5/2021 – Informace z oblasti statistických dat při vyřizování podnětů VOP
+<p><a href="/info106/2021/5_2021_zadost.pdf">Žádost o informace</a>.</p>
 
-[Žádost o informace](/info106/2021/5_2021_zadost.pdf).
+<p><a href="/info106/2021/5_2021_odpoved.odt">Odpověď na žádost</a>.</p>
 
-[Odpověď na žádost](/info106/2021/5_2021_odpoved.odt).
+<h3>7/2021 &ndash; Informace ke spisu z oblasti ochrany dětí, mládeže a rodiny</h3>
 
-### 7/2021 – Informace ke spisu z oblasti ochrany dětí, mládeže a rodiny
+<p><a href="/info106/2021/7_2021_zadost.pdf">Žádost o informace</a>.</p>
 
-[Žádost o informace](/info106/2021/7_2021_zadost.pdf).
+<p><a href="/info106/2021/7_2021_odpoved.odt">Odpověď na žádost</a>.</p>
 
-[Odpověď na žádost](/info106/2021/7_2021_odpoved.odt).
+<h3>8/2021 &ndash; Informace z oblasti činnosti VOP</h3>
 
-### 8/2021 – Informace z oblasti činnosti VOP
+<p><a href="/info106/8_2021_zadost.pdf">Žádost o informace</a>.</p>
 
-[Žádost o informace](/info106/8_2021_zadost.pdf).
+<p><a href="/info106/8_2021_odpoved.odt">Odpověď na žádost</a>.</p>
 
-[Odpověď na žádost](/info106/8_2021_odpoved.odt).
+<h3>9/2021 &ndash; Informace z oblasti vězeňství</h3>
 
-### 9/2021 – Informace z oblasti vězeňství
+<p><a href="/info106/2021/9_2021_zadost.pdf">Žádost o informace</a>.</p>
 
-[Žádost o informace](/info106/2021/9_2021_zadost.pdf).
+<p><a href="/info106/2021/9_2021_odpoved.odt">Odpověď na žádost</a>.</p>
 
-[Odpověď na žádost](/info106/2021/9_2021_odpoved.odt).
+<h3>10/2021 &ndash; Informace z oblasti působnosti VOP a organizace KVOP</h3>
 
-### 10/2021 – Informace z oblasti působnosti VOP a organizace KVOP
+<p><a href="/info106/2021/10_2021_zadost.pdf">Žádost o informace</a>.</p>
 
-[Žádost o informace](/info106/10_2021_zadost.pdf).
+<p><a href="/info106/2021/10_2021_odpoved.odt">Odpověď na žádost</a>.</p>
 
-[Odpověď na žádost](/info106/10_2021_odpoved.odt).
+<h3>11/2021 &ndash; Informace z oblasti statistických dat při vyřizování podnětů VOP</h3>
 
-### 11/2021 – Informace z oblasti statistických dat při vyřizování podnětů VOP
+<p><a href="/info106/2021/11_2021_zadost.pdf">Žádost o informace</a>.</p>
 
-[Žádost o informace](/info106/11_2021_zadost.pdf).
+<p><a href="/info106/2021/11_2021_odpoved.odt">Odpověď na žádost</a>.</p>
 
-[Odpověď na žádost](/info106/11_2021_odpoved.odt).
+<h3>12/2021 &ndash; Informace z oblasti vězeňství</h3>
 
-### 12/2021 – Informace z oblasti vězeňství
+<p><a href="/info106/12_2021_zadost.pdf">Žádost o informace</a>.</p>
 
-[Žádost o informace](/info106/12_2021_zadost.pdf).
+<p><a href="/info106/12_2021_odpoved.odt">Odpověď na žádost</a>.</p>
 
-[Odpověď na žádost](/info106/12_2021_odpoved.odt).
+<h3>13/2021 &ndash; Informace z oblasti systematických návštěv školských zařízení pro výkon ÚV a OV</h3>
 
-### 13/2021 – Informace z oblasti systematických návštěv školských zařízení pro výkon ÚV a OV
+<p><a href="/info106/13_2021_zadost.pdf">Žádost o informace</a>.</p>
 
-[Žádost o informace](/info106/13_2021_zadost.pdf).
+<p><a href="/info106/13_2021_odpoved.odt">Odpověď na žádost</a>.</p>
 
-[Odpověď na žádost](/info106/13_2021_odpoved.odt).
+<h3>14/2021 &ndash; Informace z oblasti statistických dat při vyřizování podnětů VOP</h3>
 
-### 14/2021 – Informace z oblasti statistických dat při vyřizování podnětů VOP
+<p><a href="/info106/14_2021_zadost.pdf">Žádost o informace</a>.</p>
 
-[Žádost o informace](/info106/14_2021_zadost.pdf).
+<p><a href="/info106/14_2021_odpoved.odt">Odpověď na žádost</a>.</p>
 
-[Odpověď na žádost](/info106/14_2021_odpoved.odt).
+<h3>15/2021 &ndash; Informace k žalobám ve veřejném zájmu VOP</h3>
 
-### 15/2021 – Informace k žalobám ve veřejném zájmu VOP
+<p><a href="/info106/15_2021_zadost.pdf">Žádost o informace</a>.</p>
 
-[Žádost o informace](/info106/15_2021_zadost.pdf).
+<p><a href="/info106/15_2021_odpoved.odt">Odpověď na žádost</a>.</p>
 
-[Odpověď na žádost](/info106/15_2021_odpoved.odt).
+<h3>16/2021 &ndash; Informace k organizaci KVOP a veřejným zakázkám</h3>
 
-### 16/2021 – Informace k organizaci KVOP a veřejným zakázkám
+<p><a href="/info106/16_2021_zadost.pdf">Žádost o informace</a>.</p>
 
-[Žádost o informace](/info106/16_2021_zadost.pdf).
+<p><a href="/info106/16_2021_odpoved.odt">Odpověď na žádost</a>.</p>
 
-[Odpověď na žádost](/info106/16_2021_odpoved.odt).
+<h3>18/2021 &ndash; Informace k pracovnímu uplatnění v KVOP</h3>
 
-### 18/2021 – Informace k pracovnímu uplatnění v KVOP
+<p><a href="/info106/18_2021_zadost.pdf">Žádost o informace</a>.</p>
 
-[Žádost o informace](/info106/18_2021_zadost.pdf).
+<p><a href="/info106/18_2021_odpoved.odt">Odpověď na žádost</a>.</p>
 
-[Odpověď na žádost](/info106/18_2021_odpoved.odt).
+<h3>19/2021 &ndash; Informace k podnětům z oblasti diskriminace</h3>
 
-### 19/2021 – Informace k podnětům z oblasti diskriminace
+<p><a href="/info106/19_2021_zadost.pdf">Žádost o informace</a>.</p>
 
-[Žádost o informace](/info106/19_2021_zadost.pdf).
+<p><a href="/info106/19_2021_odpoved.odt">Odpověď na žádost</a>.</p>
 
-[Odpověď na žádost](/info106/19_2021_odpoved.odt).
+<h3>20/2021 &ndash; Informace z oblasti vězeňství</h3>
 
-### 20/2021 – Informace z oblasti vězeňství
+<p><a href="/info106/20_2021_zadost.pdf">Žádost o informace</a>.</p>
 
-[Žádost o informace](/info106/20_2021_zadost.pdf).
+<p><a href="/info106/20_2021_odpoved.odt">Odpověď na žádost</a>.</p>
 
-[Odpověď na žádost](/info106/20_2021_odpoved.odt).
+<h3>21/2021 &ndash; Informace ke spisu oblasti působnost Ministerstva spravedlnosti</h3>
 
-### 21/2021 – Informace ke spisu oblasti působnost Ministerstva spravedlnosti
+<p><a href="/info106/21_2021_zadost.pdf">Žádost o informace</a>.</p>
 
-[Žádost o informace](/info106/21_2021_zadost.pdf).
+<p><a href="/info106/21_2021_odpoved.odt">Odpověď na žádost</a>.</p>
 
-[Odpověď na žádost](/info106/21_2021_odpoved.odt).
+<h3>23/2021 &ndash; Informace z oblasti vězeňství</h3>
 
-### 23/2021 – Informace z oblasti vězeňství
+<p><a href="/info106/23_2021_zadost.pdf">Žádost o informace</a>.</p>
 
-[Žádost o informace](/info106/23_2021_zadost.pdf).
+<p><a href="/info106/23_2021_odpoved.odt">Odpověď na žádost</a>.</p>
 
-[Odpověď na žádost](/info106/23_2021_odpoved.odt).
+<h3>24/2021 &ndash; Informace ke statistice z oblasti sociálního zabezpečení</h3>
 
-### 24/2021 – Informace ke statistice z oblasti sociálního zabezpečení
+<p><a href="/info106/24_2021_zadost.pdf">Žádost o informace</a>.</p>
 
-[Žádost o informace](/info106/24_2021_zadost.pdf).
+<p><a href="/info106/24_2021_odpoved.odt">Odpověď na žádost</a>.</p>
 
-[Odpověď na žádost](/info106/24_2021_odpoved.odt).
+<p><a href="/info106/24_2021_odpoved_priloha.pdf">Příloha</a>.</p>
 
-[Příloha](/info106/24_2021_odpoved_priloha.pdf).
+<h3>26/2021 &ndash; Informace k distribuci publikací</h3>
 
-### 26/2021 – Informace k distribuci publikací
+<p><a href="/info106/26_2021_zadost.pdf">Žádost o informace</a>.</p>
 
-[Žádost o informace](/info106/26_2021_zadost.pdf).
+<p><a href="/info106/26_2021_odpoved.odt">Odpověď na žádost</a>.</p>
 
-[Odpověď na žádost](/info106/26_2021_odpoved.odt).
+<p><a href="/info106/26_2021_odpoved_priloha.pdf">Příloha</a>.</p>
 
-[Příloha](/info106/26_2021_odpoved_priloha.pdf).
+<h3>27/2021 &ndash; Informace z oblasti diskriminace</h3>
 
-### 27/2021 – Informace z oblasti diskriminace
+<p><a href="/info106/27_2021_zadost.pdf">Žádost o informace</a>.</p>
 
-[Žádost o informace](/info106/27_2021_zadost.pdf).
+<p><a href="/info106/27_2021_odpoved.odt">Odpověď na žádost</a>.</p>
 
-[Odpověď na žádost](/info106/27_2021_odpoved.odt).
+<h3>28/2021 &ndash; Informace ke statistikám spisů z oblasti diskriminace</h3>
 
-### 28/2021 – Informace ke statistikám spisů z oblasti diskriminace
+<p><a href="/info106/28_2021_zadost.pdf">Žádost o informace</a>.</p>
 
-[Žádost o informace](/info106/28_2021_zadost.pdf).
+<p><a href="/info106/28_2021_odpoved.odt">Odpověď na žádost</a>.</p>
 
-[Odpověď na žádost](/info106/28_2021_odpoved.odt).
+<h3>29/2021 &ndash; Informace ke statistikám spisů z oblasti diskriminace</h3>
 
-### 29/2021 – Informace ke statistikám spisů z oblasti diskriminace
+<p><a href="/info106/29_2021_zadost.pdf">Žádost o informace</a>.</p>
 
-[Žádost o informace](/info106/29_2021_zadost.pdf).
+<p><a href="/info106/29_2021_odpoved.odt">Odpověď na žádost</a>.</p>
 
-[Odpověď na žádost](/info106/29_2021_odpoved.odt).
+<h3>30/2021 &ndash; Informace ke spisům z oblasti soc. práce na obci a veřejné opatrovnictví</h3>
 
-### 30/2021 – Informace ke spisům z oblasti soc. práce na obci a veřejné opatrovnictví
+<p><a href="/info106/30_2021_zadost.pdf">Žádost o informace</a>.</p>
 
-[Žádost o informace](/info106/30_2021_zadost.pdf).
+<p><a href="/info106/30_2021odpoved.odt">Odpověď na žádost</a>.</p>
 
-[Odpověď na žádost](/info106/30_2021odpoved.odt).
+<h3>31/2021 &ndash; Informace ke spisům z oblasti práva na informace a státní správy soudnictví</h3>
 
-### 31/2021 – Informace ke spisům z oblasti práva na informace a státní správy soudnictví
+<p><a href="/info106/31_2021_zadost.pdf">Žádost o informace</a>.</p>
 
-[Žádost o informace](/info106/31_2021_zadost.pdf).
+<p><a href="/info106/31_2021_odpoved.odt">Odpověď na žádost</a>.</p>
 
-[Odpověď na žádost](/info106/31_2021_odpoved.odt).
+<h3>33/2021 &ndash; Informace z oblasti vězeňství</h3>
 
-### 33/2021 – Informace z oblasti vězeňství
+<p><a href="/info106/33_2021_zadost.pdf">Žádost o informace</a>.</p>
 
-[Žádost o informace](/info106/33_2021_zadost.pdf).
+<p><a href="/info106/33_2021_odpoved.odt">Odpověď na žádost</a>.</p>
 
-[Odpověď na žádost](/info106/33_2021_odpoved.odt).
+<p><a href="/info106/33_2021_odpoved_priloha.pdf">Příloha</a>.</p>
 
-[Příloha](/info106/33_2021_odpoved_priloha.pdf).
+<h3>34/2021 &ndash; Informace ke spisu z oblasti detence &ndash; zdravotnická zařízení</h3>
 
-### 34/2021 – Informace ke spisu z oblasti detence – zdravotnická zařízení
+<p><a href="/info106/34_2021_zadost.pdf">Žádost o informace</a>.</p>
 
-[Žádost o informace](/info106/34_2021_zadost.pdf).
+<p><a href="/info106/34_2021_odpoved.odt">Odpověď na žádost</a>.</p>
 
-[Odpověď na žádost](/info106/34_2021_odpoved.odt).
+<h3>35/2021 &ndash; Informace z oblasti vězeňství</h3>
 
-### 35/2021 – Informace z oblasti vězeňství
+<p><a href="/info106/35_2021_zadost.pdf">Žádost o informace</a>.</p>
 
-[Žádost o informace](/info106/35_2021_zadost.pdf).
+<p><a href="/info106/35_2021_odpoved.odt">Odpověď na žádost</a>.</p>
 
-[Odpověď na žádost](/info106/35_2021_odpoved.odt).
+<p><a href="/info106/35_2021_odpoved_priloha.pdf">Příloha</a>.</p>
 
-[Příloha](/info106/35_2021_odpoved_priloha.pdf).
+<h3>36/2021 &ndash; Informace ke spisu z oblasti ochrany přírody a krajiny</h3>
 
-### 36/2021 – Informace ke spisu z oblasti ochrany přírody a krajiny
+<p><a href="/info106/36_2021_zadost.pdf">Žádost o informace</a>.</p>
 
-[Žádost o informace](/info106/36_2021_zadost.pdf).
+<p><a href="/info106/36_2021_odpoved.odt">Odpověď na žádost</a>.</p>
 
-[Odpověď na žádost](/info106/36_2021_odpoved.odt).
+<p><a href="/info106/36_2021_odpoved_priloha1.pdf">Příloha 1</a>.</p>
 
-[Příloha 1](/info106/36_2021_odpoved_priloha1.pdf).
+<p><a href="/info106/36_2021_odpoved_priloha2.pdf">Příloha 2</a>.</p>
 
-[Příloha 2](/info106/36_2021_odpoved_priloha2.pdf).
+<h3>38/2021 &ndash; Informace z oblasti vězeňství</h3>
 
-### 38/2021 – Informace z oblasti vězeňství
+<p><a href="/info106/38_2021_zadost.pdf">Žádost o informace</a>.</p>
 
-[Žádost o informace](/info106/38_2021_zadost.pdf).
+<p><a href="/info106/38_2021_odpoved.odt">Odpověď na žádost</a>.</p>
 
-[Odpověď na žádost](/info106/38_2021_odpoved.odt).
+<p><a href="/info106/38_2021_odpoved_priloha.pdf">Příloha</a>.</p>
 
-[Příloha](/info106/38_2021_odpoved_priloha.pdf).
+<h3>40/2021 &ndash; Informace ke spisu z oblasti pěstounské péče</h3>
 
-### 40/2021 – Informace ke spisu z oblasti pěstounské péče
+<p><a href="/info106/40_2021_zadost.pdf">Žádost o informace</a>.</p>
 
-[Žádost o informace](/info106/40_2021_zadost.pdf).
+<p><a href="/info106/40_2021_odpoved.odt">Odpověď na žádost</a>.</p>
 
-[Odpověď na žádost](/info106/40_2021_odpoved.odt).
+<h3>41/2021 &ndash; Informace k Evropskému ochránci práv</h3>
 
-### 41/2021 – Informace k Evropskému ochránci práv
+<p><a href="/info106/41_2021_zadost.pdf">Žádost o informace</a>.</p>
 
-[Žádost o informace](/info106/41_2021_zadost.pdf).
+<p><a href="/info106/41_2021_odpoved.odt">Odpověď na žádost</a>.</p>
 
-[Odpověď na žádost](/info106/41_2021_odpoved.odt).
+<h3>42/2021 &ndash; Informace ke spisu z oblasti veřejné opatrovnictví</h3>
 
-### 42/2021 – Informace ke spisu z oblasti veřejné opatrovnictví
+<p><a href="/info106/42_2021_zadost.pdf">Žádost o informace</a>.</p>
 
-[Žádost o informace](/info106/42_2021_zadost.pdf).
+<p><a href="/info106/42_2021_odpoved.odt">Odpověď na žádost</a>.</p>
 
-[Odpověď na žádost](/info106/42_2021_odpoved.odt).
+<h3>44/2021 &ndash; Informace z oblasti vězeňství</h3>
 
-### 44/2021 – Informace z oblasti vězeňství
+<p><a href="/info106/44_2021_zadost.pdf">Žádost o informace</a>.</p>
 
-[Žádost o informace](/info106/44_2021_zadost.pdf).
+<p><a href="/info106/44_2021_odpoved.odt">Odpověď na žádost</a>.</p>
 
-[Odpověď na žádost](/info106/44_2021_odpoved.odt).
+<p><a href="/info106/44_2021_odpoved_priloha1.odt">Příloha 1</a>.</p>
 
-[Příloha 1](/info106/44_2021_odpoved_priloha1.odt).
+<p><a href="/info106/44_2021_odpoved_priloha2.odt">Příloha 2</a>.</p>
 
-[Příloha 2](/info106/44_2021_odpoved_priloha2.odt).
+<p><a href="/info106/44_2021_odpoved_priloha3.pdf">Příloha 3</a>.</p>
 
-[Příloha 3](/info106/44_2021_odpoved_priloha3.pdf).
+<h3>46/2021 &ndash; Informace z oblasti statistických dat při vyřizování podnětů VOP a rozpočtu KVOP</h3>
 
-### 46/2021 – Informace z oblasti statistických dat při vyřizování podnětů VOP a rozpočtu KVOP
+<p><a href="/info106/46_2021_zadost.pdf">Žádost o informace</a>.</p>
 
-[Žádost o informace](/info106/46_2021_zadost.pdf).
+<p><a href="/info106/46_2021_odpoved.odt">Odpověď na žádost</a>.</p>
 
-[Odpověď na žádost](/info106/46_2021_odpoved.odt).
+<p><a href="/info106/46_2021_odpoved_priloha_1.pdf">Příloha 1</a>.</p>
 
-[Příloha 1](/info106/46_2021_odpoved_priloha_1.pdf).
+<p><a href="/info106/46_2021_odpoved_priloha_2.pdf">Příloha 2</a>.</p>
 
-[Příloha 2](/info106/46_2021_odpoved_priloha_2.pdf).
+<h3>47/2021 &ndash; Informace ke spisu z oblasti nevhodné chování soudních osob</h3>
 
-### 47/2021 – Informace ke spisu z oblasti nevhodné chování soudních osob
+<p><a href="/info106/47_2021_zadost.pdf">Žádost o informace</a>.</p>
 
-[Žádost o informace](/info106/47_2021_zadost.pdf).
+<p><a href="/info106/47_2021_odpoved.odt">Odpověď na žádost</a>.</p>
 
-[Odpověď na žádost](/info106/47_2021_odpoved.odt).
+<h3>48/2021 &ndash; Informace ke spisům z oblasti činnost OSPOD</h3>
 
-### 48/2021 – Informace ke spisům z oblasti činnost OSPOD
+<p><a href="/info106/2021/48_2021_zadost.pdf">Žádost o informace</a>.</p>
 
-[Žádost o informace](/info106/48_2021_zadost.pdf).
+<p><a href="/info106/2021/48_2021_odpoved.odt">Odpověď na žádost</a>.</p>
 
-[Odpověď na žádost](/info106/48_2021_odpoved.odt).
+<h3>50/2021 &ndash; Informace z oblasti vězeňství</h3>
 
-### 50/2021 – Informace z oblasti vězeňství
+<p><a href="/info106/50_2021_zadost.pdf">Žádost o informace</a>.</p>
 
-[Žádost o informace](/info106/50_2021_zadost.pdf).
+<p><a href="/info106/50_2021_odpoved.odt">Odpověď na žádost</a>.</p>
 
-[Odpověď na žádost](/info106/50_2021_odpoved.odt).
+<h3>51/2021 &ndash; Informace ke spisům z oblasti diskriminace</h3>
 
-### 51/2021 – Informace ke spisům z oblasti diskriminace
+<p><a href="/info106/51_2021_zadost.pdf">Žádost o informace</a>.</p>
 
-[Žádost o informace](/info106/51_2021_zadost.pdf).
+<p><a href="/info106/51_2021_odpoved.odt">Odpověď na žádost</a>.</p>
 
-[Odpověď na žádost](/info106/51_2021_odpoved.odt).
+<h3>52/2021 &ndash; Informace z oblasti vězeňství</h3>
 
-### 52/2021 – Informace z oblasti vězeňství
+<p><a href="/info106/52_2021_zadost.pdf">Žádost o informace</a>.</p>
 
-[Žádost o informace](/info106/52_2021_zadost.pdf).
+<p><a href="/info106/52_2021_odpoved.odt">Odpověď na žádost</a>.</p>
 
-[Odpověď na žádost](/info106/52_2021_odpoved.odt).
-
-[Příloha](/info106/52_2021_odpoved_priloha.pdf).
+<p><a href="/info106/52_2021_odpoved_priloha.pdf">Příloha</a>.</p>
