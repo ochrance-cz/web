@@ -5,9 +5,9 @@ date: 2021-08-19T06:09:33.681Z
 vystupy:
   - tz
 perex: "Jako problematické vidí zástupkyně ombudsmana především plánované
-  ukončení bezplatného testování na covid-19 pro mladistvé a děti starší 12 let.
-  Jde totiž o skupiny, které mají Listinou základních práv a svobod garantovanou
-  zvláštní ochranu. "
+  ukončení bezplatného testování na covid-19 pro mladistvé a děti starší
+  dvanácti let. Jde totiž o skupiny, které mají Listinou základních práv a
+  svobod garantovanou zvláštní ochranu. "
 ---
 <p>Také Úmluva o právech dítěte vedle práva na volný čas a odpočinek výslovně uznává i právo dítěte svobodně participovat na kulturním životě a umělecké činnosti. Zpoplatnění testů podle zástupkyně ombudsmana tato práva narušuje a jde proti nejlepším zájmům dětí. V&nbsp;dopise upozornila ministra zdravotnictví i na budoucí zátěž pro rozpočty rodin a možné znevýhodnění dětí ze sociálně slabších rodin.</p>
 
