@@ -9,7 +9,7 @@ perex: "Jako problematické vidí zástupkyně ombudsmana především plánovan
   Jde totiž o skupiny, které mají Listinou základních práv a svobod garantovanou
   zvláštní ochranu. "
 ---
-<p>Také Úmluva o právech dítěte vedle práva na volný čas a odpočinek výslovně uznává i právo dítěte svobodně participovat na kulturním životě a umělecké činnosti. Zpoplatnění testů podle zástupkyně ombudsmana tato práva narušuje a jde proti nejlepším zájmům dětí. V&nbsp;dopise upozornila ministra zdravotnictví i na budoucí zátěž na rozpočty rodin a možné znevýhodnění dětí ze sociálně slabších rodin.</p>
+<p>Také Úmluva o právech dítěte vedle práva na volný čas a odpočinek výslovně uznává i právo dítěte svobodně participovat na kulturním životě a umělecké činnosti. Zpoplatnění testů podle zástupkyně ombudsmana tato práva narušuje a jde proti nejlepším zájmům dětí. V&nbsp;dopise upozornila ministra zdravotnictví i na budoucí zátěž pro rozpočty rodin a možné znevýhodnění dětí ze sociálně slabších rodin.</p>
 
 <p>Podobné argumenty podle zástupkyně ombudsmana platí také u dalších skupin: <em>&bdquo;Uvítám, když uvedenému zásahu do rozpočtu a&nbsp;případným nerovnostem v&nbsp;přístupu budete věnovat pozornost i ve vztahu ke&nbsp;zletilým osobám, například nezaopatřeným dětem do 26 let,&ldquo;</em> uvedla v&nbsp;dopise ministrovi zdravotnictví Monika Šimůnková. &nbsp;</p>
 
