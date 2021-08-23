@@ -22,4 +22,4 @@ perex: "Šetření zástupkyně ombudsmana ukázalo, že metodika ministerstva �
 
 <p>Podle zástupkyně ombudsmana by zřizovatelé už teď mohli postupovat při zařazování do platových tříd přímo podle nařízení vlády bez ohledu na metodiku. Někteří zřizovatelé se ale mohou obávat, že by zařazení ředitelů a ředitelek do vyšší platové třídy mohla případná kontrola hospodaření považovat za neúčelné vynaložení svěřených peněz.</p>
 
-<p>Zpráva o šetření: https://eso.ochrance.cz/Nalezene/Edit/9008</p>
+<p>Přílohy: <a href="https://eso.ochrance.cz/Nalezene/Edit/9008">Zpráva o šetření</a></p>
