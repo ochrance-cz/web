@@ -21,3 +21,5 @@ perex: "Šetření zástupkyně ombudsmana ukázalo, že metodika ministerstva �
 <p>Ministerstvo školství přislíbilo sporný příklad z&nbsp;metodiky vypustit. Kdy k&nbsp;tomu dojde, zatím není jasné. Ministerstvo chce totiž metodiku upravit šířeji v&nbsp;návaznosti na změny v&nbsp;nařízení vlády a také v&nbsp;projednávané novele zákona o pedagogických pracovnících.</p>
 
 <p>Podle zástupkyně ombudsmana by zřizovatelé už teď mohli postupovat při zařazování do platových tříd přímo podle nařízení vlády bez ohledu na metodiku. Někteří zřizovatelé se ale mohou obávat, že by zařazení ředitelů a ředitelek do vyšší platové třídy mohla případná kontrola hospodaření považovat za neúčelné vynaložení svěřených peněz.</p>
+
+<p>Zpráva o šetření: https://eso.ochrance.cz/Nalezene/Edit/9008</p>
