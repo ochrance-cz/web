@@ -11,7 +11,7 @@ perex: "Nařízení vlády umožnilo lidem od 1. července letošního roku podn
   advokátů, a tím prakticky umožňuje takzvané „vinklaření“ či „pokoutnictví“,
   tedy neoprávněné poskytování právních služeb. Ombudsman se proto rozhodl
   využít svého oprávnění a podal k Ústavnímu soudu návrh na zrušení té části
-  nařízení vlády č. 208/2021 Sb., která stanoví obsahovou náplň nové živnosti. "
+  nařízení vlády č. 278/2008 Sb., která stanoví obsahovou náplň nové živnosti. "
 ---
 <p><em>&bdquo;Zákon o advokacii taxativně vymezuje, kdo je oprávněn poskytovat právní služby na území České republiky, a vylučuje tak možnost poskytování právních služeb jinými, než tam uvedenými subjekty. Také podle aktuální komentářové literatury nelze uvedený výčet rozšiřovat nad zákonem vymezený rámec,&ldquo;</em> argumentuje ombudsman Stanislav Křeček v&nbsp;návrhu pro&nbsp;Ústavní soud.&nbsp;</p>
 
@@ -22,3 +22,5 @@ perex: "Nařízení vlády umožnilo lidem od 1. července letošního roku podn
 <p>Vládní nařízení podle ombudsmana vytvořilo vedle advokátů, kteří musí při své činnosti dodržovat celou řadu zásadních podmínek plynoucích ze zákona o advokacii, také skupinu osob, kterým bez ohledu na dosažené vzdělání a kvalifikaci k&nbsp;totožné práci postačuje svéprávnost a bezúhonnost.</p>
 
 <p>V&nbsp;návrhu pro Ústavní soud ombudsman uzavírá, že část nařízení, která vymezuje obsahovou náplň nové živnosti, přijala vláda<strong> </strong>mimo meze zákona a v&nbsp;rozporu se zákonem o advokacii i živnostenským zákonem a Ústavou. Žádá proto zrušení této části vládního nařízení.</p>
+
+<p>Příloha: <a href="https://eso.ochrance.cz/Nalezene/Edit/9572">Návrh Ústavnímu soudu v Evidenci stanovisek ombudsmana</a></p>
