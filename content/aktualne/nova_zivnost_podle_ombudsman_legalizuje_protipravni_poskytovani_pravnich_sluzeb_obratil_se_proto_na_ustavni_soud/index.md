@@ -1,5 +1,5 @@
 ---
-title: Nová živnost podle ombudsman legalizuje protiprávní poskytování právních
+title: Nová živnost podle ombudsmana legalizuje protiprávní poskytování právních
   služeb – obrátil se proto na Ústavní soud
 date: 2021-08-24T06:19:01.804Z
 vystupy:
