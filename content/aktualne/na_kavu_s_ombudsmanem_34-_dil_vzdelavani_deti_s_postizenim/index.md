@@ -27,25 +27,17 @@ perex: "Nový školní rok je za dveřmi. Jaký asi bude pro žáky, jejich rodi
 
 <p><a href="https://www.facebook.com/o.s.cosiv/">https://www.facebook.com/o.s.cosiv/</a></p>
 
-<p>&nbsp;</p>
-
 <p>Infografiky k&nbsp;inkluzivnímu vzdělávání</p>
 
 <p><a href="https://www.podporainkluze.cz/material/infografiky-inkluze/">https://www.podporainkluze.cz/material/infografiky-inkluze/</a></p>
-
-<p>&nbsp;</p>
 
 <p>Desatero nejen pro rodiče dětí se speciálními vzdělávacími potřebami</p>
 
 <p><a href="https://www.podporainkluze.cz/material/desatero-nejen-pro-rodice-deti-se-specialnimi-vzdelavacimi-potrebami/">https://www.podporainkluze.cz/material/desatero-nejen-pro-rodice-deti-se-specialnimi-vzdelavacimi-potrebami/</a></p>
 
-<p>&nbsp;</p>
-
 <p>Webinář na téma Podpora dětí se speciálními vzdělávacími potřebami v době epidemie:</p>
 
 <p><a href="https://www.podporainkluze.cz/material/podpora-deti-se-specialnimi-vzdelavacimi-potrebami-v-dobe-epidemie-koronaviru/">https://www.podporainkluze.cz/material/podpora-deti-se-specialnimi-vzdelavacimi-potrebami-v-dobe-epidemie-koronaviru/</a></p>
-
-<p>&nbsp;</p>
 
 <p>Webinář Wellbeing a podpora žáků s nepříznivými podmínkami v distanční výuce:</p>
 
