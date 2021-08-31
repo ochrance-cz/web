@@ -1,7 +1,7 @@
 ---
 title: Chcete pracovat jako právnička nebo právník v Kanceláři veřejného
   ochránce práv?
-draft: true
+draft: false
 date: 2021-08-30T10:14:13.234Z
 perex: >
   V Kanceláři veřejného ochránce práv usilujeme dlouhodobě o dobrou veřejnou
