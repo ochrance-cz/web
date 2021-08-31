@@ -13,5 +13,5 @@ accessibility: >
 aktuality:
   - tz
   - podcast
-  - nabidka-prace
+  - ""
 ---
