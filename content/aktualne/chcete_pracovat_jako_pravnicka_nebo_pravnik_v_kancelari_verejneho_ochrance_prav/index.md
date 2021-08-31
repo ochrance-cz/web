@@ -4,7 +4,7 @@ title: Chcete pracovat jako právnička nebo právník v Kanceláři veřejného
 draft: false
 date: 2021-08-30T10:14:13.234Z
 vystupy:
-  - nabidka-prace
+  - ""
 perex: >
   V Kanceláři veřejného ochránce práv usilujeme dlouhodobě o dobrou veřejnou
   správu a společnost bez předsudků. Snažíme se také předcházet špatnému
