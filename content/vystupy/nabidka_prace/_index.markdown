@@ -1,5 +1,5 @@
 ---
 title: Nabídka práce
 plural: Nabídky práce
-slug: ""
+slug: nabidka-prace
 ---
