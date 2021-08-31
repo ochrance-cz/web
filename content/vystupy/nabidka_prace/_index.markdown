@@ -1,4 +1,4 @@
 ---
 title: Nabídka práce
-slug: nabidka-prace
+slug: ""
 ---
