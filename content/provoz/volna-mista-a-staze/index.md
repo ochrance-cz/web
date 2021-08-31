@@ -9,7 +9,7 @@ linksAfter:
 
 <p>Jsme férový zaměstnavatel a&nbsp;rádi mezi nás přijmeme nové kolegy a kolegyně přicházející z&nbsp;různých skupin společnosti bez ohledu na věk, pohlaví, zdravotní stav, rasu, národnost, sexuální orientaci, náboženské vyznání, víru a světový názor. Rozmanitost na&nbsp;pracovišti je pro&nbsp;nás důležitá.</p>
 
-<p>V tuto chvíli není vypsáno žádné výběrové řízení.</p>
+<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
