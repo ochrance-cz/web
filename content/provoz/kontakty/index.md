@@ -463,6 +463,10 @@ lawyers:
         role: "právnička "
         email: "jana.cervenkova@ochrance.cz "
         phone: 722 981 699
+      - name: Anna Katerina Vintrová
+        role: "právnička "
+        phone: "542 542 253 "
+        email: vintrova@ochrance.cz
   - title: Odbor dohledu nad omezováním osobní svobody
     intro: >
       provádění systematických preventivních návštěv v zařízení, kde se mohou
