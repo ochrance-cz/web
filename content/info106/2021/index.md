@@ -274,3 +274,47 @@ title: 2021
 <p><a href="/info106/52_2021_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <p><a href="/info106/52_2021_odpoved_priloha.pdf">Příloha</a>.</p>
+
+<p>&nbsp;</p>
+
+<h3>54/2021 &ndash; Informace z&nbsp;oblasti vězeňství</h3>
+
+<p><a href="https://www.ochrance.cz/info106/2021/54_2021_zadost.pdf">Žádost o informace.</a></p>
+
+<p><a href="https://www.ochrance.cz/info106/2021/54_2021_odpoved.odt">Odpověď na žádost.</a></p>
+
+<p><a href="https://www.ochrance.cz/info106/2021/54_2021_odpoved_priloha_1.odt">Příloha 1.</a></p>
+
+<p><a href="https://www.ochrance.cz/info106/2021/54_2021_odpoved_priloha_2.pdf">Příloha 2.</a></p>
+
+<p><a href="https://www.ochrance.cz/info106/2021/54_2021_odpoved_priloha_3.pdf">Příloha 3.</a></p>
+
+<h3>55/2021 &ndash; Informace ke spisům z&nbsp;oblasti činnost orgánů sociálně-právní ochrany děti</h3>
+
+<p>Žádost o informace.</p>
+
+<p>Odpověď na žádost.</p>
+
+<h3>57/2021 &ndash; Informace ke spisu z&nbsp;oblasti veřejné opatrovnictví</h3>
+
+<p>Žádost o informace.</p>
+
+<p>Odpověď na žádost.</p>
+
+<h3>58/2021 &ndash; Informace k&nbsp;činnosti PČR</h3>
+
+<p>Žádost o informace.</p>
+
+<p>Odpověď na žádost.</p>
+
+<h3>60/2021 &ndash; Informace ke spisu z&nbsp;oblasti územní, stavební řízení, užívání stavby</h3>
+
+<p>Žádost o informace.</p>
+
+<p>Odpověď na žádost.</p>
+
+<h3>62/2021 &ndash; Informace ke spisům o oblasti jiná činnost orgánů státní správy soudů</h3>
+
+<p>Žádost o informace.</p>
+
+<p>Odpověď na žádost.</p>
