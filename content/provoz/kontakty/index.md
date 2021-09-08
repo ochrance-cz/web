@@ -123,7 +123,7 @@ lawyers:
       - name: Pavlína Račáková Kupková
         role: právnička (územní a stavební řízení)
         phone: 542 542 320
-        email: pavlina.kupkova@ochrance.cz
+        email: pavlina.racakovakupkova@ochrance.cz
       - name: Tomáš Maňas
         role: právník (hluk, autorské poplatky)
         phone: 542 542 397
