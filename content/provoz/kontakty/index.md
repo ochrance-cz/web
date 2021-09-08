@@ -530,10 +530,10 @@ lawyers:
         role: právník
         phone: 542 542 315
         email: milan.svoboda@ochrance.cz
-      - name: Gabriela Ungrová
+      - name: "Gabriela Mazúrová "
         role: "právnička "
         phone: 542 542 373
-        email: gabriela.ungrova@ochrance.cz
+        email: gabriela.mazurova@ochrance.cz
   - title: Odbor ochrany práv osob se zdravotním postižením
     people:
       - name: Romana Jakešová
