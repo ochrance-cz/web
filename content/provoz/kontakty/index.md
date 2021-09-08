@@ -120,7 +120,7 @@ lawyers:
         role: právnička (územní a stavební řízení, ochrana vod)
         phone: 542 542 278
         email: hana.kasparkova@ochrance.cz
-      - name: Pavlína Kupková
+      - name: Pavlína Račáková Kupková
         role: právnička (územní a stavební řízení)
         phone: 542 542 320
         email: pavlina.kupkova@ochrance.cz
