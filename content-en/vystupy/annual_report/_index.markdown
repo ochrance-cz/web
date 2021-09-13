@@ -1,5 +1,5 @@
 ---
-title: Annual Report
-plural: Annual Reports
+title: Annual report
+plural: Annual reports
 listed: true
 ---
