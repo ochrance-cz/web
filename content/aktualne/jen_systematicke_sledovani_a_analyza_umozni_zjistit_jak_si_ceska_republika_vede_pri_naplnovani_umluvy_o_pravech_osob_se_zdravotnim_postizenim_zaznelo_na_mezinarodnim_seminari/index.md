@@ -13,9 +13,9 @@ perex: V Česku žije přes 1,1 milionu lidí s postižením. Zatímco některá
 attachments:
   - link: https://www.mpsv.cz/documents/20142/225526/Umluva_o_pravech_osob_se_ZP.pdf/1e95a34b-cbdf-0829-3da2-148865b8a4a8
     title: " Úmluva o právech osob se zdravotním postižením"
-  - file: https://www.ochrance.cz/aktualne/jen_systematicke_sledovani_a_analyza_umozni_zjistit_jak_si_ceska_republika_vede_pri_naplnovani_umluvy_o_pravech_osob_se_zdravotnim_postizenim_zaznelo_na_mezinarodnim_seminari/1_mezinarodni_seminar_program.docx
+  - file: https://www.ochrance.cz/aktualne/jen_systematicke_sledovani_a_analyza_umozni_zjistit_jak_si_ceska_republika_vede_pri_naplnovani_umluvy_o_pravech_osob_se_zdravotnim_postizenim_zaznelo_na_mezinarodnim_seminari/1_mezinarodni_seminar_program.pdf
     title: Program mezinárodního semináře
-  - file: https://www.ochrance.cz/aktualne/jen_systematicke_sledovani_a_analyza_umozni_zjistit_jak_si_ceska_republika_vede_pri_naplnovani_umluvy_o_pravech_osob_se_zdravotnim_postizenim_zaznelo_na_mezinarodnim_seminari/2_mezinarodni_seminar_medailonky.docx
+  - file: https://www.ochrance.cz/aktualne/jen_systematicke_sledovani_a_analyza_umozni_zjistit_jak_si_ceska_republika_vede_pri_naplnovani_umluvy_o_pravech_osob_se_zdravotnim_postizenim_zaznelo_na_mezinarodnim_seminari/2_mezinarodni_seminar_medailonky.pdf
     title: Informace o aktivních přednášejících
   - file: https://www.ochrance.cz/aktualne/jen_systematicke_sledovani_a_analyza_umozni_zjistit_jak_si_ceska_republika_vede_pri_naplnovani_umluvy_o_pravech_osob_se_zdravotnim_postizenim_zaznelo_na_mezinarodnim_seminari/3_prezentace_fra_cs.pdf
     title: "Prezentace FRA "
@@ -23,13 +23,13 @@ attachments:
     file: https://www.ochrance.cz/aktualne/jen_systematicke_sledovani_a_analyza_umozni_zjistit_jak_si_ceska_republika_vede_pri_naplnovani_umluvy_o_pravech_osob_se_zdravotnim_postizenim_zaznelo_na_mezinarodnim_seminari/4_prezentace_fra_en.pdf
   - file: https://www.ochrance.cz/aktualne/jen_systematicke_sledovani_a_analyza_umozni_zjistit_jak_si_ceska_republika_vede_pri_naplnovani_umluvy_o_pravech_osob_se_zdravotnim_postizenim_zaznelo_na_mezinarodnim_seminari/5_prezentace_jose_smits_en.pdf
     title: José Smits - prezentace (EN)
-  - file: https://www.ochrance.cz/aktualne/jen_systematicke_sledovani_a_analyza_umozni_zjistit_jak_si_ceska_republika_vede_pri_naplnovani_umluvy_o_pravech_osob_se_zdravotnim_postizenim_zaznelo_na_mezinarodnim_seminari/6_jose_smits_abstrakt_prezentace_cs.docx
+  - file: https://www.ochrance.cz/aktualne/jen_systematicke_sledovani_a_analyza_umozni_zjistit_jak_si_ceska_republika_vede_pri_naplnovani_umluvy_o_pravech_osob_se_zdravotnim_postizenim_zaznelo_na_mezinarodnim_seminari/6_jose_smits_abstrakt_prezentace_cs.pdf
     title: José Smits - abstrakt prezentace
   - file: https://www.ochrance.cz/aktualne/jen_systematicke_sledovani_a_analyza_umozni_zjistit_jak_si_ceska_republika_vede_pri_naplnovani_umluvy_o_pravech_osob_se_zdravotnim_postizenim_zaznelo_na_mezinarodnim_seminari/7_stinova_zprava_nizozemskych_ngo_k_crpd_en.pdf
     title: Stínová zpráva nizozemských NGO k CRPD (EN)
   - file: https://www.ochrance.cz/aktualne/jen_systematicke_sledovani_a_analyza_umozni_zjistit_jak_si_ceska_republika_vede_pri_naplnovani_umluvy_o_pravech_osob_se_zdravotnim_postizenim_zaznelo_na_mezinarodnim_seminari/8_durajova-polak_-_prezentace_kvop_cs.pdf
     title: Prezentace KVOP - Indikátory pro měření implementace Úmluvy
-  - file: https://www.ochrance.cz/aktualne/jen_systematicke_sledovani_a_analyza_umozni_zjistit_jak_si_ceska_republika_vede_pri_naplnovani_umluvy_o_pravech_osob_se_zdravotnim_postizenim_zaznelo_na_mezinarodnim_seminari/9_navrh_indikatoru_zari_2021.docx
+  - file: https://www.ochrance.cz/aktualne/jen_systematicke_sledovani_a_analyza_umozni_zjistit_jak_si_ceska_republika_vede_pri_naplnovani_umluvy_o_pravech_osob_se_zdravotnim_postizenim_zaznelo_na_mezinarodnim_seminari/9_navrh_indikatoru_zari_2021.pdf
     title: Návrh indikátorů
 ---
 <p><em>&bdquo;Od roku 2018 má veřejný ochránce práv za úkol sledovat naplňování Úmluvy o právech osob se zdravotním postižením. Ukázalo se, že k&nbsp;tomu, abychom mohli kvalifikovaně zhodnotit situaci, by bylo potřeba sbírat více dat, ať už těch, která se týkají přímo lidí s&nbsp;postižením nebo takových, která ukáží, jak hodlá stát jednotlivé články Úmluvy naplňovat. Protože veřejný ochránce práv má v&nbsp;tomto omezené možnosti, pozvali jsme na jedno místo zástupce státních úřadů a statistiků, lidi z praxe i akademiky, abychom mohli diskutovat, jaká data jsou dostupná již nyní a kde by bylo vhodné nebo možné sběr informací rozšířit tak, abychom mohli vyhodnotit námi stanovené ukazatele (indikátory) pro plnění Úmluvy,&ldquo; </em>vysvětluje zástupkyně ombudsmana Monika Šimůnková.</p>
