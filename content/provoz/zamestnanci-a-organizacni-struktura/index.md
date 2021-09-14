@@ -2,42 +2,51 @@
 title: Zaměstnanci a organizační struktura
 linksAfter:
   - text: Organizační schéma
-    link: https://www.ochrance.cz/uploads-import/Kancelar/Schema_KVOP-2020.pdf
+    link: organizacni_schema.pdf
 ---
+<p>Organizační struktura Kanceláře veřejného ochránce práv (dále i&nbsp;jen &bdquo;Kancelář&ldquo;) je upravena&nbsp;<a href="/organizacni-rad/">Organizačním řádem</a>. V&nbsp;čele Kanceláře je vedoucí, který svou činnost vykonává podle pokynů veřejného ochránce práv.</p>
 
-Organizační struktura Kanceláře veřejného ochránce práv (dále i jen „Kancelář“) je upravena [Organizačním řádem](/organizacni-rad/). V čele Kanceláře je vedoucí, který svou činnost vykonává podle pokynů veřejného ochránce práv.
+<p><strong>Kancelář</strong>&nbsp;se člení na&nbsp;tyto organizační útvary: Vedoucí Kanceláře, sekretariát veřejného ochránce práv a&nbsp;jeho zástupce, právní sekce, odbor administrativních a&nbsp;spisových služeb, odbor vnitřní správy a&nbsp;odbor péče o&nbsp;zaměstnance.</p>
 
-**Kancelář** se člení na tyto organizační útvary: Vedoucí Kanceláře, sekretariát veřejného ochránce práv a jeho zástupce, právní sekce, odbor administrativních a spisových služeb, odbor vnitřní správy a odbor péče o zaměstnance.
+<p><strong>Vedoucímu Kanceláře</strong>&nbsp;jsou přímo podřízeny:</p>
 
-**Vedoucímu Kanceláře** jsou přímo podřízeny:
+<ul>
+	<li>sekretariát vedoucího Kanceláře,</li>
+	<li>samostatný referát dětské skupiny</li>
+	<li>útvar interního auditu.</li>
+</ul>
 
-- sekretariát vedoucího Kanceláře,
-- samostatný referát dětské skupiny
-- útvar interního auditu.
+<p><strong>Právní sekce</strong>&nbsp;se dále člení na:</p>
 
-**Právní sekce** se dále člení na:
+<ul>
+	<li>sekretariát právní sekce,</li>
+	<li>úsek výzkumu,</li>
+	<li>odbor stavebního řádu a&nbsp;životního prostředí,</li>
+	<li>odbor veřejného pořádku a&nbsp;místní správy,</li>
+	<li>odbor dohledu nad omezovaním osobní svobody,</li>
+	<li>odbor sociálního zabezpečení,</li>
+	<li>odbor rovného zacházení,</li>
+	<li>odbor justice, migrace a&nbsp;financí,</li>
+	<li>odbor rodiny, zdravotnictví a&nbsp;práce,</li>
+	<li>odbor metodiky a&nbsp;analýz,</li>
+	<li>odbor ochrany práv osob se zdravotním postižením</li>
+</ul>
 
-- sekretariát právní sekce,
-- úsek výzkumu,
-- odbor stavebního řádu a životního prostředí,
-- odbor veřejného pořádku a místní správy,
-- odbor dohledu nad omezovaním osobní svobody,
-- odbor sociálního zabezpečení,
-- odbor rovného zacházení,
-- odbor justice, migrace a financí,
-- odbor rodiny, zdravotnictví a práce,
-- odbor metodiky a analýz,
-- odbor ochrany práv osob se zdravotním postižením
+<p><strong>Odbor administrativních a&nbsp;spisových služeb</strong>&nbsp;se dále člení na:</p>
 
-**Odbor administrativních a spisových služeb** se dále člení na:
+<ul>
+	<li>oddělení administrativních služeb a</li>
+	<li>oddělení spisových služeb.</li>
+</ul>
 
-- oddělení administrativních služeb a
-- oddělení spisových služeb.
+<p><strong>Odbor vnitřní správy</strong>&nbsp;se dále člení na:</p>
 
-**Odbor vnitřní správy** se dále člení na:
+<ul>
+	<li>oddělení ekonomické,</li>
+	<li>samostatný referát personální a&nbsp;EP,</li>
+	<li>samostatný referát informatiky a&nbsp;IT,</li>
+	<li>samostatný referát správy budovy a</li>
+	<li>samostatný referát dopravy.</li>
+</ul>
 
-- oddělení ekonomické,
-- samostatný referát personální a EP,
-- samostatný referát informatiky a IT,
-- samostatný referát správy budovy a
-- samostatný referát dopravy.
+<p>&nbsp;</p>
