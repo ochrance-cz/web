@@ -1,5 +1,5 @@
 ---
-title: Annual report
+title: Annual reports
 illustration: vystupy.jpg
 hp: >
   Reports for the Chamber of Deputies of Parliament, research and
