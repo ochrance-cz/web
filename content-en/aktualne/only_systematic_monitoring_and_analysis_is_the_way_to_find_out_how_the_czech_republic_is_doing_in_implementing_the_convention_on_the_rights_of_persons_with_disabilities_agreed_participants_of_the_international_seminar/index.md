@@ -12,12 +12,12 @@ perex: "There are more than 1.1 million people with disabilities living in the
   could illustrate how the Czech Republic is doing in implementing the UN
   Convention on the Rights of Persons with Disabilities (CRPD). "
 attachments:
-  - file: https://www.ochrance.cz/aktualne/only_systematic_monitoring_and_analysis_is_the_way_to_find_out_how_the_czech_republic_is_doing_in_implementing_the_convention_on_the_rights_of_persons_with_disabilities_agreed_participants_of_the_international_seminar/4_prezentace_fra_en.pdf
+  - file: https://www.ochrance.cz/en/aktualne/only_systematic_monitoring_and_analysis_is_the_way_to_find_out_how_the_czech_republic_is_doing_in_implementing_the_convention_on_the_rights_of_persons_with_disabilities_agreed_participants_of_the_international_seminar/4_prezentace_fra_en.pdf
     title: FRA - Monitoring the implementation of the convention on the rights of
       persons with disabilities
   - title: J. Smits - Use of indicators to confront lack of urgency
-    file: https://www.ochrance.cz/aktualne/only_systematic_monitoring_and_analysis_is_the_way_to_find_out_how_the_czech_republic_is_doing_in_implementing_the_convention_on_the_rights_of_persons_with_disabilities_agreed_participants_of_the_international_seminar/5_prezentace_jose_smits_en.pdf
-  - file: https://www.ochrance.cz/aktualne/only_systematic_monitoring_and_analysis_is_the_way_to_find_out_how_the_czech_republic_is_doing_in_implementing_the_convention_on_the_rights_of_persons_with_disabilities_agreed_participants_of_the_international_seminar/7_stinova_zprava_nizozemskych_ngo_k_crpd_en.pdf
+    file: https://www.ochrance.cz/en/aktualne/only_systematic_monitoring_and_analysis_is_the_way_to_find_out_how_the_czech_republic_is_doing_in_implementing_the_convention_on_the_rights_of_persons_with_disabilities_agreed_participants_of_the_international_seminar/5_prezentace_jose_smits_en.pdf
+  - file: https://www.ochrance.cz/en/aktualne/only_systematic_monitoring_and_analysis_is_the_way_to_find_out_how_the_czech_republic_is_doing_in_implementing_the_convention_on_the_rights_of_persons_with_disabilities_agreed_participants_of_the_international_seminar/7_stinova_zprava_nizozemskych_ngo_k_crpd_en.pdf
     title: The Netherlands Disabled Person’s Organizations Report on the CRPD in the
       Netherlands
 ---
