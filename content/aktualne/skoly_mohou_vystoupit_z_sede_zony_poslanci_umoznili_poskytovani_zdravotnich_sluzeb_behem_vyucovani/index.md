@@ -1,7 +1,7 @@
 ---
 title: Školy mohou vystoupit z šedé zóny – poslanci umožnili poskytování
   zdravotních služeb během vyučování
-date: 2021-09-17T05:44:50.476Z
+date: 2021-09-17T06:05:50.781Z
 vystupy:
   - tz
 perex: Ve školce malému chlapci z jižní Moravy podával inzulín asistent
