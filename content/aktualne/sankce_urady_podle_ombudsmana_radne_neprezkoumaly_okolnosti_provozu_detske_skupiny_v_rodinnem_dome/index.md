@@ -21,12 +21,4 @@ perex: Stavební úřad Obecního úřadu Dolní Břežany a Krajský úřad St�
 
 <p>Ministerstvo pro místní rozvoj se s&nbsp;názorem veřejného ochránce práv neztotožnilo, postup obou úřadů považuje za adekvátní. Vlastníci domů v&nbsp;okolí by se podle ministerstva v&nbsp;případě sporu s provozovateli dětské skupiny měli obrátit na soud, aby dopad provozu zařízení v&nbsp;dané oblasti posoudil.</p>
 
-<p>Nejen v&nbsp;souvislosti s&nbsp;tímto případem se ombudsman rozhodl systémově věnovat otázkám provozu dětských skupin z&nbsp;pohledu předpisů veřejného stavebního práva. Plánuje se na vybraných obecných stavebních úřadech dotázat na jejich postup při posuzování záměrů zřídit dětskou skupinu v&nbsp;objektech zkolaudovaných k&nbsp;jinému účelu. Získané informace by následně využil jako podklady pro jednání s&nbsp;ústředními správními úřady, zejména Ministerstvem práce a sociálních věci a Ministerstvem pro místní rozvoj. Cílem by mělo být sjednocení správní praxe v&nbsp;této oblasti.&nbsp;&nbsp;</p>
-
-<p>Přílohy:</p>
-
-<p><a href="https://eso.ochrance.cz/Nalezene/Edit/8700">Závěrečná zpráva</a></p>
-
-<p><a href="https://eso.ochrance.cz/Nalezene/Edit/9610">Stanovisko</a></p>
-
-<p><a href="https://eso.ochrance.cz/Nalezene/Edit/9612">Sankce</a></p>
+<p>Nejen v&nbsp;souvislosti s&nbsp;tímto případem se ombudsman rozhodl systémově věnovat otázkám provozu dětských skupin z&nbsp;pohledu předpisů veřejného stavebního práva. Plánuje se na vybraných obecných stavebních úřadech dotázat na jejich postup při posuzování záměrů zřídit dětskou skupinu v&nbsp;objektech zkolaudovaných k&nbsp;jinému účelu. Získané informace by následně využil jako podklady pro jednání s&nbsp;ústředními správními úřady, zejména Ministerstvem práce a sociálních věci a Ministerstvem pro místní rozvoj. Cílem by mělo být sjednocení správní praxe v&nbsp;této oblasti.&nbsp;</p>
