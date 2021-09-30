@@ -459,10 +459,6 @@ lawyers:
         role: "právnička "
         phone: "542 542 267 "
         email: barbora.votoupalova@ochrance.cz
-      - name: Jana Červenková
-        role: "právnička "
-        email: "jana.cervenkova@ochrance.cz "
-        phone: 722 981 699
       - name: Anna Katerina Vintrová
         role: "právnička "
         phone: "542 542 253 "
