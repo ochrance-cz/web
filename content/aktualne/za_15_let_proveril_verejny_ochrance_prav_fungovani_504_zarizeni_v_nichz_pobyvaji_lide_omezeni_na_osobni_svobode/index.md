@@ -16,6 +16,8 @@ attachments:
     file: https://www.ochrance.cz/aktualne/za_15_let_proveril_verejny_ochrance_prav_fungovani_504_zarizeni_v_nichz_pobyvaji_lide_omezeni_na_osobni_svobode/05_graf_-_14_pracovnich_let.png
   - title: Tisková zpráva ke stažení
     file: https://www.ochrance.cz/aktualne/za_15_let_proveril_verejny_ochrance_prav_fungovani_504_zarizeni_v_nichz_pobyvaji_lide_omezeni_na_osobni_svobode/tz_15_let_npm.pdf
+  - file: https://www.ochrance.cz/aktualne/na_kavu_s_ombudsmanem_29-_dil_uz_15_let_chranime_lidska_prava_v_zarizenich/
+    title: Podcast k patnáctiletému výročí národního preventivního mechanismu
 ---
 <p><em>&bdquo;Omezení osobní svobody může potkat každého, pokud se například kvůli úrazu, nemoci nebo věku stane <strong>závislým na péči ostatních</strong>,&ldquo;</em> připomněl k výročí NPM ombudsman Stanislav Křeček. <em>&bdquo;Mezi navštěvovanými zařízeními jsou proto i nemocnice, dětské domovy nebo domovy pro seniory. Další skupinu pak tvoří místa, kde dochází k <strong>omezení osobní svobody z moci úřední</strong>, jako jsou věznice nebo policejní cely.&ldquo;</em> doplnil ombudsman s tím, že působnost v oblasti dohledu na omezováním osobní svobody svěřil svojí zástupkyni Monice Šimůnkové.</p>
 
