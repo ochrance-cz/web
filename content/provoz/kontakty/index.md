@@ -167,10 +167,6 @@ lawyers:
           poměry)
         phone: 542 542 311
         email: veronika.gabrisova@ochrance.cz
-      - name: Jiří Barč
-        role: právník (katastr nemovitostí, státní služba a služební poměry)
-        phone: 542 542 376
-        email: jiri.barc@ochrance.cz
       - name: Michaela Černínová
         role: právnička (veřejné cesty)
         phone: 542 542 312
