@@ -11,7 +11,9 @@ perex: By systematically visiting places where people are or may be deprived of
   the National Preventive Mechanism (NPM) under the Optional Protocol to the
   Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or
   Punishment (OPCAT).
-attachments: []
+attachments:
+  - title: Press Release
+    file: https://www.ochrance.cz/aktualne/in_15_years_czech_ombudsman_has_inspected_504_facilities_where_people_are_deprived_of_their_personal_liberty_-_pushed_for_the_abolition_of_cage_beds_and_improved_conditions_for_thousands_of_people/press_release_-_15_years_of_npm.pdf
 ---
 <p><strong>By systematically visiting places where people are or may be deprived of their personal liberty, Ombudsman strengthens their protection against ill-treatment. Since 2006, Czech Ombudsman has been carrying out the tasks of the National Preventive Mechanism (NPM) under the Optional Protocol to the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment (OPCAT).</strong></p>
 
@@ -21,15 +23,19 @@ attachments: []
 
 <p><em>&quot;I consider the great success of the past fifteen years to be the <strong>definitive end of the use of cage beds in psychiatric wards</strong>. Although the law banned them in 2007, three years ago - in September 2018 - colleagues discovered a cage bed during a hospital visit. So with its removal, cage beds have hopefully disappeared from our hospitals for good,&quot;</em> the Deputy Ombudsman said.</p>
 
-<p><em>&quot;However, based on our findings from visits to various facilities, we have also initiated changes that may look &nbsp;minor or banal at first glance, but have actually improved daily lives of hundreds, some even thousands, of people. For example, unlike in the recent past, children in children&#39;s homes can wear their own clothes and have lockable cabinets,&quot;</em> Šimůnková explained.</p>
+<p>Probably the last cage bed in the Czech Republic - discovered during the Ombudsman&#39;s visit to a psychiatric hospital in 2018:</p>
+
+<p><img alt="klecove_luzko.png" src="https://www.ochrance.cz/aktualne/in_15_years_czech_ombudsman_has_inspected_504_facilities_where_people_are_deprived_of_their_personal_liberty_-_pushed_for_the_abolition_of_cage_beds_and_improved_conditions_for_thousands_of_people/klecove_luzko.png" /><em>&quot;However, based on our findings from visits to various facilities, we have also initiated changes that may look &nbsp;minor or banal at first glance, but have actually improved daily lives of hundreds, some even thousands, of people. For example, unlike in the recent past, children in children&#39;s homes can wear their own clothes and have lockable cabinets,&quot;</em> Šimůnková explained.</p>
 
 <p>According to Ondřej Vala, head of the Department for Supervision of Restrictions on Personal Freedom, there has been a whole&nbsp; group of similar seemingly small changes. &bdquo;<em>Children in children&#39;s homes can now also make <strong>telephone calls in private</strong> and nobody is allowed to read their e-mails or text messages. Thanks to us, <strong>prisoners</strong> are also guaranteed a hot <strong>shower at least twice a week</strong>. We have also recommended that patients in psychiatric hospitals should not have to wear pyjamas all day. In one psychiatric hospital, cameras monitored children in the toilets. We succeeded in demanding the removal of these cameras.&quot;</em> Vala calculates.</p>
 
-<p>The Deputy Ombudsman also recalled <strong>activities of the NPM during the COVID-19 pandemic</strong>. At that time, she and her colleagues monitored in particular whether excessive interference with the rights of clients, patients, children or prisoners was occurring due to the anti-epidemic measures. In her opinion, the curfew for clients of homes for the elderly and homes for persons with special needs, which remained in force after the end of the state of emergency, was disproportionate and illegal.</p>
+<p><img alt="facilities_visited.png" src="https://www.ochrance.cz/aktualne/in_15_years_czech_ombudsman_has_inspected_504_facilities_where_people_are_deprived_of_their_personal_liberty_-_pushed_for_the_abolition_of_cage_beds_and_improved_conditions_for_thousands_of_people/facilities_visited.png" />The Deputy Ombudsman also recalled <strong>activities of the NPM during the COVID-19 pandemic</strong>. At that time, she and her colleagues monitored in particular whether excessive interference with the rights of clients, patients, children or prisoners was occurring due to the anti-epidemic measures. In her opinion, the curfew for clients of homes for the elderly and homes for persons with special needs, which remained in force after the end of the state of emergency, was disproportionate and illegal.</p>
 
 <p><strong>Systematic Visits </strong></p>
 
 <p>The Office&#39;s staff carries out <strong>systematic visits of the facilities without prior notice</strong>. They may enter at any time of the day, on weekdays, weekends or even on public holidays. This gives them the opportunity to see the day-to-day operations and life in the facility. They can enter all areas of the facility, look at all documentation, including medical documentation, and talk in private not only with all the staff, but also with the residents of the facility, whether they are children, patients or prisoners. In preparation for and during the systematic visits, they cooperate with external experts such as doctors, psychologists, nurses or educators.</p>
+
+<p><img alt="conditions_examined.png" src="https://www.ochrance.cz/aktualne/in_15_years_czech_ombudsman_has_inspected_504_facilities_where_people_are_deprived_of_their_personal_liberty_-_pushed_for_the_abolition_of_cage_beds_and_improved_conditions_for_thousands_of_people/conditions_examined.png" /></p>
 
 <p><strong>A detailed report from each visit</strong>, with suggestions for possible or necessary improvements and adjustments, is addressed by the Ombudsman to the management of the facility and its establishers. The Ombudsman also issues <strong>summary reports<a href="#_ftn1"><strong><strong>[1]</strong></strong></a></strong> of visits to a particular type of facilities (eg. homes for the erderly, psychiatric hospitals, prisons etc.), which can serve as a source of information for other professionals in the field. A total of three dozen publications have already been issued. Two more are expected to be added this year.</p>
 
