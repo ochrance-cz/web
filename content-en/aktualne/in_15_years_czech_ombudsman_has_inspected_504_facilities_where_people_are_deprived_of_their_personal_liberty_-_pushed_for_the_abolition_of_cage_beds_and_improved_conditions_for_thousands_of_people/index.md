@@ -11,7 +11,9 @@ perex: By systematically visiting places where people are or may be deprived of
   the National Preventive Mechanism (NPM) under the Optional Protocol to the
   Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or
   Punishment (OPCAT).
-attachments: []
+attachments:
+  - file: https://www.ochrance.cz/aktualne/za_15_let_proveril_verejny_ochrance_prav_fungovani_504_zarizeni_v_nichz_pobyvaji_lide_omezeni_na_osobni_svobode/press_release_-_15_years_of_npm.pdf
+    title: Press Release
 ---
 <p><em>&quot;Restrictions on personal freedom can happen to anyone if they become dependent on the care of others, for example because of an accident, illness or age,&quot;</em> Ombudsman Stanislav Křeček said on the anniversary of the NPM. <em>&quot;Therefore, hospitals, children&#39;s homes or homes for the elderly are among the facilities visited. Another group consists of places where personal freedom is restricted ex officio, such as prisons or police cells,&quot; </em>explained the Ombudsman and added that he had entrusted his deputy, Monika Šimůnková with the responsibility for monitoring restrictions on personal liberty.</p>
 
