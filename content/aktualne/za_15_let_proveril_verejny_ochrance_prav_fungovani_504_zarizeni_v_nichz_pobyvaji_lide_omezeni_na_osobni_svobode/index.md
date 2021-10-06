@@ -45,7 +45,7 @@ attachments:
 
 <p><em>&bdquo;Vyhoštění z České republiky může často trvat desítky hodin. V některých případech se stávalo, že cizinec nedostal na cestu žádné jídlo ani pití a byl tak často o hladu. Ombudsman se zasadil, aby všichni cizinci bez rozdílu dostávali na cestu balíčky s jídlem i nápoji,&ldquo;</em> popisuje jeden z úspěchů právnička Anna Makarenko. Výzvy podle ní ale zůstávají, například pracovníkům Kanceláře policie neumožňuje dohled nad průběhem vyhoštění cizinců přímo v eskortních vozidlech.</p>
 
-<p>Výzvy do budoucna</p>
+<p><strong>Výzvy do budoucna</strong></p>
 
 <p>I v dalších oblastech by ombudsman chtěl dosáhnout systémových změn. Dosud například <strong>chybí jasná právní úprava práv a povinností lidí v ochranném léčení.</strong> Ombudsman upozorňuje i na <strong>roztříštěnost péče o ohrožené děti</strong>. O tu se dělí tři rezorty (MZ, MŠMT, MPSV), zároveň je rozdělena mezi státní správu a samosprávu a mezi státní a nestátní sektor.</p>
 
