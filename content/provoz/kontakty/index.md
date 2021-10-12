@@ -298,7 +298,7 @@ lawyers:
         phone: 542 542 349
         email: sylvie.pokorna@ochrance.cz
       - name: Josef Stehlík
-        role: právník (věci cizinců, státní správa soudů)
+        role: právník (věci cizinců)
         phone: 542 542 259
         email: josef.stehlik@ochrance.cz
       - name: Beáta Szakácsová
