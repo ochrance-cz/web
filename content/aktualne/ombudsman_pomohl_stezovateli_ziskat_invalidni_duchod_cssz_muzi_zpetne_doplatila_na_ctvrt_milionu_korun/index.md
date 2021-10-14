@@ -4,7 +4,7 @@ title: Ombudsman pomohl stěžovateli získat invalidní důchod, ČSSZ muži zp
 date: 2021-10-13T13:37:32.845Z
 vystupy:
   - tz
-perex: "Díky zásahu ombudsmana se mladý muž ze středočeského kraje po pěti
+perex: "Díky zásahu ombudsmana se mladý muž ze Středočeského kraje po pěti
   letech dočkal přiznání invalidního důchodu. Veřejný ochránce práv upozornil
   Českou správu sociálního zabezpečení na několik pochybení. ČSSZ především při
   posuzování nároku na důchod nezapočítala muži dobu studia před jeho osmnáctým
