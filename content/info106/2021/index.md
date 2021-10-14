@@ -318,3 +318,77 @@ title: 2021
 <p><a href="https://www.ochrance.cz/info106/2021/62_2021_zadost.pdf">Žádost o informace.</a></p>
 
 <p><a href="https://www.ochrance.cz/info106/2021/62_2021_odpoved.odt">Odpověď na žádost.</a></p>
+
+<h3>64/2021 &ndash; Informace z&nbsp;oblasti vězeňství</h3>
+
+<p><a href="https://www.ochrance.cz/info106/2021/64_2021_zadost.pdf">Žádost o informace</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2021/64_2021_odpoved.odt">Odpověď na žádost</a>.</p>
+
+<h3>66/2021 &ndash; Informace z&nbsp;oblasti vězeňství</h3>
+
+<p><a href="https://www.ochrance.cz/info106/2021/66_2021_zadost.pdf">Žádost o informace</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2021/66_2021_odpoved.odt">Odpověď na žádost</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2021/66_2021_odpoved_priloha.pdf">Příloha 1</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2021/66_2021_odpoved_priloha2.pdf">Příloha 2</a>.</p>
+
+<h3>71/2021 &ndash; Informace ke spisu z&nbsp;oblasti územní, stavební řízení, užívání stavby</h3>
+
+<p><a href="https://www.ochrance.cz/info106/2021/71_2021_zadost.pdf">Žádost o informace</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2021/71_2021_odpoved.odt">Odpověď na žádost</a>.</p>
+
+<h3>72/2021 &ndash; Informace ke spisu z&nbsp;oblasti péče o zdraví, ostatní působnost Ministerstva zdravotnictví</h3>
+
+<p><a href="https://www.ochrance.cz/info106/2021/72_2021_zadost.pdf">Žádost o informace</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2021/72_2021_odpoved.odt">Odpověď na žádost</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2021/k106_72_2021_odpoved_priloha.pdf">Příloha </a>.</p>
+
+<h3>73/2021 &ndash; Informace k&nbsp;organizaci KVOP</h3>
+
+<p><a href="https://www.ochrance.cz/info106/2021/73_2021_zadost.pdf">Žádost o informace</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2021/73_2021_odpoved.odt">Odpověď na žádost</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2021/k106_73_2021_odpoved_priloha.pdf">Příloha</a>.</p>
+
+<h3>74/2021 &ndash; Informace k&nbsp;nájmům konferenčních sálů a parkoviště KVOP</h3>
+
+<p><a href="https://www.ochrance.cz/info106/2021/74_2021_zadost.pdf">Žádost o informace</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2021/74_2021_odpoved.odt">Odpověď na žádost</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2021/k106_74_2021_odpoved_priloha.pdf">Příloha</a>.</p>
+
+<h3>76/2021 &ndash; Informace z&nbsp;oblasti vězeňství</h3>
+
+<p><a href="https://www.ochrance.cz/info106/2021/76_2021_zadost.pdf">Žádost o informace</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2021/76_2021_odpoved.odt">Odpověď na žádost</a>.</p>
+
+<h3>77/2021 &ndash; Informace k&nbsp;nájmům konferenčních sálů a parkoviště KVOP</h3>
+
+<p><a href="https://www.ochrance.cz/info106/2021/77_2021_zadost.pdf">Žádost o informace</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2021/77_2021_odpoved.odt">Odpověď na žádost</a>.</p>
+
+<h3>78/2021 &ndash; Informace ke spisu z&nbsp;oblasti sociálního zabezpečení</h3>
+
+<p><a href="https://www.ochrance.cz/info106/2021/78_2021_zadost.pdf">Žádost o informace</a>.</p>
+
+<p>Odpověď na žádost.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2021/k106_78_2021_odpoved_priloha.pdf">Příloha</a>.</p>
+
+<h3>80/2021 &ndash; Informace ke stanovisku VOP v&nbsp;rámci pozměňovacího návrhu č. 8299</h3>
+
+<p><a href="https://www.ochrance.cz/info106/2021/80_2021_zadost.pdf">Žádost o informace</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2021/80_2021_odpoved.odt">Odpověď na žádost</a>.</p>
+
+<p>&nbsp;</p>
