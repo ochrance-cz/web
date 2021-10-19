@@ -2,6 +2,8 @@
 title: Ministerstvo práce a sociálních věcí opakovaně odmítá opatření navrhovaná
   ombudsmanem. Veřejný ochránce práv proto informoval vládu
 date: 2021-10-19T09:15:21.985Z
+vystupy:
+  - tz
 perex: "Ministerstvo práce a sociálních věcí opakovaně odmítlo plnit opatření,
   která veřejný ochránce práv navrhoval v souvislosti s postupem úřadů práce při
   vyřazování lidí z evidence uchazečů o zaměstnání. Nespolupracovalo s
