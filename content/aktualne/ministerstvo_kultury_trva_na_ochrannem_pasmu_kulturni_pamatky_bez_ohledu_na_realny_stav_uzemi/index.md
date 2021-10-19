@@ -21,3 +21,11 @@ perex: Ministerstvo kultury i přes opakovaná upozornění ombudsmana nezjistil
 <p>Ministerstvo kultury následně vyzvalo olomoucký magistrát k&nbsp;odstranění jedné ze staveb postavené v&nbsp;dané lokalitě v&nbsp;rozporu s&nbsp;podmínkami ochranného pásma. Bez ohledu na případné odstranění této budovy zůstane ale podle ombudsmana podoba území i nadále silně ovlivněna jinými stavbami v&nbsp;okolí.</p>
 
 <p>Na rozdíl od pověřených zaměstnanců Kanceláře veřejného ochránce práv zástupci ministerstva situaci na místě samém ani po upozorněních ombudsmana za účasti stěžovatelky neprověřili. <em>&bdquo;Trvám na&nbsp;tom, že&nbsp;kdyby mohla stěžovatelka přímo na&nbsp;místě ozřejmit důvody svého podnětu a&nbsp;nesouhlasu se stanoviskem ministerstva, nepochybně by to přispělo ke&nbsp;zlepšení komunikace mezi stěžovatelkou a&nbsp;ministerstvem a&nbsp;zvýšení její důvěry v&nbsp;objektivní posouzení věci,&ldquo;</em> uzavírá ombudsman.</p>
+
+<p><strong>Přílohy:</strong></p>
+
+<p><a href="https://eso.ochrance.cz/Nalezene/Edit/9718">Zpráva o šetření</a></p>
+
+<p><a href="https://eso.ochrance.cz/Nalezene/Edit/9716">Závěrečné stanovisko</a></p>
+
+<p><a href="https://eso.ochrance.cz/Nalezene/Edit/9722">Sankce</a></p>
