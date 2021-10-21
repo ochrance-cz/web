@@ -498,10 +498,6 @@ lawyers:
         role: právník
         phone: 542 542 284
         email: stepan.jilka@ochrance.cz
-      - name: Anna Makarenko
-        role: právnička
-        phone: 542 542 375
-        email: anna.lanickova@ochrance.cz
       - name: Barbora Matějková
         role: právnička
         phone: 542 542 306
