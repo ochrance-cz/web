@@ -8,75 +8,76 @@ links:
   - text: Nejdůležitější používané předpisy
     link: /o-nas/predpisy
 ---
+<h2>Název</h2>
 
-## Název
+<p>Kancelář veřejného ochránce práv</p>
 
-Kancelář veřejného ochránce práv
+<h2>Důvod a&nbsp;způsob založení</h2>
 
-## Důvod a způsob založení
+<p>Kancelář veřejného ochránce práv byla založena k&nbsp;organizačnímu, odbornému a&nbsp;technickému zabezpečení činnosti veřejného ochránce práv&nbsp;<a href="/info/statut/">Statutem kanceláře veřejného ochránce práv účinným od 1. března 2013</a>, vydaným ochráncem na&nbsp;základě &sect;&nbsp;25&nbsp;zákona č.&nbsp;349/1999&nbsp;Sb. o&nbsp;Veřejném ochránci práv.</p>
 
-Kancelář veřejného ochránce práv byla založena k organizačnímu, odbornému a technickému zabezpečení činnosti veřejného ochránce práv [Statutem kanceláře veřejného ochránce práv účinným od 1. března 2013](/statut/), vydaným ochráncem na základě § 25 zákona č. 349/1999 Sb. o Veřejném ochránci práv.
+<h2>Kontaktní spojení</h2>
 
-## Kontaktní spojení
+<p>Veškeré kontaktní údaje vč. možnosti vyhledání v&nbsp;mapě, trasovačů a&nbsp;informací o&nbsp;přístupu handicapových osob jsou zveřejněny na stránce <a href="/kontakt">Kontakt</a> v&nbsp;sekci&nbsp;<a href="/provoz/kontakty">Kontakty</a>.</p>
 
-Veškeré kontaktní údaje vč. možnosti vyhledání v mapě, trasovačů a informací o přístupu handicapových osob jsou zveřejněny na stránce [Kontakt](/kontakt) v sekci [Kontakty](/provoz/kontakty).
+<p><strong>Kontaktní poštovní adresa:</strong>&nbsp;Kancelář veřejného ochránce práv, Údolní&nbsp;39, 602&nbsp;00 Brno.</p>
 
-**Kontaktní poštovní adresa:** Kancelář veřejného ochránce práv, Údolní 39, 602 00 Brno.
+<p><strong>Adresa úřadovny pro osobní návštěvu:</strong>&nbsp;Kancelář veřejného ochránce práv, Údolní&nbsp;39, 602&nbsp;00 Brno.</p>
 
-**Adresa úřadovny pro osobní návštěvu:** Kancelář veřejného ochránce práv, Údolní 39, 602 00 Brno.
+<p><strong>Úřední hodiny:</strong>&nbsp;Kancelář veřejného ochránce práv nemá vymezené úřední hodiny. Příjem podnětů veřejnému ochránci práv je v&nbsp;budově Kanceláře veřejného ochránce práv denně v&nbsp;pracovní dny od&nbsp;8:00 hod do&nbsp;16:00 hod.</p>
 
-**Úřední hodiny:** Kancelář veřejného ochránce práv nemá vymezené úřední hodiny. Příjem podnětů veřejnému ochránci práv je v budově Kanceláře veřejného ochránce práv denně v pracovní dny od 8:00 hod do 16:00 hod.
+<p><strong>Provozní doba podatelny:&nbsp; Po&nbsp;- Pá&nbsp;&nbsp;&nbsp; 8:00 &ndash;&nbsp;16:00 h</strong></p>
 
-**Provozní doba podatelny:  Po - Pá    8:00 – 16:00 h**
+<p><strong>Telefonní spojení:</strong><br />
+Ústředna, vrátnice Kanceláře veřejného ochránce práv &ndash; 542&nbsp;542&nbsp;111<br />
+Sekretariát vedoucího Kanceláře veřejného ochránce práv &ndash; 542&nbsp;542&nbsp;555<br />
+Informace o&nbsp;podnětech veřejnému ochránci práv &ndash; 542&nbsp;542&nbsp;888.</p>
 
-**Telefonní spojení:**\
-Ústředna, vrátnice Kanceláře veřejného ochránce práv – 542 542 111\
-Sekretariát vedoucího Kanceláře veřejného ochránce práv – 542 542 555\
-Informace o podnětech veřejnému ochránci práv – 542 542 888.
+<p><strong>Čísla faxu:</strong>&nbsp;Podatelna Kanceláře veřejného ochránce práv &ndash;&nbsp;542&nbsp;542&nbsp;112.</p>
 
-**Čísla faxu:** Podatelna Kanceláře veřejného ochránce práv – 542 542 112.
+<p><strong>Adresa internetové stránky:</strong><br />
+Kancelář veřejného ochránce práv nemá vlastní internetovou stránku. Informace o&nbsp;Kanceláři veřejného ochránce práv jsou uvedeny v&nbsp;samostatné sekci na&nbsp;internetové stránce veřejného ochránce práv&nbsp;<a href="https://www.ochrance.cz/">www.ochrance.cz</a>.</p>
 
-**Adresa internetové stránky:**\
-Kancelář veřejného ochránce práv nemá vlastní internetovou stránku. Informace o Kanceláři veřejného ochránce práv jsou uvedeny v samostatné sekci na internetové stránce veřejného ochránce práv [www.ochrance.cz](https://www.ochrance.cz/).
+<p><strong>Adresa e-podatelny:</strong> <a href="mailto:podatelna@ochrance.cz">podatelna@ochrance.cz</a></p>
 
-**Adresa e-podatelny:** [podatelna@ochrance.cz](mailto:podatelna@ochrance.cz)
+<p><strong>ID datové schránky:</strong> jz5adky</p>
 
-**ID datové schránky:** jz5adky
+<p><strong>Další elektronické adresy:</strong> viz <a href="/provoz/kontakty">Kontakty</a></p>
 
-**Další elektronické adresy:** viz [Kontakty](/provoz/kontakty)
+<p><strong>Příjem žádostí a&nbsp;dalších podání:</strong> Příjem stížností na&nbsp;Kancelář veřejného ochránce práv je na&nbsp;kontaktní poštovní adrese nebo osobně na&nbsp;podatelně v&nbsp;budově Kanceláře veřejného ochránce práv, Údolní 39, Brno</p>
 
-**Příjem žádostí a dalších podání:** Příjem stížností na Kancelář veřejného ochránce práv je na kontaktní poštovní adrese nebo osobně na podatelně v budově Kanceláře veřejného ochránce práv, Údolní 39, Brno
+<p><strong>Případné platby lze poukázat</strong>\ na číslo účtu Kanceláře veřejného ochránce práv: 41123621/0710</p>
 
-**Případné platby lze poukázat**\ na číslo účtu Kanceláře veřejného ochránce práv: 41123621/0710
+<p><strong>IČ</strong> Kanceláře veřejného ochránce práv: 70836981<br />
+<strong>DIČ</strong> Kancelář veřejného ochránce práv není plátcem&nbsp;DPH.</p>
 
-**IČ** Kanceláře veřejného ochránce práv: 70836981\
-**DIČ** Kancelář veřejného ochránce práv není plátcem DPH.
+<h2>Seznam hlavních dokumentů</h2>
 
-## Seznam hlavních dokumentů
+<ul>
+	<li><a href="/info/statut/">Statut Kanceláře veřejného ochránce práv</a></li>
+	<li><a href="https://www.ochrance.cz/provoz/zamestnanci-a-organizacni-struktura/organizacni_rad.docx">Organizační řád Kanceláře veřejného ochránce práv</a></li>
+</ul>
 
-- [Statut Kanceláře veřejného ochránce práv](/statut/)
-- [Organizační řád Kanceláře veřejného ochránce práv](/organizacni-rad/)
+<h2>Žádosti o&nbsp;informace</h2>
 
-## Žádosti o informace
+<p>Za vyřizování žádostí o&nbsp;informace, vztahující se k&nbsp;činnosti Kanceláře veřejného ochránce práv dle zákona č.&nbsp;106/1999&nbsp;Sb., o&nbsp;svobodném přístupu k&nbsp;informacím, ve&nbsp;znění pozdějších předpisů, je odpovědný vedoucí Kanceláře veřejného ochránce práv.</p>
 
-Za vyřizování žádostí o informace, vztahující se k činnosti Kanceláře veřejného ochránce práv dle zákona č. 106/1999 Sb., o svobodném přístupu k informacím, ve znění pozdějších předpisů, je odpovědný vedoucí Kanceláře veřejného ochránce práv.
+<p>Další informace vč. sazebníku úhrad za poskytování informací najdete na stránce <a href="/provoz/zakon-106-1999-sb">Poskytování informací dle zákona 106/1999 Sb.</a>.</p>
 
-Další informace vč. sazebníku úhrad za poskytování informací najdete na stránce [Poskytování informací dle zákona 106/1999 Sb.](/provoz/zakon-106-1999-sb).
+<h2>Příjem žádostí a&nbsp;dalších podání</h2>
 
-## Příjem žádostí a dalších podání
+<p>Příjem stížností na&nbsp;Kancelář veřejného ochránce práv je na&nbsp;<a href="/provoz/kontakty">kontaktní poštovní adrese</a>&nbsp;nebo osobně na&nbsp;podatelně v&nbsp;budově Kanceláře veřejného ochránce práv, Údolní 39, Brno.</p>
 
-Příjem stížností na Kancelář veřejného ochránce práv je na [kontaktní poštovní adrese](/provoz/kontakty) nebo osobně na podatelně v budově Kanceláře veřejného ochránce práv, Údolní 39, Brno.
+<h2>Popisy postupů &ndash; návody na&nbsp;řešení životních situací</h2>
 
-## Popisy postupů – návody na řešení životních situací
+<p>S&nbsp;ohledem na&nbsp;zákonem vymezený účel (slouží k&nbsp;organizačnímu, odbornému a&nbsp;technickému zabezpečení činnosti veřejného ochránce práv) nemá Kancelář veřejného ochránce práv žádné vlastní postupy či&nbsp;návody.</p>
 
-S ohledem na zákonem vymezený účel (slouží k organizačnímu, odbornému a technickému zabezpečení činnosti veřejného ochránce práv) nemá Kancelář veřejného ochránce práv žádné vlastní postupy či návody.
+<p>Možnosti řešení životních situací jsou zveřejněny&nbsp;<a href="/situace/">v samostatné části webu ochránce</a>.</p>
 
-Možnosti řešení životních situací jsou zveřejněny [v samostatné části webu ochránce](/situace/).
+<h3>Vydané právní předpisy</h3>
 
-### Vydané právní předpisy
+<p>Kancelář veřejného ochránce práv nevydává žádné vlastní právní předpisy.</p>
 
-Kancelář veřejného ochránce práv nevydává žádné vlastní právní předpisy.
+<h2>Licenční smlouvy</h2>
 
-## Licenční smlouvy
-
-Kancelář veřejného ochránce práv není poskytovatelem žádné licence.
+<p>Kancelář veřejného ochránce práv není poskytovatelem žádné licence.</p>
