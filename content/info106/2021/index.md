@@ -381,7 +381,7 @@ title: 2021
 
 <p><a href="https://www.ochrance.cz/info106/2021/78_2021_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>Odpověď na žádost.</p>
+<p><a href="https://www.ochrance.cz/info106/2021/78_2021_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <p><a href="https://www.ochrance.cz/info106/2021/k106_78_2021_odpoved_priloha.pdf">Příloha</a>.</p>
 
