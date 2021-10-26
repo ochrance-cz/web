@@ -3,6 +3,8 @@ title: O posuzování náhrady nemajetkové újmy na zdraví diskutovali na
   Ministerstvu spravedlnosti lékaři, úředníci, soudci i právníci z kanceláře
   ombudsmana
 date: 2021-09-23T11:45:32.274Z
+vystupy:
+  - tz
 perex: "Kulatý stůl k tématu posuzování nemajetkové újmy na zdraví uspořádalo
   Ministerstvo spravedlnosti v návaznosti na šetření veřejného ochránce práv, ve
   kterém se ombudsman zabýval okolnostmi vzniku Metodiky k náhradě nemajetkové
