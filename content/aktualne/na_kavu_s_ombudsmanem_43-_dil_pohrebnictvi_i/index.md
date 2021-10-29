@@ -18,8 +18,6 @@ perex: K příležitosti blížících se Dušiček jsme natočili podcast o poh
 
 <h3>Související odkazy:</h3>
 
-<p>&nbsp;</p>
-
 <p><a href="https://www.ochrance.cz/vystupy/publikace/stanoviska/Sbornik_Pohrebnictvi.pdf">Sborník ombudsmana Pohřebnictví</a></p>
 
 <p><a href="https://www.mmr.cz/cs/ministerstvo/pohrebnictvi">Ministerstvo pro místní rozvoj - pohřebnictví</a></p>
@@ -28,7 +26,7 @@ perex: K příležitosti blížících se Dušiček jsme natočili podcast o poh
 
 <p><a href="http://omnicim.cz/">Omni Cimiterium - Péče o hřbitovy</a></p>
 
-<p><a href="https://radiozurnal.rozhlas.cz/pomoc-bez-zisku-serial-o-lidech-kteri-napnuli-sve-sily-a-pomahaji-v-neziskovych-7959991/11">J. Děd a spolek Omnium opravují zchátralé památky</a></p>
+<p><a href="https://radiozurnal.rozhlas.cz/pomoc-bez-zisku-serial-o-lidech-kteri-napnuli-sve-sily-a-pomahaji-v-neziskovych-7959991/11">J. Děd a spolek Omnium opravují zchátralé památky - podcast</a></p>
 
 <p>&nbsp;</p>
 
