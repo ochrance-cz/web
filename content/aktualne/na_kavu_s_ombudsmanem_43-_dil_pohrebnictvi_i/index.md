@@ -30,8 +30,6 @@ perex: K příležitosti blížících se Dušiček jsme natočili podcast o poh
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
 <p>U tématu pohřebnictví zůstaneme ještě příští týden. Ve druhém díle našeho podcastu si budeme povídat o hrobech pronajatých na věčné časy, odpovíme na otázku, jak řešit škodu na hrobovém zařízení a vzpomeneme také na staré německé hřbitovy v našem pohraničí.</p>
 
 <p>&nbsp;</p>
