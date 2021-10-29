@@ -1,6 +1,6 @@
 ---
 title: "Na kávu s ombudsmanem, 43. díl: Pohřebnictví I"
-date: 2021-10-29T09:06:35.235Z
+date: 2021-10-29T09:34:59.044Z
 vystupy:
   - podcast
 perex: K příležitosti blížících se Dušiček jsme natočili podcast o pohřebnictví.
