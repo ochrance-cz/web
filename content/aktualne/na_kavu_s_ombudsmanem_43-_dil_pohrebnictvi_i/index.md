@@ -18,15 +18,19 @@ perex: K příležitosti blížících se Dušiček jsme natočili podcast o poh
 
 <h3>Související odkazy:</h3>
 
-<p><a href="https://www.ochrance.cz/vystupy/publikace/stanoviska/Sbornik_Pohrebnictvi.pdf">https://www.ochrance.cz/vystupy/publikace/stanoviska/Sbornik_Pohrebnictvi.pdf</a></p>
+<p>&nbsp;</p>
 
-<p><a href="https://www.mmr.cz/cs/ministerstvo/pohrebnictvi">https://www.mmr.cz/cs/ministerstvo/pohrebnictvi</a></p>
+<p><a href="https://www.ochrance.cz/vystupy/publikace/stanoviska/Sbornik_Pohrebnictvi.pdf">Sborník ombudsmana Pohřebnictví</a></p>
 
-<p><a href="https://www.vlada.cz/assets/ppov/rnm/dokumenty/publikace/2017_06_09_pece_o_hroby_schvalena_brozura.pdf">https://www.vlada.cz/assets/ppov/rnm/dokumenty/publikace/2017_06_09_pece_o_hroby_schvalena_brozura.pdf</a></p>
+<p><a href="https://www.mmr.cz/cs/ministerstvo/pohrebnictvi">Ministerstvo pro místní rozvoj - pohřebnictví</a></p>
 
-<p><a href="http://omnicim.cz/">http://omnicim.cz/</a></p>
+<p><a href="https://www.vlada.cz/assets/ppov/rnm/dokumenty/publikace/2017_06_09_pece_o_hroby_schvalena_brozura.pdf">K péči o opuštěné německé a další hroby na hřbitovech v&nbsp;ČR - brožura</a></p>
 
-<p><a href="https://radiozurnal.rozhlas.cz/pomoc-bez-zisku-serial-o-lidech-kteri-napnuli-sve-sily-a-pomahaji-v-neziskovych-7959991/11">https://radiozurnal.rozhlas.cz/pomoc-bez-zisku-serial-o-lidech-kteri-napnuli-sve-sily-a-pomahaji-v-neziskovych-7959991/11</a></p>
+<p><a href="http://omnicim.cz/">Omni Cimiterium - Péče o hřbitovy</a></p>
+
+<p><a href="https://radiozurnal.rozhlas.cz/pomoc-bez-zisku-serial-o-lidech-kteri-napnuli-sve-sily-a-pomahaji-v-neziskovych-7959991/11">J. Děd a spolek Omnium opravují zchátralé památky</a></p>
+
+<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
