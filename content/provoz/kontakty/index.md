@@ -558,7 +558,7 @@ lawyers:
         email: ondrej.kaspar@ochrance.cz
       - name: Veronika Vítková
         role: "právnička "
-        phone: 605 723 879
+        phone: 725 546 632
         email: veronika.vitkova@ochrance.cz
   - title: Odbor metodiky a analýzy
     people:
