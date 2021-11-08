@@ -14,7 +14,7 @@ perex: "Ministerstvo práce a sociálních věcí opakovaně odmítlo plnit opat
 ---
 <p><strong>1. Posuzování nároku na příspěvek na péči nebo zvláštní pomůcku</strong></p>
 
-<p>Na veřejného ochránce práv se od roku 2018 obrátili stěžovatelé ve třech velmi podobných případech, jejichž společným jmenovatelem byla nedostatečná kvalita posudků posudkových lékařů. Na jejich základě Úřad práce ČR a Ministerstvo práce a sociálních věcí rozhodovaly o přiznání příspěvku na péči, případně příspěvku na zvláštní pomůcku a mohla tím zásadním způsobem ovlivnit kvalitu dalšího života stěžovatelů. &nbsp;</p>
+<p>Na veřejného ochránce práv se od roku 2018 obrátili stěžovatelé ve třech velmi podobných případech, jejichž společným jmenovatelem byla nedostatečná kvalita posudků posudkových lékařů. Na jejich základě Úřad práce ČR a Ministerstvo práce a sociálních věcí rozhodovaly o přiznání příspěvku na péči, případně příspěvku na zvláštní pomůcku a mohly&nbsp;tím zásadním způsobem ovlivnit kvalitu dalšího života stěžovatelů. &nbsp;</p>
 
 <p>Ombudsman ministerstvo opakovaně upozorňoval na neúplné a nepřesvědčivé posudky. Posudkový orgán se přitom musí vypořádat se všemi rozhodnými skutečnostmi. Má vycházet nejen z lékařských zpráv, ale i ze záznamu o sociálním šetření. Posudek pak musí obsahovat vysvětlení, jakým způsobem posudkový orgán podklady hodnotil, které z nich považoval za relevantní, které nikoli a proč, případně jakým způsobem se snažil rozpory v posudkové dokumentaci vyjasnit. Neúplnost nebo nepřesvědčivost posudku totiž může mít za následek nezákonnost samotného rozhodnutí o příspěvku.</p>
 
