@@ -1,4 +1,5 @@
 ---
+rank: 2
 title: Vyjádření pro Ústavní soud
 illustration: vyjadreni-US.jpg
 perex: Ombudsman může podávat Ústavnímu soudu návrhy na zrušení podzákonných právních předpisů nebo jejich částí. Typicky jde o obecně závazné vyhlášky obcí, vyhlášky ministerstev apod.

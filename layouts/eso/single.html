@@ -12,7 +12,12 @@
 
     	{{ .Content }}
 
-
+      <h2>Kde hledat tato stanoviska?</h2>
+      <ul>
+        {{ range .Params.eso }}
+          <li>{{ . }}</li>
+        {{ end }}
+      </ul>
 
       {{ if eq .Language.Lang "cs" }}
         <h2>Jak používat ESO?</h2>

@@ -22,7 +22,7 @@
 
       {{ $.Content }}
 
-      {{ range .Pages }}
+      {{ range sort .Pages "Params.rank" }}
         <article class="_article-preview">
           <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
           {{ with .Params.perex }}
