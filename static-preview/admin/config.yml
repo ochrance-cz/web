@@ -684,6 +684,10 @@ collections:
       - label: Titulek
         name: title
         widget: string
+      - label: Podtitulek
+        name: perex
+        required: false
+        widget: text
       - label: Datum publikování
         name: date
         required: false
@@ -2037,6 +2041,10 @@ collections:
       - label: Titulek
         name: title
         widget: string
+      - label: Podtitulek
+        name: perex
+        required: false
+        widget: text
       - label: Datum publikování
         name: date
         required: false

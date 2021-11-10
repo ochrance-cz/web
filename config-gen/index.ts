@@ -433,6 +433,7 @@ const dokument = folderCollection(
   },
   [
     title('Titulek'),
+    text('Podtitulek', 'perex'),
     datetime('Datum publikování', 'date', { time_format: false }),
     boolean('Uložit jako draft', 'draft'),
     relation('Štítky', 'vystupy', {
