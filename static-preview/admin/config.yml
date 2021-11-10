@@ -524,6 +524,62 @@ collections:
             required: false
             widget: markdown
         media_folder: ''
+      - label: ESO
+        name: eso
+        file: content/eso/_index.markdown
+        fields:
+          - label: Titulek
+            name: title
+            widget: string
+          - editor_components:
+              - image
+            buttons:
+              - bold
+              - italic
+              - link
+              - heading-two
+              - heading-three
+              - heading-four
+              - quote
+              - bulleted-list
+              - numbered-list
+            label: Podtitul na homepage
+            name: hp
+            required: false
+            widget: markdown
+          - editor_components:
+              - image
+            buttons:
+              - bold
+              - italic
+              - link
+              - heading-two
+              - heading-three
+              - heading-four
+              - quote
+              - bulleted-list
+              - numbered-list
+            label: Perex
+            name: perex
+            required: false
+            widget: markdown
+          - editor_components:
+              - image
+            buttons:
+              - bold
+              - italic
+              - link
+              - heading-two
+              - heading-three
+              - heading-four
+              - quote
+              - bulleted-list
+              - numbered-list
+            label: Text stránky
+            name: body
+            required: false
+            widget: markdown
+        media_folder: ''
       - label: Newsletter
         name: newsletter
         file: content/newsletter.md

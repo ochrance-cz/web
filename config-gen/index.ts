@@ -207,6 +207,20 @@ const stranky = files('Jiné', 'stranky', [
       media_folder: '',
     }
   ),
+  fileCollection(
+    'ESO',
+    'eso',
+    'content/eso/_index.markdown',
+    [
+      title('Titulek'),
+      markdown('Podtitul na homepage', 'hp'),
+      markdown('Perex', 'perex'),
+      markdown('Text stránky', 'body'),
+    ],
+    {
+      media_folder: '',
+    }
+  ),
   fileCollection('Newsletter', 'newsletter', 'content/newsletter.md', [
     title('Titulek'),
     boolean('Uložit jako draft', 'draft'),
