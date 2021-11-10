@@ -1296,6 +1296,22 @@ collections:
         name: illustration
         required: false
         widget: image
+      - editor_components: &ref_44
+          - image
+        buttons: &ref_45
+          - bold
+          - italic
+          - link
+          - heading-two
+          - heading-three
+          - heading-four
+          - quote
+          - bulleted-list
+          - numbered-list
+        label: Dodatečný text stránky
+        name: body
+        required: false
+        widget: markdown
     create: true
     path: '{{slug}}/_index'
   - name: provoz
@@ -1303,7 +1319,7 @@ collections:
     label_singular: provozní info
     folder: content/provoz
     extension: md
-    editor: &ref_44
+    editor: &ref_46
       preview: false
     fields:
       - label: Titulek
@@ -1322,7 +1338,7 @@ collections:
         required: false
         label_singular: odkaz
         widget: list
-        fields: &ref_45
+        fields: &ref_47
           - label: Odkaz
             name: link
             required: false
@@ -1340,7 +1356,7 @@ collections:
         required: false
         label_singular: odkaz
         widget: list
-        fields: &ref_46
+        fields: &ref_48
           - label: Odkaz
             name: link
             required: false
@@ -1358,7 +1374,7 @@ collections:
     label_singular: infostránka
     folder: content/info
     extension: md
-    editor: &ref_47
+    editor: &ref_49
       preview: false
     fields:
       - label: Titulek
@@ -1377,7 +1393,7 @@ collections:
         required: false
         label_singular: odkaz
         widget: list
-        fields: &ref_48
+        fields: &ref_50
           - label: Odkaz
             name: link
             required: false
@@ -1395,7 +1411,7 @@ collections:
         required: false
         label_singular: odkaz
         widget: list
-        fields: &ref_49
+        fields: &ref_51
           - label: Odkaz
             name: link
             required: false
@@ -1432,7 +1448,7 @@ collections:
     label_singular: projekt
     folder: content/projekty
     extension: md
-    editor: &ref_50
+    editor: &ref_52
       preview: false
     fields:
       - label: Název projektu
@@ -1446,7 +1462,7 @@ collections:
         name: slug
         required: false
         hint: 'Pouze číslice, písmena anglické abecedy, spojovník a podtržítko.'
-        pattern: &ref_51
+        pattern: &ref_53
           - '^[a-z0-9-_]+$'
           - >-
             Řetezec v adrese může obsahovat pouze číslice, písmena anglické
@@ -1460,9 +1476,9 @@ collections:
         name: ongoing
         required: false
         widget: boolean
-      - editor_components: &ref_52
+      - editor_components: &ref_54
           - image
-        buttons: &ref_53
+        buttons: &ref_55
           - bold
           - italic
           - link
@@ -1476,9 +1492,9 @@ collections:
         name: body
         required: false
         widget: markdown
-      - editor_components: &ref_54
+      - editor_components: &ref_56
           - image
-        buttons: &ref_55
+        buttons: &ref_57
           - bold
           - italic
           - link
@@ -1496,7 +1512,7 @@ collections:
         label: Ilustrační obrázek
         name: illustration
         required: false
-        fields: &ref_56
+        fields: &ref_58
           - label: Obrázek
             name: pic
             required: false
@@ -1515,7 +1531,7 @@ collections:
         required: false
         label_singular: Partner
         widget: list
-        fields: &ref_57
+        fields: &ref_59
           - label: Název
             name: name
             required: false
@@ -1529,7 +1545,7 @@ collections:
         required: false
         label_singular: Fotka
         widget: list
-        fields: &ref_58
+        fields: &ref_60
           - label: Obrázek
             name: pic
             required: false
@@ -2415,6 +2431,12 @@ collections:
         name: illustration
         required: false
         widget: image
+      - editor_components: *ref_44
+        buttons: *ref_45
+        label: Dodatečný text stránky
+        name: body
+        required: false
+        widget: markdown
     create: true
     path: '{{slug}}/_index'
   - name: provoz-en
@@ -2422,7 +2444,7 @@ collections:
     label_singular: provozní info (en)
     folder: content-en/provoz
     extension: md
-    editor: *ref_44
+    editor: *ref_46
     fields:
       - label: Titulek
         name: title
@@ -2440,7 +2462,7 @@ collections:
         required: false
         label_singular: odkaz
         widget: list
-        fields: *ref_45
+        fields: *ref_47
       - label: Text
         name: body
         required: false
@@ -2450,7 +2472,7 @@ collections:
         required: false
         label_singular: odkaz
         widget: list
-        fields: *ref_46
+        fields: *ref_48
     create: true
     path: '{{slug}}/index'
     media_folder: ''
@@ -2460,7 +2482,7 @@ collections:
     label_singular: infostránka (en)
     folder: content-en/info
     extension: md
-    editor: *ref_47
+    editor: *ref_49
     fields:
       - label: Titulek
         name: title
@@ -2478,7 +2500,7 @@ collections:
         required: false
         label_singular: odkaz
         widget: list
-        fields: *ref_48
+        fields: *ref_50
       - label: Text
         name: body
         required: false
@@ -2488,7 +2510,7 @@ collections:
         required: false
         label_singular: odkaz
         widget: list
-        fields: *ref_49
+        fields: *ref_51
     create: true
     path: '{{slug}}/index'
     media_folder: ''
@@ -2498,7 +2520,7 @@ collections:
     label_singular: projekt (en)
     folder: content-en/projekty
     extension: md
-    editor: *ref_50
+    editor: *ref_52
     fields:
       - label: Název projektu
         name: title
@@ -2511,7 +2533,7 @@ collections:
         name: slug
         required: false
         hint: 'Pouze číslice, písmena anglické abecedy, spojovník a podtržítko.'
-        pattern: *ref_51
+        pattern: *ref_53
         widget: string
       - label: Překladový klíč
         name: translationKey
@@ -2521,14 +2543,14 @@ collections:
         name: ongoing
         required: false
         widget: boolean
-      - editor_components: *ref_52
-        buttons: *ref_53
+      - editor_components: *ref_54
+        buttons: *ref_55
         label: Popis projektu
         name: body
         required: false
         widget: markdown
-      - editor_components: *ref_54
-        buttons: *ref_55
+      - editor_components: *ref_56
+        buttons: *ref_57
         label: Dodatečný text pod aktualitami k projektu
         name: bonus
         required: false
@@ -2537,19 +2559,19 @@ collections:
         label: Ilustrační obrázek
         name: illustration
         required: false
-        fields: *ref_56
+        fields: *ref_58
       - label: Partneři
         name: partners
         required: false
         label_singular: Partner
         widget: list
-        fields: *ref_57
+        fields: *ref_59
       - label: Galerie
         name: gallery
         required: false
         label_singular: Fotka
         widget: list
-        fields: *ref_58
+        fields: *ref_60
     create: true
     path: '{{slug}}/index'
     media_folder: ''

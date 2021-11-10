@@ -637,6 +637,7 @@ const vystupy = folderCollection(
     slug(),
     text('Perex', 'perex'),
     image('Ilustrační obrázek', 'illustration'),
+    markdown('Dodatečný text stránky', 'body'),
   ]
 );
 
