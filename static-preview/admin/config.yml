@@ -1953,7 +1953,7 @@ collections:
     create: true
     path: '{{slug}}/index'
     media_folder: ''
-    public_folder: 'https://www.ochrance.cz/aktualne/{{slug}}'
+    public_folder: 'https://www.ochrance.cz/en/aktualne/{{slug}}'
     preview_path: '/aktualne/{{slug}}'
   - name: dokument-en
     label: Dokumenty (EN)
@@ -2003,7 +2003,7 @@ collections:
     create: true
     path: '{{slug}}/index'
     media_folder: ''
-    public_folder: 'https://www.ochrance.cz/dokument/{{slug}}'
+    public_folder: 'https://www.ochrance.cz/en/dokument/{{slug}}'
     preview_path: '/dokument/{{slug}}'
   - name: onas-en
     label: O nás (EN)
@@ -2436,7 +2436,7 @@ collections:
     create: true
     path: '{{slug}}/index'
     media_folder: ''
-    public_folder: 'https://www.ochrance.cz/info/{{slug}}'
+    public_folder: 'https://www.ochrance.cz/en/info/{{slug}}'
   - name: projekty-en
     label: Projekty (EN)
     label_singular: projekt (en)

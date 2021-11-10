@@ -688,7 +688,7 @@ const projekty = folderCollection(
 );
 
 const englishFolder = (collection: FolderCollection) => {
-  return {
+  const en = {
     ...collection,
     name: `${collection.name}-en`,
     label: `${collection.label} (EN)`,
@@ -696,6 +696,11 @@ const englishFolder = (collection: FolderCollection) => {
     folder: collection.folder.replace('content/', 'content-en/'),
     fields: collection.fields.map((field: AnyWidget) => englishWidget(field)),
   };
+
+  if (collection.public_folder)
+    en.public_folder = collection.public_folder.replace('ochrance.cz/', 'ochrance.cz/en/');
+
+  return en;
 };
 
 const englishFiles = (files: Files) => {
