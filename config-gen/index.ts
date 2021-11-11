@@ -410,7 +410,7 @@ const onas = files('O nás', 'onas', [
     [
       title('Titulek'),
       image('Ilustrační obrázek', 'illustration'),
-      markdown('Text stránky', 'body'),
+      customEditor('Text stránky', 'body'),
     ],
     {
       media_folder: '',
@@ -690,8 +690,8 @@ const projekty = folderCollection(
     slug(),
     string('Překladový klíč', 'translationKey'),
     boolean('Probíhající projekt', 'ongoing'),
-    markdown('Popis projektu', 'body'),
-    markdown('Dodatečný text pod aktualitami k projektu', 'bonus'),
+    customEditor('Popis projektu', 'body'),
+    customEditor('Dodatečný text pod aktualitami k projektu', 'bonus'),
     fig('Ilustrační obrázek', 'illustration'),
     list('Partneři', 'Partner', 'partners', [string('Název', 'name'), image('Logo', 'logo')]),
     list('Galerie', 'Fotka', 'gallery', [
