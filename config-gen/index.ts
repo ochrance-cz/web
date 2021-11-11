@@ -33,13 +33,14 @@ const pic = (title: string, name: string) =>
     }),
   ]);
 
-const slug = () =>
+const slug = (required: boolean = false) =>
   string('Řetezec v adrese', 'slug', {
     hint: 'Pouze číslice, písmena anglické abecedy, spojovník a podtržítko.',
     pattern: [
       '^[a-z0-9-_]+$',
       'Řetezec v adrese může obsahovat pouze číslice, písmena anglické abecedy, spojovník a podtržítko.',
     ],
+    required: required,
   });
 
 const fig = (title: string, name: string) =>
@@ -661,7 +662,7 @@ const vystupy = folderCollection(
     title('Kategorie výstupu (singulár)'),
     string('Titulek kategorie (plurál)', 'plural'),
     boolean('Zobrazovat v seznamu výstupů z činnosti', 'listed'),
-    slug(),
+    slug(true),
     text('Perex', 'perex'),
     image('Ilustrační obrázek', 'illustration'),
     markdown('Dodatečný text stránky', 'body'),
