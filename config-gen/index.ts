@@ -622,7 +622,7 @@ const aktualne = folderCollection(
       search_fields: ['title'],
       multiple: true,
     }),
-    text('Perex', 'perex'),
+    customEditor('Perex', 'perex'),
     customEditor('Text', 'body'),
     attached(),
   ]

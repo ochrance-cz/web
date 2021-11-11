@@ -646,7 +646,7 @@ collections:
       - label: Perex
         name: perex
         required: false
-        widget: text
+        widget: customEditor
       - label: Text
         name: body
         required: false
@@ -2029,7 +2029,7 @@ collections:
       - label: Perex
         name: perex
         required: false
-        widget: text
+        widget: customEditor
       - label: Text
         name: body
         required: false
