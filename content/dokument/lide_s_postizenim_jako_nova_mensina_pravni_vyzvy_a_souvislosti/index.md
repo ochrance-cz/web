@@ -1,5 +1,7 @@
 ---
 title: Lidé s postižením jako „nová menšina“ – právní výzvy a souvislosti
+perex: Sborník z konference konané ve dnech 22. až 23. listopadu 2018 v
+  Kanceláři veřejného ochránce práv
 date: 2021-09-08T10:56:39.843Z
 vystupy:
   - sbornik
