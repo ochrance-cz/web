@@ -140,6 +140,37 @@ export const map = (label: string, name: string, options?: Options): MapWidget =
   return w;
 };
 
+interface NumberWidget extends BaseWidget {
+  widget: 'number';
+  value_type: 'int' | 'float';
+  default?: number;
+  min?: number;
+  max?: number;
+  step?: number;
+}
+
+interface NumberOptions extends Options {
+  value_type?: 'int' | 'float';
+  default?: number;
+  min?: number;
+  max?: number;
+  step?: number;
+}
+
+export const number = (label: string, name: string, options?: NumberOptions): NumberWidget => {
+  const w = { ...base(name, label, options), widget: 'number' as const } as NumberWidget;
+
+  if (options && options.value_type) w.value_type = options.value_type;
+  else w.value_type = 'int';
+
+  if (options && options.default) w.default = options.default;
+  if (options && options.min) w.min = options.min;
+  if (options && options.max) w.max = options.max;
+  if (options && options.step) w.step = options.step;
+
+  return w;
+};
+
 interface ListWidget extends BaseWidget {
   widget: 'list';
   label_singular: string;
@@ -384,6 +415,7 @@ export type AnyWidget =
   | MarkdownWidget
   | CustomEditorWidget
   | MapWidget
+  | NumberWidget
   | ListWidget
   | BooleanWidget
   | ObjectWidget

@@ -12,6 +12,7 @@ import {
   select,
   relation,
   map,
+  number,
   save,
   fileCollection,
   FileCollection,
@@ -418,6 +419,31 @@ const onas = files('O nás', 'onas', [
   ),
 ]);
 
+const eso = folderCollection(
+  'ESO',
+  'sekce eso',
+  'eso',
+  {
+    folder: 'content/eso',
+    preview_path: '/eso/{{slug}}',
+    path: '{{slug}}/index',
+    extension: 'md',
+    create: true,
+    media_folder: '',
+    public_folder: 'https://www.ochrance.cz/eso/{{slug}}',
+  },
+  [
+    title('Titulek'),
+    number('Pořadí', 'rank', {
+      default: 10,
+      required: true,
+    }),
+    image('Ilustrační obrázek', 'illustration'),
+    markdown('Popis sekce', 'perex'),
+    list('Kde hledat daná stanoviska', 'sekce', 'eso', [string('Sekce', 'title')]),
+  ]
+);
+
 const dokument = folderCollection(
   'Dokumenty',
   'dokument',
@@ -769,6 +795,7 @@ save('./static-preview/admin/config.yml', {
     info,
     info106,
     projekty,
+    eso,
     englishFiles(strankyEn),
     englishFolder(aktualne),
     englishFolder(dokument),

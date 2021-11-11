@@ -1527,6 +1527,56 @@ collections:
     path: '{{slug}}/index'
     media_folder: ''
     public_folder: ''
+  - name: eso
+    label: ESO
+    label_singular: sekce eso
+    folder: content/eso
+    extension: md
+    editor:
+      preview: false
+    fields:
+      - label: Titulek
+        name: title
+        widget: string
+      - label: Pořadí
+        name: rank
+        widget: number
+        value_type: int
+        default: 10
+      - label: Ilustrační obrázek
+        name: illustration
+        required: false
+        widget: image
+      - editor_components:
+          - image
+        buttons:
+          - bold
+          - italic
+          - link
+          - heading-two
+          - heading-three
+          - heading-four
+          - quote
+          - bulleted-list
+          - numbered-list
+        label: Popis sekce
+        name: perex
+        required: false
+        widget: markdown
+      - label: Kde hledat daná stanoviska
+        name: eso
+        required: false
+        label_singular: sekce
+        widget: list
+        fields:
+          - label: Sekce
+            name: title
+            widget: string
+    create: true
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: 'https://www.ochrance.cz/eso/{{slug}}'
+    preview_path: '/eso/{{slug}}'
   - name: stranky-en
     label: Jiné (EN)
     editor:
