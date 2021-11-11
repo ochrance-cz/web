@@ -42,6 +42,7 @@ RewriteRule (.*) https://www.%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 RewriteRule ^uploads/(.*)$ /uploads-import/uploads/$1 [R=301,L]
 RewriteRule ^dalsi-aktivity/archiv-vzdelavacich-akci.*$ /vzdelavaci-akce/? [R=301,L]
 RewriteRule ^fileadmin/user_upload/(.*)$ /uploads-import/$1 [R=301,L]
+RewriteRule ^vystupy/publikace/stanoviska/(.*)$ /vystupy/edice-stanoviska/$1 [R=301,L]
 
 {{ range .Site.AllPages -}}
 {{ $link := .RelPermalink }}
