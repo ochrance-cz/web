@@ -27,4 +27,4 @@ perex: Od roku 2007 vydává ombudsman tematické publikace v ediční řadě St
 - [2 – Rodina a dítě](Rodina_a_dite.pdf) (2007) + [Aktuální dodatky](https://www.ochrance.cz/dalsi-aktivity/publikace/sborniky-stanoviska/rodina-a-dite-dodatky/)
 - 1 – Veřejné cesty (v roce 2011 byl tento sborník nahrazen [aktualizovaným vydáním](Sbornik_Verejne_cesty-II.pdf))
 
-**Stanoviska a názory ochránce jsou obsaženy i v dalších publikacích – zejména v rámci [Edice dobré správní praxe](https://www.ochrance.cz/dalsi-aktivity/publikace/edice-dobre-spravni-praxe/), ve [sbornících z konferencí](https://www.ochrance.cz/dalsi-aktivity/publikace/sborniky-z-konferenci/).**
+**Stanoviska a názory ochránce jsou obsaženy i v dalších publikacích – zejména v rámci [Edice dobré správní praxe](https://www.ochrance.cz/vystupy/publikace/#edice-dobré-správní-praxe), ve [sbornících z konferencí](https://www.ochrance.cz/vystupy/sbornik/).**
