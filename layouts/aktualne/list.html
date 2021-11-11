@@ -3,11 +3,15 @@
   {{ partial "pic-header.html" . }}
 
   <section class="_news single-col">
-    {{ range (.Paginator 20).Pages }}
+    {{ $home := $.Site.GetPage "/" }}
+    {{ $news := where (where .Site.Pages "Section" "aktualne") "Kind" "page" }}
+    {{ $paginator := .Paginate (where $news "Params.vystupy" "intersect" $home.Params.aktuality) 20 }}
+
+    {{ range $paginator.Pages }}
         {{ partial "news-preview.html" . }}
     {{ end }}
 
-    {{ partial "pagination.html" .Paginator }}
+    {{ partial "pagination.html" $paginator }}
   </section>
 </main>
 {{ end }}
