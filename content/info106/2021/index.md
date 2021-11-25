@@ -275,8 +275,6 @@ title: 2021
 
 <p><a href="/info106/2021/52_2021_odpoved_priloha.pdf">Příloha</a>.</p>
 
-<p>&nbsp;</p>
-
 <h3>54/2021 &ndash; Informace z&nbsp;oblasti vězeňství</h3>
 
 <p><a href="https://www.ochrance.cz/info106/2021/54_2021_zadost.pdf">Žádost o informace.</a></p>
