@@ -6,11 +6,11 @@ date: 2021-11-25T14:15:21.952Z
 vystupy:
   - tz
 perex: >
-  <p><strong>Diskuze veřejného ochránce práv se zástupci Energetického
-  regulačního úřadu o okolnostech a následcích odchodu Bohemia Energy a dalších
-  dodavatelů energií z&nbsp;trhu ukázala, že české předpisy podobné situace
-  dostatečně neřeší. Podle ombudsmana je potřeba upřesnit povinnosti dodavatelů
-  poslední instance a zajistit ochranu zranitelných zákazníků.</strong></p>
+  <p>Diskuze veřejného ochránce práv se zástupci Energetického regulačního úřadu
+  o okolnostech a následcích odchodu Bohemia Energy a dalších dodavatelů energií
+  z&nbsp;trhu ukázala, že české předpisy podobné situace dostatečně neřeší.
+  Podle ombudsmana je potřeba upřesnit povinnosti dodavatelů poslední instance a
+  zajistit ochranu zranitelných zákazníků.</p>
 ---
 <p><em>&bdquo;Během podzimu se u dodavatelů poslední instance ocitl téměř milion českých domácností. Pro část zákazníků jsou nové platby za energie nad jejich možnosti a hrozí, že se ocitnou v&nbsp;dluhové pasti nebo bez elektřiny či plynu. Stát ale v&nbsp;současné době má jen omezené možnosti, jak zákazníky dodavatelů poslední instance ochránit nebo jejich situaci systematicky řešit,&ldquo;</em> uvedl ombudsman Stanislav Křeček po jednání se zástupci Energetického regulačního úřadu.</p>
 
