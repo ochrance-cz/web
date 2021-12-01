@@ -38,12 +38,6 @@ sections:
 
       e-mail: miroslav.frydek@ochrance.cz
 
-      **Barbora Mazalová**
-
-      telefon: (+420) 542 542 366
-
-      e-mail: barbora.mazalova@ochrance.cz
-
       **Petra Zdražilová**
 
       telefon: (+420) 542 542 308
@@ -269,10 +263,6 @@ lawyers:
         role: vedoucí odboru
         phone: 542 542 329
         email: petra.janouskova@ochrance.cz
-      - name: Lenka Horáková
-        role: právnička (věci cizinců)
-        phone: 542 542 297
-        email: lenka.horakova@ochrance.cz
       - name: Martin Hurych
         role: právník (daně, poplatky a cla)
         phone: 542 542 303
@@ -313,6 +303,10 @@ lawyers:
         role: "právnička (státní správa soudů) "
         phone: "542 542 321 "
         email: marie.poppeova@ochrance.cz
+      - name: Barbora Mazalová
+        role: "právnička "
+        phone: "542 542 366 "
+        email: barbora.mazalova@ochrance.cz
   - title: Odbor rodiny, zdravotnictví a práce
     intro: veřejné zdravotní pojištění, stížnosti ve zdravotnictví, činnost OSPOD,
       ústavní výchova, evidence uchazečů o zaměstnání u Úřadu práce, inspekce
@@ -518,6 +512,10 @@ lawyers:
         role: "právnička "
         phone: "542 542 330 "
         email: tereza.zuffova-kuncova@ochrance.cz
+      - name: Silvie Konopková
+        role: "právnička "
+        phone: "542 542 375 "
+        email: silvie.konopkova@ochrance.cz
   - title: Odbor ochrany práv osob se zdravotním postižením
     people:
       - name: Romana Jakešová
