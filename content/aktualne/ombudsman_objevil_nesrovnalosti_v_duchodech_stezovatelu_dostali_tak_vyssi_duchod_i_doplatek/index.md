@@ -17,6 +17,10 @@ attachments:
   - title: Zpráva o šetření - Kazachstán
     file: https://eso.ochrance.cz/Nalezene/Edit/9780
     link: ""
+  - file: https://eso.ochrance.cz/Nalezene/Edit/9282
+    title: Zpráva o šetření - maturitní vysvědčení
+  - file: https://eso.ochrance.cz/Nalezene/Edit/9320
+    title: Závěrečné stanovisko - maturitní vysvědčení
 ---
 <p>Všichni lidé, kteří se domnívají, že mají nesprávně vypočtený důchod nebo že jim byl důchod neprávem odepřen, se mohou svým podnětem kdykoliv obrátit na ombudsmana. Ombudsman prošetřuje nejen vnitrostátní důchody, ale rovněž důchody s&nbsp;cizím prvkem. Pokud stěžovateli nemůže pomoci svým zásahem, vždy mu vysvětlí, jaká je jeho situace, a navrhne mu, jaké kroky může podniknout k jejímu řešení. Pomoc ombudsmana je zdarma a zabývá se každým případem, který obdrží.</p>
 
