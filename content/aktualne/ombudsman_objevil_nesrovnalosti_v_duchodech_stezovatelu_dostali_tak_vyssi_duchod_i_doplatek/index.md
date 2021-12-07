@@ -20,7 +20,7 @@ attachments:
 ---
 <p>Všichni lidé, kteří se domnívají, že mají nesprávně vypočtený důchod nebo že jim byl důchod neprávem odepřen, se mohou svým podnětem kdykoliv obrátit na ombudsmana. Ombudsman prošetřuje nejen vnitrostátní důchody, ale rovněž důchody s&nbsp;cizím prvkem. Pokud stěžovateli nemůže pomoci svým zásahem, vždy mu vysvětlí, jaká je jeho situace, a navrhne mu, jaké kroky může podniknout k jejímu řešení. Pomoc ombudsmana je zdarma a zabývá se každým případem, který obdrží.</p>
 
-<p><strong>Přednostní započtení práce v&nbsp;cizině namísto české péče o dítě negativně ovlivnilo důchod</strong></p>
+<h3><strong>Přednostní započtení práce v&nbsp;cizině namísto české péče o dítě negativně ovlivnilo důchod</strong></h3>
 
 <p>Paní Jitka je osoba s&nbsp;prokázaným českým původem, která do Česka přišla na pozvání vlády ČR z&nbsp;Kazachstánu (je tzv. krajankou). Předtím byla důchodově pojištěna v&nbsp;Kazachstánu a doby pojištění, které získala v&nbsp;Česku, jí samy o sobě nestačily, aby jí vznikl nárok na starobní důchod. Česká republika nemá s&nbsp;Kazachstánem uzavřenou žádnou smlouvu o sociálním zabezpečení. Česká správa sociálního zabezpečení (ČSSZ) tak při rozhodování o dávkách důchodového pojištění osob, které byly důchodově pojištěny i v&nbsp;Kazachstánu, započítává pouze doby důchodového pojištění a náhradní doby důchodového pojištění získané podle českých právních předpisů, nikoliv však doby kazašské. Paní Jitka měla štěstí, že je krajanka, protože pro krajany platí zvláštní úprava &ndash; v&nbsp;řízení o odstranění tvrdosti se jim pro nárok na důchod a pro stanovení jeho výše započítává doba pojištění získaná ve státě, z&nbsp;něhož do ČR přišli. ČSSZ tedy paní Jitce k&nbsp;českým dobám pojištění připočítala kazašskou dobu pojištění a přiznala jí dílčí český důchod. Jeho výše však byla nízká, proto paní Jitka požádala ombudsmana o pomoc.</p>
 
@@ -34,7 +34,7 @@ attachments:
 
 <p>&nbsp;</p>
 
-<p><strong>I absolvent vysoké školy musí k&nbsp;důchodu doložit maturitní vysvědčení, měsíční dávka se tím zvýší</strong></p>
+<h3><strong>I absolvent vysoké školy musí k&nbsp;důchodu doložit maturitní vysvědčení, měsíční dávka se tím zvýší</strong></h3>
 
 <p>Pan Martin při vyřizování svého starobního důchodu zjistil, že dostával invalidní důchod ve špatné výši. K podání žádosti o přiznání invalidního důchodu se tehdy dostavil s&nbsp;posledním zápočtovým listem. Úřednice, která s&nbsp;ním žádost sepisovala, prohlásila, že k&nbsp;prokázání náhradní doby studia stačí inženýrský diplom. Při sepisování žádosti o starobní důchod byl stěžovatel vyzván k&nbsp;předložení maturitního vysvědčení, jelikož u středoškolského studia bylo v&nbsp;žádosti uvedeno <em>doklad neověřen</em>. Pan Martin vysvědčení obratem poskytl. Na základě doloženého vysvědčení mu byl přepočítán i invalidní důchod. Ten byl ale stěžovateli doplacen jen za posledních pět let.</p>
 
