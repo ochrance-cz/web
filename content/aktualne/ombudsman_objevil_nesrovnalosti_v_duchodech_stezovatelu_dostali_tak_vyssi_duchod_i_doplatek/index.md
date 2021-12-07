@@ -32,8 +32,6 @@ attachments:
 
 <p>ČSSZ po šetření ombudsmana chybu uznala a napravila. Započtením zmíněného období došlo u paní Jitky k&nbsp;navýšení důchodu a ČSSZ jí také poskytla doplatek 50 tisíc korun za neprávem odepřené dávky.</p>
 
-<p>&nbsp;</p>
-
 <h3><strong>I absolvent vysoké školy musí k&nbsp;důchodu doložit maturitní vysvědčení, měsíční dávka se tím zvýší</strong></h3>
 
 <p>Pan Martin při vyřizování svého starobního důchodu zjistil, že dostával invalidní důchod ve špatné výši. K podání žádosti o přiznání invalidního důchodu se tehdy dostavil s&nbsp;posledním zápočtovým listem. Úřednice, která s&nbsp;ním žádost sepisovala, prohlásila, že k&nbsp;prokázání náhradní doby studia stačí inženýrský diplom. Při sepisování žádosti o starobní důchod byl stěžovatel vyzván k&nbsp;předložení maturitního vysvědčení, jelikož u středoškolského studia bylo v&nbsp;žádosti uvedeno <em>doklad neověřen</em>. Pan Martin vysvědčení obratem poskytl. Na základě doloženého vysvědčení mu byl přepočítán i invalidní důchod. Ten byl ale stěžovateli doplacen jen za posledních pět let.</p>
