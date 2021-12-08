@@ -10,6 +10,7 @@ itemOrder: |
   Výroční zprávy
   Sborníky a publikace
   Výzkumy
+  Doporučení
   Materiály na vládu
   Bulletiny CRPD
   Seriál na ČT
