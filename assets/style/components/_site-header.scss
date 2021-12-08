@@ -8,13 +8,13 @@
       z-index: 9;
     }
 
-    input[type="checkbox"],
+    input[type='checkbox'],
     .box ul {
       display: none;
     }
 
     .root-link {
-      display: block;
+      display: inline-block;
       max-width: 14rem;
       height: 3rem;
       padding: 0;
@@ -59,7 +59,7 @@
       }
     }
 
-    input[type="checkbox"] {
+    input[type='checkbox'] {
       display: none;
 
       &:checked {
@@ -242,7 +242,7 @@
       }
     }
 
-    input[type="checkbox"],
+    input[type='checkbox'],
     .box .title {
       display: none;
     }
@@ -369,7 +369,7 @@
               box-sizing: border-box;
               @include font-size-m;
               font-weight: bold;
-              content: "?";
+              content: '?';
               text-indent: 0;
               text-align: center;
               height: 1.5rem;
@@ -391,7 +391,7 @@
               display: inline-block;
               box-sizing: border-box;
               @include font-size-l;
-              content: " ";
+              content: ' ';
               background-image: url(/images/deti.png);
               background-repeat: no-repeat;
               background-size: cover;
@@ -409,7 +409,7 @@
               display: inline-block;
               box-sizing: border-box;
               @include font-size-m;
-              content: " ";
+              content: ' ';
               @include svg-bg($ace, $green, 50% 50%);
               background-size: 1.2em 1.2em;
               text-indent: 0;
@@ -450,7 +450,7 @@
           left: 0;
           width: 100vw;
           height: 100vh;
-          content: " ";
+          content: ' ';
           background: rgba(0, 0, 0, 0.3);
           animation: fade-in 0.6s ease-out;
           will-change: opacity;

@@ -11,13 +11,17 @@
 <header class="_site-header">
   <div class="backdrop">
     {{ if eq .Language.Lang "en" }}
-      <a class="root-link" href="{{ .Site.BaseURL }}/en/">
-        <img class="logo" src="{{ .Site.BaseURL }}{{ "/images/logo-en.svg" }}" width="200">
-      </a>
+      <div class="root-link">
+        <a href="{{ .Site.BaseURL }}/en/">
+          <img class="logo" src="{{ .Site.BaseURL }}{{ "/images/logo-en.svg" }}" width="200">
+        </a>
+      </div>
     {{ else }}
-      <a class="root-link" href="{{ .Site.BaseURL }}">
-        <img class="logo" src="{{ .Site.BaseURL }}{{ "/images/logo.svg" }}" width="200">
-      </a>
+      <div class="root-link">
+        <a href="{{ .Site.BaseURL }}">
+          <img class="logo" src="{{ .Site.BaseURL }}{{ "/images/logo.svg" }}" width="200">
+        </a>
+      </div>
     {{ end }}
 
     <div class="_collapsible-nav">
