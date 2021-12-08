@@ -15,6 +15,7 @@
 
       {{ range (.Page.Scratch.GetSortedMapValues "pages") }}
         {{ $path := replaceRE "[^/]+$" "" .Permalink }}
+        {{ $params := .Params }}
         <li><a href="
           {{- if (len (findRE "^http" .Params.file)) }}
             {{ .Params.file }}
@@ -27,7 +28,13 @@
           {{ if or (isset .Params "info") (isset .Params "roma") (isset .Params "seeing") }}
             <ul>
               {{ with .Params.info }}
-                <li><a href="{{ $path }}{{ . | replaceRE ".+/" "" }}">příloha</a></li>
+                <li><a href="{{ $path }}{{ . | replaceRE ".+/" "" }}">
+                  {{- with $params.infoTitle -}}
+                    {{ . }}
+                  {{- else -}}
+                    příloha
+                  {{- end -}}
+                </a></li>
               {{ end }}
               {{ with .Params.roma }}
                 <li><a href="{{ $path }}{{ . | replaceRE ".+/" "" }}">romsky</a></li>

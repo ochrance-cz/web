@@ -1200,16 +1200,20 @@ collections:
         name: file
         required: false
         widget: file
-      - label: Příloha
-        name: info
-        required: false
-        widget: file
       - label: Verze pro zrakově znevýhodněné
         name: seeing
         required: false
         widget: file
       - label: Verze v romštině
         name: roma
+        required: false
+        widget: file
+      - label: Příloha
+        name: info
+        required: false
+        widget: file
+      - label: Název přílohy
+        name: infoTitle
         required: false
         widget: file
     create: true
@@ -2372,16 +2376,20 @@ collections:
         name: file
         required: false
         widget: file
-      - label: Příloha
-        name: info
-        required: false
-        widget: file
       - label: Verze pro zrakově znevýhodněné
         name: seeing
         required: false
         widget: file
       - label: Verze v romštině
         name: roma
+        required: false
+        widget: file
+      - label: Příloha
+        name: info
+        required: false
+        widget: file
+      - label: Název přílohy
+        name: infoTitle
         required: false
         widget: file
     create: true
