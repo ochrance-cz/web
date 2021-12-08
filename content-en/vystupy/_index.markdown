@@ -1,8 +1,6 @@
 ---
-title: Annual report
-plural: Annual reports
-listed: true
-slug: annual-report
+title: Publications
+slug: publications
 illustration: vystupy.jpg
 hp: >
   Reports for the Chamber of Deputies of Parliament, research and
