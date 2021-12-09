@@ -744,6 +744,8 @@ const englishFolder = (collection: FolderCollection) => {
   if (collection.public_folder)
     en.public_folder = collection.public_folder.replace('ochrance.cz/', 'ochrance.cz/en/');
 
+  if (collection.preview_path) en.preview_path = collection.preview_path.replace(/^\//, '/en/');
+
   return en;
 };
 

@@ -2047,7 +2047,7 @@ collections:
     path: '{{slug}}/index'
     media_folder: ''
     public_folder: 'https://www.ochrance.cz/en/aktualne/{{slug}}'
-    preview_path: '/aktualne/{{slug}}'
+    preview_path: '/en/aktualne/{{slug}}'
   - name: dokument-en
     label: Dokumenty (EN)
     label_singular: dokument (en)
@@ -2101,7 +2101,7 @@ collections:
     path: '{{slug}}/index'
     media_folder: ''
     public_folder: 'https://www.ochrance.cz/en/dokument/{{slug}}'
-    preview_path: '/dokument/{{slug}}'
+    preview_path: '/en/dokument/{{slug}}'
   - name: onas-en
     label: O nás (EN)
     editor: *ref_9

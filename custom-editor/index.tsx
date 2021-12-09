@@ -33,7 +33,8 @@ function cleanupTags(src: string) {
     .join('')
     .replace(/.*{{&lt;/g, '\n\n{{<')
     .replace(/&gt;}}.*/g, '>}}\n\n')
-    .replace(/href="content\//g, 'href="');
+    .replace(/href="content\//g, 'href="')
+    .replace(/href="content-en\//g, 'href="');
 }
 
 interface IState {
