@@ -5,12 +5,12 @@ date: 2021-12-07T08:02:47.388Z
 vystupy:
   - tz
 perex: >
-  <p><em>Na ombudsmana se obrátili stěžovatelé, kterým se nezdála výše jejich
+  <p>Na ombudsmana se obrátili stěžovatelé, kterým se nezdála výše jejich
   důchodu dostatečná. Oba dostali po šetření ombudsmana vyšší důchod i doplatek
   za neprávem odepřené dávky. V&nbsp;prvním případu ženě přednostně započetli
   dobu zaměstnání v&nbsp;Kazachstánu místo doby, kdy pečovala o malé dítě. Ve
   druhém případu byl muži zvýšen invalidní důchod, až když si vyřizoval starobní
-  důchod.</em></p>
+  důchod.</p>
 attachments:
   - title: Jak změnit důchod
     file: https://www.ochrance.cz/letaky/chci-zmenit-duchod/chci-zmenit-duchod.pdf
