@@ -1,5 +1,5 @@
 ---
-title: Pandemie už druhý rok zkouší lidská práva, zodpovědnost i solidaritu
+title: Lidská práva už druhý rok zkouší pandemie
 date: 2021-12-10T07:08:45.639Z
 vystupy:
   - tz
@@ -9,8 +9,8 @@ perex: >
   začal sledovat a hodnotit dopad protiepidemických opatření na život
   jednotlivců i celých skupin zasluhujících zvláštní ochranu, jako jsou děti,
   lidé s&nbsp;postižením nebo ti omezení z&nbsp;nejrůznějších důvodů na osobní
-  svobodě. K Mezinárodnímu dni lidských práv připadajícímu na 10. prosince
-  přinášíme přehled našich aktivit v&nbsp;době pandemie.</p>
+  svobodě. V&nbsp;Mezinárodní den&nbsp;lidských práv přinášíme přehled našich
+  aktivit během&nbsp;pandemie.</p>
 ---
 <p>Nejvýrazněji zasahovala protiepidemická opatření do svobody pohybu, to pocítili zvlášť silně hned v&nbsp;první vlně epidemie <a href="https://www.ochrance.cz/aktualne/lide-v-zarizenich-byli-v-dobe-pandemie-covid-19-nekdy-uplne-odriznuti-od-okoli/">klienti různých pobytových sociálních služeb</a>. Během jarních opatření v roce 2020 nemohli skoro dva měsíce opustit domovy pro seniory nebo jiná zařízení, kde právě žili. Přitom ostatní lidé mohli ven do přírody nebo si dojít na nákup. Plošný zákaz návštěv vedl k sociální izolaci a strádání seniorů, kteří ztratili kontakt se svými blízkými. Zástupkyně ombudsmana doporučila ministerstvům, aby do budoucna pro případ opakování obdobné situace zajistila lepší vyvážení ochrany veřejného zdraví a&nbsp;práv jednotlivců.</p>
 
