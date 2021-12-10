@@ -1,6 +1,6 @@
 ---
 title: "Na kávu s ombudsmanem, 49. díl: Placení zdravotního pojištění"
-date: 2021-12-10T10:39:00.000Z
+date: 2021-12-10T10:06:03.715Z
 vystupy:
   - podcast
 perex: >
