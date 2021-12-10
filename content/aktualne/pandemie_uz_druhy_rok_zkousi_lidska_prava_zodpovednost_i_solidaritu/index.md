@@ -1,6 +1,8 @@
 ---
 title: Pandemie už druhý rok zkouší lidská práva, zodpovědnost i solidaritu
 date: 2021-12-10T07:08:45.639Z
+vystupy:
+  - tz
 perex: >
   <p><strong>Od začátku pandemie upozorňuje veřejný ochránce práv, že každý
   zásah do práv musí mít zákonný podklad. Hned s prvním uzavření škol
