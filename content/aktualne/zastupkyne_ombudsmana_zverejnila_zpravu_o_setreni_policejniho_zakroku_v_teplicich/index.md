@@ -2,6 +2,8 @@
 title: Zástupkyně ombudsmana zveřejnila zprávu o šetření policejního zákroku v
   Teplicích
 date: 2021-12-13T11:35:50.470Z
+vystupy:
+  - tz
 perex: >
   <p>Vzhledem ke zvýšenému&nbsp;zájmu veřejnosti i médií o průběh šetření
   policejního zákroku v&nbsp;Teplicích z&nbsp;června letošního roku přistoupila
