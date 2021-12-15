@@ -2,10 +2,10 @@
 {{ if gt $pag.TotalPages 1 }}
 
 <section class="_pagination">
-  <nav aria-label="Stránkování">
+  <nav aria-label="{{ i18n "pagination" }}">
     <ul>
       <li class="previous{{ if not $pag.HasPrev }} disabled{{ end }}">
-      <a {{ if $pag.HasPrev }}href="{{ $pag.Prev.URL }}"{{ end }} class="page-link" aria-label="Předchozí">
+      <a {{ if $pag.HasPrev }}href="{{ $pag.Prev.URL }}"{{ end }} class="page-link" aria-label="{{ i18n "pagination-prev" }}">
         <span class="visuallyhidden">
           {{ i18n "prev" }}
         </span>
@@ -35,7 +35,7 @@
       {{ end }}
       {{ end }}
       <li class="next{{ if not $pag.HasNext }} disabled{{ end }}">
-        <a {{ if $pag.HasNext }}href="{{ $pag.Next.URL }}"{{ end }} class="page-link" aria-label="Následující">
+        <a {{ if $pag.HasNext }}href="{{ $pag.Next.URL }}"{{ end }} class="page-link" aria-label="{{ i18n "pagination-next" }}">
           <span class="visuallyhidden">
             {{ i18n "next" }}
           </span>

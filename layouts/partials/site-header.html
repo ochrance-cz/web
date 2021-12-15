@@ -1,6 +1,7 @@
 {{ define "menu-link" }}
 <li>
   <a
+    tabindex="0"
     href="{{ cond (isset .Params "link") .Params.link .Permalink }}"
     class="icon-{{ with .Params.icon }}{{ . }}{{ else }}arrow{{ end }}">
     {{- .Title -}}
@@ -12,38 +13,40 @@
   <div class="backdrop">
     {{ if eq .Language.Lang "en" }}
       <div class="root-link">
-        <a href="{{ .Site.BaseURL }}/en/">
-          <img class="logo" src="{{ .Site.BaseURL }}{{ "/images/logo-en.svg" }}" width="200">
+        <a tabindex="0" href="{{ .Site.BaseURL }}/en/">
+          <img class="logo" src="{{ .Site.BaseURL }}{{ "/images/logo-en.svg" }}" width="200" alt="Ombudsman: Public Defender of Rights">
         </a>
       </div>
     {{ else }}
       <div class="root-link">
-        <a href="{{ .Site.BaseURL }}">
-          <img class="logo" src="{{ .Site.BaseURL }}{{ "/images/logo.svg" }}" width="200">
+        <a tabindex="0" href="{{ .Site.BaseURL }}">
+          <img class="logo" src="{{ .Site.BaseURL }}{{ "/images/logo.svg" }}" width="200" alt="Ombudsman: veřejný ochránce práv">
         </a>
       </div>
     {{ end }}
 
     <div class="_collapsible-nav">
       <input type="checkbox" id="site-nav-toggle">
-      <label class="hide-nav" for="site-nav-toggle"></label>
+      <label class="hide-nav nav-opener opener" for="site-nav-toggle" aria-haspopup="menu" aria-controls="site-nav" aria-expanded="true"></label>
       <div class="box">
         <h3 class="title">
-          <label for="site-nav-toggle">
+          <label class="opener nav-opener" for="site-nav-toggle" aria-haspopup="menu" aria-controls="site-nav" aria-expanded="false">
             Menu
           </label>
         </h3>
 
-        <nav aria-label="Hlavní menu">
+        <nav id="site-nav" aria-label="{{ i18n "site-nav" }}">
           <ul>
+            <input type="checkbox" id="help-checkbox">
             <li class="dropdown">
-              <button type="button" class="dropdown-title" aria-controls="help-dropdown">
+              <label tabindex="0" class="dropdown-title opener keyboard-only-opener" for="help-checkbox" aria-haspopup="menu" aria-controls="help-dropdown" aria-expanded="false">
                 {{ i18n "need-help" }}
-              </button>
-              <ul class="dropdown-menu" id="help-dropdown">
+              </label>
+              <ul class="dropdown-menu" role="menu" id="help-dropdown">
                 {{ range sort (where (where .Site.Pages "Section" "potrebuji-pomoc") "Kind" "page") "Params.order" }}
                   {{ block "menu-link" . }}{{ end }}
                 {{ end }}
+
 
                 {{ with .GetPage "info/obcane-eu" }}
                   {{ block "menu-link" . }}{{ end }}
@@ -52,11 +55,13 @@
                 <li><a href="https://portal.ochrance.cz">{{ i18n "sep" }}</a></li>
               </ul>
             </li>
+
+            <input type="checkbox" id="work-checkbox">
             <li class="dropdown">
-              <button type="button" class="dropdown-title" aria-controls="inst-dropdown">
+              <label tabindex="0" class="dropdown-title opener keyboard-only-opener" for="work-checkbox" aria-haspopup="menu" aria-controls="work-dropdown" aria-expanded="false">
                 {{ i18n "our-work" }}
-              </button>
-              <ul class="dropdown-menu" id="inst-dropdown">
+              </label>
+              <ul class="dropdown-menu" role="menu" id="work-dropdown">
                   {{ with .GetPage "/info/setreni" }}
                     {{ block "menu-link" . }}{{ end }}
                   {{ end }}
@@ -93,22 +98,22 @@
               </ul>
             </li>
             {{ with .GetPage "/hledat/" }}
-              <li><a href="{{ .Permalink }}" class="search">{{ i18n "search" }}</a></li>
+              <li><a tabindex="0" href="{{ .Permalink }}" class="search" aria-label="{{ i18n "search" }}">{{ i18n "search" }}</a></li>
             {{ end }}
 
             {{ if .IsTranslated }}
               {{ range .Translations }}
                 {{ if ne .Language.Lang $.Language.Lang }}
-                  <li><a href="{{ .Permalink }}" class="lang">
+                  <li><a tabindex="0" href="{{ .Permalink }}" class="lang">
                     {{ .Language.Lang | upper }}
                   </a></li>
                 {{ end  }}
               {{ end }}
             {{ else }}
               {{ if eq .Language.Lang "cs" }}
-                <li><a href="{{ "/en/" | absURL }}" class="lang">EN</a></li>
+                <li lang="en"><a tabindex="0" href="{{ "/en/" | absURL }}" class="lang" aria-label="Switch to English">EN</a></li>
               {{ else }}
-                <li><a href="{{ "/" | absURL }}" class="lang">CS</a></li>
+                <li lang="cs"><a tabindex="0" href="{{ "/" | absURL }}" class="lang" aria-label="Přepnout do češtiny">CS</a></li>
               {{ end }}
             {{ end }}
           </ul>

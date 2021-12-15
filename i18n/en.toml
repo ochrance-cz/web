@@ -103,6 +103,12 @@ other = "Scope of authority"
 [page]
 other = "page"
 
+[prev]
+other = "previous"
+
+[next]
+other = "next"
+
 [stay-informed]
 other = "Stay informed"
 
@@ -186,3 +192,15 @@ other = "By situation"
 
 [all-situations]
 other = "Show all situations"
+
+[site-nav]
+other = "Main menu"
+
+[pagination]
+other = "Pagination"
+
+[pagination-prev]
+other = "Previous"
+
+[pagination-next]
+other = "Next"

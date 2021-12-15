@@ -177,3 +177,16 @@ other = "Dle situace"
 
 [all-situations]
 other = "Všechny životní situace"
+
+[site-nav]
+other = "Hlavní menu"
+
+[pagination]
+other = "Stránkování"
+
+[pagination-prev]
+other = "Předchozí"
+
+[pagination-next]
+other = "Následující"
+

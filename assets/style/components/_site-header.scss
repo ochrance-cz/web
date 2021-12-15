@@ -270,10 +270,6 @@
             display: inline-block;
             color: $green;
             @include font-size-m;
-
-            &:focus {
-              outline: none;
-            }
           }
 
           > a,
@@ -321,7 +317,8 @@
     .dropdown {
       height: 3.25rem;
 
-      &:hover {
+      &:hover,
+      &:focus-within {
         height: auto;
       }
 
@@ -329,7 +326,6 @@
         display: inline-flex;
         align-items: center;
         border-bottom: 1px solid transparent;
-        pointer-events: none;
       }
 
       .dropdown-menu {
@@ -337,11 +333,6 @@
         transform-origin: top center;
         display: none;
         padding: 0.5em 0;
-
-        &:hover {
-          display: block;
-          height: auto;
-        }
 
         li {
           margin: 0;
@@ -354,12 +345,11 @@
           padding: 0.5rem 0;
           width: 30vw;
 
-          &:hover {
+          & over {
             text-decoration: underline;
           }
 
           &:focus {
-            outline: none;
             text-decoration: underline;
           }
 
@@ -367,9 +357,8 @@
             &::after {
               display: inline-block;
               box-sizing: border-box;
-              @include font-size-m;
-              font-weight: bold;
-              content: '?';
+              @include fa-icon($fa-var-question);
+              font-size: 80%;
               text-indent: 0;
               text-align: center;
               height: 1.5rem;
@@ -425,37 +414,41 @@
           }
         }
       }
+    }
 
-      &:hover,
-      &:focus-within {
-        .dropdown-title {
-          border-bottom: 1px solid $green;
-        }
+    input:checked + .dropdown,
+    .dropdown:hover {
+      .dropdown-title {
+        border-bottom: 1px solid $green;
+      }
 
-        .dropdown-menu {
-          display: block;
+      li a:hover {
+        text-decoration: underline;
+      }
 
-          a {
-            opacity: 1;
-          }
-        }
+      .dropdown-menu {
+        display: block;
 
-        &:after {
+        a {
           opacity: 1;
         }
+      }
 
-        &::before {
-          position: absolute;
-          top: 0;
-          left: 0;
-          width: 100vw;
-          height: 100vh;
-          content: ' ';
-          background: rgba(0, 0, 0, 0.3);
-          animation: fade-in 0.6s ease-out;
-          will-change: opacity;
-          z-index: -1;
-        }
+      &:after {
+        opacity: 1;
+      }
+
+      &::before {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100vw;
+        height: 100vh;
+        content: ' ';
+        background: rgba(0, 0, 0, 0.3);
+        animation: fade-in 0.6s ease-out;
+        will-change: opacity;
+        z-index: -1;
       }
     }
   }
