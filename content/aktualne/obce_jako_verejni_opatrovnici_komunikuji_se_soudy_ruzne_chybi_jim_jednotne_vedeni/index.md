@@ -1,7 +1,7 @@
 ---
 title: "Obce jako veřejní opatrovníci komunikují se soudy různě – chybí jim
   jednotné vedení "
-date: 2021-12-15T10:41:00.000Z
+date: 2021-12-15T10:51:45.796Z
 vystupy:
   - tz
 perex: >
