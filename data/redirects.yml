@@ -5,3 +5,5 @@ redirects:
     from: /pusobnost/dohled-nad-omezovanim-osobni-svobodyaktuality-z-detenci/aktuality-z-detenci-2019/osn-zasady-ucinneho-vysetrovani-a-dokumentovani-muceni-a-spatneho-zachazeni-konecn-1/
   - from: /letaky/sluzebni-pomer-ozbrojene-slozky/sluzebni-pomer-ozbrojene-slozky.pdf
     to: /letaky/statni-sluzba/statni-sluzba.pdf
+  - from: /uploads-import/ochrana_osob/Umluvy/vezenstvi/R_2006_2_Evr_vezen_pravidla_.pdf
+    to: /uploads-import/ESO/EVP_CS_FIN.docx
