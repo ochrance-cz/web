@@ -156,14 +156,14 @@ a {
   color: $green;
   text-decoration: underline;
 
-  /* &[href$='.pdf']::after,
+  &[href$='.pdf']::after,
   &[href$='.doc']::after,
   &[href$='.docx']::after,
   &[href$='.odt']::after {
     content: 'PDF';
 
-    color: $green;
-    font-weight: bold;
+    color: $black;
+    font-weight: normal;
     display: inline-block;
     white-space: nowrap;
     background: $green-bright;
@@ -186,7 +186,7 @@ a {
 
   &[href$='.odt']::after {
     content: 'ODT';
-  }*/
+  }
 
   &:hover {
     color: $black;
