@@ -81,12 +81,16 @@
   </script>
   {{ end }}
 
+  <a class="skip-link" href="#main-content">{{ i18n "skip-to-content" }}</a>
+
   {{ partial "alert-strip.html" . }}
 
   {{ partial "site-header.html" . }}
 
-  {{ block "main" . }}
-  {{ end }}
+  <div id="main-content">
+    {{ block "main" . }}
+    {{ end }}
+  </div>
 
   {{ partial "site-footer.html" . }}
 
