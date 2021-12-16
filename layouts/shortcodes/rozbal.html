@@ -3,11 +3,11 @@
   <input type="checkbox" id="{{ $random }}">
   <div class="box">
     <h3 class="title">
-      <label for="{{ $random }}">
+      <label tabindex="0" class="opener" for="{{ $random }}" aria-controls="{{ $random }}-content" aria-expanded="false">
         {{ .Get 0 }}
       </label>
     </h3>
-    <div class="content">
+    <div class="content" id="{{ $random }}-content">
       {{ partial "md-block.html" .Inner }}
     </div>
   </div>
