@@ -22,16 +22,16 @@
               {{ i18n "email-is-not-registry"}}
               <a href="{{ .Permalink }}">{{ i18n "how-to-submit" }}</a></p>
             {{ end }}
-            <div class="_cards">
+            <ul class="_cards">
               {{ range .people }}
-                <p class="card">
+                <li class="card">
                   <strong>{{ .name }}</strong><br>
                   {{ .role }}<br>
                   {{ .phone }}<br>
                   <a href="mailto:{{ .email }}">{{ .email }}</a>
-                </p>
+                </li>
               {{ end }}
-            </div>
+            </ul>
           {{ end }}
         {{ end }}
       {{ end }}

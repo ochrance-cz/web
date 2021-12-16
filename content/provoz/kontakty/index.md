@@ -4,44 +4,36 @@ type: kontakty
 sections:
   - title: Veřejný ochránce práv
     intro: |-
-      #### **JUDr. Stanislav Křeček**
-
+      **JUDr. Stanislav Křeček**  
       veřejný ochránce práv
   - title: Zástupkyně veřejného ochránce práv
     intro: |-
-      #### **Mgr. Monika Šimůnková**
-
+      **Mgr. Monika Šimůnková**  
       zástupkyně veřejného ochránce práv
   - title: Sekretariát veřejného ochránce práv a jeho zástupkyně
     intro: |-
-      **Sekretariát veřejného ochránce práv**
+      **Sekretariát veřejného ochránce práv**  
+      Marie Uhlerová  
+      tel: (+420) 542 542 777
 
-      Marie Uhlerová, tel: (+420) 542 542 777
-
-      **Sekretariát zástupkyně veřejného ochránce práv**
-
-      Marie Hemalová, tel: (+420) 542 542 666
+      **Sekretariát zástupkyně veřejného ochránce práv**  
+      Marie Hemalová  
+      tel: (+420) 542 542 666
 
       ### **Vedoucí sekretariátu veřejného ochránce práv a jeho zástupkyně**
 
-      **Miroslav Přidal**
-
-      telefon: (+420) 542 542 779
-
+      **Miroslav Přidal**  
+      telefon: (+420) 542 542 779  
       e-mail: miroslav.pridal@ochrance.cz
 
       ### **Právní asistenti veřejného ochránce práv a jeho zástupkyně**
 
-      **Miroslav Frýdek**
-
-      telefon: (+420) 542 542 228
-
+      **Miroslav Frýdek**  
+      telefon: (+420) 542 542 228  
       e-mail: miroslav.frydek@ochrance.cz
 
-      **Petra Zdražilová**
-
-      telefon: (+420) 542 542 308
-
+      **Petra Zdražilová**  
+      telefon: (+420) 542 542 308  
       e-mail: petra.zdrazilova@ochrance.cz
   - title: Vedoucí Kanceláře veřejného ochránce práv
     intro: |-
@@ -65,29 +57,20 @@ sections:
   - title: Odbor vnitřní správy
     intro: |-
       **Josef Svoboda**
-      vedoucí odboru vnitřní správy 
-
-
-      telefon: 542 542 444
-
+      vedoucí odboru vnitřní správy  
+      telefon: 542 542 444  
       e-mail: josef.svoboda@ochrance.cz
   - title: Odbor administrativních a spisových služeb
     intro: |-
       **Libuše Kuncová**
-      vedoucí odboru
-
-
-      telefon: 542 542 224
-
+      vedoucí odboru  
+      telefon: 542 542 224  
       e-mail: libuse.kuncova@ochrance.cz
   - title: Odbor péče o zaměstnance
     intro: |-
       **Gabriela Lžičařová**
-      vedoucí odboru
-
-
-      telefon: : 542 542 347
-
+      vedoucí odboru  
+      telefon: 542 542 347  
       e-mail: gabriela.lzicarova@ochrance.cz
 lawyers:
   - title: Odbor stavebního řádu a životního prostředí
@@ -300,12 +283,12 @@ lawyers:
         phone: 542 542 229
         email: veronika.vichova@ochrance.cz
       - name: Marie Poppeová
-        role: "právnička (státní správa soudů) "
-        phone: "542 542 321 "
+        role: 'právnička (státní správa soudů) '
+        phone: '542 542 321 '
         email: marie.poppeova@ochrance.cz
       - name: Barbora Mazalová
-        role: "právnička "
-        phone: "542 542 366 "
+        role: 'právnička '
+        phone: '542 542 366 '
         email: barbora.mazalova@ochrance.cz
   - title: Odbor rodiny, zdravotnictví a práce
     intro: veřejné zdravotní pojištění, stížnosti ve zdravotnictví, činnost OSPOD,
@@ -442,12 +425,12 @@ lawyers:
         phone: 542 542 227
         email: jana.vomelova@ochrance.cz
       - name: Barbora Votoupalová
-        role: "právnička "
-        phone: "542 542 267 "
+        role: 'právnička '
+        phone: '542 542 267 '
         email: barbora.votoupalova@ochrance.cz
       - name: Anna Katerina Vintrová
-        role: "právnička "
-        phone: "542 542 253 "
+        role: 'právnička '
+        phone: '542 542 253 '
         email: vintrova@ochrance.cz
   - title: Odbor dohledu nad omezováním osobní svobody
     intro: >
@@ -504,17 +487,17 @@ lawyers:
         role: právník
         phone: 542 542 315
         email: milan.svoboda@ochrance.cz
-      - name: "Gabriela Mazúrová "
-        role: "právnička "
+      - name: 'Gabriela Mazúrová '
+        role: 'právnička '
         phone: 542 542 373
         email: gabriela.mazurova@ochrance.cz
       - name: Tereza Žuffová-Kunčová
-        role: "právnička "
-        phone: "542 542 330 "
+        role: 'právnička '
+        phone: '542 542 330 '
         email: tereza.zuffova-kuncova@ochrance.cz
       - name: Silvie Konopková
-        role: "právnička "
-        phone: "542 542 375 "
+        role: 'právnička '
+        phone: '542 542 375 '
         email: silvie.konopkova@ochrance.cz
   - title: Odbor ochrany práv osob se zdravotním postižením
     people:
@@ -547,15 +530,15 @@ lawyers:
         phone: 542 542 374
         email: petr.polak@ochrance.cz
       - name: Romana Švecová
-        role: "právnička "
+        role: 'právnička '
         phone: 542 542 256
         email: romana.svecova@ochrance.cz
       - name: Ondřej Kašpar
-        role: "právník "
+        role: 'právník '
         phone: 542 542 255
         email: ondrej.kaspar@ochrance.cz
       - name: Veronika Vítková
-        role: "právnička "
+        role: 'právnička '
         phone: 725 546 632
         email: veronika.vitkova@ochrance.cz
   - title: Odbor metodiky a analýzy
@@ -577,7 +560,7 @@ lawyers:
         phone: 542 542 484
         email: marie.lukasova@ochrance.cz
       - name: Jana Pecková Hodečková
-        role: "právnička "
+        role: 'právnička '
         phone: 542 542 313
         email: jana.peckovahodeckova@ochrance.cz
   - title: Úsek výzkumu
