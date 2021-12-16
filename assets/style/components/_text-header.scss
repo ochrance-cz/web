@@ -1,11 +1,16 @@
 ._text-header {
   padding: 2rem 1rem;
 
+  .perex .icon-info::before {
+    float: left;
+    padding-right: 0.5em;
+    @include fa-icon($fa-var-info-circle, $green);
+  }
   @include medium {
     padding: 4rem 0 3rem;
 
     h1,
-    p {
+    .perex {
       margin-left: 10vw;
       margin-right: calc((100vw - 40rem) / 2);
     }
@@ -22,11 +27,6 @@
     .perex {
       margin-top: 0;
       margin-bottom: 0;
-
-      .icon-info::before {
-        padding-right: 0.5em;
-        @include fa-icon($fa-var-info-circle, $green);
-      }
     }
   }
 }
