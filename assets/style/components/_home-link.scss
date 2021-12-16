@@ -11,7 +11,7 @@
 
       &::before {
         box-sizing: border-box;
-        content: " ";
+        content: ' ';
         display: inline-block;
         width: 2rem;
       }
@@ -20,8 +20,14 @@
         color: $black;
       }
 
-      &.icon-arrow {
+      .icon-arrow {
         &::before {
+          box-sizing: border-box;
+          content: ' ';
+          display: inline-block;
+          width: 2rem;
+          margin-left: -2rem;
+
           height: 1.2em;
           vertical-align: bottom;
 
@@ -35,14 +41,19 @@
         }
       }
 
-      &.icon-question {
+      .icon-question {
         &::before {
-          content: "?";
+          box-sizing: border-box;
+          content: ' ';
+          display: inline-block;
+          width: 2rem;
+
+          content: '?';
           text-indent: 0;
           text-align: center;
           height: 2rem;
 
-          margin: 0 0.5rem 0 -0.5rem;
+          margin: 0 0.5rem 0 -2.5rem;
 
           border: 2px solid $green;
           border-radius: 2rem;
@@ -53,9 +64,14 @@
         }
       }
 
-      &.icon-kids {
+      .icon-kids {
         &::before {
-          content: " ";
+          box-sizing: border-box;
+          content: ' ';
+          display: inline-block;
+          width: 2rem;
+
+          content: ' ';
           background-image: url(/images/deti.png);
           background-repeat: no-repeat;
           background-size: cover;
@@ -64,12 +80,17 @@
           height: 2rem;
 
           vertical-align: top;
-          margin: 0 0.5rem 0 -0.5rem;
+          margin: 0 0.5rem 0 -2.5rem;
         }
       }
 
-      &.icon-eso {
+      .icon-eso {
         &::before {
+          box-sizing: border-box;
+          content: ' ';
+          display: inline-block;
+          width: 2rem;
+
           @include svg-bg($ace, $green, 50% 50%);
           background-size: 1.2em 1.2em;
           font-size: 100%;
@@ -78,7 +99,7 @@
           height: 2rem;
 
           vertical-align: top;
-          margin: 0 0.5rem 0 -0.5rem;
+          margin: 0 0.5rem 0 -2.5rem;
 
           border: 2px solid $green;
           border-radius: 2rem;

@@ -13,7 +13,8 @@
     	{{ .Content }}
 
       {{ with .GetPage "/pusobnost/" }}
-      <p class="_icon-info">
+      <p>
+        <span class="_icon-info" aria-hidden="true"></span>
         {{ .Params.seeMore | markdownify }}
       </p>
       {{ end }}

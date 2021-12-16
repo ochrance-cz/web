@@ -9,7 +9,8 @@
           <span class="phone-label">telefon:</span>
           <span class="phone">{{ .Params.phone }}</span>
         </h1>
-        <div class="perex {{ with .Params.pic }}icon-info{{ end }}">
+        <div class="perex">{{- "" -}}
+          <span class="{{ with .Params.pic }}icon-info{{ end }}" aria-hidden="true"></span>
           {{ with .Params.description }}
             {{ partial "md-block.html" . }}
           {{ end }}

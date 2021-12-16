@@ -307,7 +307,7 @@ blockquote {
   color: $green;
   @include font-size-l;
 
-  &::before {
+  .arrow::before {
     display: inline-block;
     width: 1.5em;
     height: 1.2em;
@@ -320,7 +320,7 @@ blockquote {
   &:hover {
     color: $black;
 
-    &::before {
+    .arrow::before {
       @include svg-bg($arrow, $black, 0% 50%);
     }
   }

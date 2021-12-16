@@ -2,8 +2,8 @@
 <li>
   <a
     tabindex="0"
-    href="{{ cond (isset .Params "link") .Params.link .Permalink }}"
-    class="icon-{{ with .Params.icon }}{{ . }}{{ else }}arrow{{ end }}">
+    href="{{ cond (isset .Params "link") .Params.link .Permalink }}">
+    {{- "" -}}<span class="icon-{{ with .Params.icon }}{{ . }}{{ else }}arrow{{ end }}" aria-hidden="true"></span>
     {{- .Title -}}
   </a>
 </li>

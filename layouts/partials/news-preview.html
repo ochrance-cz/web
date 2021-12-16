@@ -15,8 +15,8 @@
     {{ with $preview }}
       <h{{ with $h }}{{.}}{{ else }}3{{ end }}>
         <a
-          href="{{ .Permalink }}"
-          class="icon-{{ with .Params.icon }}{{ . }}{{ else }}arrow{{ end }}">
+          href="{{ .Permalink }}">
+          {{- "" -}}<span class="icon-{{ with .Params.icon }}{{ . }}{{ else }}arrow{{ end }}" aria-hidden="true"></span>
           {{- .Title -}}
         </a>
       </h{{ with $h }}{{.}}{{ else }}3{{ end }}>

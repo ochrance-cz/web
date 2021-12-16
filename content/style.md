@@ -24,7 +24,7 @@ date: 2020-01-13T00:00:00.000Z
 
 <a href="." class="_button secondary">Přihlásit se</a>
 
-<a href="." class="_big-link">Big text link</a>
+<a href="." class="_big-link"><span class="arrow" aria-hidden="true">Big text link</a>
 
 <p><a href=".">Text link</a></p>
 

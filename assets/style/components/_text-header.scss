@@ -23,7 +23,7 @@
       margin-top: 0;
       margin-bottom: 0;
 
-      &.icon-info p:first-child::before {
+      .icon-info::before {
         padding-right: 0.5em;
         @include fa-icon($fa-var-info-circle, $green);
       }
