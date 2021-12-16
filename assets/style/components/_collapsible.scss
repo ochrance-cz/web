@@ -29,7 +29,7 @@
       text-decoration: none;
     }
 
-    &::before {
+    .chevron::before {
       pointer-events: none;
       float: right;
       @include fa-icon($fa-var-chevron-down);
@@ -38,11 +38,11 @@
     }
   }
 
-  input[type="checkbox"] {
+  input[type='checkbox'] {
     display: none;
 
     &:checked {
-      & ~ .box .title::before {
+      & ~ .box .title .chevron::before {
         @include fa-icon($fa-var-chevron-up);
         font-size: 1rem;
       }

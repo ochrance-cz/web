@@ -2,6 +2,7 @@
   <input type="checkbox" id="{{ .id }}" {{ with .open }}checked{{ end }}>
   <div class="box">
     <h3 class="title">
+      <span class="chevron" aria-hidden="true"></span>
       <label tabindex="0" class="opener" for="{{ .id }}" aria-controls="{{ .id }}-content" aria-expanded="{{ with .open }}true{{ else }}false{{ end }}">
         {{ .title }}
       </label>
