@@ -10,6 +10,9 @@ other = "Hledat…"
 [go-search]
 other = "Vyhledat"
 
+[search-results]
+other = "Výsledky hledání"
+
 [skip-to-content]
 other = "Přeskočit k hlavnímu obsahu"
 

@@ -10,6 +10,9 @@ other = "Search for…"
 [go-search]
 other = "Search"
 
+[search-results]
+other = "Search results"
+
 [skip-to-content]
 other = "Skip to main content"
 
