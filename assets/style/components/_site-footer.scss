@@ -44,9 +44,13 @@
   a {
     color: $white;
 
-    &.movement,
-    &.seeing,
-    &.hearing {
+    &.icon-link {
+      text-decoration: none;
+    }
+
+    .movement,
+    .seeing,
+    .hearing {
       display: inline-block;
       white-space: nowrap;
       vertical-align: middle;
@@ -56,7 +60,7 @@
       overflow: hidden;
     }
 
-    &.movement::before {
+    .movement::before {
       @include fa-icon($fa-var-wheelchair);
       vertical-align: top;
       position: relative;
@@ -66,7 +70,7 @@
       text-align: center;
     }
 
-    &.seeing::before {
+    .seeing::before {
       @include fa-icon($fa-var-eye-slash);
       vertical-align: top;
       position: relative;
@@ -76,7 +80,7 @@
       text-align: center;
     }
 
-    &.hearing {
+    .hearing {
       width: 5rem;
 
       &::before {
@@ -84,7 +88,7 @@
         vertical-align: top;
         position: relative;
         top: -0.1rem;
-        content: fa-content($fa-var-deaf) " " fa-content($fa-var-headphones-alt);
+        content: fa-content($fa-var-deaf) ' ' fa-content($fa-var-headphones-alt);
         width: 5rem;
         color: $white;
         text-align: center;
@@ -121,7 +125,7 @@
 
   .facebook-label::before {
     @include fa-icon($fa-var-facebook-f);
-    font-family: "FontAwesome-Brands";
+    font-family: 'FontAwesome-Brands';
     width: 2rem;
     top: 0;
     margin-right: 1rem;
@@ -129,7 +133,7 @@
 
   .instagram-label::before {
     @include fa-icon($fa-var-instagram);
-    font-family: "FontAwesome-Brands";
+    font-family: 'FontAwesome-Brands';
     width: 2rem;
     top: 0;
     margin-right: 1rem;
@@ -137,7 +141,7 @@
 
   .youtube-label::before {
     @include fa-icon($fa-var-youtube);
-    font-family: "FontAwesome-Brands";
+    font-family: 'FontAwesome-Brands';
     width: 2rem;
     top: 0;
     margin-right: 1rem;
@@ -145,7 +149,7 @@
 
   .twitter-label::before {
     @include fa-icon($fa-var-twitter);
-    font-family: "FontAwesome-Brands";
+    font-family: 'FontAwesome-Brands';
     width: 2rem;
     top: 0;
     margin-right: 1rem;
@@ -212,7 +216,7 @@
       margin: 0;
     }
 
-    input[type="email"] {
+    input[type='email'] {
       color: white;
 
       &::placeholder {
@@ -221,7 +225,7 @@
       }
     }
 
-    input[type="submit"] {
+    input[type='submit'] {
       cursor: pointer;
       background-color: $white;
       width: 0.1px;
