@@ -2,7 +2,7 @@
 <html lang="{{ .Language.Lang }}">
 
 <head>
-  <title>{{ block "title" . }}{{ .Title }}{{ end }}</title>
+  <title>{{ block "title" . }}{{ .Title }}{{ end }} | Ombudsman</title>
   {{ partial "meta.html" . }}
 
   {{ $css := resources.Get "style/style.scss" | toCSS | minify | fingerprint }}
