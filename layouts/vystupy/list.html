@@ -19,7 +19,7 @@
         {{ range .Pages.GroupByDate "2006" }}
           {{ partial "collapsible-open.html" (dict "id" .Key "title" (print "Sezóna " .Key) "open" false) }}
           {{ range .Pages }}
-            {{ partial "news-preview.html" . }}
+            {{ partial "news-preview.html" (dict "preview" .) }}
           {{ end }}
           {{ partial "collapsible-close.html" }}
         {{ end }}
@@ -28,7 +28,7 @@
         {{ $paginator := .Paginate .Pages 20 }}
 
         {{ range $paginator.Pages }}
-          {{ partial "news-preview.html" . }}
+          {{ partial "news-preview.html" (dict "preview" .) }}
         {{ end }}
 
         {{ partial "pagination.html" $paginator }}

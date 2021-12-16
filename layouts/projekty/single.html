@@ -47,7 +47,7 @@
       <section class="_news single-col">
         <h2>{{ i18n "news" }} [TODO filtrování]</h2>
         {{ range sort . "Params.order" }}
-          {{ partial "news-preview.html" . }}
+          {{ partial "news-preview.html" (dict "preview" .) }}
         {{ end }}
       </section>
     </div>

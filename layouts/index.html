@@ -20,7 +20,7 @@
 
 
       {{ range first 3 (sort (where $news "Params.vystupy" "intersect" .Params.aktuality) "Params.order") }}
-        {{ partial "news-preview.html" . }}
+        {{ partial "news-preview.html" (dict "preview" .) }}
       {{ end }}
       {{ with .GetPage "aktualne" }}
         <p><a href="{{ .Permalink }}" class="_button">{{ i18n "more-news" }}</a></p>

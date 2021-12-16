@@ -8,7 +8,7 @@
     {{ $paginator := .Paginate (where $news "Params.vystupy" "intersect" $home.Params.aktuality) 20 }}
 
     {{ range $paginator.Pages }}
-        {{ partial "news-preview.html" . }}
+        {{ partial "news-preview.html" (dict "preview" . "h" "2") }}
     {{ end }}
 
     {{ partial "pagination.html" $paginator }}

@@ -1,12 +1,18 @@
 ._news-preview {
-  margin-bottom: 2rem;
+  .content-wrapper {
+    display: grid;
+  }
 
   .details {
     margin: 0;
+    grid-row: 1;
   }
 
+  h2,
   h3 {
-    margin: 0.5rem 0;
+    @include font-size-xl;
+    margin: 0;
+    padding: 0.5rem 0;
   }
 
   .img-wrapper {

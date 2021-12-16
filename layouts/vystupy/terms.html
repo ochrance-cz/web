@@ -38,7 +38,8 @@
       {{ .Content }}
 
       {{ with .Params.info }}
-      <p class="_icon-info">
+      <p>
+        <span class="_icon-info" aria-hidden="true"></span>
         {{ . | markdownify }}
       </p>
       {{ end }}
