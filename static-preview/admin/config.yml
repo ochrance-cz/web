@@ -27,6 +27,10 @@ collections:
             name: claim
             required: false
             widget: string
+          - label: Obrázek na homepage
+            name: headerPic
+            required: false
+            widget: image
           - editor_components:
               - image
             buttons:
@@ -1596,6 +1600,10 @@ collections:
             name: claim
             required: false
             widget: string
+          - label: Obrázek na homepage
+            name: headerPic
+            required: false
+            widget: image
           - editor_components:
               - image
             buttons:

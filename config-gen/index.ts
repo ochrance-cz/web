@@ -85,6 +85,7 @@ const stranky = files('Jiné', 'stranky', [
   fileCollection('Homepage', 'home', 'content/_index.markdown', [
     title('Titulek'),
     string('Motto', 'claim'),
+    image('Obrázek na homepage', 'headerPic'),
     markdown('Hlavní text', 'body'),
     string('Mezititulek: potřebuji pomoc', 'situationsTitle'),
     string('Mezititulek: činnost', 'cinnostTitle'),
@@ -234,6 +235,7 @@ const strankyEn = files('Jiné', 'stranky', [
   fileCollection('Homepage', 'home', 'content/_index.markdown', [
     title('Titulek'),
     string('Motto', 'claim'),
+    image('Obrázek na homepage', 'headerPic'),
     markdown('Hlavní text', 'body'),
     string('Mezititulek: potřebuji pomoc', 'situationsTitle'),
     string('Mezititulek: činnost', 'cinnostTitle'),

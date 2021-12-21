@@ -1,6 +1,6 @@
 ---
 title: Veřejný ochránce práv
-headerPic: /images/home.jpg
+headerPic: /images/pf2022.png
 claim: Pomáháme bez rozdílu
 situationsTitle: Potřebuji pomoc
 cinnostTitle: Činnost ombudsmana
