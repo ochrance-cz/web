@@ -1,6 +1,7 @@
 ---
-title: Organizations providing legal assistance to foreigners and refugees in the Czech Republic
-file: EN-Organizations-providing-legal-assistance.pdf
+title: Organizations providing legal assistance to foreigners and refugees in
+  the Czech Republic
 situace:
   - other-situations
+file: en-organizations-providing-legal-assistance.pdf
 ---
