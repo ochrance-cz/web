@@ -270,10 +270,10 @@ lawyers:
         role: právník (věci cizinců)
         phone: 542 542 259
         email: josef.stehlik@ochrance.cz
-      - name: Beáta Szakácsová
+      - name: Hana Lupačová
         role: právnička (věci cizinců)
-        phone: 542 542 263
-        email: beata.szakacsova@ochrance.cz
+        phone: 542 542 297
+        email: hana.lupacova@ochrance.cz
       - name: Jan Ščučka
         role: právník (daně, poplatky a cla, státní správa soudů)
         phone: 542 542 359
