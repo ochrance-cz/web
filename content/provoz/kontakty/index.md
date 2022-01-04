@@ -382,7 +382,7 @@ lawyers:
         email: iva.palkovska@ochrance.cz
       - name: David Janků
         role: právník
-        phone: 542 542 272
+        phone: 720 028 345
         email: david.janku@ochrance.cz
       - name: Eva Kočí Svobodová
         role: právnička
@@ -432,6 +432,10 @@ lawyers:
         role: "právnička "
         phone: "542 542 253 "
         email: vintrova@ochrance.cz
+      - name: Lenka Křičková
+        role: "právnička "
+        phone: "542 542 272 "
+        email: lenka.krickova@ochrance.cz
   - title: Odbor dohledu nad omezováním osobní svobody
     intro: >
       provádění systematických preventivních návštěv v zařízení, kde se mohou
