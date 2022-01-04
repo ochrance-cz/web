@@ -6,5 +6,5 @@ situace:
 file: cizinci-dlouhodoby-pobyt.pdf
 roma: ""
 info: long-term-residence-permit-english.pdf
-infoTitle: long-term-residence-permit-russkiy.pdf
+infoTitle: ""
 ---
