@@ -1,8 +1,14 @@
 {{ define "main" }}
 <main>
-  {{ partial "text-header.html" . }}
+  {{ partial "pic-header.html" . }}
 
   <section>
+    {{ with .Params.perex }}
+      <div class="perex">
+        {{ partial "md-block.html" . }}
+      </div>
+    {{ end }}
+
     <ul class="_horizontal-list">
       {{ with .GetPage "/situace" }}
         <li><a href="{{ .Permalink }}">{{ i18n "handouts-by-sit" }}</a></li>
