@@ -4,10 +4,10 @@ date: 2022-01-06T06:58:34.809Z
 vystupy:
   - tz
 perex: >
-  <p><strong>Veřejný ochránce práv požádal ministra zdravotnictví o informace o
+  <p>Veřejný ochránce práv požádal ministra zdravotnictví o informace o
   plánovaných krocích jeho rezortu v&nbsp;souvislosti s&nbsp;takzvanou očkovací
   vyhláškou. Předchozí vláda rozhodla, že očkování proti nemoci covid-19 bude od
-  března povinné pro vybrané profesní skupiny a lidi nad 60 let. </strong></p>
+  března povinné pro vybrané profesní skupiny a lidi nad 60 let.</p>
 ---
 <p>Na ombudsmana se v&nbsp;poslední době obracejí stěžovatelé, kteří nesouhlasí se současnou podobou vyhlášky a povinným očkováním pro určité věkové nebo profesní skupiny obyvatel. Veřejný ochránce práv Stanislav Křeček se proto rozhodl oslovit ministra zdravotnictví Vlastimila Válka s&nbsp;prosbou o vysvětlení jeho postoje. &nbsp;</p>
 
