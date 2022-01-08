@@ -1219,7 +1219,7 @@ collections:
       - label: Název přílohy
         name: infoTitle
         required: false
-        widget: file
+        widget: string
     create: true
     path: '{{slug}}/index'
     media_folder: ''
@@ -2399,7 +2399,7 @@ collections:
       - label: Název přílohy
         name: infoTitle
         required: false
-        widget: file
+        widget: string
     create: true
     path: '{{slug}}/index'
     media_folder: ''

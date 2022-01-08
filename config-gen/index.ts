@@ -698,7 +698,7 @@ const letaky = folderCollection(
     file('Verze pro zrakově znevýhodněné', 'seeing'),
     file('Verze v romštině', 'roma'),
     file('Příloha', 'info'),
-    file('Název přílohy', 'infoTitle'),
+    string('Název přílohy', 'infoTitle'),
   ]
 );
 
