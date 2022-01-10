@@ -36,7 +36,7 @@ perex: >
 
 <p>A komunikace by měla podle ombudsmana začínat už na úrovni ministerstev. Navrhuje například spolupráci Ministerstva práce a sociálních věcí se zastupitelskými úřady těch států EU, z nichž k&nbsp;nám přichází nejvíc lidí. Cizinci, kteří se v&nbsp;českém prostředí úplně neorientují, se totiž s&nbsp;žádostmi o radu obracejí právě i na konzuláty nebo velvyslanectví svých zemí. Tamní úředníci by proto měli prostřednictvím&nbsp;MPSV získávat a předávat dál aktuální užitečné informace o právech a povinnostech spojených s&nbsp;pobytem a prací v ČR.</p>
 
-<p>&nbsp;</p>
+<p>Doporučení a výzkum jsou realizovány prostřednictvím projektu Posílení aktivit veřejného ochránce práv v ochraně lidských práv (směrem k ustavení Národní lidskoprávní instituce v ČR), číslo projektu LP-PDP3-001. Projekt je součástí Programu lidská práva financovaného z Norských fondů 2014-2021 prostřednictvím Ministerstva financí ČR.</p>
 
 <p><strong>Přílohy: </strong></p>
 
