@@ -36,6 +36,8 @@ perex: >
 
 <p>Ministries should also get involved in communication.&nbsp; For example, the Ombudsman proposes the Ministry of Labour and Social Affairs should cooperate with the embassies of the EU countries from which most people come to us. Foreigners who are not fully familiar with the Czech environment turn to the consulates or embassies of their own countries for advice. Officials there should therefore, through the MLSA, obtain and pass on up-to-date useful information on the rights and obligations associated with residence and work in the Czech Republic.</p>
 
+<p>The recommendation and survey are carried out as part of the project &ldquo;Reinforcing the activities of the Public Defender of Rights in the protection of human rights (with the aim of establishing a National Human Rights Institution in the Czech Republic)&rdquo;, No. LP-PDP3-001. This project is a part of Programme of Human Rights financed from Norwegian Funds 2014-2021 via Ministry of Finance of the Czech Republic.</p>
+
 <p><strong>Annexes:</strong></p>
 
 <p><a href="https://eso.ochrance.cz/Nalezene/Edit/9920">Research and Recommendations</a> (Czech only)</p>
