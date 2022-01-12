@@ -300,12 +300,11 @@ lawyers:
         phone: 542 542 389
         email: petra.suplerova@ochrance.cz
       - name: Eva Hilšerová
-        role: právnička (zaměstnanost a inspekce práce, sociálně-právní ochrana dětí,
-          pěstounská péče)
+        role: právnička (zaměstnanost a inspekce práce, sociálně-právní ochrana dětí)
         phone: 542 542 344
         email: eva.hilserova@ochrance.cz
       - name: Klára Ille
-        role: právnička (sociálně-právní ochrana dětí)
+        role: právnička (sociálně-právní ochrana dětí, ústavní výchova, pěstounská péče)
         phone: 542 542 304
         email: klara.ille@ochrance.cz
       - name: Petra Dostálová
@@ -313,31 +312,32 @@ lawyers:
         phone: 542 542 350
         email: petra.jelinkova@ochrance.cz
       - name: Barbora Jechová
-        role: právnička (sociálně-právní ochrana dětí, ústavní výchova)
+        role: právnička (sociálně-právní ochrana dětí, ústavní výchova, pěstounská péče)
         phone: 542 542 310
         email: barbora.jechova@ochrance.cz
       - name: Martin Ježek
-        role: právník (sociálně-právní ochrana dětí, správa na úseku zdravotnictví)
+        role: právník (sociálně-právní ochrana dětí, ústavní výchova, správa na úseku
+          zdravotnictví)
         phone: 542 542 398
         email: martin.jezek@ochrance.cz
       - name: Marek Kosík
-        role: právník (sociálně-právní ochrana dětí)
+        role: právník (sociálně-právní ochrana dětí, ústavní výchova, pěstounská péče)
         phone: 542 542 371
         email: marek.kosik@ochrance.cz
       - name: Nikola Kovářová
-        role: právnička (sociálně-právní ochrana dětí)
+        role: právnička (sociálně-právní ochrana dětí, ústavní výchova, pěstounská péče)
         phone: 542 542 202
         email: nikola.kovarova@ochrance.cz
       - name: Zuzana Kučerová
-        role: právnička (úřady práce, inspekce práce)
+        role: právnička (zaměstnanost, inspekce práce, správa na úseku zdravotnictví)
         phone: 542 542 293
         email: zuzana.kucerova@ochrance.cz
       - name: Tereza Kulhanová
-        role: právnička (sociálně-právní ochrana dětí)
+        role: právnička (sociálně-právní ochrana dětí, ústavní výchova, pěstounská péče)
         phone: 542 542 268
         email: tereza.kulhanova@ochrance.cz
       - name: Jana Lazarová
-        role: právnička (zaměstnanost)
+        role: právnička (zaměstnanost a inspekce práce)
         phone: 542 542 291
         email: jana.lazarova@ochrance.cz
       - name: Běla Vaverková
@@ -345,7 +345,7 @@ lawyers:
         phone: 542 542 363
         email: bela.vaverkova@ochrance.cz
       - name: Lucie Veselá
-        role: právnička (sociálně-právní ochrana dětí)
+        role: právnička (sociálně-právní ochrana dětí, ústavní výchova, pěstounská péče)
         phone: 542 542 258
         email: lucie.vesela@ochrance.cz
       - name: Milena Zmeškalová
@@ -353,7 +353,7 @@ lawyers:
         phone: 542 542 314
         email: milena.zmeskalova@ochrance.cz
       - name: Alice Žižlavská
-        role: právnička (sociálně-právní ochrana dětí)
+        role: právnička (sociálně-právní ochrana dětí, ústavní výchova, pěstounská péče)
         phone: 542 542 372
         email: alice.zizlavska@ochrance.cz
       - name: Eva Burianová Ehnertová
