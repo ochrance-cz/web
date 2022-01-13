@@ -8,15 +8,9 @@ linksAfter: []
 
 <p>Pokud se přesto chcete ucházet o místo, pošlete nám svůj životopis na adresu <a href="mailto:lzicarova@ochrance.cz">lzicarova@ochrance.cz</a> a napište, o jakou práci máte zájem.</p>
 
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
 <h2><strong>Stáže pro studenty právnických fakult</strong></h2>
 
 <p>Na stáž se můžete přihlásit přes svou právnickou fakultu v&nbsp;Brně, Olomouci a Praze. Pokud nevíte, koho ve škole oslovit, napište na adresu <a href="mailto:lzicarova@ochrance.cz">lzicarova@ochrance.cz</a>.</p>
-
-<p>&nbsp;</p>
 
 <h2><strong>Jaký jsme zaměstnavatel?</strong></h2>
 
