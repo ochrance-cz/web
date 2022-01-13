@@ -51,11 +51,11 @@ linksAfter: []
 	<li>Promluvíte si s&nbsp;námi také samostatně.</li>
 </ul>
 
-<h3><strong>Koho pozveme ke skupinovému výběrovému řízení?</strong></h3>
+<h2><strong>Koho pozveme ke skupinovému výběrovému řízení?</strong></h2>
 
 <p>Účastníky vybereme podle zaslaných životopisů a motivačních dopisů. Zajímá nás obsah i&nbsp;forma, zejména schopnost vyjádřit se strukturovaně, jasně a&nbsp;srozumitelně.</p>
 
-<h3><strong>Potřebujete, abychom výběrové řízení přizpůsobili Vaší situaci?</strong></h3>
+<h2><strong>Potřebujete, abychom výběrové řízení přizpůsobili Vaší situaci?</strong></h2>
 
 <p>Pokud potřebujete přizpůsobit podobu výběrového řízení (například kvůli zdravotnímu postižení), napište nám předem na adresu <a href="mailto:lzicarova@ochrance.cz">lzicarova@ochrance.cz</a>. Domluvíme se, jak budeme postupovat.</p>
 
