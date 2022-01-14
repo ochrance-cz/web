@@ -107,8 +107,8 @@ Redirect 301 /kancelar-vop/projekty-spoluprace/sluzba-sita-na-miru/ /projekty
 Redirect 301 /kancelar-vop/pronajem-konferencnich-salu-a-ostatnich-prostor/ /provoz/pronajem-prostor
 Redirect 301 /kancelar-vop/registr-oznameni-dle-zakona-c-1592006-sb-o-stretu-zajmu/ /info106
 Redirect 301 /kancelar-vop/smlouvy/ /o-nas
-Redirect 301 /kancelar-vop/statut/ /o-nas
-Redirect 301 /kancelar-vop/statut/organizacni-rad/ /o-nas
+Redirect 301 /kancelar-vop/statut/ /info/statut
+Redirect 301 /kancelar-vop/statut/organizacni-rad/ /info/organizacni-rad
 Redirect 301 /kancelar-vop/strategie-rozvoje-kancelare/ /o-nas
 Redirect 301 /kancelar-vop/verejne-zakazky/ /o-nas
 Redirect 301 /kancelar-vop/volna-mista-a-staze/ /o-nas

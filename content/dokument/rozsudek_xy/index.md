@@ -8,4 +8,4 @@ attachments:
 ---
 fdlkjfslkdj lksjlsdkfjlf
 
-{{< button "https://www.ochrance.cz/setreni/" "Jak funguje šetření" >}}
+{{< button "https://www.ochrance.cz/info/setreni/" "Jak funguje šetření" >}}
