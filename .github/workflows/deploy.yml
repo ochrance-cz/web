@@ -79,31 +79,24 @@ jobs:
               rm letaky
               rm manual
               rm o-nas
-              rm organizacni-rad
               rm podejte-stiznost
               rm potrebuji-pomoc
-              rm pravidla-komunikace
               rm pristupnost
               rm projekty
               rm provoz
               rm pusobnost
               rm robots.txt
               rm scripts
-              rm setreni
               rm sitemap.xml
               rm situace
-              rm statut
               rm style
               rm umluva
               rm umluva-player
-              rm vyrocni-zpravy-106
               rm vystupy
               rm vzdelavaci-akce
               rm vzor
               rm media
               rm .htaccess
-              rm obcane-eu
-              ln -s www-prod/obcane-eu obcane-eu
               ln -s www-prod/aktualne aktualne
               ln -s www-prod/alert alert
               ln -s www-prod/apple-touch-icon.png apple-touch-icon.png
@@ -130,24 +123,19 @@ jobs:
               ln -s www-prod/manual manual
               ln -s www-prod/media media
               ln -s www-prod/o-nas o-nas
-              ln -s www-prod/organizacni-rad organizacni-rad
               ln -s www-prod/podejte-stiznost podejte-stiznost
               ln -s www-prod/potrebuji-pomoc potrebuji-pomoc
-              ln -s www-prod/pravidla-komunikace pravidla-komunikace
               ln -s www-prod/pristupnost pristupnost
               ln -s www-prod/projekty projekty
               ln -s www-prod/provoz provoz
               ln -s www-prod/pusobnost pusobnost
               ln -s www-prod/robots.txt robots.txt
               ln -s www-prod/scripts scripts
-              ln -s www-prod/setreni setreni
               ln -s www-prod/sitemap.xml sitemap.xml
               ln -s www-prod/situace situace
-              ln -s www-prod/statut statut
               ln -s www-prod/style style
               ln -s www-prod/umluva umluva
               ln -s www-prod/umluva-player umluva-player
-              ln -s www-prod/vyrocni-zpravy-106 vyrocni-zpravy-106
               ln -s www-prod/vystupy vystupy
               ln -s www-prod/vzdelavaci-akce vzdelavaci-akce
               ln -s www-prod/vzor vzor
