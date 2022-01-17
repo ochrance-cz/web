@@ -581,4 +581,8 @@ lawyers:
         role: výzkumná pracovnice
         phone: 542 542 265
         email: lucie.novotna@ochrance.cz
+      - name: Tomáš Janků
+        role: "výzkumný pracovník "
+        phone: "542 542 396 "
+        email: tomas.janku@ochrance.cz
 ---
