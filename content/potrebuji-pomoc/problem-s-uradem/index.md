@@ -1,8 +1,20 @@
 ---
+title: Mám problém s úřadem nebo státní institucí
+perex: >
+  Pomůžeme vám, pokud je jednání úřadu v rozporu s právem, úřady jsou nečinné,
+  nevstřícné, pomalé a neefektivní, anebo pokud vás diskriminují.
+illustration: man-2785071_960_720.jpg
 hp: >
   Nesouhlasíte s rozhodnutím nebo postupem úřadu, úřad nejedná, i když by měl,
   rozhodování trvá dlouho, nebyl jste přizván jako účastník řízení, úředník se k
   vám chová nevhodně apod.
+we-can:
+  - Když nesouhlasíte s rozhodnutím nebo postupem úřadu
+  - Když je úřad nečinný, nevydal rozhodnutí ve stanovené lhůtě, nezahájil
+    řízení apod.
+  - Když si myslíte, že jste měl být účastníkem řízení, ale nepřizvali vás k němu
+  - Když se domníváte, že se k vám úřad nebo úředník chovají arogantně nebo
+    nevhodně.
 we-cannot:
   - S rozhodováním samosprávy obcí a měst (např. při přidělování obecních bytů,
     nakládání s majetkem obce, schvalování územních plánů apod.)
@@ -17,14 +29,14 @@ we-cannot:
     prezidenta
 examples:
   - name: pan Petr
-    desc: Pečuji o nemocnou maminku, je nemohoucí a potřebuje celodenní péči.
-      Požádali jsme pro ni o příspěvek na péči, ale úřad jí ho přiznal jen v
-      nejnižší možné výši. Za to jí pomoc nezajistíme. Obrátil jsem se proto na
-      ombudsmana. Ten zjistil, že úřad postupoval špatně a zajistil, že mamince
-      zvýšili příspěvek na péči a vyplatili jí peníze i zpětně.
+    desc: Pečuji o nemocnou maminku, je nemohoucí a potřebuje celodenní péči.
+      Požádal jsme pro ni o příspěvek na péči, ale úřad práce jí ho přiznal jen
+      v nejnižší možné výši. Odvolání nepomohlo, obrátil jsem se proto
+      na ombudsmana. Ten zjistil, že úřady postupovaly špatně a požádal ministra
+      práce a sociálních věcí, aby případ maminky znovu posoudil. Nakonec byl
+      příspěvek zvýšen a vyplacen zpětně.
   - name: paní Martina
-    desc:
-      Po opravě chodníku v obci nám začalo zatékat do garáže. Jednání s městem
+    desc: Po opravě chodníku v obci nám začalo zatékat do garáže. Jednání s městem
       nikam nevedlo, tak jsem se obrátila na ombudsmana. Poradil nám a pomohl
       situaci rychle vyřešit. Město nakonec postavilo žlaby, které vodu odvádí
       mimo naši garáž.
@@ -33,8 +45,7 @@ examples:
       jeho zásahem úřady nezohlednily, jak dlouho jsem vážně nemocná, a proto
       jsem dostávala míň peněz.
   - name: pan Lukáš
-    desc:
-      Když jsem měl problémy s dluhy a exekucí, obrátil jsem se na ombudsmana.
+    desc: Když jsem měl problémy s dluhy a exekucí, obrátil jsem se na ombudsmana.
       Vysvětlil mi sice, že nemá pravomoc moje problémy řešit, ale přesto mi moc
       pomohl. Poradil mi, jak mám postupovat, na koho se mám obrátit.
 whenToContact:
@@ -47,18 +58,6 @@ whenToContact:
   - Když se svou snahou problém řešit neuspějete, je čas obrátit se na
     ombudsmana.
 order: 1
-illustration: man-2785071_960_720.jpg
-title: Mám problém s úřadem nebo státní institucí
-perex: >
-  Pomůžeme vám, pokud je jednání úřadu v rozporu s právem, úřady jsou nečinné,
-  nevstřícné, pomalé a neefektivní, anebo pokud vás diskriminují.
-we-can:
-  - Když nesouhlasíte s rozhodnutím nebo postupem úřadu
-  - Když je úřad nečinný, nevydal rozhodnutí ve stanovené lhůtě, nezahájil
-    řízení apod.
-  - Když si myslíte, že jste měl být účastníkem řízení, ale nepřizvali vás k němu
-  - Když se domníváte, že se k vám úřad nebo úředník chovají arogantně nebo
-    nevhodně.
 button:
   text: Zjistěte, co můžete dělat
   link: /situace/statni-sprava-a-samosprava/
