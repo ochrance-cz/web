@@ -210,3 +210,9 @@ other = "Previous"
 
 [pagination-next]
 other = "Next"
+
+[research-by-year]
+other = "By year"
+
+[research-all]
+other = "All research"

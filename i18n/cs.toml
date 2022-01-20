@@ -196,3 +196,8 @@ other = "Předchozí"
 [pagination-next]
 other = "Následující"
 
+[research-by-year]
+other = "Dle roku"
+
+[research-all]
+other = "Všechny výzkumy"

@@ -1,0 +1,34 @@
+{{ define "title" }}{{ .Params.plural }}{{ end }}
+
+{{ define "main" }}
+<main>
+  {{ partial "pic-header.html" . }}
+
+  <div {{ with .Params.contentBackdrop }} class="{{ . }}"{{ end }}>
+    <section>
+      {{ with .Params.perex }}
+        <div class="perex">
+          {{ partial "md-block.html" . }}
+        </div>
+      {{ end }}
+
+      {{ .Content }}
+    </section>
+    <section class="_news single-col">
+
+        <ul class="_horizontal-list">
+          {{ with .GetPage "/vystupy/vyzkumy" }}
+            <li><a href="{{ .Permalink }}">{{ i18n "research-by-year" }}</a></li>
+          {{ end }}
+          <li><a href="{{ .Permalink }}"  class="selected">{{ i18n "research-all" }}</a></li>
+        </ul>
+
+        {{ range where (where .Site.Pages "Section" "dokument") "Kind" "page" }}
+          {{ if in .Params.vystupy "vyzkumy" }}
+            {{ partial "news-preview.html" (dict "preview" .) }}
+          {{ end }}
+        {{ end }}
+    </section>
+  </div>
+</main>
+{{ end }}

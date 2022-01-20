@@ -23,7 +23,21 @@
           {{ end }}
           {{ partial "collapsible-close.html" }}
         {{ end }}
+      {{ else if eq .RelPermalink "/vystupy/vyzkumy/" }}
+        <ul class="_horizontal-list">
+          <li><a href="{{ .Permalink }}" class="selected">{{ i18n "research-by-year" }}</a></li>
+          {{ with .GetPage "/vyzkumy-vse" }}
+            <li><a href="{{ .Permalink }}">{{ i18n "research-all" }}</a></li>
+          {{ end }}
+        </ul>
 
+        {{ range .Pages.GroupByDate "2006" }}
+          {{ partial "collapsible-open.html" (dict "id" .Key "title" (print .Key) "open" false) }}
+          {{ range .Pages }}
+            {{ partial "news-preview.html" (dict "preview" .) }}
+          {{ end }}
+          {{ partial "collapsible-close.html" }}
+        {{ end }}
       {{ else}}
         {{ $paginator := .Paginate .Pages 20 }}
 
