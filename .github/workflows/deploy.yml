@@ -72,6 +72,7 @@ jobs:
               rm images
               rm index.xml
               rm index.html
+              rm vyzkumy-vse.html
               rm info
               rm info106
               rm kontakt
@@ -115,6 +116,7 @@ jobs:
               ln -s www-prod/images images
               ln -s www-prod/index.xml index.xml
               ln -s www-prod/index.html index.html
+              ln -s www-prod/vyzkumy-vse.html vyzkumy-vse.html
               ln -s www-prod/info info
               ln -s www-prod/info106 info106
               ln -s www-prod/kontakt kontakt
