@@ -34,7 +34,7 @@
         {{ range .Pages.GroupByDate "2006" }}
           {{ partial "collapsible-open.html" (dict "id" .Key "title" (print .Key) "open" false) }}
           {{ range .Pages }}
-            {{ partial "news-preview.html" (dict "preview" .) }}
+            {{ partial "news-preview.html" (dict "preview" . "h" "4") }}
           {{ end }}
           {{ partial "collapsible-close.html" }}
         {{ end }}

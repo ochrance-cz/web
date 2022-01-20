@@ -23,7 +23,7 @@
 
       {{ with .Params.date }}
       <p class="details">
-        {{ if eq $preview.Section "aktualne" }}
+        {{ if or (eq $preview.Section "aktualne") (in $preview.Params.vystupy "vyzkumy") }}
           {{ if eq $preview.Language.Lang "en" }}
             {{ . | dateFormat "January 2, 2006"}}
           {{ else }}
@@ -34,7 +34,7 @@
       </p>
     {{ end }}
 
-      {{ partial "md-block.html" .Params.perex }}
+    {{ with .Params.perex }}{{ partial "md-block.html" . }}{{ end }}
     {{ end }}
   </div>
 </article>
