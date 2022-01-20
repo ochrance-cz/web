@@ -31,11 +31,12 @@ we-can:
     * Členství v profesních komorách a v odborech
     * Zboží a služby včetně bydlení
 we-cannot:
-  - Ombudsman se může zabývat jen diskriminací uvedenou v antidiskriminačním
-    zákoně. K diskriminaci ale může docházet i v jiných oblastech života a z
-    jiných důvodů, např. kvůli sociálnímu původu, členství v politických
-    stranách a hnutích nebo v odborových organizacích, kvůli manželskému a
-    rodinnému stavu.
+  - Ombudsman se může zabývat jen diskriminací z důvodu rasy nebo etnického
+    původu, národnosti, pohlaví, sexuální orientace, věku, zdravotního
+    postižení, náboženského vyznání nebo světového názoru. K diskriminaci ale
+    může docházet i z jiných důvodů, např. kvůli sociálnímu původu, členství v
+    politických stranách a hnutích nebo v odborových organizacích, kvůli
+    manželskému a rodinnému stavu.
   - >
     V těchto případech vám alespoň poradíme, co můžete dělat, jak můžete svůj
     problém řešit.
