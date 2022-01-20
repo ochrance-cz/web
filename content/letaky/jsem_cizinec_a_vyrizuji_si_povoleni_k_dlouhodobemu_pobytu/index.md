@@ -4,7 +4,7 @@ slug: cizinci-dlouhodoby-pobyt
 situace:
   - cestovani
 file: cizinci-dlouhodoby-pobyt.pdf
-roma: ""
-info: long-term-residence-permit-english.pdf
-infoTitle: ""
+attachments:
+  - title: English version
+    file: long-term-residence-permit-english.pdf
 ---

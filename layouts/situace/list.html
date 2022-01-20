@@ -29,11 +29,11 @@
             {{ if (in .Params.situace "Formuláře") }}
               <span class="_label">Formulář</span>
             {{ end }}
-            {{ if or (isset .Params "info") (isset .Params "roma") (isset .Params "seeing") }}
+            {{ if or (isset .Params "attachments") (isset .Params "roma") (isset .Params "seeing") }}
               <ul>
-                {{ with .Params.info }}
-                  <li><a href="{{ $path }}{{ . | replaceRE ".+/" "" }}">
-                    {{- with $params.infoTitle -}}
+                {{ range .Params.attachments }}
+                  <li><a href="{{ $path }}{{ .file | replaceRE ".+/" "" }}">
+                    {{- with .title -}}
                       {{ . }}
                     {{- else -}}
                       příloha

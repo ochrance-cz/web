@@ -1212,14 +1212,23 @@ collections:
         name: roma
         required: false
         widget: file
-      - label: Příloha
-        name: info
+      - label: Přílohy
+        name: attachments
         required: false
-        widget: file
-      - label: Název přílohy
-        name: infoTitle
-        required: false
-        widget: string
+        label_singular: Příloha
+        widget: list
+        fields: &ref_38
+          - label: Název přílohy
+            name: title
+            widget: string
+          - label: Soubor
+            name: file
+            required: false
+            widget: file
+          - label: Odkaz
+            name: link
+            required: false
+            widget: string
     create: true
     path: '{{slug}}/index'
     media_folder: ''
@@ -1229,7 +1238,7 @@ collections:
     label_singular: situace
     folder: content/situace
     extension: md
-    editor: &ref_38
+    editor: &ref_39
       preview: false
     fields:
       - label: Název situace
@@ -1239,7 +1248,7 @@ collections:
         name: slug
         required: false
         hint: 'Pouze číslice, písmena anglické abecedy, spojovník a podtržítko.'
-        pattern: &ref_39
+        pattern: &ref_40
           - '^[a-z0-9-_]+$'
           - >-
             Řetezec v adrese může obsahovat pouze číslice, písmena anglické
@@ -1264,7 +1273,7 @@ collections:
     label_singular: kategorie výstupů
     folder: content/vystupy
     extension: markdown
-    editor: &ref_40
+    editor: &ref_41
       preview: false
     fields:
       - label: Kategorie výstupu (singulár)
@@ -1281,7 +1290,7 @@ collections:
       - label: Řetezec v adrese
         name: slug
         hint: 'Pouze číslice, písmena anglické abecedy, spojovník a podtržítko.'
-        pattern: &ref_41
+        pattern: &ref_42
           - '^[a-z0-9-_]+$'
           - >-
             Řetezec v adrese může obsahovat pouze číslice, písmena anglické
@@ -1295,9 +1304,9 @@ collections:
         name: illustration
         required: false
         widget: image
-      - editor_components: &ref_42
+      - editor_components: &ref_43
           - image
-        buttons: &ref_43
+        buttons: &ref_44
           - bold
           - italic
           - link
@@ -1318,7 +1327,7 @@ collections:
     label_singular: provozní info
     folder: content/provoz
     extension: md
-    editor: &ref_44
+    editor: &ref_45
       preview: false
     fields:
       - label: Titulek
@@ -1337,7 +1346,7 @@ collections:
         required: false
         label_singular: odkaz
         widget: list
-        fields: &ref_45
+        fields: &ref_46
           - label: Odkaz
             name: link
             required: false
@@ -1355,7 +1364,7 @@ collections:
         required: false
         label_singular: odkaz
         widget: list
-        fields: &ref_46
+        fields: &ref_47
           - label: Odkaz
             name: link
             required: false
@@ -1373,7 +1382,7 @@ collections:
     label_singular: infostránka
     folder: content/info
     extension: md
-    editor: &ref_47
+    editor: &ref_48
       preview: false
     fields:
       - label: Titulek
@@ -1392,7 +1401,7 @@ collections:
         required: false
         label_singular: odkaz
         widget: list
-        fields: &ref_48
+        fields: &ref_49
           - label: Odkaz
             name: link
             required: false
@@ -1410,7 +1419,7 @@ collections:
         required: false
         label_singular: odkaz
         widget: list
-        fields: &ref_49
+        fields: &ref_50
           - label: Odkaz
             name: link
             required: false
@@ -1447,7 +1456,7 @@ collections:
     label_singular: projekt
     folder: content/projekty
     extension: md
-    editor: &ref_50
+    editor: &ref_51
       preview: false
     fields:
       - label: Název projektu
@@ -1461,7 +1470,7 @@ collections:
         name: slug
         required: false
         hint: 'Pouze číslice, písmena anglické abecedy, spojovník a podtržítko.'
-        pattern: &ref_51
+        pattern: &ref_52
           - '^[a-z0-9-_]+$'
           - >-
             Řetezec v adrese může obsahovat pouze číslice, písmena anglické
@@ -1487,7 +1496,7 @@ collections:
         label: Ilustrační obrázek
         name: illustration
         required: false
-        fields: &ref_52
+        fields: &ref_53
           - label: Obrázek
             name: pic
             required: false
@@ -1506,7 +1515,7 @@ collections:
         required: false
         label_singular: Partner
         widget: list
-        fields: &ref_53
+        fields: &ref_54
           - label: Název
             name: name
             required: false
@@ -1520,7 +1529,7 @@ collections:
         required: false
         label_singular: Fotka
         widget: list
-        fields: &ref_54
+        fields: &ref_55
           - label: Obrázek
             name: pic
             required: false
@@ -2392,14 +2401,12 @@ collections:
         name: roma
         required: false
         widget: file
-      - label: Příloha
-        name: info
+      - label: Přílohy
+        name: attachments
         required: false
-        widget: file
-      - label: Název přílohy
-        name: infoTitle
-        required: false
-        widget: string
+        label_singular: Příloha
+        widget: list
+        fields: *ref_38
     create: true
     path: '{{slug}}/index'
     media_folder: ''
@@ -2409,7 +2416,7 @@ collections:
     label_singular: situace (en)
     folder: content-en/situace
     extension: md
-    editor: *ref_38
+    editor: *ref_39
     fields:
       - label: Název situace
         name: title
@@ -2418,7 +2425,7 @@ collections:
         name: slug
         required: false
         hint: 'Pouze číslice, písmena anglické abecedy, spojovník a podtržítko.'
-        pattern: *ref_39
+        pattern: *ref_40
         widget: string
       - label: Titulek ve formě otázky
         name: questionTitle
@@ -2439,7 +2446,7 @@ collections:
     label_singular: kategorie výstupů (en)
     folder: content-en/vystupy
     extension: markdown
-    editor: *ref_40
+    editor: *ref_41
     fields:
       - label: Kategorie výstupu (singulár)
         name: title
@@ -2455,7 +2462,7 @@ collections:
       - label: Řetezec v adrese
         name: slug
         hint: 'Pouze číslice, písmena anglické abecedy, spojovník a podtržítko.'
-        pattern: *ref_41
+        pattern: *ref_42
         widget: string
       - label: Perex
         name: perex
@@ -2465,8 +2472,8 @@ collections:
         name: illustration
         required: false
         widget: image
-      - editor_components: *ref_42
-        buttons: *ref_43
+      - editor_components: *ref_43
+        buttons: *ref_44
         label: Dodatečný text stránky
         name: body
         required: false
@@ -2478,7 +2485,7 @@ collections:
     label_singular: provozní info (en)
     folder: content-en/provoz
     extension: md
-    editor: *ref_44
+    editor: *ref_45
     fields:
       - label: Titulek
         name: title
@@ -2496,7 +2503,7 @@ collections:
         required: false
         label_singular: odkaz
         widget: list
-        fields: *ref_45
+        fields: *ref_46
       - label: Text
         name: body
         required: false
@@ -2506,7 +2513,7 @@ collections:
         required: false
         label_singular: odkaz
         widget: list
-        fields: *ref_46
+        fields: *ref_47
     create: true
     path: '{{slug}}/index'
     media_folder: ''
@@ -2516,7 +2523,7 @@ collections:
     label_singular: infostránka (en)
     folder: content-en/info
     extension: md
-    editor: *ref_47
+    editor: *ref_48
     fields:
       - label: Titulek
         name: title
@@ -2534,7 +2541,7 @@ collections:
         required: false
         label_singular: odkaz
         widget: list
-        fields: *ref_48
+        fields: *ref_49
       - label: Text
         name: body
         required: false
@@ -2544,7 +2551,7 @@ collections:
         required: false
         label_singular: odkaz
         widget: list
-        fields: *ref_49
+        fields: *ref_50
     create: true
     path: '{{slug}}/index'
     media_folder: ''
@@ -2554,7 +2561,7 @@ collections:
     label_singular: projekt (en)
     folder: content-en/projekty
     extension: md
-    editor: *ref_50
+    editor: *ref_51
     fields:
       - label: Název projektu
         name: title
@@ -2567,7 +2574,7 @@ collections:
         name: slug
         required: false
         hint: 'Pouze číslice, písmena anglické abecedy, spojovník a podtržítko.'
-        pattern: *ref_51
+        pattern: *ref_52
         widget: string
       - label: Překladový klíč
         name: translationKey
@@ -2589,19 +2596,19 @@ collections:
         label: Ilustrační obrázek
         name: illustration
         required: false
-        fields: *ref_52
+        fields: *ref_53
       - label: Partneři
         name: partners
         required: false
         label_singular: Partner
         widget: list
-        fields: *ref_53
+        fields: *ref_54
       - label: Galerie
         name: gallery
         required: false
         label_singular: Fotka
         widget: list
-        fields: *ref_54
+        fields: *ref_55
     create: true
     path: '{{slug}}/index'
     media_folder: ''

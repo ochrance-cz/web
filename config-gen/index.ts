@@ -697,8 +697,7 @@ const letaky = folderCollection(
     file('Leták v PDF', 'file'),
     file('Verze pro zrakově znevýhodněné', 'seeing'),
     file('Verze v romštině', 'roma'),
-    file('Příloha', 'info'),
-    string('Název přílohy', 'infoTitle'),
+    attached(),
   ]
 );
 
