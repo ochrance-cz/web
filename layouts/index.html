@@ -1,9 +1,11 @@
 {{ define "main" }}
 <main>
   <header class="_home-header">
-    {{ $images := $.Site.GetPage "/images" }}
-    {{ with ($images.Resources.GetMatch (replaceRE "^.+images/" "" .Params.headerPic)).Resize "2000x" }}
+    {{ $images := $.Site.GetPage "media" }}
+    {{ with ($images.Resources.GetMatch .Params.headerPic) }}
+      {{ with .Resize "2000x" }}
         <img src="{{ .Permalink }}" style="aspect-ratio: {{.Width}} / {{.Height}}" width={{ .Width }} height={{.Height}}>
+      {{ end }}
     {{ end }}
     <p class="motto">{{ .Params.claim }}</p>
   </header>
