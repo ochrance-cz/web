@@ -2,22 +2,12 @@
 title: Výroční zprávy o poskytování informací podle zákona č. 106/1999 Sb
 ---
 <ul>
-	<li><a href="media/vyrocni-zprava_2020_web_poskytovani_informaci.pdf">Výroční zpráva za rok 2020</a></li>
-	<li>
-	<p><a href="media/vyrocni-zprava-2019-web_poskytovani_informaci.pdf">Výroční zpráva za rok 2019</a></p>
-	</li>
-	<li>
-	<p><a href="media/vyrocni_zprava_2018_web_poskytovani_informaci.pdf">Výroční zpráva za rok 2018</a></p>
-	</li>
-	<li>
-	<p><a href="media/vyrocni-zprava-2017_web_poskytovani_informaci.pdf">Výroční zpráva za rok 2017</a></p>
-	</li>
-	<li>
-	<p><a href="media/vyrocni-zprava-2016_web_poskytovani_informaci.pdf">Výroční zpráva za rok 2016</a></p>
-	</li>
-	<li>
-	<p><a href="/info/vyrocni-zpravy-106/2015-Vyrocni-zprava_106.pdf">Výroční zpráva za rok 2015</a></p>
-	</li>
+	<li><a href="https://www.ochrance.cz/info/vyrocni_zpravy_o_poskytovani_informaci_podle_zakona_c-_106_1999_sb/vyrocni-zprava_2020_web_poskytovani_informaci.pdf">Výroční zpráva za rok 2020</a></li>
+	<li><a href="https://www.ochrance.cz/info/vyrocni_zpravy_o_poskytovani_informaci_podle_zakona_c-_106_1999_sb/vyrocni-zprava-2019-web_poskytovani_informaci.pdf">Výroční zpráva za rok 2019</a></li>
+	<li><a href="https://www.ochrance.cz/info/vyrocni_zpravy_o_poskytovani_informaci_podle_zakona_c-_106_1999_sb/vyrocni_zprava_2018_web_poskytovani_informaci.pdf">Výroční zpráva za rok 2018</a></li>
+	<li><a href="https://www.ochrance.cz/info/vyrocni_zpravy_o_poskytovani_informaci_podle_zakona_c-_106_1999_sb/vyrocni-zprava-2017_web_poskytovani_informaci.pdf">Výroční zpráva za rok 2017</a></li>
+	<li><a href="https://www.ochrance.cz/info/vyrocni_zpravy_o_poskytovani_informaci_podle_zakona_c-_106_1999_sb/vyrocni-zprava-2016_web_poskytovani_informaci.pdf">Výroční zpráva za rok 2016</a></li>
+	<li><a href="/info/vyrocni-zpravy-106/2015-Vyrocni-zprava_106.pdf">Výroční zpráva za rok 2015</a></li>
 	<li>
 	<p><a href="/info/vyrocni-zpravy-106/2014-Vyrocni-zprava_106.pdf">Výroční zpráva za rok 2014</a></p>
 	</li>
