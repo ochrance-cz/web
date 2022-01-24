@@ -5,5 +5,5 @@ situace:
 file: organizace-uprchlicka-cizinecka-problematika.pdf
 attachments:
   - file: organizations-providing-legal-assistance-to-foreigners-and-refugees-in-the-czech-republic.pdf
-    title: příloha
+    title: anglicky
 ---
