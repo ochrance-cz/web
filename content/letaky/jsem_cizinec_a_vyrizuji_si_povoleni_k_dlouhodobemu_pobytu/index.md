@@ -5,6 +5,10 @@ situace:
   - cestovani
 file: cizinci-dlouhodoby-pobyt.pdf
 attachments:
-  - title: English version
+  - title: anglicky
     file: long-term-residence-permit-english.pdf
+  - title: rusky
+    file: long-term-residence-permit-russian.pdf
+  - title: vietnamsky
+    file: long-term-residence-permit-vietnamese.pdf
 ---
