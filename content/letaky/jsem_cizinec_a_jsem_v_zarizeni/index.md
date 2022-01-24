@@ -5,24 +5,24 @@ situace:
   - cestovani
 file: cizinci-v-zarizeni.pdf
 attachments:
-  - file: cizinci-v-zarizeni-anglicky.pdf
+  - file: long-term-residence-permit-english.pdf
     title: anglicky
-  - file: cizinci-v-zarizeni-nemecky.pdf
+  - file: long-term-residence-permit-german.pdf
     title: německy
   - title: francouzsky
-    file: cizinci-v-zarizeni-francouzsky.pdf
+    file: long-term-residence-permit-french.pdf
   - title: rusky
-    file: cizinci-v-zarizeni-rusky.pdf
+    file: long-term-residence-permit-russian.pdf
   - title: ukrajinsky
-    file: cizinci-v-zarizeni-ukrajinsky.pdf
+    file: long-term-residence-permit-ukrainian.pdf
   - title: vietnamsky
-    file: cizinci-v-zarizeni-vietnamsky.pdf
+    file: long-term-residence-permit-vietnamese.pdf
   - title: španělsky
-    file: cizinci-v-zarizeni-spanelsky.pdf
-  - file: cizinci-v-zarizeni-arabsky.pdf
+    file: long-term-residence-permit-spanish.pdf
+  - file: long-term-residence-permit-arabic.pdf
     title: arabsky
-  - file: cizinci-v-zarizeni-dari.pdf
+  - file: long-term-residence-permit-dari.pdf
     title: dari
   - title: pash
-    file: cizinci-v-zarizeni-pash.pdf
+    file: long-term-residence-permit-pash.pdf
 ---
