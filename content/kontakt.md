@@ -21,11 +21,10 @@ access:
     sídla veřejného ochránce práv je tramvají č. 4 od Hlavního nádraží. Pojedete
     směrem Masarykova čtvrť a vystoupíte na zastávce Obilní trh. Sídlo veřejného
     ochránce práv je na levé straně ulice ve směru jízdy po 50 metrech chůze.
-  universal: >
-    Návštěvníci kanceláře se zdravotním postižením mají na parkovišti u budovy
-    vyhrazena vhodná parkovací místa a pokud při příjezdu ohlásí tuto potřebu na
-    recepci, je jim zajištěn bezbariérový přístup do budovy a případná
-    asistence.
+  universal: Návštěvníci kanceláře se zdravotním postižením mají na parkovišti u
+    budovy vyhrazena vhodná parkovací místa a pokud při příjezdu ohlásí tuto
+    potřebu na recepci, je jim zajištěn bezbariérový přístup do budovy a
+    případná asistence.
   pic: /images/kontakt.jpg
 pressAgent:
   role: Tisková mluvčí (kontakt pouze pro média)
