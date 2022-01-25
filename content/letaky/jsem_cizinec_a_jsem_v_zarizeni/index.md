@@ -22,7 +22,7 @@ attachments:
   - file: foreigner-in-a-facility-arabic.pdf
     title: arabsky
   - file: foreigner-in-a-facility-dari.pdf
-    title: dari
-  - title: pash
+    title: darí
+  - title: paštunsky
     file: foreigner-in-a-facility-pash.pdf
 ---
