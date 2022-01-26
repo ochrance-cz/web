@@ -3,7 +3,11 @@ title: "Na kávu s ombudsmanem, 54. díl: Jak se zapojit do povolování stavby?
 date: 2022-01-26T08:51:00.000Z
 vystupy:
   - podcast
-perex: ""
+perex: >
+  <p>V tomto díle si budeme povídat o účastnících řízení při povolování staveb.
+  Řekneme si, kdo se může stát účastníkem řízení a jaká práva mu z účastenství
+  vyplývají. Vysvětlíme také, jak formulovat námitky proti povolované stavbě a
+  proč je důležité sledovat úřední desku obce.</p>
 ---
 
 
