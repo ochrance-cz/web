@@ -4,7 +4,7 @@ title: "Mezinárodní den ochrany osobních údajů – ombudsman v době pandem
   prokazování bezinfekčnost "
 date: 2022-01-28T11:18:04.788Z
 vystupy:
-  - vyrocni-zprava
+  - tz
 perex: >
   <p>28. leden je Mezinárodní den ochrany osobních údajů, právě v&nbsp;tento den
   totiž přijala v&nbsp;roce 1981 Rada Evropy takzvanou Úmluvu o ochraně osob se
