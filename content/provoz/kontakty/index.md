@@ -11,29 +11,50 @@ sections:
       **Mgr. Monika Šimůnková**  
       zástupkyně veřejného ochránce práv
   - title: Sekretariát veřejného ochránce práv a jeho zástupkyně
-    intro: |-
-      **Sekretariát veřejného ochránce práv**  
-      Marie Uhlerová  
+    intro: >-
+      **Sekretariát veřejného ochránce práv**\
+
+      Marie Uhlerová\
+
       tel: (+420) 542 542 777
 
-      **Sekretariát zástupkyně veřejného ochránce práv**  
-      Marie Hemalová  
+
+      **Sekretariát zástupkyně veřejného ochránce práv**\
+
+      Marie Hemalová\
+
       tel: (+420) 542 542 666
+
 
       ### **Vedoucí sekretariátu veřejného ochránce práv a jeho zástupkyně**
 
-      **Miroslav Přidal**  
-      telefon: (+420) 542 542 779  
+
+      **Miroslav Přidal**\
+
+      telefon: (+420) 542 542 779\
+
       e-mail: miroslav.pridal@ochrance.cz
+
 
       ### **Právní asistenti veřejného ochránce práv a jeho zástupkyně**
 
-      **Miroslav Frýdek**  
-      telefon: (+420) 542 542 228  
+
+      **Miroslav Frýdek**\
+
+      telefon: (+420) 542 542 228\
+
       e-mail: miroslav.frydek@ochrance.cz
 
-      **Petra Zdražilová**  
-      telefon: (+420) 542 542 308  
+
+      **Martin Studnička**                                                                                                                                       telefon: (+420) 542 542 379\
+
+      e-mail: martin.studnicka@ochrance.cz
+
+
+      **Petra Zdražilová**\
+
+      telefon: (+420) 542 542 308\
+
       e-mail: petra.zdrazilova@ochrance.cz
   - title: Vedoucí Kanceláře veřejného ochránce práv
     intro: |-
@@ -97,10 +118,6 @@ lawyers:
         role: právnička (územní a stavební řízení, ochrana vod)
         phone: 542 542 278
         email: hana.kasparkova@ochrance.cz
-      - name: Pavlína Račáková Kupková
-        role: právnička (územní a stavební řízení)
-        phone: 542 542 320
-        email: pavlina.racakovakupkova@ochrance.cz
       - name: Tomáš Maňas
         role: právník (hluk, autorské poplatky)
         phone: 542 542 397
@@ -117,10 +134,6 @@ lawyers:
         role: právník (územní a stavební řízení, ochrana vod, ovzduší, dotace)
         phone: 542 542 772
         email: david.polasek@ochrance.cz
-      - name: Martin Studnička
-        role: právník (územní a stavební řízení)
-        phone: 542 542 379
-        email: martin.studnicka@ochrance.cz
       - name: Jana Vašíková
         role: právnička (územní a stavební řízení, památková péče)
         phone: 542 542 364
@@ -177,6 +190,14 @@ lawyers:
         role: právník (katastr nemovitostí, pozemkové úřady)
         phone: 542 542 324
         email: david.vavra@ochrance.cz
+      - name: Kateřina Bartošová
+        role: právnička
+        phone: 542 542 320
+        email: "katerina.bartosova@ochrance.cz "
+      - name: Renata Krišpínová
+        role: právnička
+        phone: 542 542 331
+        email: "renata.krispinova@ochrance.cz "
   - title: Odbor sociálního zabezpečení
     intro: dávky pomoci v hmotné nouzi, příspěvek na péči, dávky pro zdravotně
       postižené, důchody, dávky nemocenského pojištění, dávky státní sociální
@@ -360,6 +381,10 @@ lawyers:
         role: právnička (sociálně-právní ochrana dětí, pěstounská péče, ústavní výchova)
         phone: 542 542 357
         email: eva.burianovaehnertova@ochrance.cz
+      - name: Veronika Čapková
+        role: právnička (sociálně-právní ochrana dětí, pěstounská péče, ústavní výchova)
+        phone: 542 542 668
+        email: "veronika.capkova@ochrance.cz "
   - title: Odbor rovného zacházení
     intro: >
       poskytování metodické pomoci obětem diskriminace, provádění výzkumu v
@@ -545,6 +570,10 @@ lawyers:
         role: "právnička "
         phone: 725 546 632
         email: veronika.vitkova@ochrance.cz
+      - name: Alena Nosková
+        phone: ""
+        email: "alena.noskova@ochrance.cz "
+        role: právnička
   - title: Odbor metodiky a analýzy
     people:
       - name: Jaroslav Švoma
@@ -569,12 +598,8 @@ lawyers:
         email: jana.peckovahodeckova@ochrance.cz
   - title: Úsek výzkumu
     people:
-      - name: Marína Urbániková
-        role: vedoucí úseku
-        phone: 542 542 355
-        email: marina.urbanikova@ochrance.cz
       - name: Jakub Konečný
-        role: výzkumný pracovník
+        role: vedoucí úseku
         phone: 542 542 232
         email: jakub.konecny@ochrance.cz
       - name: Lucie Novotná
