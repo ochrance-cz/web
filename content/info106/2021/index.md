@@ -397,47 +397,47 @@ title: 2021
 
 <h3>82/2021 &ndash; Informace z&nbsp;oblasti vězeňství</h3>
 
-<p>Ž</p>
+<p>Žádost o informace.</p>
 
-<p>O</p>
+<p><a href="https://www.ochrance.cz/info106/2021/82_2021_odpoved.odt">Odpověď na žádost</a>.</p>
 
-<p>P</p>
+<p><a href="https://www.ochrance.cz/info106/2021/82_2021_odpoved_priloha.pdf">Příloha</a>.</p>
 
 <h3>84/2021 &ndash; Informace&nbsp;ke spisům z&nbsp;oblasti Diskriminace</h3>
 
-<p>Ž</p>
+<p><a href="https://www.ochrance.cz/info106/2021/84_2021_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>O</p>
+<p><a href="https://www.ochrance.cz/info106/2021/84_2021_odpoved.rtf">Odpověď na žádost</a>.</p>
 
 <h3>85/2021 &ndash; Informace ke spisům z&nbsp;oblasti Diskriminace</h3>
 
-<p>Ž</p>
+<p><a href="https://www.ochrance.cz/info106/2021/85_2021_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>O</p>
+<p><a href="https://www.ochrance.cz/info106/2021/85_2021_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <h3>86/2021 &ndash; Informace&nbsp;k&nbsp;příspěvkům na pojištění zaměstnanců KVOP</h3>
 
-<p>Ž</p>
+<p><a href="https://www.ochrance.cz/info106/2021/86_2021_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>O</p>
+<p><a href="https://www.ochrance.cz/info106/2021/86_2021_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <h3>88/2021 &ndash; Informace&nbsp;k&nbsp;programu VOP</h3>
 
-<p>Ž</p>
+<p><a href="https://www.ochrance.cz/info106/2021/88_2021_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>O</p>
+<p><a href="https://www.ochrance.cz/info106/2021/88_2021_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <h3>89/2021 &ndash;&nbsp;Informace k&nbsp;zákonu o přestupcích</h3>
 
-<p>Ž</p>
+<p><a href="https://www.ochrance.cz/info106/2021/89_2021_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>O</p>
+<p><a href="https://www.ochrance.cz/info106/2021/89_2021_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <h3>90/2021 &ndash;&nbsp;Informace&nbsp;ke spisům z&nbsp;oblasti Diskriminace</h3>
 
-<p>Ž</p>
+<p><a href="https://www.ochrance.cz/info106/2021/90_2021_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>O</p>
+<p><a href="https://www.ochrance.cz/info106/2021/90_2021_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <h3>91/2021 &ndash;&nbsp;Informace&nbsp;z&nbsp;oblasti Sociálně-právní ochrany dětí</h3>
 
