@@ -391,15 +391,17 @@ title: 2021
 
 <h3>81/2021 &ndash; Informace ke spisům z&nbsp;oblasti Ovzduší, chemické látky, odpady a obaly</h3>
 
-<p>Ž</p>
+<p><a href="https://www.ochrance.cz/info106/2021/81_2021_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>O</p>
+<p><a href="https://www.ochrance.cz/info106/2021/81_2021_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <h3>82/2021 &ndash; Informace z&nbsp;oblasti vězeňství</h3>
 
 <p>Ž</p>
 
 <p>O</p>
+
+<p>P</p>
 
 <h3>84/2021 &ndash; Informace&nbsp;ke spisům z&nbsp;oblasti Diskriminace</h3>
 
