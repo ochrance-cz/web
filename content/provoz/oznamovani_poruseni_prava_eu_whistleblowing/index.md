@@ -29,4 +29,4 @@ title: Oznamování porušení práva EU (Whistleblowing)
 
 <p>&nbsp;</p>
 
-<p>Postup při přijímání a vyřizování oznámení se řídí <a href="https://eur-lex.europa.eu/legal-content/CS/TXT/PDF/?uri=CELEX:32019L1937&amp;from=NL">směrnicí Evropského parlamentu a Rady (EU) 2019/1937 ze dne 23. října 2019 o ochraně osob, které oznamují porušení práva Unie</a> a směrnicí vedoucího Kanceláře veřejného ochránce práv č. 2/2022, Vnitřní oznamovací systém.</p>
+<p>Postup při přijímání a vyřizování oznámení se řídí <a href="https://eur-lex.europa.eu/legal-content/CS/TXT/PDF/?uri=CELEX:32019L1937&amp;from=NL">směrnicí Evropského parlamentu a Rady (EU) 2019/1937 ze dne 23. října 2019 o ochraně osob, které oznamují porušení práva Unie</a> a <a href="smernice_c._2-2022_vnitrni_oznamovaci_system.pdf">směrnicí vedoucího Kanceláře veřejného ochránce práv č. 2/2022, Vnitřní oznamovací systém</a>.</p>
