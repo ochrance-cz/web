@@ -397,7 +397,7 @@ title: 2021
 
 <h3>82/2021 &ndash; Informace z&nbsp;oblasti vězeňství</h3>
 
-<p>Žádost o informace.</p>
+<p><a href="https://www.ochrance.cz/info106/2021/82_2021_zadost.pdf">Žádost o informace</a>.</p>
 
 <p><a href="https://www.ochrance.cz/info106/2021/82_2021_odpoved.odt">Odpověď na žádost</a>.</p>
 
