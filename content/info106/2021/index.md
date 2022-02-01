@@ -527,7 +527,7 @@ title: 2021
 
 <p><a href="https://www.ochrance.cz/info106/2021/105_2021_odpoved.odt">Odpověď na žádost</a>.</p>
 
-<p><a href="https://www.ochrance.cz/info106/2021/105_2021_odpoved_priloha.pdf">Příloha</a>.</p>
+<p><a href="https://www.ochrance.cz/info106/2021/105_2021_odpoved_priloha.pdf">Příloha</a>.&nbsp;</p>
 
 <h3>106/2021 &ndash;&nbsp;Informace&nbsp;z&nbsp;oblasti vězeňství a organizace KVOP</h3>
 
