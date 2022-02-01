@@ -389,4 +389,62 @@ title: 2021
 
 <p><a href="https://www.ochrance.cz/info106/2021/80_2021_odpoved.odt">Odpověď na žádost</a>.</p>
 
-<p>&nbsp;</p>
+<h3>81/2021 &ndash; Informace ke spisům z&nbsp;oblasti Ovzduší, chemické látky, odpady a obaly</h3>
+
+<p>Ž</p>
+
+<p>O</p>
+
+<h3>82/2021 &ndash; Informace z&nbsp;oblasti vězeňství</h3>
+
+<p>Ž</p>
+
+<p>O</p>
+
+<p>84/2021 &ndash; Informace&nbsp;ke spisům z&nbsp;oblasti Diskriminace</p>
+
+<p>85/2021 &ndash; Informace ke spisům z&nbsp;oblasti Diskriminace</p>
+
+<p>86/2021 &ndash; Informace&nbsp;k&nbsp;příspěvkům na pojištění zaměstnanců KVOP</p>
+
+<p>88/2021 &ndash; Informace&nbsp;k&nbsp;programu VOP</p>
+
+<p>89/2021 &ndash;&nbsp;Informace k&nbsp;zákonu o přestupcích</p>
+
+<p>90/2021 &ndash;&nbsp;Informace&nbsp;ke spisům z&nbsp;oblasti Diskriminace</p>
+
+<p>91/2021 &ndash;&nbsp;Informace&nbsp;z&nbsp;oblasti Sociálně-právní ochrany dětí</p>
+
+<p>92/2021 &ndash;&nbsp;Informace&nbsp;k&nbsp;občanskoprávní problematice</p>
+
+<p>93/2021 &ndash;&nbsp;Informace&nbsp;ke spisu z&nbsp;oblasti Péče o zdraví, ostatní působnost Ministerstva zdravotnictví</p>
+
+<p>94/2021 &ndash;&nbsp;Informace&nbsp;ke spisu z&nbsp;oblasti Veřejné opatrovnictví</p>
+
+<p>95/2021 &ndash;&nbsp;Informace&nbsp;k&nbsp;zaměstnancům KVOP</p>
+
+<p>96/2021 &ndash;&nbsp;Informace&nbsp;k&nbsp;programu VOP</p>
+
+<p>97/98/2021 &ndash;&nbsp;Informace ke spisu z&nbsp;oblasti Péče o zdraví, ostatní působnost Ministerstva zdravotnictví</p>
+
+<p>99/2021 &ndash;&nbsp;Informace&nbsp;ke spisu z&nbsp;oblasti Územní, stavební řízení, užívání stavby</p>
+
+<p>100/2021 &ndash;&nbsp;Informace&nbsp;ke spisu z&nbsp;oblasti Činnost Policie ČR &ndash; ostatní</p>
+
+<p>101/2021 &ndash;&nbsp;Informace&nbsp;z&nbsp;oblasti diskriminace</p>
+
+<p>102/2021 &ndash;&nbsp;Informace&nbsp;k&nbsp;právním předpisům</p>
+
+<p>103/2021 &ndash;&nbsp;Informace&nbsp;ke spisům z&nbsp;oblasti Detence &ndash; zdravotnická zařízení</p>
+
+<p>104/2021 &ndash;&nbsp;Informace&nbsp;ke spisům z&nbsp;oblasti Opatrovnictví</p>
+
+<p>105/2021 &ndash;&nbsp;Informace&nbsp;z&nbsp;oblasti vězeňství</p>
+
+<p>106/2021 &ndash;&nbsp;Informace&nbsp;z&nbsp;oblasti vězeňství a organizace KVOP</p>
+
+<p>107/2021 &ndash;&nbsp;Informace&nbsp;z&nbsp;oblasti vězeňství</p>
+
+<p>110/2021 &ndash;&nbsp;Informace&nbsp;Informace z&nbsp;oblasti Detence &ndash; zdravotnická zařízení</p>
+
+<p>111/2021 &ndash;&nbsp;Informace&nbsp;Informace z&nbsp;oblasti Detence &ndash; zdravotnická zařízení</p>
