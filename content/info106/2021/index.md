@@ -555,4 +555,4 @@ title: 2021
 
 <p><a href="https://www.ochrance.cz/info106/2021/111_2021_zadost.pdf">Žádost o informace</a>.&nbsp;</p>
 
-<p>o&nbsp;</p>
+<p><a href="https://www.ochrance.cz/info106/2021/111_2021_odpoved.odt">Odpověď na žádost</a>.</p>
