@@ -441,51 +441,53 @@ title: 2021
 
 <h3>91/2021 &ndash;&nbsp;Informace&nbsp;z&nbsp;oblasti Sociálně-právní ochrany dětí</h3>
 
-<p>Ž</p>
+<p><a href="https://www.ochrance.cz/info106/2021/91_2021_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>O</p>
+<p><a href="https://www.ochrance.cz/info106/2021/91_2021_odpoved.odt">Odpověď na žádost</a>.&nbsp;</p>
 
 <h3>92/2021 &ndash;&nbsp;Informace&nbsp;k&nbsp;občanskoprávní problematice</h3>
 
-<p>Ž</p>
+<p><a href="https://www.ochrance.cz/info106/2021/92_2021_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>O</p>
+<p><a href="https://www.ochrance.cz/info106/2021/92_2021_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <h3>93/2021 &ndash;&nbsp;Informace&nbsp;ke spisu z&nbsp;oblasti Péče o zdraví, ostatní působnost Ministerstva zdravotnictví</h3>
 
-<p>Ž</p>
+<p><a href="https://www.ochrance.cz/info106/2021/93_2021_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>O</p>
+<p><a href="https://www.ochrance.cz/info106/2021/93_2021_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <h3>94/2021 &ndash;&nbsp;Informace&nbsp;ke spisu z&nbsp;oblasti Veřejné opatrovnictví</h3>
 
-<p>Ž</p>
+<p><a href="https://www.ochrance.cz/info106/2021/94_2021_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>O</p>
+<p><a href="https://www.ochrance.cz/info106/2021/94_2021_odpoved.odt">Odpověď na žádost</a>.&nbsp;</p>
 
 <h3>95/2021 &ndash;&nbsp;Informace&nbsp;k&nbsp;zaměstnancům KVOP</h3>
 
-<p>Ž</p>
+<p><a href="https://www.ochrance.cz/info106/2021/95_2021_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>O</p>
+<p><a href="https://www.ochrance.cz/info106/2021/95_2021_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <h3>96/2021 &ndash;&nbsp;Informace&nbsp;k&nbsp;programu VOP</h3>
 
-<p>Ž</p>
+<p><a href="https://www.ochrance.cz/info106/2021/96_2021_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>O</p>
+<p><a href="https://www.ochrance.cz/info106/2021/96_2021_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <h3>97/98/2021 &ndash;&nbsp;Informace ke spisu z&nbsp;oblasti Péče o zdraví, ostatní působnost Ministerstva zdravotnictví</h3>
 
-<p>Ž</p>
+<p><a href="https://www.ochrance.cz/info106/2021/97_2021_zadost.pdf">Žádost o informace 1</a>.</p>
 
-<p>O</p>
+<p><a href="https://www.ochrance.cz/info106/2021/98_2021_zadost.pdf">Žádost o informace 2</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2021/97_98_2021_odpoved.odt">Odpověď na žádosti</a>.</p>
 
 <h3>99/2021 &ndash;&nbsp;Informace&nbsp;ke spisu z&nbsp;oblasti Územní, stavební řízení, užívání stavby</h3>
 
-<p>Ž</p>
+<p><a href="https://www.ochrance.cz/info106/2021/99_2021_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>O</p>
+<p><a href="https://www.ochrance.cz/info106/2021/99_2021_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <h3>100/2021 &ndash;&nbsp;Informace&nbsp;ke spisu z&nbsp;oblasti Činnost Policie ČR &ndash; ostatní</h3>
 
