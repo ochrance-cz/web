@@ -491,60 +491,68 @@ title: 2021
 
 <h3>100/2021 &ndash;&nbsp;Informace&nbsp;ke spisu z&nbsp;oblasti Činnost Policie ČR &ndash; ostatní</h3>
 
-<p>Ž</p>
+<p><a href="https://www.ochrance.cz/info106/2021/100_2021_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>O</p>
+<p><a href="https://www.ochrance.cz/info106/2021/100_2021_odpoved.odt">Odpověď na žádost</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2021/100_2021_odpoved_priloha.pdf">Příloha</a>.</p>
 
 <h3>101/2021 &ndash;&nbsp;Informace&nbsp;z&nbsp;oblasti diskriminace</h3>
 
-<p>Ž</p>
+<p><a href="https://www.ochrance.cz/info106/2021/101_2021_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>O</p>
+<p><a href="https://www.ochrance.cz/info106/2021/101_2021_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <h3>102/2021 &ndash;&nbsp;Informace&nbsp;k&nbsp;právním předpisům</h3>
 
-<p>Ž</p>
+<p><a href="https://www.ochrance.cz/info106/2021/102_2021_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>O</p>
+<p><a href="https://www.ochrance.cz/info106/2021/102_2021_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <h3>103/2021 &ndash;&nbsp;Informace&nbsp;ke spisům z&nbsp;oblasti Detence &ndash; zdravotnická zařízení</h3>
 
-<p>Ž</p>
+<p><a href="https://www.ochrance.cz/info106/2021/103_2021_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>O</p>
+<p><a href="https://www.ochrance.cz/info106/2021/103_2021_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <h3>104/2021 &ndash;&nbsp;Informace&nbsp;ke spisům z&nbsp;oblasti Opatrovnictví</h3>
 
-<p>Ž</p>
+<p><a href="https://www.ochrance.cz/info106/2021/104_2021_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>O</p>
+<p><a href="https://www.ochrance.cz/info106/2021/104_2021_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <h3>105/2021 &ndash;&nbsp;Informace&nbsp;z&nbsp;oblasti vězeňství</h3>
 
-<p>Ž</p>
+<p><a href="https://www.ochrance.cz/info106/2021/105_2021_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>O</p>
+<p><a href="https://www.ochrance.cz/info106/2021/105_2021_odpoved.odt">Odpověď na žádost</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2021/105_2021_odpoved_priloha.pdf">Příloha</a>.</p>
 
 <h3>106/2021 &ndash;&nbsp;Informace&nbsp;z&nbsp;oblasti vězeňství a organizace KVOP</h3>
 
-<p>Ž</p>
+<p><a href="https://www.ochrance.cz/info106/2021/106_2021_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>O</p>
+<p><a href="https://www.ochrance.cz/info106/2021/106_2021_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <h3>107/2021 &ndash;&nbsp;Informace&nbsp;z&nbsp;oblasti vězeňství</h3>
 
-<p>Ž</p>
+<p><a href="https://www.ochrance.cz/info106/2021/107_2021_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>O</p>
+<p><a href="https://www.ochrance.cz/info106/2021/107_2021_odpoved.odt">Odpověď na žádost</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2021/107_2021_odpoved_priloha.pdf">Příloha</a>.</p>
 
 <h3>110/2021 &ndash;&nbsp;Informace&nbsp;Informace z&nbsp;oblasti Detence &ndash; zdravotnická zařízení</h3>
 
-<p>Ž</p>
+<p><a href="https://www.ochrance.cz/info106/2021/110_2021_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>O</p>
+<p><a href="https://www.ochrance.cz/info106/2021/110_2021_odpoved.odt">Odpověď na žádost</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2021/110_2021_odpoved_priloha.pdf">Příloha</a>.</p>
 
 <h3>111/2021 &ndash;&nbsp;Informace&nbsp;Informace z&nbsp;oblasti Detence &ndash; zdravotnická zařízení</h3>
 
-<p>Ž</p>
+<p><a href="https://www.ochrance.cz/info106/2021/111_2021_zadost.pdf">Žádost o informace</a>.&nbsp;</p>
 
-<p>O</p>
+<p>o&nbsp;</p>
