@@ -7,7 +7,7 @@ perex: >
   <p>Nemáte dost peněz na zaplacení vyúčtování od dodavatele poslední instance
   (DPI)? Stěhujete se a nevíte, z&nbsp;čeho uhradíte výdaje spojené se
   stěhováním, kauci a případně první nájem? Jede vaše dítě na lyžák a vy
-  přemýšlíte na čem ušetřit, abyste mu ho mohli dopřát? Poradíme vám.
+  přemýšlíte,&nbsp;na čem ušetřit, abyste mu ho mohli dopřát? Poradíme vám.
   V&nbsp;novém podcastu budeme vysvětlovat, jak je to s mimořádnou okamžitou
   pomocí &ndash; jednou z&nbsp;dávek pomoci v&nbsp;hmotné nouzi.</p>
 ---
