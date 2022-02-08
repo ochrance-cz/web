@@ -8,7 +8,7 @@ linksAfter: []
 
 <ul>
 	<li><a href="http://www.ochrance.cz/aktualne/hledame_ucetni_ho_v_kancelari_verejneho_ochrance_prav/">Inzerát&nbsp;na účetní/ho</a></li>
-	<li>Inzerát na informatika/informatičku</li>
+	<li><a href="https://www.ochrance.cz/aktualne/hledame_informatika_ci_informaticku/">Inzerát na informatika/informatičku</a></li>
 </ul>
 
 <h2><strong>Stáže pro studenty právnických fakult</strong></h2>
