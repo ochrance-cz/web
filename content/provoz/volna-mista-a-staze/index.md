@@ -4,10 +4,11 @@ linksAfter: []
 ---
 <h2><strong>Volná místa</strong></h2>
 
-<p>Nyní hledáme účetní nebo účetního do ekonomického oddělení odboru vnitřní správy.</p>
+<p>Nyní hledáme účetní nebo účetního do ekonomického oddělení a informatika/informatičku.</p>
 
 <ul>
-	<li><a href="https://www.ochrance.cz/aktualne/hledame_ucetni_ho_v_kancelari_verejneho_ochrance_prav/">Inzerát</a></li>
+	<li><a href="http://www.ochrance.cz/aktualne/hledame_ucetni_ho_v_kancelari_verejneho_ochrance_prav/">Inzerát&nbsp;na účetní/ho</a></li>
+	<li>Inzerát na informatika/informatičku</li>
 </ul>
 
 <h2><strong>Stáže pro studenty právnických fakult</strong></h2>
