@@ -574,6 +574,10 @@ lawyers:
         phone: ""
         email: "alena.noskova@ochrance.cz "
         role: právnička
+      - name: Nicole Fryčová
+        role: právnička
+        phone: "542 542 273 "
+        email: "nicole.frycova@ochrance.cz "
   - title: Odbor metodiky a analýzy
     people:
       - name: Jaroslav Švoma
