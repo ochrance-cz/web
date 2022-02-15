@@ -571,7 +571,7 @@ lawyers:
         phone: 725 546 632
         email: veronika.vitkova@ochrance.cz
       - name: Alena Nosková
-        phone: ""
+        phone: "542 542 273 "
         email: "alena.noskova@ochrance.cz "
         role: právnička
       - name: Nicole Fryčová
