@@ -6,7 +6,8 @@ vystupy:
   - doporuceni
 attachmentsTop: []
 attachments:
+  - title: Rodičovství a diskriminace v práci
+    file: https://www.ochrance.cz/dokument/rodicovstvi_a_diskriminace_v_praci/rodicovstvi-a-diskriminace-doporuceni.pdf
   - file: https://www.ochrance.cz/dokument/rodicovstvi_a_diskriminace_v_praci/parenthood-and-discrimination-recommendation.pdf
     title: Parenthood and discrimination at work
 ---
-<p><a href="https://www.ochrance.cz/dokument/rodicovstvi_a_diskriminace_v_praci/rodicovstvi-a-diskriminace-doporuceni.pdf">Rodičovství a diskriminace v práci:&nbsp;praktická příručka práva na rovné zacházení rodiče na pracovním trhu</a></p>
