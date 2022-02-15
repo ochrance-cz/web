@@ -1,5 +1,5 @@
 ---
-title: Posílení aktivit  veřejného ochránce práv v ochraně lidských práv
+title: Posílení aktivit veřejného ochránce práv v ochraně lidských práv
 slug: posileni-aktivit
 translationKey: posileni-aktivit
 ongoing: true
