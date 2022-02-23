@@ -1,5 +1,6 @@
 ---
 title: Jsem v psychiatrické nemocnici (léčebně)
+slug: jsem-v-psychiatricke-nemocnici
 situace:
   - zdravotnictvi
   - rodina
