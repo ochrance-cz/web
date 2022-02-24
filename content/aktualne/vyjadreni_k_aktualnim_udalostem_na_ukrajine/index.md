@@ -11,3 +11,8 @@ perex: >
   zasáhly, a litujeme zbytečných obětí na obou stranách konfliktu. Stojíme na
   straně těch, kteří hájí lidská práva kdekoli na světě.</p>
 ---
+<p>Ukrajinským občanům žijícím v&nbsp;České republice, kteří se na nás aktuálně obracejí kvůli řešení problémů s jejich pobytem v ČR, doporučujeme sledovat webové stránky Ministerstva vnitra:&nbsp;</p>
+
+<p><a href="https://www.mvcr.cz/clanek/informace-pro-obcany-ukrajiny.aspx">https://www.mvcr.cz/clanek/informace-pro-obcany-ukrajiny.aspx</a>.</p>
+
+<p>Ministerstvo se snaží vstřícně reagovat na překotný vývoj událostí.</p>
