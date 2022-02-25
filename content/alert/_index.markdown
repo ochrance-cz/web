@@ -7,6 +7,6 @@ title: "Ministerstvo vnitra na svých internetových stránkách uvádí základ
   ukrajina@mvcr.cz.  "
 active: true
 ---
-Web Ministerstva vnitra: https://www.mvcr.cz/clanek/informace-pro-obcany-ukrajiny.aspx  
+Web Ministerstva vnitra s informacemi pro občany Ukrajiny: https://www.mvcr.cz/clanek/informace-pro-obcany-ukrajiny.aspx . 
 
 Ministerstvo zároveň děkuje občanům za projevy solidarity a uvádí, že budou rádi za nabídky ubytování hromadného typu se stravováním. Správa uprchlických zařízení za tímto účelem zřídila e-mail: **[ubytovaniukrajina@suz.cz](mailto:ubytovaniukrajina@suz.cz).**
