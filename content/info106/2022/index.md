@@ -54,3 +54,23 @@ title: "2022"
 <p><a href="https://www.ochrance.cz/info106/2022/10_2022_zadost.pdf">Žádost o informace</a>.</p>
 
 <p><a href="https://www.ochrance.cz/info106/2022/10_2022_odpoved.odt">Odpověď na žádost</a>.</p>
+
+<h3>11/2022 &ndash; Informace&nbsp;ke spisu z&nbsp;oblasti Územní, stavební řízení, užívání stavby</h3>
+
+<p>x</p>
+
+<p>y</p>
+
+<h3>12/2022 &ndash; Informace&nbsp;<strong>z oblasti připomínek VOP k návrhu zákona</strong>&nbsp;</h3>
+
+<p>x</p>
+
+<p>y</p>
+
+<h3>13/2022 &ndash; Informace&nbsp;z&nbsp;oblasti vězeňství</h3>
+
+<p>x</p>
+
+<p>y</p>
+
+<p>&nbsp;</p>
