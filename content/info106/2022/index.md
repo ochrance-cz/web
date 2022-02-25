@@ -75,15 +75,11 @@ title: "2022"
 
 <h3>14/2022 &ndash; Informace&nbsp;<strong>k&nbsp;funkci veřejného ochránce práv</strong></h3>
 
-<h3>&nbsp;</h3>
-
 <p><a href="https://www.ochrance.cz/info106/2022/14_2022_zadost.pdf">Žádost o informace</a>.</p>
 
 <p><a href="https://www.ochrance.cz/info106/2022/14_2022_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <h3>16/2022 &ndash; Informace&nbsp;<strong>ke spisu z&nbsp;oblasti Školství</strong></h3>
-
-<p>&nbsp;</p>
 
 <p><a href="https://www.ochrance.cz/info106/2022/16_2022_zadost.pdf">Žádost o informace</a>.</p>
 
