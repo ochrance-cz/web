@@ -6,5 +6,5 @@ title: "  Ministerstvo vnitra na svých internetových stránkách uvádí zákl
   informace. Případně se na ministerstvo můžete obrátit e-mailem:
   ukrajina@mvcr.cz."
 draft: false
-active: false
+active: true
 ---
