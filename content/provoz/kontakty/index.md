@@ -614,4 +614,8 @@ lawyers:
         role: "výzkumný pracovník "
         phone: "542 542 396 "
         email: tomas.janku@ochrance.cz
+      - name: Magdalena Konečná
+        role: výzkumná pracovnice
+        phone: 542 542 355
+        email: magdalena.konecna@ochrance.cz
 ---
