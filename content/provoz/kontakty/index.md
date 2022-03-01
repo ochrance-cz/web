@@ -311,10 +311,6 @@ lawyers:
         role: právnička (věci cizinců)
         phone: "542 542 366 "
         email: barbora.mazalova@ochrance.cz
-      - name: Linda Janků
-        role: "právnička "
-        phone: "542 542 318 "
-        email: linda.janku@ochrance.cz
   - title: Odbor rodiny, zdravotnictví a práce
     intro: veřejné zdravotní pojištění, stížnosti ve zdravotnictví, činnost OSPOD,
       ústavní výchova, evidence uchazečů o zaměstnání u Úřadu práce, inspekce
