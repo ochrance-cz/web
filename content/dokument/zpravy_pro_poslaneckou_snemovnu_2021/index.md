@@ -8,7 +8,7 @@ attachments: []
 ---
 <p><strong><a href="https://www.ochrance.cz/dokument/zpravy_pro_poslaneckou_snemovnu_2021/2021-iv-q.pdf">Zpráva za 4. čtvrtletí roku 2021</a></strong></p>
 
-<p>Příloha: <a href="https://www.ochrance.cz/dokument/zpravy_pro_poslaneckou_snemovnu_2021/2021-iv-q-sankce.pdf">Věci, v nichž nebylo dosaženo nápravy:</a>&nbsp;neodstranění nepovolené stavby betonové&nbsp;zdi a plotu, přítomnost zaměstnanců Kanceláře v eskortních vozidlech policie při sledování vyhoštění cizinců, MPSV odmítá opatření navrhovaná ombudsmanem,&nbsp;ochranné pásmo kolem kulturních památek,&nbsp;nezákonný postup odboru azylové a migrační politiky MV,&nbsp;</p>
+<p>Příloha: <a href="https://www.ochrance.cz/dokument/zpravy_pro_poslaneckou_snemovnu_2021/2021-iv-q-sankce.pdf">Věci, v nichž nebylo dosaženo nápravy:</a>&nbsp;neodstranění nepovolené stavby betonové&nbsp;zdi a plotu, přítomnost zaměstnanců Kanceláře v eskortních vozidlech policie při sledování vyhoštění cizinců, MPSV odmítá opatření navrhovaná ombudsmanem,&nbsp;ochranné pásmo kolem kulturních památek,&nbsp;nezákonný postup odboru azylové a migrační politiky MV</p>
 
 <p><strong><a href="https://www.ochrance.cz/dokument/zpravy_pro_poslaneckou_snemovnu_2021/2021-iii-q.pdf">Zpráva za 3. čtvrtletí roku 2021</a></strong></p>
 
