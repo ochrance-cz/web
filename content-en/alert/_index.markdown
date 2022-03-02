@@ -11,9 +11,9 @@ active: true
   [ukrajina@mvcr.cz](mailto:ukrajina@mvcr.cz)
 * найновіша інформація та посилання на пропозиції допомоги: 
   [www.nasiukrajinci.cz](http://www.nasiukrajinci.cz)
-* Консорціум недержавних організацій, що працюють з мігрантами
+* Консорціум недержавних організацій, що працюють з мігрантами:
 
   <https://www.pomahejukrajine.cz/>
-* інформація про школи
+* інформація про школи:
 
   <https://www.npi.cz/images/vzdelavani_deti_cizincu_ukrajinsky.pdf>
