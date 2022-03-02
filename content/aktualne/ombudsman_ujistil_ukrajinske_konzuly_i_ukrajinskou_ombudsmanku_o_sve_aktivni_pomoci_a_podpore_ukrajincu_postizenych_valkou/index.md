@@ -5,11 +5,11 @@ date: 2022-03-02T12:26:44.833Z
 vystupy:
   - tz
 perex: >
-  <p><strong>Veřejný ochránce práv v&nbsp;dopisech ukrajinské ombudsmance a
-  konzulce i konzulovi Ukrajiny působícím na konzulátu v Brně důrazně odsoudil
-  napadení jejich země Ruskou federací. Zároveň je ubezpečil, že
-  v&nbsp;maximální možné míře bude pomáhat Ukrajincům v&nbsp;České republice a
-  poskytovat jim podporu v&nbsp;jejich tíživé situaci. &nbsp;</strong></p>
+  <p>Veřejný ochránce práv v&nbsp;dopisech ukrajinské ombudsmance a konzulce i
+  konzulovi Ukrajiny působícím na konzulátu v Brně důrazně odsoudil napadení
+  jejich země Ruskou federací. Zároveň je ubezpečil, že v&nbsp;maximální možné
+  míře bude pomáhat Ukrajincům v&nbsp;České republice a poskytovat jim podporu
+  v&nbsp;jejich tíživé situaci. &nbsp;</p>
 ---
 <p><em>&bdquo;Veškeré podněty a dotazy související s&nbsp;probíhajícím válečným konfliktem na Ukrajině se budeme snažit vyřešit s&nbsp;patřičnou naléhavostí a v co nejkratším možném termínu, aby se pomoc ke konkrétním lidem dostala co nejdříve,&ldquo;</em> napsal ombudsman Stanislav Křeček ukrajinským konzulům. Od prvního dne války se na ombudsmana obracejí Ukrajinci s&nbsp;dotazy týkajícími se především jejich pobytu v&nbsp;Česku. Právníci jim pomáhají zorientovat se v&nbsp;množství rychle se měnících informací.</p>
 
