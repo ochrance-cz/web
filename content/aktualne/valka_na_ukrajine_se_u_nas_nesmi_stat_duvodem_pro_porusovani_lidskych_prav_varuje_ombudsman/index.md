@@ -8,8 +8,8 @@ perex: >
   <p>Veřejný ochránce práv Stanislav Křeček naléhavě připomíná, že i v&nbsp;době
   nouzového stavu mohou být práva a svobody omezeny jen na nezbytnou míru a po
   nezbytně dlouhou dobu. Upozorňuje, že práva a povinnosti uložené podle
-  antidiskriminačního zákona nemohou být ani v&nbsp;domě nouzového stavu
-  významněji omezeny, protože ta s&nbsp;důvody vyhlášení nouzového stavu nijak
+  antidiskriminačního zákona nemohou být ani v&nbsp;době nouzového stavu
+  významněji omezeny, protože ty s&nbsp;důvody vyhlášení nouzového stavu nijak
   nesouvisí.</p>
 ---
 <p>Kromě akutní pomoci lidem prchajícím před válkou na Ukrajině je podle ombudsmana zásadní od začátku předcházet porušování práv všech zasažených konfliktem. Varuje jak před možným vykořisťováním příchozích, tak před &bdquo;samozvanými sankcemi&ldquo; jednotlivců vůči občanům Ruska žijícím u nás, jako může být omezení přístupu ke službám nebo nerovné zacházení v&nbsp;práci.</p>
