@@ -30,9 +30,7 @@ active: true
 
   Відповіді на питання, які можеть тебе тепер  турбувати
 
-<https://deti.ochrance.cz/aktuality/dlja-ditei-z-ukrajini-vid-ombudsmana-ombudsman-detem-z-ukrajiny/>
-
-
+  <https://deti.ochrance.cz/aktuality/dlja-ditei-z-ukrajini-vid-ombudsmana-ombudsman-detem-z-ukrajiny/>
 
 **Детальніша інфромація щодо перебування в Чеській Республіці**
 
