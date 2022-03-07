@@ -58,7 +58,7 @@ active: true
 
 [Якщо це собака, кіт чи фретка(домашній тхір), дійте наступним чином:](https://www.ochrance.cz/letaky/letak-zvirata-ua/letak-zvirata-ua.pdf)
 
-**[](https://www.ochrance.cz/letaky/letak-zvirata-ua/letak-zvirata-ua.pdf)1.** Перших **10 днів** тваринку постійно тримайте біля себе;
+[](https://www.ochrance.cz/letaky/letak-zvirata-ua/letak-zvirata-ua.pdf)**1.** Перших **10 днів** тваринку постійно тримайте біля себе;
 
 **2.** До **72 год** зверніться з твариною до ветеринара – ветеринар тваринку огляне та надасть мікрочіп – список ветеринарів знайдете тут:  <https://www.vetkom.cz/seznam-veterinaru/>
 
