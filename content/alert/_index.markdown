@@ -26,6 +26,13 @@ active: true
 * [CZTN](https://cztn.cz/) готовий надати будь-яку допомогу у спілкуванні, якщо до нас звернуться глухі українці чи їхні родини, або допомогти надати супутні послуги.
 
   <https://www.youtube.com/watch?v=jtZAZAf0ORI> 
+* Для дітей з України від Омбудсмана
+
+  Відповіді на питання, які можеть тебе тепер  турбувати
+
+<https://deti.ochrance.cz/aktuality/dlja-ditei-z-ukrajini-vid-ombudsmana-ombudsman-detem-z-ukrajiny/>
+
+
 
 **Детальніша інфромація щодо перебування в Чеській Республіці**
 
