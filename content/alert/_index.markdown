@@ -20,6 +20,10 @@ active: true
 * інформація про школи:
 
   <https://www.npi.cz/images/vzdelavani_deti_cizincu_ukrajinsky.pdf>
+
+  <https://shkola.cz/uk/index.html>
+
+  <https://detiukrajiny.cz/ua/>
 * Список Контактних допоміжних центрів допомоги Україні 
 
   https://www.mvcr.cz/clanek/seznam-kontaktnich-asistencnich-center-pomoci-ukrajine.aspx 
