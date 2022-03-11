@@ -27,6 +27,10 @@ active: true
 * [CZTN](https://cztn.cz/) готовий надати будь-яку допомогу у спілкуванні, якщо до нас звернуться глухі українці чи їхні родини, або допомогти надати супутні послуги.
 
   <https://www.youtube.com/watch?v=jtZAZAf0ORI>
+
+  Facebook Group: <https://www.facebook.com/groups/3810464052511496>
+
+  E-mail: neslysiciukrajinci@gmail.com
 * Для дітей з України від Омбудсмана
 
   Відповіді на питання, які можеть тебе тепер  турбувати
