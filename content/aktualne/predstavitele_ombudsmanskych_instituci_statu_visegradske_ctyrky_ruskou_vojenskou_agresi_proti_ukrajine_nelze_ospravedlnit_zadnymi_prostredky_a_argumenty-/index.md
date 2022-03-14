@@ -10,9 +10,7 @@ perex: >
   společném prohlášení odsoudili ruský vojenský útok na Ukrajinu. Ruské vojenské
   akce podle nich představují hrubé a bezprecedentní porušení mezinárodního
   práva a útok na hodnoty demokratické a civilizované společnosti.</p>
-attachments:
-  - file: https://www.ochrance.cz/aktualne/predstavitele_ombudsmanskych_instituci_statu_visegradske_ctyrky_ruskou_vojenskou_agresi_proti_ukrajine_nelze_ospravedlnit_zadnymi_prostredky_a_argumenty-/v4_ombudsmen_-_joint_statement.pdf
-    title: Společné prohlášení ombudsmanů států V4
+attachments: []
 ---
 <p>Ve společném prohlášení ombudsmani upozorňují, že právě země Visegrádské čtyřky patří a s největší pravděpodobností budou patřit mezi státy, které přijmou obrovské množství uprchlíků z Ukrajiny. <em>&bdquo;Jako ombudsmani těchto států se domníváme, že je naší právní i morální povinností poskytnout účinnou a včasnou podporu a pomoc ukrajinským občanům a všem lidem prchajícím z válkou zmítané Ukrajiny na naše území, se zvláštním zřetelem na nejzranitelnější skupiny osob, jako jsou děti, starší osoby, osoby se zdravotním postižením nebo těhotné ženy,&ldquo;</em> uvádějí v&nbsp;prohlášení.</p>
 
