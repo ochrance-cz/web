@@ -21,3 +21,7 @@ attachments:
 <p>Ombudsmani V4 také odsoudili všechny ruské vojenské akce namířené proti civilistům a civilním objektům i jakákoli jiná porušení mezinárodního humanitárního práva. Vítají proto předběžné opatření Evropského soudu pro lidská práva. V něm žádá vládu Ruska, aby se zdržela vojenských útoků proti civilistům a civilním objektům, včetně obytných prostor, vozidel záchranné služby a dalších zvláště chráněných civilních objektů, jako jsou školy a nemocnice, a aby okamžitě zajistila bezpečnost zdravotnických zařízení, personálu a vozidel záchranné služby na území, které je napadeno nebo obléháno ruskými vojsky.</p>
 
 <p><em>&bdquo;Upřímně si přejeme a doufáme, že ozbrojený konflikt bude co nejdříve ukončen diplomatickým úsilím a bez dalšího zbytečného krveprolití,&ldquo; </em>shodli se představitelé ombudsmanských institucí států Visegrádské čtyřky.</p>
+
+<p>&nbsp;</p>
+
+<h3><a href="https://www.ochrance.cz/aktualne/predstavitele_ombudsmanskych_instituci_statu_visegradske_ctyrky_ruskou_vojenskou_agresi_proti_ukrajine_nelze_ospravedlnit_zadnymi_prostredky_a_argumenty-/v4-ombudsmen-joint-statement.pdf">Společné prohlášení ombudsmanů států V4</a></h3>
