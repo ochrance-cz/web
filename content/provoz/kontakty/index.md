@@ -303,10 +303,6 @@ lawyers:
         role: právnička (věci cizinců)
         phone: 542 542 229
         email: veronika.vichova@ochrance.cz
-      - name: Marie Poppeová
-        role: "právnička (státní správa soudů) "
-        phone: "542 542 321 "
-        email: marie.poppeova@ochrance.cz
       - name: Barbora Mazalová
         role: právnička (věci cizinců)
         phone: "542 542 366 "
