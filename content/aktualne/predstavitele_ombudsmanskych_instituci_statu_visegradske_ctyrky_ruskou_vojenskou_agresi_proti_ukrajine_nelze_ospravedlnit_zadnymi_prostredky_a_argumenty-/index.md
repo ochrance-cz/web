@@ -24,4 +24,4 @@ attachments:
 
 <p>&nbsp;</p>
 
-<h3><a href="https://www.ochrance.cz/aktualne/predstavitele_ombudsmanskych_instituci_statu_visegradske_ctyrky_ruskou_vojenskou_agresi_proti_ukrajine_nelze_ospravedlnit_zadnymi_prostredky_a_argumenty-/v4-ombudsmen-joint-statement.pdf">Společné prohlášení ombudsmanů států V4</a></h3>
+<h3>&nbsp;</h3>
