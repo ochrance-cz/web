@@ -4,12 +4,9 @@ linksAfter: []
 ---
 <h2><strong>Volná místa</strong></h2>
 
-<p>Nyní hledáme účetní nebo účetního do ekonomického oddělení a informatika/informatičku.</p>
+<p>Nyní neprobíhá žádné výběrové řízení.</p>
 
-<ul>
-	<li><a href="http://www.ochrance.cz/aktualne/hledame_ucetni_ho_v_kancelari_verejneho_ochrance_prav/">Inzerát&nbsp;na účetní/ho</a></li>
-	<li><a href="https://www.ochrance.cz/aktualne/hledame_informatika_ci_informaticku/">Inzerát na informatika/informatičku</a></li>
-</ul>
+<p>Pokud se přesto chcete ucházet o místo, pošlete nám svůj životopis na adresu <a href="mailto:lzicarova@ochrance.cz">lzicarova@ochrance.cz</a> a napište, o jakou práci máte zájem.</p>
 
 <h2><strong>Stáže pro studenty právnických fakult</strong></h2>
 
