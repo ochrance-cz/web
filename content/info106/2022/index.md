@@ -19,6 +19,12 @@ title: "2022"
 
 <p><a href="https://www.ochrance.cz/info106/2022/3_2022.odt">Odpověď na žádost</a>.</p>
 
+<h3>4/2022 &ndash; Informace ke spisu z&nbsp;oblasti Ochrana dětí, mládeže a rodiny</h3>
+
+<p><a href="https://www.ochrance.cz/info106/2022/4_2022_zadost.pdf">Žádost o informace</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2022/4_2022_odpoved.odt">Odpověď na žádost</a>.</p>
+
 <h3>5/2022 &ndash; Informace&nbsp;ke spisu z&nbsp;oblasti Ochrany životního prostředí</h3>
 
 <p><a href="https://www.ochrance.cz/info106/2022/5_2022_zadost.pdf">Žádost o informace</a>.</p>
@@ -84,3 +90,39 @@ title: "2022"
 <p><a href="https://www.ochrance.cz/info106/2022/16_2022_zadost.pdf">Žádost o informace</a>.</p>
 
 <p><a href="https://www.ochrance.cz/info106/2022/16_2022_odpoved.odt">Odpověď na žádost</a>.</p>
+
+<h3>17/2022 &ndash; Informace ke spisům z&nbsp;oblasti Diskriminace</h3>
+
+<p><a href="https://www.ochrance.cz/info106/2022/17_2022_zadost.pdf">Žádost o informace</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2022/17_2022_odpoved.odt">Odpověď na žádost</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2022/17_2022_odpoved_priloha.pdf">Příloha</a>.</p>
+
+<h3>20/2022 &ndash; Informace k&nbsp;rozpočtu KVOP</h3>
+
+<p><a href="https://www.ochrance.cz/info106/2022/20_2022_zadost.pdf">Žádost o informace</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2022/20_2022_odpoved.odt">Odpověď na žádost</a>.</p>
+
+<h3>21/2022 &ndash; Informace k&nbsp;rozpočtu KVOP a z&nbsp;oblasti vězeňství</h3>
+
+<p><a href="https://www.ochrance.cz/info106/2022/21_2022_zadost.pdf">Žádost o informace</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2022/21_2022_odpoved.odt">Odpověď na žádost</a>.</p>
+
+<h3>24/2022 &ndash; Informace</h3>
+
+<p><a href="https://www.ochrance.cz/info106/2022/24_2022_zadost.pdf">Žádost o informace</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2022/24_2022_odpoved.odt">Odpověď na žádost</a>.</p>
+
+<h3>26/2022 &ndash; Informace k VOP</h3>
+
+<p><a href="https://www.ochrance.cz/info106/2022/26_2022_zadost.pdf">Žádost o informace</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2022/26_2022_odpoved.odt">Odpověď na žádost</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2022/26_2022_odpoved_priloha_c.1.pdf">Příloha 1</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2022/26_2022_odpoved_priloha_c.2.docx">Příloha 2</a>.</p>
