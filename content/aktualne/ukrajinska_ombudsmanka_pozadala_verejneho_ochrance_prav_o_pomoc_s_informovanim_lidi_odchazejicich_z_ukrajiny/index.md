@@ -19,6 +19,6 @@ perex: >
 
 <p>Upozornila také, že podle dostupných informací odváží vojáci lidi z&nbsp;obsazených oblastí proti jejich vůli na území Ruské federace. Podle odhadů už může jít o 366.000 lidí odvezených z&nbsp;Ukrajiny. Lidé, se kterými se úřad ombudsmanky dokázal spojit, uváděli, že si nesměli vzít osobní věci ani doklady.</p>
 
-<p>V&nbsp;rámci Ukrajiny se podle ombudsmanky vydalo do bezpečnějších oblastí na 6 milionů lidí. Dalšího 3,5 milionu lidí zvolilo emigraci, mezi ni i je i 1,5 milionu dětí.</p>
+<p>V&nbsp;rámci Ukrajiny se podle ombudsmanky vydalo do bezpečnějších oblastí na 6 milionů lidí. Dalšího 3,5 milionu lidí zvolilo emigraci, mezi nimi je i 1,5 milionu dětí.</p>
 
 <p>Veřejný ochránce práv ujistil ukrajinskou ombudsmanku, že lidé přicházející do Česka mají k&nbsp;dispozici veškerou možnou pomoc týkající se pobytu, ubytování, materiálního zabezpečení i například vzdělávání dětí. Ubezpečil ji také, že v&nbsp;rámci svého mandátu dohlíží na ochranu práv příchozích.</p>
