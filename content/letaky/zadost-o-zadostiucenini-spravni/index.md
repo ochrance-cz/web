@@ -1,10 +1,10 @@
 ---
 title: Žádost o přiměřené zadostiučinění za nepřiměřenou délku správního řízení
-file: Formular-ZADOSTIUCINENI_delka_SPRAVNIHO_rizeni.doc
-attachments:
-  - file: Formular-ZADOSTIUCINENI_delka_SPRAVNIHO_rizeni_Priloha.docx
-    title: příloha
 situace:
   - soudy
   - formulare
+file: formular-zadostiucineni_delka_spravniho_rizeni.docx
+attachments:
+  - file: formular-zadostiucineni_delka_spravniho_rizeni_priloha.pdf
+    title: příloha
 ---
