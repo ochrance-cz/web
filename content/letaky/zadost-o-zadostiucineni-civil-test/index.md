@@ -1,10 +1,11 @@
 ---
-title: Žádost o zadostiučinění za nemajetkovou újmu způsobenou nepřiměřenou délkou civilního nebo trestního soudního řízení
-file: Zadostiucineni-za-neprimerenou-delku-soudniho-rizeni.pdf
-attachments:
-  - file: Zadostiucineni-za-neprimerenou-delku-soudniho-rizeni_Priloha.pdf
-    title: příloha
+title: Žádost o zadostiučinění za nemajetkovou újmu způsobenou nepřiměřenou
+  délkou civilního nebo trestního soudního řízení
 situace:
   - soudy
   - formulare
+file: zadostiucineni-za-neprimerenou-delku-soudniho-rizeni.docx
+attachments:
+  - file: zadostiucineni-za-neprimerenou-delku-soudniho-rizeni_priloha.pdf
+    title: příloha
 ---
