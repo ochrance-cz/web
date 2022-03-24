@@ -5,11 +5,11 @@ date: 2022-03-24T11:12:58.542Z
 vystupy:
   - news
 perex: >
-  <p>At online meeting, Ukrainian ombudswoman Lyudmyla Denisova appreciated the
-  activities of Czech ombudsman in connection with the arrival of people from
-  war-affected Ukraine. She also asked ombudsman Stanislav Křeček to share his
-  information leaflets and other materials and links to help people who flee
-  Ukraine facilitate &nbsp;their stay in the Czech Republic.</p>
+  <p>At online meeting, Ukrainian ombudswoman Lyudmyla Denisova appreciated
+  activities of Czech ombudsman regarding arrivals of people from war-affected
+  Ukraine. She also asked ombudsman Stanislav Křeček to share his information
+  leaflets and other materials and links to help people who flee Ukraine
+  facilitate &nbsp;their stay in the Czech Republic.</p>
 ---
 <p>The Ukrainian ombudswoman wants to share materials of Czech ombudsman on her website and social networks to people who are considering leaving the country. Her Office will also use them as a source of information for operators of its own 24-hour information line. The hotline receives calls from both people who are currently planning to leave the country and those who have already left.</p>
 
