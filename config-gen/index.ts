@@ -670,6 +670,7 @@ const vystupy = folderCollection(
     text('Perex', 'perex'),
     image('Ilustrační obrázek', 'illustration'),
     markdown('Dodatečný text stránky', 'body'),
+    file('Pole pro nahrávání souborů', 'file'),
   ]
 );
 

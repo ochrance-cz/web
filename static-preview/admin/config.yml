@@ -1320,6 +1320,10 @@ collections:
         name: body
         required: false
         widget: markdown
+      - label: Pole pro nahrávání souborů
+        name: file
+        required: false
+        widget: file
     create: true
     path: '{{slug}}/_index'
     media_folder: ''
@@ -2480,6 +2484,10 @@ collections:
         name: body
         required: false
         widget: markdown
+      - label: Pole pro nahrávání souborů
+        name: file
+        required: false
+        widget: file
     create: true
     path: '{{slug}}/_index'
     media_folder: ''
