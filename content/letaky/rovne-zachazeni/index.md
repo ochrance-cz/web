@@ -6,5 +6,5 @@ situace:
   - lide-se-zdravotnim-postizenim
   - prace
 file: rovne-zachazeni.pdf
-roma: Romsky-Diskriminace.pdf
+roma: romsky-diskriminace.pdf
 ---
