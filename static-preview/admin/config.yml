@@ -1322,6 +1322,8 @@ collections:
         widget: markdown
     create: true
     path: '{{slug}}/_index'
+    media_folder: ''
+    public_folder: ''
   - name: provoz
     label: Provoz
     label_singular: provozní info
@@ -2480,6 +2482,8 @@ collections:
         widget: markdown
     create: true
     path: '{{slug}}/_index'
+    media_folder: ''
+    public_folder: ''
   - name: provoz-en
     label: Provoz (EN)
     label_singular: provozní info (en)

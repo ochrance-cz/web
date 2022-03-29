@@ -1,5 +1,5 @@
 ---
-title: Edice stanoviska
+title: Edice Stanoviska
 perex: Od roku 2007 vydává ombudsman tematické publikace v ediční řadě Stanoviska. Publikace jsou určeny úřadům a dalším institucím jako určitá metodická pomůcka. Obsahují totiž vysvětlení témat a pojmů, uvádějí přehled právních předpisů a důležitých soudních rozhodnutí a především veškerou problematiku ukazují na konkrétních případech, kterými se ombudsman zabýval. Publikace je ale užitečná i pro neodborníky, protože jim umožní zorientovat se v tématu a seznámit se se svými právy.
 ---
 

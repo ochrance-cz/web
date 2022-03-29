@@ -659,6 +659,8 @@ const vystupy = folderCollection(
     path: '{{slug}}/_index',
     extension: 'markdown',
     create: true,
+    media_folder: '',
+    public_folder: '',
   },
   [
     title('Kategorie výstupu (singulár)'),

@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "fixCsv": "cd content/instituce/eso && iconv -f cp1250 -t utf8 export.csv | sed 's/\"/\"\"/g' | sed 's/;/\",\"/g' | sed 's/^/\"/g' | sed 's/$/\"/g' > export.fixed.csv",
-    "build": "deno run --allow-write ./config-gen/index.ts",
+    "build": "deno run --no-check --allow-write ./config-gen/index.ts",
     "buildEditor": "webpack",
     "buildEditor:watch": "webpack --watch --progress"
   },
