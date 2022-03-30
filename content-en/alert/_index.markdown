@@ -21,6 +21,8 @@ active: true
   <https://shkola.cz/uk/index.html>
 
   <https://detiukrajiny.cz/ua/>
+
+  <https://www.studyin.cz/ukraine/>
 * Список Контактних допоміжних центрів допомоги Україні 
 
   https://www.mvcr.cz/clanek/seznam-kontaktnich-asistencnich-center-pomoci-ukrajine.aspx 
@@ -36,8 +38,6 @@ active: true
   Відповіді на питання, які можеть тебе тепер  турбувати
 
   <https://deti.ochrance.cz/aktuality/dlja-ditei-z-ukrajini-vid-ombudsmana-ombudsman-detem-z-ukrajiny/>
-
-
 
 **Детальніша інфромація щодо перебування в Чеській Республіці**
 
@@ -56,8 +56,6 @@ active: true
 З тимчасовою візою ви маєте вільний доступ до ринку праці, тому ви можете почати працювати відразу,без необхідності отримання дозволу на роботу
 
 Ви маєте право на гуманітарну допомогу у розмірі 5000 чеських крон( також можна подати заявку онлайн) - інформація тут: <https://www.uradprace.cz/>
-
-
 
 **Ви привезли разом з собою з України до Чеської Республіки домашню тваринку?**
 
