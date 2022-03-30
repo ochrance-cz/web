@@ -24,9 +24,11 @@ active: true
   [](<* https://www.edu.cz/ukrajina/%d0%b4%d0%bb%d1%8f-%d1%83%d0%ba%d1%80%d0%b0%d1%97%d0%bd%d1%86%d1%96%d0%b2/>)<https://shkola.cz/uk/index.html>
 
   <https://detiukrajiny.cz/ua/>
-* Список Контактних допоміжних центрів допомоги Україні 
 
-  https://www.mvcr.cz/clanek/seznam-kontaktnich-asistencnich-center-pomoci-ukrajine.aspx 
+  <https://www.studyin.cz/ukraine/>
+
+  Список Контактних допоміжних центрів допомоги Україні 
+* https://www.mvcr.cz/clanek/seznam-kontaktnich-asistencnich-center-pomoci-ukrajine.aspx 
 * [CZTN](https://cztn.cz/) готовий надати будь-яку допомогу у спілкуванні, якщо до нас звернуться глухі українці чи їхні родини, або допомогти надати супутні послуги.
 
   <https://www.youtube.com/watch?v=jtZAZAf0ORI> 
@@ -39,8 +41,6 @@ active: true
   Відповіді на питання, які можеть тебе тепер  турбувати
 
   <https://deti.ochrance.cz/aktuality/dlja-ditei-z-ukrajini-vid-ombudsmana-ombudsman-detem-z-ukrajiny/>
-
-
 
 **Детальніша інфромація щодо перебування в Чеській Республіці**
 
@@ -59,8 +59,6 @@ active: true
 З тимчасовою візою ви маєте вільний доступ до ринку праці, тому ви можете почати працювати відразу,без необхідності отримання дозволу на роботу
 
 Ви маєте право на гуманітарну допомогу у розмірі 5000 чеських крон( також можна подати заявку онлайн) - інформація тут: <https://www.uradprace.cz/>
-
-
 
 **Ви привезли разом з собою з України до Чеської Республіки домашню тваринку?**
 
