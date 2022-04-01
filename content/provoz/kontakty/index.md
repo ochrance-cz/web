@@ -307,6 +307,10 @@ lawyers:
         role: právnička (věci cizinců)
         phone: "542 542 366 "
         email: barbora.mazalova@ochrance.cz
+      - name: Eva Burianová Ehnertová
+        role: právnička
+        phone: 542 542 357
+        email: eva.burianovaehnertova@ochrance.cz
   - title: Odbor rodiny, zdravotnictví a práce
     intro: veřejné zdravotní pojištění, stížnosti ve zdravotnictví, činnost OSPOD,
       ústavní výchova, evidence uchazečů o zaměstnání u Úřadu práce, inspekce
@@ -373,10 +377,6 @@ lawyers:
         role: právnička (sociálně-právní ochrana dětí, ústavní výchova, pěstounská péče)
         phone: 542 542 372
         email: alice.zizlavska@ochrance.cz
-      - name: Eva Burianová Ehnertová
-        role: právnička (sociálně-právní ochrana dětí, pěstounská péče, ústavní výchova)
-        phone: 542 542 357
-        email: eva.burianovaehnertova@ochrance.cz
       - name: Veronika Čapková
         role: právnička (sociálně-právní ochrana dětí, pěstounská péče, ústavní výchova)
         phone: 542 542 668
@@ -596,6 +596,10 @@ lawyers:
         role: "právnička "
         phone: 542 542 313
         email: jana.peckovahodeckova@ochrance.cz
+      - name: Barbora Kubíková
+        role: právnička
+        phone: 542 542 356
+        email: barbora.kubikova@ochrance.cz
   - title: Úsek výzkumu
     people:
       - name: Jakub Konečný
