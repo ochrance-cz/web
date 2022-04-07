@@ -308,7 +308,7 @@ lawyers:
         phone: "542 542 366 "
         email: barbora.mazalova@ochrance.cz
       - name: Eva Burianová Ehnertová
-        role: právnička
+        role: právnička (státní správa soudů)
         phone: 542 542 357
         email: eva.burianovaehnertova@ochrance.cz
   - title: Odbor rodiny, zdravotnictví a práce
