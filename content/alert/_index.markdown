@@ -29,6 +29,8 @@ active: true
 
   Список Контактних допоміжних центрів допомоги Україні 
 * https://www.mvcr.cz/clanek/seznam-kontaktnich-asistencnich-center-pomoci-ukrajine.aspx 
+
+  {{< youtube "BygfkpFbIn8" >}}
 * [CZTN](https://cztn.cz/) готовий надати будь-яку допомогу у спілкуванні, якщо до нас звернуться глухі українці чи їхні родини, або допомогти надати супутні послуги.
 
   <https://www.youtube.com/watch?v=jtZAZAf0ORI> 
