@@ -512,10 +512,6 @@ lawyers:
         role: právník
         phone: 542 542 315
         email: milan.svoboda@ochrance.cz
-      - name: "Gabriela Mazúrová "
-        role: "právnička "
-        phone: 542 542 373
-        email: gabriela.mazurova@ochrance.cz
       - name: Tereza Žuffová-Kunčová
         role: "právnička "
         phone: "542 542 330 "
