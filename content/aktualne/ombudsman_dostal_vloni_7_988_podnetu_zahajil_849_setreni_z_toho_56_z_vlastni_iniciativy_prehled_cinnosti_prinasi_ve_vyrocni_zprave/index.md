@@ -1,7 +1,7 @@
 ---
 title: Ombudsman dostal vloni 7 988 podnětů, zahájil 849 šetření, z toho 56 z
   vlastní iniciativy – přehled činnosti přináší ve výroční zprávě
-draft: true
+draft: false
 date: 2022-04-13T05:55:51.234Z
 vystupy:
   - tz
