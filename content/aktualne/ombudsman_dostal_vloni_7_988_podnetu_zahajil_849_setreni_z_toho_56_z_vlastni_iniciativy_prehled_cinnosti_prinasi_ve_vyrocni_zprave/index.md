@@ -10,6 +10,9 @@ perex: >
   ní Poslaneckou sněmovnu. Ve zprávě shrnuje své poznatky za uplynulý rok,
   nejčastější podněty a problémy, ale také doporučení ke změnám právních
   předpisů nebo vydané sankce v případech, kdy nedosáhl nápravy.</p>
+attachments:
+  - file: https://www.ochrance.cz/aktualne/ombudsman_dostal_vloni_7_988_podnetu_zahajil_849_setreni_z_toho_56_z_vlastni_iniciativy_prehled_cinnosti_prinasi_ve_vyrocni_zprave/vyznamne_momenty_roku_2021.pdf
+    title: Významné momenty roku 2021
 ---
 <p>V roce 2021 přišlo ombudsmanovi 7 988 podnětů, celých 70 % z&nbsp;nich spadalo do působnosti veřejného ochránce práv a mohl se jimi zabývat. Po poklesu v prvním&nbsp;&bdquo;covidovém&ldquo; roce tak podíl podnětů v&nbsp;působnosti vloni opět stoupl.</p>
 
