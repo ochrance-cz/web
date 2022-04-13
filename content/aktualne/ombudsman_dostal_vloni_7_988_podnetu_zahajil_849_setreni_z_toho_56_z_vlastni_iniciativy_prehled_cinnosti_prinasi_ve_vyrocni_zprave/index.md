@@ -54,3 +54,5 @@ perex: >
 <h3><strong>Vybraná fakta</strong></h3>
 
 <p><img alt="1.png" src="https://www.ochrance.cz/aktualne/ombudsman_dostal_vloni_7_988_podnetu_zahajil_849_setreni_z_toho_56_z_vlastni_iniciativy_prehled_cinnosti_prinasi_ve_vyrocni_zprave/1.png" /><img alt="2.png" src="https://www.ochrance.cz/aktualne/ombudsman_dostal_vloni_7_988_podnetu_zahajil_849_setreni_z_toho_56_z_vlastni_iniciativy_prehled_cinnosti_prinasi_ve_vyrocni_zprave/2.png" /></p>
+
+<h3>&nbsp;</h3>
