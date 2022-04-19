@@ -381,6 +381,10 @@ lawyers:
         role: právnička (sociálně-právní ochrana dětí, pěstounská péče, ústavní výchova)
         phone: 542 542 668
         email: "veronika.capkova@ochrance.cz "
+      - name: Michaela Přetáková
+        role: právnička (správa na úseku zdravotnictví)
+        phone: 542 542 333
+        email: michaela.pretakova@ochrance.cz
   - title: Odbor rovného zacházení
     intro: >
       poskytování metodické pomoci obětem diskriminace, provádění výzkumu v
