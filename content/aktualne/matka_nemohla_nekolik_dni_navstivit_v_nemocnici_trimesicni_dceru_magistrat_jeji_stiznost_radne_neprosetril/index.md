@@ -1,7 +1,7 @@
 ---
 title: Matka nemohla několik dní navštívit v nemocnici tříměsíční dceru,
   magistrát její stížnost řádně neprošetřil
-draft: true
+draft: false
 date: 2022-04-20T09:52:06.529Z
 vystupy:
   - tz
