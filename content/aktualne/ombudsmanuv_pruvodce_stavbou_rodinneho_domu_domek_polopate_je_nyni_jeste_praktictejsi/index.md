@@ -12,6 +12,9 @@ perex: >
   popisného &ndash; a to polopatě. Nyní jsme web ještě doplnili o nahraná audia,
   v nichž na jednoduchých kauzách z&nbsp;praxe ochránce vysvětlujeme
   problematická stavební témata.&nbsp;</p>
+attachments:
+  - file: https://www.ochrance.cz/aktualne/ombudsmanuv_pruvodce_stavbou_rodinneho_domu_domek_polopate_je_nyni_jeste_praktictejsi/domek_polopate_-_letak.pdf
+    title: Leták s odkazy
 ---
 <p>Web je postaven na základě zkušeností ombudsmana. Vychází z&nbsp;témat z&nbsp;oblasti stavebnictví, se kterými se stěžovatelé na ombudsmana nejčastěji obracejí. Lidé většinou řeší problémy s umisťováním staveb a jejich povolováním i odstraňováním černých staveb. Víme, co tedy lidi nejvíce trápí, a proto jsme jim chtěli pomoci tímto projektem, který je návodným souborem informací na jednom místě.</p>
 
