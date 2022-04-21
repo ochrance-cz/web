@@ -1,7 +1,7 @@
 ---
 title: Doporučení ombudsmana týkající se pracovníků z EU by mohla pomoci i
   dalším zahraničním pracovníkům, zaznělo na workshopu
-draft: true
+draft: false
 date: 2022-04-21T13:48:02.951Z
 vystupy:
   - tz
