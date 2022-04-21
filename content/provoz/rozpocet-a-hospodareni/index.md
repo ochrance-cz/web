@@ -1,234 +1,167 @@
 ---
 title: Rozpočet a výsledky hospodaření
+links: []
 ---
+<h2>Rozpočet</h2>
 
-## Rozpočet
+<h3>Rok 2021: Závazné ukazatele kapitoly 309 (v tis. Kč):</h3>
 
-### Rok 2021: Závazné ukazatele kapitoly 309 (v tis. Kč):
+<p><strong>Název ukazatele</strong><strong>Schválený rozpočet</strong>Příjmy celkem9 821Výdaje celkem169 138Platy zaměstnanců a ostatní platby za provedenou práci95 815Povinné pojistné placené zaměstnavatelem31 988Základní příděl fondu kulturních a sociálních potřeb1 748Platy zaměstnanců v pracovním poměru vyjma zaměstnanců na služebních místech86 989Platy zaměstnanců na služebních místech dle zákona o státní službě0Výdaje spolufinancované zcela nebo částečně z rozpočtu Evropské unie bez společné zemědělské politiky celkem1 260v tom: ze státního rozpočtu189podíl rozpočtu Evropské unie1 071Výdaje na společné projekty, které jsou zcela nebo částečně financovány z prostředků finančních mechanismů celkem10 000v tom: ze státního rozpočtu1 500podíl prostředků finančních mechanismů8 500Výdaje vedené v informačním systému programového financování EDS/SMVS celkem8 346</p>
 
-| **Název ukazatele**                                                                                               | **Schválený rozpočet** |
-| ----------------------------------------------------------------------------------------------------------------- | ---------------------- |
-| Příjmy celkem                                                                                                     | 9 821                  |
-| Výdaje celkem                                                                                                     | 169 138                |
-| Platy zaměstnanců a ostatní platby za provedenou práci                                                            | 95 815                 |
-| Povinné pojistné placené zaměstnavatelem                                                                          | 31 988                 |
-| Základní příděl fondu kulturních a sociálních potřeb                                                              | 1 748                  |
-| Platy zaměstnanců v pracovním poměru vyjma zaměstnanců na služebních místech                                      | 86 989                 |
-| Platy zaměstnanců na služebních místech dle zákona o státní službě                                                | 0                      |
-| Výdaje spolufinancované zcela nebo částečně z rozpočtu Evropské unie bez společné zemědělské politiky celkem      | 1 260                  |
-| v tom: ze státního rozpočtu                                                                                       | 189                    |
-| podíl rozpočtu Evropské unie                                                                                      | 1 071                  |
-| Výdaje na společné projekty, které jsou zcela nebo částečně financovány z prostředků finančních mechanismů celkem | 10 000                 |
-| v tom: ze státního rozpočtu                                                                                       | 1 500                  |
-| podíl prostředků finančních mechanismů                                                                            | 8 500                  |
-| Výdaje vedené v informačním systému programového financování EDS/SMVS celkem                                      | 8 346                  |
+<table>
+	<thead>
+	</thead>
+	<tbody>
+	</tbody>
+</table>
 
-### Rok 2020: Závazné ukazatele kapitoly 309 (v tis. Kč):
+<h3>Rok 2020: Závazné ukazatele kapitoly 309 (v tis. Kč):</h3>
 
-| N**ázev ukazatele**                                                                                               | **Rozpočet po změnách** | **Skutečnost** | **%** |
-| ----------------------------------------------------------------------------------------------------------------- | ----------------------- | -------------- | ----- |
-| Příjmy celkem                                                                                                     | 490                     | 4 558          | 930   |
-| Výdaje celkem                                                                                                     | 152 615                 | 170 912        | 112   |
-| Platy zaměstnanců a ostatní platby za provedenou práci                                                            | 88 773                  | 96 062         | 108   |
-| Povinné pojistné placené zaměstnavatelem                                                                          | 29 993                  | 31 212         | 104   |
-| Základní příděl fondu kulturních a sociálních potřeb                                                              | 1 635                   | 1 725          | 106   |
-| Platy zaměstnanců v pracovním poměru vyjma zaměstnanců na služebních místech                                      | 81 329                  | 85 814         | 106   |
-| Platy zaměstnanců na služebních místech dle zákona o státní službě                                                | 0                       | 0              | \-    |
-| Výdaje spolufinancované zcela nebo částečně z rozpočtu Evropské unie bez společné zemědělské politiky celkem      | 283                     | 14 788         | 5 233 |
-| v tom: ze státního rozpočtu                                                                                       | 42                      | 2 793          | 6 589 |
-| podíl rozpočtu Evropské unie                                                                                      | 240                     | 11 995         | 4 993 |
-| Výdaje na společné projekty, které jsou zcela nebo částečně financované z prostředků finančních mechanismů celkem | 0                       | 8 036          | X     |
-| v tom: ze státního rozpočtu                                                                                       | 0                       | 1 205          | X     |
-| podíl prostředků finančních mechanismů                                                                            | 0                       | 6 830          | X     |
-| Výdaje vedené v informačním systému programového financování EDS/SMVS celkem                                      | 2 654                   | 16 195         | 610   |
+<p>N<strong>ázev ukazatele</strong><strong>Rozpočet po změnách</strong><strong>Skutečnost</strong><strong>%</strong>Příjmy celkem4904 558930Výdaje celkem152 615170 912112Platy zaměstnanců a ostatní platby za provedenou práci88 77396 062108Povinné pojistné placené zaměstnavatelem29 99331 212104Základní příděl fondu kulturních a sociálních potřeb1 6351 725106Platy zaměstnanců v pracovním poměru vyjma zaměstnanců na služebních místech81 32985 814106Platy zaměstnanců na služebních místech dle zákona o státní službě00-Výdaje spolufinancované zcela nebo částečně z rozpočtu Evropské unie bez společné zemědělské politiky celkem28314 7885 233v tom: ze státního rozpočtu422 7936 589podíl rozpočtu Evropské unie24011 9954 993Výdaje na společné projekty, které jsou zcela nebo částečně financované z prostředků finančních mechanismů celkem08 036Xv tom: ze státního rozpočtu01 205Xpodíl prostředků finančních mechanismů06 830XVýdaje vedené v informačním systému programového financování EDS/SMVS celkem2 65416 195610</p>
 
-### Rok 2020: Závazné ukazatele kapitoly 309 (v tis. Kč): 
+<table>
+	<thead>
+	</thead>
+	<tbody>
+	</tbody>
+</table>
 
-| **Název ukazatele**                                                                                               | **Schválený rozpočet** |
-| ----------------------------------------------------------------------------------------------------------------- | ---------------------- |
-| Příjmy celkem                                                                                                     | 490                    |
-| Výdaje celkem                                                                                                     | 152 615                |
-| Platy zaměstnanců a ostatní platby za provedenou práci                                                            | 88 773                 |
-| Povinné pojistné placené zaměstnavatelem                                                                          | 29 993                 |
-| Základní příděl fondu kulturních a sociálních potřeb                                                              | 1 635                  |
-| Platy zaměstnanců v pracovním poměru vyjma zaměstnanců na služebních místech                                      | 81 329                 |
-| Platy zaměstnanců na služebních místech dle zákona o státní službě                                                | 0                      |
-| Výdaje spolufinancované zcela nebo částečně z rozpočtu Evropské unie bez společné zemědělské politiky celkem      | 283                    |
-| v tom ze státního rozpočtu                                                                                        | 42                     |
-| podíl rozpočtu Evropské unie                                                                                      | 240                    |
-| Výdaje na společné projekty, které jsou zcela nebo částečně financovány z prostředků finančních mechanismů celkem | 0                      |
-| v tom ze státního rozpočtu                                                                                        | 0                      |
-| podíl prostředků finančních mechanismů                                                                            | 0                      |
-| Výdaje vedené v informačním systému programového financování EDS/SMVS celkem                                      | 2 654                  |
+<h3>Rok 2020: Závazné ukazatele kapitoly 309 (v tis. Kč):</h3>
 
-### Rok 2019: Závazné ukazatele kapitoly 309 (v tis. Kč):
+<p><strong>Název ukazatele</strong><strong>Schválený rozpočet</strong>Příjmy celkem490Výdaje celkem152 615Platy zaměstnanců a ostatní platby za provedenou práci88 773Povinné pojistné placené zaměstnavatelem29 993Základní příděl fondu kulturních a sociálních potřeb1 635Platy zaměstnanců v pracovním poměru vyjma zaměstnanců na služebních místech81 329Platy zaměstnanců na služebních místech dle zákona o státní službě0Výdaje spolufinancované zcela nebo částečně z rozpočtu Evropské unie bez společné zemědělské politiky celkem283v tom ze státního rozpočtu42podíl rozpočtu Evropské unie240Výdaje na společné projekty, které jsou zcela nebo částečně financovány z prostředků finančních mechanismů celkem0v tom ze státního rozpočtu0podíl prostředků finančních mechanismů0Výdaje vedené v informačním systému programového financování EDS/SMVS celkem2 654</p>
 
-| Název ukazatele                                                                                                   | Rozpočet po změnách | Skutečnost | %   |
-| ----------------------------------------------------------------------------------------------------------------- | ------------------- | ---------- | --- |
-| Příjmy celkem                                                                                                     | 11 519              | 8 054      | 70  |
-| Výdaje celkem                                                                                                     | 171 093             | 165 340    | 97  |
-| Platy zaměstnanců a ostatní platby za provedenou práci                                                            | 93 284              | 89 260     | 96  |
-| Povinné pojistné placené zaměstnavatelem                                                                          | 31 287              | 29 302     | 94  |
-| převod fondu kulturních a sociálních potřeb                                                                       | 1 705               | 1 609      | 94  |
-| Platy zaměstnanců v pracovním poměru vyjma zaměstnanců na služebních místech                                      | 84 829              | 80 160     | 95  |
-| Platy zaměstnanců na služebních místech dle zákona o státní službě                                                | 0                   | 0          | \-  |
-| Výdaje spolufinancované zcela nebo částečně z rozpočtu EU bez společné zemědělské politiky celkem                 | 2 181               | 3 527      | 162 |
-| v tom: ze státního rozpočtu                                                                                       | 432                 | 720        | 167 |
-|           podíl rozpočtu EU                                                                                       | 1 749               | 2 807      | 161 |
-| Výdaje na společné projekty, které jsou zcela nebo částečně financované z prostředků finančních mechanismů celkem | 11 200              | 0          | 0   |
-| v tom: ze státního rozpočtu                                                                                       | 1 680               | 0          | 0   |
-|           podíl prostředků finančních mechanismů                                                                  | 9 520               | 0          | 0   |
-| Výdaje vedené v informačním systému programového financování EDS/SMVS celkem                                      | 15 471              | 17 441     | 113 |
+<table>
+	<thead>
+	</thead>
+	<tbody>
+	</tbody>
+</table>
 
-### Rok 2018: Závazné ukazatele kapitoly 309 (v tis. Kč):
+<h3>Rok 2019: Závazné ukazatele kapitoly 309 (v tis. Kč):</h3>
 
-|                                                                                                                   | Rozpočet po změnách | Skutečnost | %   |
-| ----------------------------------------------------------------------------------------------------------------- | ------------------- | ---------- | --- |
-| Příjmy celkem                                                                                                     | 14 399              | 6 572      | 46  |
-| Výdaje celkem                                                                                                     | 159 584             | 187 240    | 117 |
-| Platy zaměstnanců a ostatní platby za provedenou práci                                                            | 81 319              | 81 675     | 100 |
-| Povinné pojistné placené zaměstnavatelem                                                                          | 27 596              | 26 934     | 98  |
-| Převod fondu kulturních a sociálních potřeb                                                                       | 1 498               | 1 491      | 100 |
-| Platby zaměstnanců v pracovním poměru vyjma zaměstnanců na služebních místech                                     | 74 516              | 74 342     | 100 |
-| Platy zaměstnanců na služebních místech dle zákona o státní službě                                                | 0                   | 0          | \-  |
-| Výdaje spolufinancované zcela nebo částečně z rozpočtu Evropské unie bez společné zemědělské politiky celkem      | 17 643              | 9 398      | 53  |
-| v tom ze státního rozpočtu                                                                                        | 3 394               | 1 808      | 53  |
-| podíl rozpočtu Evropské unie                                                                                      | 14 249              | 7 590      | 53  |
-| Výdaje na společné projekty, které jsou zcela nebo částečně financované z prostředků finančních mechanismů celkem | 0                   | 0          | \-  |
-| v tom ze státního rozpočtu                                                                                        | 0                   | 0          | \-  |
-| podíl prostředků finančních mechanismů                                                                            | 0                   | 0          | \-  |
-| Výdaje vedené v informačním systému programového financování EDS/SMVS celkem                                      | 20 451              | 49 868     | 24  |
+<p>Název ukazateleRozpočet po změnáchSkutečnost%Příjmy celkem11 5198 05470Výdaje celkem171 093165 34097Platy zaměstnanců a ostatní platby za provedenou práci93 28489 26096Povinné pojistné placené zaměstnavatelem31 28729 30294převod fondu kulturních a sociálních potřeb1 7051 60994Platy zaměstnanců v pracovním poměru vyjma zaměstnanců na služebních místech84 82980 16095Platy zaměstnanců na služebních místech dle zákona o státní službě00-Výdaje spolufinancované zcela nebo částečně z rozpočtu EU bez společné zemědělské politiky celkem2 1813 527162v tom: ze státního rozpočtu432720167podíl rozpočtu EU1 7492 807161Výdaje na společné projekty, které jsou zcela nebo částečně financované z prostředků finančních mechanismů celkem11 20000v tom: ze státního rozpočtu1 68000podíl prostředků finančních mechanismů9 52000Výdaje vedené v informačním systému programového financování EDS/SMVS celkem15 47117 441113</p>
 
-### Rok 2017: Závazné ukazatele kapitoly 309 (v tis. Kč)
+<table>
+	<thead>
+	</thead>
+	<tbody>
+	</tbody>
+</table>
 
-|                                                                                                                   | Rozpočet po změnách | Skutečnost | %   |
-| ----------------------------------------------------------------------------------------------------------------- | ------------------- | ---------- | --- |
-| Příjmy celkem                                                                                                     | 9 710               | 1 563      | 16  |
-| Výdaje celkem                                                                                                     | 122 313             | 123 678    | 101 |
-| Platy zaměstnanců a ostat. platby za prov. práci                                                                  | 67 035              | 68 695     | 102 |
-| Povinné pojistné placené zaměstnavatelem                                                                          | 22 702              | 22 510     | 99  |
-| Převod fondu kulturních a sociálních potřeb                                                                       | 1 218               | 1 231      | 101 |
-| Platy zaměstnanců v pracovním poměru vyjma zaměstnanců na služebních místech                                      | 60 512              | 61 313     | 101 |
-| Platy zaměstnanců na služebních místech dle zákona o státní službě                                                | 0                   | 0          | \-  |
-| Výdaje spolufinancované zcela nebo částečně z rozpočtu Evropské unie bez společné zemědělské politiky celkem      | 11 793              | 3 084      | 26  |
-| v tom: ze státního rozpočtu                                                                                       | 2 233               | 569        | 26  |
-|           podíl rozpočtu Evropské unie                                                                            | 9 560               | 2 515      | 26  |
-| Výdaje na společné projekty, které jsou zcela nebo částečně financované z prostředků finančních mechanismů celkem | 0                   | 0          | \-  |
-| v tom: ze státního rozpočtu                                                                                       | 0                   | 0          | \-  |
-|            podíl prostředků finančních mechanismů                                                                 | 0                   | 0          | \-  |
-| Výdaje vedené v informačním systému programového financování EDS/SMVS celkem                                      | 13 396              | 6 967      | 52  |
+<h3>Rok 2018: Závazné ukazatele kapitoly 309 (v tis. Kč):</h3>
 
-### Rok 2016: Závazné ukazatele kapitoly 309 (v tis. Kč)
+<p>Rozpočet po změnáchSkutečnost%Příjmy celkem14 3996 57246Výdaje celkem159 584187 240117Platy zaměstnanců a ostatní platby za provedenou práci81 31981 675100Povinné pojistné placené zaměstnavatelem27 59626 93498Převod fondu kulturních a sociálních potřeb1 4981 491100Platby zaměstnanců v pracovním poměru vyjma zaměstnanců na služebních místech74 51674 342100Platy zaměstnanců na služebních místech dle zákona o státní službě00-Výdaje spolufinancované zcela nebo částečně z rozpočtu Evropské unie bez společné zemědělské politiky celkem17 6439 39853v tom ze státního rozpočtu3 3941 80853podíl rozpočtu Evropské unie14 2497 59053Výdaje na společné projekty, které jsou zcela nebo částečně financované z prostředků finančních mechanismů celkem00-v tom ze státního rozpočtu00-podíl prostředků finančních mechanismů00-Výdaje vedené v informačním systému programového financování EDS/SMVS celkem20 45149 86824</p>
 
-|                                                                                                                   | Rozpočet po změnách | Skutečnost | %   |
-| ----------------------------------------------------------------------------------------------------------------- | ------------------- | ---------- | --- |
-| Příjmy celkem                                                                                                     | 1 191               | 4 681      | 393 |
-| Výdaje celkem                                                                                                     | 102 256             | 112 017    | 110 |
-| Platy zaměstnanců a ostat. platby za prov. práci                                                                  | 59 372              | 63 676     | 107 |
-| Povinné pojistné placené zaměstnavatelem                                                                          | 20 219              | 20 919     | 103 |
-| Převod fondu kulturních a sociálních potřeb                                                                       | 807                 | 852        | 106 |
-| Platy zaměstnanců v pracovním poměru vyjma zaměstnanců na služebních místech                                      | 53 370              | 56 615     | 106 |
-| Platy zaměstnanců na služebních místech dle zákona o státní službě                                                | 0                   | 0          | \-  |
-| Výdaje spolufinancované zcela nebo částečně z rozpočtu Evropské unie bez společné zemědělské politiky celkem      | 1 253               | 887        | 71  |
-| v tom: ze státního rozpočtu                                                                                       | 211                 | 154        | 73  |
-|           podíl rozpočtu Evropské unie                                                                            | 1 041               | 733        | 70  |
-| Výdaje na společné projekty, které jsou zcela nebo částečně financované z prostředků finančních mechanismů celkem | 0                   | 0          | \-  |
-| v tom: ze státního rozpočtu                                                                                       | 0                   | 0          | \-  |
-|           podíl prostředků finančních mechanistů                                                                  | 0                   | 0          | \-  |
-| Výdaje vedené v informačním systému programového financování EDS/SMVS celkem                                      | 8 450               | 5 668      | 67  |
+<table>
+	<thead>
+	</thead>
+	<tbody>
+	</tbody>
+</table>
 
-### Rok 2015: Závazné ukazatele kapitoly 309 (v tis. Kč):
+<h3>Rok 2017: Závazné ukazatele kapitoly 309 (v tis. Kč)</h3>
 
-|                                                                                                                   | **Rozpočet po změnách** | **Skutečnost** | **%** |
-| ----------------------------------------------------------------------------------------------------------------- | ----------------------- | -------------- | ----- |
-| Příjmy celkem                                                                                                     | 7 302                   | 6 723          | 92    |
-| Výdaje celkem                                                                                                     | 112 302                 | 111 559        | 99    |
-| Platy zaměstnanců a ostat. platby za prov. práci                                                                  | 59 262                  | 60 996         | 103   |
-| Povinné pojistné placené zaměstnavatelem                                                                          | 20 048                  | 20 126         | 100   |
-| Převod fondu kulturních a sociálních potřeb                                                                       | 536                     | 551            | 103   |
-| Platy zaměstnanců v pracovním poměru                                                                              | 53 553                  | 54 947         | 103   |
-| Platy státních úředníků                                                                                           | 0                       | 0              | 0     |
-| Výdaje spolufinancované zcela nebo částečně z rozpočtu Evropské unie bez společné zemědělské politiky celkem      | 5 192                   | 7 037          | 136   |
-| v tom: ze státního rozpočtu                                                                                       | 260                     | 352            | 136   |
-| podíl rozpočtu Evropské unie                                                                                      | 4 932                   | 6 685          | 136   |
-| Výdaje na společné projekty, které jsou zcela nebo částečně financované z prostředků finančních mechanismů celkem | 2 020                   | 0              | \-    |
-| v tom: ze státního rozpočtu                                                                                       | 0                       | 0              | \-    |
-| podíl prostředků finančních mechanismů                                                                            | 2 020                   | 0              | \-    |
-| Výdaje vedení v informačním systému programového financování EDS/SMVS celkem                                      | 12 640                  | 12 328         | 98    |
+<p>Rozpočet po změnáchSkutečnost%Příjmy celkem9 7101 56316Výdaje celkem122 313123 678101Platy zaměstnanců a ostat. platby za prov. práci67 03568 695102Povinné pojistné placené zaměstnavatelem22 70222 51099Převod fondu kulturních a sociálních potřeb1 2181 231101Platy zaměstnanců v pracovním poměru vyjma zaměstnanců na služebních místech60 51261 313101Platy zaměstnanců na služebních místech dle zákona o státní službě00-Výdaje spolufinancované zcela nebo částečně z rozpočtu Evropské unie bez společné zemědělské politiky celkem11 7933 08426v tom: ze státního rozpočtu2 23356926podíl rozpočtu Evropské unie9 5602 51526Výdaje na společné projekty, které jsou zcela nebo částečně financované z prostředků finančních mechanismů celkem00-v tom: ze státního rozpočtu00-podíl prostředků finančních mechanismů00-Výdaje vedené v informačním systému programového financování EDS/SMVS celkem13 3966 96752</p>
 
-### Rok 2014: Závazné ukazatele kapitoly 309 (v tis. Kč):
+<table>
+	<thead>
+	</thead>
+	<tbody>
+	</tbody>
+</table>
 
-|                                                                                                              | Rozpočet po změnách | Skutečnost | %   |
-| ------------------------------------------------------------------------------------------------------------ | ------------------- | ---------- | --- |
-| Příjmy celkem                                                                                                | 8 900               | 1 482      | 17  |
-| Výdaje celkem                                                                                                | 107 395             | 101 544    | 95  |
-| Platy zaměstnanců a ostat. platby za prov. práci                                                             | 53 554              | 54 799     | 102 |
-| Povinné pojistné placené zaměstnavatelem                                                                     | 18 125              | 18 095     | 100 |
-| Převod fondu kulturních a sociálních potřeb                                                                  | 481                 | 495        | 103 |
-| Platy zaměstnanců v pracovním poměru                                                                         | 48 050              | 49 410     | 103 |
-| Platy státních úředníků                                                                                      | 0                   | 0          | 0   |
-| Výdaje spolufinancované zcela nebo částečně z rozpočtu Evropské unie bez společné zemědělské politiky celkem | 9 000               | 6 106      | 68  |
-| v tom: ze státního rozpočtu                                                                                  | 450                 | 305        | 68  |
-| podíl rozpočtu Evropské unie                                                                                 | 8 550               | 5 801      | 68  |
-| Výdaje vedení v informačním systému programového financování EDS/SMVS celkem                                 | 13 812              | 13 025     | 94  |
+<h3>Rok 2016: Závazné ukazatele kapitoly 309 (v tis. Kč)</h3>
 
-### Rok 2012: Závazné ukazatele kapitoly 309 (v tis. Kč):
+<p>Rozpočet po změnáchSkutečnost%Příjmy celkem1 1914 681393Výdaje celkem102 256112 017110Platy zaměstnanců a ostat. platby za prov. práci59 37263 676107Povinné pojistné placené zaměstnavatelem20 21920 919103Převod fondu kulturních a sociálních potřeb807852106Platy zaměstnanců v pracovním poměru vyjma zaměstnanců na služebních místech53 37056 615106Platy zaměstnanců na služebních místech dle zákona o státní službě00-Výdaje spolufinancované zcela nebo částečně z rozpočtu Evropské unie bez společné zemědělské politiky celkem1 25388771v tom: ze státního rozpočtu21115473podíl rozpočtu Evropské unie1 04173370Výdaje na společné projekty, které jsou zcela nebo částečně financované z prostředků finančních mechanismů celkem00-v tom: ze státního rozpočtu00-podíl prostředků finančních mechanistů00-Výdaje vedené v informačním systému programového financování EDS/SMVS celkem8 4505 66867</p>
 
-|                                                                              | Rozpočet po změnách | Skutečnost | %   |
-| ---------------------------------------------------------------------------- | ------------------- | ---------- | --- |
-| Příjmy celkem                                                                | 350                 | 1 074      | 298 |
-| Výdaje celkem                                                                | 93 900              | 85 405     | 91  |
-| Platy zaměstnanců a ostat. platby za prov. práci                             | 47 653              | 47 653     | 100 |
-| Povinné pojistné placené zaměstnavatelem                                     | 16 202              | 16 202     | 100 |
-| Převod fondu kulturních a sociálních potřeb                                  | 425                 | 425        | 100 |
-| Platy zaměstnanců v pracovním poměru                                         | 42 441              | 42 441     | 100 |
-| Výdaje vedení v informačním systému programového financování EDS/SMVS celkem | 13 362              | 9 166      | 69  |
+<table>
+	<thead>
+	</thead>
+	<tbody>
+	</tbody>
+</table>
 
-### Rok 2011: Závazné ukazatele kapitoly 309 (v tis. Kč): 
+<h3>Rok 2015: Závazné ukazatele kapitoly 309 (v tis. Kč):</h3>
 
-|                                                                              | Rozpočet po změnách | Skutečnost | %   |
-| ---------------------------------------------------------------------------- | ------------------- | ---------- | --- |
-| Příjmy celkem                                                                | 0                   | 1 074      | \-  |
-| Výdaje celkem                                                                | 95 264              | 79 292     | 83  |
-| Platy zaměstnanců a ostat. platby za prov. práci                             | 47 653              | 44 405     | 93  |
-| Povinné pojistné placené zaměstnavatelem                                     | 16 202              | 14 959     | 92  |
-| Převod fondu kulturních a sociálních potřeb                                  | 425                 | 418        | 98  |
-| Platy zaměstnanců v pracovním poměru                                         | 42 441              | 40 029     | 94  |
-| Výdaje vedení v informačním systému programového financování EDS/SMVS celkem | 13 100              | 4 780      | 57  |
+<p><strong>Rozpočet po změnách</strong><strong>Skutečnost</strong><strong>%</strong>Příjmy celkem7 3026 72392Výdaje celkem112 302111 55999Platy zaměstnanců a ostat. platby za prov. práci59 26260 996103Povinné pojistné placené zaměstnavatelem20 04820 126100Převod fondu kulturních a sociálních potřeb536551103Platy zaměstnanců v pracovním poměru53 55354 947103Platy státních úředníků000Výdaje spolufinancované zcela nebo částečně z rozpočtu Evropské unie bez společné zemědělské politiky celkem5 1927 037136v tom: ze státního rozpočtu260352136podíl rozpočtu Evropské unie4 9326 685136Výdaje na společné projekty, které jsou zcela nebo částečně financované z prostředků finančních mechanismů celkem2 0200-v tom: ze státního rozpočtu00-podíl prostředků finančních mechanismů2 0200-Výdaje vedení v informačním systému programového financování EDS/SMVS celkem12 64012 32898</p>
 
-### Rok 2010: Závazné ukazatele kapitoly 309 (v tis. Kč):
+<table>
+	<thead>
+	</thead>
+	<tbody>
+	</tbody>
+</table>
 
-|                                                  | Rozpočet po změnách | Skutečnost | %   |
-| ------------------------------------------------ | ------------------- | ---------- | --- |
-| Příjmy celkem                                    | 0                   | 1 057      | \-  |
-| Výdaje celkem                                    | 104 154             | 79 008     | 76  |
-| Platy zaměstnanců a ostat. platby za prov. práci | 51 865              | 43 236     | 83  |
-| Povinné pojistné placené zaměstnavatelem         | 17 634              | 14 430     | 82  |
-| Převod fondu kulturních a sociálních potřeb      | 926                 | 806        | 87  |
-| Platy zaměstnanců v pracovním poměru             | 46 322              | 39 741     | 86  |
-| Výdaje na programy vedené v ISPROFIN celkem      | 14 160              | 7 392      | 52  |
+<h3>Rok 2014: Závazné ukazatele kapitoly 309 (v tis. Kč):</h3>
 
-## Hospodaření Kanceláře veřejného ochránce práv
+<p>Rozpočet po změnáchSkutečnost%Příjmy celkem8 9001 48217Výdaje celkem107 395101 54495Platy zaměstnanců a ostat. platby za prov. práci53 55454 799102Povinné pojistné placené zaměstnavatelem18 12518 095100Převod fondu kulturních a sociálních potřeb481495103Platy zaměstnanců v pracovním poměru48 05049 410103Platy státních úředníků000Výdaje spolufinancované zcela nebo částečně z rozpočtu Evropské unie bez společné zemědělské politiky celkem9 0006 10668v tom: ze státního rozpočtu45030568podíl rozpočtu Evropské unie8 5505 80168Výdaje vedení v informačním systému programového financování EDS/SMVS celkem13 81213 02594</p>
 
-### Závěrečné účty Kanceláře veřejného ochránce práv
+<table>
+	<thead>
+	</thead>
+	<tbody>
+	</tbody>
+</table>
 
-- [Závěrečný účet 2020](SZU_309_KVOP_2020.pdf)
-- [Závěrečný účet 2019](SZU_309_KVOP_2019.pdf)
-- [Závěrečný účet 2018](SZU_309_KVOP_2018.pdf)
-- [Závěrečný účet 2017](SZU_309_KVOP_2017.pdf)
-- [Závěrečný účet 2016](SZU_309_KVOP_2016.pdf)
-- [Závěrečný účet 2015](SZU_309_KVOP_2015.pdf)
-- [Závěrečný účet 2014](SZU_309_KVOP_2014.pdf)
-- [Závěrečný účet 2013](SZU_309_KVOP_2013.pdf)
-- [Závěrečný účet 2012](SZU_309_KVOP_2012.pdf)
-- [Závěrečný účet 2011](SZU_309_KVOP_2011.pdf)
-- [Závěrečný účet 2010](SZU_309_KVOP_2010.pdf)
-- [Závěrečný účet 2009](zaver_ucet_2009.pdf)
-- [Závěrečný účet 2008](szu_kvop_2008.pdf)
-- [Závěrečný účet 2007](szu_kvop_2007.pdf)
-- [Závěrečný účet 2006](szu_kvop_2006.pdf)
+<h3>Rok 2012: Závazné ukazatele kapitoly 309 (v tis. Kč):</h3>
 
-### Roční zprávy Kanceláře veřejného ochránce práv
+<p>Rozpočet po změnáchSkutečnost%Příjmy celkem3501 074298Výdaje celkem93 90085 40591Platy zaměstnanců a ostat. platby za prov. práci47 65347 653100Povinné pojistné placené zaměstnavatelem16 20216 202100Převod fondu kulturních a sociálních potřeb425425100Platy zaměstnanců v pracovním poměru42 44142 441100Výdaje vedení v informačním systému programového financování EDS/SMVS celkem13 3629 16669</p>
 
-- [Zpráva za rok 2006](rocni_zprava_kvop_2006.pdf)
-- [Zpráva za rok 2005](rocni_zprava_kvop_2005.pdf)
+<table>
+	<thead>
+	</thead>
+	<tbody>
+	</tbody>
+</table>
+
+<h3>Rok 2011: Závazné ukazatele kapitoly 309 (v tis. Kč):</h3>
+
+<p>Rozpočet po změnáchSkutečnost%Příjmy celkem01 074-Výdaje celkem95 26479 29283Platy zaměstnanců a ostat. platby za prov. práci47 65344 40593Povinné pojistné placené zaměstnavatelem16 20214 95992Převod fondu kulturních a sociálních potřeb42541898Platy zaměstnanců v pracovním poměru42 44140 02994Výdaje vedení v informačním systému programového financování EDS/SMVS celkem13 1004 78057</p>
+
+<table>
+	<thead>
+	</thead>
+	<tbody>
+	</tbody>
+</table>
+
+<h3>Rok 2010: Závazné ukazatele kapitoly 309 (v tis. Kč):</h3>
+
+<p>Rozpočet po změnáchSkutečnost%Příjmy celkem01 057-Výdaje celkem104 15479 00876Platy zaměstnanců a ostat. platby za prov. práci51 86543 23683Povinné pojistné placené zaměstnavatelem17 63414 43082Převod fondu kulturních a sociálních potřeb92680687Platy zaměstnanců v pracovním poměru46 32239 74186Výdaje na programy vedené v ISPROFIN celkem14 1607 39252</p>
+
+<table>
+	<thead>
+	</thead>
+	<tbody>
+	</tbody>
+</table>
+
+<h2>Hospodaření Kanceláře veřejného ochránce práv</h2>
+
+<h3>Závěrečné účty Kanceláře veřejného ochránce práv</h3>
+
+<ul>
+	<li><a href="zaverecny-ucet-2021.pdf">Závěrečný účet 2021</a></li>
+	<li><a href="SZU_309_KVOP_2020.pdf">Závěrečný účet 2020</a></li>
+	<li><a href="SZU_309_KVOP_2019.pdf">Závěrečný účet 2019</a></li>
+	<li><a href="SZU_309_KVOP_2018.pdf">Závěrečný účet 2018</a></li>
+	<li><a href="SZU_309_KVOP_2017.pdf">Závěrečný účet 2017</a></li>
+	<li><a href="SZU_309_KVOP_2016.pdf">Závěrečný účet 2016</a></li>
+	<li><a href="SZU_309_KVOP_2015.pdf">Závěrečný účet 2015</a></li>
+	<li><a href="SZU_309_KVOP_2014.pdf">Závěrečný účet 2014</a></li>
+	<li><a href="SZU_309_KVOP_2013.pdf">Závěrečný účet 2013</a></li>
+	<li><a href="SZU_309_KVOP_2012.pdf">Závěrečný účet 2012</a></li>
+	<li><a href="SZU_309_KVOP_2011.pdf">Závěrečný účet 2011</a></li>
+	<li><a href="SZU_309_KVOP_2010.pdf">Závěrečný účet 2010</a></li>
+	<li><a href="zaver_ucet_2009.pdf">Závěrečný účet 2009</a></li>
+	<li><a href="szu_kvop_2008.pdf">Závěrečný účet 2008</a></li>
+	<li><a href="szu_kvop_2007.pdf">Závěrečný účet 2007</a></li>
+	<li><a href="szu_kvop_2006.pdf">Závěrečný účet 2006</a></li>
+</ul>
+
+<h3>Roční zprávy Kanceláře veřejného ochránce práv</h3>
+
+<ul>
+	<li><a href="rocni_zprava_kvop_2006.pdf">Zpráva za rok 2006</a></li>
+	<li><a href="rocni_zprava_kvop_2005.pdf">Zpráva za rok 2005</a></li>
+</ul>
