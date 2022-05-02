@@ -142,6 +142,10 @@ lawyers:
         role: právnička (územní a stavební řízení, ochrana přírody a krajiny)
         phone: 542 542 282
         email: jitka.vecerova@ochrance.cz
+      - name: "Michaela Brandejsová "
+        role: právnička (územní a stavební řízení, ochrana přírody a krajiny)
+        phone: 542 542 376
+        email: "michaela.brandejsova@ochrance.cz "
   - title: Odbor veřejného pořádku a místní správy
     intro: >
       matriky, evidence obyvatel, občanské a cestovní průkazy, státní občanství,
@@ -223,10 +227,6 @@ lawyers:
         role: právnička (důchody, nemocenské pojištění)
         phone: 542 542 348
         email: petra.foltasova@ochrance.cz
-      - name: Kateřina Quittová
-        role: právnička
-        phone: 542 542 296
-        email: quittova@ochrance.cz
       - name: Eva Hodaňová
         role: právnička (důchody)
         phone: 542 542 370
@@ -393,10 +393,10 @@ lawyers:
       střední, vyšší odborné a vysokoškolské vzdělávání, postup České školní
       inspekce a Ministerstva školství, mládeže a tělovýchovy)
     people:
-      - name: Veronika Bazalová
+      - name: Jana Kvasnicová
         role: vedoucí odboru
-        phone: 542 542 254
-        email: veronika.bazalova@ochrance.cz
+        phone: 542 542 334
+        email: jana.kvasnicova@ochrance.cz
       - name: Hana Brablcová
         role: právnička
         phone: 542 542 251
@@ -405,10 +405,6 @@ lawyers:
         role: právnička
         phone: 542 542 247
         email: iva.palkovska@ochrance.cz
-      - name: David Janků
-        role: právník
-        phone: 720 028 345
-        email: david.janku@ochrance.cz
       - name: Eva Kočí Svobodová
         role: právnička
         phone: 542 542 280
@@ -417,10 +413,6 @@ lawyers:
         role: právnička
         phone: 542 542 249
         email: barbara.kubatova@ochrance.cz
-      - name: Jana Kvasnicová
-        role: právnička
-        phone: 542 542 334
-        email: jana.kvasnicova@ochrance.cz
       - name: Michaela Lysková
         role: právnička
         phone: 542 542 367
@@ -558,10 +550,6 @@ lawyers:
         role: "právnička "
         phone: 542 542 256
         email: romana.svecova@ochrance.cz
-      - name: Ondřej Kašpar
-        role: "právník "
-        phone: 542 542 255
-        email: ondrej.kaspar@ochrance.cz
       - name: Veronika Vítková
         role: "právnička "
         phone: 725 546 632
