@@ -106,7 +106,7 @@ title: Pronájem prostor
 
 <p><img alt="Na fotografii je zachycena prázdná víceúčelová místnost." src="viceucelova_mistnost_3.jpg" /></p>
 
-<h3><a href="/uploads-import/img/Saly/Cenik_komercni_2020.pdf">Komerční ceník</a></h3>
+<h3><a href="cenik_komercni_platny_od_1._kvetna_2022.pdf">Komerční ceník</a></h3>
 
 <h3><a href="nekomercni_cenik_2022.pdf">Nekomerční ceník</a></h3>
 
