@@ -78,4 +78,4 @@ active: true
 
 Детальнішу інформацію (UKR, CZE, ENG) можна знайти за посиланням:   
 
-<https://www.svscr.cz/svs-umoznuje-vyjimky-pro-vstup-zvirat-doprovazejicich-valecne-uprchliky-z-ukrajiny/>
+<https://www.svscr.cz/zdravi-zvirat/veterinarni-pozadavky-pro-neobchodni-presun-nejvyse-5-kusu-psu-kocek-nebo-fretek-v-zajmovem-chovu-doprovazejicich-sve-majitele-na-uteku-z-ukrajiny/>
