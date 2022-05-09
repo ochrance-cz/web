@@ -1,0 +1,25 @@
+---
+title: Have you worked in more than one European Union country? Don't forget to
+  say so on your pension application
+date: 2022-05-09T16:59:15.649Z
+vystupy:
+  - news
+perex: >
+  <p>Every year, about 100 complainants turn to the Ombudsman because of
+  pensions or benefits &quot;with a foreign element&quot;. Cases involving EU
+  countries are among the most easily solved - EU social law guarantees migrant
+  workers benefits under the national legislation of their home country, ensures
+  that people do not lose their entitlement to benefits because of working
+  abroad and, last but not least, guarantees that benefits are paid to another
+  Member State. Interconnection within the Union has also simplified
+  communication between authorities on different sides of the border.</p>
+---
+<p><em>&quot;Seventy-two years ago, the idea of European integration was first mooted, which is why we commemorate May 9th as Europe Day. The coordination of social security systems is one of the pleasant consequences of European cooperation. In this context, we at the Office are particularly confronted with complaints about pensions,</em>&quot; said Ombudsman Stanislav Křeček, adding that people working in several EU countries during their lifetime only need to apply for a pension once, in their country of residence. They only have to list all the countries where they were payed pension contributions. If the applicant has the necessary documents in an official EU language, those do not need to be translated.</p>
+
+<p>The periods of insurance are counted on the basis of a certificate from the competent foreign institution. <em>&quot;The pension institutions of the different countries deal directly with each other, so the pension applicant does not have to obtain certificates of social security insurance periods himself. He or she simply indicates on the relevant form the periods during which they were insured in another Member State and for what reason. This form is forwarded by the Czech Social Security Administration to foreign institutions,&quot;</em> says Jitka Černá, a lawyer who focuses on the topic of international pensions at the Ombudsman&#39;s Office. Each country decides on the pension according to its own regulations, but must take into account periods of insurance from other Member States.</p>
+
+<p>&nbsp;<em>&quot;The subsequent pension is then calculated by officials in the country where the person applied for the benefit in two ways: the first is the so-called solo pension, calculated only from the periods of insurance in its territory, the second is the so-called partial pension, which takes into account all the periods of insurance in all countries. The two pensions are compared and the higher of the two is assigned to the applicant. Earnings are always taken into account only in the country where the claimant earned them. The periods of insurance in other countries are calculated using the so-called indexed average earnings, i.e. fictitious average earnings calculated from the insured person&#39;s earnings in that country,&quot; </em>Černá simplifies the complex method of calculating the pension, adding that such a procedure for granting a pension usually takes a longer time. If people suspect that there are delays and are unable to resolve the situation directly with the institution, they can file a complaint with the ombudsman. If there are delays with a foreign institution, they can then contact the foreign ombudsman or <a href="https://ec.europa.eu/solvit/index_cs.htm">SOLVIT</a>, which helps people in the EU to resolve problems with their rights.</p>
+
+<p>Similarly, people can take action if they disagree with a decision not to grant a pension or with the amount of a pension.&nbsp; They can turn to the ombudsman in their home country or abroad once they have exhausted the available remedies. Objections to the decision can again be lodged through the institution in the country where the pension was applied for, in the Czech Republic the Czech Social Security Administration, which will forward them to their foreign counterparts.</p>
+
+<p>For payment of pensions abroad, countries require repeated sending of an officially certified confirmation of living. This is to prevent the pension being sent to the deceased and the pension being overpaid, which would be difficult to recover. Pensioners in the Czech Republic have to pay an administrative fee to have their signatures verified at regional and municipal offices in order to obtain a confirmation of living for other Union Member States. District social security administrations certify the residence free of charge. Although this is a payment of a few tens of crowns, the cost of repeated verification can amount to several thousand crowns over the period of pension payment. Therefore, the Ombudsman is currently negotiating with the Ministry of the Interior, the Ministry of Finance and the Ministry of Labour and Social Affairs to ensure that people do not have to pay a fee for verifying their signature on the confirmation of living.</p>
