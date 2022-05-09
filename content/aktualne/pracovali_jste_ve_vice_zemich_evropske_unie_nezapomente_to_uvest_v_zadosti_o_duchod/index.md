@@ -1,7 +1,7 @@
 ---
 title: "Pracovali jste ve více zemích Evropské unie? Nezapomeňte to uvést v
   žádosti o důchod "
-draft: true
+draft: false
 date: 2022-05-09T13:31:24.156Z
 vystupy:
   - tz
