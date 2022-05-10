@@ -12,6 +12,7 @@ itemOrder: |
   Výzkumy
   Doporučení
   Materiály na vládu
+  Zpravodaj
   Bulletiny CRPD
   Seriál na ČT
 ---
