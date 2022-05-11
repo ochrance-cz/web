@@ -361,10 +361,6 @@ lawyers:
         role: právnička (zaměstnanost a inspekce práce)
         phone: 542 542 291
         email: jana.lazarova@ochrance.cz
-      - name: Běla Vaverková
-        role: právnička (správa na úseku zdravotnictví)
-        phone: 542 542 363
-        email: bela.vaverkova@ochrance.cz
       - name: Lucie Veselá
         role: právnička (sociálně-právní ochrana dětí, ústavní výchova, pěstounská péče)
         phone: 542 542 258
