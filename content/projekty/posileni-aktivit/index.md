@@ -78,7 +78,7 @@ gallery:
 <p><img alt="Fotografie zobrazuje dva přednášející a pohled na sál s posluchači." src="interni_skoleni_norske_fondy_.jpg" /></p>
 
 <ul>
-	<li>V červenci 2020 jsme vytvořili, pro&nbsp;zlepšení informovanosti dětí o&nbsp;jejich právech a&nbsp;povinnostech, speciální leták. Dotýká se dětí žijících v&nbsp;dětských domovech, či&nbsp;výchovných ústavech a&nbsp;naleznete jej&nbsp;<a href="https://deti.ochrance.cz/decak/">zde</a>.</li>
+	<li>V červenci 2020 jsme vytvořili, pro&nbsp;zlepšení informovanosti dětí o&nbsp;jejich právech a&nbsp;povinnostech, speciální leták. Dotýká se dětí žijících v&nbsp;dětských domovech, či&nbsp;výchovných ústavech a&nbsp;naleznete jej&nbsp;<a href="https://deti.ochrance.cz/jsem/v-domove/">zde</a>.</li>
 	<li>Dne 23.6.2020 jsme v&nbsp;rámci projektu započali cyklus vzdělávacích seminářů, tentokrát pro pracovníky v&nbsp;sociální oblasti. Prvním tématem byly vybrané otázky a&nbsp;odpovědi na&nbsp;poli sociálně-právní ochrany a&nbsp;náhradní rodinné péče. Další informace o&nbsp;semináři naleznete&nbsp;<a href="https://www.ochrance.cz/uploads-import/Kancelar/projekty/06_23_Vybrane_otazky_a_odpovedi_ze_socialne-pravni_ochrany_a_nahradni_rodinne_pece_POZVANKA.pdf">&nbsp;zde</a>.</li>
 </ul>
 
