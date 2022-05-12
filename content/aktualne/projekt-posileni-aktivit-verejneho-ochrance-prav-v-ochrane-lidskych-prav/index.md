@@ -13,7 +13,7 @@ perex: >
 <!-- imported from the old website -->
 <p><img alt="" src="/uploads-import/uploads/RTEmagicC_Norway_grants_4x_zmenseno_05.png.png" /></p>
 
-<p><img alt="norway_grants_-_logo.png" src="https://www.ochrance.cz/aktualne/projekt_posileni_aktivit_verejneho_ochrance_prav_v_ochrane_lidskych_prav/norway_grants_-_logo.png" />V rámci projektu bude ombudsman zpracovávat výzkumy a&nbsp;doporučení týkající se ochrany práv dětí, lidí s&nbsp;postižením a&nbsp;lidí nacházejících se v&nbsp;zařízeních. Současně bude ombudsman rozpracovávat nové metody své práce k&nbsp;efektivnější ochraně lidských práv.</p>
+<p><img alt="norway_grants_-_logo_-_kopie.png" src="https://www.ochrance.cz/aktualne/projekt_posileni_aktivit_verejneho_ochrance_prav_v_ochrane_lidskych_prav/norway_grants_-_logo_-_kopie.png" />V rámci projektu bude ombudsman zpracovávat výzkumy a&nbsp;doporučení týkající se ochrany práv dětí, lidí s&nbsp;postižením a&nbsp;lidí nacházejících se v&nbsp;zařízeních. Současně bude ombudsman rozpracovávat nové metody své práce k&nbsp;efektivnější ochraně lidských práv.</p>
 
 <p>Dojde např.&nbsp;ke&nbsp;zvýšení počtu návštěv zařízení, kde jsou lidé omezeni na&nbsp;svobodě, při nichž si ombudsman ověřuje, jak zařízení naplňuje jeho doporučení. Vznikne též manuál k&nbsp;provádění těchto návštěv, který se bude zabývat rozsahem návštěvy, jejím zaměřením, a&nbsp;metodou vyhodnocování toho, jak jsou doporučení plněna.</p>
 
