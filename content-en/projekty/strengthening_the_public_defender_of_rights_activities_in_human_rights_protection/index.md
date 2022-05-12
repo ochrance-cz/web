@@ -41,7 +41,7 @@ gallery:
 <h2>News</h2>
 
 <ul>
-	<li>March 22, 2021 - a clear leaflet for children, which describes who the ombudsman is, in which situations he can help children and how children can turn to them, we have in several language variants. Leaflets can be downloaded <a href="https://deti.ochrance.cz/english-po-rysski-deutsch-romanes/">here</a>.</li>
+	<li>March 22, 2021 - a clear leaflet for children, which describes who the ombudsman is, in which situations he can help children and how children can turn to them, we have in several language variants. The English leaflet can be downloaded&nbsp;<a href="https://www.ochrance.cz/uploads-deti/user_upload/Prilohy/ombudsman_detem/Letak_-_Ombudsman_detem__anglictina_.pdf">here</a>, the German&nbsp;<a href="https://www.ochrance.cz/uploads-deti/user_upload/Prilohy/ombudsman_detem/Letak_-_Ombudsman_detem__nemcina_-_anglicke_logo_.pdf">here</a>, the Romani&nbsp;<a href="https://www.ochrance.cz/uploads-deti/user_upload/Prilohy/ombudsman_detem/Letak_-_Ombudsman_detem__romstina_.pdf">here</a>&nbsp;and the Russian&nbsp;<a href="https://www.ochrance.cz/uploads-deti/user_upload/Prilohy/ombudsman_detem/Letak_-_Ombudsman_detem__rustina_-_anglicke_logo_.pdf">here</a>.</li>
 	<li>January 1, 2021 &ndash;&nbsp;we launched the&nbsp;first educational video into the&nbsp;world of social networks. It is a&nbsp;pilot part of a&nbsp;miniseries being prepared, which will present the&nbsp;work of the&nbsp;Ombudsman&#39;s office using short videos intended primarily for children and adolescents. You can see the&nbsp;video&nbsp;<a href="https://www.youtube.com/watch?v=iiw2OM4jDbA">here</a>.</li>
 </ul>
 
