@@ -170,7 +170,7 @@ class CustomEditorWidgetControl extends React.Component<CmsWidgetControlProps, I
             stylesSet: 'ochrance:/admin/styles.js',
             entities_latin: false,
             removeButtons:
-              'Save,NewPage,ExportPdf,Preview,Print,Templates,SelectAll,Scayt,Form,Checkbox,Radio,Textarea,Select,Button,HiddenField,TextField,Underline,Superscript,Subscript,CopyFormatting,CreateDiv,Indent,Outdent,JustifyBlock,BidiLtr,BidiRtl,Language,Anchor,Flash,Smiley,SpecialChar,PageBreak,Iframe,TextColor,BGColor,About,FontSize,Font,Format',
+              'Save,NewPage,ExportPdf,Preview,Print,Templates,SelectAll,Scayt,Form,Checkbox,Radio,Textarea,Select,Button,HiddenField,TextField,Underline,Superscript,Subscript,CopyFormatting,CreateDiv,Indent,Outdent,JustifyBlock,BidiLtr,BidiRtl,Language,Anchor,Flash,Smiley,SpecialChar,PageBreak,TextColor,BGColor,About,FontSize,Font,Format',
           }}
         />
       </>
