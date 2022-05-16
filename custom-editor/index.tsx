@@ -136,6 +136,7 @@ class CustomEditorWidgetControl extends React.Component<CmsWidgetControlProps, I
           Vložit obrázek/odkaz z knihovny médií
         </a>
         <CKEditor
+          editorUrl="https://cdn.ckeditor.com/4.18.0/full/ckeditor.js"
           initData={''}
           onChange={this.handleChange}
           onInstanceReady={evt => {
