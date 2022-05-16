@@ -164,7 +164,7 @@ class CustomEditorWidgetControl extends React.Component<CmsWidgetControlProps, I
               { name: 'about', groups: ['about'] },
             ],
             allowedContent:
-              'blockquote h2 h3 h4 ul ol li p del s hr strong em b i; img[alt,src]{float}; a [!href];table thead tbody td th[*]',
+              'blockquote h2 h3 h4 ul ol li p del s hr strong em b i; img[alt,src]{float}; a [!href];table thead tbody tr td th[*]',
             contentsCss: '/admin/styles.css',
             stylesSet: 'ochrance:/admin/styles.js',
             entities_latin: false,
