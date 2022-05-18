@@ -44,7 +44,7 @@ gallery:
 
 <ul>
 	<li>
-	<p>20.4.2022 jsme zrealizovali workshop pro zástupce ministerstev a dalších úřadu, některých krajů a neziskových organizací pracujících s&nbsp;cizinci &ndash; občany EU. Cílem workshopu bylo jednak představit výsledky rozsáhlého výzkumu Občané EU v&nbsp;ČR, který zjišťoval, jak se žije občanům EU v&nbsp;ČR a s&nbsp;jakými problémy se potýkají, &nbsp;a také diskutovat nad doporučeními ochránce, která na podkladě tohoto výzkumu vznikla. Zde můžete zhlédnout <a href="obcane-eu-v-cesku_prezentace-s-doporucenimi.pdf">prezentaci k seznámení s doporučeními</a> a <a href="obcane-eu-v-cesku_prezentace-k-ds.pdf">prezentaci v&nbsp;rámci diskusní skupiny</a>.</p>
+	<p>20.4.2022 jsme zrealizovali workshop pro zástupce ministerstev a dalších úřadů, některých krajů a neziskových organizací pracujících s&nbsp;cizinci &ndash; občany EU. Cílem workshopu bylo jednak představit výsledky rozsáhlého výzkumu Občané EU v&nbsp;ČR, který zjišťoval, jak se žije občanům EU v&nbsp;ČR a s&nbsp;jakými problémy se potýkají, &nbsp;a také diskutovat nad doporučeními ochránce, která na podkladě tohoto výzkumu vznikla. Zde můžete zhlédnout <a href="obcane-eu-v-cesku_prezentace-s-doporucenimi.pdf">prezentaci k seznámení s doporučeními</a> a <a href="obcane-eu-v-cesku_prezentace-k-ds.pdf">prezentaci v&nbsp;rámci diskusní skupiny</a>.</p>
 	</li>
 	<li>
 	<p>28.1.2022 &ndash; o zrealizovaném výzkumu Občané EU v&nbsp;České republice se můžete dočíst i <a href="https://pravo21.cz/spolecnost/obcane-eu-se-v-cesku-casto-setkavaji-s-diskriminaci-potvrdil-vyzkum-ombudsmana">zde</a>.</p>
