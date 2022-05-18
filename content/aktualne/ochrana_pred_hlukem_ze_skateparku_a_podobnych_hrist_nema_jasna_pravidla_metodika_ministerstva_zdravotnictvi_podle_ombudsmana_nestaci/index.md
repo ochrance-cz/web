@@ -1,7 +1,7 @@
 ---
 title: "Ochrana před hlukem ze skateparků a podobných hřišť nemá jasná pravidla,
   metodika Ministerstva zdravotnictví podle ombudsmana nestačí "
-draft: true
+draft: false
 date: 2022-05-18T07:01:19.683Z
 vystupy:
   - tz
