@@ -6,7 +6,7 @@ situace:
 file: formular_stiznost-na-nevhodne-chovani.pdf
 attachments:
   - file: Formular_Stiznost-na-nevhodne-chovani_priloha.pdf
-    title: Příloha
-  - title: Verze formuláře pro online vyplnění
+    title: příloha
+  - title: verze formuláře pro online vyplnění
     file: formular_stiznost-na-nevhodne-chovani.docx
 ---
