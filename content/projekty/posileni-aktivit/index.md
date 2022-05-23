@@ -44,7 +44,7 @@ gallery:
 
 <ul>
 	<li>
-	<p>20.4.2022 jsme zrealizovali workshop pro zástupce ministerstev a dalších úřadů, některých krajů a neziskových organizací pracujících s&nbsp;cizinci &ndash; občany EU. Cílem workshopu bylo jednak představit výsledky rozsáhlého výzkumu Občané EU v&nbsp;ČR, který zjišťoval, jak se žije občanům EU v&nbsp;ČR a s&nbsp;jakými problémy se potýkají, &nbsp;a také diskutovat nad doporučeními ochránce, která na podkladě tohoto výzkumu vznikla. Zde můžete zhlédnout <a href="obcane-eu-v-cesku_prezentace-s-doporucenimi.pdf">prezentaci k seznámení s doporučeními</a> a <a href="obcane-eu-v-cesku_prezentace-k-ds.pdf">prezentaci v&nbsp;rámci diskusní skupiny</a>.</p>
+	<p>20.4.2022 jsme zrealizovali workshop pro zástupce ministerstev a dalších úřadů, některých krajů a neziskových organizací pracujících s&nbsp;cizinci &ndash; občany EU. Cílem workshopu bylo jednak představit výsledky rozsáhlého výzkumu Občané EU v&nbsp;ČR, který zjišťoval, jak se žije občanům EU v&nbsp;ČR a s&nbsp;jakými problémy se potýkají, &nbsp;a také diskutovat nad doporučeními ochránce, která na podkladě tohoto výzkumu vznikla. Zde můžete zhlédnout <a href="obcane-eu-v-cesku_prezentace-s-doporucenimi.pdf">prezentaci k seznámení s doporučeními</a>, <a href="obcane-eu-v-cesku_prezentace-k-realizovanemu-vyzkumu.pdf">prezentaci k&nbsp;realizovanému výzkumu</a> a <a href="obcane-eu-v-cesku_prezentace-ds.pdf">prezentaci v rámci diskusní skupiny</a>.</p>
 	</li>
 	<li>
 	<p>K&nbsp;15.2.2022 zveřejňujeme praktickou Praktická příručka práva na&nbsp;rovné zacházení rodiče na&nbsp;pracovním trhu <a href="https://www.ochrance.cz/dokument/rodicovstvi_a_diskriminace_v_praci/">zde</a>.</p>
