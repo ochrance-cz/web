@@ -42,6 +42,24 @@ gallery:
 
 <ul>
 	<li>
+	<p>April 20 2022, we held a workshop for representatives of ministries and other authorities, some regions and non-profit organizations working with foreigners - EU citizens. The aim of the workshop was to present the results of an extensive survey of EU citizens in the Czech Republic, which found out how EU citizens live in the Czech Republic and what problems they face, and also to discuss the Defender&#39;s recommendations based on this research. Here you can watch a <a href="23_obcane-eu-v-cesku_prezentace-s-doporucenimi.pdf">presentation</a> to get acquainted with the recommendations, a &nbsp;<a href="24_obcane-eu-v-cesku_prezentace-k-realizovanemu-vyzkumu.pdf">24_obcane-eu-v-cesku_prezentace-k-realizovanemu-vyzkumu.pdf</a> on the research and a &nbsp;<a href="25_obcane-eu-v-cesku_prezentace-ds.pdf">presentation</a> within the discussion group.</p>
+	</li>
+	<li>
+	<p>February 15, 2022 we are publishing a Parenthood and discrimination at work: practical guide for parents regarding their right to equal treatment in the labour market <a href="22_rodicovstvi-a-diskriminace-doporuceni-aj.pdf">here</a>.</p>
+	</li>
+	<li>
+	<p>February 2, 2022 we are publishing the first Report on the subsequent visit to the facility from the Hrotovice Children&#39;s Home as part of the project. The report is available <a href="https://eso.ochrance.cz/Nalezene/Edit/10324">here</a>.</p>
+	</li>
+	<li>January 1, 2022 - you can read about the completed research Citizens of the EU in the Czech Republic <a href="https://pravo21.cz/spolecnost/obcane-eu-se-v-cesku-casto-setkavaji-s-diskriminaci-potvrdil-vyzkum-ombudsmana">here</a>.</li>
+</ul>
+
+<p><strong>What we implemented in 2021 within the project</strong></p>
+
+<ul>
+	<li>
+	<p>December 15, 2021, for the 6th monitoring period, we publish the professional outputs of the Secretariat of the Defender and his deputy. These are <a href="16_sankce-prispevek-na-peci.pdf">sanction material</a> for the government (issues of the currently effective legal regulation of the care allowance),&nbsp; <a href="17_sankce-vyrazeni-z-up.pdf">sanction material</a> for the government (illegal procedure of regional branches of the Labor Office and the Ministry of Labor and Social Affairs in removing jobseekers <a href="18_sankce-dlouhodoby-pobyt.pdf">material</a> to the government (illegal procedure of the OAMP MV when stopping the proceedings on the application for a long-term residence permit), as well as on the <a href="19_vyjadreni_us_94.pdf">statement</a> of the intervener in the proceedings before ÚS (proposal to repeal &sect; 94 letter a) of Act No. 6/2002 Coll. for conflict with the constitutional order), for the <a href="20_vyjadreni_us_111.pdf">statement</a> of the intervener in the proceedings before the Constitutional Court (proposal to repeal selected provisions of Acts No. 111/2006 Coll. and No. 251/2016 Coll. for conflict with the constitutional order), for the GTC report on activities for III. quarter 2021 (inclusion of a separate section containing key information on the current phase of project implementation in the KVOP) and on <a href="21_novela_zakona_o_ssp-pripominky-mpsv.pdf">legislative comments</a> (comments of the GTC on the draft law amending Act No. 117/1995 Coll.).</p>
+	</li>
+	<li>
 	<p>November 12, 2021, we are publishing an <a href="15_vop-studie-mindbridge-en.pdf">analytical report</a> from the Citizens of the European Union in the Czech Republic survey, the aim of which is to examine the experiences of EU migrant workers and their family members currently residing in the Czech Republic in various areas of life. Following the research report, we publish Recommendations, the purpose of which is to use the findings of the analytical report of the research and the activities of the Defender and on the basis of them to propose individual partial recommendations that would help improve the unsatisfactory situation. The documents can also be found in the Register of Ombudsman Opinions.</p>
 	</li>
 	<li>
