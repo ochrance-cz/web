@@ -42,6 +42,27 @@ gallery:
 
 <ul>
 	<li>
+	<p>November 12, 2021, we are publishing an <a href="15_vop-studie-mindbridge-en.pdf">analytical report</a> from the Citizens of the European Union in the Czech Republic survey, the aim of which is to examine the experiences of EU migrant workers and their family members currently residing in the Czech Republic in various areas of life. Following the research report, we publish Recommendations, the purpose of which is to use the findings of the analytical report of the research and the activities of the Defender and on the basis of them to propose individual partial recommendations that would help improve the unsatisfactory situation. The documents can also be found in the Register of Ombudsman Opinions.</p>
+	</li>
+	<li>
+	<p>October 14, 2021 today we started a three-day online meeting with the Norwegian partner Norges institusjon for menneskerettigheter. We focused the interactive workshop on the topic &quot;Paris Principles in Practice&quot;.<img alt="On-line meeting with Norwegian partner" src="14_on-line_setkani_s_norskym_partnerem.jpg" /></p>
+	</li>
+	<li>
+	<p>October 8, 2021 we publish an information <a href="13_letak_-_dite_na_psychiatrii_s_nf.pdf">leaflet</a>&nbsp;for children &quot;I am in a psychiatric hospital&quot;.</p>
+	</li>
+	<li>
+	<p>October 7, 2021 we publish the <a href="12_zprava_o_setreni_a_doporuceni_ve_veci_vyhledavani_obecnych_pestounu.pdf">Recommendation of the Deputy Ombudsman</a> regarding the search for general foster parents and adoptive parents for children in foster care for a transitional period. The aim is to provide the public administration with feedback and recommendations in the area of ​​mediation of foster care and adoption. The individual authorities will be informed about the results, as well as the Ministry of Labor and Social Affairs, which manages the authorities methodically in this area, and is therefore responsible for the possible regulation of fragmented administrative practice.</p>
+	</li>
+	<li>
+	<p>August 15, 2021&nbsp; for the 5th monitoring period, we publish the professional outputs of the Secretariat of the Defender and his deputy. This is a <a href="9_material_szd_11-2021-cb_sankce_vlade.pdf">sanction material</a> for the government concerning the issue of unregistered facilities providing social services, as well as the <a href="10_2021-szd-jcz-_vyjadreni_k_navrhu_k_us_final.pdf">statement</a> of the intervener in the proceedings on the repeal of the provisions of &sect; 155 para. 4 and para. 5 of Act No. 541/2020 Coll., On waste, as amended. <a href="11_2021-szd-dk_final.pdf">regulations</a>&nbsp;and a motion to the Constitutional Court to annul the provisions of point 80 in the part defined in column 2 of Annex No. 4 to Government Decree No. 278/2008 Coll., on the content of individual trades, as amended</p>
+	</li>
+	<li>
+	<p>August 12, 2021 we publish <a href="8_doporuceni_detska_psychiatrie.pdf">Recommendations</a> ZVOP Child&#39;s participation in decision-making on matters related to his hospitalization in psychiatry</p>
+	</li>
+	<li>
+	<p>June 30, 2021, we are publishing a press release to issue the first monitoring report on equal treatment. In the initial monitoring report on equal treatment, we present three areas that the Ombudsman will systematically monitor by 2023. You can find the monitoring report <a href="7_ombudsman-nf_monitor-z-01_en.pdf">here</a>.</p>
+	</li>
+	<li>
 	<p>April 15 2021, for the fourth monitoring period of the project, we publish the expert outputs of the Defender&#39;s Secretariat and his deputy. This is a <strong>&nbsp;3</strong> proposal to the Constitutional Court to annul the provisions of Section 9, Paragraph 5 of Decree No. 177/1996 Coll.&nbsp; <a href="4_vlada_-_vyrazeni_z_uradu_prace.pdf">employment</a>and the statement of the intervener in the proceedings on the annulment of the provisions of Section 52, Paragraph 4 of Act No. 169/1999 Coll., on the Execution of Sentences of Imprisonment. Next in line is the <a href="5_ennhri_questionnare_ecthr_-_third_party_intervention_final_an_update.pdf">ENNHRI questionnaire</a> on the collection of litigation information in the case of Duarte Agostinho and others v. Portugal and others before the ECtHR and the&nbsp;<a href="6_rule-of-law-consultation-2021-questionnaire_cz.pdf">annual report</a>&nbsp;on the state of the rule of law in the Czech Republic in 2020 for ENNHRI.</p>
 	</li>
 	<li>
