@@ -7,14 +7,14 @@ date: 2022-05-25T07:43:18.761Z
 vystupy:
   - tz
 perex: >
-  <p><strong>Souhrnná zpráva ze zařízení pro děti, o které se z nejrůznějších
-  důvodů nemůže postarat biologická či náhradní rodina přináší přehled poznatků
-  ze systematických návštěv dvanácti dětských domovů a výchovných ústavů. Na ty
-  v rámci agendy prevence špatného zacházení s lidmi omezenými na svobodě
+  <p>Souhrnná zpráva ze zařízení pro děti, o které se z nejrůznějších důvodů
+  nemůže postarat biologická či náhradní rodina přináší přehled poznatků ze
+  systematických návštěv dvanácti dětských domovů a výchovných ústavů. Na ty v
+  rámci agendy prevence špatného zacházení s lidmi omezenými na svobodě
   vyjížděli v letech 2019 - 2021 právníci Kanceláře ombudsmana spolu s odborníky
   na dětskou problematiku. Zástupkyně ombudsmana Monika Šimůnková, která má tuto
   agendu v gesci, pak formulovala doporučení jak pro Ministerstvo školství tak
-  samotná zařízení. </strong></p>
+  samotná zařízení.</p>
 attachments:
   - title: Souhrnná zpráva z návštěv zařízení pro výkon ústavní výchovy
     file: https://eso.ochrance.cz/Nalezene/Edit/10388
