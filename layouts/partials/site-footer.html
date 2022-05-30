@@ -29,6 +29,11 @@
           {{ with .Site.GetPage "o-nas/predpisy" }}
             <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
           {{ end }}
+          {{ with .Site.GetPage "provoz/volna-mista-a-staze" }}
+            <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+          {{ end }}
+
+          <li><a href="https://domek.ochrance.cz">Domek polopatě – průvodce stavbou rodinného domu</a></li>
         </ul>
       </section>
 
