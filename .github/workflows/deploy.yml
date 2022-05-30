@@ -32,12 +32,12 @@ jobs:
         run: hugo
 
       - name: Compress build
-        run: tar -zcf build-${{ github.run_number }}.tar.gz ./public
+        run: tar -zcf prod-build-${{ github.run_number }}.tar.gz ./public
 
       - name: Publish
         uses: nogsantos/scp-deploy@master
         with:
-          src: ./build-${{ github.run_number }}.tar.gz
+          src: ./prod-build-${{ github.run_number }}.tar.gz
           host: ${{ secrets.SSH_HOSTNAME }}
           remote: /home/ochrance/public_html
           port: ${{ secrets.SSH_PORT }}
@@ -51,7 +51,7 @@ jobs:
             cd /home/ochrance/public_html
             echo ${{ github.run_number }} > GHRN.txt
             mkdir www-${{ github.run_number }}
-            tar -xf build-${{ github.run_number }}.tar.gz -C ./www-${{ github.run_number }} --strip-components=2
+            tar -xf prod-build-${{ github.run_number }}.tar.gz -C ./www-${{ github.run_number }} --strip-components=2
             if [[ $(<GHRN.txt) > ${{ github.run_number }} ]]; then
               echo "Newer Github workflow detected. Aborting directory overwrite."
               rm -rf www-${{ github.run_number }}
@@ -148,7 +148,7 @@ jobs:
               ln -s www-prod/.htaccess .htaccess
               rm -rf www-old
             fi
-            rm build-${{ github.run_number }}.tar.gz
+            rm prod-build-*.tar.gz
           host: ${{ secrets.SSH_HOSTNAME }}
           username: ${{ secrets.SSH_USERNAME }}
           privateKey: ${{ secrets.SSH_PRIVATE_KEY }}
