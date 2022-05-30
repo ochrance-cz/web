@@ -1,5 +1,9 @@
 name: scp deploy
 
+concurrency:
+  group: production
+  cancel-in-progress: true
+
 on:
   workflow_dispatch:
   schedule:
