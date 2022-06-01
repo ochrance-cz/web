@@ -572,10 +572,10 @@ lawyers:
         role: právník
         phone: 542 542 248
         email: adam.herma@ochrance.cz
-      - name: Marie Lukasová
+      - name: Marie Kmecová
         role: právnička
         phone: 542 542 484
-        email: marie.lukasova@ochrance.cz
+        email: marie.kmecova@ochrance.cz
       - name: Jana Pecková Hodečková
         role: "právnička "
         phone: 542 542 313
