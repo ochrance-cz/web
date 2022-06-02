@@ -556,7 +556,7 @@ lawyers:
         role: právnička
       - name: Nicole Fryčová
         role: právnička
-        phone: "542 542 273 "
+        phone: 542 542 255
         email: "nicole.frycova@ochrance.cz "
   - title: Odbor metodiky a analýzy
     people:
