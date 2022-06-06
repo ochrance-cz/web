@@ -199,7 +199,7 @@ lawyers:
         phone: 542 542 320
         email: "katerina.bartosova@ochrance.cz "
       - name: Renata Krišpínová
-        role: právnička
+        role: referentka
         phone: 542 542 331
         email: "renata.krispinova@ochrance.cz "
   - title: Odbor sociálního zabezpečení
