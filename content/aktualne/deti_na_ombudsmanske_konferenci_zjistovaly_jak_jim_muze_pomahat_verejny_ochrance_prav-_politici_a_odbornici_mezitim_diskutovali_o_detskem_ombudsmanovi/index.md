@@ -30,6 +30,12 @@ attachments:
 
 <p>Novou podobu letos dostaly webové stránky ombudsmana určené přímo dětem <a href="https://deti.ochrance.cz/">deti.ochrance.cz</a>. Právě tam a na <a href="https://www.youtube.com/watch?v=iiw2OM4jDbA">Youtube</a> bude postupně zveřejněných celkem sedm videí s&nbsp;vlogerkou Aničkou, která dětem představuje působnost veřejného ochránce práv a jeho práci.</p>
 
+
+
+{{< youtube "_wkG9PC6a1A" >}}
+
+
+
 <p>Finišuje také převedení textů Úmluvy o právech osob se zdravotním postižením a Úmluvy o právech dítěte do formátu pro snadné čtení tak, aby byly dobře srozumitelné dětským čtenářům nebo lidem s&nbsp;psychosociálním postižením.</p>
 
 <p>Ročně se na veřejného ochránce práv obrátí několik desítek dětí<a href="#_ftn2">[2]</a>. Vloni mezi nimi byla například čtrnáctiletá Lucie. Té se nelíbilo, že jí v&nbsp;dětském domově, kde žije, nechtějí dovolit podat přihlášku na střední školu, kterou si vybrala. Spolu s&nbsp;příslušným OSPOD a dětským domovem se nakonec podařilo vše domluvit k&nbsp;Lucčině spokojenosti.</p>
@@ -40,7 +46,11 @@ attachments:
 
 <p>Zmínil také, že se přiklání k&nbsp;variantě, kdy by dětský ombudsman působil v rámci Kanceláře veřejného ochránce práv. Pak mohla by nová instituce stavět na letitých zkušenostech zdejších právníků i představitelů. Naopak při zřízení dětského ombudsmana jako samostatného úřadu je podle Křečka nutné zamezit překrývání kompetencí. Zároveň upozornil, že vznik nové instituce by si žádal vysoké výdaje ze státního rozpočtu. Konkrétní nastavení působnosti a pravomocí dětského ombudsmana ovšem musí podle veřejného ochránce práv být výsledkem politického rozhodnutí.</p>
 
-<p>&nbsp;</p>
+
+
+{{< youtube "7joyhC2pDgQ" >}}
+
+
 
 <hr />
 <p><a href="#_ftnref1"><strong><strong>[1]</strong></strong></a> Dětská konference a tisková zpráva jsou realizovány v&nbsp;rámci projektu<em> </em>Posílení aktivit veřejného ochránce práv v&nbsp;ochraně lidských práv (směrem k&nbsp;ustavení Národní lidskoprávní instituce v&nbsp;ČR), číslo projektu LP-PDP3-001. Projekt je součástí Programu lidská práva financovaného z&nbsp;Norských fondů 2014-2021 prostřednictvím Ministerstva financí.</p>
