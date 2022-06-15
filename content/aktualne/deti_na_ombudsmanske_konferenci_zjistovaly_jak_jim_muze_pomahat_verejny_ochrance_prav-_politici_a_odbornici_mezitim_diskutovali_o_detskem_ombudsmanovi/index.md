@@ -2,8 +2,8 @@
 title: "Děti na ombudsmanské konferenci zjišťovaly, jak jim může pomáhat veřejný
   ochránce práv. Politici a odborníci mezitím diskutovali o dětském ombudsmanovi
   "
-draft: true
-date: 2022-06-15T07:43:22.087Z
+draft: false
+date: 2022-06-15T11:03:39.467Z
 vystupy:
   - tz
 perex: >
