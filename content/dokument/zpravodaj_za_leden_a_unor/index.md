@@ -5,8 +5,8 @@ vystupy:
   - zpravodaj
 attachmentsTop:
   - title: Zpravodaj za leden a únor
-    file: https://www.ochrance.cz/dokument/zpravodaj-leden-unor.pdf
+    file: https://www.ochrance.cz/dokument/zpravodaj_za_leden_a_unor/zpravodaj-leden-unor.pdf
 attachments:
   - title: Zpravodaj za leden a únor
-    file: https://www.ochrance.cz/dokument/zpravodaj-leden-unor.docx
+    file: https://www.ochrance.cz/dokument/zpravodaj_za_leden_a_unor/zpravodaj-leden-unor.docx
 ---
