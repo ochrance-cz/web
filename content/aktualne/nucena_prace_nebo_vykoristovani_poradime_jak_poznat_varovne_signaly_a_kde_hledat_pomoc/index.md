@@ -16,15 +16,15 @@ perex: >
   s&nbsp;možným vykořisťováním dát pozor. Varovné signály jsou podobné jak pro
   potenciální oběti, tak pro lidi z&nbsp;jejich okolí.</p>
 ---
-<p>V&nbsp;souvislosti s&nbsp;válkou na Ukrajině <a href="https://www.mvcr.cz/clanek/statistika-v-souvislosti-s-valkou-na-ukrajine-archiv.aspx">přišlo do Česka už téměř 369 tisíc lidí</a>. Většina z&nbsp;nich jsou ženy nebo děti. Obě skupiny patří mezi velmi zranitelné. I pro ně platí, že by měli vyhledat pomoc, pokud je někdo k&nbsp;práci nutí, musí pracovat v&nbsp;nedůstojných podmínkách nebo jim někdo sebral doklady. Stejně tak jsou nepřípustné návrhy se sexuálním podtextem nebo je přímo napadení.</p>
+<p>V&nbsp;souvislosti s&nbsp;válkou na Ukrajině <a href="https://www.mvcr.cz/clanek/statistika-v-souvislosti-s-valkou-na-ukrajine-archiv.aspx">přišlo do Česka už téměř 369 tisíc lidí</a>. Většina z&nbsp;nich jsou ženy nebo děti. Obě skupiny patří mezi velmi zranitelné. I pro ně platí, že by měli vyhledat pomoc, pokud je někdo k&nbsp;práci nutí, musí pracovat v&nbsp;nedůstojných podmínkách nebo jim někdo sebral doklady. Stejně tak jsou nepřípustné návrhy se sexuálním podtextem nebo přímo napadení.</p>
 
-<p><img alt="2.png" src="https://www.ochrance.cz/aktualne/nucena_prace_nebo_vykoristovani_poradime_jak_poznat_varovne_signaly_a_kde_hledat_pomoc/2.png" />Lidé by měli důvěřovat pouze oficiálním informacím a třeba se vyvarovat různých zprostředkovatelů práce. U těch totiž je vyšší riziko, že mohou narazit na někoho, kdo chce jejich zranitelné postavení zneužít. &nbsp;</p>
+<p><img alt="2.png" src="https://www.ochrance.cz/aktualne/nucena_prace_nebo_vykoristovani_poradime_jak_poznat_varovne_signaly_a_kde_hledat_pomoc/2.png" />Lidé by měli důvěřovat pouze oficiálním informacím a třeba se vyvarovat různých zprostředkovatelů práce. U těch totiž je vyšší riziko, že lidé mohou narazit na někoho, kdo chce jejich zranitelné postavení zneužít. &nbsp;</p>
 
 <p><img alt="6.png" src="https://www.ochrance.cz/aktualne/nucena_prace_nebo_vykoristovani_poradime_jak_poznat_varovne_signaly_a_kde_hledat_pomoc/6.png" /></p>
 
-<p>Neziskové organizace pracující s&nbsp;cizinci už podle dostupných informací řeší desítky případů možného vykořisťování&nbsp;ukrajinských příchozích. Veřejný ochránce práv může případné stěžovatele, kteří mají s&nbsp;nucenou prací zkušenost, nasměrovat právě na neziskové organizace jako je La Strada, nebo třeba i na policii. Přímo se pak může zabývat například případy, kdy člověk není spokojený s&nbsp;tím, jak jeho stížnost na podmínky v&nbsp;práci prošetřil inspektorát práce, a <a href="https://www.ochrance.cz/letaky/pracovnepravni-vztahy/pracovnepravni-vztahy.pdf">postup inspektorátu prověřit</a>.</p>
+<p>Neziskové organizace pracující s&nbsp;cizinci už podle dostupných informací řeší desítky případů možného vykořisťování&nbsp;ukrajinských příchozích. Veřejný ochránce práv může případné stěžovatele, kteří mají s&nbsp;nucenou prací zkušenost, nasměrovat právě na neziskové organizace jako je La Strada nebo třeba i na policii. Přímo se pak může zabývat například případy, kdy člověk není spokojený s&nbsp;tím, jak jeho stížnost na podmínky v&nbsp;práci prošetřil inspektorát práce, a <a href="https://www.ochrance.cz/letaky/pracovnepravni-vztahy/pracovnepravni-vztahy.pdf">postup inspektorátu prověřit</a>.</p>
 
-<p>Upozornit na možné vykořisťování ale podle ní může kdokoli, stačí si všímat varovných signálů.</p>
+<p>Upozornit na možné vykořisťování ale může kdokoli, stačí si všímat varovných signálů.</p>
 
 <p><img alt="1.png" src="https://www.ochrance.cz/aktualne/nucena_prace_nebo_vykoristovani_poradime_jak_poznat_varovne_signaly_a_kde_hledat_pomoc/1.png" /></p>
 
