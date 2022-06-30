@@ -63,7 +63,30 @@ areas:
   - area: Český telekomunikační úřad; Energetický regulační úřad; Státní energetická
       inspekce
   - area: Rovné zacházení a ochrana před diskriminací
+  - area: Ochrana práv dětí a rodiny
+    desc: Činnost orgánů OSPOD, ústavní výchova, dávky pěstounské péče
+  - area: Práce a zaměstnanost
+    desc: Kontrola orgánů inspekce práce, činnost úřadu práce
+  - area: Cizinecké věci
+    desc: Pobyt cizinců, azylové řízení a integrace azylantů, rozhodnutí o správním
+      vyhoštění, rozhodnutí o zajištění, konzulární služba aj.
+  - area: Zdravotnictví
+    desc: Pojistné na zdravotní pojištění a činnost zdravotních pojišťoven, péče o
+      zdraví
+  - area: Samospráva
+    desc: Dozor a kontrola státu nad územní samosprávou, její ochrana, územní členění
+  - area: Školství
+    desc: Správa na úseku školství, akademická samospráva aj.
+  - area: Činnost Policie ČR
+  - area: Činnost Vězeňské služby ČR
+  - area: Právo na informace
+  - area: Úřad pro ochranu osobních údajů
+  - area: Veřejné opatrovnictví
+  - area: Dohled nad místy, kde se nacházejí osoby omezené na svobodě
+  - area: Ochrana práv osob se zdravotním postižením
   - area: "Další:"
     desc: ochrana hospodářské soutěže, správa na úseku zbraní a střeliva, dozor nad
-      peněžními ústavy aj.
+      peněžními ústavy, sociální služby, právo sdružovací a shromažďovací,
+      registrace církví, práva menšin, Národní bezpečnostní úřad, svoboda
+      projevu, správa na úseku tisku, činnost RRTV, konzulární služba aj.
 ---
