@@ -194,10 +194,6 @@ lawyers:
         role: právník (katastr nemovitostí, pozemkové úřady)
         phone: 542 542 324
         email: david.vavra@ochrance.cz
-      - name: Kateřina Bartošová
-        role: právnička
-        phone: 542 542 320
-        email: "katerina.bartosova@ochrance.cz "
       - name: Renata Krišpínová
         role: referentka
         phone: 542 542 331
@@ -488,10 +484,6 @@ lawyers:
         role: právník
         phone: 542 542 284
         email: stepan.jilka@ochrance.cz
-      - name: Barbora Matějková
-        role: právnička
-        phone: 542 542 306
-        email: barbora.matejkova@ochrance.cz
       - name: Jiří Matuška
         role: právník
         phone: 542 542 346
