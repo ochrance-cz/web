@@ -50,7 +50,7 @@ gallery:
 	<p>30.6.2022 &ndash; zveřejňujeme 3. díl videa s&nbsp;vlogerkou Aničkou na téma školství. Video je ke zhlédnutí <a href="https://www.youtube.com/watch?v=OcKbyR5Nzp0">zde</a>.</p>
 	</li>
 	<li>
-	<p>30.6.2022 &ndash; zveřejňujeme tiskovou zprávu, která shrnuje témata, která vyvstala na dětské konferenci. Tisková zpráva je ke shlédnutí <a href="https://www.ochrance.cz/aktualne/deti_by_chtely_aby_je_dospeli_brali_vazne-_temata_z_prvni_detske_ombudsmanske_konference_budou_moct_podrobneji_probrat_na_navazujicich_workshopech/tiskova_zprava_-_zhodnoceni_detske_konference.pdf">zde</a>. &nbsp;</p>
+	<p>30.6.2022 &ndash; zveřejňujeme tiskovou zprávu, která shrnuje témata, která vyvstala na dětské konferenci. Tisková zpráva je ke zhlédnutí <a href="https://www.ochrance.cz/aktualne/deti_by_chtely_aby_je_dospeli_brali_vazne-_temata_z_prvni_detske_ombudsmanske_konference_budou_moct_podrobneji_probrat_na_navazujicich_workshopech/tiskova_zprava_-_zhodnoceni_detske_konference.pdf">zde</a>. &nbsp;</p>
 	</li>
 	<li>
 	<p>22.6.2022 &ndash; zveřejňujeme 3. díl ze série o ombudsmanovi pro děti Anička vloguje. Tentokrát je tématem diskriminace. Video je ke zhlédnutí <a href="https://www.youtube.com/watch?v=GiTQycQaZgM">zde</a>.</p>
@@ -75,7 +75,7 @@ gallery:
 	<p>20.4.2022 jsme zrealizovali workshop pro zástupce ministerstev a dalších úřadů, některých krajů a neziskových organizací pracujících s&nbsp;cizinci &ndash; občany EU. Cílem workshopu bylo jednak představit výsledky rozsáhlého výzkumu Občané EU v&nbsp;ČR, který zjišťoval, jak se žije občanům EU v&nbsp;ČR a s&nbsp;jakými problémy se potýkají, &nbsp;a také diskutovat nad doporučeními ochránce, která na podkladě tohoto výzkumu vznikla. Zde můžete zhlédnout <a href="obcane-eu-v-cesku_prezentace-s-doporucenimi.pdf">prezentaci k seznámení s doporučeními</a>, <a href="obcane-eu-v-cesku_prezentace-k-realizovanemu-vyzkumu.pdf">prezentaci k&nbsp;realizovanému výzkumu</a> a <a href="obcane-eu-v-cesku_prezentace-ds.pdf">prezentaci v rámci diskusní skupiny</a>.</p>
 	</li>
 	<li>
-	<p>K&nbsp;15.2.2022 zveřejňujeme praktickou Praktická příručka práva na&nbsp;rovné zacházení rodiče na&nbsp;pracovním trhu <a href="https://www.ochrance.cz/dokument/rodicovstvi_a_diskriminace_v_praci/">zde</a>.</p>
+	<p>K&nbsp;15.2.2022 zveřejňujeme <a href="http://www.ochrance.cz/dokument/rodicovstvi_a_diskriminace_v_praci/">Praktickou příručku práva na&nbsp;rovné zacházení rodiče na&nbsp;pracovním trhu</a>.</p>
 	</li>
 	<li>
 	<p>K&nbsp;2.2.2022 zveřejňujeme v&nbsp;rámci projektu první Zprávu z&nbsp;následné návštěvy zařízení a to z&nbsp;Dětského domova Hrotovice. Zpráva je dostupná <a href="https://eso.ochrance.cz/Nalezene/Edit/10324">zde</a>.</p>
