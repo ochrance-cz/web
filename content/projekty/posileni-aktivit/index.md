@@ -44,6 +44,34 @@ gallery:
 
 <ul>
 	<li>
+	<p>K 15.7.2022, tj. za 7. monitorovací období, zveřejňujeme odborné výstupy sekretariátu ochránce a jeho zástupkyně. Jedná se o legislativní připomínky (připomínky VOP k&nbsp;návrhu vyhlášky, kterou se mění vyhláška MPSV č. 505/2006 Sb., kterou se provádějí některá ustanovení zákona o sociálních službách, ve znění pozdějších předpisů). Dále jde o vyjádření vedlejšího účastníka v&nbsp;řízení před Ústavním soudem (návrh na zrušení vybraných ustanovení zákona č. 324/2021 Sb., o jednorázovém odškodnění subjektů dotčených mimořádnou událostí v areálu muničních skladů Vlachovice - Vrbětice a o změně některých zákonů) a o vyjádření vedlejšího účastníka v&nbsp;řízení před Ústavním soudem (návrh na zrušení &sect; 454 odst. 1 zákona č. 292/2013 Sb., o zvláštních řízeních soudních, ve znění pozdějších předpisů).</p>
+	</li>
+	<li>
+	<p>30.6.2022 &ndash; zveřejňujeme 3. díl videa s&nbsp;vlogerkou Aničkou na téma školství. Video je ke zhlédnutí <a href="https://www.youtube.com/watch?v=OcKbyR5Nzp0">zde</a>.</p>
+	</li>
+	<li>
+	<p>30.6.2022 &ndash; zveřejňujeme tiskovou zprávu, která shrnuje témata, která vyvstala na dětské konferenci. Tisková zpráva je ke shlédnutí <a href="https://www.ochrance.cz/aktualne/deti_by_chtely_aby_je_dospeli_brali_vazne-_temata_z_prvni_detske_ombudsmanske_konference_budou_moct_podrobneji_probrat_na_navazujicich_workshopech/tiskova_zprava_-_zhodnoceni_detske_konference.pdf">zde</a>. &nbsp;</p>
+	</li>
+	<li>
+	<p>22.6.2022 &ndash; zveřejňujeme 3. díl ze série o ombudsmanovi pro děti Anička vloguje. Tentokrát je tématem diskriminace. Video je ke zhlédnutí <a href="https://www.youtube.com/watch?v=GiTQycQaZgM">zde</a>.</p>
+	</li>
+	<li>
+	<p>21.6.2022 &ndash;&nbsp; jak to vypadlo na dětské konferenci můžete zhlédnout <a href="https://deti.ochrance.cz/aktualne/jak_to_vypadalo_na_nasi_konferenci/">zde</a>.</p>
+	</li>
+	<li>
+	<p>16.6.2022 &ndash; zveřejňujeme 2. díl ze série Anička vloguje, na téma Úřady. Video je ke zhlédnutí <a href="https://www.youtube.com/watch?v=8wPzjwGk72M&amp;t=3s">zde</a>.</p>
+	</li>
+	<li>
+	<p>15. 6. 2022 &ndash; v&nbsp;rámci osvěty zaměřené na děti jsme uspořádali historicky první konferenci určenou dětem. Účast &nbsp;na konferenci vyhrály školní kolektivy v kreativní soutěži na téma &bdquo;Jak ombudsman pomáhá dětem&ldquo;. Do ní se přihlásily čtyři stovky žáků z 33 základních škol a víceletých gymnázií z celé České republiky. Mezi osmdesáti soutěžními příspěvky byly písničky, povídky, plakáty, obrázky, básničky, prezentace nebo videa a komiksy. Mladí účastníci řešili témata jako participace dětí na veřejném životě nebo to, kde hledají pomoc při řešení různých problémů, a co by podle nich měl dělat dětský ombudsman.</p>
+	</li>
+	<li>
+	<p>Další informace ke konferenci naleznete na dětském webu <a href="https://deti.ochrance.cz/aktualne/nase_konference_pro_deti_je_v_plnem_proudu/">zde</a>, nebo v&nbsp;tiskové zprávě <a href="https://www.ochrance.cz/aktualne/deti_na_ombudsmanske_konferenci_zjistovaly_jak_jim_muze_pomahat_verejny_ochrance_prav-_politici_a_odbornici_mezitim_diskutovali_o_detskem_ombudsmanovi/tz_detska_konference.pdf">zde</a>, která shrnuje veškeré projektové aktivity na poli osvěty zaměřené na děti. A ve video formátu s&nbsp;titulky a ve znakovém jazyce tiskovou zprávu zhlédnete <a href="https://www.youtube.com/watch?v=7joyhC2pDgQ">zde</a>.</p>
+	</li>
+</ul>
+
+<ul>
+	<li>15.6.2022 &ndash; záznam z&nbsp;tiskové konference, kde jsme představili dosud zrealizované projektové aktivity v&nbsp;rámci osvěty zaměřené na děti naleznete <a href="https://www.youtube.com/watch?v=frRrDw4p7uc">zde</a>.</li>
+	<li>
 	<p>20.4.2022 jsme zrealizovali workshop pro zástupce ministerstev a dalších úřadů, některých krajů a neziskových organizací pracujících s&nbsp;cizinci &ndash; občany EU. Cílem workshopu bylo jednak představit výsledky rozsáhlého výzkumu Občané EU v&nbsp;ČR, který zjišťoval, jak se žije občanům EU v&nbsp;ČR a s&nbsp;jakými problémy se potýkají, &nbsp;a také diskutovat nad doporučeními ochránce, která na podkladě tohoto výzkumu vznikla. Zde můžete zhlédnout <a href="obcane-eu-v-cesku_prezentace-s-doporucenimi.pdf">prezentaci k seznámení s doporučeními</a>, <a href="obcane-eu-v-cesku_prezentace-k-realizovanemu-vyzkumu.pdf">prezentaci k&nbsp;realizovanému výzkumu</a> a <a href="obcane-eu-v-cesku_prezentace-ds.pdf">prezentaci v rámci diskusní skupiny</a>.</p>
 	</li>
 	<li>
