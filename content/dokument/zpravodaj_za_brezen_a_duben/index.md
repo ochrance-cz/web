@@ -6,4 +6,7 @@ vystupy:
 attachmentsTop:
   - file: https://www.ochrance.cz/dokument/zpravodaj_za_brezen_a_duben/zpravodaj-br_ezen-duben.pdf
     title: Zpravodaj za březen a duben
+attachments:
+  - title: Zpravodaj za březen a duben
+    file: https://www.ochrance.cz/dokument/zpravodaj_za_brezen_a_duben/zpravodaj-br_ezen-duben.docx
 ---
