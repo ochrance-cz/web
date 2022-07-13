@@ -42,10 +42,9 @@ gallery:
 
 <h2>Aktuality</h2>
 
+<p>&nbsp;</p>
+
 <ul>
-	<li>
-	<p>K 15.7.2022, tj. za 7. monitorovací období, zveřejňujeme odborné výstupy sekretariátu ochránce a jeho zástupkyně. Jedná se o legislativní připomínky (<a href="6447_22_priloha_pripominka_k_navrhu_vyhlasky_c_505-2006.pdf">připomínky VOP k&nbsp;návrhu vyhlášky, kterou se mění vyhláška MPSV č. 505/2006 Sb</a>., kterou se provádějí některá ustanovení zákona o sociálních službách, ve znění pozdějších předpisů). Dále jde o vyjádření vedlejšího účastníka v&nbsp;řízení před Ústavním soudem (<a href="szd_13-2022_vrbetice_.pdf">návrh na zrušení vybraných ustanovení zákona č. 324/2021 Sb., o jednorázovém odškodnění subjektů dotčených mimořádnou událostí v areálu muničních skladů Vlachovice - Vrbětice a o změně některých zákonů</a>) a o vyjádření vedlejšího účastníka v&nbsp;řízení před Ústavním soudem (<a href="szd_16-22-vop-vyjadreni_pro_us.pdf">návrh na zrušení &sect; 454 odst. 1 zákona č. 292/2013 Sb., o zvláštních řízeních soudních, ve znění pozdějších předpisů</a>).</p>
-	</li>
 	<li>
 	<p>30.6.2022 &ndash; zveřejňujeme 3. díl videa s&nbsp;vlogerkou Aničkou na téma školství. Video je ke zhlédnutí <a href="https://www.youtube.com/watch?v=OcKbyR5Nzp0">zde</a>.</p>
 	</li>
@@ -60,6 +59,9 @@ gallery:
 	</li>
 	<li>
 	<p>16.6.2022 &ndash; zveřejňujeme 2. díl ze série Anička vloguje, na téma Úřady. Video je ke zhlédnutí <a href="https://www.youtube.com/watch?v=8wPzjwGk72M&amp;t=3s">zde</a>.</p>
+	</li>
+	<li>
+	<p>K 15.6.2022, tj. za 7. monitorovací období, zveřejňujeme odborné výstupy sekretariátu ochránce a jeho zástupkyně. Jedná se o legislativní připomínky (<a href="6447_22_priloha_pripominka_k_navrhu_vyhlasky_c_505-2006.pdf">připomínky VOP k&nbsp;návrhu vyhlášky, kterou se mění vyhláška MPSV č. 505/2006 Sb</a>., kterou se provádějí některá ustanovení zákona o sociálních službách, ve znění pozdějších předpisů). Dále jde o vyjádření vedlejšího účastníka v&nbsp;řízení před Ústavním soudem (<a href="szd_13-2022_vrbetice_.pdf">návrh na zrušení vybraných ustanovení zákona č. 324/2021 Sb., o jednorázovém odškodnění subjektů dotčených mimořádnou událostí v areálu muničních skladů Vlachovice - Vrbětice a o změně některých zákonů</a>) a o vyjádření vedlejšího účastníka v&nbsp;řízení před Ústavním soudem (<a href="szd_16-22-vop-vyjadreni_pro_us.pdf">návrh na zrušení &sect; 454 odst. 1 zákona č. 292/2013 Sb., o zvláštních řízeních soudních, ve znění pozdějších předpisů</a>).</p>
 	</li>
 	<li>
 	<p>15. 6. 2022 &ndash; v&nbsp;rámci osvěty zaměřené na děti jsme uspořádali historicky první konferenci určenou dětem. Účast &nbsp;na konferenci vyhrály školní kolektivy v kreativní soutěži na téma &bdquo;Jak ombudsman pomáhá dětem&ldquo;. Do ní se přihlásily čtyři stovky žáků z 33 základních škol a víceletých gymnázií z celé České republiky. Mezi osmdesáti soutěžními příspěvky byly písničky, povídky, plakáty, obrázky, básničky, prezentace nebo videa a komiksy. Mladí účastníci řešili témata jako participace dětí na veřejném životě nebo to, kde hledají pomoc při řešení různých problémů, a co by podle nich měl dělat dětský ombudsman.</p>
