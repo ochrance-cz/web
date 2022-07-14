@@ -61,6 +61,9 @@ gallery:
 	<p>16.6.2022 &ndash; zveřejňujeme 2. díl ze série Anička vloguje, na téma Úřady. Video je ke zhlédnutí <a href="https://www.youtube.com/watch?v=8wPzjwGk72M&amp;t=3s">zde</a>.</p>
 	</li>
 	<li>
+	<p>15.6.2022 &ndash; zveřejňujeme <a href="monitorovaci_zprava_za_rok_2021.pdf">druhou projektovou monitorovací zprávu</a> z&nbsp;oblasti naplňování práva ochrany před diskriminací a to za rok 2021.</p>
+	</li>
+	<li>
 	<p>15. 6. 2022 &ndash; v&nbsp;rámci osvěty zaměřené na děti jsme uspořádali historicky první konferenci určenou dětem. Účast &nbsp;na konferenci vyhrály školní kolektivy v kreativní soutěži na téma &bdquo;Jak ombudsman pomáhá dětem&ldquo;. Do ní se přihlásily čtyři stovky žáků z 33 základních škol a víceletých gymnázií z celé České republiky. Mezi osmdesáti soutěžními příspěvky byly písničky, povídky, plakáty, obrázky, básničky, prezentace nebo videa a komiksy. Mladí účastníci řešili témata jako participace dětí na veřejném životě nebo to, kde hledají pomoc při řešení různých problémů, a co by podle nich měl dělat dětský ombudsman.</p>
 	</li>
 	<li>
