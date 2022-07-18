@@ -38,12 +38,7 @@ perex: >
 <p><strong>NAŠIM ZAMĚSTNANCŮM A ZAMĚSTNANKYNÍM NABÍZÍME:</strong></p>
 
 <ul>
-	<li>platové ohodnocení dle nařízení č. 341/2017 Sb., zařazení do 9. platové třídy,</li>
-</ul>
-
-<p>po zapracování celkový hrubý plat mezi 23 000 a 30 000 Kč podle délky předchozí praxe, možnost kvartální odměny,</p>
-
-<ul>
+	<li>platové ohodnocení dle nařízení č. 341/2017 Sb., zařazení do 9. platové třídy, po zapracování celkový hrubý plat mezi 23 000 a 30 000 Kč podle délky předchozí praxe, možnost kvartální odměny,</li>
 	<li>smlouvu na dobu určitou 1 rok s&nbsp;perspektivou doby neurčité,</li>
 	<li>práci na plný úvazek,</li>
 	<li>5 týdnů dovolené ročně,</li>
