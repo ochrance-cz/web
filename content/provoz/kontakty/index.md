@@ -36,7 +36,7 @@ sections:
       e-mail: miroslav.pridal@ochrance.cz
 
 
-      ### **Právní asistenti veřejného ochránce práv a jeho zástupkyně**
+      ### **Právní asistenti veřejného ochránce práv**
 
 
       **Miroslav Frýdek**\
