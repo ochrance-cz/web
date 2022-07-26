@@ -40,6 +40,7 @@ active: true
   Відповіді на питання, які можеть тебе тепер  турбувати
 
   <https://deti.ochrance.cz/aktuality/dlja-ditei-z-ukrajini-vid-ombudsmana-ombudsman-detem-z-ukrajiny/>
+* [ВАЖЛИВА ІНФОРМАЦІЯ ПРО МЕДИЧНЕ СТРАХУВАННЯ](/media/zdravotni_pojisteni_a4_ua.pdf)
 
 **Детальніша інфромація щодо перебування в Чеській Республіці**
 
