@@ -49,15 +49,16 @@ jobs:
         with:
           command: |
             cd /home/ochrance/public_html
+            rm -rf www-new-*
             echo ${{ github.run_number }} > GHRN.txt
-            mkdir www-${{ github.run_number }}
-            tar -xf prod-build-${{ github.run_number }}.tar.gz -C ./www-${{ github.run_number }} --strip-components=2
+            mkdir www-new-${{ github.run_number }}
+            tar -xf prod-build-${{ github.run_number }}.tar.gz -C ./www-new-${{ github.run_number }} --strip-components=2
             if [[ $(<GHRN.txt) > ${{ github.run_number }} ]]; then
               echo "Newer Github workflow detected. Aborting directory overwrite."
-              rm -rf www-${{ github.run_number }}
+              rm -rf www-new-${{ github.run_number }}
             else
               mv www-prod www-old
-              mv www-${{ github.run_number }} www-prod
+              mv www-new-${{ github.run_number }} www-prod
               rm -rf www-old
             fi
             rm prod-build-*.tar.gz
