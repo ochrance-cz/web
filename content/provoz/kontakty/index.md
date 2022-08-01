@@ -186,18 +186,10 @@ lawyers:
         role: právnička (pozemkové právo)
         phone: 542 542 383
         email: anna.stepankova@ochrance.cz
-      - name: Miloš Valášek
-        role: právník (matriky, evidence obyvatel, státní občanství)
-        phone: 542 542 343
-        email: milos.valasek@ochrance.cz
       - name: David Vávra
         role: právník (katastr nemovitostí, pozemkové úřady)
         phone: 542 542 324
         email: david.vavra@ochrance.cz
-      - name: Renata Krišpínová
-        role: referentka
-        phone: 542 542 331
-        email: "renata.krispinova@ochrance.cz "
   - title: Odbor sociálního zabezpečení
     intro: dávky pomoci v hmotné nouzi, příspěvek na péči, dávky pro zdravotně
       postižené, důchody, dávky nemocenského pojištění, dávky státní sociální
