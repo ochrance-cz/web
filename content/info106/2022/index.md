@@ -183,21 +183,45 @@ title: "2022"
 
 <h3>36/2022 &ndash; Informace ke spisům z&nbsp;oblasti Vězeňství</h3>
 
-<p>Žádost o informace</p>
+<p><a href="https://www.ochrance.cz/info106/2022/36_2022_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>Odpověď na žádost</p>
+<p><a href="https://www.ochrance.cz/info106/2022/36_2022_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <h3>37/2022 &ndash; Informace k&nbsp;žalobám VOP ve veřejném zájmu</h3>
 
+<p><a href="https://www.ochrance.cz/info106/2022/37_2022_zadost.pdf">Žádost o informace</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2022/37_2022_odpoved.odt">Odpověď na žádost</a>.</p>
+
 <h3>38/2022 &ndash; Informace ke spisu z&nbsp;oblasti Činnost Policie ČR &ndash; ostatní</h3>
+
+<p><a href="https://www.ochrance.cz/info106/2022/38_2022_zadost.pdf">Žádost o informace</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2022/38_2022_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <h3>39/2022 &ndash; Informace z&nbsp;oblasti Zdravotnictví</h3>
 
+<p><a href="https://www.ochrance.cz/info106/2022/39_2022_zadost.pdf">Žádost o informace</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2022/39_2022_odpoved.odt">Odpověď na žádost</a>.</p>
+
 <h3>40/2022 &ndash; Informace z&nbsp;oblasti Vězeňství</h3>
+
+<p><a href="https://www.ochrance.cz/info106/2022/40_2022_zadost.pdf">Žádost o informace</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2022/40_2022_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <h3>41/2022 &ndash; Informace ke spisům týkajících se Magistrátu města Karviná</h3>
 
+<p><a href="https://www.ochrance.cz/info106/2022/41_2022_zadost.pdf">Žádost o informace</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2022/41_2022_odpoved.odt">Odpověď na žádost</a>.</p>
+
 <h3>42/2022 &ndash; Informace z&nbsp;oblasti Vězeňství</h3>
+
+<p><a href="https://www.ochrance.cz/info106/2022/42_2022_zadost.pdf">Žádost o informace</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2022/42_2022_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <h3>43/2022 &ndash; Informace z&nbsp;oblasti Vězeňství</h3>
 
