@@ -181,4 +181,46 @@ title: "2022"
 
 <p><a href="https://www.ochrance.cz/info106/2022/33_2022_odpoved.odt">Odpověď na žádost</a>.</p>
 
-<p>&nbsp;</p>
+<h3>36/2022 &ndash; Informace ke spisům z&nbsp;oblasti Vězeňství</h3>
+
+<p>Žádost o informace</p>
+
+<p>Odpověď na žádost</p>
+
+<h3>37/2022 &ndash; Informace k&nbsp;žalobám VOP ve veřejném zájmu</h3>
+
+<h3>38/2022 &ndash; Informace ke spisu z&nbsp;oblasti Činnost Policie ČR &ndash; ostatní</h3>
+
+<h3>39/2022 &ndash; Informace z&nbsp;oblasti Zdravotnictví</h3>
+
+<h3>40/2022 &ndash; Informace z&nbsp;oblasti Vězeňství</h3>
+
+<h3>41/2022 &ndash; Informace ke spisům týkajících se Magistrátu města Karviná</h3>
+
+<h3>42/2022 &ndash; Informace z&nbsp;oblasti Vězeňství</h3>
+
+<h3>43/2022 &ndash; Informace z&nbsp;oblasti Vězeňství</h3>
+
+<h3>44/2022 &ndash; Informace z&nbsp;oblasti Vězeňství</h3>
+
+<h3>47/2022 &ndash; Informace z&nbsp;oblasti Vězeňství</h3>
+
+<h3>48/2022 &ndash; Informace ke spisu z&nbsp;oblasti Správy na úseku školství</h3>
+
+<h3>49/2022 &ndash; Informace z&nbsp;oblasti Vězeňství</h3>
+
+<h3>50/2022 &ndash; Informace ke spisu z&nbsp;oblasti Ochrany dětí, mládeže a rodiny</h3>
+
+<h3>54/2022 &ndash; Informace ke spisu z&nbsp;oblasti Samospráva, územní členění a práva na informace</h3>
+
+<h3>55/2022 &ndash; Informace z&nbsp;oblasti Vězeňství</h3>
+
+<h3>56/2022 &ndash; Informace z&nbsp;oblasti Diskriminace</h3>
+
+<h3>57/2022 &ndash; Informace z&nbsp;oblasti Vězeňství</h3>
+
+<h3>58/2022 &ndash; Informace k&nbsp;administrativě spisu VOP</h3>
+
+<h3>59/2022 &ndash; Informace ke spisům z&nbsp;oblasti Vězeňství</h3>
+
+<h3>60/2022 &ndash; Informace z&nbsp;oblasti Vězeňství</h3>
