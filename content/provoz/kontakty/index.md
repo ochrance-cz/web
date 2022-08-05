@@ -112,7 +112,7 @@ lawyers:
         email: marek.hanak@ochrance.cz
       - name: Anežka Hromířová
         role: právnička (územní a stavební řízení)
-        phone: 542 542 485
+        phone: 542 542 458
         email: hromirova@ochrance.cz
       - name: Hana Kašpárková
         role: právnička (územní a stavební řízení, ochrana vod)
