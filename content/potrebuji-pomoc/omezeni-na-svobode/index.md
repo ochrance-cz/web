@@ -43,7 +43,7 @@ button:
   text: Jak monitorujeme omezování osobní svobody?
   link: /pusobnost/dohled-nad-omezovanim-osobni-svobody/
 ---
-{{< rozbal “Dětská zařízení” >}}\
+{{< rozbal "Dětská zařízení" >}}\
 Ombudsman navštěvuje zařízení pro výkon ústavní a ochranné výchovy a další zařízení pro děti. Zprávy z jednotlivých návštěv zařízení jsou dostupné v [Evidenci stanovisek ochránce](https://eso.ochrance.cz/Vyhledavani/Search).
 
 [Zpráva z návštěv školských zařízení pro výkon ústavní výchovy (2022)](https://www.ochrance.cz/uploads-import/ESO/%C5%A0kolsk%C3%A1-za%C5%99%C3%ADzen%C3%AD_CZ_el-verze.pdf)
