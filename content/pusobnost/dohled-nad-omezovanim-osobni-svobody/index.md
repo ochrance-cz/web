@@ -31,7 +31,7 @@ Naše zjištění a doporučení z vícero návštěv zobecňujeme v souhrnnýc
 
 ### Počty provedených návštěv zařízení
 
-<table summary="" cellpadding="0" cellspacing="0" class="obecna_varianata2"><thead><tr><th scope="col" colspan="1" rowspan="1">Rok</th><th scope="col" colspan="1" rowspan="1">2006—2016</th><th>2017</th><th>2018</th><th>2019</th></tr></thead><tbody><tr><td>Počet návštěv</td><td>387</td><td>22</td><td>27</td><td>25</td></tr></tbody></table>
+<table summary="" cellpadding="0" cellspacing="0" class="obecna_varianata2"><thead><tr><th scope="col" colspan="1" rowspan="1">Rok</th><th scope="col" colspan="1" rowspan="1">2006—2017</th><th>2018</th><th>2019</th><th>2020</th><th>2021</th></tr></thead><tbody><tr><td>Počet návštěv</td><td>409</td><td>27</td><td>25</td><td>19</td><td>32</td></tr></tbody></table>
 
 ### Chcete vidět co a proč to děláme?
 
