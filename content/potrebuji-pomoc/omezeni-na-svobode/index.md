@@ -134,3 +134,5 @@ Ochránce sleduje výkon správního i trestního vyhoštění, předání zaji�
 {{< /rozbal >}}
 
 ### [Mapa navštívených zařízení](https://www.google.com/maps/d/embed?mid=1h8Nxe-xnknSxOMrZKUyud0jmjdpsLAyt&hl=cs&ll=49.860819393211585%2C15.441935000000022&z=8)
+
+![Printscreen mapy, která je dostupná pod odkazem výše na Googlu.](mapa.png)
