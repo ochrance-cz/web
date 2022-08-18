@@ -60,3 +60,77 @@ Ombudsman navštěvuje zařízení pro výkon ústavní a ochranné výchovy a d
 
 [Zpráva z návštěv školských zařízení pro výkon ústavní a ochranné výchovy (2007) ](https://www.ochrance.cz/uploads-import/ESO/Souhrnna*zprava_z_navstev_zarizeni__-_ochranna_a_ustavni_vychova*-_50-5006-NZ.pdf)\
 {{< /rozbal >}}
+
+{{< rozbal "Zařízení sociálních služeb" >}}
+
+Ombudsman navštěvuje pobytová zařízení sociálních služeb. Zprávy z jednotlivých návštěv zařízení jsou dostupné v [Evidenci stanovisek ochránce](https://eso.ochrance.cz/Vyhledavani/Search).
+
+[Zpráva z návštěv domovů pro osoby se zdravotním postižením (2020)](https://www.ochrance.cz/uploads-import/ESO/11-2017-NZ-OV_souhrnna_zprava_DOZP.pdf) 
+
+[Zpráva z návštěv ubytovacích zařízení poskytujících péči bez oprávnění (2015)](https://www.ochrance.cz/uploads-import/ESO/28-2014-NZ*Souhrnna_zprava*-*neregistrovana_zarizeni__CJ*.pdf) 
+
+[Zpráva z návštěv domovů pro seniory a domovů se zvláštním režimem (2015)](https://www.ochrance.cz/uploads-import/ESO/7-2013-NZ-Zprava_z_navstev.pdf) 
+
+[Zpráva z návštěv domovů pro osoby se zdravotním postižením (2009)](https://eso.ochrance.cz/Nalezene/Edit/2788) 
+
+{{< /rozbal >}}
+
+{{< rozbal "Psychiatrické nemocnice" >}}
+
+Ombudsman navštěvuje zařízení poskytující psychiatrickou péči. služeb. Zprávy z jednotlivých návštěv zařízení jsou dostupné v [Evidenci stanovisek ochránce](https://eso.ochrance.cz/Vyhledavani/Search).
+
+[Zpráva věnující se ochrannému léčení, omezovacím prostředkům a dalším tématům (2019) ](https://www.ochrance.cz/uploads-import/ESO/21-2016-NZ-MLU_SZ-ochranne_leceni.pdf)
+
+[Zpráva z návštěv dětských psychiatrických nemocnic (2013)](https://eso.ochrance.cz/Nalezene/Edit/2610) 
+
+[Zpráva z následných návštěv psychiatrických léčeben (2010)](https://www.ochrance.cz/uploads-import/ESO/50-2010-NZ-zprava_z_naslednych_navstev.pdf) 
+
+[Zpráva z návštěv psychiatrických léčeben (2008)](https://www.ochrance.cz/uploads-import/ESO/SZ_psychiatricke_lecebny_08.pdf) 
+
+{{< /rozbal >}}
+
+{{< rozbal "Ostatní zdravotnická zařízení" >}}
+
+Ombudsman navštěvuje zařízení také další zdravotnická zařízení. Zprávy z jednotlivých návštěv zařízení jsou dostupné v [Evidenci stanovisek ochránce](https://eso.ochrance.cz/Vyhledavani/Search).
+
+[Zpráva z návštěv léčeben pro dlouhodobě nemocné (2017)](https://www.ochrance.cz/uploads-import/ESO/LDN_souhrnna_zprava_2017_web.pdf) 
+
+[Zpráva z návštěv protialkoholních záchytných stanic (2014)](https://eso.ochrance.cz/Nalezene/Edit/2332) 
+
+[Zpráva z návštěv tzv. kojeneckých ústavů (2012)](https://eso.ochrance.cz/Nalezene/Edit/2710) 
+
+{{< /rozbal >}}
+
+{{< rozbal "Vězeňská zařízení" >}}
+
+Ombudsman navštěvuje zařízení vazební věznice, věznice a ústavy pro výkon zabezpečovací detence. Vyřizuje také individuální stížnosti z těchto zařízení. Zprávy z jednotlivých návštěv zařízení jsou dostupné v [Evidenci stanovisek ochránce](https://eso.ochrance.cz/Vyhledavani/Search).
+
+[Zpráva z návštěv ústavů pro výkon zabezpečovací detence (2019)](https://www.ochrance.cz/uploads-import/ESO/5-2019-NZ-MKL_Souhrna_zprava_zabezpecovaci_detence.pdf) 
+
+[Sborník stanovisek ochránce - Vězeňství II (2019)](https://www.ochrance.cz/uploads-import/Publikace/sborniky_stanoviska/Sbornik_Vezenstvi_II.pdf)
+
+[Zpráva z návštěv věznic (2016)](https://www.ochrance.cz/uploads-import/ESO/14-2014-NZ-Souhrnna_zprava_z_navstev_veznic.pdf) 
+
+{{< /rozbal >}}
+
+{{< rozbal "Policejní cely" >}}
+
+Ombudsman navštěvuje policejní cely. Zprávy z jednotlivých návštěv zařízení jsou dostupné v[ Evidenci stanovisek ochránce](https://eso.ochrance.cz/Vyhledavani/Search).
+
+[Zpráva z návštěv policejních cel (2017)](https://www.ochrance.cz/uploads-import/ESO/22-2017-NZ_Souhrnna_zprava_Policejni_cely_2017_CZ.pdf)
+
+{{< /rozbal >}}
+
+{{< rozbal "Zařízení pro cizince" >}}
+
+Ombudsman navštěvuje zařízení pro zajištění cizinců, přijímací a pobytová střediska. Zprávy z jednotlivých návštěv zařízení jsou dostupné v [Evidenci stanovisek ochránce](https://eso.ochrance.cz/Vyhledavani/Search).
+
+{{< /rozbal >}}
+
+{{< rozbal "Sledování vyhoštění" >}}
+
+Ochránce sleduje výkon správního i trestního vyhoštění, předání zajištěných cizinců nebo jejich průvozu přes Českou republiku. Zprávy z jednotlivých sledování vyhoštění jsou dostupné v [Evidenci stanovisek ochránce](https://eso.ochrance.cz/Vyhledavani/Search).
+
+{{< /rozbal >}}
+
+### [Mapa navštívených zařízení](https://www.google.com/maps/d/embed?mid=1h8Nxe-xnknSxOMrZKUyud0jmjdpsLAyt&hl=cs&ll=49.860819393211585%2C15.441935000000022&z=8)
