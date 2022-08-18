@@ -43,6 +43,12 @@ button:
   text: Jak monitorujeme omezování osobní svobody?
   link: /pusobnost/dohled-nad-omezovanim-osobni-svobody/
 ---
+### Ombudsman:
+
+* sleduje zacházení s těmito lidmi a podmínky v zařízeních.
+* upozorňuje na zjištěné dílčí i systémové nedostatky a prosazuje jejich nápravu.
+* vzdělává odbornou i širokou veřejnost a spolupracuje s dalšími aktéry na prevenci špatného zacházení.
+
 {{< rozbal "Dětská zařízení" >}}\
 Ombudsman navštěvuje zařízení pro výkon ústavní a ochranné výchovy a další zařízení pro děti. Zprávy z jednotlivých návštěv zařízení jsou dostupné v [Evidenci stanovisek ochránce](https://eso.ochrance.cz/Vyhledavani/Search).
 
