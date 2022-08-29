@@ -6,7 +6,7 @@ vystupy:
   - tz
 perex: >
   <p>Veřejný ochránce práv dnes obdržel usnesení Nejvyššího správního soudu o
-  přiznání odkladného účinku kasační stížnosti, kterou podal proti unesení
+  přiznání odkladného účinku kasační stížnosti, kterou podal proti usnesení
   olomoucké pobočky Krajského soudu v&nbsp;Ostravě ve věci rozhodnutí o umístění
   stavby Šantovka Tower v&nbsp;Olomouci. Díky odkladnému účinku nesmí olomoucký
   magistrát až do skončení řízení o kasační stížnosti vydat investorovi stavební
