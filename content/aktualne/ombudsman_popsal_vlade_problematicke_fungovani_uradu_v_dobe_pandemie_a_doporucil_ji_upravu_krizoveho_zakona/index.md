@@ -14,6 +14,9 @@ perex: >
   republiky. Komplexní revizi legislativy pro krizové řízení a kritickou
   infrastrukturu a případně úpravu kompetenční zákona chce vláda podle
   programového prohlášení připravit do konce příštího roku.</p>
+attachments:
+  - title: Doporučení veřejného ochránce práv
+    file: https://eso.ochrance.cz/Nalezene/Edit/10640
 ---
 <p>Ombudsman vládu upozornil například na nejednotný postup úřadů, nedostatečnou informovanost veřejnosti o&nbsp;omezeném chodu některých agend úřadů, nepřístupnost služeb veřejné správy pro&nbsp;lidi s&nbsp;postižením nebo na znevýhodnění určité skupiny obyvatel v&nbsp;případě distančního způsobu komunikace s&nbsp;úřady. <em>&bdquo;V některých případech mohlo docházet ke&nbsp;znevýhodnění osob, které v&nbsp;důsledku svého věku, zdravotního omezení, nedostupnosti technického vybavení nebo připojení k&nbsp;internetu nemohly s&nbsp;úřady komunikovat nebo pro&nbsp;ně byla takováto komunikace velmi obtížná,&ldquo;</em> vysvětlil ombudsman Stanislav Křeček.</p>
 
