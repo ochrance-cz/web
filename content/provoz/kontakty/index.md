@@ -316,10 +316,6 @@ lawyers:
         role: právnička (sociálně-právní ochrana dětí, ústavní výchova, pěstounská péče)
         phone: 542 542 304
         email: klara.ille@ochrance.cz
-      - name: Petra Dostálová
-        role: právnička (správa na úseku zdravotnictví)
-        phone: 542 542 350
-        email: petra.jelinkova@ochrance.cz
       - name: Barbora Jechová
         role: právnička (sociálně-právní ochrana dětí, ústavní výchova, pěstounská péče)
         phone: 542 542 310
@@ -582,8 +578,8 @@ lawyers:
         role: "výzkumný pracovník "
         phone: "542 542 396 "
         email: tomas.janku@ochrance.cz
-      - name: Magdalena Konečná
+      - name: Eva Čermáková
         role: výzkumná pracovnice
         phone: 542 542 355
-        email: magdalena.konecna@ochrance.cz
+        email: eva.cermakova@ochrance.cz
 ---
