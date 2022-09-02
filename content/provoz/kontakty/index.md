@@ -6,11 +6,9 @@ sections:
     intro: |-
       **JUDr. Stanislav Křeček**  
       veřejný ochránce práv
-  - title: Zástupkyně veřejného ochránce práv
-    intro: |-
-      **Mgr. Monika Šimůnková**  
-      zástupkyně veřejného ochránce práv
-  - title: Sekretariát veřejného ochránce práv a jeho zástupkyně
+  - title: Zástupce veřejného ochránce práv
+    intro: "**pozice aktuálně neobsazena**"
+  - title: Sekretariát veřejného ochránce práv a jeho zástupce
     intro: >-
       **Sekretariát veřejného ochránce práv**\
 
@@ -19,14 +17,14 @@ sections:
       tel: (+420) 542 542 777
 
 
-      **Sekretariát zástupkyně veřejného ochránce práv**\
+      **Sekretariát zástupce veřejného ochránce práv**\
 
       Marie Hemalová\
 
       tel: (+420) 542 542 666
 
 
-      ### **Vedoucí sekretariátu veřejného ochránce práv a jeho zástupkyně**
+      ### **Vedoucí sekretariátu veřejného ochránce práv a jeho zástupce**
 
 
       **Miroslav Přidal**\
