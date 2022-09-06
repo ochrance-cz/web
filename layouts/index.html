@@ -2,7 +2,7 @@
 <main>
   <header class="_home-header">
     {{ $images := $.Site.GetPage "media" }}
-    {{ with ($images.Resources.GetMatch .Params.headerPic) }}
+    {{ with ($images.Resources.GetMatch (replaceRE "/media/" "" .Params.headerPic)) }}
       {{ with .Resize "2000x" }}
         <img src="{{ .Permalink }}" style="aspect-ratio: {{.Width}} / {{.Height}}" width={{ .Width }} height={{.Height}}>
       {{ end }}
