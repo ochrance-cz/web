@@ -1,9 +1,9 @@
 ---
 title: Public Defender of Rights
-headerPic: home.jpg
+claim: Being here for everyone
+headerPic: /media/budova2.jpg
 situationsTitle: I need help
 cinnostTitle: Public Defender’s activities
-claim: Being here for everyone
 aktuality:
   - news
 ---
