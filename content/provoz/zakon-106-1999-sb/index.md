@@ -1,5 +1,6 @@
 ---
 title: Zásady poskytování informací dle zákona 106/1999 Sb.
+draft: true
 links:
   - text: Databáze poskytnutých informací
     link: /info106/
@@ -68,50 +69,110 @@ links:
 
 <p><em>Sazebník vychází z&nbsp;<a href="https://www.justice.cz/documents/11715/0/6-2011+SIS.pdf/d7ac0329-7df6-40bc-aaa4-6118d184a791?version=1.0">Instrukce Ministerstva spravedlnosti čj. 286/2011-OT-OSV ze&nbsp;dne 17.&nbsp;července 2011</a>.</em></p>
 
-<p>Kancelář veřejného ochránce práv stanoví k&nbsp;zajištění jednotného postupu podle zákona č.&nbsp;106/1999&nbsp;Sb., o&nbsp;svobodném přístupu k&nbsp;informacím, ve&nbsp;znění pozdějších předpisů[2], v&nbsp;souladu s&nbsp;nařízením vlády č.&nbsp;173/2006&nbsp;Sb., o&nbsp;zásadách stanovení úhrad a&nbsp;licenčních odměn za&nbsp;poskytování informací podle zákona o&nbsp;svobodném přístupu k&nbsp;informacím, tento sazebník úhrad za&nbsp;poskytování informací (dále jen &bdquo;sazebník&ldquo;):</p>
+<p>Vedoucí Kanceláře veřejného ochránce práv (dále &bdquo;Kancelář&ldquo;) stanoví sazebník podle&nbsp;nařízení vlády č.&nbsp;173/2006 Sb., o&nbsp;zásadách stanovení úhrad a&nbsp;licenčních odměn za&nbsp;poskytování informací podle zákona o&nbsp;svobodném přístupu k&nbsp;informacím, a&nbsp;podle&nbsp;instrukce Ministerstva spravedlnosti č.&nbsp;j.&nbsp;286/2011-OT-OSV,<a href="#_ftn1"><strong><strong>[1]</strong></strong></a> aby zajistil jednotný postup podle zákona o&nbsp;svobodném přístupu k&nbsp;informacím.</p>
+
+<hr />
+<p><a href="#_ftnref1"><strong><strong>[1]</strong></strong></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Instrukce Ministerstva spravedlnosti ze&nbsp;dne 17. července 2011, č.&nbsp;j.&nbsp;286/2011-OT-OSV, kterou se stanoví sazebník úhrad za poskytování informací podle zákona č. 106/1999 Sb., o&nbsp;svobodném přístupu k&nbsp;informacím.</p>
 
 <h3>1. Náklady na&nbsp;pořízení kopií</h3>
 
+<table cellspacing="0">
+	<tbody>
+		<tr>
+			<td valign="top">
+			<p><em>formát</em></p>
+			</td>
+			<td colspan="2" valign="top">
+			<p><em>A4</em></p>
+			</td>
+			<td colspan="2" valign="top">
+			<p><em>A3</em></p>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top">
+			<p>&nbsp;</p>
+			</td>
+			<td valign="top">
+			<p><em>černobílá</em></p>
+			</td>
+			<td valign="top">
+			<p><em>barevná</em></p>
+			</td>
+			<td valign="top">
+			<p><em>černobílá</em></p>
+			</td>
+			<td valign="top">
+			<p><em>barevná</em></p>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top">
+			<p><em>jednostranná</em></p>
+			</td>
+			<td valign="top">
+			<p>2 Kč</p>
+			</td>
+			<td valign="top">
+			<p>4 Kč</p>
+			</td>
+			<td valign="top">
+			<p>4 Kč</p>
+			</td>
+			<td valign="top">
+			<p>8 Kč</p>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top">
+			<p><em>oboustranná</em></p>
+			</td>
+			<td valign="top">
+			<p>3 Kč</p>
+			</td>
+			<td valign="top">
+			<p>6 Kč</p>
+			</td>
+			<td valign="top">
+			<p>6 Kč</p>
+			</td>
+			<td valign="top">
+			<p>12 Kč</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<h3>2. Náklady na výtisk publikace Kanceláře</h3>
+
+<p>Pokud se požadované informace poskytují formou prodeje výtisku publikace či tiskoviny vydané Kanceláří, je úhradou prodejní cena výtisku.</p>
+
+<h3>3. Náklady na&nbsp;pořízení technických nosičů dat</h3>
+
 <ol>
-	<li>
-	<p>Za&nbsp;pořízení kopie formátu A4: jednostranná &ndash;&nbsp;2,-&nbsp;Kč, oboustranná &ndash;&nbsp;3,-&nbsp;Kč.</p>
-	</li>
-	<li>
-	<p>Za&nbsp;pořízení kopie formátu A3: jednostranná &ndash;&nbsp;3,-&nbsp;Kč, oboustranná &ndash;&nbsp;4,-&nbsp;Kč.</p>
-	</li>
-	<li>
-	<p>Pokud jsou požadované informace obsaženy v&nbsp;publikaci či&nbsp;tiskovině vydávané povinným subjektem, stanoví se výše úhrady ve&nbsp;výši ceny příslušného výtisku, poskytují-li se informace formou prodeje tohoto výtisku.</p>
-	</li>
+	<li>Za&nbsp;1 kus CD, pokud tuto formu vyžaduje žadatel: 10 Kč.</li>
+	<li>Za&nbsp;1 kus DVD, pokud tuto formu vyžaduje žadatel: 15 Kč.</li>
+	<li>V&nbsp;případě použití jiného technického nosiče dat (např. USB flash disk) se náklady stanoví ve&nbsp;výši jeho skutečné pořizovací ceny.</li>
 </ol>
 
-<h3>2. Náklady na&nbsp;pořízení technických nosičů dat</h3>
+<h3>4. Náklady na&nbsp;odeslání informací žadateli</h3>
 
 <ol>
-	<li>Za&nbsp;1&nbsp;kus CD, pokud tuto formu vyžaduje žadatel &ndash;&nbsp;10,-&nbsp;Kč.</li>
-	<li>Za&nbsp;1&nbsp;kus DVD, pokud tuto formu vyžaduje žadatel &ndash;&nbsp;15,-&nbsp;Kč.</li>
-	<li>V&nbsp;případě použití jiného technického nosiče dat se náklady stanoví ve&nbsp;výši jeho skutečné pořizovací ceny.</li>
-</ol>
-
-<h3>3. Náklady na&nbsp;odeslání informací žadateli</h3>
-
-<ol>
-	<li>Náklady za&nbsp;použitou nebo požadovanou poštovní službu se hradí ve&nbsp;výši skutečných nákladů dle platného ceníku použitého provozovatele poštovních služeb.</li>
+	<li>Náklady za&nbsp;použitou nebo požadovanou poštovní službu se hradí ve&nbsp;výši skutečných nákladů podle platného ceníku použitého provozovatele poštovních služeb.</li>
 	<li>Náklady na&nbsp;balné se nehradí.</li>
 </ol>
 
-<h3>4. Náklady na&nbsp;mimořádně rozsáhlé vyhledání informací</h3>
-
-<p>Pokud je poskytnutí informace spojeno s&nbsp;mimořádně rozsáhlým vyhledáváním informací, stanoví se výše úhrady za&nbsp;každou hodinu vyhledávání jedním zaměstnancem na&nbsp;200,-&nbsp;Kč. V&nbsp;případě mimořádně rozsáhlého vyhledávání informací více zaměstnanců je výše úhrady dána součtem částek připadajících na&nbsp;každého zaměstnance.</p>
-
-<h3>5. Společná ustanovení</h3>
+<h3>5. Náklady na&nbsp;mimořádně rozsáhlé vyhledání informací</h3>
 
 <ol>
-	<li>Hrazení nákladů podle tohoto sazebníku je povinnými subjekty požadováno pouze tehdy, přesáhnou-li náklady na&nbsp;poskytnutí informace částku 100,-&nbsp;Kč bez nákladů na&nbsp;poštovní služby.</li>
-	<li>Vyhledávání informací trvající celkově méně než 1&nbsp;hodinu nelze považovat za&nbsp;mimořádně rozsáhlé, a&nbsp;povinný subjekt proto není oprávněn požadovat úhradu dle &sect;&nbsp;4&nbsp;sazebníku.</li>
+	<li>Pokud je poskytnutí informace spojeno s&nbsp;mimořádně rozsáhlým vyhledáváním informací, činí úhrada 200 Kč za&nbsp;každou hodinu vyhledávání jedním zaměstnancem.</li>
+	<li>Mimořádně rozsáhlé není vyhledávání informací, které trvá celkově méně než 1&nbsp;hodinu.</li>
 </ol>
 
-<p>Tento sazebník nabývá účinnosti dnem 1.&nbsp;srpna 2015</p>
+<h3>6. Společná ustanovení</h3>
 
-<p>JUDr. Pavel Pořízek</p>
+<p>Úhrada nákladů podle tohoto sazebníku se požaduje, jen pokud přesáhnou 100 Kč bez&nbsp;nákladů na&nbsp;poštovní služby.</p>
 
-<p>vedoucí Kanceláře veřejného ochránce práv</p>
+<p>&nbsp;</p>
+
+<p>Tento sazebník nabývá účinnosti dnem 15. září 2022.</p>
