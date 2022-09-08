@@ -1,6 +1,6 @@
 ---
 title: Zásady poskytování informací dle zákona 106/1999 Sb.
-draft: true
+draft: false
 links:
   - text: Databáze poskytnutých informací
     link: /info106/
