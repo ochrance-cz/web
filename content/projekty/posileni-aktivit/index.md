@@ -42,30 +42,21 @@ gallery:
 
 <h2>Aktuality</h2>
 
-<p>&nbsp;</p>
+<ul>
+	<li>2.9.2022 - zveřejňujeme 5. díl videa s&nbsp;vlogerkou Aničkou na téma práva lidí s postižením. Video je ke zhlédnutí&nbsp;<a href="https://www.youtube.com/watch?v=JjmnpspcfJM&amp;list=PLWNv_IxgJdEJRcfAUHCC1fZ6J1NiW4qh2&amp;index=5">zde</a>.</li>
+	<li>1.9.2022 &ndash; zpracovali jsme Úmluvu o právech dítěte do podoby vhodné pro dětského čtenáře. Více informace ke zhlédnutí <a href="https://deti.ochrance.cz/aktualne/chces_konecne_porozumet_umluve_o_pravech_ditete/">zde</a>.</li>
+</ul>
+
+<p><img alt="umluva.jpg" src="umluva.jpg" /></p>
 
 <ul>
-	<li>
-	<p>30.6.2022 &ndash; zveřejňujeme 3. díl videa s&nbsp;vlogerkou Aničkou na téma školství. Video je ke zhlédnutí <a href="https://www.youtube.com/watch?v=OcKbyR5Nzp0">zde</a>.</p>
-	</li>
-	<li>
-	<p>30.6.2022 &ndash; zveřejňujeme tiskovou zprávu, která shrnuje témata, která vyvstala na dětské konferenci. Tisková zpráva je ke zhlédnutí <a href="https://www.ochrance.cz/aktualne/deti_by_chtely_aby_je_dospeli_brali_vazne-_temata_z_prvni_detske_ombudsmanske_konference_budou_moct_podrobneji_probrat_na_navazujicich_workshopech/tiskova_zprava_-_zhodnoceni_detske_konference.pdf">zde</a>. &nbsp;</p>
-	</li>
-	<li>
-	<p>22.6.2022 &ndash; zveřejňujeme 3. díl ze série o ombudsmanovi pro děti Anička vloguje. Tentokrát je tématem diskriminace. Video je ke zhlédnutí <a href="https://www.youtube.com/watch?v=GiTQycQaZgM">zde</a>.</p>
-	</li>
-	<li>
-	<p>21.6.2022 &ndash;&nbsp; jak to vypadlo na dětské konferenci můžete zhlédnout <a href="https://deti.ochrance.cz/aktualne/jak_to_vypadalo_na_nasi_konferenci/">zde</a>.</p>
-	</li>
-	<li>
-	<p>16.6.2022 &ndash; zveřejňujeme 2. díl ze série Anička vloguje, na téma Úřady. Video je ke zhlédnutí <a href="https://www.youtube.com/watch?v=8wPzjwGk72M&amp;t=3s">zde</a>.</p>
-	</li>
-	<li>
-	<p>15.6.2022 &ndash; zveřejňujeme <a href="monitorovaci_zprava_za_rok_2021.pdf">druhou projektovou monitorovací zprávu</a> z&nbsp;oblasti naplňování práva ochrany před diskriminací a to za rok 2021.</p>
-	</li>
-	<li>
-	<p>15. 6. 2022 &ndash; v&nbsp;rámci osvěty zaměřené na děti jsme uspořádali historicky první konferenci určenou dětem. Účast &nbsp;na konferenci vyhrály školní kolektivy v kreativní soutěži na téma &bdquo;Jak ombudsman pomáhá dětem&ldquo;. Do ní se přihlásily čtyři stovky žáků z 33 základních škol a víceletých gymnázií z celé České republiky. Mezi osmdesáti soutěžními příspěvky byly písničky, povídky, plakáty, obrázky, básničky, prezentace nebo videa a komiksy. Mladí účastníci řešili témata jako participace dětí na veřejném životě nebo to, kde hledají pomoc při řešení různých problémů, a co by podle nich měl dělat dětský ombudsman.</p>
-	</li>
+	<li>30.6.2022 &ndash; zveřejňujeme 4. díl videa s&nbsp;vlogerkou Aničkou na téma školství. Video je ke zhlédnutí <a href="https://www.youtube.com/watch?v=OcKbyR5Nzp0">zde</a>.</li>
+	<li>30.6.2022 &ndash; zveřejňujeme tiskovou zprávu, která shrnuje témata, která vyvstala na dětské konferenci. Tisková zpráva je ke zhlédnutí <a href="https://www.ochrance.cz/aktualne/deti_by_chtely_aby_je_dospeli_brali_vazne-_temata_z_prvni_detske_ombudsmanske_konference_budou_moct_podrobneji_probrat_na_navazujicich_workshopech/tiskova_zprava_-_zhodnoceni_detske_konference.pdf">zde</a>. &nbsp;</li>
+	<li>22.6.2022 &ndash; zveřejňujeme 3. díl ze série o ombudsmanovi pro děti Anička vloguje. Tentokrát je tématem diskriminace. Video je ke zhlédnutí <a href="https://www.youtube.com/watch?v=GiTQycQaZgM">zde</a>.</li>
+	<li>21.6.2022 &ndash;&nbsp; jak to vypadlo na dětské konferenci můžete zhlédnout <a href="https://deti.ochrance.cz/aktualne/jak_to_vypadalo_na_nasi_konferenci/">zde</a>.</li>
+	<li>16.6.2022 &ndash; zveřejňujeme 2. díl ze série Anička vloguje, na téma Úřady. Video je ke zhlédnutí <a href="https://www.youtube.com/watch?v=8wPzjwGk72M&amp;t=3s">zde</a>.</li>
+	<li>15.6.2022 &ndash; zveřejňujeme <a href="monitorovaci_zprava_za_rok_2021.pdf">druhou projektovou monitorovací zprávu</a> z&nbsp;oblasti naplňování práva ochrany před diskriminací a to za rok 2021.</li>
+	<li>15. 6. 2022 &ndash; v&nbsp;rámci osvěty zaměřené na děti jsme uspořádali historicky první konferenci určenou dětem. Účast &nbsp;na konferenci vyhrály školní kolektivy v kreativní soutěži na téma &bdquo;Jak ombudsman pomáhá dětem&ldquo;. Do ní se přihlásily čtyři stovky žáků z 33 základních škol a víceletých gymnázií z celé České republiky. Mezi osmdesáti soutěžními příspěvky byly písničky, povídky, plakáty, obrázky, básničky, prezentace nebo videa a komiksy. Mladí účastníci řešili témata jako participace dětí na veřejném životě nebo to, kde hledají pomoc při řešení různých problémů, a co by podle nich měl dělat dětský ombudsman.</li>
 </ul>
 
 <p><img alt="detska_konference1.jpg" src="detska_konference1.jpg" /></p>
