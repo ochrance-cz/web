@@ -16,9 +16,9 @@ perex: >
   budoucí i současní pedagogové.</p>
 attachments:
   - title: Monitorovací zpráva za rok 2021
-    link: "https://eso.ochrance.cz/Nalezene/Edit/10620 "
+    link: https://eso.ochrance.cz/Nalezene/Edit/10620
   - title: Monitorovací zpráva za rok 2020
-    link: "https://eso.ochrance.cz/Nalezene/Edit/9218   "
+    link: https://eso.ochrance.cz/Nalezene/Edit/9218
 ---
 <p>Ve zprávě vycházel ombudsman z&nbsp;kvalifikovaných odhadů počtu romských žáků v&nbsp;předškolním, školním a středním vzdělávání, které každoročně provádí Ministerstvo školství. Podle nich se podíl romských žáků na základních školách dlouhodobě pohybuje kolem 3,6 %. Z romských žáků se pak v loňském školním roce 11,7 % vzdělávalo podle&nbsp;takzvaného Rámcového programu pro základní vzdělávání se sníženými výstupy ze vzdělávání z&nbsp;důvodu lehkého mentálního postižení (RVP ZV UV). A tři čtvrtiny z&nbsp;nich (přesně 75,7 %) byly ve třídách určených pro děti se <a href="https://www.zakonyprolidi.cz/cs/2004-561#f2873692">speciálně vzdělávacími potřebami</a>. Tyto děti se tedy vzdělávaly odděleně od svých vrstevníků na základních školách. Pro porovnání, z&nbsp;neromských žáků se podle RVP ZV UV učí pouze 1,3 % dětí, tedy téměř desetkrát menší podíl než je tomu u romských žáků.</p>
 
