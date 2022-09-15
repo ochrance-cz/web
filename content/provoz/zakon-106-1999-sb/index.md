@@ -19,7 +19,7 @@ links:
 <ul>
 	<li>Žádost se podává ústně nebo písemně, a&nbsp;to i&nbsp;prostřednictvím sítě nebo služby elektronických komunikací. Elektronická žádost musí být podána prostřednictvím elektronické podatelny Kanceláře veřejného ochránce práv&nbsp;<a href="mailto:podatelna@ochrance.cz">podatelna<img alt="" src="/uploads-import/uploads/RTEmagicC_zavinac_38.png.png" />ochrance.cz</a>&nbsp;&nbsp;nebo prostřednictvím datové schránky&nbsp;<strong>ID:</strong>&nbsp;jz5adky</li>
 	<li>Ze žádosti musí být zřejmé, komu je určena, kdo ji činí a&nbsp;že&nbsp;se žadatel domáhá poskytnutí informace podle zákona č.&nbsp;106/1999&nbsp;Sb., o&nbsp;svobodném přístupu k&nbsp;informacím.</li>
-	<li>Žádost nemusí být zaslána na&nbsp;zvláštním formuláři nebo být odůvodněna a&nbsp;nemusí obsahovat žádné podklady. Za&nbsp;její podání se nehradí žádné poplatky. Kancelář za&nbsp;poskytnutí informací může vyžadovat úhradu. Výše úhrady se řídí&nbsp;<a href="https://www.ochrance.cz/kancelar-vop/poskytovani-informaci-podle-zakona-c-1061999-sb/zasady-pro-poskytovani-informaci/sazebnik-uhrad-za-poskytovani-informaci-podle-zakona-c-1061999-sb-o-svobodnem-pristupu-k-informacim-ve-zneni-pozdejsich-predpisu/">Sazebníkem úhrad za poskytování informací podle zákona č. 106/1999 Sb., o svobodném přístupu k informacím, ve znění pozdějších předpisů</a></li>
+	<li>Žádost nemusí být zaslána na&nbsp;zvláštním formuláři nebo být odůvodněna a&nbsp;nemusí obsahovat žádné podklady. Za&nbsp;její podání se nehradí žádné poplatky. Kancelář za&nbsp;poskytnutí informací může vyžadovat úhradu. Výše úhrady se řídí&nbsp;<a href="https://www.justice.cz/documents/11715/0/6-2011+SIS.pdf/d7ac0329-7df6-40bc-aaa4-6118d184a791?version=1.0">Sazebníkem úhrad za poskytování informací podle zákona č. 106/1999 Sb., o svobodném přístupu k informacím, ve znění pozdějších předpisů</a></li>
 </ul>
 
 <h2>Vyřizování žádostí</h2>
@@ -175,4 +175,4 @@ links:
 
 <p>&nbsp;</p>
 
-<p>Tento sazebník nabývá účinnosti dnem 15. září 2022.&nbsp;</p>
+<p>Tento sazebník nabývá účinnosti dnem 15. září 2022.</p>
