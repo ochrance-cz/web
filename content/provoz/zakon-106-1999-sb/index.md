@@ -67,7 +67,7 @@ links:
 <hr />
 <h2>Sazebník úhrad za&nbsp;poskytování informací podle zákona č.&nbsp;106/1999&nbsp;Sb., o&nbsp;svobodném přístupu k&nbsp;informacím, ve&nbsp;znění pozdějších předpisů</h2>
 
-<p><em>Sazebník vychází z&nbsp;<a href="https://www.justice.cz/documents/11715/0/6-2011+SIS.pdf/d7ac0329-7df6-40bc-aaa4-6118d184a791?version=1.0">Instrukce Ministerstva spravedlnosti čj. 286/2011-OT-OSV ze&nbsp;dne 17.&nbsp;července 2011</a>.</em></p>
+<p><em>Sazebník vychází z&nbsp;<a href="https://www.justice.cz/documents/11715/0/6-2011+SIS.pdf/d7ac0329-7df6-40bc-aaa4-6118d184a791?version=1.0">Instrukce Ministerstva spravedlnosti čj. 286/2011-OT-OSV ze&nbsp;dne 17.&nbsp;července 2011</a>.<a href="&lt;A HREF=&quot;#sazebnik&quot;&gt;"> </a></em></p>
 
 <p>Vedoucí Kanceláře veřejného ochránce práv (dále &bdquo;Kancelář&ldquo;) stanoví sazebník podle&nbsp;nařízení vlády č.&nbsp;173/2006 Sb., o&nbsp;zásadách stanovení úhrad a&nbsp;licenčních odměn za&nbsp;poskytování informací podle zákona o&nbsp;svobodném přístupu k&nbsp;informacím, a&nbsp;podle&nbsp;instrukce Ministerstva spravedlnosti č.&nbsp;j.&nbsp;286/2011-OT-OSV,<a href="#_ftn1"><strong><strong>[1]</strong></strong></a> aby zajistil jednotný postup podle zákona o&nbsp;svobodném přístupu k&nbsp;informacím.</p>
 
