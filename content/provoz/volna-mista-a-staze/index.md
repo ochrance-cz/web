@@ -4,9 +4,7 @@ linksAfter: []
 ---
 <h2><strong>Volná místa</strong></h2>
 
-<p>Nyní neprobíhá žádné výběrové řízení.</p>
-
-<p>Pokud se přesto chcete ucházet o místo, pošlete nám svůj životopis na adresu <a href="mailto:lzicarova@ochrance.cz">lzicarova@ochrance.cz</a> a napište, o jakou práci máte zájem.</p>
+<p>Právě hledáme právníka či právničku do týmu veřejného pořádku a místní správy, více v <a href="https://www.ochrance.cz/aktualne/hledame_pravnicku_nebo_pravnika_do_tymu_verejneho_poradku_a_mistni_spravy_v_kancelari_verejneho_ochrance_prav/">inzerátu</a>.</p>
 
 <h2><strong>Stáže pro studenty právnických fakult</strong></h2>
 
