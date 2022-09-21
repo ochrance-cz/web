@@ -391,7 +391,7 @@ lawyers:
         role: právnička
         phone: 542 542 249
         email: barbara.kubatova@ochrance.cz
-      - name: Michaela Lysková
+      - name: "Michaela Šinaľ  "
         role: právnička
         phone: 542 542 367
         email: michaela.lyskova@ochrance.cz
