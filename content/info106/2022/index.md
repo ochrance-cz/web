@@ -303,10 +303,34 @@ title: "2022"
 
 <h3>61/2022 &ndash; Informace ke spisu z&nbsp;oblasti Územní, stavební řízení, užívání stavby</h3>
 
+<p><a href="https://www.ochrance.cz/info106/2022/61_2022_zadost.pdf">Žádost o informace</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2022/61_2022_odpoved.odt">Odpověď na žádost</a>.</p>
+
 <h3>63/2022 &ndash; Informace ke spisu z&nbsp;oblasti Občanskoprávní věci</h3>
+
+<p><a href="https://www.ochrance.cz/info106/2022/63_2022_zadost.pdf">Žádost o informace</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2022/63_2022_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <h3>64/2022 &ndash; Informace z&nbsp;oblasti Vězeňství</h3>
 
+<p><a href="https://www.ochrance.cz/info106/2022/64_2022_zadost.pdf">Žádost o informace</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2022/64_2022_odpoved.odt">Odpověď na žádost</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2022/64_2022_odpoved_priloha.pdf">Příloha</a>.</p>
+
 <h3>65/2022 &ndash; Informace z&nbsp;oblasti Vězeňství</h3>
 
+<p><a href="https://www.ochrance.cz/info106/2022/65_2022_zadost.pdf">Žádost o informace</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2022/65_2022_odpoved.odt">Odpověď na žádost</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2022/65_2022_odpoved_priloha.pdf">Příloha</a>.</p>
+
 <h3>66/2022 &ndash; Informace z&nbsp;oblasti Vězeňství</h3>
+
+<p><a href="https://www.ochrance.cz/info106/2022/66_2022_zadost.pdf">Žádost o informace</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2022/66_2022_odpoved.odt">Odpověď na žádost</a>.</p>
