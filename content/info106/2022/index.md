@@ -319,7 +319,7 @@ title: "2022"
 
 <p><a href="https://www.ochrance.cz/info106/2022/64_2022_odpoved.odt">Odpověď na žádost</a>.</p>
 
-<p><a href="https://www.ochrance.cz/info106/2022/64_2022_odpoved_priloha.pdf">Příloha</a>.</p>
+<p><a href="https://www.ochrance.cz/info106/2022/64_2022_odpoved_priloha.pdf">Příloha</a>.&nbsp;</p>
 
 <h3>65/2022 &ndash; Informace z&nbsp;oblasti Vězeňství</h3>
 
