@@ -9,27 +9,24 @@ attachmentsTop:
   - title: Ochrana před špatným zacházením 2015
     file: 2015-DET-vyrocni-zprava.pdf
   - title: Ochrana před diskriminací 2015
-    file: PDCJ_640-2016_Vyrocni_zprava_DIS_2015.pdf
+    file: https://www.ochrance.cz/dokument/zpravy_pro_poslaneckou_snemovnu_2015/2015-dis-vyrocni-zprava.pdf
 ---
+<p><strong><a href="2015_4_Q.pdf">Zpráva za 4. čtvrtletí roku 2015</a></strong></p>
 
-**[Zpráva za 4. čtvrtletí roku 2015](2015_4_Q.pdf)**
+<p>Zpráva dle ustanovení &sect;&nbsp;24&nbsp;odst.&nbsp;1&nbsp;písm c) zákona o&nbsp;veřejném ochránci práv (doporučení týkající se právních předpisů) &ndash; <a href="2015_4_Q-doporuceni.pdf">Doporučení ke změně přílohy č. 7&nbsp;nařízení vlády o ukazatelích a hodnotách přípustného znečištění povrchových a odpadních vod a doporučení k podmínkám vzdělávání žáků se sluchovým postižením.</a></p>
 
-Zpráva dle ustanovení § 24 odst. 1 písm c) zákona o veřejném ochránci práv (doporučení týkající se právních předpisů) – [Doporučení ke změně přílohy č. 7 nařízení vlády o ukazatelích a hodnotách přípustného znečištění povrchových a odpadních vod a doporučení k podmínkám vzdělávání žáků se sluchovým postižením.](2015_4_Q-doporuceni.pdf)
+<p>Zpráva dle ustanovení &sect;&nbsp;24&nbsp;odst.&nbsp;1&nbsp;písm. b) zákona o&nbsp;veřejném ochránci práv (o&nbsp;věcech, v&nbsp;nichž nebylo dosaženo nápravy) &ndash; <a href="2015_4_Q-sankce.pdf">Policie ČR neproplácela&nbsp;nezákonně nařizované přesčasy</a></p>
 
-Zpráva dle ustanovení § 24 odst. 1 písm. b) zákona o veřejném ochránci práv (o věcech, v nichž nebylo dosaženo nápravy) – [Policie ČR neproplácela nezákonně nařizované přesčasy](2015_4_Q-sankce.pdf)
+<p><strong><a href="2015_3_Q.pdf">Zpráva za 3. čtvrtletí roku 2015</a></strong></p>
 
-**[Zpráva za 3. čtvrtletí roku 2015](2015_3_Q.pdf)**
+<p>Zpráva dle ustanovení &sect;&nbsp;24&nbsp;odst.&nbsp;1&nbsp;písm c) zákona o&nbsp;veřejném ochránci práv (doporučení týkající se právních předpisů) &ndash; <a href="2015_3_Q-doporuceni.pdf">Doporučení MPSV definovat personální a materiálně-technické standardy poskytování pobytových sociálních služeb.</a></p>
 
-Zpráva dle ustanovení § 24 odst. 1 písm c) zákona o veřejném ochránci práv (doporučení týkající se právních předpisů) – [Doporučení MPSV definovat personální a materiálně-technické standardy poskytování pobytových sociálních služeb.](2015_3_Q-doporuceni.pdf)
+<p>Zpráva dle ustanovení &sect;&nbsp;24&nbsp;odst.&nbsp;1&nbsp;písm. b) zákona o&nbsp;veřejném ochránci práv (o&nbsp;věcech, v&nbsp;nichž nebylo dosaženo nápravy) &ndash; <a href="2015_3_Q-sankce.pdf">Ministerstvo financí odmítá řešit průtahy při vyřizování žádosti o povinnosti vrátit dotace podle malých rozpočtových pravidel.</a></p>
 
-Zpráva dle ustanovení § 24 odst. 1 písm. b) zákona o veřejném ochránci práv (o věcech, v nichž nebylo dosaženo nápravy) – [Ministerstvo financí odmítá řešit průtahy při vyřizování žádosti o povinnosti vrátit dotace podle malých rozpočtových pravidel.](2015_3_Q-sankce.pdf)
+<p><strong><a href="2015_2_Q.pdf">Zpráva za 2. čtvrtletí roku 2015</a></strong></p>
 
-**[Zpráva za 2. čtvrtletí roku 2015](2015_2_Q.pdf)**
+<p><a href="2015_2_Q-sankce.pdf">Zpráva dle ustanovení &sect; 24 odst. 1 písm. b) zákona o veřejném ochránci práv </a> (o&nbsp;věcech, v&nbsp;nichž nebylo dosaženo nápravy)</p>
 
-[Zpráva dle ustanovení § 24 odst. 1 písm. b) zákona o veřejném ochránci práv ](2015_2_Q-sankce.pdf)
-(o věcech, v nichž nebylo dosaženo nápravy)
+<p><strong><a href="2015_1_Q.pdf">Zpráva za 1. čtvrtletí roku 2015</a></strong></p>
 
-**[Zpráva za 1. čtvrtletí roku 2015](2015_1_Q.pdf)**
-
-[Zpráva dle ustanovení § 24 odst. 1 písm. b) zákona o veřejném ochránci práv ](2015_1_Q-sankce-MF.pdf)
-(o věcech, v nichž nebylo dosaženo nápravy): Pochybení Ministerstva financí při schvalování všeobecných obchodních podmínek stavebních spořitelen
+<p><a href="2015_1_Q-sankce-MF.pdf">Zpráva dle ustanovení &sect; 24 odst. 1 písm. b) zákona o veřejném ochránci práv </a> (o&nbsp;věcech, v&nbsp;nichž nebylo dosaženo nápravy): Pochybení Ministerstva financí při schvalování všeobecných obchodních podmínek stavebních spořitelen</p>
