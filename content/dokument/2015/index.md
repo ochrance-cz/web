@@ -13,7 +13,7 @@ attachmentsTop:
 ---
 <p><strong><a href="2015_4_Q.pdf">Zpráva za 4. čtvrtletí roku 2015</a></strong></p>
 
-<p>Zpráva dle ustanovení &sect;&nbsp;24&nbsp;odst.&nbsp;1&nbsp;písm c) zákona o&nbsp;veřejném ochránci práv (doporučení týkající se právních předpisů) &ndash; <a href="2015_4_Q-doporuceni.pdf">Doporučení ke změně přílohy č. 7&nbsp;nařízení vlády o ukazatelích a hodnotách přípustného znečištění povrchových a odpadních vod a doporučení k podmínkám vzdělávání žáků se sluchovým postižením.</a></p>
+<p>Zpráva dle ustanovení &sect;&nbsp;24&nbsp;odst.&nbsp;1&nbsp;písm c) zákona o&nbsp;veřejném ochránci práv (doporučení týkající se právních předpisů) &ndash; <a href="2015_4_Q-doporuceni.pdf">Doporučení ke změně přílohy č. 7&nbsp;nařízení vlády o ukazatelích a hodnotách přípustného znečištění povrchových a odpadních vod a doporučení k podmínkám vzdělávání žáků se sluchovým postižením.</a>&nbsp;</p>
 
 <p>Zpráva dle ustanovení &sect;&nbsp;24&nbsp;odst.&nbsp;1&nbsp;písm. b) zákona o&nbsp;veřejném ochránci práv (o&nbsp;věcech, v&nbsp;nichž nebylo dosaženo nápravy) &ndash; <a href="2015_4_Q-sankce.pdf">Policie ČR neproplácela&nbsp;nezákonně nařizované přesčasy</a></p>
 
