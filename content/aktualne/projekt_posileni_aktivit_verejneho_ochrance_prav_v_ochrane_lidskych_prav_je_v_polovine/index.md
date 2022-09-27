@@ -11,7 +11,7 @@ perex: >
   diskriminace.</p>
 attachments:
   - title: Přehled aktivit projektu NF leden 2020 - srpen 2022
-    file: https://www.ochrance.cz/aktualne/projekt_posileni_aktivit_verejneho_ochrance_prav_v_ochrane_lidskych_prav_je_v_polovine/priloha_-_stav_projektu_srpen_2022.docx
+    file: https://www.ochrance.cz/aktualne/projekt_posileni_aktivit_verejneho_ochrance_prav_v_ochrane_lidskych_prav_je_v_polovine/priloha_-_stav_projektu_srpen_2022.pdf
 ---
 <p><img alt="logo_nf.png" src="https://www.ochrance.cz/aktualne/projekt_posileni_aktivit_verejneho_ochrance_prav_v_ochrane_lidskych_prav_je_v_polovine/logo_nf.png" />Původně úzce vymezenou působnost veřejného ochránce práv, který chrání lidi před jednáním vybraných veřejných úřadů a institucí, zákonodárci v&nbsp;minulosti už několikrát rozšířili o lidskoprávní agendy, jako je například ochrana práv osob omezených na svobodě, oblast rovného zacházení a ochrany před diskriminací nebo monitorování práv osob s&nbsp;postižením. Česká republika ale zatím stále nezřídila nezávislou národní instituci pro lidská práva (NHRI) s širokým mandátem na ochranu a podporu lidských práv na národní úrovni.</p>
 
