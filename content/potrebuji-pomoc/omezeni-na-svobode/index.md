@@ -3,15 +3,10 @@ title: Špatně zacházejí s lidmi omezenými na svobodě
 perex: >
   Ombudsman pomáhá chránit lidi omezené na svobodě nebo závislé na péči
   poskytované v zařízeních před špatným zacházením. Dohlíží rovněž na provádění
-  vyhoštění a předávání cizinců. 
-
-  Ombudsman:
-
-  * sleduje zacházení s těmito lidmi a podmínky v zařízeních
-
-  * upozorňuje na zjištěné dílčí i systémové nedostatky a prosazuje jejich nápravu
-
-  * vzdělává odbornou i širokou veřejnost a spolupracuje s dalšími aktéry na prevenci špatného zacházení
+  vyhoštění a předávání cizinců. Ombudsman sleduje zacházení s těmito lidmi
+  a podmínky v zařízeních, upozorňuje na zjištěné dílčí i systémové nedostatky
+  a prosazuje jejich nápravu a vzdělává odbornou i širokou veřejnost
+  a spolupracuje s dalšími aktéry na prevenci špatného zacházení.
 illustration: DET-23.png
 hp: >-
   Ombudsman:
