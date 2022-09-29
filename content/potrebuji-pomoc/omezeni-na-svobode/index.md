@@ -3,10 +3,7 @@ title: Špatně zacházejí s lidmi omezenými na svobodě
 perex: >
   Ombudsman pomáhá chránit lidi omezené na svobodě nebo závislé na péči
   poskytované v zařízeních před špatným zacházením. Dohlíží rovněž na provádění
-  vyhoštění a předávání cizinců. Ombudsman sleduje zacházení s těmito lidmi
-  a podmínky v zařízeních, upozorňuje na zjištěné dílčí i systémové nedostatky
-  a prosazuje jejich nápravu a vzdělává odbornou i širokou veřejnost
-  a spolupracuje s dalšími aktéry na prevenci špatného zacházení.
+  vyhoštění a předávání cizinců.
 illustration: DET-23.png
 hp: >-
   Ombudsman:
@@ -47,7 +44,7 @@ button:
   link: /pusobnost/dohled-nad-omezovanim-osobni-svobody/
 ---
 {{< rozbal "Dětská zařízení" >}}\
-Ombudsman navštěvuje zařízení pro výkon ústavní a ochranné výchovy a další zařízení pro děti. Zprávy z jednotlivých návštěv zařízení jsou dostupné v [Evidenci stanovisek ochránce](https://eso.ochrance.cz/Vyhledavani/Search), oblast práva 801 a následující či v mapě navštívených zařízení viz níže.
+Ombudsman navštěvuje zařízení pro výkon ústavní a ochranné výchovy a další zařízení pro děti. Zprávy z jednotlivých návštěv zařízení jsou dostupné v [Evidenci stanovisek ochránce](https://eso.ochrance.cz/Vyhledavani/Search)oblast práva 801 a násl.) či v mapě navštívených zařízení viz níže.
 
 [Zpráva z návštěv školských zařízení pro výkon ústavní výchovy (2022)](https://www.ochrance.cz/uploads-import/ESO/%C5%A0kolsk%C3%A1-za%C5%99%C3%ADzen%C3%AD_CZ_el-verze.pdf)
 
@@ -66,7 +63,7 @@ Ombudsman navštěvuje zařízení pro výkon ústavní a ochranné výchovy a d
 
 {{< rozbal "Zařízení sociálních služeb" >}}
 
-Ombudsman navštěvuje pobytová zařízení sociálních služeb. Zprávy z jednotlivých návštěv zařízení jsou dostupné v [Evidenci stanovisek ochránce](https://eso.ochrance.cz/Vyhledavani/Search), oblast práva 801 a následující či v mapě navštívených zařízení viz níže.
+Ombudsman navštěvuje pobytová zařízení sociálních služeb. Zprávy z jednotlivých návštěv zařízení jsou dostupné v [Evidenci stanovisek ochránce](https://eso.ochrance.cz/Vyhledavani/Search)(oblast práva 801 a násl.) či v mapě navštívených zařízení viz níže.
 
 [Zpráva z návštěv domovů pro osoby se zdravotním postižením (2020)](https://www.ochrance.cz/uploads-import/ESO/11-2017-NZ-OV_souhrnna_zprava_DOZP.pdf) 
 
@@ -80,7 +77,7 @@ Ombudsman navštěvuje pobytová zařízení sociálních služeb. Zprávy z jed
 
 {{< rozbal "Psychiatrické nemocnice" >}}
 
-Ombudsman navštěvuje zařízení poskytující psychiatrickou péči. služeb. Zprávy z jednotlivých návštěv zařízení jsou dostupné v [Evidenci stanovisek ochránce](https://eso.ochrance.cz/Vyhledavani/Search), oblast práva 801 a následující či v mapě navštívených zařízení viz níže.
+Ombudsman navštěvuje zařízení poskytující psychiatrickou péči. služeb. Zprávy z jednotlivých návštěv zařízení jsou dostupné v [Evidenci stanovisek ochránce](https://eso.ochrance.cz/Vyhledavani/Search) (oblast práva 801 a násl.) či v mapě navštívených zařízení viz níže.
 
 [Zpráva věnující se ochrannému léčení, omezovacím prostředkům a dalším tématům (2019) ](https://www.ochrance.cz/uploads-import/ESO/21-2016-NZ-MLU_SZ-ochranne_leceni.pdf)
 
@@ -94,7 +91,7 @@ Ombudsman navštěvuje zařízení poskytující psychiatrickou péči. služeb.
 
 {{< rozbal "Ostatní zdravotnická zařízení" >}}
 
-Ombudsman navštěvuje zařízení také další zdravotnická zařízení. Zprávy z jednotlivých návštěv zařízení jsou dostupné v [Evidenci stanovisek ochránce](https://eso.ochrance.cz/Vyhledavani/Search), oblast práva 801 a následující či v mapě navštívených zařízení viz níže.
+Ombudsman navštěvuje zařízení také další zdravotnická zařízení. Zprávy z jednotlivých návštěv zařízení jsou dostupné v [Evidenci stanovisek ochránce](https://eso.ochrance.cz/Vyhledavani/Search)oblast práva 801 a násl.) či v mapě navštívených zařízení viz níže.
 
 [Zpráva z návštěv léčeben pro dlouhodobě nemocné (2017)](https://www.ochrance.cz/uploads-import/ESO/LDN_souhrnna_zprava_2017_web.pdf) 
 
@@ -106,7 +103,7 @@ Ombudsman navštěvuje zařízení také další zdravotnická zařízení. Zpr�
 
 {{< rozbal "Vězeňská zařízení" >}}
 
-Ombudsman navštěvuje zařízení vazební věznice, věznice a ústavy pro výkon zabezpečovací detence. Vyřizuje také individuální stížnosti z těchto zařízení. Zprávy z jednotlivých návštěv zařízení jsou dostupné v [Evidenci stanovisek ochránce](https://eso.ochrance.cz/Vyhledavani/Search), oblast práva 801 a následující či v mapě navštívených zařízení viz níže.
+Ombudsman navštěvuje zařízení vazební věznice, věznice a ústavy pro výkon zabezpečovací detence. Vyřizuje také individuální stížnosti z těchto zařízení. Zprávy z jednotlivých návštěv zařízení jsou dostupné v [Evidenci stanovisek ochránce](https://eso.ochrance.cz/Vyhledavani/Search) (oblast práva 801 a násl.) či v mapě navštívených zařízení viz níže.
 
 [Zpráva z návštěv ústavů pro výkon zabezpečovací detence (2019)](https://www.ochrance.cz/uploads-import/ESO/5-2019-NZ-MKL_Souhrna_zprava_zabezpecovaci_detence.pdf) 
 
@@ -118,7 +115,7 @@ Ombudsman navštěvuje zařízení vazební věznice, věznice a ústavy pro vý
 
 {{< rozbal "Policejní cely" >}}
 
-Ombudsman navštěvuje policejní cely. Zprávy z jednotlivých návštěv zařízení jsou dostupné v[ Evidenci stanovisek ochránce](https://eso.ochrance.cz/Vyhledavani/Search), oblast práva 801 a následující či v mapě navštívených zařízení viz níže.
+Ombudsman navštěvuje policejní cely. Zprávy z jednotlivých návštěv zařízení jsou dostupné v[ Evidenci stanovisek ochránce](https://eso.ochrance.cz/Vyhledavani/Search)oblast práva 801 a násl.) či v mapě navštívených zařízení viz níže. 
 
 [Zpráva z návštěv policejních cel (2017)](https://www.ochrance.cz/uploads-import/ESO/22-2017-NZ_Souhrnna_zprava_Policejni_cely_2017_CZ.pdf)
 
@@ -126,13 +123,13 @@ Ombudsman navštěvuje policejní cely. Zprávy z jednotlivých návštěv zař�
 
 {{< rozbal "Zařízení pro cizince" >}}
 
-Ombudsman navštěvuje zařízení pro zajištění cizinců, přijímací a pobytová střediska. Zprávy z jednotlivých návštěv zařízení jsou dostupné v [Evidenci stanovisek ochránce](https://eso.ochrance.cz/Vyhledavani/Search), oblast práva 801 a následující či v mapě navštívených zařízení viz níže.
+Ombudsman navštěvuje zařízení pro zajištění cizinců, přijímací a pobytová střediska. Zprávy z jednotlivých návštěv zařízení jsou dostupné v [Evidenci stanovisek ochránce](https://eso.ochrance.cz/Vyhledavani/Search)oblast práva 801 a násl.) či v mapě navštívených zařízení viz níže.
 
 {{< /rozbal >}}
 
 {{< rozbal "Sledování vyhoštění" >}}
 
-Ochránce sleduje výkon správního i trestního vyhoštění, předání zajištěných cizinců nebo jejich průvozu přes Českou republiku. Zprávy z jednotlivých sledování vyhoštění jsou dostupné v [Evidenci stanovisek ochránce](https://eso.ochrance.cz/Vyhledavani/Search)
+Ochránce sleduje výkon správního i trestního vyhoštění, předání zajištěných cizinců nebo jejich průvozu přes Českou republiku. Zprávy z jednotlivých sledování vyhoštění jsou dostupné v [Evidenci stanovisek ochránce](https://eso.ochrance.cz/Vyhledavani/Search)(oblast práva 804.2 – doprovody cizinců).
 
 {{< /rozbal >}}
 
