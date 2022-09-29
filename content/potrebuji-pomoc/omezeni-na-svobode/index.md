@@ -115,13 +115,13 @@ Ombudsman navštěvuje zařízení vazební věznice, věznice a ústavy pro vý
 
 [Komentář k revidovaným Evropským vězeňským pravidlům (2020)](/media/komentar_k_revidovanym_evropskym_vezenskym_pravidlum_2020_.pdf)
 
-[](/media/osn_zasady_ucinneho_vysetrovani_a_dokumentovani_muceni_a_jineho_kruteho_nelidskeho_ci_ponizujiciho_zachazeni_nebo_trestani_2000_.pdf)OSN zásady účinného vyšetřování a dokumentování mučení a jiného krutého, nelidského či ponižujícího zacházení nebo trestání (2000)
+[OSN zásady účinného vyšetřování a dokumentování mučení a jiného krutého, nelidského či ponižujícího zacházení nebo trestání (2000)](/media/osn_zasady_ucinneho_vysetrovani_a_dokumentovani_muceni_a_jineho_kruteho_nelidskeho_ci_ponizujiciho_zachazeni_nebo_trestani_2000_.pdf)
 
-Revidovaná Evropská vězeňská pravidla (2020)
+[](/media/osn_zasady_ucinneho_vysetrovani_a_dokumentovani_muceni_a_jineho_kruteho_nelidskeho_ci_ponizujiciho_zachazeni_nebo_trestani_2000_.pdf)[Revidovaná Evropská vězeňská pravidla (2020)](/media/revidovana_evropska_vezenska_pravidla_2020_.pdf)
 
-Standardní minimální pravidla OSN pro zacházení s vězněnými osobami (Pravidla Nelsona Mandely; 2015)
+[Standardní minimální pravidla OSN pro zacházení s vězněnými osobami (Pravidla Nelsona Mandely; 2015)](/media/standardni_minimalni_pravidla_osn_pro_zachazeni_s_veznenymi_osobami_pravidla_nelsona_mandely_2015_.pdf)
 
-{{< /rozbal >}}
+[](/media/standardni_minimalni_pravidla_osn_pro_zachazeni_s_veznenymi_osobami_pravidla_nelsona_mandely_2015_.pdf){{< /rozbal >}}
 
 {{< rozbal "Policejní cely" >}}
 
