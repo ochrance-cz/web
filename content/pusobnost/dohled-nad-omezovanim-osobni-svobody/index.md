@@ -11,12 +11,6 @@ cta:
   btnLink: /potrebuji-pomoc/omezeni-na-svobode/
   btnText: Podejte podnět
 ---
-### Ombudsman:
-
-* sleduje zacházení s těmito lidmi a podmínky v zařízeních.
-* upozorňuje na zjištěné dílčí i systémové nedostatky a prosazuje jejich nápravu.
-* vzdělává odbornou i širokou veřejnost a spolupracuje s dalšími aktéry na prevenci špatného zacházení.
-
 ### Jak probíhají návštěvy zařízení?
 
 Návštěvy zařízení jsou zpravidla neohlášené. Návštěvy provádíme v jakémkoli denním čase a i ve dnech pracovního klidu.
@@ -25,7 +19,7 @@ Můžeme vstupovat do všech míst v zařízení, nahlížet do veškeré dokume
 
 Při návštěvách spolupracujeme s externími odborníky z řad lékařů různých specializací, zdravotních sester, experty z oblasti sociálních služeb, speciálními pedagogy apod.
 
-Každé navštívené zařízení od nás dostane zprávu shrnující naše zjištění a doporučení. Po ukončení komunikace se zařízením zprávu z návštěvy zařízení spolu s vyjádřením zařízení zveřejňujeme.
+Každé navštívené zařízení od nás dostane zprávu shrnující naše zjištění a doporučení. Po ukončení komunikace se zařízením zprávu z návštěvy zařízení spolu s vyjádřením zařízení zveřejňujeme. Zprávy z jednotlivých návštěv zařízení jsou dostupné v [Evidenci stanovisek ochránce](https://eso.ochrance.cz/Vyhledavani/Search) (oblast práva 801 a násl.) či v [mapě navštívených zařízení](https://www.google.com/maps/d/embed?mid=1h8Nxe-xnknSxOMrZKUyud0jmjdpsLAyt&hl=cs&ll=49.860819393211585%2C15.441935000000022&z=8).
 
 Naše zjištění a doporučení z vícero návštěv zobecňujeme v souhrnných zprávách z návštěv zařízení. Předkládáme tak dobrou praxi i nenavštíveným zařízením a s požadavky na systémové změny se obracíme na ministerstva.
 
