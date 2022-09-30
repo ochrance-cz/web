@@ -1,6 +1,6 @@
 ---
 title: Dohled nad omezováním osobní svobody
-illustration: DET.jpg
+illustration: 9y0a2511-2.jpg
 headerColor: pink
 perex: Ombudsman je tzv. národním preventivním mechanismem a chrání lidi omezené
   na svobodě před špatným zacházením. Odbor dohledu nad omezováním osobní
