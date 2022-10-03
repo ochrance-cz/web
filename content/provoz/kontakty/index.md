@@ -423,10 +423,6 @@ lawyers:
         role: "právnička "
         phone: "542 542 267 "
         email: barbora.votoupalova@ochrance.cz
-      - name: Anna Katerina Vintrová
-        role: "právnička "
-        phone: "542 542 253 "
-        email: vintrova@ochrance.cz
       - name: Lenka Křičková
         role: "právnička "
         phone: "542 542 272 "
@@ -450,10 +446,6 @@ lawyers:
         role: právnička
         phone: 542 542 287
         email: cristina.bouskova@ochrance.cz
-      - name: Tereza Ciupková
-        role: právnička
-        phone: 542 542 277
-        email: tereza.ciupkova@ochrance.cz
       - name: Adéla Frédy
         role: právnička
         phone: 542 542 286
