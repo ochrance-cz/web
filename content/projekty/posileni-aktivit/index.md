@@ -43,6 +43,9 @@ gallery:
 <h2>Aktuality</h2>
 
 <ul>
+	<li>
+	<p>27. 9. 2022 &ndash; zveřejňujeme tiskovou zprávu o stavu projektu, který se překlopil do své druhé poloviny. Co vše jsme zrealizovali se můžete dočíst v&nbsp;uceleném přehledu <a href="https://www.ochrance.cz/aktualne/projekt_posileni_aktivit_verejneho_ochrance_prav_v_ochrane_lidskych_prav_je_v_polovine/">zde</a>.</p>
+	</li>
 	<li>2.9.2022 - zveřejňujeme 5. díl videa s&nbsp;vlogerkou Aničkou na téma práva lidí s postižením. Video je ke zhlédnutí&nbsp;<a href="https://www.youtube.com/watch?v=JjmnpspcfJM&amp;list=PLWNv_IxgJdEJRcfAUHCC1fZ6J1NiW4qh2&amp;index=5">zde</a>.</li>
 	<li>1.9.2022 &ndash; zpracovali jsme Úmluvu o právech dítěte do podoby vhodné pro dětského čtenáře. Více informace ke zhlédnutí <a href="https://deti.ochrance.cz/aktualne/chces_konecne_porozumet_umluve_o_pravech_ditete/">zde</a>.</li>
 </ul>
