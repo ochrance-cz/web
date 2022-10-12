@@ -6,14 +6,14 @@ date: 2022-10-12T07:37:38.619Z
 vystupy:
   - tz
 perex: >
-  <p><strong>Veřejný ochránce práv při šetření případu stěžovatele z&nbsp;Brna a
-  v dalším šetření z&nbsp;vlastní iniciativy zjistil, že tamní magistrát
-  vyžadoval po lidech platbu místního poplatku za komunální odpad i za roky, kdy
-  už jim podle zákona povinnost platit poplatek zanikla. Podle předpisů má úřad
-  tři roky na to, aby lidem dlužný poplatek vyměřil. Brněnský magistrát ale
-  chtěl zaplatit i od lidí, kterým poplatek za komunální odpad v&nbsp;této lhůtě
+  <p>Veřejný ochránce práv při šetření případu stěžovatele z&nbsp;Brna a v
+  dalším šetření z&nbsp;vlastní iniciativy zjistil, že tamní magistrát vyžadoval
+  po lidech platbu místního poplatku za komunální odpad i za roky, kdy už jim
+  podle zákona povinnost platit poplatek zanikla. Podle předpisů má úřad tři
+  roky na to, aby lidem dlužný poplatek vyměřil. Brněnský magistrát ale chtěl
+  zaplatit i od lidí, kterým poplatek za komunální odpad v&nbsp;této lhůtě
   nevyměřil. Po upozornění ombudsmana svou praxi změnil. Těm, kteří si požádají,
-  neoprávněně vybrané staré poplatky vrátí. </strong></p>
+  neoprávněně vybrané staré poplatky vrátí.</p>
 attachments:
   - title: Zpráva o šetření sp. zn. 6424/2020/VOP
     file: https://eso.ochrance.cz/Nalezene/Edit/9828
