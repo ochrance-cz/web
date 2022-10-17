@@ -337,24 +337,26 @@ title: "2022"
 
 <h3>67/2022 &ndash; Statistické informace k&nbsp;počtu poskytovaných informací dle z. č. 106/1999 Sb.</h3>
 
-<p>ž</p>
+<p><a href="https://www.ochrance.cz/info106/2022/67_2022_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>o</p>
+<p><a href="https://www.ochrance.cz/info106/2022/67_2022_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <h3>68/2022 &ndash; Informace z&nbsp;oblasti Vězeňství</h3>
 
-<p>ž</p>
+<p><a href="https://www.ochrance.cz/info106/2022/68_2022_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>o</p>
+<p><a href="https://www.ochrance.cz/info106/2022/68_2022_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <h3>69/2022 &ndash; Informace z&nbsp;oblasti Vězeňství</h3>
 
-<p>ž</p>
+<p><a href="https://www.ochrance.cz/info106/2022/69_2022_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>o</p>
+<p><a href="https://www.ochrance.cz/info106/2022/69_2022_odpoved.odt">Odpověď na žádost</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2022/69_2022_odpoved_priloha.pdf">Příloha</a>.</p>
 
 <h3>70/2022 &ndash; Informace ke spisu z&nbsp;oblasti Péče o zdraví, ostatní působnost Ministerstva zdravotnictví</h3>
 
-<p>ž</p>
+<p><a href="https://www.ochrance.cz/info106/2022/70_2022_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>o</p>
+<p><a href="https://www.ochrance.cz/info106/2022/70_2022_odpoved.odt">Odpověď na žádost</a>.</p>
