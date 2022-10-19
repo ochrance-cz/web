@@ -5,12 +5,12 @@ date: 2022-10-19T09:00:52.769Z
 vystupy:
   - tz
 perex: >
-  <p><strong>O kolik času, energie a&nbsp;nervů přicházíme, když lidé nerozumějí
-  tomu, co jim jako úředníci píšeme? A&nbsp;kolik by ušetřil stát, kdyby byly
-  úřední texty pochopitelné? O&nbsp;srozumitelném psaní jsme minulý pátek
+  <p>O kolik času, energie a&nbsp;nervů přicházíme, když lidé nerozumějí tomu,
+  co jim jako úředníci píšeme? A&nbsp;kolik by ušetřil stát, kdyby byly úřední
+  texty pochopitelné? O&nbsp;srozumitelném psaní jsme minulý pátek
   v&nbsp;Kanceláři ombudsmana jednali s&nbsp;úředníky, soudci a&nbsp;dalšími
   odborníky. Představili jsme jim i&nbsp;návrh praktické příručky srozumitelného
-  psaní pro&nbsp;úředníky.</strong></p>
+  psaní pro&nbsp;úředníky.</p>
 attachments:
   - title: Tisková zpráva - srozumitelnost
     file: https://www.ochrance.cz/aktualne/urednici_i_soudci_se_na_kulatem_stole_u_ombudsmana_shodli_ze_uredni_pisemnosti_maji_byt_srozumitelne_pro_ctenare/tz_srozumitelnost.pdf
