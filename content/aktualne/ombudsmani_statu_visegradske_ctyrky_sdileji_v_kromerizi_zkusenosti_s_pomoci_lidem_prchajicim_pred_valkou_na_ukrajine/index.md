@@ -1,7 +1,7 @@
 ---
 title: Ombudsmani států Visegrádské čtyřky sdílejí v Kroměříži zkušenosti s
   pomocí lidem prchajícím před válkou na Ukrajině
-date: 2022-10-20T08:30:38.775Z
+date: 2022-10-20T09:44:12.302Z
 vystupy:
   - tz
 perex: >
