@@ -11,6 +11,9 @@ perex: >
   institucí. Důležitost ombudsmanského poslání se podle nich zvlášť jasně
   ukazuje v&nbsp;době společenských změn, jaké přinesla epidemie covidu i válka
   na Ukrajině.</p>
+attachments:
+  - title: Společné prohlášení ombudsmanů států V4 (ENG)
+    file: https://www.ochrance.cz/aktualne/ombudsmani_z_ceska_madarska_a_polska_ve_spolecnem_prohlaseni_apeluji_na_zachovavani_kontinuity_narodnich_ombudsmanskych_instituci_s_ohledem_na_jejich_nezastupitelnou_roli_v_pravnim_state/joint_statement_v4_kromeriz_2022.pdf
 ---
 <p><em>&bdquo;Vyzýváme národní vlády a parlamenty, aby zajistily, že ochrana lidských práv nebude na národní úrovni v žádném případě omezena nebo ohrožena. To mimo jiné zahrnuje zajištění kontinuity úřadu veřejného ochránce práv,&ldquo;</em> uvedli ombudsmani v&nbsp;narážce na situaci Slovenska, které již dlouhé měsíce veřejného ochránce práv nemá. Slovenský úřad na letošním setkání ombudsmanských institucí států V4 reprezentoval Generální ředitel sekce ochrany základních práv a svobod Tomáš Čitbaj.</p>
 
