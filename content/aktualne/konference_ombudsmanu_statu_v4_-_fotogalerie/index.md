@@ -8,7 +8,8 @@ perex: >
   src="https://www.ochrance.cz/aktualne/konference_ombudsmanu_statu_v4_-_fotogalerie/logos_puzzle_-_new.png"
   /></p>
 ---
-<p><img alt="12_-_kopie.jpg" src="https://www.ochrance.cz/aktualne/konference_ombudsmanu_statu_v4_-_fotogalerie/12_-_kopie.jpg" /><img alt="24_-_kopie.jpg" src="https://www.ochrance.cz/aktualne/konference_ombudsmanu_statu_v4_-_fotogalerie/24_-_kopie.jpg" /></p>
+<p>Foto: polská a česká KVOP<br />
+<img alt="12_-_kopie.jpg" src="https://www.ochrance.cz/aktualne/konference_ombudsmanu_statu_v4_-_fotogalerie/12_-_kopie.jpg" /><img alt="24_-_kopie.jpg" src="https://www.ochrance.cz/aktualne/konference_ombudsmanu_statu_v4_-_fotogalerie/24_-_kopie.jpg" /></p>
 
 <p><img alt="15.jpg" src="https://www.ochrance.cz/aktualne/konference_ombudsmanu_statu_v4_-_fotogalerie/15.jpg" /><img alt="16.jpg" src="https://www.ochrance.cz/aktualne/konference_ombudsmanu_statu_v4_-_fotogalerie/16.jpg" /></p>
 
