@@ -2,7 +2,7 @@
 title: Ombudsmen from the Czech Republic, Hungary and Poland call for preserving
   the continuity of national ombudsman institutions and highlight their
   indispensable role in democies based on the rule of law
-date: 2022-10-20T14:20:37.457Z
+date: 2022-10-21T14:20:37.457Z
 vystupy:
   - news
 perex: >
