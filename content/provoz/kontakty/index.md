@@ -140,10 +140,6 @@ lawyers:
         role: právnička (územní a stavební řízení, ochrana přírody a krajiny)
         phone: 542 542 282
         email: jitka.vecerova@ochrance.cz
-      - name: "Michaela Brandejsová "
-        role: právnička (územní a stavební řízení, ochrana přírody a krajiny)
-        phone: 542 542 376
-        email: "michaela.brandejsova@ochrance.cz "
   - title: Odbor veřejného pořádku a místní správy
     intro: >
       matriky, evidence obyvatel, občanské a cestovní průkazy, státní občanství,
