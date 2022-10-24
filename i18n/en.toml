@@ -216,3 +216,6 @@ other = "By year"
 
 [research-all]
 other = "All research"
+
+[alert]
+other = "ALERT"
