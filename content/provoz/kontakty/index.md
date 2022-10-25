@@ -194,7 +194,7 @@ lawyers:
         phone: 542 542 382
         email: jiri.hruby@ochrance.cz
       - name: Markéta Babuňková
-        role: právnička
+        role: právnička (důchody, nemocenské pojištění)
         phone: 542 542 319
         email: babunkova@ochrance.cz
       - name: Marek Blecha
@@ -217,8 +217,9 @@ lawyers:
         role: právnička (příspěvek na péči, dávky pro osoby se zdravotním postižením)
         phone: 542 542 377
         email: tereza.stoupova@ochrance.cz
-      - name: Katarína Krajčová
-        role: právnička (důchody, dávky pomoci v hmotné nouzi)
+      - name: "Katarína Krajčová "
+        role: právnička (dávky pomoci v hmotné nouzi, státní sociální podpora, dávky pro
+          osoby se zdravotním postižením)
         phone: 542 542 226
         email: katarina.krajcova@ochrance.cz
       - name: Pavel Matějíček
@@ -235,8 +236,8 @@ lawyers:
         phone: 542 542 387
         email: ivana.rejzkova@ochrance.cz
       - name: Zuzana Ščuková
-        role: právnička (dávky pomoci v hmotné nouzi, dávky pro osoby se zdravotním
-          postižením)
+        role: právnička (dávky pomoci v hmotné nouzi, státní sociální podpora, dávky pro
+          osoby se zdravotním postižením)
         phone: 542 542 341
         email: zuzana.scukova@ochrance.cz
   - title: Odbor justice, migrace a financí
