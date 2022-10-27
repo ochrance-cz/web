@@ -7,5 +7,5 @@ redirects:
     to: /letaky/statni-sluzba/statni-sluzba.pdf
   - from: /uploads-import/ochrana_osob/Umluvy/vezenstvi/R_2006_2_Evr_vezen_pravidla_.pdf
     to: /uploads-import/ESO/EVP_CS_FIN.pdf
-  - from: /uploads-import/ESO/Školská-zařízení_CZ_el-verze.pdf
-    to: /skolska-zarizeni-2022
+  - from: /skolska-zarizeni-2022
+    to: /uploads-import/ESO/Školská-zařízení_CZ_el-verze.pdf
