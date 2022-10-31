@@ -4,7 +4,7 @@ title: Žádost o zadostiučinění za nemajetkovou újmu způsobenou nepřimě�
 situace:
   - soudy
   - formulare
-file: zadostiucineni-za-neprimerenou-delku-soudniho-rizeni.docx
+file: ""
 attachments:
   - file: zadostiucineni-za-neprimerenou-delku-soudniho-rizeni_priloha.pdf
     title: příloha
