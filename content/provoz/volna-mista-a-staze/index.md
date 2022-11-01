@@ -16,7 +16,7 @@ linksAfter: []
 
 <h2>Hledáme lidi se zkušeností, kteří nám pomůžou zlepšit monitorování práv pacientů v&nbsp;psychiatrických nemocnicích</h2>
 
-<p>Podrobnosti naleznete v <a href="peerove_pozice.docx">přiloženém dokumentu</a>.</p>
+<p>Podrobnosti naleznete v <a href="peerove_pozice.pdf">přiloženém dokumentu</a>.</p>
 
 <h2><strong>Jaký jsme zaměstnavatel?</strong></h2>
 
