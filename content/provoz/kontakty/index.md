@@ -184,6 +184,10 @@ lawyers:
         role: právník (katastr nemovitostí, pozemkové úřady)
         phone: 542 542 324
         email: david.vavra@ochrance.cz
+      - name: Zuzana Křížková
+        role: právnička
+        phone: "542 542 343 "
+        email: zuzana.krizkova@ochrance.cz
   - title: Odbor sociálního zabezpečení
     intro: dávky pomoci v hmotné nouzi, příspěvek na péči, dávky pro zdravotně
       postižené, důchody, dávky nemocenského pojištění, dávky státní sociální
@@ -391,7 +395,7 @@ lawyers:
       - name: "Michaela Šinaľ  "
         role: právnička
         phone: 542 542 367
-        email: michaela.lyskova@ochrance.cz
+        email: michaela.sinal@ochrance.cz
       - name: Jana Mikulčická
         role: právnička
         phone: 542 542 302
