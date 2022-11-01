@@ -12,6 +12,12 @@ linksAfter: []
 
 <p>Na stáž se můžete přihlásit přes svou právnickou fakultu v&nbsp;Brně, Olomouci a Praze. Pokud nevíte, koho ve škole oslovit, napište na adresu <a href="mailto:lzicarova@ochrance.cz">lzicarova@ochrance.cz</a>.</p>
 
+<p>&nbsp;</p>
+
+<h2>Hledáme lidi se zkušeností, kteří nám pomůžou zlepšit monitorování práv pacientů v&nbsp;psychiatrických nemocnicích</h2>
+
+<p>Podrobnosti naleznete v <a href="peerove_pozice.docx">přiloženém dokumentu</a>.</p>
+
 <h2><strong>Jaký jsme zaměstnavatel?</strong></h2>
 
 <p>Jsme nároční a féroví:</p>
