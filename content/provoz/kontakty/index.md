@@ -7,7 +7,9 @@ sections:
       **JUDr. Stanislav Křeček**  
       veřejný ochránce práv
   - title: Zástupce veřejného ochránce práv
-    intro: "**pozice aktuálně neobsazena**"
+    intro: |-
+      **JUDr. Vít Alexander Schorm**\
+      zástupce veřejného ochránce práv
   - title: Sekretariát veřejného ochránce práv a jeho zástupce
     intro: >-
       **Sekretariát veřejného ochránce práv**\
