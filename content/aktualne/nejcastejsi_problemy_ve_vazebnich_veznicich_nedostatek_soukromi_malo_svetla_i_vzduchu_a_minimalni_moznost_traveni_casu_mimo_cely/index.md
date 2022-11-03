@@ -1,8 +1,8 @@
 ---
 title: Nejčastější problémy ve vazebních věznicích? Nedostatek soukromí, málo
   světla i vzduchu a minimální možnost trávení času mimo cely
-draft: true
-date: 2022-11-03T09:14:08.275Z
+draft: false
+date: 2022-11-03T09:34:55.973Z
 vystupy:
   - tz
 perex: >
