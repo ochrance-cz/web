@@ -59,7 +59,7 @@ perex: >
 
 <p>&nbsp;</p>
 
-<p>Zprávy jsou dostupné v&nbsp;elektronické <a href="https://eso.ochrance.cz/Vyhledavani/Search">Evidenci stanovisek ombudsmana</a> na adrese po zadání následujících kritérií:</p>
+<p>Zprávy jsou dostupné v&nbsp;elektronické <a href="https://eso.ochrance.cz/Vyhledavani/Search">Evidenci stanovisek ombudsmana</a>&nbsp;po zadání následujících kritérií:</p>
 
 <p><strong>Forma zjištění ochránce:</strong> Zpráva z&nbsp;návštěvy zařízení - &sect;21a</p>
 
