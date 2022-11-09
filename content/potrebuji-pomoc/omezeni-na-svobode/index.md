@@ -105,7 +105,9 @@ Ombudsman navštěvuje zařízení také další zdravotnická zařízení. Zpr�
 
 Ombudsman navštěvuje zařízení vazební věznice, věznice a ústavy pro výkon zabezpečovací detence. Vyřizuje také individuální stížnosti z těchto zařízení. Zprávy z jednotlivých návštěv zařízení jsou dostupné v [Evidenci stanovisek ochránce](https://eso.ochrance.cz/Vyhledavani/Search) (oblast práva 801 a násl.) či v mapě navštívených zařízení viz níže.
 
-[Zpráva z návštěv ústavů pro výkon zabezpečovací detence (2019)](https://www.ochrance.cz/uploads-import/ESO/5-2019-NZ-MKL_Souhrna_zprava_zabezpecovaci_detence.pdf) 
+[Zpráva z návštěv vazebních věznic (2022)](https://www.ochrance.cz/uploads-import/ESO/Brozura%20vazebni%20veznice%2010-22%20online.pdf)
+
+[](https://www.ochrance.cz/uploads-import/ESO/Brozura%20vazebni%20veznice%2010-22%20online.pdf)[Zpráva z návštěv ústavů pro výkon zabezpečovací detence (2019)](https://www.ochrance.cz/uploads-import/ESO/5-2019-NZ-MKL_Souhrna_zprava_zabezpecovaci_detence.pdf) 
 
 [Sborník stanovisek ochránce - Vězeňství II (2019)](https://www.ochrance.cz/uploads-import/Publikace/sborniky_stanoviska/Sbornik_Vezenstvi_II.pdf)
 
