@@ -107,6 +107,8 @@ Ombudsman navštěvuje zařízení vazební věznice, věznice a ústavy pro vý
 
 [Zpráva z návštěv vazebních věznic (2022)](https://www.ochrance.cz/uploads-import/ESO/Brozura%20vazebni%20veznice%2010-22%20online.pdf)
 
+[Z﻿abezpečovací detence (2019)](https://www.ochrance.cz/uploads-import/ESO/5-2019-NZ-MKL_Souhrna_zprava_zabezpecovaci_detence.pdf) 
+
 [Sborník stanovisek ochránce - Vězeňství II (2019)](https://www.ochrance.cz/uploads-import/Publikace/sborniky_stanoviska/Sbornik_Vezenstvi_II.pdf)
 
 [Zpráva z návštěv věznic (2016)](https://www.ochrance.cz/uploads-import/ESO/14-2014-NZ-Souhrnna_zprava_z_navstev_veznic.pdf) 
