@@ -19,7 +19,7 @@ Lidé nejčastěji hledají pomoc s problémy v oblasti rodinného života, zejm
 
 ### [Úmluva o právech dítěte ve znění srozumitelném dětem](https://deti.ochrance.cz/media/umluva_o_pravech_ditete_web_pdf.pdf)
 
-[](https://deti.ochrance.cz/media/umluva_o_pravech_ditete_web_pdf.pdf)Publikace vytvořená naší kanceláří. Úmluvu o právech dítěte jsme výrazně zjednodušili a doplnili o ilustrace sedmnáctiletého Vojty tak, aby jí rozuměl každý.
+Publikace vytvořená naší kanceláří. Úmluvu o právech dítěte jsme výrazně zjednodušili a doplnili o ilustrace sedmnáctiletého Vojty tak, aby jí rozuměl každý.
 
 ## Práce a zaměstnanost
 
