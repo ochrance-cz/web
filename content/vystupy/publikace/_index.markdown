@@ -27,3 +27,7 @@ V letech 2009 – 2011 vydal ombudsman 3 publikace ve spolupráci s Ministerstve
 * [Doporučení pro obce a města - Práva občanů obce (2011)](Doporuceni_Prava_obcanu.pdf)
 * [Doporučení pro obce a města - Obecní daně (místní poplatky, daň z nemovitosti, poplatek za komunální odpad) (2010)](Doporuceni_Obecni_dane.pdf)
 * [Doporučení pro obce a města pro předcházení tvorby a rozšiřování sociálně vyloučených lokalit se zdůrazněním zajištění potřeby bydlení (2009)](Doporuceni_socialni_vylouceni.pdf)
+
+## [Úmluva o právech dítěte ve znění srozumitelném dětem](https://deti.ochrance.cz/media/umluva_o_pravech_ditete_web_pdf.pdf)
+
+Publikace vytvořená naší kanceláří. Úmluvu o právech dítěte jsme výrazně zjednodušili a doplnili o ilustrace sedmnáctiletého Vojty tak, aby jí rozuměl každý.
