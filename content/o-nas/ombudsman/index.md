@@ -6,7 +6,7 @@ order: 1
 footerPic: /images/kontakt.jpg
 quote: „Právo je tu proto, aby mocní nemohli vše.“
 bio: >-
-  Funkční období od 19. února 2020
+  Funkční období od 19. února 2020.
 
 
   JUDr. Stanislav Křeček se narodil 20. května 1938 v Praze. Vystudoval průmyslovou školu geologickou a výtvarnou školu. Pracoval jako výtvarník, geolog, horník, dělník aj. Po absolvování Právnické fakulty Univerzity Karlovy se stal soudním čekatelem u Městského soudu v Praze, avšak v 70. letech 20. století byl nucen z politických důvodů justici opustit. Od roku 1990 se věnoval advokacii.
