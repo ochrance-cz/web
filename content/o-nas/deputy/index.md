@@ -1,7 +1,7 @@
 ---
 title: Zástupce veřejného ochránce práv
 name: JUDr. Vít Alexander Schorm
-pic: logo.jpg
+pic: zvop_schorm.jpg
 order: 2
 footerPic: /images/kontakt.jpg
 quote: ""
