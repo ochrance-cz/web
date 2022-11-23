@@ -360,3 +360,113 @@ title: "2022"
 <p><a href="https://www.ochrance.cz/info106/2022/70_2022_zadost.pdf">Žádost o informace</a>.</p>
 
 <p><a href="https://www.ochrance.cz/info106/2022/70_2022_odpoved.odt">Odpověď na žádost</a>.</p>
+
+<h3>71/2022 &ndash; Informace ke spisům z&nbsp;oblasti Pojistné na zdravotní pojištění a činnost zdravotních pojišťoven, památkové péče, Správní vyhoštění, Sociální zabezpečení s cizím prvkem</h3>
+
+<p><a href="https://www.ochrance.cz/info106/2022/71_2022_zadost.pdf">Žádost o informace</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2022/71_2022_odpoved.odt">Odpověď na žádost</a>.</p>
+
+<h3>72/2022 &ndash; Informace ke spisu z&nbsp;oblasti Katastr nemovitostí - zápisy práv</h3>
+
+<p>ž</p>
+
+<p>o</p>
+
+<h3>73/2022 &ndash; Informace z&nbsp;oblasti Vězeňství</h3>
+
+<p>ž</p>
+
+<p>o</p>
+
+<h3>74/2022 &ndash; Informace k ESLP</h3>
+
+<p>ž</p>
+
+<p>o</p>
+
+<h3>75/2022 &ndash; Informace ke spisu z&nbsp;oblasti Diskriminace</h3>
+
+<p>ž</p>
+
+<p>o</p>
+
+<h3>76/2022 &ndash; Informace ke spisu z&nbsp;oblasti Veřejné opatrovnictví</h3>
+
+<p>ž</p>
+
+<p>o</p>
+
+<h3>77/2022 &ndash; Informace z&nbsp;oblasti Vězeňství</h3>
+
+<p>ž</p>
+
+<p>o</p>
+
+<h3>78/2022 &ndash; Informace z&nbsp;oblasti Vězeňství</h3>
+
+<p>ž</p>
+
+<p>o</p>
+
+<h3>79/2022 &ndash; Informace z&nbsp;oblasti Vězeňství</h3>
+
+<p>ž</p>
+
+<p>o</p>
+
+<h3>80/2022 &ndash;&nbsp; Informace k&nbsp;Evropské komisi</h3>
+
+<p>ž</p>
+
+<p>o</p>
+
+<h3>81/2022 &ndash; Informace ke spisu z&nbsp;oblasti Diskriminace</h3>
+
+<p>ž</p>
+
+<p>o</p>
+
+<h3>82/2022 &ndash; Informace z&nbsp;oblasti Sociální zabezpečení s&nbsp;cizím prvkem</h3>
+
+<p>ž</p>
+
+<p>o</p>
+
+<h3>83/2022 &ndash; Informace z&nbsp;oblasti Vězeňství a z&nbsp;oblasti organizace KVOP</h3>
+
+<p>ž</p>
+
+<p>o</p>
+
+<h3>84/2022 &ndash; Informace k&nbsp;podnětu z&nbsp;oblasti Ostatní působnost Ministerstva dopravy a Úřadu pro přístup k&nbsp;dopravní infrastruktuře</h3>
+
+<p>ž</p>
+
+<p>o</p>
+
+<h3>85/2022 &ndash; Informace z&nbsp;oblasti Vězeňství</h3>
+
+<p>ž</p>
+
+<p>o</p>
+
+<h3>86/2022 &ndash; Informace ke spisu z&nbsp;oblasti Občanskoprávní věci</h3>
+
+<p>ž</p>
+
+<p>o</p>
+
+<h3>87/2022 &ndash; Informace z&nbsp;oblasti Vězeňství</h3>
+
+<p>ž</p>
+
+<p>o</p>
+
+<h3>88/2022 &ndash; Informace ke spisu z&nbsp;oblasti Vězeňství</h3>
+
+<p>ž</p>
+
+<p>o</p>
+
+<p>&nbsp;</p>
