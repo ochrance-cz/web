@@ -369,104 +369,110 @@ title: "2022"
 
 <h3>72/2022 &ndash; Informace ke spisu z&nbsp;oblasti Katastr nemovitostí - zápisy práv</h3>
 
-<p>ž</p>
+<p><a href="https://www.ochrance.cz/info106/2022/72_2022_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>o</p>
+<p><a href="https://www.ochrance.cz/info106/2022/72_2022_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <h3>73/2022 &ndash; Informace z&nbsp;oblasti Vězeňství</h3>
 
-<p>ž</p>
+<p><a href="https://www.ochrance.cz/info106/2022/73_2022_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>o</p>
+<p><a href="https://www.ochrance.cz/info106/2022/73_2022_odpoved.rtf">Odpověď na žádost</a>.</p>
 
 <h3>74/2022 &ndash; Informace k ESLP</h3>
 
-<p>ž</p>
+<p><a href="https://www.ochrance.cz/info106/2022/74_2022_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>o</p>
+<p><a href="https://www.ochrance.cz/info106/2022/74_2022_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <h3>75/2022 &ndash; Informace ke spisu z&nbsp;oblasti Diskriminace</h3>
 
-<p>ž</p>
+<p><a href="https://www.ochrance.cz/info106/2022/75_2022_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>o</p>
+<p><a href="https://www.ochrance.cz/info106/2022/75_2022_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <h3>76/2022 &ndash; Informace ke spisu z&nbsp;oblasti Veřejné opatrovnictví</h3>
 
-<p>ž</p>
+<p><a href="https://www.ochrance.cz/info106/2022/76_2022_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>o</p>
+<p><a href="https://www.ochrance.cz/info106/2022/76_2022_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <h3>77/2022 &ndash; Informace z&nbsp;oblasti Vězeňství</h3>
 
-<p>ž</p>
+<p><a href="https://www.ochrance.cz/info106/2022/77_2022_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>o</p>
+<p><a href="https://www.ochrance.cz/info106/2022/77_2022_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <h3>78/2022 &ndash; Informace z&nbsp;oblasti Vězeňství</h3>
 
-<p>ž</p>
+<p><a href="https://www.ochrance.cz/info106/2022/78_2022_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>o</p>
+<p><a href="https://www.ochrance.cz/info106/2022/78_2022_odpoved.odt">Odpověď na žádost</a>.</p>
 
-<h3>79/2022 &ndash; Informace z&nbsp;oblasti Vězeňství</h3>
+<h3>9/2022 &ndash; Informace z&nbsp;oblasti Vězeňství</h3>
 
-<p>ž</p>
+<p><a href="https://www.ochrance.cz/info106/2022/79_2022_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>o</p>
+<p><a href="https://www.ochrance.cz/info106/2022/79_2022_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <h3>80/2022 &ndash;&nbsp; Informace k&nbsp;Evropské komisi</h3>
 
-<p>ž</p>
+<p><a href="https://www.ochrance.cz/info106/2022/80_2022_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>o</p>
+<p><a href="https://www.ochrance.cz/info106/2022/80_2022_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <h3>81/2022 &ndash; Informace ke spisu z&nbsp;oblasti Diskriminace</h3>
 
-<p>ž</p>
+<p><a href="https://www.ochrance.cz/info106/2022/81_2022_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>o</p>
+<p><a href="https://www.ochrance.cz/info106/2022/81_2022_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <h3>82/2022 &ndash; Informace z&nbsp;oblasti Sociální zabezpečení s&nbsp;cizím prvkem</h3>
 
-<p>ž</p>
+<p><a href="https://www.ochrance.cz/info106/2022/82_2022_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>o</p>
+<p><a href="https://www.ochrance.cz/info106/2022/82_2022_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <h3>83/2022 &ndash; Informace z&nbsp;oblasti Vězeňství a z&nbsp;oblasti organizace KVOP</h3>
 
-<p>ž</p>
+<p><a href="https://www.ochrance.cz/info106/2022/83_2022_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>o</p>
+<p><a href="https://www.ochrance.cz/info106/2022/83_2022_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <h3>84/2022 &ndash; Informace k&nbsp;podnětu z&nbsp;oblasti Ostatní působnost Ministerstva dopravy a Úřadu pro přístup k&nbsp;dopravní infrastruktuře</h3>
 
-<p>ž</p>
+<p><a href="https://www.ochrance.cz/info106/2022/84_2022_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>o</p>
+<p><a href="https://www.ochrance.cz/info106/2022/84_2022_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <h3>85/2022 &ndash; Informace z&nbsp;oblasti Vězeňství</h3>
 
-<p>ž</p>
+<p><a href="https://www.ochrance.cz/info106/2022/85_2022_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>o</p>
+<p><a href="https://www.ochrance.cz/info106/2022/85_2022_odpoved.odt">Odpověď na žádost</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2022/85_2022_odpoved_priloha1.pdf">Příloha 1</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2022/85_2022_odpoved_priloha2.docx">Příloha 2</a>.</p>
 
 <h3>86/2022 &ndash; Informace ke spisu z&nbsp;oblasti Občanskoprávní věci</h3>
 
-<p>ž</p>
+<p><a href="https://www.ochrance.cz/info106/2022/86_2022_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>o</p>
+<p><a href="https://www.ochrance.cz/info106/2022/86_2022_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <h3>87/2022 &ndash; Informace z&nbsp;oblasti Vězeňství</h3>
 
-<p>ž</p>
+<p><a href="https://www.ochrance.cz/info106/2022/87_2022_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>o</p>
+<p><a href="https://www.ochrance.cz/info106/2022/87_2022_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <h3>88/2022 &ndash; Informace ke spisu z&nbsp;oblasti Vězeňství</h3>
 
-<p>ž</p>
+<p><a href="https://www.ochrance.cz/info106/2022/88_2022_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>o</p>
+<p><a href="https://www.ochrance.cz/info106/2022/88_2022_odpoved.odt">Odpověď na žádost</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2022/88_2022_odpoved_priloha.pdf">Příloha</a>.</p>
 
 <p>&nbsp;</p>
