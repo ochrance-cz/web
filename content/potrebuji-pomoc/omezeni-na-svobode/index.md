@@ -79,6 +79,8 @@ Ombudsman navštěvuje pobytová zařízení sociálních služeb. Zprávy z jed
 
 Ombudsman navštěvuje zařízení poskytující psychiatrickou péči. služeb. Zprávy z jednotlivých návštěv zařízení jsou dostupné v [Evidenci stanovisek ochránce](https://eso.ochrance.cz/Vyhledavani/Search) (oblast práva 801 a násl.) či v mapě navštívených zařízení viz níže.
 
+[Z﻿práva z návštěv zařízení dětské psychiatrie (2022)](/media/zprava_z_navstev_zarizeni_detske_psychiatrie.pdf) 
+
 [Zpráva věnující se ochrannému léčení, omezovacím prostředkům a dalším tématům (2019) ](https://www.ochrance.cz/uploads-import/ESO/21-2016-NZ-MLU_SZ-ochranne_leceni.pdf)
 
 [Zpráva z návštěv dětských psychiatrických nemocnic (2013)](https://eso.ochrance.cz/Nalezene/Edit/2610) 
