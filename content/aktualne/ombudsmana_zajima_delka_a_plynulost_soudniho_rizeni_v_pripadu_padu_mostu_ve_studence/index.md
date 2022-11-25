@@ -5,7 +5,7 @@ date: 2022-11-25T09:45:13.361Z
 vystupy:
   - tz
 perex: >
-  <p>Nehoda ve Studénce, při které zemřelo 8 cestujících a stovka dalších se
+  <p>Nehoda ve Studénce, při které zemřelo osm cestujících a stovka dalších se
   zranila, patří nejen mezi největší vlaková neštěstí v&nbsp;Česku. Jde také o
   jeden z nejdéle projednávaných případů u nás. Pravomocný rozsudek padl u
   ostravského krajského soudu letos koncem září, tedy déle než dvanáct let po
