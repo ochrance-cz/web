@@ -3,7 +3,7 @@
   command = "hugo --config preview-netlify.toml"
 
 [context.production.environment]
-  HUGO_VERSION = "0.81.0"
+  HUGO_VERSION = "0.107.0"
 
 [[redirects]]
   from = "/*"
