@@ -4,11 +4,11 @@ date: 2022-11-30T08:35:13.609Z
 vystupy:
   - podcast
 perex: >
-  <p>Citátem Homera Simpsona uvádíme první díl z krátkého seriálu věnovanému
+  <p>Citátem Homera Simpsona uvádíme první díl z krátkého seriálu věnovaného
   hluku. Život bez špuntů do uší může být totiž příjemná změna. Poradíme, jak se
   bránit proti obtěžujícímu hluku. Řekneme, co je hluk, jaké má účinky na
-  člověka a. Zazní nejen, na které konkrétní úřady nebo instituce se obrátit,
-  ale i jestli je ptačí zpěv u skotského potoka hlukem či zvukem a zda může hluk
+  člověka. Zazní nejen, na které konkrétní úřady nebo instituce se obrátit, ale
+  i jestli je ptačí zpěv u skotského potoka hlukem či zvukem a zda může hluk
   nějak ohrozit zdraví &ndash; řekněme například fanouška hudebního žánru heavy
   metal?</p>
 ---
