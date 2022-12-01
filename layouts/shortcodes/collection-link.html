@@ -1,0 +1,5 @@
+{{ $page := $.Site.GetPage (print "/srozumitelne/" (.Get 0))}}
+
+<a href="{{ $page.Permalink | absURL }}">
+    {{ $page.Title }}
+</a>

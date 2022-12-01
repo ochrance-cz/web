@@ -1,9 +1,24 @@
 {{- $raw := replaceRE " - " " &mdash; " . -}}
 {{- $raw = replaceRE "§ " "§&nbsp;" $raw -}}
 {{- $raw = replaceRE " Kč" "&nbsp;Kč" $raw -}}
-{{- $raw = replaceRE "https://domek.netlify.com" "" $raw -}}
 {{- $raw = replaceRE "(\\s[AÁBCČDĎEÉĚFGHIÍJKLMNŇOÓPQRŘSŠTŤUÚŮVWXYÝZŽaábcčdďeéěfghiíjklmnňoópqrřsštťuúůvwxyýzž][AÁBCČDĎEÉĚFGHIÍJKLMNŇOÓPQRŘSŠTŤUÚŮVWXYÝZŽaábcčdďeéěfghiíjklmnňoópqrřsštťuúůvwxyýzž]?) " "$1&nbsp;" $raw -}}
 {{- $raw = replaceRE "(;[AÁBCČDĎEÉĚFGHIÍJKLMNŇOÓPQRŘSŠTŤUÚŮVWXYÝZŽaábcčdďeéěfghiíjklmnňoópqrřsštťuúůvwxyýzž][AÁBCČDĎEÉĚFGHIÍJKLMNŇOÓPQRŘSŠTŤUÚŮVWXYÝZŽaábcčdďeéěfghiíjklmnňoópqrřsštťuúůvwxyýzž]?) " "$1&nbsp;" $raw -}}
 {{- $raw = chomp $raw -}}
 {{- $raw = markdownify $raw -}}
-{{- $raw -}}
+
+{{- $raw = replaceRE "##vec" "<span class=\"explanation-vec\">Věcné informace</span>" $raw -}}
+{{- $raw = replaceRE "##hod" "<span class=\"explanation-hod\">Hodnocení</span>" $raw -}}
+{{- $raw = replaceRE "##prav" "<span class=\"explanation-prav\">Právní pravidla</span>" $raw -}}
+{{- $raw = replaceRE "##proc" "<span class=\"explanation-proc\">Procesní a organizační informace</span>" $raw -}}
+
+{{- $raw = replaceRE "#vec ([^#\n]+)" "<span class=\"markup-vec\">$1</span>" $raw -}}
+{{- $raw = replaceRE "#hod ([^#\n]+)" "<span class=\"markup-hod\">$1</span>" $raw -}}
+{{- $raw = replaceRE "#prav ([^#\n]+)" "<span class=\"markup-prav\">$1</span>" $raw -}}
+{{- $raw = replaceRE "#proc ([^#\n]+)" "<span class=\"markup-proc\">$1</span>" $raw -}}
+
+{{- $raw | safeHTML -}}
+
+
+
+
+

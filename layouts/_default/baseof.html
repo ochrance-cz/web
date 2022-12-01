@@ -31,7 +31,7 @@
   </script>
   {{ end }}
 </head>
-<body>
+<body {{ if eq .Section "srozumitelne" }}class="srozumitelne srozumitelne-{{ substr .File.Dir -3 2 }}"{{ end }}>
   {{ if eq .Site.Title "Ombudsman - Preview" }}
     <p style="margin: 0; background: yellow; color: red; padding: 0.5rem 1rem">
       Náhled webu (vygenerováno {{ now.Format "02 Jan 06 15:04 MST" }}<span id="elapsed" data-timestamp="{{ now.Unix }}"></span>)<br>

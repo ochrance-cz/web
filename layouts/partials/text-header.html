@@ -14,8 +14,13 @@
         {{ partial "tags.html" $ }}
       </p>
     {{ end }}
+
     <h1>{{ block "title" . }}{{ .Title }}{{ end }}</h1>
     <div class="perex">
+      {{ if and (eq .Section "srozumitelne") (ne .Kind "section")  }}
+        <p><a href="{{ (.GetPage "srozumitelne").Permalink | absURL }}">zpět na obsah příručky</a></p>
+      {{ end }}
+
       {{- "" -}}<span class="{{ with .Params.descriptionInfoIcon }}icon-info{{ end }}" aria-hidden="true"></span>
       {{ with .Params.description }}
         {{ partial "md-block.html" . }}

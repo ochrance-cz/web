@@ -354,3 +354,26 @@ blockquote {
     }
   }
 }
+
+pre {
+  background: #eee;
+  border-radius: 3px;
+  padding: 1rem;
+}
+
+.copy {
+  color: $green;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.copied {
+  position: relative;
+
+  &::before {
+    @include fa-icon($fa-var-check, $green);
+    position: absolute;
+    top: -1rem;
+    left: -1rem;
+  }
+}

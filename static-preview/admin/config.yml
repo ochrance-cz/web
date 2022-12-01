@@ -1599,6 +1599,42 @@ collections:
     media_folder: ''
     public_folder: 'https://www.ochrance.cz/eso/{{slug}}'
     preview_path: '/eso/{{slug}}'
+  - name: srozumitelne
+    label: Jak psát srozumitelně
+    label_singular: kapitola
+    folder: content/srozumitelne
+    extension: md
+    editor:
+      preview: false
+    fields:
+      - label: Titulek
+        name: title
+        widget: string
+      - label: Číslo kapitoly
+        name: num
+        required: false
+        widget: number
+        value_type: int
+      - editor_components:
+          - image
+        buttons:
+          - bold
+          - italic
+          - link
+          - heading-two
+          - heading-three
+          - heading-four
+          - quote
+          - bulleted-list
+          - numbered-list
+        label: Text
+        name: body
+        required: false
+        widget: markdown
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: 'https://www.ochrance.cz/srozumitelne/{{slug}}'
+    preview_path: '/srozumitelne/{{slug}}'
   - name: stranky-en
     label: Jiné (EN)
     editor:

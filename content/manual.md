@@ -3,6 +3,7 @@ title: Manuál k tvorbě webu
 type: manual
 ---
 
+
 ## Základní odkazy
 
 - web: [www.ochrance.cz](https://www.ochrance.cz)
@@ -57,77 +58,12 @@ Pokud jsou dvě stránky identické, např. aktualita v češtině a její přek
 
 Pokud jsou stránky provázané, přepínač jazykových verzí zobrazí automaticky překlad stejné stránky. Pokud provázané nejsou, zobrazí se homepage.
 
+
 ## Vkládání speciálních prvků
 
 Pro vložení složitějších prvků do textu je místy potřebné použít následující značky. Do textu je můžete přímo kopírovat a jen vyměnit části textů. Značku vždy vkládejte na vlastní řádek.
 
-### Video z Youtube
 
-Odkazy na Youtube obsahují vždy identifikátor, který označuje konkrétní video. Mohou vypadat např. takto:
 
-https://www.youtube.com/watch?v=dQw4w9WgXcQ&t=20
-https://www.youtube.com/watch?v=dQw4w9WgXcQ
-https://youtu.be/dQw4w9WgXcQ
 
-Pro vložení videa je potřeba jen tento identifikátor nebo adresa. Takto vložené video je zobrazí automaticky ve správné velikosti.
 
-**Ukázka:**
-
-{{< youtube "dQw4w9WgXcQ" >}}
-
-**Kód (obě varianty jsou správně):**
-
-&#123;&#123;< youtube "dQw4w9WgXcQ" >&#125;&#125;
-
-&#123;&#123;< youtube "https://youtu.be/dQw4w9WgXcQ" >&#125;&#125;
-
-### Rozbalovací text
-
-Rozbalovací text je po načtení stránky sbalený a obsahuje nějaké sekundární detaily, ilustrační příklad apod. Text uvnitř může mít několik odstavců a může obsahovat i obrázky apod. Text titulku je pouze jednořádkový.
-
-**Ukázka:**
-
-{{< rozbal "Titulek" >}}
-Vložený text
-
-Další odstavec
-{{< /rozbal >}}
-
-**Kód:**
-
-&#123;&#123;< rozbal "Titulek" >&#125;&#125;
-Vložený text
-
-Další odstavec
-&#123;&#123;< /rozbal >&#125;&#125;
-
-### Tlačítko
-
-**Ukázky:**
-
-{{< button "http://deti.ochrance.cz" "Dětský web" >}}
-{{< button "/vystupy/" "Výstupy" >}}
-
-**Kódy:**
-
-&#123;&#123;< button "http://deti.ochrance.cz" "Dětský web" >&#125;&#125;
-
-&#123;&#123;< button "/vystupy/" "Výstupy" >&#125;&#125;
-
-### Časová osa
-
-**Ukázka:**
-
-{{< cas >}}
-datum :: popis co se stalo
-datum :: popis co se stalo
-datum :: popis co se stalo
-{{< /cas >}}
-
-**Kód:**
-
-&#123;&#123;< cas >&#125;&#125;
-datum :: popis co se stalo
-datum :: popis co se stalo
-datum :: popis co se stalo
-&#123;&#123;< /cas >&#125;&#125;

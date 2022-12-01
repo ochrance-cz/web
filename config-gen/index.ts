@@ -631,6 +631,26 @@ const aktualne = folderCollection(
   ]
 );
 
+const srozumitelne = folderCollection(
+  'Jak psát srozumitelně',
+  'kapitola',
+  'srozumitelne',
+  {
+    folder: 'content/srozumitelne',
+    preview_path: '/srozumitelne/{{slug}}',
+    path: '{{slug}}/index',
+    extension: 'md',
+    create: false,
+    media_folder: '',
+    public_folder: 'https://www.ochrance.cz/srozumitelne/{{slug}}',
+  },
+  [
+    title('Titulek'),
+    number("Číslo kapitoly", "num"),
+    markdown('Text', 'body'),
+  ]
+);
+
 const situace = folderCollection(
   'Situace',
   'situace',
@@ -804,6 +824,7 @@ save('./static-preview/admin/config.yml', {
     info106,
     projekty,
     eso,
+    srozumitelne,
     englishFiles(strankyEn),
     englishFolder(aktualne),
     englishFolder(dokument),
