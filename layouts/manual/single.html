@@ -14,7 +14,210 @@
         {{ partial "link-list.html" (dict "list" . "page" $) }}
       {{ end }}
 
-      {{ .Content }}
+      {{ partial "typo.html" .Content }}
+
+
+
+
+
+
+
+
+<h3>Video z Youtube</h3>
+
+<p>Odkazy na Youtube obsahují vždy identifikátor (níže vyznačen tučně), který označuje konkrétní video. Mohou vypadat např. takto:</p>
+
+<p>https://www.youtube.com/watch?v=<strong>dQw4w9WgXcQ</strong>&t=20<br>
+https://www.youtube.com/watch?v=<strong>dQw4w9WgXcQ</strong><br>
+https://youtu.be/<strong>dQw4w9WgXcQ</strong></p>
+
+<p>Pro vložení videa je potřeba jen tento identifikátor nebo adresa. Takto vložené video je zobrazí automaticky ve správné velikosti.</p>
+
+
+<h4>Ukázka:</h4>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/dQw4w9WgXcQ" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen="" title="YouTube Video"></iframe>
+</div>
+
+
+<h4>Kód (obě varianty jsou správně):</h4>
+
+<pre id="youtube1">{{"{{"}}< youtube "dQw4w9WgXcQ" >{{"}}"}}</pre>
+
+<p>(<u class="copy" data-clipboard-target="#youtube1">kopírovat kód do schránky</u>)</p>
+
+<pre id="youtube2">{{"{{"}}< youtube "https://youtu.be/dQw4w9WgXcQ" >{{"}}"}}</pre>
+
+<p>(<u class="copy" data-clipboard-target="#youtube2">kopírovat kód do schránky</u>)</p>
+
+<h3>Rozbalovací text</h3>
+
+<p>Rozbalovací text je po načtení stránky sbalený a obsahuje nějaké sekundární detaily, ilustrační příklad apod. Text uvnitř může mít několik odstavců a může obsahovat i obrázky apod. Text titulku je pouze jednořádkový.</p>
+
+
+<h4>Ukázka:</h4>
+
+<div class="_collapsible">
+  <input type="checkbox" id="collapse-test">
+  <div class="box">
+    <h3 class="title">
+      <span class="chevron" aria-hidden="true"></span>
+      <label tabindex="0" class="opener" for="collapse-test" aria-controls="collapse-test-content" aria-expanded="false">
+        Titulek
+      </label>
+    </h3>
+    <div class="content" id="collapse-test-content">
+      <p>Vložený text</p>
+      <p>Další odstavec</p>
+    </div>
+  </div>
+</div>
+
+<h4>Kód:</h4>
+
+<pre id="collapse">{{"{{"}}< rozbal "Titulek" >{{"}}"}}
+Vložený text
+
+Další odstavec
+{{"{{"}}< /rozbal >{{"}}"}}</pre>
+
+<p>(<u class="copy" data-clipboard-target="#collapse">kopírovat kód do schránky</u>)</p>
+
+<h3>Tlačítko</h3>
+
+
+<h4>Ukázky:</h4>
+
+<p><a href="http://deti.ochrance.cz" class="_button" target="_blank" rel="noopener">
+    Dětský web
+</a>
+<br>
+<a href="http://localhost:1313/vystupy/" class="_button">
+    Výstupy
+</a>
+</p>
+
+
+<h4>Kódy:</h4>
+
+<pre id="output1">{{"{{"}}< button "http://deti.ochrance.cz" "Dětský web" >{{"}}"}}</pre>
+
+<p>(<u class="copy" data-clipboard-target="#output1">kopírovat kód do schránky</u>)</p>
+
+<pre id="output2">{{"{{"}}< button "/vystupy/" "Výstupy" >{{"}}"}}</pre>
+
+<p>(<u class="copy" data-clipboard-target="#output2">kopírovat kód do schránky</u>)</p>
+
+<h3>Časová osa</h3>
+
+
+<h4>Ukázka:</h4>
+
+<dl class="_timeline">
+<dt>datum </dt>
+<dd> popis co&nbsp;se&nbsp;stalo</dd>
+
+<dt>datum </dt>
+<dd> popis co&nbsp;se&nbsp;stalo</dd>
+
+<dt>datum </dt>
+<dd> popis co&nbsp;se&nbsp;stalo</dd>
+</dl>
+
+<h4>Kód:</h4>
+
+<pre id="timeline">{{"{{"}}< cas >{{"}}"}}
+datum :: popis co se stalo
+datum :: popis co se stalo
+datum :: popis co se stalo
+{{"{{"}}< /cas >{{"}}"}}</pre>
+
+<p>(<u class="copy" data-clipboard-target="#timeline">kopírovat kód do schránky</u>)</p>
+
+
+<h2>Editor příručky<br><i>Jak psát srozumitelné úřední texty</i></h2>
+
+<p>Editor se chová standardně jako klasický editor, ale umožňuje práci s obarveným textem, vysvětlivkami a speciálními bloky.</p>
+
+<p>V textu je možné vyznačovat barevné bloky s následující sémantikou:</p>
+
+<ul>
+  <li>značka <strong>#vec</strong> označuje <span class="explanation-vec">Věcné informace</span></li>
+  <li>značka <strong>#hod</strong> označuje <span class="explanation-hod">Hodnocení</span></li>
+  <li>značka <strong>#prav</strong> označuje <span class="explanation-prav">Právní pravidla</span></li>
+  <li>značka <strong>#proc</strong> označuje <span class="explanation-proc">Procesní a organizační informace</span></li>
+</ul>
+
+<p>Pomocí zdvojeného křížku (např. <strong>##vec</strong>) je možné vložit do textu vysvětlivku.</p>
+
+<p>Díky tomu se text zapsaný jako</p>
+
+<blockquote>
+  <p>#vec V průběhu kontroly #hod bylo zjištěno podezření #prav z porušení ustanovení § 21 odst. 4 zákona o ochraně veřejného zdraví, #vec kterého se kontrolovaná osoba dopustila tím, že v průběhu kontroly nebyl v kontrolované provozovně vyvěšen provozní řád schválený orgánem ochrany veřejného zdraví,<br>
+  #hod a to v souladu s výše uvedeným ustanovením, #vec přestože je v dotčené provozovně vykonávána činnost „Pedikúra, manikúra“, #prav která je zákonem o ochraně veřejného zdraví považovaná za činnost epidemiologicky závažnou.</p>
+  <p>##vec ##hod ##prav</p>
+</blockquote>
+
+<p>zobrazí následujícím způsobem:</p>
+
+<blockquote>
+<p><span class="markup-vec">V&nbsp;průběhu kontroly <span class="markup-hod">bylo zjištěno podezření </span><span class="markup-prav">z&nbsp;porušení ustanovení §&nbsp;21 odst. 4 zákona o&nbsp;ochraně veřejného zdraví, </span></span><span class="markup-vec">kterého se&nbsp;kontrolovaná osoba dopustila tím, že&nbsp;v&nbsp;průběhu kontroly nebyl v&nbsp;kontrolované provozovně vyvěšen provozní řád schválený orgánem ochrany veřejného zdraví,<br></span>
+<span class="markup-hod">a&nbsp;to&nbsp;v&nbsp;souladu s&nbsp;výše uvedeným ustanovením, </span><span class="markup-vec">přestože je&nbsp;v&nbsp;dotčené provozovně vykonávána činnost „Pedikúra, manikúra“, <span class="markup-prav">která je&nbsp;zákonem o&nbsp;ochraně veřejného zdraví považovaná za&nbsp;činnost epidemiologicky závažnou.</span></span></p>
+
+<p><span class="explanation-vec">Procesní a organizační informace</span> <span class="explanation-hod">Hodnocení</span> <span class="explanation-prav">Právní pravidla</span></p>
+</blockquote>
+
+
+<h3>Speciální bloky</h3>
+
+Podporované speciální bloky jsou následující:
+
+{{ $specials := split "vhodne,nevhodne,priklad,ukol,rady,pravni,hodnoceni,procesni,vecne" "," }}
+
+{{ range $specials }}
+
+<div class="special-{{ . }}">text</div>
+
+
+<pre id="special-{{ . }}">{{"{{"}}< {{ . }} >{{"}}"}}
+
+text
+
+{{"{{"}}< /{{ . }} >{{"}}"}}</pre>
+
+<p>(<u class="copy" data-clipboard-target="#special-{{ . }}">kopírovat kód do schránky</u>)</p>
+
+<hr>
+
+{{ end }}
+
+
+
+<script src="https://unpkg.com/clipboard@2/dist/clipboard.min.js"></script>
+<script>
+  var clipboard = new ClipboardJS('.copy', {
+    text: function(el) {
+      return document.querySelector(el.dataset.clipboardTarget).innerText;
+    },
+  });
+
+  clipboard.on('success', function(e) {
+    e.trigger.classList.add('copied');
+    setTimeout(() => {
+      e.trigger.classList.remove('copied');
+    }, 500);
+
+    e.clearSelection();
+  });
+</script>
+
+
+
+
+
+
+
 
       {{ with .Params.linksAfter }}
         {{ partial "link-list.html" (dict "list" . "page" $) }}

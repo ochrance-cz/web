@@ -1,0 +1,4 @@
+{{- $page := .page.GetPage (print "/srozumitelne/" .number) -}}
+<a href="{{ $page.Permalink | absURL }}">
+  {{- with $page.Params.num }}{{ . }}. {{ end -}}{{ $page.Title -}}
+</a>
