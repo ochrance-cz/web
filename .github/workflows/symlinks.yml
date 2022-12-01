@@ -55,7 +55,7 @@ jobs:
             rm vzdelavaci-akce
             rm vzor
             rm media
-            rm srozumitelnost
+            rm srozumitelne
             rm .htaccess
             ln -s www-prod/aktualne aktualne
             ln -s www-prod/alert alert
@@ -100,7 +100,7 @@ jobs:
             ln -s www-prod/vystupy vystupy
             ln -s www-prod/vzdelavaci-akce vzdelavaci-akce
             ln -s www-prod/vzor vzor
-            ln -s www-prod/srozumitelnost srozumitelnost
+            ln -s www-prod/srozumitelne srozumitelne
             ln -s www-prod/.htaccess .htaccess
           host: ${{ secrets.SSH_HOSTNAME }}
           username: ${{ secrets.SSH_USERNAME }}
