@@ -15,6 +15,20 @@ perex: >
 attachments:
   - title: Souhrnná zpráva - Zařízení dětské psychiatrie
     file: https://eso.ochrance.cz/Nalezene/Edit/10968
+  - title: Zpráva z návštěvy - Psychiatrická nemocnice Bohnice  - sp. zn. 14/2018/NZ
+    file: https://eso.ochrance.cz/Nalezene/Edit/6224
+  - title: Zpráva z návštěvy - Dětská psychiatrická nemocnice Opařany - sp. zn.
+      16/2018/NZ
+    file: https://eso.ochrance.cz/Nalezene/Edit/8168
+  - title: Zpráva z návštěvy - Dětská psychiatrická klinika 2. LF UK a FN Motol -
+      sp. zn. 48/2019/NZ
+    file: https://eso.ochrance.cz/Nalezene/Edit/8552
+  - title: Zpráva z návštěvy - Psychiatrická nemocnice Fakultní nemocnice Plzeň -
+      sp. zn. 55/2018/NZ
+    file: https://eso.ochrance.cz/Nalezene/Edit/7776
+  - title: Zpráva z návštěvy - Psychiatrická klinika Fakultní nemocnice Brno - sp.
+      zn. 2/2019/NZ
+    file: https://eso.ochrance.cz/Nalezene/Edit/8232
 ---
 <p>Už vloni vzniklo na základě zjištění ze série&nbsp;návštěv psychiatrických nemocnic <a href="https://eso.ochrance.cz/Nalezene/Edit/9522">Doporučení</a> obsahující základní pravidla pro zapojení dětí do rozhodování v&nbsp;souvislosti s&nbsp;jejich hospitalizací na psychiatrii. Systematické návštěvy totiž ukázaly, že přístup k nezletilým pacientům se v&nbsp;jednotlivých nemocnicích značně liší.</p>
 
