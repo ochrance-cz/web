@@ -1,6 +1,6 @@
 ---
 title: Proč v Česku potřebujeme národní lidskoprávní instituci?
-date: 2022-12-10T08:04:00.000Z
+date: 2022-12-10T08:46:38.950Z
 vystupy:
   - tz
 perex: >
