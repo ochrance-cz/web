@@ -229,6 +229,28 @@ const stranky = files('Jiné', 'stranky', [
     boolean('Uložit jako draft', 'draft'),
     markdown('Souhlas u newsletteru', 'consent'),
   ]),
+  fileCollection('Jak psát srozumitelně (Obsah)', 'srozumitelnetoc', 'content/srozumitelne/_index.markdown', [
+    title('Titulek'),
+    list('Kapitoly', 'kapitola', 'chapters', [
+      relation("Kapitoly", "chapter", {
+        collection: 'srozumitelne',
+        value_field: 'slug',
+        display_fields: ['title'],
+        search_fields: ["title"],
+        multiple: false,
+      })
+    ]),
+    list('Textový obsah', "obsah", "textcontent", [
+      relation("Před kapitolou", "before", {
+        collection: 'srozumitelne',
+        value_field: 'slug',
+        display_fields: ['title'],
+        search_fields: ["title"],
+        multiple: false,
+      })
+    ]),
+    markdown("Obsah", "text"),
+  ]),
 ]);
 
 const strankyEn = files('Jiné', 'stranky', [
