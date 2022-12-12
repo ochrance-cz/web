@@ -22,12 +22,12 @@ chapters:
   - chapter: prepsane-pisemnosti/index
 textcontent:
   - before: proc/index
-    text: |
-      ## 1. část  \
+    text: |-
+      ## 1. část\
       Co je srozumitelný úřední text a proč má smysl psát srozumitelně
   - before: co-a-komu/index
-    text: |
-      ## 2. část  \
+    text: |-
+      ## 2. část\
       Psaní úředních textů obecně
 
       ### Obecné rady pro stavbu úředních textů
@@ -35,14 +35,14 @@ textcontent:
     text: |
       ### Obecné rady pro psaní úředních textů
   - before: spravni-rozhodnuti/index
-    text: |
-      ## 3. část  \
+    text: >-
+      ## 3. část\
+
       Psaní určitých úředních písemností
+
 
       V těchto kapitolách vysvětlíme, jak psát srozumitelněji nejběžnější úřední dokumenty, jako jsou správni rozhodnutí, výzvy, oznámeni, formuláře nebo letáky
 
+
       Ve výkladu vycházíme z právní úpravy ve správním řádu, protože je nejběžnější.
 ---
-
-
-
