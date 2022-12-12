@@ -2,39 +2,39 @@
 title: Jak psát srozumitelně úřední texty
 subtitle: Příručka srozumitelného psaní pro úředníky
 chapters:
-  - chapter: 00/index.md
-  - chapter: 01/index.md
-  - chapter: 02/index.md
-  - chapter: 03/index.md
-  - chapter: 04/index.md
-  - chapter: 05/index.md
-  - chapter: 06/index.md
-  - chapter: 07/index.md
-  - chapter: 08/index.md
-  - chapter: 09/index.md
-  - chapter: 10/index.md
-  - chapter: 11/index.md
-  - chapter: 12/index.md
-  - chapter: 13/index.md
-  - chapter: 14/index.md
-  - chapter: 15/index.md
-  - chapter: 16/index.md
-  - chapter: 17/index.md
+  - chapter: proc/index
+  - chapter: co-a-komu/index
+  - chapter: stavba-textu/index
+  - chapter: podstatne/index
+  - chapter: ujistete-se/index
+  - chapter: slova-obecne/index
+  - chapter: slova-v-urednim-textu/index
+  - chapter: vety/index
+  - chapter: plynulost-textu/index
+  - chapter: cleneni-a-formatovani/index
+  - chapter: podtext/index
+  - chapter: spravni-rozhodnuti/index
+  - chapter: vyzvy/index
+  - chapter: vzory/index
+  - chapter: formulare/index
+  - chapter: letaky/index
+  - chapter: uredni-informace/index
+  - chapter: prepsane-pisemnosti/index
 textcontent:
-  - before: 00/index.md
+  - before: proc/index
     text: |
       ## 1. část  \
       Co je srozumitelný úřední text a proč má smysl psát srozumitelně
-  - before: 01/index.md
+  - before: co-a-komu/index
     text: |
       ## 2. část  \
       Psaní úředních textů obecně
 
       ### Obecné rady pro stavbu úředních textů
-  - before: 05/index.md
+  - before: slova-obecne/index
     text: |
       ### Obecné rady pro psaní úředních textů
-  - before: 11/index.md
+  - before: spravni-rozhodnuti/index
     text: |
       ## 3. část  \
       Psaní určitých úředních písemností
