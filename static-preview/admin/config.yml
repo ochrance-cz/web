@@ -652,6 +652,22 @@ collections:
                 search_fields:
                   - title
                 multiple: false
+              - editor_components:
+                  - image
+                buttons:
+                  - bold
+                  - italic
+                  - link
+                  - heading-two
+                  - heading-three
+                  - heading-four
+                  - quote
+                  - bulleted-list
+                  - numbered-list
+                label: Text
+                name: text
+                required: false
+                widget: markdown
           - editor_components:
               - image
             buttons:

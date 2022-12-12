@@ -249,7 +249,8 @@ const stranky = files('Jiné', 'stranky', [
         display_fields: ['title'],
         search_fields: ["title"],
         multiple: false,
-      })
+      }),
+      markdown("Text", "text")
     ], {
       collapsed: false,
     }),
