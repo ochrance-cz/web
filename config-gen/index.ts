@@ -234,7 +234,7 @@ const stranky = files('Jiné', 'stranky', [
     list('Kapitoly', 'kapitola', 'chapters', [
       relation("Kapitoly", "chapter", {
         collection: 'srozumitelne',
-        value_field: 'slug',
+        value_field: '{{slug}}',
         display_fields: ['title'],
         search_fields: ["title"],
         multiple: false,
@@ -243,7 +243,7 @@ const stranky = files('Jiné', 'stranky', [
     list('Textový obsah', "obsah", "textcontent", [
       relation("Před kapitolou", "before", {
         collection: 'srozumitelne',
-        value_field: 'slug',
+        value_field: '{{slug}}',
         display_fields: ['title'],
         search_fields: ["title"],
         multiple: false,

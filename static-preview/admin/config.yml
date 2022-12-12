@@ -619,7 +619,7 @@ collections:
             name: title
             widget: string
           - label: Kapitoly
-            name: chapter
+            name: chapters
             required: false
             label_singular: kapitola
             widget: list
@@ -629,7 +629,7 @@ collections:
                 required: false
                 widget: relation
                 collection: srozumitelne
-                value_field: slug
+                value_field: '{{slug}}'
                 display_fields:
                   - title
                 search_fields:
@@ -642,11 +642,11 @@ collections:
             widget: list
             fields:
               - label: Před kapitolou
-                name: chapter
+                name: before
                 required: false
                 widget: relation
                 collection: srozumitelne
-                value_field: slug
+                value_field: '{{slug}}'
                 display_fields:
                   - title
                 search_fields:
