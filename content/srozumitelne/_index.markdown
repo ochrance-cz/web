@@ -2,24 +2,24 @@
 title: Jak psát srozumitelně úřední texty
 subtitle: Příručka srozumitelného psaní pro úředníky
 chapters:
-  - chapter: proc/index
-  - chapter: co-a-komu/index
-  - chapter: stavba-textu/index
-  - chapter: podstatne/index
-  - chapter: ujistete-se/index
-  - chapter: slova-obecne/index
-  - chapter: slova-v-urednim-textu/index
-  - chapter: vety/index
-  - chapter: plynulost-textu/index
-  - chapter: cleneni-a-formatovani/index
-  - chapter: podtext/index
-  - chapter: spravni-rozhodnuti/index
-  - chapter: vyzvy/index
-  - chapter: vzory/index
-  - chapter: formulare/index
-  - chapter: letaky/index
-  - chapter: uredni-informace/index
-  - chapter: prepsane-pisemnosti/index
+  - proc/index
+  - co-a-komu/index
+  - stavba-textu/index
+  - podstatne/index
+  - ujistete-se/index
+  - slova-obecne/index
+  - slova-v-urednim-textu/index
+  - vety/index
+  - plynulost-textu/index
+  - cleneni-a-formatovani/index
+  - podtext/index
+  - spravni-rozhodnuti/index
+  - vyzvy/index
+  - vzory/index
+  - formulare/index
+  - letaky/index
+  - uredni-informace/index
+  - prepsane-pisemnosti/index
 textcontent:
   - before: proc/index
     text: |
