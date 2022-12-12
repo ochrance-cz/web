@@ -611,6 +611,63 @@ collections:
             name: consent
             required: false
             widget: markdown
+      - label: Jak psát srozumitelně (Obsah)
+        name: srozumitelnetoc
+        file: content/srozumitelne/_index.markdown
+        fields:
+          - label: Titulek
+            name: title
+            widget: string
+          - label: Kapitoly
+            name: chapter
+            required: false
+            label_singular: kapitola
+            widget: list
+            fields:
+              - label: Kapitoly
+                name: chapter
+                required: false
+                widget: relation
+                collection: srozumitelne
+                value_field: slug
+                display_fields:
+                  - title
+                search_fields:
+                  - title
+                multiple: false
+          - label: Textový obsah
+            name: textcontent
+            required: false
+            label_singular: obsah
+            widget: list
+            fields:
+              - label: Před kapitolou
+                name: chapter
+                required: false
+                widget: relation
+                collection: srozumitelne
+                value_field: slug
+                display_fields:
+                  - title
+                search_fields:
+                  - title
+                multiple: false
+          - editor_components:
+              - image
+            buttons:
+              - bold
+              - italic
+              - link
+              - heading-two
+              - heading-three
+              - heading-four
+              - quote
+              - bulleted-list
+              - numbered-list
+            label: Obsah
+            name: text
+            required: false
+            widget: markdown
   - name: aktualne
     label: Aktuality
     label_singular: aktualita
