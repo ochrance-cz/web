@@ -623,18 +623,18 @@ collections:
             required: false
             label_singular: kapitola
             widget: list
-            field:
-              label: Kapitoly
-              name: chapter
-              required: false
-              widget: relation
-              collection: srozumitelne
-              value_field: '{{slug}}'
-              display_fields:
-                - title
-              search_fields:
-                - title
-              multiple: false
+            fields:
+              - label: Kapitola
+                name: chapter
+                required: false
+                widget: relation
+                collection: srozumitelne
+                value_field: '{{slug}}'
+                display_fields:
+                  - title
+                search_fields:
+                  - title
+                multiple: false
           - label: Textový obsah
             name: textcontent
             required: false
