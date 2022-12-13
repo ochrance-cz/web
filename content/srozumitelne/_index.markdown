@@ -23,48 +23,45 @@ chapters:
 twocols:
   - id: kratsi
     type: no-yes
-    rows:
-      - left: v důsledku toho
-        right: proto
-      - left: v případě, že
-        right: pokud
-      - left: týkající se
-        right: o
-      - left: za účelem
-        right: kvůli
+    left1: v důsledku toho
+    right1: proto
+    left2: v případě, že
+    right2: pokud
+    left3: týkající se
+    right3: o
+    left4: za účelem
+    right4: kvůli
   - type: no-yes
     id: vata
-    rows:
-      - left: je nutné zdůraznit
-        right: napište to důrazně, čtenář to pak pozná sám
-      - left: z právě uvedeného je zřejmé
-        right: je-li to zřejmé, čtenář to pozná; naopak, když mu to řeknete, cítí to jako manipulaci a podvědomě se vzepře
-      - left: vyvstala otázka, zde se nabízí otázka
-        right: rovnou se zeptejte nebo zdůvodněte, proč se ptáte; otázka se jen tak z ničeho nic nezhmotní
-      - left: |
+    left1: je nutné zdůraznit
+    right1: napište to důrazně, čtenář to pak pozná sám
+    left2: z právě uvedeného je zřejmé
+    right2: je-li to zřejmé, čtenář to pozná; naopak, když mu to řeknete, cítí to jako manipulaci a podvědomě se vzepře
+    left3: vyvstala otázka, zde se nabízí otázka
+    right3: rovnou se zeptejte nebo zdůvodněte, proč se ptáte; otázka se jen tak z ničeho nic nezhmotní
+    left4: |
           v neposlední řadě,
           v kontextu této věci
           v rámci posuzování
-        right: radši se zamyslete, jestli jste dobře text uspořádali a vystavěli
+    right4: radši se zamyslete, jestli jste dobře text uspořádali a vystavěli
   - type: yes-yes
     id: spojovaci
-    rows:
-      - left: odkazujeme na předešlý text
-        right: |
+    left1: odkazujeme na předešlý text
+    right1: |
           ukazovací zájmena: tento, tito, …
           přitom, tedy, proto, totiž, právě
-      - left: přidáváme myšlenku
-        right: také, navíc, krom toho, podobně, dále, …
-      - left: opakujeme
-        right: jinými slovy, jinak řečeno, …
-      - left: představujeme důvod či výsledek
-        right: tak, proto, pak, …
-      - left: odporujeme
-        right: ale, ovšem, přesto, na druhé straně, opačně, však, …
-      - left: shrnujeme
-        right: závěrem, krátce, …
-      - left: řetězíme myšlenky
-        right: za prvé, za druhé, …
+    left2: přidáváme myšlenku
+    right2: také, navíc, krom toho, podobně, dále, …
+    left3: opakujeme
+    right3: jinými slovy, jinak řečeno, …
+    left4: představujeme důvod či výsledek
+    right4: tak, proto, pak, …
+    left5: odporujeme
+    right5: ale, ovšem, přesto, na druhé straně, opačně, však, …
+    left6: shrnujeme
+    right6: závěrem, krátce, …
+    left7: řetězíme myšlenky
+    right7: za prvé, za druhé, …
 textcontent:
   - before: proc/index
     text: |-
