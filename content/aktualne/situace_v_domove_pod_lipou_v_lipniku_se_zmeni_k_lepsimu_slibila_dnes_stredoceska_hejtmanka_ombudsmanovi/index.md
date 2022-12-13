@@ -1,14 +1,14 @@
 ---
-title: "Situace v Domově pod lípou v Lipníku se změní k lepšímu, slíbila dnes
+title: "Situace v Domově pod lípou v Lipníku se změní k lepšímu, slíbila
   středočeská hejtmanka ombudsmanovi "
 date: 2022-12-12T17:16:54.010Z
 vystupy:
   - tz
 perex: >
-  <p>Veřejný ochránce práv Stanislav Křeček na dnešním jednání s&nbsp;hejtmankou
-  Středočeského kraje Petrou Peckovou ocenil, že se kraj intenzivně věnuje nejen
-  stabilizaci a zlepšení aktuálních poměrů v&nbsp;Domově pod lípou, ale plánuje
-  postupnou transformaci zařízení.</p>
+  <p>Veřejný ochránce práv Stanislav Křeček na pondělním jednání
+  s&nbsp;hejtmankou Středočeského kraje Petrou Peckovou ocenil, že se kraj
+  intenzivně věnuje nejen stabilizaci a zlepšení aktuálních poměrů v&nbsp;Domově
+  pod lípou, ale plánuje postupnou transformaci zařízení.</p>
 ---
 <p>Jednání ombudsmana se zástupci&nbsp;Středočeského kraje navazovalo na nedávná závažná zjištění veřejného ochránce práv v&nbsp;Domově pod lípou v&nbsp;Lipníku. Po říjnové návštěvě pracovníků Kanceláře ombudsmana v&nbsp;Domově pod lípou se veřejný ochránce rozhodl podat kvůli špatnému zacházení s klienty trestní oznámení. Vedení domova i kraje zaslal zprávu z&nbsp;návštěvy. V&nbsp;té oproti běžným zvyklostem neuvedl žádná konkrétní dílčí opatření, ale požadoval komplexní změnu způsobu poskytování podpory klientům tak, aby jim domov zajistil bezpečné a podnětné prostředí.</p>
 
