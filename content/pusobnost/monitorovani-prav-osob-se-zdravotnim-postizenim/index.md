@@ -24,7 +24,7 @@ Za účelem zapojení lidí s postižením do sledování naplňování [Úmlu
 
 {{< rozbal "Členové poradního orgánu" >}}
 
-Poradní orgán má 19 členů. Jeho členy jsou lidé s postižením a lidé hájící práva lidí s postižením. Při jmenování členů poradního orgánu přihlíží ombudsman zejména k jejich **odbornosti a angažovanosti v oblasti ochrany práv lidí s postižením**.
+Poradní orgán má 18 členů. Jeho členy jsou lidé s postižením a lidé hájící práva lidí s postižením. Při jmenování členů poradního orgánu přihlíží ombudsman zejména k jejich **odbornosti a angažovanosti v oblasti ochrany práv lidí s postižením**.
 
 #### (1) Eva Liberdová
 
