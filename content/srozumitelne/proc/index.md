@@ -3,9 +3,15 @@ title: Co je srozumitelný úřední text a proč má smysl psát srozumitelně
 ---
 ### Proč jsme napsali tuto příručku?
 
+{{< sloupce "kratsi" >}}
+
 Protože nám záleží na tom, aby lidé úředním textům rozuměli.
 
+{{< sloupce "vata" >}}
+
 Protože historicky je u nás úřední jazyk zbytečně složitý a čtenářům úředních textů nepomáhá.
+
+{{< sloupce "spojovaci" >}}
 
 Protože text napsaný obvyklým úředním jazykem může skrýt chybné, zavádějící či neúplné sdělení.
 

@@ -1,0 +1,16 @@
+{{- $id := .Get 0 -}}
+{{- $page := $.Site.GetPage "srozumitelne" -}}
+{{- $twocols := $page.Params.twocols -}}
+{{ range where $twocols "id" $id }}
+  {{ $content := . }}
+  <dl class="two-col-{{ $content.type }}">
+    {{ range (seq 10) }}
+      {{ $left := index $content (print "left-" .) }}
+      {{ $right := index $content (print "right-" .) }}
+      {{ if $left }}
+        <dt>{{ $left | markdownify }}</dt>
+        <dd>{{ $right | markdownify }}</dd>
+      {{ end }}
+    {{ end }}
+  </dl>
+{{ end }}

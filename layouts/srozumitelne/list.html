@@ -3,50 +3,24 @@
   {{ partial "text-header.html" . }}
 
   <section>
-
-    <h2><small>1. část</small><br>Co je srozumitelný úřední text a proč má smysl psát srozumitelně</h2>
-
+    {{ $textContent := .Params.textcontent }}
     <ul class="_link-list">
-      <li>{{ partial "collection-link.html" (dict "number" "00" "page" .) }}</li>
-    </ul>
-
-
-    <h2><small>2. část</small><br>Psaní úředních textů obecně</h2>
-
-    <h3>Obecné rady pro stavbu úředních textů</h3>
-
-    <ul class="_link-list">
-      <li>{{ partial "collection-link.html" (dict "number" "01" "page" .) }}</li>
-      <li>{{ partial "collection-link.html" (dict "number" "02" "page" .) }}</li>
-      <li>{{ partial "collection-link.html" (dict "number" "03" "page" .) }}</li>
-      <li>{{ partial "collection-link.html" (dict "number" "04" "page" .) }}</li>
-    </ul>
-
-    <h3>Obecné rady pro psaní úředních textů</h3>
-
-    <ul class="_link-list">
-      <li>{{ partial "collection-link.html" (dict "number" "05" "page" .) }}</li>
-      <li>{{ partial "collection-link.html" (dict "number" "06" "page" .) }}</li>
-      <li>{{ partial "collection-link.html" (dict "number" "07" "page" .) }}</li>
-      <li>{{ partial "collection-link.html" (dict "number" "08" "page" .) }}</li>
-      <li>{{ partial "collection-link.html" (dict "number" "09" "page" .) }}</li>
-      <li>{{ partial "collection-link.html" (dict "number" "10" "page" .) }}</li>
-    </ul>
-
-    <h2><small>3. část</small><br>Psaní určitých úředních písemností</h2>
-
-    <p>V těchto kapitolách vysvětlíme, jak psát srozumitelněji nejběžnější úřední dokumenty, jako jsou správni rozhodnutí, výzvy, oznámeni, formuláře nebo letáky</p>
-
-    <p>Ve výkladu vycházíme z právní úpravy ve správním řádu, protože je nejběžnější.</p>
-
-    <ul class="_link-list">
-      <li>{{ partial "collection-link.html" (dict "number" "11" "page" .) }}</li>
-      <li>{{ partial "collection-link.html" (dict "number" "12" "page" .) }}</li>
-      <li>{{ partial "collection-link.html" (dict "number" "13" "page" .) }}</li>
-      <li>{{ partial "collection-link.html" (dict "number" "14" "page" .) }}</li>
-      <li>{{ partial "collection-link.html" (dict "number" "15" "page" .) }}</li>
-      <li>{{ partial "collection-link.html" (dict "number" "16" "page" .) }}</li>
-      <li>{{ partial "collection-link.html" (dict "number" "17" "page" .) }}</li>
+    {{ range .Params.chapters }}
+      {{ $chapterSlug := .chapter }}
+      {{ $chapter := $.Site.GetPage (print "srozumitelne/" .chapter) }}
+      {{ $beforeText := "" }}
+      {{ range $textContent }}
+        {{ if eq .before $chapterSlug }}
+          {{ $beforeText = . }}
+        {{ end }}
+      {{ end }}
+      {{ with $beforeText }}
+        </ul>
+        {{ $beforeText.text | markdownify }}
+        <ul class="_link-list">
+      {{ end }}
+      <li><a href="{{ $chapter.Permalink }}">{{ $chapter.Title }}</a></li>
+    {{ end }}
     </ul>
   </section>
 </main>
