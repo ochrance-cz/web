@@ -674,6 +674,10 @@ collections:
             label_singular: obsah
             widget: list
             fields:
+              - label: Identifikátor
+                name: id
+                required: false
+                widget: string
               - label: Typ obsahu
                 name: type
                 required: false
@@ -683,10 +687,6 @@ collections:
                     value: no-yes
                   - label: Příklady
                     value: yes-yes
-              - label: Identifikátor
-                name: id
-                required: false
-                widget: string
               - editor_components:
                   - image
                 buttons:

@@ -268,8 +268,8 @@ const stranky = files('Jiné', 'stranky', [
       collapsed: false,
     }),
     list("Dvousloupcový obsah", "obsah", "twocols", [
-      select('Typ obsahu', 'type', twoColTypes),
       string("Identifikátor", "id"),
+      select('Typ obsahu', 'type', twoColTypes),
       ...twoColFields
     ])
   ]),
