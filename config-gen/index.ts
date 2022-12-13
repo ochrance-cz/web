@@ -684,7 +684,7 @@ const srozumitelne = folderCollection(
     preview_path: '/srozumitelne/{{slug}}',
     path: '{{slug}}/index',
     extension: 'md',
-    create: false,
+    create: true,
     media_folder: '',
     public_folder: 'https://www.ochrance.cz/srozumitelne/{{slug}}',
   },

@@ -2027,6 +2027,7 @@ collections:
         name: body
         required: false
         widget: markdown
+    create: true
     path: '{{slug}}/index'
     media_folder: ''
     public_folder: 'https://www.ochrance.cz/srozumitelne/{{slug}}'
