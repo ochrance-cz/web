@@ -23,45 +23,45 @@ chapters:
 twocols:
   - id: kratsi
     type: no-yes
-    left1: v důsledku toho
-    right1: proto
-    left2: v případě, že
-    right2: pokud
-    left3: týkající se
-    right3: o
-    left4: za účelem
-    right4: kvůli
+    left-1: v důsledku toho
+    right-1: proto
+    left-2: v případě, že
+    right-2: pokud
+    left-3: týkající se
+    right-3: o
+    left-4: za účelem
+    right-4: kvůli
   - type: no-yes
     id: vata
-    left1: je nutné zdůraznit
-    right1: napište to důrazně, čtenář to pak pozná sám
-    left2: z právě uvedeného je zřejmé
-    right2: je-li to zřejmé, čtenář to pozná; naopak, když mu to řeknete, cítí to jako manipulaci a podvědomě se vzepře
-    left3: vyvstala otázka, zde se nabízí otázka
-    right3: rovnou se zeptejte nebo zdůvodněte, proč se ptáte; otázka se jen tak z ničeho nic nezhmotní
-    left4: |
+    left-1: je nutné zdůraznit
+    right-1: napište to důrazně, čtenář to pak pozná sám
+    left-2: z právě uvedeného je zřejmé
+    right-2: je-li to zřejmé, čtenář to pozná; naopak, když mu to řeknete, cítí to jako manipulaci a podvědomě se vzepře
+    left-3: vyvstala otázka, zde se nabízí otázka
+    right-3: rovnou se zeptejte nebo zdůvodněte, proč se ptáte; otázka se jen tak z ničeho nic nezhmotní
+    left-4: |
           v neposlední řadě,
           v kontextu této věci
           v rámci posuzování
-    right4: radši se zamyslete, jestli jste dobře text uspořádali a vystavěli
+    right-4: radši se zamyslete, jestli jste dobře text uspořádali a vystavěli
   - type: yes-yes
     id: spojovaci
-    left1: odkazujeme na předešlý text
-    right1: |
+    left-1: odkazujeme na předešlý text
+    right-1: |
           ukazovací zájmena: tento, tito, …
           přitom, tedy, proto, totiž, právě
-    left2: přidáváme myšlenku
-    right2: také, navíc, krom toho, podobně, dále, …
-    left3: opakujeme
-    right3: jinými slovy, jinak řečeno, …
-    left4: představujeme důvod či výsledek
-    right4: tak, proto, pak, …
-    left5: odporujeme
-    right5: ale, ovšem, přesto, na druhé straně, opačně, však, …
-    left6: shrnujeme
-    right6: závěrem, krátce, …
-    left7: řetězíme myšlenky
-    right7: za prvé, za druhé, …
+    left-2: přidáváme myšlenku
+    right-2: také, navíc, krom toho, podobně, dále, …
+    left-3: opakujeme
+    right-3: jinými slovy, jinak řečeno, …
+    left-4: představujeme důvod či výsledek
+    right-4: tak, proto, pak, …
+    left-5: odporujeme
+    right-5: ale, ovšem, přesto, na druhé straně, opačně, však, …
+    left-6: shrnujeme
+    right-6: závěrem, krátce, …
+    left-7: řetězíme myšlenky
+    right-7: za prvé, za druhé, …
 textcontent:
   - before: proc/index
     text: |-
