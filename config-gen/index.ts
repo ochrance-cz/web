@@ -81,6 +81,19 @@ const links = (title: string, name: string = 'links') => {
   return list(title, 'odkaz', name, [string('Odkaz', 'link'), string('Popis', 'text')]);
 };
 
+const twoColTypes = [
+  { label: 'Špatně x Správně', value: 'no-yes' },
+  { label: 'Příklady', value: 'yes-yes' },
+];
+
+const twoColFields = []
+
+for (var i = 1; i <= 10; ++i) {
+  twoColFields.push(markdown(`${i}. pole vlevo`, `left-${i}`));
+  twoColFields.push(markdown(`${i}. pole vpravo`, `right-${i}`));
+}
+
+
 const stranky = files('Jiné', 'stranky', [
   fileCollection('Homepage', 'home', 'content/_index.markdown', [
     title('Titulek'),
@@ -254,7 +267,11 @@ const stranky = files('Jiné', 'stranky', [
     ], {
       collapsed: false,
     }),
-    markdown("Obsah", "text"),
+    list("Dvousloupcový obsah", "obsah", "twocols", [
+      select('Typ obsahu', 'type', twoColTypes),
+      string("Identifikátor", "id"),
+      ...twoColFields
+    ])
   ]),
 ]);
 

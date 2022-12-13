@@ -668,22 +668,345 @@ collections:
                 name: text
                 required: false
                 widget: markdown
-          - editor_components:
-              - image
-            buttons:
-              - bold
-              - italic
-              - link
-              - heading-two
-              - heading-three
-              - heading-four
-              - quote
-              - bulleted-list
-              - numbered-list
-            label: Obsah
-            name: text
+          - label: Dvousloupcový obsah
+            name: twocols
             required: false
-            widget: markdown
+            label_singular: obsah
+            widget: list
+            fields:
+              - label: Typ obsahu
+                name: type
+                required: false
+                widget: select
+                options:
+                  - label: Špatně x Správně
+                    value: no-yes
+                  - label: Příklady
+                    value: yes-yes
+              - label: Identifikátor
+                name: id
+                required: false
+                widget: string
+              - editor_components:
+                  - image
+                buttons:
+                  - bold
+                  - italic
+                  - link
+                  - heading-two
+                  - heading-three
+                  - heading-four
+                  - quote
+                  - bulleted-list
+                  - numbered-list
+                label: 1. pole vlevo
+                name: left-1
+                required: false
+                widget: markdown
+              - editor_components:
+                  - image
+                buttons:
+                  - bold
+                  - italic
+                  - link
+                  - heading-two
+                  - heading-three
+                  - heading-four
+                  - quote
+                  - bulleted-list
+                  - numbered-list
+                label: 1. pole vpravo
+                name: right-1
+                required: false
+                widget: markdown
+              - editor_components:
+                  - image
+                buttons:
+                  - bold
+                  - italic
+                  - link
+                  - heading-two
+                  - heading-three
+                  - heading-four
+                  - quote
+                  - bulleted-list
+                  - numbered-list
+                label: 2. pole vlevo
+                name: left-2
+                required: false
+                widget: markdown
+              - editor_components:
+                  - image
+                buttons:
+                  - bold
+                  - italic
+                  - link
+                  - heading-two
+                  - heading-three
+                  - heading-four
+                  - quote
+                  - bulleted-list
+                  - numbered-list
+                label: 2. pole vpravo
+                name: right-2
+                required: false
+                widget: markdown
+              - editor_components:
+                  - image
+                buttons:
+                  - bold
+                  - italic
+                  - link
+                  - heading-two
+                  - heading-three
+                  - heading-four
+                  - quote
+                  - bulleted-list
+                  - numbered-list
+                label: 3. pole vlevo
+                name: left-3
+                required: false
+                widget: markdown
+              - editor_components:
+                  - image
+                buttons:
+                  - bold
+                  - italic
+                  - link
+                  - heading-two
+                  - heading-three
+                  - heading-four
+                  - quote
+                  - bulleted-list
+                  - numbered-list
+                label: 3. pole vpravo
+                name: right-3
+                required: false
+                widget: markdown
+              - editor_components:
+                  - image
+                buttons:
+                  - bold
+                  - italic
+                  - link
+                  - heading-two
+                  - heading-three
+                  - heading-four
+                  - quote
+                  - bulleted-list
+                  - numbered-list
+                label: 4. pole vlevo
+                name: left-4
+                required: false
+                widget: markdown
+              - editor_components:
+                  - image
+                buttons:
+                  - bold
+                  - italic
+                  - link
+                  - heading-two
+                  - heading-three
+                  - heading-four
+                  - quote
+                  - bulleted-list
+                  - numbered-list
+                label: 4. pole vpravo
+                name: right-4
+                required: false
+                widget: markdown
+              - editor_components:
+                  - image
+                buttons:
+                  - bold
+                  - italic
+                  - link
+                  - heading-two
+                  - heading-three
+                  - heading-four
+                  - quote
+                  - bulleted-list
+                  - numbered-list
+                label: 5. pole vlevo
+                name: left-5
+                required: false
+                widget: markdown
+              - editor_components:
+                  - image
+                buttons:
+                  - bold
+                  - italic
+                  - link
+                  - heading-two
+                  - heading-three
+                  - heading-four
+                  - quote
+                  - bulleted-list
+                  - numbered-list
+                label: 5. pole vpravo
+                name: right-5
+                required: false
+                widget: markdown
+              - editor_components:
+                  - image
+                buttons:
+                  - bold
+                  - italic
+                  - link
+                  - heading-two
+                  - heading-three
+                  - heading-four
+                  - quote
+                  - bulleted-list
+                  - numbered-list
+                label: 6. pole vlevo
+                name: left-6
+                required: false
+                widget: markdown
+              - editor_components:
+                  - image
+                buttons:
+                  - bold
+                  - italic
+                  - link
+                  - heading-two
+                  - heading-three
+                  - heading-four
+                  - quote
+                  - bulleted-list
+                  - numbered-list
+                label: 6. pole vpravo
+                name: right-6
+                required: false
+                widget: markdown
+              - editor_components:
+                  - image
+                buttons:
+                  - bold
+                  - italic
+                  - link
+                  - heading-two
+                  - heading-three
+                  - heading-four
+                  - quote
+                  - bulleted-list
+                  - numbered-list
+                label: 7. pole vlevo
+                name: left-7
+                required: false
+                widget: markdown
+              - editor_components:
+                  - image
+                buttons:
+                  - bold
+                  - italic
+                  - link
+                  - heading-two
+                  - heading-three
+                  - heading-four
+                  - quote
+                  - bulleted-list
+                  - numbered-list
+                label: 7. pole vpravo
+                name: right-7
+                required: false
+                widget: markdown
+              - editor_components:
+                  - image
+                buttons:
+                  - bold
+                  - italic
+                  - link
+                  - heading-two
+                  - heading-three
+                  - heading-four
+                  - quote
+                  - bulleted-list
+                  - numbered-list
+                label: 8. pole vlevo
+                name: left-8
+                required: false
+                widget: markdown
+              - editor_components:
+                  - image
+                buttons:
+                  - bold
+                  - italic
+                  - link
+                  - heading-two
+                  - heading-three
+                  - heading-four
+                  - quote
+                  - bulleted-list
+                  - numbered-list
+                label: 8. pole vpravo
+                name: right-8
+                required: false
+                widget: markdown
+              - editor_components:
+                  - image
+                buttons:
+                  - bold
+                  - italic
+                  - link
+                  - heading-two
+                  - heading-three
+                  - heading-four
+                  - quote
+                  - bulleted-list
+                  - numbered-list
+                label: 9. pole vlevo
+                name: left-9
+                required: false
+                widget: markdown
+              - editor_components:
+                  - image
+                buttons:
+                  - bold
+                  - italic
+                  - link
+                  - heading-two
+                  - heading-three
+                  - heading-four
+                  - quote
+                  - bulleted-list
+                  - numbered-list
+                label: 9. pole vpravo
+                name: right-9
+                required: false
+                widget: markdown
+              - editor_components:
+                  - image
+                buttons:
+                  - bold
+                  - italic
+                  - link
+                  - heading-two
+                  - heading-three
+                  - heading-four
+                  - quote
+                  - bulleted-list
+                  - numbered-list
+                label: 10. pole vlevo
+                name: left-10
+                required: false
+                widget: markdown
+              - editor_components:
+                  - image
+                buttons:
+                  - bold
+                  - italic
+                  - link
+                  - heading-two
+                  - heading-three
+                  - heading-four
+                  - quote
+                  - bulleted-list
+                  - numbered-list
+                label: 10. pole vpravo
+                name: right-10
+                required: false
+                widget: markdown
   - name: aktualne
     label: Aktuality
     label_singular: aktualita
