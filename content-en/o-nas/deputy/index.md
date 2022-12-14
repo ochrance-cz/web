@@ -1,5 +1,5 @@
 ---
-title: Deputy of the Public Defender of Rights
+title: Deputy Public Defender of Rights
 name: Vít Alexander Schorm
 pic: zvop_schorm_-_kopie_orez.jpg
 bio: >-
@@ -21,5 +21,5 @@ bio: >-
   He has not been a member of a political party or movement. He enjoys hiking and photography. He speaks English, French and Spanish in addition to Czech.
 
 
-  He was elected the Deputy of the Public Defender of Rights by the Chamber of Deputies of the Parliament on 26 October 2022.
+  He was elected the Deputy Public Defender of Rights by the Chamber of Deputies of the Parliament on 26 October 2022.
 ---
