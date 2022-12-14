@@ -455,7 +455,7 @@ title: "2022"
 
 <p><a href="https://www.ochrance.cz/info106/2022/85_2022_odpoved_priloha2.docx">Příloha 2</a>.</p>
 
-<h3>86/2022 &ndash; Informace ke spisu z&nbsp;oblasti Občanskoprávní věci</h3>
+<h3>86/2022 &ndash; Informace ke spisu z&nbsp;oblasti Správa pozemních komunikací</h3>
 
 <p><a href="https://www.ochrance.cz/info106/2022/86_2022_zadost.pdf">Žádost o informace</a>.</p>
 
