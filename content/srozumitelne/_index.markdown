@@ -9,8 +9,7 @@ chapters:
   - chapter: ujistete-se/index
 textcontent:
   - before: proc/index
-    text: "## 1. část — Co je srozumitelný úřední text a proč má smysl psát
-      srozumitelně"
+    text: "## 1. část — Co je srozumitelný úřední text"
   - before: co-a-komu/index
     text: |-
       ## 2. část — Psaní úředních textů obecně
