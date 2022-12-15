@@ -11,12 +11,7 @@ textcontent:
   - before: proc/index
     text: "## 1. část — Co je srozumitelný úřední text"
   - before: co-a-komu/index
-    text: |-
-      ## 2. část — Psaní úředních textů obecně
-
-      ### Komu píšu, co píšu a čeho chci dosáhnout?
-
-      Než začnete psát, ptejte se, komu píšete a čeho chcete dosáhnout
+    text: "## 2. část — Psaní úředních textů obecně"
   - before: podstatne/index
     text: "### Co sdělím a co ne?"
 twocols:
