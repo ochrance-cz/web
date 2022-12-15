@@ -62,7 +62,7 @@ Velmi často opomeneme uvést ty části pravidla, které nám připadají zřej
 
 Třeba v následujícím příkladu jel pan Horymír na svém koni Šemíkovi Hradební ulicí v obci Vyšehrad a radar mu naměřil rychlost 35 km/h. V ulici je však nejvyšší povolená rychlost 30 km/h. V přestupkovém řízení jsme napsali následující pravidlo:
 
-{{< /pravni >}}
+{{< pravni >}}
 
 V obci Vyšehrad smí jet řidič na měřeném úseku v ulici Hradební rychlostí nejvýše 30 km/h. Přestupku se dopustí ten, kdo překročí povolenou rychlost.
 
@@ -70,7 +70,7 @@ V obci Vyšehrad smí jet řidič na měřeném úseku v ulici Hradební rychlos
 
 Pan Horymír nechce zaplatit, protože přece není žádný řidič, je jezdec. Vzpírá se proto, že jsme v pravidle opomněli uvést důležitou část:
 
-{{< /pravni >}}
+{{< pravni >}}
 
 Řidičem je i jezdec na zvířeti.
 
@@ -84,7 +84,7 @@ Jazyk právních předpisů je obecný a odborný. Pro laika tak může být obt
 
 Z ustanovení, která se týkají našeho případu o přijímání dětí do školky, vybereme jen ty části, podle kterých budeme věc právně posuzovat. Prostě ty, které jsou pro vyřízení věci podstatné:
 
-{{< /pravni >}}
+{{< pravni >}}
 
 § 34 odst. 5 školského zákona: „při přijímání dětí k předškolnímu vzdělávání je třeba dodržet podmínky stanovené zvláštním právním předpisem“.
 
@@ -114,7 +114,7 @@ Komunikace (cesta) je veřejně přístupná, pokud její vlastník souhlasil s 
 
 Pokud je právní pravidlo jednoduché, stačí je napsat tak, jak je vyjadřuje právní úprava:
 
-{{< /pravni >}}
+{{< pravni >}}
 
 Policista je oprávněn vyzvat k prokázání totožnosti osobu podezřelou ze spáchání trestného činu nebo správního deliktu \[§ 63 odst. 2 písm. a) zákona o Policii České republiky].
 
@@ -132,7 +132,7 @@ vysvětlete čtenáři právní pravidlo tak, aby rozuměl:
 
 V našem příkladu o přijetí do školky jsme vysvětlili právní pravidlo. Odkaz na příslušná ustanovení právních předpisů jsme napsali do poznámky pod čarou:
 
-{{< /pravni >}}
+{{< pravni >}}
 
 K předškolnímu vzdělávání smí ředitel MŠ přijmout pouze dítě, které se podrobilo všem stanoveným pravidelným očkováním nebo které má doklad, že je proti nákaze imunní, nebo které se nemůže očkování podrobit, protože má doklad o tom, že mu zdravotní stav brání v podání očkovací látky (trvalá kontraindikace). *
 
@@ -142,7 +142,7 @@ K předškolnímu vzdělávání smí ředitel MŠ přijmout pouze dítě, kter�
 
 Pokud pracujete s **judikaturou, uveďte, oč ve věci šlo, a vysvětlete**, co z citovaného rozhodnutí vyplývá pro vámi řešený případ.
 
-{{< /pravni >}}
+{{< pravni >}}
 
 Veřejnou cestou může být i konec slepé komunikace, protože se cesta musí posuzovat jako jeden funkční celek, např. od křižovatky ke křižovatce nebo od křižovatky po slepý konec. Tento závěr sice soud vyslovil při hodnocení takzvané nutné komunikační potřeby (rozsudek Nejvyššího správního soudu ze dne 24. 8. 2017, čj. 1 As 213/2017-38, bod 19, dostupný na www.nssoud.cz), použije se však jako obecné východisko i při nynějším hodnocení souhlasu vlastníka s obecným užíváním cesty. Vlastník a jeho právní předchůdci (rodiče) se totiž ke sporné části svého pozemku, po němž část cesty vede, chovali jako k součásti ulice, proto se dopravní poměry v daném místě ustálily a jiné možnosti průjezdu mezitím zanikly.
 
@@ -150,7 +150,7 @@ Veřejnou cestou může být i konec slepé komunikace, protože se cesta musí 
 
 Nebo:
 
-{{< /pravni >}}
+{{< pravni >}}
 
 Aby byla komunikace veřejně přístupná, nestačí, že její vlastník souhlasí s tím, aby ji užíval konkrétně určený okruh osob (například sousedé), ale – podle rozhodnutí soudů – musí souhlasit i s jejím obecným užíváním, tedy s tím, aby „cestu užíval blíže neurčený okruh osob (tj. veřejnost)“. *
 
