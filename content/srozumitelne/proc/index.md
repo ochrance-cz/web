@@ -3,15 +3,9 @@ title: Co je srozumitelný úřední text a proč má smysl psát srozumitelně
 ---
 ### Proč jsme napsali tuto příručku?
 
-{{< sloupce "kratsi" >}}
-
 Protože nám záleží na tom, aby lidé úředním textům rozuměli.
 
-{{< sloupce "vata" >}}
-
 Protože historicky je u nás úřední jazyk zbytečně složitý a čtenářům úředních textů nepomáhá.
-
-{{< sloupce "spojovaci" >}}
 
 Protože text napsaný obvyklým úředním jazykem může skrýt chybné, zavádějící či neúplné sdělení.
 
@@ -75,9 +69,9 @@ Srozumitelný je podle nás text, který je přehledný, úplný a přitom napsa
 
 {{< vhodne >}}
 
-1. Jak si zřídíte chráněný účet?
+**Jak si zřídíte chráněný účet?**
 
-   **Nejprve musíte získat potvrzení od těch, kdo Vám vyplácejí chráněné příjmy.**
+1. **Nejprve musíte získat potvrzení od těch, kdo Vám vyplácejí chráněné příjmy.**
 
    To jsou příjmy, které
 
@@ -93,47 +87,49 @@ Srozumitelný je podle nás text, který je přehledný, úplný a přitom napsa
 
 {{< /vhodne >}}
 
-### Proč psát srozumitelně?
+### **Proč psát srozumitelně?**
 
-#### Protože pokud chceme, aby naše písemnosti někdo četl, musíme je psát srozumitelně
+#### Protože chceme, aby je lidé četli – nesrozumitelné písemnosti nikdo číst nechce
 
-Kdysi jsme měli málo informací, dnes je jich příliš. Proto můžeme vstřebat jen ty, kterým porozumíme. Nesnažme se tedy předat všechny informace, které máme, ale předejme je čtenáři srozumitelně tak, aby pro něj byly užitečné. Pokud to neuděláme, čtenář nám může porozumět špatně nebo to vzdá.
+Kdysi jsme měli málo informací, dnes je jich příliš. Proto můžeme vstřebat jen ty, kterým porozumíme. Nesnažme se tedy předat všechny informace, které máme, ale předejme čtenáři informace srozumitelně tak, aby pro něj byly užitečné. Jinak nám čtenář může porozumět špatně nebo čtení vzdá.
 
-Čtenáři jsou ochotni číst texty, u nichž předpokládaný užitek z informace převáží náklady na její zpracování. To záleží na jejich motivaci – například bude vysoká u výzvy k doplnění náležitostí žádosti o stavební povolení. Naopak nízká bude při přiznání rodičovského příspěvku, pokud je čtenář s jeho výší spokojen. Přitom platí jednoduché pravidlo, že informace bude nesrozumitelná, pokud budou náklady na zpracování informace vyšší než užitek, který ze zpracování informace očekáváme.
+Lidé jsou ochotni číst texty, u nichž předpokládaný užitek z informace převáží náklady na její zpracování.[<!--\[if !supportFootnotes]-->\[1]<!--\[endif]-->](#_ftn1) Záleží na motivaci čtenáře. Ta bude vysoká, pokud dostane například výzvu k doplnění náležitostí žádosti o stavební povolení. Naopak nízká bude u rozhodnutí, jímž mu úřad přizná rodičovský příspěvek, pokud je spokojen s jeho výší. Přitom platí jednoduché pravidlo. Informace je nesrozumitelná, pokud bude úsilí vložené do zpracování informace vyšší než užitek, který očekáváme.
 
-Pokud budeme psát jako úředníci nesrozumitelně, nebudou lidé naše texty číst. Budou nám psát a volat. Jeden úředník, který uděluje pokuty za dopravní přestupky, nám řekl: „Já to napíšu, oni tomu nerozumí a pak volají, tím trávím dost času. Zbytečně.“
+Pokud tedy budeme jako úředníci psát nesrozumitelně, lidé naše texty nebudou číst. Budou nám psát a volat. Jeden úředník, který uděluje pokuty za dopravní přestupky, nám řekl: „Já to napíšu, oni tomu nerozumí a pak volají, tím trávím dost času.“ Zbytečně.
 
-Správní řád stanoví, že veřejná správa je službou veřejnosti (§ 4 odst. 1). Službou svého druhu, protože nemá konkurenci. Když se setkáte s nevstřícným či neschopným úředníkem, nemůžete se sebrat a jít jinam. Jako úředníci tak nemáme zpětnou vazbu, jestli svoji práci děláme dobře, a musíme se tak ptát sami sebe, zda je naše práce efektivní.
+Správní řád stanoví, že veřejná správa je službou veřejnosti (§ 4 odst. 1). Službou svého druhu, protože nemá konkurenci.[<!--\[if !supportFootnotes]-->\[2]<!--\[endif]-->](#_ftn2) Nemůžete se totiž sebrat a jít jinam, když se setkáte s nevstřícným či neschopným úředníkem. Jako úředníci tak často nevíme, jestli svou práci děláme dobře, a musíme se proto ptát sami sebe, co naše práce lidem přináší.
 
-#### Protože lidé, i odborníci, dávají přednost srozumitelným textům
+#### Protože lidé, i odborníci, čtou raději srozumitelné texty
 
-Podle výzkumů přes 80 % lidí dává přednost srozumitelnému, běžnému jazyku.
+Podle výzkumů přes 80 % lidí dává přednost srozumitelnému, běžnému jazyku.[<!--\[if !supportFootnotes]-->\[3]<!--\[endif]-->](#_ftn3)
 
-I odborníci upřednostňují srozumitelný jazyk. Dokonce, čím vzdělanější člověk a čím více odborných znalostí má, tím více ocení srozumitelný, běžný jazyk. Vzdělaní lidé totiž sice rozumí i složitému odbornému jazyku, ale nechtějí ho číst, pokud existuje alternativa. Je to proto, že zpravidla čtou nejvíce a nemají čas luštit zapeklité texty.
+I odborníci čtou raději srozumitelný jazyk. Dokonce platí, že čím vzdělanější člověk a čím více odborných znalostí má, tím více ocení srozumitelný, běžný jazyk. Vzdělaní lidé totiž sice rozumí i složitému odbornému jazyku, ale nechtějí ho číst, pokud si mohou vybrat.[<!--\[if !supportFootnotes]-->\[4]<!--\[endif]-->](#_ftn4) Je to proto, že zpravidla čtou nejvíce a nemají čas luštit zapeklité texty.
 
 #### Protože lidé rozumí psaným textům mnohem méně, než si myslíte
 
-Jako úředníci jsme denně vystaveni úřednímu jazyku, rozumíme mu a přijde nám přirozené ho vytvářet a předávat. Většina lidí takovou zkušenost ale vůbec nemá, úřední jazyk jim přirozený nepřijde a často mu nerozumí.
+Jako úředníci pracujeme s úředním jazykem denně, proto mu rozumíme a přijde nám přirozené ho vytvářet a předávat. Většina lidí ale takovou zkušenost nemá, úřední jazyk jim přirozený nepřijde a často mu nerozumí.
 
-#### Protože ve světě už to vyzkoušeli a zjistili, že srozumitelné texty prospívají
+Jakmile jsme přepsali své „úřednické“ letáky, připadaly lidem mnohem srozumitelnější a také jim skutečně více rozuměli – snáze našli řešení své situace. Když jsme ale tyto letáky dali přečíst lidem v nouzi, ukázalo se, že musíme letáky ještě zlepšit, protože těmto lidem pořád dost nepomáhaly – špatně se jim hledalo řešení.
 
-Srozumitelnost se v zahraničí zkoumá už celá desetiletí. Nejen ve veřejné správě, ale i v byznysu. Právě tam první výzkumy a pokusy psát srozumitelně vznikly. Firmy totiž spolu s posilováním postavení spotřebitele brzy pochopily, že nesrozumitelné návody, dlouhé obchodní podmínky, či zavádějící popisy výrobků je vyjdou draho. Od nich se pak učila i veřejná správa.
+#### Protože ve světě už to vyzkoušeli a zjistili, že srozumitelné texty se vyplatí
 
-Například ve státě Washington zjednodušili dopis sdělující lidem, že jim byl odebrán řidičský průkaz, a vytíženost příslušné informační linky se tím snížila o 95 %. Nebo zjednodušili formulář k dani z prodeje, a dobrovolný odvod daně se třikrát zvýšil. Americký úřad pro veterány vypočítal, že po zjednodušení jednoho z formulářů ubylo dotazů veteránů a ušetřilo se tím 5 mil. USD ročně.
+Srozumitelnost se v zahraničí zkoumá už celá desetiletí. Nejen ve veřejné správě, ale i v byznysu. Právě tam vznikly první výzkumy a pokusy psát srozumitelně. Kvůli silnějšímu postavení spotřebitele totiž firmy brzy pochopily, že nesrozumitelné návody, dlouhé obchodní podmínky, či zavádějící popisy výrobků je vyjdou draho. Od nich se pak učila i veřejná správa.
 
-Velká Británie má jednotný vládní portál ([gov.uk](https://www.gov.uk/)), který obsahuje rozcestník pro různé životní situace. Člověk tak najde k řešené záležitosti vše na jednom místě, přehledně strukturované a informace si přečte v běžné angličtině. Britové na svém webu nabádají, abychom psali jako pro devítileté děti.
+Například ve státě Washington zjednodušili dopis, který lidem sděloval, že přišli o řidičský průkaz, a vytíženost informační linky se snížila o 95 %. Nebo zjednodušili formulář k dani z prodeje, a dobrovolný odvod daně se třikrát zvýšil. Americký úřad pro veterány vypočítal, že po zjednodušení jednoho z formulářů ubylo dotazů veteránů a ušetřilo se tím 5 mil. USD ročně.[<!--\[if !supportFootnotes]-->\[5]<!--\[endif]-->](#_ftn5)
 
-Ve Švédsku musí psát právní předpisy srozumitelně. Každý navrhovaný předpis ve Švédsku musí schválit tým tvořený jazykovými a právními experty. Dále podporují aktivity napříč všemi úrovněmi veřejné správy prostřednictvím expertní komise zřízené vládou. Na základě zkušeností vytvořili různé vzory, příručky, doporučení, školení a dokonce poradnu. Každoročně udělují cenu tomu, kdo se v úředních textech zaslouží o rozvoj běžné švédštiny.
+Velká Británie má jednotný vládní portál ([gov.uk](https://www.gov.uk/)), který obsahuje rozcestník pro různé životní situace. Člověk tak vše, co potřebuje, najde na jednom místě, přehledně strukturované a v běžné angličtině. Britové na svém webu nabádají, abychom psali jako pro devítileté děti.[<!--\[if !supportFootnotes]-->\[6]<!--\[endif]-->](#_ftn6)
 
-#### Zkrátka, protože srozumitelné texty šetří čas, peníze i nervy lidem i nám úředníkům
+Ve Švédsku se musí psát srozumitelně i právní předpisy. Každý návrh musí schválit tým jazykových a právních expertů. Veřejné správě pak se srozumitelností pomáhá odborná komise, kterou zřídila vláda. Podle zkušeností vytvořili různé vzory, příručky, doporučení, školení a dokonce poradnu. Každoročně udělují cenu tomu, kdo se v úředních textech zaslouží o rozvoj běžné švédštiny.
+
+#### Zkrátka, protože srozumitelné texty šetří čas, peníze i nervy lidem i nám úředníkům
 
 ### Pokud čtenář neporozumí ani srozumitelnému textu, můžeme psát zjednodušeným jazykem, tzv. Easy to read (ETR)
 
-ETR je metoda zjednodušování textu, která má stejné principy v kterémkoliv jazyce. Zjednodušený jazyk už nemůže být právně přesný, slouží adresátům k základní orientaci v problematice. Většinou budou tito lidé potřebovat i jinou pomoc – někoho, kdo jim problematiku dále vysvětlí nebo jim pomůže s řešením.
+ETR je metoda zjednodušování textu, která má stejné principy v kterémkoliv jazyce. Zjednodušený jazyk už nemůže být právně přesný, slouží adresátům k základní orientaci v problematice. Tito lidé většinou potřebují i jinou pomoc – někoho, kdo jim situaci dále vysvětlí nebo jim pomůže s řešením.
 
-Adresáti ETR bývají nejčastěji lidé s mentálním postižením, lidé s demencí, cizinci s nižší znalostí češtiny, někteří dyslektici, lidé s ADHD a někdy i lidé ze sociálně vyloučeného prostředí. ETR však oceníme i my všichni ostatní, když jsme ve stresové neobvyklé situaci, například pokud jsme byli účastníky nehody. Všimněte si, že návody na defibrilátorech mívají velmi jednoduchý a přímý jazyk.
+Adresáti ETR bývají nejčastěji lidé s mentálním postižením, lidé s demencí, cizinci s nižší znalostí češtiny, někteří dyslektici, lidé s ADHD a někdy i lidé ze sociálně vyloučeného prostředí. ETR však oceníme všichni, když jsme ve stresu nebo jiné neobvyklé situaci, například po dopravní nehodě. Všimněte si, že návody na defibrilátorech mívají velmi jednoduchý a přímý jazyk.
 
-Například poučení z úvodního příkladu naší příručky by znělo třeba takto:
+Například poučení z úvodního příkladu naší příručky by v ETR znělo třeba takto:
 
 {{< vhodne >}}
 
