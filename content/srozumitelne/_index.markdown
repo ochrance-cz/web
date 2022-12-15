@@ -8,18 +8,6 @@ chapters:
   - chapter: podstatne/index
   - chapter: ujistete-se/index
   - chapter: slova-obecne/index
-  - chapter: slova-v-urednim-textu/index
-  - chapter: vety/index
-  - chapter: plynulost-textu/index
-  - chapter: cleneni-a-formatovani/index
-  - chapter: podtext/index
-  - chapter: spravni-rozhodnuti/index
-  - chapter: vyzvy/index
-  - chapter: vzory/index
-  - chapter: formulare/index
-  - chapter: letaky/index
-  - chapter: uredni-informace/index
-  - chapter: prepsane-pisemnosti/index
 textcontent:
   - before: proc/index
     text: "## 1. část — Co je srozumitelný úřední text a proč má smysl psát
@@ -31,9 +19,8 @@ textcontent:
       ### Komu píšu, co píšu a čeho chci dosáhnout?
 
       Než začnete psát, ptejte se, komu píšete a čeho chcete dosáhnout
-  - before: slova-obecne/index
-    text: |
-      ### Obecné rady pro psaní úředních textů
+  - before: podstatne/index
+    text: "### Co sdělím a co ne?"
   - before: spravni-rozhodnuti/index
     text: >-
       ## 3. část — Psaní určitých úředních písemností
