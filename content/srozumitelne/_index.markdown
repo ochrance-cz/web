@@ -28,7 +28,9 @@ textcontent:
     text: |-
       ## 2. část — Psaní úředních textů obecně
 
-      ### Obecné rady pro stavbu úředních textů
+      ### Komu píšu, co píšu a čeho chci dosáhnout?
+
+      Než začnete psát, ptejte se, komu píšete a čeho chcete dosáhnout
   - before: slova-obecne/index
     text: |
       ### Obecné rady pro psaní úředních textů
