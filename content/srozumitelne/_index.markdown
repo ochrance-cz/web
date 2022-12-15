@@ -7,7 +7,6 @@ chapters:
   - chapter: stavba-textu/index
   - chapter: podstatne/index
   - chapter: ujistete-se/index
-  - chapter: slova-obecne/index
 textcontent:
   - before: proc/index
     text: "## 1. část — Co je srozumitelný úřední text a proč má smysl psát
@@ -21,15 +20,6 @@ textcontent:
       Než začnete psát, ptejte se, komu píšete a čeho chcete dosáhnout
   - before: podstatne/index
     text: "### Co sdělím a co ne?"
-  - before: spravni-rozhodnuti/index
-    text: >-
-      ## 3. část — Psaní určitých úředních písemností
-
-
-      V těchto kapitolách vysvětlíme, jak psát srozumitelněji nejběžnější úřední dokumenty, jako jsou správni rozhodnutí, výzvy, oznámeni, formuláře nebo letáky
-
-
-      Ve výkladu vycházíme z právní úpravy ve správním řádu, protože je nejběžnější.
 twocols:
   - right-1: proto
     right-2: pokud
