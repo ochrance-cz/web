@@ -68,6 +68,21 @@ textcontent:
 
 
       Psaní je jako skládání LEGO podle vlastního návodu. Nejdřív musíte vědět, co chcete postavit, abyste věděli, jaké kostky vybrat a kde začít. Když začnete stavět a nevíte co, možná své dílo dokončíte, ale pravděpodobně ho budete několikrát předělávat, spotřebujete mnoho zbytečných kostek, něco se někde rozpadne. Stejně je to s úředním textem.
+  - before: piste_se_slovesy/index
+    text: >-
+      ## J﻿ak psát: Slova a výrazy obecně
+
+
+      Představte si cestu krajinou z obce Pisatelova Myšlenka do obce Čtenářovo Porozumění.
+
+
+      Cesta jsou řádky textu, stromy podél cesty jsou podstatná jména s přídavnými jmény či zájmena. Zahlédnete i výrazy, kterých stačí v krajině málo jako hlodavců, třeba příslovce. Pokud je používáte zřídka a trefně, jsou nenahraditelné, pokud se přemnoží, škodí. A zahlédnete i odpadky. Výrazy jako „vyvstala potřeba“ a „všichni nepochybně“ musíte posbírat a vyhodit.
+
+
+      Chcete-li dojet ke Čtenářovu Porozumění, pojedete na slovesech. S výstižnými slovesy pojedete rychle. Nahradíte-li slovesa podstatnými jmény, povlečete se pěšky.
+
+
+      Několik doporučení na cestu:
 twocols:
   - right-1: napište to důrazně, čtenář to pak pozná sám
     right-2: je-li to zřejmé, čtenář to pozná; naopak, když mu to řeknete, cítí to
