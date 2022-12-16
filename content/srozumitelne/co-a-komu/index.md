@@ -17,6 +17,6 @@ I když text píšete hlavně pro konkrétního čtenáře – laika **– můž
 * cizincům, protože nemusí plně ovládat češtinu;
 * mladistvým nebo dětem, protože nemívají dostatek znalostí nebo zkušeností.
 
-#### P﻿okud píšete obecný text určený více lidem, zapojte je
+### P﻿okud píšete obecný text určený více lidem, zapojte je
 
 Od lidí, které by to mohlo zajímat, například jsou cílovou skupinou textu, se dozvíte, co byste možná sami nedomysleli.[](<>)[](<>)[](<>)
