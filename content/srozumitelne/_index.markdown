@@ -22,16 +22,16 @@ chapters:
   - chapter: piste_se_slovesy/index
   - chapter: piste_s_plnovyznamovymi_slovesy/index
   - chapter: omezte_slovesa_ktera_potrebuji_predmet/index
+  - {}
   - chapter: prislovce_zkuste_nahradit_vystiznejsim_slovesem/index
   - chapter: piste_slovesa_v_cinnem_rodu_s_trpnym_rodem_pasivem_setrete/index
   - chapter: piste_pozitivne/index
   - chapter: piste_konkretni_podstatna_jmena/index
   - chapter: nevynechte_potrebne_vyrazy/index
   - chapter: nepiste_vyrazy_ktere_nuti_ctenare_aby_se_domyslel_sam/index
+  - {}
+  - {}
   - chapter: nepiste_vyrazy_ktere_totez_sdeluji_vicekrat/index
-  - {}
-  - {}
-  - {}
   - {}
 textcontent:
   - before: proc/index
