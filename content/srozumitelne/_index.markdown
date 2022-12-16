@@ -44,6 +44,11 @@ chapters:
   - {}
   - chapter: pokud_pouzijete_odborny_termin_pouzijte_ten_nejvystiznejsi/index
   - {}
+  - chapter: piste_kratke_vety/index
+  - {}
+  - {}
+  - {}
+  - {}
 textcontent:
   - before: proc/index
     text: "## 1. část — Co je srozumitelný úřední text"
