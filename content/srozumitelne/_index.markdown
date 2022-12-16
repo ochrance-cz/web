@@ -25,7 +25,32 @@ textcontent:
 
       ### Komu píšu, co píšu a čeho chci dosáhnout?
   - before: podstatne/index
-    text: "### Co sdělím a co ne?"
+    text: >-
+      ### Co sdělím a co ne?
+
+
+      Nebo podrobněji:
+
+
+      * Co čtenář potřebuje vědět?
+
+      * Co čtenáři sdělovat nemusím (protože to ví nebo vědět nepotřebuje)?
+
+      * Jak asi o věci uvažuje?
+
+      * Na co by se ptal, kdyby se mnou mluvil?
+
+
+      A pak, sdělte **pouze informace, které jsou důležité pro čtenáře a pro vyřízení věci.** Vše ostatní vypusťte.  Zároveň se ujistěte, zda vám v textu **nechybí informace**, které jsou **důležité** pro **vyřízení věci a pro čtenáře** (i když vám jsou zřejmé a nepovažujete za důležité je sdělovat).
+
+
+      Jak na to:
+  - before: strukturu_textu_si_promyslete_predem/index
+    text: >-
+      ### J﻿ak text uspořádám?
+
+
+      Psaní je jako skládání LEGO podle vlastního návodu. Nejdřív musíte vědět, co chcete postavit, abyste věděli, jaké kostky vybrat a kde začít. Když začnete stavět a nevíte co, možná své dílo dokončíte, ale pravděpodobně ho budete několikrát předělávat, spotřebujete mnoho zbytečných kostek, něco se někde rozpadne. Stejně je to s úředním textem.
 twocols:
   - right-1: proto
     right-2: pokud
