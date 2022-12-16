@@ -80,7 +80,7 @@ ve dnech 4. a 5. února 2021 byly Vaše děti v kontaktu s COVID-19 pozitivním 
 
 {{< /vhodne >}}
 
-#### Vysvětlete čtenáři, co v dokumentu bude
+### Vysvětlete čtenáři, co v dokumentu bude
 
 Například, pokud sdělujete čtenáři obecné informace nebo pokud korespondenci s ním zahajujete vy (nereagujete na jeho podnět, návrh či stížnost).
 
@@ -106,7 +106,7 @@ Společný územní souhlas a souhlas s provedením ohlášené stavby
 
 {{< /vhodne >}}
 
-#### Pokud navazujete na předchozí korespondenci se čtenářem, sdělte mu odpověď hned
+### Pokud navazujete na předchozí korespondenci se čtenářem, sdělte mu odpověď hned
 
 Přečtěte si následující text:
 
