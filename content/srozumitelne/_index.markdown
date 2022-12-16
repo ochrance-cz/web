@@ -7,6 +7,10 @@ chapters:
   - chapter: stavba-textu/index
   - chapter: podstatne/index
   - chapter: ujistete-se/index
+  - chapter: pribeh_sdelte_jen_dulezite_informace_zelena/index
+  - chapter: pravni_posouzeni_jak_se_pravni_pravidla_pouziji_v_konkretnim_pribehu_cervena/index
+  - chapter: pravni_pravidlo_pribeh_i_posouzeni_si_museji_odpovidat_tak_se_ujistite_ze_jste_sdelili_jen_to_dulezite_a_na_nic_nezapomneli/index
+  - chapter: pruvodni_informace_piste_jen_ty_podstatne_a_co_nejstrucneji_oranzova/index
 textcontent:
   - before: proc/index
     text: "## 1. část — Co je srozumitelný úřední text"
