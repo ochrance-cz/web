@@ -19,6 +19,20 @@ chapters:
   - chapter: naformatujte_text_prehledne/index
   - chapter: dobre_graficky_zpracovane_informace_mohou_vysvetlit_ci_zprehlednit_sdeleni/index
   - chapter: slozita_temata_vysvetlete_na_prikladech/index
+  - chapter: piste_se_slovesy/index
+  - chapter: piste_s_plnovyznamovymi_slovesy/index
+  - chapter: omezte_slovesa_ktera_potrebuji_predmet/index
+  - chapter: prislovce_zkuste_nahradit_vystiznejsim_slovesem/index
+  - chapter: piste_slovesa_v_cinnem_rodu_s_trpnym_rodem_pasivem_setrete/index
+  - chapter: piste_pozitivne/index
+  - chapter: piste_konkretni_podstatna_jmena/index
+  - chapter: nevynechte_potrebne_vyrazy/index
+  - chapter: nepiste_vyrazy_ktere_nuti_ctenare_aby_se_domyslel_sam/index
+  - chapter: nepiste_vyrazy_ktere_totez_sdeluji_vicekrat/index
+  - {}
+  - {}
+  - {}
+  - {}
 textcontent:
   - before: proc/index
     text: "## 1. část — Co je srozumitelný úřední text"
@@ -55,16 +69,6 @@ textcontent:
 
       Psaní je jako skládání LEGO podle vlastního návodu. Nejdřív musíte vědět, co chcete postavit, abyste věděli, jaké kostky vybrat a kde začít. Když začnete stavět a nevíte co, možná své dílo dokončíte, ale pravděpodobně ho budete několikrát předělávat, spotřebujete mnoho zbytečných kostek, něco se někde rozpadne. Stejně je to s úředním textem.
 twocols:
-  - right-1: proto
-    right-2: pokud
-    right-3: o
-    right-4: kvůli
-    left-1: v důsledku toho
-    left-2: v případě, že
-    left-3: týkající se
-    left-4: za účelem
-    type: no-yes
-    id: kratsi
   - right-1: napište to důrazně, čtenář to pak pozná sám
     right-2: je-li to zřejmé, čtenář to pozná; naopak, když mu to řeknete, cítí to
       jako manipulaci a podvědomě se vzepře
