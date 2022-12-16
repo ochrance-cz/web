@@ -33,6 +33,17 @@ chapters:
   - {}
   - chapter: nepiste_vyrazy_ktere_totez_sdeluji_vicekrat/index
   - {}
+  - chapter: piste_ctenarum_jako_byste_s_nimi_mluvili_pouzivejte_my_a_vy/index
+  - chapter: piste_genderove_neutralne/index
+  - chapter: oznacte_pravni_predpisy_strucne_a_vystizne/index
+  - {}
+  - chapter: pokud_definujete_pojem_pouzivejte_ho_dusledne/index
+  - {}
+  - chapter: cesky_vystizny_vyraz_pouzijte_pred_cizim/index
+  - {}
+  - {}
+  - chapter: pokud_pouzijete_odborny_termin_pouzijte_ten_nejvystiznejsi/index
+  - {}
 textcontent:
   - before: proc/index
     text: "## 1. část — Co je srozumitelný úřední text"
@@ -83,6 +94,8 @@ textcontent:
 
 
       Několik doporučení na cestu:
+  - before: piste_ctenarum_jako_byste_s_nimi_mluvili_pouzivejte_my_a_vy/index
+    text: "## J﻿ak psát: Slova a výrazy v úředním textu"
 twocols:
   - right-1: napište to důrazně, čtenář to pak pozná sám
     right-2: je-li to zřejmé, čtenář to pozná; naopak, když mu to řeknete, cítí to
