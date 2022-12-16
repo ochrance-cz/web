@@ -4,11 +4,11 @@ num: 14
 ---
 Držte se následujících pěti typografických pravidel:
 
-#### Řádkujte ne moc těsně, ne moc volně
+### Řádkujte ne moc těsně, ne moc volně
 
 Jednoduché řádkování je příliš těsné, dvojité příliš volné. Použijte 120–145 % velikosti bodu. To znamená nastavit v textovém editoru řádkování na násobky 1,03–1,24.
 
-#### Řádky by měly mít nejvíce 90 znaků včetně mezer (v nouzi 100)
+### Řádky by měly mít nejvíce 90 znaků včetně mezer (v nouzi 100)
 
 To zhruba znamená, že na A4 s obvyklými okraji 2,5 cm pište písmem 12 bodů vysokým.
 
@@ -20,7 +20,7 @@ Pokud je řádek delší, špatně se nám pokračuje na začátek dalšího ř�
 
 {{< /nevhodne >}}
 
-#### Zarovnejte text vlevo, ne do bloku
+### Zarovnejte text vlevo, ne do bloku
 
 Víme o tom, že na mnoha úřadech a soudech zarovnávat do bloku musíte, protože vám to nařizují předpisy. Pokud však můžete volit, zarovnávejte doleva, ze dvou důvodů.
 
@@ -34,7 +34,7 @@ Víme o tom, že na mnoha úřadech a soudech zarovnávat do bloku musíte, prot
 
 **Zadruhé, zarovnání do bloku v běžném textovém editoru není profesionální.** Zvláště starší generace má někdy dojem, že zarovnání doleva je neprofesionální. Možná je to proto, že dříve uměli zarovnávat pouze profesionální sazeči, zatímco ostatní byli odkázáni na psací stroje, které zarovnávat do bloku neuměly. Teď je tomu zcela opačně. Zatímco textové editory umí běžně zarovnávat do bloku, zarovnání není profesionální, protože nedorovnává mezery mezi slovy a nezahlazuje „řeky“. Zarovnání do bloku proto nechte profesionálním sazečům pro sazbu knih či novin. Sami používejte to, co je nejlépe čitelné.
 
-#### Použijte to písmo, které je dobře čitelné
+### Použijte to písmo, které je dobře čitelné
 
 **Můžete si vybrat patkové** (běžné jsou například fonty Times New Roman, Garamond nebo Cambria) **nebo bezpatkové** (běžné jsou například Arial nebo Calibri). Důležité je, aby bylo písmo dobře čitelné a mělo zručně provedenou českou diakritiku (třeba aby háčky byly přesně nad písmeny ve stejné tloušťce; nejlépe to poznáte na písmeni ř, na které se občas zapomene). Patková písma se lépe čtou v dlouhých blocích textu, třeba v knihách, protože patky vedou oko jakoby po řádku. Bezpatková písma se zase lépe čtou některým lidem, kteří mají se čtením potíže, protože bezpatková písmena se od sebe liší více než patková.
 
@@ -44,7 +44,7 @@ Víme o tom, že na mnoha úřadech a soudech zarovnávat do bloku musíte, prot
 
 **Používejte dostatečně velké písmo**, žádné blechy známé ze starších pojistných podmínek. Na tištěné dokumenty se většinou používá velikost písma 10 až 12 bodů (pokud použijete desetibodové písmo, nezapomeňte zkrátit řádek). Pro web použijte alespoň 12 bodů. Různá písma ale mohou na stránce vypadat různě velká, například písma s vyššími malými písmeny oproti velkým jsou čitelnější. Zvětšete písmo, pokud víte, že to čtenáři potřebují.
 
-#### Ke zdůraznění použijte jazykové prostředky nebo text napište tučně
+### Ke zdůraznění použijte jazykové prostředky nebo text napište tučně
 
 Šetřete s psaním slov, vět nebo dokonce odstavců velkými písmeny (verzálkami), protože se kvůli stejné výšce všech písmen špatně čtou.
 
