@@ -310,6 +310,7 @@ interface RelationWidget extends BaseWidget {
   display_fields?: string[];
   search_fields: string[];
   multiple?: boolean;
+  options_length?: number;
 }
 
 interface RelationOptions extends Options {
@@ -318,10 +319,11 @@ interface RelationOptions extends Options {
   display_fields?: string[];
   search_fields: string[];
   multiple?: boolean;
+  options_length?: number;
 }
 
 export const relation = (label: string, name: string, options: RelationOptions): RelationWidget => {
-  const { collection, value_field, display_fields, search_fields, multiple } = options;
+  const { collection, value_field, display_fields, search_fields, multiple, options_length } = options;
 
   const w = {
     ...base(name, label, options),
@@ -331,6 +333,7 @@ export const relation = (label: string, name: string, options: RelationOptions):
     display_fields,
     search_fields,
     multiple,
+    options_length: options_length || 20,
   };
 
   return w;

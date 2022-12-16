@@ -82,6 +82,7 @@ collections:
             search_fields:
               - title
             multiple: true
+            options_length: 20
       - label: Varování
         name: varovani
         file: content/alert/_index.markdown
@@ -635,6 +636,7 @@ collections:
                 search_fields:
                   - title
                 multiple: false
+                options_length: 100
           - label: Textový obsah
             name: textcontent
             required: false
@@ -652,6 +654,7 @@ collections:
                 search_fields:
                   - title
                 multiple: false
+                options_length: 100
               - editor_components:
                   - image
                 buttons:
@@ -1043,6 +1046,7 @@ collections:
         search_fields: &ref_2
           - title
         multiple: true
+        options_length: 20
       - label: Perex
         name: perex
         required: false
@@ -1109,6 +1113,7 @@ collections:
         search_fields: &ref_6
           - title
         multiple: true
+        options_length: 20
       - label: Text
         name: body
         required: false
@@ -1596,6 +1601,7 @@ collections:
         search_fields: &ref_37
           - title
         multiple: true
+        options_length: 20
       - label: Leták v PDF
         name: file
         required: false
@@ -2103,6 +2109,7 @@ collections:
             search_fields:
               - title
             multiple: true
+            options_length: 20
       - label: Varování
         name: varovani
         file: content-en/alert/_index.markdown
@@ -2485,6 +2492,7 @@ collections:
         display_fields: *ref_1
         search_fields: *ref_2
         multiple: true
+        options_length: 20
       - label: Perex
         name: perex
         required: false
@@ -2537,6 +2545,7 @@ collections:
         display_fields: *ref_5
         search_fields: *ref_6
         multiple: true
+        options_length: 20
       - label: Text
         name: body
         required: false
@@ -2828,6 +2837,7 @@ collections:
         display_fields: *ref_36
         search_fields: *ref_37
         multiple: true
+        options_length: 20
       - label: Leták v PDF
         name: file
         required: false
