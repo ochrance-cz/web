@@ -86,7 +86,7 @@ textcontent:
       Psaní je jako skládání LEGO podle vlastního návodu. Nejdřív musíte vědět, co chcete postavit, abyste věděli, jaké kostky vybrat a kde začít. Když začnete stavět a nevíte co, možná své dílo dokončíte, ale pravděpodobně ho budete několikrát předělávat, spotřebujete mnoho zbytečných kostek, něco se někde rozpadne. Stejně je to s úředním textem.
   - before: piste_se_slovesy/index
     text: >-
-      ## J﻿ak psát: Slova a výrazy obecně
+      ### J﻿ak psát: Slova a výrazy obecně
 
 
       Představte si cestu krajinou z obce Pisatelova Myšlenka do obce Čtenářovo Porozumění.
@@ -100,10 +100,10 @@ textcontent:
 
       Několik doporučení na cestu:
   - before: piste_ctenarum_jako_byste_s_nimi_mluvili_pouzivejte_my_a_vy/index
-    text: "## J﻿ak psát: Slova a výrazy v úředním textu"
+    text: "### J﻿ak psát: Slova a výrazy v úředním textu"
   - before: piste_kratke_vety/index
     text: >-
-      ## J﻿ak psát: Věty
+      ### J﻿ak psát: Věty
 
 
       Čtenář v krátkodobé paměti udrží pouze 8–20 vteřin textu, to je zhruba 2–5 jednoduchých vět. Čím méně známé téma a složitější sdělení, tím méně textu udrží. Pokud mu myšlenku v těchto 8-20 vteřinách nezvládnete sdělit, je to jako kdybyste neřekli nic. Posluchač bude chtít, abyste mu sdělení opakovali, čtenář bude muset číst text znovu. Nebo čtení vzdá.
