@@ -13,7 +13,7 @@ Text bude přehledný, pokud se budete držet následujících pravidel:
 
 Pokud chcete, můžete k tvorbě využít osvědčenou metodu:
 
-#### Z šílence soudcem
+### Z šílence soudcem
 
 Metodu profesorky Betty Sue Flowers zpopularizoval Bryan Garner, jeden z průkopníků srozumitelného psaní. Spočívá ve čtyřech krocích, ve kterých se na své sdělení budete dívat různýma očima:
 
