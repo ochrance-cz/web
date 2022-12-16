@@ -49,6 +49,11 @@ chapters:
   - {}
   - {}
   - {}
+  - {}
+  - chapter: piste_plynule_cim_vetu_ci_odstavec_koncite_tim_v_dalsi_vete_ci_odstavci_navazte/index
+  - {}
+  - chapter: odkazy_poznamky_pod_carou_a_citace_rusi_plynulost_textu_piste_je_tam_kde_rusi_nejmene/index
+  - {}
 textcontent:
   - before: proc/index
     text: "## 1. část — Co je srozumitelný úřední text"
