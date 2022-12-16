@@ -6,7 +6,17 @@ Hutný text odrazuje. Proto text rozčleňte do přehledných oddílů a opatř
 
 Na první pohled: který text byste si přečetli radši?
 
-![]()
+{{< nevhodne >}}
+
+![Pohled na jednolitou masu textu.](https://www.ochrance.cz/srozumitelne/rozclente_text_na_oddily_aby_se_v_nem_ctenar_dobre_orientoval/masa_textu.png)
+
+{{< /nevhodne >}}
+
+{{< vhodne >}}
+
+![Text s krátkými odstavci členěný nadpisy a zarovnaný vlevo. Odkazy jsou v poznámkách pod čarou.](https://www.ochrance.cz/srozumitelne/rozclente_text_na_oddily_aby_se_v_nem_ctenar_dobre_orientoval/struktura.png)
+
+{{< /vhodne >}}
 
 Čtenáři se obvykle nejprve chtějí zorientovat v textu, aby věděli, co je čeká. Teprve potom začnou číst celý text. Proto je dobré text rozčlenit na oddíly.
 
