@@ -15,7 +15,7 @@ chapters:
   - chapter: strukturu_textu_si_promyslete_predem/index
   - chapter: jadro_sdeleni_napiste_na_zacatek/index
   - chapter: usporadejte_text_tak_aby_ctenari_daval_smysl-/index
-  - chapter: usporadejte_text_tak_aby_ctenari_daval_smysl-/index
+  - chapter: rozclente_text_na_oddily_aby_se_v_nem_ctenar_dobre_orientoval/index
 textcontent:
   - before: proc/index
     text: "## 1. část — Co je srozumitelný úřední text"
