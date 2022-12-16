@@ -12,6 +12,9 @@ chapters:
   - chapter: pravni_pravidlo_pribeh_i_posouzeni_si_museji_odpovidat_tak_se_ujistite_ze_jste_sdelili_jen_to_dulezite_a_na_nic_nezapomneli/index
   - chapter: pruvodni_informace_piste_jen_ty_podstatne_a_co_nejstrucneji_oranzova/index
   - chapter: pokyny_ctenari_piste_prehledne_a_prakticky_fialova/index
+  - chapter: strukturu_textu_si_promyslete_predem/index
+  - chapter: jadro_sdeleni_napiste_na_zacatek/index
+  - chapter: usporadejte_text_tak_aby_ctenari_daval_smysl-/index
 textcontent:
   - before: proc/index
     text: "## 1. část — Co je srozumitelný úřední text"
