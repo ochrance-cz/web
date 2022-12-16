@@ -101,6 +101,16 @@ textcontent:
       Několik doporučení na cestu:
   - before: piste_ctenarum_jako_byste_s_nimi_mluvili_pouzivejte_my_a_vy/index
     text: "## J﻿ak psát: Slova a výrazy v úředním textu"
+  - before: piste_kratke_vety/index
+    text: >-
+      Čtenář v krátkodobé paměti udrží pouze 8–20 vteřin textu, to je zhruba 2–5
+      jednoduchých vět. Čím méně známé téma a složitější sdělení, tím méně textu
+      udrží. Pokud mu myšlenku v těchto 8-20 vteřinách nezvládnete sdělit, je to
+      jako kdybyste neřekli nic. Posluchač bude chtít, abyste mu sdělení
+      opakovali, čtenář bude muset číst text znovu. Nebo čtení vzdá.
+
+
+      Proto pište tak, aby čtenář pochopil větu po prvním čtení. Jak na to?
 twocols:
   - right-1: napište to důrazně, čtenář to pak pozná sám
     right-2: je-li to zřejmé, čtenář to pozná; naopak, když mu to řeknete, cítí to
