@@ -40,7 +40,7 @@ Srozumitelné právní pravidlo, které chceme sdělit **obecně** (například 
 
 Jak napsat srozumitelné pravidlo, které chceme použít v konkrétní věci:
 
-#### Vyberte ta ustanovení právních předpisů či judikatury, která chcete v dané věci použít
+### Vyberte ta ustanovení právních předpisů či judikatury, která chcete v dané věci použít
 
 Toto jsou všechna ustanovení, která se týkají našeho případu o přijímání dětí do školky.
 
@@ -56,7 +56,7 @@ Toto jsou všechna ustanovení, která se týkají našeho případu o přijím�
 
 Pokud pracujete s **judikaturou**, odkazujte pouze na konkrétní rozhodnutí, o která se opíráte. I když se dovoláváte ustálené judikatury, musíte uvést konkrétní rozhodnutí, o které se opíráte. Neodkazujte na rozhodnutí, která s vaší věcí souvisí jen vzdáleně.
 
-#### Ujistěte se, že jste uvedli celé právní pravidlo, které na vaši věc dopadá
+### Ujistěte se, že jste uvedli celé právní pravidlo, které na vaši věc dopadá
 
 Velmi často opomeneme uvést ty části pravidla, které nám připadají zřejmé.
 
@@ -78,7 +78,7 @@ Pan Horymír nechce zaplatit, protože přece není žádný řidič, je jezdec.
 
 Teď už pan Horymír zaplatí.
 
-#### Z ustanovení právních předpisů nebo z judikatury zmiňujte jen to, co je podstatné pro vyřízení věci
+### Z ustanovení právních předpisů nebo z judikatury zmiňujte jen to, co je podstatné pro vyřízení věci
 
 Jazyk právních předpisů je obecný a odborný. Pro laika tak může být obtížné v něm najít to, co se ho týká. Proto uveďte jen ta ustanovení či části ustanovení, které upravují danou věc.
 
@@ -110,7 +110,7 @@ Komunikace (cesta) je veřejně přístupná, pokud její vlastník souhlasil s 
 
 {{< /vhodne >}}
 
-#### Právní pravidlo pro čtenáře sestavte (ustanovení právních předpisů a judikatury převyprávějte)
+### Právní pravidlo pro čtenáře sestavte (ustanovení právních předpisů a judikatury převyprávějte)
 
 Pokud je právní pravidlo jednoduché, stačí je napsat tak, jak je vyjadřuje právní úprava:
 
