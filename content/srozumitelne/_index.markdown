@@ -54,6 +54,12 @@ chapters:
   - {}
   - chapter: odkazy_poznamky_pod_carou_a_citace_rusi_plynulost_textu_piste_je_tam_kde_rusi_nejmene/index
   - {}
+  - chapter: nepiste_hanlive_ci_ironicky/index
+  - chapter: budte_empaticti_je-li_to_treba/index
+  - {}
+  - chapter: ctete_po_sobe/index
+  - {}
+  - chapter: otestujte_pisemnosti_ktere_maji_siroky_dosah/index
 textcontent:
   - before: proc/index
     text: "## 1. část — Co je srozumitelný úřední text"
@@ -115,6 +121,9 @@ textcontent:
 
 
       Proto pište tak, aby čtenář pochopil větu po prvním čtení. Jak na to?
+  - before: ctete_po_sobe/index
+    text: "### N﻿akonec se ujistěte, že jste sdělili, co jste chtěli, a že jste
+      psali pro svého čtenáře"
 twocols:
   - right-1: napište to důrazně, čtenář to pak pozná sám
     right-2: je-li to zřejmé, čtenář to pozná; naopak, když mu to řeknete, cítí to
