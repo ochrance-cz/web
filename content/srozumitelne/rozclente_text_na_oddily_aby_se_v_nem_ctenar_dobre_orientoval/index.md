@@ -12,7 +12,7 @@ Na první pohled: který text byste si přečetli radši?
 
 Oddíly jsou části textu oddělené nadpisem nebo tak, aby se v organizaci textu čtenář zorientoval. Běžně oddíly rozlišíme takto:
 
-#### Nadpisy: musí vystihnout text, který nadepisují
+### Nadpisy: musí vystihnout text, který nadepisují
 
 Musíme se trefit tak, aby byl nadpis co nejvíce sdělný, ale zároveň obsáhl všechno, co v textu je. Nadpisy mohou čtenáři vytvořit osnovu či mapu dokumentu, pomocí které se může v textu zorientovat. Například se podívejte na obsah naší příručky.
 
@@ -56,7 +56,7 @@ K domácí izolaci: Domácí izolace znamená, že …
 
 {{< /priklad >}}
 
-#### Odstavce: sdělujte jen jednu myšlenku
+### Odstavce: sdělujte jen jednu myšlenku
 
 Dovolíte ji tak čtenáři vstřebat. Může po přečtení odstavce zvednout oči od textu a promyslet si, co se v odstavci dozvěděl.
 
@@ -72,7 +72,7 @@ V odstavci je nejdůležitější první věta. Pokud vystihne, o čem odstavec 
 
 Pokud první věty odstavce napíšete šikovně, můžete z nich poskládat mapu sdělení.
 
-#### Seznamy (odrážky a číslování)
+### Seznamy (odrážky a číslování)
 
 Odrážky nebo číslování odlehčí hutný text, zpřehlední ho.
 
