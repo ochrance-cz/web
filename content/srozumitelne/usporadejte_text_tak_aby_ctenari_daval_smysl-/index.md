@@ -1,5 +1,5 @@
 ---
-title: Uspořádejte text tak, aby čtenáři dával smysl.
+title: Uspořádejte text tak, aby čtenáři dával smysl
 num: 12
 ---
 V některých písemnostech je základní osnova daná. Například ve správním rozhodnutí nejdříve napíšete výrok, pak odůvodnění a nakonec hodnocení. V jiných písemnostech si celou strukturu stavíte sami.
