@@ -98,4 +98,15 @@ twocols:
     left-7: řetězíme myšlenky
     type: yes-yes
     id: spojovaci
+  - type: no-yes
+    id: pozitivne
+    left-1: nemůže, dokud nebude mít hotové úkoly
+    right-1: m﻿ůže, až bude mít hotové úkoly
+    left-2: n﻿esmí vás být více než deset
+    right-2: |-
+      m﻿usí vás být méně než deset
+
+      m﻿usí vás být nejvíce devět
+    left-3: n﻿edrob!
+    right-3: v﻿ezmi si talíř!
 ---
