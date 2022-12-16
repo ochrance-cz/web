@@ -8,7 +8,7 @@ Pamatujte však na to, že někteří lidé s poruchami zraku používají elekt
 
 V úředních textech pro nás budou nejužitečnější tabulky, graficky přehledné návody či schémata:
 
-#### Tabulky
+### Tabulky
 
 {{< vhodne >}}
 
@@ -16,7 +16,7 @@ V úředních textech pro nás budou nejužitečnější tabulky, graficky přeh
 
 {{< /vhodne >}}
 
-#### Postupy, návody
+### Postupy, návody
 
 Postupy či návody čtenářům umožní postupovat krok po kroku a uvědomit si, v jaké fázi procesu jsou a co je ještě čeká:
 
@@ -26,7 +26,7 @@ Postupy či návody čtenářům umožní postupovat krok po kroku a uvědomit s
 
 {{< /vhodne >}}
 
-#### Schémata
+### Schémata
 
 Schéma umožní čtenářům zorientovat se v procesu, který může mít rozdílné výstupy:
 
@@ -36,7 +36,7 @@ Schéma umožní čtenářům zorientovat se v procesu, který může mít rozd�
 
 {{< /vhodne >}}
 
-#### Obrázky
+### Obrázky
 
 Slona je prostě lehčí poznat než popsat.
 
