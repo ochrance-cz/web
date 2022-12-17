@@ -9,7 +9,7 @@ illustration:
 
 Projekt Kanceláře veřejného ochránce práv (dále jen „KVOP“) „Služba šitá na míru“ si klade za cíl zajistit rovné příležitosti mužů a žen nejen v této organizaci, ale chce současně podpořit prosazování rovných příležitostí mužů a žen ve státní službě a zvýšit informovanost zaměstnanců a zaměstnankyň státní služby o jejich právech v oblasti slaďování osobního, rodinného a pracovního života.
 
-Zlepšení podmínek rovnosti žen a mužů v []()KVOP napomůže zefektivnění výkonu věcné agendy veřejné ochránkyně práv v oblasti ochrany osob před diskriminací a prosazování práva na rovné zacházení.
+Zlepšení podmínek rovnosti žen a mužů v KVOP napomůže zefektivnění výkonu věcné agendy veřejné ochránkyně práv v oblasti ochrany osob před diskriminací a prosazování práva na rovné zacházení.
 
 Hlavními aktivitami projektu jsou genderový audit, výzkum zaměřený na slaďování osobního, rodinného a pracovního života zaměstnanců a zaměstnankyň ve státní službě a osvěta zaměstnanců a zaměstnankyň. Výstupy z auditu a výzkumu představí mezinárodní konference a budou také prezentovány na workshopu pro vedoucí pracovníky a pracovnice veřejné správy.
 
