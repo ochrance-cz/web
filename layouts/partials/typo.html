@@ -5,6 +5,9 @@
 {{- $raw = replaceRE "(\\d)\\. (\\d)" "$1. $2" $raw -}}
 {{- $raw = replaceRE "(\\d)\\. (\\d)" "$1. $2" $raw -}}
 {{- $raw = replaceRE "o. s. ř." "o. s. ř." $raw -}}
+{{- $raw = replaceRE "a. s." "a. s." $raw -}}
+{{- $raw = replaceRE "č. j." "č. j." $raw -}}
+{{- $raw = replaceRE "o. s." "o. s." $raw -}}
 {{- $raw = replaceRE "s. r. o." "s. r. o." $raw -}}
 {{- $raw = replaceRE " Kč" " Kč" $raw -}}
 {{- $raw = replaceRE "(\\s[AÁBCČDĎEÉĚFGHIÍJKLMNŇOÓPQRŘSŠTŤUÚŮVWXYÝZŽaábcčdďeéěfghiíjklmnňoópqrřsštťuúůvwxyýzž][AÁBCČDĎEÉĚFGHIÍJKLMNŇOÓPQRŘSŠTŤUÚŮVWXYÝZŽaábcčdďeéěfghiíjklmnňoópqrřsštťuúůvwxyýzž]?) " "$1 " $raw -}}
