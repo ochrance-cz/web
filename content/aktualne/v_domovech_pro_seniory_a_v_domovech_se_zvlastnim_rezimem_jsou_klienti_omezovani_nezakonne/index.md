@@ -17,4 +17,3 @@ Mimořádné opatření Ministerstva zdravotnictví aktuálně stanoví pro klie
 
 [Doporučení zástupkyně ombudsmana k omezování vycházení klientů v pobytových zařízeních sociálních služeb](https://www.ochrance.cz/uploads-import/ESO/doporu%C4%8Den%C3%AD_z%C3%A1kaz_vych%C3%A1zen%C3%AD_final_15_2021_final_27_04.pdf) - PDF.
 
-[](https://www.ochrance.cz/uploads-import/ESO/doporu%C4%8Den%C3%AD_z%C3%A1kaz_vych%C3%A1zen%C3%AD_final_15_2021_final_27_04.pdf)

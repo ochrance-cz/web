@@ -54,8 +54,7 @@ Výzkum sledující pohled lidí s postižením byl kvalitativní a formou rozho
 
 ### Výzkumné zprávy a shrnutí:
 
-**Shrnutí výzkumů – video v českém znakovém jazyce:** [](https://youtu.be/0_2FlcXnvSc)
+**Shrnutí výzkumů – video v českém znakovém jazyce:** 
 
 {{< youtube "0_2FlcXnvSc" >}}
 
-[](https://youtu.be/0_2FlcXnvSc)

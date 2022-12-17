@@ -13,7 +13,7 @@ active: true
   +420 974 801 802
 
   [ukrajina@mvcr.cz](mailto:ukrajina@mvcr.cz)
-* найновіша інформація та посилання на пропозиції допомоги: [](http://www.nasiukrajinci.cz)
+* найновіша інформація та посилання на пропозиції допомоги:
 
   [www.nasiukrajinci.cz](http://www.nasiukrajinci.cz)
 * Консорціум недержавних організацій, що працюють з мігрантами:
@@ -23,7 +23,7 @@ active: true
 
   [https://www.edu.cz/ukrajina/%d0%b4%d0%bb%d1%8f-%d1%83%d0%ba%d1%80%d0%b0%d1%97%d0%bd%d1%86%d1%96%d0%b2/ ](https://www.edu.cz/ukrajina/%d0%b4%d0%bb%d1%8f-%d1%83%d0%ba%d1%80%d0%b0%d1%97%d0%bd%d1%86%d1%96%d0%b2/)
 
-  [](<* https://www.edu.cz/ukrajina/%d0%b4%d0%bb%d1%8f-%d1%83%d0%ba%d1%80%d0%b0%d1%97%d0%bd%d1%86%d1%96%d0%b2/>)<https://shkola.cz/uk/index.html>
+  <https://shkola.cz/uk/index.html>
 
   <https://detiukrajiny.cz/ua/>
 
@@ -47,7 +47,7 @@ active: true
   <https://deti.ochrance.cz/aktuality/dlja-ditei-z-ukrajini-vid-ombudsmana-ombudsman-detem-z-ukrajiny/>
 * [ВАЖЛИВА ІНФОРМАЦІЯ ПРО МЕДИЧНЕ СТРАХУВАННЯ](/media/zdravotni_pojisteni_a4_ua.pdf)
 
-[](/media/zdravotni_pojisteni_a4_ua.pdf)**Детальніша інфромація щодо перебування в Чеській Республіці**
+**Детальніша інфромація щодо перебування в Чеській Республіці**
 
 З вівторка 22 березня 2022 року громадянам України та їхнім родичам ,які приїхали через військові дії в Україні, буде надана віза з метою  захисту від військових дій. 
 
@@ -69,7 +69,7 @@ active: true
 
 [Якщо це собака, кіт чи фретка(домашній тхір), дійте наступним чином:](https://www.ochrance.cz/letaky/letak-zvirata-ua/letak-zvirata-ua.pdf)
 
-[](https://www.ochrance.cz/letaky/letak-zvirata-ua/letak-zvirata-ua.pdf)**1.** Перших **10 днів** тваринку постійно тримайте біля себе;
+**1.** Перших **10 днів** тваринку постійно тримайте біля себе;
 
 **2.** До **72 год** зверніться з твариною до ветеринара – ветеринар тваринку огляне та надасть мікрочіп – список ветеринарів знайдете тут:  <https://www.vetkom.cz/seznam-veterinaru/>
 
