@@ -1,8 +1,14 @@
 {{- $raw := replaceRE " - " " &mdash; " . -}}
-{{- $raw = replaceRE "§ " "§&nbsp;" $raw -}}
-{{- $raw = replaceRE " Kč" "&nbsp;Kč" $raw -}}
-{{- $raw = replaceRE "(\\s[AÁBCČDĎEÉĚFGHIÍJKLMNŇOÓPQRŘSŠTŤUÚŮVWXYÝZŽaábcčdďeéěfghiíjklmnňoópqrřsštťuúůvwxyýzž][AÁBCČDĎEÉĚFGHIÍJKLMNŇOÓPQRŘSŠTŤUÚŮVWXYÝZŽaábcčdďeéěfghiíjklmnňoópqrřsštťuúůvwxyýzž]?) " "$1&nbsp;" $raw -}}
-{{- $raw = replaceRE "(;[AÁBCČDĎEÉĚFGHIÍJKLMNŇOÓPQRŘSŠTŤUÚŮVWXYÝZŽaábcčdďeéěfghiíjklmnňoópqrřsštťuúůvwxyýzž][AÁBCČDĎEÉĚFGHIÍJKLMNŇOÓPQRŘSŠTŤUÚŮVWXYÝZŽaábcčdďeéěfghiíjklmnňoópqrřsštťuúůvwxyýzž]?) " "$1&nbsp;" $raw -}}
+{{- $raw = replaceRE "§ " "§ " $raw -}}
+{{- $raw = replaceRE "(\\d) (\\d)" "$1 $2" $raw -}}
+{{- $raw = replaceRE "(\\d)\\. (\\d)" "$1. $2" $raw -}}
+{{- $raw = replaceRE "(\\d)\\. (\\d)" "$1. $2" $raw -}}
+{{- $raw = replaceRE "(\\d)\\. (\\d)" "$1. $2" $raw -}}
+{{- $raw = replaceRE "o. s. ř." "o. s. ř." $raw -}}
+{{- $raw = replaceRE "s. r. o." "s. r. o." $raw -}}
+{{- $raw = replaceRE " Kč" " Kč" $raw -}}
+{{- $raw = replaceRE "(\\s[AÁBCČDĎEÉĚFGHIÍJKLMNŇOÓPQRŘSŠTŤUÚŮVWXYÝZŽaábcčdďeéěfghiíjklmnňoópqrřsštťuúůvwxyýzž][AÁBCČDĎEÉĚFGHIÍJKLMNŇOÓPQRŘSŠTŤUÚŮVWXYÝZŽaábcčdďeéěfghiíjklmnňoópqrřsštťuúůvwxyýzž]?) " "$1 " $raw -}}
+{{- $raw = replaceRE "(;[AÁBCČDĎEÉĚFGHIÍJKLMNŇOÓPQRŘSŠTŤUÚŮVWXYÝZŽaábcčdďeéěfghiíjklmnňoópqrřsštťuúůvwxyýzž][AÁBCČDĎEÉĚFGHIÍJKLMNŇOÓPQRŘSŠTŤUÚŮVWXYÝZŽaábcčdďeéěfghiíjklmnňoópqrřsštťuúůvwxyýzž]?) " "$1 " $raw -}}
 {{- $raw = chomp $raw -}}
 {{- $raw = markdownify $raw -}}
 
