@@ -19,23 +19,30 @@
         {{ partial "link-list.html" (dict "list" . "page" $) }}
       {{ end }}
 
+      {{ $path := .RelPermalink }}
       <div class="_srozumitelne-navigation">
-        {{ $chapters := split "00,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17" "," }}
-        {{- range $key, $val := $chapters -}}
-          {{ if eq $val (substr $.File.Dir -3 2) }}
-          {{ with index $chapters (sub $key 1) }}
-            {{ $page := $.GetPage (print "/srozumitelne/" .) }}
-            <a href="{{ $page.Permalink | absURL }}">{{ $page.Title }}</a>
-          {{ else }}
-            {{ $page := $.GetPage "srozumitelne" }}
-            <a href="{{ $page.Permalink | absURL }}">Obsah příručky</a>
-          {{ end }}
-          {{ with index $chapters (add $key 1) }}
-            {{ $page := $.GetPage (print "/srozumitelne/" .) }}
-            {{ with $page }}
-              <a href="{{ .Permalink | absURL }}">{{ .Title }}</a>
+        {{ $chapters := ($.Site.GetPage "srozumitelne").Params.chapters }}
+        {{- range $index, $val := $chapters -}}
+          {{ $curPath := print "/srozumitelne/" (replaceRE "/index" "" $val.chapter) "/"}}
+          {{ if eq $path $curPath }}
+            {{ $before := index $chapters (sub $index 1) }}
+            {{ $after := index $chapters (add $index 1) }}
+
+            {{ with $before }}
+              {{ with $.GetPage (print "/srozumitelne/" .chapter) }}
+                <a href="{{ .Permalink | absURL }}">{{ .Title }}</a>
+              {{ end }}
+            {{ else }}
+              {{ $page := $.GetPage "srozumitelne" }}
+              <a href="{{ $page.Permalink | absURL }}">Obsah příručky</a>
             {{ end }}
-          {{ end }}
+
+            {{ with $after }}
+              {{ with $.GetPage (print "/srozumitelne/" .chapter) }}
+                <a href="{{ .Permalink | absURL }}">{{ .Title }}</a>
+              {{ end }}
+            {{ end }}
+
           {{ end }}
         {{- end -}}
       </div>
