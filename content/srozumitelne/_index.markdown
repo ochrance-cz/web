@@ -22,43 +22,43 @@ chapters:
   - chapter: piste_se_slovesy/index
   - chapter: piste_s_plnovyznamovymi_slovesy/index
   - chapter: omezte_slovesa_ktera_potrebuji_predmet/index
-  - {}
+  - chapter: setrete_s_podstatnymi_jmeny_slovesnymi/index
   - chapter: prislovce_zkuste_nahradit_vystiznejsim_slovesem/index
   - chapter: piste_slovesa_v_cinnem_rodu_s_trpnym_rodem_pasivem_setrete/index
   - chapter: piste_pozitivne/index
   - chapter: piste_konkretni_podstatna_jmena/index
   - chapter: nevynechte_potrebne_vyrazy/index
   - chapter: nepiste_vyrazy_ktere_nuti_ctenare_aby_se_domyslel_sam/index
-  - {}
-  - {}
+  - chapter: setrete_s_relativizujicimi_vyrazy/index
+  - chapter: vynechte_slovni_vatu/index
   - chapter: nepiste_vyrazy_ktere_totez_sdeluji_vicekrat/index
-  - {}
+  - chapter: vyberte_si_kratsi_vyraz_ledaze_je_ten_delsi_vystiznejsi/index
   - chapter: piste_ctenarum_jako_byste_s_nimi_mluvili_pouzivejte_my_a_vy/index
   - chapter: piste_genderove_neutralne/index
   - chapter: oznacte_pravni_predpisy_strucne_a_vystizne/index
-  - {}
+  - chapter: zkratky_pouzivejte_pokud_usnadni_cteni_ne_pokud_si_tim_jen_kratite_psani/index
   - chapter: pokud_definujete_pojem_pouzivejte_ho_dusledne/index
-  - {}
+  - chapter: pro_stejny_pojem_pouzivejte_stejny_vyraz/index
   - chapter: cesky_vystizny_vyraz_pouzijte_pred_cizim/index
-  - {}
-  - {}
+  - chapter: vysvetlete_odborne_terminy_a_jine_pravni_pojmy_nez_je_zacnete_pouzivat_pokud_mate_za_to_ze_to_ctenari_pomuze/index
+  - chapter: pouzivejte_obvykle_vyrazy_ne_uredni_zargon/index
   - chapter: pokud_pouzijete_odborny_termin_pouzijte_ten_nejvystiznejsi/index
-  - {}
+  - chapter: vystizne_zobecnujte/index
   - chapter: piste_kratke_vety/index
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
+  - chapter: sdelte_nejprve_jadro_rozvijejte_je_v_dalsich_vetach/index
+  - chapter: to_co_spolu_ve_vete_souvisi_piste_blizko_sebe/index
+  - chapter: v_souvetich_volte_spravne_spojovaci_vyrazy/index
+  - chapter: vycty_piste_tak_aby_se_v_nich_ctenar_snadno_vyznal/index
+  - chapter: provedte_ctenare_textem/index
   - chapter: piste_plynule_cim_vetu_ci_odstavec_koncite_tim_v_dalsi_vete_ci_odstavci_navazte/index
-  - {}
+  - chapter: provedte_ctenare_textem_pomoci_spojovacich_vyrazu/index
   - chapter: odkazy_poznamky_pod_carou_a_citace_rusi_plynulost_textu_piste_je_tam_kde_rusi_nejmene/index
-  - {}
+  - chapter: pokud_jste_neco_zkazili_omluvte_se/index
   - chapter: nepiste_hanlive_ci_ironicky/index
   - chapter: budte_empaticti_je-li_to_treba/index
-  - {}
+  - chapter: pouzivejte_ale_nenaduzivejte_osloveni_ctenare/index
   - chapter: ctete_po_sobe/index
-  - {}
+  - chapter: poproste_nekoho_jineho_at_si_text_precte/index
   - chapter: otestujte_pisemnosti_ktere_maji_siroky_dosah/index
 textcontent:
   - before: proc/index
