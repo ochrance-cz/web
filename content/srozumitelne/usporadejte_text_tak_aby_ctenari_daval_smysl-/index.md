@@ -18,7 +18,7 @@ V následujícím příkladu hygienická stanice nařizuje rodičům školních 
 
 Zkuste na otázky podle textu odpovědět. Najdete odpovědi snadno? Je v textu všechno, co vás zajímá?
 
-{{< nevhodne >}}
+{{% nevhodne %}}
 
 Dne **4. 2. a 5. 2. 2021** byly Vaše děti v kontaktu s osobou, která je Covid pozitivní. Epidemiologickým šetřením byly shledány důvody pro karanténní opatření do **15. 2. 2021**.
 
@@ -48,7 +48,7 @@ Karanténa se **týká pouze osoby, která byla v úzkém kontaktu s pozitivní 
 
 Toto sdělení slouží k zajištění co nejrychlejšího předání informace osobám (v případě dětí zákonným zástupcům dětí) u kterých byl zjištěn rizikový kontakt s COVID-19 pozitivní osobou. Systém chytré karantény také automaticky generuje všem rizikovým kontaktům „sms“ zprávu o tom, že jste byl/a v rizikovém kontaktu. V případě dětí je „sms“ zpráva e-systémem odeslána na tel. číslo zákonného zástupce, tj. pro upřesnění uvádíme, že tato zpráva se týká dítěte nikoli zákonných zástupců, pro ně karanténa neplatí, platí výše uvedené.
 
-{{< /nevhodne >}}
+{{% /nevhodne %}}
 
 Asi jste většinu informací našli, ale možná pro vás nebylo snadné se v textu vyznat. Asi jste nečetli souvisle. Zkusíme uspořádat text tak, jak bychom o věci pravděpodobně přemýšleli:
 

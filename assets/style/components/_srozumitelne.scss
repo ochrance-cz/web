@@ -328,5 +328,42 @@ body.srozumitelne {
     @include svg-bg($arrow, $green, 100% 0%);
     background-size: 2rem;
   }
+}
 
+@keyframes hilite {
+  0% {
+    background-color: #ffa;
+  }
+
+  100% {
+    background-color: #fff;
+  }
+}
+
+:target {
+  animation: hilite 2s ease;
+}
+
+sup[id^='fnref'] {
+  scroll-margin-top: 80px;
+  vertical-align: middle;
+  position: relative;
+  top: -0.5em;
+}
+
+.footnotes {
+  &::before {
+    margin-top: 2em;
+    content: 'Poznámky';
+    display: block;
+    @include font-family-headline;
+    @include font-size-xl;
+  }
+
+  hr {
+    display: none;
+  }
+  li {
+    scroll-margin-top: 80px;
+  }
 }

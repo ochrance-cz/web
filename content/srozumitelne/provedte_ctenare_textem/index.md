@@ -6,7 +6,7 @@ Vysvětlujte čtenáři, kde se v textu nachází a co ho čeká. Je to jako u z
 
 V následujícím dopise úřad popisuje věc stručně, dokonce používá „my“, „Vy“, ale text neplyne a čtenář se v něm nemá podle čeho orientovat. Je složité se v textu „najít“.
 
-{{< nevhodne >}}
+{{% nevhodne %}}
 
 Vážený pane Metelko,
 
@@ -18,13 +18,13 @@ Podle § 61 odst. 1 zákona č. 273/2008 Sb., o Policii České republiky mohou 
 
 Podle § 42 zákona č. 500/2004 Sb., správní řád, podnět odkládáme.
 
-{{< /nevhodne >}}
+{{% /nevhodne %}}
 
 Jak to vylepšíme?
 
 Zkusme dbát na to, aby informace čtenáře nezaskočily. Vysvětlujme. Uvozujme výčty, aby čtenář věděl, co má čekat. Text by právně obstál i bez těchto průvodních výrazů, ale byl by méně přehledný a srozumitelný. V textu jsme je označili tučně.
 
-{{< vhodne >}}
+{{% vhodne %}}
 
 Vážený pane Metelko,
 
@@ -38,4 +38,4 @@ Zákon **například** ukládá pracovníkům poskytnout informace Policii Česk
 
 **Protože** z Vašeho podnětu nemáme dost informací, abychom zahájili řízení z moci úřední, musíme jej odložit (§ 42 zákona č. 500/2004 Sb., správní řád). To znamená, že se Vaším podnětem nebudeme dále zabývat.
 
-{{< /vhodne >}}
+{{% /vhodne %}}

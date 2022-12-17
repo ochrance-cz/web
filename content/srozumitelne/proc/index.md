@@ -35,7 +35,7 @@ Prosíme, porovnejte následující texty:
 
 Toto je část poučení v exekučním příkazu, kterým obecní úřad postihl účet u banky, aby vymohl nedoplatky na místním poplatku. Dlužník by se z ní měl dozvědět, jak si může zřídit chráněný účet. V textu je však těžké se zorientovat a informaci získat, protože úřad prakticky opsal zákon, který je pro běžného čtenáře příliš složitý:
 
-{{< nevhodne >}}
+{{% nevhodne %}}
 
 Dlužník, který je fyzickou osobou, může požádat poskytovatele platebních služeb o zřízení chráněného účtu, vedeného za podmínek podle ust. § 304c, § 304d odst. 4 a § 304e odst. 1 a 2 o. s. ř.). …
 
@@ -45,13 +45,13 @@ Správce daně oznámí na žádost dlužníka bez zbytečného odkladu poskytov
 
 Poskytovatel platebních služeb, kterému správce daně doručil exekuční příkaz přikázáním pohledávky z účtu dlužníka, je povinen poté, co mu bylo doručeno oznámení správce daně o čísle účtu, s dlužníkem na jeho žádost uzavřít smlouvu o chráněném účtu a chráněný účet po uzavření smlouvy zřídit do 5 pracovních dnů od podání žádosti a označit jedinečným způsobem tak, aby bylo zřejmé, že jde o chráněný účet. Součástí žádosti je prohlášení dlužníka, že v jeho prospěch není v den podání žádosti veden žádný chráněný účet (§ 304c odst. 1 o. s. ř.).
 
-{{< /nevhodne >}}
+{{% /nevhodne %}}
 
 #### Text, který považujeme za nesrozumitelný, protože je příliš zjednodušený a nepřesný
 
 Srozumitelnosti nedosáhnete jen zkrácením a zjednodušením textu. Když odstraníte odkazy na ustanovení právní úpravy a nevysvětlíte právní pojmy, bude odpověď jednodušší, ale nebude ani právně přesná, ani užitečná. Například čtenář nemusí vědět, která všechna čísla účtů bude úřad bance sdělovat. Nebo se nedozví, že banku musí o zřízení chráněného účtu požádat. V této příručce rozhodně neprosazujeme, abyste text takto zjednodušovali na úkor jeho právní přesnosti:
 
-{{< nevhodne >}}
+{{% nevhodne %}}
 
 Můžete banku požádat, aby Vám zřídila chráněný účet. …
 
@@ -61,13 +61,13 @@ Pokud nás o to požádáte, sdělíme pak Vaší bance čísla účtů, z nich�
 
 Banka s Vámi pak uzavře smlouvu a chráněný účet zřídí do 5 pracovních dnů od podání žádosti. V žádosti prohlásíte, že nemáte jiný chráněný účet.
 
-{{< /nevhodne >}}
+{{% /nevhodne %}}
 
 #### Text, který je podle našeho názoru srozumitelný
 
 Srozumitelný je podle nás text, který je přehledný, úplný a přitom napsaný běžným jazykem. V příručce nabízíme návod, jak toho dosáhnout.
 
-{{< vhodne >}}
+{{% vhodne %}}
 
 **Jak si zřídíte chráněný účet?**
 
@@ -85,7 +85,7 @@ Srozumitelný je podle nás text, který je přehledný, úplný a přitom napsa
 2. **Až získáte potvrzen**í (nebo současně se žádostí, abychom ho zajistili my), **požádáte nás, abychom bance nebo jiné instituci, u které máte účet (dále „banka“), oznámili údaje z potvrzení**, tedy čísla účtů, ze kterých Vám přicházejí chráněné příjmy, a číslo Vašeho účtu, na který tyto příjmy chodí. Oznámení pro banku Vám pošleme v kopii [[§ 304d odst. 3](https://www.zakonyprolidi.cz/cs/1963-99#p304d-3) o. s. ř.]
 3. **Jakmile dostanete kopii oznámení pro banku, můžete banku požádat, aby Vám zřídila chráněný účet.** Udělá to do 5 pracovních dnů. V žádosti potvrdíte, že zatím nemáte žádný chráněný účet. [§ [304c odst. 1](https://www.zakonyprolidi.cz/cs/1963-99#p304c-1) o. s. ř.]
 
-{{< /vhodne >}}
+{{% /vhodne %}}
 
 ### **Proč psát srozumitelně?**
 
@@ -131,7 +131,7 @@ Adresáti ETR bývají nejčastěji lidé s mentálním postižením, lidé s 
 
 Například poučení z úvodního příkladu naší příručky by v ETR znělo třeba takto:
 
-{{< vhodne >}}
+{{% vhodne %}}
 
 **Jak si zřídíte chráněný účet?**
 
@@ -147,7 +147,7 @@ Pak napíšeme Vaší bance a dáme Vám o tom vědět.
 
 Potom půjdete do své banky a požádáte ji, aby Vám zřídila chráněný účet.
 
-{{< /vhodne >}}
+{{% /vhodne %}}
 
 Zároveň by však bylo potřeba vyjednat, zda je tento text užitečný. Typický adresát zjednodušeného textu by totiž pravděpodobně potřeboval se zřízením chráněného účtu pomoc někoho dalšího. Vždy je třeba hodnotit případ od případu, zda text v ETR někomu poslouží.
 

@@ -14,47 +14,47 @@ Máte několik možností, jak to udělat.
 
 **V jedné větě:**
 
-{{< vhodne >}}
+{{% vhodne %}}
 
 Vážený pane Cibulko,
 
 šetřením Vašeho podání ze dne 21. 11. 2016 jsem zjistila, že ČSSZ pochybila tím, že se Vás předem nedotázala, čeho jste chtěl svojí žádostí o přezkum invalidního důchodu dosáhnout.
 
-{{< /vhodne >}}
+{{% /vhodne %}}
 
 **V jednom odstavci**. Pomůže, pokud své shrnutí nadepíšete nebo nějak graficky zvýrazníte, třeba text napíšete tučně.
 
-{{< vhodne >}}
+{{% vhodne %}}
 
 **Shrnutí**
 
 Zjistila jsem, že OAMP pochybil tím, že nerozhodl o žádosti o povolení k trvalému pobytu na území České republiky ve lhůtě stanovené zákonem o pobytu cizinců.
 
-{{< /vhodne >}}
+{{% /vhodne %}}
 
 Můžete **shrnout celý právní argument** a dále v textu jej rozvést. V příkladu navazujeme na předchozí shrnutí:
 
-{{< pravni >}}
+{{% pravni %}}
 
 Správní orgán je povinen rozhodnout o žádosti o povolení k trvalému pobytu ve lhůtě 60 dnů od podání žádosti \[podle § 169 odst. 1 písm. e) zákona o pobytu cizinců].
 
-{{< /pravni >}}
+{{% /pravni %}}
 
-{{< vecne >}}
+{{% vecne %}}
 
 Stěžovatel podal svou žádost dne 30. července 2015. OAMP dosud, tedy po uplynutí 23 měsíců, nerozhodl.
 
-{{< /vecne >}}
+{{% /vecne %}}
 
-{{< hodnoceni >}}
+{{% hodnoceni %}}
 
 OAMP proto pochybil, protože nerozhodl v zákonné lhůtě 60 dnů.
 
-{{< /hodnoceni >}}
+{{% /hodnoceni %}}
 
 **V několika dobře strukturovaných odstavcích:**
 
-{{< nevhodne >}}
+{{% nevhodne %}}
 
 Dne **4. 2. a 5. 2. 2021** byly Vaše děti v kontaktu s osobou, která je Covid pozitivní. Epidemiologickým šetřením byly u Vámi zaslaných kontaktů shledány důvody pro karanténní opatření do **15. 2. 2021**.
 
@@ -62,9 +62,9 @@ Pokud je v době **do 90 dnů od ukončení izolace po prodělaném onemocnění
 
 **Karanténní opatření stanovené mimořádným opatřením MZ ČR aktuálně zahrnují: domácí karanténu minimálně po dobu 10 dnů a vyšetření výtěr z krku a z nosu (RT-PCR test na přítomnost viru SARS-CoV-2)** v rozmezí 5. až 7. dne od posledního kontaktu s pozitivně testovanou osobou, nejpozději však do 10. dne.
 
-{{< /nevhodne >}}
+{{% /nevhodne %}}
 
-{{< vhodne >}}
+{{% vhodne %}}
 
 \[Dobrý den/vážení rodiče]
 
@@ -78,39 +78,39 @@ ve dnech 4. a 5. února 2021 byly Vaše děti v kontaktu s COVID-19 pozitivním 
 * se setkalo s COVID-19 pozitivním člověkem do 90 dní poté, co samo COVID-19 prodělalo (počítá se od ukončení karanténních opatření); a
 * zároveň nemá příznaky onemocnění. Nejčastějšími příznaky jsou suchý kašel, teplota, zažívací obtíže, ztráta chuti a čichu.
 
-{{< /vhodne >}}
+{{% /vhodne %}}
 
 ### Vysvětlete čtenáři, co v dokumentu bude
 
 Například, pokud sdělujete čtenáři obecné informace nebo pokud korespondenci s ním zahajujete vy (nereagujete na jeho podnět, návrh či stížnost).
 
-{{< vhodne >}}
+{{% vhodne %}}
 
 **Leták o dávkách na bydlení**
 
 Vysvětlíme, kdy můžete dávky na bydlení získat a jak si je udržet. Popíšeme, jak bude úřad práce zkoumat Vaše příjmy a výdaje za bydlení. Dozvíte se, jak se určí výše dávek na bydlení a kdy se vyplácejí. Zjistíte, co dělat s přeplatky nebo nedoplatky na energiích, jestli můžete dostat peníze na kauci při uzavření nové smlouvy a další podrobnosti.
 
-{{< /vhodne >}}
+{{% /vhodne %}}
 
 Pomůže, když přesně popíšete, o čem dokument bude **v předmětu e-mailu nebo v označení věci**:
 
-{{< nevhodne >}}
+{{% nevhodne %}}
 
 Vyrozumění stavebního úřadu
 
-{{< /nevhodne >}}
+{{% /nevhodne %}}
 
-{{< vhodne >}}
+{{% vhodne %}}
 
 Společný územní souhlas a souhlas s provedením ohlášené stavby
 
-{{< /vhodne >}}
+{{% /vhodne %}}
 
 ### Pokud navazujete na předchozí korespondenci se čtenářem, sdělte mu odpověď hned
 
 Přečtěte si následující text:
 
-{{< nevhodne >}}
+{{% nevhodne %}}
 
 Vážený pane Boučku,
 
@@ -118,13 +118,13 @@ obrátil jste se na mě se stížností na jednání Vašeho souseda, který Vá
 
 Zákon č. 349/1999 Sb., o veřejném ochránci práv, ve znění pozdějších předpisů mi ukládá povinnost působit k ochraně osob před jednáním úřadů a dalších institucí uvedených ve zmíněném zákoně, pokud je v rozporu s právem, neodpovídá principům demokratického právního státu a dobré správy, jakož i před jejich nečinností, a tím přispívat k ochraně základních práv a svobod. Podrobnosti se dozvíte v přiloženém letáku.
 
-{{< /nevhodne >}}
+{{% /nevhodne %}}
 
 Přečetli jste 85 slov, ale stále neznáte podstatu odpovědi. Oči letí po textu a následuje: no a?
 
 Je lepší napsat odpověď hned, jako byste se čtenářem mluvili.
 
-{{< vhodne >}}
+{{% vhodne %}}
 
 Vážený pane Boučku,
 
@@ -132,11 +132,11 @@ obrátil jste se na mě se stížností na Vašeho souseda, který Vám přes pl
 
 Nemohu Vám v této věci pomoci, protože mi to zákon nedovoluje. Zákon mne opravňuje šetřit pouze potíže občanů s úřady, ne se soukromými osobami, jako je Váš soused (§ 1 zákona č. 349/1999 Sb., o veřejném ochránci práv).
 
-{{< /vhodne >}}
+{{% /vhodne %}}
 
 Jádro sdělení napište hned, i když čtenáři sdělujete **špatnou zprávu** – jako v předchozím příkladu. Čtenáři nepomůže, když mu špatnou zprávu zabalíme do nesrozumitelných vět a sdělíme ji nakonec. Ostatně, i ve správních rozhodnutích se nepříznivý výrok dozvíme hned na začátku.
 
-{{< vhodne >}}
+{{% vhodne %}}
 
 **Odpověď na Vaši stížnost na Velkou Pojišťovnu, a. s.**
 
@@ -150,4 +150,4 @@ Podle zákona* nesmíme zasahovat přímo do vztahů mezi pojišťovnami a jejic
 
 > \* Zákon č. 6/19963 Sb., o České národní bance, zákon č. 277/2009 Sb., o pojišťovnictví, zákon č. 170/2018 Sb., o distribuci pojištění a zajištění, zákon č 634/1992 Sb., o ochraně spotřebitele.
 
-{{< /vhodne >}}
+{{% /vhodne %}}

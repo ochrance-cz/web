@@ -5,54 +5,54 @@ num: 6
 ---
 Právní posouzení může být velmi **stručné**. Například pro právní posouzení v našem očkovacím příkladu nám stačí jedna věta:
 
-{{< hodnoceni >}}
+{{% hodnoceni %}}
 
 Proto musí ředitel mateřské školy přijmout Anežku k předškolnímu vzdělávání.
 
-{{< /hodnoceni >}}
+{{% /hodnoceni %}}
 
 Stručné právní posouzení však můžeme napsat pouze tehdy, pokud jsme dobře vysvětlili právní pravidla a podali důležité informace příběhu. Pak totiž čtenář rozumí jak pravidlům hry, tak příběhu a přijde na právní posouzení sám. Je to jako ve hře Člověče, nezlob se, když chceme zjistit, zda Pavel může, či nemůže, nasadit:
 
-{{< pravni >}}
+{{% pravni %}}
 
 K nasazení figurky na startovní pole je potřeba hodit šestku. Nemá-li hráč nasazenou žádnou figurku, hází kostkou do té doby, dokud nepadne šestka, nejvíce však třikrát.
 
-{{< /pravni >}}
+{{% /pravni %}}
 
 Teď víme, jaké pravidlo ve hře platí. A jdeme hrát:
 
-{{< vecne >}}
+{{% vecne %}}
 
 Pavel hodil jedničku, trojku a pětku.
 
-{{< /vecne >}}
+{{% /vecne %}}
 
 Může Pavel nasadit figurku? Jasně že ne: pravidla jsou jasná, a co se stalo, je taky jasné. Víme, jak věc posoudit:
 
-{{< hodnoceni >}}
+{{% hodnoceni %}}
 
 Pavel proto nemůže nasadit.
 
-{{< /hodnoceni >}}
+{{% /hodnoceni %}}
 
 V následujícím příkladu si přečtěte právní pravidlo a důležité informace z příběhu a věc posuďte:
 
-{{< pravni >}}
+{{% pravni %}}
 
 Platnost povolení k dlouhodobému pobytu za účelem studia nelze prodloužit, pokud nastane důvod ke zrušení povolení (§ 35 odst. 3 zákona o pobytu cizinců). Takovým důvodem je i to, že žadatel správnímu orgánu ve stanovené lhůtě nepředloží doklady za účelem ověření údajů uvedených v žádosti \[§ 56 odst. 1 písm. a) zákona o pobytu cizinců].
 
-{{< /pravni >}}
+{{% /pravni %}}
 
-{{< vecne >}}
+{{% vecne %}}
 
 Dne 15. května 2022 jste převzal naši výzvu, abyste do 15 dnů předložil potvrzení o studiu. Potvrzení jste nepředložil.
 
-{{< /vecne >}}
+{{% /vecne %}}
 
 Posuzujete věc takto?
 
-{{< hodnoceni >}}
+{{% hodnoceni %}}
 
 Proto jsme Vaši žádost o prodloužení povolení k dlouhodobému pobytu za účelem studia zamítli.
 
-{{< /hodnoceni >}}
+{{% /hodnoceni %}}

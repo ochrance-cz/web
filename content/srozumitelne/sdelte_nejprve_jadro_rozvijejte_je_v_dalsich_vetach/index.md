@@ -12,58 +12,58 @@ Jak na to:
 
 Nepřemýšlejte až při psaní. Jinak čtenáře ztratíte:
 
-{{< nevhodne >}}
+{{% nevhodne %}}
 
 Ustanovení § 46 zákona o ochraně veřejného zdraví – vůči kterému podstata námitek navrhovatele, byť spojovaných s napadeným ustanovením, ve skutečnosti směřuje, a to aniž by jeho zrušení bylo návrhem požadováno – není ustanovením, které by pouze legislativně-technicky na ustanovení, jehož zrušení je navrhováno, navazovalo.
 
-{{< /nevhodne >}}
+{{% /nevhodne %}}
 
 ### Začněte jádrem sdělení, pak teprve popisujte podrobnosti (či podmínky, výjimky)
 
 Tak čtenáři vytvoříte základ pro pochopení všeho ostatního. Jinak musí čtenář nejprve vstřebat podrobnosti (výjimky, podmínky), pak jádro a pak se vrátit zpět k jádru a pochopit vztah mezi nimi.
 
-{{< vhodne >}}
+{{% vhodne %}}
 
 Podstata námitek navrhovatele spojovaných s napadeným ustanovením ve skutečnosti směřuje vůči § 46 zákona o ochraně veřejného zdraví. Jeho zrušení však nežádal a nejde o ustanovení, které pouze legislativně-technicky navazuje na ustanovení, jehož zrušení navrhl.
 
-{{< /vhodne >}}
+{{% /vhodne %}}
 
 Podobně v následujícím příkladu:
 
-{{< nevhodne >}}
+{{% nevhodne %}}
 
 Není-li důvod k pochybnostem, že se určité věci v době dávno minulé (tj. když časový odstup od rozhodných skutečností podstatně překračuje i vydržecí lhůty nebo lhůty skartační) děly obvyklým či pravidelným způsobem, resp. (úředním) postupem, je důkazní břemeno o tom, že v daném případě tomu tak nebylo, na tom, kdo to tvrdí.
 
-{{< /nevhodne >}}
+{{% /nevhodne %}}
 
 Souvětí má 52 slov a je velmi náročné na čtení. Jádrem věty je sdělení, kdo nese důkazní břemeno. Sdělme ho tedy čtenáři co nejdříve:
 
-{{< vhodne >}}
+{{% vhodne %}}
 
 Důkazní břemeno nese ten, kdo tvrdí, že se určité věci v době dávno minulé děly jinak než obvyklým či pravidelným způsobem nebo jinak než obvyklým úředním postupem. Za dobu dávno minulou se přitom považuje doba, jejíž časový odstup od rozhodných skutečností podstatně překračuje i lhůty vydržecí nebo skartační.
 
-{{< /vhodne >}}
+{{% /vhodne %}}
 
 Teď známe jádro, ke kterému můžeme přidávat podrobnosti. Například neurčitý pojem „doba dávno minulá“ upřesňujeme až tehdy, kdy jej čtenář čte v kontextu základního sdělení. Sdělení jádra nás nutí psát krátké věty.
 
 Nebo jiný příklad:
 
-{{< nevhodne >}}
+{{% nevhodne %}}
 
 S výjimkou územních pracovišť Pražské správy sociálního zabezpečení, v jejichž čele jsou vedoucí, jsou v čele všech organizačních jednotek ČSSZ ředitelé.
 
-{{< /nevhodne >}}
+{{% /nevhodne %}}
 
-{{< vhodne >}}
+{{% vhodne %}}
 
 V čele všech organizačních jednotek ČSSZ jsou ředitelé, s výjimkou územních pracovišť Pražské správy sociálního zabezpečení, v jejichž čele jsou vedoucí.
 
-{{< /vhodne >}}
+{{% /vhodne %}}
 
 ### Podrobnostmi, výjimkami či podmínkami můžete začít, pokud jsou krátké
 
-{{< vhodne >}}
+{{% vhodne %}}
 
 Nestanoví-li zákon jinak, jsou účastníci oprávněni navrhovat důkazy a činit jiné návrhy po celou dobu řízení až do vydání rozhodnutí.
 
-{{< /vhodne >}}
+{{% /vhodne %}}

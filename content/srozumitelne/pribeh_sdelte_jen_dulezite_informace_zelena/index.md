@@ -18,26 +18,26 @@ Zda je informace důležitá, záleží na kontextu. Pokud například posuzujet
 
 Důležitá informace pro právní posouzení věci v našem očkovacím příkladu bude třeba tato:
 
-{{< vecne >}}
+{{% vecne %}}
 
 Anežka Dvořáková má doklad ošetřujícího lékaře o tom, že jí epilepsie trvale brání v podání očkovací látky.
 
-{{< /vecne >}}
+{{% /vecne %}}
 
 Důležitá kontextuální informace bude například tato:
 
-{{< vecne >}}
+{{% vecne %}}
 
 Epilepsii má již od dvou let a léčba byla prozatím neúspěšná.
 
-{{< /vecne >}}
+{{% /vecne %}}
 
 To je sice nepodstatné pro náš právní závěr, protože nám stačí, že má doklad od lékaře o trvalé kontraindikaci. Protože se však epilepsie léčit dá, informace čtenáři osvětluje, že je situace dlouhodobá.
 
 Naopak nedůležitá informace bude například tato:
 
-{{< vecne >}}
+{{% vecne %}}
 
 Anežka Dvořáková má staršího bratra, který má taky epilepsii.
 
-{{< /vecne >}}
+{{% /vecne %}}

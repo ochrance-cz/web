@@ -8,8 +8,8 @@ Pokud píšete dlouhý dopis, můžete v závěrečném odstavci znovu čtenář
 
 Až na výjimky nepoužívejte utvrzovací příslovce: „jednoznačně“, „jasně“, „nepochybně“, „naprosto“, „rozhodně“. Mají sice tvrzení upevnit, ale čtenáři je obvykle vnímají opačně:
 
-{{< nevhodne >}}
+{{% nevhodne %}}
 
 Krajský úřad se jednoznačně mýlí, když tvrdí, že stavební úřad neměl zamítnout žádost stavebníka. Toto tvrzení je nepochybně v rozporu se zákonem.
 
-{{< /nevhodne >}}
+{{% /nevhodne %}}

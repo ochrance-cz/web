@@ -4,16 +4,16 @@ num: 40
 ---
 Například pokud poučujte čtenáře o možnostech se bránit proti rozhodnutí vydaném podle daňového řádu, nepište obecně slovy zákona:
 
-{{< nevhodne >}}
+{{% nevhodne %}}
 
 Proti tomuto rozhodnutí nelze uplatnit opravné prostředky podle daňového řádu.
 
-{{< /nevhodne >}}
+{{% /nevhodne %}}
 
 Čtenář si totiž může myslet, že nemůže ve své věci dělat vůbec nic. Naopak mu napište konkrétně:
 
-{{< vhodne >}}
+{{% vhodne %}}
 
 Proti tomuto rozhodnutí se nemůžete odvolat ani podat návrh na obnovu řízení.
 
-{{< /vhodne >}}
+{{% /vhodne %}}

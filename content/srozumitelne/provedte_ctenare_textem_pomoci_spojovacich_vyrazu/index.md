@@ -4,11 +4,11 @@ num: 49
 ---
 Spojovací výrazy slouží čtenáři jako rozcestníky a informační tabule. Díky nim čtenář ví, kde v textu je a kam jde. Zatímco v mluveném projevu je používáme zcela přirozeně, v psaném textu se jich bojíme. Přitom jsou pro čtenáře tak přínosné.
 
-{{< sloupce "spojovaci" >}}
+{{% sloupce "spojovaci" %}}
 
 Zvýraznili jsme spojovací výrazy:
 
-{{< vhodne >}}
+{{% vhodne %}}
 
 Pracovníci poskytovatelů sociálních služeb, **tedy i** pracovníci Pomocné ruky, mají obecně povinnost mlčenlivosti (§ 100 zákona č. 108/2006 Sb., o sociálních službách). Informace o příjemcích sociálních služeb, **tedy i o** Vás, mohou někomu dalšímu sdělit jen **ve dvou případech**. **Buď** jim k tomu dá příjemce sociální služby písemný souhlas, **nebo** jim to ukládá zákon.
 
@@ -16,4 +16,4 @@ Zákon **například** ukládá pracovníkům poskytnout informace Policii Česk
 
 **Protože** z Vašeho podnětu nemáme dost informací, abychom zahájili řízení z moci úřední, musíme jej odložit (§ 42 zákona č. 500/2004 Sb., správní řád). **To znamená**, že se Vaším podnětem nebudeme dále zabývat.
 
-{{< /vhodne >}}
+{{% /vhodne %}}

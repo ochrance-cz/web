@@ -4,14 +4,14 @@ num: 37
 ---
 To se týká zejména textů určených všem skupinám čtenářů nebo skupinám, které mají potíže s porozuměním (více v kapitole).
 
-{{< nevhodne >}}
+{{% nevhodne %}}
 
 Správní orgán tak při ukládání sankce zvážil relevantní okolnosti věci…
 
-{{< /nevhodne >}}
+{{% /nevhodne %}}
 
-{{< vhodne >}}
+{{% vhodne %}}
 
 Městský úřad tak při ukládání pokuty zvážil podstatné okolnosti věci…
 
-{{< /vhodne >}}
+{{% /vhodne %}}

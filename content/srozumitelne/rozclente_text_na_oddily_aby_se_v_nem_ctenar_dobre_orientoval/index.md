@@ -6,17 +6,17 @@ Hutný text odrazuje. Proto text rozčleňte do přehledných oddílů a opatř
 
 Na první pohled: který text byste si přečetli radši?
 
-{{< nevhodne >}}
+{{% nevhodne %}}
 
 ![Pohled na jednolitou masu textu.](https://www.ochrance.cz/srozumitelne/rozclente_text_na_oddily_aby_se_v_nem_ctenar_dobre_orientoval/masa_textu.png)
 
-{{< /nevhodne >}}
+{{% /nevhodne %}}
 
-{{< vhodne >}}
+{{% vhodne %}}
 
 ![Text s krátkými odstavci členěný nadpisy a zarovnaný vlevo. Odkazy jsou v poznámkách pod čarou.](https://www.ochrance.cz/srozumitelne/rozclente_text_na_oddily_aby_se_v_nem_ctenar_dobre_orientoval/struktura.png)
 
-{{< /vhodne >}}
+{{% /vhodne %}}
 
 Čtenáři se obvykle nejprve chtějí zorientovat v textu, aby věděli, co je čeká. Teprve potom začnou číst celý text. Proto je dobré text rozčlenit na oddíly.
 
@@ -30,27 +30,27 @@ Nadpisy můžete napsat třemi různými způsoby:
 
 **Název** se hodí jen pro větší celky, protože nám mnoho nenapoví.
 
-{{< priklad >}}
+{{% priklad %}}
 
 Průběh karantény
 
-{{< /priklad >}}
+{{% /priklad %}}
 
 **Informace** je sdělnější, může vytvořit osnovu:
 
-{{< priklad >}}
+{{% priklad %}}
 
 Co dělat během karantény
 
-{{< /priklad >}}
+{{% /priklad %}}
 
 **Otázka** je vhodná pro text, v němž čtenáři vysvětlujeme delší problematiku, například v letácích. Vžijte se do čtenáře, pište v ich-formě:
 
-{{< priklad >}}
+{{% priklad %}}
 
 Co mám dělat během karantény?
 
-{{< /priklad >}}
+{{% /priklad %}}
 
 Nadpisy a podnadpisy byste měli psát v celém textu stejně. Názvy, informace a otázky „míchejte“, jen pokud pro to máte dobrý důvod. Jinak čtenáře matete.
 
@@ -58,13 +58,13 @@ Pište nejvíce 3 úrovně, aby se čtenář v textu vyznal.
 
 Pokud chcete, můžete malé nadpisy používat i pro jednotlivé odstavce:
 
-{{< priklad >}}
+{{% priklad %}}
 
 Domácí izolace. Vaše dítě musí být v domácí izolaci. Domácí izolace znamená, …
 
 K domácí izolaci: Domácí izolace znamená, že …
 
-{{< /priklad >}}
+{{% /priklad %}}
 
 ### Odstavce: sdělujte jen jednu myšlenku
 
@@ -74,11 +74,11 @@ Proto také pište krátké odstavce, aby se čtenář v záplavě informací ne
 
 V odstavci je nejdůležitější první věta. Pokud vystihne, o čem odstavec je, bude hrát roli malého nadpisu:
 
-{{< priklad >}}
+{{% priklad %}}
 
 **Vaše dítě musí být v domácí izolaci.** Domácí izolace znamená, že …
 
-{{< /priklad >}}
+{{% /priklad %}}
 
 Pokud první věty odstavce napíšete šikovně, můžete z nich poskládat mapu sdělení.
 
@@ -90,7 +90,7 @@ Pokud používáte číslování, číslujte arabskými číslicemi. Běžně se
 
 V našem hygienickém příkladu jsme využili nadpisy, první věty v odstavcích i odrážky a číslování. Text je pak přehlednější:
 
-{{< vhodne >}}
+{{% vhodne %}}
 
 Vážení rodiče,
 
@@ -139,4 +139,4 @@ S přáním negativního výsledku,
 
 hygienická stanice xxx
 
-{{< /vhodne >}}
+{{% /vhodne %}}

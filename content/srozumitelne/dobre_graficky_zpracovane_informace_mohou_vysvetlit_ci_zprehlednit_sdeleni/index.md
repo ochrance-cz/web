@@ -10,37 +10,37 @@ V úředních textech pro nás budou nejužitečnější tabulky, graficky přeh
 
 ### Tabulky
 
-{{< vhodne >}}
+{{% vhodne %}}
 
 ![Tabulka ukazuje, kolik let důchodového pojištění potřebujete, abyste dostali invalidní důchod. Má tři sloupce: podle věku ukazuje, kolik let pojištění byste museli získat před vznikem invalidity, a kolik let můžete získat jinak, pokud nezískáte potřebnou dobu pojištění před vznikem invalidity.](https://www.ochrance.cz/srozumitelne/dobre_graficky_zpracovane_informace_mohou_vysvetlit_ci_zprehlednit_sdeleni/tabulka.png)
 
-{{< /vhodne >}}
+{{% /vhodne %}}
 
 ### Postupy, návody
 
 Postupy či návody čtenářům umožní postupovat krok po kroku a uvědomit si, v jaké fázi procesu jsou a co je ještě čeká:
 
-{{< vhodne >}}
+{{% vhodne %}}
 
 ![Návod, jak dostat advokáta na krátkou poradu: detailní popis postupu ve třech navazujících krocích.](https://www.ochrance.cz/srozumitelne/dobre_graficky_zpracovane_informace_mohou_vysvetlit_ci_zprehlednit_sdeleni/navod.png)
 
-{{< /vhodne >}}
+{{% /vhodne %}}
 
 ### Schémata
 
 Schéma umožní čtenářům zorientovat se v procesu, který může mít rozdílné výstupy:
 
-{{< vhodne >}}
+{{% vhodne %}}
 
 ![Rozvětvené schéma, co dělat, když vám zaměstnavatel dluží mzdu. Podle několika kritérií zjistíte, zda podat běžnou žalobu k soudu, požádat úřad práce o tři splatné mzdy, přihlásit dlužnou mzdu do insolvenčního řízení nebo už nedělat nic. ](https://www.ochrance.cz/srozumitelne/dobre_graficky_zpracovane_informace_mohou_vysvetlit_ci_zprehlednit_sdeleni/schema.png)
 
-{{< /vhodne >}}
+{{% /vhodne %}}
 
 ### Obrázky
 
 Slona je prostě lehčí poznat než popsat.
 
-{{< vhodne >}}
+{{% vhodne %}}
 
 **Co mohu dělat, když mi ubyla výměra pozemku?**
 
@@ -52,4 +52,4 @@ Pokud úbytek souvisí s obnovou katastrálního operátu, můžete do 15 dní p
 
 ![Nákres ukazuje rozdíl mezi skutečnou rozlohou pozemku, který je ve svahu, ve srovnání s jeho rozlohou v katastrální mapě (průmět svahu do roviny)..](https://www.ochrance.cz/srozumitelne/dobre_graficky_zpracovane_informace_mohou_vysvetlit_ci_zprehlednit_sdeleni/pozemek_sam.png)
 
-{{< /vhodne >}}
+{{% /vhodne %}}

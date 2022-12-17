@@ -6,11 +6,11 @@ I když jsme přesvědčeni, že jsme text napsali srozumitelně, je lepší se 
 
 Například jsme testovali, jak lidé rozumí následující větě z našeho informačního letáku:
 
-{{< nevhodne >}}
+{{% nevhodne %}}
 
 Řádný starobní důchod můžete dostat, až dosáhnete důchodového věku, pokud zároveň máte dostatečnou dobu pojištění.
 
-{{< /nevhodne >}}
+{{% /nevhodne %}}
 
 „Pojištění“ si lidé většinou nespojují s povinnými odvody pojistného na sociální zabezpečení, proto je hned nenapadne, o čem píšeme, i když nám to může připadat jasné.
 

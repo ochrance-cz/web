@@ -4,29 +4,29 @@ num: 31
 ---
 Zpravidla píšete o svém úřadu ve 3. osobě singuláru:
 
-{{< priklad >}}
+{{% priklad %}}
 
 Obecní úřad ve Lhotě rozhodl takto:
 
-{{< /priklad >}}
+{{% /priklad %}}
 
 Zkuste psát za úřad „my“ a čtenáře oslovovat „vy“, jako v rozhovoru. „My“ váš úřad polidští, přiblížíte se čtenáři. Zároveň bude jasné, kdo co má dělat. Nebojte se, z právního hlediska tomu nic nebrání. Ve světě je to běžné. Stačí to chvíli používat a zvyknete si:
 
-{{< nevhodne >}}
+{{% nevhodne %}}
 
 V případě, že nebude v uvedené lhůtě vada odstraněna, bude v souladu s § 66 odst. 1 písm. c) zákona č. 500/2004 Sb., správní řád, ve znění pozdějších předpisů, řízení zastaveno.
 
-{{< /nevhodne >}}
+{{% /nevhodne %}}
 
-{{< vhodne >}}
+{{% vhodne %}}
 
 Pokud v uvedené lhůtě vadu neodstraníte, řízení zastavíme \[podle § 66 odst. 1 písm. c) zákona č. 500/2004 Sb., správní řád].
 
-{{< /vhodne >}}
+{{% /vhodne %}}
 
 Všimněte si, jak vás „my“ nutí jít přímo k věci a „neschovávat se“ za 3. osobu:
 
-{{< nevhodne >}}
+{{% nevhodne %}}
 
 **Výzva k odstranění vad žádosti**
 
@@ -40,9 +40,9 @@ Z tohoto důvodu nadepsaný správní orgán ve smyslu § 45 odst. 2 zák. č. 5
 
 k odstranění vad žádosti.
 
-{{< /nevhodne >}}
+{{% /nevhodne %}}
 
-{{< vhodne >}}
+{{% vhodne %}}
 
 **Výzva k odstranění vad žádosti**
 
@@ -56,11 +56,11 @@ dne 3. října 2019 jste požádala Ministerstvo vnitra, odbor azylové a migra�
 
 Vysvětlíme Vám proč a co od Vás potřebujeme.
 
-{{< /vhodne >}}
+{{% /vhodne %}}
 
 Nebo ve správním řízení:
 
-{{< vhodne >}}
+{{% vhodne %}}
 
 Česká správa sociálního zabezpečení (dále „my“) rozhodla o žádosti o starobní důchod pana Františka Maliny, nar. 28. 6. 1957, bytem Jahodová 3, Ostružinov, (dále „Vy"),
 
@@ -68,22 +68,22 @@ takto:
 
 Podle § 31 odst. 1 písm. b) zákona č. 155/1995 Sb., o důchodovém pojištění, **Vám od 3. 9. 2020 přiznáváme starobní důchod ve výši 18 746 Kč měsíčně**.
 
-{{< /vhodne >}}
+{{% /vhodne %}}
 
 Sami za sebe – v ich-formě – pište dopisy nebo e-maily, které podepisujete. Například jste Anna Nováková a píšete dopis tajemníkům jiných úřadů:
 
-{{< nevhodne >}}
+{{% nevhodne %}}
 
 Podklady je nutno zaslat nejpozději do 20. 12. 2021 na Krajský úřad XY, odbor sociální, a to na anna.novakova@kraj.cz. Pro případné dotazy je kontaktní osobou Anna Nováková, 234 567 890, e-mail: anna.novakova@kraj.cz.
 
 S pozdravem Anna Nováková
 
-{{< /nevhodne >}}
+{{% /nevhodne %}}
 
-{{< vhodne >}}
+{{% vhodne %}}
 
 Podklady mi prosím pošlete do 20. 12. 2021 na anna.novakova@kraj.cz. S dotazy se obracejte na tutéž e-mailovou adresu, případně na můj telefon 234 567 890.
 
 S pozdravem Anna Nováková
 
-{{< /vhodne >}}
+{{% /vhodne %}}

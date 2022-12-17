@@ -10,8 +10,8 @@ Dávejte si pozor zejména na pojmenování svého úřadu: „Obecní úřad v 
 
 Stejně matoucí může být, pokud jednou použijeme český výraz a jindy cizí, i když chceme vyjádřit totéž:
 
-{{< nevhodne >}}
+{{% nevhodne %}}
 
 Stěžovatelka tvrdí, že původní důvod podání stížnosti není relevantní, protože za podstatný důvod považuje ten současný.
 
-{{< /nevhodne >}}
+{{% /nevhodne %}}

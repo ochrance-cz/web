@@ -14,11 +14,11 @@ To zhruba znamená, že na A4 s obvyklými okraji 2,5 cm pište písmem 12 bodů
 
 Pokud je řádek delší, špatně se nám pokračuje na začátek dalšího řádku, musíme ho hledat:
 
-{{< nevhodne >}}
+{{% nevhodne %}}
 
 ![Obrázek ukazuje nesnáze při čtení řádků přesahujících 110 znaků včetně mezer.](https://www.ochrance.cz/srozumitelne/naformatujte_text_prehledne/radek_120.png)
 
-{{< /nevhodne >}}
+{{% /nevhodne %}}
 
 ### Zarovnejte text vlevo, ne do bloku
 
@@ -26,11 +26,11 @@ Víme o tom, že na mnoha úřadech a soudech zarovnávat do bloku musíte, prot
 
 **Zaprvé, mnohem lépe se to čte.** Při zarovnání do bloku se totiž liší velikost mezer mezi slovy, což podle výzkumů zpomaluje čtení. Ve čtení ruší také svislé mezery v textu („řeky“), které vzniknou nahromaděním mezer pod sebou:
 
-{{< nevhodne >}}
+{{% nevhodne %}}
 
 ![Obrázek ukazuje popsané neduhy textu zarovnaného do bloku.](https://www.ochrance.cz/srozumitelne/naformatujte_text_prehledne/text-blok.png)
 
-{{< /nevhodne >}}
+{{% /nevhodne %}}
 
 **Zadruhé, zarovnání do bloku v běžném textovém editoru není profesionální.** Zvláště starší generace má někdy dojem, že zarovnání doleva je neprofesionální. Možná je to proto, že dříve uměli zarovnávat pouze profesionální sazeči, zatímco ostatní byli odkázáni na psací stroje, které zarovnávat do bloku neuměly. Teď je tomu zcela opačně. Zatímco textové editory umí běžně zarovnávat do bloku, zarovnání není profesionální, protože nedorovnává mezery mezi slovy a nezahlazuje „řeky“. Zarovnání do bloku proto nechte profesionálním sazečům pro sazbu knih či novin. Sami používejte to, co je nejlépe čitelné.
 

@@ -6,11 +6,11 @@ Lepší než zkratka, je obvykle **výstižný a krátký výraz**. Například 
 
 Píšeme především zkratky, které **jsou obecně známé**, například právě „OSPOD“. Za obecně známé zkratky považujeme ty, které používá i veřejnost nebo kterým přikládá stejný význam jako my na našem úřadu:
 
-{{< nevhodne >}}
+{{% nevhodne %}}
 
 Přineste si doklad o státním občanství (lze nahradit OP, CD).
 
-{{< /nevhodne >}}
+{{% /nevhodne %}}
 
 Většina lidí „OP“ zná, ale „CD“ nepoužívá, protože krátkým a výstižným názvem cestovního dokladu je „pas“, a protože je CD pro většinu lidí nosič hudby. Proto bude lepší napsat, „OP nebo pas“; případně „občanku nebo pas“.
 
@@ -20,22 +20,22 @@ Pokud zkratky **nejsou obecně známé**, používejte ty, které se dobře pama
 
 Opět, zvláště je-li jich v textu více. Například: „zákon č. 251/2005 Sb., o inspekci práce“ je lepší zkrátit jako
 
-{{< vhodne >}}
+{{% vhodne %}}
 
 zákon o inspekci práce
 
-{{< /vhodne >}}
+{{% /vhodne %}}
 
-{{< nevhodne >}}
+{{% nevhodne %}}
 
 zákon č. 251/2005 Sb.
 
-{{< /nevhodne >}}
+{{% /nevhodne %}}
 
 Pokud zkracujete úplným slovním názvem předpisu, nemusíte zavádět „zkratku“:
 
-{{< priklad >}}
+{{% priklad %}}
 
 Například u zákona č. 435/2004 Sb., o zaměstnanosti, nemusíte napsat „dále jen ‚zákon o zaměstnanosti‘“, protože se tak jmenuje. Po prvním použití úplného označení můžete rovnou používat „zákon o zaměstnanosti“.
 
-{{< /priklad >}}
+{{% /priklad %}}

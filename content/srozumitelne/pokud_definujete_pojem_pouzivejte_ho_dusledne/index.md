@@ -10,18 +10,18 @@ Není dobré psát „dále též ‚magistrát‘“, abyste mohli magistrát o
 
 Nejlepší tedy bude zavést definici jednoduše takto:
 
-{{< vhodne >}}
+{{% vhodne %}}
 
 Magistrát hlavního města Prahy („magistrát“)
 
-{{< /vhodne >}}
+{{% /vhodne %}}
 
 **Není třeba definici zavádět**, pokud je krátké označení samo o sobě jednoznačné a nehrozí záměna. Prostě píšeme dále o magistrátu (pokud se v textu nepíše o dvou různých magistrátech) nebo o nemocnici:
 
-{{< vhodne >}}
+{{% vhodne %}}
 
 Obdrželi jsme Vaši stížnost na péči, kterou Vám poskytla Nemocnice Zdravín. Abychom se stížností mohli zabývat, musíte nejprve podat stížnost na péči přímo nemocnici.
 
-{{< /vhodne >}}
+{{% /vhodne %}}
 
 **S definicemi šetřete**, je-li jich moc, musí si čtenář pamatovat dvojí sadu pojmů.

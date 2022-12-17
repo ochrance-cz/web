@@ -6,16 +6,16 @@ Příslovce se nadužívají. Důsledkem je, že je přestaneme vnímat. Mnoho l
 
 Například:
 
-{{< nevhodne >}}
+{{% nevhodne %}}
 
 Stavební úřad rozhodl obdobně o jiné žádosti stavebníka.
 
-{{< /nevhodne >}}
+{{% /nevhodne %}}
 
 Čtenář si musí vzpomenout, jak stavební úřad rozhodl a dosadit si informaci namísto „obdobně“.
 
-{{< vhodne >}}
+{{% vhodne %}}
 
 Stavební úřad zamítl i jinou žádost stavebníka.
 
-{{< /vhodne >}}
+{{% /vhodne %}}
