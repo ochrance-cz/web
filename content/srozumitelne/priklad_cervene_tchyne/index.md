@@ -1,5 +1,5 @@
 ---
-title: Příklad červené tchyně
+title: Případ červené tchyně
 ---
 Na příkladu si ukážeme, jak bychom postupovali při stavbě textu.
 
