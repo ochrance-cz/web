@@ -36,9 +36,9 @@ Zkusili jsme napsat rozhodnutí tak, aby mu paní Fialová snadno rozuměla.
 
 ### Ve výroku:
 
-#### Používali jsme „my“ a „vy“ (kapitola kkk)
+#### Používali jsme „my“ a „vy“ (kapitola [Pište čtenářům...](https://www.ochrance.cz/srozumitelne/piste_ctenarum_jako_byste_s_nimi_mluvili_pouzivejte_my_a_vy/) a [Správní rozhodnutí](https://www.ochrance.cz/srozumitelne/obecne_ke_spravnimu_rozhodnuti/))
 
-#### Psali jsme jen to, co vyžaduje zákon a zbytečně jsme se neopakovali (kapitola kkk)
+#### Psali jsme jen to, co vyžaduje zákon a zbytečně jsme se neopakovali (kapitola [Výroková část...](https://www.ochrance.cz/srozumitelne/vyrokova_cast_napiste_o_kterych_pravech_a_povinnostech_ucastniku_jste_rozhodovali_a_jak_jste_rozhodli/))
 
 {{% vhodne %}}
 
@@ -52,11 +52,11 @@ Městský úřad Krásné Obce (dále „my“) na návrh Františka Stavitele, 
 
 ### V odůvodnění:
 
-#### Podklady jsme uvedli věcně a stručně až při právním posouzení (kapitola kkk)
+#### Podklady jsme uvedli věcně a stručně až při právním posouzení (kapitola [Odůvodnění...](https://www.ochrance.cz/srozumitelne/oduvodneni_vysvetlete_proc_jste_rozhodli_prave_takto/))
 
 První odstavec odůvodnění (odstavec 4) můžete klidně vynechat. Obsahuje přehled všech dokumentů, které navrhovatel předložil. Většinu z nich však úřad nepotřeboval a při rozhodování je nepoužil. Ty, které použil, uvedeme u konkrétní podmínky, jejíž splnění prokazují.
 
-#### Sestavili jsme pro paní Fialovou právní pravidlo, podle kterého jsme rozhodli (kapitola kkk), a uvedli je na začátku (kapitola kkk)
+#### Sestavili jsme pro paní Fialovou právní pravidlo, podle kterého jsme rozhodli (kapitola [Právní pravidla...](https://www.ochrance.cz/srozumitelne/ujistete-se/)a [Odůvodnění...](https://www.ochrance.cz/srozumitelne/oduvodneni_vysvetlete_proc_jste_rozhodli_prave_takto/)), a uvedli je na začátku (kapitola [Jádro sdělení...](https://www.ochrance.cz/srozumitelne/jadro_sdeleni_napiste_na_zacatek/) a [Správní rozhodnutí](https://www.ochrance.cz/srozumitelne/obecne_ke_spravnimu_rozhodnuti/)[](https://www.ochrance.cz/srozumitelne/ujistete-se/)
 
 Úřad sice napsal, co vyplývá z § 12 odst. 1 písm. c) a odstavce 2 zákona o evidenci obyvatel, ale neudělal to příliš šikovně. Lepší by to bylo například takto:
 
@@ -72,7 +72,7 @@ První odstavec odůvodnění (odstavec 4) můžete klidně vynechat. Obsahuje p
 
 {{% /vhodne %}}
 
-#### Uvedli jsme jen ty věcné informace, které jsou pro vyřízení věci podstatné (kapitola kkk)
+#### Uvedli jsme jen ty věcné informace, které jsou pro vyřízení věci podstatné (kapitola  [Příběh...](https://www.ochrance.cz/srozumitelne/pribeh_sdelte_jen_dulezite_informace_zelena/))
 
 Pravidlo jsme již vysvětlili, proto nyní vybereme podstatné informace z příběhu a zhodnotíme je, a to vše v pořadí podmínek pro splnění pravidla. Zakončíme právním posouzením.
 
@@ -90,7 +90,7 @@ Po zrušení stavebního družstva získal navrhovatel byt do výlučného vlast
 
 ### V poučení
 
-#### Napsali jsme, co zákon vyžaduje, a doplnili praktická poučení (kapitola kkk)
+#### Napsali jsme, co zákon vyžaduje, a doplnili praktická poučení (kapitola [Poučení...](https://www.ochrance.cz/srozumitelne/pouceni_vysvetlete_adresatovi_co_muze_delat/))
 
 Podle zákona musíte paní Fialovou poučit o tom, že se může odvolat. Pokud jí chcete vysvětlit, co vaše rozhodnutí způsobí a co paní Fialová musí udělat, nepište to do odůvodnění, ale do poučení.
 
@@ -106,7 +106,7 @@ Také **musíte požádat o vydání nového občanského průkazu** do 15 praco
 
 {{% /vhodne %}}
 
-#### A vysvětlili jsme odborné termíny (kapitola kkk)
+#### A vysvětlili jsme odborné termíny (kapitola [Vysvětlete...](https://www.ochrance.cz/srozumitelne/vysvetlete_odborne_terminy_a_jine_pravni_pojmy_nez_je_zacnete_pouzivat_pokud_mate_za_to_ze_to_ctenari_pomuze/))
 
 Paní Fialová nejspíš nebude vědět, co znamená právní moc rozhodnutí a kdy nastane. Proto jí to musíte napsat. V tomto případě opakování nevadí, protože paní Fialová nemusí poučení číst celé. Je možné, že první odstavec s vysvětlením nedočte, proto bude vysvětlení k právní moci potřebovat i v tom dalším.   
 
@@ -147,8 +147,6 @@ Pokud nám neohlásíte své místo trvalého pobytu, **zapíšeme Vám jako mí
 Také **musíte požádat o vydání nového občanského průkazu** do 15 pracovních dnů po nabytí právní moci tohoto rozhodnutí, protože nabytím právní moci tohoto rozhodnutí skončí platnost Vašeho občanského průkazu. \[§ 11 odst. 1 písm. d) a § 14 odst. 1 písm. d) bod 9 zákona č. 328/1999 Sb., o občanských průkazech]
 
 {{% /vhodne %}}
-
-
 
 Odpověď na otázku, jak dlouho by vám trvalo přečíst všechny právní předpisy ČR, které se vás týkají:
 
