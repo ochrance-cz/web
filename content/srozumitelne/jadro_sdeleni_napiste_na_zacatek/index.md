@@ -8,7 +8,7 @@ Jádro sdělení je to, co vaše čtenáře bude zajímat nejvíc. Proto je form
 
 Máte několik možností, jak to udělat.
 
-#### Shrňte to podstatné
+### Shrňte to podstatné
 
 Čtenář bude vědět, na čem je, a zbytek dokumentu může číst jako vysvětlení vašeho shrnutí.
 
