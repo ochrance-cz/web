@@ -20,4 +20,4 @@ Chceme, aby tato příručka měla méně stránek, hlavně těch bez obrázků.
 
 Obvykle se v úředních textech setkáte s následující vatou:
 
-{{% sloupce "vata" %}}
+{{< sloupce "vata" >}}
