@@ -199,4 +199,19 @@ twocols:
       m﻿usí vás být nejvíce devět
     left-3: n﻿edrob!
     right-3: v﻿ezmi si talíř!
+  - id: cesty
+    type: yes-yes
+    left-1: "#### Co mohu dělat, když"
+    right-1: ""
+    left-2: >-
+      …soused nesouhlasí s tím, že cesta vedoucí přes jeho pozemek je veřejně
+      přístupná účelová komunikace?
+
+
+      …vlastníci okolních nemovitostí užívají můj pozemek jako cestu a mně se to nelíbí?
+    right-2: Obraťte se na silniční správní úřad s žádostí o určení existence či
+      neexistence veřejně přístupné účelové komunikace. Silniční správní úřad
+      rozhodne, zda je cesta veřejná nebo soukromá.
+    left-3: …soused umístil na cestu překážku a já nemohu projet?
+    right-3: Obraťte se na silniční správní úřad s žádostí o odstranění pevné překážky.
 ---
