@@ -97,11 +97,11 @@ Lidé jsou ochotni číst texty, u nichž předpokládaný užitek z informace 
 
 Pokud tedy budeme jako úředníci psát nesrozumitelně, lidé naše texty nebudou číst. Budou nám psát a volat. Jeden úředník, který uděluje pokuty za dopravní přestupky, nám řekl: „Já to napíšu, oni tomu nerozumí a pak volají, tím trávím dost času.“ Zbytečně.
 
-Správní řád stanoví, že veřejná správa je službou veřejnosti (§ 4 odst. 1). Službou svého druhu, protože nemá konkurenci. [^Incomprehensible2] Nemůžete se totiž sebrat a jít jinam, když se setkáte s nevstřícným či neschopným úředníkem. Jako úředníci tak často nevíme, jestli svou práci děláme dobře, a musíme se proto ptát sami sebe, co naše práce lidem přináší.
+Správní řád stanoví, že veřejná správa je službou veřejnosti (§ 4 odst. 1). Službou svého druhu, protože nemá konkurenci. [^Incomprehensible2](Tamtéž) Nemůžete se totiž sebrat a jít jinam, když se setkáte s nevstřícným či neschopným úředníkem. Jako úředníci tak často nevíme, jestli svou práci děláme dobře, a musíme se proto ptát sami sebe, co naše práce lidem přináší.
 
 [^Incomprehensible1]: Wagner, W., & Walker, W. (2019). Incomprehensible!: A Study of How Our Legal System Encourages Incomprehensibility, Why It Matters, and What We Can Do About It. Cambridge: Cambridge University Press. doi:10.1017/9781139051774
 
-[^Incomprehensible2]: Tamtéž
+[^Incomprehensible2]: Wagner, W., & Walker, W. (2019). Incomprehensible!: A Study of How Our Legal System Encourages Incomprehensibility, Why It Matters, and What We Can Do About It. Cambridge: Cambridge University Press. doi:10.1017/9781139051774
 
 #### Protože lidé, i odborníci, čtou raději srozumitelné texty
 
@@ -127,7 +127,7 @@ Velká Británie má jednotný vládní portál ([gov.uk](https://www.gov.uk/)),
 
 Ve Švédsku se musí psát srozumitelně i právní předpisy. Každý návrh musí schválit tým jazykových a právních expertů. Veřejné správě pak se srozumitelností pomáhá odborná komise, kterou zřídila vláda. Podle zkušeností vytvořili různé vzory, příručky, doporučení, školení a dokonce poradnu. Každoročně udělují cenu tomu, kdo se v úředních textech zaslouží o rozvoj běžné švédštiny.
 
-[^Kimble]: Joseph Kimble, Writing for Dollars, writing to Please; The case for plain language in business, government a nd law, Carolina Academic Press, 2012; [krácená verze](https://www.editorsoftware.com/wp-content/uploads/2021/03/kimble-writing-for-dollars-plain-english.pdf)
+[^Kimble]: Joseph Kimble, Writing for Dollars, writing to Please; The case for plain language in business, government and law, Carolina Academic Press, 2012; [krácená verze](https://www.editorsoftware.com/wp-content/uploads/2021/03/kimble-writing-for-dollars-plain-english.pdf)
 
 #### Zkrátka, protože srozumitelné texty šetří čas, peníze i nervy lidem i nám úředníkům
 
@@ -176,17 +176,3 @@ Srozumitelné psaní jde ze začátku proti našemu úřednímu já. Zvlášť p
 Ze zahraničních i domácích zkušeností víme, že za úspěšnými projekty srozumitelnosti stála vždy podpora vedení instituce, vždy to byla jedna z priorit firmy nebo úřadu. Bez podpory totiž nadšeným brzy dojde dech a váhaví se radši o nic nepokusí.
 
 Podpora vedení znamená, že 1) vedoucí podporují své podřízené, poskytují jim k nácviku čas, oceňují snahu a výsledky a 2) vedoucí sami srozumitelné psaní cvičí. Jen tak vědí, jak srozumitelné psaní vypadá, a mohou ho vyžadovat po podřízených.
-
-
-
-
-
-Tamtéž
-
-
-
-Tamtéž.
-
-
-
-https://www.gov.uk/guidance/content-design/writing-for-gov-uk
