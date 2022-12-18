@@ -29,9 +29,9 @@ Exekuce nemůže začít bez takzvaného exekučního titulu. Nejčastěji jde o
 
 {{% /vhodne %}}
 
-Pokud máte za to, že ani vaše vysvětlení čtenáři stačit nebude, můžete připojit příklad, na kterém si čtenář představí, jak odborný termín či koncept funguje v praxi (více v kapitole [Složitá témata vysvětlete na příkladech](https://www.ochrance.cz/srozumitelne/slozita_temata_vysvetlete_na_prikladech/)).
+Pokud máte za to, že ani vaše vysvětlení čtenáři stačit nebude, můžete připojit příklad, na kterém si čtenář představí, jak odborný termín či koncept funguje v praxi (více v kapitole [Složitá témata...](https://www.ochrance.cz/srozumitelne/slozita_temata_vysvetlete_na_prikladech/)).
 
-Je-li v textu více odborných termínů, které budete soustavně používat, můžete napsat na začátek či konec textu jejich **seznam**. Dobře to však zvažte, protože pak bude čtenář muset vyhledávat význam termínu jinde v textu a nebude moci číst plynule (více o odkazech na jiný text v kapitole Odkazy...).
+Je-li v textu více odborných termínů, které budete soustavně používat, můžete napsat na začátek či konec textu jejich **seznam**. Dobře to však zvažte, protože pak bude čtenář muset vyhledávat význam termínu jinde v textu a nebude moci číst plynule (více o odkazech na jiný text v kapitole [Odkazy, ...](https://www.ochrance.cz/srozumitelne/odkazy_poznamky_pod_carou_a_citace_rusi_plynulost_textu_piste_je_tam_kde_rusi_nejmene/)).
 
 ### Neurčité právní pojmy
 
