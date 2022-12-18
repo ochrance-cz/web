@@ -112,7 +112,7 @@ Komunikace (cesta) je veřejně přístupná, pokud její vlastník souhlasil s 
 
 ### Právní pravidlo pro čtenáře sestavte (ustanovení právních předpisů a judikatury převyprávějte)
 
-Pokud je právní pravidlo jednoduché, stačí je napsat tak, jak je vyjadřuje právní úprava:
+Pokud je právní pravidlo jednoduché, stačí je napsat tak, jak je vyjadřuje právní úprava: 
 
 {{% pravni %}}
 
