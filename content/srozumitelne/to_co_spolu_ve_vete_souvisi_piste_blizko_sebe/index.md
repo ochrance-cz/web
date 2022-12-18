@@ -12,7 +12,7 @@ Podle rozhodnutí nese nepříznivé následky toho, že se nepodařilo doložit
 
 {{% /nevhodne %}}
 
-Podmět věty hlavní, „žalobce“, najdeme na samém konci věty. Přísudek, „nese“, je třetím slovem věty. Mezi nimi je 24 slov. Na ně se však nemůžeme soustředit, protože stále podvědomě hledáme toho, kdo nese následky. V tom jsme jako poručík Columbo: dokud nevíme, kdo to udělal, nepřestaneme ho hledat. Proto pište podmět a přísudek blízko sebe, a pokud tím neporušíte plynulost textu (kapitola 8), na začátek věty:
+Podmět věty hlavní, „žalobce“, najdeme na samém konci věty. Přísudek, „nese“, je třetím slovem věty. Mezi nimi je 24 slov. Na ně se však nemůžeme soustředit, protože stále podvědomě hledáme toho, kdo nese následky. V tom jsme jako poručík Columbo: dokud nevíme, kdo to udělal, nepřestaneme ho hledat. Proto pište podmět a přísudek blízko sebe, a pokud tím neporušíte plynulost textu (kapitola [Pište plynule...](https://www.ochrance.cz/srozumitelne/piste_plynule_cim_vetu_ci_odstavec_koncite_tim_v_dalsi_vete_ci_odstavci_navazte/)), na začátek věty: 
 
 {{% vhodne %}}
 
