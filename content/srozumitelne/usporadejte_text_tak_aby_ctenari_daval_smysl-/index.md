@@ -4,7 +4,7 @@ num: 12
 ---
 V některých písemnostech je základní osnova daná. Například ve správním rozhodnutí nejdříve napíšete výrok, pak odůvodnění a nakonec hodnocení. V jiných písemnostech si celou strukturu stavíte sami.
 
-Pokud se řídíte pravidly této příručky, už víte, komu píšete a čeho chcete dosáhnout. Už víte, co chcete sdělit a co sdělovat nemusíte. Pokud jste postupovali podle metody z šílence soudcem, napsali jste na papír všechno, co vás napadlo, a vyškrtali to, co sdělit nepotřebujete. Teď budete architektem a napíšete plán, osnovu sdělení.
+Pokud se řídíte pravidly této příručky, už víte, komu píšete a čeho chcete dosáhnout. Už víte, co chcete sdělit a co sdělovat nemusíte. Pokud jste postupovali podle metody [z šílence soudcem](https://www.ochrance.cz/srozumitelne/strukturu_textu_si_promyslete_predem/), napsali jste na papír všechno, co vás napadlo, a vyškrtali to, co sdělit nepotřebujete. Teď budete architektem a napíšete plán, osnovu sdělení.
 
 Ptáte se, jak by čtenář asi o sdělení uvažoval. Podle toho budete psát. Například můžete postupovat chronologicky, nebo po tématech.
 
