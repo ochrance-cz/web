@@ -12,7 +12,7 @@ Pokud jste si nechal zablokovat eObčanku, musíte zažádat o novou do 15 dnů.
 
 {{% vhodne %}}
 
-Pokud máte zablokovanou eObčanku, musíte zažádat o novou do 15 dnů.{{% vhodne %}}
+Pokud máte zablokovanou eObčanku, musíte zažádat o novou do 15 dnů.
 
 {{% /vhodne %}}
 
