@@ -201,7 +201,7 @@ twocols:
     right-3: v﻿ezmi si talíř!
   - id: cesty
     type: yes-yes
-    left-1: "#### Co mohu dělat, když"
+    left-1: "**Co mohu dělat, když**"
     right-1: ""
     left-2: >-
       …soused nesouhlasí s tím, že cesta vedoucí přes jeho pozemek je veřejně
