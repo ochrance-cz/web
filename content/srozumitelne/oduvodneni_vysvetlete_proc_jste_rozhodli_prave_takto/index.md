@@ -18,7 +18,7 @@ Podle § 68 odst. 3 správního řádu musí odůvodnění obsahovat:
 * úvahy, kterými jste se řídili při hodnocení podkladů a při výkladu právních předpisů,
 * informace o tom, jak jste se vypořádali s návrhy a námitkami účastníků a s jejich vyjádřením k podkladům rozhodnutí.
 
-V kapitole kkk jsme vysvětlili, že v úředních textech sdělujete zpravidla pět typů informací: 1. právní pravidlo, 2. příběh (věcné informace), 3. právní posouzení (vaše právní hodnocení věci), 4. průvodní informace (procesní a organizační), 5. pokyny čtenáři (rady a doporučení).
+V kapitole [Uvědomte si... (5P)](https://www.ochrance.cz/srozumitelne/podstatne/) jsme vysvětlili, že v úředních textech sdělujete zpravidla pět typů informací: 1. právní pravidlo, 2. příběh (věcné informace), 3. právní posouzení (vaše právní hodnocení věci), 4. průvodní informace (procesní a organizační), 5. pokyny čtenáři (rady a doporučení). 
 
 V odůvodnění jsou důležité první tři:
 
@@ -30,7 +30,7 @@ Informace o tom, jak jste se vypořádali s návrhy, námitkami či vyjádření
 
 Proč to připomínáme? Protože je pro přehlednost důležité, abyste je dostatečně oddělili. Tak se ujistíte, že jste skutkovým důvodům vymezili jasný a přesvědčivý právní rámec a zároveň, že uvádíte jen podstatné skutkové důvody a podklady, o které se opíráte.
 
-Obvykle bývá přehledné, pokud **nejprve vysvětlíte právní pravidlo** a teprve pak je použijete na příběh a právně posoudíte. Připomeňme si příklad z kapitoly kkk:
+Obvykle bývá přehledné, pokud **nejprve vysvětlíte právní pravidlo** a teprve pak je použijete na příběh a právně posoudíte. Připomeňme si příklad z kapitoly [Právní posouzení...](https://www.ochrance.cz/srozumitelne/pravni_posouzeni_jak_se_pravni_pravidla_pouziji_v_konkretnim_pribehu_cervena/):
 
 {{% vhodne %}}
 
@@ -56,7 +56,7 @@ Proto jsme Vaši žádost o prodloužení povolení k dlouhodobému pobytu za ú
 
 ### Uveďte (popřípadě sestavte) právní pravidla, podle kterých jste rozhodli, a vysvětlete je
 
-Připomeňme si příklad z kapitoly kkk. V první variantě odůvodnění úřad nevymezil právní pravidlo, což v tomto krátkém případě nevadí, protože si je čtenář domyslí. Ve složitější věci však může být obtížné si právní rámec domyslet a odůvodnění pak nemusí být přesvědčivé a v krajním případě může být dokonce nepřezkoumatelné.
+Připomeňme si příklad z kapitoly [Průvodní informace...](https://www.ochrance.cz/srozumitelne/pruvodni_informace_piste_jen_ty_podstatne_a_co_nejstrucneji_oranzova/) V první variantě odůvodnění úřad nevymezil právní pravidlo, což v tomto krátkém případě nevadí, protože si je čtenář domyslí. Ve složitější věci však může být obtížné si právní rámec domyslet a odůvodnění pak nemusí být přesvědčivé a v krajním případě může být dokonce nepřezkoumatelné.
 
 {{% priklad %}}
 
