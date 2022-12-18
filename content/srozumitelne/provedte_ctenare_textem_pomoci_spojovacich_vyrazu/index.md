@@ -4,7 +4,7 @@ num: 49
 ---
 Spojovací výrazy slouží čtenáři jako rozcestníky a informační tabule. Díky nim čtenář ví, kde v textu je a kam jde. Zatímco v mluveném projevu je používáme zcela přirozeně, v psaném textu se jich bojíme. Přitom jsou pro čtenáře tak přínosné.
 
-{{% sloupce "spojovaci" %}}
+{{< sloupce "spojovaci" >}}
 
 Zvýraznili jsme spojovací výrazy:
 
