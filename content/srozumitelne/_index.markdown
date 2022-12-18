@@ -60,6 +60,16 @@ chapters:
   - chapter: ctete_po_sobe/index
   - chapter: poproste_nekoho_jineho_at_si_text_precte/index
   - chapter: otestujte_pisemnosti_ktere_maji_siroky_dosah/index
+  - chapter: obecne_ke_spravnimu_rozhodnuti/index
+  - chapter: vyrokova_cast_napiste_o_kterych_pravech_a_povinnostech_ucastniku_jste_rozhodovali_a_jak_jste_rozhodli/index
+  - chapter: oduvodneni_vysvetlete_proc_jste_rozhodli_prave_takto/index
+  - chapter: pouceni_vysvetlete_adresatovi_co_muze_delat/index
+  - chapter: priklad_v_nemz_uplatnime_pravidla_teto_kapitoly_i_obecne_casti_prirucky/index
+  - chapter: vyzva_k_odstraneni_vad_podani/index
+  - chapter: formulare/index
+  - chapter: letaky/index
+  - chapter: uredni_informace_na_webu/index
+  - chapter: prepsane_pisemnosti/index
 textcontent:
   - before: proc/index
     text: "## 1. část — Co je srozumitelný úřední text"
