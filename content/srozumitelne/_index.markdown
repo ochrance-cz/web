@@ -75,7 +75,10 @@ chapters:
   - chapter: prepsane_pisemnosti/index
 textcontent:
   - before: proc/index
-    text: "## 1. část — Co je srozumitelný úřední text"
+    text: |-
+      V﻿erze příručky k tisku (PDF) zde bude ke stažení nejpozději v únoru 2023.
+
+      ## 1. část — Co je srozumitelný úřední text
   - before: co-a-komu/index
     text: >-
       ## 2. část — Psaní úředních textů obecně
