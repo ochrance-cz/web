@@ -106,11 +106,7 @@ textcontent:
 
       Jak na to:
   - before: strukturu_textu_si_promyslete_predem/index
-    text: >-
-      ### J﻿ak text uspořádám?
-
-
-      Psaní je jako skládání LEGO podle vlastního návodu. Nejdřív musíte vědět, co chcete postavit, abyste věděli, jaké kostky vybrat a kde začít. Když začnete stavět a nevíte co, možná své dílo dokončíte, ale pravděpodobně ho budete několikrát předělávat, spotřebujete mnoho zbytečných kostek, něco se někde rozpadne. Stejně je to s úředním textem.
+    text: "### J﻿ak text uspořádám?"
   - before: piste_se_slovesy/index
     text: >-
       ### J﻿ak psát: Slova a výrazy obecně
@@ -129,14 +125,21 @@ textcontent:
   - before: piste_ctenarum_jako_byste_s_nimi_mluvili_pouzivejte_my_a_vy/index
     text: "### J﻿ak psát: Slova a výrazy v úředním textu"
   - before: piste_kratke_vety/index
-    text: >-
-      ### J﻿ak psát: Věty
-
-
-      Čtenář v krátkodobé paměti udrží pouze 8–20 vteřin textu, to je zhruba 2–5 jednoduchých vět. Čím méně známé téma a složitější sdělení, tím méně textu udrží. Pokud mu myšlenku v těchto 8-20 vteřinách nezvládnete sdělit, je to jako kdybyste neřekli nic. Posluchač bude chtít, abyste mu sdělení opakovali, čtenář bude muset číst text znovu. Nebo čtení vzdá.
+    text: "### J﻿ak psát: Věty"
+  - text: >-
+      Čtenář v krátkodobé paměti udrží pouze 8–20 vteřin textu, to je zhruba 2–5
+      jednoduchých vět. Čím méně známé téma a složitější sdělení, tím méně textu
+      udrží. Pokud mu myšlenku v těchto 8-20 vteřinách nezvládnete sdělit, je to
+      jako kdybyste neřekli nic. Posluchač bude chtít, abyste mu sdělení
+      opakovali, čtenář bude muset číst text znovu. Nebo čtení vzdá.
 
 
       Proto pište tak, aby čtenář pochopil větu po prvním čtení. Jak na to?
+    before: sdelte_nejprve_jadro_rozvijejte_je_v_dalsich_vetach/index
+  - before: provedte_ctenare_textem/index
+    text: "### J﻿ak psát: plynulost textu"
+  - before: pokud_jste_neco_zkazili_omluvte_se/index
+    text: "### J﻿ak psát: Podtext (tón)"
   - before: ctete_po_sobe/index
     text: "### N﻿akonec se ujistěte, že jste sdělili, co jste chtěli, a že jste
       psali pro svého čtenáře"
