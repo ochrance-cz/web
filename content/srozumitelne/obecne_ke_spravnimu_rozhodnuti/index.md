@@ -1,6 +1,25 @@
 ---
-title: Obecně ke správnímu rozhodnutí
+title: Správní rozhodnutí
 ---
+Správní rozhodnutí je královská disciplína úředního psaní. I zde platí pravidla, která jsme popisovali v obecné části příručky, platí však i pravidla další, která představíme v této kapitole. Abyste se v tom vyznali, rozdělili jsme kapitolu tak, že nejprve popíšeme pravidla pro psaní správních rozhodnutí obecně (kapitola), pak pravidla pro psaní výrokové části (kapitola), odůvodnění (kapitola) a poučení (kapitola) a nakonec na příkladu provážeme nová pravidla s obecnou částí (kapitola).
+
+Podstatné přitom budou dva předpoklady, ze kterých vycházíme:
+
+### Srozumitelné rozhodnutí je vždy přezkoumatelné
+
+Přezkoumatelnost a srozumitelnost není totéž.
+
+Nepřezkoumatelné je buď rozhodnutí, v němž úřad nevysvětlil důvody svého rozhodnutí (tzv. nedostatek důvodů), nebo rozhodnutí, které je nesrozumitelné tím, že:
+
+* z výroku nelze zjistit, jak úřad rozhodl, nebo
+* smysl odůvodnění nepochopí ani úředníci či soudci, přestože použijí své vědomosti, zkušenosti a rozumové schopnosti.
+
+Srozumitelné je rozhodnutí napsané srozumitelně: má přehlednou logickou stavbu a je napsané jazykem, kterému jeho adresát porozumí a může podle něj jednat. Je z něj patrné, o čem pisatel rozhodl a proč tak rozhodl. To předpokládá, že úřad rozhodl jasně a jednoznačně a že vysvětlil proč (vysvětlil důvody, které ho k rozhodnutí vedly). Takové rozhodnutí je pak z povahy věci vždy přezkoumatelné (i když pochopitelně nemusí být věcně správné). Zároveň splňuje vyšší nároky, protože mu musí porozumět nejen právní profesionál, ale i průměrný adresát.
+
+### Nadbytečné škodí, ne naopak
+
+Obavu z nepřezkoumatelnosti rozhodnutí mnozí úředníci řeší tak, že v odůvodnění uvedou úplně všechno, aby jim snad nic nechybělo. Citují všechna použitá ustanovení právních předpisů, kopírují podklady ze správního spisu, podrobně popisují předchozí procesní postup. Často však s vaničkou vylijí dítě, protože rozhodnutí může být v extrémním případě tak zahlcené zbytečnostmi, že je nesrozumitelné i pro právní profesionály, a proto nepřezkoumatelné. Pokud víme, co chceme sdělit a proč, zbytečnosti nepotřebujeme.
+
 ### Hlavním adresátem správního rozhodnutí je účastník řízení
 
 Správní rozhodnutí má několik čtenářů: účastníka nebo účastníky řízení, přezkumný orgán (případně správní soud) a podřízený úřad (v případě opravných prostředků). Pro koho tedy píšeme?
