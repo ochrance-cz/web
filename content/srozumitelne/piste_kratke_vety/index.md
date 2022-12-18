@@ -16,7 +16,7 @@ Městský úřad v Horní Dolní (dále jen „městský úřad“) obdržel dne
 
 Pokud nejste protřelý úředník, nejlépe s přestupkovou praxí, tak souvětí napoprvé nepochopíte. Je delší než 20 vteřin a obsahuje několik myšlenek.
 
-Stačí, když souvětí rozdělíte (4 věty, 63 slov). Můžete také vypustit zkratky (více o zkratkách v kapitole).
+Stačí, když souvětí rozdělíte (4 věty, 63 slov). Můžete také vypustit zkratky (více o zkratkách v kapitole [Zkratky...](https://www.ochrance.cz/srozumitelne/zkratky_pouzivejte_pokud_usnadni_cteni_ne_pokud_si_tim_jen_kratite_psani/)).
 
 {{% vhodne %}}
 
