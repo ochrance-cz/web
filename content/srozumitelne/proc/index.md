@@ -93,17 +93,23 @@ Srozumitelný je podle nás text, který je přehledný, úplný a přitom napsa
 
 Kdysi jsme měli málo informací, dnes je jich příliš. Proto můžeme vstřebat jen ty, kterým porozumíme. Nesnažme se tedy předat všechny informace, které máme, ale předejme čtenáři informace srozumitelně tak, aby pro něj byly užitečné. Jinak nám čtenář může porozumět špatně nebo čtení vzdá.
 
-Lidé jsou ochotni číst texty, u nichž předpokládaný užitek z informace převáží náklady na její zpracování.\[<!--[if !supportFootnotes]-->\[1]<!--\\[endif]-->](#_ftn1) Záleží na motivaci čtenáře. Ta bude vysoká, pokud dostane například výzvu k doplnění náležitostí žádosti o stavební povolení. Naopak nízká bude u rozhodnutí, jímž mu úřad přizná rodičovský příspěvek, pokud je spokojen s jeho výší. Přitom platí jednoduché pravidlo. Informace je nesrozumitelná, pokud bude úsilí vložené do zpracování informace vyšší než užitek, který očekáváme.
+Lidé jsou ochotni číst texty, u nichž předpokládaný užitek z informace převáží náklady na její zpracování. [^Incomprehensible1] Záleží na motivaci čtenáře. Ta bude vysoká, pokud dostane například výzvu k doplnění náležitostí žádosti o stavební povolení. Naopak nízká bude u rozhodnutí, jímž mu úřad přizná rodičovský příspěvek, pokud je spokojen s jeho výší. Přitom platí jednoduché pravidlo. Informace je nesrozumitelná, pokud bude úsilí vložené do zpracování informace vyšší než užitek, který očekáváme.
 
 Pokud tedy budeme jako úředníci psát nesrozumitelně, lidé naše texty nebudou číst. Budou nám psát a volat. Jeden úředník, který uděluje pokuty za dopravní přestupky, nám řekl: „Já to napíšu, oni tomu nerozumí a pak volají, tím trávím dost času.“ Zbytečně.
 
-Správní řád stanoví, že veřejná správa je službou veřejnosti (§ 4 odst. 1). Službou svého druhu, protože nemá konkurenci.\[<!--[if !supportFootnotes]-->\[2]<!--\\[endif]-->](#_ftn2) Nemůžete se totiž sebrat a jít jinam, když se setkáte s nevstřícným či neschopným úředníkem. Jako úředníci tak často nevíme, jestli svou práci děláme dobře, a musíme se proto ptát sami sebe, co naše práce lidem přináší.
+Správní řád stanoví, že veřejná správa je službou veřejnosti (§ 4 odst. 1). Službou svého druhu, protože nemá konkurenci. [^Incomprehensible2] Nemůžete se totiž sebrat a jít jinam, když se setkáte s nevstřícným či neschopným úředníkem. Jako úředníci tak často nevíme, jestli svou práci děláme dobře, a musíme se proto ptát sami sebe, co naše práce lidem přináší.
+
+[^Incomprehensible1]: Wagner, W., & Walker, W. (2019). Incomprehensible!: A Study of How Our Legal System Encourages Incomprehensibility, Why It Matters, and What We Can Do About It. Cambridge: Cambridge University Press. doi:10.1017/9781139051774
+
+[^Incomprehensible2]: Tamtéž
 
 #### Protože lidé, i odborníci, čtou raději srozumitelné texty
 
-Podle výzkumů přes 80 % lidí dává přednost srozumitelnému, běžnému jazyku.\[<!--[if !supportFootnotes]-->\[3]<!--\\[endif]-->](#_ftn3)
+Podle výzkumů přes 80 % lidí dává přednost srozumitelnému, běžnému jazyku. [^blogGDS1] I odborníci čtou raději srozumitelný jazyk. Dokonce platí, že čím vzdělanější člověk a čím více odborných znalostí má, tím více ocení srozumitelný, běžný jazyk. Vzdělaní lidé totiž sice rozumí i složitému odbornému jazyku, ale nechtějí ho číst, pokud si mohou vybrat.[^blogGDS2] Je to proto, že zpravidla čtou nejvíce a nemají čas luštit zapeklité texty.
 
-I odborníci čtou raději srozumitelný jazyk. Dokonce platí, že čím vzdělanější člověk a čím více odborných znalostí má, tím více ocení srozumitelný, běžný jazyk. Vzdělaní lidé totiž sice rozumí i složitému odbornému jazyku, ale nechtějí ho číst, pokud si mohou vybrat.\[<!--[if !supportFootnotes]-->\[4]<!--\\[endif]-->](#_ftn4) Je to proto, že zpravidla čtou nejvíce a nemají čas luštit zapeklité texty.
+[^blogGDS1]: Například blog [Government Digital Service](https://gds.blog.gov.uk/2014/02/17/guest-post-clarity-is-king-the-evidence-that-reveals-the-desperate-need-to-re-think-the-way-we-write/), 17. 2. 2014
+
+[^blogGDS2]: Například blog [Government Digital Service](https://gds.blog.gov.uk/2014/02/17/guest-post-clarity-is-king-the-evidence-that-reveals-the-desperate-need-to-re-think-the-way-we-write/), 17. 2. 2014
 
 #### Protože lidé rozumí psaným textům mnohem méně, než si myslíte
 
@@ -115,11 +121,13 @@ Jakmile jsme přepsali své „úřednické“ letáky, připadaly lidem mnohem 
 
 Srozumitelnost se v zahraničí zkoumá už celá desetiletí. Nejen ve veřejné správě, ale i v byznysu. Právě tam vznikly první výzkumy a pokusy psát srozumitelně. Kvůli silnějšímu postavení spotřebitele totiž firmy brzy pochopily, že nesrozumitelné návody, dlouhé obchodní podmínky, či zavádějící popisy výrobků je vyjdou draho. Od nich se pak učila i veřejná správa.
 
-Například ve státě Washington zjednodušili dopis, který lidem sděloval, že přišli o řidičský průkaz, a vytíženost informační linky se snížila o 95 %. Nebo zjednodušili formulář k dani z prodeje, a dobrovolný odvod daně se třikrát zvýšil. Americký úřad pro veterány vypočítal, že po zjednodušení jednoho z formulářů ubylo dotazů veteránů a ušetřilo se tím 5 mil. USD ročně.\[<!--[if !supportFootnotes]-->\[5]<!--\\[endif]-->](#_ftn5)
+Například ve státě Washington zjednodušili dopis, který lidem sděloval, že přišli o řidičský průkaz, a vytíženost informační linky se snížila o 95 %. Nebo zjednodušili formulář k dani z prodeje, a dobrovolný odvod daně se třikrát zvýšil. Americký úřad pro veterány vypočítal, že po zjednodušení jednoho z formulářů ubylo dotazů veteránů a ušetřilo se tím 5 mil. USD ročně. [^Kimble]
 
-Velká Británie má jednotný vládní portál ([gov.uk](https://www.gov.uk/)), který obsahuje rozcestník pro různé životní situace. Člověk tak vše, co potřebuje, najde na jednom místě, přehledně strukturované a v běžné angličtině. Britové na svém webu nabádají, abychom psali jako pro devítileté děti.\[<!--[if !supportFootnotes]-->\[6]<!--\\[endif]-->](#_ftn6)
+Velká Británie má jednotný vládní portál ([gov.uk](https://www.gov.uk/)), který obsahuje rozcestník pro různé životní situace. Člověk tak vše, co potřebuje, najde na jednom místě, přehledně strukturované a v běžné angličtině. Britové na svém webu [nabádají](https://www.gov.uk/guidance/content-design/writing-for-gov-uk), abychom psali jako pro devítileté děti.
 
 Ve Švédsku se musí psát srozumitelně i právní předpisy. Každý návrh musí schválit tým jazykových a právních expertů. Veřejné správě pak se srozumitelností pomáhá odborná komise, kterou zřídila vláda. Podle zkušeností vytvořili různé vzory, příručky, doporučení, školení a dokonce poradnu. Každoročně udělují cenu tomu, kdo se v úředních textech zaslouží o rozvoj běžné švédštiny.
+
+[^Kimble]: Joseph Kimble, Writing for Dollars, writing to Please; The case for plain language in business, government a nd law, Carolina Academic Press, 2012; [krácená verze](https://www.editorsoftware.com/wp-content/uploads/2021/03/kimble-writing-for-dollars-plain-english.pdf)
 
 #### Zkrátka, protože srozumitelné texty šetří čas, peníze i nervy lidem i nám úředníkům
 
@@ -168,3 +176,17 @@ Srozumitelné psaní jde ze začátku proti našemu úřednímu já. Zvlášť p
 Ze zahraničních i domácích zkušeností víme, že za úspěšnými projekty srozumitelnosti stála vždy podpora vedení instituce, vždy to byla jedna z priorit firmy nebo úřadu. Bez podpory totiž nadšeným brzy dojde dech a váhaví se radši o nic nepokusí.
 
 Podpora vedení znamená, že 1) vedoucí podporují své podřízené, poskytují jim k nácviku čas, oceňují snahu a výsledky a 2) vedoucí sami srozumitelné psaní cvičí. Jen tak vědí, jak srozumitelné psaní vypadá, a mohou ho vyžadovat po podřízených.
+
+
+
+
+
+Tamtéž
+
+
+
+Tamtéž.
+
+
+
+https://www.gov.uk/guidance/content-design/writing-for-gov-uk
