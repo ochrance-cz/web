@@ -128,15 +128,15 @@ Pokud je však pravidlo složitější, například:
 vysvětlete čtenáři právní pravidlo tak, aby rozuměl:
 
 * jak právní pravidlo v dané věci funguje a
-* co znamenají výrazy, které pravidlo obsahuje, například odborné termíny či neurčité právní pojmy (více v kapitole).
+* co znamenají výrazy, které pravidlo obsahuje, například odborné termíny či neurčité právní pojmy (více v kapitole [Vysvětlete odborné termíny...](https://www.ochrance.cz/srozumitelne/vysvetlete_odborne_terminy_a_jine_pravni_pojmy_nez_je_zacnete_pouzivat_pokud_mate_za_to_ze_to_ctenari_pomuze/)).
 
 V našem příkladu o přijetí do školky jsme vysvětlili právní pravidlo. Odkaz na příslušná ustanovení právních předpisů jsme napsali do poznámky pod čarou:
 
 {{% pravni %}}
 
-K předškolnímu vzdělávání smí ředitel MŠ přijmout pouze dítě, které se podrobilo všem stanoveným pravidelným očkováním nebo které má doklad, že je proti nákaze imunní, nebo které se nemůže očkování podrobit, protože má doklad o tom, že mu zdravotní stav brání v podání očkovací látky (trvalá kontraindikace).[^zakon]
+K předškolnímu vzdělávání smí ředitel MŠ přijmout pouze dítě, které se podrobilo všem stanoveným pravidelným očkováním nebo které má doklad, že je proti nákaze imunní, nebo které se nemůže očkování podrobit, protože má doklad o tom, že mu zdravotní stav brání v podání očkovací látky (trvalá kontraindikace).*
 
-[^zakon]: § 34 odst. 5 školského zákona: „Při přijímání dětí k předškolnímu vzdělávání je třeba dodržet podmínky stanovené zvláštním právním předpisem.“ Tím je zákon o ochraně veřejného zdraví; § 50: Mateřská škola může „přijmout pouze dítě, které se podrobilo stanoveným pravidelným očkováním, má doklad, že je proti nákaze imunní nebo se nemůže očkování podrobit pro trvalou kontraindikaci“, Pojem trvalá kontraindikace vykládá § 46 odst. 2 zákona o ochraně veřejného zdraví: „Pravidelné \[…] očkování se neprovede při \[…] zjištění zdravotního stavu, který brání podání očkovací látky (trvalá kontraindikace).“
+\* § 34 odst. 5 školského zákona: „Při přijímání dětí k předškolnímu vzdělávání je třeba dodržet podmínky stanovené zvláštním právním předpisem.“ Tím je zákon o ochraně veřejného zdraví; § 50: Mateřská škola může „přijmout pouze dítě, které se podrobilo stanoveným pravidelným očkováním, má doklad, že je proti nákaze imunní nebo se nemůže očkování podrobit pro trvalou kontraindikaci“, Pojem trvalá kontraindikace vykládá § 46 odst. 2 zákona o ochraně veřejného zdraví: „Pravidelné \[…] očkování se neprovede při \[…] zjištění zdravotního stavu, který brání podání očkovací látky (trvalá kontraindikace).“
 
 {{% /pravni %}}
 
@@ -152,8 +152,8 @@ Nebo:
 
 {{% pravni %}}
 
-Aby byla komunikace veřejně přístupná, nestačí, že její vlastník souhlasí s tím, aby ji užíval konkrétně určený okruh osob (například sousedé), ale – podle rozhodnutí soudů – musí souhlasit i s jejím obecným užíváním, tedy s tím, aby „cestu užíval blíže neurčený okruh osob (tj. veřejnost)“.[^rozsudek]
+Aby byla komunikace veřejně přístupná, nestačí, že její vlastník souhlasí s tím, aby ji užíval konkrétně určený okruh osob (například sousedé), ale – podle rozhodnutí soudů – musí souhlasit i s jejím obecným užíváním, tedy s tím, aby „cestu užíval blíže neurčený okruh osob (tj. veřejnost)“.*
 
-[^rozsudek]: Např. rozsudek Nejvyššího správního soudu ze dne 30. 11. 2015, č. j. 6 As 213/2015-14, č. 3371/2016 Sb. NSS, dostupný na www.nssoud.cz
+\*Např. rozsudek Nejvyššího správního soudu ze dne 30. 11. 2015, č. j. 6 As 213/2015-14, č. 3371/2016 Sb. NSS, dostupný na www.nssoud.cz
 
 {{% /pravni %}}
