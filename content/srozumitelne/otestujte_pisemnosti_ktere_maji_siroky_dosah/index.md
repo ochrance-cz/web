@@ -61,7 +61,7 @@ Sami jsme dosud testovali šestkrát:
 * vzorové poučení správního rozhodnutí – exekučního příkazu postihujícího účet v bance,
 * formulář žádosti o mimořádnou okamžitou pomoc.
 
-V případě letáků a rozhodnutí jsme testujícím předložili písemnost a test. Kromě věcných otázek nás zajímalo, zda již danému tématu rozumějí, a zjišťovali jsme, jak vnímají srozumitelnost letáku a náročnost testu (na škále 1–5). Požádali jsme je také, aby označili problematická místa letáků i testů. Měřili jsme čas. Potom jsme s nimi mluvili. Někdy jednotlivě, s klienty nevládních organizací hromadně. Jeden z testů najdete zde (navrhuji dát jim odkaz třeba na poslední test k dávkám na bydlení).
+V případě letáků a rozhodnutí jsme testujícím předložili písemnost a test. Kromě věcných otázek nás zajímalo, zda již danému tématu rozumějí, a zjišťovali jsme, jak vnímají srozumitelnost letáku a náročnost testu (na škále 1–5). Požádali jsme je také, aby označili problematická místa letáků i testů. Měřili jsme čas. Potom jsme s nimi mluvili. Někdy jednotlivě, s klienty nevládních organizací hromadně. [Příklad testu srozumitelnosti](https://www.ochrance.cz/uploads-import/ESO/test_dávky_bydlení.docx) letáků k dávkám na bydlení.
 
 Nejcennější informace nám poskytly rozhovory s testujícími po vyplnění testu. Popsali nám, jak přesně s písemnostmi pracovali a jak hledali řešení. Tak jsme se dozvěděli, proč některé situace nevyřešili. Poradili nám také, co by jim pomohlo.
 
