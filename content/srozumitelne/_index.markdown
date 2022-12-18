@@ -176,6 +176,8 @@ textcontent:
 
 
       Obavu z nepřezkoumatelnosti rozhodnutí mnozí úředníci řeší tak, že v odůvodnění uvedou úplně všechno, aby jim snad nic nechybělo. Citují všechna použitá ustanovení právních předpisů, kopírují podklady ze správního spisu, podrobně popisují předchozí procesní postup. Často však s vaničkou vylijí dítě, protože rozhodnutí může být v extrémním případě tak zahlcené zbytečnostmi, že je nesrozumitelné i pro právní profesionály, a proto nepřezkoumatelné. Pokud víme, co chceme sdělit a proč, zbytečnosti nepotřebujeme.
+  - before: vyzva_k_odstraneni_vad_podani/index
+    text: "### Výzvy, oznámení a podobné písemnosti"
 twocols:
   - right-1: napište to důrazně, čtenář to pak pozná sám
     right-2: je-li to zřejmé, čtenář to pozná; naopak, když mu to řeknete, cítí to
