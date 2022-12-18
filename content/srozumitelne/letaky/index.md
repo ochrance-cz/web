@@ -95,4 +95,4 @@ Po obecných informacích přejděte ke zvláštním, po základních k podrobn�
 
 ### Používejte příklady a infografiku
 
-Podrobně v kapitolách kkk.
+Podrobně v kapitolách [](https://www.ochrance.cz/srozumitelne/slozita_temata_vysvetlete_na_prikladech/)[Složitá témata...](https://www.ochrance.cz/srozumitelne/slozita_temata_vysvetlete_na_prikladech/) a [Dobře graficky zpracované informace...](<[Dobře graficky zpracovan](https://www.ochrance.cz/srozumitelne/dobre_graficky_zpracovane_informace_mohou_vysvetlit_ci_zprehlednit_sdeleni/)>)
