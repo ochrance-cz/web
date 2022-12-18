@@ -1,7 +1,7 @@
 ---
 title: Správní rozhodnutí
 ---
-Správní rozhodnutí je královská disciplína úředního psaní. I zde platí pravidla, která jsme popisovali v obecné části příručky, platí však i pravidla další, která představíme v této kapitole. Abyste se v tom vyznali, rozdělili jsme kapitolu tak, že nejprve popíšeme pravidla pro psaní správních rozhodnutí obecně (kapitola), pak pravidla pro psaní výrokové části (kapitola), odůvodnění (kapitola) a poučení (kapitola) a nakonec na příkladu provážeme nová pravidla s obecnou částí (kapitola).
+Správní rozhodnutí je královská disciplína úředního psaní. I zde platí pravidla, která jsme popisovali v obecné části příručky, platí však i pravidla další, která představíme v této kapitole. Abyste se v tom vyznali, rozdělili jsme kapitolu tak, že nejprve popíšeme pravidla pro psaní správních rozhodnutí obecně, pak pravidla pro psaní [výrokové části](https://www.ochrance.cz/srozumitelne/vyrokova_cast_napiste_o_kterych_pravech_a_povinnostech_ucastniku_jste_rozhodovali_a_jak_jste_rozhodli/), [odůvodnění](https://www.ochrance.cz/srozumitelne/oduvodneni_vysvetlete_proc_jste_rozhodli_prave_takto/), [poučení](https://www.ochrance.cz/srozumitelne/pouceni_vysvetlete_adresatovi_co_muze_delat/) a nakonec na [příkladu](https://www.ochrance.cz/srozumitelne/priklad_v_nemz_uplatnime_pravidla_teto_kapitoly_i_obecne_casti_prirucky/) provážeme nová pravidla s obecnou částí.
 
 Podstatné přitom budou dva předpoklady, ze kterých vycházíme:
 
