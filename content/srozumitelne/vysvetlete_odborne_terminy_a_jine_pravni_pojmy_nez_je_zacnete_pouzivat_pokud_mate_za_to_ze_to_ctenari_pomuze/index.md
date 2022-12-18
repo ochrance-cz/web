@@ -1,6 +1,6 @@
 ---
-title: Vysvětlete odborné termíny a jiné právní pojmy, než je začnete
-  používat(pokud máte za to, že to čtenáři pomůže)
+title: Vysvětlete odborné termíny a jiné právní pojmy, než je začnete používat
+  (pokud máte za to, že to čtenáři pomůže)
 num: 38
 ---
 ### Odborné termíny
