@@ -1,8 +1,8 @@
 ---
-title: Čtěte po sobě
+title: Odškrtněte si, že jste napsali text správně (přehled a pomůcka k tisku)
 num: 55
 ---
-Můžete použít následující přehled a pomůcku k tisku:
+Můžete použít následující přehled a [pomůcku k tisku](https://www.ochrance.cz/uploads-import/ESO/pomůcka_srozumitelně.docx):
 
 #### Komu píšu? Co píšu?
 
@@ -30,7 +30,7 @@ Píšu adresný či neadresný dokument?
 
 * Jádro věci na začátek?
 * Řadím text tak, jak čtenář o sdělení přemýšlí?
-* Člením jsem text na oddíly?
+* Člením text na oddíly?
 
   * Slovně: nadpisy, první věta, k (tématu), …
   * Graficky: rozeznatelné odstavce, odrážky
@@ -76,7 +76,7 @@ Píšu adresný či neadresný dokument?
   * podmět a přísudek
   * přísudek a předmět
 * Volím vhodné spojovací výrazy? Kdy, když, pokud …
-* Píšeme jádro sdělení před podrobnostmi/výjimkami/podmínkami?
+* Píšu jádro sdělení před podrobnostmi/výjimkami/podmínkami?
 * Píšu přehledně výčty? Paralelní větnou stavbou/stejnými slovními druhy/odrážkami či číslováním?
 
 #### Provádím čtenáře textem?
