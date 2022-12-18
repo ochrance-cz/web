@@ -91,7 +91,7 @@ Po obecných informacích přejděte ke zvláštním, po základních k podrobn�
 
 ### Popisujte praktické návody, ne vzdálená a nereálná řešení
 
-
+{{< sloupce "cesty" >}}
 
 ### Používejte příklady a infografiku
 
