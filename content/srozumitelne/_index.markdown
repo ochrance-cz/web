@@ -60,6 +60,8 @@ chapters:
   - chapter: ctete_po_sobe/index
   - chapter: poproste_nekoho_jineho_at_si_text_precte/index
   - chapter: otestujte_pisemnosti_ktere_maji_siroky_dosah/index
+  - chapter: priklad_cervene_tchyne/index
+  - chapter: pripad_neprechylene_dcery/index
   - chapter: obecne_ke_spravnimu_rozhodnuti/index
   - chapter: vyrokova_cast_napiste_o_kterych_pravech_a_povinnostech_ucastniku_jste_rozhodovali_a_jak_jste_rozhodli/index
   - chapter: oduvodneni_vysvetlete_proc_jste_rozhodli_prave_takto/index
