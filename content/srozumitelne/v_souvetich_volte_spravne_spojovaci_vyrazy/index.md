@@ -44,4 +44,4 @@ Následně se diskutovalo o materiálu, na *němž* se kvůli časové tísni pr
 
 {{% /vhodne %}}
 
-V předchozím příkladu si všimněte i tučně napsaných výrazů. Zatímco kurzívou napsané výrazy vyjadřují vztahy ve větách, tučně napsané výrazy vyjadřují vztah mezi větami a jsou důležité pro plynulost textu (více v kapitole Proveďte čtenáře textem a dalších).
+V předchozím příkladu si všimněte i tučně napsaných výrazů. Zatímco kurzívou napsané výrazy vyjadřují vztahy ve větách, tučně napsané výrazy vyjadřují vztah mezi větami a jsou důležité pro plynulost textu (více v kapitole [Proveďte čtenáře textem pomocí spojovacích výrazů](https://www.ochrance.cz/srozumitelne/provedte_ctenare_textem_pomoci_spojovacich_vyrazu/)).
