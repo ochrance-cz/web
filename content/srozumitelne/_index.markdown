@@ -126,16 +126,6 @@ textcontent:
     text: "### J﻿ak psát: Slova a výrazy v úředním textu"
   - before: piste_kratke_vety/index
     text: "### J﻿ak psát: Věty"
-  - text: >-
-      Čtenář v krátkodobé paměti udrží pouze 8–20 vteřin textu, to je zhruba 2–5
-      jednoduchých vět. Čím méně známé téma a složitější sdělení, tím méně textu
-      udrží. Pokud mu myšlenku v těchto 8-20 vteřinách nezvládnete sdělit, je to
-      jako kdybyste neřekli nic. Posluchač bude chtít, abyste mu sdělení
-      opakovali, čtenář bude muset číst text znovu. Nebo čtení vzdá.
-
-
-      Proto pište tak, aby čtenář pochopil větu po prvním čtení. Jak na to?
-    before: sdelte_nejprve_jadro_rozvijejte_je_v_dalsich_vetach/index
   - before: provedte_ctenare_textem/index
     text: "### J﻿ak psát: plynulost textu"
   - before: pokud_jste_neco_zkazili_omluvte_se/index
@@ -143,6 +133,8 @@ textcontent:
   - before: ctete_po_sobe/index
     text: "### N﻿akonec se ujistěte, že jste sdělili, co jste chtěli, a že jste
       psali pro svého čtenáře"
+  - before: priklad_cervene_tchyne/index
+    text: "### P﻿říklady"
   - before: obecne_ke_spravnimu_rozhodnuti/index
     text: >-
       ## 3. část — Psaní určitých úředních písemností
