@@ -1,5 +1,5 @@
 ---
-title: Pište pozitivně
+title: "Pište pozitivně"
 num: 23
 ---
 Negativní formulace zamlžují sdělení a natahují text. Musíme si je v hlavě přeložit, abychom si mohli situaci představit a věděli, co chtěl pisatel sdělit.
@@ -32,6 +32,6 @@ Negativní sdělení používáme podvědomě, protože často mnohem lépe vím
 
 Mnoho negativních sdělení lze vyjádřit pozitivně:
 
-{{< sloupce "pozitivne" >}
+{{< sloupce "pozitivne" >}}
 
 I v této příručce najdete rady, co nedělat. Snažili jsme se však, abychom je psali jen tehdy, je-li pozitivní vyjádření nesrozumitelné nebo moc dlouhé.

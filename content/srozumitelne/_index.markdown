@@ -76,7 +76,7 @@ chapters:
 textcontent:
   - before: proc/index
     text: |-
-      V﻿erze příručky k tisku (PDF) zde bude ke stažení nejpozději v únoru 2023.
+      Verze příručky k tisku (PDF) zde bude ke stažení nejpozději v únoru 2023.
 
       ## 1. část — Co je srozumitelný úřední text
   - before: co-a-komu/index
@@ -84,7 +84,7 @@ textcontent:
       ## 2. část — Psaní úředních textů obecně
 
 
-      Psaní je jako skládání LEGO podle vlastního návodu. Nejdřív musíte vědět, co chcete postavit, abyste věděli, jaké kostky vybrat a kde začít. Když začnete stavět a nevíte co, možná své dílo dokončíte, ale pravděpodobně ho budete několikrát předělávat, spotřebujete mnoho zbytečných kostek, něco se někde rozpadne. Stejně je to s úředním textem.
+      Psaní je jako skládání LEGO podle vlastního návodu. Nejdřív musíte vědět, co chcete postavit, abyste věděli, jaké kostky vybrat a kde začít. Když začnete stavět a nevíte co, možná své dílo dokončíte, ale pravděpodobně ho budete několikrát předělávat, spotřebujete mnoho zbytečných kostek, něco se někde rozpadne. Stejně je to s úředním textem.
 
 
       Proto, než začnete psát, položte si tyto tři otázky:
@@ -104,40 +104,40 @@ textcontent:
       ### Co sdělím a co ne?
 
 
-      Sdělte **pouze informace, které jsou důležité pro čtenáře a pro vyřízení věci.** Vše ostatní vypusťte.  Zároveň se ujistěte, zda vám v textu **nechybí informace**, které jsou **důležité** pro **vyřízení věci a pro čtenáře**, i když vám jsou zřejmé a nepovažujete za důležité je sdělovat.
+      Sdělte **pouze informace, které jsou důležité pro čtenáře a pro vyřízení věci.** Vše ostatní vypusťte.  Zároveň se ujistěte, zda vám v textu **nechybí informace**, které jsou **důležité** pro **vyřízení věci a pro čtenáře**, i když vám jsou zřejmé a nepovažujete za důležité je sdělovat.
 
 
       Jak na to:
   - before: strukturu_textu_si_promyslete_predem/index
-    text: "### J﻿ak text uspořádám?"
+    text: "### Jak text uspořádám?"
   - before: piste_se_slovesy/index
     text: >-
-      ### J﻿ak psát: Slova a výrazy obecně
+      ### Jak psát: Slova a výrazy obecně
 
 
-      Představte si cestu krajinou z obce Pisatelova Myšlenka do obce Čtenářovo Porozumění.
+      Představte si cestu krajinou z obce Pisatelova Myšlenka do obce Čtenářovo Porozumění.
 
 
-      Cesta jsou řádky textu, stromy podél cesty jsou podstatná jména s přídavnými jmény či zájmena. Zahlédnete i výrazy, kterých stačí v krajině málo jako hlodavců, třeba příslovce. Pokud je používáte zřídka a trefně, jsou nenahraditelné, pokud se přemnoží, škodí. A zahlédnete i odpadky. Výrazy jako „vyvstala potřeba“ a „všichni nepochybně“ musíte posbírat a vyhodit.
+      Cesta jsou řádky textu, stromy podél cesty jsou podstatná jména s přídavnými jmény či zájmena. Zahlédnete i výrazy, kterých stačí v krajině málo jako hlodavců, třeba příslovce. Pokud je používáte zřídka a trefně, jsou nenahraditelné, pokud se přemnoží, škodí. A zahlédnete i odpadky. Výrazy jako „vyvstala potřeba“ a „všichni nepochybně“ musíte posbírat a vyhodit.
 
 
-      Chcete-li dojet ke Čtenářovu Porozumění, pojedete na slovesech. S výstižnými slovesy pojedete rychle. Nahradíte-li slovesa podstatnými jmény, povlečete se pěšky.
+      Chcete-li dojet ke Čtenářovu Porozumění, pojedete na slovesech. S výstižnými slovesy pojedete rychle. Nahradíte-li slovesa podstatnými jmény, povlečete se pěšky.
 
 
-      Několik doporučení na cestu:
+      Několik doporučení na cestu:
   - before: piste_ctenarum_jako_byste_s_nimi_mluvili_pouzivejte_my_a_vy/index
-    text: "### J﻿ak psát: Slova a výrazy v úředním textu"
+    text: "### Jak psát: Slova a výrazy v úředním textu"
   - before: piste_kratke_vety/index
-    text: "### J﻿ak psát: Věty"
+    text: "### Jak psát: Věty"
   - before: provedte_ctenare_textem/index
-    text: "### J﻿ak psát: plynulost textu"
+    text: "### Jak psát: plynulost textu"
   - before: pokud_jste_neco_zkazili_omluvte_se/index
-    text: "### J﻿ak psát: Podtext (tón)"
+    text: "### Jak psát: Podtext (tón)"
   - before: ctete_po_sobe/index
-    text: "### N﻿akonec se ujistěte, že jste sdělili, co jste chtěli, a že jste
+    text: "### Nakonec se ujistěte, že jste sdělili, co jste chtěli, a že jste
       psali pro svého čtenáře"
   - before: priklad_cervene_tchyne/index
-    text: "### P﻿říklady"
+    text: "### Příklady"
   - before: obecne_ke_spravnimu_rozhodnuti/index
     text: >-
       ## 3. část — Psaní určitých úředních písemností
@@ -186,14 +186,14 @@ twocols:
   - type: no-yes
     id: pozitivne
     left-1: nemůže, dokud nebude mít hotové úkoly
-    right-1: m﻿ůže, až bude mít hotové úkoly
-    left-2: n﻿esmí vás být více než deset
+    right-1: může, až bude mít hotové úkoly
+    left-2: nesmí vás být více než deset
     right-2: |-
-      m﻿usí vás být méně než deset
+      musí vás být méně než deset
 
-      m﻿usí vás být nejvíce devět
-    left-3: n﻿edrob!
-    right-3: v﻿ezmi si talíř!
+      musí vás být nejvíce devět
+    left-3: nedrob!
+    right-3: vezmi si talíř!
   - id: cesty
     type: yes-yes
     left-1: "**Co mohu dělat, když**"
