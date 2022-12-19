@@ -11,7 +11,7 @@ Proto musí ředitel mateřské školy přijmout Anežku k předškolnímu vzdě
 
 {{% /hodnoceni %}}
 
-Stručné právní posouzení však můžeme napsat pouze tehdy, pokud jsme dobře vysvětlili právní pravidla a podali důležité informace příběhu. Pak totiž čtenář rozumí jak pravidlům hry, tak příběhu a přijde na právní posouzení sám. Je to jako ve hře Člověče, nezlob se, když chceme zjistit, zda Pavel může, či nemůže, nasadit:
+Stručné právní posouzení však můžeme napsat pouze tehdy, pokud jsme dobře vysvětlili právní pravidla a podali důležité informace příběhu. Pak totiž čtenář rozumí jak pravidlům hry, tak příběhu a přijde na právní posouzení sám. Je to jako ve hře *Člověče, nezlob se*, když chceme zjistit, zda Pavel může, či nemůže nasadit:
 
 {{% pravni %}}
 
