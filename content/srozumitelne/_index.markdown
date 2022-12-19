@@ -73,6 +73,7 @@ chapters:
   - chapter: letaky/index
   - chapter: uredni_informace_na_webu/index
   - chapter: prepsane_pisemnosti/index
+  - chapter: o_prirucce/index
 textcontent:
   - before: proc/index
     text: |-
@@ -134,8 +135,8 @@ textcontent:
   - before: pokud_jste_neco_zkazili_omluvte_se/index
     text: "### Jak psát: Podtext (tón)"
   - before: ctete_po_sobe/index
-    text: "### Nakonec se ujistěte, že jste sdělili, co jste chtěli, a že jste
-      psali pro svého čtenáře"
+    text: "### Nakonec se ujistěte, že jste sdělili, co jste chtěli, a že jste psali
+      pro svého čtenáře"
   - before: priklad_cervene_tchyne/index
     text: "### Příklady"
   - before: obecne_ke_spravnimu_rozhodnuti/index
@@ -147,8 +148,15 @@ textcontent:
 
 
       Ve výkladu vycházíme z právní úpravy ve správním řádu, protože je nejběžnější.
+
+
+      ### S﻿právní rozhodnutí
   - before: vyzva_k_odstraneni_vad_podani/index
-    text: "### Výzvy, oznámení a podobné písemnosti"
+    text: "### A﻿dresné písemnosti"
+  - before: formulare/index
+    text: "### N﻿eadresné písemnosti"
+  - before: prepsane_pisemnosti/index
+    text: "### P﻿řepsané písemnosti (před a po)"
 twocols:
   - right-1: napište to důrazně, čtenář to pak pozná sám
     right-2: je-li to zřejmé, čtenář to pozná; naopak, když mu to řeknete, cítí to
