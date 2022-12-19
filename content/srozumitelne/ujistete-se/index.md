@@ -6,7 +6,7 @@ Za právní pravidla považujeme právní normy a jejich výklad.
 
 **Právní normy** obsahují žádoucí pravidla chování, která stát uznává a vynucuje. Právní norma může být obsažena v jediném ustanovení právního předpisu, nebo ji musíte poskládat z několika ustanovení jednoho či více předpisů či dokonce judikatury.
 
-Například je právní normou pravidlo chování, které stanoví řediteli mateřské školy, které děti smí přijmout k předškolnímu vzdělávání z hlediska šíření nakažlivých nemocí:
+Například je právní normou pravidlo chování, které se snaží omezit šíření nakažlivých nemocí, a určuje tak řediteli mateřské školy, které děti smí přijmout k předškolnímu vzdělávání: 
 
 {{% pravni %}}
 
@@ -24,21 +24,21 @@ K předškolnímu vzdělávání smí ředitel MŠ přijmout pouze dítě, kter�
 
 Vyložíme-li právní normu, čtenář získá přehlednou představu o tom, co právo v daném případě vyžaduje.
 
-**Napsat právní pravidlo tak, aby mu čtenář porozuměl, je klíčem ke srozumitelnosti.** Je to podobné, jako v každé stolní hře. Pokud vysvětlíme pravidla, budou hráči vědět, jak hrát. Budou vědět, co mohou, či nesmí, a jakou tedy zvolí herní strategii. Jakmile tedy čtenář porozumí, co je po právu, lépe porozumí, co je v příběhu důležité, a porozumí i právnímu posouzení. Pokud právní pravidla čtenáři nevysvětlíme, nemá se čtenář v příběhu čeho chytit. Neví, co je důležité a co ne. Naše sdělení tak pro něj může být nesrozumitelné a naše právní posouzení nepřesvědčivé.
+**Napsat právní pravidlo tak, aby mu čtenář porozuměl, je klíčem ke srozumitelnosti.** Je to podobné, jako v každé stolní hře. Pokud vysvětlíme pravidla, budou hráči vědět, jak hrát. Budou vědět, co mohou, či nesmějí, a jakou herní strategii tedy zvolit. Jakmile tedy čtenář porozumí, co je po právu, lépe porozumí, co je v příběhu důležité, a porozumí i právnímu posouzení. Pokud právní pravidla čtenáři nevysvětlíme, nemá se čtenář v příběhu čeho chytit. Neví, co je důležité a co ne. Naše sdělení tak pro něj může být nesrozumitelné a naše právní posouzení nepřesvědčivé.
 
-Srozumitelné právní pravidlo, které chceme použít **v konkrétní řešené věci** (například ve správním rozhodnutí, výzvě, oznámení atd.) je:
+Srozumitelné právní pravidlo, které chceme použít **v konkrétní řešené věci** (například ve správním rozhodnutí, výzvě, oznámení atd.), je:
 
 * **přiléhavé, tedy co nejúžeji vymezené na příběh čtenáře tak, aby se v něm našel**;
 * **úplné, tedy nic čtenáři neschází**;
 * **a vyjádřené tak, že mu čtenář porozumí**.
 
-Srozumitelné právní pravidlo, které chceme sdělit **obecně** (například v informačním letáku nebo na webu) je:
+Srozumitelné právní pravidlo, které chceme sdělit **obecně** (například v informačním letáku nebo na webu), je:
 
-* **vysvětlené tak, aby se v něm čtenář vyznal a našel**;
+* **vysvětlené tak, aby se v něm čtenář vyznal a našel se v něm**;
 * **úplné, tedy nic čtenáři neschází**;
 * **a vyjádřené tak, že mu čtenář porozumí**.
 
-Jak napsat srozumitelné pravidlo, které chceme použít v konkrétní věci:
+Jak napsat srozumitelné pravidlo, které chceme použít v konkrétní věci?
 
 ### Vyberte ta ustanovení právních předpisů či judikatury, která chcete v dané věci použít
 
@@ -98,7 +98,7 @@ Pokud pracujete s **judikaturou**, citujte jen ty části rozhodnutí, kterými 
 
 {{% nevhodne %}}
 
-Komunikace (cesta) je veřejně přístupná, pokud její vlastník souhlasil s jejím obecným užíváním, protože podle právní věty, publikované pod č. 3371/2016 a č. 3571/2017 Sb. NSS, je „souhlas vlastníka tím znakem veřejně přístupné účelové komunikace dle § 7 odst. 1 zákona o pozemních komunikacích, u něhož je třeba zhodnotit, zda cestu užíval blíže neurčený okruh osob (tj. veřejnost). Znak nutné komunikační potřeby se naopak zkoumá vždy ve vztahu ke konkrétním dotčeným nemovitostem, pro něž sporná cesta plní roli komunikační spojnice. Oba uvedené znaky musí být naplněny, aby bylo možno na soukromém pozemku deklarovat veřejnou cestu, avšak zkoumat je třeba každý z nich zvlášť.“
+Komunikace (cesta) je veřejně přístupná, pokud její vlastník souhlasil s jejím obecným užíváním, protože podle právní věty publikované pod č. 3371/2016 Sb. NSS je „souhlas vlastníka tím znakem veřejně přístupné účelové komunikace dle § 7 odst. 1 zákona o pozemních komunikacích, u něhož je třeba zhodnotit, zda cestu užíval blíže neurčený okruh osob (tj. veřejnost). Znak nutné komunikační potřeby se naopak zkoumá vždy ve vztahu ke konkrétním dotčeným nemovitostem, pro něž sporná cesta plní roli komunikační spojnice. Oba uvedené znaky musí být naplněny, aby bylo možno na soukromém pozemku deklarovat veřejnou cestu, avšak zkoumat je třeba každý z nich zvlášť.“
 
 {{% /nevhodne %}}
 
@@ -134,9 +134,9 @@ V našem příkladu o přijetí do školky jsme vysvětlili právní pravidlo. O
 
 {{% pravni %}}
 
-K předškolnímu vzdělávání smí ředitel MŠ přijmout pouze dítě, které se podrobilo všem stanoveným pravidelným očkováním nebo které má doklad, že je proti nákaze imunní, nebo které se nemůže očkování podrobit, protože má doklad o tom, že mu zdravotní stav brání v podání očkovací látky (trvalá kontraindikace).*
+K předškolnímu vzdělávání smí ředitel MŠ přijmout pouze dítě, které se podrobilo všem stanoveným pravidelným očkováním nebo které má doklad, že je proti nákaze imunní, nebo které se nemůže očkování podrobit, protože má doklad o tom, že mu zdravotní stav brání v podání očkovací látky (trvalá kontraindikace).*)
 
-\* § 34 odst. 5 školského zákona: „Při přijímání dětí k předškolnímu vzdělávání je třeba dodržet podmínky stanovené zvláštním právním předpisem.“ Tím je zákon o ochraně veřejného zdraví; § 50: Mateřská škola může „přijmout pouze dítě, které se podrobilo stanoveným pravidelným očkováním, má doklad, že je proti nákaze imunní nebo se nemůže očkování podrobit pro trvalou kontraindikaci“, Pojem trvalá kontraindikace vykládá § 46 odst. 2 zákona o ochraně veřejného zdraví: „Pravidelné \[…] očkování se neprovede při \[…] zjištění zdravotního stavu, který brání podání očkovací látky (trvalá kontraindikace).“
+\*) § 34 odst. 5 školského zákona: „Při přijímání dětí k předškolnímu vzdělávání je třeba dodržet podmínky stanovené zvláštním právním předpisem.“ Tím je zákon o ochraně veřejného zdraví, § 50: Mateřská škola může „přijmout pouze dítě, které se podrobilo stanoveným pravidelným očkováním, má doklad, že je proti nákaze imunní nebo se nemůže očkování podrobit pro trvalou kontraindikaci“. Pojem trvalá kontraindikace vykládá § 46 odst. 2 zákona o ochraně veřejného zdraví: „Pravidelné \[…] očkování se neprovede při \[…] zjištění zdravotního stavu, který brání podání očkovací látky (trvalá kontraindikace).“
 
 {{% /pravni %}}
 
@@ -152,8 +152,8 @@ Nebo:
 
 {{% pravni %}}
 
-Aby byla komunikace veřejně přístupná, nestačí, že její vlastník souhlasí s tím, aby ji užíval konkrétně určený okruh osob (například sousedé), ale – podle rozhodnutí soudů – musí souhlasit i s jejím obecným užíváním, tedy s tím, aby „cestu užíval blíže neurčený okruh osob (tj. veřejnost)“.*
+Aby byla komunikace veřejně přístupná, nestačí, že její vlastník souhlasí s tím, aby ji užíval konkrétně určený okruh osob (například sousedé), ale – podle rozhodnutí soudů – musí souhlasit i s jejím obecným užíváním, tedy s tím, aby „cestu užíval blíže neurčený okruh osob (tj. veřejnost)“.*)
 
-\*Např. rozsudek Nejvyššího správního soudu ze dne 30. 11. 2015, č. j. 6 As 213/2015-14, č. 3371/2016 Sb. NSS, dostupný na www.nssoud.cz
+\*) Např. rozsudek Nejvyššího správního soudu ze dne 30. 11. 2015, č. j. 6 As 213/2015-14, č. 3371/2016 Sb. NSS, dostupný na www.nssoud.cz.
 
 {{% /pravni %}}
