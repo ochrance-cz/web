@@ -157,6 +157,8 @@ textcontent:
     text: "### N﻿eadresné písemnosti"
   - before: prepsane_pisemnosti/index
     text: "### P﻿řepsané písemnosti"
+  - before: o_prirucce/index
+    text: "### O﻿ příručce"
 twocols:
   - right-1: napište to důrazně, čtenář to pak pozná sám
     right-2: je-li to zřejmé, čtenář to pozná; naopak, když mu to řeknete, cítí to
