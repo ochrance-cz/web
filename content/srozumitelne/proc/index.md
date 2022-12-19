@@ -24,10 +24,10 @@ Za srozumitelný považujeme úřední text, který je:
 * **přehledný** (čtenář se v něm vyzná);
 * **stručný, ale úplný** (obsahuje jen to, co má, neobsahuje nic navíc);
 * **praktický** (čtenář ví, co má dělat);
-* napsaný **jazykem, jemuž čtenář sám porozumí tak, že podle něj může jednat**. To často znamená, že musíme psát **běžným jazykem, jakým mluvíme**. Jako kdybychom věc vysvětlovali někomu z rodiny nebo sousedovi, a záleželo by nám na tom, aby nám rozuměli,
+* napsaný **jazykem, jemuž čtenář sám porozumí tak, že podle něj může jednat**. To často znamená, že musíme psát **běžným jazykem, jakým mluvíme**. Jako kdybychom věc vysvětlovali někomu z rodiny nebo sousedovi a záleželo by nám na tom, aby nám rozuměli;
 * a zároveň **právně přesný**. To znamená, že pracuje s právními pojmy a koncepty, ale vysvětluje je čtenáři běžným jazykem. Například neopisuje text právního předpisu, ale jednoznačně zachovává jeho význam.
 
-Z naší i cizí zkušenosti již víme, že běžným jazykem lze napsat i složité odborné texty, a v příručce vám vysvětlíme jak. Chceme, abyste věděli, že přesnost (či odbornost) a srozumitelnost se nevylučují a že srozumitelné texty bývají naopak přesnější a přesvědčivější.
+Z naší i cizí zkušenosti již víme, že běžným jazykem lze napsat i složité odborné texty, a v příručce vám vysvětlíme, jak na to. Chceme, abyste věděli, že přesnost (či odbornost) a srozumitelnost se nevylučují – a že srozumitelné texty bývají naopak přesnější a přesvědčivější. 
 
 Prosíme, porovnejte následující texty:
 
@@ -93,7 +93,7 @@ Srozumitelný je podle nás text, který je přehledný, úplný a přitom napsa
 
 Kdysi jsme měli málo informací, dnes je jich příliš. Proto můžeme vstřebat jen ty, kterým porozumíme. Nesnažme se tedy předat všechny informace, které máme, ale předejme čtenáři informace srozumitelně tak, aby pro něj byly užitečné. Jinak nám čtenář může porozumět špatně nebo čtení vzdá.
 
-Lidé jsou ochotni číst texty, u nichž předpokládaný užitek z informace převáží náklady na její zpracování. [^Incomprehensible1] Záleží na motivaci čtenáře. Ta bude vysoká, pokud dostane například výzvu k doplnění náležitostí žádosti o stavební povolení. Naopak nízká bude u rozhodnutí, jímž mu úřad přizná rodičovský příspěvek, pokud je spokojen s jeho výší. Přitom platí jednoduché pravidlo. Informace je nesrozumitelná, pokud bude úsilí vložené do zpracování informace vyšší než užitek, který očekáváme.
+Lidé jsou ochotni číst texty, u nichž předpokládaný užitek z informace převáží náklady na její zpracování. [^Incomprehensible1] Záleží na motivaci čtenáře. Ta bude vysoká, pokud dostane například výzvu k doplnění náležitostí žádosti o stavební povolení. Naopak nízká bude u rozhodnutí, jímž mu úřad přizná rodičovský příspěvek, pokud je spokojen s jeho výší. Přitom platí jednoduché pravidlo. Informace je nesrozumitelná, pokud bude úsilí vložené do zpracování informace vyšší než užitek, který čtenář očekává.
 
 Pokud tedy budeme jako úředníci psát nesrozumitelně, lidé naše texty nebudou číst. Budou nám psát a volat. Jeden úředník, který uděluje pokuty za dopravní přestupky, nám řekl: „Já to napíšu, oni tomu nerozumí a pak volají, tím trávím dost času.“ Zbytečně.
 
@@ -107,9 +107,9 @@ Správní řád stanoví, že veřejná správa je službou veřejnosti (§ 4 od
 
 Podle výzkumů přes 80 % lidí dává přednost srozumitelnému, běžnému jazyku. [^blogGDS1] I odborníci čtou raději srozumitelný jazyk. Dokonce platí, že čím vzdělanější člověk a čím více odborných znalostí má, tím více ocení srozumitelný, běžný jazyk. Vzdělaní lidé totiž sice rozumí i složitému odbornému jazyku, ale nechtějí ho číst, pokud si mohou vybrat.[^blogGDS2] Je to proto, že zpravidla čtou nejvíce a nemají čas luštit zapeklité texty.
 
-[^blogGDS1]: Například blog [Government Digital Service](https://gds.blog.gov.uk/2014/02/17/guest-post-clarity-is-king-the-evidence-that-reveals-the-desperate-need-to-re-think-the-way-we-write/), 17. 2. 2014
+[^blogGDS1]: Například blog [Government Digital Service](https://gds.blog.gov.uk/2014/02/17/guest-post-clarity-is-king-the-evidence-that-reveals-the-desperate-need-to-re-think-the-way-we-write/), 17. 2. 2014.
 
-[^blogGDS2]: Například blog [Government Digital Service](https://gds.blog.gov.uk/2014/02/17/guest-post-clarity-is-king-the-evidence-that-reveals-the-desperate-need-to-re-think-the-way-we-write/), 17. 2. 2014
+[^blogGDS2]: Například blog [Government Digital Service](https://gds.blog.gov.uk/2014/02/17/guest-post-clarity-is-king-the-evidence-that-reveals-the-desperate-need-to-re-think-the-way-we-write/), 17. 2. 2014.
 
 #### Protože lidé rozumí psaným textům mnohem méně, než si myslíte
 
@@ -119,19 +119,19 @@ Jakmile jsme přepsali své „úřednické“ letáky, připadaly lidem mnohem 
 
 #### Protože ve světě už to vyzkoušeli a zjistili, že srozumitelné texty se vyplatí
 
-Srozumitelnost se v zahraničí zkoumá už celá desetiletí. Nejen ve veřejné správě, ale i v byznysu. Právě tam vznikly první výzkumy a pokusy psát srozumitelně. Kvůli silnějšímu postavení spotřebitele totiž firmy brzy pochopily, že nesrozumitelné návody, dlouhé obchodní podmínky, či zavádějící popisy výrobků je vyjdou draho. Od nich se pak učila i veřejná správa.
+Srozumitelnost se v zahraničí zkoumá už celá desetiletí. Nejen ve veřejné správě, ale i v byznysu. Právě tam vznikly první výzkumy a pokusy psát srozumitelně. Kvůli silnějšímu postavení spotřebitele totiž firmy brzy pochopily, že nesrozumitelné návody, dlouhé obchodní podmínky či zavádějící popisy výrobků je vyjdou draho. Od nich se pak učila i veřejná správa.
 
-Například ve státě Washington zjednodušili dopis, který lidem sděloval, že přišli o řidičský průkaz, a vytíženost informační linky se snížila o 95 %. Nebo zjednodušili formulář k dani z prodeje, a dobrovolný odvod daně se třikrát zvýšil. Americký úřad pro veterány vypočítal, že po zjednodušení jednoho z formulářů ubylo dotazů veteránů a ušetřilo se tím 5 mil. USD ročně. [^Kimble]
+Například ve státě Washington zjednodušili dopis, který lidem sděloval, že přišli o řidičský průkaz, a vytíženost informační linky se snížila o 95 %. Nebo zjednodušili formulář k dani z prodeje – a dobrovolný odvod daně se třikrát zvýšil. Americký úřad pro veterány vypočítal, že po zjednodušení jednoho z formulářů ubylo dotazů veteránů a ušetřilo se tím 5 mil. dolarů ročně. [^Kimble]
 
 Velká Británie má jednotný vládní portál ([gov.uk](https://www.gov.uk/)), který obsahuje rozcestník pro různé životní situace. Člověk tak vše, co potřebuje, najde na jednom místě, přehledně strukturované a v běžné angličtině. Britové na svém webu [nabádají](https://www.gov.uk/guidance/content-design/writing-for-gov-uk), abychom psali jako pro devítileté děti.
 
-Ve Švédsku se musí psát srozumitelně i právní předpisy. Každý návrh musí schválit tým jazykových a právních expertů. Veřejné správě pak se srozumitelností pomáhá odborná komise, kterou zřídila vláda. Podle zkušeností vytvořili různé vzory, příručky, doporučení, školení a dokonce poradnu. Každoročně udělují cenu tomu, kdo se v úředních textech zaslouží o rozvoj běžné švédštiny.
+Ve Švédsku se musejí psát srozumitelně i právní předpisy. Každý návrh musí schválit tým jazykových a právních expertů. Veřejné správě pak se srozumitelností pomáhá odborná komise, kterou zřídila vláda. Podle zkušeností vytvořili různé vzory, příručky, doporučení, školení, a dokonce poradnu. Každoročně udělují cenu tomu, kdo se v úředních textech zaslouží o rozvoj běžné švédštiny.
 
-[^Kimble]: Joseph Kimble, Writing for Dollars, writing to Please; The case for plain language in business, government and law, Carolina Academic Press, 2012; [krácená verze](https://www.editorsoftware.com/wp-content/uploads/2021/03/kimble-writing-for-dollars-plain-english.pdf)
+[^Kimble]: Joseph Kimble, Writing for Dollars, Writing to Please; The Case for Plain Language in Business, Government and Law, Carolina Academic Press, 2012; [krácená verze](https://www.editorsoftware.com/wp-content/uploads/2021/03/kimble-writing-for-dollars-plain-english.pdf)
 
-#### Zkrátka, protože srozumitelné texty šetří čas, peníze i nervy lidem i nám úředníkům
+#### Zkrátka, protože srozumitelné texty šetří čas, peníze i nervy lidem i nám úředníkům.
 
-### Pokud čtenář neporozumí ani srozumitelnému textu, můžeme psát zjednodušeným jazykem, tzv. Easy to read (ETR)
+### Pokud čtenář neporozumí ani srozumitelnému textu, můžeme psát zjednodušeným jazykem, tzv. Easy to Read (ETR)
 
 ETR je metoda zjednodušování textu, která má stejné principy v kterémkoliv jazyce. Zjednodušený jazyk už nemůže být právně přesný, slouží adresátům k základní orientaci v problematice. Tito lidé většinou potřebují i jinou pomoc – někoho, kdo jim situaci dále vysvětlí nebo jim pomůže s řešením.
 
@@ -147,7 +147,7 @@ Pokud chcete, pomůžeme Vám s tím.
 
 Potřebujeme vědět, kdo Vám posílá peníze na účet v bance. *Například že máte důchod od České správy sociálního zabezpečení, mzdu od zaměstnavatele, dávky od úřadu práce a podobně.*
 
-Napište nám to, nebo nám to přijďte říct.
+Napište nám to nebo nám to přijďte říct.
 
 My pak ty, kdo Vám platí, požádáme o potvrzení.
 
@@ -157,11 +157,11 @@ Potom půjdete do své banky a požádáte ji, aby Vám zřídila chráněný ú
 
 {{% /vhodne %}}
 
-Zároveň by však bylo potřeba vyjednat, zda je tento text užitečný. Typický adresát zjednodušeného textu by totiž pravděpodobně potřeboval se zřízením chráněného účtu pomoc někoho dalšího. Vždy je třeba hodnotit případ od případu, zda text v ETR někomu poslouží.
+Nejprve by však bylo potřeba ujasnit si, zda je tento text užitečný. Typický adresát zjednodušeného textu by totiž pravděpodobně potřeboval se zřízením chráněného účtu pomoc někoho dalšího. Vždy je třeba hodnotit případ od případu, zda text v ETR někomu poslouží.
 
 ### Co budete ke srozumitelnému psaní potřebovat?
 
-Srozumitelné psaní je dovednost jako třeba hraní na housle. Většina z nás potřebuje nácvik, je jen hrstka těch, co potáhnou smyčcem a zní to. Srozumitelně psát se může naučit každý, když bude mít toto:
+Srozumitelné psaní je dovednost jako třeba hraní na housle. Většina z nás potřebuje nácvik; je jen hrstka těch, co potáhnou smyčcem a zní to. Srozumitelně psát se může naučit každý, když bude mít toto:
 
 #### Čas a trpělivost
 
