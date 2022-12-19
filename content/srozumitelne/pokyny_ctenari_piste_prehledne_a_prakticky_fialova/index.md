@@ -6,7 +6,7 @@ Tímto typem informací se obracíme přímo na čtenáře a vysvětlujeme, co m
 
 {{% rady %}}
 
-Proti tomuto rozhodnutí můžete podat písemné námitky u nás (Česká správa sociálního zabezpečení, Křížová 25, 225 08 Praha 5), nebo u kterékoliv okresní správy sociálního zabezpečení, a to do 30 dnů ode dne následujícího po dni doručení tohoto rozhodnutí. V námitkách uveďte číslo jednací tohoto rozhodnutí. O námitkách rozhodujeme my. Podané námitky nemají odkladný účinek, to znamená, že Vám důchod budeme vyplácet podle tohoto rozhodnutí, dokud o námitkách nerozhodneme.
+Proti tomuto rozhodnutí můžete podat písemné námitky u nás (Česká správa sociálního zabezpečení, Křížová 25, 225 08 Praha 5) nebo u kterékoliv okresní správy sociálního zabezpečení, a to do 30 dnů ode dne následujícího po dni doručení tohoto rozhodnutí. V námitkách uveďte číslo jednací tohoto rozhodnutí. O námitkách rozhodujeme my. Podané námitky nemají odkladný účinek, to znamená, že Vám důchod budeme vyplácet podle tohoto rozhodnutí, dokud o námitkách nerozhodneme.
 
 {{% /rady %}}
 
@@ -14,13 +14,13 @@ V naší praxi víme, co může adresát dělat, protože se s tím setkáváme 
 
 {{% nevhodne %}}
 
-Proti rozhodnutí České správy sociálního zabezpečení (ČSSSZ) o starobním důchodu může oprávněná osoba podat námitky, a to do 30 dnů ode dne jeho doručení. V námitkách je třeba uvést, proti kterému rozhodnutí námitky směřují, proti kterému správnímu orgánu námitky směřují, důvod nesouhlasu oprávněné osoby, označení oprávněné osoby. Námitky je třeba podepsat.
+Proti rozhodnutí České správy sociálního zabezpečení (ČSSZ) o starobním důchodu může oprávněná osoba podat námitky, a to do 30 dnů ode dne jeho doručení. V námitkách je třeba uvést, proti kterému rozhodnutí námitky směřují, proti kterému správnímu orgánu námitky směřují, důvod nesouhlasu oprávněné osoby, označení oprávněné osoby. Námitky je třeba podepsat.
 
 {{% /nevhodne %}}
 
 {{% vhodne %}}
 
-Proti rozhodnutí České správy sociálního zabezpečení (ČSSSZ) o starobním důchodu můžete podat námitky, a to do 30 dnů ode dne jeho doručení.
+Proti rozhodnutí České správy sociálního zabezpečení (ČSSZ) o starobním důchodu můžete podat námitky, a to do 30 dnů ode dne jeho doručení.
 
 V námitkách uveďte:
 
