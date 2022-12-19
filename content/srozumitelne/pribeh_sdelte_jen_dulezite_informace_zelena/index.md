@@ -14,7 +14,7 @@ Proto všechny informace z příběhu můžeme rozdělit na:
 
 Zda je informace důležitá, záleží na kontextu. Pokud například posuzujete, zda obviněný překročil nejvyšší povolenou rychlost v obci svým motorovým vozidlem, je celkem jedno, zda je to auto, či motorka. Tatáž informace by však byla důležitá, kdyby se zákaz vztahoval jen na dvoustopá vozidla.
 
-**Důležité informace příběhu jsou většinou velmi stručné**. Jednou z největších výzev úředních sdělení je umět oddělit důležité informace od nedůležitých a ty nedůležité nesdělovat.
+**Důležité informace příběhu jsou většinou velmi stručné**. Jednou z nejcennějších dovedností úředníka je umět oddělit důležité informace od nedůležitých a ty nedůležité nesdělovat. 
 
 Důležitá informace pro právní posouzení věci v našem očkovacím příkladu bude třeba tato:
 
