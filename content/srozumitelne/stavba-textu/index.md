@@ -4,7 +4,7 @@ num: 2
 ---
 Ať píšete výzvy, rozhodnutí, vyhlášky, zápisy, úřední záznamy, dopisy/e-maily, letáky nebo informace na web, ptejte se, čeho chcete dosáhnout. Bude vás to nutit psát tak, abyste cíle skutečně dosáhli.
 
-Například, pokud někomu platebním výměrem ukládáte, aby zaplatil poplatek za komunální odpad nikoliv v původní výši, ale trojnásobek, a chcete, aby vše včas zaplatil. Proto mu sdělíte nejen, **co** má zaplatit, ale také:
+Například pokud někomu platebním výměrem ukládáte, aby zaplatil poplatek za komunální odpad nikoliv v původní výši, ale trojnásobek, a chcete, aby vše včas zaplatil. Proto mu sdělíte nejen, **co** má zaplatit, ale také:
 
 * **proč**: vysvětlíte, podle kterých pravidel musí platit poplatek za komunální odpad, a sdělíte, že teď musí zaplatit trojnásobek, protože svou původní povinnost včas nesplnil;
 * **co má dělat, pokud** s vaším rozhodnutím **nesouhlasí**;
