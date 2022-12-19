@@ -8,7 +8,7 @@ Pokud si uvědomujete, který typ informací sdělujete, povede vás to k tomu, 
 1. **sdělíte informace přehledně a srozumitelně a**
 2. **ujistíte se, že jste nic nevynechali** (třeba část právního pravidla) a nepíšete nic zbytečně (třeba nedůležité informace příběhu).
 
-Přečtete si následující příklad, který jsme rozdělili podle typu sdělované informace:
+Přečtěte si následující příklad, který jsme rozdělili podle typu sdělované informace:
 
 {{% hodnoceni %}}
 
@@ -48,7 +48,7 @@ přestože je v dotčené provozovně vykonávána činnost „Pedikúra, manik�
 
 {{% pravni %}}
 
-která je zákonem o ochraně veřejného zdraví považovaná za činnost epidemiologicky závažnou.
+která je zákonem o ochraně veřejného zdraví považována za činnost epidemiologicky závažnou.
 
 {{% /pravni %}}
 
