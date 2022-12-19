@@ -1,5 +1,5 @@
 ---
-title: Přepsané písemnosti
+title: Písemnosti před a po
 ---
 1. [vyrozumění krajské hygienické stanice o nařízení karantény](https://www.ochrance.cz/uploads-import/ESO/příručka/01_hygiena.docx)
 2. [odpověď České národní banky na stížnost na pojišťovnu](https://www.ochrance.cz/uploads-import/ESO/příručka/02_ČNB.docx)
