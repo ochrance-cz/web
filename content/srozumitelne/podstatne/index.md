@@ -11,6 +11,6 @@ num: 3
 4. průvodní informace a
 5. pokyny čtenáři.
 
-Například ve správním rozhodnutí píšeme všech pět. V informačním letáku příběh většinou nepíšeme, ten si pro sebe musí dosadit konkrétní čtenáři. Někdy ale v letáku máme i příklady.
+Například ve správním rozhodnutí píšeme všech pět. V informačním letáku příběh většinou nepíšeme, ten si pro sebe musejí dosadit konkrétní čtenáři. Někdy ale v letáku máme i příklady.
 
 Pokud si uvědomíte, který typ informace právě sdělujete, pomůže vám to ujasnit si, co máte sdělit a co ne.
