@@ -10,6 +10,9 @@ perex: >
   opatření a na druhé straně zachovat tepelnou pohodu a zároveň předejít výskytu
   plísní. Těmto nežádoucím důsledkům lze předejít správně nastaveným vytápěním i
   dodržováním zásad správného větrání.</p>
+attachments:
+  - file: https://www.ochrance.cz/aktualne/usporna_opatreni_se_pri_vytapeni_dotknou_vsech_ale_plisen_v_byte_mit_zbytecne_nemusite/jak_spravne_topit_a_vetrat.pdf
+    title: Přehled rad, jak správně topit a větrat
 ---
 <p>V&nbsp;letošním roce kvůli energetické krizi již byla připravena nebo se připravuje řada právních předpisů a novel předpisů stávajících. Jejich společným tématem je šetření energiemi a řešení důsledků energetické krize včetně pomoci s&nbsp;vysokými cenami energií. Jde např. o tzv. &bdquo;úsporný tarif&ldquo; nebo návrh nařízení vlády na zastropování cen energií, které pro příští rok nahradí právě &bdquo;úsporný tarif&ldquo;. &nbsp;V&nbsp;přípravě je i vyhláška, kterou se stanoví zvláštní pravidla pro vytápění a dodávku teplé vody při předcházení stavu nouze nebo ve stavu nouze. Aktuálně také probíhá revize stávajících vyhlášek souvisejících s rozúčtováním nákladů na teplo a teplou vodu. Některé z&nbsp;těchto předpisů se přímo či nepřímo mohou dotknout mimo jiné tepelné pohody a komfortu bydlení obyvatel.</p>
 
