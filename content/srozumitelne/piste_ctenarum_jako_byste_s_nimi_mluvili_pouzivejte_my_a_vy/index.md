@@ -30,7 +30,7 @@ Všimněte si, jak vás „my“ nutí jít přímo k věci a „neschovávat se
 
 **Výzva k odstranění vad žádosti**
 
-Dne 3. října 2019 podala paní Anna Loos, nar. 1. 3. 1980, st. přísl. Norsko, žádost o vydání povolení k trvalému pobytu na území České republiky z důvodu uvedeného v § 68 zák. č. 326/1999 Sb., o pobytu cizinců na území České republiky a o změně některých zákonů, ve znění pozdějších předpisů (dále jen „zák. č. 326/1999 Sb.“).
+Dne 3. října 2019 podala paní Anna Loos, nar. 1. 3. 1980, st. přísl. Maroko, žádost o vydání povolení k trvalému pobytu na území České republiky z důvodu uvedeného v § 68 zák. č. 326/1999 Sb., o pobytu cizinců na území České republiky a o změně některých zákonů, ve znění pozdějších předpisů (dále jen „zák. č. 326/1999 Sb.“).
 
 Nadepsaný správní orgán z žádosti zjistil, že tato trpí vadami, když neobsahuje všechny zákonem stanovené náležitosti uvedené v § 70 odst. 2 zák. č. 326/1999 Sb., popřípadě některé předložené náležitosti trpí vadami, které je třeba odstranit, aby bylo možno v řízení o žádosti pokračovat.
 
