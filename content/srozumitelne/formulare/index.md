@@ -30,7 +30,7 @@ Zejména jim poraďte:
 
   {{% vhodne %}}
 
-  Vybranou odpověď vyznačte křížkem ☒. Pokud se zmýlíte, chybně označené pole zcela přeškrtejte a označte správnou odpověď ☒.
+  Vybranou odpověď vyznačte křížkem ☒. Pokud se zmýlíte, chybně označené pole zcela přeškrtejte ■ a označte správnou odpověď ☒.
 
   {{% /vhodne %}}
 * na koho se mohou obrátit, pokud si s vyplňováním formuláře nebudou vědět rady nebo si nebudou jisti, zda vyplnili správně některý údaj;
