@@ -10,7 +10,7 @@ title: Písemnosti před a po
 7. [průvodce osobním listem důchodového pojištění](https://www.ochrance.cz/uploads-import/ESO/příručka/07_důchod_průvodce_OLDP.pdf)
 8. [exekuční příkaz (poučení o chráněném účtu)](<https://www.ochrance.cz/uploads-import/ESO/příručka/08_exekuční příkaz_poučení.docx>)
 9. [poučení účastníka pracovní rehabilitace (úřad práce)](https://www.ochrance.cz/uploads-import/ESO/příručka/09_poučení_pracovní_rehabilitace.docx)
-10. [výzva k odstranění vad žádosti o vydání povolení k trvalému pobytu](<10.	výzva k odstranění vad žádosti o vydání povolení k trvalému pobytu>)
+10. [výzva k odstranění vad žádosti o vydání povolení k trvalému pobytu](https://www.ochrance.cz/uploads-import/ESO/příručka/10_výzva_OAMP_trvalý_pobyt.docx)
 11. [nové posouzení důvodů neudělení víza (udělení víza)](https://www.ochrance.cz/uploads-import/ESO/příručka/11_vízum.docx)
 12. [rozhodnutí Ministerstva vnitra o neudělení mezinárodní ochrany](https://www.ochrance.cz/uploads-import/ESO/příručka/12_azyl.docx)
 13. [formulář žádosti o mimořádnou okamžitou pomoc – původní](https://www.ochrance.cz/uploads-import/ESO/příručka/13_žádost-MOP_původní.pdf)
