@@ -1,6 +1,6 @@
 ---
-title: " Chtěli bychom Vás upozornit, že zítra, 23. prosince bude na osobním
-  příjmu a podatelně zkrácená pracovní doba do 12 hodin. "
+title: Українці, увага! Тут ви можете знайти важливі посилання з інформацією про
+  ваше перебування в Чеській Республіці.    *
 active: true
 ---
 Українці, увага! Тут ви можете знайти важливі посилання з інформацією про ваше перебування в Чеській Республіці.  
