@@ -14,10 +14,10 @@ Na obecním úřadě jsou všichni pitomci, kteří kašlou na to, co jim naří
 
 S tím se obecnímu úřadu do plnění pokynu asi moc chtít nebude. Proto obecnímu úřadu raději napišme:
 
-{{% nevhodne %}}
+{{% vhodne %}}
 
 Zjistili jsme, že jste ještě nesplnili náš pokyn, který jsme vám poslali dne 1. 2. 2022 a znovu panu starostovi dne 5. 2. 2022. Žádáme, abyste pokyn provedli. Je to důležité, protože…
 
-{{% /nevhodne %}}
+{{% /vhodne %}}
 
 To znamená, že konstatujeme, kdy jsme jim pokyn poslali, požádáme je o splnění a nejlépe připojíme důvod proč. Třeba se jim náš pokyn zdál zbytečný a dosud neměli motivaci ho splnit. Je pravděpodobné, že budou mít větší chuť do práce než po přečtení původního znění.
