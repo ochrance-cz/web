@@ -39,9 +39,9 @@ V následujícím příkladu si přečtěte právní pravidlo a důležité info
 
 {{% pravni %}}
 
-Platnost povolení k dlouhodobému pobytu za účelem studia nelze prodloužit, pokud nastane důvod ke zrušení povolení \[§ 35 odst. 3 a § 37 odst. 2 písm. a) zákona o pobytu cizinců]. Takovým důvodem je i to, že žadatel správnímu orgánu ve stanovené lhůtě nepředloží doklady za účelem ověření údajů uvedených v žádosti \[§ 56 odst. 1 písm. a) zákona o pobytu cizinců].
+Platnost dlouhodobého víza za účelem studia nelze prodloužit, pokud nastane důvod ke zrušení platnosti víza \[§ 35 odst. 3 a § 37 odst. 2 písm. a) zákona o pobytu cizinců]. Takovým důvodem je i to, že žadatel správnímu orgánu ve stanovené lhůtě nepředloží doklady za účelem ověření údajů uvedených v žádosti \[§ 56 odst. 1 písm. a) zákona o pobytu cizinců]. 
 
-{{% /pravni %}}
+{% /pravni %}}
 
 {{% vecne %}}
 
@@ -53,6 +53,6 @@ Posuzujete věc takto?
 
 {{% hodnoceni %}}
 
-Proto jsme Vaši žádost o prodloužení povolení k dlouhodobému pobytu za účelem studia zamítli.
+Proto jsme Vaši žádost o prodloužení platnosti dlouhodobého víza za účelem studia zamítli.
 
 {{% /hodnoceni %}}
