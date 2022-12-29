@@ -16,4 +16,4 @@ Nebo:
 
 {{< sloupce "kratsi" >}}
 
-Všimněte si, že výraz bývá obvykle delší, když obsahuje abstraktní podstatné jméno nebo nedějové sloveso (blíže v kapitole [Pište konkrétní podstatná jména](https://www.ochrance.cz/srozumitelne/piste_konkretni_podstatna_jmena/)a [Pište s plnovýznamovými slovesy](https://www.ochrance.cz/srozumitelne/piste_s_plnovyznamovymi_slovesy/)[](https://www.ochrance.cz/srozumitelne/piste_konkretni_podstatna_jmena/)
+Všimněte si, že výraz bývá obvykle delší, když obsahuje abstraktní podstatné jméno nebo nedějové sloveso (blíže v kapitole [Pište konkrétní podstatná jména](https://www.ochrance.cz/srozumitelne/piste_konkretni_podstatna_jmena/) a [Pište s plnovýznamovými slovesy](https://www.ochrance.cz/srozumitelne/piste_s_plnovyznamovymi_slovesy/)[](https://www.ochrance.cz/srozumitelne/piste_konkretni_podstatna_jmena/).
