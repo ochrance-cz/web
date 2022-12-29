@@ -24,7 +24,7 @@ uložení povinnosti rodičům využít odbornou poradenskou pomoc
 
 podle § 12 odst. 1 písm. b) zákona č. 359/1999 Sb., o sociálně právní ochraně dětí, ve znění pozdějších předpisů.
 
-Ve správním řízení ve shora uvedené věci je určena úřední osobou oprávněnou k provádění úkonů paní Bc. Jana Šikovná, zaměstnankyně odboru sociálního a právního, oddělení sociálně právní ochrany dětí. K podepisování oznámení, usnesení a rozhodnutí je v souladu s Organizačním řádem Městského úřadu Litovel, určen vedoucí Odboru sociálního a správního JUDr. Petr Pavel.
+Ve správním řízení ve shora uvedené věci je určena úřední osobou oprávněnou k provádění úkonů paní Bc. Jana Šikovná, zaměstnankyně odboru sociálního a právního, oddělení sociálně právní ochrany dětí. K podepisování oznámení, usnesení a rozhodnutí je v souladu s Organizačním řádem Městského úřadu Litovel, určen vedoucí Odboru sociálního a správního JUDr. Petr Uvážlivý.
 
 JUDr. Petr Uvážlivý, vedoucí odboru sociálního a právního, Městský úřad Litovel
 
