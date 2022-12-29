@@ -70,7 +70,7 @@ Porovnejte následující dvě verze formuláře o ustanovení zvláštního př
 
 {{% nevhodne %}}
 
-Vyjádření oprávněného příjemce dávky důchodového pojištění2:
+Vyjádření oprávněného příjemce dávky důchodového pojištění*):
 
 ☐ Souhlas
 
@@ -80,7 +80,7 @@ Datum a podpis oprávněného příjemce dávky:
 
 ……………………………………………………………………...
 
-Vyjádření ošetřujícího lékaře (pouze v případě, že oprávněný příjemce není schopen dát souhlas dle § 118 odst. 3 zákona č. 582/1991 Sb., v platném znění3:
+Vyjádření ošetřujícího lékaře (pouze v případě, že oprávněný příjemce není schopen dát souhlas dle § 118 odst. 3 zákona č. 582/1991 Sb., v platném znění\*\*):
 
 ……………………………………………………………………...
 
@@ -88,9 +88,9 @@ Vyjádření ošetřujícího lékaře (pouze v případě, že oprávněný př
 
 ……………………………………………………………………...
 
-2 Zakřížkujte vhodnou variantu.
+\*) Zakřížkujte vhodnou variantu.
 
-3 Neuvádět diagnózu, ale stanovisko, zda vzhledem k aktuálnímu zdravotnímu stavu je oprávněný příjemce schopen/neschopen dát souhlas, resp. vyjádřit se k řízení s ustanovením zvláštního příjemce.
+\*\*) Neuvádět diagnózu, ale stanovisko, zda vzhledem k aktuálnímu zdravotnímu stavu je oprávněný příjemce schopen/neschopen dát souhlas, resp. vyjádřit se k řízení s ustanovením zvláštního příjemce.
 
 {{% /nevhodne %}}
 
