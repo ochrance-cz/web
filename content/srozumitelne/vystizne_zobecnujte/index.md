@@ -18,7 +18,7 @@ Ve sběrném dvoře lze odkládat i objemný odpad.
 
 {{% /vhodne %}}
 
-Zároveň však nepište příliš obecné výrazy. Například podle Metodické pomůcky pro přípravu návrhů právních předpisů vytýká následujícímu příkladu, že „příslušná ustanovení“ je příliš široký pojem na to, aby k něčemu byl:
+Zároveň však nepište příliš obecné výrazy. Například [Metodická pomůcka pro přípravu návrhů právních předpisů (III. část)](https://www.vlada.cz/assets/ppov/lrv/dokumenty/Metodicka_pomuckaIII.pdf) vytýká následujícímu příkladu, že „příslušná ustanovení“ je příliš široký pojem na to, aby k něčemu byl:
 
 {{% nevhodne %}}
 
