@@ -102,7 +102,7 @@ Datum a podpis oprávněného příjemce dávky:
 
 ……………………………………………………………………...
 
-*Pokud oprávněný příjemce důchodu není schopen dát souhlas, aby byl žadatel ustanoven zvláštním příjemcem jeho důchodu, prosíme, abyste opatřili vyjádření ošetřujícího lékaře o tom, zda je oprávněný příjemce schopen přejímat důchod a hospodařit s ním ve svůj prospěch, a zda je schopen se sám ve správním řízení zastupovat. Náklady na vyhotovení vyjádření lékaře hradí žadatel.* 
+*Pokud oprávněný příjemce důchodu není schopen dát souhlas, aby byl žadatel ustanoven zvláštním příjemcem jeho důchodu, prosíme, abyste opatřili vyjádření ošetřujícího lékaře o tom, zda je oprávněný příjemce schopen přijímat důchod a hospodařit s ním ve svůj prospěch, a zda je schopen se sám ve správním řízení zastupovat. Náklady na vyhotovení vyjádření lékaře hradí žadatel.* 
 
 **Vyjádření ošetřujícího lékaře:** (*zakřížkujte*)
 
