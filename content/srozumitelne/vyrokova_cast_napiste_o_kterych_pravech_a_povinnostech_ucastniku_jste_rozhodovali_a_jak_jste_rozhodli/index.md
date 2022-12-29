@@ -127,7 +127,7 @@ Nejvyšší nároky na přesnost a určitost kladou soudy na **rozhodnutí o př
 
   {{% /nevhodne %}}
 
-  Kromě dostatečného popisu protiprávního jednání chybí odkaz na § 24 odst. 2 zákona o silničním provozu, podle kterého „*při couvání řidič nesmí ohrozit ostatní účastníky provozu na pozemních komunikacích*“. Samotný § 125c odst. 1 písm. k) zákona o silničním provozu totiž říká jen toto: „*Fyzická osoba se dopustí přestupku tím, že v provozu na pozemních komunikacích … k) jiným jednáním, než které je uvedeno pod písmeny a) až j), nesplní nebo poruší povinnost stanovenou v hlavě II tohoto zákona.*“
+  Kromě dostatečného popisu protiprávního jednání chybí odkaz na § 24 odst. 2 zákona o silničním provozu, podle kterého „*při couvání řidič nesmí ohrozit ostatní účastníky provozu na pozemních komunikacích*“. Samotný § 125c odst. 1 písm. k) zákona o silničním provozu totiž říká jen toto: „*Fyzická osoba se dopustí přestupku tím, že v provozu na pozemních komunikacích \[...] jiným jednáním, než které je uvedeno pod písmeny a) až j), nesplní nebo poruší povinnost stanovenou v hlavě II tohoto zákona.*“
 
   {{% vhodne %}}
 
