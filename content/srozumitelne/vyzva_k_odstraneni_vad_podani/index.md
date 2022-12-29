@@ -32,7 +32,7 @@ Ve výzvě proto žadateli vysvětlete:
 
 ### Sdělte ve výzvě to, co je pro čtenáře podstatné, vypusťte všechno ostatní
 
-V kapitole kkk jsme psali, jak vyjádřit právní pravidlo, příběh a průvodní informace. Naše doporučení se v psaní výzev projeví takto:
+Popsali jsme, jak vyjádřit [právní pravidlo](https://www.ochrance.cz/srozumitelne/ujistete-se/), [příběh ](https://www.ochrance.cz/srozumitelne/pribeh_sdelte_jen_dulezite_informace_zelena/)a [průvodní informace](https://www.ochrance.cz/srozumitelne/pruvodni_informace_piste_jen_ty_podstatne_a_co_nejstrucneji_oranzova/). Naše doporučení se v psaní výzev projeví takto:
 
 #### Z ustanovení právních předpisů nebo judikatury zmiňujte jen to, co je podstatné pro vyřízení věci
 
