@@ -90,7 +90,7 @@ rozhodl správní orgán, že tato řízení povede jako společné řízení.
 
 {{% /hodnoceni %}}
 
-Odůvodnění (varianta 2)
+**Odůvodnění (varianta 2)**
 
 {{% procesni %}}
 
