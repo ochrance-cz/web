@@ -56,7 +56,7 @@ Městský úřad Krásné Obce (dále „my“) na návrh Františka Stavitele, 
 
 První odstavec odůvodnění (odstavec 4) můžete klidně vynechat. Obsahuje přehled všech dokumentů, které navrhovatel předložil. Většinu z nich však úřad nepotřeboval a při rozhodování je nepoužil. Ty, které použil, uvedeme u konkrétní podmínky, jejíž splnění prokazují.
 
-#### Sestavili jsme pro paní Fialovou právní pravidlo, podle kterého jsme rozhodli (kapitola [Právní pravidla...](https://www.ochrance.cz/srozumitelne/ujistete-se/)a [Odůvodnění...](https://www.ochrance.cz/srozumitelne/oduvodneni_vysvetlete_proc_jste_rozhodli_prave_takto/)), a uvedli je na začátku (kapitola [Jádro sdělení...](https://www.ochrance.cz/srozumitelne/jadro_sdeleni_napiste_na_zacatek/) a [Správní rozhodnutí](https://www.ochrance.cz/srozumitelne/obecne_ke_spravnimu_rozhodnuti/)[](https://www.ochrance.cz/srozumitelne/ujistete-se/)
+#### Sestavili jsme pro paní Fialovou právní pravidlo, podle kterého jsme rozhodli (kapitola [Právní pravidla...](https://www.ochrance.cz/srozumitelne/ujistete-se/) a [Odůvodnění...](https://www.ochrance.cz/srozumitelne/oduvodneni_vysvetlete_proc_jste_rozhodli_prave_takto/)), a uvedli je na začátku (kapitola [Jádro sdělení...](https://www.ochrance.cz/srozumitelne/jadro_sdeleni_napiste_na_zacatek/) a [Správní rozhodnutí](https://www.ochrance.cz/srozumitelne/obecne_ke_spravnimu_rozhodnuti/)[](https://www.ochrance.cz/srozumitelne/ujistete-se/))
 
 Úřad sice napsal, co vyplývá z § 12 odst. 1 písm. c) a odstavce 2 zákona o evidenci obyvatel, ale neudělal to příliš šikovně. Lepší by to bylo například takto:
 
