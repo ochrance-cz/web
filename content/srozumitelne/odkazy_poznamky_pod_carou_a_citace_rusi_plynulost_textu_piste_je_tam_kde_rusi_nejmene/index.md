@@ -22,9 +22,8 @@ Přesto, pokud odkazovat musíte, dodržujte tři zásady:
 
 Do poznámek pod čarou pište pouze to, co ruší plynulost textu a co zároveň není podstatné pro porozumění textu:
 
-čísla jednací, spisové značky apod.
-
-odkazy na judikaturu/literaturu
+* čísla jednací, spisové značky apod.
+* odkazy na judikaturu/literaturu
 
 Naopak do poznámek pod čarou nepište různé dodatečné informace, postranní úvahy nebo nesouvisející myšlenky, které se vám nehodí do textu. Pokud to totiž uděláte u jediné poznámky, musí se čtenář vždy u čísla poznámky pod čarou ve čtení zastavit a podívat se, jaký typ informace se v poznámce skrývá. Takhle bude poskakovat textem tam a zpět a brzy nebude vědět, o čem čte.
 
