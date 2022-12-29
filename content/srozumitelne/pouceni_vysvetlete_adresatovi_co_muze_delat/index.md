@@ -19,7 +19,7 @@ Podle § 68 odst. 5 a 6 správního řádu musíte v poučení uvést:
 
 ### Nepoučujte odkazem na právní předpis
 
-Pořád platí, že neznalost zákona neomlouvá, ale nezapomínejme, že tento princip vznikl ve starém Římě. Hádejte, kolik času by vám zabralo přečíst všechny české právní předpisy (jen ty, které se vás týkají)? Odpověď je na konci této kapitoly.
+Pořád platí, že neznalost zákona neomlouvá, ale nezapomínejme, že tento princip vznikl ve starém Římě. Hádejte, kolik času by vám zabralo přečíst všechny české právní předpisy (jen ty, které se vás týkají)? Odpověď je na konci další kapitoly.
 
 {{% nevhodne %}}
 
