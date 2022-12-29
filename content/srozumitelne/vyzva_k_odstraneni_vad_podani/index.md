@@ -109,7 +109,7 @@ Vyzýváme Vás proto, abyste nám předložila tyto doklady od svého zaměstna
 
 Doklady prosím doplňte ve lhůtě 14 dnů od doručení této výzvy.
 
-Pokud to neuděláte, vyzveme k předložení dokladů zaměstnavatele, o kterém od Vás víme. Když však neodpoví ani on, Vaši žádost o podporu v nezaměstnanosti zamítneme.
+Pokud to neuděláte, vyzveme k předložení dokladů Rychlou rotu nebo jiného zaměstnavatele, o kterém se od Vás dozvíme. Když však neodpoví ani on, Vaši žádost o podporu v nezaměstnanosti zamítneme.
 
 {{% /vhodne %}}
 
