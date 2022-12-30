@@ -127,13 +127,13 @@ textcontent:
 
       Několik doporučení na cestu:
   - before: piste_ctenarum_jako_byste_s_nimi_mluvili_pouzivejte_my_a_vy/index
-    text: "### Jak psát: Slova a výrazy v úředním textu"
+    text: "### Jak psát: slova a výrazy v úředním textu"
   - before: piste_kratke_vety/index
-    text: "### Jak psát: Věty"
+    text: "### Jak psát: věty"
   - before: provedte_ctenare_textem/index
     text: "### Jak psát: plynulost textu"
   - before: pokud_jste_neco_zkazili_omluvte_se/index
-    text: "### Jak psát: Podtext (tón)"
+    text: "### Jak psát: podtext (tón)"
   - before: ctete_po_sobe/index
     text: "### Nakonec se ujistěte, že jste sdělili, co jste chtěli, a že jste psali
       pro svého čtenáře"
