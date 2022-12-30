@@ -30,7 +30,7 @@ Pište výstižně i pravidlo, které jsme sestavili z právních předpisů či
 
 {{% nevhodne %}}
 
-V situaci, kdy určité ustanovení právního předpisu umožňuje dvě různé interpretace, přičemž jedna je v souladu s ústavním pořádkem a druhá je s ním v rozporu, není dán důvod zrušení tohoto ustanovení, ale k interpretaci ústavně konformním způsobem.
+V situaci, kdy určité ustanovení právního předpisu umožňuje dvě různé interpretace, přičemž jedna je v souladu s ústavním pořádkem a druhá je s ním v rozporu, není dán důvod ke zrušení tohoto ustanovení, ale k interpretaci ústavně konformním způsobem.
 
 {{% /nevhodne %}}
 
