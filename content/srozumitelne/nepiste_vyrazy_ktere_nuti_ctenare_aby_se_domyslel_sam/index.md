@@ -16,7 +16,7 @@ Proto bychom neměli odkazovat, ale shrnovat za čtenáře, pracovat s textem p�
 
 {{% nevhodne %}}
 
-Se shora uvedeného důvodu by Vám ČSSZ měla doplatit důchod za období od 1. 1. 2006.
+Ze shora uvedeného důvodu by Vám ČSSZ měla doplatit důchod za období od 1. 1. 2006.
 
 {{% /nevhodne %}}
 
