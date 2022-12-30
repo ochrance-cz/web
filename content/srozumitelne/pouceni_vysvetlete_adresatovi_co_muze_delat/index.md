@@ -1,7 +1,7 @@
 ---
 title: "Poučení: vysvětlete adresátovi, co může dělat"
 ---
-Smyslem poučení je účastníka informovat o jeho dalších možnostech tak, aby jich mohl skutečně využít (rozsudek NSS ze dne 19. 1. 2007, sp. zn. [4 As 68/2005](https://vyhledavac.nssoud.cz/DokumentOriginal/Html/248400)). Proto pište prakticky, přehledně a jasně, jako návod k pračce.
+Smyslem poučení je informovat účastníka o jeho dalších možnostech tak, aby jich mohl skutečně využít (rozsudek NSS ze dne 19. 1. 2007, sp. zn. [4 As 68/2005](https://vyhledavac.nssoud.cz/DokumentOriginal/Html/248400)). Proto pište prakticky, přehledně a jasně, jako návod k pračce.
 
 ### Napište v poučení, co vyžaduje zákon; můžete doplnit další poučení, která jsou pro účastníka praktická
 
