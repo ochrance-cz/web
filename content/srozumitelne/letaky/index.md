@@ -43,7 +43,7 @@ Ne. Epidemiologická opatření pro občany Ukrajiny vstupující do ČR zrušil
 
 Lepší je, když čtenář porozumí zjednodušeným informacím než žádným.
 
-Pokud text zjednodušíte příliš a není tak podle vašeho názoru právně přesný, sdělte to čtenářům. Napište jim, že text slouží jen pro orientaci, a poraďte jim, kde se dozví přesné či podrobnější informace.
+Pokud text zjednodušíte příliš a není tak podle vašeho názoru právně přesný, sdělte to čtenářům. Napište jim, že text slouží jen pro orientaci, a poraďte jim, kde se dozvědí přesné či podrobnější informace.
 
 {{% vhodne %}}
 
@@ -53,7 +53,7 @@ Vysvětlíme základní pravidla promíjení úroků finančními úřady. Podro
 
 ### Veďte se čtenářem rozhovor
 
-Důsledně dodržujte my–vy. Nepište o čtenáři ve 3. osobě a už vůbec o něm nepište jako o „osobě“. Srovnejte odpovědi na otázku:
+Důsledně dodržujte my–vy. Nepište o čtenáři ve 3. osobě, a už vůbec o něm nepište jako o „osobě“. Srovnejte odpovědi na otázku:
 
 {{% priklad %}}
 
