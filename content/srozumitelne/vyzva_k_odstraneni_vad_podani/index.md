@@ -27,7 +27,7 @@ Ve výzvě proto žadateli vysvětlete:
 
 * co je v podání špatně, co v něm chybí,
 * jak to může napravit,
-* dokdy a
+* dokdy, a
 * co se stane, pokud to neudělá.
 
 ### Sdělte ve výzvě to, co je pro čtenáře podstatné, vypusťte všechno ostatní
@@ -38,7 +38,7 @@ Popsali jsme, jak vyjádřit [právní pravidlo](https://www.ochrance.cz/srozumi
 
 {{% nevhodne %}}
 
-Odvolání nemá náležitosti podle § 82 odst. 2 zákona č. 500/2004 Sb. („Odvolání musí mít náležitosti uvedené v § 37 odst. 2 a musí obsahovat údaje o tom, proti kterému rozhodnutí směřuje, v jakém rozsahu ho napadá a v čem je spatřován rozpor s právními předpisy nebo nesprávnost rozhodnutí nebo řízení, jež mu předcházelo. Není-li v odvolání uvedeno, v jakém rozsahu odvolatel rozhodnutí napadá, platí, že se domáhá zrušení celého rozhodnutí. Odvolání se podává s potřebným počtem stejnopisů tak, aby jeden stejnopis zůstal správnímu orgánu a aby každý účastník dostal jeden stejnopis. Nepodá-li účastník potřebný počet stejnopisů, vyhotoví je správní orgán na náklady účastníka.“)
+Odvolání nemá náležitosti podle § 82 odst. 2 zákona č. 500/2004 Sb. („Odvolání musí mít náležitosti uvedené v § 37 odst. 2 a musí obsahovat údaje o tom, proti kterému rozhodnutí směřuje, v jakém rozsahu ho napadá a v čem je spatřován rozpor s právními předpisy nebo nesprávnost rozhodnutí nebo řízení, jež mu předcházelo. Není-li v odvolání uvedeno, v jakém rozsahu odvolatel rozhodnutí napadá, platí, že se domáhá zrušení celého rozhodnutí. Odvolání se podává s potřebným počtem stejnopisů tak, aby jeden stejnopis zůstal správnímu orgánu a aby každý účastník dostal jeden stejnopis. Nepodá-li účastník potřebný počet stejnopisů, vyhotoví je správní orgán na náklady účastníka.“).
 
 Vyzýváme Vás, abyste odstranil vady odvolání.
 
@@ -50,7 +50,7 @@ Vyzýváme Vás, abyste odstranil vady odvolání.
 
 Dne 1. května 2022 jsme obdrželi Váš dopis. Uvádíte, že podáváte odvolání proti rozhodnutí stavebního úřadu ze dne 17. dubna 2022, č. j. 1234/SÚ-2022.
 
-Podle § 82 odst. 2 zákona č. 500/2004 Sb. musí odvolání obsahovat také údaje o tom, proč odvolatel považuje rozhodnutí za nezákonné nebo nesprávné nebo proč za takové považuje řízení, které rozhodnutí předcházelo.
+Podle § 82 odst. 2 zákona č. 500/2004 Sb., správního řádu, musí odvolání obsahovat také údaje o tom, proč odvolatel považuje rozhodnutí za nezákonné nebo nesprávné nebo proč za takové považuje řízení, které rozhodnutí předcházelo.
 
 V odvolání jste neuvedl, proč nesouhlasíte s rozhodnutím nebo postupem stavebního úřadu, proto Vás žádáme o doplnění těchto informací, a to do 10 dnů od doručení této výzvy.
 
@@ -64,7 +64,7 @@ I když to neuděláte, posoudí odvolací orgán (krajský úřad), jestli napa
 
 Dne 1. 4. 2022 byla Městskému úřadu v Kocourkově doručena žádost o nahlížení do spisu ve věci pana Horáčka. Žádost nesplňuje požadavky stanovené zákonem.
 
-Podle § 38 odst. 2 zákona č. 500/2004 Sb. platí, že jiným osobám správní orgán umožní nahlédnout do spisu, prokáží-li právní zájem nebo jiný vážný důvod a nebude-li tím porušeno právo některého z účastníků, popřípadě dalších dotčených osob anebo veřejný zájem.
+Podle § 38 odst. 2 zákona č. 500/2004 Sb. platí, že jiným osobám správní orgán umožní nahlédnout do spisu, prokážou-li právní zájem nebo jiný vážný důvod a nebude-li tím porušeno právo některého z účastníků, popřípadě dalších dotčených osob, anebo veřejný zájem.
 
 Žádáme Vás proto, abyste opravil vady svého podání.
 
@@ -80,7 +80,7 @@ obdrželi jsme Vaši žádost o nahlížení do spisu o přestupkovém řízení
 
 Vaší žádosti zatím nemůžeme vyhovět.
 
-Jiné osoby než účastníci řízení totiž mohou do spisu nahlížet, jen pokud tvrdí a prokáží právní zájem nebo vážný důvod (§ 38 odst. 2 zákona č. 500/2004 Sb.) – například pokud informace ze spisu potřebují
+Jiné osoby než účastníci řízení totiž mohou do spisu nahlížet, jen pokud tvrdí a prokážou právní zájem nebo vážný důvod (§ 38 odst. 2 zákona č. 500/2004 Sb., správního řádu) – například pokud informace ze spisu potřebují
 
 * kvůli jinému řízení (např. podání žaloby na náhradu škody),
 * aby mohly zvážit, zda podle § 18 odst. 4 správního řádu podají stížnost proti obsahu protokolu o jednání nebo provedení úkonu, který se jich přímo týká,
@@ -92,7 +92,7 @@ Pokud to neuděláte, Vaši žádost zamítneme.
 
 {{% /vhodne %}}
 
-#### Právní pravidlo pro čtenáře sestavte (ustanovení právních předpisů a judikatury převyprávějte).
+#### Právní pravidlo pro čtenáře sestavte (ustanovení právních předpisů a judikatury převyprávějte)
 
 {{% vhodne %}}
 
@@ -113,7 +113,7 @@ Pokud to neuděláte, vyzveme k předložení dokladů Rychlou rotu nebo jiného
 
 {{% /vhodne %}}
 
-#### Poraďte čtenáři, jak může dosáhnout toho, co chce.
+#### Poraďte čtenáři, jak může dosáhnout toho, co chce
 
 {{% nevhodne %}}
 
