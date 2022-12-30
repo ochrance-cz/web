@@ -5,9 +5,9 @@ Za úřední informace na webu považujeme ty informace, které tvoříme přím
 
 Úřední informace na webu lidé vyhledávají, než nás kontaktují, což nám šetří práci – pokud jsou ovšem informace na našem webu dostupné, stručné, nápomocné a aktuální. To nás tedy zavazuje k tomu, abychom je takové psali. Pokud to neuděláme, nebudou mít lidé k našemu webu důvěru a budou hledat jinde (na různých „zaručených“ internetových fórech, odkud budou mít různé zaručené informace, které vám budou vnucovat a vy je budete vyvracet).
 
-Lidé na webu chtějí rychle najít, co potřebují, porozumět tomu a moci podle toho jednat. Proto[ web nečtou, nýbrž skenují](https://www.nngroup.com/articles/how-users-read-on-the-web/). Přes 80 % čtenářů nejprve stránku přehlédne očima („oskenuje“), jen méně než 15 % čte popořadě. Během pěti sekund se rozhodnou, zda je pro ně váš web užitečný. Nečtou nutně shora dolů. Často skenují stránky pohybem očí ve tvaru písmene F a zaměřují se na levou horní část stránky, nadpisy a několik prvních slov věty nebo seznamu. V průměru čtou pouze první dvě slova na každém řádku a přečtou pouze 20 až 28 % webové stránky; ve stresu přeskakují ještě více. Zpravidla je při čtení něco ruší: e-mailové notifikace, reklamy.
+Lidé na webu chtějí rychle najít, co potřebují, porozumět tomu a moci podle toho jednat. Proto[ web nečtou, nýbrž skenují](https://www.nngroup.com/articles/how-users-read-on-the-web/). Přes 80 % čtenářů nejprve stránku přehlédne očima („oskenuje“), jen méně než 15 % čte popořadě. Během pěti sekund se rozhodnou, zda je pro ně váš web užitečný. Nečtou nutně shora dolů. Často skenují stránky pohybem očí ve tvaru písmene F a zaměřují se na levou horní část stránky, nadpisy a několik prvních slov věty nebo seznamu. V průměru čtou pouze první dvě slova na každém řádku a přečtou pouze 20 až 28 % webové stránky; ve stresu přeskakují ještě více. Zpravidla je při čtení něco ruší: upozornění na e-maily, reklamy.
 
-Proto pravidla pro psaní webu britské vlády [gov.uk](https://www.gov.uk/guidance/content-design/writing-for-gov-uk) doporučují psát na web jako pro devítileté děti. V tomto věku již děti mají plnou slovní zásobu běžných slov, která umí používat. Tato slova jsou i pro dospělého nejsrozumitelnější, protože je používá nejdéle, i když může mít slovní zásobu násobně větší. V devíti letech také děti přestanou známá slova číst a začnou rozpoznávat jejich tvar. Díky tomu mohou číst mnohem rychleji. Postupně zvládnou známá slova předvídat či přeskakovat. Mozek může vypustit až 30 % textu, a přesto mu porozumí.
+Proto pravidla pro psaní webu britské vlády [gov.uk](https://www.gov.uk/guidance/content-design/writing-for-gov-uk) doporučují psát na web jako pro devítileté děti. V tomto věku již děti mají plnou slovní zásobu běžných slov, která umějí používat. Tato slova jsou i pro dospělého nejsrozumitelnější, protože je používá nejdéle, i když může mít slovní zásobu násobně větší. V devíti letech také děti přestanou známá slova číst a začnou rozpoznávat jejich tvar. Díky tomu mohou číst mnohem rychleji. Postupně zvládnou známá slova předvídat či přeskakovat. Mozek může vypustit až 30 % textu, a přesto mu porozumí.
 
 Na webu je mnoho dobrých zdrojů typu „jak psát na web“. Proto v naší příručce zmiňujeme jen ta nejdůležitější pravidla a vycházíme ze zdrojů, které cílí přímo na psaní úředních webů. Předně z [Pravidel pro tvorbu obsahu na webu](https://designsystem.gov.cz/#/pravidla/pravidla-pro-tvorbu-obsahu) [Design systému](https://designsystem.gov.cz/) Ministerstva vnitra, která sama vycházejí z pravidel pro informace na web britské vlády [gov.uk](https://www.gov.uk/guidance/content-design/writing-for-gov-uk). Dále jsou užitečná i pravidla pro tvorbu webu americké Plain Language Action and Information Network (PLAIN) [plainlanguage.gov](https://www.plainlanguage.gov/guidelines/web/write-effective-links/). Pokud vás psaní na web zajímá, rozhodně tyto weby navštivte.
 
@@ -57,7 +57,7 @@ Komunální odpad – nové
 
 {{% vhodne %}}
 
-Jaké budou poplatky za komunální odpad v roce 2022
+Jaké budou poplatky za komunální odpad v roce 2022?
 
 {{% /vhodne %}}
 
@@ -97,6 +97,6 @@ Pokud přesto chcete zveřejnit pdf soubor, uveďte, o čem soubor je a jak je v
 
 Pokud je na stránce máte, je to zpravidla proto, že lidé jinde na stránce nenašli, co hledají. Proto se spíše snažte zpřehlednit obsah stránek.
 
-Často kladené dotazy jsou taky zavádějící v tom, že se nejedná o opravdu kladené dotazy, ale o dotazy, o kterých si tvůrce textu myslí, že si je lidé kladou.
+Často kladené dotazy jsou také zavádějící v tom, že se nejedná o opravdu kladené dotazy, ale o dotazy, o kterých si tvůrce textu myslí, že si je lidé kladou.
 
 ### Nepoužívejte poznámky pod čarou
