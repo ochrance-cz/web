@@ -2,7 +2,7 @@
 title: Složitá témata vysvětlete na příkladech
 num: 16
 ---
-Příklady jsou užitečné vždy, protože umožňují čtenáři vžít se do děje, představit si situaci. Zejména pokud sdělujete abstraktní pojmy, odborné termíny nebo vysvětlujete čtenáři, jak něco vypočítat:
+Příklady jsou užitečné vždy, protože umožňují čtenáři vžít se do děje, představit si situaci. Zejména pokud sdělujete abstraktní pojmy či odborné termíny nebo vysvětlujete čtenáři, jak něco vypočítat:
 
 {{% vhodne %}}
 
