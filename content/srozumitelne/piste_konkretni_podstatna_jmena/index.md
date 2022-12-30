@@ -2,7 +2,7 @@
 title: Pište konkrétní podstatná jména
 num: 24
 ---
-Konkrétní podstatná jména také vyvolávají konkrétní představy. Bohužel, v úředních textech najdeme záplavu slov abstraktních, která vyvolávají představy přinejlepším velmi obecné, například:
+Konkrétní podstatná jména také vyvolávají konkrétní představy. Bohužel v úředních textech najdeme záplavu slov abstraktních, která vyvolávají představy přinejlepším velmi obecné, například:
 
 {{% priklad %}}
 
@@ -18,6 +18,6 @@ Vyvstaly pochybnosti o tom, zda je základem úvahy stavebního úřadu skutečn
 
 {{% /nevhodne %}}
 
-Z věty jsme se dozvěděli, že někdo má pochybnosti o tom, že podání žádosti nějak souvisí s povolením stavby. Tohle čtenář zřejmě věděl ještě, než si větu přečetl. Kdo má pochybnosti, jaké to konkrétně jsou a jaká je příčinná souvislost mezi „okolnostmi“ podání žádosti a vydáním dodatečného povolení, se nedozvěděl. V hlavě nemá příběh, ale jakousi mlhu, ze které se místy vynořuje silueta stavebního úřadu.
+Z věty jsme se dozvěděli, že někdo má pochybnosti o tom, že podání žádosti nějak souvisí s povolením stavby. Tohle čtenář zřejmě věděl, ještě než si větu přečetl. Kdo má pochybnosti, jaké to konkrétně jsou a jaká je příčinná souvislost mezi „okolnostmi“ podání žádosti a vydáním dodatečného povolení, se však čtenář nedozvěděl. V hlavě nemá příběh, ale jakousi mlhu, ze které se místy vynořuje silueta stavebního úřadu.
 
 Někdy sklouzneme k abstraktním výrazům, protože potřebujeme mít „pokryté“ všechny možnosti, abychom nic neopomněli. Paradoxně však takový text podává nepřesné sdělení a může vyvolat i právní nejistotu adresátů.
