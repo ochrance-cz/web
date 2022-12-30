@@ -2,7 +2,12 @@
 title: Omezte slovesa, která potřebují předmět
 num: 19
 ---
-Ještě si v předchozím příkladu všimněte slovesa „ovlivnilo“. Podobně jako slovesa „dopadat na“, „zaměřit se na“, „poukázat na“ potřebuje „ovlivnit“ předmět ve 4. pádě: ovlivnilo postup. To má dva důsledky: 1. Místo jednoho výstižného slova potřebujeme dvě. 2. „Ovlivní“ nám přesně nesděluje, co králík udělal, děj si musíme domyslet. Taková slovesa zpravidla děj zamlží.
+Ještě si v předchozím příkladu všimněte slovesa „ovlivnilo“. Podobně jako slovesa „dopadat na“, „zaměřit se na“, „poukázat na“ potřebuje „ovlivnit“ předmět ve 4. pádu: ovlivnilo postup. To má dva důsledky:
+
+1. Místo jednoho výstižného slova potřebujeme dvě.
+2. „Ovlivní“ nám přesně nesděluje, co králík udělal, děj si musíme domyslet.
+
+Taková příliš obecná slovesa zpravidla děj zamlží.
 
 Například: „Policista prováděl výslech podezřelého.“ Kdybychom napsali „policista vyslýchal podezřelého“, stačí nám rychlé „vyslýchal“ a sloveso „prováděl“ nepotřebujeme.
 
@@ -14,7 +19,7 @@ Skutečnost, že stavebník nepoužil na stavbu schválené stavební materiály
 
 {{% /nevhodne %}}
 
-Z věty jsme se dozvěděli, že: 1. použití neschváleného stavebního materiálu „ovlivní“ rozhodnutí stavebního úřadu, 2. stavební úřad se na námitku „zaměří“. Domyslet si můžeme, že stavební úřad prověří, jak to s použitím stavebního materiálu bylo, a pokud zjistí, že materiál nebyl schválený, nějak se to promítne v rozhodnutí; asi ne příznivě. Zkusme to jinak:
+Z věty jsme se dozvěděli, že: 1. použití neschváleného stavebního materiálu „ovlivní“ rozhodnutí stavebního úřadu, 2. stavební úřad se na námitku „zaměří“. Domyslet si můžeme, že stavební úřad prověří, jak to s použitím stavebního materiálu bylo, a pokud zjistí, že materiál nebyl schválen, nějak se to promítne v rozhodnutí; asi ne příznivě. Zkusme to jinak:
 
 {{% vhodne %}}
 
@@ -22,4 +27,4 @@ Z věty jsme se dozvěděli, že: 1. použití neschváleného stavebního mater
 
 {{% /vhodne %}}
 
-Z věty jsme se dozvěděli, co tvrdí účastník řízení, co stavební úřad prověří a navíc, jak následně rozhodne. Domýšlet si nemusíme nic.
+Z věty jsme se dozvěděli, co tvrdí účastník řízení, co stavební úřad prověří, a navíc, jak následně rozhodne. Domýšlet si nemusíme nic.
