@@ -32,7 +32,7 @@ A žalobce taky nepříznivé následky ponese.
 
 ### Přísudek a předmět
 
-V kapitole [Pište s plnovýznamovými slovesy](https://www.ochrance.cz/srozumitelne/piste_s_plnovyznamovymi_slovesy/) jsme vysvětlili, že taková slovesa předmět nepotřebují. Například „vydal rozhodnutí“ můžeme nahradit slovesem „rozhodl“. Některá slovesa však nahradit nemůžeme. Pak musíme dbát na to, aby stál předmět blízko nich. Přečtěte si následující větu. Jakmile narazíte na sloveso „podal“, budete chtít vědět co podal. Že podal námitky se dozvíte až po 15-ti slovech. Těch 15 slov však nečtete, protože hledáte, co ten člověk podal:
+V kapitole [Pište s plnovýznamovými slovesy](https://www.ochrance.cz/srozumitelne/piste_s_plnovyznamovymi_slovesy/) jsme vysvětlili, že taková slovesa předmět nepotřebují. Například „vydal rozhodnutí“ můžeme nahradit slovesem „rozhodl“. Některá slovesa však nahradit nemůžeme. Pak musíme dbát na to, aby stál předmět blízko nich. Přečtěte si následující větu. Jakmile narazíte na sloveso „podal“, budete chtít vědět, co podal. Že podal námitky, se dozvíte až po 15 slovech. Těch 15 slov však nečtete, protože hledáte, co ten člověk podal:
 
 {{% nevhodne %}}
 
@@ -58,11 +58,11 @@ V případě, že nebude v uvedené lhůtě vada odstraněna, bude v souladu s u
 
 {{% /nevhodne %}}
 
-„Nebude“ a „odstraněna“ od sebe dělí čtyři slova, „bude“ a „zastaveno“, dokonce slov 21. Zkusme napsat části slovesných tvarů blízko sebe (ponechejme pro názornost trpný rod):
+„Nebude“ a „odstraněna“ od sebe dělí čtyři slova, „bude“ a „zastaveno“ dokonce slov 21. Zkusme napsat části slovesných tvarů blízko sebe (ponechejme pro názornost trpný rod):
 
 {{% vhodne %}}
 
-V případě, že v uvedené lhůtě nebude vada odstraněna, bude řízení zastaveno v souladu s ustanovením § 66 odst. 1 písm. c zákona č. 500/2004 Sb., správní řád, ve znění pozdějších předpisů.
+Pokud v uvedené lhůtě nebude vada odstraněna, bude řízení zastaveno podle § 66 odst. 1 písm. c) zákona č. 500/2004 Sb., správního řádu.
 
 {{% /vhodne %}}
 
