@@ -42,7 +42,7 @@ Správní orgán je povinen rozhodnout o žádosti o povolení k trvalému pobyt
 
 {{% vecne %}}
 
-Stěžovatel podal svou žádost dne 30. července 2015. OAMP dosud, tedy po uplynutí 23 měsíců, nerozhodl.
+Žádost jste podal dne 30. července 2015. OAMP dosud, tedy po uplynutí 23 měsíců, nerozhodl.
 
 {{% /vecne %}}
 
@@ -56,11 +56,11 @@ OAMP proto pochybil, protože nerozhodl v zákonné lhůtě 60 dnů.
 
 {{% nevhodne %}}
 
-Dne **4. 2. a 5. 2. 2021** byly Vaše děti v kontaktu s osobou, která je Covid pozitivní. Epidemiologickým šetřením byly u Vámi zaslaných kontaktů shledány důvody pro karanténní opatření do **15. 2. 2021**.
+Dne **4. 2. a 5. 2. 2021** byly Vaše děti v kontaktu s osobou, která je pozitivní na covid. Epidemiologickým šetřením byly u Vámi zaslaných kontaktů shledány důvody pro karanténní opatření do **15. 2. 2021**. 
 
-Pokud je v době **do 90 dnů od ukončení izolace po prodělaném onemocnění** dítě v kontaktu v rodině nebo ve škole s další COVID-19 pozitivní osobou, karanténa se na něj nevztahuje, tj. nepožaduje se ani testování, pokud nejeví známky onemocnění.
+Pokud je v době **do 90 dnů od ukončení izolace po prodělaném onemocnění** dítě v kontaktu v rodině nebo ve škole s další osobou pozitivní na covid-19, karanténa se na něj nevztahuje, tj. nepožaduje se ani testování, pokud nejeví známky onemocnění.
 
-**Karanténní opatření stanovené mimořádným opatřením MZ ČR aktuálně zahrnují: domácí karanténu minimálně po dobu 10 dnů a vyšetření výtěr z krku a z nosu (RT-PCR test na přítomnost viru SARS-CoV-2)** v rozmezí 5. až 7. dne od posledního kontaktu s pozitivně testovanou osobou, nejpozději však do 10. dne.
+**Karanténní opatření stanovené mimořádným opatřením MZ ČR aktuálně zahrnují: domácí karanténu minimálně po dobu 10 dnů a vyšetření – výtěr z krku a z nosu (RT-PCR test na přítomnost viru SARS-CoV-2)**  v rozmezí 5. až 7. dne od posledního kontaktu s pozitivně testovanou osobou, nejpozději však do 10. dne.
 
 {{% /nevhodne %}}
 
@@ -68,31 +68,31 @@ Pokud je v době **do 90 dnů od ukončení izolace po prodělaném onemocnění
 
 \[Dobrý den/vážení rodiče]
 
-ve dnech 4. a 5. února 2021 byly Vaše děti v kontaktu s COVID-19 pozitivním člověkem. Abychom předešli dalšímu šíření nemoci, **nařizujeme karanténní opatření**:
+ve dnech 4. a 5. února 2021 byly Vaše děti v kontaktu s člověkem pozitivním na covid-19. Abychom předešli dalšímu šíření nemoci, **nařizujeme karanténní opatření**:
 
-* **Vaše děti musí být v domácí izolaci nejméně do 15. února 2021**.
-* **Vaše děti musí podstoupit RT-PCR test na přítomnost viru SARS-CoV-2** v rozmezí nejlépe 5. až 7. dne, nejpozději však 10. dne od posledního kontaktu s COVID-19 pozitivním člověkem.
+* **Vaše děti musejí být v domácí izolaci nejméně do 15. února 2021**.
+* **Vaše děti musejí podstoupit RT-PCR test na přítomnost viru SARS-CoV-2** v rozmezí nejlépe 5. až 7. dne, nejpozději však 10. dne od posledního kontaktu s člověkem pozitivním na covid-19.
 
 **Karanténní opatření Vaše dítě dodržovat nemusí**, pokud
 
-* se setkalo s COVID-19 pozitivním člověkem do 90 dní poté, co samo COVID-19 prodělalo (počítá se od ukončení karanténních opatření); a
-* zároveň nemá příznaky onemocnění. Nejčastějšími příznaky jsou suchý kašel, teplota, zažívací obtíže, ztráta chuti a čichu.
+* se setkalo s člověkem pozitivním na covid do 90 dní poté, co samo covid prodělalo (počítá se od ukončení karanténních opatření);
+* a zároveň nemá příznaky onemocnění. Nejčastějšími příznaky jsou suchý kašel, teplota, zažívací obtíže, ztráta chuti a čichu.
 
 {{% /vhodne %}}
 
 ### Vysvětlete čtenáři, co v dokumentu bude
 
-Například, pokud sdělujete čtenáři obecné informace nebo pokud korespondenci s ním zahajujete vy (nereagujete na jeho podnět, návrh či stížnost).
+Například pokud sdělujete čtenáři obecné informace nebo pokud korespondenci s ním zahajujete vy (nereagujete na jeho podnět, návrh či stížnost).
 
 {{% vhodne %}}
 
 **Leták o dávkách na bydlení**
 
-Vysvětlíme, kdy můžete dávky na bydlení získat a jak si je udržet. Popíšeme, jak bude úřad práce zkoumat Vaše příjmy a výdaje za bydlení. Dozvíte se, jak se určí výše dávek na bydlení a kdy se vyplácejí. Zjistíte, co dělat s přeplatky nebo nedoplatky na energiích, jestli můžete dostat peníze na kauci při uzavření nové smlouvy a další podrobnosti.
+Vysvětlíme, kdy můžete dávky na bydlení získat a jak si je udržet. Popíšeme, jak bude úřad práce zkoumat Vaše příjmy a výdaje za bydlení. Dozvíte se, jak se určí výše dávek na bydlení a kdy se vyplácejí. Zjistíte, co dělat s přeplatky nebo nedoplatky na energiích, jestli můžete dostat peníze na kauci při uzavření nové smlouvy, a další podrobnosti.
 
 {{% /vhodne %}}
 
-Pomůže, když přesně popíšete, o čem dokument bude **v předmětu e-mailu nebo v označení věci**:
+Pomůže, když přesně popíšete, o čem dokument bude, **v předmětu e-mailu nebo v označení věci**:
 
 {{% nevhodne %}}
 
@@ -122,7 +122,7 @@ Zákon č. 349/1999 Sb., o veřejném ochránci práv, ve znění pozdějších 
 
 Přečetli jste 85 slov, ale stále neznáte podstatu odpovědi. Oči letí po textu a následuje: no a?
 
-Je lepší napsat odpověď hned, jako byste se čtenářem mluvili.
+Je lepší napsat odpověď hned v úvodu, jako byste se čtenářem mluvili.
 
 {{% vhodne %}}
 
@@ -130,24 +130,24 @@ Vážený pane Boučku,
 
 obrátil jste se na mě se stížností na Vašeho souseda, který Vám přes plot hází do zahrady plevel.
 
-Nemohu Vám v této věci pomoci, protože mi to zákon nedovoluje. Zákon mne opravňuje šetřit pouze potíže občanů s úřady, ne se soukromými osobami, jako je Váš soused (§ 1 zákona č. 349/1999 Sb., o veřejném ochránci práv).
+Nemohu Vám v této věci pomoci, protože mi to zákon nedovoluje. Zákon mne opravňuje řešit pouze potíže občanů s úřady, ne se soukromými osobami, jako je Váš soused (§ 1 zákona č. 349/1999 Sb., o veřejném ochránci práv).
 
 {{% /vhodne %}}
 
-Jádro sdělení napište hned, i když čtenáři sdělujete **špatnou zprávu** – jako v předchozím příkladu. Čtenáři nepomůže, když mu špatnou zprávu zabalíme do nesrozumitelných vět a sdělíme ji nakonec. Ostatně, i ve správních rozhodnutích se nepříznivý výrok dozvíme hned na začátku.
+Jádro sdělení napište hned, i když čtenáři sdělujete **špatnou zprávu** – jako v předchozím příkladu. Čtenáři nepomůže, když mu špatnou zprávu zabalíme do nesrozumitelných vět a sdělíme ji nakonec. Ostatně i ve správních rozhodnutích se nepříznivý výrok dozvíme hned na začátku.
 
 {{% vhodne %}}
 
-**Odpověď na Vaši stížnost na Velkou Pojišťovnu, a. s.**
+**Odpověď na Vaši stížnost na Velkou pojišťovnu, a. s.**
 
 Vážený pane Lebedo,
 
-odpovídáme na Vaši stížnost doručenou dne 2. 12. 2019. Nesouhlasíte s tím, jak Velká Pojišťovna, a. s., prošetřila Váš úraz, a také s tím, že Vám nevyplatila pojistné plnění za trvalé následky úrazu.
+odpovídáme na Vaši stížnost doručenou dne 2. 12. 2019. Nesouhlasíte s tím, jak Velká pojišťovna, a. s., prošetřila Váš úraz, a také s tím, že Vám nevyplatila pojistné plnění za trvalé následky úrazu.
 
 **Ve sporu s pojišťovnou Vám nemůžeme pomoci.**
 
 Podle zákona* nesmíme zasahovat přímo do vztahů mezi pojišťovnami a jejich klienty… \[…]
 
-> \* Zákon č. 6/19963 Sb., o České národní bance, zákon č. 277/2009 Sb., o pojišťovnictví, zákon č. 170/2018 Sb., o distribuci pojištění a zajištění, zákon č 634/1992 Sb., o ochraně spotřebitele.
+> \* Zákon č. 6/19963 Sb., o České národní bance, zákon č. 277/2009 Sb., o pojišťovnictví, zákon č. 170/2018 Sb., o distribuci pojištění a zajištění, zákon č. 634/1992 Sb., o ochraně spotřebitele.
 
 {{% /vhodne %}}
