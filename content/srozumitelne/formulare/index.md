@@ -7,15 +7,15 @@ Lidé při vyplňování formulářů často tápou a dělají chyby. To nás v�
 
 Upravte je graficky tak, aby se v nich lidé snadno a rychle zorientovali. Používejte různé obrázky, tabulky, návodné popisky apod.
 
-### Zorganizujte formulář přehledně
+### Uspořádejte formulář přehledně
 
 * Ujistěte se, že je ve formuláři všechno, co potřebujete zjistit. Předejdete tak tomu, abyste se museli doptávat na další informace.
-* Rozdělte požadované údaje do několika oddílů podle jejich věcného zaměření, logicky je uspořádejte a označte nadpisy.
+* Rozdělte požadované údaje do několika oddílů podle jejich věcného zaměření, logicky je seřaďte a označte nadpisy.
 * Přehledně rozlišujte:
 
   * povinné a nepovinné údaje,
   * počet možností, které je třeba vyznačit/vyplnit,
-  * části formuláře, které musí vyplnit jen určité skupiny osob (například cizinci),
+  * části formuláře, které musejí vyplnit jen určité skupiny osob (například cizinci),
   * části formuláře, které vyplní úředník poté, co obdrží žádost.
 * Viditelně vymezte prostor, do kterého mají lidé uvést svou odpověď.
 * Ponechejte ve formuláři dostatečně velké místo na to, aby lidé mohli doplnit veškeré potřebné údaje.
@@ -45,7 +45,7 @@ Zejména jim poraďte:
   * nám napište na dotazy@urad.cz.
 
   {{% /vhodne %}}
-* (pokud používáte strojově čitelný formulář) jakou barvou propisovací tužky musí formulář vyplnit a že nemají používat mazací pera citlivá na teplo (typu Pilot frixion).
+* (pokud používáte strojově čitelný formulář) jakou barvou propisovací tužky musí formulář vyplnit a že nemají používat mazací pera citlivá na teplo (typu Pilot Frixion).
 
 ### Používejte jednoduché pokyny a otázky
 
@@ -102,17 +102,17 @@ Datum a podpis oprávněného příjemce dávky:
 
 ……………………………………………………………………...
 
-*Pokud oprávněný příjemce důchodu není schopen dát souhlas, aby byl žadatel ustanoven zvláštním příjemcem jeho důchodu, prosíme, abyste opatřili vyjádření ošetřujícího lékaře o tom, zda je oprávněný příjemce schopen přijímat důchod a hospodařit s ním ve svůj prospěch, a zda je schopen se sám ve správním řízení zastupovat. Náklady na vyhotovení vyjádření lékaře hradí žadatel.* 
+*Pokud oprávněný příjemce důchodu není schopen dát souhlas, aby byl žadatel ustanoven zvláštním příjemcem jeho důchodu, prosíme, abyste opatřili vyjádření ošetřujícího lékaře o tom, zda je oprávněný příjemce schopen přijímat důchod a hospodařit s ním ve svůj prospěch a zda je schopen vystupovat ve správním řízení samostatně. Náklady na vyhotovení vyjádření lékaře hradí žadatel.* 
 
 **Vyjádření ošetřujícího lékaře:** (*zakřížkujte*)
 
 Oprávněný příjemce důchodu
 
-☐ je  ☐není schopen přijímat důchod
+☐ je  ☐není schopen přijímat důchod,
 
-☐ je  ☐není schopen s důchodem hospodařit ve svůj prospěch
+☐ je  ☐není schopen s důchodem hospodařit ve svůj prospěch,
 
-☐ je  ☐není schopen se sám v řízení zastupovat
+☐ je  ☐není schopen vystupovat v řízení samostatně.
 
 Datum, podpis a razítko ošetřujícího lékaře:
 
@@ -122,7 +122,7 @@ Datum, podpis a razítko ošetřujícího lékaře:
 
 ### Vysvětlete cizí slova, právní pojmy, odborné termíny a běžně neužívané zkratky
 
-Například ve formulářích najdeme pojmy jako rozhodné období, společně posuzované osoby nebo nezaopatřenost dítěte. Většina lidí neví, co znamenají, dokud se to nedozví ze zkušenosti. Pojmy jim stručně vysvětlete.
+Ve formulářích najdeme pojmy jako například rozhodné období, společně posuzované osoby nebo nezaopatřenost dítěte. Většina lidí neví, co znamenají, dokud se to nedozví ze zkušenosti. Pojmy jim proto stručně vysvětlete.
 
 Nebo v jiném formuláři úřad práce potřebuje v řízení o dávkách státní sociální podpory zjistit, který úřad žadateli vyplácí dávku důchodového pojištění. Na výběr jsou tyto možnosti:
 
