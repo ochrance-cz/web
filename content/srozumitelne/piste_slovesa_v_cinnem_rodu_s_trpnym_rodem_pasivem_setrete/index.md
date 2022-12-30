@@ -2,7 +2,7 @@
 title: Pište slovesa v činném rodu, s trpným rodem (pasivem) šetřete
 num: 22
 ---
-Slovesa v trpném rodu se hůře čtou než slovesa v rodu činném. Přesto je jako úředníci máme v DNA, je to tajné poznávací znamení úředního textu. Krásně nám zamlžují, kdo je za co zodpovědný. Například:
+Slovesa v trpném rodu se čtou hůře než slovesa v rodu činném. Přesto je jako úředníci máme v DNA, je to tajné poznávací znamení úředního textu. Krásně nám zamlžují, kdo je za co zodpovědný. Například:
 
 {{% nevhodne %}}
 
