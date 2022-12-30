@@ -9,7 +9,7 @@ Správní rozhodnutí se odůvodňují. Výjimky z tohoto pravidla může stanov
 
 Pokud účastníkovi řízení nevyhovíte, rozhodnutí odůvodněte. Účastník řízení by se měl dozvědět, proč jste mu nevyhověli.
 
-### Uvědomte si, jaký typ informace sdělujete a bezdůvodně je nemíchejte
+### Uvědomte si, jaký typ informace sdělujete, a bezdůvodně různé informace nemíchejte
 
 Podle § 68 odst. 3 správního řádu musí odůvodnění obsahovat:
 
@@ -26,9 +26,9 @@ V odůvodnění jsou důležité první tři:
 2. příběh, tedy skutkové důvody výroků rozhodnutí a podklady pro vydání rozhodnutí,
 3. právní posouzení, tedy vaše úvahy při hodnocení podkladů a výkladu právních pravidel.
 
-Informace o tom, jak jste se vypořádali s návrhy, námitkami či vyjádřením účastníků najdete ve všech třech typech.
+Informace o tom, jak jste se vypořádali s návrhy, námitkami či vyjádřením účastníků, najdete ve všech třech typech.
 
-Proč to připomínáme? Protože je pro přehlednost důležité, abyste je dostatečně oddělili. Tak se ujistíte, že jste skutkovým důvodům vymezili jasný a přesvědčivý právní rámec a zároveň, že uvádíte jen podstatné skutkové důvody a podklady, o které se opíráte.
+Proč to připomínáme? Protože je pro přehlednost důležité, abyste je dostatečně oddělili. Tak se ujistíte, že jste skutkovým důvodům vymezili jasný a přesvědčivý právní rámec a zároveň že uvádíte jen podstatné skutkové důvody a podklady, o které se opíráte.
 
 Obvykle bývá přehledné, pokud **nejprve vysvětlíte právní pravidlo** a teprve pak je použijete na příběh a právně posoudíte. Připomeňme si příklad z kapitoly [Právní posouzení...](https://www.ochrance.cz/srozumitelne/pravni_posouzeni_jak_se_pravni_pravidla_pouziji_v_konkretnim_pribehu_cervena/):
 
@@ -56,13 +56,13 @@ Proto jsme Vaši žádost o prodloužení platnosti dlouhodobého víza za úče
 
 ### Uveďte (popřípadě sestavte) právní pravidla, podle kterých jste rozhodli, a vysvětlete je
 
-Připomeňme si příklad z kapitoly [Průvodní informace...](https://www.ochrance.cz/srozumitelne/pruvodni_informace_piste_jen_ty_podstatne_a_co_nejstrucneji_oranzova/) V první variantě odůvodnění úřad nevymezil právní pravidlo, což v tomto krátkém případě nevadí, protože si je čtenář domyslí. Ve složitější věci však může být obtížné si právní rámec domyslet a odůvodnění pak nemusí být přesvědčivé a v krajním případě může být dokonce nepřezkoumatelné.
+Připomeňme si příklad z kapitoly [Průvodní informace...](https://www.ochrance.cz/srozumitelne/pruvodni_informace_piste_jen_ty_podstatne_a_co_nejstrucneji_oranzova/) V první variantě odůvodnění úřad nevymezil právní pravidlo, což v tomto krátkém případě nevadí, protože si je čtenář domyslí. Ve složitější věci však může být obtížné si právní rámec domyslet; odůvodnění pak nemusí být přesvědčivé a v krajním případě může být dokonce nepřezkoumatelné.
 
 {{% priklad %}}
 
 Městský úřad Dlouhá Lhota, odbor správních agend, rozhodl takto:
 
-Podle § 140 odst. 1 zákona č. 500/2004 Sb., správní řád, se spojují řízení o návrhu společnosti Podnik, …, na zrušení údaje o místu trvalého pobytu paní Anny Blažkové, … a pana Františka Blažka, ….
+Podle § 140 odst. 1 zákona č. 500/2004 Sb., správního řádu, se spojují řízení o návrhu společnosti Podnik, …, na zrušení údaje o místu trvalého pobytu paní Anny Blažkové, … a pana Františka Blažka, ….
 
 **Odůvodnění (varianta 1)**
 
@@ -100,7 +100,7 @@ Městský úřad obdržel dne 16. 7. 2021 návrhy společnosti Podnik, s. r. o.,
 
 {{% pravni %}}
 
-Podle § 140 odst. 1 správního řádu může správní orgán na žádost účastníka řízení spojit různá řízení, pokud se týkají téhož předmětu řízení, pokud tomu nebrání povaha věci, účel řízení anebo ochrana práv nebo oprávněných zájmů účastníků.
+Podle § 140 odst. 1 správního řádu může správní orgán na žádost účastníka řízení spojit různá řízení, pokud se týkají téhož předmětu řízení a pokud tomu nebrání povaha věci, účel řízení anebo ochrana práv nebo oprávněných zájmů účastníků.
 
 {{% /pravni %}}
 
@@ -122,22 +122,22 @@ Důsledkem toho, že nedostatečně vysvětlíte právní pravidlo, může být,
 
 {{% nevhodne %}}
 
-Přestupková komise města Velké Město, … rozhodla takto:
+Přestupková komise města Velké Město, …, rozhodla takto:
 
 1. Obviněný Karel Věneček, … , **je vinen** tím, že v období od 3. 5. 2020 do 2. 6. 2020 prostřednictvím mobilních textových zpráv (SMS) opakovaně několikrát denně kontaktoval paní Libuši Sladkou, …, ačkoliv si to nepřála, tedy úmyslně narušil občanské soužití tím, že se vůči jinému dopustil schválnosti, čímž spáchal přestupek proti občanskému soužití podle § 7 odst. 1 písm. c) bodu 3 zákona č. 251/2016 Sb., o některých přestupcích, ….
 2. Za spáchání uvedených přestupků se obviněnému v souladu s ustanovením § 7 odst. 4 písm. b) zákona o některých přestupcích **ukládá pokuta ve výši 10 000 Kč**, …
 
 **Odůvodnění**
 
-Přestupková komise zahájila … řízení ve věci přestupku proti občanskému soužití podle § 7 odst. 1 písm. c) bodu 3 zákona o některých přestupcích, a předvolala obviněného k ústnímu jednání. Obviněný při jednání … uvedl, že mu paní Sladká slíbila společný život a přátelství a nevysvětlila, proč se k tomu teď nechce znát. Proto má v úmyslu ji nadále kontaktovat, aby se to dozvěděl.
+Přestupková komise zahájila … řízení ve věci přestupku proti občanskému soužití podle § 7 odst. 1 písm. c) bodu 3 zákona o některých přestupcích a předvolala obviněného k ústnímu jednání. Obviněný při jednání … uvedl, že mu paní Sladká slíbila společný život a přátelství a nevysvětlila, proč se k tomu teď nechce znát. Proto má v úmyslu ji nadále kontaktovat, aby se to dozvěděl.
 
-Přestupková komise na základě uvedených skutečností výrokem pod bodem 1. uznala obviněného vinným, neboť na základě provedeného dokazování lze spolehlivě dospět k závěru, že se obviněný dopustil přestupku, který je mu kladen za vinu. Obviněný se ke kontaktování paní Sladké přiznal, ...
+Přestupková komise na základě uvedených skutečností výrokem pod bodem 1 uznala obviněného vinným, neboť na základě provedeného dokazování lze spolehlivě dospět k závěru, že se dopustil přestupku, který je mu kladen za vinu. Obviněný se ke kontaktování paní Sladké přiznal, …
 
-Při stanovení druhu sankce a její výměry přihlédla přestupková komise k závažnosti přestupku, způsobu spáchání přestupku a jeho následkům, jakož i k okolnostem, za kterých byl přestupek spáchán. Přestupková komise zohlednila, že obviněný byl trestním příkazem … uznán vinným z přečinu nebezpečného pronásledování podle § 354 odst. 1 písm. a), b), c) a d) zákona č. 40/2009 Sb., trestního zákoníku, …, za což mu byl uložen peněžitý trest ve výši 30 000 Kč, a tudíž nelze ve prospěch obviněného zohlednit dosavadní bezúhonnost. Dále vzala přestupková komise v potaz množství zpráv zaslaných obviněným v předmětném období, které svědčí o intenzivním nevyžádaném a nevítaném kontaktování ze strany obviněného. Ve prospěch obviněného nelze zohlednit ani jeho postoj, neboť z jeho vyjádření neplyne, že by s tímto obtěžováním hodlal přestat, a proto přestupkové komisi nezbylo, než uložit pokutu v polovině zákonné sazby stanovené § 7 odst. 4 písm. b) zákona o některých přestupcích. Přestupková komise proto obviněnému za spáchání přestupku podle § 7 odst. 1 písm. c) bodu 3 zákona o některých přestupcích uložila pokutu ve výši 10 000 Kč, ….
+Při stanovení druhu sankce a její výměry přihlédla přestupková komise k závažnosti přestupku, způsobu spáchání přestupku a jeho následkům, jakož i k okolnostem, za kterých byl přestupek spáchán. Přestupková komise zohlednila, že obviněný byl trestním příkazem … uznán vinným z přečinu nebezpečného pronásledování podle § 354 odst. 1 písm. a), b), c) a d) zákona č. 40/2009 Sb., trestního zákoníku, …, za což mu byl uložen peněžitý trest ve výši 30 000 Kč, a tudíž nelze ve prospěch obviněného zohlednit dosavadní bezúhonnost. Dále vzala přestupková komise v potaz množství zpráv zaslaných obviněným v předmětném období, které svědčí o intenzivním nevyžádaném a nevítaném kontaktování ze strany obviněného. Ve prospěch obviněného nelze zohlednit ani jeho postoj, neboť z jeho vyjádření neplyne, že by s tímto obtěžováním hodlal přestat, a proto přestupkové komisi nezbylo než uložit pokutu v polovině zákonné sazby stanovené § 7 odst. 4 písm. b) zákona o některých přestupcích. Přestupková komise proto obviněnému za spáchání přestupku podle § 7 odst. 1 písm. c) bodu 3 zákona o některých přestupcích uložila pokutu ve výši 10 000 Kč, …
 
 {{% /nevhodne %}}
 
-Dozvěděli jsme se, že při stanovení druhu sankce a její výměry přestupková komise zohlednila, že byl pan Věneček trestaný za přečin nebezpečného pronásledování, že paní Sladkou kontaktoval intenzivně a že s tím nehodlal přestat. Bezprostředně následuje „a proto přestupkové komisi nezbylo, než uložit pokutu v polovině zákonné sazby“. Proč v polovině? Tohoto rozčarování by se přestupková komise vyvarovala, kdyby právní pravidlo lépe vysvětlila.
+Dozvěděli jsme se, že při stanovení druhu sankce a její výměry přestupková komise zohlednila, že byl pan Věneček potrestán za přečin nebezpečného pronásledování, že paní Sladkou kontaktoval intenzivně a že s tím nehodlal přestat. Bezprostředně následuje „a proto přestupkové komisi nezbylo, než uložit pokutu v polovině zákonné sazby“. Proč v polovině? Tohoto rozčarování by se přestupková komise vyvarovala, kdyby právní pravidlo lépe vysvětlila.
 
 ### Předchozí průběh správního řízení popište, jen pokud je to důležité pro samotný výrok rozhodnutí nebo pro vypořádání námitek účastníků k postupu úřadu
 
@@ -149,7 +149,7 @@ Komise proto vyzvala žadatele výzvou č. j. MV-xxxx/SO-2021 ze dne 5. 3. 2021,
 
 Na základě výzvy byl Komisi dne 1. 4. 2021 doručen aktuální doklad o prostředcích k pobytu, doklad o zajištění ubytování, souhlas matky a otce s pobytem žadatele na území a doklad obdobný výpisu z evidence Rejstříku trestů, který však nesplňoval požadavky vyššího ověření.
 
-Komise proto opětovně vyzvala žadatele výzvou č. j. MV-xxxx/SO-2021 ze dne 15. 4. 2021, aby ve lhůtě do 30 dnů od doručení dané výzvy odstranil uvedené vady žádosti a doložil aktuální doklad obdobný výpisu z evidence Rejstříku trestů jako podklad k posouzení trestní zachovalosti vydaného státem, jehož je žadatel státním občanem, a to včetně doložky vyššího ověření, jež provádí Velvyslanectví České republiky v Káhiře.
+Komise proto opětovně vyzvala žadatele výzvou č. j. MV-xxxx/SO-2021 ze dne 15. 4. 2021, aby ve lhůtě do 30 dnů od doručení dané výzvy odstranil uvedené vady žádosti a doložil aktuální doklad obdobný výpisu z evidence Rejstříku trestů jako podklad k posouzení trestní zachovalosti vydaný státem, jehož je žadatel státním občanem, a to včetně doložky vyššího ověření, jež provádí Velvyslanectví České republiky v Káhiře.
 
 Dne 19. 5. 2021 byl žadatelem doklad obdobný výpisu z evidence Rejstříku trestů podle § 31 odst. 3 písm. a) zákona č. 326/1999 Sb. prokazující bezúhonnost žadatele, včetně doložky vyššího ověření, předložen.
 
@@ -172,8 +172,8 @@ Na naši výzvu jste předložil tyto nové doklady:
 * Vždy uveďte i **podklady, které nepodporují vaše zjištění**, a vypořádejte se s nimi. Pokud takové doklady nevyhodnotíte, riskujete nepřezkoumatelnost rozhodnutí.
 * U **nesporných** podkladů stačí odkázat na konkrétní podklad. Pokud si podklady **odporují**, musíte přesvědčivě vysvětlit, jak jste se s rozpory vypořádali.
 * **Nepřepisujte obsah** podkladů. Vlastními slovy shrňte jen ty skutečnosti, které jsou podstatné pro vaše rozhodnutí. Obsah písemnosti doslovně citujte, jen pokud záleží „na každém slovu“. Doslovné citace zkracujte – nepodstatné pasáže nahraďte třemi tečkami v hranaté závorce \[…].
-* Podklady **označte** tak, aby byl **zdroj vašich informací zřejmý**. Někdy můžete odkázat na protokol o provedení určitého důkazu. Pokud byl důkaz proveden listinou (mimo ústní jednání), stačí odkázat na listinu založenou ve správním spisu. Pokud vycházíte ze skutečností, které jsou vám známy z úřední činnosti, musíte uvést, ze které úřední činnosti nebo postupu jste se o nich dozvěděli, např. označením konkrétního správního rozhodnutí, správního spisu či informačního systému. Nemusíte dokládat zdroj obecně známých informací (týden má 7 dní).
-* **Obrázek** někdy řekne víc než složitý popis zjištěného skutkového stavu. Slona je lehčí poznat, než popsat.
+* Podklady **označte** tak, aby byl **zdroj vašich informací zřejmý**. Někdy můžete odkázat na protokol o provedení určitého důkazu. Pokud byl důkaz proveden listinou (mimo ústní jednání), stačí odkázat na listinu založenou ve správním spisu. Pokud vycházíte ze skutečností, které jsou vám známy z úřední činnosti, musíte uvést, ze které úřední činnosti nebo postupu jste se o nich dozvěděli, např. označením konkrétního správního rozhodnutí, správního spisu či informačního systému. Nemusíte dokládat zdroj obecně známých informací (týden má sedm dní).
+* **Obrázek** někdy řekne víc než složitý popis zjištěného skutkového stavu. Slona je lehčí poznat než popsat.
 
 ### Pokud vaše rozhodnutí vychází ze správního uvážení, uvážení popište
 
