@@ -1,5 +1,5 @@
 ---
-title: "Výroková část: napište o kterých právech a povinnostech účastníků jste
+title: "Výroková část: napište, o kterých právech a povinnostech účastníků jste
   rozhodovali a jak jste rozhodli"
 ---
 ### Pište jen to, co vyžaduje zákon
@@ -20,7 +20,7 @@ Proč je výroková část náročná na čtení i porozumění?
 
 * Celé sdělení je jediná obří věta, která se nedá přečíst najednou. V půlce už nevíte, o čem byl začátek, luštíte smysl věty.
 * První čtyři řádky výrokové části pouze vymezují věcnou působnost správního orgánu a zavádějí zkratky použitých právních předpisů.
-* Odkaz na ustanovení, podle kterého komise rozhodla (§ 90 odst. 5 správního řádu), si čtenář obtížně propojí se samotným výsledkem rozhodnutí (odvolání se zamítá a napadené rozhodnutí potvrzuje).
+* Odkaz na ustanovení, podle kterého komise rozhodla (§ 90 odst. 5 správního řádu), si čtenář obtížně propojí se samotným výsledkem rozhodnutí (odvolání se zamítá a napadené rozhodnutí se potvrzuje).
 * Text bobtná údaji, které nemají vliv na rozhodnutí o právech a povinnostech účastníků a měly by být jinde. Například informace o zástupci správní řád ve výrokové části nevyžaduje.
 * Identifikační údaje o přezkoumávaném rozhodnutí zmíněné v návětí se zbytečně opakují ve výroku.
 
@@ -37,10 +37,10 @@ Pište jen to, co ve výrokové části musí být, nic jiného. Čím víc info
 * Pokud **vylučujete odkladný účinek**, musíte to do výroku napsat.
 * Zvláštní předpisy mohou vyžadovat **další** náležitosti správního rozhodnutí (například popis skutku v rozhodnutí o přestupku).
 
-Naopak nemusíte psát například:
+Co naopak psát nemusíte?
 
 * **Nemusíte detailně popisovat předmět řízení.** Například pokud odnímáte právě platné povolení k trvalému pobytu, stačí napsat, že se „ruší platnost povolení k trvalému pobytu“, nemusíte označit rozhodnutí, kterým toto povolení úřady udělily (rozsudek NSS ze dne 3. 9. 2020, čj. [1 Azs 504/2019-29](https://vyhledavac.nssoud.cz/DokumentOriginal/Html/656015), body 23–26).
-* **Někdy nemusíte uvádět přesný rozsah ukládané povinnosti.** Například když nařizujete odstranit neoprávněně navezenou výkopovou zeminu, stačí napsat, kde se nachází (přesným označením pozemku a odhadem výměry plochy navážky) a uvést povahu navážky (výkopová zemina), nemusíte ale přesně uvést objem navážky (rozsudek MS v Praze ze dne 28. 1. 2019, čj. [5 A 179/2015-37](https://vyhledavac.nssoud.cz/DokumentOriginal/Html/445140), bod 25).
+* **Někdy nemusíte uvádět přesný rozsah ukládané povinnosti.** Například když nařizujete odstranit neoprávněně navezenou výkopovou zeminu, stačí napsat, kde se nachází (přesným označením pozemku a odhadem výměry plochy navážky), a uvést povahu navážky (výkopová zemina), nemusíte ale přesně uvést objem navážky (rozsudek MS v Praze ze dne 28. 1. 2019, čj. [5 A 179/2015-37](https://vyhledavac.nssoud.cz/DokumentOriginal/Html/445140), bod 25).
 * **Kdyby výrok nebyl přehledný kvůli obsáhlému výčtu údajů** upřesňujících určitou skutkovou okolnost, **můžete ve výroku odkázat na přílohu rozhodnutí, kde údaje uvedete.** Například pokud ukládáte pokutu za umožnění výkonu nelegální práce, můžete seznam (jména) těchto zaměstnanců, dobu, po kterou vykonávali práci, a označení toho, pro něhož práci vykonávali, umístit do přílohy; a nemusíte do rozhodnutí psát, že tato příloha je nedílnou součástí rozhodnutí (rozsudek NSS ze dne 11. 1. 2012, čj. [3 Ads 96/2011-118](https://vyhledavac.nssoud.cz/DokumentOriginal/Html/623342)).
 
 ### Neopakujte se
@@ -94,7 +94,7 @@ Ustanovení uveďte co nejkonkrétněji – označte **paragraf (článek), odst
 
   {{% priklad %}}
 
-  Například, že správní řízení bylo zahájeno z moci úřední podle § 46 správního řádu; že rozhodnutí vydáváte podle § 67 správního řádu a vydává je věcně příslušný správní orgán podle § 10 správního řádu.
+  Například že správní řízení bylo zahájeno z moci úřední podle § 46 správního řádu; že rozhodnutí vydáváte podle § 67 správního řádu a vydává je věcně příslušný správní orgán podle § 10 správního řádu.
 
   {{% /priklad %}}
 
@@ -106,7 +106,7 @@ Například:
 
 {{% nevhodne %}}
 
-… nařizuje odstranit překážku z jimi vlastněné veřejně přístupné účelové komunikace.
+… nařizuje odstranit překážku z účastníky vlastněné veřejně přístupné účelové komunikace.
 
 {{% /nevhodne %}}
 
@@ -131,7 +131,7 @@ Nejvyšší nároky na přesnost a určitost kladou soudy na **rozhodnutí o př
 
   {{% vhodne %}}
 
-  Pan Bohdan Rakvička, narozený 29. 2. 1967, bytem Puntíkatá 999, Ústí nad Labem (dále „obviněný“), **je vinen** tím, že se dne 13. 11. 2018 ve 14.30 při couvání s vozidlem Seat (RZ ABC 123) z výjezdu domu na adrese Puntíkatá 999 střetl s vozidlem Ferrari (RZ EFG 456, řízeném panem Alešem Nehodou, narozeným dne 24. 12. 1980, bytem Strakatá 888, Ústí nad Labem) a poškodil tak přední částí vozidla Ferrari a levou zadní část vozidla Seat.
+  Pan Bohdan Rakvička, narozený 29. 2. 1967, bytem Puntíkatá 999, Ústí nad Labem (dále „obviněný“), **je vinen** tím, že se dne 13. 11. 2018 ve 14.30 při couvání s vozidlem Seat (RZ ABC 123) z výjezdu domu na adrese Puntíkatá 999 střetl s vozidlem Ferrari (RZ EFG 456, řízeným panem Alešem Nehodou, narozeným dne 24. 12. 1980, bytem Strakatá 888, Ústí nad Labem), a poškodil tak přední část vozidla Ferrari a levou zadní část vozidla Seat.
 
   **Tím spáchal přestupek** podle § 125c odst. 1 písm. k) a § 24 odst. 2 zákona č. 361/2000 Sb., o silničním provozu, neboť při couvání motorovým vozidlem ohrozil dalšího účastníka provozu na pozemních komunikacích.
 
@@ -155,7 +155,7 @@ podle § 90 odst. 5 zákona č. 500/2004 Sb., správního řádu, **Vaše odvol�
 
 {{% /vhodne %}}
 
-### Výrokovou část nemusíte napsat v jedné větě/souvětí a můžete napsat více výroků, které logicky seřadíte.
+### Výrokovou část nemusíte napsat v jedné větě/souvětí a můžete napsat více výroků, které logicky seřadíte
 
 V jednom výroku můžete napsat více vět. Ani v přestupkových věcech nemusí výrokovou část tvořit jedna dlouhá věta/souvětí. Můžete větu rozdělit, ale dbejte, aby bylo jasné, jak skutek porušil pravidlo.
 
@@ -180,7 +180,7 @@ takto:
 
    **Tím spáchal přestupek** proti veřejnému pořádku podle § 5 odst. 1 písm. a) zákona č. 251/2016 Sb., neboť úmyslně neuposlechl výzvy úředních osob při výkonu jejich pravomoci.
 
-   Za to se mu **ukládá pokuta** ve výši **2 000 Kč** podle § 35 písm. b) zákona č. 250/2016 Sb. ve spojení s § 5 odst. 3 písm. b) zákona č. 251/2016 Sb. Pokutu je obviněný povinen uhradit do 30 dnů ode dne právní moci tohoto rozhodnutí Městskému úřadu Kolín na bankovní účet č. 3662472/0800 nebo na hlavní pokladně městského úřadu.
+   Za to se mu **ukládá pokuta** ve výši **2 000 Kč** podle § 35 písm. b) zákona č. 250/2016 Sb. ve spojení s § 5 odst. 3 písm. b) zákona č. 251/2016 Sb. Pokutu je obviněný povinen uhradit do 30 dnů ode dne právní moci tohoto rozhodnutí Městskému úřadu Kolín na bankovní účet č. xxx nebo na hlavní pokladně městského úřadu.
 2. Obviněný je **povinen uhradit náklady řízení** ve výši **1 000 Kč** (podle § 95 odst. 1 zákona č. 250/2016 Sb. ve spojení s § 6 odst. 1 vyhlášky Ministerstva vnitra č. 520/2005 Sb.), a to **do 30 dnů** ode dne právní moci tohoto rozhodnutí Městskému úřadu Kolín na bankovní účet č. xx nebo na hlavní pokladně městského úřadu.
 
 {{% /vhodne %}}
