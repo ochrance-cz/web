@@ -2,7 +2,7 @@
 title: Pokud definujete pojem, používejte ho důsledně
 num: 35
 ---
-Definice v úředních textech zavádíme proto, abychom nemuseli znova opisovat delší text, a přitom aby čtenář věděl, že definovaný pojem vždy vyjadřuje totéž.
+Definice v úředních textech zavádíme proto, abychom nemuseli znova opisovat delší text a aby přitom čtenář věděl, že definovaný pojem vždy vyjadřuje totéž.
 
 Pokud definici zavedeme, píšeme ji dále důsledně: „dále ‚magistrát‘“ znamená, že dále v textu nepíšeme „Magistrát hlavního města Prahy“, „Magistrát hl. m. Prahy“, „MHMP“ a cokoliv dalšího nás napadne.
 
