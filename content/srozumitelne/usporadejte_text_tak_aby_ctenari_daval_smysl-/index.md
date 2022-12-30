@@ -52,12 +52,10 @@ Toto sdělení slouží k zajištění co nejrychlejšího předání informace 
 
 Asi jste většinu informací našli, ale možná pro vás nebylo snadné se v textu vyznat. Asi jste nečetli souvisle. Zkusíme uspořádat text tak, jak bychom o věci pravděpodobně přemýšleli:
 
-* Děti musejí být v karanténě do 15. 2. a musí se nechat testovat na covid-19 v rozmezí 5-10 dnů po setkání s nakaženým.
-* V karanténě být nemusí, pokud nemoc nedávno prodělaly a zároveň nemají příznaky onemocnění.
+* Děti musejí být v karanténě do 15. 2. a musejí se nechat testovat na covid-19 v rozmezí 5-10 dnů po setkání s nakaženým.
+* V karanténě být nemusejí, pokud nemoc nedávno prodělaly a zároveň nemají příznaky onemocnění.
 * Karanténa se týká pouze dětí, ne ostatních členů rodiny.
 * Co dělat: podrobnosti o izolaci, testování, uvědomění pediatra, objevení příznaků, konci karantény.
 * Další informace, třeba o právním základu karantény nebo kde se dozvíte více.
 
-To je základní osnova. Teď ji naplníte textem.
-
-V metodě z šílence soudcem budete tesařem i soudcem.
+To je základní osnova. Teď ji naplníte textem a ten pak po sobě upravíte. V metodě [z šílence soudcem](https://www.ochrance.cz/srozumitelne/strukturu_textu_si_promyslete_predem/) budete tesařem i soudcem.
