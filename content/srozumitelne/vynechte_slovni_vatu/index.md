@@ -10,7 +10,7 @@ Je nutné zdůraznit, že co se týče této příručky, všichni si na tomto m
 
 {{% /nevhodne %}}
 
-Málokdo napíše „v neposlední řadě“, protože by to bylo to přesně to, co chce sdělit. Většinou pisatel takový výraz použije, když neví, jak plynule navázat další myšlenku, protože si předem nerozmyslel, co chce napsat a v jakém pořadí. A je to zbytečně dlouhé. Takže bez vaty:
+Málokdo napíše „v neposlední řadě“, protože by to bylo přesně to, co chce sdělit. Většinou pisatel takový výraz použije, když neví, jak plynule navázat další myšlenku, protože si předem nerozmyslel, co chce napsat a v jakém pořadí. A je to zbytečně dlouhé. Takže bez vaty:
 
 {{% vhodne %}}
 
