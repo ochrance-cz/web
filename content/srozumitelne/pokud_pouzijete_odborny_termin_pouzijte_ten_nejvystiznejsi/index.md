@@ -2,7 +2,7 @@
 title: Pokud použijete odborný termín, použijte ten nejvýstižnější
 num: 40
 ---
-Například pokud poučujte čtenáře o možnostech se bránit proti rozhodnutí vydaném podle daňového řádu, nepište obecně slovy zákona:
+Například pokud poučujte čtenáře o možnostech, jak se bránit proti rozhodnutí vydanému podle daňového řádu, nepište obecně slovy zákona:
 
 {{% nevhodne %}}
 
