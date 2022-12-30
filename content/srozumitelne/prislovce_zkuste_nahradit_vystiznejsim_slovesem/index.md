@@ -8,7 +8,7 @@ Například:
 
 {{% nevhodne %}}
 
-Stavební úřad rozhodl obdobně o jiné žádosti stavebníka.
+Stavební úřad rozhodl obdobně o jiné stavebníkově žádosti.
 
 {{% /nevhodne %}}
 
@@ -16,6 +16,6 @@ Stavební úřad rozhodl obdobně o jiné žádosti stavebníka.
 
 {{% vhodne %}}
 
-Stavební úřad zamítl i jinou žádost stavebníka.
+Stavební úřad zamítl i jinou stavebníkovu žádost.
 
 {{% /vhodne %}}
