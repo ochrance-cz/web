@@ -1,12 +1,12 @@
 ---
-title: "Pište pozitivně"
+title: Pište pozitivně
 num: 23
 ---
 Negativní formulace zamlžují sdělení a natahují text. Musíme si je v hlavě přeložit, abychom si mohli situaci představit a věděli, co chtěl pisatel sdělit.
 
 {{% nevhodne %}}
 
-V této situaci není dodatečné povolení stavby řešením, které by nepovolenou stavbu neošetřilo, ale řešení, které nepřinese urovnání sousedského sporu.
+V této situaci není dodatečné povolení stavby krokem, který by nepovolenou stavbu vyřešil, ale krokem, který nepřinese urovnání sousedského sporu.
 
 {{% /nevhodne %}}
 
@@ -14,7 +14,7 @@ Po prvním přečtení máte pouze tušení, co chtěl pisatel říct. Musíte s
 
 {{% vhodne %}}
 
-V této situaci je dodatečné povolení stavby řešení, které sice ošetří nepovolenou stavbu, ale neurovná sousedský spor.
+V této situaci je dodatečné povolení stavby krokem, který sice vyřeší nepovolenou stavbu, ale neurovná sousedský spor.
 
 {{% /vhodne %}}
 
@@ -22,13 +22,13 @@ Dokonce se může stát, že negativní sdělení napíšeme špatně, protože 
 
 {{% nevhodne %}}
 
-S ohledem na důvody podání žádosti o mezinárodní ochranu a na rozsah důkazů, které žalobci v řízení předkládali, nebylo možné vyloučit, že by jim v zemi původu nehrozilo pronásledování.
+S ohledem na důvody podání žádosti o mezinárodní ochranu a na rozsah důkazů, které žadatelé v řízení předkládali, nebylo možné vyloučit, že by jim v zemi původu nehrozilo pronásledování.
 
 {{% /nevhodne %}}
 
 Ve skutečnosti jsme chtěli napsat „nebylo možné vyloučit, že by jim v zemi původu hrozilo pronásledování“.
 
-Negativní sdělení používáme podvědomě, protože často mnohem lépe víme, co nechceme, než co chceme. Třeba klasické „nezlob!“ si čtyřletý pirát nemusí vyložit jako naše přání, aby slezl z lustru. „Slez hned z toho lustru!“ ho teprve dostane nohama na zem.
+Negativní sdělení používáme podvědomě, protože často mnohem lépe víme, co nechceme, než co chceme. Jenže klasické „nezlob!“ si čtyřletý pirát nemusí vyložit jako naše přání, aby slezl z lustru. „Slez hned z toho lustru!“ ho teprve dostane nohama na zem.
 
 Mnoho negativních sdělení lze vyjádřit pozitivně:
 
