@@ -25,7 +25,7 @@ Nebo:
 
 {{% vhodne %}}
 
-Exekuce nemůže začít bez takzvaného exekučního titulu. Nejčastěji jde o rozhodnutí soudu ukládající povinnost (rozhodnutí z „nalézacího řízení“). Může to být také rozhodčí nález, rozhodnutí úřadu či třeba notářský (dříve i exekutorský) zápis se svolením k vykonatelnosti. Jeho kopii Vám exekutor pošle s vyrozuměním o zahájení exekuce.
+Exekuce nemůže začít bez takzvaného *exekučního titulu*. Nejčastěji jde o rozhodnutí soudu ukládající povinnost (rozhodnutí z „nalézacího řízení“). Může to být také rozhodčí nález, rozhodnutí úřadu či třeba notářský (dříve i exekutorský) zápis se svolením k vykonatelnosti. Jeho kopii Vám exekutor pošle s vyrozuměním o zahájení exekuce.
 
 {{% /vhodne %}}
 
@@ -47,7 +47,7 @@ V tomto poučení máme neurčité právní pojmy dva: „závažně ztěžuje�
 
 {{% vhodne %}}
 
-Uveďte konkrétní důvody, proč se nemůžete dostavit a doložte je, abychom mohli posoudit, zda jsou Vaše důvody skutečně závažné.
+Uveďte konkrétní důvody, proč se nemůžete dostavit, a doložte je, abychom mohli posoudit, zda jsou Vaše důvody skutečně závažné.
 
 {{% /vhodne %}}
 
