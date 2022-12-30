@@ -6,6 +6,6 @@ Pokud jako obec sjednáváte smlouvu o zřízení nového hrobového místa s č
 
 {{% vhodne %}}
 
-Přijměte prosím moji upřímnou soustrast, Anna Blažková, starostka
+Přijměte prosím moji upřímnou soustrast. Anna Blažková, starostka
 
 {{% /vhodne %}}
