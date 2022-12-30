@@ -40,6 +40,6 @@ dárek zdarma, skleněná vitrína, modravý blankyt (Mácha může, nepsal úř
 
 {{% nevhodne %}}
 
-Nejsme si absolutně jisti bezrozporností původního originálu lékařského posouzení Vašeho zdravotního stavu během Vaší hospitalizace v nemocnici
+Nejsme si absolutně jisti bezrozporností původního originálu lékařského posouzení Vašeho zdravotního stavu během Vaší hospitalizace v nemocnici.
 
 {{% /nevhodne %}}
