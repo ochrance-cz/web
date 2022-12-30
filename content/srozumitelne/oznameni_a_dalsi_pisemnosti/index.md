@@ -9,7 +9,7 @@ Oznámení o zahájení správního řízení musí obsahovat (podle § 46 odst.
 * vaše jméno, příjmení, funkci nebo služební číslo a váš podpis jako oprávněné úřední osoby;
 * předmět řízení;
 * ve které věci jste řízení zahájili (například: řízení o přestupku, o odebrání licence, o vyřazení uchazeče z evidence o zaměstnání, přezkumné řízení apod.);
-* proč;
+* proč jste řízení zahájili;
 * o kterých právech a povinnostech budete rozhodovat.
 
 Účastník řízení se z oznámení musí dozvědět, o čem konkrétně budete rozhodovat, aby se na to mohl připravit. Jinak riskujete zrušení výsledného rozhodnutí pro nezákonnost.
@@ -18,13 +18,13 @@ V následujícím příkladu se účastník řízení dozví, že mu úřad asi 
 
 {{% nevhodne %}}
 
-Městský úřad Litovel Vám v souladu s § 46 odst. 1 zákona č. 500/2004 Sb., správní řád, ve znění pozdějších předpisů (dále jen „správní řád“) oznamuje, že s Vámi, jako účastníkem řízení, zahajuje správní řízení ve věci
+Městský úřad Litovel Vám v souladu s § 46 odst. 1 zákona č. 500/2004 Sb., správního řádu, ve znění pozdějších předpisů (dále jen „správní řád“) oznamuje, že s Vámi, jako účastníkem řízení, zahajuje správní řízení ve věci
 
 uložení povinnosti rodičům využít odbornou poradenskou pomoc
 
-podle § 12 odst. 1 písm. b) zákona č. 359/1999 Sb., o sociálně právní ochraně dětí, ve znění pozdějších předpisů.
+podle § 12 odst. 1 písm. b) zákona č. 359/1999 Sb., o sociálně-právní ochraně dětí, ve znění pozdějších předpisů.
 
-Ve správním řízení ve shora uvedené věci je určena úřední osobou oprávněnou k provádění úkonů paní Bc. Jana Šikovná, zaměstnankyně odboru sociálního a právního, oddělení sociálně právní ochrany dětí. K podepisování oznámení, usnesení a rozhodnutí je v souladu s Organizačním řádem Městského úřadu Litovel, určen vedoucí Odboru sociálního a správního JUDr. Petr Uvážlivý.
+Ve správním řízení ve shora uvedené věci je určena úřední osobou oprávněnou k provádění úkonů paní Bc. Jana Šikovná, zaměstnankyně odboru sociálního a právního, oddělení sociálně-právní ochrany dětí. K podepisování oznámení, usnesení a rozhodnutí je v souladu s Organizačním řádem Městského úřadu Litovel určen vedoucí Odboru sociálního a správního JUDr. Petr Uvážlivý.
 
 JUDr. Petr Uvážlivý, vedoucí odboru sociálního a právního, Městský úřad Litovel
 
@@ -34,11 +34,11 @@ Zkuste popsat, proč jste řízení zahájili, z jakého právního důvodu a vy
 
 {{% vhodne %}}
 
-Zjistili jsme, že se s manželem nemůžete dohodnout výchově Vaší dcery Anežky. Domníváme se, že by Vám mohla pomoci odborná poradna.
+Zjistili jsme, že se s manželem nemůžete dohodnout na výchově Vaší dcery Anežky. Domníváme se, že by Vám mohla pomoci odborná poradna.
 
 Proto s Vámi zahajujeme správní řízení, ve kterém Vám můžeme uložit povinnost využít odbornou poradenskou pomoc podle § 12 odst. 1 písm. b) zákona č. 359/1999 Sb., o sociálně-právní ochraně dětí.
 
-Váš případ má na starosti paní Bc. Jana Šikovná, zaměstnankyně odboru sociálního a právního, oddělení sociálně právní ochrany dětí. Bude s Vámi v této věci jednat a odpoví na Vaše případné dotazy.
+Váš případ má na starosti paní Bc. Jana Šikovná, zaměstnankyně odboru sociálního a právního, oddělení sociálně-právní ochrany dětí. Bude s Vámi v této věci jednat a odpoví na Vaše případné dotazy.
 
 JUDr. Petr Uvážlivý, vedoucí odboru sociálního a právního, Městský úřad Litovel
 
@@ -50,7 +50,7 @@ Pokud zahajujete řízení o přestupku, musíte obviněnému
 
 * popsat skutek (jednání), o kterém budete rozhodovat,
 * sdělit jeho předběžnou právní kvalifikaci (co porušil a co tím spáchal),
-* uvést, jaký postih obviněnému hrozí, pokud bude shledán vinným.
+* uvést, jaký postih mu hrozí, pokud bude shledán vinným.
 
 Například obviněnému moc neřekne, pokud napíšete:
 
