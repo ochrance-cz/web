@@ -113,13 +113,13 @@ textcontent:
     text: "### Jak text uspořádám?"
   - before: piste_se_slovesy/index
     text: >-
-      ### Jak psát: Slova a výrazy obecně
+      ### Jak psát: slova a výrazy obecně
 
 
       Představte si cestu krajinou z obce Pisatelova Myšlenka do obce Čtenářovo Porozumění.
 
 
-      Cesta jsou řádky textu, stromy podél cesty jsou podstatná jména s přídavnými jmény či zájmena. Zahlédnete i výrazy, kterých stačí v krajině málo jako hlodavců, třeba příslovce. Pokud je používáte zřídka a trefně, jsou nenahraditelné, pokud se přemnoží, škodí. A zahlédnete i odpadky. Výrazy jako „vyvstala potřeba“ a „všichni nepochybně“ musíte posbírat a vyhodit.
+      Cesta jsou řádky textu, stromy podél cesty jsou podstatná jména s přídavnými jmény či zájmena. Zahlédnete i výrazy, kterých stačí v krajině málo jako hlodavců, třeba příslovce. Pokud je používáte zřídka a trefně, jsou nenahraditelné, pokud se přemnoží, škodí. A narazíte i na odpadky. Výrazy jako „vyvstala potřeba“ a „v této souvislosti“ musíte posbírat a vyhodit.
 
 
       Chcete-li dojet ke Čtenářovu Porozumění, pojedete na slovesech. S výstižnými slovesy pojedete rychle. Nahradíte-li slovesa podstatnými jmény, povlečete se pěšky.
