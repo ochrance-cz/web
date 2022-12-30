@@ -165,7 +165,7 @@ twocols:
       jako manipulaci a podvědomě se vzepře
     right-3: rovnou se zeptejte nebo zdůvodněte, proč se ptáte; otázka se jen tak z
       ničeho nic nezhmotní
-    right-4: radši se zamyslete, jestli jste dobře text uspořádali a vystavěli
+    right-4: radši se zamyslete, jestli jste text dobře uspořádali a vystavěli
     left-1: je nutné zdůraznit
     left-2: z právě uvedeného je zřejmé
     left-3: vyvstala otázka, zde se nabízí otázka
