@@ -12,7 +12,7 @@ Stavební úřad rozhodl obdobně o jiné stavebníkově žádosti.
 
 {{% /nevhodne %}}
 
-Čtenář si musí vzpomenout, jak stavební úřad rozhodl a dosadit si informaci namísto „obdobně“.
+Čtenář si musí vzpomenout, jak stavební úřad rozhodl, a dosadit si informaci namísto „obdobně“.
 
 {{% vhodne %}}
 
