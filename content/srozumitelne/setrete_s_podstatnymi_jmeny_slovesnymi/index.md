@@ -10,7 +10,7 @@ Připomeňme si, že slovesa vezou čtenáře ke Čtenářovu Porozumění. Pře
 
 {{% /nevhodne %}}
 
-Podstatná jména „pochybení“, „vyřizování“, „nevyhodnocení“ jsou vlastně převlečená slovesa, výstižně podstatná jména slovesná. Většinou končí na -ní nebo -tí. Například úřady často „rozhodují“ - „rozhodnutí“, soudy se „usnáší“ - „usnesení“. Taková podstatná jména slovesná stojí na krajnici a potřebují ochotné sloveso, které je do cíle odtáhne.
+Podstatná jména „pochybení“, „vyřizování“, „nevyhodnocení“ jsou vlastně převlečená slovesa, výstižně podstatná jména slovesná. Většinou končí na *\-ní* nebo *\-tí*. Například úřady často „rozhodují“ - „rozhodnutí“, soudy se „usnáší“ - „usnesení“. Taková podstatná jména slovesná stojí na krajnici a potřebují ochotné sloveso, které je do cíle odtáhne.
 
 Mnoho z nich naštěstí můžeme nahradit slovesem:
 
@@ -30,7 +30,7 @@ Jiný příklad:
 
 {{% nevhodne %}}
 
-Důsledné provádění testování osob v karanténě, umožní odhalení dalších případných infikovaných osob, jejich izolování a vyhledání jejich dalších kontaktů. Testování je tak důležitým nástrojem k zabránění šíření epidemie onemocnění covid-19.
+Důsledné provádění testování osob v karanténě umožní odhalení dalších případných infikovaných osob, jejich izolování a vyhledání jejich dalších kontaktů. Testování je tak důležitým nástrojem k zabránění šíření epidemie onemocnění covid-19.
 
 {{% /nevhodne %}}
 
