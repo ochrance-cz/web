@@ -14,13 +14,13 @@ Zkuste psát za úřad „my“ a čtenáře oslovovat „vy“, jako v rozhovor
 
 {{% nevhodne %}}
 
-V případě, že nebude v uvedené lhůtě vada odstraněna, bude v souladu s § 66 odst. 1 písm. c) zákona č. 500/2004 Sb., správní řád, ve znění pozdějších předpisů, řízení zastaveno.
+V případě, že nebude v uvedené lhůtě vada odstraněna, bude v souladu s § 66 odst. 1 písm. c) zákona č. 500/2004 Sb., správního řádu, ve znění pozdějších předpisů, řízení zastaveno.
 
 {{% /nevhodne %}}
 
 {{% vhodne %}}
 
-Pokud v uvedené lhůtě vadu neodstraníte, řízení zastavíme \[podle § 66 odst. 1 písm. c) zákona č. 500/2004 Sb., správní řád].
+Pokud v uvedené lhůtě vadu neodstraníte, řízení zastavíme \[podle § 66 odst. 1 písm. c) zákona č. 500/2004 Sb., správního řádu].
 
 {{% /vhodne %}}
 
@@ -50,11 +50,11 @@ podle § 45 odst. 2 zákona č. 500/2004 Sb., správního řádu
 
 Vážená paní Loos,
 
-dne 3. října 2019 jste požádala Ministerstvo vnitra, odbor azylové a migrační politiky (dále „my“) o vydání povolení k trvalému pobytu a předložila jste požadované doklady.
+dne 3. října 2019 jste požádala Ministerstvo vnitra, odbor azylové a migrační politiky (dále „my“), o vydání povolení k trvalému pobytu a předložila jste požadované doklady.
 
 **Dva z předložených dokladů mají vady, kvůli kterým nemůžeme Vaši žádost posoudit.**
 
-Vysvětlíme Vám proč a co od Vás potřebujeme.
+Vysvětlíme Vám proč, a co od Vás potřebujeme.
 
 {{% /vhodne %}}
 
@@ -62,7 +62,7 @@ Nebo ve správním řízení:
 
 {{% vhodne %}}
 
-Česká správa sociálního zabezpečení (dále „my“) rozhodla o žádosti o starobní důchod pana Františka Maliny, nar. 28. 6. 1957, bytem Jahodová 3, Ostružinov, (dále „Vy"),
+Česká správa sociálního zabezpečení (dále „my“) rozhodla o žádosti o starobní důchod pana Františka Maliny, nar. 28. 6. 1957, bytem Jahodová 3, Ostružinov (dále „Vy"),
 
 takto:
 
@@ -70,7 +70,7 @@ Podle § 31 odst. 1 písm. b) zákona č. 155/1995 Sb., o důchodovém pojiště
 
 {{% /vhodne %}}
 
-Sami za sebe – v ich-formě – pište dopisy nebo e-maily, které podepisujete. Například jste Anna Nováková a píšete dopis tajemníkům jiných úřadů:
+Sami za sebe – v *ich*-formě – pište dopisy nebo e-maily, které podepisujete. Například jste Anna Nováková a píšete dopis tajemníkům jiných úřadů:
 
 {{% nevhodne %}}
 
