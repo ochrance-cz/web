@@ -2,7 +2,7 @@
 title: Dobře graficky zpracované informace mohou vysvětlit či zpřehlednit sdělení
 num: 15
 ---
-Říká se, že obrázek řekne víc než tisíc slov. Pomohou čtenáři pochopit a představit si sdělené, které bychom v textu vysvětlovali velmi obtížně a zdlouhavě. Proto využívejte vše, co vám pomůže sdělení zpřehlednit nebo vysvětlit.
+Jeden obrázek řekne víc než tisíc slov. Pomohou čtenáři pochopit a představit si sdělené, které bychom v textu vysvětlovali velmi obtížně a zdlouhavě. Proto využívejte vše, co vám pomůže sdělení zpřehlednit nebo vysvětlit.
 
 Pamatujte však na to, že někteří lidé s poruchami zraku používají elektronické čtečky. Ty přečtou text, ale obrázek ne. Proto k obrázku vytvořte alternativní popisek, který čtečka přečte.
 
