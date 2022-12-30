@@ -20,7 +20,7 @@ Ustanovení § 46 zákona o ochraně veřejného zdraví – vůči kterému pod
 
 ### Začněte jádrem sdělení, pak teprve popisujte podrobnosti (či podmínky, výjimky)
 
-Tak čtenáři vytvoříte základ pro pochopení všeho ostatního. Jinak musí čtenář nejprve vstřebat podrobnosti (výjimky, podmínky), pak jádro a pak se vrátit zpět k jádru a pochopit vztah mezi nimi.
+Tak čtenáři vytvoříte základ pro pochopení všeho ostatního. Jinak musí čtenář nejprve vstřebat podrobnosti (podmínky, výjimky), pak jádro a teprve potom se vrátit na začátek k jádru a pochopit jeho vztah k podrobnostem.
 
 {{% vhodne %}}
 
