@@ -12,9 +12,9 @@ K testování můžete najmout odborníky, zvládnete to ale i sami. Zkusili jsm
 
 Během psaní můžete srozumitelnost testovat prostřednictvím parafrází nebo testovat použitelnost. Srozumitelnost výsledného textu můžete zkoumat také kontrolovanou srovnávací studií.
 
-### Testováním parafrázemi zjistíte, jestli čtenář písemnosti rozumí, jak jste ji zamýšleli
+### Testováním parafrázemi zjistíte, jestli čtenář písemnosti rozumí tak, jak jste ji zamýšleli
 
-Takto se testují hlavně kratší písemnosti. Uděláte rozhovor se 6 až 8 lidmi.
+Takto se testují hlavně kratší písemnosti. Uděláte rozhovor se šesti až osmi lidmi.
 
 Nejprve testující požádáte, aby postupně četli jednotlivé části textu a vlastními slovy vám řekli, co znamenají.
 
@@ -22,7 +22,7 @@ Pak položíte doplňující otázky, například:
 
 * Co byste dělali, kdybyste dostali tuto písemnost?
 * Co podle Vás pisatel zamýšlel?
-* Kdyby písemnost dostali jiní lidé, které znáte, co by jim pomohlo nebo naopak překáželo?
+* Kdyby písemnost dostali jiní lidé, které znáte, co by jim pomohlo, nebo naopak překáželo?
 
 ### Testováním použitelnosti zjistíte, jestli čtenář pomocí písemnosti vyřeší konkrétní situaci
 
@@ -40,7 +40,7 @@ Takto se testují delší písemnosti nebo webové stránky. Uděláte rozhovor 
 
 Takto se testuje výsledná písemnost (web). Posbíráte větší množství dat (např. od více než 1 000 lidí).
 
-Pokud si předem určíte, co budete považovat za úspěch, případně otestujete více verzí písemnosti, budete sice vědět, co funguje nebo co funguje lépe, ale nezjistíte, proč.
+Pokud si předem určíte, co budete považovat za úspěch, případně otestujete více verzí písemnosti, budete sice vědět, co funguje nebo co funguje lépe, ale nezjistíte proč.
 
 Jaký výsledek studie budete považovat za úspěch?
 
@@ -49,9 +49,9 @@ Jaký výsledek studie budete považovat za úspěch?
 * Chcete více podaných žádostí nebo plateb?
 * Chcete, aby lidé při vyplňování formuláře méně chybovali?
 
-Můžete testovat dvě a více verzí písemnosti (webu, …). Například tak, že 700 lidí dostane upravenou verzi písemnosti a kontrolní skupina (700 lidí) původní. Výsledky porovnáte.
+Můžete testovat dvě a více verzí písemnosti. Například tak, že 700 lidí dostane upravenou verzi písemnosti a kontrolní skupina (700 lidí) původní. Výsledky porovnáte.
 
-Před srovnávací studií testujeme prostřednictvím parafrází nebo testujeme použitelnost a písemnost podle toho upravíme.
+Před srovnávací studií testujeme prostřednictvím parafrází nebo testujeme použitelnost – a písemnost podle toho upravíme.
 
 ### Vyzkoušeli jsme testování použitelnosti písemností
 
@@ -73,7 +73,7 @@ Při prvním testování jsme testujícím (našim zaměstnancům neprávníkům
 
 Další dvě písemnosti napsané podle příručky jsme upravili podle výsledků testování v prvním kole a znova je otestovali na zaměstnancích neprávnících. Takto upravené písemnosti testující hodnotili jako srozumitelnější (o 13 a 36 procentních bodů) a procento správných odpovědí se zvýšilo (o 7 a 8 procentních bodů). Odpovědi se zlepšily méně, protože jsme napsali srozumitelně již původní písemnost.
 
-Ve třetím kole jsme univerzitní studenty nechali vyplnit 3 verze formuláře žádosti o mimořádnou okamžitou pomoc. Díky tomu jsme vybrali nejsrozumitelnější verzi a tu jsme ještě upravili podle jejich připomínek.
+Ve třetím kole jsme univerzitní studenty nechali vyplnit tři verze formuláře žádosti o mimořádnou okamžitou pomoc. Díky tomu jsme vybrali nejsrozumitelnější verzi a tu jsme ještě upravili podle jejich připomínek.
 
 Od čtvrtého kola pro nás písemnosti testovali klienti neziskových organizací zaměřených na lidi v nouzi. Testujícím jsme přestali nabízet možné odpovědi na položené otázky, ale přešli jsme k volnému řešení modelových situací.
 
