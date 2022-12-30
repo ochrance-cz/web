@@ -10,7 +10,7 @@ Návrh na zahájení řízení musí obsahovat i údaj o tom, kdy byl přestupek
 
 {{% /nevhodne %}}
 
-Správná odpověď je, že první ano, druhé ne. Co tam druhé „kdy“ dělá? Nic podstatného, jen volně vrší pisatelovy neuspořádané myšlenky do jedné gigantické věty. Je to podobné, jako když posloucháme někoho, kdo neklesá hlasem jako při tečce, ale vrší jednu myšlenku za druhou, což nám nedovolí myšlenky vstřebat. Podobně je tomu při psaní:
+Správná odpověď je, že první ano, druhé ne. Co tam druhé „kdy“ dělá? Nic podstatného, jen volně spojuje pisatelovy neuspořádané myšlenky do jednoho zbytečně dlouhého souvětí. Je to podobné, jako když posloucháme někoho, kdo neklesá hlasem jako při tečce, ale vrší jednu myšlenku za druhou, což nám nedovolí myšlenky vstřebat. Podobně je tomu při psaní:
 
 {{% nevhodne %}}
 
