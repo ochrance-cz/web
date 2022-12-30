@@ -2,7 +2,7 @@
 title: Výčty pište tak, aby se v nich čtenář snadno vyznal
 num: 46
 ---
-Výčty musí být jednoznačné, abychom čtenáře nezmátli. Například v následujícím výčtu o pouhých dvou položkách může čtenář váhat, zda dítě mělo či nemělo mít negativní test, protože k „RT-PCR test negativní“ hledá sloveso.
+Výčty musejí být jednoznačné, abychom čtenáře nezmátli. Například v následujícím výčtu o pouhých dvou položkách může čtenář váhat, zda dítě mělo, či nemělo mít negativní test, protože k „RT-PCR test negativní“ hledá sloveso.
 
 {{% nevhodne %}}
 
@@ -22,7 +22,7 @@ Proto se snažte psát tak, aby bylo čtenáři jasné, co každá položka vý�
 
 Odrážky a číslování jsou šikovným pomocníkem, protože čtenář na první pohled vidí, že následuje výčet.
 
-Pokud začnete výčet návětím (to je začátek věty), měli byste v každé odrážce či čísle větu smysluplně dokončit. V příkladu končí správně pouze první odrážka, druhá ne.
+Pokud začnete výčet návětím (to je začátek věty), měli byste v každé odrážce či čísle větu dobře navázat. V příkladu končí správně pouze první odrážka, druhá ne.
 
 {{% nevhodne %}}
 
@@ -46,7 +46,7 @@ Na pracovní rehabilitaci vás můžeme zařadit, pokud
 
 {{% nevhodne %}}
 
-Na pracovní rehabilitaci vás můžeme zařadit, pokud máte zdravotní postižení, dočasná neschopnost práce, pokud to doporučí váš ošetřující lékař, …
+Na pracovní rehabilitaci vás můžeme zařadit, pokud máte zdravotní postižení, dočasná neschopnost práce, pokud to doporučí váš ošetřující lékař …
 
 {{% /nevhodne %}}
 
