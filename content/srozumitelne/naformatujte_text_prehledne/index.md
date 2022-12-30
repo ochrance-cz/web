@@ -32,7 +32,7 @@ Víme o tom, že na mnoha úřadech a soudech zarovnávat do bloku musíte, prot
 
 {{% /nevhodne %}}
 
-**Zadruhé, zarovnání do bloku v běžném textovém editoru není profesionální.** Zvláště starší generace má někdy dojem, že zarovnání doleva je neprofesionální. Možná je to proto, že dříve uměli zarovnávat pouze profesionální sazeči, zatímco ostatní byli odkázáni na psací stroje, které zarovnávat do bloku neuměly. Teď je tomu zcela opačně. Zatímco textové editory umí běžně zarovnávat do bloku, zarovnání není profesionální, protože nedorovnává mezery mezi slovy a nezahlazuje „řeky“. Zarovnání do bloku proto nechte profesionálním sazečům pro sazbu knih či novin. Sami používejte to, co je nejlépe čitelné.
+**Zadruhé, zarovnání do bloku v běžném textovém editoru není profesionální.** Zvláště starší generace má někdy dojem, že zarovnání doleva je neprofesionální. Možná je to proto, že dříve uměli zarovnávat pouze profesionální sazeči, zatímco ostatní byli odkázáni na psací stroje, které zarovnávat do bloku neuměly. Teď je tomu zcela opačně. I když textové editory umějí běžně zarovnávat do bloku, zarovnání není profesionální, protože nedorovnává mezery mezi slovy a nezahlazuje „řeky“. Zarovnání do bloku proto nechte profesionálním sazečům pro sazbu knih či novin. Sami používejte to, co je nejlépe čitelné.
 
 ### Použijte to písmo, které je dobře čitelné
 
