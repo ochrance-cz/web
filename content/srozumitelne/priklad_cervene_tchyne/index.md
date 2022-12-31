@@ -11,10 +11,10 @@ Nejprve si přečtěte jeho původní odpověď. Zkuste číst očima paní Karm
 
 1. Hlavička Krajského úřadu Červeného kraje
 
-   Věc: Informace Krajského úřadu Červeného kraje ke stížnosti
+   Věc: informace Krajského úřadu Červeného kraje ke stížnosti
 2. Vážená paní Karmínová,
 
-   Krajský úřad Červeného kraje, odbor správních činností ve zdravotnictví (dále jen „KÚČK“), obdržel dne 29. 1. 2019 Vaše podání s označením „Věc: Anna Rumělková, nar. xxx – stížnost na neposkytnutí odpovídající zdravotní péče“. Ve svém podání jste vyjádřila nespokojenost s poskytovanou zdravotní péčí Vaší tchyni, paní Anně Rumělkové, nar. xxx, zem. xxx, která jí byla poskytnuta u poskytovatele zdravotních služeb, v Nemocnici Rubín, se sídlem Purpurová 111/2, 111 22, Rubínov, IČO: 00011111 (dále jen „poskytovatel“), v období od 27. 12. 2018 do 14. 1. 2019.
+   Krajský úřad Červeného kraje, odbor správních činností ve zdravotnictví (dále jen „KÚČK“), obdržel dne 29. 1. 2019 Vaše podání s označením „Věc: Anna Rumělková, nar. xxx – stížnost na neposkytnutí odpovídající zdravotní péče“. Ve svém podání jste vyjádřila nespokojenost s poskytovanou zdravotní péčí Vaší tchyni, paní Anně Rumělkové, nar. xxx, zem. xxx, která jí byla poskytnuta u poskytovatele zdravotních služeb, v Nemocnici Rubín, se sídlem Purpurová 111/2, 111 22 Rubínov, IČO: 00011111 (dále jen „poskytovatel“), v období od 27. 12. 2018 do 14. 1. 2019.
 3. V této souvislosti Vám KÚČK sděluje, že jako příslušný správní orgán je v rámci kompetencí, které mu přísluší dle zákona č. 372/2011 Sb., o zdravotních službách a podmínkách jejich poskytování, ve znění pozdějších předpisů (dále jen „zákon č. 372/2011 Sb.“), oprávněn šetřit stížnosti týkající se poskytnuté zdravotní péče ve svém správním obvodu, kterým je území města Rubínov, a to za podmínek dodržení zákonného postupu.
 4. Podle ustanovení § 93 odst. 1 zákona č. 372/2011 Sb. stížnost proti postupu poskytovatele při poskytování zdravotních služeb nebo proti činnostem souvisejícím se zdravotními službami může podat:
 
@@ -34,7 +34,7 @@ Nejprve si přečtěte jeho původní odpověď. Zkuste číst očima paní Karm
 
    V této souvislosti Vás KÚČK současně informuje, že na webových stránkách odboru správních činností ve zdravotnictví, v sekci Informace pro pacienty, jsou k dispozici další informace o průběhu šetření stížnosti KÚČK.
 
-   Vážená paní Karmínová, aby se mohl KÚČK jako příslušný správní orgán stížností zabývat, je potřeba nejprve splnit shora uvedené zákonem stanovené postupy a náležitosti. V případě, že se rozhodnete podat k poskytovateli zdravotních služeb stížnost podle výše uvedeného zákona č. 372/2011 Sb. a nebudete s vyřízením stížnosti ze strany poskytovatele spokojeni, zašlete Vaše podání, včetně veškerých souvisejících podkladů a stanoviska poskytovatele, na adresu KÚČK, odbor správních činností ve zdravotnictví, Korálová 12/34, 111 22 Rubínov nebo elektronicky (v případě použití zaručeného elektronického podpisu) do datové schránky KÚČK (ID datové schránky 123jkl).
+   Vážená paní Karmínová, aby se mohl KÚČK jako příslušný správní orgán stížností zabývat, je potřeba nejprve splnit shora uvedené zákonem stanovené postupy a náležitosti. V případě, že se rozhodnete podat k poskytovateli zdravotních služeb stížnost podle výše uvedeného zákona č. 372/2011 Sb. a nebudete s vyřízením stížnosti ze strany poskytovatele spokojeni, zašlete Vaše podání, včetně veškerých souvisejících podkladů a stanoviska poskytovatele, na adresu KÚČK, odbor správních činností ve zdravotnictví, Korálová 12/34, 111 22 Rubínov, nebo elektronicky (v případě použití zaručeného elektronického podpisu) do datové schránky KÚČK (ID datové schránky 123jkl).
 
    S pozdravem
 
@@ -63,17 +63,17 @@ Píšu adresnou odpověď na stížnost.
 Chci dosáhnout toho, aby paní Karmínová věděla:
 
 * že se její stížností zatím nemůžu zabývat, protože si musí nejprve stěžovat nemocnici;
-* že musí nemocnici prokázat, že je snacha paní Rumělkové a jak to má udělat;
+* že musí nemocnici prokázat, že je snacha paní Rumělkové, a jak to má udělat;
 * co má dělat a jak, aby měla její stížnost nemocnici zákonné náležitosti;
 * že kdyby nebyla spokojená s vyřízením stížnosti, může si kraji stěžovat znovu.
 
-Všimněte si, že to, čeho chci dosáhnout, vím teprve poté, co najdu právní řešení věci. Nejprve musím vědět (nebo zjistit), zda jsem k vyřízení věci příslušný a zda má stížnost všechny náležitosti. Když zjistím, že příslušný jsem, ale že je stížnost předčasná a chybí jí náležitost, teprve tehdy můžu začít osnovat odpověď. Dokud nevím, co píšu a čeho chci dosáhnout, nemá smysl psát, protože hrozí, že budu muset mazat – v lepším případě. V horším případě toho napíšu čtenáři moc – prostě nechám na něm, ať si z toho vybere to podstatné (právě to se mi stalo, než jsem postupoval podle příručky).
+Všimněte si, že to, čeho chci dosáhnout, vím teprve poté, co najdu právní řešení věci. Nejprve musím vědět (nebo zjistit), zda jsem k vyřízení věci příslušný a zda má stížnost všechny náležitosti. Když zjistím, že příslušný jsem, ale že je stížnost předčasná a chybí jí náležitost, teprve tehdy můžu začít sepisovat odpověď. Dokud nevím, co píšu a čeho chci dosáhnout, nemá smysl psát, protože hrozí, že budu muset mazat – v lepším případě. V horším případě toho napíšu čtenáři moc – prostě nechám na něm, ať si z toho vybere to podstatné (právě to se nám občas stávalo, než jsme začali psát podle příručky).
 
 ### Co sdělím?
 
 Když vím, čeho chci dosáhnout, vím také, že toho ke sdělení nemám moc. Stačí, když paní Karmínové napíšu:
 
-1. Aby nejprve podala stížnost přímo nemocnici a vysvětlím proč:
+1. Aby nejprve podala stížnost přímo nemocnici – a vysvětlím proč:
 
    Podle zákona si musí na zdravotní péči stěžovat nejprve samotnému poskytovateli zdravotních služeb, tedy nemocnici (§ 93 odst. 1 zákona č. 372/2011 Sb., o zdravotních službách a podmínkách jejich poskytování).
 
@@ -85,7 +85,7 @@ Když vím, čeho chci dosáhnout, vím také, že toho ke sdělení nemám moc.
    Užitečné bude napsat, jak má prokázat, že je snacha: Například rodným listem manžela a oddacím listem.
 
    A užitečné bude připomenout náležitosti stížnosti.
-3. Aby se na kraj znova obrátila teprve kdyby nebyla spokojená s tím, jak nemocnice stížnost vyřídila.
+3. Aby se na kraj znova obrátila, teprve kdyby nebyla spokojená s tím, jak nemocnice stížnost vyřídila.
 
    Užitečné bude napsat, co má k opakované stížnosti poslat.
 4. A mohu přidat informaci, že více se může dozvědět na webu.
@@ -96,15 +96,15 @@ Všimněte si, že pokud chci paní Karmínové pomoci, vysvětlím jí i to, ja
 
 ### Co sdělovat nemusím?
 
-Jako úředník musím vědět, jak postupovat podle práva. Musím vědět, zda jsem příslušný a jaké má mít stížnost náležitosti a musím vědět proč. Ale nemusím paní Karmínové všechno z toho psát. Jí napíšu jen to, co je užitečné pro ni.
+Jako úředník musím vědět, jak postupovat podle práva. Musím vědět, zda jsem příslušný a jaké má mít stížnost náležitosti, a musím vědět proč. Ale nemusím paní Karmínové všechno z toho psát. Jí napíšu jen to, co je užitečné pro ni.
 
 Co z původního dopisu sdělovat nemusím?
 
 Některá právní pravidla (nebo jejich části):
 
-* V bodu 3 úřad zmínil, že je k šetření stížnosti oprávněn. No prima, řekne si paní Karmínová, takže to vyřeší. Jenže dále se dozví, že její stížnosti něco chybí, a především, že si nejdříve musí stěžovat v nemocnici. Samotné oprávnění tak paní Karmínovou leda zmátlo. Vůbec nebylo třeba je zmiňovat, protože paní Karmínová by oprávnění pochopila právě ze sdělení o tom, jak má dále postupovat.
+* V bodu 3 úřad zmínil, že je k šetření stížnosti oprávněn. No prima, řekne si paní Karmínová, takže to vyřeší. Jenže dále se dozví, že její stížnosti něco chybí, a především že si nejdříve musí stěžovat v nemocnici. Samotné oprávnění tak paní Karmínovou leda zmátlo. Vůbec nebylo třeba je zmiňovat, protože paní Karmínová by oprávnění pochopila právě ze sdělení o tom, jak má dále postupovat.
 * V bodu 4 úřad opsal celý § 93 odst. 1 zákona, přestože stačilo zmínit pouze část písmene c) o osobě blízké. Paní Karmínová totiž není ani pacient či jeho zákonný zástupce nebo opatrovník, ani neměla od své tchyně zmocnění.
-* V bodu 5 úřad vyjmenoval veškeré náležitosti podání, jak má paní Karmínová podání podepsat a nakonec připsal, že pokud podání píše osoba blízká, je třeba prokázat její vztah k pacientovi. Pouze informace o osobě blízké je potřeba, informace o podání a podpisu paní Karmínovou jen zmatou, protože v nich úřad nedostatky neviděl.
+* V bodu 5 úřad vyjmenoval veškeré náležitosti podání, sdělil, jak má paní Karmínová podání podepsat, a nakonec připsal, že pokud podání píše osoba blízká, je třeba prokázat její vztah k pacientovi. Pouze informace o osobě blízké je potřeba; naopak informace o podání a podpisu paní Karmínovou jen zmatou, protože v nich úřad nedostatky neviděl.
 
 Některé průvodní informace:
 
@@ -130,11 +130,11 @@ Prozatím se nemůžeme Vaší stížností zabývat, ale poradíme Vám, co mů
 
 Vím, že jí chci sdělit pouze tři jednoduché informace:
 
-1. aby nejprve podala stížnost přímo nemocnici a vysvětlím proč;
+1. aby nejprve podala stížnost přímo nemocnici (a vysvětlím proč);
 2. aby doložila (pokud bude stížnost podávat), že je snachou paní Rumělkové, a jak to má udělat;
 3. aby se na kraj znova obrátila, teprve kdyby nebyla spokojená s tím, jak nemocnice stížnost vyřídila.
 
-Nemá smysl psát nejprve o nové stížnosti na kraj, když paní Karmínová ještě neví, že si má stěžovat nemocnici. Asi nezačnu ani tím, aby prokázala, že je snacha paní Rumělkové, protože pokud bude paní Karmínová zbrklá, bude to obratem prokazovat mně; a já chci aby to prokázala nemocnici. Takže text seřadím takto:
+Nemá smysl psát nejprve o nové stížnosti na kraj, když paní Karmínová ještě neví, že si má stěžovat nemocnici. Asi nezačnu ani tím, aby prokázala, že je snacha paní Rumělkové, protože pokud bude paní Karmínová zbrklá, bude to obratem prokazovat mně; a já chci, aby to prokázala nemocnici. Takže text seřadím takto:
 
 {{% vhodne %}}
 
@@ -163,7 +163,7 @@ Mám tři sdělení, tři nadpisy. Všechna sdělení vysvětlím. Píšu jen to
 
    * svoje jméno a příjmení
    * datum narození
-   * místo trvalého pobytu případně jinou adresu pro doručování
+   * místo trvalého pobytu, případně jinou adresu pro doručování
    * svůj podpis (vlastnoruční či elektronicky uznávaný).
 3. **Teprve pokud byste nebyla spokojená s tím, jak nemocnice stížnost vyřídila, můžete se znova obrátit na nás.**
 
@@ -173,7 +173,7 @@ Mám tři sdělení, tři nadpisy. Všechna sdělení vysvětlím. Píšu jen to
 
 Všimněte si, že v druhém bodě paní Karmínové sestavuji a vysvětluji právní pravidlo, proč může jako snacha podat stížnost za paní Rumělkovou. V původním znění (v bodu 5) se paní Karmínová dozvěděla pouze, že „v případě, že se jedná o podání stížnosti osobou blízkou, je současně nutné prokázat, že tato osoba je ve vztahu k pacientovi osobou blízkou“. To je vše. Paní Karmínová se musela dovtípit, že je osobou blízkou a že to musí prokázat. Úřad jí nijak nepomohl.
 
-Při psaní zároveň zachovávám pravidla příručky pro psaní, například píšu se slovesy, trpný rod jen s rozmyslem, píšu „my“ za úřad, vypouštím slovní vatu, vysvětluji odborné výrazy (osoba blízká), píšu krátké věty a další.
+Při psaní zároveň zachovávám pravidla příručky pro psaní, například píšu se slovesy, trpný rod jen s rozmyslem, píšu „my“ za úřad, vypouštím slovní vatu, vysvětluji odborné výrazy (osoba blízká), píšu krátké věty.
 
 ### A mám hotový text
 
@@ -196,7 +196,7 @@ Prozatím se nemůžeme Vaší stížností zabývat, ale poradíme Vám, co mů
 
    * svoje jméno a příjmení
    * datum narození
-   * místo trvalého pobytu případně jinou adresu pro doručování
+   * místo trvalého pobytu, případně jinou adresu pro doručování
    * svůj podpis (vlastnoruční či elektronicky uznávaný).
 3. **Teprve pokud byste nebyla spokojená s tím, jak nemocnice stížnost vyřídila, můžete se znova obrátit na nás.**
 
