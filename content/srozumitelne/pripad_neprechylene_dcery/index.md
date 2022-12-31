@@ -82,7 +82,7 @@ Chci dosáhnout toho, aby paní Blacková věděla, že:
 * paní Vraná nemohla zapsat nepřechýlené příjmení;
 * vedoucí nepochybila, když nebyla v konkrétní den a čas přítomna na pracovišti.
 
-Všimněte si, že to, čeho chci dosáhnout, vím teprve poté, co najdu právní řešení věci. Nejprve musím vědět (nebo zjistit), proč paní Vraná nemohla zapsat nepřechýlené příjmení a proč nemusela být vedoucí v danou dobu na pracovišti. Teprve potom mohu začít sepisovat odpověď. Dokud nevím, co píšu a čeho chci dosáhnout, nemá smysl psát, protože hrozí, že budu muset mazat – v lepším případě. V horším případě toho napíšu čtenáři moc – prostě nechám na něm, ať si z toho vybere to podstatné (právě to se mi stalo, než jsem postupoval podle příručky).
+Všimněte si, že to, čeho chci dosáhnout, vím teprve poté, co najdu právní řešení věci. Nejprve musím vědět (nebo zjistit), proč paní Vraná nemohla zapsat nepřechýlené příjmení a proč nemusela být vedoucí v danou dobu na pracovišti. Teprve potom mohu začít sepisovat odpověď. Dokud nevím, co píšu a čeho chci dosáhnout, nemá smysl psát, protože hrozí, že budu muset mazat – v lepším případě. V horším případě toho napíšu čtenáři moc – prostě nechám na něm, ať si z toho vybere to podstatné (právě to se nám občas stávalo, než jsme začali psát podle příručky).
 
 ### Co sdělím?
 
