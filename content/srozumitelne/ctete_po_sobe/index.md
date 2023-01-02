@@ -2,7 +2,7 @@
 title: Odškrtněte si, že jste napsali text správně (přehled a pomůcka k tisku)
 num: 55
 ---
-Můžete použít následující přehled a [pomůcku k tisku](https://www.ochrance.cz/uploads-import/ESO/pomůcka_srozumitelně.docx):
+Můžete použít následující přehled a [pomůcku k tisku](https://www.ochrance.cz/uploads-import/ESO/příručka/Pomůcka_píšu_srozumitelně.docx):
 
 #### Komu píšu? Co píšu?
 
