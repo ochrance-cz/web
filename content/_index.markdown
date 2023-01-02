@@ -15,5 +15,6 @@ aktuality:
   - tz
   - podcast
   - nabidka-prace
-  - pf
+  - doporuceni
+  - vyzkumy
 ---
