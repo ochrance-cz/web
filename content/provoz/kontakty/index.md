@@ -165,10 +165,6 @@ lawyers:
         role: právník (doprava, policie, armáda)
         phone: 542 542 390
         email: milan.kocourek@ochrance.cz
-      - name: Petr Lesa
-        role: právník (zbraně, obecní samospráva, restituce, právo na informace)
-        phone: 542 542 368
-        email: petr.lesa@ochrance.cz
       - name: Jakub Martinec
         role: právník (přestupky, služební poměry)
         phone: 542 542 386
