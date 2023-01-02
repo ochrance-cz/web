@@ -77,17 +77,17 @@ sections:
       Hana Suská, tel: 542 542 380
   - title: Odbor vnitřní správy
     intro: |-
-      **Josef Svoboda**
-      vedoucí odboru vnitřní správy  
-      telefon: 542 542 444  
-      e-mail: josef.svoboda@ochrance.cz
+      **Petr Lesa**
+      vedoucí odboru vnitřní správy\
+      telefon: 542 542 368\
+      e-mail: petr.lesa@ochrance.cz
   - title: Odbor administrativních a spisových služeb
     intro: |-
       **Libuše Kuncová**
       vedoucí odboru  
       telefon: 542 542 224  
       e-mail: libuse.kuncova@ochrance.cz
-  - title: Odbor péče o zaměstnance
+  - title: Odbor personální
     intro: |-
       **Gabriela Lžičařová**
       vedoucí odboru  
@@ -190,6 +190,10 @@ lawyers:
         role: právnička
         phone: "542 542 343 "
         email: zuzana.krizkova@ochrance.cz
+      - name: Eliška Císařová
+        role: právnička
+        phone: 542 542 336
+        email: eliska.cisarova@ochrance.cz
   - title: Odbor sociálního zabezpečení
     intro: dávky pomoci v hmotné nouzi, příspěvek na péči, dávky pro zdravotně
       postižené, důchody, dávky nemocenského pojištění, dávky státní sociální
@@ -485,6 +489,10 @@ lawyers:
         role: "právnička "
         phone: "542 542 375 "
         email: silvie.konopkova@ochrance.cz
+      - name: Jana Tučková
+        role: právnička
+        phone: 542 542 306
+        email: jana.tuckova@ochrance.cz
   - title: Odbor ochrany práv osob se zdravotním postižením
     people:
       - name: Romana Jakešová
