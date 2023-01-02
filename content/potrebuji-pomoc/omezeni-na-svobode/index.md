@@ -58,7 +58,7 @@ Ombudsman navštěvuje zařízení pro výkon ústavní a ochranné výchovy a d
 
 [Zpráva z návštěv školských zařízení pro výkon ústavní a ochranné výchovy (2011) ](https://www.ochrance.cz/uploads-import/ESO/53-2010_Souhrnna_zprava-skolska_zarizeni_pro_vykon_ustavni_vychovy_a_ochranne_vychovy.pdf)
 
-[Zpráva z návštěv školských zařízení pro výkon ústavní a ochranné výchovy (2007) ](https://www.ochrance.cz/uploads-import/ESO/Souhrnna*zprava_z_navstev_zarizeni__-_ochranna_a_ustavni_vychova*-_50-5006-NZ.pdf)\
+[Zpráva z návštěv školských zařízení pro výkon ústavní a ochranné výchovy (2007) ](https://www.ochrance.cz/uploads-import/ESO/Souhrnna_zprava_z_navstev_zarizeni__-_ochranna_a_ustavni_vychova_-_50-5006-NZ.pdf)\
 {{< /rozbal >}}
 
 {{< rozbal "Zařízení sociálních služeb" >}}
