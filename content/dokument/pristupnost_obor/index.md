@@ -1,6 +1,6 @@
 ---
 title: Přístupnost obor
-date: 2021-11-29T11:54:19.632Z
+date: 2021-11-26T11:54:19.632Z
 vystupy:
   - vyzkumy
 attachmentsTop:
