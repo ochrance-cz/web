@@ -157,7 +157,7 @@ Mám tři sdělení, tři nadpisy. Všechna sdělení vysvětlím. Píšu jen to
    Podle zákona si musíte na zdravotní péči stěžovat nejprve samotnému poskytovateli zdravotních služeb, tedy nemocnici (§ 93 odst. 1 zákona č. 372/2011 Sb., o zdravotních službách a podmínkách jejich poskytování). Nemocnice musí Vaši stížnost vyřídit do 30 dní a lhůtu může prodloužit o dalších 30 dní, pokud prodloužení odůvodní (§ 93 odst. 3 zákona o zdravotních službách).
 2. **Budete-li stížnost podávat, musíte doložit, že jste blízkou osobou paní Anny Rumělkové.**
 
-   Stížnost na poskytovatele zdravotních služeb může podat i osoba blízká pacientovi, který zemřel (§ 93 odst. 1 zákona o zdravotních službách). Jako snacha paní Blažkové jste podle občanského zákoníku její osoba blízká, proto za ni stížnost podat můžete. To, že jste snacha paní Rumělkové, však musíte nemocnici prokázat, třeba rodným listem Vašeho manžela a Vaším oddacím listem.
+   Stížnost na poskytovatele zdravotních služeb může podat i osoba blízká pacientovi, který zemřel (§ 93 odst. 1 zákona o zdravotních službách). Jako snacha paní Rumělkové jste podle občanského zákoníku její osoba blízká, proto za ni stížnost podat můžete. To, že jste snacha paní Rumělkové, však musíte nemocnici prokázat, třeba rodným listem Vašeho manžela a Vaším oddacím listem.
 
    Ve stížnosti nezapomeňte uvést dále:
 
@@ -190,7 +190,7 @@ Prozatím se nemůžeme Vaší stížností zabývat, ale poradíme Vám, co mů
    Podle zákona si musíte na zdravotní péči stěžovat nejprve samotnému poskytovateli zdravotních služeb, tedy nemocnici (§ 93 odst. 1 zákona č. 372/2011 Sb., o zdravotních službách a podmínkách jejich poskytování). Nemocnice musí Vaši stížnost vyřídit do 30 dní a lhůtu může prodloužit o dalších 30 dní, pokud prodloužení odůvodní (§ 93 odst. 3 zákona o zdravotních službách).
 2. **Budete-li stížnost podávat, musíte doložit, že jste blízkou osobou paní Anny Rumělkové.**
 
-   Stížnost na poskytovatele zdravotních služeb může podat i osoba blízká pacientovi, který zemřel (§ 93 odst. 1 zákona o zdravotních službách). Jako snacha paní Blažkové jste podle občanského zákoníku její osoba blízká, proto za ni stížnost podat můžete. To, že jste snacha paní Rumělkové, však musíte nemocnici prokázat, třeba rodným listem Vašeho manžela a Vaším oddacím listem.
+   Stížnost na poskytovatele zdravotních služeb může podat i osoba blízká pacientovi, který zemřel (§ 93 odst. 1 zákona o zdravotních službách). Jako snacha paní Rumělkové jste podle občanského zákoníku její osoba blízká, proto za ni stížnost podat můžete. To, že jste snacha paní Rumělkové, však musíte nemocnici prokázat, třeba rodným listem Vašeho manžela a Vaším oddacím listem.
 
    Ve stížnosti nezapomeňte uvést dále:
 
