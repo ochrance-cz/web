@@ -1,6 +1,6 @@
 ---
 title: Rozhodování českých soudů o diskriminačních sporech 2015–2019
-date: 2023-01-05T12:56:24.548Z
+date: 2020-09-24T11:56:24.548Z
 vystupy:
   - vyzkumy
 attachmentsTop:
