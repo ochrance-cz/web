@@ -14,13 +14,15 @@ active: true
 
 *T﻿ato část akce bude vysílána živě přímo z Facebooku, odkaz na stream přidáme později.*
 
+#### [Fotogalerie ](https://www.ochrance.cz/aktualne/fotogalerie_z_noci_dustojnosti_v_kancelari_ombudsmana/)
+
 .
 
 .﻿
 
 .
 
-### Українці, увага! Тут ви можете знайти важливі посилання з інформацією про ваше перебування в Чеській Республіці.  
+### Українці, увага! Тут ви можете знайти важливі посилання з інформацією про ваше перебування в Чеській Республіці.
 
 * ЯК ШУКАТИ РОБОТУ - ІСТОРІЯ ІРИНИ 
 
