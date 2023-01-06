@@ -14,13 +14,12 @@ active: true
 
 *T﻿ato část akce bude vysílána živě přímo z Facebooku, odkaz na stream přidáme později.*
 
-*.*﻿
+.
 
-*.*﻿
+.﻿
 
-*.*﻿
+.
 
-*.*﻿
 
 Українці, увага! Тут ви можете знайти важливі посилання з інформацією про ваше перебування в Чеській Республіці.  
 
