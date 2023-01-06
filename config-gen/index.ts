@@ -658,6 +658,7 @@ const aktualne = folderCollection(
     create: true,
     media_folder: '',
     public_folder: 'https://www.ochrance.cz/aktualne/{{slug}}',
+    slug: '{{year}}-{{month}}-{{day}}-{{title}}',
   },
   [
     title('Titulek'),
