@@ -66,7 +66,7 @@
                     {{ block "menu-link" . }}{{ end }}
                   {{ end }}
 
-                  {{ range where .Site.Pages "File.Dir" "vystupy/" }}
+                  {{ with .GetPage "/vystupy" }}
                     {{ block "menu-link" . }}{{ end }}
                   {{ end }}
 
