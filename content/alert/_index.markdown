@@ -1,29 +1,8 @@
 ---
-title: 6. 1. 2022 Noc důstojnosti - odkazy na živé přenosy z Kanceláře ombudsmana
+title: "Українці, увага! Тут ви можете знайти важливі посилання з інформацією
+  про ваше перебування в Чеській Республіці. "
 active: true
 ---
-#### 1﻿. část  Noci důstojnosti - panelová diskuze Důstojný život pro všechny
-
-* o﻿d 15 hodin
-
-<https://call.lifesizecloud.com/16828310>
-
-#### 2﻿. část Noci důstojnosti - pieta
-
-* o﻿d 17 hodin
-
-*T﻿ato část akce bude vysílána živě přímo z [Facebooku](https://www.facebook.com/verejny.ochrance.prav).*
-
-#### [Fotogalerie ](https://www.ochrance.cz/aktualne/fotogalerie_z_noci_dustojnosti_v_kancelari_ombudsmana/)
-
-.
-
-.﻿
-
-.
-
-### Українці, увага! Тут ви можете знайти важливі посилання з інформацією про ваше перебування в Чеській Республіці.
-
 * ЯК ШУКАТИ РОБОТУ - ІСТОРІЯ ІРИНИ 
 
 {{< youtube "Pk94zVkcIkA" >}} 
