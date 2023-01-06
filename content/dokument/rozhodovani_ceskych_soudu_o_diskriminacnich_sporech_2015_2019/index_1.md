@@ -1,9 +1,11 @@
 ---
-title: Rozhodování českých soudů o diskriminačních sporech 2015–2019
-date: 2020-09-24T09:48:44.081Z
+title: Křižovatky ochrany - Zkušenosti obcí při výkonu opatrovnictví a dalších
+  úkonech při ochraně zranitelných dospělých
+date: 2021-09-15T09:49:59.471Z
 vystupy:
   - vyzkumy
 attachmentsTop:
-  - title: Rozhodování českých soudů o diskriminačních sporech 2015–2019
-    file: https://www.ochrance.cz/uploads-import/ESO/Rozhodov%C3%A1n%C3%AD%20%C4%8Desk%C3%BDch%20soud%C5%AF%20o%20diskrimina%C4%8Dn%C3%ADch%20sporech%202015%E2%80%932019.pdf
+  - file: https://www.ochrance.cz/uploads-import/ESO/54_2020_OZP_v%C3%BDzkum.docx.pdf
+    title: Křižovatky ochrany - Zkušenosti obcí při výkonu opatrovnictví a dalších
+      úkonech při ochraně zranitelných dospělých
 ---
