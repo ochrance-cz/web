@@ -67,9 +67,9 @@ Ombudsman navštěvuje pobytová zařízení sociálních služeb. Zprávy z jed
 
 [Zpráva z návštěv domovů pro osoby se zdravotním postižením (2020)](https://www.ochrance.cz/uploads-import/ESO/11-2017-NZ-OV_souhrnna_zprava_DOZP.pdf) 
 
-[Zpráva z návštěv ubytovacích zařízení poskytujících péči bez oprávnění (2015)](https://www.ochrance.cz/uploads-import/ESO/28-2014-NZ*Souhrnna_zprava*-*neregistrovana_zarizeni__CJ*.pdf) 
+[Zpráva z návštěv ubytovacích zařízení poskytujících péči bez oprávnění (2015) ](https://www.ochrance.cz/uploads-import/ESO/28-2014-NZ*Souhrnna_zprava*-*neregistrovana_zarizeni__CJ*.pdf)
 
-[Zpráva z návštěv domovů pro seniory a domovů se zvláštním režimem (2015)](https://www.ochrance.cz/uploads-import/ESO/7-2013-NZ-Zprava_z_navstev.pdf) 
+[](https://www.ochrance.cz/uploads-import/ESO/28-2014-NZ*Souhrnna_zprava*-*neregistrovana_zarizeni__CJ*.pdf)[Zpráva z návštěv domovů pro seniory a domovů se zvláštním režimem (2015)](https://www.ochrance.cz/uploads-import/ESO/7-2013-NZ-Zprava_z_navstev.pdf) 
 
 [Zpráva z návštěv domovů pro osoby se zdravotním postižením (2009)](https://eso.ochrance.cz/Nalezene/Edit/2788) 
 
