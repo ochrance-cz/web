@@ -24,7 +24,7 @@ Za účelem zapojení lidí s postižením do sledování naplňování [Úmlu
 
 {{< rozbal "Členové poradního orgánu" >}}
 
-Poradní orgán má 18 členů. Jeho členy jsou lidé s postižením a lidé hájící práva lidí s postižením. Při jmenování členů poradního orgánu přihlíží ombudsman zejména k jejich **odbornosti a angažovanosti v oblasti ochrany práv lidí s postižením**.
+Poradní orgán má 17 členů. Jeho členy jsou lidé s postižením a lidé hájící práva lidí s postižením. Při jmenování členů poradního orgánu přihlíží ombudsman zejména k jejich **odbornosti a angažovanosti v oblasti ochrany práv lidí s postižením**.
 
 #### (1) Eva Liberdová
 
@@ -96,11 +96,7 @@ Dodo je 16 let a studuje druhým rokem 1. Střední ScioŠkolu. Dle jejích slov
 
 K sociálním službám se dostala jako mnoho jiných matek dětí s postižením, po narození druhého syna Tomáše. V sociálních službách pracuje od roku 1994, od roku 2000 jako ředitelka organizace Rytmus. Rytmus je organizace, která vznikla proto, aby hájila práva lidí s mentálním postižením a vytvářela pro ně příležitosti, které umožní jejich začleňování do života společnosti. Rytmus také od počátku fungování propaguje a obhajuje inkluzívní vzdělávání. Právě v této oblasti je aktivní Pavla Baxová – organizuje přímou podporu ve třídách běžných škol, kde je začleněno dítě s mentálním postižením, podílí se lektorsky na kurzech pro asistenty pedagoga, i na kurzech pro rodiče dětí s postižením.
 
-#### (17) Jakub Trefný
-
-Narodil se s vývojovou vadou levé dolní končetiny. Již od první protézy se snaží věnovat životu naplno. Sportuje, cestuje a rád vyhledává dobrodružství. Vystudoval střední průmyslovou školu a nyní studuje na technické fakultě na ČZU. Jako první sport zkusil plavání. Poté objevil cyklistiku a začal se jí věnovat naplno. Když uslyšel o cyklistické organizaci pro handicapované Černí koně, hned se k nim přidal a vyhrál spoustu závodů. Poté, co se mu stal menší úraz na kole, přestal na chvíli závodit a začal se zajímat o sledge hokej. Po soustředění v Soči si ho zamiloval a začal hrát za Spartu. Během zápasů procestoval celou republiku. Bohužel po necelých dvou letech už nemohl stíhat práci ani školu, tak od Sparty odešel. Nyní se snaží úspěšně vystudovat a co nejdříve se ke sportu vrátit.
-
-#### (18) Jindřich Mikulík
+#### (17) Jindřich Mikulík
 
 Narodil se neslyšícím rodičům, sám je také od narození neslyšící. S manželkou se stará o čtyři děti. Na Pedagogické fakultě Masarykovy univerzity absolvoval dvouoborové studium – speciální pedagogiky a matematiky. Pracuje ve středisku Teiresiás. Od roku 2020 je prezidentem ASNEPu (Asociace organizací neslyšících, nedoslýchavých a jejich přátel). Těší jej, že může být členem poradního orgánu zástupkyně veřejného ochránce práv Mgr. Moniky Šimůnkové a že se tak může také podílet na vytváření lepších podmínek života lidí s postižením, zejména pak lidí se sluchovým postižením. Jako člen poradního orgánu by se rád věnoval také osvětě o činnosti Kanceláře veřejného ochránce práv směrem k široké veřejnosti.
 
