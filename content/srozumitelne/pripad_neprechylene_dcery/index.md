@@ -31,29 +31,29 @@ Nejprve si přečtěte jeho původní odpověď. Zkuste číst očima paní Blac
 4. V případě, že by stěžovatelka vyžadovala změnu tvaru příjmení své nezletilé dcery, může se obrátit na kterýkoliv matriční úřad České republiky, popřípadě krajský úřad, nebo příslušný zastupitelský úřad České republiky v zahraničí, nebo přímo na zvláštní matriku.
 5. K nezastižení vedoucí odboru vnitřních věcí stěžovatelkou dne 23. 8. 2021 uvádíme následující:
 
-   Stěžovatelka se na Městský úřad Černošov, oddělení občanských průkazů a cestovních pasů, dostavila dne 23. 8. 2021 (pondělí) mezi 15,30 hod. a 16,00 hod., kdy je pracovní doba oddělení občanských průkazů a cestovních pasů, evidence obyvatel, registru vozidel, řidičských průkazů, registru podnikatelů a matriky stanovena pracovním řádem Městského úřadu Černošov konkrétně:
+   Stěžovatelka se na Městský úřad Černošov, oddělení občanských průkazů a cestovních pasů, dostavila dne 23. 8. 2021 (pondělí) mezi 15:30 hod. a 16:00 hod., kdy je pracovní doba oddělení občanských průkazů a cestovních pasů, evidence obyvatel, registru vozidel, řidičských průkazů, registru podnikatelů a matriky stanovena pracovním řádem Městského úřadu Černošov konkrétně:
 
-   Pondělí 7.30–17.00
+   Pondělí 7:30–17:00
 
-   Úterý 7.30–11.00
+   Úterý 7:30–11:00
 
-   Středa 7.30–17.00
+   Středa 7:30–17:00
 
-   Čtvrtek 7.30–11.00
+   Čtvrtek 7:30–11:00
 
-   Pátek 7.30–12.00
+   Pátek 7:30–12:00
 
    Základní pracovní doba pracovišť je stanovena pracovním řádem Městského úřadu Černošov konkrétně:
 
-   Pondělí 7.30–15.00
+   Pondělí 7:30–15:00
 
-   Úterý 7.30–14.00
+   Úterý 7:30–14:00
 
-   Středa 7.30–15.00
+   Středa 7:30–15:00
 
-   Čtvrtek 7.30–14.00
+   Čtvrtek 7:30–14:00
 
-   Pátek 7.30–13.00
+   Pátek 7:30–13:00
 
    Z důvodů výše uvedených nebyla shledána stížnost jako důvodná a nebyla přijata žádná opatření k nápravě.
 6. Mgr. František Razítko
@@ -99,9 +99,9 @@ Když vím, čeho chci dosáhnout, vím také, že toho ke sdělení nemám moc.
    Užitečné bude poradit paní Blackové, kde může nechat tvar dceřina příjmení změnit.
 2. Že vedoucí nemusela být přítomna na pracovišti, protože:
 
-   Vedoucí i ostatní zaměstnanci mají v pondělí základní pracovní dobu pouze do 15.00. Delší pracovní dobu mají jen ti, co mají v konkrétní den službu v úředních hodinách, které jsou v pondělí do 17.00.
+   Vedoucí i ostatní zaměstnanci mají v pondělí základní pracovní dobu pouze do 15:00. Delší pracovní dobu mají jen ti, co mají v konkrétní den službu v úředních hodinách, které jsou v pondělí do 17:00.
 
-   Paní Blacková se dostavila na úřad mezi 15.30 a 16.00. Vedoucí ten den neměla službu, a mohla tedy odejít už v 15.00.
+   Paní Blacková se dostavila na úřad mezi 15:30 a 16:00. Vedoucí ten den neměla službu, a mohla tedy odejít už v 15:00.
 
 Nic dalšího sdělovat nemusím.
 
@@ -141,7 +141,7 @@ Vím, že jí chci sdělit dvě jednoduché informace:
 {{% vhodne %}}
 
 1. Nesouhlasíte s tím, že referentka občanských průkazů a cestovních pasů Ludmila Vraná odmítla v žádosti o vydání cestovního dokladu opravit příjmení Vaší dcery Anny z Blacková na Black. **Referentka však Annino příjmení opravit nemohla, protože jí to zákon nedovoluje.**
-2. Vadí Vám, že jste nezastihla vedoucí oddělení dne 23. 8. 2021 (pondělí) mezi 15.30 a 16.00, kdy jste podávala žádost o vydání Annina cestovního pasu. **Vedoucí však na úřadu nemusela být přítomna, protože mohla ten den odejít již v 15.00.**
+2. Vadí Vám, že jste nezastihla vedoucí oddělení dne 23. 8. 2021 (pondělí) mezi 15:30 a 16:00, kdy jste podávala žádost o vydání Annina cestovního pasu. **Vedoucí však na úřadu nemusela být přítomna, protože mohla ten den odejít již v 15:00.**
 
 {{% /vhodne %}}
 
@@ -175,13 +175,13 @@ Podobně ve druhém bodu. I tady nejprve vysvětlím pravidlo (pracovní dobu), 
 
 {{% pravni %}}
 
-Vedoucí i ostatní zaměstnanci mají v pondělí základní pracovní dobu pouze do 15.00. Delší pracovní dobu mají jen ti, co mají v konkrétní den službu v úředních hodinách, které jsou v pondělí do 17.00.
+Vedoucí i ostatní zaměstnanci mají v pondělí základní pracovní dobu pouze do 15:00. Delší pracovní dobu mají jen ti, co mají v konkrétní den službu v úředních hodinách, které jsou v pondělí do 17:00.
 
 {{% /pravni %}}
 
 {{% vecne %}}
 
-Dostavila jste se na úřad mezi 15.30 a 16.00. Vedoucí ten den neměla službu, a mohla tedy odejít už v 15.00.
+Dostavila jste se na úřad mezi 15:30 a 16:00. Vedoucí ten den neměla službu, a mohla tedy odejít už v 15:00.
 
 {{% /vecne %}}
 
@@ -236,11 +236,11 @@ Stížnost nepovažujeme za důvodnou v žádném z obou bodů, proto jsme nepř
    * nebo přímo na zvláštní matrice vedené Úřadem městské části Brno-střed.
 
    Pak Anně vydáme cestovní doklad s příjmením ve tvaru „Black“.
-2. Vadí Vám, že jste nezastihla vedoucí oddělení dne 23. 8. 2021 (pondělí) mezi 15.30 a 16.00, kdy jste podávala žádost o vydání Annina cestovního pasu. Vedoucí však na úřadu nemusela být přítomna, protože mohla ten den odejít již v 15.00.
+2. Vadí Vám, že jste nezastihla vedoucí oddělení dne 23. 8. 2021 (pondělí) mezi 15:30 a 16:00, kdy jste podávala žádost o vydání Annina cestovního pasu. Vedoucí však na úřadu nemusela být přítomna, protože mohla ten den odejít již v 15:00.
 
-   Vedoucí i ostatní zaměstnanci mají v pondělí základní pracovní dobu pouze do 15.00. Delší pracovní dobu mají jen ti, kdo mají v konkrétní den službu v úředních hodinách, které jsou v pondělí do 17.00.
+   Vedoucí i ostatní zaměstnanci mají v pondělí základní pracovní dobu pouze do 15:00. Delší pracovní dobu mají jen ti, kdo mají v konkrétní den službu v úředních hodinách, které jsou v pondělí do 17:00.
 
-   Dostavila jste se na úřad mezi 15.30 a 16.00. Vedoucí ten den neměla službu, a mohla tedy odejít už v 15.00.
+   Dostavila jste se na úřad mezi 15:30 a 16:00. Vedoucí ten den neměla službu, a mohla tedy odejít už v 15:00.
 
 Proto již vedoucí nemusela být na úřadu přítomna.
 
