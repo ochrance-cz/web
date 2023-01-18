@@ -100,6 +100,7 @@
   .email-label,
   .facebook-label,
   .instagram-label,
+  .podcast-label,
   .youtube-label,
   .twitter-label {
     display: inline-block;
@@ -133,6 +134,14 @@
 
   .instagram-label::before {
     @include fa-icon($fa-var-instagram);
+    font-family: 'FontAwesome-Brands';
+    width: 2rem;
+    top: 0;
+    margin-right: 1rem;
+  }
+  
+  .podcast-label::before {
+    @include fa-icon($fa-var-podcast);
     font-family: 'FontAwesome-Brands';
     width: 2rem;
     top: 0;
