@@ -38,6 +38,6 @@ Z věty jsme se dozvěděli, že 1) ustanovení umožňuje dvě interpretace (al
 
 {{% vhodne %}}
 
-Ústavní soud nezruší ustanovení, které lze vyložit ústavně konformně.
+Ústavní soud nezruší ustanovení, které lze vyložit v souladu s Ústavou.
 
 {{% /vhodne %}}
