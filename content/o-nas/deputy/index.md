@@ -53,7 +53,8 @@ areas:
   - area: "Veřejné opatrovnictví "
   - area: "Sociální práce na obci "
   - area: Činnost Vězeňské služby ČR
-  - area: "Správa na úseku školství "
+  - area: "Školství "
+    desc: Správa na úseku školství, akademická samospráva aj.
   - area: Konzulární služba, superlegalizace a ostatní působnost MZV
   - area: "Soudní rozhodování ve věcech cizinců "
 ---
