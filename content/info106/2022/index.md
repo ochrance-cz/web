@@ -479,7 +479,7 @@ title: "2022"
 
 <p><a href="https://www.ochrance.cz/info106/2022/89_2022_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>Odpověď na žádost.</p>
+<p><a href="https://www.ochrance.cz/info106/2022/89_2022_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <h3>91/2022 &ndash; Informace z&nbsp;oblasti Vězeňství</h3>
 
