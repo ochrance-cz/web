@@ -3,6 +3,8 @@ title: Veřejný ochránce práv Stanislav Křeček a jeho zástupce Vít Alexan
   Schorm se dohodli, že od prvního února bude zástupce ombudsmana zaštiťovat
   především agendy s lidskoprávním přesahem
 date: 2023-01-25T12:45:06.775Z
+vystupy:
+  - tz
 perex: >
   <p>Ombudsman i jeho zástupce chtějí úřad připravit na možné přijetí dalších
   lidskoprávních kompetencí. Veřejný ochránce práv už nyní řeší řadu otázek
