@@ -1,16 +1,17 @@
 ---
 title: Veřejný ochránce práv Stanislav Křeček a jeho zástupce Vít Alexander
-  Schorm se dohodli, že od 1. února bude zástupce ombudsmana zaštiťovat
-  především agendy s lidskoprávním přesahem. Chtějí úřad připravit na možné
-  přijetí dalších lidskoprávních kompetencí
+  Schorm se dohodli, že od prvního února bude zástupce ombudsmana zaštiťovat
+  především agendy s lidskoprávním přesahem
 date: 2023-01-25T10:34:15.912Z
 vystupy:
   - tz
 perex: >
-  <p>Veřejný ochránce práv už nyní řeší řadu otázek spojených lidskými právy
-  nebo právy dětí. Česká republika se připravuje na zřízení funkce dětského
-  ombudsmana a nezávislé instituce na ochranu lidských práv (NHRI). Obojí u nás
-  &ndash; na rozdíl od většiny evropských zemí &ndash; totiž dosud chybí.</p>
+  <p>Ombudsman i jeho zástupce chtějí úřad připravit na možné přijetí dalších
+  lidskoprávních kompetencí. Veřejný ochránce práv už nyní řeší řadu otázek
+  spojených lidskými právy nebo právy dětí. Česká republika se připravuje na
+  zřízení funkce dětského ombudsmana a nezávislé instituce na ochranu lidských
+  práv (NHRI). Obojí u nás &ndash; na rozdíl od většiny evropských zemí &ndash;
+  totiž dosud chybí.</p>
 ---
 <p><em>&bdquo;Věřím, že zákonodárci působnost dětského ombudsmana a národní lidskoprávní instituce svěří právě nám. Proto jsme se s panem zástupcem rozhodli na tento mandát připravovat,&ldquo; </em>objasnil ombudsman Stanislav Křeček, jak zvolili <a href="https://www.ochrance.cz/o-nas/deputy/">oblasti</a>, které bude mít od února na starosti jeho zástupce.</p>
 
