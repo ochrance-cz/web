@@ -25,5 +25,32 @@ bio: >-
 
 
   Poslanecká sněmovna Parlamentu ho zvolila zástupcem veřejného ochránce práv dne 26. října 2022.
-areas: []
+areas:
+  - area: Ochrana dětí, mládeže a rodiny
+    desc: Činnost orgánů OSPOD, ústavní výchova, dávky pěstounské péče
+  - area: "Věci cizinců "
+    desc: Pobyt cizinců, azylové řízení a integrace azylantů, rozhodnutí o správním
+      vyhoštění, rozhodnutí o zajištění, konzulární služba aj.
+  - area: "Státní správa soudnictví "
+    desc: >
+      Průtahy v soudním řízení, nevhodné chování soudních osob, Probační a
+      mediační služba aj.
+  - area: "Správa státního zastupitelství "
+    desc: Správa státního zastupitelství, nevhodné chování a porušení etiky
+  - area: Ochrana práv osob se zdravotním postižením
+    desc: Přístupnost, rovnost před zákonem, ochrana před mučením a násilím,
+      nezávislý způsob života a zapojení do společnosti a další
+  - area: Dohled nad místy, kde se nacházejí osoby omezené na svobodě
+    desc: Vězeňská zařízení, policejní cely, ochranná nebo ústavní výchova,
+      zajištění cizinců, sledování vyhoštění, azylová zařízení, zařízení
+      sociálních služeb, zdravotnická zařízení, zařízení sociálně-právní ochrany
+      dětí a další
+  - area: Ochranné léčení
+  - area: "Sociální služby "
+  - area: "Veřejné opatrovnictví "
+  - area: "Sociální práce na obci "
+  - area: Činnost Vězeňské služby ČR
+  - area: "Správa na úseku školství "
+  - area: Konzulární služba, superlegalizace a ostatní působnost MZV
+  - area: "Soudní rozhodování ve věcech cizinců "
 ---
