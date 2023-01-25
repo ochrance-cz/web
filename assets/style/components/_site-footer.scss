@@ -118,7 +118,7 @@
       height: 2rem;
       overflow: hidden;
       background: $white;
-      line-height: 2rem;
+      line-height: 2.05rem;
       text-align: center;
       border-radius: 1rem;
     }
@@ -139,18 +139,17 @@
     top: 0;
     margin-right: 1rem;
   }
-  
-  .podcast-label::before {
-    @include fa-icon($fa-var-podcast);
+
+  .youtube-label::before {
+    @include fa-icon($fa-var-youtube);
     font-family: 'FontAwesome-Brands';
     width: 2rem;
     top: 0;
     margin-right: 1rem;
   }
 
-  .youtube-label::before {
-    @include fa-icon($fa-var-youtube);
-    font-family: 'FontAwesome-Brands';
+  .podcast-label::before {
+    @include fa-icon($fa-var-mug-hot);
     width: 2rem;
     top: 0;
     margin-right: 1rem;
