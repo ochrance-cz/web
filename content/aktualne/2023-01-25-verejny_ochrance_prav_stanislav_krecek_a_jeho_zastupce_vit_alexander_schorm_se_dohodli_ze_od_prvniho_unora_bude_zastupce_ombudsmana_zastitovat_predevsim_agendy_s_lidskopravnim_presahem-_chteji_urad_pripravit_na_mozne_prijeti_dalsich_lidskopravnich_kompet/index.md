@@ -1,6 +1,6 @@
 ---
 title: Veřejný ochránce práv Stanislav Křeček a jeho zástupce Vít Alexander
-  Schorm se dohodli, že od prvního února bude zástupce ombudsmana zaštiťovat
+  Schorm se dohodli, že od 1. února bude zástupce ombudsmana zaštiťovat
   především agendy s lidskoprávním přesahem. Chtějí úřad připravit na možné
   přijetí dalších lidskoprávních kompetencí
 date: 2023-01-25T10:34:15.912Z
