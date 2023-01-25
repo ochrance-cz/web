@@ -25,6 +25,9 @@ bio: >-
 
 
   Poslanecká sněmovna Parlamentu ho zvolila zástupcem veřejného ochránce práv dne 26. října 2022.
+
+
+  O﻿d 1. února 2023 má zástupce ombudsmana na starosti níže vyjmenované oblasti.
 areas:
   - area: Ochrana dětí, mládeže a rodiny
     desc: Činnost orgánů OSPOD, ústavní výchova, dávky pěstounské péče
