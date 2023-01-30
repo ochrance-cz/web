@@ -12,6 +12,10 @@ perex: >
   zahrnuje i úpravy zákona o ochraně přírody a krajiny. Ombudsman tento návrh už
   dříve připomínkoval. Do Sněmovny se ale nakonec dostala k&nbsp;projednání
   verze, která s&nbsp;větší účastí veřejnosti nepočítá. &nbsp;</p>
+attachments:
+  - title: Dopis veřejného ochránce práv předsedům výborů - jednotné environmentální
+      stanovisko
+    file: https://www.ochrance.cz/aktualne/ombudsman_chce_vratit_spolky_do_hry/1836-2022_dopis_predsedum_vyboru_ve_veci_jes.pdf
 ---
 <p>Ombudsman proto oslovil členy sněmovního výboru pro životní prostředí a výboru pro veřejnou správu a regionální rozvoj a upozornil je, že spolky mohou být v&nbsp;povolovacích řízeních v&nbsp;mnohém přínosné<em>: &bdquo;Mohou stavební úřad seznámit s&nbsp;cennými informacemi z&nbsp;oblasti ochrany životního prostředí v&nbsp;dané lokalitě. I díky jejich návrhům tak mohou být výsledné stavby šetrnější k&nbsp;přírodě,&ldquo;</em> míní ombudsman Stanislav Křeček. Spolky, které by chtěly úmyslně zdržovat nebo mařit projednání konkrétního stavebního záměru, jsou podle něj spíše výjimkou. <em>&bdquo;Podle mých zkušeností jsou členy spolků ve&nbsp;většině případů místní obyvatelé, kteří uplatňují námitky proti investičním záměrům, které by mohly negativně ovlivnit kvalitu prostředí, v&nbsp;němž žijí,</em>&ldquo; dodal v&nbsp;dopise poslancům.</p>
 
