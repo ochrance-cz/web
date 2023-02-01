@@ -432,7 +432,7 @@ lawyers:
         email: lenka.krickova@ochrance.cz
       - name: Donika Stará
         role: právnička
-        phone: "542 542 254 "
+        phone: "542 542 294 "
         email: donika.stara@ochrance.cz
   - title: Odbor dohledu nad omezováním osobní svobody
     intro: >
