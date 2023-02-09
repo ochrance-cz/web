@@ -323,7 +323,8 @@ interface RelationOptions extends Options {
 }
 
 export const relation = (label: string, name: string, options: RelationOptions): RelationWidget => {
-  const { collection, value_field, display_fields, search_fields, multiple, options_length } = options;
+  const { collection, value_field, display_fields, search_fields, multiple, options_length } =
+    options;
 
   const w = {
     ...base(name, label, options),
@@ -400,6 +401,7 @@ export interface FolderCollection {
   extension: string;
   create?: boolean;
   path?: string;
+  slug?: string;
   media_folder?: string;
   public_folder?: string;
   preview_path?: string;
@@ -431,6 +433,7 @@ interface FolderConfig {
   extension: string;
   create?: boolean;
   path?: string;
+  slug?: string;
   media_folder?: string;
   public_folder?: string;
   preview_path?: string;
@@ -460,6 +463,7 @@ export const folderCollection = (
 
   if (folderConfig.create === true) d.create = true;
   if (folderConfig.path !== undefined) d.path = folderConfig.path;
+  if (folderConfig.slug !== undefined) d.slug = folderConfig.slug;
   if (folderConfig.media_folder !== undefined) d.media_folder = folderConfig.media_folder;
   if (folderConfig.public_folder !== undefined) d.public_folder = folderConfig.public_folder;
   if (folderConfig.preview_path !== undefined) d.preview_path = folderConfig.preview_path;

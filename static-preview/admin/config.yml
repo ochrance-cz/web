@@ -1074,7 +1074,6 @@ collections:
             widget: string
     create: true
     path: '{{slug}}/index'
-    slug: '{{year}}-{{month}}-{{day}}-{{title}}'
     media_folder: ''
     public_folder: 'https://www.ochrance.cz/aktualne/{{slug}}'
     preview_path: '/aktualne/{{slug}}'
@@ -2510,7 +2509,6 @@ collections:
         fields: *ref_3
     create: true
     path: '{{slug}}/index'
-    slug: '{{year}}-{{month}}-{{day}}-{{title}}'
     media_folder: ''
     public_folder: 'https://www.ochrance.cz/en/aktualne/{{slug}}'
     preview_path: '/en/aktualne/{{slug}}'
