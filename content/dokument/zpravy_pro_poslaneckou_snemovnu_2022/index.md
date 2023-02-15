@@ -22,6 +22,6 @@ vystupy:
 
 <p>&nbsp;</p>
 
-<p><a href="https://www.ochrance.cz/dokument/zpravy_pro_poslaneckou_snemovnu_2022/2022-iv-q.pdf">Zpráva za 4. čtvrtletí roku 2022</a></p>
+<p><strong><a href="https://www.ochrance.cz/dokument/zpravy_pro_poslaneckou_snemovnu_2022/2022-iv-q.pdf">Zpráva za 4. čtvrtletí roku 2022</a></strong></p>
 
 <p>Příloha: <a href="https://www.ochrance.cz/dokument/zpravy_pro_poslaneckou_snemovnu_2022/2022-iv-q-sankce.pdf">Věci, v nichž nebylo dosaženo nápravy</a>: Mladé Buky jako zařízení poskytující péči bez oprávnění</p>
