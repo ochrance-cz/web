@@ -17,4 +17,5 @@ aktuality:
   - nabidka-prace
   - doporuceni
   - vyzkumy
+  - pozvanka
 ---
