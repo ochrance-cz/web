@@ -1,9 +1,9 @@
 ---
 title: "Rok války na Ukrajině: Zveme vás na besedu ombudsmana a jeho zástupce s hosty"
-draft: true
+draft: false
 date: 2023-02-16T09:37:02.446Z
 vystupy:
-  - tz
+  - pozvanka
 perex: >
   <p>Přijďte diskutovat o tom, jak se nám daří vypořádat s problémy, které u nás
   lidé z Ukrajiny nejčastěji řeší, a jaké výzvy nás ještě čekají.</p>
