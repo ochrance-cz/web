@@ -146,7 +146,7 @@ Vůči státům, které přijaly Opční protokol k Úmluvě, má Výbor navíc
 2. **z vlastní iniciativy** může **prošetřit podezření** , že se smluvní stát dopouští závažného nebo systematického porušování Úmluvy.
 
 {{< rozbal "Vydávání obecných komentářů" >}}
-Za účelem sjednocení výkladu Úmluvy vydává Výbor [obecné komentáře](https://www.ochrance.cz/monitorovani-prav-lidi-se-zdravotnim-postizenim/doporuceni-rozhodnuti-stanoviska/obecne-komentare/) k jednotlivým článkům Úmluvy.
+Za účelem sjednocení výkladu Úmluvy vydává Výbor obecné komentáře k jednotlivým článkům Úmluvy.
 
 #### [Obecný komentář č. 1 (2014) - Článek 12: Rovnost před zákonem](/media/obecny_komentar_c._1.pdf)
 
