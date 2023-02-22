@@ -160,7 +160,7 @@ Za účelem sjednocení výkladu Úmluvy vydává Výbor [obecné komentáře](h
 
 #### [Obecný komentář č. 6 (2018) o rovnosti a nediskriminaci](/media/obecny_komentar_c._6.pdf)
 
-#### [](/media/obecny_komentar_c._6.pdf)[Obecný komentář č. 7 (2018) o účasti osob se zdravotním postižením, včetně dětí se zdravotním postižením, prostřednictvím organizací je zastupujících na provádění a monitorování úmluvy](/media/obecny_komentar_c._7.pdf)
+#### [Obecný komentář č. 7 (2018) o účasti osob se zdravotním postižením, včetně dětí se zdravotním postižením, prostřednictvím organizací je zastupujících na provádění a monitorování úmluvy](/media/obecny_komentar_c._7.pdf)
 
 #### [Obecný komentář č. 8 (20) o právu osob se zdravotním postižením na práci a zaměstnání](/media/obecny_komentar_c._8.pdf)
 
