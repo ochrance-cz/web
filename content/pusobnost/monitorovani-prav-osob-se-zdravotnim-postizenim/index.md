@@ -145,9 +145,26 @@ Vůči státům, které přijaly Opční protokol k Úmluvě, má Výbor navíc
 1. může přijímat a prošetřovat **individuální stížnosti** na porušení Úmluvy,
 2. **z vlastní iniciativy** může **prošetřit podezření** , že se smluvní stát dopouští závažného nebo systematického porušování Úmluvy.
 
-### Vydávání obecných komentářů
-
+{{< rozbal "Vydávání obecných komentářů" >}}
 Za účelem sjednocení výkladu Úmluvy vydává Výbor [obecné komentáře](https://www.ochrance.cz/monitorovani-prav-lidi-se-zdravotnim-postizenim/doporuceni-rozhodnuti-stanoviska/obecne-komentare/) k jednotlivým článkům Úmluvy.
+
+#### Obecný komentář č. 1 (2014) - Článek 12: Rovnost před zákonem 
+
+#### Obecný komentář č. 2 (2014) - Článek 9: Přístupnost
+
+#### Obecný komentář č. 3 (2016) o ženách a dívkách se zdravotním postižením
+
+#### Obecný komentář č. č. 4 (2016) o právu na inkluzivní vzdělání
+
+#### Obecný komentář č. 5 (2017) o nezávislém způsobu života a zapojení do komunity
+
+#### **Obecný komentář č. 5 (2017) o nezávislém způsobu života a zapojení do komunity**
+
+#### Obecný komentář č. 7 (2018) o účasti osob se zdravotním postižením, včetně dětí se zdravotním postižením, prostřednictvím organizací je zastupujících na provádění a monitorování úmluvy
+
+#### Obecný komentář č. 8 (20) o právu osob se zdravotním postižením na práci a zaměstnání
+
+#### Pokyny pro rušení ústavů pro osoby se zdravotním postižením vztahující se i na mimořádné situace
 
 {{< /rozbal >}}
 
