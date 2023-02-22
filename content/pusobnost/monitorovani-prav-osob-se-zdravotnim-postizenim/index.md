@@ -150,21 +150,21 @@ Za účelem sjednocení výkladu Úmluvy vydává Výbor [obecné komentáře](h
 
 #### [Obecný komentář č. 1 (2014) - Článek 12: Rovnost před zákonem](/media/obecny_komentar_c._1.pdf)
 
-#### [](/media/obecny_komentar_c._2.pdf)Obecný komentář č. 2 (2014) - Článek 9: Přístupnost
+#### [Obecný komentář č. 2 (2014) - Článek 9: Přístupnost](/media/obecny_komentar_c._2.pdf)
 
 #### [Obecný komentář č. 3 (2016) o ženách a dívkách se zdravotním postižením](/media/obecny_komentar_c._3.pdf)
 
-#### [](/media/obecny_komentar_c._4.pdf)Obecný komentář č. 4 (2016) o právu na inkluzivní vzdělání
+#### [Obecný komentář č. 4 (2016) o právu na inkluzivní vzdělání](/media/obecny_komentar_c._4.pdf)
 
-#### Obecný komentář č. 5 (2017) o nezávislém způsobu života a zapojení do komunity
+#### [Obecný komentář č. 5 (2017) o nezávislém způsobu života a zapojení do komunity](/media/obecny_komentar_c._5.pdf)
 
-#### **Obecný komentář č. 5 (2017) o nezávislém způsobu života a zapojení do komunity**
+#### [Obecný komentář č. 6 (2018) o rovnosti a nediskriminaci](/media/obecny_komentar_c._6.pdf)
 
-#### Obecný komentář č. 7 (2018) o účasti osob se zdravotním postižením, včetně dětí se zdravotním postižením, prostřednictvím organizací je zastupujících na provádění a monitorování úmluvy
+#### [](/media/obecny_komentar_c._6.pdf)[Obecný komentář č. 7 (2018) o účasti osob se zdravotním postižením, včetně dětí se zdravotním postižením, prostřednictvím organizací je zastupujících na provádění a monitorování úmluvy](/media/obecny_komentar_c._7.pdf)
 
-#### Obecný komentář č. 8 (20) o právu osob se zdravotním postižením na práci a zaměstnání
+#### [Obecný komentář č. 8 (20) o právu osob se zdravotním postižením na práci a zaměstnání](/media/obecny_komentar_c._8.pdf)
 
-#### Pokyny pro rušení ústavů pro osoby se zdravotním postižením vztahující se i na mimořádné situace
+#### [Pokyny pro rušení ústavů pro osoby se zdravotním postižením vztahující se i na mimořádné situace](/media/pokyny_k_deinstitucionalizaci.pdf)
 
 {{< /rozbal >}}
 
