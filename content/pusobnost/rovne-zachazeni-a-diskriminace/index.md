@@ -15,7 +15,7 @@ Diskriminací se obecně rozumí odlišné zacházení ve srovnatelných situac�
 
 Některé další zákony (např. školský zákon, zákoník práce, zákon o ochraně spotřebitele aj.) zakazují diskriminaci i z jiných důvodů, např. z důvodu členství v odborových organizacích či politických stranách, z důvodu rodinného stavu, sociálního původu, majetku atd. Na jejich dodržování dohlížejí jiné kontrolní orgány, např. Česká školní inspekce, Česká obchodní inspekce, inspektoráty práce aj.
 
-#### Chcete rozumět tomu, jak diskriminaci poznat a řešit? Vyzkoušejte náš [e-learning](https://diskriminace.netventic.net/course-info/?show&id=30).
+Chcete rozumět tomu, jak diskriminaci poznat a řešit? Vyzkoušejte náš **[e-learning](https://diskriminace.netventic.net/course-info/?show&id=30)**.
 
 *Výpověď z práce kvůli věku*
 
