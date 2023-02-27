@@ -17,8 +17,10 @@ Některé další zákony (např. školský zákon, zákoník práce, zákon o o
 
 Chcete rozumět tomu, jak diskriminaci poznat a řešit? Vyzkoušejte náš **[e-learning](https://diskriminace.netventic.net/course-info/?show&id=30)**.
 
-*Výpověď z práce kvůli věku*
 
+
+> *Výpověď z práce kvůli věku*                                                                                                                                  
+>
 > Paní Marie dosáhla důchodového věku a zaměstnavatel se jí chtěl zbavit, stejně jako několika dalších starších kolegyň. Snažil se je přimět k tomu, aby přistoupily na dohodu o ukončení pracovního poměru. Těm, které odmítly, nevyplatil roční odměny a vyhrožoval jim, že je bude přesouvat z místa na místo a znepříjemňovat jim zaměstnání tak, že samy odejdou. Když se nedaly zastrašit, dal jim výpověď pro nadbytečnost, ale vzápětí na jejich místa vypsal výběrové řízení.
 >
 > Paní Marie se s diskriminací nesmířila a rozhodla se bránit. Potvrdili jsme, že šlo o diskriminaci z důvodu věku. Paní Marie se obrátila na soud a uspěla. Soud rozhodl, že její výpověď pro nadbytečnost je neplatná. Zaměstnavatel se odvolal, ale neuspěl. Případ definitivně uzavřel Nejvyšší soud, který rozhodnutí nižších soudů potvrdil.
