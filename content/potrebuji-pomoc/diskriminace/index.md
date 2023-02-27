@@ -67,3 +67,4 @@ button:
   text: Zjistěte víc o diskriminaci v různých situacích
   link: /situace/diskriminace/
 ---
+#### Chcete rozumět tomu, jak diskriminaci poznat a řešit? Vyzkoušejte náš [e-learning](https://diskriminace.netventic.net/course-info/?show&id=30).
