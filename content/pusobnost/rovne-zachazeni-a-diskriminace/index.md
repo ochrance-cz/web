@@ -15,8 +15,6 @@ Diskriminací se obecně rozumí odlišné zacházení ve srovnatelných situac�
 
 Některé další zákony (např. školský zákon, zákoník práce, zákon o ochraně spotřebitele aj.) zakazují diskriminaci i z jiných důvodů, např. z důvodu členství v odborových organizacích či politických stranách, z důvodu rodinného stavu, sociálního původu, majetku atd. Na jejich dodržování dohlížejí jiné kontrolní orgány, např. Česká školní inspekce, Česká obchodní inspekce, inspektoráty práce aj.
 
-Chcete rozumět tomu, jak diskriminaci poznat a řešit? Vyzkoušejte náš **[e-learning](https://diskriminace.netventic.net/course-info/?show&id=30)**.
-
 
 
 > *Výpověď z práce kvůli věku*                                                                                                                                  
@@ -38,3 +36,7 @@ Chcete rozumět tomu, jak diskriminaci poznat a řešit? Vyzkoušejte náš **[e
 > Paní Růžena se potřebovala přestěhovat do bytu, který by lépe vyhovoval jejímu synovi se zdravotním postižením. Dvakrát žádala o městský byt, dvakrát vyhrála výběrové řízení, ale město s ní nájemní smlouvu neuzavřelo. Paní Růženě se postup města nelíbil a obrátila se na ombudsmana.
 >
 > Ombudsman zjistil, že město jednalo s paní Růženou jinak než s jinými žadateli o byt. Žadatelé, kteří splnili podmínky pro přidělení bytu a nebyli Romové, byt od města dostali. Paní Růžena jako Romka byt nedostala. Ombudsman řekl, že to je diskriminace, a doporučil paní Růženě, aby se soudila, pokud se s městem nedohodne. Město uznalo svou chybu a s paní Růženou uzavřelo smlouvu na byt na dobu neurčitou.
+
+
+
+Chcete rozumět tomu, jak diskriminaci poznat a řešit? Vyzkoušejte náš **[e-learning](https://diskriminace.netventic.net/course-info/?show&id=30)**.
