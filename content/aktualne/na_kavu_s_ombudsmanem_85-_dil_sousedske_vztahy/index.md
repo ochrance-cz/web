@@ -36,7 +36,7 @@ perex: >
 
 <p>&nbsp;</p>
 
-<p>V příštím podcastu se zaměříme na ochranu ovzduší. Budeme si povídat o obtěžování kouřem z grilovaček, ale i kotlů a továren.</p>
+<p>V příštím podcastu se zaměříme na ochranu ovzduší. Budeme si povídat o obtěžování kouřem z grilovaček, ale i z kotlů a továren.</p>
 
 <p>&nbsp;</p>
 
