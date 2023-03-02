@@ -36,9 +36,20 @@ gallery:
 
 <p><strong>This pre-defined project No LP-PDP3-001 is fundend by&nbsp;<a href="https://www.eeagrants.cz/en/programmes/human-rights/general-information">Norway Grants 2014 &ndash; 2021</a></strong>&nbsp;(programme Human Rights) and will enable to carry out analytical, research and awareness-raising activities helping to improve the&nbsp;situation of vulnerable and marginalised groups, both in terms of protection of their rights and in terms of obtaining the&nbsp;competences necessary to exercise these rights.</p>
 
+<ul>
+	<li><a href="http://www.norskefondy.cz">www.norskefondy.cz</a></li>
+	<li><a href="http://www.eeagrants.org">www.eeagrants.org</a></li>
+</ul>
+
 <p>The Office will forge a&nbsp;new partnership with the&nbsp;<strong><a href="https://www.nhri.no/">Norwegian National Human Rights Institution</a></strong>,&nbsp;(i.e. the&nbsp;Norwegian NHRI), which is experienced in promoting human rights approach within its activities. Employees of the&nbsp;Office will visit the&nbsp;Norwegian NHRI in order to obtain know-how and familiarise themselves with best practices and working methods of their Norwegian colleagues.</p>
 
 <h2>News</h2>
+
+<ul>
+	<li>&nbsp;</li>
+</ul>
+
+<h2>What we implemented as part of the project in 2022</h2>
 
 <ul>
 	<li>September 27, 2022 - we publish a press release on the status of the project, which has flipped into its second half. You can read about everything we have done in a comprehensive overview <a href="https://www.ochrance.cz/aktualne/projekt_posileni_aktivit_verejneho_ochrance_prav_v_ochrane_lidskych_prav_je_v_polovine/">here</a>.&nbsp;The press release is available <a href="https://www.ochrance.cz/en/aktualne/current_status_of_the_project_reinforcing_the_activities_of_the_public_defender_of_rights_in_the_protection_of_human_rights_with_the_aim_of_establishing_a_national_human_rights_institution_in_the_czech_republic/">here</a>.</li>
@@ -47,8 +58,6 @@ gallery:
 </ul>
 
 <p><img alt="umluva.jpg" src="umluva.jpg" /></p>
-
-<p>&nbsp;</p>
 
 <ul>
 	<li>June 30, 2022 - we publish the 4th part of a video with vlogger Anička on the topic of education. You can find the video <a href="https://www.youtube.com/watch?v=OcKbyR5Nzp0">here</a>.</li>
@@ -78,7 +87,7 @@ gallery:
 	<li>January 1, 2022 - you can read about the completed research Citizens of the EU in the Czech Republic <a href="https://pravo21.cz/spolecnost/obcane-eu-se-v-cesku-casto-setkavaji-s-diskriminaci-potvrdil-vyzkum-ombudsmana">here</a>.</li>
 </ul>
 
-<p><strong>What we implemented in 2021 within the project</strong></p>
+<h2>What we implemented as part of the project in 2021</h2>
 
 <ul>
 	<li>
@@ -115,6 +124,8 @@ gallery:
 	<li>January 1, 2021 &ndash;&nbsp;we launched the&nbsp;first educational video into the&nbsp;world of social networks. It is a&nbsp;pilot part of a&nbsp;miniseries being prepared, which will present the&nbsp;work of the&nbsp;Ombudsman&#39;s office using short videos intended primarily for children and adolescents. You can see the&nbsp;video&nbsp;<a href="https://www.youtube.com/watch?v=iiw2OM4jDbA">here</a>.</li>
 </ul>
 
+<h2>What we implemented as part of the project in 2020</h2>
+
 <p><img alt="The picture shows the text: What we implemented in 2020." src="what_we_implemented.jpg" /></p>
 
 <ul>
@@ -147,4 +158,4 @@ gallery:
 
 <p><img alt="The picture shows the press conference." src="tk_norske_fondy_.png" /></p>
 
-<p><a href="https://www.eeagrants.cz/en/">https://www.eeagrants.cz/en/</a></p>
+<p>&nbsp;</p>
