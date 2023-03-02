@@ -93,10 +93,10 @@ textcontent:
       Psaní je jako skládání LEGO podle vlastního návodu. Nejdřív musíte vědět, co chcete postavit, abyste věděli, jaké kostky vybrat a kde začít. Když začnete stavět a nevíte co, možná své dílo dokončíte, ale pravděpodobně ho budete několikrát předělávat, spotřebujete mnoho zbytečných kostek, něco se někde rozpadne. Stejně je to s úředním textem.
 
 
-      Proto, než začnete psát, položte si tyto tři otázky:
+      Proto, než začnete psát, položte si tyto otázky:
 
 
-      ### Komu píšu, co píšu a čeho chci dosáhnout?
+      ### Komu píšu a čeho chci dosáhnout?
   - before: podstatne/index
     text: >-
       ### Co sdělím a co ne?
