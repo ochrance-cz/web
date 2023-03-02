@@ -76,7 +76,15 @@ chapters:
   - chapter: o_prirucce/index
 textcontent:
   - before: proc/index
-    text: "## 1. část — Co je srozumitelný úřední text"
+    text: >-
+      ![obrázek titulní strany příručky srozumitelného
+      psaní](/media/prirucka_titulka_na_web_mala.jpg)
+
+
+      [příručka ke stažení/tisku](https://www.ochrance.cz/uploads-import/ESO/p%C5%99%C3%ADru%C4%8Dka/Prirucka_srozumitelneho_psani_tisk.pdf)
+
+
+      ## 1. část — Co je srozumitelný úřední text
   - before: co-a-komu/index
     text: >-
       ## 2. část — Psaní úředních textů obecně
