@@ -268,10 +268,6 @@ lawyers:
         role: právnička (daně, poplatky a cla)
         phone: 542 542 307
         email: radka.malinova@ochrance.cz
-      - name: Šárka Ošťádalová
-        role: právnička (věci cizinců)
-        phone: 542 542 431
-        email: sarka.ostadalova@ochrance.cz
       - name: Sylvie Pokorná
         role: právnička (poplatky, státní správa soudů)
         phone: 542 542 349
