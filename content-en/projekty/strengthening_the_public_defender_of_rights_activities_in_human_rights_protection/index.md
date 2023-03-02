@@ -124,7 +124,7 @@ gallery:
 	<li>January 1, 2021 &ndash;&nbsp;we launched the&nbsp;first educational video into the&nbsp;world of social networks. It is a&nbsp;pilot part of a&nbsp;miniseries being prepared, which will present the&nbsp;work of the&nbsp;Ombudsman&#39;s office using short videos intended primarily for children and adolescents. You can see the&nbsp;video&nbsp;<a href="https://www.youtube.com/watch?v=iiw2OM4jDbA">here</a>.</li>
 </ul>
 
-<h2>What we implemented as part of the project in 2020</h2>
+<p>&nbsp;</p>
 
 <p><img alt="The picture shows the text: What we implemented in 2020." src="what_we_implemented.jpg" /></p>
 
