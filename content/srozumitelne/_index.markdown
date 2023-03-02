@@ -99,7 +99,10 @@ textcontent:
       ### Komu píšu, co píšu a čeho chci dosáhnout?
   - before: podstatne/index
     text: >-
-      Až to budete vědět, ptejte se:
+      ### Co sdělím a co ne?
+
+
+      Ptejte se:
 
 
       * Co čtenář potřebuje vědět? Na co by se ptal, kdyby se mnou mluvil?
@@ -107,10 +110,7 @@ textcontent:
       * Co čtenáři sdělovat nemusím, protože to ví nebo vědět nepotřebuje?
 
 
-      ### Co sdělím a co ne?
-
-
-      Sdělte **pouze informace, které jsou důležité pro čtenáře a pro vyřízení věci.** Vše ostatní vypusťte.  Zároveň se ujistěte, zda vám v textu **nechybí informace**, které jsou **důležité** pro **vyřízení věci a pro čtenáře**, i když vám jsou zřejmé a nepovažujete za důležité je sdělovat.
+      A pak sdělte **pouze informace, které jsou důležité pro čtenáře a pro vyřízení věci.** Vše ostatní vypusťte. Zároveň se ujistěte, zda vám v textu **nechybí informace**, které jsou **důležité** pro **vyřízení věci a pro čtenáře**, i když vám jsou zřejmé a nepovažujete za důležité je sdělovat.
 
 
       Jak na to:
