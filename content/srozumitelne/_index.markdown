@@ -74,6 +74,7 @@ chapters:
   - chapter: uredni_informace_na_webu/index
   - chapter: prepsane_pisemnosti/index
   - chapter: o_prirucce/index
+  - chapter: test_odkazu/index
 textcontent:
   - before: proc/index
     text: |-
