@@ -1,86 +1,75 @@
 ---
-title: Odškrtněte si, že jste napsali text správně (přehled a pomůcka k tisku)
+title: Čtěte po sobě (přehled a pomůcka k tisku)
 num: 55
 ---
 Můžete použít následující přehled a [pomůcku k tisku](https://www.ochrance.cz/uploads-import/ESO/p%C5%99%C3%ADru%C4%8Dka/Prirucka%20srozumitelneho%20psani%20A4.pdf):
 
 #### Komu píšu? Co píšu?
 
-Píšu adresný či neadresný dokument?
+* Píšu adresný text:
 
-* Adresný: Budu psát odborným, běžným nebo zjednodušeným jazykem?
-* Neadresný: Kdo budou typičtí čtenáři?
+  * Je můj čtenář odborník nebo laik?
+  * Může mít potíže s porozuměním?
+  * Co čtenář o věci ví?
+* Píšu neadresný text? Kdo budou typičtí čtenáři?
 
 #### Čeho chci dosáhnout?
 
 #### Co sdělím a co ne?
 
-* Sděluji jen to důležité, vypouštím vše ostatní?
+* Sděluji jen to důležité? Vypouštím vše ostatní?
 * Píšu i informace důležité pro čtenáře?
 
 #### Pět P: Vím, který typ informace píšu?
 
 * Průvodní informace
 * Právní pravidlo – porozumí čtenář pravidlu?
-* Příběh (skutková zjištění) – píšu koherentně?
-* Právní posouzení – může na ně čtenář přijít sám?
+* Příběh (skutková zjištění) – píšu srozumitelně?
+* Právní posouzení – vyplývá jasně z pravidla a příběhu?
 * Pokyny (rady a doporučení) – radím přehledně a prakticky? Může čtenář podle mého návodu postupovat?
 
-#### Řadím text přehledně?
+#### Uspořádávám text přehledně?
 
-* Jádro věci na začátek?
+* Píšu jádro věci na začátek? Uvádím čtenáře do kontextu, pokud jej nezná?
 * Řadím text tak, jak čtenář o sdělení přemýšlí?
-* Člením text na oddíly?
+* Člením text na oddíly či kapitoly?
 
-  * Slovně: nadpisy, první věta, k (tématu), …
-  * Graficky: rozeznatelné odstavce, odrážky
-* Mám v jednom odstavci jednu myšlenku?
+  * Slovně: nadpisy, první věta, k .../ o ...
+  * Graficky: odstavce, odrážky
+* Mám v jednom odstavci jen jednu myšlenku?
 
-#### Píšu výstižně?
+#### Nemusí se čtenář domýšlet?
 
-* Píšu s výstižnými slovesy? Nepíšu zbytečné nominalizace a příslovce?
-* Píšu konkrétní a specifická podstatná jména?
+* Píšu „protože“, nepíšu "na základě výše uvedeného" a podobně?
 
-#### Píšu jednoznačně?
+#### Píšu jasné a výstižné výrazy?
 
-* Raději přívlastek shodný než neshodný?
-* Používám opatrně relativizující výrazy?
-* Používám opatrně utvrzující výrazy?
-
-####  Píšu jasně?
-
-* Píšu trpný rod jen pokud je to nutné?
+* Píšu s výstižnými slovesy? Nepíšu zbytečná podstatná jména a příslovce?
+* Píšu konkrétní a přiléhavá podstatná jména?
+* Píšu trpný rod, jen pokud je to nutné?
 * Píšu pozitivně, kde to jde?
-* Píšu „my“, „Vy“, kde se to hodí?
-* Vysvětluji odborné pojmy, neurčité správní pojmy, správní uvážení?
-* Píšu „protože“, nemusí se čtenář z mých výrazů domýšlet (na základě výše uvedeného …)?
-* Vypouštím
+* Píšu „my“, „Vy“ všude, kde se to hodí?
+* Vysvětluji odborné pojmy, neurčité právní pojmy, správní uvážení?
+* Používám důsledně definované pojmy?
+* Pro stejný pojem používám stejný výraz?
+* Vypouštím:
 
   * slovní vatu, výplně?
   * výrazy, které totéž sdělují vícekrát?
-  * dlouhé výrazy, pokud můžu napsat kratší?
-* Zkracuji v tomto pořadí?
-
-  * slovo
-  * obecně známá zkratka
-  * jiná zkratka (dobře se pamatuje, neplete se, dobře vyslovuje a dá se skloňovat)
-* Používám důsledně definované pojmy?
-* Pro stejný pojem používám stejný výraz?
+  * dlouhé výrazy, můžu-li napsat kratší?
+* Zkracuji v tomto pořadí: slovo › obecně známá zkratka › jiná zkratka (dobře se pamatuje, neplete se, dobře vyslovuje a dá se skloňovat)
+* Používám opatrně relativizující výrazy?
+* Používám opatrně utvrzující výrazy?
 
 #### Věty:
 
 * Píšu krátké věty? Pokud to nejde, používám odrážky?
-* Píšu blízko sebe to, co spolu souvisí?
-
-  * slovesa
-  * podmět a přísudek
-  * přísudek a předmět
-* Volím vhodné spojovací výrazy? Kdy, když, pokud …
+* Píšu blízko sebe to, co spolu souvisí? Hlavně slovesa, podmět a přísudek, přísudek a předmět?
+* Volím vhodné spojovací výrazy?
 * Píšu jádro sdělení před podrobnostmi/výjimkami/podmínkami?
 * Píšu přehledně výčty? Paralelní větnou stavbou/stejnými slovními druhy/odrážkami či číslováním?
 
 #### Provádím čtenáře textem?
 
 * Používám spojovací výrazy?
-* Čím končím, tím začínám?
-* Uvedu čtenáře do textu určeného někomu jinému?
+* Uvádím čtenáře do textu určeného někomu jinému?
