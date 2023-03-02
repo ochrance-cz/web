@@ -2,21 +2,19 @@
 title: Komu píšu?
 num: 1
 ---
-Pokud píšete **kolegům**, pište tak, jak je ve vašem oboru běžné.
+Ptejte se, komu píšete, protože obsah a jazyk sdělení budete volit podle vašeho čtenáře. Neexistuje obecný nejsrozumitelnější text, každý je srozumitelný právě tak, jak jej hodnotí čtenář. Už Aristotelés říkal, že **arbitrem textu je čtenář**.
 
-Pokud ale píšete **veřejnosti**, a to i vzdělané, předpokládejte, že toho většinou o věci zdaleka neví tolik jako vy a že nepoužívá stejný jazyk jako vy. Pište proto srozumitelně, běžným jazykem, jak jsme jej popsali v úvodu příručky. **Pište, jako byste se svými čtenáři mluvili.**
+**Pravidla této příručky můžete použít jak pro psaní kolegům či odborníkům ve vašem oboru, tak pro psaní veřejnosti.** Rozdíl je pouze v tom, že veřejnost, i vzdělaná, toho většinou o věci zdaleka neví tolik jako vy a že nepoužívá stejný jazyk jako vy. Proto kolegům a odborníkům z vašeho oboru pište jazykem vašeho oboru. Veřejnosti pište běžným jazykem a vysvětlujte termíny či koncepty, kterým by nemusela rozumět. **Vždy pište, jako byste se svými čtenáři mluvili.**
 
-* Píšete-li **konkrétnímu čtenáři**, představte si ho (opravdu, ta představa vás bude nutit psát srozumitelně).
-* Píšete-li pro širší okruh čtenářů, pište tak, aby tomu porozuměl **obvyklý adresát**. Představte si typického zástupce obvyklé skupiny čtenářů. Například typickým čtenářem informace o uznávání vysokoškolského vzdělání bude vysokoškolák, naopak typickým čtenářem informace o bydlení v azylových domech bude spíše člověk s nižším vzděláním. A například informace o tom, jak třídit odpad, typického čtenáře nemá; může jím být kdokoliv. Pokud je představa obvyklého čtenáře náročná, zkuste psát tak, jako byste sdělení vysvětlovali **třeba sousedovi v podobné situaci, svému lékaři nebo učitelce svých dětí.**
+* Píšete-li **konkrétnímu čtenáři**, představte si ho (bude vás to nutit psát srozumitelně).
+* Píšete-li pro širší okruh čtenářů, pište tak, aby tomu porozuměl **obvyklý adresát**. Představte si typického zástupce obvyklé skupiny čtenářů. Například informace o uznávání vysokoškolského vzdělání budete psát vysokoškolákům, naopak informace o bydlení v azylových domech spíše lidem s nižším vzděláním. A informace o třídění odpadu budete psát všem. Pokud nevíte, zkuste psát tak, jako byste sdělení vysvětlovali **třeba sousedovi v podobné situaci, svému lékaři nebo učitelce svých dětí.**
+* **Pokud píšete pro veřejnost (laiky) i odborníky zároveň, pište pro laiky.** Například, pokud vydáváte správní rozhodnutí, může být adresátem laik, ale nepřímým adresátem je nadřízený úřad, popřípadě správní soud. Pokud budete psát srozumitelně podle této příručky, vaše sdělení bude stačit i úřadu či soudu. Soud nemá právní důvod, aby vaše rozhodnutí „shodil“ jen proto, že je napsáno běžným jazykem.
+* **Zvláště pečlivě** pište texty určené:
 
-I když text píšete hlavně pro konkrétního čtenáře – laika, **může být nepřímým adresátem nadřízený či podřízený úřad, popřípadě správní soud.** Třeba u správního rozhodnutí. Přesto pište pro laika. Pokud budete psát srozumitelně podle této příručky, vaše sdělení bude stačit i úřadu či soudu. Soud nemá právní důvod, aby vaše rozhodnutí „shodil“ jen proto, že je napsáno běžným jazykem.
+  * lidem, o nichž se domníváte, že mohou mít potíže porozumět kvůli svému postižení;
+  * cizincům, protože nemusejí plně ovládat češtinu;
+  * mladistvým nebo dětem, protože nemívají dostatek znalostí nebo zkušeností.
 
-**Zvláště** **pečlivě** pište texty určené:
+#### Pokud píšete obecný text určený více lidem, zapojte je
 
-* lidem, o nichž se domníváte, že mohou mít potíže porozumět kvůli svému postižení;
-* cizincům, protože nemusejí plně ovládat češtinu;
-* mladistvým nebo dětem, protože nemívají dostatek znalostí nebo zkušeností.
-
-### P﻿okud píšete obecný text určený více lidem, zapojte je
-
-Od lidí, které by to mohlo zajímat, například jsou cílovou skupinou textu, se dozvíte, co byste možná sami nedomysleli.
+Například od cílové skupiny textu se dozvíte, co byste možná sami nedomysleli.
