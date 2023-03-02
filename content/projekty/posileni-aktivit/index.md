@@ -38,9 +38,20 @@ gallery:
 	<li>Posílení práva na rovné zacházení a ochranu před diskriminací (odbor rovného zacházení).</li>
 </ul>
 
-<p><strong>Tento předem definovaný projekt pod registračním číslem LP-PDP3-001 je financován z Norských fondů 2014 &ndash; 2021</strong> (program Lidská práva) a umožní provádění analytické, výzkumné a osvětové činnosti, které napomohou zlepšení situace ohrožených a marginalizovaných skupin, a to jak z hlediska ochrany jejich práv, tak z hlediska získávání kompetencí při jejich prosazování.</p>
+<p><strong>Tento předem definovaný projekt pod registračním číslem LP-PDP3-001 je financován z Norských fondů 2014 &ndash; 2021</strong> (program Lidská práva) a umožní provádění analytické, výzkumné a osvětové činnosti, které napomohou zlepšení situace ohrožených a marginalizovaných skupin, a to jak z hlediska ochrany jejich práv, tak z hlediska získávání kompetencí při jejich prosazování.&nbsp;</p>
+
+<ul>
+	<li><a href="http://www.norskefondy.cz">www.norskefondy.cz</a>&nbsp;&nbsp;</li>
+	<li><a href="http://www.eeagrants.org">www.eeagrants.org</a></li>
+</ul>
 
 <h2>Aktuality</h2>
+
+<ul>
+	<li>&nbsp;</li>
+</ul>
+
+<h2>Co jsme realizovali v roce 2022 v rámci projektu</h2>
 
 <ul>
 	<li>
@@ -91,6 +102,11 @@ gallery:
 	<li>
 	<p>28.1.2022 &ndash; o zrealizovaném výzkumu Občané EU v&nbsp;České republice se můžete dočíst i <a href="https://pravo21.cz/spolecnost/obcane-eu-se-v-cesku-casto-setkavaji-s-diskriminaci-potvrdil-vyzkum-ombudsmana">zde</a>.</p>
 	</li>
+</ul>
+
+<h2>Co jsme realizovali v roce 2021 v rámci projektu</h2>
+
+<ul>
 	<li>K&nbsp;15.12.2021, tj. za 6. monitorovací období zveřejňujeme odborné výstupy sekretariátu ochránce a jeho zástupkyně. Jedná se o <a href="sankce-prispevek-na-peci.pdf">sankční materiál na vládu</a> (problematika aktuálně účinné právní úpravy příspěvku na péči), <a href="sankce-vyrazeni-z-up.pdf">sankční materiál na vládu</a> (nezákonný postup krajských poboček ÚP a MPSV při vyřazování uchazeče o zaměstnání z&nbsp;evidence uchazečů o zaměstnání a nepřiznání nároku na podporu v&nbsp;nezaměstnanosti), <a href="sankce-dlouhodoby-pobyt.pdf">sankční materiál na vládu</a> (nezákonný postup OAMP MV při zastavení řízení o žádosti o vydání povolení k dlouhodobému pobytu), dále o <a href="vyjadreni_us_94.pdf">vyjádření vedlejšího účastníka v řízení před ÚS</a> (návrh na zrušení &sect; 94 písm. a) zákona č. 6/2002 Sb. pro rozpor s&nbsp;ústavním pořádkem), o <a href="vyjadreni_us_111.pdf">vyjádření vedlejšího účastníka v řízení před ÚS</a>(návrh na zrušení vybraných ustanovení zákonů č. 111/2006 Sb. a č. 251/2016 Sb. pro rozpor s&nbsp;ústavním pořádkem), o <a href="zprava_o_cinnosti_vop_za_3._ctvrtleti_2021.docx">zprávu VOP o činnosti za III. čtvrtletí 2021 </a> (zahrnutí samostatné části obsahující stěžejní informace o aktuální fázi realizace projektu v&nbsp;KVOP) a o <a href="novela_zakona_o_ssp-pripominky-mpsv.docx">legislativní připomínky</a> (připomínky VOP k návrhu zákona, kterým se mění zákon č.&nbsp;117/1995 Sb.).</li>
 	<li>K&nbsp;12.11.2021 zveřejňujeme <a href="obcane_evropske_unie_v_cesku-studie-mindbridge.pdf">analytickou zprávu z výzkumu Občané Evropské unie v České republice</a>, jejímž cílem je prozkoumat zkušenosti migrujících pracovníků EU a jejich rodinných příslušníků, kteří v&nbsp;současné době pobývají v&nbsp;ČR, v&nbsp;různých oblastech života. V&nbsp;návaznosti na výzkumnou zprávu zveřejňujeme <a href="obcane_evropske_unie_v_cesku.docx">Doporučení</a>, jehož smyslem je využít poznatky vzešlé z analytické zprávy výzkumu a z činnosti ochránce a na základě nich navrhnout jednotlivá dílčí doporučení, která by pomohla nevyhovující situaci zlepšit. Dokumenty lze nalézt i v <a href="https://eso.ochrance.cz/Nalezene/Edit/9920">Evidenci stanovisek ombudsmana</a>.&nbsp;</li>
 	<li>14.10.2021 - dnes jsme započali třídenní on-line setkání s norským partnerem&nbsp;Norges institusjon for menneskerettigheter. Interaktivní workshop jsme zaměřili na téma&nbsp;&bdquo;Paris Principles in Practice&ldquo;.&nbsp;</li>
@@ -142,4 +158,4 @@ gallery:
 
 <p><img alt="Na fotce sedí za stolem během tiskové konference ombudsmanka Anna Šabatová, právnička a tisková mluvčí." src="tk_norske_fondy_.png" /></p>
 
-<p><a href="https://www.eeagrants.cz/">https://www.eeagrants.cz/</a></p>
+<p>&nbsp;</p>
