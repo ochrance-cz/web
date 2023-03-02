@@ -74,11 +74,15 @@ chapters:
   - chapter: uredni_informace_na_webu/index
   - chapter: prepsane_pisemnosti/index
   - chapter: o_prirucce/index
-  - chapter: test_odkazu/index
 textcontent:
   - before: proc/index
-    text: |-
-      Verze příručky k tisku (PDF) zde bude ke stažení nejpozději v únoru 2023.
+    text: >-
+      ![obrázek titulní strany příručky srozumitelného
+      psaní](/media/prirucka_titulka_na_web_mala.jpg)
+
+
+      [příručka ke stažení/tisku](https://www.ochrance.cz/uploads-import/ESO/p%C5%99%C3%ADru%C4%8Dka/Prirucka_srozumitelneho_psani_tisk.pdf)
+
 
       ## 1. část — Co je srozumitelný úřední text
   - before: co-a-komu/index
