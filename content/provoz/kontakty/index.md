@@ -378,7 +378,7 @@ lawyers:
         role: právnička
         phone: 542 542 251
         email: hana.brablcova@ochrance.cz
-      - name: Iva Fellerová Palkovská
+      - name: Iva Palkovská
         role: právnička
         phone: 542 542 247
         email: iva.palkovska@ochrance.cz
