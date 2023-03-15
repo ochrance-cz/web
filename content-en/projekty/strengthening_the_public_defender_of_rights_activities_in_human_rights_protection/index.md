@@ -46,12 +46,26 @@ gallery:
 <h2>News</h2>
 
 <ul>
-	<li>&nbsp;</li>
+	<li>
+	<p>March 1, 2023 - on the occasion of Zero Discrimination Day, which falls on March 1., we are launching the first module of the online course, which is focused on anti-discrimination law. You can read more in the press release <a href="https://www.ochrance.cz/aktualne/jak_poznat_a_resit_diskriminaci_naucte_se_to_v_novem_e-learningu_ombudsmana/">here</a> and view the course <a href="https://diskriminace.netventic.net/login">here</a>.</p>
+	</li>
 </ul>
 
 <h2>What we implemented as part of the project in 2022</h2>
 
 <ul>
+	<li>
+	<p>December 15, 2022 - for the 8th monitoring period, we publish the professional outputs of the Secretariat of the Defender and his deputy. These are sanctions materials against the government (<a href="https://www.ochrance.cz/projekty/posileni-aktivit/ii-material_szd-24-2022-cb_mlade_buky.pdf">unregistered Mladé Buky social services facility</a>), statement of an intervener in the proceedings before the ECtHR (<a href="https://www.ochrance.cz/projekty/posileni-aktivit/szd_9-22_vyjadreni_k_eslp_eng.pdf">unregistered Mladé Buky social services facility</a>) and two materials related to the defender&#39;s legislative comments, namely <a href="https://www.ochrance.cz/projekty/posileni-aktivit/63068_22_priloha_pripominky_zakon_o_vykonu_tos.pdf">the amendment of the Act on the Execution of Imprisonment Sentences</a> and further the so-called <a href="https://www.ochrance.cz/projekty/posileni-aktivit/55974-2022_lex_ukrajina_iv.pdf">Lex Ukraine IV</a>.</p>
+	</li>
+	<li>
+	<p>October 19, 2022 - The ombudsman has long been devoted to the comprehensibility of documents, so that people understand what he writes to them. We examine why some official texts are comprehensible to the public and others not, what the biggest difficulties are and whether we can fix them. That is why we organized a round table on 14th of October 2022 where we could discuss this topic with experts. You can find the press release on the activity <a href="https://www.ochrance.cz/aktualne/urednici_i_soudci_se_na_kulatem_stole_u_ombudsmana_shodli_ze_uredni_pisemnosti_maji_byt_srozumitelne_pro_ctenare/">here</a>.</p>
+	</li>
+	<li>
+	<p>October 19, 2022 - we are publishing the sixth report from the Follow-up visit to the facility, from the Louny Children&#39;s Psychiatric Hospital. The report is available <a href="https://www.ochrance.cz/uploads-import/ESO/NZ%2026-2021_DPN%20Louny.pdf">here</a>.</p>
+	</li>
+	<li>
+	<p>October 12, 2022 - we publish Recommendations regarding the search for general foster parents and adopters for children in foster care for a transitional period in 2021 here. When dealing with individual complaints, we repeatedly encounter a non-uniform approach by the regional authorities of the Czech Republic when searching for general foster parents and adopters for children who are in foster care for a temporary period. We have therefore decided to start an investigation on our own initiative and through research to examine more closely the procedure of regional authorities and municipal authorities of municipalities with extended powers. The research report Analyzing the files of children in transitional foster care is available <a href="https://www.ochrance.cz/uploads-import/ESO/v%C3%BDzkumn%C3%A1%20zpr%C3%A1va%206324-2021_new.pdf">here</a>.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+	</li>
 	<li>September 27, 2022 - we publish a press release on the status of the project, which has flipped into its second half. You can read about everything we have done in a comprehensive overview <a href="https://www.ochrance.cz/aktualne/projekt_posileni_aktivit_verejneho_ochrance_prav_v_ochrane_lidskych_prav_je_v_polovine/">here</a>.&nbsp;The press release is available <a href="https://www.ochrance.cz/en/aktualne/current_status_of_the_project_reinforcing_the_activities_of_the_public_defender_of_rights_in_the_protection_of_human_rights_with_the_aim_of_establishing_a_national_human_rights_institution_in_the_czech_republic/">here</a>.</li>
 	<li>September 2, 2022 - we publish the 5th part of the video with vlogger Anička on the topic of the rights of people with disabilities. You can find the video <a href="https://www.youtube.com/watch?v=JjmnpspcfJM&amp;list=PLWNv_IxgJdEJRcfAUHCC1fZ6J1NiW4qh2&amp;index=6">here</a>.</li>
 	<li>September 1, 2022 - we have edited the Convention on the Rights of the Child in a form suitable for a child reader. See more information <a href="https://deti.ochrance.cz/aktualne/chces_konecne_porozumet_umluve_o_pravech_ditete/">here</a>.</li>
