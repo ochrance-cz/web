@@ -36,7 +36,7 @@ perex: >
 
 <p>&nbsp;</p>
 
-<p>V příštím podcastu se zaměříme na ochranu ovzduší. Budeme si povídat o obtěžování kouřem z grilovaček, ale i z kotlů a továren.</p>
+<p>V příštím podcastu si řekneme, kam se podává žádost o odkškodnění v případě opoždění dávek, a co je potřeba k&nbsp;ní doložit.</p>
 
 <p>&nbsp;</p>
 
