@@ -202,7 +202,7 @@ lawyers:
       - name: Markéta Klusáková
         role: právnička (důchody, nemocenské pojištění)
         phone: 542 542 319
-        email: babunkova@ochrance.cz
+        email: klusakova@ochrance.cz
       - name: Marek Blecha
         role: právník (dávky pomoci v hmotné nouzi, státní sociální podpora)
         phone: 542 542 323
