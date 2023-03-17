@@ -199,7 +199,7 @@ lawyers:
         role: vedoucí odboru
         phone: 542 542 382
         email: jiri.hruby@ochrance.cz
-      - name: Markéta Babuňková
+      - name: Markéta Klusáková
         role: právnička (důchody, nemocenské pojištění)
         phone: 542 542 319
         email: babunkova@ochrance.cz
