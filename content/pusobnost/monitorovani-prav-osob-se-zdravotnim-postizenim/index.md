@@ -153,9 +153,7 @@ Poté předkládá stát **každé 4 roky doplňující zprávy** . Pokud stá 
 
 
 
-### ﻿
-
-Výbor OSN může posoudit oznámení jednotlivce či skupiny jednotlivců, že se stal/i obětí porušení Úmluvy. Na základě oznámení vydává stanovisko, které obsahuje doporučení pro stát.
+﻿Výbor OSN může posoudit oznámení jednotlivce či skupiny jednotlivců, že se stal/i obětí porušení Úmluvy. Na základě oznámení vydává stanovisko, které obsahuje doporučení pro stát.
 
 #### Šetření případů závažného nebo systematického porušování Úmluvy
 
