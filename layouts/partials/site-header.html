@@ -77,7 +77,11 @@
                   {{ with .GetPage "/projekty" }}
                     {{ block "menu-link" . }}{{ end }}
                   {{ end }}
-
+                
+                  {{ with .GetPage "/srozumitelne" }}
+                    {{ block "menu-link" . }}{{ end }}
+                  {{ end }}
+                
                   {{ with .GetPage "/eso" }}
                     {{ block "menu-link" . }}{{ end }}
                   {{ end }}
