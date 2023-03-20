@@ -8,7 +8,7 @@ cta:
   title: Řešíte problémy související s postižením a domníváte se, že vám ombudsman
     může pomoct?
 ---
-V rámci [Úmluvy](/umluva/) provádíme výzkumy, šetření a vypracováváme doporučení ke zlepšení situace lidí s postižením. Intenzivně přitom spolupracujeme právě s lidmi s postižením, neziskovými organizacemi a především s **poradním orgánem ombudsmana pro oblast práv lidí s postižením**.
+V rámci  monitorování [Úmluvy](https://www.mpsv.cz/documents/20142/225526/Umluva_o_pravech_osob_se_ZP.pdf/1e95a34b-cbdf-0829-3da2-148865b8a4a8) provádíme výzkumy, šetření a vypracováváme doporučení ke zlepšení situace lidí s postižením. Intenzivně přitom spolupracujeme právě s lidmi s postižením, neziskovými organizacemi a především s **poradním orgánem ombudsmana pro oblast práv lidí s postižením**.
 
 S﻿polupracujeme také s organizacemi, které monitorují dodržování Úmluvy v jiných státech. Jsme součástí pracovní skupiny k Úmluvě při Evropské síti národních lidskoprávních organizací (ENNHRI).
 
