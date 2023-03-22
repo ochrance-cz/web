@@ -2,5 +2,5 @@
 title: Ochrana zvířat
 situace:
   - ochrana-zvirat
-file: ochrana-zvirat_.pdf
+file: ochrana-zvirat.pdf
 ---
