@@ -13,4 +13,4 @@ attachments:
   - file: https://www.ochrance.cz/aktualne/ombudsman_varuje_pred_spoofingem_davejte_si_pozor_komu_poskytujete_informace_podvody_jsou_dnes_velmi_sofistikovane/spoofing_letak.pdf
     title: "Leták Pozor na spoofing! "
 ---
-<p><img alt="2.png" src="https://www.ochrance.cz/aktualne/ombudsman_varuje_pred_spoofingem_davejte_si_pozor_komu_poskytujete_informace_podvody_jsou_dnes_velmi_sofistikovane/2.png" /><img alt="3.png" src="https://www.ochrance.cz/aktualne/ombudsman_varuje_pred_spoofingem_davejte_si_pozor_komu_poskytujete_informace_podvody_jsou_dnes_velmi_sofistikovane/3.png" /></p>
+<p><img alt="2.png" src="https://www.ochrance.cz/aktualne/ombudsman_varuje_pred_spoofingem_davejte_si_pozor_komu_poskytujete_informace_podvody_jsou_dnes_velmi_sofistikovane/2.png" /><img alt="4.png" src="https://www.ochrance.cz/aktualne/ombudsman_varuje_pred_spoofingem_davejte_si_pozor_komu_poskytujete_informace_podvody_jsou_dnes_velmi_sofistikovane/4.png" /></p>
