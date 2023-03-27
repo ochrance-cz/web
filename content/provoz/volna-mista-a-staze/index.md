@@ -4,7 +4,9 @@ linksAfter: []
 ---
 <h2><strong>Volná místa</strong></h2>
 
-<p>Aktuálně hledáme odborníka nebo odbornici na zahraniční vztahy s&nbsp;přesahem do mediální oblasti. Více informací v <a href="https://www.ochrance.cz/aktualne/hledame_odbornika_nebo_odbornici_na_zahranicni_vztahy/">inzerátu</a>.</p>
+<p>Nyní neprobíhá žádné výběrové řízení.</p>
+
+<p>Pokud se přesto chcete ucházet o místo, pošlete nám svůj životopis na adresu <a href="mailto:lzicarova@ochrance.cz">lzicarova@ochrance.cz</a> a napište, o jakou práci máte zájem.</p>
 
 <h2><strong>Stáže pro studenty právnických fakult</strong></h2>
 
