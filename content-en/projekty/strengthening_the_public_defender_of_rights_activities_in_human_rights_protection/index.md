@@ -47,6 +47,9 @@ gallery:
 
 <ul>
 	<li>
+	<p>March 7, 2023 - &nbsp;media reports about our new e-learning course <a href="https://radiozurnal.rozhlas.cz/line-kurz-od-ombudsmana-nauci-jak-poznat-a-resit-diskriminaci-8945565">here</a>.</p>
+	</li>
+	<li>
 	<p>March 1, 2023 - on the occasion of Zero Discrimination Day, which falls on March 1., we are launching the first module of the online course, which is focused on anti-discrimination law. You can read more in the press release <a href="https://www.ochrance.cz/aktualne/jak_poznat_a_resit_diskriminaci_naucte_se_to_v_novem_e-learningu_ombudsmana/">here</a> and view the course <a href="https://diskriminace.netventic.net/login">here</a>.</p>
 	</li>
 </ul>
