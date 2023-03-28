@@ -49,6 +49,9 @@ gallery:
 
 <ul>
 	<li>
+	<p>7.3.2023 &ndash; o našem novém e-learningovém kurzu informují média například <a href="https://radiozurnal.rozhlas.cz/line-kurz-od-ombudsmana-nauci-jak-poznat-a-resit-diskriminaci-8945565">zde</a>.</p>
+	</li>
+	<li>
 	<p>1.3.2023 - u&nbsp;příležitosti&nbsp;Zero Discrimination Day, který připadá právě na&nbsp;1. března, spouštíme první modul on-line kurzu, který je zaměřený na antidiskriminační právo. Více se dočtete v&nbsp;tiskové zprávě <a href="https://www.ochrance.cz/aktualne/jak_poznat_a_resit_diskriminaci_naucte_se_to_v_novem_e-learningu_ombudsmana/">zde</a> a do kurzu se podíváte <a href="https://diskriminace.netventic.net/login">zde</a>.</p>
 	</li>
 </ul>
