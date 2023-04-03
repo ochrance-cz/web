@@ -47,4 +47,4 @@ linksAfter: []
 	<li>samostatný referát dopravy.</li>
 </ul>
 
-<h4><a href="organizacni_schema.pdf">Organizacni_schema.pdf</a></h4>
+<h4><a href="organizacni_schema.pdf">Organizační schéma</a></h4>
