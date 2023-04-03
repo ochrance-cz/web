@@ -55,7 +55,7 @@ Kancelář veřejného ochránce práv nemá vlastní internetovou stránku. Inf
 
 <ul>
 	<li><a href="/info/statut/">Statut Kanceláře veřejného ochránce práv</a></li>
-	<li><a href="https://www.ochrance.cz/provoz/zamestnanci-a-organizacni-struktura/organizacni_rad.docx">Organizační řád Kanceláře veřejného ochránce práv</a></li>
+	<li><a href="https://www.ochrance.cz/provoz/zamestnanci-a-organizacni-struktura/organizacni_rad.pdf">Organizační řád Kanceláře veřejného ochránce práv</a></li>
 </ul>
 
 <h2>Žádosti o&nbsp;informace</h2>
