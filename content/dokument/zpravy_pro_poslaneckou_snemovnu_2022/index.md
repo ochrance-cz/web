@@ -3,6 +3,9 @@ title: Zprávy pro Poslaneckou sněmovnu 2022
 date: 2022-03-02T11:15:10.874Z
 vystupy:
   - vyrocni-zprava
+attachmentsTop:
+  - title: Výroční zpráva 2022
+    file: https://www.ochrance.cz/dokument/zpravy_pro_poslaneckou_snemovnu_2022/vyrocni-zprava-2022.pdf
 ---
 <p><strong><a href="https://www.ochrance.cz/dokument/zpravy_pro_poslaneckou_snemovnu_2022/2022-i-q.pdf">Zpráva za 1. čtvrtletí roku 2022</a></strong></p>
 
