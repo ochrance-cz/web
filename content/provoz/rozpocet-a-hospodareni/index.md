@@ -3,6 +3,126 @@ title: Rozpočet a výsledky hospodaření
 ---
 <h2>Rozpočet</h2>
 
+<h3>Rok 2022: Závazné ukazatele kapitoly 309 (v tis. Kč):</h3>
+
+<table border="1" cellpadding="1" cellspacing="1" width="500">
+	<tbody>
+		<tr>
+			<td><strong>Název ukazatele</strong></td>
+			<td><strong>Rozpočet po&nbsp;změnách</strong></td>
+			<td><strong>Skutečnost</strong></td>
+			<td><strong>%</strong></td>
+		</tr>
+		<tr>
+			<td>
+			<p>Příjmy celkem</p>
+			</td>
+			<td>8 073</td>
+			<td>6 625</td>
+			<td>82</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Výdaje celkem</p>
+			</td>
+			<td>160 838</td>
+			<td>161 044</td>
+			<td>
+			<p>100</p>
+			</td>
+		</tr>
+		<tr>
+			<td>Platy zaměstnanců a ostatní platby za provedenou práci</td>
+			<td>95 818</td>
+			<td>96 644&nbsp;&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Povinné pojistné placené zaměstnavatelem</td>
+			<td>32 219</td>
+			<td>31 521</td>
+			<td>98</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Základní příděl fondu kulturních a sociálních potřeb</p>
+			</td>
+			<td>1 766</td>
+			<td>1 788</td>
+			<td>101</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Platy zaměstnanců v pracovním poměru vyjma zaměstnanců na&nbsp;služebních místech</p>
+			</td>
+			<td>87 914</td>
+			<td>88 749</td>
+			<td>101</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Platy zaměstnanců na služebních místech dle zákona o státní službě</p>
+			</td>
+			<td>0</td>
+			<td>0</td>
+			<td>-</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Výdaje spolufinancované zcela nebo částečně z&nbsp;rozpočtu Evropské unie bez společné zemědělské politiky celkem</p>
+			</td>
+			<td>383</td>
+			<td>163</td>
+			<td>43</td>
+		</tr>
+		<tr>
+			<td>
+			<p>v tom: ze státního rozpočtu</p>
+			</td>
+			<td>57</td>
+			<td>24</td>
+			<td>43</td>
+		</tr>
+		<tr>
+			<td>
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; podíl rozpočtu Evropské unie</p>
+			</td>
+			<td>325</td>
+			<td>138</td>
+			<td>43</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Výdaje na společné projekty, které jsou zcela nebo částečně financované z&nbsp;prostředků finančních mechanismů celkem</p>
+			</td>
+			<td>8 822</td>
+			<td>10 400</td>
+			<td>118</td>
+		</tr>
+		<tr>
+			<td>
+			<p>v tom: ze státního rozpočtu</p>
+			</td>
+			<td>1 323</td>
+			<td>1 560</td>
+			<td>118</td>
+		</tr>
+		<tr>
+			<td>
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; podíl prostředků finančních mechanismů</p>
+			</td>
+			<td>7 498</td>
+			<td>8 840</td>
+			<td>118</td>
+		</tr>
+		<tr>
+			<td>Výdaje vedené v informačním systému programového financování EDS/SMVS celkem</td>
+			<td>5 500</td>
+			<td>3 178</td>
+			<td>58</td>
+		</tr>
+	</tbody>
+</table>
+
 <h3>Rok 2021: Závazné ukazatele kapitoly 309 (v tis. Kč):</h3>
 
 <table>
