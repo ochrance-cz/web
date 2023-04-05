@@ -284,10 +284,6 @@ lawyers:
         role: právnička (věci cizinců)
         phone: 542 542 229
         email: veronika.vichova@ochrance.cz
-      - name: Barbora Mazalová
-        role: právnička (věci cizinců)
-        phone: "542 542 366 "
-        email: barbora.mazalova@ochrance.cz
       - name: Eva Burianová Ehnertová
         role: právnička (státní správa soudů)
         phone: 542 542 357
