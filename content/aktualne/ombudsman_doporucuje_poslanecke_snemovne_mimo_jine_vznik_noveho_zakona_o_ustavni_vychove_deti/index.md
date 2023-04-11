@@ -6,7 +6,7 @@ vystupy:
   - tz
 perex: >
   <p>Veřejný ochránce práv Stanislav Křeček a jeho zástupce Vít Alexander Schorm
-  představil v úterý na jednání petičního výboru Poslanecké sněmovny výroční
+  představili v úterý na jednání petičního výboru Poslanecké sněmovny výroční
   zprávu o činnosti veřejného ochránce práv v&nbsp;roce 2022. V&nbsp;ní
   ombudsman letos předkládá Poslanecké sněmovně celkem šest legislativních
   doporučení na změnu právních předpisů. &nbsp;</p>
