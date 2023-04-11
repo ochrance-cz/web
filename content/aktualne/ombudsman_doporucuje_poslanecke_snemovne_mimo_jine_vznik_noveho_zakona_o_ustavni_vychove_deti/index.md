@@ -11,7 +11,7 @@ perex: >
   ombudsman letos předkládá Poslanecké sněmovně celkem šest legislativních
   doporučení na změnu právních předpisů. &nbsp;</p>
 ---
-<p>Kromě zvýšení příspěvku na péči a jeho pravidelné valorizace doporučuje ombudsman Poslanecké sněmovně, aby požádala vládu o předložení návrhu nového zákona o ústavní výchově dětí. Další doporučení se týkají snížení soudního poplatku za odvolání v diskriminačních sporech a rozšíření Milostivého léta i na pojistné na veřejné zdravotní pojištění. Vhodné by podle ombudsmana byly i změny předpisů, díky kterým by justiční pohledávky mohli vymáhat celní úřady, a správa sociálního zabezpečení by mohla zastavit vyplácení sirotčího důchodu při jeho zjevném zneužívání.</p>
+<p>Kromě zvýšení příspěvku na péči a jeho pravidelné valorizace doporučuje ombudsman Poslanecké sněmovně, aby požádala vládu o předložení návrhu nového zákona o ústavní výchově dětí. Další doporučení se týkají snížení soudního poplatku za odvolání v diskriminačních sporech a rozšíření Milostivého léta i na pojistné na veřejné zdravotní pojištění. Vhodné by podle ombudsmana byly i změny předpisů, díky kterým by justiční pohledávky mohly vymáhat celní úřady, a správa sociálního zabezpečení by mohla zastavit vyplácení sirotčího důchodu při jeho zjevném zneužívání.</p>
 
 <p><strong>Nový zákon o ústavní výchově dětí</strong></p>
 
