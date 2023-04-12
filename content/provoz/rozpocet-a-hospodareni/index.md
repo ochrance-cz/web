@@ -36,7 +36,8 @@ title: Rozpočet a výsledky hospodaření
 		<tr>
 			<td>Platy zaměstnanců a ostatní platby za provedenou práci</td>
 			<td>95 818</td>
-			<td>96 644&nbsp;&nbsp;</td>
+			<td>96 644</td>
+			<td>-</td>
 		</tr>
 		<tr>
 			<td>Povinné pojistné placené zaměstnavatelem</td>
