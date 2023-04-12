@@ -5,14 +5,16 @@ title: Rozpočet a výsledky hospodaření
 
 <h3>Rok 2022: Závazné ukazatele kapitoly 309 (v tis. Kč):</h3>
 
-<table border="1" cellpadding="1" cellspacing="1" width="500">
-	<tbody>
+<table width="500">
+	<thead>
 		<tr>
-			<td><strong>Název ukazatele</strong></td>
-			<td><strong>Rozpočet po&nbsp;změnách</strong></td>
-			<td><strong>Skutečnost</strong></td>
-			<td><strong>%</strong></td>
+			<th scope="col"><strong>Název ukazatele</strong></th>
+			<th scope="col"><strong>Rozpočet po&nbsp;změnách</strong></th>
+			<th scope="col"><strong>Skutečnost</strong></th>
+			<th scope="col"><strong>%</strong></th>
 		</tr>
+	</thead>
+	<tbody>
 		<tr>
 			<td>
 			<p>Příjmy celkem</p>
