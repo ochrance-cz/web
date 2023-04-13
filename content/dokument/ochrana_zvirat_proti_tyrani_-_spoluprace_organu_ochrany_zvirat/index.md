@@ -14,7 +14,11 @@ attachments: []
 
 <h4><strong>Program konference</strong></h4>
 
+<p>&nbsp;</p>
+
 <h4>BLOK I</h4>
+
+<p>&nbsp;</p>
 
 <p><strong><a href="https://www.ochrance.cz/media/sbornik_ochrana_zvirat.pdf">Sborník veřejného ochránce práv &bdquo;Ochrana zvířat&ldquo; </a></strong></p>
 
@@ -32,7 +36,11 @@ attachments: []
 
 <p><em>MVDr. Tomáš Jarosil, ředitel odboru ochrany zdraví a&nbsp;pohody zvířat Ústřední veterinární správy Státní veterinární správy</em></p>
 
+<p>&nbsp;</p>
+
 <h4>BLOK II</h4>
+
+<p>&nbsp;</p>
 
 <p><strong><a href="https://www.ochrance.cz/dokument/ochrana_zvirat_proti_tyrani_-_spoluprace_organu_ochrany_zvirat/kasparkova_vecerova_-_vstupy_do_obydli_pravni_ramec.pdf">Vstupy do&nbsp;obydlí: právní rámec</a></strong></p>
 
@@ -50,7 +58,11 @@ attachments: []
 
 <p><em>pplk. Mgr. Lenka Šamonilová, kpt. Bc. Kateřina Jandíková,&nbsp;Úřad služby kriminální policie a vyšetřování Policejního prezidia ČR</em></p>
 
+<p>&nbsp;</p>
+
 <h4>BLOK III</h4>
+
+<p>&nbsp;</p>
 
 <p><strong>Ochrana zvířat očima státního zástupce </strong></p>
 
