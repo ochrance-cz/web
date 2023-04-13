@@ -12,7 +12,7 @@ attachments: []
 
 <h3>Aktuální poznatky a&nbsp;otazníky v&nbsp;oblasti ochrany zvířat proti týrání</h3>
 
-<h4><strong>Program konference</strong></h4>
+<h4><a href="https://www.ochrance.cz/dokument/ochrana_zvirat_proti_tyrani_-_spoluprace_organu_ochrany_zvirat/program_konference_ochrana_zvirat.pdf">Program konference</a></h4>
 
 <p>&nbsp;</p>
 
@@ -54,7 +54,7 @@ attachments: []
 
 <p><em>MVDr. Eva Kaděrková, vedoucí oddělení ochrany zvířat odboru živočišných komodit a ochrany zvířat Ministerstva zemědělství</em></p>
 
-<p><strong>Oprávnění Policie ČR ke&nbsp;vstupu do&nbsp;obydlí při&nbsp;podezření na&nbsp;týrání zvířete</strong></p>
+<p><strong><a href="https://www.ochrance.cz/dokument/ochrana_zvirat_proti_tyrani_-_spoluprace_organu_ochrany_zvirat/samonilova_jandikova_-_ek_v_cr_-_opravneni_pcr_ke_vstupu_do_obydli_-_tyrani_zvirat.pdf">Oprávnění Policie ČR ke&nbsp;vstupu do&nbsp;obydlí při&nbsp;podezření na&nbsp;týrání zvířete</a></strong></p>
 
 <p><em>pplk. Mgr. Lenka Šamonilová, kpt. Bc. Kateřina Jandíková,&nbsp;Úřad služby kriminální policie a vyšetřování Policejního prezidia ČR</em></p>
 
@@ -64,7 +64,7 @@ attachments: []
 
 <p>&nbsp;</p>
 
-<p><strong>Ochrana zvířat očima státního zástupce </strong></p>
+<p><strong>Ochrana zvířat očima státního zástupce&nbsp;</strong>(vystoupení bez prezentace)</p>
 
 <p><em>Mgr. Kateřina Weissová, státní zástupkyně Vrchního státního zastupitelství v&nbsp;Praze</em></p>
 
@@ -76,7 +76,7 @@ attachments: []
 
 <p><em>Mgr. Anežka Hromířová, Mgr. Jitka Večeřová, Ph.D.,&nbsp;odbor stavebního řádu a&nbsp;životního prostředí Kanceláře veřejného ochránce práv</em></p>
 
-<p><strong>Poznatky Svazu měst a&nbsp;obcí k&nbsp;problematice ochrany zvířat proti týrání</strong></p>
+<p><strong>Poznatky Svazu měst a&nbsp;obcí k&nbsp;problematice ochrany zvířat proti týrání&nbsp;</strong>(vystoupení bez prezentace)</p>
 
 <p><em>Mgr. Alena Klimt, DiS.,&nbsp;Legislativní a&nbsp;právní sekce Svazu měst a&nbsp;obcí České republiky</em></p>
 
