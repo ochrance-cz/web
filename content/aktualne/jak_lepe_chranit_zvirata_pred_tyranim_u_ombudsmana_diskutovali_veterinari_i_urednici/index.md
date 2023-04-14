@@ -2,6 +2,8 @@
 title: Jak lépe chránit zvířata před týráním? U ombudsmana diskutovali
   veterináři i úředníci
 date: 2023-04-14T06:34:41.768Z
+vystupy:
+  - tz
 perex: >
   <p>Mezi aktuální otázky v&nbsp;oblasti ochrany zvířat proti týrání patří podle
   zástupců obcí a veterinárních správ například zajištění vstupu do obydlí i
