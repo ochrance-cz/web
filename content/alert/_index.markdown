@@ -3,9 +3,11 @@ title: "Українці, увага! Тут ви можете знайти ва
   про ваше перебування в Чеській Республіці. "
 active: true
 ---
+* ﻿[Webinář MV, MŠMT, MPSV a MZDR 20. 4.: LEX Ukrajina V. - novinky](/media/lex_ukrajinav_pozvanka_fin.pdf)
 * [Тимчасовий захист: продовження](/media/ua_prodlouzeni_obecne.pdf)
 
-  [Тимчасовий захист: Представник неповнолітнього](/media/ua_vazby_obecne_verze_pro_online.pdf)
+[Тимчасовий захист: Представник неповнолітнього](/media/ua_vazby_obecne_verze_pro_online.pdf)
+
 * ЯК ШУКАТИ РОБОТУ - ІСТОРІЯ ІРИНИ 
 
 {{< youtube "Pk94zVkcIkA" >}} 
