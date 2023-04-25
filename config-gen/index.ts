@@ -56,11 +56,7 @@ const fig = (title: string, name: string) =>
   ]);
 
 const attached = (listTitle: string = 'Přílohy', name: string = 'attachments') =>
-  list(listTitle, 'Příloha', name, [
-    title('Název přílohy'),
-    file('Soubor', 'file'),
-    string('Odkaz', 'link'),
-  ]);
+  list(listTitle, 'Příloha', name, [title('Název přílohy'), file('Soubor', 'file'), string('Odkaz', 'link')]);
 
 const cta = () =>
   object(
@@ -86,13 +82,12 @@ const twoColTypes = [
   { label: 'Příklady', value: 'yes-yes' },
 ];
 
-const twoColFields = []
+const twoColFields = [];
 
 for (var i = 1; i <= 10; ++i) {
   twoColFields.push(markdown(`${i}. pole vlevo`, `left-${i}`));
   twoColFields.push(markdown(`${i}. pole vpravo`, `right-${i}`));
 }
-
 
 const stranky = files('Jiné', 'stranky', [
   fileCollection('Homepage', 'home', 'content/_index.markdown', [
@@ -127,26 +122,11 @@ const stranky = files('Jiné', 'stranky', [
   fileCollection('Podejte stížnost', 'stiznost', 'content/podejte-stiznost/_index.markdown', [
     title('Titulek'),
     string('Podtitul', 'description'),
-    list('Formuláře (e-mail)', 'formulář', 'email', [
-      file('Soubor', 'link'),
-      string('Popis', 'desc'),
-    ]),
-    list('Formuláře (poštou)', 'formulář', 'post', [
-      file('Soubor', 'link'),
-      string('Popis', 'desc'),
-    ]),
-    list('Formuláře (osobně)', 'formulář', 'inperson', [
-      file('Soubor', 'link'),
-      string('Popis', 'desc'),
-    ]),
-    object('Jak napsat ombudsmanovi', 'submission', [
-      title('Titulek'),
-      markdown('Poznámky', 'body'),
-    ]),
-    list('Ukázky', 'ukázkově vyplněný formulář', 'example-links', [
-      file('Soubor', 'link'),
-      string('Popis', 'desc'),
-    ]),
+    list('Formuláře (e-mail)', 'formulář', 'email', [file('Soubor', 'link'), string('Popis', 'desc')]),
+    list('Formuláře (poštou)', 'formulář', 'post', [file('Soubor', 'link'), string('Popis', 'desc')]),
+    list('Formuláře (osobně)', 'formulář', 'inperson', [file('Soubor', 'link'), string('Popis', 'desc')]),
+    object('Jak napsat ombudsmanovi', 'submission', [title('Titulek'), markdown('Poznámky', 'body')]),
+    list('Ukázky', 'ukázkově vyplněný formulář', 'example-links', [file('Soubor', 'link'), string('Popis', 'desc')]),
   ]),
   fileCollection('Kontakt', 'kontakt', 'content/kontakt.md', [
     title('Titulek'),
@@ -196,10 +176,7 @@ const stranky = files('Jiné', 'stranky', [
     'content/pristupnost/budova/index.md',
     [
       title('Titulek'),
-      list('Sekce', 'sekce', 'gallery', [
-        image('Ilustrační obrázek', 'pic'),
-        markdown('Text', 'desc'),
-      ]),
+      list('Sekce', 'sekce', 'gallery', [image('Ilustrační obrázek', 'pic'), markdown('Text', 'desc')]),
     ],
     {
       media_folder: '',
@@ -244,36 +221,48 @@ const stranky = files('Jiné', 'stranky', [
   ]),
   fileCollection('Jak psát srozumitelně (Obsah)', 'srozumitelnetoc', 'content/srozumitelne/_index.markdown', [
     title('Titulek'),
-    list('Kapitoly', 'kapitola', 'chapters', [
-      relation("Kapitola", "chapter", {
-        collection: 'srozumitelne',
-        value_field: '{{slug}}',
-        display_fields: ['title'],
-        search_fields: ["title"],
-        multiple: false,
-        options_length: 100,
-      })
-    ], {
-      collapsed: false,
-    }),
-    list('Textový obsah', "obsah", "textcontent", [
-      relation("Před kapitolou", "before", {
-        collection: 'srozumitelne',
-        value_field: '{{slug}}',
-        display_fields: ['title'],
-        search_fields: ["title"],
-        multiple: false,
-        options_length: 100,
-      }),
-      markdown("Text", "text")
-    ], {
-      collapsed: false,
-    }),
-    list("Dvousloupcový obsah", "obsah", "twocols", [
-      string("Identifikátor", "id"),
+    list(
+      'Kapitoly',
+      'kapitola',
+      'chapters',
+      [
+        relation('Kapitola', 'chapter', {
+          collection: 'srozumitelne',
+          value_field: '{{slug}}',
+          display_fields: ['title'],
+          search_fields: ['title'],
+          multiple: false,
+          options_length: 100,
+        }),
+      ],
+      {
+        collapsed: false,
+      }
+    ),
+    list(
+      'Textový obsah',
+      'obsah',
+      'textcontent',
+      [
+        relation('Před kapitolou', 'before', {
+          collection: 'srozumitelne',
+          value_field: '{{slug}}',
+          display_fields: ['title'],
+          search_fields: ['title'],
+          multiple: false,
+          options_length: 100,
+        }),
+        markdown('Text', 'text'),
+      ],
+      {
+        collapsed: false,
+      }
+    ),
+    list('Dvousloupcový obsah', 'obsah', 'twocols', [
+      string('Identifikátor', 'id'),
       select('Typ obsahu', 'type', twoColTypes),
-      ...twoColFields
-    ])
+      ...twoColFields,
+    ]),
   ]),
 ]);
 
@@ -304,26 +293,11 @@ const strankyEn = files('Jiné', 'stranky', [
   fileCollection('Podejte stížnost', 'stiznost', 'content/podejte-stiznost/_index.markdown', [
     title('Titulek'),
     string('Podtitul', 'description'),
-    list('Formuláře (e-mail)', 'formulář', 'email', [
-      file('Soubor', 'link'),
-      string('Popis', 'desc'),
-    ]),
-    list('Formuláře (poštou)', 'formulář', 'post', [
-      file('Soubor', 'link'),
-      string('Popis', 'desc'),
-    ]),
-    list('Formuláře (osobně)', 'formulář', 'inperson', [
-      file('Soubor', 'link'),
-      string('Popis', 'desc'),
-    ]),
-    object('Jak napsat ombudsmanovi', 'submission', [
-      title('Titulek'),
-      markdown('Poznámky', 'body'),
-    ]),
-    list('Ukázky', 'ukázkově vyplněný formulář', 'example-links', [
-      file('Soubor', 'link'),
-      string('Popis', 'desc'),
-    ]),
+    list('Formuláře (e-mail)', 'formulář', 'email', [file('Soubor', 'link'), string('Popis', 'desc')]),
+    list('Formuláře (poštou)', 'formulář', 'post', [file('Soubor', 'link'), string('Popis', 'desc')]),
+    list('Formuláře (osobně)', 'formulář', 'inperson', [file('Soubor', 'link'), string('Popis', 'desc')]),
+    object('Jak napsat ombudsmanovi', 'submission', [title('Titulek'), markdown('Poznámky', 'body')]),
+    list('Ukázky', 'ukázkově vyplněný formulář', 'example-links', [file('Soubor', 'link'), string('Popis', 'desc')]),
   ]),
   fileCollection('Kontakt', 'kontakt', 'content/kontakt.md', [
     title('Titulek'),
@@ -359,10 +333,7 @@ const strankyEn = files('Jiné', 'stranky', [
     'content/pristupnost/budova/index.md',
     [
       title('Titulek'),
-      list('Sekce', 'sekce', 'gallery', [
-        image('Ilustrační obrázek', 'pic'),
-        markdown('Text', 'desc'),
-      ]),
+      list('Sekce', 'sekce', 'gallery', [image('Ilustrační obrázek', 'pic'), markdown('Text', 'desc')]),
     ],
     {
       media_folder: '',
@@ -444,10 +415,7 @@ const onas = files('O nás', 'onas', [
     [
       title('Titulek'),
       image('Ilustrační obrázek', 'illustration'),
-      list('Časová osa', 'Událost', 'timeline', [
-        string('Časové určení', 'time'),
-        text('Popis', 'desc'),
-      ]),
+      list('Časová osa', 'Událost', 'timeline', [string('Časové určení', 'time'), text('Popis', 'desc')]),
     ],
     {
       media_folder: '',
@@ -457,16 +425,33 @@ const onas = files('O nás', 'onas', [
     'Předpisy',
     'predpisy',
     'content/o-nas/predpisy/index.md',
-    [
-      title('Titulek'),
-      image('Ilustrační obrázek', 'illustration'),
-      customEditor('Text stránky', 'body'),
-    ],
+    [title('Titulek'), image('Ilustrační obrázek', 'illustration'), customEditor('Text stránky', 'body')],
     {
       media_folder: '',
     }
   ),
 ]);
+
+const vzdelavaciAkce = folderCollection(
+  'Vzdělávací akce',
+  'vzdělávací akce',
+  'vzdelavaci-akce',
+  {
+    folder: 'content/vzdelavaci-akce',
+    preview_path: '/vzdelavaci-akce/{{slug}}',
+    path: '{{slug}}/index',
+    extension: 'md',
+    create: true,
+    media_folder: '',
+    public_folder: 'https://www.ochrance.cz/vzdelavaci-akce/{{slug}}',
+  },
+  [
+    title('Titulek'),
+    markdown('Perex', 'perex'),
+    datetime('Datum konání', 'startDate', { time_format: false }),
+    markdown('Popis akce', 'body'),
+  ]
+);
 
 const eso = folderCollection(
   'ESO',
@@ -548,10 +533,7 @@ const pomoc = folderCollection(
     list('Seznam: nemůžeme pomoci', 'Situace', 'we-cannot', markdown('Situace', 'situation'), {
       collapsed: false,
     }),
-    list('Příklady', 'Příklad', 'examples', [
-      string('Jméno', 'name'),
-      markdown('Popis případu', 'desc'),
-    ]),
+    list('Příklady', 'Příklad', 'examples', [string('Jméno', 'name'), markdown('Popis případu', 'desc')]),
     object('Sekce „podejte podnět“', 'button', [string('Text na tlačítku', 'text')]),
   ]
 );
@@ -690,11 +672,7 @@ const srozumitelne = folderCollection(
     media_folder: '',
     public_folder: 'https://www.ochrance.cz/srozumitelne/{{slug}}',
   },
-  [
-    title('Titulek'),
-    number("Číslo kapitoly", "num"),
-    markdown('Text', 'body'),
-  ]
+  [title('Titulek'), number('Číslo kapitoly', 'num'), markdown('Text', 'body')]
 );
 
 const situace = folderCollection(
@@ -811,8 +789,7 @@ const englishFolder = (collection: FolderCollection) => {
     fields: collection.fields.map((field: AnyWidget) => englishWidget(field)),
   };
 
-  if (collection.public_folder)
-    en.public_folder = collection.public_folder.replace('ochrance.cz/', 'ochrance.cz/en/');
+  if (collection.public_folder) en.public_folder = collection.public_folder.replace('ochrance.cz/', 'ochrance.cz/en/');
 
   if (collection.preview_path) en.preview_path = collection.preview_path.replace(/^\//, '/en/');
 
@@ -866,6 +843,7 @@ save('./static-preview/admin/config.yml', {
     situace,
     vystupy,
     ops,
+    vzdelavaciAkce,
     info,
     info106,
     projekty,

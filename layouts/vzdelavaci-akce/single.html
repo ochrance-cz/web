@@ -1,0 +1,35 @@
+{{ define "main" }}
+<main>
+  {{ partial "text-header.html" . }}
+
+  <div {{ with .Params.contentBackdrop }} class="{{ . }}"{{ end }}>
+    <section>
+      {{ with .Params.perex }}
+        <div class="perex">
+          {{ partial "md-block.html" . }}
+        </div>
+      {{ end }}
+
+      {{ with .Params.links }}
+        {{ partial "link-list.html" (dict "list" . "page" $) }}
+      {{ end }}
+
+      {{ with .Params.startDate }}
+        <p class="details">
+          {{ if eq $.Language.Lang "en" }}
+            {{ . | dateFormat "January 2, 2006"}}
+          {{ else }}
+            {{ partial "date.html" (dict "date" . "months" $.Site.Data.months) }}
+          {{ end }}
+        </p>
+      {{ end }}
+
+    	{{ .Content }}
+
+      {{ with .Params.linksAfter }}
+        {{ partial "link-list.html" (dict "list" . "page" $) }}
+      {{ end }}
+    </section>
+  </div>
+</main>
+{{ end }}

@@ -1785,6 +1785,60 @@ collections:
     path: '{{slug}}/index'
     media_folder: ''
     public_folder: ''
+  - name: vzdelavaci-akce
+    label: Vzdělávací akce
+    label_singular: vzdělávací akce
+    folder: content/vzdelavaci-akce
+    extension: md
+    editor:
+      preview: false
+    fields:
+      - label: Titulek
+        name: title
+        widget: string
+      - editor_components:
+          - image
+        buttons:
+          - bold
+          - italic
+          - link
+          - heading-two
+          - heading-three
+          - heading-four
+          - quote
+          - bulleted-list
+          - numbered-list
+        label: Perex
+        name: perex
+        required: false
+        widget: markdown
+      - label: Datum konání
+        name: startDate
+        required: false
+        widget: datetime
+        date_format: DD.MM.YYYY
+        time_format: false
+      - editor_components:
+          - image
+        buttons:
+          - bold
+          - italic
+          - link
+          - heading-two
+          - heading-three
+          - heading-four
+          - quote
+          - bulleted-list
+          - numbered-list
+        label: Popis akce
+        name: body
+        required: false
+        widget: markdown
+    create: true
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: 'https://www.ochrance.cz/vzdelavaci-akce/{{slug}}'
+    preview_path: '/vzdelavaci-akce/{{slug}}'
   - name: info
     label: Další informace
     label_singular: infostránka
