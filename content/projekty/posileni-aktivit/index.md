@@ -49,6 +49,9 @@ gallery:
 
 <ul>
 	<li>
+	<p>26.4.2023 &ndash; Zveřejňujeme další moduly e-learningového kurzu o antidiskriminačním právu. Více informací se dozvíte v&nbsp;tiskové zprávě <a href="https://www.ochrance.cz/aktualne/diskriminace_v_bydleni_vzdelavani_nebo_praci-_vyzkousejte_dalsi_casti_e-learningu_ombudsmana/">zde</a>.</p>
+	</li>
+	<li>
 	<p>7.3.2023 &ndash; o našem novém e-learningovém kurzu informují média například <a href="https://radiozurnal.rozhlas.cz/line-kurz-od-ombudsmana-nauci-jak-poznat-a-resit-diskriminaci-8945565">zde</a>.</p>
 	</li>
 	<li>
