@@ -1,5 +1,5 @@
 ---
-title: "Konference: OCHRANA ZVÍŘAT"
+title: "KONFERENCE: Ochrana zvířat"
 perex: Aktuální poznatky a otazníky v oblasti ochrany zvířat proti týrání.
 startDate: 2023-04-04T11:52:45.146Z
 ---
