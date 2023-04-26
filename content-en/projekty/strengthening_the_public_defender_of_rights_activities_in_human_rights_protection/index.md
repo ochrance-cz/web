@@ -47,6 +47,9 @@ gallery:
 
 <ul>
 	<li>
+	<p>April 26, 2023 - We are publishing more modules of the e-learning course on anti-discrimination law. You can find more in the press release <a href="https://www.ochrance.cz/aktualne/diskriminace_v_bydleni_vzdelavani_nebo_praci-_vyzkousejte_dalsi_casti_e-learningu_ombudsmana/">here</a>.</p>
+	</li>
+	<li>
 	<p>March 7, 2023 - &nbsp;media reports about our new e-learning course <a href="https://radiozurnal.rozhlas.cz/line-kurz-od-ombudsmana-nauci-jak-poznat-a-resit-diskriminaci-8945565">here</a>.</p>
 	</li>
 	<li>
