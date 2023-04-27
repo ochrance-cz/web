@@ -16,7 +16,6 @@ Naším cílem je posilovat přístupnost informací pro všechny bez rozdílu. 
 
 {{< rozbal "Poradní orgán pro oblast práv lidí s postižením" >}}
 
-
 * **předkládá** ombudsmanovi **systémová témata** v oblasti ochrany práv lidí s postižením,
 * **poskytuje** ombudsmanovi **konzultace** a praktické informace,
 * podílí se na **připomínkování právních předpisů** ombudsmanem a zaujímá stanoviska k jeho strategickým dokumentům týkajícím se práv lidí s postižením,
@@ -99,7 +98,7 @@ K sociálním službám se dostala jako mnoho jiných matek dětí s postižení
 
 #### (17) Jindřich Mikulík
 
-Narodil se neslyšícím rodičům, sám je také od narození neslyšící. S manželkou se stará o čtyři děti. Na Pedagogické fakultě Masarykovy univerzity absolvoval dvouoborové studium – speciální pedagogiky a matematiky. Pracuje ve středisku Teiresiás. Od roku 2020 je prezidentem ASNEPu (Asociace organizací neslyšících, nedoslýchavých a jejich přátel). Těší jej, že může být členem poradního orgánu zástupkyně veřejného ochránce práv Mgr. Moniky Šimůnkové a že se tak může také podílet na vytváření lepších podmínek života lidí s postižením, zejména pak lidí se sluchovým postižením. Jako člen poradního orgánu by se rád věnoval také osvětě o činnosti Kanceláře veřejného ochránce práv směrem k široké veřejnosti.
+Narodil se neslyšícím rodičům, sám je také od narození neslyšící. S manželkou se stará o čtyři děti. Na Pedagogické fakultě Masarykovy univerzity absolvoval dvouoborové studium – speciální pedagogiky a matematiky. Pracuje ve středisku Teiresiás. Od roku 2020 je prezidentem ASNEPu (Asociace organizací neslyšících, nedoslýchavých a jejich přátel). Těší jej, že může být členem poradního orgánu a že se tak může také podílet na vytváření lepších podmínek života lidí s postižením, zejména pak lidí se sluchovým postižením. Jako člen poradního orgánu by se rád věnoval také osvětě o činnosti Kanceláře veřejného ochránce práv směrem k široké veřejnosti.
 
 {{< /rozbal >}}
 
@@ -137,33 +136,11 @@ Poté předkládá stát **každé 4 roky doplňující zprávy** . Pokud stá 
 
 Česká republika ratifikovala v roce 2021 **Opční protokol k Úmluvě**. V platnost pro ni vstoupil dne 23. září 2021. Vůči státům, které ratifikovaly Opční protokol k Úmluvě, má Výbor OSN další dvě pravomoci: 
 
-#### P﻿řijímání a posuzování individuálních oznámení 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#### P﻿řijímání a posuzování individuálních oznámení
 
 ﻿Výbor OSN může posoudit oznámení jednotlivce či skupiny jednotlivců, že se stal/i obětí porušení Úmluvy. Na základě oznámení vydává stanovisko, které obsahuje doporučení pro stát.
 
 #### Šetření případů závažného nebo systematického porušování Úmluvy
-
-
-
-
-
-
-
-
 
 Pokud Výbor OSN obdrží hodnověrné informace, že se smluvní stát dopouští systematického nebo závažného porušování práv lidí s postižením, může zahájit šetření. To zpravidla obnáší i návštěvu státu a rozhovory se všemi důležitými aktéry. Poté vydává Výbor OSN zprávu, ve které shrne svá zjištění, hodnocení a případná doporučení. 
 
