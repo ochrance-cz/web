@@ -82,7 +82,7 @@ Jako právnička a spolupracovnice různých neziskových, pacientských a rodi�
 
 #### (13) Camille Latimier
 
-Camille Latimier má za sebou více než 10 let praxe v oblasti práv osob s mentálním postižením, a to jak na národní úrovni, tak i na evropské úrovni. Je odbornicí v oblasti svéprávnosti a podpory při rozhodování, zaměřuje se také na práva dětí s mentálním postižením a na otázku přístupnosti (snadné čtení, přístupnost úřadů a veřejných služeb, přístupnost voleb). V současné době je ředitelkou Společnosti pro podporu lidí s mentálním postižením, která zastupuje i jejích blízké.
+Camille Latimier má za sebou více než 10 let praxe v oblasti práv osob s mentálním postižením, a to jak na národní úrovni, tak i na evropské úrovni. Je odbornicí v oblasti svéprávnosti a podpory při rozhodování, zaměřuje se také na práva dětí s mentálním postižením a na otázku přístupnosti (snadné čtení, přístupnost úřadů a veřejných služeb, přístupnost voleb). V současné době je ředitelkou Společnosti pro podporu lidí s mentálním postižením, která zastupuje i jejich blízké.
 
 #### (14) Martin Okáč
 
