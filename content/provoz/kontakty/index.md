@@ -429,10 +429,10 @@ lawyers:
       zacházením, šetření stížností na činnost Vězeňské služby ČR, ochranné
       léčení
     people:
-      - name: Ondřej Vala
+      - name: Milan Svoboda
         role: vedoucí odboru
-        phone: 542 542 328
-        email: ondrej.vala@ochrance.cz
+        phone: 542 542 315
+        email: milan.svoboda@ochrance.cz
       - name: Petra Benáčková
         role: právnička
         phone: 542 542 261
@@ -465,10 +465,6 @@ lawyers:
         role: právník
         phone: 542 542 283
         email: matej.stritesky@ochrance.cz
-      - name: Milan Svoboda
-        role: právník
-        phone: 542 542 315
-        email: milan.svoboda@ochrance.cz
       - name: Tereza Žuffová-Kunčová
         role: "právnička "
         phone: "542 542 330 "
