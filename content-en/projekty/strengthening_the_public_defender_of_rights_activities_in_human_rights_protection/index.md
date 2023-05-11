@@ -64,6 +64,14 @@ gallery:
 	<p>December 15, 2022 - for the 8th monitoring period, we publish the professional outputs of the Secretariat of the Defender and his deputy. These are sanctions materials against the government (<a href="https://www.ochrance.cz/projekty/posileni-aktivit/ii-material_szd-24-2022-cb_mlade_buky.pdf">unregistered Mladé Buky social services facility</a>), statement of an intervener in the proceedings before the ECtHR (<a href="https://www.ochrance.cz/projekty/posileni-aktivit/szd_9-22_vyjadreni_k_eslp_eng.pdf">unregistered Mladé Buky social services facility</a>) and two materials related to the defender&#39;s legislative comments, namely <a href="https://www.ochrance.cz/projekty/posileni-aktivit/63068_22_priloha_pripominky_zakon_o_vykonu_tos.pdf">the amendment of the Act on the Execution of Imprisonment Sentences</a> and further the so-called <a href="https://www.ochrance.cz/projekty/posileni-aktivit/55974-2022_lex_ukrajina_iv.pdf">Lex Ukraine IV</a>.</p>
 	</li>
 	<li>
+	<p>December 12, 2022 &ndash; We held the first children&#39;s participation group that took place online. Children from twelve school groups had the opportunity to present and discuss their projects. Learn more about this activity <a href="https://deti.ochrance.cz/aktualne/zkusme_to_zmenit/">here</a>.</p>
+	</li>
+</ul>
+
+<p><img alt="prvni_participacni_skupina1.jpg" src="prvni_participacni_skupina1.jpg" /></p>
+
+<ul>
+	<li>
 	<p>October 19, 2022 - The ombudsman has long been devoted to the comprehensibility of documents, so that people understand what he writes to them. We examine why some official texts are comprehensible to the public and others not, what the biggest difficulties are and whether we can fix them. That is why we organized a round table on 14th of October 2022 where we could discuss this topic with experts. You can find the press release on the activity <a href="https://www.ochrance.cz/aktualne/urednici_i_soudci_se_na_kulatem_stole_u_ombudsmana_shodli_ze_uredni_pisemnosti_maji_byt_srozumitelne_pro_ctenare/">here</a>.</p>
 	</li>
 	<li>
