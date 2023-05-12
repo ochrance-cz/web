@@ -1,5 +1,5 @@
 ---
-title: Zpravodaj za červenec a srpen
+title: Zpravodaj za červenec a srpen 2022
 date: 2023-01-23T14:55:50.963Z
 vystupy:
   - zpravodaj
