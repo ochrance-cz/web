@@ -1,5 +1,5 @@
 ---
-title: Zpravodaj za květen a červen
+title: Zpravodaj za květen a červen 2022
 date: 2022-11-22T09:40:22.990Z
 vystupy:
   - zpravodaj
