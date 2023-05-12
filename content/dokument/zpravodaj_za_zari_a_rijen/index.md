@@ -1,5 +1,5 @@
 ---
-title: Zpravodaj za září a říjen
+title: Zpravodaj za září a říjen 2022
 date: 2023-01-23T15:07:19.105Z
 vystupy:
   - zpravodaj
