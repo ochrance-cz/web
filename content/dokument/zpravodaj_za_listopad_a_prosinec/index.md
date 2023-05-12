@@ -1,5 +1,5 @@
 ---
-title: Zpravodaj za listopad a prosinec
+title: Zpravodaj za listopad a prosinec 2022
 date: 2023-05-10T07:49:23.536Z
 vystupy:
   - zpravodaj
