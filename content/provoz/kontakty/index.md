@@ -288,6 +288,14 @@ lawyers:
         role: právnička (státní správa soudů)
         phone: 542 542 357
         email: eva.burianovaehnertova@ochrance.cz
+      - name: Linda Janků
+        role: právnička (věci cizinců)
+        phone: "542 542 318 "
+        email: linda.janku@ochrance.cz
+      - name: Alžbeta Králová
+        role: právnička (věci cizinců, státní správa soudů)
+        phone: "542 542 431 "
+        email: alzbeta.kralova@ochrance.cz
   - title: Odbor rodiny, zdravotnictví a práce
     intro: veřejné zdravotní pojištění, stížnosti ve zdravotnictví, činnost OSPOD,
       ústavní výchova, evidence uchazečů o zaměstnání u Úřadu práce, inspekce
