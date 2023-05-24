@@ -17,7 +17,7 @@ perex: >
   poskytuje lidem s&nbsp;postižením, a to zejména těm s&nbsp;vyšší potřebou míry
   podpory, není dostatečná.</p>
 attachments:
-  - file: https://www.ochrance.cz/aktualne/poradni_organ_ombudsmana_upozornuje_na_to_ze_rada_lidi_s_postizenim_stale_nema_moznost_vest_nezavisly_zpusob_zivota/usneseni_k_deinstitucionalizaci_a_pravu_na_nezavisly_zivot.pdf
+  - file: https://www.ochrance.cz/aktualne/2023-01-19-poradni_organ_ombudsmana_upozornuje_na_to_ze_rada_lidi_s_postizenim_stale_nema_moznost_vest_nezavisly_zpusob_zivota/usneseni_k_deinstitucionalizaci_a_pravu_na_nezavisly_zivot.pdf
     title: Usnesení k deinstitucionalizaci a právu na nezávislý život
 ---
 <p>Podle <a href="https://www.ochrance.cz/umluva/">Úmluvy o právech osob se zdravotním postižením</a> by totiž každý člověk s&nbsp;postižením měl mít možnost zvolit si, kde bude bydlet, a v&nbsp;tom místě také čerpat podporu podle své volby. Lidé s&nbsp;postižením by neměli být nuceni přijímat formu a nastavení služeb, které jim nevyhovují. A i proto přijal <a href="https://www.ochrance.cz/pusobnost/monitorovani-prav-osob-se-zdravotnim-postizenim/">poradní orgán</a> na svém lednovém zasedání usnesení, ve kterém ombudsmana vyzval, aby věnoval zvýšenou pozornost sledování procesu transformace ústavních služeb ve služby komunitní. A aby ve své činnosti reflektoval výklad článku 19 Úmluvy z&nbsp;pohledu Výboru OSN pro práva osob se zdravotním postižením. Právě proces deinstitucionalizace a možnosti naplnění nezávislého způsobu života si poradní orgán zvolil jako jednu z&nbsp;priorit, na kterou se letos zaměří. Dále by se chtěl zabývat podporovaným rozhodováním a nastavením posudkového systému.</p>
