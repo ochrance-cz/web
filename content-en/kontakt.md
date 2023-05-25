@@ -33,7 +33,6 @@ intl:
   role: International Relations Officer
   name: Marek Kosík
   phone: +420 542 542 371
-  email: zuzana.jarabinska@ochrance.cz
-  "email ": marek.kosik@ochrance.cz
+  email: marek.kosik@ochrance.cz
 headerPic: /images/podatelna.jpg
 ---
