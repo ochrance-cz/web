@@ -47,8 +47,14 @@ gallery:
 
 <ul>
 	<li>
-	<p>April 26, 2023 - We are publishing more modules of the e-learning course on anti-discrimination law. You can find more in the press release <a href="https://www.ochrance.cz/aktualne/diskriminace_v_bydleni_vzdelavani_nebo_praci-_vyzkousejte_dalsi_casti_e-learningu_ombudsmana/">here</a>.</p>
+	<p>May 19, 2023 - We organized the second meeting of the children&#39;s participation group. School teams came to Brno - the authors of the seven best high school projects entered in our <a href="https://deti.ochrance.cz/kdo/elevator_napadem_to_zacina/">Elevator competition: it all starts with an idea</a>. You can read more about how high school students want to change the world around them <a href="https://deti.ochrance.cz/aktualne/stredoskolaci_chteji_menit_svet_kolem_sebe_dnes_nam_predstavili_sve_napady/">here</a>.</p>
 	</li>
+</ul>
+
+<p><img alt="2._participacni_skupina.png" src="2._participacni_skupina.png" /></p>
+
+<ul>
+	<li>April 26, 2023 - We are publishing more modules of the e-learning course on anti-discrimination law. You can find more in the press release <a href="https://www.ochrance.cz/aktualne/diskriminace_v_bydleni_vzdelavani_nebo_praci-_vyzkousejte_dalsi_casti_e-learningu_ombudsmana/">here</a>.</li>
 	<li>
 	<p>March 7, 2023 - &nbsp;media reports about our new e-learning course <a href="https://radiozurnal.rozhlas.cz/line-kurz-od-ombudsmana-nauci-jak-poznat-a-resit-diskriminaci-8945565">here</a>.</p>
 	</li>
