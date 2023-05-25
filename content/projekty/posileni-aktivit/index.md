@@ -49,8 +49,14 @@ gallery:
 
 <ul>
 	<li>
-	<p>26.4.2023 &ndash; Zveřejňujeme další moduly e-learningového kurzu o antidiskriminačním právu. Více informací se dozvíte v&nbsp;tiskové zprávě <a href="https://www.ochrance.cz/aktualne/diskriminace_v_bydleni_vzdelavani_nebo_praci-_vyzkousejte_dalsi_casti_e-learningu_ombudsmana/">zde</a>.</p>
+	<p>19.5.2023 &ndash; Uspořádali jsme druhé setkání dětské participační skupiny. Do Brna zavítaly školní kolektivy - autoři sedmi nejlepších středoškolských projektů přihlášených do&nbsp;naší soutěže&nbsp;<a href="https://deti.ochrance.cz/kdo/elevator_napadem_to_zacina/">Elevator: nápadem to&nbsp;začíná</a>. O tom, jak chtějí středoškoláci měnit svět kolem sebe, se dočtete více <a href="https://deti.ochrance.cz/aktualne/stredoskolaci_chteji_menit_svet_kolem_sebe_dnes_nam_predstavili_sve_napady/">zde</a>.</p>
 	</li>
+</ul>
+
+<p><img alt="2._participacni_skupina.png" src="2._participacni_skupina.png" /></p>
+
+<ul>
+	<li>26.4.2023 &ndash; Zveřejňujeme další moduly e-learningového kurzu o antidiskriminačním právu. Více informací se dozvíte v&nbsp;tiskové zprávě <a href="https://www.ochrance.cz/aktualne/diskriminace_v_bydleni_vzdelavani_nebo_praci-_vyzkousejte_dalsi_casti_e-learningu_ombudsmana/">zde</a>.</li>
 	<li>
 	<p>7.3.2023 &ndash; o našem novém e-learningovém kurzu informují média například <a href="https://radiozurnal.rozhlas.cz/line-kurz-od-ombudsmana-nauci-jak-poznat-a-resit-diskriminaci-8945565">zde</a>.</p>
 	</li>
