@@ -10,12 +10,7 @@ perex: >
   povolená a jak je zkolaudovaná. A naučíme vás klást realitnímu makléři nebo
   přímo prodejci i další důležité otázky. Video je tak přínosem pro všechny,
   kteří plánují koupi nemovitosti.</p>
-attachments:
-  - file: ""
-    title: Video Na co se ptát při koupi nemovitosti
-    link: https://youtu.be/mwFeoJ65IzU
-  - title: Leták Je Váš byt černá stavba?
-    link: https://www.ochrance.cz/letaky/je-vas-byt-cerna-stavba/byt-cerna-stavba.pdf
+attachments: []
 ---
 
 
