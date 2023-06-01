@@ -242,6 +242,10 @@ lawyers:
           osoby se zdravotním postižením)
         phone: 542 542 341
         email: zuzana.scukova@ochrance.cz
+      - name: Nikola Kovářová
+        role: právnička
+        phone: "542 542 202 "
+        email: nikola.kovarova@ochrance.cz
   - title: Odbor justice, migrace a financí
     intro: daně, cla, správní a místní poplatky, cizinecké záležitosti (víza,
       dlouhodobý pobyt, azyl, vyhoštění aj.), státní správa soudnictví (průtahy
@@ -326,10 +330,6 @@ lawyers:
         role: právník (sociálně-právní ochrana dětí, ústavní výchova, pěstounská péče)
         phone: 542 542 371
         email: marek.kosik@ochrance.cz
-      - name: Nikola Kovářová
-        role: právnička (sociálně-právní ochrana dětí, ústavní výchova, pěstounská péče)
-        phone: 542 542 202
-        email: nikola.kovarova@ochrance.cz
       - name: Zuzana Kučerová
         role: právnička (zaměstnanost, inspekce práce, správa na úseku zdravotnictví)
         phone: 542 542 293
@@ -519,10 +519,6 @@ lawyers:
         role: "právnička "
         phone: 542 542 256
         email: romana.svecova@ochrance.cz
-      - name: Veronika Vítková
-        role: "právnička "
-        phone: 725 546 632
-        email: veronika.vitkova@ochrance.cz
       - name: Alena Nosková
         phone: "542 542 273 "
         email: "alena.noskova@ochrance.cz "
