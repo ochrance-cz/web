@@ -1,7 +1,7 @@
 ---
 title: Veřejný pořádek
+illustration: verpor_tymove_foto.jpg
 headerColor: null
-illustration: verejny-poradek-02.jpg
 perex: "Zabýváme se velkou škálou témat: přestupky (dopravními i proti
   občanskému soužití), dopravně-správní agendou, která zahrnuje problematiku
   veřejných cest, ale také dopravní značení, řidičská oprávnění apod., ochranou
