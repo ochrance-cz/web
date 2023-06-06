@@ -1,7 +1,7 @@
 ---
 title: Sociální zabezpečení
+illustration: soczab_tymove_foto.jpg
 headerColor: null
-illustration: socialni-zabezpeceni.jpg
 perex: Sociální zabezpečení je nejčastějším tématem podnětů ombudsmanovi. Odbor
   sociálního zabezpečení jich vyřídí ročně okolo 1500 týkajících se důchodů a
   dávek.
