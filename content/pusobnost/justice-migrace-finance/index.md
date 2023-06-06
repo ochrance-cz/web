@@ -1,7 +1,7 @@
 ---
 title: Justice, migrace, finance
+illustration: ojmf_tymove_foto.jpg
 headerColor: null
-illustration: justice.jpg
 perex: >
   Odbor justice, migrace a financí se ročně zabývá asi 1000 podnětů ze tří
   tematických skupin: státní správa soudnictví, cizinecké právo a daně, poplatky
