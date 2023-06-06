@@ -1,6 +1,6 @@
 ---
 title: Monitorování práv lidí s postižením
-illustration: crpd_tymove_foto.jpg
+illustration: crpd_tymove_foto_2.jpg
 headerColor: yellow
 perex: "Od roku 2018 monitorujeme, jak Česká republika naplňuje práva lidí s
   postižením podle Úmluvy OSN o právech osob se zdravotním postižením. "
