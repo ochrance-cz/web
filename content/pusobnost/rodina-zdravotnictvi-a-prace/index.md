@@ -1,6 +1,6 @@
 ---
 title: Rodina, zdravotnictví a práce
-illustration: orzp_tymove_foto.jpg
+illustration: orzp_tymove_foto_2.jpg
 headerColor: null
 perex: Odbor rodiny, zdravotnictví a práce vyřídí ročně okolo 1200 podnětů, z
   nichž přibližně 50 je od dětí.
