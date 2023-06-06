@@ -1,6 +1,6 @@
 ---
 title: Rovné zacházení a diskriminace
-illustration: DIS.jpg
+illustration: dis_tymove_foto.jpg
 headerColor: orange
 perex: Od roku 2009 je ombudsman národním orgánem pro rovné zacházení a ochranu
   před diskriminací. Jeho úkolem je poskytovat obětem diskriminace metodickou
