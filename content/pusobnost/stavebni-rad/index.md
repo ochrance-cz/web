@@ -1,6 +1,6 @@
 ---
 title: Stavební řád a životní prostředí
-illustration: stavebko-03.jpg
+illustration: stavari_tymove_foto.jpg
 headerColor: green
 perex: Stavebnictví je druhou největší oblastí, kterou se ombudsman zabývá.
   Odbor stavebního řádu se však kromě stavebnictví věnuje také problematice
