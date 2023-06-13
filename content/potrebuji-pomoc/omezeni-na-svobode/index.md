@@ -50,7 +50,7 @@ Ombudsman navštěvuje zařízení pro výkon ústavní a ochranné výchovy a d
 
 [Zpráva z návštěv zařízení pro děti vyžadující okamžitou pomoc (2019) ](https://www.ochrance.cz/uploads-import/ESO/19-2015-_NZ_SZ_ZDVOP.pdf)
 
-[Zpráva z návštěv středisek výchovné péče (2013)](https://www.ochrance.cz/uploads-import/ESO/%C5%A0kolsk%C3%A1-za%C5%99%C3%ADzen%C3%AD_CZ_el-verze.pdf) 
+[Zpráva z návštěv středisek výchovné péče (2013)](https://www.ochrance.cz/uploads-import/ochrana_osob/2013/NZ-27_2012-strediska-vychovne-pece.pdf) 
 
 [Zpráva z návštěv diagnostických ústavů (2013)](https://www.ochrance.cz/uploads-import/ESO/26-2012-NZ.pdf)
 
