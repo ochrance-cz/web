@@ -64,3 +64,45 @@ title: "2023"
 <p><a href="https://www.ochrance.cz/info106/2023/11_2023_zadost.pdf">Žádost o informace</a>.</p>
 
 <p><a href="https://www.ochrance.cz/info106/2023/11_2023_odpoved.odt">Odpověď na žádost</a>.</p>
+
+<h3>12/2023 &ndash; Informace ke spisu z&nbsp;oblasti Dozor a kontrola státu nad územní samosprávou, její ochrana, územní členění</h3>
+
+<p><a href="https://www.ochrance.cz/info106/2023/12_2023_zadost.pdf">Žádost o informace</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/12_2023_odpoved.odt">Odpověď na žádost</a>.</p>
+
+<h3>14/2023 &ndash; Informace ke spisu z&nbsp;oblasti Činnost PČR</h3>
+
+<p><a href="https://www.ochrance.cz/info106/2023/14_2023_zadost.pdf">Žádost o informace</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/14_2023_odpoved.rtf">Odpověď na žádost</a>.</p>
+
+<h3>15/2023 &ndash; Informace ke spisu z&nbsp;oblasti Řízení o odstranění staveb</h3>
+
+<p><a href="https://www.ochrance.cz/info106/2023/15_2023_zadost.pdf">Žádost o informace</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/15_2023_odpoved_.odt">Odpověď na žádost</a>.</p>
+
+<h3>16/2023 -&nbsp; Informace ke spisu z&nbsp;oblasti Územní, stavební řízení, užívání stavby</h3>
+
+<p><a href="https://www.ochrance.cz/info106/2023/16_2023_zadost.pdf">Žádost o informace</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/16_2023_odpoved.odt">Odpověď na žádost</a>.</p>
+
+<h3>17/2023 &ndash; Informace z&nbsp;oblasti Vězeňství</h3>
+
+<p><a href="https://www.ochrance.cz/info106/2023/17_2023_zadost.pdf">Žádost o informace</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/17_2023_odpoved.odt">Odpověď na žádost</a>.</p>
+
+<h3>19/2023 &ndash; Informace z&nbsp;oblasti Vězeňství</h3>
+
+<p><a href="https://www.ochrance.cz/info106/2023/19_2023_zadost.pdf">Žádost o informace</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/19_2023_odpoved.odt">Odpověď na žádost</a>.</p>
+
+<h3>21/2023 &ndash; Informace z&nbsp;oblasti Vězeňství</h3>
+
+<p><a href="https://www.ochrance.cz/info106/2023/21_2023_zadost.pdf">Žádost o informace</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/21_2023_odpoved.odt">Odpověď na žádost</a>.</p>
