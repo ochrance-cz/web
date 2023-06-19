@@ -106,3 +106,33 @@ title: "2023"
 <p><a href="https://www.ochrance.cz/info106/2023/21_2023_zadost.pdf">Žádost o informace</a>.</p>
 
 <p><a href="https://www.ochrance.cz/info106/2023/21_2023_odpoved.odt">Odpověď na žádost</a>.</p>
+
+<h3>22/2023 &ndash; Informace z&nbsp;oblasti Vězeňství</h3>
+
+<p><a href="https://www.ochrance.cz/info106/2023/22_zadost.pdf">Žádost o informace</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/22_2023_odpoved.odt">Odpověď na žádost</a>.</p>
+
+<h3>24/2023 &ndash; Informace ke spisu z&nbsp;oblasti Nevhodné chování soudních osob</h3>
+
+<p><a href="https://www.ochrance.cz/info106/2023/24_2023_zadost.pdf">Žádost o informace</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/24_2023_odpoved.odt">Odpověď na žádost</a>.</p>
+
+<h3>25/2023 &ndash; Informace ke spisu z&nbsp;oblasti Ministerstvo obrany, Armáda ČR</h3>
+
+<p><a href="https://www.ochrance.cz/info106/2023/25_2023_zadost.pdf">Žádost o informace</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/25_2023_odpoved.odt">Odpověď na žádost</a>.</p>
+
+<h3>26/2023 &ndash; Informace ke spisu z&nbsp;oblasti Správa pozemních komunikací</h3>
+
+<p><a href="https://www.ochrance.cz/info106/2023/26_2023_zadost.pdf">Žádost o informace</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/26_2023_odpoved.odt">Odpověď na žádost</a>.</p>
+
+<h3>28/2023 &ndash; Informace k&nbsp;působnosti VOP</h3>
+
+<p><a href="https://www.ochrance.cz/info106/2023/28_2023_zadost.pdf">Žádost o informace</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/28_2023_odpoved.odt">Odpověď na žádost</a>.</p>
