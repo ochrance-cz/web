@@ -25,7 +25,9 @@ perex: >
 
 <h4><strong>Související užitečné odkazy</strong></h4>
 
-<p>Výzkum ombudsmana&nbsp;<a href="https://www.ochrance.cz/dokument/rodicovstvi_a_diskriminace_v_praci/">Rodičovství a diskriminace v práci</a>.&nbsp;</p>
+<p><a href="https://www.ochrance.cz/uploads-import/ESO/30-2023-DIS_M%C5%A0-final.pdf">Výzkum Těhotenství a mateřství na pracovišti</a>&nbsp;</p>
+
+<p><a href="https://www.ochrance.cz/dokument/rodicovstvi_a_diskriminace_v_praci/">Praktická příručka práva na rovné zacházení rodiče na pracovním trhu</a>&nbsp;</p>
 
 <p>Další podcasty zabývající se Rodičovstvím na pracovišti:</p>
 
