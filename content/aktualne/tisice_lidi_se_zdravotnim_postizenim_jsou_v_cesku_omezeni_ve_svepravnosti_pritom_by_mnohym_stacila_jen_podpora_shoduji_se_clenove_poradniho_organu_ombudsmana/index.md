@@ -21,6 +21,10 @@ perex: >
   o právech osob se zdravotním postižením</a>. I Výbor OSN je znepokojený, že
   občanský zákoník nadále umožňuje omezit svéprávnost a svěřit osobu se
   zdravotním postižením do částečného opatrovnictví.</p>
+attachments:
+  - file: https://www.ochrance.cz/aktualne/tisice_lidi_se_zdravotnim_postizenim_jsou_v_cesku_omezeni_ve_svepravnosti_pritom_by_mnohym_stacila_jen_podpora_shoduji_se_clenove_poradniho_organu_ombudsmana/usneseni_2023_12_k_podpurnym_opatrenim.pdf
+    title: Usnesení poradního orgánu veřejného ochránce práv pro oblast ochrany práv
+      osob se zdravotním postižením
 ---
 <p>Členové poradního orgánu se shodli, že veřejné povědomí o podpůrných opatřeních je nedostatečné. Vyzvali proto ombudsmana, aby vedl veřejné instituce, které se podílí na rozhodování o podpůrných opatřeních, k posilování ochrany lidí s&nbsp;postižením před nedůvodnými zásahy do jejich svéprávnosti právě za využití podpůrných opatření. Zároveň se sami členové zavázali, že budou šířit informace o&nbsp;možnostech podpory v&nbsp;právním jednání, které nevedou k&nbsp;zásahům do svéprávnosti člověka.<strong> </strong></p>
 
