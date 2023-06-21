@@ -22,9 +22,7 @@ perex: >
   občanský zákoník nadále umožňuje omezit svéprávnost a svěřit osobu se
   zdravotním postižením do částečného opatrovnictví.</p>
 ---
-<p>Členové poradního orgánu se shodli, že veřejné povědomí o podpůrných opatřeních je nedostatečné.</p>
-
-<p>Vyzvali proto ombudsmana, aby vedl veřejné instituce, které se podílí na rozhodování o podpůrných opatřeních, k posilování ochrany lidí s&nbsp;postižením před nedůvodnými zásahy do jejich svéprávnosti právě za využití podpůrných opatření. Zároveň se sami členové zavázali, že budou šířit informace o&nbsp;možnostech podpory v&nbsp;právním jednání, které nevedou k&nbsp;zásahům do svéprávnosti člověka.<strong> </strong></p>
+<p>Členové poradního orgánu se shodli, že veřejné povědomí o podpůrných opatřeních je nedostatečné. Vyzvali proto ombudsmana, aby vedl veřejné instituce, které se podílí na rozhodování o podpůrných opatřeních, k posilování ochrany lidí s&nbsp;postižením před nedůvodnými zásahy do jejich svéprávnosti právě za využití podpůrných opatření. Zároveň se sami členové zavázali, že budou šířit informace o&nbsp;možnostech podpory v&nbsp;právním jednání, které nevedou k&nbsp;zásahům do svéprávnosti člověka.<strong> </strong></p>
 
 <p>&bdquo;<em>Soudy stále ve velkém rozsahu přistupují k&nbsp;invazivnímu omezení svéprávnosti, i když je tato praxe dnes považována za porušení lidských práv. Soudní zásah do svéprávnosti v&nbsp;posledních letech zrušila řada zemí, včetně Rakouska, Německa, Španělska, naposledy také například Mexiko. I u nás již od roku 2014 existují jiné způsoby podpory pro lidi s&nbsp;mentálním postižením nebo duševním onemocněním, které jsou neformálnější, flexibilnější a respektují svobodnou volbu. Příkladem je nápomoc v&nbsp;rozhodování, kdy člověku v&nbsp;právním jednání pomáhá takzvaný podpůrce. Tento institut se však používá velice málo, ročně soudy schválí pouze kolem 50 smluv o nápomoci, zatímco ve svéprávnosti omezí až 10 tisíc lidí</em>,&ldquo; vysvětlil zástupce ombudsmana Vít Alexander Schorm.&nbsp;</p>
 
