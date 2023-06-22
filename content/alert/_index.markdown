@@ -5,6 +5,10 @@ active: true
 ---
 #### Na stream se připojte přes odkaz http://ochrance.livebox.cz/ejTvm4ay9EKNesuv6tWVaw.html.
 
+![](/media/program_1.png)
+
+![](/media/program_2.png)
+
 .﻿
 
 .﻿
