@@ -47,6 +47,9 @@ gallery:
 
 <ul>
 	<li>
+	<p>December 15, 2022 - for the 9th monitoring period, we publish the professional outputs of the Secretariat of the Defender and his deputy. This concerns the notification of the public defender of rights to the government of the Czech Republic. See more information here&nbsp;<a href="szd_2-2023_osoby_bez_statni_prislusnosti_.pdf">szd_2-2023_osoby_bez_statni_prislusnosti_.pdf</a>,&nbsp;<a href="szd_7-2023_neakceptace_plnych_moci_.pdf">szd_7-2023_neakceptace_plnych_moci_.pdf</a>&nbsp;and&nbsp;<a href="szd_6-2023_cinsti_krestane_.pdf">szd_6-2023_cinsti_krestane_.pdf</a>.</p>
+	</li>
+	<li>
 	<p>May 19, 2023 - We organized the second meeting of the children&#39;s participation group. School teams came to Brno - the authors of the seven best high school projects entered in our <a href="https://deti.ochrance.cz/kdo/elevator_napadem_to_zacina/">Elevator competition: it all starts with an idea</a>. You can read more about how high school students want to change the world around them <a href="https://deti.ochrance.cz/aktualne/stredoskolaci_chteji_menit_svet_kolem_sebe_dnes_nam_predstavili_sve_napady/">here</a>.</p>
 	</li>
 </ul>
