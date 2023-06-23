@@ -4,7 +4,7 @@ perex: Národní lidskoprávní instituce je nezávislá instituce určená k oc
   prosazování lidských práv. Česko je jednou z posledních zemí Evropské unie,
   kde zatím neexistuje. Jejím zřízením posílíme ochranu práv všech lidí. Bude
   sledovat dodržování lidských práv, upozorňovat na problémy a formulovat
-  doporučení k jejich nápravě. Přesto, že by nic nerozhodovala, by byla pro
+  doporučení k jejich nápravě. Přesto, že by nic nerozhodovala, byla by pro
   úřady důležitým pomocníkem. Zprostředkovávala by také dialog mezi občanskou
   společností a státní správou.
 date: ""
