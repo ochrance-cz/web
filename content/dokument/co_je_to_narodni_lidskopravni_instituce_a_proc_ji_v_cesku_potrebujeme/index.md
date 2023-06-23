@@ -11,11 +11,15 @@ date: 2023-06-23T08:36:12.241Z
 ---
 <h3><strong>Co je to národní lidskoprávní instituce (NHRI)?</strong></h3>
 
+<blockquote>
 <p>Je to nezávislá instituce, která má ochranu lidských práv stanovenou jako svou hlavní činnost. Vnitrostátně monitoruje situaci lidských práv, upozorňuje na problémy a formuluje doporučení. Odbornými názory pomáhá státu při prosazování lidských práv. Také se jí někdy říká vnitrostátní instituce pro lidská práva. K jejímu označení se často používá i anglická zkratka NHRI.</p>
+</blockquote>
 
 <h3><strong>Máme ji v&nbsp;Česku?</strong></h3>
 
+<blockquote>
 <p>Zatím ne. Její roli plní částečně ombudsman. Zatím jenom <em>někdy a někde</em>.</p>
+</blockquote>
 
 <h3><strong>Proč ji potřebujeme?</strong></h3>
 
