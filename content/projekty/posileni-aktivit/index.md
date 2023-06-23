@@ -49,6 +49,9 @@ gallery:
 
 <ul>
 	<li>
+	<p>K 15.6.2023, tj. za 9. monitorovací období, zveřejňujeme odborné výstupy sekretariátu ochránce a jeho zástupce. Jedná se o&nbsp;<a href="szd_2-2023_osoby_bez_statni_prislusnosti_.pdf">vyrozumění veřejného ochránce práv vládě ČR o nedosažení nápravy zjištěných pochybení úřadu ve věci právního postavení osob bez státní příslušnosti</a>, o <a href="szd_7-2023_neakceptace_plnych_moci_.pdf">vyrozumění veřejného ochránce práv vládě ČR o nedosažení nápravy zjištěných pochybení úřadu ve věci neakceptace plných mocí v řízení o poskytnutí mezinárodní ochrany</a> a o <a href="szd_6-2023_cinsti_krestane_.pdf">vyrozumění veřejného ochránce práv vládě ČR o nedosažení nápravy zjištěných pochybení úřadu ve věci průtahů v řízeních o udělení mezinárodní ochrany skupině tzv. čínských křesťanů</a>.</p>
+	</li>
+	<li>
 	<p>19.5.2023 &ndash; Uspořádali jsme druhé setkání dětské participační skupiny. Do Brna zavítaly školní kolektivy - autoři sedmi nejlepších středoškolských projektů přihlášených do&nbsp;naší soutěže&nbsp;<a href="https://deti.ochrance.cz/kdo/elevator_napadem_to_zacina/">Elevator: nápadem to&nbsp;začíná</a>. O tom, jak chtějí středoškoláci měnit svět kolem sebe, se dočtete více <a href="https://deti.ochrance.cz/aktualne/stredoskolaci_chteji_menit_svet_kolem_sebe_dnes_nam_predstavili_sve_napady/">zde</a>.</p>
 	</li>
 </ul>
