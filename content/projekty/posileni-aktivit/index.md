@@ -52,6 +52,9 @@ gallery:
 	<p>K 15.6.2023, tj. za 9. monitorovací období, zveřejňujeme odborné výstupy sekretariátu ochránce a jeho zástupce. Jedná se o&nbsp;<a href="szd_2-2023_osoby_bez_statni_prislusnosti_.pdf">vyrozumění veřejného ochránce práv vládě ČR o nedosažení nápravy zjištěných pochybení úřadu ve věci právního postavení osob bez státní příslušnosti</a>, o <a href="szd_7-2023_neakceptace_plnych_moci_.pdf">vyrozumění veřejného ochránce práv vládě ČR o nedosažení nápravy zjištěných pochybení úřadu ve věci neakceptace plných mocí v řízení o poskytnutí mezinárodní ochrany</a> a o <a href="szd_6-2023_cinsti_krestane_.pdf">vyrozumění veřejného ochránce práv vládě ČR o nedosažení nápravy zjištěných pochybení úřadu ve věci průtahů v řízeních o udělení mezinárodní ochrany skupině tzv. čínských křesťanů</a>.</p>
 	</li>
 	<li>
+	<p>7.6.2023 &ndash; zveřejňujeme desátou zprávu z&nbsp;následné návštěvy zařízení a to z&nbsp;Psychiatrické nemocnice Kosmonosy. Zpráva je dostupná <a href="https://www.ochrance.cz/uploads-import/ESO/NZ%2032-2022%20NF.pdf">zde</a>.</p>
+	</li>
+	<li>
 	<p>19.5.2023 &ndash; Uspořádali jsme druhé setkání dětské participační skupiny. Do Brna zavítaly školní kolektivy - autoři sedmi nejlepších středoškolských projektů přihlášených do&nbsp;naší soutěže&nbsp;<a href="https://deti.ochrance.cz/kdo/elevator_napadem_to_zacina/">Elevator: nápadem to&nbsp;začíná</a>. O tom, jak chtějí středoškoláci měnit svět kolem sebe, se dočtete více <a href="https://deti.ochrance.cz/aktualne/stredoskolaci_chteji_menit_svet_kolem_sebe_dnes_nam_predstavili_sve_napady/">zde</a>.</p>
 	</li>
 </ul>
@@ -66,11 +69,20 @@ gallery:
 	<li>
 	<p>1.3.2023 - u&nbsp;příležitosti&nbsp;Zero Discrimination Day, který připadá právě na&nbsp;1. března, spouštíme první modul on-line kurzu, který je zaměřený na antidiskriminační právo. Více se dočtete v&nbsp;tiskové zprávě <a href="https://www.ochrance.cz/aktualne/jak_poznat_a_resit_diskriminaci_naucte_se_to_v_novem_e-learningu_ombudsmana/">zde</a> a do kurzu se podíváte <a href="https://diskriminace.netventic.net/login">zde</a>.</p>
 	</li>
+	<li>
+	<p>6.2.2023 &ndash; zveřejňujeme devátou zprávu z&nbsp;následné návštěvy zařízení a to z&nbsp;Psychiatrické kliniky FN v&nbsp;Plzni. Zpráva je dostupná <a href="https://www.ochrance.cz/uploads-import/ESO/NZ%2025-2022%20final.pdf">zde</a>.</p>
+	</li>
+	<li>
+	<p>20.1.2023 &ndash; zveřejňujeme osmou zprávu z&nbsp;následné návštěvy zařízení a to z&nbsp;Domova pro osoby se zdravotním postižením Osek. Zpráva je dostupná <a href="https://www.ochrance.cz/uploads-import/ESO/NZ%2036-2021-BM%20zpr%C3%A1va.pdf">zde</a>.</p>
+	</li>
 </ul>
 
 <h2>Co jsme realizovali v roce 2022 v rámci projektu</h2>
 
 <ul>
+	<li>
+	<p>19.12.2022 - zveřejňujeme sedmou zprávu z&nbsp;následné návštěvy zařízení a to z&nbsp;Policejní cely obvodního oddělení Třebíč. Zpráva je dostupná <a href="https://www.ochrance.cz/uploads-import/ESO/OOP%20T%C5%99eb%C3%AD%C4%8D%20NZ%2018-2022-PG%20zpr%C3%A1va.pdf">zde</a>.</p>
+	</li>
 	<li>
 	<p>K 15.12.2022, tj. za 8. monitorovací období, zveřejňujeme odborné výstupy sekretariátu ochránce a jeho zástupce. Jedná se o sankční materiál na vládu (<a href="ii-material_szd-24-2022-cb_mlade_buky.pdf">neregistrované zařízení sociálních služeb Mladé Buky</a>), vyjádření vedlejšího účastníka v&nbsp;řízení před ESLP (<a href="szd_9-22_vyjadreni_k_eslp_eng.pdf">neregistrované zařízení sociálních služeb Mladé Buky</a>) a dva materiály týkající se legislativních připomínek ochránce a to <a href="63068_22_priloha_pripominky_zakon_o_vykonu_tos.pdf">novelizace zákona o výkonu trestu odnětí svobody</a> a dále tzv. <a href="55974-2022_lex_ukrajina_iv.pdf">Lex Ukrajina IV</a>.</p>
 	</li>
