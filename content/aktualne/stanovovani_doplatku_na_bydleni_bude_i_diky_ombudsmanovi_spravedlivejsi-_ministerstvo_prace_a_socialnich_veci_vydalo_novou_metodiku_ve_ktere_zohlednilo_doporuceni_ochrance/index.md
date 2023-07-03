@@ -26,5 +26,4 @@ attachments:
 
 <p>Závěry výzkumu ombudsman projednal na kulatém stole se zástupci&nbsp;úřadu práce a Ministerstva práce a sociálních věcí. Ministerstvo na základě jednání s&nbsp;ombudsmanem vydalo nový metodický pokyn, který zohledňuje doporučení z&nbsp;jeho výzkumu. Po vydání pokynu také proškolilo zaměstnance úřadu práce v&nbsp;této problematice.</p>
 
-<p><br />
-<img alt="3.png" src="https://www.ochrance.cz/aktualne/stanovovani_doplatku_na_bydleni_bude_i_diky_ombudsmanovi_spravedlivejsi-_ministerstvo_prace_a_socialnich_veci_vydalo_novou_metodiku_ve_ktere_zohlednilo_doporuceni_ochrance/3.png" /></p>
+<p><img alt="3.png" src="https://www.ochrance.cz/aktualne/stanovovani_doplatku_na_bydleni_bude_i_diky_ombudsmanovi_spravedlivejsi-_ministerstvo_prace_a_socialnich_veci_vydalo_novou_metodiku_ve_ktere_zohlednilo_doporuceni_ochrance/3.png" /><img alt="4.png" src="https://www.ochrance.cz/aktualne/stanovovani_doplatku_na_bydleni_bude_i_diky_ombudsmanovi_spravedlivejsi-_ministerstvo_prace_a_socialnich_veci_vydalo_novou_metodiku_ve_ktere_zohlednilo_doporuceni_ochrance/4.png" /></p>
