@@ -47,7 +47,7 @@ gallery:
 
 <ul>
 	<li>
-	<p>December 15, 2022 - for the 9th monitoring period, we publish the professional outputs of the Secretariat of the Defender and his deputy. This concerns the notification of the public defender of rights to the government of the Czech Republic. See more information here&nbsp;<a href="szd_2-2023_osoby_bez_statni_prislusnosti_.pdf">1</a>,&nbsp;<a href="szd_7-2023_neakceptace_plnych_moci_.pdf">2</a>&nbsp;and&nbsp;<a href="szd_6-2023_cinsti_krestane_.pdf">3</a>.</p>
+	<p>June 7, 2023 - we are publishing the ninth report from the Follow-up visit from from Kosmonosy Psychiatric Hospital. The report is available <a href="https://www.ochrance.cz/uploads-import/ESO/NZ%2032-2022%20NF.pdf">here</a>.</p>
 	</li>
 	<li>
 	<p>May 19, 2023 - We organized the second meeting of the children&#39;s participation group. School teams came to Brno - the authors of the seven best high school projects entered in our <a href="https://deti.ochrance.cz/kdo/elevator_napadem_to_zacina/">Elevator competition: it all starts with an idea</a>. You can read more about how high school students want to change the world around them <a href="https://deti.ochrance.cz/aktualne/stredoskolaci_chteji_menit_svet_kolem_sebe_dnes_nam_predstavili_sve_napady/">here</a>.</p>
@@ -64,11 +64,23 @@ gallery:
 	<li>
 	<p>March 1, 2023 - on the occasion of Zero Discrimination Day, which falls on March 1., we are launching the first module of the online course, which is focused on anti-discrimination law. You can read more in the press release <a href="https://www.ochrance.cz/aktualne/jak_poznat_a_resit_diskriminaci_naucte_se_to_v_novem_e-learningu_ombudsmana/">here</a> and view the course <a href="https://diskriminace.netventic.net/login">here</a>.</p>
 	</li>
+	<li>
+	<p>February 6, 2023 - we are publishing the ninth report from the Follow-up visit from from the Psychiatric Clinic of the University Hospital in Pilsen. The report is available <a href="https://www.ochrance.cz/uploads-import/ESO/NZ%2025-2022%20final.pdf">here</a>.</p>
+	</li>
+	<li>
+	<p>January 20, 2023 - we are publishing the eighth report from the Follow-up visit from Home for people with disabilities Osek. The report is available <a href="https://www.ochrance.cz/uploads-import/ESO/NZ%2036-2021-BM%20zpr%C3%A1va.pdf">here</a>.</p>
+	</li>
 </ul>
 
 <h2>What we implemented as part of the project in 2022</h2>
 
 <ul>
+	<li>
+	<p>December 19, 2022 - we are publishing the seventh report from the Follow-up visit from the Police cells of the district department Třebíč. The report is available <a href="https://www.ochrance.cz/uploads-import/ESO/OOP%20T%C5%99eb%C3%AD%C4%8D%20NZ%2018-2022-PG%20zpr%C3%A1va.pdf">here</a>.</p>
+	</li>
+	<li>
+	<p>December 15, 2022 - for the 9th monitoring period, we publish the professional outputs of the Secretariat of the Defender and his deputy. This concerns the notification of the public defender of rights to the government of the Czech Republic. See more information here&nbsp;<a href="szd_2-2023_osoby_bez_statni_prislusnosti_.pdf">1</a>,&nbsp;<a href="szd_7-2023_neakceptace_plnych_moci_.pdf">2</a>&nbsp;and&nbsp;<a href="szd_6-2023_cinsti_krestane_.pdf">3</a>.</p>
+	</li>
 	<li>
 	<p>December 15, 2022 - for the 8th monitoring period, we publish the professional outputs of the Secretariat of the Defender and his deputy. These are sanctions materials against the government (<a href="https://www.ochrance.cz/projekty/posileni-aktivit/ii-material_szd-24-2022-cb_mlade_buky.pdf">unregistered Mladé Buky social services facility</a>), statement of an intervener in the proceedings before the ECtHR (<a href="https://www.ochrance.cz/projekty/posileni-aktivit/szd_9-22_vyjadreni_k_eslp_eng.pdf">unregistered Mladé Buky social services facility</a>) and two materials related to the defender&#39;s legislative comments, namely <a href="https://www.ochrance.cz/projekty/posileni-aktivit/63068_22_priloha_pripominky_zakon_o_vykonu_tos.pdf">the amendment of the Act on the Execution of Imprisonment Sentences</a> and further the so-called <a href="https://www.ochrance.cz/projekty/posileni-aktivit/55974-2022_lex_ukrajina_iv.pdf">Lex Ukraine IV</a>.</p>
 	</li>
