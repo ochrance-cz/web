@@ -55,6 +55,9 @@ gallery:
 	<p>7.6.2023 &ndash; zveřejňujeme desátou zprávu z&nbsp;následné návštěvy zařízení a to z&nbsp;Psychiatrické nemocnice Kosmonosy. Zpráva je dostupná <a href="https://www.ochrance.cz/uploads-import/ESO/NZ%2032-2022%20NF.pdf">zde</a>.</p>
 	</li>
 	<li>
+	<p>6.6.2023 - zveřejňujeme&nbsp;<a href="https://www.ochrance.cz/uploads-import/ESO/16-2023-DIS-DJ-JKV_1-final.pdf">třetí projektovou monitorovací zprávu&nbsp;</a>z&nbsp;oblasti naplňování práva ochrany před diskriminací a to za rok 2022.</p>
+	</li>
+	<li>
 	<p>19.5.2023 &ndash; Uspořádali jsme druhé setkání dětské participační skupiny. Do Brna zavítaly školní kolektivy - autoři sedmi nejlepších středoškolských projektů přihlášených do&nbsp;naší soutěže&nbsp;<a href="https://deti.ochrance.cz/kdo/elevator_napadem_to_zacina/">Elevator: nápadem to&nbsp;začíná</a>. O tom, jak chtějí středoškoláci měnit svět kolem sebe, se dočtete více <a href="https://deti.ochrance.cz/aktualne/stredoskolaci_chteji_menit_svet_kolem_sebe_dnes_nam_predstavili_sve_napady/">zde</a>.</p>
 	</li>
 </ul>
