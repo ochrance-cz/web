@@ -19,6 +19,9 @@ perex: >
 attachments:
   - file: https://www.ochrance.cz/aktualne/stanovovani_doplatku_na_bydleni_bude_i_diky_ombudsmanovi_spravedlivejsi-_ministerstvo_prace_a_socialnich_veci_vydalo_novou_metodiku_ve_ktere_zohlednilo_doporuceni_ochrance/infografika_obvykle_najemne.pdf
     title: Infografika Doporučení pro praxi stanovování obvyklého nájemného
+  - file: https://www.ochrance.cz/uploads-import/ESO/obvykl%C3%A9%20n%C3%A1jemn%C3%A9_v%C3%BDzkumn%C3%A1%20zpr%C3%A1va.pdf
+    title: Výzkum Analýza stanovování obvyklého nájemného v praxi úřadů práce při
+      rozhodování o doplatku na bydlení
 ---
 <p>Doplatek na bydlení je dávkou pomoci v hmotné nouzi, jejímž primárním účelem je zajistit rodinám finanční pomoc s úhradou nákladů na bydlení. Částka doplatku na bydlení závisí na tom, do jaké výše úřad práce započítá skutečně hrazené nájemné. Skutečnou výši nájemného může úřad práce zohlednit jen do výše tzv. nájemného v&nbsp;místě obvyklého, které se platí za srovnatelný byt v domě ve srovnatelném místě a v obdobných dalších podmínkách. Pro účely doplatku na bydlení úřad práce musí mít k dispozici nejméně tři srovnatelné údaje o nájemném. Ty získává obvykle ze spisů jiných klientů, kteří pobírají dávky na bydlení.</p>
 
