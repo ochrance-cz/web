@@ -1,12 +1,9 @@
 ---
 title: Co je to národní lidskoprávní instituce a proč ji v Česku potřebujeme?
-perex: Národní lidskoprávní instituce je nezávislá instituce určená k ochraně a
-  prosazování lidských práv. Česko je jednou z posledních zemí Evropské unie,
-  kde zatím neexistuje. Jejím zřízením posílíme ochranu práv všech lidí. Bude
-  sledovat dodržování lidských práv, upozorňovat na problémy a formulovat
-  doporučení k jejich nápravě. Přesto, že by nic nerozhodovala, byla by pro
-  úřady důležitým pomocníkem. Zprostředkovávala by také dialog mezi občanskou
-  společností a státní správou.
+perex: Česko se stává výjimkou v Evropské unii bez vlastní národní lidskoprávní
+  instituce. Jedná se o nezávislou instituci určenou k ochraně a prosazování
+  lidských práv. Článek vysvětluje, proč ji v Česku potřebujeme, a jak by mohla
+  přispět k ochraně práv všech lidí.
 date: ""
 ---
 <h3><strong>Co je to národní lidskoprávní instituce (NHRI)?</strong></h3>
