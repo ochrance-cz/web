@@ -50,6 +50,9 @@ gallery:
 	<p>June 7, 2023 - we are publishing the ninth report from the Follow-up visit from from Kosmonosy Psychiatric Hospital. The report is available <a href="https://www.ochrance.cz/uploads-import/ESO/NZ%2032-2022%20NF.pdf">here</a>.</p>
 	</li>
 	<li>
+	<p>June 6, 2023 &ndash; we are publishing&nbsp;the <a href="https://www.ochrance.cz/uploads-import/ESO/16-2023-DIS-DJ-JKV_1-final.pdf">second project monitoring report&nbsp;</a>in the area of fulfilling the right to protection against discrimination for the year 2022.</p>
+	</li>
+	<li>
 	<p>May 19, 2023 - We organized the second meeting of the children&#39;s participation group. School teams came to Brno - the authors of the seven best high school projects entered in our <a href="https://deti.ochrance.cz/kdo/elevator_napadem_to_zacina/">Elevator competition: it all starts with an idea</a>. You can read more about how high school students want to change the world around them <a href="https://deti.ochrance.cz/aktualne/stredoskolaci_chteji_menit_svet_kolem_sebe_dnes_nam_predstavili_sve_napady/">here</a>.</p>
 	</li>
 </ul>
