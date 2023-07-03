@@ -17,7 +17,7 @@ perex: >
 
   <p>&nbsp;</p>
 attachments:
-  - file: https://www.ochrance.cz/aktualne/ombudsman_u_uradu_prace_zjistoval_jak_urcuje_vysi_obvykleho_najemneho_potrebnou_pro_stanoveni_doplatku_na_bydleni-_doporucuje_mu_postupovat_jednotne/infografika_obvykle_najemne.pdf
+  - file: https://www.ochrance.cz/aktualne/stanovovani_doplatku_na_bydleni_bude_i_diky_ombudsmanovi_spravedlivejsi-_ministerstvo_prace_a_socialnich_veci_vydalo_novou_metodiku_ve_ktere_zohlednilo_doporuceni_ochrance/infografika_obvykle_najemne.pdf
     title: Infografika Doporučení pro praxi stanovování obvyklého nájemného
 ---
 <p>Doplatek na bydlení je dávkou pomoci v hmotné nouzi, jejímž primárním účelem je zajistit rodinám finanční pomoc s úhradou nákladů na bydlení. Částka doplatku na bydlení závisí na tom, do jaké výše úřad práce započítá skutečně hrazené nájemné. Skutečnou výši nájemného může úřad práce zohlednit jen do výše tzv. nájemného v&nbsp;místě obvyklého, které se platí za srovnatelný byt v domě ve srovnatelném místě a v obdobných dalších podmínkách. Pro účely doplatku na bydlení úřad práce musí mít k dispozici nejméně tři srovnatelné údaje o nájemném. Ty získává obvykle ze spisů jiných klientů, kteří pobírají dávky na bydlení.</p>
@@ -26,4 +26,5 @@ attachments:
 
 <p>Závěry výzkumu ombudsman projednal na kulatém stole se zástupci&nbsp;úřadu práce a Ministerstva práce a sociálních věcí. Ministerstvo na základě jednání s&nbsp;ombudsmanem vydalo nový metodický pokyn, který zohledňuje doporučení z&nbsp;jeho výzkumu. Po vydání pokynu také proškolilo zaměstnance úřadu práce v&nbsp;této problematice.</p>
 
-<p><img alt="3.png" src="https://www.ochrance.cz/aktualne/ombudsman_u_uradu_prace_zjistoval_jak_urcuje_vysi_obvykleho_najemneho_potrebnou_pro_stanoveni_doplatku_na_bydleni-_doporucuje_mu_postupovat_jednotne/3.png" /><img alt="4.png" src="https://www.ochrance.cz/aktualne/ombudsman_u_uradu_prace_zjistoval_jak_urcuje_vysi_obvykleho_najemneho_potrebnou_pro_stanoveni_doplatku_na_bydleni-_doporucuje_mu_postupovat_jednotne/4.png" /></p>
+<p><br />
+<img alt="3.png" src="https://www.ochrance.cz/aktualne/stanovovani_doplatku_na_bydleni_bude_i_diky_ombudsmanovi_spravedlivejsi-_ministerstvo_prace_a_socialnich_veci_vydalo_novou_metodiku_ve_ktere_zohlednilo_doporuceni_ochrance/3.png" /></p>
