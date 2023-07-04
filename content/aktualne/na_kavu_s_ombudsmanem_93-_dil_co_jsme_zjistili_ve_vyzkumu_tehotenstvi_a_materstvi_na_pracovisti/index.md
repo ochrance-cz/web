@@ -36,7 +36,7 @@ perex: >
 	<li><a href="https://www.ochrance.cz/aktualne/na_kavu_s_ombudsmanem_58-_dil_rodice_na_pracovnim_trhu_ii/">Rodiče na pracovním trhu II</a></li>
 </ul>
 
-<p>V příštím podcastu vysvětlíme, co je to datová schránka.</p>
+<p>S dalším podcastem se vrátíme až po prázdninách. Připravujeme díl, ve kterém vysvětlíme, co je to datová schránka.</p>
 
 <p>&nbsp;</p>
 
