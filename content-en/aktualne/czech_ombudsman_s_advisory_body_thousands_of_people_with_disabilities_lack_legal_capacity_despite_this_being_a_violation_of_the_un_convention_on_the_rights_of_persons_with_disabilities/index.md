@@ -1,7 +1,7 @@
 ---
-title: "Czech Ombudsman´s Advisory Body: Thousands of People with Disabilities
-  Lack Legal Capacity, despite this Being a Violation of the UN Convention on
-  the Rights of Persons with Disabilities"
+title: "Czech Ombudsman´s Advisory Body: Thousands of people with disabilities
+  lack full legal capacity in violation with the UN Convention on the Rights of
+  Persons with Disabilities"
 date: 2023-07-03T16:38:45.610Z
 vystupy:
   - news
