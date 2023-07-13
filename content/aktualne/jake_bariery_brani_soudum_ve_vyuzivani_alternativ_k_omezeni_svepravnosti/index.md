@@ -4,7 +4,7 @@ date: 2023-07-13T07:06:16.968Z
 vystupy:
   - tz
 perex: >
-  <p>Dnes jsme navázali na naše aktivity v&nbsp;oblasti podpory lidem
+  <p>Navázali jsme na naše aktivity v&nbsp;oblasti podpory lidem
   s&nbsp;postižením v&nbsp;právním jednání. Na půdě Kanceláře ombudsmana se
   uskutečnilo zasedání odborné skupiny Úřadu vlády věnující se lidem
   s&nbsp;omezenou schopností právně jednat. Diskutovali zejména o tom, proč se
