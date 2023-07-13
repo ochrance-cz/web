@@ -12,7 +12,7 @@ perex: >
   jednání, které nejsou spojeny se zásahem do svéprávnosti. &bdquo;<em>Při
   rozhodování o omezení svéprávnosti musí každý soud odůvodnit, proč nezvolil
   mírnější opatření,</em><em>&ldquo; </em>upozornil soudce&nbsp;Nejvyššího soudu
-  Lubomír Ptáček</p>
+  Lubomír Ptáček.</p>
 ---
 <p>Odborná skupina usiluje o zvyšování povědomí o potřebnosti změny v&nbsp;oblasti svéprávnosti a opatrovnictví a navrhuje konkrétní kroky k&nbsp;posílení ochrany zvláště zranitelných lidí, kteří dnes nejčastěji od soudů odcházejí s&nbsp;omezenou svéprávností.&nbsp;</p>
 
