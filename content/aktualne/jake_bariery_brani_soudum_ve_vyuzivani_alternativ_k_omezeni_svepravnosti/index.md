@@ -7,8 +7,8 @@ perex: >
   <p>Navázali jsme na naše aktivity v&nbsp;oblasti podpory lidem
   s&nbsp;postižením v&nbsp;právním jednání. Na půdě Kanceláře ombudsmana se
   uskutečnilo zasedání odborné skupiny Úřadu vlády věnující se lidem
-  s&nbsp;omezenou schopností právně jednat. Diskutovali zejména o tom, proč se
-  více nevyužívají způsoby podpory lidí s&nbsp;postižením v&nbsp;právním
+  s&nbsp;omezenou schopností právně jednat. Členové diskutovali zejména o tom,
+  proč se více nevyužívají způsoby podpory lidí s&nbsp;postižením v&nbsp;právním
   jednání, které nejsou spojeny se zásahem do svéprávnosti. &bdquo;<em>Při
   rozhodování o omezení svéprávnosti musí každý soud odůvodnit, proč nezvolil
   mírnější opatření,</em><em>&ldquo; </em>upozornil soudce&nbsp;Nejvyššího soudu
