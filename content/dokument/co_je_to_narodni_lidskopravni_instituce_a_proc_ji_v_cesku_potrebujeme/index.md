@@ -32,7 +32,7 @@ date: ""
 
 <h3><strong>Musí stát chránit lidská práva?</strong></h3>
 
-<p><img alt="19.png" src="https://www.ochrance.cz/dokument/co_je_to_narodni_lidskopravni_instituce_a_proc_ji_v_cesku_potrebujeme/19.png" /></p>
+<p><img alt="nhri_web_obrazky_1_.png" src="https://www.ochrance.cz/dokument/co_je_to_narodni_lidskopravni_instituce_a_proc_ji_v_cesku_potrebujeme/nhri_web_obrazky_1_.png" /></p>
 
 <blockquote>
 <p>Ano. Stát musí chránit a prosazovat lidská práva. Stát má povinnost aktivně přispívat k&nbsp;jejich naplňování v&nbsp;praxi. Musí například přijímat různá opatření. K&nbsp;tomu vytváří vhodné mechanismy ochrany lidských práv, jako jsou soudy, policie, ministerstva a další úřady.</p>
