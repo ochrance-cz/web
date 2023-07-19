@@ -18,7 +18,7 @@ date: ""
 <p>Zatím ne. Její roli plní částečně ombudsman. Zatím jenom <em>někdy a někde</em>.</p>
 </blockquote>
 
-<h3><strong>Proč ji potřebujeme?</strong></h3>
+<h3><img alt="13.png" src="https://www.ochrance.cz/dokument/co_je_to_narodni_lidskopravni_instituce_a_proc_ji_v_cesku_potrebujeme/13.png" /><strong>Proč ji potřebujeme?</strong></h3>
 
 <blockquote>
 <p>Aby nestranně chránila lidská práva všech <em>vždy a všude</em>. Každý člověk má lidská práva. Provází ho v&nbsp;každodenních situacích (na úřadě, u lékaře, v&nbsp;zaměstnání, na poště).&nbsp; A nenechme se zmást &ndash; ani dnes nejsou lidská práva samozřejmostí. Musíme je bránit, aby nezůstávala jenom na papíře. Nebo dokonce, abychom o ně nepřišli. Je potřeba, aby na dodržování lidských práv dohlížela uceleně jedna instituce. Tento závazek by měla sledovat právě národní&nbsp;lidskoprávní instituce. Národní&nbsp;lidskoprávní instituce hodnotí každou aktivitu státu z&nbsp;pohledu lidských práv. Připomíná důležitost lidských práv státu i veřejnosti. Zohledňuje názory různých skupin společnosti.</p>
@@ -36,13 +36,13 @@ date: ""
 <p>Ne. Soudy sice zajišťují ochranu lidských práv, ale nepůsobí preventivně. K&nbsp;soudům se zdaleka nedostanou všechny spory. Řeší jen případy těch, kteří se na ně obracejí, což je pouze část společnosti. Problémy tedy řeší nahodile.</p>
 </blockquote>
 
-<h3><strong>A co policie nebo ministerstva? </strong></h3>
+<h3><img alt="14.png" src="https://www.ochrance.cz/dokument/co_je_to_narodni_lidskopravni_instituce_a_proc_ji_v_cesku_potrebujeme/14.png" /><strong>A co policie nebo ministerstva? </strong></h3>
 
 <blockquote>
 <p>Policie, ministerstva a další úřady mají také chránit lidská práva. Na rozdíl od soudů ale nejsou nezávislé. Jejich činnost mohou ovlivňovat zájmy vládnoucí politické reprezentace. Někdy problémy přehlížejí a nereagují dost rychle.</p>
 </blockquote>
 
-<h3><strong>S&nbsp;čím nám tedy pomůže národní lidskoprávní instituce?</strong></h3>
+<h3><img alt="16.png" src="https://www.ochrance.cz/dokument/co_je_to_narodni_lidskopravni_instituce_a_proc_ji_v_cesku_potrebujeme/16.png" /><strong>S&nbsp;čím nám tedy pomůže národní lidskoprávní instituce?</strong></h3>
 
 <blockquote>
 <p>Národní lidskoprávní instituce vhodně doplní stávající systém ochrany. Plní funkci hlídacího psa lidských práv. Sleduje dodržování lidských práv a upozorňuje na jejich porušování. Je důležitým pomocníkem pro vládu a ministerstva. Zároveň funguje jako spojovací most mezi občanskou společností a státní správou.</p>
@@ -72,7 +72,7 @@ date: ""
 <p>V&nbsp;demokratických státech je už zastřešující národní lidskoprávní instituce standardem. Jejich zakládání podporuje i OSN. Dokonce vydala soubor pravidel, tzv. <a href="https://www.ohchr.org/en/instruments-mechanisms/instruments/principles-relating-status-national-institutions-paris">Pařížské principy</a>, které by nezávislé instituce měly naplňovat. Česká republika patří mezi poslední 3 členské státy Evropské unie, které dosud takovou nezávislou instituci nezřídily. Jsme za to na mezinárodní úrovni často kritizováni.</p>
 </blockquote>
 
-<h3><strong>Co jsou to vlastně lidská práva?</strong></h3>
+<h3><img alt="15.png" src="https://www.ochrance.cz/dokument/co_je_to_narodni_lidskopravni_instituce_a_proc_ji_v_cesku_potrebujeme/15.png" /><strong>Co jsou to vlastně lidská práva?</strong></h3>
 
 <blockquote>
 <p>Jsou to základní práva a svobody a jsou to ta nejzákladnější práva každého z&nbsp;nás. Zaručuje je u nás <a href="https://www.psp.cz/docs/laws/listina.html">Listina základních práv a svobod</a>. <a href="https://30lidskychprav.cz/">Znáte svá práva?</a></p>
