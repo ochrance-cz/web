@@ -7,7 +7,7 @@ perex: >
   <p>Ombudsman je znepokojený situací lidí, kteří aktuálně řeší
   s&nbsp;cestovními kancelářemi své problémy se zájezdy na Rhodos. Rozhodl se
   jim proto preventivně pomoct a shrnuje základní postupy, které ve své situaci
-  mohou lidé využít.</p>
+  mohou lidé využít.&nbsp;</p>
 attachments:
   - title: Infografika v PDF
     file: https://www.ochrance.cz/aktualne/mate_koupeny_zajezd_na_rhodos_ombudsman_radi_jak_postupovat/jak_postupovat_u_zajezdu_na_rhodos.pdf
