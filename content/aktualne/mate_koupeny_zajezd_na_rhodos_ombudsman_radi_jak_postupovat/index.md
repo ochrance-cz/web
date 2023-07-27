@@ -33,3 +33,5 @@ attachments:
 <p>Ombudsman se snaží pomáhat informováním preventivně. Do jeho kompetencí nepatří prověřování postupů cestovních kanceláří. Více v&nbsp;informačním letáku <a href="https://www.ochrance.cz/letaky/ochrana-spotrebitele/ochrana-spotrebitele.pdf">Ochrana spotřebitele</a>.</p>
 
 <p><img alt="rhodos_infograf..png" src="https://www.ochrance.cz/aktualne/mate_koupeny_zajezd_na_rhodos_ombudsman_radi_jak_postupovat/rhodos_infograf..png" /></p>
+
+<p><img alt="2._prispevek.png" src="https://www.ochrance.cz/aktualne/mate_koupeny_zajezd_na_rhodos_ombudsman_radi_jak_postupovat/2._prispevek.png" /></p>
