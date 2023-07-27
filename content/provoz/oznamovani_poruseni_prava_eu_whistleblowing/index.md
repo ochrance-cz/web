@@ -1,13 +1,13 @@
 ---
-title: Oznamování porušení práva EU (Whistleblowing)
+title: Oznamování protiprávního jednání (Whistleblowing)
 ---
-<h3>Oznamovaní porušení práva Unie dle <a href="https://eur-lex.europa.eu/legal-content/CS/TXT/PDF/?uri=CELEX:32019L1937&amp;from=NL">směrnice Evropského parlamentu a Rady (EU) 2019/1937 ze dne 23. října 2019 o ochraně osob, které oznamují porušení práva Unie</a></h3>
+<h3>Oznamovaní porušení práva Unie dle <a href="https://eur-lex.europa.eu/legal-content/CS/TXT/PDF/?uri=CELEX:32019L1937&amp;from=NL">směrnice Evropského parlamentu a Rady (EU) 2019/1937 ze dne 23. října 2019 o ochraně osob, které oznamují porušení práva Unie</a>&nbsp;a&nbsp;<a href="https://www.zakonyprolidi.cz/cs/2023-171">zákona č. 171/2023 Sb., o ochraně oznamovatelů</a></h3>
 
-<p>Oznámení o porušení práva Unie lze v&nbsp;Kanceláři veřejného ochránce práv podat pověřenkyni pro ochranu osobních údajů (dále jen &bdquo;pověřenkyně&ldquo;), kterou je JUDr. Veronika Gabrišová, vedoucí odboru veřejného pořádku a místní správy. &nbsp;&nbsp;</p>
+<p>Oznámení o protiprávním jednání k němuž došlo nebo má dojít v Kanceláří veřejného ochránce práv lze podat pověřenkyni pro ochranu osobních údajů (dále jen &bdquo;pověřenkyně&ldquo;), kterou je JUDr. Veronika Gabrišová, vedoucí odboru veřejného pořádku a místní správy. &nbsp;&nbsp;</p>
 
 <p>&nbsp;</p>
 
-<p>Oznámení lze podat ústně nebo písemně (elektronicky či v&nbsp;listinné podobě). Požádá-li o to oznamovatel, je pověřenkyně povinna oznámení přijmout osobně v&nbsp;přiměřené lhůtě, nejdéle však do 30 dnů.</p>
+<p>Oznámení lze podat ústně nebo písemně (elektronicky či v&nbsp;listinné podobě). Požádá-li o to oznamovatel, je pověřenkyně povinna oznámení přijmout osobně v&nbsp;přiměřené lhůtě, nejdéle však do 14 dnů.</p>
 
 <p>&nbsp;</p>
 
@@ -25,8 +25,8 @@ title: Oznamování porušení práva EU (Whistleblowing)
 
 <p>&nbsp;</p>
 
-<p>Oznámení o porušení práva Unie lze podat i ministerstvu spravedlnosti prostřednictvím zabezpečeného <a href="https://oznamovatel.justice.cz/chci-podat-oznameni/">formuláře</a> pro učinění oznámení.</p>
+<p>Oznámení o protiprávním jednání lze podat i ministerstvu spravedlnosti prostřednictvím zabezpečeného <a href="https://oznamovatel.justice.cz/chci-podat-oznameni/">formuláře</a> pro učinění oznámení.</p>
 
 <p>&nbsp;</p>
 
-<p>Postup při přijímání a vyřizování oznámení se řídí <a href="https://eur-lex.europa.eu/legal-content/CS/TXT/PDF/?uri=CELEX:32019L1937&amp;from=NL">směrnicí Evropského parlamentu a Rady (EU) 2019/1937 ze dne 23. října 2019 o ochraně osob, které oznamují porušení práva Unie</a> a <a href="smernice_c._2-2022_vnitrni_oznamovaci_system.pdf">směrnicí vedoucího Kanceláře veřejného ochránce práv č. 2/2022, Vnitřní oznamovací systém</a>.</p>
+<p>Postup při přijímání a vyřizování oznámení se řídí&nbsp;<a href="https://www.zakonyprolidi.cz/cs/2023-171">zákonem č. 171/2023 Sb., o ochraně oznamovatelů</a>&nbsp;a <a href="smernice_c._5_2023.pdf">směrnicí vedoucího Kanceláře veřejného ochránce práv č. 5/2023, Vnitřní oznamovací systém</a>.</p>
