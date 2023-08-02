@@ -174,10 +174,6 @@ lawyers:
           exekuční činností)
         phone: 542 542 325
         email: tereza.nemcova-caslavska@ochrance.cz
-      - name: Anna Slováčková
-        role: právnička (pozemkové právo)
-        phone: 542 542 383
-        email: anna.slovackova@ochrance.cz
       - name: David Vávra
         role: právník (katastr nemovitostí, pozemkové úřady)
         phone: 542 542 324
