@@ -5,13 +5,13 @@ date: 2023-08-04T11:11:25.042Z
 vystupy:
   - tz
 perex: >
-  <p><strong>Veřejný ochránce práv ocenil snahu Ministerstva životního prostředí
-  posílit v novele zákona o ochraně ovzduší ochranu životního prostředí. <a
+  <p>Veřejný ochránce práv ocenil snahu Ministerstva životního prostředí posílit
+  v novele zákona o ochraně ovzduší ochranu životního prostředí. <a
   href="https://odok.cz/portal/veklep/material/ALBSCRGHEMYG/">Návrh</a> počítá
   mimo jiné se širším zapojením veřejnosti do povolovacích procesů
   problematických zdrojů znečištění ovzduší. Ombudsman se ale zároveň obává o
   další osud novely. Navrhované změny se totiž nelíbí některým organizacím a
-  institucím. Ty se v&nbsp;připomínkách postavily proti. </strong></p>
+  institucím. Ty se v&nbsp;připomínkách postavily proti.</p>
 ---
 <p><em>&bdquo;Ochrana životního prostředí je důležitou úlohou státu. Dobrá kvalita ovzduší a snižování zdravotních rizik spojených se znečištěným ovzduším patří mezi programové priority vlády,</em>&ldquo; připomněl ombudsman Stanislav Křeček. Proto přivítal i snahu Ministerstva životního prostředí uvést tyto závazky do praxe. <em>&bdquo;Jsem rád, že díky aktuálnímu návrhu ministerstva by mohly organizace zaměřené na ochranu životního prostředí nebo veřejného zdraví hájit tyto zájmy ve více&nbsp;případech možného ohrožení kvality ovzduší než dosud,&ldquo; </em>vyjádřil ombudsman svou podporu návrhu ministerstva.</p>
 
