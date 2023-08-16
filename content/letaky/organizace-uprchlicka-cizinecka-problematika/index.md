@@ -8,4 +8,6 @@ attachments:
     title: anglicky
   - title: turecky
     file: yabancilar-ve-multeciler-konulariyla-ilgilenen-kuruluslar.pdf
+  - title: paštunsky
+    file: organizations_providing_legal_assistance_to_foreigners_and_refugees_in_the_czech_republic_pash.pdf
 ---
