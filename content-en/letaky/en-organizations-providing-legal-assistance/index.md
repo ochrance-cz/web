@@ -7,6 +7,7 @@ file: en-organizations-providing-legal-assistance.pdf
 attachments:
   - title: Turkish
     file: https://www.ochrance.cz/en/letaky/yabancilar_ve_multeciler_konulariyla_ilgilenen_kuruluslar/yabancilar-ve-multeciler-konulariyla-ilgilenen-kuruluslar.pdf
+    link: ""
   - title: Pash
     file: organizations_providing_legal_assistance_to_foreigners_and_refugees_in_the_czech_republic_pash.pdf
 ---
