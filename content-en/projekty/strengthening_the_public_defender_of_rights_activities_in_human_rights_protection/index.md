@@ -47,6 +47,12 @@ gallery:
 
 <ul>
 	<li>
+	<p>June 23, 2023 - you can read the results of extensive research by the Public Defender of Rights on the topic of pregnancy and maternity at the workplace in the <a href="https://www.ochrance.cz/aktualne/zeny_v_cesku_se_kvuli_tehotenstvi_a_materstvi_setkavaji_v_praci_s_mnohymi_barierami_potvrdil_vyzkum_verejneho_ochrance_prav/">press release</a>. We also publish the <a href="survey_report_pregnancy_and_maternity_at_the_workplace.pdf">survey report</a>.</p>
+	</li>
+	<li>
+	<p>June 7, 2023 - for the 9th monitoring period, we publish the professional outputs of the secretariat of the defender and his deputy. This concerns the notification of the public defender of rights to the government of the Czech Republic about the failure to remedy the established errors of the office in the matter of the legal status of stateless persons, the notification of the public defender of rights to the government of the Czech Republic about the failure to remedy the detected errors of the office in the matter of the non-acceptance of full powers in the procedure for granting international protection and the notification of the public defender of rights to the government of the Czech Republic about the failure to remedy the detected errors of the office in the matter of delays in the proceedings for the granting of international protection to a group of so-called Chinese Christians.</p>
+	</li>
+	<li>
 	<p>June 7, 2023 - we are publishing the ninth report from the Follow-up visit from from Kosmonosy Psychiatric Hospital. The report is available <a href="https://www.ochrance.cz/uploads-import/ESO/NZ%2032-2022%20NF.pdf">here</a>.</p>
 	</li>
 	<li>
