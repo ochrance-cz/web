@@ -49,6 +49,9 @@ gallery:
 
 <ul>
 	<li>
+	<p>23.6.2023 &ndash; jaké jsou výsledky rozsáhlého výzkumu veřejného ochránce práv na téma těhotenství a mateřství na pracovišti se můžete dočíst v&nbsp;<a href="https://www.ochrance.cz/aktualne/zeny_v_cesku_se_kvuli_tehotenstvi_a_materstvi_setkavaji_v_praci_s_mnohymi_barierami_potvrdil_vyzkum_verejneho_ochrance_prav/">tiskové zprávě</a>. Zveřejňujeme i samotnou <a href="vyzkumna_zprava_tehotenstvi_a_materstvi_na_pracovisti.pdf">výzkumnou zprávu</a>.</p>
+	</li>
+	<li>
 	<p>K 15.6.2023, tj. za 9. monitorovací období, zveřejňujeme odborné výstupy sekretariátu ochránce a jeho zástupce. Jedná se o&nbsp;<a href="szd_2-2023_osoby_bez_statni_prislusnosti_.pdf">vyrozumění veřejného ochránce práv vládě ČR o nedosažení nápravy zjištěných pochybení úřadu ve věci právního postavení osob bez státní příslušnosti</a>, o <a href="szd_7-2023_neakceptace_plnych_moci_.pdf">vyrozumění veřejného ochránce práv vládě ČR o nedosažení nápravy zjištěných pochybení úřadu ve věci neakceptace plných mocí v řízení o poskytnutí mezinárodní ochrany</a> a o <a href="szd_6-2023_cinsti_krestane_.pdf">vyrozumění veřejného ochránce práv vládě ČR o nedosažení nápravy zjištěných pochybení úřadu ve věci průtahů v řízeních o udělení mezinárodní ochrany skupině tzv. čínských křesťanů</a>.</p>
 	</li>
 	<li>
