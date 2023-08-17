@@ -2,6 +2,8 @@
 title: Kontakty
 type: kontakty
 sections:
+  - title: Potřebujete poradit? Zavolejte na naši infolinku 542 542 888.
+    intro: Po–pá 8.00–16.00 hod.
   - title: Veřejný ochránce práv
     intro: |-
       **JUDr. Stanislav Křeček**  
