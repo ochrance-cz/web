@@ -11,4 +11,6 @@ Jana Šamánková, Barbora Kubíková (eds.)
 
 Děkujeme všem kolegům a odborníkům, kteří nám poskytli cenné připomínky, zejména Michaele Bejčkové, Marii Kmecové a Jiřímu Lifkovi.
 
-Připomínky nám, prosíme, posílejte na [srozumitelnost@ochrance.cz](mailto:srozumitelnost@ochrance.cz)
+Připomínky nám, prosíme, posílejte na [srozumitelnost@ochrance.cz](mailto:srozumitelnost@ochrance.cz).
+
+Tato práce byla částečně financována grantem GAČR 19-19191S.
