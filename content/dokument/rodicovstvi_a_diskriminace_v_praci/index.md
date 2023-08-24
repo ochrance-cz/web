@@ -8,6 +8,6 @@ attachmentsTop: []
 attachments:
   - title: Rodičovství a diskriminace v práci
     file: https://www.ochrance.cz/uploads-import/ESO/rodicovstvi-a-diskriminace-doporuceni.pdf
-  - file: https://www.ochrance.cz/dokument/rodicovstvi_a_diskriminace_v_praci/parenthood-and-discrimination-recommendation.pdf
+  - file: https://www.ochrance.cz/uploads-import/ESO/parenthood-and-discrimination-recommendation.pdf
     title: Parenthood and discrimination at work
 ---
