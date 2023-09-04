@@ -4,14 +4,6 @@ type: kontakty
 sections:
   - title: Potřebujete poradit? Zavolejte na naši infolinku 542 542 888.
     intro: Po–pá 8.00–16.00 hod.
-  - title: Veřejný ochránce práv
-    intro: |-
-      **JUDr. Stanislav Křeček**  
-      veřejný ochránce práv
-  - title: Zástupce veřejného ochránce práv
-    intro: |-
-      **JUDr. Vít Alexander Schorm**\
-      zástupce veřejného ochránce práv
   - title: Sekretariát veřejného ochránce práv a jeho zástupce
     intro: >-
       **Sekretariát veřejného ochránce práv**\
@@ -38,7 +30,7 @@ sections:
       e-mail: miroslav.pridal@ochrance.cz
 
 
-      ### **Právní asistenti veřejného ochránce práv**
+      ### **Právní asistenti veřejného ochránce práv a jeho zástupce**
 
 
       **Miroslav Frýdek**\
@@ -356,10 +348,10 @@ lawyers:
         role: právnička (sociálně-právní ochrana dětí, pěstounská péče, ústavní výchova)
         phone: 542 542 668
         email: "veronika.capkova@ochrance.cz "
-      - name: Michaela Přetáková
+      - name: Michaela Sedláčková
         role: právnička (správa na úseku zdravotnictví)
         phone: 542 542 333
-        email: michaela.pretakova@ochrance.cz
+        email: michaela.sedlackova@ochrance.cz
   - title: Odbor rovného zacházení
     intro: >
       poskytování metodické pomoci obětem diskriminace, provádění výzkumu v
@@ -479,16 +471,16 @@ lawyers:
         role: právnička
         phone: 542 542 306
         email: jana.tuckova@ochrance.cz
+      - name: Anna Makarenko
+        role: právnička
+        phone: "anna.makarenko@ochrance.cz "
+        email: 542 542 269
   - title: Odbor ochrany práv osob se zdravotním postižením
     people:
       - name: Romana Jakešová
         role: vedoucí odboru
         phone: 542 542 339
         email: romana.jakesova@ochrance.cz
-      - name: Zuzana Durajová
-        role: právnička
-        phone: 542 542 201
-        email: zuzana.durajova@ochrance.cz
       - name: Petra Hadwigerová
         role: právnička
         phone: 542 542 399
@@ -521,6 +513,10 @@ lawyers:
         role: právnička
         phone: 542 542 255
         email: "nicole.frycova@ochrance.cz "
+      - name: Karel Lach
+        role: právník
+        phone: 542 542 201
+        email: karel.lach@ochrance.cz
   - title: Odbor metodiky a analýzy
     people:
       - name: Jaroslav Švoma
@@ -543,10 +539,6 @@ lawyers:
         role: "právnička "
         phone: 542 542 313
         email: jana.peckovahodeckova@ochrance.cz
-      - name: Barbora Kubíková
-        role: právnička
-        phone: 542 542 356
-        email: barbora.kubikova@ochrance.cz
   - title: Úsek výzkumu
     people:
       - name: Jakub Konečný
