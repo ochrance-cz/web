@@ -49,7 +49,7 @@ attachments:
 
 <p>Na třetí monitorovací zprávu bude navazovat již závěrečná monitorovací zpráva. V&nbsp;ní veřejný ochránce práv shrne vývoj ve sledovaných oblastech za celé monitorovací období let 2020 až 2023. Doporučí také, jaká opatření by bylo vhodné přijmout, aby se v daných oblastech naplňování práva na rovné zacházení zlepšilo.</p>
 
-<p><img alt="norway_grants_4x.png" src="https://www.ochrance.cz/aktualne/podle_pravidel_pro_zaky_s_lehkym_mentalnim_postizenim_se_porad_uci_vice_romskych_deti_nez_by_odpovidalo_zastoupeni_romu_mezi_vsemi_skolaky/norway_grants_4x.png" /></p>
+<p><img alt="logo_nf_male.png" src="https://www.ochrance.cz/aktualne/podle_pravidel_pro_zaky_s_lehkym_mentalnim_postizenim_se_porad_uci_vice_romskych_deti_nez_by_odpovidalo_zastoupeni_romu_mezi_vsemi_skolaky/logo_nf_male.png" /></p>
 
 <hr />
 <p><a href="#_ftnref1"><strong><strong>[1]</strong></strong></a> Posílení aktivit veřejného ochránce práv v ochraně lidských práv (směrem k ustavení Národní lidskoprávní instituce v ČR), číslo projektu LP-PDP3-001. Projekt je součástí Programu lidská práva financovaného z Norských fondů 2014-2021 prostřednictvím Ministerstva financí,</p>
