@@ -2,6 +2,8 @@
 title: Podle pravidel pro žáky s lehkým mentálním postižením se pořád učí více
   romských dětí, než by odpovídalo zastoupení Romů mezi všemi školáky
 date: 2023-09-04T06:01:01.605Z
+vystupy:
+  - tz
 perex: >
   <p>Stejně jako v&nbsp;předchozích letech ukázala data Ministerstva školství i
   v&nbsp;právě uplynulém školním roce, že romští žáci odcházejí
