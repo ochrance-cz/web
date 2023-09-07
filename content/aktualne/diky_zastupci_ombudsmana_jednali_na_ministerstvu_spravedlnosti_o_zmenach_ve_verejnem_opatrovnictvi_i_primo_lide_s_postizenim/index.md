@@ -17,7 +17,7 @@ attachments: []
 
 <p>Na dobu, kdy měli veřejného opatrovníka, vzpomínali na jednání na Ministerstvu spravedlnosti i Kamila a Jaroslav Ježkovi. Oba si prošli životem v&nbsp;domově pro lidi s postižením, omezením svéprávnosti i jejím navrácením. Jako takzvaní sebeobhájci veřejně mluví za sebe i lidi v&nbsp;podobné situaci a tím se zasazují o zlepšení podmínek pro lidi s&nbsp;postižením. Vysvětlili, co od opatrovníků a podpůrců potřebují: <em>&bdquo;Chtěli bychom, aby s námi opatrovníci víc mluvili, víc nás respektovali. Byli bychom rádi, aby nám opatrovníci věřili, a ne aby nás neustále podezřívali.&ldquo;</em></p>
 
-<p>Další ze sebeobhájců poukázali i na nedůstojné podmínky při jednáních, když musí na úřadě při rozhovoru s opatrovnicí stát u okénka na přepážce. Vadí jim nedostatek soukromí a to, že rozhovorům často naslouchají jiní lidé. Ponižující je podle nich i povinnost předkládat účtenky za drobné částky, které utratili za kávu či za zmrzlinu. Vadí jim také leckdy nepružné jednání: <em>&bdquo;Když chci jít dnes do kina, dostanu peníze třeba až za týden. To už mě přejde chuť jít do kina,&ldquo; </em>popsal jeden z&nbsp;účastníků jednání.</p>
+<p>Další ze sebeobhájců poukázali i na nedůstojné podmínky při jednáních, když musí na úřadě při rozhovoru s opatrovnicí stát u okénka na přepážce. Vadí jim nedostatek soukromí a to, že rozhovorům často naslouchají jiní lidé. Ponižující je podle nich i povinnost předkládat účtenky za drobné částky, které utratili za kávu či za zmrzlinu. Chybí jim také pružnější jednání: <em>&bdquo;Když chci jít dnes do kina, dostanu peníze třeba až za týden. To už mě přejde chuť jít do kina,&ldquo; </em>popsal jeden z&nbsp;účastníků jednání.</p>
 
 <blockquote>
 <h4>&bdquo;Kdo je sebeobhájce&ldquo;</h4>
