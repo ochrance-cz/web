@@ -22,6 +22,8 @@ attachments: []
 <blockquote>
 <h4>&bdquo;Kdo je sebeobhájce&ldquo;</h4>
 
+<p>&nbsp;</p>
+
 <p><strong>Sebeobhájci jsou lidé s postižením, kteří chtějí sami pomáhat, předávat svoje zkušenosti a zasazovat se o zlepšení svého postavení ve společnosti.&nbsp;</strong></p>
 
 <ul>
@@ -42,6 +44,8 @@ attachments: []
 <p>Sebeobhájci rovněž zdůraznili, že zásah do svéprávnosti a opatrovnictví nevnímají jako vhodné řešení, na rozdíl od mírnějších opatření, jako je nápomoc prostřednictvím podpůrce. Občanský zákoník z roku 2012 počítá, že by soudy měly přednostně využívat mírnější způsoby <a href="https://www.ochrance.cz/letaky/podpora-v-pravnim-jednani/podpora-v-pravnim-jednani.pdf">podpory v&nbsp;právním jednání</a>, jako je nápomoc při rozhodování nebo zastoupení členem domácnosti.&nbsp; Statistiky Ministerstva spravedlnosti i poznatky veřejného ochránce práv ale potvrzují, že v soudní&nbsp;praxi stále převládá omezování svéprávnosti a ustanovení opatrovníka před alternativami, které umožní lidem s&nbsp;postižením žít podle jejich možností nezávislý život.</p>
 
 <h4>Související odkazy</h4>
+
+<p>&nbsp;</p>
 
 <ul>
 	<li>výzkumná zpráva (2021)&nbsp;<a href="https://eso.ochrance.cz/Nalezene/Edit/9850">Křižovatky ochrany. Zkušenosti obcí při výkonu opatrovnictví a dalších úkonech při ochraně zranitelných dospělých</a>&nbsp;</li>
