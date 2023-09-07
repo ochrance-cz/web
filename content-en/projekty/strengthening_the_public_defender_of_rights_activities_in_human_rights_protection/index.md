@@ -47,6 +47,9 @@ gallery:
 
 <ul>
 	<li>
+	<p>September 4, 2023 &ndash; we bring insights from the fulfillment of the right to equal treatment and protection against discrimination for the year 2022. You can find the press release with further details <a href="https://www.ochrance.cz/aktualne/podle_pravidel_pro_zaky_s_lehkym_mentalnim_postizenim_se_porad_uci_vice_romskych_deti_nez_by_odpovidalo_zastoupeni_romu_mezi_vsemi_skolaky/">here</a>, monitoring report for 2022 <a href="https://www.ochrance.cz/uploads-import/ESO/16-2023-DIS-DJ-JKV_1-final.pdf">here</a>.</p>
+	</li>
+	<li>
 	<p>June 23, 2023 - you can read the results of extensive research by the Public Defender of Rights on the topic of pregnancy and maternity at the workplace in the <a href="https://www.ochrance.cz/aktualne/zeny_v_cesku_se_kvuli_tehotenstvi_a_materstvi_setkavaji_v_praci_s_mnohymi_barierami_potvrdil_vyzkum_verejneho_ochrance_prav/">press release</a>. We also publish the <a href="survey_report_pregnancy_and_maternity_at_the_workplace.pdf">survey report</a>.</p>
 	</li>
 	<li>
