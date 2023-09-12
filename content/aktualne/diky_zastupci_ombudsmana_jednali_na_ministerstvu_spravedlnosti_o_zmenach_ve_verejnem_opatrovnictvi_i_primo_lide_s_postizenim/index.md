@@ -5,11 +5,13 @@ date: 2023-09-07T10:54:55.302Z
 vystupy:
   - tz
 perex: >
-  <p>Připravovaná změna občanského zákoníku by měla zlepšit život lidí
-  s&nbsp;omezenou svéprávností, kteří mají obec jako veřejného opatrovníka. O
-  zkušenosti s omezením svéprávnosti i mírnějšími podpůrnými opatřeními mohli
-  díky iniciativě zástupce ombudsmana na Ministerstvu spravedlnosti diskutovat s
-  politiky a zástupci Sdružení místních samospráv také lidé s&nbsp;postižením
+  <p><a
+  href="https://www.justice.cz/?clanek=namestek-karel-dvorak-na-ministerstvu-spravedlnosti-jsme-se-dnes-shodli-ze-je-potreba-zajistit-vetsi-duveru-a-respekt-u-institutu-verejneho-opatrovn-1">Připravovaná
+  změna občanského zákoníku </a>by měla zlepšit život lidí s&nbsp;omezenou
+  svéprávností, kteří mají obec jako veřejného opatrovníka. O zkušenosti s
+  omezením svéprávnosti i mírnějšími podpůrnými opatřeními mohli díky iniciativě
+  zástupce ombudsmana na Ministerstvu spravedlnosti diskutovat s politiky a
+  zástupci Sdružení místních samospráv také lidé s&nbsp;postižením
   spolupracující s&nbsp;organizací Skok do života. &nbsp;</p>
 attachments: []
 ---
