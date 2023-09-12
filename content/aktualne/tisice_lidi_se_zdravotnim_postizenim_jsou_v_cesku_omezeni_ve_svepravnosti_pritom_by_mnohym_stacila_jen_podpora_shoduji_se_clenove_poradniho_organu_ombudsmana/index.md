@@ -1,5 +1,5 @@
 ---
-title: Tisíce lidí se zdravotním postižením jsou v Česku omezeni ve
+title: Tisíce lidí se zdravotním postižením jsou v Česku omezeny ve
   svéprávnosti, přitom by mnohým stačila jen podpora, shodují se členové
   poradního orgánu ombudsmana
 date: 2023-06-21T13:26:14.838Z
