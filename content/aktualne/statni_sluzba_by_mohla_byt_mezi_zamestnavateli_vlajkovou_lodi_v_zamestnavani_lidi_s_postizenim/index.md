@@ -31,7 +31,7 @@ perex: >
 <p>Srozumitelností se v&nbsp;Kanceláři veřejného ochránce práv zabýváme dlouhodobě. Úřední jazyk je totiž mnohdy zbytečně složitý. Záleží nám na&nbsp;tom, aby lidé úředním textům rozuměli. Máme zkušenosti s&nbsp;texty úřadů, na&nbsp;něž si lidé stěžují. Úřední texty jsme&nbsp;také zkoumali a testovali jejich porozumění. Naše zjištění jsme převedli do pravidel srozumitelného psaní a spolu s praktickými příklady je shrnuli v&nbsp;příručce určené nejen úředníkům nazvané <a href="https://www.ochrance.cz/srozumitelne/">Jak psát srozumitelné úřední texty</a>. Věříme, že srozumitelné texty šetří lidem i&nbsp;úřadům čas, peníze a&nbsp;nervy.</p>
 </blockquote>
 
-<p>Ke vzdělávání úředníků jsme nabídli i náš e-learningový kurz <a href="https://diskriminace.netventic.net/login">Základy antidiskriminačního práva</a>. <em>Kurz jsme vytvořili tak, aby byl užitečný především pro zaměstnance úřadů, které řeší stížnosti na diskriminaci.</em></p>
+<p>Ke vzdělávání úředníků jsme nabídli i náš e-learningový kurz <a href="https://diskriminace.netventic.net/login">Základy antidiskriminačního práva</a>. Kurz jsme vytvořili tak, aby byl užitečný především pro zaměstnance úřadů, které řeší stížnosti na diskriminaci.</p>
 
 <h4><strong>Připravované změny pro úředníky ve státní službě</strong></h4>
 
