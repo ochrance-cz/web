@@ -1,5 +1,5 @@
 ---
-title: "Žádost o odpuštění příslušenství - milostivé léto "
+title: "Žádost o odpuštění příslušenství - Milostivé léto "
 slug: zadost-o-odpusteni-prislusenstvi-milostive-leto
 situace:
   - dluhy
