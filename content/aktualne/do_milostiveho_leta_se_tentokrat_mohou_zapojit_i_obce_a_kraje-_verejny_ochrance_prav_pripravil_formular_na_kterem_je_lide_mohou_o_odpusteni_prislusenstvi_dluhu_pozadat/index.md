@@ -14,6 +14,12 @@ perex: >
   budou moci požádat o odpuštění příslušenství dluhu na místních poplatcích nebo
   odvodu za porušení rozpočtové kázně. Využít k tomu mohou například formulář,
   který ombudsman zveřejnil na webových stránkách.</p>
+attachments:
+  - title: Žádost o odpuštění příslušenství – Milostivé léto
+    file: https://www.ochrance.cz/letaky/zadost-o-odpusteni-prislusenstvi-milostive-leto/formular-zadost-o-odpusteni-prislusenstvi-milostive-leto.pdf
+  - title: Informace k tématu dluhů a exekucí
+    link: ""
+    file: https://www.ochrance.cz/situace/dluhy/
 ---
 <p>Požádat obec či kraj o odpuštění příslušenství je i díky ombudsmanskému formuláři jednoduché. Na zadní straně najdou lidé odpovědi na nejdůležitější otázky o Milostivém létě III. Až si ověří, že se jejich obec či kraj zapojily, a oni sami splňují potřebné podmínky, stačí, aby do pouhých deseti kolonek formuláře vyplnili informace o dluhu i o sobě. Pak už jen musí podepsanou žádost do konce listopadu doručit správnému obecnímu nebo krajskému úřadu a uhradit jistinu dluhu.</p>
 
