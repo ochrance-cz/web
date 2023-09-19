@@ -137,25 +137,25 @@ title: "2023"
 
 <p><a href="https://www.ochrance.cz/info106/2023/28_2023_odpoved.odt">Odpověď na žádost</a>.</p>
 
-<h3>29/2023 &ndash; informace k&nbsp;žalobám VOP ve veřejném zájmu</h3>
+<h3>29/2023 &ndash; Informace k&nbsp;žalobám VOP ve veřejném zájmu</h3>
 
 <p><a href="https://www.ochrance.cz/info106/2023/29_2023_zadost.pdf">Žádost o informace</a>.</p>
 
 <p><a href="https://www.ochrance.cz/info106/2023/29_203_odpoved.odt">Odpověď na žádost</a>.</p>
 
-<h3>30/2023 &ndash; informace k&nbsp;činnosti VOP, k&nbsp;rozpočtu KVOP a k&nbsp;oblasti vězeňství</h3>
+<h3>30/2023 &ndash; Informace k&nbsp;činnosti VOP, k&nbsp;rozpočtu KVOP a k&nbsp;oblasti vězeňství</h3>
 
 <p><a href="https://www.ochrance.cz/info106/2023/30_2023_zadost.pdf">Žádost o informace</a>.</p>
 
 <p><a href="https://www.ochrance.cz/info106/2023/30_2023_odpoved.odt">Odpověď na žádost</a>.</p>
 
-<h3>32/2023 &ndash; informace z&nbsp;oblasti vězeňství</h3>
+<h3>32/2023 &ndash; Informace z&nbsp;oblasti vězeňství</h3>
 
 <p><a href="https://www.ochrance.cz/info106/2023/32_2023_zadost.pdf">Žádost o informace</a>.</p>
 
 <p><a href="https://www.ochrance.cz/info106/2023/32_2023_odpoved.odt">Odpověď na žádost</a>.</p>
 
-<h3>33/2023 &ndash; informace k&nbsp;žalobám VOP ve veřejném zájmu</h3>
+<h3>33/2023 &ndash; Informace k&nbsp;žalobám VOP ve veřejném zájmu</h3>
 
 <p><a href="https://www.ochrance.cz/info106/2023/33_2023_zadost.pdf">Žádost o informace</a>.</p>
 
@@ -167,13 +167,13 @@ title: "2023"
 
 <p><a href="https://www.ochrance.cz/info106/2023/34_2023_odpoved.odt">Odpověď na žádost</a>.</p>
 
-<h3>35/2023 &ndash; informace z&nbsp;oblasti věci cizinců</h3>
+<h3>35/2023 &ndash; Informace z&nbsp;oblasti věci cizinců</h3>
 
 <p><a href="https://www.ochrance.cz/info106/2023/35_2023_zadost.pdf">Žádost o informace</a>.</p>
 
 <p><a href="https://www.ochrance.cz/info106/2023/35_2023_odpoved.odt">Odpověď na žádost</a>.</p>
 
-<h3>36/2023 &ndash; informace z&nbsp;oblasti vězeňství</h3>
+<h3>36/2023 &ndash; Informace z&nbsp;oblasti vězeňství</h3>
 
 <p><a href="https://www.ochrance.cz/info106/2023/36_2023_zadost.pdf">Žádost o informace</a>.</p>
 
