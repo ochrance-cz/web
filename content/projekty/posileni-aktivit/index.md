@@ -49,8 +49,14 @@ gallery:
 
 <ul>
 	<li>
-	<p>4.9.2023 &ndash; přinášíme poznatky z&nbsp;naplňování práva na rovné zacházení a ochrany před diskriminací za rok 2022. Tiskovou zprávu s&nbsp;dalšími podrobnostmi naleznete <a href="https://www.ochrance.cz/aktualne/podle_pravidel_pro_zaky_s_lehkym_mentalnim_postizenim_se_porad_uci_vice_romskych_deti_nez_by_odpovidalo_zastoupeni_romu_mezi_vsemi_skolaky/">zde</a>, monitorovací zprávu za rok 2022 <a href="https://www.ochrance.cz/uploads-import/ESO/16-2023-DIS-DJ-JKV_1-final.pdf">zde</a>.</p>
+	<p>18.9.2023 &ndash; Uspořádali jsme kulatý stůl za účasti norského partnera. Více se můžete dočíst <a href="https://www.ochrance.cz/aktualne/v_kancelari_ombudsmana_budou_o_moznem_vzniku_ceske_narodni_lidskopravni_instituce_nhri_v_pondeli_diskutovat_odbornici_na_ochranu_lidskych_prav_ze_sedmi_evropskych_statu/">zde</a>.</p>
 	</li>
+</ul>
+
+<p><img alt="2.png" src="2.png" /></p>
+
+<ul>
+	<li>4.9.2023 &ndash; přinášíme poznatky z&nbsp;naplňování práva na rovné zacházení a ochrany před diskriminací za rok 2022. Tiskovou zprávu s&nbsp;dalšími podrobnostmi naleznete <a href="https://www.ochrance.cz/aktualne/podle_pravidel_pro_zaky_s_lehkym_mentalnim_postizenim_se_porad_uci_vice_romskych_deti_nez_by_odpovidalo_zastoupeni_romu_mezi_vsemi_skolaky/">zde</a>, monitorovací zprávu za rok 2022 <a href="https://www.ochrance.cz/uploads-import/ESO/16-2023-DIS-DJ-JKV_1-final.pdf">zde</a>.</li>
 	<li>
 	<p>23.6.2023 &ndash; jaké jsou výsledky rozsáhlého výzkumu veřejného ochránce práv na téma těhotenství a mateřství na pracovišti se můžete dočíst v&nbsp;<a href="https://www.ochrance.cz/aktualne/zeny_v_cesku_se_kvuli_tehotenstvi_a_materstvi_setkavaji_v_praci_s_mnohymi_barierami_potvrdil_vyzkum_verejneho_ochrance_prav/">tiskové zprávě</a>. Zveřejňujeme i samotnou <a href="vyzkumna_zprava_tehotenstvi_a_materstvi_na_pracovisti.pdf">výzkumnou zprávu</a>.</p>
 	</li>
