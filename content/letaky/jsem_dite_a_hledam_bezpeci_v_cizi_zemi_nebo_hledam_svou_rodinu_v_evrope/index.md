@@ -7,4 +7,6 @@ file: jsem-dite-a-hledam-bezpeci-v-cizi-zemi.pdf
 attachments:
   - file: jsem-dite-a-hledam-bezpeci-v-cizi-zemi-turecky.pdf
     title: turecky
+  - file: jsem-dite-a-hledam-bezpeci-v-cizi-zemi-pash.pdf
+    title: paštunsky
 ---
