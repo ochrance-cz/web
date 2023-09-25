@@ -56,10 +56,28 @@ gallery:
 <ul>
 	<li>September 4, 2023 &ndash; we bring insights from the fulfillment of the right to equal treatment and protection against discrimination for the year 2022. You can find the press release with further details <a href="https://www.ochrance.cz/aktualne/podle_pravidel_pro_zaky_s_lehkym_mentalnim_postizenim_se_porad_uci_vice_romskych_deti_nez_by_odpovidalo_zastoupeni_romu_mezi_vsemi_skolaky/">here</a>, monitoring report for 2022 <a href="https://www.ochrance.cz/uploads-import/ESO/16-2023-DIS-DJ-JKV_1-final.pdf">here</a>.</li>
 	<li>
+	<p>August 22, 2022 - we are publishing the fifth Report from the subsequent visit to the facility, namely from the Reception Center and facility for securing foreigners in Bělá &ndash; Jezová <a href="https://www.ochrance.cz/uploads-import/ESO/10-2020-NZ-zpr%C3%A1va%20z%20opak%20n%C3%A1v%C5%A1t%C4%9Bvy.pdf">here</a>.</p>
+	</li>
+	<li>
+	<p>August 8, 2023 - we are publishing the fourteenth report from the follow-up visit to the facility, namely the Balková Facility for Detention of Foreigners <a href="https://www.ochrance.cz/uploads-import/ESO/NZ%2043-2022-T%C5%BDK%20-%20zpr%C3%A1va%20final.pdf">here</a>, and the fifteenth report from the follow-up visit to the Plzeň Police Cell facility <a href="https://www.ochrance.cz/uploads-import/ESO/PEO%20Plze%C5%88%203-2023-NZ.pdf">here</a>.</p>
+	</li>
+	<li>
+	<p>August 3, 2022 - we are publishing the fourth Report from the follow-up visit to the facility, from the Educational institution Kostomlaty Pod Milešovka <a href="https://www.ochrance.cz/uploads-import/ESO/48-2017-NZ_zpr%C3%A1va%20z%20n%C3%A1sledn%C3%A9%20n%C3%A1v%C5%A1t%C4%9Bvy_anon%20vn%C4%9Bj%C5%A1%C3%AD%20(1).pdf">here</a>.</p>
+	</li>
+	<li>
+	<p>July 18, 2023 &ndash; we are publishing the eleventh report from the follow-up visit to the facility Zlín Police Cell facility <a href="https://www.ochrance.cz/uploads-import/ESO/OOP%20Zl%C3%ADn%2036-2022%20nz.pdf">here</a>, the twelfth report from the follow-up visit to the facility Višňové Educational Institute <a href="https://www.ochrance.cz/uploads-import/ESO/V%C3%9A%20Vi%C5%A1%C5%88ov%C3%A9_Zpr%C3%A1va%20z%20n%C3%A1v%C5%A1t%C4%9Bvy_VAS.pdf">here</a>, and the thirteenth report from the follow-up visit to the facility Jihlava Police Cell facility <a href="https://www.ochrance.cz/uploads-import/ESO/Zpr%C3%A1va%20NZ-4-2023%20final.pdf">here</a>.</p>
+	</li>
+	<li>
+	<p>July 16, 2022 - we are publishing the second Report from the follow-up visit to the facility from Remand prison Liberec <a href="https://www.ochrance.cz/uploads-import/ESO/NZ%204-2022-JM.pdf">here</a> and the third report from the follow-up visit to the facility from the Children&#39;s home with school Býchory <a href="https://www.ochrance.cz/uploads-import/ESO/23_2022_DD%C5%A0%20B%C3%BDchory%20zpr%C3%A1va.pdf">here</a>.</p>
+	</li>
+	<li>
 	<p>June 23, 2023 - you can read the results of extensive research by the Public Defender of Rights on the topic of pregnancy and maternity at the workplace in the <a href="https://www.ochrance.cz/aktualne/zeny_v_cesku_se_kvuli_tehotenstvi_a_materstvi_setkavaji_v_praci_s_mnohymi_barierami_potvrdil_vyzkum_verejneho_ochrance_prav/">press release</a>. We also publish the <a href="survey_report_pregnancy_and_maternity_at_the_workplace.pdf">survey report</a>.</p>
 	</li>
 	<li>
 	<p>June 7, 2023 - for the 9th monitoring period, we publish the professional outputs of the secretariat of the defender and his deputy. This concerns the notification of the public defender of rights to the government of the Czech Republic about the failure to remedy the established errors of the office in the matter of the legal status of stateless persons, the notification of the public defender of rights to the government of the Czech Republic about the failure to remedy the detected errors of the office in the matter of the non-acceptance of full powers in the procedure for granting international protection and the notification of the public defender of rights to the government of the Czech Republic about the failure to remedy the detected errors of the office in the matter of delays in the proceedings for the granting of international protection to a group of so-called Chinese Christians.</p>
+	</li>
+	<li>
+	<p>June 7, 2023 - we are publishing the tenth report from the follow-up visit to the facility &nbsp;Kosmonosy Psychiatric Hospital. The report is available <a href="https://www.ochrance.cz/uploads-import/ESO/NZ%2032-2022%20NF.pdf">here</a>. (na webu to už je, ale špatně očíslované, má to být desátá zpráva)</p>
 	</li>
 	<li>
 	<p>June 7, 2023 - we are publishing the ninth report from the Follow-up visit from from Kosmonosy Psychiatric Hospital. The report is available <a href="https://www.ochrance.cz/uploads-import/ESO/NZ%2032-2022%20NF.pdf">here</a>.</p>
