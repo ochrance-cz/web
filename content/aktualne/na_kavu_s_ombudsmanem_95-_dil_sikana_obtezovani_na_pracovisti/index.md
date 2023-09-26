@@ -17,7 +17,7 @@ perex: >
 
 <p>&nbsp;</p>
 
-<p>V příštím podcastu se zaměříme na situaci nevyplácení mzdy.</p>
+<p>Dalším podcastem navážeme na téma a budeme se věnovat sexuálnímu obtěžování.</p>
 
 <p>&nbsp;</p>
 
