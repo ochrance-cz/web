@@ -4,6 +4,9 @@ title: " Українці, увага! Тут ви можете знайти в�
 draft: false
 active: true
 ---
+* [Як омбудсмен може допомогти українцям,що переїхали в Чехію у зв’язку з війною](https://www.ochrance.cz/letaky/jak_ombudsman_muze_pomoct_prichozim_z_ukrajiny/jak-ombudsman-muze-pomoct-prichozim-z-ukrajiny-ua.pdf)
+
+  [Как омбудсмен может помочь украинцам, переехавшимв Чехию в связи с войной](https://www.ochrance.cz/letaky/jak_ombudsman_muze_pomoct_prichozim_z_ukrajiny/jak-ombudsman-muze-pomoct-prichozim-z-ukrajiny-ru.pdf)
 * [Тимчасовий захист: продовження](/media/ua_prodlouzeni_obecne.pdf)
 
   [Тимчасовий захист: Представник неповнолітнього](/media/ua_vazby_obecne_verze_pro_online.pdf)
