@@ -3,8 +3,12 @@ title: "Українці, увага! Тут ви можете знайти ва
   про ваше перебування в Чеській Республіці. "
 active: true
 ---
-* ﻿[Webinář MV, MŠMT, MPSV a MZDR 20. 4.: LEX Ukrajina V. - novinky](/media/lex_ukrajinav_pozvanka_fin.pdf)
-* [Тимчасовий захист: продовження](/media/ua_prodlouzeni_obecne.pdf)
+* [Як омбудсмен може допомогти українцям,що переїхали в Чехію у зв’язку з війною](https://www.ochrance.cz/letaky/jak_ombudsman_muze_pomoct_prichozim_z_ukrajiny/jak-ombudsman-muze-pomoct-prichozim-z-ukrajiny-ua.pdf)
+
+  [Jak ombudsman může pomoct příchozím z Ukrajiny](https://www.ochrance.cz/letaky/jak_ombudsman_muze_pomoct_prichozim_z_ukrajiny/jak-ombudsman-muze-pomoct-prichozim-z-ukrajiny.pdf)
+
+  [Как омбудсмен может помочь украинцам, переехавшимв Чехию в связи с войной](https://www.ochrance.cz/letaky/jak_ombudsman_muze_pomoct_prichozim_z_ukrajiny/jak-ombudsman-muze-pomoct-prichozim-z-ukrajiny-ru.pdf)
+* [](https://www.ochrance.cz/letaky/jak_ombudsman_muze_pomoct_prichozim_z_ukrajiny/jak-ombudsman-muze-pomoct-prichozim-z-ukrajiny-ru.pdf)[Тимчасовий захист: продовження](/media/ua_prodlouzeni_obecne.pdf)
 
 [Тимчасовий захист: Представник неповнолітнього](/media/ua_vazby_obecne_verze_pro_online.pdf)
 
