@@ -7,6 +7,7 @@ perex: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Vivamus ac leo
   velit. Integer tempor. Ut tempus purus at lorem. Cras elementum. Vivamus
   luctus egestas leo.
 author: Váš autor článku
+file: https://www.ochrance.cz/zpravodaj/1_2023/screenshot_2023-09-27_at_21.38.52.png
 sections:
   - articles:
       - body: >
