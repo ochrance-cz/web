@@ -2055,6 +2055,80 @@ collections:
     media_folder: ''
     public_folder: 'https://www.ochrance.cz/eso/{{slug}}'
     preview_path: '/eso/{{slug}}'
+  - name: zpravodaj
+    label: Zpravodaj
+    label_singular: Číslo zpravodaje
+    folder: content/zpravodaj
+    extension: md
+    editor:
+      preview: false
+    fields:
+      - label: 'Název vydání ve formátu #/YYYY'
+        name: title
+        widget: string
+      - label: Měsíc vydání
+        name: month
+        widget: number
+        value_type: int
+      - label: Rok vydání
+        name: year
+        widget: number
+        value_type: int
+      - label: Perex
+        name: perex
+        required: false
+        widget: text
+      - label: Autor
+        name: author
+        required: false
+        widget: string
+      - label: Zpravodaj v PDF
+        name: file
+        required: false
+        widget: file
+      - label: Obsah zpravodaje
+        name: sections
+        required: false
+        label_singular: sekce
+        widget: list
+        fields:
+          - label: Titulek sekce
+            name: title
+            widget: string
+          - label: Články
+            name: articles
+            required: false
+            label_singular: článek
+            widget: list
+            fields:
+              - label: Titulek
+                name: title
+                widget: string
+              - label: Spisová značka
+                name: id
+                required: false
+                widget: string
+              - label: Odkaz na tiskovou zprávu
+                name: release
+                required: false
+                widget: string
+              - label: Odkaz na podcast k tématu
+                name: podcast
+                required: false
+                widget: string
+              - label: Odkaz do ESO
+                name: eso
+                required: false
+                widget: string
+              - label: Text
+                name: body
+                required: false
+                widget: customEditor
+    create: true
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: 'https://www.ochrance.cz/zpravodaj/{{slug}}'
+    preview_path: '/zpravodaj/{{slug}}'
   - name: srozumitelne
     label: Jak psát srozumitelně
     label_singular: kapitola

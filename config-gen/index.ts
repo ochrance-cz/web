@@ -478,6 +478,40 @@ const eso = folderCollection(
   ]
 );
 
+const zpravodaj = folderCollection(
+  'Zpravodaj',
+  'Číslo zpravodaje',
+  'zpravodaj',
+  {
+    folder: 'content/zpravodaj',
+    preview_path: '/zpravodaj/{{slug}}',
+    path: '{{slug}}/index',
+    extension: 'md',
+    create: true,
+    media_folder: '',
+    public_folder: 'https://www.ochrance.cz/zpravodaj/{{slug}}',
+  },
+  [
+    title('Název vydání ve formátu #/YYYY', { hint: 'Například 1/2023' }),
+    number('Měsíc vydání', 'month', { required: true }),
+    number('Rok vydání', 'year', { required: true }),
+    text('Perex', 'perex'),
+    string('Autor', 'author'),
+    file('Zpravodaj v PDF', 'file'),
+    list('Obsah zpravodaje', 'sekce', 'sections', [
+      title('Titulek sekce'),
+      list('Články', 'článek', 'articles', [
+        title('Titulek'),
+        string('Spisová značka', 'id'),
+        string('Odkaz na tiskovou zprávu', 'release'),
+        string('Odkaz na podcast k tématu', 'podcast'),
+        string('Odkaz do ESO', 'eso'),
+        customEditor('Text', 'body'),
+      ]),
+    ]),
+  ]
+);
+
 const dokument = folderCollection(
   'Dokumenty',
   'dokument',
@@ -848,6 +882,7 @@ save('./static-preview/admin/config.yml', {
     info106,
     projekty,
     eso,
+    zpravodaj,
     srozumitelne,
     englishFiles(strankyEn),
     englishFolder(aktualne),
