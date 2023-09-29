@@ -53,6 +53,8 @@ jobs:
             rm umluva-player
             rm vystupy
             rm vzdelavaci-akce
+            rm zpravodaj
+            rm zpravodaj-vse
             rm vzor
             rm media
             rm srozumitelne
@@ -101,6 +103,8 @@ jobs:
             ln -s www-prod/vzdelavaci-akce vzdelavaci-akce
             ln -s www-prod/vzor vzor
             ln -s www-prod/srozumitelne srozumitelne
+            ln -s www-prod/zpravodaj zpravodaj
+            ln -s www-prod/zpravodaj-vse zpravodaj-vse
             ln -s www-prod/.htaccess .htaccess
           host: ${{ secrets.SSH_HOSTNAME }}
           username: ${{ secrets.SSH_USERNAME }}
