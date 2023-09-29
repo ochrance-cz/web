@@ -1,0 +1,93 @@
+{{ define "main" }}
+<main>
+  {{ partial "text-header.html" (dict "Title" (print "Zpravodaj ombudsmana " .Title)) }}
+
+  <div class="_magazine" {{ with .Params.contentBackdrop }} class="{{ . }}"{{ end }}>
+    <section>
+      {{ with .Params.file }}
+        <a href="{{ . }}" class="_button">Zpravodaj k tisku <span class="_tag">PDF</span> </a>
+      {{ end }}
+
+      {{ with .Params.perex }}
+        <div class="perex">
+          {{ partial "md-block.html" . }}
+        </div>
+      {{ end }}
+
+      {{ with .Params.links }}
+        {{ partial "link-list.html" (dict "list" . "page" $) }}
+      {{ end }}
+
+    	{{ .Content }}
+
+      {{ with .Params.author }}
+        <p class="author"><i>{{ . }}</i></p>
+      {{ end }}
+
+      {{ with .Params.sections }}
+        <h2>Obsah</h2>
+        {{ range $index, $section := . }}
+          <h3>{{ $section.title }}</h3>
+
+          <ul class="_link-list">
+          {{ range $artIndex, $article := $section.articles }}
+            <li><a href="#item-{{$index}}-{{$artIndex}}">{{ $article.title }}</a></li>
+          {{ end }}
+          </ul>
+        {{ end }}
+      {{ end }}
+
+
+      {{ with .Params.sections }}
+        {{ range $index, $section := . }}
+          <h2>{{ $section.title }}</h2>
+          {{ range $artIndex, $article := $section.articles }}
+            <h3 id="item-{{$index}}-{{$artIndex}}">{{ $article.title }}
+              {{ with $article.id }}(sp. zn. {{ . }}){{ end }}
+            </h3>
+            {{ $article.body | safeHTML }}
+
+            <ul class="_link-list">
+              {{ with $article.eso}}<li><a href="{{ . }}">Odkaz do ESO</a></li>{{ end }}
+              {{ with $article.release}}<li><a href="{{ . }}">Tisková zpráva</a> <span class="_tag">Tisková zpráva</span></li>{{ end }}
+              {{ with $article.podcast}}<li><a href="{{ . }}">Podcast k tématu</a> <span class="_tag">Podcast</span></li>{{ end }}
+            </ul>
+          {{ end }}
+        {{ end }}
+      {{ end }}
+
+      {{ with .Params.linksAfter }}
+        {{ partial "link-list.html" (dict "list" . "page" $) }}
+      {{ end }}
+
+      <hr>
+
+      {{ $path := .RelPermalink }}
+      <div class="_srozumitelne-navigation">
+        {{ $issues := where (where .Site.Pages "Section" "zpravodaj") "Kind" "page" }}
+        {{ $sorted := sort (sort $issues "Params.month" "asc") "Params.year" "asc"}}
+
+        {{- range $index, $val := $sorted -}}
+          {{ $curPath := $val.RelPermalink }}
+          {{ if eq $path $curPath }}
+            {{ $before := index $sorted (sub $index 1) }}
+            {{ $after := index $sorted (add $index 1) }}
+
+            {{ with $before }}
+                <a href="{{ .Permalink | absURL }}">{{ .Title }}</a>
+            {{ else }}
+              {{ $page := $.GetPage "zpravodaj" }}
+              <a href="{{ $page.Permalink | absURL }}">Zpět na rozcestník</a>
+            {{ end }}
+
+            {{ with $after }}
+                <a href="{{ .Permalink | absURL }}">{{ .Title }}</a>
+            {{ end }}
+
+          {{ end }}
+        {{- end -}}
+      </div>
+    </section>
+  </div>
+</main>
+{{ end }}

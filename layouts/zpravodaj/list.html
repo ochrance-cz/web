@@ -1,0 +1,37 @@
+{{ define "title" }}{{ .Params.plural }}{{ end }}
+
+{{ define "main" }}
+<main>
+  {{ partial "pic-header.html" . }}
+
+  <div {{ with .Params.contentBackdrop }} class="{{ . }}"{{ end }}>
+    <section>
+      {{ with .Params.perex }}
+        <div class="perex">
+          {{ partial "md-block.html" . }}
+        </div>
+      {{ end }}
+
+      {{ .Content }}
+    </section>
+    <section class="_news single-col">
+      <ul class="_horizontal-list">
+        <li><a href="{{ .Permalink }}" class="selected">{{ i18n "magazine-by-year" }}</a></li>
+        {{ with .GetPage "/zpravodaj-vse" }}
+          <li><a href="{{ .Permalink }}">{{ i18n "magazine-all" }}</a></li>
+        {{ end }}
+      </ul>
+
+
+      {{ $groups := .Pages.GroupByParam "year" "desc" }}
+      {{ range $groups }}
+        {{ partial "collapsible-open.html" (dict "id" .Key "title" (print .Key) "open" false) }}
+        {{ range .Pages }}
+          {{ partial "magazine-preview.html" (dict "preview" . "h" "4") }}
+        {{ end }}
+        {{ partial "collapsible-close.html" }}
+      {{ end }}
+    </section>
+  </div>
+</main>
+{{ end }}

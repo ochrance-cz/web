@@ -1,0 +1,32 @@
+{{ define "title" }}{{ .Params.plural }}{{ end }}
+
+{{ define "main" }}
+<main>
+  {{ partial "pic-header.html" . }}
+
+  <div {{ with .Params.contentBackdrop }} class="{{ . }}"{{ end }}>
+    <section>
+      {{ with .Params.perex }}
+        <div class="perex">
+          {{ partial "md-block.html" . }}
+        </div>
+      {{ end }}
+
+      {{ .Content }}
+    </section>
+    <section class="_news single-col">
+
+        <ul class="_horizontal-list">
+          {{ with .GetPage "/zpravodaj" }}
+            <li><a href="{{ .Permalink }}">{{ i18n "magazine-by-year" }}</a></li>
+          {{ end }}
+          <li><a href="{{ .Permalink }}"  class="selected">{{ i18n "magazine-all" }}</a></li>
+        </ul>
+        {{ $articles := where (where .Site.Pages "Section" "zpravodaj") "Kind" "page" }}
+        {{ range sort (sort $articles "Params.month" "desc") "Params.year" "desc" }}
+          {{ partial "magazine-preview.html" (dict "preview" .) }}
+        {{ end }}
+    </section>
+  </div>
+</main>
+{{ end }}
