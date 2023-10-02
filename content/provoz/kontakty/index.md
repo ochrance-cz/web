@@ -291,6 +291,10 @@ lawyers:
         role: právnička (věci cizinců, státní správa soudů)
         phone: "542 542 431 "
         email: alzbeta.kralova@ochrance.cz
+      - name: Kristýna Molková Foukalová
+        role: "právnička (věci cizinců) "
+        phone: 542 542 366
+        email: kristyna.molkovafoukalova@ochrance.cz
   - title: Odbor rodiny, zdravotnictví a práce
     intro: veřejné zdravotní pojištění, stížnosti ve zdravotnictví, činnost OSPOD,
       ústavní výchova, evidence uchazečů o zaměstnání u Úřadu práce, inspekce
@@ -417,6 +421,10 @@ lawyers:
         role: právnička
         phone: "542 542 294 "
         email: donika.stara@ochrance.cz
+      - name: Veronika Bazalová
+        role: právnička
+        phone: 542 542 254
+        email: "veronika.bazalova@ochrance.cz "
   - title: Odbor dohledu nad omezováním osobní svobody
     intro: >
       provádění systematických preventivních návštěv v zařízení, kde se mohou
@@ -460,10 +468,6 @@ lawyers:
         role: právník
         phone: 542 542 283
         email: matej.stritesky@ochrance.cz
-      - name: Tereza Žuffová-Kunčová
-        role: "právnička "
-        phone: "542 542 330 "
-        email: tereza.zuffova-kuncova@ochrance.cz
       - name: Silvie Konopková
         role: "právnička "
         phone: "542 542 375 "
