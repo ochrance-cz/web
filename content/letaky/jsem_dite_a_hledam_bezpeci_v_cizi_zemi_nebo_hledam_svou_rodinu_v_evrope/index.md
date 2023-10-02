@@ -9,4 +9,8 @@ attachments:
     title: turecky
   - file: jsem-dite-a-hledam-bezpeci-v-cizi-zemi-pash.pdf
     title: paštunsky
+  - title: arabsky
+    file: jsem-dite-a-hledam-bezpeci-v-cizi-zemi-arabsky.pdf
+  - title: kurdsky
+    file: jsem-dite-a-hledam-bezpeci-v-cizi-zemi-kurdsky.pdf
 ---
