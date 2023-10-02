@@ -10,4 +10,8 @@ attachments:
     link: ""
   - title: Pash
     file: organizations_providing_legal_assistance_to_foreigners_and_refugees_in_the_czech_republic_pash.pdf
+  - title: Arabic
+    file: https://www.ochrance.cz/letaky/organizace-uprchlicka-cizinecka-problematika/organizations_providing_legal_assistance_to_foreigners_and_refugees_in_the_czech_republic_arabic.pdf
+  - title: Kurdish
+    file: https://www.ochrance.cz/letaky/organizace-uprchlicka-cizinecka-problematika/organizations_providing_legal_assistance_to_foreigners_and_refugees_in_the_czech_republic_kurdish.pdf
 ---
