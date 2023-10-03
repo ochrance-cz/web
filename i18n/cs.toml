@@ -210,3 +210,7 @@ other = "Všechny zpravodaje"
 
 [alert]
 other = "AKTUÁLNĚ"
+
+[twitter]
+other = "X (dříve Twitter)"
+

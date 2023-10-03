@@ -10,11 +10,12 @@ $OpenSansPath: '/fonts/open-sans-fontface/fonts';
 @import 'open-sans/Bold';
 
 // FontAwesome
-@import './../../static/fonts/fontawesome-free-5.15.1-web/scss/variables';
+@import './../../static/fonts/fontawesome-free-6.4.2-web/scss/functions';
+@import './../../static/fonts/fontawesome-free-6.4.2-web/scss/variables';
 
 @font-face {
   font-family: 'FontAwesome';
-  src: url('/fonts/fontawesome-free-5.15.1-web/webfonts/fa-solid-900.woff2') format('woff2');
+  src: url('/fonts/fontawesome-free-6.4.2-web/webfonts/fa-solid-900.woff2') format('woff2');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -22,7 +23,7 @@ $OpenSansPath: '/fonts/open-sans-fontface/fonts';
 
 @font-face {
   font-family: 'FontAwesome-Brands';
-  src: url('/fonts/fontawesome-free-5.15.1-web/webfonts/fa-brands-400.woff2') format('woff2');
+  src: url('/fonts/fontawesome-free-6.4.2-web/webfonts/fa-brands-400.woff2') format('woff2');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -41,8 +42,7 @@ $OpenSansPath: '/fonts/open-sans-fontface/fonts';
 // Daxline Pro
 @font-face {
   font-family: 'Daxline';
-  src: url('/fonts/daxline/Fonts/5764632/aae167a7-9a23-484f-9760-d1b54002602f.woff2')
-    format('woff2');
+  src: url('/fonts/daxline/Fonts/5764632/aae167a7-9a23-484f-9760-d1b54002602f.woff2') format('woff2');
   font-weight: bold;
   font-style: normal;
   font-display: swap;

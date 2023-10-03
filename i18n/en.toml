@@ -219,3 +219,6 @@ other = "All research"
 
 [alert]
 other = "ALERT"
+
+[twitter]
+other = "X (formerly Twitter)"
