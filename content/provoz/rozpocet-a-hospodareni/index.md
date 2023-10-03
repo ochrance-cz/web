@@ -1184,6 +1184,7 @@ title: Rozpočet a výsledky hospodaření
 <h3>Závěrečné účty Kanceláře veřejného ochránce práv</h3>
 
 <ul>
+	<li><a href="zaverecny-ucet-2022.pdf">Závěrečný účet 2022</a></li>
 	<li><a href="zaverecny-ucet-2021.pdf">Závěrečný účet 2021</a></li>
 	<li><a href="SZU_309_KVOP_2020.pdf">Závěrečný účet 2020</a></li>
 	<li><a href="SZU_309_KVOP_2019.pdf">Závěrečný účet 2019</a></li>
