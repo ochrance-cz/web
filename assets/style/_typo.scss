@@ -387,3 +387,18 @@ pre {
     left: -1rem;
   }
 }
+
+._umluva-backlink a {
+  line-height: 2rem;
+
+  &::before {
+    display: inline-block;
+    content: '';
+    width: 2rem;
+    height: 2rem;
+    vertical-align: middle;
+    padding-right: 0.5rem;
+    @include svg-bg($backArrow, $green, 0% 0%);
+    background-size: 2rem;
+  }
+}

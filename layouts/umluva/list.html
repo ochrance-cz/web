@@ -9,6 +9,8 @@
 
     {{ $.Content }}
 
+    <h2 id="obsah">Obsah</h2>
+
     <ul class="_link-list">
       {{ range sort .Pages "File.Path" }}
         <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
