@@ -3,8 +3,8 @@ title: Дозвіл на перебування в Чеській Республ
 situace:
   - long-term-residence-permit
   - other-situations
-file: opravneni-k-pobytu-ukrajina-ukrajinsky.pdf
+file: jak-ombudsman-muze-pomoct-prichozim-z-ukrajiny-ua.pdf
 attachments:
   - title: Разрешение на пребывание в Чешской Республике в связи с войной на Украине
-    file: opravneni-k-pobytu-ukrajina-rusky.pdf
+    file: jak-ombudsman-muze-pomoct-prichozim-z-ukrajiny-ru.pdf
 ---
