@@ -5,12 +5,12 @@ menuTitle: Kontakt
 phone: 542 542 888
 email: podatelna@ochrance.cz
 dataId: jz5adky
-address: |
+address: |-
   Kancelář veřejného ochránce práv
   Údolní 39
   602 00 Brno
 
-  **Jsme tu pro vás každý den od 8–16 hod.**
+  **Jsme tu pro vás každý pracovní den od 8–16 hod.**
 addressComment: Jsme v Brně a zatím jiné zastoupení v krajích nemáme.
 access:
   walk: Pokud přijíždíte do Brna vlakem nebo autobusem, nejlepší spojení do sídla
