@@ -178,4 +178,58 @@ sections:
         id: 6133/2021/VOP
         release: ""
         eso: https://eso.ochrance.cz/Nalezene/Edit/10524
+      - body: >
+          <ol>
+          	<li><strong><strong>Úřad musí vždy v konkrétním případě přezkoumávat důvody, proč nemocnice odmítla umožnit přítomnost zákonného zástupce u dítěte. Úřad musí zjistit, zda tento zákaz sleduje legitimní cíl, a zda vnitřní řád nemocnice pobyt rodičů s dětmi omezuje pouze v rozumné míře. Paušální odkaz na nepříznivou epidemickou situaci bez dalšího neobstojí.</strong></strong></li>
+          </ol>
+
+
+          <p>Tříměsíční dcera stěžovatelky byla operována a poté hospitalizována na jednotce intenzivní a resuscitační péče. Nemocnice za ní matku pustila pouze jednou v den operace. S dcerou pak mohla být až po jejím přeložení na běžné oddělení, k němuž došlo týden po operaci. Svůj postup nemocnice odůvodnila epidemickou situací v&nbsp;souvislosti s COVID-19.</p>
+
+
+          <p>Poté, co si matka neúspěšně stěžovala u vedení nemocnice a u pražského magistrátu, zahájila zástupkyně veřejného ochránce práv šetření. Zjistila, že magistrát se nevypořádal se všemi námitkami stěžovatelky &ndash; ty směřovaly zejména k tomu, že i přes závažnost epidemické situace měla nemocnice kontakt s dcerou umožnit, i kdyby jen v omezené míře. Stěžovatelka kromě jiného uváděla, že při přijetí k hospitalizaci s dcerou měla negativní test na COVID-19.</p>
+
+
+          <p>V dané době kvůli celorepublikové epidemické situaci platil zákaz návštěv v lůžkových zdravotnických zařízeních, na návštěvy nezletilých pacientů se však nevztahoval. Rodič jakožto zákonný zástupce dítěte totiž není běžná návštěva a jeho přítomnost u hospitalizovaného dítěte se řídí jinými pravidly. Jsou-li naplněny zákonné předpoklady, mají nezletilí pacienti právo dokonce na nepřetržitou přítomnost svého rodiče. Toto právo sice neplatí absolutně a za jistých okolností může být omezeno, zejména na oddělení s výrazně ohroženými pacienty, i v takovém případě ale musí nemocnice umožnit alespoň krátký kontakt dítěte s rodiči. Obzvláště tehdy, jde-li o kojence a jeho matku.</p>
+
+
+          <p>Protože magistrát nezjednal nápravu a setrvával na stále stejných obecných argumentech epidemickou situací (bez vazby na konkrétní okolnosti případu), informovala zástupkyně veřejného ochránce práv ministra zdravotnictví a veřejnost. Ministerstvo zdravotnictví v současnosti vytváří metodické stanovisko dobré praxe, v němž shrne základní pravidla pro pobyt rodičů v nemocnici s hospitalizovanými dětmi. Jeho vydání očekává ke konci roku 2022.</p>
+
+
+          <p>&nbsp;</p>
+        title: "Vyřizování stížnosti proti postupu poskytovatele zdravotních služeb:
+          Kontakt rodiče s dítětem během jeho hospitalizace "
+        id: 3045/2021/VOP
+        eso: https://eso.ochrance.cz/Nalezene/Edit/10306
+      - body: >
+          <blockquote>
+
+          <ol>
+          	<li>Neschopnost zavázat si tkaničky u bot sama o sobě nestačí pro konstatování nezvládnutí základní životní potřeby oblékání a obouvání. Zdravotně postižená osoba může používat obuv na suchý zip nebo nazouvací obuv. Je-li schopna si ji obout, zvládá obouvání.</li>
+          	<li>Přemisťování do vany a z ní je součástí životní potřeby mobility, nikoliv tělesné hygieny. Rovněž ke skutečnosti, že si osoba nenechala bezbariérově upravit koupelnu ve vlastní nemovitosti, nelze přihlížet (na úpravu koupelny lze poskytnout příspěvek na zvláštní pomůcku).</li>
+          </ol>
+
+          </blockquote>
+
+
+          <p>Stěžovatel je ochrnutý od lopatek dolů, pohybuje se na invalidním vozíku. Byl mu přiznán příspěvek na péči ve stupni II. Za nezvládnuté životní potřeby mu byly uznány: mobilita, výkon fyziologické potřeby, péče o zdraví, osobní aktivity a péče o domácnost. Stěžovatel se domáhal uznání, že nezvládá i životní potřeby stravování, tělesná hygiena, oblékání a obouvání, s nimiž mu musí pomáhat jeho pečující osoba.</p>
+
+
+          <p>K tomu, aby mohla být určitá životní potřeba uznána za nezvládanou, je třeba, aby ji osoba nezvládala z důvodu svého dlouhodobě nepříznivého zdravotního stavu. Přitom se přihlíží k zachovaným potenciálům a kompetencím fyzické osoby a k využívání běžně dostupných pomůcek, prostředků, předmětů denní potřeby nebo vybavení v domácnosti, veřejných prostor nebo zdravotnického prostředku (tzv. facilitátorů).</p>
+
+
+          <p>Ve vztahu k&nbsp;potřebě stravování posudkový lékař okresní správy sociálního zabezpečení (dále &bdquo;OSSZ&ldquo;) do posudku o závislosti uvedl, že u stěžovatele nebylo odbornými lékaři zjištěno zdravotní postižení, které by mu bránilo zvládnout stravování. Mentálně je schopen vybrat si hotový nápoj a potraviny. Nemá těžkou poruchu obou horních končetin, zvládne dát jednoduchou stravu na talíř a nalít si nápoj. Je schopen se samostatně najíst a napít. Mentálně je schopen dodržovat dietní opaření. Příprava a nákup stravy (nakupování potravin, vaření) byly vyhodnoceny v rámci životní potřeby péče o domácnost, která byla uznána za nezvládanou. Výkon potřeby stravování má stěžovatel sice omezen, ale nelze prokázat, že by tuto potřebu nezvládal vůbec nebo byl při jejím zvládání omezen těžkým způsobem. V rámci bytu je mobilní na mechanickém invalidním vozíku, je schopen se přesunout k hotové stravě, je schopen stravu, hrnek a lžíci uchopit do rukou, rovněž zvládne si stravu naporcovat lžící. Nemá potíže v oblasti příjmu potravy a netrpí těžkou podvýživou. Nebyl proto důvod uznat tuto životní potřebu za nezvládnutou.</p>
+
+
+          <p>Ve vztahu k&nbsp;potřebě oblékání a obouvání posudkový lékař uvedl, že u stěžovatele nebylo zjištěno zdravotní postižení, které by znemožňovalo zvládat oblékání a obouvání. Při hodnocení vzal do úvahy facilitátory, které stěžovatel může používat - nazouváky obuvi, navlékače ponožek, suché zipy na oblečení, volný oděv, nazouvací obuv atd. Stěžovatel je schopen úchopu, vybrat si oblečení přiměřené okolnostem, dokáže manipulovat s oblečením, rozezná rub a líc. Absolvoval rehabilitační pobyt, v jehož rámci proběhl nácvik schopnosti obléct se a obout, který byl úspěšný. Oblečení pak je možné v domácnosti umístit tak, aby na ně stěžovatel dosáhl z invalidního vozíku a mohl si ho vzít a obléci si ho. Zavazování tkaniček není posudkově relevantní z toho důvodu, že existuje obuv bez tkaniček (typicky na suchý zip nebo nazouvací), kterou stěžovatel může používat.</p>
+
+
+          <p>Ve vztahu k&nbsp;životní potřebě tělesná hygiena posudkový lékař zopakoval, že u stěžovatele nebyla zjištěno zdravotní postižení, které by znemožňovalo provádět tělesnou hygienu. Nepřítomnost sprchového koutu v domácnosti není důvodem pro uznání neschopnosti vykonávat tuto potřebu (koupelnu je možné přestavět a uzpůsobit ji tak, aby byla bezbariérová; na tyto stavební práce je možné přiznat příspěvek na zvláštní pomůcku). Navíc je třeba brát v úvahu facilitátory - madla, protiskluzové pomůcky; hygienu je možné provádět rovněž postupným omýváním jednotlivých částí těla žínkou vsedě. Malou hygienu stěžovatel zvládá samostatně. Je schopen úchopu, v rámci bytu mobilní, je schopen využít sprchového koutu se sedátkem. Přesuny z vany a do vany jsou hodnoceny v mobilitě, jejíž nezvládání bylo stěžovateli uznáno.</p>
+
+
+          <p>Ochránce v postupu OSSZ Břeclav při posuzování zdravotního stavu stěžovatele v řízení o zvýšení příspěvku na péči neshledal pochybení. Posudek o stupni závislosti je jednoznačný, úplný a přesvědčivý.</p>
+        title: "Příspěvek na péči: Posuzování zvládání životních potřeb stravování,
+          oblékání a obouvání a tělesné hygiena "
+        id: 1441/2022/VOP
+        eso: https://eso.ochrance.cz/Nalezene/Edit/10414
 ---
