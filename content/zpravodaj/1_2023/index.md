@@ -2,11 +2,8 @@
 title: 1/2023
 month: 1
 year: 2023
-perex: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Vivamus ac leo
-  pretium faucibus. Phasellus enim erat, vestibulum vel, aliquam a, posuere eu,
-  velit. Integer tempor. Ut tempus purus at lorem. Cras elementum. Vivamus
-  luctus egestas leo.
-author: Váš autor článku
+perex: ""
+author: ""
 file: https://www.ochrance.cz/zpravodaj/1_2023/zpravodaj-ombudsmana-1-2023.pdf
 sections:
   - articles:
