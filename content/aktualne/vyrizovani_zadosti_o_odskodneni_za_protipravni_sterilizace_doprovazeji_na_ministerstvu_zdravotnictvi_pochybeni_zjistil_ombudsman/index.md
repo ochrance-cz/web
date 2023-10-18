@@ -15,7 +15,7 @@ perex: >
   odškodnění.</p>
 attachments:
   - title: Zpráva o šetření postupu Ministerstva zdravotnictví
-    file: https://eso.ochrance.cz/Nalezene/Edit/12186
+    file: https://eso.ochrance.cz/Nalezene/Edit/12232
 ---
 <p>Veřejný ochránce práv Stanislav Křeček prověřoval postup Ministerstva zdravotnictví v&nbsp;šetření z&nbsp;vlastní iniciativy. To zahájil vloni na základě stížností více než třicítky žadatelek o odškodnění za protiprávní sterilizace. V&nbsp;tomto systémovém šetření se zaměřil na proces vyřizování stížností, tedy na to, jak ministerstvo se stížnostmi nakládá po formální stránce. Věcným otázkám se věnuje v&nbsp;individuálních šetřeních případů jednotlivých stěžovatelek.</p>
 
