@@ -232,4 +232,96 @@ sections:
           oblékání a obouvání a tělesné hygiena "
         id: 1441/2022/VOP
         eso: https://eso.ochrance.cz/Nalezene/Edit/10414
+      - body: >
+          <p>Stěžovatelka pracovala jako lesní dělnice, zaměstnavatel s&nbsp;ní
+          však ukončil pracovní poměr. Dostavila se na úřad práce a chtěla
+          požádat o podporu v&nbsp;nezaměstnanosti. Zaměstnankyně úřadu práce do
+          kontaktního listu uchazeče o zaměstnání zapsala, že
+          &bdquo;<em>uchazečka nežádá PvN,&ldquo;</em> aniž by zjistila její
+          skutečný zájem o podporu v nezaměstnanosti. Stěžovatelka úřední
+          zkratce nerozuměla a záznam podepsala. Co uvedená úřední zkratka
+          znamenala, se dozvěděla až na další kontaktní schůzce. Teprve poté
+          požádala o podporu v&nbsp;nezaměstnanosti. Stěžovatelce byla přiznána
+          podpora v&nbsp;nezaměstnanosti až o více než měsíc později. Do té doby
+          byla bez jakékoli finanční podpory ze strany státu, ačkoli na ni měla
+          nárok. V&nbsp;reakci na zprávu zástupkyně veřejného ochránce práv úřad
+          své pochybení uznal a přijal systémová opatření k&nbsp;nápravě.</p>
+        title: "Zaměstnanost: Špatné poučení úřadem práce při podání žádosti o podporu v
+          nezaměstnanosti"
+        id: 4135/2021/VOP
+        eso: https://eso.ochrance.cz/Nalezene/Edit/10386
+  - title: Diskriminace
+    articles:
+      - body: >
+          <p>Stěžovatel je občanem Ruské federace, dlouhodobě žije v&nbsp;České
+          republice. Na ochránce se obrátil poté, co mu forexová (obchodování s
+          cizími měnami) společnost, jíž je klientem, sdělila, že vzhledem
+          k&nbsp;evropským sankcím vůči Rusku a z&nbsp;toho jí vyplývajícím
+          povinnostem musela omezit účty všech klientů, kteří mají vztah
+          k&nbsp;Rusku. Stěžovatel mohl i nadále uskutečňovat obchody, avšak
+          pouze po telefonu prostřednictvím makléře a po schválení compliance
+          oddělením.</p>
+
+
+          <p>Ochránce se rozhodl přijatá opatření posuzovat z&nbsp;pohledu nepřímé diskriminace z&nbsp;důvodu národnosti, protože společnost přijala omezení nejen vůči občanům Ruska, ale vůči všem klientům, kteří mají jakýkoliv vztah s&nbsp;Ruskem. Vysvětlil stěžovateli, že podle antidiskriminačního zákona se o nepřímou diskriminaci se nejedná tehdy, kdy jsou tato opatření objektivně odůvodněna legitimním cílem a prostředky k jeho dosažení jsou přiměřené a nezbytné. Ochránce konstatoval, že dodržování povinností souvisejících s&nbsp;evropskými sankcemi a vyplývajícími ze zákona o praní špinavých peněz (zákon č. 253/2008 Sb., o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu, dále také &bdquo;AML zákon&ldquo;) považuje za legitimní cíl. Co se týče přiměřenosti a nezbytnosti, považoval by za problematické, pokud by společnost zablokovala účty svých ruských klientů bez dalšího. Pokud však společnost umožňuje i nadále využívat jejích služeb, přestože méně praktickým způsobem, naznal, že přijaté prostředky jsou přiměřené. Pro společnost může být tento postup jediným možným způsobem, jak v současné situaci efektivně ověřovat jednotlivé transakce, a proto tato opatření považoval ochránce rovněž za nezbytná.</p>
+        title: "Omezení finančních služeb osobám se vztahem k Rusku "
+        id: 9117/2022/VOP
+        eso: https://eso.ochrance.cz/Nalezene/Edit/10484
+      - body: >
+          <p>Na ochránce se obrátila stěžovatelka, která je občankou Íránu a
+          v&nbsp;České republice pobývá jako žadatelka o mezinárodní ochranu.
+          V&nbsp;několika bankách žádala o otevření platebního účtu,
+          v&nbsp;žádném z&nbsp;nich ale nebyla úspěšná. Obrátila se proto na
+          Českou národní banku (dále jen &bdquo;ČNB&ldquo;), která jí sdělila,
+          že má jako osoba legálně pobývající v&nbsp;členském státu EU právo na
+          zřízení alespoň jednoho základního účtu, zároveň však banky musí
+          dodržovat povinnosti, které jim vyplývají ze zákona o praní špinavých
+          peněz (zákon č. 253/2008 Sb., o některých opatřeních proti legalizaci
+          výnosů z trestné činnosti a financování terorismu, dále také
+          &bdquo;AML zákon&ldquo;). Nesdělila však svoje stanovisko
+          k&nbsp;tomuto rozporu ani konkrétní informace k&nbsp;situaci
+          stěžovatelky. Ochránce se proto rozhodl zahájit vůči ČNB šetření.
+          Zajímal se o to, jak ČNB přistupuje k&nbsp;rozporu mezi právem na to
+          mít alespoň jeden účet a k&nbsp;povinnostem vyplývajícím bankám
+          z&nbsp;AML zákona, zejména zda mohou podle ČNB banky odmítat zákazníky
+          na základě pouhé skutečnosti, že jsou občany státu, vůči kterému ČR
+          uplatňuje mezinárodní sankce. Dotazoval se také na to, zda ČNB
+          zjišťovala od jednotlivých bank důvody, pro které stěžovatelku
+          odmítly.</p>
+
+
+          <p>Ochránce zjistil, že ČNB pochybila ve třech oblastech. Zaprvé, když jako orgánu vykonávající dohled nad finančním trhem nebyla schopna poskytnout jednoznačné právní stanovisko k řešení rozporu mezi právem osob legálně pobývajících na území České republiky na to mít alespoň jeden základní účet a mezi povinnostmi vyplývajícími bankám z AML zákona. Zadruhé, když se nezabývala konkrétními důvody, pro které banky stěžovatelce odmítly zřídit platební účet a nemohla tak posoudit ani otázku možného diskriminačního jednání v případě, že by banky stěžovatelku odmítly nikoliv na základě konkrétního posouzení důvěryhodnosti její osoby, nýbrž pouze na základě její národnosti či státní příslušnosti. Poslední pochybení spočívalo v&nbsp;tom, že ČNB stěžovatelce nesdělila důvody, pro které správní řízení nezahájila a neposkytla jí žádnou konkrétní informaci k tomu, jakým způsobem skutečnosti uváděné v podáních prověřila, či z jakého důvodu se je rozhodla neprověřovat.</p>
+
+
+          <p>Těsně před vydáním zprávy proběhla schůzka mezi zástupci Kanceláře veřejného ochránce práv a zástupci ČNB. Na této schůzce ČNB sdělila, že k dané problematice již zaujala konkrétní stanovisko, v návaznosti na nějž připravuje další kroky. Ochránce proto došel k&nbsp;závěru, že není účelné, abych vyžadoval přijetí dalších nápravných opatření.</p>
+
+
+          <p>&nbsp;</p>
+        title: Neotevření účtu žadatelce ze země, proti níž jsou uplatňovány sankce
+        id: 364/2021/VOP
+        eso: https://eso.ochrance.cz/Nalezene/Edit/10670
+  - title: Doporučení
+    articles:
+      - body: >
+          <p>Ochránce vydal <a
+          href="https://www.ochrance.cz/uploads-import/ESO/40-22-BVT-doporu%C4%8Den%C3%AD%20-%20obce-final.pdf">doporučení
+          </a>k postupu územních samospráv odmítajících ubytování romských
+          ukrajinských uprchlíků na svých územích. Učinil tak na podkladě
+          otevřených prohlášení některých obcí a krajů, které se na toto téma
+          objevovaly ve veřejném prostoru. Doporučení upozorňuje na související
+          právní úpravu v&nbsp;antidiskriminačním zákoně, který zakazuje
+          diskriminaci v&nbsp;oblasti bydlení mj. z&nbsp;důvodu etnického
+          původu. Ochránce současně dodává, že není úkolem samospráv situaci
+          romských uprchlíků vyřešit. To je odpovědností státu, který má
+          samosprávám poskytovat dostatečnou podporu.</p>
+
+
+          <p>&nbsp;</p>
+
+
+          <p>&nbsp;</p>
+        title: "Doporučení územním samosprávám ohledně ubytování romských ukrajinských
+          uprchlíků "
+        id: 40/2022/DIS
+        eso: https://eso.ochrance.cz/Nalezene/Edit/10526
 ---
