@@ -2,11 +2,10 @@
 title: 2/2022
 month: 2
 year: 2022
-perex: >-
-  Milé čtenářky, milí čtenáři,
-
-
-  v tomto zpravodaji máte možnost nahlédnout do pestrého výběru případů, kterými se ombudsman zabýval a jejich šetření skončilo v březnu nebo v dubnu. Řešily se třeba důchody, maturity, těžba, děti, doktoři a dětští doktoři.
+perex: V tomto zpravodaji máte možnost nahlédnout do pestrého výběru případů,
+  kterými se ombudsman zabýval a jejich šetření skončilo v březnu nebo v dubnu
+  roku 2022. Řešily se třeba důchody, maturity, těžba, děti, doktoři a dětští
+  doktoři.
 author: Přejeme příjemné čtení.
 file: https://www.ochrance.cz/zpravodaj/2_2022/zpravodaj-ombudsmana-2-2022.pdf
 sections:
