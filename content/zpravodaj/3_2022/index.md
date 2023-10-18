@@ -2,18 +2,13 @@
 title: 1/2022
 month: 1
 year: 2022
-perex: >
-  Milé čtenářky, milí čtenáři,
+perex: >+
+  Zpravodaj ombudsmana už docela dlouho slouží k tomu, abychom se v Kanceláři
+  veřejného ochránce práv vzájemně podělili o to, jakými případy se ombudsman
+  zabýval a jak dopadly. Nyní nabízíme Zpravodaj i veřejnosti. Rádi bychom,
+  abyste měli ještě lepší představu, co konkrétně ombudsman dělá. 
 
-
-  ze zvědavosti, náhodou nebo možná cíleně jste narazili na zpravodaj veřejného ochránce práv. Ten už docela dlouho slouží k tomu, abychom se v Kanceláři vzájemně podělili o to, jakými případy se ombudsman zabýval a jak dopadly. 
-
-
-  Napadlo nás zpravodaj nabídnout i všem ostatním lidem. Rádi bychom, abyste měli ještě lepší představu, co konkrétně ombudsman dělá. 
-
-
-  Snad se Vám bude líbit. 
-author: Přejeme příjemné čtení.
+author: Snad se Vám bude líbit. Přejeme příjemné čtení.
 file: https://www.ochrance.cz/zpravodaj/1_2022/zpravodaj-ombudsmana-1-2022.pdf
 sections:
   - title: "Veřejná správa "
