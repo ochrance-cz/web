@@ -10,9 +10,7 @@ attachments:
   - file: https://www.ochrance.cz/aktualne/hledame_kolegu_nebo_kolegyni_na_vypomoc_s_osobnim_prijmem_podnetu_u_ombudsmana/letak_inzerat_na_vypomoc_s_osobnim_prijmem.pdf
     title: Inzerát ve formě letáku
 ---
-<p><img alt="lista_inzerat.png" src="https://www.ochrance.cz/aktualne/hledame_kolegu_nebo_kolegyni_na_vypomoc_s_osobnim_prijmem_podnetu_u_ombudsmana/lista_inzerat.png" /></p>
-
-<p><strong>Práce na této pozici zahrnuje:</strong></p>
+<p><img alt="lista_inzerat.png" src="https://www.ochrance.cz/aktualne/hledame_kolegu_nebo_kolegyni_na_vypomoc_s_osobnim_prijmem_podnetu/lista_inzerat.png" /><strong>Práce na této pozici zahrnuje:</strong></p>
 
 <ul>
 	<li>komunikaci s lidmi, kteří osobně přicházejí podat podnět veřejnému ochránci práv,</li>
