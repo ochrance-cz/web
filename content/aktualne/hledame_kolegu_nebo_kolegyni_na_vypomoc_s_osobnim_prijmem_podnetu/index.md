@@ -8,7 +8,7 @@ perex: >
   s&nbsp;osobním příjmem podnětů.</p>
 attachments:
   - file: https://www.ochrance.cz/aktualne/hledame_kolegu_nebo_kolegyni_na_vypomoc_s_osobnim_prijmem_podnetu/letak_inzerat_na_vypomoc_s_osobnim_prijmem.pdf
-    title: Inzerát ve formě letáku
+    title: Inzerát ve formě PDF letáku
 ---
 <p><img alt="lista_inzerat.png" src="https://www.ochrance.cz/aktualne/hledame_kolegu_nebo_kolegyni_na_vypomoc_s_osobnim_prijmem_podnetu/lista_inzerat.png" /><strong>Práce na této pozici zahrnuje:</strong></p>
 
