@@ -23,7 +23,7 @@ attachments:
 
 <p><img alt="1.png" src="https://www.ochrance.cz/aktualne/na_kavu_s_ombudsmanem_97-_dil_podvodna_jednani_v_e-prostoru/1.png" /><img alt="2.png" src="https://www.ochrance.cz/aktualne/na_kavu_s_ombudsmanem_97-_dil_podvodna_jednani_v_e-prostoru/2.png" /><img alt="3.png" src="https://www.ochrance.cz/aktualne/na_kavu_s_ombudsmanem_97-_dil_podvodna_jednani_v_e-prostoru/3.png" /><img alt="4.png" src="https://www.ochrance.cz/aktualne/na_kavu_s_ombudsmanem_97-_dil_podvodna_jednani_v_e-prostoru/4.png" /></p>
 
-<p>V&nbsp;příštím podcastu se zaměříme na kácení dřevin.</p>
+<p>V&nbsp;příštím podcastu se budeme věnovat dětem v ústavní péči.</p>
 
 <p>&nbsp;</p>
 
