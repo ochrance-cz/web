@@ -8,4 +8,4 @@ vystupy:
 
 <p>Příloha: <a href="https://www.ochrance.cz/dokument/zpravy_pro_poslaneckou_snemovnu_2023/2023-i-q-sankce.pdf">Věci, v nichž nebylo dosaženo nápravy</a>: problém s napojením na vodovod, nepřidělení čísla popisného/evidenčního garáži</p>
 
-<p><a href="https://www.ochrance.cz/dokument/zpravy_pro_poslaneckou_snemovnu_2023/2023-ii-q.pdf">Zpráva za 2. čtvrtletí roku 2023</a></p>
+<p><a href="https://www.ochrance.cz/dokument/zpravy_pro_poslaneckou_snemovnu_2023/2023-ii-q.pdf">Zpráva za 2. čtvrtletí roku 2023 </a></p>
