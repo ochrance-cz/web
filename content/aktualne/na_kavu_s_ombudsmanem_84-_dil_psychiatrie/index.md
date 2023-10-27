@@ -8,6 +8,14 @@ perex: >
   psychiatrie. Věnujeme se tomu, jak ombudsman provádí návštěvy psychiatrických
   nemocnic, používání omezovacích prostředků a podmínkám v&nbsp;nemocnicích.</p>
 ---
+
+
+{{< youtube "nYSfoZhlkO8?si=0dtvm1Ow_Yt5tkT5" >}}
+
+
+
+<p>&nbsp;</p>
+
 <p>Více také v&nbsp;našem informačním letáku <a href="https://www.ochrance.cz/letaky/psychiatricka-nemocnice/psychiatricka-nemocnice.pdf">Pobyt na psychiatrii</a>.</p>
 
 <p>&nbsp;</p>
