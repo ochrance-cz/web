@@ -6,17 +6,14 @@ date: 2023-10-30T07:26:13.431Z
 vystupy:
   - nabidka-prace
 perex: >
-  <p>V&nbsp;Kanceláři veřejného ochránce práv usilujeme dlouhodobě o&nbsp;dobrou
-  veřejnou správu a&nbsp;společnost bez předsudků. Snažíme se také předcházet
-  špatnému zacházení s&nbsp;lidmi, kteří žijí v&nbsp;institucích nebo jsou
-  vyhošťovaní. Monitorujeme práva osob se zdravotním postižením a&nbsp;pomáháme
-  cizincům-občanům Evropské unie, kteří žijí nebo pracují v&nbsp;České
-  republice. Jsme férový zaměstnavatel a&nbsp;rádi mezi nás přijmeme nové kolegy
-  a kolegyně přicházející z&nbsp;různých skupin společnosti bez ohledu na věk,
+  <p>Jsme férový zaměstnavatel a&nbsp;rádi mezi nás přijmeme nové kolegy a
+  kolegyně přicházející z&nbsp;různých skupin společnosti bez ohledu na věk,
   pohlaví, zdravotní stav, rasu, národnost, sexuální orientaci, náboženské
   vyznání, víru a světový názor. Rozmanitost na&nbsp;pracovišti je pro&nbsp;nás
   důležitá.</p>
 ---
+<p>V&nbsp;Kanceláři veřejného ochránce práv usilujeme dlouhodobě o&nbsp;dobrou veřejnou správu a&nbsp;společnost bez předsudků. Snažíme se také předcházet špatnému zacházení s&nbsp;lidmi, kteří žijí v&nbsp;institucích nebo jsou vyhošťovaní. Monitorujeme práva osob se zdravotním postižením a&nbsp;pomáháme cizincům-občanům Evropské unie, kteří žijí nebo pracují v&nbsp;České republice.</p>
+
 <h3><strong>Nabízíme dvě pozice v&nbsp;týmu dohledu nad dodržováním práv osob omezených na svobodě</strong></h3>
 
 <p><strong>1. Agenda monitorování zacházení a podmínek pobytu dětí v&nbsp;zařízeních</strong>, kde pobývají z&nbsp;rozhodnutí státu nebo z&nbsp;toho důvodu, že jsou odkázáni na péči druhých. Provádíme systematické návštěvy zařízení. Zjišťujeme, jaké tam mají děti podmínky pro&nbsp;život a jak se s&nbsp;nimi zachází. S&nbsp;prováděním návštěv souvisí vysílání na služební cesty.</p>
