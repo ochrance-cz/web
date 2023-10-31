@@ -56,7 +56,7 @@ gallery:
 <p><img alt="2.png" src="2.png" /></p>
 
 <ul>
-	<li>4.9.2023 &ndash; přinášíme poznatky z&nbsp;naplňování práva na rovné zacházení a ochrany před diskriminací za rok 2022. Tiskovou zprávu s&nbsp;dalšími podrobnostmi naleznete <a href="https://www.ochrance.cz/aktualne/podle_pravidel_pro_zaky_s_lehkym_mentalnim_postizenim_se_porad_uci_vice_romskych_deti_nez_by_odpovidalo_zastoupeni_romu_mezi_vsemi_skolaky/">zde</a>, monitorovací zprávu za rok 2022 <a href="https://www.ochrance.cz/uploads-import/ESO/16-2023-DIS-DJ-JKV_1-final.pdf">zde</a>.</li>
+	<li>4.9.2023 &ndash; přinášíme poznatky z&nbsp;naplňování práva na rovné zacházení a ochrany před diskriminací za rok 2022. Tiskovou zprávu s&nbsp;dalšími podrobnostmi naleznete <a href="https://www.ochrance.cz/aktualne/podle_pravidel_pro_zaky_s_lehkym_mentalnim_postizenim_se_porad_uci_vice_romskych_deti_nez_by_odpovidalo_zastoupeni_romu_mezi_vsemi_skolaky/">zde</a>, monitorovací zprávu za rok 2022 <a href="https://www.ochrance.cz/uploads-import/ESO/monitorovaci-zprava_2023-WEB-CZ_10-23.pdf">zde</a>&nbsp;a v anglickém jazyce <a href="https://www.ochrance.cz/uploads-import/ESO/monitorovaci-zprava_2023-WEB-EN%2010-23.pdf">zde</a>.</li>
 	<li>
 	<p>14.8.2023 &ndash; zveřejňujeme čtrnáctou zprávu z&nbsp;následné návštěvy zařízení a to Zařízení pro zajištění cizinců Balková <a href="https://www.ochrance.cz/uploads-import/ESO/NZ%2043-2022-T%C5%BDK%20-%20zpr%C3%A1va%20final.pdf">zde</a> a patnáctou zprávu z&nbsp;následné návštěvy zařízení Policejní cely Plzeň <a href="https://www.ochrance.cz/uploads-import/ESO/PEO%20Plze%C5%88%203-2023-NZ.pdf">zde</a>.</p>
 	</li>
