@@ -17,7 +17,7 @@ perex: >
   s&nbsp;Romy v&nbsp;jejich přístupu ke vzdělávání a jeho poskytování.</p>
 attachments:
   - title: Monitorovací zpráva za rok 2022
-    file: https://eso.ochrance.cz/Nalezene/Edit/11782
+    file: https://www.ochrance.cz/uploads-import/ESO/monitorovaci-zprava_2023-WEB-CZ_10-23.pdf
   - title: Monitorovací zpráva za rok 2021
     file: https://eso.ochrance.cz/Nalezene/Edit/10620
   - title: Monitorovací zpráva za rok 2020
