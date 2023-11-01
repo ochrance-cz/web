@@ -6,9 +6,7 @@ linksAfter: []
 
 <p>Právě nabízíme dvě pozice v&nbsp;týmu dohledu nad dodržováním práv osob omezených na svobodě -&gt;<a href="https://www.ochrance.cz/aktualne/chcete_pracovat_jako_pravnicka_nebo_pravnik_v_kancelari_verejneho_ochrance_prav_prave_nabizime_dve_pozice_v_tymu_dohledu_nad_dodrzovanim_prav_osob_omezenych_na_svobode/"> přejděte na inzerát</a>.</p>
 
-<p>A hledáme také kolegu nebo kolegyni na výpomoc s osobním příjmem podnětů&nbsp;-&gt; <a href="https://www.ochrance.cz/aktualne/hledame_kolegu_nebo_kolegyni_na_vypomoc_s_osobnim_prijmem_podnetu/">přejděte na inzerát</a>.</p>
-
-<h2><strong>Stáže pro studenty právnických fakult</strong></h2>
+<p><strong>Stáže pro studenty právnických fakult</strong></p>
 
 <p>Na stáž se můžete přihlásit přes svou právnickou fakultu v&nbsp;Brně, Olomouci a Praze. Pokud nevíte, koho ve škole oslovit, napište na adresu <a href="mailto:lzicarova@ochrance.cz">lzicarova@ochrance.cz</a>.</p>
 
