@@ -5,7 +5,8 @@ vystupy:
   - nabidka-prace
 perex: >
   <p>V Kanceláři veřejného ochránce práv hledáme posilu, která nám vypomůže
-  s&nbsp;osobním příjmem podnětů.</p>
+  s&nbsp;osobním příjmem podnětů. <em>Poznámka 1. 11. 2023: výběrové řízení bylo
+  ukončeno.</em></p>
 attachments:
   - file: https://www.ochrance.cz/aktualne/hledame_kolegu_nebo_kolegyni_na_vypomoc_s_osobnim_prijmem_podnetu/letak_inzerat_na_vypomoc_s_osobnim_prijmem.pdf
     title: Inzerát ve formě PDF letáku
