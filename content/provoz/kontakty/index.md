@@ -237,6 +237,10 @@ lawyers:
         role: právnička
         phone: "542 542 202 "
         email: nikola.kovarova@ochrance.cz
+      - name: Andrea Vašíčková
+        role: "právnička "
+        phone: 542 542 296
+        email: andrea.vasickova@ochrance.cz
   - title: Odbor justice, migrace a financí
     intro: daně, cla, správní a místní poplatky, cizinecké záležitosti (víza,
       dlouhodobý pobyt, azyl, vyhoštění aj.), státní správa soudnictví (průtahy
