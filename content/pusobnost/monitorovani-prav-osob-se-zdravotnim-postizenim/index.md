@@ -22,6 +22,8 @@ Naším cílem je posilovat přístupnost informací pro všechny bez rozdílu. 
 * **získává podněty** od lidí s postižením, organizací hájících jejich práva a od pečujících osob,
 * **zajišťuje informovanost** lidí s postižením, organizací hájící jejich práva a široké veřejnosti o činnost ombudsmana v oblasti monitorování podle Úmluvy.
 
+P﻿oradní orgán má svůj [Jednací řád](/media/jednaci_rad_poradniho_organu.doc) a [Statut](/media/statut_poradniho_organu.docx).
+
 {{< rozbal "Členové poradního orgánu" >}}
 
 Poradní orgán má 17 členů. Jeho členy jsou lidé s postižením a lidé hájící práva lidí s postižením. Při jmenování členů poradního orgánu přihlíží ombudsman zejména k jejich **odbornosti a angažovanosti v oblasti ochrany práv lidí s postižením**.
