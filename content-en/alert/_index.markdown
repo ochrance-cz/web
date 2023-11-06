@@ -4,22 +4,30 @@ title: " Українці, увага! Тут ви можете знайти в�
 draft: false
 active: true
 ---
+* [Уразлива особа та термінове розміщення](/media/mop_nouzove_ubytovani_ua.pdf)
+
+  [Zranitelná osoba a nouzové ubytování](/media/mop_nouzove_ubytovani_cz.pdf)
 * [Як омбудсмен може допомогти українцям,що переїхали в Чехію у зв’язку з війною](https://www.ochrance.cz/letaky/jak_ombudsman_muze_pomoct_prichozim_z_ukrajiny/jak-ombudsman-muze-pomoct-prichozim-z-ukrajiny-ua.pdf)
 
-  [Как омбудсмен может помочь украинцам, переехавшимв Чехию в связи с войной](https://www.ochrance.cz/letaky/jak_ombudsman_muze_pomoct_prichozim_z_ukrajiny/jak-ombudsman-muze-pomoct-prichozim-z-ukrajiny-ru.pdf)
-* [Тимчасовий захист: продовження](/media/ua_prodlouzeni_obecne.pdf)
+  [Jak ombudsman může pomoct příchozím z Ukrajiny](https://www.ochrance.cz/letaky/jak_ombudsman_muze_pomoct_prichozim_z_ukrajiny/jak-ombudsman-muze-pomoct-prichozim-z-ukrajiny.pdf)
 
-  [Тимчасовий захист: Представник неповнолітнього](/media/ua_vazby_obecne_verze_pro_online.pdf)
+  [Как омбудсмен может помочь украинцам, переехавшимв Чехию в связи с войной](https://www.ochrance.cz/letaky/jak_ombudsman_muze_pomoct_prichozim_z_ukrajiny/jak-ombudsman-muze-pomoct-prichozim-z-ukrajiny-ru.pdf)
+* [](https://www.ochrance.cz/letaky/jak_ombudsman_muze_pomoct_prichozim_z_ukrajiny/jak-ombudsman-muze-pomoct-prichozim-z-ukrajiny-ru.pdf)[Тимчасовий захист: продовження](/media/ua_prodlouzeni_obecne.pdf)
+
+[Тимчасовий захист: Представник неповнолітнього](/media/ua_vazby_obecne_verze_pro_online.pdf)
+
 * ЯК ШУКАТИ РОБОТУ - ІСТОРІЯ ІРИНИ 
 
 {{< youtube "Pk94zVkcIkA" >}} 
 
 * актуальна інформація МВС Чехії щодо перебування українців у Чехії: <https://www.mvcr.cz/clanek/informace-pro-obcany-ukrajiny.aspx>
 * спеціальна телефонна лінія та електронна адреса МВС для українців: 
+
   +420 974 801 802
 
   [ukrajina@mvcr.cz](mailto:ukrajina@mvcr.cz)
-* найновіша інформація та посилання на пропозиції допомоги: 
+* найновіша інформація та посилання на пропозиції допомоги:
+
   [www.nasiukrajinci.cz](http://www.nasiukrajinci.cz)
 * Консорціум недержавних організацій, що працюють з мігрантами:
 
@@ -33,14 +41,14 @@ active: true
   <https://detiukrajiny.cz/ua/>
 
   <https://www.studyin.cz/ukraine/>
-* Список Контактних допоміжних центрів допомоги Україні 
 
-  https://www.mvcr.cz/clanek/seznam-kontaktnich-asistencnich-center-pomoci-ukrajine.aspx 
+  Список Контактних допоміжних центрів допомоги Україні 
+* https://www.mvcr.cz/clanek/seznam-kontaktnich-asistencnich-center-pomoci-ukrajine.aspx 
 
   {{< youtube "BygfkpFbIn8" >}}
 * [CZTN](https://cztn.cz/) готовий надати будь-яку допомогу у спілкуванні, якщо до нас звернуться глухі українці чи їхні родини, або допомогти надати супутні послуги.
 
-  <https://www.youtube.com/watch?v=jtZAZAf0ORI>
+  <https://www.youtube.com/watch?v=jtZAZAf0ORI> 
 
   Facebook Group: <https://www.facebook.com/groups/3810464052511496>
 
@@ -74,7 +82,7 @@ active: true
 
 [Якщо це собака, кіт чи фретка(домашній тхір), дійте наступним чином:](https://www.ochrance.cz/letaky/letak-zvirata-ua/letak-zvirata-ua.pdf)
 
-[](https://www.ochrance.cz/letaky/letak-zvirata-ua/letak-zvirata-ua.pdf)**1.** Перших **10 днів** тваринку постійно тримайте біля себе;
+**1.** Перших **10 днів** тваринку постійно тримайте біля себе;
 
 **2.** До **72 год** зверніться з твариною до ветеринара – ветеринар тваринку огляне та надасть мікрочіп – список ветеринарів знайдете тут:  <https://www.vetkom.cz/seznam-veterinaru/>
 
