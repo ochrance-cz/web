@@ -34,7 +34,7 @@ perex: >
 
 <p><a href="https://ppropo.mpsv.cz/xviii1minimalnimzda"><strong>Minimální mzda</strong></a> je nejnižší přípustná výše odměny za práci v&nbsp;základním pracovněprávním vztahu. Mzda, plat nebo odměna z&nbsp;dohody nesmí být nižší než minimální mzda.</p>
 
-<p><a href="https://ppropo.mpsv.cz/xviii2zarucenamzda"><strong>Zaručená mzda</strong></a> je nejnižší možná mzda nebo plat pro jednotlivé práce podle jejich složitosti odpovědnosti a namáhavosti. Vláda stanoví nařízením nejnižší úroveň zaručené mzdy a podmínky pro její poskytování zaměstnancům, jejichž mzda není sjednána v&nbsp;kolektivní smlouvě, a pro zaměstnance, kterým se za práci poskytuje plat.</p>
+<p><a href="https://ppropo.mpsv.cz/xviii2zarucenamzda"><strong>Zaručená mzda</strong></a> je nejnižší možná mzda nebo plat pro jednotlivé práce podle jejich složitosti, odpovědnosti a namáhavosti. Vláda stanoví nařízením nejnižší úroveň zaručené mzdy a podmínky pro její poskytování zaměstnancům, jejichž mzda není sjednána v&nbsp;kolektivní smlouvě, a pro zaměstnance, kterým se za práci poskytuje plat.</p>
 
 <p>Zdroj: <a href="https://ppropo.mpsv.cz/">https://ppropo.mpsv.cz/</a>&nbsp;</p>
 </blockquote>
