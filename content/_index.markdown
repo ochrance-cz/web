@@ -18,4 +18,5 @@ aktuality:
   - doporuceni
   - vyzkumy
   - pozvanka
+  - newsletter
 ---
