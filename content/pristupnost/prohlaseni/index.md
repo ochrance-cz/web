@@ -32,6 +32,7 @@ Vaše náměty či informace o problémech při zobrazování stránek, stejně 
 
 V případě neuspokojivé odpovědi na zpětnou vazbu dle předchozího odstavce, můžete kontaktovat příslušný orgán pro prosazování práva:
 
-Ministerstvo vnitra, odbor eGovernmentu
-náměstí Hrdinů 1634/3, 140 21 Praha 4
-email: [pristupnost@mvcr.cz](mailto:pristupnost@mvcr.cz)
+Digitální a informační agentura
+Na Vápence 915/14
+130 00 Praha 3
+e-mail:  [pristupnost@dia.gov.cz](mailto:pristupnost@dia.gov.cz)
