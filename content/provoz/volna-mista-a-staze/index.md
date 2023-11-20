@@ -4,7 +4,9 @@ linksAfter: []
 ---
 <h2><strong>Volná místa</strong></h2>
 
-<p>Právě nabízíme dvě pozice v&nbsp;týmu dohledu nad dodržováním práv osob omezených na svobodě -&gt;<a href="https://www.ochrance.cz/aktualne/chcete_pracovat_jako_pravnicka_nebo_pravnik_v_kancelari_verejneho_ochrance_prav_prave_nabizime_dve_pozice_v_tymu_dohledu_nad_dodrzovanim_prav_osob_omezenych_na_svobode/"> přejděte na inzerát</a>.</p>
+<p>Nyní neprobíhá žádné výběrové řízení.</p>
+
+<p>Pokud se přesto chcete ucházet o místo, pošlete nám svůj životopis na adresu <a href="mailto:lzicarova@ochrance.cz">lzicarova@ochrance.cz</a> a napište, o jakou práci máte zájem.</p>
 
 <p><strong>Stáže pro studenty právnických fakult</strong></p>
 
