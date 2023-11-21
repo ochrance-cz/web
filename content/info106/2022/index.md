@@ -29,7 +29,27 @@ title: "2022"
 
 <p><a href="https://www.ochrance.cz/info106/2022/5_2022_zadost.pdf">Žádost o informace</a>.</p>
 
-<p><a href="https://www.ochrance.cz/info106/2022/5_2022_odpoved.odt">Odpověď na žádost</a>.</p>
+<p><a href="https://www.ochrance.cz/info106/2022/5_2022_odpoved.odt">Odpověď na žádost</a>.&nbsp;</p>
+
+<p><strong>Přílohy:</strong></p>
+
+<p><a href="https://www.ochrance.cz/info106/2022/cizp_1.pdf">CIZP 1</a></p>
+
+<p><a href="https://www.ochrance.cz/info106/2022/cizp_2.pdf">CIZP 2</a></p>
+
+<p><a href="https://www.ochrance.cz/info106/2022/hranice_2.pdf">Hranice 2</a></p>
+
+<p><a href="https://www.ochrance.cz/info106/2022/mzp_1.pdf">MZP 1</a></p>
+
+<p><a href="https://www.ochrance.cz/info106/2022/mzp_2.pdf">MZP 2</a></p>
+
+<p><a href="https://www.ochrance.cz/info106/2022/olomoucky_kraj.pdf">Olomoucký kraj.pdf</a></p>
+
+<p><a href="https://www.ochrance.cz/info106/2022/protokol_z_jednani_na_cizp.pdf">Protokol z jednání na CIZP</a></p>
+
+<p><a href="https://www.ochrance.cz/info106/2022/vm_2.pdf">VM 2</a></p>
+
+<p><a href="https://www.ochrance.cz/info106/2022/zlinsky_kraj_2.pdf">Zlínský kraj 2</a></p>
 
 <h3>6/2022 &ndash; Informace&nbsp;ke spisu z&nbsp;oblasti Státní správa soudnictví</h3>
 
