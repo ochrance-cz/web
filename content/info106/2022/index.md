@@ -84,7 +84,7 @@ title: "2022"
 	<li><a href="https://www.ochrance.cz/info106/2022/prerov_priloha_5.pdf">Přerov &ndash; příloha 5</a></li>
 	<li><a href="https://www.ochrance.cz/info106/2022/prerov_priloha_6.pdf">Přerov &ndash; příloha 6</a></li>
 	<li><a href="https://www.ochrance.cz/info106/2022/prerov_priloha_7.pdf">Přerov &ndash; příloha 7</a></li>
-	<li>Přerov&nbsp;&ndash; příloha 8</li>
+	<li><a href="https://www.ochrance.cz/info106/2022/prerov_priloha_8.pdf">Přerov&nbsp;&ndash; příloha 8</a></li>
 	<li><a href="https://www.ochrance.cz/info106/2022/prerov_priloha_9.pdf">Přerov &ndash; příloha 9</a></li>
 </ul>
 
@@ -116,16 +116,6 @@ title: "2022"
 </ul>
 
 <p><a href="https://www.ochrance.cz/info106/2022/zlinsky_kraj_2.pdf">Zlínský kraj 2</a></p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
 
 <h3>6/2022 &ndash; Informace&nbsp;ke spisu z&nbsp;oblasti Státní správa soudnictví</h3>
 
