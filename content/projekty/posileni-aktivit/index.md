@@ -49,6 +49,9 @@ gallery:
 
 <ul>
 	<li>
+	<p>22.11.2023 &ndash; zveřejňujeme šestnáctou zprávu z&nbsp;následné návštěvy Výchovného ústavu Žulová <a href="https://www.ochrance.cz/uploads-import/ESO/13_2023_NZ%20V%C3%9A%20%C5%BDulov%C3%A1.pdf">zde</a> a sedmnáctou zprávu z&nbsp;následné návštěvy policejní cely obvodního oddělení Litoměřice <a href="https://www.ochrance.cz/uploads-import/ESO/Zpr%C3%A1va%20NZ%2016-2023%20Litom%C4%9B%C5%99ice.pdf">zde</a>.</p>
+	</li>
+	<li>
 	<p>18.9.2023 &ndash; Uspořádali jsme kulatý stůl za účasti norského partnera. Více se můžete dočíst <a href="https://www.ochrance.cz/aktualne/v_kancelari_ombudsmana_budou_o_moznem_vzniku_ceske_narodni_lidskopravni_instituce_nhri_v_pondeli_diskutovat_odbornici_na_ochranu_lidskych_prav_ze_sedmi_evropskych_statu/">zde</a>.</p>
 	</li>
 </ul>
