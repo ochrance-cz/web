@@ -17,7 +17,7 @@ attachments:
     file: https://www.odok.cz/portal/veklep/material/pripominky/KORNCX5LAAG3/
   - title: Připomínky veřejného ochránce práv k návrhu na změnu platového stupně
       části pedagogických pracovníků
-    file: "https://www.odok.cz/portal/veklep/material/pripominky/KORNCWXN7NPA/ "
+    file: https://odok.cz/portal/veklep/material/pripominky/KORNCWXN7NPA/
 ---
 <p>Ministerstvo školství jako předkladatel obou změn předpisů podle ombudsmana své záměry dostatečně nezdůvodnilo. U návrhu na snížení PHmax není zřejmé, z&nbsp;jakých dat vychází. Změnu platového stupně části pedagogických pracovníků zase opírá o analýzu, která není veřejně dostupná. <em>&bdquo;Není to poprvé, co předkladatele v oblasti společného vzdělávání upozorňuji, že pokud pracuje s daty a činí na jejich základě důležitá legislativní opatření, měl by uvedená data zpřístupnit, aby se s nimi mohla seznámit odborná veřejnost,&ldquo;</em> vytkl ombudsman Stanislav Křeček v&nbsp;<a href="https://www.odok.cz/portal/veklep/material/pripominky/KORNCWXN7NPA/">připomínkách</a>.</p>
 
