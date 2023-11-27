@@ -3,5 +3,5 @@ title: Podcast
 plural: Podcasty
 listed: true
 slug: podcast
-illustration: podcasty.jpg
+illustration: dsc_9273o.jpg
 ---
