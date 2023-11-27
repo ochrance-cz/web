@@ -48,6 +48,7 @@ gallery:
 <h2>Aktuality</h2>
 
 <ul>
+	<li>24.11.2023 &ndash; zveřejňujeme osmnáctou zprávu z&nbsp;následné návštěvy policejní cely Obvodního oddělení Mělník&nbsp;<a href="https://www.ochrance.cz/uploads-import/ESO/OOP%20M%C4%9Bln%C3%ADk%2017-2023-NZ.pdf">zde</a>&nbsp;a devatenáctou zprávu z&nbsp;následné návštěvy Domova pro seniory Uničov, s.r.o. <a href="https://www.ochrance.cz/uploads-import/ESO/NZ%202-2023%20Uni%C4%8Dov%20zpr%C3%A1va.pdf">zde</a>.</li>
 	<li>
 	<p>22.11.2023 &ndash; zveřejňujeme šestnáctou zprávu z&nbsp;následné návštěvy Výchovného ústavu Žulová <a href="https://www.ochrance.cz/uploads-import/ESO/13_2023_NZ%20V%C3%9A%20%C5%BDulov%C3%A1.pdf">zde</a> a sedmnáctou zprávu z&nbsp;následné návštěvy policejní cely obvodního oddělení Litoměřice <a href="https://www.ochrance.cz/uploads-import/ESO/Zpr%C3%A1va%20NZ%2016-2023%20Litom%C4%9B%C5%99ice.pdf">zde</a>.</p>
 	</li>
