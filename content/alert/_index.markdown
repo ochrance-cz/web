@@ -1,11 +1,21 @@
 ---
-title: "Українці, увага! Тут ви можете знайти важливі посилання з інформацією
-  про ваше перебування в Чеській Республіці. "
+title: Připojte se na naší konferenci PŘÍSTUPNOST A BEZBARIÉROVÉ UŽÍVÁNÍ STAVEB
 active: true
 ---
+**Odkaz na stream:** <https://ochrance.livebox.cz/q0oOMe7w0USLwGYQ0fVpow.html>
+
+**Odkaz na přepis**: <https://text-on-tap.live/index.html#e=pristupnost>.
+
+
+
+
+
+Українці, увага! Тут ви можете знайти важливі посилання з інформацією про ваше перебування в Чеській Республіці. 
+
 * [Уразлива особа та термінове розміщення](/media/mop_nouzove_ubytovani_ua.pdf)
 
-  [Zranitelná osoba a nouzové ubytování](/media/mop_nouzove_ubytovani_cz.pdf)
+[Zranitelná osoba a nouzové ubytování](/media/mop_nouzove_ubytovani_cz.pdf)
+
 * [Як омбудсмен може допомогти українцям,що переїхали в Чехію у зв’язку з війною](https://www.ochrance.cz/letaky/jak_ombudsman_muze_pomoct_prichozim_z_ukrajiny/jak-ombudsman-muze-pomoct-prichozim-z-ukrajiny-ua.pdf)
 
   [Jak ombudsman může pomoct příchozím z Ukrajiny](https://www.ochrance.cz/letaky/jak_ombudsman_muze_pomoct_prichozim_z_ukrajiny/jak-ombudsman-muze-pomoct-prichozim-z-ukrajiny.pdf)
