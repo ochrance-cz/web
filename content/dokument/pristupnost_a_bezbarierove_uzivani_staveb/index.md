@@ -52,12 +52,12 @@ Ema Rónová,&nbsp;Sebeobhájkyně a zakladatelka iniciativy &bdquo;Nejen toalet
 <p>Přístupnost úřadů a služeb pro neslyšící<br />
 Henry Mikulík,&nbsp;ASNEP, poradní orgán</p>
 
-<p>Jak pracovat na přístupnosti&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Miroslav Filipčík,&nbsp;Magistrát města Ostravy</p>
+<p><a href="https://www.ochrance.cz/dokument/pristupnost_a_bezbarierove_uzivani_staveb/filipcik.pdf">Jak pracovat na přístupnosti&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Miroslav Filipčík,&nbsp;Magistrát města Ostravy</p>
 
-<p>Institucionální překážky bezbariérovosti<br />
+<p><a href="https://www.ochrance.cz/dokument/pristupnost_a_bezbarierove_uzivani_staveb/osman.pptx">Institucionální překážky bezbariérovosti</a><br />
 RNDr. Robert Osman, Ph.D.,Masarykova univerzita, Brno</p>
 
-<p>Přístupnost veřejného prostoru pro lidi se zrakovým postižením<br />
+<p><a href="https://www.ochrance.cz/dokument/pristupnost_a_bezbarierove_uzivani_staveb/brasna.ppsx">Přístupnost veřejného prostoru pro lidi se zrakovým postižením</a><br />
 František Brašna,&nbsp;Sjednocená organizace nevidomých a slabozrakých ČR</p>
 
 <p>Přístupnost z pohledu autorizovaných osob &ndash; příprava nové technické normy<br />
