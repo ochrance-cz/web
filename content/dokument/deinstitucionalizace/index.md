@@ -34,12 +34,12 @@ Kamila Ježková, sebeobhájce (podpora: Noemi Sáričková),&nbsp;Ludmila Nová
 <h4>3. blok:&nbsp;Systémová podpora transformace</h4>
 
 <p>Aktuality MPSV v oblasti deinstitucionalizace sociálních služeb<br />
-Štefan Lukáč, vedoucí oddělení sociálních služeb a plánování, odbor koncepce sociálních služeb a sociální práce,&nbsp;Klára Holanová, vrchní ministerský rada, oddělení sociálních služeb a plánování</p>
+Štefan Lukáč, vedoucí oddělení sociálních služeb a plánování, odbor koncepce sociálních služeb a sociální práce,&nbsp;Klára Holanová, vrchní ministerský rada, oddělení sociálních služeb a plánování&nbsp;&ndash; <a href="https://www.ochrance.cz/dokument/deinstitucionalizace/holanova.pptx">prezentace</a></p>
 
 <p>Zkušenosti sebeobhájců s komunitním modelem péče<br />
 Kateřina Formanová, sebeobhájce (podpora: Noemi Sáričková),&nbsp;Eva Němcová, sebeobhájce (podpora: Noemi Sáričková)</p>
 
 <h4>4. blok:&nbsp;Aktuality Centra podpory transformace</h4>
 
-<p>Monika Jelínková, odborný garant, Centrum podpory transformace<br />
+<p>Monika Jelínková, odborný garant, Centrum podpory transformace&nbsp;&ndash; <a href="https://www.ochrance.cz/dokument/deinstitucionalizace/jelinkova.pptx">prezentace</a><br />
 Šimon Budský, ředitel, Centrum podpory transformace</p>
