@@ -9,7 +9,7 @@ attachmentsTop:
 ---
 <h3><strong>KONFERENCE&nbsp;PŘÍSTUPNOST A BEZBARIÉROVÉ UŽÍVÁNÍ STAVEB (29. 11. 2023)</strong></h3>
 
-<p><strong>Odkaz na stream:</strong></p>
+<p><strong>Odkaz na stream:&nbsp;</strong><a href="https://ochrance.livebox.cz/q0oOMe7w0USLwGYQ0fVpow.html">https://ochrance.livebox.cz/q0oOMe7w0USLwGYQ0fVpow.html</a></p>
 
 <p><strong>Odkaz na přepis</strong>: <a href="https://text-on-tap.live/index.html#e=pristupnost">https://text-on-tap.live/index.html#e=pristupnost</a>.</p>
 
@@ -52,7 +52,8 @@ Ema Rónová,&nbsp;Sebeobhájkyně a zakladatelka iniciativy &bdquo;Nejen toalet
 <p>Přístupnost úřadů a služeb pro neslyšící<br />
 Henry Mikulík,&nbsp;ASNEP, poradní orgán</p>
 
-<p><a href="https://www.ochrance.cz/dokument/pristupnost_a_bezbarierove_uzivani_staveb/filipcik.pdf">Jak pracovat na přístupnosti&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Miroslav Filipčík,&nbsp;Magistrát města Ostravy</p>
+<p><a href="https://www.ochrance.cz/dokument/pristupnost_a_bezbarierove_uzivani_staveb/filipcik.pdf">Jak pracovat na přístupnosti</a><br />
+Miroslav Filipčík,&nbsp;Magistrát města Ostravy</p>
 
 <p><a href="https://www.ochrance.cz/dokument/pristupnost_a_bezbarierove_uzivani_staveb/osman.pptx">Institucionální překážky bezbariérovosti</a><br />
 RNDr. Robert Osman, Ph.D.,Masarykova univerzita, Brno</p>
