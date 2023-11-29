@@ -22,7 +22,7 @@ vystupy:
 <p><strong>Sebeobhajování a moje zkušenost</strong></p>
 
 <ul>
-	<li>Zbyněk Dvouletý, sebeobhájce (podpora: Romana Brucknerová),&nbsp;</li>
+	<li>Zbyněk Dvouletý, sebeobhájce (podpora: Romana Brucknerová) &ndash; <a href="https://www.ochrance.cz/dokument/deinstitucionalizace/dvoulety.pptx">prezentace</a>,&nbsp;</li>
 	<li>Ondřej Koťátko, sebeobhájce (podpora: Noemi Sáričková)</li>
 </ul>
 
