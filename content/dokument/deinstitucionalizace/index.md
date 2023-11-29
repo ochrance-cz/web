@@ -13,7 +13,7 @@ vystupy:
 <h4>1. blok: Sebeobhajování a kvalitní podpora jako cesta k sebeurčení a participaci</h4>
 
 <p>Sebeobhajování a jeho kvalitní podpora jako cesta k sebeurčení a participaci<br />
-prof. PhDr. Libor Musil, CSc., Fakulta sociálních studií MUNI,&nbsp;Lenka Kaňovská, Charita Uherské Hradiště</p>
+prof. PhDr. Libor Musil, CSc., Fakulta sociálních studií MUNI &ndash; <a href="https://www.ochrance.cz/dokument/deinstitucionalizace/musil_1.pptx">úvodní prezentace</a>, <a href="https://www.ochrance.cz/dokument/deinstitucionalizace/musil_2.pptx">prezentace</a>,&nbsp;Lenka Kaňovská, Charita Uherské Hradiště&nbsp;&ndash; <a href="https://www.ochrance.cz/dokument/deinstitucionalizace/kanovska.pptx">prezentace</a></p>
 
 <p>Sebeobhajování a moje zkušenost<br />
 Zbyněk Dvouletý, sebeobhájce (podpora: Romana Brucknerová),&nbsp;Ondřej Koťátko, sebeobhájce (podpora: Noemi Sáričková)</p>
