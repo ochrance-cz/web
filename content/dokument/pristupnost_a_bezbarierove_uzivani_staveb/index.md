@@ -64,7 +64,7 @@ František Brašna,&nbsp;Sjednocená organizace nevidomých a slabozrakých ČR<
 <p>Přístupnost z pohledu autorizovaných osob &ndash; příprava nové technické normy<br />
 Ing. Renata Zdařilová, Ph.D.,Česká komora autorizovaných inženýrů a techniků činných ve výstavbě, Vysoká škola báňská - Technická univerzita, Ostrava</p>
 
-<p>Přístupnost - aktualizace předpisů a pohled projektanta a auditora bezpečnosti pozemních komunikací<br />
+<p><a href="https://www.ochrance.cz/dokument/pristupnost_a_bezbarierove_uzivani_staveb/radimsky_2.pptx">Přístupnost - aktualizace předpisů a pohled projektanta a auditora bezpečnosti pozemních komunikací</a><br />
 Ing. Michal Radimský, Ph.D., Vysoké učení technické, Brno</p>
 
 <p>&nbsp;</p>
