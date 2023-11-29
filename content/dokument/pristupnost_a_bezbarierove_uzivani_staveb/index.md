@@ -30,23 +30,23 @@ attachmentsTop:
 <p><a href="https://www.ochrance.cz/dokument/pristupnost_a_bezbarierove_uzivani_staveb/sobol.pptx">Aplikace bezbariérové vyhlášky č. 398/2009 Sb. v praxi</a><br />
 Ing. Karel Sobol,&nbsp;NIPI bezbariérové prostředí, o.p.s.,&nbsp;Masarykova univerzita Brno &ndash; středisko Teiresiás</p>
 
-<p>Přístupnost podle nového stavebního zákona<br />
+<p><a href="https://www.ochrance.cz/dokument/pristupnost_a_bezbarierove_uzivani_staveb/danek.pptx">Přístupnost podle nového stavebního zákona</a><br />
 Mgr. Martin Daněk,&nbsp;Ministerstvo pro místní rozvoj ČR</p>
 
-<p>Výzkum &bdquo;Přístupnost vybraných budov a služeb lidem s postižením&ldquo;<br />
+<p><a href="https://www.ochrance.cz/dokument/pristupnost_a_bezbarierove_uzivani_staveb/frycova_konecny.pptx">Výzkum &bdquo;Přístupnost vybraných budov a služeb lidem s postižením&ldquo;</a><br />
 Mgr. Jakub Konečný,&nbsp;Mgr. Nicole Fryčová,&nbsp;Kancelář veřejného ochránce práv</p>
 
 <p><strong>Výzkumné otázky</strong></p>
 
 <ul>
-	<li>Přístupnost lidem se sluchovým postižením</li>
-	<li>Přístupnost lidem s tělesným postižením</li>
-	<li>Přístupnost lidem se zrakovým postižením</li>
+	<li><a href="https://www.ochrance.cz/dokument/pristupnost_a_bezbarierove_uzivani_staveb/pristupnost_lidem_se_sluchovym_postizenim.xlsx">Přístupnost lidem se sluchovým postižením</a></li>
+	<li><a href="https://www.ochrance.cz/dokument/pristupnost_a_bezbarierove_uzivani_staveb/pristupnost_lidem_s_telesnym_postizenim.xlsx">Přístupnost lidem s tělesným postižením</a></li>
+	<li><a href="https://www.ochrance.cz/dokument/pristupnost_a_bezbarierove_uzivani_staveb/pristupnost_lidem_se_zrakovym_postizenim.xlsx">Přístupnost lidem se zrakovým postižením</a></li>
 </ul>
 
 <h4>BLOK II</h4>
 
-<p>Přístupnost pro všechny<br />
+<p><a href="https://www.ochrance.cz/dokument/pristupnost_a_bezbarierove_uzivani_staveb/ro_nova_.pptx">Přístupnost pro všechny</a><br />
 Ema Rónová,&nbsp;Sebeobhájkyně a zakladatelka iniciativy &bdquo;Nejen toalety pro všechny&ldquo;</p>
 
 <p>Přístupnost úřadů a služeb pro neslyšící<br />
