@@ -12,34 +12,60 @@ vystupy:
 
 <h4>1. blok: Sebeobhajování a kvalitní podpora jako cesta k sebeurčení a participaci</h4>
 
-<p>Sebeobhajování a jeho kvalitní podpora jako cesta k sebeurčení a participaci<br />
-prof. PhDr. Libor Musil, CSc., Fakulta sociálních studií MUNI &ndash; <a href="https://www.ochrance.cz/dokument/deinstitucionalizace/musil_1.pptx">úvodní prezentace</a>, <a href="https://www.ochrance.cz/dokument/deinstitucionalizace/musil_2.pptx">prezentace</a>,&nbsp;Lenka Kaňovská, Charita Uherské Hradiště&nbsp;&ndash; <a href="https://www.ochrance.cz/dokument/deinstitucionalizace/kanovska.pptx">prezentace</a></p>
+<p><strong>Sebeobhajování a jeho kvalitní podpora jako cesta k sebeurčení a participaci</strong></p>
 
-<p>Sebeobhajování a moje zkušenost<br />
-Zbyněk Dvouletý, sebeobhájce (podpora: Romana Brucknerová),&nbsp;Ondřej Koťátko, sebeobhájce (podpora: Noemi Sáričková)</p>
+<ul>
+	<li>prof. PhDr. Libor Musil, CSc., Fakulta sociálních studií MUNI &ndash; <a href="https://www.ochrance.cz/dokument/deinstitucionalizace/musil_1.pptx">úvodní prezentace</a>, <a href="https://www.ochrance.cz/dokument/deinstitucionalizace/musil_2.pptx">prezentace</a>,&nbsp;</li>
+	<li>Lenka Kaňovská, Charita Uherské Hradiště&nbsp;&ndash; <a href="https://www.ochrance.cz/dokument/deinstitucionalizace/kanovska.pptx">prezentace</a></li>
+</ul>
+
+<p><strong>Sebeobhajování a moje zkušenost</strong></p>
+
+<ul>
+	<li>Zbyněk Dvouletý, sebeobhájce (podpora: Romana Brucknerová),&nbsp;</li>
+	<li>Ondřej Koťátko, sebeobhájce (podpora: Noemi Sáričková)</li>
+</ul>
 
 <h4>2. blok:&nbsp;Výzkum k deinstitucionalizaci</h4>
 
-<p>Představení výzkumu<br />
-Alena Nosková, Kancelář veřejného ochránce práv</p>
+<p><strong>Představení výzkumu</strong></p>
 
-<p><br />
-Výsledky obsahové analýzy strategických dokumentů krajů a MPSV<br />
-Lucie Novotná, Kancelář veřejného ochránce práv</p>
+<ul>
+	<li>Alena Nosková, Kancelář veřejného ochránce práv</li>
+</ul>
 
-<p><br />
-Zkušenosti sebeobhájců s ústavním modelem péče<br />
-Kamila Ježková, sebeobhájce (podpora: Noemi Sáričková),&nbsp;Ludmila Nováková, sebeobhájce (podpora: Noemi Sáričková)</p>
+<p><strong>Výsledky obsahové analýzy strategických dokumentů krajů a MPSV</strong></p>
+
+<ul>
+	<li>Lucie Novotná, Kancelář veřejného ochránce práv</li>
+</ul>
+
+<p><strong>Zkušenosti sebeobhájců s ústavním modelem péče</strong></p>
+
+<ul>
+	<li>Kamila Ježková, sebeobhájce (podpora: Noemi Sáričková),&nbsp;</li>
+	<li>Ludmila Nováková, sebeobhájce (podpora: Noemi Sáričková)</li>
+</ul>
 
 <h4>3. blok:&nbsp;Systémová podpora transformace</h4>
 
-<p>Aktuality MPSV v oblasti deinstitucionalizace sociálních služeb<br />
-Štefan Lukáč, vedoucí oddělení sociálních služeb a plánování, odbor koncepce sociálních služeb a sociální práce,&nbsp;Klára Holanová, vrchní ministerský rada, oddělení sociálních služeb a plánování&nbsp;&ndash; <a href="https://www.ochrance.cz/dokument/deinstitucionalizace/holanova.pptx">prezentace</a></p>
+<p><strong>Aktuality MPSV v oblasti deinstitucionalizace sociálních služeb</strong></p>
 
-<p>Zkušenosti sebeobhájců s komunitním modelem péče<br />
-Kateřina Formanová, sebeobhájce (podpora: Noemi Sáričková),&nbsp;Eva Němcová, sebeobhájce (podpora: Noemi Sáričková)</p>
+<ul>
+	<li>Štefan Lukáč, vedoucí oddělení sociálních služeb a plánování, odbor koncepce sociálních služeb a sociální práce,&nbsp;</li>
+	<li>Klára Holanová, vrchní ministerský rada, oddělení sociálních služeb a plánování&nbsp;&ndash; <a href="https://www.ochrance.cz/dokument/deinstitucionalizace/holanova.pptx">prezentace</a></li>
+</ul>
+
+<p><strong>Zkušenosti sebeobhájců s komunitním modelem péče</strong></p>
+
+<ul>
+	<li>Kateřina Formanová, sebeobhájce (podpora: Noemi Sáričková),&nbsp;</li>
+	<li>Eva Němcová, sebeobhájce (podpora: Noemi Sáričková)</li>
+</ul>
 
 <h4>4. blok:&nbsp;Aktuality Centra podpory transformace</h4>
 
-<p>Monika Jelínková, odborný garant, Centrum podpory transformace&nbsp;&ndash; <a href="https://www.ochrance.cz/dokument/deinstitucionalizace/jelinkova.pptx">prezentace</a><br />
-Šimon Budský, ředitel, Centrum podpory transformace</p>
+<ul>
+	<li>Monika Jelínková, odborný garant, Centrum podpory transformace&nbsp;&ndash; <a href="https://www.ochrance.cz/dokument/deinstitucionalizace/jelinkova.pptx">prezentace</a></li>
+	<li>Šimon Budský, ředitel, Centrum podpory transformace</li>
+</ul>
