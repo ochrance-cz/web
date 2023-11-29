@@ -30,40 +30,40 @@ attachmentsTop:
 <p><a href="https://www.ochrance.cz/dokument/pristupnost_a_bezbarierove_uzivani_staveb/sobol.pptx">Aplikace bezbariérové vyhlášky č. 398/2009 Sb. v praxi</a><br />
 Ing. Karel Sobol,&nbsp;NIPI bezbariérové prostředí, o.p.s.,&nbsp;Masarykova univerzita Brno &ndash; středisko Teiresiás</p>
 
-<p><a href="https://www.ochrance.cz/dokument/pristupnost_a_bezbarierove_uzivani_staveb/danek.pptx">Přístupnost podle nového stavebního zákona</a><br />
+<p>Přístupnost podle nového stavebního zákona<br />
 Mgr. Martin Daněk,&nbsp;Ministerstvo pro místní rozvoj ČR</p>
 
-<p><a href="https://www.ochrance.cz/dokument/pristupnost_a_bezbarierove_uzivani_staveb/frycova_konecny.pptx">Výzkum &bdquo;Přístupnost vybraných budov a služeb lidem s postižením&ldquo;</a><br />
+<p>Výzkum &bdquo;Přístupnost vybraných budov a služeb lidem s postižením&ldquo;<br />
 Mgr. Jakub Konečný,&nbsp;Mgr. Nicole Fryčová,&nbsp;Kancelář veřejného ochránce práv</p>
 
 <p><strong>Výzkumné otázky</strong></p>
 
 <ul>
-	<li><a href="https://www.ochrance.cz/dokument/pristupnost_a_bezbarierove_uzivani_staveb/pristupnost_lidem_se_sluchovym_postizenim.xlsx">Přístupnost lidem se sluchovým postižením</a></li>
-	<li><a href="https://www.ochrance.cz/dokument/pristupnost_a_bezbarierove_uzivani_staveb/pristupnost_lidem_s_telesnym_postizenim.xlsx">Přístupnost lidem s tělesným postižením</a></li>
-	<li><a href="https://www.ochrance.cz/dokument/pristupnost_a_bezbarierove_uzivani_staveb/pristupnost_lidem_se_zrakovym_postizenim.xlsx">Přístupnost lidem se zrakovým postižením</a></li>
+	<li>Přístupnost lidem se sluchovým postižením</li>
+	<li>Přístupnost lidem s tělesným postižením</li>
+	<li>Přístupnost lidem se zrakovým postižením</li>
 </ul>
 
 <h4>BLOK II</h4>
 
-<p><a href="https://www.ochrance.cz/dokument/pristupnost_a_bezbarierove_uzivani_staveb/ro_nova_.pptx">Přístupnost pro všechny</a><br />
+<p>Přístupnost pro všechny<br />
 Ema Rónová,&nbsp;Sebeobhájkyně a zakladatelka iniciativy &bdquo;Nejen toalety pro všechny&ldquo;</p>
 
 <p>Přístupnost úřadů a služeb pro neslyšící<br />
 Henry Mikulík,&nbsp;ASNEP, poradní orgán</p>
 
-<p><a href="https://www.ochrance.cz/dokument/pristupnost_a_bezbarierove_uzivani_staveb/filipcik.pdf">Jak pracovat na přístupnosti</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Miroslav Filipčík,&nbsp;Magistrát města Ostravy</p>
+<p>Jak pracovat na přístupnosti&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Miroslav Filipčík,&nbsp;Magistrát města Ostravy</p>
 
-<p><a href="https://www.ochrance.cz/dokument/pristupnost_a_bezbarierove_uzivani_staveb/osman.pptx">Institucionální překážky bezbariérovosti</a><br />
+<p>Institucionální překážky bezbariérovosti<br />
 RNDr. Robert Osman, Ph.D.,Masarykova univerzita, Brno</p>
 
-<p><a href="https://www.ochrance.cz/dokument/pristupnost_a_bezbarierove_uzivani_staveb/brasna.ppsx">Přístupnost veřejného prostoru pro lidi se zrakovým postižením</a><br />
+<p>Přístupnost veřejného prostoru pro lidi se zrakovým postižením<br />
 František Brašna,&nbsp;Sjednocená organizace nevidomých a slabozrakých ČR</p>
 
-<p><a href="https://www.ochrance.cz/dokument/pristupnost_a_bezbarierove_uzivani_staveb/zdarilova.pptx">Přístupnost z pohledu autorizovaných osob &ndash; příprava nové technické normy</a><br />
+<p>Přístupnost z pohledu autorizovaných osob &ndash; příprava nové technické normy<br />
 Ing. Renata Zdařilová, Ph.D.,Česká komora autorizovaných inženýrů a techniků činných ve výstavbě, Vysoká škola báňská - Technická univerzita, Ostrava</p>
 
-<p><a href="https://www.ochrance.cz/dokument/pristupnost_a_bezbarierove_uzivani_staveb/radimsky.pptx">Přístupnost - aktualizace předpisů a pohled projektanta a auditora bezpečnosti pozemních komunikací</a><br />
+<p>Přístupnost - aktualizace předpisů a pohled projektanta a auditora bezpečnosti pozemních komunikací<br />
 Ing. Michal Radimský, Ph.D., Vysoké učení technické, Brno</p>
 
 <p>&nbsp;</p>
