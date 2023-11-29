@@ -61,7 +61,7 @@ RNDr. Robert Osman, Ph.D.,Masarykova univerzita, Brno</p>
 <p><a href="https://www.ochrance.cz/dokument/pristupnost_a_bezbarierove_uzivani_staveb/brasna.ppsx">Přístupnost veřejného prostoru pro lidi se zrakovým postižením</a><br />
 František Brašna,&nbsp;Sjednocená organizace nevidomých a slabozrakých ČR</p>
 
-<p>Přístupnost z pohledu autorizovaných osob &ndash; příprava nové technické normy<br />
+<p><a href="https://www.ochrance.cz/dokument/pristupnost_a_bezbarierove_uzivani_staveb/zdarilova_2.pdf">Přístupnost z pohledu autorizovaných osob &ndash; příprava nové technické normy</a><br />
 Ing. Renata Zdařilová, Ph.D.,Česká komora autorizovaných inženýrů a techniků činných ve výstavbě, Vysoká škola báňská - Technická univerzita, Ostrava</p>
 
 <p><a href="https://www.ochrance.cz/dokument/pristupnost_a_bezbarierove_uzivani_staveb/radimsky_2.pptx">Přístupnost - aktualizace předpisů a pohled projektanta a auditora bezpečnosti pozemních komunikací</a><br />
