@@ -14,30 +14,7 @@ perex: >
   spolupracujeme s &nbsp;mezinárodními orgány.</p>
 attachments:
   - title: Zpravodaj ombudsmana za září a říjen
-    file: "A čím jsme se poslední dobou zabývali? Pomohli jsme napravit chybu úřadu
-      například tím, že…\r
-
-      …jsme přiměli stavební úřad, aby se zabýval hlukem z venkovní
-      střelnice,\r
-
-      … jsme přispěli k tomu, že OSPOD bude lépe komunikovat s rodiči,\r
-
-      ….jsme úřadu připomněli, za jakých podmínek může zastavit výplatu
-      důchodu, \r
-
-      …jsme pomohli se zrušením plošných zákazů vycházek v dětském
-      domově,\r
-
-      \r
-
-      Ve Zpravodaji ombudsmana toho ale naleznete mnohem více. Například
-      se dozvíte doporučení z našeho výzkumu, jak těhotenství a mateřství
-      ovlivňuje ženám pracovní kariéru nebo proč jsme podali trestní oznámení.\r
-
-      \r
-
-      Více se dozvíte v našem Zpravodaji. Potěší nás, když se přihlásíte k
-      odběru."
+    file: https://www.ochrance.cz/zpravodaj/zpravodaj_ombudsmana_za_zari_a_rijen_2023/
   - title: Přihlášení k odběru Zpravodaje
     file: https://www.ochrance.cz/dokument/prihlaseni_k_odberu_zpravodaje_ombudsmana/
 ---
