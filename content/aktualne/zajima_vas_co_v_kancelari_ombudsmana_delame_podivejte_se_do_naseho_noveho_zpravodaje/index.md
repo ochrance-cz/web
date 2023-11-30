@@ -18,16 +18,19 @@ attachments:
   - title: Přihlášení k odběru Zpravodaje
     file: https://www.ochrance.cz/dokument/prihlaseni_k_odberu_zpravodaje_ombudsmana/
 ---
-<p>A čím jsme se poslední dobou zabývali? Pomohli jsme napravit chybu úřadu například tím, že&hellip;</p>
+<p>A čím jsme se poslední dobou zabývali?&nbsp;</p>
 
 <blockquote>
-<p>&hellip;jsme přiměli stavební úřad, aby se zabýval hlukem z venkovní střelnice,</p>
+<p>&nbsp;</p>
 
-<p>&hellip; jsme přispěli k&nbsp;tomu, že OSPOD bude lépe komunikovat s&nbsp;rodiči,</p>
-
-<p>&hellip;.jsme úřadu připomněli, za jakých podmínek může zastavit výplatu důchodu,</p>
-
-<p>&hellip;jsme pomohli se zrušením plošných zákazů vycházek v&nbsp;dětském domově.</p>
+<ul>
+	<li>Přiměli jsme stavební úřad, aby se zabýval hlukem z venkovní střelnice,</li>
+	<li>přispěli jsme k tomu, že OSPOD bude lépe komunikovat s rodiči,</li>
+	<li>připomněli jsme úřadu, za jakých podmínek může zastavit výplatu důchodu,</li>
+	<li>radili jsme, jak usnadnit Brňanům prodloužení parkovacího oprávnění,</li>
+	<li>pomohli jsme se zrušením plošných zákazů vycházek v dětském domově,</li>
+	<li>zkoumali jsme, jak těhotenství a mateřství ovlivňuje ženám pracovní kariéru...</li>
+</ul>
 </blockquote>
 
 <p>Ve <a href="https://www.ochrance.cz/zpravodaj/zpravodaj_ombudsmana_za_zari_a_rijen_2023/">Zpravodaji ombudsmana</a> toho ale naleznete mnohem více. Například se dozvíte doporučení z&nbsp;našeho výzkumu, jak těhotenství a mateřství ovlivňuje ženám pracovní kariéru nebo proč jsme podali trestní oznámení.</p>
