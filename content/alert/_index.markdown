@@ -1,12 +1,12 @@
 ---
-title: Připojte se na naši konferenci PŘÍSTUPNOST A BEZBARIÉROVÉ UŽÍVÁNÍ STAVEB
+title: Připojte se na naši konferenci MŮJ ŽIVOT, MOJE VOLBA ANEB SEBEURČENÍ
 active: true
 ---
-**Odkaz na stream:** <https://ochrance.livebox.cz/q0oOMe7w0USLwGYQ0fVpow.html>
+**Odkaz na stream:** https://ochrance.livebox.cz/2GlXZ0ozS0OhkcHcRUow.html[](https://ochrance.livebox.cz/q0oOMe7w0USLwGYQ0fVpow.html)
 
-**Odkaz na přepis**: <https://text-on-tap.live/index.html#e=pristupnost>.
+**P﻿rogram a výstupy účastníků:** https://www.ochrance.cz/dokument/deinstitucionalizace/
 
-**P﻿rogram a výstupy účastníků:** https://www.ochrance.cz/dokument/pristupnost_a_bezbarierove_uzivani_staveb/
+
 
 
 
