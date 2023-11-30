@@ -24,9 +24,13 @@
 
 
       {{ $groups := .Pages.GroupByParam "year" "desc" }}
-      {{ range $groups }}
-        {{ partial "collapsible-open.html" (dict "id" .Key "title" (print .Key) "open" false) }}
-        {{ range .Pages }}
+      {{ range $index, $group := $groups }}
+        {{ if eq $index 0 }}
+          {{ partial "collapsible-open.html" (dict "id" $group.Key "title" (print $group.Key) "open" true) }}
+        {{ else }}
+          {{ partial "collapsible-open.html" (dict "id" $group.Key "title" (print $group.Key) "open" false) }}
+        {{ end }}
+        {{ range $group.Pages }}
           {{ partial "magazine-preview.html" (dict "preview" . "h" "4") }}
         {{ end }}
         {{ partial "collapsible-close.html" }}

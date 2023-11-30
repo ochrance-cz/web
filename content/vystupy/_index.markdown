@@ -6,13 +6,13 @@ hp: |
 order: 2
 itemOrder: |
   Tiskové zprávy
+  Zpravodaj
   Podcasty
   Výroční zprávy
   Sborníky a publikace
   Výzkumy
   Doporučení
   Materiály na vládu
-  Zpravodaj
   Bulletiny CRPD
   Seriál na ČT
 ---

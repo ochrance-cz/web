@@ -8,7 +8,11 @@
         {{ $sorted := split .Params.itemOrder "\n" }}
         {{ range $sorted }}
           {{ range where $.Pages "Params.plural" . }}
-            <li><a href="{{ .Permalink }}">{{ .Params.plural }}</a></li>
+            {{ if eq .Params.plural "Zpravodaj" }}
+              <li><a href="/zpravodaj">{{ .Params.plural }}</a></li>
+            {{ else }}
+              <li><a href="{{ .Permalink }}">{{ .Params.plural }}</a></li>
+            {{ end }}
           {{ end }}
         {{ end }}
 
