@@ -33,7 +33,7 @@ attachments:
 </ul>
 </blockquote>
 
-<p>Ve <a href="https://www.ochrance.cz/zpravodaj/zpravodaj_ombudsmana_za_zari_a_rijen_2023/">Zpravodaji ombudsmana</a> toho ale naleznete mnohem více. Například se dozvíte doporučení z&nbsp;našeho výzkumu, jak těhotenství a mateřství ovlivňuje ženám pracovní kariéru nebo proč jsme podali trestní oznámení.</p>
+<p>Ve <a href="https://www.ochrance.cz/zpravodaj/zpravodaj_ombudsmana_za_zari_a_rijen_2023/">Zpravodaji ombudsmana</a> toho ale naleznete mnohem více. Například se dozvíte, proč jsme podali trestní oznámení.</p>
 
 <p><br />
 Více se dozvíte v&nbsp;našem Zpravodaji. Potěší nás, když se přihlásíte k&nbsp;<a href="https://www.ochrance.cz/dokument/prihlaseni_k_odberu_zpravodaje_ombudsmana/">odběru</a>.</p>
