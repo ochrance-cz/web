@@ -2,24 +2,38 @@
 title: Zpravodaj ombudsmana za zaří a říjen 2023
 month: 11
 year: 2023
-perex: >
-  Milé čtenářky, milí čtenáři,
-
-
-  vítáme vás u našeho nového Zpravodaje. Najdete v něm výběr některých případů, kterými jsme se v posledních dvou měsících zabývali. Možná vás překvapí, co všechno řešíme. Pomáháme lidem, kteří mají nějaký problém s úřady. Jezdíme na místa, kde jsou lidé omezení na svobodě, a kontrolujeme, jestli tam s nimi nezachází špatně. Snažíme se, aby Česká republika byla co nejpřístupnější lidem se zdravotním postižením. Vydáváme nejrůznější výzkumy, připomínkujeme zákony a soudní rozhodnutí, spolupracujeme s  mezinárodními orgány. 
-
-  Budeme se snažit, aby Zpravodaj pestrost naší práce odrážel, a vydávat ho jednou za dva měsíce. Na další číslo se tak můžete těšit v lednu 2024. Uvítáme, když Zpravodaj dál rozšíříte mezi ty, kteří v něm podle vás také najdou užitečné informace.
-
-
-  A pokud se vám při jeho čtení vybaví nějaké nápady na jeho vylepšení, moc oceníme, když nám je napíšete. 
-
-  Také chceme mít Zpravodaj srozumitelný. Je v textu něco, čemu jste nerozuměli? Dejte nám prosím vědět na srozumitelnost@ochrance.cz.
-
-
-  Děkujeme a přejeme příjemné čtení.
-author: ombudsman Stanislav Křeček, zástupce ombudsmana Vít Alexander Schorm
+perex: ""
+author: ""
 file: https://www.ochrance.cz/zpravodaj/zpravodaj_ombudsmana_za_zari_a_rijen_2023/zpravodaj_za_zari_a_rijen_2023.pdf
 sections:
+  - title: Úvodní slovo
+    articles:
+      - body: >
+          <p>vítáme vás u našeho nového Zpravodaje. Najdete v něm výběr
+          některých případů, kterými jsme se v posledních dvou měsících
+          zabývali. Možná vás překvapí, co všechno řešíme. Pomáháme lidem, kteří
+          mají nějaký problém s úřady. Jezdíme na místa, kde jsou lidé omezení
+          na svobodě, a kontrolujeme, jestli tam s nimi nezachází špatně.
+          Snažíme se, aby Česká republika byla co nejpřístupnější lidem se
+          zdravotním postižením. Vydáváme nejrůznější výzkumy, připomínkujeme
+          zákony a soudní rozhodnutí, spolupracujeme s &nbsp;mezinárodními
+          orgány.&nbsp;<br />
+
+          Budeme se snažit, aby Zpravodaj pestrost naší práce odrážel, a vydávat ho jednou za dva měsíce. Na další číslo se tak můžete těšit v lednu 2024. Uvítáme, když Zpravodaj dál rozšíříte mezi ty, kteří v něm podle vás také najdou užitečné informace.</p>
+
+
+          <p>A pokud se vám při jeho čtení vybaví nějaké nápady na jeho vylepšení, moc oceníme, když nám je napíšete.&nbsp;<br />
+
+          Také chceme mít Zpravodaj srozumitelný. Je v textu něco, čemu jste nerozuměli? Dejte nám prosím vědět na srozumitelnost@ochrance.cz.</p>
+
+
+          <p>Děkujeme a přejeme příjemné čtení.</p>
+
+
+          <p>ombudsman Stanislav Křeček<br />
+
+          zástupce ombudsmana Vít Alexander Schorm</p>
+        title: Milé čtenářky, milí čtenáři,
   - title: Pomohli jsme napravit chybu úřadu
     articles:
       - body: >
