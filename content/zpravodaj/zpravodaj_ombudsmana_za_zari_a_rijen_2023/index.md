@@ -109,4 +109,206 @@ sections:
           <p>Vyžádali jsme si spisovou dokumentaci, která obsahovala i fotodokumentaci obou vozidel. Z&nbsp;ní vyšlo najevo, že poškozené vozidlo má odřený lak v&nbsp;jiné výšce než vozidlo stěžovatelky. Ta navíc doložila, že k&nbsp;odření jejího vozu došlo před několika lety. Vytkli jsme úřadům, že&nbsp;rozhodly o vině stěžovatelky na základě nedostatečně zjištěného skutkového stavu. Ty&nbsp;uznaly, že pochybily. Krajský úřad přislíbil, že příkaz zruší.</p>
         title: "Zastali jsme se řidičky, která měla ujet od dopravní nehody "
         id: 2183/2023/VOP
+      - body: >
+          <blockquote>
+
+          <p>Vedení soudu musí průběžně kontrolovat, zda v&nbsp;dědickém řízení nedochází ke&nbsp;zbytečným průtahům (<a href="https://www.zakonyprolidi.cz/cs/2002-6#p127-2">&sect; 127 odst. 2</a> zákona č. 6/2002 Sb.). Vždy přitom musí posoudit procesní postup notáře a prodlevy mezi jednotlivými procesními úkony. Zjistí-li, že&nbsp;v&nbsp;řízení dochází k průtahům, musí přijmout opatření, která zajistí jeho plynulost.</p>
+
+          </blockquote>
+
+
+          <p>Stěžovateli se nelíbilo, že dědické řízení trvá bezmála 20 let. Podal proto stížnost na průtahy. Místopředsedkyně soudu ji neshledala důvodnou.</p>
+
+
+          <p>Zjistili jsme, že vedení soudu provádělo kontrolu dědického řízení formálně, neboť během ní vycházelo pouze z&nbsp;přehledu notáře o provedených a plánovaných procesních úkonech. Pokud by se jím blíže zabývalo a zohlednilo i další informace (například obsah spisu), odhalilo by průtahy v&nbsp;řízení, kterými by se muselo dále zabývat. Dospěli jsme proto k&nbsp;závěru, že&nbsp;stížnost stěžovatele byla důvodná. Vedení soudu projednalo naši zprávu o&nbsp;šetření na své poradě.</p>
+        title: "Vytkli jsme vedení soudu, že se dostatečně nezabývalo postupem notáře v
+          dědickém řízení "
+        id: 14165/2022/VOP
+      - body: >
+          <blockquote>
+
+          <p>Hluk může způsobit neodborná výměna podlahové krytiny v bytě. Stavební úřad by měl v&nbsp;takovém případě zkontrolovat provedené stavební práce v&nbsp;rámci kontrolní prohlídky (<a href="https://www.zakonyprolidi.cz/cs/2006-183#p133">&sect; 133</a> zákona č. 183/2006 Sb.). Během ní by měl popsat, co zjistil na místě, pořídit si fotodokumentaci a také si obstarat doklady o provedení stavebních prací. Následně by se měl zabývat tím, zda zvuková izolace podlahové krytiny splňuje požadavky stanovené vyhláškou č. <a href="https://www.zakonyprolidi.cz/cs/2009-268">268/2009</a> Sb.</p>
+
+          </blockquote>
+
+
+          <p>Stěžovatelka si dlouhodobě stěžovala, že ji po celý den obtěžuje hluk ze sousedního bytu. Domnívala se, že souvisí s&nbsp;výměnou podlahové krytiny, kterou stavebník dostatečně nezaizoloval. Obrátila se proto na nájemníky sousedního bytu a na jeho vlastníka. Bohužel neúspěšně. Nepomohl jí ani stavební úřad.</p>
+
+
+          <p>Vytkli jsme stavebnímu úřadu, že během kontrolní prohlídky sousedního bytu pouze vyslechl jeho vlastníka, aniž by sám zkontroloval podlahovou krytinu. Stavební úřad uznal pochybení a přislíbil, že se ho v&nbsp;budoucnu vyvaruje.</p>
+        title: "Poučili jsme stavební úřad, jak má řešit hluk způsobený nesprávnou
+          rekonstrukcí podlahové krytiny v bytě "
+        id: 17248/2022/VOP
+      - body: >
+          <blockquote>
+
+          <p>Kompenzační bonus se pro účely příspěvku na bydlení zohledňuje stejně jako příjem ze samostatné výdělečné činnosti. Úřad práce k němu přihlíží jen tehdy, pokud žadatel o dávku, nebo příjemce dávky v rozhodném období pro zjišťování příjmů vykonával samostatnou výdělečnou činnost.</p>
+
+          </blockquote>
+
+
+          <p>Úřad práce odňal stěžovatelce příspěvek na bydlení od července 2022, protože se jí v rozhodném období (2. kalendářním čtvrtletí) podstatně zvýšily příjmy. Do příjmů úřad práce započetl i vyplacený kompenzační bonus a příjmy ze samostatné výdělečné činnosti. Stěžovatelka přitom již v&nbsp;březnu 2022 přerušila samostatnou výdělečnou činnost a zapsala se do evidence uchazečů o zaměstnání.</p>
+
+
+          <p>Úřadu práce jsme vytkli, že při rozhodování o dávce zohlednil vyplacený kompenzační bonus a příjmy ze samostatné výdělečné činnosti, přestože stěžovatelka ve 2. čtvrtletí nevykonávala samostatnou výdělečnou činnost. Úřad práce nám dal za pravdu, uznal své pochybení a znovu posoudil nárok stěžovatelky na&nbsp;příspěvek na&nbsp;bydlení od&nbsp;července 2022. Po novém posouzení stěžovatelce dávku zpětně přiznal a doplatil.</p>
+        title: "Kompenzační bonus zkomplikoval přiznání příspěvku na bydlení "
+        id: 1446/2023/VOP
+      - body: >
+          <blockquote>
+
+          <p>Právo dětí v dětském domově na bezpečnost a ochranu může být důvodem omezení jiných práv, pokud to domov dělá po zdůvodněném vyhodnocení rizik. Práva dětí není možné omezovat plošnými zákazy, a to ani u nově přijímaných dětí v&nbsp;době mapování rizik. Samostatné vycházky jsou standardem, na které má dítě právo (<a href="https://www.zakonyprolidi.cz/cs/2002-109#p20-1-p">&sect; 20 odst. 1 písm. p)</a> zákona č. 109/2002 Sb.). Nastavení vycházek musí i u nově přijímaných dětí vždy zohlednit jejich&nbsp;konkrétní situaci. Není plně na úvaze pedagoga, zda vycházku povolí. Pokud vycházce nebrání konkrétní důvody, souhlas by měl udělit vždy.</p>
+
+          </blockquote>
+
+
+          <p>Dvěma nezletilým stěžovatelům, kteří žijí v&nbsp;dětském domově, se v&nbsp;prvních týdnech pobytu nelíbilo, že nemohou chodit ven bez doprovodu vychovatelů. Žádné dítě v&nbsp;domově nesmělo na vycházky za hranice města.</p>
+
+
+          <p>Dětský domov jsme kritizovali za to, že plošně omezuje právo nově přijímaných dětí na vycházky. K omezení lze přistupovat, ale jen tehdy, když je pro to důvod u konkrétního dítěte. Dětskému domovu jsme rovněž doporučili přehodnotit praxi, že se všechny děti během vycházek mohly pohybovat pouze na území města. Pravidlo by podle nás nemělo platit pro dospívající, a především nedává smysl u dětí, které běžně dojíždí do škol mimo město.</p>
+
+
+          <p>Ředitelka dětského domova přijala naše hodnocení pozitivně. Zrušila plošný zákaz samostatných vycházek u nově přijímaných dětí a upozornila pedagogy na povinnost co nejlépe poznat nově příchozí dítě a vyhodnotit možná rizika v&nbsp;souvislosti s&nbsp;vycházkami. Obdobně budou pedagogové postupovat u povolování vycházek dětí za hranice města.</p>
+        title: "Pomohli jsme se zrušením plošných zákazů vycházek v dětském domově "
+        id: 1011/2023/VOP
+      - body: >
+          <blockquote>
+
+          <p>Stížnost na nevhodné chování soudce musí předseda (místopředseda) soudu prověřit i jinak než dotazem na soudce samotného. Pokud stěžovatel cituje ve stížnosti konkrétní nevhodné výroky soudce, měl by je předseda soudu v&nbsp;odpovědi na stížnost vysvětlit.</p>
+
+          </blockquote>
+
+
+          <p>Soudce měl hned v úvodu jednání stěžovateli říct, že &bdquo;<em>tahá za kratší konec provazu</em>&ldquo;, zpochybňovat rozhodnutí jiných soudů a dávat najevo svou podjatost. Stěžovatel proto podal stížnost na nevhodné chování soudce. V&nbsp;jednací síni nebylo nahrávací zařízení. Místopředseda soudu proto požádal předsedu senátu a soudce o vyjádření ke stížnosti a nahlédl do protokolu z&nbsp;jednání. V&nbsp;tom nebyl zachycen úvod jednání, při kterém měl soudce nevhodné výroky pronést. Místopředseda soudu z&nbsp;podkladů nezjistil, že se soudce choval nevhodně. Proto stížnost shledal nedůvodnou.</p>
+
+
+          <p>S&nbsp;hodnocením místopředsedy soudu jsme nesouhlasili. Podle nás měl ověřit průběh jednání co nejobjektivněji, aby stížnost důkladně prověřil a přesvědčivě vyřídil. Protože zvukový záznam z jednání nebyl dostupný, měl kvůli výrokům soudce oslovit alespoň advokáty, kteří se jednání účastnili. V&nbsp;odpovědi na stížnost pak měl místopředseda soudu přinejmenším vysvětlit, co zjistil, případně proč se podle něj soudce nedopustil nevhodného chování.</p>
+
+
+          <p>Místopředseda soudu znovu podrobněji vyslechl všechny soudce senátu a stěžovateli dodatečně přesvědčivěji odpověděl na jeho stížnost. V&nbsp;odpovědi vysvětlil výroky soudce. Všechny jednací místnosti na soudu už jsou vybaveny nahrávacím zařízením. Při vyřizování stížností na nevhodné chování se tak bude možné opřít o zvukový záznam z&nbsp;jednání.</p>
+        title: "Jak by měl předseda soudu vyřídit stížnost na nevhodné chování soudce? "
+        id: 15594/2022/VOP
+  - title: Pomohli jsme vyjasnit právní úpravu
+    articles:
+      - body: >
+          <blockquote>
+
+          <p>Vysoká škola je povinna absolventům po provedené změně pohlaví znovu vydat diplom s jejich&nbsp;aktuálním jménem a příjmením.</p>
+
+          </blockquote>
+
+
+          <p>V&nbsp;minulosti se na nás obrátil absolvent veřejné vysoké školy procházející změnou pohlaví. Vysoká škola mu odmítla vystavit stejnopis diplomu s&nbsp;odůvodněním, že to právní úprava neumožňuje. Zjistili jsme, že právní úprava s&nbsp;těmito případy výslovně nepočítá, což v&nbsp;praxi činí potíže i přesto, že podle našeho názoru lze problém vyřešit vhodným právním výkladem.</p>
+
+
+          <p>Ministerstvu školství, mládeže a tělovýchovy jsme proto doporučili změnit právní úpravu tak, aby nebylo pochyb o této povinnosti vysokých škol. V&nbsp;doporučení (sp. zn. <a href="https://eso.ochrance.cz/Nalezene/Edit/6152">4/2018/SZD</a>)&nbsp; jsme poukázali na možnou diskriminaci trans lidí (zejména v&nbsp;pracovním životě), pokud nemají možnost získat vysokoškolský diplom s&nbsp;novým jménem. Lpění na neaktuálních údajích může zasáhnout do jejich důstojnosti a ztížit hledání zaměstnání.</p>
+
+
+          <p>K&nbsp;navrhované změně právní úpravy zatím nedošlo. Ačkoliv ministerstvo v&nbsp;reakci na naše doporučení instruovalo rektory vysokých škol, jak postupovat v&nbsp;případech změny jména v&nbsp;důsledku změny pohlaví, některé vysoké školy tento výklad nadále odmítaly s&nbsp;odkazem na údajný rozpor s&nbsp;právní úpravou.</p>
+
+
+          <p>Proto vítáme, že krajský soud (č. j. <a href="https://sbirka.nssoud.cz/cz/skolstvi-povinnost-verejne-vysoke-skoly-vydat-doklady-o-absolvovani-studia-s-aktualnimi-osobni-udaji-absolventa-po-provedene-zmene-pohlavi.p4669.html">60 A 76/2021-89</a>) nyní rozhodl v&nbsp;podobné věci stejně, jako to vnímáme my. Doufáme, že rozsudek přispěje ke sjednocení postupu vysokých škol v&nbsp;těchto případech, jakož i ke zvýšení standardu ochrany práva na rovné zacházení u trans lidí.</p>
+        title: Soud potvrdil náš názor na právní úpravu vydávání diplomů
+  - title: Radili jsme
+    articles:
+      - body: >
+          <p>Navštívili jsme Výchovný ústav Žulová. Jde o jedno z&nbsp;mála
+          zařízení, které pečuje o chlapce, kteří užívají návykové látky nebo
+          s&nbsp;nimi nebezpečně experimentují. Péče o takovou specifickou
+          skupinu dětí není jednoduchá. Zaměstnanci zařízení totiž mají
+          povinnost zajistit jejich blaho, bezpečí a zdraví (články <a
+          href="https://www.zakonyprolidi.cz/cs/1992-209#cl3">3</a> a&nbsp;<a
+          href="https://www.zakonyprolidi.cz/cs/1992-209#cl8">8</a> Úmluvy o
+          ochraně lidských práv a základních svobod). Měli by tedy zabránit
+          tomu, aby&nbsp;chlapci pronesli do zařízení návykové látky. Kvůli tomu
+          jim provádí osobní prohlídky po jejich návratu z vycházek nebo
+          vícedenního pobytu mimo zařízení (návštěva rodiny nebo blízkých
+          osob).</p>
+
+
+          <p>Právní úprava výslovně neupravuje osobní prohlídky dětí. Sestavili jsme proto soubor zásad, kterými by se měli zaměstnanci zařízení řídit při jejich provádění:</p>
+
+
+          <ul>
+          	<li>Osobní prohlídky dítěte se zúčastní co nejméně zaměstnanců zařízení.</li>
+          	<li>Osobní prohlídku provede osoba stejného pohlaví.</li>
+          	<li>Pokud je nutné prohlédnout samotné dítě, svlékne se do spodního prádla vždy jen do půli těla a&nbsp;před sundáním dalšího oblečení se znovu obleče.</li>
+          	<li>Osobní prohlídka se provede tak, aby se dítě cítilo co nejméně trapně.</li>
+          	<li>Osobní prohlídka se neprovede, pokud je nepravděpodobné, že se dítě mohlo dostat k&nbsp;návykové látce (např. když se do zařízení vrací po vyšetření v&nbsp;nemocnici).</li>
+          </ul>
+        title: "Jak by měly probíhat osobní prohlídky dětí? "
+        id: 13/2023/NZ
+      - body: >
+          <p>Stěžovatel dostal automatický e-mail s upozorněním, že mu končí
+          platnost parkovacího oprávnění. Proto zopakoval loňskou platbu se
+          stejnou částkou a variabilním symbolem. Magistrát mu částku nevrátil,
+          takže předpokládal, že si parkovací oprávnění prodloužil. Následně mu
+          však přišly 3 pokuty za parkování.</p>
+
+
+          <p>Zjistili jsme, že si žadatel musí parkovací oprávnění nejprve prodloužit v osobních stránkách uživatele. Až potom obdrží platební instrukce s novým variabilním symbolem. Informace o správném postupu pro prodloužení oprávnění se žadatelé dozvědí na <a href="http://www.parkovanivbrne.cz">webových stránkách</a>. To však může být pro mnohé skupiny osob, zejména starší občany, překážka.</p>
+
+
+          <p>Magistrát dal na naši radu a přislíbil, že v e-mailech doplní informaci, jak si parkovací oprávnění správně prodloužit. Díky nám se tak v&nbsp;budoucnu předejde podobným situacím.</p>
+        title: "Pomohli jsme usnadnit Brňanům prodloužení parkovacího oprávnění "
+        id: 3728/2023/VOP
+  - title: Navštěvujeme zařízení
+    articles:
+      - body: >
+          <p>Domov pro osoby se zdravotním postižením jsme poprvé navštívili
+          v&nbsp;roce 2019. Většina klientů zařízení jsou děti. Zjistili jsme,
+          že zařízení dostatečně nebránilo násilí mezi klienty a nevytvořilo ani
+          základní podmínky pro zajištění jejich soukromí (pokoje bez dveří,
+          nedůstojná osobní hygiena). Pochybení mohla dosahovat intenzity
+          špatného zacházení s klienty. Zařízení jsme doporučili řadu opatření
+          k&nbsp;nápravě a na situaci jsme upozornili Středočeský kraj, který je
+          jeho zřizovatelem.&nbsp;</p>
+
+
+          <p>Při návštěvě v&nbsp;říjnu 2022 jsme zjistili, že zařízení naprostou většinu opatření nesplnilo. Doslova alarmující však bylo zjištění, že v zařízení nadále dochází k násilí. Existují četné záznamy o násilí mezi klienty i násilných projevech klientů vůči pracovníkům. Zjistili jsme také případy násilí pracovníků vůči klientům. Podle hodnověrných svědectví se v roce 2021 dopustila jedna ze zaměstnankyň několika násilných skutků vůči nezletilému klientovi. Vedení zařízení se o tom dozvědělo, avšak pachatelce udělilo pouhou ústní výtku. Minimálně v jednom dalším případě měla jiná pracovnice udeřit klienta před svědkem. Ze svědectví dále vyplynulo, že pracovníci na klienty běžně křičí a ponižují je.</p>
+
+
+          <p>V zařízení docházelo ke špatnému zacházení s&nbsp;klienty (článek <a href="https://www.zakonyprolidi.cz/cs/1993-2#cl7-2">7 odst. 2</a> Listiny základních práv a svobod a článek <a href="https://www.zakonyprolidi.cz/cs/1992-209#cl3">3</a> Úmluvy o ochraně lidských práv a základních svobod). Proto jsme podali trestní oznámení a informovali orgány sociálně-právní ochrany dítěte. O nápravě jsme jednali také s&nbsp;hejtmankou Středočeského kraje.</p>
+
+
+          <p>&nbsp;</p>
+
+
+          <h4>Už od roku 2006 jsme národním preventivním mechanismem</h4>
+
+
+          <p>Chráníme lidi před špatným zacházením. Proto navštěvujeme zařízení, kde jsou lidé omezení na svobodě nebo závislí na poskytované péči. Jedná se například o věznice, dětské domovy nebo domovy pro seniory. Od roku 2018 rovněž sledujeme, jak Česká republika naplňuje práva lidí s postižením podle Úmluvy OSN o právech osob se zdravotním postižením. Proto navštěvujeme také zařízení, kde jsou lidé se zdravotním postižením.</p>
+
+
+          <p>V září 2023 jsme uskutečnili 2 návštěvy, a to Výchovného ústavu Ostrava &ndash; Hrabůvka a Psychiatrické nemocnice Bohnice. V říjnu 2023 proběhly taktéž 2 návštěvy. Konkrétně psychiatrického oddělení Fakultní nemocnice Ostrava a dále domova se zvláštním režimem a domova pro seniory v Zařízení sociální péče Choceň.</p>
+
+
+          <p>&nbsp;</p>
+        title: Podali jsme trestní oznámení kvůli špatnému zacházení s dětmi
+        id: 70/2022/OZP
+  - title: Zkoumali jsme
+    articles:
+      - body: >
+          <blockquote>
+
+          <p>Rodičovství často nepříznivě zasahuje do&nbsp;pracovního života žen ve&nbsp;všech jeho fázích &ndash; od&nbsp;nabídek práce a&nbsp;pohovorů, přes návrat po&nbsp;rodičovské dovolené až&nbsp;po odměňování nebo rozvázání pracovního poměru. Ženy výrazně častěji ustupují ze&nbsp;svých profesních cílů ve&nbsp;prospěch péče o&nbsp;děti.</p>
+
+          </blockquote>
+
+
+          <p>Rozsáhlým výzkumem jsme ověřili, jak často ženy-matky zažívají na pracovním trhu situace, které jsou problematické či dokonce diskriminační. Své zkušenosti s námi&nbsp;sdílelo 1&nbsp;300 žen,<strong>&nbsp;</strong>které pečují alespoň o jedno dítě mladší než šest let. Díky velikosti a složení vzorku odpovídajících matek je možné získané informace zobecnit na celou Českou republiku.</p>
+
+
+          <p>Na výzkumnou zprávu jsme navázali sérií doporučení pro Ministerstvo práce a sociálních věcí a Ministerstvo školství, které směřují k odstranění překážek návratu žen do práce, a to jak právně, tak prakticky. Doporučujeme například:</p>
+
+
+          <ul>
+          	<li>Podporovat aktivity zaměřené na motivaci mužů k většímu zapojení do péče o děti a čerpání rodičovského příspěvku.</li>
+          	<li>Podporovat investice do rozšiřování stávajících mateřských škol a do výstavby nových.</li>
+          	<li>Zavést nárok na umístění dítěte do zařízení péče o děti od 12 do 36 měsíců v dětské skupině/jeslích.</li>
+          	<li>Prodloužit povinnost zaměstnavatelů držet původní pracovní pozici a pracoviště rodičům na rodičovské dovolené do 2 let věku dítěte.</li>
+          	<li>Změnit pravidla pro nárok na rodičovský příspěvek a zrušit omezení 92 hodin měsíčně pro souběh rodičovského příspěvku a umístění dítěte do 2 let do mateřské školy, jeslí či obdobného zařízení péče o děti.</li>
+          </ul>
+        title: "Náš výzkum odhalil, jak těhotenství a mateřství ovlivňuje ženám pracovní
+          kariéru "
+        id: 30/2023/DIS
 ---
