@@ -2,13 +2,15 @@
 title: Připojte se na naši konferenci MŮJ ŽIVOT, MOJE VOLBA ANEB SEBEURČENÍ
 active: true
 ---
-**Odkaz na stream:** https://ochrance.livebox.cz/2GlXZ0ozS0OhkcHcRUow.html[](https://ochrance.livebox.cz/q0oOMe7w0USLwGYQ0fVpow.html)
+**Odkaz na stream:** <https://ochrance.livebox.cz/2GlXZ0ozS0OhkcHcRUow.html>[](https://ochrance.livebox.cz/q0oOMe7w0USLwGYQ0fVpow.html)
 
 **P﻿rogram a výstupy účastníků:** https://www.ochrance.cz/dokument/deinstitucionalizace/
 
+.﻿
 
+.﻿
 
-
+.﻿
 
 Українці, увага! Тут ви можете знайти важливі посилання з інформацією про ваше перебування в Чеській Республіці. 
 
