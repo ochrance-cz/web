@@ -31,20 +31,20 @@ vystupy:
 <p><strong>Představení výzkumu</strong></p>
 
 <ul>
-	<li>Alena Nosková, Kancelář veřejného ochránce práv</li>
+	<li>Alena Nosková, Kancelář veřejného ochránce práv&nbsp;&ndash;&nbsp;<a href="https://www.ochrance.cz/dokument/deinstitucionalizace/noskova_novotna.pptx">prezentace</a>.</li>
 </ul>
 
 <p><strong>Výsledky obsahové analýzy strategických dokumentů krajů a MPSV</strong></p>
 
 <ul>
-	<li>Lucie Novotná, Kancelář veřejného ochránce práv</li>
+	<li>Lucie Novotná, Kancelář veřejného ochránce práv&nbsp;&ndash;&nbsp;<a href="https://www.ochrance.cz/dokument/deinstitucionalizace/noskova_novotna.pptx">prezentace</a>.</li>
 </ul>
 
-<p><strong>Zkušenosti sebeobhájců s ústavním modelem péče</strong></p>
+<p><strong>Zkušenosti sebeobhájců s ústavním modelem péče&nbsp;</strong>&ndash; <a href="https://www.ochrance.cz/dokument/deinstitucionalizace/ustav_neni_doma.odp">prezentace</a></p>
 
 <ul>
 	<li>Kamila Ježková, sebeobhájce (podpora: Noemi Sáričková),&nbsp;</li>
-	<li>Ludmila Nováková, sebeobhájce (podpora: Noemi Sáričková)</li>
+	<li>Ludmila Nováková, sebeobhájce (podpora: Noemi Sáričková)&nbsp;</li>
 </ul>
 
 <h4>3. blok:&nbsp;Systémová podpora transformace</h4>
@@ -56,7 +56,7 @@ vystupy:
 	<li>Klára Holanová, vrchní ministerský rada, oddělení sociálních služeb a plánování&nbsp;&ndash; <a href="https://www.ochrance.cz/dokument/deinstitucionalizace/holanova.pptx">prezentace</a></li>
 </ul>
 
-<p><strong>Zkušenosti sebeobhájců s komunitním modelem péče</strong></p>
+<p><strong>Zkušenosti sebeobhájců s komunitním modelem péče&nbsp;</strong>&ndash; <a href="https://www.ochrance.cz/dokument/deinstitucionalizace/prezentace_formanova_nemcova.pptx">prezentace</a></p>
 
 <ul>
 	<li>Kateřina Formanová, sebeobhájce (podpora: Noemi Sáričková),&nbsp;</li>
