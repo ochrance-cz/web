@@ -6,6 +6,8 @@ active: true
 
 **P﻿rogram a výstupy účastníků:** https://www.ochrance.cz/dokument/deinstitucionalizace/
 
+**Místo pro pokládání otázek:** na stránkách [www.slido.com](www.slido.com) je možné vložit kód akce #3754972.
+
 .﻿
 
 .﻿
