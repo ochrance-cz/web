@@ -6,7 +6,7 @@ vystupy:
 ---
 <h3><strong>KONFERENCE&nbsp;</strong>MŮJ ŽIVOT, MOJE VOLBA ANEB SEBEURČENÍ<strong> (30. 11. 2023)</strong></h3>
 
-<p><strong>Odkaz na stream: </strong><em>najdete ho zde&nbsp;30. 11. v 9 hod</em></p>
+<p><strong>Odkaz na stream:<a href="https://ochrance.livebox.cz/2GlXZ0ozS0OhkcHcRUow.html"> </a></strong><a href="https://ochrance.livebox.cz/2GlXZ0ozS0OhkcHcRUow.html"><em>https://ochrance.livebox.cz/2GlXZ0ozS0OhkcHcRUow.html&nbsp;&nbsp;</em></a></p>
 
 <p><strong><a href="https://www.ochrance.cz/dokument/deinstitucionalizace/pozvanka.pdf">Program konference</a></strong></p>
 
