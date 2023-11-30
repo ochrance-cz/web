@@ -1,5 +1,5 @@
 ---
-title: Zpravodaj ombudsmana za zaří a říjen 2023
+title: za zaří a říjen 2023
 month: 11
 year: 2023
 perex: ""
@@ -24,7 +24,7 @@ sections:
 
           <p>A pokud se vám při jeho čtení vybaví nějaké nápady na jeho vylepšení, moc oceníme, když nám je napíšete.&nbsp;<br />
 
-          Také chceme mít Zpravodaj srozumitelný. Je v textu něco, čemu jste nerozuměli? Dejte nám prosím vědět na srozumitelnost@ochrance.cz.</p>
+          Také chceme mít Zpravodaj srozumitelný. Je v textu něco, čemu jste nerozuměli? Dejte nám prosím vědět na zpravodaj@ochrance.cz.</p>
 
 
           <p>Děkujeme a přejeme příjemné čtení.</p>
