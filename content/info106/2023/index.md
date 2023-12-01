@@ -283,15 +283,41 @@ title: "2023"
 
 <p><a href="https://www.ochrance.cz/info106/2023/50_2023_odpoved.odt">Odpověď na žádost</a>.</p>
 
-<p>x</p>
+<p><a href="https://www.ochrance.cz/info106/2023/a_687-21-z17.pdf">Příloha 1</a>.</p>
 
-<p>y</p>
+<p><a href="https://www.ochrance.cz/info106/2023/2990-21_mk_4_final.pdf">Příloha 2</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/4022-21_mk_zso.pdf">Příloha 3</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/15934-22_mk.pdf">Příloha 4</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/b_872-22_mk_5.docx">Příloha 5</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/b_3681-21_mk_4.docx">Příloha 6</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/covid_854-21-mk_z18pcr.docx">Příloha 7</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/d_5375-21_mk_6_z17.docx">Příloha 8</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/j_8218-22_mk_6_z17.docx">Příloha 9</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/k_492-23_mk_6.docx">Příloha 10</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/k15678-22_mk_z17.docx">Příloha 11</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/m_1661-21_mk_6_z17.docx">Příloha 12</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/n_410-23-mk_4st.docx">Příloha 13</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/p_1295-21_mk_z17.docx">Příloha 14</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/y_2940-23-mk_z17.docx">Příloha 15</a>.</p>
 
 <h3>52/2023 &ndash; Informace z&nbsp;oblasti Vězeňství</h3>
 
-<p>x</p>
+<p><a href="https://www.ochrance.cz/info106/2023/52_2023_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>y</p>
+<p><a href="https://www.ochrance.cz/info106/2023/52_2023_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <p><a href="https://www.zakonyprolidi.cz/hledani?text=40%2F2009">Příloha 1</a></p>
 
@@ -303,22 +329,24 @@ title: "2023"
 
 <h3>53/2023 &ndash; Informace z&nbsp;oblasti Vězeňství</h3>
 
-<p>x</p>
+<p><a href="https://www.ochrance.cz/info106/2023/53_2023_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>y</p>
+<p><a href="https://www.ochrance.cz/info106/2023/53_2023_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <h3>54/2023 &ndash; Informace z&nbsp;oblasti Vězeňství</h3>
 
-<p>x</p>
+<p><a href="https://www.ochrance.cz/info106/2023/54_2023_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>y</p>
+<p><a href="https://www.ochrance.cz/info106/2023/54_2023_odpoved.odt">Odpověď na žádost</a>.</p>
 
-<p><a href="https://www.ochrance.cz/uploads-import/ESO/Brozura%20vazebni%20veznice%2010-22%20online.pdf">Příloha 2</a></p>
+<p><a href="https://www.ochrance.cz/info106/2023/priloha_1.pdf">Příloha 1</a>.</p>
+
+<p><a href="https://www.ochrance.cz/uploads-import/ESO/Brozura%20vazebni%20veznice%2010-22%20online.pdf">Příloha 2</a>.</p>
 
 <h3>55/2023 &ndash; Informace z&nbsp;oblasti Vězeňství</h3>
 
-<p>x</p>
+<p><a href="https://www.ochrance.cz/info106/2023/55_2023_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>y</p>
+<p><a href="https://www.ochrance.cz/info106/2023/55_203_odpoved.odt">Odpověď na žádost</a>.</p>
 
-<p><a href="https://www.ochrance.cz/vystupy/edice-stanoviska/Sbornik_Vezenstvi_II.pdf">Příloha</a></p>
+<p><a href="https://www.ochrance.cz/vystupy/edice-stanoviska/Sbornik_Vezenstvi_II.pdf">Příloha</a>.</p>
