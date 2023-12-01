@@ -125,10 +125,6 @@ lawyers:
         role: právnička (ochrana vod, zeměd. půdní fond, lesy, myslivost)
         phone: 542 542 384
         email: marie.polackova@ochrance.cz
-      - name: David Polášek
-        role: právník (územní a stavební řízení, ochrana vod, ovzduší, dotace)
-        phone: 542 542 772
-        email: david.polasek@ochrance.cz
       - name: Jana Vašíková
         role: právnička (územní a stavební řízení, památková péče)
         phone: 542 542 364
