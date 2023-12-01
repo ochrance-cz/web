@@ -56,17 +56,7 @@ gallery:
 	<p>13.11.2023 &ndash; zveřejňujeme Zprávu o šetření z&nbsp;vlastní iniciativy a doporučení ve věci ve věci kontaktů dětí a rodičů ve výkonu trestu odnětí svobody (VTOS) zaměřenou na činnost orgánů sociálně-právní ochrany dětí (OSPOD) <a href="https://www.ochrance.cz/uploads-import/ESO/VI%204353-22-TK%20Z18%20final.pdf">zde</a>. V posledních letech si totiž rodiče ve VTOS stále častěji stěžovali na to, že jim není umožněn osobní ani nepřímý styk s jejich dětmi. Prošetření několika individuálních stížností na postup OSPOD odhalilo mnohdy závažná pochybení, jakož i nejednotnou praxi OSPOD podpořenou absencí metodické podpory. Šetření bylo zaměřeno na děti, které mají alespoň jednoho rodiče ve VTOS a které OSPOD vede v evidenci ohrožených dětí, vykonává preventivní a poradenskou činnost nebo kolizní opatrovnictví. Sledovali jsme období od 1. ledna 2019 do 31. března 2022.</p>
 	</li>
 	<li>Šetření proběhlo formou elektronického dotazníku, kterého se zúčastnily všechny obecní úřady obcí s rozšířenou působností. Výsledky dotazníkového šetření jsou součástí sociologického výzkumu, který je přílohou zprávy o šetření <a href="https://www.ochrance.cz/uploads-import/ESO/VI%204353-22_sociologick%C3%BD%20v%C3%BDzkum.pdf">zde</a>.</li>
-</ul>
-
-<p>&nbsp;</p>
-
-<ul>
 	<li>Současně zveřejňujeme Zprávu o šetření z&nbsp;vlastní iniciativy a doporučení Vězeňské službě České republiky (VS) ve věci kontaktů dětí s&nbsp;uvězněnými rodiči <a href="https://www.ochrance.cz/uploads-import/ESO/VI%20988-23-Z18%20final.pdf">zde</a>. V této zprávě shrnujeme výsledky šetření postupu VS při zajišťování kontaktů dětí s&nbsp;uvězněnými rodiči. Bez její součinnosti totiž není možné kontakty uvězněného rodiče s dětmi zajišťovat. Závěry a&nbsp;doporučení z&nbsp;této zprávy lze zobecnit a&nbsp;přiměřeně použít pro&nbsp;všechny skupiny uvězněných rodičů &ndash; obviněných ve&nbsp;vazbě, odsouzených ve&nbsp;výkonu trestu i&nbsp;chovanců ve&nbsp;výkonu zabezpečovací detence.</li>
-</ul>
-
-<p>&nbsp;</p>
-
-<ul>
 	<li>
 	<p>18.9.2023 &ndash; Uspořádali jsme kulatý stůl za účasti norského partnera. Více se můžete dočíst <a href="https://www.ochrance.cz/aktualne/v_kancelari_ombudsmana_budou_o_moznem_vzniku_ceske_narodni_lidskopravni_instituce_nhri_v_pondeli_diskutovat_odbornici_na_ochranu_lidskych_prav_ze_sedmi_evropskych_statu/">zde</a>.</p>
 	</li>
