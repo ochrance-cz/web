@@ -1,5 +1,5 @@
 ---
-title: za zaří a říjen 2023
+title: za září a říjen 2023
 month: 11
 year: 2023
 perex: "\n"
@@ -53,6 +53,7 @@ sections:
           <p>Vyzvali jsme stavební úřad, aby se situací na střelnici zabýval. Ten uznal, že se výrazně změnilo její fungování. Vyzval proto město, aby přerušilo komerční provoz střelnice. Také mu vysvětlil, že pokud v&nbsp;něm chce pokračovat, musí požádat o vydání rozhodnutí o změně využití území.</p>
         title: Přiměli jsme stavební úřad, aby se zabýval hlukem z venkovní střelnice
         id: 5346/2021/VOP
+        eso: https://eso.ochrance.cz/Nalezene/Edit/11316
       - body: >
           <blockquote>
 
@@ -70,6 +71,7 @@ sections:
           <p>OSPOD projednal naše výtky se svými pracovníky. Poučil je o tom, že musí prokazatelně projednat všechny stížnosti rodičů, jednat s&nbsp;nimi vstřícně a dále dodržovat lhůty podle správního řádu. OSPOD rovněž sepsal pravidla projednávání stížností rodičů a vytvořil pro ně speciální písemnou informaci, kterou jim předává již při prvním jednání. Tím lépe naplňuje svou povinnost poskytovat odborné poradenství.</p>
         title: "Přispěli jsme k tomu, že OSPOD bude lépe komunikovat s rodiči "
         id: 14431/2022/VOP
+        eso: https://eso.ochrance.cz/Nalezene/Edit/12228
       - body: >
           <blockquote>
 
@@ -85,6 +87,7 @@ sections:
         title: "Úřad práce se bude muset znovu zabývat důvody, kvůli kterým
           samoživitelka ukončila svůj pracovní poměr "
         id: 9104/2022/VOP
+        eso: https://eso.ochrance.cz/Nalezene/Edit/11500
       - body: >
           <blockquote>
 
@@ -109,6 +112,7 @@ sections:
         title: "Připomněli jsme úřadu, za jakých podmínek může zastavit výplatu důchodu
           "
         id: 3649/2023/VOP
+        eso: https://eso.ochrance.cz/Nalezene/Edit/12224
       - body: >
           <blockquote>
 
@@ -123,6 +127,7 @@ sections:
           <p>Vyžádali jsme si spisovou dokumentaci, která obsahovala i fotodokumentaci obou vozidel. Z&nbsp;ní vyšlo najevo, že poškozené vozidlo má odřený lak v&nbsp;jiné výšce než vozidlo stěžovatelky. Ta navíc doložila, že k&nbsp;odření jejího vozu došlo před několika lety. Vytkli jsme úřadům, že&nbsp;rozhodly o vině stěžovatelky na základě nedostatečně zjištěného skutkového stavu. Ty&nbsp;uznaly, že pochybily. Krajský úřad přislíbil, že příkaz zruší.</p>
         title: Zastali jsme se řidičky, která měla ujet od dopravní nehody
         id: 2183/2023/VOP
+        eso: https://eso.ochrance.cz/Nalezene/Edit/12210
       - body: >
           <blockquote>
 
@@ -138,6 +143,7 @@ sections:
         title: "Vytkli jsme vedení soudu, že se dostatečně nezabývalo postupem notáře v
           dědickém řízení "
         id: 14165/2022/VOP
+        eso: https://eso.ochrance.cz/Nalezene/Edit/11722
       - body: >
           <blockquote>
 
@@ -153,6 +159,7 @@ sections:
         title: "Poučili jsme stavební úřad, jak má řešit hluk způsobený nesprávnou
           rekonstrukcí podlahové krytiny v bytě "
         id: 17248/2022/VOP
+        eso: https://eso.ochrance.cz/Nalezene/Edit/12306
       - body: >
           <blockquote>
 
@@ -167,6 +174,7 @@ sections:
           <p>Úřadu práce jsme vytkli, že při rozhodování o dávce zohlednil vyplacený kompenzační bonus a příjmy ze samostatné výdělečné činnosti, přestože stěžovatelka ve 2. čtvrtletí nevykonávala samostatnou výdělečnou činnost. Úřad práce nám dal za pravdu, uznal své pochybení a znovu posoudil nárok stěžovatelky na&nbsp;příspěvek na&nbsp;bydlení od&nbsp;července 2022. Po novém posouzení stěžovatelce dávku zpětně přiznal a doplatil.</p>
         title: Kompenzační bonus zkomplikoval přiznání příspěvku na bydlení
         id: 1446/2023/VOP
+        eso: https://eso.ochrance.cz/Nalezene/Edit/11994
       - body: >
           <blockquote>
 
@@ -184,6 +192,7 @@ sections:
           <p>Ředitelka dětského domova přijala naše hodnocení pozitivně. Zrušila plošný zákaz samostatných vycházek u nově přijímaných dětí a upozornila pedagogy na povinnost co nejlépe poznat nově příchozí dítě a vyhodnotit možná rizika v&nbsp;souvislosti s&nbsp;vycházkami. Obdobně budou pedagogové postupovat u povolování vycházek dětí za hranice města.</p>
         title: "Pomohli jsme se zrušením plošných zákazů vycházek v dětském domově "
         id: 1011/2023/VOP
+        eso: https://eso.ochrance.cz/Nalezene/Edit/12100
       - body: >
           <blockquote>
 
@@ -201,6 +210,7 @@ sections:
           <p>Místopředseda soudu znovu podrobněji vyslechl všechny soudce senátu a stěžovateli dodatečně přesvědčivěji odpověděl na jeho stížnost. V&nbsp;odpovědi vysvětlil výroky soudce. Všechny jednací místnosti na soudu už jsou vybaveny nahrávacím zařízením. Při vyřizování stížností na nevhodné chování se tak bude možné opřít o zvukový záznam z&nbsp;jednání.</p>
         title: "Jak by měl předseda soudu vyřídit stížnost na nevhodné chování soudce? "
         id: 15594/2022/VOP
+        eso: https://eso.ochrance.cz/Nalezene/Edit/11524
   - title: Pomohli jsme vyjasnit právní úpravu
     articles:
       - body: >
@@ -222,6 +232,7 @@ sections:
 
           <p>Proto vítáme, že krajský soud (č. j. <a href="https://sbirka.nssoud.cz/cz/skolstvi-povinnost-verejne-vysoke-skoly-vydat-doklady-o-absolvovani-studia-s-aktualnimi-osobni-udaji-absolventa-po-provedene-zmene-pohlavi.p4669.html">60 A 76/2021-89</a>) nyní rozhodl v&nbsp;podobné věci stejně, jako to vnímáme my. Doufáme, že rozsudek přispěje ke sjednocení postupu vysokých škol v&nbsp;těchto případech, jakož i ke zvýšení standardu ochrany práva na rovné zacházení u trans lidí.</p>
         title: Soud potvrdil náš názor na právní úpravu vydávání diplomů
+        eso: ""
   - title: Radili jsme
     articles:
       - body: >
@@ -251,6 +262,7 @@ sections:
           </ul>
         title: "Jak by měly probíhat osobní prohlídky dětí? "
         id: 13/2023/NZ
+        eso: https://eso.ochrance.cz/Nalezene/Edit/12264
       - body: >
           <p>Stěžovatel dostal automatický e-mail s upozorněním, že mu končí
           platnost parkovacího oprávnění. Proto zopakoval loňskou platbu se
@@ -293,6 +305,7 @@ sections:
           <p>V září 2023 jsme uskutečnili 2 návštěvy, a to Výchovného ústavu Ostrava &ndash; Hrabůvka a Psychiatrické nemocnice Bohnice. V říjnu 2023 proběhly taktéž 2 návštěvy. Konkrétně psychiatrického oddělení Fakultní nemocnice Ostrava a dále domova se zvláštním režimem a domova pro seniory v Zařízení sociální péče Choceň.</p>
         title: Podali jsme trestní oznámení kvůli špatnému zacházení s dětmi
         id: 70/2022/OZP
+        eso: https://eso.ochrance.cz/Nalezene/Edit/12192
   - title: Zkoumali jsme
     articles:
       - body: >
@@ -319,4 +332,5 @@ sections:
         title: "Náš výzkum odhalil, jak těhotenství a mateřství ovlivňuje ženám pracovní
           kariéru "
         id: 30/2023/DIS
+        eso: https://eso.ochrance.cz/Nalezene/Edit/11734
 ---
