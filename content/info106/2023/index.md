@@ -227,47 +227,61 @@ title: "2023"
 
 <h3>43/2023 &ndash; Informace k&nbsp;pracovnímu programu VOP</h3>
 
-<p>x</p>
+<p><a href="https://www.ochrance.cz/info106/2023/43_2023_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>y</p>
+<p><a href="https://www.ochrance.cz/info106/2023/43_2023_odpoved.odt">Odpověď na žádost</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/43_2023_odpoved_priloha_1.pdf">Příloha 1</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/43_2023_odpoved_priloha_2.pdf">Příloha 2</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/43_2023_odpoved_priloha_3.pdf">Příloha 3</a></p>
 
 <h3>44/2023 &ndash; Informace ke spisům z&nbsp;oblasti Věci cizinců a Armáda, policie a vězeňství</h3>
 
-<p>x</p>
+<p><a href="https://www.ochrance.cz/info106/2023/44_2023_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>y</p>
+<p><a href="https://www.ochrance.cz/info106/2023/44_2023_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <h3>46/2023 &ndash; Informace z&nbsp;oblasti Vězeňství</h3>
 
-<p>x</p>
+<p><a href="https://www.ochrance.cz/info106/2023/46_2023_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>y</p>
+<p><a href="https://www.ochrance.cz/info106/2023/46_2023_odpoved.odt">Odpověď na žádost</a>.</p>
 
-<p><a href="https://www.zakonyprolidi.cz/cs/2009-40">Příloha 3</a></p>
+<p><a href="https://www.ochrance.cz/info106/2023/priloha_1.docx">Příloha 1</a>.</p>
 
-<p><a href="https://www.zakonyprolidi.cz/cs/1999-169?text=z%C3%A1kon+o+v%C3%BDkonu+trestu+odn%C4%9Bt%C3%AD+svobody">Příloha 4</a></p>
+<p><a href="https://www.ochrance.cz/info106/2023/priloha_2.docx">Příloha 2</a>.</p>
 
-<p><a href="https://www.zakonyprolidi.cz/cs/1993-293?text=z%C3%A1kon+o+v%C3%BDkonu+vazby">Příloha 5</a></p>
+<p><a href="https://www.zakonyprolidi.cz/cs/2009-40">Příloha 3</a>.</p>
 
-<p><a href="https://www.zakonyprolidi.cz/cs/2017-279?text=vyhl%C3%A1%C5%A1ka+Ministerstva+spravedlnosti%2C+kterou+se+vyd%C3%A1v%C3%A1+%C5%99%C3%A1d+v%C3%BDkonu+trestu+odn%C4%9Bt%C3%AD+svobody">Příloha 6</a></p>
+<p><a href="https://www.zakonyprolidi.cz/cs/1999-169?text=z%C3%A1kon+o+v%C3%BDkonu+trestu+odn%C4%9Bt%C3%AD+svobody">Příloha 4</a>.</p>
+
+<p><a href="https://www.zakonyprolidi.cz/cs/1993-293?text=z%C3%A1kon+o+v%C3%BDkonu+vazby">Příloha 5</a>.</p>
+
+<p><a href="https://www.zakonyprolidi.cz/cs/2017-279?text=vyhl%C3%A1%C5%A1ka+Ministerstva+spravedlnosti%2C+kterou+se+vyd%C3%A1v%C3%A1+%C5%99%C3%A1d+v%C3%BDkonu+trestu+odn%C4%9Bt%C3%AD+svobody">Příloha 6</a>.</p>
 
 <h3>47/2023 &ndash; Informace ke spisu z&nbsp;oblasti Vězeňství</h3>
 
-<p>x</p>
+<p><a href="https://www.ochrance.cz/info106/2023/47_2023_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>y</p>
+<p><a href="https://www.ochrance.cz/info106/2023/47_2023_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <h3>49/2023 &ndash; Informace z&nbsp;oblasti Vězeňství</h3>
 
-<p>x</p>
+<p><a href="https://www.ochrance.cz/info106/2023/49_2023_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>y</p>
+<p><a href="https://www.ochrance.cz/info106/2023/49_2023_odpoved.odt">Odpověď na žádost</a>.</p>
 
-<p><a href="https://www.zakonyprolidi.cz/cs/1999-169?text=169%2F1999">Příloha 1</a></p>
+<p><a href="https://www.zakonyprolidi.cz/cs/1999-169?text=169%2F1999">Příloha 1</a>.</p>
 
-<p><a href="https://www.ochrance.cz/vystupy/edice-stanoviska/Sbornik_Vezenstvi_II.pdf">Příloha 2</a></p>
+<p><a href="https://www.ochrance.cz/vystupy/edice-stanoviska/Sbornik_Vezenstvi_II.pdf">Příloha 2</a>.</p>
 
 <h3>50/2023 &ndash; Informace ke spisům z&nbsp;oblasti Činnost Policie ČR &ndash; ostatní</h3>
+
+<p><a href="https://www.ochrance.cz/info106/2023/50_2023_zadost.pdf">Žádost o informace</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/50_2023_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <p>x</p>
 
