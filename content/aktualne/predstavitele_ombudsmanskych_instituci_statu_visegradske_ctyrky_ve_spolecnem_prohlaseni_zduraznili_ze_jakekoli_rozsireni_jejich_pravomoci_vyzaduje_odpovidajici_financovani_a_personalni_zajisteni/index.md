@@ -18,6 +18,8 @@ perex: >
 attachments:
   - title: V4 Ombudsmen joint declaration 2023
     file: https://www.ochrance.cz/aktualne/predstavitele_ombudsmanskych_instituci_statu_visegradske_ctyrky_ve_spolecnem_prohlaseni_zduraznili_ze_jakekoli_rozsireni_jejich_pravomoci_vyzaduje_odpovidajici_financovani_a_personalni_zajisteni/v4_ombudsmen_joint_declaration_2023.pdf
+  - title: Deklarace představitelů ombudsmanských institucí států V4 - 2023
+    file: https://www.ochrance.cz/aktualne/predstavitele_ombudsmanskych_instituci_statu_visegradske_ctyrky_ve_spolecnem_prohlaseni_zduraznili_ze_jakekoli_rozsireni_jejich_pravomoci_vyzaduje_odpovidajici_financovani_a_personalni_zajisteni/spolecne_prohlaseni_ombudsmanu_v4_cze_final.pdf
 ---
 <p><em>&bdquo;Orgány veřejné moci, které jsou primárně odpovědné za rozpočty ombudsmanských institucí, musí vzít v úvahu, že přidělení nových úkolů našim institucím bez odpovídajícího navýšení zdrojů výrazně omezuje naši schopnost poskytovat účinnou pomoc osobám v&nbsp;nouzi,&ldquo;</em> uvedli ve společném prohlášení ombudsmani z&nbsp;Polska, Maďarska a Slovenska a zástupce veřejného ochránce práv Vít Alexander Schorm.</p>
 
