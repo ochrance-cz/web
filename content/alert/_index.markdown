@@ -1,19 +1,8 @@
 ---
-title: Připojte se na naši konferenci MŮJ ŽIVOT, MOJE VOLBA ANEB SEBEURČENÍ
+title: Українці, увага! Тут ви можете знайти важливі посилання з інформацією про
+  ваше перебування в Чеській Республіці.
 active: true
 ---
-**Odkaz na stream:** <https://ochrance.livebox.cz/2GlXZ0ozS0OhkcHcRUow.html>[](https://ochrance.livebox.cz/q0oOMe7w0USLwGYQ0fVpow.html)
-
-**P﻿rogram a výstupy účastníků:** https://www.ochrance.cz/dokument/deinstitucionalizace/
-
-**Místo pro pokládání otázek:** na stránkách [www.slido.com](www.slido.com) je možné vložit kód akce #3754972.
-
-.﻿
-
-.﻿
-
-.﻿
-
 Українці, увага! Тут ви можете знайти важливі посилання з інформацією про ваше перебування в Чеській Республіці. 
 
 * [Уразлива особа та термінове розміщення](/media/mop_nouzove_ubytovani_ua.pdf)
