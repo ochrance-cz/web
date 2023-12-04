@@ -30,7 +30,7 @@ attachments:
   - title: Příručka MMR K péči o opuštěné německé a další hroby na hřbitovech v
       České republice
     file: https://mmr.gov.cz/getmedia/414410c8-7132-4616-96b0-2243e24448d5/prirucka_nemecke_hroby.pdf.aspx?ext=.pdf
-  - title: MMR - časté dotazy z k provozvání pohřebišť
+  - title: MMR - časté dotazy k provozvání pohřebišť
     file: https://mmr.gov.cz/cs/caste-dotazy/pohrebnictvi/provozovani-pohrebist
   - title: Článek Advokátní deník – opuštění nemovitosti
     file: https://advokatnidenik.cz/2021/06/08/k-domnence-opusteni-nemovite-veci-dle-%C2%A7-1050-odst-2-o-z-a-jejim-pravnim-nasledkum/
