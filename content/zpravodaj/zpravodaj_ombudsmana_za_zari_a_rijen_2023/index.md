@@ -4,7 +4,7 @@ month: 11
 year: 2023
 perex: "\n"
 author: ""
-file: https://www.ochrance.cz/zpravodaj/zpravodaj_ombudsmana_za_zari_a_rijen_2023/zpravodaj_zari_a_rijen_2023.pdf
+file: https://www.ochrance.cz/zpravodaj/za_zari_a_rijen_2023/zpravodaj_zari_a_rijen_2023.pdf
 sections:
   - title: Úvodní slovo
     articles:
