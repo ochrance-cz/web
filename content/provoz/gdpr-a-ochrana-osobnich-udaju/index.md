@@ -153,7 +153,7 @@ title: GDPR a ochrana osobních údajů
 
 <h3>Máte právo, abychom omezili zpracování Vašich osobních údajů</h3>
 
-<p>Vaše osobní údaje zůstanou uloženy a&nbsp;nebudou jinak dále zpracovávány (ani smazány) po&nbsp;dobu potřebnou pro&nbsp;určení, výkon nebo obhajobu Vašich právních nároků.&nbsp;\</p>
+<p>Vaše osobní údaje zůstanou uloženy a&nbsp;nebudou jinak dále zpracovávány (ani smazány) po&nbsp;dobu potřebnou pro&nbsp;určení, výkon nebo obhajobu Vašich právních nároků.&nbsp;</p>
 
 
 
