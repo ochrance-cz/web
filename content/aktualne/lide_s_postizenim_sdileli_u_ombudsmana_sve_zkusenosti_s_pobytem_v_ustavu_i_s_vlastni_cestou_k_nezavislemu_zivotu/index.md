@@ -5,17 +5,15 @@ date: 2023-12-12T11:24:40.514Z
 vystupy:
   - tz
 perex: >
-  <p><strong>Konference a workshop &bdquo;Můj život, moje volba, aneb
-  Sebeurčení&ldquo; spolupořádané veřejným ochráncem práv a </strong><a
-  href="https://podporatransformace.cz/"><strong>Centrem podpory
-  transformace</strong></a><strong> svedly na jedno místo odborníky a úředníky
-  spolu s&nbsp;těmi, kterých se osobně dotýká přechod od sociálních služeb
-  ústavního typu ke komunitnímu modelu péče &ndash; takzvaná
-  deinstitucionalizace. Lidé s&nbsp;postižením z&nbsp;různých částí republiky,
-  kteří aktivně vystupují jako </strong><a
-  href="https://rytmus.org/sebeobhajci/"><strong>sebeobhájci</strong></a><strong>,
-  popsali své zkušenosti s pobytem v ústavech i samostatným životem mimo ně.
-  &nbsp;&nbsp;</strong></p>
+  <p>Konference a workshop &bdquo;Můj život, moje volba, aneb Sebeurčení&ldquo;
+  spolupořádané veřejným ochráncem práv a <a
+  href="https://podporatransformace.cz/">Centrem podpory transformace</a> svedly
+  na jedno místo odborníky a úředníky spolu s&nbsp;těmi, kterých se osobně
+  dotýká přechod od sociálních služeb ústavního typu ke komunitnímu modelu péče
+  &ndash; takzvaná deinstitucionalizace. Lidé s&nbsp;postižením z&nbsp;různých
+  částí republiky, kteří aktivně vystupují jako <a
+  href="https://rytmus.org/sebeobhajci/">sebeobhájci</a>, popsali své zkušenosti
+  s pobytem v ústavech i samostatným životem mimo ně. &nbsp;&nbsp;</p>
 attachments:
   - title: Prezentace z konference
     file: https://www.ochrance.cz/dokument/deinstitucionalizace/
