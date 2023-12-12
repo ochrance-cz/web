@@ -3,6 +3,8 @@ title: Vznik národní lidskoprávní instituce (NHRI) i zřízení dětského o
   by ochranu lidských práv v Česku posílily, shodují se ombudsman i jeho
   zástupce
 date: 2023-12-12T09:29:06.227Z
+vystupy:
+  - tz
 perex: >
   <p>Stanislav Křeček a Vít Alexander Schorm si v Praze připomněli Mezinárodní
   den lidských práv na <a
