@@ -4,9 +4,7 @@ linksAfter: []
 ---
 <h2><strong>Volná místa</strong></h2>
 
-<p>Nyní neprobíhá žádné výběrové řízení.</p>
-
-<p>Pokud se přesto chcete ucházet o místo, pošlete nám svůj životopis na adresu <a href="mailto:lzicarova@ochrance.cz">lzicarova@ochrance.cz</a> a napište, o jakou práci máte zájem.</p>
+<p>Hledáme vedoucí ekonomického oddělení. Více informací v <a href="https://www.ochrance.cz/aktualne/hledame_vedouci_ekonomickeho_oddeleni/">inzerátu</a>.</p>
 
 <p><strong>Stáže pro studenty právnických fakult</strong></p>
 
