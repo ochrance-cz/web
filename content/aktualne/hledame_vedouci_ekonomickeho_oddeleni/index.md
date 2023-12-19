@@ -1,5 +1,5 @@
 ---
-title: Hledáme vedoucí ekonomického oddělení
+title: Hledáme vedoucí/ho ekonomického oddělení
 date: 2023-12-19T08:13:16.344Z
 vystupy:
   - nabidka-prace
