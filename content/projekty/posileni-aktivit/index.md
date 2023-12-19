@@ -48,11 +48,16 @@ gallery:
 <h2>Aktuality</h2>
 
 <ul>
-	<li>19.12.2023 &ndash; jak vypadá Mezinárodní úmluva o právech lidí s&nbsp;postižením ve formátu pro snadné čtení se můžete podívat zde.</li>
-	<li>15.12.2023 &ndash; v&nbsp;návaznosti na partnerství Kanceláře s&nbsp;norskou národní lidskoprávní institucí - Norges institusjon for menneskerettigheter, přinášíme aktuální pohled na vznik národní lidskoprávní instituce v&nbsp;České republice. Článek si můžete přečíst zde.</li>
+	<li>19.12.2023 &ndash; jak vypadá Mezinárodní úmluva o právech lidí s&nbsp;postižením ve formátu pro snadné čtení se můžete podívat <a href="umluva_crpd-logo.pdf">zde</a>.</li>
+	<li>15.12.2023 &ndash; v&nbsp;návaznosti na partnerství Kanceláře s&nbsp;norskou národní lidskoprávní institucí - Norges institusjon for menneskerettigheter, přinášíme aktuální pohled na vznik národní lidskoprávní instituce v&nbsp;České republice. Článek si můžete přečíst <a href="vznik_nhri_v_cr_clanek.docx">zde</a>.</li>
 	<li>14.12.2023 &ndash; zveřejňujeme dvacátou zprávu z&nbsp;následné návštěvy zařízení z&nbsp;Dětského domova Radkov &ndash; Dubová <a href="https://www.ochrance.cz/uploads-import/ESO/33_2022_NZ%20DD%20Radkov%20Final.pdf">zde</a>.</li>
-	<li>30.11.2023 &ndash; jsme zrealizovali workshop Můj život, moje volba, aneb sebeurčení, kde jsme představili předběžné výsledky výzkumu týkajícího se tématu deinstitucionalizace, který mapuje přístup krajů a Ministerstva práce a sociálních věcí v&nbsp;kontextu naplňování práv lidí s&nbsp;postižením. Zde můžete zhlédnout prezentaci k&nbsp;workshopu.</li>
-	<li>29.11.2023 &ndash; jsme uspořádali workshop Přístupnost a bezbariérové užívání staveb, kde jsme se zaměřili na výsledky výzkumu týkající se postupů stavebních úřadů a krajských úřadů v&nbsp;této oblasti. Zde můžete shlédnout prezentaci k&nbsp;workshopu.</li>
+	<li>30.11.2023 &ndash; jsme zrealizovali workshop Můj život, moje volba, aneb sebeurčení, kde jsme představili předběžné výsledky výzkumu týkajícího se tématu deinstitucionalizace, který mapuje přístup krajů a Ministerstva práce a sociálních věcí v&nbsp;kontextu naplňování práv lidí s&nbsp;postižením. Zde můžete zhlédnout <a href="11_30_muj_zivot_moje_volba_aneb_sebeurceni_prezentace.pdf">prezentaci k&nbsp;workshopu</a>.</li>
+	<li>29.11.2023 &ndash; jsme uspořádali workshop Přístupnost a bezbariérové užívání staveb, kde jsme se zaměřili na výsledky výzkumu týkající se postupů stavebních úřadů a krajských úřadů v&nbsp;této oblasti. Zde můžete zhlédnout<a href="11_29_pristupnost_a_bezbarierove_uzivani_staveb_prezentace.pdf"> prezentaci k&nbsp;workshopu</a>.</li>
+</ul>
+
+<p><img alt="11_29_01.jpg" src="11_29_01.jpg" /></p>
+
+<ul>
 	<li>24.11.2023 &ndash; zveřejňujeme osmnáctou zprávu z&nbsp;následné návštěvy policejní cely Obvodního oddělení Mělník&nbsp;<a href="https://www.ochrance.cz/uploads-import/ESO/OOP%20M%C4%9Bln%C3%ADk%2017-2023-NZ.pdf">zde</a>&nbsp;a devatenáctou zprávu z&nbsp;následné návštěvy Domova pro seniory Uničov, s.r.o. <a href="https://www.ochrance.cz/uploads-import/ESO/NZ%202-2023%20Uni%C4%8Dov%20zpr%C3%A1va.pdf">zde</a>.</li>
 	<li>
 	<p>22.11.2023 &ndash; zveřejňujeme šestnáctou zprávu z&nbsp;následné návštěvy Výchovného ústavu Žulová <a href="https://www.ochrance.cz/uploads-import/ESO/13_2023_NZ%20V%C3%9A%20%C5%BDulov%C3%A1.pdf">zde</a> a sedmnáctou zprávu z&nbsp;následné návštěvy policejní cely obvodního oddělení Litoměřice <a href="https://www.ochrance.cz/uploads-import/ESO/Zpr%C3%A1va%20NZ%2016-2023%20Litom%C4%9B%C5%99ice.pdf">zde</a>.</p>
