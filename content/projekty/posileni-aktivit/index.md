@@ -48,13 +48,24 @@ gallery:
 <h2>Aktuality</h2>
 
 <ul>
+	<li>19.12.2023 &ndash; jak vypadá Mezinárodní úmluva o právech lidí s&nbsp;postižením ve formátu pro snadné čtení se můžete podívat zde.</li>
+	<li>15.12.2023 &ndash; v&nbsp;návaznosti na partnerství Kanceláře s&nbsp;norskou národní lidskoprávní institucí - Norges institusjon for menneskerettigheter, přinášíme aktuální pohled na vznik národní lidskoprávní instituce v&nbsp;České republice. Článek si můžete přečíst zde.</li>
+	<li>14.12.2023 &ndash; zveřejňujeme dvacátou zprávu z&nbsp;následné návštěvy zařízení z&nbsp;Dětského domova Radkov &ndash; Dubová <a href="https://www.ochrance.cz/uploads-import/ESO/33_2022_NZ%20DD%20Radkov%20Final.pdf">zde</a>.</li>
+	<li>30.11.2023 &ndash; jsme zrealizovali workshop Můj život, moje volba, aneb sebeurčení, kde jsme představili předběžné výsledky výzkumu týkajícího se tématu deinstitucionalizace, který mapuje přístup krajů a Ministerstva práce a sociálních věcí v&nbsp;kontextu naplňování práv lidí s&nbsp;postižením. Zde můžete zhlédnout prezentaci k&nbsp;workshopu.</li>
+	<li>29.11.2023 &ndash; jsme uspořádali workshop Přístupnost a bezbariérové užívání staveb, kde jsme se zaměřili na výsledky výzkumu týkající se postupů stavebních úřadů a krajských úřadů v&nbsp;této oblasti. Zde můžete shlédnout prezentaci k&nbsp;workshopu.</li>
 	<li>24.11.2023 &ndash; zveřejňujeme osmnáctou zprávu z&nbsp;následné návštěvy policejní cely Obvodního oddělení Mělník&nbsp;<a href="https://www.ochrance.cz/uploads-import/ESO/OOP%20M%C4%9Bln%C3%ADk%2017-2023-NZ.pdf">zde</a>&nbsp;a devatenáctou zprávu z&nbsp;následné návštěvy Domova pro seniory Uničov, s.r.o. <a href="https://www.ochrance.cz/uploads-import/ESO/NZ%202-2023%20Uni%C4%8Dov%20zpr%C3%A1va.pdf">zde</a>.</li>
 	<li>
 	<p>22.11.2023 &ndash; zveřejňujeme šestnáctou zprávu z&nbsp;následné návštěvy Výchovného ústavu Žulová <a href="https://www.ochrance.cz/uploads-import/ESO/13_2023_NZ%20V%C3%9A%20%C5%BDulov%C3%A1.pdf">zde</a> a sedmnáctou zprávu z&nbsp;následné návštěvy policejní cely obvodního oddělení Litoměřice <a href="https://www.ochrance.cz/uploads-import/ESO/Zpr%C3%A1va%20NZ%2016-2023%20Litom%C4%9B%C5%99ice.pdf">zde</a>.</p>
 	</li>
 	<li>
-	<p>13.11.2023 &ndash; dnes jsme uspořádali 3. setkání dětské participační skupiny. Jak probíhalo, se můžete dozvědět <a href="https://deti.ochrance.cz/aktualne/muze_se_stretavat_pravo_na_soukromi_s_pravem_na_sdileni_informaci/">zde</a>.</p>
+	<p>22.11.2023 &ndash; jsme zrealizovali workshop Dobrá praxe při zajišťování bydlení pro zranitelné skupiny s&nbsp;cílem představit hlavní výsledky našeho výzkumu a diskutovat nad příklady dobré praxe, ale i nad překážkami, na které pomáhající organizace naráží. Zde můžete zhlédnout <a href="11_22_dobra_praxe_v_zajistovani_bydleni_pro_zranitelne_skupiny_prezentace.pdf">prezentaci k&nbsp;workshopu</a>. &nbsp;</p>
 	</li>
+</ul>
+
+<p><img alt="11_22_01.jpg" src="11_22_01.jpg" /></p>
+
+<ul>
+	<li>13.11.2023 &ndash; dnes jsme uspořádali 3. setkání dětské participační skupiny. Jak probíhalo, se můžete dozvědět <a href="https://deti.ochrance.cz/aktualne/muze_se_stretavat_pravo_na_soukromi_s_pravem_na_sdileni_informaci/">zde</a>.</li>
 </ul>
 
 <p><img alt="3_setkani.png" src="3_setkani.png" /></p>
@@ -71,6 +82,9 @@ gallery:
 <p><img alt="2.png" src="2.png" /></p>
 
 <ul>
+	<li>
+	<p>14.9.2023 &ndash; jsme zrealizovali kulatý stůl na téma kontakty dětí a rodičů ve výkonu trestu odnětí svobody a s&nbsp;nimi související praxe orgánů sociálně-právní ochrany dětí.</p>
+	</li>
 	<li>4.9.2023 &ndash; přinášíme poznatky z&nbsp;naplňování práva na rovné zacházení a ochrany před diskriminací za rok 2022. Tiskovou zprávu s&nbsp;dalšími podrobnostmi naleznete <a href="https://www.ochrance.cz/aktualne/podle_pravidel_pro_zaky_s_lehkym_mentalnim_postizenim_se_porad_uci_vice_romskych_deti_nez_by_odpovidalo_zastoupeni_romu_mezi_vsemi_skolaky/">zde</a>, monitorovací zprávu za rok 2022 <a href="https://www.ochrance.cz/uploads-import/ESO/monitorovaci-zprava_2023-WEB-CZ_10-23.pdf">zde</a>&nbsp;a v anglickém jazyce <a href="https://www.ochrance.cz/uploads-import/ESO/monitorovaci-zprava_2023-WEB-EN%2010-23.pdf">zde</a>.</li>
 	<li>
 	<p>14.8.2023 &ndash; zveřejňujeme čtrnáctou zprávu z&nbsp;následné návštěvy zařízení a to Zařízení pro zajištění cizinců Balková <a href="https://www.ochrance.cz/uploads-import/ESO/NZ%2043-2022-T%C5%BDK%20-%20zpr%C3%A1va%20final.pdf">zde</a> a patnáctou zprávu z&nbsp;následné návštěvy zařízení Policejní cely Plzeň <a href="https://www.ochrance.cz/uploads-import/ESO/PEO%20Plze%C5%88%203-2023-NZ.pdf">zde</a>.</p>
@@ -80,6 +94,9 @@ gallery:
 	</li>
 	<li>
 	<p>23.6.2023 &ndash; jaké jsou výsledky rozsáhlého výzkumu veřejného ochránce práv na téma těhotenství a mateřství na pracovišti se můžete dočíst v&nbsp;<a href="https://www.ochrance.cz/aktualne/zeny_v_cesku_se_kvuli_tehotenstvi_a_materstvi_setkavaji_v_praci_s_mnohymi_barierami_potvrdil_vyzkum_verejneho_ochrance_prav/">tiskové zprávě</a>. Zveřejňujeme i samotnou <a href="vyzkumna_zprava_tehotenstvi_a_materstvi_na_pracovisti.pdf">výzkumnou zprávu</a>.</p>
+	</li>
+	<li>
+	<p>22.6.2023 &ndash; jsme zrealizovali workshop Rodičovství na pracovišti pro širokou veřejnost. Cílem workshopu bylo přiblížit zjištění z&nbsp;výzkumu Těhotenství a mateřství na pracovišti. Zde můžete zhlédnout <a href="06_22_rodicovstvi_na_pracovisti_prezentace_1_.pdf">prezentaci k&nbsp;výzkumné zprávě</a>, <a href="06_22_rodicovstvi_na_pracovisti_prezentace_2_.pdf">prezentaci k&nbsp;doporučení</a>, <a href="06_22_rodicovstvi_na_pracovisti_prezentace_3_.pdf">prezentaci k&nbsp;praktické příručce</a> a <a href="06_22_rodicovstvi_na_pracovisti_prezentace_4_.pdf">prezentaci ke kazuistikám</a>.</p>
 	</li>
 	<li>
 	<p>K 15.6.2023, tj. za 9. monitorovací období, zveřejňujeme odborné výstupy sekretariátu ochránce a jeho zástupce. Jedná se o&nbsp;<a href="szd_2-2023_osoby_bez_statni_prislusnosti_.pdf">vyrozumění veřejného ochránce práv vládě ČR o nedosažení nápravy zjištěných pochybení úřadu ve věci právního postavení osob bez státní příslušnosti</a>, o <a href="szd_7-2023_neakceptace_plnych_moci_.pdf">vyrozumění veřejného ochránce práv vládě ČR o nedosažení nápravy zjištěných pochybení úřadu ve věci neakceptace plných mocí v řízení o poskytnutí mezinárodní ochrany</a> a o <a href="szd_6-2023_cinsti_krestane_.pdf">vyrozumění veřejného ochránce práv vládě ČR o nedosažení nápravy zjištěných pochybení úřadu ve věci průtahů v řízeních o udělení mezinárodní ochrany skupině tzv. čínských křesťanů</a>.</p>
