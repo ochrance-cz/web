@@ -4,7 +4,7 @@ linksAfter: []
 ---
 <h2><strong>Volná místa</strong></h2>
 
-<p>Hledáme vedoucí ekonomického oddělení. Více informací v <a href="https://www.ochrance.cz/aktualne/hledame_vedouci_ekonomickeho_oddeleni/">inzerátu</a>.</p>
+<p>Hledáme vedoucí/ho ekonomického oddělení. Více informací v <a href="https://www.ochrance.cz/aktualne/hledame_vedouci_ekonomickeho_oddeleni/">inzerátu</a>.</p>
 
 <p><strong>Stáže pro studenty právnických fakult</strong></p>
 
@@ -29,11 +29,11 @@ linksAfter: []
 	<li>Pružnou pracovní dobu (pevná část 9:00&ndash;14:00)</li>
 	<li>Dovolenou 5 týdnů</li>
 	<li>Zkrácené pracovní úvazky</li>
-	<li>Práci z&nbsp;domova až 58 dní ročně</li>
+	<li>Práci z&nbsp;domova 2 dny v&nbsp;týdnu a 10 dalších dní ročně</li>
 	<li>Čerpání náhradního volna až 11 týdnů nazpět</li>
-	<li>Zdravotní volno 5 dní ročně (7 dní pro lidi s postižením a pro 50+)</li>
+	<li>Osobní volno 5 dní ročně (7 dní pro lidi s postižením a pro 50+)</li>
 	<li>Další dny volna navíc (studijní volno, volno pro otce, volno související s uzavřením registrovaného partnerství)</li>
-	<li>Denní příspěvek na stravování 84 Kč, jídelnu a kantýnu v&nbsp;budově</li>
+	<li>Denní příspěvek na stravování 89 Kč, jídelnu a kantýnu v&nbsp;budově</li>
 	<li>Dětskou skupinu v budově</li>
 	<li>Tělocvičnu v budově</li>
 	<li>Parkování u budovy</li>
