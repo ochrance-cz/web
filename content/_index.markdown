@@ -1,7 +1,7 @@
 ---
 title: Veřejný ochránce práv
 claim: Pomáháme bez rozdílu
-headerPic: /media/budova2.jpg
+headerPic: /media/pf_2024_na_uvod_webu.png
 situationsTitle: Potřebuji pomoc
 cinnostTitle: Činnost ombudsmana
 accessibility: >
