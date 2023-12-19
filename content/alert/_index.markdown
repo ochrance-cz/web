@@ -1,11 +1,24 @@
 ---
-title: Українці, увага! Тут ви можете знайти важливі посилання з інформацією про
-  ваше перебування в Чеській Республіці.
+title: "Informace o úředních hodinách mezi vánočními svátky ->  "
 active: true
 ---
-Українці, увага! Тут ви можете знайти важливі посилання з інформацією про ваше перебування в Чеській Республіці. 
+\-﻿>
 
-* [Уразлива особа та термінове розміщення](/media/mop_nouzove_ubytovani_ua.pdf)
+* osobní příjem je od 22. 12. – 29. 12. 2023 zavřený,
+* infolinka od 27. 12. – 29. 12. 2023 nebude v provozu,
+* podatelna od 22. 12. – 29. 12. 2023 bude v provozu vždy jen do 12:00.
+
+V novém roce se na vás budeme těšit opět každý všední den od 8-16 hod.
+
+.﻿
+
+.
+
+.
+
+Українці, увага! Тут ви можете знайти важливі посилання з інформацією про ваше перебування в Чеській Республіці.
+
+[Уразлива особа та термінове розміщення](/media/mop_nouzove_ubytovani_ua.pdf)
 
 [Zranitelná osoba a nouzové ubytování](/media/mop_nouzove_ubytovani_cz.pdf)
 
