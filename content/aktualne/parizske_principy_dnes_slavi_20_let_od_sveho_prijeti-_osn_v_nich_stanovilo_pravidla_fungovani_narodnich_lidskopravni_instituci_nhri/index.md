@@ -1,6 +1,6 @@
 ---
 title: Pařížské principy dnes slaví 30 let od svého přijetí. OSN v nich
-  stanovilo pravidla fungování národních lidskoprávní institucí (NHRI)
+  stanovilo pravidla fungování národních lidskoprávních institucí (NHRI)
 date: 2023-12-20T12:32:51.816Z
 vystupy:
   - tz
