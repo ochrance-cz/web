@@ -295,6 +295,10 @@ lawyers:
         role: "právnička (věci cizinců) "
         phone: 542 542 366
         email: kristyna.molkovafoukalova@ochrance.cz
+      - name: Barbora Mazalová
+        role: právnička (věci cizinců)
+        phone: ""
+        email: barbora.mazalova@ochrance.cz
   - title: Odbor rodiny, zdravotnictví a práce
     intro: veřejné zdravotní pojištění, stížnosti ve zdravotnictví, činnost OSPOD,
       ústavní výchova, evidence uchazečů o zaměstnání u Úřadu práce, inspekce
@@ -321,10 +325,6 @@ lawyers:
           zdravotnictví)
         phone: 542 542 398
         email: martin.jezek@ochrance.cz
-      - name: Marek Kosík
-        role: právník (sociálně-právní ochrana dětí, ústavní výchova, pěstounská péče)
-        phone: 542 542 371
-        email: marek.kosik@ochrance.cz
       - name: Zuzana Kučerová
         role: právnička (zaměstnanost, inspekce práce, správa na úseku zdravotnictví)
         phone: 542 542 293
@@ -472,14 +472,18 @@ lawyers:
         role: "právnička "
         phone: "542 542 375 "
         email: silvie.konopkova@ochrance.cz
-      - name: Jana Tučková
-        role: právnička
-        phone: 542 542 306
-        email: jana.tuckova@ochrance.cz
       - name: Anna Makarenko
         role: právnička
         phone: "anna.makarenko@ochrance.cz "
         email: 542 542 269
+      - name: Eliška Černá
+        role: právnička
+        phone: 542 542 306
+        email: eliska.cerna2@ochrance.cz
+      - name: Jan Špilka
+        role: právník
+        phone: 542 542 330
+        email: jan.spilka@ochrance.cz
   - title: Odbor ochrany práv osob se zdravotním postižením
     people:
       - name: Romana Jakešová
@@ -514,10 +518,6 @@ lawyers:
         phone: "542 542 273 "
         email: "alena.noskova@ochrance.cz "
         role: právnička
-      - name: Nicole Fryčová
-        role: právnička
-        phone: 542 542 255
-        email: "nicole.frycova@ochrance.cz "
       - name: Karel Lach
         role: právník
         phone: 542 542 201
