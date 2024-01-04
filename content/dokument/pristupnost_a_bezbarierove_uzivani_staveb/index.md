@@ -9,9 +9,9 @@ attachmentsTop:
 ---
 <h3><strong>KONFERENCE&nbsp;PŘÍSTUPNOST A BEZBARIÉROVÉ UŽÍVÁNÍ STAVEB (29. 11. 2023)</strong></h3>
 
-<p><strong>Odkaz na stream:&nbsp;</strong><a href="https://ochrance.livebox.cz/q0oOMe7w0USLwGYQ0fVpow.html">https://ochrance.livebox.cz/q0oOMe7w0USLwGYQ0fVpow.html</a></p>
+<p><strong>Odkaz na videozáznam konference:&nbsp;</strong><a href="https://youtu.be/iXRMw_r2ETc">https://youtu.be/iXRMw_r2ETc</a></p>
 
-<p><strong>Odkaz na přepis</strong>: <a href="https://text-on-tap.live/index.html#e=pristupnost">https://text-on-tap.live/index.html#e=pristupnost</a>.</p>
+<p>&nbsp;</p>
 
 <p><strong><a href="https://www.ochrance.cz/dokument/pristupnost_a_bezbarierove_uzivani_staveb/pozvanka.pdf">Program konference</a></strong></p>
 
