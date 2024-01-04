@@ -51,7 +51,7 @@ perex: |
 
 <p>&nbsp;</p>
 
-<p>Jestli se k&nbsp;nám chcete připojit, napište nám na&nbsp;adresu&nbsp;<a href="mailto:lzicarova@ochrance.cz"><strong>lzicarova@ochrance.cz</strong></a>.</p>
+<p>Jestli se k&nbsp;nám chcete připojit, napište nám na&nbsp;adresu&nbsp;<a href="mailto:lzicarova@ochrance.cz"><strong>lzicarova@ochrance.cz</strong></a>&nbsp;<strong>do 21. ledna 2024</strong>.</p>
 
 <p>Maximálně vyjdeme vstříc i Vašim případným specifickým potřebám například v&nbsp;souvislosti s&nbsp;postižením.</p>
 
