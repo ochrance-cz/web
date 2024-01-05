@@ -350,3 +350,39 @@ title: "2023"
 <p><a href="https://www.ochrance.cz/info106/2023/55_203_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <p><a href="https://www.ochrance.cz/vystupy/edice-stanoviska/Sbornik_Vezenstvi_II.pdf">Příloha</a>.</p>
+
+<h3>56/2023 &ndash; informace ke spisu z&nbsp;oblasti Působnost Ministerstva spravedlnosti, Probační a mediační služba</h3>
+
+<p><a href="https://www.ochrance.cz/info106/2023/56_2023_zadost.pdf">Žádost o informace</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/56_2023_odpoved.odt">Odpověď na žádost</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/priloha_1_souhrn_argumentu_z_kulateho_stolu_28.2.2019_-_zverejnovani_judikatury_4292-2015-jho.pdf">Příloha 1</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/priloha_2_souhrn_argumentu_z_kulateho_stolu_anonymizace_soudnich_rozhodnuti_konaneho_dne_15._11._2019.pdf">Příloha 2</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/priloha_3_2019_osv_sp_2_3_odpoved_msp_na_zs_ze_dne_28.1.2019.pdf">Příloha 3</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/priloha_4_10_2017_ooj_met_4_2._odpoved_msp_ze_dne_17._5._2017.pdf">Příloha 4</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/priloha_5_1_10_2017_ooj_met_14_3_odpoved_msp_ze_dne_14.7.2017pdf.pdf">Příloha 5</a>.</p>
+
+<p>d</p>
+
+<h3>57/2023 &ndash; informace ke spisům z&nbsp;oblasti Dopravní přestupky</h3>
+
+<p>d</p>
+
+<p>d</p>
+
+<h3>58/2023 &ndash; informace z&nbsp;oblasti Vězeňství</h3>
+
+<p>d</p>
+
+<p>d</p>
+
+<h3>60/2023 &ndash; informace k&nbsp;působnosti VOP</h3>
+
+<p>d</p>
+
+<p>d</p>
