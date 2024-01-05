@@ -403,20 +403,42 @@ title: "2023"
 
 <p><a href="https://www.ochrance.cz/info106/2023/priloha_20_evidence_soudnich_rozhodnuti_4292-15-jho-28-ms_vyzva_msp_ze_dne_3.6.2019.pdf">Příloha 20</a>.</p>
 
+<p><a href="https://www.ochrance.cz/info106/2023/priloha_21_priloha_k_dopisu_msp_ze_dne_3.5.2019_seznam_ucastniku_ks_.pdf">Příloha 21</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/priloha_22_zaverecne_stanovisko_4292-15-jho-24-zso.pdf">Příloha 22</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/priloha_23_zaznam_z_jednani_mezi_vop_a_ministryni_sprvedlnosti_ze_dne_16.7.2020_str._1a_2_.pdf">Příloha 23</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/priloha_24_zprava_o_setreni_z_vlastni_iniciativy_ve_veci_naplnovani_evidence_soudnich_rozhodnuti_4292-2015-jho.pdf">Příloha 24</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/priloha_25_vyzva_vop_ze_dne_12.5.2020.pdf">Příloha 25</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/priloha_26_dopis_ministerstva_17.7.2020.pdf">Příloha 26</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/priloha_27_priloha_c._1_dopisu_ministerstva_17.7.2020.pdf">Příloha 27</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/priloha_28_priloha_c._2_dopisu_ministerstva_17.7.2020.pdf">Příloha 28</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/priloha_29_souhrn_argumentu_z_jednani_2023_-_anonymizace_nejen_soudnich_rozhodnuti.pdf">Příloha 29</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/priloha_30_vyrozumeni_vop_ministertvu_o_vyzkumu_21.7.2023.pdf">Příloha 30</a>.</p>
+
 <h3>57/2023 &ndash; informace ke spisům z&nbsp;oblasti Dopravní přestupky</h3>
 
-<p>d</p>
+<p><a href="https://www.ochrance.cz/info106/2023/57_2023_zadost.pdf">Žádost o informace.</a></p>
 
-<p>d</p>
+<p><a href="https://www.ochrance.cz/info106/2023/57_2023_odpoved.odt">Odpověď na žádost</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/57_2023_odpoved_priloha_16803_2022_vop.doc">Příloha</a>.</p>
 
 <h3>58/2023 &ndash; informace z&nbsp;oblasti Vězeňství</h3>
 
-<p>d</p>
+<p><a href="https://www.ochrance.cz/info106/2023/58_2023_zadost.pdf">Žádost o informace.</a></p>
 
-<p>d</p>
+<p><a href="https://www.ochrance.cz/info106/2023/58_2023_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <h3>60/2023 &ndash; informace k&nbsp;působnosti VOP</h3>
 
-<p>d</p>
+<p><a href="https://www.ochrance.cz/info106/2023/60_2023_zadost.pdf">Žádost o informace.</a></p>
 
-<p>d</p>
+<p><a href="https://www.ochrance.cz/info106/2023/60_2023_odpoved.odt">Odpověď na žádost</a>.</p>
