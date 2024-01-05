@@ -365,9 +365,43 @@ title: "2023"
 
 <p><a href="https://www.ochrance.cz/info106/2023/priloha_4_10_2017_ooj_met_4_2._odpoved_msp_ze_dne_17._5._2017.pdf">Příloha 4</a>.</p>
 
-<p><a href="https://www.ochrance.cz/info106/2023/priloha_5_1_10_2017_ooj_met_14_3_odpoved_msp_ze_dne_14.7.2017pdf.pdf">Příloha 5</a>.</p>
+<p><a href="https://www.ochrance.cz/info106/2023/priloha_5_1_10_2017_ooj_met_14_3_odpoved_msp_ze_dne_14.7.2017pdf.pdf">Příloha 5A</a>.</p>
 
-<p>d</p>
+<p><a href="https://www.ochrance.cz/info106/2023/priloha_5_2_10_2017_ooj_met_14_1_priloha_k_odpovedi_msp_ze_dne_14.7.2017.xls">Příloha 5B</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/priloha_6_1_30_2019_ooj_met_10_1_zadost_msp_o_pripominkovani_instrukce_ze_dne_2.9.2019.pdf">Příloha 6A</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/priloha_6_2_30_2019_ooj_met_10_1_zadost_msp_o_pripominkovani_instrukce_ze_dne_2.9.2019_priloha_-_material_.pdf">Příloha 6B</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/priloha_6_3_30_2019_ooj_met_10_3_zadost_msp_o_pripominkovani_instrukce_ze_dne_2.9.2019_priloha_-_dz_.pdf">Příloha 6C</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/priloha_7_32-18-szd-ms_-pozvanka_msp_na_kulaty_stul_ze_dne_17.1.2019.pdf">Příloha 7</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/priloha_8_50_2019_oej_org_2_3_42_odpoved_msp_ze_dne_6.5.2019.pdf">Příloha 8</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/priloha_9_25_10_2016.pdf">Příloha 9</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/priloha_10_599_2018_ooj_so_11_2_odpoved_msp_na_zs_ze_dne_9.1.2019.pdf">Příloha 10</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/priloha_11_4292-15-jho-ms-1_vyzva_msp_ze_dne_29.2.2016.docx">Příloha 11</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/priloha_12_4292-15-jho-ms-5.pdf">Příloha 12</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/priloha_13_4292-15-jho-ms12-vyzva_ministerstu_k_vyjadreni_ke_zprave_ze_dne_7.11.2016.pdf">Příloha 13</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/priloha_14_4292-15-jho-ms-14-final_vyzva_msp_ze_dne_7.2.2017.pdf">Příloha 14</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/priloha_15_4292-15-jho-vysledky_vyzkumu_849056_.pdf">Příloha 15</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/priloha_16_44456-2019_msp_pripominky_vop_k_navrhu_instrukce_ke_zverejnovani_judikatury_ze_dne_30.9.2019.pdf">Příloha 16</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/priloha_17_danova_exekuce_-_6470-15-rm-vyzva_msp_ze_dne_1.3.2018_vyzva_4292-2015-vop_.pdf">Příloha 17</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/priloha_18_evidence_soudnich_rozhodnuti_4292-15-jho-27-msp-vyzva_msp_ze_dne_9.4.2019.pdf">Příloha 18</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/priloha_19_priloha_k_dopisu_msp_ze_dne_3.5.2019_podklad_k_jednani_.pdf">Příloha 19</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/priloha_20_evidence_soudnich_rozhodnuti_4292-15-jho-28-ms_vyzva_msp_ze_dne_3.6.2019.pdf">Příloha 20</a>.</p>
 
 <h3>57/2023 &ndash; informace ke spisům z&nbsp;oblasti Dopravní přestupky</h3>
 
