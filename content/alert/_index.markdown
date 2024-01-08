@@ -1,8 +1,20 @@
 ---
-title: Українці, увага! Тут ви можете знайти важливі посилання з інформацією про
-  ваше перебування в Чеській Республіці.
+title: Připojte se k brněnské Noci důstojnosti v Kanceláři ombudsmana alespoň
+  virtuálně na dálku. Odkazy naleznete po kliknutí na tento odkaz
 active: true
 ---
+P﻿anelová diskuze Důstojný život pro všechny, odkaz na stream od 15 hodin: https://ochrance.livebox.cz/S3podI1BEKWVQAy8Rt8g.html
+
+* O﻿tázky můžete klást prostřednictvím aplikace sli.do: https://app.sli.do/event/aUxgNFU9K5QWhoYttTPqph (v aplikaci využijete číslo 1363481)
+
+U﻿ctění památky Doroty Šandorové, stream od 17 hodin sledujte na Facebooku ombudsmana: https://www.facebook.com/verejny.ochrance.prav
+
+.
+
+.﻿
+
+.﻿
+
 Українці, увага! Тут ви можете знайти важливі посилання з інформацією про ваше перебування в Чеській Республіці.
 
 [Уразлива особа та термінове розміщення](/media/mop_nouzove_ubytovani_ua.pdf)
