@@ -1,4 +1,7 @@
 ---
-title: "Poplatky za komunální odpad: Za které stavby se platí?"
+title: Komunální odpad – za které stavby se platí poplatky
+situace:
+  - bydleni
+  - stavebnictvi
 file: komunalni-odpad-stavby.pdf
 ---
