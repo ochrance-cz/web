@@ -21,8 +21,10 @@ perex: >
 
 <p><strong>Více se dozvíte v&nbsp;našich souhrnných zprávách</strong></p>
 
-<p><a href="https://www.ochrance.cz/uploads-import/ESO/21-2016-NZ-MLU_SZ-ochranne_leceni.pdf">Souhrnná zpráva z ochranného léčení</a><br />
+<p><a href="https://www.ochrance.cz/uploads-import/ESO/21-2016-NZ-MLU_SZ-ochranne_leceni.pdf">Souhrnná zpráva z ochranného léčení</a>,<br />
 <a href="https://www.ochrance.cz/uploads-import/ESO/5-2019-NZ-MKL_Souhrna_zprava_zabezpecovaci_detence.pdf">Souhrnná zpráva ze zabezpečovací detence</a></p>
+
+<p>a <a href="https://www.ochrance.cz/aktualne/na_kavu_s_ombudsmanem_102-_dil_omezeni_osobni_svobody_v_souvislosti_s_dusevnim_onemocnenim_i/">předchozím dílu podcastu</a>.&nbsp;</p>
 
 <p>&nbsp;</p>
 
