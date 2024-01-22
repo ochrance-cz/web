@@ -442,3 +442,37 @@ title: "2023"
 <p><a href="https://www.ochrance.cz/info106/2023/60_2023_zadost.pdf">Žádost o informace.</a></p>
 
 <p><a href="https://www.ochrance.cz/info106/2023/60_2023_odpoved.odt">Odpověď na žádost</a>.</p>
+
+<h3>61/2023 &ndash; informace k&nbsp;působnosti VOP</h3>
+
+<p><a href="https://www.ochrance.cz/info106/2023/61_2023_zadost.pdf">Žádost o informace</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/61_2023_odpoved_priloha1.pdf">Odpověď na žádost</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/61_2023_odpoved_priloha1.pdf">Příloha 1</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/61_2023_odpoved_priloha2.docx">Příloha 2</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/61_2023_odpoved_priloha3.docx">Příloha 3</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/61_2023_odpoved_priloha4.docx">Příloha 4</a>.</p>
+
+<h3>62/2023 &ndash; informace k&nbsp;působnosti VOP</h3>
+
+<p><a href="https://www.ochrance.cz/info106/2023/62_2023_zadost.pdf">Žádost o informace</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/62_2023_odpoved.odt">Odpověď na žádost</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/62_2023_odpoved_priloha1.pdf">Příloha 1</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/62_2023_odpoved_priloha2.docx">Příloha 2</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/62_2023_odpoved_priloha3.docx">Příloha 3</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2023/62_2023_odpoved_priloha4.docx">Příloha 4</a>.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
