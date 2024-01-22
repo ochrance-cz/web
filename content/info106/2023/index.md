@@ -447,7 +447,7 @@ title: "2023"
 
 <p><a href="https://www.ochrance.cz/info106/2023/61_2023_zadost.pdf">Žádost o informace</a>.</p>
 
-<p><a href="https://www.ochrance.cz/info106/2023/61_2023_odpoved_priloha1.pdf">Odpověď na žádost</a>.</p>
+<p><a href="https://www.ochrance.cz/info106/2023/61_2023_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <p><a href="https://www.ochrance.cz/info106/2023/61_2023_odpoved_priloha1.pdf">Příloha 1</a>.</p>
 
