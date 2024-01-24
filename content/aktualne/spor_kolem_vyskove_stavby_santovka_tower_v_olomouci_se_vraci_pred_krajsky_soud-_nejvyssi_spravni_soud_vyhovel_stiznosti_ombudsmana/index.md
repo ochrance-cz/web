@@ -14,7 +14,7 @@ perex: >
 attachments:
   - title: Rozsudek Nejvyššího správního soudu 1 As 174/2022 - 92
     file: https://www.nssoud.cz/modalni-obsah/rozhodovaci-cinnost/rozhodnuti-379626?cHash=08b349fc9475773a337e4dbb5740032e
-  - title: Tisková zpráva z 28. 7. 2022 – podání kasační stížnosti
+  - title: Tisková zpráva ze dne 28. 7. 2022 – podání kasační stížnosti
     file: https://www.ochrance.cz/aktualne/planovana_stavba_santovka_tower_v_olomouci_miri_k_nejvyssimu_spravnimu_soudu_ombudsman_podal_kasacni_stiznost/
   - title: Tisková zpráva ze dne 29. 8. 2022 – přiznání odkladného účinku kasační
       stížnosti
