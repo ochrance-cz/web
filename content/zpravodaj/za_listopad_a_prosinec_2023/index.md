@@ -151,7 +151,7 @@ sections:
 
 
           <p>Městský soud v&nbsp;Praze se ztotožnil s&nbsp;námitkami stěžovatelky a zrušil rozhodnutí ministerstva (sp. zn. <a href="https://vyhledavac.nssoud.cz/DokumentOriginal/Html/706380">14 Ad 9/2022</a>). Vydal přitom vůbec první rozsudek v&nbsp;této věci, na který odkazují další soudy (včetně Nejvyššího správního soudu). Ministerstvo díky němu v&nbsp;současné době lépe a podrobněji poučuje žadatelky o odškodnění.</p>
-        title: "Napomohli jsme ke změně rozhodovací praxe Ministerstva zdravotnictví o
+        title: "Napomohli jsme ke změně rozhodovací praxe Ministerstva zdravotnictví při
           odškodnění za protiprávní sterilizaci "
         id: 14083/2022/VOP
         eso: https://eso.ochrance.cz/Nalezene/Edit/12184
