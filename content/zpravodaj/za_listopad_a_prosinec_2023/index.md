@@ -188,9 +188,156 @@ sections:
         id: 10410/2022/VOP
         eso: https://eso.ochrance.cz/Nalezene/Edit/11542
   - title: Radili jsme v diskriminačních věcech
-    articles: []
+    articles:
+      - body: >
+          <blockquote>
+
+          <p>Zaměstnavatel se může dopustit diskriminace, pokud se neřídí právními předpisy, které zohledňují práva lidi se zdravotním&nbsp;postižením.</p>
+
+          </blockquote>
+
+
+          <p>Během pandemie onemocnění COVID-19 museli mít lidé ve vnitřních prostorech zakrytý obličej, aby předcházeli další nákaze. Stěžovatel doložil zaměstnavateli potvrzení lékaře (specialisty), že mu to působí vážné zdravotní obtíže. <a href="https://www.mzcr.cz/wp-content/uploads/2020/09/Mimoradne-opatreni-noseni-ochrannych-prostredku-dychacich-cest-s-vyjimkami-s-ucinnosti-od-10-9-2020-do-odvolani.pdf">Mimořádné opatření</a> pro takové případy stanovilo výjimku. Zaměstnavatel přesto požadoval, aby měl stěžovatel zakrytý obličej a nedovolil mu vstup na pracoviště. Poté s&nbsp;ním kvůli neomluveným absencím ukončil pracovní poměr.</p>
+
+
+          <p>Zaměstnavatel musel respektovat právo stěžovatele pobývat na pracovišti bez zakrytého obličeje a současně chránit zdraví ostatních zaměstnanců. Podle našeho názoru měl možnost řešit tuto situaci jiným vhodnějším způsobem (ne propuštěním stěžovatele z&nbsp;práce). Proto jsme jeho jednání shledali diskriminačním.</p>
+
+
+          <p>Soud již pravomocně rozhodl o neplatnosti ukončení pracovního poměru. Stěžovatel nyní čeká na projednání své antidiskriminační žaloby.</p>
+        title: "Zabývali jsme se případem muže, kterého zaměstnavatel propustil z práce
+          "
+        id: 15798/2022/VOP
+        eso: https://eso.ochrance.cz/Nalezene/Edit/11712
+      - body: >
+          <blockquote>
+
+          <p>Banka se může dopustit diskriminace, pokud neumožní plně svéprávnému klientovi, který má zároveň jmenovaného opatrovníka <a href="https://www.e-sbirka.cz/sb/2012/89/2023-01-06#par_469">(&sect; 469</a> zákona č. 89/2012 Sb.), aby nakládal se svým účtem.</p>
+
+          </blockquote>
+
+
+          <p>Stěžovatel je plně svéprávný, ale kvůli lehkému mentálnímu postižení mu soud jmenoval opatrovnici. Ta ho může zastupovat při nakládání s majetkem v hodnotě nad 20 000 Kč. Banka stěžovateli neumožnila zrušit stavební spoření a založit nové kvůli tomu, že naspořená částka přesahuje 20&nbsp;000 Kč. Podle banky to mohla udělat jen opatrovnice. Stěžovatel tvrdil, že ze stejných důvodů nesměl nakládat ani se vkladní knížkou a běžným účtem, přestože chtěl vybrat nižší částku.</p>
+
+
+          <p>Banka diskriminovala stěžovatele z&nbsp;důvodu zdravotního postižení. Sledovala legitimní cíle:</p>
+
+
+          <ul>
+          	<li>zajištění povinnosti respektovat soudní rozhodnutí (snaha o to, aby měl stěžovatel náležitou pomoc opatrovnice)</li>
+          	<li>zajištění povinnosti obezřetnosti a ochrany zájmů klientů (snaha o to, aby byly peníze stěžovatele v&nbsp;bezpečí a nedošlo k&nbsp;jejich zneužití),</li>
+          </ul>
+
+
+          <p>ale měla k&nbsp;jejich zajištění zvolit vhodnější prostředky. Ustanovení opatrovnice bez omezení svéprávnosti stěžovateli nebrání, aby se svým majetkem nakládal zcela samostatně. Pokud by to potřeboval, může využít podpory opatrovnice. Není to ale jeho povinnost.</p>
+
+
+          <p>Díky nám banka stěžovateli umožnila nakládat se všemi jeho bankovními účty. Dokonce jej pozvala k&nbsp;osobní schůzce, na které by měli společně projít současné nastavení služeb a případně provést změny podle jeho požadavků.</p>
+        title: "Muž s postižením může díky nám nakládat se svými bankovními účty "
+        id: 1970/2023/VOP
+        eso: https://eso.ochrance.cz/Nalezene/Edit/12338
   - title: Navštěvujeme zařízení
-    articles: []
+    articles:
+      - body: >
+          <p>Chráníme lidi před špatným zacházením. Proto navštěvujeme zařízení,
+          kde jsou lidé omezení na svobodě nebo závislí na poskytované péči.
+          Jedná se například o věznice, dětské domovy nebo domovy pro seniory.
+          Od roku 2018 rovněž sledujeme, jak Česká republika naplňuje práva lidí
+          s postižením podle Úmluvy OSN o právech osob se zdravotním postižením.
+          Proto navštěvujeme také zařízení, kde jsou lidé se zdravotním
+          postižením.</p>
+
+
+          <p>V&nbsp;listopadu 2023 jsme uskutečnili 3 návštěvy. Konkrétně lůžkového oddělení Národního ústavu duševního zdraví v&nbsp;Klecanech, domova pro osoby se zdravotním postižením Kovářská a dětského domova pro děti do 3 let věku Trojlístek &ndash; centrum pro děti a rodinu v&nbsp;Kamenici nad Lipou. V prosinci 2023 proběhla návštěva Dětského centra Plzeň &ndash; dětského domova pro děti do 3 let věku.</p>
+        id: ""
+        title: Už od roku 2006 jsme národním preventivním mechanismem
   - title: Zkoumali jsme
-    articles: []
+    articles:
+      - body: >
+          <p>Opakovaně se na nás obracejí lidé, kteří se potýkají
+          s&nbsp;diskriminací v&nbsp;přístupu k bydlení (například Romové, lidé
+          s&nbsp;postižením nebo rodiče malých dětí). Ve výzkumu jsme se proto
+          zaměřili na činnost organizací, které jim pomáhají najít vhodné
+          bydlení a také si ho udržet. Organizace nám popsaly jejich práci. Díky
+          tomu jsme zjistili, na jaké překážky narážejí při řešení bytové nouze
+          a také našli příklady dobré praxe.</p>
+
+
+          <p>Zjistili jsme například, že:</p>
+
+
+          <ul>
+          	<li>Organizacím se zpravidla daří zajistit lidem bydlení. Spíše však v&nbsp;bytech soukromých vlastníků, neboť proces přidělování obecních bytů je složitý. V některých obcích také chybí politická vůle podpořit činnost organizací.</li>
+          	<li>Vlastníky bytů motivuje, pokud mají díky podpoře&nbsp;organizací záruku pravidelného hrazení nájemného, slušného zacházení s&nbsp;bytem či úhrady případných škod. Také oceňují, když jim organizace pomohou s&nbsp;řešením sousedských sporů.</li>
+          	<li>Organizacím se osvědčuje zapojit do práce s&nbsp;lidmi v&nbsp;bytové nouzi pracovníky s&nbsp;podobnou zkušeností.</li>
+          	<li>Podle organizací je důležité důsledně oddělovat role správce nebo zprostředkovatele bytu a sociálního pracovníka. Předchází se tak střetu rolí, který může ohrozit vzájemnou důvěru.</li>
+          	<li>Hlavní překážku organizace spatřují v průtazích úřadu práce při vyřizování dávek. Postrádají také zákon o sociálním bydlení. &nbsp;</li>
+          </ul>
+
+
+          <p>S&nbsp;výsledky výzkumu seznámíme Ministerstvo pro místní rozvoj, Ministerstvo práce a sociálních věcí, a také organizace pomáhající lidem v&nbsp;bytové nouzi. Doufáme, že se jimi inspirují při své další práci.</p>
+        title: "Zmapovali jsme činnost organizací, které pomáhají lidem v bytové nouzi k
+          důstojnému bydlení "
+        id: 59/2022/DIS
+        eso: https://eso.ochrance.cz/Nalezene/Edit/12430
+      - body: >
+          <p>Ve výzkumu jsme zjišťovali od vedení škol a rodičů, jak se
+          poskytuje zdravotní podpora žákům během pobytu ve škole. Obrací se na
+          nás totiž rodiče dětí s cukrovkou, kteří naráží na problémy s aplikací
+          inzulinu při výuce, ale také rodiče dětí s&nbsp;jiným postižením nebo
+          nemocí.</p>
+
+
+          <p>Zjistili jsme, že přístup škol k&nbsp;poskytování zdravotní podpory je různý. Některé školy ho upravují písemnými dohodami s rodiči žáků. Většina učitelů i vedení škol se obává možných důsledků nesprávně poskytnuté zdravotní podpory. Výzkum také potvrdil námitky rodičů, že se jejich děti ve školách setkávají s problémy kvůli poskytování zdravotní podpory. Současně platí, že neposkytování zdravotní podpory dětem ve školách způsobuje problémy se školní docházkou nebo zvyšuje nároky na zapojení rodičů.</p>
+
+
+          <p>V&nbsp;návaznosti na výzkum jsme doporučili Ministerstvu školství a Ministerstvu zdravotnictví, aby:</p>
+
+
+          <ul>
+          	<li>určila, jakou zdravotní podporu může poskytovat učitel, a jakou nikoliv,</li>
+          	<li>lépe metodicky vedla školy, protože současné vedení je nejasné a neřeší všechny situace,</li>
+          	<li>systematicky zařazovala do dalšího vzdělávání pedagogických pracovníků kurzy prohlubující kompetence v&nbsp;oblasti zdravotní péče,</li>
+          	<li>cílila osvětové aktivity také na pediatry a další lékaře, neboť ti by měli poskytovat školám a školským zařízením konzultace k poskytování zdravotní podpory,</li>
+          	<li>zvážila vytvoření pozice pedagogicko-zdravotnického asistenta.</li>
+          </ul>
+
+
+          <p>Další opatření jsme potom doporučili samotným školám a jejich vedení. Ve snaze naše doporučení prosadit a zlepšit zdravotní podporu ve školách budeme pokračovat.</p>
+        title: "Náš výzkum potvrdil nejednotný přístup škol k dětem s potřebou zdravotní
+          podpory "
+        id: 63/2022/DIS
+        eso: https://eso.ochrance.cz/Nalezene/Edit/12336
+      - body: >
+          <blockquote>
+
+          <p>Děti a rodiče ve vězení mají právo na osobní i nepřímý styk. Státní orgány (např. OSPOD, Vězeňská služba) jim v&nbsp;tom musí pomáhat a zajistit co nejvhodnější podmínky.</p>
+
+          </blockquote>
+
+
+          <p>Jak se OSPOD daří zajišťovat kontakty dětí s&nbsp;rodiči ve vězení? To jsme zjišťovali ve výzkumu nejen od všech OSPOD, ale také krajských úřadů, které je metodicky vedou. Na výzkum jsme navázali setkáním na kulatém stole, kde jsme diskutovali se zástupci institucí, které se tématem zabývají. Šlo například o Ministerstvo práce a sociálních věcí, Generální ředitelství vězeňské služby a neziskové organizace, které v&nbsp;této oblasti nabízí pomoc.</p>
+
+
+          <p>Výsledkem našeho šetření a společné diskuze jsou doporučení, která by měla pomoci zlepšit praxi jak OSPOD, tak Vězeňské služby (sp. zn. <a href="https://eso.ochrance.cz/Nalezene/Edit/12302">988/2023</a>). V&nbsp;prvé řadě jsme se snažili upozornit na to, že děti nehledě na svůj věk mají právo být s&nbsp;rodičem v&nbsp;kontaktu, i když je ve vězení. OSPOD jsme doporučili například:</p>
+
+
+          <ul>
+          	<li>Věnovat větší pozornost dětem, které mají rodiče ve vězení a vyhodnocovat, zda jsou kontakty dítěte s&nbsp;rodičem ve vězení v&nbsp;zájmu dítěte.</li>
+          	<li>Podporovat kontakt s&nbsp;rodičem ve vězení, pokud je v&nbsp;zájmu dítěte.</li>
+          	<li>Využívat více pomoc neziskových organizací, které pomáhají s&nbsp;překonáním překážek souvisejících s kontaktem (například cesta do věznice, odmítavý postoj pečující osoby nebo dítěte atd.).</li>
+          	<li>Propojit více spolupráci všech subjektů pracujících s&nbsp;rodinou (sociální pracovník vězení, sociální pracovník OSPOD, sociální kurátor rodiče, případně sociální pracovník neziskové organizace).</li>
+          </ul>
+
+
+          <p>Ministerstvu práce a sociálních věcí a Generálnímu ředitelství Vězeňské služby jsme doporučili:</p>
+
+
+          <ul>
+          	<li>Vytvořit společně metodický materiál zaměřený na kontakty dětí s&nbsp;rodiči ve vězeních. Ten by měl pomoci pracovníkům ve vězení i OSPOD při práci s&nbsp;dítětem, které má rodiče ve vězení.</li>
+          	<li>Zpřístupnit OSPOD kontakty pracovníků ve vězení.</li>
+          </ul>
+        title: "Upozornili jsme na to, že děti mají právo být v kontaktu i s rodičem ve
+          vězení "
+        id: 4353/2022/VOP
+        eso: https://eso.ochrance.cz/Nalezene/Edit/12304
 ---
