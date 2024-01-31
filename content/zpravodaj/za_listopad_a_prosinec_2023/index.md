@@ -2,6 +2,7 @@
 title: za listopad a prosinec 2023
 month: 1
 year: 2024
+file: https://www.ochrance.cz/zpravodaj/za_listopad_a_prosinec_2023/zpravodaj_listopad_a_prosinec_2023.pdf
 sections:
   - title: Úvodní slovo
     articles:
