@@ -170,6 +170,14 @@ Výbor OSN vydává obecné komentáře k jednotlivým článkům Úmluvy, aby 
 
 {{< /rozbal >}}
 
+## Počty provedených návštěv zařízení
+
+<table summary="" cellpadding="0" cellspacing="0" class="obecna_varianata2"><thead><tr><th scope="col" colspan="1" rowspan="1">Rok</th><th scope="col" colspan="1" rowspan="1">2006—2017</th><th>2018</th><th>2019</th><th>2020</th><th>2021</th><th>2022</th></tr></thead><tbody><tr><td>Počet návštěv</td><td>409</td><td>27</td><td>25</td><td>19</td><td>32</td><td>36</td></tr></tbody></table>
+
+### [M﻿apa navštívených zařízení](https://www.google.com/maps/d/embed?mid=1h8Nxe-xnknSxOMrZKUyud0jmjdpsLAyt&hl=cs&ll=49.860819393211585%2C15.441935000000022&z=8)
+
+![Obrázek je screenshotem mapy s navštívenými zařízeními. ](mapka_det_2.2.24_.png)
+
 ## Proč ombudsman monitoruje Úmluvu o právech osob se zdravotním postižením?
 
 {{< youtube SqEBVMuk24I >}}
