@@ -26,7 +26,7 @@ attachments:
   - title: Formuláře žádostí o peněžitou pomoc (dole v seznamu)
     file: https://www.ochrance.cz/situace/formulare/
   - title: Tisková zpráva – 16. 11. 2023
-    file: ""
+    file: https://www.ochrance.cz/aktualne/zastupce_ombudsmana_chce_zlepsit_postaveni_obeti_trestnych_cinu_zadajicich_o_penezitou_pomoc_od_statu-_s_ministerstvem_spravedlnosti_bude_jednat_o_svych_doporucenich/
   - title: Tisková zpráva - 22. 2. 2022
     file: https://www.ochrance.cz/aktualne/ministerstvo_spravedlnosti_vyslyselo_ombudsmana-_novym_rozhodnutim_priznalo_penezitou_pomoc_muzi_ktery_pri_napadeni_prisel_o_zuby/
   - title: Tisková zpráva - 20. 12. 2022
