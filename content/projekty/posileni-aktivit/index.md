@@ -45,7 +45,7 @@ gallery:
 	<li><a href="http://www.eeagrants.org">www.eeagrants.org</a></li>
 </ul>
 
-<h2>Aktuality</h2>
+<h2>Co jsme realizovali v roce 2023 v rámci projektu</h2>
 
 <ul>
 	<li>19.12.2023 &ndash; jak vypadá Mezinárodní úmluva o právech lidí s&nbsp;postižením ve formátu pro snadné čtení se můžete podívat <a href="umluva_crpd-logo.pdf">zde</a>.</li>
@@ -55,7 +55,7 @@ gallery:
 	<li>29.11.2023 &ndash; jsme uspořádali workshop Přístupnost a bezbariérové užívání staveb, kde jsme se zaměřili na výsledky výzkumu týkající se postupů stavebních úřadů a krajských úřadů v&nbsp;této oblasti. Zde můžete zhlédnout<a href="11_29_pristupnost_a_bezbarierove_uzivani_staveb_prezentace.pdf"> prezentaci k&nbsp;workshopu</a>.</li>
 </ul>
 
-<p><img alt="11_29_01.jpg" src="11_29_01.jpg" /></p>
+<p><img alt="pristupnost_a_bezbarierove.png" src="pristupnost_a_bezbarierove.png" /></p>
 
 <ul>
 	<li>24.11.2023 &ndash; zveřejňujeme osmnáctou zprávu z&nbsp;následné návštěvy policejní cely Obvodního oddělení Mělník&nbsp;<a href="https://www.ochrance.cz/uploads-import/ESO/OOP%20M%C4%9Bln%C3%ADk%2017-2023-NZ.pdf">zde</a>&nbsp;a devatenáctou zprávu z&nbsp;následné návštěvy Domova pro seniory Uničov, s.r.o. <a href="https://www.ochrance.cz/uploads-import/ESO/NZ%202-2023%20Uni%C4%8Dov%20zpr%C3%A1va.pdf">zde</a>.</li>
@@ -67,9 +67,12 @@ gallery:
 	</li>
 </ul>
 
-<p><img alt="11_22_01.jpg" src="11_22_01.jpg" /></p>
+<p><img alt="dobra_praxe_v_zajistovani_bydleni.png" src="dobra_praxe_v_zajistovani_bydleni.png" /></p>
 
 <ul>
+	<li>
+	<p>20.11.2023 &ndash; uskutečnili jsme druhý běh třetí dětské participační skupiny, jak vše probíhalo můžete zjistit <a href="https://deti.ochrance.cz/aktualne/je_tezke_pomerovat_mezi_jednotlivymi_pravy/">zde</a>.</p>
+	</li>
 	<li>13.11.2023 &ndash; dnes jsme uspořádali 3. setkání dětské participační skupiny. Jak probíhalo, se můžete dozvědět <a href="https://deti.ochrance.cz/aktualne/muze_se_stretavat_pravo_na_soukromi_s_pravem_na_sdileni_informaci/">zde</a>.</li>
 </ul>
 
