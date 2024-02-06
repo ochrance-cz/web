@@ -9,6 +9,8 @@ title: "2024"
 
 <p><a href="https://www.ochrance.cz/uploads-import/Publikace/sborniky_stanoviska/Sbornik_Odstranovani_staveb_II.pdf">Příloha 1</a>.</p>
 
+<p><a href="https://www.ochrance.cz/letaky/ombudsman/ombudsman.pdf">Příloha 2</a>.</p>
+
 <h3>3/2024 &ndash; Informace z&nbsp;oblasti Dopravní přestupky</h3>
 
 <p><a href="https://www.ochrance.cz/info106/2024/3_2024_zadost.pdf">Žádost o informace</a>.</p>
