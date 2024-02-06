@@ -43,7 +43,7 @@ gallery:
 
 <p>The Office will forge a&nbsp;new partnership with the&nbsp;<strong><a href="https://www.nhri.no/">Norwegian National Human Rights Institution</a></strong>,&nbsp;(i.e. the&nbsp;Norwegian NHRI), which is experienced in promoting human rights approach within its activities. Employees of the&nbsp;Office will visit the&nbsp;Norwegian NHRI in order to obtain know-how and familiarise themselves with best practices and working methods of their Norwegian colleagues.</p>
 
-<h2>News</h2>
+<h2>What we implemented as part of the project in 2023</h2>
 
 <ul>
 	<li>December 19, 2023 - you can see what the International Convention on the Rights of Persons with Disabilities looks like in an easy-to-read format <a href="umluva_crpd-logo.pdf">here</a>.</li>
@@ -53,7 +53,7 @@ gallery:
 	<li>November 29, 2023 &ndash; we organized a workshop on accessibility and barrier-free use of buildings, where we focused on research results regarding the procedures of building authorities and regional authorities in this area. You can see the workshop presentation <a href="11_29_pristupnost_a_bezbarierove_uzivani_staveb_prezentace.pdf">here</a>.</li>
 </ul>
 
-<p><img alt="11_29_01.jpg" src="11_29_01.jpg" /></p>
+<p><img alt="pristupnost_a_bezbarierove.png" src="pristupnost_a_bezbarierove.png" /></p>
 
 <ul>
 	<li>November 24, 2023 &ndash; we are publishhing the eighteenth report from the follow-up visit to the police cell of the Mělník District Department <a href="https://www.ochrance.cz/uploads-import/ESO/OOP%20M%C4%9Bln%C3%ADk%2017-2023-NZ.pdf">here</a> and the nineteenth report from the follow-up visit to the Home for Seniors Uničov, s.r.o. <a href="https://www.ochrance.cz/uploads-import/ESO/NZ%202-2023%20Uni%C4%8Dov%20zpr%C3%A1va.pdf">here</a>.</li>
@@ -61,13 +61,16 @@ gallery:
 	<li>November 22, 2023 - we held a workshop Good practice in providing housing for vulnerable groups with the aim of presenting the main results of our research and discussing examples of good practice, but also the obstacles encountered by helping organizations. You can see the workshop presentation <a href="11_22_dobra_praxe_v_zajistovani_bydleni_pro_zranitelne_skupiny_prezentace.pdf">here</a>.</li>
 </ul>
 
-<p><img alt="11_22_01.jpg" src="11_22_01.jpg" /></p>
+<p><img alt="dobra_praxe_v_zajistovani_bydleni.png" src="dobra_praxe_v_zajistovani_bydleni.png" /></p>
 
 <ul>
 	<li>November 13, 2023 &ndash; today we organized the 3rd meeting of the children&#39;s participation group. You can find out how it went <a href="https://deti.ochrance.cz/aktualne/muze_se_stretavat_pravo_na_soukromi_s_pravem_na_sdileni_informaci/">here</a>.</li>
 	<li>November 13, 2023 &ndash; we publish the Report on the own-initiative investigation and recommendations in the case of contacts between children and parents in prison focused on the activities of child social and legal protection authorities (OSPOD) <a href="https://www.ochrance.cz/uploads-import/ESO/VI%204353-22-TK%20Z18%20final.pdf">here</a>. In recent years, parents in prison have increasingly complained that they are not allowed personal or indirect contact with their children. The investigation of several individual complaints about OSPOD&#39;s procedure revealed often serious errors, as well as the inconsistent practice of OSPOD supported by the absence of methodological support. The investigation was focused on children who have at least one parent in prison and who OSPOD keeps in the register of children at risk, performs preventive and counseling activities or collision guardianship. We tracked the period from January 1, 2019 to March 31, 2022.</li>
 	<li>The investigation took place in the form of an electronic questionnaire, in which all municipal authorities of municipalities with extended powers participated. The results of the questionnaire survey are part of the sociological research, which is attached to the survey report <a href="https://www.ochrance.cz/uploads-import/ESO/VI%204353-22_sociologick%C3%BD%20v%C3%BDzkum.pdf">here</a>.</li>
 	<li>At the same time, we are publishing the Report on the self-initiated investigation and recommendations of the Prison Service of the Czech Republic regarding the contact of children with imprisoned parents <a href="https://www.ochrance.cz/uploads-import/ESO/VI%20988-23-Z18%20final.pdf">here</a>. In this report, we summarize the results of an investigation into the procedure of Prison Service in ensuring contact of children with incarcerated parents. Without her cooperation, it is not possible to ensure the contacts of the imprisoned parent with the children. The conclusions and recommendations from this report can be generalized and reasonably applied to all groups of incarcerated parents &ndash; accused in custody, convicted in prison and inmates in protective detention.</li>
+	<li>
+	<p>November 11, 2023 - we held the second run of the third children&#39;s participation group, you can find out more informations <a href="https://deti.ochrance.cz/aktualne/je_tezke_pomerovat_mezi_jednotlivymi_pravy/">here</a>.</p>
+	</li>
 	<li>
 	<p>September 18, 2023 - We organized a round table with the participation of the Norwegian partner. You can read more <a href="https://www.ochrance.cz/aktualne/v_kancelari_ombudsmana_budou_o_moznem_vzniku_ceske_narodni_lidskopravni_instituce_nhri_v_pondeli_diskutovat_odbornici_na_ochranu_lidskych_prav_ze_sedmi_evropskych_statu/">here</a>.</p>
 	</li>
