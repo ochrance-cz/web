@@ -24,6 +24,10 @@ perex: >
 
 <p>&nbsp;</p>
 
+<p>Můžete se také podívat na naše <a href="https://eso.ochrance.cz/Nalezene/Edit/8788">doporučení z roku 2020</a>.</p>
+
+<p>&nbsp;</p>
+
 <p>Příští podcast chystáme na problematiku protiprávních sterilizací.</p>
 
 <p>&nbsp;</p>
