@@ -29,7 +29,12 @@ illustration:
 	<li>Implementací nástroje respektive metodiky pro řízení kybernetické bezpečnosti, který mj. usnadní spolupráci s Národním úřadem pro kybernetickou a informační bezpečnost (NÚKIBem) a evidenci bezpečnostních incidentů</li>
 </ul>
 
-<p>Na projekt bude poskytnuta finanční podpora z&nbsp;EU.</p>
+<p>Na projekt bude poskytnuta finanční podpora z&nbsp;EU v programu IROP celkem 19 312 701,- Kč vč. DPH.</p>
+
+<p>Míra finanční podpory pro způsobilé výdaje z Evropského fondu pro regionální rozvoj a státního rozpočtu:</p>
+
+<p>70% podíl EU (13 158 890,- Kč vč. DPH)<br />
+30% podíl SR (5 793 811,- Kč vč. DPH)</p>
 
 <p>Tento projekt je spolufinancován z&nbsp;prostředků Evropské unie, Evropského fondu pro regionální rozvoj prostřednictvím Integrovaného regionálního operačního programu s&nbsp;finanční spoluúčastí státu a&nbsp;Kanceláře veřejného ochránce práv.</p>
 
