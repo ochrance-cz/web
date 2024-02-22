@@ -1,7 +1,7 @@
 ---
 title: Modernizace a rozšíření bezpečnostní infrastruktury Kanceláře veřejného
   ochránce práv
-draft: false
+draft: true
 ongoing: true
 bonus: ""
 illustration:
