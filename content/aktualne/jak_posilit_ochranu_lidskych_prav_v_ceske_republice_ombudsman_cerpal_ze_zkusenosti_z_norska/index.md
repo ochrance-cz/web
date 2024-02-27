@@ -30,13 +30,11 @@ attachments:
   - title: Stručné shrnutí výstupů projektu
     file: https://www.ochrance.cz/aktualne/jak_posilit_ochranu_lidskych_prav_v_ceske_republice_ombudsman_cerpal_ze_zkusenosti_z_norska/strucne_shrnuti_vystupu_projektu_nf_lp-pdp3-001.pdf
 ---
-<p>sdd</p>
 
-<p>&nbsp;</p>
 
-<p>&nbsp;</p>
+{{< youtube "KuaxiuLHR2w" >}}
 
-<p>&nbsp;</p>
+
 
 <p>Práci na projektu Norských fondů se v&nbsp;Kanceláři ombudsmana od ledna 2020 do konce roku 2023 věnovalo průměrně jedenáct zaměstnanců, z&nbsp;nich osm na plný úvazek. Specializovali se na oblasti, jako je ochrana ohrožených dětí a jejich rodin, prosazování rovného zacházení a ochrana před diskriminací nebo prevence špatného zacházení s&nbsp;lidmi omezenými na svobodě. Součástí projektu bylo například i testování srozumitelnosti úředních textů nebo příprava odborných materiálů, jako jsou připomínky k&nbsp;návrhům právních předpisů, vyrozumění vládě nebo vyjádření pro mezinárodní organizace.</p>
 
