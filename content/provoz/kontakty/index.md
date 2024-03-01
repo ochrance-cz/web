@@ -24,21 +24,14 @@ sections:
       ### **Vedoucí sekretariátu veřejného ochránce práv a jeho zástupce**
 
 
-      **Miroslav Přidal**\
-
-      telefon: (+420) 542 542 779\
-
-      e-mail: miroslav.pridal@ochrance.cz
-
-
-      ### **Právní asistenti veřejného ochránce práv a jeho zástupce**
-
-
       **Miroslav Frýdek**\
 
       telefon: (+420) 542 542 228\
 
       e-mail: miroslav.frydek@ochrance.cz
+
+
+      ### **Právní asistenti veřejného ochránce práv a jeho zástupce**
 
 
       **Martin Studnička**                                                                                                                                       telefon: (+420) 542 542 379\
