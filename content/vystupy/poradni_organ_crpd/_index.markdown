@@ -1,6 +1,6 @@
 ---
 title: Poradní orgán CRPD
 plural: Poradní orgán CRPD
-listed: true
+listed: false
 slug: poradni-organ-crpd
 ---
