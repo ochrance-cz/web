@@ -2,7 +2,7 @@
 title: "Usnesení poradního orgánu veřejného ochránce práv pro oblast ochrany
   práv osob se zdravotním postižením "
 perex: k novele zákona o soc. službách (Poslanecká sněmovna)
-date: 2024-03-04T15:26:16.569Z
+date: 2021-04-28T14:26:16.569Z
 vystupy:
   - poradni-organ-crpd
 attachmentsTop:
