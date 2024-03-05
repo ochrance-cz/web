@@ -5,6 +5,10 @@
     <li><a href="
       {{- if (findRE "^http" $link) -}}
         {{- $link -}}
+      {{- else if (findRE "\\.docx?$" $link) -}}
+        {{- $link -}}
+      {{- else if (findRE "\\.pdf$" $link) -}}
+        {{- $link -}}
       {{- else -}}
         {{- $permalink := ($page.GetPage $link).Permalink -}}
         {{- with $permalink -}}
