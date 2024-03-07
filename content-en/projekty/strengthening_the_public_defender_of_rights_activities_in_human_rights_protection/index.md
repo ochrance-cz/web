@@ -43,6 +43,10 @@ gallery:
 
 <p>The Office will forge a&nbsp;new partnership with the&nbsp;<strong><a href="https://www.nhri.no/">Norwegian National Human Rights Institution</a></strong>,&nbsp;(i.e. the&nbsp;Norwegian NHRI), which is experienced in promoting human rights approach within its activities. Employees of the&nbsp;Office will visit the&nbsp;Norwegian NHRI in order to obtain know-how and familiarise themselves with best practices and working methods of their Norwegian colleagues.</p>
 
+<h2>2024</h2>
+
+<p>February 27, 2024 - we organized the final press conference of the project. Find more <a href="https://www.ochrance.cz/aktualne/jak_posilit_ochranu_lidskych_prav_v_ceske_republice_ombudsman_cerpal_ze_zkusenosti_z_norska/">here</a>.</p>
+
 <h2>What we implemented as part of the project in 2023</h2>
 
 <ul>
