@@ -47,6 +47,8 @@ gallery:
 
 <h2>Aktuality</h2>
 
+<p>27.2.2024 &ndash; uspořádali jsme závěrečnou tiskovou konferenci k&nbsp;projektu. Více se dozvíte <a href="https://www.ochrance.cz/aktualne/jak_posilit_ochranu_lidskych_prav_v_ceske_republice_ombudsman_cerpal_ze_zkusenosti_z_norska/">zde</a>.</p>
+
 <p>17.1.2024 &ndash; zveřejňujeme <a href="https://www.ochrance.cz/uploads-import/ESO/DIS%2072-2023-DST%20Jak%20se%20vyhnout%20diskriminaci%20na%20pracovi%C5%A1ti-final.pdf">Doporučení pro zaměstnavatele &ndash; Jak se vyhnout diskriminaci na pracovišti</a>, dále související praktickou příručku <a href="https://www.ochrance.cz/uploads-import/ESO/68-21-DIS-HB-1-final.pdf">Nejčasnější případy diskriminace a jak se jim vyhnout</a> a přinášíme rovněž poznatky z&nbsp;naplňování práva na rovné zacházení a ochrany před diskriminací za rok 2023 v&nbsp;monitorovací zprávě <a href="https://www.ochrance.cz/uploads-import/ESO/Monitorovac%C3%AD%20zpr%C3%A1va%2055-2023-final.pdf">Naplňování práva na rovné zacházení a ochrany před diskriminací</a>. &nbsp;</p>
 
 <h2>Co jsme realizovali v roce 2023 v rámci projektu</h2>
