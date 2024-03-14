@@ -18,3 +18,35 @@ title: "2024"
 <p><a href="https://www.ochrance.cz/info106/2024/3_2024_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <p><a href="https://www.ochrance.cz/info106/2024/3_2024_odpoved_priloha.pdf">Příloha</a>.</p>
+
+<h3>4/2024 &ndash; Informace z&nbsp;oblasti Vězeňství</h3>
+
+<p><a href="https://www.ochrance.cz/info106/2024/4_2024_zadost.pdf">Žádost o informace</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2024/4_2024_odpoved.odt">Odpověď na žádost</a>.</p>
+
+<p><a href="https://www.ochrance.cz/vystupy/edice-stanoviska/Sbornik_Vezenstvi.pdf">Příloha</a>.</p>
+
+<h3>7/2024 &ndash; Informace k&nbsp;žalobám ve veřejném zájmu</h3>
+
+<p><a href="https://www.ochrance.cz/info106/2024/7_2024_zadost.pdf">Žádost o informace</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2024/7_2024_odpoved.odt">Odpověď na žádost</a>.</p>
+
+<h3>8/2024 &ndash; Informace k&nbsp;výzkumu z&nbsp;oblasti Diskriminace</h3>
+
+<p><a href="https://www.ochrance.cz/info106/2024/8_2024_zadost.pdf">Žádost o informace</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2024/8_2024_odpoved.odt">Odpověď na žádost</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2024/8_2024_odpoved_priloha.docx">Příloha</a>.</p>
+
+<h3>10/2024 &ndash; Informace ke spisům z&nbsp;oblasti Vězeňství</h3>
+
+<p><a href="https://www.ochrance.cz/info106/2024/10_2024_zadost.pdf">Žádost o informace</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2024/10_2024_odpoved.odt">Odpověď na žádost</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2024/10_2024_odpoved_priloha1.pdf">Příloha 1</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2024/10_2024_odpoved_priloha2.pdf">Příloha 2</a>.</p>
