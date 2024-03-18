@@ -44,6 +44,13 @@ sections:
       telefon: (+420) 542 542 308\
 
       e-mail: petra.zdrazilova@ochrance.cz
+
+
+      **Roman Zapletal**\
+
+      telefon: (+420) 542 542 231\
+
+      e-mail: roman.zapletal@ochrance.cz
   - title: Vedoucí Kanceláře veřejného ochránce práv
     intro: |-
       **Pavel Pořízek**
