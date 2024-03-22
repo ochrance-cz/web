@@ -21,7 +21,7 @@ attachments:
     file: https://www.ochrance.cz/aktualne/poradni_organ_ombudsmana_se_letos_bude_zabyvat_predevsim_pravem_lidi_s_postizenim_na_nezavisly_zivot_a_pristupnosti_webovych_stranek_i_mobilnich_aplikaci/usneseni_poradniho_organu_-_priority_2024.pdf
   - title: Usnesení poradního orgánu k přístupnosti webových stránek a mobilních
       aplikací
-    file: https://www.ochrance.cz/aktualne/poradni_organ_ombudsmana_se_letos_bude_zabyvat_predevsim_pravem_lidi_s_postizenim_na_nezavisly_zivot_a_pristupnosti_webovych_stranek_i_mobilnich_aplikaci/usneseni_poradniho_organu_-_priority_2024.pdf
+    file: https://www.ochrance.cz/aktualne/poradni_organ_ombudsmana_se_letos_bude_zabyvat_predevsim_pravem_lidi_s_postizenim_na_nezavisly_zivot_a_pristupnosti_webovych_stranek_i_mobilnich_aplikaci/usneseni_poradniho_organu_-_pristupnost_webovych_stranek_a_mobilnich_aplikaci.pdf
 ---
 <p>Rozsáhlý <a href="https://eso.ochrance.cz/Nalezene/Edit/12618">aktuální výzkum</a> ombudsmana, při kterém lidé s různým&nbsp;postižením testovali přístupnost sídel i služeb úřadů a institucí, potvrdil, že kromě fyzických bariér bývají pro lidi s postižením problematické i webové stránky úřadů. Lidé se zrakovým či sluchovým postižením na nich často nemohou jednoduše dohledat vše potřebné. Například úřední hodiny, kontakty nebo informace o vybavení prostor indukční smyčkou či nabídce tlumočení do českého znakového jazyka. Potíže mívají také kvůli malému kontrastu mezi písmem a pozadím stránky nebo kvůli zveřejňování naskenovaných souborů, se kterými si neporadí odečítače obrazovky. Komplikované je pro ně i vyplňování některých formulářů.</p>
 
