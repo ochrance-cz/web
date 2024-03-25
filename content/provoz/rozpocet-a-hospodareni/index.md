@@ -72,6 +72,129 @@ title: Rozpočet a výsledky hospodaření
 	</tbody>
 </table>
 
+<h3>Rok 2023: Závazné ukazatele kapitoly 309 (v tis. Kč):</h3>
+
+<table width="500">
+	<thead>
+		<tr>
+			<th scope="col"><strong>Název ukazatele</strong></th>
+			<th scope="col"><strong>Rozpočet po&nbsp;změnách</strong></th>
+			<th scope="col"><strong>Skutečnost</strong></th>
+			<th scope="col"><strong>%</strong></th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+			<p>Příjmy celkem</p>
+			</td>
+			<td>7 244</td>
+			<td>8 849</td>
+			<td>122</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Výdaje celkem</p>
+			</td>
+			<td>162&nbsp;240</td>
+			<td>165&nbsp;297</td>
+			<td>
+			<p>102</p>
+			</td>
+		</tr>
+		<tr>
+			<td>Platy zaměstnanců a ostatní platby za provedenou práci</td>
+			<td>97&nbsp;389</td>
+			<td>98&nbsp;251</td>
+			<td>101</td>
+		</tr>
+		<tr>
+			<td>Povinné pojistné placené zaměstnavatelem</td>
+			<td>32 646</td>
+			<td>31 849</td>
+			<td>98</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Základní příděl fondu kulturních a sociálních potřeb</p>
+			</td>
+			<td>1 780</td>
+			<td>1 813</td>
+			<td>102</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Platy zaměstnanců v pracovním poměru vyjma zaměstnanců na&nbsp;služebních místech</p>
+			</td>
+			<td>88 595</td>
+			<td>90 105</td>
+			<td>102</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Platy zaměstnanců na služebních místech dle zákona o státní službě</p>
+			</td>
+			<td>0</td>
+			<td>0</td>
+			<td>-</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Výdaje spolufinancované zcela nebo částečně z&nbsp;rozpočtu Evropské unie bez společné zemědělské politiky celkem</p>
+			</td>
+			<td>0</td>
+			<td>0</td>
+			<td>-</td>
+		</tr>
+		<tr>
+			<td>
+			<p>v tom: ze státního rozpočtu</p>
+			</td>
+			<td>0</td>
+			<td>0</td>
+			<td>-</td>
+		</tr>
+		<tr>
+			<td>
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; podíl rozpočtu Evropské unie</p>
+			</td>
+			<td>0</td>
+			<td>0</td>
+			<td>-</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Výdaje na společné projekty, které jsou zcela nebo částečně financované z&nbsp;prostředků finančních mechanismů celkem</p>
+			</td>
+			<td>8 228</td>
+			<td>9 860</td>
+			<td>120</td>
+		</tr>
+		<tr>
+			<td>
+			<p>v tom: ze státního rozpočtu</p>
+			</td>
+			<td>1 234</td>
+			<td>1 479</td>
+			<td>120</td>
+		</tr>
+		<tr>
+			<td>
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; podíl prostředků finančních mechanismů</p>
+			</td>
+			<td>6 994</td>
+			<td>8 381</td>
+			<td>120</td>
+		</tr>
+		<tr>
+			<td>Výdaje vedené v informačním systému programového financování EDS/SMVS celkem</td>
+			<td>5 500</td>
+			<td>7 868</td>
+			<td>143</td>
+		</tr>
+	</tbody>
+</table>
+
 <h3><strong>Rok 2023: Závazné ukazatele kapitoly 309 (v tis. Kč): </strong></h3>
 
 <table border="1" cellpadding="1" cellspacing="1" width="500">
