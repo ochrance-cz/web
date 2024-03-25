@@ -3,6 +3,75 @@ title: Rozpočet a výsledky hospodaření
 ---
 <h2>Rozpočet</h2>
 
+<h3><strong>Rok 2024: Závazné ukazatele kapitoly 309 (v tis. Kč): </strong></h3>
+
+<table border="1" cellpadding="1" cellspacing="1" width="500">
+	<thead>
+		<tr>
+			<th scope="col"><strong>Název ukazatele</strong></th>
+			<th scope="col"><strong>Schválený rozpočet</strong></th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Příjmy celkem</td>
+			<td>250</td>
+		</tr>
+		<tr>
+			<td>Výdaje celkem</td>
+			<td>153 400</td>
+		</tr>
+		<tr>
+			<td>Platy zaměstnanců a ostatní platby za provedenou práci</td>
+			<td>91&nbsp;264</td>
+		</tr>
+		<tr>
+			<td>Povinné pojistné placené zaměstnavatelem</td>
+			<td>30 847</td>
+		</tr>
+		<tr>
+			<td>Převod fondu kulturních a sociálních potřeb</td>
+			<td>836</td>
+		</tr>
+		<tr>
+			<td>Platy zaměstnanců v pracovním poměru vyjma zaměstnanců na služebních místech</td>
+			<td>83 270</td>
+		</tr>
+		<tr>
+			<td>Platy zaměstnanců na služebních místech dle zákona o státní službě</td>
+			<td>0</td>
+		</tr>
+		<tr>
+			<td>Výdaje spolufinancované zcela nebo částečně z&nbsp;rozpočtu Evropské unie bez společné zemědělské politiky celkem</td>
+			<td>0</td>
+		</tr>
+		<tr>
+			<td>v tom: ze státního rozpočtu</td>
+			<td>0</td>
+		</tr>
+		<tr>
+			<td>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;podíl rozpočtu Evropské unie</td>
+			<td>0</td>
+		</tr>
+		<tr>
+			<td>Výdaje na společné projekty, které jsou zcela nebo částečně financovány z&nbsp;prostředků finančních mechanismů celkem</td>
+			<td>0</td>
+		</tr>
+		<tr>
+			<td>v tom: ze státního rozpočtu</td>
+			<td>0</td>
+		</tr>
+		<tr>
+			<td>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;podíl prostředků finančních mechanismů</td>
+			<td>0</td>
+		</tr>
+		<tr>
+			<td>Výdaje vedené v informačním systému programového financování EDS/SMVS celkem</td>
+			<td>5 500</td>
+		</tr>
+	</tbody>
+</table>
+
 <h3><strong>Rok 2023: Závazné ukazatele kapitoly 309 (v tis. Kč): </strong></h3>
 
 <table border="1" cellpadding="1" cellspacing="1" width="500">
@@ -50,7 +119,7 @@ title: Rozpočet a výsledky hospodaření
 			<td>0</td>
 		</tr>
 		<tr>
-			<td>podíl rozpočtu Evropské unie</td>
+			<td>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;podíl rozpočtu Evropské unie</td>
 			<td>0</td>
 		</tr>
 		<tr>
@@ -62,7 +131,7 @@ title: Rozpočet a výsledky hospodaření
 			<td>1 234</td>
 		</tr>
 		<tr>
-			<td>podíl prostředků finančních mechanismů</td>
+			<td>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;podíl prostředků finančních mechanismů</td>
 			<td>6 994</td>
 		</tr>
 		<tr>
