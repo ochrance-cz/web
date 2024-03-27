@@ -96,4 +96,174 @@ sections:
         id: 13007/2022/VOP
         eso: https://eso.ochrance.cz/Nalezene/Edit/11294
   - title: Pomohli jsme
+    articles:
+      - body: >
+          <p>Úřad práce nepřiznal stěžovateli podporu v nezaměstnanosti kvůli
+          tomu, že nezískal potřebnou dobu důchodového pojištění. Šetřením jsme
+          zjistili, že úřad práce pochybil tím že, vycházel pouze z údajů v
+          žádosti, ve které byly nesrovnalosti. Pokud by ověřil údaje, tak by
+          zjistil, že stěžovatel splnil podmínku pro nárok na podporu. Navrhli
+          jsme úřadu práce, aby stěžovateli dodatečně přiznal a doplatil
+          podporu. Úřad práce ani nadřízené ministerstvo nám však
+          nevyhověly.&nbsp;&nbsp;&nbsp;&nbsp;</p>
+
+
+          <p>Stěžovatel se současně obrátil se správní žalobou na Městský soud v Praze. Později ji doplnil o naše právní argumenty. Soud dal stěžovateli za pravdu, proto zrušil rozhodnutí ministerstva. To se ještě pokusilo zvrátit výsledek řízení kasační stížností, avšak neúspěšně. Stěžovatel tak po 4 letech správního a soudního řízení konečně získal neprávem odepřenou podporu. Mimo to obdržel od ministerstva náhradu nemajetkové újmy způsobené nepřiměřenou délkou řízení ve výši 52 000 Kč (tedy přibližně trojnásobku podpory).</p>
+        title: "Naše závěry pomohli stěžovateli k vítězství u soudu a k získání
+          odškodnění za nepřiměřenou délku řízení "
+        id: 5246/2019/VOP
+        eso: https://eso.ochrance.cz/Nalezene/Edit/8272
+      - body: >
+          <blockquote>
+
+          <p>Úřad práce při rozhodování o příspěvku na bydlení přihlíží k&nbsp;příjmu všech osob, které se posuzují společně. Počet těchto osob ovlivňuje také výši uznatelných nákladů na bydlení.</p>
+
+
+          <p>Dítě, které je ve&nbsp;střídavé péči rodičů, úřad práce přednostně posuzuje společně&nbsp;s rodičem, který ve&nbsp;vztahu k&nbsp;němu uplatňuje slevu na&nbsp;dani. Není-li to možné, úřad práce vychází z&nbsp;dohody rodičů. Pokud se nedohodnou, úřad práce zohlední rozsah péče o dítě stanovený v&nbsp;rozhodnutí soudu o střídavé péči.</p>
+
+          </blockquote>
+
+
+          <p>Několik rodičů, kteří mají dítě ve střídavé péči, neúspěšně požádalo úřad práce o příspěvek na bydlení. Ten jim ho nepřiznal, protože se nedohodli, se kterým z&nbsp;nich se bude dítě společně posuzovat. S&nbsp;tímto postupem jsme nesouhlasili. Namítali jsme, že úřad práce měl v&nbsp;těchto případech sám rozhodnout o tom, u kterého z rodičů k dítěti přihlédne. Úřad práce ani Ministerstvo práce a sociálních věcí se s&nbsp;námi neztotožnily. Rodičům, kteří nás v&nbsp;této věci žádali o&nbsp;pomoc, jsme proto doporučili, aby se obrátili na&nbsp;správní soud.</p>
+
+
+          <p>Nejvyšší správní soud v&nbsp;nedávném rozsudku potvrdil náš závěr. Poskytl také úřadu práce návod, kdy a za jakých podmínek se dítě, které je ve střídavé nebo společné péči rodičů, posuzuje společně s&nbsp;jedním nebo druhým rodičem (sp. zn. <a href="https://vyhledavac.nssoud.cz/DokumentOriginal/Html/715306">7 Ads 138/2022-26</a>). Ministerstvo na&nbsp;podkladě tohoto rozsudku změnilo metodickou instrukci pro&nbsp;úřady práce.</p>
+        title: Napomohli jsme ke změně výkladu při rozhodování o příspěvku na bydlení u
+          rodičů, kteří mají dítě ve střídavé péči
+      - body: >
+          <blockquote>
+
+          <p>Spoluvlastníci bytové jednotky jsou povinni plnit poplatkovou povinnost k poplatku za obecní systém odpadového hospodářství společně a nerozdílně (<a href="https://www.e-sbirka.cz/sb/1990/565#par_10p">&sect; 10p</a> zákona č. 565/1990 Sb.). Pokud jeden ze spoluvlastníků uhradí celý poplatek, nemůže již správce poplatku požadovat jeho zaplacení po dalších spoluvlastnících.</p>
+
+          </blockquote>
+
+
+          <p>Řešili jsme dotaz tří sourozenců, kteří společně zdědili byt po rodičích. Byt teď pronajímají. Ptali se, zda musí každý z&nbsp;nich za byt zaplatit poplatek za komunální odpad. V&nbsp;obci je zavedený poplatek za <a href="https://www.ochrance.cz/letaky/komunalni-odpad/komunalni-odpad.pdf">obecní systém odpadového hospodářství</a>.</p>
+
+
+          <p>Nejprve je třeba zjistit, zda má nájemce u sourozenců přihlášený trvalý pobyt. Pokud ano, platí poplatek za komunální odpad jenom on. Pokud tam nájemce ani nikdo jiný nemá přihlášený trvalý pobyt, musí zaplatit poplatek sourozenci. To, že poplatek mají zaplatit společně a nerozdílně, znamená, že například může jeden z nich uhradit celý poplatek, nebo každý zaplatí třetinu. Záleží, jak se mezi sebou domluví.</p>
+        title: "Radíme s poplatkem za komunální odpad "
+        id: 6635/2023/VOP
+        release: ""
+        eso: https://eso.ochrance.cz/Nalezene/Edit/12538
+      - body: >
+          <blockquote>
+
+          <p>Datum vzniku invalidity má zásadní význam pro posouzení podmínek nároku na invalidní důchod. Posudkový lékař musí v posudku o invaliditě přesvědčivě zdůvodnit, kdy invalidita vznikla.</p>
+
+
+          <p>Pojištěnec mladší 28 let má nárok na invalidní důchod v&nbsp;mimořádných případech, pokud je přetržka v&nbsp;době pojištění v&nbsp;období mezi jeho 18. rokem života a datem vzniku invalidity kratší než jeden rok (<a href="https://www.e-sbirka.cz/sb/1995/155/2024-01-01#par_42-odst_3">&sect; 42 odst. 3</a> zákona č. 155/1995 Sb.).</p>
+
+          </blockquote>
+
+
+          <p>Stěžovatel se na nás obrátil kvůli nízkému invalidnímu důchodu. V roce 2023 pobíral invalidní důchod pro invaliditu třetího stupně jen ve výši 5&nbsp;865 Kč. Podle lékaře byl invalidní od doby, kdy oslepl kvůli komplikacím způsobených&nbsp;cukrovkou.</p>
+
+
+          <p>Protože stěžovatel trpěl vážnými zdravotními problémy už od dětství, požádali jsme Českou správu sociálního zabezpečení o nové posouzení data vzniku invalidity a zaslali jí zdravotnickou dokumentaci stěžovatele. ČSSZ po naší žádosti nařídila mimořádnou kontrolní lékařskou prohlídku, při které posudkový lékař stanovil dřívější datum vzniku invalidity. Díky tomu stěžovatel splnil podmínky nároku na invalidní důchod v&nbsp;mimořádných případech a získal výrazně vyšší důchod.</p>
+        title: "Pomohli jsme pánovi se zrakovým postižením k vyššímu invalidnímu důchodu
+          "
+        eso: ""
+        id: 139/2023/VOP
+  - title: Radili jsme v diskriminačních věcech
+    articles:
+      - body: >
+          <blockquote>
+
+          <p>Zaměstnavatel diskriminuje uchazeče o místo firemního právníka, pokud ho odmítne jen proto, že vystudoval práva v&nbsp;zahraničí, přestože uchazeč má znalosti a&nbsp;dovednosti, které zaměstnavatel požaduje.</p>
+
+          </blockquote>
+
+
+          <p>Stěžovatelka vystudovala práva na Slovensku. Tvrdí, že čeští zaměstnavatelé, kteří hledají firemního právníka, v&nbsp;inzerátech často požadují, aby vystudoval práva v&nbsp;Česku. Stěžovatelka již několik let pracovala v&nbsp;Česku jako firemní právnička. Přesto ji nyní zaměstnavatelé odmítají jen kvůli diplomu ze Slovenska.</p>
+
+
+          <p>Zjistili jsme, že požadavek, aby právník vystudoval v&nbsp;Česku, může být diskriminační, ale ne vždy. Záleží na konkrétních potřebách a požadavcích zaměstnavatele a na tom, zda je právník splňuje. O tom nerozhoduje nutně to, ve které zemi právník vystudoval, ale jeho konkrétní znalosti, dovednosti a zkušenosti. Právník s&nbsp;diplomem ze zahraničí a letitou úspěšnou praxí v&nbsp;Česku může požadavky zaměstnavatele splnit podstatně lépe než jiný právník s&nbsp;českým diplomem. Pokud tedy zaměstnavatel odmítne uchazeče jen kvůli zahraničnímu diplomu, nejspíš ho diskriminuje.</p>
+
+
+          <p>Šlo by přitom o nepřímou diskriminaci z&nbsp;důvodu státní příslušnosti, protože neutrální podmínka studia v&nbsp;Česku dopadne převážně na cizince. To, zda je konkrétní uchazeč cizinec, nebo ne, přitom není podstatné &ndash; diskriminován by byl i Čech se zahraničním diplomem.</p>
+        title: "Posuzovali jsme, jestli je diskriminační požadovat po firemních
+          právnících, aby předložili zaměstnavateli diplom z české univerzity "
+        id: 5574/2023/VOP
+        eso: https://eso.ochrance.cz/Nalezene/Edit/12742
+      - body: >
+          <blockquote>
+
+          <p>Zrak, díky kterému může fyzioterapeut kontrolovat reakce těla pacienta, je pro výkon terapie Vojtovou metodou důležitý.</p>
+
+          </blockquote>
+
+
+          <p>Stěžovatelka se zúčastnila kurzu Vojtovy metody pro děti, který je určen pro fyzioterapeuty-profesionály. Výuka probíhá na dětských pacientech. Ředitelka zdravotnického zařízení, které kurz pořádá, ji z&nbsp;něho po dvou dnech vyloučila. Obávala se, že stěžovatelka nebude kvůli svému zrakovému postižení schopná ani při výuce správně provádět terapii Vojtovou metodou. Tím by mohla nezáměrně poškodit zdraví pacientů.</p>
+
+
+          <p>Podle našeho názoru je podstatné, aby fyzioterapeut dostatečně viděl na celé tělo pacienta. Je totiž důležité, aby ho mohl vyšetřit a také v&nbsp;průběhu terapie vnímat, jak tělo reaguje. Ředitelka a stěžovatelka se neshodly na tom, zda je zrak stěžovatelky dostatečný. Vzhledem k&nbsp;tomu, že nemáme možnost ověřit zdravotní stav stěžovatelky, nemůžeme prokázat, zda ji ředitelka diskriminovala nebo ne.</p>
+        title: "Vyloučení fyzioterapeutky se zrakovým postižením z kurzu nemusí být
+          diskriminační "
+        id: 1294/2023/VOP
+        eso: https://eso.ochrance.cz/Nalezene/Edit/12446
+      - body: >
+          <blockquote>
+
+          <p>Pokud banka neumožňuje klientům-cizincům uzavřít smlouvu o finančních službách online, protože nemůže spolehlivě ověřit jejich totožnost jinak než osobně, nejedná se o diskriminaci.</p>
+
+          </blockquote>
+
+
+          <p>Banka neumožnila stěžovatelce zřídit některé finanční produkty online, protože má polské občanství. Kvůli kontrole dokladů totožnosti musela přijít na pobočku. V tom spatřovala diskriminaci, neboť čeští občané si u banky stejné produkty mohou zřídit online.</p>
+
+
+          <p>Banka má zákonnou povinnost ověřit totožnost klienta. U českých občanů probíhá ověření v mobilní aplikaci automaticky, protože software banky porovná klientem vyfocený český doklad totožnosti s&nbsp;informacemi v&nbsp;základních registrech. U cizinců banka nemá k dispozici databázi, s&nbsp;níž by mohla doklad porovnat. Možná se tak stane v budoucnu, nicméně postup banky při ověřování totožnosti je nutné posuzovat ve světle toho, co je právně a technicky možné v tuto chvíli. Proto byl postup banky oprávněný a nešlo o diskriminaci.</p>
+        title: "Ověření totožnosti klienta-cizince může být pro banku náročnější "
+        id: 1052/2023/VOP
+  - title: Navštěvujeme zařízení
+    articles:
+      - body: >
+          <p>Chráníme lidi před špatným zacházením. Proto navštěvujeme zařízení,
+          kde jsou lidé omezení na svobodě nebo závislí na poskytované péči.
+          Jedná se například o věznice, dětské domovy nebo domovy pro seniory.
+          Od roku 2018 rovněž sledujeme, jak Česká republika naplňuje práva lidí
+          s postižením podle Úmluvy OSN o právech osob se zdravotním postižením.
+          Proto navštěvujeme také zařízení, kde jsou lidé se zdravotním
+          postižením.</p>
+
+
+          <p>V&nbsp;lednu 2024 jsme uskutečnili dvě návštěvy. A to Psychiatrické léčebny Petrohrad a policejních cel v&nbsp;Brně. V&nbsp;únoru 2024 proběhlo celkem pět návštěv. Konkrétně Zařízení pro zajištění cizinců Bělá &ndash; Jezová, policejních cel ve Znojmě a Vyškově, Dětského domova Chomutov a dále dětského centra při Fakultní Thomayerově nemocnici v&nbsp;Praze.</p>
+
+
+          <p>V&nbsp;lednu 2024 jsme také sledovali správní vyhoštění cizince ze Zařízení pro zajištění cizinců Balková do Německa.</p>
+        title: "Už od roku 2006 jsme národním preventivním mechanismem "
+  - title: Zkoumali jsme
+    articles:
+      - body: >
+          <p>V&nbsp;roce 2021 jsme vydáním <a
+          href="https://eso.ochrance.cz/Nalezene/Edit/9218">monitorovací
+          zprávy</a> začali tříletý proces systematického sledování naplňování
+          práva na rovné zacházení a dodržování zákazu diskriminace ve třech
+          oblastech:</p>
+
+
+          <ul>
+          	<li>vzdělávání Romů,</li>
+          	<li>rovné odměňování žen a mužů</li>
+          	<li>a změny právní úpravy, které by měly zajistit lepší ochranu obětí diskriminace a vymahatelnost jejich práv.</li>
+          </ul>
+
+
+          <p>Vývoj v&nbsp;těchto oblastech jsme sledovali ve <a href="https://eso.ochrance.cz/Nalezene/Edit/10620">druhé</a> a <a href="https://eso.ochrance.cz/Nalezene/Edit/11782">třetí</a> monitorovací zprávě. V&nbsp;tomto období došlo pouze k menším změnám.</p>
+
+
+          <p>Naši monitorovací činnost jsme završili <a href="https://eso.ochrance.cz/Nalezene/Edit/12504">čtvrtou</a> monitorovací zprávou. Zaměřili jsme se na vývoj v roce 2023 a shrnuli jsme závěry z&nbsp;celého monitorovacího období. Našim cílem nebylo jen sledovat změny ve vybraných oblastech, ale do procesu změn se aktivně zapojit. Proto jsme představili několik doporučení pro ministerstva a obce, jejichž splnění může vést k&nbsp;většímu naplnění práva na rovné zacházení v&nbsp;Česku.</p>
+
+
+          <p>Doporučili jsme například:</p>
+
+
+          <ul>
+          	<li>založit pracovní skupinu, která vytvoří metodické materiály pro diagnostiku a překonávání sociálního znevýhodnění dětí a žáků,</li>
+          	<li>přijmout plán desegregace a vhodně nastavit školské obvody,</li>
+          	<li>předložit novelu zákoníku práce, která stanoví, že právní jednání, kterým se zaměstnanci zaváží k mlčenlivosti o výši své mzdy, bude nicotné,</li>
+          	<li>přijmout některé úpravy procesních předpisů, které podpoří přístup obětí diskriminace ke spravedlnosti.</li>
+          </ul>
+        title: Jak vypadá ochrana před diskriminací v Česku ve vybraných oblastech?
 ---
