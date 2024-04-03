@@ -3,6 +3,9 @@ title: Zprávy pro Poslaneckou sněmovnu 2023
 date: 2023-05-22T09:15:54.866Z
 vystupy:
   - vyrocni-zprava
+attachmentsTop:
+  - file: https://www.ochrance.cz/dokument/zpravy_pro_poslaneckou_snemovnu_2023/vyrocni-zprava-2023.pdf
+    title: Výroční zpráva 2023
 ---
 <p><a href="https://www.ochrance.cz/dokument/zpravy_pro_poslaneckou_snemovnu_2023/2023-i-q.pdf">Zpráva za 1. čtvrtletí roku 2023</a></p>
 
