@@ -47,6 +47,8 @@ gallery:
 
 <p>February 27, 2024 - we organized the final press conference of the project. Find more <a href="https://www.ochrance.cz/aktualne/jak_posilit_ochranu_lidskych_prav_v_ceske_republice_ombudsman_cerpal_ze_zkusenosti_z_norska/">here</a>.</p>
 
+<p>January 17, 2024 - we publish Recommendations for employers &ndash; How to avoid discrimination in the workplace, as well as the related practical guide The earliest cases of discrimination and how to avoid them, and we also bring insights from fulfilling the right to equal treatment and protection against discrimination for the year 2023 in the monitoring report Fulfilling the right to equal treatment and protection against discrimination.</p>
+
 <h2>What we implemented as part of the project in 2023</h2>
 
 <ul>
