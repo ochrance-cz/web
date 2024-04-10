@@ -2,6 +2,7 @@
 title: Výroční zprávy o poskytování informací podle zákona č. 106/1999 Sb
 ---
 <ul>
+	<li><a href="/media/vyrocni-zprava-2023-web_poskytovani_informaci.pdf">Výroční zpráva za rok 2023</a></li>
 	<li><a href="https://www.ochrance.cz/info/vyrocni-zpravy-106/vyrocni-zprava-2022-web_poskytovani_informaci.pdf">Výroční zpráva za rok 2022</a></li>
 	<li><a href="https://www.ochrance.cz/info/vyrocni-zpravy-106/vyrocni-zprava-2021-web_poskytovani_informaci.pdf">Výroční zpráva za rok 2021</a></li>
 	<li><a href="/info/vyrocni-zpravy-106/vyrocni-zprava_2020_web_poskytovani_informaci.pdf">Výroční zpráva za rok 2020</a></li>
