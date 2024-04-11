@@ -21,7 +21,7 @@ attachments:
   - title: "Souhrnná zpráva z návštěv domovů se zvláštním režimem: sp. zn. 51/2021/NZ"
     file: https://eso.ochrance.cz/Nalezene/Edit/12776
   - title: Výběr z doporučení
-    file: https://www.ochrance.cz/aktualne/v_domovech_pro_lidi_s_dusevnim_onemocnenim_nebo_zavislosti_casto_prevladaji_provozni_potreby_zarizeni_nad_potrebami_klientu_zjistil_zastupce_ombudsmana/dzr_-_vyber_z_doporuceni.pdf
+    file: https://www.ochrance.cz/aktualne/v_domovech_pro_lidi_s_dusevnim_onemocnenim_nebo_zavislosti_casto_prevladaji_provozni_potreby_zarizeni_nad_potrebami_klientu_zjistil_zastupce_ombudsmana/dzr_-_vyber_z_doporuceni1.pdf
 ---
 <p>Právníci Kanceláře ombudsmana spolu s&nbsp;přizvanými odborníky z&nbsp;oblasti sociálních služeb, všeobecnými a psychiatrickými sestrami navštívili celkem šest domovů poskytujících služby lidem s&nbsp;duševním, zejména psychotickým onemocněním a lidem se závislostí či ohroženým závislostí na návykových látkách. Ověřovali, jak v praxi funguje poskytování služeb této specifické cílové skupině.</p>
 
@@ -39,4 +39,4 @@ attachments:
 
 <p>Souhrnnou zprávu zašle zástupce ombudsmana poskytovatelům všech domovů se zvláštním režimem zaměřených na stejnou&nbsp;cílovou skupinu i Ministerstvu práce a sociálních věcí. V&nbsp;doporučeních pro ministerstvo <a href="https://www.ochrance.cz/aktualne/svetovy_den_proti_nasili_na_seniorech_prestupek_spatneho_zachazeni_nebo_zavedeni_nezavisleho_stiznostniho_mechanismu_v_socialnich_sluzbach_mohou_pusobit_jako_prevence/">zopakoval</a> také potřebu zavedení nezávislého stížnostního mechanismu v&nbsp;sociálních službách a zakotvení přestupku špatného zacházení.</p>
 
-<p><img alt="dzr_-_vyber_z_doporuceni.png" src="https://www.ochrance.cz/aktualne/v_domovech_pro_lidi_s_dusevnim_onemocnenim_nebo_zavislosti_casto_prevladaji_provozni_potreby_zarizeni_nad_potrebami_klientu_zjistil_zastupce_ombudsmana/dzr_-_vyber_z_doporuceni.png" /></p>
+<p><img alt="dzr_-_vyber_z_doporuceni1.png" src="https://www.ochrance.cz/aktualne/v_domovech_pro_lidi_s_dusevnim_onemocnenim_nebo_zavislosti_casto_prevladaji_provozni_potreby_zarizeni_nad_potrebami_klientu_zjistil_zastupce_ombudsmana/dzr_-_vyber_z_doporuceni1.png" /></p>
