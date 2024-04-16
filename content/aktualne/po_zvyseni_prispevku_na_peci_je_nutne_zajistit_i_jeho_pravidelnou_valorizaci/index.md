@@ -7,7 +7,7 @@ perex: >
   <p>Zvýšení příspěvku na péči, které v&nbsp;pátek odsouhlasila Poslanecká
   sněmovna, se nevztahuje na nejnižší stupeň I ani nepočítá s pravidelným růstem
   příspěvků. Podle veřejného ochránce práv je valorizace s&nbsp;ohledem na
-  inflaci pro jeho příjemce nezbytná.</p>
+  inflaci pro příjemce příspěvku nezbytná.</p>
 ---
 <p><em>&bdquo;Na aktuální navýšení příspěvku na péči čekali lidé několik let. Museli se tak potýkat s&nbsp;rostoucím cenami služeb a snižováním reálné hodnoty příspěvku. Nyní se časem mohou ocitnout v&nbsp;podobné situaci. Jak dlouho je pak necháme čekat na další zvýšení? Valorizace by tento problém vyřešila. Ostatně Ministerstvo práce a sociálních věcí ji v dřívějším vládním návrhu novely koncem minulého roku navrhovalo,&ldquo;</em> uvedl ombudsman Stanislav Křeček. &nbsp;</p>
 
