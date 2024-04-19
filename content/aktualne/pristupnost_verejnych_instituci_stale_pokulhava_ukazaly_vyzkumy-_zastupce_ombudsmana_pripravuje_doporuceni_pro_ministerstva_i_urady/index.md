@@ -2,6 +2,8 @@
 title: Přístupnost veřejných institucí stále pokulhává, ukázaly výzkumy.
   Zástupce ombudsmana připravuje doporučení pro ministerstva i úřady
 date: 2024-04-19T07:23:04.312Z
+vystupy:
+  - tz
 perex: >
   <p>Dva výzkumy veřejného ochránce práv ověřovaly přístupnost veřejných budov
   <a href="https://eso.ochrance.cz/Nalezene/Edit/12290">z&nbsp;pohledu
