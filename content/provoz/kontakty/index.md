@@ -448,10 +448,6 @@ lawyers:
         role: právnička
         phone: 542 542 286
         email: adela.fredy@ochrance.cz
-      - name: Petra Galová
-        role: právnička
-        phone: 542 542 276
-        email: petra.galova@ochrance.cz
       - name: Tereza Hanelová
         role: právnička
         phone: 542 542 337
