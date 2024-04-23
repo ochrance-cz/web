@@ -49,6 +49,8 @@ gallery:
 
 <p>January 17, 2024 - we publish Recommendations for employers &ndash; How to avoid discrimination in the workplace, as well as the related practical guide The earliest cases of discrimination and how to avoid them, and we also bring insights from fulfilling the right to equal treatment and protection against discrimination for the year 2023 in the monitoring report Fulfilling the right to equal treatment and protection against discrimination.</p>
 
+<p>January 1, 2024 - we are publishing a research report&nbsp;<a href="59-2022-dis-jmk-vyzkumna_zprava_final_en.docx">Good Practice in the Provision of Housing to Vulnerable People</a>. Using research, we decided to find examples of good practice in providing housing across regions and different target groups. In this way, we want to contribute to a better awareness of what is successful and working, but also to name the shortcomings that the state should solve in the future.</p>
+
 <h2>What we implemented as part of the project in 2023</h2>
 
 <ul>
