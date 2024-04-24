@@ -49,6 +49,8 @@ perex: >
 
 <p>Pozice je vhodná i pro absolventy a absolventky.</p>
 
-<p>Jestli se k&nbsp;nám chcete připojit, napište nám do&nbsp;<strong>9. května 2024&nbsp;</strong>na&nbsp;adresu&nbsp;<a href="mailto:lzicarova@ochrance.cz"><strong>lzicarova@ochrance.cz</strong></a>. Vysvětlete, proč s&nbsp;námi chcete spolupracovat, připojte Váš životopis a návrh příspěvku na Facebook -&gt; téma: Stěžovatel přišel o část podpory z&nbsp;Úřadu práce, podklady: <a href="https://eso.ochrance.cz/Nalezene/Edit/10664">https://eso.ochrance.cz/Nalezene/Edit/10664</a>.</p>
+<p>Jestli se k&nbsp;nám chcete připojit, napište nám do&nbsp;<strong>9. května 2024&nbsp;</strong>na&nbsp;adresu&nbsp;<a href="mailto:lzicarova@ochrance.cz"><strong>lzicarova@ochrance.cz</strong></a>. Vysvětlete, proč s&nbsp;námi chcete spolupracovat a připojte Váš životopis.&nbsp;</p>
+
+<p>Můžete si také zkusit vytvořit návrh příspěvku na Facebook ombudsmana na téma Stěžovatel přišel o část podpory z&nbsp;Úřadu práce, podklady: <a href="https://eso.ochrance.cz/Nalezene/Edit/10664">https://eso.ochrance.cz/Nalezene/Edit/10664</a>. Bude fajn, když nám příspěvek pošlete, ale není podmínkou pro přihlášení se do výběrového řízení.</p>
 
 <p>Termín nástupu je 15. 7. 2024 nebo dohodou.</p>
