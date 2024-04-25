@@ -37,3 +37,5 @@ attachments:
 {{< youtube "WAnvSgqXoa0" >}}
 
 
+
+<p><img alt="vop_podnety_2023.png" src="https://www.ochrance.cz/aktualne/ombudsmanovi_se_dari_napravovat_chyby_uradu_i_prosazovat_systemove_zmeny-_praci_za_rok_2023_shrnul_ve_vyrocni_zprave/vop_podnety_2023.png" /><img alt="graf_pochybeni.png" src="https://www.ochrance.cz/aktualne/ombudsmanovi_se_dari_napravovat_chyby_uradu_i_prosazovat_systemove_zmeny-_praci_za_rok_2023_shrnul_ve_vyrocni_zprave/graf_pochybeni.png" /></p>
