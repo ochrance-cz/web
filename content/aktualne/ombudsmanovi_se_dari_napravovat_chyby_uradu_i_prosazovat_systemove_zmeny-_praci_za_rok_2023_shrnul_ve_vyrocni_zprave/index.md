@@ -15,6 +15,8 @@ perex: >
 attachments:
   - title: Výroční zpráva 2023
     file: https://www.ochrance.cz/dokument/zpravy_pro_poslaneckou_snemovnu_2023/vyrocni-zprava-2023.pdf
+  - file: https://www.ochrance.cz/aktualne/ombudsmanovi_se_dari_napravovat_chyby_uradu_i_prosazovat_systemove_zmeny-_praci_za_rok_2023_shrnul_ve_vyrocni_zprave/vz_vop_2023_prehled.pdf
+    title: Rok 2023 - shrnutí
 ---
 <p><em>&bdquo;V našich zprávách během roku většinou popisujeme právě problémové případy. Rád bych ale podtrhnul, že jednotlivá pochybení úřadů představují jen pohled na jednu stranu celku. Na té druhé je&nbsp;za loňský rok 97 % šetření, kdy úřady svá pochybení nakonec napravily. A to je optimistická statistika,&ldquo;</em> uvedl ombudsman Stanislav Křeček.</p>
 
