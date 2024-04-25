@@ -36,7 +36,7 @@ perex: >
 
 <ul>
 	<li>0,5 úvazku,</li>
-	<li>plat 15&nbsp;000 &ndash; 20&nbsp;000 Kč,</li>
+	<li>plat za 0,5 úvazku&nbsp;15&nbsp;000 &ndash; 20&nbsp;000 Kč,</li>
 	<li>smysluplnou a různorodou práci, ve které se nebudete nudit a&nbsp;stále se budete učit něco nového,</li>
 	<li>pružnou pracovní dobu,</li>
 	<li>možnost částečné práce z&nbsp;domova,</li>
