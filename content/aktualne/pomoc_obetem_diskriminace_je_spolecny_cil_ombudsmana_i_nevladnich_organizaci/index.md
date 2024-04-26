@@ -11,7 +11,7 @@ perex: >
   informace o překážkách, na které ve svém životě narážejí.</p>
 attachments:
   - title: Leták - rovné zacházení
-    file: "https://www.ochrance.cz/letaky/rovne-zachazeni/rovne-zachazeni.pdf "
+    file: https://www.ochrance.cz/letaky/rovne-zachazeni/rovne-zachazeni.pdf
 ---
 <p>Praktické poznatky nevládních organizací i dalších pomáhajících pracovníků jsou pro ombudsmana cenný zdroj informací v&nbsp;oblasti rovného zacházení. Proto uspořádal kulatý stůl, na kterém právníci jeho kanceláře představili případy z&nbsp;oblasti diskriminace i další aktivity v&nbsp;této oblasti. Účastníci kulatého stolu naopak sdíleli zkušenosti z&nbsp;terénu. Tato výměna informací pomáhá ombudsmanovi, aby lépe zacílil právní podporu a dostal ji i k&nbsp;těm nejpotřebnějším.</p>
 
