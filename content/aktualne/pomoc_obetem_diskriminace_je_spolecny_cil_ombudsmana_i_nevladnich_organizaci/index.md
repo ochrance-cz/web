@@ -28,3 +28,5 @@ attachments:
 <p>Účastníci kulatého stolu z&nbsp;řad pracovníků nevládních organizací diskutovali například o možnostech prokazování diskriminace. Především zmiňovali nedostatek důkazů o diskriminačním jednání, které se odehraje beze svědků. Stává se to třeba při jednáních na úřadech či v zaměstnání. Často si pomáhající organizace nemohou dovolit zaměstnat právníky, kteří by případy nerovného zacházení řešili. Právě v&nbsp;takových případech se nabízí spolupráce s&nbsp;ombudsmanem, kterému mohou případy svých klientů předat.</p>
 
 <p>Setkání bylo jednou z&nbsp;akcí, které ombudsman uspořádal k připomenutí letošního patnáctého výročí přijetí antidiskriminačního zákona. Navázal tím také na pravidelná setkání se zástupci nevládních organizací, která probíhala v&nbsp;minulosti. Na podzim připravuje odbornou konferenci v&nbsp;Praze, která se bude věnovat také pomoci obětem diskriminace.</p>
+
+<p><img alt="dis_postup.png" src="https://www.ochrance.cz/aktualne/pomoc_obetem_diskriminace_je_spolecny_cil_ombudsmana_i_nevladnich_organizaci/dis_postup.png" /></p>
