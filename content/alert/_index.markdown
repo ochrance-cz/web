@@ -7,8 +7,10 @@ Proč je potřeba zrušit kojenecké ústavy (tzv. „kojeňáky“)?
 
 {{< youtube "tfdIKMz-eNI" >}}
 
-
-
 Proč samotný zákaz umisťování dětí do kojeneckých ústavů nestačí?
 
 {{< youtube "YVHTGa-95YY" >}}
+
+5﻿ důvodů, proč je potřeba zrušit kojeňáky
+
+{{< youtube "SMEEJ3rSW2s" >}}
