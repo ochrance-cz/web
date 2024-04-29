@@ -1,6 +1,6 @@
 ---
-title: Government approves creation of Children's Ombudsman and National Human
-  Rights Institution (NHRI)
+title: Government approves establishment of Children's Ombudsman and National
+  Human Rights Institution (NHRI)
 date: 2024-04-11T20:18:16.676Z
 vystupy:
   - news
