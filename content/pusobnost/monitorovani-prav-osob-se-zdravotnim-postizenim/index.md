@@ -22,7 +22,7 @@ Naším cílem je posilovat přístupnost informací pro všechny bez rozdílu. 
 * **získává podněty** od lidí s postižením, organizací hájících jejich práva a od pečujících osob,
 * **zajišťuje informovanost** lidí s postižením, organizací hájící jejich práva a široké veřejnosti o činnost ombudsmana v oblasti monitorování podle Úmluvy.
 
-P﻿oradní orgán má svůj [Jednací řád](/media/jednaci_rad_poradniho_organu.doc) a [Statut](/media/statut_poradniho_organu.docx). [Výstupy ](https://www.ochrance.cz/vystupy/poradni_organ_crpd/)poradního orgánu jsou veřejné.
+P﻿oradní orgán má svůj [Jednací řád](/media/jednaci_rad_poradniho_organu.doc) a [Statut](/media/statut_poradniho_organu.docx). [Výstupy ](https://www.ochrance.cz/vystupy/poradni-organ-crpd/)poradního orgánu jsou veřejné.
 
 {{< rozbal "Členové poradního orgánu" >}}
 
