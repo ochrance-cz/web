@@ -23,6 +23,6 @@ perex: >
 
 <p>Ombudsman zítra odstartuje také seriál na Facebooku, kterým chce přiblížit případy, kdy pomohl občanům EU. Chce tím ukázat, že jeho působnost dopadá nejen na pomoc českých občanů, ale i občanů Evropské unie.</p>
 
-<p><img alt="1._dil.png" src="https://www.ochrance.cz/aktualne/zitra_je_ceska_republika_20_let_soucasti_evropske_unie-_co_dela_ombudsman_pro_obcany_eu/1._dil.png" /></p>
+<p><img alt="1._dil.png" src="https://www.ochrance.cz/aktualne/ceska_republika_20_let_soucasti_evropske_unie-_co_dela_ombudsman_pro_obcany_eu/1._dil.png" /></p>
 
 <p>&nbsp;</p>
