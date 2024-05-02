@@ -2,6 +2,8 @@
 title: "Žádost o důchod s detektivní zápletkou: šetření zavedlo ombudsmana až do
   složek StB"
 date: 2024-05-02T09:53:57.053Z
+vystupy:
+  - tz
 perex: >
   <p><strong>Šetření v&nbsp;případě českého seniora žijícího v&nbsp;USA se
   změnilo v&nbsp;pátrání po důkazech, které by České správě sociálního
