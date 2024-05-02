@@ -357,6 +357,10 @@ lawyers:
         role: právnička (správa na úseku zdravotnictví)
         phone: 542 542 333
         email: michaela.sedlackova@ochrance.cz
+      - name: Petra Dostálová
+        role: právnička (správa na úseku zdravotnictví)
+        email: petra.dostalova@ochrance.cz
+        phone: 542 542 350
   - title: Odbor rovného zacházení
     intro: >
       poskytování metodické pomoci obětem diskriminace, provádění výzkumu v
