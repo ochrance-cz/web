@@ -15,7 +15,7 @@ perex: >
   zabezpečení nepochybila, naopak se intenzivně snažila dobu mužova zaměstnání
   dohledat. Bohužel neúspěšně. Ombudsman přemýšlel, kde by mohly být ještě
   nějaké doklady o mužově zaměstnání, a proto oslovil Archiv bezpečnostních
-  složek a tam s&nbsp;hledáním důkazu uspěl.</p>
+  složek. Tam s&nbsp;hledáním důkazu uspěl.</p>
 attachments:
   - title: Zpráva o šetření
     file: https://eso.ochrance.cz/Nalezene/Edit/12492
