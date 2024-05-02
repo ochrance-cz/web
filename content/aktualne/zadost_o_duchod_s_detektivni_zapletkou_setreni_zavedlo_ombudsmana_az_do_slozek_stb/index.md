@@ -5,17 +5,17 @@ date: 2024-05-02T09:53:57.053Z
 vystupy:
   - tz
 perex: >
-  <p><strong>Šetření v&nbsp;případě českého seniora žijícího v&nbsp;USA se
-  změnilo v&nbsp;pátrání po důkazech, které by České správě sociálního
-  zabezpečení (ČSSZ) posloužily jako doklad o době zaměstnání. Při žádosti o
-  důchod muž zjistil, že ČSSZ nemá jeho evidenční list důchodového pojištění od
-  posledního zaměstnavatele. Chyběl mu tak doklad o téměř devíti letech
-  zaměstnání před jeho emigrací v roce 1984 a ČSSZ nemohla tuto dobu zohlednit
-  při výpočtu důchodu. Při prověřování případu ombudsman potvrdil, že správa
-  sociálního zabezpečení nepochybila, naopak se intenzivně snažila dobu mužova
-  zaměstnání dohledat. Bohužel neúspěšně. Ombudsman přemýšlel, kde by mohly být
-  ještě nějaké doklady o mužově zaměstnání, a proto oslovil Archiv
-  bezpečnostních složek a tam s&nbsp;hledáním důkazu uspěl. </strong></p>
+  <p>Šetření v&nbsp;případě českého seniora žijícího v&nbsp;USA se změnilo
+  v&nbsp;pátrání po důkazech, které by České správě sociálního zabezpečení
+  (ČSSZ) posloužily jako doklad o době zaměstnání. Při žádosti o důchod muž
+  zjistil, že ČSSZ nemá jeho evidenční list důchodového pojištění od posledního
+  zaměstnavatele. Chyběl mu tak doklad o téměř devíti letech zaměstnání před
+  jeho emigrací v roce 1984 a ČSSZ nemohla tuto dobu zohlednit při výpočtu
+  důchodu. Při prověřování případu ombudsman potvrdil, že správa sociálního
+  zabezpečení nepochybila, naopak se intenzivně snažila dobu mužova zaměstnání
+  dohledat. Bohužel neúspěšně. Ombudsman přemýšlel, kde by mohly být ještě
+  nějaké doklady o mužově zaměstnání, a proto oslovil Archiv bezpečnostních
+  složek a tam s&nbsp;hledáním důkazu uspěl.</p>
 attachments:
   - title: Zpráva o šetření
     file: https://eso.ochrance.cz/Nalezene/Edit/12492
