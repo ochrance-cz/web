@@ -26,12 +26,12 @@ title: Jsem občan Evropské unie
 <p>Pokud se budete chtít podívat, jakými případy s&nbsp;přesahem do&nbsp;evropského práva se ochránce v&nbsp;minulosti zabýval, můžete si přečíst <a href="/uploads-import/Publikace/sborniky_stanoviska/Sbornik_Obcanstvi_EU.pdf">Sborník stanovisek Občanství Evropské unie</a></p>
 
 <ul>
-	<li><a href="https://www.ochrance.cz/en/letaky/en-citizens-of-the-eu/EN-Citizens-of-the-EU.pdf">Citizens of the European Union</a></li>
-	<li><a href="/uploads-import/Letaky/Buerger_der_Europaeischen_Union.pdf">Bürger der Europäischen Union</a></li>
-	<li><a href="/uploads-import/Letaky/Citoyens_de_l_Union_europeenne.pdf">Citoyens de l&#39;Union européenne</a></li>
-	<li><a href="/uploads-import/Letaky/Obywatele_Unii_Europejskiej.pdf">Obywatele Unii Europejskiej</a></li>
-	<li><a href="/uploads-import/Letaky/grazhdani_na_Evropeiskija_sjuz.pdf">Граждани на Европейския съюз</a></li>
-	<li><a href="/uploads-import/Letaky/Cetateni_al_Uniunii_Europene.pdf">Cetățeni al Uniunii Europene</a></li>
+	<li><a href="https://www.ochrance.cz/info/jsem_obcan_evropske_unie/en-citizens-of-the-eu.pdf">Citizens of the European Union</a></li>
+	<li><a href="https://www.ochrance.cz/info/jsem_obcan_evropske_unie/buerger_der_europaeischen_union.pdf">Bürger der Europäischen Union</a></li>
+	<li><a href="https://www.ochrance.cz/info/jsem_obcan_evropske_unie/citoyens_de_l_union_europeenne.pdf">Citoyens de l&#39;Union européenne</a></li>
+	<li><a href="https://www.ochrance.cz/info/jsem_obcan_evropske_unie/obywatele_unii_europejskiej.pdf">Obywatele Unii Europejskiej</a></li>
+	<li><a href="https://www.ochrance.cz/info/jsem_obcan_evropske_unie/grazhdani_na_evropeiskija_sjuz.pdf">Граждани на Европейския съюз</a></li>
+	<li><a href="https://www.ochrance.cz/info/jsem_obcan_evropske_unie/cetateni_al_uniunii_europene.pdf">Cetățeni al Uniunii Europene</a></li>
 </ul>
 
 
@@ -207,10 +207,7 @@ title: Jsem občan Evropské unie
 	<li>
 	<p><strong>Vyhoštění</strong> &ndash; informace k&nbsp;opravným prostředkům v&nbsp;případech správního vyhoštění naleznete v&nbsp;části &bdquo;Opravné prostředky&ldquo;. Důvody k&nbsp;vyhoštění se liší podle toho, na&nbsp;základě jakého oprávnění pobýváte v&nbsp;České republice:</p>
 
-	<ul>
-		<li><strong>přechodný pobyt</strong> &ndash; Policie ČR vás může vyhostit, pokud ohrožujete bezpečnost státu; závažným způsobem narušujete veřejný pořádek (to neplatí, pokud pobýváte na&nbsp;území nepřetržitě po&nbsp;dobu nejméně 10&nbsp;let, přičemž se do&nbsp;této doby se nezapočítává doba výkonu trestu odnětí svobody); ohrožujete veřejné zdraví tím, že&nbsp;trpíte nemocí uvedenou v&nbsp;požadavcích opatření před zavlečením infekčního onemocnění, pokud k&nbsp;takovému onemocnění došlo do&nbsp;3&nbsp;měsíců po&nbsp;vstupu na&nbsp;území.</li>
-		<li><strong>trvalý pobyt</strong> &ndash; v&nbsp;případě oprávnění k&nbsp;trvalému pobytu Vás může Policie ČR vyhostit jen, pokud závažným způsobem ohrožujete bezpečnost státu nebo závažným způsobem narušujete veřejný pořádek a&nbsp;s&nbsp;ohledem na&nbsp;závažnost vašeho jednání nepostačuje odnětí oprávnění k&nbsp;pobytu.</li>
-	</ul>
+	<p>&lt;ul&gt; &lt;li&gt;&lt;strong&gt;přechodný pobyt&lt;/strong&gt; &amp;ndash; Policie ČR vás může vyhostit, pokud ohrožujete bezpečnost státu; závažným způsobem narušujete veřejný pořádek (to neplatí, pokud pobýváte na&amp;nbsp;území nepřetržitě po&amp;nbsp;dobu nejméně 10&amp;nbsp;let, přičemž se do&amp;nbsp;této doby se nezapočítává doba výkonu trestu odnětí svobody); ohrožujete veřejné zdraví tím, že&amp;nbsp;trpíte nemocí uvedenou v&amp;nbsp;požadavcích opatření před zavlečením infekčního onemocnění, pokud k&amp;nbsp;takovému onemocnění došlo do&amp;nbsp;3&amp;nbsp;měsíců po&amp;nbsp;vstupu na&amp;nbsp;území.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;trvalý pobyt&lt;/strong&gt; &amp;ndash; v&amp;nbsp;případě oprávnění k&amp;nbsp;trvalému pobytu Vás může Policie ČR vyhostit jen, pokud závažným způsobem ohrožujete bezpečnost státu nebo závažným způsobem narušujete veřejný pořádek a&amp;nbsp;s&amp;nbsp;ohledem na&amp;nbsp;závažnost vašeho jednání nepostačuje odnětí oprávnění k&amp;nbsp;pobytu.&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt;</p>
 	</li>
 </ul>
 
