@@ -1,527 +1,520 @@
 ---
 title: "Legal regulations "
 ---
+<h2>Act on the&nbsp;Public Defender of Rights</h2>
 
-## Act on the Public Defender of Rights
+<p>Act 349/1999 Coll. of 8th December 1999 on the&nbsp;Public Defender of Rights</p>
 
-Act 349/1999 Coll. of 8th December 1999 on the Public Defender of Rights
+<p>Amended by: 265/2001 Coll.</p>
 
-Amended by: 265/2001 Coll.
+<p>Amended by: 320/2002 Coll.</p>
 
-Amended by: 320/2002 Coll.
+<p>Amended by: 626/2004 Coll.</p>
 
-Amended by: 626/2004 Coll.
+<p>Amended by: 381/2005 Coll.</p>
 
-Amended by: 381/2005 Coll.
+<p>Amended by: 342/2006 Coll.</p>
 
-Amended by: 342/2006 Coll.
+<p>Amended by: 314/2008 Coll.</p>
 
-Amended by: 314/2008 Coll.
+<p>Amended by: 129/2008 Coll.</p>
 
-Amended by: 129/2008 Coll.
+<p>Amended by: 198/2009 Coll.</p>
 
-Amended by: 198/2009 Coll.
+<p>Amended by: 227/2009 Coll.</p>
 
-Amended by: 227/2009 Coll.
+<p>Amended by: 427/2010 Coll.</p>
 
-Amended by: 427/2010 Coll.
+<p>Amended by: 303/2011 Coll.</p>
 
-Amended by: 303/2011 Coll.
+<p>Amended by: 396/2012 Coll.</p>
 
-Amended by: 396/2012 Coll.
+<p>Amendment: 198/2017 Coll., 365/2017 Coll.</p>
 
-Amendment: 198/2017 Coll., 365/2017 Coll.
+<p>The Parliament has adopted the&nbsp;following Act of the&nbsp;Czech Republic:</p>
 
-The Parliament has adopted the following Act of the Czech Republic:
+<h3>PART ONE</h3>
 
-### PART ONE
+<h4>GENERAL</h4>
 
-#### GENERAL
+<p>Section 1</p>
 
-##### Section 1
+<p>(1) The&nbsp;Public Defender of Rights (hereinafter the&nbsp;&ldquo;Defender&rdquo;) shall work to defend persons against the&nbsp;conduct of authorities and other institutions set forth in this Act where such conduct is at variance with the&nbsp;law or does not comply with the&nbsp;principles of a&nbsp;democratic State governed by the&nbsp;rule of law and good administration, as well as against their inaction, thereby contributing to the&nbsp;defence of fundamental rights and freedoms.</p>
 
-(1) The Public Defender of Rights (hereinafter the “Defender”) shall work to defend persons against the conduct of authorities and other institutions set forth in this Act where such conduct is at variance with the law or does not comply with the principles of a democratic State governed by the rule of law and good administration, as well as against their inaction, thereby contributing to the defence of fundamental rights and freedoms.
+<p>(2) The&nbsp;competence of the&nbsp;Defender pursuant to paragraph 1&nbsp;above&nbsp;applies to ministries and other administrative authorities having competence over the&nbsp;entire territory of the&nbsp;Czech Republic, administrative authorities subject to them, the&nbsp;Czech National Bank when acting as an&nbsp;administrative authority, the&nbsp;Council for Radio and Television Broadcasting, bodies of regional and local government in the&nbsp;exercise of State administration, and unless hereafter stipulated otherwise, the&nbsp;Police of the&nbsp;Czech Republic, Army of the&nbsp;Czech Republic, Castle Guard, Prison Service of the&nbsp;Czech Republic, and also to facilities serving for remand in custody, imprisonment, protective or institutional education, protective treatment, preventive detention, as well as to public health insurance companies (hereinafter an&nbsp;&ldquo;authority&rdquo;).</p>
 
-(2) The competence of the Defender pursuant to paragraph 1 above applies to ministries and other administrative authorities having competence over the entire territory of the Czech Republic, administrative authorities subject to them, the Czech National Bank when acting as an administrative authority, the Council for Radio and Television Broadcasting, bodies of regional and local government in the exercise of State administration, and unless hereafter stipulated otherwise, the Police of the Czech Republic, Army of the Czech Republic, Castle Guard, Prison Service of the Czech Republic, and also to facilities serving for remand in custody, imprisonment, protective or institutional education, protective treatment, preventive detention, as well as to public health insurance companies (hereinafter an “authority”).
+<p>(3) The&nbsp;Defender shall systematically visit places where persons restricted in their freedom by public authority, or as a&nbsp;result of their dependence on care provided, are or may be confined, with the&nbsp;objective of strengthening the&nbsp;protection of these persons against torture, or cruel, inhuman and degrading treatment, or punishment and other forms of ill-treatment.</p>
 
-(3) The Defender shall systematically visit places where persons restricted in their freedom by public authority, or as a result of their dependence on care provided, are or may be confined, with the objective of strengthening the protection of these persons against torture, or cruel, inhuman and degrading treatment, or punishment and other forms of ill-treatment.
+<p>(4) The&nbsp;competence of the&nbsp;Defender pursuant to paragraph 3&nbsp;above applies to</p>
 
-(4) The competence of the Defender pursuant to paragraph 3 above applies to
+<p>a)&nbsp;facilities serving for remand in custody, imprisonment, protective or institutional education, or protective treatment or preventive detention;</p>
 
-a) facilities serving for remand in custody, imprisonment, protective or institutional education, or protective treatment or preventive detention;
+<p>b)&nbsp;other places where persons restricted in their freedom by public authority are or may be confined, especially police cells, facilities for the&nbsp;detention of foreigners and asylum facilities;</p>
 
-b) other places where persons restricted in their freedom by public authority are or may be confined, especially police cells, facilities for the detention of foreigners and asylum facilities;
+<p>c)&nbsp;places where persons restricted in their freedom are or may be confined as a&nbsp;result of dependence on the&nbsp;care provided, especially social services facilities and other facilities providing similar care, health-care facilities and facilities providing social and legal protection of children</p>
 
-c) places where persons restricted in their freedom are or may be confined as a result of dependence on the care provided, especially social services facilities and other facilities providing similar care, health-care facilities and facilities providing social and legal protection of children
+<p>(hereinafter a&nbsp;&ldquo;facility&rdquo;).</p>
 
-(hereinafter a “facility”).
+<p>(5) The&nbsp;Defender shall act within his or her competence in matters concerning the&nbsp;right to equal treatment and protection against discrimination.[^1]</p>
 
-(5) The Defender shall act within his or her competence in matters concerning the right to equal treatment and protection against discrimination.[^1]
+<p>(6) The&nbsp;Defender shall monitor detention of foreign nationals and the&nbsp;enforcement of administrative expulsion, transfer or transit of detained foreign nationals and of the&nbsp;punishment of expulsion imposed on foreign nationals placed in expulsion&nbsp; custody or serving prison sentences (hereinafter &ldquo;expulsion monitoring&rdquo;).</p>
 
-(6) The Defender shall monitor detention of foreign nationals and the enforcement of administrative expulsion, transfer or transit of detained foreign nationals and of the punishment of expulsion imposed on foreign nationals placed in expulsion  custody or serving prison sentences (hereinafter “expulsion monitoring”).
+<p>(7) The&nbsp;Defender shall monitor the&nbsp;implementation of the&nbsp;international treaty on the&nbsp;rights of persons with disabilities.[^6]</p>
 
-(7) The Defender shall monitor the implementation of the international treaty on the rights of persons with disabilities.[^6]
+<p>(8) The&nbsp;Defender shall perform competence in matters related to the&nbsp;freedom of movement of citizens of the&nbsp;European Union and the&nbsp;European Economic Area and their family members[^9]&nbsp;(hereinafter &ldquo;citizens of the&nbsp;European Union&rdquo;) within the&nbsp;scope pursuant to Section 21d.[^10]</p>
 
-(8) The Defender shall perform competence in matters related to the freedom of movement of citizens of the European Union and the European Economic Area and their family members[^9] (hereinafter “citizens of the European Union”) within the scope pursuant to Section 21d.[^10]
+<p>(9) The&nbsp;competence of the&nbsp;Defender does not apply to the&nbsp;Parliament, the&nbsp;President of the&nbsp;Republic and the&nbsp;Government, the&nbsp;Supreme Audit Office, the&nbsp;intelligence services of the&nbsp;Czech Republic, prosecuting bodies, public prosecutors and courts, with the&nbsp;exception of the&nbsp;public prosecutor&rsquo;s administrative bodies and the&nbsp;State administration of courts.</p>
 
-(9) The competence of the Defender does not apply to the Parliament, the President of the Republic and the Government, the Supreme Audit Office, the intelligence services of the Czech Republic, prosecuting bodies, public prosecutors and courts, with the exception of the public prosecutor’s administrative bodies and the State administration of courts.
+<p>(10) The&nbsp;Defender is authorised to initiate proceedings pursuant to the&nbsp;Act on Proceedings in Matters of Judges and Public Prosecutors[^1a]&nbsp;and participate in the&nbsp;proceedings.</p>
 
-(10) The Defender is authorised to initiate proceedings pursuant to the Act on Proceedings in Matters of Judges and Public Prosecutors[^1a] and participate in the proceedings.
+<p>(11) The&nbsp;Defender is not authorised to interfere with the&nbsp;activities and decisions made by authorities and facilities in any manner other than as stipulated in this Act.</p>
 
-(11) The Defender is not authorised to interfere with the activities and decisions made by authorities and facilities in any manner other than as stipulated in this Act.
+<p>Section 2</p>
 
-##### Section 2
+<p>(1) The&nbsp;Defender shall be elected by the&nbsp;Chamber of Deputies for a&nbsp;term of office of six years from among candidates of whom two shall be nominated by the&nbsp;President of the&nbsp;Republic and two by the&nbsp;Senate: identical proposals are admissible. The&nbsp;Defender may be elected for a&nbsp;maximum of two consecutive terms.</p>
 
-(1) The Defender shall be elected by the Chamber of Deputies for a term of office of six years from among candidates of whom two shall be nominated by the President of the Republic and two by the Senate: identical proposals are admissible. The Defender may be elected for a maximum of two consecutive terms.
+<p>(2) All those who are eligible for election to the&nbsp;Senate may be elected as the&nbsp;Defender.</p>
 
-(2) All those who are eligible for election to the Senate may be elected as the Defender.
+<p>(3) The&nbsp;seat of the&nbsp;Defender shall be in Brno.</p>
 
-(3) The seat of the Defender shall be in Brno.
+<p>(4) The&nbsp;Deputy Defender shall represent the&nbsp;Defender in full during periods of the&nbsp;Defender&rsquo;s absence. The&nbsp;Defender may delegate part of his or her competence to the&nbsp;Deputy. Unless stipulated otherwise in this Act, the&nbsp;provisions of this Act concerning the&nbsp;Defender apply analogously to the&nbsp;election, loss of office, removal from office and the&nbsp;legal status of the&nbsp;Deputy Defender.</p>
 
-(4) The Deputy Defender shall represent the Defender in full during periods of the Defender’s absence. The Defender may delegate part of his or her competence to the Deputy. Unless stipulated otherwise in this Act, the provisions of this Act concerning the Defender apply analogously to the election, loss of office, removal from office and the legal status of the Deputy Defender.
+<p>Section 3</p>
 
-##### Section 3
+<p>(1) The&nbsp;office of Defender is incompatible with the&nbsp;office of the&nbsp;President of the&nbsp;Republic, member of the&nbsp;Chamber of Deputies or the&nbsp;Senate, and judge, as well as with any role in public administration.</p>
 
-(1) The office of Defender is incompatible with the office of the President of the Republic, member of the Chamber of Deputies or the Senate, and judge, as well as with any role in public administration.
+<p>(2) The&nbsp;discharge of the&nbsp;office of Defender is incompatible with other profit-making activities, with the&nbsp;exception of management of the&nbsp;Defender&rsquo;s private property and activities of a&nbsp;scientific, educational, columnist, literary or artistic nature, so long as this is not to the&nbsp;detriment of the&nbsp;discharge of the&nbsp;Defender&rsquo;s office and its dignity, and does not jeopardise the&nbsp;trust in the&nbsp;independence and impartiality in the&nbsp;discharge thereof.</p>
 
-(2) The discharge of the office of Defender is incompatible with other profit-making activities, with the exception of management of the Defender’s private property and activities of a scientific, educational, columnist, literary or artistic nature, so long as this is not to the detriment of the discharge of the Defender’s office and its dignity, and does not jeopardise the trust in the independence and impartiality in the discharge thereof.
+<p>(3) The&nbsp;Defender may not be a&nbsp;member of any&nbsp;political party or political movement.</p>
 
-(3) The Defender may not be a member of any political party or political movement.
+<p>(4) If subject to compulsory military conscription, the&nbsp;Defender shall not be called up for active service or the&nbsp;active service will be suspended during the&nbsp;term of his or her office; military exercise periods thus missed shall be waived.</p>
 
-(4) If subject to compulsory military conscription, the Defender shall not be called up for active service or the active service will be suspended during the term of his or her office; military exercise periods thus missed shall be waived.
+<p>Section 4</p>
 
-##### Section 4 
+<p>(1) The&nbsp;Defender shall assume the&nbsp;office by taking an&nbsp;oath before the&nbsp;Speaker of the&nbsp;Chamber of Deputies, but not before the&nbsp;date following the&nbsp;date of expiry of the&nbsp;term in office of the&nbsp;previous Defender; the&nbsp;former Defender shall exercise the&nbsp;competence of the&nbsp;Defender until the&nbsp;new Defender takes the&nbsp;oath.</p>
 
-(1) The Defender shall assume the office by taking an oath before the Speaker of the Chamber of Deputies, but not before the date following the date of expiry of the term in office of the previous Defender; the former Defender shall exercise the competence of the Defender until the new Defender takes the oath.
+<p>(2) The&nbsp;Defender&rsquo;s oath shall have the&nbsp;following wording: &ldquo;I promise on my honour and conscience that I will discharge my office independently and impartially, in accordance with the&nbsp;Constitution and other laws, and that I will protect the&nbsp;inviolability of rights.&rdquo;</p>
 
-(2) The Defender’s oath shall have the following wording: “I promise on my honour and conscience that I will discharge my office independently and impartially, in accordance with the Constitution and other laws, and that I will protect the inviolability of rights.”
+<p>(3) If the&nbsp;Defender fails to take the&nbsp;oath within 10&nbsp;days of election or if the&nbsp;Defender takes the&nbsp;oath with a&nbsp;reservation, he or she shall be deemed not to have been elected.</p>
 
-(3) If the Defender fails to take the oath within 10 days of election or if the Defender takes the oath with a reservation, he or she shall be deemed not to have been elected.
+<p>Section 5</p>
 
-##### Section 5
+<p>(1) The&nbsp;Defender shall discharge his or her office independently and impartially.</p>
 
-(1) The Defender shall discharge his or her office independently and impartially.
+<p>(2) The&nbsp;Defender is accountable to the&nbsp;Chamber of Deputies.</p>
 
-(2) The Defender is accountable to the Chamber of Deputies.
+<p>Section 6</p>
 
-##### Section 6 
+<p>(1) The&nbsp;Defender&rsquo;s office terminates as of the&nbsp;date following the&nbsp;date when</p>
 
-(1) The Defender’s office terminates as of the date following the date when
+<p>a)&nbsp;his or her term in office expired;</p>
 
-a) his or her term in office expired;
+<p>b)&nbsp;a&nbsp;court judgment came into legal force whereby the&nbsp;Defender was convicted of a&nbsp;criminal offence;</p>
 
-b) a court judgment came into legal force whereby the Defender was convicted of a criminal offence;
+<p>c)&nbsp;the&nbsp;Defender ceased to be eligible for election to the&nbsp;Senate;</p>
 
-c) the Defender ceased to be eligible for election to the Senate;
+<p>d)&nbsp;the&nbsp;Defender assumed an&nbsp;office set forth in Section 3&nbsp;(1) or a&nbsp;role in public administration; or</p>
 
-d) the Defender assumed an office set forth in Section 3 (1) or a role in public administration; or
+<p>e)&nbsp;the&nbsp;Defender&rsquo;s written declaration of resignation from the&nbsp;office was delivered to the&nbsp;Speaker of the&nbsp;Chamber of Deputies.</p>
 
-e) the Defender’s written declaration of resignation from the office was delivered to the Speaker of the Chamber of Deputies.
+<p>(2) The&nbsp;loss of the&nbsp;office on the&nbsp;grounds set forth in paragraph 1&nbsp;above shall be announced by the&nbsp;Speaker of the&nbsp;Chamber of Deputies, who shall inform the&nbsp;person who has lost the&nbsp;office of Defender of this fact in writing.</p>
 
-(2) The loss of the office on the grounds set forth in paragraph 1 above shall be announced by the Speaker of the Chamber of Deputies, who shall inform the person who has lost the office of Defender of this fact in writing.
+<p>(3) If the&nbsp;Defender carries out an&nbsp;activity which, pursuant to Section 3&nbsp;(2), is incompatible with the&nbsp;discharge of the&nbsp;office, or if the&nbsp;Defender is a&nbsp;member of a&nbsp;political party or political movement, the&nbsp;Chamber of Deputies shall remove him or her from the&nbsp;office of Defender and inform the&nbsp;Defender in writing accordingly; the&nbsp;removal shall take effect as of the&nbsp;date of delivery of the&nbsp;written notification.</p>
 
-(3) If the Defender carries out an activity which, pursuant to Section 3 (2), is incompatible with the discharge of the office, or if the Defender is a member of a political party or political movement, the Chamber of Deputies shall remove him or her from the office of Defender and inform the Defender in writing accordingly; the removal shall take effect as of the date of delivery of the written notification.
+<p>(4) The&nbsp;Speaker of the&nbsp;Chamber of Deputies shall inform the&nbsp;Senate, the&nbsp;President of the&nbsp;Republic and the&nbsp;public of the&nbsp;removal from office; the&nbsp;Speaker of the&nbsp;Chamber of Deputies shall also inform the&nbsp;Chamber of Deputies of the&nbsp;loss of office.</p>
 
-(4) The Speaker of the Chamber of Deputies shall inform the Senate, the President of the Republic and the public of the removal from office; the Speaker of the Chamber of Deputies shall also inform the Chamber of Deputies of the loss of office.
+<p>(5) The&nbsp;election of the&nbsp;Defender shall take place within a&nbsp;period commencing on the&nbsp;sixtieth day before expiry of the&nbsp;Defender&rsquo;s term in office and ending on the&nbsp;date of expiry.</p>
 
-(5) The election of the Defender shall take place within a period commencing on the sixtieth day before expiry of the Defender’s term in office and ending on the date of expiry.
+<p>(6) If the&nbsp;Defender&rsquo;s office becomes vacant before termination of his or her term in office, the&nbsp;election of the&nbsp;Defender shall take place within 60&nbsp;days.</p>
 
-(6) If the Defender’s office becomes vacant before termination of his or her term in office, the election of the Defender shall take place within 60 days.
+<p>(7) If the&nbsp;Defender is not elected within the&nbsp;period pursuant to paragraph 5&nbsp;or 6&nbsp;above, a&nbsp;new election shall take place within 60&nbsp;days.</p>
 
-(7) If the Defender is not elected within the period pursuant to paragraph 5 or 6 above, a new election shall take place within 60 days.
+<p>Section 7</p>
 
-##### Section 7
+<p>(1) The&nbsp;Defender may not be criminally prosecuted without the&nbsp;consent of the&nbsp;Chamber of Deputies. If the&nbsp;Chamber of Deputies denies consent, criminal prosecution of the&nbsp;Defender shall be impossible during the&nbsp;term of exercise of the&nbsp;Defender&rsquo;s competence.</p>
 
-(1) The Defender may not be criminally prosecuted without the consent of the Chamber of Deputies. If the Chamber of Deputies denies consent, criminal prosecution of the Defender shall be impossible during the term of exercise of the Defender’s competence.
+<p>(2) The&nbsp;Defender shall maintain confidentiality of facts that he or she learns during the&nbsp;discharge of the&nbsp;office, also after the&nbsp;termination of the&nbsp;office, unless the&nbsp;law stipulates otherwise; the&nbsp;same duty shall also be borne by employees of the&nbsp;Office of the&nbsp;Public Defender of Rights (hereinafter the&nbsp;&ldquo;Office&rdquo;) (Section 25).</p>
 
-(2) The Defender shall maintain confidentiality of facts that he or she learns during the discharge of the office, also after the termination of the office, unless the law stipulates otherwise; the same duty shall also be borne by employees of the Office of the Public Defender of Rights (hereinafter the “Office”) (Section 25).
+<p>(3) The&nbsp;Speaker of the&nbsp;Chamber of Deputies may release the&nbsp;Defender and the&nbsp;employees of the&nbsp;Office from the&nbsp;duty to maintain confidentiality under paragraph 2&nbsp;above for serious reasons.</p>
 
-(3) The Speaker of the Chamber of Deputies may release the Defender and the employees of the Office from the duty to maintain confidentiality under paragraph 2 above for serious reasons.
+<p>(4) Governmental bodies, including the&nbsp;prosecuting bodies, may inspect the&nbsp;Defender&rsquo;s files or remove such files only on the&nbsp;basis of a&nbsp;law and with the&nbsp;consent of the&nbsp;Defender or, if the&nbsp;Defender denies consent, with the&nbsp;consent of the&nbsp;Speaker of the&nbsp;Chamber of Deputies.</p>
 
-(4) Governmental bodies, including the prosecuting bodies, may inspect the Defender’s files or remove such files only on the basis of a law and with the consent of the Defender or, if the Defender denies consent, with the consent of the Speaker of the Chamber of Deputies.
+<p>Section 8</p>
 
-##### Section 8
+<p>(1) The&nbsp;office of the&nbsp;Defender is a&nbsp;public office.</p>
 
-(1) The office of the Defender is a public office.
+<p>(2) The&nbsp;Defender is entitled to a&nbsp;pay, severance pay, reimbursement of expenses and benefits in kind equal to that of the&nbsp;President of the&nbsp;Supreme Audit Office. The&nbsp;Deputy Defender is entitled to a&nbsp;pay, severance pay, reimbursement of expenses and benefits in kind equal to that of the&nbsp;Vice-President of the&nbsp;Supreme Audit Office.</p>
 
-(2) The Defender is entitled to a pay, severance pay, reimbursement of expenses and benefits in kind equal to that of the President of the Supreme Audit Office. The Deputy Defender is entitled to a pay, severance pay, reimbursement of expenses and benefits in kind equal to that of the Vice-President of the Supreme Audit Office.
+<h3>PART TWO</h3>
 
-### PART TWO
+<h4>ACTIVITIES OF THE&nbsp;DEFENDER</h4>
 
-#### ACTIVITIES OF THE DEFENDER
+<p>Section 9</p>
 
-##### Section 9
+<p>The Defender shall act</p>
 
-The Defender shall act
+<p>a)&nbsp;on the&nbsp;basis of a&nbsp;complaint lodged by a&nbsp;natural or legal person (hereinafter a&nbsp;&ldquo;complaint&rdquo;) addressed to him or her;</p>
 
-a) on the basis of a complaint lodged by a natural or legal person (hereinafter a “complaint”) addressed to him or her;
+<p>b)&nbsp;on the&nbsp;basis of a&nbsp;complaint addressed to a&nbsp;member of the&nbsp;Chamber of Deputies or the&nbsp;Senate, who has passed the&nbsp;said complaint on to the&nbsp;Defender;</p>
 
-b) on the basis of a complaint addressed to a member of the Chamber of Deputies or the Senate, who has passed the said complaint on to the Defender;
+<p>c)&nbsp;on the&nbsp;basis of a&nbsp;complaint addressed either to the&nbsp;Chamber of Deputies or the&nbsp;Senate, which has been passed to the&nbsp;Defender; or</p>
 
-c) on the basis of a complaint addressed either to the Chamber of Deputies or the Senate, which has been passed to the Defender; or
+<p>d)&nbsp;on his or her own initiative.</p>
 
-d) on his or her own initiative.
+<p>Section 10</p>
 
-##### Section 10
+<p>(1) Everyone has the&nbsp;right to address the&nbsp;Defender with a&nbsp;written complaint in matters that fall under the&nbsp;Defender&rsquo;s competence (pursuant to Section 1&nbsp;(1) and (2)); such a&nbsp;complaint may also be made orally into a&nbsp;record.</p>
 
-(1) Everyone has the right to address the Defender with a written complaint in matters that fall under the Defender’s competence (pursuant to Section 1 (1) and (2)); such a complaint may also be made orally into a record.
+<p>(2) A&nbsp;complaint may not be subject to official inspection.</p>
 
-(2) A complaint may not be subject to official inspection.
+<p>(3) A&nbsp;complaint is not subject to a&nbsp;fee.</p>
 
-(3) A complaint is not subject to a fee.
+<p>Section 11</p>
 
-##### Section 11 
+<p>(1)&nbsp;A complaint must contain</p>
 
-(1) A complaint must contain
+<p>a)&nbsp;a&nbsp;description of the&nbsp;material facts of the&nbsp;case (Section 10&nbsp;(1)), including information as to whether the&nbsp;case has also been submitted to some other governmental body and, if relevant, the&nbsp;outcome;</p>
 
-a) a description of the material facts of the case (Section 10 (1)), including information as to whether the case has also been submitted to some other governmental body and, if relevant, the outcome;
+<p>b)&nbsp;the&nbsp;designation of the&nbsp;authority and, where appropriate, the&nbsp;name and surname or other information as to the&nbsp;identity of the&nbsp;person to whom the&nbsp;complaint pertains;</p>
 
-b) the designation of the authority and, where appropriate, the name and surname or other information as to the identity of the person to whom the complaint pertains;
+<p>c)&nbsp;a proof that the&nbsp;authority to which the&nbsp;complaint pertains has been unsuccessfully invited to ensure remedy;</p>
 
-c) a proof that the authority to which the complaint pertains has been unsuccessfully invited to ensure remedy;
+<p>d)&nbsp;the&nbsp;name, surname and domicile (or, for a&nbsp;legal person, the&nbsp;name, seat/registered office and persons authorised to act on its behalf) of the&nbsp;party lodging the&nbsp;complaint (hereinafter the&nbsp;&ldquo;complainant&rdquo;).</p>
 
-d) the name, surname and domicile (or, for a legal person, the name, seat/registered office and persons authorised to act on its behalf) of the party lodging the complaint (hereinafter the “complainant”).
+<p>(2) Where a&nbsp;complaint concerns a&nbsp;decision, the&nbsp;complainant shall submit a&nbsp;copy of the&nbsp;decision.</p>
 
-(2) Where a complaint concerns a decision, the complainant shall submit a copy of the decision.
+<p>Section 12</p>
 
-##### Section 12
+<p>(1) The&nbsp;Defender shall set a&nbsp;complaint aside if the&nbsp;case in question does not fall within the&nbsp;Defender&rsquo;s competence or does not concern the&nbsp;party lodging the&nbsp;complaint.</p>
 
-(1) The Defender shall set a complaint aside if the case in question does not fall within the Defender’s competence or does not concern the party lodging the complaint.
+<p>(2) The&nbsp;Defender may set a&nbsp;complaint aside if</p>
 
-(2) The Defender may set a complaint aside if
+<p>a)&nbsp;the&nbsp;requisites under Section 11&nbsp;have not been supplemented within the&nbsp;set deadline;</p>
 
-a) the requisites under Section 11 have not been supplemented within the set deadline;
+<p>b)&nbsp;it is manifestly unfounded;</p>
 
-b) it is manifestly unfounded;
+<p>c)&nbsp;on the&nbsp;date of delivery of the&nbsp;complaint, more than one year has elapsed from the&nbsp;legal force of the&nbsp;decision or from the&nbsp;measure or event to which the&nbsp;complaint pertains;</p>
 
-c) on the date of delivery of the complaint, more than one year has elapsed from the legal force of the decision or from the measure or event to which the complaint pertains;
+<p>d)&nbsp;the&nbsp;case to which the&nbsp;complaint pertains is subject to pending court proceedings or has already been decided by a&nbsp;court; or</p>
 
-d) the case to which the complaint pertains is subject to pending court proceedings or has already been decided by a court; or
+<p>e)&nbsp;if the&nbsp;complaint is filed in a&nbsp;case that has already been inquired into by the&nbsp;Defender (Sections 17&nbsp;and 18) and the&nbsp;new complaint does not reveal any new facts.</p>
 
-e) if the complaint is filed in a case that has already been inquired into by the Defender (Sections 17 and 18) and the new complaint does not reveal any new facts.
+<p>(3) The&nbsp;Defender shall advise the&nbsp;complainant in writing that the&nbsp;complaint has been set aside and state the&nbsp;reasons.</p>
 
-(3) The Defender shall advise the complainant in writing that the complaint has been set aside and state the reasons.
+<p>Section 13</p>
 
-##### Section 13
+<p>Where, in view of its content, a&nbsp;complaint represents a&nbsp;remedy pursuant to regulations on proceedings in administrative or judicial matters, a&nbsp;lawsuit or remedy in administrative justice, or a&nbsp;constitutional complaint, the&nbsp;Defender shall inform the&nbsp;complainant accordingly without delay and provide instructions to the&nbsp;complainant as to the&nbsp;correct procedure.</p>
 
-Where, in view of its content, a complaint represents a remedy pursuant to regulations on proceedings in administrative or judicial matters, a lawsuit or remedy in administrative justice, or a constitutional complaint, the Defender shall inform the complainant accordingly without delay and provide instructions to the complainant as to the correct procedure.
+<p>Section 14</p>
 
-##### Section 14
+<p>If the&nbsp;Defender does not set the&nbsp;complaint aside (Section&nbsp;12) or does not proceed according to Section&nbsp;13, the&nbsp;Defender shall initiate an&nbsp;inquiry and the&nbsp;complainant shall be informed in writing accordingly.</p>
 
-If the Defender does not set the complaint aside (Section 12) or does not proceed according to Section 13, the Defender shall initiate an inquiry and the complainant shall be informed in writing accordingly.
+<p>Section 15</p>
 
-##### Section 15
+<p>(1) The&nbsp;Defender is authorised, with the&nbsp;the&nbsp;heads of the&nbsp;authorities concerned having been made aware, to enter all the&nbsp;authorities&rsquo; premises even without prior notice in order to carry out an&nbsp;inquiry involving</p>
 
-(1) The Defender is authorised, with the the heads of the authorities concerned having been made aware, to enter all the authorities’ premises even without prior notice in order to carry out an inquiry involving
+<p>a)&nbsp;inspection of files;</p>
 
-a) inspection of files;
+<p>b)&nbsp;interviewing the&nbsp;authorities&rsquo; employees;</p>
 
-b) interviewing the authorities’ employees;
+<p>c)&nbsp;interviewing persons placed in the&nbsp;facilities, also without the&nbsp;presence of other parties.</p>
 
-c) interviewing persons placed in the facilities, also without the presence of other parties.
+<p>(2) At the&nbsp;Defender&rsquo;s request, the&nbsp;authorities shall carry out the&nbsp;following within the&nbsp;deadline set by the&nbsp;Defender:</p>
 
-(2) At the Defender’s request, the authorities shall carry out the following within the deadline set by the Defender:
+<p>a)&nbsp;provide information and explanations;</p>
 
-a) provide information and explanations;
+<p>b)&nbsp;submit files and other written materials;</p>
 
-b) submit files and other written materials;
+<p>c)&nbsp;provide their statement in writing as to the&nbsp;facts of the&nbsp;case and legal issues;</p>
 
-c) provide their statement in writing as to the facts of the case and legal issues;
+<p>d)&nbsp;take evidence adduced by the&nbsp;Defender;</p>
 
-d) take evidence adduced by the Defender;
+<p>e)&nbsp;perform such supervisory actions to which they are authorised by law and which the&nbsp;Defender suggests.</p>
 
-e) perform such supervisory actions to which they are authorised by law and which the Defender suggests.
+<p>(3) The&nbsp;Defender is authorised to be present at oral hearings and during the&nbsp;process of taking of evidence by the&nbsp;authorities and to give questions to the&nbsp;persons present.</p>
 
-(3) The Defender is authorised to be present at oral hearings and during the process of taking of evidence by the authorities and to give questions to the persons present.
+<p>(4) For the&nbsp;purposes of inquiry pursuant to the&nbsp;previous paragraphs, a&nbsp;person authorised to this effect pursuant to a&nbsp;special law shall release individual employees of an&nbsp;authority, at the&nbsp;Defender&rsquo;s request, from the&nbsp;duty to maintain confidentiality that has been imposed on them by a&nbsp;special law. Where no special law identifies the&nbsp;person authorised to release the&nbsp;above from the&nbsp;duty to maintain confidentiality, for the&nbsp;purposes hereof the&nbsp;head of the&nbsp;relevant authority shall be deemed to be such a&nbsp;person with respect to any&nbsp;employee of that authority, the&nbsp;head of the&nbsp;superior authority, or if there is no such authority, the&nbsp;Prime Minister, shall be deemed such with respect to the&nbsp;head of a&nbsp;subordinate&nbsp;authority. For the&nbsp;purposes of an&nbsp;inquiry under this Act, the&nbsp;Defender cannot be required to comply with a&nbsp;confidentiality obligation based on a&nbsp;contract.</p>
 
-(4) For the purposes of inquiry pursuant to the previous paragraphs, a person authorised to this effect pursuant to a special law shall release individual employees of an authority, at the Defender’s request, from the duty to maintain confidentiality that has been imposed on them by a special law. Where no special law identifies the person authorised to release the above from the duty to maintain confidentiality, for the purposes hereof the head of the relevant authority shall be deemed to be such a person with respect to any employee of that authority, the head of the superior authority, or if there is no such authority, the Prime Minister, shall be deemed such with respect to the head of a subordinate authority. For the purposes of an inquiry under this Act, the Defender cannot be required to comply with a confidentiality obligation based on a contract.
+<p>Section 16</p>
 
-##### Section 16 
+<p>All governmental bodies and persons exercising public administration are obliged, within the&nbsp;scope of their competence, to provide any assistance requested by the&nbsp;Defender in the&nbsp;performance of the&nbsp;Defender&rsquo;s inquiry.</p>
 
-All governmental bodies and persons exercising public administration are obliged, within the scope of their competence, to provide any assistance requested by the Defender in the performance of the Defender’s inquiry.
+<p>Section 16a</p>
 
-##### Section 16a
+<p>(1) For the&nbsp;performance of the&nbsp;Defender&rsquo;s duties pursuant to this Act, the&nbsp;Ministry of the&nbsp;Interior or the&nbsp;Police of the&nbsp;Czech Republic shall provide the&nbsp;Defender with the&nbsp;following:</p>
 
-(1) For the performance of the Defender’s duties pursuant to this Act, the Ministry of the Interior or the Police of the Czech Republic shall provide the Defender with the following:
+<p>a) reference data from the&nbsp;basic register of inhabitants;</p>
 
-a) reference data from the basic register of inhabitants;
+<p>b) data from the&nbsp;agenda information system for the&nbsp;population records;</p>
 
-b) data from the agenda information system for the population records;
+<p>c) data from the&nbsp;agenda information system for foreign nationals;</p>
 
-c) data from the agenda information system for foreign nationals;
+<p>d) data from the&nbsp;register of birth identification numbers of persons who were assigned a&nbsp;birth identification number but do not have a&nbsp;record in any of the&nbsp;information systems listed under subparagraphs b) and c).</p>
 
-d) data from the register of birth identification numbers of persons who were assigned a birth identification number but do not have a record in any of the information systems listed under subparagraphs b) and c).
+<p>(2) The&nbsp;data provided pursuant to paragraph 1&nbsp;(a) shall include:</p>
 
-(2) The data provided pursuant to paragraph 1 (a) shall include:
+<p>a) surname;</p>
 
-a) surname;
+<p>b) name(s);</p>
 
-b) name(s);
+<p>c) residence address;</p>
 
-c) residence address;
+<p>d) date, place and district of birth, or date, place and country of birth for data subjects born abroad;</p>
 
-d) date, place and district of birth, or date, place and country of birth for data subjects born abroad;
+<p>e) date, place and district of death, or date of death, place and country where the&nbsp;data subject died if the&nbsp;latter died outside the&nbsp;Czech Republic; in case of a&nbsp;court decision on declaring a&nbsp;person dead, the&nbsp;date given in the&nbsp;decision as the&nbsp;date of death or the&nbsp;date which the&nbsp;data subject who is being declared dead did not survive, and the&nbsp;date of legal force of this decision;</p>
 
-e) date, place and district of death, or date of death, place and country where the data subject died if the latter died outside the Czech Republic; in case of a court decision on declaring a person dead, the date given in the decision as the date of death or the date which the data subject who is being declared dead did not survive, and the date of legal force of this decision;
+<p>f) citizenship(s).</p>
 
-f) citizenship(s).
+<p>(3) The&nbsp;data provided pursuant to paragraph 1&nbsp;(b) shall include:</p>
 
-(3) The data provided pursuant to paragraph 1 (b) shall include:
+<p>a)&nbsp;name(s), surname and, where applicable, a&nbsp;change thereof, and surname at birth;</p>
 
-a) name(s), surname and, where applicable, a change thereof, and surname at birth;
+<p>b)&nbsp;date of birth;</p>
 
-b) date of birth;
+<p>c) place and district of birth, or place and country of birth in case of citizens born abroad;</p>
 
-c) place and district of birth, or place and country of birth in case of citizens born abroad;
+<p>d) birth identification number;</p>
 
-d) birth identification number;
+<p>e) citizenship;</p>
 
-e) citizenship;
+<p>f) address of the&nbsp;permanent residence, including all previous addresses of permanent residence;</p>
 
-f) address of the permanent residence, including all previous addresses of permanent residence;
+<p>g) the&nbsp;date of commencement of permanent residence, or the&nbsp;date of cancellation of the&nbsp;record on the&nbsp;place of permanent residence or the&nbsp;date of termination of permanent residence in the&nbsp;Czech Republic;</p>
 
-g) the date of commencement of permanent residence, or the date of cancellation of the record on the place of permanent residence or the date of termination of permanent residence in the Czech Republic;
+<p>h) incapacitation or limitation of legal capacity;</p>
 
-h) incapacitation or limitation of legal capacity;
+<p>i) marital status, date and place of marriage;</p>
 
-i) marital status, date and place of marriage;
+<p>j) date, place and district of death, and if the&nbsp;person died outside the&nbsp;territory of the&nbsp;Czech Republic, the&nbsp;country in which the&nbsp;death occurred, and the&nbsp;date of death, where applicable;</p>
 
-j) date, place and district of death, and if the person died outside the territory of the Czech Republic, the country in which the death occurred, and the date of death, where applicable;
+<p>k) date which was specified as the&nbsp;date of death in a&nbsp;court decision on declaring the&nbsp;person dead or the&nbsp;date which the&nbsp;citizen who is declared dead did not survive.</p>
 
-k) date which was specified as the date of death in a court decision on declaring the person dead or the date which the citizen who is declared dead did not survive.
+<p>(4) The&nbsp;data provided pursuant to paragraph 1&nbsp;(c) shall include:</p>
 
-(4) The data provided pursuant to paragraph 1 (c) shall include:
+<p>a)&nbsp;name(s), surname, a&nbsp;change thereof, and surname at birth;</p>
 
-a) name(s), surname, a change thereof, and surname at birth;
+<p>b)&nbsp;date of birth;</p>
 
-b) date of birth;
+<p>c) place and country of birth;</p>
 
-c) place and country of birth;
+<p>d) birth identification number;</p>
 
-d) birth identification number;
+<p>e) citizenship;</p>
 
-e) citizenship;
+<p>f) type and address of residence;</p>
 
-f) type and address of residence;
+<p>g) number and date of expiry of the&nbsp;residence permit;</p>
 
-g) number and date of expiry of the residence permit;
+<p>h) date of commencement of residence, or the&nbsp;date of termination of residence;</p>
 
-h) date of commencement of residence, or the date of termination of residence;
+<p>i) incapacitation or limitation of legal capacity;</p>
 
-i) incapacitation or limitation of legal capacity;
+<p>j) marital status, date and place of marriage;</p>
 
-j) marital status, date and place of marriage;
+<p>k) administrative or court-ordered expulsion and the&nbsp;period of time for which the&nbsp;given person is banned from entering the&nbsp;Czech Republic;</p>
 
-k) administrative or court-ordered expulsion and the period of time for which the given person is banned from entering the Czech Republic;
+<p>l) date, place and district of death; if the&nbsp;person died outside the&nbsp;territory of the&nbsp;Czech Republic, the&nbsp;country in which the&nbsp;death occurred, and the&nbsp;date of death, where applicable;</p>
 
-l) date, place and district of death; if the person died outside the territory of the Czech Republic, the country in which the death occurred, and the date of death, where applicable;
+<p>m) date which was specified as the&nbsp;date of death in a&nbsp;court decision on declaring the&nbsp;person dead or the&nbsp;date which the&nbsp;foreign national who is declared dead did not survive.</p>
 
-m) date which was specified as the date of death in a court decision on declaring the person dead or the date which the foreign national who is declared dead did not survive.
+<p>(5) The&nbsp;data provided pursuant to paragraph 1&nbsp;(d) shall include:</p>
 
-(5) The data provided pursuant to paragraph 1 (d) shall include:
+<p>a) the&nbsp;name(s), surname and, if applicable, the&nbsp;surname at birth;</p>
 
-a) the name(s), surname and, if applicable, the surname at birth;
+<p>b) birth identification number;</p>
 
-b) birth identification number;
+<p>c) original birth identification number if the&nbsp;birth identification number has changed;</p>
 
-c) original birth identification number if the birth identification number has changed;
+<p>d) day, month and year of birth;</p>
 
-d) day, month and year of birth;
+<p>e)&nbsp;place and district of birth, or in the&nbsp;case of a&nbsp;natural person born abroad, the&nbsp;country in which he or she was born.</p>
 
-e) place and district of birth, or in the case of a natural person born abroad, the country in which he or she was born.
+<p>(6) Data kept as reference data in the&nbsp;basic population register shall be taken from the&nbsp;agenda information system for population records or the&nbsp;agenda information system of foreign nationals only if they are in a&nbsp;form preceding the&nbsp;current state.</p>
 
-(6) Data kept as reference data in the basic population register shall be taken from the agenda information system for population records or the agenda information system of foreign nationals only if they are in a form preceding the current state.
+<p>(7) In each specific case, only the&nbsp;data necessary for carrying out a&nbsp;given task may be taken from the&nbsp;accessible records.</p>
 
-(7) In each specific case, only the data necessary for carrying out a given task may be taken from the accessible records.
+<p>Section 17</p>
 
-##### Section 17
+<p>If the&nbsp;Defender does not ascertain any breach of legal regulations or any other maladministration (Section 1&nbsp;(1)) in the&nbsp;course of his or her inquiry, the&nbsp;Defender shall inform the&nbsp;complainant and the&nbsp;authority in writing accordingly.</p>
 
-If the Defender does not ascertain any breach of legal regulations or any other maladministration (Section 1 (1)) in the course of his or her inquiry, the Defender shall inform the complainant and the authority in writing accordingly.
+<p>Section 18</p>
 
-##### Section 18
+<p>(1) If the&nbsp;Defender ascertains a&nbsp;breach of legal regulations or any other maladministration (Section 1&nbsp;(1)) in the&nbsp;course of his or her inquiry, he or she shall request the&nbsp;authority to provide a&nbsp;statement on the&nbsp;Defender&rsquo;s findings within 30&nbsp;days.</p>
 
-(1) If the Defender ascertains a breach of legal regulations or any other maladministration (Section 1 (1)) in the course of his or her inquiry, he or she shall request the authority to provide a statement on the Defender’s findings within 30 days.
+<p>(2) If the&nbsp;authority states at the&nbsp;request pursuant to paragraph 1&nbsp;above that it has implemented or is in the&nbsp;process of implementing remedial measures, and the&nbsp;Defender finds these measures to be sufficient, the&nbsp;Defender shall inform the&nbsp;complainant and the&nbsp;authority accordingly. Otherwise, following receipt of the&nbsp;statement or expiry of the&nbsp;deadline to no effect, the&nbsp;Defender shall inform the&nbsp;complainant and the&nbsp;authority in writing of the&nbsp;Defender&rsquo;s final statement; the&nbsp;latter shall include a&nbsp;suggested remedy.</p>
 
-(2) If the authority states at the request pursuant to paragraph 1 above that it has implemented or is in the process of implementing remedial measures, and the Defender finds these measures to be sufficient, the Defender shall inform the complainant and the authority accordingly. Otherwise, following receipt of the statement or expiry of the deadline to no effect, the Defender shall inform the complainant and the authority in writing of the Defender’s final statement; the latter shall include a suggested remedy.
+<p>Section 19</p>
 
-##### Section 19 
+<p>The Defender may suggest mainly the&nbsp;following remedial measures:</p>
 
-The Defender may suggest mainly the following remedial measures:
+<p>a)&nbsp;initiating proceedings on review of a&nbsp;decision, act or procedure of the&nbsp;authority if it is possible to initiate such proceedings ex officio;</p>
 
-a) initiating proceedings on review of a decision, act or procedure of the authority if it is possible to initiate such proceedings ex officio;
+<p>b)&nbsp;performing acts to eliminate inactivity;</p>
 
-b) performing acts to eliminate inactivity;
+<p>c)&nbsp;initiating disciplinary or similar proceedings;</p>
 
-c) initiating disciplinary or similar proceedings;
+<p>d)&nbsp;initiating prosecution for a&nbsp;criminal offence, infraction or some other administrative offence;</p>
 
-d) initiating prosecution for a criminal offence, infraction or some other administrative offence;
+<p>e) provision of indemnification or filing a&nbsp;claim for indemnification.</p>
 
-e) provision of indemnification or filing a claim for indemnification.
+<p>Section 20</p>
 
-##### Section 20
+<p>(1) The&nbsp;authority shall inform the&nbsp;Defender within 30&nbsp;days of receipt of the&nbsp;final statement of the&nbsp;remedial measures that have been adopted.</p>
 
-(1) The authority shall inform the Defender within 30 days of receipt of the final statement of the remedial measures that have been adopted.
+<p>(2) If the&nbsp;authority fails to comply with the&nbsp;duty under paragraph 1&nbsp;above, or if the&nbsp;remedial measures are insufficient in the&nbsp;Defender&rsquo;s opinion, the&nbsp;Defender</p>
 
-(2) If the authority fails to comply with the duty under paragraph 1 above, or if the remedial measures are insufficient in the Defender’s opinion, the Defender
+<p>a)&nbsp;shall inform the&nbsp;superior authority, or if there is no such authority, the&nbsp;Government;</p>
 
-a) shall inform the superior authority, or if there is no such authority, the Government;
+<p>b)&nbsp;may inform the&nbsp;public of his or her findings, including disclosure of the&nbsp;names and surnames of persons authorised to act on behalf of the&nbsp;authority.</p>
 
-b) may inform the public of his or her findings, including disclosure of the names and surnames of persons authorised to act on behalf of the authority.
+<p>(3) The&nbsp;Defender may also proceed in the&nbsp;manner set forth in paragraph 2&nbsp;above if the&nbsp;authority fails to comply with a&nbsp;duty arising from Sections 15&nbsp;and 16.</p>
 
-(3) The Defender may also proceed in the manner set forth in paragraph 2 above if the authority fails to comply with a duty arising from Sections 15 and 16.
+<p>Section 21</p>
 
-##### Section 21 
+<p>If the&nbsp;Defender acts on his or her own initiative, Sections 15&nbsp;to 20&nbsp;apply analogously.</p>
 
-If the Defender acts on his or her own initiative, Sections 15 to 20 apply analogously.
+<p>Section 21a</p>
 
-##### Section 21a
+<p>(1) Sections 15&nbsp;and 16&nbsp;apply analogously to visits to facilities and expulsion monitoring.</p>
 
-(1) Sections 15 and 16 apply analogously to visits to facilities and expulsion monitoring.
+<p>(2) For the&nbsp;purposes of monitoring the&nbsp;execution of the&nbsp;punishment of expulsion of a&nbsp;foreign national who has been taken into expulsion custody or who is serving imprisonment, the&nbsp;Police of the&nbsp;Czech Republic shall inform the&nbsp;Defender of the&nbsp;execution of the&nbsp;punishment sufficiently in advance.</p>
 
-(2) For the purposes of monitoring the execution of the punishment of expulsion of a foreign national who has been taken into expulsion custody or who is serving imprisonment, the Police of the Czech Republic shall inform the Defender of the execution of the punishment sufficiently in advance.
+<p>(3) After visiting a&nbsp;facility, after any mutually associated visits to several facilities, or following expulsion monitoring, the&nbsp;Defender shall draw up a&nbsp;report on his or her findings. The&nbsp;report may include recommendations and/or suggestions for remedial measures.</p>
 
-(3) After visiting a facility, after any mutually associated visits to several facilities, or following expulsion monitoring, the Defender shall draw up a report on his or her findings. The report may include recommendations and/or suggestions for remedial measures.
+<p>(4) The&nbsp;Defender shall request the&nbsp;facility to respond to the&nbsp;Defender&rsquo;s report, recommendations or suggestions for remedial measures within the&nbsp;deadline set by the&nbsp;Defender. The&nbsp;Defender may also request that the&nbsp;founder of the&nbsp;facility or the&nbsp;competent authorities issue a&nbsp;statement. If the&nbsp;Defender finds their statement satisfactory, the&nbsp;Defender will inform the&nbsp;facility or its founder, or the&nbsp;competent authorities accordingly. Otherwise, following receipt of the&nbsp;statement or expiry of the&nbsp;deadline to no effect, the&nbsp;Defender may proceed pursuant to Section 20&nbsp;(2) analogously.</p>
 
-(4) The Defender shall request the facility to respond to the Defender’s report, recommendations or suggestions for remedial measures within the deadline set by the Defender. The Defender may also request that the founder of the facility or the competent authorities issue a statement. If the Defender finds their statement satisfactory, the Defender will inform the facility or its founder, or the competent authorities accordingly. Otherwise, following receipt of the statement or expiry of the deadline to no effect, the Defender may proceed pursuant to Section 20 (2) analogously.
+<p>(5) In case of failure to comply with the&nbsp;co-operation duty pursuant to Sections 15&nbsp;and 16, the&nbsp;Defender may proceed pursuant to Section 20&nbsp;(2).</p>
 
-(5) In case of failure to comply with the co-operation duty pursuant to Sections 15 and 16, the Defender may proceed pursuant to Section 20 (2).
+<p>Section 21b</p>
 
-##### Section 21b
+<p>The Defender shall contribute to promotion of the&nbsp;right to equal treatment of all persons regardless of their race or ethnic origin, nationality, sex, sexual orientation, age, disability, religion, belief or world view, and to this end, the&nbsp;Defender shall</p>
 
-The Defender shall contribute to promotion of the right to equal treatment of all persons regardless of their race or ethnic origin, nationality, sex, sexual orientation, age, disability, religion, belief or world view, and to this end, the Defender shall
+<p>a)&nbsp;provide methodological assistance to victims of discrimination in lodging their applications to initiate proceedings concerning discrimination;</p>
 
-a) provide methodological assistance to victims of discrimination in lodging their applications to initiate proceedings concerning discrimination;
+<p>b)&nbsp;perform research;</p>
 
-b) perform research;
+<p>c)&nbsp;publish reports and issue recommendations on discrimination-related issues;</p>
 
-c) publish reports and issue recommendations on discrimination-related issues;
+<p>d) provide for exchange of the&nbsp;available information with the&nbsp;relevant European entities.</p>
 
-d) provide for exchange of the available information with the relevant European entities.
+<p>Section 21c</p>
 
-##### Section 21c
+<p>(1) Within monitoring of implementation of an&nbsp;international treaty on the&nbsp;rights of persons with disabilities,6)&nbsp;the&nbsp;Defender shall deal systematically with the&nbsp;aspects of the&nbsp;rights of persons with disabilities and, to this end, the&nbsp;Defender shall, in particular:</p>
 
-(1) Within monitoring of implementation of an international treaty on the rights of persons with disabilities,6) the Defender shall deal systematically with the aspects of the rights of persons with disabilities and, to this end, the Defender shall, in particular:
+<p>a) promote the&nbsp;rights of persons with disabilities and propose measures aimed at their protection;</p>
 
-a) promote the rights of persons with disabilities and propose measures aimed at their protection;
+<p>b)&nbsp;perform research;</p>
 
-b) perform research;
+<p>c) publish reports and issue recommendations regarding issues related to the&nbsp;fulfilment of rights of persons with disabilities; and</p>
 
-c) publish reports and issue recommendations regarding issues related to the fulfilment of rights of persons with disabilities; and
+<p>d) provide for exchange of the&nbsp;available information with the&nbsp;relevant foreign and international entities.</p>
 
-d) provide for exchange of the available information with the relevant foreign and international entities.
+<p>(2) Sections 15&nbsp;and 16&nbsp;shall apply mutatis mutandis within the&nbsp;performance of the&nbsp;tasks under paragraph 1&nbsp;above.</p>
 
-(2) Sections 15 and 16 shall apply mutatis mutandis within the performance of the tasks under paragraph 1 above.
+<p>(3) In case of failure to comply with the&nbsp;co-operation duty pursuant to Sections 15&nbsp;and 16, the&nbsp;Defender may inform the&nbsp;public of this fact, including specification of the&nbsp;names and surnames of the&nbsp;persons authorised to act on behalf of the&nbsp;obliged body.</p>
 
-(3) In case of failure to comply with the co-operation duty pursuant to Sections 15 and 16, the Defender may inform the public of this fact, including specification of the names and surnames of the persons authorised to act on behalf of the obliged body.
+<p>Section 21d</p>
 
-##### Section 21d
+<p>(1) With a&nbsp;view to facilitating the&nbsp;freedom of movement of citizens of the&nbsp;European Union in conformity with the&nbsp;directly applicable regulation of the&nbsp;European Union in the&nbsp;area of the&nbsp;freedom of movement for workers,[^11]&nbsp;the&nbsp;Defender shall</p>
 
-(1) With a view to facilitating the freedom of movement of citizens of the European Union in conformity with the directly applicable regulation of the European Union in the area of the freedom of movement for workers,[^11] the Defender shall
+<p>a)&nbsp;provide methodological assistance to victims of discrimination in lodging their applications to initiate proceedings concerning discrimination;</p>
 
-a) provide methodological assistance to victims of discrimination in lodging their applications to initiate proceedings concerning discrimination;
+<p>b) undertake surveys and analyses of the&nbsp;exercise of the&nbsp;freedom of movement of citizens of the&nbsp;European Union;</p>
 
-b) undertake surveys and analyses of the exercise of the freedom of movement of citizens of the European Union;
+<p>c) publish reports and issue recommendations regarding issues related to the&nbsp;exercise of rights of citizens of the&nbsp;European Union;</p>
 
-c) publish reports and issue recommendations regarding issues related to the exercise of rights of citizens of the European Union;
+<p>d) publish up-to-date information on the&nbsp;rights of citizens of the&nbsp;European Union in Czech and in at least one further official language of the&nbsp;European Union;</p>
 
-d) publish up-to-date information on the rights of citizens of the European Union in Czech and in at least one further official language of the European Union;
+<p>e) provide for exchange of the&nbsp;available information with the&nbsp;relevant national, foreign and international entities.</p>
 
-e) provide for exchange of the available information with the relevant national, foreign and international entities.
+<p>(2) The&nbsp;Defender shall also perform the&nbsp;tasks under paragraph 1&nbsp;above in matters of the&nbsp;freedom of movement of citizens of the&nbsp;European Union that are not subject to the&nbsp;applicable regulation of the&nbsp;European Union in the&nbsp;area of the&nbsp;freedom of movement for workers.[^11]</p>
 
-(2) The Defender shall also perform the tasks under paragraph 1 above in matters of the freedom of movement of citizens of the European Union that are not subject to the applicable regulation of the European Union in the area of the freedom of movement for workers.[^11]
+<p>(3) Sections 15&nbsp;and 16&nbsp;shall apply mutatis mutandis within the&nbsp;performance of the&nbsp;tasks under paragraph 1&nbsp;above.</p>
 
-(3) Sections 15 and 16 shall apply mutatis mutandis within the performance of the tasks under paragraph 1 above.
+<p>(4) In case of failure to comply with the&nbsp;co-operation duty, the&nbsp;Defender may proceed analogously pursuant to Section 20&nbsp;(2)(b).</p>
 
-(4) In case of failure to comply with the co-operation duty, the Defender may proceed analogously pursuant to Section 20 (2)(b).
+<h3>PART THREE</h3>
 
-### PART THREE
+<h4>SPECIAL POWERS AND DUTIES OF THE&nbsp;DEFENDER</h4>
 
-#### SPECIAL POWERS AND DUTIES OF THE DEFENDER
+<p>\</p>
 
-\
+<p>Section 22</p>
 
-##### Section 22
+<p>(1) The&nbsp;Defender is authorised to recommend that a&nbsp;legal or internal regulation be issued, amended or cancelled. The&nbsp;Defender shall submit the&nbsp;recommendation to the&nbsp;authority whose competence is concerned and, if the&nbsp;matter concerns a&nbsp;Government regulation or resolution or a&nbsp;law, to the&nbsp;Government.</p>
 
-(1) The Defender is authorised to recommend that a legal or internal regulation be issued, amended or cancelled. The Defender shall submit the recommendation to the authority whose competence is concerned and, if the matter concerns a Government regulation or resolution or a law, to the Government.
+<p>(2) The&nbsp;authority shall provide its statement on the&nbsp;recommendation pursuant to paragraph 1&nbsp;above within 60&nbsp;days. Section 20&nbsp;(2) shall apply analogously.</p>
 
-(2) The authority shall provide its statement on the recommendation pursuant to paragraph 1 above within 60 days. Section 20 (2) shall apply analogously.
+<p>(3) The&nbsp;Defender may nominate lay judges for registration in the&nbsp;list of lay judges in proceedings concerning judicial distrainers pursuant to a&nbsp;special legal regulation.</p>
 
-(3) The Defender may nominate lay judges for registration in the list of lay judges in proceedings concerning judicial distrainers pursuant to a special legal regulation.
+<p>Section 23</p>
 
-##### Section 23
+<p>(1) By 31&nbsp;March&nbsp;each year, the&nbsp;Defender shall submit to the&nbsp;Chamber of Deputies a&nbsp;written annual report on the&nbsp;Defender&rsquo;s activities during the&nbsp;past year; the&nbsp;report shall be a&nbsp;parliamentary publication. The&nbsp;Defender shall simultaneously send the&nbsp;report to the&nbsp;Senate, the&nbsp;President of the&nbsp;Republic, the&nbsp;Government, and ministries and other administrative authorities having competence over the&nbsp;entire territory of the&nbsp;State and the&nbsp;Defender shall publish the&nbsp;report in a&nbsp;suitable manner.</p>
 
-(1) By 31 March each year, the Defender shall submit to the Chamber of Deputies a written annual report on the Defender’s activities during the past year; the report shall be a parliamentary publication. The Defender shall simultaneously send the report to the Senate, the President of the Republic, the Government, and ministries and other administrative authorities having competence over the entire territory of the State and the Defender shall publish the report in a suitable manner.
+<p>(2) The&nbsp;Defender shall systematically inform the&nbsp;public of his or her activities under this Act and of any findings resulting from his or her activities. The&nbsp;Defender shall publish in a&nbsp;suitable manner reports on visits to facilities and reports on monitoring of expulsions, including statements received, and selected reports on completed inquiries in individual matters; Section 20&nbsp;(2) (b) shall apply analogously.</p>
 
-(2) The Defender shall systematically inform the public of his or her activities under this Act and of any findings resulting from his or her activities. The Defender shall publish in a suitable manner reports on visits to facilities and reports on monitoring of expulsions, including statements received, and selected reports on completed inquiries in individual matters; Section 20 (2) (b) shall apply analogously.
+<p>Section 24</p>
 
-##### Section 24 
+<p>(1) The&nbsp;Defender shall submit to the&nbsp;Chamber of Deputies</p>
 
-(1) The Defender shall submit to the Chamber of Deputies
+<p>a)&nbsp;information on his or her activities, at least once every 3&nbsp;months;</p>
 
-a) information on his or her activities, at least once every 3 months;
+<p>b)&nbsp;a&nbsp;report on individual cases where adequate remedial measures have not been achieved even after the&nbsp;procedure pursuant to Section 20&nbsp;hereof;</p>
 
-b) a report on individual cases where adequate remedial measures have not been achieved even after the procedure pursuant to Section 20 hereof;
+<p>c)&nbsp;recommendations pursuant to Section 22&nbsp;hereof as regards legal regulations.</p>
 
-c) recommendations pursuant to Section 22 hereof as regards legal regulations.
+<p>(2) The&nbsp;Chamber of Deputies shall discuss the&nbsp;reports and information submitted by the&nbsp;Defender.</p>
 
-(2) The Chamber of Deputies shall discuss the reports and information submitted by the Defender.
+<p>(3) The&nbsp;Defender is authorised to participate in meetings of the&nbsp;Chamber of Deputies and its bodies pertaining to matters concerning the&nbsp;Defender&rsquo;s competence, even if the&nbsp;meeting or part thereof has been declared closed to the&nbsp;public. The&nbsp;Defender shall be given the&nbsp;floor if he or she so requests.</p>
 
-(3) The Defender is authorised to participate in meetings of the Chamber of Deputies and its bodies pertaining to matters concerning the Defender’s competence, even if the meeting or part thereof has been declared closed to the public. The Defender shall be given the floor if he or she so requests.
+<h3>PART FOUR</h3>
 
-### PART FOUR
+<h4>FINAL PROVISIONS</h4>
 
-#### FINAL PROVISIONS
+<p>Section 25</p>
 
-##### Section 25
+<p>(1) Expert, organisational and technical tasks linked to the&nbsp;activities of the&nbsp;Defender shall be carried out by the&nbsp;Office, as an&nbsp;organisational unit of the&nbsp;State.</p>
 
-(1) Expert, organisational and technical tasks linked to the activities of the Defender shall be carried out by the Office, as an organisational unit of the State.
+<p>(2) The&nbsp;details of organisation and the&nbsp;tasks of the&nbsp;Office shall be defined in the&nbsp;Statute to be issued by the&nbsp;Defender.</p>
 
-(2) The details of organisation and the tasks of the Office shall be defined in the Statute to be issued by the Defender.
+<p>(3) Assistants may be appointed by the&nbsp;Defender to carry out tasks in the&nbsp;exercise of the&nbsp;Defender&rsquo;s competence.</p>
 
-(3) Assistants may be appointed by the Defender to carry out tasks in the exercise of the Defender’s competence.
+<p>(4) The&nbsp;employment of an&nbsp;assistant shall arise upon appointment and shall be governed by the&nbsp;Labour Code unless this Act stipulates otherwise. An&nbsp;assistant shall be appointed and removed by the&nbsp;head of the&nbsp;Office on the&nbsp;basis of the&nbsp;Defender&rsquo;s proposal.</p>
 
-(4) The employment of an assistant shall arise upon appointment and shall be governed by the Labour Code unless this Act stipulates otherwise. An assistant shall be appointed and removed by the head of the Office on the basis of the Defender’s proposal.
+<p>(5) A&nbsp;citizen who meets the&nbsp;requirement of integrity and good conduct and who has completed university education in a&nbsp;master&rsquo;s study programme in law and has carried out preparatory practice in the&nbsp;Office for at least 12&nbsp;months may be appointed as an&nbsp;assistant. The&nbsp;integrity and good conduct requirement&nbsp;is deemed to not have been met by a&nbsp;person who has been convicted of a&nbsp;criminal offence&nbsp; even if he or she is considered not to have been convicted.</p>
 
-(5) A citizen who meets the requirement of integrity and good conduct and who has completed university education in a master’s study programme in law and has carried out preparatory practice in the Office for at least 12 months may be appointed as an assistant. The integrity and good conduct requirement is deemed to not have been met by a person who has been convicted of a criminal offence  even if he or she is considered not to have been convicted.
+<p>(6) The&nbsp;Defender may authorise assistants and other employees of the&nbsp;Office to perform inquiries in cases pursuant to Sections 15, 16&nbsp;and 21a (1). However, only assistants may act on behalf of the&nbsp;Defender in proceedings before a&nbsp;court or Constitutional Court.[^4]</p>
 
-(6) The Defender may authorise assistants and other employees of the Office to perform inquiries in cases pursuant to Sections 15, 16 and 21a (1). However, only assistants may act on behalf of the Defender in proceedings before a court or Constitutional Court.[^4]
+<p>Section 25a</p>
 
-##### Section 25a
+<p>(1) For the&nbsp;performance of the&nbsp;tasks pursuant to Section 21c, the&nbsp;Defender shall establish an&nbsp;advisory body for the&nbsp;co-operation in monitoring of the&nbsp;performance of an&nbsp;international treaty on the&nbsp;rights of persons with disabilities.[^6]</p>
 
-(1) For the performance of the tasks pursuant to Section 21c, the Defender shall establish an advisory body for the co-operation in monitoring of the performance of an international treaty on the rights of persons with disabilities.[^6]
+<p>(2) The&nbsp;advisory body shall be composed of persons with disabilities and persons defending their rights and interests. The&nbsp;members of the&nbsp;advisory body shall be appointed by the&nbsp;Defender based on consultation with organisations of persons with disabilities.</p>
 
-(2) The advisory body shall be composed of persons with disabilities and persons defending their rights and interests. The members of the advisory body shall be appointed by the Defender based on consultation with organisations of persons with disabilities.
+<p>(3) The&nbsp;details of organisation and the&nbsp;tasks of the&nbsp;advisory body shall be defined in the&nbsp;Statute to be issued by the&nbsp;Defender.</p>
 
-(3) The details of organisation and the tasks of the advisory body shall be defined in the Statute to be issued by the Defender.
+<p>Section 26</p>
 
-##### Section 26 
+<p>Costs related to the&nbsp;activities of the&nbsp;Defender and his or her Office will be covered under a&nbsp;separate chapter in the&nbsp;State budget.</p>
 
-Costs related to the activities of the Defender and his or her Office will be covered under a separate chapter in the State budget.
+<p>Section 27</p>
 
-##### Section 27 
+<p>(1) The&nbsp;Defender is subject to the&nbsp;Labour Code unless this Act stipulates otherwise.</p>
 
-(1) The Defender is subject to the Labour Code unless this Act stipulates otherwise.
+<p>(2) The&nbsp;salaries and renumeration of employees of the&nbsp;Office shall be governed by the&nbsp;legal regulations on salary schemes of employees of bodies of public administration.</p>
 
-(2) The salaries and renumeration of employees of the Office shall be governed by the legal regulations on salary schemes of employees of bodies of public administration.
+<p>Section 28</p>
 
-##### Section 28
+<p>Effect</p>
 
-Effect
+<p>This Act enters into force on the&nbsp;sixtieth day following its publication.</p>
 
-This Act enters into force on the sixtieth day following its publication.
+<p>Klaus, signed</p>
 
-Klaus, signed
+<p>Havel, signed</p>
 
-Havel, signed
+<p>Zeman, signed</p>
 
-Zeman, signed
+<p>[^1]: Act No. 198/2009 Coll., on equal treatment and legal remedies for protection against discrimination and on amendment to certain laws (the&nbsp;Anti-Discrimination Act). [^1a]: Act No.&nbsp;7/2002 Coll., on proceedings in matters of judges and public prosecutors, as amended. [^2]: Act No. 133/2000Coll., on population records and birth identification numbers and on amendment to certain laws (the&nbsp;Population Records Act), as amended. [^4]: Section 13b of Act No. 133/2000 Coll., as amended by Act No. 53/2004 Coll. [^5]: Act No. 40/1993 Coll., on acquisition and loss of citizenship of the&nbsp;Czech Republic, as amended. [^6]: Convention on the&nbsp;Rights of Persons with Disabilities, promulgated under No. 10/2010 Coll. of International Treaties. [^9]: Section 15a of Act No. 326/1999 Coll., on the&nbsp;presence of foreigners in the&nbsp;territory of the&nbsp;Czech Republic and on amendment to certain laws, as amended. [^10]: Articles 4&nbsp;and 7&nbsp;(2) of Directive 2014/54/EU of the&nbsp;European Parliament and of the&nbsp;Council of 16&nbsp;April 2014 on measures facilitating the&nbsp;exercise of rights conferred on workers in the&nbsp;context of freedom of movement for workers. [^11]: Regulation (EU) No&nbsp;492/2011 of the&nbsp;European Parliament and of the&nbsp;Council of 5&nbsp;April 2011 on freedom of movement for workers within the&nbsp;Union.</p>
 
-[^1]: Act No. 198/2009 Coll., on equal treatment and legal remedies for protection against discrimination and on amendment to certain laws (the Anti-Discrimination Act).
-[^1a]: Act No. 7/2002 Coll., on proceedings in matters of judges and public prosecutors, as amended.
-[^2]: Act No. 133/2000Coll., on population records and birth identification numbers and on amendment to certain laws (the Population Records Act), as amended.
-[^4]: Section 13b of Act No. 133/2000 Coll., as amended by Act No. 53/2004 Coll.
-[^5]: Act No. 40/1993 Coll., on acquisition and loss of citizenship of the Czech Republic, as amended.
-[^6]: Convention on the Rights of Persons with Disabilities, promulgated under No. 10/2010 Coll. of International Treaties.
-[^9]: Section 15a of Act No. 326/1999 Coll., on the presence of foreigners in the territory of the Czech Republic and on amendment to certain laws, as amended.
-[^10]: Articles 4 and 7 (2) of Directive 2014/54/EU of the European Parliament and of the Council of 16 April 2014 on measures facilitating the exercise of rights conferred on workers in the context of freedom of movement for workers.
-[^11]: Regulation (EU) No 492/2011 of the European Parliament and of the Council of 5 April 2011 on freedom of movement for workers within the Union.
+<h2>ACT of 23 April 2008 on equal treatment and on the legal means of protection against discrimination and on amendment to some laws <a href="https://www.ochrance.cz/uploads-import/DISKRIMINACE/pravni_predpisy/Anti-discrimination-Act.pdf">(the Anti-Discrimination Act)</a></h2>
