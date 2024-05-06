@@ -26,8 +26,8 @@ title: Jsem občan Evropské unie
 <p>Pokud se budete chtít podívat, jakými případy s&nbsp;přesahem do&nbsp;evropského práva se ochránce v&nbsp;minulosti zabýval, můžete si přečíst <a href="/uploads-import/Publikace/sborniky_stanoviska/Sbornik_Obcanstvi_EU.pdf">Sborník stanovisek Občanství Evropské unie</a></p>
 
 <ul>
-	<li><a href="https://www.ochrance.cz/info/jsem_obcan_evropske_unie/en-citizens-of-the-eu.pdf">Citizens of the European Union</a>&nbsp;</li>
-	<li><a href="https://www.ochrance.cz/info/jsem_obcan_evropske_unie/buerger_der_europaeischen_union.pdf">Bürger der Europäischen Union</a></li>
+	<li><a href="https://www.ochrance.cz/info/jsem_obcan_evropske_unie/en-citizens-of-the-eu.pdf">english</a>&nbsp;</li>
+	<li><a href="https://www.ochrance.cz/info/jsem_obcan_evropske_unie/buerger_der_europaeischen_union.pdf">deutsch</a></li>
 	<li><a href="https://www.ochrance.cz/info/jsem_obcan_evropske_unie/citoyens_de_l_union_europeenne.pdf">Citoyens de l&#39;Union européenne</a></li>
 	<li><a href="https://www.ochrance.cz/info/jsem_obcan_evropske_unie/obywatele_unii_europejskiej.pdf">Obywatele Unii Europejskiej</a></li>
 	<li><a href="https://www.ochrance.cz/info/jsem_obcan_evropske_unie/grazhdani_na_evropeiskija_sjuz.pdf">Граждани на Европейския съюз</a></li>
