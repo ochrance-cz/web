@@ -13,6 +13,9 @@ perex: >
   v&nbsp;oblastech spadajících do&nbsp;působnosti veřejného ochránce práv. Lidé
   tedy častěji žádají o pomoc s&nbsp;těžkostmi, které ombudsman může přímo řešit
   například tím, že v&nbsp;daném případě prověří postup úřadů.&nbsp;&nbsp;</p>
+attachments:
+  - title: Usnesení petičního výboru Poslanecké sněmovny ze dne 7. května 2024
+    file: https://www.ochrance.cz/aktualne/peticni_vybor_poslanecke_snemovny_projednal_vyrocni_zpravu_ombudsmana_za_rok_2023/up0186_zvop_23_t665.pdf
 ---
 <p><em>&bdquo;Zatímco v&nbsp;roce 2013 bylo v&nbsp;působnosti 57 % příchozích podnětů, vloni už to bylo téměř 73 % ze všech případu, kdy lidé žádali o pomoc. Tradičně nejvíc případů, bezmála 1.500, se i vloni týkalo sociálního zabezpečení,&ldquo; </em>uvedl ombudsman Stanislav Křeček.</p>
 
@@ -26,4 +29,4 @@ perex: >
 
 <p><em>&bdquo;Uvědomujeme si, že naše práce v těchto oblastech&nbsp;nikdy nekončí. Podobné je to u řady dalších ombudsmanských témat. Zasazujeme se například o to, aby úřady s&nbsp;lidmi v&nbsp;rámci dobré správy komunikovaly srozumitelně. Může to na první pohled vypadat jako samozřejmý požadavek. Stále se ale v&nbsp;úředních dopisech či rozhodnutích mimo jiné setkáváme místo lidského shrnutí základních pravidel s dlouhými okopírovanými pasážemi právních předpisů. Přitom těm běžný čtenář porozumí jen těžko,&ldquo;</em> uvedl s&nbsp;odkazem na ombudsmanskou <a href="https://www.ochrance.cz/srozumitelne/">příručku srozumitelného psaní úředních textů</a> zástupce ombudsmana Vít Alexander Schorm.</p>
 
-<p>Petiční výbor doporučil Poslanecké sněmovně <a href="https://www.ochrance.cz/dokument/zpravy_pro_poslaneckou_snemovnu_2023/">výroční zprávu</a> ombudsmana k&nbsp;projednání. Veřejný ochránce práv představí svou činnost za rok 2023 také senátorům. Plánuje vystoupit jak ve výborech, tak přímo na plénu Senátu.</p>
+<p>Petiční výbor v usnesení doporučil Poslanecké sněmovně, aby <a href="https://www.ochrance.cz/dokument/zpravy_pro_poslaneckou_snemovnu_2023/">výroční zprávu</a> ombudsmana vzala na vědomí. Sněmovna by také měla upozornit vládu, aby na zjištění ombudsmana reagovala a zohledňovala jeho legislativní doporučení. Veřejný ochránce práv představí svou činnost za rok 2023 také senátorům. Plánuje vystoupit jak ve výborech, tak přímo na plénu Senátu.</p>
