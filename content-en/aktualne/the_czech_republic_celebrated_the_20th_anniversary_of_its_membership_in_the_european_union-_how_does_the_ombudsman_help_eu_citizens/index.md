@@ -1,6 +1,6 @@
 ---
 title: The Czech Republic celebrated the 20th anniversary of its membership in
-  the European Union. How does the Ombudsman help EU citizens
+  the European Union. How does the Ombudsman help EU citizens?
 date: 2024-05-13T12:58:44.645Z
 vystupy:
   - news
