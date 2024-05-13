@@ -53,11 +53,11 @@ title: "2024"
 
 <h3>11/2024 &ndash; Informace z&nbsp;oblasti Vězeňství</h3>
 
-<p>x</p>
+<p><a href="https://www.ochrance.cz/info106/2024/11_2024_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>y</p>
+<p><a href="https://www.ochrance.cz/info106/2024/11_2024_odpoved.odt">Odpověď na žádost</a>.</p>
 
-<p><a href="https://www.ochrance.cz/vystupy/edice-stanoviska/Sbornik_Vezenstvi_II.pdf">Příloha</a></p>
+<p><a href="https://www.ochrance.cz/vystupy/edice-stanoviska/Sbornik_Vezenstvi_II.pdf">Příloha</a>.</p>
 
 <h3>12/2024 &ndash; Informace z&nbsp;oblasti Vězeňství</h3>
 
