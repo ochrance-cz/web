@@ -4,7 +4,9 @@ linksAfter: []
 ---
 <h2><strong>Volná místa</strong></h2>
 
-<p>Aktuálně&nbsp;hledáme na 0,5 úvazku nového kolegu nebo kolegyni do týmu PR a marketingu. Více informací v <a href="https://www.ochrance.cz/aktualne/hledame_noveho_kolegu_nebo_kolegyni_do_tymu_pr_a_marketingu/">inzerátu</a>.</p>
+<p>Nyní neprobíhá žádné výběrové řízení.</p>
+
+<p>Pokud se přesto chcete ucházet o místo, pošlete nám svůj životopis na adresu <a href="mailto:lzicarova@ochrance.cz">lzicarova@ochrance.cz</a> a napište, o jakou práci máte zájem.</p>
 
 <p><strong>Stáže pro studenty právnických fakult</strong></p>
 
