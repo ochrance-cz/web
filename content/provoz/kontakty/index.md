@@ -373,10 +373,6 @@ lawyers:
         role: vedoucí odboru
         phone: 542 542 334
         email: jana.kvasnicova@ochrance.cz
-      - name: Iva Palkovská
-        role: právnička
-        phone: 542 542 247
-        email: iva.palkovska@ochrance.cz
       - name: Eva Kočí Svobodová
         role: právnička
         phone: 542 542 280
