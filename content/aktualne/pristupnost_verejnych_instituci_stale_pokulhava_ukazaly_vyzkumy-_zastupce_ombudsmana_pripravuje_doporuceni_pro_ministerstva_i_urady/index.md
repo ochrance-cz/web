@@ -12,7 +12,7 @@ perex: >
   lidí s&nbsp;různým postižením. Ukázalo se, že stavební úřady obcí
   s&nbsp;rozšířenou působností schvalují naprostou většinu žádostí o výjimky
   z&nbsp;bezbariérové vyhlášky. Budovy tak mohou být pro lidi s&nbsp;postižením
-  obtížněji přístupné. Přímo v&nbsp;terénu zase testeři zjistili, že míra
+  obtížněji přístupné. Přímo v&nbsp;terénu* zase testeři zjistili, že míra
   přístupnosti a množství překážek ve veřejných institucích se liší u
   jednotlivých typů postižení. Nejpřístupnější jsou budovy pro lidi s tělesným
   postižením. Naopak největší bariéry musí překonávat lidé s&nbsp;postižením
@@ -54,3 +54,5 @@ attachments:
 <p>Současně se ombudsman snaží prosadit, aby &nbsp;vyhlášku o přístupnosti, která bude v&nbsp;maximální míře reflektovat potřeby lidí s&nbsp;postižením i požadavky Úmluvy OSN o právech lidí s postižením. Ta usiluje o takzvaný univerzální design, tedy o to, aby produkty, služby nebo dané místo mohla využívat co nejširší skupina uživatel bez ohledu na jejich specifické potřeby.</p>
 
 <p><em>&bdquo;O zlepšení&nbsp;přístupnosti se aktuálně může zasadit každý. Do 21. dubna totiž mohou lidé online připomínkovat <a href="http://drafts.unmz.cz/Home/Details/6234">ČSN normu</a> týkající se právě přístupnosti a bezbariérového užívání staveb,&ldquo;</em> připomněl ombudsman Stanislav Křeček s&nbsp;odkazem na <a href="https://www.ochrance.cz/aktualne/ombudsman_spolecne_s_ministerstvem_pro_mistni_rozvoj_radi_jak_pripominkovat_navrhy_technickych_norem/">návod</a>, který vydal spolu s&nbsp;Ministerstvem pro místní rozvoj.</p>
+
+<p>* Tento výzkum byl realizován prostřednictvím projektu Posílení aktivit veřejného ochránce práv v ochraně lidských práv (směrem k ustavení Národní lidskoprávní instituce v ČR), číslo projektu: LPPDP3-001. Tento projekt je financován z prostředků Fondů EHP a Norska 2014&ndash;2021 a státního rozpočtu ČR.</p>
