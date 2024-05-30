@@ -26,10 +26,10 @@ sections:
       - body: >
           <blockquote>
 
-          <ul>
-          	<li>I. Úřad by měl ve vyrozumění dostatečně vysvětlit, proč odložil oznámení o přestupku.</li>
-          	<li>II. Podá-li osoba stížnost e-mailem bez elektronického podpisu, měl by ji úřad poučit o tom, že se nebude zabývat stížností, pokud ji řádně nedoplní (vlastnoručním či elektronickým podpisem).</li>
-          </ul>
+          <p>I. Úřad by měl ve vyrozumění dostatečně vysvětlit, proč odložil oznámení o přestupku.</p>
+
+
+          <p>II. Podá-li osoba stížnost e-mailem bez elektronického podpisu, měl by ji úřad poučit o tom, že se nebude zabývat stížností, pokud ji řádně nedoplní (vlastnoručním či elektronickým podpisem).</p>
 
           </blockquote>
 
@@ -107,10 +107,10 @@ sections:
       - body: >
           <blockquote>
 
-          <ol>
-          	<li>Pokud žadatel o&nbsp;dorovnávací přídavek k česko-slovenskému důchodu neuvede, odkdy o něj žádá, má se za&nbsp;to, že žádá ode&nbsp;dne, kdy ho může získat. Prvním dnem je 1. 12. 2013 nebo pozdější den, pokud byl žadateli přiznán starobní důchod později.</li>
-          	<li>Pokud ČSSZ zjistí, že&nbsp;dorovnávací přídavek nelze přiznat ke dni uvedenému v&nbsp;žádosti, nebo k&nbsp;prvnímu možnému dni jeho přiznání, jen proto, že&nbsp;součet českého a&nbsp;slovenského starobního důchodu nepřevyšuje hypotetický český starobní důchod (počítaný z&nbsp;československých dob důchodového pojištění), musí splnění podmínek zkoumat k&nbsp;31. 1. každého následujícího roku až do&nbsp;roku podání žádosti.</li>
-          </ol>
+          <p>I. Pokud žadatel o&nbsp;dorovnávací přídavek k česko-slovenskému důchodu neuvede, odkdy o něj žádá, má se za&nbsp;to, že žádá ode&nbsp;dne, kdy ho může získat. Prvním dnem je 1. 12. 2013 nebo pozdější den, pokud byl žadateli přiznán starobní důchod později.</p>
+
+
+          <p>II. Pokud ČSSZ zjistí, že&nbsp;dorovnávací přídavek nelze přiznat ke dni uvedenému v&nbsp;žádosti, nebo k&nbsp;prvnímu možnému dni jeho přiznání, jen proto, že&nbsp;součet českého a&nbsp;slovenského starobního důchodu nepřevyšuje hypotetický český starobní důchod (počítaný z&nbsp;československých dob důchodového pojištění), musí splnění podmínek zkoumat k&nbsp;31. 1. každého následujícího roku až do&nbsp;roku podání žádosti.</p>
 
           </blockquote>
 
