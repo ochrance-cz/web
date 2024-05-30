@@ -22,7 +22,6 @@ sections:
           <p>Tým Kanceláře veřejného ochránce práv</p>
         title: Milé čtenářky, milí čtenáři,
   - title: Pomohli jsme napravit chybu úřadu
-  - title: Pomohli jsme vyjasnit právní úpravu
     articles:
       - body: >
           <blockquote>
@@ -123,7 +122,194 @@ sections:
         title: "ČSSZ dorovnala stěžovatelce česko-slovenský důchod "
         id: 1298/2023/VOP
         eso: https://eso.ochrance.cz/Nalezene/Edit/12864
+      - body: >
+          <blockquote>
+
+          <p>Nesouhlasí-li dostatečně rozumově vyspělé dítě s&nbsp;rozhodnutím soudu ve své věci, musí za něj kolizní opatrovník podat odvolání, není-li to jednoznačně v&nbsp;rozporu s&nbsp;jeho zájmy.</p>
+
+          </blockquote>
+
+
+          <p>Adam se odmítal pravidelně stýkat se svým otcem bez přítomnosti někoho jiného. Vyčítá otci, že opustil rodinu a víc než dva roky se nezajímal o něj ani jeho mladšího bratra. Tento postoj zastává již pět let. Nic na něm nezměnila ani dlouhodobá spolupráce s&nbsp;různými odborníky a pravidelně probíhající styky v&nbsp;přítomnosti babičky. Naopak. Adam uvedl, že <em>&bdquo;už má všeho dost a ať ho všichni nechají bejt&ldquo;</em>. Soud přesto na žádost otce nařídil, že se musí s&nbsp;otcem stýkat bez přítomnosti babičky a nechat se vyšetřit u soudní znalkyně. Adama u soudu zastupoval OSPOD jako kolizní opatrovník. Přestože si myslel, že by soud již neměl chlapce nutit do další spolupráce s&nbsp;odborníky ani k pravidelnému kontaktu s&nbsp;otcem, proti jeho rozhodnutí se neodvolal.</p>
+
+
+          <p>Případ jsme projednali s&nbsp;OSPOD, který ihned uznal svou chybu. Následoval proto naše doporučení, aby ji napravil. Připojil se k&nbsp;odvolání matky a zdůraznil Adamův hlas v&nbsp;odvolacím řízení. Zároveň se snažil obnovit Adamovu důvěru v&nbsp;systém &ndash; vysvětlil mu proto, že se ho zastal. Vedoucí OSPOD také poučila ostatní pracovníky a změnila vnitřní pravidla pro výkon kolizního opatrovnictví. OSPOD by tak napříště měl více zdůrazňovat přání dětí.</p>
+        title: "Pomohli jsme čtrnáctiletému Adamovi, aby se ho OSPOD zastal v
+          probíhajícím soudním řízení "
+        eso: https://eso.ochrance.cz/Nalezene/Edit/12856
+        id: 1776/2024/VOP
+        release: ""
+      - body: >
+          <p>Stěžovatelka se domnívala, že její lékařka nedodržuje zákonem
+          stanovené požadavky na vedení elektronické zdravotnické dokumentace.
+          Současně měla za to, že některé záznamy do ní nezaevidovala nebo je
+          dodatečně upravovala. Podala proto stížnost krajskému úřadu. Ten jí
+          shledal nedůvodnou. Odůvodnil to tím, že lékařka vede zdravotnickou
+          dokumentaci v&nbsp;listinné podobě, přičemž tato nejeví známky
+          manipulace či falšování.</p>
+
+
+          <p>Zjistili jsme, že si krajský úřad vyžádal od lékařky zdravotnickou dokumentaci stěžovatelky, ale nepořídil si její kopii. Do úředního záznamu o nahlížení do ní přitom nepopsal, co přesně obsahuje. Nemohli jsme tedy ověřit, zda jsou závěry krajského úřadu správné. Vyzvali jsme ho proto, aby znovu prověřil způsob vedení zdravotnické dokumentace a zohlednil přitom několik záznamů, které lékařka poskytla stěžovatelce.</p>
+
+
+          <p>Krajský úřad znovu nahlédl do zdravotnické dokumentace stěžovatelky a pořídil si z&nbsp;ní kopii. Následně shledal, že ji lékařka vede v&nbsp;listinné podobě. My jsme však měli pochybnosti, zda tomu tak skutečně je. Jedním z&nbsp;důvodů bylo například to, že u každého záznamu chybělo razítko a podpis. Tyto náležitosti obsahovaly jen listy s&nbsp;několika záznamy. To mohlo nasvědčovat tomu, že k&nbsp;vyhotovení listinné dokumentace dochází s&nbsp;prodlením.</p>
+
+
+          <p>Obrátili jsme se proto na Ministerstvo zdravotnictví. To se k&nbsp;postupu krajského úřadu vyjádřilo pouze v&nbsp;obecné rovině, aniž by zaujalo stanovisko k&nbsp;posuzovanému případu stěžovatelky.</p>
+        title: "Pokoušeli jsme se přimět krajský úřad, aby důkladně prověřil, zda
+          lékařka správně vede zdravotnickou dokumentaci "
+        id: 5111/2021/VOP
+        eso: https://eso.ochrance.cz/Nalezene/Edit/10924
+      - body: >
+          <blockquote>
+
+          <p>Dlouhá izolace cizince na přísném režimu v&nbsp;cizineckém zařízení musí podléhat přísnému přezkumu. Závažné důvody pro tuto izolaci musejí existovat po celou dobu jejího trvání. Všechny složky působící v&nbsp;zařízení musejí spolupracovat při rozpoznávání možné zranitelnosti umístěného cizince a také při následném řešení zvláštních potřeb, které může mít <a href="https://www.e-sbirka.cz/sb/1999/326#par_135-odst_5">(&sect; 135 odst. 5</a> zákona č. 326/1999 Sb.).</p>
+
+          </blockquote>
+
+
+          <p>Policie umístila cizince na tzv. přísný režim (izolaci) v&nbsp;cizineckém zařízení poté, co neuposlechl pokynů a při následném zákroku napadl policisty. Cizinec byl takto izolován celkem po dobu 38 dnů. Ve zbytku svého pobytu na samotce nebyl jakkoliv agresivní a přísnému režimu se přizpůsobil. Zdravotník nenavštívil cizince bezprostředně po jeho umístění na izolaci. Dle pozdějšího posudku psychologa chování cizince svědčilo o možných přidružených psychologických problémech, které by zasluhovaly vyšetření psychiatrem. To bylo nezbytné nejen pro posouzení zdravotního stavu cizince, ale i jeho zranitelnosti. Vyšetření proběhlo až více než po měsíci izolace.</p>
+
+
+          <p>Umístění na izolaci může mít negativní dopad na duševní zdraví kohokoli. S&nbsp;narůstající délkou izolace se tento dopad může zhoršovat. U osob, které trpí závažným duševním onemocněním, mohou být dopady o to závažnější. Vyzvali jsme proto Policii, Správu uprchlických zařízení a Zdravotnické zařízení Ministerstva vnitra, aby se situací zabývaly.</p>
+
+
+          <p>Policie přislíbila, že bude v rámci umisťování cizinců do části s přísným režimem zohledňovat jejich možnou zranitelnost.</p>
+
+
+          <p>Správa uprchlických zařízení zpracovala funkční postupy pro rozpoznávání zranitelných osob a jejich specifických potřeb a v roce 2024 proškolí v tomto tématu nejen sociální pracovníky, ale i ostatní kolegy, kteří pracují s klienty v&nbsp;cizineckých zařízeních.</p>
+
+
+          <p>Zdravotnické zařízení vydalo pokyn k bezodkladným a každodenním návštěvám a kontrolám zdravotního stavu klienta umístěného na izolaci. Všechny tři složky také přislíbily vzájemné předávání informací o možné zranitelnosti osob.</p>
+        title: "Dohlížíme na řádné umisťování cizinců do izolace "
+        id: 7889/2021/VOP
+        eso: https://eso.ochrance.cz/Nalezene/Edit/12070
+      - body: >
+          <blockquote>
+
+          <p>OSPOD musí dohlížet na péči o děti žijící v&nbsp;zařízeních. K&nbsp;tomu může využívat také namátkové neohlášené návštěvy. Musí dohlížet i na to, zda má zařízení s dětmi vhodně nastavenou komunikaci a správně řeší projevy náročného chování. S&nbsp;dětmi by měl OSPOD být i o samotě, aby ověřil, že se jim neděje nic špatného. Měl by se snažit komunikovat také s&nbsp;dětmi, které nemluví.</p>
+
+          </blockquote>
+
+
+          <p>Navštívili jsme zařízení, kde žijí převážně děti se středním až těžkým mentálním postižením, které mnohdy nemluví (nebo jen omezeně). Zjistili jsme, že se tam špatně starali o děti. Proto jsme se obrátili na ty OSPOD, které měly děti v zařízení na starost.</p>
+
+
+          <p>OSPOD, který má v&nbsp;zařízení na starost 11 dětí, neplnil své povinnosti řádně. Všechny děti měla na starost jedna jediná pracovnice, která neměla dostatek času se dětem věnovat. Například s&nbsp;nimi neměla jasně nastavenou komunikaci. A se zařízením neřešila jeho četné nedostatky při práci s dětmi (např. že neřešilo, jak komunikovat s&nbsp;dětmi, které nemluví, nebo jak zvládat náročné chování).</p>
+
+
+          <p>OSPOD uznal své chyby a přislíbil, že bude uplatňovat v&nbsp;praxi naše doporučení. Například:</p>
+
+
+          <ul>
+          	<li>rozdělil děti mezi několik sociálních pracovnic,</li>
+          	<li>začal mnohem důsledněji kontrolovat, jak zařízení o děti pečuje,&nbsp;</li>
+          	<li>provádí i neohlášené návštěvy,</li>
+          	<li>tráví s&nbsp;dětmi čas i o samotě,</li>
+          	<li>se snaží s&nbsp;dětmi lépe komunikovat a do plánu vzdělávání zařadil školení pro pracovnice zaměřené na alternativní metody komunikace s&nbsp;dětmi, které nemluví.</li>
+          </ul>
+        title: "OSPOD zlepšil dohled nad péčí o děti s postižením v zařízení "
+        id: 17630/2022/VOP
+        eso: https://eso.ochrance.cz/Nalezene/Edit/12782
+      - body: >
+          <blockquote>
+
+          <p>Osoba přímo postižená spácháním přestupku má právo nahlížet do spisu. Takovou osobou je osoba blízká pachatele přestupku. Osobami blízkými jsou i osoby sešvagřené (<a href="https://www.e-sbirka.cz/sb/2012/89#par_22-odst_1">&sect; 22 odst. 1</a> zákona č. 89/2012 Sb.). Úřad proto musí přesvědčivě zdůvodnit, proč švagra nepovažuje za osobu blízkou a ten tak nemá právo nahlížet do spisu.</p>
+
+          </blockquote>
+
+
+          <p>Stěžovatel oznámil úřadu přestupek, kterého se měl dopustit jeho švagr. Když chtěl nahlížet do spisu, úřad mu to neumožnil s&nbsp;odůvodněním, že je pouze svědek.</p>
+
+
+          <p>Úřad v usnesení o odepření nahlédnutí do spisu nezdůvodnil, proč stěžovatele považoval pouze za svědka a nikoliv za osobu přímo postiženou spácháním přestupku, která má právo nahlížet do spisu. Úřad se v&nbsp;usnesení postavením stěžovatele vůbec nezabýval, proto jsme jej nepovažovali za přesvědčivé.</p>
+
+
+          <p>Úřad nám své úvahy dodatečně vysvětlil a zdůvodnil, proč neměl stěžovatel v&nbsp;řízení postavení osoby přímo postižené spácháním přestupku. Poučili jsme jej, že měl toto vysvětlení rozvést již v samotném usnesení o odepření nahlížení do spisu. Úřad přislíbil, že bude postupovat podle našich doporučení, a že bude svá budoucí rozhodnutí přesvědčivě odůvodňovat.</p>
+        title: "Poučili jsme úřad, jak lépe odůvodnit odepření nahlížení do spisu "
+        id: 6649/2023/VOP
+        eso: https://eso.ochrance.cz/Nalezene/Edit/12858
+      - body: >
+          <blockquote>
+
+          <p>U dětí narozených v zahraničí se trvalý pobyt v Česku zaeviduje, až když rodiče požádají o osvědčení o státním občanství. Děje se tak automaticky na adresu trvalého pobytu jednoho z rodičů, a to zpětně k datu narození. Ukončit jejich trvalý pobyt lze jen do budoucna, nikoliv zpětně (<a href="https://www.e-sbirka.cz/sb/2000/133#par_10">&sect; 10</a> zákona č. 133/2000 Sb.).</p>
+
+
+          <p>Zaevidováním trvalého pobytu se děti stávají poplatníky poplatku za obecní systém odpadového hospodářství (<a href="https://www.e-sbirka.cz/sb/1990/565#par_10e">&sect; 10e</a> zákona č. 565/1990 Sb.). Zpětné zaevidování trvalého pobytu dětí, které vede ke zpětnému vzniku poplatkové povinnosti, představuje tvrdost zákona, proto by měl správce poplatku k&nbsp;žádosti rodiče poplatek prominout (<a href="https://www.e-sbirka.cz/sb/1990/565#par_16a">&sect; 16a</a> zákona č. 565/1990 Sb.).</p>
+
+          </blockquote>
+
+
+          <p>Dětem stěžovatele narozeným v zahraničí systém v&nbsp;roce 2018 automaticky zaevidoval trvalý pobyt zpětně k&nbsp;datu narození (2013 a 2016). Magistrát města, ve kterém měly děti trvalý pobyt, za ně požadoval zaplacení poplatku za odpady zpětně od roku 2017. Žádosti stěžovatele o prominutí poplatku magistrát nevyhověl.&nbsp;&nbsp;&nbsp;</p>
+
+
+          <p>Snažili jsme se přesvědčit magistrát, aby prominul stěžovateli poplatek za děti. Poplatek za komunální odpad se platí obci za možnost odstraňovat odpad na jejím území. V&nbsp;případě dětí narozených v&nbsp;cizině, kterým systém zpětně zaeviduje trvalý pobyt v České republice, lze ale jen stěží hovořit o tom, že jim tímto administrativním krokem zpětně vzniká možnost odstraňovat odpad. Obrátili jsme se na krajský úřad, který s&nbsp;námi souhlasil. Magistrát následně poplatky za děti prominul. Stěžovatel tak může nyní požádat o vrácení více než 7 000 korun, které za děti zaplatil.</p>
+        title: "Pomohli jsme prominout poplatky za komunální odpad za děti narozené v
+          zahraničí "
+        id: 11814/2022/VOP
+        eso: https://eso.ochrance.cz/Nalezene/Edit/12438
+  - title: Pomohli jsme vyjasnit právní úpravu
+    articles:
+      - body: >
+          <blockquote>
+
+          <p>Notářka se musí řídit Úmluvou o právech osob se zdravotním postižením, pokud vede řízení o pozůstalosti. Její kancelář by měla být přístupná lidem s&nbsp;postižením, aby mohli uplatnit svá práva na rovnoprávném základě s&nbsp;ostatními účastníky. Pokud to účastník s&nbsp;postižením potřebuje, musí notářka v&nbsp;některých případech zajistit bezbariérovou místnost nebo upravit termín jednání.</p>
+
+          </blockquote>
+
+
+          <p>Stěžovatelka, která využívá vozík, se chtěla účastnit jednání o pozůstalosti po své matce. To se mělo konat v kanceláři notářky v prvním patře domu bez výtahu. Navrhla proto, aby notářka přesunula jednání do bezbariérových prostor. Takový návrh ale notářka podle stěžovatelky odmítla. Notářka nám naopak sdělila, že pro jednání zajistila zasedací místnost v přízemí domu. Stěžovatelka se jednání nakonec ze zdravotních důvodů nezúčastnila a zastoupil ji advokát.</p>
+
+
+          <p>V&nbsp;případu nebylo možné prokázat, že notářka skutečně odmítla návrh stěžovatelky na změnu místa jednání. Pokud notářka měla možnost stěžovatelce vyhovět a neudělala to, mohla ji tím diskriminovat kvůli zdravotnímu postižení (odepřením přiměřeného opatření). Notářce jsme sdělili, že měla jednat se stěžovatelkou vstřícněji a informovat ji bez odkladu o tom, že zajistila bezbariérovou místnost k&nbsp;jednání.</p>
+        title: "Notářka musí v řízení o pozůstalosti zohlednit potřeby účastníků s
+          postižením "
+        id: 4241/2023/VOP
   - title: Radili jsme v diskriminačních věcech
+    articles:
+      - body: >
+          <p>Stěžovatelka nastoupila do nového zaměstnání, kde měla jako jediná
+          žena vést pracovní tým. Krátce nato našla na ploše svého pracovního
+          počítače pornografický obrázek. Věděla, který kolega ho nainstaloval,
+          ale když se ohradila, vysmál se jí. Obrátila se proto na nadřízeného.
+          Ten to odmítl řešit s tím, že je přehnaně citlivá a nemá smysl pro
+          humor. Stěžovatelka zjistila, že narážky na sexualitu jsou na
+          pracovišti běžné. Přestože jí to vadilo, na personální oddělení se
+          obrátila až po roce. Obávala se totiž, co by se stalo, kdyby se dále
+          bránila. Zaměstnavatel ji následně přesunul na jinou pracovní pozici,
+          kde neměla příplatky za směnný provoz. Krátce nato se dozvěděla, že jí
+          neprodlouží pracovní smlouvu.&nbsp;</p>
+
+
+          <p>Popis událostí v&nbsp;nás vzbudil podezření na diskriminaci ve formě sexuálního obtěžování a pronásledování (postih za to, že se někdo bránil proti diskriminaci). Požádali jsme proto zaměstnavatele o vyjádření. Ten nám sdělil, že:</p>
+
+
+          <ul>
+          	<li>rozvázal s kolegou stěžovatelky pracovní poměr,</li>
+          	<li>zaslal nadřízenému, který se odmítl zabývat stížností stěžovatelky, vytýkací dopis,</li>
+          	<li>přemístil stěžovatelku na jinou pracovní pozici, protože se necítila dobře v kolektivu a také proto, že potřeboval přeorganizovat práci,</li>
+          	<li>neprodloužil stěžovatelce pracovní smlouvu, protože neuspěla u zkoušek, které potřebovala k výkonu práce.</li>
+          </ul>
+
+
+          <p>Konstatovali jsme, že situace na pracovišti naplnila znaky sexuálního obtěžování, a že zaměstnavatel za ni byl odpovědný od okamžiku, kdy se stěžovatelka poprvé obrátila na svého nadřízeného. Zaměstnavatel měl totiž zajistit, aby nadřízený stěžovatelky řádně prošetřil její stížnost a zabránil tomu, aby se situace opakovala. Diskriminaci ve formě pronásledování se nepodařilo prokázat, protože zaměstnavatel doložil jiné objektivní důvody, proč stěžovatelce neprodloužil pracovní smlouvu.</p>
+        title: "Posoudili jsme situaci zaměstnankyně, jejíž nadřízený odmítl řešit
+          stížnost na sexuální obtěžování ze strany kolegy "
+        id: 1108/2023/VOP
+        eso: https://eso.ochrance.cz/Nalezene/Edit/12880
+      - body: >
+          <blockquote>
+
+          <p>Často se na nás obrací lidé, kteří se setkali s&nbsp;diskriminací na pracovišti. Vytvořili jsme proto příručku pro zaměstnavatele, kteří chtějí zacházet se zaměstnanci férově a předcházet diskriminaci.</p>
+
+          </blockquote>
+
+
+          <p>Příručka (sp. zn. <a href="https://eso.ochrance.cz/Nalezene/Edit/12506">68/2021/DIS</a>) vychází hlavně z&nbsp;případů, které jsme v&nbsp;minulosti řešili my nebo české soudy. Věnujeme se v&nbsp;ní otázkám od výběru nového zaměstnance až po skončení pracovního poměru. Přinášíme konkrétní tipy, jak zlepšit situaci zaměstnanců, kteří jsou na trhu práce zranitelní. V&nbsp;každé kapitole najdete ilustrační příklady, abyste lépe pochopili právní pravidla. Poradíme Vám také, jak řešit případné konflikty na pracovišti smírně a jak přispět k&nbsp;tomu, aby se zaměstnanci cítili v&nbsp;práci dobře.</p>
+
+
+          <p>Informace z&nbsp;příručky jsme shrnuli ve stručném dokumentu (sp. zn. <a href="https://eso.ochrance.cz/Nalezene/Edit/12508">72/2023/DIS</a>).</p>
+        title: "Radíme, jak se vyhnout diskriminaci na pracovišti "
   - title: Navštěvujeme zařízení
     articles:
       - body: >
