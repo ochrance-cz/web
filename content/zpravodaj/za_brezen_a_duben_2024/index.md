@@ -265,6 +265,7 @@ sections:
         title: "Notářka musí v řízení o pozůstalosti zohlednit potřeby účastníků s
           postižením "
         id: 4241/2023/VOP
+        eso: https://eso.ochrance.cz/Nalezene/Edit/12862
   - title: Radili jsme v diskriminačních věcech
     articles:
       - body: >
