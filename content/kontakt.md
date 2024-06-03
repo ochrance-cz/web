@@ -27,7 +27,7 @@ access:
     případná asistence.
   pic: /images/kontakt.jpg
 pressAgent:
-  role: Tisková mluvčí (kontakt pouze pro média)
+  role: Kontakt pro média
   name: Mgr. Markéta Bočková
   phone: +420 604 975 154
   email: marketa.bockova@ochrance.cz
