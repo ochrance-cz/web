@@ -6,16 +6,15 @@ date: 2024-06-03T08:19:14.779Z
 vystupy:
   - news
 perex: >
-  <p><strong>Stanislav Křeček and Vít Alexander Schorm have presented the
-  </strong><a
-  href="https://www.ochrance.cz/dokument/zpravy_pro_poslaneckou_snemovnu_2023/vyrocni-zprava-2023.pdf"><strong>Annual
-  Report</strong></a><strong> of their office for the year 2023. They welcomed
-  the fact that ministries and authorities had successfully used the
-  Ombudsman&rsquo;s findings to correct maladministration in individual cases
-  and to change inappropriate practices. On the other hand, they also drew
-  attention to some topics that remained open, such as the transformation of
-  large institutions for people with disabilities and, above all, the upcoming
-  establishment of a children&rsquo;s ombudsman. </strong></p>
+  <p>Stanislav Křeček and Vít Alexander Schorm have presented the <a
+  href="https://www.ochrance.cz/dokument/zpravy_pro_poslaneckou_snemovnu_2023/vyrocni-zprava-2023.pdf">Annual
+  Report</a> of their office for the year 2023. They welcomed the fact that
+  ministries and authorities had successfully used the Ombudsman&rsquo;s
+  findings to correct maladministration in individual cases and to change
+  inappropriate practices. On the other hand, they also drew attention to some
+  topics that remained open, such as the transformation of large institutions
+  for people with disabilities and, above all, the upcoming establishment of a
+  children&rsquo;s ombudsman.</p>
 ---
 <p><em>&ldquo;Usually, our reports published throughout the year describe various issues we have identified. I would like to stress, however, that the individual errors committed by authorities represent only one side of the coin. On the other side is the fact that in 97% of cases, the authorities eventually corrected the maladministration we discovered. And that figure gives one hope for the future,&rdquo;</em> said the Ombudsman, Stanislav Křeček.</p>
 
