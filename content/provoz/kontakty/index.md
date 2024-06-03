@@ -7,20 +7,6 @@ sections:
     intro: Po–pá 8.00–16.00 hod.
   - title: Sekretariát veřejného ochránce práv a jeho zástupce
     intro: >-
-      **Sekretariát veřejného ochránce práv**\
-
-      Marie Uhlerová\
-
-      tel: (+420) 542 542 777
-
-
-      **Sekretariát zástupce veřejného ochránce práv**\
-
-      Marie Hemalová\
-
-      tel: (+420) 542 542 666
-
-
       ### **Vedoucí sekretariátu veřejného ochránce práv a jeho zástupce**
 
 
@@ -31,7 +17,21 @@ sections:
       e-mail: miroslav.frydek@ochrance.cz
 
 
-      ### **Právní asistenti veřejného ochránce práv a jeho zástupce**
+      **Asistentka veřejného ochránce práv**\
+
+      Marie Uhlerová\
+
+      tel: (+420) 542 542 777
+
+
+      **Asistentka zástupce veřejného ochránce práv**\
+
+      Marie Hemalová\
+
+      tel: (+420) 542 542 666
+
+
+      ### **Právní poradci veřejného ochránce práv a jeho zástupce**
 
 
       **Martin Studnička**                                                                                                                                       telefon: (+420) 542 542 379\
@@ -51,6 +51,30 @@ sections:
       telefon: (+420) 542 542 231\
 
       e-mail: roman.zapletal@ochrance.cz
+
+
+      ### **Oddělení PR a marketingu**
+
+
+      **Vedoucí oddělení PR a marketingu**\
+
+      M﻿ichaela Vaisová
+
+
+      telefon: (+420) 542 542 289\
+
+      e-mail: michaela.vaisova@ochrance.cz
+
+
+      **P﻿racovnice pro styk s médii**
+
+
+      M﻿arkéta Bočková
+
+
+      telefon: (+420) 542 542 775\
+
+      e-mail: marketa.bockova@ochrance.cz
   - title: Vedoucí Kanceláře veřejného ochránce práv
     intro: |-
       **Pavel Pořízek**
