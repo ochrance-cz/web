@@ -66,10 +66,9 @@ sections:
       e-mail: michaela.vaisova@ochrance.cz
 
 
-      **P﻿racovnice pro styk s médii**
+      **Pracovnice pro styk s médii**\
 
-
-      M﻿arkéta Bočková
+      Markéta Bočková
 
 
       telefon: (+420) 542 542 775\
