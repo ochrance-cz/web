@@ -3,7 +3,7 @@ title: "Ombudsman shrnuje pravidla pro placení poplatků za odpady pro Čechy
   žijící v zahraničí "
 date: 2024-06-11T10:57:36.563Z
 vystupy:
-  - vyrocni-zprava
+  - tz
 perex: >
   <p>Případ rodiny dlouhodobě pobývající mimo Českou republiku vedl ombudsmana
   ke&nbsp;shrnutí základních pravidel spojených s poplatky za komunální odpad.
