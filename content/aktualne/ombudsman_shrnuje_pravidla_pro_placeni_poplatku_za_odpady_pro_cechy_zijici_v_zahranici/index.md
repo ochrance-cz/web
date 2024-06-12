@@ -38,10 +38,20 @@ attachments:
 <blockquote>
 <p><strong>Žijete v&nbsp;zahraničí a trvalý pobyt máte stále v&nbsp;České republice? Jak řešit poplatky za odpady:</strong></p>
 
-<ul>
-	<li>Zjistěte, jaký poplatek zavedla obec, kde máte evidovaný trvalý pobyt. Vyhlášky obce najdete ve <a href="https://sbirkapp.gov.cz/vyhledavani">Sbírce předpisů územních samosprávných celků</a> nebo na webu obce. Případně se zeptejte přímo na úřadě.
+<p>* Zjistěte, jaký poplatek zavedla obec, kde máte evidovaný trvalý pobyt. Vyhlášky obce najdete ve <a href="https://sbirkapp.gov.cz/vyhledavani">Sbírce předpisů územních samosprávných celků</a> nebo na webu obce. Případně se zeptejte přímo na úřadě.</p>
 
-	<p>&lt;ul&gt; &lt;li&gt;Když zjistíte, že obec zavedla poplatek za obecní systém odpadového hospodářství, jste zde poplatníkem poplatku.&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;Podívejte se do obecně závazné vyhlášky, jaká osvobození od poplatku obec zavedla. &lt;ul&gt; &lt;li&gt;Pokud zjistíte, že obec osvobozuje lidi žijící v&amp;nbsp;zahraničí, musíte obecnímu úřadu ohlásit, že je to i Váš případ. Musíte také úřadu doložit, že žijete v&amp;nbsp;zahraničí. Do kdy je třeba ohlášení podat, zjistíte také z&amp;nbsp;vyhlášky.&lt;/li&gt; &lt;li&gt;Tip navíc: Pokud máte dokumenty k&amp;nbsp;pobytu v&amp;nbsp;zahraničí v&amp;nbsp;cizím jazyce, jednání s&amp;nbsp;úřadem urychlíte, když je rovnou přeložíte do češtiny.&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;V&amp;nbsp;případě, že se Vás netýká žádné osvobození od poplatku, existuje ještě možnost požádat obecní úřad o prominutí poplatku. Pamatujte ale, že prominutí poplatku je určeno jen pro výjimečné případy. Musíte proto úřadu popsat a doložit, proč právě Vám by měl obecní úřad poplatek prominout.&lt;/li&gt; &lt;li&gt;Pobýváte-li v&amp;nbsp;zahraničí dlouhodobě, zvažte také možnost ukončit trvalý pobyt v&amp;nbsp;České republice. To ale může mít vliv na další životní situace.&lt;/li&gt;</p>
-	</li>
+<ul>
+	<li>Když zjistíte, že obec zavedla poplatek za obecní systém odpadového hospodářství, jste zde poplatníkem poplatku.</li>
 </ul>
+
+<p>* Podívejte se do obecně závazné vyhlášky, jaká osvobození od poplatku obec zavedla.</p>
+
+<ul>
+	<li>Pokud zjistíte, že obec osvobozuje lidi žijící v zahraničí, musíte obecnímu úřadu ohlásit, že je to i Váš případ. Musíte také úřadu doložit, že žijete v zahraničí. Do kdy je třeba ohlášení podat, zjistíte také z vyhlášky.</li>
+	<li>Tip navíc: Pokud máte dokumenty k pobytu v zahraničí v cizím jazyce, jednání s úřadem urychlíte, když je rovnou přeložíte do češtiny.</li>
+</ul>
+
+<p>* V případě, že se Vás netýká žádné osvobození od poplatku, existuje ještě možnost požádat obecní úřad o prominutí poplatku. Pamatujte ale, že prominutí poplatku je určeno jen pro výjimečné případy. Musíte proto úřadu popsat a doložit, proč právě Vám by měl obecní úřad poplatek prominout.</p>
+
+<p>* Pobýváte-li zahraničí dlouhodobě, zvažte také možnost ukončit trvalý pobyt v České republice. To ale může mít vliv na další životní situaci.</p>
 </blockquote>
