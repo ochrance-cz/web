@@ -13,7 +13,7 @@ perex: >
   školách se podílí i veřejný ochránce práv. Nyní vzdělávání dětí se zdravotními
   problémy často komplikuje nejistota, jak mohou pomáhat třeba učitelé, a které
   úkony by měli dělat výhradně zdravotníci. To ukázal i <a
-  href="https://eso.ochrance.cz/Nalezene/Edit/12336ry_a_zdravotnich_sluzeb_ve_skolach_a_skolskych_zarizenich/">výzkum</a>
+  href="https://eso.ochrance.cz/Nalezene/Edit/12336"><strong>výzkum</strong></a>
   ombudsmana.</p>
 attachments:
   - title: "Poskytování zdravotní podpory a zdravotních služeb ve školách a
