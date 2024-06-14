@@ -51,10 +51,6 @@ perex: >
 <p><em>&bdquo;Jedno dítě v&nbsp;ústavu stojí měsíčně 50.000 korun. Handrkujeme se zde o několik milionů na činnost dětského ombudsmana, ale spočítejme si kolik je dětí v&nbsp;ústavech, které by tam být nemusely, a které může dětský ombudsman z&nbsp;tohoto ústavu dostat.&ldquo; </em></p>
 
 <p><strong>Pavlína Komedová, prezidentka Bílého kruhu bezpečí</strong></p>
-
-<p>&nbsp;</p>
-
-<p>Šíři povinností dětského ombudsmana nastínila ředitelka sekce právní Kanceláře veřejného ochránce práv Jana Gregorová: <em>&bdquo;Dětský ombudsman by měl převzít současnou dětskou agendu veřejného ochránce práv. Zároveň by se ale měl zabývat i stížnostmi na další instituce spojené s dětmi, které jsou dosud mimo naši působnost. Mohl by tak prověřovat třeba rozhodování ředitelů škol. Zahraniční zkušenosti ukazují, že právě stížnosti z oblasti školství mohou být velmi početné,&ldquo;</em> &nbsp;popsala Gregorová.</p>
 </blockquote>
 
 <p>Šíři povinností dětského ombudsmana nastínila ředitelka sekce právní Kanceláře veřejného ochránce práv Jana Gregorová: <em>&bdquo;Dětský ombudsman by měl převzít současnou dětskou agendu veřejného ochránce práv. Zároveň by se ale měl zabývat i stížnostmi na další instituce spojené s dětmi, které jsou dosud mimo naši působnost. Mohl by tak prověřovat třeba rozhodování ředitelů škol. Zahraniční zkušenosti ukazují, že právě stížnosti z oblasti školství mohou být velmi početné,&ldquo;</em> &nbsp;popsala Gregorová.</p>
