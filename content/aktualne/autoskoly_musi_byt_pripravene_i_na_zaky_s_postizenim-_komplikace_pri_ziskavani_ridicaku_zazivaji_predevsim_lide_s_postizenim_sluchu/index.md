@@ -12,7 +12,7 @@ perex: >
   manuál, jak při kurzech i zkouškách komunikovat s&nbsp;lidmi, kteří mají
   problémy se sluchem.&nbsp;</p>
 ---
-<p><em>&bdquo;Zákon nijak nebrání tomu, aby lidé s&nbsp;postižením sluchu mohli udělat zkoušky na jakýkoli druh vozidla. I díky poznatkům veřejného ochránce práv jsme ale zjistili, že autoškoly nevědí, jak s&nbsp;těmito lidmi pracovat. I to, že komisaři nevědí, jak je zkoušet,&ldquo; </em>popsal za Ministerstvo dopravy Milan Janda, z odboru agendy řidičů.</p>
+<p><em>&bdquo;Zákon nijak nebrání tomu, aby lidé s&nbsp;postižením sluchu mohli udělat zkoušky na jakýkoli druh vozidla. I díky poznatkům veřejného ochránce práv jsme ale zjistili, že autoškoly nevědí, jak s&nbsp;těmito lidmi pracovat. I to, že komisaři nevědí, jak je zkoušet,&ldquo; </em>popsal za Ministerstvo dopravy Milan Janda z odboru agendy řidičů.</p>
 
 <p><em>&bdquo;Naším cílem je, aby pokud možno každá autoškola byla schopná přijmout žáka se sluchovým postižením. Aby instruktoři věděli, jak mají s&nbsp;těmito žáky komunikovat. Samozřejmě něco podobného platí i pro zkušební komisaře,&ldquo;</em> shrnul zástupce ombudsmana Vít Alexander Schorm.</p>
 
@@ -25,7 +25,7 @@ perex: >
 
 <p>V&nbsp;Česku žije odhadem 135 tisíc lidí s postižením sluchu. Ne všichni používají v&nbsp;komunikaci mluvenou češtinu. Pro část z&nbsp;nich je mateřštinou znakový jazyk.</p>
 
-<p>Někteří lidé se sluchovým postižením upřednostňují simultánní přepis, jiní tlumočení do českého znakového jazyka. Tlumočení probíhá za přítomnosti tlumočníka na místě, nebo prostřednictvím on-line aplikací v chytrých telefonech.</p>
+<p>Někteří lidé se sluchovým postižením upřednostňují simultánní přepis, jiní tlumočení do českého znakového jazyka. Tlumočení probíhá za přítomnosti tlumočníka na místě, nebo prostřednictvím on-line aplikací například v tabletech nebo v chytrých telefonech.</p>
 
 <p>Část lidí s&nbsp;postižením sluchu při komunikaci s člověkem bez sluchového postižení odezírá z jeho rtů. Někteří mají kochleární implantát nebo používají sluchadla. S&nbsp;porozuměním jim pomáhají také indukční smyčky instalované v&nbsp;místnostech. Díky nim se zvuk přenáší přímo do implantátů a sluchadel.</p>
 </blockquote>
