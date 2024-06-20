@@ -108,3 +108,87 @@ title: "2024"
 <p><a href="https://www.ochrance.cz/info106/2024/20_2024_zadost.pdf">Žádost o informace</a>.</p>
 
 <p><a href="https://www.ochrance.cz/info106/2024/20_2024_odpoved.odt">Odpověď na žádost</a>.</p>
+
+<h3>22/2024 &ndash; Informace z&nbsp;oblasti Vězeňství</h3>
+
+<p><a href="https://www.ochrance.cz/info106/2024/22_2024_zadost.pdf">Žádost o informace</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2024/22_2024_odpoved_.odt">Odpověď na žádost</a>.</p>
+
+<p><a href="https://www.ochrance.cz/media/revidovana_evropska_vezenska_pravidla_2020_.pdf">Příloha 1</a></p>
+
+<p><a href="https://www.ochrance.cz/media/standardni_minimalni_pravidla_osn_pro_zachazeni_s_veznenymi_osobami_pravidla_nelsona_mandely_2015_.pdf">Příloha 2</a></p>
+
+<h3>24/2024 &ndash; Informace k&nbsp;počtu zaměstnanců KVOP, k&nbsp;ústavním stížnostem VOP, amicus curiae předložených VOP</h3>
+
+<p><a href="https://www.ochrance.cz/info106/2024/24_2024_zadost.pdf">Žádost o informace</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2024/24_2024_odpoved.odt">Odpověď na žádost</a>.</p>
+
+<h3>25/2024 &ndash; Informace ke spisu z&nbsp;oblasti Detence &ndash; zařízení sociálních služeb</h3>
+
+<p><a href="https://www.ochrance.cz/info106/2024/25_2024_zadost.pdf">Žádost o informace</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2024/25_2024_odpoved.odt">Odpověď na žádost</a>.</p>
+
+<p><a href="https://www.ochrance.cz/uploads-import/ESO/NZ_18_2023_Ji%C5%99%C3%ADkov_zpr%C3%A1va.pdf">Příloha</a></p>
+
+<h3>26/2024 - Informace ke spisu z&nbsp;oblasti Detence &ndash; zařízení sociálních služeb</h3>
+
+<p><a href="https://www.ochrance.cz/info106/2024/26_2024_zadost.pdf">Žádost o informace</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2024/26_2024_odpoved.odt">Odpověď na žádost</a>.</p>
+
+<p><a href="https://www.ochrance.cz/uploads-import/ESO/NZ_18_2023_Ji%C5%99%C3%ADkov_zpr%C3%A1va.pdf">Příloha</a></p>
+
+<h3>27/2024 &ndash; Informace ke spisu z&nbsp;oblasti Územní, stavební řízení, užívání stavby</h3>
+
+<p><a href="https://www.ochrance.cz/info106/2024/27_2024_zadost.pdf">Žádost o informace</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2024/27_2024_odpoved.odt">Odpověď na žádost</a>.</p>
+
+<h3>28/2024 &ndash; Informace k&nbsp;počtu podnětů VOP z&nbsp;oblasti Diskriminace</h3>
+
+<p><a href="https://www.ochrance.cz/info106/2024/28_2024_zadost.pdf">Žádost o informace</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2024/28_2024_odpoved.odt">Odpověď na žádost</a>.</p>
+
+<h3>29/2024 &ndash; Informace z&nbsp;oblasti Vězeňství</h3>
+
+<p><a href="https://www.ochrance.cz/info106/2024/29_2024_zadost.pdf">Žádost o informace</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2024/29_2024_odpoved.odt">Odpověď na žádost</a>.</p>
+
+<p><a href="https://www.podminenepropusteni.cz/zadost-o-podminene-propusteni/">Příloha 1</a></p>
+
+<p><a href="https://www.ochrance.cz/info106/2024/29_2024_odpoved_priloha2_88_trestniho_zakoniku.pdf">Příloha 2</a></p>
+
+<p><a href="https://www.zakonyprolidi.cz/cs/2009-40?text=trestn%C3%AD%20%C5%99%C3%A1d">Příloha 3</a></p>
+
+<h3>32/2024 &ndash; Informace z&nbsp;oblasti Vězeňství</h3>
+
+<p><a href="https://www.ochrance.cz/info106/2024/32_2024_zadost.pdf">Žádost o informace</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2024/32_2024_odpoved.odt">Odpověď na žádost</a>.</p>
+
+<p><a href="https://www.ochrance.cz/vystupy/edice-stanoviska/Sbornik_Vezenstvi.pdf">Příloha 1</a></p>
+
+<p><a href="https://www.ochrance.cz/uploads-import/Publikace/sborniky_stanoviska/Sbornik_Vezenstvi_II.pdf">Příloha 2</a></p>
+
+<h3>33/2024 &ndash; Informace z&nbsp;oblasti Vězeňství</h3>
+
+<p><a href="https://www.ochrance.cz/info106/2024/33_2024_zadost.pdf">Žádost o informace</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2024/33_2024_odpoved_.odt">Odpověď na žádost</a>.</p>
+
+<p><a href="https://www.ochrance.cz/vystupy/edice-stanoviska/Sbornik_Vezenstvi_II.pdf">Příloha 1</a></p>
+
+<p><a href="https://www.zakonyprolidi.cz/cs/2009-40">Příloha 2</a></p>
+
+<p><a href="https://www.zakonyprolidi.cz/cs/2009-40?text=trestn%C3%AD%20%C5%99%C3%A1d">Příloha 3</a></p>
+
+<h3>34/2024 &ndash; Informace k&nbsp;podnětům VOP z&nbsp;oblasti Diskriminace</h3>
+
+<p><a href="https://www.ochrance.cz/info106/2024/34_2024_zadost.pdf">Žádost o informace</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2024/34_2024_odpoved.odt">Odpověď na žádost</a>.</p>
