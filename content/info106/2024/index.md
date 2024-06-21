@@ -147,6 +147,8 @@ title: "2024"
 
 <p><a href="https://www.ochrance.cz/info106/2024/27_2024_odpoved.odt">Odpověď na žádost</a>.</p>
 
+<p><a href="https://www.ochrance.cz/info106/2024/27_2024_odpoved_priloha.pdf">Příloha</a></p>
+
 <h3>28/2024 &ndash; Informace k&nbsp;počtu podnětů VOP z&nbsp;oblasti Diskriminace</h3>
 
 <p><a href="https://www.ochrance.cz/info106/2024/28_2024_zadost.pdf">Žádost o informace</a>.</p>
