@@ -16,7 +16,7 @@ perex: >
 attachments:
   - title: Usnesení poradního orgánu k vymezení sociálních služeb komunitního
       charakteru
-    file: https://www.ochrance.cz/aktualne/komunitni_socialni_sluzby_musi_definovat_primo_zakon_shodl_se_poradni_organ_ombudsmana_pro_oblast_prav_lidi_s_postizenim/usneseni_po_k_vymezeni_socialnich_sluzeb_komunitniho_charakteru.pdf
+    file: https://www.ochrance.cz/aktualne/komunitni_socialni_sluzby_musi_definovat_primo_zakon_shodl_se_poradni_organ_ombudsmana_pro_oblast_prav_lidi_s_postizenim/usneseni_2024_15_k_vymezeni_socialnich_sluzeb_komunitniho_charakteru.pdf
   - title: Memorandum k deinstitucionalizaci
     file: https://www.ochrance.cz/aktualne/komunitni_socialni_sluzby_musi_definovat_primo_zakon_shodl_se_poradni_organ_ombudsmana_pro_oblast_prav_lidi_s_postizenim/memorandum_-_deinstitucionalizace.pdf
 ---
