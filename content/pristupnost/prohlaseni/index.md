@@ -1,5 +1,5 @@
----                                                                                                                                                                                      ---
-title: "Prohlášení o přístupnosti webu ochrance.cz"
+---
+title: Prohlášení o přístupnosti webu ochrance.cz
 ---
 
 Kancelář veřejného ochránce práv se zavazuje ke zpřístupnění obsahu svých internetových stránek v souladu se [zákonem č. 99/2019 Sb.](https://www.zakonyprolidi.cz/cs/2019-99), o přístupnosti internetových stránek a mobilních aplikací a o změně zákona č. 365/2000 Sb., o informačních systémech veřejné správy a o změně některých dalších zákonů, ve znění pozdějších předpisů, které provádějí směrnici Evropského parlamentu a Rady (EU) 2016/2102.
