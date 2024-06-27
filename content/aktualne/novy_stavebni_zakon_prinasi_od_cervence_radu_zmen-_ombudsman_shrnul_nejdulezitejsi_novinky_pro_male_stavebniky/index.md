@@ -22,7 +22,7 @@ attachments:
 
 <p>Lidé se také budou moci úřadů už <a href="https://www.zakonyprolidi.cz/cs/2021-283/zneni-20270101#cast6-hlava2-dil1">předem nezávazně dotázat</a>, jak budou jejich žádost posuzovat. Díky této předběžné informaci si mohou zjistit, za jakých podmínek mohou předpokládat, že úřad jejich žádosti vyhoví.</p>
 
-<p>Urychlení by mohla přinést i <a href="https://www.zakonyprolidi.cz/cs/2021-283/zneni-20270101#cast6-hlava3-dil7">speciální pravidla pro odvolací řízení</a>. Dosud někteří stavebníci zažívali při odvolání takzvaný úřední pink-pong. Odvolací stavební úřady musely leckdy opakovaně rušit původní rozhodnutí a vracely je k&nbsp;novému projednání. Podle nového stavebního zákona budou moci rozhodnutí přímo změnit.</p>
+<p>Urychlení by mohla přinést i <a href="https://www.zakonyprolidi.cz/cs/2021-283/zneni-20270101#cast6-hlava3-dil7">speciální pravidla pro odvolací řízení</a>. Dosud někteří stavebníci zažívali při odvolání takzvaný úřední ping-pong. Odvolací stavební úřady musely leckdy opakovaně rušit původní rozhodnutí a vracely je k&nbsp;novému projednání. Podle nového stavebního zákona budou moci rozhodnutí přímo změnit.</p>
 
 <p><em>&bdquo;Zákon také nově počítá s&nbsp;tím, že by lidé mohli žádost o stavební povolení celou vyřídit elektronicky. Tady ale stát zaspal. Dosud nejsou dostatečně připravené informační systémy tak, aby skrze ně mohly komunikovat úřady mezi sebou i s&nbsp;účastníky řízení,&ldquo;</em> poukázal ombudsman Stanislav Křeček na skutečnost, že nezbytná vyhláška k&nbsp;informačním systémům se přijímá na poslední chvíli.</p>
 
