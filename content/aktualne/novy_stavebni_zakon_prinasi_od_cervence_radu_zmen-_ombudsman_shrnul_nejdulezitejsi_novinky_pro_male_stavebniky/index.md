@@ -24,7 +24,7 @@ attachments:
 
 <p>Urychlení by mohla přinést i <a href="https://www.zakonyprolidi.cz/cs/2021-283/zneni-20240701#cast6-hlava3-dil7">speciální pravidla pro odvolací řízení</a>. Dosud někteří stavebníci zažívali při odvolání takzvaný úřední ping-pong. Odvolací stavební úřady musely leckdy opakovaně rušit původní rozhodnutí a vracely je k&nbsp;novému projednání. Podle nového stavebního zákona budou moci rozhodnutí přímo změnit.</p>
 
-<p><em>&bdquo;Zákon také nově počítá s&nbsp;tím, že by lidé mohli žádost o stavební povolení celou vyřídit elektronicky. Tady ale stát zaspal. Dosud nejsou dostatečně připravené informační systémy tak, aby skrze ně mohly komunikovat úřady mezi sebou i s&nbsp;účastníky řízení,&ldquo;</em> poukázal ombudsman Stanislav Křeček na skutečnost, že nezbytná vyhláška k&nbsp;informačním systémům se přijímá na poslední chvíli.</p>
+<p><em>&bdquo;Zákon také nově počítá s&nbsp;tím, že by lidé mohli žádost o stavební povolení celou vyřídit elektronicky. Tady ale stát zaspal. Dosud nejsou dostatečně připravené informační systémy tak, aby skrze ně mohly komunikovat úřady mezi sebou i s&nbsp;účastníky řízení,&ldquo;</em> poukázal ombudsman Stanislav Křeček na skutečnost, že nezbytná vyhláška k&nbsp;<a href="https://www.zakonyprolidi.cz/cs/2021-283/zneni-20240701#cast7">informačním systémům</a> se přijímá na poslední chvíli.</p>
 
 <p>Žádosti o povolení například rodinných domů či rekreačních objektů podané do konce června budou úřady vyřizovat podle starého stavebního zákona. Praktické rady pro tyto případy lidé najdou na speciálním webu ombudsmana <a href="https://domek.ochrance.cz/">Domek polopatě</a>. Tým právníků veřejného ochránce práv připravuje aktualizaci tohoto praktického průvodce stavbou rodinného domu.</p>
 
