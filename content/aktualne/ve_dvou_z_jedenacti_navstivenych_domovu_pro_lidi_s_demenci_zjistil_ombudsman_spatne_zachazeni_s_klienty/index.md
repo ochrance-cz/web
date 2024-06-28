@@ -16,7 +16,7 @@ perex: >
   intenzity špatného zacházení.</p>
 attachments: []
 ---
-<p><em>&bdquo;Péče o člověka s&nbsp;demencí je specifická. Personál musí vycházet z odborných poznatků o onemocnění a brát ohled na to, v&nbsp;jakém stadiu nemoci se dotyčný nachází. Intuitivní a neodborný přístup může přímo zhoršovat obtíže klienta nebo mu dokonce působit utrpení. V&nbsp;aktuálně ukončené sérii návštěv jsme se s&nbsp;kolegy zaměřili právě na zařízení poskytující péči lidem se syndromem demence. Chtěli jsme ověřit, jak s&nbsp;touto skupinou klientů v&nbsp;zařízeních pracují a upozornit na možná rizika,&ldquo;</em> popsal zástupce ombudsmana Vít Alexander Schorm. O zjištěních z&nbsp;návštěv veřejný ochránce práv vždy informoval vedení zařízení a doporučil, jak by se měla praxe v&nbsp;zařízení změnit.</p>
+<p><em>&bdquo;Péče o člověka s&nbsp;demencí je specifická. Personál musí vycházet z odborných poznatků o onemocnění a brát ohled na to, v&nbsp;jakém stadiu nemoci se dotyčný nachází. Intuitivní a neodborný přístup může přímo zhoršovat obtíže klienta nebo mu dokonce působit utrpení. V&nbsp;aktuálně ukončené sérii návštěv jsme se s&nbsp;kolegy zaměřili právě na zařízení poskytující péči lidem se syndromem demence. Chtěli jsme ověřit, jak s&nbsp;touto skupinou klientů v&nbsp;zařízeních pracují, a upozornit na možná rizika,&ldquo;</em> popsal zástupce ombudsmana Vít Alexander Schorm. O zjištěních z&nbsp;návštěv veřejný ochránce práv vždy informoval vedení zařízení a doporučil, jak by se měla praxe v&nbsp;zařízení změnit.</p>
 
 <p>Špatné zacházení odhalili pracovníci Kanceláře ombudsmana ve dvou zařízeních. V&nbsp;obou se jednalo o pochybení ve více oblastech. Právě kvůli nahromadění problémů již pochybení dosáhla intenzity špatného zacházení.</p>
 
