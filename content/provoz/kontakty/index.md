@@ -242,11 +242,11 @@ lawyers:
         role: právnička (důchody, dávky s cizím prvkem, nemocenské pojištění)
         phone: 542 542 369
         email: katerina.pavlickova@ochrance.cz
-      - name: Ivana Rejzková
+      - name: Ivana Polášková
         role: právnička (dávky pomoci v hmotné nouzi, dávky pro osoby se zdravotním
           postižením, dávky státní sociální podpory)
         phone: 542 542 387
-        email: ivana.rejzkova@ochrance.cz
+        email: ivana.polaskova@ochrance.cz
       - name: Zuzana Ščuková
         role: právnička (dávky pomoci v hmotné nouzi, státní sociální podpora, dávky pro
           osoby se zdravotním postižením)
