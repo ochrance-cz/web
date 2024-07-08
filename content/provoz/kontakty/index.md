@@ -302,10 +302,6 @@ lawyers:
         role: právnička (věci cizinců)
         phone: 542 542 229
         email: veronika.vichova@ochrance.cz
-      - name: Eva Burianová Ehnertová
-        role: právnička (státní správa soudů)
-        phone: 542 542 357
-        email: eva.burianovaehnertova@ochrance.cz
       - name: Linda Janků
         role: právnička (věci cizinců)
         phone: "542 542 318 "
@@ -471,10 +467,6 @@ lawyers:
         role: právnička
         phone: 542 542 286
         email: adela.fredy@ochrance.cz
-      - name: Tereza Hanelová
-        role: právnička
-        phone: 542 542 337
-        email: tereza.hanelova@ochrance.cz
       - name: Štěpán Jílka
         role: právník
         phone: 542 542 284
@@ -541,6 +533,10 @@ lawyers:
         role: právník
         phone: 542 542 201
         email: karel.lach@ochrance.cz
+      - name: Margareta Baranová
+        role: "právnička "
+        phone: 542 542 274
+        email: margareta.baranova@ochrance.cz
   - title: Odbor metodiky a analýzy
     people:
       - name: Jaroslav Švoma
