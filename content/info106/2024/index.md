@@ -197,38 +197,66 @@ title: "2024"
 
 <h3>35/2024 &ndash; informace ke spisu z oblasti Ovzduší, chemické látky, odpady a obaly</h3>
 
-<p>ž</p>
+<p><a href="https://www.ochrance.cz/info106/2024/35_2024_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>o</p>
+<p><a href="https://www.ochrance.cz/info106/2024/35_2024_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <h3>36/2024 &ndash; informace z oblasti Sociální zabezpečení a Vězeňství</h3>
 
-<p>ž</p>
+<p><a href="https://www.ochrance.cz/info106/2024/36_2024.pdf">Žádost o informace</a>.</p>
 
-<p>o</p>
+<p><a href="https://www.ochrance.cz/info106/2024/36_2024_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <h3>37/2024 &ndash; informace ke spisům z oblasti Péče o zdraví</h3>
 
-<p>ž</p>
+<p><a href="https://www.ochrance.cz/info106/2024/37_2024_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>o</p>
+<p><a href="https://www.ochrance.cz/info106/2024/37_2024_odpoved.odt">Odpověď na žádost</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2024/37_2024_odpoved_priloha_vyjadreni_ku_jihoceskeho_kraje.pdf">Příloha 1</a></p>
+
+<p><a href="https://www.ochrance.cz/info106/2024/37_2024_odpoved_priloha_vyjadreni_ku_jihomoravskeho_kraje.pdf">Příloha 2</a></p>
+
+<p><a href="https://www.ochrance.cz/info106/2024/37_2024_odpoved_priloha_vyjadreni_ku_karlovarskeho_kraje.pdf">Příloha 3</a></p>
+
+<p><a href="https://www.ochrance.cz/info106/2024/37_2024_odpoved_priloha_vyjadreni_ku_kraje_vysocina.pdf">Příloha 4</a></p>
+
+<p><a href="https://www.ochrance.cz/info106/2024/37_2024_odpoved_priloha_vyjadreni_ku_kralovehradeckeho_kraje.pdf">Příloha 5</a></p>
+
+<p><a href="https://www.ochrance.cz/info106/2024/37_2024_odpoved_priloha_vyjadreni_ku_libereckeho_kraje.pdf">Příloha 6</a></p>
+
+<p><a href="https://www.ochrance.cz/info106/2024/37_2024_odpoved_priloha_vyjadreni_ku_moravskoslezskeho_kraje.pdf">Příloha 7</a></p>
+
+<p><a href="https://www.ochrance.cz/info106/2024/37_2024_odpoved_priloha_vyjadreni_ku_olomouckeho_kraje.pdf">Příloha 8</a></p>
+
+<p><a href="https://www.ochrance.cz/info106/2024/37_2024_odpoved_priloha_vyjadreni_ku_pardubickeho_krjae.pdf">Příloha 9</a></p>
+
+<p><a href="https://www.ochrance.cz/info106/2024/37_2024_odpoved_priloha_vyjadreni_ku_plzenskeho_kraje.pdf">Příloha 10</a></p>
+
+<p><a href="https://www.ochrance.cz/info106/2024/37_2024_odpoved_priloha_vyjadreni_ku_stredoceskeho_kraje.pdf">Příloha 11</a></p>
+
+<p><a href="https://www.ochrance.cz/info106/2024/37_2024_odpoved_priloha_vyjadreni_ku_usteckeho_kraje.pdf">Příloha 12</a></p>
+
+<p><a href="https://www.ochrance.cz/info106/2024/37_2024_odpoved_priloha_vyjadreni_ku_zlinskeho_kraje.pdf">Příloha 13</a></p>
+
+<p><a href="https://www.ochrance.cz/info106/2024/37_2024_odpoved_priloha_vyjadreni_mhmp.pdf">Příloha 14</a></p>
 
 <h3>39/2024 &ndash; informace z pracovně-právní oblasti KVOP</h3>
 
-<p>ž</p>
+<p><a href="https://www.ochrance.cz/info106/2024/39_2024_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>o</p>
+<p><a href="https://www.ochrance.cz/info106/2024/39_2024_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <h3>41/2024 &ndash; informace z oblasti Vězeňství</h3>
 
-<p>ž</p>
+<p><a href="https://www.ochrance.cz/info106/2024/41_2024_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>o</p>
+<p><a href="https://www.ochrance.cz/info106/2024/41_2024_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <p><a href="https://www.ochrance.cz/vystupy/edice-stanoviska/Sbornik_Vezenstvi_II.pdf">Příloha</a></p>
 
 <h3>42/2024 &ndash; statistické informace k žádostem o informace</h3>
 
-<p>ž</p>
+<p><a href="https://www.ochrance.cz/info106/2024/42_2024_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>o</p>
+<p><a href="https://www.ochrance.cz/info106/2024/42_2024_odpoved.odt">Odpověď na žádost</a>.</p>
