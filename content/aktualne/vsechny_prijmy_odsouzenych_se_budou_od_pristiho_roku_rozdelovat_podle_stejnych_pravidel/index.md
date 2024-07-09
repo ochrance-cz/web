@@ -12,7 +12,7 @@ perex: >
   vyhlášky na splátky dluhů, zbylých 28 % budou mít vězni pro vlastní potřebu.
   To je zásadní změna pro zadlužené odsouzené s&nbsp;příjmy mimo věznici. Dosud
   totiž všechny jejich peníze mířily právě na splátky dluhů. Ombudsmanovi se
-  v&nbsp;posledních letech svěřily desítky odsouzených, kteří se ocitali zcela
+  v&nbsp;posledních letech svěřily desítky odsouzených, kteří se ocitaly zcela
   bez prostředků například na léky nebo základní hygienické potřeby. Ombudsman
   změnu pravidel prosazoval už od roku 2018.&nbsp;</p>
 attachments:
