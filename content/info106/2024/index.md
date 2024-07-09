@@ -194,3 +194,41 @@ title: "2024"
 <p><a href="https://www.ochrance.cz/info106/2024/34_2024_zadost.pdf">Žádost o informace</a>.</p>
 
 <p><a href="https://www.ochrance.cz/info106/2024/34_2024_odpoved.odt">Odpověď na žádost</a>.</p>
+
+<h3>35/2024 &ndash; informace ke spisu z oblasti Ovzduší, chemické látky, odpady a obaly</h3>
+
+<p>ž</p>
+
+<p>o</p>
+
+<h3>36/2024 &ndash; informace z oblasti Sociální zabezpečení a Vězeňství</h3>
+
+<p>ž</p>
+
+<p>o</p>
+
+<h3>37/2024 &ndash; informace ke spisům z oblasti Péče o zdraví</h3>
+
+<p>ž</p>
+
+<p>o</p>
+
+<h3>39/2024 &ndash; informace z pracovně-právní oblasti KVOP</h3>
+
+<p>ž</p>
+
+<p>o</p>
+
+<h3>41/2024 &ndash; informace z oblasti Vězeňství</h3>
+
+<p>ž</p>
+
+<p>o</p>
+
+<p><a href="https://www.ochrance.cz/vystupy/edice-stanoviska/Sbornik_Vezenstvi_II.pdf">Příloha</a></p>
+
+<h3>42/2024 &ndash; statistické informace k žádostem o informace</h3>
+
+<p>ž</p>
+
+<p>o</p>
