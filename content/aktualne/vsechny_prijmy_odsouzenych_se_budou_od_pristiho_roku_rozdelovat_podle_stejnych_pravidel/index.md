@@ -16,7 +16,7 @@ perex: >
   bez prostředků například na léky nebo základní hygienické potřeby. Ombudsman
   změnu pravidel prosazoval už od roku 2018.&nbsp;</p>
 attachments:
-  - title: "Podcast Na kávu s ombudsmanem: 59. díl - Peníze ve vězení "
+  - title: "Podcast Na kávu s ombudsmanem: 59. díl: Peníze ve vězení "
     file: https://www.youtube.com/watch?v=pp3zdtwJT38&t=7s
 ---
 <p>Dosud pro nakládání s&nbsp;penězi odsouzených chyběla jasná pravidla. Praxe ve věznicích se měnila i podle aktuálních rozhodnutí soudů. <em>&bdquo;Aktuálně všechny příjmy mimo věznici míří na splátky dluhů. V&nbsp;minulosti ale dokonce jednu dobu panoval opačný extrém, kdy vězňům naopak neodcházely na úhradu jejich dluhů žádné peníze. To samozřejmě bylo nepříjemné pro věřitele,&ldquo;</em> popsal právník Jiří Matuška, který se v&nbsp;Kanceláři veřejného ochránce práv už déle než jedenáct let specializuje na práva lidí omezených na osobní svobodě.</p>
