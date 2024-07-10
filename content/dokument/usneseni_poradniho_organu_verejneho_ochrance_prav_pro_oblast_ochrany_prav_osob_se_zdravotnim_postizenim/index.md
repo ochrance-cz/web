@@ -1,7 +1,6 @@
 ---
-title: Usnesení poradního orgánu veřejného ochránce práv pro oblast ochrany práv
-  osob se zdravotním postižením
-perex: k čl. 27 Úmluvy
+title: Usnesení k čl. 27 Úmluvy
+perex: 27. ledna 2021 (2. zasedání)
 date: 2021-01-27T16:21:50.661Z
 vystupy:
   - poradni-organ-crpd
