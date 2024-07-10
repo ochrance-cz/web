@@ -1,0 +1,8 @@
+---
+title: Usnesení k prioritám pro rok 2022
+perex: 15. prosince 2021 (6. zasedání)
+date: 2021-12-15T12:12:03.282Z
+attachmentsTop:
+  - title: Usnesení poradního orgánu veřejného ochránce práv pro oblast ochrany práv
+      osob se zdravotním postižením k prioritám pro rok 2022
+---
