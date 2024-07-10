@@ -1,7 +1,6 @@
 ---
-title: "Usnesení poradního orgánu veřejného ochránce práv pro oblast ochrany
-  práv osob se zdravotním postižením "
-perex: k novele zákona o soc. službách (Poslanecká sněmovna)
+title: Usnesení k novele zákona o soc. službách (Poslanecká sněmovna)
+perex: 28. dubna 2021 (přijaté po projednání na 3. zasedání hlasováním mimo zasedání)
 date: 2021-04-28T14:26:16.569Z
 vystupy:
   - poradni-organ-crpd
