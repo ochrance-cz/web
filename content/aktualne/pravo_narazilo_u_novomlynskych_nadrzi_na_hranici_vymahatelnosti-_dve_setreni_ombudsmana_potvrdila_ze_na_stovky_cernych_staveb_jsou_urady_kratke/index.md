@@ -14,7 +14,7 @@ perex: >
   Po upozornění veřejného ochránce práv se do řešení léta rostoucího problému
   zapojí krajský úřad i Ministerstvo pro místní rozvoj. Ombudsman zároveň v <a
   href="https://eso.ochrance.cz/Nalezene/Edit/13022">druhém&nbsp;samostatném
-  šetření</a> prověřoval postup&nbsp; Městského úřadu v&nbsp;Břeclavi, a to
+  šetření</a> prověřoval postup Městského úřadu v&nbsp;Břeclavi, a to
   v&nbsp;souvislosti s&nbsp;ochranou životního prostředí v&nbsp;lokalitě
   zasažené černou výstavbou. Břeclavský odbor životního prostředí ani po
   opakovaných urgencích ombudsmana situaci na místě nezkontroloval ani
