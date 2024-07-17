@@ -495,6 +495,10 @@ lawyers:
         role: právník
         phone: 542 542 330
         email: jan.spilka@ochrance.cz
+      - name: Hana Poláková
+        role: "právnička "
+        phone: 542 542 337
+        email: hana.polakova@ochrance.cz
   - title: Odbor ochrany práv osob se zdravotním postižením
     people:
       - name: Romana Jakešová
