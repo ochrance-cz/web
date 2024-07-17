@@ -7,5 +7,5 @@ vystupy:
 attachmentsTop:
   - title: Usnesení poradního orgánu veřejného ochránce práv pro oblast ochrany práv
       osob se zdravotním postižením k prioritám pro rok 2023
-    file: https://www.ochrance.cz/dokument/usneseni_2023_10_k_prioritam_2023.pdf
+    file: https://www.ochrance.cz/dokument/usneseni_k_prioritam_pro_rok_2023/usneseni_2023_10_k_prioritam_2023.pdf
 ---
