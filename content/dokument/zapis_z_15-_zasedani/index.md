@@ -1,6 +1,6 @@
 ---
 title: Zápis z 15. zasedání
-perex: 20. 06. 2024
+perex: 20. června 2024
 date: 2024-06-20T12:15:47.331Z
 vystupy:
   - poradni-organ-crpd
