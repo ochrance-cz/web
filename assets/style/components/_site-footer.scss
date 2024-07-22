@@ -163,6 +163,14 @@
     margin-right: 1rem;
   }
 
+  .linkedin-label::before {
+    @include fa-icon($fa-var-linkedin);
+    font-family: 'FontAwesome-Brands';
+    width: 2rem;
+    top: 0;
+    margin-right: 1rem;
+  }
+
   .phone-label::before {
     @include fa-icon($fa-var-phone-alt);
     width: 2rem;
