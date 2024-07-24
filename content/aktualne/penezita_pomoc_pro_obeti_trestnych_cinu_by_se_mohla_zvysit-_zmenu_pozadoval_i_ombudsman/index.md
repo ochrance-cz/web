@@ -10,7 +10,7 @@ perex: >
   organizace zaměřené na pomoc obětem. Zvýšení pomoci i rozšíření okruhu jejích
   příjemců o druhy a družky přináší poslanecký návrh, který v&nbsp;rámci změny
   zákona o soudech a soudcích mění také zákon o obětech trestných činů. Novelu
-  ná na programu dnešního jednání vláda.</p>
+  má na programu dnešního jednání vláda.</p>
 attachments:
   - title: "Tisková zpráva – 22. 2. 2024 "
     file: https://www.ochrance.cz/aktualne/penezita_pomoc_obetem_trestnych_cinu_zustava_uz_deset_let_stejna-_na_miste_je_jeji_zvyseni_shoduje_se_zastupce_ombudsmana_s_pomahajicimi_organizacemi/
