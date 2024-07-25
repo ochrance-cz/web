@@ -13,6 +13,6 @@ attachments:
   - title: "The most frequent cases of workplace discrimination and how to avoid
       them: practical guide for employers regarding equal treatment"
     file: https://www.ochrance.cz/uploads-import/ESO/the_most_frequent_cases_of_workplace_discrimination_and_how_to_avoid_them_-_practical_guide.pdf
-  - title: "Shorter version of the guide: How to avoid workplace discrimination"
+  - title: "Summary of the guide: How to avoid workplace discrimination"
     file: https://www.ochrance.cz/uploads-import/ESO/DIS%2072-2023%20ENG%20-%20kopie.pdf
 ---
