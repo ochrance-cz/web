@@ -19,4 +19,5 @@ aktuality:
   - vyzkumy
   - pozvanka
   - newsletter
+  - aktualita
 ---
