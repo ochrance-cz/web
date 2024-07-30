@@ -17,6 +17,8 @@ perex: >
 attachments:
   - title: Kasační stížnost ze dne 3. 7. 2024
     file: https://www.ochrance.cz/aktualne/o_planovane_stavbe_santovka_tower_v_olomouci_bude_podruhe_rozhodovat_nejvyssi_spravni_soud_ombudsman_podal_kasacni_stiznost/kasacni_stiznost_vop.pdf
+  - file: https://www.ochrance.cz/aktualne/o_planovane_stavbe_santovka_tower_v_olomouci_bude_podruhe_rozhodovat_nejvyssi_spravni_soud_ombudsman_podal_kasacni_stiznost/usneseni_ks_ostrava_65_a_18-2020_20.3.2024_.pdf
+    title: Usnesení Krajského soudu v Ostravě - pobočka v Olomouci
   - title: Tisková zpráva ze dne 24. 1. 2024 – Nejvyšší správní soud vyhověl kasační
       stížnosti
     file: https://www.ochrance.cz/aktualne/spor_kolem_vyskove_stavby_santovka_tower_v_olomouci_se_vraci_pred_krajsky_soud-_nejvyssi_spravni_soud_vyhovel_stiznosti_ombudsmana/
