@@ -147,4 +147,206 @@ sections:
           <p>Odbor životního prostředí stále neprovedl žádné kontroly na místě, které nám opakovaně sliboval. Nepředložil ani harmonogram kontrolních prohlídek pro&nbsp;rok 2024, který jsme po něm požadovali.</p>
         title: "Úřady nestíhají řešit nepovolené stavby u Novomlýnských nádrží "
         id: 2536/2021/VOP a 269/2023/VOP
+  - title: Pomohli jsme vyjasnit právní úpravu
+    articles:
+      - body: >
+          <blockquote>
+
+          <p>Pokud pacient k&nbsp;životu potřebuje zdravotní péči, která není marná (zbytečná), musí ji dostat (i bez souhlasu), ledaže ji odmítne. Jeho odmítnutí musí být informované (musí dostat informace a&nbsp;vysvětlení) a&nbsp;svobodné (musí se rozhodnout sám). Pokud pacient není takového rozhodnutí schopen (často kvůli svému onemocnění) a&nbsp;dříve takové přání nevyslovil (podle &sect;&nbsp;38 občanského zákoníku), nemůže tuto péči odmítnout jeho opatrovník, blízcí, ani lékaři. Pokud předpokládají, že&nbsp;by takovou péči odmítl, musejí požádat soud, aby to schválil (podle &sect;&nbsp;101 občanského zákoníku).</p>
+
+          </blockquote>
+
+
+          <p>V Psychiatrické nemocnici v&nbsp;Jihlavě pobývá od&nbsp;roku 2016 pacientka s&nbsp;demencí v&nbsp;pokročilém stádiu. Její zdravotní stav se stále zhoršuje. Nyní již jen leží a&nbsp;s&nbsp;okolím se dorozumívá jen křikem. Na&nbsp;její zdravotnické dokumentaci byl nalepený lístek s&nbsp;pokynem &bdquo;nezachraňovat za&nbsp;každou cenu, rodina si nepřeje [vyjmenované zdravotní úkony]&ldquo;. To by například znamenalo, že&nbsp;kdyby již nebyla schopna sama polykat, nemocnice by jí do&nbsp;žaludku nezavedla sondu, kterou by ji krmila, a&nbsp;nechala by ji tedy umřít hlady. Pacientka již není schopna vyjádřit svou vůli (odmítnout výživu sondou) a&nbsp;dříve nevyslovila takové přání. Nemocnice vychází z&nbsp;přání rodiny, která uvedla, že&nbsp;by si pacientka nepřála prodlužovat takový život.</p>
+
+
+          <p>Nemocnici jsme vysvětlili, že&nbsp;pacientce musí poskytnout zdravotní péči, kterou potřebuje k&nbsp;životu, tedy, že&nbsp;se nemůže řídit přáním rodiny, ale jedině rozhodnutím soudu. Ani soudy ale pro&nbsp;své rozhodování nemají pravidla, protože české zákony neurčují podmínky pro&nbsp;ukončení zdravotní péče, která udržuje při&nbsp;životě pacienty, kteří tuto péči nemohou odmítnout. Na&nbsp;to jsme upozornili Ministerstvo zdravotnictví. Tato pravidla přitom musejí dodržet právo na&nbsp;život podle článku 2 Úmluvy o&nbsp;ochraně lidských práv a&nbsp;základních svobod. Například jako francouzská úprava (více v&nbsp;rozsudku Evropského soudu pro&nbsp;lidská práva <a href="http://eslp.justice.cz/justice/judikatura_eslp.nsf/0/6248E2A0AE97F911C1257EEE003CE4F3/$file/Lambert%20a%20ostatn%C3%AD%20proti%20Francii_anotace.pdf?open&amp;">Lambert proti Francii</a>). Ministerstvo zdravotnictví přislíbilo, že&nbsp;zajistí doplnění pravidel do&nbsp;zákona.</p>
+        title: "Pokud pacient není schopen odmítnout zdravotní péči, která ho udrží
+          naživu, musí odmítnutí péče nebo její ukončení schválit soud "
+        id: 9/2023/NZ
+        eso: https://eso.ochrance.cz/Nalezene/Edit/12920
+      - body: >
+          <blockquote>
+
+          <p>Podle zákona trvá noční klid od 22 do 6 hodin. Ve výjimečných případech ale obec může vyhláškou tento klid zkrátit nebo zrušit (&sect; 5 odst. 7 zákona č. 251/2016 Sb.). Podmínku výjimečnosti neporuší ani obec, která výjimku z nočního klidu určí pro 32 nocí za rok.</p>
+
+          </blockquote>
+
+
+          <p>Navrhli jsme Ústavnímu soudu, aby zrušil vyhlášku obce Píšť, která stanovila 32 výjimek z nočního klidu, a to hlavně pro víkendové noci od dubna do října. Tento počet výjimek jsme již nepovažovali za &bdquo;výjimečný&ldquo;.</p>
+
+
+          <p>Ústavní soud návrh zamítl, protože 32 nocí za rok (desetinu) považuje za výjimečný případ. Zkoumal i dodržení ostatních pravidel pro vyhlášku. Podle Ministerstva vnitra takto obce postupují běžně. Více v nálezu Ústavního soudu sp. zn. <a href="https://www.usoud.cz/fileadmin/user_upload/Tiskova_mluvci/Publikovane_nalezy/2024/Pl._U__S_44-23_AN.pdf">Pl. ÚS 44/23</a>.</p>
+        title: "Obec může omezit noční klid i na 32 nocí za rok "
+        id: 16/2023/SZD
+        eso: https://eso.ochrance.cz/Nalezene/Edit/12254
+  - title: Radili jsme v diskriminačních věcech
+    articles:
+      - body: >
+          <blockquote>
+
+          <p>Obec může uchazeče o&nbsp;nájem bytu žádat, aby prokázal, že&nbsp;má určitý příjem. Pokud se tento příjem zvyšuje s&nbsp;počtem členů domácnosti, musí rozlišovat mezi dospělými a&nbsp;nezaopatřenými dětmi. Jinak žadatele diskriminuje z&nbsp;důvodu pohlaví, kam patří i&nbsp;rodičovství. Jde o&nbsp;nepřímou diskriminaci podle <a href="https://www.zakonyprolidi.cz/cs/2009-198#p3-1">&sect; 3 odst.&nbsp;1 antidiskriminačního zákona</a>, protože zdánlivě neutrální pravidlo (příjem podle počtu lidí) vede k&nbsp;horšímu zacházení s&nbsp;rodinami s&nbsp;(více) dětmi a&nbsp;samoživiteli.</p>
+
+          </blockquote>
+
+
+          <p>Stěžovatelka sama pečuje o&nbsp;dvě děti. Požádala o&nbsp;obecní byt. Pravidla městské části umožňují pronajmout byt jen lidem, jejichž příjem dosáhne určité částky podle počtu členů domácnosti. Tato pravidla ale nerozlišují mezi dospělými a&nbsp;nezaopatřenými dětmi. Stěžovatelka jako samoživitelka dvou dětí takto určený příjem nemá, proto nezískala nájem obecního bytu. Přestože již nyní platí vyšší nájem, než by měla v&nbsp;obecním bytě.</p>
+
+
+          <p>Městské části jsme vysvětlili, že&nbsp;svými pravidly pro&nbsp;nájem bytů nepřímo diskriminuje stěžovatelku i&nbsp;ostatní žadatele v&nbsp;podobné situaci. Doporučili jsme jí, aby každou žádost o&nbsp;byt posoudila jednotlivě a&nbsp;porovnala příjmy rodiny s&nbsp;náklady na&nbsp;bydlení v&nbsp;konkrétním obecním bytě. Do&nbsp;příjmů rodiny musí započítat i&nbsp;dávky na&nbsp;bydlení, které žadatel má nebo může dostat.</p>
+        title: "Obce nesmějí při pronajímání bytů diskriminovat rodiny s dětmi a
+          samoživitele "
+        id: 5683/2023/VOP
+        eso: https://eso.ochrance.cz/Nalezene/Edit/13008
+      - body: >
+          <blockquote>
+
+          <p>Zaměstnance, který se vrací po&nbsp;rodičovské dovolené nebo navazujícím neplaceném volnu kvůli nezbytné péči o dítě, musí zaměstnavatel zařadit na&nbsp;stejné nebo rovnocenné pracovní místo (<em>podle pracovní náplně</em>) se stejnými nebo lepšími pracovními podmínkami (<em>pracovní režim, flexibilita práce, výše mzdy/platu, benefity</em>). Pokud ho zařadí na&nbsp;jiné místo nebo mu dá horší pracovní podmínky, jde o&nbsp;méně příznivé zacházení, tedy o&nbsp;diskriminaci kvůli pohlaví (<em>zahrnuje i rodičovství</em>).</p>
+
+          </blockquote>
+
+
+          <p>Stěžovatelka se vracela do práce po mateřské a rodičovské dovolené a navazujícím neplaceném volnu kvůli tomu, že její dítě nepřijali do školky. Zaměstnavatel ji chtěl zařadit na&nbsp;pracovní místo, na kterém by vykonávala podstatně méně kvalifikovanou práci. Obávala se proto i snížení platu. Se zaměstnavatelem se pak dohodla na skončení pracovního poměru.</p>
+
+
+          <p>Zaměstnavateli jsme vysvětlili, že stěžovatelku diskriminoval. Stěžovatelka by nyní u&nbsp;soudu mohla žádat omluvu a finanční zadostiučinění za diskriminaci. Zaměstnavatel s&nbsp;našimi závěry nesouhlasí.</p>
+        title: "Diskriminací může být i přidělení méně odborné a proto hůře placené
+          práce "
+        id: 4550/2023/VOP
+        eso: https://eso.ochrance.cz/Nalezene/Edit/13012
+      - body: >
+          <blockquote>
+
+          <p>Vzdělávací společnost poskytující rekvalifikační kurzy musí neslyšícímu zájemci zajistit převod mluveného slova do textu pomocí online přepisu, pokud to pro ni není nepřiměřeně zatěžující (<a href="https://www.zakonyprolidi.cz/cs/2009-198#p3-2">&sect; 3 odst. 2</a> antidiskriminačního zákona).</p>
+
+          </blockquote>
+
+
+          <p>Vzdělávací společnost odmítla účast neslyšícího člověka na IT rekvalifikačním kurzu, protože potřeboval online přepis. Ten podle společnosti nebylo možné zajistit.</p>
+
+
+          <ul>
+          	<li>Přepisovatel by nezvládl odborné a anglické výrazy IT výkladu.</li>
+          	<li>Přepis by nebyl úplný kvůli občasným výpadkům internetu v&nbsp;učebně.</li>
+          	<li>Společnost by se musela nákladně chránit před neoprávněným šířením přepisu (speciální smlouvou navrženou advokátní kanceláří).</li>
+          </ul>
+
+
+          <p>Oslovili jsme organizace, které se zabývají přepisem pro neslyšící. Ty mají zkušenosti s&nbsp;IT výkladem a výpadky internetu jsou podle nich řešitelné. Finanční náklady smluv jsme vyhodnotili jako únosné. Shledali jsme, že společnost neslyšícího zájemce diskriminovala. Společnost se omluvila a nabídla mu přístup k online IT kurzu v hodnotě 25 000 Kč zcela zdarma. Kurz také na vlastní náklady otitulkuje, aby byl přístupný i dalším lidem s postižením.</p>
+        title: Neslyšící člověk dostal IT kurz zdarma jako náhradu za diskriminaci
+        id: 5791/2023/VOP
+        eso: https://eso.ochrance.cz/Nalezene/Edit/13010
+      - body: >
+          <blockquote>
+
+          <p>Pokud se zaměstnanec brání proti jednání, které vnímá jako diskriminující, dopustí se zaměstnavatel pronásledování (<a href="https://www.e-sbirka.cz/sb/2009/198/2018-01-01#par_4-odst_3">&sect; 4 odst. 3</a> zákona č. 198/2009 Sb.), pokud ho za to jakkoli formálně či neformálně postihne.</p>
+
+          </blockquote>
+
+
+          <p>Učitelka na základní škole se ohradila proti sexuálnímu obtěžování ze strany ředitele školy. Sexuální obtěžování se neprokázalo, ale ředitel potom začal stěžovatelku různě znevýhodňovat (např. snížením odměn a odvoláním z&nbsp;funkce zástupkyně ředitele). Současně ve škole panovala nepřátelská atmosféra vůči starším zaměstnankyním, což nepříznivě dopadlo i na stěžovatelku.&nbsp;</p>
+
+
+          <p>Shledali jsme, že ředitel školy stěžovatelku diskriminoval. Když se bránila jeho chování, reagoval odvetnými opatřeními. Tím se dopustil pronásledování z&nbsp;důvodu pohlaví. Vytvářením nepřátelského prostředí na pracovišti pak stěžovatelku obtěžoval z&nbsp;důvodu věku.</p>
+        title: "Pomohli jsme učitelce, která čelila diskriminaci v zaměstnání "
+        id: 4842/2023/VOP
+        eso: https://eso.ochrance.cz/Nalezene/Edit/12926
+  - title: Navštěvujeme zařízení
+    articles:
+      - body: >
+          <p>Chráníme lidi před špatným zacházením. Proto navštěvujeme zařízení,
+          kde jsou lidé omezení na svobodě nebo závislí na poskytované péči.
+          Jedná se například o věznice, dětské domovy nebo domovy pro seniory.
+          Od roku 2018 rovněž sledujeme, jak Česká republika naplňuje práva lidí
+          s postižením podle Úmluvy OSN o právech osob se zdravotním postižením.
+          Proto navštěvujeme také zařízení, kde jsou lidé se zdravotním
+          postižením.</p>
+
+
+          <p>V&nbsp;květnu 2024 jsme uskutečnili návštěvu Výchovného ústavu Husův domov ve Dvoře Králové nad Labem. V&nbsp;červnu 2024 proběhly dvě návštěvy. A to Vazební věznice Praha Ruzyně (objekt Velké Přílepy) a neregistrovaného zařízení sociálních služeb Hotel Schindlerův Háj ve Svitavách.</p>
+
+
+          <p>V&nbsp;květnu 2024 jsme také sledovali trest vyhoštění z&nbsp;Vazební věznice Praha Ruzyně na Letiště Václava Havla v&nbsp;Praze.</p>
+        title: Už od roku 2006 jsme národním preventivním mechanismem
+      - body: >
+          <p>Navštívili jsme zařízení DD3 (tzv. kojenecké ústavy), abychom
+          zjistili, jaká jsou v&nbsp;nich podmínky a kvalita péče. Také jsme
+          zjišťovali, jak se připravují na blížící se zákaz umisťování malých
+          dětí do ústavů (od 1. ledna 2025 a od roku 2028 pro děti mladší 7
+          let). Poslanecká sněmovna také letos v&nbsp;květnu schválila
+          definitivní zrušení těchto zařízení.</p>
+
+
+          <p>Navštívili jsme 5 z&nbsp;celkového počtu 23 zařízení. Vybrali jsme je náhodně tak, aby byly zastoupeny různé regiony, zřizovatelé (dva kraje, dvě města a Ministerstvo zdravotnictví) a velikosti zařízení. V době návštěv v&nbsp;nich pobývalo celkem 170 dětí.</p>
+
+
+          <p><strong>Co jsme zjistili? </strong></p>
+
+
+          <ul>
+          	<li>Většina dětí v&nbsp;zařízeních (dvě třetiny) je starší 3 let. Každé desáté dítě je dokonce starší 10 let.</li>
+          	<li>Mnoho dětí je v zařízeních ze sociálních důvodů, ne kvůli potřebě lůžkové zdravotní péče. Polovinu dětí tvoří Romové a mnoho z nich jsou sourozenecké skupiny.</li>
+          	<li>Většina dětí je v zařízeních dlouhodobě. Více než čtvrtina dětí zde žije dokonce déle než tři roky.</li>
+          	<li>Většinu dětí umístily do zařízení soudy, jen menšina dětí tam pobývala na základě smlouvy s&nbsp;rodičem.</li>
+          	<li>Soudy většinou nezkoumaly, jestli dítě potřebuje lůžkovou zdravotní péči.</li>
+          	<li>Prostředí v zařízeních často nepřipomíná rodinné prostředí a neodpovídá potřebám dětí (např. průchozí pokoje, velký počet lůžek a celkově nedostatek soukromí).</li>
+          	<li>Většina navštívených zařízení neměla jasný transformační plán (proměny zařízení směrem k&nbsp;poskytování péče v&nbsp;přirozeném prostředí) a nebyla připravena na změny, které přinese nová právní úprava. I tak přijímají další děti.</li>
+          	<li>U řady dětí dosud není zřejmé, kdo jim v případě zrušení kojeneckých ústavů zajistí péči.</li>
+          </ul>
+
+
+          <p><strong>Co doporučujeme?</strong></p>
+
+
+          <ul>
+          	<li>Ministerstvo zdravotnictví by mělo předložit právní úpravu center komplexní péče, která dětem zajistí vhodné podmínky a sociální služby, které potřebují.</li>
+          	<li>Ministerstvo práce a sociálních věcí (MPSV) by mělo předložit komplexní reformu péče o ohrožené děti.</li>
+          	<li>Zřizovatelé by měli zařízení vhodně transformovat na typ služeb, které jsou potřeba v regionu.</li>
+          	<li>MPSV a krajské úřady by měly ve spolupráci s OSPOD sledovat, kam budou děti ze stávajících zařízení přecházet, a poskytovat OSPOD metodickou podporu.</li>
+          	<li>Stát by měl posílit podporu rodin a rozvíjet komunitní a terénní služby tak, aby všechny děti, včetně dětí s&nbsp;postižením, mohly zůstat doma.</li>
+          	<li>MPSV a krajské úřady by měly usilovat o zvyšování počtu pěstounů a poskytnout jim náležitou podporu.</li>
+          </ul>
+        title: Představujeme doporučení po návštěvách kojeneckých ústavů
+        eso: https://eso.ochrance.cz/Nalezene/Edit/12846
+        id: 36/2024/OZP/PH
+      - body: >
+          <blockquote>
+
+          <p>Lidé s&nbsp;postižením mohou volit stejně jako ostatní, ledaže je v&nbsp;tom omezil soud. Někdy potřebují pomoc, například aby získali informace o volbách, dostali se do volební místnosti, využili přenosnou volební urnu, nebo hlasovali (upravili volební lístek, vložili ho do obálky a tu do&nbsp;urny).</p>
+
+          </blockquote>
+
+
+          <p>Již dříve jsme zjistili, že takovou podporu nedostávají klienti některých domovů pro osoby se&nbsp;zdravotním postižením (<a href="https://www.ochrance.cz/uploads-import/ESO/Vykon_volebniho_prava_v_DOZP_28_2019_OZP.pdf">OZP/28/2019</a>).</p>
+
+
+          <p>Proto jsme později vydali pro tato zařízení doporučení (<a href="https://www.ochrance.cz/uploads-import/ESO/32_2020_OZP__OK_doporu%C4%8Den%C3%AD%20-%20volby%20final_001.pdf">OZP/32/2020</a>) a nyní jsme pro ně připravili také praktický návod (<a href="https://www.ochrance.cz/aktualne/ombudsman_pripravil_prakticky_navod_ktery_pomuze_volit_lidem_s_postizenim_v_pobytovych_sluzbach/">desatero</a>).</p>
+        title: "Někteří lidé s postižením potřebují pomoc, aby mohli hlasovat ve volbách
+          "
+        release: https://www.ochrance.cz/aktualne/ombudsman_pripravil_prakticky_navod_ktery_pomuze_volit_lidem_s_postizenim_v_pobytovych_sluzbach/
+  - title: Zkoumali jsme
+    articles:
+      - body: >
+          <blockquote>
+
+          <p>Když ministr rozhoduje o rozkladu (obdoba odvolání) proti rozhodnutí ministerstva, dostane k&nbsp;případu doporučení rozkladové komise. Tato doporučení jsou lepší, pokud má komise správné členy a její jednání se řídí dobrými pravidly.</p>
+
+          </blockquote>
+
+
+          <p>Zkoumali jsme činnost rozkladových komisí na ministerstvech i jejich jednací řády. Zjistili jsme, že některé komise porušují pravidla nebo se řídí nesprávným nebo nedostatečným jednacím řádem (<a href="https://www.ochrance.cz/uploads-import/ESO/souhrn%20poznatk%C5%AF.pdf">souhrn poznatků</a> a <a href="https://www.ochrance.cz/uploads-import/ESO/p%C5%99ehled%20obsahu%20jednac%C3%ADch%20%C5%99%C3%A1d%C5%AF.pdf">přehled obsahu jednacích řádů</a>).</p>
+
+
+          <p>Proto jsme <a href="https://eso.ochrance.cz/Nalezene/Edit/12948">doporučili</a>, aby ministerstva například:</p>
+
+
+          <ul>
+          	<li>zveřejnila seznam členů rozkladové komise na svém webu,</li>
+          	<li>členům rozkladové komise poskytla co nejvíce podkladů k&nbsp;posouzení případu (ideálně kopii celého spisu),</li>
+          	<li>zrušila pravidlo, že při rovnosti hlasů všech členů komise rozhoduje hlas předsedy,</li>
+          	<li>určila podmínky, za nichž se zasedání rozkladové komise mohou účastnit další lidé, kteří by mohli ovlivnit závěry komise.</li>
+          </ul>
+        title: "Ministři pro svá rozhodnutí potřebují dobrá doporučení "
+        id: 20/2022/SZD
+        eso: https://eso.ochrance.cz/Nalezene/Edit/12948
 ---
