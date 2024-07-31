@@ -272,7 +272,7 @@ sections:
         title: Už od roku 2006 jsme národním preventivním mechanismem
       - body: >
           <p>Navštívili jsme zařízení DD3 (tzv. kojenecké ústavy), abychom
-          zjistili, jaká jsou v&nbsp;nich podmínky a kvalita péče. Také jsme
+          zjistili, jaké jsou v&nbsp;nich podmínky a kvalita péče. Také jsme
           zjišťovali, jak se připravují na blížící se zákaz umisťování malých
           dětí do ústavů (od 1. ledna 2025 a od roku 2028 pro děti mladší 7
           let). Poslanecká sněmovna také letos v&nbsp;květnu schválila
