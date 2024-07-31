@@ -276,7 +276,7 @@ sections:
           zjišťovali, jak se připravují na blížící se zákaz umisťování malých
           dětí do ústavů (od 1. ledna 2025 a od roku 2028 pro děti mladší 7
           let). Poslanecká sněmovna také letos v&nbsp;květnu schválila
-          definitivní zrušení těchto zařízení.</p>
+          definitivní zrušení těchto zařízení.&nbsp;</p>
 
 
           <p>Navštívili jsme 5 z&nbsp;celkového počtu 23 zařízení. Vybrali jsme je náhodně tak, aby byly zastoupeny různé regiony, zřizovatelé (dva kraje, dvě města a Ministerstvo zdravotnictví) a velikosti zařízení. V době návštěv v&nbsp;nich pobývalo celkem 170 dětí.</p>
