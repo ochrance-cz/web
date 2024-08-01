@@ -178,7 +178,7 @@ sections:
           <p>Navrhli jsme Ústavnímu soudu, aby zrušil vyhlášku obce Píšť, která stanovila 32 výjimek z nočního klidu, a to hlavně pro víkendové noci od dubna do října. Tento počet výjimek jsme již nepovažovali za &bdquo;výjimečný&ldquo;.</p>
 
 
-          <p>Ústavní soud návrh zamítl, protože 32 nocí za rok (desetinu) považuje za výjimečný případ. Zkoumal i dodržení ostatních pravidel pro vyhlášku. Podle Ministerstva vnitra takto obce postupují běžně. Více v nálezu Ústavního soudu sp. zn. <a href="https://www.usoud.cz/fileadmin/user_upload/Tiskova_mluvci/Publikovane_nalezy/2024/Pl._U__S_44-23_AN.pdf">Pl. ÚS 44/23</a>.</p>
+          <p>Ústavní soud návrh zamítl, protože 32 nocí za rok (desetinu) považuje za výjimečný případ. Zkoumal i dodržení ostatních pravidel pro vyhlášku. Podle Ministerstva vnitra takto obce postupují běžně. Více v nálezu Ústavního soudu sp. zn. <a href="https://www.usoud.cz/fileadmin/user_upload/Tiskova_mluvci/Publikovane_nalezy/2024/Pl._U__S_44-23_AN.pdf">Pl. ÚS 44/23</a></p>
         title: "Obec může omezit noční klid i na 32 nocí za rok "
         id: 16/2023/SZD
         eso: https://eso.ochrance.cz/Nalezene/Edit/12254
