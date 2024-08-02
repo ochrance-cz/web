@@ -22,4 +22,4 @@ perex: >
 
 <p><img alt="commemorative act, wreaths" src="https://www.ochrance.cz/en/aktualne/we_are_commemorating_the_european_holocaust_memorial_day_for_roma_and_sinti-_ombudsman_stanislav_krecek_participated_in_the_commemoration_ceremony_in_auschwitz/2.jpg" />The commemoration ceremony wasorganized by the Central Council of German Sinti and Roma and the Association of Roma in Poland in cooperation with the Auschwitz-Birkenau State Museum.</p>
 
-<p><img alt="vence.jpg" src="https://www.ochrance.cz/en/aktualne/we_are_commemorating_the_european_holocaust_memorial_day_for_roma_and_sinti-_ombudsman_stanislav_krecek_participated_in_the_commemoration_ceremony_in_auschwitz/vence.jpg" /></p>
+<p><img alt="commemorate wreaths" src="https://www.ochrance.cz/en/aktualne/we_are_commemorating_the_european_holocaust_memorial_day_for_roma_and_sinti-_ombudsman_stanislav_krecek_participated_in_the_commemoration_ceremony_in_auschwitz/vence.jpg" /></p>
