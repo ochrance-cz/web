@@ -499,6 +499,10 @@ lawyers:
         role: "právnička "
         phone: 542 542 337
         email: hana.polakova@ochrance.cz
+      - name: Miriam Tomášková
+        role: Miriam Tomášková
+        phone: 542 542 276
+        email: miriam.tomaskova@ochrance.cz
   - title: Odbor ochrany práv osob se zdravotním postižením
     people:
       - name: Romana Jakešová
@@ -513,10 +517,6 @@ lawyers:
         role: asistent odboru
         phone: 542 542 270
         email: robert.jungmann@ochrance.cz
-      - name: Denisa Kramářová
-        role: právnička
-        phone: 542 542 274
-        email: denisa.kramarova@ochrance.cz
       - name: Magdalena Paulusová
         role: právnička, tajemnice poradního orgánu
         phone: 542 542 335
