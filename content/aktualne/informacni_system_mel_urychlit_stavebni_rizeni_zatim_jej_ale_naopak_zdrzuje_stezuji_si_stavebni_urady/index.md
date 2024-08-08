@@ -18,6 +18,6 @@ attachments:
 
 <p>Stavební úřady poukazují na chyby <a href="https://mmr.gov.cz/cs/ministerstvo/stavebni-pravo/digitalizace-stavebniho-rizeni-v-cr/aktuality/portal-stavebnika">Portálu stavebníka</a>, který je vstupní branou pro komunikaci stavebníků s&nbsp;úřady, a informačního systému stavebního řízení, který slouží úřadům pro vyřízení žádostí stavebníků. Z Portálu stavebníka se totiž do informačního systému nepřeklápí všechny údaje uvedené v&nbsp;žádosti stavebníka. To může způsobovat vážné problémy. V důsledku nefunkčního modulu pro dotčené orgány hrozí vznik tzv. fiktivních závazných stanovisek. Tedy situace, kdy z&nbsp;důvodu nevydání závazného stanoviska ve stanovené lhůtě se má za to, že dotčený orgán vydal ke stavbě stanovisko souhlasné a bez podmínek.</p>
 
-<p>Ombudsman se proto obrátil na místopředsedu vlády pro digitalizaci Ivana Bartoše. &bdquo;<em>Zajímá mě, jaké kroky k&nbsp;nápravě jeho ministerstvo přijme</em>,&ldquo; vysvětlil ombudsman.</p>
+<p>Ombudsman se proto obrátil na ministra pro místní rozvoj Ivana Bartoše, který je zároveň místopředsedou vlády pro digitalizaci. &bdquo;<em>Zajímá mě, jaké kroky k&nbsp;nápravě jeho ministerstvo přijme</em>,&ldquo; vysvětlil ombudsman.</p>
 
 <p>Ombudsman se nyní v&nbsp;souvislosti s&nbsp;účinností nového stavebního zákona připravuje na zvýšený počet podnětů stavebníků.</p>
