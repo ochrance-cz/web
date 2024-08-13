@@ -6,8 +6,8 @@ date: 2024-06-03T08:19:14.779Z
 vystupy:
   - news
 perex: >
-  <p>Stanislav Křeček and Vít Alexander Schorm have presented the <a
-  href="https://www.ochrance.cz/dokument/zpravy_pro_poslaneckou_snemovnu_2023/vyrocni-zprava-2023.pdf">Annual
+  <p>Stanislav Křeček and Vít Alexander Schorm have presented the&nbsp;<a
+  href="https://www.ochrance.cz/en/dokument/annual_report_2023/annual_report_2023.pdf">Annual
   Report</a> of their office for the year 2023. They welcomed the fact that
   ministries and authorities had successfully used the Ombudsman&rsquo;s
   findings to correct maladministration in individual cases and to change
