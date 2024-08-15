@@ -74,6 +74,16 @@ sections:
       telefon: (+420) 542 542 775\
 
       e-mail: marketa.bockova@ochrance.cz
+
+
+      **Pracovník vztahů k veřejnosti**\
+
+      Michal Vaculík
+
+
+      telefon: (+420) 542 542 288\
+
+      e-mail: michal.vaculik@ochrance.cz
   - title: Vedoucí Kanceláře veřejného ochránce práv
     intro: |-
       **Pavel Pořízek**
