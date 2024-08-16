@@ -1,6 +1,6 @@
 ---
 title: Monitoring reports
-plural: monitoring reports
+plural: Monitoring reports
 listed: true
 slug: monitoring-reports
 ---
