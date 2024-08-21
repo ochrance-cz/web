@@ -337,7 +337,7 @@ lawyers:
         role: vedoucí odboru
         phone: 542 542 389
         email: petra.suplerova@ochrance.cz
-      - name: Eva Hilšerová
+      - name: Eva Czajkowski
         role: právnička (zaměstnanost a inspekce práce, sociálně-právní ochrana dětí)
         phone: 542 542 344
         email: eva.hilserova@ochrance.cz
