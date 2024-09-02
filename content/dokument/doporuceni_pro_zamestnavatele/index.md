@@ -8,11 +8,11 @@ attachmentsTop:
       praktická příručka práva na rovné zacházení pro zaměstnavatele"
     file: https://www.ochrance.cz/uploads-import/ESO/nejcastejsi_pripady_diskriminace_na_pracovisti_a_jak_se_jim_vyhnout_-_prakticka_prirucka.pdf
   - title: "Stručnější verze příručky: Jak se vyhnout diskriminaci na pracovišti"
-    file: https://www.ochrance.cz/uploads-import/ESO/DIS%2072-2023%20CZ.pdf
+    file: https://www.ochrance.cz/uploads-import/ESO/jak_se_vyhnout_diskriminaci_na_pracovisti_-_doporuceni_pro_zamestnavatele.pdf
 attachments:
   - title: "The most frequent cases of workplace discrimination and how to avoid
       them: practical guide for employers regarding equal treatment"
     file: https://www.ochrance.cz/uploads-import/ESO/the_most_frequent_cases_of_workplace_discrimination_and_how_to_avoid_them_-_practical_guide.pdf
   - title: "Summary of the guide: How to avoid workplace discrimination"
-    file: https://www.ochrance.cz/uploads-import/ESO/DIS%2072-2023%20ENG%20-%20kopie.pdf
+    file: https://www.ochrance.cz/uploads-import/ESO/how_to_avoid_workplace_discrimination_-_recommendations_for_employers.pdf
 ---
