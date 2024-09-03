@@ -51,7 +51,7 @@ jobs:
           key: ${{ secrets.SSH_PRIVATE_KEY }}
 
       - name: Unpack tar into place
-        uses: garygrossgarten/github-action-ssh@release
+        uses: garygrossgarten/github-action-ssh@v1
         with:
           command: |
             cd /home/ochrance/public_html
