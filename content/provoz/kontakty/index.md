@@ -280,10 +280,6 @@ lawyers:
         role: vedoucí odboru
         phone: 542 542 329
         email: petra.janouskova@ochrance.cz
-      - name: Martin Hurych
-        role: právník (daně, poplatky a cla)
-        phone: 542 542 303
-        email: martin.hurych@ochrance.cz
       - name: Daniela Konečná
         role: právnička (státní správa soudů)
         phone: 542 542 391
@@ -390,6 +386,14 @@ lawyers:
         role: právnička (správa na úseku zdravotnictví)
         email: petra.dostalova@ochrance.cz
         phone: 542 542 350
+      - name: Barbora Koberová
+        role: právnička (sociálně-právní ochrana dětí, správa na úseku zdravotnictví)
+        phone: 542 542 292
+        email: barbora.koberova@ochrance.cz
+      - name: Běla Vaverková
+        role: právnička (správa na úseku zdravotnictví)
+        phone: 542 542 331
+        email: bela.vaverkova@ochrance.cz
   - title: Odbor rovného zacházení
     intro: >
       poskytování metodické pomoci obětem diskriminace, provádění výzkumu v
