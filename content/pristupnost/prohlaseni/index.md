@@ -12,28 +12,25 @@ Tyto webové stránky jsou částečně v souladu se zákonem č. 99/2019 Sb., v
 
 ## Nepřístupný obsah
 
-Níže uvedený obsah není přístupný, jelikož nespadá do oblasti působnosti platných právních předpisů:
+Níže uvedený obsah není přístupný:
 
-a)	z důvodu nesouladu se zákonem č. 99/2019 Sb., ve znění pozdějších předpisů;
-- Některé obrázky neobsahují alternativní text.
-- Některá videa vložená přímo na web postrádají titulky nebo alternativní texty.
-
-Pro stránku portal.ochrance.cz a akce.ochrance.cz platí následující:
-- Pole formuláře neobsahují identifikaci pole a účelu.
-
-b)	z důvodu nepřiměřené zátěže;
--	Stránka eso.ochrance.cz je v konečné fázi životního cyklu, náhrada je připravována v souladu se zákonem č. 99/2019 Sb., o přístupnosti internetových stránek a mobilních aplikací.
-
-Stránka eso.ochrance.cz je nepřístupná v následujících oblastech:
--	Pole formuláře neobsahují identifikaci pole a účelu.
--	Některé části formuláře jsou přístupné pouze ve vizuální podobě.
-
-c) jelikož nespadá do oblasti působnosti platných právních předpisů;
-- Některá videa na internetových stránkách zveřejněná před 23. zářím 2020 neobsahují titulky ani audio popis či alternativu, na základě výjimky podle § 13 odstavce 4 zákona č. 99/2019 Sb.
+1. z důvodu nesouladu se zákonem č. 99/2019 Sb., ve znění pozdějších předpisů;  
+    - Některé obrázky neobsahují alternativní text.  
+    - Některá videa vložená přímo na web postrádají titulky nebo alternativní texty.  
+    - Pro stránku portal.ochrance.cz a akce.ochrance.cz platí následující:
+        - Pole formuláře neobsahují identifikaci pole a účelu.
+2. z důvodu nepřiměřené zátěže;  
+    - Stránka eso.ochrance.cz je v konečné fázi životního cyklu, náhrada je připravována v souladu se zákonem č. 99/2019 Sb., o přístupnosti internetových stránek a mobilních aplikací.
+    - Stránka eso.ochrance.cz je nepřístupná v následujících oblastech:
+      - Pole formuláře neobsahují identifikaci pole a účelu.
+      - Některé části formuláře jsou přístupné pouze ve vizuální podobě.
+3. jelikož nespadá do oblasti působnosti platných právních předpisů;  
+    - Některé videa na webových stránkách zveřejněná před 23. zářím 2020 neobsahují titulky ani audio popis či alternativu, na základě výjimky podle § 13 odstavce 4 zákona č. 99/2019 Sb.
 
 Na uvedení do souladu se zákonem se aktuálně pracuje. 
 
 Uživatelům je k dispozici kontakt uvedený níže, jehož mohou použít pro vyžádání náhradního řešení v plně přístupné formě.
+
 
 ## Vypracování tohoto prohlášení o přístupnosti
 
@@ -44,6 +41,7 @@ Toto prohlášení bylo revidováno 17. 5. 2024.
 Webové stránky byly zkontrolovány Mgr. Radkem Pavlíčkem, certifikovaným specialistou na přístupnost (CPWA). Prohlášení bylo vypracováno třetí stranou – zpracovatelem těchto internetových stránek Janem Martinkem na základě výše uvedené kontroly. Revize prohlášení byla provedena Kanceláří veřejného ochránce práv na základě následných kontrol ze strany certifikovaného specialisty.
 
 Při posuzování se sledovala shoda s kritérii uvedenými v Metodickém pokynu k zákonu č. 99/2019 Sb., ve znění pozdějších předpisů a standardu Web Content Accessibility Guidelines – WCAG 2.1.
+
 
 ## Zpětná vazba a kontaktní údaje
 
