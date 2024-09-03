@@ -6,6 +6,9 @@ vystupy:
 attachmentsTop:
   - file: https://www.ochrance.cz/dokument/zpravy_pro_poslaneckou_snemovnu_2023/vyrocni-zprava-2023.pdf
     title: Výroční zpráva 2023
+attachments:
+  - file: https://www.ochrance.cz/dokument/zpravy_pro_poslaneckou_snemovnu_2023/rok-2023-shrnuti.pdf
+    title: "Výroční zpráva 2023: Shrnutí"
 ---
 <p><a href="https://www.ochrance.cz/dokument/zpravy_pro_poslaneckou_snemovnu_2023/2023-i-q.pdf">Zpráva za 1. čtvrtletí roku 2023</a></p>
 
