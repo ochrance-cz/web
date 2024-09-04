@@ -8,4 +8,8 @@ attachmentsTop:
   - file: https://www.ochrance.cz/uploads-import/ESO/OMBUDSMAN-NF_monitor-z-01_CZ.pdf
     title: "Úvodní monitorovací zpráva: Naplňování práva na rovné zacházení a
       ochrany před diskriminací"
+attachments:
+  - title: "First Monitoring Report: Implementation of the Right to Equal Treatment
+      and Protection against Discrimination"
+    file: https://www.ochrance.cz/uploads-import/ESO/OMBUDSMAN-NF_monitor-z-01_EN.pdf
 ---
