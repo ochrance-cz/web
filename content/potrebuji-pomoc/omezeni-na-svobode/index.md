@@ -65,6 +65,8 @@ Ombudsman navštěvuje zařízení pro výkon ústavní a ochranné výchovy a d
 
 Ombudsman navštěvuje pobytová zařízení sociálních služeb. Zprávy z jednotlivých návštěv zařízení jsou dostupné v [Evidenci stanovisek ochránce](https://eso.ochrance.cz/Vyhledavani/Search)(oblast práva 801 a násl.) či v mapě navštívených zařízení viz níže.
 
+[A﻿ktualita ohledně návštěv neregistrovaných zařízení (2024)](/media/navstevy_neregistrovanych_zarizeni_2024.pdf)
+
 [Zpráva z návštěv domovů pro osoby se zdravotním postižením (2020)](https://www.ochrance.cz/uploads-import/ESO/11-2017-NZ-OV_souhrnna_zprava_DOZP.pdf) 
 
 [Zpráva z návštěv ubytovacích zařízení poskytujících péči bez oprávnění (2015) ](https://www.ochrance.cz/uploads-import/ESO/28-2014-NZ_Souhrnna_zprava_-_neregistrovana_zarizeni__CJ_.pdf)
@@ -73,7 +75,7 @@ Ombudsman navštěvuje pobytová zařízení sociálních služeb. Zprávy z jed
 
 [Zpráva z návštěv domovů pro osoby se zdravotním postižením (2009)](https://eso.ochrance.cz/Nalezene/Edit/2788) 
 
-{{< /rozbal >}}
+[](/media/navstevy_neregistrovanych_zarizeni_2024.pdf){{< /rozbal >}}
 
 {{< rozbal "Psychiatrické nemocnice" >}}
 
