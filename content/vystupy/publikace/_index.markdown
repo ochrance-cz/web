@@ -20,6 +20,10 @@ Nemohli jste se účastnit naší konference, téma vás zajímá a chcete se do
 
 {{< links "/vystupy/sbornik" "Sborníky z konferencí">}}
 
+## Výroční zprávy o diskriminaci
+
+{{< links "/vystupy/vyrocni_zprava_o_diskriminaci" "Výroční zprávy o diskriminaci">}}
+
 ## Edice dobré správní praxe
 
 V letech 2009 – 2011 vydal ombudsman 3 publikace ve spolupráci s Ministerstvem vnitra ČR. Velmi srozumitelná forma přiléhavých otázek a odpovědí s návodem, jak v dané situaci postupovat, to vše doplněno o příklady z praxe, dělá z publikací pomyslnou „kuchařku“, kterou mohou úspěšně využívat jak větší města a obce, tak především malé obce, kterým obvykle chybí dostatečný administrativní aparát, odborné znalosti i zkušenosti. Bez zajímavosti však publikace nejsou ani pro občany, kteří se z nich poučí o svých právech a o tom, jak by měly obce správně postupovat.
