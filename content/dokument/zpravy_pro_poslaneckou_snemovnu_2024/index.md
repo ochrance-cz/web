@@ -10,4 +10,4 @@ vystupy:
 
 <p><a href="https://www.ochrance.cz/dokument/zpravy_pro_poslaneckou_snemovnu_2024/2024-ii-q.pdf">Zpráva za 2. čtvrtletí roku 2024</a></p>
 
-<p>Příloha: <a href="https://www.ochrance.cz/dokument/zpravy_pro_poslaneckou_snemovnu_2024/2024-ii-q-sankce.pdf">Věci, v nichž nebylo dosaženo nápravy</a>:&nbsp;posudek o zdravotním stavu je stěžejním podkladem pro rozhodování o příspěvku na péči, z toho důvodu má být jednoznačný, úplný a přesvědčivý.</p>
+<p>Příloha: <a href="https://www.ochrance.cz/dokument/zpravy_pro_poslaneckou_snemovnu_2024/2024-ii-q-sankce.pdf">Věci, v nichž nebylo dosaženo nápravy</a>:&nbsp;posudek o zdravotním stavu je stěžejním podkladem pro rozhodování o příspěvku na péči, z toho důvodu má být jednoznačný, úplný a přesvědčivý</p>
