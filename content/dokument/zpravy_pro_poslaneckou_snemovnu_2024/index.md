@@ -7,3 +7,7 @@ vystupy:
 <p><a href="https://www.ochrance.cz/dokument/zpravy_pro_poslaneckou_snemovnu_2024/2024-i-q.pdf">Zpráva za 1. čtvrtletí roku 2024</a></p>
 
 <p>Příloha:&nbsp;<a href="https://www.ochrance.cz/dokument/zpravy_pro_poslaneckou_snemovnu_2024/2024-i-q-sankce.pdf">Věci, v nichž nebylo dosaženo nápravy</a>:&nbsp;neúspěšný pokus přimět krajský úřad a&nbsp;Ministerstvo zdravotnictví, aby důkladně prověřily, zda lékařka správně vede zdravotnickou dokumentaci a dosazování indexovaných výdělků při&nbsp;výpočtu dílčího důchodu</p>
+
+<p><a href="https://www.ochrance.cz/dokument/zpravy_pro_poslaneckou_snemovnu_2024/2024-ii-q.pdf">Zpráva za 2. čtvrtletí roku 2024</a></p>
+
+<p>Příloha: <a href="https://www.ochrance.cz/dokument/zpravy_pro_poslaneckou_snemovnu_2024/2024-ii-q-sankce.pdf">Věci, v nichž nebylo dosaženo nápravy</a>:&nbsp;posudek o zdravotním stavu je stěžejním podkladem pro rozhodování o příspěvku na péči, z toho důvodu má být jednoznačný, úplný a přesvědčivý.</p>
