@@ -308,10 +308,6 @@ lawyers:
         role: právnička (věci cizinců)
         phone: 542 542 229
         email: veronika.vichova@ochrance.cz
-      - name: Linda Janků
-        role: právnička (věci cizinců)
-        phone: "542 542 318 "
-        email: linda.janku@ochrance.cz
       - name: Alžbeta Králová
         role: právnička (věci cizinců, státní správa soudů)
         phone: "542 542 431 "
@@ -378,10 +374,6 @@ lawyers:
         role: právnička (sociálně-právní ochrana dětí, pěstounská péče, ústavní výchova)
         phone: 542 542 668
         email: "veronika.capkova@ochrance.cz "
-      - name: Michaela Sedláčková
-        role: právnička (správa na úseku zdravotnictví)
-        phone: 542 542 333
-        email: michaela.sedlackova@ochrance.cz
       - name: Petra Dostálová
         role: právnička (správa na úseku zdravotnictví)
         email: petra.dostalova@ochrance.cz
