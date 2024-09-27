@@ -30,8 +30,7 @@ pressAgent:
   role: Kontakt pro média
   name: Michaela Vaisová
   phone: +420 607 275 704
-  email: marketa.bockova@ochrance.cz
-  "email ": medialni@ochrance.cz
+  email: medialni@ochrance.cz
 type: contact
 headerPic: /images/podatelna.jpg
 ---
