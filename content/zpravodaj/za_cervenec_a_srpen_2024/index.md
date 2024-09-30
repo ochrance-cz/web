@@ -98,21 +98,6 @@ sections:
       - body: >
           <blockquote>
 
-          <p>Pokud si cizinec před vyhoštěním z&nbsp;České republiky nemá do čeho sbalit své věci, Správa uprchlických zařízení mu dá zavazadlo. Zavazadlo musí být praktické a důstojné. Nestačí igelitový pytel na odpadky.</p>
-
-          </blockquote>
-
-
-          <p>Správa uprchlických zařízení vyrozuměla cizince o tom, kdy bude vyhoštěn. Cizinec sdělil, že nechce odjet a odmítl nabízené zavazadlo (sám žádné neměl). Hodinu před vyhoštěním dostal jen igelitový pytel na odpadky. Věci si do něj dal sám. Vedoucí policejní eskorty pak pytel alespoň obmotal kobercovou páskou, aby věci nevypadly při odbavování do letadla.</p>
-
-
-          <p>Ředitel Správy uprchlických zařízení uznal chybu a všem zařízením pro zajištění cizinců nařídil, aby cizincům při vyhoštění zajistili vhodné zavazadlo.</p>
-        title: "Cizinec dostane před vyhoštěním zavazadlo na své věci, pokud ho nemá "
-        id: 3/2024/NZ/AM
-        eso: https://eso.ochrance.cz/Nalezene/Edit/13092
-      - body: >
-          <blockquote>
-
           <p>Krajský úřad a OSPOD musí poskytovat žadatelům s postižením odpovídající podporu při zprostředkování pěstounské péče a osvojení (&sect; 11 odst. 1 písm. d) a 12 odst. 2 písm. c) zákona č. 359/1999 Sb. ve spojení s&nbsp;čl. 23 odst. 2 Úmluvy o právech osob se zdravotním postižením).</p>
 
           </blockquote>
@@ -249,4 +234,29 @@ sections:
         title: "Zasadili jsme se o zlepšení podmínek ve Vazební věznici Ostrava "
         id: 3138/2024/VOP
         eso: https://eso.ochrance.cz/Nalezene/Edit/12942
+  - title: Sledujeme vyhoštění cizinců
+    articles:
+      - body: >
+          <p>zajištění cizinců a&nbsp;výkon správního vyhoštění, předání nebo
+          průvozu zajištěných cizinců a&nbsp;výkon trestu vyhoštění cizinců,
+          kteří byli vzati do&nbsp;vyhošťovací vazby nebo kteří vykonávají trest
+          odnětí svobody (vyhoštění nebo nucené navracení). Česká republika tak
+          splnila povinnost zavést účinný systém pro&nbsp;sledování nuceného
+          navracení podle takzvané návratové směrnice.</p>
+        title: Veřejný ochránce práv od roku 2011 sleduje
+      - body: >
+          <blockquote>
+
+          <p>Pokud si cizinec před vyhoštěním z&nbsp;České republiky nemá do čeho sbalit své věci, Správa uprchlických zařízení mu dá zavazadlo. Zavazadlo musí být praktické a důstojné. Nestačí igelitový pytel na odpadky.</p>
+
+          </blockquote>
+
+
+          <p>Správa uprchlických zařízení vyrozuměla cizince o tom, kdy bude vyhoštěn. Cizinec sdělil, že nechce odjet a odmítl nabízené zavazadlo (sám žádné neměl). Hodinu před vyhoštěním dostal jen igelitový pytel na odpadky. Věci si do něj dal sám. Vedoucí policejní eskorty pak pytel alespoň obmotal kobercovou páskou, aby věci nevypadly při odbavování do letadla.</p>
+
+
+          <p>Ředitel Správy uprchlických zařízení uznal chybu a podle našeho doporučení všem zařízením pro zajištění cizinců nařídil, aby cizincům při vyhoštění zajistila vhodné zavazadlo.</p>
+        title: "Cizinec dostane před vyhoštěním zavazadlo na své věci, pokud ho nemá "
+        id: 3/2024/NZ/AM
+        eso: https://eso.ochrance.cz/Nalezene/Edit/13092
 ---
