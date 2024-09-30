@@ -66,16 +66,6 @@ sections:
       e-mail: michaela.vaisova@ochrance.cz
 
 
-      **Pracovnice pro styk s médii**\
-
-      Markéta Bočková
-
-
-      telefon: (+420) 542 542 775\
-
-      e-mail: marketa.bockova@ochrance.cz
-
-
       **Pracovník vztahů k veřejnosti**\
 
       Michal Vaculík
