@@ -178,6 +178,71 @@ sections:
         id: 6525/2022/VOP
         eso: https://eso.ochrance.cz/Nalezene/Edit/13156
   - title: Pomohli jsme vyjasnit právní úpravu
+    articles:
+      - body: >
+          <blockquote>
+
+          <p>Přestane-li být Česká republika přednostně příslušná k poskytování rodinných dávek, má povinnost poskytovat vyrovnávací doplatek &ndash; rozdíl mezi výší české dávky a dávky stejného druhu z jiného evropského státu (čl. 68 odst. 2 nařízení 883/2004). Pokud v&nbsp;jiném státě dávka stejného druhu neexistuje, český úřad pokračuje ve výplatě dávky jako vyrovnávacího doplatku.</p>
+
+          </blockquote>
+
+
+          <p>Stěžovatelka (Češka) žije s&nbsp;dcerou v&nbsp;Česku, kde pobírala rodičovský příspěvek. Poté, co otec začal pracovat ve Švýcarsku, přestal úřad práce příspěvek vyplácet. Stěžovatelku přiměl podat žádost o odnětí rodičovského příspěvku a poučil ji, aby si dávky vyřídila ve Švýcarsku. Stěžovatelka marně opakovaně žádala úřad práce, aby jí s tím pomohl. Vyčerpala veškeré úspory a ocitla se v&nbsp;problémech.</p>
+
+
+          <p>Úřad práce neměl stěžovatelce rodičovský příspěvek odejmout. Měl ho nadále vyplácet jako vyrovnávací doplatek, protože ve Švýcarsku neexistuje srovnatelná dávka. Úřad práce nám dal za pravdu a doplatil stěžovatelce dávku od roku 2021.</p>
+        title: "Díky nám matka pečující o malé dítě získala doplatek rodičovského
+          příspěvku "
+        id: 1732/2023/VOP
+        eso: https://eso.ochrance.cz/Nalezene/Edit/13032
   - title: Radili jsme v diskriminačních věcech
+    articles:
+      - body: >
+          <blockquote>
+
+          <p>Pro člověka se zdravotním postižením je asistenční pes nezbytnou pomůckou, aby se mohl samostatně zapojit do běžného života. Právo takového člověka vstoupit s&nbsp;asistenčním psem do některých prostor proto lze omezit jen v&nbsp;odůvodněných případech. Bezdůvodný plošný zákaz vstupu psů nepřímo diskriminuje lidi se zdravotním postižením.</p>
+
+          </blockquote>
+
+
+          <p>Děti stěžovatelky navštěvovaly základní školu. Aby lépe zvládaly projevy svého zdravotního postižení, měly asistenčního psa, který je každý den doprovázel do školy a ze školy (až do&nbsp;třídy, ale nebyl s&nbsp;nimi při vyučování). Když si psa ve škole všiml ředitel školy, stěžovatelku i se psem vyhodil. Stěžovatelka škole doložila průkaz asistenčního psa a potvrzení o zdravotním postižení dětí. Opakovaně ředitele žádala, aby asistenčního psa dětí vpustil do školy. Ředitel to odmítl. Důvody nesdělil. Stěžovatelka nakonec své děti přehlásila na jinou školu.</p>
+
+
+          <p>Škole jsme vysvětlili, že děti stěžovatelky nepřímo diskriminovala kvůli jejich zdravotnímu postižení. Doporučili jsme jí, aby možnost výjimky ze zákazu vstupu pro asistenční psy uvedla ve školním řádu a aby o výjimce pro asistenčního psa v&nbsp;budoucnu jednala vstřícněji.</p>
+        title: "Škola diskriminuje žáka se zdravotním postižením, pokud ho do budovy
+          bezdůvodně nevpustí s asistenčním psem "
+        id: 1411/2023/VOP
+        eso: https://eso.ochrance.cz/Nalezene/Edit/13230
   - title: Navštěvujeme zařízení
+    articles:
+      - body: >
+          <p>Chráníme lidi před špatným zacházením. Proto navštěvujeme zařízení,
+          kde jsou lidé omezení na svobodě nebo závislí na poskytované péči.
+          Jedná se například o věznice, dětské domovy nebo domovy pro seniory.
+          Od roku 2018 rovněž sledujeme, jak Česká republika naplňuje práva lidí
+          s postižením podle Úmluvy OSN o právech osob se zdravotním postižením.
+          Proto navštěvujeme také zařízení, kde jsou lidé se zdravotním
+          postižením.</p>
+
+
+          <p>V&nbsp;červenci 2024 jsme navštívili Věznici a&nbsp;ústav pro&nbsp;výkon zabezpečovací detence Opava (objekt Olomoucká) a&nbsp;sledovali jsme správní vyhoštění ze&nbsp;Zařízení pro&nbsp;zajištění cizinců Vyšní Lhoty na&nbsp;Letiště Václava Havla v&nbsp;Praze.</p>
+
+
+          <p>V&nbsp;srpnu 2024 jsme navštívili neregistrované zařízení sociálních služeb Domov u&nbsp;sv. Marušky v&nbsp;Bzenci a&nbsp;policejní cely v&nbsp;Hodoníně. Také jsme sledovali trest vyhoštění z&nbsp;Vazební věznice Praha Ruzyně do&nbsp;Kišiněva (Moldavsko).</p>
+        title: "Už od roku 2006 jsme národním preventivním mechanismem "
+      - body: >
+          <blockquote>
+
+          <p>Toalety ve vězeňských celách musí být odděleny dostatečnou přepážkou.</p>
+
+          </blockquote>
+
+
+          <p>Při šetření podmínek výkonu vazby ve Vazební věznici Ostrava jsme zjistili, že se na cele se dvěma vězni nachází jen asi metr vysoká přepážka oddělující toaletu od zbytku cely. Na cele je dvoupatrová postel, ze které je přímo vidět na člověka, který používá toaletu.</p>
+
+
+          <p>Že jsou takové podmínky nedůstojné, stanoví i&nbsp;Evropská vězeňská pravidla a rozhodování Evropského soudu pro lidská práva. Věznice nám přislíbila, že podle svých finančních možností provede úpravy zástěn sociálních zařízení v celách. Do té doby bude na problematické cely umísťovat lidi po jednom.</p>
+        title: "Zasadili jsme se o zlepšení podmínek ve Vazební věznici Ostrava "
+        id: 3138/2024/VOP
+        eso: https://eso.ochrance.cz/Nalezene/Edit/12942
 ---
