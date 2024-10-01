@@ -10,7 +10,7 @@ perex: >
   href="https://www.ochrance.cz/zpravodaj/za_cervenec_a_srpen_2024/#item-5-0">vyhoštění
   z&nbsp;České republiky</a>. Nebo se podívat na další příklad toho, <a
   href="https://www.ochrance.cz/zpravodaj/za_cervenec_a_srpen_2024/#item-3-0">jak
-  to lidé s&nbsp;asistenčními psi nemají jednoduché</a>. &nbsp;</p>
+  to lidé s&nbsp;asistenčními psy nemají jednoduché</a>. &nbsp;</p>
 attachments:
   - title: Zpravodaj ombudsmana za červenec a srpen 2024
     file: https://www.ochrance.cz/zpravodaj/za_cervenec_a_srpen_2024/
