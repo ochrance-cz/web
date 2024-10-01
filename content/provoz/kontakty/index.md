@@ -179,10 +179,6 @@ lawyers:
         role: právník (doprava, policie, armáda)
         phone: 542 542 390
         email: milan.kocourek@ochrance.cz
-      - name: Jakub Martinec
-        role: právník (přestupky, služební poměry)
-        phone: 542 542 386
-        email: jakub.martinec@ochrance.cz
       - name: Tereza Němcová Čáslavská
         role: právnička (ochrana spotřebitele, správa na úseku podnikání, dohled nad
           exekuční činností)
@@ -298,10 +294,6 @@ lawyers:
         role: právnička (věci cizinců)
         phone: 542 542 229
         email: veronika.vichova@ochrance.cz
-      - name: Alžbeta Králová
-        role: právnička (věci cizinců, státní správa soudů)
-        phone: "542 542 431 "
-        email: alzbeta.kralova@ochrance.cz
       - name: Kristýna Molková Foukalová
         role: "právnička (věci cizinců) "
         phone: 542 542 366
@@ -310,6 +302,14 @@ lawyers:
         role: právnička (věci cizinců)
         phone: ""
         email: barbora.mazalova@ochrance.cz
+      - name: Michaela Glozygová
+        role: právnička (věci cizinců a státní správa soudů)
+        phone: 542 542 264
+        email: michaela.glozygova@ochrance.cz
+      - name: Petra Lisoňková
+        phone: 542 542 357
+        role: právnička (státní správa soudů)
+        email: petra.lisonkova@ochrance.cz
   - title: Odbor rodiny, zdravotnictví a práce
     intro: veřejné zdravotní pojištění, stížnosti ve zdravotnictví, činnost OSPOD,
       ústavní výchova, evidence uchazečů o zaměstnání u Úřadu práce, inspekce
@@ -319,10 +319,6 @@ lawyers:
         role: vedoucí odboru
         phone: 542 542 389
         email: petra.suplerova@ochrance.cz
-      - name: Eva Czajkowski
-        role: právnička (zaměstnanost a inspekce práce, sociálně-právní ochrana dětí)
-        phone: 542 542 344
-        email: eva.hilserova@ochrance.cz
       - name: Klára Ille
         role: právnička (sociálně-právní ochrana dětí, ústavní výchova, pěstounská péče)
         phone: 542 542 304
@@ -543,10 +539,6 @@ lawyers:
         role: vedoucí odboru
         phone: 542 542 353
         email: jaroslav.svoma@ochrance.cz
-      - name: Michaela Glozygová
-        role: právnička
-        phone: 542 542 264
-        email: michaela.glozygova@ochrance.cz
       - name: Adam Herma
         role: právník
         phone: 542 542 248
