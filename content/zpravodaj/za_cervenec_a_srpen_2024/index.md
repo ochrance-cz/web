@@ -13,7 +13,7 @@ sections:
           čísle se dozvíte o případech, ve kterých ombudsman pomohl lidem
           v&nbsp;různých vztazích s&nbsp;úřady. Také si můžete přečíst o tom,
           jak probíhá vyhoštění z&nbsp;České republiky. Nebo se podívat na další
-          příklad toho, jak to lidé s&nbsp;asistenčními psi nemají jednoduché.
+          příklad toho, jak to lidé s&nbsp;asistenčními psy nemají jednoduché.
           &nbsp;</p>
 
 
