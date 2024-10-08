@@ -41,10 +41,10 @@ access:
     asistence.
 
 
-    U﻿pozorňujeme Vás, že od 1. září 2024 je ulice Údolní kvůli probíhající rekonstrukci uzavřená pro osobní dopravu. Průjezd je značně ztížen. Pokud byste potřebovali do Kanceláře veřejného ochránce práv přijet autem, požádejte si předem o povolení vjezdu e-mailem na adrese petr.lesa@ochrance.cz.
+    U pozorňujeme Vás, že od 1. září 2024 je ulice Údolní kvůli probíhající rekonstrukci uzavřená pro osobní dopravu. Průjezd je značně ztížen. Pokud byste potřebovali do Kanceláře veřejného ochránce práv přijet autem, požádejte si předem o povolení vjezdu e-mailem na adrese petr.lesa@ochrance.cz.
 
 
-    V﻿íce informací na webu [Kopeme za Brno](https://kopemezabrno.cz/2024/08/16/celkova-rekonstrukce-udolni-zacne-v-zari-na-co-se-pripravit/).
+    V íce informací na webu [Kopeme za Brno](https://kopemezabrno.cz/2024/08/16/celkova-rekonstrukce-udolni-zacne-v-zari-na-co-se-pripravit/).
   pic: /images/kontakt.jpg
 pressAgent:
   role: Kontakt pro média
