@@ -345,4 +345,30 @@ title: "2024"
 
 <p><a href="https://www.ochrance.cz/info106/2024/56_2024_zadost.pdf">Žádost o informace</a>.</p>
 
-<p><a href="https://www.ochrance.cz/info106/2024/56_2024_odpoved.odt">Odpověď na žádost</a>.</p>
+<p><a href="https://www.ochrance.cz/info106/2024/56_2024_odpoved.odt">Odpověď na žádost</a>.&nbsp;</p>
+
+<h3>57/2024 &ndash; Informace ke spisu z&nbsp;oblasti Katastr nemovitostí - zápisy práv</h3>
+
+<p><a href="https://www.ochrance.cz/info106/2024/57_2024_zadost.pdf">Žádost o odpověď</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2024/57_2024_odpoved.odt">Odpověď na žádost</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2024/k106_57-2024_priloha_1.pdf">Příloha 1</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2024/k106_57-2024_priloha_2.pdf">Příloha 2</a>.</p>
+
+<h3>58/2024 &ndash; Informace z&nbsp;oblasti Práva na informace a&nbsp;ochrana osobních údajů</h3>
+
+<p><a href="https://www.ochrance.cz/info106/2024/58_2024_zadost.pdf">Žádost o odpověď</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2024/58_2024_odpoved.odt">Odpověď na žádost</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2024/58_2024_prezentace_usti_-_listopad_priloha.pptx">Příloha</a>.</p>
+
+<h3>59/2024 &ndash; Informace z&nbsp;oblasti Vězeňství</h3>
+
+<p><a href="https://www.ochrance.cz/info106/2024/59_2024_zadost.pdf">Žádost o odpověď</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2024/59_2024_odpoved.odt">Odpověď na žádost</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2024/59_2024_odpoved_priloha_narizeni_gr_vs_cr.pdf">Příloha</a>.</p>
