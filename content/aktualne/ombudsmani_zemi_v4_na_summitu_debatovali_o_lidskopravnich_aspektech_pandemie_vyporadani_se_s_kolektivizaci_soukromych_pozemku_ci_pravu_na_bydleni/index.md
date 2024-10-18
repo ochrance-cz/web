@@ -10,7 +10,7 @@ perex: >
   Slovenska, Polska a Maďarska připomněli dvacetileté výročí spolupráce
   ombudsmanů zemí Visegrádské skupiny.</p>
 ---
-<p>&bdquo;<em>Jsem mimořádně rád, že se 20. výročí summitu ombudsmanů zemí V4 zúčastnili veřejní ochránci práv. I to potvrzuje vzájemnou spolupráci ombudsmanských zemí V4 na nejvyšší úrovni. Je důležité, aby naše vzájemná výměna zkušeností nezůstala jen v rovině formalit, ale abychom se dobré příklady a zkušenosti z praxe, snažili ve svých zemích prosazovat s&nbsp;cílem zvyšování lidskoprávních standardů,&ldquo;</em> uvedl slovenský ombudsman Róbert Dobrovodský.</p>
+<p>&bdquo;<em>Jsem mimořádně rád, že se 20. výročí summitu ombudsmanů zemí V4 zúčastnili všichni veřejní ochránci práv. I to potvrzuje vzájemnou spolupráci ombudsmanských zemí V4 na nejvyšší úrovni. Je důležité, aby naše vzájemná výměna zkušeností nezůstala jen v rovině formalit, ale abychom se dobré příklady a zkušenosti z praxe, snažili ve svých zemích prosazovat s&nbsp;cílem zvyšování lidskoprávních standardů,&ldquo;</em> uvedl slovenský ombudsman Róbert Dobrovodský.</p>
 
 <p>Výbornou spolupráci ocenil také český ombudsman Stanislav Křeček: &bdquo;<em>Naše setkání v rámci V4 jsou za politické situace ojedinělé. Snažíme se na této platformě pomáhat sdílením poznatků a vzájemnou spoluprací.</em>&ldquo;</p>
 
