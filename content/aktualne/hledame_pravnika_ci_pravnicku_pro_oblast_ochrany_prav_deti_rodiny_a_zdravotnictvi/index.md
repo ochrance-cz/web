@@ -1,5 +1,5 @@
 ---
-title: Hledáme právníka či právničku pro oblast ochrany práv dětí, rodiny a
+title: Hledáme právníka či právničku pro oblast ochrany práv dětí a rodiny a
   zdravotnictví
 date: 2024-10-25T06:13:09.529Z
 vystupy:
