@@ -27,7 +27,7 @@ pressAgent:
   role: ""
   name: ""
   phone: ""
-  email: marketa.bockova@ochrance.cz
+  email: ""
 type: contact
 intl:
   role: International Relations Officer
