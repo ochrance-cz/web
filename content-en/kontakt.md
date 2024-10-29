@@ -24,9 +24,9 @@ access:
   universal: ""
   pic: /images/kontakt.jpg
 pressAgent:
-  role: Spokeswoman
-  name: Markéta Bočková
-  phone: +420 604 975 154
+  role: ""
+  name: ""
+  phone: ""
   email: marketa.bockova@ochrance.cz
 type: contact
 intl:
