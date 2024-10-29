@@ -11,3 +11,7 @@ vystupy:
 <p><a href="https://www.ochrance.cz/dokument/zpravy_pro_poslaneckou_snemovnu_2024/2024-ii-q.pdf">Zpráva za 2. čtvrtletí roku 2024</a></p>
 
 <p>Příloha: <a href="https://www.ochrance.cz/dokument/zpravy_pro_poslaneckou_snemovnu_2024/2024-ii-q-sankce.pdf">Věci, v nichž nebylo dosaženo nápravy</a>:&nbsp;posudek o zdravotním stavu je stěžejním podkladem pro rozhodování o příspěvku na péči, z toho důvodu má být jednoznačný, úplný a přesvědčivý</p>
+
+<p><a href="https://www.ochrance.cz/dokument/zpravy_pro_poslaneckou_snemovnu_2024/2024-iii-q.pdf">Zpráva za 3. čtvrtletí roku 2024</a></p>
+
+<p>Příloha: <a href="https://www.ochrance.cz/dokument/zpravy_pro_poslaneckou_snemovnu_2024/2024-iii-q-sankce.pdf">2024-iii-q-sankce.pdf</a>:&nbsp;posudek o zdravotním stavu je stěžejním podkladem pro rozhodování o průkazu osoby se zdravotním postižením;&nbsp;Ministerstvo spravedlnosti chybovalo, když zastavilo přestupkové řízení se znalkyní, ministr přes svůj slib dokonce promeškal lhůtu na přezkum</p>
