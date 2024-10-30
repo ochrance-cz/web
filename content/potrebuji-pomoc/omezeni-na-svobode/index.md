@@ -46,7 +46,11 @@ button:
 {{< rozbal "Dětská zařízení" >}}\
 Ombudsman navštěvuje zařízení pro výkon ústavní a ochranné výchovy a další zařízení pro děti. Zprávy z jednotlivých návštěv zařízení jsou dostupné v [Evidenci stanovisek ochránce](https://eso.ochrance.cz/Vyhledavani/Search)(oblast práva 801 a násl.) či v mapě navštívených zařízení viz níže.
 
-[](/media/skolska_zarizeni_pro_vykon_ustavni_a_ochranne_vychovy_pro_deti_se_zavislostmi.pdf)[Zpráva z návštěv školských zařízení pro výkon ústavní výchovy (2022)](https://www.ochrance.cz/uploads-import/ESO/%C5%A0kolsk%C3%A1-za%C5%99%C3%ADzen%C3%AD_CZ_el-verze.pdf)
+[Školská zařízení pro výkon ochranné výchovy (2024)](/media/vykon-ochranne-vychovy.pdf)
+
+[Školská zařízení pro výkon ústavní a ochranné výchovy pro děti se závislostmi (2024)](/media/vykon-ustavni-a-ochranne-vychovy-deti-se-zavislostmi.pdf)
+
+[](/media/vykon-ustavni-a-ochranne-vychovy-deti-se-zavislostmi.pdf)[](/media/vykon-ochranne-vychovy.pdf)[](/media/skolska_zarizeni_pro_vykon_ustavni_a_ochranne_vychovy_pro_deti_se_zavislostmi.pdf)[Zpráva z návštěv školských zařízení pro výkon ústavní výchovy (2022)](https://www.ochrance.cz/uploads-import/ESO/%C5%A0kolsk%C3%A1-za%C5%99%C3%ADzen%C3%AD_CZ_el-verze.pdf)
 
 [Zpráva z návštěv zařízení pro děti vyžadující okamžitou pomoc (2019) ](https://www.ochrance.cz/uploads-import/ESO/19-2015-_NZ_SZ_ZDVOP.pdf)
 
