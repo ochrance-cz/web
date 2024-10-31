@@ -23,7 +23,7 @@ attachments:
   - title: Školská zařízení pro výkon ústavní a ochranné výchovy pro děti se
       závislostmi – zpráva z návštěv zařízení
     file: https://www.ochrance.cz/media/vykon-ustavni-a-ochranne-vychovy-deti-se-zavislostmi.pdf
-  - title: Factsheet se shrnutím hlavních problémů
+  - title: "Factsheet se shrnutím hlavních problémů "
     file: https://www.ochrance.cz/aktualne/je_nutne_se_vice_zamerit_na_potreby_deti_zijicich_v_ustavnich_zarizenich_obzvlaste_tech_s_ochrannou_vychovou_a_drogovou_zavislosti-_zastupce_ombudsmana_zada_msmt_o_revizi_systemu/deti_se_specifickymi_potrebami_v_ustavni_peci.pdf
 ---
 <p>Tým odborníků Kanceláře ombudsmana navštívil v&nbsp;posledních letech celkem osm zařízení pro děti s&nbsp;ochrannou výchovou a další čtyři ústavy zaměřené na péči o děti se závislostmi. Ve dvojici&nbsp;souhrnných zpráv z&nbsp;těchto návštěv poukázal zástupce ombudsmana na slabiny současného systému. Problematické je především to, že děti se soudem&nbsp;uloženou ochrannou výchovou, tedy děti se závažnými výchovnými problémy, které páchaly trestnou činnost, se v&nbsp;dětských domovech se školou, výchovných a diagnostických ústavech běžně potkávají s&nbsp;vrstevníky, kteří se v zařízení ocitli především proto, že se o ně nemůže či nedokáže řádně postarat jejich rodina.</p>
