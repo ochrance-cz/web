@@ -69,6 +69,11 @@ sections:
       **Pracovnice vztahů k veřejnosti**\
 
       Martina Švaříčková Hlavatá
+
+
+      telefon: (+420) 542 542 775\
+
+      e-mail: martina.svarickovahlavata@ochrance.cz
   - title: Vedoucí Kanceláře veřejného ochránce práv
     intro: |-
       **Pavel Pořízek**
@@ -183,10 +188,6 @@ lawyers:
         role: právník (katastr nemovitostí, pozemkové úřady)
         phone: 542 542 324
         email: david.vavra@ochrance.cz
-      - name: Zuzana Křížková
-        role: právnička
-        phone: "542 542 343 "
-        email: zuzana.krizkova@ochrance.cz
       - name: Eliška Císařová
         role: právnička
         phone: 542 542 336
@@ -251,6 +252,10 @@ lawyers:
         role: "právnička "
         phone: 542 542 296
         email: andrea.vasickova@ochrance.cz
+      - name: Kateřina Quittová
+        email: katerina.quittova@ochrance.cz
+        phone: 542 542 363
+        role: právnička (důchody)
   - title: Odbor justice, migrace a financí
     intro: daně, cla, správní a místní poplatky, cizinecké záležitosti (víza,
       dlouhodobý pobyt, azyl, vyhoštění aj.), státní správa soudnictví (průtahy
