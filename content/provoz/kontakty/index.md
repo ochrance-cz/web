@@ -66,14 +66,9 @@ sections:
       e-mail: michaela.vaisova@ochrance.cz
 
 
-      **Pracovník vztahů k veřejnosti**\
+      **Pracovnice vztahů k veřejnosti**\
 
-      Michal Vaculík
-
-
-      telefon: (+420) 542 542 288\
-
-      e-mail: michal.vaculik@ochrance.cz
+      Martina Švaříčková Hlavatá
   - title: Vedoucí Kanceláře veřejného ochránce práv
     intro: |-
       **Pavel Pořízek**
