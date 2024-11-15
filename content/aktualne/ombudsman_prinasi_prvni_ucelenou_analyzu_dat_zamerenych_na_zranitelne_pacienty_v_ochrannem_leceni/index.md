@@ -13,7 +13,7 @@ perex: >
   odrazí se v našich doporučeních pro vznikající Národní koncepci ochranného
   léčení.</p>
 attachments:
-  - file: https://eso.ochrance.cz/Nalezene/Edit/13304
+  - file: https://www.ochrance.cz/uploads-import/ESO/10-2023-NZ_ochranna_lecba_vyzkumna_zprava.pdf
     title: "Výzkumná zpráva „Zranitelné skupiny lidí v ochranném léčení“ "
 ---
 <p>Zatímco u mladistvých a cizinců je příčina zranitelnosti zřejmá &ndash; u jedněch je to nižší úroveň životních zkušeností, u druhých jazyková bariéra &ndash;, ženy se v&nbsp;náročnější situaci ocitají v&nbsp;důsledku téměř neexistujících specializovaných ženských oddělení.</p>
