@@ -74,6 +74,16 @@ sections:
       telefon: (+420) 542 542 775\
 
       e-mail: martina.svarickovahlavata@ochrance.cz
+
+
+      **Pracovník vztahů k veřejnosti**\
+
+      V﻿áclav Rendl
+
+
+      telefon: (+420) 542 542 288\
+
+      e-mail: vaclav.rendl@ochrance.cz
   - title: Vedoucí Kanceláře veřejného ochránce práv
     intro: |-
       **Pavel Pořízek**
@@ -274,10 +284,6 @@ lawyers:
         role: právnička (daně, poplatky a cla)
         phone: 542 542 307
         email: radka.malinova@ochrance.cz
-      - name: Sylvie Pokorná
-        role: právnička (poplatky, státní správa soudů)
-        phone: 542 542 349
-        email: sylvie.pokorna@ochrance.cz
       - name: Josef Stehlík
         role: právník (věci cizinců)
         phone: 542 542 259
