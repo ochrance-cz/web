@@ -6,9 +6,9 @@ translationKey: chranit-lidska-prava-lepe-a-ucinneji
 ongoing: true
 bonus: ""
 illustration:
-  desc: logo Iceland Liechtenstein Norway grant
+  desc: logo Iceland Liechtenstein Norway grants
   pic: eea-and-norway_grants_4x_2_.png
-  caption: logo Iceland Liechtenstein Norway grant
+  caption: logo Iceland Liechtenstein Norway grants
 ---
 <h3><strong>Partneři projektu</strong></h3>
 
