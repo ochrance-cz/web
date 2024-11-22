@@ -26,6 +26,10 @@ attachments: []
 <p><img alt="3a.jpg" src="https://www.ochrance.cz/aktualne/ombudsman_se_pripojil_k_oslave_steho_vyroci_prav_deti_na_bratislavskem_hrade/3a.jpg" /></p>
 </blockquote>
 
-<p>&nbsp;</p>
+<blockquote>
+<p>Světový den dětí &ndash; 20. listopadu</p>
+
+<p>Datum 20. listopadu bylo pro Světový den dětí zvoleno jako připomenutí toho, že v&nbsp;tento den v&nbsp;roce 1959 Valné shromáždění OSN přijalo Deklaraci o právech dítěte a ve stejný den v roce 1989 Úmluvu o právech dítěte.</p>
+</blockquote>
 
 <p>&nbsp;</p>
