@@ -20,7 +20,7 @@ attachments: []
 
 <p>Výzvu tvoří desatero přání, které sestavil poradní orgán komisaře pro děti Jozefa Mikloška, složený z dětí a mládeže. Komisař ocenil, že tímto způsobem slovenské&nbsp;děti a mládež participují ve světě dospělých a oslovují jak děti, tak i dospělé na veřejném fóru.</p>
 
-<p>Apoštolský nuncius Nicola Girasoli k výzvě připojil přání, abychom nejenom v roce lepších vztahů, ale vždy používali nejlevnější make-up, kterým je úsměv a tím dali svému okolí&nbsp;na&nbsp;vědomí, že jsme otevření a vstřícní.&nbsp;&nbsp;</p>
+<p>Apoštolský nuncius Nicola Girasoli k výzvě připojil přání, abychom nejenom v roce lepších vztahů, ale vždy používali nejlevnější make-up, kterým je úsměv, a tím dali svému okolí&nbsp;na&nbsp;vědomí, že jsme otevření a vstřícní.&nbsp;&nbsp;</p>
 
 <p>&nbsp;</p>
 
