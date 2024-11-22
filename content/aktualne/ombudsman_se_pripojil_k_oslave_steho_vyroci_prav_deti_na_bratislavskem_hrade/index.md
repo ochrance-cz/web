@@ -3,13 +3,15 @@ title: Ombudsman se připojil k oslavě stého výročí práv dětí na Bratisl
 date: 2024-11-22T06:59:19.795Z
 vystupy:
   - aktualita
-perex: ""
+perex: >
+  <p>V&nbsp;letošním roce uplynulo 100 let od chvíle, kdy Liga národů vyhlásila
+  tzv. Ženevskou deklaraci práv dítěte. Tehdy bylo poprvé v&nbsp;dějinách právo
+  dětí zakotveno mezinárodním společenstvím.</p>
+
+
+  <p>Připomínku důležitého výročí, která uctila pokrok v&nbsp;oblasti práv dětí, zorganizoval slovenský Úrad komisára pre deti. Uskutečnila se 20. listopadu, tedy na Světový den dětí, v&nbsp;Záhradnom pavilóně Bratislavského hradu. Akce proběhla za účasti prezidenta Slovenské republiky Petera Pellegriniho, apoštolského nuncia na Slovensku Nicoly Girasoliho, komisaře pro děti Jozefa Mikloška a dalších významných hostů.</p>
 attachments: []
 ---
-<p>V&nbsp;letošním roce uplynulo 100 let od chvíle, kdy Liga národů vyhlásila tzv. Ženevskou deklaraci práv dítěte. Tehdy bylo poprvé v&nbsp;dějinách právo dětí zakotveno mezinárodním společenstvím.</p>
-
-<p>Připomínku důležitého výročí, která uctila pokrok v&nbsp;oblasti práv dětí, zorganizoval slovenský Úrad komisára pre deti. Uskutečnila se 20. listopadu, tedy na Světový den dětí, v&nbsp;Záhradnom pavilóně Bratislavského hradu. Akce proběhla za účasti prezidenta Slovenské republiky Petera Pellegriniho, apoštolského nuncia na Slovensku Nicoly Girasoliho, komisaře pro děti Jozefa Mikloška a dalších významných hostů.</p>
-
 <p>Slavnostního setkání se zúčastnil také ombudsman Stanislav Křeček, který považuje ochranu práv dětí za prioritní: <em>&bdquo;Dnes nám zakotvení dětských práv připadá samozřejmé, avšak cesta k&nbsp;jejich současnému vnímání jako důležitých a nesporných, byla dlouhá. Od doby ustavení dětských práv Ženevskou deklarací, došlo k&nbsp;velkým posunům a úsilí chránit dětská práva se neustále zintenzivňuje. Dokladem toho je například role dětského ombudsmana, která existuje v&nbsp;řadě zemí. Jsem rád, že se k&nbsp;nim brzy přidá i Česká republika. Práva dětí je totiž potřeba nejen respektovat, ale také aktivně chránit a prosazovat.&ldquo;</em></p>
 
 <p>Nutnost bdít nad ochranou práv dětí bylo hlavním mottem celé akce. Odrazilo se i ve společném přání účastníků, aby se nejen v&nbsp;zájmu dětí rok 2025 stal rokem lepších vztahů.</p>
