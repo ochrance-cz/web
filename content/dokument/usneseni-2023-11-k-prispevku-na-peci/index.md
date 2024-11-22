@@ -5,7 +5,7 @@ date: 2023-04-26T16:21:50.661Z
 vystupy:
   - poradni-organ-crpd
 attachmentsTop:
-  - file: usneseni-2023-11-k-prispevku-na-peci.docx
+  - file: https://www.ochrance.cz/dokument/usneseni_k_prispevku_na_peci/usneseni_2023_11_k_prispevku_na_peci.pdf
     title: Usnesení poradního orgánu veřejného ochránce práv pro oblast ochrany práv
       osob se zdravotním postižením k příspěvku na péči
 ---
