@@ -3,6 +3,8 @@ title: Ombudsman se zastal soudkyň, kterým se mateřská a rodičovská dovole
   nezapočítává do právní praxe. Ústavní soud ve svém nálezu potvrdil jeho
   stanovisko
 date: 2024-11-27T11:33:17.941Z
+vystupy:
+  - tz
 perex: >
   <p>Dle názoru ombudsmana&nbsp;dochází u mladých soudkyň k průsečíkové
   diskriminaci na základě věku, pohlaví a rodičovství. V&nbsp;současné době se
