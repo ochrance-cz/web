@@ -12,6 +12,9 @@ perex: >
   kariéry) do právní praxe nutné pro zvýšení platu nezapočte čas strávený na
   mateřské a rodičovské dovolené.&nbsp;Ve výrazné většině případů jsou to právě
   ženy, které využívají tuto možnost k&nbsp;výchově svých dětí.</p>
+attachments:
+  - title: Vyjádření pro Ústavní soud a výsledek případu
+    file: https://eso.ochrance.cz/Nalezene/Edit/13262#Poznamka
 ---
 <p>Ústavní soud tuto nesrovnalost v&nbsp;zákoně svým rozhodnutím zrušil a dal tak za pravdu ombudsmanovi, který se k řízení připojil jako vedlejší účastník. ,,<em>Navrhoval jsem Ústavnímu soudu, aby přezkoumávané ustanovení zrušil.&nbsp;Považuji za nelogické, aby mladé soudkyně, které si zvolí tuto kariérní cestu, neměly započteny mateřskou a rodičovskou dovolenou do své profesní praxe, pokud se jim dítě narodí v&nbsp;určitém časovém intervalu, který vymezovalo ústavním soudem zrušené ustanovení. Vítám proto, že dojde k&nbsp;narovnání těchto diskriminačních podmínek u žen,&ldquo; </em>uvedl ombudsman Stanislav Křeček.</p>
 
