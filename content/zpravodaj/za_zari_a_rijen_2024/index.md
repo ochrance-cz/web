@@ -16,10 +16,10 @@ sections:
           mapu</a>.</p>
 
 
-          <p>Čekání na příští vydání zpravodaje si můžete zkrátit třeba u nové série našich <a href="https://youtu.be/2iwnU1j3h-A">podcastů</a>. &nbsp;</p>
-
-
           <p>Přejeme příjemné čtení a hlavně příjemné svátky.</p>
+
+
+          <p>Tým Kanceláře veřejného ochránce práv</p>
         title: Milé čtenářky, milí čtenáři,
   - title: Pomohli jsme napravit chybu úřadu
     articles:
@@ -59,10 +59,10 @@ sections:
 
           <p>Dítě svěřené do péče jinému člověku může dostávat příspěvek na úhradu potřeb dítěte. Ten se snižuje o výživné na dítě, které určil soud (většinou rodičům). Pokud soud výživné změní, musí úřad práce příspěvek přepočítat. Vyšší příspěvek musí přiznat již od&nbsp;měsíce, za který má dítě dostat nižší výživné.</p>
 
+          </blockquote>
+
 
           <p>Chlapec dostával příspěvek na&nbsp;úhradu potřeb dítěte snížený o soudem určené výživné. V&nbsp;září soud otci výživné zpětně snížil, a to od srpna. Úřad práce příspěvek přepočítal, ale zvýšil ho až od&nbsp;října, kdy rozsudek o&nbsp;snížení výživného nabyl právní moci.</p>
-
-          </blockquote>
 
 
           <p>Úřad práce uznal chybu již na&nbsp;základě našeho upozornění a&nbsp;chlapci přiznal a doplatil zvýšený příspěvek již od srpna.</p>
