@@ -5,10 +5,9 @@ date: 2024-11-29T08:20:45.836Z
 vystupy:
   - aktualita
 perex: >
-  <p>Poslední Zpravodaj ombudsmana roku 2024 je tu. Jak se v&nbsp;něm dočtete,
-  ombudsman opět řešil pestrá témata: poplatky, plné moci i kočárky. V&nbsp;září
-  a říjnu také navštívil několik zařízení, kde jsou lidé nějak omezení na
-  svobodě.</p>
+  <p>Poslední Zpravodaj ombudsmana roku 2024 je tu. Ombudsman opět řešil pestrá
+  témata: poplatky, plné moci i kočárky. V&nbsp;září a říjnu také navštívil
+  několik zařízení, kde jsou lidé nějak omezení na svobodě.</p>
 ---
 <p><strong>Čím se ombudsman například zabýval?</strong></p>
 
