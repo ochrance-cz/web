@@ -1,6 +1,6 @@
 ---
 title: Čemu se ombudsman věnoval v září a říjnu? To se dočtete v posledním
-  Zpravodaji ombudsmana tohoto roku.
+  Zpravodaji ombudsmana tohoto roku
 date: 2024-11-29T08:20:45.836Z
 vystupy:
   - aktualita
