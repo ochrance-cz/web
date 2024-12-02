@@ -71,9 +71,7 @@ sections:
       Martina Švaříčková Hlavatá
 
 
-      telefon: (+420) 542 542 775\
-
-      e-mail: martina.svarickovahlavata@ochrance.cz
+      e-mail: medialni@ochrance.cz
 
 
       **Pracovník vztahů k veřejnosti**\
@@ -81,9 +79,15 @@ sections:
       V﻿áclav Rendl
 
 
-      telefon: (+420) 542 542 288\
+      e-mail: medialni@ochrance.cz
 
-      e-mail: vaclav.rendl@ochrance.cz
+
+      **Pracovnice vztahů k veřejnosti**\
+
+      K﻿ristýna Motyčáková
+
+
+      e-mail: medialni@ochrance.cz
   - title: Vedoucí Kanceláře veřejného ochránce práv
     intro: |-
       **Pavel Pořízek**
@@ -442,6 +446,10 @@ lawyers:
         role: právnička
         phone: 542 542 254
         email: "veronika.bazalova@ochrance.cz "
+      - name: Lucie Vodvářková
+        phone: 542 542 319
+        role: právnička
+        email: "lucie.vodvarkova@ochrance.cz "
   - title: Odbor dohledu nad omezováním osobní svobody
     intro: >
       provádění systematických preventivních návštěv v zařízení, kde se mohou
@@ -477,10 +485,6 @@ lawyers:
         role: právník
         phone: 542 542 283
         email: matej.stritesky@ochrance.cz
-      - name: Silvie Konopková
-        role: "právnička "
-        phone: "542 542 375 "
-        email: silvie.konopkova@ochrance.cz
       - name: Anna Makarenko
         role: právnička
         phone: "anna.makarenko@ochrance.cz "
