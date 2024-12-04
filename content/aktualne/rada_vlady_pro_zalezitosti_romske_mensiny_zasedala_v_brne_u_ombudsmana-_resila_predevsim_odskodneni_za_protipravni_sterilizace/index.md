@@ -35,15 +35,11 @@ perex: >
 
 <p>2 Toto usnesení je výsledkem společného úsilí a shody více poradních orgánů vlády. Usnesení v&nbsp;tomto znění (případně s&nbsp;drobnými formulačními odchylkami) přijali:</p>
 
-<p>&nbsp;&nbsp;&nbsp; &bull; Výbor proti mučení Rady vlády pro lidská práva dne 4. 10. 2024</p>
-
-<p>&nbsp;&nbsp;&nbsp; &bull; Pracovní skupina pro otázky romských žen Rady vlády pro rovnost žen a mužů dne 7. 11. 2024</p>
-
-<p>&nbsp;&nbsp;&nbsp; &bull; Rada vlády pro rovnost žen a mužů dne 2. 12. 2024</p>
-
-<p>&nbsp;&nbsp;&nbsp; a bude po Novém roce přeloženo Radě vlády pro lidská práva.</p>
-
-<p>&nbsp;</p>
+<ul>
+	<li>Výbor proti mučení Rady vlády pro lidská práva dne 4. 10. 2024</li>
+	<li>Pracovní skupina pro otázky romských žen Rady vlády pro rovnost žen a mužů dne 7. 11. 2024</li>
+	<li>Rada vlády pro rovnost žen a mužů dne 2. 12. 2024 a bude po Novém roce přeloženo Radě vlády pro lidská práva.</li>
+</ul>
 
 <p>&nbsp;</p>
 
