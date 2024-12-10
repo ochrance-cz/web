@@ -403,17 +403,11 @@ title: "2024"
 
 <p><a href="https://www.ochrance.cz/aktualne/o_planovane_stavbe_santovka_tower_v_olomouci_bude_podruhe_rozhodovat_nejvyssi_spravni_soud_ombudsman_podal_kasacni_stiznost/usneseni_ks_ostrava_65_a_18-2020_20.3.2024_.pdf">Příloha 2</a>.</p>
 
-<h3>63/2024 &ndash; Informace z&nbsp;oblasti soudů</h3>
-
-<p>Žádost o informace.</p>
-
-<p>Odpověď na žádost.</p>
-
 <h3>67/2024 &ndash; Informace z&nbsp;oblasti sociálně-právní ochrany dětí a OSPOD</h3>
 
-<p>Žádost o informace.</p>
+<p><a href="https://www.ochrance.cz/info106/2024/67_2024_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>Odpověď na žádost.</p>
+<p><a href="https://www.ochrance.cz/info106/2024/67_2024_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <h3>68/2024 &ndash; Informace z&nbsp;oblasti dopravních přestupků</h3>
 
