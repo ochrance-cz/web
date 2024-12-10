@@ -349,7 +349,7 @@ title: "2024"
 
 <h3>57/2024 &ndash; Informace ke spisu z&nbsp;oblasti Katastr nemovitostí - zápisy práv</h3>
 
-<p><a href="https://www.ochrance.cz/info106/2024/57_2024_zadost.pdf">Žádost o odpověď</a>.</p>
+<p><a href="https://www.ochrance.cz/info106/2024/57_2024_zadost.pdf">Žádost o informace</a>.</p>
 
 <p><a href="https://www.ochrance.cz/info106/2024/57_2024_odpoved.odt">Odpověď na žádost</a>.</p>
 
@@ -359,7 +359,7 @@ title: "2024"
 
 <h3>58/2024 &ndash; Informace z&nbsp;oblasti Práva na informace a&nbsp;ochrana osobních údajů</h3>
 
-<p><a href="https://www.ochrance.cz/info106/2024/58_2024_zadost.pdf">Žádost o odpověď</a>.</p>
+<p><a href="https://www.ochrance.cz/info106/2024/58_2024_zadost.pdf">Žádost o informace</a>.</p>
 
 <p><a href="https://www.ochrance.cz/info106/2024/58_2024_odpoved.odt">Odpověď na žádost</a>.</p>
 
@@ -367,8 +367,66 @@ title: "2024"
 
 <h3>59/2024 &ndash; Informace z&nbsp;oblasti Vězeňství</h3>
 
-<p><a href="https://www.ochrance.cz/info106/2024/59_2024_zadost.pdf">Žádost o odpověď</a>.</p>
+<p><a href="https://www.ochrance.cz/info106/2024/59_2024_zadost.pdf">Žádost o informace</a>.</p>
 
 <p><a href="https://www.ochrance.cz/info106/2024/59_2024_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <p><a href="https://www.ochrance.cz/info106/2024/59_2024_odpoved_priloha_narizeni_gr_vs_cr.pdf">Příloha</a>.</p>
+
+<h3>60/2024 &ndash; Informace z&nbsp;oblasti Samostatná působnost obcí a krajů</h3>
+
+<p><a href="https://www.ochrance.cz/info106/2024/60_2024_zadost.pdf">Žádost o informace</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2024/60_2024_odpoved.odt">Odpověď na žádost</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2024/60_2024_odpoved_priloha_1.pdf">Příloha 1</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2024/60_2024_odpoved_priloha_2.odt">Příloha 2</a>.</p>
+
+<h3>61/2024 &ndash; Informace ke kasační stížnosti VOP</h3>
+
+<p><a href="https://www.ochrance.cz/info106/2024/61_2024_zadost.pdf">Žádost o informace</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2024/61_2024_odpoved.odt">Odpověď na žádost</a>.</p>
+
+<p><a href="https://www.ochrance.cz/aktualne/o_planovane_stavbe_santovka_tower_v_olomouci_bude_podruhe_rozhodovat_nejvyssi_spravni_soud_ombudsman_podal_kasacni_stiznost/kasacni_stiznost_vop.pdf">Příloha 1</a></p>
+
+<p><a href="https://www.ochrance.cz/aktualne/o_planovane_stavbe_santovka_tower_v_olomouci_bude_podruhe_rozhodovat_nejvyssi_spravni_soud_ombudsman_podal_kasacni_stiznost/usneseni_ks_ostrava_65_a_18-2020_20.3.2024_.pdf">Příloha 2</a></p>
+
+<h3>62/2024 &ndash; Informace ke kasační stížnosti VOP</h3>
+
+<p><a href="https://www.ochrance.cz/info106/2024/62_2024_zadost.pdf">Žádost o informace</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2024/62_2024_odpoved.odt">Odpověď na žádost</a>.</p>
+
+<p><a href="https://www.ochrance.cz/aktualne/o_planovane_stavbe_santovka_tower_v_olomouci_bude_podruhe_rozhodovat_nejvyssi_spravni_soud_ombudsman_podal_kasacni_stiznost/kasacni_stiznost_vop.pdf">Příloha 1</a>.</p>
+
+<p><a href="https://www.ochrance.cz/aktualne/o_planovane_stavbe_santovka_tower_v_olomouci_bude_podruhe_rozhodovat_nejvyssi_spravni_soud_ombudsman_podal_kasacni_stiznost/usneseni_ks_ostrava_65_a_18-2020_20.3.2024_.pdf">Příloha 2</a>.</p>
+
+<h3>63/2024 &ndash; Informace z&nbsp;oblasti soudů</h3>
+
+<p>Žádost o informace.</p>
+
+<p>Odpověď na žádost.</p>
+
+<h3>67/2024 &ndash; Informace z&nbsp;oblasti sociálně-právní ochrany dětí a OSPOD</h3>
+
+<p>Žádost o informace.</p>
+
+<p>Odpověď na žádost.</p>
+
+<h3>68/2024 &ndash; Informace z&nbsp;oblasti dopravních přestupků</h3>
+
+<p><a href="https://www.ochrance.cz/info106/2024/68_2024_zadost.pdf">Žádost o informace</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2024/68_2024_odpoved.odt">68_2024_odpoved.odt</a>.</p>
+
+<h3>71/2024 &ndash; Informace k&nbsp;Evropské úmluvě o ochraně lidských práv</h3>
+
+<p><a href="https://www.ochrance.cz/info106/2024/71_2024_zadost.pdf">Žádost o informace</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2024/71_2024_odpoved.odt">Odpověď na žádost</a>.</p>
+
+<p><a href="https://www.echr.coe.int/documents/d/echr/convention_ces">Příloha</a></p>
+
+<p>&nbsp;</p>
