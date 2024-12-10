@@ -70,3 +70,4 @@ jobs:
           host: ${{ secrets.SSH_HOSTNAME }}
           username: ${{ secrets.SSH_USERNAME }}
           privateKey: ${{ secrets.SSH_PRIVATE_KEY }}
+          port: ${{ secrets.SSH_PORT }}
