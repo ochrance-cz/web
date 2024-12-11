@@ -51,9 +51,13 @@ jobs:
           key: ${{ secrets.SSH_PRIVATE_KEY }}
 
       - name: Unpack tar into place
-        uses: garygrossgarten/github-action-ssh@release
+        uses: appleboy/ssh-action@v1.2.0
         with:
-          command: |
+          host: ${{ secrets.SSH_HOSTNAME }}
+          username: ${{ secrets.SSH_USERNAME }}
+          port: ${{ secrets.SSH_PORT }}
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
+          script: |
             cd /home/ochrance/public_html
             echo ${{ github.run_number }} > PREVIEW-GHRN.txt
             mkdir _preview-${{ github.run_number }}
@@ -67,7 +71,3 @@ jobs:
               rm -rf _preview-old
             fi
             rm _preview-${{ github.run_number }}.tar.gz
-          host: ${{ secrets.SSH_HOSTNAME }}
-          username: ${{ secrets.SSH_USERNAME }}
-          privateKey: ${{ secrets.SSH_PRIVATE_KEY }}
-          port: ${{ secrets.SSH_PORT }}
