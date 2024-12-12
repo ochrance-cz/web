@@ -56,7 +56,7 @@ sections:
       ### **Oddělení PR a marketingu**
 
 
-      **Vedoucí oddělení PR a marketingu**\
+      **Vedoucí oddělení PR a marketingu a tisková mluvčí**\
 
       M﻿ichaela Vaisová
 
