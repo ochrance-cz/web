@@ -17,8 +17,6 @@ perex: >
 attachments:
   - file: https://eso.ochrance.cz/Nalezene/Edit/13360
     title: Zpráva o šetření - Trkmanka
-  - title: "Zpráva o šetření - Bečva "
-    file: null
   - title: Dopis ministrovi životního prostředí
     file: https://eso.ochrance.cz/Nalezene/Edit/13354
   - title: Tisková zpráva ze zahájení šetření
