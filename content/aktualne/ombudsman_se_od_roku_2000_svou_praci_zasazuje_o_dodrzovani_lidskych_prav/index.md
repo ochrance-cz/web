@@ -37,26 +37,16 @@ perex: >
 
 <p>Shrnutí, zajímavosti a data za posledních 15 let najdete v&nbsp;našem <a href="https://www.ochrance.cz/aktualne/ombudsman_uz_15_let_pomaha_s_diskriminaci-_vyroci_si_pripomnel_na_konferenci_v_senatu_spolecne_s_obetmi_nerovneho_zachazeni/factsheet_15_let_bojujeme_proti_diskriminaci.pdf">factsheetu</a></p>
 
-<p>&nbsp;</p>
+<p><a href="https://www.ochrance.cz/situace/diskriminace/">Konkrétní případy diskriminace</a>, se kterými se můžete nejčastěji v&nbsp;každodenním osobním a pracovním životě setkat</p>
 
-<p><a href="https://www.ochrance.cz/situace/diskriminace/">Konkrétní případy diskriminace</a>, se kterými se můžete nejčastěji v&nbsp;každodenním osobním a pracovním životě setkat, a jak se v&nbsp;těchto situacích zachovat najdete</p>
+<p>V&nbsp;<a href="https://www.ochrance.cz/aktualne/diskriminace_v_bydleni_vzdelavani_nebo_praci-_vyzkousejte_dalsi_casti_e-learningu_ombudsmana/">e-learningu</a> ombudsmana jsme pro vás vytvořili online kurz o antidiskriminačním právu. Zde se můžete dozvědět, jak diskriminaci poznat a řešit.&nbsp;</p>
 
-<p>&nbsp;</p>
-
-<p>V&nbsp;<a href="https://www.ochrance.cz/aktualne/diskriminace_v_bydleni_vzdelavani_nebo_praci-_vyzkousejte_dalsi_casti_e-learningu_ombudsmana/">e-learningu</a> ombudsmana jsme pro vás vytvořili online kurz o antidiskriminačním právu. Zde se můžete dozvědět, jak diskriminaci poznat a řešit. Více</p>
+<p><a href="https://www.ochrance.cz/potrebuji-pomoc/diskriminace/">Kdy vám může ombudsman pomoci</a>? Ve které oblasti dochází k&nbsp;nerovnému zacházení? A kdy naopak pomoci nemůžeme, ale aspoň vám poradíme, jak problém řešit?&nbsp;</p>
 
 <p>&nbsp;</p>
 
-<p><a href="https://www.ochrance.cz/potrebuji-pomoc/diskriminace/">Kdy vám může ombudsman pomoci</a>? Ve které oblasti dochází k&nbsp;nerovnému zacházení? A kdy naopak pomoci nemůžeme, ale aspoň vám poradíme, jak problém řešit? Více informací najdete</p>
+<p><a href="https://www.ochrance.cz/dokument/doporuceni_pro_zamestnavatele/">Jak se vyhnout diskriminaci na pracovišti</a>? Jaké jsou nejčastější případy a jak jim předcházet?&nbsp;</p>
 
-<p>&nbsp;</p>
+<p><a href="https://www.ochrance.cz/aktualne/zeny_v_cesku_se_kvuli_tehotenstvi_a_materstvi_setkavaji_v_praci_s_mnohymi_barierami_potvrdil_vyzkum_verejneho_ochrance_prav/vyzkumna_zprava_tehotenstvi_a_materstvi_na_pracovisti.pdf">Jaké máme doporučení pro těhotné ženy a matky na pracovišti</a>? Jaká mají matky práva a na co si dát pozor, aby u nich nedošlo k&nbsp;diskriminaci? Co například dělat, když se chcete do práce vrátit dříve z&nbsp;mateřské dovolené?&nbsp;&nbsp;</p>
 
-<p><a href="https://www.ochrance.cz/dokument/doporuceni_pro_zamestnavatele/">Jak se vyhnout diskriminaci na pracovišti</a>? Jaké jsou nejčastější případy a jak jim předcházet? Praktickou příručku práva na rovné zacházení pro zaměstnavatele najdete&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p><a href="https://www.ochrance.cz/aktualne/zeny_v_cesku_se_kvuli_tehotenstvi_a_materstvi_setkavaji_v_praci_s_mnohymi_barierami_potvrdil_vyzkum_verejneho_ochrance_prav/vyzkumna_zprava_tehotenstvi_a_materstvi_na_pracovisti.pdf">Jaké máme doporučení pro těhotné ženy a matky na pracovišti</a>? Jaká mají matky práva a na co si dát pozor, aby u nich nedošlo k&nbsp;diskriminaci? Co například dělat, když se chcete do práce vrátit dříve z&nbsp;mateřské dovolené?&nbsp; Více se dozvíte</p>
-
-<p>&nbsp;</p>
-
-<p>Koukněte se také na naše <a href="https://www.ochrance.cz/dokument/monitorovaci_zpravy/">monitorující a shrnující zprávy</a></p>
+<p>Koukněte se také na naše <a href="https://www.ochrance.cz/dokument/monitorovaci_zpravy/">monitorovací a shrnující zprávy</a></p>
