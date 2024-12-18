@@ -49,20 +49,12 @@ attachments:
 	</li>
 	<li>
 	<p>náklady na dobudování vhodných prostor pro vlky s ohledem na aktuální právní úpravu:</p>
-
-	<ul>
-		<li>
-		<p>pro chov jednoho nebo dvou zvířat musí být venkovní chovný prostor o velikosti nejméně 300 m2,</p>
-		</li>
-		<li>
-		<p>pro třetí a každé další chované zvíře musí být nejméně dalších 20 m2 venkovního chovného prostoru.</p>
-
-		<ul>
-		</ul>
-		</li>
-	</ul>
 	</li>
 </ul>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a) pro chov jednoho nebo dvou zvířat musí být venkovní chovný prostor o velikosti nejméně 300 m2, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b) třetí a každé další chované zvíře musí být nejméně dalších 20 m2 venkovního chovného prostoru.</p>
 </blockquote>
 
 <p>&nbsp;</p>
