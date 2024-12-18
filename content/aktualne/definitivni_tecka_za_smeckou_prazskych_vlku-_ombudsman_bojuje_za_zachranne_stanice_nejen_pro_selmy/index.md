@@ -2,6 +2,8 @@
 title: "Definitivní tečka za smečkou pražských vlků. Ombudsman bojuje za
   záchranné stanice nejen pro šelmy "
 date: 2024-12-18T09:10:27.136Z
+vystupy:
+  - tz
 perex: >
   <p>Sousedé chovatele vlků si konečně mohou oddechnout. Poslední ze sedmi
   zvířat, která žila v&nbsp;nevyhovujícím prostředí u rodinného domu
