@@ -99,7 +99,8 @@ sections:
 
 
           <p>Krajský úřad po našem zásahu přiznal, že nepostupoval správně a uznal odbornou způsobilost stěžovatelky.</p>
-        title: "Pomohli jsme sociální pracovnici s uznáním její odborné způsobilosti "
+        title: "Pomohli jsme pracovnici v sociálních službách s uznáním její odborné
+          způsobilosti "
         id: 234/2024/VOP
         eso: https://eso.ochrance.cz/Nalezene/Edit/12940
       - body: >
