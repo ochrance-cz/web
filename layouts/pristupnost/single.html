@@ -1,0 +1,52 @@
+{{ define "main" }}
+<main>
+  {{ partial "text-header.html" . }}
+  <div {{ with .Params.contentBackdrop }} class="{{ . }}"{{ end }}>
+    <section>
+      {{ with .Params.perex }}
+        <div class="perex">
+          {{ partial "md-block.html" . }}
+        </div>
+      {{ end }}
+
+      {{ with .Params.links }}
+        {{ partial "link-list.html" (dict "list" . "page" $) }}
+      {{ end }}
+
+    	{{ partial "typo.html" .RawContent }}
+
+      {{ with .Params.linksAfter }}
+        {{ partial "link-list.html" (dict "list" . "page" $) }}
+      {{ end }}
+
+      {{ $path := .RelPermalink }}
+      <div class="_pristupnost-navigation">
+        {{ $chapters := ($.Site.GetPage "pristupnost").Params.chapters }}
+        {{- range $index, $val := $chapters -}}
+          {{ $curPath := print "/pristupnost/" (replaceRE "/index" "" $val.chapter) "/"}}
+          {{ if eq $path $curPath }}
+            {{ $before := index $chapters (sub $index 1) }}
+            {{ $after := index $chapters (add $index 1) }}
+
+            {{ with $before }}
+              {{ with $.GetPage (print "/pristupnost/" .chapter) }}
+                <a href="{{ .Permalink | absURL }}">{{ .Title }}</a>
+              {{ end }}
+            {{ else }}
+              {{ $page := $.GetPage "pristupnost" }}
+              <a href="{{ $page.Permalink | absURL }}">Obsah příručky</a>
+            {{ end }}
+
+            {{ with $after }}
+              {{ with $.GetPage (print "/pristupnost/" .chapter) }}
+                <a href="{{ .Permalink | absURL }}">{{ .Title }}</a>
+              {{ end }}
+            {{ end }}
+
+          {{ end }}
+        {{- end -}}
+      </div>
+    </section>
+  </div>
+</main>
+{{ end }}

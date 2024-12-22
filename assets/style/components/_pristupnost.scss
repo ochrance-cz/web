@@ -1,0 +1,34 @@
+._pristupnost-navigation {
+  margin-top: 8rem;
+
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 2em;
+
+  @include font-size-l;
+  @include font-family-headline;
+
+  a {
+    padding-top: 3rem;
+  }
+
+  a:nth-child(1) {
+    @include svg-bg($backArrow, $green, 0% 0%);
+    background-size: 2rem;
+  }
+
+  a:nth-child(2) {
+    text-align: right;
+
+    @include svg-bg($arrow, $green, 100% 0%);
+    background-size: 2rem;
+  }
+}
+
+._pristupnost-nav-list {
+  ol {
+    @include font-size-l;
+    @include font-family-headline;
+    padding-left: 3rem;
+  }
+}

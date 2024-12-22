@@ -21,6 +21,10 @@
         <p><a href="{{ (.GetPage "srozumitelne").Permalink | absURL }}">zpět na obsah příručky</a></p>
       {{ end }}
 
+      {{ if and (eq .Section "pristupnost") (ne .Kind "section")  }}
+        <p><a href="{{ (.GetPage "pristupnost").Permalink | absURL }}">zpět na obsah sekce</a></p>
+      {{ end }}
+
       {{ if and (eq .Section "umluva") (ne .Kind "section")  }}
         <p class="_umluva-backlink"><a href="{{ (.GetPage "umluva").Permalink | absURL }}#obsah">zpět na obsah</a></p>
       {{ end }}
