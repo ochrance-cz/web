@@ -425,17 +425,17 @@ title: "2024"
 
 <h3>72/2024 &ndash; informace z&nbsp;oblasti Vězeňství</h3>
 
-<p>ž</p>
+<p><a href="https://www.ochrance.cz/info106/2024/72_2024_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>o</p>
+<p><a href="https://www.ochrance.cz/info106/2024/72_2024_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <p><a href="https://www.zakonyprolidi.cz/cs/1961-141">Příloha</a></p>
 
 <h3>73/2024 &ndash; Informace z&nbsp;oblasti Vězeňství</h3>
 
-<p>ž</p>
+<p><a href="https://www.ochrance.cz/info106/2024/73_2024_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>o</p>
+<p><a href="https://www.ochrance.cz/info106/2024/73_2024_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <p><a href="https://www.ochrance.cz/vystupy/edice-stanoviska/Sbornik_Vezenstvi.pdf">Příloha 1</a></p>
 
@@ -445,15 +445,15 @@ title: "2024"
 
 <h3>75/2024 &ndash; Informace z&nbsp;oblasti Detence &ndash; zařízení sociálních služeb</h3>
 
-<p>ž</p>
+<p><a href="https://www.ochrance.cz/info106/2024/75_2024_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>o</p>
+<p><a href="https://www.ochrance.cz/info106/2024/75_2024_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <h3>76/2024 &ndash; Informace z&nbsp;oblasti Vězeňství</h3>
 
-<p>ž</p>
+<p><a href="https://www.ochrance.cz/info106/2024/76_2024_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>o</p>
+<p><a href="https://www.ochrance.cz/info106/2024/76_2024_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <p><a href="https://www.ochrance.cz/vystupy/edice-stanoviska/Sbornik_Vezenstvi.pdf">Příloha 1</a></p>
 
@@ -461,9 +461,9 @@ title: "2024"
 
 <h3>77/2024 &ndash; Informace k&nbsp;působnosti VOP</h3>
 
-<p>ž</p>
+<p><a href="https://www.ochrance.cz/info106/2024/77_2024_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>o</p>
+<p><a href="https://www.ochrance.cz/info106/2024/77_2024_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <p><a href="https://www.zakonyprolidi.cz/cs/2004-500/zneni-20210101">Příloha 1</a></p>
 
@@ -473,27 +473,27 @@ title: "2024"
 
 <h3>78/2024 &ndash; Informace k&nbsp;pracovně-právní věci</h3>
 
-<p>ž</p>
+<p><a href="https://www.ochrance.cz/info106/2024/78_2024_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>o</p>
+<p><a href="https://www.ochrance.cz/info106/2024/78_2024_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <h3>79/2024 &ndash; Informace ke spisu z&nbsp;oblasti Správa pozemních komunikací</h3>
 
-<p>ž</p>
+<p><a href="https://www.ochrance.cz/info106/2024/79_2024_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>o</p>
+<p><a href="https://www.ochrance.cz/info106/2024/79_2024_poskytnuti.pdf">Odpověď na žádost</a>.</p>
 
 <h3>80/2024 &ndash; Informace ke spisu z&nbsp;oblasti Ostatní působnost Ministerstva vnitra</h3>
 
-<p>ž</p>
+<p><a href="https://www.ochrance.cz/info106/2024/80_2024_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>o</p>
+<p><a href="https://www.ochrance.cz/info106/2024/80_2024_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <h3>82/2024 &ndash; Informace z&nbsp;oblasti Vězeňství</h3>
 
-<p>ž</p>
+<p><a href="https://www.ochrance.cz/info106/2024/82_2024_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>o</p>
+<p><a href="https://www.ochrance.cz/info106/2024/82_2024_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <p><a href="https://www.ochrance.cz/vystupy/edice-stanoviska/Sbornik_Vezenstvi.pdf">Příloha 1</a></p>
 
@@ -501,9 +501,9 @@ title: "2024"
 
 <h3>83/2024 &ndash; informace z&nbsp;oblasti Vězeňství</h3>
 
-<p>ž</p>
+<p><a href="https://www.ochrance.cz/info106/2024/83_2024_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>o</p>
+<p><a href="https://www.ochrance.cz/info106/2024/83_2024_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <p><a href="https://www.ochrance.cz/vystupy/edice-stanoviska/Sbornik_Vezenstvi.pdf">Příloha 1</a></p>
 
@@ -561,23 +561,23 @@ title: "2024"
 
 <h3>84/2024 &ndash; informace z&nbsp;oblasti Vězeňství</h3>
 
-<p>ž</p>
+<p><a href="https://www.ochrance.cz/info106/2024/84_2024_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>o</p>
+<p><a href="https://www.ochrance.cz/info106/2024/84_2024_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <h3>85/2024 &ndash; informace z&nbsp;oblasti Vězeňství</h3>
 
-<p>ž</p>
+<p><a href="https://www.ochrance.cz/info106/2024/85_2024_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>o</p>
+<p><a href="https://www.ochrance.cz/info106/2024/85_2024_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <p><a href="https://www.ochrance.cz/uploads-import/Publikace/sborniky_stanoviska/Sbornik_Vezenstvi_II.pdf">Příloha</a></p>
 
 <h3>88/2024 &ndash; informace z&nbsp;oblasti Vězeňství</h3>
 
-<p>ž</p>
+<p><a href="https://www.ochrance.cz/info106/2024/88_2024_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>o</p>
+<p><a href="https://www.ochrance.cz/info106/2024/88_2024_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <p><a href="https://www.ochrance.cz/vystupy/edice-stanoviska/Sbornik_Vezenstvi.pdf">Příloha 1</a></p>
 
@@ -587,9 +587,9 @@ title: "2024"
 
 <h3>90/2024 &ndash; informace z&nbsp;oblasti Vězeňství</h3>
 
-<p>ž</p>
+<p><a href="https://www.ochrance.cz/info106/2024/90_2024_zadost.pdf">Žádost o informace</a>.</p>
 
-<p>o</p>
+<p><a href="https://www.ochrance.cz/info106/2024/90_2024_odpoved.odt">Odpověď na žádost</a>.</p>
 
 <p><a href="https://www.ochrance.cz/vystupy/edice-stanoviska/Sbornik_Vezenstvi.pdf">Příloha 1</a></p>
 
