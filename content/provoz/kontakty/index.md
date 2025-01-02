@@ -199,6 +199,14 @@ lawyers:
         role: právnička
         phone: 542 542 336
         email: eliska.cisarova@ochrance.cz
+      - name: Helena Pindejová
+        role: právnička (správní trestání)
+        phone: 542 542 343
+        email: helena.pindejova@ochrance.cz
+      - name: Anna Slováčková
+        role: právnička (doprava, veřejné cesty)
+        phone: 542 542 383
+        email: slovackova@ochrance.cz
   - title: Odbor sociálního zabezpečení
     intro: dávky pomoci v hmotné nouzi, příspěvek na péči, dávky pro zdravotně
       postižené, důchody, dávky nemocenského pojištění, dávky státní sociální
@@ -251,10 +259,6 @@ lawyers:
           osoby se zdravotním postižením)
         phone: 542 542 341
         email: zuzana.scukova@ochrance.cz
-      - name: Nikola Kovářová
-        role: právnička
-        phone: "542 542 202 "
-        email: nikola.kovarova@ochrance.cz
       - name: Andrea Vašíčková
         role: "právnička "
         phone: 542 542 296
@@ -359,10 +363,6 @@ lawyers:
         role: právnička (sociálně-právní ochrana dětí, ústavní výchova, pěstounská péče)
         phone: 542 542 372
         email: alice.zizlavska@ochrance.cz
-      - name: Veronika Čapková
-        role: právnička (sociálně-právní ochrana dětí, pěstounská péče, ústavní výchova)
-        phone: 542 542 668
-        email: "veronika.capkova@ochrance.cz "
       - name: Petra Dostálová
         role: právnička (správa na úseku zdravotnictví)
         email: petra.dostalova@ochrance.cz
@@ -375,6 +375,10 @@ lawyers:
         role: právnička (správa na úseku zdravotnictví)
         phone: 542 542 331
         email: bela.vaverkova@ochrance.cz
+      - name: Daniela Suchánková
+        role: právnička (sociálně-právní ochrana dětí, správa na úseku zdravotnictví)
+        phone: 542 542 772
+        email: daniela.suchankova@ochrance.cz
   - title: Odbor rovného zacházení
     intro: >
       poskytování metodické pomoci obětem diskriminace, provádění výzkumu v
@@ -407,10 +411,6 @@ lawyers:
         role: právnička
         phone: 542 542 295
         email: lucie.obrovska@ochrance.cz
-      - name: Jan Slavíček
-        role: právník
-        phone: 542 542 252
-        email: jan.slavicek@ochrance.cz
       - name: Karel Suda
         role: právník
         phone: 542 542 345
@@ -498,6 +498,10 @@ lawyers:
         role: Miriam Tomášková
         phone: 542 542 276
         email: miriam.tomaskova@ochrance.cz
+      - name: Jan Wünsch
+        role: právník
+        phone: 542 542 375
+        email: wunsch@ochrance.cz
   - title: Odbor ochrany práv osob se zdravotním postižením
     people:
       - name: Romana Jakešová
@@ -554,6 +558,10 @@ lawyers:
         role: "právnička "
         phone: 542 542 313
         email: jana.peckovahodeckova@ochrance.cz
+      - name: Jakub Dubják
+        role: referent
+        phone: 542 542 396
+        email: dubjak1@ochrance.cz
   - title: Úsek výzkumu
     people:
       - name: Jakub Konečný
