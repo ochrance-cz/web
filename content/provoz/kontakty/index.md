@@ -39,18 +39,11 @@ sections:
       e-mail: martin.studnicka@ochrance.cz
 
 
-      **Petra Zdražilová**\
+      **Jana Mikulčická**\
 
-      telefon: (+420) 542 542 308\
+      telefon: (+420) 542 542 302\
 
-      e-mail: petra.zdrazilova@ochrance.cz
-
-
-      **Roman Zapletal**\
-
-      telefon: (+420) 542 542 231\
-
-      e-mail: roman.zapletal@ochrance.cz
+      e-mail: jana.mikulcicka@ochrance.cz
 
 
       ### **Oddělení PR a marketingu**
