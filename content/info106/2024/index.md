@@ -423,4 +423,178 @@ title: "2024"
 
 <p><a href="https://www.echr.coe.int/documents/d/echr/convention_ces">Příloha</a></p>
 
-<p>&nbsp;</p>
+<h3>72/2024 &ndash; informace z&nbsp;oblasti Vězeňství</h3>
+
+<p>ž</p>
+
+<p>o</p>
+
+<p><a href="https://www.zakonyprolidi.cz/cs/1961-141">Příloha</a></p>
+
+<h3>73/2024 &ndash; Informace z&nbsp;oblasti Vězeňství</h3>
+
+<p>ž</p>
+
+<p>o</p>
+
+<p><a href="https://www.ochrance.cz/vystupy/edice-stanoviska/Sbornik_Vezenstvi.pdf">Příloha 1</a></p>
+
+<p><a href="https://www.ochrance.cz/uploads-import/Publikace/sborniky_stanoviska/Sbornik_Vezenstvi_II.pdf">Příloha 2</a></p>
+
+<p><a href="https://www.ochrance.cz/letaky/">Přílohy</a></p>
+
+<h3>75/2024 &ndash; Informace z&nbsp;oblasti Detence &ndash; zařízení sociálních služeb</h3>
+
+<p>ž</p>
+
+<p>o</p>
+
+<h3>76/2024 &ndash; Informace z&nbsp;oblasti Vězeňství</h3>
+
+<p>ž</p>
+
+<p>o</p>
+
+<p><a href="https://www.ochrance.cz/vystupy/edice-stanoviska/Sbornik_Vezenstvi.pdf">Příloha 1</a></p>
+
+<p><a href="https://www.ochrance.cz/uploads-import/Publikace/sborniky_stanoviska/Sbornik_Vezenstvi_II.pdf">Příloha 2</a></p>
+
+<h3>77/2024 &ndash; Informace k&nbsp;působnosti VOP</h3>
+
+<p>ž</p>
+
+<p>o</p>
+
+<p><a href="https://www.zakonyprolidi.cz/cs/2004-500/zneni-20210101">Příloha 1</a></p>
+
+<p><a href="https://www.zakonyprolidi.cz/cs/2002-150/zneni-20240101">Příloha 2</a></p>
+
+<p><a href="https://www.ochrance.cz/letaky/">Přílohy</a></p>
+
+<h3>78/2024 &ndash; Informace k&nbsp;pracovně-právní věci</h3>
+
+<p>ž</p>
+
+<p>o</p>
+
+<h3>79/2024 &ndash; Informace ke spisu z&nbsp;oblasti Správa pozemních komunikací</h3>
+
+<p>ž</p>
+
+<p>o</p>
+
+<h3>80/2024 &ndash; Informace ke spisu z&nbsp;oblasti Ostatní působnost Ministerstva vnitra</h3>
+
+<p>ž</p>
+
+<p>o</p>
+
+<h3>82/2024 &ndash; Informace z&nbsp;oblasti Vězeňství</h3>
+
+<p>ž</p>
+
+<p>o</p>
+
+<p><a href="https://www.ochrance.cz/vystupy/edice-stanoviska/Sbornik_Vezenstvi.pdf">Příloha 1</a></p>
+
+<p><a href="https://www.ochrance.cz/uploads-import/Publikace/sborniky_stanoviska/Sbornik_Vezenstvi_II.pdf">Příloha 2</a></p>
+
+<h3>83/2024 &ndash; informace z&nbsp;oblasti Vězeňství</h3>
+
+<p>ž</p>
+
+<p>o</p>
+
+<p><a href="https://www.ochrance.cz/vystupy/edice-stanoviska/Sbornik_Vezenstvi.pdf">Příloha 1</a></p>
+
+<p><a href="https://www.ochrance.cz/uploads-import/Publikace/sborniky_stanoviska/Sbornik_Vezenstvi_II.pdf">Příloha 2</a></p>
+
+<p><a href="https://www.zakonyprolidi.cz/pravoeu/dokument?celex=32011R0492&amp;text=Na%C5%99%C3%ADzen%C3%AD+Evropsk%C3%A9ho+parlamentu++%C4%8D.+492%2F2011&amp;sit=1">Příloha 3</a></p>
+
+<p><a href="https://www.zakonyprolidi.cz/cs/2016-275">Příloha 4</a></p>
+
+<p><a href="https://www.zakonyprolidi.cz/cs/1992-209?text=%C3%9Amluva+o+ochran%C4%9B+lidsk%C3%BDch+pr%C3%A1v">Příloha 5</a></p>
+
+<p><a href="https://www.zakonyprolidi.cz/cs/1998-148">Příloha 6</a></p>
+
+<p><a href="https://www.zakonyprolidi.cz/cs/1993-1">Příloha 7</a></p>
+
+<p><a href="https://www.zakonyprolidi.cz/cs/1999-106?text=106%2F1999">Příloha 8</a></p>
+
+<p><a href="https://www.zakonyprolidi.cz/cs/2004-500?text=500%2F2004">Příloha 9</a></p>
+
+<p><a href="https://www.zakonyprolidi.cz/cs/2009-198?text=198%2F2009">Příloha 10</a></p>
+
+<p><a href="https://www.zakonyprolidi.cz/cs/2000-133">Příloha 11</a></p>
+
+<p><a href="https://www.zakonyprolidi.cz/cs/2002-7">Příloha 12</a></p>
+
+<p><a href="https://www.zakonyprolidi.cz/hledani?text=261%2F2021">Příloha 13</a></p>
+
+<p><a href="https://www.zakonyprolidi.cz/cs/2017-365">Příloha 14</a></p>
+
+<p><a href="https://www.zakonyprolidi.cz/cs/2017-198">Příloha 15</a></p>
+
+<p><a href="https://www.zakonyprolidi.cz/cs/2012-396">Příloha 16</a></p>
+
+<p><a href="https://www.zakonyprolidi.cz/cs/2011-303">Příloha 17</a></p>
+
+<p><a href="https://www.zakonyprolidi.cz/cs/2008-129">Příloha 18</a></p>
+
+<p><a href="https://www.zakonyprolidi.cz/cs/2006-342">Příloha 19</a></p>
+
+<p><a href="https://www.zakonyprolidi.cz/cs/2001-265">Příloha 20</a></p>
+
+<p><a href="https://www.zakonyprolidi.cz/cs/2016-250">Příloha 21</a></p>
+
+<p><a href="https://www.zakonyprolidi.cz/cs/2014-185">Příloha 22</a></p>
+
+<p><a href="https://www.zakonyprolidi.cz/cs/2011-372">Příloha 23</a></p>
+
+<p><a href="https://www.zakonyprolidi.cz/cs/2008-314">Příloha 24</a></p>
+
+<p><a href="https://www.zakonyprolidi.cz/cs/2005-413">Příloha 25</a></p>
+
+<p><a href="https://www.zakonyprolidi.cz/cs/2002-150/zneni-20240101">Příloha 26</a></p>
+
+<p><a href="https://www.zakonyprolidi.cz/cs/1993-283">Příloha 27</a></p>
+
+<h3>84/2024 &ndash; informace z&nbsp;oblasti Vězeňství</h3>
+
+<p>ž</p>
+
+<p>o</p>
+
+<h3>85/2024 &ndash; informace z&nbsp;oblasti Vězeňství</h3>
+
+<p>ž</p>
+
+<p>o</p>
+
+<p><a href="https://www.ochrance.cz/uploads-import/Publikace/sborniky_stanoviska/Sbornik_Vezenstvi_II.pdf">Příloha</a></p>
+
+<h3>88/2024 &ndash; informace z&nbsp;oblasti Vězeňství</h3>
+
+<p>ž</p>
+
+<p>o</p>
+
+<p><a href="https://www.ochrance.cz/vystupy/edice-stanoviska/Sbornik_Vezenstvi.pdf">Příloha 1</a></p>
+
+<p><a href="https://www.ochrance.cz/uploads-import/Publikace/sborniky_stanoviska/Sbornik_Vezenstvi_II.pdf">Příloha 2</a></p>
+
+<p><a href="https://www.ochrance.cz/letaky/jsem_mama_tata_ve_vezeni/jsem-mama-tata-ve-vezeni.pdf">Příloha 3</a></p>
+
+<h3>90/2024 &ndash; informace z&nbsp;oblasti Vězeňství</h3>
+
+<p>ž</p>
+
+<p>o</p>
+
+<p><a href="https://www.ochrance.cz/vystupy/edice-stanoviska/Sbornik_Vezenstvi.pdf">Příloha 1</a></p>
+
+<p><a href="https://www.ochrance.cz/uploads-import/Publikace/sborniky_stanoviska/Sbornik_Vezenstvi_II.pdf">Příloha 2</a></p>
+
+<p><a href="https://www.zakonyprolidi.cz/cs/2009-40">Příloha 3</a></p>
+
+<p><a href="https://www.ochrance.cz/letaky/jsem_mama_tata_ve_vezeni/jsem-mama-tata-ve-vezeni.pdf">Přílohy</a></p>
