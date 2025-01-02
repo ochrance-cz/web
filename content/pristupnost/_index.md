@@ -21,7 +21,7 @@ Přístupnost nemíří jen na člověka s postižením, ale také na člověka 
 
 - [celý text Úmluvy](https://www.mpsv.cz/documents/20142/225526/Umluva_o_pravech_osob_se_ZP.pdf/1e95a34b-cbdf-0829-3da2-148865b8a4a8)
 - [článek 9 Úmluvy k přístupnosti v českém znakovém jazyce](https://www.ochrance.cz/umluva/clanek-09-pristupnost/)
-- [Úmluva ve formě pro snadné čtení](https://www.ochrance.cz/pusobnost/monitorovani-prav-osob-se-zdravotnim-postizenim/mezinarodni_umluva_ETR.pdf)
+- [Úmluva ve formě pro snadné čtení](https://www.ochrance.cz/pusobnost/monitorovani-prav-osob-se-zdravotnim-postizenim/mezinarodni_umluva_ETR.pdf) (PDF, 4,98 MB)
 - [Komentář Výboru OSN k](https://www.ochrance.cz/media/obecny_komentar_c._8.pdf) přístupnosti (PDF, 257 kB)
 
 Díky tomu se ale zlepšuje přístupnost nejen pro lidi s postižením, ale pro všechny.
@@ -34,7 +34,7 @@ Následují podrobnější informace rozdělené do těchto oblastí:
 2. [Přístupnost informací](./2-pristupnost-informaci/)
 3. [Přístupnost zboží ](./3-pristupnost-zbozi-a-sluzeb/)
 4. [Přístupnost zaměstnávání](./4-pristupnost-zamestnavani/)
-5. [Přístupnost v číslec](./5-pristupnost-v-cislech/)
+5. [Přístupnost v číslech](./5-pristupnost-v-cislech/)
 6. [Praktické rady](./6-prakticke-rady/)
 7. [Užitečné kontakty](./7-uzitecne-kontakty/)
 
