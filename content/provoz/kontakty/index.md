@@ -46,6 +46,13 @@ sections:
       e-mail: jana.mikulcicka@ochrance.cz
 
 
+      **Marek Kosík**\
+
+      telefon: (+420) 542 542 371\
+
+      e-mail: marek.kosik@ochrance.cz
+
+
       ### **Oddělení PR a marketingu**
 
 
