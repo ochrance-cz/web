@@ -1,6 +1,6 @@
 ---
 title: Jsme tu pro vás
-description: Po–pá 8.00–16.00 hod.
+description: Na infolince nás zastihnete každý všední den 8.00–16.00 hod.
 menuTitle: Kontakt
 phone: 542 542 888
 email: podatelna@ochrance.cz
@@ -13,7 +13,7 @@ address: >-
   602 00 Brno
 
 
-  **Jsme tu pro vás každý pracovní den od 8–16 hod.** 
+  **Jsme tu pro vás každé pondělí a středu 8.00–16.00 hod.**
 
 
   **U﻿pozorňujeme však na ztížený přístup kvůli probíhající rekonstrukci ulice Údolní. Více informací najdete níže v sekci Jak se k nám dostanete?**
