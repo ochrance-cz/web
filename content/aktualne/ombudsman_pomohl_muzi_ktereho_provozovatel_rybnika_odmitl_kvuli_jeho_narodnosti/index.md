@@ -11,6 +11,9 @@ perex: >
   že bude porušovat pravidla rybolovu. Podle posouzení ombudsmana představuje
   takové jednání diskriminaci. Díky ombudsmanovi se podařilo dosáhnout smírného
   řešení. Provozovatel se muži omluvil a nabídl mu možnost rybolovu.</p>
+attachments:
+  - title: Detaily celého případu si můžete přečíst v Evidenci stanovisek ombudsmana
+    file: https://eso.ochrance.cz/Nalezene/Edit/13436
 ---
 <p>Podle antidiskriminačního zákona není možné, aby provozovatel rybníka odmítl zájemce o rybolov na základě jeho národnosti. Národnost se řadí mezi nejzávažnější diskriminační důvody, a proto rozdílné zacházení z&nbsp;tohoto důvodu nelze ospravedlnit. Zcela neopodstatněný tak byl argument provozovatele rybníka, který tvrdil, že má špatné zkušenosti mimo jiné i s&nbsp;některými ukrajinskými rybáři, kteří porušují pravidla rybolovu. <em>&bdquo;Dospěl jsem k&nbsp;závěru, že muž byl odmítnut na základě svého jména značícího jinou než českou národnost. Tím došlo k&nbsp;přímé diskriminaci z&nbsp;důvodu národnosti v&nbsp;oblasti přístupu ke službám podle antidiskriminačního zákona,&ldquo; </em>uvedl ombudsman Stanislav Křeček.</p>
 
