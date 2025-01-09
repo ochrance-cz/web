@@ -14,8 +14,6 @@ perex: >
 attachments:
   - title: "Historie úřadu ombudsmana "
     file: "https://www.ochrance.cz/o-nas/historie/ "
-  - title: Vzkaz Otakara Motejla (pořad České televize)
-    file: https://www.ceskatelevize.cz/porady/10160488386-vzkaz/208452801410009/
 ---
 <p><strong>Zrození ombudsmana</strong></p>
 
