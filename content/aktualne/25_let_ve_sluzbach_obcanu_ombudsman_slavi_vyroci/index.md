@@ -29,8 +29,6 @@ attachments:
 
 <p>Podobný názor na prvního ombudsmana má i Vít Alexander Schorm: &bdquo;<em>Bylo naprosto ideální, že se funkce ujal jako první právě Otakar Motejl. Přistoupil k&nbsp;ní totiž nesmírně uvážlivě, s&nbsp;noblesou a velkým&nbsp;přehledem. Dokázal zúročit své kontakty s&nbsp;mnoha významnými lidmi té doby. Jako někdejšímu obhájci disidentů a předsedovi federálního i českého Nejvyššího soudu se mu ve veřejném prostoru dostávalo velkého respektu. Přispěly k&nbsp;tomu určitě i pochybnosti, které sám o zřízení ombudsmana zpočátku měl. Ideální volbou totiž často bývá spíše ten, kdo si funkci nevytvářel pro sebe.&ldquo;</em></p>
 
-<p>&nbsp;</p>
-
 <p><strong>Sídlo pod Špilberkem</strong></p>
 
 <p>I když vláda původně plánovala úřad ombudsmana v&nbsp;Praze, nakonec vyhrálo Brno jako centrum justice. Nejprve se ombudsman provizorně usídlil v prostorách po zkrachovalé Bance Moravia v&nbsp;Jezuitské ulici. Místa zde však nebylo nazbyt, a tak se stalo, že zaměstnanci dočasně pracovali i v&nbsp;místnosti, která dříve sloužila jako trezor. &nbsp;</p>
@@ -40,8 +38,6 @@ attachments:
 <p><strong>Agenda košatí</strong></p>
 
 <p>Zpočátku se ombudsman soustřeďoval výhradně na ochranu občanů před státní byrokracií. Napravoval chyby úřadů, řešil stížnosti. <em>&bdquo;Ochránce jsem v&nbsp;Česku první vůbec. A je to velké dobrodružství. Denně objevujeme krtiny a bažiny na místech, kde včera ještě nebyly, zjišťujeme, co a jak, kam můžeme a kam ne,&ldquo;</em>* bilancoval na konci roku 2001 Otakar Motejl.</p>
-
-<p>&nbsp;</p>
 
 <p>Dnes už je činnost ombudsmana pevně ukotvena a stížnosti dávno nejsou jedinou položkou na seznamu jeho úkolů. Ombudsmanovy pravomoci se rozrostly do mnoha oblastí.</p>
 
