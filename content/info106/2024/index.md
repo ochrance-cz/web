@@ -598,3 +598,21 @@ title: "2024"
 <p><a href="https://www.zakonyprolidi.cz/cs/2009-40">Příloha 3</a></p>
 
 <p><a href="https://www.ochrance.cz/letaky/jsem_mama_tata_ve_vezeni/jsem-mama-tata-ve-vezeni.pdf">Přílohy</a></p>
+
+<h3>92/2024 &ndash; informace z&nbsp;oblasti Vězeňství</h3>
+
+<p><a href="https://www.ochrance.cz/info106/2024/92_2024_zadost.pdf">Žádost o informace</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2024/92_2024_odpoved.odt">Odpověď na žádost</a>.</p>
+
+<p><a href="https://www.ochrance.cz/vystupy/edice-stanoviska/Sbornik_Vezenstvi.pdf">Příloha 1</a></p>
+
+<p><a href="https://www.ochrance.cz/uploads-import/Publikace/sborniky_stanoviska/Sbornik_Vezenstvi_II.pdf">Příloha 2</a></p>
+
+<h3>93/2024 &ndash; informace z&nbsp;oblasti Vězeňství</h3>
+
+<p><a href="https://www.ochrance.cz/info106/2024/93_2024_zadost.pdf">Žádost o informace</a>.</p>
+
+<p><a href="https://www.ochrance.cz/info106/2024/93_2024_odpoved.odt">Odpověď na žádost</a>.</p>
+
+<p><a href="https://www.ochrance.cz/uploads-import/ESO/14-2014-NZ-Souhrnna_zprava_z_navstev_veznic.pdf">Příloha</a></p>
