@@ -13,7 +13,7 @@ perex: >
   instituce zaměřené na&nbsp;prosazování lidských práv (NHRI).</p>
 attachments:
   - title: "Historie úřadu ombudsmana "
-    file: "https://www.ochrance.cz/o-nas/historie/ "
+    file: https://www.ochrance.cz/o-nas/historie
 ---
 <p><strong>Zrození ombudsmana</strong></p>
 
