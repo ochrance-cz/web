@@ -25,6 +25,9 @@ attachments:
   - title: Usnesení poradního orgánu veřejného ochránce práv pro oblast ochrany práv
       osob se zdravotním postižením
     file: https://www.ochrance.cz/aktualne/vzdelavani_a_zamestnani_lidi_s_postizenim_jsou_hlavni_priority_kterym_se_bude_tento_rok_venovat_poradni_organ_ombudsmana/usneseni_2024_17_k_prioritam_2025.pdf
+  - file: ""
+    link: https://www.ochrance.cz/aktualne/poradni_organ_ombudsmana_se_letos_bude_zabyvat_predevsim_pravem_lidi_s_postizenim_na_nezavisly_zivot_a_pristupnosti_webovych_stranek_i_mobilnich_aplikaci/
+    title: Tisková zpráva ze zasedání poradního orgánu v březnu 2024
 ---
 <p>Aby lidé s postižením mohli plně využít své schopnosti na otevřeném trhu práce, je zásadní mít již od počátku kvalitně nastavený systém inkluzivního vzdělávání, který je na tuto budoucnost připraví. <em>&bdquo;Názory poradního orgánu, zkušenosti a podněty jsou pro činnost naší Kanceláře velmi důležité. Témata, která si vzal poradní orgán jako prioritu pro rok 2025, spolu úzce souvisejí. Bez přístupu ke kvalitnímu a inkluzivnímu vzdělávání, které respektuje potřeby jednotlivců, nemohou lidé s&nbsp;postižením dosáhnout plnohodnotného uplatnění na otevřeném trhu práce,&ldquo; </em>uvedl zástupce ombudsmana Vít Alexander Schorm.</p>
 
