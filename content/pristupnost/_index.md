@@ -32,7 +32,7 @@ Následují podrobnější informace rozdělené do těchto oblastí:
 
 1. [Přístupnost prostředí](./1-pristupnost-prostredi/)
 2. [Přístupnost informací](./2-pristupnost-informaci/)
-3. [Přístupnost zboží ](./3-pristupnost-zbozi-a-sluzeb/)
+3. [Přístupnost zboží a služeb](./3-pristupnost-zbozi-a-sluzeb/)
 4. [Přístupnost zaměstnávání](./4-pristupnost-zamestnavani/)
 5. [Přístupnost v číslech](./5-pristupnost-v-cislech/)
 6. [Praktické rady](./6-prakticke-rady/)
