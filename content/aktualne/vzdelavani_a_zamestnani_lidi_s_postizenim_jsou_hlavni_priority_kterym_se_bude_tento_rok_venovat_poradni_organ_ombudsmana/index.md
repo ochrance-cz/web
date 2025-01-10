@@ -27,7 +27,7 @@ attachments:
 
 <p>Mezi další priority zařadil poradní orgán dostupnost sociálních a zdravotních služeb pro lidi s&nbsp;postižením, bezbariérovost a přístupnost informací. Za důležitý označil rovněž celkový mediální obraz a prezentaci potřeb lidí s&nbsp;postižením, protože způsob nahlížení společnosti na ně má velké dopady na jejich každodenní život.</p>
 
-<p>Součástí jednání byla také bilance a shrnutí aktivit za rok 2024. Poradní orgán se sešel celkem čtyřikrát. Projednával mimo jiné digitální&nbsp;přístupnost, finanční zabezpečení lidí s postižením, proměnu sociálních služeb a změny školského zákona, o nichž budou v&nbsp;dohledné době rozhodovat poslanci.</p>
+<p>Součástí prosincového jednání orgánu byla také bilance a shrnutí aktivit za rok 2024. Poradní orgán se sešel celkem čtyřikrát. Projednával mimo jiné digitální&nbsp;přístupnost, finanční zabezpečení lidí s postižením, proměnu sociálních služeb a změny školského zákona, o nichž budou v&nbsp;dohledné době rozhodovat poslanci.</p>
 
 <p>&nbsp;</p>
 
