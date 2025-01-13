@@ -15,15 +15,9 @@ perex: >
 ---
 <p>Drawing on data and analysis from National Preventive Mechanisms operating across Africa, Asia Pacific, Europe and Latin America, the report provides the first global analysis of women in prison based on the findings of NPMs, independent oversight bodies with a mandate to prevent torture and ill-treatment in all places where people are deprived of liberty.</p>
 
-<p>&nbsp;</p>
-
 <p>The <a href="https://www.apt.ch/sites/default/files/2024-12/Women%20in%20Prison%20-%20APT.pdf">Global Report on Women in Prison: Analysis from National Preventive Mechanisms</a> reveals that women, who represent a small but growing percentage of the global prison population, are often subjected to systemic neglect and discrimination.</p>
 
-<p>&nbsp;</p>
-
 <p>The report identifies several concerning themes affecting women in prison in the 46 countries reviewed, including:</p>
-
-<p>&nbsp;</p>
 
 <ul>
 	<li><strong>Heightened risks of ill-treatment:</strong> Women face unique challenges in prison, such as humiliating and invasive body searches, inappropriate use of solitary confinement and restraints, with particularly severe impacts on pregnant women, LGBTIQ+ women, indigenous women and women with mental health conditions.</li>
@@ -31,15 +25,9 @@ perex: >
 	<li><strong>Intersectional discrimination:</strong> Foreign women, indigenous women, older women, LGBTIQ+ women, pregnant women and women from diverse ethnic and racial backgrounds face specific &ndash; and sometimes greater &ndash; risks of abuse and discrimination.</li>
 </ul>
 
-<p>&nbsp;</p>
-
 <p>Since the adoption in 2010 of the <a href="https://www.ohchr.org/en/instruments-mechanisms/instruments/united-nations-rules-treatment-women-prisoners-and-non-custodial">United Nations Bangkok Rules</a>, which aim to address the needs of women in the criminal justice system, important progress has been made but much remains to be done to implement these standards in practice.</p>
 
-<p>&nbsp;</p>
-
 <p>The report offers comprehensive recommendations to drive systemic change for women in prison, emphasising the crucial role of NPMs in driving reforms.</p>
-
-<p>&nbsp;</p>
 
 <p>Key recommendations include:</p>
 
