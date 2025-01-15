@@ -324,6 +324,10 @@ lawyers:
         phone: 542 542 357
         role: právnička (státní správa soudů)
         email: petra.lisonkova@ochrance.cz
+      - name: Lenka Horáková
+        role: právnička (věci cizinců)
+        phone: 542 542 431
+        email: "lenka.horakova@ochrance.cz "
   - title: Odbor rodiny, zdravotnictví a práce
     intro: veřejné zdravotní pojištění, stížnosti ve zdravotnictví, činnost OSPOD,
       ústavní výchova, evidence uchazečů o zaměstnání u Úřadu práce, inspekce
