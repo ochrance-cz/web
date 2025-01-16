@@ -7,8 +7,8 @@ vystupy:
   - tz
 perex: >
   <p>Ombudsman Stanislav Křeček si uvědomuje potřebu zásadní změny ve vyplácení
-  sociálních dávek u nás. Obává se však, že připravovaný zákon by mohl příliš
-  tvrdě dopadnout na domácnosti v&nbsp;nepříznivé situaci. Prosazuje proto změnu
+  sociálních dávek. Obává se však, že připravovaný zákon by mohl příliš tvrdě
+  dopadnout na domácnosti v&nbsp;nepříznivé situaci. Prosazuje proto změnu
   navrhovaného zákona, zejména ve dvou oblastech: podmíněnost dávky na bydlení a
   dítě pracovní aktivitou a vymezení zranitelných skupin. Své výhrady
   k&nbsp;novým pravidlům přednesl ve středu 15. ledna na jednání<strong>
