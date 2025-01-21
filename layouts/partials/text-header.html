@@ -1,10 +1,10 @@
-<div class="_backdrop header {{ with .Params.headerColor }}{{ . }}{{ end }}">
+<div class="_backdrop header {{ with .Params.headerColor }}{{ . }}{{ end }}" {{ with .Params.date }}data-pagefind-sort="date:{{ . | dateFormat "2006-01-02" | safeHTML }}"{{ end }}>
   <header class="_text-header">
     {{ with .Params.headerIcon }}
       <p><img src="{{ . }}" width="50"></p>
     {{ end }}
     {{ with .Params.date }}
-      <p class="details">
+      <p class="details" data-pagefind-ignore>
         {{ i18n "published" }}
         {{ if eq $.Language.Lang "en" }}
           {{ . | dateFormat "January 2, 2006"}}

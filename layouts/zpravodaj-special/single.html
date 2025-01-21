@@ -1,7 +1,7 @@
 {{ define "title" }}{{ .Params.plural }}{{ end }}
 
 {{ define "main" }}
-<main>
+<main data-pagefind-body>
   {{ partial "pic-header.html" . }}
 
   <div {{ with .Params.contentBackdrop }} class="{{ . }}"{{ end }}>

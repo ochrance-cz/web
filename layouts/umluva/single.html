@@ -82,7 +82,7 @@
 {{ end }}
 
 {{ define "main" }}
-<main>
+<main data-pagefind-body>
   {{ partial "text-header.html" . }}
 
   <div {{ with .Params.contentBackdrop }} class="{{ . }}"{{ end }}>
