@@ -861,6 +861,7 @@ save('./static-preview/admin/config.yml', {
   public_folder: '/media',
   site_domain: 'https://ochrance-preview.netlify.app',
   display_url: 'https://www.ochrance.cz/_preview/',
+  logo_url: '/admin/admin-logo.png',
   slug: {
     encoding: 'ascii',
     clean_accents: true,

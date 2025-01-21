@@ -5,7 +5,8 @@ locale: cs
 media_folder: content/media
 public_folder: /media
 site_domain: 'https://ochrance-preview.netlify.app'
-display_url: 'https://www.ochrance.cz/_admin/'
+display_url: 'https://www.ochrance.cz/_preview/'
+logo_url: /admin/admin-logo.png
 slug:
   encoding: ascii
   clean_accents: true
@@ -2066,6 +2067,7 @@ collections:
       - label: 'Název vydání ve formátu #/YYYY'
         name: title
         widget: string
+        hint: Například 1/2023
       - label: Měsíc vydání
         name: month
         widget: number
