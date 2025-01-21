@@ -1,5 +1,6 @@
 ---
 title: "Od 6. 1. 2025 aktualizujeme úřední hodiny osobního příjmu "
+prefix: AKTUÁLNĚ
 active: true
 ---
 Z﻿ důvodu rekonstrukce a zhoršeného přístupu v Údolní ulici od nového roku **aktualizujeme úřední hodiny** **osobního příjmu**. Nově nás zastihnete vždy **pondělky a středy od 8 do 16 hodin**. Podatelna a infolinka bude k dispozici v pracovní dny od 8 do 16 hodin. 

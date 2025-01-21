@@ -1,9 +1,7 @@
 {{ with .Site.GetPage "/alert" }}
   {{ if eq .Params.active true }}
     <div class="_alert-strip">
-      <p>
-        {{ i18n "alert" }}: <a href="{{ .Permalink }}">{{ .Title }}</a>
-      </p>
+      <p>{{ with .Params.prefix }}{{ . }}: {{ end }}<a href="{{ .Permalink }}">{{ .Title }}</a></p>
     </div>
   {{ end }}
 {{ end }}

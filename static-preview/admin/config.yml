@@ -91,6 +91,11 @@ collections:
           - label: Titulek
             name: title
             widget: string
+          - label: Označení
+            name: prefix
+            required: false
+            hint: Např. "AKTUÁLNĚ". Můžete ponechat prázdné
+            widget: string
           - label: Je varování aktivní?
             name: active
             required: false
@@ -2246,6 +2251,11 @@ collections:
         fields:
           - label: Titulek
             name: title
+            widget: string
+          - label: Označení
+            name: prefix
+            required: false
+            hint: Např. "ALERT". Můžete ponechat prázdné
             widget: string
           - label: Je varování aktivní?
             name: active

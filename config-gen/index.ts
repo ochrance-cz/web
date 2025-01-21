@@ -108,6 +108,7 @@ const stranky = files('Jiné', 'stranky', [
   ]),
   fileCollection('Varování', 'varovani', 'content/alert/_index.markdown', [
     title('Titulek'),
+    string('Označení', 'prefix', { hint: 'Např. "AKTUÁLNĚ". Můžete ponechat prázdné' }),
     boolean('Je varování aktivní?', 'active'),
     markdown('Podrobný popis', 'body', {
       hint: 'Titulek se zobrazí na titulní straně, detailní popis na samostatné stránce.',
@@ -285,6 +286,7 @@ const strankyEn = files('Jiné', 'stranky', [
   ]),
   fileCollection('Varování', 'varovani', 'content/alert/_index.markdown', [
     title('Titulek'),
+    string('Označení', 'prefix', { hint: 'Např. "ALERT". Můžete ponechat prázdné' }),
     boolean('Je varování aktivní?', 'active'),
     markdown('Podrobný popis', 'body', {
       hint: 'Titulek se zobrazí na titulní straně, detailní popis na samostatné stránce.',
