@@ -1,0 +1,3198 @@
+backend:
+  name: git-gateway
+  branch: main
+locale: cs
+media_folder: content/media
+public_folder: /media
+site_domain: 'https://ochrance-preview.netlify.app'
+display_url: 'https://www.ochrance.cz/_admin/'
+slug:
+  encoding: ascii
+  clean_accents: true
+  sanitize_replacement: _
+collections:
+  - name: stranky
+    label: Jiné
+    editor:
+      preview: false
+    files:
+      - label: Homepage
+        name: home
+        file: content/_index.markdown
+        fields:
+          - label: Titulek
+            name: title
+            widget: string
+          - label: Motto
+            name: claim
+            required: false
+            widget: string
+          - label: Obrázek na homepage
+            name: headerPic
+            required: false
+            widget: image
+          - editor_components:
+              - image
+            buttons:
+              - bold
+              - italic
+              - link
+              - heading-two
+              - heading-three
+              - heading-four
+              - quote
+              - bulleted-list
+              - numbered-list
+            label: Hlavní text
+            name: body
+            required: false
+            widget: markdown
+          - label: 'Mezititulek: potřebuji pomoc'
+            name: situationsTitle
+            required: false
+            widget: string
+          - label: 'Mezititulek: činnost'
+            name: cinnostTitle
+            required: false
+            widget: string
+          - editor_components:
+              - image
+            buttons:
+              - bold
+              - italic
+              - link
+              - heading-two
+              - heading-three
+              - heading-four
+              - quote
+              - bulleted-list
+              - numbered-list
+            label: Info o přístupnosti
+            name: accessibility
+            required: false
+            widget: markdown
+          - label: Zobrazené kategorie aktualit
+            name: aktuality
+            required: false
+            widget: relation
+            collection: vystupy
+            value_field: slug
+            display_fields:
+              - title
+            search_fields:
+              - title
+            multiple: true
+            options_length: 20
+      - label: Varování
+        name: varovani
+        file: content/alert/_index.markdown
+        fields:
+          - label: Titulek
+            name: title
+            widget: string
+          - label: Je varování aktivní?
+            name: active
+            required: false
+            widget: boolean
+          - editor_components:
+              - image
+            buttons:
+              - bold
+              - italic
+              - link
+              - heading-two
+              - heading-three
+              - heading-four
+              - quote
+              - bulleted-list
+              - numbered-list
+            label: Podrobný popis
+            name: body
+            required: false
+            hint: >-
+              Titulek se zobrazí na titulní straně, detailní popis na samostatné
+              stránce.
+            widget: markdown
+      - label: Přesměrování
+        name: presmerovani
+        file: data/redirects.yml
+        fields:
+          - label: Seznam přesměrování
+            name: redirects
+            required: false
+            label_singular: přesměrování
+            widget: list
+            fields:
+              - label: Původní adresa
+                name: from
+                required: false
+                widget: string
+              - label: Nová adresa
+                name: to
+                required: false
+                widget: string
+      - label: Podejte stížnost
+        name: stiznost
+        file: content/podejte-stiznost/_index.markdown
+        fields:
+          - label: Titulek
+            name: title
+            widget: string
+          - label: Podtitul
+            name: description
+            required: false
+            widget: string
+          - label: Formuláře (e-mail)
+            name: email
+            required: false
+            label_singular: formulář
+            widget: list
+            fields:
+              - label: Soubor
+                name: link
+                required: false
+                widget: file
+              - label: Popis
+                name: desc
+                required: false
+                widget: string
+          - label: Formuláře (poštou)
+            name: post
+            required: false
+            label_singular: formulář
+            widget: list
+            fields:
+              - label: Soubor
+                name: link
+                required: false
+                widget: file
+              - label: Popis
+                name: desc
+                required: false
+                widget: string
+          - label: Formuláře (osobně)
+            name: inperson
+            required: false
+            label_singular: formulář
+            widget: list
+            fields:
+              - label: Soubor
+                name: link
+                required: false
+                widget: file
+              - label: Popis
+                name: desc
+                required: false
+                widget: string
+          - widget: object
+            label: Jak napsat ombudsmanovi
+            name: submission
+            required: false
+            fields:
+              - label: Titulek
+                name: title
+                widget: string
+              - editor_components:
+                  - image
+                buttons:
+                  - bold
+                  - italic
+                  - link
+                  - heading-two
+                  - heading-three
+                  - heading-four
+                  - quote
+                  - bulleted-list
+                  - numbered-list
+                label: Poznámky
+                name: body
+                required: false
+                widget: markdown
+          - label: Ukázky
+            name: example-links
+            required: false
+            label_singular: ukázkově vyplněný formulář
+            widget: list
+            fields:
+              - label: Soubor
+                name: link
+                required: false
+                widget: file
+              - label: Popis
+                name: desc
+                required: false
+                widget: string
+      - label: Kontakt
+        name: kontakt
+        file: content/kontakt.md
+        fields:
+          - label: Titulek
+            name: title
+            widget: string
+          - label: Podtitul
+            name: description
+            required: false
+            widget: string
+          - label: Titulek v menu
+            name: menuTitle
+            required: false
+            widget: string
+          - label: Telefonní číslo
+            name: phone
+            required: false
+            widget: string
+          - label: E-mail
+            name: email
+            required: false
+            widget: string
+          - label: ID datové schránky
+            name: dataId
+            required: false
+            widget: string
+          - editor_components:
+              - image
+            buttons:
+              - bold
+              - italic
+              - link
+              - heading-two
+              - heading-three
+              - heading-four
+              - quote
+              - bulleted-list
+              - numbered-list
+            label: Adresa
+            name: address
+            required: false
+            widget: markdown
+          - label: Komentář k adrese
+            name: addressComment
+            required: false
+            widget: string
+          - widget: object
+            label: Přístup do budov
+            name: access
+            required: false
+            fields:
+              - editor_components:
+                  - image
+                buttons:
+                  - bold
+                  - italic
+                  - link
+                  - heading-two
+                  - heading-three
+                  - heading-four
+                  - quote
+                  - bulleted-list
+                  - numbered-list
+                label: Pěšky
+                name: walk
+                required: false
+                widget: markdown
+              - editor_components:
+                  - image
+                buttons:
+                  - bold
+                  - italic
+                  - link
+                  - heading-two
+                  - heading-three
+                  - heading-four
+                  - quote
+                  - bulleted-list
+                  - numbered-list
+                label: MHD
+                name: public
+                required: false
+                widget: markdown
+              - editor_components:
+                  - image
+                buttons:
+                  - bold
+                  - italic
+                  - link
+                  - heading-two
+                  - heading-three
+                  - heading-four
+                  - quote
+                  - bulleted-list
+                  - numbered-list
+                label: Obecně
+                name: universal
+                required: false
+                widget: markdown
+              - label: Ilustrační obrázek
+                name: pic
+                required: false
+                widget: image
+          - widget: object
+            label: Mluvčí
+            name: pressAgent
+            required: false
+            fields:
+              - label: Pozice
+                name: role
+                required: false
+                widget: string
+              - label: Jméno
+                name: name
+                required: false
+                widget: string
+              - label: Telefon
+                name: phone
+                required: false
+                widget: string
+              - label: E-mail
+                name: 'email '
+                required: false
+                widget: string
+          - widget: object
+            label: International Relations Officer
+            name: intl
+            required: false
+            fields:
+              - label: Pozice
+                name: role
+                required: false
+                widget: string
+              - label: Jméno
+                name: name
+                required: false
+                widget: string
+              - label: Telefon
+                name: phone
+                required: false
+                widget: string
+              - label: E-mail
+                name: 'email '
+                required: false
+                widget: string
+      - label: Kontakty
+        name: kontakty
+        file: content/provoz/kontakty/index.md
+        fields:
+          - label: Titulek
+            name: title
+            widget: string
+          - label: Sekce a odbory
+            name: sections
+            required: false
+            label_singular: sekce
+            widget: list
+            fields:
+              - label: Název
+                name: title
+                widget: string
+              - editor_components:
+                  - image
+                buttons:
+                  - bold
+                  - italic
+                  - link
+                  - heading-two
+                  - heading-three
+                  - heading-four
+                  - quote
+                  - bulleted-list
+                  - numbered-list
+                label: Popis
+                name: intro
+                required: false
+                widget: markdown
+          - label: Odbory právní sekce
+            name: lawyers
+            required: false
+            label_singular: odbor
+            widget: list
+            fields:
+              - label: Název
+                name: title
+                widget: string
+              - editor_components:
+                  - image
+                buttons:
+                  - bold
+                  - italic
+                  - link
+                  - heading-two
+                  - heading-three
+                  - heading-four
+                  - quote
+                  - bulleted-list
+                  - numbered-list
+                label: Popis
+                name: intro
+                required: false
+                widget: markdown
+              - label: Lidé
+                name: people
+                required: false
+                label_singular: vizitka
+                widget: list
+                fields:
+                  - label: Jméno
+                    name: name
+                    required: false
+                    widget: string
+                  - label: Role
+                    name: role
+                    required: false
+                    widget: string
+                  - label: Telefon
+                    name: phone
+                    required: false
+                    widget: string
+                  - label: E-mail
+                    name: email
+                    required: false
+                    widget: string
+      - label: Přístupnost budovy
+        name: budova
+        file: content/pristupnost/budova/index.md
+        fields:
+          - label: Titulek
+            name: title
+            widget: string
+          - label: Sekce
+            name: gallery
+            required: false
+            label_singular: sekce
+            widget: list
+            fields:
+              - label: Ilustrační obrázek
+                name: pic
+                required: false
+                widget: image
+              - editor_components:
+                  - image
+                buttons:
+                  - bold
+                  - italic
+                  - link
+                  - heading-two
+                  - heading-three
+                  - heading-four
+                  - quote
+                  - bulleted-list
+                  - numbered-list
+                label: Text
+                name: desc
+                required: false
+                widget: markdown
+        media_folder: ''
+      - label: Snadné čtení
+        name: easy-read
+        file: content/pristupnost/snadne-cteni/index.md
+        fields:
+          - label: Titulek
+            name: title
+            widget: string
+          - editor_components:
+              - image
+            buttons:
+              - bold
+              - italic
+              - link
+              - heading-two
+              - heading-three
+              - heading-four
+              - quote
+              - bulleted-list
+              - numbered-list
+            label: Text stránky
+            name: body
+            required: false
+            widget: markdown
+        media_folder: ''
+      - label: Výstupy
+        name: output
+        file: content/vystupy/_index.markdown
+        fields:
+          - label: Titulek
+            name: title
+            widget: string
+          - editor_components:
+              - image
+            buttons:
+              - bold
+              - italic
+              - link
+              - heading-two
+              - heading-three
+              - heading-four
+              - quote
+              - bulleted-list
+              - numbered-list
+            label: Podtitul na homepage
+            name: hp
+            required: false
+            widget: markdown
+        media_folder: ''
+      - label: ESO
+        name: eso
+        file: content/eso/_index.markdown
+        fields:
+          - label: Titulek
+            name: title
+            widget: string
+          - editor_components:
+              - image
+            buttons:
+              - bold
+              - italic
+              - link
+              - heading-two
+              - heading-three
+              - heading-four
+              - quote
+              - bulleted-list
+              - numbered-list
+            label: Podtitul na homepage
+            name: hp
+            required: false
+            widget: markdown
+          - editor_components:
+              - image
+            buttons:
+              - bold
+              - italic
+              - link
+              - heading-two
+              - heading-three
+              - heading-four
+              - quote
+              - bulleted-list
+              - numbered-list
+            label: Perex
+            name: perex
+            required: false
+            widget: markdown
+          - editor_components:
+              - image
+            buttons:
+              - bold
+              - italic
+              - link
+              - heading-two
+              - heading-three
+              - heading-four
+              - quote
+              - bulleted-list
+              - numbered-list
+            label: Text stránky
+            name: body
+            required: false
+            widget: markdown
+        media_folder: ''
+      - label: Newsletter
+        name: newsletter
+        file: content/newsletter.md
+        fields:
+          - label: Titulek
+            name: title
+            widget: string
+          - label: Uložit jako draft
+            name: draft
+            required: false
+            widget: boolean
+          - editor_components:
+              - image
+            buttons:
+              - bold
+              - italic
+              - link
+              - heading-two
+              - heading-three
+              - heading-four
+              - quote
+              - bulleted-list
+              - numbered-list
+            label: Souhlas u newsletteru
+            name: consent
+            required: false
+            widget: markdown
+      - label: Jak psát srozumitelně (Obsah)
+        name: srozumitelnetoc
+        file: content/srozumitelne/_index.markdown
+        fields:
+          - label: Titulek
+            name: title
+            widget: string
+          - label: Kapitoly
+            name: chapters
+            required: false
+            label_singular: kapitola
+            widget: list
+            fields:
+              - label: Kapitola
+                name: chapter
+                required: false
+                widget: relation
+                collection: srozumitelne
+                value_field: '{{slug}}'
+                display_fields:
+                  - title
+                search_fields:
+                  - title
+                multiple: false
+                options_length: 100
+          - label: Textový obsah
+            name: textcontent
+            required: false
+            label_singular: obsah
+            widget: list
+            fields:
+              - label: Před kapitolou
+                name: before
+                required: false
+                widget: relation
+                collection: srozumitelne
+                value_field: '{{slug}}'
+                display_fields:
+                  - title
+                search_fields:
+                  - title
+                multiple: false
+                options_length: 100
+              - editor_components:
+                  - image
+                buttons:
+                  - bold
+                  - italic
+                  - link
+                  - heading-two
+                  - heading-three
+                  - heading-four
+                  - quote
+                  - bulleted-list
+                  - numbered-list
+                label: Text
+                name: text
+                required: false
+                widget: markdown
+          - label: Dvousloupcový obsah
+            name: twocols
+            required: false
+            label_singular: obsah
+            widget: list
+            fields:
+              - label: Identifikátor
+                name: id
+                required: false
+                widget: string
+              - label: Typ obsahu
+                name: type
+                required: false
+                widget: select
+                options:
+                  - label: Špatně x Správně
+                    value: no-yes
+                  - label: Příklady
+                    value: yes-yes
+              - editor_components:
+                  - image
+                buttons:
+                  - bold
+                  - italic
+                  - link
+                  - heading-two
+                  - heading-three
+                  - heading-four
+                  - quote
+                  - bulleted-list
+                  - numbered-list
+                label: 1. pole vlevo
+                name: left-1
+                required: false
+                widget: markdown
+              - editor_components:
+                  - image
+                buttons:
+                  - bold
+                  - italic
+                  - link
+                  - heading-two
+                  - heading-three
+                  - heading-four
+                  - quote
+                  - bulleted-list
+                  - numbered-list
+                label: 1. pole vpravo
+                name: right-1
+                required: false
+                widget: markdown
+              - editor_components:
+                  - image
+                buttons:
+                  - bold
+                  - italic
+                  - link
+                  - heading-two
+                  - heading-three
+                  - heading-four
+                  - quote
+                  - bulleted-list
+                  - numbered-list
+                label: 2. pole vlevo
+                name: left-2
+                required: false
+                widget: markdown
+              - editor_components:
+                  - image
+                buttons:
+                  - bold
+                  - italic
+                  - link
+                  - heading-two
+                  - heading-three
+                  - heading-four
+                  - quote
+                  - bulleted-list
+                  - numbered-list
+                label: 2. pole vpravo
+                name: right-2
+                required: false
+                widget: markdown
+              - editor_components:
+                  - image
+                buttons:
+                  - bold
+                  - italic
+                  - link
+                  - heading-two
+                  - heading-three
+                  - heading-four
+                  - quote
+                  - bulleted-list
+                  - numbered-list
+                label: 3. pole vlevo
+                name: left-3
+                required: false
+                widget: markdown
+              - editor_components:
+                  - image
+                buttons:
+                  - bold
+                  - italic
+                  - link
+                  - heading-two
+                  - heading-three
+                  - heading-four
+                  - quote
+                  - bulleted-list
+                  - numbered-list
+                label: 3. pole vpravo
+                name: right-3
+                required: false
+                widget: markdown
+              - editor_components:
+                  - image
+                buttons:
+                  - bold
+                  - italic
+                  - link
+                  - heading-two
+                  - heading-three
+                  - heading-four
+                  - quote
+                  - bulleted-list
+                  - numbered-list
+                label: 4. pole vlevo
+                name: left-4
+                required: false
+                widget: markdown
+              - editor_components:
+                  - image
+                buttons:
+                  - bold
+                  - italic
+                  - link
+                  - heading-two
+                  - heading-three
+                  - heading-four
+                  - quote
+                  - bulleted-list
+                  - numbered-list
+                label: 4. pole vpravo
+                name: right-4
+                required: false
+                widget: markdown
+              - editor_components:
+                  - image
+                buttons:
+                  - bold
+                  - italic
+                  - link
+                  - heading-two
+                  - heading-three
+                  - heading-four
+                  - quote
+                  - bulleted-list
+                  - numbered-list
+                label: 5. pole vlevo
+                name: left-5
+                required: false
+                widget: markdown
+              - editor_components:
+                  - image
+                buttons:
+                  - bold
+                  - italic
+                  - link
+                  - heading-two
+                  - heading-three
+                  - heading-four
+                  - quote
+                  - bulleted-list
+                  - numbered-list
+                label: 5. pole vpravo
+                name: right-5
+                required: false
+                widget: markdown
+              - editor_components:
+                  - image
+                buttons:
+                  - bold
+                  - italic
+                  - link
+                  - heading-two
+                  - heading-three
+                  - heading-four
+                  - quote
+                  - bulleted-list
+                  - numbered-list
+                label: 6. pole vlevo
+                name: left-6
+                required: false
+                widget: markdown
+              - editor_components:
+                  - image
+                buttons:
+                  - bold
+                  - italic
+                  - link
+                  - heading-two
+                  - heading-three
+                  - heading-four
+                  - quote
+                  - bulleted-list
+                  - numbered-list
+                label: 6. pole vpravo
+                name: right-6
+                required: false
+                widget: markdown
+              - editor_components:
+                  - image
+                buttons:
+                  - bold
+                  - italic
+                  - link
+                  - heading-two
+                  - heading-three
+                  - heading-four
+                  - quote
+                  - bulleted-list
+                  - numbered-list
+                label: 7. pole vlevo
+                name: left-7
+                required: false
+                widget: markdown
+              - editor_components:
+                  - image
+                buttons:
+                  - bold
+                  - italic
+                  - link
+                  - heading-two
+                  - heading-three
+                  - heading-four
+                  - quote
+                  - bulleted-list
+                  - numbered-list
+                label: 7. pole vpravo
+                name: right-7
+                required: false
+                widget: markdown
+              - editor_components:
+                  - image
+                buttons:
+                  - bold
+                  - italic
+                  - link
+                  - heading-two
+                  - heading-three
+                  - heading-four
+                  - quote
+                  - bulleted-list
+                  - numbered-list
+                label: 8. pole vlevo
+                name: left-8
+                required: false
+                widget: markdown
+              - editor_components:
+                  - image
+                buttons:
+                  - bold
+                  - italic
+                  - link
+                  - heading-two
+                  - heading-three
+                  - heading-four
+                  - quote
+                  - bulleted-list
+                  - numbered-list
+                label: 8. pole vpravo
+                name: right-8
+                required: false
+                widget: markdown
+              - editor_components:
+                  - image
+                buttons:
+                  - bold
+                  - italic
+                  - link
+                  - heading-two
+                  - heading-three
+                  - heading-four
+                  - quote
+                  - bulleted-list
+                  - numbered-list
+                label: 9. pole vlevo
+                name: left-9
+                required: false
+                widget: markdown
+              - editor_components:
+                  - image
+                buttons:
+                  - bold
+                  - italic
+                  - link
+                  - heading-two
+                  - heading-three
+                  - heading-four
+                  - quote
+                  - bulleted-list
+                  - numbered-list
+                label: 9. pole vpravo
+                name: right-9
+                required: false
+                widget: markdown
+              - editor_components:
+                  - image
+                buttons:
+                  - bold
+                  - italic
+                  - link
+                  - heading-two
+                  - heading-three
+                  - heading-four
+                  - quote
+                  - bulleted-list
+                  - numbered-list
+                label: 10. pole vlevo
+                name: left-10
+                required: false
+                widget: markdown
+              - editor_components:
+                  - image
+                buttons:
+                  - bold
+                  - italic
+                  - link
+                  - heading-two
+                  - heading-three
+                  - heading-four
+                  - quote
+                  - bulleted-list
+                  - numbered-list
+                label: 10. pole vpravo
+                name: right-10
+                required: false
+                widget: markdown
+  - name: aktualne
+    label: Aktuality
+    label_singular: aktualita
+    folder: content/aktualne
+    extension: md
+    editor: &ref_0
+      preview: false
+    fields:
+      - label: Titulek
+        name: title
+        widget: string
+      - label: Uložit jako draft
+        name: draft
+        required: false
+        widget: boolean
+      - label: Ilustrační obrázek
+        name: illustration
+        required: false
+        widget: image
+      - label: Datum
+        name: date
+        required: false
+        widget: datetime
+        date_format: DD.MM.YYYY
+        time_format: true
+      - label: Štítky
+        name: vystupy
+        required: false
+        widget: relation
+        collection: vystupy
+        value_field: slug
+        display_fields: &ref_1
+          - title
+        search_fields: &ref_2
+          - title
+        multiple: true
+        options_length: 20
+      - label: Perex
+        name: perex
+        required: false
+        widget: customEditor
+      - label: Text
+        name: body
+        required: false
+        widget: customEditor
+      - label: Přílohy
+        name: attachments
+        required: false
+        label_singular: Příloha
+        widget: list
+        fields: &ref_3
+          - label: Název přílohy
+            name: title
+            widget: string
+          - label: Soubor
+            name: file
+            required: false
+            widget: file
+          - label: Odkaz
+            name: link
+            required: false
+            widget: string
+    create: true
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: 'https://www.ochrance.cz/aktualne/{{slug}}'
+    preview_path: '/aktualne/{{slug}}'
+  - name: dokument
+    label: Dokumenty
+    label_singular: dokument
+    folder: content/dokument
+    extension: md
+    editor: &ref_4
+      preview: false
+    fields:
+      - label: Titulek
+        name: title
+        widget: string
+      - label: Podtitulek
+        name: perex
+        required: false
+        widget: text
+      - label: Datum publikování
+        name: date
+        required: false
+        widget: datetime
+        date_format: DD.MM.YYYY
+        time_format: false
+      - label: Uložit jako draft
+        name: draft
+        required: false
+        widget: boolean
+      - label: Štítky
+        name: vystupy
+        required: false
+        widget: relation
+        collection: vystupy
+        value_field: slug
+        display_fields: &ref_5
+          - title
+        search_fields: &ref_6
+          - title
+        multiple: true
+        options_length: 20
+      - label: Text
+        name: body
+        required: false
+        widget: customEditor
+      - label: Přílohy před textem
+        name: attachmentsTop
+        required: false
+        label_singular: Příloha
+        widget: list
+        fields: &ref_7
+          - label: Název přílohy
+            name: title
+            widget: string
+          - label: Soubor
+            name: file
+            required: false
+            widget: file
+          - label: Odkaz
+            name: link
+            required: false
+            widget: string
+      - label: Přílohy pod textem
+        name: attachments
+        required: false
+        label_singular: Příloha
+        widget: list
+        fields: &ref_8
+          - label: Název přílohy
+            name: title
+            widget: string
+          - label: Soubor
+            name: file
+            required: false
+            widget: file
+          - label: Odkaz
+            name: link
+            required: false
+            widget: string
+    create: true
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: 'https://www.ochrance.cz/dokument/{{slug}}'
+    preview_path: '/dokument/{{slug}}'
+  - name: onas
+    label: O nás
+    editor: &ref_9
+      preview: false
+    files:
+      - label: O kanceláři
+        name: o-kancelari
+        file: content/o-nas/_index.markdown
+        fields:
+          - label: Titulek stránky
+            name: title
+            widget: string
+          - label: Titulek v menu
+            name: menuTitle
+            required: false
+            widget: string
+          - label: Ilustrační obrázek
+            name: illustration
+            required: false
+            widget: image
+          - label: Perex
+            name: description
+            required: false
+            widget: text
+          - editor_components: &ref_10
+              - image
+            buttons: &ref_11
+              - bold
+              - italic
+              - link
+              - heading-two
+              - heading-three
+              - heading-four
+              - quote
+              - bulleted-list
+              - numbered-list
+            label: Text stránky
+            name: body
+            required: false
+            widget: markdown
+          - label: Odkazy
+            name: links
+            required: false
+            label_singular: odkaz
+            widget: list
+            fields: &ref_12
+              - label: Odkaz
+                name: link
+                required: false
+                widget: string
+              - label: Popis
+                name: text
+                required: false
+                widget: string
+        media_folder: ''
+      - label: Veřejný ochránce práv
+        name: ombudsman
+        file: content/o-nas/ombudsman/index.md
+        fields:
+          - label: Název role
+            name: title
+            widget: string
+          - label: Jméno
+            name: name
+            required: false
+            widget: string
+          - label: Portrét
+            name: pic
+            required: false
+            widget: image
+          - label: Citát / motto
+            name: quote
+            required: false
+            widget: string
+          - editor_components: &ref_13
+              - image
+            buttons: &ref_14
+              - bold
+              - italic
+              - link
+              - heading-two
+              - heading-three
+              - heading-four
+              - quote
+              - bulleted-list
+              - numbered-list
+            label: Krátký životopis
+            name: bio
+            required: false
+            widget: markdown
+          - label: Oblasti
+            name: areas
+            required: false
+            label_singular: oblast
+            widget: list
+            fields: &ref_15
+              - label: Název
+                name: area
+                required: false
+                widget: string
+              - label: Popis
+                name: desc
+                required: false
+                widget: string
+        media_folder: ''
+      - label: Zástupce
+        name: deputy
+        file: content/o-nas/deputy/index.md
+        fields:
+          - label: Název role
+            name: title
+            widget: string
+          - label: Jméno
+            name: name
+            required: false
+            widget: string
+          - label: Portrét
+            name: pic
+            required: false
+            widget: image
+          - label: Citát / motto
+            name: quote
+            required: false
+            widget: string
+          - editor_components: &ref_16
+              - image
+            buttons: &ref_17
+              - bold
+              - italic
+              - link
+              - heading-two
+              - heading-three
+              - heading-four
+              - quote
+              - bulleted-list
+              - numbered-list
+            label: Krátký životopis
+            name: bio
+            required: false
+            widget: markdown
+          - label: Oblasti
+            name: areas
+            required: false
+            label_singular: oblast
+            widget: list
+            fields: &ref_18
+              - label: Název
+                name: area
+                required: false
+                widget: string
+              - label: Popis
+                name: desc
+                required: false
+                widget: text
+        media_folder: ''
+      - label: Historie
+        name: historie
+        file: content/o-nas/historie/index.md
+        fields:
+          - label: Titulek
+            name: title
+            widget: string
+          - label: Ilustrační obrázek
+            name: illustration
+            required: false
+            widget: image
+          - label: Časová osa
+            name: timeline
+            required: false
+            label_singular: Událost
+            widget: list
+            fields: &ref_19
+              - label: Časové určení
+                name: time
+                required: false
+                widget: string
+              - label: Popis
+                name: desc
+                required: false
+                widget: text
+        media_folder: ''
+      - label: Předpisy
+        name: predpisy
+        file: content/o-nas/predpisy/index.md
+        fields:
+          - label: Titulek
+            name: title
+            widget: string
+          - label: Ilustrační obrázek
+            name: illustration
+            required: false
+            widget: image
+          - label: Text stránky
+            name: body
+            required: false
+            widget: customEditor
+        media_folder: ''
+  - name: pusobnost
+    label: Působnost
+    label_singular: oblast působnosti
+    folder: content/pusobnost
+    extension: md
+    editor: &ref_20
+      preview: false
+    fields:
+      - label: Název oblasti
+        name: title
+        widget: string
+      - label: Překladový klíč
+        name: translationKey
+        required: false
+        widget: string
+      - label: Uložit jako draft
+        name: draft
+        required: false
+        widget: boolean
+      - label: Ilustrační obrázek
+        name: illustration
+        required: false
+        widget: image
+      - label: Barva hlavičky
+        name: headerColor
+        required: false
+        widget: select
+        options: &ref_21
+          - label: Zelená
+            value: green
+          - label: Růžová
+            value: pink
+          - label: Oranžová
+            value: orange
+          - label: Žlutozelená
+            value: yellow
+      - label: Perex
+        name: perex
+        required: false
+        widget: text
+      - editor_components: &ref_22
+          - image
+        buttons: &ref_23
+          - bold
+          - italic
+          - link
+          - heading-two
+          - heading-three
+          - heading-four
+          - quote
+          - bulleted-list
+          - numbered-list
+        label: Text
+        name: body
+        required: false
+        widget: markdown
+      - widget: object
+        label: Kontaktní patička
+        name: cta
+        required: false
+        fields: &ref_24
+          - label: Nadpis
+            name: title
+            widget: string
+          - label: Odkaz
+            name: btnLink
+            required: false
+            hint: Výchozí odkaz směřuje na stránku podání stížnosti.
+            widget: string
+        collapsed: true
+    create: true
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: ''
+  - name: potrebuji-pomoc
+    label: Potřebuji pomoc
+    label_singular: Problematika
+    folder: content/potrebuji-pomoc
+    extension: md
+    editor: &ref_25
+      preview: false
+    fields:
+      - label: Titulek
+        name: title
+        widget: string
+      - label: Perex
+        name: perex
+        required: false
+        widget: text
+      - label: Překladový klíč
+        name: translationKey
+        required: false
+        widget: string
+      - label: Ilustrační obrázek
+        name: illustration
+        required: false
+        widget: image
+      - editor_components: &ref_26
+          - image
+        buttons: &ref_27
+          - bold
+          - italic
+          - link
+          - heading-two
+          - heading-three
+          - heading-four
+          - quote
+          - bulleted-list
+          - numbered-list
+        label: Popisek na homepage
+        name: hp
+        required: false
+        widget: markdown
+      - editor_components: &ref_28
+          - image
+        buttons: &ref_29
+          - bold
+          - italic
+          - link
+          - heading-two
+          - heading-three
+          - heading-four
+          - quote
+          - bulleted-list
+          - numbered-list
+        label: Úvodní text
+        name: body
+        required: false
+        widget: markdown
+      - label: 'Seznam: můžeme pomoci'
+        name: we-can
+        required: false
+        label_singular: Situace
+        widget: list
+        field: &ref_30
+          editor_components:
+            - image
+          buttons:
+            - bold
+            - italic
+            - link
+            - heading-two
+            - heading-three
+            - heading-four
+            - quote
+            - bulleted-list
+            - numbered-list
+          label: Situace
+          name: situation
+          required: false
+          widget: markdown
+      - label: 'Seznam: nemůžeme pomoci'
+        name: we-cannot
+        required: false
+        label_singular: Situace
+        widget: list
+        field: &ref_31
+          editor_components:
+            - image
+          buttons:
+            - bold
+            - italic
+            - link
+            - heading-two
+            - heading-three
+            - heading-four
+            - quote
+            - bulleted-list
+            - numbered-list
+          label: Situace
+          name: situation
+          required: false
+          widget: markdown
+      - label: Příklady
+        name: examples
+        required: false
+        label_singular: Příklad
+        widget: list
+        fields: &ref_32
+          - label: Jméno
+            name: name
+            required: false
+            widget: string
+          - editor_components:
+              - image
+            buttons:
+              - bold
+              - italic
+              - link
+              - heading-two
+              - heading-three
+              - heading-four
+              - quote
+              - bulleted-list
+              - numbered-list
+            label: Popis případu
+            name: desc
+            required: false
+            widget: markdown
+      - widget: object
+        label: Sekce „podejte podnět“
+        name: button
+        required: false
+        fields: &ref_33
+          - label: Text na tlačítku
+            name: text
+            required: false
+            widget: string
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: ''
+  - name: letaky
+    label: Letáky
+    label_singular: leták
+    folder: content/letaky
+    extension: md
+    editor: &ref_34
+      preview: false
+    fields:
+      - label: Název letáku
+        name: title
+        widget: string
+      - label: Řetezec v adrese
+        name: slug
+        required: false
+        hint: 'Pouze číslice, písmena anglické abecedy, spojovník a podtržítko.'
+        pattern: &ref_35
+          - '^[a-z0-9-_]+$'
+          - >-
+            Řetezec v adrese může obsahovat pouze číslice, písmena anglické
+            abecedy, spojovník a podtržítko.
+        widget: string
+      - label: Uložit jako draft
+        name: draft
+        required: false
+        widget: boolean
+      - label: Situace
+        name: situace
+        required: false
+        widget: relation
+        collection: situace
+        value_field: slug
+        display_fields: &ref_36
+          - title
+        search_fields: &ref_37
+          - title
+        multiple: true
+        options_length: 20
+      - label: Leták v PDF
+        name: file
+        required: false
+        widget: file
+      - label: Verze pro zrakově znevýhodněné
+        name: seeing
+        required: false
+        widget: file
+      - label: Verze v romštině
+        name: roma
+        required: false
+        widget: file
+      - label: Přílohy
+        name: attachments
+        required: false
+        label_singular: Příloha
+        widget: list
+        fields: &ref_38
+          - label: Název přílohy
+            name: title
+            widget: string
+          - label: Soubor
+            name: file
+            required: false
+            widget: file
+          - label: Odkaz
+            name: link
+            required: false
+            widget: string
+    create: true
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: ''
+  - name: situace
+    label: Situace
+    label_singular: situace
+    folder: content/situace
+    extension: md
+    editor: &ref_39
+      preview: false
+    fields:
+      - label: Název situace
+        name: title
+        widget: string
+      - label: Řetezec v adrese
+        name: slug
+        required: false
+        hint: 'Pouze číslice, písmena anglické abecedy, spojovník a podtržítko.'
+        pattern: &ref_40
+          - '^[a-z0-9-_]+$'
+          - >-
+            Řetezec v adrese může obsahovat pouze číslice, písmena anglické
+            abecedy, spojovník a podtržítko.
+        widget: string
+      - label: Titulek ve formě otázky
+        name: questionTitle
+        required: false
+        widget: string
+      - label: Perex
+        name: perex
+        required: false
+        widget: text
+      - label: Ilustrační obrázek
+        name: illustration
+        required: false
+        widget: image
+    create: true
+    path: '{{slug}}/_index'
+  - name: vystupy
+    label: Kategorie výstupů
+    label_singular: kategorie výstupů
+    folder: content/vystupy
+    extension: markdown
+    editor: &ref_41
+      preview: false
+    fields:
+      - label: Kategorie výstupu (singulár)
+        name: title
+        widget: string
+      - label: Titulek kategorie (plurál)
+        name: plural
+        required: false
+        widget: string
+      - label: Zobrazovat v seznamu výstupů z činnosti
+        name: listed
+        required: false
+        widget: boolean
+      - label: Řetezec v adrese
+        name: slug
+        hint: 'Pouze číslice, písmena anglické abecedy, spojovník a podtržítko.'
+        pattern: &ref_42
+          - '^[a-z0-9-_]+$'
+          - >-
+            Řetezec v adrese může obsahovat pouze číslice, písmena anglické
+            abecedy, spojovník a podtržítko.
+        widget: string
+      - label: Perex
+        name: perex
+        required: false
+        widget: text
+      - label: Ilustrační obrázek
+        name: illustration
+        required: false
+        widget: image
+      - editor_components: &ref_43
+          - image
+        buttons: &ref_44
+          - bold
+          - italic
+          - link
+          - heading-two
+          - heading-three
+          - heading-four
+          - quote
+          - bulleted-list
+          - numbered-list
+        label: Dodatečný text stránky
+        name: body
+        required: false
+        widget: markdown
+      - label: Pole pro nahrávání souborů
+        name: file
+        required: false
+        widget: file
+    create: true
+    path: '{{slug}}/_index'
+    media_folder: ''
+    public_folder: ''
+  - name: provoz
+    label: Provoz
+    label_singular: provozní info
+    folder: content/provoz
+    extension: md
+    editor: &ref_45
+      preview: false
+    fields:
+      - label: Titulek
+        name: title
+        widget: string
+      - label: Uložit jako draft
+        name: draft
+        required: false
+        widget: boolean
+      - label: Překladový klíč
+        name: translationKey
+        required: false
+        widget: string
+      - label: Odkazy
+        name: links
+        required: false
+        label_singular: odkaz
+        widget: list
+        fields: &ref_46
+          - label: Odkaz
+            name: link
+            required: false
+            widget: string
+          - label: Popis
+            name: text
+            required: false
+            widget: string
+      - label: Text
+        name: body
+        required: false
+        widget: customEditor
+      - label: Odkazy pod hlavním textem
+        name: linksAfter
+        required: false
+        label_singular: odkaz
+        widget: list
+        fields: &ref_47
+          - label: Odkaz
+            name: link
+            required: false
+            widget: string
+          - label: Popis
+            name: text
+            required: false
+            widget: string
+    create: true
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: ''
+  - name: vzdelavaci-akce
+    label: Vzdělávací akce
+    label_singular: vzdělávací akce
+    folder: content/vzdelavaci-akce
+    extension: md
+    editor:
+      preview: false
+    fields:
+      - label: Titulek
+        name: title
+        widget: string
+      - editor_components:
+          - image
+        buttons:
+          - bold
+          - italic
+          - link
+          - heading-two
+          - heading-three
+          - heading-four
+          - quote
+          - bulleted-list
+          - numbered-list
+        label: Perex
+        name: perex
+        required: false
+        widget: markdown
+      - label: Datum konání
+        name: startDate
+        required: false
+        widget: datetime
+        date_format: DD.MM.YYYY
+        time_format: false
+      - editor_components:
+          - image
+        buttons:
+          - bold
+          - italic
+          - link
+          - heading-two
+          - heading-three
+          - heading-four
+          - quote
+          - bulleted-list
+          - numbered-list
+        label: Popis akce
+        name: body
+        required: false
+        widget: markdown
+    create: true
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: 'https://www.ochrance.cz/vzdelavaci-akce/{{slug}}'
+    preview_path: '/vzdelavaci-akce/{{slug}}'
+  - name: info
+    label: Další informace
+    label_singular: infostránka
+    folder: content/info
+    extension: md
+    editor: &ref_48
+      preview: false
+    fields:
+      - label: Titulek
+        name: title
+        widget: string
+      - label: Uložit jako draft
+        name: draft
+        required: false
+        widget: boolean
+      - label: Překladový klíč
+        name: translationKey
+        required: false
+        widget: string
+      - label: Odkazy
+        name: links
+        required: false
+        label_singular: odkaz
+        widget: list
+        fields: &ref_49
+          - label: Odkaz
+            name: link
+            required: false
+            widget: string
+          - label: Popis
+            name: text
+            required: false
+            widget: string
+      - label: Text
+        name: body
+        required: false
+        widget: customEditor
+      - label: Odkazy pod hlavním textem
+        name: linksAfter
+        required: false
+        label_singular: odkaz
+        widget: list
+        fields: &ref_50
+          - label: Odkaz
+            name: link
+            required: false
+            widget: string
+          - label: Popis
+            name: text
+            required: false
+            widget: string
+    create: true
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: 'https://www.ochrance.cz/info/{{slug}}'
+  - name: info106
+    label: Poskytované informace
+    label_singular: rok poskytovaných informací
+    folder: content/info106
+    extension: md
+    editor:
+      preview: false
+    fields:
+      - label: Rok
+        name: title
+        widget: string
+      - label: Text
+        name: body
+        required: false
+        widget: customEditor
+    create: true
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: 'https://www.ochrance.cz/info106/{{slug}}'
+  - name: projekty
+    label: Projekty
+    label_singular: projekt
+    folder: content/projekty
+    extension: md
+    editor: &ref_51
+      preview: false
+    fields:
+      - label: Název projektu
+        name: title
+        widget: string
+      - label: Uložit jako draft
+        name: draft
+        required: false
+        widget: boolean
+      - label: Řetezec v adrese
+        name: slug
+        required: false
+        hint: 'Pouze číslice, písmena anglické abecedy, spojovník a podtržítko.'
+        pattern: &ref_52
+          - '^[a-z0-9-_]+$'
+          - >-
+            Řetezec v adrese může obsahovat pouze číslice, písmena anglické
+            abecedy, spojovník a podtržítko.
+        widget: string
+      - label: Překladový klíč
+        name: translationKey
+        required: false
+        widget: string
+      - label: Probíhající projekt
+        name: ongoing
+        required: false
+        widget: boolean
+      - label: Popis projektu
+        name: body
+        required: false
+        widget: customEditor
+      - label: Dodatečný text pod aktualitami k projektu
+        name: bonus
+        required: false
+        widget: customEditor
+      - widget: object
+        label: Ilustrační obrázek
+        name: illustration
+        required: false
+        fields: &ref_53
+          - label: Obrázek
+            name: pic
+            required: false
+            widget: image
+          - label: Titulek obrázku
+            name: caption
+            required: false
+            hint: Titulek viditelný pod obrázkem.
+            widget: string
+          - label: Popis obrázku
+            name: desc
+            hint: Popis slouží ke zpřístupnění obrazového obsahu v textové formě.
+            widget: string
+      - label: Partneři
+        name: partners
+        required: false
+        label_singular: Partner
+        widget: list
+        fields: &ref_54
+          - label: Název
+            name: name
+            required: false
+            widget: string
+          - label: Logo
+            name: logo
+            required: false
+            widget: image
+      - label: Galerie
+        name: gallery
+        required: false
+        label_singular: Fotka
+        widget: list
+        fields: &ref_55
+          - label: Obrázek
+            name: pic
+            required: false
+            widget: image
+          - label: Popis obrázku
+            name: alt
+            required: false
+            hint: Popis slouží ke zpřístupnění obrazového obsahu v textové formě.
+            widget: string
+    create: true
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: ''
+  - name: eso
+    label: ESO
+    label_singular: sekce eso
+    folder: content/eso
+    extension: md
+    editor:
+      preview: false
+    fields:
+      - label: Titulek
+        name: title
+        widget: string
+      - label: Pořadí
+        name: rank
+        widget: number
+        value_type: int
+        default: 10
+      - label: Ilustrační obrázek
+        name: illustration
+        required: false
+        widget: image
+      - editor_components:
+          - image
+        buttons:
+          - bold
+          - italic
+          - link
+          - heading-two
+          - heading-three
+          - heading-four
+          - quote
+          - bulleted-list
+          - numbered-list
+        label: Popis sekce
+        name: perex
+        required: false
+        widget: markdown
+      - label: Kde hledat daná stanoviska
+        name: eso
+        required: false
+        label_singular: sekce
+        widget: list
+        fields:
+          - label: Sekce
+            name: title
+            widget: string
+    create: true
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: 'https://www.ochrance.cz/eso/{{slug}}'
+    preview_path: '/eso/{{slug}}'
+  - name: zpravodaj
+    label: Zpravodaj
+    label_singular: Číslo zpravodaje
+    folder: content/zpravodaj
+    extension: md
+    editor:
+      preview: false
+    fields:
+      - label: 'Název vydání ve formátu #/YYYY'
+        name: title
+        widget: string
+      - label: Měsíc vydání
+        name: month
+        widget: number
+        value_type: int
+      - label: Rok vydání
+        name: year
+        widget: number
+        value_type: int
+      - label: Perex
+        name: perex
+        required: false
+        widget: text
+      - label: Autor
+        name: author
+        required: false
+        widget: string
+      - label: Zpravodaj v PDF
+        name: file
+        required: false
+        widget: file
+      - label: Obsah zpravodaje
+        name: sections
+        required: false
+        label_singular: sekce
+        widget: list
+        fields:
+          - label: Titulek sekce
+            name: title
+            widget: string
+          - label: Články
+            name: articles
+            required: false
+            label_singular: článek
+            widget: list
+            fields:
+              - label: Titulek
+                name: title
+                widget: string
+              - label: Spisová značka
+                name: id
+                required: false
+                widget: string
+              - label: Odkaz na tiskovou zprávu
+                name: release
+                required: false
+                widget: string
+              - label: Odkaz na podcast k tématu
+                name: podcast
+                required: false
+                widget: string
+              - label: Odkaz do ESO
+                name: eso
+                required: false
+                widget: string
+              - label: Text
+                name: body
+                required: false
+                widget: customEditor
+    create: true
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: 'https://www.ochrance.cz/zpravodaj/{{slug}}'
+    preview_path: '/zpravodaj/{{slug}}'
+  - name: srozumitelne
+    label: Jak psát srozumitelně
+    label_singular: kapitola
+    folder: content/srozumitelne
+    extension: md
+    editor:
+      preview: false
+    fields:
+      - label: Titulek
+        name: title
+        widget: string
+      - label: Číslo kapitoly
+        name: num
+        required: false
+        widget: number
+        value_type: int
+      - editor_components:
+          - image
+        buttons:
+          - bold
+          - italic
+          - link
+          - heading-two
+          - heading-three
+          - heading-four
+          - quote
+          - bulleted-list
+          - numbered-list
+        label: Text
+        name: body
+        required: false
+        widget: markdown
+    create: true
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: 'https://www.ochrance.cz/srozumitelne/{{slug}}'
+    preview_path: '/srozumitelne/{{slug}}'
+  - name: stranky-en
+    label: Jiné (EN)
+    editor:
+      preview: false
+    files:
+      - label: Homepage
+        name: home
+        file: content-en/_index.markdown
+        fields:
+          - label: Titulek
+            name: title
+            widget: string
+          - label: Motto
+            name: claim
+            required: false
+            widget: string
+          - label: Obrázek na homepage
+            name: headerPic
+            required: false
+            widget: image
+          - editor_components:
+              - image
+            buttons:
+              - bold
+              - italic
+              - link
+              - heading-two
+              - heading-three
+              - heading-four
+              - quote
+              - bulleted-list
+              - numbered-list
+            label: Hlavní text
+            name: body
+            required: false
+            widget: markdown
+          - label: 'Mezititulek: potřebuji pomoc'
+            name: situationsTitle
+            required: false
+            widget: string
+          - label: 'Mezititulek: činnost'
+            name: cinnostTitle
+            required: false
+            widget: string
+          - editor_components:
+              - image
+            buttons:
+              - bold
+              - italic
+              - link
+              - heading-two
+              - heading-three
+              - heading-four
+              - quote
+              - bulleted-list
+              - numbered-list
+            label: Info o přístupnosti
+            name: accessibility
+            required: false
+            widget: markdown
+          - label: Zobrazené kategorie aktualit
+            name: aktuality
+            required: false
+            widget: relation
+            collection: vystupy-en
+            value_field: slug
+            display_fields:
+              - title
+            search_fields:
+              - title
+            multiple: true
+            options_length: 20
+      - label: Varování
+        name: varovani
+        file: content-en/alert/_index.markdown
+        fields:
+          - label: Titulek
+            name: title
+            widget: string
+          - label: Je varování aktivní?
+            name: active
+            required: false
+            widget: boolean
+          - editor_components:
+              - image
+            buttons:
+              - bold
+              - italic
+              - link
+              - heading-two
+              - heading-three
+              - heading-four
+              - quote
+              - bulleted-list
+              - numbered-list
+            label: Podrobný popis
+            name: body
+            required: false
+            hint: >-
+              Titulek se zobrazí na titulní straně, detailní popis na samostatné
+              stránce.
+            widget: markdown
+      - label: Podejte stížnost
+        name: stiznost
+        file: content-en/podejte-stiznost/_index.markdown
+        fields:
+          - label: Titulek
+            name: title
+            widget: string
+          - label: Podtitul
+            name: description
+            required: false
+            widget: string
+          - label: Formuláře (e-mail)
+            name: email
+            required: false
+            label_singular: formulář
+            widget: list
+            fields:
+              - label: Soubor
+                name: link
+                required: false
+                widget: file
+              - label: Popis
+                name: desc
+                required: false
+                widget: string
+          - label: Formuláře (poštou)
+            name: post
+            required: false
+            label_singular: formulář
+            widget: list
+            fields:
+              - label: Soubor
+                name: link
+                required: false
+                widget: file
+              - label: Popis
+                name: desc
+                required: false
+                widget: string
+          - label: Formuláře (osobně)
+            name: inperson
+            required: false
+            label_singular: formulář
+            widget: list
+            fields:
+              - label: Soubor
+                name: link
+                required: false
+                widget: file
+              - label: Popis
+                name: desc
+                required: false
+                widget: string
+          - widget: object
+            label: Jak napsat ombudsmanovi
+            name: submission
+            required: false
+            fields:
+              - label: Titulek
+                name: title
+                widget: string
+              - editor_components:
+                  - image
+                buttons:
+                  - bold
+                  - italic
+                  - link
+                  - heading-two
+                  - heading-three
+                  - heading-four
+                  - quote
+                  - bulleted-list
+                  - numbered-list
+                label: Poznámky
+                name: body
+                required: false
+                widget: markdown
+          - label: Ukázky
+            name: example-links
+            required: false
+            label_singular: ukázkově vyplněný formulář
+            widget: list
+            fields:
+              - label: Soubor
+                name: link
+                required: false
+                widget: file
+              - label: Popis
+                name: desc
+                required: false
+                widget: string
+      - label: Kontakt
+        name: kontakt
+        file: content-en/kontakt.md
+        fields:
+          - label: Titulek
+            name: title
+            widget: string
+          - label: Podtitul
+            name: description
+            required: false
+            widget: string
+          - label: Titulek v menu
+            name: menuTitle
+            required: false
+            widget: string
+          - label: Telefonní číslo
+            name: phone
+            required: false
+            widget: string
+          - label: E-mail
+            name: email
+            required: false
+            widget: string
+          - label: ID datové schránky
+            name: dataId
+            required: false
+            widget: string
+          - editor_components:
+              - image
+            buttons:
+              - bold
+              - italic
+              - link
+              - heading-two
+              - heading-three
+              - heading-four
+              - quote
+              - bulleted-list
+              - numbered-list
+            label: Adresa
+            name: address
+            required: false
+            widget: markdown
+          - label: Komentář k adrese
+            name: addressComment
+            required: false
+            widget: string
+          - widget: object
+            label: Přístup do budov
+            name: access
+            required: false
+            fields:
+              - editor_components:
+                  - image
+                buttons:
+                  - bold
+                  - italic
+                  - link
+                  - heading-two
+                  - heading-three
+                  - heading-four
+                  - quote
+                  - bulleted-list
+                  - numbered-list
+                label: Pěšky
+                name: walk
+                required: false
+                widget: markdown
+              - editor_components:
+                  - image
+                buttons:
+                  - bold
+                  - italic
+                  - link
+                  - heading-two
+                  - heading-three
+                  - heading-four
+                  - quote
+                  - bulleted-list
+                  - numbered-list
+                label: MHD
+                name: public
+                required: false
+                widget: markdown
+              - editor_components:
+                  - image
+                buttons:
+                  - bold
+                  - italic
+                  - link
+                  - heading-two
+                  - heading-three
+                  - heading-four
+                  - quote
+                  - bulleted-list
+                  - numbered-list
+                label: Obecně
+                name: universal
+                required: false
+                widget: markdown
+              - label: Ilustrační obrázek
+                name: pic
+                required: false
+                widget: image
+          - widget: object
+            label: Mluvčí
+            name: pressAgent
+            required: false
+            fields:
+              - label: Pozice
+                name: role
+                required: false
+                widget: string
+              - label: Jméno
+                name: name
+                required: false
+                widget: string
+              - label: Telefon
+                name: phone
+                required: false
+                widget: string
+              - label: E-mail
+                name: 'email '
+                required: false
+                widget: string
+          - widget: object
+            label: International Relations Officer
+            name: intl
+            required: false
+            fields:
+              - label: Pozice
+                name: role
+                required: false
+                widget: string
+              - label: Jméno
+                name: name
+                required: false
+                widget: string
+              - label: Telefon
+                name: phone
+                required: false
+                widget: string
+              - label: E-mail
+                name: 'email '
+                required: false
+                widget: string
+      - label: Přístupnost budovy
+        name: budova
+        file: content-en/pristupnost/budova/index.md
+        fields:
+          - label: Titulek
+            name: title
+            widget: string
+          - label: Sekce
+            name: gallery
+            required: false
+            label_singular: sekce
+            widget: list
+            fields:
+              - label: Ilustrační obrázek
+                name: pic
+                required: false
+                widget: image
+              - editor_components:
+                  - image
+                buttons:
+                  - bold
+                  - italic
+                  - link
+                  - heading-two
+                  - heading-three
+                  - heading-four
+                  - quote
+                  - bulleted-list
+                  - numbered-list
+                label: Text
+                name: desc
+                required: false
+                widget: markdown
+        media_folder: ''
+      - label: Snadné čtení
+        name: easy-read
+        file: content-en/pristupnost/snadne-cteni/index.md
+        fields:
+          - label: Titulek
+            name: title
+            widget: string
+          - editor_components:
+              - image
+            buttons:
+              - bold
+              - italic
+              - link
+              - heading-two
+              - heading-three
+              - heading-four
+              - quote
+              - bulleted-list
+              - numbered-list
+            label: Text stránky
+            name: body
+            required: false
+            widget: markdown
+        media_folder: ''
+      - label: Výstupy
+        name: output
+        file: content-en/vystupy/_index.markdown
+        fields:
+          - label: Titulek
+            name: title
+            widget: string
+          - editor_components:
+              - image
+            buttons:
+              - bold
+              - italic
+              - link
+              - heading-two
+              - heading-three
+              - heading-four
+              - quote
+              - bulleted-list
+              - numbered-list
+            label: Podtitul na homepage
+            name: hp
+            required: false
+            widget: markdown
+        media_folder: ''
+  - name: aktualne-en
+    label: Aktuality (EN)
+    label_singular: aktualita (en)
+    folder: content-en/aktualne
+    extension: md
+    editor: *ref_0
+    fields:
+      - label: Titulek
+        name: title
+        widget: string
+      - label: Uložit jako draft
+        name: draft
+        required: false
+        widget: boolean
+      - label: Ilustrační obrázek
+        name: illustration
+        required: false
+        widget: image
+      - label: Datum
+        name: date
+        required: false
+        widget: datetime
+        date_format: DD.MM.YYYY
+        time_format: true
+      - label: Štítky
+        name: vystupy
+        required: false
+        widget: relation
+        collection: vystupy-en
+        value_field: slug
+        display_fields: *ref_1
+        search_fields: *ref_2
+        multiple: true
+        options_length: 20
+      - label: Perex
+        name: perex
+        required: false
+        widget: customEditor
+      - label: Text
+        name: body
+        required: false
+        widget: customEditor
+      - label: Přílohy
+        name: attachments
+        required: false
+        label_singular: Příloha
+        widget: list
+        fields: *ref_3
+    create: true
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: 'https://www.ochrance.cz/en/aktualne/{{slug}}'
+    preview_path: '/en/aktualne/{{slug}}'
+  - name: dokument-en
+    label: Dokumenty (EN)
+    label_singular: dokument (en)
+    folder: content-en/dokument
+    extension: md
+    editor: *ref_4
+    fields:
+      - label: Titulek
+        name: title
+        widget: string
+      - label: Podtitulek
+        name: perex
+        required: false
+        widget: text
+      - label: Datum publikování
+        name: date
+        required: false
+        widget: datetime
+        date_format: DD.MM.YYYY
+        time_format: false
+      - label: Uložit jako draft
+        name: draft
+        required: false
+        widget: boolean
+      - label: Štítky
+        name: vystupy
+        required: false
+        widget: relation
+        collection: vystupy-en
+        value_field: slug
+        display_fields: *ref_5
+        search_fields: *ref_6
+        multiple: true
+        options_length: 20
+      - label: Text
+        name: body
+        required: false
+        widget: customEditor
+      - label: Přílohy před textem
+        name: attachmentsTop
+        required: false
+        label_singular: Příloha
+        widget: list
+        fields: *ref_7
+      - label: Přílohy pod textem
+        name: attachments
+        required: false
+        label_singular: Příloha
+        widget: list
+        fields: *ref_8
+    create: true
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: 'https://www.ochrance.cz/en/dokument/{{slug}}'
+    preview_path: '/en/dokument/{{slug}}'
+  - name: onas-en
+    label: O nás (EN)
+    editor: *ref_9
+    files:
+      - label: O kanceláři
+        name: o-kancelari
+        file: content-en/o-nas/_index.markdown
+        fields:
+          - label: Titulek stránky
+            name: title
+            widget: string
+          - label: Titulek v menu
+            name: menuTitle
+            required: false
+            widget: string
+          - label: Ilustrační obrázek
+            name: illustration
+            required: false
+            widget: image
+          - label: Perex
+            name: description
+            required: false
+            widget: text
+          - editor_components: *ref_10
+            buttons: *ref_11
+            label: Text stránky
+            name: body
+            required: false
+            widget: markdown
+          - label: Odkazy
+            name: links
+            required: false
+            label_singular: odkaz
+            widget: list
+            fields: *ref_12
+        media_folder: ''
+      - label: Veřejný ochránce práv
+        name: ombudsman
+        file: content-en/o-nas/ombudsman/index.md
+        fields:
+          - label: Název role
+            name: title
+            widget: string
+          - label: Jméno
+            name: name
+            required: false
+            widget: string
+          - label: Portrét
+            name: pic
+            required: false
+            widget: image
+          - label: Citát / motto
+            name: quote
+            required: false
+            widget: string
+          - editor_components: *ref_13
+            buttons: *ref_14
+            label: Krátký životopis
+            name: bio
+            required: false
+            widget: markdown
+          - label: Oblasti
+            name: areas
+            required: false
+            label_singular: oblast
+            widget: list
+            fields: *ref_15
+        media_folder: ''
+      - label: Zástupce
+        name: deputy
+        file: content-en/o-nas/deputy/index.md
+        fields:
+          - label: Název role
+            name: title
+            widget: string
+          - label: Jméno
+            name: name
+            required: false
+            widget: string
+          - label: Portrét
+            name: pic
+            required: false
+            widget: image
+          - label: Citát / motto
+            name: quote
+            required: false
+            widget: string
+          - editor_components: *ref_16
+            buttons: *ref_17
+            label: Krátký životopis
+            name: bio
+            required: false
+            widget: markdown
+          - label: Oblasti
+            name: areas
+            required: false
+            label_singular: oblast
+            widget: list
+            fields: *ref_18
+        media_folder: ''
+      - label: Historie
+        name: historie
+        file: content-en/o-nas/historie/index.md
+        fields:
+          - label: Titulek
+            name: title
+            widget: string
+          - label: Ilustrační obrázek
+            name: illustration
+            required: false
+            widget: image
+          - label: Časová osa
+            name: timeline
+            required: false
+            label_singular: Událost
+            widget: list
+            fields: *ref_19
+        media_folder: ''
+      - label: Předpisy
+        name: predpisy
+        file: content-en/o-nas/predpisy/index.md
+        fields:
+          - label: Titulek
+            name: title
+            widget: string
+          - label: Ilustrační obrázek
+            name: illustration
+            required: false
+            widget: image
+          - label: Text stránky
+            name: body
+            required: false
+            widget: customEditor
+        media_folder: ''
+  - name: pusobnost-en
+    label: Působnost (EN)
+    label_singular: oblast působnosti (en)
+    folder: content-en/pusobnost
+    extension: md
+    editor: *ref_20
+    fields:
+      - label: Název oblasti
+        name: title
+        widget: string
+      - label: Překladový klíč
+        name: translationKey
+        required: false
+        widget: string
+      - label: Uložit jako draft
+        name: draft
+        required: false
+        widget: boolean
+      - label: Ilustrační obrázek
+        name: illustration
+        required: false
+        widget: image
+      - label: Barva hlavičky
+        name: headerColor
+        required: false
+        widget: select
+        options: *ref_21
+      - label: Perex
+        name: perex
+        required: false
+        widget: text
+      - editor_components: *ref_22
+        buttons: *ref_23
+        label: Text
+        name: body
+        required: false
+        widget: markdown
+      - widget: object
+        label: Kontaktní patička
+        name: cta
+        required: false
+        fields: *ref_24
+        collapsed: true
+    create: true
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: ''
+  - name: potrebuji-pomoc-en
+    label: Potřebuji pomoc (EN)
+    label_singular: Problematika (en)
+    folder: content-en/potrebuji-pomoc
+    extension: md
+    editor: *ref_25
+    fields:
+      - label: Titulek
+        name: title
+        widget: string
+      - label: Perex
+        name: perex
+        required: false
+        widget: text
+      - label: Překladový klíč
+        name: translationKey
+        required: false
+        widget: string
+      - label: Ilustrační obrázek
+        name: illustration
+        required: false
+        widget: image
+      - editor_components: *ref_26
+        buttons: *ref_27
+        label: Popisek na homepage
+        name: hp
+        required: false
+        widget: markdown
+      - editor_components: *ref_28
+        buttons: *ref_29
+        label: Úvodní text
+        name: body
+        required: false
+        widget: markdown
+      - label: 'Seznam: můžeme pomoci'
+        name: we-can
+        required: false
+        label_singular: Situace
+        widget: list
+        field: *ref_30
+      - label: 'Seznam: nemůžeme pomoci'
+        name: we-cannot
+        required: false
+        label_singular: Situace
+        widget: list
+        field: *ref_31
+      - label: Příklady
+        name: examples
+        required: false
+        label_singular: Příklad
+        widget: list
+        fields: *ref_32
+      - widget: object
+        label: Sekce „podejte podnět“
+        name: button
+        required: false
+        fields: *ref_33
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: ''
+  - name: letaky-en
+    label: Letáky (EN)
+    label_singular: leták (en)
+    folder: content-en/letaky
+    extension: md
+    editor: *ref_34
+    fields:
+      - label: Název letáku
+        name: title
+        widget: string
+      - label: Řetezec v adrese
+        name: slug
+        required: false
+        hint: 'Pouze číslice, písmena anglické abecedy, spojovník a podtržítko.'
+        pattern: *ref_35
+        widget: string
+      - label: Uložit jako draft
+        name: draft
+        required: false
+        widget: boolean
+      - label: Situace
+        name: situace
+        required: false
+        widget: relation
+        collection: situace-en
+        value_field: slug
+        display_fields: *ref_36
+        search_fields: *ref_37
+        multiple: true
+        options_length: 20
+      - label: Leták v PDF
+        name: file
+        required: false
+        widget: file
+      - label: Verze pro zrakově znevýhodněné
+        name: seeing
+        required: false
+        widget: file
+      - label: Verze v romštině
+        name: roma
+        required: false
+        widget: file
+      - label: Přílohy
+        name: attachments
+        required: false
+        label_singular: Příloha
+        widget: list
+        fields: *ref_38
+    create: true
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: ''
+  - name: situace-en
+    label: Situace (EN)
+    label_singular: situace (en)
+    folder: content-en/situace
+    extension: md
+    editor: *ref_39
+    fields:
+      - label: Název situace
+        name: title
+        widget: string
+      - label: Řetezec v adrese
+        name: slug
+        required: false
+        hint: 'Pouze číslice, písmena anglické abecedy, spojovník a podtržítko.'
+        pattern: *ref_40
+        widget: string
+      - label: Titulek ve formě otázky
+        name: questionTitle
+        required: false
+        widget: string
+      - label: Perex
+        name: perex
+        required: false
+        widget: text
+      - label: Ilustrační obrázek
+        name: illustration
+        required: false
+        widget: image
+    create: true
+    path: '{{slug}}/_index'
+  - name: vystupy-en
+    label: Kategorie výstupů (EN)
+    label_singular: kategorie výstupů (en)
+    folder: content-en/vystupy
+    extension: markdown
+    editor: *ref_41
+    fields:
+      - label: Kategorie výstupu (singulár)
+        name: title
+        widget: string
+      - label: Titulek kategorie (plurál)
+        name: plural
+        required: false
+        widget: string
+      - label: Zobrazovat v seznamu výstupů z činnosti
+        name: listed
+        required: false
+        widget: boolean
+      - label: Řetezec v adrese
+        name: slug
+        hint: 'Pouze číslice, písmena anglické abecedy, spojovník a podtržítko.'
+        pattern: *ref_42
+        widget: string
+      - label: Perex
+        name: perex
+        required: false
+        widget: text
+      - label: Ilustrační obrázek
+        name: illustration
+        required: false
+        widget: image
+      - editor_components: *ref_43
+        buttons: *ref_44
+        label: Dodatečný text stránky
+        name: body
+        required: false
+        widget: markdown
+      - label: Pole pro nahrávání souborů
+        name: file
+        required: false
+        widget: file
+    create: true
+    path: '{{slug}}/_index'
+    media_folder: ''
+    public_folder: ''
+  - name: provoz-en
+    label: Provoz (EN)
+    label_singular: provozní info (en)
+    folder: content-en/provoz
+    extension: md
+    editor: *ref_45
+    fields:
+      - label: Titulek
+        name: title
+        widget: string
+      - label: Uložit jako draft
+        name: draft
+        required: false
+        widget: boolean
+      - label: Překladový klíč
+        name: translationKey
+        required: false
+        widget: string
+      - label: Odkazy
+        name: links
+        required: false
+        label_singular: odkaz
+        widget: list
+        fields: *ref_46
+      - label: Text
+        name: body
+        required: false
+        widget: customEditor
+      - label: Odkazy pod hlavním textem
+        name: linksAfter
+        required: false
+        label_singular: odkaz
+        widget: list
+        fields: *ref_47
+    create: true
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: ''
+  - name: info-en
+    label: Další informace (EN)
+    label_singular: infostránka (en)
+    folder: content-en/info
+    extension: md
+    editor: *ref_48
+    fields:
+      - label: Titulek
+        name: title
+        widget: string
+      - label: Uložit jako draft
+        name: draft
+        required: false
+        widget: boolean
+      - label: Překladový klíč
+        name: translationKey
+        required: false
+        widget: string
+      - label: Odkazy
+        name: links
+        required: false
+        label_singular: odkaz
+        widget: list
+        fields: *ref_49
+      - label: Text
+        name: body
+        required: false
+        widget: customEditor
+      - label: Odkazy pod hlavním textem
+        name: linksAfter
+        required: false
+        label_singular: odkaz
+        widget: list
+        fields: *ref_50
+    create: true
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: 'https://www.ochrance.cz/en/info/{{slug}}'
+  - name: projekty-en
+    label: Projekty (EN)
+    label_singular: projekt (en)
+    folder: content-en/projekty
+    extension: md
+    editor: *ref_51
+    fields:
+      - label: Název projektu
+        name: title
+        widget: string
+      - label: Uložit jako draft
+        name: draft
+        required: false
+        widget: boolean
+      - label: Řetezec v adrese
+        name: slug
+        required: false
+        hint: 'Pouze číslice, písmena anglické abecedy, spojovník a podtržítko.'
+        pattern: *ref_52
+        widget: string
+      - label: Překladový klíč
+        name: translationKey
+        required: false
+        widget: string
+      - label: Probíhající projekt
+        name: ongoing
+        required: false
+        widget: boolean
+      - label: Popis projektu
+        name: body
+        required: false
+        widget: customEditor
+      - label: Dodatečný text pod aktualitami k projektu
+        name: bonus
+        required: false
+        widget: customEditor
+      - widget: object
+        label: Ilustrační obrázek
+        name: illustration
+        required: false
+        fields: *ref_53
+      - label: Partneři
+        name: partners
+        required: false
+        label_singular: Partner
+        widget: list
+        fields: *ref_54
+      - label: Galerie
+        name: gallery
+        required: false
+        label_singular: Fotka
+        widget: list
+        fields: *ref_55
+    create: true
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: ''
