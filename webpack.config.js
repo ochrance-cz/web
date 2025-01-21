@@ -1,8 +1,13 @@
 const path = require('path');
 
+const { CKEditorTranslationsPlugin } = require('@ckeditor/ckeditor5-dev-translations');
+
 module.exports = {
   mode: 'production',
   entry: './custom-editor/index.tsx',
+  resolve: {
+    extensions: ['.ts', '.tsx', '.js'],
+  },
   module: {
     rules: [
       {
@@ -12,6 +17,10 @@ module.exports = {
       {
         test: /\.css$/i,
         use: ['style-loader', 'css-loader'],
+      },
+      {
+        test: /ckeditor5-[^/\\]+[/\\]theme[/\\]icons[/\\][^/\\]+\.svg$/,
+        use: ['raw-loader'],
       },
     ],
   },
@@ -23,4 +32,5 @@ module.exports = {
   watchOptions: {
     ignored: ['**/static-preview', '**/node_modules'],
   },
+  plugins: [new CKEditorTranslationsPlugin({ language: 'cs' })],
 };

@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "fixCsv": "cd content/instituce/eso && iconv -f cp1250 -t utf8 export.csv | sed 's/\"/\"\"/g' | sed 's/;/\",\"/g' | sed 's/^/\"/g' | sed 's/$/\"/g' > export.fixed.csv",
     "build": "deno run --no-check --allow-write ./config-gen/index.ts",
-    "buildEditor": "webpack",
+    "buildEditor": "webpack --progress",
     "buildEditor:watch": "webpack --watch --progress"
   },
   "repository": {
@@ -21,24 +21,27 @@
   },
   "homepage": "https://github.com/jan-martinek/ochrance-cz#readme",
   "dependencies": {
+    "@ckeditor/ckeditor5-dev-utils": "^43.0.1",
+    "@ckeditor/ckeditor5-react": "^9.4.0",
     "@types/markdown-it": "^12.0.3",
-    "@types/react": "^17.0.14",
-    "ckeditor4": "^4.16.1",
-    "ckeditor4-react": "^2.1.1",
+    "ckeditor5": "^44.1.0",
     "css-loader": "^5.2.4",
+    "decap-cms-app": "^3.4.0",
+    "decap-cms-core": "^3.5.0",
+    "decap-cms-locales": "^3.2.0",
     "markdown-it": "^12.1.0",
-    "netlify-cms-app": "^2.15.70",
-    "netlify-cms-core": "^2.55.0",
-    "netlify-cms-locales": "^1.39.0",
-    "react": "^17.0.2",
+    "postcss-loader": "^8.1.1",
+    "raw-loader": "^4.0.2",
+    "react": "^18.3.1",
     "sass-loader": "^11.1.1",
     "style-loader": "^2.0.0",
-    "ts-loader": "^9.2.0",
-    "typescript": "^4.2.4",
-    "webpack": "^5.37.0"
+    "ts-loader": "^9.5.1",
+    "typescript": "^5.7.3",
+    "uuid": "^8.3.2",
+    "webpack": "^5.97.1"
   },
   "devDependencies": {
     "@types/uuid": "^8.3.1",
-    "webpack-cli": "^4.7.0"
+    "webpack-cli": "^6.0.1"
   }
 }

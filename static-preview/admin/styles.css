@@ -3,10 +3,8 @@
   src: url(https://www.ochrance.cz/fonts/open-sans-fontface/fonts/Regular/OpenSans-Regular.eot?v=1.1.0);
   src: url(https://www.ochrance.cz/fonts/open-sans-fontface/fonts/Regular/OpenSans-Regular.eot?#iefix&v=1.1.0)
       format('embedded-opentype'),
-    url(https://www.ochrance.cz/fonts/open-sans-fontface/fonts/Regular/OpenSans-Regular.woff?v=1.1.0)
-      format('woff'),
-    url(https://www.ochrance.cz/fonts/open-sans-fontface/fonts/Regular/OpenSans-Regular.ttf?v=1.1.0)
-      format('truetype'),
+    url(https://www.ochrance.cz/fonts/open-sans-fontface/fonts/Regular/OpenSans-Regular.woff?v=1.1.0) format('woff'),
+    url(https://www.ochrance.cz/fonts/open-sans-fontface/fonts/Regular/OpenSans-Regular.ttf?v=1.1.0) format('truetype'),
     url(https://www.ochrance.cz/fonts/open-sans-fontface/fonts/Regular/OpenSans-Regular.svg?v=1.1.0#Regular)
       format('svg');
   font-weight: 400;
@@ -19,12 +17,9 @@
   src: url(https://www.ochrance.cz/fonts/open-sans-fontface/fonts/Italic/OpenSans-Italic.eot?v=1.1.0);
   src: url(https://www.ochrance.cz/fonts/open-sans-fontface/fonts/Italic/OpenSans-Italic.eot?#iefix&v=1.1.0)
       format('embedded-opentype'),
-    url(https://www.ochrance.cz/fonts/open-sans-fontface/fonts/Italic/OpenSans-Italic.woff?v=1.1.0)
-      format('woff'),
-    url(https://www.ochrance.cz/fonts/open-sans-fontface/fonts/Italic/OpenSans-Italic.ttf?v=1.1.0)
-      format('truetype'),
-    url(https://www.ochrance.cz/fonts/open-sans-fontface/fonts/Italic/OpenSans-Italic.svg?v=1.1.0#Italic)
-      format('svg');
+    url(https://www.ochrance.cz/fonts/open-sans-fontface/fonts/Italic/OpenSans-Italic.woff?v=1.1.0) format('woff'),
+    url(https://www.ochrance.cz/fonts/open-sans-fontface/fonts/Italic/OpenSans-Italic.ttf?v=1.1.0) format('truetype'),
+    url(https://www.ochrance.cz/fonts/open-sans-fontface/fonts/Italic/OpenSans-Italic.svg?v=1.1.0#Italic) format('svg');
   font-weight: 400;
   font-style: italic;
   font-display: swap;
@@ -35,12 +30,9 @@
   src: url(https://www.ochrance.cz/fonts/open-sans-fontface/fonts/Bold/OpenSans-Bold.eot?v=1.1.0);
   src: url(https://www.ochrance.cz/fonts/open-sans-fontface/fonts/Bold/OpenSans-Bold.eot?#iefix&v=1.1.0)
       format('embedded-opentype'),
-    url(https://www.ochrance.cz/fonts/open-sans-fontface/fonts/Bold/OpenSans-Bold.woff?v=1.1.0)
-      format('woff'),
-    url(https://www.ochrance.cz/fonts/open-sans-fontface/fonts/Bold/OpenSans-Bold.ttf?v=1.1.0)
-      format('truetype'),
-    url(https://www.ochrance.cz/fonts/open-sans-fontface/fonts/Bold/OpenSans-Bold.svg?v=1.1.0#Bold)
-      format('svg');
+    url(https://www.ochrance.cz/fonts/open-sans-fontface/fonts/Bold/OpenSans-Bold.woff?v=1.1.0) format('woff'),
+    url(https://www.ochrance.cz/fonts/open-sans-fontface/fonts/Bold/OpenSans-Bold.ttf?v=1.1.0) format('truetype'),
+    url(https://www.ochrance.cz/fonts/open-sans-fontface/fonts/Bold/OpenSans-Bold.svg?v=1.1.0#Bold) format('svg');
   font-weight: 700;
   font-style: normal;
   font-display: swap;
@@ -55,71 +47,90 @@
   font-display: swap;
 }
 
-h2 {
-  font-family: Daxline;
-  font-size: 35px;
+.ck.ck-editor__main > .ck-editor__editable.ck-focused {
+  border-color: var(--ck-color-base-border);
+  box-shadow: inset 0 0 3px #00857677;
 }
 
-h3 {
-  font-family: Daxline;
-  font-size: 28px;
+.ck-heading_heading2 {
+  color: red;
 }
 
-p,
-li,
-td,
-th,
-blockquote {
-  font-family: 'open sans';
-  font-size: 14px;
-}
+.ck-content {
+  color: black;
 
-blockquote {
-  margin: 0 0 2.5rem;
-  background: #e5f5f3;
-  border-radius: 4px;
-  padding: 1rem;
-}
+  h2 {
+    font-family: Daxline;
+    font-size: 35px;
+  }
 
-ul,
-ol {
-  margin-bottom: 2rem;
-  padding-left: 1.3rem;
-}
+  h3 {
+    font-family: Daxline;
+    font-size: 28px;
+  }
 
-ul li,
-ol li {
-  margin-bottom: 1rem;
-}
+  p,
+  li,
+  td,
+  th,
+  blockquote {
+    font-family: 'open sans';
+    font-size: 14px;
+  }
 
-a {
-  color: #008576;
-}
+  blockquote {
+    margin: 0 0 2.5rem;
+    background: #e5f5f3;
+    border-radius: 4px;
+    padding: 1rem;
+  }
 
-table {
-  border-collapse: collapse;
-  width: 100%;
-  margin: 1rem 0 4rem;
-}
+  ul,
+  ol {
+    margin-bottom: 2rem;
+    padding-left: 1.3rem;
+  }
 
-table td,
-table th {
-  padding: 0.5rem;
-  border-bottom: 1px solid #b8b8b8;
-}
+  ul li,
+  ol li {
+    margin-bottom: 1rem;
+  }
 
-img {
-  display: block;
-  margin: 1rem 0;
-  width: 100%;
-}
+  a {
+    color: #008576;
+    text-decoration: underline;
+  }
 
-img[style*='float: left'] {
-  margin: 0 1rem 1rem 0;
-  width: 45%;
-}
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 1rem 0 4rem;
+  }
 
-img[style*='float: right'] {
-  margin: 0 0 1rem 1rem;
-  width: 45%;
+  table td,
+  table th {
+    padding: 0.5rem;
+    border-bottom: 1px solid #b8b8b8;
+  }
+
+  img {
+    display: block;
+    margin: 1rem 0;
+    width: 100%;
+  }
+
+  img[style*='float: left'] {
+    margin: 0 1rem 1rem 0;
+    width: 45%;
+  }
+
+  img[style*='float: right'] {
+    margin: 0 0 1rem 1rem;
+    width: 45%;
+  }
+
+  .image-style-align-left,
+  .image-style-align-right {
+    width: 50%;
+  }
 }

@@ -17,6 +17,19 @@ $grid-gap: 2rem;
 main {
   section img {
     max-width: 100%;
+    height: auto;
+  }
+
+  .image-style-align-left,
+  .image-style-align-right {
+    margin: 0 1rem 1rem 0;
+    float: left;
+    width: 45%;
+  }
+
+  .image-style-align-right {
+    float: right;
+    margin: 0 0 1rem 1rem;
   }
 
   ._pic-header,
@@ -75,7 +88,7 @@ main {
           bottom: 0;
           z-index: 1;
           display: block;
-          content: " ";
+          content: ' ';
           background: $green;
           opacity: 0.5;
           mix-blend-mode: multiply;

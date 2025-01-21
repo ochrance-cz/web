@@ -7,7 +7,11 @@ body {
 
 figure {
   padding: 0;
-  margin: 3rem 0;
+  margin: 1rem 0;
+
+  &:has(figcaption) {
+    margin: 2rem 0 3rem;
+  }
 
   figcaption {
     margin-top: 0.5rem;

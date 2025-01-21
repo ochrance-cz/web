@@ -1,3 +1,4 @@
+// @ts-ignore
 import { stringify } from 'https://deno.land/std/encoding/yaml.ts';
 
 interface Base {
@@ -65,8 +66,14 @@ export const string = (label: string, name: string, options?: Options): StringWi
   return w;
 };
 
-export const title = (label: string) => {
-  return string(label, 'title', { required: true });
+export const title = (label: string, options?: Options) => {
+  const w = string(label, 'title', { required: true });
+
+  if (options) {
+    if (options.hint) w.hint = options.hint;
+  }
+
+  return w;
 };
 
 interface TextWidget extends BaseWidget {
@@ -117,11 +124,7 @@ interface CustomEditorWidget extends BaseWidget {
   widget: 'customEditor';
 }
 
-export const customEditor = (
-  label: string,
-  name: string,
-  options?: Options
-): CustomEditorWidget => {
+export const customEditor = (label: string, name: string, options?: Options): CustomEditorWidget => {
   const w = {
     ...base(name, label, options),
     widget: 'customEditor' as const,
@@ -226,12 +229,7 @@ interface ObjectOptions extends Options {
   collapsed?: boolean;
 }
 
-export const object = (
-  label: string,
-  name: string,
-  fields: AnyWidget[],
-  options?: ObjectOptions
-): ObjectWidget => {
+export const object = (label: string, name: string, fields: AnyWidget[], options?: ObjectOptions): ObjectWidget => {
   const w = {
     widget: 'object' as const,
     ...base(name, label, options),
@@ -288,11 +286,7 @@ interface DatetimeOptions extends Options {
   time_format?: string | boolean;
 }
 
-export const datetime = (
-  label: string,
-  name: string,
-  options?: DatetimeOptions
-): DatetimeWidget => {
+export const datetime = (label: string, name: string, options?: DatetimeOptions): DatetimeWidget => {
   const w: DatetimeWidget = {
     ...base(name, label, options),
     widget: 'datetime' as const,
@@ -323,8 +317,7 @@ interface RelationOptions extends Options {
 }
 
 export const relation = (label: string, name: string, options: RelationOptions): RelationWidget => {
-  const { collection, value_field, display_fields, search_fields, multiple, options_length } =
-    options;
+  const { collection, value_field, display_fields, search_fields, multiple, options_length } = options;
 
   const w = {
     ...base(name, label, options),
@@ -474,9 +467,7 @@ export const folderCollection = (
 const checkDuplicates = (items: Base[], name: string) => {
   const duplicates = findDuplicates(items.map(f => f.name));
   if (duplicates.length > 0) {
-    throw new Error(
-      `Repeating name${duplicates.length > 1 ? 's' : ''} "${duplicates.join(', ')}" in "${name}"!`
-    );
+    throw new Error(`Repeating name${duplicates.length > 1 ? 's' : ''} "${duplicates.join(', ')}" in "${name}"!`);
   }
 };
 
@@ -485,5 +476,7 @@ const findDuplicates = (arr: string[]) => arr.filter((item, index) => arr.indexO
 export const save = (path: string, config: object) => {
   const yaml = stringify(config);
   const encoder = new TextEncoder();
+
+  // @ts-ignore
   Deno.writeFile(path, encoder.encode(yaml));
 };

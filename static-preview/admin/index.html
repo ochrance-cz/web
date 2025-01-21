@@ -1,36 +1,33 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Content Manager</title>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Content Manager</title>
+    <link href="./styles.css" rel="stylesheet" />
 
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+    <style>
+      [id$='_previewImage'] {
+        display: block;
+        margin: 1rem 0;
+        width: 100% !important;
+        height: auto !important;
+      }
+      [id$='_previewImage'][style*='float: left'] {
+        margin: 0 1rem 1rem 0;
+        width: 45% !important;
+        height: auto !important;
+      }
+      [id$='_previewImage'][style*='float: right'] {
+        margin: 0 0 1rem 1rem;
+        width: 45% !important;
+        height: auto !important;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- Include the script that builds the page and powers Netlify CMS -->
 
-  <style>
-    [id$="_previewImage"] {
-      display: block;
-      margin: 1rem 0;
-      width: 100% !important;
-      height: auto !important;
-    }
-    [id$="_previewImage"][style*="float: left"] {
-      margin: 0 1rem 1rem 0;
-      width: 45% !important;
-      height: auto !important;
-    }
-    [id$="_previewImage"][style*="float: right"] {
-      margin: 0 0 1rem 1rem;
-      width: 45% !important;
-      height: auto !important;
-    }
-  </style>
-</head>
-<body>
-  <!-- Include the script that builds the page and powers Netlify CMS -->
-
-  <script src="./bundle.js"></script>
-</body>
+    <script src="./bundle.js"></script>
+  </body>
 </html>

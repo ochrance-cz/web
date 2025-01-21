@@ -82,7 +82,7 @@ const twoColTypes = [
   { label: 'Příklady', value: 'yes-yes' },
 ];
 
-const twoColFields = [];
+const twoColFields: ReturnType<typeof markdown>[] = [];
 
 for (var i = 1; i <= 10; ++i) {
   twoColFields.push(markdown(`${i}. pole vlevo`, `left-${i}`));
@@ -860,7 +860,7 @@ save('./static-preview/admin/config.yml', {
   media_folder: 'content/media',
   public_folder: '/media',
   site_domain: 'https://ochrance-preview.netlify.app',
-  display_url: 'https://www.ochrance.cz/_admin/',
+  display_url: 'https://www.ochrance.cz/_preview/',
   slug: {
     encoding: 'ascii',
     clean_accents: true,

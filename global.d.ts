@@ -1,2 +1,1 @@
-declare module 'netlify-cms-locales';
-declare module 'uuid/v4';
+declare module 'decap-cms-locales';
