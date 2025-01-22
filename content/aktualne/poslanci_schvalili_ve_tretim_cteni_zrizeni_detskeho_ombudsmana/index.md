@@ -1,8 +1,8 @@
 ---
-title: " Poslanci schválili ve třetím čtení zřízení dětského ombudsmana"
-date: 22.01.2025T15:24
+title: 'Poslanci schválili ve třetím čtení zřízení dětského ombudsmana'
+date: 2025-01-22T15:24
 vystupy:
-  - aktualita
+  - news
 perex: <p>Sněmovna dnes schválila novelu zákona o veřejném ochránci práv, kterou
   se zřizuje instituce dětského ombudsmana. Nová instituce bude fungovat v rámci
   stávající Kanceláře veřejného ochránce práv. Novela teď míří do Senátu.</p>
