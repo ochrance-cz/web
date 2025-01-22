@@ -1,6 +1,6 @@
 ---
 title: 'Poslanci schválili ve třetím čtení zřízení dětského ombudsmana'
-date: 2025-01-22T15:24:50.222Z
+date: 2025-01-22T13:24:50.222Z
 vystupy:
   - aktualita
 perex: <p>Sněmovna dnes schválila novelu zákona o veřejném ochránci práv, kterou
