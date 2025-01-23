@@ -1038,9 +1038,10 @@ collections:
       - label: Datum
         name: date
         required: false
+        default: '{{now}}'
         widget: datetime
-        date_format: DD.MM.YYYY
-        time_format: true
+        date_format: YYYY-MM-DD
+        time_format: 'HH:mm:ssZZ'
       - label: Štítky
         name: vystupy
         required: false
@@ -1101,9 +1102,9 @@ collections:
       - label: Datum publikování
         name: date
         required: false
+        default: '{{now}}'
         widget: datetime
-        date_format: DD.MM.YYYY
-        time_format: false
+        date_format: YYYY-MM-DD
       - label: Uložit jako draft
         name: draft
         required: false
@@ -1821,9 +1822,9 @@ collections:
       - label: Datum konání
         name: startDate
         required: false
+        default: '{{now}}'
         widget: datetime
-        date_format: DD.MM.YYYY
-        time_format: false
+        date_format: YYYY-MM-DD
       - editor_components:
           - image
         buttons:
@@ -2620,9 +2621,10 @@ collections:
       - label: Datum
         name: date
         required: false
+        default: '{{now}}'
         widget: datetime
-        date_format: DD.MM.YYYY
-        time_format: true
+        date_format: YYYY-MM-DD
+        time_format: 'HH:mm:ssZZ'
       - label: Štítky
         name: vystupy
         required: false
@@ -2669,9 +2671,9 @@ collections:
       - label: Datum publikování
         name: date
         required: false
+        default: '{{now}}'
         widget: datetime
-        date_format: DD.MM.YYYY
-        time_format: false
+        date_format: YYYY-MM-DD
       - label: Uložit jako draft
         name: draft
         required: false

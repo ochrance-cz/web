@@ -447,12 +447,7 @@ const vzdelavaciAkce = folderCollection(
     media_folder: '',
     public_folder: 'https://www.ochrance.cz/vzdelavaci-akce/{{slug}}',
   },
-  [
-    title('Titulek'),
-    markdown('Perex', 'perex'),
-    datetime('Datum konání', 'startDate', { time_format: false }),
-    markdown('Popis akce', 'body'),
-  ]
+  [title('Titulek'), markdown('Perex', 'perex'), datetime('Datum konání', 'startDate'), markdown('Popis akce', 'body')]
 );
 
 const eso = folderCollection(
@@ -530,7 +525,7 @@ const dokument = folderCollection(
   [
     title('Titulek'),
     text('Podtitulek', 'perex'),
-    datetime('Datum publikování', 'date', { time_format: false }),
+    datetime('Datum publikování', 'date'),
     boolean('Uložit jako draft', 'draft'),
     relation('Štítky', 'vystupy', {
       collection: 'vystupy',
@@ -681,7 +676,7 @@ const aktualne = folderCollection(
     title('Titulek'),
     boolean('Uložit jako draft', 'draft'),
     image('Ilustrační obrázek', 'illustration'),
-    datetime('Datum', 'date', { time_format: true }),
+    datetime('Datum', 'date', { use_time: true }),
     relation('Štítky', 'vystupy', {
       collection: 'vystupy',
       value_field: 'slug',
