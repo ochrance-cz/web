@@ -3,7 +3,7 @@ title: Aby lidé nemuseli čekat až na zastání soudů. Ombudsman žádá změ
   fungování rozkladových komisí
 date: 2025-01-24T10:33:00+0100
 vystupy:
-  - aktualita
+  - tz
 perex: <p>Rozkladové komise na ministerstvech nepostupují podle jednotných
   pravidel. To přinesly závěry z dat a poznatků, se kterými přišel ombudsman.
   Úkolem lidí, kteří v rozkladových komisích sedí, je nezávisle a nestranně
