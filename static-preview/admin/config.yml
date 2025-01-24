@@ -1041,7 +1041,7 @@ collections:
         default: '{{now}}'
         widget: datetime
         date_format: YYYY-MM-DD
-        time_format: 'HH:mm:ssZ'
+        time_format: 'HH:mm:ssZZ'
       - label: Štítky
         name: vystupy
         required: false
@@ -2624,7 +2624,7 @@ collections:
         default: '{{now}}'
         widget: datetime
         date_format: YYYY-MM-DD
-        time_format: 'HH:mm:ssZ'
+        time_format: 'HH:mm:ssZZ'
       - label: Štítky
         name: vystupy
         required: false
