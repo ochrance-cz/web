@@ -1,7 +1,7 @@
 ---
 title: Aby lidé nemuseli čekat až na zastání soudů. Ombudsman žádá změny ve
   fungování rozkladových komisí
-date: 2025-01-24T10:33:00+0100
+date: 2025-01-24T10:33:00
 vystupy:
   - tz
 perex: <p>Rozkladové komise na ministerstvech nepostupují podle jednotných
