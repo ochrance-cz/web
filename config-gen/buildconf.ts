@@ -295,7 +295,7 @@ export const datetime = (label: string, name: string, options?: DatetimeOptions)
   };
 
   if (options?.use_time) {
-    w.time_format = 'HH:mm:ssZZ';
+    w.time_format = 'HH:mm:ssZ';
   }
 
   return w;
