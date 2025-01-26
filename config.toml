@@ -3,6 +3,7 @@ defaultContentLanguage = "cs"
 languageCode = "cs"
 title = "Ombudsman"
 relativeurls = true
+timeZone = "Europe/Prague"
 
 [outputs]
 home = ["HTML", "RSS", "Elastic", "htaccess"]
