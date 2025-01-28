@@ -27,12 +27,12 @@ Podle [dat Českého statistického úřadu](https://csu.gov.cz/produkty/vyberov
 
 ### Povinný podíl zaměstnanců s postižením
 
-[Zákon o zaměstnanosti](https://www.e-sbirka.cz/sb/2004/435/2024-08-01#par_81-odst_1) ukládá zaměstnavatelům, kteří mají více než 25 zaměstnanců, aby 4 % zaměstnanců tvořili lidé se zdravotním postižením.
+[Zákon o zaměstnanosti](https://www.e-sbirka.cz/sb/2004/435#par_81-odst_1) ukládá zaměstnavatelům, kteří mají více než 25 zaměstnanců, aby 4 % zaměstnanců tvořili lidé se zdravotním postižením.
 
 Namísto chybějících zaměstnanců ale mohou (odděleně i současně):
 
 1. nakoupit výrobky nebo služby od zaměstnavatelů, kteří zaměstnávají více než 50 % lidí se zdravotním postižením, nebo
-2. odvést do státního rozpočtu 2,5 násobek průměrné mzdy za každého chybějícího člověka s postižením.
+2. odvést určitou částku do státního rozpočtu, výše částky je odstupňovaná podle toho, kolik lidí s postižením u zaměstnavatele pracuje, čím více zaměstnanců s postižením, tím je odvod nižší ([§ 82 odst. 1 zákona o zaměstnanosti](https://www.e-sbirka.cz/sb/2004/435#par_81-odst_1)).
 
 ### Přiměřená opatření vůči zaměstnancům s postižením
 
