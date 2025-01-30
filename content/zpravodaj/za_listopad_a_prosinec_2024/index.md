@@ -252,12 +252,12 @@ sections:
           v&nbsp;Norsku. Probírali jsme deinstitucionalizaci (v&nbsp;Norsku již
           proběhla) a systém poskytování osobní asistence.</p><p>Více ve <a
           href="https://www.facebook.com/groups/319938625441179/permalink/1798071770961183/">facebookovém
-          příspěvku</a>.</p><figure class="image image-style-align-left"><img
+          příspěvku</a>.</p><figure class="image"><img
+          style="aspect-ratio:1385/1039;"
           src="https://www.ochrance.cz/zpravodaj/za_listopad_a_prosinec_2024/norsko_zpravodaj_foto.jpg"
-          alt="norsko_zpravodaj_foto.jpg"><figcaption>Na skupinové fotce jsou
-          zachyceni zaměstnanci Kanceláře ombudsmana a zástupce ombudsmana s
-          norskými partnery.</figcaption></figure>
-        release: "https://www.facebook.com/groups/319938625441179/permalink/17967383377\
-          61193/ "
+          alt="Na skupinové fotce jsou zachyceni zaměstnanci Kanceláře
+          ombudsmana a zástupce ombudsmana s norskými partnery." width="1385"
+          height="1039"></figure>
+        release: ""
         title: Navštívili jsme naše norské partnery
 ---
