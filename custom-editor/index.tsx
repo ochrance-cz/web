@@ -161,8 +161,10 @@ class CustomEditorWidgetControl extends React.Component<ExProps, IState> {
             const imageUtils = e.plugins.get('ImageUtils');
             imageUtils.insertImage({ src, alt }, null, 'imageBlock', { setImageSizes: false });
           } else {
-            // legacy alt
-            // (this.state.editor as any).insertHtml(`<a href="${url}">${filename}</a>`);
+            const viewFragment = e.data.processor.toView(`<a href="${src}">${alt}</a>`);
+            const modelFragment = e.data.toModel(viewFragment);
+
+            e.model.insertContent(modelFragment);
           }
         });
       }
