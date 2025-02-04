@@ -20,7 +20,7 @@ title: GDPR a ochrana osobních údajů
 	<li><strong>našich současných i&nbsp;bývalých zaměstnanců a&nbsp;zaměstnankyň a&nbsp;jejich rodinných příslušníků</strong>&nbsp;v&nbsp;rozsahu nezbytném pro&nbsp;splnění smluvních ujednání a&nbsp;souvisejících právních povinností Kanceláře veřejného ochránce práv coby zaměstnavatele;</li>
 	<li><strong>uchazečů a&nbsp;uchazeček o&nbsp;zaměstnání</strong>&nbsp;v&nbsp;Kanceláři veřejného ochránce práv za&nbsp;účelem realizace výběrových řízení a&nbsp;pro&nbsp;obhajobu případných právních nároků;</li>
 	<li><strong>našich smluvních partnerů a&nbsp;jejich zaměstnanců a&nbsp;zaměstnankyň</strong>&nbsp;za&nbsp;účelem splnění smluvních ujednání;</li>
-	<li><strong>těch, kdo se přihlásí na&nbsp;naše vzdělávací a&nbsp;osvětové akce</strong>&nbsp;a&nbsp;se zpracováváním údajů souhlasí;</li>
+	<li><strong>těch, kdo se přihlásí na&nbsp;naše vzdělávací a&nbsp;osvětové akce</strong> v&nbsp;rozsahu nezbytném pro vydání osvědčení potvrzující účast na akci;</li>
 	<li><strong>osob zachycených kamerovým systémem</strong>&nbsp;z&nbsp;důvodu ochrany majetku a&nbsp;oprávněných zájmů Kanceláře veřejného ochránce práv a&nbsp;třetích osob;</li>
 	<li><strong>zástupců spolupracujících úřadů, institucí a organizací</strong> za účelem seznámení s činností ochránce a poznatky, které z jeho činnosti vyplynuly.</li>
 </ol>
