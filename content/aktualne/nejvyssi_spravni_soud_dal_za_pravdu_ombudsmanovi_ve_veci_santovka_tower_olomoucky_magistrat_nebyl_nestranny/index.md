@@ -15,7 +15,7 @@ perex: >
   nestranné jednání ze strany úředníků.&nbsp;</p>
 attachments:
   - title: Rozsudek NSS ze dne 29.1.2025
-    file: https://www.ochrance.cz/aktualne/nejvyssi_spravni_soud_dal_za_pravdu_ombudsmanovi_ve_veci_santovka_tower_olomoucky_magistrat_nebyl_nestranny/rozhodnuti_nss_ze_dne_29.1.2025.pdf
+    file: https://www.ochrance.cz/aktualne/nejvyssi_spravni_soud_dal_za_pravdu_ombudsmanovi_ve_veci_santovka_tower_olomoucky_magistrat_nebyl_nestranny/rozhodnuti_nss_29.1.2025.pdf
   - title: Usnesení Nejvyššího správního soudu 1 As 146/2024 – 75 ze dne 15. 8. 2024
     file: https://www.ochrance.cz/aktualne/nejvyssi_spravni_soud_dal_za_pravdu_ombudsmanovi_ve_veci_santovka_tower_olomoucky_magistrat_nebyl_nestranny/0146_1as_2400075_20240815103346_2_.pdf
   - title: Tisková zpráva ze dne 4. 7. 2024 – podání druhé kasační stížnosti
