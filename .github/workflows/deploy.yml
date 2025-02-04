@@ -31,6 +31,15 @@ jobs:
       - name: Build
         run: hugo
 
+      - name: Write file hashes for partial updates
+        run: find public -type f -exec sha256sum {} + | sort > current-hashes.txt
+
+      - name: Cache file hashes for partial updates
+        uses: actions/cache/save@v4
+        with:
+          path: current-hashes.txt
+          key: file-hashes-${{ github.run_id }}
+
       - name: Compress build
         run: tar -zcf prod-build-${{ github.run_number }}.tar.gz ./public
 
