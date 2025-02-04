@@ -390,6 +390,10 @@ lawyers:
         role: právnička (sociálně-právní ochrana dětí, správa na úseku zdravotnictví)
         phone: 542 542 772
         email: daniela.suchankova@ochrance.cz
+      - name: Pavel Šitavanc
+        role: právník (sociálně-právní ochrana dětí, správa na úseku zdravotnictví)
+        phone: 542 542 668
+        email: "pavel.sitavanc@ochrance.cz "
   - title: Odbor rovného zacházení
     intro: >
       poskytování metodické pomoci obětem diskriminace, provádění výzkumu v
@@ -491,8 +495,8 @@ lawyers:
         email: matej.stritesky@ochrance.cz
       - name: Anna Makarenko
         role: právnička
-        phone: "anna.makarenko@ochrance.cz "
-        email: 542 542 269
+        phone: 542 542 269
+        email: "anna.makarenko@ochrance.cz "
       - name: Eliška Černá
         role: právnička
         phone: 542 542 306
@@ -506,13 +510,17 @@ lawyers:
         phone: 542 542 337
         email: hana.polakova@ochrance.cz
       - name: Miriam Tomášková
-        role: Miriam Tomášková
+        role: právnička
         phone: 542 542 276
         email: miriam.tomaskova@ochrance.cz
       - name: Jan Wünsch
         role: právník
         phone: 542 542 375
         email: wunsch@ochrance.cz
+      - name: Jana Řepová
+        role: "právnička "
+        phone: 542 542 328
+        email: "jana.repova@ochrance.cz "
   - title: Odbor ochrany práv osob se zdravotním postižením
     people:
       - name: Romana Jakešová
