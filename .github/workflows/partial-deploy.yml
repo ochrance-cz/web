@@ -80,7 +80,6 @@ jobs:
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           script: |
             cd /home/ochrance/tmp
-            rm -rf partial-*
 
             echo ${{ github.run_number }} > GHRN.txt
 
@@ -95,7 +94,7 @@ jobs:
               # rm -rf ./partial-${{ github.run_number }}/
             fi
 
-            rm partial-build-*.tar.gz
+            # rm -rf partial-*
 
       # - name: Update search indices
       #   uses: appleboy/ssh-action@v1.2.0
