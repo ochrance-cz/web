@@ -1,0 +1,113 @@
+name: Partial SCP deploy
+
+concurrency:
+  group: production
+  cancel-in-progress: true
+
+on:
+  workflow_dispatch:
+  # schedule:
+  #   - cron: '0 6-16/2 * * 1-5'
+  # push:
+  #   branches:
+  #     - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    if: "!contains(github.event.head_commit.message, 'Upload')"
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: false
+          fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod
+
+      - name: Restore file hashes for partial updates
+        id: restore-hashes
+        uses: actions/cache/restore@v4
+        with:
+          path: previous-hashes.txt
+          key: file-hashes-${{ github.run_id }}
+          restore-keys: |
+            file-hashes-
+
+      - name: Setup Hugo
+        if: steps.restore-hashes.outputs.cache-hit != 'true'
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.125.1'
+          extended: true
+
+      - name: Build
+        if: steps.restore-hashes.outputs.cache-hit != 'true'
+        run: hugo
+
+      - name: Write current build’s file hashes
+        if: steps.restore-hashes.outputs.cache-hit != 'true'
+        run: find public -type f -exec sha256sum {} + | sort > current-hashes.txt
+
+      - name: Remove files without changes
+        if: steps.restore-hashes.outputs.cache-hit != 'true'
+        run: |
+          changed_files=$(diff -u previous-hashes.txt current-hashes.txt | grep 'public/' | awk '{print $2}' || true)
+
+          find public -type f | while read -r file; do
+            if ! echo "$changed_files" | grep -Fxq "$file"; then
+              rm "$file"
+            fi
+          done
+
+      - name: Compress build
+        if: steps.restore-hashes.outputs.cache-hit != 'true'
+        run: tar -zcf partial-build-${{ github.run_number }}.tar.gz ./public
+
+      - name: Publish
+        if: steps.restore-hashes.outputs.cache-hit != 'true'
+        uses: nogsantos/scp-deploy@master
+        with:
+          src: ./partial-build-${{ github.run_number }}.tar.gz
+          host: ${{ secrets.SSH_HOSTNAME }}
+          remote: /home/ochrance/public_html
+          port: ${{ secrets.SSH_PORT }}
+          user: ${{ secrets.SSH_USERNAME }}
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
+
+      # - name: Unpack tar into place
+      #   uses: appleboy/ssh-action@v1.2.0
+      #   with:
+      #     host: ${{ secrets.SSH_HOSTNAME }}
+      #     username: ${{ secrets.SSH_USERNAME }}
+      #     port: ${{ secrets.SSH_PORT }}
+      #     key: ${{ secrets.SSH_PRIVATE_KEY }}
+      #     script: |
+      #       cd /home/ochrance/public_html
+      #       rm -rf www-new-*
+      #       echo ${{ github.run_number }} > GHRN.txt
+      #       mkdir www-new-${{ github.run_number }}
+      #       tar -xf prod-build-${{ github.run_number }}.tar.gz -C ./www-new-${{ github.run_number }} --strip-components=2
+      #       if [[ $(<GHRN.txt) > ${{ github.run_number }} ]]; then
+      #         echo "Newer Github workflow detected. Aborting directory overwrite."
+      #         rm -rf www-new-${{ github.run_number }}
+      #       else
+      #         mv www-prod www-old
+      #         mv www-new-${{ github.run_number }} www-prod
+      #         rm -rf www-old
+      #       fi
+      #       rm prod-build-*.tar.gz
+
+      # - name: Update search indices
+      #   uses: appleboy/ssh-action@v1.2.0
+      #   with:
+      #     host: ${{ secrets.SSH_HOSTNAME }}
+      #     username: ${{ secrets.SSH_USERNAME }}
+      #     port: ${{ secrets.SSH_PORT }}
+      #     key: ${{ secrets.SSH_PRIVATE_KEY }}
+      #     command: |
+      #       wget -O index-${{ github.run_number }}.json http://www.ochrance.cz/elastic.json
+      #       wget -O index-en-${{ github.run_number }}.json http://www.ochrance.cz/en/elastic.json
+      #       curl -X DELETE 'http://localhost:9200/indices'
+      #       curl -H "Content-Type: application/x-ndjson" -XPOST "localhost:9200/cs/_bulk" --data-binary @index-${{ github.run_number }}.json
+      #       curl -H "Content-Type: application/x-ndjson" -XPOST "localhost:9200/en/_bulk" --data-binary @index-en-${{ github.run_number }}.json
+      #       curl http://localhost:9200/_cat/indices?v
+      #       rm index-${{ github.run_number }}.json
+      #       rm index-en-${{ github.run_number }}.json
