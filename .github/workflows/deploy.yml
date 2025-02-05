@@ -45,7 +45,7 @@ jobs:
         with:
           src: ./prod-build-${{ github.run_number }}.tar.gz
           host: ${{ secrets.SSH_HOSTNAME }}
-          remote: /home/ochrance/public_html
+          remote: /home/ochrance/tmp
           port: ${{ secrets.SSH_PORT }}
           user: ${{ secrets.SSH_USERNAME }}
           key: ${{ secrets.SSH_PRIVATE_KEY }}
@@ -58,19 +58,22 @@ jobs:
           port: ${{ secrets.SSH_PORT }}
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           script: |
-            cd /home/ochrance/public_html
-            rm -rf www-new-*
+            cd /home/ochrance/tmp
             echo ${{ github.run_number }} > GHRN.txt
-            mkdir www-new-${{ github.run_number }}
-            tar -xf prod-build-${{ github.run_number }}.tar.gz -C ./www-new-${{ github.run_number }} --strip-components=2
-            if [[ $(<GHRN.txt) > ${{ github.run_number }} ]]; then
+            mkdir -p deploy-${{ github.run_number }}/www
+
+            cd deploy-${{ github.run_number }}
+            tar -xf ../prod-build-${{ github.run_number }}.tar.gz -C ./www --strip-components=2
+
+            if [[ $(<../GHRN.txt) > ${{ github.run_number }} ]]; then
               echo "Newer Github workflow detected. Aborting directory overwrite."
-              rm -rf www-new-${{ github.run_number }}
             else
-              mv www-prod www-old
-              mv www-new-${{ github.run_number }} www-prod
-              rm -rf www-old
+              mv /home/ochrance/public_html/www-prod/ www-old
+              mv www /home/ochrance/public_html/www-prod/
             fi
+
+            cd ..
+            rm -rf deploy-${{ github.run_number }}
             rm prod-build-*.tar.gz
 
       - name: Update search indices

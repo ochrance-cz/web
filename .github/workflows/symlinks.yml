@@ -8,9 +8,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Recreate symlinks on host
-        uses: garygrossgarten/github-action-ssh@release
+        uses: appleboy/ssh-action@v1.2.0
         with:
-          command: |
+          host: ${{ secrets.SSH_HOSTNAME }}
+          username: ${{ secrets.SSH_USERNAME }}
+          port: ${{ secrets.SSH_PORT }}
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
+          script: |
             cd /home/ochrance/public_html
             rm aktualne
             rm alert
@@ -106,6 +110,3 @@ jobs:
             ln -s www-prod/zpravodaj zpravodaj
             ln -s www-prod/zpravodaj-vse zpravodaj-vse
             ln -s www-prod/.htaccess .htaccess
-          host: ${{ secrets.SSH_HOSTNAME }}
-          username: ${{ secrets.SSH_USERNAME }}
-          privateKey: ${{ secrets.SSH_PRIVATE_KEY }}

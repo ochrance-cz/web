@@ -80,19 +80,21 @@ jobs:
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           script: |
             cd /home/ochrance/tmp
+            echo ${{ github.run_number }} > PARTIAL-GHRN.txt
+            mkdir -p partial-${{ github.run_number }}/www
 
-            echo ${{ github.run_number }} > GHRN.txt
+            cd partial-${{ github.run_number }}
+            tar -xf ../partial-build-${{ github.run_number }}.tar.gz -C ./www --strip-components=2  
 
-            mkdir partial-${{ github.run_number }}
-            tar -xf partial-build-${{ github.run_number }}.tar.gz -C ./partial-${{ github.run_number }} --strip-components=2  
-
-            if [[ $(<GHRN.txt) > ${{ github.run_number }} ]]; then
+            if [[ $(<PARTIAL-GHRN.txt) > ${{ github.run_number }} ]]; then
               echo "Newer Github workflow detected. Aborting directory overwrite."
             else
-              rsync -a ./partial-${{ github.run_number }}/ /home/ochrance/public_html/
+              rsync -a ./www/ /home/ochrance/public_html/www-prod/
             fi
 
-            rm -rf partial-*
+            cd ..
+            rm -rf partial-${{ github.run_number }}
+            rm partial-build-${{ github.run_number }}.tar.gz
 
       - name: Update search indices
         uses: appleboy/ssh-action@v1.2.0
