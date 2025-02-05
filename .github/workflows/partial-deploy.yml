@@ -97,10 +97,9 @@ jobs:
       - name: Update search indices
         uses: appleboy/ssh-action@v1.2.0
         with:
-          host: ${{ secrets.SSH_HOSTNAME }}
-          username: ${{ secrets.SSH_USERNAME }}
-          port: ${{ secrets.SSH_PORT }}
-          key: ${{ secrets.SSH_PRIVATE_KEY }}
+          host: ${{ secrets.ELASTICUSER_HOSTNAME }}
+          username: ${{ secrets.ELASTICUSER_USERNAME }}
+          privateKey: ${{ secrets.ELASTICUSER_PRIVATE_KEY }}
           script: |
             wget -O index-${{ github.run_number }}.json http://www.ochrance.cz/elastic.json
             wget -O index-en-${{ github.run_number }}.json http://www.ochrance.cz/en/elastic.json
