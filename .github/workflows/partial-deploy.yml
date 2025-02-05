@@ -26,28 +26,27 @@ jobs:
         id: restore-hashes
         uses: actions/cache/restore@v4
         with:
-          path: previous-hashes.txt
+          path: current-hashes.txt
           key: file-hashes-${{ github.run_id }}
+          fail-on-cache-miss: true
           restore-keys: |
             file-hashes-
 
       - name: Setup Hugo
-        if: steps.restore-hashes.outputs.cache-hit != 'true'
         uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: '0.125.1'
           extended: true
 
       - name: Build
-        if: steps.restore-hashes.outputs.cache-hit != 'true'
         run: hugo
 
       - name: Write current build’s file hashes
-        if: steps.restore-hashes.outputs.cache-hit != 'true'
-        run: find public -type f -exec sha256sum {} + | sort > current-hashes.txt
+        run: |
+          mv current-hashes.txt previous-hashes.txt
+          find public -type f -exec sha256sum {} + | sort > current-hashes.txt
 
       - name: Remove files without changes
-        if: steps.restore-hashes.outputs.cache-hit != 'true'
         run: |
           changed_files=$(diff -u previous-hashes.txt current-hashes.txt | grep 'public/' | awk '{print $2}' || true)
 
@@ -58,11 +57,9 @@ jobs:
           done
 
       - name: Compress build
-        if: steps.restore-hashes.outputs.cache-hit != 'true'
         run: tar -zcf partial-build-${{ github.run_number }}.tar.gz ./public
 
       - name: Publish
-        if: steps.restore-hashes.outputs.cache-hit != 'true'
         uses: nogsantos/scp-deploy@master
         with:
           src: ./partial-build-${{ github.run_number }}.tar.gz
