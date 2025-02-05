@@ -56,6 +56,8 @@ jobs:
             fi
           done
 
+          find public -type d -empty -delete
+
       - name: Compress build
         run: tar -zcf partial-build-${{ github.run_number }}.tar.gz ./public
 
