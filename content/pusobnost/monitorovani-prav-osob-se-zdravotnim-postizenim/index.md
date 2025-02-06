@@ -8,9 +8,10 @@ cta:
   title: Řešíte problémy související s postižením a domníváte se, že vám ombudsman
     může pomoct?
 ---
-V rámci  monitorování [Úmluvy](https://www.mpsv.cz/documents/20142/225526/Umluva_o_pravech_osob_se_ZP.pdf/1e95a34b-cbdf-0829-3da2-148865b8a4a8) provádíme výzkumy, šetření a vypracováváme doporučení ke zlepšení situace lidí s postižením. Intenzivně přitom spolupracujeme právě s lidmi s postižením, neziskovými organizacemi a především s **poradním orgánem ombudsmana pro oblast práv lidí s postižením**.
 
-S﻿polupracujeme také s organizacemi, které monitorují dodržování Úmluvy v jiných státech. Jsme součástí pracovní skupiny k Úmluvě při Evropské síti národních lidskoprávních organizací (ENNHRI).
+V rámci monitorování [Úmluvy](https://www.mpsv.cz/documents/20142/225526/Umluva_o_pravech_osob_se_ZP.pdf/1e95a34b-cbdf-0829-3da2-148865b8a4a8) provádíme výzkumy, šetření a vypracováváme doporučení ke zlepšení situace lidí s postižením. Intenzivně přitom spolupracujeme právě s lidmi s postižením, neziskovými organizacemi a především s **poradním orgánem ombudsmana pro oblast práv lidí s postižením**.
+
+Spolupracujeme také s organizacemi, které monitorují dodržování Úmluvy v jiných státech. Jsme součástí pracovní skupiny k Úmluvě při Evropské síti národních lidskoprávních organizací (ENNHRI).
 
 Naším cílem je posilovat přístupnost informací pro všechny bez rozdílu. Jako první a jediní v České republice jsme proto přeložili celou [Úmluvu OSN do znakového jazyka](/umluva/) a snažíme se zpřístupňovat informace [ve formě pro snadné čtení](mezinarodni_umluva_ETR.pdf).
 
@@ -21,8 +22,9 @@ Naším cílem je posilovat přístupnost informací pro všechny bez rozdílu. 
 * podílí se na **připomínkování právních předpisů** ombudsmanem a zaujímá stanoviska k jeho strategickým dokumentům týkajícím se práv lidí s postižením,
 * **získává podněty** od lidí s postižením, organizací hájících jejich práva a od pečujících osob,
 * **zajišťuje informovanost** lidí s postižením, organizací hájící jejich práva a široké veřejnosti o činnost ombudsmana v oblasti monitorování podle Úmluvy.
+Poradní orgán má svůj [Jednací řád](/media/jednaci_rad_poradniho_organu.doc) a [Statut](/media/statut_poradniho_organu.docx). [Výstupy ](https://www.ochrance.cz/vystupy/poradni-organ-crpd/)poradního orgánu jsou veřejné.
 
-P﻿oradní orgán má svůj [Jednací řád](/media/jednaci_rad_poradniho_organu.doc) a [Statut](/media/statut_poradniho_organu.docx). [Výstupy ](https://www.ochrance.cz/vystupy/poradni-organ-crpd/)poradního orgánu jsou veřejné.
+{{< /rozbal >}}
 
 {{< rozbal "Členové poradního orgánu" >}}
 
@@ -104,9 +106,7 @@ Narodil se neslyšícím rodičům, sám je také od narození neslyšící. S m
 
 {{< /rozbal >}}
 
-{{< /rozbal >}}
-
-D﻿ůležitým partnerem je pro nás Výbor OSN pro práva osob se zdravotním postižením. Výbor OSN totiž sleduje, jak státy plní své povinnosti podle Úmluvy a doporučuje jim, jak zlepšit situaci lidí s postižením. Výbor OSN informujeme o svých poznatcích týkajících se dodržování práv lidí s postižením v České republice. Také připomínkujeme jeho návrhy obecných komentářů k Úmluvě.
+Důležitým partnerem je pro nás Výbor OSN pro práva osob se zdravotním postižením. Výbor OSN totiž sleduje, jak státy plní své povinnosti podle Úmluvy a doporučuje jim, jak zlepšit situaci lidí s postižením. Výbor OSN informujeme o svých poznatcích týkajících se dodržování práv lidí s postižením v České republice. Také připomínkujeme jeho návrhy obecných komentářů k Úmluvě.
 
 {{< rozbal "Výbor OSN pro práva osob se zdravotním postižením" >}}
 Má **[18 členů](https://www.ohchr.org/EN/HRBodies/CRPD/Pages/Membership.aspx)** , volí je smluvní státy. Úmluva vyžaduje, aby se jednalo o osoby s výraznými morálními kvalitami a současně odborníky v oblastech, na které se vztahuje. Smluvní státy by měly dbát také na spravedlivé zastoupení mužů a žen ze všech částí světa.
@@ -136,15 +136,15 @@ Poté předkládá stát **každé 4 roky doplňující zprávy** . Pokud stá 
 
 ![](osn-cyklus-zkraceny.svg)
 
-Česká republika ratifikovala v roce 2021 **Opční protokol k Úmluvě**. V platnost pro ni vstoupil dne 23. září 2021. Vůči státům, které ratifikovaly Opční protokol k Úmluvě, má Výbor OSN další dvě pravomoci: 
+Česká republika ratifikovala v roce 2021 **Opční protokol k Úmluvě**. V platnost pro ni vstoupil dne 23. září 2021. Vůči státům, které ratifikovaly Opční protokol k Úmluvě, má Výbor OSN další dvě pravomoci:
 
 #### P﻿řijímání a posuzování individuálních oznámení
 
-﻿Výbor OSN může posoudit oznámení jednotlivce či skupiny jednotlivců, že se stal/i obětí porušení Úmluvy. Na základě oznámení vydává stanovisko, které obsahuje doporučení pro stát.
+Výbor OSN může posoudit oznámení jednotlivce či skupiny jednotlivců, že se stal/i obětí porušení Úmluvy. Na základě oznámení vydává stanovisko, které obsahuje doporučení pro stát.
 
 #### Šetření případů závažného nebo systematického porušování Úmluvy
 
-Pokud Výbor OSN obdrží hodnověrné informace, že se smluvní stát dopouští systematického nebo závažného porušování práv lidí s postižením, může zahájit šetření. To zpravidla obnáší i návštěvu státu a rozhovory se všemi důležitými aktéry. Poté vydává Výbor OSN zprávu, ve které shrne svá zjištění, hodnocení a případná doporučení. 
+Pokud Výbor OSN obdrží hodnověrné informace, že se smluvní stát dopouští systematického nebo závažného porušování práv lidí s postižením, může zahájit šetření. To zpravidla obnáší i návštěvu státu a rozhovory se všemi důležitými aktéry. Poté vydává Výbor OSN zprávu, ve které shrne svá zjištění, hodnocení a případná doporučení.
 
 #### Obecné komentáře k Úmluvě
 
