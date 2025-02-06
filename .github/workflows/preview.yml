@@ -4,6 +4,10 @@ concurrency:
   group: preview
   cancel-in-progress: true
 
+env:
+  NAME: preview-${{ github.run_number }}
+  DEST: /home/ochrance/public_html/_preview
+
 on:
   workflow_dispatch:
   push:
@@ -28,24 +32,22 @@ jobs:
 
       - name: Remove docs
         run: |
-          find . -name "*.pdf" -type f -delete
-          find . -name "*.docx" -type f -delete
-          find . -name "*.doc" -type f -delete
-          find . -name "*.rtf" -type f -delete
-          find . -name "*.zip" -type f -delete
+          find . -iregex '.*\.\(doc\|jpg\|mp4\|odp\|odt\|pdf\|png\|pps\|ppt\|rtf\|xls\|zip\)x?' -type f -delete
 
       - name: Build
         run: hugo --config preview.toml
 
       - name: Compress build
-        run: tar -zcf _preview-${{ github.run_number }}.tar.gz ./public
+        run: |
+          tar -zcf ${{ env.NAME }}.tar.gz ./public
+          ls -l ${{ env.NAME }}.tar.gz
 
       - name: Publish
         uses: nogsantos/scp-deploy@master
         with:
-          src: ./_preview-${{ github.run_number }}.tar.gz
+          src: ./${{ env.NAME }}.tar.gz
+          remote: /home/ochrance/tmp
           host: ${{ secrets.SSH_HOSTNAME }}
-          remote: /home/ochrance/public_html
           port: ${{ secrets.SSH_PORT }}
           user: ${{ secrets.SSH_USERNAME }}
           key: ${{ secrets.SSH_PRIVATE_KEY }}
@@ -58,16 +60,20 @@ jobs:
           port: ${{ secrets.SSH_PORT }}
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           script: |
-            cd /home/ochrance/public_html
-            echo ${{ github.run_number }} > PREVIEW-GHRN.txt
-            mkdir _preview-${{ github.run_number }}
-            tar -xf _preview-${{ github.run_number }}.tar.gz -C ./_preview-${{ github.run_number }} --strip-components=2
-            if [[ $(<PREVIEW-GHRN.txt) > ${{ github.run_number }} ]]; then
+            cd /home/ochrance/tmp
+            echo ${{ github.run_number }} > PREVIEW-RUN-NUMBER.txt
+            mkdir -p ${{ env.NAME }}/src
+
+            cd ${{ env.NAME }}
+            tar -xf ../${{ env.NAME }}.tar.gz -C ./src --strip-components=2
+
+            if [[ $(<PREVIEW-RUN-NUMBER.txt) > ${{ github.run_number }} ]]; then
               echo "Newer Github workflow detected. Aborting directory overwrite."
-              rm -rf _preview-${{ github.run_number }}
             else
-              mv _preview _preview-old
-              mv _preview-${{ github.run_number }} _preview
-              rm -rf _preview-old
+              mv ${{ env.DEST }} old
+              mv src ${{ env.DEST }}
             fi
-            rm _preview-${{ github.run_number }}.tar.gz
+
+            cd ..
+            rm ${{ env.NAME }}.tar.gz
+            rm -rf ${{ env.NAME }}
