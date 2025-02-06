@@ -4,6 +4,10 @@ concurrency:
   group: production
   cancel-in-progress: true
 
+env:
+  NAME: partial-${{ github.run_number }}
+  DEST: /home/ochrance/public_html/www-prod
+
 on:
   workflow_dispatch:
   schedule:
@@ -59,14 +63,16 @@ jobs:
           find public -type d -empty -delete
 
       - name: Compress build
-        run: tar -zcf partial-build-${{ github.run_number }}.tar.gz ./public
+        run: |
+          tar -zcf ${{ env.NAME }}.tar.gz ./public
+          ls -l ${{ env.NAME }}.tar.gz
 
       - name: Publish
         uses: nogsantos/scp-deploy@master
         with:
-          src: ./partial-build-${{ github.run_number }}.tar.gz
-          host: ${{ secrets.SSH_HOSTNAME }}
+          src: ./${{ env.NAME }}.tar.gz
           remote: /home/ochrance/tmp
+          host: ${{ secrets.SSH_HOSTNAME }}
           port: ${{ secrets.SSH_PORT }}
           user: ${{ secrets.SSH_USERNAME }}
           key: ${{ secrets.SSH_PRIVATE_KEY }}
@@ -80,21 +86,21 @@ jobs:
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           script: |
             cd /home/ochrance/tmp
-            echo ${{ github.run_number }} > PARTIAL-GHRN.txt
-            mkdir -p partial-${{ github.run_number }}/www
+            echo ${{ github.run_number }} > PARTIAL-RUN-NUMBER.txt
+            mkdir -p ${{ env.NAME }}/build
 
-            cd partial-${{ github.run_number }}
-            tar -xf ../partial-build-${{ github.run_number }}.tar.gz -C ./www --strip-components=2  
+            cd ${{ env.NAME }}
+            tar -xf ../${{ env.NAME }}.tar.gz -C ./build --strip-components=2  
 
-            if [[ $(<PARTIAL-GHRN.txt) > ${{ github.run_number }} ]]; then
+            if [[ $(<PARTIAL-RUN-NUMBER.txt) > ${{ github.run_number }} ]]; then
               echo "Newer Github workflow detected. Aborting directory overwrite."
             else
-              rsync -a ./www/ /home/ochrance/public_html/www-prod/
+              rsync -a ./build/ ${{ env.DEST }}/
             fi
 
             cd ..
-            rm -rf partial-${{ github.run_number }}
-            rm partial-build-${{ github.run_number }}.tar.gz
+            rm -rf ${{ env.NAME }}
+            rm ${{ env.NAME }}.tar.gz
 
       - name: Update search indices
         uses: appleboy/ssh-action@v1.2.0
