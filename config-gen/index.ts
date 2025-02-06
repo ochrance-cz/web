@@ -148,7 +148,7 @@ const stranky = files('Jiné', 'stranky', [
       string('Pozice', 'role'),
       string('Jméno', 'name'),
       string('Telefon', 'phone'),
-      string('E-mail', 'email '),
+      string('E-mail', 'email'),
     ]),
     object('International Relations Officer', 'intl', [
       string('Pozice', 'role'),

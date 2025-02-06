@@ -350,7 +350,7 @@ collections:
                 required: false
                 widget: string
               - label: E-mail
-                name: 'email '
+                name: email
                 required: false
                 widget: string
           - widget: object
