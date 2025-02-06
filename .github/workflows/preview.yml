@@ -32,7 +32,7 @@ jobs:
 
       - name: Remove docs
         run: |
-          find . -iregex '.*\.\(doc\|jpg\|mp4\|odp\|odt\|pdf\|png\|pps\|ppt\|rtf\|xls\|zip\)x?' -type f -delete
+          find . -iregex '.*\.\(doc\|mp4\|odp\|odt\|pdf\|pps\|ppt\|rtf\|xls\|zip\)x?' -type f -delete
 
       - name: Build
         run: hugo --config preview.toml
