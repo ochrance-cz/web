@@ -1,7 +1,7 @@
 {{ define "title"}}Informace podle zákona 106/1999 Sb. za rok {{ .Title }}{{ end }}
 
 {{ define "main" }}
-<main>
+<main data-pagefind-body>
   <div class="_backdrop header {{ with .Params.headerColor }}{{ . }}{{ end }}">
   <header class="_text-header">
     <h1>{{ if lt 2000 .Title }}Informace podle zákona 106/1999 Sb. za rok{{ end }} {{ .Title }}</h1>

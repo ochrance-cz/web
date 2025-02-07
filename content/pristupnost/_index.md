@@ -1,6 +1,11 @@
 ---
 title: Přístupnost
 hidePages: true
+perex: |
+  Přístupnost znamená snadnou dostupnost pro všechny lidi. Myslí se tím nejen bezbariérovost staveb, ale i srozumitelnost informací nebo možnost využít nabízené služby a zboží.
+
+  Dělat věci přístupnějšími znamená, že si uvědomíme různorodé potřeby všech lidí a odstraníme překážky, které jim brání tyto věci využívat.
+includeInSearchIndex: true
 chapters:
   - chapter: 1-pristupnost-prostredi
   - chapter: 2-pristupnost-informaci
@@ -8,12 +13,8 @@ chapters:
   - chapter: 4-pristupnost-zamestnavani
   - chapter: 5-pristupnost-v-cislech
   - chapter: 6-prakticke-rady
-  - chapter: 7-uzitecne-kontakty 
+  - chapter: 7-uzitecne-kontakty
 ---
-
-Přístupnost znamená snadnou dostupnost pro všechny lidi. Myslí se tím nejen bezbariérovost staveb, ale i srozumitelnost informací nebo možnost využít nabízené služby a zboží.
-
-Dělat věci přístupnějšími znamená, že si uvědomíme různorodé potřeby všech lidí a odstraníme překážky, které jim brání tyto věci využívat.
 
 Přístupnost nemíří jen na člověka s postižením, ale také na člověka s berlí, kočárkem, kufrem, různým vzděláním, jednoduše na každého. Nezáleží na diagnóze, ale na potřebách.
 
@@ -26,7 +27,7 @@ Přístupnost nemíří jen na člověka s postižením, ale také na člověka 
 
 Díky tomu se ale zlepšuje přístupnost nejen pro lidi s postižením, ale pro všechny.
 
-<div class="_pristupnost-nav-list">
+<div class="_pristupnost-nav-list" data-pagefind-ignore>
 
 Následují podrobnější informace rozdělené do těchto oblastí:
 
