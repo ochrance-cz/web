@@ -53,21 +53,19 @@ jobs:
           ls -l previous-hashes.txt
           ls -l current-hashes.txt
 
-      - name: Remove files without changes
+      - name: Move changed files to a new folder
         run: |
-          changed_files=$(diff -u previous-hashes.txt current-hashes.txt | grep 'public/' | awk '{print $2}' || true)
-
-          find public -type f | while read -r file; do
-            if ! echo "$changed_files" | grep -Fxq "$file"; then
-              rm "$file"
-            fi
+          comm -3 previous-hashes.txt current-hashes.txt | awk '{print $2}' | sort -u | while read -r file; do
+              if [ -f "$file" ]; then
+                  mkdir -p "changed/$(dirname "$file")"
+                  mv "$file" "changed/$file"
+                  echo "Found change in $file -> changed/$file"
+              fi
           done
-
-          find public -type d -empty -delete
 
       - name: Compress build
         run: |
-          tar -zcf ${{ env.NAME }}.tar.gz ./public
+          tar -zcf ${{ env.NAME }}.tar.gz ./changed/public
           ls -l ${{ env.NAME }}.tar.gz
 
       - name: Publish
