@@ -50,6 +50,9 @@ jobs:
           mv current-hashes.txt previous-hashes.txt
           find public -type f -exec sha256sum {} + | sort > current-hashes.txt
 
+          ls -l previous-hashes.txt
+          ls -l current-hashes.txt
+
       - name: Remove files without changes
         run: |
           changed_files=$(diff -u previous-hashes.txt current-hashes.txt | grep 'public/' | awk '{print $2}' || true)
