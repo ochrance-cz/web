@@ -1,0 +1,28 @@
+{{ define "main" }}
+<main class="_pagefind">
+  <section>
+    <h1>{{ block "title" . }}{{ .Title }}{{ end }}</h1>
+
+    <div id="search"></div>
+
+    <script src="/pagefind/pagefind-ui.js"></script>
+    
+    <script>
+      window.addEventListener('DOMContentLoaded', event => {
+        new PagefindUI({ 
+          element: '#search',
+          excerptLength: 30,
+          showSubResults: true, 
+          showImages: false,
+          translations: {
+            placeholder: "Hledat…",
+          } 
+        });
+      });
+    </script>
+  </section>
+</main>
+{{ end }}
+
+
+

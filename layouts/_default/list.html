@@ -1,5 +1,5 @@
 {{ define "main" }}
-<main>
+<main {{ with .Params.includeInSearchIndex }}data-pagefind-body{{ end }} data-pagefind-weight="10">
   {{ partial "text-header.html" . }}
 
   <section>
