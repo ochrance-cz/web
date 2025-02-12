@@ -16,14 +16,5 @@ perex: >
 ---
 
 
-{{< youtube "KI-YQq2fMgA&amp;t=506s" >}}
+{{< youtube "KI-YQq2fMgA&amp;t=1268s" >}}
 
-
-
-<p>Příští díl bude na téma návštěv ústavů, kde jsou děti s ochrannou výchovou a drogovou závislostí.</p>
-
-<p>Všechny dosud zveřejněné díly najdete na Youtube nebo na Spotify.</p>
-
-<p>Dále jsou podcasty dostupné na všech běžně používaných podcastových aplikacích.</p>
-
-<p>Máte-li návrh na témata, kterým bychom se mohli v našich podcastech věnovat, napište nám ho na e-mail&nbsp;<a href="mailto:podcasty@ochrance.cz">podcasty@ochrance.cz</a>.</p>
