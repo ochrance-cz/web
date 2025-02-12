@@ -53,7 +53,7 @@ access:
     V﻿íce informací na webu [Kopeme za Brno](https://kopemezabrno.cz/2024/08/16/celkova-rekonstrukce-udolni-zacne-v-zari-na-co-se-pripravit/).
   pic: /images/kontakt.jpg
 pressAgent:
-  role: Kontakt pro média
+  role: "Kontakt pro média "
   name: ""
   phone: ""
   email: medialni@ochrance.cz
