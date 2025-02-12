@@ -93,7 +93,7 @@ jobs:
             mkdir -p ${{ env.NAME }}/build
 
             cd ${{ env.NAME }}
-            tar -xf ../${{ env.NAME }}.tar.gz -C ./build --strip-components=2  
+            tar -xf ../${{ env.NAME }}.tar.gz -C ./build --strip-components=3
 
             if [[ $(<PARTIAL-RUN-NUMBER.txt) > ${{ github.run_number }} ]]; then
               echo "Newer Github workflow detected. Aborting directory overwrite."
