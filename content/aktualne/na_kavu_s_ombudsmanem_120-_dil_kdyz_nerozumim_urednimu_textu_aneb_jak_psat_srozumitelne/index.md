@@ -16,5 +16,5 @@ perex: >
 ---
 
 
-{{< youtube "KI-YQq2fMgA&amp;t=1268s" >}}
+{{< youtube "KI-YQq2fMgA" >}}
 
