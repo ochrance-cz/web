@@ -12,7 +12,9 @@ perex: <p>Srozumitelnost je klíčová pro pochopení úředního textu. V&nbsp;
   s&nbsp;ombudsmanem</i></a>.</p><p>Podívejte se na naši <a
   href="https://www.ochrance.cz/srozumitelne/">příručku srozumitelnosti</a>.</p>
 ---
-
-
 {{< youtube "KI-YQq2fMgA" >}}
 
+
+<p>Příští díl bude na téma návštěv ústavů, kde jsou děti s ochrannou výchovou a drogovou závislostí.</p>
+<p>Všechny dosud zveřejněné díly najdete na Youtube nebo na Spotify. Dále jsou podcasty dostupné na všech běžně používaných podcastových aplikacích.</p>
+<p>Máte-li návrh na témata, kterým bychom se mohli v našich podcastech věnovat, napište nám ho na e-mail podcasty@ochrance.cz.</p>
