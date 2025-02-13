@@ -14,7 +14,7 @@ perex: <p>Tíživá sociální situace, nejisté bydlení a podezření, že je
   Stanislav Křeček.&nbsp;</p>
 attachments:
   - title: Antidiskriminační zákon
-    file: https://www.e-sbirka.cz/sb/2009/198/2018-01-01?f=diskriminace&zalozka=text
+    file: https://www.e-sbirka.cz/sb/2009/198/2018-01-01?zalozka=text
   - title: "Informační leták ombudsmana k diskriminaci "
     file: https://www.ochrance.cz/letaky/rovne-zachazeni/rovne-zachazeni.pdf
   - title: "Informační leták ombudsmana k principům dobré správy "
