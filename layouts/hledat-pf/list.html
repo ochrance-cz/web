@@ -15,9 +15,22 @@
           showSubResults: true, 
           showImages: false,
           translations: {
-            placeholder: "Hledat…",
+            placeholder: document.querySelector('html').getAttribute('lang') == 'en' ? "Search…" : "Hledat…",
           } 
         });
+
+        let promoted = document.createElement('DIV')
+        promoted.setAttribute('id', 'search-promoted')
+        document.querySelector('.pagefind-ui__drawer').append(promoted)
+        document.querySelector('.pagefind-ui__search-input').addEventListener("input", event => {
+          console.log(event.target.value.match(/přístupn/))
+          if (event.target.value.match(/přístupn/)) {
+            let link = '/pristupnost/';
+            let title = 'Příručka přístupnosti';
+            let description = 'Přístupnost znamená snadnou dostupnost pro všechny lidi. Myslí se tím nejen bezbariérovost staveb, ale i srozumitelnost informací nebo možnost využít nabízené služby a zboží.';
+            promoted.innerHTML = `<div class="_promoted-result"><p class="title"><span class="_tag">Doporučujeme</span><br><a href="${link}">${title}</a></p><p>${description}</p></div>`;
+          }
+        })
       });
     </script>
   </section>
