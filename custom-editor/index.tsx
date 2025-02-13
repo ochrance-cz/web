@@ -47,6 +47,7 @@ const md = mdit({ html: true });
 
 function cleanupTags(src: string) {
   return src
+    .replace(/(<[a-z])/g, '\n$1')
     .split('{{&lt;')
     .map((piece, index) => {
       if (!index) return piece;
@@ -65,9 +66,10 @@ function cleanupTags(src: string) {
     })
     .join('')
     .replace(/.*{{&lt;/g, '\n\n{{<')
-    .replace(/&gt;}}(\s|<\/p>)*/g, '>}}\n\n')
+    .replace(/&gt;}}.*/g, '>}}\n\n')
     .replace(/href="content\//g, 'href="')
-    .replace(/href="content-en\//g, 'href="');
+    .replace(/href="content-en\//g, 'href="')
+    .trim();
 }
 
 interface IState {
