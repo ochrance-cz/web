@@ -54,8 +54,8 @@ access:
   pic: /images/kontakt.jpg
 pressAgent:
   role: "Kontakt pro média "
-  name: ""
-  phone: ""
+  name: Michaela Vaisová
+  phone: "607275704"
   email: medialni@ochrance.cz
 type: contact
 headerPic: /images/podatelna.jpg
