@@ -29,8 +29,8 @@ linksAfter: []
 <li>Práci z&nbsp;domova 2 dny v&nbsp;týdnu a 10 dalších dní ročně</li>
 <li>Čerpání náhradního volna až 11 týdnů nazpět</li>
 <li>Osobní volno 5 dní ročně (7 dní pro lidi s postižením a pro 50+)</li>
-<li>Další dny volna navíc (studijní volno, volno pro otce, volno související s uzavřením registrovaného partnerství)</li>
-<li>Denní příspěvek na stravování 89 Kč, jídelnu a kantýnu v&nbsp;budově</li>
+<li>Další dny volna navíc (studijní volno, volno pro otce, volno související s uzavřením partnerství)</li>
+<li>Denní příspěvek na stravování 96 Kč, jídelnu a kantýnu v&nbsp;budově</li>
 <li>Dětskou skupinu v budově</li>
 <li>Tělocvičnu v budově</li>
 <li>Parkování u budovy</li></ul>
