@@ -143,7 +143,7 @@ lawyers:
         phone: 542 542 351
         email: marek.hanak@ochrance.cz
       - name: Anežka Hromířová
-        role: právnička (územní a stavební řízení)
+        role: právnička (ochrana zvířat proti týrání)
         phone: 542 542 458
         email: hromirova@ochrance.cz
       - name: Hana Kašpárková
