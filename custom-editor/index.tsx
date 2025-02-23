@@ -162,7 +162,7 @@ class CustomEditorWidgetControl extends React.Component<ExProps, IState> {
           if (/(jpeg|jpg|png|gif|webp|svg)$/i.test(src)) {
             const imageUtils = e.plugins.get('ImageUtils');
             imageUtils.insertImage({ src, alt }, null, 'imageBlock', { setImageSizes: false });
-          } else {
+          } else if (src) {
             const viewFragment = e.data.processor.toView(`<a href="${src}">${alt}</a>`);
             const modelFragment = e.data.toModel(viewFragment);
 
@@ -277,6 +277,12 @@ class CustomEditorWidgetControl extends React.Component<ExProps, IState> {
             allow: [
               {
                 name: /^blockquote|h2|h3|h4|ul|ol|li|p|del|s|hr|strong|em|b|i|table|thead|tbody|tr|td$/,
+              },
+              {
+                name: 'figure',
+                attributes: {
+                  class: true,
+                },
               },
               {
                 name: 'th',
