@@ -4,6 +4,7 @@ title: "Schválení dětského ombudsmana už čeká jen cílová páska v podob
 date: 2025-02-26T18:13:00
 vystupy:
   - aktualita
+  - tz
 perex: >-
   <p>Senát dnes odhlasoval novelu zákona o veřejném ochránci práv. Díky ní by
   Česká republika měla již brzy
