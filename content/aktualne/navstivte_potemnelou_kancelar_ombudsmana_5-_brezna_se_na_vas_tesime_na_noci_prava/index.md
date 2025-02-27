@@ -8,6 +8,9 @@ perex: <p>Pro návštěvníky Noci práva chystá ombudsman prohlídky budovy, d
   ombudsmanem, jeho zástupcem a šéfkou jejich právníků i promítání video
   sestřihu střípků, které připomenou uplynulé čtvrtstoletí ombudsmana
   v&nbsp;Česku.</p>
+attachments:
+  - file: https://www.ochrance.cz/aktualne/navstivte_potemnelou_kancelar_ombudsmana_5-_brezna_se_na_vas_tesime_na_noci_prava/pozvanka_na_noc_prava.pdf
+    title: Program
 ---
 <h3>Kdy a kde?&nbsp;</h3>
 <p>5. března 2025 v Kanceláři veřejného ochránce práv na Údolní 39 v Brně.</p>
