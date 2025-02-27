@@ -4,6 +4,13 @@ title: Zástupce ombudsmana informoval výbor OSN o zkušenostech s výkonem
 date: 2025-02-27T10:39:00
 vystupy:
   - aktualita
+perex: <p>Zástupce ombudsmana ve svém vyjádření pro Výbor OSN pro práva osob se
+  zdravotním postižením popsal, s jakými problémy s&nbsp;výkonem volebního práva
+  klientů se setkal při svých návštěvách ústavních zařízení, stejně jako změny
+  v&nbsp;právní úpravě účinné od roku 2026. K vyjádření připojil také zprávy
+  Sjednocené organizace nevidomých a slabozrakých ČR (SONS) a skupiny
+  sebeobhájců z&nbsp;Hradce Králové, kteří popsali své potíže při výkonu
+  volebního práva.</p>
 attachments:
   - title: Vyjádření zástupce ombudsmana pro Výbor OSN pro práva lidí s postižením
     file: https://www.ochrance.cz/aktualne/zastupce_ombudsmana_informoval_vybor_osn_o_zkusenostech_s_vykonem_volebniho_prava_lidi_s_postizenim/volby_v_ustavnich_zarizenich_osn.pdf
@@ -28,7 +35,6 @@ attachments:
   - title: "Doporučení: Podpora voliče v pobytové sociální službě (2021)"
     file: https://www.ochrance.cz/uploads-import/ESO/32_2020_OZP__OK_doporu%C4%8Den%C3%AD%20-%20volby%20final_001.pdf
 ---
-<p>Zástupce ombudsmana ve svém vyjádření pro Výbor OSN pro práva osob se zdravotním postižením popsal, s jakými problémy s&nbsp;výkonem volebního práva klientů se setkal při svých návštěvách ústavních zařízení, stejně jako změny v&nbsp;právní úpravě účinné od roku 2026. K vyjádření připojil také zprávy Sjednocené organizace nevidomých a slabozrakých ČR (SONS) a skupiny sebeobhájců z&nbsp;Hradce Králové, kteří popsali své potíže při výkonu volebního práva.</p>
 <p>Účelem vyjádření není zhodnotit poměry v&nbsp;České republice, ale odpovědět na výzvu výboru. Ta je určena jednotlivcům, organizacím a orgánům smluvních států, aby přispěli svými zkušenostmi o tom, jak je volební právo realizováno u nich, případně jaké bariéry brání lidem s&nbsp;postižením plně se účastnit voleb a dalších procesů. Výbor tak chce získat podklady pro tvorbu obecného komentáře k&nbsp;článku 29 Úmluvy o právech osob se zdravotním postižením, jenž zaručuje lidem s&nbsp;postižením právo účastnit se politického a společenského života (viz rámeček 2).&nbsp;</p>
 <p>Ombudsman navštívil mezi lety 2018 a 2021 dvanáct domovů pro osoby se zdravotním postižením. Při svých návštěvách se zaměřil mimo jiné na to, jak klienti uplatňují své volební právo, případně jaké podpory se jim dostává. Zjistil několik závažných pochybení, které popsal ve dvou doporučeních pro podporu voličů v&nbsp;sociální pobytové službě.</p>
 <blockquote>
