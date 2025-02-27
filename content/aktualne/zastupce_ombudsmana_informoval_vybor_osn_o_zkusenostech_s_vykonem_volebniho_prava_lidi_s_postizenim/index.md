@@ -14,8 +14,8 @@ vystupy:
 <strong>Co zjistil ombudsman při návštěvách ústavních zařízení zacílených na výkon volebního práva?</strong></p>
 <ol>
 <li>Podíly klientů s&nbsp;omezenou svéprávností v&nbsp;oblasti volebního práva v&nbsp;jednotlivých zařízeních výrazně lišily. Rozdíly ukazují, že rozhodnutí o omezení výkonu volebního práva nezávisí vždy na objektivním posouzení schopností a situace jednotlivce, ale spíše na zvyklostech a praxi konkrétního soudu či zařízení.</li>
-<li>Pracovníci některých zařízení neměli k&nbsp;dispozici rozsudky o omezení svéprávnosti klientů nebo nerozuměli jejich dopadu na volební právo klientů. Minimálně v&nbsp;jednom případě tak zaměstnanci zařízení neumožnili volit klientovi, který nebyl v&nbsp;této oblasti omezen a přál si jít k&nbsp;volbám. </li>
-<li>Klienti měli omezený přístup ke sdělovacím prostředkům a informacím o volbách. Informace o konání voleb byly zaměstnanci zařízení poskytovány někdy pouze vybraným klientům a informace o druhu voleb a jednotlivých kandidátech často zcela chyběly. </li>
+<li>Pracovníci některých zařízení neměli k&nbsp;dispozici rozsudky o omezení svéprávnosti klientů nebo nerozuměli jejich dopadu na volební právo klientů. Minimálně v&nbsp;jednom případě tak zaměstnanci zařízení neumožnili volit klientovi, který nebyl v&nbsp;této oblasti omezen a přál si jít k&nbsp;volbám.</li>
+<li>Klienti měli omezený přístup ke sdělovacím prostředkům a informacím o volbách. Informace o konání voleb byly zaměstnanci zařízení poskytovány někdy pouze vybraným klientům a informace o druhu voleb a jednotlivých kandidátech často zcela chyběly.</li>
 <li>Klienti s&nbsp;trvalým pobytem mimo zařízení zpravidla nedostávali informace o možnostech hlasování ve svém původním bydlišti nebo o možnosti využít volební průkaz. To vedlo k&nbsp;tomu, že svého práva nevyužili.</li>
 <li>Pouze 5 % klientů z&nbsp;navštívených zařízení hlasovalo v&nbsp;běžné volební místnosti v&nbsp;obci, ostatní volili přímo v&nbsp;zařízení do přenosné volební schránky. Tam však vždy nebyla zaručena tajnost a důstojnost voleb.</li>
 <li>V&nbsp;jednom zařízení zaměstnanci kontrolovali volební lístky upravené klienty před vhozením do volební schránky s&nbsp;odůvodněním, že si chtěli ověřit jejich správné vyplnění a platnost hlasů.</li>
@@ -34,13 +34,13 @@ vystupy:
 <p>Státy, které jsou smluvní stranou této úmluvy, zaručí osobám se zdravotním postižením politická práva a příležitost užívat tato práva na rovnoprávném základě s ostatními, a zavazují se:&nbsp;</p>
 <p>&nbsp; &nbsp; &nbsp; a) zajistit, aby se osoby se zdravotním postižením mohly účinně a plně, na rovnoprávném základě s ostatními, podílet na politickém a veřejném životě, přímo nebo prostřednictvím svobodně volených zástupců, včetně práva a možnosti volit a být volen, mimo jiné tím, že:&nbsp;</p>
 <ol>
-<li>zaručí, aby byly volební postupy, zařízení a materiály vhodné, přístupné a snadno srozumitelné a použitelné; </li>
+<li>zaručí, aby byly volební postupy, zařízení a materiály vhodné, přístupné a snadno srozumitelné a použitelné;</li>
 <li>chrání právo osob se zdravotním postižením hlasovat v tajném hlasování ve volbách a veřejných referendech bez zastrašování, kandidovat ve volbách, účinně zastávat úřad a vykonávat všechny veřejné funkce na všech úrovních řízení státu a umožňují používání podpůrných a nových technologií, pokud je to vhodné;&nbsp;</li>
 <li>
 <p>zaručují svobodné vyjadřování vůle osob se zdravotním postižením jako voličů a za tímto účelem jim v případě potřeby umožňují, na jejich vlastní žádost, asistenci při hlasování prostřednictvím osoby dle jejich vlastní volby;&nbsp;</p>
 <p>b) aktivně podporovat prostředí, v němž se mohou osoby se zdravotním postižením účinně a plně, bez diskriminace a na rovnoprávném základě s ostatními, podílet na řízení veřejných záležitostí, a napomáhat jejich účasti ve veřejném životě, včetně:&nbsp;</p></li>
-<li>účasti v nevládních organizacích a sdruženích zapojených do veřejného a politického života země a účasti na činnosti a řízení politických stran; </li>
-<li>&nbsp;zakládání organizací osob se zdravotním postižením, aby je zastupovaly na mezinárodní, vnitrostátní, regionální a místní úrovni, a sdružování se v nich.</li></ol></blockquote>
+<li>účasti v nevládních organizacích a sdruženích zapojených do veřejného a politického života země a účasti na činnosti a řízení politických stran;</li>
+<li> zakládání organizací osob se zdravotním postižením, aby je zastupovaly na mezinárodní, vnitrostátní, regionální a místní úrovni, a sdružování se v nich.</li></ol></blockquote>
 <p>Vyjádření zástupce Ombudsmana pro Výbor OSN pro práva lidí s postižením</p>
 <p>Přístupnější volby pro lidi s&nbsp;těžkým zrakovým postižením&nbsp;</p>
 <p>Vyjádření k&nbsp;přístupnosti voleb pro osoby s&nbsp;intelektovým znevýhodněním&nbsp;</p>
@@ -50,6 +50,6 @@ vystupy:
 <a href="https://www.ochrance.cz/uploads-import/ESO/32_2020_OZP__OK_doporu%C4%8Den%C3%AD%20-%20volby%20final_001.pdf">Podpora voliče v&nbsp;pobytové sociální službě</a></p>
 <p>
 <a href="https://www.ochrance.cz/aktualne/jaka_jsou_uskali_pristupnosti_voleb_s_naplnenim_volebniho_prava_mohou_mit_problem_nejen_lide_s_postizenim_ale_napriklad_i_ti_omezeni_na_svobode/principy_pristupnosti_volebnich_mistnosti.pdf">Principy přístupnosti volebních místností</a></p>
-<p>Souhrnná informace o volební místnosti&nbsp;</p>
+<p>Souhrnná informace o volební místnosti (dotazník)</p>
 <p>
 <a href="https://www.ochrance.cz/aktualne/lide-se-zdravotnim-postizenim-a-volby/">Související tisková zpráva „Lidé s&nbsp;postižením a volby“</a></p>
