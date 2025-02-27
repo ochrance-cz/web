@@ -22,11 +22,15 @@ attachments:
     file: https://www.ochrance.cz/aktualne/zastupce_ombudsmana_informoval_vybor_osn_o_zkusenostech_s_vykonem_volebniho_prava_lidi_s_postizenim/dotaznik_-_souhrnna_informace_o_volebni_mistnosti_1_.docx
   - file: https://www.ochrance.cz/aktualne/lide-se-zdravotnim-postizenim-a-volby/
     title: Lidé se zdravotním postižením a volby
+  - title: Doporučení Výkon volebního práva v domovech pro osoby se zdravotním
+      postižením (2020
+    file: https://www.ochrance.cz/aktualne/zastupce_ombudsmana_informoval_vybor_osn_o_zkusenostech_s_vykonem_volebniho_prava_lidi_s_postizenim/volby_v_ustavnich_zarizenich_osn.pdf
+  - title: Doporučení Podpora voliče v pobytové sociální službě (2021)
+    file: https://www.ochrance.cz/uploads-import/ESO/32_2020_OZP__OK_doporu%C4%8Den%C3%AD%20-%20volby%20final_001.pdf
 ---
 <p>Zástupce ombudsmana ve svém vyjádření pro Výbor OSN pro práva osob se zdravotním postižením popsal, s jakými problémy s&nbsp;výkonem volebního práva klientů se setkal při svých návštěvách ústavních zařízení, stejně jako změny v&nbsp;právní úpravě účinné od roku 2026. K vyjádření připojil také zprávy Sjednocené organizace nevidomých a slabozrakých ČR (SONS) a skupiny sebeobhájců z&nbsp;Hradce Králové, kteří popsali své potíže při výkonu volebního práva.</p>
 <p>Účelem vyjádření není zhodnotit poměry v&nbsp;České republice, ale odpovědět na výzvu výboru. Ta je určena jednotlivcům, organizacím a orgánům smluvních států, aby přispěli svými zkušenostmi o tom, jak je volební právo realizováno u nich, případně jaké bariéry brání lidem s&nbsp;postižením plně se účastnit voleb a dalších procesů. Výbor tak chce získat podklady pro tvorbu obecného komentáře k&nbsp;článku 29 Úmluvy o právech osob se zdravotním postižením, jenž zaručuje lidem s&nbsp;postižením právo účastnit se politického a společenského života (viz rámeček 2).&nbsp;</p>
-<p>Ombudsman navštívil mezi lety 2018 a 2021 dvanáct domovů pro osoby se zdravotním postižením. Při svých návštěvách se zaměřil mimo jiné na to, jak klienti uplatňují své volební právo, případně jaké podpory se jim dostává. Zjistil několik závažných pochybení, které popsal ve dvou 
-<a href="https://www.ochrance.cz/uploads-import/ESO/32_2020_OZP__OK_doporu%C4%8Den%C3%AD%20-%20volby%20final_001.pdf">doporučeních pro podporu voličů v&nbsp;sociální pobytové službě.</a></p>
+<p>Ombudsman navštívil mezi lety 2018 a 2021 dvanáct domovů pro osoby se zdravotním postižením. Při svých návštěvách se zaměřil mimo jiné na to, jak klienti uplatňují své volební právo, případně jaké podpory se jim dostává. Zjistil několik závažných pochybení, které popsal ve dvou doporučeních pro podporu voličů v&nbsp;sociální pobytové službě.</p>
 <blockquote>
 <p>
 <strong>Co zjistil ombudsman při návštěvách ústavních zařízení zacílených na výkon volebního práva?</strong></p>
@@ -58,5 +62,5 @@ attachments:
 <p>zaručují svobodné vyjadřování vůle osob se zdravotním postižením jako voličů a za tímto účelem jim v případě potřeby umožňují, na jejich vlastní žádost, asistenci při hlasování prostřednictvím osoby dle jejich vlastní volby;&nbsp;</p>
 <p>b) aktivně podporovat prostředí, v němž se mohou osoby se zdravotním postižením účinně a plně, bez diskriminace a na rovnoprávném základě s ostatními, podílet na řízení veřejných záležitostí, a napomáhat jejich účasti ve veřejném životě, včetně:&nbsp;</p></li>
 <li>účasti v nevládních organizacích a sdruženích zapojených do veřejného a politického života země a účasti na činnosti a řízení politických stran;</li>
-<li> zakládání organizací osob se zdravotním postižením, aby je zastupovaly na mezinárodní, vnitrostátní, regionální a místní úrovni, a sdružování se v nich.</li></ul></blockquote>
+<li>zakládání organizací osob se zdravotním postižením, aby je zastupovaly na mezinárodní, vnitrostátní, regionální a místní úrovni, a sdružování se v nich.</li></ul></blockquote>
 <p>&nbsp;</p>
