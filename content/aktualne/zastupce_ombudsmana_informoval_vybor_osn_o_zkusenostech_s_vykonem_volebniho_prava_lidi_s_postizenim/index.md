@@ -41,9 +41,12 @@ vystupy:
 <p>b) aktivně podporovat prostředí, v němž se mohou osoby se zdravotním postižením účinně a plně, bez diskriminace a na rovnoprávném základě s ostatními, podílet na řízení veřejných záležitostí, a napomáhat jejich účasti ve veřejném životě, včetně:&nbsp;</p></li>
 <li>účasti v nevládních organizacích a sdruženích zapojených do veřejného a politického života země a účasti na činnosti a řízení politických stran;</li>
 <li> zakládání organizací osob se zdravotním postižením, aby je zastupovaly na mezinárodní, vnitrostátní, regionální a místní úrovni, a sdružování se v nich.</li></ul></blockquote>
-<p>Vyjádření zástupce Ombudsmana pro Výbor OSN pro práva lidí s postižením</p>
-<p>Přístupnější volby pro lidi s&nbsp;těžkým zrakovým postižením&nbsp;</p>
-<p>Vyjádření k&nbsp;přístupnosti voleb pro osoby s&nbsp;intelektovým znevýhodněním&nbsp;</p>
+<p>
+<a href="file:///C:/Users/rendl/Desktop/Volby%20v%20%C3%BAstavn%C3%ADch%20za%C5%99%C3%ADzen%C3%ADch_OSN.pdf">Vyjádření zástupce ombudsmana pro Výbor OSN pro práva lidí s postižením</a></p>
+<p>
+<a href="file:///C:/Users/rendl/Desktop/Vyjad%C5%99eni%20SONS_volby_OSN.pdf">Přístupnější volby pro lidi s&nbsp;těžkým zrakovým postižením&nbsp;</a></p>
+<p>
+<a href="file:///C:/Users/rendl/Desktop/Vyj%C3%A1d%C5%99en%C3%AD%20k%20volebn%C3%ADmu%20pr%C3%A1vu_sebeobh%C3%A1jci%20Hradec.pdf">Vyjádření k&nbsp;přístupnosti voleb pro osoby s&nbsp;intelektovým znevýhodněním&nbsp;</a></p>
 <p>
 <a href="https://www.ochrance.cz/aktualne/ombudsman_pripravil_prakticky_navod_ktery_pomuze_volit_lidem_s_postizenim_v_pobytovych_sluzbach/">Praktický návod, který pomůže volit lidem s postižením v&nbsp;pobytových službách</a></p>
 <p>
