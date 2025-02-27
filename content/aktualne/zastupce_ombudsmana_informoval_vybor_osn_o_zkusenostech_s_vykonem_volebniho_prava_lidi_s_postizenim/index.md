@@ -24,7 +24,7 @@ attachments:
     title: Lidé se zdravotním postižením a volby
   - title: "Doporučení: Výkon volebního práva v domovech pro osoby se zdravotním
       postižením (2020"
-    file: https://www.ochrance.cz/aktualne/zastupce_ombudsmana_informoval_vybor_osn_o_zkusenostech_s_vykonem_volebniho_prava_lidi_s_postizenim/volby_v_ustavnich_zarizenich_osn.pdf
+    file: https://www.ochrance.cz/uploads-import/CRPD/Doporuceni/28-2019_doporuceni-volebni-pravo.pdf
   - title: "Doporučení: Podpora voliče v pobytové sociální službě (2021)"
     file: https://www.ochrance.cz/uploads-import/ESO/32_2020_OZP__OK_doporu%C4%8Den%C3%AD%20-%20volby%20final_001.pdf
 ---
@@ -58,7 +58,7 @@ attachments:
 <p>&nbsp; &nbsp; i. &nbsp; &nbsp; zaručí, aby byly volební postupy, zařízení a materiály vhodné, přístupné a snadno srozumitelné a použitelné;&nbsp;</p>
 <p>&nbsp; &nbsp; ii. &nbsp; &nbsp;chrání právo osob se zdravotním postižením hlasovat v tajném hlasování ve volbách a veřejných referendech bez zastrašování, kandidovat ve volbách, účinně zastávat úřad a vykonávat všechny veřejné funkce na všech úrovních řízení státu a umožňují používání podpůrných a nových technologií, pokud je to vhodné;&nbsp;</p>
 <p>&nbsp; &nbsp; iii. &nbsp; zaručují svobodné vyjadřování vůle osob se zdravotním postižením jako voličů a za tímto účelem jim v případě potřeby umožňují, na jejich vlastní žádost, asistenci při hlasování prostřednictvím osoby dle jejich vlastní volby;&nbsp;</p>
-<p>b) aktivně podporovat prostředí, v němž se mohou osoby se zdravotním postižením účinně a plně, bez diskriminace a na rovnoprávném základě s ostatními, podílet na řízení veřejných záležitostí, a napomáhat jejich účasti ve veřejném životě, včetně:&nbsp;</p>
+<p>b) &nbsp; &nbsp;aktivně podporovat prostředí, v němž se mohou osoby se zdravotním postižením účinně a plně, bez diskriminace a na rovnoprávném základě s ostatními, podílet na řízení veřejných záležitostí, a napomáhat jejich účasti ve veřejném životě, včetně:&nbsp;</p>
 <p>&nbsp; &nbsp; i. &nbsp; &nbsp;účasti v nevládních organizacích a sdruženích zapojených do veřejného a politického života země a účasti na činnosti a řízení politických stran;&nbsp;</p>
 <p>&nbsp; &nbsp; ii.&nbsp; &nbsp;zakládání organizací osob se zdravotním postižením, aby je zastupovaly na mezinárodní, vnitrostátní, regionální a místní úrovni, a sdružování se v nich.</p></blockquote>
 <p>&nbsp;</p>
