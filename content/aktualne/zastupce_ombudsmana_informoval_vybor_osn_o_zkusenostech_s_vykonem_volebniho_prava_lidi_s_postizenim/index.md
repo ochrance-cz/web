@@ -22,10 +22,10 @@ attachments:
     file: https://www.ochrance.cz/aktualne/zastupce_ombudsmana_informoval_vybor_osn_o_zkusenostech_s_vykonem_volebniho_prava_lidi_s_postizenim/dotaznik_-_souhrnna_informace_o_volebni_mistnosti_1_.docx
   - file: https://www.ochrance.cz/aktualne/lide-se-zdravotnim-postizenim-a-volby/
     title: Lidé se zdravotním postižením a volby
-  - title: Doporučení Výkon volebního práva v domovech pro osoby se zdravotním
-      postižením (2020
+  - title: "Doporučení: Výkon volebního práva v domovech pro osoby se zdravotním
+      postižením (2020"
     file: https://www.ochrance.cz/aktualne/zastupce_ombudsmana_informoval_vybor_osn_o_zkusenostech_s_vykonem_volebniho_prava_lidi_s_postizenim/volby_v_ustavnich_zarizenich_osn.pdf
-  - title: Doporučení Podpora voliče v pobytové sociální službě (2021)
+  - title: "Doporučení: Podpora voliče v pobytové sociální službě (2021)"
     file: https://www.ochrance.cz/uploads-import/ESO/32_2020_OZP__OK_doporu%C4%8Den%C3%AD%20-%20volby%20final_001.pdf
 ---
 <p>Zástupce ombudsmana ve svém vyjádření pro Výbor OSN pro práva osob se zdravotním postižením popsal, s jakými problémy s&nbsp;výkonem volebního práva klientů se setkal při svých návštěvách ústavních zařízení, stejně jako změny v&nbsp;právní úpravě účinné od roku 2026. K vyjádření připojil také zprávy Sjednocené organizace nevidomých a slabozrakých ČR (SONS) a skupiny sebeobhájců z&nbsp;Hradce Králové, kteří popsali své potíže při výkonu volebního práva.</p>
