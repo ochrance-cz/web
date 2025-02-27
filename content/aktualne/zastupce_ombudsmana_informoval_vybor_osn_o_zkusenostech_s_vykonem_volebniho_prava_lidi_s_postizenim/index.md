@@ -54,13 +54,11 @@ attachments:
 <p>
 <strong>Článek 29: Účast na politickém a veřejném životě</strong></p>
 <p>Státy, které jsou smluvní stranou této úmluvy, zaručí osobám se zdravotním postižením politická práva a příležitost užívat tato práva na rovnoprávném základě s ostatními, a zavazují se:&nbsp;</p>
-<p>&nbsp; &nbsp; &nbsp; a) zajistit, aby se osoby se zdravotním postižením mohly účinně a plně, na rovnoprávném základě s ostatními, podílet na politickém a veřejném životě, přímo nebo prostřednictvím svobodně volených zástupců, včetně práva a možnosti volit a být volen, mimo jiné tím, že:&nbsp;</p>
-<ul>
-<li>zaručí, aby byly volební postupy, zařízení a materiály vhodné, přístupné a snadno srozumitelné a použitelné;</li>
-<li>chrání právo osob se zdravotním postižením hlasovat v tajném hlasování ve volbách a veřejných referendech bez zastrašování, kandidovat ve volbách, účinně zastávat úřad a vykonávat všechny veřejné funkce na všech úrovních řízení státu a umožňují používání podpůrných a nových technologií, pokud je to vhodné;&nbsp;</li>
-<li>
-<p>zaručují svobodné vyjadřování vůle osob se zdravotním postižením jako voličů a za tímto účelem jim v případě potřeby umožňují, na jejich vlastní žádost, asistenci při hlasování prostřednictvím osoby dle jejich vlastní volby;&nbsp;</p>
-<p>b) aktivně podporovat prostředí, v němž se mohou osoby se zdravotním postižením účinně a plně, bez diskriminace a na rovnoprávném základě s ostatními, podílet na řízení veřejných záležitostí, a napomáhat jejich účasti ve veřejném životě, včetně:&nbsp;</p></li>
-<li>účasti v nevládních organizacích a sdruženích zapojených do veřejného a politického života země a účasti na činnosti a řízení politických stran;</li>
-<li>zakládání organizací osob se zdravotním postižením, aby je zastupovaly na mezinárodní, vnitrostátní, regionální a místní úrovni, a sdružování se v nich.</li></ul></blockquote>
+<p>a) zajistit, aby se osoby se zdravotním postižením mohly účinně a plně, na rovnoprávném základě s ostatními, podílet na politickém a veřejném životě, přímo nebo prostřednictvím svobodně volených zástupců, včetně práva a možnosti volit a být volen, mimo jiné tím, že:&nbsp;</p>
+<p>&nbsp; &nbsp; i. &nbsp; &nbsp; zaručí, aby byly volební postupy, zařízení a materiály vhodné, přístupné a snadno srozumitelné a použitelné;&nbsp;</p>
+<p>&nbsp; &nbsp; ii. &nbsp; &nbsp;chrání právo osob se zdravotním postižením hlasovat v tajném hlasování ve volbách a veřejných referendech bez zastrašování, kandidovat ve volbách, účinně zastávat úřad a vykonávat všechny veřejné funkce na všech úrovních řízení státu a umožňují používání podpůrných a nových technologií, pokud je to vhodné;&nbsp;</p>
+<p>&nbsp; &nbsp; iii. &nbsp; zaručují svobodné vyjadřování vůle osob se zdravotním postižením jako voličů a za tímto účelem jim v případě potřeby umožňují, na jejich vlastní žádost, asistenci při hlasování prostřednictvím osoby dle jejich vlastní volby;&nbsp;</p>
+<p>b) aktivně podporovat prostředí, v němž se mohou osoby se zdravotním postižením účinně a plně, bez diskriminace a na rovnoprávném základě s ostatními, podílet na řízení veřejných záležitostí, a napomáhat jejich účasti ve veřejném životě, včetně:&nbsp;</p>
+<p>&nbsp; &nbsp; i. &nbsp; &nbsp;účasti v nevládních organizacích a sdruženích zapojených do veřejného a politického života země a účasti na činnosti a řízení politických stran;&nbsp;</p>
+<p>&nbsp; &nbsp; ii.&nbsp; &nbsp;zakládání organizací osob se zdravotním postižením, aby je zastupovaly na mezinárodní, vnitrostátní, regionální a místní úrovni, a sdružování se v nich.</p></blockquote>
 <p>&nbsp;</p>
