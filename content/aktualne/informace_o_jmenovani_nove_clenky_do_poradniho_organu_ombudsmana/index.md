@@ -1,6 +1,8 @@
 ---
 title: Informace o jmenování nové členky do poradního orgánu ombudsmana
 date: 2025-02-28T13:36:00
+vystupy:
+  - aktualita
 perex: <p>Zástupce&nbsp;veřejného ochránce práv Vít Alexander Schorm zvažuje, že
   jako členku poradního orgánu pro oblast monitorování práv lidí
   s&nbsp;postižením jmenuje&nbsp;Mgr.&nbsp;Nicole Fryčovou. Ta by měla nahradit
