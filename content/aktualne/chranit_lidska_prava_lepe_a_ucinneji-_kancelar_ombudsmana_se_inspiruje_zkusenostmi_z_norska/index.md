@@ -42,4 +42,4 @@ attachments:
 <p>Díky projektu se rovněž podařilo navázat řadu cenných partnerství, která bude&nbsp;kancelář dál rozvíjet.&nbsp;</p>
 <p>Za finanční podporu projektu „Chránit lidská práva lépe a účinněji (přenos příkladů dobré praxe z&nbsp;Norska do České republiky)“ děkujeme Fondům EHP a Norska 2014–2021 a jejich programu „Fond pro bilaterální vztahy programů: Spravedlnost, Lidská práva, Řádná správa a Zdraví“.</p>
 <figure class="image">
-<img src="https://www.ochrance.cz/aktualne/chranit_lidska_prava_lepe_a_ucinneji-_kancelar_ombudsmana_se_inspiruje_zkusenostmi_z_norska/logo_nf.png" alt="logo_nf.png"></figure>
+<img src="https://www.ochrance.cz/aktualne/chranit_lidska_prava_lepe_a_ucinneji-_kancelar_ombudsmana_se_inspiruje_zkusenostmi_z_norska/logo_nf.png" alt="Logo Fondů EHP a Norska"></figure>
