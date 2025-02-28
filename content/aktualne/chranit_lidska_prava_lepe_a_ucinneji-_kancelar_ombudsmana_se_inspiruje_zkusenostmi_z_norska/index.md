@@ -17,8 +17,7 @@ attachments:
   - title: "Fb příspěvek – Inspirativní setkání v Norsku ve skupině „Práva lidí s
       postižením“ "
     file: https://www.facebook.com/groups/319938625441179/permalink/1796738337761193/
-  - file: "https://www.facebook.com/groups/319938625441179/permalink/17974937476856\
-      52/ "
+  - file: https://www.facebook.com/groups/319938625441179/permalink/1797493747685652/
     title: "Fb příspěvek – Další inspirace z Norska ve skupině „Práva lidí s
       postižením“ "
   - title: "Fb příspěvek – Navštívili jsme Uloba: norské průkopníky osobní
