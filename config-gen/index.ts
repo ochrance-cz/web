@@ -94,6 +94,9 @@ const stranky = files('Jiné', 'stranky', [
     title('Titulek'),
     string('Motto', 'claim'),
     image('Obrázek na homepage', 'headerPic'),
+    string('Alternativní text k obrázku na homepage', 'headerPicAlt', {
+      hint: 'Popis slouží ke zpřístupnění obrazového obsahu v textové formě.',
+    }),
     markdown('Hlavní text', 'body'),
     string('Mezititulek: potřebuji pomoc', 'situationsTitle'),
     string('Mezititulek: činnost', 'cinnostTitle'),

@@ -8,6 +8,26 @@
   position: absolute;
   white-space: nowrap;
   width: 1px;
+
+  &:focus,
+  &:active {
+    display: block;
+
+    margin: 0;
+    width: auto;
+    height: auto;
+    padding: 0.25rem;
+
+    position: absolute;
+    top: 0;
+    left: 1rem;
+    z-index: 9999;
+
+    background-color: black;
+    color: white;
+
+    clip: auto;
+  }
 }
 
 .skip-link,

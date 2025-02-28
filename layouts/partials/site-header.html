@@ -14,13 +14,13 @@
     {{ if eq .Language.Lang "en" }}
       <div class="root-link">
         <a tabindex="0" href="{{ .Site.BaseURL }}/en/">
-          <img class="logo" src="{{ .Site.BaseURL }}{{ "/images/logo-en.svg" }}" width="200" alt="Ombudsman: Public Defender of Rights">
+          <img class="logo" src="{{ .Site.BaseURL }}{{ "/images/logo-en.svg" }}" width="200" alt="Ombudsman - Home Page">
         </a>
       </div>
     {{ else }}
       <div class="root-link">
         <a tabindex="0" href="{{ .Site.BaseURL }}">
-          <img class="logo" src="{{ .Site.BaseURL }}{{ "/images/logo.svg" }}" width="200" alt="Ombudsman: veřejný ochránce práv">
+          <img class="logo" src="{{ .Site.BaseURL }}{{ "/images/logo.svg" }}" width="200" alt="Ombudsman - domovská stránka">
         </a>
       </div>
     {{ end }}
@@ -30,7 +30,7 @@
       <label class="hide-nav nav-opener opener" for="site-nav-toggle" aria-haspopup="menu" aria-controls="site-nav" aria-expanded="true"></label>
       <div class="box">
         <h3 class="title">
-          <label class="opener nav-opener" for="site-nav-toggle" aria-haspopup="menu" aria-controls="site-nav" aria-expanded="false">
+          <label tabindex="0" class="opener nav-opener" for="site-nav-toggle" aria-haspopup="menu" aria-controls="site-nav" aria-expanded="false">
             Menu
           </label>
         </h3>
@@ -115,9 +115,9 @@
               {{ end }}
             {{ else }}
               {{ if eq .Language.Lang "cs" }}
-                <li lang="en"><a tabindex="0" href="{{ "/en/" | absURL }}" class="lang" aria-label="Switch to English">EN</a></li>
+                <li lang="en"><a tabindex="0" href="{{ "/en/" | absURL }}" class="lang" aria-label="EN: English version">EN</a></li>
               {{ else }}
-                <li lang="cs"><a tabindex="0" href="{{ "/" | absURL }}" class="lang" aria-label="Přepnout do češtiny">CS</a></li>
+                <li lang="cs"><a tabindex="0" href="{{ "/" | absURL }}" class="lang" aria-label="CS: Česká verze">CS</a></li>
               {{ end }}
             {{ end }}
           </ul>

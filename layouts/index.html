@@ -4,14 +4,17 @@
     {{ $images := $.Site.GetPage "media" }}
     {{ with ($images.Resources.GetMatch (replaceRE "/media/" "" .Params.headerPic)) }}
       {{ with .Resize "2000x" }}
-        <img src="{{ .Permalink }}" style="aspect-ratio: {{.Width}} / {{.Height}}" width={{ .Width }} height={{.Height}}>
+        <img src="{{ .Permalink }}" style="aspect-ratio: {{.Width}} / {{.Height}}" width={{ .Width }} height={{.Height}} alt="{{ .Params.headerPicAlt }}">
       {{ end }}
     {{ end }}
     <p class="motto">{{ .Params.claim }}</p>
   </header>
-  <section class="_full two-col">
+  <section class="_full single-col">
     <h2>{{ .Params.situationsTitle }}</h2>
-    {{ partial "home-links.html" (where .Site.Pages "Section" "potrebuji-pomoc") }}
+    
+    <ul class="layout _full two-col">
+      {{ partial "home-links.html" (where .Site.Pages "Section" "potrebuji-pomoc") }}
+    </ul>
   </section>
 
   <div class="_backdrop news">
@@ -32,24 +35,26 @@
   </div>
 
   {{ if eq .Language.Lang "cs" }}
-  <section class="_full two-col">
+  <section class="_full">
     <h2>{{ .Params.cinnostTitle }}</h2>
 
-    {{ with .GetPage "/info/setreni" }}
-      {{ partial "home-links.html" . }}
-    {{ end }}
+    <ul class="layout _full two-col">
+      {{ with .GetPage "/info/setreni" }}
+        {{ partial "home-links.html" . }}
+      {{ end }}
 
-    {{ range where (where .Site.Pages ".RelPermalink" "/vystupy/") "Kind" "taxonomy" }}
-      {{ partial "home-links.html" . }}
-    {{ end }}
+      {{ range where (where .Site.Pages ".RelPermalink" "/vystupy/") "Kind" "taxonomy" }}
+        {{ partial "home-links.html" . }}
+      {{ end }}
 
-    {{ with .GetPage "/vzdelavaci-akce" }}
-      {{ partial "home-links.html" . }}
-    {{ end }}
+      {{ with .GetPage "/vzdelavaci-akce" }}
+        {{ partial "home-links.html" . }}
+      {{ end }}
 
-    {{ with .GetPage "/eso" }}
-      {{ partial "home-links.html" . }}
-    {{ end }}
+      {{ with .GetPage "/eso" }}
+        {{ partial "home-links.html" . }}
+      {{ end }}
+    </ul>
   </section>
   {{ end }}
 

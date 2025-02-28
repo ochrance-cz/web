@@ -5,15 +5,8 @@ perex: >
   poskytované v zařízeních před špatným zacházením. Dohlíží rovněž na provádění
   vyhoštění a předávání cizinců.
 illustration: DET-23.png
-hp: >-
-  Ombudsman:
-
-
-  * sleduje zacházení s těmito lidmi a podmínky v zařízeních
-
-  * upozorňuje na zjištěné dílčí i systémové nedostatky a prosazuje jejich nápravu
-
-  * vzdělává odbornou i širokou veřejnost a spolupracuje s dalšími aktéry na prevenci špatného zacházení
+hp: |
+  Ombudsman *sleduje* zacházení s těmito lidmi a podmínky v zařízeních, *upozorňuje* na zjištěné dílčí i systémové nedostatky a prosazuje jejich nápravu, *vzdělává* odbornou i širokou veřejnost, a *spolupracuje* s dalšími aktéry na prevenci špatného zacházení.
 we-can:
   - Pokud vy sami nebo váš blízký čelíte špatnému zacházení v takovém zařízení.
   - Můžeme jednat se zařízením nebo jeho zřizovatelem, aby podmínky v zařízení

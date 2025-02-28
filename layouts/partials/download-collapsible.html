@@ -2,11 +2,11 @@
 <div class="_download-collapsible">
   <input type="checkbox" id="nav-opener-{{ $random }}">
   <div class="box">
-    <h3 class="title">
+    <p class="title">
       <label tabindex="0" class="opener" for="nav-opener-{{ $random }}" aria-controls="{{ $random }}-content" aria-expanded="false">
         {{ .title }}
       </label>
-    </h3>
+    </p>
     <ul id="{{ $random }}-content">
       {{ range .items }}
         <li><a href="{{ .link }}">{{ .desc }}</a></li>

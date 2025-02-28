@@ -5,15 +5,18 @@
       <div>
         <h1>
           {{ .Title }}
-          <br>
-          <span class="phone-label">telefon:</span>
-          <span class="phone">{{ .Params.phone }}</span>
         </h1>
+        
         <div class="perex">{{- "" -}}
-          <span class="{{ with .Params.pic }}icon-info{{ end }}" aria-hidden="true"></span>
-          {{ with .Params.description }}
-            {{ partial "md-block.html" . }}
-          {{ end }}
+          <p class="quick-phone">
+            <span class="phone-label">telefon:</span>
+            <span class="phone">{{ .Params.phone }}</span>
+            <br>
+            <span class="{{ with .Params.pic }}icon-info{{ end }}" aria-hidden="true"></span>
+            {{ with .Params.description }}
+              {{ partial "md-block.html" . }}
+            {{ end }}
+          </p>
         </div>
       </div>
 
@@ -31,8 +34,10 @@
 
   <section class="digital">
     <div class="">
-      <h2>{{ i18n "e-mail" }} <a href="mailto:{{ .Params.email }}">{{ .Params.email }}</a></h2>
-      <p>{{ i18n "data-box-id" }}: <strong>jz5adky</strong></p>
+      <ul>
+        <li class="email">{{ i18n "e-mail" }} <a href="mailto:{{ .Params.email }}">{{ .Params.email }}</a></li>
+        <li>{{ i18n "data-box-id" }}: <strong>jz5adky</strong></li>
+      </ul>
       {{ with .GetPage "info/pravidla-komunikace" }}
         <p><a href="{{ .Permalink }}">{{ .Title }}</a></p>
       {{ end }}
@@ -77,7 +82,7 @@
       </div>
     </div>
 
-    <iframe class="map" src="https://en.frame.mapy.cz/s/dobadopeva" width="400" height="400" frameborder="0"></iframe>
+    <iframe class="map" src="https://en.frame.mapy.cz/s/dobadopeva" width="400" height="400" frameborder="0" aria-hidden="true"></iframe>
 
     {{ with .Params.access }}
     <div>

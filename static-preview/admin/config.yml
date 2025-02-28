@@ -32,6 +32,11 @@ collections:
             name: headerPic
             required: false
             widget: image
+          - label: Alternativní text k obrázku na homepage
+            name: headerPicAlt
+            required: false
+            hint: Popis slouží ke zpřístupnění obrazového obsahu v textové formě.
+            widget: string
           - editor_components:
               - image
             buttons:

@@ -8,17 +8,28 @@
     {{ $pic := $images.Resources.GetMatch "potrebujete-pomoc-vasickova.jpg" }}
     {{ with $pic }}
       <div class="img-wrapper">
-        <img src="{{ $pic.Permalink }}">
+        <img src="{{ $pic.Permalink }}" alt="">
       </div>
     {{ end }}
 
-    <p class="contacts">
-      Kontaktujte nás<br>
-      <span class="phone-label">Telefon: </span>
-        <span class="phone">{{ (.GetPage "kontakt").Params.phone }}</span>
-        <br>
-      <span class="email-label">E-mail: </span>
-        <a href="mailto:{{ (.GetPage "kontakt").Params.email }}">{{ (.GetPage "kontakt").Params.email }}</a>
-    </p>
+    <div class="contacts">
+      <p>
+        Kontaktujte nás
+      </p>
+      <ul>
+        <li>
+          <span class="phone-label">
+            Telefon:
+          </span>
+          <span class="phone">{{ (.GetPage "kontakt").Params.phone }}</span>
+        </li>
+        <li>
+          <span class="email-label">
+            E-mail:
+          </span>
+          <a href="mailto:{{ (.GetPage "kontakt").Params.email }}">{{ (.GetPage "kontakt").Params.email }}</a>
+        </li>
+      </ul>
+    </div>
   </section>
 </div>

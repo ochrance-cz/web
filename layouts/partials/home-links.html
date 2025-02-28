@@ -1,5 +1,5 @@
 {{ define "link" }}
-  <article class="_home-link">
+  <li class="_home-link">
     <h3>
       <a
         href="{{ cond (isset .Params "link") .Params.link .Permalink }}"><span class="icon-{{ with .Params.icon }}{{ . }}{{ else }}arrow{{ end }}" aria-hidden="true"></span>
@@ -7,7 +7,7 @@
       </a>
     </h3>
     {{ partial "md-block.html" .Params.hp }}
-  </article>
+  </li>
 {{ end }}
 
 {{ if eq (printf "%T" .) "*hugolib.pageState" }}

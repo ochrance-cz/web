@@ -1,5 +1,14 @@
 ._contact-page {
   h1 {
+    margin-bottom: 0;
+  }
+
+  p.quick-phone {
+    @include font-family-headline;
+    @include font-size-xxxl;
+    margin-bottom: 0;
+    white-space: nowrap;
+
     .phone-label {
       display: inline-block;
       white-space: nowrap;
@@ -89,14 +98,26 @@
       @include grid(1fr 1fr);
     }
 
-    p {
-      margin: 0.5rem 0;
+    ul {
+      padding: 0;
+      margin: 0;
     }
 
-    h2 {
+    li {
+      list-style-type: none;
+      margin: 0.5rem 0;
+
+      &:first-child {
+        margin-top: 0;
+      }
+    }
+
+    h2,
+    li.email {
       margin-top: 0;
       margin-bottom: 0.5rem;
       @include font-size-l;
+      @include font-family-headline;
 
       a {
         color: $green;

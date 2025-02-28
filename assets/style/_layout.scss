@@ -148,7 +148,8 @@ main {
 }
 
 main {
-  section {
+  section,
+  ul.layout {
     margin: 3rem auto;
     padding: 0 1rem;
 
@@ -162,6 +163,10 @@ main {
       &._full,
       &._news {
         max-width: 80vw;
+
+        &.single-col {
+          @include grid(1fr);
+        }
 
         &.two-col {
           @include grid(repeat(2, 1fr));
@@ -194,5 +199,15 @@ main {
 
   & > section:last-child {
     margin-bottom: 3rem;
+  }
+}
+
+main ul.layout {
+  margin: 0;
+  padding: 0;
+
+  li {
+    list-style-type: none;
+    margin: 0;
   }
 }

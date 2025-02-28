@@ -82,7 +82,9 @@
   </script>
   {{ end }}
 
-  <a class="skip-link" href="#main-content">{{ i18n "skip-to-content" }}</a>
+  <nav class="m-accessibility" aria-labelledby="m-accessibility">
+    <a class="skip-link" href="#main-content" tabindex="0" title="Přejít k obsahu (Klávesová zkratka: Alt + 2)" accesskey="2">{{ i18n "skip-to-content" }}</a>
+  </nav>
 
   {{ partial "alert-strip.html" . }}
 
