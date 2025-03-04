@@ -9,7 +9,7 @@ perex: <p>Ombudsman zaslal předsedovi Výboru pro veřejnou správu a regionál
   výhradami k novele zákona o cestovním ruchu. Výbor novelu projedná ve středu
   5. 3. 2024.&nbsp;</p>
 attachments:
-  - title: Dopis určený poslancům Výboru pro veřejnou správu a regionální rozvoj
+  - title: Dopis zaslaný poslancům Výboru pro veřejnou správu a regionální rozvoj
     file: https://www.ochrance.cz/aktualne/ombudsman_se_obratil_na_poslance_kvuli_novemu_registru_kratkodobeho_ubytovani/dopis_urceny_poslancum_vyboru_pro_verejnou_spravu_a_regionalni_rozvoj.docx
 ---
 <p>Ve změně zákona o cestovním ruchu usiluje ombudsman o rozšíření registračních údajů. 
