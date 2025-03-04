@@ -20,9 +20,7 @@ attachments:
   - title: Poradní orgán ombudsmana žádá zastání u poslanců. Novela školského zákona
       podle členů negativně ovlivní děti s postižením – související tisková
       zpráva z 10. října 2024
-    file: "https://www.ochrance.cz/aktualne/poradni_organ_ombudsmana_zada_zastani_u\
-      _poslancu-_novela_skolskeho_zakona_podle_clenu_negativne_ovlivni_deti_s_p\
-      ostizenim/ "
+    file: https://www.ochrance.cz/aktualne/poradni_organ_ombudsmana_zada_zastani_u_poslancu-_novela_skolskeho_zakona_podle_clenu_negativne_ovlivni_deti_s_postizenim/
   - title: FAQ Ministerstva školství k podpůrným opatřením
     file: https://msmt.gov.cz/vzdelavani/podpurna-opatreni
 ---
@@ -84,7 +82,6 @@ attachments:
 <p>74&nbsp;982 – tolik úvazků pedagogů&nbsp;všech typů platil stát v&nbsp;základních školách ve školním roce 2023/2024</p>
 <p>234 – tolik úvazků dalšího učitele platil stát v&nbsp;základních školách ve školním roce 2023/2024&nbsp;</p>
 <p>Zdroje: MŠMT, Univerzita Palackého v&nbsp;Olomouci</p></blockquote>
-<p>Zástupce ombudsmana apeluje na poslance: Podpořte školní úspěch zranitelných dětí&nbsp;</p>
 
 
 {{< youtube "hbBYR9PIm6E" >}}
