@@ -42,7 +42,7 @@ attachments:
 <strong>Výhrady zástupce ombudsmana ke zrušení „dalšího učitele“</strong></p>
 <ul>
 <li>Zrušením se snižuje již dosažená úroveň ochrany sociálních práv, v&nbsp;tomto případě práva dětí na kvalitní a inkluzivní vzdělávání. Tím se Česká republika dostává do rozporu se svými &nbsp;mezinárodním závazky.</li>
-<li>Důvody předložené Ministerstvem školství jsou v rozporu s údaji o nárůstu využívání dalšího pedagogického pracovníka v&nbsp;běžných i speciálních třídách po roce 2020. Zatímco Ministerstvo uvádí, že nárůst využívání této podpory je přechodný, data ukazují setrvalý nárůst od roku 2019. </li>
+<li>Důvody předložené Ministerstvem školství jsou v rozporu s údaji o nárůstu využívání dalšího pedagogického pracovníka v&nbsp;běžných i speciálních třídách po roce 2020. Zatímco Ministerstvo uvádí, že nárůst využívání této podpory je přechodný, data ukazují setrvalý nárůst od roku 2019.</li>
 <li>Po roce 2020 stoupl počet dětí se speciálními vzdělávacími potřebami, které se vzdělávají doma. Stát tento trend dosud nezmapoval z pohledu rovných příležitostí a nevysvětlil dopady na nejvíce zranitelné děti. Zrušením „dalšího učitele“ hrozí, že dojde k prohloubení&nbsp;vyloučení dětí se speciálními vzdělávacími potřebami ze vzdělávacího systému a posílení závislosti jejich rodičů na pomoci státu.</li></ul>
 <p>
 <a href="https://www.ochrance.cz/aktualne/stovky_deti_se_specialnimi_vzdelavacimi_potrebami_se_neobejdou_bez_druheho_pedagoga_osud_tohoto_podpurneho_opatreni_je_ale_nejisty/31527-24_priloha.pdf">Podrobněji v&nbsp;příloze dopisu adresovanému Ministerstvu školství</a></p></blockquote>
@@ -51,14 +51,14 @@ attachments:
 <strong>Příběh, kde pomáhá „další učitel“&nbsp;</strong></p>
 <p>Žák základní školy onemocněl rakovinou. Před nemocí to byl nejlepší žák ve třídě.&nbsp;</p>
 <p>Během aktivní léčby rakoviny vzdělávání neprobíhalo. Po ukončení léčby se uvažovalo o návratu žáka do kolektivu. Lékař nedoporučil pobyt mezi spolužáky ve třídě z&nbsp;důvodu přetrvávajícího zhoršeného zdravotního stavu (porucha paměti a řeči, ztráta rovnováhy). Žák se nyní vzdělává doma s&nbsp;pomocí druhého učitele (2 hodiny denně). Je to jediná možnost, jak zajistit jeho vzdělávání.</p>
-<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Zdroj: Univerzita Palackého v&nbsp;Olomouci</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Zdroj: Univerzita Palackého v&nbsp;Olomouci</p>
 <p>&nbsp;</p>
 <p>
 <strong>Příběhy, kde pomáhá sociální pedagog</strong></p>
-<p>Michal je zkušený sociální pracovník. Byl telefonicky osloven ředitelem základní školy, jestli by na částečný úvazek nechtěl ve škole pracovat na pozici sociálního pedagoga. Michal se ihned po nástupu začal věnovat třem žákům ohrožených školním neúspěchem.
+<p>Michal je zkušený sociální pracovník. Byl telefonicky osloven ředitelem základní školy, jestli by na částečný úvazek nechtěl ve škole pracovat na pozici sociálního pedagoga. Michal se ihned po nástupu začal věnovat třem žákům ohrožených školním neúspěchem.&nbsp;
 <br>
 <br>Jednalo se o žáky druhého stupně základní školy. Sabina měla velmi neuspokojivé rodinné prostředí. Neměla se kde učit ani kde si udělat úkol. I přes určitou snahu školní výsledky Sabiny neodpovídají jejím schopnostem. František je nový žák, který má problémy především s&nbsp;motivací a kázní – s&nbsp;tím se pojí počínající averze jeho spolužáků vůči němu. Markéta je průměrná žákyně, bohužel se pohybuje v&nbsp;rizikové skupině vrstevníků, a kromě jiného je pod dohledem probačního úředníka kvůli drobným krádežím v obchodech.</p>
-<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Zdroj:&nbsp;
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Zdroj:&nbsp; 
 <a href="https://zapojmevsechny.cz/clanek/359-asistent-pedagoga-vs-skolni-asistent">Zapojme všechny</a>, web zaštítěný Národním pedagogickým institutem</p></blockquote>
 <blockquote>
 <p>
@@ -75,7 +75,7 @@ attachments:
 <p>
 <strong>Sociální pedagog</strong></p>
 <p>je vysokoškolsky vzdělaný odborník, který zajišťuje servis a péči pro děti a žáky se speciálními vzdělávacími potřebami: z odlišného kulturního prostředí (děti a žáci s odlišným mateřským jazykem aj.) a jiných životních podmínek (rodina se sociálním znevýhodněním a z toho vyplývající ohrožení dítěte projevy rizikového chování v rodině, odlišný socioekonomický status rodiny aj.). Tito žáci mohou být navíc ohroženi školním neúspěchem a předčasným odchodem ze vzdělávání.&nbsp;</p>
-<p>Definice asistenta pedagoga a sociálního pedagoga převzata ze&nbsp;
+<p>Definice asistenta pedagoga a sociálního pedagoga převzata ze&nbsp; 
 <a href="https://zapojmevsechny.cz/clanek/32-socialni-pedagog">Zapojme všechny</a>, webu zaštítěného Národním pedagogickým institutem</p></blockquote>
 <blockquote>
 <p>
