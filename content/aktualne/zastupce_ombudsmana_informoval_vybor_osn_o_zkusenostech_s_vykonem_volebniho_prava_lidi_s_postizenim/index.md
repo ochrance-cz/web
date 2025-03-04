@@ -95,5 +95,5 @@ attachments:
 <tr>
 <td>
 <strong>(5)</strong></td>
-<td>Překážkou ve výkonu práva volit je omezení osobní svobody z&nbsp;důvodu ochrany zdraví lidí
-<strong>. Překážkou ve výkonu práva být volen je omezení svéprávnosti k&nbsp;výkonu tohoto práva. Svéprávnost k&nbsp;výkonu práva volit nelze omezit.</strong></td></tr></tbody></table></figure></blockquote>
+<td>Překážkou ve výkonu práva volit je omezení osobní svobody z&nbsp;důvodu ochrany zdraví lidí.
+<strong> Překážkou ve výkonu práva být volen je omezení svéprávnosti k&nbsp;výkonu tohoto práva. Svéprávnost k&nbsp;výkonu práva volit nelze omezit.</strong></td></tr></tbody></table></figure></blockquote>
