@@ -67,4 +67,32 @@ attachments:
 <p>b) &nbsp; &nbsp;aktivně podporovat prostředí, v němž se mohou osoby se zdravotním postižením účinně a plně, bez diskriminace a na rovnoprávném základě s ostatními, podílet na řízení veřejných záležitostí, a napomáhat jejich účasti ve veřejném životě, včetně:&nbsp;</p>
 <p>&nbsp; &nbsp; i. &nbsp; &nbsp;účasti v nevládních organizacích a sdruženích zapojených do veřejného a politického života země a účasti na činnosti a řízení politických stran;&nbsp;</p>
 <p>&nbsp; &nbsp; ii.&nbsp; &nbsp;zakládání organizací osob se zdravotním postižením, aby je zastupovaly na mezinárodní, vnitrostátní, regionální a místní úrovni, a sdružování se v nich.</p></blockquote>
+<p>Od r. 2026 nabude účinnost zákon o správě voleb (č. 88/2024 Sb.): bude se jednat o nový zákon, který sjednotí pravidla pro hlasování u dosavadních volebních zákonů (zákon o volbách do parlamentu ČR, zákon o volbách do Evropského parlamentu, zákon o volbách do zastupitelstev obcí, zákon o volbách do zastupitelstev krajů, zákon o volbě prezidenta republiky).&nbsp;</p>
+<p>Ten upravuje překážky ve výkonu volebního práva následovně (tučný text navrhl a do zákona u poslanců prosadil zástupce ombudsmana):</p>
+<blockquote>
 <p>&nbsp;</p>
+<p>§&nbsp;3 – Základní pojmy a&nbsp;společná podmínka výkonu volebního práva</p>
+<figure class="table">
+<table>
+<tbody>
+<tr>
+<td>
+<strong>(1)</strong></td>
+<td>Voličem je fyzická osoba, které příslušný zákon o&nbsp;volbách přiznává právo volit.</td></tr>
+<tr>
+<td>
+<strong>(2)</strong></td>
+<td>Volební stranou je ten, kdo je podle příslušného zákona o&nbsp;volbách oprávněn podat kandidátní listinu.</td></tr>
+<tr>
+<td>
+<strong>(3)</strong></td>
+<td>Kandidátem je fyzická osoba, kterou volební strana navrhuje na kandidátní listině ke zvolení. Kandidátem může být pouze ten, komu příslušný zákon o&nbsp;volbách přiznává právo být volen.</td></tr>
+<tr>
+<td>
+<strong>(4)</strong></td>
+<td>Nezávislým kandidátem je kandidát, který je zároveň volební stranou.</td></tr>
+<tr>
+<td>
+<strong>(5)</strong></td>
+<td>Překážkou ve výkonu práva volit je omezení osobní svobody z&nbsp;důvodu ochrany zdraví lidí
+<strong>. Překážkou ve výkonu práva být volen je omezení svéprávnosti k&nbsp;výkonu tohoto práva. Svéprávnost k&nbsp;výkonu práva volit nelze omezit.</strong></td></tr></tbody></table></figure></blockquote>
