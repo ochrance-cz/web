@@ -87,7 +87,7 @@ attachments:
 <p>Zástupce ombudsmana apeluje na poslance: Podpořte školní úspěch zranitelných dětí&nbsp;</p>
 
 
-{{< youtube "JtTLKxb4zYY" >}}
+{{< youtube "hbBYR9PIm6E" >}}
 
 
 <p>&nbsp;</p>
