@@ -71,7 +71,8 @@ attachments:
 <p>Ten upravuje překážky ve výkonu volebního práva následovně (tučný text navrhl a do zákona u poslanců prosadil zástupce ombudsmana):</p>
 <blockquote>
 <p>&nbsp;</p>
-<p>§&nbsp;3 – Základní pojmy a&nbsp;společná podmínka výkonu volebního práva</p>
+<p>
+<strong>§&nbsp;3 – Základní pojmy a&nbsp;společná podmínka výkonu volebního práva</strong></p>
 <figure class="table">
 <table>
 <tbody>
