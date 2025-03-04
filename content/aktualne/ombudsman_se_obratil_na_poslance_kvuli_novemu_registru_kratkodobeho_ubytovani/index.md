@@ -8,6 +8,9 @@ perex: <p>Ombudsman zaslal předsedovi Výboru pro veřejnou správu a regionál
   rozvoj&nbsp;Poslanecké sněmovny dopis, ve kterém seznámil poslance se svými
   výhradami k novele zákona o cestovním ruchu. Výbor novelu projedná ve středu
   5. 3. 2024.&nbsp;</p>
+attachments:
+  - title: Dopis určený poslancům Výboru pro veřejnou správu a regionální rozvoj
+    file: https://www.ochrance.cz/aktualne/ombudsman_se_obratil_na_poslance_kvuli_novemu_registru_kratkodobeho_ubytovani/dopis_urceny_poslancum_vyboru_pro_verejnou_spravu_a_regionalni_rozvoj.docx
 ---
 <p>Ve změně zákona o cestovním ruchu usiluje ombudsman o rozšíření registračních údajů. 
 <i>„Smyslem mého dopisu je upozornit poslance na to, že právní úprava nesmí být matoucí, a to ani pro ubytovatele. Je potřeba předejít tomu, aby do registru e-Turista byly zapsány stavby, které nejsou zkolaudovány ke krátkodobému ubytování. Každý turista by měl být ubytován v&nbsp;řádně registrovaném, tedy kolaudovaném objektu. Vhodné by však bylo, pokud by podmínkou registrace bylo stanovisko stavebního úřadu o kolaudovaném stavu objektu,“&nbsp;</i>vysvětlil smysl dopisu Stanislav Křeček. Zároveň poslance vyzval, aby při úpravě zákona mysleli také na možnost zpětně odebrat registrační číslo stavbě, u které se prokáže, že do registru zapsána být neměla.&nbsp;
