@@ -14,8 +14,8 @@ attachments:
     file: https://www.prvnich100let.cz/post/ocen%C4%9Bn%C3%AD-flamma-pro-inspirativn%C3%AD-pr%C3%A1vni%C4%8Dky-z%C3%ADskaly-v%C3%BDjime%C4%8Dn%C3%A9-soudkyn%C4%9B-%C4%8Di-akademi%C4%8Dky-%C4%8Destn%C3%A9-ocen%C4%9Bn%C3%AD-z
 ---
 <p>V&nbsp;letošním čtvrtém ročníku bylo více než 40 nominovaných. Do užšího výběru se probojovalo 12 z&nbsp;nich. Objevily se mezi nimi ženy, které aktivně přispívají k formování nastupující generace právníků a právniček. Nechyběly ani zástupkyně justice a veřejného sektoru.</p>
-<p>V&nbsp;pondělí 3. března pak hlediště divadla Jatka78 zaplnily zástupkyně právnických profesí, ale i ženy z oblasti byznysu, neziskové sféry či politiky, aby v&nbsp;rámc
-<strong>i&nbsp;</strong>galavečera „Právničky na Jatkách“ podpořily finalistky prestižní ceny. Mezi laureátkami ocenění Flamma, byla i naše kolegyně, právnička zabývající se ochranou práv lidí zbavených svobody Marie Kmecová. Svou radost z&nbsp;ocenění shrnula takto:&nbsp;</p>
+<p>V&nbsp;pondělí 3. března pak hlediště divadla Jatka78 zaplnily zástupkyně právnických profesí, ale i ženy z oblasti byznysu, neziskové sféry či politiky, aby v&nbsp;rámci
+<strong>&nbsp;</strong>galavečera „Právničky na Jatkách“ podpořily finalistky prestižní ceny. Mezi laureátkami ocenění Flamma, byla i naše kolegyně, právnička zabývající se ochranou práv lidí zbavených svobody Marie Kmecová. Svou radost z&nbsp;ocenění shrnula takto:&nbsp;</p>
 <p>„
 <i>Cena Flamma mě překvapila, ale samozřejmě potěšila. Děkuji porotkyním za ocenění práce, kterou v&nbsp;kanceláři ombudsmana děláme pro ochranu lidí zbavených svobody před závažnými zásahy do práv a důstojnosti. Je to vzrušující práce, kde se stále testuje, nakolik jsou lidská práva brána skutečně vážně, nebo zda zůstávají jen na papíře. V&nbsp;Evropském výboru pro zabránění špatnému zacházení, jehož jsem členkou, jsem díky zkušenostem z&nbsp;kanceláře ombudsmana dobře obstála a daří se mi rozvíjet jeho práci</i>.“</p>
 <p>Marii Kmecové i ostatním oceněným srdečně gratulujeme!</p>
@@ -27,5 +27,5 @@ attachments:
 <blockquote>
 <p>Ocenění FLAMMA pro současné inspirativní dámy v oblasti práva z Česka&nbsp;i Slovenska i ty, kteří přispívají k diverzitě v oblasti právnických profesí, odkazuje na političku a aktivistku Františkou Plamínkovou, která pomáhala vytvářet obraz ženy jednadvacátého století. &nbsp;</p>
 <p>Učitelka a posléze senátorka bojovala za práva žen volit, pomáhala zrušit celibát v učitelském stavu a zasazovala se za rovnost mezi oběma pohlavími. V roce 1923 založila Ženskou národní radu, ve které se mimo jiné navrhovaly zákony týkající se rodiny. Jako první u nás vyslovila tezi, že stát má vytvořit podmínky, aby žena mohla povolání skloubit s rodinou. Byla inspirací pro všechny ženy, které se rozhodly bojovat za pravdu, svobodu, humanitu a demokracii.</p>
-<p>Zdroj:
-<a href=" https://www.prvnich100let.cz/oceneni"> Projekt #PRVNÍCH100LET</a></p></blockquote>
+<p>Zdroj: 
+<a href=" https://www.prvnich100let.cz/oceneni">Projekt #PRVNÍCH100LET</a></p></blockquote>
