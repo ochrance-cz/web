@@ -4,7 +4,7 @@ title: "Ocenění Flamma pro právní expertky: Marie Kmecová z kanceláře omb
 date: 2025-03-05T11:00:00
 vystupy:
   - aktualita
-perex: "<p>Gratulujeme naší právničce Marii Kmecové k ocenění FLAMMA! Jedná se o
+perex: "<p>Gratulujeme naší právničce Marii Kmecové k ocenění Flamma! Jedná se o
   prestižní cenu, kterou dostávají výjimečné a uznávané expertky z&nbsp;Česka a
   Slovenska za svou inspirativní práci v&nbsp;oblasti práva. Cenu
   uděluje&nbsp;projekt #PRVNÍCH100LET,&nbsp;který se věnuje podpoře žen
