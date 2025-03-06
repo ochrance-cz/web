@@ -13,6 +13,8 @@ perex: <p>Jsme rádi, že jsme vám v&nbsp;rámci Noci práva mohli představit 
 <p>Mysleli jsme i na hosty se sluchovým postižením, pro které jsme připravili tlumočení celého programu &nbsp;do českého znakového jazyka.&nbsp;</p>
 <p>&nbsp;</p>
 <p>Nestihli jste k&nbsp;nám letos přijít? Navštivte Noc práva prostřednictvím našich fotek.&nbsp;</p>
+<figure class="image">
+<img src="https://www.ochrance.cz/aktualne/noc_prava_dekujeme_ze_jste_u_toho_byli_s_nami/dsc_0355.jpg" alt="dsc_0355.jpg"></figure>
 <figure class="table">
 <table>
 <tbody>
