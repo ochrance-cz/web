@@ -33,31 +33,31 @@ attachments:
 <p>
 <strong>Počet lidí s postižením ve věku 20-64 let na českém trhu práce</strong></p>
 <ul>
-<li>&nbsp; &nbsp; &nbsp; &nbsp; 202&nbsp;800 </li>
-<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; z&nbsp;toho 73&nbsp;600 lidí s&nbsp;postižením pracuje a nepobírá invalidní ani starobní důchod</li></ul>
+<li>202&nbsp;800</li>
+<li>z&nbsp;toho 73&nbsp;600 lidí s&nbsp;postižením pracuje a nepobírá invalidní ani starobní důchod</li></ul>
 <p>Zdroj: Český statistický úřad, 2019&nbsp;</p>
 <p>&nbsp;</p>
 <p>
 <strong>Kdo je považován za člověka s postižením?</strong></p>
 <ul>
-<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Člověk, který má tělesné, smyslové, mentální, duševní nebo jiné postižení, které mu brání nebo může bránit v jeho právu na rovné zacházení například v&nbsp;oblasti práce a zaměstnání. </li>
-<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Některá postižení jsou viditelná (typicky tělesná), jiná naopak ne. Typickým příkladem „neviditelného“ postižení je duševní onemocnění (deprese, bipolární afektivní porucha nebo paranoidní schizofrenie).</li>
-<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; V&nbsp;Česku žije 1&nbsp;152&nbsp;000 lidí s&nbsp;postižením. Jedná se o 13 % z&nbsp;celkové populace.&nbsp;</li>
-<li> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; U více než poloviny z&nbsp;nich (56 %) byl zhoršený zdravotní stav posouzen lékařem a byl jim přiznán invalidní důchod, příspěvek na péči nebo získali průkaz osoby se zdravotním postižením.</li></ul>
+<li>Člověk, který má tělesné, smyslové, mentální, duševní nebo jiné postižení, které mu brání nebo může bránit v jeho právu na rovné zacházení například v&nbsp;oblasti práce a zaměstnání.</li>
+<li>Některá postižení jsou viditelná (typicky tělesná), jiná naopak ne. Typickým příkladem „neviditelného“ postižení je duševní onemocnění (deprese, bipolární afektivní porucha nebo paranoidní schizofrenie).</li>
+<li>V&nbsp;Česku žije 1&nbsp;152&nbsp;000 lidí s&nbsp;postižením. Jedná se o 13 % z&nbsp;celkové populace. </li>
+<li>U více než poloviny z&nbsp;nich (56 %) byl zhoršený zdravotní stav posouzen lékařem a byl jim přiznán invalidní důchod, příspěvek na péči nebo získali průkaz osoby se zdravotním postižením.</li></ul>
 <p>Zdroj: Český statistický úřad, 2019</p>
 <p>
 <strong>V&nbsp;čem mohou spočívat úpravy pracovního režimu či pracoviště pro zaměstnance s postižením?</strong></p>
 <ul>
-<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Upravený pracovní režim může mít podobu odlišného rozvržení pracovní doby, delších či častějších přestávek v práci nebo práci z&nbsp;domova. </li>
-<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Upravený pracovní režim nemá, ale z důvodu postižení by ho potřebovalo 19 700 zaměstnanců s&nbsp;postižením.</li>
-<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Úpravy pracoviště mohou spočívat v&nbsp;úpravě nábytku v kanceláři, odhlučnění, výměně osvětlení či poskytnutí speciálního softwaru či jiné kompenzační pomůcky.</li>
-<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Celkem 11 700 zaměstnanců s&nbsp;postižením by úpravy pracovního prostředí uvítalo, ale nemá ho.</li></ul>
+<li>Upravený pracovní režim může mít podobu odlišného rozvržení pracovní doby, delších či častějších přestávek v práci nebo práci z&nbsp;domova.</li>
+<li>Upravený pracovní režim nemá, ale z důvodu postižení by ho potřebovalo 19 700 zaměstnanců s&nbsp;postižením.</li>
+<li>Úpravy pracoviště mohou spočívat v&nbsp;úpravě nábytku v kanceláři, odhlučnění, výměně osvětlení či poskytnutí speciálního softwaru či jiné kompenzační pomůcky.</li>
+<li>Celkem 11 700 zaměstnanců s&nbsp;postižením by úpravy pracovního prostředí uvítalo, ale nemá ho.</li></ul>
 <p>Zdroj: Český statistický úřad, 2019</p>
 <p>&nbsp;</p>
 <p>
 <strong>Jaký je rozdíl mezi otevřeným a chráněným trhem práce?</strong></p>
 <ul>
-<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chráněný trh práce tvoří zaměstnavatelé, kteří zaměstnávají více než 50 % osob se zdravotním postižením z celkového počtu svých zaměstnanců.</li>
-<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Úřad práce ČR s&nbsp;těmito zaměstnavateli uzavírá písemnou dohodu o jejich uznání za zaměstnavatele na chráněném trhu práce a přispívá jim na mzdy zaměstnanců.</li>
-<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; V praxi se lze setkat s&nbsp;nepřesnými označeními jako „chráněná dílna“ či&nbsp;„sociální podnik“.</li>
-<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Otevřený trh práce tvoří zbývající zaměstnavatelé jak ve veřejném (úřady, školy, instituce), tak i soukromém sektoru (obchodní společnosti). Tvoří většinu zaměstnavatelů v&nbsp;Česku.&nbsp;</li></ul></blockquote>
+<li>Chráněný trh práce tvoří zaměstnavatelé, kteří zaměstnávají více než 50 % osob se zdravotním postižením z celkového počtu svých zaměstnanců.</li>
+<li>Úřad práce ČR s&nbsp;těmito zaměstnavateli uzavírá písemnou dohodu o jejich uznání za zaměstnavatele na chráněném trhu práce a přispívá jim na mzdy zaměstnanců.</li>
+<li>V praxi se lze setkat s&nbsp;nepřesnými označeními jako „chráněná dílna“ či&nbsp;„sociální podnik“.</li>
+<li>Otevřený trh práce tvoří zbývající zaměstnavatelé jak ve veřejném (úřady, školy, instituce), tak i soukromém sektoru (obchodní společnosti). Tvoří většinu zaměstnavatelů v&nbsp;Česku.&nbsp;</li></ul></blockquote>
