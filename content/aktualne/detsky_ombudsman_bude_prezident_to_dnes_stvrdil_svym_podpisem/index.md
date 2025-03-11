@@ -1,5 +1,5 @@
 ---
-title: Dětský ombudsman bude! Prezident to dnes stvrdil svým podpisem
+title: Dětský ombudsman bude! Prezident to včera stvrdil svým podpisem
 date: 2025-03-11T07:25:00
 vystupy:
   - tz
