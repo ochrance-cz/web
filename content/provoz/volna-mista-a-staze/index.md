@@ -4,8 +4,9 @@ linksAfter: []
 ---
 <h2>
 <strong>Volná místa</strong></h2>
-<p>Aktuálně hledáme právníka nebo právničku do týmu rovného zacházení a ochrany před diskriminací. Více informací najdete v 
-<a href="https://www.ochrance.cz/aktualne/hledame_pravnika_pravnicku_do_tymu_rovneho_zachazeni_a_ochrany_pred_diskriminaci/">inzerátu</a>.</p>
+<p>Nyní neprobíhá žádné výběrové řízení.</p>
+<p>Pokud se přesto chcete ucházet o místo, pošlete nám svůj životopis na adresu 
+<a href="mailto:lzicarova@ochrance.cz">lzicarova@ochrance.cz</a> a napište, o jakou práci máte zájem.</p>
 <p>
 <strong>Stáže pro studenty právnických fakult</strong></p>
 <p>Na stáž se můžete přihlásit přes svou právnickou fakultu v&nbsp;Brně, Olomouci a Praze. Pokud nevíte, koho ve škole oslovit, napište na adresu 
