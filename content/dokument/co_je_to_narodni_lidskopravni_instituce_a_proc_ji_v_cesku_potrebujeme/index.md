@@ -13,7 +13,8 @@ date: ""
 <strong>Máme ji v&nbsp;Česku?</strong></h3>
 <blockquote>
 <p>Zatím ne. Její roli plní částečně ombudsman. Zatím jenom 
-<i>někdy a někde</i>. NHRI by měla vzniknout 1. 7. 2025. Zákonodárci schválili novelu zákona o veřejném ochránci práv, kterou se zřizuje NHRI a dětský ombudsman.</p></blockquote>
+<i>někdy a někde</i>. NHRI vznikne 1. 7. 2025. Zákonodárci schválili novelu zákona o veřejném ochránci práv, kterou se zřizuje NHRI a dětský ombudsman. 
+<a href="https://www.ochrance.cz/aktualne/detsky_ombudsman_bude_prezident_to_dnes_stvrdil_svym_podpisem/">Novelu 10. 3. definitivně zpečetil podpisem prezident</a>.</p></blockquote>
 <h3>
 <strong>Proč ji potřebujeme?</strong></h3>
 <blockquote>
@@ -42,7 +43,7 @@ date: ""
 <h3>
 <strong>Ombudsman nechrání lidská práva?</strong></h3>
 <blockquote>
-<p>Chrání. Zákon mu to ale zatím neumožňuje, aby se jim věnoval v&nbsp;plném rozsahu. Novela zákona o veřejném ochránci práv nybde účinnosti 1. 7. 2025. V&nbsp;současnosti může ombudsman chránit lidská práva jen v&nbsp;některých oblastech a omezeně.</p></blockquote>
+<p>Chrání. Zákon mu to ale zatím neumožňuje, aby se jim věnoval v&nbsp;plném rozsahu. Novela zákona o veřejném ochránci práv bude účinná 1. 7. 2025. V&nbsp;současnosti může ombudsman chránit lidská práva jen v&nbsp;některých oblastech a omezeně.</p></blockquote>
 <h3>
 <strong>Jak tedy ombudsman chrání lidská práva teď?</strong></h3>
 <blockquote>
