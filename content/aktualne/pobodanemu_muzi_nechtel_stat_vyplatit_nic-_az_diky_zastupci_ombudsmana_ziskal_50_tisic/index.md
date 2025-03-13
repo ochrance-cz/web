@@ -4,10 +4,16 @@ title: Pobodanému muži nechtěl stát vyplatit nic. Až díky zástupci ombuds
 date: 2025-03-13T11:12:00
 vystupy:
   - tz
-perex: >-
-  <p>
-
-  <strong>Ministerstvo spravedlnosti odmítlo vyplatit peněžitou pomoc muži, který se stal obětí násilného trestného činu. Muž utrpěl těžké zranění poté, co ho cizí žena, kterou týž den náhodně poznal, úmyslně bodla do zad kuchyňským nožem. Vyžádalo si to převoz do nemocnice a okamžitou operaci. Soud ženu odsoudil pro zvlášť závažný zločin těžkého ublížení na zdraví a poslal ji za mříže. Muž se poté obrátil na Ministerstvo spravedlnosti s&nbsp;žádostí o peněžitou pomoc obětem trestných činů. To jeho žádost zamítlo. Dovodilo ze znaleckého posudku zpracovaného v&nbsp;trestním řízení, že muži nebyla způsobena těžká újma na zdraví ani mu nebylo ublíženo na zdraví. Ministerstvo muži vyhovělo až poté, co se obrátil na zástupce ombudsmana.&nbsp;</strong></p>
+perex: <p>Ministerstvo spravedlnosti odmítlo vyplatit peněžitou pomoc muži,
+  který se stal obětí násilného trestného činu. Muž utrpěl těžké zranění poté,
+  co ho cizí žena, kterou týž den náhodně poznal, úmyslně bodla do zad
+  kuchyňským nožem. Vyžádalo si to převoz do nemocnice a okamžitou operaci. Soud
+  ženu odsoudil pro zvlášť závažný zločin těžkého ublížení na zdraví a poslal ji
+  za mříže. Muž se poté obrátil na Ministerstvo spravedlnosti s&nbsp;žádostí o
+  peněžitou pomoc obětem trestných činů. To jeho žádost zamítlo. Dovodilo ze
+  znaleckého posudku zpracovaného v&nbsp;trestním řízení, že muži nebyla
+  způsobena těžká újma na zdraví ani mu nebylo ublíženo na zdraví. Ministerstvo
+  muži vyhovělo až poté, co se obrátil na zástupce ombudsmana.&nbsp;</p>
 attachments:
   - file: https://eso.ochrance.cz/Nalezene/Edit/12654
     title: Zpráva o šetření případu
