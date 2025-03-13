@@ -13,7 +13,7 @@ perex: <p>Ministerstvo spravedlnosti odmítlo vyplatit peněžitou pomoc muži,
   peněžitou pomoc obětem trestných činů. To jeho žádost zamítlo. Dovodilo ze
   znaleckého posudku zpracovaného v&nbsp;trestním řízení, že muži nebyla
   způsobena těžká újma na zdraví ani mu nebylo ublíženo na zdraví. Ministerstvo
-  muži vyhovělo až poté, co se obrátil na zástupce ombudsmana.&nbsp;</p>
+  muži vyhovělo až poté, co se obrátil na zástupce ombudsmana. &nbsp;</p>
 attachments:
   - file: https://eso.ochrance.cz/Nalezene/Edit/12654
     title: Zpráva o šetření případu
