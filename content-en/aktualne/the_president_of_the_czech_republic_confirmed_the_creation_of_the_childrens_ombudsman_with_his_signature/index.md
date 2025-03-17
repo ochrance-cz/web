@@ -2,6 +2,8 @@
 title: The President of the Czech Republic confirmed the creation of the
   Children's Ombudsman with his signature
 date: 2025-03-10T11:21:00
+vystupy:
+  - news
 perex: <p>Almost a year has passed since the Government submitted a proposal to
   amend the Ombudsman Act to the Parliament. It has now been sealed with the
   President's signature. The law will enter into force on 1 July 2025. Thus, the
