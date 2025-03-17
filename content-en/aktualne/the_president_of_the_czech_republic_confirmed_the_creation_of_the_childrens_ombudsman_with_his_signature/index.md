@@ -39,10 +39,12 @@ perex: <p>Almost a year has passed since the Government submitted a proposal to
 <p>The Ombudsman already works in this way in a number of areas. He helps to protect people deprived of their liberty (e.g. in prisons) or dependent on institutional care (e.g. in care home for the elderly) from ill-treatment. He addresses the situation of people with disabilities. He provides methodological assistance in the field of discrimination.&nbsp;</p>
 <p>However, the Ombudsman will now also deal with human rights in areas that were previously excluded from his remit. Examples include victims of crime, human rights related to the development of modern technologies (AI, digital exclusion), homelessness and housing affordability.</p>
 <p>The NHRI's mandate also entrusts the Ombudsman with tasks such as human rights awareness and education.</p>
-<p>The NHRI will also have an Advisory Council composed of scientific, academic and spiritual experts, representatives of civil society, national minorities and other social groups.</p>
+<p>The NHRI will also have an Advisory Council composed of scientific, academic and spiritual experts, representatives of civil society, national minorities and other social groups.</p></blockquote>
+<blockquote>
 <p>
 <strong>Functioning of National Human Rights institutions (NHRIs) abroad</strong></p>
-<p>The specific form of NHRIs varies from country to country. In some countries, there is a human rights commission; in others, a research institution monitors compliance with rights. Very often, even abroad,&nbsp;the functions of the NHRI are entrusted to an ombudsperson. Such a solution combines very well the independence of ombudspersons and their mission to protect human rights with the tasks of the NHRI. Such a solution is also advantageous in terms of financial costs.</p>
+<p>The specific form of NHRIs varies from country to country. In some countries, there is a human rights commission; in others, a research institution monitors compliance with rights. Very often, even abroad,&nbsp;the functions of the NHRI are entrusted to an ombudsperson. Such a solution combines very well the independence of ombudspersons and their mission to protect human rights with the tasks of the NHRI. Such a solution is also advantageous in terms of financial costs.</p></blockquote>
+<blockquote>
 <p>&nbsp;</p>
 <p>
 <strong>Who can become the Children's Ombudsman?</strong></p>
@@ -53,7 +55,8 @@ perex: <p>Almost a year has passed since the Government submitted a proposal to
 <p>integrity;</p>
 <p>at least 35 years of age;</p>
 <p>completed university education with a master's degree in law;</p>
-<p>at least 5 years of experience in the field of protection of children's rights in the last 10 years.</p>
+<p>at least 5 years of experience in the field of protection of children's rights in the last 10 years</p></blockquote>
+<blockquote>
 <p>&nbsp;</p>
 <p>
 <strong>Children's Ombudsman election</strong></p>
