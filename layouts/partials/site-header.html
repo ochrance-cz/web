@@ -27,7 +27,7 @@
 
     <div class="_collapsible-nav">
       <input type="checkbox" id="site-nav-toggle">
-      <label class="hide-nav nav-opener opener" for="site-nav-toggle" aria-haspopup="menu" aria-controls="site-nav" aria-expanded="true"></label>
+      <label role="button" class="hide-nav nav-opener opener" for="site-nav-toggle" aria-haspopup="menu" aria-controls="site-nav" aria-expanded="true"></label>
       <div class="box">
         <h3 class="title">
           <label tabindex="0" class="opener nav-opener" for="site-nav-toggle" aria-haspopup="menu" aria-controls="site-nav" aria-expanded="false">
@@ -39,7 +39,7 @@
           <ul>
             <input type="checkbox" id="help-checkbox">
             <li class="dropdown">
-              <label tabindex="0" class="dropdown-title opener keyboard-only-opener" for="help-checkbox" aria-haspopup="menu" aria-controls="help-dropdown" aria-expanded="false">
+              <label role="button" tabindex="0" class="dropdown-title opener keyboard-only-opener" for="help-checkbox" aria-haspopup="menu" aria-controls="help-dropdown" aria-expanded="false">
                 {{ i18n "need-help" }}
               </label>
               <ul class="dropdown-menu" role="menu" id="help-dropdown">
@@ -58,7 +58,7 @@
 
             <input type="checkbox" id="work-checkbox">
             <li class="dropdown">
-              <label tabindex="0" class="dropdown-title opener keyboard-only-opener" for="work-checkbox" aria-haspopup="menu" aria-controls="work-dropdown" aria-expanded="false">
+              <label role="button" tabindex="0" class="dropdown-title opener keyboard-only-opener" for="work-checkbox" aria-haspopup="menu" aria-controls="work-dropdown" aria-expanded="false">
                 {{ i18n "our-work" }}
               </label>
               <ul class="dropdown-menu" role="menu" id="work-dropdown">
