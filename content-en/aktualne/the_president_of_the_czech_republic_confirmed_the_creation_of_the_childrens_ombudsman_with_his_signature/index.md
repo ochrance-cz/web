@@ -45,7 +45,6 @@ perex: <p>Almost a year has passed since the Government submitted a proposal to
 <strong>Functioning of National Human Rights institutions (NHRIs) abroad</strong></p>
 <p>The specific form of NHRIs varies from country to country. In some countries, there is a human rights commission; in others, a research institution monitors compliance with rights. Very often, even abroad,&nbsp;the functions of the NHRI are entrusted to an ombudsperson. Such a solution combines very well the independence of ombudspersons and their mission to protect human rights with the tasks of the NHRI. Such a solution is also advantageous in terms of financial costs.</p></blockquote>
 <blockquote>
-<p>&nbsp;</p>
 <p>
 <strong>Who can become the Children's Ombudsman?</strong></p>
 <p>A natural person whose knowledge, experience and moral qualities are a prerequisite for the proper performance of his/her duties may be elected as the Children's Ombudsman.</p>
@@ -57,7 +56,6 @@ perex: <p>Almost a year has passed since the Government submitted a proposal to
 <p>completed university education with a master's degree in law;</p>
 <p>at least 5 years of experience in the field of protection of children's rights in the last 10 years</p></blockquote>
 <blockquote>
-<p>&nbsp;</p>
 <p>
 <strong>Children's Ombudsman election</strong></p>
 <p>The Children's Ombudsman is elected by the Chamber of Deputies for a term of 6 years. The Chamber chooses from 2 candidates proposed by the President, 2 candidates proposed by the Senate and 2 candidates proposed by a body of university representatives.</p></blockquote>
