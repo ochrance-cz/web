@@ -48,7 +48,7 @@ Ano, pokud mají průkaz ZTP nebo ZTP/P a současně jsou účastníky soudního
 
 ### Co je „přístupnost“ webu nebo mobilní aplikace?
 
-Web nebo mobilní aplikace jsou přístupné pro lidi se zrakovým a sluchovým postižením, pokud je mohou jednoduše ovládat a získat všechny informacemi, které obsahuje.
+Web nebo mobilní aplikace jsou přístupné pro lidi se zrakovým a sluchovým postižením, pokud je mohou jednoduše ovládat a získat všechny informace, které obsahuje.
 
 ### Co nejčastěji brání přístupnosti webu nebo mobilní aplikace?
 
