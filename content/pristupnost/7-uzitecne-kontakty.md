@@ -20,6 +20,7 @@ Pokud jste organizace, která poskytuje služby související s přístupností,
 | --- | --- |
 | Celá ČR | [Centrum zprostředkování tlumočení neslyšícím](https://cztn.cz/) |
 | Celá ČR | [Tichý svět – pobočka Tichá linka](https://www.tichalinka.cz/) |
+| Celá ČR | [Deaf Friendly](https://www.deaffriendly.cz/tlumoceni) |
 | Jihočeský kraj | [STŘEP, z.s.](https://www.tlumocenistrep.cz/) |
 | Jihomoravský kraj | [Unie neslyšících Brno, z.s.](https://www.unb.cz/ts-informace/) |
 | Jihomoravský kraj | [Centrum pro sluchově postižené Hodonínsko, o.p.s.](https://www.cpsphodoninsko.cz/sluzby/tlumocnicke-sluzby/) |
