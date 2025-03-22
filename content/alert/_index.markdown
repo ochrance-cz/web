@@ -1,8 +1,7 @@
 ---
-title: "Od 6. 1. 2025 aktualizujeme úřední hodiny osobního příjmu "
+title: Chtěli bychom Vás upozornit, že z důvodu výpadku elektřiny momentálně
+  nemusí správně fungovat e-mail a online formulář
 prefix: AKTUÁLNĚ
 active: false
 ---
-Z﻿ důvodu rekonstrukce a zhoršeného přístupu v Údolní ulici od nového roku **aktualizujeme úřední hodiny** **osobního příjmu**. Nově nás zastihnete vždy **pondělky a středy od 8 do 16 hodin**. Podatelna a infolinka bude k dispozici v pracovní dny od 8 do 16 hodin. 
-
-J﻿sme pro všechny přístupní také online cestami, pro podání podnětu doporučujeme využít elektronickou formu komunikace na e-mailové adrese podatelna@ochrance.cz či datovou schránku s ID jz5adky.
+V případě, že by se Vám nepodařilo nás kontaktovat prostřednictvím elektronického formuláře či e-mailu, můžete se na nás dočasně obrátit třeba prostřednictvím messengeru na [Facebooku](https://www.facebook.com/verejny.ochrance.prav) či podnět poslat poštou na adresu Údolní 39, 602 00 Brno.
