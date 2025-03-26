@@ -21,14 +21,15 @@ attachments:
   - title: Zpráva z návštěv věznic (2016)
     file: https://www.ochrance.cz/uploads-import/ESO/14-2014-NZ-Souhrnna_zprava_z_navstev_veznic.pdf
 ---
-<p>Připravovaná&nbsp;
+<p>Připravovaná&nbsp; 
 <a href="https://odok.cz/portal/veklep/material/KORND3QJZZZ3/">novela trestního zákoníku</a> je součástí legislativního plánu vlády a přináší zásadní změny, díky nimž by měl klesnout počet vězňů. Významným krokem k tomu je přehodnocení některých trestných činů a snížení ukládaných trestů, které bývají někdy v&nbsp;naprostém nepoměru k&nbsp;závažnosti postihované kriminality. 
 <i>„Nemá smysl posílat za mříže lidi, kteří se například opakovaně dopustili drobné krádeže či nezaplatili výživné. Zde by byl účinný jiný druh sankce, třeba pokuta, s&nbsp;čímž zmíněná novela počítá. Protože se tímto problémem a jeho důsledky zabýváme řadu let, jsem velmi rád, že konečně vidíme nějaký posun,“</i> uvedl zástupce ombudsmana Vít Alexander Schorm.&nbsp;</p>
 <p>Ombudsman Stanislav Křeček spolu s&nbsp;jeho zástupcem naposledy řešili problematiku vězeňství s&nbsp;ministrem spravedlnosti Pavlem Blažkem ve své kanceláři v&nbsp;dubnu 2024. Všichni se shodli, že je potřeba připravit a projednat novelu zákona tak, aby skutečně došlo ke snížení negativních jevů přeplněných věznic. 
 <i>„Musíme si uvědomit, že další nadužívání kapacit věznic s sebou nese příliš mnoho&nbsp;</i>rizik. 
 <i>Nemá tedy smysl přilévat oleje do ohně. Mnohdy zde nedojde ani k&nbsp;nápravě a převýchově vězně, což by mělo být primárním cílem odnětí svobody. Naopak, efekt pobytu je často opačný. Považuji proto za velmi důležité, aby poslanci stihli probrat novelu co nejdříve. Další plýtvání času bude stát zbytečné výdaje, které půjdou z&nbsp;kapes daňových poplatníků,“&nbsp;</i>uvedl ombudsman. S&nbsp;tím souvisí nedostatek personálu ve věznicích i nemožnost navýšit podlahovou kapacitu cel na jednoho vězně tak, aby to odpovídalo evropskému standardu.&nbsp;</p>
 <blockquote>
-<p>Jaké jsou konkrétní negativní dopady přeplněných vězení? (toto vždy dáváme na web do zelených rámečků, ve kterých vysvětlujeme například takto v&nbsp;bodech konkrétní příklady)</p>
+<p>
+<strong>Jaké jsou konkrétní negativní dopady přeplněných vězení?&nbsp;</strong></p>
 <ul>
 <li>Výkon trestu neplní účel převýchovy a nevede k&nbsp;nápravě či minimalizaci rizika recidivy po propuštění vězně</li>
 <li>Nedostatek personálu, vysoké nároky na personál</li>
