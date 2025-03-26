@@ -1,6 +1,8 @@
 ---
 title: Počet vězňů v Česku je alarmující, upozorňuje dlouhodobě ombudsman
 date: 2025-03-26T07:23:00
+vystupy:
+  - tz
 perex: <p>Poslanci by na plénu Sněmovny měli projednat novelu trestního
   zákoníku, která má odlehčit přeplněným věznicím. Na konci února byla přeplněná
   kapacita v&nbsp;celkem 16 z&nbsp;nich. Navíc Česká republika mezi evropskými
