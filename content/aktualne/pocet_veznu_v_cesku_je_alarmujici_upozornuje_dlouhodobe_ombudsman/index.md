@@ -5,9 +5,9 @@ vystupy:
   - tz
 perex: <p>Poslanci by na plénu Sněmovny měli projednat novelu trestního
   zákoníku, která má odlehčit přeplněným věznicím. Na konci února byla přeplněná
-  kapacita v&nbsp;celkem 16 z&nbsp;nich. Navíc Česká republika mezi evropskými
+  kapacita&nbsp;celkem v 16 z&nbsp;nich. Navíc Česká republika mezi evropskými
   státy dlouhodobě udržuje vrchní příčku s&nbsp;nejvyšším poměrem počtu vězňů na
-  obyvatele. Novelu zákonodárci minulý řešili na ústavně-právním výboru.
+  obyvatele. Novelu řešili zákonodárci minulý týden na ústavně-právním výboru.
   Ombudsman považuje za důležité ji co nejdříve projednat a schválit ještě
   v&nbsp;tomto volební období.</p>
 attachments:
