@@ -26,7 +26,7 @@ attachments:
 <i>„Problém není v&nbsp;tom, že by většina lidí neměla o přístupnost zájem, ale v&nbsp;tom, že si problém vůbec neuvědomuje. Je tedy na nás více problematiku vysvětlovat a propagovat. Nemyslím si, že by pak společnost s&nbsp;tvořením přístupnějšího prostředí, informací a služeb měla problém,“&nbsp;</i>řekl během jednání člen Martin Okáč.&nbsp;</p>
 <p>Další častá potíž spočívá v tom, že se ani u nově budovaných staveb nedodržují požadavky přístupnosti zakotvené v&nbsp;právních předpisech a technických normách. Po řádné kolaudaci tak budova nevyhovuje lidem s&nbsp;postižením. Ombudsman v&nbsp;nedávné době řešil například kauzu novostavby v&nbsp;Praze, kdy zhotovitel stavby postavil nevhodný nájezd pro kočárky či chybně provedl vyhrazená parkovací místa („dvojitá bariéra“ – schodky, výstupy do zeleně s&nbsp;betonovými prvky).</p>
 <p>Ombudsman již v&nbsp;minulosti provedl 
-<a href="https://www.ochrance.cz/uploads-import/ESO/32_2022_OZP_final.pdf">výzkum přístupnosti veřejných budov a služeb lidem s&nbsp;postižením</a>, na který nyní navázal návrhem doporučení. Na zasedání zástupce ombudsmana obojí představil a diskutoval s&nbsp;členy, kteří uplatnili své připomínky a praktické poznatky.
+<a href="https://www.ochrance.cz/uploads-import/ESO/32_2022_OZP_final.pdf">výzkum přístupnosti veřejných budov a služeb lidem s&nbsp;postižením</a>, na který nyní navázal návrhem doporučení. Na zasedání zástupce ombudsmana obojí představil a diskutoval s&nbsp;členy, kteří uplatnili své připomínky a praktické poznatky. 
 <i>„Odborníci nerozumí tomu, proč se například v&nbsp;doporučení objevují věci, které nejsou v&nbsp;žádném právním předpisu upravené. Je potřeba jim vysvětlit, že normy a předpisy neobsahují vše potřebné pro přístupné prostředí a že se na přístupnost, ale také doporučení musíme dívat jiným pohledem. A to pohledem článku 9 Úmluvy,“&nbsp;</i>připomínkovala Doporučení Nicole Fryčová.</p>
 <p>V&nbsp;návaznosti na projednávaná témata přijal poradní orgán 
 <a href="https://www.ochrance.cz/vystupy/poradni-organ-crpd/">usnesení</a>. V&nbsp;něm vyzývá ombudsmana k&nbsp;tomu, aby i nadále monitoroval naplňování právních požadavků na přístupnost, pokračoval v&nbsp;podpoře aktivního zapojení odborníků a nadále spolupracoval s&nbsp;lidmi s&nbsp;postižením.&nbsp;</p>
@@ -36,10 +36,10 @@ attachments:
 <p>
 <strong>Reálné příklady nepřístupnosti a toho, jak je důležitá nejen pro lidi s&nbsp;postižením, ale pro každého z&nbsp;nás.&nbsp;</strong></p>
 <ul>
-<li>Například když chybí lavičky, nemůže si na ně sednout člověk zažívající panický záchvat, ale ani člověk, který si potřebuje odpočinout. </li>
+<li>Například když chybí lavičky, nemůže si na ně sednout člověk zažívající panický záchvat, ale ani člověk, který si potřebuje odpočinout.</li>
 <li>Když chybí rampy, nevyjede po schodech ani člověk pohybující se na vozíku nebo maminka s&nbsp;kočárkem.</li>
-<li>Když se budou bezbariérová WC používat jako skladiště, nebude je moci využívat člověk s&nbsp;postižením, ale také nikdo jiný. Člověk s&nbsp;postižením pak nebude mít možnost vykonat důstojně základní lidskou potřebu a ostatní budou mít o jednu toaletu méně.</li></ul>
-<p>Klidovou zónu může využít stejně tak člověk na spektru autismu, který je přehlcený všemi vjemy, ale i ostatní lidé, kteří po dlouhém hektickém dni potřebují chvíli klidu.</p></blockquote>
+<li>Když se budou bezbariérová WC používat jako skladiště, nebude je moci využívat člověk s&nbsp;postižením, ale také nikdo jiný. Člověk s&nbsp;postižením pak nebude mít možnost vykonat důstojně základní lidskou potřebu a ostatní budou mít o jednu toaletu méně.</li>
+<li>Klidovou zónu může využít stejně tak člověk na spektru autismu, který je přehlcený všemi vjemy, ale i ostatní lidé, kteří po dlouhém hektickém dni potřebují chvíli klidu.</li></ul></blockquote>
 <blockquote>
 <p>
 <strong>Poradní orgán pro oblast práv lidí s postižením</strong></p>
@@ -50,13 +50,13 @@ attachments:
 <li>
 <strong>poskytuje</strong> ombudsmanovi 
 <strong>konzultace</strong> a&nbsp;praktické informace,</li>
-<li>podílí se&nbsp;na&nbsp;
+<li>podílí se&nbsp;na&nbsp; 
 <strong>připomínkování právních předpisů</strong> ombudsmanem a&nbsp;zaujímá stanoviska k&nbsp;jeho&nbsp;strategickým dokumentům týkajícím se&nbsp;práv lidí s&nbsp;postižením,</li>
 <li>
 <strong>získává podněty</strong> od&nbsp;lidí s&nbsp;postižením, organizací hájících jejich práva a&nbsp;od&nbsp;pečujících osob,</li>
 <li>
-<strong>zajišťuje informovanost</strong> lidí s&nbsp;postižením, organizací hájící jejich práva a&nbsp;široké veřejnosti o&nbsp;činnost ombudsmana v&nbsp;oblasti monitorování podle Úmluvy.
+<strong>zajišťuje informovanost</strong> lidí s&nbsp;postižením, organizací hájící jejich práva a&nbsp;široké veřejnosti o&nbsp;činnost ombudsmana v&nbsp;oblasti monitorování podle Úmluvy.&nbsp;
 <br>Poradní orgán má&nbsp;svůj 
-<a href="https://www.ochrance.cz/media/jednaci_rad_poradniho_organu.doc">Jednací řád</a> a&nbsp;
+<a href="https://www.ochrance.cz/media/jednaci_rad_poradniho_organu.doc">Jednací řád</a> a&nbsp; 
 <a href="https://www.ochrance.cz/media/statut_poradniho_organu.docx">Statut</a>. 
 <a href="https://www.ochrance.cz/vystupy/poradni-organ-crpd/">Výstupy </a>poradního orgánu jsou veřejné.</li></ul></blockquote>
