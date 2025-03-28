@@ -21,7 +21,7 @@ attachments:
     file: https://www.ochrance.cz/aktualne/poradni_organ_ombudsmana_pro_oblast_lidi_s_postizenim_se_dnes_venuje_pristupnosti_verejnych_budov_i_sluzeb/
 ---
 <p>
-<i>„Přístupnost nesouvisí pouze s&nbsp;fyzickým prostředím, ale také s možností dostat se k&nbsp;informacím, vzdělání, službám nebo zaměstnání. V&nbsp;dnešní době se nejedná o nic samozřejmého a týká se to každého z nás. Je to také jeden z&nbsp;prostředků pro zajištění rovnosti příležitosti pro všechny lidi. Abychom dosáhli co největší přístupnosti, musíme spolupracovat, pojmenovávat problémy a hledat společně řešení,“&nbsp;</i>uvedl zástupce ombudsmana Vít Alexander Schorm.&nbsp;</p>
+<i>„Přístupnost nesouvisí pouze s&nbsp;fyzickým prostředím, ale také s možností dostat se k&nbsp;informacím, vzdělání, službám nebo zaměstnání. V&nbsp;dnešní době se nejedná o nic samozřejmého a týká se to každého z nás. Je to také jeden z&nbsp;prostředků pro zajištění rovností příležitostí pro všechny lidi. Abychom dosáhli co největší přístupnosti, musíme spolupracovat, pojmenovávat problémy a hledat společně řešení,“&nbsp;</i>uvedl zástupce ombudsmana Vít Alexander Schorm.&nbsp;</p>
 <p>Přístupnost je setrvalý problém, o kterém se ve veřejném prostoru příliš nemluví. Členové poradního orgánu proto na toto téma vedli diskuzi a všichni se shodli, že je potřeba s&nbsp;touto problematikou více seznamovat společnost. 
 <i>„Problém není v&nbsp;tom, že by většina lidí neměla o přístupnost zájem, ale v&nbsp;tom, že si problém vůbec neuvědomuje. Je tedy na nás více problematiku vysvětlovat a propagovat. Nemyslím si, že by pak společnost s&nbsp;tvořením přístupnějšího prostředí, informací a služeb měla problém,“&nbsp;</i>řekl během jednání člen Martin Okáč.&nbsp;</p>
 <p>Další častá potíž spočívá v tom, že se ani u nově budovaných staveb nedodržují požadavky přístupnosti zakotvené v&nbsp;právních předpisech a technických normách. Po řádné kolaudaci tak budova nevyhovuje lidem s&nbsp;postižením. Ombudsman v&nbsp;nedávné době řešil například kauzu novostavby v&nbsp;Praze, kdy zhotovitel stavby postavil nevhodný nájezd pro kočárky či chybně provedl vyhrazená parkovací místa („dvojitá bariéra“ – schodky, výstupy do zeleně s&nbsp;betonovými prvky).</p>
@@ -55,8 +55,10 @@ attachments:
 <li>
 <strong>získává podněty</strong> od&nbsp;lidí s&nbsp;postižením, organizací hájících jejich práva a&nbsp;od&nbsp;pečujících osob,</li>
 <li>
-<strong>zajišťuje informovanost</strong> lidí s&nbsp;postižením, organizací hájící jejich práva a&nbsp;široké veřejnosti o&nbsp;činnost ombudsmana v&nbsp;oblasti monitorování podle Úmluvy.&nbsp;
+<p>
+<strong>zajišťuje informovanost</strong> lidí s&nbsp;postižením, organizací hájící jejich práva a&nbsp;široké veřejnosti o&nbsp;činnost ombudsmana v&nbsp;oblasti monitorování podle Úmluvy.&nbsp;&nbsp;</p>
+<p>
 <br>Poradní orgán má&nbsp;svůj 
 <a href="https://www.ochrance.cz/media/jednaci_rad_poradniho_organu.doc">Jednací řád</a> a&nbsp; 
 <a href="https://www.ochrance.cz/media/statut_poradniho_organu.docx">Statut</a>. 
-<a href="https://www.ochrance.cz/vystupy/poradni-organ-crpd/">Výstupy </a>poradního orgánu jsou veřejné.</li></ul></blockquote>
+<a href="https://www.ochrance.cz/vystupy/poradni-organ-crpd/">Výstupy </a>poradního orgánu jsou veřejné.</p></li></ul></blockquote>
