@@ -1,0 +1,52 @@
+{{ define "main" }}
+<main data-pagefind-body>
+  {{ partial "text-header.html" . }}
+  <div {{ with .Params.contentBackdrop }} class="{{ . }}"{{ end }}>
+    <section>
+      {{ with .Params.perex }}
+        <div class="perex">
+          {{ partial "md-block.html" . }}
+        </div>
+      {{ end }}
+
+      {{ with .Params.links }}
+        {{ partial "link-list.html" (dict "list" . "page" $) }}
+      {{ end }}
+
+    	{{ partial "md-block.html" .RawContent }}
+
+      {{ with .Params.linksAfter }}
+        {{ partial "link-list.html" (dict "list" . "page" $) }}
+      {{ end }}
+
+      {{ $path := .RelPermalink }}
+      <div class="_nas-pribeh-navigation">
+        {{ $chapters := ($.Site.GetPage "nas-pribeh").Params.chapters }}
+        {{- range $index, $val := $chapters -}}
+          {{ $curPath := print "/nas-pribeh/" (replaceRE "/index" "" $val.chapter) "/"}}
+          {{ if eq $path $curPath }}
+            {{ $before := index $chapters (sub $index 1) }}
+            {{ $after := index $chapters (add $index 1) }}
+
+            {{ with $before }}
+              {{ with $.GetPage (print "/nas-pribeh/" .chapter) }}
+                <a href="{{ .Permalink | absURL }}">{{ .Title }}</a>
+              {{ end }}
+            {{ else }}
+              {{ $page := $.GetPage "nas-pribeh" }}
+              <a href="{{ $page.Permalink | absURL }}">Kapitoly</a>
+            {{ end }}
+
+            {{ with $after }}
+              {{ with $.GetPage (print "/nas-pribeh/" .chapter) }}
+                <a href="{{ .Permalink | absURL }}">{{ .Title }}</a>
+              {{ end }}
+            {{ end }}
+
+          {{ end }}
+        {{- end -}}
+      </div>
+    </section>
+  </div>
+</main>
+{{ end }}

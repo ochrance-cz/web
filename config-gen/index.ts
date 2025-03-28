@@ -160,6 +160,12 @@ const stranky = files('Jiné', 'stranky', [
       string('E-mail', 'email '),
     ]),
   ]),
+  fileCollection('Pro média', 'pro-media', 'content/pro-media.md', [
+    title('Titulek'),
+    string('Podtitul', 'description'),
+    boolean('Uložit jako draft', 'draft'),
+    markdown('Obsah stránky', 'body'),
+  ]),
   fileCollection('Kontakty', 'kontakty', 'content/provoz/kontakty/index.md', [
     title('Titulek'),
     list('Sekce a odbory', 'sekce', 'sections', [title('Název'), markdown('Popis', 'intro')]),
@@ -222,6 +228,30 @@ const stranky = files('Jiné', 'stranky', [
     title('Titulek'),
     boolean('Uložit jako draft', 'draft'),
     markdown('Souhlas u newsletteru', 'consent'),
+  ]),
+  fileCollection('Náš příběh (Obsah)', 'nas-pribeh-toc', 'content/nas-pribeh/_index.markdown', [
+    title('Titulek'),
+    string('Podtitul', 'description'),
+    boolean('Uložit jako draft', 'draft'),
+    markdown('Text stránky', 'body'),
+    list(
+      'Kapitoly',
+      'kapitola',
+      'chapters',
+      [
+        relation('Kapitola', 'chapter', {
+          collection: 'nas-pribeh',
+          value_field: '{{slug}}',
+          display_fields: ['title'],
+          search_fields: ['title'],
+          multiple: false,
+          options_length: 100,
+        }),
+      ],
+      {
+        collapsed: false,
+      }
+    ),
   ]),
   fileCollection('Jak psát srozumitelně (Obsah)', 'srozumitelnetoc', 'content/srozumitelne/_index.markdown', [
     title('Titulek'),
@@ -709,6 +739,22 @@ const srozumitelne = folderCollection(
   [title('Titulek'), number('Číslo kapitoly', 'num'), markdown('Text', 'body')]
 );
 
+const nasPribeh = folderCollection(
+  'Náš příběh',
+  'kapitola',
+  'nas-pribeh',
+  {
+    folder: 'content/nas-pribeh',
+    preview_path: '/nas-pribeh/{{slug}}',
+    path: '{{slug}}/index',
+    extension: 'md',
+    create: true,
+    media_folder: '',
+    public_folder: 'https://www.ochrance.cz/nas-pribeh/{{slug}}',
+  },
+  [title('Titulek'), number('Číslo kapitoly', 'num'), markdown('Text', 'body')]
+);
+
 const situace = folderCollection(
   'Situace',
   'situace',
@@ -884,6 +930,7 @@ save('./static-preview/admin/config.yml', {
     projekty,
     eso,
     zpravodaj,
+    nasPribeh,
     srozumitelne,
     englishFiles(strankyEn),
     englishFolder(aktualne),

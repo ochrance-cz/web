@@ -1,0 +1,21 @@
+{{ define "main" }}
+<main>
+  {{ partial "text-header.html" . }}
+
+  <section>
+    {{ partial "md-block.html" .RawContent }}
+  </section>
+
+  <section>
+    <h2>Obsah</h2>
+    <ul class="_link-list">
+    {{ range .Params.chapters }}
+      {{ $chapter := $.Site.GetPage (print "nas-pribeh/" .chapter) }}
+      <li><a href="{{ $chapter.Permalink }}">{{ $chapter.Title }}</a></li>
+    {{ end }}
+    </ul>
+  </section>
+</main>
+{{ end }}
+
+

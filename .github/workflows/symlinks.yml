@@ -38,6 +38,7 @@ jobs:
             rm info
             rm info106
             rm kontakt
+            rm pro-media
             rm kontrola
             rm letaky
             rm manual
@@ -62,6 +63,7 @@ jobs:
             rm vzor
             rm media
             rm srozumitelne
+            rm nas-pribeh
             rm .htaccess
             ln -s www-prod/aktualne aktualne
             ln -s www-prod/alert alert
@@ -85,6 +87,7 @@ jobs:
             ln -s www-prod/info info
             ln -s www-prod/info106 info106
             ln -s www-prod/kontakt kontakt
+            ln -s www-prod/pro-media pro-media
             ln -s www-prod/kontrola kontrola
             ln -s www-prod/letaky letaky
             ln -s www-prod/manual manual
@@ -107,6 +110,7 @@ jobs:
             ln -s www-prod/vzdelavaci-akce vzdelavaci-akce
             ln -s www-prod/vzor vzor
             ln -s www-prod/srozumitelne srozumitelne
+            ln -s www-prod/nas-pribeh nas-pribeh
             ln -s www-prod/zpravodaj zpravodaj
             ln -s www-prod/zpravodaj-vse zpravodaj-vse
             ln -s www-prod/.htaccess .htaccess

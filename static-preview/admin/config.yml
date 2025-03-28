@@ -233,6 +233,37 @@ collections:
                 name: desc
                 required: false
                 widget: string
+      - label: Pro média
+        name: pro-media
+        file: content/pro-media.md
+        fields:
+          - label: Titulek
+            name: title
+            widget: string
+          - label: Podtitul
+            name: description
+            required: false
+            widget: string
+          - label: Uložit jako draft
+            name: draft
+            required: false
+            widget: boolean
+          - editor_components:
+              - image
+            buttons:
+              - bold
+              - italic
+              - link
+              - heading-two
+              - heading-three
+              - heading-four
+              - quote
+              - bulleted-list
+              - numbered-list
+            label: Obsah stránky
+            name: body
+            required: false
+            widget: markdown
       - label: Kontakt
         name: kontakt
         file: content/kontakt.md
@@ -623,6 +654,55 @@ collections:
             name: consent
             required: false
             widget: markdown
+      - label: Náš příběh (Obsah)
+        name: nas-pribeh-toc
+        file: content/nas-pribeh/_index.markdown
+        fields:
+          - label: Titulek
+            name: title
+            widget: string
+          - label: Podtitul
+            name: description
+            required: false
+            widget: string
+          - label: Uložit jako draft
+            name: draft
+            required: false
+            widget: boolean
+          - editor_components:
+              - image
+            buttons:
+              - bold
+              - italic
+              - link
+              - heading-two
+              - heading-three
+              - heading-four
+              - quote
+              - bulleted-list
+              - numbered-list
+            label: Text stránky
+            name: body
+            required: false
+            widget: markdown
+          - label: Kapitoly
+            name: chapters
+            required: false
+            label_singular: kapitola
+            widget: list
+            fields:
+              - label: Kapitola
+                name: chapter
+                required: false
+                widget: relation
+                collection: nas-pribeh
+                value_field: '{{slug}}'
+                display_fields:
+                  - title
+                search_fields:
+                  - title
+                multiple: false
+                options_length: 100
       - label: Jak psát srozumitelně (Obsah)
         name: srozumitelnetoc
         file: content/srozumitelne/_index.markdown
@@ -2142,6 +2222,43 @@ collections:
     media_folder: ''
     public_folder: 'https://www.ochrance.cz/zpravodaj/{{slug}}'
     preview_path: '/zpravodaj/{{slug}}'
+  - name: nas-pribeh
+    label: Náš příběh
+    label_singular: kapitola
+    folder: content/nas-pribeh
+    extension: md
+    editor:
+      preview: false
+    fields:
+      - label: Titulek
+        name: title
+        widget: string
+      - label: Číslo kapitoly
+        name: num
+        required: false
+        widget: number
+        value_type: int
+      - editor_components:
+          - image
+        buttons:
+          - bold
+          - italic
+          - link
+          - heading-two
+          - heading-three
+          - heading-four
+          - quote
+          - bulleted-list
+          - numbered-list
+        label: Text
+        name: body
+        required: false
+        widget: markdown
+    create: true
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: 'https://www.ochrance.cz/nas-pribeh/{{slug}}'
+    preview_path: '/nas-pribeh/{{slug}}'
   - name: srozumitelne
     label: Jak psát srozumitelně
     label_singular: kapitola
