@@ -5,11 +5,9 @@ date: 2025-03-31T16:33:00
 vystupy:
   - aktualita
 perex: >-
-  <ul>
+  <p>Přichází první jarní dny a s&nbsp;nimi také náš 
 
-  <li>Přichází první jarní dny a s&nbsp;nimi také náš 
-
-  <a href="https://www.ochrance.cz/zpravodaj/za_leden_a_unor_2025/">Zpravodaj ombudsmana</a>! V&nbsp;něm se opět dočtete, komu a jak jsme pomáhali v&nbsp;uplynulých dvou měsících. Reagovali jsme na podněty občanů z&nbsp;celé republiky, ale pomáhali jsme také z&nbsp;vlastní iniciativy. Upozornili jsme na chyby úřadů, zajistili doplatky rodičovských příspěvků, vyjasnili jsme také právní úpravu, navštěvovali zařízení či radili v&nbsp;diskriminačních věcech!&nbsp;</li></ul>
+  <a href="https://www.ochrance.cz/zpravodaj/za_leden_a_unor_2025/">Zpravodaj ombudsmana</a>! V&nbsp;něm se opět dočtete, komu a jak jsme pomáhali v&nbsp;uplynulých dvou měsících. Reagovali jsme na podněty občanů z&nbsp;celé republiky, ale pomáhali jsme také z&nbsp;vlastní iniciativy. Upozornili jsme na chyby úřadů, zajistili doplatky rodičovských příspěvků, vyjasnili jsme také právní úpravu, navštěvovali zařízení či radili v&nbsp;diskriminačních věcech!&nbsp;</p>
 
   <p>&nbsp;</p>
 attachments:
