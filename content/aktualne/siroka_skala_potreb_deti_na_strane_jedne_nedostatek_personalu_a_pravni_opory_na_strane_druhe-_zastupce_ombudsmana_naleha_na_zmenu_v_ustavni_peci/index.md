@@ -27,6 +27,7 @@ attachments:
 <p>Zástupce ombudsmana Vít Alexander Schorm vítá snahu Ministerstva školství reflektovat nálezy souhrnných zpráv: „ 
 <i>Veřejný ochránce práv i samotná zařízení upozorňují již řadu let na chybějící dlouhodobou koncepci systému ústavní a ochranné výchovy. Troufám si přitom říci, že se jedná o&nbsp;zásadní nedostatek, od něhož se odvíjejí další závažné problémy, s nimiž se systém potýká. Věřím, že dnešní setkání poslouží jako další impuls ke změnám, po kterých už dlouho voláme.“</i></p>
 <p>Zástupci Ministerstva školství v&nbsp;návaznosti na závěry souhrnných zpráv informovali o aktuálním dění v&nbsp;oblasti náhradní ústavní péče i o cíli pro rok 2026. Tím je představení systému služeb náhradní péče, které zabezpečí včasnou, adekvátní a dostupnou podporu dětem ohroženým umístěním do náhradní péče nebo dětem již umístěným.</p>
+<blockquote>
 <p>
 <strong>Jaký je rozdíl mezi ústavní a ochrannou výchovou?&nbsp;</strong></p>
 <p>
@@ -36,7 +37,7 @@ attachments:
 <strong>Ochranná výchova</strong> je druh trestní sankce. O jejím uložení rozhoduje soud pro mládež. Může ji za spáchané provinění uložit buď mladistvému, pokud není náležitě postaráno o jeho výchovu, a tento nedostatek není možné odstranit, případně jeho dosavadní výchova byla zanedbána, nebo prostředí, v němž žije, neposkytuje záruku náležité výchovy. Soud může uložit ochrannou výchovu také dětem mezi dvanácti a patnácti lety, které spáchaly čin jinak trestný. A to takový, za který dospělým hrozí výjimečný trest.&nbsp;
 <strong> </strong>Aby mohla být uložena ochranná výchova, musí takový krok být nezbytně nutný k zajištění řádné výchovy dítěte.&nbsp;
 <strong> </strong>Zároveň v&nbsp;případech těchto dětí nepostačují výchovná opatření.&nbsp;
-<strong> </strong>Vyžaduje-li to zájem mladistvého, může soud ochrannou výchovu prodloužit do dovršení jeho devatenácti let, což lze i ústavní výchovu. Ochrannou výchovu má v&nbsp;ČR uloženu přibližně 120 dětí. (Údaj je z&nbsp;roku 2024.)</p>
+<strong> </strong>Vyžaduje-li to zájem mladistvého, může soud ochrannou výchovu prodloužit do dovršení jeho devatenácti let, což lze i ústavní výchovu. Ochrannou výchovu má v&nbsp;ČR uloženu přibližně 120 dětí. (Údaj je z&nbsp;roku 2024.)</p></blockquote>
 <blockquote>
 <p>
 <strong>Jaké skupiny dětí jsou umisťovány do školských ústavních zařízení?</strong></p>
