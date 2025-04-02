@@ -19,6 +19,8 @@ attachments:
   - title: Tisková zpráva ze zasedání poradního orgánu v listopadu 2023 (hlavním
       tématem jednání byla také přístupnost)
     file: https://www.ochrance.cz/aktualne/poradni_organ_ombudsmana_pro_oblast_lidi_s_postizenim_se_dnes_venuje_pristupnosti_verejnych_budov_i_sluzeb/
+  - title: Zápis u 18. zasedání
+    file: https://www.ochrance.cz/dokument/zapis_z_18-_zasedani/
 ---
 <p>
 <i>„Přístupnost nesouvisí pouze s&nbsp;fyzickým prostředím, ale také s možností dostat se k&nbsp;informacím, vzdělání, službám nebo zaměstnání. V&nbsp;dnešní době se nejedná o nic samozřejmého a týká se to každého z nás. Je to také jeden z&nbsp;prostředků pro zajištění rovností příležitostí pro všechny lidi. Abychom dosáhli co největší přístupnosti, musíme spolupracovat, pojmenovávat problémy a hledat společně řešení,“&nbsp;</i>uvedl zástupce ombudsmana Vít Alexander Schorm.&nbsp;</p>
