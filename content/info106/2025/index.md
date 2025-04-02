@@ -53,6 +53,11 @@ title: "2025"
 <a href="https://www.ochrance.cz/uploads-import/Letaky/ELSP-formular-na-stiznost-III_15.pdf">Příloha 1</a></p>
 <p>
 <a href="https://www.ochrance.cz/vystupy/edice-stanoviska/Sbornik_Davky-pomoci-HN.pdf">Příloha 2</a></p>
+<h3>9/2025 – Informace z&nbsp;oblasti Diskriminace</h3>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/9_2025_zadost.pdf">Žádost o informace.</a></p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/9_2025_odpoved.odt">Odpověď na žádost,</a></p>
 <h3>10/2025 Informace z&nbsp;oblasti Vězeňství</h3>
 <p>
 <a href="https://www.ochrance.cz/info106/2025/10_2025_zadost.pdf">Žádost o informace</a>.</p>
