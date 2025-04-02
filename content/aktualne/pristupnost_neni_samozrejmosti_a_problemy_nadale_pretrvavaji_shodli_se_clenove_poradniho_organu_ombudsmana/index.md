@@ -20,7 +20,7 @@ attachments:
       tématem jednání byla také přístupnost)
     file: https://www.ochrance.cz/aktualne/poradni_organ_ombudsmana_pro_oblast_lidi_s_postizenim_se_dnes_venuje_pristupnosti_verejnych_budov_i_sluzeb/
   - title: Zápis z 18. zasedání
-    file: https://www.ochrance.cz/dokument/zapis_z_18-_zasedani/
+    file: https://www.ochrance.cz/aktualne/pristupnost_neni_samozrejmosti_a_problemy_nadale_pretrvavaji_shodli_se_clenove_poradniho_organu_ombudsmana/18._zasedani_po_strucny_zapis_brezen_2025_1_.docx
 ---
 <p>
 <i>„Přístupnost nesouvisí pouze s&nbsp;fyzickým prostředím, ale také s možností dostat se k&nbsp;informacím, vzdělání, službám nebo zaměstnání. V&nbsp;dnešní době se nejedná o nic samozřejmého a týká se to každého z nás. Je to také jeden z&nbsp;prostředků pro zajištění rovností příležitostí pro všechny lidi. Abychom dosáhli co největší přístupnosti, musíme spolupracovat, pojmenovávat problémy a hledat společně řešení,“&nbsp;</i>uvedl zástupce ombudsmana Vít Alexander Schorm.&nbsp;</p>
