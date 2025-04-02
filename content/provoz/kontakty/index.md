@@ -481,10 +481,6 @@ lawyers:
         role: právnička
         phone: 542 542 286
         email: adela.fredy@ochrance.cz
-      - name: Štěpán Jílka
-        role: právník
-        phone: 542 542 284
-        email: stepan.jilka@ochrance.cz
       - name: Jiří Matuška
         role: právník
         phone: 542 542 346
@@ -547,10 +543,6 @@ lawyers:
         role: "právnička "
         phone: 542 542 256
         email: romana.svecova@ochrance.cz
-      - name: Alena Nosková
-        phone: "542 542 273 "
-        email: "alena.noskova@ochrance.cz "
-        role: právnička
       - name: Karel Lach
         role: právník
         phone: 542 542 201
