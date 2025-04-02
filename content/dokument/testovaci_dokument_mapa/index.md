@@ -5,7 +5,7 @@ date: 2022-05-06T06:47:39.815Z
 <h3>Testovací nadpis</h3>
 <p>Tedy je text pod testovacím nadpisem</p>
 <p>Tady je odkaz na spodní část textu 
-<i>zde</i></p>
+<a href="#item-2-0">zde je odkaz</a></p>
 <p>Tady bude text před mapou</p>
 <h4>Mapa</h4>
 <p>Tady bude text pod mapou</p>
