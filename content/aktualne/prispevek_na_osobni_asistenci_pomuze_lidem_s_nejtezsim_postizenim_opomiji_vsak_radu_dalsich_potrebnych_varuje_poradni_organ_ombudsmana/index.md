@@ -22,10 +22,10 @@ attachments:
     file: https://www.ochrance.cz/pusobnost/monitorovani-prav-osob-se-zdravotnim-postizenim/
 ---
 <p>Navrhovaná novela je krok správným směrem, ale stále zapomíná na některé lidi s&nbsp;postižením. Týká se jen těch, kteří využívají osobní asistenci od 
-<a href="https://www.mpsv.cz/registr-poskytovatelu-sluzeb">registrovaných poskytovatelů</a>. Nevztahuje se ale na ty, kteří potřebují jinou formu pomoci – třeba jiné terénní sociální služby (např. podpora samostatného bydlení), podporu od blízkých nebo pomoc asistentů sociální péče.</p>
+<a href="https://www.mpsv.cz/registr-poskytovatelu-sluzeb">registrovaných poskytovatelů</a>. Nevztahuje se už ale na ty, kteří potřebují jinou formu pomoci – třeba jiné terénní sociální služby (např. podpora samostatného bydlení), podporu od blízkých nebo pomoc asistentů sociální péče.</p>
 <p>Nadto není zřejmé, jak stát v&nbsp;případě přijetí návrhu zajistí službu osobní asistence, v&nbsp;místech, kde poptávka přeroste kapacitu služeb.&nbsp;</p>
-<p>Zástupce ombudsmana Vít Alexander Schorm zdůraznil, že stát by měl přistoupit k&nbsp;reformě systému podpory osobní asistence s&nbsp;ohledem na práva lidí se zdravotním postižením: „ 
-<i>Považuji za nezbytné, aby systém&nbsp;respektoval svobodnou volbu péče a&nbsp;podpory a zároveň byl transparentní, spravedlivý a založený na zásadách rovnosti.“&nbsp;</i></p>
+<p>Zástupce ombudsmana Vít Alexander Schorm zdůraznil, že stát by měl přistoupit k&nbsp;reformě systému podpory osobní asistence s&nbsp;ohledem na práva lidí se zdravotním postižením: 
+<i>„Považuji za nezbytné, aby systém&nbsp;respektoval svobodnou volbu péče a&nbsp;podpory a zároveň byl transparentní, spravedlivý a založený na zásadách rovnosti.“&nbsp;</i></p>
 <p>Nové opatření se také jeví jako příliš úzce zaměřené. Neřeší celkovou reformu financování příspěvku na péči, která by zahrnula širší skupinu potřebných osob.</p>
 <p>Dlouhodobě se zvýšení vyhýbá příspěvku na péči pro lidi s&nbsp;nižšími stupni závislosti – v&nbsp;prvním stupni jde o 880 korun měsíčně. Nárok na něj získají lidé, kteří každodenně nezvládají alespoň 3 až 4 základní životní potřeby.</p>
 <p>
