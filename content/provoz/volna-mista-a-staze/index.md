@@ -9,7 +9,8 @@ linksAfter: []
 <a href="mailto:lzicarova@ochrance.cz">lzicarova@ochrance.cz</a> a napište, o jakou práci máte zájem.</p>
 <p>
 <strong>Stáže pro studenty právnických fakult</strong></p>
-<p>Na stáž se můžete přihlásit přes svou právnickou fakultu v&nbsp;Brně, Olomouci a Praze. Pokud nevíte, koho ve škole oslovit, napište kolegyni Haně Suské na adresu suska@ochrance.cz.</p>
+<p>Na stáž se můžete přihlásit přes svou právnickou fakultu v&nbsp;Brně, Olomouci a Praze. Pokud nevíte, koho ve škole oslovit, napište kolegyni Haně Suské na adresu 
+<a href="mailto:suska@ochrance.cz">suska@ochrance.cz</a>.</p>
 <h2>
 <strong>Jaký jsme zaměstnavatel?</strong></h2>
 <p>Jsme nároční a féroví:</p>
