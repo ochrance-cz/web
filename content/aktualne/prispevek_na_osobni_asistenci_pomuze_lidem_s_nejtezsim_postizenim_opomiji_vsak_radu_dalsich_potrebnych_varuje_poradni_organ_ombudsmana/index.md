@@ -21,7 +21,7 @@ attachments:
       postižením "
     file: https://www.ochrance.cz/pusobnost/monitorovani-prav-osob-se-zdravotnim-postizenim/
 ---
-<p>Navrhovaná novela je krok správným směrem, ale stále zapomíná na některé lidi s&nbsp;postižením. Týká se jen těch, kteří využívají osobní asistenci od 
+<p>Navrhovaná novela je krok správným směrem, ale stále zapomíná na některé lidi s&nbsp;postižením. Týká se jen těch, kteří využívají <a href="#osas">osobní asistenci</a> od 
 <a href="https://www.mpsv.cz/registr-poskytovatelu-sluzeb">registrovaných poskytovatelů</a>. Nevztahuje se už ale na ty, kteří potřebují jinou formu pomoci – třeba jiné terénní sociální služby (např. podpora samostatného bydlení), podporu od blízkých nebo pomoc asistentů sociální péče.</p>
 <p>Nadto není zřejmé, jak stát v&nbsp;případě přijetí návrhu zajistí službu osobní asistence, v&nbsp;místech, kde poptávka přeroste kapacitu služeb.&nbsp;</p>
 <p>Zástupce ombudsmana Vít Alexander Schorm zdůraznil, že stát by měl přistoupit k&nbsp;reformě systému podpory osobní asistence s&nbsp;ohledem na práva lidí se zdravotním postižením: 
@@ -37,7 +37,7 @@ attachments:
 <strong>Osobní asistenci</strong> je potřeba chápat v&nbsp;souladu s 
 <a href="https://osn.cz/wp-content/uploads/2022/08/Umluva_o_pravech_osob_se_ZP.pdf">Úmluvou o právech osob se zdravotním postižením</a>, jako individuálně přizpůsobenou formu podpory, která není omezena na jeden typ sociální služby, protože jedině tak může být skutečně účinným nástrojem umožňujícím lidem s postižením žít nezávislý život ve společnosti, jak garantuje článek 19 Úmluvy (Nezávislý způsob života a zapojení do společnosti).</p></blockquote>
 <blockquote>
-<p>
+<p id="osas">
 <strong>Osoba starší 18 let věku se považuje za závislou na pomoci jiné fyzické osoby ve:</strong></p>
 <p>&nbsp;a) stupni I (lehká závislost), jestliže z důvodu dlouhodobě nepříznivého zdravotního stavu není schopna zvládat tři nebo čtyři základní životní potřeby,</p>
 <p>&nbsp; b) stupni II (středně těžká závislost), jestliže z důvodu dlouhodobě nepříznivého zdravotního stavu není schopna zvládat pět nebo šest základních životních potřeb,</p>
