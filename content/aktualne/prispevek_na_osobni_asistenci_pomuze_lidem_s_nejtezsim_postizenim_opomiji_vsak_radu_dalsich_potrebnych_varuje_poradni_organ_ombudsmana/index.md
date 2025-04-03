@@ -33,11 +33,11 @@ attachments:
 <i> </i>Vít Alexander Schorm.</p>
 <p>Podobnými tématy se zástupce ombudsmana zabýval tento týden také na jednání Rady vlády pro osoby se zdravotním postižením</p>
 <blockquote>
-<p>
+<p id="osas">
 <strong>Osobní asistenci</strong> je potřeba chápat v&nbsp;souladu s 
 <a href="https://osn.cz/wp-content/uploads/2022/08/Umluva_o_pravech_osob_se_ZP.pdf">Úmluvou o právech osob se zdravotním postižením</a>, jako individuálně přizpůsobenou formu podpory, která není omezena na jeden typ sociální služby, protože jedině tak může být skutečně účinným nástrojem umožňujícím lidem s postižením žít nezávislý život ve společnosti, jak garantuje článek 19 Úmluvy (Nezávislý způsob života a zapojení do společnosti).</p></blockquote>
 <blockquote>
-<p id="osas">
+<p>
 <strong>Osoba starší 18 let věku se považuje za závislou na pomoci jiné fyzické osoby ve:</strong></p>
 <p>&nbsp;a) stupni I (lehká závislost), jestliže z důvodu dlouhodobě nepříznivého zdravotního stavu není schopna zvládat tři nebo čtyři základní životní potřeby,</p>
 <p>&nbsp; b) stupni II (středně těžká závislost), jestliže z důvodu dlouhodobě nepříznivého zdravotního stavu není schopna zvládat pět nebo šest základních životních potřeb,</p>
