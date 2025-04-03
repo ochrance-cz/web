@@ -4,18 +4,13 @@ title: Příspěvek na osobní asistenci pomůže lidem s nejtěžším postiže
 date: 2025-04-03T10:02:00
 vystupy:
   - tz
-perex: >-
-  <p>Lidé plně závislí na cizí pomoci by mohli podle připravované novely zákona
-  o sociálních službách získat příspěvek na osobní asistenci. Poradní orgán
-  ombudsmana pro oblast ochrany práv osob se zdravotním postižením zlepšení
-  jejich situace vítá. Zároveň však namítá, že podpora zohledňuje pouze úzkou
-  skupinu potřebných. Nezbytnost systémové podpory i dalších příjemců péče
+perex: <p>Lidé plně závislí na cizí pomoci by mohli podle připravované novely
+  zákona o sociálních službách získat příspěvek na osobní asistenci. Poradní
+  orgán ombudsmana pro oblast ochrany práv osob se zdravotním postižením
+  zlepšení jejich situace vítá. Zároveň však namítá, že podpora zohledňuje pouze
+  úzkou skupinu potřebných. Nezbytnost systémové podpory i dalších příjemců péče
   podpořil také zástupce ombudsmana Vít Alexander Schorm na úterním zasedání
   Rady vlády pro osoby se zdravotním postižením.&nbsp;</p>
-
-  <p>&nbsp;</p>
-
-  <p>&nbsp;</p>
 attachments:
   - title: Usnesení poradního orgánu k návrhu na zavedení příspěvku na osobní
       asistenci
