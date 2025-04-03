@@ -21,16 +21,16 @@ attachments:
       postižením "
     file: https://www.ochrance.cz/pusobnost/monitorovani-prav-osob-se-zdravotnim-postizenim/
 ---
-<p>Navrhovaná novela je krok správným směrem, ale stále zapomíná na některé lidi s&nbsp;postižením. Týká se jen těch, kteří využívají osobní asistenci od&nbsp;
+<p>Navrhovaná novela je krok správným směrem, ale stále zapomíná na některé lidi s&nbsp;postižením. Týká se jen těch, kteří využívají osobní asistenci od 
 <a href="https://www.mpsv.cz/registr-poskytovatelu-sluzeb">registrovaných poskytovatelů</a>. Nevztahuje se ale na ty, kteří potřebují jinou formu pomoci – třeba jiné terénní sociální služby (např. podpora samostatného bydlení), podporu od blízkých nebo pomoc asistentů sociální péče.</p>
 <p>Nadto není zřejmé, jak stát v&nbsp;případě přijetí návrhu zajistí službu osobní asistence, v&nbsp;místech, kde poptávka přeroste kapacitu služeb.&nbsp;</p>
-<p>Zástupce ombudsmana Vít Alexander Schorm zdůraznil, že stát by měl přistoupit k&nbsp;reformě systému podpory osobní asistence s&nbsp;ohledem na práva lidí se zdravotním postižením: „
+<p>Zástupce ombudsmana Vít Alexander Schorm zdůraznil, že stát by měl přistoupit k&nbsp;reformě systému podpory osobní asistence s&nbsp;ohledem na práva lidí se zdravotním postižením: „ 
 <i>Považuji za nezbytné, aby systém&nbsp;respektoval svobodnou volbu péče a&nbsp;podpory a zároveň byl transparentní, spravedlivý a založený na zásadách rovnosti.“&nbsp;</i></p>
 <p>Nové opatření se také jeví jako příliš úzce zaměřené. Neřeší celkovou reformu financování příspěvku na péči, která by zahrnula širší skupinu potřebných osob.</p>
 <p>Dlouhodobě se zvýšení vyhýbá příspěvku na péči pro lidi s&nbsp;nižšími stupni závislosti – v&nbsp;prvním stupni jde o 880 korun měsíčně. Nárok na něj získají lidé, kteří každodenně nezvládají alespoň 3 až 4 základní životní potřeby.</p>
 <p>
-<i>„Právě lidé s nižším stupněm závislosti často nedosáhnou na potřebnou pomoc a ohrožuje je riziko sociálního vyloučení. Navzdory inflaci a rostoucím nákladům nebyla výše těchto příspěvků od roku 2016 upravena. Opakovaně proto apelujeme na vládu a zákonodárce, aby byla výše příspěvku navýšena ve všech stupních, a především v těch nejnižších,“&nbsp;</i>říká
-<i>&nbsp;</i>Vít Alexander Schorm.</p>
+<i>„Právě lidé s nižším stupněm závislosti často nedosáhnou na potřebnou pomoc a ohrožuje je riziko sociálního vyloučení. Navzdory inflaci a rostoucím nákladům nebyla výše těchto příspěvků od roku 2016 upravena. Opakovaně proto apelujeme na vládu a zákonodárce, aby byla výše příspěvku navýšena ve všech stupních, a především v těch nejnižších,“&nbsp;</i>říká&nbsp;
+<i> </i>Vít Alexander Schorm.</p>
 <p>Podobnými tématy se zástupce ombudsmana zabýval tento týden také na jednání Rady vlády pro osoby se zdravotním postižením</p>
 <blockquote>
 <p>
@@ -58,7 +58,7 @@ attachments:
 <p>i) osobní aktivity,&nbsp;</p>
 <p>j) péče o domácnost.</p>
 <p>&nbsp;</p>
-<p>(
+<p>( 
 <a href="https://www.e-sbirka.cz/sb/2006/108?zalozka=text">viz také zákon o sociálních službách</a>)</p></blockquote>
 <blockquote>
 <p>
@@ -67,7 +67,7 @@ attachments:
 <li>880 Kč, jde-li o stupeň I (lehká závislost)</li>
 <li>4&nbsp;900 Kč, jde-li o stupeň II (středně těžká závislost),</li>
 <li>14&nbsp;800 Kč, jde-li o stupeň III (těžká závislost),</li>
-<li>ve stupni IV (úplná závislost) 
+<li>ve stupni IV (úplná závislost)
 <ul>
 <li>na částku 23&nbsp;000 Kč, pokud osobě poskytuje pomoc poskytovatel pobytových sociálních služeb podle § 48 až § 52, nebo</li>
 <li>na částku 27&nbsp;000 Kč v&nbsp;ostatních případech.</li></ul></li></ul>
