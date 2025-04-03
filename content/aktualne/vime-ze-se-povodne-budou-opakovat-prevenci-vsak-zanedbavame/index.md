@@ -39,12 +39,9 @@ perex: <p>Vyhlašování záplavových zón a jejich aktivních zón, společn�
 <p>
 <i>„Ve výkonu veřejné správy v&nbsp;oblasti ochrany před povodněmi postrádám koncový prvek spočívající v&nbsp;efektivní kontrole či&nbsp;dozoru nad činností veřejné správy. Ministerstvo životního prostředí by se nemělo omezovat na&nbsp;pouhou evidenci vyhlášených záplavových území a&nbsp;jejich aktivních zón, ale mělo by získaná data rovněž vyhodnocovat a&nbsp;s&nbsp;ohledem na&nbsp;veřejný zájem zajišťovat nápravu nedostatků,“</i> uzavírá zástupce ombudsmana.</p>
 <p>
-<img src="/uploads-import/uploads/RTEmagicC_povodnova-mapa-web.jpg.jpg" alt="" width="628" height="443"></p>
-<p>
-<i>Převzato z&nbsp;Povodňového informačního systému MŽP na&nbsp;</i>
+<i>Převzato z&nbsp;Povodňového informačního systému MŽP na&nbsp;</i> 
 <a href="http://www.povis.cz">
 <i>www.povis.cz</i></a>&nbsp;</p>
-<p>&nbsp;</p>
 <p>
 <a href="https://eso.ochrance.cz/Nalezene/Edit/2668">Zpráva o šetření</a></p>
 <p>Příloha k&nbsp;průběžné zprávě o&nbsp;šetření – 
