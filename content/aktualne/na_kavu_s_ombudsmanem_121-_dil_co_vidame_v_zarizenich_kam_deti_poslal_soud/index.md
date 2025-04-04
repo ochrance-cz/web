@@ -13,7 +13,7 @@ perex: <p>Spousta dětí je z&nbsp;rozhodnutí soudu umístěna do ústavní pé
 {{< youtube"bJp5bRqpk8A" >}}
 
 
-<p>Další díl bude na téma národní lidskoprávní instituce, kterou se budeme snažit představit.</p>
+<p>Další díl bude na téma přístupnost.</p>
 <p>Všechny dosud zveřejněné díly najdete na&nbsp; 
 <a href="https://www.youtube.com/playlist?list=PLWNv_IxgJdEKvV9-ZYu7VTxvc1SjDRb2i">Youtube</a>&nbsp;nebo na&nbsp; 
 <a href="https://open.spotify.com/show/0cUUj1UIaAu3hYzWgLNO6P?fbclid=IwAR2BbFgIdbE2Ke8LubN8m-iVR5KLLj0KsZH-Q96QqzpVYM1WVG3_NFuAel4">Spotify</a>.</p>
