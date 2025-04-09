@@ -6,7 +6,7 @@ Negativní formulace zamlžují sdělení a natahují text. Musíme si je v hlav
 
 {{% nevhodne %}}
 
-V této situaci není dodatečné povolení stavby krokem, který by nepovolenou stavbu vyřešil, ale krokem, který nepřinese urovnání sousedského sporu.
+V této situaci není dodatečné povolení stavby krokem, který by nepovolenou stavbu nevyřešil, ale krokem, který nepřinese urovnání sousedského sporu.
 
 {{% /nevhodne %}}
 
