@@ -13,11 +13,11 @@ perex: <p>Přístupnost souvisí s&nbsp;jednoduchou dostupností k&nbsp;prostře
 {{< youtube"8Y6ZU4F0VG8" >}}
 
 
-<p>V&nbsp;jarních měsících se můžete těšit také na další díly podcastu se speciálními hosty, které jsme pozvali při příležitosti výročí 25 let ombudsmana v ČR</p>
-<p>Všechny dosud zveřejněné díly najdete na&nbsp;
-<a href="https://www.youtube.com/playlist?list=PLWNv_IxgJdEKvV9-ZYu7VTxvc1SjDRb2i">Youtube</a>&nbsp;nebo na&nbsp; 
+<p>V&nbsp;jarních měsících se můžete těšit také na další díly podcastu se speciálními hosty, které jsme pozvali při příležitosti výročí 25 let ombudsmana v ČR.</p>
+<p>Všechny dosud zveřejněné díly najdete na 
+<a href="https://www.youtube.com/playlist?list=PLWNv_IxgJdEKvV9-ZYu7VTxvc1SjDRb2i">Youtube</a>&nbsp;nebo na 
 <a href="https://open.spotify.com/show/0cUUj1UIaAu3hYzWgLNO6P?fbclid=IwAR2BbFgIdbE2Ke8LubN8m-iVR5KLLj0KsZH-Q96QqzpVYM1WVG3_NFuAel4">Spotify</a>.</p>
-<p>Dále jsou podcasty dostupné na všech běžně používaných&nbsp; 
+<p>Dále jsou podcasty dostupné na všech běžně používaných 
 <a href="https://creators.spotify.com/pod/show/nakavusombudsmanem">podcastových aplikacích</a>.</p>
-<p>Máte-li návrh na témata, kterým bychom se mohli v našich podcastech věnovat, napište nám ho na e-mail&nbsp; 
+<p>Máte-li návrh na témata, kterým bychom se mohli v našich podcastech věnovat, napište nám ho na e-mail 
 <a href="mailto:podcasty@ochrance.cz">podcasty@ochrance.cz</a>.</p>
