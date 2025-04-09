@@ -209,9 +209,9 @@ twocols:
     right-1: může, až bude mít hotové úkoly
     left-2: nesmí vás být více než deset
     right-2: |-
-      musí vás být méně než deset
+      musí vás být méně než jedenáct
 
-      musí vás být nejvíce devět
+      musí vás být nejvíce deset
     left-3: nedrob!
     right-3: vezmi si talíř!
   - id: cesty
