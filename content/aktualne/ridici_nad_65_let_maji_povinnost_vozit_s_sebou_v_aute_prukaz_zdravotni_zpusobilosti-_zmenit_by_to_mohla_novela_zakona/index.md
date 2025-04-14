@@ -6,7 +6,7 @@ vystupy:
   - tz
 perex: <p>Na ombudsmana se obrátil řidič, kterému vadí, že musí v autě vozit
   průkaz o zdravotní způsobilosti. Tato povinnost se týká pouze řidičů nad 65
-  let. Jde přitom o jediný ze všech dokladů, které řidiči musí vozit s sebou.
+  let. Jde přitom o jediný ze všech dokladů, který řidiči musí vozit s sebou.
   Ostatní doklady, jako je řidičský průkaz, zelená karta, technický průkaz a
   další, jsou dostupné v registru řidičů, nebo je možné je předkládat v
   elektronické podobě. Lidé nad 65 let jsou proto jediní, kdo musí vozit průkaz
