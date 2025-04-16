@@ -4,26 +4,26 @@ situace:
   - other-situations
 file: EN-Labour-law.pdf
 attachments:
-  - title: german
+  - title: German
     file: labour-relations-and-labour-inspection-german.pdf
-  - title: polish
+  - title: Polish
     file: labour-relations-and-labour-inspection-polish.pdf
-  - title: ukrainian
+  - title: Ukrainian
     file: labour-relations-and-labour-inspection-ukrainian.pdf
-  - title: bulgarian
+  - title: Bulgarian
     file: labour-relations-and-labour-inspection-bulgarian.pdf
-  - title: slovenian
+  - title: Slovenian
     file: labour-relations-and-labour-inspection-slovenian.pdf
-  - title: french
+  - title: French
     file: labour-relations-and-labour-inspection-french.pdf
-  - title: italian
+  - title: Italian
     file: labour-relations-and-labour-inspection-italian.pdf
-  - title: spanish
+  - title: Spanish
     file: labour-relations-and-labour-inspection-spanish.pdf
-  - title: russian
+  - title: Russian
     file: labour-relations-and-labour-inspection-russian.pdf
-  - title: romanian
+  - title: Romanian
     file: labour-relations-and-labour-inspection-romanian.pdf
-  - title: croatian
+  - title: Croatian
     file: labour-relations-and-labour-inspection-croatian.pdf
 ---
