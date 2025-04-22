@@ -18,19 +18,22 @@ perex: <p>Již v&nbsp;minulosti ombudsman představil poslancům své výhrady k
 <p>Pokud některý z&nbsp;dospělých v domácnosti – například dospělý sourozenec – nepracuje, automaticky dochází ke ztrátě nároku bonusu na dítě. Na negativní dopady nové úpravy upozorňuje také řada neziskových organizací. 
 <i>„Nesouhlasím se způsobem, jakým chce stát uplatňovat sankci odebrání bonusu na dítě. Nedává smysl, aby se posuzovala pracovní aktivita u všech zletilých členů domácnosti. Obávám se proto, že by daná podoba mohla narazit u Ústavního soudu. S&nbsp;podobnými případy jsme se setkali již v&nbsp;minulosti,“</i> uvedl ombudsman Stanislav Křeček.</p>
 <blockquote>
-<p>Superdávka, nahradí dosavadní 4 dávky:</p>
+<p>
+<strong>Superdávka, nahradí dosavadní 4 dávky:</strong></p>
 <ul>
 <li>Přídavek na dítě</li>
 <li>Příspěvek na živobytí</li>
 <li>Příspěvek na bydlení</li>
 <li>Doplatek na bydlení</li></ul>
-<p>Superdávka v&nbsp;sobě bude mít 4 následující složky:</p>
+<p>
+<strong>Superdávka v&nbsp;sobě bude mít 4 následující složky:</strong></p>
 <ul>
 <li>Bonus na dítě</li>
 <li>Složka na živobytí</li>
 <li>Složka na bydlení</li>
 <li>Pracovní bonus</li></ul>
-<p>Celková výše dávek závisí na pracovní aktivitě dospělých členů domácnosti</p>
+<p>
+<strong>Celková výše dávek závisí na pracovní aktivitě dospělých členů domácnosti</strong></p>
 <p>Přídavek na dítě je v&nbsp;současné době dávkou určenou přímo dítěti. Pokud rodina splňuje příjmová kritéria (příjem do 3,4 násobku životního minima), dítěti vždy náleží alespoň přídavek v&nbsp;základní výměře. To je například 970 Kč pro dítě ve věku 14 let. Pokud alespoň jeden z&nbsp;rodičů pracuje nebo má příjem z&nbsp;důchodu či nemocenských dávek, přídavek na dítě se navyšuje o dalších 500 Kč.</p>
 <p>Bonus na dítě jako složka superdávky již není dávkou určenou přímo dítěti. Náleží celé domácnosti a je vyplácen osobě, která o superdávku žádala. Pokud některá z&nbsp;dospělých osob v&nbsp;domácnosti není pracovně aktivní, nenáleží bonus na dítě vůbec. V&nbsp;tom je nová úprava podstatně přísnější.</p></blockquote>
 <p>Ombudsman vítá, že zákon myslí také na zranitelné osoby, které kvůli věku, péči o dítě a další osoby nemohou pracovat. Těm se dávka navýší, aby pokryly náklady na bydlení. V&nbsp;případě seniorů je ale věková hranice 68 let příliš vysoká, proto ombudsman navrhoval snížení hranice na 65 let. 
