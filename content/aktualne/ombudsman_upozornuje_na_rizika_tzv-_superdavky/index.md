@@ -4,16 +4,16 @@ date: 2025-04-22T15:58:00
 vystupy:
   - tz
 perex: <p>Již v&nbsp;minulosti ombudsman představil poslancům své výhrady k tzv.
-  superdávce (dávka státní sociální pomoci), kterou se bude zabývat Senát. Změny
-  současného dávkového systému a sloučení několika dosavadních dávek do jedné
-  jsou krok správným směrem. Podmínky pro získání složek na bydlení a dítě však
-  ombudsman považuje za problematické, protože jsou v&nbsp;možném rozporu
-  s&nbsp;ústavním pořádkem. Pro jejich získání je totiž nutná pracovní aktivita
-  nejen rodičů, ale všech dospělých osob, které žijí v&nbsp;domácnosti. Na děti,
-  či jiné zranitelné členy rodiny, tak může negativně dopadnout chování jiných
-  osob v domácnosti, které nemohou nijak ovlivnit. Podobnou konstrukci,
-  založenou na kolektivní odpovědnosti, už Ústavní soud v&nbsp;minulosti
-  odmítl.&nbsp;</p>
+  superdávce (dávka státní sociální pomoci), kterou se bude aktuálně zabývat
+  Senát. Změny současného dávkového systému a sloučení několika dosavadních
+  dávek do jedné jsou krok správným směrem. Podmínky pro získání složek na
+  bydlení a dítě však ombudsman považuje za problematické, protože jsou
+  v&nbsp;možném rozporu s&nbsp;ústavním pořádkem. Pro jejich získání je totiž
+  nutná pracovní aktivita nejen rodičů, ale všech dospělých osob, které žijí
+  v&nbsp;domácnosti. Na děti, či jiné zranitelné členy rodiny, tak může
+  negativně dopadnout chování jiných osob v domácnosti, které nemohou nijak
+  ovlivnit. Podobnou konstrukci, založenou na kolektivní odpovědnosti, už
+  Ústavní soud v&nbsp;minulosti odmítl.&nbsp;</p>
 ---
 <p>Pokud některý z&nbsp;dospělých v domácnosti – například dospělý sourozenec – nepracuje, automaticky dochází ke ztrátě nároku bonusu na dítě. Na negativní dopady nové úpravy upozorňuje také řada neziskových organizací. 
 <i>„Nesouhlasím se způsobem, jakým chce stát uplatňovat sankci odebrání bonusu na dítě. Nedává smysl, aby se posuzovala pracovní aktivita u všech zletilých členů domácnosti. Obávám se proto, že by daná podoba mohla narazit u Ústavního soudu. S&nbsp;podobnými případy jsme se setkali již v&nbsp;minulosti,“</i> uvedl ombudsman Stanislav Křeček.</p>
