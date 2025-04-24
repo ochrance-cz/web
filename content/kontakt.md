@@ -1,6 +1,7 @@
 ---
 title: Jsme tu pro vás
-description: Na infolince nás zastihnete každý všední den 8.00–16.00 hod.
+description: Jsme tu pro vás každé pondělí a středu 8.00–16.00 hod. Na infolince
+  nás pak zastihnete každý všední den 8.00–16.00 hod.
 menuTitle: Kontakt
 phone: 542 542 888
 email: podatelna@ochrance.cz
