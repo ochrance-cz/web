@@ -4,10 +4,11 @@ title: Bezlepkový pokrm nebo oběd z vlastní krabičky? Ombudsman apeluje na
 date: 2025-04-24T12:54:00
 vystupy:
   - tz
-perex: >-
-  <p>
-
-  <strong>Ministerstvo školství připravuje novelu vyhlášky o školním stravování. Ombudsman oceňuje, že navrhovaná změna zohledňuje situaci dětí, které mají ze zdravotních nebo jiných vážných důvodů specifické stravovací potřeby. Zároveň se ale v&nbsp;připomínkovém řízení obrací na ministerstvo s&nbsp;dalšími návrhy, které na základě jeho poznatků prospějí strávníkům.&nbsp;</strong></p>
+perex: <p>Ministerstvo školství připravuje novelu vyhlášky o školním stravování.
+  Ombudsman oceňuje, že navrhovaná změna zohledňuje situaci dětí, které mají ze
+  zdravotních nebo jiných vážných důvodů specifické stravovací potřeby. Zároveň
+  se ale v&nbsp;připomínkovém řízení obrací na ministerstvo s&nbsp;dalšími
+  návrhy, které na základě jeho poznatků prospějí strávníkům.&nbsp;</p>
 attachments:
   - title: "Připomínky ombudsmana k návrhu novely vyhlášky o školním stravování "
     file: https://eso.ochrance.cz/Nalezene/Edit/13596
