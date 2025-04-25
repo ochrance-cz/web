@@ -7,7 +7,7 @@ email:
   - desc: Podnět ombudsmanovi – jen k tisku a vyplnění rukou
     link: /media/formular-podnet-tisk.pdf
   - link: /media/formular_-_podnet.docx
-    desc: " Podnět ombudsmanovi – k vyplnění na počítači"
+    desc: Podnět ombudsmanovi – k vyplnění na počítači
   - link: /media/formular_-_podnet_-_diskriminace_-_tisk.pdf
     desc: Podnět ombudsmanovi kvůli diskriminaci – jen k tisku a vyplnění rukou
   - desc: Podnět ombudsmanovi kvůli diskriminaci – k vyplnění na počítači
@@ -25,7 +25,7 @@ inperson:
   - link: /media/formular-podnet-tisk.pdf
     desc: Podnět ombudsmanovi – jen k tisku a vyplnění rukou
   - link: /media/formular_-_podnet.docx
-    desc: " Podnět ombudsmanovi – k vyplnění na počítači"
+    desc: Podnět ombudsmanovi – k vyplnění na počítači
   - link: /media/formular_-_podnet_-_diskriminace_-_tisk.pdf
     desc: Podnět ombudsmanovi kvůli diskriminaci – jen k tisku a vyplnění rukou
   - desc: Podnět ombudsmanovi kvůli diskriminaci – k vyplnění na počítači
