@@ -11,7 +11,7 @@ perex: <p>V&nbsp;letošním roce slavíme výročí 25 let ombudsmana v&nbsp;Če
   ombudsmanovi Stanislavu Křečkovi a jeho zástupci Vítu Alexandru
   Schormovi.&nbsp;</p>
 ---
-{{< youtube"v=B3FBt_2M8eQ" >}}
+{{< youtube"B3FBt_2M8eQ?si=v3p_HnqIx9VZ12Wu" >}}
 
 
 <p>Připravujeme pro vás další díly podcastu k&nbsp;výročí, ve kterém uslyšíte předsedu Ústavního soudu JUDr. Josefa Baxu či soudkyni Evropského soudu pro lidská práva JUDr. Kateřinu Šimáčkovou, Ph.D.</p>
