@@ -3,6 +3,8 @@ title: Česká správa sociálního zabezpečení (ČSSZ) ani po zásahu ombudsm
   nedoplatila důchod ženě, která pracovala v zahraničí. Podobných případů může
   být mnoho, varuje ombudsman
 date: 2025-05-06T12:29:00
+vystupy:
+  - tz
 perex: <p>Žena měla podezření, že v&nbsp;důsledku dřívější práce mimo Česko
   dostává menší důchod, než by měla. ČSSZ se dopustila pochybení, když použila
   k&nbsp;výpočtu starou metodu tzv. vyloučených dob a žena tak roky přicházela o
