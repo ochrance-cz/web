@@ -14,7 +14,7 @@ perex: <p>Lidé plně závislí na cizí pomoci by mohli podle připravované no
 attachments:
   - title: Usnesení poradního orgánu k návrhu na zavedení příspěvku na osobní
       asistenci
-    file: https://www.ochrance.cz/dokument/usneseni_k_prispevku_na_osobni_asistenci/usneseni_2025_18_k_prispevku_na_osobni_asistenci.pdf
+    file: https://www.ochrance.cz/aktualne/prispevek_na_osobni_asistenci_pomuze_lidem_s_nejtezsim_postizenim_opomiji_vsak_radu_dalsich_potrebnych_varuje_poradni_organ_ombudsmana/usneseni_2025_18_k_prispevku_na_osobni_asistenci.pdf
   - title: Novela zákona o sociálních službách
     file: https://www.psp.cz/sqw/historie.sqw?o=9&t=796
   - title: "Podrobné informace o Poradním orgánu ombudsmana pro oblast práv lidí s
