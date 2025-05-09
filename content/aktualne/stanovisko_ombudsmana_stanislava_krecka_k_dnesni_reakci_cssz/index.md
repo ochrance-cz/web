@@ -40,12 +40,12 @@ attachments:
 <strong> </strong>Výjimka pro metodu vyloučených dob nebyla zakotvena.</p>
 <p>Nejvyšší správní soud v&nbsp;minulosti označil metodu vyloučených dob za odpovídající nařízení 1408/71. Domnívám se však, že byl rovněž výrazně ovlivněn dlouhodobou správní praxí a neuvědomil si, že ta neodpovídá požadavku zakotvenému nařízení 1408/71. Nepožádal ani o zodpovězení předběžné otázky Soudní dvůr EU. Místo toho dal ČSSZ na výběr, zda v&nbsp;konkrétním případě použije metodu vyloučených dob nebo průměrných výdělků. Obě metody považoval za rovnocenné.&nbsp;</p>
 <p>
-<strong>Tyto metody však rovnocenné nejsou.</strong> Každá z&nbsp;nich vede k&nbsp;určení jiné výše důchodu. Rozdíl mezi nimi tkví v&nbsp;tom, že metoda vyloučených dob má neutrální vliv na výši českého důchodu, zatímco
+<strong>Tyto metody však rovnocenné nejsou.</strong> Každá z&nbsp;nich vede k&nbsp;určení jiné výše důchodu. Rozdíl mezi nimi spočívá v&nbsp;tom, že metoda vyloučených dob má neutrální vliv na výši českého důchodu, zatímco
 <strong> metoda zápočtu průměrného výdělku důchod navyšuje</strong>. Je pro pojištěnce výhodnější, protože vede k&nbsp;přiznání vyššího českého důchodu. Ochránce od roku 2009 zatím neřešil ani jediný případ, v&nbsp;němž by byla metoda vyloučených dob pro důchodce výhodnější, než metoda započítávání průměrných výdělků.&nbsp;</p>
 <p>
 <strong>Proto jsem konstatoval,&nbsp;že ČSSZ pochybila, když při výpočtu výše důchodu ženy v&nbsp;roce 2007 použila metodu vyloučených dob, namísto průměrných indexových výdělků</strong> (průměrná mzda v&nbsp;době, kdy žena pracovala v&nbsp;zahraničí). Žena tak dostávala roky nižší důchod, než měla.&nbsp;</p>
 <p>V&nbsp;únoru 2009 MPSV vydalo metodický pokyn, kterým usměrnilo činnost ČSSZ a uložilo jí, aby důchody dle evropských předpisů počítala s&nbsp;dosazením průměrných indexovaných výdělků. Tato metoda plně odpovídá požadavku evropského práva.&nbsp;</p>
-<p>Od této doby tedy ČSSZ používá při výpočtu výše důchodů tento pro pojištěnce výhodnější postup.&nbsp;</p>
+<p>Od této doby tedy ČSSZ používá při výpočtu výše důchodů tento postup, který je pro pojištěnce výhodnější.&nbsp;</p>
 <p>V&nbsp;únoru 2009 ČSSZ měla na základě změny správní praxe vyhledat důchodce, jimž důchod přiznala dříve a přepočítat jejich důchody. 
 <strong>ČSSZ má povinnost poskytovat důchodcům nejvyšší možnou částku důchodu, na niž mají právo.</strong> Zároveň je povinna z&nbsp;úřední povinnosti kontrolovat svůj postup v&nbsp;jednotlivých věcech, a pokud zjistí chybu v&nbsp;neprospěch důchodce, okamžitě ji napravit a doplatit mu důchod ve správné výši.&nbsp;</p>
 <p>
