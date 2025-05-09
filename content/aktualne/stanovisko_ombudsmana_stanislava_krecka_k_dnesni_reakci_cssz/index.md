@@ -4,11 +4,24 @@ date: 2025-05-09T18:51:00
 vystupy:
   - aktualita
 perex: >-
-  <p>Chci se v&nbsp;následujících bodech vymezit proti reakci,&nbsp;
+  <p>Chci se v&nbsp;následujících bodech vymezit proti reakci,&nbsp; 
 
   <a href="https://www.cssz.cz/web/cz/-/na-pravou-miru-reakce-na-informace-zverejnene-verejnym-ochrancem-prav">kterou dnes vydala ČSSZ</a>. 
 
-  <strong>Informace, které jsme dne 6. května 2025 zveřejnili v&nbsp;tiskové zprávě, jsou pravdivé.</strong> Zakládají se na odborném šetření a posouzení souladu postupu ČSSZ s&nbsp;evropským právem.&nbsp;</p>
+  <strong>Informace, které jsme dne 6. května 2025 zveřejnili v&nbsp;</strong>
+
+  <a href="https://www.ochrance.cz/aktualne/ceska_sprava_socialniho_zabezpeceni_cssz_ani_po_zasahu_ombudsmana_nedoplatila_duchod_zene_ktera_pracovala_v_zahranici-_podobnych_pripadu_muze_byt_mnoho_varuje_ombudsman/">
+
+  <strong>tiskové zprávě</strong></a>
+
+  <strong>, jsou pravdivé.</strong> Zakládají se na odborném šetření a posouzení souladu postupu ČSSZ s&nbsp;evropským právem.&nbsp;</p>
+attachments:
+  - file: https://www.ochrance.cz/aktualne/ceska_sprava_socialniho_zabezpeceni_cssz_ani_po_zasahu_ombudsmana_nedoplatila_duchod_zene_ktera_pracovala_v_zahranici-_podobnych_pripadu_muze_byt_mnoho_varuje_ombudsman/
+    title: "Sankční tisková zpráv ze dne 6. května 2025: Česká správa sociálního
+      zabezpečení (ČSSZ) ani po zásahu ombudsmana nedoplatila důchod ženě, která
+      pracovala v zahraničí. Podobných případů může být mnoho, varuje ombudsman"
+  - title: Reakce ČSSZ na naši sankční tiskovou zprávu
+    file: https://www.cssz.cz/web/cz/-/na-pravou-miru-reakce-na-informace-zverejnene-verejnym-ochrancem-prav
 ---
 <h4>
 <strong>Protiprávnost postupu ČSSZ</strong></h4>
