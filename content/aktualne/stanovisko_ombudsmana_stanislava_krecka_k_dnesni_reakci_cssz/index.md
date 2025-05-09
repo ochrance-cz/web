@@ -30,18 +30,18 @@ attachments:
 <strong>povinnost</strong>, aby při výpočtu důchodů s&nbsp;evropským prvkem určila příjmy za doby pojištění získané v jiných členských státech 
 <strong>z průměrných příjmů pojištěnce získaných podle českých předpisů.</strong></p>
 <p>
-<strong>Naopak použití metody vylučování dob pojištění získaných v&nbsp;jiných členských státech EU, právo EU vůbec neupravovalo.</strong></p>
+<strong>Naopak, použití metody vylučování dob pojištění získaných v&nbsp;jiných členských státech EU, právo EU vůbec neupravovalo.</strong></p>
 <p>Je-li jedna metoda výpočtu důchodu evropským právem upravena a druhá nikoliv, je 
-<strong>ČSSZ povinna aplikovat metodu evropským právem upravenou.</strong>&nbsp;</p>
+<strong>ČSSZ povinna aplikovat metodu upravenou evropským právem.</strong>&nbsp;</p>
 <p>Navíc 
 <strong>nařízení vydaná orgány Evropské unie mají vždy aplikační přednost před českými vnitrostátními předpisy</strong> a před ustálenou správní praxí.&nbsp;</p>
-<p>ČSSZ byla tedy již od 1. 5. 2004 povinna přednostně používat postup při výpočtu důchodu zakotvený v&nbsp;nařízení 1408/71 před postupem upraveným ve vnitrostátních předpisech. Použití metody vyloučených dob však nebylo žádným vnitrostátním předpisem upraveno. ČSSZ v&nbsp;letech 2004 - 2009 doby pojištění získané v&nbsp;jiných členských státech EU vylučovala na základě předchozí dlouholeté správní praxe založené na používání dvoustranných mezinárodních smluv o sociálním zabezpečení.</p>
+<p>ČSSZ byla tedy již od 1. 5. 2004 povinna přednostně používat postup při výpočtu důchodu zakotvený v&nbsp;nařízení 1408/71 před postupem upraveným ve vnitrostátních předpisech. Použití metody vyloučených dob však nebylo žádným vnitrostátním předpisem upraveno. ČSSZ v&nbsp;letech 2004–⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠2009 doby pojištění získané v&nbsp;jiných členských státech EU vylučovala na základě předchozí dlouholeté správní praxe založené na používání dvoustranných mezinárodních smluv o sociálním zabezpečení.</p>
 <p>Od 1. 5. 2004 se však již dvoustranné smlouvy o sociálním zabezpečení uzavřené mezi ČR a jinými členskými státy nemohly používat (až na výslovné výjimky zakotvené v&nbsp;nařízení 1408/71).
 <strong> </strong>Výjimka pro metodu vyloučených dob nebyla zakotvena.</p>
 <p>Nejvyšší správní soud v&nbsp;minulosti označil metodu vyloučených dob za odpovídající nařízení 1408/71. Domnívám se však, že byl rovněž výrazně ovlivněn dlouhodobou správní praxí a neuvědomil si, že ta neodpovídá požadavku zakotvenému nařízení 1408/71. Nepožádal ani o zodpovězení předběžné otázky Soudní dvůr EU. Místo toho dal ČSSZ na výběr, zda v&nbsp;konkrétním případě použije metodu vyloučených dob nebo průměrných výdělků. Obě metody považoval za rovnocenné.&nbsp;</p>
 <p>
-<strong>Tyto metody však rovnocenné nejsou</strong>, každá z&nbsp;nich vede k&nbsp;určení jiné výše důchodu. Rozdíl mezi nimi tkví, jednoduše řečeno, v&nbsp;tom, že metoda vyloučených dob má neutrální vliv na výši českého důchodu, 
-<strong>kdežto metoda zápočtu průměrného výdělku důchod navyšuje</strong>. Je pro pojištěnce výhodnější, protože vede k&nbsp;přiznání vyššího českého důchodu. Ochránce od roku 2009 zatím neřešil ani jediný případ, v&nbsp;němž by byla metoda vyloučených dob pro důchodce výhodnější, než metoda započítávání průměrných výdělků.&nbsp;</p>
+<strong>Tyto metody však rovnocenné nejsou.</strong> Každá z&nbsp;nich vede k&nbsp;určení jiné výše důchodu. Rozdíl mezi nimi tkví v&nbsp;tom, že metoda vyloučených dob má neutrální vliv na výši českého důchodu, zatímco
+<strong> metoda zápočtu průměrného výdělku důchod navyšuje</strong>. Je pro pojištěnce výhodnější, protože vede k&nbsp;přiznání vyššího českého důchodu. Ochránce od roku 2009 zatím neřešil ani jediný případ, v&nbsp;němž by byla metoda vyloučených dob pro důchodce výhodnější, než metoda započítávání průměrných výdělků.&nbsp;</p>
 <p>
 <strong>Proto jsem konstatoval,&nbsp;že ČSSZ pochybila, když při výpočtu výše důchodu ženy v&nbsp;roce 2007 použila metodu vyloučených dob, namísto průměrných indexových výdělků</strong> (průměrná mzda v&nbsp;době, kdy žena pracovala v&nbsp;zahraničí). Žena tak dostávala roky nižší důchod, než měla.&nbsp;</p>
 <p>V&nbsp;únoru 2009 MPSV vydalo metodický pokyn, kterým usměrnilo činnost ČSSZ a uložilo jí, aby důchody dle evropských předpisů počítala s&nbsp;dosazením průměrných indexovaných výdělků. Tato metoda plně odpovídá požadavku evropského práva.&nbsp;</p>
