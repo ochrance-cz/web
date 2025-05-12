@@ -4,9 +4,8 @@ linksAfter: []
 ---
 <h2>
 <strong>Volná místa</strong></h2>
-<p>Nyní neprobíhá žádné výběrové řízení.</p>
-<p>Pokud se přesto chcete ucházet o místo, pošlete nám svůj životopis na adresu 
-<a href="mailto:lzicarova@ochrance.cz">lzicarova@ochrance.cz</a> a napište, o jakou práci máte zájem.</p>
+<p>Aktuálně hledáme právníka nebo právničku v&nbsp;oblasti ochrany práv dětí. Více informací naleznete v&nbsp;
+<a href="https://www.ochrance.cz/aktualne/hledame_pravnika_ci_pravnicku_pro_oblast_ochrany_prav_deti/">inzerátu</a>.&nbsp;</p>
 <p>
 <strong>Stáže pro studenty právnických fakult</strong></p>
 <p>Na stáž se můžete přihlásit přes svou právnickou fakultu v&nbsp;Brně, Olomouci a Praze. Pokud nevíte, koho ve škole oslovit, napište kolegyni Haně Suské na adresu 
