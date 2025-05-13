@@ -1,5 +1,5 @@
 ---
-title: Podnět inspekci práce
+title: Podnět inspekci práce kvůli diskriminaci
 slug: podnet-inspekci-prace
 situace:
   - formulare
