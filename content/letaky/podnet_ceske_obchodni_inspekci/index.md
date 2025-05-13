@@ -1,5 +1,5 @@
 ---
-title: Podnět České obchodní inspekci
+title: Podnět České obchodní inspekci kvůli diskriminaci
 slug: podnet-ceske-obchodni-inspekci
 situace:
   - formulare
