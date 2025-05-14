@@ -67,6 +67,60 @@ title: "2025"
 <a href="https://www.ochrance.cz/media/formular-podnet-tisk.pdf">Příloha 1</a></p>
 <p>
 <a href="https://www.ochrance.cz/vystupy/edice-stanoviska/Sbornik_Vezenstvi_II.pdf">Příloha 2</a>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<h3>11/2025 – Informace ke spisu z&nbsp;oblasti Správa na úseku zaměstnanosti</h3>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/11_2025_zadost.pdf">Žádost o informace.</a></p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/11_2025_odpoved.odt">Odpověď na žádost.</a></p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/11_2025_odpoved_priloha1.pdf">Příloha 1.</a></p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/11_2025_odpoved_priloha2.pdf">Příloha 2.</a></p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/11_2025_odpoved_priloha3.pdf">Příloha 3.</a></p>
+<h3>12/2025 – Informace k&nbsp;nahlížení do registru obyvatel</h3>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/12_2025_zadost.pdf">Žádost o informace.</a></p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/12_2025_odpoved.odt">Odpověď na žádost.</a></p>
+<h3>13/2025 – Informace k&nbsp;vyřízení spisu</h3>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/13_2025_zadost.pdf">Žádost o informace.</a></p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/13_2025_odpoved.odt">Odpověď na žádost.</a></p>
+<h3>14/2025 – Informace k&nbsp;databázi ESO</h3>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/14_2025_zadost.pdf">Žádost o informace.</a></p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/14_2025_odpoved.odt">Odpověď na žádost.</a></p>
+<h3>15/2025 – Informace ke spisu z&nbsp;oblasti Péče o zdraví, ostatní působnost Ministerstva zdravotnictví</h3>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/15_2025_zadost_anonymiz.pdf">Žádost o informace.</a></p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/15_2025_odpoved.odt">Odpověď na žádost.</a></p>
+<h3>16/2025 – Informace k&nbsp;pronájmu konferenčních sálů KVOP</h3>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/16_2025_zadost.pdf">Žádost o informace.</a></p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/16_2025_odpoved.odt">Odpověď na žádost.</a></p>
+<h3>18/2025 – Informace z&nbsp;oblasti Vězeňství</h3>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/18_2025_zadost.pdf">Žádost o informace.</a></p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/18_2025_odpoved.odt">Odpověď na žádost.</a></p>
+<h3>19/2025 – Informace ke spisu z&nbsp;oblasti Daně a správa daní</h3>
+<p>Žádost o informace.</p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/19_2025_odpoved.odt">Opověď na žádost</a>.</p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/19_2025_odpoved_priloha1.pdf">Příloha 1.</a></p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/19_2025_odpoved_priloha2.pdf">Příloha 2.</a></p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/19_2025_odpoved_priloha3.pdf">Příloha 3.</a></p>
+<h3>21/2025 – Informace ke spisům z&nbsp;oblasti Vězeňství11/2025 – Informace ke spisu z&nbsp;oblasti Správa na úseku zaměstnanosti</h3>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/21_2025_zadost.pdf">Žádost o informace.</a></p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/21_2025_odpoved.odt">Odpověď na žádost.</a></p>
 <p>&nbsp;</p>
