@@ -2,7 +2,7 @@
 title: Hledáme právníka či právničku pro oblast ochrany práv dětí
 date: 2025-05-12T15:40:00
 vystupy:
-  - aktualita
+  - nabidka-prace
 perex: <p>Chcete se podílet na ochraně práv dětí a přispívat k&nbsp;prosazování
   dětských práv v&nbsp;jednotlivých případech i&nbsp;na&nbsp;systémové
   úrovni?&nbsp;Aktuálně hledáme právníka nebo právničku v&nbsp;oblasti ochrany
