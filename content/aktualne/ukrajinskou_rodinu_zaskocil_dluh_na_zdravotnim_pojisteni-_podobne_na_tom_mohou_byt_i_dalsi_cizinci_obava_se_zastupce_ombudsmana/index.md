@@ -27,7 +27,7 @@ attachments:
 <p>Rodiče se proto rozhodli kontaktovat ombudsmana a zjistit, jak vlastně postupovat. 
 <i>„Dlouhodobý pobyt za účelem společného soužití rodiny skutečně umožňuje dětem </i>
 <a href="https://www.vzp.cz/o-nas/aktuality/vzp-cr-je-pripravena-od-1-1-2024-pojistovat-deti-cizincu">
-<i>od&nbsp1.&nbspledna 2024</i></a> 
+<i>od&nbsp;1.&nbsp;ledna 2024</i></a> 
 <i>vstoupit do systému veřejného zdravotního pojištění. Je však důležité dodat, že samotné zařazení do systému ještě neznamená, že stát pojištění automaticky hradí. Znamená to pouze, že dítě může systém zdravotního pojištění využívat. Pojistné za něj platí jeho zákonný zástupce,“</i> vysvětlil zástupce ombudsmana Vít Alexander Schorm.</p>
 <p>Situace, kdy ukrajinské děti přecházejí z&nbsp;dočasné ochrany na dlouhodobý pobyt za účelem společného soužití rodiny, mohou být časté. Proto se zástupce ombudsmana rozhodl oslovit příslušné úřady s&nbsp;cílem předejít dalším možným nesrovnalostem. 
 <i>„Obávám se, že situace, kdy rodinu zaskočil nečekaný dluh na pojistném, nemusí být ojedinělá. Komunikujeme proto se&nbsp;Všeobecnou zdravotní pojišťovnou i s&nbsp;Ministerstvem vnitra a upozorňujeme oba úřady na nutnost podávat přesné a srozumitelné informace. Jsem rád, že jsou vysvětleny na jejich webových stránkách. Úřady však musí být připravené správně reagovat na dotazy i v&nbsp;osobním nebo telefonickém kontaktu,</i>“ uvedl zástupce ombudsmana Vít Alexander Schorm.</p>
