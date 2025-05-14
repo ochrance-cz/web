@@ -11,10 +11,10 @@ perex: <p>Chcete se podílet na ochraně práv dětí a přispívat k&nbsp;prosa
 <p>
 <strong>Náplň práce na této pozici:</strong></p>
 <ul>
-<li>Vyřizování individuálních podnětů z
-<strong>&nbsp;</strong>oblasti rodinně-právní: agenda sociálně-právní ochrany dětí, náhradní rodinné péče, ústavní výchovy.</li>
-<li>Vyřizování individuálních podnětů z
-<strong>&nbsp;</strong>oblasti školství.</li>
+<li>Vyřizování individuálních podnětů z&nbsp;
+<strong> </strong>oblasti rodinně-právní: agenda sociálně-právní ochrany dětí, náhradní rodinné péče, ústavní výchovy.</li>
+<li>Vyřizování individuálních podnětů z&nbsp;
+<strong> </strong>oblasti školství.</li>
 <li>Odborná příprava podkladů pro ochránce práv dětí (dětského ombudsmana) a veřejného ochránce práv.</li>
 <li>Zpracování připomínek k právním předpisům.</li>
 <li>Zpracování systémových témat a doporučení.</li>
@@ -30,7 +30,7 @@ perex: <p>Chcete se podílet na ochraně práv dětí a přispívat k&nbsp;prosa
 <li>Otevřenost, zájem o&nbsp;nové věci, aktivní a&nbsp;inovativní přístup, flexibilitu a&nbsp;týmového ducha.</li>
 <li>Dobrou znalost souvisejících právních předpisů.</li>
 <li>Aktivní znalost světového jazyka slovem i&nbsp;písmem (preference anglického jazyka), případně znalost dalšího světového jazyka je výhodou.</li>
-<li>Znalost mezinárodních úmluv a dokumentů OSN, Rady Evropy, Evropské unie v dané oblasti včetně judikatury ESLP oceníme. </li>
+<li>Znalost mezinárodních úmluv a dokumentů OSN, Rady Evropy, Evropské unie v dané oblasti včetně judikatury ESLP oceníme.</li>
 <li>Další praxe či vzdělání v&nbsp;souvisejících oborech (psychologie, pedagogika, sociální práce) jsou vítány.</li>
 <li>Praxe v&nbsp;dané oblasti práva je výhodou.</li></ul>
 <p>
@@ -45,7 +45,9 @@ perex: <p>Chcete se podílet na ochraně práv dětí a přispívat k&nbsp;prosa
 <li>5 dnů osobního volna ročně,</li>
 <li>příspěvek na stravování ve výši 89 Kč na den,</li>
 <li>práci v&nbsp;centru Brna s&nbsp;možností parkování.</li></ul>
-<p>Jestli se k&nbsp;nám chcete připojit, napište nám do&nbsp;
-<strong>25. 5. 2025</strong> na&nbsp;adresu&nbsp;
+<p>Výběrová řízení probíhají v souladu s naší 
+<a href="https://www.ochrance.cz/media/personalni_strategie.pdf">Personální strategií</a>.</p>
+<p>Jestli se k&nbsp;nám chcete připojit, napište nám do&nbsp; 
+<strong>25. 5. 2025</strong> na&nbsp;adresu&nbsp; 
 <a href="mailto:lzicarova@ochrance.cz">
 <strong>lzicarova@ochrance.cz</strong></a>. Napište nám, proč s&nbsp;námi chcete spolupracovat. Připojte Váš strukturovaný životopis. Na termínu nástupu se můžeme domluvit.</p>
