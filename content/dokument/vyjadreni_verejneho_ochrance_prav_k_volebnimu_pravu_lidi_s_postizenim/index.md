@@ -1,5 +1,6 @@
 ---
-title: "Vyjádření veřejného ochránce práv k volebnímu právu lidí s postižením "
+title: Vyjádření k volebnímu právu lidí s postižením pro Výbor OSN pro práva
+  osob se zdravotním postižením
 date: 2025-05-15
 vystupy:
   - doporuceni
