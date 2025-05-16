@@ -25,11 +25,11 @@ attachments:
 <p>Už od první chvíle bylo jasné, že návštěva týmu kanceláře ombudsmana v&nbsp;Domově u sv. Marušky nebude probíhat standardně. Personál je nejprve odmítl vpustit dovnitř, a i když nakonec omezený vstup umožnil, po zhruba čtyřech hodinách další spolupráci zcela odepřel.</p>
 <p>Přístup do prostor domova stejně jako k&nbsp;dokumentaci tak měla návštěva omezený. Proto nemohla v&nbsp;plném rozsahu zhodnotit, zda dochází ke špatnému zacházení se zdejšími klienty, seniory závislými na&nbsp;poskytované péči. Zjištěné poznatky nicméně ukázaly vysoké riziko takového zacházení.</p>
 <p>Situace je o to vážnější, že stát v&nbsp;současnosti nemá kontrolu nad kvalitou služeb, které domov provozuje. Zařízení totiž nemá registraci k&nbsp;poskytování pobytových sociálních služeb. Ze&nbsp;sdělení vedení i z předložených dokumentů však plyne, že&nbsp;znaky pobytové sociální služby domova pro&nbsp;seniory či domova se zvláštním režimem naplňuje.&nbsp;</p>
-<p>Zástupce ombudsmana Vít Alexander Schorm varuje: „
-<i>Poskytování pobytové sociální služby bez registrace lidem s&nbsp;vysokým stupněm závislosti na&nbsp;péči je z&nbsp;hlediska špatného zacházení příliš rizikové a klientům neposkytuje žádné záruky. Domov u sv. Marušky by měl proto o registraci neprodleně zažádat, a pokud ji nezíská, poskytování sociální služby ukončit.“</i></p>
+<p>Zástupce ombudsmana Vít Alexander Schorm varuje: 
+<i>„Poskytování pobytové sociální služby bez registrace lidem s&nbsp;vysokým stupněm závislosti na&nbsp;péči je z&nbsp;hlediska špatného zacházení příliš rizikové a klientům neposkytuje žádné záruky. Domov u sv. Marušky by měl proto o registraci neprodleně zažádat, a pokud ji nezíská, poskytování sociální služby ukončit.“</i></p>
 <p>Přes omezený čas, který měli v&nbsp;bzeneckém zařízení k dispozici, odhalili zaměstnanci kanceláře ombudsmana další závažné problémy. I když je odpovídající péče o klienty klíčová, odborné úkony, jako je podávání léků (včetně injekčních), zde prováděl nekvalifikovaný personál. Léky navíc nebyly uloženy bezpečně a hrozily chyby při jejich přípravě a podávání. Rovněž systém předávání informací o&nbsp;klientech nebyl nastaven spolehlivě a chybělo vedení pravidelné dokumentace.&nbsp;</p>
-<p>Zástupce ombudsmana upozorňuje i na nedostatečnou nutriční péči: „
-<i>Při&nbsp;zaznamenané praxi může snadno dojít k dlouhodobému zanedbání výživy klienta. Spatřuji zde riziko možných fatálních důsledků</i>.“</p>
+<p>Zástupce ombudsmana upozorňuje i na nedostatečnou nutriční péči: 
+<i>„Při&nbsp;zaznamenané praxi může snadno dojít k dlouhodobému zanedbání výživy klienta. Spatřuji zde riziko možných fatálních důsledků</i>.“</p>
 <p>Zarážející je také to, že prostory domova nebyly uzpůsobeny bezbariérově. Většina klientů měla přitom sníženou mobilitu. I to je jedna z příčin, která zde seniorům ztěžovala možnost pravidelného pobytu venku.&nbsp;</p>
 <p>Přestože vedení uvedlo, že v domově nežijí klienti s náročným chováním, záznamy personálu ukázaly opak. Nadto vyvolávaly obavy z nezákonného omezování osobní svobody klientů.&nbsp;</p>
 <p>
