@@ -12,7 +12,7 @@ perex: <p>Konference, která se koná právě dnes, je součástí letošních o
   ochrana dětských práv a&nbsp;činnost nezávislé národní instituce zaměřené
   na&nbsp;prosazování lidských práv obecně (NHRI).&nbsp;</p>
 attachments:
-  - title: Podrobněji národní lidskoprávní instituci
+  - title: Podrobněji o národní lidskoprávní instituci
     file: https://www.ochrance.cz/dokument/co_je_to_narodni_lidskopravni_instituce_a_proc_ji_v_cesku_potrebujeme/
   - title: Podrobněji o dětském ombudsmanovi
     file: https://deti.ochrance.cz/kdo/detskyombudsman//
@@ -28,7 +28,7 @@ attachments:
 <p>V&nbsp;roce 2006 ombudsman začal dohlížet na podmínky na místech, kde žijí lidé omezení na svobodě, jako jsou třeba dětské domovy, domovy pro seniory, psychiatrické nemocnice, věznice, policejní cely a další zařízení. O tři roky později přibyla oblast diskriminace, za další tři začal sledovat v&nbsp;rámci prevence špatného zacházení vyhoštění a předání cizinců. Jeho povinnosti se rozšířily i o šest let později. Tehdy se ombudsman začal věnovat také tomu, jak Česká republika naplňuje práva lidí s&nbsp;postižením. Zároveň se stal orgánem sledujícím dodržování práv občanů Evropské unie na volný pohyb a pobyt. Zahájil monitorování práv občanů EU u nás i českých občanů, kteří se ze zahraničí vrátili. &nbsp;</p>
 <p>
 <i>„Kancelář ombudsmana si v&nbsp;minulosti dokázala velmi dobře poradit s&nbsp;neustále se rozšiřující agendou. Věřím, že stejně úspěšně se vyrovnáme i s&nbsp;úkoly, které máme začít vykonávat od 1.&nbsp;července. Těmi se stane agenda dětského ombudsmana a nezávislé lidskoprávní instituce (NHRI),“&nbsp;</i>doplňuje ředitelka právní sekce ombudsmana Jana Gregorová.&nbsp;</p>
-<p>Zatímco dětský ombudsman bude, stručně řečeno, prosazovat práva dětí v&nbsp;jednotlivých případech i na systémové úrovni, nezávislá národní lidskoprávní instituce (NHRI – z&nbsp;anglického National Human Rights Institution) bude působit 
-<i>&nbsp;</i>jako „výstražná kontrolka“ v&nbsp;systému ochrany lidských práv obecně.&nbsp;</p>
-<p>Nebude novým úřadem, ale novou působností ombudsmana. Ta mu ukládá chránit a nezávisle prosazovat lidská práva.&nbsp;Kromě toho bude také monitorovat jejich dodržování a vyhodnocovat, jak naplňování práv zlepšovat. Jeho úkolem bude i preventivní činnost, proto bude vydávat doporučení, jak porušování lidských práv předcházet. V&nbsp;neposlední řadě mandát NHRI ombudsmanovi svěřuje úkoly, jako je osvěta a vzdělávání v&nbsp;oblasti lidských práv.&nbsp;</p>
+<p>Zatímco dětský ombudsman bude, stručně řečeno, prosazovat práva dětí v&nbsp;jednotlivých případech i na systémové úrovni, nezávislá národní lidskoprávní instituce (NHRI – z&nbsp;anglického National Human Rights Institution) bude působit&nbsp;
+<i> </i>jako „výstražná kontrolka“ v&nbsp;systému ochrany lidských práv obecně.&nbsp;</p>
+<p>Nebude novým úřadem, ale novou působností ombudsmana. Ta mu ukládá chránit a nezávisle prosazovat lidská práva.&nbsp;Kromě toho bude také monitorovat jejich dodržování a vyhodnocovat, jak naplňování práv zlepšovat. Jeho úkolem bude i&nbsp;preventivní činnost, proto bude vydávat doporučení, jak porušování lidských práv předcházet. V&nbsp;neposlední řadě mandát NHRI ombudsmanovi svěřuje úkoly, jako je osvěta&nbsp;a vzdělávání v&nbsp;oblasti lidských práv.&nbsp;</p>
 <p>Od července 2025 se tak ombudsman bude moct věnovat lidským právům i v&nbsp;oblastech, které byly dosud z&nbsp;jeho působnosti vyloučeny. NHRI se včlení do jeho stávajících činností a&nbsp;dojde k&nbsp;ještě větší spolupráci napříč celou Kanceláří ombudsmana.</p>
