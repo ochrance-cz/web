@@ -4,8 +4,12 @@ linksAfter: []
 ---
 <h2>
 <strong>Volná místa</strong></h2>
-<p>Aktuálně hledáme právníka nebo právničku v&nbsp;oblasti ochrany práv dětí. Více informací naleznete v&nbsp;
-<a href="https://www.ochrance.cz/aktualne/hledame_pravnika_ci_pravnicku_pro_oblast_ochrany_prav_deti/">inzerátu</a>.&nbsp;</p>
+<p>Aktuálně hledáme právníka nebo právničku&nbsp;</p>
+<ul>
+<li>v&nbsp;oblasti ochrany práv dětí, více informací naleznete v 
+<a href="https://www.ochrance.cz/aktualne/hledame_pravnika_ci_pravnicku_pro_oblast_ochrany_prav_deti/">inzerátu</a></li>
+<li>a pro oddělení stavebního řádu a ochrany životního prostředí, více informací naleznete v 
+<a href="https://www.ochrance.cz/aktualne/hledame_pravnika_ci_pravnicku_pro_oddeleni_stavebniho_radu_a_ochrany_zivotniho_prostredi/">inzerátu</a>.&nbsp;</li></ul>
 <p>
 <strong>Stáže pro studenty právnických fakult</strong></p>
 <p>Na stáž se můžete přihlásit přes svou právnickou fakultu v&nbsp;Brně, Olomouci a Praze. Pokud nevíte, koho ve škole oslovit, napište kolegyni Haně Suské na adresu 
