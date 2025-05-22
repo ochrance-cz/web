@@ -1,6 +1,5 @@
 ---
-title: "STREAM: Konference 25 let činnosti veřejného ochránce práv"
+title: AKTUÁLNĚ
 prefix: ""
-active: true
+active: false
 ---
-https://www.youtube.com/live/a6GgkuWeOzQ?si=LXTXEg3SHuFkh945
