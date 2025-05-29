@@ -19,7 +19,7 @@ attachments:
   - title: Podrobněji o dětském ombudsmanovi
     file: https://deti.ochrance.cz/kdo/detskyombudsman
 ---
-<p>Téměř 300 dětí a mladých lidí ve věku 11–25 let se podělilo v&nbsp;rámci výzkumu Kanceláře ombudsmana o názor na to, co jejich generaci nejvíce tíží. I když věkový rozptyl mezi nejmladšími a nejstaršími dotazovanými byl značný, na dvou nejpalčivějších oblastech se shodla většina z&nbsp;nich: duševní zdraví a&nbsp;školství. &nbsp;</p>
+<p>Téměř 300 dětí a mladých lidí ve věku 11–25 let se podělilo v&nbsp;rámci výzkumu Kanceláře ombudsmana o názor na to, co jejich generaci nejvíce tíží. I když věkový rozptyl mezi nejmladšími a nejstaršími dotazovanými byl značný, na dvou nejpalčivějších oblastech se shodla většina z&nbsp;nich: duševní zdraví a&nbsp;školství.&nbsp;</p>
 <p>
 <i>&nbsp;„Nedostatek péče, její nedostupnost. Bagatelizace – sněhové vločky, ‚za nás to bylo ...‘ od starší generace.&nbsp;Sociální sítě,“ tak&nbsp;</i>pojmenoval jeden z&nbsp;respondentů některé z příčin psychické nepohody&nbsp;mladých.</p>
 <p>Zástupce ombudsmana Vít Alexander Schorm přiblížil další podrobnosti: 
