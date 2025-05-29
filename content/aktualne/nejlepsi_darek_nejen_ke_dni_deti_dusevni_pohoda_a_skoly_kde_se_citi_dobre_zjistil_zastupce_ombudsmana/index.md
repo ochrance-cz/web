@@ -18,6 +18,8 @@ attachments:
     file: https://www.ochrance.cz/uploads-import/ESO/VI1827_25_BJ_vyzkumna_zprava.pdf
   - title: Podrobněji o dětském ombudsmanovi
     file: https://deti.ochrance.cz/kdo/detskyombudsman
+  - title: Co nejvíce tíží děti a mladé v ČR? (obrázek ke stažení)
+    file: https://www.ochrance.cz/aktualne/nejlepsi_darek_nejen_ke_dni_deti_dusevni_pohoda_a_skoly_kde_se_citi_dobre_zjistil_zastupce_ombudsmana/co_nejvice_tizi_deti_a_mlade_v_cr.pdf
 ---
 <p>Téměř 300 dětí a mladých lidí ve věku 11–25 let se podělilo v&nbsp;rámci výzkumu Kanceláře ombudsmana o názor na to, co jejich generaci nejvíce tíží. I když věkový rozptyl mezi nejmladšími a nejstaršími dotazovanými byl značný, na dvou nejpalčivějších oblastech se shodla většina z&nbsp;nich: duševní zdraví a&nbsp;školství.&nbsp;</p>
 <p>
