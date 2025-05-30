@@ -12,9 +12,9 @@ sections:
 
           <p>za námi je několik týdnů aprílového počasí. Témata, která jsme během nich řešili, byla podobně proměnlivá jako letošní jaro. Zabývali jsme se například případem diskriminované tanečnice, žádostí o změnu příjmení, bakterií legionella na vysokoškolských kolejích či
 
-          <strong> </strong>parkovacím stání pro osoby se zdravotním postižením
+          <strong> </strong>parkovacím stání pro osoby se zdravotním postižením.
 
-          <strong>.&nbsp;</strong>Komunikovali jsme s&nbsp;širokou paletou úřadů. Od hygienické stanice přes úřad práce až třeba po stavební či matriční úřad.&nbsp;</p>
+          <strong> </strong>Komunikovali jsme s&nbsp;širokou paletou úřadů. Od hygienické stanice přes úřad práce až třeba po stavební či matriční úřad.&nbsp;</p>
 
           <p>Kromě toho se intenzivně připravujeme na agendu nezávislé lidskoprávní instituce (NHRI) a&nbsp;dětského ombudsmana. Obojí začne pod naší střechou fungovat od 1. července. K&nbsp;blížícímu se Mezinárodnímu dni dětí však přejme dětem, a koneckonců i nám dospělým, aby případů, do kterých budou muset vstupovat, nastávalo co nejméně.&nbsp;</p>
 
