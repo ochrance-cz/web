@@ -13,17 +13,18 @@ perex: <p>Znalecké posudky hrají podstatnou roli v soudních řízeních. Od j
 ---
 <p>Zástupce ombudsmana je znepokojený stavem znalecké činnosti v České republice. Jeho poznatky totiž svědčí o vážných systémových problémech.&nbsp;</p>
 <p>Například v&nbsp;některých odvětvích působí extrémně málo znalců – v dětské a dorostové psychiatrii jich je aktuálně pouze šest.</p>
-<p>Nepřehledná může být i samotná evidence jednotlivých oborů a odvětví znalecké činnosti. V&nbsp;současné době totiž existují dva seznamy podle starého zákona č. 36/1967 Sb. a nového zákona č. 254/2019 Sb., které se liší. „
-<i>To může být matoucí zejména nejen pro soudce, ale i pro každého, kdo chce požádat znalce o zpracování znaleckého posudku</i>,“ dodává zástupce ombudsmana
-<i> Vít Alexander Schorm</i>.</p>
+<p>Nepřehledná může být i samotná evidence jednotlivých oborů a odvětví znalecké činnosti. V&nbsp;současné době totiž existují dva seznamy podle starého zákona č. 36/1967 Sb. a nového zákona č. 254/2019 Sb., které se liší. 
+<i>„To může být matoucí zejména nejen pro soudce, ale i pro každého, kdo chce požádat znalce o zpracování znaleckého posudku</i>,
+<i>“</i> uvedl zástupce ombudsmana Vít Alexander Schorm.</p>
 <p>Významnou část nedostatků představuje i nedostatečná kvalita znaleckých posudků. Někteří znalci používají zastaralé nebo nevhodné metody, jiní nepracují se všemi podklady, které mají k dispozici. V&nbsp;některých oborech také chybí obecně uznávané postupy a standardy, které by sjednotily práci znalců a zvýšily její odbornou úroveň.</p>
 <p>Stává se také, že někteří znalci (včas) neinformují soudce o tom, že nedokážou odpovědět na položené otázky nebo že úkol přesahuje jejich odbornost. Takové situace mohou vést k průtahům v řízení či nutnosti vyžádat si posudek od jiného znalce.</p>
-<p>&nbsp;„
-<i>Znalecké posudky mohou mít zásadní dopad na osudy konkrétních lidí. Ty se často dotýkají zranitelných skupin osob (zejména dětí či lidí s&nbsp;duševním onemocněním). Cílem mého šetření je pojmenovat příčiny těchto problémů a také navrhnout konkrétní způsoby jejich řešení</i>,“ uvedl zástupce ombudsmana.</p>
-<p>Během šetření bude zástupce ombudsmana spolupracovat s Ministerstvem spravedlnosti, které vykonává dohled nad znalci. K&nbsp;debatě přizvou také zástupce odborné veřejnosti, kteří mají dlouhodobé zkušenosti se znalci. Oslovit chtějí například advokáty, neziskové organizace nebo členy poradních a pracovních orgánů Úřadu vlády.
+<p>
+<i>„Znalecké posudky mohou mít zásadní dopad na osudy konkrétních lidí. Ty se často dotýkají zranitelných skupin osob (zejména dětí či lidí s&nbsp;duševním onemocněním). Cílem mého šetření je pojmenovat příčiny těchto problémů a také navrhnout konkrétní způsoby jejich řešení</i>,
+<i>“</i> doplnil Schorm.</p>
+<p>Během šetření bude zástupce ombudsmana spolupracovat s Ministerstvem spravedlnosti, které vykonává dohled nad znalci. K&nbsp;debatě přizvou také zástupce odborné veřejnosti, kteří mají dlouhodobé zkušenosti se znalci. Oslovit chtějí například advokáty, neziskové organizace nebo členy poradních a pracovních orgánů Úřadu vlády.&nbsp;
 <i>&nbsp;</i></p>
 <p>
-<i>„Ministerstvo již delší dobu poukazuje na skutečnost, že nedostatek znalců v&nbsp;některých odvětvích, především v&nbsp;psychiatrii, je systémový problém, který je třeba řešit mezirezortně. Iniciativa zástupce ombudsmana je připravena navázat na dosavadní aktivity ministerstva na tomto poli a společně přispět k&nbsp;objektivnímu zhodnocení současného stavu i návrhům na jeho systémové řešení,“&nbsp;</i>doplňuje Radek Čujan, ředitel odboru soudních znalců a tlumočníků Ministerstva spravedlnosti.</p>
+<i>„Ministerstvo již delší dobu poukazuje na skutečnost, že nedostatek znalců v&nbsp;některých odvětvích, především v&nbsp;psychiatrii, je systémový problém, který je třeba řešit mezirezortně. Iniciativa zástupce ombudsmana je připravena navázat na dosavadní aktivity ministerstva na tomto poli a společně přispět k&nbsp;objektivnímu zhodnocení současného stavu i návrhům na jeho systémové řešení,“&nbsp;</i>doplnil Radek Čujan, ředitel odboru soudních znalců a tlumočníků Ministerstva spravedlnosti.</p>
 <blockquote>
 <p>Znalec – osoba, která má odborné znalosti (například vysokoškolské vzdělání a dlouhodobou praxi) a úspěšně složila vstupní zkoušku na Ministerstvu spravedlnosti.</p>
 <p>Znalecké obory a odvětví – kategorie, podle kterých se člení znalecká činnost.</p>
