@@ -485,10 +485,6 @@ lawyers:
         role: právník
         phone: 542 542 346
         email: jiri.matuska@ochrance.cz
-      - name: Matěj Stříteský
-        role: právník
-        phone: 542 542 283
-        email: matej.stritesky@ochrance.cz
       - name: Anna Makarenko
         role: právnička
         phone: 542 542 269
