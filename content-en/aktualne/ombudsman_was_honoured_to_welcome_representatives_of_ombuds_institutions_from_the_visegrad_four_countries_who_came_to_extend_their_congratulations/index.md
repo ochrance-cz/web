@@ -28,17 +28,18 @@ perex: >-
 <tr>
 <td>
 <figure class="image">
-<img src="https://www.ochrance.cz/en/aktualne/ombudsman_was_honoured_to_welcome_representatives_of_ombuds_institutions_from_the_visegrad_four_countries_who_came_to_extend_their_congratulations/dsc00291.jpg" alt="dsc00291.jpg"></figure></td>
+<img src="https://www.ochrance.cz/en/aktualne/ombudsman_was_honoured_to_welcome_representatives_of_ombuds_institutions_from_the_visegrad_four_countries_who_came_to_extend_their_congratulations/dsc00291-2.jpg" alt="dsc00291-2.jpg"></figure></td>
 <td>
 <figure class="image">
-<img src="https://www.ochrance.cz/en/aktualne/ombudsman_was_honoured_to_welcome_representatives_of_ombuds_institutions_from_the_visegrad_four_countries_who_came_to_extend_their_congratulations/dsc_3218.jpg" alt="dsc_3218.jpg"></figure></td></tr>
+<img src="https://www.ochrance.cz/en/aktualne/ombudsman_was_honoured_to_welcome_representatives_of_ombuds_institutions_from_the_visegrad_four_countries_who_came_to_extend_their_congratulations/dsc_3218-2.jpg" alt="dsc_3218-2.jpg"></figure></td></tr>
 <tr>
 <td>
 <figure class="image">
-<img src="https://www.ochrance.cz/en/aktualne/ombudsman_was_honoured_to_welcome_representatives_of_ombuds_institutions_from_the_visegrad_four_countries_who_came_to_extend_their_congratulations/dsc_2911-2.jpg" alt="dsc_2911-2.jpg"></figure></td>
+<img src="https://www.ochrance.cz/en/aktualne/ombudsman_was_honoured_to_welcome_representatives_of_ombuds_institutions_from_the_visegrad_four_countries_who_came_to_extend_their_congratulations/dsc_2911.jpg" alt="dsc_2911.jpg"></figure></td>
 <td>
 <figure class="image">
-<img src="https://www.ochrance.cz/en/aktualne/ombudsman_was_honoured_to_welcome_representatives_of_ombuds_institutions_from_the_visegrad_four_countries_who_came_to_extend_their_congratulations/dsc01779.jpg" alt="dsc01779.jpg"></figure></td></tr></tbody></table></figure>
-<p>Poland has had a Children's Ombudsman since 2000, making it the longest-standing among the V4.&nbsp;Slovakia followed 16 years later with its “Little Ombudsman,” as the role is colloquially known. Hungary, on the other hand, does not have a separate Children's Ombudsman. Children's rights are protected by the Commissioner for Fundamental Rights.
+<img src="https://www.ochrance.cz/en/aktualne/ombudsman_was_honoured_to_welcome_representatives_of_ombuds_institutions_from_the_visegrad_four_countries_who_came_to_extend_their_congratulations/dsc01779-2.jpg" alt="dsc01779-2.jpg"></figure></td></tr></tbody></table></figure>
+<p>Poland has had a Children's Ombudsman since 2000, making it the longest-standing among the V4.&nbsp;Slovakia followed 16 years later with its “Little Ombudsman,” as the role is colloquially known. Hungary, on the other hand, does not have a separate Children's Ombudsman. Children's rights are protected by the Commissioner for Fundamental Rights.&nbsp;</p>
+<p>
 <br>
 <br>&nbsp;While children across the region face similar challenges, each country approaches the role of Children's Ombudsman in its own way. The Czech model is distinct: the Children's Ombudsman will be housed under the same roof as the Public Defender of Rights. This structure will ensure continuity in our existing efforts, promote knowledge sharing, and strengthen mutual support.</p>
