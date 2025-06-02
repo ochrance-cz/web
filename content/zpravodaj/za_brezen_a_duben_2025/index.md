@@ -192,7 +192,7 @@ sections:
           <p>Když si stěžovatelka kupovala byt v&nbsp;bytovém domě, nacházela se v&nbsp;garáži domu parkovací stání označená jako vyhrazená. Developer tato stání postupně rozprodal a odstranil z nich dopravní značení. Stavební úřad i nadřízený magistrát jí sdělily, že se problémem nemohou zabývat.</p>
 
           <p>Stěžovatelce jsme vysvětlili právní úpravu, která stanovuje počty vyhrazených parkovacích stání. V&nbsp;daném případě developer musel zřídit pouze dvě návštěvnická vyhrazená stání na ulici před bytovým domem. V&nbsp;garáži taková stání být nemusela. Když je developer zrušil, neporušil právní předpisy. Stavební úřad tedy stěžovatelce skutečně nemůže pomoci. Úřady jsme ale upozornili, že jí měly blíže vysvětlit, proč v&nbsp;garáži bytového domu nemusí být vyhrazená stání.&nbsp;</p>
-      - title: "Zastali jsme se stěžovatelky, jejíž dům je ohrožuje sesuv zeminy "
+      - title: "Zastali jsme se stěžovatelky, jejíž dům ohrožuje sesuv zeminy "
         id: 6834/2023/VOP
         eso: https://eso.ochrance.cz/Nalezene/Edit/13680
         body: >-
