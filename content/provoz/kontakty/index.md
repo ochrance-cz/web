@@ -202,7 +202,7 @@ lawyers:
         role: právník (katastr nemovitostí, pozemkové úřady)
         phone: 542 542 324
         email: david.vavra@ochrance.cz
-      - name: Eliška Císařová
+      - name: Eliška Hejtmánková
         role: právnička
         phone: 542 542 336
         email: eliska.cisarova@ochrance.cz
