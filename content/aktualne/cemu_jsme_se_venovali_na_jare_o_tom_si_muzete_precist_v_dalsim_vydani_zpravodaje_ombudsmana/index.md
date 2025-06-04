@@ -13,10 +13,8 @@ attachments:
     file: https://www.ochrance.cz/zpravodaj/za_brezen_a_duben_2025/
 ---
 <p>Čemu jsme se například věnovali?&nbsp;</p>
-<p>
-<a href="https://www.ochrance.cz/zpravodaj/za_brezen_a_duben_2025/#item-1-0">
-<strong>Upozornili jsme OSPOD, že fyzické trestání dětí nemůže tolerovat</strong></a>
-<strong>&nbsp;</strong></p>
+<h3>
+<a href="https://www.ochrance.cz/zpravodaj/za_brezen_a_duben_2025/#item-1-0">Upozornili jsme OSPOD, že fyzické trestání dětí nemůže tolerovat</a> &nbsp;</h3>
 <blockquote>
 <p>Pokud Orgán sociálně-právní ochrany dětí (OSPOD) zjistí, že rodič dítě fyzicky trestá, měl by jej důrazně poučit o tom, že jakékoliv fyzické trestání dětí je nepřijatelné. Je vhodné rodiči doporučit i odbornou poradenskou pomoc.</p></blockquote>
 <h3>
