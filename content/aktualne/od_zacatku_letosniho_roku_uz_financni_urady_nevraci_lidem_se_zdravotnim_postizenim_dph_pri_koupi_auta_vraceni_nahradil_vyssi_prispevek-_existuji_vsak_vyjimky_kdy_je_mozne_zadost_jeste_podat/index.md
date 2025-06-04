@@ -16,6 +16,9 @@ perex: <p>Od letošního roku se zvýšil příspěvek na kompenzační pomůcku
   podporu nahrazuje zvýšený příspěvek, který vyplácí pouze úřad práce. Existují
   však výjimky, kdy lidé mohou žádat finanční úřad o vrácení DPH ještě nyní. Dva
   takové případy řešil i ombudsman.</p>
+attachments:
+  - file: https://www.ochrance.cz/aktualne/od_zacatku_letosniho_roku_uz_financni_urady_nevraci_lidem_se_zdravotnim_postizenim_dph_pri_koupi_auta_vraceni_nahradil_vyssi_prispevek-_existuji_vsak_vyjimky_kdy_je_mozne_zadost_jeste_podat/facebookova_grafika_vratka_f.png
+    title: "Návod: Kdy můžu žádat o vratku DPH?"
 ---
 <p>
 <strong>V&nbsp;jakém případě mají lidé stále nárok na vrácení DPH z&nbsp;motorového vozidla?</strong></p>
