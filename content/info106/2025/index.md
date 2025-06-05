@@ -123,4 +123,15 @@ title: "2025"
 <a href="https://www.ochrance.cz/info106/2025/21_2025_zadost.pdf">Žádost o informace.</a></p>
 <p>
 <a href="https://www.ochrance.cz/info106/2025/21_2025_odpoved.odt">Odpověď na žádost.</a></p>
-<p>&nbsp;</p>
+<h3>23/2025 – Informace k&nbsp;oblasti Soudnictví</h3>
+<p>ž</p>
+<p>o</p>
+<h3>24/2025 – Informace ke spisu z&nbsp;oblasti Práva na informace</h3>
+<p>ž</p>
+<p>o</p>
+<h3>25/2025 – Informace z&nbsp;oblasti Vězeňství</h3>
+<p>ž</p>
+<p>o</p>
+<h3>28/2025 – Informace k&nbsp;pracovně-právnímu poměru v KVOP</h3>
+<p>ž</p>
+<p>o</p>
