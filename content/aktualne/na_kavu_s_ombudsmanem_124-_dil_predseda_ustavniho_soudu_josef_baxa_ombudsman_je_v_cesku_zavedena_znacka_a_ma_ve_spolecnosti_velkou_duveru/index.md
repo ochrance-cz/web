@@ -8,7 +8,7 @@ perex: <p>Faktický vliv instituce je odvozen od toho, jakou autoritu a důvěru
   společnosti má. Vám lidé rozumí a věří, to je základ. Takto o ombudsmanovi
   v&nbsp;našem podcastu mluvil předseda Ústavního soudu Josef Baxa. Proč je
   podle něj důležitá srozumitelnost soudů? A proč jsou potřebná stanoviska a
-  analýzy ombudsmana? Měl by být ombudsman součástí&nbsp;Ústavy? Poslechněte si
+  analýzy ombudsmana? Měl by být ombudsman součástí&nbsp;ústavy? Poslechněte si
   naše nejnovější vydání podcastu Na kávu s&nbsp;ombudsmanem, kde na vše
   dostanete odpověď.&nbsp;</p>
 ---
