@@ -1,5 +1,5 @@
 ---
-title: "Na kávu s ombudsmanem, 124. díl: Předseda Ústavního soudu Josef Baxa:
+title: "Na kávu s ombudsmanem, 125. díl: Předseda Ústavního soudu Josef Baxa:
   Ombudsman je v Česku zavedená značka a má ve společnosti velkou důvěru"
 date: 2025-06-05T07:43:00
 vystupy:
