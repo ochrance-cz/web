@@ -21,7 +21,7 @@ perex: >-
 attachments:
   - title: Zpráva o šetření ombudsmana
     file: https://eso.ochrance.cz/Nalezene/Edit/11588
-  - title: Dopis zaslaný ministru zemědělství
+  - title: Dopis zaslaný ministrovi zemědělství
     file: https://www.ochrance.cz/uploads-import/ESO/11-23-SZD-v%C3%BDzva%20%C3%BA%C5%99adu-4.pdf
   - title: Doporučení pro Ministerstvo zemědělství
     file: https://www.ochrance.cz/aktualne/ministerstvo_zemedelstvi_potichu_zmenilo_pravidla_pro_poskytovani_verejnopravnich_dotaci-_ombudsman_s_timto_postupem_nesouhlasi/doporuceni_pro_ministerstvo_zemedelstvi.pdf
