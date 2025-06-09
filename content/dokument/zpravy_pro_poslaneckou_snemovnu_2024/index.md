@@ -6,6 +6,8 @@ vystupy:
 attachmentsTop:
   - file: https://www.ochrance.cz/dokument/zpravy_pro_poslaneckou_snemovnu_2024/vyrocni-zprava-2024.pdf
     title: Výroční zpráva 2024
+  - link: https://youtube.com/shorts/2_MoV7Tg784?si=ALWhbrDgb6nVZcsx
+    title: Video Rok 2024 v kostce
 attachments:
   - title: "Výroční zpráva 2024: Shrnutí"
     file: https://www.ochrance.cz/dokument/zpravy_pro_poslaneckou_snemovnu_2024/rok-2024-shrnuti.pdf
