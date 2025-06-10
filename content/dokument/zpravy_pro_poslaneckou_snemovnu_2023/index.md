@@ -6,9 +6,11 @@ vystupy:
 attachmentsTop:
   - file: https://www.ochrance.cz/dokument/zpravy_pro_poslaneckou_snemovnu_2023/vyrocni-zprava-2023.pdf
     title: Výroční zpráva 2023
-attachments:
-  - file: https://www.ochrance.cz/dokument/zpravy_pro_poslaneckou_snemovnu_2023/rok-2023-shrnuti.pdf
-    title: "Výroční zpráva 2023: Shrnutí"
+  - file: https://youtu.be/WAnvSgqXoa0?si=RfEYgxvrhAX0q6_w
+    title: Video Rok 2023 v kostce
+  - title: "Výroční zpráva 2023: Shrnutí"
+    link: https://www.ochrance.cz/dokument/zpravy_pro_poslaneckou_snemovnu_2023/rok-2023-shrnuti.pdf
+attachments: []
 ---
 <p><a href="https://www.ochrance.cz/dokument/zpravy_pro_poslaneckou_snemovnu_2023/2023-i-q.pdf">Zpráva za 1. čtvrtletí roku 2023</a></p>
 
