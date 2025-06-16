@@ -17,10 +17,8 @@ perex: <p>Vytrvalost se Zbyňku Pulcovi, vodnímu slalomáři, hodila nejen běh
   soud.&nbsp;</p>
 attachments:
   - title: Tisková zpráva k šetření případu ze dne 30. ledna 2023
-    file: ""
     link: https://www.ochrance.cz/aktualne/2023-01-30-kanoista_reprezentoval_ceskoslovensko_na_mistrovstvi_sveta_i_olympiade_ted_ale_kvuli_tomu_ma_nizsi_duchod/
-  - title: "Zpráva o šetření ombudsmana "
-    file: ""
+  - title: Zpráva o šetření ombudsmana
     link: https://eso.ochrance.cz/Nalezene/Edit/9930
 ---
 <p>Vrcholový kanoista Zbyněk Pulec reprezentoval Československo na přelomu 60. a 70. let, účastnil se olympijských her i mistrovství světa. Sportovní kariéra mu však přinesla nejen medaile, ale i komplikace v&nbsp;podobě téměř dvou let, které mu Česká správa sociálního zabezpečení neuznala pro výpočet důchodu. V letech 1972–73, kdy se intenzivně věnoval sportovní přípravě a reprezentaci, byl totiž formálně nikoli zaměstnanec, ale vysokoškolský student s&nbsp;prodlouženým studiem.&nbsp;</p>
