@@ -3,7 +3,6 @@ title: Bývalý olympionik konečně získal spravedlivý důchod. U Nejvyšš�
   správního soudu mu pomohly i argumenty ombudsmana
 date: 2025-06-16T10:01:00
 vystupy:
-  - aktualita
   - tz
 perex: <p>Vytrvalost se Zbyňku Pulcovi, vodnímu slalomáři, hodila nejen během
   jeho sportovní kariéry. Osvědčila se také, když žádal Českou správu sociálního
