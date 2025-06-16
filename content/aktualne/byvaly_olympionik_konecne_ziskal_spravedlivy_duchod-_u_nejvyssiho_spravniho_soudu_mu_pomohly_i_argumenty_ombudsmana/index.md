@@ -1,5 +1,5 @@
 ---
-title: Bývalý olympionik konečně získal spravedlivý důchod. U Nejvyššího
+title: Bývalý olympionik konečně získal spravedlivý důchod. U Nejvyššího
   správního soudu mu pomohly i argumenty ombudsmana
 date: 2025-06-16T10:01:00
 vystupy:
