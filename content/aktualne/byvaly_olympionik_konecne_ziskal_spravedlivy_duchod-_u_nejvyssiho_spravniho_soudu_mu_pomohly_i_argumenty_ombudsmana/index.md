@@ -19,7 +19,7 @@ attachments:
   - title: Tisková zpráva k šetření případu ze dne 30. ledna 2023
     file: ""
     link: https://www.ochrance.cz/aktualne/2023-01-30-kanoista_reprezentoval_ceskoslovensko_na_mistrovstvi_sveta_i_olympiade_ted_ale_kvuli_tomu_ma_nizsi_duchod/
-  - title: Zpráva o šetření ombudsmana
+  - title: "Zpráva o šetření ombudsmana "
     file: ""
     link: https://eso.ochrance.cz/Nalezene/Edit/9930
 ---
