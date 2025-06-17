@@ -14,46 +14,46 @@ perex: <p>Jsme rádi, že jsme vám v&nbsp;rámci Noci práva mohli představit 
 <p>&nbsp;</p>
 <p>Nestihli jste k&nbsp;nám letos přijít? Navštivte Noc práva prostřednictvím našich fotek.&nbsp;</p>
 <figure class="image">
-<img src="https://www.ochrance.cz/aktualne/noc_prava_dekujeme_ze_jste_u_toho_byli_s_nami/dsc_0355.jpg" alt="dsc_0355.jpg"></figure>
+<img src="https://www.ochrance.cz/aktualne/noc_prava_dekujeme_ze_jste_u_toho_byli_s_nami/dsc_0355.jpg" alt="Debata v sále Otakara Motejla"></figure>
 <figure class="table">
 <table>
 <tbody>
 <tr>
 <td>
 <figure class="image">
-<img src="https://www.ochrance.cz/aktualne/noc_prava_dekujeme_ze_jste_u_toho_byli_s_nami/dsc_0265.jpg" alt="dsc_0265.jpg"></figure></td>
+<img src="https://www.ochrance.cz/aktualne/noc_prava_dekujeme_ze_jste_u_toho_byli_s_nami/dsc_0265.jpg" alt="Návštěvnící vstupují hlavním vchodem do budovy kanceláře ombudsmana."></figure></td>
 <td>
 <figure class="image">
-<img src="https://www.ochrance.cz/aktualne/noc_prava_dekujeme_ze_jste_u_toho_byli_s_nami/dsc_0029.jpg" alt="dsc_0029.jpg"></figure></td>
+<img src="https://www.ochrance.cz/aktualne/noc_prava_dekujeme_ze_jste_u_toho_byli_s_nami/dsc_0029.jpg" alt="Návštěvníci během prohlídky kanceláře ombudsmana."></figure></td>
 <td>
 <figure class="image">
-<img src="https://www.ochrance.cz/aktualne/noc_prava_dekujeme_ze_jste_u_toho_byli_s_nami/dsc_0154.jpg" alt="dsc_0154.jpg"></figure></td>
+<img src="https://www.ochrance.cz/aktualne/noc_prava_dekujeme_ze_jste_u_toho_byli_s_nami/dsc_0154.jpg" alt="Návštěvníci během prohlídky kanceláře ombudsmana."></figure></td>
 <td>
 <figure class="image">
-<img src="https://www.ochrance.cz/aktualne/noc_prava_dekujeme_ze_jste_u_toho_byli_s_nami/dsc_0016.jpg" alt="dsc_0016.jpg"></figure></td></tr>
+<img src="https://www.ochrance.cz/aktualne/noc_prava_dekujeme_ze_jste_u_toho_byli_s_nami/dsc_0016.jpg" alt="Návštěvníci během na terase kanceláře ombudsmana."></figure></td></tr>
 <tr>
 <td>
 <figure class="image">
-<img src="https://www.ochrance.cz/aktualne/noc_prava_dekujeme_ze_jste_u_toho_byli_s_nami/dsc_0614.jpg" alt="dsc_0614.jpg"></figure></td>
+<img src="https://www.ochrance.cz/aktualne/noc_prava_dekujeme_ze_jste_u_toho_byli_s_nami/dsc_0614.jpg" alt="Právnička a tlumočnice do českého znakového jazyka vysvětlují návštěvníkům chod kanceláře ombudsmana."></figure></td>
 <td>
 <figure class="image">
-<img src="https://www.ochrance.cz/aktualne/noc_prava_dekujeme_ze_jste_u_toho_byli_s_nami/dsc_0088.jpg" alt="dsc_0088.jpg"></figure></td>
+<img src="https://www.ochrance.cz/aktualne/noc_prava_dekujeme_ze_jste_u_toho_byli_s_nami/dsc_0088.jpg" alt="Ombudsman Stanislav Křeček vítá návštěvníky ve své kanceláři."></figure></td>
 <td>
 <figure class="image">
-<img src="https://www.ochrance.cz/aktualne/noc_prava_dekujeme_ze_jste_u_toho_byli_s_nami/dsc_0138.jpg" alt="dsc_0138.jpg"></figure></td>
+<img src="https://www.ochrance.cz/aktualne/noc_prava_dekujeme_ze_jste_u_toho_byli_s_nami/dsc_0138.jpg" alt="Ombudsman Stanislav Křeček podepisuje návštěvníkům svou knihu."></figure></td>
 <td>
 <figure class="image">
-<img src="https://www.ochrance.cz/aktualne/noc_prava_dekujeme_ze_jste_u_toho_byli_s_nami/dsc_0547.jpg" alt="dsc_0547.jpg"></figure></td></tr>
+<img src="https://www.ochrance.cz/aktualne/noc_prava_dekujeme_ze_jste_u_toho_byli_s_nami/dsc_0547.jpg" alt="Debata v sále Otakara Motejla"></figure></td></tr>
 <tr>
 <td>
 <figure class="image">
-<img src="https://www.ochrance.cz/aktualne/noc_prava_dekujeme_ze_jste_u_toho_byli_s_nami/dsc_0356.jpg" alt="dsc_0356.jpg"></figure></td>
+<img src="https://www.ochrance.cz/aktualne/noc_prava_dekujeme_ze_jste_u_toho_byli_s_nami/dsc_0356.jpg" alt="Debata v sále Otakara Motejla"></figure></td>
 <td>
 <figure class="image">
-<img src="https://www.ochrance.cz/aktualne/noc_prava_dekujeme_ze_jste_u_toho_byli_s_nami/dsc_0505.jpg" alt="dsc_0505.jpg"></figure></td>
+<img src="https://www.ochrance.cz/aktualne/noc_prava_dekujeme_ze_jste_u_toho_byli_s_nami/dsc_0505.jpg" alt="Debata v sále Otakara Motejla"></figure></td>
 <td>
 <figure class="image">
-<img src="https://www.ochrance.cz/aktualne/noc_prava_dekujeme_ze_jste_u_toho_byli_s_nami/dsc_0496.jpg" alt="dsc_0496.jpg"></figure></td>
+<img src="https://www.ochrance.cz/aktualne/noc_prava_dekujeme_ze_jste_u_toho_byli_s_nami/dsc_0496.jpg" alt="Debata v sále Otakara Motejla"></figure></td>
 <td>
 <figure class="image">
-<img src="https://www.ochrance.cz/aktualne/noc_prava_dekujeme_ze_jste_u_toho_byli_s_nami/dsc_9783.jpg" alt="dsc_9783.jpg"></figure></td></tr></tbody></table></figure>
+<img src="https://www.ochrance.cz/aktualne/noc_prava_dekujeme_ze_jste_u_toho_byli_s_nami/dsc_9783.jpg" alt="Návštěvníci sledují video o kanceláři ombudsmana"></figure></td></tr></tbody></table></figure>
