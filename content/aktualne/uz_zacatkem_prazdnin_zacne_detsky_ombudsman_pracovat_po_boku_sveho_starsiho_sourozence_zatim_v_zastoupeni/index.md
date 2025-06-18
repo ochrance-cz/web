@@ -19,6 +19,8 @@ perex: <p>Práva a hlas dětí v Česku od 1. července posílí nová instituce
 attachments:
   - title: Dětský ombudsman – jak ti pomůže? (informační leták)
     file: https://www.ochrance.cz/aktualne/uz_zacatkem_prazdnin_zacne_detsky_ombudsman_pracovat_po_boku_sveho_starsiho_sourozence_zatim_v_zastoupeni/detsky_ombudsman.pdf
+  - title: Logo dětského ombudsmana
+    file: https://www.ochrance.cz/aktualne/uz_zacatkem_prazdnin_zacne_detsky_ombudsman_pracovat_po_boku_sveho_starsiho_sourozence_zatim_v_zastoupeni/do_logo_reverz_krivky.pdf
 ---
 <p>Již od 1. července se budou moci děti v&nbsp;Česku obracet na dětského ombudsmana. Prozatím se jeho činností chopí Vít Alexander Schorm, který zároveň působí jako zástupce stávajícího ombudsmana. Na nové úkoly se již připravuje:&nbsp; 
 <i>„Zkušenosti ze zahraničí naznačují, že počty podnětů týkající se dětí se vznikem nové instituce dětského ombudsmana a s&nbsp;tím související širší osvětou narostou. Tento trend ostatně sledujeme v posledních měsících i v&nbsp;naší kanceláři.&nbsp;V&nbsp;dlouhodobějším horizontu se dětský ombudsman bude zabývat i celospolečenskými problémy. Které to jsou, naznačil například náš&nbsp;</i> 
