@@ -11,16 +11,8 @@ perex: >-
 
   <a href="https://www.ageismus.cz/">průzkumu Ageismus 2024</a> nejčastější vnímanou formou diskriminace vůbec. Dominuje nad diskriminací kvůli pohlaví nebo národnosti a časem může potkat každého. I proto se ombudsman tento rok na věkovou diskriminaci zaměřuje. Za účelem spolupráce a sdílení zkušeností přivítal ve své kanceláři zástupce neziskových organizací.&nbsp;</p>
 ---
-<figure class="table">
-<table>
-<tbody>
-<tr>
-<td>
 <figure class="image">
-<img src="https://www.ochrance.cz/aktualne/jak_chranit_starsi_lidi_pred_diskriminaci_s_cilem_hledat_reseni_a_podporu_se_ombudsman_sesel_se_zastupci_neziskovek/dsc_1412.jpg" alt="Na obrázku je Lucie Vidovicová, za ní prezentace, na které promítá grafy z výzkumu."></figure></td>
-<td>
-<figure class="image">
-<img src="https://www.ochrance.cz/aktualne/jak_chranit_starsi_lidi_pred_diskriminaci_s_cilem_hledat_reseni_a_podporu_se_ombudsman_sesel_se_zastupci_neziskovek/dsc_1302.jpg" alt="Na snímku je účastnice kulatého stolu, která se zamyšleně dívá do dokumentů."></figure></td></tr></tbody></table></figure>
+<img src="https://www.ochrance.cz/aktualne/jak_chranit_starsi_lidi_pred_diskriminaci_s_cilem_hledat_reseni_a_podporu_se_ombudsman_sesel_se_zastupci_neziskovek/dsc_1229.jpg" alt="Na snímku jsou účastníci kulatého stolu, kteří bedlivě naslouchají prezentaci."></figure>
 <h4>
 <strong>Ochránit, nebo podpořit? Co ve skutečnosti potřebují starší lidé?</strong></h4>
 <p>Společně s&nbsp;nimi hledal tým ombudsmana odpovědi na otázky, co může život starších lidí zlepšit a jak lze diskriminaci předejít. Shodli se na tom, že je potřeba vycházet z&nbsp;potřeb každého jednotlivého člověka. Z profesních zkušeností účastníků vyplynulo, že podstatnou komplikací je pro některé jejich klienty rychlý vývoj digitálních technologií. Upozorňují na potřebu podpořit starší lidi v&nbsp;samostatnosti a rozvoji kompetencí při používání digitálních služeb. Pokud ale starší lidé nechtějí využívat digitální technologie, měli by mít například možnost obrátit se na úřad i jinou (offline) cestou. Rizikům digitálního vyloučení z&nbsp;pohledu různých skupin společnosti se ve svém příspěvku věnovala také Lucie Vidovićová, socioložka z&nbsp;Fakulty sociálních studií MU.</p>
