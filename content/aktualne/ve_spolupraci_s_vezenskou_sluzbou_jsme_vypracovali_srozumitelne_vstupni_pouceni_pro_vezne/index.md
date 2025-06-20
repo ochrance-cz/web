@@ -13,6 +13,8 @@ perex: <p>Nová verze vstupního poučení pro vězně je nyní jednodušší a
 attachments:
   - file: https://www.vscr.cz/media/organizacni-jednotky/generalni-reditelstvi/odbor-vvat/pouceni-pro-odsouzene.pdf
     title: Poučení odsouzené/ho při přijetí do věznice (výkonu trestu odnětí svobody)
+  - file: https://www.vscr.cz/media/organizacni-jednotky/generalni-reditelstvi/odbor-vvat/pouceni-pro-obvinene.pdf
+    title: Poučení obviněné/ho při přijetí do vazby
 ---
 <p>Řada podnětů z věznic, které ombudsman řešil, souvisela právě s&nbsp;neporozuměním v&nbsp;základních pravidlech. Věříme proto, že nová a srozumitelnější verze předpisů a práv vězňů podstatným způsobem ulehčí každodenní situaci nejen odsouzeným, ale také dozorcům.</p>
 <p>Na otázky spojené s nástupem do vězení odpovídá také instruktážní video 
