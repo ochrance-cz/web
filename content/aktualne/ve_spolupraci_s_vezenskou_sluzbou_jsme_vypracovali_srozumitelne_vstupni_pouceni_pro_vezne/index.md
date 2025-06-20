@@ -1,6 +1,6 @@
 ---
 title: Ve spolupráci s Vězeňskou službou jsme vypracovali srozumitelné vstupní
-  poučení pro vězně
+  poučení pro vězně a obviněné
 date: 2025-06-20T08:27:00
 vystupy:
   - aktualita
