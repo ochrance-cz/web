@@ -2,6 +2,8 @@
 title: Ve spolupráci s Vězeňskou službou jsme vypracovali srozumitelné vstupní
   poučení pro vězně
 date: 2025-06-20T08:27:00
+vystupy:
+  - aktualita
 perex: <p>Nová verze vstupního poučení pro vězně je nyní jednodušší a
   efektivnější. Pomůže předcházet nedorozuměním a může snížit i počet
   souvisejících stížností a konfliktů. Jedná se v&nbsp;podstatě o jízdní řád pro
