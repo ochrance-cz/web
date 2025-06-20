@@ -15,7 +15,7 @@ attachments:
     title: Poučení odsouzené/ho při přijetí do věznice (výkonu trestu odnětí svobody)
 ---
 <p>Řada podnětů z věznic, které ombudsman řešil, souvisela právě s&nbsp;neporozuměním v&nbsp;základních pravidlech. Věříme proto, že nová a srozumitelnější verze předpisů a práv vězňů podstatným způsobem ulehčí každodenní situaci nejen odsouzeným, ale také dozorcům.</p>
-<p>K&nbsp;jednodušší orientaci ve vězeňských pravidlech přispívá také instruktážní video 
+<p>Na otázky spojené s nástupem do vězení odpovídá také instruktážní video 
 <a href="https://www.youtube.com/watch?v=nO59B40wvug&amp;t=6s">Nástup do vězení: Co vás čeká a jak se připravit?</a>, které připravila organizace Rubikon.</p>
 <figure class="image">
 <img src="https://www.ochrance.cz/aktualne/ve_spolupraci_s_vezenskou_sluzbou_jsme_vypracovali_srozumitelne_vstupni_pouceni_pro_vezne/grafiky_na_fb_1_.jpg" alt="Obrázek je infografika s popiskem, jak vypadalo vstupní poučení pro vězně před upravením v nesrozumitelné podobě. "></figure>
