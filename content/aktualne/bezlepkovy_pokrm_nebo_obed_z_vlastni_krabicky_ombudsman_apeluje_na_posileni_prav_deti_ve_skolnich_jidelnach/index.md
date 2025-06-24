@@ -12,7 +12,7 @@ perex: <p>Ministerstvo školství připravuje novelu vyhlášky o školním stra
 attachments:
   - title: "Připomínky ombudsmana k návrhu novely vyhlášky o školním stravování "
     file: https://eso.ochrance.cz/Nalezene/Edit/13596
-  - title: Návrh novely o školním stravování
+  - title: Návrh novely vyhlášky o školním stravování
     file: https://odok.gov.cz/portal/veklep/material/ALBSDDZEPKMC/
 ---
 <p>
