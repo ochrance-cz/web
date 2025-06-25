@@ -1,6 +1,6 @@
 ---
-title: "Na kávu s ombudsmanem, 126. díl: Národní lidskoprávní instituce jako
-  hlídací pes lidských práv v Česku"
+title: "Na kávu s ombudsmanem, 126. díl: Národní lidskoprávní instituce (NHRI)
+  jako hlídací pes lidských práv v Česku"
 date: 2025-06-25T09:20:00
 vystupy:
   - podcast
