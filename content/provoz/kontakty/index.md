@@ -170,6 +170,56 @@ lawyers:
         role: právnička (územní a stavební řízení, ochrana přírody a krajiny)
         phone: 542 542 282
         email: jitka.vecerova@ochrance.cz
+  - title: Odbor ochrany práv dětí
+    intro: veřejné zdravotní pojištění, stížnosti ve zdravotnictví, činnost OSPOD,
+      ústavní výchova, evidence uchazečů o zaměstnání u Úřadu práce, inspekce
+      práce apod.
+    people:
+      - name: Petra Šuplerová
+        role: vedoucí odboru, zástupkyně ředitelky sekce právní pro agendy dětského
+          ombudsmana
+        phone: 542 542 389
+        email: petra.suplerova@ochrance.cz
+      - name: Barbora Jechová
+        role: vedoucí Oddělení sociálně-právní ochrany dětí a školství
+        phone: 542 542 310
+        email: barbora.jechova@ochrance.cz
+      - name: Klára Ille
+        role: vedoucí Oddělení sociálně-právní ochrany dětí a školství
+        phone: 542 542 304
+        email: klara.ille@ochrance.cz
+      - name: Martin Ježek
+        role: právník (sociálně-právní ochrana dětí, ústavní výchova)
+        phone: 542 542 398
+        email: martin.jezek@ochrance.cz
+      - name: Tereza Kulhanová
+        role: právnička (vstupy do soudních řízení, monitoring)
+        phone: 542 542 268
+        email: tereza.kulhanova@ochrance.cz
+      - name: Lucie Veselá
+        role: právnička (sociálně-právní ochrana dětí, pěstounská péče)
+        phone: 542 542 258
+        email: lucie.vesela@ochrance.cz
+      - name: Alice Žižlavská
+        role: právnička (sociálně-právní ochrana dětí, pěstounská péče)
+        phone: 542 542 372
+        email: alice.zizlavska@ochrance.cz
+      - name: Barbora Koberová
+        role: právnička (sociálně-právní ochrana dětí, pěstounská péče)
+        phone: 542 542 292
+        email: barbora.koberova@ochrance.cz
+      - name: Daniela Suchánková
+        role: právnička (sociálně-právní ochrana dětí)
+        phone: 542 542 772
+        email: daniela.suchankova@ochrance.cz
+      - name: Jana Vomelová
+        role: právnička (školství)
+        phone: 542 542 227
+        email: jana.vomelova@ochrance.cz
+      - name: Lucie Obrovská
+        role: právnička (školství)
+        phone: 542 542 295
+        email: lucie.obrovska@ochrance.cz
   - title: Odbor veřejného pořádku, zdravotnictví a práce
     intro: >
       matriky, evidence obyvatel, občanské a cestovní průkazy, státní občanství,
@@ -214,7 +264,30 @@ lawyers:
         role: právnička (doprava, veřejné cesty)
         phone: 542 542 383
         email: slovackova@ochrance.cz
-      - {}
+      - name: Pavel Šitavanc
+        role: právník (zdravotnictví)
+        phone: 542 542 668
+        email: "pavel.sitavanc@ochrance.cz "
+      - name: Běla Vaverková
+        role: právnička (zdravotnictví)
+        phone: 542 542 331
+        email: bela.vaverkova@ochrance.cz
+      - name: Milena Zmeškalová
+        role: právnička (zaměstnanost a inspekce práce, zdravotnictví, sterilizace)
+        email: milena.zmeskalova@ochrance.cz
+        phone: 542 542 314
+      - name: Zuzana Kučerová
+        role: právnička (pojistné na zdravotní pojištění)
+        email: zuzana.kucerova@ochrance.cz
+        phone: 542 542 293
+      - name: "Jana Lazarová "
+        role: právnička (zaměstnanost a inspekce práce)
+        email: jana.lazarova@ochrance.cz
+        phone: 542 542 291
+      - name: Petra Dostálová
+        role: právnička (správa na úseku zdravotnictví)
+        phone: 542 542 350
+        email: petra.dostalova@ochrance.cz
   - title: Odbor sociálního zabezpečení
     intro: dávky pomoci v hmotné nouzi, příspěvek na péči, dávky pro zdravotně
       postižené, důchody, dávky nemocenského pojištění, dávky státní sociální
@@ -329,72 +402,6 @@ lawyers:
         role: právnička (věci cizinců)
         phone: 542 542 431
         email: "lenka.horakova@ochrance.cz "
-  - title: Odbor rodiny, zdravotnictví a práce
-    intro: veřejné zdravotní pojištění, stížnosti ve zdravotnictví, činnost OSPOD,
-      ústavní výchova, evidence uchazečů o zaměstnání u Úřadu práce, inspekce
-      práce apod.
-    people:
-      - name: Petra Šuplerová
-        role: vedoucí odboru
-        phone: 542 542 389
-        email: petra.suplerova@ochrance.cz
-      - name: Klára Ille
-        role: právnička (sociálně-právní ochrana dětí, ústavní výchova, pěstounská péče)
-        phone: 542 542 304
-        email: klara.ille@ochrance.cz
-      - name: Barbora Jechová
-        role: právnička (sociálně-právní ochrana dětí, ústavní výchova, pěstounská péče)
-        phone: 542 542 310
-        email: barbora.jechova@ochrance.cz
-      - name: Martin Ježek
-        role: právník (sociálně-právní ochrana dětí, ústavní výchova, správa na úseku
-          zdravotnictví)
-        phone: 542 542 398
-        email: martin.jezek@ochrance.cz
-      - name: Zuzana Kučerová
-        role: právnička (zaměstnanost, inspekce práce, správa na úseku zdravotnictví)
-        phone: 542 542 293
-        email: zuzana.kucerova@ochrance.cz
-      - name: Tereza Kulhanová
-        role: právnička (sociálně-právní ochrana dětí, ústavní výchova, pěstounská péče)
-        phone: 542 542 268
-        email: tereza.kulhanova@ochrance.cz
-      - name: Jana Lazarová
-        role: právnička (zaměstnanost a inspekce práce)
-        phone: 542 542 291
-        email: jana.lazarova@ochrance.cz
-      - name: Lucie Veselá
-        role: právnička (sociálně-právní ochrana dětí, ústavní výchova, pěstounská péče)
-        phone: 542 542 258
-        email: lucie.vesela@ochrance.cz
-      - name: Milena Zmeškalová
-        role: právnička (zaměstnanost a inspekce práce, správa na úseku zdravotnictví)
-        phone: 542 542 314
-        email: milena.zmeskalova@ochrance.cz
-      - name: Alice Žižlavská
-        role: právnička (sociálně-právní ochrana dětí, ústavní výchova, pěstounská péče)
-        phone: 542 542 372
-        email: alice.zizlavska@ochrance.cz
-      - name: Petra Dostálová
-        role: právnička (správa na úseku zdravotnictví)
-        email: petra.dostalova@ochrance.cz
-        phone: 542 542 350
-      - name: Barbora Koberová
-        role: právnička (sociálně-právní ochrana dětí, správa na úseku zdravotnictví)
-        phone: 542 542 292
-        email: barbora.koberova@ochrance.cz
-      - name: Běla Vaverková
-        role: právnička (správa na úseku zdravotnictví)
-        phone: 542 542 331
-        email: bela.vaverkova@ochrance.cz
-      - name: Daniela Suchánková
-        role: právnička (sociálně-právní ochrana dětí, správa na úseku zdravotnictví)
-        phone: 542 542 772
-        email: daniela.suchankova@ochrance.cz
-      - name: Pavel Šitavanc
-        role: právník (sociálně-právní ochrana dětí, správa na úseku zdravotnictví)
-        phone: 542 542 668
-        email: "pavel.sitavanc@ochrance.cz "
   - title: Odbor rovného zacházení
     intro: >
       poskytování metodické pomoci obětem diskriminace, provádění výzkumu v
@@ -419,14 +426,6 @@ lawyers:
         role: právnička
         phone: 542 542 367
         email: michaela.sinal@ochrance.cz
-      - name: Jana Mikulčická
-        role: právnička
-        phone: 542 542 302
-        email: jana.mikulcicka@ochrance.cz
-      - name: Lucie Obrovská
-        role: právnička
-        phone: 542 542 295
-        email: lucie.obrovska@ochrance.cz
       - name: Karel Suda
         role: právník
         phone: 542 542 345
@@ -435,10 +434,6 @@ lawyers:
         role: právník
         phone: 542 542 271
         email: martin.smid@ochrance.cz
-      - name: Jana Vomelová
-        role: právnička
-        phone: 542 542 227
-        email: jana.vomelova@ochrance.cz
       - name: Barbora Votoupalová
         role: "právnička "
         phone: "542 542 267 "
@@ -548,10 +543,10 @@ lawyers:
         role: "právnička "
         phone: 542 542 274
         email: margareta.baranova@ochrance.cz
-  - title: Odbor metodiky a analýzy
+  - title: Odbor strategií, metodik a koordinace
     people:
       - name: Jaroslav Švoma
-        role: vedoucí odboru
+        role: vedoucí odboru, zástupce ředitelky sekce právní pro lidskoprávní agendu
         phone: 542 542 353
         email: jaroslav.svoma@ochrance.cz
       - name: Adam Herma
@@ -559,21 +554,21 @@ lawyers:
         phone: 542 542 248
         email: adam.herma@ochrance.cz
       - name: Marie Kmecová
-        role: právnička
+        role: právnička, Oddělení metodiky a analýz
         phone: 542 542 484
         email: marie.kmecova@ochrance.cz
       - name: Jana Pecková Hodečková
-        role: "právnička "
+        role: právnička, Oddělení metodiky a analýz
         phone: 542 542 313
         email: jana.peckovahodeckova@ochrance.cz
       - name: Jakub Dubják
-        role: referent
+        role: referent, Oddělení metodiky a analýz
         phone: 542 542 396
         email: dubjak1@ochrance.cz
-  - title: Úsek výzkumu
+  - title: Oddělení výzkumu
     people:
       - name: Jakub Konečný
-        role: vedoucí úseku
+        role: vedoucí oddělení
         phone: 542 542 232
         email: jakub.konecny@ochrance.cz
       - name: Lucie Novotná
