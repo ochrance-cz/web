@@ -37,7 +37,7 @@ linksAfter: []
 <li>oddělení informatiky a&nbsp;IT,</li>
 <li>samostatný referát správy budovy a</li>
 <li>samostatný referát dopravy.</li></ul>
-<p>Součástí&nbsp;
+<p>Součástí&nbsp; 
 <strong>odboru personálního</strong>&nbsp;je samostatný referát dětské skupiny.</p>
 <p>
-<a href="organizacni_schema_2025.pdf">Organizační schéma s účinností od 1. 7. 2025</a></p>
+<a href="kvop_organizacni_schema_2025_07.pdf">Organizační schéma s účinností od 1. 7. 2025</a></p>
