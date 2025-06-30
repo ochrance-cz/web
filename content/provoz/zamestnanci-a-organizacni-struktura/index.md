@@ -2,8 +2,8 @@
 title: Zaměstnanci a organizační struktura
 linksAfter: []
 ---
-<p>Organizační struktura Kanceláře veřejného ochránce práv (dále i&nbsp;jen „Kancelář“) je upravena&nbsp;
-<a href="organizacni_rad_2024.pdf">organizačním řádem</a>. V&nbsp;čele Kanceláře je vedoucí, který svou činnost vykonává podle pokynů veřejného ochránce práv.&nbsp;</p>
+<p>Organizační struktura Kanceláře veřejného ochránce práv (dále i&nbsp;jen „Kancelář“) je upravena 
+<a href="organizacni_rad_2025.pdf">organizačním řádem</a>. V&nbsp;čele Kanceláře je vedoucí, který svou činnost vykonává podle pokynů veřejného ochránce práv.&nbsp;</p>
 <p>
 <strong>Kancelář</strong>&nbsp;se člení na&nbsp;tyto organizační útvary: Vedoucí Kanceláře, sekretariát veřejného ochránce práv a&nbsp;jeho zástupce, právní sekce, odbor administrativních a&nbsp;spisových služeb, odbor vnitřní správy a&nbsp;odbor personální.</p>
 <p>
@@ -18,7 +18,7 @@ linksAfter: []
 <li>úsek výzkumu,</li>
 <li>odbor stavebního řádu a&nbsp;životního prostředí,</li>
 <li>odbor veřejného pořádku a&nbsp;místní správy,</li>
-<li>odbor dohledu nad omezovaním osobní svobody,</li>
+<li>odbor dohledu nad omezováním osobní svobody,</li>
 <li>odbor sociálního zabezpečení,</li>
 <li>odbor rovného zacházení,</li>
 <li>odbor justice, migrace a&nbsp;financí,</li>
@@ -39,5 +39,5 @@ linksAfter: []
 <li>samostatný referát dopravy.</li></ul>
 <p>Součástí&nbsp;
 <strong>odboru personálního</strong>&nbsp;je samostatný referát dětské skupiny.</p>
-<h4>
-<a href="organizacni_schema_2024.pdf">Organizační schéma s účinností od 1. 1. 2024</a></h4>
+<p>
+<a href="organizacni_schema_2025.pdf">Organizační schéma s účinností od 1. 7. 2025</a></p>
