@@ -170,7 +170,7 @@ lawyers:
         role: právnička (územní a stavební řízení, ochrana přírody a krajiny)
         phone: 542 542 282
         email: jitka.vecerova@ochrance.cz
-  - title: Odbor veřejného pořádku a místní správy
+  - title: Odbor veřejného pořádku, zdravotnictví a práce
     intro: >
       matriky, evidence obyvatel, občanské a cestovní průkazy, státní občanství,
       Policie ČR mimo trestní řízení, dopravně správní agenda – řidičská
@@ -214,6 +214,7 @@ lawyers:
         role: právnička (doprava, veřejné cesty)
         phone: 542 542 383
         email: slovackova@ochrance.cz
+      - {}
   - title: Odbor sociálního zabezpečení
     intro: dávky pomoci v hmotné nouzi, příspěvek na péči, dávky pro zdravotně
       postižené, důchody, dávky nemocenského pojištění, dávky státní sociální
