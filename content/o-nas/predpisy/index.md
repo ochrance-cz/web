@@ -12,14 +12,19 @@ links:
   - text: Úmluva o právech osob se zdravotním postižením v českém znakovém jazyce
     link: /umluva/
 ---
-Činnost Kanceláře veřejného ochránce práv se řídí dále zejména těmito předpisy:
-
-* [nařízení vlády 165/2000 Sb.](https://www.zakonyprolidi.cz/cs/2000-165), k provedení zákona o veřejném ochránci práv
-* [zákon č. 218/2000 Sb.](https://www.zakonyprolidi.cz/cs/2000-218), o rozpočtových pravidlech, ve znění pozdějších předpisů,
-* [zákon č. 219/2000 Sb.](https://www.zakonyprolidi.cz/cs/2000-219), o majetku České republiky a jejím vystupování v právních vztazích, ve znění pozdějších předpisů
-* [zákon č. 563/1991 Sb.](https://www.zakonyprolidi.cz/cs/1991-563), o účetnictví, ve znění pozdějších předpisů
-
-## Další dokumenty
-
-* [Benátské principy](Benatske-principy.pdf) — principy ochrany a podpory ombudsmanských institucí ([český neoficiální překlad](Benatske-principy.pdf), [anglický originál](Venice-principles.pdf))
-* [Principy dobré správy](https://www.ochrance.cz/dokument/principy-dobre-spravy/) — neformální zásady kvalitního spravování věcí veřejných
+<p>Činnost Kanceláře veřejného ochránce práv a ochránce práv dětí se řídí dále zejména těmito předpisy:</p>
+<ul>
+<li>
+<a href="https://www.zakonyprolidi.cz/cs/2000-218">zákon č.&nbsp;218/2000&nbsp;Sb.</a>, o&nbsp;rozpočtových pravidlech, ve&nbsp;znění pozdějších předpisů,</li>
+<li>
+<a href="https://www.zakonyprolidi.cz/cs/2000-219">zákon č.&nbsp;219/2000&nbsp;Sb.</a>, o&nbsp;majetku České republiky a&nbsp;jejím vystupování v&nbsp;právních vztazích, ve&nbsp;znění pozdějších předpisů</li>
+<li>
+<a href="https://www.zakonyprolidi.cz/cs/1991-563">zákon č.&nbsp;563/1991&nbsp;Sb.</a>, o&nbsp;účetnictví, ve&nbsp;znění pozdějších předpisů</li></ul>
+<h2>Další dokumenty</h2>
+<ul>
+<li>
+<a href="Benatske-principy.pdf">Benátské principy</a> — principy ochrany a podpory ombudsmanských institucí (
+<a href="Benatske-principy.pdf">český neoficiální překlad</a>, 
+<a href="Venice-principles.pdf">anglický originál</a>)</li>
+<li>
+<a href="https://www.ochrance.cz/dokument/principy-dobre-spravy/">Principy dobré správy</a> — neformální zásady kvalitního spravování věcí veřejných</li></ul>
