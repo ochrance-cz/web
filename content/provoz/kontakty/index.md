@@ -5,9 +5,10 @@ sections:
   - title: Potřebujete poradit s podáním podnětu? Zavolejte na naši infolinku 542
       542 888.
     intro: Po–pá 8.00–16.00 hod.
-  - title: Sekretariát veřejného ochránce práv a jeho zástupce
+  - title: Sekretariát veřejného ochránce práv, ochránce práv dětí a jejich zástupce
     intro: >-
-      ### **Vedoucí sekretariátu veřejného ochránce práv a jeho zástupce**
+      ### **Vedoucí sekretariátu veřejného ochránce práv, ochránce práv dětí a
+      jejich zástupce**
 
 
       **Miroslav Frýdek**\
@@ -31,7 +32,7 @@ sections:
       tel: (+420) 542 542 666
 
 
-      ### **Právní poradci veřejného ochránce práv a jeho zástupce**
+      ### **Právní poradci veřejného ochránce práv, ochránce práv dětí a jejich zástupce** 
 
 
       **Martin Studnička**                                                                                                                                       telefon: (+420) 542 542 379\
@@ -88,7 +89,7 @@ sections:
 
 
       e-mail: medialni@ochrance.cz
-  - title: Vedoucí Kanceláře veřejného ochránce práv
+  - title: Vedoucí Kanceláře veřejného ochránce práv a ochránce práv dětí
     intro: |-
       **Pavel Pořízek**
       telefon: (+420) 542 542 554
