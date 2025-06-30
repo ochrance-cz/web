@@ -1,8 +1,12 @@
 ---
-title: Historie úřadu ombudsmana
+title: Historie úřadu ombudsmana a dětského ombudsmana
 illustration: historie-budova.jpg
 order: 4
 timeline:
+  - time: "2025"
+    desc: |-
+      Dětský ombudsman byl zřízen zákonem č. 77/2025 Sb.
+      Prvním zástupcem dětského ombudsmana se stal JUDr. Vít Alexander Schorm
   - time: "2022"
     desc: Zástupce ombudsmana JUDr. Vít Alexander Schorm
   - time: 2020
