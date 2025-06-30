@@ -18,7 +18,7 @@ perex: <p>Práva a hlas dětí v Česku od 1. července posílí nová instituce
   brněnské Kanceláře ombudsmana.</p>
 attachments:
   - title: Dětský ombudsman – jak ti pomůže? (informační leták)
-    file: https://www.ochrance.cz/aktualne/uz_zacatkem_prazdnin_zacne_detsky_ombudsman_pracovat_po_boku_sveho_starsiho_sourozence_zatim_v_zastoupeni/detsky_ombudsman.pdf
+    file: https://www.ochrance.cz/aktualne/uz_zacatkem_prazdnin_zacne_detsky_ombudsman_pracovat_po_boku_sveho_starsiho_sourozence_zatim_v_zastoupeni/detsky_ombudsman_letak_pro_deti.pdf
   - title: Logo dětského ombudsmana
     file: https://www.ochrance.cz/aktualne/uz_zacatkem_prazdnin_zacne_detsky_ombudsman_pracovat_po_boku_sveho_starsiho_sourozence_zatim_v_zastoupeni/do_logo_reverz_krivky.pdf
 ---
