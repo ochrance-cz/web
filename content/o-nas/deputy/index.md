@@ -1,5 +1,5 @@
 ---
-title: Zástupce veřejného ochránce práv
+title: Zástupce veřejného ochránce práv a ochránce práv dětí
 name: JUDr. Vít Alexander Schorm
 pic: zvop_schorm_-_kopie_orez.jpg
 order: 2
@@ -28,6 +28,9 @@ bio: >-
 
 
   O﻿d 1. února 2023 má zástupce ombudsmana na starosti níže vyjmenované oblasti.
+
+
+  Od 1. července 2025 je také zástupcem dětského ombudsmana.
 areas:
   - area: Ochrana dětí, mládeže a rodiny
     desc: Činnost orgánů OSPOD, ústavní výchova, dávky pěstounské péče
