@@ -16,7 +16,7 @@ chapters:
   - chapter: 7-uzitecne-kontakty
 ---
 
-Přístupnost nemíří jen na člověka s postižením, ale také na člověka s berlí, kočárkem, kufrem, různým vzděláním, jednoduše na každého. Nezáleží na diagnóze, ale na potřebách.
+Přístupnost nemíří jen na člověka s postižením, ale také na člověka s berlí, kočárkem, kufrem, různým vzděláním, jednoduše na každého. Nezáleží na diagnóze, ale na potřebách. Pokud se chcete dozvědět více, poslechněte si náš [podcast k přístupnosti](https://www.ochrance.cz/aktualne/na_kavu_s_ombudsmanem_122-_dil_pristupnost_by_mela_byt_zaklad_ne_luxus/).
 
 Česká republika musí zajistit přístupnost pro lidi s postižením podle článku 9 Úmluvy OSN o právech osob se zdravotním postižením:
 
