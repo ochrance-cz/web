@@ -39,7 +39,7 @@ linksAfter: []
 <strong>Jak probíhá výběrové řízení?</strong></h2>
 <p>Nejčastěji hledáme právníky a právničky. Většinou používáme skupinové výběrové řízení.</p>
 <ul>
-<li>Společně se pobavíme o činnosti ombudsmana, o práci, která Vás tu čeká, a&nbsp;o&nbsp;Vašich předchozích zkušenostech.</li>
+<li>Společně se pobavíme o činnosti ombudsmana a dětského ombudsmana, o práci, která Vás tu čeká, a&nbsp;o&nbsp;Vašich předchozích zkušenostech.</li>
 <li>Zpracujete rozmanité úkoly (například prezentaci na&nbsp;předem připravené téma, skupinové úkoly, odborný test, osobnostní dotazník, jazykový test).</li>
 <li>Promluvíte si s&nbsp;námi také samostatně.</li></ul>
 <h3>
