@@ -1,7 +1,7 @@
 ---
 title: Svitla naděje pro ženy, kterým ministerstvo zamítlo žádost o odškodnění
   za protiprávní sterilizaci
-date: 2025-06-30T10:33:00
+date: 2025-06-30T11:09:00
 vystupy:
   - tz
 perex: <p>Prezident Petr Pavel svým podpisem stvrdil prodloužení lhůty pro
@@ -15,7 +15,7 @@ perex: <p>Prezident Petr Pavel svým podpisem stvrdil prodloužení lhůty pro
   zamítalo. Prodloužení pomůže také ženám, jejichž řízení o odškodnění
   ministerstvo zastavilo. Zamítnutí a zastavení žádosti o odškodnění se týká
   více než 800 žen a je pravděpodobné, že o odškodnění úplně poprvé požádají
-  ženy, které dosud váhaly.</p>
+  ženy, které dosud váhaly.&nbsp;</p>
 attachments:
   - link: ""
     file: https://www.ochrance.cz/aktualne/ombudsman_shrnul_vlade_prohresky_ministerstva_zdravotnictvi_pri_odskodnovani_za_protipravni_sterilizace_extremni_prutahy_spatne_hodnoceni_dukazu_rozhodovani_v_rozporu_s_nazorem_soudu_i_ignorovani_obsahu_opakovanych_zadosti/
