@@ -1,7 +1,7 @@
 ---
 title: Svitla naděje pro ženy, kterým ministerstvo zamítlo žádost o odškodnění
   za protiprávní sterilizaci
-date: 2025-06-30T09:58:00
+date: 2025-06-30T10:33:00
 vystupy:
   - tz
 perex: <p>Prezident Petr Pavel svým podpisem stvrdil prodloužení lhůty pro
