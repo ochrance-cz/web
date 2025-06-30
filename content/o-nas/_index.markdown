@@ -1,7 +1,7 @@
 ---
-title: O Kanceláři veřejného ochránce práv a ochránci práv dětí
+title: O Kanceláři veřejného ochránce práv a ochránce práv dětí
 menuTitle: O nás
-description: >
+description: >-
   Ombudsman (oficiálně veřejný ochránce práv) chrání osoby před jednáním úřadů a
   dalších institucí, pokud je toto jednání v rozporu s právem, neodpovídá
   principům demokratického právního státu, nebo jsou úřady nečinné. Ombudsman
@@ -10,13 +10,13 @@ description: >
   práva lidí s postižením.
 
 
-  Dětský ombudsman (oficiálně ochránce práv dětí) plní úkoly v oblasti ochrany práv dítěte vyplývajících zejména z Úmluvy o právech dítěte. Dále působí k ochraně před jednáním orgánů veřejné správy, pokud je v rozporu s právem, neodpovídá principům demokratického právního státu a dobré správy, jakož i před jejich nečinností v případech, kdy může být na svých právech dotčeno dítě.
+  Dětský ombudsman (oficiálně ochránce práv dětí) se zaměřuje na případy, kdy může být na svých právech dotčeno dítě. V těchto případech chrání před jednáním úřadů a dalších institucí, pokud je toto jednání v rozporu s právem, neodpovídá principům demokratického právního státu, nebo jsou úřady nečinné. Také plní úkoly, které v oblasti ochrany práv dítěte vyplývají z Úmluvy o právech dítěte a z dalších mezinárodních smluv.
 footerPic: /images/kontakt.jpg
 links:
   - link: historie
-    text: Historie úřadu ombudsmana
+    text: Historie úřadu ombudsmana a dětského ombudsmana
   - link: predpisy
     text: Právní předpisy
 ---
-
-Ombudsmana volí Poslanecká sněmovna ČR z návrhů prezidenta a Senátu. Funkční období je šestileté a ombudsmana nelze odvolat. Ombudsman má jednoho zástupce, kterého rovněž volí Poslanecká sněmovna ČR. Ombudsman může zástupci svěřit část své působnosti.
+Ombudsmana a dětského ombudsmana volí Poslanecká sněmovna ČR z návrhů prezidenta, Senátu a České konference rektorů. Funkční období je šestileté. Ombudsmana ani dětského ombudsmana nelze odvolat. Ombudsman a dětský ombudsman mají jednoho zástupce, kterého rovněž volí Poslanecká sněmovna ČR.
+Ombudsman může zástupci svěřit část své působnosti.
