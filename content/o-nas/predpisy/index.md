@@ -3,7 +3,7 @@ title: Právní předpisy
 illustration: predpisy.jpg
 perex: Právní předpisy související s činností veřejného ochránce práv a ochránce práv dětí.
 links:
-  - text: Zákon o veřejném ochránci práv (č. 349/1999 Sb.)
+  - text: Zákon o veřejném ochránci práv a ochránci práv dětí (č. 349/1999 Sb.)
     link: https://www.zakonyprolidi.cz/cs/1999-349
   - text: Antidiskriminační zákon (č. 198/2009 Sb.)
     link: https://www.zakonyprolidi.cz/cs/2009-198
@@ -11,6 +11,10 @@ links:
     link: https://www.zakonyprolidi.cz/ms/2010-10
   - text: Úmluva o právech osob se zdravotním postižením v českém znakovém jazyce
     link: /umluva/
+  - text: Úmluva o právech dítěte
+    link: https://www.zakonyprolidi.cz/cs/1991-104
+  - text: Úmluva o právech dítěte ve znění srozumitelném dětem
+    link: https://deti.ochrance.cz/media/umluva_o_pravech_ditete_web_pdf.pdf
 ---
 <p>Činnost Kanceláře veřejného ochránce práv a ochránce práv dětí se řídí dále zejména těmito předpisy:</p>
 <ul>
