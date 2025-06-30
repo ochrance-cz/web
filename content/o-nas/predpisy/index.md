@@ -1,7 +1,7 @@
 ---
 title: Právní předpisy
 illustration: predpisy.jpg
-perex: Právní předpisy související s činností veřejného ochránce práv.
+perex: Právní předpisy související s činností veřejného ochránce práv a ochránce práv dětí.
 links:
   - text: Zákon o veřejném ochránci práv (č. 349/1999 Sb.)
     link: https://www.zakonyprolidi.cz/cs/1999-349
