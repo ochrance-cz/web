@@ -1,5 +1,5 @@
 ---
-title: "Dětský ombudsman aneb ochránce práv dětí: co dělá a co ne? "
+title: Dětský ombudsman
 situace:
   - rodina
   - ombudsman-a-jeho-pravomoce
