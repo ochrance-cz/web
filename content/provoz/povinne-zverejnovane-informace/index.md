@@ -11,10 +11,11 @@ links:
 <h2>Název</h2>
 <p>Kancelář veřejného ochránce práv a ochránce práv dětí</p>
 <h2>Důvod a&nbsp;způsob založení</h2>
-<p>Kancelář veřejného ochránce práv a ochránce práv dětí byla založena k&nbsp;organizačnímu, odbornému a&nbsp;technickému zabezpečení činnosti veřejného ochránce práv&nbsp;a ochránce práv dětí 
-<a href="statut_2025.pdf">Statutem Kanceláře veřejného ochránce práv a ochránce práv dětí</a> účinným od 1. července 2025, vydaným ochráncem na&nbsp;základě §&nbsp;25 odst.&nbsp;3 zákona č. 349/1999 Sb., o&nbsp;veřejném ochránci práv a&nbsp;o ochránci práv dětí, ve znění pozdějších předpisů.</p>
+<p>Kancelář veřejného ochránce práv 
+<a href="https://www.zakonyprolidi.cz/cs/2000-165">byla založena v&nbsp;roce 2000</a> k&nbsp;organizačnímu, odbornému&nbsp;a technickému zabezpečení činnosti veřejného ochránce práv. Od 1. července 2025 
+<a href="https://www.zakonyprolidi.cz/cs/1999-349/zneni-20250701?text=%C4%8Dl.%20II">plní stejné úkoly i pro ochránce práv dětí</a> a má nový název Kancelář veřejného ochránce práv a ochránce práv dětí.&nbsp;&nbsp;</p>
 <h2>Kontaktní spojení</h2>
-<p>Veškeré kontaktní údaje vč. možnosti vyhledání v&nbsp;mapě, trasovačů a&nbsp;informací o&nbsp;přístupu handicapových osob jsou zveřejněny na stránce 
+<p>Veškeré kontaktní údaje vč. možnosti vyhledání v&nbsp;mapě, trasovačů a&nbsp;informací o&nbsp;přístupu lidí s postižením jsou zveřejněny na stránce 
 <a href="/kontakt">Kontakt</a> v&nbsp;sekci&nbsp; 
 <a href="/provoz/kontakty">Kontakty</a>.</p>
 <p>
@@ -24,7 +25,7 @@ links:
 <p>
 <strong>Úřední hodiny:</strong>&nbsp;Kancelář veřejného ochránce práv a ochránce práv dětí nemá vymezené úřední hodiny. Příjem podnětů veřejnému ochránci práv a ochránci práv dětí je v&nbsp;budově Kanceláře veřejného ochránce práv a ochránce práv dětí v pondělí a ve středu od&nbsp;8:00 hod do&nbsp;16:00 hod.</p>
 <p>
-<strong>Provozní doba podatelny:&nbsp; Po&nbsp;- Pá&nbsp;&nbsp;&nbsp; 8:00 –&nbsp;16:00 h</strong></p>
+<strong>Provozní doba podatelny:&nbsp; Po&nbsp;–&nbsp; Pá&nbsp;&nbsp;&nbsp; 8:00 –&nbsp;16:00 h</strong></p>
 <p>
 <strong>Telefonní spojení:</strong>&nbsp;
 <br>Ústředna, vrátnice Kanceláře veřejného ochránce práv a ochránce práv dětí – 542&nbsp;542&nbsp;111&nbsp;
