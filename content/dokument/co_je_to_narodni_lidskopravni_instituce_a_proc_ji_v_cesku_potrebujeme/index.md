@@ -8,13 +8,11 @@ date: ""
 <h3>
 <strong>Co je to národní lidskoprávní instituce (NHRI)?</strong></h3>
 <blockquote>
-<p>Je to nezávislá instituce, která má ochranu lidských práv stanovenou jako svou hlavní činnost. Vnitrostátně monitoruje situaci lidských práv, upozorňuje na problémy a formuluje doporučení. Odbornými názory pomáhá státu při prosazování lidských práv. Také se jí někdy říká vnitrostátní instituce pro lidská práva. K jejímu označení se často používá i anglická zkratka NHRI.</p></blockquote>
+<p>Je to nezávislá instituce, která má ochranu lidských práv stanovenou jako svou hlavní činnost. Vnitrostátně monitoruje situaci lidských práv, upozorňuje na problémy a formuluje doporučení. Odbornými názory pomáhá státu při prosazování lidských práv. Také se jí někdy říká vnitrostátní instituce pro lidská práva. K jejímu označení se často používá i anglická zkratka NHRI z National Human Rights Institution.</p></blockquote>
 <h3>
 <strong>Máme ji v&nbsp;Česku?</strong></h3>
 <blockquote>
-<p>Zatím ne. Její roli plní částečně ombudsman. Zatím jenom 
-<i>někdy a někde</i>. NHRI vznikne 1. 7. 2025. Zákonodárci schválili novelu zákona o veřejném ochránci práv, kterou se zřizuje NHRI a dětský ombudsman. 
-<a href="https://www.ochrance.cz/aktualne/detsky_ombudsman_bude_prezident_to_dnes_stvrdil_svym_podpisem/">Novelu 10. 3. definitivně zpečetil podpisem prezident</a>.</p></blockquote>
+<p>Ano. NHRI vznikla 1. 7. 2025. Novela zákona o veřejném ochránci práv zřizuje NHRI a instituci dětského ombudsmana při Kanceláři veřejného ochránce práv, která k témuž datu změnila název na Kancelář veřejného ochránce práv a ochránce práv dětí.&nbsp;</p></blockquote>
 <h3>
 <strong>Proč ji potřebujeme?</strong></h3>
 <blockquote>
@@ -41,18 +39,14 @@ date: ""
 <blockquote>
 <p>Posiluje národní systém ochrany lidských práv. Pomáhá při tvorbě právních předpisů a pracuje na jejich zlepšení. Funguje jako kontrola i pojistka, že nejsou lidská práva omezována. Monitoruje naplňování lidských práv. Provádí výzkumy a zvyšuje povědomí o lidských právech. Zprostředkovává příklady dobré praxe ze zahraničí. Vydává nezávislá a odborná doporučení, která mohou využívat další státní instituce k&nbsp;lepšímu naplňování lidských práv. Spojuje vnitrostátní praxi s&nbsp;mezinárodními závazky (včetně závazků z&nbsp;úmluv OSN).</p></blockquote>
 <h3>
-<strong>Ombudsman nechrání lidská práva?</strong></h3>
+<strong>Ombudsman před vznikem NHRI nechránil lidská práva?</strong></h3>
 <blockquote>
-<p>Chrání. Zákon mu to ale zatím neumožňuje, aby se jim věnoval v&nbsp;plném rozsahu. Novela zákona o veřejném ochránci práv bude účinná 1. 7. 2025. V&nbsp;současnosti může ombudsman chránit lidská práva jen v&nbsp;některých oblastech a omezeně.</p></blockquote>
-<h3>
-<strong>Jak tedy ombudsman chrání lidská práva teď?</strong></h3>
-<blockquote>
-<p>Pomáhá chránit před špatným zacházením lidi omezené na&nbsp;svobodě (např. ve věznicích) nebo závislé na&nbsp;péči v&nbsp;zařízeních (např. v domovech pro seniory). Provádí výzkumy, šetření a vypracovává doporučení ke zlepšení situace lidí s&nbsp;postižením. Poskytuje metodickou pomoc obětem diskriminace. Dělá výzkumy v&nbsp;oblasti rovného zacházení a vydává doporučení k&nbsp;prosazování rovného zacházení. Tento monitoring tedy ombudsman vykonává jen pro určitou část lidí.</p></blockquote>
+<p>Chránil. Zákon mu ale před 1. 7. 2025 neumožňoval, aby se jim věnoval v&nbsp;plném rozsahu. Ombudsman chránil lidská práva jen v&nbsp;některých oblastech a omezeně. Už před vznikem HRI pomáhal chránit před špatným zacházením lidi omezené na&nbsp;svobodě (např. ve věznicích) nebo závislé na&nbsp;péči v&nbsp;zařízeních (např. v domovech pro seniory). Provádí výzkumy, šetření a vypracovává doporučení ke zlepšení situace lidí s&nbsp;postižením. Poskytuje metodickou pomoc obětem diskriminace. Dělá výzkumy v&nbsp;oblasti rovného zacházení a vydává doporučení k&nbsp;prosazování rovného zacházení. Tento monitoring tedy ombudsman před 1. 7. 2025 vykonával jen pro určitou část lidí.</p></blockquote>
 <h3>
 <strong>Jak je to jinde v&nbsp;Evropě?</strong></h3>
 <blockquote>
 <p>V&nbsp;demokratických státech je už zastřešující národní lidskoprávní instituce standardem. Jejich zakládání podporuje i OSN. Dokonce vydala soubor pravidel, tzv. 
-<a href="https://www.ohchr.org/en/instruments-mechanisms/instruments/principles-relating-status-national-institutions-paris">Pařížské principy</a>, které by nezávislé instituce měly naplňovat. Česká republika patří mezi poslední 3 členské státy Evropské unie, které dosud takovou nezávislou instituci nezřídily. Jsme za to na mezinárodní úrovni často kritizováni.</p></blockquote>
+<a href="https://www.ohchr.org/en/instruments-mechanisms/instruments/principles-relating-status-national-institutions-paris">Pařížské principy</a>, které by nezávislé instituce měly naplňovat. Česká republika patřila mezi poslední 3 členské státy Evropské unie, které dosud takovou nezávislou instituci nezřídily. Byli jsme za to na mezinárodní úrovni často kritizováni.</p></blockquote>
 <h3>
 <strong>Co jsou to vlastně lidská práva?</strong></h3>
 <blockquote>
