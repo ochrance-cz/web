@@ -159,10 +159,6 @@ lawyers:
         role: právnička (územní a stavební řízení)
         phone: 542 542 381
         email: stanislava.neubauerova@ochrance.cz
-      - name: Marie Poláčková
-        role: právnička (ochrana vod, zeměd. půdní fond, lesy, myslivost)
-        phone: 542 542 384
-        email: marie.polackova@ochrance.cz
       - name: Jana Vašíková
         role: právnička (územní a stavební řízení, památková péče)
         phone: 542 542 364
@@ -182,11 +178,11 @@ lawyers:
         phone: 542 542 389
         email: petra.suplerova@ochrance.cz
       - name: Barbora Jechová
-        role: vedoucí Oddělení sociálně-právní ochrany dětí a školství
+        role: vedoucí oddělení sociálně-právní ochrany dětí a školství
         phone: 542 542 310
         email: barbora.jechova@ochrance.cz
       - name: Klára Ille
-        role: vedoucí Oddělení sociálně-právní ochrany dětí a školství
+        role: vedoucí oddělení sociálně-právní ochrany dětí a školství
         phone: 542 542 304
         email: klara.ille@ochrance.cz
       - name: Martin Ježek
@@ -245,20 +241,21 @@ lawyers:
         phone: 542 542 390
         email: milan.kocourek@ochrance.cz
       - name: Tereza Němcová Čáslavská
-        role: právnička (ochrana spotřebitele, správa na úseku podnikání, dohled nad
-          exekuční činností)
+        role: právnička (ochrana spotřebitele, živnostenské podnikání, exekuce a
+          oddlužení)
         phone: 542 542 325
         email: tereza.nemcova-caslavska@ochrance.cz
       - name: David Vávra
-        role: právník (katastr nemovitostí, pozemkové úřady)
+        role: "právník (katastr nemovitostí, pozemkové úřady, evidence obyvatel,
+          matriky, dozor nad obecní samosprávou) "
         phone: 542 542 324
         email: david.vavra@ochrance.cz
       - name: Eliška Hejtmánková
-        role: právnička
+        role: "právnička (přestupky, sousedské spory) "
         phone: 542 542 336
         email: eliska.cisarova@ochrance.cz
       - name: Helena Pindejová
-        role: právnička (správní trestání)
+        role: právnička (přestupky)
         phone: 542 542 343
         email: helena.pindejova@ochrance.cz
       - name: Anna Slováčková
@@ -286,7 +283,7 @@ lawyers:
         email: jana.lazarova@ochrance.cz
         phone: 542 542 291
       - name: Petra Dostálová
-        role: právnička (správa na úseku zdravotnictví)
+        role: "právnička (zdravotnictví) "
         phone: 542 542 350
         email: petra.dostalova@ochrance.cz
   - title: Odbor sociálního zabezpečení
@@ -447,14 +444,14 @@ lawyers:
         role: právnička
         phone: "542 542 294 "
         email: donika.stara@ochrance.cz
-      - name: Veronika Bazalová
-        role: právnička
-        phone: 542 542 254
-        email: "veronika.bazalova@ochrance.cz "
       - name: Lucie Vodvářková
         phone: 542 542 319
         role: právnička
         email: "lucie.vodvarkova@ochrance.cz "
+      - name: Tomáš Kožnárek
+        role: právník
+        phone: 542 542 252
+        email: tomas.koznarek@ochrance.cz
   - title: Odbor dohledu nad omezováním osobní svobody
     intro: >
       provádění systematických preventivních návštěv v zařízení, kde se mohou
@@ -544,6 +541,10 @@ lawyers:
         role: "právnička "
         phone: 542 542 274
         email: margareta.baranova@ochrance.cz
+      - name: Gabriela Janíčková
+        role: právnička
+        phone: 542 542 273
+        email: gabriela.janickova@ochrance.cz
   - title: Odbor strategií, metodik a koordinace
     people:
       - name: Jaroslav Švoma
@@ -551,7 +552,7 @@ lawyers:
         phone: 542 542 353
         email: jaroslav.svoma@ochrance.cz
       - name: Adam Herma
-        role: právník
+        role: právník, Oddělení metodiky a analýz
         phone: 542 542 248
         email: adam.herma@ochrance.cz
       - name: Marie Kmecová
