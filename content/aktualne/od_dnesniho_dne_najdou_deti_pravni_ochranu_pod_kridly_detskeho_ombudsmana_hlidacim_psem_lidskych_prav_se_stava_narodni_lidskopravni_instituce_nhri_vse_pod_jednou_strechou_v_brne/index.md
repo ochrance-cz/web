@@ -44,18 +44,20 @@ attachments:
 <p>
 <strong>Jak mohou děti kontaktovat dětského ombudsmana?</strong></p>
 <ul>
-<li>Napsat na e-mail&nbsp;
+<li>Napsat na e-mail&nbsp; 
 <a href="mailto:deti@ochrance.cz">deti@ochrance.cz</a>.</li>
-<li>Využít portál&nbsp;
+<li>Využít portál&nbsp; 
 <a href="https://portal.ochrance.cz/Submissions/AddChild">https://portal.ochrance.cz/Submissions/AddChild</a></li>
 <li>Zavolat v pracovní dny vždy od&nbsp;8:00 do&nbsp;16:00 na telefonní linku&nbsp;542&nbsp;542&nbsp;888.</li>
 <li>Přijít osobně v pondělí a ve středu od 8:00 do 16:00 na Údolní 39 v&nbsp;Brně.</li>
 <li>Na tutéž adresu poslat dopis.</li></ul>
-<p>Všechny informace děti najdou na&nbsp;
+<p>Všechny informace děti najdou na&nbsp; 
 <a href="https://deti.ochrance.cz/">deti.ochrance.cz</a></p>
 <p>K&nbsp;tomu, aby se děti ozvaly, nepotřebují dospělého prostředníka. Mohou jednoduše samy rovnou napsat, zavolat či přijít.</p></blockquote>
+<figure class="image">
+<img src="https://www.ochrance.cz/aktualne/od_dnesniho_dne_najdou_deti_pravni_ochranu_pod_kridly_detskeho_ombudsmana_hlidacim_psem_lidskych_prav_se_stava_narodni_lidskopravni_instituce_nhri_vse_pod_jednou_strechou_v_brne/dsc_3439.jpg" alt="Na fotografii je muž, který instaluje nápis Kancelář veřejného ochránce práv a ochránce práv dětí."></figure>
 <p>Od 1. 7. 2025 je ombudsman také nově národní lidskoprávní institucí (NHRI). Fakticky se jedná o rozšíření jeho lidskoprávních úkolů. Měl by nezávisle a nestranně monitorovat situaci lidských práv v Česku, upozorňovat veřejnost i zákonodárce na problémy a formulovat doporučení a navrhovat systémová řešení. Svými odbornými názory by tak měla pomáhat státu při prosazování lidských práv. 
 <i>„Vznikem národní lidskoprávní instituce se připojíme po bok ostatních evropských států, které ji již zřízenou mají. Česká společnost tak získala významnou oporu v&nbsp;oblasti ochrany lidských práv. Řadu lidskoprávních otázek jsme řešili již ve stávající&nbsp;působnosti ombudsmana. Zákonem se nyní okruh otázek, ke kterým se budeme moci vyjadřovat, dále rozšiřuje. Budeme tak moci zužitkovat všechny naše dosavadní zkušenosti a poznatky,“&nbsp;</i>uvedl ombudsman Stanislav Křeček&nbsp;</p>
 <blockquote>
-<p>Kontakty pro média zůstávají stejné, nadále se na nás můžete kdykoli obracet na e-mailu&nbsp;
+<p>Kontakty pro média zůstávají stejné, nadále se na nás můžete kdykoli obracet na e-mailu&nbsp; 
 <a href="mailto:medialni@ochrance.cz">medialni@ochrance.cz</a>.&nbsp;</p></blockquote>
