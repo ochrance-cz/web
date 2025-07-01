@@ -55,8 +55,7 @@ V oblasti zdravotnictví lidé hledají pomoc ombudsmana především v souvislo
 >
 > Po naší výzvě pojišťovna znovu zhodnotila reálnou potřebu doprovodu pana Milana v lázních a přislíbila, že pobyt manželky uhradí.
 
-### 
-Práce a zaměstnanost
+### Práce a zaměstnanost
 
 Zabýváme se postupem úřadu práce. Především jde o stížnosti na rozhodnutí o podpoře v nezaměstnanosti, o sankčním vyřazení z evidence uchazečů o zaměstnání či o rekvalifikaci. Šetříme ale i činnost inspektorátů práce, např. nedostatečné provedení kontroly zaměstnavatele apod.
 
