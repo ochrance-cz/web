@@ -182,7 +182,7 @@ lawyers:
         phone: 542 542 310
         email: barbora.jechova@ochrance.cz
       - name: Klára Ille
-        role: vedoucí oddělení sociálně-právní ochrany dětí a školství
+        role: vedoucí oddělení sledování práv dětí
         phone: 542 542 304
         email: klara.ille@ochrance.cz
       - name: Martin Ježek
