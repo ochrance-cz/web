@@ -55,7 +55,7 @@ attachments:
 <a href="https://deti.ochrance.cz/">deti.ochrance.cz</a></p>
 <p>K&nbsp;tomu, aby se děti ozvaly, nepotřebují dospělého prostředníka. Mohou jednoduše samy rovnou napsat, zavolat či přijít.</p></blockquote>
 <figure class="image">
-<img src="https://www.ochrance.cz/aktualne/od_dnesniho_dne_najdou_deti_pravni_ochranu_pod_kridly_detskeho_ombudsmana_hlidacim_psem_lidskych_prav_se_stava_narodni_lidskopravni_instituce_nhri_vse_pod_jednou_strechou_v_brne/dsc_3439.jpg" alt="Na fotografii je muž, který instaluje nápis Kancelář veřejného ochránce práv a ochránce práv dětí."></figure>
+<img src="https://www.ochrance.cz/aktualne/od_dnesniho_dne_najdou_deti_pravni_ochranu_pod_kridly_detskeho_ombudsmana_hlidacim_psem_lidskych_prav_se_stava_narodni_lidskopravni_instituce_nhri_vse_pod_jednou_strechou_v_brne/dsc_3511.jpg" alt="Na obrázku jsou vstupní dveře do Kanceláře veřejného ochránce práv a ochránce práv dětí."></figure>
 <figure class="image">
 <img src="https://www.ochrance.cz/aktualne/od_dnesniho_dne_najdou_deti_pravni_ochranu_pod_kridly_detskeho_ombudsmana_hlidacim_psem_lidskych_prav_se_stava_narodni_lidskopravni_instituce_nhri_vse_pod_jednou_strechou_v_brne/dsc_3368.jpg" alt="Na fotografii je muž, který instaluje nápis Kancelář veřejného ochránce práv a ochránce práv dětí."></figure>
 <p>Od 1. 7. 2025 je ombudsman také nově národní lidskoprávní institucí (NHRI). Fakticky se jedná o rozšíření jeho lidskoprávních úkolů. Měl by nezávisle a nestranně monitorovat situaci lidských práv v Česku, upozorňovat veřejnost i zákonodárce na problémy a formulovat doporučení a navrhovat systémová řešení. Svými odbornými názory by tak měla pomáhat státu při prosazování lidských práv. 
