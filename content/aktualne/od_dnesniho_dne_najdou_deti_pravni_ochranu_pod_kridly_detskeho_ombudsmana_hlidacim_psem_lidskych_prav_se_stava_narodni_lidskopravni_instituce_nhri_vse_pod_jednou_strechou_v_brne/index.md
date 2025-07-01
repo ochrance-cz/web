@@ -13,7 +13,7 @@ perex: <p>Dnes se děti dočkaly a oficiálně se můžou obracet na dětského
   Jejím hlavním úkolem bude hodnotit každou aktivitu státu z&nbsp;pohledu
   lidských práv. Česká republika se tak připojí k&nbsp;ostatním zemím
   v&nbsp;Evropě, které oba orgány už zřízené mají. Dětský ombudsman a NHRI budou
-  mít zázemí v Kanceláři stávajícího ombudsmana na Údolní ulici 39 v&nbsp;Brně.
+  mít zázemí v budově stávajícího ombudsmana na Údolní ulici 39 v&nbsp;Brně.
   Mění se také název na Kancelář veřejného ochránce práv a ochránce práv
   dětí.&nbsp;</p>
 attachments:
