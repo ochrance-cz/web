@@ -39,7 +39,7 @@ perex: <p>Každý by měl mít možnost rozhodovat o svém životě – kde bude
 <strong>formuláři</strong></a>
 <strong>, nebo nám můžete poslat:</strong></p>
 <ul>
-<li>dopis na adresu Údolní 39 Brno</li>
+<li>dopis na adresu Údolní 39, Brno 602&nbsp;00</li>
 <li>e-mail na adresu doporuceni.dei@ochrance.cz</li>
 <li>nahrané video s odpověďmi</li></ul>
 <p>
