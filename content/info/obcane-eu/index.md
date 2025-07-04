@@ -1,6 +1,7 @@
 ---
 title: Jsem občan Evropské unie
 ---
+
 <h4>Pomáháme také občanům jiných států EU, kteří žijí v&nbsp;Česku&nbsp;</h4>
 <p>Můžete nám napsat, pokud řešíte problém, který souvisí s&nbsp;tím, že jste se přestěhovali do jiné země, například pokud vás diskriminují, zaměstnavatel porušuje vaše práva nebo třeba úřad nezohlední dokumenty od zahraničních institucí.</p>
 <p>Můžeme vám pomoct s&nbsp;problémy:&nbsp;</p>
@@ -20,14 +21,7 @@ title: Jsem občan Evropské unie
 <li>
 <p>nebo jste v&nbsp;Česku v&nbsp;minulosti bydleli</p>
 
-
-{{< /rozbal >}}
-
-
-
-
 {{< rozbal "Příklady řešených problémů?" >}}
-
 
 <h3>Příklady řešených problémů</h3>
 <blockquote>
@@ -52,9 +46,9 @@ title: Jsem občan Evropské unie
 <p>Pokud se budete chtít podívat, jakými případy s&nbsp;přesahem do&nbsp;evropského práva se ochránce v&nbsp;minulosti zabýval, můžete si přečíst&nbsp;
 <a href="https://www.ochrance.cz/uploads-import/Publikace/sborniky_stanoviska/Sbornik_Obcanstvi_EU.pdf">Sborník stanovisek Občanství Evropské unie</a></p>
 
+{{< /rozbal >}}
 
 {{< rozbal "Jak se bránit?" >}}
-
 
 <h3>Jak bránit svá práva</h3>
 <p>Máte-li nějaké další otázky, můžete se pokusit najít odpověď na&nbsp;stránkách 
@@ -77,14 +71,9 @@ title: Jsem občan Evropské unie
 <strong>ombudsmana</strong> – můžeme vám poradit, jaká jsou vaše práva a&nbsp;jak se nejlépe bránit. Také se můžete obrátit na&nbsp;
 <a href="/uploads-import/Letaky/Organizace-uprchlicka-cizinecka-problematika.pdf">neziskové organizace</a>, které pomáhají cizincům v&nbsp;Česku.</p>
 
-
 {{< /rozbal >}}
 
-
-
-
 {{< rozbal "Práce a zaměstnání" >}}
-
 
 <h3>Přístup k&nbsp;zaměstnání</h3>
 <ul>
@@ -216,14 +205,9 @@ title: Jsem občan Evropské unie
 <strong>Usazení</strong> - jestliže Vaše podnikatelské aktivity v&nbsp;jiném státě EU rozšiřujete a&nbsp;nelze je proto již považovat za&nbsp;dočasné nebo příležitostné, nebo tam jednoduše chcete začít podnikat, je třeba se v&nbsp;daném státě „usadit". Více se o&nbsp;podmínkách usazení dozvíte v&nbsp;tomto 
 <a href="https://www.businessinfo.cz/cs/clanky/podnikani-ve-sluzbach-v-eu-3942.html#!&amp;chapter=2">odkaze</a>.</li></ul>
 
-
 {{< /rozbal >}}
 
-
-
-
 {{< rozbal "Pobytová práva" >}}
-
 
 <h3>Vstup a&nbsp;pobyt na&nbsp;území České republiky</h3>
 <ul>
@@ -314,14 +298,9 @@ title: Jsem občan Evropské unie
 <a href="https://ipc.gov.cz/zivot-v-cesku/rodne-cislo/">úřední rodné číslo</a>
 <a href="https://www.mvcr.cz/clanek/rodne-cislo.aspx">.</a>&nbsp;&nbsp;Úřední rodné číslo je&nbsp;osobním identifikačním číslem a&nbsp;je&nbsp;důležité například pro placení zdravotního a&nbsp;sociálního pojištění a&nbsp;pro placení daní.</li></ul>
 
-
 {{< /rozbal >}}
 
-
-
-
 {{< rozbal "Sociální záležitosti a daně" >}}
-
 
 <h3>Zdravotní pojištění a&nbsp;zdravotní péče</h3>
 <ul>
@@ -433,14 +412,9 @@ title: Jsem občan Evropské unie
 <li>Více informací o&nbsp;obecním bydlení Vám poskytne náš&nbsp;
 <a href="https://www.ochrance.cz/uploads-import/Letaky/Bydleni.pdf">informační leták</a>.</li></ul>
 
-
 {{< /rozbal >}}
 
-
-
-
 {{< rozbal "Volby a registrace vozidel" >}}
-
 
 <p>Ve volbách do&nbsp;zastupitelstev obcí máte právo volit jako občan Evropské unie, pokud máte potvrzení o&nbsp;přechodném pobytu nebo povolení k&nbsp;trvalému pobytu a&nbsp;jste přihlášen k&nbsp;pobytu v&nbsp;dané obci, pokud podáte na&nbsp;obecním úřadě žádost o&nbsp;zápis do&nbsp;dodatku stálého seznamu voličů. Více informací také 
 <a href="https://www.mvcr.cz/clanek/hlasovani-ve-volbach.aspx">zde&nbsp;</a>(
@@ -453,14 +427,9 @@ title: Jsem občan Evropské unie
 <p>Řidičská oprávnění vydaná ve&nbsp;státě Evropské unie jsou automaticky uznávaná v&nbsp;ostatních státech EU. Pokud se přestěhujete do&nbsp;jiného státu EU na&nbsp;dobu delší než 6&nbsp;měsíců, máte povinnost své vozidlo zaregistrovat v&nbsp;nové zemi. Lhůty pro registraci se v&nbsp;jednotlivých státech liší, v&nbsp;Česku je to 10&nbsp;pracovních dní. Registraci provádí obecní úřad obce s&nbsp;rozšířenou působností v&nbsp;místě vašeho bydliště. S&nbsp;nutností registrovat vozidlo se pojí také nutnost mít povinné pojištění odpovědnosti platné pro daný stát. Více informací naleznete 
 <a href="https://europa.eu/youreurope/citizens/vehicles/registration/registration-abroad/index_cs.htm">zde</a>.</p>
 
-
 {{< /rozbal >}}
 
-
-
-
 {{< rozbal "Právní předpisy" >}}
-
 
 <ul>
 <li>
@@ -471,6 +440,5 @@ title: Jsem občan Evropské unie
 <a href="http://eur-lex.europa.eu/legal-content/CS/TXT/?qid=1521446988666&amp;uri=CELEX:32011R0492">Nařízení o volném pohybu pracovníků uvnitř Unie</a></li>
 <li>
 <a href="http://eur-lex.europa.eu/legal-content/CS/TXT/?qid=1521463202729&amp;uri=CELEX%3A32004L0038">Směrnice o právu občanů Unie a jejich rodinných příslušníků svobodně se pohybovat a pobývat na území členských států</a></li></ul>
-
 
 {{< /rozbal >}}
