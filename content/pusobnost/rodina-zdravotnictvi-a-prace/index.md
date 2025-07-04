@@ -20,13 +20,8 @@ Základní informace najdete v informačních letácích:
 * [Dětský ombudsman aneb ochránce práv dětí: co dělá a co ne?](https://www.ochrance.cz/letaky/detsky-ombudsman/detsky-ombudsman.pdf)
 * [Dětský ombudsman: pomáhá i jinak (zvláštní oprávnění)](https://www.ochrance.cz/letaky/detsky-ombudsman-zvlastni-opravneni/detsky-ombudsman-zvlastni-opravneni.pdf)
 
-
-
-
-## Rodina
-
-*Případ umístění dívky do krizového zařízení pro děti*
-
+> *Případ umístění dívky do krizového zařízení pro děti*
+>
 > 14letá Jana byla na návrh OSPOD umístěna do krizového zařízení pro děti. Napsala ombudsmanovi, že neví, proč v zařízení je, jak dlouho v něm bude, proč byla odebrána z péče otce. Během převozu autem po ní navíc soudní vykonavatel požadoval, aby měla celou dobu ruce na klíně.
 >
 > Vytkli jsme OSPOD, že s dívkou nekomunikoval lépe a vše jí nevysvětlil, že nezjišťoval, jestli by nemohla být v péči někoho z příbuzných, a kritizovali jsme OSPOD i za to, že nezasáhl proti necitlivému jednání soudního vykonavatele. OSPOD poučil své pracovníky, vyjasnil si se soudním vykonavatelem přístup k dítěti a začal s Janou intenzivně komunikovat.
