@@ -20,4 +20,3 @@ attachments:
 <figure class="image">
 <img src="https://www.ochrance.cz/aktualne/detsky_ombudsman_nova_pusobnost_novy_nazev_kancelare_i_barva_loga/lofo_vop_a_do.png" alt="logo ombudsmana - křídlo v kolečku a text ombudsman - veřejný ochránce práv  a logo dětského ombudsmana - totéž křídlo v kolečku a text dětský ombudsman - ochránce práv dětí"></figure>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
