@@ -325,113 +325,113 @@ title: Jsem občan Evropské unie
 
 <h3>Zdravotní pojištění a&nbsp;zdravotní péče</h3>
 <ul>
-<li>Zdravotní péče –&nbsp;jako občan EU máte právo na&nbsp;stejnou zdravotní péči jako čeští občané</li>
-<li>Na kvalitu poskytnuté zdravotní péče nebo přístup personálu si můžete stěžovat, více informací 
-<a href="/uploads-import/Letaky/Zdravotnictvi-stiznosti.pdf">zde</a>nebo 
-<a href="http://www.mzcr.cz/Cizinci/obsah/postup-podani-stiznosti-na-poskytnuti-zdravotni-pece_2623_22.html">zde&nbsp;</a>&nbsp;&nbsp;(
-<a href="http://www.mzcr.cz/cizinci">www.mzcr.cz/cizinci</a> → Postup podání stížnosti na&nbsp;poskytnutí zdravotní péče)</li>
+<li>Zdravotní péče –&nbsp;jako občan EU&nbsp;máte právo na&nbsp;stejnou zdravotní péči jako čeští občané</li>
+<li>Na kvalitu poskytnuté zdravotní péče nebo přístup personálu si&nbsp;můžete stěžovat, více informací v našem letáku 
+<a href="https://www.ochrance.cz/uploads-import/Letaky/Zdravotnictvi-stiznosti.pdf">Stížnosti ve zdravotnictví </a>nebo na stránce 
+<a href="https://www.nzip.cz/clanek/237-pravo-na-podani-stiznosti">Národního zdravotnického informačního portálu</a>&nbsp;
+<a href="https://www.nzip.cz/clanek/237-pravo-na-podani-stiznosti"> </a>(
+<a href="https://www.nzip.cz/">Národní zdravotnický informační portál</a>&nbsp;→ Životní situace → Práva pacienta → Právo na podání stížnosti)</li>
 <li>Zdravotně pojištění (v&nbsp;systému veřejného zdravotního pojištění) můžete být jen v&nbsp;jednom státě Evropské unie</li>
-<li>Za stát pojištění se automaticky považuje ten stát, kde pracujete nebo podnikáte (s&nbsp;výjimkou dočasného vyslání zaměstnance nebo podnikatele nebo sezónního zaměstnání, zvláštní pravidla se vztahují na&nbsp;příhraniční pracovníky)</li>
-<li>Pokud nepracujete nebo nepodnikáte, je pravděpodobně státem pojištění ten, kde se dlouhodobě zdržujete, bližší informace 
-<a href="https://www.kancelarzp.cz/cs/pojistenci/prava-naroky-eu/zdr-poj-pece-eu/kde-byt-pojisten">zde</a>&nbsp;, kancelarzp.cz → Pro pojištěnce → Práva a&nbsp;nároky v&nbsp;zahraničí → O&nbsp;zdravotním pojištění a&nbsp;péči v&nbsp;EU</li>
-<li>Pojistné –&nbsp;pokud pracujete v&nbsp;pracovním poměru, pojistné z&nbsp;vašeho příjmu odvádí zaměstnavatel (práce na&nbsp;dohodu o&nbsp;pracovní činnosti nebo dohodu o&nbsp;provedení práce není považována za&nbsp;práci v&nbsp;pracovním poměru); pokud nepracujete v&nbsp;pracovním poměru, musíte si pojistné platit sami –&nbsp;informujte se u&nbsp;své zdravotní pojišťovny</li>
+<li>Za stát pojištění se&nbsp;automaticky považuje ten stát, kde pracujete nebo podnikáte (s&nbsp;výjimkou dočasného vyslání zaměstnance nebo podnikatele nebo sezónního zaměstnání, zvláštní pravidla se&nbsp;vztahují na&nbsp;příhraniční pracovníky)</li>
+<li>Pokud nepracujete nebo nepodnikáte, je&nbsp;pravděpodobně státem pojištění ten, kde se&nbsp;dlouhodobě zdržujete, bližší informace na stránkách 
+<a href="https://www.kancelarzp.cz/app/">Kanceláře zdravotního pojištění</a>.</li>
+<li>Pojistné –&nbsp;pokud pracujete v&nbsp;pracovním poměru, pojistné z&nbsp;vašeho příjmu odvádí zaměstnavatel (práce na&nbsp;dohodu o&nbsp;pracovní činnosti nebo dohodu o&nbsp;provedení práce není považována za&nbsp;práci v&nbsp;pracovním poměru); pokud nepracujete v&nbsp;pracovním poměru, musíte si&nbsp;pojistné platit sami –&nbsp;informujte se&nbsp;u&nbsp;své zdravotní pojišťovny</li>
 <li>Pokud jste pojištěn v&nbsp;jiném členském státě EU, můžete po&nbsp;předložení EHIC karty (modrá kartička prokazující zdravotní pojištění) čerpat nezbytnou zdravotní péči i&nbsp;v&nbsp;Česku</li>
-<li>O veškerých změnách (jméno a&nbsp;příjmení, adresa, změna zaměstnání) je potřeba zdravotní pojišťovnu informovat</li>
-<li>Některé pojišťovny nabízí i&nbsp;komerční zdravotní pojištění, to ale nemusí pokrývat veškerou zdravotní péči a&nbsp;zpravidla bude méně výhodné než veřejné zdravotní pojištění</li>
+<li>O veškerých změnách (jméno a&nbsp;příjmení, adresa, změna zaměstnání) je&nbsp;potřeba zdravotní pojišťovnu informovat</li>
+<li>Některé pojišťovny nabízí i&nbsp;komerční zdravotní pojištění, to&nbsp;ale nemusí pokrývat veškerou zdravotní péči a&nbsp;zpravidla bude méně výhodné než veřejné zdravotní pojištění</li>
 <li>Více informací naleznete na&nbsp;
 <a href="http://www.kancelarzp.cz/">www.kancelarzp.cz</a></li></ul>
 <h3>Sociální zabezpečení</h3>
 <ul>
-<li>Aby bylo pro občany Evropské unie jednodušší se za&nbsp;prací přestěhovat do&nbsp;zahraničí, přijala Unie pravidla pro určení, který stát je odpovědný za&nbsp;vyplácení dávek sociálního zabezpečení</li>
+<li>Aby bylo pro občany Evropské unie jednodušší se&nbsp;za&nbsp;prací přestěhovat do&nbsp;zahraničí, přijala Unie pravidla pro určení, který stát je&nbsp;odpovědný za&nbsp;vyplácení dávek sociálního zabezpečení</li>
 <li>Podle těchto pravidel vždy podléháte předpisům pouze jednoho státu – státu pojištění</li>
-<li>Za stát pojištění se automaticky považuje ten stát, kde pracujete nebo podnikáte (s&nbsp;výjimkou dočasného vyslání zaměstnance nebo podnikatele nebo sezónního zaměstnání, zvláštní pravidla se vztahují na&nbsp;příhraniční pracovníky). Pokud nepracujete, je státem pojištění zpravidla stát, ve&nbsp;kterém bydlíte</li>
+<li>Za stát pojištění se&nbsp;automaticky považuje ten stát, kde pracujete nebo podnikáte (s&nbsp;výjimkou dočasného vyslání zaměstnance nebo podnikatele nebo sezónního zaměstnání, zvláštní pravidla se&nbsp;vztahují na&nbsp;příhraniční pracovníky). Pokud nepracujete, je&nbsp;státem pojištění zpravidla stát, ve&nbsp;kterém bydlíte</li>
 <li>Ve státě pojištění byste měli mít stejný přístup k&nbsp;dávkám sociálního zabezpečení, jako mají občané toho státu</li>
 <li>Při rozhodování o&nbsp;vašem nároku na&nbsp;dávky sociálního zabezpečení započítává příslušná instituce doby pojištění, zaměstnání nebo podnikání získané v&nbsp;jiných zemích EU</li>
-<li>Placení pojistného na&nbsp;sociální zabezpečení –&nbsp;pokud pracujete v&nbsp;pracovní poměru, pojistné z&nbsp;vašeho příjmu odvádí zaměstnavatel; pokud nepracujete v&nbsp;pracovním poměru, musíte si pojistné platit sami – informujte se na&nbsp;Okresní správě sociálního zabezpečení</li>
+<li>Placení pojistného na&nbsp;sociální zabezpečení –&nbsp;pokud pracujete v&nbsp;pracovní poměru, pojistné z&nbsp;vašeho příjmu odvádí zaměstnavatel; pokud nepracujete v&nbsp;pracovním poměru, musíte si&nbsp;pojistné platit sami – informujte se&nbsp;na&nbsp;Okresní správě sociálního zabezpečení</li>
 <li>V&nbsp;některých případech vám může Okresní správa sociálního zabezpečení nebo Úřad práce předložit dotazník, aby zjistil stát vašeho bydliště</li>
-<li>Pro více informací o&nbsp;důchodech (starobní, invalidní atd.), o&nbsp;nemocenském a&nbsp;dávkách v&nbsp;mateřství a&nbsp;otcovství se můžete informovat u&nbsp;Okresní správy sociálního zabezpečení; pro více informací o&nbsp;dávkách v&nbsp;nezaměstnanosti, rodinných dávkách (přídavek na&nbsp;dítě, rodičovský příspěvek) nebo pomoci v&nbsp;hmotné nouzi se můžete obrátit na&nbsp;Úřad práce</li>
-<li>Když skončíte s&nbsp;prací v&nbsp;jednom státě a&nbsp;plánujete se přestěhovat do&nbsp;jiného státu, je dobré získat potvrzení o&nbsp;době trvání sociálního pojištění (informujte se na&nbsp;úřadu práce ve&nbsp;státě, kde pracujete)</li>
-<li>Více informací je dostupné na&nbsp;stránkách 
-<a href="https://www.mpsv.cz/cs/">Ministerstva práce a sociálních věcí</a>&nbsp;nebo 
-<a href="https://www.cssz.cz/cz">České správy sociálního zabezpečení</a>&nbsp;nebo 
-<a href="http://www.uradprace.cz">Úřadu práce</a></li>
-<li>Více informací o&nbsp;koordinaci sociálního zabezpečení v&nbsp;Evropské unii je dostupné 
-<a href="https://ec.europa.eu/social/main.jsp?catId=849&amp;langId=cs">zde</a>&nbsp;a Praktický průvodce použitelnými právními předpisy koordinace sociálního zabezpečení je ke&nbsp;stažení 
+<li>Pro více informací o&nbsp;důchodech (starobní, invalidní atd.), o&nbsp;nemocenském a&nbsp;dávkách v&nbsp;mateřství a&nbsp;otcovství se&nbsp;můžete informovat u&nbsp;Okresní správy sociálního zabezpečení; pro více informací o&nbsp;dávkách v&nbsp;nezaměstnanosti, rodinných dávkách (přídavek na&nbsp;dítě, rodičovský příspěvek) nebo pomoci v&nbsp;hmotné nouzi se&nbsp;můžete obrátit na&nbsp;Úřad práce</li>
+<li>Když skončíte s&nbsp;prací v&nbsp;jednom státě a&nbsp;plánujete se&nbsp;přestěhovat do&nbsp;jiného státu, je&nbsp;dobré získat potvrzení o&nbsp;době trvání sociálního pojištění (informujte se&nbsp;na&nbsp;úřadu práce ve&nbsp;státě, kde pracujete, nebo na stránkách 
+<a href="https://www.cssz.cz/postup-pri-potvrzovani-dob-pojisteni">České správy sociálního zabezpečení</a>)</li>
+<li>Více informací je&nbsp;dostupné na&nbsp;stránkách&nbsp;
+<a href="https://www.mpsv.cz/cs/">Ministerstva práce a&nbsp;sociálních věcí</a>&nbsp;nebo&nbsp;
+<a href="https://www.cssz.cz/cz">České správy sociálního zabezpečení</a>&nbsp;nebo&nbsp;
+<a href="http://www.uradprace.cz/">Úřadu práce</a></li>
+<li>Více informací o&nbsp;koordinaci sociálního zabezpečení v&nbsp;Evropské unii je&nbsp;dostupné&nbsp;
+<a href="https://ec.europa.eu/social/main.jsp?catId=849&amp;langId=cs">zde</a>&nbsp;a&nbsp;Praktický průvodce použitelnými právními předpisy koordinace sociálního zabezpečení je&nbsp;ke&nbsp;stažení&nbsp;
 <a href="https://www.cssz.cz/documents/20143/189523/Practicalguideworker11cewckvzlkczunzmmbrormawdqwrikamcaf.pdf/6364fd79-b60d-7946-25fa-b246dbb4c1d4">zde&nbsp;</a>(
-<a href="http://www.cssz.cz/">www.cssz.cz</a> → životní situace&nbsp;→ Práce a&nbsp;pobyt v&nbsp;zahraničí&nbsp;→&nbsp;Evropská unie)</li>
-<li>Pokud se chystáte vycestovat z&nbsp;Česka, užitečné informace najdete v&nbsp;
+<a href="http://www.cssz.cz/">www.cssz.cz</a>&nbsp;→ životní situace&nbsp;→ Práce a&nbsp;pobyt v&nbsp;zahraničí&nbsp;→&nbsp;Evropská unie)</li>
+<li>Pokud se&nbsp;chystáte vycestovat z&nbsp;Česka, užitečné informace najdete v&nbsp;
 <a href="https://www.cssz.cz/documents/20143/189523/priruckapromigrujici1781lgkdasdjgvpwrdyhvsepawpewhadlbii.pdf/e067dc39-41da-8c35-6152-2dd0ac792acf">Příručce pro migrující osoby</a>&nbsp;(
-<a href="http://www.cssz.cz/">www.cssz.cz</a> → životní situace&nbsp;→ Práce a&nbsp;pobyt v&nbsp;zahraničí&nbsp;→&nbsp;Evropská unie), kterou vydalo Ministerstvo práce a&nbsp;sociálních věcí</li></ul>
+<a href="http://www.cssz.cz/">www.cssz.cz</a>&nbsp;→ životní situace&nbsp;→ Práce a&nbsp;pobyt v&nbsp;zahraničí&nbsp;→&nbsp;Evropská unie), kterou vydalo Ministerstvo práce a&nbsp;sociálních věcí</li></ul>
 <h3>Kurzy češtiny</h3>
 <ul>
-<li>Pro zlepšení jazykových schopností můžete navštěvovat jazykové kurzy v&nbsp;integračních centrech. Ta se nacházejí v&nbsp;každém kraji. Kontakty na&nbsp;jednotlivé pobočky a&nbsp;další informace o&nbsp;jejich aktivitách naleznete na&nbsp;
+<li>Pro zlepšení jazykových schopností můžete navštěvovat jazykové kurzy v&nbsp;integračních centrech. Ta&nbsp;se nacházejí v&nbsp;každém kraji. Kontakty na&nbsp;jednotlivé pobočky a&nbsp;další informace o&nbsp;jejich aktivitách naleznete na&nbsp;
 <a href="http://www.integracnicentra.cz/">www.integracnicentra.cz</a></li></ul>
 <h3>Poskytování zboží a&nbsp;služeb</h3>
 <ul>
-<li>Poskytovatelé zboží a&nbsp;služeb nesmí diskriminovat příjemce služeb/kupujícího z&nbsp;důvodu jeho státní příslušnosti, pokud k&nbsp;tomu není objektivně ospravedlnitelný důvod. Pokud se cítíte být diskriminován, můžete podat podnět 
-<a href="http://www.coi.cz">České obchodní inspekci</a>.</li>
-<li>Poskytování finančních služeb (úvěry, hypotéky, pojištění) má svá specifika. V&nbsp;případech diskriminace se můžete obrátit na&nbsp;
-<a href="https://www.cnb.cz/cs/dohled-financni-trh/ochrana-spotrebitele/ochrana-spotrebitele/">Českou národní banku</a> (
-<a href="http://www.cnb.cz/">www.cnb.cz</a> → Dohled a&nbsp;regulace → Ochrana spotřebitele a&nbsp;finanční gramotnost → Ochrana spotřebitele), nebo v&nbsp;případě spotřebitelských úvěrů poskytovaných nebankovními subjekty na&nbsp;Českou obchodní inspekci).</li>
-<li>Důležité je, že&nbsp;každý, kdo se legálně zdržuje v&nbsp;Česku nebo jiném státě EU, má právo na&nbsp;zřízení jednoho základního platebního účtu v&nbsp;daném 
+<li>Poskytovatelé zboží a&nbsp;služeb nesmí diskriminovat příjemce služeb/kupujícího z&nbsp;důvodu jeho státní příslušnosti, pokud k&nbsp;tomu není objektivně ospravedlnitelný důvod. Pokud se&nbsp;cítíte být diskriminován, můžete podat podnět&nbsp;
+<a href="http://www.coi.cz/">České obchodní inspekci</a>.</li>
+<li>Poskytování finančních služeb (úvěry, hypotéky, pojištění) má&nbsp;svá specifika. V&nbsp;případech diskriminace se&nbsp;můžete obrátit na&nbsp;
+<a href="https://www.cnb.cz/cs/dohled-financni-trh/ochrana-spotrebitele/ochrana-spotrebitele/">Českou národní banku</a>&nbsp;(
+<a href="http://www.cnb.cz/">www.cnb.cz</a>&nbsp;→ Dohled a&nbsp;regulace → Ochrana spotřebitele a&nbsp;finanční gramotnost → Ochrana spotřebitele), nebo v&nbsp;případě spotřebitelských úvěrů poskytovaných nebankovními subjekty na&nbsp;Českou obchodní inspekci).</li>
+<li>Důležité je, že&nbsp;každý, kdo se&nbsp;legálně zdržuje v&nbsp;Česku nebo jiném státě EU, má&nbsp;právo na&nbsp;zřízení jednoho základního platebního účtu v&nbsp;daném&nbsp;
 <a href="https://europa.eu/youreurope/citizens/consumers/financial-products-and-services/bank-accounts-eu/index_cs.htm">státě</a>.</li></ul>
 <h3>Daně</h3>
 <ul>
-<li>Placení daně z&nbsp;příjmů se odvíjí od&nbsp;toho, jste-li 
-<strong>českým daňovým rezidentem</strong> nebo nerezidentem. Pokud jste českým daňovým rezidentem, máte vůči českému finančnímu úřadu neomezenou daňovou povinnost, tj. zdaňujete zde tuzemské i&nbsp;zahraniční příjmy. Pokud jste 
-<strong>českým daňovým nerezidentem</strong>, zdaňujete v&nbsp;ČR pouze příjmy plynoucí ze&nbsp;zdrojů v&nbsp;ČR.</li>
+<li>Placení daně z&nbsp;příjmů se&nbsp;odvíjí od&nbsp;toho, jste-li&nbsp;
+<strong>českým daňovým rezidentem</strong>&nbsp;nebo nerezidentem. Pokud jste českým daňovým rezidentem, máte vůči českému finančnímu úřadu neomezenou daňovou povinnost, tj. zdaňujete zde tuzemské i&nbsp;zahraniční příjmy. Pokud jste&nbsp;
+<strong>českým daňovým nerezidentem</strong>, zdaňujete v&nbsp;ČR&nbsp;pouze příjmy plynoucí ze&nbsp;zdrojů v&nbsp;ČR.</li>
 <li>
-<a href="https://www.financnisprava.cz/cs/dane/dane/dan-z-prijmu/fyzicke-osoby-poplatnik/obecne-informace#rezident">Určení daňového rezidenství</a> není jednoduché. Pravidla je třeba hledat nejprve v&nbsp;zákoně o&nbsp;daních z&nbsp;příjmů (§&nbsp;2) a&nbsp;zahraničních daňových předpisech. Pokud jste daňovým rezidentem podle „místních“ předpisů ve&nbsp;více zemích, podívejte se do&nbsp;příslušné 
-<a href="https://www.mfcr.cz/cs/legislativa/dvoji-zdaneni/prehled-platnych-smluv">mezinárodní smlouvy o zamezení dvojího zdanění</a> (do&nbsp;čl. 4). (https://www.financnisprava.cz → daně → daně → daň z&nbsp;příjmu → fyzické osoby → obecné informace)</li>
-<li>Daňové rezidentství se zpravidla určuje postupně podle těchto kritérií: 1.&nbsp;stálý byt, 2.&nbsp;centrum životních zájmů, 3.&nbsp;obvyklý pobyt (v&nbsp;ČR např.&nbsp;alespoň 183&nbsp;dní v&nbsp;roce), 4.&nbsp;státní občanství. Pokud tedy celý rok&nbsp;bydlíte a&nbsp;pracujete na&nbsp;území ČR, lze předpokládat, že&nbsp;budete i&nbsp;českým daňovým rezidentem. Záleží však na&nbsp;mnoha okolnostech, v&nbsp;případě pochybností je proto dobré využít služeb profesionálů.</li>
-<li>Pokud na&nbsp;území ČR bydlíte a&nbsp;pracujete, 
-<strong>až na&nbsp;výjimky</strong> zde musíte platit daň z&nbsp;příjmů ze&nbsp;zaměstnání. Pokud jste zaměstnanci, zaměstnavatel Vám 
-<strong>zpravidla</strong> sráží zálohu na&nbsp;daň z&nbsp;příjmů. Do&nbsp;15.&nbsp;února následujícího roku&nbsp;můžete požádat zaměstnavatele o&nbsp;tzv. roční zúčtování daně, popř. si můžete sami podat daňové přiznání do&nbsp;1.&nbsp;dubna následujícího roku&nbsp;(pokud termín dopadne na&nbsp;den pracovního klidu, posunuje se na&nbsp;první pracovní den). Pokud podnikáte, budete muset daňové přiznání k&nbsp;dani z&nbsp;příjmů podat sami.</li>
-<li>Nebudete-li si vědět rady, můžete se obrátit na&nbsp;
+<a href="https://www.businessinfo.cz/clanky/kde-a-jak-danite-sve-prijmy-ze-zahranici-rozhodujici-je-zda-jste-rezidentem/">Určení daňového rezidenství</a>&nbsp;není jednoduché. Pravidla je&nbsp;třeba hledat nejprve v&nbsp;zákoně o&nbsp;daních z&nbsp;příjmů (§&nbsp;2) a&nbsp;zahraničních daňových předpisech. Pokud jste daňovým rezidentem podle „místních“ předpisů ve&nbsp;více zemích, podívejte se&nbsp;do&nbsp;příslušné&nbsp;
+<a href="https://www.mfcr.cz/cs/zahranici-a-eu/smlouvy-o-zamezeni-dvojiho-zdaneni/prehled-platnych-smluv">mezinárodní smlouvy o&nbsp;zamezení dvojího zdanění</a>. (
+<a href="https://www.mfcr.cz/cs/index">Ministerstvo financí ČR</a> → Zahraničí a EU → Smlouvy o zamezení dvojímu zdanění → Přehled platných smluv)</li>
+<li>Daňové rezidentství se&nbsp;zpravidla určuje postupně podle těchto kritérií: 1.&nbsp;stálý byt, 2.&nbsp;centrum životních zájmů, 3.&nbsp;obvyklý pobyt (v&nbsp;ČR&nbsp;např.&nbsp;alespoň 183&nbsp;dní v&nbsp;roce), 4.&nbsp;státní občanství. Pokud tedy celý rok&nbsp;bydlíte a&nbsp;pracujete na&nbsp;území ČR, lze předpokládat, že&nbsp;budete i&nbsp;českým daňovým rezidentem. Záleží však na&nbsp;mnoha okolnostech, v&nbsp;případě pochybností je&nbsp;proto dobré využít služeb profesionálů.</li>
+<li>Pokud na&nbsp;území ČR&nbsp;bydlíte a&nbsp;pracujete,&nbsp;
+<strong>až na&nbsp;výjimky</strong>&nbsp;zde musíte platit daň z&nbsp;příjmů ze&nbsp;zaměstnání. Pokud jste zaměstnanci, zaměstnavatel Vám&nbsp;
+<strong>zpravidla</strong>&nbsp;sráží zálohu na&nbsp;daň z&nbsp;příjmů. Do&nbsp;15.&nbsp;února následujícího roku&nbsp;můžete požádat zaměstnavatele o&nbsp;tzv. roční zúčtování daně, popř. si&nbsp;můžete sami podat daňové přiznání do&nbsp;1.&nbsp;dubna následujícího roku&nbsp;(pokud termín dopadne na&nbsp;den pracovního klidu, posunuje se&nbsp;na&nbsp;první pracovní den). Pokud podnikáte, budete muset daňové přiznání k&nbsp;dani z&nbsp;příjmů podat sami.</li>
+<li>Nebudete-li si&nbsp;vědět rady, můžete se&nbsp;obrátit na&nbsp;
 <a href="https://www.kdpcr.cz/seznam-danovych-poradcu">profesionála</a>, který Vám za&nbsp;úplatu s&nbsp;daňovým přiznáním pomůže.</li>
-<li>Více informací naleznete v&nbsp;tom 
-<a href="https://www.financnisprava.cz/cs/dane/dane/dan-z-prijmu/fyzicke-osoby-poplatnik/obecne-informace">odkaze</a> (
-<a href="http://www.financnisprava.cz/">www.financnisprava.cz</a> Daně → Daň z&nbsp;příjmů → Fyzické osoby).</li></ul>
+<li>Více informací naleznete na stránkách 
+<a href="https://financnisprava.gov.cz/cs/dane/dane/dan-z-prijmu/fyzicke-osoby">Finanční správy</a>&nbsp;(
+<a href="https://financnisprava.gov.cz/">Finanční správa</a>&nbsp;→ Daně → Daně → Daň z&nbsp;příjmů → Fyzické osoby).</li></ul>
 <h3>Školství a&nbsp;vzdělávání</h3>
 <ul>
-<li>V&nbsp;České republice je veřejné školství (základní školy, střední školy, vysoké školy) zdarma. Výjimkou jsou mateřské školy, kde se platí menší poplatek. Musíte však počítat s&nbsp;tím, že&nbsp;svačiny i&nbsp;obědy pro děti nejsou zdarma.</li>
-<li>V&nbsp;České republice existují i&nbsp;soukromé školy. Ty bývají placené. Výše poplatku se liší.</li>
-<li>Hledaní mateřské i&nbsp;základní školy může být náročné. Pokud je v&nbsp;místě Vašeho bydliště více škol, obec je povinna stanovit tzv. školské obvody. Pro každý školský obvod je stanovena i&nbsp;tzv. 
-<strong>spádová škola</strong>. Spádovou školou se rozumí škola, která má povinnost přijmout Vaše dítě starší 3&nbsp;let přednostně před dítětem, které je tzv. nespádové. Informujte se proto, která škola v&nbsp;místě Vašeho bydliště je pro Vás spádová.</li>
+<li>V&nbsp;České republice je&nbsp;veřejné školství (základní školy, střední školy, vysoké školy) zdarma. Výjimkou jsou mateřské školy, kde se&nbsp;platí menší poplatek. Musíte však počítat s&nbsp;tím, že&nbsp;svačiny i&nbsp;obědy pro děti nejsou zdarma.</li>
+<li>V&nbsp;České republice existují i&nbsp;soukromé školy. Ty&nbsp;bývají placené. Výše poplatku se&nbsp;liší.</li>
+<li>Hledaní mateřské i&nbsp;základní školy může být náročné. Pokud je&nbsp;v&nbsp;místě Vašeho bydliště více škol, obec je&nbsp;povinna stanovit tzv. školské obvody. Pro každý školský obvod je&nbsp;stanovena i&nbsp;tzv.&nbsp;
+<strong>spádová škola</strong>. Spádovou školou se&nbsp;rozumí škola, která má&nbsp;povinnost přijmout Vaše dítě starší 3&nbsp;let přednostně před dítětem, které je&nbsp;tzv. nespádové. Informujte se&nbsp;proto, která škola v&nbsp;místě Vašeho bydliště je&nbsp;pro Vás spádová.</li>
 <li>
-<a href="http://www.msmt.cz/vzdelavani/predskolni-vzdelavani/nejcastejsi-dotazy-k-predskolnimu-vzdelavani-aktualizace-k">Mateřské školy (MŠ)</a> – poslední rok&nbsp;v&nbsp;MŠ se nazývá předškolní. V&nbsp;ČR platí povinná předškolní docházka. To znamená, že&nbsp;dítě, které v&nbsp;jednom roce&nbsp;dovršilo pět let, musí následující školní rok&nbsp;nastoupit do&nbsp;mateřské školy. V&nbsp;tomto případě má Vaše dítě garantováno místo ve&nbsp;spádové školce. (
-<a href="http://www.msmt.cz/">www.msmt.cz</a> → Vzdělávání → Předškolní vzdělávání → Dotazy a&nbsp;odpovědi → Nejčastější dotazy k&nbsp;předškolnímu vzdělávání)</li>
-<li>Základní školy (ZŠ) – v&nbsp;ČR platí povinná školní docházka. Děti musí absolvovat 9&nbsp;let základní školy. Děti zpravidla nastupují do&nbsp;první třídy ZŠ v&nbsp;6 letech a&nbsp;dokončí ji v&nbsp;15 letech.</li>
-<li>Střední školy (SŠ) – V&nbsp;České republice existuje několik typů středních škol. Více informací naleznete 
-<a href="/uploads-import/Obcanstvi_EU/UNHCR-Vzdelavani_v_CR-prirucka_pro_rodice.pdf">v&nbsp;příručce pro rodiče</a>.</li>
-<li>Univerzity – v&nbsp;České republice existuje několik vysokých škol a&nbsp;univerzit. Jejich seznam naleznete 
-<a href="http://www.msmt.cz/vzdelavani/vysoke-skolstvi/prehled-vysokych-skol-v-cr-3">zde</a> (
-<a href="http://www.msmt.cz/">www.msmt.cz</a> → Vzdělávání → Vysoké školství → Přehled vysokých škol v&nbsp;ČR)</li>
-<li>Pro děti, jejichž mateřským jazykem není čeština, tzv. 
-<a href="http://www.nuv.cz/t/ciz">děti s&nbsp;odlišným mateřským jazykem</a> (OMJ) existují v&nbsp;ČR podpůrná opatření (např.&nbsp;kurz českého jazyka). Podpůrná opatření spočívají především v&nbsp;individuálním přizpůsobení výuky pro dítě. Více informací o&nbsp;podpůrných opatřeních pro děti s&nbsp;OMJ naleznete 
-<a href="http://www.nuv.cz/t/cizinci-podpurna-opatreni">zde</a> (
-<a href="http://www.nuv.cz/">www.nuv.cz</a>&nbsp; Témata → Společné vzdělávání → SVP, nadaní, cizinci → Děti/žáci–cizinci a&nbsp;děti/žáci s&nbsp;odlišným mateřským jazykem → Cizinci – podpůrná opatření) a&nbsp;
-<a href="https://www.inkluzivniskola.cz/organizace-aneb-cizinci-ve-skole/podpurna-opatreni-pro-deti-s-omj-v-ms">zde</a> (
-<a href="http://www.inkluzivniskola.cz/">www.inkluzivniskola.cz</a> Domů → Podpora ve&nbsp;škole → Předškolní vzdělávání).</li>
-<li>Přehledné informace o&nbsp;českém vzdělávacím systému naleznete 
-<a href="/uploads-import/Obcanstvi_EU/UNHCR-Vzdelavani_v_CR-prirucka_pro_rodice.pdf">v&nbsp;této příručce</a>. Jak Vám může pomoct ombudsman v&nbsp;oblasti školství, se dozvíte v&nbsp;našem 
-<a href="/uploads-import/Letaky/Skolstvi.pdf">letáku</a>.</li></ul>
+<a href="http://www.msmt.cz/vzdelavani/predskolni-vzdelavani/nejcastejsi-dotazy-k-predskolnimu-vzdelavani-aktualizace-k">Mateřské školy (MŠ)</a>&nbsp;– poslední rok&nbsp;v&nbsp;MŠ&nbsp;se&nbsp;nazývá předškolní. V&nbsp;ČR&nbsp;platí povinná předškolní docházka. To&nbsp;znamená, že&nbsp;dítě, které v&nbsp;jednom roce&nbsp;dovršilo pět let, musí následující školní rok&nbsp;nastoupit do&nbsp;mateřské školy. V&nbsp;tomto případě má&nbsp;Vaše dítě garantováno místo ve&nbsp;spádové školce. (
+<a href="http://www.msmt.cz/">www.msmt.cz</a>&nbsp;→ Vzdělávání → Předškolní vzdělávání → Dotazy a&nbsp;odpovědi → Nejčastější dotazy k&nbsp;předškolnímu vzdělávání)</li>
+<li>Základní školy (ZŠ) – v&nbsp;ČR&nbsp;platí povinná školní docházka. Děti musí absolvovat 9&nbsp;let základní školy. Děti zpravidla nastupují do&nbsp;první třídy ZŠ&nbsp;v&nbsp;6 letech a&nbsp;dokončí ji&nbsp;v&nbsp;15 letech.</li>
+<li>Střední školy (SŠ) – V&nbsp;České republice existuje několik typů středních škol. Více informací naleznete&nbsp;
+<a href="https://www.ochrance.cz/uploads-import/Obcanstvi_EU/UNHCR-Vzdelavani_v_CR-prirucka_pro_rodice.pdf">v&nbsp;příručce pro rodiče</a>.</li>
+<li>Univerzity – v&nbsp;České republice existuje několik vysokých škol a&nbsp;univerzit. Jejich seznam naleznete na stránkách 
+<a href="https://msmt.gov.cz/vzdelavani/vysoke-skolstvi/prehled-vysokych-skol-v-cr-3">Ministerstva školství, mládeže a tělovýchovy</a>&nbsp;(
+<a href="http://www.msmt.cz/">www.msmt.cz</a>&nbsp;→ Vzdělávání → Vysoké školství → Přehled vysokých škol v&nbsp;ČR)</li>
+<li>Pro děti, jejichž mateřským jazykem není čeština, tzv.&nbsp;
+<a href="http://www.nuv.cz/t/ciz">děti s&nbsp;odlišným mateřským jazykem</a>&nbsp;(OMJ) existují v&nbsp;ČR&nbsp;podpůrná opatření (např.&nbsp;kurz českého jazyka). Podpůrná opatření spočívají především v&nbsp;individuálním přizpůsobení výuky pro dítě. Více informací o&nbsp;podpůrných opatřeních pro děti s&nbsp;OMJ naleznete na stránkách 
+<a href="https://archiv-nuv.npi.cz/t/cizinci-podpurna-opatreni.html">Národního ústavu pro vzdělávání</a> (
+<a href="http://www.nuv.cz/">www.nuv.cz</a>&nbsp; Témata → Společné vzdělávání → SVP, nadaní, cizinci → Děti/žáci–cizinci a&nbsp;děti/žáci s&nbsp;odlišným mateřským jazykem → Cizinci – podpůrná opatření).</li>
+<li>Přehledné informace o&nbsp;českém vzdělávacím systému naleznete&nbsp;
+<a href="https://www.ochrance.cz/uploads-import/Obcanstvi_EU/UNHCR-Vzdelavani_v_CR-prirucka_pro_rodice.pdf">v&nbsp;této příručce</a>. Jak Vám může pomoct ombudsman v&nbsp;oblasti školství, se&nbsp;dozvíte v&nbsp;našem&nbsp;
+<a href="https://www.ochrance.cz/uploads-import/Letaky/Skolstvi.pdf">letáku</a>.</li></ul>
 <h3>Bydlení</h3>
 <ul>
-<li>V&nbsp;ČR existují dva druhy bydlení – obecní a&nbsp;soukromé.</li>
-<li>V&nbsp;oblasti soukromého bydlení byste neměli být oproti českým občanům znevýhodněni. Je však důležité, abyste své aktuální místo pobytu (i&nbsp;při změně) nahlásili Policii ČR (
+<li>V&nbsp;ČR&nbsp;existují dva druhy bydlení – obecní a&nbsp;soukromé.</li>
+<li>V&nbsp;oblasti soukromého bydlení byste neměli být oproti českým občanům znevýhodněni. Je&nbsp;však důležité, abyste své aktuální místo pobytu (i&nbsp;při změně) nahlásili Policii ČR&nbsp;(
 <a href="https://www.policie.cz/clanek/oddeleni-pobytovych-agend.aspx">příslušnému odboru cizinecké policie</a>) v&nbsp;místě pobytu.</li>
-<li>V&nbsp;ČR máte možnost si koupit vlastní bydlení (byt, dům), popř. si byt nebo dům pronajmout. Bydlení můžete hledat buď sami, nebo se obrátit na&nbsp;realitní kancelář, která Vám s&nbsp;hledáním pomůže. Musíte však počítat s&nbsp;tím, že&nbsp;služby realitní kanceláře jsou placené. Proto se nejdříve informuje, jakou odměnu bude realitní kancelář za&nbsp;její služby požadovat.</li>
-<li>Nájem vzniká písemnou smlouvou mezi pronajímatelem a&nbsp;nájemcem (Vámi). Práva nájemců jsou chráněna občanským zákoníkem. Stručný přehled o&nbsp;nájmu obsahuje také náš 
-<a href="/uploads-import/Letaky/Najem-bytu.pdf">leták</a>.</li>
-<li>Pokud si chcete pořídit vlastní nemovitost, můžete se obrátit na&nbsp;některou z&nbsp;bank, která nabízí hypoteční služby.</li>
-<li>Více informací naleznete 
-<a href="https://www.migrace.com/cs/poradna/informace-pro-cizince/obcane-eu-a-jejich-rodinni-prislusnici/bydleni_1">zde</a> a&nbsp;
-<a href="https://www.dtest.cz/clanek-5849/smlouva-o-najmu-bytu">zde</a>.</li>
-<li>Některá města nabízejí i&nbsp;tzv. 
-<strong>obecní bydlení</strong>, které slouží osobám s&nbsp;nižším finančním příjmem. Proto bývá nájem nižší. Informujte se v&nbsp;místě bydliště, zdali město tuto možnost nabízí a&nbsp;zdali splňujete podmínky, abyste se mohli ucházet o&nbsp;obecní byt.</li>
-<li>Více informací o&nbsp;obecním bydlení Vám poskytne náš 
-<a href="/uploads-import/Letaky/Bydleni.pdf">informační leták</a>.</li></ul>
+<li>V&nbsp;ČR&nbsp;máte možnost si&nbsp;koupit vlastní bydlení (byt, dům), popř. si&nbsp;byt nebo dům pronajmout. Bydlení můžete hledat buď sami, nebo se&nbsp;obrátit na&nbsp;realitní kancelář, která Vám s&nbsp;hledáním pomůže. Musíte však počítat s&nbsp;tím, že&nbsp;služby realitní kanceláře jsou placené. Proto se&nbsp;nejdříve informuje, jakou odměnu bude realitní kancelář za&nbsp;její služby požadovat.</li>
+<li>Nájem vzniká písemnou smlouvou mezi pronajímatelem a&nbsp;nájemcem (Vámi). Práva nájemců jsou chráněna občanským zákoníkem. Stručný přehled o&nbsp;nájmu obsahuje také náš&nbsp;
+<a href="https://www.ochrance.cz/uploads-import/Letaky/Najem-bytu.pdf">leták</a>.</li>
+<li>Pokud si&nbsp;chcete pořídit vlastní nemovitost, můžete se&nbsp;obrátit na&nbsp;některou z&nbsp;bank, která nabízí hypoteční služby.</li>
+<li>Více informací o nájmu bytu naleznete v 
+<a href="https://www.dtest.cz/clanek-5849/smlouva-o-najmu-bytu">článku dTestu</a>.</li>
+<li>Některá města nabízejí i&nbsp;tzv.&nbsp;
+<strong>obecní bydlení</strong>, které slouží osobám s&nbsp;nižším finančním příjmem. Proto bývá nájem nižší. Informujte se&nbsp;v&nbsp;místě bydliště, zdali město tuto možnost nabízí a&nbsp;zdali splňujete podmínky, abyste se&nbsp;mohli ucházet o&nbsp;obecní byt.</li>
+<li>Více informací o&nbsp;obecním bydlení Vám poskytne náš&nbsp;
+<a href="https://www.ochrance.cz/uploads-import/Letaky/Bydleni.pdf">informační leták</a>.</li></ul>
 
 
 {{< /rozbal >}}
