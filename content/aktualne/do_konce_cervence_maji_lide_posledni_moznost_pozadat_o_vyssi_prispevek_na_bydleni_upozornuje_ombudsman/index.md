@@ -18,7 +18,7 @@ attachments:
   - title: Informace a návod, jak doložit příspěvek na bydlení přes aplikaci Jenda
     file: https://www.mpsv.cz/prispevek-na-bydleni
   - file: https://www.ochrance.cz/letaky/prispevek-na-bydleni/prispevek-na-bydleni.pdf
-    title: Informační leták od ombudsmana k příspěvku na bydlení a řízení o něm
+    title: Informační leták od ombudsmana k příspěvku na bydlení
   - title: Řízení o dávkách v hmotné nouzi a příspěvku na bydlení
     file: https://www.ochrance.cz/letaky/rizeni-o-davkach-pomoci-v-hn/rizeni-o-davkach-pomoci-v-hn.pdf
 ---
