@@ -12,10 +12,10 @@ title: GDPR a ochrana osobních údajů
 <p>Zpracováváme, tj. shromažďujeme a&nbsp;uchováváme v&nbsp;papírové a&nbsp;elektronické podobě osobní údaje:</p>
 <ol>
 <li>
-<strong>těch, kdo se na&nbsp;nás obrátí podnětem</strong>&nbsp;podle zákona o&nbsp;veřejném ochránci práv&nbsp;a ochránci práv dětí&nbsp;za&nbsp;účelem vyřízení podnětu&nbsp;
+<strong>těch, kdo se na&nbsp;nás obrátí podnětem</strong>&nbsp;podle zákona o&nbsp;veřejném ochránci práv&nbsp;a ochránci práv dětí&nbsp;za&nbsp;účelem vyřízení podnětu&nbsp; 
 <i>(viz&nbsp;zákon č.&nbsp;349/1999&nbsp;Sb., o&nbsp;veřejném ochránci práv a o ochránci práv dětí, ve&nbsp;znění pozdějších předpisů)</i>;</li>
 <li>
-<strong>těch, kdo žádají o&nbsp;informace</strong>&nbsp;podle zákona o&nbsp;svobodném přístupu k&nbsp;informacím&nbsp;za&nbsp;účelem vyřízení žádosti o&nbsp;informace&nbsp;
+<strong>těch, kdo žádají o&nbsp;informace</strong>&nbsp;podle zákona o&nbsp;svobodném přístupu k&nbsp;informacím&nbsp;za&nbsp;účelem vyřízení žádosti o&nbsp;informace&nbsp; 
 <i>(viz&nbsp;zákon č.&nbsp;106/1999&nbsp;Sb., o&nbsp;svobodném přístupu k&nbsp;informacím, ve&nbsp;znění pozdějších předpisů)</i>;</li>
 <li>
 <strong>osob omezených na&nbsp;svobodě</strong>&nbsp;veřejnou mocí nebo v&nbsp;důsledku závislosti na&nbsp;poskytované péči, nacházející se v&nbsp;zařízeních a&nbsp;dalších místech vyjmenovaných v&nbsp;zákoně o&nbsp;veřejném ochránci práv a o ochránci práv dětí; osobní údaje potřebujeme proto, abychom mohli plnit svoji zákonnou povinnost a&nbsp;předcházet špatnému zacházení;</li>
@@ -30,7 +30,9 @@ title: GDPR a ochrana osobních údajů
 <li>
 <strong>osob zachycených kamerovým systémem</strong>&nbsp;z&nbsp;důvodu ochrany majetku a&nbsp;oprávněných zájmů Kanceláře veřejného ochránce práv a ochránce práv dětí a&nbsp;třetích osob;</li>
 <li>
-<strong>zástupců spolupracujících úřadů, institucí a organizací</strong> za účelem seznámení s činností ochránce a ochránce práv dětí a poznatky, které z jejich činnosti vyplynuly.</li></ol>
+<strong>zástupců spolupracujících úřadů, institucí a organizací</strong> za účelem seznámení s činností ochránce a ochránce práv dětí a poznatky, které z jejich činnosti vyplynuly;</li>
+<li>
+<strong>jednotlivců, organizací a dalších subjektů</strong>, kteří ochránci a ochránci práv dětí sdělují informace za účelem prosazování práv a svobod podle zákona č. 349/1999 Sb., o veřejném ochránci práv a o ochránci práv dětí, ve znění pozdějších předpisů.</li></ol>
 <p>S &nbsp;osobními údaji, které zpracováváme, se mohou seznámit pouze zaměstnanci a&nbsp;zaměstnankyně Kanceláře veřejného ochránce práv a ochránce práv dětí, kteří jsou na&nbsp;základě svého organizačního a&nbsp;pracovního zařazení oprávněni s&nbsp; osobními údaji nakládat. Mimo Kancelář veřejného ochránce práv a ochránce práv dětí můžeme zpracovávané osobní údaje zpřístupnit:</p>
 <ul>
 <li>úřadům, institucím, zařízením a&nbsp;dalším osobám, jejichž činností se veřejný ochránce práv a ochránce práv dětí mohou&nbsp;zabývat, pokud je to nezbytné pro&nbsp;vyřízení podnětu;</li>
@@ -148,16 +150,16 @@ title: GDPR a ochrana osobních údajů
 
 
 <h3>Máte právo podat stížnost u&nbsp;dozorového orgánu</h3>
-<p>Tím je Úřad pro&nbsp;ochranu osobních údajů. Bližší informace o&nbsp;činnosti tohoto Úřadu naleznete zde&nbsp;
+<p>Tím je Úřad pro&nbsp;ochranu osobních údajů. Bližší informace o&nbsp;činnosti tohoto Úřadu naleznete zde&nbsp; 
 <a href="http://www.uoou.cz/">www.uoou.cz</a>.</p>
 <hr>
-<p>Všechna&nbsp;
+<p>Všechna&nbsp; 
 <strong>svá práva můžete uplatnit prostřednictvím žádosti</strong>&nbsp;adresované Kanceláři veřejného ochránce práv a ochránci práv dětí, obdobně jako v&nbsp;případě 
 <a href="/podejte-stiznost/">podání podnětu veřejnému ochránci práv nebo ochránci práv dětí.</a></p>
-<p>Ve všech případech, kdy uplatníte svá práva, Vás do&nbsp;
+<p>Ve všech případech, kdy uplatníte svá práva, Vás do&nbsp; 
 <strong>jednoho měsíce od&nbsp;obdržení Vaší žádosti vyrozumíme o&nbsp;přijatých opatřeních</strong>. Pokud budeme potřebovat tuto lhůtu prodloužit, budeme Vás předem informovat, včetně důvodů prodloužení.</p>
 <p>V&nbsp;případě, že&nbsp;žádost podáte v&nbsp;elektronické formě, poskytneme Vám informace v&nbsp;elektronické formě, pokud tomu nebude nic bránit nebo nepožádáte-li o&nbsp;jiný způsob poskytnutí informací.</p>
 <p>
-<strong>Chcete vědět víc</strong>&nbsp;o&nbsp;zpracování svých osobních údajů v&nbsp;Kanceláři veřejného ochránce práv a ochránce práv dětí?&nbsp;
-<strong>Obraťte se na&nbsp;naši pověřenkyni</strong>&nbsp;pro&nbsp;ochranu osobních údajů, jíž je JUDr. Veronika Gabrišová, tel. 542&nbsp;542&nbsp;311, e-mail&nbsp;
+<strong>Chcete vědět víc</strong>&nbsp;o&nbsp;zpracování svých osobních údajů v&nbsp;Kanceláři veřejného ochránce práv a ochránce práv dětí?&nbsp; 
+<strong>Obraťte se na&nbsp;naši pověřenkyni</strong>&nbsp;pro&nbsp;ochranu osobních údajů, jíž je JUDr. Veronika Gabrišová, tel. 542&nbsp;542&nbsp;311, e-mail&nbsp; 
 <a href="mailto:poverenkyne@ochrance.cz">poverenkyne@ochrance.cz</a>.</p>
