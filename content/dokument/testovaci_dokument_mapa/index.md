@@ -28,3 +28,5 @@ date: 2022-05-06T06:47:39.815Z
 <figure class="image">
 <img src="https://www.ochrance.cz/dokument/testovaci_dokument_mapa/kvopaopd_logo_mail.png" alt="kvopaopd_logo_mail.png"></figure>
 <p>&nbsp;</p>
+<figure class="image">
+<img src="https://www.ochrance.cz/dokument/testovaci_dokument_mapa/do_logo_mail.png" alt="do_logo_mail.png"></figure>
