@@ -62,6 +62,11 @@ examples:
       diskriminaci. Banka změnila názor a dnes vydává kreditku i starším
       klientům.
     name: pan Karel
+  - name: pan Michal
+    desc: Moje žena potřebovala ošetření a zákrok v nemocnici. Nechtěli jí ho
+      provést kvůli tomu, že není Češka. Poradil jsem se s ombudsmanem a poslal
+      nemocnici jeho právní názor, že takovou podmínku si klást nesmějí. Nakonec
+      se vše vyřešilo.
 order: 3
 button:
   text: Zjistěte víc o diskriminaci v různých situacích
