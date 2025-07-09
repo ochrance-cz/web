@@ -24,8 +24,8 @@ perex: <p>Přístup fair play očekávala matka, když přihlásila své dvě ne
 <p>
 <strong>Jak se bránit, když sportovní kurz odmítne účast dítěte s&nbsp;postižením:</strong></p>
 <ol>
-<li>Podat podnět
-<strong> ombudsmanovi (podatelna@ochrance.cz).</strong></li>
+<li>Podat podnět 
+<strong>ombudsmanovi (podatelna@ochrance.cz).</strong></li>
 <li>Podat podnět 
 <strong>České obchodní inspekci</strong>, která může organizátorům uložit pokutu.</li>
 <li>Podat 
@@ -33,7 +33,7 @@ perex: <p>Přístup fair play očekávala matka, když přihlásila své dvě ne
 <blockquote>
 <p>
 <strong>Sportování lidí s&nbsp;postižením</strong></p>
-<p>Stěžejním mezinárodním dokumentem, který upravuje postavení lidí s postižením, je&nbsp;
+<p>Stěžejním mezinárodním dokumentem, který upravuje postavení lidí s postižením, je&nbsp; 
 <a href="https://osn.cz/wp-content/uploads/2022/08/Umluva_o_pravech_osob_se_ZP.pdf">Úmluva OSN o právech osob se zdravotním postižením</a>. Mimo jiné uvádí, že stát má přijmout taková opatření, aby podnítil a podpořil co nejširší zapojení lidí s postižením do běžných sportovních aktivit. Dále musí zajistit, aby děti se zdravotním postižením měly na rovnoprávném základě s ostatními dětmi přístup ke sportovním činnostem.</p>
 <p>
 <a href="file:///C:/Users/svarickovahlavata/Downloads/Narodni-plan-2021-2025.pdf">Národní plán podpory rovných příležitostí pro lidi s postižením</a> popisuje sport jako aktivitu, která přispívá nejen ke zlepšení zdravotního stavu a tělesné kondice lidí s postižením, ale je i důležitým faktorem pro zlepšení jejich života, přispívá k rehabilitaci a integraci do společnosti.</p></blockquote>
