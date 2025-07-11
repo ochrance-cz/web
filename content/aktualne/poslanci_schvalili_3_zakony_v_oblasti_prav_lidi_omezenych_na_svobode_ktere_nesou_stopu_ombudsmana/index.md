@@ -12,6 +12,5 @@ perex: >-
   <li>Vymáhání pohledávek od cizinců, kteří byli v&nbsp;ochranném léčení a neměli veřejné zdravotní pojištění, bylo velmi složité. Po propuštění z&nbsp;léčby (se kterou nedali souhlas) jim totiž zůstávaly až milionové dluhy. To se nově změní a cizinci budou mít po propuštění šanci, že nebudou z&nbsp;léčení vycházet zadlužení na několik let dopředu. Díky tomu se lépe začlení do společnosti.</li>
 
   <li>Po 10 letech se ombudsmanovi podařilo prosadit, aby nemocnice vedly centrální evidenci omezovacích prostředků. Díky tomu bude přehled o počtu omezovaných pacientů a také omezovacích prostředků. S&nbsp;údaji pak bude možné pracovat dále a hledat systémová řešení.&nbsp;</li></ol>
-
-  <p>Nyní mají zákony k&nbsp;projednání senátoři. Pokud legislativní změny přijmou, začne vše platit od 1. ledna 2025.</p>
 ---
+<p>Nyní mají zákony k&nbsp;projednání senátoři. Pokud legislativní změny přijmou, začne vše platit od 1. ledna 2025.</p>
