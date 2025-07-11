@@ -14,9 +14,9 @@ links:
 <li>Vyřizování žádostí o&nbsp;poskytnutí informací se řídí Směrnicí k&nbsp;poskytování informací o&nbsp;činnosti veřejného ochránce práv a&nbsp;Kanceláře veřejného ochránce práv a ochránce práv dětí</li></ol>
 <h2>Jak má vypadat žádost?</h2>
 <ul>
-<li>Žádost se podává ústně nebo písemně, a&nbsp;to i&nbsp;prostřednictvím sítě nebo služby elektronických komunikací. Elektronická žádost musí být podána prostřednictvím elektronické podatelny Kanceláře veřejného ochránce práv a ochránce práv dětí&nbsp;
-<a href="mailto:podatelna@ochrance.cz">podatelna
-<img src="/uploads-import/uploads/RTEmagicC_zavinac_38.png.png" alt="">ochrance.cz</a>&nbsp;&nbsp;nebo prostřednictvím datové schránky&nbsp;
+<li>Žádost se podává ústně nebo písemně, a&nbsp;to i&nbsp;prostřednictvím sítě nebo služby elektronických komunikací. Elektronická žádost musí být podána prostřednictvím elektronické podatelny Kanceláře veřejného ochránce práv a ochránce práv dětí&nbsp; 
+<a href="mailto:podatelna@ochrance.cz">podatelna 
+<img src="/uploads-import/uploads/RTEmagicC_zavinac_38.png.png" alt="">ochrance.cz</a>&nbsp;&nbsp;nebo prostřednictvím datové schránky&nbsp; 
 <strong>ID:</strong>&nbsp;jz5adky</li>
 <li>Ze žádosti musí být zřejmé, komu je určena, kdo ji činí a&nbsp;že&nbsp;se žadatel domáhá poskytnutí informace podle zákona č.&nbsp;106/1999&nbsp;Sb., o&nbsp;svobodném přístupu k&nbsp;informacím.</li>
 <li>Žádost nemusí být zaslána na&nbsp;zvláštním formuláři nebo být odůvodněna a&nbsp;nemusí obsahovat žádné podklady. Za&nbsp;její podání se nehradí žádné poplatky. Kancelář za&nbsp;poskytnutí informací může vyžadovat úhradu. Výše úhrady se řídí&nbsp;Sazebníkem úhrad za poskytování informací podle zákona č. 106/1999 Sb., o svobodném přístupu k informacím, ve znění pozdějších předpisů, viz níže.</li></ul>
@@ -27,9 +27,9 @@ links:
 <li>Pokud je žádost nesrozumitelná, není zřejmé, jaká informace je požadována, nebo je žádost formulována příliš obecně, vyzve Kancelář žadatele ve&nbsp;lhůtě 7&nbsp;dnů ode dne doručení žádosti, aby ji upřesnil. Neupřesní-li žadatel žádost do&nbsp;30&nbsp;dnů ode dne doručení výzvy, Kancelář rozhodne o&nbsp;odmítnutí žádosti.</li>
 <li>V&nbsp;případě, že&nbsp;požadované informace se nevztahují k&nbsp;působnosti Kanceláře či&nbsp;veřejného ochránce práv, Kancelář žádost odloží a&nbsp;tuto odůvodněnou skutečnost sdělí žadateli do&nbsp;7&nbsp;dnů ode dne doručení žádosti.</li>
 <li>Nerozhodne-li Kancelář způsobem, jak je výše popsáno, poskytne informaci v&nbsp;souladu se žádostí ve&nbsp;lhůtě nejpozději do&nbsp;15&nbsp;dnů ode dne přijetí žádosti nebo ode dne jejího doplnění.</li>
-<li>Lhůtu pro vyřízení žádosti je možno prodloužit ze&nbsp;závažných důvodů, nejvýše však o&nbsp;10&nbsp;dnů. Závažnými důvody jsou:
-<br>–&nbsp;vyhledání a&nbsp;sběr požadovaných informací v&nbsp;jiných úřadovnách, které jsou oddělené od&nbsp;úřadovny vyřizující žádost,
-<br>–&nbsp;vyhledání a&nbsp;sběr objemného množství oddělených a&nbsp;odlišných informací požadovaných v&nbsp;jedné žádosti,
+<li>Lhůtu pro vyřízení žádosti je možno prodloužit ze&nbsp;závažných důvodů, nejvýše však o&nbsp;10&nbsp;dnů. Závažnými důvody jsou:&nbsp;
+<br>–&nbsp;vyhledání a&nbsp;sběr požadovaných informací v&nbsp;jiných úřadovnách, které jsou oddělené od&nbsp;úřadovny vyřizující žádost,&nbsp;
+<br>–&nbsp;vyhledání a&nbsp;sběr objemného množství oddělených a&nbsp;odlišných informací požadovaných v&nbsp;jedné žádosti,&nbsp;
 <br>-&nbsp;konzultace s&nbsp;jiným povinným subjektem, který má závažný zájem na&nbsp;rozhodnutí o&nbsp;žádosti, nebo mezi dvěma nebo více složkami povinného subjektu, které mají závažný zájem na&nbsp;předmětu žádosti.</li></ul>
 <p>Žadatel musí být o&nbsp;prodloužení lhůty i&nbsp;o&nbsp;jeho důvodech vždy prokazatelně informován, a&nbsp;to včas před uplynutím lhůty pro poskytnutí informace.</p>
 <h2>Rozhodnutí o&nbsp;odmítnutí žádosti</h2>
@@ -51,11 +51,11 @@ links:
 <hr>
 <h2>Sazebník úhrad za&nbsp;poskytování informací podle zákona č.&nbsp;106/1999&nbsp;Sb., o&nbsp;svobodném přístupu k&nbsp;informacím, ve&nbsp;znění pozdějších předpisů</h2>
 <p>
-<i>Sazebník vychází z&nbsp;</i>
+<i>Sazebník vychází z&nbsp;</i> 
 <a href="https://www.justice.cz/documents/11715/0/6-2011+SIS.pdf/d7ac0329-7df6-40bc-aaa4-6118d184a791?version=1.0">
-<i>Instrukce Ministerstva spravedlnosti čj. 286/2011-OT-OSV ze&nbsp;dne 17.&nbsp;července 2011</i></a>
+<i>Instrukce Ministerstva spravedlnosti čj. 286/2011-OT-OSV ze&nbsp;dne 17.&nbsp;července 2011</i></a> 
 <i>.</i></p>
-<p>Vedoucí Kanceláře veřejného ochránce práv a ochránce práv dětí (dále „Kancelář“) stanoví sazebník podle&nbsp;nařízení vlády č.&nbsp;173/2006 Sb., o&nbsp;zásadách stanovení úhrad a&nbsp;licenčních odměn za&nbsp;poskytování informací podle zákona o&nbsp;svobodném přístupu k&nbsp;informacím, a&nbsp;podle&nbsp;instrukce Ministerstva spravedlnosti č.&nbsp;j.&nbsp;286/2011-OT-OSV,
+<p>Vedoucí Kanceláře veřejného ochránce práv a ochránce práv dětí (dále „Kancelář“) stanoví sazebník podle&nbsp;nařízení vlády č.&nbsp;173/2006 Sb., o&nbsp;zásadách stanovení úhrad a&nbsp;licenčních odměn za&nbsp;poskytování informací podle zákona o&nbsp;svobodném přístupu k&nbsp;informacím, a&nbsp;podle&nbsp;instrukce Ministerstva spravedlnosti č.&nbsp;j.&nbsp;286/2011-OT-OSV, 
 <a href="#_ftn1">
 <strong>[1]</strong></a> aby zajistil jednotný postup podle zákona o&nbsp;svobodném přístupu k&nbsp;informacím.</p>
 <hr>
@@ -115,4 +115,4 @@ links:
 <h3>6. Společná ustanovení</h3>
 <p>Úhrada nákladů podle tohoto sazebníku se požaduje, jen pokud přesáhnou 100 Kč bez&nbsp;nákladů na&nbsp;poštovní služby.</p>
 <p>&nbsp;</p>
-<p>Tento sazebník nabývá účinnosti dnem 15. září 2022.</p>
+<p>Tento sazebník nabývá účinnosti dnem 1. července 2025.</p>
