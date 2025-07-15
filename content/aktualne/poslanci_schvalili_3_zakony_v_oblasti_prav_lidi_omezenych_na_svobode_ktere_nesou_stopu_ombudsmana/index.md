@@ -16,7 +16,7 @@ attachments:
 ---
 <ol>
 <li>
-<strong>Dozor státních zastupitelství nad výkonem ústavního ochranného léčení na lůžkových odděleních</strong> – zákon je sice účinný 25 let, ale dodnes nebyla určená oprávnění pro jeho výkon. Nově budou dozor vykonávat krajská státní zastupitelství. Díky přispění a vyjednávání ombudsmana je tak po čtvrt století v&nbsp;dohledu změna.</li>
+<strong>Dozor státních zastupitelství nad výkonem ústavního ochranného léčení na lůžkových odděleních</strong> – zákon je sice účinný 25 let, ale dodnes nebyla určená oprávnění pro jeho výkon. Nově budou dozor vykonávat okresní státní zastupitelství. Díky přispění a vyjednávání ombudsmana je tak po čtvrt století v&nbsp;dohledu změna.</li>
 <li>
 <strong>Vymáhání pohledávek od cizinců</strong>, kteří byli v&nbsp;ochranném léčení a neměli veřejné zdravotní pojištění, bylo velmi složité. Po propuštění z&nbsp;léčby (se kterou nedali souhlas) jim totiž zůstávaly až milionové dluhy. To se nově změní a cizinci budou mít po propuštění šanci, že nebudou z&nbsp;léčení vycházet zadlužení na několik let dopředu. Díky tomu se lépe začlení do společnosti.</li>
 <li>Po 10 letech se ombudsmanovi podařilo prosadit, aby nemocnice povinně vedly přehlednější 
