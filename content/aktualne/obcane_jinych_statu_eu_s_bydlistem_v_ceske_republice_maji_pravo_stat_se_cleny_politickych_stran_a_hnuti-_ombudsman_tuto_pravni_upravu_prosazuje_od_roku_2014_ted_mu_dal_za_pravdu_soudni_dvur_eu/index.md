@@ -15,7 +15,7 @@ perex: >
   v&nbsp;uvedených typech voleb, jako mají čeští občané.</p>
 attachments:
   - file: https://curia.europa.eu/juris/documents.jsf?num=C-808/21
-    title: Celé znění rozsudku soudního dvora EU
+    title: Celé znění rozsudku Soudního dvora EU
   - file: https://eso.ochrance.cz/Nalezene/Edit/13310
     title: Doporučení ke změně předpisů a výsledek případu
 ---
