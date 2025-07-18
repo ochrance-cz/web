@@ -1,6 +1,6 @@
 ---
 title: Kybernetická bezpečnost KVOP
-ongoing: true
+ongoing: false
 illustration:
   desc: XY
 ---
