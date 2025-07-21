@@ -10,6 +10,9 @@ perex: <p>Podle zástupce ombudsmana vedou změny na Ministerstvu spravedlnosti 
   pomoc obětem trestných činů. Jeho vznik se začíná kladně projevovat jak v
   délce vyřizování žádostí, tak v jejich věcném posuzování i ve způsobu
   komunikace ministerstva s obětmi, které žádosti podaly.&nbsp;</p>
+attachments:
+  - link: https://eso.ochrance.cz/Nalezene/Edit/13816
+    title: Zpráva o šetření případu oběti sexuálního násilí
 ---
 <p>Případ, kterým se zabýval zástupce ombudsmana, se týkal znásilněné nezletilé dívky. Její matka žádala o pomoc poté, co ministerstvo zamítlo její žádost o uhrazení nákladů terapie. Tu dívka potřebovala, aby se vyrovnala s následky činu. Zástupce ombudsmana v šetření upozornil, že ministerstvo z rozhodnutí soudu vyvodilo chybné závěry. Poukázal také na neúměrně dlouhou dobu vyřizování žádosti a nevhodnou komunikaci s obětí. Požádal ministerstvo, aby své závěry přehodnotilo. Nové oddělení se k jeho závěrům přiklonilo a matce vyplatilo celou částku devíti tisíc korun, o které původně žádala.</p>
 <p>
