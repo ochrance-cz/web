@@ -220,6 +220,10 @@ lawyers:
         role: právnička (školství)
         phone: 542 542 295
         email: lucie.obrovska@ochrance.cz
+      - name: Eva Vintrová
+        phone: 542 542 251
+        email: eva.vintrova@ochrance.cz
+        role: právnička (sociálně-právní ochrana dětí, školství)
   - title: Odbor veřejného pořádku, zdravotnictví a práce
     intro: >
       matriky, evidence obyvatel, občanské a cestovní průkazy, státní občanství,
