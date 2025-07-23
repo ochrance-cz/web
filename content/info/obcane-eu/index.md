@@ -89,35 +89,35 @@ title: Jsem občan Evropské unie
 <h3>Přístup k&nbsp;zaměstnání</h3>
 <ul>
 <li>Jako občané Evropské unie máte právo na&nbsp;přístup k&nbsp;zaměstnání v&nbsp;České republice za&nbsp;stejných podmínek jako občané České republiky.</li>
-<li>Pracovat můžete bez omezení i&nbsp;ve&nbsp;veřejném sektoru. Výjimkou mohou být pouze pracovní pozice spojené s&nbsp;výkonem veřejné moci a&nbsp;zajišťováním základních bezpečnostních zájmů státu. Podrobnosti jsou uvedené&nbsp;
-<a href="https://europa.eu/youreurope/citizens/work/finding-job-abroad/access-to-jobs-in-the-public-sector/index_cs.htm">zde</a> (
+<li>Pracovat můžete bez omezení i&nbsp;ve&nbsp;veřejném sektoru. Výjimkou mohou být pouze pracovní pozice spojené s&nbsp;výkonem veřejné moci a&nbsp;zajišťováním základních bezpečnostních zájmů státu. Podrobnosti jsou uvedené&nbsp; 
+<a href="https://europa.eu/youreurope/citizens/work/finding-job-abroad/access-to-jobs-in-the-public-sector/index_cs.htm">zde</a> ( 
 <a href="https://europa.eu/youreurope">https://europa.eu/youreurope</a>&nbsp;→ &nbsp;Občané → Práce a&nbsp;důchod → Hledání práce v&nbsp;zahraničí → Pracovní místa ve&nbsp;veřejném sektoru)</li>
-<li>Pokud hledáte zaměstnání v&nbsp;České republice, můžete využít&nbsp;
-<a href="https://eures.europa.eu/index_cs">EURES&nbsp;</a>– evropský portál pracovní mobility. Evidence volných míst je&nbsp;dostupná také na&nbsp;webových stránkách&nbsp;
-<a href="https://www.uradprace.cz/web/cz/volna-mista-v-cr">Úřadu práce</a>&nbsp;(
+<li>Pokud hledáte zaměstnání v&nbsp;České republice, můžete využít&nbsp; 
+<a href="https://eures.europa.eu/index_cs">EURES&nbsp;</a>– evropský portál pracovní mobility. Evidence volných míst je&nbsp;dostupná také na&nbsp;webových stránkách&nbsp; 
+<a href="https://www.uradprace.cz/web/cz/volna-mista-v-cr">Úřadu práce</a>&nbsp;( 
 <a href="http://www.uradprace.cz/">www.uradprace.cz</a>&nbsp;&nbsp;→ Zaměstnanost → Pro občany → Hledání volných míst)</li>
-<li>Poradci EURES jsou dostupní i&nbsp;na&nbsp;pobočkách Úřadu práce v&nbsp;regionech, jejich seznam naleznete&nbsp;
-<a href="https://www.uradprace.cz/web/cz/kontakty-na-eures-poradce">zde</a>&nbsp;(
+<li>Poradci EURES jsou dostupní i&nbsp;na&nbsp;pobočkách Úřadu práce v&nbsp;regionech, jejich seznam naleznete&nbsp; 
+<a href="https://www.uradprace.cz/web/cz/kontakty-na-eures-poradce">zde</a>&nbsp;( 
 <a href="http://www.uradprace.cz/">www.uradprace.cz</a>&nbsp;&nbsp;→ Zaměstnanost → EURES → Kontakty na&nbsp;EURES poradce)</li>
 <li>Základní práva a&nbsp;povinnosti uchazeče o&nbsp;zaměstnání naleznete&nbsp;na 
-<a href="https://www.uradprace.cz/kontakty-na-eures-poradce">stránkách úřadu práce</a> (
-<a href="http://www.uradprace.cz/">www.uradprace.cz</a>&nbsp;&nbsp;→ Zaměstnanost → Pro občany → Práva a&nbsp;povinnosti uchazeče). Další podrobnosti k&nbsp;zaměstnávání cizinců potom&nbsp;
-<a href="https://www.mpsv.cz/web/cz/zahranicni-zamestnanost">zde</a> (
+<a href="https://www.uradprace.cz/kontakty-na-eures-poradce">stránkách úřadu práce</a> ( 
+<a href="http://www.uradprace.cz/">www.uradprace.cz</a>&nbsp;&nbsp;→ Zaměstnanost → Pro občany → Práva a&nbsp;povinnosti uchazeče). Další podrobnosti k&nbsp;zaměstnávání cizinců potom&nbsp; 
+<a href="https://www.mpsv.cz/web/cz/zahranicni-zamestnanost">zde</a> ( 
 <a href="http://www.mpsv.cz/">www.mpsv.cz</a>&nbsp;&nbsp;→ Působnost MPSV&nbsp;→ Zahraniční zaměstnanost).</li>
 <li>Pracovní smlouva musí být v&nbsp;České republice vždy uzavřena písemně. Kromě standardního pracovního poměru lze sjednat také dohodu o&nbsp;pracovní činnosti (nejvýše 20&nbsp;hodin týdně) nebo dohoda o&nbsp;provedení práce (nejvýše 300&nbsp;hodin ročně), pro něž platí trochu jiné podmínky.</li>
 <li>V&nbsp;pracovním poměru lze sjednat zkušební dobu (nejvýše 4&nbsp;měsíce, u&nbsp;vedoucích pracovníků 8&nbsp;měsíců), během níž je&nbsp;možné pracovní poměr vypovědět okamžitě a&nbsp;bez udání důvodu.</li>
 <li>Při práci v&nbsp;ČR&nbsp;máte právo na&nbsp;stejné podmínky jako čeští občané. Toto právo se&nbsp;vztahuje také na&nbsp;vaše rodinné příslušníky. Podrobnosti&nbsp;na 
-<a href="https://www.mpsv.cz/zahranicni-zamestnanost">stránkách MPSV</a>. (
+<a href="https://www.mpsv.cz/zahranicni-zamestnanost">stránkách MPSV</a>. ( 
 <a href="https://europa.eu/youreurope">https://europa.eu/youreurope</a>&nbsp;→ &nbsp;Občané → Práce a&nbsp;důchod → Za prací do&nbsp;zahraničí → Rovné zacházení v zaměstnání).</li>
 <li>Základní informace k&nbsp;úpravě pracovněprávních vztahů jsou dostupné&nbsp;na stránkách 
-<a href="https://www.suip.cz/web/suip/pracovne-pravni-vztahy-otazky-a-odpovedi">Státního úřadu inspekce práce</a>&nbsp;(
+<a href="https://www.suip.cz/web/suip/pracovne-pravni-vztahy-otazky-a-odpovedi">Státního úřadu inspekce práce</a>&nbsp;( 
 <a href="http://www.suip.cz/">www.suip.cz</a>&nbsp;→ Otázky a&nbsp;odpovědi → Pracovněprávní vztahy).</li></ul>
 <h3>Pracovní podmínky</h3>
 <ul>
 <li>Zaměstnavatel je&nbsp;povinen zajistit rovné zacházení se&nbsp;všemi zaměstnanci, pokud jde o&nbsp;jejich pracovní podmínky, odměňování za&nbsp;práci, odbornou přípravu a&nbsp;příležitost dosáhnout postupu v&nbsp;zaměstnání</li>
 <li>Zaměstnavatel nesmí zaměstnance jakkoli diskriminovat, zejména z&nbsp;důvodu pohlaví, sexuální orientace, rasového nebo etnického původu, národnosti, státního občanství, sociálního původu, rodu, jazyka, zdravotního stavu, věku, náboženství či&nbsp;víry, majetku, manželského a&nbsp;rodinného stavu a&nbsp;vztahu nebo povinností k&nbsp;rodině, politického nebo jiného smýšlení, členství a&nbsp;činnosti v&nbsp;politických stranách nebo politických hnutích v&nbsp;odborových organizacích nebo organizacích zaměstnavatelů.</li>
 <li>Platí zásada stejné odměny za&nbsp;stejnou práci. Odměna za&nbsp;práci také nesmí být nižší než minimální mzda (resp. zaručená mzda).</li>
-<li>Dodržování pracovních podmínek je&nbsp;oprávněn kontrolovat&nbsp;
+<li>Dodržování pracovních podmínek je&nbsp;oprávněn kontrolovat&nbsp; 
 <a href="https://www.suip.cz/web/suip/pusobnost-organu-inspekce-prace">Státní úřad inspekce práce</a>&nbsp;&nbsp;(
 <a href="http://www.suip.cz/">www.suip.cz</a>&nbsp;→ O nás → Základní informace → Působnost orgánů inspekce práce)</li>
 <li>Pokud si&nbsp;chcete stěžovat na&nbsp;pracovní podmínky, můžete podat stížnost zaměstnavateli. Ten se&nbsp;jí&nbsp;musí zabývat a&nbsp;dát vám vědět výsledek. Můžete také podat podnět Státnímu úřadu inspekce práce nebo se&nbsp;obrátit na&nbsp;soud.</li></ul>
@@ -125,90 +125,91 @@ title: Jsem občan Evropské unie
 <ul>
 <li>Pokud vás zaměstnavatel vyšle k&nbsp;výkonu práce z&nbsp;jiného členského státu do&nbsp;ČR, je&nbsp;povinen to&nbsp;oznámit písemně příslušné pobočce&nbsp;Úřadu práce.</li>
 <li>Při vyslání zaměstnance na&nbsp;území ČR&nbsp;se na&nbsp;něj vztahuje česká právní úprava za&nbsp;podmínky, že&nbsp;je&nbsp;pro něj výhodnější, pokud jde o&nbsp;některá práva (např.&nbsp;maximální délku pracovní doby, minimální délku dovolené, minimální mzdu, bezpečnost práce nebo zásadu rovného zacházení a&nbsp;zákaz diskriminace). Podrobnosti jsou uvedeny na 
-<a href="https://www.suip.cz/web/suip/informace-o-vysilani-pracovniku">stránkách Státního úřadu práce </a>(
+<a href="https://www.suip.cz/web/suip/informace-o-vysilani-pracovniku">stránkách Státního úřadu práce </a>( 
 <a href="http://www.suip.cz/">www.suip.cz</a>&nbsp;→ Vysílání pracovníků).</li></ul>
 <h3>Agenturní zaměstnávání</h3>
 <ul>
 <li>Pro získání zaměstnání v&nbsp;ČR&nbsp;můžete využít také služeb některé z&nbsp;agentur práce. V&nbsp;takovém případě se&nbsp;stanete zaměstnancem agentury práce, která vás následně přidělí k&nbsp;výkonu práce k&nbsp;takzvanému uživateli (zaměstnavatel, u&nbsp;kterého práci fakticky vykonáváte).</li>
 <li>I v&nbsp;případě agenturního zaměstnávání je&nbsp;třeba dodržet zásadu rovného zacházení. Uživatel (zaměstnavatel) vás nesmí diskriminovat vůči svým kmenovým zaměstnancům.</li>
-<li>Podrobnosti k&nbsp;agenturnímu zaměstnání je&nbsp;možné najít&nbsp;
-<a href="https://www.uradprace.cz/web/cz/agentury-prace-1">zde&nbsp;</a>(www.uradprace.cz&nbsp;→ Zaměstnanost → Pro zaměstnavatele → Agentury práce) a v 
-<a href="https://www.suip.cz/documents/20142/43720/agenturni_zamestnavani2024.pdf/610e8a7f-3657-7bbf-c7a6-be6d169859c9">článku &nbsp;</a>(
+<li>Podrobnosti k&nbsp;agenturnímu zaměstnání je&nbsp;možné najít&nbsp;na 
+<a href="https://www.uradprace.cz/agentury-prace">stránkách úřadu práce</a> (
+<a href="https://www.uradprace.cz/ ">www.uradprace.cz</a>&nbsp;→ Zaměstnanost → Pro zaměstnavatele → Agentury práce) a v 
+<a href="https://www.suip.cz/documents/20142/43720/agenturni_zamestnavani2024.pdf/610e8a7f-3657-7bbf-c7a6-be6d169859c9">článku &nbsp;</a>( 
 <a href="http://www.suip.cz/">www.suip.cz</a>&nbsp;→ O nás → Informační materiály → Informační letáky → Agenturní zaměstnávání).</li></ul>
 <h3>Členství a&nbsp;účast v&nbsp;odborech</h3>
 <ul>
-<li>Právo odborově se&nbsp;organizovat je&nbsp;garantováno&nbsp;
+<li>Právo odborově se&nbsp;organizovat je&nbsp;garantováno&nbsp; 
 <a href="https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_ILO_CODE:C087">Úmluvou Mezinárodní organizace práce č. 87</a>.</li>
 <li>Odborově organizovat je&nbsp;možné bez jakéhokoli rozdílu, tedy i&nbsp;bez rozdílu státního občanství. Je&nbsp;možné založit i&nbsp;novou odborovou organizaci, k&nbsp;jejímu založení jsou potřeba nejméně 3&nbsp;zakládající členové.&nbsp;</li></ul>
 <h3>Uznávání vzdělání</h3>
 <ul>
 <li>Proces uznávání zahraničního vzdělání nebo jeho části se&nbsp;nazývá nostrifikace.</li>
-<li>Veškeré informace naleznete přehledně v&nbsp;
-<a href="http://www.msmt.cz/file/49380/">brožuře Ministerstva školství, mládeže a&nbsp;tělovýchovy</a>&nbsp;&nbsp;(
+<li>Veškeré informace naleznete přehledně v&nbsp; 
+<a href="http://www.msmt.cz/file/49380/">brožuře Ministerstva školství, mládeže a&nbsp;tělovýchovy</a>&nbsp;&nbsp;( 
 <a href="http://www.msmt.cz/">www.msmt.cz</a>&nbsp;→ EU&nbsp;a&nbsp;zahraničí → Uznávání kvalifikací a vzdělání v EU → Uznávání vzdělání)</li>
-<li>V&nbsp;případě&nbsp;
-<strong>základních, středních a&nbsp;vyšších odborných škol</strong>&nbsp;provádí nostrifikaci krajský úřad v&nbsp;místě vašeho pobytu v&nbsp;Česku. Pro více informací se&nbsp;obraťte na&nbsp;krajský úřad, další informace najdete také na&nbsp;
-<a href="http://www.msmt.cz/vzdelavani/skolstvi-v-cr/nostrifikace-uznani-zahranicniho-zakladniho-stredniho-a">webu Ministerstva školství</a>&nbsp;&nbsp;(
+<li>V&nbsp;případě&nbsp; 
+<strong>základních, středních a&nbsp;vyšších odborných škol</strong>&nbsp;provádí nostrifikaci krajský úřad v&nbsp;místě vašeho pobytu v&nbsp;Česku. Pro více informací se&nbsp;obraťte na&nbsp;krajský úřad, další informace najdete také na&nbsp; 
+<a href="http://www.msmt.cz/vzdelavani/skolstvi-v-cr/nostrifikace-uznani-zahranicniho-zakladniho-stredniho-a">webu Ministerstva školství</a>&nbsp;&nbsp;( 
 <a href="http://www.msmt.cz/">www.msmt.cz</a>&nbsp;→ EU&nbsp;a&nbsp;zahraničí → Uznávání kvalifikací a&nbsp;vzdělání EU&nbsp;→ Uznávání vzdělání) nebo v&nbsp;brožuře</li>
-<li>Nostrifikaci&nbsp;
-<strong>vysokoškolského vzdělání</strong>&nbsp;provádí veřejné vysoké školy, které mají obsahově podobný studijní program, na&nbsp;základě písemné žádosti. Pro více informací se&nbsp;obraťte na&nbsp;vysokou školu (rektorát), další informace najdete také na&nbsp;
-<a href="http://www.msmt.cz/vzdelavani/vysoke-skolstvi/nostrifikace">webu Ministerstva školství</a>&nbsp;&nbsp;(
+<li>Nostrifikaci&nbsp; 
+<strong>vysokoškolského vzdělání</strong>&nbsp;provádí veřejné vysoké školy, které mají obsahově podobný studijní program, na&nbsp;základě písemné žádosti. Pro více informací se&nbsp;obraťte na&nbsp;vysokou školu (rektorát), další informace najdete také na&nbsp; 
+<a href="http://www.msmt.cz/vzdelavani/vysoke-skolstvi/nostrifikace">webu Ministerstva školství</a>&nbsp;&nbsp;( 
 <a href="http://www.msmt.cz/">www.msmt.cz</a>&nbsp;→ EU&nbsp;a&nbsp;zahraničí → Uznávání kvalifikací a&nbsp;vzdělání EU&nbsp;→ Postup při uznávání akademické kvalifikace) nebo v&nbsp;brožuře</li>
 <li>S&nbsp;některými státy má&nbsp;Česko uzavřené mezinárodní smlouvy o&nbsp;uznávání vzdělání, které stanoví jednodušší režim, více informací naleznete na&nbsp;webu Ministerstva školství (pod výše uvedenými odkazy) nebo v&nbsp;brožuře</li></ul>
 <h3>Uznávání odborné kvalifikace</h3>
 <ul>
 <li>Uznávání odborné kvalifikace je&nbsp;postup, při kterém se&nbsp;posuzuje, zda má&nbsp;osoba dostatečnou kvalifikaci (tedy že&nbsp;splňuje předepsané požadavky) pro výkon určitého regulovaného povolání. Regulované povolání je&nbsp;to, pro jehož výkon stanovují právní předpisy určité podmínky, například vzdělání v&nbsp;určitém oboru, určitá délka praxe nebo třeba zdravotní způsobilost.</li>
-<li>Pokud chcete vykonávat regulované povolání, musíte podat žádost uznávacímu orgánu. Seznam regulovaných povolání v&nbsp;Česku a&nbsp;jejich uznávacích orgánů, stejně jako stanovených požadavků, je&nbsp;dostupný v&nbsp;
+<li>Pokud chcete vykonávat regulované povolání, musíte podat žádost uznávacímu orgánu. Seznam regulovaných povolání v&nbsp;Česku a&nbsp;jejich uznávacích orgánů, stejně jako stanovených požadavků, je&nbsp;dostupný v&nbsp; 
 <a href="https://uok.msmt.cz/uok/ru_list.php">Databázi regulovaných povolání</a>.</li>
-<li>Více informací naleznete v&nbsp;brožuře nebo na&nbsp;
-<a href="http://www.msmt.cz/mezinarodni-vztahy/uznani-odborne-kvalifikace">webu Ministerstva školství</a>&nbsp;&nbsp;(
-<a href="http://www.msmt.cz/">www.msmt.cz</a>&nbsp;→ EU&nbsp;a&nbsp;zahraničí → Uznávání kvalifikací a&nbsp;vzdělání EU&nbsp;→ Uznávání kvalifikací). Databáze regulovaných povolání v&nbsp;celé Evropské unii najdete na&nbsp;
+<li>Více informací naleznete v&nbsp;brožuře nebo na&nbsp; 
+<a href="http://www.msmt.cz/mezinarodni-vztahy/uznani-odborne-kvalifikace">webu Ministerstva školství</a>&nbsp;&nbsp;( 
+<a href="http://www.msmt.cz/">www.msmt.cz</a>&nbsp;→ EU&nbsp;a&nbsp;zahraničí → Uznávání kvalifikací a&nbsp;vzdělání EU&nbsp;→ Uznávání kvalifikací). Databáze regulovaných povolání v&nbsp;celé Evropské unii najdete na&nbsp; 
 <a href="http://ec.europa.eu/growth/tools-databases/regprof/">webu Evropské komise</a>.</li></ul>
 <h3>Profesní komory</h3>
-<p>Jako občané EU&nbsp;máte v&nbsp;oblasti zaměstnání téměř stejné možnosti jako občané ČR. Pro výkon některých povolání je&nbsp;však povinností se&nbsp;stát členem profesní komory. Jedná se&nbsp;zejména o&nbsp;výkon povolání&nbsp;
-<a href="https://www.lkcr.cz/aktuality-322.html">lékaře</a>,&nbsp;
-<a href="https://www.dent.cz/">zubaře</a>,&nbsp;
-<a href="https://www.cak.cz/">advokáta</a>&nbsp;(včetně advokátních koncipientů),&nbsp;
-<a href="https://www.nkcr.cz/">notáře</a>,&nbsp;
-<a href="https://www.kdpcr.cz/">daňového poradce</a>,&nbsp;
+<p>Jako občané EU&nbsp;máte v&nbsp;oblasti zaměstnání téměř stejné možnosti jako občané ČR. Pro výkon některých povolání je&nbsp;však povinností se&nbsp;stát členem profesní komory. Jedná se&nbsp;zejména o&nbsp;výkon povolání&nbsp; 
+<a href="https://www.lkcr.cz/aktuality-322.html">lékaře</a>,&nbsp; 
+<a href="https://www.dent.cz/">zubaře</a>,&nbsp; 
+<a href="https://www.cak.cz/">advokáta</a>&nbsp;(včetně advokátních koncipientů),&nbsp; 
+<a href="https://www.nkcr.cz/">notáře</a>,&nbsp; 
+<a href="https://www.kdpcr.cz/">daňového poradce</a>,&nbsp; 
 <a href="https://www.cka.cz/cs">architekta</a>&nbsp;atd.</p>
 <p>Seznam profesních komor naleznete na 
 <a href="https://www.cizinci.cz/zajmova-a-profesni-samosprava">stránce webu cizinci.cz</a>.</p>
 <h3>Podnikání</h3>
 <ul>
-<li>Pokud nechcete pracovat na&nbsp;území ČR&nbsp;v&nbsp;pracovním poměru, můžete&nbsp;
-<a href="https://mpo.gov.cz/dokument77544.html">začít podnikat</a>,&nbsp;resp. být osobou samostatně výdělečně činnou – OSVČ (
+<li>Pokud nechcete pracovat na&nbsp;území ČR&nbsp;v&nbsp;pracovním poměru, můžete&nbsp; 
+<a href="https://mpo.gov.cz/dokument77544.html">začít podnikat</a>,&nbsp;resp. být osobou samostatně výdělečně činnou – OSVČ ( 
 <a href="https://mpo.gov.cz/">https://mpo.gov.cz/</a> →&nbsp; Podnikání → Živnostenské podnikání → Průvodce živnostenským podnikáním, důležité kontakty). V&nbsp;České republice se&nbsp;používá pojem živnost. Živností se&nbsp;rozumí soustavná činnost provozovaná samostatně, vlastním jménem, na&nbsp;vlastní odpovědnost, za&nbsp;účelem dosažení zisku a&nbsp;za&nbsp;podmínek stanovených živnostenským zákonem.</li>
-<li>V&nbsp;České republice lze provozovat&nbsp;
+<li>V&nbsp;České republice lze provozovat&nbsp; 
 <a href="https://www.businessinfo.cz/cs/clanky/zivnosti-ppbi-50480.html#!&amp;chapter=1">živnosti&nbsp;</a>pouze na&nbsp;základě&nbsp;živnostenského oprávnění.</li>
 <li>Živnosti se&nbsp;dělí v&nbsp;České republice do&nbsp;několika skupin, z&nbsp;nichž každá má&nbsp;pro její výkon vlastní požadavky. Jedná o&nbsp;živnost&nbsp;volnou,&nbsp;vázanou,&nbsp;řemeslnou a o&nbsp;koncesi.</li>
-<li>Pro účely podnikání na&nbsp;základě živnostenského oprávnění je&nbsp;možné si&nbsp;nechat&nbsp;
-<a href="https://www.mpo.cz/cz/podnikani/zivnostenske-podnikani/uznavani-odborne-kvalifikace-pro-oblast-zivnostenskeho-podnikani--144206/">uznat</a>&nbsp;odbornou kvalifikaci ze&nbsp;zahraničí. Žádost&nbsp;
-<strong>je zpoplatněna</strong>. (
+<li>Pro účely podnikání na&nbsp;základě živnostenského oprávnění je&nbsp;možné si&nbsp;nechat&nbsp; 
+<a href="https://www.mpo.cz/cz/podnikani/zivnostenske-podnikani/uznavani-odborne-kvalifikace-pro-oblast-zivnostenskeho-podnikani--144206/">uznat</a>&nbsp;odbornou kvalifikaci ze&nbsp;zahraničí. Žádost&nbsp; 
+<strong>je zpoplatněna</strong>. ( 
 <a href="https://mpo.gov.cz/">www.mpo.cz </a>→ Podnikání → Živnostenské podnikání → Uznávání odborné kvalifikace pro oblast živnostenského podnikání)</li>
-<li>V&nbsp;ČR&nbsp;si&nbsp;také můžete požádat&nbsp;
-<a href="https://www.mpo.cz/cz/podnikani/zivnostenske-podnikani/vydavani-osvedceni-o-odborne-kvalifikaci-a-vykonu-predmetne-cinnosti-v-cr/vydavani-osvedceni-o-odborne-kvalifikaci-a-vykonu-predmetne-cinnosti-v-cr--103030/">o vydání osvědčení</a>&nbsp;o&nbsp;odborné kvalifikaci a&nbsp;výkonu předmětné činnosti v&nbsp;ČR. Žádost o&nbsp;vydání osvědčení&nbsp;
-<strong>je zpoplatněna</strong>. (
+<li>V&nbsp;ČR&nbsp;si&nbsp;také můžete požádat&nbsp; 
+<a href="https://www.mpo.cz/cz/podnikani/zivnostenske-podnikani/vydavani-osvedceni-o-odborne-kvalifikaci-a-vykonu-predmetne-cinnosti-v-cr/vydavani-osvedceni-o-odborne-kvalifikaci-a-vykonu-predmetne-cinnosti-v-cr--103030/">o vydání osvědčení</a>&nbsp;o&nbsp;odborné kvalifikaci a&nbsp;výkonu předmětné činnosti v&nbsp;ČR. Žádost o&nbsp;vydání osvědčení&nbsp; 
+<strong>je zpoplatněna</strong>. ( 
 <a href="https://mpo.gov.cz/">www.mpo.cz</a> → Podnikání → Živnostenské podnikání → Vydávání osvědčení o&nbsp;odborné kvalifikaci a&nbsp;výkonu předmětné činnosti v&nbsp;ČR)</li>
 <li>
-<strong>Důležité</strong>: Pro výkon některých povolání je&nbsp;však povinností se&nbsp;stát členem profesní komory. Jedná se&nbsp;zejména o&nbsp;výkon povolání&nbsp;
-<a href="https://www.lkcr.cz/aktuality-322.html">lékaře</a>,&nbsp;
-<a href="https://www.dent.cz/">zubaře</a>,&nbsp;
-<a href="https://www.cak.cz/">advokáta&nbsp;</a>(včetně advokátních koncipientů),&nbsp;
-<a href="https://www.nkcr.cz/">notáře</a>,&nbsp;
-<a href="https://www.kdpcr.cz/">daňového poradce</a>,&nbsp;
+<strong>Důležité</strong>: Pro výkon některých povolání je&nbsp;však povinností se&nbsp;stát členem profesní komory. Jedná se&nbsp;zejména o&nbsp;výkon povolání&nbsp; 
+<a href="https://www.lkcr.cz/aktuality-322.html">lékaře</a>,&nbsp; 
+<a href="https://www.dent.cz/">zubaře</a>,&nbsp; 
+<a href="https://www.cak.cz/">advokáta&nbsp;</a>(včetně advokátních koncipientů),&nbsp; 
+<a href="https://www.nkcr.cz/">notáře</a>,&nbsp; 
+<a href="https://www.kdpcr.cz/">daňového poradce</a>,&nbsp; 
 <a href="https://www.cka.cz/cs">architekta&nbsp;</a>atd. Seznam profesních komor naleznete 
 <a href="https://www.cizinci.cz/zajmova-a-profesni-samosprava">stránce webu cizinci.cz</a>.</li>
 <li>
-<strong>Dočasné poskytování služeb</strong>&nbsp;– pokud máte sídlo v&nbsp;jiném členském státě a&nbsp;na&nbsp;území České republiky poskytujete&nbsp;
-<strong>dočasně nebo příležitostně služby</strong>, jejichž součástí je&nbsp;výkon&nbsp;
+<strong>Dočasné poskytování služeb</strong>&nbsp;– pokud máte sídlo v&nbsp;jiném členském státě a&nbsp;na&nbsp;území České republiky poskytujete&nbsp; 
+<strong>dočasně nebo příležitostně služby</strong>, jejichž součástí je&nbsp;výkon&nbsp; 
 <strong>regulované činnosti, která je&nbsp;živností</strong>&nbsp;(viz&nbsp;výše), jste oprávněn/a&nbsp;vykonávat tuto činnost bez dalšího. Zda je&nbsp;regulovaná činnost vykonávána dočasně a&nbsp;příležitostně se&nbsp;posuzuje zejména s&nbsp;ohledem na&nbsp;dobu, trvání, četnost, pravidelnost a&nbsp;nepřetržitost výkonu činnosti na&nbsp;území České republiky.</li>
-<li>Pokud dočasně a&nbsp;příležitostně poskytujete služby na&nbsp;území České republiky v&nbsp;činnosti, které se&nbsp;řadí k&nbsp;živnosti&nbsp;
-<strong>řemeslné, vázané a&nbsp;koncesované</strong>, jste povinen/povinna před tím, než začnete vykonávat regulovanou činnost na&nbsp;území České republiky,&nbsp;
-<strong>písemně oznámit</strong>&nbsp;poskytování služeb&nbsp;
+<li>Pokud dočasně a&nbsp;příležitostně poskytujete služby na&nbsp;území České republiky v&nbsp;činnosti, které se&nbsp;řadí k&nbsp;živnosti&nbsp; 
+<strong>řemeslné, vázané a&nbsp;koncesované</strong>, jste povinen/povinna před tím, než začnete vykonávat regulovanou činnost na&nbsp;území České republiky,&nbsp; 
+<strong>písemně oznámit</strong>&nbsp;poskytování služeb&nbsp; 
 <strong>Ministerstvu průmyslu a&nbsp;obchodu</strong>.</li>
-<li>Více se&nbsp;o&nbsp;dočasném poskytování služeb dozvíte na&nbsp;
-<a href="https://www.mpo.cz/cz/podnikani/zivnostenske-podnikani/povinnosti-osob-docasne-poskytujicich-sluzby-na-uzemi-ceske-republiky--151689/">webových stránkách</a>&nbsp;Ministerstva průmyslu obchodu. (
+<li>Více se&nbsp;o&nbsp;dočasném poskytování služeb dozvíte na&nbsp; 
+<a href="https://www.mpo.cz/cz/podnikani/zivnostenske-podnikani/povinnosti-osob-docasne-poskytujicich-sluzby-na-uzemi-ceske-republiky--151689/">webových stránkách</a>&nbsp;Ministerstva průmyslu obchodu. ( 
 <a href="https://mpo.gov.cz/">www.mpo.cz </a>→ Podnikání → Živnostenské podnikání → Povinnosti osob dočasně poskytujících služby na&nbsp;území České republiky)</li>
 <li>
 <strong>Usazení</strong>&nbsp;— jestliže Vaše podnikatelské aktivity v&nbsp;jiném státě EU&nbsp;rozšiřujete a&nbsp;nelze je&nbsp;proto již považovat za&nbsp;dočasné nebo příležitostné, nebo tam jednoduše chcete začít podnikat, je&nbsp;třeba se&nbsp;v&nbsp;daném státě „usadit". Více se&nbsp;o&nbsp;podmínkách usazení dozvíte v 
@@ -246,8 +247,8 @@ title: Jsem občan Evropské unie
 <a href="https://ipc.gov.cz/typy-viz-a-pobytu/obcane-evropske-unie/povoleni-k-trvalemu-pobytu-obcana-evropske-unie/">povolení k&nbsp;trvalému pobytu</a>. V&nbsp;některých případech můžete žádost o&nbsp;vydání povolení k&nbsp;trvalému pobytu podat i&nbsp;dříve (např.&nbsp;jste-li manžel/ka občana ČR). Podání žádosti je&nbsp;bezplatné. ( 
 <a href="https://ipc.gov.cz/">Informační portál pro cizince</a> →&nbsp;Typy víz a pobytů →&nbsp;Občané Evropské unie a jejich rodinní příslušníci →&nbsp;Povolení k&nbsp;trvalému pobytu občana Evropské unie).</li>
 <li>
-<strong>Zamítnutí a&nbsp;zrušení trvalého pobytu</strong>&nbsp;– Ministerstvo může Vaši žádost o&nbsp;povolení k&nbsp;trvalému pobytu zamítnout nebo Vaše povolení k&nbsp;trvalému pobytu&nbsp;
-<a href="https://ipc.gov.cz/povinnosti-cizincu/ukonceni-a-zruseni-povoleni-k-pobytu-obcanu-eu-a-jejich-rodinnych-prislusniku/?iqTabs=%7B%220%22%3A1%7D"> zrušit</a> ( 
+<strong>Zamítnutí a&nbsp;zrušení trvalého pobytu</strong>&nbsp;– Ministerstvo může Vaši žádost o&nbsp;povolení k&nbsp;trvalému pobytu zamítnout nebo Vaše povolení k&nbsp;trvalému pobytu&nbsp; 
+<a href="https://ipc.gov.cz/povinnosti-cizincu/ukonceni-a-zruseni-povoleni-k-pobytu-obcanu-eu-a-jejich-rodinnych-prislusniku/?iqTabs=%7B%220%22%3A1%7D">zrušit</a> ( 
 <a href="https://ipc.gov.cz/">Informační portál pro cizince</a> →&nbsp;Povinnosti cizinců →&nbsp;Ukončení a zrušení povolení k&nbsp;pobytu občanů EU a jejich rodinných příslušníků). Ministerstvo vydá rozhodnutí, proti kterému se&nbsp;můžete bránit.</li>
 <li>
 <strong>Žádosti o&nbsp;pobyt se&nbsp;podávají v&nbsp;českém</strong>&nbsp;(případně slovenském) jazyce. Písemnosti vyhotovené v&nbsp;cizím jazyce musíte zpravidla předložit v&nbsp;originálním znění a&nbsp;současně v&nbsp;úředně ověřeném překladu do&nbsp;jazyka českého. Pokud neovládáte český jazyk, budete potřebovat pomoc překladatele. Náklady na&nbsp;&nbsp;překladatele si&nbsp;hradíte sami. Seznam překladatelů a&nbsp;tlumočníků naleznete na webových stránkách 
@@ -256,8 +257,8 @@ title: Jsem občan Evropské unie
 <a href="https://ipc.gov.cz/zivot-v-cesku/rodne-cislo/">úřední rodné číslo</a>.&nbsp;Úřední rodné číslo je&nbsp;osobním identifikačním číslem a&nbsp;je&nbsp;důležité například pro placení zdravotního a&nbsp;sociálního pojištění a&nbsp;pro placení daní.</li></ul>
 <h3>Rodinní příslušníci</h3>
 <ul>
-<li>Kdo je&nbsp;rodinným příslušníkem občana EU, se&nbsp;dozvíte na
-<a href="https://ipc.gov.cz/typy-viz-a-pobytu/obcane-evropske-unie/kdo-jsou-obcane-evropske-unie-a-jejich-rodinni-prislusnici/ a "> stránce Informačního portálu pro cizince</a>. (
+<li>Kdo je&nbsp;rodinným příslušníkem občana EU, se&nbsp;dozvíte na 
+<a href="https://ipc.gov.cz/typy-viz-a-pobytu/obcane-evropske-unie/kdo-jsou-obcane-evropske-unie-a-jejich-rodinni-prislusnici/ a ">stránce Informačního portálu pro cizince</a>. ( 
 <a href="https://ipc.gov.cz/">Informační portál pro cizince</a> → Typy víz a pobytů → Občané Evropské unie a jejich rodinní příslušníci → &nbsp;Kdo jsou občané&nbsp;Evropské unie a jejich rodinní příslušníci).</li>
 <li>
 <strong>Vstup</strong>&nbsp;– u&nbsp;vstupu na&nbsp;území ČR&nbsp;se rozlišuje mezi rodinným příslušníkem s&nbsp;vízovou povinností a&nbsp;bez vízové povinnosti.&nbsp;Na 
@@ -268,7 +269,8 @@ title: Jsem občan Evropské unie
 <a href="http://www.mzv.cz/">www.mzv.cz</a>&nbsp;→ Vstup a&nbsp;pobyt → Schengenské vízum → Rodinný příslušník občana EU).</li>
 <li>
 <strong>Rodinný příslušník s&nbsp;vízovou povinností</strong>&nbsp;– musí podat&nbsp; 
-<strong>osobně</strong>&nbsp;žádost na&nbsp;zastupitelském úřadě ČR&nbsp;v&nbsp;zemi, jíž je&nbsp;občanem, nebo která mu&nbsp;udělila pobyt, nebo na&nbsp;zastupitelském úřadě, který zastupuje ČR. Občané těchto zemí mohou podat žádost o&nbsp;vízum na&nbsp;kterémkoli zastupitelském úřadu České republiky. Zastupitelský úřad Vám po&nbsp;obdržení žádosti stanoví termín schůzky. Před schůzkou si&nbsp;na&nbsp;zastupitelském úřadě ověřte, jestli bude potřeba zajistit si&nbsp;tlumočníka z&nbsp;Vašeho jazyka. V&nbsp;případě, že&nbsp;je&nbsp;nejbližší zastupitelský úřad výrazně vzdálen od&nbsp;Vašeho bydliště, můžete při osobním předání žádosti požádat o&nbsp;následnou e-mailovou komunikaci.</li></ul>
+<strong>osobně</strong>&nbsp;žádost na&nbsp;zastupitelském úřadě ČR&nbsp;v&nbsp;zemi, jíž je&nbsp;občanem, nebo která mu&nbsp;udělila pobyt, nebo na&nbsp;zastupitelském úřadě, který zastupuje ČR. Občané 
+<a href="https://www.zakonyprolidi.cz/cs/2010-429 ">těchto zemí </a>mohou podat žádost o&nbsp;vízum na&nbsp;kterémkoli zastupitelském úřadu České republiky. Zastupitelský úřad Vám po&nbsp;obdržení žádosti stanoví termín schůzky. Před schůzkou si&nbsp;na&nbsp;zastupitelském úřadě ověřte, jestli bude potřeba zajistit si&nbsp;tlumočníka z&nbsp;Vašeho jazyka. V&nbsp;případě, že&nbsp;je&nbsp;nejbližší zastupitelský úřad výrazně vzdálen od&nbsp;Vašeho bydliště, můžete při osobním předání žádosti požádat o&nbsp;následnou e-mailovou komunikaci.</li></ul>
 <p>O udělení víza musí zastupitelský úřad rozhodnout 
 <strong>do&nbsp;14&nbsp;dnů</strong>.&nbsp;</p>
 <p>Další informace, na&nbsp;kterém zastupitelském úřadě lze podat žádost o&nbsp;vízum, například pokud ve&nbsp;Vaší zemi nemá Česká republika žádné zastoupení, naleznete na stránce ministerstva 
