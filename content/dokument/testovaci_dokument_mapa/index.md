@@ -30,3 +30,5 @@ date: 2022-05-06T06:47:39.815Z
 <p>&nbsp;</p>
 <figure class="image">
 <img src="https://www.ochrance.cz/dokument/testovaci_dokument_mapa/do_logo_mail.png" alt="do_logo_mail.png"></figure>
+<figure class="image">
+<img src="https://www.ochrance.cz/dokument/testovaci_dokument_mapa/podcast.png" alt="podcast.png"></figure>
