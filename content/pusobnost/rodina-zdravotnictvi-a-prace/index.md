@@ -13,7 +13,7 @@ cta:
 ---
 Od 1. července 2025 chrání práva dětí dětský ombudsman. Poslanci ho teprve zvolí. Do té doby bude dětem pomáhat zástupce veřejného ochránce práv a ochránce práv dětí Vít Alexander Schorm a jeho tým. 
 
-Dětský ombudsman se stará o naplňování práv dětí a mladých do 18 let v individuálních případech i na systémové úrovni, kdy sleduje a prosazuje práva dětí podle [Úmluvy o právech dítěte](<>) i dalších mezinárodních smluv. 
+Dětský ombudsman se stará o naplňování práv dětí a mladých do 18 let v individuálních případech i na systémové úrovni, kdy sleduje a prosazuje práva dětí podle [Úmluvy o právech dítěte](https://www.e-sbirka.cz/sb/1991/104/0000-00-00?zalozka=text) i dalších mezinárodních smluv. 
 
 V případech jednotlivých dětí dětský ombudsman prověřuje postup úřadů, zařízení a různých institucí a osob, které vykonávají veřejnou správu. Řeší stížnosti na orgány sociálně-právní ochrany dětí (OSPOD), poměry v zařízeních pro děti, průtahy v soudních řízeních ve věcech péče o dítě, špatně provedené kontroly ze strany České školní inspekce či nedobře vyměřené dávky určené dětem. Zaměřuje se také na některé činnosti ředitelů škol, školských poradenských zařízení nebo organizací doprovázející pěstouny a další.
 
@@ -55,15 +55,11 @@ Mezi takové úřady, zařízení a osoby patří například:
 > 14letá Jana byla na návrh OSPOD umístěna do krizového zařízení pro děti. Napsala nám, že neví, proč v zařízení je, jak dlouho v něm bude, proč byla odebrána z péče otce. Během převozu autem po ní navíc soudní vykonavatel požadoval, aby měla celou dobu ruce na klíně.
 >
 > Vytkli jsme OSPOD, že s dívkou nekomunikoval lépe a vše jí nevysvětlil, že nezjišťoval, jestli by nemohla být v péči někoho z příbuzných, a kritizovali jsme i to, že OSPOD nezasáhl proti necitlivému jednání soudního vykonavatele. OSPOD poučil své pracovníky, vyjasnil si se soudním vykonavatelem přístup k dítěti a začal s Janou intenzivně komunikovat.
-
-
-
+>
 > *Chlapec díky nám dostal správný příspěvek na úhradu potřeb dítěte*
 >
 > Tomáš dostával příspěvek na úhradu potřeb dítěte snížený o soudem určené výživné. V září soud otci výživné zpětně snížil, a to od srpna. Úřad práce příspěvek v důsledku snížení výživného přepočítal, ale zvýšil ho až od října (to rozsudek o snížení výživného nabyl právní moci). Na základě našeho upozornění úřad práce uznal chybu a Tomášovi přiznal a doplatil zvýšený příspěvek na úhradu potřeb již od srpna.
-
-
-
+>
 > *Pomohli jsme čtrnáctiletému chlapci, aby se ho OSPOD zastal v probíhajícím soudním řízení*
 >
 > Adam se odmítal pravidelně stýkat se svým otcem bez přítomnosti někoho jiného. Vyčítá otci, že opustil rodinu a víc než dva roky se nezajímal o něj ani jeho mladšího bratra. Tento postoj zastává již pět let. Nic na něm nezměnila ani dlouhodobá spolupráce s různými odborníky a pravidelně probíhající styky v přítomnosti babičky. Naopak. Adam uvedl, že *„už má všeho dost a ať ho všichni nechají bejt“*. Soud přesto na žádost otce nařídil, že se musí s otcem stýkat bez přítomnosti babičky a nechat se vyšetřit u soudní znalkyně. Adama u soudu zastupoval OSPOD jako kolizní opatrovník. Přestože si myslel, že by soud již neměl chlapce nutit do další spolupráce s odborníky ani k pravidelnému kontaktu s otcem, proti jeho rozhodnutí se neodvolal.
@@ -78,13 +74,13 @@ Na dětského ombudsmana se může obrátit každé dítě, a to i bez vědomí 
 
 ## Jak kontaktovat dětského ombudsmana
 
-* [deti@ochrance.cz](<>)
-* [](<>)[online portál](<>)
+* [deti@ochrance.cz](mailto:deti@ochrance.cz)
+* [](https://portal.ochrance.cz/Submissions/AddChild)[online portál](https://portal.ochrance.cz/Submissions/AddChild)
 * [](<>)542 542 888 (v pracovní dny od 8:00 do 16:00) 
 * osobně v pondělí a ve středu od 8:00 do 16:00 na Údolní 39, 602 00 v Brně 
 * dopisem na stejnou adresu 
 
-Informace (nejen) pro děti najdete na [deti.ochrance.cz](<>) a v našich informačních letácích[](<>)
+Informace (nejen) pro děti najdete na [deti.ochrance.cz](https://deti.ochrance.cz/) a v našich informačních letácích[](<>)
 
-* [Dětský ombudsman aneb ochránce práv dětí: co dělá a co ne?](<>)
-* [](<>)[Dětský ombudsman: pomáhá i jinak (zvláštní oprávnění)](<>)
+* [Dětský ombudsman aneb ochránce práv dětí: co dělá a co ne?](https://www.ochrance.cz/letaky/detsky-ombudsman/detsky-ombudsman.pdf)
+* [](https://www.ochrance.cz/letaky/detsky-ombudsman-zvlastni-opravneni/detsky-ombudsman-zvlastni-opravneni.pdf)[Dětský ombudsman: pomáhá i jinak (zvláštní oprávnění)](https://www.ochrance.cz/letaky/detsky-ombudsman-zvlastni-opravneni/detsky-ombudsman-zvlastni-opravneni.pdf)
