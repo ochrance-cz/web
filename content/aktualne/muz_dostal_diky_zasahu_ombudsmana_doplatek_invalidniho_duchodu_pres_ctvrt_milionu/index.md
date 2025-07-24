@@ -8,11 +8,10 @@ perex: <p>Na ombudsmana se obrátil muž, který od České správy sociálního
   zabezpečení (ČSSZ) pobíral invalidní důchod prvního stupně. Stěžovatel se však
   domníval, že je invalidní ve druhém stupni a od dřívějšího data. Ombudsman
   upozornil ČSSZ, že její posudky o invaliditě neobsahují dostatečné odůvodnění.
-  Ombudsman oceňuje, že ČSSZ již během jeho šetření vydala z&nbsp;vlastní
-  iniciativy nový posudek, kterým napravila zjištěná pochybení. V&nbsp;něm
-  konstatovala, že muž byl skutečně invalidní ve druhém stupni a
-  k&nbsp;dřívějšímu datu. ČSSZ muži zvýšila invalidní důchod a zpětně doplatila
-  268 124 Kč.&nbsp;</p>
+  Oceňuje, že ČSSZ již během jeho šetření vydala z&nbsp;vlastní iniciativy nový
+  posudek, kterým napravila zjištěná pochybení. V&nbsp;něm konstatovala, že muž
+  byl skutečně invalidní ve druhém stupni a k&nbsp;dřívějšímu datu. ČSSZ muži
+  zvýšila invalidní důchod a zpětně doplatila 268 124 Kč.&nbsp;</p>
 attachments:
   - file: https://www.ochrance.cz/letaky/chci-zmenit-duchod/chci-zmenit-duchod.pdf
     title: Chci změnit (zvýšit) důchod
