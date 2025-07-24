@@ -7,7 +7,7 @@ phone: 542 542 888
 email: podatelna@ochrance.cz
 dataId: jz5adky
 address: >-
-  Kancelář veřejného ochránce práv a ochránce práv dětí 
+  Kancelář veřejného ochránce práv a ochránce práv dětí  
 
   Údolní 39
 
