@@ -48,18 +48,22 @@ Mezi takové úřady, zařízení a osoby patří například:
 * obce a kraje při zajišťování podmínek pro vzdělávání dětí, sociálních služeb pro děti a rodiny s dětmi 
 * a mnoho dalších
 
-##  Příklady řešených problémů
+###  Příklady řešených problémů
 
 > *Umístění dívky do krizového zařízení pro děti*
 >
 > 14letá Jana byla na návrh OSPOD umístěna do krizového zařízení pro děti. Napsala nám, že neví, proč v zařízení je, jak dlouho v něm bude, proč byla odebrána z péče otce. Během převozu autem po ní navíc soudní vykonavatel požadoval, aby měla celou dobu ruce na klíně.
 >
 > Vytkli jsme OSPOD, že s dívkou nekomunikoval lépe a vše jí nevysvětlil, že nezjišťoval, jestli by nemohla být v péči někoho z příbuzných, a kritizovali jsme i to, že OSPOD nezasáhl proti necitlivému jednání soudního vykonavatele. OSPOD poučil své pracovníky, vyjasnil si se soudním vykonavatelem přístup k dítěti a začal s Janou intenzivně komunikovat.
->
+
+
+
 > *Chlapec díky nám dostal správný příspěvek na úhradu potřeb dítěte*
 >
 > Tomáš dostával příspěvek na úhradu potřeb dítěte snížený o soudem určené výživné. V září soud otci výživné zpětně snížil, a to od srpna. Úřad práce příspěvek v důsledku snížení výživného přepočítal, ale zvýšil ho až od října (to rozsudek o snížení výživného nabyl právní moci). Na základě našeho upozornění úřad práce uznal chybu a Tomášovi přiznal a doplatil zvýšený příspěvek na úhradu potřeb již od srpna.
->
+
+
+
 > *Pomohli jsme čtrnáctiletému chlapci, aby se ho OSPOD zastal v probíhajícím soudním řízení*
 >
 > Adam se odmítal pravidelně stýkat se svým otcem bez přítomnosti někoho jiného. Vyčítá otci, že opustil rodinu a víc než dva roky se nezajímal o něj ani jeho mladšího bratra. Tento postoj zastává již pět let. Nic na něm nezměnila ani dlouhodobá spolupráce s různými odborníky a pravidelně probíhající styky v přítomnosti babičky. Naopak. Adam uvedl, že *„už má všeho dost a ať ho všichni nechají bejt“*. Soud přesto na žádost otce nařídil, že se musí s otcem stýkat bez přítomnosti babičky a nechat se vyšetřit u soudní znalkyně. Adama u soudu zastupoval OSPOD jako kolizní opatrovník. Přestože si myslel, že by soud již neměl chlapce nutit do další spolupráce s odborníky ani k pravidelnému kontaktu s otcem, proti jeho rozhodnutí se neodvolal.
