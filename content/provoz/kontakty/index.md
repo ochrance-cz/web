@@ -146,7 +146,7 @@ lawyers:
         role: právník (územní plánování, památková péče, pohřebnictví)
         phone: 542 542 351
         email: marek.hanak@ochrance.cz
-      - name: Anežka Hromířová
+      - name: Anežka Súkeníková
         role: právnička (ochrana zvířat proti týrání)
         phone: 542 542 458
         email: hromirova@ochrance.cz
