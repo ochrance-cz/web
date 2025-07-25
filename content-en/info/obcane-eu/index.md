@@ -285,39 +285,39 @@ links: []
 
 <h3>Health insurance and health care</h3>
 <ul>
-<li>Health care – as an&nbsp;EU citizen you have the&nbsp;right for the&nbsp;same health care as Czech citizens</li>
-<li>You may file a&nbsp;complaint if you are not satisfied with the&nbsp;quality of health care that you received or with the&nbsp;conduct of medical staff, more information 
-<a href="https://www.mzcr.cz/Cizinci/obsah/procedure-for-filing-a-complaint-against-healthcare-received_2656_23.html">here</a> (
-<a href="http://www.mzcr.cz/cizinci">www.mzcr.cz/cizinci</a> → Procedure for filing a&nbsp;complaint against healthcare received)</li>
-<li>You may be insured in public health insurance system only in one European Union country</li>
-<li>The country of insurance is the&nbsp;country where you work either as an&nbsp;employee or as a&nbsp;self-employed person (with the&nbsp;exception of temporary posting of workers or seasonal workers, special rules apply to frontier workers)</li>
-<li>If you are not an&nbsp;employee nor a&nbsp;self-employed person, your country of insurance is most probably the&nbsp;country where you habitually reside, more information 
-<a href="https://www.kancelarzp.cz/en/temp-in-cr/eu-insured-temporary">here</a> (kancelarzp.cz → Temporary stay in CZ → EU insured person)</li>
-<li>Health insurance premium –&nbsp;if you are employed under labour contract, the&nbsp;premium is deducted directly from your wages (work under agreement to complete a&nbsp;job or agreement to perform work is not considered as work under labour contract); if you are not, you have to pay the&nbsp;premium yourself – ask your health insurance company</li>
-<li>If you are insured in another EU country, upon presentation of EHIC card (blue card proving public health insurance in EU) you are entitled to necessary health care in the&nbsp;Czech Republic</li>
-<li>You have to notify your health insurance company about all changes of personal data (name and surname, address, change of employment)</li>
-<li>Some insurance companies offer also private health insurance, but that does not necessarily cover all health care and usually is less advantageous than public health insurance</li>
-<li>If you terminate your work in one country and plan to move to another, it is recommended to collect certificate proving the&nbsp;duration of your health insurance</li>
-<li>For more information see 
+<li>Health care – as&nbsp;an&nbsp;EU&nbsp;citizen you have the&nbsp;right for the&nbsp;same health care as&nbsp;Czech citizens</li>
+<li>You may file a&nbsp;complaint if&nbsp;you are not satisfied with the&nbsp;quality of&nbsp;health care that you received or&nbsp;with the&nbsp;conduct of&nbsp;medical staff. More information&nbsp;can be found in our t
+<a href="https://www.ochrance.cz/en/letaky/en-healthcare-complaints/EN-Healthcare-complaints.pdf">ext Healthcare: Complaints involving healthcare</a>.</li>
+<li>You may be&nbsp;insured in&nbsp;public health insurance system only in&nbsp;one European Union country</li>
+<li>The country of&nbsp;insurance is&nbsp;the&nbsp;country where you work either as&nbsp;an&nbsp;employee or&nbsp;as a&nbsp;self-employed person (with the&nbsp;exception of&nbsp;temporary posting of&nbsp;workers or&nbsp;seasonal workers, special rules apply to&nbsp;frontier workers)</li>
+<li>If you are not an&nbsp;employee nor a&nbsp;self-employed person, your country of&nbsp;insurance is&nbsp;most probably the&nbsp;country where you habitually reside, more information can be found on 
+<a href="https://kancelarzp.cz/en/temporary-stay-in-cz/eu-insured-persons/">the website Health Insurance Bureau</a>&nbsp;(
+<a href="https://kancelarzp.cz/en/homepage/">https://kancelarzp.cz/en/homepage/</a> → Temporary stay in&nbsp;CZ → EU&nbsp;insured person)</li>
+<li>Health insurance premium –&nbsp;if&nbsp;you are employed under labour contract, the&nbsp;premium is&nbsp;deducted directly from your wages (work under agreement to&nbsp;complete a&nbsp;job or&nbsp;agreement to&nbsp;perform work is&nbsp;not considered as&nbsp;work under labour contract); if&nbsp;you are not, you have to&nbsp;pay the&nbsp;premium yourself – ask your health insurance company</li>
+<li>If you are insured in&nbsp;another EU&nbsp;country, upon presentation of&nbsp;EHIC card (blue card proving public health insurance in&nbsp;EU) you are entitled to&nbsp;necessary health care in&nbsp;the&nbsp;Czech Republic</li>
+<li>You have to&nbsp;notify your health insurance company about all changes of&nbsp;personal data (name and surname, address, change of&nbsp;employment)</li>
+<li>Some insurance companies offer also private health insurance, but that does not necessarily cover all health care and usually is&nbsp;less advantageous than public health insurance</li>
+<li>If you terminate your work in&nbsp;one country and plan to&nbsp;move to&nbsp;another, it&nbsp;is recommended to&nbsp;collect certificate proving the&nbsp;duration of&nbsp;your health insurance</li>
+<li>For more information see&nbsp;
 <a href="https://www.kancelarzp.cz/index.php/en">https://www.kancelarzp.cz/index.php/en</a></li></ul>
 <h3>Social security</h3>
 <ul>
-<li>In order to make it easier for EU citizens to move and work abroad, EU has adopted rules for determination which country is responsible for payment of social security benefits</li>
-<li>Under these rules you may be subject to legislation of only one country – the&nbsp;country of insurance</li>
-<li>The country of insurance is the&nbsp;country where you work either as an&nbsp;employee or as a&nbsp;self-employed person (with the&nbsp;exception of temporary posting of workers or seasonal workers, special rules apply to frontier workers). If you don’t work, the&nbsp;country of insurance is usually the&nbsp;country of your residence</li>
-<li>In the&nbsp;country of insurance you should have equal access to social security contributions as its citizens</li>
-<li>When deciding about your entitlement to social security benefits, the&nbsp;competent institution takes into account periods of insurance, employment or self-employment completed in other EU countries</li>
-<li>Social security contributions –&nbsp;if you are employed under labour contract, the&nbsp;contributions are deducted directly from your wages; if you are not, you have pay the&nbsp;contributions yourself – ask the&nbsp;local office of the&nbsp;Social Security Administration [Okresní správa sociálního zabezpečení]</li>
-<li>In some cases you may be asked by social security institution or Labour Office to fill in a&nbsp;questionnaire to find out what your country of residence is</li>
-<li>You may ask the&nbsp;Social Security Administration for more information on pensions (retirement or invalidity), sickness benefits, maternity or paternity benefits; or the&nbsp;Labour Office for more information on unemployment benefits, family benefits, assistance in material need</li>
-<li>If you terminate your work in one country and plan to move to another, it is recommended to collect certificate proving the&nbsp;duration of your social insurance (ask labour authority office in the&nbsp;country of work)</li>
-<li>More information is available on the&nbsp;website of 
-<a href="https://www.mpsv.cz/web/en">Ministry of Labour and Social Affairs</a>&nbsp;or 
-<a href="https://www.cssz.cz/web/en">Czech Social Security Administration</a> [Česká správa sociálního zabezpečení] or contact 
+<li>In order to&nbsp;make it&nbsp;easier for EU&nbsp;citizens to&nbsp;move and work abroad, EU&nbsp;has adopted rules for determination which country is&nbsp;responsible for payment of&nbsp;social security benefits</li>
+<li>Under these rules you may be&nbsp;subject to&nbsp;legislation of&nbsp;only one country – the&nbsp;country of&nbsp;insurance</li>
+<li>The country of&nbsp;insurance is&nbsp;the&nbsp;country where you work either as&nbsp;an&nbsp;employee or&nbsp;as a&nbsp;self-employed person (with the&nbsp;exception of&nbsp;temporary posting of&nbsp;workers or&nbsp;seasonal workers, special rules apply to&nbsp;frontier workers). If&nbsp;you don’t&nbsp;work, the&nbsp;country of&nbsp;insurance is&nbsp;usually the&nbsp;country of&nbsp;your residence</li>
+<li>In the&nbsp;country of&nbsp;insurance you should have equal access to&nbsp;social security contributions as&nbsp;its citizens</li>
+<li>When deciding about your entitlement to&nbsp;social security benefits, the&nbsp;competent institution takes into account periods of&nbsp;insurance, employment or&nbsp;self-employment completed in&nbsp;other EU&nbsp;countries</li>
+<li>Social security contributions –&nbsp;if&nbsp;you are employed under labour contract, the&nbsp;contributions are deducted directly from your wages; if&nbsp;you are not, you have pay the&nbsp;contributions yourself – ask the&nbsp;local office of&nbsp;the&nbsp;Social Security Administration [Okresní správa sociálního zabezpečení]</li>
+<li>In some cases you may be&nbsp;asked by&nbsp;social security institution or&nbsp;Labour Office to&nbsp;fill in&nbsp;a&nbsp;questionnaire to&nbsp;find out what your country of&nbsp;residence is</li>
+<li>You may ask the&nbsp;Social Security Administration for more information on&nbsp;pensions (retirement or&nbsp;invalidity), sickness benefits, maternity or&nbsp;paternity benefits; or&nbsp;the&nbsp;Labour Office for more information on&nbsp;unemployment benefits, family benefits, assistance in&nbsp;material need</li>
+<li>If you terminate your work in&nbsp;one country and plan to&nbsp;move to&nbsp;another, it&nbsp;is recommended to&nbsp;collect certificate proving the&nbsp;duration of&nbsp;your social insurance (ask labour authority office in&nbsp;the&nbsp;country of&nbsp;work)</li>
+<li>More information is&nbsp;available on&nbsp;the&nbsp;website of&nbsp;
+<a href="https://www.mpsv.cz/en/">Ministry of&nbsp;Labour and Social Affairs</a>&nbsp;or&nbsp;
+<a href="https://www.cssz.cz/web/en">Czech Social Security Administration</a>&nbsp;[Česká správa sociálního zabezpečení] or&nbsp;contact&nbsp;
 <a href="https://www.uradprace.cz/web/en/eures">EURES&nbsp;</a>at local Labour Office</li>
-<li>More information on social security coordination in the&nbsp;EU is available 
-<a href="https://ec.europa.eu/social/main.jsp?catId=849&amp;langId=en">here</a> and EU Practical Guide on the&nbsp;Applicable Legislation in the&nbsp;EU may be download 
-<a href="https://ec.europa.eu/social/keyDocuments.jsp?advSearchKey=4944&amp;policyArea=&amp;subCategory=&amp;year=&amp;country=&amp;type=&amp;mode=advancedSubmit&amp;langId=en&amp;searchType=&amp;search=Search">here</a></li></ul>
+<li>More information on&nbsp;social security coordination in&nbsp;the&nbsp;EU&nbsp;is&nbsp;available on 
+<a href="https://employment-social-affairs.ec.europa.eu/policies-and-activities/moving-working-europe/eu-social-security-coordination_en">the website of the European Commission</a> and EU&nbsp;Practical Guide on&nbsp;the&nbsp;Applicable Legislation in&nbsp;the&nbsp;EU&nbsp;may be&nbsp;download&nbsp;
+<a href="https://ec.europa.eu/social/BlobServlet?docId=11366&amp;langId=en">here</a>.</li></ul>
 <h3>Czech language courses</h3>
 <ul>
 <li>You may visit language courses in integration centres for improvement language skills. Integration centres are located in every county. Contacts for individual branches and further information about their activities can be found at 
