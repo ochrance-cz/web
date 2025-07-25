@@ -89,91 +89,84 @@ links: []
 <li>You can find 
 <a href="https://www.uradprace.cz/en/rights-and-obligations-of-a-job-seeker">the&nbsp;basic rights and duties of&nbsp;the&nbsp;job seeker</a>&nbsp;(
 <a href="http://www.uradprace.cz/">www.uradprace.cz</a>&nbsp;English version → Employment→ For citizens → Basic rights and obligations of&nbsp;a&nbsp;jobseeker).&nbsp;Further details on&nbsp;employing foreigners can be found in the 
-<a href="https://www.uradprace.cz/en/rights-and-obligations-of-a-job-seeker">website of the employment office&nbsp;"Úřad práce" </a>(
+<a href="https://www.uradprace.cz/en/rights-and-obligations-of-a-job-seeker">website of the Labour Office </a>(
 <a href="http://www.uradprace.cz/">www.uradprace.cz</a>&nbsp;English version → EURES → Living and working conditions).</li>
 <li>The employment contract must always be&nbsp;concluded in&nbsp;writing in&nbsp;the&nbsp;Czech Republic. In&nbsp;addition to&nbsp;the&nbsp;standard employment relationship, two other types of&nbsp;work agreement (up to&nbsp;20&nbsp;hours per week or&nbsp;up to&nbsp;300&nbsp;hours per year) may also be&nbsp;negotiated. For these agreements, slightly different condition applies.</li>
 <li>A probationary period (maximum of&nbsp;4&nbsp;months, 8&nbsp;months for executives) can be&nbsp;arranged for employment, during which the&nbsp;employment can be&nbsp;terminated immediately and without giving any reason.</li>
-<li>When working in&nbsp;the&nbsp;Czech Republic, you are entitled to&nbsp;the&nbsp;same conditions as&nbsp;Czech citizens. This right also applies to&nbsp;your family members. Details are available&nbsp;
-<a href="https://europa.eu/youreurope/citizens/work/work-abroad/equal-treatment-with-nationals/index_en.htm">here&nbsp;</a>(
+<li>When working in&nbsp;the&nbsp;Czech Republic, you are entitled to&nbsp;the&nbsp;same conditions as&nbsp;Czech citizens. This right also applies to&nbsp;your family members. Details are available&nbsp;in 
+<a href="https://europa.eu/youreurope/citizens/work/work-abroad/equal-treatment-with-nationals/index_en.htm">the website of the EU&nbsp;</a>(
 <a href="https://ec.europa.eu/youreurope">https://ec.europa.eu/youreurope</a>&nbsp;→ Citizens → Work &amp; Retirement → Working abroad → Equal treatment).</li>
 <li>Basic information about regulation of&nbsp;labour relations is&nbsp;available&nbsp;in the 
 <a href="https://www.suip.cz/documents/178792/1010503/pracovni_podminky_en_2024_06.pdf">text of the State Labour Inspection Office</a> (
 <a href="https://www.suip.cz/web/en">https://www.suip.cz/web/en</a> → Labour Relations → Basic information on employment regulations)</li></ul>
 <h3>Working conditions</h3>
 <ul>
-<li>The employer is obliged to ensure equal treatment of all employees in terms of their working conditions, remuneration for work, training and opportunity to promotion in employment</li>
-<li>The employer may not discriminate employees in any way, in particular on grounds of sex, sexual orientation, racial or ethnic origin, nationality, citizenship, social origin, gender, language, health, age, religion or belief, property, marital and family status, or duties to family, political or other sentiments, membership and activities in political parties or political movements in trade unions or employers' organizations.</li>
-<li>The principle of equal pay for equal work applies. Work pay must also not be less than the&nbsp;minimum wage (or wage guaranteed).</li>
-<li>The 
-<a href="http://www.suip.cz/english-documents/">State Labour Inspection Office</a>&nbsp;[Státní úřad inspekce práce] is authorized to monitor compliance of the&nbsp;employer with working conditions. (
-<a href="http://www.suip.cz/">www.suip.cz</a> → English version)</li>
-<li>If you want to make a&nbsp;complaint about your working conditions, you may file a&nbsp;complaint to the&nbsp;employer. The&nbsp;employer has to deal with it and let you know about the&nbsp;result. You may also lodge a&nbsp;complaint to the&nbsp;State Labour Inspection Office or file a&nbsp;lawsuit.</li></ul>
+<li>The employer is&nbsp;obliged to&nbsp;ensure equal treatment of&nbsp;all employees in&nbsp;terms of&nbsp;their working conditions, remuneration for work, training and opportunity to&nbsp;promotion in&nbsp;employment</li>
+<li>The employer may not discriminate employees in&nbsp;any way, in&nbsp;particular on&nbsp;grounds of&nbsp;sex, sexual orientation, racial or&nbsp;ethnic origin, nationality, citizenship, social origin, gender, language, health, age, religion or&nbsp;belief, property, marital and family status, or&nbsp;duties to&nbsp;family, political or&nbsp;other sentiments, membership and activities in&nbsp;political parties or&nbsp;political movements in&nbsp;trade unions or&nbsp;employers' organizations.</li>
+<li>The principle of&nbsp;equal pay for equal work applies. Work pay must also not be&nbsp;less than the&nbsp;minimum wage (or wage guaranteed).</li>
+<li>The&nbsp;
+<a href="http://www.suip.cz/english-documents/">State Labour Inspection Office</a>&nbsp;[Státní úřad inspekce práce] is&nbsp;authorized to&nbsp;monitor compliance of&nbsp;the&nbsp;employer with working conditions. (
+<a href="https://www.suip.cz/web/en">https://www.suip.cz/web/en</a>)</li>
+<li>If you want to&nbsp;make a&nbsp;complaint about your working conditions, you may file a&nbsp;complaint to&nbsp;the&nbsp;employer. The&nbsp;employer has to&nbsp;deal with it&nbsp;and let you know about the&nbsp;result. You may also lodge a&nbsp;complaint to&nbsp;the&nbsp;State Labour Inspection Office or&nbsp;file a&nbsp;lawsuit.</li></ul>
 <h3>Posting of workers</h3>
 <ul>
-<li>If your employer sends you to work in another Member State to work in the&nbsp;Czech Republic, she is obliged to notify the&nbsp;relevant local office of the&nbsp;
-<a href="https://portal.mpsv.cz/upcr">Labour Office</a>&nbsp;in writing.</li>
-<li>When sending an&nbsp;employee in the&nbsp;territory of the&nbsp;Czech Republic, it is subject to the&nbsp;Czech legislation on condition that it is more advantageous for him in respect of certain rights (e.g. maximum working hours, minimum leave, minimum wage, occupational safety or the&nbsp;principle of equal treatment and non-discrimination). Details are 
-<a href="http://www.suip.cz/_files/suip-07bd59109a9227f9a77b827722bc0e3a/mpsvanglictina_2019.pdf">here</a>&nbsp;(
-<a href="http://www.suip.cz/">www.suip.cz</a> → English version → Information on the&nbsp;labour and wage conditions and terms for workers posted).</li></ul>
+<li>If your employer sends you to&nbsp;work in&nbsp;another Member State to&nbsp;work in&nbsp;the&nbsp;Czech Republic, she is&nbsp;obliged to&nbsp;notify the&nbsp;relevant local office of&nbsp;the&nbsp;
+<a href="https://www.uradprace.cz/en/">Labour Office&nbsp;</a>in&nbsp;writing.</li>
+<li>When sending an&nbsp;employee in&nbsp;the&nbsp;territory of&nbsp;the&nbsp;Czech Republic, it&nbsp;is subject to&nbsp;the&nbsp;Czech legislation on&nbsp;condition that it&nbsp;is more advantageous for him in&nbsp;respect of&nbsp;certain rights (e.g. maximum working hours, minimum leave, minimum wage, occupational safety or&nbsp;the&nbsp;principle of&nbsp;equal treatment and non-discrimination). Details are in 
+<a href="https://www.suip.cz/web/en/posting-of-workers">the website of the State Labour Inspection Office&nbsp;</a>(
+<a href="https://www.suip.cz/web/en">https://www.suip.cz/web/en</a> → Posting of workers)&nbsp;</li></ul>
 <h3>Agency employment</h3>
 <ul>
-<li>To get a&nbsp;job in the&nbsp;Czech Republic, you can also use the&nbsp;services of one of the&nbsp;employment agencies. In this case, you will become an&nbsp;employee of the&nbsp;employment agency, which will then assign you to the&nbsp;so-called user (the&nbsp;employer you are actually working with) to work.</li>
-<li>Even in the&nbsp;case of agency employment, the&nbsp;principle of equal treatment must be respected. The&nbsp;user (employer) must not discriminate you against your core employees.</li>
-<li>Details of agency employment can be found 
-<a href="https://www.uradprace.cz/web/en/employment-agencies-1">here</a>.</li></ul>
+<li>To get a&nbsp;job in&nbsp;the&nbsp;Czech Republic, you can also use the&nbsp;services of&nbsp;one of&nbsp;the&nbsp;employment agencies. In&nbsp;this case, you will become an&nbsp;employee of&nbsp;the&nbsp;employment agency, which will then assign you to&nbsp;the&nbsp;so-called user (the&nbsp;employer you are actually working with) to&nbsp;work.</li>
+<li>Even in&nbsp;the&nbsp;case of&nbsp;agency employment, the&nbsp;principle of&nbsp;equal treatment must be&nbsp;respected. The&nbsp;user (employer) must not discriminate you against your core employees.</li>
+<li>Details of&nbsp;agency employment can be&nbsp;found on
+<a href="https://www.uradprace.cz/en/employment-agencies-1">&nbsp;the&nbsp;website of&nbsp;Labour Office</a>.</li></ul>
 <h3>Membership and participation in trade unions</h3>
 <ul>
-<li>The right to associate in trade unions is guaranteed by the&nbsp;
+<li>The right to&nbsp;associate in&nbsp;trade unions is&nbsp;guaranteed by&nbsp;the&nbsp;
 <a href="https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_ILO_CODE:C087">International Labour Organization Convention 87</a>.</li>
-<li>Membership in trade unions is possible without any difference, i. e. regardless of citizenship. It is also possible to establish a&nbsp;new trade union organization, at least 3&nbsp;founding members are needed to establish it.</li></ul>
+<li>Membership in&nbsp;trade unions is&nbsp;possible without any difference, i. e. regardless of&nbsp;citizenship. It&nbsp;is also possible to&nbsp;establish a&nbsp;new trade union organization, at&nbsp;least 3&nbsp;founding members are needed to&nbsp;establish it.</li></ul>
 <h3>Recognition of education</h3>
 <ul>
-<li>The procedure of recognition of foreign education or its part is called “nostrifikace”.</li>
-<li>All important information is summarized in a&nbsp;
-<a href="http://www.msmt.cz/eu-and-international-affairs/brochure-recognition-of-foreign-education-and-qualifications?lang=2">brochure made by the Ministry of Education, Youth and Sport</a>&nbsp;[Ministerstvo školství, mládeže a&nbsp;tělovýchovy] (
-<a href="http://www.msmt.cz/">www.msmt.cz</a> English website → EU and International Affairs → Recognition of qualification and education in the&nbsp;Czech Republic)</li>
-<li>Recognition of foreign basic, secondary and tertiary professional education: recognition is carried out by regional authorities [krajský úřad] in the&nbsp;place of your residence in the&nbsp;Czech Republic. For more information you may ask your local regional authority, you’ll find further information also in the&nbsp;brochure</li>
-<li>Recognition of higher (university) education is carried out by public universities that have a&nbsp;study programme with similar content as regards the&nbsp;subject of study upon a&nbsp;written request. For more information you may ask at the&nbsp;university (office of the&nbsp;rector), you’ll find further information also on the&nbsp;
-<a href="http://www.msmt.cz/eu-and-international-affairs/academic-recognition">website of Ministry of Education</a>&nbsp;(
-<a href="http://www.msmt.cz/">www.msmt.cz</a> English website → EU and International Affairs → Recognition of qualification and education in the&nbsp;Czech Republic → Academic Recognition) or in the&nbsp;brochure</li>
-<li>Czech Republic has concluded international agreements on recognition of education with some countries, that provide for simplified procedure, for more information see the&nbsp;website of Ministry of Education (under the&nbsp;links above) or in the&nbsp;brochure</li></ul>
+<li>The procedure of&nbsp;recognition of&nbsp;foreign education or&nbsp;its part is&nbsp;called “nostrifikace”.</li>
+<li>All important information is&nbsp;summarized in&nbsp;a&nbsp;
+<a href="http://www.msmt.cz/eu-and-international-affairs/brochure-recognition-of-foreign-education-and-qualifications?lang=2">brochure made by&nbsp;the Ministry of&nbsp;Education, Youth and Sport</a>&nbsp;[Ministerstvo školství, mládeže a&nbsp;tělovýchovy] (
+<a href="http://www.msmt.cz/">www.msmt.cz</a>&nbsp;English website → EU&nbsp;and International Affairs → Recognition of&nbsp;qualification and education in&nbsp;the&nbsp;Czech Republic)</li>
+<li>Recognition of&nbsp;foreign basic, secondary and tertiary professional education: recognition is&nbsp;carried out by&nbsp;regional authorities [krajský úřad] in&nbsp;the&nbsp;place of&nbsp;your residence in&nbsp;the&nbsp;Czech Republic. For more information you may ask your local regional authority, you’ll&nbsp;find further information also in&nbsp;the&nbsp;brochure</li>
+<li>Recognition of&nbsp;higher (university) education is&nbsp;carried out by&nbsp;public universities that have a&nbsp;study programme with similar content as&nbsp;regards the&nbsp;subject of&nbsp;study upon a&nbsp;written request. For more information you may ask at&nbsp;the&nbsp;university (office of&nbsp;the&nbsp;rector), you’ll&nbsp;find further information also on&nbsp;the&nbsp;
+<a href="http://www.msmt.cz/eu-and-international-affairs/academic-recognition">website of&nbsp;Ministry of&nbsp;Education</a>&nbsp;(
+<a href="http://www.msmt.cz/">www.msmt.cz</a>&nbsp;English website → EU&nbsp;and International Affairs → Recognition of&nbsp;qualification and education in&nbsp;the&nbsp;Czech Republic → Academic Recognition) or&nbsp;in the&nbsp;brochure</li>
+<li>Czechia has concluded international agreements on&nbsp;recognition of&nbsp;education with some countries, that provide for simplified procedure, for more information see the&nbsp;website of&nbsp;Ministry of&nbsp;Education (under the&nbsp;links above) or&nbsp;in the&nbsp;brochure.</li></ul>
 <h3>Recognition of qualification</h3>
 <ul>
-<li>Recognition of qualification is a&nbsp;procedure, the&nbsp;aim of which is to assess whether a&nbsp;person has sufficient qualification (i.e. meets specified requirements) for the&nbsp;performance of a&nbsp;certain regulated profession/occupation. A&nbsp;profession is regulated if the&nbsp;law stipulates specific conditions for its performance, such as education in a&nbsp;specific field, certain length of practice or medical fitness.</li>
-<li>If you wish to perform a&nbsp;regulated profession, you should make an&nbsp;application to a&nbsp;recognition body. The&nbsp;list of regulated professions in the&nbsp;Czech Republic and their respective recognition bodies, as well as specific requirements, is available in the&nbsp;
-<a href="https://uok.msmt.cz/uok/ru_list.php?lang=en&amp;dl=en">Database of Regulated Professions</a></li>
-<li>You may find more information in the&nbsp;brochure, on the&nbsp;
-<a href="http://www.msmt.cz/eu-and-international-affairs/recognition-of-professional-qualification">website of Ministry of Education</a>&nbsp;(
-<a href="http://www.msmt.cz/">www.msmt.cz</a> English website → EU and International Affairs → Recognition of qualification and education in the&nbsp;Czech Republic → Recognition of professional qualification). Database of regulated profession in whole European Union is available on the&nbsp;
-<a href="http://ec.europa.eu/growth/tools-databases/regprof/">website of European Commission</a>.</li></ul>
+<li>Recognition of&nbsp;qualification is&nbsp;a&nbsp;procedure, the&nbsp;aim of&nbsp;which is&nbsp;to assess whether a&nbsp;person has sufficient qualification (i.e. meets specified requirements) for the&nbsp;performance of&nbsp;a&nbsp;certain regulated profession/occupation. A&nbsp;profession is&nbsp;regulated if&nbsp;the&nbsp;law stipulates specific conditions for its performance, such as&nbsp;education in&nbsp;a&nbsp;specific field, certain length of&nbsp;practice or&nbsp;medical fitness.</li>
+<li>If you wish to&nbsp;perform a&nbsp;regulated profession, you should make an&nbsp;application to&nbsp;a&nbsp;recognition body. The&nbsp;list of&nbsp;regulated professions in&nbsp;Czechia and their respective recognition bodies, as&nbsp;well as&nbsp;specific requirements, is&nbsp;available in&nbsp;the&nbsp;
+<a href="https://uok.msmt.cz/uok/ru_list.php?lang=en&amp;dl=en">Database of&nbsp;Regulated Professions</a></li>
+<li>You may find more information in&nbsp;the&nbsp;brochure, on&nbsp;the&nbsp;
+<a href="http://www.msmt.cz/eu-and-international-affairs/recognition-of-professional-qualification">website of&nbsp;Ministry of&nbsp;Education</a>&nbsp;(
+<a href="http://www.msmt.cz/">www.msmt.cz</a>&nbsp;English website → EU&nbsp;and International Affairs → Recognition of&nbsp;qualification and education in&nbsp;the&nbsp;Czech Republic → Recognition of&nbsp;professional qualification). Database of&nbsp;regulated profession in&nbsp;whole European Union is&nbsp;available on&nbsp;the&nbsp;
+<a href="http://ec.europa.eu/growth/tools-databases/regprof/">website of&nbsp;European Commission</a>.</li></ul>
 <h3>Professional associations</h3>
-<p>As an&nbsp;EU citizen, you have the&nbsp;same rights as Czech citizens regarding employment. However, several professions such as attorney, doctor, dentist, tax advisor or architect require membership in a&nbsp;professional association. The&nbsp;list of those professions is available 
-<a href="http://www.nssoud.cz/Profesni-komory/art/575?menu=274">here</a>.</p>
+<p>As an&nbsp;EU&nbsp;citizen, you have the&nbsp;same rights as&nbsp;Czech citizens regarding employment. However, several professions such as&nbsp;attorney, doctor, dentist, tax advisor or&nbsp;architect require membership in&nbsp;a&nbsp;professional association. Those professions is&nbsp;available in 
+<a href="https://www.cizinci.cz/web/cz/zajmova-a-profesni-samosprava">the list</a>.&nbsp;</p>
 <h3>Business</h3>
 <ul>
-<li>As an&nbsp;EU citizen, you can also 
-<a href="https://www.businessinfo.cz/en/starting-a-business.html">start your business</a>&nbsp;in the&nbsp;Czech Republic.</li>
-<li>In the&nbsp;Czech Republic, you can either be self-employed (a&nbsp;so-called OSVČ&nbsp;= osoba samostatně výdělečně činná), providing services based on your trade licence or a&nbsp;different permit/concession, or you can set up a&nbsp;company/branch and provide services through this company. For more information, visit this 
-<a href="https://www.businessinfo.cz/en/psc/plan-your-business/establishment-of-permanent-business.html">web site</a>.</li>
-<li>Running a&nbsp;business is called licensed trade [živnost]. Trade means a&nbsp;continuing activity carried out independently in one's own name and at one's own responsibility in order to achieve a&nbsp;profit and under the&nbsp;conditions laid down by the&nbsp;Trades Licensing Act. For running your own business, you need a&nbsp;trade licence [živnostenské oprávnění].</li>
-<li>There are several types of trades in the&nbsp;Czech Republic. Information about each of them is available here (only in Czech): 
-<a href="https://www.mpo.cz/assets/cz/podnikani/zivnostenske-podnikani/pruvodce-zivnostenskym-podnikanim/2017/4/FO-se-sidlem-v-EU---volna-2017-04-28.pdf">unqualified notifiable trade</a> [volná živnost], 
-<a href="https://www.mpo.cz/assets/cz/podnikani/zivnostenske-podnikani/pruvodce-zivnostenskym-podnikanim/2017/4/FO-se-sidlem-v-EU---vazana-2017-04-28.pdf">professional notifiable trade</a>&nbsp;[vázaná živnost], 
-<a href="https://www.mpo.cz/assets/cz/podnikani/zivnostenske-podnikani/pruvodce-zivnostenskym-podnikanim/2017/4/FO-se-sidlem-v-EU---remeslna-2017-04-28.pdf">vocational notifiable trade</a> [řemeslná živnost]&nbsp;and 
-<a href="https://www.mpo.cz/en/business/licensed-trades/recognition-of-professional-qualifications-for-licensed-trades/recognition-of-qualifications-in-business--47593/">permitted trade</a>[koncese].</li>
+<li>As an&nbsp;EU&nbsp;citizen, you can also&nbsp;
+<a href="https://mpo.gov.cz/en/business/licensed-trades/guide-to-licensed-trades-important-contacts/">start your business</a>&nbsp;in&nbsp;the&nbsp;Czech Republic.</li>
+<li>In Czechia, you can either be&nbsp;self-employed (a&nbsp;so-called OSVČ&nbsp;= osoba samostatně výdělečně činná), providing services based on&nbsp;your trade licence or&nbsp;a&nbsp;different permit/concession, or&nbsp;you can set up&nbsp;a&nbsp;company/branch and provide services through this company. </li>
+<li>Running a&nbsp;business is&nbsp;called licensed trade [živnost]. Trade means a&nbsp;continuing activity carried out independently in&nbsp;one's&nbsp;own name and at&nbsp;one's&nbsp;own responsibility in&nbsp;order to&nbsp;achieve a&nbsp;profit and under the&nbsp;conditions laid down by&nbsp;the&nbsp;Trades Licensing Act. For running your own business, you need a&nbsp;trade licence [živnostenské oprávnění].</li>
+<li>There are several types of&nbsp;trades in&nbsp;the&nbsp;Czech Republic -&nbsp;unqualified notifiable trade&nbsp;[volná živnost],&nbsp;professional notifiable trade&nbsp;[vázaná živnost],&nbsp;vocational notifiable trade&nbsp;[řemeslná živnost]&nbsp;and&nbsp;permitted trade [koncese].</li>
 <li>
-<a href="https://www.mpo.cz/en/business/licensed-trades/recognition-of-professional-qualifications-for-licensed-trades/recognition-of-qualifications-in-business--47593/">Recognition of qualification</a> for business – It is also possible to apply for recognition of qualification for business in case you have a&nbsp;certificate from abroad. The&nbsp;application is not free of charge. (
-<a href="http://www.mpo.cz/">www.mpo.cz</a> → Business → Licensed Trades → Recognition of Professional Qualifications for Licensed Trades)</li>
-<li>Important! Several professions such as attorneys, doctors, dentists, tax advisers or architects require membership in a&nbsp;professional association. The&nbsp;list of these professions is 
-<a href="http://www.nssoud.cz/Profesni-komory/art/575?menu=274">here</a>: .</li>
-<li>Temporarily providing services [dočasné poskytování služeb] – as an&nbsp;EU citizen, you can also provide services on a&nbsp;temporary and/or occasional basis in the&nbsp;Czech territory („
-<a href="https://www.businessinfo.cz/en/psc/plan-your-business/temporary-cross-border-business.html">Cross-border provision of services</a>“). The&nbsp;temporary and occasional nature of provision of services is assessed with regard to its duration, regularity, periodicity and continuity in the&nbsp;territory of the&nbsp;Czech Republic.</li>
-<li>If you temporarily and occasionally provide services in the&nbsp;Czech Republic, which are among unqualified, professional or vocational notifiable trade or permitted trade, you are obliged to notify in writing the&nbsp;provision of services to the&nbsp;Ministry of Trade [Ministerstvo průmyslu a&nbsp;obchodu] before you start providing the&nbsp;service.</li>
-<li>For more information about temporary provision of services, visit this 
-<a href="https://www.mpo.cz/en/business/licensed-trades/obligations-arising-for-persons-temporarily-providing-services-in-the-czech-republic/obligations-of-persons-temporarily-providing-services-in-the-czech-republic--50176/">website</a>&nbsp;.</li>
-<li>You can apply for 
-<a href="https://www.mpo.cz/en/business/licensed-trades/issue-of-certificates-of-professional-competence-and-performance-of-the-said-activities-in-the-cr/issue-of-attestations-of-professional-qualifications--47598/">Issue of attestations of professional qualifications </a>in the&nbsp;Czech Republic. (
-<a href="http://www.mpo.cz/">www.mpo.cz</a> → Business → Licensed Trades → Issue of Certificates of Professional Competence and Performance of the&nbsp;Said Activities in the&nbsp;CR)</li></ul>
+<a href="https://www.mpo.cz/en/business/licensed-trades/recognition-of-professional-qualifications-for-licensed-trades/recognition-of-qualifications-in-business--47593/">Recognition of&nbsp;qualification</a>&nbsp;for business – It&nbsp;is also possible to&nbsp;apply for recognition of&nbsp;qualification for business in&nbsp;case you have a&nbsp;certificate from abroad. The&nbsp;application is&nbsp;not free of&nbsp;charge. (
+<a href="http://www.mpo.cz/">www.mpo.cz</a>&nbsp;→ Business → Licensed Trades → Recognition of&nbsp;Professional Qualifications for Licensed Trades)</li>
+<li>Important! Several professions such as&nbsp;attorneys, doctors, dentists, tax advisers or&nbsp;architects require membership in&nbsp;a&nbsp;professional association. Those professions is&nbsp;available in 
+<a href="https://www.cizinci.cz/web/cz/zajmova-a-profesni-samosprava">the list</a>.</li>
+<li>Temporarily providing services [dočasné poskytování služeb] – as&nbsp;an&nbsp;EU&nbsp;citizen, you can also provide services on&nbsp;a&nbsp;temporary and/or occasional basis in&nbsp;the&nbsp;Czech territory („
+<a href="https://mpo.gov.cz/en/business/licensed-trades/obligations-arising-for-persons-temporarily-providing-services-in-the-czech-republic/obligations-of-persons-temporarily-providing-services-in-the-czech-republic--50176/">Cross-border provision of&nbsp;services</a>“). The&nbsp;temporary and occasional nature of&nbsp;provision of&nbsp;services is&nbsp;assessed with regard to&nbsp;its duration, regularity, periodicity and continuity in&nbsp;the&nbsp;territory of&nbsp;Czechia.</li>
+<li>If you temporarily and occasionally provide services in&nbsp;Czechia, which are among unqualified, professional or&nbsp;vocational notifiable trade or&nbsp;permitted trade, you are obliged to&nbsp;notify in&nbsp;writing the&nbsp;provision of&nbsp;services to&nbsp;the&nbsp;Ministry of&nbsp;Trade [Ministerstvo průmyslu a&nbsp;obchodu] before you start providing the&nbsp;service.</li>
+<li>You can apply for&nbsp;
+<a href="https://www.mpo.cz/en/business/licensed-trades/issue-of-certificates-of-professional-competence-and-performance-of-the-said-activities-in-the-cr/issue-of-attestations-of-professional-qualifications--47598/">Issue of&nbsp;attestations of&nbsp;professional qualifications&nbsp;</a>in the&nbsp;Czech Republic. (
+<a href="http://www.mpo.cz/">www.mpo.cz</a>&nbsp;→ Business → Licensed Trades → Issue of&nbsp;Certificates of&nbsp;Professional Competence and Performance of&nbsp;the&nbsp;Said Activities in&nbsp;the&nbsp;CR)</li></ul>
 <p>For more information about running a&nbsp;business on regular or permanent basis in the&nbsp;Czech Republic, visit this 
 <a href="https://www.businessinfo.cz/en/psc/run-your-business.html">website (</a>
 <a href="http://www.businessinfo.cz/">www.businessinfo.cz</a> English version Point of single contact → Run your business).</p>
