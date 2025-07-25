@@ -76,28 +76,29 @@ links: []
 
 <h3>Access to employment</h3>
 <ul>
-<li>As a&nbsp;citizen of the&nbsp;European Union, you have the&nbsp;right to access employment in the&nbsp;Czech Republic under the&nbsp;same conditions as citizens of the&nbsp;Czech Republic.</li>
-<li>You can work without restrictions in the&nbsp;public sector. Exceptions can only be job positions linked to the&nbsp;exercise of public authority and the&nbsp;safeguarding of fundamental security interests of the&nbsp;state. Details are available 
-<a href="https://europa.eu/youreurope/citizens/work/finding-job-abroad/access-to-jobs-in-the-public-sector/index_en.htm">here&nbsp;</a>(
-<a href="https://ec.europa.eu/youreurope">https://ec.europa.eu/youreurope</a> → Citizens → Work &amp; Retirement → Finding a&nbsp;job abroad → Access to jobs in the&nbsp;public sector).</li>
-<li>If you are looking for a&nbsp;job in the&nbsp;Czech Republic, you can use 
-<a href="https://ec.europa.eu/eures/public/en/homepage">EURES&nbsp;</a>- the&nbsp;European Job Mobility Portal. The&nbsp;registration of vacancies is also available on the&nbsp;website of 
-<a href="https://www.uradprace.cz/web/en/jobs-for-foreigners">Labour Office</a> (Úřad práce) (
-<a href="http://www.uradprace.cz/">www.uradprace.cz</a> English version → Employment → Foreign Employment → Jobs for Foreigners).</li>
-<li>EURES Advisers are available at the&nbsp;offices of the&nbsp;Labour Office in the&nbsp;regions. List of these offices can be found here:&nbsp;
+<li>As a&nbsp;citizen of&nbsp;the&nbsp;European Union, you have the&nbsp;right to&nbsp;access employment in&nbsp;the&nbsp;Czech Republic under the&nbsp;same conditions as&nbsp;citizens of&nbsp;the&nbsp;Czech Republic.</li>
+<li>You can work without restrictions in&nbsp;the&nbsp;public sector. Exceptions can only be&nbsp;job positions linked to&nbsp;the&nbsp;exercise of&nbsp;public authority and the&nbsp;safeguarding of&nbsp;fundamental security interests of&nbsp;the&nbsp;state. Details are available&nbsp;in 
+<a href="https://europa.eu/youreurope/citizens/work/work-abroad/work-in-public-sector-abroad/index_en.htm">the website of the EU</a> (
+<a href="https://ec.europa.eu/youreurope">https://ec.europa.eu/youreurope</a>&nbsp;→ Citizens → Work &amp; Retirement → Finding a&nbsp;job abroad → Access to&nbsp;jobs in&nbsp;the&nbsp;public sector).</li>
+<li>If you are looking for a&nbsp;job in&nbsp;the&nbsp;Czech Republic, you can use&nbsp;
+<a href="https://eures.europa.eu/index_en">EURES&nbsp;</a>- the&nbsp;European Job Mobility Portal. The&nbsp;registration of&nbsp;vacancies is&nbsp;also available on&nbsp;the&nbsp;website of&nbsp;
+<a href="https://www.uradprace.cz/web/en/jobs-for-foreigners">Labour Office</a>&nbsp;(Úřad práce) (
+<a href="http://www.uradprace.cz/">www.uradprace.cz</a>&nbsp;English version → Employment → Foreign Employment → Jobs for Foreigners).</li>
+<li>EURES Advisers are available at&nbsp;the&nbsp;offices of&nbsp;the&nbsp;Labour Office in&nbsp;the&nbsp;regions. List of&nbsp;these offices can be&nbsp;found here:&nbsp;
 <a href="https://www.uradprace.cz/web/en/contact">https://www.uradprace.cz/web/en/contact</a>.</li>
-<li>You can find the&nbsp;basic rights and duties of the&nbsp;job seeker 
-<a href="https://www.uradprace.cz/web/en/rights-and-obligations-of-a-job-seeker">here </a>(
-<a href="http://www.uradprace.cz/">www.uradprace.cz</a> English version → Employment→ For citizens → Rights and obligations of a&nbsp;jobseeker).&nbsp;Further details on employing foreigners 
-<a href="https://www.uradprace.cz/web/en/living-and-working-conditions">here </a>(
-<a href="http://www.uradprace.cz/">www.uradprace.cz</a> English version → EURES → Living and working conditions).</li>
-<li>The employment contract must always be concluded in writing in the&nbsp;Czech Republic. In addition to the&nbsp;standard employment relationship, two other types of work agreement (up to 20&nbsp;hours per week or up to 300&nbsp;hours per year) may also be negotiated. For these agreements, slightly different condition applies.</li>
-<li>A probationary period (maximum of 3&nbsp;months, 6&nbsp;months for executives) can be arranged for employment, during which the&nbsp;employment can be terminated immediately and without giving any reason.</li>
-<li>When working in the&nbsp;Czech Republic, you are entitled to the&nbsp;same conditions as Czech citizens. This right also applies to your family members. Details are available 
-<a href="https://europa.eu/youreurope/citizens/work/work-abroad/equal-treatment-with-nationals/index_en.htm">here </a>(
-<a href="https://ec.europa.eu/youreurope">https://ec.europa.eu/youreurope</a> → Citizens → Work &amp; Retirement → Working abroad → Equal treatment).</li>
-<li>Basic information about regulation of labour relations is available 
-<a href="http://www.suip.cz/_files/suip-a2e03c2b55d8adafbad18788a9969cf0/basic_information_2019_may_en.pdf">here</a>.</li></ul>
+<li>You can find 
+<a href="https://www.uradprace.cz/en/rights-and-obligations-of-a-job-seeker">the&nbsp;basic rights and duties of&nbsp;the&nbsp;job seeker</a>&nbsp;(
+<a href="http://www.uradprace.cz/">www.uradprace.cz</a>&nbsp;English version → Employment→ For citizens → Basic rights and obligations of&nbsp;a&nbsp;jobseeker).&nbsp;Further details on&nbsp;employing foreigners can be found in the 
+<a href="https://www.uradprace.cz/en/rights-and-obligations-of-a-job-seeker">website of the employment office&nbsp;"Úřad práce" </a>(
+<a href="http://www.uradprace.cz/">www.uradprace.cz</a>&nbsp;English version → EURES → Living and working conditions).</li>
+<li>The employment contract must always be&nbsp;concluded in&nbsp;writing in&nbsp;the&nbsp;Czech Republic. In&nbsp;addition to&nbsp;the&nbsp;standard employment relationship, two other types of&nbsp;work agreement (up to&nbsp;20&nbsp;hours per week or&nbsp;up to&nbsp;300&nbsp;hours per year) may also be&nbsp;negotiated. For these agreements, slightly different condition applies.</li>
+<li>A probationary period (maximum of&nbsp;4&nbsp;months, 8&nbsp;months for executives) can be&nbsp;arranged for employment, during which the&nbsp;employment can be&nbsp;terminated immediately and without giving any reason.</li>
+<li>When working in&nbsp;the&nbsp;Czech Republic, you are entitled to&nbsp;the&nbsp;same conditions as&nbsp;Czech citizens. This right also applies to&nbsp;your family members. Details are available&nbsp;
+<a href="https://europa.eu/youreurope/citizens/work/work-abroad/equal-treatment-with-nationals/index_en.htm">here&nbsp;</a>(
+<a href="https://ec.europa.eu/youreurope">https://ec.europa.eu/youreurope</a>&nbsp;→ Citizens → Work &amp; Retirement → Working abroad → Equal treatment).</li>
+<li>Basic information about regulation of&nbsp;labour relations is&nbsp;available&nbsp;in the 
+<a href="https://www.suip.cz/documents/178792/1010503/pracovni_podminky_en_2024_06.pdf">text of the State Labour Inspection Office</a> (
+<a href="https://www.suip.cz/web/en">https://www.suip.cz/web/en</a> → Labour Relations → Basic information on employment regulations)</li></ul>
 <h3>Working conditions</h3>
 <ul>
 <li>The employer is obliged to ensure equal treatment of all employees in terms of their working conditions, remuneration for work, training and opportunity to promotion in employment</li>
