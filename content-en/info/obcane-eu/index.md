@@ -320,71 +320,75 @@ links: []
 <a href="https://ec.europa.eu/social/BlobServlet?docId=11366&amp;langId=en">here</a>.</li></ul>
 <h3>Czech language courses</h3>
 <ul>
-<li>You may visit language courses in integration centres for improvement language skills. Integration centres are located in every county. Contacts for individual branches and further information about their activities can be found at 
+<li>You may visit language courses in&nbsp;integration centres for improvement language skills. Integration centres are located in&nbsp;every county. Contacts for individual branches and further information about their activities can be&nbsp;found at&nbsp;
 <a href="http://www.integracnicentra.cz/?lang=en">www.integracnicentra.cz/?lang=en</a>.</li></ul>
 <h3>Sale of goods and services</h3>
 <ul>
-<li>Providers of goods and services may not discriminate against the&nbsp;service recipient/buyer on grounds of her nationality, if there is no objectively justifiable ground. If you feel discriminated, you may file a&nbsp;complaint to the&nbsp;
+<li>Providers of&nbsp;goods and services may not discriminate against the&nbsp;service recipient/buyer on&nbsp;grounds of&nbsp;her nationality, if&nbsp;there is&nbsp;no objectively justifiable ground. If&nbsp;you feel discriminated, you may file a&nbsp;complaint to&nbsp;the&nbsp;
 <a href="http://www.coi.cz/en">Czech Trade Inspection Authority [Česká obchodní inspekce]</a>.</li>
-<li>Provision of financial services (loan, mortgage, insurance) has its specificities. In case of discrimination, you may file a&nbsp;complaint to the&nbsp;
+<li>Provision of&nbsp;financial services (loan, mortgage, insurance) has its specificities. In&nbsp;case of&nbsp;discrimination, you may file a&nbsp;complaint to&nbsp;the&nbsp;
 <a href="https://www.cnb.cz/en/supervision-financial-market/consumer-protection-and-financial-literacy/consumer-protection/index.html">Czech National Bank</a>&nbsp;[Česká národní banka] (
-<a href="http://www.cnb.cz/en">www.cnb.cz/en</a> → Supervision, regulation → Consumer protection and financial literacy → Consumer protection), or in case of consumer credit provided by non-bank consumer credit providers to Czech Trade Inspection Authority [Česká obchodní inspekce].</li>
-<li>It is important that everyone who legally resides in the&nbsp;Czech Republic or another EU country has the&nbsp;right to opening one basic payment 
+<a href="http://www.cnb.cz/en">www.cnb.cz/en</a>&nbsp;→ Supervision, regulation → Consumer protection and financial literacy → Consumer protection), or&nbsp;in case of&nbsp;consumer credit provided by&nbsp;non-bank consumer credit providers to&nbsp;Czech Trade Inspection Authority [Česká obchodní inspekce].</li>
+<li>It is&nbsp;important that everyone who legally resides in&nbsp;the&nbsp;Czech Republic or&nbsp;another EU&nbsp;country has the&nbsp;right to&nbsp;opening one basic payment&nbsp;
 <a href="https://europa.eu/youreurope/citizens/consumers/financial-products-and-services/bank-accounts-eu/index_en.htm">account</a>.</li>
-<li>You can see also 
-<a href="https://eso.ochrance.cz/Nalezene/Edit/9476">recommendations </a>with 
-<a href="https://www.ochrance.cz/uploads-import/ESO/recommendations.pdf">infographic </a>od the Defender for stating library rules so that these would refrain from discriminating EU citizens on the grounds of their nationality.&nbsp;</li></ul>
+<li>You can see also&nbsp;
+<a href="https://eso.ochrance.cz/Nalezene/Edit/9476">recommendations&nbsp;</a>with&nbsp;
+<a href="https://www.ochrance.cz/uploads-import/ESO/recommendations.pdf">infographic&nbsp;</a>of the Defender for stating library rules so&nbsp;that these would refrain from discriminating EU&nbsp;citizens on&nbsp;the grounds of&nbsp;their nationality.&nbsp;</li></ul>
 <h3>Taxes</h3>
 <ul>
-<li>Payment of income taxes depends on whether you are a&nbsp;tax resident or tax non-resident. If you are a&nbsp;Czech 
-<strong>tax resident</strong>, you have unlimited tax obligation, i.e. you are taxed on your worldwide income. If you are a&nbsp;Czech 
-<strong>tax non-resident</strong>, you are taxed only on your Czech-source income.</li>
-<li>It is not always easy to determine tax residency. The&nbsp;rules are to be found in the&nbsp;Act on Income Taxes [zákon o daních z příjmů]. If you are a&nbsp;tax resident of more countries, take a&nbsp;look in the&nbsp;treaty on avoidance of double taxation between the&nbsp;respective country and the&nbsp;Czech Republic, the&nbsp;list is available 
-<a href="https://www.mfcr.cz/cs/legislativa/dvoji-zdaneni/prehled-platnych-smluv">here</a>, only in Czech (
-<a href="https://www.mfcr.cz/en/">https://www.mfcr.cz/en/</a> → Themes → Taxes → Double taxation).</li>
-<li>Tax residency is usually determined according to this criteria (successively): 1.&nbsp;permanent home, 2.&nbsp;centre of vital interests, 3.&nbsp;habitual residence (in the&nbsp;Czech Republic at least 183&nbsp;days in a&nbsp;year), 4.&nbsp;state citizenship. If you live and work in the&nbsp;Czech Republic for the&nbsp;whole year, you will most probably be Czech tax resident. But it depends on several circumstances, so in case of doubt is better to find professional assistance.</li>
-<li>Income tax obligation is usually different if you are an&nbsp;employee or if you are self-employed.</li>
-<li>If you live and work in the&nbsp;territory of the&nbsp;Czech Republic, you usually have to pay income tax from your salary or wages. If you are employed, your employer usually deducts the&nbsp;advance income tax. You may ask the&nbsp;employer to make annual statement of tax [roční zúčtování daně] (every year till 15th February), or you may file a&nbsp;tax declaration [daňové přiznání] yourself (every year till 1st April). If you are self-employed, you have to file the&nbsp;tax declaration yourself.</li>
-<li>For more information visit Your Europe 
-<a href="https://europa.eu/youreurope/citizens/work/taxes/income-taxes-abroad/czechia/index_en.htm">website</a> (
-<a href="https://europa.eu/youreurope/">https://europa.eu/youreurope/</a> → Citizens → Work &amp; Retirement → Taxes → Income taxes abroad) or contact 
-<a href="https://www.financnisprava.cz/en/financial-administration/financial-administration-bodies">financial administration bodies</a> (
-<a href="http://www.financnisprava.cz/">www.financnisprava.cz</a> English version → Financial Administration → Financial Administration Bodies).</li>
-<li>In any case, we recommend you to ask a&nbsp;tax adviser for help. The&nbsp;list of income tax advisers, who speak English, is available 
-<a href="https://www.kdpcr.cz/seznam-danovych-poradcu/dan-z-prijmu-fyzickych-osob/dan-z-prijmu-pravnickych-osob/anglictina/">here</a>.</li></ul>
+<li>Payment of&nbsp;income taxes depends on&nbsp;whether you are a&nbsp;tax resident or&nbsp;tax non-resident. If&nbsp;you are a&nbsp;Czech&nbsp;
+<strong>tax resident</strong>, you have unlimited tax obligation, i.e. you are taxed on&nbsp;your worldwide income. If&nbsp;you are a&nbsp;Czech&nbsp;
+<strong>tax non-resident</strong>, you are taxed only on&nbsp;your Czech-source income.</li>
+<li>It is&nbsp;not always easy to&nbsp;determine tax residency. The&nbsp;rules are to&nbsp;be found in&nbsp;the&nbsp;Act on&nbsp;Income Taxes [zákon o&nbsp;daních z&nbsp;příjmů]. If&nbsp;you are a&nbsp;tax resident of&nbsp;more countries, take a&nbsp;look in&nbsp;the&nbsp;treaty on&nbsp;avoidance of&nbsp;double taxation between the&nbsp;respective country and the&nbsp;Czech Republic, see 
+<a href="https://www.mfcr.cz/en/eu-and-international-affairs/double-tax-agreements">the&nbsp;list</a> (
+<a href="https://www.mfcr.cz/en/">https://www.mfcr.cz/en/</a>&nbsp;→ EU and International Affairs → Double Tax Agreements).</li>
+<li>Tax residency is&nbsp;usually determined according to&nbsp;this criteria (successively): 1.&nbsp;permanent home, 2.&nbsp;centre of&nbsp;vital interests, 3.&nbsp;habitual residence (in the&nbsp;Czech Republic at&nbsp;least 183&nbsp;days in&nbsp;a&nbsp;year), 4.&nbsp;state citizenship. If&nbsp;you live and work in&nbsp;the&nbsp;Czech Republic for the&nbsp;whole year, you will most probably be&nbsp;Czech tax resident. But it&nbsp;depends on&nbsp;several circumstances, so&nbsp;in case of&nbsp;doubt is&nbsp;better to&nbsp;find professional assistance.</li>
+<li>Income tax obligation is&nbsp;usually different if&nbsp;you are an&nbsp;employee or&nbsp;if you are self-employed.</li>
+<li>If you live and work in&nbsp;the&nbsp;territory of&nbsp;the&nbsp;Czech Republic, you usually have to&nbsp;pay income tax from your salary or&nbsp;wages. If&nbsp;you are employed, your employer usually deducts the&nbsp;advance income tax. You may ask the&nbsp;employer to&nbsp;make annual statement of&nbsp;tax [roční zúčtování daně] (every year till 15th February), or&nbsp;you may file a&nbsp;tax declaration [daňové přiznání] yourself (every year till 1st April). If&nbsp;you are self-employed, you have to&nbsp;file the&nbsp;tax declaration yourself.</li>
+<li>For more information visit Your Europe&nbsp;
+<a href="https://europa.eu/youreurope/citizens/work/taxes/income-taxes-abroad/czechia/index_en.htm">website</a>&nbsp;(
+<a href="https://europa.eu/youreurope/">https://europa.eu/youreurope/</a>&nbsp;→ Citizens → Work &amp; Retirement → Taxes → Income taxes abroad) or&nbsp;contact&nbsp;
+<a href="https://www.financnisprava.cz/en/financial-administration/financial-administration-bodies">financial administration bodies</a>&nbsp;(
+<a href="http://www.financnisprava.cz/">www.financnisprava.cz</a>&nbsp;English version → Financial Administration → Financial Administration Bodies).</li>
+<li>In any case, we&nbsp;recommend you to&nbsp;ask a&nbsp;tax adviser for help. Income tax advisers, who speak English, is available in 
+<a href="https://www.kdpcr.cz/seznam-danovych-poradcu/dan-z-prijmu-fyzickych-osob/dan-z-prijmu-pravnickych-osob/anglictina/">the list</a>.</li></ul>
 <h3>Education and schools</h3>
 <ul>
-<li>There are two types of school in the&nbsp;Czech Republic – public and private.</li>
-<li>Public schools (elementary, high, 
-<a href="http://www.msmt.cz/areas-of-work/tertiary-education/czech-education-system">college</a>) are free of charge. Kindergarten is usually not free of charge. You should count with other expenses for snacks and lunches anyway.</li>
-<li>Private schools are not free of charge. School fees are different in each school.</li>
-<li>It may be rather difficult to find a&nbsp;suitable school for your children. If there more than one schools (nursery schools, elementary school) in your city, the&nbsp;city has a&nbsp;duty to define school districts. For each school district one local school [spádová škola] is given. Children resident in school district of the&nbsp;local school have priority in enrolment procedure. Ask the&nbsp;municipality authority, which school in the&nbsp;city is your local school.</li>
+<li>There are two types of&nbsp;school in&nbsp;the&nbsp;Czech Republic – public and private.</li>
+<li>Public schools (elementary, high,&nbsp;
+<a href="http://www.msmt.cz/areas-of-work/tertiary-education/czech-education-system">college</a>) are free of&nbsp;charge. Kindergarten is&nbsp;usually not free of&nbsp;charge. You should count with other expenses for snacks and lunches anyway.</li>
+<li>Private schools are not free of&nbsp;charge. School fees are different in&nbsp;each school.</li>
+<li>It may be&nbsp;rather difficult to&nbsp;find a&nbsp;suitable school for your children. If&nbsp;there more than one schools (nursery schools, elementary school) in&nbsp;your city, the&nbsp;city has a&nbsp;duty to&nbsp;define school districts. For each school district one local school [spádová škola] is&nbsp;given. Children resident in&nbsp;school district of&nbsp;the&nbsp;local school have priority in&nbsp;enrolment procedure. Ask the&nbsp;municipality authority, which school in&nbsp;the&nbsp;city is&nbsp;your local school.</li>
 <li>
-<a href="http://www.msmt.cz/areas-of-work/preschool-education">Preschool education</a> – Preschool education is the&nbsp;initial level of public education organised and governed by the&nbsp;requirements and instructions of the&nbsp;Ministry of Education, Youth and Sports [Ministerstvo školství, mládeže a&nbsp;tělovýchovy]. Last year of nursery school is called pre-school year. Every pre-school child is obliged to attend the&nbsp;kindergarten and the&nbsp;municipalities guarantee a&nbsp;place for your child. Otherwise, this child will not be allowed to attend the&nbsp;first year of elementary school. (
-<a href="http://www.msmt.cz/">www.msmt.cz</a> → Areas of Work → Preschool Education)</li>
-<li>Elementary school – Children in the&nbsp;Czech Republic are obliged to attend the&nbsp;elementary for 9&nbsp;years (usually between 6-15 y.).</li>
-<li>High school – there are several types of high schools. For more information, visit this 
-<a href="https://www.studyin.cz/soubory/clanky/0021_publications/StudyIN-EduSystem-2017.pdf">website</a> (
+<a href="http://www.msmt.cz/areas-of-work/preschool-education">Preschool education</a>&nbsp;– Preschool education is&nbsp;the&nbsp;initial level of&nbsp;public education organised and governed by&nbsp;the&nbsp;requirements and instructions of&nbsp;the&nbsp;Ministry of&nbsp;Education, Youth and Sports [Ministerstvo školství, mládeže a&nbsp;tělovýchovy]. Last year of&nbsp;nursery school is&nbsp;called pre-school year. Every pre-school child is&nbsp;obliged to&nbsp;attend the&nbsp;kindergarten and the&nbsp;municipalities guarantee a&nbsp;place for your child. Otherwise, this child will not be&nbsp;allowed to&nbsp;attend the&nbsp;first year of&nbsp;elementary school. (
+<a href="http://www.msmt.cz/">www.msmt.cz</a>&nbsp;→ Areas of&nbsp;Work → Preschool Education)</li>
+<li>Elementary school – Children in&nbsp;the&nbsp;Czech Republic are obliged to&nbsp;attend the&nbsp;elementary for 9&nbsp;years (usually between 6-15 y.).</li>
+<li>High school – there are several types of&nbsp;high schools. For more information, visit this&nbsp;
+<a href="https://www.studyin.cz/soubory/clanky/0021_publications/StudyIN-EduSystem-2017.pdf">website</a>&nbsp;(
 <a href="http://www.studyin.cz/">www.studyin.cz</a>).</li>
-<li>Universities – For more information about tertiary education, visit this 
-<a href="http://www.msmt.cz/areas-of-work/tertiary-education/czech-education-system">website</a> (
-<a href="http://www.msmt.cz/">www.msmt.cz</a> &nbsp;Areas of Work → Tertiary Education → Czech education system). The&nbsp;list of Czech universities is available 
-<a href="https://portal.studyin.cz/find-your-institution/">here</a>.</li>
-<li>For those children, whose mother tongue is other language than Czech (children with different mother tongue, in Czech „děti s&nbsp;OMJ“), there are several supportive measures. The&nbsp;aim of supportive measures is to adapt children’s education in the&nbsp;Czech Republic. For more information, ask 
-<a href="http://www.msmt.cz/ministry">Ministry of Education, Youth and Sports</a> [Ministerstvo školství, mládeže a&nbsp;tělovýchovy].</li>
-<li>For more information about Czech educational system, visit this 
-<a href="https://www.studyin.cz/soubory/clanky/0021_publications/StudyIN-EduSystem-2017.pdf">website</a> (
-<a href="https://portal.studyin.cz/find-your-institution/">https://portal.studyin.cz/find-your-institution/</a>) or read this**
-<a href="https://www.unhcr.org/cz/wp-content/uploads/sites/20/2019/03/CZ-2017-EDUCATION.pdf"> handbook for parents</a> (available in CZE, ENG, AR, RUS, FR).**</li></ul>
+<li>Universities – For more information about tertiary education, visit this&nbsp;
+<a href="http://www.msmt.cz/areas-of-work/tertiary-education/czech-education-system">website</a>&nbsp;(
+<a href="http://www.msmt.cz/">www.msmt.cz</a>&nbsp;&nbsp;Areas of&nbsp;Work → Tertiary Education → Czech education system). See 
+<a href="https://portal.studyin.cz/en/find-your-institution/">the&nbsp;list of&nbsp;Czech universities</a>.</li>
+<li>For those children, whose mother tongue is&nbsp;other language than Czech (children with different mother tongue, in&nbsp;Czech „děti s&nbsp;OMJ“), there are several supportive measures. The&nbsp;aim of&nbsp;supportive measures is&nbsp;to adapt children’s&nbsp;education in&nbsp;the&nbsp;Czech Republic. More information is available on 
+<a href="https://archiv-nuv.npi.cz/t/cizinci-podpurna-opatreni.html">the website of the National Institute for Education </a>[Národní ústav pro vzdělávání] (only in Czech,&nbsp;
+<a href="http://www.nuv.cz/">www.nuv.cz</a>&nbsp; Témata → Společné vzdělávání → SVP, nadaní, cizinci → Děti/žáci–cizinci a&nbsp;děti/žáci s&nbsp;odlišným mateřským jazykem → Cizinci – podpůrná opatření)</li></ul>
+<p>For more information about Czech educational system, visit this&nbsp;
+<a href="https://www.studyin.cz/soubory/clanky/0021_publications/StudyIN-EduSystem-2017.pdf">website</a>&nbsp;(
+<a href="https://portal.studyin.cz/find-your-institution/">https://portal.studyin.cz/find-your-institution/</a>) or&nbsp;read this
+<a href="https://www.unhcr.org/cz/wp-content/uploads/sites/20/2019/03/CZ-2017-EDUCATION.pdf">&nbsp;handbook for parents</a>&nbsp;(available in&nbsp;CZE, ENG, AR, RUS, FR).</p>
 <h3>Housing</h3>
 <ul>
-<li>There are two types of housing in the&nbsp;Czech Republic – private and council housing</li>
-<li>It is important to report your residence to the&nbsp;appropriate Foreign Police Department that holds jurisdiction in the&nbsp;location of your stay in the&nbsp;Czech Republic (Policie ČR, 
+<li>There are two types of&nbsp;housing in&nbsp;the&nbsp;Czech Republic – private and council housing</li>
+<li>It is&nbsp;important to&nbsp;report your residence to&nbsp;the&nbsp;appropriate Foreign Police Department that holds jurisdiction in&nbsp;the&nbsp;location of&nbsp;your stay in&nbsp;the&nbsp;Czech Republic (Policie ČR,&nbsp;
 <a href="https://www.policie.cz/clanek/oddeleni-pobytovych-agend.aspx">odbor cizinecké policie</a>).</li>
-<li>You can also buy own house/flat or you can eventually rent one. There are lot of websites, where you can find some accommodation. There are also many real estate agencies, which could help you find suitable accommodation. Services of real estate agencies are paid. For this reason, you should ask about their prices in advance.</li>
-<li>Rent arises from the&nbsp;lease contract between the&nbsp;landlord and the&nbsp;tenant (you). The&nbsp;Czech Civil Code protects rights of tenants.</li>
-<li>If you wish to purchase real estate, you can ask a&nbsp;bank, which offers mortgage services.</li>
-<li>Some cities offer council housing too. Council housing is mainly offered to people with a&nbsp;lower income. For this reason, the&nbsp;council housing is usually cheaper. You may ask the&nbsp;municipal authority in your city, if they also offer council housing and on what conditions.</li></ul>
+<li>You can also buy own house/flat or&nbsp;you can eventually rent one. There are lot of&nbsp;websites, where you can find some accommodation. There are also many real estate agencies, which could help you find suitable accommodation. Services of&nbsp;real estate agencies are paid. For this reason, you should ask about their prices in&nbsp;advance.</li>
+<li>Rent arises from the&nbsp;lease contract between the&nbsp;landlord and the&nbsp;tenant (you). The&nbsp;Czech Civil Code protects rights of&nbsp;tenants.</li>
+<li>If you wish to&nbsp;purchase real estate, you can ask a&nbsp;bank, which offers mortgage services.</li>
+<li>Some cities offer council housing too. Council housing is&nbsp;mainly offered to&nbsp;people with a&nbsp;lower income. For this reason, the&nbsp;council housing is&nbsp;usually cheaper. You may ask the&nbsp;municipal authority in&nbsp;your city, if&nbsp;they also offer council housing and on&nbsp;what conditions.</li>
+<li>More information is available in 
+<a href="https://www.ochrance.cz/uploads-import/Letaky/Najem-bytu.pdf">our text</a>&nbsp;or&nbsp;in
+<a href="https://www.dtest.cz/clanek-5849/smlouva-o-najmu-bytu"> the article of the dTest </a>(only in Czech).</li></ul>
 
 
 {{< /rozbal >}}
