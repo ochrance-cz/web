@@ -2,6 +2,7 @@
 title: I think I am being discriminated against
 perex: The Anti-Discrimination Act stipulates specific areas in which unequal
   treatment is prohibited on grounds listed by the Act.
+illustration: team-spirit-2447163__340.jpg
 hp: Do you believe that someone is treating you differently because of your age,
   sex, nationality or on some other grounds specified by the Anti-Discrimination
   Act? Is it an authority, a company or local self-government that discriminate
@@ -62,8 +63,12 @@ examples:
       that their conduct was discriminatory. As a result, they changed their
       position and now issue credit cards to all elderly clients.
     name: Mr. Karel
+  - name: Mr. Michal
+    desc: My wife needed treatment and surgery at the hospital. They didn't want to
+      do it because she is not Czech. I consulted the Ombudsman and sent the
+      hospital his legal opinion that they were not allowed to impose such a
+      condition. Eventually everything was resolved.
 order: 3
-illustration: team-spirit-2447163__340.jpg
 button:
   text: Find out more about discrimination in different situations
 ---
