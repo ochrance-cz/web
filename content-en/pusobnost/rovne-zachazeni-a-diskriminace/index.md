@@ -2,20 +2,27 @@
 title: Equal treatment and discrimination
 illustration: DIS.jpg
 headerColor: orange
-perex: Since 2009, the Ombudsman has acted in the role of the national equality
-  body responsible for equal treatment and protection against discrimination.
-  The Ombudsman’s goal is to provide victims of discrimination with
-  methodological assistance, conduct research in the area of discrimination and
-  issue recommendations to promote equal treatment.
+perex: >
+  Since 2009, the Ombudsman has acted in the role of the national equality body
+  responsible for equal treatment and protection against discrimination. In
+  2018, the Ombudsman acquired another task to monitor the rights of foreigners
+  from EU countries who live or work in Czechia and assist them in case they are
+  discriminated against on grounds of their nationality. The Ombudsman’s goal is
+  to provide victims of discrimination with methodological assistance, conduct
+  research in the area of discrimination and issue recommendations to promote
+  equal treatment.
 cta:
   title: Are you dealing with a similar situation and believe that the Ombudsman
     can help you?
 ---
 While the “traditional” competence of the Ombudsman only applies to authorities and institutions performing State administration, in the area of discrimination, the Ombudsman may also address complaints against discriminatory conduct of municipalities (e.g. in renting of municipal flats), employers (in recruitment procedure, remuneration, termination of employment, etc.), vendors (in offering products and services), schools and others.
 
-In general, discrimination means different treatment in comparable situations without a reasonable justification. The feeling of being discriminated against is not sufficient in itself – legally speaking, discrimination only means conduct described and prohibited by law. [The Anti-Discrimination Act ](https://www.ochrance.cz/uploads-import/DISKRIMINACE/pravni_predpisy/Anti-discrimination-Act.pdf)lists the grounds based on which discrimination is inadmissible. These grounds include race, ethnic background, nationality, sex and gender, sexual orientation, age, disability, religion, belief or world view. At the same time, the Anti-Discrimination Act defines situations where discrimination is prohibited. These include areas of employment, business, education, healthcare and provision of goods and services, including housing, if offered to the public.
+In general, discrimination means different treatment in comparable situations without a reasonable justification. The feeling of being discriminated against is not sufficient in itself – legally speaking, discrimination only means conduct described and prohibited by law. [The Anti-Discrimination Act ](https://www.ochrance.cz/uploads-import/DISKRIMINACE/pravni_predpisy/Anti-discrimination-Act.pdf)lists the grounds based on which discrimination is inadmissible. These grounds include race, ethnic background, nationality (in the sense of
+national origin), sex and gender, sexual orientation, age, disability, religion, belief or world view and nationality of countries of the European Union. At the same time, the Anti-Discrimination Act defines situations where discrimination is prohibited. These include areas of employment, business, education, healthcare and provision of goods and services, including housing, if offered to the public.
 
 Some other laws (such as the Schools Act, the Labour Code, the Consumer Protection Act, etc.) prohibit discrimination on other grounds, e.g., on the grounds of membership in trade unions and political parties, on the grounds of family status, social background, property, etc. Compliance with these regulations is supervised by other inspection bodies, such as the Czech Schools Inspectorate, the Czech Trade Inspection Authority, and the Labour Inspectorate.
+
+
 
 > *Termination of employment on grounds of age*
 >
@@ -28,3 +35,8 @@ Some other laws (such as the Schools Act, the Labour Code, the Consumer Protecti
 > *Non-assignment of a municipal flat due to ethnicity*
 >
 > Růžena needed to move into a flat that would better suit her disabled son. She twice applied for a municipal flat, won the tender procedure twice, but the municipality did not conclude a lease contract with her. Růžena did not like the procedure taken by the municipality and turned to the Ombudsman. The Ombudsman found that the municipality had treated Růžena differently compared to the other applicants. Non-Roma applicants who fulfilled the conditions for assigning a flat did get the contract. On the other hand, Růžena as a Roma person did not. The Ombudsman stated that this was a case of discrimination and recommended Růžena to file a lawsuit unless she reached an agreement with the municipality. The municipality acknowledged its error and concluded a lease contract with Růžena for an indefinite term.
+>
+>
+> *Permanent residency requirement for employment*
+>
+> Terezia moved in with her boyfriend to neighbouring village and wanted to apply for a job at the municipal office there. She wasn't sure if it was okay that her permanent residence was still in Slovakia, as she has only lived in Czechia for 4 years. She consulted the Ombudsman and thanks to that she knows that she can apply for a job because her citizenship and type of residence in Czechia are not important when looking for a job.
