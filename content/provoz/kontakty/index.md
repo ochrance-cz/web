@@ -224,6 +224,10 @@ lawyers:
         phone: 542 542 251
         email: eva.vintrova@ochrance.cz
         role: právnička (sociálně-právní ochrana dětí, školství)
+      - name: Iva Vodáková
+        role: právnička (sociálně-právní ochrana dětí, pěstounská péče)
+        phone: 542 542 344
+        email: 542 542 344
   - title: Odbor veřejného pořádku, zdravotnictví a práce
     intro: >
       matriky, evidence obyvatel, občanské a cestovní průkazy, státní občanství,
