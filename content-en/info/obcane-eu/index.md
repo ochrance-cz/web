@@ -56,8 +56,8 @@ links: []
 <li>Carry out research, publish reports and recommendations in the&nbsp;area of the&nbsp;free movement of EU citizens and equal treatment on grounds of nationality</li>
 <li>Communicate with bodies in other member states who have been designated to fulfil the&nbsp;same tasks</li></ul>
 <p>The aim of the&nbsp;Defender in this field is to facilitate the&nbsp;free movement of workers across European Union. EU citizens have the&nbsp;right to move freely to another member state in order to work there and they have the&nbsp;right to be treated equally as nationals of that state. Free movement of workers is guaranteed in founding treaties – in the&nbsp;Treaty on the&nbsp;Functioning of the&nbsp;European Union and is further specified in subsequent legal acts. EU citizens and their family members enjoy the&nbsp;right of equal treatment as regards access to employment, conditions of employment and work, in particular with regard to remuneration, dismissal, and tax and social advantages. The&nbsp;Defender acts as a&nbsp;contact point for people who face problems in above specified areas. The&nbsp;Defender can also deal with cases submitted by persons who are not Union workers (person with income from other sources than employment, students,&nbsp;etc.), even if they don’t enjoy the&nbsp;right of equal treatment in all cases.</p>
-<p>More information on how the&nbsp;Defender may assist you is available 
-<a href="https://www.ochrance.cz/en/letaky/en-citizens-of-the-eu/EN-Citizens-of-the-EU.pdf">here</a>.</p>
+<p>More information on how the&nbsp;Defender may assist you is available in our 
+<a href="https://www.ochrance.cz/en/letaky/en-citizens-of-the-eu/EN-Citizens-of-the-EU.pdf">leaflet Citizens of the European Union</a>.</p>
 <p>Collection of opinions of the&nbsp;Defender on the&nbsp;topic 
 <a href="https://www.ochrance.cz/en/info/i_am_a_citizen_of_the_european_union/sbornik_2018_citizenship-eu_en.pdf">Citizenship of the European Union</a>.</p>
 <ul>
@@ -97,8 +97,7 @@ links: []
 <li>Alternatively to filing a&nbsp;lawsuit, you may turn to SOLVIT – SOLVIT is an&nbsp;online service provided free of charge which might help you to solve your problems with authorities if they don’t apply European Union law correctly. For more information see 
 <a href="http://ec.europa.eu/solvit/index_en.htm">SOLVIT website</a>.</li></ul>
 <p>
-<img src="https://test.ochrance.cz/uploads/RTEmagicC_solvit-logo_en.jpg.jpg" alt=""></p>
-<p>In all cases, you may turn to 
+<img src="https://test.ochrance.cz/uploads/RTEmagicC_solvit-logo_en.jpg.jpg" alt="">In all cases, you may turn to 
 <strong>Ombudsman</strong> – we may advise you on your rights and the&nbsp;best way how to defend your rights. There are also non-governmental organizations that 
 <a href="https://www.ochrance.cz/fileadmin/user_upload/Letaky/A-Organizations-providing-legal-assistance_V-17.pdf">provide assistance to foreigners.</a></p>
 
