@@ -471,7 +471,7 @@ lawyers:
         role: vedoucí odboru
         phone: 542 542 315
         email: milan.svoboda@ochrance.cz
-      - name: Petra Benáčková
+      - name: Petra Šelengová
         role: právnička
         phone: 542 542 261
         email: petra.benackova@ochrance.cz
