@@ -57,15 +57,12 @@ sections:
       ### **Oddělení PR a marketingu**
 
 
-      *Během prázdnin se prosím s mediálními požadavky či dotazy obracejte na e-mail [medialni@ochrance.cz](mailto:medialni@ochrance.cz). Některý z pracovníků PR se s Vámi spojí a domluví se na dalším postupu. Děkujeme za pochopení.*
-
-
       **Vedoucí oddělení PR a marketingu a tisková mluvčí**\
 
       M﻿ichaela Vaisová
 
 
-      telefon: (+420) 542 542 289\
+      telefon: (+420) 542 542 289, 607 275 704\
 
       e-mail: michaela.vaisova@ochrance.cz
 
