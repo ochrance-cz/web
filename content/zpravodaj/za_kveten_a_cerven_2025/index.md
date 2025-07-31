@@ -130,4 +130,104 @@ sections:
           <p>
 
           <a href="#_ftnref1">[1]</a>&nbsp;Od března 2025 činí lhůta pro vydání rozhodnutí 90 dnů od zahájení řízení dle § 10c odst. 5 zákona č. 582/1991 Sb., o organizaci a provádění sociálního zabezpečení. V&nbsp;době, kdy jsme se záležitostí zabývali, se lhůta řídila pouze správním řádem.</p>
+  - title: Pomohli jsme vyjasnit právní úpravu
+    articles:
+      - title: "Upozornili jsme Ministerstvo zdravotnictví, že cizinci se zaměstnaneckou
+          kartou na úřadu práce mají nárok na pojištění hrazené státem "
+        id: 6053/2024/VOP
+        eso: https://eso.ochrance.cz/Nalezene/Edit/13886
+        body: >-
+          <blockquote>
+
+          <p>Držitelé zaměstnaneckých karet, kteří jsou evidovaní na úřadu práce jako uchazeči o zaměstnání, mají veřejné zdravotní pojištění a stát za ně platí pojistné.</p></blockquote>
+
+          <p>Zjistili jsme, že došlo ke změně výkladu unijních předpisů upravujících vstup a pobyt občanů třetích zemí na území členského státu. Nově cizinci se zaměstnaneckou kartou mohou být registrovaní na úřadu práce a mají nárok i na podporu v nezaměstnanosti. Vyhodnotili jsme, že obdobně mají nárok i na veřejné zdravotní pojištění hrazené státem. Obrátili jsme se proto na Ministerstvo zdravotnictví.</p>
+
+          <p>Ministerstvo nám odpovědělo, že garantuje rovnost zacházení s&nbsp;lidmi jak v&nbsp;době, kdy jsou zaměstnaní, tak i v&nbsp;době kdy jsou zapsaní na úřadu práce. Po dobu jejich evidence na úřadu práce tak za ně hradí pojištění stát. Současně ministerstvo seznámilo s tímto výkladem zdravotní pojišťovny.&nbsp;</p>
+      - title: "Ombudsman navrhl, aby Ústavní soud zrušil zákaz změny příjmení dítěte na
+          příjmení poručníka "
+        id: 8/2025/SZD
+        eso: https://eso.ochrance.cz/Nalezene/Edit/13758
+        body: >-
+          <p>Ombudsman vstoupil do řízení u Ústavního soudu. Usiluje o zrušení
+          části zákona o matrikách, která&nbsp;
+
+          <strong>zakazuje změnu příjmení dítěte na příjmení jeho poručníka, pěstouna nebo jiné pečující osoby.&nbsp;</strong></p>
+
+          <p>Tyto formy náhradní rodinné péče jsou zpravidla dočasné. Cílem je obnovení biologických rodinných vazeb. V praxi se však setkáváme i s&nbsp;případy, kdy to již není možné (např. protože rodiče nežijí), nebo to není v&nbsp;zájmu dítěte. Může jít zároveň o situace, kdy dítě touží po pocitu sounáležitosti s&nbsp;rodinou, v&nbsp;níž trvale žije.&nbsp;</p>
+
+          <p>
+
+          <strong>Plošný zákaz změny příjmení dítěte na příjmení pečující osoby vylučuje možnost individuálního posouzení a zohlednění nejlepšího zájmu dítěte podle Úmluvy o právech dítěte. Ombudsman proto navrhl, aby Ústavní soud návrhu na zrušení zákazu vyhověl. Soud se však nakonec případem věcně nezabýval, odmítl jej z&nbsp;procesních důvodů.</strong></p>
+      - title: "Prosadili jsme větší ochranu lidí v daňové exekuci. Nyní si mohou zřídit
+          tzv. chráněný účet "
+        id: 14545/2022/VOP
+        body: >-
+          <blockquote>
+
+          <p>Správce daně je povinen v daňové exekuci při provádění jednotlivých způsobů exekuce aplikovat všechna pravidla stanovená občanským soudním řádem, nestanoví-li daňový řád výslovně odlišná pravidla.</p></blockquote>
+
+          <p>Zjistili jsme, že lidé &nbsp;v&nbsp;daňové exekuci (tedy exekuci vedené úřady) si nemohli zřídit tzv. chráněný účet, na který se exekuce nevztahuje. Dlužníci si na něj nechávají převádět prostředky, které nelze v&nbsp;exekuci již postihnout (např. zbytek mzdy či důchodu po srážkách, dávky pomoci v&nbsp;hmotné nouzi atd.) a platí z&nbsp;něj nezbytné platby jako je nájem či energie. Naproti tomu dlužníci soukromých věřitelů mohli chráněný účet využívat již od roku 2021. Na bezdůvodně nerovné postavení dlužníků jsme upozorňovali několik let.</p>
+
+          <p>Vyzvali jsme Generální finanční ředitelství, Generální ředitelství cel&nbsp;a Ministerstvo financí ke zjednání nápravy. Ministerstvo financí nakonec navrhlo změnu daňového řádu, která zřízení chráněného účtu lidem v&nbsp;daňové exekuci umožnila. Novela byla přijata a nabyla účinnosti dne 1. července 2025.</p>
+        eso: https://eso.ochrance.cz/Nalezene/Edit/12802
+  - title: Radili jsme v diskriminačních věcech
+    articles:
+      - title: "Pomohli jsme neslyšícím dětem, aby mohly navštěvovat sportovní kurz "
+        id: 5495/2024/VOP
+        eso: https://eso.ochrance.cz/Nalezene/Edit/13738
+        body: >-
+          <blockquote>
+
+          <p>I. Děti s postižením je důležité zapojovat do sportovních aktivit spolu s ostatními dětmi (zejména na základě Úmluvy o právech osob se zdravotním postižením).</p>
+
+          <p>II. Účast neslyšících dětí na sportovním kurzu nelze odmítnout, jestliže existují jiné způsoby, jak dosáhnout sledovaných legitimních cílů v podobě bezpečnosti, omezení počtu dospělých osob a dodržování specifické metodiky kurzu.</p></blockquote>
+
+          <p>Matka přihlásila své dvě neslyšící děti do veřejného sportovního kurzu. Organizátoři ale účast dětí odmítli. Jednou z&nbsp;hlavních námitek byla bezpečnost.&nbsp;</p>
+
+          <p>Domníváme se, že bezpečnost kurzu se při účasti neslyšících dětí zásadně neliší. Navíc by k&nbsp;ní přispěly tlumočnice do českého znakového jazyka, které matka oběma dětem zajistila. Za podobně řešitelné považujeme i další výhrady organizátorů.&nbsp; &nbsp;</p>
+
+          <p>Po našem zásahu vedení kurzu přislíbilo, že do budoucna přehodnotí své postupy při přijímání dětí se speciálními potřebami a že neslyšící sourozence přijme, avšak každé dítě do jiného kurzu. Apelujeme proto na organizátory, aby své rozhodnutí, pokud k&nbsp;němu nejsou skutečně nezbytné důvody, přehodnotili.&nbsp;</p>
+      - title: Přesvědčili jsme inspektorát práce, aby došetřil podezření na šikanu ze
+          strany zaměstnavatele
+        id: 3862/2024/VOP
+        eso: https://eso.ochrance.cz/Nalezene/Edit/13644
+        body: >-
+          <blockquote>
+
+          <p>Inspektorát práce se musí pokusit dostatečně zjistit skutkový stav. Pokud zaměstnavatel zdůvodní nerovné zacházení se zaměstnancem tak, že nevysvětlí svůj postup zcela, ale pouze z&nbsp;menší části, je potřeba, aby se inspektorát dále dotázal na dosud nevyjasněné věci.</p></blockquote>
+
+          <p>Žena měla za to, že je obětí šikany (bossingu) ze strany zaměstnavatele. V&nbsp;důsledku toho údajně jako jediná nedostala mimořádné odměny ve výši několik desítek tisíc korun, a později dokonce dostala výpověď. Kontaktovala proto inspektorát práce. Ten ale žádné pochybení zaměstnavatele nezjistil. Protože žena s&nbsp;takovým výsledkem nebyla spokojená, obrátila se na nás.</p>
+
+          <p>Postup inspektorátu jsme prošetřili a zjistili jsme několik chyb. Povedlo se nám ho přesvědčit, aby je napravil a podnět došetřil. Navíc bude všechny inspektory informovat, jak v&nbsp;podobných případech do budoucna postupovat správně.</p>
+  - title: Navštěvujeme zařízení
+    articles:
+      - title: "Už od roku 2006 jsme národním preventivním mechanismem "
+        body: >-
+          <p>Chráníme lidi před špatným zacházením. Proto navštěvujeme zařízení,
+          kde jsou lidé omezení na svobodě nebo závislí na poskytované péči.
+          Jedná se například o věznice, dětské domovy nebo domovy pro seniory.
+          Od roku 2018 rovněž sledujeme, jak Česká republika naplňuje práva lidí
+          s postižením podle Úmluvy OSN o právech osob se zdravotním postižením.
+          Proto navštěvujeme také zařízení, kde jsou lidé se zdravotním
+          postižením.</p>
+
+          <p>V&nbsp;květnu jsme provedli systematické návštěvy Dětského domova Nymburk a policejních cel při odboru cizinecké policie ve Frýdku-Místku a při obvodním oddělení policie Nový Jičín.</p>
+
+          <p>Následující měsíc nás čekaly návštěvy Soukromého dětského domova v&nbsp;Budišově u Třebíče, Dětského domova Dolní Čermná, psychiatrického oddělení nemocnice v&nbsp;Pardubicích a sociální služby Domov Laudon v&nbsp;Albrechticích u Lanškrouna.</p>
+      - title: "Upozornili jsme veřejnost na to, že seniory v bzeneckém Domově u sv.
+          Marušky ohrožuje špatné zacházení "
+        id: 25/2024/NZ
+        release: https://www.ochrance.cz/aktualne/seniory_v_bzeneckem_domove_u_sv-_marusky_ohrozuje_spatne_zachazeni_upozornuje_zastupce_ombudsmana/
+        body: >-
+          <p>Při systematické návštěvě domova v Bzenci jsme zjistili závažná
+          pochybení, mezi která patří například podávání léků laickým personálem
+          bez potřebné kvalifikace, nedostatečné zajištění pobytu klientů na
+          čerstvém vzduchu či neodpovídající nutriční péče. Zařízení navíc nemá
+          registraci k poskytování pobytových sociálních služeb, ačkoliv ze
+          zjištění získaných při návštěvě vyplývá, že naplňuje znaky domova pro
+          seniory či domova se zvláštním režimem.</p>
+
+          <p>Vedení domova ani po upomínce na výtky nereagovalo. Zástupce ombudsmana proto využil své sankční oprávnění a varoval veřejnost před tímto zařízením.</p>
+        eso: https://eso.ochrance.cz/Nalezene/Edit/13780
 ---
