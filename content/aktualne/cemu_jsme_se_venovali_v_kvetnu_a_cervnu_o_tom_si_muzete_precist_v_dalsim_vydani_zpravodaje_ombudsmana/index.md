@@ -28,8 +28,8 @@ attachments:
 <p>Zjistili jsme, že došlo ke změně výkladu unijních předpisů upravujících vstup a pobyt občanů třetích zemí na území členského státu. Nově cizinci se zaměstnaneckou kartou mohou být registrovaní na úřadu práce a mají nárok i na podporu v nezaměstnanosti. Obdobně mají nárok i na veřejné zdravotní pojištění hrazené státem. Obrátili jsme se proto na Ministerstvo zdravotnictví. To seznámilo s tímto výkladem zdravotní pojišťovny.</p></blockquote>
 <ul>
 <li>
-<h3>
+<h2>
 <a href="https://www.ochrance.cz/zpravodaj/za_kveten_a_cerven_2025/#item-1-0">
-<strong>Pomohli jsme oběti trestného činu získat peněžitou pomoc</strong></a></h3></li></ul>
+<strong>Pomohli jsme oběti trestného činu získat peněžitou pomoc</strong></a></h2></li></ul>
 <blockquote>
 <p>Stěžovatelka byla obětí pohlavního zneužití. Požádala Ministerstvo spravedlnosti o peněžitou pomoc, to však její žádost nejprve zamítlo. Z rozhodnutí soudu dovodilo, že stěžovatelka s trestným činem souhlasila, a tak jej spoluzavinila. Předložili jsme ministerstvu naše závěry a požádali jsme ho o vydání nového rozhodnutí. Ministerstvo argumenty uznalo a přiznalo stěžovatelce devět tisíc korun, o které původně žádala.</p></blockquote>
