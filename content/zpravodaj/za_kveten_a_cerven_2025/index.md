@@ -150,15 +150,13 @@ sections:
         eso: https://eso.ochrance.cz/Nalezene/Edit/13758
         body: >-
           <p>Ombudsman vstoupil do řízení u Ústavního soudu. Usiluje o zrušení
-          části zákona o matrikách, která&nbsp;
-
-          <strong>zakazuje změnu příjmení dítěte na příjmení jeho poručníka, pěstouna nebo jiné pečující osoby.&nbsp;</strong></p>
+          části zákona o matrikách, která&nbsp; zakazuje změnu příjmení dítěte
+          na příjmení jeho poručníka, pěstouna nebo jiné pečující
+          osoby.&nbsp;</p>
 
           <p>Tyto formy náhradní rodinné péče jsou zpravidla dočasné. Cílem je obnovení biologických rodinných vazeb. V praxi se však setkáváme i s&nbsp;případy, kdy to již není možné (např. protože rodiče nežijí), nebo to není v&nbsp;zájmu dítěte. Může jít zároveň o situace, kdy dítě touží po pocitu sounáležitosti s&nbsp;rodinou, v&nbsp;níž trvale žije.&nbsp;</p>
 
-          <p>
-
-          <strong>Plošný zákaz změny příjmení dítěte na příjmení pečující osoby vylučuje možnost individuálního posouzení a zohlednění nejlepšího zájmu dítěte podle Úmluvy o právech dítěte. Ombudsman proto navrhl, aby Ústavní soud návrhu na zrušení zákazu vyhověl. Soud se však nakonec případem věcně nezabýval, odmítl jej z&nbsp;procesních důvodů.</strong></p>
+          <p>Plošný zákaz změny příjmení dítěte na příjmení pečující osoby vylučuje možnost individuálního posouzení a zohlednění nejlepšího zájmu dítěte podle Úmluvy o právech dítěte. Ombudsman proto navrhl, aby Ústavní soud návrhu na zrušení zákazu vyhověl. Soud se však nakonec případem věcně nezabýval, odmítl jej z&nbsp;procesních důvodů.</p>
       - title: "Prosadili jsme větší ochranu lidí v daňové exekuci. Nyní si mohou zřídit
           tzv. chráněný účet "
         id: 14545/2022/VOP
