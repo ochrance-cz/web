@@ -4,15 +4,10 @@ title: "Čemu jsme se věnovali v květnu a červnu? O tom si můžete přečís
 date: 2025-07-31T14:35:00
 vystupy:
   - aktualita
-perex: <p>Letní prázdniny jsou přesně v&nbsp;půlce a my vám přinášíme další
-  číslo Zpravodaje ombudsmana! V&nbsp;něm se dozvíte, jakými případy jsme se
-  zabývali v&nbsp;předchozích měsících. Napravovali jsme chyby úřadů, ale
-  podařilo se nám také zajistit místo na sportovním kurzu pro neslyšící děti,
-  které z&nbsp;něj byli neprávem vyřazeni. Dále jsme pomohli oběti trestného
-  činu získat peněžitou pomoc. Pravidelně také navštěvujeme různá zařízení a
-  dohlížíme na naplňování práv lidí omezených na svobodě. To ale zdaleka není
-  vše, pokud to bylo potřeba, pomáhali jsme s&nbsp;vyjasněním právní úpravy.
-  Více si můžete přečíst v&nbsp;našem Zpravodaji.</p>
+perex: >-
+  <p>Letní prázdniny jsou přesně v&nbsp;půlce a my vám přinášíme další číslo 
+
+  <a href="https://www.ochrance.cz/zpravodaj/za_kveten_a_cerven_2025/">Zpravodaje ombudsmana</a>! V&nbsp;něm se dozvíte, jakými případy jsme se zabývali v&nbsp;předchozích měsících. Napravovali jsme chyby úřadů, ale podařilo se nám také zajistit místo na sportovním kurzu pro neslyšící děti, které z&nbsp;něj byli neprávem vyřazeni. Dále jsme pomohli oběti trestného činu získat peněžitou pomoc. Pravidelně také navštěvujeme různá zařízení a dohlížíme na naplňování práv lidí omezených na svobodě. To ale zdaleka není vše, pokud to bylo potřeba, pomáhali jsme s&nbsp;vyjasněním právní úpravy. Více si můžete přečíst v&nbsp;našem Zpravodaji.</p>
 attachments:
   - title: Zpravodaj ombudsmana za květen a červen 2025
     link: ""
