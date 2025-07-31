@@ -2,6 +2,7 @@
 title: za květen a červen 2025
 month: 7
 year: 2025
+file: https://www.ochrance.cz/zpravodaj/za_kveten_a_cerven_2025/zpravodaj_kveten_a_cerven_2025.pdf
 sections:
   - title: Úvodní slovo
     articles:
@@ -44,6 +45,7 @@ sections:
           <p>Úřad to však zamítl. Podle něj měla žena doložit, že její manžel, který pracoval jako OSVČ, byl v době narození dítěte nemocensky pojištěný. Úřadu jsme ale vysvětlili, že pro jednorázové doplacení rodičovského příspěvku stačí, že si hradil pojištění důchodové.</p>
 
           <p>Úřad práce uznal svou chybu a ženě částku 29&nbsp;000 Kč jednorázově vyplatil.&nbsp;</p>
+        eso: https://eso.ochrance.cz/Nalezene/Edit/13890
       - title: "Přiměli jsme Ministerstvo vnitra jednat a cizinec tak po více než roce
           čekání získal české občanství "
         id: 3458/2025/VOP
@@ -97,6 +99,7 @@ sections:
           instituce.&nbsp;</p>
 
           <p>Řízení o přiznání starobního důchodu trvalo 6 let a 3 měsíce. Nečinnost příslušné tuniské instituce ho prodloužila pouze o 1 a čtvrt roku. Doporučili jsme proto stěžovateli, aby požádal Ministerstvo práce a sociálních věcí o odškodnění za nepřiměřenou délku řízení. V&nbsp;průběhu řízení mu vznikl nárok na důchod z&nbsp;českých a dánských dob. ČSSZ mu proto důchod přiznala od roku 2022. Poté, co získala potvrzení i o tuniských dobách, chybně určila datum vzniku nároku na důchod k&nbsp;pozdějšímu dni. Nárok na důchod měl ke dni dosažení důchodového věku v roce 2018. Poté ještě pracoval. ČSSZ mu však procentní výměru nijak nenavýšila. Muž nejdříve žádal o přiznání důchodu ode dne vzniku nároku na něj v&nbsp;roce 2018. Poradili jsme mu, aby si o důchod požádal až od roku 2022. Díky tomu se mu důchod navýšil za výkon výdělečné činnosti po vzniku nároku na starobní důchod. Jeho důchod je díky tomu přibližně o 2 tisíce vyšší.</p>
+        eso: https://eso.ochrance.cz/Nalezene/Edit/13958
       - title: "Upozornili jsme silniční úřad, že při rušení železničního přejezdu měl
           prověřit námitku města, které ho považuje za potřebný při povodních "
         id: 6650/2024/VOP
