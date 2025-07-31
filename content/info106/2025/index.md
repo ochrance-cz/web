@@ -146,3 +146,28 @@ title: "2025"
 <a href="https://www.ochrance.cz/info106/2025/28_2025_zadost.pdf">Žádost o informace.</a></p>
 <p>
 <a href="https://www.ochrance.cz/info106/2025/28_2025_odpoved.odt">Odpověď na žádost.</a></p>
+<h3>32/2025 – Informace k&nbsp;z&nbsp;oblasti náhrady škody VOP</h3>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/32_2025_zadost.pdf">Žádost o informace.</a></p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/32_2025_odpoved_.odt">Odpověď na žádost.</a></p>
+<h3>33/2025 – Informace z&nbsp;oblasti Vězeňství</h3>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/33_2025_zadost.pdf">Žádost o informace</a>.</p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/33_2025_odpoved.odt">Odpověď na žádost.</a></p>
+<h3>34/2025 – Informace z&nbsp;oblasti Příspěvek a péči, dávky pro zdravotně postižené</h3>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/34_2025_zadost.pdf">Žádost o informace.</a></p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/34_2025_odpoved.odt">Odpověď na žádost.</a></p>
+<h3>35/2025 – Informace k&nbsp;podání podnětu VOP</h3>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/35_2025_zadost.pdf">Žádost o informace.</a></p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/35_2025_odpoved.odt">Odpověď na žádost.</a></p>
+<h3>36/2025 – Informace z&nbsp;oblasti Vězeňství</h3>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/36_2025_zadost.pdf">Žádost o informace.</a></p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/36_2025_odpoved.odt">Odpověď na žádost.</a></p>
