@@ -487,10 +487,6 @@ lawyers:
         role: právník
         phone: 542 542 346
         email: jiri.matuska@ochrance.cz
-      - name: Anna Makarenko
-        role: právnička
-        phone: 542 542 269
-        email: "anna.makarenko@ochrance.cz "
       - name: Eliška Černá
         role: právnička
         phone: 542 542 306
