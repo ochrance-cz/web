@@ -1,7 +1,7 @@
 ---
 title: Dobrá praxe v zajišťování bydlení pro zranitelné lidi
 perex: Bytová nouze ohrožuje stále širší skupiny lidí a řešení vyžaduje sdílení
-  příkladů dobré praxe a systémovou podporu.
+  příkladů dobré praxe a systémovou podporu
 date: 2023-12-11T08:48:19.059Z
 vystupy:
   - vyzkumy
