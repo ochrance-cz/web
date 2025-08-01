@@ -6,7 +6,7 @@ vystupy:
   - tz
 perex: <p>Prezident na konci června podepsal dvě novely zákonů, které ulehčí
   situaci lidem zatíženým&nbsp;dluhy. Završily se tak dlouhodobé snahy
-  ombudsmana o jejich lepší ochranu. Nově si dlužníci v&nbsp;exekuci vedené
+  ombudsmana o&nbsp;jejich lepší ochranu. Nově si dlužníci v&nbsp;exekuci vedené
   úřady budou moci zřídit tzv. chráněný účet. Bez něj byli v podstatě odstřiženi
   od bankovních služeb. Proti dlužníkům soukromých věřitelů, kteří tuto možnost
   měli již od roku 2021, tím byli značně znevýhodněni. Další novinkou
@@ -15,7 +15,7 @@ perex: <p>Prezident na konci června podepsal dvě novely zákonů, které uleh�
   začátku příštího roku však již budou platit pro všechny stejná pravidla.</p>
 ---
 <p>Dlužníci potřebují šanci splatit svůj dluh, ne upadat stále hlouběji do bezvýchodné&nbsp;pasti. Právě tomu jdou naproti dvě nedávno schválené úpravy zákonů, o které usiloval ombudsman již několik let.&nbsp;</p>
-<p>Představte si, že máte dluh vůči soukromému věřiteli a octnete se kvůli tomu v exekuci. Zákon myslí na to, že potřebujete ponechat alespoň část peněz, ze kterých budete platit nejnutnější věci (jídlo, bydlení atd.). Tyto příjmy proto před exekutorem chrání. Pomůže Vám i to, že si můžete zřídit tzv. chráněný účet, na který budou chráněné příjmy chodit a exekutor na ně nedosáhne.&nbsp;</p>
+<p>Představte si, že máte dluh vůči soukromému věřiteli a octnete se kvůli tomu v&nbsp;exekuci. Zákon myslí na to, že potřebujete ponechat alespoň část peněz, ze kterých budete platit nejnutnější věci (jídlo, bydlení atd.). Tyto příjmy proto před exekutorem chrání. Pomůže Vám i to, že si můžete zřídit tzv. chráněný účet, na který budou chráněné příjmy chodit a exekutor na ně nedosáhne.&nbsp;</p>
 <p>&nbsp;</p>
 <blockquote>
 <p>
