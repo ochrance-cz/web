@@ -1,6 +1,6 @@
 ---
 title: Přístup občanů EU ke knihovním službám v ČR
-perex: "Za jakých podmínek mohou občané EU využívat knihovní služby v ČR "
+perex: "Za jakých podmínek mohou občané EU využívat knihovní služby v ČR  "
 date: 2021-06-07T11:48:21.461Z
 vystupy:
   - vyzkumy
