@@ -43,7 +43,7 @@ Některé další zákony (např. školský zákon, zákoník práce, zákon o o
 
 Chcete rozumět tomu, jak diskriminaci poznat a řešit? Vyzkoušejte náš **[e-learning](https://diskriminace.netventic.net/course-info/?show&id=30)**.
 
-#### A co pro vás můžeme udělat, pokud sami nejste obětí diskriminace, ale nějak se Vás diskriminace týká?
+### A co pro vás můžeme udělat, pokud sami nejste obětí diskriminace, ale nějak se Vás diskriminace týká?
 
 **Nevládní organizace:**
 
