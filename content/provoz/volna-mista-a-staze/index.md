@@ -4,9 +4,9 @@ linksAfter: []
 ---
 <h2>
 <strong>Volná místa</strong></h2>
-<p>Nyní neprobíhá žádné výběrové řízení.</p>
-<p>Pokud se přesto chcete ucházet o místo, pošlete nám svůj životopis na adresu 
-<a href="mailto:lzicarova@ochrance.cz">lzicarova@ochrance.cz</a> a napište, o jakou práci máte zájem.</p>
+<p>Pro výkon&nbsp;
+<a href="https://www.ochrance.cz/aktualne/od_dnesniho_dne_najdou_deti_pravni_ochranu_pod_kridly_detskeho_ombudsmana_hlidacim_psem_lidskych_prav_se_stava_narodni_lidskopravni_instituce_nhri_vse_pod_jednou_strechou_v_brne/">nových působností</a>&nbsp;otevíráme výběrové řízení na pozici výzkumný pracovník/pracovnice se zaměřením na sledování základních práv a svobod a/nebo se zaměřením na práva dětí.&nbsp;Více informací najdete v 
+<a href="https://www.ochrance.cz/aktualne/hledame_vyzkumne_pracovniky_pro_vykon_novych_pusobnosti_detskeho_ombudsmana_a_narodni_lidskopravni_instituce_nhri/">inzerátu</a>.</p>
 <p>
 <strong>Stáže pro studenty právnických fakult</strong></p>
 <p>Na stáž se můžete přihlásit přes svou právnickou fakultu v&nbsp;Brně, Olomouci a Praze. Pokud nevíte, koho ve škole oslovit, napište kolegyni Haně Suské na adresu 
