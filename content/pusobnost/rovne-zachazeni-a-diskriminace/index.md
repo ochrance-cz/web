@@ -42,3 +42,24 @@ Některé další zákony (např. školský zákon, zákoník práce, zákon o o
 > Paní Tereza se přestěhovala za přítelem do Česka a chtěla se v místě svého nového bydliště ucházet o práci na obecním úřadě. Nebyla si jistá, jestli nevadí, že má trvalý pobyt zatím pořád na Slovensku, protože v Česku žije jen 4 roky a na povolení k trvalému pobytu tedy zatím nemá nárok. Poradila se s ombudsmanem a díky tomu ví, že se o práci ucházet může, protože její občanství ani druh pobytu v Česku nejsou při hledání zaměstnání důležité.
 
 Chcete rozumět tomu, jak diskriminaci poznat a řešit? Vyzkoušejte náš **[e-learning](https://diskriminace.netventic.net/course-info/?show&id=30)**.
+
+#### A co pro vás můžeme udělat, pokud sami nejste obětí diskriminace, ale nějak se Vás diskriminace týká?
+
+**Nevládní organizace:**
+
+* Můžeme pomoci Vašim klientům, kteří zažili diskriminaci. Pokud máte plnou moc, můžete své klienty zastupovat a komunikovat s námi místo nich.
+* Zkonzultujeme s Vámi otázky ohledně diskriminace a poradíme, jak řešit konkrétní situaci.
+* Pokud nás upozorníte na systémový problém, budeme přesvědčovat úřady, aby situaci řešily.
+* Můžeme připravit vzdělávací akci o diskriminaci na míru Vašim potřebám.
+
+**Zaměstnavatelé, poskytovatelé zboží a služeb, školy, poskytovatelé bydlení, zdravotnická zařízení nebo veřejné instituce:**
+
+* Zkonzultujeme s Vámi otázky ohledně diskriminace a poradíme, jak řešit konkrétní situaci.
+* Můžeme připravit vzdělávací akci o diskriminaci na míru Vašim potřebám.
+* Pokud Vám úřad dal pokutu za diskriminaci a Vy s ní nesouhlasíte, můžeme prověřit, zda úřad postupoval správně.
+
+**Politická reprezentace (tvoříte politiky, legislativu, rozhodujete o druhých):**
+
+* Zkonzultujeme s Vámi otázky ohledně diskriminace a poradíme, jak řešit konkrétní situaci.
+* Můžeme Vám doporučit jak zlepšit Vaše zákony, vyhlášky, metodiky a jiné materiály, aby byly v souladu s antidiskriminačním právem.  
+* Můžeme připravit vzdělávací akci o diskriminaci na míru Vašim potřebám.
