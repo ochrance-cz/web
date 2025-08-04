@@ -37,13 +37,13 @@ we-cannot:
     může docházet i z jiných důvodů, např. kvůli sociálnímu původu, členství v
     politických stranách a hnutích nebo v odborových organizacích, kvůli
     manželskému a rodinnému stavu.
-  - "V těchto případech vám alespoň poradíme, co můžete dělat, jak můžete svůj
-    problém řešit. "
+  - V těchto případech vám alespoň poradíme, co můžete dělat, jak můžete svůj
+    problém řešit.
   - >-
-    ### Jak postupujeme?
+    Jak postupujeme?
 
 
-    ![Posoudíme důvod horšího zacházení. Je zakázaný? Pokud ne, tak Vás nediskriminovali. Napíšeme Vám a vše vysvětlíme. Pokud je důvod horšího zacházení zakázaný, možná Vás diskriminovali. Zvážíme, co by právě pro Vás bylo nejlepší. Záleží i na tom, jestli můžete prokázat, co se stalo. Někdy požádáme o vyjádření toho, na koho si stěžujete. Napíšeme Vám a vše vysvětlíme.  Někdy Vám nejprve poradíme, jak můžete získat důkazy, nebo Vás odkážeme na úřad  nebo neziskovou organizaci. Někdy Vám doporučíme podat žalobu k soudu. Vydáme zprávu . Případ posoudíme podle práva. Zprávu pošleme všem, i Vám. Když diskriminaci nezjistíme, vysvětlíme, proč to nebyla diskriminace. Pokud zjistíme, že Vás diskriminovali, doporučíme dohodu, změnu vnitřních předpisů a nebo žalobu k soudu. U žaloby, pokud máte peníze na advokáta, vyberete si ho sami. Pokud nemáte peníze na advokáta, zjistíme, jestli Vás některý zastoupí bezplatně (pro bono).](dis_infografika_postupu.png)
+    ![Posoudíme důvod horšího zacházení. Je zakázaný? Pokud ne, tak Vás nediskriminovali. Napíšeme Vám a vše vysvětlíme. Pokud je důvod horšího zacházení zakázaný, možná Vás diskriminovali. Zvážíme, co by právě pro Vás bylo nejlepší. Záleží i na tom, jestli můžete prokázat, co se stalo. Někdy požádáme o vyjádření toho, na koho si stěžujete. Napíšeme Vám a vše vysvětlíme.  Někdy Vám nejprve poradíme, jak můžete získat důkazy, nebo Vás odkážeme na úřad  nebo neziskovou organizaci. Někdy Vám doporučíme podat žalobu k soudu. Vydáme zprávu . Případ posoudíme podle práva. Zprávu pošleme všem, i Vám. Když diskriminaci nezjistíme, vysvětlíme, proč to nebyla diskriminace. Pokud zjistíme, že Vás diskriminovali, doporučíme dohodu, změnu vnitřních předpisů a nebo žalobu k soudu. U žaloby, pokud máte peníze na advokáta, vyberete si ho sami. Pokud nemáte peníze na advokáta, zjistíme, jestli Vás některý zastoupí bezplatně (pro bono).](dis_infografika_postupu_1_.png)
 examples:
   - desc: >
       Požádal jsem v práci o zkrácení úvazku, abych mohl vydělávat a zároveň se
