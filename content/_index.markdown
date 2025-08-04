@@ -10,7 +10,7 @@ accessibility: >
   znevýhodněním,</span> <span class="seeing">lidem se zrakovým
   znevýhodněním,</span> <span class="hearing">lidem se sluchovým
   znevýhodněním,</span></a> <span class="mobile-p">i lidem s jinými <a
-  href="/pristupnost/">speciálními potřebami.</a>
+  href="/provoz/pristupnost/">speciálními potřebami.</a>
 aktuality:
   - tz
   - podcast
