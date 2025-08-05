@@ -41,8 +41,7 @@ links: []
 <a href="https://www.ochrance.cz/en/situace/citizens-of-the-european-union/">helping EU citizens</a> or other leaflets&nbsp; 
 <a href="https://www.ochrance.cz/en/situace/other-situations/">for foreigners</a> (also in other languages).&nbsp;</p>
 <p>If you want to see what cases with an overlap with European law the Ombudsman has dealt with in the past, you can look at the Collection of opinions of the Ombudsman on the topic 
-<a href="media/sbornik_2018_citizenship-eu_en.pdf">Citizenship of the European Union.</a> &nbsp;
-<a href="https://www.ochrance.cz/en/info/i_am_a_citizen_of_the_european_union/sbornik_2018_citizenship-eu_en.pdf">sbornik_2018_citizenship-eu_en.pdf</a></p>
+<a href="https://www.ochrance.cz/en/info/i_am_a_citizen_of_the_european_union/sbornik_2018_citizenship-eu_en.pdf">Citizenship of the European Union</a></p>
 
 
 {{< rozbal "How to defend your rights" >}}
