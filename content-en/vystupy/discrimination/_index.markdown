@@ -1,6 +1,6 @@
 ---
 title: Discrimination
-plural: discrimination
+plural: Discrimination
 listed: true
 slug: discrimination
 ---
