@@ -7,7 +7,7 @@ links: []
 <p>You can write to us if you have a problem related to moving to another country, e.g. if you feel discriminated against, your employer violates your rights or if the authorities do not take into account documents from foreign institutions</p>
 <p>We can help you with your problems:</p>
 <ul>
-<li>with the authorities or municipalities </li>
+<li>with the authorities or municipalities</li>
 <li>at work</li>
 <li>at school or when studying</li>
 <li>in health care, housing or other services</li></ul>
@@ -35,47 +35,13 @@ links: []
 <li>We cooperate with foreign or international bodies that have similar tasks to the Ombudsman</li></ul>
 <h4>Why is our work important</h4>
 <p>EU citizenship gives people the right to have the same rights as local people in other EU countries. No one should be treated worse by the authorities or by different companies (for example, employers) for being a foreigner, unless there is an objective reason.</p>
-<p>The EU has made sure that there is a designated body in each country to help EU citizens. A list of these is available at the&nbsp;
+<p>The EU has made sure that there is a designated body in each country to help EU citizens. A list of these is available at the&nbsp; 
 <a href="https://employment-social-affairs.ec.europa.eu/policies-and-activities/moving-working-europe/working-another-eu-country/free-movement-eu-nationals/how-enforce-your-rights/bodies-promoting-equal-treatment-and-supporting-workers-european-union-and-their-family-members_en">European Commission</a> website. The Ombudsman is the designated body in Czechia.</p>
-<p>For more information on how the Ombudsman can help you, see the leaflet on&nbsp;
-<a href="https://www.ochrance.cz/en/situace/citizens-of-the-european-union/">helping EU citizens</a> or other leaflets&nbsp;
+<p>For more information on how the Ombudsman can help you, see the leaflet on&nbsp; 
+<a href="https://www.ochrance.cz/en/situace/citizens-of-the-european-union/">helping EU citizens</a> or other leaflets&nbsp; 
 <a href="https://www.ochrance.cz/en/situace/other-situations/">for foreigners</a> (also in other languages).&nbsp;</p>
 <p>If you want to see what cases with an overlap with European law the Ombudsman has dealt with in the past, you can look at the Collection of opinions of the Ombudsman on the topic 
-<a href="https://www.ochrance.cz/dokument/obcane_evropske_unie_v_ceske_republice/recommendations-eu-citizens-in-cz.pdf">Citizenship of the European Union</a>.</p>
-<hr>
-<p>Thanks to European Union every member state designated one or more bodies which provides help to EU citizens abroad and thus contributes to the&nbsp;full exercise of free movement of EU citizens. The&nbsp;list of the&nbsp;bodies is available at 
-<a href="http://ec.europa.eu/social/main.jsp?catId=1277&amp;langId=en">European Commission webpage</a>. The&nbsp;Defender is the&nbsp;designated body in the&nbsp;Czech Republic.</p>
-<p>The Defender may be contacted by people who faced unequal treatment on grounds of their nationality and who are EU citizens (i. e. citizens of a&nbsp;member state of the&nbsp;European Union) or members of their family (even if they are not EU citizens themselves).&nbsp;Citizens from countries of the&nbsp;European Economic Area (Norway, Iceland and Lichtenstein) enjoy the&nbsp;same rights as EU citizens.</p>
-<p>
-<a href="https://www.ochrance.cz/uploads-import/DISKRIMINACE/pravni_predpisy/Anti-discrimination-Act.pdf">Antidiscrimination Act</a>&nbsp;prohibits discrimination of workers (employees) from other EU member states and their family members primarily in access to employment and conditions of employment, especially as regards working conditions, remuneration, promotion, health and safety at work or membership in trade unions; further also in the&nbsp;access to social and tax advantages, training, housing and as regards assistance afforded by the&nbsp;employment offices.</p>
-<p>Main tasks of the&nbsp;Defender in this area are to:</p>
-<ul>
-<li>Provide information to EU citizens about their rights, who to contact and how to proceed</li>
-<li>Provide methodical assistance in cases of alleged discrimination on grounds of nationality and advises how to submit an&nbsp;application to initiate proceedings on the&nbsp;grounds of discrimination</li>
-<li>Communicate with public authorities and private persons in cases regarding the&nbsp;exercise of the&nbsp;right of free movement and equal treatment on grounds of nationality</li>
-<li>Carry out research, publish reports and recommendations in the&nbsp;area of the&nbsp;free movement of EU citizens and equal treatment on grounds of nationality</li>
-<li>Communicate with bodies in other member states who have been designated to fulfil the&nbsp;same tasks</li></ul>
-<p>The aim of the&nbsp;Defender in this field is to facilitate the&nbsp;free movement of workers across European Union. EU citizens have the&nbsp;right to move freely to another member state in order to work there and they have the&nbsp;right to be treated equally as nationals of that state. Free movement of workers is guaranteed in founding treaties – in the&nbsp;Treaty on the&nbsp;Functioning of the&nbsp;European Union and is further specified in subsequent legal acts. EU citizens and their family members enjoy the&nbsp;right of equal treatment as regards access to employment, conditions of employment and work, in particular with regard to remuneration, dismissal, and tax and social advantages. The&nbsp;Defender acts as a&nbsp;contact point for people who face problems in above specified areas. The&nbsp;Defender can also deal with cases submitted by persons who are not Union workers (person with income from other sources than employment, students,&nbsp;etc.), even if they don’t enjoy the&nbsp;right of equal treatment in all cases.</p>
-<p>More information on how the&nbsp;Defender may assist you is available in our 
-<a href="https://www.ochrance.cz/en/letaky/en-citizens-of-the-eu/EN-Citizens-of-the-EU.pdf">leaflet Citizens of the European Union</a>.</p>
-<p>Collection of opinions of the&nbsp;Defender on the&nbsp;topic 
-<a href="https://www.ochrance.cz/en/info/i_am_a_citizen_of_the_european_union/sbornik_2018_citizenship-eu_en.pdf">Citizenship of the European Union</a>.</p>
-<ul>
-<li>
-<a href="https://www.ochrance.cz/en/info/i_am_a_citizen_of_the_european_union/en-citizens-of-the-eu.pdf">Citizens of the European Union</a></li>
-<li>
-<a href="https://www.ochrance.cz/en/info/i_am_a_citizen_of_the_european_union/buerger_der_europaeischen_union.pdf">Bürger der Europäischen Union</a></li>
-<li>
-<a href="https://www.ochrance.cz/en/info/i_am_a_citizen_of_the_european_union/citoyens_de_l_union_europeenne.pdf">Citoyens de l'Union européenne</a></li>
-<li>
-<a href="https://www.ochrance.cz/en/info/i_am_a_citizen_of_the_european_union/obywatele_unii_europejskiej.pdf">Obywatele Unii Europejskiej</a></li>
-<li>
-<a href="https://www.ochrance.cz/en/info/i_am_a_citizen_of_the_european_union/grazhdani_na_evropeiskija_sjuz.pdf">Аз съм гражданин на друга държава-членка на ЕС</a></li>
-<li>
-<a href="https://www.ochrance.cz/en/info/i_am_a_citizen_of_the_european_union/cetateni_al_uniunii_europene.pdf">Sunt cetățeanul unui alt stat membru al UE</a></li></ul>
-<p>Useful information can also be found at&nbsp; 
-<a href="https://www.ombudsman.europa.eu/en/home">European Ombudsman</a> and&nbsp; 
-<a href="https://www.ombudsman.europa.eu/en/european-network-of-ombudsmen/about/en">European Network of Ombudsmen</a> websites.</p>
+<a href="https://www.ochrance.cz/en/info/i_am_a_citizen_of_the_european_union/sbornik_2018_citizenship-eu_en.pdf">Citizenship of the European Union</a>.&nbsp;</p>
 
 
 {{< rozbal "How to defend your rights" >}}
@@ -155,8 +121,8 @@ links: []
 <ul>
 <li>To get a&nbsp;job in&nbsp;the&nbsp;Czech Republic, you can also use the&nbsp;services of&nbsp;one of&nbsp;the&nbsp;employment agencies. In&nbsp;this case, you will become an&nbsp;employee of&nbsp;the&nbsp;employment agency, which will then assign you to&nbsp;the&nbsp;so-called user (the&nbsp;employer you are actually working with) to&nbsp;work.</li>
 <li>Even in&nbsp;the&nbsp;case of&nbsp;agency employment, the&nbsp;principle of&nbsp;equal treatment must be&nbsp;respected. The&nbsp;user (employer) must not discriminate you against your core employees.</li>
-<li>Details of&nbsp;agency employment can be&nbsp;found on&nbsp;
-<a href="https://www.uradprace.cz/en/employment-agencies-1"> the&nbsp;website of&nbsp;Labour Office</a>.</li></ul>
+<li>Details of&nbsp;agency employment can be&nbsp;found on&nbsp; 
+<a href="https://www.uradprace.cz/en/employment-agencies-1">the&nbsp;website of&nbsp;Labour Office</a>.</li></ul>
 <h3>Membership and participation in trade unions</h3>
 <ul>
 <li>The right to&nbsp;associate in&nbsp;trade unions is&nbsp;guaranteed by&nbsp;the&nbsp; 
@@ -411,8 +377,8 @@ links: []
 <a href="http://www.nuv.cz/">www.nuv.cz</a>&nbsp; Témata → Společné vzdělávání → SVP, nadaní, cizinci → Děti/žáci–cizinci a&nbsp;děti/žáci s&nbsp;odlišným mateřským jazykem → Cizinci – podpůrná opatření)</li></ul>
 <p>For more information about Czech educational system, visit this&nbsp; 
 <a href="https://www.studyin.cz/soubory/clanky/0021_publications/StudyIN-EduSystem-2017.pdf">website</a>&nbsp;( 
-<a href="https://portal.studyin.cz/find-your-institution/">https://portal.studyin.cz/find-your-institution/</a>) or&nbsp;read this&nbsp;
-<a href="https://www.unhcr.org/cz/wp-content/uploads/sites/20/2019/03/CZ-2017-EDUCATION.pdf"> handbook for parents</a>&nbsp;(available in&nbsp;CZE, ENG, AR, RUS, FR).</p>
+<a href="https://portal.studyin.cz/find-your-institution/">https://portal.studyin.cz/find-your-institution/</a>) or&nbsp;read this&nbsp; 
+<a href="https://www.unhcr.org/cz/wp-content/uploads/sites/20/2019/03/CZ-2017-EDUCATION.pdf">handbook for parents</a>&nbsp;(available in&nbsp;CZE, ENG, AR, RUS, FR).</p>
 <h3>Housing</h3>
 <ul>
 <li>There are two types of&nbsp;housing in&nbsp;the&nbsp;Czech Republic – private and council housing</li>
