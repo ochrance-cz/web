@@ -2,7 +2,6 @@
 title: Pro média
 description: Kontaktní informace pro média
 ---
-**Michaela Vaisová**
+Během prázdnin se prosím s mediálními požadavky či dotazy obracejte na e-mail medialni@ochrance.cz. Některý z pracovníků PR se s Vámi spojí a domluví se na dalším postupu.
 
-* medialni@ochrance.cz
-* 607 275 704
+Děkujeme za pochopení.
