@@ -5,4 +5,7 @@ situace:
   - ombudsman-a-jeho-pravomoce
   - rodina
 file: detsky-ombudsman-zvlastni-opravneni.pdf
+attachments:
+  - title: anglicky
+    file: childrens-ombudsman-other-help.pdf
 ---
