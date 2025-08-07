@@ -63,3 +63,5 @@ Chcete rozumět tomu, jak diskriminaci poznat a řešit? Vyzkoušejte náš **[e
 * Zkonzultujeme s Vámi otázky ohledně diskriminace a poradíme, jak řešit konkrétní situaci.
 * Můžeme Vám doporučit jak zlepšit Vaše zákony, vyhlášky, metodiky a jiné materiály, aby byly v souladu s antidiskriminačním právem.  
 * Můžeme připravit vzdělávací akci o diskriminaci na míru Vašim potřebám.
+
+Naše [výroční zprávy o diskriminaci](https://www.ochrance.cz/vystupy/vyrocni_zprava_o_diskriminaci/) naleznete  v sekci Výstupy z činnosti, Sborníky a publikace.
