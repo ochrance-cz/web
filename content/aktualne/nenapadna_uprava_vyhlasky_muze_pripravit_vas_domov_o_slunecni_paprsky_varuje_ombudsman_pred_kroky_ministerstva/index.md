@@ -1,5 +1,5 @@
 ---
-title: Nenápadná úprava vyhlášky může připravit váš domov o sluneční paprsky,
+title: Nenápadná úprava vyhlášky může připravit váš domov o sluneční paprsky,
   varuje ombudsman před kroky ministerstva
 date: 2025-08-07T12:01:00
 vystupy:
