@@ -22,8 +22,6 @@ national origin), sex and gender, sexual orientation, age, disability, religion,
 
 Some other laws (such as the Schools Act, the Labour Code, the Consumer Protection Act, etc.) prohibit discrimination on other grounds, e.g., on the grounds of membership in trade unions and political parties, on the grounds of family status, social background, property, etc. Compliance with these regulations is supervised by other inspection bodies, such as the Czech Schools Inspectorate, the Czech Trade Inspection Authority, and the Labour Inspectorate.
 
-
-
 > *Termination of employment on grounds of age*
 >
 > As Marie reached her retirement age, her employer wanted to get rid of her and several other of her older colleagues. He tried to force them to accept an agreement on termination of employment. Those who did not accept lost annual bonuses and were threatened with a transfer to positions that would make their job as unpleasant as possible in order to force them to leave. When this intimidation tactic did not work, the employer gave them notice on grounds of redundancy, but announced a selection procedure for positions corresponding to their former positions immediately afterwards. Marie did not accept this form of discrimination and decided to defend herself. We confirmed that the employer’s conduct amounted to age discrimination. Marie turned to court and succeeded. The court decided that her notice of termination on grounds of redundancy was invalid. The employer appealed, but did not succeed. The case was finally closed by the Supreme Court, which upheld the decisions of the lower courts.
@@ -36,7 +34,9 @@ Some other laws (such as the Schools Act, the Labour Code, the Consumer Protecti
 >
 > Růžena needed to move into a flat that would better suit her disabled son. She twice applied for a municipal flat, won the tender procedure twice, but the municipality did not conclude a lease contract with her. Růžena did not like the procedure taken by the municipality and turned to the Ombudsman. The Ombudsman found that the municipality had treated Růžena differently compared to the other applicants. Non-Roma applicants who fulfilled the conditions for assigning a flat did get the contract. On the other hand, Růžena as a Roma person did not. The Ombudsman stated that this was a case of discrimination and recommended Růžena to file a lawsuit unless she reached an agreement with the municipality. The municipality acknowledged its error and concluded a lease contract with Růžena for an indefinite term.
 >
->
 > *Permanent residency requirement for employment*
 >
 > Terezia moved in with her boyfriend to neighbouring village and wanted to apply for a job at the municipal office there. She wasn't sure if it was okay that her permanent residence was still in Slovakia, as she has only lived in Czechia for 4 years. She consulted the Ombudsman and thanks to that she knows that she can apply for a job because her citizenship and type of residence in Czechia are not important when looking for a job.
+
+
+Our [annual reports on discrimination](https://www.ochrance.cz/en/vystupy/discrimination/) can be found in the section Our work, Discrimination.
