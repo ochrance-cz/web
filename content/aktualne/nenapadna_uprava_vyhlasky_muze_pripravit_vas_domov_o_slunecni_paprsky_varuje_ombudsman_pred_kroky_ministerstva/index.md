@@ -24,7 +24,8 @@ attachments:
 <p>
 <i>&nbsp;„Navrhovaná změna má potenciál významně snížit hodnotu stávajících staveb a citelně tak zasáhnout jejich vlastníky. Je neodůvodnitelné, aby jim novelizace vyhlášky odňala právo na obranu proti podstatnému zásahu do jejich vlastnických práv,“&nbsp;</i>domnívá se ombudsman Stanislav Křeček.&nbsp;</p>
 <figure class="image">
-<img src="https://www.ochrance.cz/aktualne/nenapadna_uprava_vyhlasky_muze_pripravit_vas_domov_o_slunecni_paprsky_varuje_ombudsman_pred_kroky_ministerstva/obr_formulace_vyhlaska.jpg" alt="obr_formulace_vyhlaska.jpg"></figure>
+<img src="https://www.ochrance.cz/aktualne/nenapadna_uprava_vyhlasky_muze_pripravit_vas_domov_o_slunecni_paprsky_varuje_ombudsman_pred_kroky_ministerstva/vyhlaska.jpg" alt="vyhlaska.jpg"></figure>
+<p>&nbsp;</p>
 <p>Již dříve městské stavební předpisy z&nbsp;požadavku na proslunění slevily v Praze a Brně, kde je vzhledem k&nbsp;hustotě zástavby specifická situace. Připravovaná novela vyhlášky by ale podobným způsobem zasáhla i do všech dalších měst a obcí.&nbsp;</p>
 <p>
 <i>&nbsp;„Apeluji na Ministerstvo pro místní rozvoj, aby z&nbsp;novely vyhlášky vypustilo nový prvek, kdy se&nbsp;za denní osvětlení nepovažuje požadavek na proslunění</i>, 
