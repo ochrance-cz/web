@@ -23,9 +23,8 @@ attachments:
 <p>Přímé sluneční záření (tzv. proslunění) je přitom důležitým faktorem pro lidské zdraví a psychiku i pro kvalitu bydlení. Kromě toho uživatelům stavby snižuje náklady na umělé osvětlení a vytápění. V&nbsp;neposlední řadě může ovlivnit i celkovou cenu nemovitosti.</p>
 <p>
 <i>&nbsp;„Navrhovaná změna má potenciál významně snížit hodnotu stávajících staveb a citelně tak zasáhnout jejich vlastníky. Je neodůvodnitelné, aby jim novelizace vyhlášky odňala právo na obranu proti podstatnému zásahu do jejich vlastnických práv,“&nbsp;</i>domnívá se ombudsman Stanislav Křeček.&nbsp;</p>
-<blockquote>
 <figure class="image">
-<img src="https://www.ochrance.cz/aktualne/nenapadna_uprava_vyhlasky_muze_pripravit_vas_domov_o_slunecni_paprsky_varuje_ombudsman_pred_kroky_ministerstva/formulace_ve_vyhlasce.jpg" alt="formulace_ve_vyhlasce.jpg"></figure></blockquote>
+<img src="https://www.ochrance.cz/aktualne/nenapadna_uprava_vyhlasky_muze_pripravit_vas_domov_o_slunecni_paprsky_varuje_ombudsman_pred_kroky_ministerstva/formulace_ve_vyhlasce.jpg" alt="formulace_ve_vyhlasce.jpg"></figure>
 <p>Již dříve městské stavební předpisy z&nbsp;požadavku na proslunění slevily v Praze a Brně, kde je vzhledem k&nbsp;hustotě zástavby specifická situace. Připravovaná novela vyhlášky by ale podobným způsobem zasáhla i do všech dalších měst a obcí.&nbsp;</p>
 <p>
 <i>&nbsp;„Apeluji na Ministerstvo pro místní rozvoj, aby z&nbsp;novely vyhlášky vypustilo nový prvek, kdy se&nbsp;za denní osvětlení nepovažuje požadavek na proslunění</i>, 
