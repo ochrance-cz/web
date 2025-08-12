@@ -170,7 +170,7 @@ lawyers:
         phone: 542 542 364
         email: jana.vasikova@ochrance.cz
       - name: Jitka Večeřová
-        role: právnička (stavební řízení, ochrana přírody a krajiny, odpady, ovzduší)
+        role: právnička (ochrana přírody a krajiny, odpady, ovzduší)
         phone: 542 542 282
         email: jitka.vecerova@ochrance.cz
   - title: Odbor ochrany práv dětí
