@@ -150,11 +150,11 @@ lawyers:
         phone: 542 542 351
         email: marek.hanak@ochrance.cz
       - name: Anežka Súkeníková
-        role: právnička (ochrana zvířat proti týrání)
+        role: právnička (ochrana zvířat proti týrání, ochrana vod)
         phone: 542 542 458
         email: hromirova@ochrance.cz
       - name: Hana Kašpárková
-        role: právnička (územní a stavební řízení, ochrana vod)
+        role: právnička (stavební řízení, ochrana vod)
         phone: 542 542 278
         email: hana.kasparkova@ochrance.cz
       - name: Tomáš Maňas
@@ -162,15 +162,15 @@ lawyers:
         phone: 542 542 397
         email: tomas.manas@ochrance.cz
       - name: Stanislava Neubauerová
-        role: právnička (územní a stavební řízení)
+        role: právnička (stavební řízení, odstraňování staveb)
         phone: 542 542 381
         email: stanislava.neubauerova@ochrance.cz
       - name: Jana Vašíková
-        role: právnička (územní a stavební řízení, památková péče)
+        role: právnička (stavební řízení, památková péče)
         phone: 542 542 364
         email: jana.vasikova@ochrance.cz
       - name: Jitka Večeřová
-        role: právnička (územní a stavební řízení, ochrana přírody a krajiny)
+        role: právnička (stavební řízení, ochrana přírody a krajiny, odpady, ovzduší)
         phone: 542 542 282
         email: jitka.vecerova@ochrance.cz
   - title: Odbor ochrany práv dětí
