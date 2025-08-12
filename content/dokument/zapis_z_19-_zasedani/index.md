@@ -1,6 +1,7 @@
 ---
 title: Zápis z 19. zasedání
-date: 2025-06-02
+perex: 2. června 2025
+date: 2025-08-12
 vystupy:
   - poradni-organ-crpd
 attachmentsTop:
