@@ -10,12 +10,12 @@ perex: >-
 
   <a href="https://cnn.iprima.cz/videa/problemovy-tabor-na-berounsku">v&nbsp;reportáži CNN Prima News „Problémový tábor na Berounsku“&nbsp;</a>. Autoři reportáže zaměnili 
 
-  <strong>veřejného ochránce práv dětí&nbsp;</strong>(nebo též dětského ombudsmana) a rezortního 
+  <strong>ochránce práv dětí&nbsp;</strong>(nebo též dětského ombudsmana) a rezortního 
 
   <strong>zmocněnce pro ústavní a ochrannou výchovu při Ministerstvu školství</strong> (nebo též ombudsmana MŠMT pro ústavní a ochrannou výchovu). Každý z&nbsp;nich má však zcela odlišnou roli. Pro lepší přehled o obou přinášíme stručné informace.</p>
 ---
 <p>
-<strong>Veřejný ochránce práv dětí (dětský ombudsman)</strong></p>
+<strong>Ochránce práv dětí (dětský ombudsman)</strong></p>
 <p>Dětská práva v&nbsp;Česku chrání od 1. července 2025, kdy jej zřídil 
 <a href="https://www.zakonyprolidi.cz/cs/1999-349">zákon</a>. Volí jej Poslanecká sněmovna. Volba zatím neproběhla, proto nyní jeho povinnosti dočasně vykonává 
 <a href="https://www.ochrance.cz/o-nas/deputy/">Vít Alexander Schorm</a>, zástupce veřejného ochránce práv a ochránce práv dětí.</p>
