@@ -2,8 +2,7 @@
 title: "Vyjasňujeme, kdo je kdo: dětský ombudsman vs. zmocněnec Ministerstva
   školství "
 date: 2025-08-18T11:46:00
-vystupy:
-  - aktualita
+vystupy: []
 perex: >-
   <p>V&nbsp;souvislosti s&nbsp;dětským ombudsmanem jsme ve veřejném prostoru
   zaznamenali nepřesné informace, o tom, kdo tuto funkci vykonává a jaké jsou
