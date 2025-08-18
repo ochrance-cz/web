@@ -27,9 +27,9 @@ perex: >-
 
   <li>Právníka/právničku do týmu ochrany práv osob se zdravotním postižením</li>
 
-  <li>Právník/právnička do týmu metodiky a analýzy</li>
+  <li>Právníka/právničku do týmu metodiky a analýzy</li>
 
-  <li>Právník/právnička pro oblast národní lidskoprávní instituce (NHRI)</li></ul>
+  <li>Právníka/právničku pro oblast národní lidskoprávní instituce (NHRI)</li></ul>
 ---
 <blockquote>
 <h3>
