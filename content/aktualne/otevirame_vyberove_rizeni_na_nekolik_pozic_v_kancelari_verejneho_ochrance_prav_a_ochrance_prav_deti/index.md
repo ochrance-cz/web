@@ -11,7 +11,7 @@ perex: >-
   na&nbsp;věk, pohlaví, zdravotní stav, rasu, etnický původ, národnost, sexuální
   orientaci, náboženské vyznání či&nbsp;světový názor. Jsme náročný, ale férový
   zaměstnavatel. Pokud vás zajímá blíže, jak to u nás chodí, koukněte do
-  naší&nbsp;
+  naší&nbsp; 
 
   <a href="https://www.ochrance.cz/media/personalni_strategie.pdf">personální strategie</a>.</p>
 
@@ -25,16 +25,20 @@ perex: >-
 
   <li>Právníka/právničku do týmu veřejného pořádku, zdravotnictví a práce</li>
 
-  <li>Právníka/právničku do týmu ochrany práv osob se zdravotním postižením</li></ul>
+  <li>Právníka/právničku do týmu ochrany práv osob se zdravotním postižením</li>
+
+  <li>Právník/právnička do týmu metodiky a analýzy</li>
+
+  <li>Právník/právnička pro oblast národní lidskoprávní instituce (NHRI)</li></ul>
 ---
 <blockquote>
 <h3>
 <strong>Právník/právnička v&nbsp;oblasti&nbsp;ochrany práv dětí&nbsp;</strong></h3>
 <ul>
-<li>Vyřizování individuálních podnětů z
-<strong>&nbsp;</strong>oblasti rodinně-právní: agenda sociálně-právní ochrany dětí a náhradní rodinné péče.</li>
-<li>Vyřizování individuálních podnětů z
-<strong>&nbsp;</strong>oblasti školství.</li>
+<li>Vyřizování individuálních podnětů z&nbsp;
+<strong> </strong>oblasti rodinně-právní: agenda sociálně-právní ochrany dětí a náhradní rodinné péče.</li>
+<li>Vyřizování individuálních podnětů z&nbsp;
+<strong> </strong>oblasti školství.</li>
 <li>Odborná příprava podkladů pro ochránce práv dětí (dětského ombudsmana) a veřejného ochránce práv.</li>
 <li>Zpracování systémových témat a doporučení.</li>
 <li>Vedení odborných seminářů pro pracovníky veřejné správy a neziskové organizace.</li>
@@ -46,11 +50,11 @@ perex: >-
 <li>Systematické sledování naplňování práv dětí dle Úmluvy o právech dítěte a dalších mezinárodních právních předpisů.</li>
 <li>Spolupráce na výzkumech a při zpracování výzkumných zpráv.</li>
 <li>Zpracování doporučení a zpráv týkajících se naplňování práv dětí v&nbsp;ČR.</li>
-<li>Participace dětí na činnosti dětského ombudsmana (DO). </li>
+<li>Participace dětí na činnosti dětského ombudsmana (DO).</li>
 <li>Organizace a příprava podkladů pro jednání poradního orgánu DO.</li>
-<li>Organizace a podklady participačních pracovních skupin DO. </li>
+<li>Organizace a podklady participačních pracovních skupin DO.</li>
 <li>Účast na soudních řízeních u Ústavního soudu a obecných soudů.</li>
-<li>Zobecňování poznatků z&nbsp;podnětů pro využití zvláštních oprávnění DO, příprava připomínek k návrhům zákonů a dalších právních předpisů. </li>
+<li>Zobecňování poznatků z&nbsp;podnětů pro využití zvláštních oprávnění DO, příprava připomínek k návrhům zákonů a dalších právních předpisů.</li>
 <li>Osvěta ve vztahu k dětem/NNO/veřejnosti.</li>
 <li>Prezentace poznatků z&nbsp;činnosti DO na vnitrostátních i zahraničních fórech/spolupráce s&nbsp;NNO a zahraničními orgány.</li></ul>
 <p>Je možné se specializovat, ale i kombinovat více činností.</p></blockquote>
@@ -58,12 +62,12 @@ perex: >-
 <h3>
 <strong>Právník/právnička do týmu veřejného pořádku, zdravotnictví a práce</strong></h3>
 <ul>
-<li>Vyřizování individuálních podnětů zejména z
-<strong>&nbsp;</strong>oblasti ochrany spotřebitele a přestupků.</li>
+<li>Vyřizování individuálních podnětů zejména z&nbsp;
+<strong> </strong>oblasti ochrany spotřebitele a přestupků.</li>
 <li>Odborná příprava podkladů pro veřejného ochránce práv a ochránce práv dětí.</li>
 <li>Zpracování připomínek k právním předpisům.</li>
 <li>Zpracování systémových témat a doporučení.</li>
-<li>Vedení odborných seminářů pro pracovníky veřejné správy i laickou veřejnost. </li>
+<li>Vedení odborných seminářů pro pracovníky veřejné správy i laickou veřejnost.</li>
 <li>Reprezentace Kanceláře veřejného ochránce práv a ochránce práv dětí na národní i mezinárodní úrovni.</li></ul></blockquote>
 <blockquote>
 <h3>
@@ -80,6 +84,29 @@ perex: >-
 <li>Příprava podkladů pro zprávy,&nbsp; stanoviska a doporučení veřejného ochránce práv.</li>
 <li>Reprezentace Kanceláře veřejného ochránce práv a ochránce práv dětí na národní i mezinárodní úrovni.</li>
 <li>Osvětové aktivity určené široké veřejnosti.</li></ul></blockquote>
+<blockquote>
+<h3>
+<strong>Právník/právnička do týmu metodiky a analýzy</strong></h3>
+<ul>
+<li>Evidence a analýza právních názorů veřejného ochránce práv (ESO). </li>
+<li>Zpracovávání právních analýz a rešerší (k průřezovým právním otázkám, nejen lidskoprávním otázkám). </li>
+<li>Zpracovávání interních analytických a metodických materiálů.</li>
+<li>Zpracovávání připomínek k právním předpisům.</li>
+<li>Anotace zahraniční judikatury.</li>
+<li>Spolupráce na přehledech odborné literatury.</li></ul></blockquote>
+<blockquote>
+<h3>
+<strong>Právník/právnička pro oblast národní lidskoprávní instituce (NHRI)</strong></h3>
+<ul>
+<li>Úkoly spojené se systematickým sledováním základních práv a svobod. &nbsp;</li>
+<li>analytická činnost spojená s&nbsp;lidskoprávním monitoringem.</li>
+<li>spolupráce na výzkumech a zpracování výzkumných zpráv.</li>
+<li>zpracování doporučení a zpráv týkajících se naplňování základních práv. </li>
+<li>Úkoly spojené s participací občanské veřejnosti na výkonu mandátu národní lidskoprávní instituce. </li>
+<li>organizace a podklady pro jednání poradního orgánu. </li>
+<li>organizace a podklady participačních pracovních skupin.</li>
+<li>Příprava připomínek k návrhům zákonů a dalších právních předpisů. </li>
+<li>Osvěta a vzdělávání v&nbsp;oblasti základních práv.</li></ul></blockquote>
 <h3>
 <strong>Co od Vás požadujeme:</strong></h3>
 <ul>
@@ -90,7 +117,8 @@ perex: >-
 <li>Otevřenost, zájem o&nbsp;nové věci, aktivní a&nbsp;inovativní přístup, flexibilitu a&nbsp;týmového ducha.</li>
 <li>Dobrou znalost souvisejících právních předpisů.</li>
 <li>Aktivní znalost světového jazyka slovem i&nbsp;písmem (preference anglického jazyka), případně znalost dalšího světového jazyka je výhodou.</li>
-<li>Znalost mezinárodních úmluv a dokumentů OSN, Rady Evropy, Evropské unie v dané oblasti včetně judikatury ESLP oceníme. </li>
+<li>Znalost mezinárodních úmluv a dokumentů OSN, Rady Evropy, Evropské unie v dané oblasti včetně judikatury ESLP oceníme.</li>
+<li>V&nbsp;týmu metodiky a analýz uvítáme dobrou znalost zákona&nbsp;o veřejném ochránci práv a o ochránci práv dětí, správního řádu a kontrolního řádu.</li>
 <li>Další praxe či vzdělání v&nbsp;souvisejících oborech (psychologie, pedagogika, sociální práce) jsou vítány.</li>
 <li>Praxe v&nbsp;dané oblasti je výhodou.</li></ul>
 <h3>
@@ -105,7 +133,7 @@ perex: >-
 <li>5 dnů osobního volna ročně,</li>
 <li>příspěvek na stravování ve výši 89 Kč na den,</li>
 <li>práci v&nbsp;centru Brna s&nbsp;možností parkování.</li></ul>
-<p>Jestli se k&nbsp;nám chcete připojit, napište nám do&nbsp;
-<strong>3. 9. 2025</strong> na&nbsp;adresu&nbsp;
+<p>Jestli se k&nbsp;nám chcete připojit, napište nám do&nbsp; 
+<strong>3. 9. 2025</strong> na&nbsp;adresu&nbsp; 
 <strong>wiszova@ochrance.cz</strong>. Napište nám, proč s&nbsp;námi chcete spolupracovat a o kterou z&nbsp;pozic máte zájem. Připojte Váš strukturovaný životopis. Napište také, pokud máte nějaké specifické potřeby nebo doplňující otázky (například v&nbsp;souvislosti se zdravotním omezením).&nbsp;</p>
 <p>Na termínu nástupu se můžeme domluvit.</p>
