@@ -4,9 +4,22 @@ linksAfter: []
 ---
 <h2>
 <strong>Volná místa</strong></h2>
-<p>Pro výkon&nbsp;
-<a href="https://www.ochrance.cz/aktualne/od_dnesniho_dne_najdou_deti_pravni_ochranu_pod_kridly_detskeho_ombudsmana_hlidacim_psem_lidskych_prav_se_stava_narodni_lidskopravni_instituce_nhri_vse_pod_jednou_strechou_v_brne/">nových působností</a>&nbsp;otevíráme výběrové řízení na pozici výzkumný pracovník/pracovnice se zaměřením na sledování základních práv a svobod a/nebo se zaměřením na práva dětí.&nbsp;Více informací najdete v 
+<p>Pro výkon&nbsp; 
+<a href="https://www.ochrance.cz/aktualne/od_dnesniho_dne_najdou_deti_pravni_ochranu_pod_kridly_detskeho_ombudsmana_hlidacim_psem_lidskych_prav_se_stava_narodni_lidskopravni_instituce_nhri_vse_pod_jednou_strechou_v_brne/">nových působností</a>&nbsp;otevíráme výběrové řízení na pozici 
+<strong>výzkumný pracovník/pracovnice se zaměřením na sledování základních práv a svobod a/nebo se zaměřením na práva dětí.</strong>&nbsp;Termín pro posílání přihlášek je do 24. srpna 2025. Více informací najdete v 
 <a href="https://www.ochrance.cz/aktualne/hledame_vyzkumne_pracovniky_pro_vykon_novych_pusobnosti_detskeho_ombudsmana_a_narodni_lidskopravni_instituce_nhri/">inzerátu</a>.</p>
+<p>Momentálně je otevřeno také výběrové řízení na několik pozic v Kanceláři veřejného ochránce práv a ochránce práv dětí. Prostor pro podávání přihlášek je do 3. září 2025. Více informací najdete v 
+<a href="https://www.ochrance.cz/aktualne/otevirame_vyberove_rizeni_na_nekolik_pozic_v_kancelari_verejneho_ochrance_prav_a_ochrance_prav_deti/">inzerátu</a>.</p>
+<p>Právě hledáme:</p>
+<ul>
+<li>
+<strong>Právníka/právničku v&nbsp;oblasti ochrany práv dětí</strong></li>
+<li>
+<strong>Kolegu/kolegyni pro oblast sledování dodržování práv dětí (právní nebo jiné související vzdělání)</strong></li>
+<li>
+<strong>Právníka/právničku do&nbsp;týmu veřejného pořádku, zdravotnictví a&nbsp;práce</strong></li>
+<li>
+<strong>Právníka/právničku do&nbsp;týmu ochrany práv osob se&nbsp;zdravotním postižením</strong></li></ul>
 <p>
 <strong>Stáže pro studenty právnických fakult</strong></p>
 <p>Na stáž se můžete přihlásit přes svou právnickou fakultu v&nbsp;Brně, Olomouci a Praze. Pokud nevíte, koho ve škole oslovit, napište kolegyni Haně Suské na adresu 
