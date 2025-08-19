@@ -26,7 +26,7 @@ attachments:
 <i>„Úřad v&nbsp;posledních letech poskytoval opatrovanému značnou podporu, která přinesla své plody –</i> 
 <i>napříkla</i>d 
 <i>stabilní bydlení, vyřízení sociálních dávek, splacené dluhy, zapojení do sociálních i zdravotních služeb.</i> 
-<i>V&nbsp;záležitosti týkající se občanského průkazu však nepostupoval správně. Domníval se, že může podání žádosti o občanský průkaz odmítnout, aby opatrovaného chránil. Podle rozsudku soudu&nbsp;
+<i>V&nbsp;záležitosti týkající se občanského průkazu však nepostupoval správně. Domníval se, že může podání žádosti o občanský průkaz odmítnout, aby opatrovaného chránil. Podle rozsudku soudu
 <strong> </strong>si ale opatrovaný může o občanský průkaz požádat i bez jeho souhlasu,“</i> shrnul své závěry Vít Alexander Schorm.&nbsp;</p>
 <blockquote>
 <p>
