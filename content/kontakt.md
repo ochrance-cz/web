@@ -40,7 +40,7 @@ access:
     **Linky 38 a 39:** nepojedou na Komenského náměstí a v centru města jsou ukončeny na zastávce Česká. Ve směru do centra jedou z **Úvozu** přes zastávku Grohova na Českou. Ve směru do Masarykovy čtvrti jedou z České přes zastávky Smetanova, Sušilova, Konečného náměstí, Čápkova na **Úvoz** a dále po svých trasách směr Preslova/Barvičova.
 
 
-    V﻿íce informací na webu [Kopeme za Brno](https://kopemezabrno.cz/2024/08/16/celkova-rekonstrukce-udolni-zacne-v-zari-na-co-se-pripravit/).
+    V﻿íce informací na webu [Kopeme za Brno](https://kopemeza.brno.cz/uzavirky-a-omezeni/udolni-usek-mezi-husovou-a-jirikovskeho/).
   universal: >-
     Návštěvníci Kanceláře se zdravotním postižením mají na parkovišti u budovy
     vyhrazena vhodná parkovací místa a pokud při příjezdu ohlásí tuto potřebu na
@@ -51,7 +51,7 @@ access:
     U﻿pozorňujeme Vás, že od 1. září 2024 je ulice Údolní kvůli probíhající rekonstrukci uzavřená pro osobní dopravu. Průjezd je značně ztížen. Pokud byste potřebovali do Kanceláře veřejného ochránce práv přijet autem, požádejte si předem o povolení vjezdu e-mailem na adrese petr.lesa@ochrance.cz.
 
 
-    V﻿íce informací na webu [Kopeme za Brno](https://kopemezabrno.cz/2024/08/16/celkova-rekonstrukce-udolni-zacne-v-zari-na-co-se-pripravit/).
+    V﻿íce informací na webu [Kopeme za Brno](https://kopemeza.brno.cz/uzavirky-a-omezeni/udolni-usek-mezi-husovou-a-jirikovskeho/).
   pic: /images/kontakt.jpg
 pressAgent:
   role: "Kontakt pro média "
