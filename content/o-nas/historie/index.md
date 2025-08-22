@@ -4,20 +4,41 @@ illustration: historie-budova.jpg
 order: 4
 timeline:
   - time: "2025"
-    desc: |-
-      Dětský ombudsman byl zřízen zákonem č. 77/2025 Sb.
-      Prvním zástupcem dětského ombudsmana se stal JUDr. Vít Alexander Schorm
+    desc: >-
+      Dětský ombudsman byl zřízen zákonem č. 77/2025 Sb. Prvním zástupcem
+      dětského ombudsmana se stal JUDr. Vít Alexander Schorm
+
+
+      Vznikla také Národní lidskoprávní instituce (NHRI), jejíž hlavní činností je ochrana a nezávislé prosazování lidských práv.
   - time: "2022"
     desc: Zástupce ombudsmana JUDr. Vít Alexander Schorm
   - time: 2020
     desc: Ombudsman JUDr. Stanislav Křeček a zástupkyně ombudsmana Mgr. Monika
       Šimůnková
+  - time: "2018"
+    desc: "Počínaje lednem 2018 zastává ombudsman také funkci monitorovacího orgánu
+      pro naplňování práv zakotvených Úmluvou o právech osob se zdravotním
+      postižením a pomáhá také cizincům-občanům Evropské unie, kteří žijí nebo
+      pracují v České republice. "
   - time: 2014
     desc: Ombudsman Mgr. Anna Šabatová, Ph.D., zástupce ombudsmana JUDr. Stanislav
       Křeček
+  - time: "2011"
+    desc: Od roku 2011 ombudsman sleduje v rámci prevence špatného zacházení
+      zajištění cizinců a výkon správního vyhoštění.
   - time: 2010
     desc: Ombudsman JUDr. Pavel Varvařovský, zástupkyně ombudsmana RNDr. Jitka
       Seitlová
+  - time: "2009"
+    desc: "Ombudsman byl pověřen rolí národního orgánu pro rovné zacházení a ochrany
+      před diskriminací (equality body). "
+  - time: "2006"
+    desc: Prvním rozšířením byla agenda dohledu nad omezováním osobní svobody.
+      Ombudsman je od roku 2006 národním preventivním mechanismem (NPM) a chrání
+      lidi omezené na svobodě před špatným zacházením.
+  - time: "2001"
+    desc: "Již od roku 2001 ombudsman chrání osoby před nezákonným či jinak
+      nesprávným jednáním nebo nečinností správních úřadů a dalších institucí. "
   - time: 2000
     desc: První český ombudsman JUDr. Otakar Motejl, zástupkyně ombudsmana Mgr. Anna
       Šabatová
