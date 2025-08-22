@@ -1,5 +1,5 @@
 ---
-title: O Kanceláři veřejného ochránce práv a ochránce práv dětí
+title: O ombudsmanovi a dětském ombudsmanovi
 menuTitle: O nás
 description: >-
   Ombudsman (oficiálně veřejný ochránce práv) chrání osoby před jednáním úřadů a
