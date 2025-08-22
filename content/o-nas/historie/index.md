@@ -6,7 +6,7 @@ timeline:
   - time: "2025"
     desc: >-
       Dětský ombudsman byl zřízen zákonem č. 77/2025 Sb. Prvním zástupcem
-      dětského ombudsmana se stal JUDr. Vít Alexander Schorm
+      dětského ombudsmana se stal JUDr. Vít Alexander Schorm.
 
 
       Vznikla také Národní lidskoprávní instituce (NHRI), jejíž hlavní činností je ochrana a nezávislé prosazování lidských práv.
