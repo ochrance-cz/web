@@ -24,7 +24,7 @@ access:
     Přístup do Kanceláře veřejného ochránce práv je od 1. září 2024 ztížený
     kvůli probíhající rekonstrukci ulice Údolní. Ulice Údolní v úseku od Husovy
     po křižovatku s Jiříkovského je uzavřená pro osobní a hromadnou dopravu.
-    Průchod pro pěší je zachovaný.
+    Průchod pro pěší je zachovaný. 
 
 
     V﻿íce informací na webu [Kopeme za Brno.](https://kopemeza.brno.cz/uzavirky-a-omezeni/udolni-usek-mezi-husovou-a-jirikovskeho/)
