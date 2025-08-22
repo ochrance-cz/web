@@ -58,7 +58,7 @@ Chcete rozumět tomu, jak diskriminaci poznat a řešit? Vyzkoušejte náš **[e
 * Můžeme připravit vzdělávací akci o diskriminaci na míru Vašim potřebám.
 * Pokud Vám úřad dal pokutu za diskriminaci a Vy s ní nesouhlasíte, můžeme prověřit, zda úřad postupoval správně.
 
-**Politická reprezentace (tvoříte politiky, legislativu, rozhodujete o druhých):**
+**Politici (tvoříte politiky, legislativu, rozhodujete o druhých):**
 
 * Zkonzultujeme s Vámi otázky ohledně diskriminace a poradíme, jak řešit konkrétní situaci.
 * Můžeme Vám doporučit jak zlepšit Vaše zákony, vyhlášky, metodiky a jiné materiály, aby byly v souladu s antidiskriminačním právem.  
