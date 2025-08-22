@@ -27,7 +27,7 @@ access:
     Průchod pro pěší je zachovaný.
 
 
-    V﻿íce informací na webu [Kopeme za Brno](https://kopemezabrno.cz/2024/08/16/celkova-rekonstrukce-udolni-zacne-v-zari-na-co-se-pripravit/).
+    V﻿íce informací na webu [Kopeme za Brno](https://kopemeza.brno.cz/uzavirky-a-omezeni/udolni-usek-mezi-husovou-a-jirikovskeho/).
   public: >-
     Ulice Údolní je od 1. září 2024 kvůli probíhající rekonstrukci uzavřená pro
     městskou hromadnou dopravu. D﻿o Kanceláře veřejného ochránce práv se můžete
