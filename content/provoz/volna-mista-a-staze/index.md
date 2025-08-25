@@ -20,16 +20,6 @@ linksAfter: []
 <strong>Právníka/právničku do týmu metodiky a analýzy</strong></li>
 <li>
 <strong>Právníka/právničku pro oblast národní lidskoprávní instituce (NHRI)</strong></li></ul>
-<p>Stále je ještě otevřené také výběrové řízení na</p>
-<ul>
-<li>
-<p>
-<strong>Výzkumného pracovníka/výzkumnou pracovnici se zaměřením na sledování základních práv a svobod a/nebo se zaměřením na práva dětí pro výkon </strong>
-<a href="https://www.ochrance.cz/aktualne/od_dnesniho_dne_najdou_deti_pravni_ochranu_pod_kridly_detskeho_ombudsmana_hlidacim_psem_lidskych_prav_se_stava_narodni_lidskopravni_instituce_nhri_vse_pod_jednou_strechou_v_brne/">
-<strong>nových působností</strong></a>&nbsp;
-<strong>&nbsp;</strong></p>
-<p>Termín pro posílání přihlášek do týmu výzkumníků je do 24. srpna 2025. Více informací najdete v 
-<a href="https://www.ochrance.cz/aktualne/hledame_vyzkumne_pracovniky_pro_vykon_novych_pusobnosti_detskeho_ombudsmana_a_narodni_lidskopravni_instituce_nhri/">inzerátu</a>.</p></li></ul>
 <p>
 <strong>Stáže pro studenty právnických fakult</strong></p>
 <p>Na stáž se můžete přihlásit přes svou právnickou fakultu v&nbsp;Brně, Olomouci a Praze. Pokud nevíte, koho ve škole oslovit, napište kolegyni Haně Suské na adresu 
