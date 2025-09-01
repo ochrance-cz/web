@@ -20,7 +20,7 @@ attachments:
 ---
 <p>
 <i>„Musím pochválit čerstvě sedmnáctiletého chlapce, že se dokázal sám obrátit na všechna místa, která byla vhodná. Mrzí mě, že se mu ani přesto ihned nedostalo potřebné pomoci</i>,“ uvedl zástupce ombudsmana a dětského ombudsmana Vít Alexander Schorm k&nbsp;situaci, že policie mladíka odbyla s&nbsp;tím, že nic dělat nebude. Prodleva nastala i u OSPOD. Případ si totiž mezi sebou předávala dvě pracoviště a v&nbsp;době dovolených to neproběhlo nejrychleji.</p>
-<p>Dospívající Patrik* to nevzdal a po neúspěších přišel osobně pro radu také k&nbsp;dětskému ombudsmanovi. „ 
+<p>Dospívající Patrik* to nevzdal a po neúspěších přišel osobně pro radu také k&nbsp;dětskému ombudsmanovi. „
 <i>Poradili jsme mu, jak může dál postupovat. Poučili jsme ho, na co vše má právo. Například jsme mu vysvětlili, co může dělat on nebo babička, která se o něj začala starat, aby se nedostali do finanční nouze</i>,“ vyjmenoval Schorm.&nbsp;</p>
 <p>Právníci z&nbsp;týmu, který se věnuje ochraně práv dětí, se obrátili také na OSPOD. Usilovali o to, aby se věci daly do pohybu. Patrikovi nabídli, že jeho podání postoupí policii, která ho neměla odmítnout. To nevyužil. Po poučení se rozhodl, že na policii půjde znovu sám, ale nenechá se již odbýt.</p>
 <p>Dětský ombudsman za dva měsíce svého fungování obdržel více než 220 podnětů. Nejčastěji řešil problémy v&nbsp;rodinách nebo s příspěvkem na péči pro děti. Zabýval se také průtahy v soudních řízeních ve věci dětí, dostupností škol a sociálních služeb pro děti, procesem udělování pobytových oprávnění dětem s cizí státní příslušností či nejrůznějšími problémy v oblasti zdravotnictví. Posuzoval již také několik žádostí o vstup do různých soudních řízení a navštívil dvě zařízení pro děti.</p>
