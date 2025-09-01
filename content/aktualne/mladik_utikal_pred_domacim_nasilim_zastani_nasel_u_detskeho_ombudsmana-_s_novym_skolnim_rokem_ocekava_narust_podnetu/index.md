@@ -7,7 +7,7 @@ vystupy:
 perex: <p>Dospívající chlapec utekl od mámy a otčíma k babičce, protože ho otčím
   bil. Oznámil to na OSPOD i policii. Pomoci se mu ale nedostalo. Přišel si tak
   pro radu za dětským ombudsmanem. Ten mu vysvětlil, jak může ve své situaci
-  postupovat, a obrátil se i na OSPOD. Dalších 223 případů řešil dětský
+  postupovat, a obrátil se i na OSPOD. Dalších 228 případů řešil dětský
   ombudsman za dva měsíce svého fungování. Se začátkem školního roku očekává
   nárůst podnětů zejména z&nbsp;oblasti školství.</p>
 attachments:
