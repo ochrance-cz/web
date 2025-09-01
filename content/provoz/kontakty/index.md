@@ -167,6 +167,10 @@ lawyers:
         role: právnička (ochrana přírody a krajiny, odpady, ovzduší)
         phone: 542 542 282
         email: jitka.vecerova@ochrance.cz
+      - name: Michaela Staňková
+        role: právnička (stavební řízení)
+        phone: 542 542 279
+        email: michaela.stankova@ochrance.cz
   - title: Odbor ochrany práv dětí
     intro: veřejné zdravotní pojištění, stížnosti ve zdravotnictví, činnost OSPOD,
       ústavní výchova, evidence uchazečů o zaměstnání u Úřadu práce, inspekce
@@ -225,6 +229,19 @@ lawyers:
         role: právnička (sociálně-právní ochrana dětí, pěstounská péče)
         phone: 542 542 344
         email: iva.vodakova@ochrance.cz
+      - name: Veronika Barešová
+        role: právnička (sociálně-právní ochrana dětí, vstupy do soudních řízení,
+          monitoring)
+        phone: 542 542 233
+        email: veronika.baresova@ochrance.cz
+      - name: Agata Bárta
+        role: právnička (sociálně-právní ochrana dětí, pěstounská péče)
+        phone: 542 542 384
+        email: agata.barta@ochrance.cz
+      - name: Johana Ješátková
+        role: právnička (sociálně-právní ochrana dětí, pěstounská péče)
+        phone: 542 542 308
+        email: johana.jesatkova@ochrance.cz
   - title: Odbor veřejného pořádku, zdravotnictví a práce
     intro: >
       matriky, evidence obyvatel, občanské a cestovní průkazy, státní občanství,
@@ -460,6 +477,10 @@ lawyers:
         role: právník
         phone: 542 542 252
         email: tomas.koznarek@ochrance.cz
+      - name: Eva Nehudková
+        role: Eva Nehudková
+        phone: 542 542 247
+        email: eva.nehudkova@ochrance.cz
   - title: Odbor dohledu nad omezováním osobní svobody
     intro: >
       provádění systematických preventivních návštěv v zařízení, kde se mohou
@@ -511,6 +532,14 @@ lawyers:
         role: "právnička "
         phone: 542 542 328
         email: "jana.repova@ochrance.cz "
+      - name: Kristýna Andrlová
+        role: "právnička "
+        phone: 542 542 269
+        email: kristyna.andrlova@ochrance.cz
+      - name: Kateřina Chaloupková
+        role: "právnička "
+        phone: 542 542 283
+        email: katerina.chaloupkova@ochrance.cz
   - title: Odbor ochrany práv osob se zdravotním postižením
     people:
       - name: Romana Jakešová
@@ -571,6 +600,10 @@ lawyers:
         role: referent, Oddělení metodiky a analýz
         phone: 542 542 396
         email: dubjak1@ochrance.cz
+      - name: Zuzana Durajová
+        role: právnička, Oddělení metodiky a analýz
+        phone: 542 542 255
+        email: zuzana.durajova@ochrance.cz
   - title: Oddělení výzkumu
     people:
       - name: Jakub Konečný
