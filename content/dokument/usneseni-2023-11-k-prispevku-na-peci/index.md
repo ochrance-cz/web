@@ -8,6 +8,6 @@ vystupy:
 attachmentsTop:
   - title: Usnesení poradního orgánu veřejného ochránce práv pro oblast ochrany práv
       osob se zdravotním postižením k příspěvku na péči
-    file: https://www.ochrance.cz/dokument/usneseni_k_prispevku_na_peci/usneseni_2023_11_k_prispevku_na_peci.docx
+    file: https://www.ochrance.cz/dokument/usneseni-2023-11-k-prispevku-na-peci/usneseni_2023_11_k_prispevku_na_peci.docx
 attachments: []
 ---
