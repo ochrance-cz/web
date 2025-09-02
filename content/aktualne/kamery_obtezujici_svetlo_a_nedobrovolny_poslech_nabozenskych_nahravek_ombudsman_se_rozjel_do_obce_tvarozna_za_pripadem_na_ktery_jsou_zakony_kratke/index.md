@@ -6,8 +6,8 @@ vystupy:
   - tz
 perex: <p>„Náboženský teror“ tak podle médií popsali někteří obyvatelé obce
   Tvarožná nahrávky, které se po většinu dne linuly z&nbsp;jednoho místního
-  pozemku. Ombudsman Stanislav Křeček se rozhodl přímo na místě přesvědčit, jak
-  se úřady vypořádávají s podobnými případy.&nbsp;</p>
+  pozemku. Ombudsman Stanislav Křeček se rozhodl přímo na místě zjistit, jak se
+  úřady vypořádávají s podobnými případy.&nbsp;</p>
 attachments:
   - title: "Seznam Zprávy "
     link: "
