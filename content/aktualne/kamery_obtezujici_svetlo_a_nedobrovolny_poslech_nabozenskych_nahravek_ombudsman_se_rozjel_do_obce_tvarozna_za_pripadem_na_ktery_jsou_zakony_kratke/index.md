@@ -1,5 +1,5 @@
 ---
-title: Kamery, obtěžující světlo a nedobrovolný poslech náboženských nahrávek?
+title: Kamery, obtěžující světlo a nedobrovolný poslech náboženských nahrávek?
   Ombudsman se rozjel do obce Tvarožná za případem, na který jsou zákony krátké
 date: 2025-09-02T16:33:00
 vystupy:
