@@ -1,6 +1,6 @@
 ---
 title: Jak Česko plní své povinnosti z Úmluvy o právech osob se zdravotním postižením?
-perex: Analýza s využitím lidskoprávních ukazatelů
+perex: "Analýza s využitím lidskoprávních ukazatelů "
 date: 2025-09-03
 vystupy:
   - vyzkumy
