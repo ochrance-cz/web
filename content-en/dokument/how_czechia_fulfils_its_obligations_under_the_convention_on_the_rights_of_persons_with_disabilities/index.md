@@ -1,7 +1,7 @@
 ---
 title: How Czechia Fulfils its Obligations under the Convention on the Rights of
   Persons with Disabilities
-perex: Human Rights Indicators-Based Analysis
+perex: "Human Rights Indicators-Based Analysis "
 date: 2025-09-03
 vystupy:
   - researches
