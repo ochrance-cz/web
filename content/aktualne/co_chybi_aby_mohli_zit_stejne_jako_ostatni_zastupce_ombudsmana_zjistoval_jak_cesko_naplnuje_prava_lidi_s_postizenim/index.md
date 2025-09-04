@@ -12,17 +12,14 @@ perex: <p>V České republice stále existují překážky, které lidem s posti
   38 %.</p>
 attachments:
   - file: https://www.ochrance.cz/dokument/jak_cesko_plni_sve_povinnosti_z_umluvy_o_pravech_osob_se_zdravotnim_postizenim/analyza_s_vyuzitim_lidskopravnich_ukazatelu.pdf
-    title: "Jak Česko plní své povinnosti z Úmluvy o právech osob se zdravotním
-      postižením? "
+    title: Zpráva a její shrnutí v českém jazyce
   - file: https://www.ochrance.cz/dokument/jak_cesko_plni_sve_povinnosti_z_umluvy_o_pravech_osob_se_zdravotnim_postizenim/human_rights_indicators-based_analysis.pdf
-    title: How Czechia Fulfils its Obligations under the Convection on the Rights of
-      Persons with Disabilities
+    title: Zpráva a její shrnutí v anglickém jazyce
   - title: Shrnutí výzkumu (factsheet)
     file: https://www.ochrance.cz/aktualne/co_chybi_aby_mohli_zit_stejne_jako_ostatni_zastupce_ombudsmana_zjistoval_jak_cesko_naplnuje_prava_lidi_s_postizenim/shrnuti_vyzkumu_ombudsmana_2025.pdf
-  - title: Jednoduchá verze shrnutí významu
+  - title: Shrnutí ve verzi pro snadné čtení (easy to read)
     link: https://www.ochrance.cz/dokument/jak_cesko_plni_sve_povinnosti_z_umluvy_o_pravech_osob_se_zdravotnim_postizenim/jednoducha_verze_shrnuti_vyzkumu.pdf
-  - title: Dodržuje Česko práva lidí s postižením? Shrnutí výzkumu ombudsmana v
-      českém znakovém jazyce
+  - title: Video v českém znakovém jazyce
     file: https://youtu.be/wFIGGA25QcE
 ---
 <p>Výzkum poprvé zhodnotil naplňování práv lidí s postižením pomocí tzv. lidskoprávních ukazatelů. Ty umožňují zjistit, jak vypadá skutečný život lidí s postižením – nejen co říká zákon, ale co stát dělá a jaké to má dopady.&nbsp;</p>
