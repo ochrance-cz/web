@@ -9,4 +9,7 @@ attachmentsTop:
     title: Analýza s využitím lidskoprávních ukazatelů
   - file: https://www.ochrance.cz/dokument/jak_cesko_plni_sve_povinnosti_z_umluvy_o_pravech_osob_se_zdravotnim_postizenim/human_rights_indicators-based_analysis.pdf
     title: Human Rights Indicators-Based Analysis
+attachments:
+  - file: https://www.ochrance.cz/dokument/jak_cesko_plni_sve_povinnosti_z_umluvy_o_pravech_osob_se_zdravotnim_postizenim/jednoducha_verze_shrnuti_vyzkumu.pdf
+    title: Jednoduchá verze shrnutí výzkumu
 ---
