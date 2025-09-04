@@ -38,7 +38,8 @@ attachments:
 <p>
 <i>“The research shows that without a clear plan, adequate support services, and trust in the abilities of people with disabilities, progress will remain limited. In our report, we offer recommendations that can contribute to real change – so that people with disabilities can live more independently, with dignity, and according to their own choices,”</i> says Romana Jakešová, Head of the Department for Protection of Rights of Persons with Disabilities at the Office of the Public Defender of Rights and Defender of Children’s Rights. She notes that the Defender’s advisory body, composed of people with disabilities and advocacy organisations, was also involved in the research activities.</p>
 <blockquote>
-<p>In the report, the Deputy Defender recommends, among other things:</p>
+<p>
+<strong>In the report, the Deputy Defender recommends, among other things:</strong></p>
 <ul>
 <li>developing a more effective government strategy on the rights of persons with disabilities for 2026–2030;</li>
 <li>supporting independent decision-making for people with disabilities instead of restricting their legal capacity;</li>
