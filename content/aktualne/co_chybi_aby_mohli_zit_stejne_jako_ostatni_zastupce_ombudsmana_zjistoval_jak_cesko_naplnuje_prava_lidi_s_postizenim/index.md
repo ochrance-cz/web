@@ -12,12 +12,12 @@ perex: <p>V České republice stále existují překážky, které lidem s posti
   38 %.</p>
 attachments:
   - file: https://www.ochrance.cz/dokument/jak_cesko_plni_sve_povinnosti_z_umluvy_o_pravech_osob_se_zdravotnim_postizenim/analyza_s_vyuzitim_lidskopravnich_ukazatelu.pdf
-    title: Zpráva a její shrnutí v českém jazyce
+    title: Výzkum v českém jazyce
   - file: https://www.ochrance.cz/dokument/jak_cesko_plni_sve_povinnosti_z_umluvy_o_pravech_osob_se_zdravotnim_postizenim/human_rights_indicators-based_analysis.pdf
-    title: Zpráva a její shrnutí v anglickém jazyce
-  - title: Shrnutí výzkumu (factsheet)
+    title: Výzkum v anglickém jazyce
+  - title: "Shrnutí výzkumu "
     file: https://www.ochrance.cz/aktualne/co_chybi_aby_mohli_zit_stejne_jako_ostatni_zastupce_ombudsmana_zjistoval_jak_cesko_naplnuje_prava_lidi_s_postizenim/shrnuti_vyzkumu_ombudsmana_2025_1_.pdf
-  - title: Shrnutí ve verzi pro snadné čtení (easy to read)
+  - title: Jednoduchá verze shrnutí výzkumu
     link: https://www.ochrance.cz/dokument/jak_cesko_plni_sve_povinnosti_z_umluvy_o_pravech_osob_se_zdravotnim_postizenim/jednoducha_verze_shrnuti_vyzkumu.pdf
   - title: Video v českém znakovém jazyce
     file: https://youtu.be/wFIGGA25QcE
