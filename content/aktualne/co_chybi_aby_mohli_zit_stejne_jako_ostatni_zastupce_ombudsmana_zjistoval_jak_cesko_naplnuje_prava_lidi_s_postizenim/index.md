@@ -14,11 +14,11 @@ attachments:
   - file: https://www.ochrance.cz/dokument/jak_cesko_plni_sve_povinnosti_z_umluvy_o_pravech_osob_se_zdravotnim_postizenim/analyza_s_vyuzitim_lidskopravnich_ukazatelu.pdf
     title: Výzkumná zpráva v českém jazyce
   - title: Shrnutí výzkumu (factsheet) v českém jazyce
-    file: https://www.ochrance.cz/aktualne/co_chybi_aby_mohli_zit_stejne_jako_ostatni_zastupce_ombudsmana_zjistoval_jak_cesko_naplnuje_prava_lidi_s_postizenim/shrnuti_vyzkumu_ombudsmana_2025_1_.pdf
+    file: https://www.ochrance.cz/dokument/jak_cesko_plni_sve_povinnosti_z_umluvy_o_pravech_osob_se_zdravotnim_postizenim/shrnuti_vyzkumu_factsheet_cj.pdf
   - file: https://www.ochrance.cz/dokument/jak_cesko_plni_sve_povinnosti_z_umluvy_o_pravech_osob_se_zdravotnim_postizenim/human_rights_indicators-based_analysis.pdf
     title: Výzkumná zpráva v anglickém jazyce
   - title: Shrnutí výzkumu (factsheet) v anglickém jazyce
-    file: https://www.ochrance.cz/aktualne/co_chybi_aby_mohli_zit_stejne_jako_ostatni_zastupce_ombudsmana_zjistoval_jak_cesko_naplnuje_prava_lidi_s_postizenim/shrnuti_vyzkumu_v_anglickem_jazyce.pdf
+    file: https://www.ochrance.cz/dokument/jak_cesko_plni_sve_povinnosti_z_umluvy_o_pravech_osob_se_zdravotnim_postizenim/shrnuti_vyzkumu_factsheet_en.pdf
   - title: Shrnutí výzkumu ve snadném čtení
     link: https://www.ochrance.cz/dokument/jak_cesko_plni_sve_povinnosti_z_umluvy_o_pravech_osob_se_zdravotnim_postizenim/jednoducha_verze_shrnuti_vyzkumu.pdf
   - title: Shrnutí výzkumu v českém znakovém jazyce (video)
