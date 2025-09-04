@@ -43,13 +43,14 @@ attachments:
 <li>pravidelně nezjišťuje osobní zkušenosti lidí s&nbsp;postižením s&nbsp;diskriminací a nesbírá potřebné údaje pro vyhodnocení dopadů zákonů a dalších opatření na život lidí s&nbsp;postižením a jejich blízkých.</li></ul></blockquote>
 <p>„
 <i>Výzkum ukazuje, že bez jasného plánu, podpory služeb a důvěry ve schopnosti lidí s postižením se dál nepohneme. Ve zprávě nabízíme návrhy, které mohou přispět ke skutečné změně – k tomu, aby lidé s postižením mohli žít svobodněji, důstojněji a podle svého</i>,“ uvádí Romana Jakešová, vedoucí odboru ochrany práv osob se zdravotním postižením v&nbsp;kanceláři ombudsmana a dětského ombudsmana. Připomíná, že do přípravy výzkumu byl zapojen také poradní orgán ombudsmana, který je složen z&nbsp;lidí s&nbsp;postižením a organizací, které hájí jejich zájmy.</p>
+<blockquote>
 <p>Ve zprávě zástupce ombudsmana doporučuje mimo jiné:</p>
 <ul>
 <li>připravit účinnější vládní strategii týkající se práv lidí s&nbsp;postižením pro období 2026–2030,</li>
 <li>podpořit samostatné rozhodování lidí s postižením místo omezování svéprávnosti,</li>
 <li>zajistit dostupné sociální služby v místě, kde chtějí lidé žít,</li>
 <li>podporovat zaměstnávání lidí s postižením na běžném trhu práce,</li>
-<li>sbírat spolehlivá data a pravidelně hodnotit, co se daří a co ne.</li></ul>
+<li>sbírat spolehlivá data a pravidelně hodnotit, co se daří a co ne.</li></ul></blockquote>
 <p>Svými zjištěními zástupce ombudsmana symbolicky zve k rozhovoru zejména odpovědné státní instituce. Zpráva je zároveň podkladem, z níž bude zástupce ombudsmana vycházet při komunikaci s Výborem OSN pro práva osob se zdravotním postižením v Ženevě. Z výzkumné zprávy mohou rovněž čerpat organizace hájící práva a zájmy lidí s postižením a akademický sektor.</p>
 
 
