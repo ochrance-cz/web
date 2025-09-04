@@ -10,8 +10,7 @@ perex: <p>People with disabilities in the Czech Republic still face major
   38% of its obligations under the Convention on the Rights of Persons with
   Disabilities.</p>
 attachments:
-  - title: How Czechia Fulfils its Obligations under the Convention on the Rights of
-      Persons with Disabilities
+  - title: Full research report
     file: https://www.ochrance.cz/en/dokument/how_czechia_fulfils_its_obligations_under_the_convention_on_the_rights_of_persons_with_disabilities/human_rights_indicators-based_analysis.pdf
   - title: Summary factsheet
     file: https://www.ochrance.cz/en/aktualne/deputy_defender_reveals_gaps_in_the_rights_and_opportunities_for_people_with_disabilities_in_the_czech_republic/summary_factsheet_1_.pdf
