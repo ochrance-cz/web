@@ -17,6 +17,7 @@ attachments:
   - file: https://www.ochrance.cz/dokument/jak_cesko_plni_sve_povinnosti_z_umluvy_o_pravech_osob_se_zdravotnim_postizenim/human_rights_indicators-based_analysis.pdf
     title: How Czechia Fulfils its Obligations under the Convection on the Rights of
       Persons with Disabilities
+  - title: Shrnutí výzkumu (factsheet)
   - title: Jednoduchá verze shrnutí významu
     link: https://www.ochrance.cz/dokument/jak_cesko_plni_sve_povinnosti_z_umluvy_o_pravech_osob_se_zdravotnim_postizenim/jednoducha_verze_shrnuti_vyzkumu.pdf
   - title: Dodržuje Česko práva lidí s postižením? Shrnutí výzkumu ombudsmana v
@@ -44,7 +45,8 @@ attachments:
 <p>„
 <i>Výzkum ukazuje, že bez jasného plánu, podpory služeb a důvěry ve schopnosti lidí s postižením se dál nepohneme. Ve zprávě nabízíme návrhy, které mohou přispět ke skutečné změně – k tomu, aby lidé s postižením mohli žít svobodněji, důstojněji a podle svého</i>,“ uvádí Romana Jakešová, vedoucí odboru ochrany práv osob se zdravotním postižením v&nbsp;kanceláři ombudsmana a dětského ombudsmana. Připomíná, že do přípravy výzkumu byl zapojen také poradní orgán ombudsmana, který je složen z&nbsp;lidí s&nbsp;postižením a organizací, které hájí jejich zájmy.</p>
 <blockquote>
-<p>Ve zprávě zástupce ombudsmana doporučuje mimo jiné:</p>
+<p>
+<strong>Ve zprávě zástupce ombudsmana doporučuje mimo jiné:</strong></p>
 <ul>
 <li>připravit účinnější vládní strategii týkající se práv lidí s&nbsp;postižením pro období 2026–2030,</li>
 <li>podpořit samostatné rozhodování lidí s postižením místo omezování svéprávnosti,</li>
