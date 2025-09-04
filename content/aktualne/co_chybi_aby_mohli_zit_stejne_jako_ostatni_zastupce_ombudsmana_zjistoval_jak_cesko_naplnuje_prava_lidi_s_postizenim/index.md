@@ -18,6 +18,7 @@ attachments:
     title: How Czechia Fulfils its Obligations under the Convection on the Rights of
       Persons with Disabilities
   - title: Shrnutí výzkumu (factsheet)
+    file: https://www.ochrance.cz/aktualne/co_chybi_aby_mohli_zit_stejne_jako_ostatni_zastupce_ombudsmana_zjistoval_jak_cesko_naplnuje_prava_lidi_s_postizenim/shrnuti_vyzkumu_ombudsmana_2025.pdf
   - title: Jednoduchá verze shrnutí významu
     link: https://www.ochrance.cz/dokument/jak_cesko_plni_sve_povinnosti_z_umluvy_o_pravech_osob_se_zdravotnim_postizenim/jednoducha_verze_shrnuti_vyzkumu.pdf
   - title: Dodržuje Česko práva lidí s postižením? Shrnutí výzkumu ombudsmana v
