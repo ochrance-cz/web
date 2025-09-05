@@ -4,22 +4,9 @@ linksAfter: []
 ---
 <h2>
 <strong>Volná místa</strong></h2>
-<p>Momentálně je otevřeno výběrové řízení na několik pozic v Kanceláři veřejného ochránce práv a ochránce práv dětí. Prostor pro podávání přihlášek je do 3. září 2025. Více informací najdete v 
-<a href="https://www.ochrance.cz/aktualne/otevirame_vyberove_rizeni_na_nekolik_pozic_v_kancelari_verejneho_ochrance_prav_a_ochrance_prav_deti/">inzerátu</a>.</p>
-<p>Právě hledáme:</p>
-<ul>
-<li>
-<strong>Právníka/právničku v&nbsp;oblasti ochrany práv dětí</strong></li>
-<li>
-<strong>Kolegu/kolegyni pro oblast sledování dodržování práv dětí (právní nebo jiné související vzdělání)</strong></li>
-<li>
-<strong>Právníka/právničku do&nbsp;týmu veřejného pořádku, zdravotnictví a&nbsp;práce</strong></li>
-<li>
-<strong>Právníka/právničku do&nbsp;týmu ochrany práv osob se&nbsp;zdravotním postižením</strong></li>
-<li>
-<strong>Právníka/právničku do týmu metodiky a analýzy</strong></li>
-<li>
-<strong>Právníka/právničku pro oblast národní lidskoprávní instituce (NHRI)</strong></li></ul>
+<p>Nyní neprobíhá žádné výběrové řízení.</p>
+<p>Pokud se přesto chcete ucházet o místo, pošlete nám svůj životopis na adresu 
+<a href="mailto:lzicarova@ochrance.cz">lzicarova@ochrance.cz</a> a napište, o jakou práci máte zájem.</p>
 <p>
 <strong>Stáže pro studenty právnických fakult</strong></p>
 <p>Na stáž se můžete přihlásit přes svou právnickou fakultu v&nbsp;Brně, Olomouci a Praze. Pokud nevíte, koho ve škole oslovit, napište kolegyni Haně Suské na adresu 
