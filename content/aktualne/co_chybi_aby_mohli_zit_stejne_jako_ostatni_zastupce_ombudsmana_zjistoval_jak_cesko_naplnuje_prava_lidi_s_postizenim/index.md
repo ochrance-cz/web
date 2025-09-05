@@ -7,8 +7,8 @@ vystupy:
 perex: <p>V České republice stále existují překážky, které lidem s postižením
   brání žít podle svých představ – samostatně, důstojně&nbsp;a s rovnými
   příležitostmi. Vyplývá to z nového výzkumu zástupce ombudsmana, který
-  zjišťoval, jak stát naplňuje sliby dané přijetím Úmluvy o právech osob se
-  zdravotním postižením. Hodnocení ukazuje, že stát plní své povinnosti jen z
+  zjišťoval, jak stát naplňuje některé sliby dané přijetím Úmluvy o právech osob
+  se zdravotním postižením. Hodnocení ukazuje, že stát plní své povinnosti jen z
   38 %.</p>
 attachments:
   - file: https://www.ochrance.cz/dokument/jak_cesko_plni_sve_povinnosti_z_umluvy_o_pravech_osob_se_zdravotnim_postizenim/analyza_s_vyuzitim_lidskopravnich_ukazatelu.pdf
