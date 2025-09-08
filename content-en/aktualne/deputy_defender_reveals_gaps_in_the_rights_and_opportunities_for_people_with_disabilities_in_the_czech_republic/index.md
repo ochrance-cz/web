@@ -7,7 +7,7 @@ vystupy:
 perex: <p>People with disabilities in the Czech Republic still face major
   barriers to living independently, with dignity, and on equal terms with
   others. New research by the Deputy Defender finds that the State fulfils only
-  38% of its obligations under the Convention on the Rights of Persons with
+  38% of some obligations under the Convention on the Rights of Persons with
   Disabilities.</p>
 attachments:
   - title: Full research report
