@@ -1,5 +1,7 @@
 ---
 title: Školství
-situace: []
+situace:
+  - rodina
+  - skolství
 file: skolstvi.pdf
 ---
