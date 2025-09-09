@@ -2,6 +2,6 @@
 title: Školství
 situace:
   - rodina
-  - skolství
+  - skolstvi
 file: skolstvi.pdf
 ---
