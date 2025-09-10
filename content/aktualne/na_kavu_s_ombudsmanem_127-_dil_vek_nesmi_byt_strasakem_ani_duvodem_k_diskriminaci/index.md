@@ -15,8 +15,8 @@ perex: <p>S&nbsp;diskriminací se může setkat každý z&nbsp;nás. Často se t
 {{< youtube"DigQ2WxqM68" >}}
 
 
-<p>Všechny dosud zveřejněné díly najdete na&nbsp; 
-<a href="https://www.youtube.com/playlist?list=PLWNv_IxgJdEKvV9-ZYu7VTxvc1SjDRb2i">Youtube</a>&nbsp;nebo na&nbsp; 
+<p>Všechny dosud zveřejněné díly najdete na 
+<a href="https://www.youtube.com/playlist?list=PLWNv_IxgJdEKvV9-ZYu7VTxvc1SjDRb2i">Youtube</a>&nbsp;nebo na 
 <a href="https://open.spotify.com/show/0cUUj1UIaAu3hYzWgLNO6P?fbclid=IwAR2BbFgIdbE2Ke8LubN8m-iVR5KLLj0KsZH-Q96QqzpVYM1WVG3_NFuAel4">Spotify</a>.</p>
-<p>Dále jsou podcasty dostupné na všech běžně používaných&nbsp; 
+<p>Dále jsou podcasty dostupné na všech běžně používaných 
 <a href="https://creators.spotify.com/pod/show/nakavusombudsmanem">podcastových aplikacích</a>.</p>
