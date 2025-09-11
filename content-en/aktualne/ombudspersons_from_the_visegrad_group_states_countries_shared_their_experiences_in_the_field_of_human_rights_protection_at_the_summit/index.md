@@ -27,13 +27,13 @@ perex: >-
 
   <p>
 
-  <strong>List of ombudsperson of the Visegrad Group:</strong>
+  <strong>List of ombudsperson of the Visegrad Group:</strong>&nbsp;
 
-  <br>Czech Republic: Stanislav Křeček
+  <br>Czech Republic: Stanislav Křeček&nbsp;
 
-  <br>Poland: Marcin Wiącek
+  <br>Poland: Marcin Wiącek&nbsp;
 
-  <br>Hungary: Ákos Kozma
+  <br>Hungary: Ákos Kozma&nbsp;
 
   <br>Slovakia: Róbert Dobrovodský</p></blockquote>
 
@@ -41,9 +41,13 @@ perex: >-
 
   <p>
 
-  <strong>What is the National Preventive Mechanism?&nbsp;</strong>
+  <strong>What is the National Preventive Mechanism?&nbsp;</strong>&nbsp;
 
-  <br>Its purpose is to monitor the protection of the rights and dignity of persons deprived of their liberty in accordance with the obligations enshrined in the Optional Protocol to the Convention against Torture (OPCAT). In 2006, the Ombudsman's agenda was expanded for the first time to include oversight of restrictions on personal liberty. Since then, the Czech Ombudsman has been the national preventive mechanism, protecting persons deprived of their liberty from ill-treatment. The team supervising the restriction of personal liberty visits places where people are deprived of their liberty. For example, they visit children's homes, retirement homes, psychiatric hospitals, prisons, cells, and other facilities.
+  <br>Its purpose is to monitor the protection of the rights and dignity of persons deprived of their liberty in accordance with the obligations enshrined in the Optional Protocol to the Convention against Torture (OPCAT). In 2006, the Ombudsman's agenda was expanded for the first time to include oversight of restrictions on personal liberty. Since then, the Czech Ombudsman has been the national preventive mechanism, protecting persons deprived of their liberty from ill-treatment. The team supervising the restriction of personal liberty visits places where people are deprived of their liberty. For example, they visit children's homes, retirement homes, psychiatric hospitals, prisons, cells, and other facilities.&nbsp;
 
   <br>&nbsp;</p></blockquote>
+
+  <figure class="image">
+
+  <img src="https://www.ochrance.cz/en/aktualne/ombudspersons_from_the_visegrad_group_states_countries_shared_their_experiences_in_the_field_of_human_rights_protection_at_the_summit/e039a6b6-052f-41be-add1-7bfe097ff072.jpeg" alt="In the picture we can see czech ombudsperson, his deputy and the director of law section."></figure>
 ---
