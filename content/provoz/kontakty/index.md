@@ -62,7 +62,7 @@ sections:
       M﻿ichaela Vaisová
 
 
-      telefon: (+420) 542 542 289, 607 275 704\
+      telefon: (+420) 542 542 289, 607 275 704 (Ve dnech 15.-22. 9. se prosím s mediálními požadavky obracejte na e-mail medialni@ochrance.cz. Pracovníci PR se Vám ozvou nazpátek.)\
 
       e-mail: michaela.vaisova@ochrance.cz
 
