@@ -20,7 +20,7 @@ attachments:
   - title: Shrnutí výzkumu (factsheet) v anglickém jazyce
     file: https://www.ochrance.cz/dokument/jak_cesko_plni_sve_povinnosti_z_umluvy_o_pravech_osob_se_zdravotnim_postizenim/shrnuti_vyzkumu_factsheet_en.pdf
   - title: Shrnutí výzkumu ve snadném čtení
-    link: https://www.ochrance.cz/dokument/jak_cesko_plni_sve_povinnosti_z_umluvy_o_pravech_osob_se_zdravotnim_postizenim/jednoducha_verze_shrnuti_vyzkumu.pdf
+    link: https://www.ochrance.cz/dokument/jak_cesko_plni_sve_povinnosti_z_umluvy_o_pravech_osob_se_zdravotnim_postizenim/shrnuti_vyzkumu_ve_snadnem_cteni.pdf
   - title: Shrnutí výzkumu v českém znakovém jazyce (video)
     file: https://youtu.be/wFIGGA25QcE
 ---
