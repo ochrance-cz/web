@@ -16,7 +16,6 @@ attachments:
     link: https://csu.gov.cz/pocet-struktura-a-projekce-obyvatel?pocet=10&start=0&podskupiny=132&razeni=-datumVydani
   - title: "Ukazatele věkového složení obyvatel České republiky (Český statistický
       úřad) "
-    file: ""
     link: https://vdb.czso.cz/vdbvo2/faces/index.jsf?page=vystup-objekt&pvo=DEMDCR1V&pvokc=&katalog=33157&z=T
   - title: "Podcast Na kávu s ombudsmanem: Věk nesmí být strašákem ani důvodem k
       diskriminaci "
