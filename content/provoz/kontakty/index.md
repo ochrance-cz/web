@@ -242,6 +242,14 @@ lawyers:
         role: právnička (sociálně-právní ochrana dětí, pěstounská péče)
         phone: 542 542 308
         email: johana.jesatkova@ochrance.cz
+      - name: Daniel Tomašovič
+        role: právník (školství)
+        phone: 542 542 386
+        email: daniel.tomasovic@ochrance.cz
+      - name: Aneta Majerčíková
+        role: právnička (monitoring, poradní orgán)
+        phone: 542 542 202
+        email: aneta.majercikova@ochrance.cz
   - title: Odbor veřejného pořádku, zdravotnictví a práce
     intro: >
       matriky, evidence obyvatel, občanské a cestovní průkazy, státní občanství,
@@ -478,7 +486,7 @@ lawyers:
         phone: 542 542 252
         email: tomas.koznarek@ochrance.cz
       - name: Eva Nehudková
-        role: Eva Nehudková
+        role: právnička
         phone: 542 542 247
         email: eva.nehudkova@ochrance.cz
   - title: Odbor dohledu nad omezováním osobní svobody
