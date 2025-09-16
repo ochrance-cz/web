@@ -17,34 +17,35 @@ perex: <p>Žádné srozumitelné vysvětlení a poučení o důsledcích operace
   pro podávání žádostí až do začátku ledna 2027.&nbsp;</p>
 attachments:
   - link: https://eso.ochrance.cz/Nalezene/Edit/13866#Poznamka
-    title: Případ ženy z Krnova - zpráva o šetření
+    title: Případ ženy z Krnova – zpráva o šetření
   - title: Podcast Na kávu s ombudsmanem na téma protiprávních sterilizací
     file: https://www.ochrance.cz/aktualne/na_kavu_s_ombudsmanem_117-_dil_silny_pribeh_se_skryva_za_kazdou_zenou_u_ktere_byla_provedena_protipravni_sterilizace/
-  - title: Pochybení ministerstva - Zpráva o šetření z vlastní iniciativy
+  - title: Pochybení ministerstva – zpráva o šetření z vlastní iniciativy
     file: https://eso.ochrance.cz/Nalezene/Edit/12232
 ---
 <p>
 <i>„Prodloužení lhůty k podávání žádostí o odškodnění za protiprávní sterilizace by mohlo pomoct ženám, které po zamítnutí rezignovaly na další pokusy v novém správním řízení. To se týká například žen, které se na nás obrátily příliš pozdě, kdy už uplynuly lhůty pro podání rozkladu, správní žaloby anebo pro přezkumné řízení,“</i> vysvětluje ombudsman Stanislav Křeček.&nbsp; 
-<i>„Podání nové žádosti jim umožní navrácení do odškodňovacího řízení. Pokud ministerstvo novou žádost zamítne, ženy budou mít možnost se znovu odvolat, nebo podat žalobu,“ dodává ombudsman.&nbsp;</i></p>
+<i>„Podání nové žádosti jim umožní navrácení do odškodňovacího řízení. Pokud ministerstvo novou žádost zamítne, ženy budou mít možnost se znovu odvolat, nebo podat žalobu,“ </i>dodává ombudsman
+<i>.&nbsp;</i></p>
 <p>&nbsp;</p>
 <blockquote>
 <p>
-<strong>Jste obětí protiprávní sterilizace a ministerstvo nebo ministr zamítli Vaši žádost o odškodnění?</strong>&nbsp;
-<br>•&nbsp;&nbsp;&nbsp;&nbsp;Nejprve zjistěte, jestli ještě běží lhůta, kdy se můžete proti rozhodnutí odvolat (podat rozklad), nebo je ještě čas podat žalobu k soudu.&nbsp;
+<strong>Jste obětí protiprávní sterilizace a ministerstvo nebo ministr zamítli Vaši žádost o odškodnění?</strong>&nbsp;&nbsp;
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;Nejprve zjistěte, jestli ještě běží lhůta, kdy se můžete proti rozhodnutí odvolat (podat rozklad), nebo je ještě čas podat žalobu k soudu.&nbsp;&nbsp;
 <br>•&nbsp;&nbsp;&nbsp;&nbsp;Pokud již uplynula lhůta k podání rozkladu nebo žaloby, a Vy jste přesvědčena, že na odškodnění máte nárok, podejte novou žádost k Ministerstvu zdravotnictví.</p>
 <p>
 <strong>Jste obětí protiprávní sterilizace a dosud jste o odškodnění nikdy nežádala? Máte možnost tak učinit až do 4. 1. 2027.</strong></p>
 <p>
-<strong>Co by měla žádost o odškodnění obsahovat?</strong>&nbsp;
-<br>•&nbsp;&nbsp;&nbsp;&nbsp;Jméno a příjmení, datum narození, adresa (trvalého bydliště i doručovací).&nbsp;&nbsp;
-<br>•&nbsp;&nbsp;&nbsp;&nbsp;Místo (nemocnice, porodnice) a datum, kde byla sterilizace provedena.&nbsp;
-<br>•&nbsp;&nbsp;&nbsp;&nbsp;Vylíčení podstatných skutečností a okolností týkajících se zákroku sterilizace (jak se události kolem zákroku odehrály).&nbsp;
-<br>•&nbsp;&nbsp;&nbsp;&nbsp;Návrh důkazů, které podporují vaše tvrzení. Můžete přiložit listiny, pokud je máte u sebe. Pokud ne, ministerstvo si zdravotnickou dokumentaci vyžádá samo u nemocnice, kterou uvedete v žádosti.&nbsp;&nbsp;
-<br>•&nbsp;&nbsp;&nbsp;&nbsp;Bankovní účet pro přijetí odškodnění.&nbsp;&nbsp;
+<strong>Co by měla žádost o odškodnění obsahovat?</strong>&nbsp;&nbsp;
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;Jméno a příjmení, datum narození, adresa (trvalého bydliště i doručovací).&nbsp;&nbsp;&nbsp;
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;Místo (nemocnice, porodnice) a datum, kde byla sterilizace provedena.&nbsp;&nbsp;
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;Vylíčení podstatných skutečností a okolností týkajících se zákroku sterilizace (jak se události kolem zákroku odehrály).&nbsp;&nbsp;
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;Návrh důkazů, které podporují vaše tvrzení. Můžete přiložit listiny, pokud je máte u sebe. Pokud ne, ministerstvo si zdravotnickou dokumentaci vyžádá samo u nemocnice, kterou uvedete v žádosti.&nbsp;&nbsp;&nbsp;
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;Bankovní účet pro přijetí odškodnění.&nbsp;&nbsp;&nbsp;
 <br>•&nbsp;&nbsp;&nbsp;&nbsp;Podpis žadatelky.</p>
 <p>
-<strong>Jaké důkazy můžete předložit?</strong>&nbsp;
-<br>•&nbsp;&nbsp;&nbsp;&nbsp;Důkazem může být zdravotnická dokumentace, ale také svědecké výpovědi, odborná vyjádření, znalecké posudky, zprávy ze šetření ombudsmana, deníky, kalendáře s poznámkami, dopisy apod.&nbsp;
+<strong>Jaké důkazy můžete předložit?</strong>&nbsp;&nbsp;
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;Důkazem může být zdravotnická dokumentace, ale také svědecké výpovědi, odborná vyjádření, znalecké posudky, zprávy ze šetření ombudsmana, deníky, kalendáře s poznámkami, dopisy apod.&nbsp;&nbsp;
 <br>•&nbsp;&nbsp;&nbsp;&nbsp;Bližší informace naleznete také na 
 <a href="https://mzd.gov.cz/zadosti-o-odskodneni-protipravnich-sterilizaci/">mzd.gov.cz/zadosti-o-odskodneni-protipravnich-sterilizaci/</a></p></blockquote>
 <p>
