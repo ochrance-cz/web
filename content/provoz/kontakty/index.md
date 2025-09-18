@@ -20,7 +20,7 @@ sections:
 
       **Asistentka veřejného ochránce práv**\
 
-      Marie Uhlerová\
+      Marie Feilhauer (dříve Uhlerová)\
 
       tel: (+420) 542 542 777
 
@@ -193,7 +193,7 @@ lawyers:
         role: právník (sociálně-právní ochrana dětí, ústavní výchova)
         phone: 542 542 398
         email: martin.jezek@ochrance.cz
-      - name: Tereza Kulhanová
+      - name: Tereza Panáková
         role: právnička (vstupy do soudních řízení, monitoring)
         phone: 542 542 268
         email: tereza.kulhanova@ochrance.cz
