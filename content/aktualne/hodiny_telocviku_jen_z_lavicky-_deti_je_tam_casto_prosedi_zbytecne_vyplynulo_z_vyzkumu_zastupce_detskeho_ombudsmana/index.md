@@ -40,7 +40,7 @@ attachments:
 <img src="https://www.ochrance.cz/aktualne/hodiny_telocviku_jen_z_lavicky-_deti_je_tam_casto_prosedi_zbytecne_vyplynulo_z_vyzkumu_zastupce_detskeho_ombudsmana/graf_podpurna_opatreni.jpg" alt="graf_podpurna_opatreni.jpg"></figure>
 <p>„
 <i>Výsledky našeho výzkumu ukazují, že ani po osmi letech od zavedení inkluzivního vzdělávání zdaleka není začlenění dětí se speciálními vzdělávacími potřebami do hodin tělesné výchovy samozřejmostí,“</i> shrnul Schorm. Zároveň nastínil další plánované kroky: 
-<i>„Naše závěry v&nbsp;první řadě prodiskutujeme s&nbsp;těmi, kterých se dotýkají nejvíc, tedy s lidmi s&nbsp;postižením, včetně samotných žáků. Následně navrhneme konkrétní řešení nedostatků současného systému. Zároveň budeme usilovat o větší osvětu všech zúčastněných o tom, jak přistupovat k&nbsp;uvolňování z&nbsp;tělocviku. Mám na mysli zejména školy, školská poradenská zařízení, lékaře, rodiče i děti. V neposlední řadě také zvážíme možnost navrhnout změnu právní úpravy.“</i></p>
+<i>„Naše závěry v&nbsp;první řadě prodiskutujeme s&nbsp;těmi, kterých se dotýkají nejvíc, tedy s lidmi s&nbsp;postižením, včetně samotných žáků. Následně navrhneme konkrétní řešení nedostatků současného systému. Rovněž budeme usilovat o větší osvětu všech zúčastněných o tom, jak přistupovat k&nbsp;uvolňování z&nbsp;tělocviku. Mám na mysli zejména školy, školská poradenská zařízení, lékaře, rodiče i děti. V neposlední řadě také zvážíme možnost navrhnout změnu právní úpravy.“</i></p>
 <blockquote>
 <p>
 <strong>Uvolnění z vyučování tělesné výchovy&nbsp;</strong></p>
