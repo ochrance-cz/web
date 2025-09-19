@@ -16,8 +16,7 @@ perex: <p>Do aktovky v září patří ořezané tužky, nový rozvrh – a něk
   řešení, jak současný stav zlepšit.</p>
 attachments:
   - title: Uvolňování žáků z tělesné výchovy (výzkumná zpráva 2025)
-    link: "https://www.ochrance.cz/dokument/uvolnovani_zaku_z_telesne_vychovy/vz_uv\
-      olnovani_zaku_z_telesne_vychovy_final_001.pdf "
+    link: https://www.ochrance.cz/dokument/uvolnovani_zaku_z_telesne_vychovy/vz_uvolnovani_zaku_z_telesne_vychovy_final_001.pdf
     file: ""
   - title: Uvolňování žáků z tělesné výchovy (fact sheet)
     file: https://www.ochrance.cz/aktualne/hodiny_telocviku_jen_z_lavicky-_deti_je_tam_casto_prosedi_zbytecne_vyplynulo_z_vyzkumu_zastupce_detskeho_ombudsmana/fact_sheet_uvolnovani_zaku_z_tv.pdf
