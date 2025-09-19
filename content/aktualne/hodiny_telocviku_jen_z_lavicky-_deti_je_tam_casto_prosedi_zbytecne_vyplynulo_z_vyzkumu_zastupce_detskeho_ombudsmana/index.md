@@ -6,9 +6,9 @@ vystupy:
   - tz
 perex: <p>Do aktovky v září patří ořezané tužky, nový rozvrh – a někdy je
   nezbytné přibalit i lékařský posudek. Ten se týká dětí, jejichž zdravotní stav
-  vyžaduje uvolnění z&nbsp;hodin tělocviku. Jak to chodí Česku? Nebývají někteří
-  žáci vyloučeni ze sportovních aktivit zbytečně? Daří se základním školám
-  začlenit děti s&nbsp;postižením? Právě na to přináší odpovědi nedávno
+  vyžaduje uvolnění z&nbsp;hodin tělocviku. Jak to chodí v Česku? Nebývají
+  někteří žáci vyloučeni ze sportovních aktivit zbytečně? Daří se základním
+  školám začlenit děti s&nbsp;postižením? Právě na to přináší odpovědi nedávno
   dokončený výzkum Kanceláře ombudsmana a dětského ombudsmana. Výsledky však
   nejsou příliš příznivé. Podstatná část žáků, která by se mohla zapojit, bývá
   z&nbsp;tělocviku úplně uvolněna. A tak obvykle sportujícím spolužákům jen
