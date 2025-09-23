@@ -3,7 +3,8 @@ title: Zaměstnanci a organizační struktura
 linksAfter: []
 ---
 <p>Organizační struktura Kanceláře veřejného ochránce práv a ochránce práv dětí (dále i&nbsp;jen „Kancelář“) je upravena 
-<a href="organizacni_rad_2025.pdf">organizačním řádem</a>. V&nbsp;čele Kanceláře je vedoucí, který svou činnost vykonává podle pokynů veřejného ochránce práv.&nbsp;</p>
+<a href="organizacni_rad_2025.pdf">
+<strong>organizačním řádem</strong></a>. V&nbsp;čele Kanceláře je vedoucí, který svou činnost vykonává podle pokynů veřejného ochránce práv.&nbsp;</p>
 <p>
 <strong>Kancelář</strong>&nbsp;se člení na&nbsp;tyto organizační útvary: Vedoucí Kanceláře, odbor právní podpory, komunikace a mezinárodní spolupráce, právní sekci, odbor administrativních a&nbsp;spisových služeb, odbor vnitřní správy a&nbsp;odbor personální.</p>
 <p>
