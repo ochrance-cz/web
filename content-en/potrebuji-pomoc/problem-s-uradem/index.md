@@ -45,9 +45,9 @@ examples:
       inquire into my problems, he still gave me valuable advice on how to
       proceed and who to talk to.
 whenToContact:
-  - The ombudsman cannot act on your behalf – you must first try to resolve the issue yourself.
+  - The ombudsman cannot act on your behalf - you must first try to resolve the issue yourself.
   -	First, you must contact the authority yourself and wait for a decision.
-  - If you disagree with the decision, appeal it. This is usually possible. Keep an eye on the deadlines – later on, it may not be possible to remedy the situation.
+  - If you disagree with the decision, appeal it. This is usually possible. Keep an eye on the deadlines - later on, it may not be possible to remedy the situation.
   - If the authority is inactive, complain to its superior authority to ensure that the situation is remedied.
   - If your efforts to resolve the problem are unsuccessful, it is time to contact the ombudsman.
 order: 1
