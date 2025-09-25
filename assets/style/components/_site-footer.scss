@@ -150,7 +150,7 @@
   }
 
   .podcast-label::before {
-    @include fa-icon($fa-var-mug-hot);
+    @include fa-icon($fa-var-microphone-lines);
     width: 2rem;
     top: 0;
     margin-right: 1rem;
