@@ -2,7 +2,7 @@
 title: za červenec a srpen 2025
 month: 9
 year: 2025
-file: https://www.ochrance.cz/zpravodaj/za_cervence_a_srpen_2025/zpravodaj_cervenec_a_srpen_2025.pdf
+file: https://www.ochrance.cz/zpravodaj/za_cervenec_a_srpen_2025/zpravodaj_cervenec_a_srpen_2025.pdf
 sections:
   - title: Úvodní slovo
     articles:
@@ -215,7 +215,7 @@ sections:
         body: >-
           <p>V 
 
-          <a href="https://www.ochrance.cz/dokument/jak_cesko_plni_sve_povinnosti_z_umluvy_o_pravech_osob_se_zdravotnim_postizenim/analyza_s_vyuzitim_lidskopravnich_ukazatelu.pdf">novém výzkumu</a> jsme se zaměřili na to, jak stát naplňuje některé sliby dané přijetím Úmluvy o právech osob se zdravotním postižením. Ověřovali jsme, jak vypadá skutečný život lidí s postižením. A také to, jaké dopady na ně má chování státu. Zjistili jsme, že (podle lidskoprávních ukazatelů) stát plní své povinnosti jen z 38 %.</p>
+          <a href="https://www.ochrance.cz/dokument/jak_cesko_plni_sve_povinnosti_z_umluvy_o_pravech_osob_se_zdravotnim_postizenim/">novém výzkumu </a>jsme se zaměřili na to, jak stát naplňuje některé sliby dané přijetím Úmluvy o právech osob se zdravotním postižením. Ověřovali jsme, jak vypadá skutečný život lidí s postižením. A také to, jaké dopady na ně má chování státu. Zjistili jsme, že (podle lidskoprávních ukazatelů) stát plní své povinnosti jen z 38 %.</p>
 
           <p>Ve výzkumu jsme se zaměřili na čtyři oblasti: zákaz diskriminace, rovnost před zákonem, nezávislý způsob života a práci a zaměstnání. Nejlépe je na tom oblast antidiskriminace (49 %), nejhůře oblast rovnosti před zákonem (28 %).</p>
 
