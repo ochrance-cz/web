@@ -12,7 +12,7 @@ perex: >-
   <a href="https://www.ochrance.cz/zpravodaj/za_cervence_a_srpen_2025/">Zpravodaje</a>. Některé případy z&nbsp;tohoto čísla mají téměř detektivní zápletku. Většina má dobrý konec a z&nbsp;toho máme velkou radost. U jiných výstupů však výsledek není takový, jaký bychom si přáli. Týká se to třeba&nbsp;našeho výzkumu, který se zaměřil na to, jaká u nás v&nbsp;posledních letech vypadá situace lidí s&nbsp;postižením. Zjistili jsme totiž, že stát vůči těmto lidem plní své povinnosti jen z 38 %. A to opravdu nestačí.&nbsp;</p>
 attachments:
   - title: Zpravodaj ombudsmana za červenec a srpen 2025
-    link: https://www.ochrance.cz/zpravodaj/za_cervence_a_srpen_2025/#item-3-1
+    link: https://www.ochrance.cz/zpravodaj/za_cervence_a_srpen_2025/
 ---
 <p>Čemu jsme se například věnovali?&nbsp;</p>
 <p>
