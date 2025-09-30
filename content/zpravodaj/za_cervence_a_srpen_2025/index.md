@@ -208,7 +208,7 @@ sections:
 
           <p>V&nbsp;červenci 2025 jsme provedli systematickou návštěvu policejních cel v&nbsp;ulici Bartolomějská a na Malé Straně v&nbsp;Praze. Sledovali jsme průběh trestu vyhoštění z&nbsp;Vazební věznice Praha Ruzyně na Letiště Václava Havla.</p>
 
-          <p>V&nbsp;srpnu 2025 jsme uskutečnili systematickou návštěvu policejních cel v&nbsp;Mnichově Hradišti, Domova pro osoby se zdravotním postižením „Nováček“ v&nbsp;Plzni, Zařízení pro děti vyžadující okamžitou pomoc (ZDVOP) ve Dvoře Králové nad Labem a neregistrovaných zařízení sociálních služeb Spolek seniorů Zlatíčka a Spolek seniorů LIBUŠKA v&nbsp;Šardicích.</p>
+          <p>V&nbsp;srpnu 2025 jsme uskutečnili systematickou návštěvu policejních cel v&nbsp;Mnichově Hradišti, Domova pro osoby se zdravotním postižením „Nováček“ v&nbsp;Plzni, Zařízení pro děti vyžadující okamžitou pomoc (ZDVOP) ve Dvoře Králové nad Labem a neregistrovaných zařízení sociálních služeb Spolek seniorů HVĚZDIČKA z.s. v&nbsp;Šardicích.</p>
   - title: Zkoumali jsme
     articles:
       - title: Zjišťovali jsme, jak Česko naplňuje práva lidí s postižením
