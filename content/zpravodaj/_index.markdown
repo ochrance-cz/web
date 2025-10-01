@@ -1,3 +1,3 @@
 ---
-title: Zpravodaj ombudsmana a&nbsp;dětského ombudsmana
+title: Zpravodaj ombudsmana a dětského ombudsmana
 ---
