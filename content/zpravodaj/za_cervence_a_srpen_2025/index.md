@@ -175,7 +175,7 @@ sections:
 
           <p>Odmítnutím pojistit člověka kvůli Downovu syndromu se pojišťovna dopouští přímé diskriminace z důvodu zdravotního postižení.</p></blockquote>
 
-          <p>Stěžovatelka chtěla připojistit svého syna s Downovým syndromem. Když si pojišťovna postižení dítěte uvědomila, pojištění odmítla. Argumentovala zvýšeným zdravotním rizikem.</p>
+          <p>Stěžovatelka chtěla připojistit svého syna s Downovým syndromem. Když si pojišťovna jeho postižení &nbsp;uvědomila, pojištění odmítla. Argumentovala zvýšeným zdravotním rizikem.</p>
 
           <p>Zákon pojišťovnám umožňuje na základě posouzení zdravotního stavu přiměřeně navýšit pojistné nebo upravit pojistné plnění. Pojišťovna ale nemůže z důvodu zdravotního stavu pojištěnce automaticky odmítnout uzavřít pojistnou smlouvu. Takový postup je přímou diskriminací.</p>
 
