@@ -24,7 +24,7 @@ attachments:
 <a href="https://www.ochrance.cz/zpravodaj/za_cervence_a_srpen_2025/#item-3-0">
 <strong>Zastali jsme se člověka s Downovým syndromem, kterého pojišťovna odmítla</strong></a></p>
 <blockquote>
-<p>Stěžovatelka chtěla připojistit syna s Downovým syndromem. Když si pojišťovna postižení dítěte uvědomila, pojištění odmítla. Argumentovala zvýšeným zdravotním rizikem. Pojišťovna ale nemůže z důvodu zdravotního stavu pojištěnce automaticky odmítnout uzavřít pojistnou smlouvu. Takový postup je přímou diskriminací.</p></blockquote>
+<p>Stěžovatelka chtěla připojistit syna s Downovým syndromem. Když si pojišťovna jeho postižení uvědomila, pojištění odmítla. Argumentovala zvýšeným zdravotním rizikem. Pojišťovna ale nemůže z důvodu zdravotního stavu pojištěnce automaticky odmítnout uzavřít pojistnou smlouvu. Takový postup je přímou diskriminací.</p></blockquote>
 <p>
 <a href="https://www.ochrance.cz/zpravodaj/za_cervence_a_srpen_2025/#item-3-1">
 <strong>Posoudili jsme věkovou diskriminaci při přijímání do zaměstnání</strong></a></p>
