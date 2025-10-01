@@ -51,5 +51,4 @@ date: ""
 <strong>Co jsou to vlastně lidská práva?</strong></h3>
 <blockquote>
 <p>Jsou to základní práva a svobody a jsou to ta nejzákladnější práva každého z&nbsp;nás. Zaručuje je u nás 
-<a href="https://www.psp.cz/docs/laws/listina.html">Listina základních práv a svobod</a>. 
-<a href="https://30lidskychprav.cz/">Znáte svá práva?</a></p></blockquote>
+<a href="https://www.psp.cz/docs/laws/listina.html">Listina základních práv a svobod</a>.</p></blockquote>
