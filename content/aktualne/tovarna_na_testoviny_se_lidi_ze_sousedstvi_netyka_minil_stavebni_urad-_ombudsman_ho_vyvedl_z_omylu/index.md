@@ -5,14 +5,14 @@ date: 2025-10-02T12:52:00
 vystupy:
   - tz
 perex: <p>Zejména na zápach si stěžovali někteří obyvatelé domů z&nbsp;okolí
-  továrny na&nbsp;instantní těstoviny.&nbsp;Mohli tomu tito lidé předejít? Než
-  se vůbec začaly kopat základy budovy, měli být přizváni ke stavebnímu řízení,
-  aby vznesli své námitky. To se ale nestalo. Ukázala se i pochybení související
-  s&nbsp;odchýlením od původních plánů stavby. Lidé žijící jen kousek odsud se
-  s&nbsp;tím nechtěli smířit a obrátili se na úřady. Když to nepomohlo, místní
-  dívka kontaktovala ombudsmana Stanislava Křečka. Postupy úřadů shledal vadnými
-  stejně jako posléze Ministerstvo pro místní rozvoj, které zrušilo nezákonné
-  rozhodnutí stavebního úřadu.&nbsp;</p>
+  továrny na&nbsp;instantní těstoviny.&nbsp;Mohli tito lidé situaci předejít?
+  Než se vůbec začaly kopat základy budovy, měli být přizváni ke stavebnímu
+  řízení, aby vznesli své námitky. To se ale nestalo. Ukázala se i pochybení
+  související s&nbsp;odchýlením od původních plánů stavby. Lidé žijící jen
+  kousek odsud se s&nbsp;tím nechtěli smířit a obrátili se na úřady. Když to
+  nepomohlo, místní dívka kontaktovala ombudsmana Stanislava Křečka. Postupy
+  úřadů shledal vadnými stejně jako posléze Ministerstvo pro místní rozvoj,
+  které zrušilo nezákonné rozhodnutí stavebního úřadu.&nbsp;</p>
 attachments:
   - title: "Zpráva ombudsmana o šetření podnětu "
     link: https://eso.ochrance.cz/Nalezene/Edit/12692
