@@ -489,6 +489,10 @@ lawyers:
         role: právnička
         phone: 542 542 247
         email: eva.nehudkova@ochrance.cz
+      - name: Iva Palkovská
+        role: "právnička "
+        phone: 542 542 245
+        email: iva.palkovska@ochrance.cz
   - title: Odbor dohledu nad omezováním osobní svobody
     intro: >
       provádění systematických preventivních návštěv v zařízení, kde se mohou
