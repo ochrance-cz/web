@@ -600,10 +600,6 @@ lawyers:
         role: právník, Oddělení metodiky a analýz
         phone: 542 542 248
         email: adam.herma@ochrance.cz
-      - name: Marie Kmecová
-        role: právnička, Oddělení metodiky a analýz
-        phone: 542 542 484
-        email: marie.kmecova@ochrance.cz
       - name: Jana Pecková Hodečková
         role: právnička, Oddělení metodiky a analýz
         phone: 542 542 313
