@@ -74,8 +74,9 @@ Na dětského ombudsmana se může obrátit každé dítě, a to i bez vědomí 
 
 ## Jak kontaktovat dětského ombudsmana
 
-* [deti@ochrance.cz](mailto:deti@ochrance.cz)
-* [](https://portal.ochrance.cz/Submissions/AddChild)[online portál](https://portal.ochrance.cz/Submissions/AddChild)
+* [podatelna@ochrance.cz](mailto:podatelna@ochrance.cz) (pro dospělé)
+* [deti@ochrance.cz ](mailto:deti@ochrance.cz)(pro děti)
+* [](https://portal.ochrance.cz/Submissions/AddChild)[online portál](https://portal.ochrance.cz/Default/Show?ReturnUrl=%2f)
 * [](<>)542 542 888 (v pracovní dny od 8:00 do 16:00) 
 * osobně v pondělí a ve středu od 8:00 do 16:00 na Údolní 39, 602 00 v Brně 
 * dopisem na stejnou adresu 
