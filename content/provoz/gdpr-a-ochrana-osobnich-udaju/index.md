@@ -38,6 +38,8 @@ title: GDPR a ochrana osobních údajů
 <li>úřadům, institucím, zařízením a&nbsp;dalším osobám, jejichž činností se veřejný ochránce práv a ochránce práv dětí mohou&nbsp;zabývat, pokud je to nezbytné pro&nbsp;vyřízení podnětu;</li>
 <li>na základě zákona a&nbsp;se souhlasem ochránce nebo ochránce práv dětí orgánům veřejné moci (např.&nbsp;orgánům činným v&nbsp;trestním řízení, soudu);</li>
 <li>kontrolním orgánům, je-li to nezbytné v&nbsp;souvislosti s&nbsp;kontrolou činnosti Kanceláře veřejného ochránce práv a ochránce práv dětí.</li></ul>
+<p>Pseudoanonymizované údaje vybraných osob, které se nás obrátily podnětem, zpřístupňujeme prostřednictvím 
+<a href="https://eso.ochrance.cz/">Evidence stanovisek ochránce (ESO)</a>, abychom informovali veřejnost o činnosti veřejného ochránce práv a ochránce práv dětí.</p>
 <h2>Jak právo chrání Vaše osobní údaje?</h2>
 <h3>
 <strong>Máte právo na&nbsp;přístup ke&nbsp;svým osobním údajům</strong></h3>
