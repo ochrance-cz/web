@@ -17,7 +17,7 @@ perex: <p>Veřejný ochránce práv Stanislav Křeček se setkal s předsedou Se
 <tr>
 <td>
 <figure class="image">
-<img src="https://www.ochrance.cz/aktualne/verejny_ochrance_prav_a_predseda_senatu_ocenili_vzajemnou_spolupraci_a_debatovali_o_postaveni_ombudsmana_v_cr/img-20251015-wa0008_1_.jpg" alt="img-20251015-wa0008_1_.jpg"></figure></td>
+<img src="https://www.ochrance.cz/aktualne/verejny_ochrance_prav_a_predseda_senatu_ocenili_vzajemnou_spolupraci_a_debatovali_o_postaveni_ombudsmana_v_cr/img-20251015-wa0008_1_.jpg" alt="Veřejný ochránce práv Stanislav Křeček na setkání s předsedou Senátu Parlamentu České republiky Milošem Vystrčilem"></figure></td>
 <td>
 <figure class="image">
-<img src="https://www.ochrance.cz/aktualne/verejny_ochrance_prav_a_predseda_senatu_ocenili_vzajemnou_spolupraci_a_debatovali_o_postaveni_ombudsmana_v_cr/img-20251015-wa0003.jpg" alt="img-20251015-wa0003.jpg"></figure></td></tr></tbody></table></figure>
+<img src="https://www.ochrance.cz/aktualne/verejny_ochrance_prav_a_predseda_senatu_ocenili_vzajemnou_spolupraci_a_debatovali_o_postaveni_ombudsmana_v_cr/img-20251015-wa0003.jpg" alt="Veřejný ochránce práv Stanislav Křeček na setkání s předsedou Senátu Parlamentu České republiky Milošem Vystrčilem"></figure></td></tr></tbody></table></figure>
