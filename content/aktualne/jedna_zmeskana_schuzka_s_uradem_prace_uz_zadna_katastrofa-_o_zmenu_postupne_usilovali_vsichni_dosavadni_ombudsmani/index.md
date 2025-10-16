@@ -1,5 +1,5 @@
 ---
-title: Jedna zmeškaná schůzka s úřadem práce? Už žádná katastrofa. O změnu
+title: Jedna zmeškaná schůzka s úřadem práce? Už žádná katastrofa. O změnu
   postupně usilovali všichni dosavadní ombudsmani
 date: 2025-10-16T08:05:00
 vystupy:
