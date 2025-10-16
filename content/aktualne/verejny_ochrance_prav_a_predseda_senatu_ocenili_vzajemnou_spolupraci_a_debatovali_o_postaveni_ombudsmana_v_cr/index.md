@@ -1,6 +1,6 @@
 ---
-title: Veřejný ochránce práv a předseda Senátu ocenili vzájemnou spolupráci a
-  debatovali o postavení ombudsmana v ČR
+title: Veřejný ochránce práv a předseda Senátu ocenili vzájemnou spolupráci
+  a debatovali o postavení ombudsmana v ČR
 date: 2025-10-16T13:11:00
 vystupy:
   - aktualita
