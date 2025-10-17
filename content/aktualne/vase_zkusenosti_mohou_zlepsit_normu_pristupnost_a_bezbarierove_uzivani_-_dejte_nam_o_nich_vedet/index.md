@@ -25,7 +25,7 @@ attachments:
 <p>
 <strong>Komu lepší přístupnost usnadní život?</strong></p>
 <p>Třeba lidem s&nbsp;postižením či s&nbsp;dočasnými zdravotními problémy. Těhotným ženám. Lidem doprovázejícím dítě v&nbsp;kočárku či starším lidem.&nbsp;</p>
-<p>A vlastně nám všem, protože každý z&nbsp;nás se může ocitnout v&nbsp;životní situaci, kdy i drobná bariéra bude představovat komplikaci.</p>
+<p>A vlastně nám všem, protože každý z&nbsp;nás se může ocitnout v&nbsp;životní situaci, kdy i&nbsp;drobná bariéra bude představovat komplikaci.</p>
 <p>&nbsp;</p>
 <p>
 <strong>Co se s&nbsp; připomínkami stane dál?</strong></p>
