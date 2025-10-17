@@ -13,7 +13,7 @@ attachments:
     file: https://www.ochrance.cz/aktualne/vase_zkusenosti_mohou_zlepsit_normu_pristupnost_a_bezbarierove_uzivani_-_dejte_nam_o_nich_vedet/pristupnost_pripominky.pdf
 ---
 <p>Pro odeslání připomínek využijte&nbsp;
-<a href="https://forms.gle/Gokh9vS3D1zkeqWJ8">tento formulář</a>. Slouží odborné i laické veřejnosti a lze jej volně šířit. Připomínky sbíráme průběžně a dlouhodobě – posílat je můžete bez časového omezení.</p>
+<a href="https://forms.gle/Gokh9vS3D1zkeqWJ8">tento formulář</a>. Slouží odborné i laické veřejnosti a lze jej volně šířit. Připomínky sbíráme průběžně a&nbsp;dlouhodobě – posílat je můžete bez časového omezení.</p>
 <p>Aktuální podobu normy najdete na 
 <a href="https://mmr.gov.cz/cs/ministerstvo/stavebni-pravo/pravo-a-legislativa/novy-stavebni-zakon/vyhlasky/navrh-vyhlasky-o-pozadavcich-na-vystavbu">webu Ministerstva pro místní rozvoj</a>.</p>
 <blockquote>
