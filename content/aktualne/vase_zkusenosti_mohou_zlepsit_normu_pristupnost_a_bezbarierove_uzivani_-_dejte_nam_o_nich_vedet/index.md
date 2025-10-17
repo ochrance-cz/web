@@ -1,29 +1,24 @@
 ---
-title: Vaše zkušenosti mohou zlepšit normu „Přístupnost a bezbariérové užívání“.
+title: Vaše zkušenosti mohou zlepšit normu „Přístupnost a bezbariérové užívání“.
   Dejte nám o nich vědět!
 date: 2025-10-17T08:14:00
 vystupy:
   - aktualita
-perex: >-
-  <p>Podporujeme participaci lidí s&nbsp;postižením a vůbec všech, kdo mají
+perex: <p>Podporujeme participaci lidí s&nbsp;postižením a vůbec všech, kdo mají
   zájem přispět svými poznatky z&nbsp;praxe. Napište nám, v&nbsp;čem podle vás
   norma nevyhovuje a jak byste ji upravili.</p>
-
-  <p>Podporujeme participaci lidí s&nbsp;postižením a vůbec všech, kdo mají zájem přispět svými poznatky z&nbsp;praxe. Napište nám, v&nbsp;čem podle vás norma nevyhovuje a jak byste ji upravili.</p>
-
-  <p>Pro odeslání připomínek využijte&nbsp;
-
-  <a href="https://forms.gle/Gokh9vS3D1zkeqWJ8">tento formulář</a>. Slouží odborné i laické veřejnosti a lze jej volně šířit. Připomínky sbíráme průběžně a dlouhodobě – posílat je můžete bez časového omezení.</p>
-
-  <p>Aktuální podobu normy najdete na &nbsp;
-
-  <a href="https://mmr.gov.cz/cs/ministerstvo/stavebni-pravo/pravo-a-legislativa/novy-stavebni-zakon/vyhlasky/navrh-vyhlasky-o-pozadavcich-na-vystavbu">webu Ministerstva pro místní rozvoj</a>.</p>
 attachments:
   - title: Vaše zkušenosti mohou zlepšit normu „Přístupnost a bezbariérové užívání“.
       Dejte nám o nich vědět!
     file: https://www.ochrance.cz/aktualne/vase_zkusenosti_mohou_zlepsit_normu_pristupnost_a_bezbarierove_uzivani_-_dejte_nam_o_nich_vedet/pristupnost_pripominky.pdf
 ---
+<p>Podporujeme participaci lidí s&nbsp;postižením a vůbec všech, kdo mají zájem přispět svými poznatky z&nbsp;praxe. Napište nám, v&nbsp;čem podle vás norma nevyhovuje a jak byste ji upravili.</p>
+<p>Pro odeslání připomínek využijte&nbsp; 
+<a href="https://forms.gle/Gokh9vS3D1zkeqWJ8">tento formulář</a>. Slouží odborné i laické veřejnosti a lze jej volně šířit. Připomínky sbíráme průběžně a dlouhodobě – posílat je můžete bez časového omezení.</p>
+<p>Aktuální podobu normy najdete na &nbsp;&nbsp;
+<a href="https://mmr.gov.cz/cs/ministerstvo/stavebni-pravo/pravo-a-legislativa/novy-stavebni-zakon/vyhlasky/navrh-vyhlasky-o-pozadavcich-na-vystavbu">webu Ministerstva pro místní rozvoj</a>.</p>
 <blockquote>
+<p>&nbsp;</p>
 <p>
 <strong>Kvůli čemu je kvalitní nastavení novely důležité?&nbsp;</strong></p>
 <p>Aby z&nbsp;veřejných míst mizely překážky a bariéry.&nbsp;</p>
