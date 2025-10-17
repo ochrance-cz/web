@@ -8,8 +8,8 @@ perex: <p>Podporujeme participaci lidí s&nbsp;postižením a vůbec všech, kdo
   zájem přispět svými poznatky z&nbsp;praxe. Napište nám, v&nbsp;čem podle vás
   norma nevyhovuje a jak byste ji upravili.</p>
 attachments:
-  - title: Vaše zkušenosti mohou zlepšit normu „Přístupnost a bezbariérové užívání“.
-      Dejte nám o nich vědět!
+  - title: "Leták: Vaše zkušenosti mohou zlepšit normu „Přístupnost a bezbariérové
+      užívání“. Dejte nám o nich vědět!"
     file: https://www.ochrance.cz/aktualne/vase_zkusenosti_mohou_zlepsit_normu_pristupnost_a_bezbarierove_uzivani_-_dejte_nam_o_nich_vedet/pristupnost_pripominky.pdf
 ---
 <p>Pro odeslání připomínek využijte&nbsp;
