@@ -26,6 +26,9 @@ Tyto předpisy musí dodržet již projektant stavby, jinak stavební úřad zá
 
 Pokud přestane být přístupný starší prostor, přestože má být přístupný, stavební úřad prostor zkontroluje a vyzve vlastníka, aby provedl úpravy, které prostor opět zpřístupní.
 
+**Máte výhrady k právní úpravě normy „Přístupnost a bezbariérové užívání“?**
+Napište nám, v čem podle vás norma nevyhovuje a jak byste ji upravili. Pro odeslání připomínek využijte [tento formulář](https://forms.gle/Gokh9vS3D1zkeqWJ8). Slouží odborné i laické veřejnosti a lze jej volně šířit. Připomínky sbíráme průběžně a dlouhodobě – posílat je můžete bez časového omezení. Podporujeme participaci lidí s postižením a vůbec všech, kdo mají zájem přispět svými poznatky z praxe. Vaše zkušenosti mohou zlepšit normu „Přístupnost a bezbariérové užívání“. Dejte nám o nich vědět! Proč je to důležité? Chceme, aby z veřejných míst mizely překážky a bariéry. S připomínkami seznámíme Ministerstvo pro místní rozvoj a budeme prosazovat, aby se odrazily v novele normy. 
+
 ## Co když prostor není přístupný?
 
 Na nepřístupnost můžete upozornit stavební úřad, v jehož obvodu se prostor nachází. Popište jednotlivé překážky – co přesně a jak brání užívání prostoru. Stavební úřad musí situaci prověřit. Pokud o to požádáte, vyrozumí Vás, jak s Vaším upozorněním naložil.
