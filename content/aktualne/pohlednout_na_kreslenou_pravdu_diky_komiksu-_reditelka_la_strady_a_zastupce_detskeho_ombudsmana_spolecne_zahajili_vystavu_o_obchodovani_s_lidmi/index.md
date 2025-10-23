@@ -4,10 +4,16 @@ title: Pohlédnout na Kreslenou pravdu díky komiksu. Ředitelka La Strady a
 date: 2025-10-23T12:37:00
 vystupy:
   - aktualita
-perex: >-
-  <p>
-
-  <strong>Až do 18. listopadu si mohou návštěvníci Galerie U Františkánů prohlédnout výstavu komiksů s&nbsp;názvem Kreslená pravda – obchodování s lidmi očima mladých umělců. Zpracovává téma vykořisťování pomocí příběhů, které se snoubí s&nbsp;podmanivými obrazy. Mladí tvůrci, jejichž komiksy a plakáty jsou na výstavě k&nbsp;vidění, jsou vrstevníky dětí, které vykořisťování čelí. Výstava je vyvrcholením výtvarné soutěže. V&nbsp;ní měli studenti uměleckých škol navrhnout letáky s&nbsp;komiksy tak, aby si děti uvědomily, že oni nebo jejich kamarádi mohou být&nbsp;v podobné situaci. Vzniklé práce pomáhají šířit, na koho se mohou ohrožené děti obrátit. Výstava představuje všechny návrhy mladých tvůrců.&nbsp;</strong></p>
+perex: <p>Až do 18. listopadu si mohou návštěvníci Galerie U Františkánů
+  prohlédnout výstavu komiksů s&nbsp;názvem Kreslená pravda – obchodování s
+  lidmi očima mladých umělců. Zpracovává téma vykořisťování pomocí příběhů,
+  které se snoubí s&nbsp;podmanivými obrazy. Mladí tvůrci, jejichž komiksy a
+  plakáty jsou na výstavě k&nbsp;vidění, jsou vrstevníky dětí, které
+  vykořisťování čelí. Výstava je vyvrcholením výtvarné soutěže. V&nbsp;ní měli
+  studenti uměleckých škol navrhnout letáky s&nbsp;komiksy tak, aby si děti
+  uvědomily, že oni nebo jejich kamarádi mohou být&nbsp;v podobné situaci.
+  Vzniklé práce pomáhají šířit, na koho se mohou ohrožené děti obrátit. Výstava
+  představuje všechny návrhy mladých tvůrců.&nbsp;</p>
 ---
 <p>
 <i>„Pracovní vykořisťování, a ještě hůře to sexuálně zaměřené, patří mezi nejzávažnější zásahy do práv, s nimiž se děti ve světě dospělých setkávají. Mění je v objekty a popírá podstatu jejich dětství,“</i> řekl zástupce dětského ombudsmana Vít Alexander Schorm ve svém projevu při zahájení vernisáže v&nbsp;úterý 21. října. Datum zahájení i ukončení výstavy není náhodné. Organizátoři je vybrali s&nbsp;ohledem na blízkost dvou významných dní&nbsp;– 18. října, což je Evropský den boje proti obchodování s lidmi. Ukončení pak připadá na období kolem 19. listopadu – Světového dne prevence týrání a zneužívání dětí.&nbsp;</p>
