@@ -11,8 +11,6 @@ perex: <p>Upřímně nás těší, že Otakara Motejla, prvního českého ombud
   vzpomínáme. Jeho moudrost, lidskost a odhodlání bojovat za spravedlnost jsou
   pro nás vzorem a&nbsp;inspirací.</p>
 ---
-<figure class="image">
-<img src="https://www.ochrance.cz/aktualne/prezident_ocenil_prvniho_ceskeho_ombudsmana_otakara_motejla_statnim_vyznamenanim/foto_1_na_fb_pouz_ito_neda_vno.jpg" alt="Portrét Otakara Motejla"></figure>
 <p>Státní vyznamenání pro Otakara Motejla přichází v&nbsp;roce, kdy Kancelář ombudsmana (v současnosti přesněji Kancelář ombudsmana a dětského ombudsmana) slaví 25. výročí svého vzniku. Také proto si letos jeho výjimečnou osobnost, která utvářela podobu „ombudsmanství“ v Česku, připomínáme obzvlášť intenzivně.&nbsp;</p>
 <p>
 <i>„Zvolení Otakara Motejla prvním veřejným ochráncem práv bylo vynikající volbou, kterou jsem jako tehdejší člen Poslanecké sněmovny podpořil. Jeho profesní i&nbsp;lidský příběh – od obhajoby disidentů až po jeho působení v čele ombudsmanského úřadu – dokládá jeho hluboký smysl pro spravedlnost a rovnost před právem,</i>“ připomíná současný ombudsman Stanislav Křeček.&nbsp;</p>
