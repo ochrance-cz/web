@@ -1,13 +1,13 @@
 ---
-title: Prezident propůjčil prvnímu českému ombudsmanovi Otakaru Motejlovi státní
-  vyznamenání
+title: Prezident ocenil prvního českého ombudsmana Otakara Motejla státním
+  vyznamenáním
 date: 2025-10-28T19:49:00
 vystupy:
   - aktualita
 perex: <p>Upřímně nás těší, že Otakara Motejla, prvního českého ombudsmana, dnes
   prezident Petr Pavel ocenil státním vyznamenáním. Za vynikající zásluhy
   o&nbsp;rozvoj demokracie, humanity a&nbsp;lidská práva mu propůjčil&nbsp;in
-  memoriam řád Tomáše Garrigua Masaryka. S&nbsp;úctou na Otakara Motejla
+  memoriam Řád Tomáše Garrigua Masaryka. S&nbsp;úctou na Otakara Motejla
   vzpomínáme. Jeho moudrost, lidskost a odhodlání bojovat za spravedlnost jsou
   pro nás vzorem a&nbsp;inspirací.</p>
 ---
