@@ -12,7 +12,7 @@ perex: <p>Upřímně nás těší, že Otakara Motejla, prvního českého ombud
   pro nás vzorem a&nbsp;inspirací.</p>
 ---
 <figure class="image">
-<img src="https://www.ochrance.cz/aktualne/foto_1_na_fb_pouz_ito_neda_vno.jpg" alt="Portrét Otakara Motejla"></figure>
+<img src="https://www.ochrance.cz/aktualne/prezident_ocenil_prvniho_ceskeho_ombudsmana_otakara_motejla_statnim_vyznamenanim/foto_1_na_fb_pouz_ito_neda_vno.jpg" alt="Portrét Otakara Motejla"></figure>
 <p>Státní vyznamenání pro Otakara Motejla přichází v&nbsp;roce, kdy Kancelář ombudsmana (v současnosti přesněji Kancelář ombudsmana a dětského ombudsmana) slaví 25. výročí svého vzniku. Také proto si letos jeho výjimečnou osobnost, která utvářela podobu „ombudsmanství“ v Česku, připomínáme obzvlášť intenzivně.&nbsp;</p>
 <p>
 <i>„Zvolení Otakara Motejla prvním veřejným ochráncem práv bylo vynikající volbou, kterou jsem jako tehdejší člen Poslanecké sněmovny podpořil. Jeho profesní i&nbsp;lidský příběh – od obhajoby disidentů až po jeho působení v čele ombudsmanského úřadu – dokládá jeho hluboký smysl pro spravedlnost a rovnost před právem,</i>“ připomíná současný ombudsman Stanislav Křeček.&nbsp;</p>
@@ -24,7 +24,7 @@ perex: <p>Upřímně nás těší, že Otakara Motejla, prvního českého ombud
 <i>„Byl opravdu skvělý právník. Byl to člověk, který měl vysokou míru legitimity, u veřejnosti i u politické třídy.“</i></p>
 <p>Osobnější stránku Otakara Motejla přibližuje Marek Hanák, právník, který pracuje v Kanceláři ombudsmana a dětského ombudsmana téměř od jejího začátku: 
 <i>„Otakar Motejl měl velké charisma. Svým klidným a lidským vystupováním si uměl získat důvěru lidí. Vztah s&nbsp;ním byl velmi hezký. Bral nás právníky a celý personál ombudsmana vlastně jako svou širší rodinu. Vždycky se nás snažil vést tak, abychom se snažili lidem pomoct a plnili poslání, které ombudsman má.“</i></p>
-<p>* Vzpomínky Josefa Baxy a Kateřiny Šimáčkové zazněly v&nbsp;rámci 124. a 125. dílu podcastu&nbsp;
+<p>* Vzpomínky Josefa Baxy a Kateřiny Šimáčkové zazněly v&nbsp;rámci 124. a 125. dílu podcastu&nbsp; 
 <a href="https://www.youtube.com/playlist?list=PLWNv_IxgJdEKvV9-ZYu7VTxvc1SjDRb2i">„Na kávu s&nbsp;ombudsmanem“</a>&nbsp;.</p>
 <blockquote>
 <p>
