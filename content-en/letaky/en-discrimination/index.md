@@ -18,4 +18,8 @@ attachments:
     file: discrimination-romanian.pdf
   - title: Slovenian
     file: discrimination-slovenian.pdf
+  - title: Spanish
+    file: discrimination-spanish.pdf
+  - title: Ukrainian
+    file: discrimination-ukrainian.pdf
 ---
