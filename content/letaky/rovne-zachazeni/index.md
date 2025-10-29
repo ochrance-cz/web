@@ -22,4 +22,8 @@ attachments:
     file: rovne-zachazeni-bulgarian.pdf
   - title: italsky
     file: rovne-zachazeni-italian.pdf
+  - title: španělsky
+    file: rovne-zachazeni-spanish.pdf
+  - title: rumunsky
+    file: rovne-zachazeni-romanian.pdf
 ---
