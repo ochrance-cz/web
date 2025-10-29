@@ -18,4 +18,8 @@ attachments:
     file: hungarian-citizens-of-the-eu.pdf
   - title: Danish
     file: eu-borgere.pdf
+  - title: Lithuanian
+    file: lithuanian-citizens-of-the-eu.pdf
+  - title: Latvian
+    file: latvian-citizens-of-the-eu.pdf
 ---
