@@ -26,4 +26,8 @@ attachments:
     file: euroopa-liidu.pdf
   - title: Croatian
     file: croatian-citizens-of-the-eu.pdf
+  - title: Dutch
+    file: burgers-van-de-europese-unie.pdf
+  - title: Italian
+    file: cittadini-dell_unione.pdf
 ---
