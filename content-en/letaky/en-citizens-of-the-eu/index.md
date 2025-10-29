@@ -34,4 +34,10 @@ attachments:
     title: Romanian
   - title: Portuguese
     file: portuguese-citizens-of-the-eu.pdf
+  - title: Greek
+    file: citizens-of-the-eu-greek.pdf
+  - title: Swedish
+    file: europeiska-unionens-medborgare.pdf
+  - title: Spanish
+    file: los-ciudadanos-de-la-union-europea.pdf
 ---
