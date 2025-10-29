@@ -14,4 +14,8 @@ attachments:
     file: obywatele_unii_europejskiej.pdf
   - title: Bulgarian
     file: bulgarian-citizens-of-the-eu.pdf
+  - title: Hungarian
+    file: hungarian-citizens-of-the-eu.pdf
+  - title: Danish
+    file: eu-borgere.pdf
 ---
