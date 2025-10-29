@@ -10,4 +10,8 @@ attachments:
     file: discrimination-croatian.pdf
   - title: Hungarian
     file: discrimination-hungarian.pdf
+  - title: Italian
+    file: discrimination-italian.pdf
+  - title: Polish
+    file: discrimination-polish.pdf
 ---
