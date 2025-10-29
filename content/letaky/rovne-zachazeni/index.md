@@ -14,4 +14,8 @@ attachments:
     file: rovne-zachazeni-ukrainian.pdf
   - title: chorvatsky
     file: rovne-zachazeni-croatian.pdf
+  - title: maďarsky
+    file: rovne-zachazeni-hungarian.pdf
+  - title: slovinsky
+    file: rovne-zachazeni-slovenian.pdf
 ---
