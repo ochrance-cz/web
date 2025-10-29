@@ -16,19 +16,19 @@ attachments:
 <h4>
 <strong>Pracovní náplň bude spočívat především v&nbsp;těchto činnostech:</strong></h4>
 <ul>
-<li>Vyřizování individuálních podnětů zejména z
-<strong>&nbsp;</strong>oblasti pozemkového práva, evidence obyvatel, matriční úřady, státní služba a služební poměr, dozor a kontrola státu nad územní samosprávou.</li>
+<li>Vyřizování individuálních podnětů zejména z&nbsp;
+<strong> </strong>oblasti pozemkového práva, evidence obyvatel, matriční úřady, státní služba a služební poměr, dozor a kontrola státu nad územní samosprávou.</li>
 <li>Odborná příprava podkladů pro veřejného ochránce práv a ochránce práv dětí.</li>
 <li>Zpracování připomínek k právním předpisům.</li>
 <li>Zpracování systémových témat a doporučení.</li>
-<li>Vedení odborných seminářů pro pracovníky veřejné správy i laickou veřejnost. </li>
+<li>Vedení odborných seminářů pro pracovníky veřejné správy i laickou veřejnost.</li>
 <li>Reprezentace Kanceláře veřejného ochránce práv a ochránce práv dětí na národní i mezinárodní úrovni.</li></ul>
 <p>Bližší popis pracovní pozice i s&nbsp;ohledem na to, co může zajímat lidi se zdravotním omezením, najdete v 
-<a href="media/jak_vypada_prace_v_odboru_verejne_spravy_zdravotnictvi_a_prace.pdf">přiloženém&nbsp;dokumentu</a>.</p>
+<a href="https://www.ochrance.cz/aktualne/hledame_pravnika_pravnicku_do_tymu_verejneho_poradku_zdravotnictvi_a_prace/jak_vypada_prace_v_odboru_verejne_spravy_zdravotnictvi_a_prace.pdf">přiloženém&nbsp;dokumentu</a>.</p>
 <h4>
 <strong>Co od Vás požadujeme:</strong></h4>
 <ul>
-<li>Ukončené vysokoškolské vzdělání v&nbsp;oboru právo (Mgr.). </li>
+<li>Ukončené vysokoškolské vzdělání v&nbsp;oboru právo (Mgr.).</li>
 <li>Dobrou znalost češtiny, schopnost stručně, jasně a&nbsp;srozumitelně psát a&nbsp;hovořit.</li>
 <li>Schopnost analytické a&nbsp;koncepční práce.</li>
 <li>Komunikační a prezentační dovednosti.</li>
@@ -48,9 +48,9 @@ attachments:
 <li>5 dnů osobního volna ročně,</li>
 <li>příspěvek na stravování ve výši 89 Kč na den,</li>
 <li>práci v&nbsp;centru Brna s&nbsp;možností parkování.</li></ul>
-<p>Záleží nám na&nbsp;rozmanitosti. Jste vítáni bez ohledu na&nbsp;věk, pohlaví, zdravotní stav, rasu, etnický původ, národnost, sexuální orientaci, náboženské vyznání či&nbsp;světový názor. Jsme náročný, ale férový zaměstnavatel. Pokud vás zajímá blíže, jak to u nás chodí, koukněte do naší&nbsp;
+<p>Záleží nám na&nbsp;rozmanitosti. Jste vítáni bez ohledu na&nbsp;věk, pohlaví, zdravotní stav, rasu, etnický původ, národnost, sexuální orientaci, náboženské vyznání či&nbsp;světový názor. Jsme náročný, ale férový zaměstnavatel. Pokud vás zajímá blíže, jak to u nás chodí, koukněte do naší&nbsp; 
 <a href="https://www.ochrance.cz/media/personalni_strategie.pdf">personální strategie</a>.</p>
-<p>Jestli se k&nbsp;nám chcete připojit, napište nám do&nbsp;
-<strong>12. 11. 2025</strong> na&nbsp;adresu&nbsp;
+<p>Jestli se k&nbsp;nám chcete připojit, napište nám do&nbsp; 
+<strong>12. 11. 2025</strong> na&nbsp;adresu&nbsp; 
 <strong>wiszova@ochrance.cz</strong>. Napište nám, proč s&nbsp;námi chcete spolupracovat a připojte Váš strukturovaný životopis. Napište také, pokud máte nějaké specifické potřeby nebo doplňující otázky (například v&nbsp;souvislosti se zdravotním omezením).&nbsp;</p>
 <p>Na termínu nástupu se můžeme domluvit.</p>
