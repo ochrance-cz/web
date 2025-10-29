@@ -17,4 +17,8 @@ attachments:
     file: grazhdani_na_evropeiskija_sjuz.pdf
   - file: cetateni_al_uniunii_europene.pdf
     title: rumunsky
+  - title: dánsky
+    file: eu-borgere.pdf
+  - title: estonsky
+    file: euroopa-liidu.pdf
 ---
