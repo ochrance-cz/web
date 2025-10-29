@@ -25,4 +25,8 @@ attachments:
     file: croatian-citizens-of-the-eu.pdf
   - title: maďarsky
     file: hungarian-citizens-of-the-eu.pdf
+  - title: italsky
+    file: cittadini-dell_unione.pdf
+  - title: litevsky
+    file: lithuanian-citizens-of-the-eu.pdf
 ---
