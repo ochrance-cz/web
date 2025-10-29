@@ -14,4 +14,8 @@ attachments:
     file: discrimination-italian.pdf
   - title: Polish
     file: discrimination-polish.pdf
+  - title: Romanian
+    file: discrimination-romanian.pdf
+  - title: Slovenian
+    file: discrimination-slovenian.pdf
 ---
