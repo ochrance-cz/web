@@ -37,4 +37,10 @@ attachments:
     file: latvian-citizens-of-the-eu.pdf
   - title: portugalsky
     file: portuguese-citizens-of-the-eu.pdf
+  - title: švédsky
+    file: europeiska-unionens-medborgare.pdf
+  - title: slovinsky
+    file: drzavljani-evropske-unije.pdf
+  - title: španělsky
+    file: los-ciudadanos-de-la-union-europea.pdf
 ---
