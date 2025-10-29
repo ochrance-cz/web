@@ -30,4 +30,8 @@ attachments:
     file: burgers-van-de-europese-unie.pdf
   - title: Italian
     file: cittadini-dell_unione.pdf
+  - file: romanian-citizens-of-the-eu.pdf
+    title: Romanian
+  - title: Portuguese
+    file: portuguese-citizens-of-the-eu.pdf
 ---
