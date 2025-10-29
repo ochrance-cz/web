@@ -22,4 +22,8 @@ attachments:
     file: lithuanian-citizens-of-the-eu.pdf
   - title: Latvian
     file: latvian-citizens-of-the-eu.pdf
+  - title: Estonian
+    file: euroopa-liidu.pdf
+  - title: Croatian
+    file: croatian-citizens-of-the-eu.pdf
 ---
