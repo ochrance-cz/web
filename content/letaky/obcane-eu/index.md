@@ -33,4 +33,8 @@ attachments:
     file: burgers-van-de-europese-unie.pdf
   - title: řecky
     file: citizens-of-the-eu-greek.pdf
+  - title: lotyšsky
+    file: latvian-citizens-of-the-eu.pdf
+  - title: portugalsky
+    file: portuguese-citizens-of-the-eu.pdf
 ---
