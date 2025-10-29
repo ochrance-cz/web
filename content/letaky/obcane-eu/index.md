@@ -29,4 +29,8 @@ attachments:
     file: cittadini-dell_unione.pdf
   - title: litevsky
     file: lithuanian-citizens-of-the-eu.pdf
+  - title: nizozemsky
+    file: burgers-van-de-europese-unie.pdf
+  - title: řecky
+    file: citizens-of-the-eu-greek.pdf
 ---
