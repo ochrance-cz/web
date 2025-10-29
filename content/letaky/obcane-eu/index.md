@@ -21,4 +21,8 @@ attachments:
     file: eu-borgere.pdf
   - title: estonsky
     file: euroopa-liidu.pdf
+  - title: chorvatsky
+    file: croatian-citizens-of-the-eu.pdf
+  - title: maďarsky
+    file: hungarian-citizens-of-the-eu.pdf
 ---
