@@ -18,4 +18,8 @@ attachments:
     file: rovne-zachazeni-hungarian.pdf
   - title: slovinsky
     file: rovne-zachazeni-slovenian.pdf
+  - title: bulharsky
+    file: rovne-zachazeni-bulgarian.pdf
+  - title: italsky
+    file: rovne-zachazeni-italian.pdf
 ---
