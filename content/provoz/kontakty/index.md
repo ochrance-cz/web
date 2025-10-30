@@ -229,7 +229,7 @@ lawyers:
         role: právnička (sociálně-právní ochrana dětí, pěstounská péče)
         phone: 542 542 344
         email: iva.vodakova@ochrance.cz
-      - name: Veronika Barešová
+      - name: Veronika Bureš Barešová
         role: právnička (sociálně-právní ochrana dětí, vstupy do soudních řízení,
           monitoring)
         phone: 542 542 233
