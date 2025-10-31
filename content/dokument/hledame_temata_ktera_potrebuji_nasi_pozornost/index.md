@@ -8,7 +8,6 @@ date: 2025-10-31
 <p>&nbsp;</p>
 <figure class="image">
 <img style="aspect-ratio:98/96;" src="https://www.ochrance.cz/dokument/hledame_temata_ktera_potrebuji_nasi_pozornost/symbol_snadno_srozumitelnych_informaci.png" alt="symbol_snadno_srozumitelnych_informaci.png" width="98" height="96"></figure>
-<p>&nbsp;</p>
 <p>Je tento text pro vás nesrozumitelný? Ozvěte se nám&nbsp; na e-mail&nbsp; 
 <a href="mailto:participace@ochrance.cz">participace@ochrance.cz</a> nebo na telefonní číslo&nbsp; 725&nbsp;988&nbsp;016.</p>
 <p>Vidíte problém, který by neměl zůstat bez povšimnutí? Přemýšlíme, jaká systémová témata bychom měli v&nbsp;dalších letech řešit. A právě s tím nám můžete pomoci vy.</p>
