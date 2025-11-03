@@ -33,14 +33,14 @@ date: 2025-10-31
 <a href="mailto:participace@ochrance.cz">participace@ochrance.cz</a>.</p>
 <figure class="image">
 <img style="aspect-ratio:98/96;" src="https://www.ochrance.cz/dokument/hledame_temata_ktera_potrebuji_nasi_pozornost/symbol_snadno_srozumitelnych_informaci.png" alt="symbol_snadno_srozumitelnych_informaci.png" width="98" height="96"></figure>
-<p>Je tento text pro vás nesrozumitelný? Ozvěte se nám&nbsp; na e-mail&nbsp; 
+<p>Je tento text pro vás nesrozumitelný? Ozvěte se nám&nbsp;na e-mail&nbsp; 
 <a href="mailto:participace@ochrance.cz">participace@ochrance.cz</a> nebo na telefonní číslo&nbsp;725&nbsp;988&nbsp;016.</p>
 <h2>
 <strong>We are looking for issues that need our attention</strong></h2>
 <p>Do you see a problem that should not go unnoticed?</p>
 <p>We are thinking about which long-term, systemic issues we should focus on in the coming years – and we would like your help.</p>
 <p>Tell us which human rights or public administration issues you believe matter most. It might be something that affects many people, vulnerable groups, or an area where change has been slow or difficult to achieve.</p>
-<p>We will collect all suggestions and share them with the Ombudsman and the Children’s Ombudsman. We will propose to give priority to issues that best meet these criteria:</p>
+<p>We will collect all suggestions and share them with the Ombudperson and the Children’s Ombudsperson. We will propose to give priority to issues that best meet these criteria:</p>
 <ol>
 <li>
 <strong>Serious and systemic</strong> – Problems that affect many people or vulnerable groups and require urgent action.</li>
@@ -52,7 +52,7 @@ date: 2025-10-31
 <strong>Within our mandate</strong> – We focus on protecting rights and improving the work of public authorities. First, we check whether the issue falls within our role.</li>
 <li>
 <strong>Feasible and sustainable</strong> – We want to be effective. We will choose topics we have the expertise, time, and resources to work on in the long term.</li></ol>
-<p>Take part and tell us which topics you think should be at the centre of the Ombudsmen’s attention. Your ideas will help shape their future priorities.</p>
+<p>Take part and tell us which topics you think should be at the centre of the Ombudspersons attention. Your ideas will help shape their future priorities.</p>
 <blockquote>
 <p>
 <strong>You can share your suggestion through our online form – find it here: XXX. You can fill it in as an individual or on behalf of an organisation.</strong></p></blockquote>
