@@ -250,6 +250,22 @@ lawyers:
         role: právnička (monitoring, poradní orgán)
         phone: 542 542 202
         email: aneta.majercikova@ochrance.cz
+      - name: Aneta Hejduková
+        role: právnička (sociálně-právní ochrana dětí)
+        phone: 542 542 214
+        email: aneta.hejdukova@ochrance.cz
+      - name: Eliška Klusáková
+        role: právnička (školství)
+        phone: 542 542 212
+        email: eliska.klusakova@ochrance.cz
+      - name: Kristýna Štětinová
+        role: odborná referentka (ochrana práv dětí)
+        phone: 542 542 218
+        email: kristyna.stetinova@ochrance.cz
+      - name: Kateřina Jehličková
+        role: právnička (monitoring, návštěvy zařízení)
+        phone: 542 542 223
+        email: katerina.jehlickova@ochrance.cz
   - title: Odbor veřejného pořádku, zdravotnictví a práce
     intro: >
       matriky, evidence obyvatel, občanské a cestovní průkazy, státní občanství,
@@ -319,6 +335,10 @@ lawyers:
         role: "právnička (zdravotnictví) "
         phone: 542 542 350
         email: petra.dostalova@ochrance.cz
+      - name: Soňa Čajková
+        role: právnička (přestupky, ochrana spotřebitele)
+        phone: 542 542 217
+        email: sona.cajkova@ochrance.cz
   - title: Odbor sociálního zabezpečení
     intro: dávky pomoci v hmotné nouzi, příspěvek na péči, dávky pro zdravotně
       postižené, důchody, dávky nemocenského pojištění, dávky státní sociální
@@ -493,6 +513,10 @@ lawyers:
         role: "právnička "
         phone: 542 542 245
         email: iva.palkovska@ochrance.cz
+      - name: Hana Brablcová
+        role: "právnička "
+        phone: 542 542 215
+        email: hana.brablcova@ochrance.cz
   - title: Odbor dohledu nad omezováním osobní svobody
     intro: >
       provádění systematických preventivních návštěv v zařízení, kde se mohou
@@ -612,6 +636,10 @@ lawyers:
         role: právnička, Oddělení metodiky a analýz
         phone: 542 542 255
         email: zuzana.durajova@ochrance.cz
+      - name: Kristína Kružlicová
+        role: právnička, Oddělení metodiky a analýz
+        phone: 542 542 373
+        email: kristina.kruzlicova@ochrance.cz
   - title: Oddělení výzkumu
     people:
       - name: Jakub Konečný
@@ -626,4 +654,8 @@ lawyers:
         role: výzkumná pracovnice
         phone: 542 542 355
         email: eva.cermakova@ochrance.cz
+      - name: Veronika Prokschová
+        role: výzkumná pracovnice
+        phone: 542 542 349
+        email: veronika.prokschova@ochrance.cz
 ---
