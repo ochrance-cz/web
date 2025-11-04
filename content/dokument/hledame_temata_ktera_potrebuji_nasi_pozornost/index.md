@@ -22,7 +22,10 @@ date: 2025-10-31
 <p>Zapojte se a napište nám, jaká témata by podle vás měla být v centru pozornosti ombudsmanů. I na základě vašich návrhů budou ombudsmani rozhodovat o prioritách své činnosti.&nbsp;</p>
 <blockquote>
 <p>
-<strong>Sdílejte s námi svůj návrh tématu prostřednictvím našeho dotazníku – &nbsp; XXX.&nbsp;</strong></p></blockquote>
+<strong>Sdílejte s námi svůj návrh tématu prostřednictvím našeho dotazníku –</strong>
+<a href="%0bhttps:/ec.europa.eu/eusurvey/runner/temata_ombudsman">
+<strong>https://ec.europa.eu/eusurvey/runner/temata_ombudsman</strong></a>
+<strong>.&nbsp;</strong></p></blockquote>
 <p>Dotazník můžete vyplnit 
 <strong>anonymně</strong>, nebo nám na konci 
 <strong>zanechat kontakt</strong>, pokud s námi chcete zůstat v kontaktu i do budoucna. Rádi vás budeme informovat o dalším postupu a o tom, jak s vašimi podněty pracujeme. Vyplnit jej můžete za jednotlivce nebo za organizaci.</p>
@@ -55,7 +58,12 @@ date: 2025-10-31
 <p>Take part and tell us which topics you think should be at the centre of the Ombudspersons attention. Your ideas will help shape their future priorities.</p>
 <blockquote>
 <p>
-<strong>You can share your suggestion through our online form – find it here: XXX. You can fill it in as an individual or on behalf of an organisation.</strong></p></blockquote>
+<strong>You can share your suggestion through our online form –&nbsp;</strong>
+<br>
+<a href="%0bhttps:/ec.europa.eu/eusurvey/runner/temata_ombudsman">
+<strong>https://ec.europa.eu/eusurvey/runner/temata_ombudsman</strong></a>
+<strong>.&nbsp;</strong></p></blockquote>
+<p>You can fill it in as an individual or on behalf of an organisation.</p>
 <p>
 <strong>We are collecting responses until December 15, 2025.</strong></p>
 <p>You can submit the form anonymously, or leave your contact details if you would like to stay in touch. We will be happy to let you know how we use your input and what happens next. Your responses and any personal data will stay confidential and be used only for our internal work.</p>
