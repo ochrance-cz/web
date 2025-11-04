@@ -23,9 +23,8 @@ date: 2025-10-31
 <blockquote>
 <p>
 <strong>Sdílejte s námi svůj návrh tématu prostřednictvím našeho dotazníku –</strong>
-<a href="%0bhttps:/ec.europa.eu/eusurvey/runner/temata_ombudsman">
-<strong>https://ec.europa.eu/eusurvey/runner/temata_ombudsman</strong></a>
-<strong>.&nbsp;</strong></p></blockquote>
+<a href="https://ec.europa.eu/eusurvey/runner/temata_ombudsman">
+<strong>https://ec.europa.eu/eusurvey/runner/temata_ombudsman</strong></a></p></blockquote>
 <p>Dotazník můžete vyplnit 
 <strong>anonymně</strong>, nebo nám na konci 
 <strong>zanechat kontakt</strong>, pokud s námi chcete zůstat v kontaktu i do budoucna. Rádi vás budeme informovat o dalším postupu a o tom, jak s vašimi podněty pracujeme. Vyplnit jej můžete za jednotlivce nebo za organizaci.</p>
@@ -60,9 +59,8 @@ date: 2025-10-31
 <p>
 <strong>You can share your suggestion through our online form –&nbsp;</strong>
 <br>
-<a href="%0bhttps:/ec.europa.eu/eusurvey/runner/temata_ombudsman">
-<strong>https://ec.europa.eu/eusurvey/runner/temata_ombudsman</strong></a>
-<strong>.&nbsp;</strong></p></blockquote>
+<a href="https://ec.europa.eu/eusurvey/runner/temata_ombudsman">
+<strong>https://ec.europa.eu/eusurvey/runner/temata_ombudsman</strong></a></p></blockquote>
 <p>You can fill it in as an individual or on behalf of an organisation.</p>
 <p>
 <strong>We are collecting responses until December 15, 2025.</strong></p>
