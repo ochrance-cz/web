@@ -1,7 +1,7 @@
 ---
 title: Změna vyhlášky připravila některé děti s postižením o hrazené lázně.
   Ombudsman a zástupce dětského ombudsmana dosáhli částečné nápravy
-date: 2025-11-05T10:33:00
+date: 2025-11-05T10:22:00
 vystupy:
   - tz
 perex: <p>Od prázdnin přestaly pojišťovny hradit lázně některým dětem a dospělým
