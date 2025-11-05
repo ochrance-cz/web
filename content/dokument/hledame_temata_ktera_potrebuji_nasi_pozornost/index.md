@@ -22,7 +22,7 @@ date: 2025-10-31
 <p>Zapojte se a napište nám, jaká témata by podle vás měla být v centru pozornosti ombudsmanů. I na základě vašich návrhů budou ombudsmani rozhodovat o prioritách své činnosti.&nbsp;</p>
 <blockquote>
 <p>
-<strong>Sdílejte s námi svůj návrh tématu prostřednictvím našeho dotazníku –</strong>
+<strong>Sdílejte s námi svůj návrh tématu prostřednictvím našeho dotazníku –</strong> 
 <a href="https://ec.europa.eu/eusurvey/runner/temata_ombudsman">
 <strong>https://ec.europa.eu/eusurvey/runner/temata_ombudsman</strong></a></p></blockquote>
 <p>Dotazník můžete vyplnit 
@@ -31,6 +31,12 @@ date: 2025-10-31
 <p>
 <strong>Odpovědi sbíráme do 15. 12. 2025.</strong></p>
 <p>Pokud si ombudsmani zvolí jiné téma než to vaše, alespoň se o existenci problému dozvíme a budeme ho moci v budoucnu zohlednit. Úkolem obou ombudsmanů je systematicky sledovat dodržování lidských práv a spolupracovat se zástupci občanské společnosti. V příštích letech budete mít více příležitostí, jak se do jejich činnosti zapojit.</p>
+
+
+{{< youtube "
+euNOoXNoIKg?si=r6ChAz8UbymDBIgy" >}}
+
+
 <p>V&nbsp;případě, že chcete svoji odpovědi nahrát ve znakovém jazyce, můžete odkaz na nahrávku poslat na e-mail&nbsp; 
 <a href="mailto:participace@ochrance.cz">participace@ochrance.cz</a>.</p>
 <figure class="image">
@@ -57,7 +63,7 @@ date: 2025-10-31
 <p>Take part and tell us which topics you think should be at the centre of the Ombudspersons attention. Your ideas will help shape their future priorities.</p>
 <blockquote>
 <p>
-<strong>You can share your suggestion through our online form –&nbsp;</strong>
+<strong>You can share your suggestion through our online form –&nbsp;</strong>&nbsp;
 <br>
 <a href="https://ec.europa.eu/eusurvey/runner/temata_ombudsman">
 <strong>https://ec.europa.eu/eusurvey/runner/temata_ombudsman</strong></a></p></blockquote>
