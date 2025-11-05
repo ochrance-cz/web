@@ -1,5 +1,6 @@
 ---
-title: "Hledáme témata, která potřebují naši pozornost / We are looking for issues that need our attention"
+title: Hledáme témata, která potřebují naši pozornost / We are looking for
+  issues that need our attention
 date: 2025-10-31
 ---
 <p>
@@ -29,7 +30,7 @@ date: 2025-10-31
 <strong>zanechat kontakt</strong>, pokud s námi chcete zůstat v kontaktu i do budoucna. Rádi vás budeme informovat o dalším postupu a o tom, jak s vašimi podněty pracujeme. Vyplnit jej můžete za jednotlivce nebo za organizaci.</p>
 <p>
 <strong>Odpovědi sbíráme do 15. 12. 2025.</strong></p>
-<p>Pokud si ombudsmani zvolí jiné téma než to vaše, alespoň se o existenci problému dozvíme a budeme ho moci v budoucnu zohlednit. Úkolem obou ombudsmanů je systematicky sledovat dodržování lidských práv a spolupracovat se zástupci občanské společnosti. V příštích letech budete mít více příležitostí, jak se do jejich činnosti zapojit.</p>
+<p>Pokud si ombudsmani zvolí jiné téma než to vaše, alespoň se o existenci problému dozvíme a budeme ho moci v budoucnu zohlednit. Úkolem obou ombudsmanů je systematicky sledovat dodržování lidských práv a spolupracovat se zástupci občanské společnosti. V příštích letech budete mít více příležitostí, jak se do jejich činnosti zapojit.&nbsp;</p>
 
 
 {{< youtube "euNOoXNoIKg?si=r6ChAz8UbymDBIgy" >}}
@@ -61,7 +62,7 @@ date: 2025-10-31
 <p>Take part and tell us which topics you think should be at the centre of the Ombudspersons attention. Your ideas will help shape their future priorities.</p>
 <blockquote>
 <p>
-<strong>You can share your suggestion through our online form –&nbsp;</strong>&nbsp;
+<strong>You can share your suggestion through our online form –&nbsp;</strong>&nbsp;&nbsp;
 <br>
 <a href="https://ec.europa.eu/eusurvey/runner/temata_ombudsman">
 <strong>https://ec.europa.eu/eusurvey/runner/temata_ombudsman</strong></a></p></blockquote>
