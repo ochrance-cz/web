@@ -1,6 +1,5 @@
 ---
-title: Hledáme témata, která potřebují naši pozornost / We are looking for
-  issues that need our attention
+title: "Hledáme témata, která potřebují naši pozornost / We are looking for issues that need our attention"
 date: 2025-10-31
 ---
 <p>
@@ -33,8 +32,7 @@ date: 2025-10-31
 <p>Pokud si ombudsmani zvolí jiné téma než to vaše, alespoň se o existenci problému dozvíme a budeme ho moci v budoucnu zohlednit. Úkolem obou ombudsmanů je systematicky sledovat dodržování lidských práv a spolupracovat se zástupci občanské společnosti. V příštích letech budete mít více příležitostí, jak se do jejich činnosti zapojit.</p>
 
 
-{{< youtube "
-euNOoXNoIKg?si=r6ChAz8UbymDBIgy" >}}
+{{< youtube "euNOoXNoIKg?si=r6ChAz8UbymDBIgy" >}}
 
 
 <p>V&nbsp;případě, že chcete svoji odpovědi nahrát ve znakovém jazyce, můžete odkaz na nahrávku poslat na e-mail&nbsp; 
