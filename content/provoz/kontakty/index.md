@@ -213,10 +213,6 @@ lawyers:
         role: právnička (sociálně-právní ochrana dětí)
         phone: 542 542 772
         email: daniela.suchankova@ochrance.cz
-      - name: Jana Vomelová
-        role: právnička (školství)
-        phone: 542 542 227
-        email: jana.vomelova@ochrance.cz
       - name: Lucie Obrovská
         role: právnička (školství)
         phone: 542 542 295
