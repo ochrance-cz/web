@@ -10,7 +10,7 @@ perex: <p>Školní jídelny od 1. září fungují podle novelizované vyhlášk
   Alexander Schorm proto vyzývá k další úpravě pravidel.</p>
 attachments:
   - title: Aktuální podoba vyhlášky o školním stravování
-    link: https://www.e-sbirka.cz/sb/2005/107?zalozka=text
+    link: https://www.e-sbirka.cz/sb/2025/310/2025-09-01?zalozka=text
   - title: Informace MŠMT k novele vyhlášky o školním stravování
     link: https://msmt.gov.cz/vzdelavani/skolni-stravovani
   - title: "Připomínky ombudsmana z 11. března 2025 k návrhu novely vyhlášky o
