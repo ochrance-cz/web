@@ -11,19 +11,16 @@ perex: <p>Pošlete žádost na úřad, který vás vzápětí vyzve, byste něco
   k&nbsp;doplnění všeho najednou? Předpisy mu to sice nenařizují, principy dobré
   správy ale říkají, že takhle se s&nbsp;lidmi jednat nemá. Tam, kde končí
   zákon, začíná dobrá správa. Tu ombudsman dostal do vínku už při vzniku své
-  existence. Proto se jí zabýváme i dnes. Pozvání do podcastu Na kávu
-  s&nbsp;ombudsmanem přijal soudce a dřívější zaměstnanec Kanceláře ombudsmana a
-  dětského ombudsmana Karel Černín. Podílel se spolu s&nbsp;prvním ombudsmanem
-  Otakarem Motejlem na vytvoření desatera principů, podle kterých by se úřady
-  měly řídit. Příští rok už to bude 20 let od chvíle jejich vzniku. Co jsou
-  principy dobré správy a jak se zrodily? Poslechněte si v&nbsp;novém dílu
-  našeho podcastu.</p>
+  existence. Proto se jí zabýváme i dnes.&nbsp;</p>
 ---
-{{< youtube "v=L5nSL4oo-BQ" >}}
+<p>Pozvání do podcastu Na kávu s&nbsp;ombudsmanem přijal soudce a dřívější zaměstnanec Kanceláře ombudsmana a dětského ombudsmana Karel Černín. Podílel se spolu s&nbsp;prvním ombudsmanem Otakarem Motejlem na vytvoření desatera principů, podle kterých by se úřady měly řídit. Příští rok už to bude 20 let od chvíle jejich vzniku. Co jsou principy dobré správy a jak se zrodily? Poslechněte si v&nbsp;novém dílu našeho podcastu.</p>
 
 
-<p>&nbsp;Všechny dosud zveřejněné díly najdete na&nbsp;
-<a href="https://www.youtube.com/playlist?list=PLWNv_IxgJdEKvV9-ZYu7VTxvc1SjDRb2i">Youtube</a>&nbsp;nebo na&nbsp;
+{{< youtube "L5nSL4oo-BQ?si=SP8Bp_Djqy2Rex4G" >}}
+
+
+<p>&nbsp;Všechny dosud zveřejněné díly najdete na&nbsp; 
+<a href="https://www.youtube.com/playlist?list=PLWNv_IxgJdEKvV9-ZYu7VTxvc1SjDRb2i">Youtube</a>&nbsp;nebo na&nbsp; 
 <a href="https://open.spotify.com/show/0cUUj1UIaAu3hYzWgLNO6P?fbclid=IwAR2BbFgIdbE2Ke8LubN8m-iVR5KLLj0KsZH-Q96QqzpVYM1WVG3_NFuAel4">Spotify</a>.</p>
-<p>Dále jsou podcasty dostupné na všech běžně používaných&nbsp;
+<p>Dále jsou podcasty dostupné na všech běžně používaných&nbsp; 
 <a href="https://creators.spotify.com/pod/show/nakavusombudsmanem">podcastových aplikacích</a>.</p>
