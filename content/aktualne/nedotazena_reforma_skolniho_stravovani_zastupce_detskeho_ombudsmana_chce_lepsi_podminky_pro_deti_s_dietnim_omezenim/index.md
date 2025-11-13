@@ -41,8 +41,5 @@ attachments:
 <p>Pozitivní změna:</p>
 <p>Školy a školky už vědí, že si děti mohou v jídelně sníst vlastní jídlo přinesené z domu.</p></li>
 <li>
-<p>Zůstává nejasné:</p>
-<p>Jak konkrétně mají jídelny pomáhat dětem, aby si mohly sníst přinesené jídlo v kolektivu? Mají mít děti možnost si jídlo uskladnit a ohřát?</p></li>
-<li>
-<p>Nedostatky, které nadále přetrvávají:</p>
-<p>Jídelny nadále nemusí připravovat jídlo pro děti se zdravotním omezením (například když potřebují&nbsp;bezlepkovou dietu).</p></li></ul></blockquote>
+<p>Nedostatky, které stále přetrvávají:</p>
+<p>Jídelny nadále nemusí připravovat jídlo pro děti se zdravotním omezením (například když potřebují&nbsp;bezlepkovou dietu). Nemusí ani pomáhat s uskladněním či ohřevem jídla.&nbsp;</p></li></ul></blockquote>
