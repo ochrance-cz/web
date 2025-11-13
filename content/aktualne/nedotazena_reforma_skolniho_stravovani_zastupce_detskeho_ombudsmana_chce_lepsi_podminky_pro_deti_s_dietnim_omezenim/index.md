@@ -19,14 +19,12 @@ attachments:
   - title: Bezlepkový pokrm nebo oběd z vlastní krabičky? Ombudsman apeluje na
       posílení práv dětí ve školních jídelnách (tisková zpráva z 24. 4. 2025)
     link: https://www.ochrance.cz/aktualne/bezlepkovy_pokrm_nebo_obed_z_vlastni_krabicky_ombudsman_apeluje_na_posileni_prav_deti_ve_skolnich_jidelnach/
-  - title: Metodika poskytování dietní stravy v rámci školního stravování
-      (doporučující charakter)
-    link: https://mzd.gov.cz/tiskove-centrum-mz/vysla-metodika-poskytovani-dietni-stravy-v-ramci-skolniho-stravovani/
 ---
 <p>Žákům s celiakií či jiným dietním omezením na jaře svitla naděje, že získají nárok na školní obědy odpovídající jejich potřebám, a to díky novele vyhlášky o školním stravování. Její výsledná podoba, která platí od 1. září, však v&nbsp;tomto směru nakonec výrazné zlepšení nepřinesla. 
-<i>„Snažili jsme se prosadit, aby novela stanovila jídelnám povinnost zajistit dětem s&nbsp;potravinovou alergií či jiným zdravotním omezením jídlo na míru</i>.&nbsp;
+<i>„Snažili jsme se prosadit, aby novela stanovila jídelnám povinnost zajistit dětem s&nbsp;potravinovou alergií či jiným zdravotním omezením jídlo na míru</i>.&nbsp; 
 <i>Na žádné velké změny však nedošlo. Specifické zdravotní jídelníčky považuje vyhláška stejně jako doposud za dobrovolné,“</i> uvedl zástupce dětského ombudsmana Vít Alexander Schorm.</p>
-<p>Někteří strávníci řeší své specifické diety vlastním obědem z&nbsp;domova. Alespoň v&nbsp;tomto ohledu je novela vstřícná. Zatímco dříve školy tápaly, zda děti mohou jíst vlastní pokrmy v&nbsp;jídelně společně s&nbsp;ostatními, nyní vyhláška takovou možnost výslovně podporuje. Stále ale není jasné, jak mají jídelny dětem konkrétně pomoci, například zda jim musí poskytnout vhodné podmínky pro uskladnění a&nbsp;ohřev jídla či nabídnout nádobí a příbory.</p>
+<p>Někteří strávníci řeší své specifické diety vlastním obědem z&nbsp;domova. Alespoň v&nbsp;tomto ohledu je novela vstřícná. Zatímco dříve školy tápaly, zda děti mohou jíst vlastní pokrmy v&nbsp;jídelně společně s&nbsp;ostatními, nyní vyhláška takovou možnost výslovně podporuje. Z&nbsp;vyhlášky ale stále není jasné, jak mají jídelny dětem v&nbsp;takové situaci konkrétně pomoci, například zda jim musí poskytnout vhodné podmínky pro uskladnění a&nbsp;ohřev jídla. Podle 
+<a href="https://mzd.gov.cz/wp-content/uploads/2025/09/donaska_vlastniho_jidla_skolni_jidelna.pdf">metodického materiálu</a> ministerstev školství a zdravotnictví a Státního zdravotního ústavu nezbytná pomoc nezahrnuje ohřev, skladování v lednici, mytí donesených nádob ani likvidaci zbytků.</p>
 <p>Vít Alexander Schorm bude oblast školního stravování nadále sledovat. Na základě dosavadních zkušeností však pokládá současné změny vyhlášky za nedostačující: 
 <i>„Školy by k&nbsp;žákům s&nbsp;dietním omezením měly přistupovat stejně jako ke všem ostatním, tedy ideálně jim přímo ve školní jídelně nabídnout jídlo odpovídající jejich potřebám – ať už jej připraví v&nbsp;místní školní kuchyni nebo dovezou odjinud. Žádný žák by se neměl cítit kvůli svému zdravotnímu stavu vyloučen.</i> 
 <i>Apeluji proto na ministerstva školství a zdravotnictví, aby se k této problematice vrátily. Jsem připraven zapojit se do jednání.“</i></p>
