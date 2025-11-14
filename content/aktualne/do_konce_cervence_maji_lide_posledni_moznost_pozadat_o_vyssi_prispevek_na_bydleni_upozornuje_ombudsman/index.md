@@ -13,8 +13,8 @@ perex: <p>Příjemci příspěvku na bydlení mohou naposledy požádat o přepo
   bydlení dostávat automaticky do konce roku 2025, a to právě ve výši, kterou
   jim úřad uzná od letošního července.</p>
 attachments:
-  - title: Příspěvek na bydlení
-    file: https://www.uradprace.cz/prispevek-na-bydleni1
+  - file: https://www.uradprace.cz/prispevek-na-bydleni-projde-pred-prichodem-davky-statni-socialni-pomoci-posledni-prolongaci
+    title: Příspěvek na bydlení
   - title: Informace a návod, jak doložit příspěvek na bydlení přes aplikaci Jenda
     file: https://www.mpsv.cz/prispevek-na-bydleni
   - file: https://www.ochrance.cz/letaky/prispevek-na-bydleni/prispevek-na-bydleni.pdf
