@@ -28,4 +28,6 @@ attachments:
     file: legal-assistance-italian.pdf
   - title: španělsky
     file: legal-assistance-spanish.pdf
+  - title: maďarsky
+    file: legal-assistance-hungarian.pdf
 ---
