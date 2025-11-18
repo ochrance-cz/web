@@ -2,7 +2,7 @@
 title: "AKTUÁLNĚ: Živý přenos Konference Aktuální otázky uprchlického a
   cizineckého práva"
 prefix: ""
-active: true
+active: false
 ---
 Sledujte živý přenos online – bez registrace, odkudkoli!
 
