@@ -75,14 +75,6 @@ sections:
       e-mail: medialni@ochrance.cz
 
 
-      **Pracovník vztahů k veřejnosti**\
-
-      V﻿áclav Rendl
-
-
-      e-mail: medialni@ochrance.cz
-
-
       **Pracovnice vztahů k veřejnosti**\
 
       K﻿ristýna Motyčáková
