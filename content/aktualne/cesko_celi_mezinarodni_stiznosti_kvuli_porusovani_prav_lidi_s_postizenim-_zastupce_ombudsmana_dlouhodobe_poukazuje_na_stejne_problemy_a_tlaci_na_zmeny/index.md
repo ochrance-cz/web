@@ -35,9 +35,9 @@ attachments:
 <a href="https://www.ochrance.cz/uploads-import/ochrana_osob/Umluvy/Evropska_socialni_charta.pdf">Evropské sociální charty</a>.</p>
 <p>Výtky se týkají především nedostatku komunitních sociálních služeb pro lidi s postižením, zejména pro lidi s autismem, mentálním postižením či chováním náročným na péči. Podpora vhodných služeb je v&nbsp;Česku nepostačující, veřejné finance směřují hlavně do velkých ústavních zařízení.&nbsp;</p>
 <p>Dokument se zabývá i obtížnou situací rodin, které o své blízké s&nbsp;postižením pečují v&nbsp;domácím prostředí. Ty bývají často na hraně sil, peněz i sociální izolace.&nbsp;</p>
-<p>Za Českou republiku se stížností zabývá Kancelář vládního zmocněnce. Do projednávání se zapojili také ombudsman Stanislav Křeček, v&nbsp;jehož kompetenci je ochrana před diskriminací a Vít Alexander Schorm, zástupce ombudsmana a dětského ombudsmana.&nbsp;</p>
+<p>Za Českou republiku se stížností zabývá Kancelář vládního zmocněnce. Do projednávání se zapojili také ombudsman Stanislav Křeček, v&nbsp;jehož kompetenci je ochrana před diskriminací, a Vít Alexander Schorm, zástupce ombudsmana a dětského ombudsmana.&nbsp;</p>
 <p>Schorm práva lidí s&nbsp;postižením dlouhodobě sleduje a na většinu kritizovaných problémů již dříve také sám poukazoval: 
-<i>„Naše výzkumy, šetření i
-<strong>&nbsp;</strong>individuální podněty svědčí o tom, že stížnost mezinárodní organizace Autism-Europe na&nbsp;nedostatek vhodných sociálních služeb pro lidi s&nbsp;postižením je opodstatněná. Stát sice podniká dílčí kroky směřující k&nbsp;jejich lepší dostupnosti, nejde však o systémová opatření dostatečného rozsahu. Zásadní změny v dostupnosti a kvalitě sociálních služeb v&nbsp;Česku zatím neprobíhají.“&nbsp;</i></p>
-<p>Stížnost Autism-Europe
-<i>&nbsp;</i>obdržela Česká republika prostřednictvím Evropského výboru pro sociální práva. Ten také rozhodne, zda u nás&nbsp;k&nbsp;porušování Evropské sociální charty skutečně dochází.&nbsp;</p>
+<i>„Naše výzkumy, šetření i&nbsp;
+<strong> </strong>individuální podněty svědčí o tom, že stížnost mezinárodní organizace Autism-Europe na&nbsp;nedostatek vhodných sociálních služeb pro lidi s&nbsp;postižením je opodstatněná. Stát sice podniká dílčí kroky směřující k&nbsp;jejich lepší dostupnosti, nejde však o systémová opatření dostatečného rozsahu. Zásadní změny v dostupnosti a kvalitě sociálních služeb v&nbsp;Česku zatím neprobíhají.“&nbsp;</i></p>
+<p>Stížnost Autism-Europe&nbsp;
+<i> </i>obdržela Česká republika prostřednictvím Evropského výboru pro sociální práva. Ten také rozhodne, zda u nás&nbsp;k&nbsp;porušování Evropské sociální charty skutečně dochází.&nbsp;</p>
