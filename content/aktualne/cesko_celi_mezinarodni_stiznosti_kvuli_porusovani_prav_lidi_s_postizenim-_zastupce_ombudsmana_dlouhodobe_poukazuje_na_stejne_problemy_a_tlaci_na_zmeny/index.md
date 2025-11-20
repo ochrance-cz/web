@@ -7,7 +7,7 @@ vystupy:
 perex: >-
   <p>Ostrou kritiku sklidila Česká republika kvůli nedostatečné podpoře lidí
   s&nbsp;postižením. Na nízkou dostupnost vhodných sociálních služeb poukázala
-  mezinárodní organizace&nbsp; 
+  mezinárodní organizace&nbsp;
 
   <a href="https://www.autismeurope.org/">Autism-Europe</a>, která kvůli tomu podala oficiální stížnost k&nbsp;
 
