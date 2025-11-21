@@ -39,4 +39,4 @@ Vytvořili jsme krátký [návod, jak psát přístupně pro lidi se zrakovým p
 
 ## Zajímá Vás, jak je na tom s přístupností ombudsman?
 
-Podívejte se na naši webovou stránku [Ombudsman bez bariér](https://www.ochrance.cz/pristupnost/).
+Podívejte se na naši webovou stránku [Ombudsman bez bariér](https://www.ochrance.cz/provoz/pristupnost/).
