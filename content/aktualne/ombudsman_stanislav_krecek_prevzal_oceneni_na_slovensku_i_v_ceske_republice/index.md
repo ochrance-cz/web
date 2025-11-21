@@ -18,7 +18,7 @@ perex: <p>Hned dvě ocenění získal v&nbsp;krátkém časovém sledu ombudsman
 <a href="https://www.ochrance.cz/aktualne/zmena_vyhlasky_pripravila_nektere_deti_s_postizenim_o_hrazene_lazne-_ombudsman_a_zastupce_detskeho_ombudsmana_dosahli_castecne_napravy/">dětí se zdravotním postižením, které změna vyhlášky připravila o hrazené lázně&nbsp;</a>.&nbsp;</p>
 <p>
 <i>„Ocenění si velmi vážím. Patří nejen mně, ale celému týmu pracovníků Kanceláře veřejného ochránce práv a ochránce práv dětí, kteří denně pomáhají dětem i jejich rodinám. Žádné dítě nesmí stát v&nbsp;koutě a každý si zaslouží zastání a pomoc,“</i>&nbsp;&nbsp;uvedl po převzetí ocenění Stanislav Křeček.</p>
-<p>&nbsp;Den nato předal ředitel Krajského ředitelství policie Ústeckého kraje. Zbyněk Dvořák &nbsp;Stanislavu Křečkovi Medaili cti. Tou ocenil jeho dlouhodobou a příkladnou spolupráci s&nbsp;Krajským ředitelstvím policie Ústeckého kraje.&nbsp;</p>
+<p>&nbsp;Den nato předal ředitel Krajského ředitelství policie Ústeckého kraje Zbyněk Dvořák &nbsp;Stanislavu Křečkovi Medaili cti. Tou ocenil jeho dlouhodobou a příkladnou spolupráci s&nbsp;Krajským ředitelstvím policie Ústeckého kraje.&nbsp;</p>
 <blockquote>
 <p>
 <strong>Stanislav Křeček</strong> zasvětil svůj profesní život nejen právu, ale i ochraně lidí, kteří se sami často nemohou bránit – mezi nimi zejména dětí.&nbsp; Jeho životní příběh zahrnuje studium geologie, výtvarného umění i práv. V 70. letech byl nucen opustit justic a pracoval jako dělník či horník. Po roce 1990 působil jako advokát, dlouholetý poslanec a předseda Sdružení nájemníků ČR. V roce 2013 byl zvolen zástupcem veřejného ochránce práv a od února 2020 zastává funkci veřejného ochránce práv.&nbsp;
