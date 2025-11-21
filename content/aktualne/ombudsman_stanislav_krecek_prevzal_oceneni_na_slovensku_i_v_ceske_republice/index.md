@@ -10,8 +10,8 @@ perex: <p>Hned dvě ocenění získal v&nbsp;krátkém časovém sledu ombudsman
 ---
 <p>Ombudsman Stanislav Křeček&nbsp;převzal 20. listopadu z rukou slovenského&nbsp;komisaře pro děti Jozefa Mikloška&nbsp;významné ocenění&nbsp;Zlatý dáždnik. Předání se uskutečnilo na slavnostním ceremoniálu v Bratislavě za přítomnosti&nbsp;prezidenta Slovenské republiky Petra Pellegriniho.</p>
 <p>Zlatý dáždnik je určen osobnostem, které se dlouhodobě, systematicky a s mimořádným nasazením zasazují o ochranu práv dětí. Komisař Mikloško při předání ocenění vyzdvihl nejen profesionální, ale i osobní odhodlání Stanislava Křečka, které po desetiletí formuje veřejnou debatu nejenom o právech dětí v České republice.</p>
-<p>Jozef Mikloško ve svém projevu ocenil také roli, kterou Stanislav Křeček sehrál při politických a odborných debatách o vzniku dětského ombudsmana v České republice: „ 
-<i>Stanislav Křeček důsledně trval na tom, aby nová instituce nebyla jen symbolická, ale skutečně nezávislá – politicky i finančně.“</i></p>
+<p>Jozef Mikloško ve svém projevu ocenil také roli, kterou Stanislav Křeček sehrál při politických a odborných debatách o vzniku dětského ombudsmana v České republice: 
+<i>„Stanislav Křeček důsledně trval na tom, aby nová instituce nebyla jen symbolická, ale skutečně nezávislá – politicky i finančně.“</i></p>
 <p>Stanislav Křeček se už jako advokát a poslanec opakovaně zastával dětí, které se octly v&nbsp;nevýhodě nebo čelily diskriminaci. Tedy dávno předtím než se stal ombudsmanem. V&nbsp;poslední době se postavil například&nbsp; 
 <a href="https://www.ochrance.cz/aktualne/diskriminace_do_telocvicny_nepatri-_ombudsman_se_zastal_neslysicich_deti/">za neslyšící sourozence vyloučené z dětského sportovního kurzu</a> 
 <strong>.&nbsp;</strong>Zasáhl také ve prospěch&nbsp; 
