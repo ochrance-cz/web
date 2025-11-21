@@ -17,7 +17,7 @@ perex: <p>Hned dvě ocenění získal v&nbsp;krátkém časovém sledu ombudsman
 <strong>.&nbsp;</strong>Zasáhl také ve prospěch&nbsp; 
 <a href="https://www.ochrance.cz/aktualne/zmena_vyhlasky_pripravila_nektere_deti_s_postizenim_o_hrazene_lazne-_ombudsman_a_zastupce_detskeho_ombudsmana_dosahli_castecne_napravy/">dětí se zdravotním postižením, které změna vyhlášky připravila o hrazené lázně&nbsp;</a>.&nbsp;</p>
 <p>
-<i>„Ocenění si velmi vážím. Patří nejen mně, ale celému týmu pracovníků Kanceláře veřejného ochránce práv a ochránce práv dětí, kteří denně pomáhají dětem i jejich rodinám. Žádné dítě nesmí stát v&nbsp;koutě a každý si zaslouží zastání a pomoc,“</i>&nbsp;&nbsp;uvedl po převzetí ocenění Stanislav Křeček.</p>
+<i>„Ocenění si velmi vážím. Patří nejen mně, ale celému týmu pracovníků Kanceláře veřejného ochránce práv a ochránce práv dětí, kteří denně pomáhají dětem i jejich rodinám. Žádné dítě nesmí stát v&nbsp;koutě a každé si zaslouží zastání a pomoc,“</i>&nbsp;&nbsp;uvedl po převzetí ocenění Stanislav Křeček.</p>
 <p>Den nato předal ředitel Krajského ředitelství policie Ústeckého kraje Zbyněk Dvořák &nbsp;Stanislavu Křečkovi Medaili cti. Tou ocenil jeho dlouhodobou a příkladnou spolupráci s&nbsp;Krajským ředitelstvím policie Ústeckého kraje.&nbsp;</p>
 <blockquote>
 <p>
