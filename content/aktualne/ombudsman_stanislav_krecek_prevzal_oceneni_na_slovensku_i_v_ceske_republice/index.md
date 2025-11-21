@@ -13,7 +13,7 @@ perex: <p>Hned dvě ocenění získal v&nbsp;krátkém časovém sledu ombudsman
 <p>Jozef Mikloško ve svém projevu ocenil také roli, kterou Stanislav Křeček sehrál při politických a odborných debatách o vzniku dětského ombudsmana v České republice: 
 <i>„Stanislav Křeček důsledně trval na tom, aby nová instituce nebyla jen symbolická, ale skutečně nezávislá – politicky i finančně.“</i></p>
 <p>Stanislav Křeček se už jako advokát a poslanec opakovaně zastával dětí, které se octly v&nbsp;nevýhodě nebo čelily diskriminaci. Tedy dávno předtím než se stal ombudsmanem. V&nbsp;poslední době se postavil například&nbsp; 
-<a href="https://www.ochrance.cz/aktualne/diskriminace_do_telocvicny_nepatri-_ombudsman_se_zastal_neslysicich_deti/">za neslyšící sourozence vyloučené z dětského sportovního kurzu</a> 
+<a href="https://www.ochrance.cz/aktualne/diskriminace_do_telocvicny_nepatri-_ombudsman_se_zastal_neslysicich_deti/">za neslyšící sourozence vyloučené z dětského sportovního kurzu</a>
 <strong>.&nbsp;</strong>Zasáhl také ve prospěch&nbsp; 
 <a href="https://www.ochrance.cz/aktualne/zmena_vyhlasky_pripravila_nektere_deti_s_postizenim_o_hrazene_lazne-_ombudsman_a_zastupce_detskeho_ombudsmana_dosahli_castecne_napravy/">dětí se zdravotním postižením, které změna vyhlášky připravila o hrazené lázně&nbsp;</a>.&nbsp;</p>
 <p>
