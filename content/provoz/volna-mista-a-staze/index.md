@@ -4,8 +4,9 @@ linksAfter: []
 ---
 <h2>
 <strong>Volná místa</strong></h2>
-<p>Nyní hledáme právníka/právničku do týmu veřejného pořádku, zdravotnictví a práce. Více informací najdete v 
-<a href="https://www.ochrance.cz/aktualne/hledame_pravnika_pravnicku_do_tymu_verejneho_poradku_zdravotnictvi_a_prace/">inzerátu</a>.</p>
+<p>Nyní neprobíhá žádné výběrové řízení.</p>
+<p>Pokud se přesto chcete ucházet o místo, pošlete nám svůj životopis na adresu 
+<a href="mailto:lzicarova@ochrance.cz">lzicarova@ochrance.cz</a> a napište, o jakou práci máte zájem.</p>
 <p>&nbsp;</p>
 <p>
 <strong>Stáže pro studenty právnických fakult</strong></p>
