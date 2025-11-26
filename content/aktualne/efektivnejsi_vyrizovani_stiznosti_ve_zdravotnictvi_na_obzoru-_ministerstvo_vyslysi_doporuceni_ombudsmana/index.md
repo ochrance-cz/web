@@ -15,7 +15,7 @@ attachments:
       odborníci a čas
     link: https://www.ochrance.cz/aktualne/setreni_stiznosti_ve_zdravotnictvi_pod_lupou-_vyzkum_ombudsmana_ukazal_ze_spravnim_organum_chybi_hlavne_odbornici_a_cas/
 ---
-<p>Více než dva roky úřad řeší stížnost na zdravotní službu – i s&nbsp;tím se ve své praxi setkal ombudsman Stanislav Křeček. K&nbsp;podobným prodlevám dochází především u případů, kdy úředníci potřebují získat stanovisko nezávislého odborníka. To je jedno ze zjištění výzkumu, který před časem zveřejnila Kancelář ombudsmana a dětského ombudsmana</p>
+<p>Více než dva roky úřad řeší stížnost na zdravotní službu – i s&nbsp;tím se ve své praxi setkal ombudsman Stanislav Křeček. K&nbsp;podobným prodlevám dochází především u případů, kdy úředníci potřebují získat stanovisko nezávislého odborníka. To je jedno ze zjištění výzkumu, který před časem zveřejnila Kancelář ombudsmana a dětského ombudsmana.</p>
 <p>
 <i>„Náš výzkum odkryl několik slabin v systému vyřizování stížností ve zdravotnictví. Jednou z&nbsp;těch nejbolestivějších je dlouhodobý nedostatek nezávislých odborníků, kteří jsou ochotni se na jejich řešení podílet. Situace je o to komplikovanější, že případ každého pacienta je vysoce individuální a&nbsp;směřuje do jiného lékařského oboru,“&nbsp;</i>vysvětlil ombudsman Stanislav Křeček.&nbsp;</p>
 <p>Doporučil proto Ministerstvu zdravotnictví, které metodicky vede&nbsp;oblast stížností, aby vytvořilo katalog spolupracujících odborníků. Ten by úředníkům usnadnil složité a časově náročné zajišťování specialistů. Ministerstvo doporučení přijalo a začalo již pracovat na jeho realizaci.&nbsp;</p>
