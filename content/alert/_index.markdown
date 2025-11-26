@@ -1,11 +1,10 @@
 ---
-title: "AKTUÁLNĚ: Živý přenos Konference Aktuální otázky uprchlického a
-  cizineckého práva"
+title: "AKTUÁLNĚ: Chtěli bychom Vás upozornit, že 27. 11. nebude od 8 do 12
+  hodin fungovat O-portál."
 prefix: ""
-active: false
+active: true
 ---
-Sledujte živý přenos online – bez registrace, odkudkoli!
+Po tuto dobu nefunkčnosti O-portálu se na ombudsmana či dětského ombudsmana můžete obrátit e-mailem na podatelna@ochrance.cz. Můžete se také poradit na naší infolince 542 542 888.
 
-* [](https://www.youtube.com/live/Z7TFB29XpC8?si=Yud-tgsjJ-6PBr3D)<https://youtube.com/live/-jhskbVwxHM>[
-  ](https://youtube.com/live/-jhskbVwxHM)
-* [Program konference ](/media/program_konference.pdf)
+
+Děkujeme za pochopení.
