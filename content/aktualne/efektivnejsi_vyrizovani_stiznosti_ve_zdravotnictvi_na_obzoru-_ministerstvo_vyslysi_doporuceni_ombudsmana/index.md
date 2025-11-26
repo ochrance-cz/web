@@ -18,7 +18,7 @@ attachments:
 <p>Více než dva roky úřad řeší stížnost na zdravotní službu – i s&nbsp;tím se ve své praxi setkal ombudsman Stanislav Křeček. K&nbsp;podobným prodlevám dochází především u případů, kdy úředníci potřebují získat stanovisko nezávislého odborníka. To je jedno ze zjištění výzkumu, který před časem zveřejnila Kancelář ombudsmana a dětského ombudsmana</p>
 <p>
 <i>„Náš výzkum odkryl několik slabin v systému vyřizování stížností ve zdravotnictví. Jednou z&nbsp;těch nejbolestivějších je dlouhodobý nedostatek nezávislých odborníků, kteří jsou ochotni se na jejich řešení podílet. Situace je o to komplikovanější, že případ každého pacienta je vysoce individuální a&nbsp;směřuje do jiného lékařského oboru,“&nbsp;</i>vysvětlil ombudsman Stanislav Křeček.&nbsp;</p>
-<p>Doporučil proto Ministerstvu zdravotnictví, které metodicky vede&nbsp;oblasti stížností, aby vytvořilo katalog spolupracujících odborníků. Ten by úředníkům usnadnil složité a časově náročné zajišťování specialistů. Ministerstvo doporučení přijalo a začalo již pracovat na jeho realizaci.&nbsp;</p>
+<p>Doporučil proto Ministerstvu zdravotnictví, které metodicky vede&nbsp;oblast stížností, aby vytvořilo katalog spolupracujících odborníků. Ten by úředníkům usnadnil složité a časově náročné zajišťování specialistů. Ministerstvo doporučení přijalo a začalo již pracovat na jeho realizaci.&nbsp;</p>
 <p>Stanislav Křeček postup ministerstva ocenil:&nbsp;
 <i>„V poslední době je problém nízkého počtu spolupracujících odborníků skutečně vyhrocený. Velmi proto vítám aktivní přístup Ministerstva zdravotnictví, které již&nbsp;</i>navázalo 
 <i>spolupráci s&nbsp;některými odbornými společnostmi – například se Společností českých patologů a Českou společností soudního lékařství a soudní toxikologie</i>.“&nbsp;</p>
@@ -30,7 +30,7 @@ attachments:
 <ul>
 <li>krajské úřady (v Praze Magistrát hl. m. Prahy),</li>
 <li>Ministerstvo spravedlnosti,</li>
-<li>Ministerstvo obrany, </li>
+<li>Ministerstvo obrany,</li>
 <li>Ministerstvo vnitra.</li></ul></blockquote>
 <blockquote>
 <p>
