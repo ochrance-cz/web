@@ -28,10 +28,10 @@ attachments:
 <p>
 <strong>Které úřady se zabývají stížnostmi ve zdravotnictví?&nbsp;</strong></p>
 <ul>
-<li>krajské úřady (v Praze Magistrát hl. m. Prahy),</li>
-<li>Ministerstvo spravedlnosti,</li>
-<li>Ministerstvo obrany,</li>
-<li>Ministerstvo vnitra.</li></ul></blockquote>
+<li>krajské úřady (v Praze Magistrát hl. m. Prahy)</li>
+<li>Ministerstvo spravedlnosti</li>
+<li>Ministerstvo obrany</li>
+<li>Ministerstvo vnitra</li></ul></blockquote>
 <blockquote>
 <p>
 <strong>Jaké možnosti má pacient, pokud není spokojen s&nbsp;poskytováním zdravotní péče?&nbsp;</strong></p>
