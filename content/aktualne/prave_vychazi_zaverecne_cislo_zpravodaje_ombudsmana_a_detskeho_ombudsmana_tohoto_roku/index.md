@@ -1,6 +1,5 @@
 ---
-title: Právě vychází závěrečné číslo Zpravodaje ombudsmana a dětského ombudsmana
-  tohoto roku
+title: Právě vychází nové číslo Zpravodaje ombudsmana a dětského ombudsmana
 date: 2025-11-27T13:34:00
 vystupy:
   - aktualita
