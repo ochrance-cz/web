@@ -6,7 +6,7 @@ vystupy:
 perex: >-
   <p>Přinášíme vám poslední Zpravodaj v tomto roce. Připravili jsme pro vás
   pestrý výběr případů z různých oblastí. Prověřovali jsme práci OSPODů.
-  Zjišťovali jsme, kde chybovaly úřady. Věnovali jsme se tématům týkajících se
+  Zjišťovali jsme, kde chybovaly úřady. Věnovali jsme se tématům týkajícím se
   cizinců. Navštívili jsme několik zařízení, především těch určených dětem. A
   navíc jsme se pustili do sběru nových témat, která je potřeba řešit.</p>
 
