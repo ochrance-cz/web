@@ -23,7 +23,7 @@ sections:
           <p>Tým Kanceláře veřejného ochránce práv a ochránce práv dětí</p>
   - title: Pomohli jsme napravit chybu úřadu
     articles:
-      - title: "Upozornili jsme OSPOD, že odebrání dítěte z péče rodiče je krajní "
+      - title: Upozornili jsme OSPOD, že odebrání dítěte z péče rodiče je krajní řešení
         id: 5383/2023/VOP
         eso: https://eso.ochrance.cz/Nalezene/Edit/13884
         body: >-
