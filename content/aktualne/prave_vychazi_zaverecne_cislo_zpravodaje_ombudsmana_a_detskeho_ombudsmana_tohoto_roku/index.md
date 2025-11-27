@@ -4,11 +4,11 @@ date: 2025-11-27T13:34:00
 vystupy:
   - aktualita
 perex: >-
-  <p>Přinášíme poslední Zpravodaj tohoto roku. Připravili jsme pro vás pestrý
-  výběr případů z různých oblastí. Prověřovali jsme práci OSPODů. Zjišťovali
-  jsme, kde chybovaly úřady. Věnovali jsme se tématům týkajících se cizinců.
-  Navštívili jsme několik zařízení, především těch určených dětem. A navíc jsme
-  se pustili do sběru nových témat, která je potřeba řešit.</p>
+  <p>Přinášíme poslední Zpravodaj v tomto &nbsp;roce. Připravili jsme pro vás
+  pestrý výběr případů z různých oblastí. Prověřovali jsme práci OSPODů.
+  Zjišťovali jsme, kde chybovaly úřady. Věnovali jsme se tématům týkajících se
+  cizinců. Navštívili jsme několik zařízení, především těch určených dětem. A
+  navíc jsme se pustili do sběru nových témat, která je potřeba řešit.</p>
 
   <p>Děkujeme, že se spolu s&nbsp;námi zajímáte o témata, která potřebují pozornost.</p>
 attachments:
