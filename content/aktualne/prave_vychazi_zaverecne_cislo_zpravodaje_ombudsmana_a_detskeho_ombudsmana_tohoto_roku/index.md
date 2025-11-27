@@ -19,13 +19,15 @@ attachments:
 <p>Čemu jsme se například věnovali v září a říjnu?</p>
 <ul>
 <li>
-<a href="https://www.ochrance.cz/zpravodaj/a_detskeho_ombudsmana_za_zari_a_rijen_2025/#item-1-2">Dívka zaplatila daň za pozemky, které nevlastnila. Díky nám jí finanční úřad vrátil peníze zpět</a></li></ul>
+<a href="https://www.ochrance.cz/zpravodaj/a_detskeho_ombudsmana_za_zari_a_rijen_2025/#item-1-2">
+<strong>Dívka zaplatila daň za pozemky, které nevlastnila. Díky nám jí finanční úřad vrátil peníze zpět</strong></a></li></ul>
 <blockquote>
 <p>Dívka zdědila po babičce několik pozemků, ale s nimi i dluhy na dani z nemovitostí. Finanční úřad po ní dlužnou částku začal vymáhat exekucí. Dědička se domnívala, že úřad postupuje nesprávně, sama však nedokázala situaci vyřešit.</p>
 <p>Zjistili jsme, že finanční úřad požadoval zaplatit daň i za pozemky, které babička před smrtí prodala novému majiteli. Dívka proto na naši radu podala dodatečné daňové přiznání na daň nižší a finanční úřad jí peníze vrátil.</p></blockquote>
 <ul>
 <li>
-<a href="https://www.ochrance.cz/zpravodaj/a_detskeho_ombudsmana_za_zari_a_rijen_2025/#item-1-9">Přiměli jsme úřad práce, aby přepočítal a navýšil doplatek na bydlení</a></li></ul>
+<a href="https://www.ochrance.cz/zpravodaj/a_detskeho_ombudsmana_za_zari_a_rijen_2025/#item-1-9">
+<strong>Přiměli jsme úřad práce, aby přepočítal a navýšil doplatek na bydlení</strong></a></li></ul>
 <blockquote>
 <p>Muž a jeho spolubydlící sdíleli byt, měli však oddělené domácnosti. V&nbsp;této situaci muž požádal úřad práce o doplatek na bydlení. Dostal jej, ale zdál se mu příliš nízký. K úhradě nákladů na bydlení nestačil. Muž nás proto požádal, abychom částku prověřili.</p>
 <p>Zjistili jsme, že úřad počítal jen s náklady na jednu místnost, místo aby vzal v&nbsp;potaz celý byt a&nbsp;rozdělil náklady mezi oba obyvatele.</p>
