@@ -18,14 +18,7 @@ sections:
       e-mail: miroslav.frydek@ochrance.cz
 
 
-      **Asistentka veřejného ochránce práv**\
-
-      Marie Feilhauer (dříve Uhlerová)\
-
-      tel: (+420) 542 542 777
-
-
-      **Asistentka zástupce veřejného ochránce práv**\
+      **Asistentka ombudsmana a zástupce ombudsmana a dětského ombudsmana**\
 
       Marie Hemalová\
 
@@ -254,6 +247,10 @@ lawyers:
         role: právnička (monitoring, návštěvy zařízení)
         phone: 542 542 223
         email: katerina.jehlickova@ochrance.cz
+      - name: Julie Diane Bartoňová-Dobenínová
+        role: odborná referentka (poradní orgán, monitoring, návštěvy zařízení)
+        phone: 542 542 220
+        email: juliediane.bartonova-dobeninova@ochrance.cz
   - title: Odbor veřejného pořádku, zdravotnictví a práce
     intro: >
       matriky, evidence obyvatel, občanské a cestovní průkazy, státní občanství,
