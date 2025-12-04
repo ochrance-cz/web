@@ -17,10 +17,7 @@ attachments:
 <a href="https://www.ochrance.cz/letaky/superdavka/superdavka.pdf">superdávky</a> (nové dávky sociální pomoci). Přesvědčil se o tom i muž, který si v bytě své spolubydlící a zároveň „domácí“ pronajímal jeden z&nbsp;pokojů.&nbsp;</p>
 <p>Když si na úřadu práce o doplatek požádal, dočkal se nižšího obnosu, než předpokládal. Částky stanovené jednotlivými rozhodnutími mu na úhradu bydlení nestačily. A tak se v jednom případě proti výši doplatku odvolal i na Ministerstvo práce a sociálních věcí. Neúspěšně. Obrátil se proto na ombudsmana Stanislava Křečka. Ten jeho případ prověřil a zjistil, že úředníci při výpočtu dávky chybovali.&nbsp;</p>
 <p>
-<i>„Úřad práce počítal s&nbsp;náklady na bydlení na jednu místnost v&nbsp;bytě. Místo toho však měl vzít v&nbsp;potaz náklady na celý byt a ty rovným dílem rozdělit mezi oba&nbsp;obyvatele. Muže tato chyba připravila o více než sedm a půl tisíce korun. Nakonec však úřad svůj omyl uznal a částku muži doplatil,"&nbsp;</i>sdělil
-<i> </i>ombudsman
-<i> </i>Stanislav
-<i> </i>Křeček
+<i>„Úřad práce počítal s&nbsp;náklady na bydlení na jednu místnost v&nbsp;bytě. Místo toho však měl vzít v&nbsp;potaz náklady na celý byt a ty rovným dílem rozdělit mezi oba&nbsp;obyvatele. Muže tato chyba připravila o více než sedm a půl tisíce korun. Nakonec však úřad svůj omyl uznal a částku muži doplatil,"&nbsp;</i>sdělil ombudsman Stanislav Křeček 
 <i>.</i></p>
 <p>Skutečnost, že oba spolubydlící hospodaří samostatně, úřad práce dokonce ověřil přímo v&nbsp;jejich sdíleném bytě. Přesto pro výpočet doplatku mylně zvolil postup, jako by se jednalo o členy jedné domácnosti. Následky dopadly na muže tím citelněji, že se nacházel v nelehké finanční situaci – pobíral invalidní důchod a byl v evidenci úřadu práce.&nbsp;</p>
 <blockquote>
@@ -48,7 +45,7 @@ attachments:
 <p>
 <strong>Podrobnosti a další informace viz letáky ombudsmana:</strong></p>
 <ul>
-<li>„
-<a href="•%09https:/www.ochrance.cz/letaky/doplatek-na-bydleni/doplatek-na-bydleni.pdf">Doplatek na bydlení</a>“ </li>
-<li>„
+<li>
+<a href="https://www.ochrance.cz/letaky/doplatek-na-bydleni/doplatek-na-bydleni.pdf">„ Doplatek na bydlení“</a></li>
+<li>„ 
 <a href="https://www.ochrance.cz/letaky/superdavka/superdavka.pdf">Superdávka</a>“&nbsp;</li></ul></blockquote>
