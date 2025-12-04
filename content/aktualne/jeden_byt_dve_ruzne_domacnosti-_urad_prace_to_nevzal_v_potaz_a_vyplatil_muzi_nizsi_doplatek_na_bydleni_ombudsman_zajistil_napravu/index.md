@@ -7,7 +7,7 @@ vystupy:
 perex: <p>Příliš nízký se zdál muži doplatek na bydlení, který dostal od úřadu
   práce. I když si pronajímal pouze jeden pokoj, na zaplacení nákladů mu peníze
   nestačily. Požádal proto o pomoc ombudsmana, který odhalil chybu v postupu
-  úředníků. Ti totiž nezohlednili jeden důležitý fakt. I když muž sdílí byt se
+  úředníků. Ti totiž nezohlednili jeden důležitý fakt. Přestože muž sdílí byt se
   svou spolubydlící, každý z&nbsp;nich vede oddělenou domácnost. &nbsp;</p>
 attachments:
   - title: "Zpráva o šetření ombudsmana "
