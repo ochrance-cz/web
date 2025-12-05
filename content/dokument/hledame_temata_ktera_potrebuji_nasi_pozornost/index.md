@@ -29,7 +29,7 @@ date: 2025-10-31
 <strong>anonymně</strong>, nebo nám na konci 
 <strong>zanechat kontakt</strong>, pokud s námi chcete zůstat v kontaktu i do budoucna. Rádi vás budeme informovat o dalším postupu a o tom, jak s vašimi podněty pracujeme. Vyplnit jej můžete za jednotlivce nebo za organizaci.</p>
 <p>
-<strong>Odpovědi sbíráme do 15. 12. 2025.</strong></p>
+<strong>Odpovědi sbíráme do 31. 12. 2025.</strong></p>
 <p>Pokud si ombudsmani zvolí jiné téma než to vaše, alespoň se o existenci problému dozvíme a budeme ho moci v budoucnu zohlednit. Úkolem obou ombudsmanů je systematicky sledovat dodržování lidských práv a spolupracovat se zástupci občanské společnosti. V příštích letech budete mít více příležitostí, jak se do jejich činnosti zapojit.&nbsp;</p>
 
 
@@ -62,12 +62,12 @@ date: 2025-10-31
 <p>Take part and tell us which topics you think should be at the centre of the Ombudspersons attention. Your ideas will help shape their future priorities.</p>
 <blockquote>
 <p>
-<strong>You can share your suggestion through our online form –&nbsp;</strong>&nbsp;&nbsp;
+<strong>You can share your suggestion through our online form –&nbsp;</strong>&nbsp;&nbsp;&nbsp;
 <br>
 <a href="https://ec.europa.eu/eusurvey/runner/temata_ombudsman">
 <strong>https://ec.europa.eu/eusurvey/runner/temata_ombudsman</strong></a></p></blockquote>
 <p>You can fill it in as an individual or on behalf of an organisation.</p>
 <p>
-<strong>We are collecting responses until December 15, 2025.</strong></p>
+<strong>We are collecting responses until December 31, 2025.</strong></p>
 <p>You can submit the form anonymously, or leave your contact details if you would like to stay in touch. We will be happy to let you know how we use your input and what happens next. Your responses and any personal data will stay confidential and be used only for our internal work.</p>
 <p>Even if the Ombudspersons choose a different topic, your input will still help us understand the issues people care about. Both Ombudspersons have a duty to monitor human rights and to cooperate with civil society. In the coming years, you will have even more opportunities to take part in their work.</p>
