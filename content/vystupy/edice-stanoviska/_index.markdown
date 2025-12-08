@@ -9,7 +9,7 @@ perex: Od roku 2007 vydává ombudsman tematické publikace v ediční řadě
   Publikace je ale užitečná i pro neodborníky, protože jim umožní zorientovat se
   v tématu a seznámit se se svými právy.
 ---
-* [28 – Nezaměstnání a úřad práce](media/sbornik_nezamestnani_a_urad_prace_aktualizovane-vydani-2026_.pdf) (aktualizované vydání – stav k 1. 1. 2026)
+* [28 – Nezaměstnání a úřad práce](/media/sbornik_nezamestnani_a_urad_prace_aktualizovane-vydani-2026_.pdf) (aktualizované vydání – stav k 1. 1. 2026)
 * [2﻿7 – Důchody s cizím prvkem](/media/sbornik_duchody_s_cizim_prvkem.pdf) (2023)
 * [2﻿6 – Důchody III](/media/sbornik_duchody_iii.pdf) (2023)
 * [25 – Ochrana zvířat](/media/sbornik_ochrana_zvirat.pdf)﻿ (2023)
