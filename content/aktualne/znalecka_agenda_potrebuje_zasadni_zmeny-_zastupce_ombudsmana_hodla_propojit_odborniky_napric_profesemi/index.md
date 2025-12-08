@@ -1,6 +1,6 @@
 ---
-title: Znalecká agenda potřebuje zásadní změny. Zástupce ombudsmana hodlá
-  propojit odborníky napříč profesemi
+title: Znalecká agenda potřebuje zásadní změny. Zástupce ombudsmana a dětského
+  ombudsmana hodlá propojit odborníky napříč profesemi
 date: 2025-12-08T11:41:00
 vystupy:
   - tz
