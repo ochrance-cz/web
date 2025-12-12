@@ -22,7 +22,7 @@ attachments:
 <p>Lékaři a specialisté se obvykle potkávají v&nbsp;nemocnici. Dnes ale logopedi, ORL lékaři, neurologové, gastroenterologové, nutriční specialisté a další odborníci spolu s pacienty usedli ke kulatému stolu v Kanceláři ombudsmana a dětského ombudsmana. Svedl je k&nbsp;tomu dnešní Světový den polykání. Cílem je na problém upozornit a hledat cesty, jak zlepšit kvalitu života lidí s poruchami polykání. S problémy s&nbsp;polykáním a souvisejícími logopedickými obtížemi se potýkají tisíce lidí.</p>
 <p>
 <i>„Porucha polykání není jen zdravotní problém, ale i velká výzva pro každodenní život pacientů a jejich rodin. S pomocí klinických logopedů a dalších odborníků lze zlepšit nejen diagnostiku, ale i terapii tohoto stavu. Je potřeba podpořit dostupnost péče o pacienty a otevřít dialog mezi odborníky, pacienty a institucemi,“</i> vysvětlil zástupce ombudsmana a dětského ombudsmana Vít Alexander Schorm.</p>
-<p>Ombudsman dlouhodobě upozorňuje, že v některých typech lůžkové péče logoped není součástí týmu, přestože by tam jeho role měla být samozřejmá. Usiloval proto o změnu&nbsp; 
+<p>Ombudsman dlouhodobě upozorňuje, že v některých typech lůžkové péče logoped není součástí týmu, přestože by tam jeho role měla být samozřejmá. Usiloval proto o změnu 
 <a href="http://kvopap:81/KVOPEsoSearch/Nalezene/Edit/107199">vyhlášky Ministerstva zdravotnictví o minimálních personálních standardech</a>. Ačkoli připomínku ministerstvo neakceptovalo, bude ombudsman v tomto úsilí pokračovat.</p>
 <p>Dostupností klinického logopeda se ombudsman zabývá i při kontrolách zařízení, zejména v domovech pro osoby se zdravotním postižením. „ 
 <i>V řadě pobytových sociálních služeb pro dospělé klienty vidíme logopeda jako důležitou součást multidisciplinárního týmu. V mnohých z nich ale není spolupráce navázána.&nbsp;Klinický logoped je přitom v těchto zařízeních nezbytnou součástí týmu, která může výrazně přispět k zajištění kvalitní péče o klienty</i>,“ uvedl Schorm a doplnil, že v takových případech doporučuje zařízení&nbsp;zlepšit propojení mezi logopedy, aby byla zajištěna kvalitní podpora komunikace lidí s&nbsp;narušenou komunikační schopností.</p>
@@ -35,10 +35,9 @@ attachments:
 <p>
 <strong>Zprávy z&nbsp;návštěv zařízení DOZP</strong></p>
 <p>
-<a href="&nbsp;kvopap:81/KVOPEsoSearch/Nalezene/Edit/56713">DOZP 1&nbsp;</a></p>
+<a href="kvopap:81/KVOPEsoSearch/Nalezene/Edit/56713   ">DOZP 1&nbsp;</a></p>
 <p>
-<a href="&nbsp;kvopap:81/KVOPEsoSearch/Nalezene/Edit/43515">DOZP</a> 
-<a href="&nbsp;kvopap:81/KVOPEsoSearch/Nalezene/Edit/43515,&nbsp;http://kvopap:81/KVOPEsoSearch/Nalezene/Edit/88333">2</a></p>
+<a href=" kvopap:81/KVOPEsoSearch/Nalezene/Edit/43515">DOZP 2</a></p>
 <p>
 <a href="http://kvopap:81/KVOPEsoSearch/Nalezene/Edit/88333">DOZP3</a></p>
 <p>
