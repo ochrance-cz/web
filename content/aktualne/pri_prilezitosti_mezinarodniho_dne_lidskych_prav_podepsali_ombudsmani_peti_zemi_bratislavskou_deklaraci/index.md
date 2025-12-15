@@ -18,6 +18,6 @@ attachments:
 <p>Podepsaní veřejní ochránci práv se mimo jiné společně zavázali chránit lidskou důstojnost a základní práva každého člověka – &nbsp;bez ohledu na původ, sexuální orientaci, vyznání, národnost či sociální postavení. Rovněž potvrdili podporu mezinárodní spolupráce a výměny zkušeností mezi veřejnými ochránci práv a národními institucemi.&nbsp;</p>
 <p>Zvláštní důraz klade dokument na význam veřejných ochránců práv jako tzv. 
 <a href="https://www.ochrance.cz/pusobnost/dohled-nad-omezovanim-osobni-svobody/">národních preventivních mechanismů (NPM)</a>. Jejich hlavní úkol v&nbsp;této roli spočívá v ochraně osob před mučením a jiným nelidským či ponižujícím zacházením.</p>
-<p>V závěru summitu obdržel veřejný ochránce práv Stanislav Křeček od Róberta Dobrovodského „Ďakovný list” za dlouholetou spolupráci a budování dobých vztahů mezi slovenskou a českou ombudsmanskou institucí, což přispělo k efektivnější ochraně občanů.</p>
+<p>V závěru summitu obdržel veřejný ochránce práv Stanislav Křeček od Róberta Dobrovodského „Ďakovný list” za dlouholetou spolupráci, profesionální přístup a budování dobých vztahů mezi slovenskou a českou ombudsmanskou institucí, což přispělo k efektivnější ochraně občanů.</p>
 <figure class="image">
 <img src="https://www.ochrance.cz/aktualne/pri_prilezitosti_mezinarodniho_dne_lidskych_prav_podepsali_ombudsmani_peti_zemi_bratislavskou_deklaraci/mezinarodni_summit.png" alt="mezinarodni_summit.png"></figure>
