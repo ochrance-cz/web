@@ -1,7 +1,10 @@
 ---
 title: Veřejný ochránce práv
 claim: Pomáháme bez rozdílu
-headerPic: /media/budova2.jpg
+headerPic: /media/na_web_-_pf_2026.png
+headerPicAlt: Obrázek je novoročenka - je na něm text PF 2026, který je vytvořen
+  z jednotlivých fotografií zaměstnanců. V rozích jsou v pozadí ilustrace
+  vánočních větviček a cesmíny.
 situationsTitle: Potřebuji pomoc
 cinnostTitle: Činnost ombudsmana
 accessibility: >
