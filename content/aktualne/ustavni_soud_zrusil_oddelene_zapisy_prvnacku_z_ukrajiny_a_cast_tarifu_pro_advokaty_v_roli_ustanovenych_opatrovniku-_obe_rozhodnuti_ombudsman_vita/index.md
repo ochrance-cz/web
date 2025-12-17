@@ -34,16 +34,16 @@ attachments:
 <p>Dnes vyhlásil Ústavní soud hned dvě rozhodnutí, která rezonovala s&nbsp;názorem ombudsmana Stanislava Křečka a zástupce dětského ombudsmana Víta Alexandra Schorma.</p>
 <p>
 <strong>Zvláštní zápisy pro děti z Ukrajiny</strong></p>
-<p>V&nbsp;prvním případě šlo o oddělené zápisy ukrajinských prvňáčků, které zavedl tzv. lex Ukrajina. Na neopodstatněnost a škodlivost dvojích zápisů&nbsp;
-<a href="https://www.ochrance.cz/aktualne/ombudsman_nesouhlasi_s_oddelenymi_zapisy_ukrajinskych_prvnacku_do_zakladnich_skol/">upozornil ombudsman již krátce po jejich schválení</a>. Později se Stanislav Křeček s Vítem Alexandrem Schormem&nbsp;
-<a href="https://www.ochrance.cz/aktualne/zastavi_ustavni_soud_oddelene_zapisy_prvnacku_z_ukrajiny_zruseni_je_namiste_shoduji_se_ombudsman_i_zastupce_detskeho_ombudsmana/">společným vyjádřením pro Ústavní soud</a> připojili k názoru skupiny senátorů, kteří podali návrh na zrušení příslušné části zákona. Oba ombudsmanští představitelé zastávají názor, že šlo o&nbsp;neopodstatněné, škodlivé a&nbsp;protiústavní opatření
+<p>V&nbsp;prvním případě šlo o oddělené zápisy ukrajinských prvňáčků, které zavedl tzv. lex Ukrajina. Na neopodstatněnost a škodlivost dvojích zápisů&nbsp; 
+<a href="https://www.ochrance.cz/aktualne/ombudsman_nesouhlasi_s_oddelenymi_zapisy_ukrajinskych_prvnacku_do_zakladnich_skol/">upozornil ombudsman již krátce po jejich schválení</a>. Později se Stanislav Křeček s Vítem Alexandrem Schormem&nbsp; 
+<a href="https://www.ochrance.cz/aktualne/zastavi_ustavni_soud_oddelene_zapisy_prvnacku_z_ukrajiny_zruseni_je_namiste_shoduji_se_ombudsman_i_zastupce_detskeho_ombudsmana/">společným vyjádřením pro Ústavní soud</a> připojili k názoru skupiny senátorů, kteří podali návrh na zrušení příslušné části zákona. Oba ombudsmanští představitelé zastávají názor, že šlo o&nbsp;neopodstatněné, škodlivé a&nbsp;protiústavní opatření 
 <i>.&nbsp;</i></p>
 <p>
 <i>„Jsem rád, že&nbsp;Ústavní soud rozhodl ve prospěch ukrajinských školáků a zrušil diskriminační zápisy.&nbsp;&nbsp;Všechny děti, po nichž stát vyžaduje povinnou školní docházku, musí mít stejnou příležitost do škol řádně nastoupit. Platí to i pro děti přicházející z&nbsp;Ukrajiny, které se potřebují co nejrychleji začlenit do českého vzdělávacího systému a navázat vztahy s dalšími&nbsp;vrstevníky,“</i> řekl Vít Alexander Schorm.</p>
 <p>
 <strong>Advokátní tarif za opatrovnické úkony</strong></p>
-<p>Ústavní soud dnes zrušil i tarifní hodnotu pro úkony ustanovených opatrovníků zranitelných osob, které 
-<a href="https://www.zakonyprolidi.cz/cs/1996-177">současná vyhláška</a> stanovuje nižší než za jiné advokátní služby. Návrh na zrušení podal ombudsman Stanislav Křeček v&nbsp;srpnu tohoto roku. Zareagoval tak na podněty advokátů v&nbsp;roli opatrovníků, s&nbsp;jejichž argumenty se ztotožnil.</p>
+<p>Ústavní soud dnes zrušil i tarifní hodnotu pro úkony ustanovených opatrovníků zranitelných osob, které současná vyhláška
+<a href="https://www.zakonyprolidi.cz/cs/1996-177"> </a>stanovuje nižší než za jiné advokátní služby. Návrh na zrušení podal ombudsman Stanislav Křeček v&nbsp;srpnu tohoto roku. Zareagoval tak na podněty advokátů v&nbsp;roli opatrovníků, s&nbsp;jejichž argumenty se ztotožnil.</p>
 <p>
 <i>„Nerovnováhu mezi odměnou advokáta a advokáta, který je ustanoven například jako opatrovník osoby ve zranitelném postavení, považuji za neodůvodněné.&nbsp;Vyhláška o advokátních tarifech pro obě pozice nastavila odlišné honoráře, ačkoli vykonávají prakticky totožnou činnost. S&nbsp;ohledem na zranitelnost zastupované osoby může být opatrovnictví dokonce náročnější. Rozhodnutí Ústavního soudu proto vítám,“</i> uvedl Stanislav Křeček.&nbsp;</p>
 <p>Jak Vít Alexander Schorm, který má též na starosti sledování práv lidí s&nbsp;postižením, v&nbsp;této souvislosti připomíná: 
