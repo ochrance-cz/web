@@ -19,7 +19,7 @@ attachments:
     link: https://www.usoud.cz/aktualne/ustavni-soud-zrusil-neustavni-upravu-prijimani-ukrajinskych-deti-k-zakladnimu-vzdelavani
   - title: Zákon o opatřeních v oblasti školství v souvislosti s ozbrojeným
       konfliktem na území Ukrajiny vyvolaným invazí vojsk Ruské federace
-    link: https://www.e-sbirka.cz/sb/2022/67/2025-03-01?f=Z%C3%A1kon%20%C4%8D.%2067%2F2022%20Sb&zalozka=text
+    link: https://www.e-sbirka.cz/sb/2022/67/2025-03-01?zalozka=text
   - title: "Návrh ombudsmana na zrušení ustanovení vyhlášky Ministerstva
       spravedlnosti o odměnách advokátů a náhradách advokátů za poskytování
       právních služeb "
