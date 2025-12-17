@@ -31,7 +31,7 @@ attachments:
       advokátů za poskytování právních služeb (advokátní tarif)
     link: https://www.e-sbirka.cz/sb/1996/177?zalozka=text
 ---
-<p>Dnes vyhlásil Ústavní soud hned dvě rozhodnutí, která rezonovala s&nbsp;názorem ombudsmana Stanislava Křečka a zástupce dětského ombudsmana Víta Alexandra Schorma.</p>
+<p>Dnes vyhlásil Ústavní soud hned dvě rozhodnutí, která rezonovala s&nbsp;názorem ombudsmana Stanislava Křečka a zástupce dětského ombudsmana Víta Alexandera Schorma.</p>
 <p>
 <strong>Zvláštní zápisy pro děti z Ukrajiny</strong></p>
 <p>V&nbsp;prvním případě šlo o oddělené zápisy ukrajinských prvňáčků, které zavedl tzv. lex Ukrajina. Na neopodstatněnost a škodlivost dvojích zápisů&nbsp; 
