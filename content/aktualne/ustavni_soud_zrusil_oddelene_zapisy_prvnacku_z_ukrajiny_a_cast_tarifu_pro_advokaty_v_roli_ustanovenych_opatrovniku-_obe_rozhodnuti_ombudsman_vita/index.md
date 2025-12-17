@@ -35,7 +35,7 @@ attachments:
 <p>
 <strong>Zvláštní zápisy pro děti z Ukrajiny</strong></p>
 <p>V&nbsp;prvním případě šlo o oddělené zápisy ukrajinských prvňáčků, které zavedl tzv. lex Ukrajina. Na neopodstatněnost a škodlivost dvojích zápisů&nbsp; 
-<a href="https://www.ochrance.cz/aktualne/ombudsman_nesouhlasi_s_oddelenymi_zapisy_ukrajinskych_prvnacku_do_zakladnich_skol/">upozornil ombudsman již krátce po jejich schválení</a>. Později se Stanislav Křeček s Vítem Alexandrem Schormem&nbsp; 
+<a href="https://www.ochrance.cz/aktualne/ombudsman_nesouhlasi_s_oddelenymi_zapisy_ukrajinskych_prvnacku_do_zakladnich_skol/">upozornil ombudsman již krátce po jejich schválení</a>. Později se Stanislav Křeček s Vítem Alexanderem Schormem&nbsp; 
 <a href="https://www.ochrance.cz/aktualne/zastavi_ustavni_soud_oddelene_zapisy_prvnacku_z_ukrajiny_zruseni_je_namiste_shoduji_se_ombudsman_i_zastupce_detskeho_ombudsmana/">společným vyjádřením pro Ústavní soud</a> připojili k názoru skupiny senátorů, kteří podali návrh na zrušení příslušné části zákona. Oba ombudsmanští představitelé zastávají názor, že šlo o&nbsp;neopodstatněné, škodlivé a&nbsp;protiústavní opatření 
 <i>.&nbsp;</i></p>
 <p>
