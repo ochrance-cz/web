@@ -1,5 +1,5 @@
 ---
-title: za květen a červen 2025
+title: Zpravodaj ombudsmana za květen a červen 2025
 month: 7
 year: 2025
 file: https://www.ochrance.cz/zpravodaj/za_kveten_a_cerven_2025/zpravodaj_kveten_a_cerven_2025.pdf

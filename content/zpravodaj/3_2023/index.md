@@ -1,5 +1,5 @@
 ---
-title: 3/2023
+title: Zpravodaj ombudsmana 3/2023
 month: 3
 year: 2023
 perex: ""

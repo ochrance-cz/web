@@ -1,5 +1,5 @@
 ---
-title: za leden a únor 2025
+title: Zpravodaj ombudsmana za leden a únor 2025
 month: 3
 year: 2025
 file: https://www.ochrance.cz/zpravodaj/za_leden_a_unor_2025/zpravodaj_leden_a_unor_2025.pdf

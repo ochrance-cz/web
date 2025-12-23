@@ -1,5 +1,5 @@
 ---
-title: a dětského ombudsmana za červenec a srpen 2025
+title: Zpravodaj ombudsmana a dětského ombudsmana za červenec a srpen 2025
 month: 9
 year: 2025
 file: https://www.ochrance.cz/zpravodaj/za_cervence_a_srpen_2025/zpravodaj_cervenec_srpen_2025.pdf

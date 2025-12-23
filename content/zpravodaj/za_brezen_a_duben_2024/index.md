@@ -1,5 +1,5 @@
 ---
-title: za březen a duben 2024
+title: Zpravodaj ombudsmana za březen a duben 2024
 month: 5
 year: 2024
 file: https://www.ochrance.cz/zpravodaj/za_brezen_a_duben_2024/zpravodaj_brezen_a_duben_2024.pdf

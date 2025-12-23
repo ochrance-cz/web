@@ -1,5 +1,5 @@
 ---
-title: za září a říjen 2024
+title: Zpravodaj ombudsmana za září a říjen 2024
 month: 11
 year: 2024
 file: https://www.ochrance.cz/zpravodaj/za_zari_a_rijen_2024/zpravodaj_zari_a_rijen_2024.pdf

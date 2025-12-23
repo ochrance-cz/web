@@ -1,5 +1,5 @@
 ---
-title: 2/2022
+title: Zpravodaj ombudsmana 2/2022
 month: 2
 year: 2022
 perex: V tomto zpravodaji máte možnost nahlédnout do pestrého výběru případů,

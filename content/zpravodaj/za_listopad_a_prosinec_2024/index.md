@@ -1,5 +1,5 @@
 ---
-title: za listopad a prosinec 2024
+title: Zpravodaj ombudsmana za listopad a prosinec 2024
 month: 1
 year: 2025
 file: https://www.ochrance.cz/zpravodaj/za_listopad_a_prosinec_2024/zpravodaj_listopad_a_prosinec_2024.pdf

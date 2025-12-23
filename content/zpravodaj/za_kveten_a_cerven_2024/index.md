@@ -1,5 +1,5 @@
 ---
-title: za květen a červen 2024
+title: Zpravodaj ombudsmana za květen a červen 2024
 month: 7
 year: 2024
 file: https://www.ochrance.cz/zpravodaj/za_kveten_a_cerven_2024/zpravodaj_kveten_a_cerven_2024.pdf

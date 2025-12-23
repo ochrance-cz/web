@@ -1,5 +1,5 @@
 ---
-title: 4/2022
+title: Zpravodaj ombudsmana 4/2022
 month: 4
 year: 2022
 file: https://www.ochrance.cz/zpravodaj/4_2022/zpravodaj-ombudsmana-4-2022.pdf

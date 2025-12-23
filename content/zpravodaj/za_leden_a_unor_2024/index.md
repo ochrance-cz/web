@@ -1,5 +1,5 @@
 ---
-title: za leden a únor 2024
+title: Zpravodaj ombudsmana za leden a únor 2024
 month: 1
 year: 2024
 file: https://www.ochrance.cz/zpravodaj/za_leden_a_unor_2024/zpravodaj_leden_a_unor_2023.pdf

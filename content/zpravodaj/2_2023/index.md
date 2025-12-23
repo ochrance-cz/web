@@ -1,5 +1,5 @@
 ---
-title: 2/2023
+title: Zpravodaj ombudsmana 2/2023
 month: 2
 year: 2023
 file: https://www.ochrance.cz/zpravodaj/2_2023/zpravodaj-ombudsmana-2-2023.pdf

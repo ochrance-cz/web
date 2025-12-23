@@ -1,6 +1,6 @@
 {{ define "main" }}
 <main data-pagefind-body>
-  {{ partial "text-header.html" (dict "Title" (print "Zpravodaj ombudsmana " .Title)) }}
+  {{ partial "text-header.html" (dict "Title" .Title) }}
 
   <div class="_magazine" {{ with .Params.contentBackdrop }} class="{{ . }}"{{ end }}>
     <section>

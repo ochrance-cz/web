@@ -1,5 +1,5 @@
 ---
-title: 1/2022
+title: Zpravodaj ombudsmana 1/2022
 month: 1
 year: 2022
 perex: >+

@@ -1,5 +1,5 @@
 ---
-title: za březen a duben 2025
+title: Zpravodaj ombudsmana za březen a duben 2025
 month: 5
 year: 2025
 file: https://www.ochrance.cz/zpravodaj/za_brezen_a_duben_2025/zpravodaj_brezen_a_duben_2025.pdf

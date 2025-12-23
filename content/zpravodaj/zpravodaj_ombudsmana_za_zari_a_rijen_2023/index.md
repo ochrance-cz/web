@@ -1,5 +1,5 @@
 ---
-title: za září a říjen 2023
+title: Zpravodaj ombudsmana za září a říjen 2023
 month: 11
 year: 2023
 perex: "\n"

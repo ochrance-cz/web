@@ -17,7 +17,7 @@
         <a
           href="{{ .Permalink }}">
           {{- "" -}}<span class="icon-{{ with .Params.icon }}{{ . }}{{ else }}arrow{{ end }}" aria-hidden="true"></span>
-          Zpravodaj ombudsmana&nbsp;{{- .Title -}}
+          {{- .Title -}}
         </a>
       </h{{ with $h }}{{.}}{{ else }}3{{ end }}>
 
