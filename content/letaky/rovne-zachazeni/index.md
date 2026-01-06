@@ -8,10 +8,12 @@ situace:
 file: rovne-zachazeni.pdf
 roma: romsky-diskriminace.pdf
 attachments:
-  - title: polsky
-    file: rovne-zachazeni-polish.pdf
+  - title: anglicky
+    file: rovne-zachazeni-english.pdf
   - title: ukrajinsky
     file: rovne-zachazeni-ukrainian.pdf
+  - title: polsky
+    file: rovne-zachazeni-polish.pdf
   - title: chorvatsky
     file: rovne-zachazeni-croatian.pdf
   - title: maďarsky
@@ -26,4 +28,8 @@ attachments:
     file: rovne-zachazeni-spanish.pdf
   - title: rumunsky
     file: rovne-zachazeni-romanian.pdf
+  - title: německy
+    file: rovne-zachazeni-german.pdf
+  - title: francouzsky
+    file: rovne-zachazeni-french.pdf
 ---
