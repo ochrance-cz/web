@@ -156,6 +156,10 @@ lawyers:
         role: právnička (stavební řízení)
         phone: 542 542 279
         email: michaela.stankova@ochrance.cz
+      - name: Michaela Brandejsová
+        role: právnička (stavební řízení, ochrana přírody a krajiny)
+        phone: 542 542 219
+        email: michaela.brandejsova@ochrance.cz
   - title: Odbor ochrany práv dětí
     intro: veřejné zdravotní pojištění, stížnosti ve zdravotnictví, činnost OSPOD,
       ústavní výchova, evidence uchazečů o zaměstnání u Úřadu práce, inspekce
@@ -279,11 +283,6 @@ lawyers:
           oddlužení)
         phone: 542 542 325
         email: tereza.nemcova-caslavska@ochrance.cz
-      - name: David Vávra
-        role: "právník (katastr nemovitostí, pozemkové úřady, evidence obyvatel,
-          matriky, dozor nad obecní samosprávou) "
-        phone: 542 542 324
-        email: david.vavra@ochrance.cz
       - name: Eliška Hejtmánková
         role: "právnička (přestupky, sousedské spory) "
         phone: 542 542 336
@@ -557,10 +556,6 @@ lawyers:
         role: "právnička "
         phone: 542 542 269
         email: kristyna.andrlova@ochrance.cz
-      - name: Kateřina Chaloupková
-        role: "právnička "
-        phone: 542 542 283
-        email: katerina.chaloupkova@ochrance.cz
   - title: Odbor ochrany práv osob se zdravotním postižením
     people:
       - name: Romana Jakešová
@@ -579,10 +574,6 @@ lawyers:
         role: právnička, tajemnice poradního orgánu
         phone: 542 542 335
         email: magdalena.paulusova@ochrance.cz
-      - name: Petr Polák
-        role: právník
-        phone: 542 542 374
-        email: petr.polak@ochrance.cz
       - name: Romana Švecová
         role: "právnička "
         phone: 542 542 256
@@ -599,6 +590,10 @@ lawyers:
         role: právnička
         phone: 542 542 273
         email: gabriela.janickova@ochrance.cz
+      - name: Nina Lenoráková
+        role: právnička
+        phone: 542 542 332
+        email: "nina.lenorakova@ochrance.cz   "
   - title: Odbor strategií, metodik a koordinace
     people:
       - name: Jaroslav Švoma
@@ -625,6 +620,10 @@ lawyers:
         role: právnička, Oddělení metodiky a analýz
         phone: 542 542 373
         email: kristina.kruzlicova@ochrance.cz
+      - name: Petr Polák
+        role: právník, Oddělení metodiky a analýz
+        phone: 542 542 374
+        email: petr.polak@ochrance.cz
   - title: Oddělení výzkumu
     people:
       - name: Jakub Konečný
@@ -643,4 +642,8 @@ lawyers:
         role: výzkumná pracovnice
         phone: 542 542 349
         email: veronika.prokschova@ochrance.cz
+      - name: Magdalena Konečná
+        role: výzkumná pracovnice
+        phone: 542 542 303
+        email: magdalena.konecna@ochrance.cz
 ---
