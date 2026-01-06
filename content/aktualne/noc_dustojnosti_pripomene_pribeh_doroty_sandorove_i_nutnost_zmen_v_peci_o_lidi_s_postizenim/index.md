@@ -9,8 +9,7 @@ perex: <p>Bolestný příběh Doroty Šandorové znovu připomene, že důstojno
   pietu a následnou debatu o tom, jak zlepšit služby a zajistit bezpečné a
   důstojné podmínky pro lidi a děti s postižením. Setkání se dnes uskuteční v
   Kanceláři veřejného ochránce práv a ochránce práv dětí, a to i za účasti
-  zástupců Ministerstva práce a sociálních věcí a Jihomoravského
-  kraje.&nbsp;</p>
+  zástupců &nbsp;Jihomoravského kraje a lidí se zkušeností s ústavní péčí.</p>
 ---
 <p>Účastníci zapálí svíčky a připomenou si příběh Doroty Šandorové. Po krátké vzpomínce vystoupí zástupce ombudsmana a dětského ombudsmana Vít Alexander Schorm, který shrne, co se v péči o lidi s postižením za poslední roky změnilo a jaké výzvy dál přetrvávají: „
 <i>Připomínat si příběh Doroty Šandorové je důležité i proto, abychom nezapomněli, že důstojnost lidí žijících v ústavech není samozřejmostí. Proto je nezbytné, aby stát intenzivně pracoval na transformaci ústavů na zařízení komunitního typu a zároveň rozvíjel dostupnost komunitního bydlení a služeb pro lidi s postižením, zejména pro ty s chováním náročným na péči. K tomu se ostatně stát zavázal Úmluvou o právech osob se zdravotním postižením.</i>“</p>
