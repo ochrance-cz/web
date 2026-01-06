@@ -22,4 +22,8 @@ attachments:
     file: discrimination-spanish.pdf
   - title: Ukrainian
     file: discrimination-ukrainian.pdf
+  - title: French
+    file: discrimination-french.pdf
+  - title: German
+    file: discrimination-german.pdf
 ---
