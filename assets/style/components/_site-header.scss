@@ -375,13 +375,17 @@
             }
           }
 
+          &:has(.icon-kids) {
+            color: #0278d4;
+          }
+
           .icon-kids {
             &::after {
               display: inline-block;
               box-sizing: border-box;
               @include font-size-l;
               content: ' ';
-              background-image: url(/images/ikona_skejtak_modra.png);
+              background-image: url(/images/logo-icon-blue.svg);
               background-repeat: no-repeat;
               background-size: cover;
               text-indent: 0;

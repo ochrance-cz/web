@@ -1,5 +1,20 @@
 ._home-link {
   padding-left: 2rem;
+
+  &:has(.icon-kids) {
+    background: #0278d4;
+    margin-left: -1rem;
+    margin-right: -1rem;
+    padding: 0.5rem 1rem 0.5rem 3rem;
+
+    h3,
+    p,
+    a,
+    a:hover {
+      color: white;
+    }
+  }
+
   h3 {
     text-indent: -2rem;
     @include font-size-l;
@@ -72,9 +87,9 @@
           width: 2rem;
 
           content: ' ';
-          background-image: url(/images/ikona_skejtak_modra.png);
+          background-image: url(/images/logo-icon-white.svg);
           background-repeat: no-repeat;
-          background-size: cover;
+          background-size: 2rem auto;
           text-indent: 0;
           text-align: center;
           height: 2rem;
