@@ -1,10 +1,10 @@
 ---
-title: важливі посилання з інформацієюпро ваше перебування в Чеській Республіці
+title: Důležité odkazy s informacemi o pobytu Ukrajinců v ČR
 slug: informace-pro-ukrajince
 situace:
   - letaky-pro-ukrajince
-file: informace-pro-ukrajince.pdf
+file: informace-pro-ukrajince-cze.pdf
 attachments:
-  - title: Důležité odkazy s informacemi o pobytu Ukrajinců v ČR
-    file: informace-pro-ukrajince-cze.pdf
+  - title: важливі посилання з інформацієюпро ваше перебування в Чеській Республіці
+    file: informace-pro-ukrajince.pdf
 ---
