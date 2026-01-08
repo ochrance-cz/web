@@ -24,15 +24,15 @@ perex: <p>Ledové sprchy, samotka, zesměšňování i krádeže… a potom svob
 <p>Poznatky předsedkyně Turin odpovídají názorům lidí, kteří reagovali na výzvu zástupce ombudsmana. Kromě výše zmíněných bytů či pracovních příležitostí zdaleka nejčastěji zmiňují osvětu. Ve společnosti podle nich chybí pozornost politiků k&nbsp;životu v&nbsp;ústavech i proměna přístupu veřejnosti a státu k&nbsp;lidem s&nbsp;postižením.&nbsp;</p>
 <p>&nbsp;</p>
 <h4>Zdraví je vrtkavé, vzkazují lidé se zkušeností s ústavní péčí</h4>
-<p>Pro ty, kteří si myslí, že lidé s&nbsp;postižením patří do ústavu, mají respondenti veřejné výzvy vzkaz
-<i>. „Zdraví je vrtkavé, stačí klíště, havárie, nemoc a jste tam, kde nechce skončit nikdo,“&nbsp;</i>podotýká jeden z&nbsp;účastníků. Dodává, že domácí asistence je příliš drahá. Další z&nbsp;těch, kteří sdíleli svůj příběh, připomíná, že lidé s&nbsp;postižením jsou všude kolem nás, jen to nemusí být vždycky vidět
+<p>Pro ty, kteří si myslí, že lidé s&nbsp;postižením patří do ústavu, mají respondenti veřejné výzvy vzkaz 
+<i>. „Zdraví je vrtkavé, stačí klíště, havárie, nemoc a jste tam, kde nechce skončit nikdo,“&nbsp;</i>podotýká jeden z&nbsp;účastníků. Dodává, že domácí asistence je příliš drahá. Další z&nbsp;těch, kteří sdíleli svůj příběh, připomíná, že lidé s&nbsp;postižením jsou všude kolem nás, jen to nemusí být vždycky vidět 
 <i>. „Druzí lidé nemají právo říkat někomu, jak může nebo nemůže žít, pokud se to týká jen jeho osobně,“</i> připomíná další z&nbsp;odpovědí.</p>
 <p>&nbsp;</p>
 <blockquote>
 <p>
 <strong>Noc důstojnosti: ano komunitním službám, ne ústavům</strong></p>
 <p>Bolestný příběh Doroty Šandorové, kterou před pěti lety v&nbsp;ústavu zabil pracovník sociální služby, připomněla letošní Noci důstojnosti. Její smrt byla vyústěním dlouhodobého týrání a narušování důstojnosti klientů zařízení sociální péče. Událost&nbsp;spojila pietu a následnou debatu o tom, jak zlepšit služby a zajistit bezpečné a důstojné podmínky pro lidi s&nbsp;postižením, včetně dětí. 
-<a href="https://www.ochrance.cz/aktualne/noc_dustojnosti_pripomene_pribeh_doroty_sandorove_i_nutnost_zmen_v_peci_o_lidi_s_postizenim/">Více &nbsp;v&nbsp;článku.</a></p></blockquote>
+<a href="https://www.ochrance.cz/aktualne/noc_dustojnosti_pripomene_pribeh_doroty_sandorove_i_nutnost_zmen_v_peci_o_lidi_s_postizenim/">Více v&nbsp;článku.</a></p></blockquote>
 <blockquote>
 <p>
 <strong>Poradní orgán pro oblast práv lidí s postižením</strong></p>
@@ -48,8 +48,8 @@ perex: <p>Ledové sprchy, samotka, zesměšňování i krádeže… a potom svob
 <li>
 <strong>získává podněty</strong>&nbsp;od&nbsp;lidí s&nbsp;postižením, organizací hájících jejich práva a&nbsp;od&nbsp;pečujících osob,</li>
 <li>
-<strong>zajišťuje informovanost</strong>&nbsp;lidí s&nbsp;postižením, organizací hájící jejich práva a&nbsp;široké veřejnosti o&nbsp;činnost ombudsmana v&nbsp;oblasti monitorování podle Úmluvy.
-<br>Poradní orgán má&nbsp;svůj&nbsp; 
+<strong>zajišťuje informovanost</strong>&nbsp;lidí s&nbsp;postižením, organizací hájící jejich práva a&nbsp;široké veřejnosti o&nbsp;činnost ombudsmana v&nbsp;oblasti monitorování podle Úmluvy. </li>
+<li>Poradní orgán má&nbsp;svůj&nbsp; 
 <a href="https://www.ochrance.cz/media/jednaci_rad_poradniho_organu.doc">Jednací řád</a>&nbsp;a&nbsp; 
-<a href="https://www.ochrance.cz/media/statut_poradniho_organu.docx">Statut</a>.&nbsp; 
-<a href="https://www.ochrance.cz/vystupy/poradni-organ-crpd/">Výstupy&nbsp;</a>poradního orgánu jsou veřejné.</li></ul></blockquote>
+<a href="https://www.ochrance.cz/media/statut_poradniho_organu.docx">Statut</a>, 
+<a href="https://www.ochrance.cz/vystupy/poradni-organ-crpd/">Výstupy</a> poradního orgánu jsou veřejné.</li></ul></blockquote>
