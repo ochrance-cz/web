@@ -20,6 +20,10 @@ attachments:
   - title: "Podcast Na kávu s ombudsmanem: Věk nesmí být strašákem ani důvodem k
       diskriminaci "
     link: https://www.ochrance.cz/aktualne/na_kavu_s_ombudsmanem_127-_dil_vek_nesmi_byt_strasakem_ani_duvodem_k_diskriminaci/
+  - file: https://www.ochrance.cz/aktualne/vice_senioru_vice_vyzev_i_prilezitosti-_konference_pod_zastitou_ombudsmana_se_zameruje_na_tema_aktivniho_starnuti/vekova_dis_1cast.pdf
+    title: Seriál o věkové diskriminaci na téma práce
+  - file: https://www.ochrance.cz/aktualne/vice_senioru_vice_vyzev_i_prilezitosti-_konference_pod_zastitou_ombudsmana_se_zameruje_na_tema_aktivniho_starnuti/pdf_vekova_diskriminace_2.cast.pdf
+    title: Seriál o věkové diskriminaci na téma služby
 ---
 <p>Podíl starších lidí v Česku vzrostl za posledních 20 let z přibližně 14 % na téměř 21 %. Do roku 2050 dosáhne 65+ let bezmála 30 % obyvatel Česka. Alespoň takový je odhad Českého statistického úřadu. Stoupající počet lidí v&nbsp;seniorském věku je pádný argument, proč tématu stárnutí věnovat pozornost.&nbsp;</p>
 <p>V&nbsp;letošním roce se na něj zaměřuje také Kancelář ombudsmana a dětského ombudsmana. I to je důvod, proč na své půdě hostí konferenci Ministerstva práce a sociálních věcí&nbsp; 
