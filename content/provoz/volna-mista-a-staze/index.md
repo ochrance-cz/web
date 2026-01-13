@@ -4,9 +4,8 @@ linksAfter: []
 ---
 <h2>
 <strong>Volná místa</strong></h2>
-<p>Nyní neprobíhá žádné výběrové řízení.</p>
-<p>Pokud se přesto chcete ucházet o místo, pošlete nám svůj životopis na adresu 
-<a href="mailto:lzicarova@ochrance.cz">lzicarova@ochrance.cz</a> a napište, o jakou práci máte zájem.</p>
+<p>Aktuálně hledáme kolegu či kolegyni do týmu dohledu nad omezováním osobní svobody. Veškeré informace najdete v 
+<a href="https://www.ochrance.cz/aktualne/hledame_kolegu_ci_kolegyni_do_tymu_dohledu_nad_omezovanim_osobni_svobody/">inzerátu</a>.</p>
 <p>&nbsp;</p>
 <p>
 <strong>Stáže pro studenty právnických fakult</strong></p>
