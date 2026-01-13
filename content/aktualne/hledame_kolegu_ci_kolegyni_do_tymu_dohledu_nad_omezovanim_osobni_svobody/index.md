@@ -17,7 +17,7 @@ perex: <p>Už 20 let národní preventivní mechanismus přispívá k ochraně p
 <li>Zpracovávání připomínek k&nbsp;právním předpisům.</li>
 <li>Vedení odborných seminářů pro&nbsp;pracovníky zařízení.</li>
 <li>Reprezentaci Kanceláře veřejného ochránce práv a ochránce práv dětí na&nbsp;národní i&nbsp;mezinárodní úrovni.</li></ul>
-<p>Bližší popis pracovní pozice i s&nbsp;ohledem na to, co může zajímat lidi se zdravotním omezením, najdete v&nbsp;
+<p>Bližší popis pracovní pozice i s&nbsp;ohledem na to, co může zajímat lidi se zdravotním omezením, najdete v&nbsp; 
 <a href="/media/jak_vypada_prace_pravnika_npm.pdf">tomto dokumentu</a>.</p>
 <h4>
 <strong>Co od Vás požadujeme:</strong></h4>
@@ -42,9 +42,9 @@ perex: <p>Už 20 let národní preventivní mechanismus přispívá k ochraně p
 <li>5 dnů osobního volna ročně,</li>
 <li>příspěvek na stravování ve výši 96 Kč na den,</li>
 <li>práci v&nbsp;centru Brna s&nbsp;možností parkování.</li></ul>
-<p>Záleží nám na&nbsp;rozmanitosti. Jste vítáni bez ohledu na&nbsp;věk, pohlaví, zdravotní stav, rasu, etnický původ, národnost, sexuální orientaci, náboženské vyznání či&nbsp;světový názor. Jsme náročný, ale férový zaměstnavatel. Pokud vás zajímá blíže, jak to u nás chodí, koukněte do naší&nbsp;
+<p>Záleží nám na&nbsp;rozmanitosti. Jste vítáni bez ohledu na&nbsp;věk, pohlaví, zdravotní stav, rasu, etnický původ, národnost, sexuální orientaci, náboženské vyznání či&nbsp;světový názor. Jsme náročný, ale férový zaměstnavatel. Pokud vás zajímá blíže, jak to u nás chodí, koukněte do naší&nbsp; 
 <a href="https://www.ochrance.cz/media/personalni_strategie.pdf">personální strategie</a>.</p>
 <blockquote>
-<p>Jestli se k&nbsp;nám chcete připojit, napište nám do&nbsp;28. ledna na&nbsp;adresu&nbsp;
+<p>Jestli se k&nbsp;nám chcete připojit, napište nám do&nbsp;28. ledna na&nbsp;adresu&nbsp; 
 <strong>michalcova@ochrance.cz</strong>. Napište nám, proč s&nbsp;námi chcete spolupracovat a připojte Váš strukturovaný životopis. Napište také, pokud máte nějaké specifické potřeby nebo doplňující otázky (například v&nbsp;souvislosti se zdravotním omezením).&nbsp;</p>
 <p>Na termínu nástupu se můžeme domluvit.</p></blockquote>
