@@ -3,8 +3,8 @@ title: Žádost o uplatnění opatření proti nečinnosti úřadu
 situace:
   - soudy
   - formulare
-file: formular-opatreni_proti_necinnosti-urad.docx
+file: formular-opatreni_proti_necinnosti-urad.pdf
 attachments:
-  - file: verze-formulare-k-tisku-a-vyplneni-rukou.pdf
-    title: příloha
+  - file: formular-opatreni_proti_necinnosti-urad.docx
+    title: verze formuláře pro online vyplnění
 ---
