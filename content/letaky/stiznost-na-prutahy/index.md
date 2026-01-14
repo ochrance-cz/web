@@ -5,7 +5,7 @@ situace:
   - formulare
 file: formular_stiznosti-na-prutahy-v-soudnim-rizeni.pdf
 attachments:
-  - file: Formular_Stiznosti-na-prutahy-v-soudnim-rizeni_Priloha.pdf
+  - file: formular_stiznosti-na-prutahy-v-soudnim-rizeni_priloha.pdf
     title: příloha
   - title: verze formuláře pro online vyplnění
     file: formular_stiznosti-na-prutahy-v-soudnim-rizeni.docx
