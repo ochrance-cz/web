@@ -5,8 +5,10 @@ slug: zadost-o-zadostiucineni-za-nemajtkovou-ujmu-zpusobenou-neprimerenou-delkou
 situace:
   - soudy
   - formulare
-file: zadostiucineni-za-neprimerenou-delku-soudniho-rizeni.docx
+file: zadostiucineni-za-neprimerenou-delku-soudniho-rizeni.pdf
 attachments:
   - file: zadostiucineni-za-neprimerenou-delku-soudniho-rizeni_priloha.pdf
     title: příloha
+  - file: zadostiucineni-za-neprimerenou-delku-soudniho-rizeni.docx
+    title: verze formuláře pro online vyplnění
 ---
