@@ -1,6 +1,6 @@
 ---
-title: Ochrana přírody a památek v ohrožení kvůli novele stavebního zákona.
-  Ombudsman se obrací na poslance
+title: Ochrana přírody a památek v ohrožení kvůli novele stavebního zákona.
+  Ombudsman se obrací na poslance
 date: 2026-01-19T14:23:00
 vystupy:
   - tz
@@ -21,7 +21,7 @@ attachments:
     link: https://www.psp.cz/sqw/text/tiskt.sqw?O=10&CT=67&CT1=
 ---
 <p>
-<i>&nbsp;„Aktuální návrh stavební novely má svou odvrácenou stranu. Rychlost a plynulost výstavby jde na úkor jiných veřejných zájmů – ochrany zdraví, životního prostředí, památek nebo kvality bydlení. Považuji za nepřijatelné, že tak zásadní změny jsou připravovány kvapně a bez dostatečné odborné diskuze,“&nbsp;</i>říká ombudsman Stanislav Křeček k&nbsp;novele stavebního zákona. Tou, ačkoli neprošla obvyklým připomínkovým řízením, se Poslanecká sněmovna plánuje zabývat pravděpodobně v&nbsp;příštím týdnu.</p>
+<i>&nbsp;„Aktuální návrh stavební novely má svou odvrácenou stranu. Rychlost a plynulost výstavby jde na úkor jiných veřejných zájmů – ochrany zdraví, životního prostředí, památek nebo kvality bydlení. Považuji za nepřijatelné, že tak zásadní změny jsou připravovány kvapně a&nbsp;bez dostatečné odborné diskuze,“&nbsp;</i>říká ombudsman Stanislav Křeček k&nbsp;novele stavebního zákona. Tou, ačkoli neprošla obvyklým připomínkovým řízením, se Poslanecká sněmovna plánuje zabývat pravděpodobně v&nbsp;příštím týdnu.</p>
 <p>Stanislav Křeček se proto rozhodl s konkrétními připomínkami obrátit na členy tří poslaneckých výborů (Hospodářský a Ústavně právní výbor a Výbor pro&nbsp;veřejnou správu a&nbsp;regionální rozvoj). Žádá, aby poslanci jeho výhrady při projednávání novely zvážili.&nbsp;</p>
 <p>Poukazuje přitom na změny, které upozadí některá hlediska veřejného zájmu. Novela například plánuje umožnit povolení staveb i tam, kde by dříve nemusely být přípustné – třeba umístění fotovoltaických panelů v&nbsp;památkových zónách nebo povolení obchodního centra tam, kde to územní plán nepřipouští. Slábnou opatření proti černým stavbám. Pravidla pro posuzování hluku jsou nejasná a velmi volná. Snižují se požadavky na přístupnost pro lidi se zdravotním postižením.&nbsp;</p>
 <p>Stanislav Křeček apeluje i na nutnost zabývat se lidskoprávní rovinou návrhu: 
