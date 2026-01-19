@@ -43,7 +43,8 @@ attachments:
 <li>ruší se širší ochranná pásma památek, včetně tzv. nárazníkových zón u památek UNESCO, což může ohrozit jejich mezinárodní ochranu,</li>
 <li>definice přístupnosti je zúžená pouze na osoby se zdravotním postižením podle blíže neurčeného zákona. Opomíjí přitom další skupiny, které přístupnost potřebují – seniory, těhotné ženy nebo rodiče s&nbsp;kočárky,</li>
 <li>novela umožní, aby se při úpravách stávajících budov požadavky na přístupnost vůbec neuplatnily, případně aby byly odmítnuty jako „ekonomicky nepřiměřené“. To může vést ke zhoršení podmínek pro důstojný život části obyvatel.</li></ul>
-<p>Omezení práv účastníků řízení a narušení základních principů práva&nbsp;</p>
+<p>
+<strong>Omezení práv účastníků řízení a narušení základních principů práva&nbsp;</strong></p>
 <ul>
 <li>proti rozhodnutím o největších stavbách (dálnice, dráhy, stavby pro hromadné bydlení) není možné podat řádný opravný prostředek u správního orgánu,</li>
 <li>přezkum závazných stanovisek je časově velmi omezený a v praxi může být nemožný,</li>
