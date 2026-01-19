@@ -14,6 +14,8 @@ attachments:
       karet zařazených do evidence uchazečů o zaměstnání na veřejném zdravotním
       pojištění
     file: https://mzd.gov.cz/stanovisko-k-ucasti-drzitelu-zamestnaneckych-karet-zarazenych-do-evidence-uchazecu-o-zamestnani-na-verejnem-zdravotnim-pojisteni/
+  - title: Komunikace s Ministerstvem zdravotnictví a zpráva ombudsmana o šetření
+    link: https://eso.ochrance.cz/Nalezene/Edit/14128
 ---
 <p>Od 1. ledna se stírá rozdíl v&nbsp;hrazení zdravotního pojištění cizinců, pokud jsou vedeni na úřadě práce. Ať už jsou držiteli tzv. duální či neduální zaměstnanecké karty, v obou případech mají pojištění, které jim hradí stát. Jednání s&nbsp;Ministerstvem zdravotnictví, jež vyústilo v&nbsp;tuto změnu, inicioval ombudsman Stanislav Křeček</p>
 <p>&nbsp;
