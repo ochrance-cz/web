@@ -4,9 +4,12 @@ linksAfter: []
 ---
 <h2>
 <strong>Volná místa</strong></h2>
-<p>Aktuálně hledáme kolegu či kolegyni do týmu dohledu nad omezováním osobní svobody. Veškeré informace najdete v 
-<a href="https://www.ochrance.cz/aktualne/hledame_kolegu_ci_kolegyni_do_tymu_dohledu_nad_omezovanim_osobni_svobody/">inzerátu</a>.</p>
-<p>&nbsp;</p>
+<p>Aktuálně hledáme&nbsp;</p>
+<ul>
+<li>asistenta či asistentku veřejného ochránce práv, ochránce práv dětí a jejich zástupce, veškeré informace najdete v 
+<a href="https://www.ochrance.cz/aktualne/hledame_asistenta_asistentku_sekretariatu_verejneho_ochrance_prav_ochrance_prav_deti_a_jejich_zastupce/">inzerátu</a>.</li>
+<li>kolegu či kolegyni do týmu dohledu nad omezováním osobní svobody, veškeré informace najdete v 
+<a href="https://www.ochrance.cz/aktualne/hledame_kolegu_ci_kolegyni_do_tymu_dohledu_nad_omezovanim_osobni_svobody/">inzerátu</a>.</li></ul>
 <p>
 <strong>Stáže pro studenty právnických fakult</strong></p>
 <p>Na stáž se můžete přihlásit přes svou právnickou fakultu v&nbsp;Brně, Olomouci a Praze. Pokud nevíte, koho ve škole oslovit, napište kolegyni Haně Suské na adresu 
