@@ -7,7 +7,7 @@ situace:
 file: detsky-ombudsman.pdf
 attachments:
   - title: anglicky
-    file: childrens-ombudsman.pdf
+    file: detsky-ombudsman-english.pdf
   - file: detsky-ombudsman-bulgarian.pdf
     title: bulharsky
   - file: detsky-ombudsman-french.pdf
@@ -29,5 +29,5 @@ attachments:
   - file: detsky-ombudsman-spanish.pdf
     title: španělsky
   - title: ukrajinsky
-    file: childrens-ombudsman-ukrainian.pdf
+    file: detsky-ombudsman-ukrainian.pdf
 ---
