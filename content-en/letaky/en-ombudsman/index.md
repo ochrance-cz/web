@@ -4,28 +4,28 @@ situace:
   - ombudsman
 file: en-ombudsman.pdf
 attachments:
-  - title: bulgarian
+  - title: Bulgarian
     file: ombudsman-bulgarian.pdf
-  - title: croatian
+  - title: Croatian
     file: ombudsman-croatian.pdf
-  - title: french
+  - title: French
     file: ombudsman-french.pdf
-  - title: german
+  - title: German
     file: ombudsmann-german.pdf
-  - title: hungarian
+  - title: Hungarian
     file: ombudsman-hungarian.pdf
-  - title: italian
+  - title: Italian
     file: ombudsman-italian.pdf
-  - title: polish
+  - title: Polish
     file: ombudsman-polish.pdf
-  - title: romanian
+  - title: Romanian
     file: ombudsman-romanian.pdf
-  - title: russian
+  - title: Russian
     file: ombudsman-russian.pdf
-  - title: slovenian
+  - title: Slovenian
     file: ombudsman-slovenian.pdf
-  - title: spanish
+  - title: Spanish
     file: ombudsman-spanish.pdf
-  - title: ukrainian
+  - title: Ukrainian
     file: ombudsman-ukrainian.pdf
 ---
