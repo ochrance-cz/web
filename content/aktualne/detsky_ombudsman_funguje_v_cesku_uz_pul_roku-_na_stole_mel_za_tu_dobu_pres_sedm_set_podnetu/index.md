@@ -1,5 +1,5 @@
 ---
-title: Dětský ombudsman funguje v Česku už půl roku. Na stole měl za tu dobu
+title: Dětský ombudsman funguje v Česku už půl roku. Na stole měl za tu dobu
   přes sedm set podnětů
 date: 2026-01-28T08:55:00
 vystupy:
