@@ -51,4 +51,4 @@ attachments:
 <li>soudní ochrana se zužuje tím, že žalobu nebude možné dodatečně rozšířit,</li>
 <li>zásadním problémem je také oslabení závaznosti územních plánů. Stavební úřad bude moci povolit stavbu i v rozporu s nimi, na základě vágně formulovaných podmínek.</li></ul></blockquote>
 <figure class="image">
-<img src="https://www.ochrance.cz/aktualne/ochrana_prirody_a_pamatek_v_ohrozeni_kvuli_novele_stavebniho_zakona-_ombudsman_se_obraci_na_poslance/novela_stavebniho_zakona.png" alt="novela stavebního zákona 2025 2026 nový stavební zákon změny ve stavebním zákoně"></figure>
+<img src="https://www.ochrance.cz/aktualne/ochrana_prirody_a_pamatek_v_ohrozeni_kvuli_novele_stavebniho_zakona-_ombudsman_se_obraci_na_poslance/novela_stavebniho_zakona_mensi.png" alt="novela stavebního zákona 2026 nový stavební zákon změny ve stavebním zákoně"></figure>
