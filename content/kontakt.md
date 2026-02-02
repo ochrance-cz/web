@@ -6,52 +6,37 @@ menuTitle: Kontakt
 phone: 542 542 888
 email: podatelna@ochrance.cz
 dataId: jz5adky
-address: >-
-  Kancelář veřejného ochránce práv a ochránce práv dětí  
-
+address: |-
+  Kancelář veřejného ochránce práv a ochránce práv dětí\
   Údolní 39
-
   602 00 Brno
 
-
   **Jsme tu pro vás každé pondělí a středu 8.00–16.00 hod.**
-
-
-  **U﻿pozorňujeme však na ztížený přístup kvůli probíhající rekonstrukci ulice Údolní. Více informací najdete níže v sekci Jak se k nám dostanete?**
 addressComment: Jsme v Brně a zatím jiné zastoupení v krajích nemáme.
 access:
-  walk: >-
-    Přístup do Kanceláře veřejného ochránce práv je od 1. září 2024 ztížený
-    kvůli probíhající rekonstrukci ulice Údolní. Ulice Údolní v úseku od Husovy
-    po křižovatku s Jiříkovského je uzavřená pro osobní a hromadnou dopravu.
-    Průchod pro pěší je zachovaný. 
-
-
-    V﻿íce informací na webu [Kopeme za Brno.](https://kopemeza.brno.cz/uzavirky-a-omezeni/udolni-usek-mezi-husovou-a-jirikovskeho/)
+  walk: "[](https://kopemeza.brno.cz/uzavirky-a-omezeni/udolni-usek-mezi-husovou-\
+    a-jirikovskeho/)"
   public: >-
-    Ulice Údolní je od 1. září 2024 kvůli probíhající rekonstrukci uzavřená pro
-    městskou hromadnou dopravu. D﻿o Kanceláře veřejného ochránce práv se můžete
-    přiblížit některým z následujících spojů MHD. Nejblíže je zastávka Úvoz.
+    D﻿o Kanceláře veřejného ochránce práv a ochránce práv dětí se můžete
+    přiblížit některým z následujících spojů MHD. 
 
 
-    **Linka x4:** autobusová okružní linka jede ze směru NC Královo Pole přes zastávky Náměstí Míru, **Úvoz**, Grohovu na Českou, odkud pokračuje na Šilingrovo náměstí k Nemocnici u sv. Anny, Sladovou, Tvrdého, **Úvoz** a dále směr Náměstí Míru.
+    Nejblíže je **zastávka Obilní trh**
 
 
-    **Linky 38 a 39:** nepojedou na Komenského náměstí a v centru města jsou ukončeny na zastávce Česká. Ve směru do centra jedou z **Úvozu** přes zastávku Grohova na Českou. Ve směru do Masarykovy čtvrti jedou z České přes zastávky Smetanova, Sušilova, Konečného náměstí, Čápkova na **Úvoz** a dále po svých trasách směr Preslova/Barvičova.
+    * tramvaj č. 4
+
+    * trolejbusy č. 38 a č. 39
 
 
-    V﻿íce informací na webu [Kopeme za Brno](https://kopemeza.brno.cz/uzavirky-a-omezeni/udolni-usek-mezi-husovou-a-jirikovskeho/).
-  universal: >-
-    Návštěvníci Kanceláře se zdravotním postižením mají na parkovišti u budovy
-    vyhrazena vhodná parkovací místa a pokud při příjezdu ohlásí tuto potřebu na
-    recepci, je jim zajištěn bezbariérový přístup do budovy a případná
-    asistence.
+    Poblíž je také **zastávka Úvoz**
 
 
-    U﻿pozorňujeme Vás, že od 1. září 2024 je ulice Údolní kvůli probíhající rekonstrukci uzavřená pro osobní dopravu. Průjezd je značně ztížen. Pokud byste potřebovali do Kanceláře veřejného ochránce práv přijet autem, požádejte si předem o povolení vjezdu e-mailem na adrese petr.lesa@ochrance.cz.
-
-
-    V﻿íce informací na webu [Kopeme za Brno](https://kopemeza.brno.cz/uzavirky-a-omezeni/udolni-usek-mezi-husovou-a-jirikovskeho/).
+    * trolejbusy č. 25 a č. 26
+  universal: Návštěvníci Kanceláře se zdravotním postižením mají na parkovišti u
+    budovy vyhrazena vhodná parkovací místa a pokud při příjezdu ohlásí tuto
+    potřebu na recepci, je jim zajištěn bezbariérový přístup do budovy a
+    případná asistence.
   pic: /images/kontakt.jpg
 pressAgent:
   role: "Kontakt pro média "
