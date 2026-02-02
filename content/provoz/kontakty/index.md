@@ -235,10 +235,6 @@ lawyers:
         role: právnička (monitoring, poradní orgán)
         phone: 542 542 202
         email: aneta.majercikova@ochrance.cz
-      - name: Aneta Hejduková
-        role: právnička (sociálně-právní ochrana dětí)
-        phone: 542 542 214
-        email: aneta.hejdukova@ochrance.cz
       - name: Eliška Klusáková
         role: právnička (školství)
         phone: 542 542 212
