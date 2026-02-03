@@ -319,6 +319,10 @@ lawyers:
         role: právnička (přestupky, ochrana spotřebitele)
         phone: 542 542 217
         email: sona.cajkova@ochrance.cz
+      - name: Eva Nejezchlebová
+        role: "právnička "
+        phone: 542 542 221
+        email: eva.nejezchlebova@ochrance.cz
   - title: Odbor sociálního zabezpečení
     intro: dávky pomoci v hmotné nouzi, příspěvek na péči, dávky pro zdravotně
       postižené, důchody, dávky nemocenského pojištění, dávky státní sociální
@@ -552,6 +556,10 @@ lawyers:
         role: "právnička "
         phone: 542 542 269
         email: kristyna.andrlova@ochrance.cz
+      - name: Adéla Žemla
+        role: "právnička "
+        phone: 542 542 283
+        email: adela.zemla@ochrance.cz
   - title: Odbor ochrany práv osob se zdravotním postižením
     people:
       - name: Romana Jakešová
