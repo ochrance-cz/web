@@ -1,5 +1,5 @@
 ---
-title: Veřejný ochránce práv jednal se zástupci Světové banky o inkluzi a
+title: Veřejný ochránce práv jednal se zástupci Světové banky o inkluzi a
   postavení Romů
 date: 2026-02-04T11:38:00
 vystupy:
