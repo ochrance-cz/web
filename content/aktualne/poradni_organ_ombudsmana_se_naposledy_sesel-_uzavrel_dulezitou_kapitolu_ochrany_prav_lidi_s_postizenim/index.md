@@ -30,4 +30,13 @@ attachments:
 <p>
 <strong>Co je poradní orgán pro oblast práv lidí s postižením?</strong></p>
 <p>Poradní orgán je poradním tělesem ombudsmana. Zřizuje ho na základě zákona. Poradní orgán pomáhá ombudsmanovi sledovat, jak Česká republika naplňuje práva lidí se zdravotním postižením podle mezinárodní Úmluvy OSN. Jeho členy jsou lidé se zdravotním postižením a zástupci organizací, kteří do práce ombudsmana přináší vlastní zkušenosti z praxe. Ke jmenování nových členů poradního orgánů dojde opět po zvolení dalšího ombudsmana.</p></blockquote>
-<p>&nbsp;</p>
+<figure class="table">
+<table>
+<tbody>
+<tr>
+<td>
+<figure class="image">
+<img src="https://www.ochrance.cz/aktualne/poradni_organ_ombudsmana_se_naposledy_sesel-_uzavrel_dulezitou_kapitolu_ochrany_prav_lidi_s_postizenim/dsc_5566.jpg" alt="Zasedání Poradního orgánu ombudsmana, hovoří ombudsman Stanislav Křeček"></figure></td>
+<td>
+<figure class="image">
+<img src="https://www.ochrance.cz/aktualne/poradni_organ_ombudsmana_se_naposledy_sesel-_uzavrel_dulezitou_kapitolu_ochrany_prav_lidi_s_postizenim/dsc_5693.jpg" alt="Zasedání Poradního orgánu ombudsmana, diskuze členů "></figure></td></tr></tbody></table></figure>
