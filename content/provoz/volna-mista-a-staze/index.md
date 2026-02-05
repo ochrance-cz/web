@@ -4,9 +4,9 @@ linksAfter: []
 ---
 <h2>
 <strong>Volná místa</strong></h2>
-<p>Aktuálně hledáme asistenta či asistentku veřejného ochránce práv, ochránce práv dětí a jejich zástupce. Veškeré informace najdete v 
-<a href="https://www.ochrance.cz/aktualne/hledame_asistenta_asistentku_sekretariatu_verejneho_ochrance_prav_ochrance_prav_deti_a_jejich_zastupce/">inzerátu</a>.</p>
-<p>&nbsp;</p>
+<p>Nyní neprobíhá žádné výběrové řízení.</p>
+<p>Pokud se přesto chcete ucházet o místo, pošlete nám svůj životopis na adresu 
+<a href="mailto:lzicarova@ochrance.cz">lzicarova@ochrance.cz</a> a napište, o jakou práci máte zájem.</p>
 <p>
 <strong>Stáže pro studenty právnických fakult</strong></p>
 <p>Na stáž se můžete přihlásit přes svou právnickou fakultu v&nbsp;Brně, Olomouci a Praze. Pokud nevíte, koho ve škole oslovit, napište kolegyni Haně Suské na adresu 
