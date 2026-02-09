@@ -1,8 +1,9 @@
 ---
-title: Leasing an apartment
-slug: leasing-an-apartment
+title: Health insurance for foreign nationals
+slug: health-insurance-for-foreign-nationals
 situace:
   - other-situations
+  - healthcare
 file: health-insurance-for-foreign-nationals-english.pdf
 attachments:
   - title: bulgarian
