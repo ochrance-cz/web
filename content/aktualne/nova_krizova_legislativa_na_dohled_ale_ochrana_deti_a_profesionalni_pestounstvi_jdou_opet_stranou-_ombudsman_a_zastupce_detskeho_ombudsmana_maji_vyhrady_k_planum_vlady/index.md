@@ -33,7 +33,7 @@ attachments:
 <i> </i>zástupce dětského ombudsmana Vít Alexander Schorm.</p>
 <p>
 <strong>Zákon o&nbsp;soudních poplatcích</strong></p>
-<p>Z&nbsp;reakce vlády rovněž vyplývá, že letos nebude předmětem jejího zájmu ani novela zákona o soudních poplatcích. A to přesto, že na její potřebu Kancelář ombudsmana poukazuje dlouhodobě. Již od roku 2019 totiž&nbsp; 
+<p>Z&nbsp;reakce vlády rovněž vyplývá, že letos nebude předmětem jejího zájmu ani novela zákona o soudních poplatcích. A to přesto, že na její potřebu Kancelář ombudsmana poukazuje dlouhodobě. Již od roku 2019 totiž&nbsp;
 <a href="https://eso.ochrance.cz/Nalezene/Edit/7924">prosazuje</a> snížení soudního poplatku za odvolání v antidiskriminačních věcech na stejnou výši, jaká platí pro podání žaloby.&nbsp;</p>
 <blockquote>
 <p>
