@@ -20,8 +20,8 @@ attachments:
 <p>
 <strong>Balíček krizové legislativy&nbsp;</strong></p>
 <p>Vláda v roce 2026 nepočítá se změnami krizové legislativy. Ministerstvo vnitra nicméně přislíbilo, že jí ve 4. čtvrtletí roku 2027 předloží balíček změn týkajících se krizového řízení a integrovaného záchranného systému.</p>
-<p>„
-<i>Oceňuji, že vláda vymezila časový rámec, ve kterém bychom se mohli dočkat nezbytné právní úpravy. Podstatné ale je, aby skutečně vedla k jednotnému, předvídatelnému a transparentnímu postupu úřadů při mimořádných událostech. To veřejnost právem očekáv</i>á,“ uvedl ombudsman Stanislav Křeček, který na nutnost změn 
+<p>
+<i>„Oceňuji, že vláda vymezila časový rámec, ve kterém bychom se mohli dočkat nezbytné právní úpravy. Podstatné ale je, aby skutečně vedla k jednotnému, předvídatelnému a transparentnímu postupu úřadů při mimořádných událostech. To veřejnost právem očekáv</i>á,“ uvedl ombudsman Stanislav Křeček, který na nutnost změn 
 <a href="https://eso.ochrance.cz/Nalezene/Edit/10640">upozornil</a> už v roce 2022.</p>
 <p>
 <strong>Reforma péče o ohrožené děti&nbsp;</strong></p>
