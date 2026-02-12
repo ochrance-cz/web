@@ -29,7 +29,7 @@ attachments:
 <i>.</i></p>
 <p>Druhým je zákon o&nbsp;profesionální pěstounské péči. 
 <i>„Zákon, který by právně zakotvil institut profesionálních pěstounů, by měl být pro vládu prioritou. Na jeho absenci tratí zejména&nbsp;děti se specifickými potřebami a&nbsp;sourozenecké skupiny. Situace je urgentní i kvůli rok starému zákazu umisťovat děti do 4 let do&nbsp;ústavních zařízení. Během dvou let se navíc stejný zákaz přenese i na děti do&nbsp;7 let. Pokud vláda bere tento závazek vážně, a ne jen jako planý slib, který může libovolně odkládat, musí jednat okamžitě</i>. 
-<i>Je doslova za pět minut dvanáct,“&nbsp;</i>důrazně varuje&nbsp;
+<i>Je doslova za pět minut dvanáct,“&nbsp;</i>důrazně varuje
 <i> </i>zástupce dětského ombudsmana Vít Alexander Schorm.</p>
 <p>
 <strong>Zákon o&nbsp;soudních poplatcích</strong></p>
