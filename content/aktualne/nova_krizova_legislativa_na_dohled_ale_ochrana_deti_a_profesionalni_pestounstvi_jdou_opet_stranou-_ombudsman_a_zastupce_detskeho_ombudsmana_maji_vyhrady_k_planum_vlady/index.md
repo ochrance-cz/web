@@ -1,7 +1,7 @@
 ---
-title: "Nová krizová legislativa na dohled, ale ochrana dětí a profesionální
-  pěstounství jdou opět stranou. Ombudsman a zástupce dětského ombudsmana mají
-  výhrady k plánům vlády "
+title: "Nová krizová legislativa na dohled, ale ochrana dětí a profesionální
+  pěstounství jdou opět stranou. Ombudsman a zástupce dětského ombudsmana mají
+  výhrady k plánům vlády "
 date: 2026-02-12T09:02:00
 vystupy:
   - tz
