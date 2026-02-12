@@ -4,7 +4,7 @@ title: "Nová krizová legislativa na dohled, ale ochrana dětí a profesionáln
   výhrady k plánům vlády "
 date: 2026-02-12T09:02:00
 vystupy:
-  - vyrocni-zprava
+  - tz
 perex: <p>Aktualizovanou podobu krizové legislativy, která sjednotí postup úřadů
   při mimořádných událostech, jako jsou třeba povodně či pandemie, by mohla
   vláda projednávat v&nbsp;posledním čtvrtletí roku 2027. Naopak stále není
