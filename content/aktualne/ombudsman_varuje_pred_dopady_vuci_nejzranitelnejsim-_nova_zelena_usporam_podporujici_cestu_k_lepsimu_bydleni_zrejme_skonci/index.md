@@ -1,11 +1,11 @@
 ---
-title: Ombudsman varuje, před dopady vůči nejzranitelnějším. Nová zelená
-  úsporám, podporující cestu k lepšímu bydlení, zřejmě skončí
+title: Ombudsman varuje před dopady vůči nejzranitelnějším. Nová zelená úsporám,
+  podporující cestu k lepšímu bydlení, zřejmě skončí
 date: 2026-02-16T07:49:00
 vystupy:
   - tz
 perex: >-
-  <p>Bez včasného upozornění možná zanikne&nbsp;
+  <p>Bez včasného upozornění možná zanikne 
 
   <a href="https://novazelenausporam.cz/">Nová zelená úsporám</a>, dotace, která trvala již šestnáct let. Za tu dobu pomohla více než půl milionu domácnostem snížit účty za energie, či zlepšit bydlení. Pro některé zároveň představovala jedinou možnost, jak vůbec dosáhnout na důstojný domov. Ombudsman Stanislav Křeček proto apeluje na premiéra Andreje Babiše, aby vláda dotační program zachovala.</p>
 attachments:
