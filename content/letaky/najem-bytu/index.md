@@ -6,29 +6,29 @@ situace:
 file: najem-bytu.pdf
 attachments:
   - title: anglicky
-    file: leasing-an-aparment-english.pdf
+    file: leasing-an-apartment-english.pdf
   - title: ukrajinsky
-    file: leasing-an-aparment-ukrainian.pdf
+    file: leasing-an-apartment-ukrainian.pdf
   - title: polsky
-    file: leasing-an-aparment-polish.pdf
+    file: leasing-an-apartment-polish.pdf
   - title: slovinsky
-    file: leasing-an-aparment-slovenian.pdf
+    file: leasing-an-apartment-slovenian.pdf
   - title: německy
-    file: leasing-an-aparment-german.pdf
+    file: leasing-an-apartment-german.pdf
   - title: italsky
-    file: leasing-an-aparment-italian.pdf
+    file: leasing-an-apartment-italian.pdf
   - title: rumunsky
-    file: leasing-an-aparment-romanian.pdf
+    file: leasing-an-apartment-romanian.pdf
   - title: rusky
-    file: leasing-an-aparment-russian.pdf
+    file: leasing-an-apartment-russian.pdf
   - title: španělsky
-    file: leasing-an-aparment-spanish.pdf
+    file: leasing-an-apartment-spanish.pdf
   - title: chorvatsky
-    file: leasing-an-aparment-croatian.pdf
-  - file: leasing-an-aparment-hungarian.pdf
+    file: leasing-an-apartment-croatian.pdf
+  - file: leasing-an-apartment-hungarian.pdf
     title: maďarsky
   - title: francouzsky
-    file: leasing-an-aparment-french.pdf
-  - file: leasing-an-aparment-bulgarian.pdf
+    file: leasing-an-apartment-french.pdf
+  - file: leasing-an-apartment-bulgarian.pdf
     title: bulharsky
 ---
