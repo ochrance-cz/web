@@ -6,7 +6,7 @@ linksAfter: []
 <strong>Volná místa</strong></h2>
 <p>Nyní neprobíhá žádné výběrové řízení.</p>
 <p>Pokud se přesto chcete ucházet o místo, pošlete nám svůj životopis na adresu 
-<a href="mailto:lzicarova@ochrance.cz">lzicarova@ochrance.cz</a> a napište, o jakou práci máte zájem.</p>
+<a href="mailto:michalcova@ochrance.cz ">michalcova@ochrance.cz&nbsp;</a> a napište, o jakou práci máte zájem.</p>
 <p>
 <strong>Stáže pro studenty právnických fakult</strong></p>
 <p>Na stáž se můžete přihlásit přes svou právnickou fakultu v&nbsp;Brně, Olomouci a Praze. Pokud nevíte, koho ve škole oslovit, napište kolegyni Haně Suské na adresu 
