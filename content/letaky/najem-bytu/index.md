@@ -6,29 +6,29 @@ situace:
 file: najem-bytu.pdf
 attachments:
   - title: anglicky
-    file: health-insurance-for-foreign-nationals-english.pdf
+    file: leasing-an-aparment-english.pdf
   - title: ukrajinsky
-    file: health-insurance-for-foreign-nationals-ukrainian.pdf
+    file: leasing-an-aparment-ukrainian.pdf
   - title: polsky
-    file: health-insurance-for-foreign-nationals-polish.pdf
+    file: leasing-an-aparment-polish.pdf
   - title: slovinsky
-    file: health-insurance-for-foreign-nationals-slovenian.pdf
+    file: leasing-an-aparment-slovenian.pdf
   - title: německy
-    file: health-insurance-for-foreign-nationals-german.pdf
+    file: leasing-an-aparment-german.pdf
   - title: italsky
-    file: health-insurance-for-foreign-nationals-italian.pdf
+    file: leasing-an-aparment-italian.pdf
   - title: rumunsky
-    file: health-insurance-for-foreign-nationals-romanian.pdf
+    file: leasing-an-aparment-romanian.pdf
   - title: rusky
-    file: health-insurance-for-foreign-nationals-russian.pdf
+    file: leasing-an-aparment-russian.pdf
   - title: španělsky
-    file: health-insurance-for-foreign-nationals-spanish.pdf
+    file: leasing-an-aparment-spanish.pdf
   - title: chorvatsky
-    file: health-insurance-for-foreign-nationals-croatian.pdf
-  - file: health-insurance-for-foreign-nationals-hungarian.pdf
+    file: leasing-an-aparment-croatian.pdf
+  - file: leasing-an-aparment-hungarian.pdf
     title: maďarsky
   - title: francouzsky
-    file: health-insurance-for-foreign-nationals-french.pdf
-  - file: health-insurance-for-foreign-nationals-bulgarian.pdf
+    file: leasing-an-aparment-french.pdf
+  - file: leasing-an-aparment-bulgarian.pdf
     title: bulharsky
 ---
