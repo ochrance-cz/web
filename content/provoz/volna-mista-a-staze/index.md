@@ -48,5 +48,5 @@ linksAfter: []
 <h3>
 <strong>Potřebujete, abychom výběrové řízení přizpůsobili Vaší situaci?</strong></h3>
 <p>Pokud potřebujete přizpůsobit podobu výběrového řízení (například kvůli zdravotnímu postižení), napište nám předem na adresu 
-<a href="mailto:lzicarova@ochrance.cz">lzicarova@ochrance.cz</a>. Domluvíme se, jak budeme postupovat.</p>
+<a href="mailto:michalcova@ochrance.cz ">michalcova@ochrance.cz&nbsp;</a>. Domluvíme se, jak budeme postupovat.</p>
 <p>Napište také, pokud si nejste jisti, co přesně budete v&nbsp;nabízené práci dělat a co musíte umět.</p>
