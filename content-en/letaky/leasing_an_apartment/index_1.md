@@ -1,5 +1,5 @@
 ---
-title: Leasing an apartment
+title: "Leasing an apartment "
 slug: leasing-an-apartment
 situace:
   - other-situations
