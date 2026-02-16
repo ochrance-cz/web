@@ -1,33 +1,32 @@
 ---
-title: Health insurance for foreign nationals
-slug: health-insurance-for-foreign-nationals
+title: "Leasing an apartment "
+slug: leasing-an-apartment
 situace:
   - other-situations
-  - healthcare
-file: health-insurance-for-foreign-nationals-english.pdf
+file: leasing-an-apartment-english.pdf
 attachments:
-  - title: bulgarian
-    file: health-insurance-for-foreign-nationals-bulgarian.pdf
-  - title: croatian
-    file: health-insurance-for-foreign-nationals-croatian.pdf
-  - title: french
-    file: health-insurance-for-foreign-nationals-french.pdf
-  - file: health-insurance-for-foreign-nationals-german.pdf
-    title: german
-  - title: hungarian
-    file: health-insurance-for-foreign-nationals-hungarian.pdf
-  - file: health-insurance-for-foreign-nationals-italian.pdf
-    title: italian
-  - title: polish
-    file: health-insurance-for-foreign-nationals-polish.pdf
-  - file: health-insurance-for-foreign-nationals-romanian.pdf
-    title: romanian
-  - file: health-insurance-for-foreign-nationals-russian.pdf
-    title: russian
-  - title: slovenian
-    file: health-insurance-for-foreign-nationals-slovenian.pdf
-  - file: health-insurance-for-foreign-nationals-spanish.pdf
-    title: spanish
-  - title: ukrainian
-    file: health-insurance-for-foreign-nationals-ukrainian.pdf
+  - title: Bulgarian
+    file: leasing-an-apartment-bulgarian.pdf
+  - title: Croatian
+    file: leasing-an-apartment-croatian.pdf
+  - file: leasing-an-apartment-french.pdf
+    title: French
+  - file: leasing-an-apartment-german.pdf
+    title: German
+  - file: leasing-an-apartment-hungarian.pdf
+    title: Hungarian
+  - file: leasing-an-apartment-italian.pdf
+    title: Italian
+  - file: leasing-an-apartment-polish.pdf
+    title: Polish
+  - file: leasing-an-apartment-romanian.pdf
+    title: Romanian
+  - file: leasing-an-apartment-russian.pdf
+    title: Russian
+  - file: leasing-an-apartment-slovenian.pdf
+    title: Slovenian
+  - file: leasing-an-apartment-spanish.pdf
+    title: Spanish
+  - file: leasing-an-apartment-ukrainian.pdf
+    title: Ukrainian
 ---
