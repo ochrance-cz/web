@@ -495,7 +495,7 @@ lawyers:
         email: eva.nehudkova@ochrance.cz
       - name: Iva Palkovská
         role: "právnička "
-        phone: 542 542 245
+        phone: 542 542 254
         email: iva.palkovska@ochrance.cz
       - name: Hana Brablcová
         role: "právnička "
