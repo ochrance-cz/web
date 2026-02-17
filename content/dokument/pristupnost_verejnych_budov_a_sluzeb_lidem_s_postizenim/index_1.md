@@ -5,5 +5,5 @@ vystupy:
   - doporuceni
 attachmentsTop:
   - file: https://www.ochrance.cz/uploads-import/ESO/OZP-91-24-MBA-Doporuceni_pristupnost.pdf
-    title: Přístupnost veřejných budov a služeb lidem s postižením
+    title: "Přístupnost veřejných budov a služeb lidem s postižením "
 ---
