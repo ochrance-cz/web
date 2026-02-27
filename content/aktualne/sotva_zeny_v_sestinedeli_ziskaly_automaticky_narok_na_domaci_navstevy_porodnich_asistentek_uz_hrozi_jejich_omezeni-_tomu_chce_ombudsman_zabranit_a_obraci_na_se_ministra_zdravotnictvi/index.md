@@ -1,7 +1,7 @@
 ---
 title: Sotva ženy v šestinedělí získaly automatický nárok na domácí návštěvy
   porodních asistentek, už hrozí jejich omezení. Tomu chce ombudsman zabránit a
-  obrací na se ministra zdravotnictví
+  obrací se na ministra zdravotnictví
 date: 2026-02-27T09:14:00
 vystupy:
   - tz
