@@ -22,7 +22,7 @@ attachments:
 <i>ychovatel, který dítěti mobil odebere, zasahuje do jeho práv. Proto je nezbytné, aby takové jednání vždy opřel o skutečně silné argumenty,“ </i>vysvětluje zástupce dětského ombudsmana Vít Alexander Schorm.</p>
 <blockquote>
 <p>
-<strong>Výchovný ústav</strong> pečuje o děti, které ukončily povinnou školní docházku, a které mají závažné poruchy chování.</p>
+<strong>Výchovný ústav</strong> pečuje o děti, které ukončily povinnou školní docházku a které mají závažné poruchy chování.</p>
 <p>
 <strong>Výchovný ústav může dítěti uschovat telefon, pokud ohrožuje jeho&nbsp;výchovu, zdraví či bezpečnost.</strong></p></blockquote>
 <p>Právě jasné vysvětlení, proč má k&nbsp;mobilu jen omezený přístup, zřejmě postrádal dospívající mladík, kterého měl v péči výchovný ústav. Vychovatelé mu telefon po dobu školního vyučování a pak znovu na noc uschovávali. S&nbsp;tím hoch nesouhlasil, a&nbsp;tak se obrátil na zástupce dětského ombudsmana Víta Alexandra Schorma. Napsal mu, že se zaměstnanci opakovaně mluvil, ale přesto se prý nedozvěděl důvody, kvůli kterým si na rozdíl od ostatních dětí nemůže mobil ponechat u sebe.&nbsp;</p>
