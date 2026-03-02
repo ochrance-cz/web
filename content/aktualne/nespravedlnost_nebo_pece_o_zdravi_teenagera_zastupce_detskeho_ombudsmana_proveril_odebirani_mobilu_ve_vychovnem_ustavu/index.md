@@ -18,14 +18,14 @@ attachments:
     file: https://eso.ochrance.cz/Nalezene/Edit/12100
 ---
 <p>
-<i>„I dítě, které žije ve výchovném ústavu, musí mít možnost být v&nbsp;kontaktu se svou rodinou a přáteli. To je hlavní důvod, proč mu v&nbsp;obecné rovině nelze upírat, aby u sebe mělo mobilní telefon.</i> V 
-<i>ychovatel, který dítěti mobil odebere, zasahuje do jeho práv. Proto je nezbytné, aby takové jednání vždy opřel o skutečně silné argumenty,“</i> vysvětluje zástupce dětského ombudsmana Vít Alexander Schorm.</p>
+<i>„I dítě, které žije ve výchovném ústavu, musí mít možnost být v&nbsp;kontaktu se svou rodinou a&nbsp;přáteli. To je hlavní důvod, proč mu v&nbsp;obecné rovině nelze upírat, aby u sebe mělo mobilní telefon.</i> V 
+<i>ychovatel, který dítěti mobil odebere, zasahuje do jeho práv. Proto je nezbytné, aby takové jednání vždy opřel o skutečně silné argumenty,“ </i>vysvětluje zástupce dětského ombudsmana Vít Alexander Schorm.</p>
 <blockquote>
 <p>
 <strong>Výchovný ústav</strong> pečuje o děti, které ukončily povinnou školní docházku, a které mají závažné poruchy chování.</p>
 <p>
 <strong>Výchovný ústav může dítěti uschovat telefon, pokud ohrožuje jeho&nbsp;výchovu, zdraví či bezpečnost.</strong></p></blockquote>
-<p>Právě jasné vysvětlení, proč má k&nbsp;mobilu jen omezený přístup, zřejmě postrádal dospívající mladík, kterého měl v péči výchovný ústav. Vychovatelé mu telefon po dobu školního vyučování a pak znovu na noc uschovávali. S&nbsp;tím hoch nesouhlasil, a tak se obrátil na zástupce dětského ombudsmana Víta Alexandra Schorma. Napsal mu, že se zaměstnanci opakovaně mluvil, ale přesto se prý nedozvěděl důvody, kvůli kterým si na rozdíl od ostatních dětí nemůže mobil ponechat u sebe.&nbsp;</p>
+<p>Právě jasné vysvětlení, proč má k&nbsp;mobilu jen omezený přístup, zřejmě postrádal dospívající mladík, kterého měl v péči výchovný ústav. Vychovatelé mu telefon po dobu školního vyučování a pak znovu na noc uschovávali. S&nbsp;tím hoch nesouhlasil, a&nbsp;tak se obrátil na zástupce dětského ombudsmana Víta Alexandra Schorma. Napsal mu, že se zaměstnanci opakovaně mluvil, ale přesto se prý nedozvěděl důvody, kvůli kterým si na rozdíl od ostatních dětí nemůže mobil ponechat u sebe.&nbsp;</p>
 <p>Šetření však ukázalo, že personál jednal s&nbsp;ohledem na chlapcův prospěch a zdraví. 
 <i>„Chlapec se mobilu často věnoval dlouho do noci – na úkor spánku. Uzavíral se do virtuálního prostředí a ztrácel zájem o okolí a sociální kontakt. Nezvládal kvůli tomu běžný denní režim. Trpěly tím i školní výsledky, které zdaleka neodpovídaly jeho schopnostem. Také lékaři upozorňovali, že nadměrné používání elektroniky dopadá na jeho psychické zdraví, a doporučili omezení,“</i> shrnuje Vít Alexander Schorm.</p>
 <p>Zásah do práv chlapce byl tedy namístě. Ústav jej však nepodložil žádnými záznamy. Personál považoval odevzdávání mobilu za vzájemnou ústní dohodu. Chlapec s&nbsp;nimi ale tento pohled nesdílel a řešení vnímal jako vynucené. 
