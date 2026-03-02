@@ -160,6 +160,10 @@ lawyers:
         role: právnička (stavební řízení, ochrana přírody a krajiny)
         phone: 542 542 219
         email: michaela.brandejsova@ochrance.cz
+      - name: Magdaléna Pokorná
+        role: právnička (stavební řízení)
+        phone: 542 542 324
+        email: magdalena.pokorna@ochrance.cz
   - title: Odbor ochrany práv dětí
     intro: veřejné zdravotní pojištění, stížnosti ve zdravotnictví, činnost OSPOD,
       ústavní výchova, evidence uchazečů o zaměstnání u Úřadu práce, inspekce
@@ -251,6 +255,10 @@ lawyers:
         role: odborná referentka (poradní orgán, monitoring, návštěvy zařízení)
         phone: 542 542 220
         email: juliediane.bartonova-dobeninova@ochrance.cz
+      - name: Eva Janková
+        role: právnička (sociálně-právní ochrana dětí)
+        phone: 542 542 213
+        email: eva.jankova@ochrance.cz
   - title: Odbor veřejného pořádku, zdravotnictví a práce
     intro: >
       matriky, evidence obyvatel, občanské a cestovní průkazy, státní občanství,
@@ -540,10 +548,6 @@ lawyers:
         role: "právnička "
         phone: 542 542 337
         email: hana.polakova@ochrance.cz
-      - name: Miriam Tomášková
-        role: právnička
-        phone: 542 542 276
-        email: miriam.tomaskova@ochrance.cz
       - name: Jan Wünsch
         role: právník
         phone: 542 542 375
