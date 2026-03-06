@@ -15,17 +15,16 @@ attachments:
     file: https://www.ochrance.cz/o-nas/historie/
 ---
 <p>Martina Beneše, který doposud působil jako opatrovnický soudce, zvolili poslanci prvním dětským ombudsmanem v Česku. Poslanci jej zvolili hned v&nbsp;prvním kole. Získal 107 hlasů.</p>
-<p>V&nbsp;rozhovoru pro&nbsp;
-<a href="https://www.centrumlidskaprava.cz/sites/default/files/attachement/bulletin/bulletin-lednovy-2026.pdf">Bulletin lidských práv</a> Beneš nastínil, která témata ve&nbsp;své nové roli považuje za klíčová:
-<strong>&nbsp;</strong>
-<i>„Prioritou je pro mě
-<strong>&nbsp;</strong>dobré a regionálně symetrické nastavení systému sociálněprávní ochrany dětí včetně všech jeho návazností. Poctivá příprava na zákaz umisťování dětí do 7 let věku do ústavní výchovy, který nastane za dva roky. Reforma ústavní výchovy. Zajištění potřeb dětí a mladých lidí v oblasti duševního zdraví. Rovný přístup dětí nejen ke vzdělání, ale také k dalším životním potřebám, jako je zdravotní péče a důstojné bydlení.“</i></p>
+<p>V&nbsp;rozhovoru pro&nbsp; 
+<a href="https://www.centrumlidskaprava.cz/sites/default/files/attachement/bulletin/bulletin-lednovy-2026.pdf">Bulletin lidských práv</a> Beneš nastínil, která témata ve&nbsp;své nové roli považuje za klíčová: 
+<i>„Prioritou je pro mě&nbsp;
+<strong> </strong>dobré a regionálně symetrické nastavení systému sociálněprávní ochrany dětí včetně všech jeho návazností. Poctivá příprava na zákaz umisťování dětí do 7 let věku do ústavní výchovy, který nastane za dva roky. Reforma ústavní výchovy. Zajištění potřeb dětí a mladých lidí v oblasti duševního zdraví. Rovný přístup dětí nejen ke vzdělání, ale také k dalším životním potřebám, jako je zdravotní péče a důstojné bydlení.“</i></p>
 <blockquote>
 <p>Martin Beneš</p>
-<p>působil většinu svého profesního života u Okresního soudu v&nbsp;Mostě. Nejprve jako soudce v&nbsp;rámci obchodního úseku, později jako předseda soudu. V&nbsp;roce 2016 se stal opatrovnickým soudcem, kterým byl až doposud. Na této pozici v duchu tzv. „problem solving justice“
+<p>působil většinu svého profesního života u Okresního soudu v&nbsp;Mostě. Nejprve jako soudce v&nbsp;rámci obchodního úseku, později jako předseda soudu. V&nbsp;roce 2016 se stal opatrovnickým soudcem, kterým byl až doposud. Na této pozici v duchu tzv. „problem solving justice“ 
 <i>*</i> pracoval v&nbsp;mezioborovém týmu na odstranění jádra problému, který přivádí rodiny k&nbsp;soudu.</p>
 <p>Vedle soudní praxe se věnoval i konzultacím a lektorování, přičemž se zaměřoval na oblasti opatrovnictví, sdílené rodičovství a řešení rodičovských sporů. Spolupracoval například s Ministerstvem spravedlnosti, Justiční akademií, společností pro zdravé rodičovství Aperio, Českou advokátní komorou, Výzkumným ústavem práce a sociálních věcí, Moravskoslezským krajem, Krajem Vysočina, Národním institutem pro děti a rodinu.&nbsp;</p>
-<p>Absolvoval několik stáží, včetně půlroční stáže u Evropského soudu pro lidské práva ve Štrasburku.&nbsp;</p>
+<p>Absolvoval několik stáží, včetně půlroční stáže u Evropského soudu pro lidská práva ve Štrasburku.&nbsp;</p>
 <p>Spoluautorsky se podílel na knihách 
 <i>Sdílené rodičovství</i> či 
 <i>Hodnocení ohroženého dítěte a jeho rodiny: Praktický průvodce a nástroje.&nbsp;</i></p>
