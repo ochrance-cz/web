@@ -1,13 +1,15 @@
 ---
 title: Matka musela vyjít s méně než třemi tisíci měsíčně. Ombudsman upozornil
-  úřad na chybu v souvislosti s přechodem na superdávku
+  úřad na chybu v souvislosti s přechodem na superdávku
 date: 2026-03-12T07:38:00
 vystupy:
   - tz
-perex: >-
-  <p>
-
-  <strong>Po přechodu na superdávku musela mladá matka sama hospodařit s&nbsp;pouhými 2500 korunami. Ty jí měsíčně zbyly z&nbsp;celkové výše příspěvků od státu poté, co zaplatila nájem. Požádala proto o mimořádnou dávku, která měla dorovnávat negativní dopady přechodu na superdávku. Setkala se ale s&nbsp;odmítnutím. Po zásahu ombudsmana úřad práce uznal chybu a dávku ženě vyplatil.</strong></p>
+perex: <p>Po přechodu na superdávku musela mladá matka sama hospodařit
+  s&nbsp;pouhými 2500 korunami. Ty jí měsíčně zbyly z&nbsp;celkové výše
+  příspěvků od státu poté, co zaplatila nájem. Požádala proto o mimořádnou
+  dávku, která měla dorovnávat negativní dopady přechodu na superdávku. Setkala
+  se ale s&nbsp;odmítnutím. Po zásahu ombudsmana úřad práce uznal chybu a dávku
+  ženě vyplatil.</p>
 ---
 <p>Dříve se žena mohla spolehnout na příspěvek na bydlení ve výši 8000 korun, ten jí ale kvůli přeplatku za energie úřad snížil na necelé dva tisíce. Z&nbsp;důvodu přechodu na superdávku už v&nbsp;této výši zůstal. 
 <i>„Náklady na bydlení vychází ženu, která se čerstvě stala matkou, na 15&nbsp;500 korun. Dohromady pobírá žena mateřskou spolu s&nbsp;příspěvkem na bydlení ve výši 18&nbsp;000 korun. S&nbsp;tím, co jí po zaplacení nájmu zbyde, není možné uživit sebe a už vůbec ne dítě, které sotva přišlo na svět,“&nbsp;</i>shrnul ombudsman Stanislav Křeček.</p>
