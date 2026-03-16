@@ -1,17 +1,17 @@
 [build]
-  publish = "public"
-  command = "hugo --config preview-netlify.toml"
+publish = "public"
+command = "hugo --config preview-netlify.toml"
 
 [context.production.environment]
-  HUGO_VERSION = "0.107.0"
-
-[[redirects]]
-from = "/*"
-to = "/err/404/"
-status = 404
+HUGO_VERSION = "0.107.0"
 
 [[redirects]]
 from = "https://ochrance-preview.netlify.app/*"
 to = "https://cms-web.ochrance.cz/:splat"
 status = 301
 force = true
+
+[[redirects]]
+from = "/*"
+to = "/err/404/"
+status = 404
