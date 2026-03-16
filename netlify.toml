@@ -6,7 +6,12 @@
   HUGO_VERSION = "0.107.0"
 
 [[redirects]]
-  from = "/*"
-  to = "/err/404/"
-  status = 404
+from = "/*"
+to = "/err/404/"
+status = 404
 
+[[redirects]]
+from = "https://ochrance-preview.netlify.app/*"
+to = "https://cms-web.ochrance.cz/:splat"
+status = 301
+force = true
