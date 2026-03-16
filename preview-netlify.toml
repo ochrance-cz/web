@@ -34,3 +34,8 @@ home = ["HTML"]
 
 [permalinks]
 info = "/:filename"
+
+[[redirects]]
+from = "https://ochrance-preview.netlify.app/*"
+to = "https://cms-web.ochrance.cz/:splat"
+status = 301
