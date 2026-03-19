@@ -10,9 +10,7 @@ perex: >-
   věnuje příběhům tří lidí, kteří se rozhodli po výkonu trestu změnit svůj
   život. A pomohl jim k tomu běh.&nbsp;</p>
 
-  <figure class="image">
-
-  <img src="https://www.ochrance.cz/aktualne/noc_prava_v_nasi_kancelari_otevrela_tema_zivota_za_mrizemi_i_po_navratu_na_svobodu/dsc_5902-2.jpg" alt="dsc_5902-2.jpg"></figure>
+  <p>&nbsp;</p>
 ---
 <p>
 <i>„Věděla jsem, že běhání je léčivé, a tak jsem chtěla vyprávět příběhy lidí, kterým pomohlo,“</i> uvedla režisérka dokumentu Zuzana Dubová, která do Kanceláře ombudsmana a dětského ombudsmana přivedla i hrdiny svého snímku. Ti se s&nbsp;návštěvníky podělili o tom, jaké to bylo překonat závislosti, co kromě běhu jim pomohlo a jak se proměnil jejich život po odchodu z&nbsp;vězení.</p>
