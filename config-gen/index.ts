@@ -905,8 +905,8 @@ save('./static-preview/admin/config.yml', {
   locale: 'cs',
   media_folder: 'content/media',
   public_folder: '/media',
-  site_domain: 'https://ochrance-preview.netlify.app',
-  display_url: 'https://www.ochrance.cz/_preview/',
+  site_domain: 'https://cms-web.ochrance.cz',
+  display_url: 'https://cms-web.ochrance.cz/',
   logo_url: '/admin/admin-logo.png',
   slug: {
     encoding: 'ascii',

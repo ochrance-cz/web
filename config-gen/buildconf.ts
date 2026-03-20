@@ -1,5 +1,5 @@
 // @ts-ignore
-import { stringify } from 'https://deno.land/std/encoding/yaml.ts';
+import { stringify } from '@std/yaml';
 
 interface Base {
   name: string;
