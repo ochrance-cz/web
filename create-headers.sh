@@ -2,7 +2,7 @@
 
 cat <<EOF > static-preview/_headers
 /admin/*
- # no headers
+  Basic-Auth:
 
 /*
   Basic-Auth: ${PREVIEW_LOGIN}
