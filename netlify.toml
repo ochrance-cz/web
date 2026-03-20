@@ -1,6 +1,6 @@
 [build]
 publish = "public"
-command = "hugo --config preview-netlify.toml"
+command = "hugo --config preview-netlify.toml && sh create-headers.sh"
 
 [context.production.environment]
 HUGO_VERSION = "0.107.0"
