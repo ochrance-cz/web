@@ -564,6 +564,14 @@ lawyers:
         role: "právnička "
         phone: 542 542 283
         email: adela.zemla@ochrance.cz
+      - name: Magdaléna Pryglová
+        role: referentka
+        phone: 542 542 277
+        email: magdalena.pryglova@ochrance.cz
+      - name: Šárka Vyskočilová
+        role: "právnička "
+        phone: 542 542 276
+        email: sarka.vyskocilova@ochrance.cz
   - title: Odbor ochrany práv osob se zdravotním postižením
     people:
       - name: Romana Jakešová
