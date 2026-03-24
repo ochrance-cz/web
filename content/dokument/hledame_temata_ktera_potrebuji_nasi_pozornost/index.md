@@ -9,14 +9,12 @@ date: 2026-03-24
 <h3>Autoři podnětů</h3>
 <figure class="image">
 <img src="https://www.ochrance.cz/dokument/podnety_verejnosti_pro_priority_ombudsmanu_na_pristi_tri_roky/kolacovy_graf.png" alt="Poměr podnětů od organizací a jednotlivců">
-<figcaption>
-<strong>Poměr podnětů od organizací a jednotlivců</strong></figcaption></figure>
+<figcaption>&nbsp;</figcaption></figure>
 <p>Častěji nám psali jednotlivci a to ve čtyřech pětinách všech odpovědí (81 %). Pouze necelá pětina odpovědí, k&nbsp;nám přišla od organizací – neziskových organizací, sociálních služeb či samospráv (19 %). &nbsp;</p>
 <h3>Oblasti života</h3>
 <figure class="image">
 <img src="https://www.ochrance.cz/dokument/podnety_verejnosti_pro_priority_ombudsmanu_na_pristi_tri_roky/cloud.png" alt="Zaměření podnětů dle oblastí života">
-<figcaption>
-<strong>Zaměření podnětů dle oblastí života</strong></figcaption></figure>
+<figcaption>&nbsp;</figcaption></figure>
 <p>Nejvíce zaznívala témata, která se týkala rodiny a péče o děti (22 %) či sociálních služeb, pomoci a zabezpečení (21 %). O něco méně, ale pořád velmi často jste popisovali problémy v&nbsp;oblastech rovnosti a netolerance (15 %), zdraví (14 %) a bydlení (13 %).&nbsp;</p>
 <p>&nbsp;</p>
 <h3>Dotčené skupiny</h3>
@@ -24,7 +22,7 @@ date: 2026-03-24
 <img src="https://www.ochrance.cz/dokument/podnety_verejnosti_pro_priority_ombudsmanu_na_pristi_tri_roky/skupiny_obyvatel.png" alt="skupiny_obyvatel.png"></figure>
 <figure class="image">
 <img src="https://www.ochrance.cz/dokument/podnety_verejnosti_pro_priority_ombudsmanu_na_pristi_tri_roky/skupiny_obyvatel.png" alt="Dotčené skupiny">
-<figcaption>Dotčené skupiny; Pozn.: Součet podílů netvoří 100 %, některá témata se totiž řadí pod více oblastí života.&nbsp;</figcaption></figure>
+<figcaption>&nbsp;</figcaption></figure>
 <p>Téměř v&nbsp;polovině případů se témata týkala dětí a mladých dospělých (44 %). Následovala témata související s lidmi s&nbsp;postižením (38 %) a témata, která se vztahují k celé populaci Česka (31 %).</p>
 <h3>Příklady témat, které jste nám zaslali&nbsp;</h3>
 <p>Zaslali jste nám konkrétní podněty, které souvisí s bezpečím, důstojností či ochranou zranitelných skupin lidí. Níže shrnujeme některé hlavní problémy,
