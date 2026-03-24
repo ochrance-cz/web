@@ -184,7 +184,11 @@ date: 2025-10-31
 <hr>
 <p>
 <a href="#_ftnref1">[1]</a> Nejedná se o vyčerpávající výčet všech zaslaných podnětů, ale o výběr některých oblastí, které se objevovali často nebo které&nbsp;</p>
-<h2>&nbsp;</h2>
+
+
+{{< youtube "magKPBfUq9M" >}}
+
+
 <h2>31. 10. 2025 
 <strong>Hledáme témata, která potřebují naši pozornost / We are looking for issues that need our attention</strong></h2>
 <h3>&nbsp;</h3>
