@@ -7,10 +7,6 @@ date: 2026-03-24
 <strong>804 podnětů</strong> k různým tématům. Všechny jsme si přečetli, roztřídili do tematických oblastí a postupně je vyhodnocujeme. Vaše podněty neskončí „v šuplíku“. Získaná data přímo využijeme při návrhu strategických priorit budoucího veřejného ochránce práv a dětského ombudsmana na příští tři roky.</p>
 <p>Podrobnější přehled o toho, co jste nám psali, najdete níže.</p>
 <h3>Autoři podnětů</h3>
-<figure class="image image-style-align-left">
-<img src="https://www.ochrance.cz/dokument/podnety_verejnosti_pro_priority_ombudsmanu_na_pristi_tri_roky/kolacovy_graf.png" alt="kolacovy_graf.png"></figure>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <p>Častěji nám psali jednotlivci a to ve čtyřech pětinách všech odpovědí (81 %). Pouze necelá pětina odpovědí, k&nbsp;nám přišla od organizací – neziskových organizací, sociálních služeb či samospráv (19 %). &nbsp;</p>
 <h3>Oblasti života</h3>
 <p>Nejvíce zaznívala témata, která se týkala rodiny a péče o děti (22 %) či sociálních služeb, pomoci a zabezpečení (21 %). O něco méně, ale pořád velmi často jste popisovali problémy v&nbsp;oblastech rovnosti a netolerance (15 %), zdraví (14 %) a bydlení (13 %).&nbsp;</p>
