@@ -9,8 +9,6 @@ date: 2026-03-24
 <h3>Autoři podnětů</h3>
 <figure class="image">
 <img src="https://www.ochrance.cz/dokument/podnety_verejnosti_pro_priority_ombudsmanu_na_pristi_tri_roky/kolacovy_graf.png" alt="kolacovy_graf.png"></figure>
-<figure class="image">
-<img src="https://www.ochrance.cz/dokument/podnety_verejnosti_pro_priority_ombudsmanu_na_pristi_tri_roky/kolacovy_graf.png" alt="kolacovy_graf.png"></figure>
 <p>Častěji nám psali jednotlivci a to ve čtyřech pětinách všech odpovědí (81 %). Pouze necelá pětina odpovědí, k&nbsp;nám přišla od organizací – neziskových organizací, sociálních služeb či samospráv (19 %). &nbsp;</p>
 <h3>Oblasti života</h3>
 <figure class="image">
@@ -21,7 +19,7 @@ date: 2026-03-24
 <img src="https://www.ochrance.cz/dokument/podnety_verejnosti_pro_priority_ombudsmanu_na_pristi_tri_roky/skupiny_obyvatel.png" alt="skupiny_obyvatel.png"></figure>
 <p>Téměř v&nbsp;polovině případů se témata týkala dětí a mladých dospělých (44 %). Následovala témata související s lidmi s&nbsp;postižením (38 %) a témata, která se vztahují k celé populaci Česka (31 %).</p>
 <h3>Příklady témat, které jste nám zaslali&nbsp;</h3>
-<p>Zaslali jste nám konkrétní podněty, které souvisí s bezpečím, důstojností či ochranou zranitelných skupin lidí. Níže shrnujeme některé hlavní problémy,
+<p>Zaslali jste nám konkrétní podněty, které souvisí s bezpečím, důstojností či ochranou zranitelných skupin lidí. Níže shrnujeme některé hlavní problémy, 
 <a href="#_ftn1">[1]</a> které jste zmiňovali, a připojujeme výběr našich aktivity, které jsme v&nbsp;těchto oblastech nedávno stihli nebo na kterých pracujeme.&nbsp;</p>
 <blockquote>
 <h4>
@@ -33,7 +31,7 @@ date: 2026-03-24
 <li>zdlouhavé a náročné soudní řízení při rozhodování o péči o dítě;</li>
 <li>chybějící dostupné a kvalitní laktační poradenství pro matky.</li></ul>
 <p>Většině těchto oblastí se dlouhodobě věnujeme a budeme věnovat nadále. Napomůže tomu i 
-<strong>nově zřízený ochránce práv dětí, jehož&nbsp;</strong>&nbsp;
+<strong>nově zřízený ochránce práv dětí, jehož&nbsp;</strong>&nbsp; 
 <a href="https://www.ochrance.cz/aktualne/martin_benes_bude_historicky_prvnim_detskym_ombudsmanem_v_cesku/">představitelem byl zvolen Martin Beneš</a>. Ten bude moci například v&nbsp;naléhavých případech vstupovat do soudních řízení týkajících se péče o děti.</p>
 <p>Postup orgánů sociálně-právní ochrany dětí (OSPOD) v jednotlivých případech prověřujeme na základě individuálních podnětů. 
 <strong>Ročně jich vyřídíme více než 300</strong>, výsledky šetření jsou zveřejněny na 
@@ -72,7 +70,7 @@ date: 2026-03-24
 <li>digitální vylučování a zásahy do soukromí spojené s povinnou digitalizací veřejných služeb;</li>
 <li>rozdílný přístup při využívání služeb digitální a nedigitální formou (například jízdenky, vstupenky, věrnostní programy obchodech řetězců);</li>
 <li>nedostupnost digitálních služeb pro osoby omezené ve svéprávnosti a jejich opatrovníky.</li></ul>
-<p>V&nbsp;individuálních případech jsme se již dříve vyjádřili &nbsp;
+<p>V&nbsp;individuálních případech jsme se již dříve vyjádřili &nbsp;&nbsp;
 <a href="https://eso.ochrance.cz/Nalezene/Edit/11786">k&nbsp;možnému znevýhodnění starších lidí při zavádění moderních technologií</a>. Dospěli jsme k závěru, že 
 <strong>k&nbsp;diskriminaci může dojít, pokud nebude existovat i jiné než elektronické či bezhotovostní řešení</strong>, přístupné i lidem, kteří moderní technologie nepoužívají. To také odpovídá principům otevřenosti a vstřícnosti úřadů, které jsou součástí námi vydaných 
 <a href="https://www.ochrance.cz/dokument/principy-dobre-spravy/">principů dobré správy.</a>&nbsp;</p>
@@ -172,7 +170,7 @@ date: 2026-03-24
 <strong>nevhodnou regulaci hluku a jeho vliv na psychické zdraví.</strong></li></ul>
 <p>I v&nbsp;této oblasti jsme již některé kroky učinili. Ochraně ovzduší se zabýváme dlouhodobě. Blíže jsme se například věnovali tomu, 
 <a href="https://www.ochrance.cz/aktualne/zivotni_prostredi_i_ciste_ovzdusi_ombudsman_zjistuje_jak_urady_nakladaji_s_provozy_ktere_mohou_obtezovat_zapachem/">jak úřady nakládají s provozy, které mohou obtěžovat zápachem</a>. 
-<a href="https://www.ochrance.cz/aktualne/ombudsman_podporuje_ministerstvo_ve_snaze_o_posileni_pravni_ochrany_ovzdusi-_osud_novely_zakona_o_ochrane_ovzdusi_je_ale_nejisty/">Podpořili jsme také návrh Ministerstva životního prostředí</a> k&nbsp;
+<a href="https://www.ochrance.cz/aktualne/ombudsman_podporuje_ministerstvo_ve_snaze_o_posileni_pravni_ochrany_ovzdusi-_osud_novely_zakona_o_ochrane_ovzdusi_je_ale_nejisty/">Podpořili jsme také návrh Ministerstva životního prostředí</a> k&nbsp; 
 <strong>posílení ochrany životního prostředí</strong> v novele zákona o ochraně ovzduší a řada našich připomínek byla do novely zapracována. Ochraně ovzduší jsme také věnovali jeden z dílů našeho 
 <a href="https://www.ochrance.cz/aktualne/na_kavu_s_ombudsmanem_87-_dil_ochrana_ovzdusi/">podcastu Na kávu s ombudsmanem</a>.&nbsp;</p>
 <hr>
@@ -245,7 +243,7 @@ date: 2026-03-24
 <p>Take part and tell us which topics you think should be at the centre of the Ombudspersons attention. Your ideas will help shape their future priorities.</p>
 <blockquote>
 <p>
-<strong>You can share your suggestion through our online form –&nbsp;</strong>&nbsp;&nbsp;&nbsp;&nbsp;
+<strong>You can share your suggestion through our online form –&nbsp;</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br>
 <a href="https://ec.europa.eu/eusurvey/runner/temata_ombudsman">
 <strong>https://ec.europa.eu/eusurvey/runner/temata_ombudsman</strong></a></p></blockquote>
