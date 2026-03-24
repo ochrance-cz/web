@@ -9,6 +9,8 @@ date: 2026-03-24
 <h3>Autoři podnětů</h3>
 <figure class="image">
 <img src="https://www.ochrance.cz/dokument/podnety_verejnosti_pro_priority_ombudsmanu_na_pristi_tri_roky/kolacovy_graf.png" alt="kolacovy_graf.png"></figure>
+<figure class="image">
+<img src="https://www.ochrance.cz/dokument/podnety_verejnosti_pro_priority_ombudsmanu_na_pristi_tri_roky/kolacovy_graf.png" alt="kolacovy_graf.png"></figure>
 <p>Častěji nám psali jednotlivci a to ve čtyřech pětinách všech odpovědí (81 %). Pouze necelá pětina odpovědí, k&nbsp;nám přišla od organizací – neziskových organizací, sociálních služeb či samospráv (19 %). &nbsp;</p>
 <h3>Oblasti života</h3>
 <figure class="image">
