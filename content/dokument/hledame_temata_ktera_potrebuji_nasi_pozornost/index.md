@@ -14,7 +14,6 @@ date: 2026-03-24
 <figure class="image">
 <img src="https://www.ochrance.cz/dokument/podnety_verejnosti_pro_priority_ombudsmanu_na_pristi_tri_roky/cloud.png" alt="cloud.png"></figure>
 <p>Nejvíce zaznívala témata, která se týkala rodiny a péče o děti (22 %) či sociálních služeb, pomoci a zabezpečení (21 %). O něco méně, ale pořád velmi často jste popisovali problémy v&nbsp;oblastech rovnosti a netolerance (15 %), zdraví (14 %) a bydlení (13 %).&nbsp;</p>
-<p>&nbsp;</p>
 <h3>Dotčené skupiny</h3>
 <figure class="image">
 <img src="https://www.ochrance.cz/dokument/podnety_verejnosti_pro_priority_ombudsmanu_na_pristi_tri_roky/skupiny_obyvatel.png" alt="skupiny_obyvatel.png"></figure>
@@ -78,7 +77,6 @@ date: 2026-03-24
 <p>Dlouhodobě se také zasazujeme o to, aby všechny veřejně dostupné informace byly 
 <a href="https://www.ochrance.cz/pristupnost/2-pristupnost-informaci/">přístupné lidem s&nbsp;postižením</a>, včetně 
 <strong>webových stránek a mobilních aplikací pro lidi se zrakovým a sluchovým postižením</strong>.&nbsp;</p>
-<h4>&nbsp;</h4>
 <blockquote>
 <h4>
 <strong>Právo na přístup k péči o duševní zdraví&nbsp;&nbsp;</strong>&nbsp;</h4></blockquote>
