@@ -1,6 +1,6 @@
 ---
 title: Podněty veřejnosti pro priority ombudsmanů na příští tři roky
-date: 2025-10-31
+date: 2026-03-24
 ---
 <p>Děkujeme všem, kdo nám poslali témata pro veřejného ochránce práv i dětského ombudsmana. Vážíme si toho – váš zájem o lidská práva je pro nás důležitý.</p>
 <p>Přišlo nám celkem 
