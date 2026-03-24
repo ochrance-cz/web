@@ -175,7 +175,7 @@ date: 2026-03-24
 <a href="https://www.ochrance.cz/aktualne/na_kavu_s_ombudsmanem_87-_dil_ochrana_ovzdusi/">podcastu Na kávu s ombudsmanem</a>.&nbsp;</p>
 <hr>
 <p>
-<a href="#_ftnref1">[1]</a> Nejedná se o vyčerpávající výčet všech zaslaných podnětů, ale o výběr některých oblastí, které se objevovali často nebo které&nbsp;</p>
+<a href="#_ftnref1">[1]</a> Nejedná se o vyčerpávající výčet všech zaslaných podnětů, ale o výběr některých oblastí, které se často objevovaly</p>
 
 
 {{< youtube "magKPBfUq9M" >}}
