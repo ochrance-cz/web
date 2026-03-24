@@ -8,29 +8,20 @@ date: 2026-03-24
 <p>Podrobnější přehled o toho, co jste nám psali, najdete níže.</p>
 <h3>Autoři podnětů</h3>
 <figure class="image">
-<img src="https://www.ochrance.cz/dokument/podnety_verejnosti_pro_priority_ombudsmanu_na_pristi_tri_roky/kolacovy_graf.png" alt="Poměr podnětů od organizací a jednotlivců">
-<figcaption>&nbsp;</figcaption></figure>
+<img src="https://www.ochrance.cz/dokument/podnety_verejnosti_pro_priority_ombudsmanu_na_pristi_tri_roky/kolacovy_graf.png" alt="kolacovy_graf.png"></figure>
 <p>Častěji nám psali jednotlivci a to ve čtyřech pětinách všech odpovědí (81 %). Pouze necelá pětina odpovědí, k&nbsp;nám přišla od organizací – neziskových organizací, sociálních služeb či samospráv (19 %). &nbsp;</p>
-<blockquote>
-<h3>Oblasti života</h3></blockquote>
+<h3>Oblasti života</h3>
 <figure class="image">
-<img src="https://www.ochrance.cz/dokument/podnety_verejnosti_pro_priority_ombudsmanu_na_pristi_tri_roky/cloud.png" alt="Zaměření podnětů dle oblastí života">
-<figcaption>&nbsp;</figcaption></figure>
+<img src="https://www.ochrance.cz/dokument/podnety_verejnosti_pro_priority_ombudsmanu_na_pristi_tri_roky/cloud.png" alt="cloud.png"></figure>
 <p>Nejvíce zaznívala témata, která se týkala rodiny a péče o děti (22 %) či sociálních služeb, pomoci a zabezpečení (21 %). O něco méně, ale pořád velmi často jste popisovali problémy v&nbsp;oblastech rovnosti a netolerance (15 %), zdraví (14 %) a bydlení (13 %).&nbsp;</p>
 <p>&nbsp;</p>
-<blockquote>
-<h3>Dotčené skupiny</h3></blockquote>
+<h3>Dotčené skupiny</h3>
 <figure class="image">
 <img src="https://www.ochrance.cz/dokument/podnety_verejnosti_pro_priority_ombudsmanu_na_pristi_tri_roky/skupiny_obyvatel.png" alt="skupiny_obyvatel.png"></figure>
-<figure class="image">
-<img src="https://www.ochrance.cz/dokument/podnety_verejnosti_pro_priority_ombudsmanu_na_pristi_tri_roky/skupiny_obyvatel.png" alt="Dotčené skupiny">
-<figcaption>&nbsp;</figcaption></figure>
 <p>Téměř v&nbsp;polovině případů se témata týkala dětí a mladých dospělých (44 %). Následovala témata související s lidmi s&nbsp;postižením (38 %) a témata, která se vztahují k celé populaci Česka (31 %).</p>
-<blockquote>
-<h3>Příklady témat, které jste nám zaslali&nbsp;</h3></blockquote>
+<h3>Příklady témat, které jste nám zaslali&nbsp;</h3>
 <p>Zaslali jste nám konkrétní podněty, které souvisí s bezpečím, důstojností či ochranou zranitelných skupin lidí. Níže shrnujeme některé hlavní problémy,
 <a href="#_ftn1">[1]</a> které jste zmiňovali, a připojujeme výběr našich aktivity, které jsme v&nbsp;těchto oblastech nedávno stihli nebo na kterých pracujeme.&nbsp;</p>
-<p>&nbsp;</p>
 <blockquote>
 <h4>
 <strong>Právo dětí na péči v rodině&nbsp;</strong></h4></blockquote>
@@ -55,7 +46,6 @@ date: 2026-03-24
 <a href="https://www.ochrance.cz/uploads-import/ESO/2226-2020%20V%C3%BDzkumn%C3%A1%20zpr%C3%A1va.pdf">při vyhledávání pěstounů a osvojitelů</a> nebo při 
 <a href="https://www.ochrance.cz/uploads-import/ESO/v%C3%BDzkumn%C3%A1%20zpr%C3%A1va%206324-2021_new.pdf">vedení spisů dětí v pěstounské péči na přechodnou dobu</a>. Pěstounské péči na přechodnou dobu a jejímu fungování jsme věnovali také jeden z&nbsp;našich 
 <a href="https://www.youtube.com/watch?v=QdbuQDDFLxY&amp;embeds_referring_euri=https%3A%2F%2Fwww.ochrance.cz%2F&amp;source_ve_path=MjM4NTE">podcastů Na kávu s Ombudsmanem</a>.&nbsp;</p>
-<p>&nbsp;</p>
 <blockquote>
 <h4>
 <strong>Právo lidí s&nbsp;postižením a jejich rodin na sociální ochranu&nbsp;</strong></h4></blockquote>
@@ -73,7 +63,6 @@ date: 2026-03-24
 <p>V&nbsp;našem 
 <a href="https://www.ochrance.cz/uploads-import/ESO/27-2022-OZP-vyzkum.pdf">výzkumu z&nbsp;roku 2023</a> jsme zjistili 
 <strong>nedostatky v přístupu jednotlivých krajů při&nbsp;deinstitucionalizaci a transformaci sociálních služeb</strong>. V&nbsp;současné době dokončujeme hned dva navazující dokumenty – analýzu závazků v&nbsp;oblasti nezávislého života lidí s&nbsp;postižením ve společnosti a doporučení k&nbsp;tomu, jak v&nbsp;deinstitucionalizaci postupovat. Oba plánujeme vydat v&nbsp;půlce tohoto roku.</p>
-<h4>&nbsp;</h4>
 <blockquote>
 <h4>
 <strong>Diskriminace související s&nbsp;digitalizací&nbsp;</strong></h4></blockquote>
@@ -110,7 +99,6 @@ date: 2026-03-24
 <p>Pravidelně také navštěvujeme psychiatrické nemocnice s&nbsp;cílem 
 <strong>prevence špatného zacházení</strong>. Z&nbsp;návštěv vydáváme zprávy, které obsahují i konkrétní doporučení pro jednotlivá zařízení. Ty jsou zveřejňovány na 
 <a href="https://eso.ochrance.cz/">https://eso.ochrance.cz/</a>.&nbsp;</p>
-<h4>&nbsp;</h4>
 <blockquote>
 <h4>
 <strong>Právo na bydlení&nbsp;</strong></h4></blockquote>
@@ -127,7 +115,6 @@ date: 2026-03-24
 <p>
 <a href="https://www.ochrance.cz/uploads-import/ESO/Vl.%20in%20-%203822-21-JSV%20-11%20%28v%C3%BDzkum%20bezbar%29-final.pdf">Upozornili jsme</a> na to, že většina stavebních úřadů sice posuzuje bezbariérovost staveb a stavebních záměrů, ale 
 <strong>pokud je podána žádost o výjimku</strong>, v 94 % případů ji povolí. Jen zřídka pak také kontroluje, zda je dokončená stavba skutečně bezbariérová.</p>
-<h4>&nbsp;</h4>
 <blockquote>
 <h4>
 <strong>Právo obětí trestních činů na procesní ochranu</strong></h4></blockquote>
@@ -155,7 +142,6 @@ date: 2026-03-24
 <strong>orientace v&nbsp;jejich právech a průběhu trestního řízení</strong>. Od loňského roku proto 
 <strong>spolupracujeme s&nbsp;Policí ČR na revizi poučení pro oběti i pachatele trestních činů</strong> s využitím naší příručky 
 <a href="https://www.ochrance.cz/srozumitelne/">Jak psát srozumitelně úřední texty</a>.&nbsp;</p>
-<h4>&nbsp;</h4>
 <blockquote>
 <h4>
 <strong>Práva cizinců na začlenění&nbsp;</strong></h4></blockquote>
@@ -173,7 +159,6 @@ date: 2026-03-24
 <a href="https://www.ochrance.cz/aktualne/mene_starosti_pro_cizince_vedene_na_uradu_prace-_ombudsman_se_zasadil_aby_meli_zdravotni_pojisteni/">cizinci hledající si práci, kteří jsou evidováni na Úřadu práce zdravotní pojištění hrazené státem</a>, a to bez ohledu na to, jaký typ zaměstnanecké karty (povolení k&nbsp;pobytu) mají.&nbsp;</p>
 <p>Upozornili jsme také na překvapivý 
 <a href="https://www.ochrance.cz/aktualne/ukrajinskou_rodinu_zaskocil_dluh_na_zdravotnim_pojisteni-_podobne_na_tom_mohou_byt_i_dalsi_cizinci_obava_se_zastupce_ombudsmana/">vznik dluhu na zdravotním pojištění cizinců</a> v&nbsp;souvislosti se změnou typu pobytu.&nbsp;</p>
-<p>&nbsp;</p>
 <blockquote>
 <h4>
 <strong>Právo na zdravé životní prostředí</strong></h4></blockquote>
