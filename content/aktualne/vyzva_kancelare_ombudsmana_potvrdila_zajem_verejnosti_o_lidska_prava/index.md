@@ -24,3 +24,7 @@ attachments:
 <p>Veřejnost dostane možnost zapojit se do činnosti obou ombudsmanů i v&nbsp;budoucnu. Nejbližší příležitostí bude nominace členů do poradním orgánu dětského ombudsmana. Později budou následovat i obdobné výzvy pro dva poradní orgány „národního“ ombudsmana – jeden pro agendu národní lidskoprávní instituce, další pro ochranu práv osob s&nbsp;postižením.</p>
 <figure class="image">
 <img src="https://www.ochrance.cz/aktualne/vyzva_kancelare_ombudsmana_potvrdila_zajem_verejnosti_o_lidska_prava/skupiny_obyvatel_2.png" alt="Graf „Kterých skupin obyvatel se podněty nejčastěji týkaly?“ Děti a mladí dospělí 354, Lidé s postižením 303, Celá populace ČR 204, Ženy a dívky 135, Starší lidé 80, Lidé ohrožení chudobou 72, Cizinci 46, Oběti trestných činů 42, Pečující 32, Lidé omezení na svobodě 29, LGBTIQ+ 25, Jiné 41. Celkový počet podnětů byl 804. Součet dat v tabulce je však vyšší. Některé podněty totiž zahrnují více skupin."></figure>
+<p>&nbsp;</p>
+
+
+{{< youtube "magKPBfUq9M" >}}
