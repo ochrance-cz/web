@@ -8,15 +8,15 @@ date: 2026-03-24
 <p>Podrobnější přehled o toho, co jste nám psali, najdete níže.</p>
 <h3>Autoři podnětů</h3>
 <figure class="image">
-<img src="https://www.ochrance.cz/dokument/hledame_temata_ktera_potrebuji_nasi_pozornost/kolacovy_graf.png" alt="kolacovy_graf.png"></figure>
+<img src="https://www.ochrance.cz/dokument/hledame_temata_ktera_potrebuji_nasi_pozornost/kolacovy_graf.png" alt="Koláčový graf: Organizace 19 %, Jednotlivci 81 %"></figure>
 <p>Častěji nám psali jednotlivci a to ve čtyřech pětinách všech odpovědí (81 %). Pouze necelá pětina odpovědí, k&nbsp;nám přišla od organizací – neziskových organizací, sociálních služeb či samospráv (19 %). &nbsp;</p>
 <h3>Oblasti života</h3>
 <figure class="image">
-<img src="https://www.ochrance.cz/dokument/hledame_temata_ktera_potrebuji_nasi_pozornost/cloud.png" alt="cloud.png"></figure>
+<img src="https://www.ochrance.cz/dokument/hledame_temata_ktera_potrebuji_nasi_pozornost/cloud.png" alt="Obrázek zachycuje příklady oblastí, na které upozorňovali respondenti: životní prostředí a klima, práce a podnikání, bydlení, majetek a daně, bezpečnostní služby, sociální pomoc a zabezpečení, rodina a péče o dítě, právní stát, rovnost a netolerance, zdraví a bioetika, spravedlivý proces, vzdělávání."></figure>
 <p>Nejvíce zaznívala témata, která se týkala rodiny a péče o děti (22 %) či sociálních služeb, pomoci a zabezpečení (21 %). O něco méně, ale pořád velmi často jste popisovali problémy v&nbsp;oblastech rovnosti a netolerance (15 %), zdraví (14 %) a bydlení (13 %).&nbsp;</p>
 <h3>Dotčené skupiny</h3>
 <figure class="image">
-<img src="https://www.ochrance.cz/dokument/hledame_temata_ktera_potrebuji_nasi_pozornost/skupiny_obyvatel_2.png" alt="skupiny_obyvatel_2.png"></figure>
+<img src="https://www.ochrance.cz/dokument/hledame_temata_ktera_potrebuji_nasi_pozornost/skupiny_obyvatel_2.png" alt="Graf „Kterých skupin obyvatel se podněty nejčastěji týkaly?“ Děti a mladí dospělí 354, Lidé s postižením 303, Celá populace ČR 204, Ženy a dívky 135, Starší lidé 80, Lidé ohrožení chudobou 72, Cizinci 46, Oběti trestných činů 42, Pečující 32, Lidé omezení na svobodě 29, LGBTIQ+ 25, Jiné 41. Celkový počet podnětů byl 804. Součet dat v tabulce je však vyšší. Některé podněty totiž zahrnují více skupin."></figure>
 <p>Téměř v&nbsp;polovině případů se témata týkala dětí a mladých dospělých (44 %). Následovala témata související s lidmi s&nbsp;postižením (38 %) a témata, která se vztahují k celé populaci Česka (31 %).</p>
 <h3>Příklady témat, které jste nám zaslali&nbsp;</h3>
 <p>Zaslali jste nám konkrétní podněty, které souvisí s bezpečím, důstojností či ochranou zranitelných skupin lidí. Níže shrnujeme některé hlavní problémy, 
@@ -243,7 +243,7 @@ date: 2026-03-24
 <p>Take part and tell us which topics you think should be at the centre of the Ombudspersons attention. Your ideas will help shape their future priorities.</p>
 <blockquote>
 <p>
-<strong>You can share your suggestion through our online form –&nbsp;</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<strong>You can share your suggestion through our online form –&nbsp;</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br>
 <a href="https://ec.europa.eu/eusurvey/runner/temata_ombudsman">
 <strong>https://ec.europa.eu/eusurvey/runner/temata_ombudsman</strong></a></p></blockquote>
