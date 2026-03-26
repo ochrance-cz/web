@@ -190,7 +190,6 @@ title: "2025"
 <a href="https://www.ochrance.cz/info106/2025/50_2025_priloha_1.pdf">Příloha 1.</a></p>
 <p>
 <a href="https://www.ochrance.cz/info106/2025/50_2025_priloha_2.pdf">Příloha 2.</a></p>
-<p>&nbsp;</p>
 <h3>51 – Informace z&nbsp;oblasti Vězeňství</h3>
 <p>
 <a href="https://www.ochrance.cz/info106/2025/51_2025_zadost.pdf">Žádost o informace.</a></p>
@@ -233,11 +232,16 @@ title: "2025"
 <a href="https://www.ochrance.cz/info106/2025/61_2025_odpoved.pdf">Odpověď na žádost.</a></p>
 <h3>62 – Informace ke spisu z&nbsp;oblasti MPSV</h3>
 <p>
-<a href="https://www.ochrance.cz/info106/2025/62_2025_zadost.pdf">Žádost o informace</a></p>
-<p>y</p>
+<a href="https://www.ochrance.cz/info106/2025/62_2025_zadost.pdf">Žádost o informace.</a></p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/62_2025_odpoved.pdf">Odpověď na žádost.</a></p>
 <h3>63 – Informace z oblasti náhrady škody VOP</h3>
-<p>x</p>
-<p>y</p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/63_2025_zadost.pdf">Žádost o informace.</a></p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/63_2025_odpoved.pdf">Odpověď na žádost.</a></p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/63_2025_priloha.pdf">Příloha.</a></p>
 <h3>64 – Informace ke spisu v oblasti OSPOD</h3>
 <p>x</p>
 <p>y</p>
