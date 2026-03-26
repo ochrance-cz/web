@@ -23,3 +23,4 @@ attachments:
 <p>Zástupce přepravní společnosti nakonec uznal, že situaci nevyhodnotili férově. Přislíbil, že v&nbsp;budoucnu budou posuzovat zdravotní způsobilost individuálně&nbsp;s ohledem na konkrétní okolnosti, povahu práce a případná možná řešení, která mohou umožnit výkon práce i lidem se zdravotním omezením.</p>
 <p>
 <i>„Případ této ženy ukazuje, že má smysl se ozvat v&nbsp;případě nerovného zacházení. Pokud budeme vířit stojaté vody zažitých představ, můžeme přimět lidi, aby se nerozhodovali na základě předsudků, ale na základě posuzování skutečnosti,“</i> uzavřel ombudsman.&nbsp;</p>
+<p>&nbsp;</p>
