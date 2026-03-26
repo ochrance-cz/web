@@ -197,14 +197,28 @@ title: "2025"
 <p>
 <a href="https://www.ochrance.cz/info106/2025/51_2025_odpoved.pdf">Odpověď na žádost.</a></p>
 <h3>53 – Informace o sekci právní KVOP a vězenství</h3>
-<p>x</p>
-<p>y</p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/53_2025_zadost.pdf">Žádost o informace.</a></p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/53_2025_odpoved.pdf">Odpověď na žádost</a></p>
+<p>
+<a href="https://www.ochrance.cz/provoz/kontakty/">Příloha 1</a>.</p>
+<p>
+<a href="https://www.ochrance.cz/vystupy/edice-stanoviska/Sbornik_Vezenstvi.pdf">Příloha 2</a>.</p>
 <h3>54 – Informace ke spisu ze šetření v oblasti Ovzduší, chemické látky, odpady a obaly</h3>
-<p>x</p>
-<p>y</p>
 <h3>57 – Informace z&nbsp;oblasti Vězenství u lidí se sluchovým postižením</h3>
-<p>x</p>
-<p>y</p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/57_2025_zadost_1.pdf">Žádost o informace.</a></p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/57_2025_zadost_2.pdf">Žádost o informace 2.</a></p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/57_2025_odpoved.pdf">Odpověď na žádost.</a></p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/podnet1.pdf">Podnět 1.</a></p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/podnet2.pdf">Podnět 2.</a></p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/podnet3.pdf">Podnět 3.</a></p>
 <h3>58 – Informace z&nbsp;oblasti Policie ČR</h3>
 <p>x</p>
 <p>y</p>
