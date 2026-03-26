@@ -40,4 +40,4 @@ linksAfter: []
 <p>Součástí&nbsp; 
 <strong>odboru personálního</strong>&nbsp;je samostatný referát dětské skupiny.</p>
 <p>
-<a href="kvop_organizacni_schema_2025_07.pdf">Organizační schéma s účinností od 1. 7. 2025</a></p>
+<a href="/media/kvop_organizacni_schema_2026.pdf">Organizační schéma s účinností od 1. 1. 2026</a></p>
