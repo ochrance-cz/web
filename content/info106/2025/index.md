@@ -243,32 +243,60 @@ title: "2025"
 <p>
 <a href="https://www.ochrance.cz/info106/2025/63_2025_priloha.pdf">Příloha.</a></p>
 <h3>64 – Informace ke spisu v oblasti OSPOD</h3>
-<p>x</p>
-<p>y</p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/64_2025_zadost.pdf">Žádost o informace.</a></p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/64_2025_odpoved.pdf">Odpověď na žádost.</a></p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/64_2025_priloha.pdf">Příloha.</a></p>
 <h3>65 – Informace k&nbsp;délce šetření a počtu podnětů ochráncem</h3>
-<p>x</p>
-<p>y</p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/65_2025_zadost.pdf">Žádost o informace.</a></p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/65_2025_odpoved.pdf">Odpověď na žádost.</a></p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/odpoved_priloha_metodicky_pokyn_2_2025-vyrizovani_spisu.docx">Příloha</a>.</p>
 <h3>66 – Informace ke kritérii závažného veřejného zájmu a případy OOP</h3>
-<p>x</p>
-<p>y</p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/66_2025_zadost.pdf">Žádost o informace.</a></p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/66_2025_odpoved.pdf">Odpověď na žádost.</a></p>
 <h3>68 – Informace z&nbsp;oblasti Soudnictví</h3>
-<p>x</p>
-<p>y</p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/68_2025_zadost.pdf">Žádost o informace.</a></p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/68_2025_odpoved.pdf">Odpověď na žádost</a>.</p>
 <h3>69 – Informace ke spisu</h3>
-<p>x</p>
-<p>y</p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/69_2025_zadost.pdf">Žádost o informace.</a></p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/69_2025_odpoved.pdf">Odpověď na žádost.</a></p>
 <h3>70 – Informace ke spisu v&nbsp;oblasti Špatného zacházení</h3>
-<p>x</p>
-<p>y</p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/70_2025_zadost.pdf">Žádost o informace.</a></p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/70_2025_odpoved.pdf">Odpověď na žádost.</a></p>
 <h3>72 – Informace k působnosti VOP</h3>
-<p>x</p>
-<p>y</p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/72_2025_zadost.pdf">Žádost o informace.</a></p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/72_2025_odpoved.pdf">Odpověď na žádost.</a></p>
 <h3>73 – Informace týkající se ředitelky právní sekce</h3>
-<p>x</p>
-<p>y</p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/73_2025_zadost.pdf">Žádost o informace.</a></p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/73_2025_odpoved.pdf">Odpověď na žádost.</a></p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/73_2025_priloha_1.pdf">Příloha 1.</a></p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/73_2025_priloha_2.pdf">Příloha 2.</a></p>
 <h3>74 – Informace k&nbsp;přístupu utajeným informacím</h3>
-<p>x</p>
-<p>y</p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/74_2025_zadost.pdf">Žádost o informace.</a></p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/74_2025_odpoved.pdf">Odpověď na žádost.</a></p>
 <h3>75 – Informace k&nbsp;oblasti software a AI</h3>
-<p>x</p>
-<p>y</p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/75_2025_zadost.pdf">Žádost o informace.</a></p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/75_2025_odpoved.pdf">Odpověď na žádost.</a></p>
