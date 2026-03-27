@@ -8,7 +8,7 @@ vystupy:
 perex: <p>V dlouhodobě neřešené situaci u nás žijí lidé se zdravotním
   postižením, kteří pobírají slovenský důchod. Přestože potřebují každodenní
   pomoc, nemají nárok na český příspěvek na péči, ani na jeho slovenskou obdobu.
-  Některým z nich pomůže od 1. července novela českého zákona o sociálních
+  Některým z nich pomůže od 1.&nbsp;července novela českého zákona o sociálních
   službách. Systémové řešení však stále chybí. &nbsp;I o tom včera společně
   diskutovali slovenský a český ombudsman – Róbert Dobrovodský a Stanislav
   Křeček. Vzhledem ke končícímu mandátu Stanislava Křečka šlo o poslední
