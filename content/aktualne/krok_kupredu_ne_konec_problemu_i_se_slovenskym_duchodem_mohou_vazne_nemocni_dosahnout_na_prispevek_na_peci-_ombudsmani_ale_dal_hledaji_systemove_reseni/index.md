@@ -21,8 +21,8 @@ attachments:
 <p>Celý život přispívali do slovenského důchodového systému. Nyní ale žijí v&nbsp;Česku – třeba kvůli rodinným vazbám. Pokud jsou to zároveň lidé ve vysokém věku nebo mají&nbsp;
 <strong> </strong>závažné zdravotní postižení a potřebují každodenní péči, ocitají se v&nbsp;náročné sociální situaci. Klíčovou pomoc v&nbsp;podobě finančního příspěvku však prozatím nemohou získat.&nbsp;</p>
 <p>
-<i>„Tito lidé propadají trhlinou, která vznikla v oblasti dlouhodobé péče. Podle tzv. koordinačních pravidel Evropské unie totiž nemají nárok na český příspěvek na péči. Současně nemohou získat ani obdobný slovenský příspěvek. Ten Slovenská republika vyplácí pouze osobám s pobytem na svém území
-<strong>. </strong>Česká republika opakovaně žádala, aby Slovensko zohlednilo sociální dopady na své občany žijící v zahraničí, avšak ke změně dosud nedošlo,“&nbsp;</i>vysvětlil ombudsman Stanislav Křeček.</p>
+<i>„Tito lidé propadají trhlinou, která vznikla v oblasti dlouhodobé péče. Podle tzv. koordinačních pravidel Evropské unie totiž nemají nárok na český příspěvek na péči. Současně nemohou získat ani obdobný slovenský příspěvek. Ten Slovenská republika vyplácí pouze osobám s pobytem na svém území.
+<strong> </strong>Česká republika opakovaně žádala, aby Slovensko zohlednilo sociální dopady na své občany žijící v zahraničí, avšak ke změně dosud nedošlo,“&nbsp;</i>vysvětlil ombudsman Stanislav Křeček.</p>
 <p>Určitý posun k&nbsp;lepšímu nastane teprve od 1. července. Díky změně českého zákona o sociálních službách budou moci i lidé se slovenským důchodem o příspěvek na péči zažádat. Úřad totiž bude mít možnost od toho data zmírnit tvrdost zákona, pokud zjistí, že osoba je ve špatné sociální situaci. Současně však žadatel nesmí pobírat obdobnou dávku z jiného členského státu Evropské unie a musí mít trvalý pobyt v České republice.</p>
 <p>
 <strong>Slovenský a český ombudsman hledali systémové řešení</strong></p>
