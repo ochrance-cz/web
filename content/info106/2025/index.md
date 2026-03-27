@@ -218,7 +218,8 @@ title: "2025"
 <p>
 <a href="https://www.ochrance.cz/vystupy/edice-stanoviska/Sbornik_Vezenstvi.pdf">Příloha 2</a>.</p>
 <h3>55 – Informace ke spisu ze šetření v oblasti Ovzduší, chemické látky, odpady a obaly</h3>
-<p>x</p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/55_2025_zadost.pdf">Žádost o informace.</a></p>
 <p>x</p>
 <p>x</p>
 <p>x</p>
