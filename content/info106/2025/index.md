@@ -220,9 +220,10 @@ title: "2025"
 <h3>55 – Informace ke spisu ze šetření v oblasti Ovzduší, chemické látky, odpady a obaly</h3>
 <p>
 <a href="https://www.ochrance.cz/info106/2025/55_2025_zadost.pdf">Žádost o informace.</a></p>
-<p>x</p>
-<p>x</p>
-<p>x</p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/55_2025_odpoved.pdf">Odpověď na žádost.</a></p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/55_2025_priloha_1.pdf">Příloha 1.</a></p>
 <p>x</p>
 <h3>57 – Informace z&nbsp;oblasti Vězenství u lidí se sluchovým postižením</h3>
 <p>
