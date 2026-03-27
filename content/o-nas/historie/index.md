@@ -3,6 +3,10 @@ title: Historie úřadu ombudsmana a dětského ombudsmana
 illustration: historie-budova.jpg
 order: 4
 timeline:
+  - time: "2026"
+    desc: 6. března poslanci zvolili historicky prvního dětského ombudsmana Martina
+      Beneše. 31. března se po složení slibu do rukou předsedy Poslanecké
+      sněmovny ujal funkce ochránce práv dětí.
   - time: "2025"
     desc: >-
       Dětský ombudsman byl zřízen zákonem č. 77/2025 Sb. Prvním zástupcem
