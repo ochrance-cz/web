@@ -171,6 +171,19 @@ title: "2025"
 <a href="https://www.ochrance.cz/info106/2025/36_2025_zadost.pdf">Žádost o informace.</a></p>
 <p>
 <a href="https://www.ochrance.cz/info106/2025/36_2025_odpoved.odt">Odpověď na žádost.</a></p>
+<p>&nbsp;</p>
+<h3>37/2025 – Informace ke spisu z&nbsp;oblasti Správy na úseku zbraní a střeliva, ostatní působnost Ministerstva vnitra</h3>
+<p>x</p>
+<p>x</p>
+<h3>39/2025 – Informace z&nbsp;oblasti Vězeňství</h3>
+<p>x</p>
+<p>x</p>
+<h3>41/2025 – Informace z&nbsp;oblasti Vězeňství</h3>
+<p>x</p>
+<p>x</p>
+<h3>43/2025 – Informace ke spisu z&nbsp;oblasti Práva na informace</h3>
+<p>x</p>
+<p>x</p>
 <h3>45 – Informace z&nbsp;oblasti Vězeňství</h3>
 <p>
 <a href="https://www.ochrance.cz/info106/2025/45_2025_zadost.pdf">Žádost o informace.</a></p>
@@ -204,7 +217,12 @@ title: "2025"
 <a href="https://www.ochrance.cz/provoz/kontakty/">Příloha 1</a>.</p>
 <p>
 <a href="https://www.ochrance.cz/vystupy/edice-stanoviska/Sbornik_Vezenstvi.pdf">Příloha 2</a>.</p>
-<h3>54 – Informace ke spisu ze šetření v oblasti Ovzduší, chemické látky, odpady a obaly</h3>
+<h3>55 – Informace ke spisu ze šetření v oblasti Ovzduší, chemické látky, odpady a obaly</h3>
+<p>x</p>
+<p>x</p>
+<p>x</p>
+<p>x</p>
+<p>x</p>
 <h3>57 – Informace z&nbsp;oblasti Vězenství u lidí se sluchovým postižením</h3>
 <p>
 <a href="https://www.ochrance.cz/info106/2025/57_2025_zadost_1.pdf">Žádost o informace.</a></p>
