@@ -11,7 +11,7 @@ perex: Lidé nejčastěji hledají pomoc s problémy v oblasti rodinného život
 cta:
   title: Řešíte podobnou situaci a domníváte se, že vám ombudsman může pomoct?
 ---
-Od 1. července 2025 chrání práva dětí dětský ombudsman. Poslanci ho teprve zvolí. Do té doby bude dětem pomáhat zástupce veřejného ochránce práv a ochránce práv dětí Vít Alexander Schorm a jeho tým. 
+Od 1. července 2025 chrání práva dětí dětský ombudsman. Poslanci 6. března 2026 zvolili ochráncem práv dětí Martina Beneše. 
 
 Dětský ombudsman se stará o naplňování práv dětí a mladých do 18 let v individuálních případech i na systémové úrovni, kdy sleduje a prosazuje práva dětí podle [Úmluvy o právech dítěte](https://www.e-sbirka.cz/sb/1991/104/0000-00-00?zalozka=text) i dalších mezinárodních smluv. 
 
