@@ -178,4 +178,97 @@ sections:
           <p>Zároveň jsme upozornili na výrazně vyšší penále a úroky u zemědělských dotací než u jiných programů. Navrhli jsme proto, aby se podmínky více přiblížily pravidlům používaných v rozpočtových pravidlech a v daňovém řádu.</p>
 
           <p>Fond naše závěry přijal. Přislíbil vydat metodický pokyn, který sjednotí postup při povolování splátek, a zveřejnit základní podmínky na svém webu. Ve spolupráci s Ministerstvem zemědělství také navrhne snížení penále při nejbližší novelizaci zákona. Realizaci těchto změn budeme dále sledovat.</p>
+  - title: Radili jsme v diskriminačních věcech
+    articles:
+      - title: Lidé nad 35 let měli menší šanci na obecní byt. Vytkli jsme městu
+          diskriminaci
+        id: 1139/2025/VOP
+        eso: https://eso.ochrance.cz/Nalezene/Edit/14374
+        body: >-
+          <blockquote>
+
+          <p>Rozdílné bodování žadatelů o obecní byt podle věku představuje méně příznivé zacházení. Město neporuší zákaz diskriminace jen v případě, že svým postupem sleduje legitimní cíl a používá přiměřené a nezbytné prostředky k&nbsp;dosažení cíle.</p></blockquote>
+
+          <p>Muž neuspěl při žádosti o obecní byt. Domníval se, že jeho šance výrazně snížila pravidla, podle kterých město zvýhodňovalo lidi ve věku 18–35 let. Město svůj postup obhajovalo tím, že chtělo zvýšit počet obyvatel s trvalým pobytem a podpořit zaměstnanost v&nbsp;nové průmyslové zóně.&nbsp;</p>
+
+          <p>V&nbsp;tomto ohledu však věk budoucích obecních nájemníků nehrál roli. Další podmínky (trvalý pobyt na adrese bytu a zvýhodnění preferovaných profesí) poskytovaly dostatečnou záruku k&nbsp;dosažení cíle. Město navíc podpořilo mladé lidi i tím, že upřednostnilo domácnosti s nezletilými dětmi.&nbsp;</p>
+
+          <p>Vytkli jsme proto městu postup jako diskriminační.&nbsp;Město slíbilo změnit pravidla tak, aby pro přidělení bytu věk už nebyl rozhodující.</p>
+      - title: "Uchazečka o práci se sluchovým postižením se díky nám dočkala omluvy "
+        id: 1890/2025/VOP
+        eso: https://eso.ochrance.cz/nalezene/edit/14354
+        body: >-
+          <blockquote>
+
+          <p>Zaměstnavatel se dopustí diskriminace z důvodu zdravotního postižení, pokud odmítne uchazeče se sluchovým postižením na pozici skladového operátora, aniž by jeho zdravotní způsobilost k práci individuálně posoudil lékař.</p></blockquote>
+
+          <p>Žena se ucházela o práci skladnice u přepravní společnosti. S&nbsp;podobnou prací již měla zkušenosti, dokonce ovládala řízení vysokozdvižného vozíku, vlastnila i řidičský průkaz. Zaměstnavatel ji ale odmítl. Sdělil jí, že práci s&nbsp;ohledem na její sluchové postižení vykonávat nemůže a že by určitě neprošla vstupní lékařskou prohlídkou.</p>
+
+          <p>Postup zaměstnavatele jsme vyhodnotili jako diskriminaci. Zaměstnavatel neznal podrobnější informace o míře poškození sluchu ženy. Neověřoval, jaké zvuky slyší a jaké nikoli. Její zdravotní způsobilost k práci neposoudil lékař. Zaměstnavatel tak nemohl adekvátně vyhodnotit, zda je její sluch pro výkon práce dostatečný.</p>
+
+          <p>Na základě našich závěrů se zaměstnavatel ženě omluvil. Přislíbil také, že bude zdravotní způsobilost posuzovat individuálně a hledat možnosti, jak umožnit práci i lidem se zdravotním omezením.</p>
+      - title: Wellness vyhradilo dvě hodiny v týdnu pouze ženám. Zjistili jsme, že muže
+          tím nediskriminuje
+        id: 2579/2025/VOP
+        eso: https://eso.ochrance.cz/Nalezene/Edit/14370
+        body: >-
+          <p>Zákazník wellness centra nebyl spokojený s&nbsp;přístupem
+          provozovatele, který pravidelně jednou týdně vždy na dvě hodiny
+          umožňuje vstup pouze ženám. Muži vadilo, že během návštěvy centra
+          musel své procedury přerušit, zatímco jeho partnerka mohla pokračovat
+          v celodenním pobytu. Návštěvník to vnímal jako diskriminaci mužů, a
+          proto se obrátil na nás.</p>
+
+          <p>Zjistili jsme, že Wellness centrum rezervovalo čas pro ženy na základě poptávky zákaznic. Část žen totiž nechtěla podstupovat procedury, které vyžadují částečné nebo úplné svléknutí, za přítomnosti mužů. Žádaly soukromí a bezpečný prostor.</p>
+
+          <p>Vyhodnotili jsme, že v&nbsp;tomto případě nejde o diskriminaci. Wellness centrum totiž sleduje legitimní cíl. Navíc volí minimálně omezující časovou dotaci. Ocenili jsme také, že centrum smysluplnost svého opatření průběžně vyhodnocuje.</p>
+      - title: "Poukázali jsme na diskriminační postup města při přidělování sociálních
+          bytů a doporučili jeho změnu "
+        id: 6155/2024/VOP
+        eso: https://eso.ochrance.cz/Nalezene/Edit/14368
+        body: >-
+          <blockquote>
+
+          <p>Bodové zvýhodnění výdělečné činnosti žadatelů o sociální bydlení je nepřímo diskriminační. Takové kritérium totiž může nepříznivě dopadat na skupiny osob chráněné antidiskriminačním zákonem, které příjem z výdělečné činnosti mít nemohou (rodiče na mateřské či rodičovské dovolené, osoby pobírající starobní či invalidní důchod).&nbsp;</p></blockquote>
+
+          <p>Tříčlenná rodina žije v&nbsp;garsonce u matky jednoho z rodičů. Jedná se o nejisté bydlení. Zároveň je nevyhovující, zejména pro ženu s kombinovaným zdravotním postižením a malou dceru, které neposkytuje dostatek klidu a prostoru na učení.</p>
+
+          <p>Rodina&nbsp;proto žádala o městský byt, ale neúspěšně. Dokládá lékařské zprávy a svou tíživou bytovou situaci. V&nbsp;pořadnících se však posouvá pomalu. Město totiž jejich aktuální domov za&nbsp;nejistý ani nevyhovující nepovažuje. Rodina je navíc v nevýhodě, protože nemůže získat body za výdělečnou činnost.&nbsp;</p>
+
+          <p>Takový postup jsme – zejména u sociálních bytů – vyhodnotili jako nepřímo diskriminační. O tyto byty totiž často žádají lidé, kteří z různých důvodů pracovat nemohou.</p>
+
+          <p>Přestože jsme městu doporučili toto bodovací kritérium zrušit a u rodiny zohlednit jejich současné nevhodné bydlení, město svůj postup měnit nehodlá.</p>
+      - title: Potvrdili jsme diskriminaci ženy s postižením, která přišla o práci ve
+          státní správě
+        id: 4316/2025/VOP
+        eso: https://eso.ochrance.cz/Nalezene/Edit/14372
+        body: >-
+          <blockquote>
+
+          <p>Organizační důvody na straně zaměstnavatele nejsou samy o sobě důvodem pro odmítnutí či nepřijetí přiměřeného opatření ve prospěch člověka s&nbsp;postižením. Tím by byly pouze v&nbsp;případě, pokud by přijetí přiměřeného opatření představovalo nepřiměřené zatížení.</p></blockquote>
+
+          <p>Zaměstnankyni statistického úřadu bránilo její zdravotní postižení provádět šetření v&nbsp;terénu. Vykonávala proto kancelářskou práci. Když ale na úřadě došlo k přerozdělení úkolů, nadřízení po ní začali chtít výjezdy mimo pracoviště. Žena žádala o změnu pracovní náplně nebo o snížení úvazku, ale neúspěšně. Nakonec ji okolnosti přinutily zaměstnání opustit.&nbsp;</p>
+
+          <p>Takové jednání úřadu jsme posoudili jako nepřímou diskriminaci z&nbsp;důvodu zdravotního postižení. Zaměstnavatel musí v&nbsp;podobných situacích umožnit člověku dál pracovat, pokud pro něj potřebné úpravy nepředstavují nepřiměřenou zátěž. Organizační ani provozní důvody, kterými se úřad v tomto případě hájil, mezi ně ale nepatří.</p>
+
+          <p>Statistickému úřadu jsme zdůraznili, že orgány veřejné správy by měly být v&nbsp;přístupu k&nbsp;zaměstnancům s&nbsp;postižením vzorem.</p>
+      - title: Pomohli jsme romské rodině dostat se do pořadníku žadatelů o městský byt
+        id: 6608/2024/VOP
+        eso: https://eso.ochrance.cz/Nalezene/Edit/14134
+        body: >-
+          <blockquote>
+
+          <p>V&nbsp;případě, že žadatelé romského původu prokazatelně odstranili všechny tvrzené překážky pro zařazení do pořadníku žádostí o městský byt (záznam v&nbsp;trestním rejstříku, dluhy na místních poplatcích) a podali novou žádost, bylo by z&nbsp;hlediska přímé diskriminace z&nbsp;důvodu romské etnicity podezřelé, pokud by je město do pořadníku opětovně nezařadilo.
+
+          <strong>&nbsp;</strong></p></blockquote>
+
+          <p>Žena
+
+          <strong>&nbsp;</strong>žije v&nbsp;nejistém nájmu se svým manželem a vnučkou, svěřenou do pěstounské péče. Proto chtěla získat nájem městského bytu.</p>
+
+          <p>Město však její žádost bez vysvětlení opakovaně odmítalo. Současně ji od podání žádosti odrazovalo. Žena měla za to, že je to kvůli jejímu romskému původu.</p>
+
+          <p>Prověřovali jsme přístup města a chtěli jsme od něj vysvětlení. Město uvedlo, že rodina dluží peníze za komunální odpad a žadatelčin manžel má dlouhé záznamy v rejstříku trestů. Žena však doložila potvrzení o platbě za odpad i čistý výpis z&nbsp;rejstříku a následně podala novou žádost.&nbsp;</p>
+
+          <p>Nakonec rada města rodinu stěžovatelky do pořadníku zařadila. Doporučili jsme městu, aby se rodině omluvilo za to, že jejího člena nepravdivě pomluvilo ohledně jeho trestní minulosti.</p>
 ---
