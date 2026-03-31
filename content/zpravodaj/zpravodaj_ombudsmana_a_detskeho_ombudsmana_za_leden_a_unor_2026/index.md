@@ -271,4 +271,99 @@ sections:
           <p>Prověřovali jsme přístup města a chtěli jsme od něj vysvětlení. Město uvedlo, že rodina dluží peníze za komunální odpad a žadatelčin manžel má dlouhé záznamy v rejstříku trestů. Žena však doložila potvrzení o platbě za odpad i čistý výpis z&nbsp;rejstříku a následně podala novou žádost.&nbsp;</p>
 
           <p>Nakonec rada města rodinu stěžovatelky do pořadníku zařadila. Doporučili jsme městu, aby se rodině omluvilo za to, že jejího člena nepravdivě pomluvilo ohledně jeho trestní minulosti.</p>
+  - title: Navštěvujeme zařízení
+    articles:
+      - title: Už od roku 2006 jsme národním preventivním mechanismem
+        body: >-
+          <p>chráníme lidi před špatným zacházením. Proto navštěvujeme zařízení,
+          kde jsou lidé omezení na svobodě nebo závislí na poskytované péči.
+          Jedná se například o věznice, dětské domovy nebo domovy pro seniory.
+          Od roku 2018 rovněž sledujeme, jak Česká republika naplňuje práva lidí
+          s postižením podle Úmluvy 6 OSN o právech osob se zdravotním
+          postižením. Proto navštěvujeme také zařízení, kde jsou lidé se
+          zdravotním postižením.</p>
+
+          <p>V lednu 2026 jsme uskutečnili systematickou návštěvu psychiatrického oddělení Nemocnice Havířov. Taktéž jsme sledovali vyhoštění ze Zařízení pro zajištění cizinců Balková na Letiště Václava Havla (Praha).</p>
+
+          <p>V únoru 2026 jsme provedli systematickou návštěvu Dětského domova Mladá Boleslav.</p>
+      - title: Pomohli jsme změnit pravidla pro omezování používání mobilů dětmi ve
+          výchovném ústavu
+        id: 130/2025/DO
+        eso: https://eso.ochrance.cz/Nalezene/Edit/14332
+        body: >-
+          <blockquote>
+
+          <p>Omezení používání mobilního telefonu u dítěte s psychickými obtížemi nebo závislostním chováním je možné nejprve na základě srozumitelné dohody s dítětem. Pokud dohoda nefunguje, může zařízení výjimečně přistoupit k povinné dočasné úschově telefonu, musí ji však řádně zdůvodnit, písemně zaznamenat a dítěti vysvětlit. Bez takové dokumentace a jasných pravidel ve vnitřních předpisech nelze posoudit, zda šlo o dohodu, nebo o nepřípustný nátlak.</p></blockquote>
+
+          <p>Nezletilý chlapec ve výchovném ústavu si stěžoval, že jako jediný musí odevzdávat personálu mobilní telefon. Telefon používal nadměrně, často i v noci, a kvůli tomu nezvládal školu ani běžný denní režim. Na pokyny vychovatelů reagoval agresivně a jeho školní výsledky byly katastrofální, přestože měl schopnosti na mnohem lepší výsledky. Lékaři upozorňovali, že časté používání elektroniky má negativní dopad na jeho psychické zdraví a doporučili omezení. Personál tvrdil, že se s chlapcem ústně dohodl na odevzdávání telefonu. Chlapec to ale vnímal jako nespravedlivý nátlak a zásah do svých práv.</p>
+
+          <p>Omezení používání telefonu jsme vyhodnotili jako rozumné opatření na ochranu chlapcova zdraví. Ústav však neměl o tomto kroku žádné písemné záznamy ani průběžné vyhodnocování omezujícího opatření. Ústavu jsme proto doporučili, aby jasná pravidla pro individuální omezování technologií zakotvil přímo ve svém vnitřním řádu. Ředitel tak učinil a nastavil jasná pravidla a předvídatelné postupy.</p>
+      - title: Hlídáme vzdělávání dětí i ve vazbě
+        id: 566/2025/DO
+        eso: https://eso.ochrance.cz/Nalezene/Edit/14362
+        body: >-
+          <blockquote>
+
+          <p>Dítě ve vazbě má právo plnit povinnou školní docházku. Stát musí zajistit, aby vzdělávání probíhalo i při omezení osobní svobody.&nbsp;</p></blockquote>
+
+          <p>Patnáctiletý chlapec byl více než měsíc ve vazbě. Rodiče namítali, že mu věznice nezajistila vzdělávání odpovídající povinné školní docházce. Podle jejich informací se ke studijním materiálům dostal se zpožděním a bez jasného vedení.</p>
+
+          <p>Prověřili jsme postup vazební věznice. Zjistili jsme, že týden po příchodu do vazby začalo vzdělávání formou řízeného samostudia pod dohledem speciálního pedagoga. Chlapec měl k dispozici učebnice i učivo ze své základní školy a plnil školní povinnosti po většinu doby vazby. Nezjistili jsme porušení jeho práva na vzdělání. Současně jsme věznici upozornili, že v podobných případech má jednat pružněji a rychleji, zejména při navazování kontaktu se školou a zahájení výuky.</p>
+      - title: "S péčí o děti pomůže více lidí, vedení zvažuje změnu nevyhovujícího
+          prostředí. Dětský domov vyšel vstříc našim upozorněním "
+        id: 18/2025/NZ
+        eso: https://eso.ochrance.cz/Nalezene/Edit/14410
+        body: >-
+          <p>Při návštěvě dětského domova jsme si všimli nevyhovujícího
+          prostředí, ve kterém děti žijí. Domov sídlí v&nbsp;bývalém statku,
+          který je těžké vytápět, okolní občanská vybavenost nedostačuje
+          potřebám dětí, které mají v&nbsp;domě navíc omezený přístup
+          k&nbsp;teplé vodě. Naše upozornění se setkaly s pochopením soukromého
+          zřizovatele dětského domova, který přislíbil podniknout kroky k
+          přemístění domova na vhodnější místo.</p>
+
+          <p>A vyhověl i další z našich výhrad. Budova domova je prostorná a členitá, jedna jeho část má oddělený vstup. V&nbsp;dětském domově pracoval v noci pouze jeden člověk na 32 dětí. Upozornili jsme dětský domov, že takové uspořádání přináší mnoho nástrah a podceňuje rizika, která nezvládne pokrýt jeden zaměstnanec. Dětský domov vyhlásil výběrové řízení na nočního asistenta. Přislíbil, že do konce července tohoto roku budou na noční směně pracovat další dva pracovníci.&nbsp;</p>
+  - title: Monitorujeme práva lidí s postižením
+    articles:
+      - title: Poradní orgán pro práva lidí se zdravotním postižením v dosavadním
+          složení se loučí, brzy předá štafetu
+        body: >-
+          <p>Poradní orgán ombudsmana pro oblast práv lidí se zdravotním
+          postižením se sešel 5. února 2026 ve stávajícím složení naposledy.
+          Symbolicky tak uzavřel jednu důležitou kapitolu. Členové na závěrečném
+          jednání zhodnotili několikaletou spolupráci. Shrnuli hlavní výstupy i
+          témata, která zůstávají aktuální do budoucna.&nbsp;</p>
+
+          <p>Během svého působení se poradní orgán věnoval zejména posilování práv lidí se zdravotním postižením a upozorňoval na systémové nedostatky. Jednotliví členové také přinášeli své přímé zkušenosti. A právě to se ukázalo jako klíčové – jejich pohled pomáhal odhalovat problémy, které by jinak mohly zůstat skryté.&nbsp;</p>
+
+          <p>Přestože poradní orgán v dosavadní podobě skončil, témata, která otevíral, zůstávají nadále důležitá. Kancelář veřejného ochránce práv a ochránce práv dětí děkuje všem členům za jejich práci, odborné podněty i dlouhodobou spolupráci. Navazující poradní orgán bude ustanoven po zvolení nového ombudsmana.</p>
+  - title: Ombudsman jako lidskoprávní instituce
+    articles:
+      - title: "Ombudsman poprvé v roli NHRI před výborem OSN "
+        id: 1121/2026/VOP
+        eso: https://eso.ochrance.cz/Nalezene/Edit/14328
+        body: >-
+          <p>V únoru 2026 prošla Česká republika v Ženevě pravidelným přezkumem
+          plnění Úmluvy OSN o odstranění všech forem diskriminace žen (CEDAW).
+          Šlo o zásadní milník – poprvé jsme se přezkumu účastnili s mandátem
+          národní lidskoprávní instituce (NHRI). Výboru jsme předložili tzv.
+          stínovou zprávu, která přináší nezávislý pohled na bariéry v ochraně
+          žen a dívek před diskriminací.</p>
+
+          <p>Upozornili jsme například na dopady mateřství na zaměstnanost, rizika sociálního a finančního vyloučení neformálních pečujících a nedostatky v procesu odškodňování protiprávních sterilizací.</p>
+
+          <p>Otevřeli jsme také další témata z naší agendy. Upozornili jsme na postavení migrantek a praxi zajišťování rodin s dětmi bez dostatečné identifikace zranitelných osob.&nbsp;Zdůraznili jsme, že hodnocení dopadů legislativy na rovnost je v praxi prováděno jen formálně nebo vůbec.&nbsp;Poukázali jsme i na systémové nedostatky v péči o ženy s chronickým únavovým syndromem, nedostatečné financování neziskových organizací pomáhajících obětem trestných činů a nízkou dostupnost i kvalitu zdravotní péče pro ženy v souvislosti s porody.</p>
+
+          <p>Výbor CEDAW některá naše zjištění zohlednil a vyzval vládu k posílení kapacit pro výkon mandátu NHRI.</p>
+      - title: "Ombudsman přispěl do studie OSN o duševním zdraví mladých lidí "
+        id: 185/2026/DO
+        eso: https://eso.ochrance.cz/Nalezene/Edit/14330
+        body: >-
+          <p>Ombudsman v únoru 2026 zaslal Úřadu vysokého komisaře OSN pro
+          lidská práva vyjádření k připravované studii o dopadech problémů
+          duševního zdraví na lidská práva mladých lidí.&nbsp;</p>
+
+          <p>Upozornili jsme na alarmující data z Česka: až 40 % žáků devátého ročníku vykazuje známky středně těžké až těžké deprese a 30 % příznaky úzkosti, přitom dívky jsou zasaženy dvakrát častěji než chlapci. Zásadním problémem je nedostupnost péče o duševní zdraví. V celé zemi působí pouze 157 dětských psychiatrů, z nichž polovina je v předdůchodovém věku. Nedostatečná je i kapacita lůžek v pobytových zařízeních. Zdůraznili jsme specifickou zranitelnost LGBTIQ+ mládeže, která čelí stigmatizaci, i dětí s autismem či mentálním postižením, pro které v ČR chybí systémové sociální služby. Upozornili jsme také na mezery v legislativě: chybí jasná metodika pro zapojování dětí do rozhodování o jejich vlastní hospitalizaci a péči.&nbsp;</p>
+
+          <p>Doporučili jsme posílení kapacit, lepší podporu obětí trestných činů a vytvoření inkluzivního prostředí respektujícího práva všech dětí bez rozdílu.</p>
 ---
