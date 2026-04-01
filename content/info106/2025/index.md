@@ -173,17 +173,31 @@ title: "2025"
 <a href="https://www.ochrance.cz/info106/2025/36_2025_odpoved.odt">Odpověď na žádost.</a></p>
 <p>&nbsp;</p>
 <h3>37/2025 – Informace ke spisu z&nbsp;oblasti Správy na úseku zbraní a střeliva, ostatní působnost Ministerstva vnitra</h3>
-<p>x</p>
-<p>x</p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/37_2025_zadost.pdf">Žádost o informace.</a></p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/37_2025_odpoved.odt">Odpověď na žádost.</a></p>
 <h3>39/2025 – Informace z&nbsp;oblasti Vězeňství</h3>
-<p>x</p>
-<p>x</p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/39_2025_zadost.pdf">Žádost o informace.</a></p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/39_2025_odpoved.odt">Odpověď na žádost.</a></p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/39_2025_odpoved_priloha1.pdf">Příloha 1.</a></p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/39_2025_odpoved_priloha2.pdf">Příloha 2.</a></p>
 <h3>41/2025 – Informace z&nbsp;oblasti Vězeňství</h3>
-<p>x</p>
-<p>x</p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/41_2025_zadost.pdf">Žádost o informace.</a></p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/41_2025_odpoved.odt">Odpověď na žádost.</a></p>
 <h3>43/2025 – Informace ke spisu z&nbsp;oblasti Práva na informace</h3>
-<p>x</p>
-<p>x</p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/43_2025_zadost.pdf">Žádost o informace.</a></p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/43_2025_odpoved.odt">Odpověď na žádost.</a></p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/43_2025_odpoved_priloha.pdf">Příloha.</a></p>
 <h3>45 – Informace z&nbsp;oblasti Vězeňství</h3>
 <p>
 <a href="https://www.ochrance.cz/info106/2025/45_2025_zadost.pdf">Žádost o informace.</a></p>
