@@ -239,6 +239,8 @@ title: "2025"
 <a href="https://www.ochrance.cz/info106/2025/55_2025_priloha_1.pdf">Příloha 1.</a></p>
 <p>
 <a href="https://www.ochrance.cz/info106/2025/55_2025_priloha_2.pdf">Příloha 2.</a></p>
+<p>
+<a href="https://www.ochrance.cz/info106/2025/55_2025_priloha_3.pdf">Příloha 3.</a></p>
 <h3>57/2025 – Informace z&nbsp;oblasti Vězenství u lidí se sluchovým postižením</h3>
 <p>
 <a href="https://www.ochrance.cz/info106/2025/57_2025_zadost_1.pdf">Žádost o informace.</a></p>
