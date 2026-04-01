@@ -23,7 +23,7 @@ attachments:
   - title: "Leták Dětský ombudsman: pomáhá i jinak (zvláštní oprávnění) "
     file: https://www.ochrance.cz/letaky/detsky-ombudsman-zvlastni-opravneni/detsky-ombudsman-zvlastni-opravneni.pdf
   - title: "Leták pro děti "
-    file: https://www.ochrance.cz/aktualne/uz_zacatkem_prazdnin_zacne_detsky_ombudsman_pracovat_po_boku_sveho_starsiho_sourozence_zatim_v_zastoupeni/detsky_ombudsman_letak_pro_deti.pdf
+    file: https://www.ochrance.cz/letaky/jak_ti_pomuze_detsky_ombudsman_letak_pro_deti/detsky-ombudsman-letak-pro-deti.pdf
   - title: "Historie úřadu ombudsmana a dětského ombudsmana v časové ose "
     file: https://www.ochrance.cz/o-nas/historie/
 ---
