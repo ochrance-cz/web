@@ -1,5 +1,5 @@
 ---
-title: Hledáme Koordinátory participace a vzdělávání pro oblast lidských práv a
+title: Hledáme koordinátory participace a vzdělávání pro oblast lidských práv a
   pro oblast ochrany práv dětí
 date: 2026-04-02T10:26:00
 vystupy:
