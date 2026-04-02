@@ -5,7 +5,7 @@ linksAfter: []
 <h2>
 <strong>Volná místa</strong></h2>
 <p>
-<strong>Aktuálně hledáme 2 nové kolegy nebo kolegyně na pozice koordinátor/ka participace a vzdělávání pro oblast lidských práv a koordinátor/ka participace a vzdělávání pro oblast ochrany práv dětí. Více v </strong>
+<strong>Hledáme kolegy nebo kolegyně na pozice koordinátor/ka participace a vzdělávání pro oblast lidských práv a koordinátor/ka participace a vzdělávání pro oblast ochrany práv dětí. Více v </strong>
 <a href="https://www.ochrance.cz/aktualne/mate_organizacniho_ducha_pridejte_se_k_nam_prijmeme_koordinatorky_ci_koordinatory/">
 <strong>inzerátu</strong></a>
 <strong>.</strong></p>
