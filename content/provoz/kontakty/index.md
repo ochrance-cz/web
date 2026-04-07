@@ -528,10 +528,6 @@ lawyers:
         role: právnička
         phone: 542 542 287
         email: cristina.bouskova@ochrance.cz
-      - name: Adéla Frédy
-        role: právnička
-        phone: 542 542 286
-        email: adela.fredy@ochrance.cz
       - name: Jiří Matuška
         role: právník
         phone: 542 542 346
@@ -612,8 +608,12 @@ lawyers:
         email: "nina.lenorakova@ochrance.cz   "
   - title: Odbor strategií, metodik a koordinace
     people:
+      - name: Veronika Bazalová
+        role: vedoucí odboru strategií, metodik a koordinace; zástupkyně ředitelky sekce
+          právní pro lidskoprávní agendu
+        email: veronika.bazalova@ochrance.cz
       - name: Jaroslav Švoma
-        role: vedoucí odboru, zástupce ředitelky sekce právní pro lidskoprávní agendu
+        role: vedoucí oddělení metodiky a analýz
         phone: 542 542 353
         email: jaroslav.svoma@ochrance.cz
       - name: Adam Herma
@@ -662,4 +662,7 @@ lawyers:
         role: výzkumná pracovnice
         phone: 542 542 303
         email: magdalena.konecna@ochrance.cz
+      - name: Miriama Kanioková
+        role: výzkumná pracovnice, odborná referentka
+        email: miriama.kaniokova@ochrance.cz
 ---
