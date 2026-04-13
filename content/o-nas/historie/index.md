@@ -25,7 +25,7 @@ timeline:
       postižením a pomáhá také cizincům-občanům Evropské unie, kteří žijí nebo
       pracují v České republice. "
   - time: 2014
-    desc: Ombudsman Mgr. Anna Šabatová, Ph.D., zástupce ombudsmana JUDr. Stanislav
+    desc: Ombudsmanka Mgr. Anna Šabatová, Ph.D., zástupce ombudsmana JUDr. Stanislav
       Křeček
   - time: "2011"
     desc: Od roku 2011 ombudsman sleduje v rámci prevence špatného zacházení
