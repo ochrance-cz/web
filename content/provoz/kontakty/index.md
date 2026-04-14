@@ -540,7 +540,7 @@ lawyers:
         role: právník
         phone: 542 542 330
         email: jan.spilka@ochrance.cz
-      - name: Hana Poláková
+      - name: Hana Wochová
         role: "právnička "
         phone: 542 542 337
         email: hana.polakova@ochrance.cz
@@ -612,6 +612,7 @@ lawyers:
         role: vedoucí odboru strategií, metodik a koordinace; zástupkyně ředitelky sekce
           právní pro lidskoprávní agendu
         email: veronika.bazalova@ochrance.cz
+        phone: 542 542 378
       - name: Jaroslav Švoma
         role: vedoucí oddělení metodiky a analýz
         phone: 542 542 353
@@ -665,4 +666,5 @@ lawyers:
       - name: Miriama Kanioková
         role: výzkumná pracovnice, odborná referentka
         email: miriama.kaniokova@ochrance.cz
+        phone: 542 542 208
 ---
