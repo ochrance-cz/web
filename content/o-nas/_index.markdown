@@ -18,5 +18,5 @@ links:
   - link: predpisy
     text: Právní předpisy
 ---
-Ombudsmana a dětského ombudsmana volí Poslanecká sněmovna ČR z návrhů prezidenta, Senátu a České konference rektorů. Funkční období je šestileté. Ombudsmana ani dětského ombudsmana nelze odvolat. Ombudsman a dětský ombudsman mají jednoho zástupce, kterého rovněž volí Poslanecká sněmovna ČR.
+Ombudsmana a [dětského ombudsmana](https://deti.ochrance.cz/o-nas/) volí Poslanecká sněmovna ČR z návrhů prezidenta, Senátu a České konference rektorů. Funkční období je šestileté. Ombudsmana ani dětského ombudsmana nelze odvolat. Ombudsman a dětský ombudsman mají jednoho zástupce, kterého rovněž volí Poslanecká sněmovna ČR.
 Ombudsman může zástupci svěřit část své působnosti.
