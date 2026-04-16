@@ -1,6 +1,6 @@
 ---
-title: Healthcare - Frequently asked questions
-file: EN-Healthcare-complaints.pdf
+title: Healthcare services - Complaining about healthcare services
 situace:
   - healthcare
+file: en-healthcare-complaints.pdf
 ---
