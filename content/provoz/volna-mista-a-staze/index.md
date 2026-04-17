@@ -4,11 +4,8 @@ linksAfter: []
 ---
 <h2>
 <strong>Volná místa</strong></h2>
-<p>
-<strong>Hledáme kolegy nebo kolegyně na pozice koordinátor/ka participace a vzdělávání pro oblast lidských práv a koordinátor/ka participace a vzdělávání pro oblast ochrany práv dětí. Více v </strong>
-<a href="https://www.ochrance.cz/aktualne/mate_organizacniho_ducha_pridejte_se_k_nam_prijmeme_koordinatorky_ci_koordinatory/">
-<strong>inzerátu</strong></a>
-<strong>.</strong></p>
+<p>Nyní neprobíhá žádné výběrové řízení.</p>
+<p>Pokud se přesto chcete ucházet o místo, pošlete nám svůj životopis na adresu michalcova@ochrance.cz a napište, o jakou práci máte zájem.</p>
 <p>
 <strong>Stáže pro studenty právnických fakult</strong></p>
 <p>Na stáž se můžete přihlásit přes svou právnickou fakultu v&nbsp;Brně, Olomouci a Praze. Pokud nevíte, koho ve škole oslovit, napište kolegyni Haně Suské na adresu 
