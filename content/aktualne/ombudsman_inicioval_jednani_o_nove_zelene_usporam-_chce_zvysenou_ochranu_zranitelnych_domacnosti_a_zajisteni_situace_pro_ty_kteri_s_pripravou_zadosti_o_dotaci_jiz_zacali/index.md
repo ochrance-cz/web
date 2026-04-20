@@ -34,7 +34,7 @@ attachments:
 <a href="https://www.ochrance.cz/aktualne/ombudsman_varuje_pred_dopady_vuci_nejzranitelnejsim-_nova_zelena_usporam_podporujici_cestu_k_lepsimu_bydleni_zrejme_skonci/">upozornil</a> ombudsman Stanislav Křeček premiéra Andreje Babiše na důsledky tohoto nepředvídatelného kroku. Poukázal zejména na nízkopříjmové rodiny, na které dopad bude nejtvrdší, a vyzval veřejnost ke sdílení osobních příběhů.</p>
 <blockquote>
 <p>
-<strong>Příběhy, se kterými se lidé obrátili na ombudsmana</strong></p>
+<strong>PŘÍBĚHY, SE KTERÝMI SE LIDÉ OBRÁTILI NA OMBUDSMANA</strong></p>
 <p>&nbsp;</p>
 <p>
 <strong>Rodina s&nbsp;malými dětmi žije v jednom pokoji u rodičů</strong></p>
