@@ -20,4 +20,4 @@ title: Písemnosti před a po
 17. [formulář žádosti oběti trestného činu o peněžitou pomoc – aktuální ombudsman](https://www.ochrance.cz/uploads-import/ESO/příručka/17_ombudsman_penezita_pomoc_obeti.docx)
 18. [formulář žádosti pozůstalé/ho po oběti trestného činu o peněžitou pomoc – aktuální ombudsman](https://www.ochrance.cz/uploads-import/ESO/příručka/18_ombudsman_penezita_pomoc_pozustali.docx)
 19. [formulář žádosti oběti trestného činu o peněžitou pomoc – aktuální Ministerstvo spravedlnosti](https://www.ochrance.cz/uploads-import/ESO/příručka/19_MSp_nyni_penezita_pomoc_obet.docx)
-20. [formulář žádosti pozůstalé/ho po oběti trestného činu o peněžitou pomoc – aktuální Ministerstvo spravedlnosti](https://www.ochrance.cz/uploads-import/ESO/příručka/20_MSp_nyni_penezita_pomoc_pozustali.docx)[](https://www.ochrance.cz/uploads-import/ESO/příručka/14_žádost-MOP_přepsaná.docx)
+20. [formulář žádosti pozůstalé/ho po oběti trestného činu o peněžitou pomoc – aktuální Ministerstvo spravedlnosti](https://www.ochrance.cz/uploads-import/ESO/příručka/20_MSp_nyni_penezita_pomoc_pozustali.docx)
