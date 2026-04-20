@@ -20,16 +20,14 @@ attachments:
   - title: Reportáž Černých ovcí ČT, Fotovoltaika pro seniory III
     link: https://www.ceskatelevize.cz/porady/1097429889-cerne-ovce/225452801080925/
 ---
-<p>Stanislav Křeček inicioval schůzku také proto, že považuje za nezbytné zajistit v další etapě Nové zelené úsporám ochranu zranitelných domácností před pádem do&nbsp;energetické chudoby. Tu ostatně avizovalo i samo ministerstvo. Přesto stále není jasné, které domácnosti bude&nbsp;program považovat za nízkopříjmové a jako jediné tak podpoří dotací a nikoli jen půjčkou.
-<i>&nbsp;</i>Času již přitom není mnoho.&nbsp;
-<i> </i>Podle Petra Valdmana, ředitele SFŽP, by se měla nová dotační výzva otevřít již v&nbsp;květnu
+<p>Stanislav Křeček inicioval schůzku také proto, že považuje za nezbytné zajistit v další etapě Nové zelené úsporám ochranu zranitelných domácností před pádem do&nbsp;energetické chudoby. Tu ostatně avizovalo i samo ministerstvo. Přesto stále není jasné, které domácnosti bude&nbsp;program považovat za nízkopříjmové a jako jediné tak podpoří dotací a nikoli jen půjčkou. Času již přitom není mnoho.&nbsp;Podle Petra Valdmana, ředitele SFŽP, by se měla nová dotační výzva otevřít již v&nbsp;květnu 
 <i>.&nbsp;</i></p>
 <p>Po setkání Stanislav Křeček uvedl: 
 <i>„Uvítal jsem, že zástupci Státního fondu životního prostředí vnímají naléhavost řešit problémy vzniklé po nečekané změně programu. Velmi jsem však postrádal zástupce Ministerstva životního prostředí. Jakkoli byla schůzka prospěšná, bez tohoto klíčového partnera zůstává na stole řada otázek.“</i>&nbsp;</p>
 <p>Stanislav Křeček ocenil, že setkání pomohlo vyjasnit témata, která je nutné dořešit. Takovým je třeba dostatečná informovanost žadatelů o dotace či půjčky: 
 <i>„Z&nbsp;podnětů, které dostávám, vyplývá, že v&nbsp;minulosti část lidí mylně vnímala přidělení dotace jako schválení celého realizačního postupu. Někteří žadatelé netušili, že někdy potřebují ještě razítko stavebního, případně památkového úřadu. Velmi proto vítám ochotu SFŽP pracovat na osvětě,“&nbsp;</i>uvedl ombudsman.</p>
 <p>Podobně pozitivně ombudsman hodnotí zavedení preventivní kontroly před vyplacením peněz. Fond by v jejím rámci měl vstupovat přímo&nbsp;do kontaktu se žadateli. Tento postup může pomoci včas identifikovat nevhodně nastavené smluvní vztahy s dodavateli, a přispět tak k ochraně žadatelů před možným podvodným jednáním.</p>
-<p>Ombudsman Stanislav Křeček otevřel i téma domácností, které v&nbsp;dobré víře chystali své projekty, ale o dotaci již nestihli požádat: &nbsp;
+<p>Ombudsman Stanislav Křeček otevřel i téma domácností, které v&nbsp;dobré víře chystali své projekty, ale o dotaci již nestihli požádat: &nbsp;&nbsp;
 <i>„Vláda nabídla těm, kdo se připravovali na žádost o dotaci, maximálně padesátitisícovou kompenzaci za projektovou přípravu u rodinného domu. To ale představuje v&nbsp;samotném rozpočtu stavby jen nevelkou částku. Očekávám, že Ministerstvo životního prostředí a SFŽP budou hledat cesty, jak ochránit tyto rodiny před existenčními problémy. I když jsou mé možnosti v&nbsp;této věci omezené, budu vývoj dál sledovat,“&nbsp;</i>uvedl Stanislav Křeček. Zástupci fondu ombudsmana ujistili, že si situaci těchto rodin uvědomují a věnují jí pozornost.</p>
 <p>Po té, co vláda omezila program Nová zelená úsporám, 
 <a href="https://www.ochrance.cz/aktualne/ombudsman_varuje_pred_dopady_vuci_nejzranitelnejsim-_nova_zelena_usporam_podporujici_cestu_k_lepsimu_bydleni_zrejme_skonci/">upozornil</a> ombudsman Stanislav Křeček premiéra Andreje Babiše na důsledky tohoto nepředvídatelného kroku. Poukázal zejména na nízkopříjmové rodiny, na které dopad bude nejtvrdší, a vyzval veřejnost ke sdílení osobních příběhů.</p>
