@@ -6,7 +6,7 @@ relativeurls = true
 timeZone = "Europe/Prague"
 
 [outputs]
-home = ["HTML", "RSS", "Elastic", "htaccess"]
+home = ["HTML", "RSS", "Elastic", "JSON", "htaccess"]
 
 [taxonomies]
   vystup = "vystupy"
@@ -47,6 +47,12 @@ params = ["categories", "tags"]
 baseName = ""
 isPlainText = true
 mediaType = "text/htaccess"
+
+[outputFormats.JSON]
+mediaType = "application/json"
+baseName = "pagefind"
+isPlainText = true
+notAlternative = true
 
 [mediaTypes]
 [mediaTypes."text/htaccess"]

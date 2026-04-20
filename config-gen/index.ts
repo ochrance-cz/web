@@ -298,6 +298,14 @@ const stranky = files('Jiné', 'stranky', [
       ...twoColFields,
     ]),
   ]),
+  fileCollection('Hledání', 'pagefind', 'data/pagefind.yml', [
+    list('Klíčová slova', 'klíčové slovo', 'keywords', [
+      string('Klíčové slovo', 'keyword'),
+      string('Odkaz', 'link'),
+      string('Titulek', 'title'),
+      text('Popis', 'description'),
+    ]),
+  ]),
 ]);
 
 const strankyEn = files('Jiné', 'stranky', [
