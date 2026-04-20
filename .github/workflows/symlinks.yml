@@ -65,6 +65,7 @@ jobs:
             rm srozumitelne
             rm nas-pribeh
             rm .htaccess
+            rm pagefind.json
             ln -s www-prod/aktualne aktualne
             ln -s www-prod/alert alert
             ln -s www-prod/apple-touch-icon.png apple-touch-icon.png
@@ -114,3 +115,4 @@ jobs:
             ln -s www-prod/zpravodaj zpravodaj
             ln -s www-prod/zpravodaj-vse zpravodaj-vse
             ln -s www-prod/.htaccess .htaccess
+            ln -s www-prod/pagefind.json pagefind.json

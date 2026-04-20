@@ -1101,6 +1101,31 @@ collections:
                 name: right-10
                 required: false
                 widget: markdown
+      - label: Hledání
+        name: pagefind
+        file: data/pagefind.yml
+        fields:
+          - label: Klíčová slova
+            name: keywords
+            required: false
+            label_singular: klíčové slovo
+            widget: list
+            fields:
+              - label: Klíčové slovo
+                name: keyword
+                required: false
+                widget: string
+              - label: Odkaz
+                name: link
+                required: false
+                widget: string
+              - label: Titulek
+                name: title
+                widget: string
+              - label: Popis
+                name: description
+                required: false
+                widget: text
   - name: aktualne
     label: Aktuality
     label_singular: aktualita
