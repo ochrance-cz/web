@@ -4,7 +4,7 @@ title: Zmatky kolem vyplácení superdávek? Ombudsman vysvětluje, jaké změny
 date: 2026-04-23T08:47:00
 vystupy:
   - aktualita
-perex: <p>Přišlo vám rozhodnutí o přiznání superdávky od 1. dubna 2026, ale
+perex: <p>Přišlo vám rozhodnutí o přiznání superdávky od 1.&nbsp;dubna 2026, ale
   superdávka nikde? Podněty, které v&nbsp;posledních dnech obdržel ombudsman,
   ukazují, že část žadatelů nezachytila změnu zákona, k&nbsp;níž došlo v březnu.
   Ta některým lidem superdávku o tři měsíce posunula.</p>
