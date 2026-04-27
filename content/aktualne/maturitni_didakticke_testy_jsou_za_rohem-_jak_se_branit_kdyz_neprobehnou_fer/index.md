@@ -11,7 +11,7 @@ attachments:
   - title: Zpráva ombudsmana o šetření ve věci přezkumu maturitních zkoušek z roku
       2016
     file: ""
-    link: https://eso.ochrance.cz/Nalezene/Edit/13594
+    link: "https://eso.ochrance.cz/Nalezene/Edit/4634  "
   - title: "Zpráva o šetření ombudsmana (nemoc v době maturity zkomplikovala
       studentovi nástup na VŠ) "
     link: https://eso.ochrance.cz/Nalezene/Edit/13594
