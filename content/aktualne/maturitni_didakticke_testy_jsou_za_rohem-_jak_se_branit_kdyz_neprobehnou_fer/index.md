@@ -8,10 +8,6 @@ perex: <p>Už brzy čekají středoškoláky didaktické maturitní testy. Jak
   výsledcích? Kancelář ombudsmana a dětského ombudsmana vysvětluje, co
   dělat.</p>
 attachments:
-  - title: Zpráva ombudsmana o šetření ve věci přezkumu maturitních zkoušek z roku
-      2016
-    file: ""
-    link: "https://eso.ochrance.cz/Nalezene/Edit/4634  "
   - title: "Zpráva o šetření ombudsmana (nemoc v době maturity zkomplikovala
       studentovi nástup na VŠ) "
     link: https://eso.ochrance.cz/Nalezene/Edit/13594
@@ -20,6 +16,9 @@ attachments:
     link: https://eso.ochrance.cz/Nalezene/Edit/10000
   - title: Informace Cermat – Přezkum výsledků
     link: https://maturita.cermat.cz/menu/prezkum-vysledku-zkousek
+  - title: Zpráva ombudsmana o šetření ve věci přezkumu maturitních zkoušek z roku
+      2016
+    link: "https://eso.ochrance.cz/Nalezene/Edit/4634  "
 ---
 <p>Čeština, matematika nebo cizí jazyk. Začátkem května zasednou středoškolští studenti* k&nbsp;didaktickým testům, ve kterých mají zúročit svou přípravu. Ne vždy ale zkouška proběhne podle plánu. Co když dostanou maturanti méně času, než na jaký mají právo? Nebo jim podmínky ztíží hluk, či třeba šum provázející audionahrávku, která je součástí testu. Soustředění klesá a stres roste.&nbsp;</p>
 <p>Že k&nbsp;těmto situacím skutečně dochází, dokládají podněty maturantů, kterými se v&nbsp;minulosti zabýval ombudsman. Ukazují to ostatně i žádosti o přezkum, kterých Ministerstvo školství běžně dostává kolem tisícovky i více.</p>
