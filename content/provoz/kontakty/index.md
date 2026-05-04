@@ -22,14 +22,18 @@ sections:
 
       Barbora Svěráková
 
-      tel: (+420) 542 542 777
+      telefon: (+420) 542 542 777 
+
+      e-mail: barbora.sverakova@ochrance.cz
 
 
       **Asistentka dětského ombudsmana a zástupce ombudsmana** \
 
       Marie Hemalová\
 
-      tel: (+420) 542 542 666
+      telefon: (+420) 542 542 666 
+
+      e-mail: marie.hemalova@ochrance.cz
 
 
       ### **Právní poradci veřejného ochránce práv, ochránce práv dětí a jejich zástupce**
