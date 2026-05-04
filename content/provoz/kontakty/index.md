@@ -18,7 +18,14 @@ sections:
       e-mail: miroslav.frydek@ochrance.cz
 
 
-      **Asistentka ombudsmana a zástupce ombudsmana a dětského ombudsmana**\
+      **Asistentka ombudsmana** 
+
+      Barbora Svěráková
+
+      tel: (+420) 542 542 777
+
+
+      **Asistentka dětského ombudsmana a zástupce ombudsmana** \
 
       Marie Hemalová\
 
