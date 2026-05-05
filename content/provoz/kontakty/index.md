@@ -270,6 +270,10 @@ lawyers:
         role: právnička (sociálně-právní ochrana dětí)
         phone: 542 542 213
         email: eva.jankova@ochrance.cz
+      - name: Marie Matušková
+        role: právnička (monitoring)
+        phone: 542 542 207
+        email: marie.matuskova@ochrance.cz
   - title: Odbor veřejného pořádku, zdravotnictví a práce
     intro: >
       matriky, evidence obyvatel, občanské a cestovní průkazy, státní občanství,
@@ -579,6 +583,10 @@ lawyers:
         role: "právnička "
         phone: 542 542 276
         email: sarka.vyskocilova@ochrance.cz
+      - name: Adam Stašek
+        role: právník
+        phone: 542 542 286
+        email: adam.stasek@ochrance.cz
   - title: Odbor ochrany práv osob se zdravotním postižením
     people:
       - name: Romana Jakešová
