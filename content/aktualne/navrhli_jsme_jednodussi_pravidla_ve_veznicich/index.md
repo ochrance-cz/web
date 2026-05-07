@@ -14,7 +14,7 @@ perex: <p>Některá pravidla ve věznicích by se měla změnit, protože např.
 <p>Pravidla mají být srozumitelná a stejná pro všechny. Nemají lidi zbytečně zatěžovat. Řadu věcí lze zlepšit jednoduchou úpravou zákonů a vnitřních předpisů.</p>
 <p>Navržené změny by pomohly nejen lidem ve věznicích, ale i samotným institucím. Mohly by snížit náklady, zjednodušit praxi a předejít problémům, na které dlouhodobě upozorňují i mezinárodní organizace.</p>
 <p>
-<i>„Pravidla ve věznicích musí být především spravedlivá, srozumitelná a respektující lidskou důstojnost každého jednotlivce. Dnes ale vidíme, že některá opatření dopadají nepřiměřeně tvrdě – zejména na děti vězněných rodičů nebo na osoby bez dostatečných finančních prostředků“</i>, říká zástupce ombudsmana a dětského ombudsmana Vít Alexander Schorm.</p>
+<i>„Pravidla ve věznicích musí být především spravedlivá, srozumitelná a respektující lidskou důstojnost každého jednotlivce. Dnes ale vidíme, že některá opatření dopadají nepřiměřeně tvrdě – zejména na děti vězněných rodičů nebo na osoby bez dostatečných finančních prostředků,“</i> říká zástupce ombudsmana a dětského ombudsmana Vít Alexander Schorm.</p>
 <p>
 <strong>Jednodušší hygiena, jasnější pravidla návštěv</strong></p>
 <p>Udržet či vytvářet hygienické návyky je nezbytné pro každého. Dnes mají různé skupiny vězněných osob (obvinění, odsouzení, chovanci) stran hygieny odlišná pravidla. Například někdo může dostávat hygienické balíčky bez omezení, jiný ne.</p>
