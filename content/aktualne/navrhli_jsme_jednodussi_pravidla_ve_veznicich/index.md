@@ -2,7 +2,6 @@
 title: Navrhli jsme jednodušší pravidla ve věznicích
 date: 2026-05-07T07:09:00
 vystupy:
-  - aktualita
   - tz
 perex: <p>Některá pravidla ve věznicích by se měla změnit, protože např. mohou
   ohrožovat zdraví nebo vyvolávat náklady. Zástupce ombudsmana a dětského
