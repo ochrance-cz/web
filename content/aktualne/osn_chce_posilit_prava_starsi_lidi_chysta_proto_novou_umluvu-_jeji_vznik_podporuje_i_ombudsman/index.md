@@ -24,7 +24,7 @@ perex: <p>Práva&nbsp;lidí ve vyšším věku je potřeba posílit, domnívá s
 <a href="https://www.ochrance.cz/aktualne/na_kavu_s_ombudsmanem_127-_dil_vek_nesmi_byt_strasakem_ani_duvodem_k_diskriminaci/">Podcast Na kávu s ombudsmanem: Věk nesmí být strašákem ani důvodem k diskriminaci&nbsp;</a></p></blockquote>
 <p>Kvůli této situaci před časem OSN doporučila přísnější prosazování ochrany práv starších lidí. Zároveň dospěla k&nbsp;rozhodnutí, že by jejich práva měla zaručovat i samostatná mezinárodní Úmluva. Letos na jaře proto OSN vyzvala členské státy a další aktéry, aby se do příprav zapojily a pomohly Úmluvu vybudovat. Na konci letošního dubna zareagovala i Česká republika a přišla s&nbsp; 
 <a href="https://www.ohchr.org/en/calls-for-input/2026/call-inputs-general-framework-architecture-and-guiding-principles-legally">konkrétními návrhy</a>.</p>
-<p>Ombudsman Stanislav Křeček k&nbsp;Úmluvě na ochranu starších lidí uvedl: 
+<p>Ombudsman Stanislav Křeček k&nbsp;Úmluvě o právech starších lidí uvedl: 
 <i>„Případy diskriminace různého druhu, včetně té věkové, řešíme v&nbsp;naší Kanceláři řadu let. Z&nbsp;pozice&nbsp;</i> 
 <a href="https://www.ochrance.cz/dokument/co_je_to_narodni_lidskopravni_instituce_a_proc_ji_v_cesku_potrebujeme/">
 <i>národní lidskoprávní instituce</i></a> 
