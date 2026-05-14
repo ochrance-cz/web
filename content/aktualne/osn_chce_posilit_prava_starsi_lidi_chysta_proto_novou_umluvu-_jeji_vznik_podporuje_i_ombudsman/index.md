@@ -1,6 +1,6 @@
 ---
-title: OSN chce posílit práva starší lidí, chystá proto novou Úmluvu. Její vznik
-  podporuje i ombudsman
+title: OSN chce posílit práva starších lidí, chystá proto novou Úmluvu. Její
+  vznik podporuje i ombudsman
 date: 2026-05-14T08:04:00
 vystupy:
   - tz
