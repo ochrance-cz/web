@@ -225,10 +225,6 @@ lawyers:
         phone: 542 542 251
         email: eva.vintrova@ochrance.cz
         role: právnička (sociálně-právní ochrana dětí, školství)
-      - name: Iva Vodáková
-        role: právnička (sociálně-právní ochrana dětí, pěstounská péče)
-        phone: 542 542 344
-        email: iva.vodakova@ochrance.cz
       - name: Veronika Bureš Barešová
         role: právnička (sociálně-právní ochrana dětí, vstupy do soudních řízení,
           monitoring)
@@ -682,8 +678,8 @@ lawyers:
         role: výzkumná pracovnice
         phone: 542 542 303
         email: magdalena.konecna@ochrance.cz
-      - name: Miriama Kanioková
-        role: výzkumná pracovnice, odborná referentka
-        email: miriama.kaniokova@ochrance.cz
-        phone: 542 542 208
+      - role: výzkumná pracovnice
+        name: Lucie Jirmásková
+        email: lucie.novotna@ochrance.cz
+        phone: 542 542 265
 ---
