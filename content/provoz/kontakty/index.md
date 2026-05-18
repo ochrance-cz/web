@@ -662,7 +662,7 @@ lawyers:
         role: vedoucí oddělení
         phone: 542 542 232
         email: jakub.konecny@ochrance.cz
-      - name: Lucie Novotná
+      - name: Lucie Jirmásková
         role: výzkumná pracovnice
         phone: 542 542 265
         email: lucie.novotna@ochrance.cz
@@ -678,8 +678,4 @@ lawyers:
         role: výzkumná pracovnice
         phone: 542 542 303
         email: magdalena.konecna@ochrance.cz
-      - role: výzkumná pracovnice
-        name: Lucie Jirmásková
-        email: lucie.novotna@ochrance.cz
-        phone: 542 542 265
 ---
