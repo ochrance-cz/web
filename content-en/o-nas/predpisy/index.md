@@ -1,6 +1,6 @@
 ---
 title: "Legal regulations "
-illustration: https://www.ochrance.cz/o-nas/predpisy/predpisy_hu6bb05f6896c7d7317330a7ab07097761_1871555_900x0_resize_q75_box.jpg
+illustration: predpisy.jpg
 ---
 <p>&nbsp;</p>
 <p>
