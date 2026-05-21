@@ -7,5 +7,8 @@ description: The Ombudsman (officially the Public Defender of Rights) protects
   also protects people from discrimination, performs visits to facilities
   housing people restricted in their freedom, strives to prevent ill-treatment
   and monitors the rights of people with disabilities.
+links:
+  - link: /en/o-nas/predpisy/
+    text: Legal regulations
 ---
 The Ombudsman is elected by the Chamber of Deputies of the Czech Republic from among candidates nominated by the President and the Senate. He is elected for a six-year term and cannot be removed from office. The Ombudsman has one Deputy who is also elected by the Chamber of Deputies. The Ombudsman may delegate some of his competences to the Deputy.
