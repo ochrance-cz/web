@@ -5,7 +5,9 @@ linksAfter: []
 <h2>
 <strong>Volná místa</strong></h2>
 <p>Aktuálně hledáme účetní/účetního. Více informací najdete v 
-<a href="https://www.ochrance.cz/aktualne/hledame_ucetni_nebo_ucetniho/">inzerátu</a>.</p>
+<a href="https://www.ochrance.cz/aktualne/hledame_ucetni_nebo_ucetniho/">inzerátu</a>.&nbsp;</p>
+<p>Hledáme také právníky a právničky do odborů sociálního zabezpečení a veřejného pořádku. Podrobnosti v 
+<a href="https://www.ochrance.cz/aktualne/hledame_pravniky_pravnicky_do_odboru_socialniho_zabezpeceni_a_verejneho_poradku/">inzerátu</a>.</p>
 <p>
 <strong>Stáže pro studenty právnických fakult</strong></p>
 <p>Na stáž se můžete přihlásit přes svou právnickou fakultu v&nbsp;Brně, Olomouci a Praze. Pokud nevíte, koho ve škole oslovit, napište kolegyni Haně Suské na adresu 
