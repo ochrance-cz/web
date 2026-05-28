@@ -141,9 +141,7 @@ sections:
 
           <p>Dále jsme upozornili na problematická místa 
 
-          <a href="https://mmr.gov.cz/cs/ministerstvo/stavebni-pravo/pravo-a-legislativa/novy-stavebni-zakon/metodiky/dotcene-organy-a-spolecne-metodiky/spolecne-stanovisko-mmr,-mz-a-mzp-k-problematice-a">Společného metodického stanoviska k&nbsp;problematice azbestu</a>, které vytvořilo Ministerstvo pro místní rozvoj ve spolupráci s&nbsp;Ministerstvem zdravotnictví a Ministerstvem životního prostředí. Ministerstva toto stanovisko zrevidovala a aktualizovala. Doporučili jsme také 
-
-          <a href="https://www.ochrance.cz/aktualne/ochrana_%20prirody_a_pamatek_v_ohrozeni_kvuli_novele_stavebniho_zakona-_ombudsman_se_%20obraci_na_poslance/dopis_vyborum_novela_stavebniho_zakona.pdf.">novelizaci</a> příslušných částí týkajících se azbestu ve stavebním zákoně. Podle nás to přispěje k&nbsp;dalšímu vyjasnění pravidel.</p>
+          <a href="https://mmr.gov.cz/cs/ministerstvo/stavebni-pravo/pravo-a-legislativa/novy-stavebni-zakon/metodiky/dotcene-organy-a-spolecne-metodiky/spolecne-stanovisko-mmr,-mz-a-mzp-k-problematice-a">Společného metodického stanoviska k&nbsp;problematice azbestu</a>, které vytvořilo Ministerstvo pro místní rozvoj ve spolupráci s&nbsp;Ministerstvem zdravotnictví a Ministerstvem životního prostředí. Ministerstva toto stanovisko zrevidovala a aktualizovala. Doporučili jsme také novelizaci příslušných částí týkajících se azbestu ve stavebním zákoně. Podle nás to přispěje k&nbsp;dalšímu vyjasnění pravidel.</p>
 
           <p>V našem 
 
