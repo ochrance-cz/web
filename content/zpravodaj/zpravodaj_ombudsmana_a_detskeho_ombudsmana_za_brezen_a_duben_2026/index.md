@@ -111,7 +111,7 @@ sections:
           <p>Po provedeném šetření jsme vyzvali ČSSZ, aby podrobně vysvětlila, jak hodnotila důkazy o rozsahu péče rodičů. Z odpovědi ČSSZ vyplynulo, že případ znovu posoudila. Dospěla k závěru, že otec pečoval o syna ve větším rozsahu, a splnil tak podmínky pro přiznání výchovného.</p>
       - title: "Chybný postup ČSSZ připravil seniora o stovky tisíc korun. Po našem
           zásahu mu doplatila téměř 900 tisíc "
-        id: sp. zn. 5274/2025/VOP
+        id: 5274/2025/VOP
         eso: https://eso.ochrance.cz/Nalezene/edit/14518
         body: >-
           <p>Česká správa sociálního zabezpečení (ČSSZ) muži roky vyplácela
