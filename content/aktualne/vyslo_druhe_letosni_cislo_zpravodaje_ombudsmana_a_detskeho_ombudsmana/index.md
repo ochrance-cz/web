@@ -1,5 +1,5 @@
 ---
-title: Vyšlo druhé letošní číslo Zpravodaje ombudsmana a dětského ombudsmana
+title: Vyšlo druhé letošní číslo Zpravodaje ombudsmana a dětského ombudsmana
 date: 2026-05-28T09:13:00
 vystupy:
   - aktualita
