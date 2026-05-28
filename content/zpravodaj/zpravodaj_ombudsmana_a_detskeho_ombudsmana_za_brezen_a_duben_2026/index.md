@@ -2,6 +2,7 @@
 title: Zpravodaj ombudsmana a dětského ombudsmana za březen a duben 2026
 month: 5
 year: 2026
+file: https://www.ochrance.cz/zpravodaj/zpravodaj_ombudsmana_a_detskeho_ombudsmana_za_brezen_a_duben_2026/zpravodaj_brezen_a_duben_2026.pdf
 sections:
   - title: Úvodní slovo
     articles:
