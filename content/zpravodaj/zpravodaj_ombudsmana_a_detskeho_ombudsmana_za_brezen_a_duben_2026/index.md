@@ -232,7 +232,7 @@ sections:
           <p>Vedení domova se k našim závěrům postavilo konstruktivně a přijalo vstřícná opatření. S jednou vychovatelkou, která neměla vůli změnit svůj výchovný přístup, dokonce rozvázalo pracovní poměr.</p>
       - title: "Usilujeme o přesun dětí z nevhodného prostředí Dětského domova Velké
           Heraltice "
-        id: sp. zn. 41/2024/NZ
+        id: 41/2024/NZ
         eso: https://eso.ochrance.cz/Nalezene/Edit/14448
         body: >-
           <p>V lednu 2025 jsme navštívili dětský domov ve Velkých Heralticích.
