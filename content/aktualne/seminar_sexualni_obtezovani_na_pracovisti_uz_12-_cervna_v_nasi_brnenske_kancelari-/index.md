@@ -1,5 +1,5 @@
 ---
-title: Seminář „Sexuální obtěžování na pracovišti“ už 12. června v naší brněnské
+title: Seminář „Sexuální obtěžování na pracovišti“ už 12. června v naší brněnské
   Kanceláři.
 date: 2026-05-29T08:57:00
 vystupy:
