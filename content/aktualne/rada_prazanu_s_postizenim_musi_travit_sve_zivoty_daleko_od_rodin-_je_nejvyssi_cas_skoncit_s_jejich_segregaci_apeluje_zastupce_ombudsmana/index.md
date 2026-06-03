@@ -20,8 +20,8 @@ attachments:
     file: https://www.ochrance.cz/uploads-import/ESO/OZP%2056-25-DST%20Praxe%20m%C4%9Bsta%20Prahy%20p%C5%99i%20z%C5%99izov%C3%A1n%C3%AD%20a%20rozvoji%20pobytov%C3%BDch%20soci%C3%A1ln%C3%ADch%20slu%C5%BEeb%20mimo%20sv%C3%A9%20%C3%BAzem%C3%AD_final_001.pdf
 ---
 <p>
-<i>„Pobytové sociální služby jsou vzdálené někdy i desítky kilometrů daleko. Pro rodinu nebo přátele je tak návštěva jejich blízkého během pracovního týdne prakticky nereálná,“</i> upozorňuje zástupce ombudsmana a dětského ombudsmana Vít Alexander Schorm.</p>
-<p>Podobných míst kraj Praha provozuje za svými hranicemi celkem 14. Od Prahy je dělí od 50 do 180 kilometrů, tedy přibližně hodina až dvě a půl hodiny cesty autem. To ale odporuje zákonu o sociálních službách, podle kterého musí každý kraj zajistit dostupné&nbsp;sociální služby na svém území.&nbsp;</p>
+<i>„Pobytové sociální služby jsou někdy vzdálené od Prahy i desítky kilometrů. Pro rodinu nebo přátele je tak návštěva jejich blízkého během pracovního týdne prakticky nereálná,“</i> upozorňuje zástupce ombudsmana a dětského ombudsmana Vít Alexander Schorm.</p>
+<p>Podobných míst kraj Praha provozuje za svými hranicemi celkem 14. Od Prahy je dělí od 50 do 170 kilometrů, tedy přibližně hodina až dvě a půl hodiny cesty autem. To ale odporuje zákonu o sociálních službách, podle kterého musí každý kraj zajistit dostupné&nbsp;sociální služby na svém území.&nbsp;</p>
 <blockquote>
 <p>14 z 28 zařízení, které&nbsp;zřizuje hlavní město Praha, poskytuje sociální služby i mimo území Prahy. Nachází se v&nbsp;6 různých krajích.</p></blockquote>
 <p>
