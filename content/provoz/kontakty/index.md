@@ -270,6 +270,10 @@ lawyers:
         role: právnička (monitoring)
         phone: 542 542 207
         email: marie.matuskova@ochrance.cz
+      - name: Michaela Klečková
+        role: odborná referentka (monitoring)
+        phone: 542 542 225
+        email: michaela.kleckova@ochrance.cz
   - title: Odbor veřejného pořádku, zdravotnictví a práce
     intro: >
       matriky, evidence obyvatel, občanské a cestovní průkazy, státní občanství,
