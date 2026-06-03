@@ -16,7 +16,7 @@ perex: <p>Kriticky málo pobytových sociálních služeb svým obyvatelům
   kde žijí.</p>
 attachments:
   - title: Factsheet
-    file: https://www.ochrance.cz/aktualne/rada_prazanu_s_postizenim_musi_travit_sve_zivoty_daleko_od_rodin-_je_nejvyssi_cas_skoncit_s_jejich_segregaci_apeluje_zastupce_ombudsmana/factsheet_pdf.pdf
+    file: ""
   - title: Územní dostupnost pobytových sociálních služeb zřizovaných hlavním městem
       Prahou – stanovisko zástupce ombudsmana v plném znění
     file: https://www.ochrance.cz/uploads-import/ESO/OZP%2056-25-DST%20Praxe%20m%C4%9Bsta%20Prahy%20p%C5%99i%20z%C5%99izov%C3%A1n%C3%AD%20a%20rozvoji%20pobytov%C3%BDch%20soci%C3%A1ln%C3%ADch%20slu%C5%BEeb%20mimo%20sv%C3%A9%20%C3%BAzem%C3%AD_final_001.pdf
