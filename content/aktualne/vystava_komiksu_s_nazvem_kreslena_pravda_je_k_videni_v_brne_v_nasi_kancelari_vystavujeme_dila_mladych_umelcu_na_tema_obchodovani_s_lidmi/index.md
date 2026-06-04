@@ -16,7 +16,7 @@ perex: <p>Do konce srpna si můžou lidé prohlédnout výstavu komiksů přímo
 <blockquote>
 <p>
 <strong>Znepokojivá data</strong></p>
-<p>Dle zprávy UNODC z roku 2024 se počet dětí mezi odhalenými oběťmi zvýšil o 31 %, přičemž počet dívek vzrostl o 38 %. Přibližně 45 % chlapců je obchodováno za účelem nucené práce, zatímco dívky jsou nejčastěji oběťmi sexuálního vykořisťování. Děti jsou prodávány a kupovány za nejrůznějšími účely, včetně adopcí na černém trhu, nucené práce na plantážích, v továrnách nebo jako žebráci. Jejich dětství je jim krutě odebráno a nahrazeno traumatem, fyzickým i psychickým
+<p>Dle zprávy UNODC z roku 2024 se počet dětí mezi odhalenými oběťmi zvýšil o 31 %, přičemž počet dívek vzrostl o 38 %. Přibližně 45 % chlapců je obchodováno za účelem nucené práce, zatímco dívky jsou nejčastěji oběťmi sexuálního vykořisťování. Děti jsou prodávány a kupovány za nejrůznějšími účely, včetně adopcí na černém trhu, nucené práce na plantážích, v továrnách nebo jako žebráci. Jejich dětství je jim krutě odebráno a nahrazeno traumatem, fyzickým i psychickým&nbsp;
 <br>násilím. Často jsou odděleny od svých rodin, což jim znemožňuje jakoukoliv pomoc a podporu. Důsledky na jejich psychický vývoj jsou zničující a provázejí je po celý život.</p></blockquote>
 <figure class="table">
 <table>
@@ -25,10 +25,13 @@ perex: <p>Do konce srpna si můžou lidé prohlédnout výstavu komiksů přímo
 <td>
 <p>&nbsp;</p>
 <figure class="image">
-<img src="https://www.ochrance.cz/aktualne/vystava_komiksu_s_nazvem_kreslena_pravda_je_k_videni_v_brne_v_nasi_kancelari_vystavujeme_dila_mladych_umelcu_na_tema_obchodovani_s_lidmi/4.png" alt="Na snímnku je jeden z vystavených návrhů výstavy."></figure></td>
+<img src="https://www.ochrance.cz/aktualne/vystava_komiksu_s_nazvem_kreslena_pravda_je_k_videni_v_brne_v_nasi_kancelari_vystavujeme_dila_mladych_umelcu_na_tema_obchodovani_s_lidmi/4.png" alt="Na snímnku je jeden z vystavených návrhů výstavy."></figure>
+<p>&nbsp;</p></td>
 <td>
+<p>&nbsp;</p>
 <figure class="image">
-<img src="https://www.ochrance.cz/aktualne/vystava_komiksu_s_nazvem_kreslena_pravda_je_k_videni_v_brne_v_nasi_kancelari_vystavujeme_dila_mladych_umelcu_na_tema_obchodovani_s_lidmi/2.png" alt="Na obrázku je dětský pěvecký sbor, který přišel výstavu zahájit."></figure></td></tr></tbody></table></figure>
+<img src="https://www.ochrance.cz/aktualne/vystava_komiksu_s_nazvem_kreslena_pravda_je_k_videni_v_brne_v_nasi_kancelari_vystavujeme_dila_mladych_umelcu_na_tema_obchodovani_s_lidmi/2.png" alt="Na obrázku je dětský pěvecký sbor, který přišel výstavu zahájit."></figure>
+<p>&nbsp;</p></td></tr></tbody></table></figure>
 <p>Potřeba zvyšovat povědomí o nucené práci mezi dětmi vzrostla spolu s&nbsp;přílivem dětí a mladistvých, kteří se do Česka odstěhovali v&nbsp;důsledku ruské invaze na Ukrajinu. Ti se často ocitají ve velmi zranitelné pozici. Z&nbsp;potřeby komunikovat více s dětmi vzešel nápad nechat mladé lidi najít jazyk, kterému jasně a názorně porozumí. A tím jazykem se staly příběhy zpracované komiksem.</p>
 <blockquote>
 <p>
