@@ -3,7 +3,7 @@ title: Vybudování účinného monitorovacího mechanismu dodržování lidský
   při provádění prvotního prověřování a azylového řízení na hranicích
 ongoing: true
 illustration:
-  pic: spolufinancovano_evropskou_unii_barevne_rgb.jpg
+  pic: ""
   desc: Spolufinancováno Evropskou unií
 ---
 <p>Dne 1. 6. 2026 Kancelář veřejného ochránce práv a ochránce práv dětí (dále jen „Kancelář“) zahájila realizaci tříletého projektu reg. č. CZ.14.01.01/00/26_017/0000018 Vybudování účinného monitorovacího mechanismu dodržování lidských práv při provádění prvotního prověřování a azylového řízení na hranicích, který je spolufinancován Evropskou unií prostřednictvím operačního programu Nástroje pro finanční podporu správy hranic a vízové politiky.&nbsp;
@@ -32,3 +32,5 @@ illustration:
 <br>Kancelář v rámci projektu bude klást důraz na informování odborné i laické veřejnosti. Za tímto účelem zaměstnanci připraví články do zpravodaje Kanceláře a do dalších odborných publikací. Vydáme v průběhu projektu tři odborné články o činnosti související s monitoringem.&nbsp;
 <br>Zaměstnanci se se svými poznatky a zkušenostmi též zúčastní tematických setkání, na nichž odprezentují výstupy ze své činnosti. &nbsp;V průběhu projektu Kancelář vydá tři výroční zprávy, které budou zahrnovat kapitolu o nezávislém monitorovacím mechanismu.&nbsp;
 <br>&nbsp;</p>
+<figure class="image">
+<img src="spolufinancovano_evropskou_unii_barevne_rgb.jpg" alt="Spolufinancováno Evropskou unií"></figure>
