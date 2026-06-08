@@ -23,13 +23,10 @@ illustration:
 <br>Zaměstnanci Kanceláře připraví metodické materiály k provádění monitoringu.</p>
 <p>
 <strong>Podpora vzdělávání a mezinárodní spolupráce</strong>&nbsp;
-<br>Pro rozvoj odborné kvalifikace, dostatečného přehledu v oborech zahrnujících prověřování i&nbsp;
-<br>dovedností potřebných k monitorování, se bude projektový tým účastnit relevantních vzdělávacích&nbsp;
-<br>akcí na vnitrostátní i mezinárodní úrovni.</p>
+<br>Pro rozvoj odborné kvalifikace, dostatečného přehledu v oborech zahrnujících prověřování i dovedností potřebných k monitorování, se bude projektový tým účastnit relevantních vzdělávacích akcí na vnitrostátní i mezinárodní úrovni.</p>
 <p>
 <strong>Osvětová a publikační činnost</strong>&nbsp;
-<br>Vzhledem k tomu, že se na národní i mezinárodní úrovni jedná o zcela nový monitorovací mandát,&nbsp;
-<br>Kancelář v rámci projektu bude klást důraz na informování odborné i laické veřejnosti. Za tímto účelem zaměstnanci připraví články do zpravodaje Kanceláře a do dalších odborných publikací. Vydáme v průběhu projektu tři odborné články o činnosti související s monitoringem.&nbsp;
+<br>Vzhledem k tomu, že se na národní i mezinárodní úrovni jedná o zcela nový monitorovací mandát, Kancelář v rámci projektu bude klást důraz na informování odborné i laické veřejnosti. Za tímto účelem zaměstnanci připraví články do zpravodaje Kanceláře a do dalších odborných publikací. Vydáme v průběhu projektu tři odborné články o činnosti související s monitoringem.&nbsp;
 <br>Zaměstnanci se se svými poznatky a zkušenostmi též zúčastní tematických setkání, na nichž odprezentují výstupy ze své činnosti. &nbsp;V průběhu projektu Kancelář vydá tři výroční zprávy, které budou zahrnovat kapitolu o nezávislém monitorovacím mechanismu.&nbsp;
 <br>&nbsp;</p>
 <figure class="image">
