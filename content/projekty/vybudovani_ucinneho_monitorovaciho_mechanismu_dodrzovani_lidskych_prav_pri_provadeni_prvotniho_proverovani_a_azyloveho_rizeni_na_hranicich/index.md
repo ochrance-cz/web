@@ -15,7 +15,7 @@ illustration:
 <strong>Monitoring prvotního prověřování (screeningu) na vstupu</strong>&nbsp;
 <br>Jedna z hlavních činností Kanceláře v rámci nového mandátu spočívá ve sledování postupu prvotního prověřování cizinců zachycených při vstupu na území bez platných cestovních povolení či dokladů. V kontextu České republiky se tak může stát na vnějších hranicích, tedy na mezinárodních letištích s lety mimo Schengenský prostor. Prvotní prověřování se bude týkat i cizinců zachycených kdekoli na území ČR, kteří tímto prověřováním dosud neprošli. Typicky se bude jednat o cizince v tranzitní situaci. Úkolem nezávislého monitorovacího mechanismu je sledovat soulad prověřování s lidskoprávními závazky.</p>
 <p>
-<strong>&nbsp;Monitoring azylového řízení na hranicích</strong>&nbsp;
+<strong>Monitoring azylového řízení na hranicích</strong>&nbsp;
 <br>Další klíčovou činností Kanceláře bude analogická monitorovací činnost ve vztahu k žadatelům o mezinárodní ochranu, vůči nimž bude vedeno řízení na hranicích. Toto řízení se bude konat v přijímacím středisku na letišti Václava Havla v Praze, případně v jiném zařízení určeném ministerstvem vnitra.&nbsp;
 <br>Součástí monitorování bude i přístup k azylovému řízení, tudíž monitorování bude probíhat i v tranzitních prostorech letiště. V rámci monitorovací činnosti se mohou zaměstnanci Kanceláře zaměřit na veškeré činnosti týkající se státních příslušníků třetích osob, jejichž žádosti o azyl jsou posuzovány v rámci řízení na hranicích.</p>
 <p>
