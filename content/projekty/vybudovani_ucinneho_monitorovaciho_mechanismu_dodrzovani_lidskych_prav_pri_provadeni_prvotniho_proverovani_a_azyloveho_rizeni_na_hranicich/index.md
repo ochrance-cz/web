@@ -1,6 +1,7 @@
 ---
 title: Vybudování účinného monitorovacího mechanismu dodržování lidských práv
   při provádění prvotního prověřování a azylového řízení na hranicích
+ongoing: true
 illustration:
   pic: spolufinancovano_evropskou_unii_barevne_rgb.jpg
   desc: Spolufinancováno Evropskou unií
