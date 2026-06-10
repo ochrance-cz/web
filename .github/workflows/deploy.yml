@@ -2,7 +2,9 @@ name: Full update to production
 
 concurrency:
   group: production
-  cancel-in-progress: true
+  # Nikdy nerusit bezici deploy v pulce - prerusene SSH prikazy nechavaji
+  # na serveru nedokonceny stav a zbytky zabirajici diskovou kvotu.
+  cancel-in-progress: false
 
 env:
   NAME: full-${{ github.run_number }}
@@ -66,23 +68,30 @@ jobs:
           port: ${{ secrets.SSH_PORT }}
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           script: |
+            set -eu
             cd /home/ochrance/tmp
-            echo ${{ github.run_number }} > DEPLOY-RUN-NUMBER.txt
-            mkdir -p ${{ env.NAME }}/build
 
+            # Uklid po predchozich (i zrusenych/spadlych) bezich, at nezabiraji diskovou kvotu.
+            # Vzor full-[0-9]* / partial-[0-9]* odpovida presne tomu, co vytvareji tyto
+            # workflows (full-<run_number> apod.) - nicemu jinemu se nedotkne.
+            find . -maxdepth 1 -name 'full-[0-9]*' -not -name '${{ env.NAME }}*' -exec rm -rf {} +
+            find . -maxdepth 1 -name 'partial-[0-9]*' -exec rm -rf {} +
+
+            mkdir -p ${{ env.NAME }}/build
             cd ${{ env.NAME }}
+
+            # Pri chybe rozbalovani (napr. plna kvota) skript diky `set -e` skonci
+            # JESTE PRED prohozenim adresaru - na webu zustane bezet stara verze.
             tar -xf ../${{ env.NAME }}.tar.gz -C ./build --strip-components=2
 
-            if [[ $(<../DEPLOY-RUN-NUMBER.txt) > ${{ github.run_number }} ]]; then
-              echo "Newer Github workflow detected. Aborting directory overwrite."
-            else
-              mv ${{ env.DEST }} old
-              mv build ${{ env.DEST }}
-            fi
+            # Tarball uz neni potreba - uvolni ~3 GB kvoty pred prohozenim
+            rm ../${{ env.NAME }}.tar.gz
+
+            mv ${{ env.DEST }} old
+            mv build ${{ env.DEST }}
 
             cd ..
             rm -rf ${{ env.NAME }}
-            rm ${{ env.NAME }}.tar.gz
 
       - name: Update search indices
         uses: appleboy/ssh-action@v1.2.0

@@ -2,7 +2,9 @@ name: Partial update to production
 
 concurrency:
   group: production
-  cancel-in-progress: true
+  # Nikdy nerusit bezici deploy v pulce - prerusene SSH prikazy nechavaji
+  # na serveru nedokonceny stav a zbytky zabirajici diskovou kvotu.
+  cancel-in-progress: false
 
 env:
   NAME: partial-${{ github.run_number }}
@@ -88,22 +90,25 @@ jobs:
           port: ${{ secrets.SSH_PORT }}
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           script: |
+            set -eu
             cd /home/ochrance/tmp
-            echo ${{ github.run_number }} > PARTIAL-RUN-NUMBER.txt
+
+            # Uklid po predchozich (i zrusenych/spadlych) bezich, at nezabiraji diskovou kvotu.
+            # Vzor partial-[0-9]* odpovida presne tomu, co vytvari tento workflow.
+            find . -maxdepth 1 -name 'partial-[0-9]*' -not -name '${{ env.NAME }}*' -exec rm -rf {} +
+
             mkdir -p ${{ env.NAME }}/build
-
             cd ${{ env.NAME }}
-            tar -xf ../${{ env.NAME }}.tar.gz -C ./build --strip-components=3
 
-            if [[ $(<PARTIAL-RUN-NUMBER.txt) > ${{ github.run_number }} ]]; then
-              echo "Newer Github workflow detected. Aborting directory overwrite."
-            else
-              rsync -a ./build/ ${{ env.DEST }}/
-            fi
+            # Pri chybe rozbalovani (napr. plna kvota) skript diky `set -e` skonci
+            # drive, nez se cokoliv dotkne ostre verze webu.
+            tar -xf ../${{ env.NAME }}.tar.gz -C ./build --strip-components=3
+            rm ../${{ env.NAME }}.tar.gz
+
+            rsync -a ./build/ ${{ env.DEST }}/
 
             cd ..
             rm -rf ${{ env.NAME }}
-            rm ${{ env.NAME }}.tar.gz
 
       - name: Update search indices
         uses: appleboy/ssh-action@v1.2.0
