@@ -3,6 +3,8 @@ title: Právní prostředky prevence a ochrany před sexuálním obtěžováním
 perex: "Výzkumná zpráva vznikla v rámci projektu VIOLET – Towards workplaces
   without sexual harassment and violence, 101195098 CERV-2024-DAPHNE. "
 date: 2026-06-09
+vystupy:
+  - vyzkumy
 attachmentsTop:
   - title: Právní prostředky prevence a ochrany před sexuálním obtěžováním na
       pracovišti (Výzkumná zpráva 2026)
