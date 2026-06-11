@@ -10,6 +10,10 @@ perex: <p>Mohou si pacienti během svého vyšetření nahrávat lékaře? A moh
   v&nbsp;nové metodice. Svým odborným pohledem do ní přispěla i&nbsp;Kancelář
   ombudsmana a dětského ombudsmana. Metodika je nyní v&nbsp;připomínkovém
   řízení, po jeho skončení by mohla vstoupit v&nbsp;platnost.</p>
+attachments:
+  - link: https://mzd.gov.cz/ministerstvo-zahajilo-verejnou-konzultaci-k-porizovani-nahravek-zdravotniku/
+    title: "Návrh metodiky „Pořizování nahrávek zdravotníků a jejich využití při
+      šetření stížností a ve správním řízení“ "
 ---
 <p>Nahrávání lékařů pacienty a jejich blízkými – téma, které vyvolává emoce i právní otázky. Je pořizování takových záznamů legální? Jak s nimi nakládat? &nbsp;A obstojí jako důkaz v&nbsp;případě sporu? Právě na to se zaměřuje návrh nové metodiky Ministerstva zdravotnictví, který vznikl v&nbsp;těsné spolupráci s&nbsp;Kanceláří ombudsmana a dětského ombudsmana.&nbsp;</p>
 <blockquote>
