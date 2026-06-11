@@ -2,6 +2,8 @@
 title: Nahrávat či nenahrávat v lékařských ordinacích? Pacientům i lékařům to
   vyjasní nová metodika, na které se podílela i Kancelář ombudsmana
 date: 2026-06-11T08:31:00
+vystupy:
+  - tz
 perex: <p>Mohou si pacienti během svého vyšetření nahrávat lékaře? A mohou si
   pořídit záznam i bez jeho vědomí? Kolem těchto otázek v praxi panuje řada
   sporů a nejistot. Ministerstvo zdravotnictví na ně přináší odpovědi
