@@ -16,7 +16,7 @@ illustration:
 <a href="https://www.snslp.sk/en/project-violet/ ">
 <strong>Violet</strong></a>.&nbsp;</p>
 <figure class="image">
-<img src="fb_z_minule_2_.png" alt="Logo projektu, Logo Evropské unie a text Spolufinancováno Evropskou unií"></figure>
+<img src="loga_mensi.png" alt="Logo projektu, Logo Evropské unie a text Spolufinancováno Evropskou unií"></figure>
 <p>&nbsp;</p>
 <blockquote>
 <p>
@@ -30,6 +30,6 @@ illustration:
 <strong>Prevention and Protection from Sexual Harassment at Work in the Czech Republic (Executive Summary of National Report on Legal Framework and Judicial Practice)</strong></a></li>
 <li>
 <a href="https://www.ochrance.cz/aktualne/seminar_sexualni_obtezovani_na_pracovisti_uz_12-_cervna_v_nasi_brnenske_kancelari-/">
-<strong>12. 6. 2026 proběhl seminář Sexuální obtěžování na pracovišti </strong>,</a> 
+<strong>12. 6. 2026 proběhl seminář Sexuální obtěžování na pracovišti</strong>,</a> 
 <a href="https://www.facebook.com/verejny.ochrance.prav/posts/setkali-jste-se-v-pr%C3%A1ci-se-sexu%C3%A1ln%C3%ADm-obt%C4%9B%C5%BEov%C3%A1n%C3%ADm-v%C3%ADte-jak-se-br%C3%A1nit-informujte-s/1307383744910226/">(prohlédněte si fotografie na facebooku)</a></li></ul></blockquote>
 <p>&nbsp;</p>
