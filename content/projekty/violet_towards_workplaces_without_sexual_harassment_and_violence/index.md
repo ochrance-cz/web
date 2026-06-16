@@ -20,7 +20,7 @@ illustration:
 <p>&nbsp;</p>
 <blockquote>
 <p>
-<strong>Co se již v rámci projektu vzniklo?</strong></p>
+<strong>Co již v rámci projektu vzniklo?</strong></p>
 <ul>
 <li>
 <a href="https://www.ochrance.cz/dokument/pravni_prostredky_prevence_a_ochrany_pred_sexualnim_obtezovanim_na_pracovisti/pravni_prostredky_prevence_a_ochrany_pred_sexualnim_obtezovanim_na_pracovisti_vyzkumna_zprava_2026.pdf">
