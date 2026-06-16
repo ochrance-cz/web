@@ -3,6 +3,9 @@ title: Zprávy pro Poslaneckou sněmovnu 2025
 date: 2025-07-31
 vystupy:
   - vyrocni-zprava
+attachmentsTop:
+  - file: https://youtube.com/shorts/zOcsMmRT9qg?si=jeSt2QZEa0TD_ai6
+    title: Video Rok 2025 v kostce
 ---
 <p>
 <a href="https://www.ochrance.cz/dokument/zpravy_pro_poslaneckou_snemovnu_2025/2025-i-q.pdf">Zpráva za 1. čtvrtletí roku 2025</a></p>
