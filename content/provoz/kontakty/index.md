@@ -456,10 +456,6 @@ lawyers:
         phone: 542 542 357
         role: právnička (státní správa soudů)
         email: petra.lisonkova@ochrance.cz
-      - name: Lenka Horáková
-        role: právnička (věci cizinců)
-        phone: 542 542 431
-        email: "lenka.horakova@ochrance.cz "
   - title: Odbor rovného zacházení
     intro: >
       poskytování metodické pomoci obětem diskriminace, provádění výzkumu v
