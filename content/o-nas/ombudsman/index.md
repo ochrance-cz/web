@@ -21,9 +21,7 @@ bio: >-
   Její celoživotní snahou bylo, aby stát jednal férově a spravedlivě. A právě proto se součástí její profesní dráhy stala i aktivní ochrana lidských práv. V roce 2020 opustila Finanční správu a nastoupila do Kanceláře veřejného ochránce práv. Zde se podílela jak na šetření individuálních podnětů, tak i na prosazování systémových změn. Připravovala doporučení ke změnám právních předpisů a přispívala i k prosazování principů dobré správy, nediskriminace a ochrany zranitelných osob.
 
 
-  Věnovala se publikační i přednáškové činnosti. Její odborné znalosti jí přinesly ocenění i uznání v odborné komunitě. Vedle češtiny ovládá také němčinu. Ve volném čase se zajímá o historii a architekturu, řadu let je
-
-  členkou Muzejní a vlastivědné společnosti v Brně.
+  Věnovala se publikační i přednáškové činnosti. Její odborné znalosti jí přinesly ocenění i uznání v odborné komunitě. Vedle češtiny ovládá také němčinu. Ve volném čase se zajímá o historii a architekturu, řadu let je členkou Muzejní a vlastivědné společnosti v Brně.
 
 
   Funkci ombudsmanky vnímá především jako závazek aktivně chránit práva lidí a posilovat důvěru veřejnosti ve
