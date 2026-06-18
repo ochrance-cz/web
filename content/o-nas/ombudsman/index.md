@@ -1,38 +1,34 @@
 ---
-title: Veřejný ochránce práv
-name: JUDr. Stanislav Křeček
-pic: krecek-vyrez2.jpg
+title: Veřejná ochránkyně práv
+name: JUDr. Eva Kostolanská
+pic: img-20260408-wa0001.jpg
 order: 1
 footerPic: /images/kontakt.jpg
-quote: „Právo je tu proto, aby mocní nemohli vše.“
+quote: ""
 bio: >-
-  Funkční období od 19. února 2020.
+  Slib do funkce veřejné ochránkyně práv složila 18. června 2026.
 
 
-  JUDr. Stanislav Křeček se narodil 20. května 1938 v Praze. Vystudoval průmyslovou školu geologickou a výtvarnou školu. Pracoval jako výtvarník, geolog, horník, dělník aj. Po absolvování Právnické fakulty Univerzity Karlovy se stal soudním čekatelem u Městského soudu v Praze, avšak v 70. letech 20. století byl nucen z politických důvodů justici opustit. Od roku 1990 se věnoval advokacii.
+  Vystudovala práva na Univerzitě Jana Evangelisty Purkyně (dnes Masarykova univerzita). 
 
 
-  V letech 2006 – 2010 zasedal v zastupitelstvu Městské části Praha 2.
+  V počátcích svého profesního života pracovala jako právnička na Jihomoravském krajském národním výboru. Později působila v několika úřadech české finanční správy – naposledy od roku 2016 jako ředitelka Sekce právní na Generálním finančním ředitelství. 
 
 
-  Od roku 1998 do dubna 2013 byl poslancem za ČSSD v Poslanecké sněmovně Parlamentu ČR.
+  Mimo jiné Finanční správu ČR metodicky vedla ve svěřených oblastech. Podílela se také na přípravě některých zákonů. Vedla řadu jednání před správními soudy a civilními soudy všech stupňů. Již na této pozici úzce spolupracovala také s Kanceláří veřejného ochránce práv.
 
 
-  3. dubna 2013 byl zvolen zástupcem veřejného ochránce práv a v souladu se zákonem se poslaneckého mandátu vzdal. Funkci zástupce veřejného ochránce práv vykonával od 5. 4. 2013 do 3. 12. 2019.
-
-  4. února 2020 byl zvolen veřejným ochráncem práv.
+  Její celoživotní snahou bylo, aby stát jednal férově a spravedlivě. A právě proto se součástí její profesní dráhy stala i aktivní ochrana lidských práv. V roce 2020 opustila Finanční správu a nastoupila do Kanceláře veřejného ochránce práv. Zde se podílela jak na šetření individuálních podnětů, tak i na prosazování systémových změn. Připravovala doporučení ke změnám právních předpisů a přispívala i k prosazování principů dobré správy, nediskriminace a ochrany zranitelných osob.
 
 
-  Dlouhodobě se věnuje problematice nájemních vztahů – v roce 1991 se stal spoluzakladatelem a předsedou Sdružení na ochranu nájemníků.
+  Věnovala se publikační i přednáškové činnosti. Její odborné znalosti jí přinesly ocenění i uznání v odborné komunitě. Vedle češtiny ovládá také němčinu. Ve volném čase se zajímá o historii a architekturu, řadu let je
+
+  členkou Muzejní a vlastivědné společnosti v Brně.
 
 
-  Angažoval se v Československé straně socialistické, za níž se stal v roce 1990 v rámci procesu kooptace poslancem České národní rady. Od roku 1993 byl členem České strany sociálně demokratické (ČSSD).
+  Funkci ombudsmanky vnímá především jako závazek aktivně chránit práva lidí a posilovat důvěru veřejnosti ve
 
-
-  V rámci poslaneckého mandátu byl mj. místopředsedou ústavně právního výboru Poslanecké sněmovny, členem mandátového a imunitního výboru, petičního výboru, volebního výboru, podvýboru pro lidská práva a dalších.
-
-
-  Jako zástupce veřejného ochránce práv v letech 2013 – 2019 se věnoval zejména problematice stavebního řádu, státní správy soudů, ochraně spotřebitele, pozemkovému právu a činnosti katastrálních úřadů, problematice pozemních komunikací, práva na informace, přestupkům aj.
+  spravedlivý a fungující stát.
 areas:
   - area: Sociální zabezpečení
     desc: Dávky pomoci v hmotné nouzi, pro zdravotně postižené, příspěvky na péči
