@@ -24,9 +24,7 @@ bio: >-
   Věnovala se publikační i přednáškové činnosti. Její odborné znalosti jí přinesly ocenění i uznání v odborné komunitě. Vedle češtiny ovládá také němčinu. Ve volném čase se zajímá o historii a architekturu, řadu let je členkou Muzejní a vlastivědné společnosti v Brně.
 
 
-  Funkci ombudsmanky vnímá především jako závazek aktivně chránit práva lidí a posilovat důvěru veřejnosti ve
-
-  spravedlivý a fungující stát.
+  Funkci ombudsmanky vnímá především jako závazek aktivně chránit práva lidí a posilovat důvěru veřejnosti ve spravedlivý a fungující stát.
 areas:
   - area: Sociální zabezpečení
     desc: Dávky pomoci v hmotné nouzi, pro zdravotně postižené, příspěvky na péči
