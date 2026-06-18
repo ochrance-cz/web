@@ -1,5 +1,5 @@
 ---
-title: Zástupce veřejného ochránce práv a ochránce práv dětí
+title: Zástupce veřejné ochránkyně práv a ochránce práv dětí
 name: JUDr. Vít Alexander Schorm
 pic: zvop_schorm_-_kopie_orez.jpg
 order: 2
