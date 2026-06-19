@@ -23,7 +23,7 @@ attachments:
 <p>Jako kandidátku na novou ombudsmanku navrhla právničku Evu Kostolanskou hned dvě nominační místa – Česká konference rektorů a Senát. Do funkce ji zvolili poslanci 5. června, slib složila 18. června.</p>
 <figure class="image">
 <img src="https://www.ochrance.cz/aktualne/za_kazdym_podnetem_je_konkretni_lidsky_pribeh_rika_nova_ombudsmanka_eva_kostolanska-_ta_dnes_zahajila_praci_ve_sve_nove_funkci/foto_kps_lukas_janicina_1_.jpg" alt="Slavnostní slib veřejné ochránkyně práv Evy Kostolanské">
-<figcaption>Slavnostní slib veřejné ochránkyně práv Evy Kostolanské, FOTO: KPS/Lukáš Janičina</figcaption></figure>
+<figcaption>Slavnostní slib veřejné ochránkyně práv Evy Kostolanské, FOTO: Kancelář Poslanecké sněmovny ČR / Lukáš Janičina</figcaption></figure>
 <blockquote>
 <p>
 <strong>Dosavadní čeští ombudsmani</strong></p>
