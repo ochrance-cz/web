@@ -13,7 +13,6 @@ chapters:
   - chapter: 4-pristupnost-zamestnavani
   - chapter: 5-pristupnost-v-cislech
   - chapter: 6-prakticke-rady
-  - chapter: 7-uzitecne-kontakty
 ---
 
 Přístupnost nemíří jen na člověka s postižením, ale také na člověka s berlí, kočárkem, kufrem, různým vzděláním, jednoduše na každého. Nezáleží na diagnóze, ale na potřebách. Pokud se chcete dozvědět více, poslechněte si náš [podcast k přístupnosti](https://www.ochrance.cz/aktualne/na_kavu_s_ombudsmanem_122-_dil_pristupnost_by_mela_byt_zaklad_ne_luxus/).
@@ -37,6 +36,5 @@ Následují podrobnější informace rozdělené do těchto oblastí:
 4. [Přístupnost zaměstnávání](./4-pristupnost-zamestnavani/)
 5. [Přístupnost v číslech](./5-pristupnost-v-cislech/)
 6. [Praktické rady](./6-prakticke-rady/)
-7. [Užitečné kontakty](./7-uzitecne-kontakty/)
 
 </div>
