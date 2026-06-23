@@ -37,7 +37,7 @@ attachments:
 <p>Největší z trojice zařízení je Hotel Schindlerův Háj ve Svitavách. Sami pečovatelé tamější klienty popsali jako vyloučené lidi, kteří potřebují různou míru i formu pomoci.&nbsp;</p>
 <p>Prostředí služby hodnotil Vít Alexander Schorm jako velmi neutěšené. Deky klientů byly propálené od cigaret. Nábytek pokrývaly skvrny – možná od moči, jak naznačil jeden z pečujících. Stěny v&nbsp;přízemí se vlivem vlhkosti loupaly. Část toalet byla velmi zanesená. Určité části budovy prostupoval silný zápach. Zařízení nesplňovalo ani požární předpisy.</p>
 <p>Zároveň personál v&nbsp;některých situacích opomíjel i důstojnost klientů. 
-<i>„Byli jsme svědky toho, že lidé, kteří měli potíže s&nbsp;polykáním, dostali k&nbsp;obědu francouzské brambory rozmixované dohromady s&nbsp;čočkovou polévkou. Tento oběd obdrželi v plastové lahvi Rajec se savičkou</i> * 
+<i>„Byli jsme svědky toho, že lidé, kteří měli potíže s&nbsp;polykáním, dostali k&nbsp;obědu francouzské brambory rozmixované dohromady s&nbsp;čočkovou polévkou. Tento oběd obdrželi v plastové lahvi Rajec se savičkou</i>* 
 <i>,“</i> uvedl příklad Schorm.&nbsp;</p>
 <p>
 <strong>Českobudějovické zařízení v ulici K&nbsp;Rybníku</strong></p>
