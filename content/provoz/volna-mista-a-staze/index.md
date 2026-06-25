@@ -5,7 +5,7 @@ linksAfter: []
 <h2>
 <strong>Volná místa</strong></h2>
 <p>V tuto chvíli 
-<a href="https://www.ochrance.cz/aktualne/hledame_personalistu_nebo_personalistku/">Hledáme personalistu nebo personalistku</a></p>
+<a href="https://www.ochrance.cz/aktualne/hledame_personalistu_nebo_personalistku/">Hledáme personalistu nebo personalistku</a>.</p>
 <p>Pokud se přesto chcete ucházet o místo, pošlete nám svůj životopis na adresu 
 <a href="mailto:michalcova@ochrance.cz">michalcova@ochrance.cz</a> a napište, o jakou práci máte zájem.</p>
 <p>
