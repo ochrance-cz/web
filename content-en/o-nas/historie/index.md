@@ -36,4 +36,7 @@ timeline:
     desc: The first “true” ombudsman post was established by Swedish King Charles
       XII (discounting some previous positions of a similar nature, e.g., the
       Roman tribune of the plebs).
+  - desc: The Public Defender of Rights JUDr. Eva Kostolanská, the Deputy Public
+      Defender of Rights JUDr. Vít Alexander Schorm
+    time: "2026"
 ---
