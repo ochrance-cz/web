@@ -34,9 +34,8 @@ bio: >-
 areas:
   - area: Ochrana dětí, mládeže a rodiny
     desc: Činnost orgánů OSPOD, ústavní výchova, dávky pěstounské péče
-  - area: "Věci cizinců "
-    desc: Pobyt cizinců, azylové řízení a integrace azylantů, rozhodnutí o správním
-      vyhoštění, rozhodnutí o zajištění, konzulární služba aj.
+  - area: Rovné zacházení a ochrana před diskriminací
+    desc: ""
   - area: "Státní správa soudnictví "
     desc: >
       Průtahy v soudním řízení, nevhodné chování soudních osob, Probační a
