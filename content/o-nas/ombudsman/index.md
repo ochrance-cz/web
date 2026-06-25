@@ -46,6 +46,9 @@ areas:
     desc: proti veřejnému pořádku, občanskému soužití a majetku, přestupky v doprav
   - area: Daně, poplatky a cla
     desc: daně a správa daní, místní poplatky, správní poplatky, cla
+  - area: Věci cizinců
+    desc: Pobyt cizinců, azylové řízení a integrace azylantů, rozhodnutí o správním
+      vyhoštění, rozhodnutí o zajištění, konzulární služba aj.
   - area: Podnikání a ochrana spotřebitele
     desc: správa na úseku podnikání, činnost živnostenských úřadů, ochrana
       spotřebitele, ČOI
