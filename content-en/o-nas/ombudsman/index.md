@@ -1,34 +1,25 @@
 ---
 title: Public Defender of Rights
-name: Stanislav Křeček
-pic: krecek-vyrez.jpg
+name: Eva Kostolanská
+pic: img-20260408-wa0001.jpg
 bio: >-
-  In office since 19 February 2020
+  In office since 18 June 2026.
 
 
-  JUDr. Stanislav Křeček was born on 20 May 1938 in Prague. He graduated from the Industrial School of Geology, the School of Creative Arts and the Faculty of Law of Charles University. After his graduation, he became a judicial trainee at the Municipal Court in Prague. When he was forced to leave the judicial profession in the 1970s for political reasons, he made his living as an artist, geologist, miner, manual worker, etc.Since 1990, he has worked as attorney-at-law.
+  JUDr. Eva Kostolanská graduated in law from Jan Evangelista Purkyně University (now Masaryk University).
 
 
-  In 2006 – 2010, he was a member of the Municipal Assembly of Prague 2 City Ward.
+  At the beginning of her professional career, she worked as a legal adviser at the South Moravian Regional National Committee. She later held several positions within the Czech Financial Administration, most recently serving, from 2016, as Director of the Legal Section at the General Financial Directorate.
 
 
-  From 1998 to April 2013, he served as a member of parliament for the Czech Social Democratic Party (ČSSD) in the Chamber of Deputies.
+  Among other responsibilities, she provided methodological guidance to the Czech Financial Administration in her areas of competence and contributed to the drafting of legislation. She represented the Financial Administration in numerous proceedings before administrative and civil courts at all levels. During this period, she also worked closely with the Office of the Ombudsman.
 
 
-  On 3 April 2013, he was elected the Deputy Public Defender of Rights and, in accordance with the law, he resigned from his Parliamentary office. He discharged the office of the Deputy Public Defender of Rights from 5 April 2013 to 3 December 2019.
+  Throughout her career, she has been committed to ensuring that the state acts fairly and justly. This commitment naturally led her to focus on the protection of human rights. In 2020, she left the Financial Administration to join the Office of the Ombudsman. There, she worked on both the investigation of individual complaints and the promotion of systemic improvements. She prepared recommendations for legislative amendments and contributed to advancing the principles of good administration, non-discrimination and the protection of vulnerable persons.
 
 
-  On 12 February 2020, he was elected the Public Defender of Rights.
+  She has also been active as an author and lecturer. Her professional expertise has earned her recognition within the legal community. In addition to Czech, she is fluent in German. In her spare time, she is interested in history and architecture and has been a member of the Museum and Local History Society in Brno for many years.
 
 
-  His long-term focus is the relationship between landlords and tenants – in 1991, he co-founded and became the chairman of the Czech Association of Tenants.
-
-
-  He was involved in the Czechoslovak Socialist Party, for which he was co-opted as Member of the Czech National Council in 1990. Since 1993, he has been a member of the Czech Social Democratic Party (ČSSD).
-
-
-  As an MP, he served as a Vice-Chairman of the Committee on Constitutional and Legal Affairs of the Chamber of Deputies, a member of the Mandate and Immunity Committee, Committee on Petitions, Electoral Committee, Subcommittee on Human Rights, and performed other functions as well.
-
-
-  As the Deputy Public Defender of Rights in the period from 2013 to 2019, he concentrated mainly on issues connected to the rules of construction procedure, State administration of courts, consumer protection, land-use law and activities of the Land Registry Office, as well as problems related to roads, right to information, infractions and other similar issues.
+  Eva Kostolanská sees the role of Ombudsperson above all as a commitment to actively protect people's rights and to strengthen public trust in a fair and effective state.
 ---
