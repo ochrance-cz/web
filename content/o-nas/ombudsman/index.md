@@ -51,7 +51,6 @@ areas:
       spotřebitele, ČOI
   - area: Český telekomunikační úřad; Energetický regulační úřad; Státní energetická
       inspekce
-  - area: Rovné zacházení a ochrana před diskriminací
   - area: Práce a zaměstnanost
     desc: Kontrola orgánů inspekce práce, činnost úřadu práce
   - area: Zdravotnictví
