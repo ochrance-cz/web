@@ -6,8 +6,7 @@ linksAfter: []
 <strong>Volná místa</strong></h2>
 <p>V tuto chvíli 
 <a href="https://www.ochrance.cz/aktualne/hledame_personalistu_nebo_personalistku/">Hledáme personalistu nebo personalistku</a>.</p>
-<p>Pokud se přesto chcete ucházet o místo, pošlete nám svůj životopis na adresu 
-<a href="mailto:michalcova@ochrance.cz">michalcova@ochrance.cz</a> a napište, o jakou práci máte zájem.</p>
+<p>&nbsp;</p>
 <p>
 <strong>Stáže pro studenty právnických fakult</strong></p>
 <p>Na stáž se můžete přihlásit přes svou právnickou fakultu v&nbsp;Brně, Olomouci a Praze. Pokud nevíte, koho ve škole oslovit, napište kolegyni Haně Suské na adresu 
