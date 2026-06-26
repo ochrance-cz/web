@@ -4,6 +4,8 @@ date: 2025-07-31
 vystupy:
   - vyrocni-zprava
 attachmentsTop:
+  - file: https://www.ochrance.cz/dokument/zpravy_pro_poslaneckou_snemovnu_2025/vyrocni-zprava-2025.pdf
+    title: Výroční zpráva 2025
   - file: https://youtube.com/shorts/zOcsMmRT9qg?si=jeSt2QZEa0TD_ai6
     title: Video Rok 2025 v kostce
   - file: https://www.ochrance.cz/dokument/zpravy_pro_poslaneckou_snemovnu_2025/rok-2025-shrnuti.pdf

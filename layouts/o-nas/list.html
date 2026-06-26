@@ -25,9 +25,15 @@
   <div class="_backdrop cta">
     <section class="_full">
       <h2>{{ i18n "scope" }}</h2>
+      {{ $nhri := .GetPage "/pusobnost/ochrana-prosazovani-zakladnich-prav-nhri" }}
       <ul class="_link-list two-col">
-        {{ range where (where .Site.Pages "Section" "pusobnost") "Kind" "page" }}
+        {{ with $nhri }}
           <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+        {{ end }}
+        {{ range where (where .Site.Pages "Section" "pusobnost") "Kind" "page" }}
+          {{ if or (not $nhri) (ne .RelPermalink $nhri.RelPermalink) }}
+            <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+          {{ end }}
         {{ end }}
       </ul>
     </section>
