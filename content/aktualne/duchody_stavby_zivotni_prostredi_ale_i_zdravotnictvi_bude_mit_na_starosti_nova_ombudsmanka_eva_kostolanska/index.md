@@ -14,8 +14,8 @@ perex: <p>Ombudsmanka Eva Kostolanská a její zástupce Vít Alexander Schorm s
 attachments:
   - title: Seznam působností, kterým se věnuje ombudsmanka
     link: https://www.ochrance.cz/o-nas/ombudsman/
-  - title: Seznam působností, kterými se zabývá zástupce ombudsmanky
-    link: "https://www.ochrance.cz/o-nas/deputy/ "
+  - link: https://www.ochrance.cz/o-nas/deputy/
+    title: Seznam působností, kterým se věnuje zástupce ombudsmanky
 ---
 <p>Ve čtvrtek 18. června nahradila Eva Kostolanská ve funkci ombudsmana Stanislava Křečka. Od té chvíle začala podle zákona běžet třicetidenní lhůta, ve které si měli se zástupcem Vítem Alexanderem Schormem rovnoměrně rozdělit působnosti. K tomu došlo v prvních dnech působení nové ombudsmanky.</p>
 <p>
