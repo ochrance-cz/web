@@ -1,7 +1,7 @@
 ---
 title: Ochrana a prosazování základních práv a svobod (NHRI)
 translationKey: ochrana-a-prosazovani-zakladnich-prav-a-svobod-NHRI
-draft: true
+draft: false
 illustration: zelena_budova_na_podzim.jpg
 headerColor: green
 perex: "Národní lidskoprávní instituce (NHRI) je nezávislá instituce určená k

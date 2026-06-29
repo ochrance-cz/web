@@ -46,7 +46,12 @@
                 {{ range sort (where (where .Site.Pages "Section" "potrebuji-pomoc") "Kind" "page") "Params.order" }}
                   {{ if eq .Params.order 5 }}
                     {{ with $.GetPage "/pusobnost/ochrana-prosazovani-zakladnich-prav-nhri" }}
-                      {{ block "menu-link" . }}{{ end }}
+                      <li>
+                        <a tabindex="0" href="{{ .Permalink }}">
+                          {{- "" -}}<span class="icon-{{ with .Params.icon }}{{ . }}{{ else }}arrow{{ end }}" aria-hidden="true"></span>
+                          {{- "Hledám informace o lidských právech" -}}
+                        </a>
+                      </li>
                     {{ end }}
                   {{ end }}
                   {{ block "menu-link" . }}{{ end }}
