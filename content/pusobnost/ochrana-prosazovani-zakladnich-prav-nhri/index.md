@@ -9,8 +9,9 @@ perex: "Národní lidskoprávní instituce (NHRI) je nezávislá instituce urče
 cta:
   title: "Máte informace o nějakém systémovém problému v oblasti lidských práv,
     kterým by se mohl zabývat ombudsman? Napište nám na e-mail:
-    participace@ochrance.cz. "
-  btnLink: Pokud se Váš případ týká konkrétní situace, můžete podat individuální podnět.
+    participace@ochrance.cz. Pokud se Váš případ týká konkrétní situace, můžete
+    podat individuální podnět."
+  btnLink: https://www.ochrance.cz/podejte-stiznost/
 weight: 1
 ---
 ### **Co jsou lidská práva?**
