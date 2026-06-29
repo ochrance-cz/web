@@ -1,0 +1,12 @@
+{{ $active := .active }}
+<ul class="_horizontal-list">
+  {{ with site.GetPage "/vystupy/vyjadreni-pro-mezinarodni-organy" }}
+    <li><a href="{{ .Permalink }}"{{ if eq $active "type" }} class="selected"{{ end }}>{{ i18n "statements-by-type" }}</a></li>
+  {{ end }}
+  {{ with site.GetPage "/vyjadreni-dle-roku" }}
+    <li><a href="{{ .Permalink }}"{{ if eq $active "year" }} class="selected"{{ end }}>{{ i18n "statements-by-year" }}</a></li>
+  {{ end }}
+  {{ with site.GetPage "/vyjadreni-vse" }}
+    <li><a href="{{ .Permalink }}"{{ if eq $active "all" }} class="selected"{{ end }}>{{ i18n "statements-all" }}</a></li>
+  {{ end }}
+</ul>

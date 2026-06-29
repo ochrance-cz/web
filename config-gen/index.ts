@@ -575,6 +575,9 @@ const dokument = folderCollection(
       search_fields: ['title'],
       multiple: true,
     }),
+    select('Mezinárodní orgán', 'organ', ['CEDAW', 'OHCHR'], {
+      hint: 'Vyplňte jen u vyjádření pro mezinárodní orgány – určuje zařazení do sloupečku „Dle typu“.',
+    }),
     customEditor('Text', 'body'),
     attached('Přílohy před textem', 'attachmentsTop'),
     attached('Přílohy pod textem'),

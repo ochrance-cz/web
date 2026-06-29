@@ -38,6 +38,16 @@
           {{ end }}
           {{ partial "collapsible-close.html" }}
         {{ end }}
+      {{ else if eq .RelPermalink "/vystupy/vyjadreni-pro-mezinarodni-organy/" }}
+        {{ partial "vyjadreni-tabs.html" (dict "active" "type") }}
+
+        {{ range .Pages.GroupByParam "organ" }}
+          {{ partial "collapsible-open.html" (dict "id" (.Key | urlize) "title" (print .Key) "open" false) }}
+          {{ range .Pages }}
+            {{ partial "news-preview.html" (dict "preview" . "h" "4") }}
+          {{ end }}
+          {{ partial "collapsible-close.html" }}
+        {{ end }}
       {{ else}}
         {{ $paginator := .Paginate .Pages 20 }}
 

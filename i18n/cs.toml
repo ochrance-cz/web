@@ -205,6 +205,15 @@ other = "Dle roku"
 [research-all]
 other = "Všechny výzkumy"
 
+[statements-by-type]
+other = "Dle typu"
+
+[statements-by-year]
+other = "Dle roku"
+
+[statements-all]
+other = "Všechna vyjádření"
+
 [magazine-all]
 other = "Všechny zpravodaje"
 

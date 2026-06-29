@@ -1231,6 +1231,14 @@ collections:
           - title
         multiple: true
         options_length: 20
+      - label: Mezinárodní orgán
+        name: organ
+        required: false
+        hint: Vyplňte jen u vyjádření pro mezinárodní orgány – určuje zařazení do sloupečku „Dle typu“.
+        widget: select
+        options:
+          - CEDAW
+          - OHCHR
       - label: Text
         name: body
         required: false
@@ -2835,6 +2843,14 @@ collections:
         search_fields: *ref_15
         multiple: true
         options_length: 20
+      - label: Mezinárodní orgán
+        name: organ
+        required: false
+        hint: Vyplňte jen u vyjádření pro mezinárodní orgány – určuje zařazení do sloupečku „Dle typu“.
+        widget: select
+        options:
+          - CEDAW
+          - OHCHR
       - label: Text
         name: body
         required: false
