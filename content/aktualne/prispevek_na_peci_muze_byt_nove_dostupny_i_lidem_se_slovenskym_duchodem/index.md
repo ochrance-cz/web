@@ -15,18 +15,19 @@ attachments:
   - file: https://www.ochrance.cz/aktualne/krok_kupredu_ne_konec_problemu_i_se_slovenskym_duchodem_mohou_vazne_nemocni_dosahnout_na_prispevek_na_peci-_ombudsmani_ale_dal_hledaji_systemove_reseni/
     title: " Tisková zpráva z 27. března 2026 "
 ---
-<p>Jsou situace, kdy lidé potřebují pomoc, ale nenajdou ji v žádném ze systémů sociální podpory. Týká se to lidí, kteří většinu života odváděli pojistné do slovenského důchodového systému a nyní žijí v České republice – třeba kvůli rodinným vazbám. Často jde o starší lidi nebo lidi se závažným zdravotním postižením, kteří potřebují každodenní péči.
-<strong>&nbsp;</strong>To může vést k situaci, kdy jim chybí klíčová finanční podpora v podobě příspěvku na péči.</p>
-<p>Díky změně českého zákona o sociálních službách
+<p>Jsou situace, kdy lidé potřebují pomoc, ale nenajdou ji v žádném ze systémů sociální podpory. Týká se to lidí, kteří většinu života odváděli pojistné do slovenského důchodového systému a nyní žijí v České republice – třeba kvůli rodinným vazbám. Často jde o starší lidi nebo lidi se závažným zdravotním postižením, kteří potřebují každodenní péči.&nbsp;
+<strong> </strong>To může vést k situaci, kdy jim chybí klíčová finanční podpora v podobě příspěvku na péči.</p>
+<p>Díky změně českého zákona o sociálních službách 
 <a href="#_ftn1">[1]</a> mohou nyní i lidé se slovenským důchodem o příspěvek na péči zažádat.&nbsp;Od 1. července 2026 může krajská pobočka Úřadu práce na základě žádosti odstranit tvrdost zákona,&nbsp;pokud zjistí, že osoba je ve špatné sociální situaci.&nbsp;Podmínkou je, že člověk, který žádá, nemá nárok na dávku obdobnou příspěvku na péči z jiného členského státu Evropské unie a má bydliště na území České republiky.</p>
-<p>„
+<p>„ 
 <i>Jsem ráda, že novela od 1. července pomůže alespoň některým lidem se slovenským důchodem, kteří žijí v České republice a potřebují každodenní péči. Odstranění tvrdosti zákona jim může umožnit dosáhnout na příspěvek na péči. Věřím, že pro ně bude znamenat alespoň částečnou úlevu v situaci, která pro ně byla dlouhodobě velmi složitá</i>,“ uvedla ombudsmanka Eva Kostolanská.</p>
-<p>O příspěvek na péči je potřeba požádat na Úřadu práce České republiky.
-<strong>&nbsp;</strong>Žádost se podává na předepsaném formuláři, který je k dispozici na pobočkách Úřadu práce nebo online na&nbsp;
+<p>O příspěvek na péči je potřeba požádat na Úřadu práce České republiky.&nbsp;
+<strong> </strong>Žádost se podává na předepsaném formuláři, který je k dispozici na pobočkách Úřadu práce nebo online na&nbsp; 
 <a href="https://mpsv.gov.cz/formulare">webu Ministerstva práce a sociálních věcí</a>.&nbsp;Další postup je podobný jako u běžné žádosti o příspěvek na péči, jen vedle běžných podmínek musí navíc doložit několik skutečností.</p>
 <blockquote>
-<p>
-<strong>Co musí žadatel o příspěvek doložit?</strong></p>
+<h4>
+<i>
+<strong>Co musí žadatel o příspěvek doložit?</strong></i></h4>
 <ol>
 <li>
 <p>
