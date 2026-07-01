@@ -11,11 +11,11 @@ sections:
       jejich zástupce**
 
 
-      **Miroslav Frýdek**\
+      **Radka Malinová**\
 
-      telefon: (+420) 542 542 228\
+      telefon: (+420) 542 542 307\
 
-      e-mail: miroslav.frydek@ochrance.cz
+      e-mail: radka.malinova@ochrance.cz
 
 
       **Asistentka ombudsmana** 
@@ -82,6 +82,15 @@ sections:
       **Pracovnice vztahů k veřejnosti**\
 
       K﻿ristýna Motyčáková
+
+
+      e-mail: medialni@ochrance.cz
+
+
+      **Pracovník vztahů k veřejnosti**
+
+
+      Jiří Matuška
 
 
       e-mail: medialni@ochrance.cz
@@ -274,6 +283,10 @@ lawyers:
         role: odborná referentka (monitoring)
         phone: 542 542 225
         email: michaela.kleckova@ochrance.cz
+      - name: Barbora Laštůvková
+        role: Barbora Laštůvková
+        phone: 542 542 214
+        email: barbora.lastuvkova@ochrance.cz
   - title: Odbor veřejného pořádku, zdravotnictví a práce
     intro: >
       matriky, evidence obyvatel, občanské a cestovní průkazy, státní občanství,
@@ -420,18 +433,10 @@ lawyers:
         role: právnička (státní správa soudů)
         phone: 542 542 391
         email: daniela.konecna@ochrance.cz
-      - name: Radka Malinová
-        role: právnička (daně, poplatky a cla)
-        phone: 542 542 307
-        email: radka.malinova@ochrance.cz
       - name: Josef Stehlík
         role: právník (věci cizinců)
         phone: 542 542 259
         email: josef.stehlik@ochrance.cz
-      - name: Hana Lupačová
-        role: právnička (věci cizinců)
-        phone: 542 542 297
-        email: hana.lupacova@ochrance.cz
       - name: Jan Ščučka
         role: právník (daně, poplatky a cla, státní správa soudů)
         phone: 542 542 359
@@ -456,6 +461,10 @@ lawyers:
         phone: 542 542 357
         role: právnička (státní správa soudů)
         email: petra.lisonkova@ochrance.cz
+      - name: Beáta Szakácsová
+        role: právnička (věci cizinců)
+        phone: 542 542 297
+        email: beata.szakacsova@ochrance.cz
   - title: Odbor rovného zacházení
     intro: >
       poskytování metodické pomoci obětem diskriminace, provádění výzkumu v
@@ -563,16 +572,12 @@ lawyers:
         role: "právnička "
         phone: 542 542 328
         email: "jana.repova@ochrance.cz "
-      - name: Kristýna Andrlová
-        role: "právnička "
-        phone: 542 542 269
-        email: kristyna.andrlova@ochrance.cz
       - name: Adéla Žemla
         role: "právnička "
         phone: 542 542 283
         email: adela.zemla@ochrance.cz
       - name: Magdaléna Pryglová
-        role: referentka
+        role: odborná referentka
         phone: 542 542 277
         email: magdalena.pryglova@ochrance.cz
       - name: Šárka Vyskočilová
@@ -583,6 +588,12 @@ lawyers:
         role: právník
         phone: 542 542 286
         email: adam.stasek@ochrance.cz
+      - name: Petra Nováková
+        role: monitor
+        email: petra.novakova@ochrance.cz
+      - name: Klára Štěpánková
+        role: monitor
+        email: klara.stepankova@ochrance.cz
   - title: Odbor ochrany práv osob se zdravotním postižením
     people:
       - name: Romana Jakešová
@@ -641,7 +652,7 @@ lawyers:
         phone: 542 542 313
         email: jana.peckovahodeckova@ochrance.cz
       - name: Jakub Dubják
-        role: referent, Oddělení metodiky a analýz
+        role: právník, Oddělení metodiky a analýz
         phone: 542 542 396
         email: dubjak1@ochrance.cz
       - name: Zuzana Durajová
