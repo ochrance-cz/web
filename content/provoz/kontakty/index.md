@@ -284,7 +284,7 @@ lawyers:
         phone: 542 542 225
         email: michaela.kleckova@ochrance.cz
       - name: Barbora Laštůvková
-        role: Barbora Laštůvková
+        role: právnička (sociálně-právní ochrana dětí, ústavní výchova)
         phone: 542 542 214
         email: barbora.lastuvkova@ochrance.cz
   - title: Odbor veřejného pořádku, zdravotnictví a práce
