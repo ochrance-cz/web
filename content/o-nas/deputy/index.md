@@ -57,6 +57,4 @@ areas:
   - area: Činnost Vězeňské služby ČR
   - area: "Školství "
     desc: Správa na úseku školství, akademická samospráva aj.
-  - area: Konzulární služba, superlegalizace a ostatní působnost MZV
-  - area: "Soudní rozhodování ve věcech cizinců "
 ---
