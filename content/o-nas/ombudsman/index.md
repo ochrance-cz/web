@@ -47,8 +47,9 @@ areas:
   - area: Daně, poplatky a cla
     desc: daně a správa daní, místní poplatky, správní poplatky, cla
   - area: Věci cizinců
-    desc: Pobyt cizinců, azylové řízení a integrace azylantů, rozhodnutí o správním
-      vyhoštění, rozhodnutí o zajištění, konzulární služba aj.
+    desc: Pobyt cizinců, azylové řízení a integrace azylantů, soudní rozhodování ve
+      věcech cizinců, rozhodnutí o správním vyhoštění, rozhodnutí o zajištění,
+      konzulární služba aj.
   - area: Podnikání a ochrana spotřebitele
     desc: správa na úseku podnikání, činnost živnostenských úřadů, ochrana
       spotřebitele, ČOI
