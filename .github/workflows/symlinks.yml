@@ -64,6 +64,8 @@ jobs:
             rm media
             rm srozumitelne
             rm nas-pribeh
+            rm vyjadreni-dle-roku
+            rm vyjadreni-vse
             rm .htaccess
             rm pagefind.json
             ln -s www-prod/aktualne aktualne
@@ -112,6 +114,8 @@ jobs:
             ln -s www-prod/vzor vzor
             ln -s www-prod/srozumitelne srozumitelne
             ln -s www-prod/nas-pribeh nas-pribeh
+            ln -s www-prod/vyjadreni-dle-roku vyjadreni-dle-roku
+            ln -s www-prod/vyjadreni-vse vyjadreni-vse
             ln -s www-prod/zpravodaj zpravodaj
             ln -s www-prod/zpravodaj-vse zpravodaj-vse
             ln -s www-prod/.htaccess .htaccess
