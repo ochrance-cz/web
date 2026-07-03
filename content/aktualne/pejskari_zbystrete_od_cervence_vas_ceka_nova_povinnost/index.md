@@ -1,5 +1,5 @@
 ---
-title: Pejskaři, zbystřete! Od července vás čeká nová povinnost
+title: Pejskaři, zbystřete! Od července vás čeká nová povinnost
 date: 2026-07-03T07:59:00
 vystupy:
   - aktualita
@@ -22,5 +22,5 @@ attachments:
 <blockquote>
 <p>
 <strong>Máte svého pejska zapsaného v&nbsp;některém ze soukromých registrů nebo registru petpasů?</strong></p>
-<p>Ani tak zatím nemáte svou povinnost splněnou. Zápis do nové centrální evidence jimi nenahradíte.</p></blockquote>
+<p>Ani tak nemáte svou povinnost splněnou. Zápis do nové centrální evidence jimi nenahradíte.</p></blockquote>
 <p>Pozor! Zaevidováním vaše povinnosti nekončí. Nezapomeňte, že za psa musíte zaplatit i každoroční poplatek obecnímu úřadu.</p>
