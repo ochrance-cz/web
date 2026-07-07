@@ -16,11 +16,11 @@ perex: >-
 <ul>
 <li>Navrhování vhodných indikátorů pro „měření“ naplňování práv dětí v&nbsp;Česku (např. ve vztahu k&nbsp;Úmluvě o právech dítěte) a pro „měření“ naplňování základních práv a svobod.</li>
 <li>Identifikace použitelných datových zdrojů a&nbsp;analýza dostupných statistických údajů (sekundární analýza).</li>
-<li>Návrh, realizace, vyhodnocení a&nbsp;prezentace ad hoc výzkumů. </li>
+<li>Návrh, realizace, vyhodnocení a&nbsp;prezentace ad hoc výzkumů.</li>
 <li>Spolupráce s&nbsp;právníky při hledání vhodných nástrojů, jak uchopit monitorování práv.</li>
 <li>Prezentace poznatků z&nbsp;činnosti dětského ombudsmana/NHRI na vnitrostátních i zahraničních fórech/spolupráce s&nbsp;NNO a zahraničními orgány.</li></ul>
 <p>Bližší popis pracovní pozice i s&nbsp;ohledem na to, co může zajímat lidi se zdravotním omezením, najdete v&nbsp;tomto dokumentu: 
-<a href="media/jak_vypada_prave_vyzkumnika_ci_vyzkumnice_v_kancelari_verejneho_ochrance_prav_a_ochrance_prav_deti.pdf">Jak vypadá práce výzkumníka či výzkumnice v Kanceláři veřejného ochránce práv a ochránce práv dětí</a></p>
+<a href="https://www.ochrance.cz/aktualne//jak_vypada_prave_vyzkumnika_ci_vyzkumnice_v_kancelari_verejneho_ochrance_prav_a_ochrance_prav_deti.pdf">Jak vypadá práce výzkumníka či výzkumnice v Kanceláři veřejného ochránce práv a ochránce práv dětí</a></p>
 <p>
 <strong>Požadujeme:</strong></p>
 <ul>
@@ -35,7 +35,7 @@ perex: >-
 <p>
 <strong>Nabízíme:</strong></p>
 <ul>
-<li>Plný nebo poloviční úvazek; </li>
+<li>Plný nebo poloviční úvazek;</li>
 <li>platové ohodnocení dle nařízení č.&nbsp;341/2017 Sb., zařazení do&nbsp;14. platové třídy, po&nbsp;zapracování přiznání osobního příplatku, za&nbsp;nadstandardní úkoly možnost kvartální odměny;</li>
 <li>stálý odborný růst (účast na&nbsp;domácích i&nbsp;zahraničních konferencích a&nbsp;stážích) a jazykovou výuku (Aj, Nj, Fj, český znakový jazyk);</li>
 <li>smlouvu na&nbsp;dobu určitou;</li>
@@ -45,7 +45,7 @@ perex: >-
 <li>5 dnů osobního volna ročně;</li>
 <li>příspěvek na stravování ve výši 89 Kč na den;</li>
 <li>práci v&nbsp;centru Brna s&nbsp;možností parkování.</li></ul>
-<p>Jestli se k&nbsp;nám chcete připojit, napište nám do&nbsp;
+<p>Jestli se k&nbsp;nám chcete připojit, napište nám do&nbsp; 
 <strong>29. července 2026&nbsp;</strong>na&nbsp;adresu&nbsp;michalcova@ochrance.cz.</p>
 <p>Pošlete, prosím, motivační dopis a strukturované CV s&nbsp;přehledem publikací, či výčtem výzkumů, projektů, na kterých jste se podíleli. Napište také, pokud máte nějaké specifické potřeby nebo doplňující otázky (například v&nbsp;souvislosti se zdravotním omezením).</p>
 <p>Na termínu nástupu se můžeme domluvit, nejdříve to bude říjen 2026.</p>
