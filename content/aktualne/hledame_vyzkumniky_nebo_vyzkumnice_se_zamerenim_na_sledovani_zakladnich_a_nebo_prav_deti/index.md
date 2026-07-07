@@ -1,6 +1,6 @@
 ---
-title: Hledáme výzkumníky nebo výzkumnice se zaměřením na sledování základních a
-  nebo práv dětí
+title: Hledáme výzkumníky nebo výzkumnice se zaměřením na sledování základních
+  práv a práv dětí
 date: 2026-07-07T09:27:00
 vystupy:
   - nabidka-prace
