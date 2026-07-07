@@ -20,7 +20,7 @@ perex: >-
 <li>Spolupráce s&nbsp;právníky při hledání vhodných nástrojů, jak uchopit monitorování práv.</li>
 <li>Prezentace poznatků z&nbsp;činnosti dětského ombudsmana/NHRI na vnitrostátních i zahraničních fórech/spolupráce s&nbsp;NNO a zahraničními orgány.</li></ul>
 <p>Bližší popis pracovní pozice i s&nbsp;ohledem na to, co může zajímat lidi se zdravotním omezením, najdete v&nbsp;tomto dokumentu: 
-<a href="media/jak_vypada_prave_vyzkumnika_ci_vyzkumnice_v_kancelari_verejneho_ochrance_prav_a_ochrance_prav_deti.pdf">Jak vypadá práce výzkumníka či výzkumnice v Kanceláři veřejného ochránce práv a ochránce práv dětí</a></p>
+<a href="https://www.ochrance.cz/aktualne/hledame_vyzkumniky_nebo_vyzkumnice_se_zamerenim_na_sledovani_zakladnich_prav_a_prav_deti/jak_vypada_prave_vyzkumnika_ci_vyzkumnice_v_kancelari_verejneho_ochrance_prav_a_ochrance_prav_deti.pdf">Jak vypadá práce výzkumníka či výzkumnice v Kanceláři veřejného ochránce práv a ochránce práv dětí&nbsp;</a></p>
 <p>
 <strong>Požadujeme:</strong></p>
 <ul>
