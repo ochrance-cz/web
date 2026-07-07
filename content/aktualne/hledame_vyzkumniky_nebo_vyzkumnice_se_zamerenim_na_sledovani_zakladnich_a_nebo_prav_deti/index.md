@@ -5,9 +5,9 @@ date: 2026-07-07T09:27:00
 vystupy:
   - nabidka-prace
 perex: >-
-  <p>Vyznáte se v základech statistické analýzy dat? Mátě zkušenosti s návrhem,
-  realizací i analýzou a interpretací výzkumu? Ozvěte se! Hledáme výzkumné
-  pracovníky pro výkon 
+  <p>Vyznáte se v základech statistické analýzy dat? Máte zkušenosti s návrhem,
+  realizací a interpretací výzkumu? Ozvěte se! Hledáme výzkumné pracovníky pro
+  výkon 
 
   <a href="https://www.ochrance.cz/aktualne/od_dnesniho_dne_najdou_deti_pravni_ochranu_pod_kridly_detskeho_ombudsmana_hlidacim_psem_lidskych_prav_se_stava_narodni_lidskopravni_instituce_nhri_vse_pod_jednou_strechou_v_brne/">nových působností</a> dětského ombudsmana a národní lidskoprávní instituce (NHRI).</p>
 ---
