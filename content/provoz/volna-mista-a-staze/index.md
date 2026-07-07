@@ -4,8 +4,9 @@ linksAfter: []
 ---
 <h2>
 <strong>Volná místa</strong></h2>
-<p>V tuto chvíli 
-<a href="https://www.ochrance.cz/aktualne/hledame_personalistu_nebo_personalistku/">Hledáme personalistu nebo personalistku</a>.</p>
+<p>V tuto chvíli hledáme 
+<a href="https://www.ochrance.cz/aktualne/hledame_personalistu_nebo_personalistku/">personalistu nebo personalistku</a> a 
+<a href="https://www.ochrance.cz/aktualne/hledame_vyzkumniky_nebo_vyzkumnice_se_zamerenim_na_sledovani_zakladnich_a_nebo_prav_deti/">výzkumníky či výzkumnice</a>.</p>
 <p>&nbsp;</p>
 <p>
 <strong>Stáže pro studenty právnických fakult</strong></p>
