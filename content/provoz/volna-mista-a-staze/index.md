@@ -4,10 +4,14 @@ linksAfter: []
 ---
 <h2>
 <strong>Volná místa</strong></h2>
-<p>V tuto chvíli hledáme 
-<a href="https://www.ochrance.cz/aktualne/hledame_personalistu_nebo_personalistku/">personalistu nebo personalistku</a> a 
-<a href="https://www.ochrance.cz/aktualne/hledame_vyzkumniky_nebo_vyzkumnice_se_zamerenim_na_sledovani_zakladnich_a_nebo_prav_deti/">výzkumníky či výzkumnice</a>.</p>
-<p>&nbsp;</p>
+<p>V tuto chvíli hledáme&nbsp;</p>
+<ul>
+<li>
+<a href="https://www.ochrance.cz/aktualne/hledame_personalistu_nebo_personalistku/">personalistu nebo personalistku</a></li>
+<li>
+<a href="https://www.ochrance.cz/aktualne/hledame_vyzkumniky_nebo_vyzkumnice_se_zamerenim_na_sledovani_zakladnich_a_nebo_prav_deti/">výzkumníky či výzkumnice</a> </li>
+<li>
+<a href="https://www.ochrance.cz/aktualne/hledame_ucetni_nebo_ucetniho/">účetní/účetního</a></li></ul>
 <p>
 <strong>Stáže pro studenty právnických fakult</strong></p>
 <p>Na stáž se můžete přihlásit přes svou právnickou fakultu v&nbsp;Brně, Olomouci a Praze. Pokud nevíte, koho ve škole oslovit, napište kolegyni Haně Suské na adresu 
