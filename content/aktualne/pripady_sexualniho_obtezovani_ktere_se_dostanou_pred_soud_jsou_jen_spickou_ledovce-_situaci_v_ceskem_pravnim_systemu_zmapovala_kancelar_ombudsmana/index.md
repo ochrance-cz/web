@@ -51,7 +51,7 @@ attachments:
 <li>uložit zaměstnavateli opatření k odstranění ne­dostatků zjištěných při kontrole;</li>
 <li>uložit pokutu.&nbsp;</li></ul></blockquote>
 <blockquote>
-<p>Výzkum se uskutečnil v&nbsp;rámci projektu &nbsp;&nbsp;
+<p>Výzkum se uskutečnil v&nbsp;rámci projektu 
 <a href="https://www.ochrance.cz/projekty/violet_towards_workplaces_without_sexual_harassment_and_violence/">VIOLET</a> – Towards workplaces without sexual harassment and violence</p>
 <figure class="image">
 <img src="https://www.ochrance.cz/aktualne/pripady_sexualniho_obtezovani_ktere_se_dostanou_pred_soud_jsou_jen_spickou_ledovce-_situaci_v_ceskem_pravnim_systemu_zmapovala_kancelar_ombudsmana/loga_mensi.png" alt="Logo projektu Violet. Logo Evropské unie doprovozené textem: Spolufinancováno Evropskou unií"></figure></blockquote>
