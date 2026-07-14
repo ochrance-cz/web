@@ -27,7 +27,7 @@ attachments:
 <p>Naznačují to i zjištění Kanceláře ombudsmana. Podle dohledaných informací se soudy v&nbsp;období let 2015–2024 zabývaly jen dvěma případy sexuálního obtěžování, u kterých došlo až na žalobu. V&nbsp;jednom případě žalobkyně uspěla. Ve druhém Nejvyšší soud předchozí rozsudky zrušil a žalobkyně se rozhodla ve sporu nepokračovat.&nbsp;</p>
 <p>Kancelář ombudsmana se ve stejných letech zabývala 16 podněty z&nbsp;oblasti sexuálního obtěžování či jiného typu diskriminace, Inspektorát práce jich řešil 9. Nejčastěji si lidé stěžovali na obtěžování v&nbsp;podobě nevhodných komentářů, dotazů nebo návrhů. Prokázat tuto nebo jinou formu sexuálního obtěžování se však dařilo oběma institucím jen zřídka.</p>
 <p>
-<i>„Oběti sexuálního obtěžování potřebují lepší ochranu a větší pomoc, než jaké se jim dnes dostává. Mám na mysli například proškolení inspektorů a zajištění toho, aby měli na šetření stížností dostatek prostoru. Důležité je také podporovat neziskové organizace, které obětem poskytují právní poradenství. Zároveň je potřeba zvyšovat povědomí zaměstnanců i zaměstnavatelů o tomto problému. Součástí řešení mohou být i některé legislativní změny,“</i> uvedl zástupce ombudsmanky Schorm, který již odpovědným místům, jako je třeba Státní úřad inspekce práce, Ministerstvo práce a sociálních věcí nebo vláda České republiky, zjištění poskytl.&nbsp;</p>
+<i>„Oběti sexuálního obtěžování potřebují lepší ochranu a větší pomoc, než jaké se jim dnes dostává. Mám na mysli například proškolení inspektorů a zajištění toho, aby měli na šetření stížností dostatek prostoru. Důležité je také podporovat neziskové organizace, které obětem poskytují právní poradenství. Zároveň je potřeba zvyšovat povědomí zaměstnanců i zaměstnavatelů o tomto problému. Součástí řešení mohou být i některé legislativní změny,“</i> uvedl zástupce ombudsmanky Vít Alexander Schorm, který již odpovědným místům, jako je třeba Státní úřad inspekce práce, Ministerstvo práce a sociálních věcí nebo vláda České republiky, tyto závěry poskytl.&nbsp;</p>
 <blockquote>
 <p>
 <strong>Čeho může oběť sexuálního obtěžování dosáhnout u jednotlivých institucí?&nbsp;</strong></p>
@@ -36,7 +36,7 @@ attachments:
 <ul>
 <li>ukončení diskriminace, respektive obtěžování;</li>
 <li>odstranění důsledků diskriminace (např. zpětné vyplacení odměn, o které v důsledku diskriminačního jednání přišla);</li>
-<li>zadostiučinění, například omluvy; </li>
+<li>zadostiučinění, například omluvy;</li>
 <li>nahrazení nemajetkové újmy v penězích.&nbsp;</li></ul>
 <p>
 <strong>Ombudsman:</strong></p>
@@ -51,7 +51,7 @@ attachments:
 <li>uložit zaměstnavateli opatření k odstranění ne­dostatků zjištěných při kontrole;</li>
 <li>uložit pokutu.&nbsp;</li></ul></blockquote>
 <blockquote>
-<p>Výzkum se uskutečnil v&nbsp;rámci projektu &nbsp;
+<p>Výzkum se uskutečnil v&nbsp;rámci projektu &nbsp;&nbsp;
 <a href="https://www.ochrance.cz/projekty/violet_towards_workplaces_without_sexual_harassment_and_violence/">VIOLET</a> – Towards workplaces without sexual harassment and violence</p>
 <figure class="image">
 <img src="https://www.ochrance.cz/aktualne/pripady_sexualniho_obtezovani_ktere_se_dostanou_pred_soud_jsou_jen_spickou_ledovce-_situaci_v_ceskem_pravnim_systemu_zmapovala_kancelar_ombudsmana/loga_mensi.png" alt="Logo projektu Violet. Logo Evropské unie doprovozené textem: Spolufinancováno Evropskou unií"></figure></blockquote>
