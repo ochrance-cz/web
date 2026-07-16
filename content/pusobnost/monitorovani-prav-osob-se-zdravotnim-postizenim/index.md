@@ -8,7 +8,6 @@ cta:
   title: Řešíte problémy související s postižením a domníváte se, že vám ombudsman
     může pomoct?
 ---
-
 V rámci monitorování [Úmluvy](https://www.mpsv.cz/documents/20142/225526/Umluva_o_pravech_osob_se_ZP.pdf/1e95a34b-cbdf-0829-3da2-148865b8a4a8) provádíme výzkumy, šetření a vypracováváme doporučení ke zlepšení situace lidí s postižením. Intenzivně přitom spolupracujeme právě s lidmi s postižením, neziskovými organizacemi a především s **poradním orgánem ombudsmana pro oblast práv lidí s postižením**.
 
 Spolupracujeme také s organizacemi, které monitorují dodržování Úmluvy v jiných státech. Jsme součástí pracovní skupiny k Úmluvě při Evropské síti národních lidskoprávních organizací (ENNHRI).
@@ -22,7 +21,7 @@ Naším cílem je posilovat přístupnost informací pro všechny bez rozdílu. 
 * podílí se na **připomínkování právních předpisů** ombudsmanem a zaujímá stanoviska k jeho strategickým dokumentům týkajícím se práv lidí s postižením,
 * **získává podněty** od lidí s postižením, organizací hájících jejich práva a od pečujících osob,
 * **zajišťuje informovanost** lidí s postižením, organizací hájící jejich práva a široké veřejnosti o činnost ombudsmana v oblasti monitorování podle Úmluvy.
-Poradní orgán má svůj [Jednací řád](/media/jednaci_rad_poradniho_organu.doc) a [Statut](/media/statut_poradniho_organu.docx). [Výstupy ](https://www.ochrance.cz/vystupy/poradni-organ-crpd/)poradního orgánu jsou veřejné.
+  Poradní orgán má svůj [Jednací řád](/media/jednaci_rad_poradniho_organu.doc) a [Statut](/media/statut_poradniho_organu_2020.docx)[](/media/statut_poradniho_organu_2020.docx). [Výstupy ](https://www.ochrance.cz/vystupy/poradni-organ-crpd/)poradního orgánu jsou veřejné.
 
 {{< /rozbal >}}
 
