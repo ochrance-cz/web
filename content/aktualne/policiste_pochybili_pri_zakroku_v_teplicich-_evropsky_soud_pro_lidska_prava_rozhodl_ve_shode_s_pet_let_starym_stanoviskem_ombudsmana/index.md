@@ -5,12 +5,12 @@ date: 2026-07-17T08:48:00
 vystupy:
   - tz
 perex: >-
-  <p>Evropský soud pro lidská práva dnes rozhodl o pět let starém případu. Týkal
-  se muže romského původu, který zemřel po zásahu policistů v&nbsp;Teplicích
+  <p>Evropský soud pro lidská práva rozhodl o pět let starém případu. Týkal se
+  muže romského původu, který zemřel po zásahu policistů v&nbsp;Teplicích
   v&nbsp;červnu roku 2021. Případu se tehdy z&nbsp;vlastní iniciativy věnovala i
-  Kancelář ombudsmana. V&nbsp;
+  Kancelář ombudsmana. V&nbsp; 
 
-  <a href="https://eso.ochrance.cz/Nalezene/Edit/10368">šetření</a> došla k&nbsp;podobným závěrům jako soud ve svém čerstvém&nbsp;
+  <a href="https://eso.ochrance.cz/Nalezene/Edit/10368">šetření</a> došla k&nbsp;podobným závěrům jako soud ve svém čerstvém&nbsp; 
 
   <a href="https://hudoc.echr.coe.int/eng#{%22documentcollectionid2%22:[%22GRANDCHAMBER%22,%22CHAMBER%22],%22itemid%22:[%22001-251195%22]}">rozhodnutí</a>.</p>
 ---
