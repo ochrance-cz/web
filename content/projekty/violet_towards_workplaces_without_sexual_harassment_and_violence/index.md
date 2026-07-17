@@ -31,7 +31,7 @@ illustration:
 <li>
 <a href="https://www.ochrance.cz/aktualne/seminar_sexualni_obtezovani_na_pracovisti_uz_12-_cervna_v_nasi_brnenske_kancelari-/">
 <strong>12. 6. 2026 proběhl seminář Sexuální obtěžování na pracovišti</strong>,</a> 
-<a href="https://www.facebook.com/verejny.ochrance.prav/posts/setkali-jste-se-v-pr%C3%A1ci-se-sexu%C3%A1ln%C3%ADm-obt%C4%9B%C5%BEov%C3%A1n%C3%ADm-v%C3%ADte-jak-se-br%C3%A1nit-informujte-s/1307383744910226/">(prohlédněte si fotografie z akce na facebooku)</a></li>
+<a href="https://www.facebook.com/verejny.ochrance.prav/posts/setkali-jste-se-v-pr%C3%A1ci-se-sexu%C3%A1ln%C3%ADm-obt%C4%9B%C5%BEov%C3%A1n%C3%ADm-v%C3%ADte-jak-se-br%C3%A1nit-informujte-s/1307383744910226/">(prohlédněte si na facebooku fotografie z akce)</a></li>
 <li>
 <a href="https://www.ochrance.cz/aktualne/pripady_sexualniho_obtezovani_ktere_se_dostanou_pred_soud_jsou_jen_spickou_ledovce-_situaci_v_ceskem_pravnim_systemu_zmapovala_kancelar_ombudsmana/">
 <strong>Tisková zpráva „Případy sexuálního obtěžování, které se dostanou před soud, jsou jen špičkou ledovce. Situaci v českém právním systému zmapovala Kancelář ombudsmana“</strong></a></li></ul></blockquote>
