@@ -25,7 +25,7 @@ sections:
       e-mail: barbora.sverakova@ochrance.cz
 
 
-      **Asistentka dětského ombudsmana a zástupce ombudsmana** \
+      **Asistentka dětského ombudsmana a zástupce ombudsmanů** \
 
       Marie Hemalová\
 
