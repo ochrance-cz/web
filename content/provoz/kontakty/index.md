@@ -5,13 +5,11 @@ sections:
   - title: Potřebujete poradit s podáním podnětu? Zavolejte na naši infolinku 542
       542 888.
     intro: Po–pá 8.00–16.00 hod.
-  - title: Sekretariát veřejného ochránce práv, ochránce práv dětí a jejich zástupce
+  - title: "Odbor právní podpory, komunikace a mezinárodní spolupráce "
     intro: >-
-      ### **Vedoucí sekretariátu veřejného ochránce práv, ochránce práv dětí a
-      jejich zástupce**
+      **Vedoucí Odboru právní podpory, komunikace a mezinárodní spolupráce** 
 
-
-      **Radka Malinová**\
+      Radka Malinová\
 
       telefon: (+420) 542 542 307\
 
