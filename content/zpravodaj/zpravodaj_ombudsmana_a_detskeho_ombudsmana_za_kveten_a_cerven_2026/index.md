@@ -88,4 +88,119 @@ sections:
           <p>Na základě naší výzvy pojišťovna ověřila, že koncentrátor stěžovatel obdržel již dne 2. 12. 2025, a potvrzení opravila. Původně totiž vycházela z data zaúčtování přístroje, nikoli z data jeho převzetí.</p>
 
           <p>Na základě opraveného potvrzení může stěžovatel žádat o vyšší příspěvek na mobilitu již od data převzetí přístroje.</p>
+  - title: Radili jsme v diskriminačních věcech
+    articles:
+      - title: "Vyjádřili jsme se k tomu, jak Česká republika dodržuje články Evropské
+          sociální charty "
+        id: 4014/2026/VOP
+        eso: https://eso.ochrance.cz/Nalezene/Edit/14622
+        body: >-
+          <p>Česká republika se v Evropské sociální chartě zavázala zajistit
+          lidem právo na práci, spravedlivé podmínky a sociální zabezpečení. K
+          tomu, jak stát tyto sliby plní, jsme poskytli vyjádření Evropskému
+          výboru pro sociální práva.</p>
+
+          <p>Věnovali jsme se v něm zákonu o platformové práci (práci organizované prostřednictvím digitálních aplikací). Nová pravidla oslabují ochranu pracovníků a můžou negativně dopadat na rovnost žen a mužů.</p>
+
+          <p>Upozornili jsme také na rozdíly v odměňování žen a mužů. Navrhovaný zákon podle nás nezaručuje transparentnost. Zaměstnavatel totiž může sdělit výši mzdy až před podpisem smlouvy, kdy už zná pohlaví uchazeče. Současná právní úprava navíc znevýhodňuje zaměstnance s kratší pracovní dobou při odměňování přesčasů.</p>
+
+          <p>Dalším tématem byla diskriminace v zaměstnání z důvodu rodičovství. Státu doporučujeme zajistit místa ve školkách pro děti od dvou let, zavést nepřenositelnou část rodičovské dovolené (rodičovské, která je určená pro druhého rodiče) a posílit podporu lidí pečujících o blízké prostřednictvím nové dávky, pravidelným zvyšováním příspěvku na péči a rozvojem sociálních služeb.</p>
+      - title: "Lázně diskriminovaly ženu s postižením, když omezily přístup jejího
+          asistenčního psa "
+        id: 344/2025/VOP
+        body: >-
+          <p>Obrátila se na nás žena s duševním postižením, které pomáhá
+          asistenční pes, aby lépe zvládala projevy postižení. Proto si ho vzala
+          s sebou i na ozdravný pobyt v lázních. Od tamního personálu se ale
+          dozvěděla, že za ubytování asistenčního psa musí zaplatit zvláštní
+          příplatek. Upozornili jí také, že se psem nemůže z hygienických důvodů
+          volně chodit po areálu lázní – pes se mohl pohybovat pouze po
+          nejkratší možné cestě ven ze zařízení a zůstat na pokoji.&nbsp;</p>
+
+          <p>Dospěli jsme k závěru, že se lázně dopustily nepřímé diskriminace. Doporučili jsme jim proto, aby se se ženou dohodly na vrácení poplatku za pobyt psa a aby přijaly přehledná pravidla pobytu asistenčních psů, která lidem s postižením umožní skutečně využívat jejich pomoc.</p>
+
+          <p>Lázně našemu doporučení vyšly vstříc a přislíbily přijetí pravidel pobytu asistenčních psů a v tomto případě i vrácení poplatku za pobyt psa.</p>
+        eso: https://eso.ochrance.cz/Nalezene/Edit/14698
+      - title: "Zabývali jsme se případem muže, který si kvůli místu narození nemohl
+          zřídit bankovní účet na dálku "
+        id: 815/2025/VOP
+        eso: https://eso.ochrance.cz/Nalezene/Edit/14696
+        body: >-
+          <blockquote>
+
+          <p>Znevýhodnění kvůli místu narození může představovat nepřímou diskriminaci z důvodu národnosti, přestože nemíří pouze na osoby určité konkrétní národnosti, ale obecně na všechny osoby jiné než české či slovenské národnosti.</p></blockquote>
+
+          <p>Muž se narodil v Srbsku. Dlouhodobě však žije v České republice a má české občanství. Banka mu neumožnila založit si běžný účet online. Zákaznická podpora banky mu k tomu sdělila, že mu účet nelze zřídit na dálku kvůli jeho místu narození.</p>
+
+          <p>Podle nás se banka vůči muži dopustila nepřímé diskriminace z důvodu národnosti. S tím představitelé banky nesouhlasili. Problém podle nich ve skutečnosti nespočíval v místu narození stěžovatele, ale v tom, že muž nesprávně nahrál doklad totožnosti. Přesto se banka rozhodla přijmout určité kroky k nápravě. Uznala chybu v komunikaci, vyjádřila ochotu se muži omluvit a provedla interní opatření, aby se již podobná situace neopakovala.</p>
+      - title: "Zaměstnavatel diskriminoval matku po návratu z rodičovské dovolené "
+        id: 2866/2025/VOP
+        eso: https://eso.ochrance.cz/Nalezene/Edit/14700
+        body: >-
+          <p>Žena se chtěla před koncem rodičovské dovolené domluvit na
+          podmínkách svého návratu, ale zaměstnavatel s ní vůbec nekomunikoval.
+          Ve chvíli, kdy měla žena nastoupit do práce, jí zaměstnavatel oznámil,
+          že pro ni nemá práci a s jejím návratem nepočítá. Po neúspěšné dohodě
+          o ukončení pracovního poměru jí zaměstnavatel nabídl poloviční úvazek.
+          Když to odmítla, zaměstnavatel ji vyzval k nástupu na původní pracovní
+          dobu, o které věděl, že jí kvůli péči o děti nevyhovuje.&nbsp;</p>
+
+          <p>Způsob komunikace zaměstnavatele i odmítnutí upravit pracovní dobu jsme vyhodnotili jako nepřímou diskriminaci. Zaměstnavatel odmítal změnit pracovní dobu tak, aby žena mohla vedle výkonu práce zajistit péči o své děti. Neposkytl přitom jasný důvod, proč pracovní dobu upravit nemůže. Při posuzování diskriminace sehráli roli konkrétní podmínky. O diskriminaci by nešlo, pokud lze postup zaměstnavatele rozumně ospravedlnit – například vážnými provozními a výrobními důvody. Diskriminační není ani situace, kdy zaměstnavatel sice nemůže směny upravit, ale nabídne jiné řešení, jako je práce z domova.</p>
+  - title: Navštěvujeme zařízení
+    articles:
+      - title: "Už od roku 2006 jsme národním preventivním mechanismem "
+        body: >-
+          <p>Chráníme lidi před špatným zacházením. Proto navštěvujeme zařízení,
+          kde jsou lidé omezení na svobodě nebo závislí na poskytované péči.
+          Jedná se například o věznice, dětské domovy nebo domovy pro seniory.
+          Od roku 2018 rovněž sledujeme, jak Česká republika naplňuje práva lidí
+          s postižením podle Úmluvy 6 OSN o právech osob se zdravotním
+          postižením. Proto navštěvujeme také zařízení, kde jsou lidé se
+          zdravotním postižením.</p>
+
+          <p>V květnu 2026 jsme provedli systematické návštěvy Dětského domova Karlovy Vary a Ostrov, Dětského domova Telč, Věznice Horní Slavkov a chráněného bydlení v Bartošovicích v Orlických horách. V červnu 2026 jsme sledovali správní vyhoštění ze Zařízení pro zajištění cizinců Vyšní Lhoty do Káhiry (Egypt).</p>
+      - title: "Varovali jsme před nelegálními domovy ohrožujícími lidi závislé na péči
+          "
+        body: >-
+          <blockquote>
+
+          <p>Zařízení, které fakticky poskytuje pobytovou sociální službu, musí mít registraci. Bez ní nemají klienti zajištěnou ochranu, odbornou péči ani řádný dohled úřadů.</p></blockquote>
+
+          <p>V červnu jsme veřejnost varovali před třemi zařízeními v Mutěnicích, Svitavách a Českých Budějovicích, která poskytovala péči bez povinné registrace. Ve všech jsme zjistili riziko špatného zacházení s klienty, v jednom jsme je přímo konstatovali.</p>
+
+          <p>V Mutěnicích laičtí pečující sami rozhodovali o podávání psychofarmak a péči zajišťoval i provozovatel bez oprávnění vykonávat lékařské povolání. Ve Svitavách jsme zjistili nevyhovující hygienické i požární podmínky. V Českých Budějovicích chybělo klientům soukromí při hygieně.</p>
+
+          <p>Všem třem zařízením jsme doporučili činnost legalizovat nebo ukončit. Podle našich informací však pokračují v provozu, proto jsme před nimi varovali veřejnost.</p>
+
+          <p>
+
+          <strong>Spisové značky: </strong>
+
+          <a href="https://eso.ochrance.cz/Nalezene/Edit/14464">
+
+          <strong>22/2024/NZ</strong></a>
+
+          <strong>, </strong>
+
+          <a href="https://eso.ochrance.cz/Nalezene/Edit/14594">
+
+          <strong>40/2024/NZ</strong></a>
+
+          <strong>, </strong>
+
+          <a href="https://eso.ochrance.cz/Nalezene/Edit/14592">
+
+          <strong>9/2025/NZ</strong></a></p>
+      - title: "Dětský domov Dolní Čermná ukazuje, jak řešit náročné situace citlivě a
+          odborně "
+        id: 20/2025/NZ
+        eso: https://eso.ochrance.cz/Nalezene/Edit/14634
+        body: >-
+          <p>Navštívili jsme Dětský domov Dolní Čermná, který letos dokončí
+          proces transformace. Děti budou vyrůstat v rodinných skupinách
+          umístěných v samostatných domech a bytech v běžné zástavbě.</p>
+
+          <p>Ani v těchto podmínkách však není práce vychovatelů jednoduchá. Někteří z nich pečují o děti s náročným a rizikovým chováním. Rodinné skupiny v transformovaném zařízení jsou sice menší než v tradičních dětských domovech – žije v nich zpravidla pět až šest dětí. Vychovatelé však nemají možnost okamžité vzájemné podpory, kterou mohou využít v zařízeních soustředěných v jedné budově. Ve vypjatých situacích se tak mohou ocitnout pod značným tlakem a někdy i v pocitu bezmoci. Některá naše zjištění naznačovala, že v takových situacích mohlo dojít k použití fyzických trestů vůči dětem.</p>
+
+          <p>Ředitelka zařízení přislíbila, že zjištění důkladně prověří a přijme potřebná opatření. Zároveň chce zajistit odbornou terapeutickou podporu vychovateli i dítěti, nejprve individuálně a následně případně společně. Velmi si ceníme přístupu ředitelky. Terapeutickou práci se vztahy mezi vychovateli a dětmi považujeme za příklad dobré praxe, se kterou se při návštěvách dětských zařízení běžně nesetkáváme.</p>
 ---
