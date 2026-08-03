@@ -17,7 +17,8 @@ perex: <p>Kriticky málo pobytových sociálních služeb svým obyvatelům
 attachments:
   - title: Územní dostupnost pobytových sociálních služeb zřizovaných hlavním městem
       Prahou – stanovisko zástupce ombudsmana v plném znění
-    file: https://www.ochrance.cz/uploads-import/ESO/OZP%2056-25-DST_final.pdf
+    file: ""
+    link: https://eso.ochrance.cz/Nalezene/Edit/14530
   - title: Factsheet „Dostupnost a charakter sociálních pobytových služeb určených
       Pražanům s postižením“
     file: https://www.ochrance.cz/aktualne/rada_prazanu_s_postizenim_musi_travit_sve_zivoty_daleko_od_rodin-_je_nejvyssi_cas_skoncit_s_jejich_segregaci_apeluje_zastupce_ombudsmana/factsheet_dostupnost_a_charakter_socialnich_pobytovych_sluzeb_urcenych_prazanum_s_postizenim.pdf
