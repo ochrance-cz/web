@@ -6,10 +6,10 @@ date: 2026-08-04T07:03:00
 vystupy:
   - tz
 perex: <p>Poté, co manželka onemocněla rakovinou, které nakonec i podlehla,
-  připadla muži převážná a následně výlučná péče o dvě nezletilé děti. Roky
-  plynuly, syn a dcera dospěli a muž dosáhl důchodového věku. Čekal, že mu Česká
-  správa sociálního zabezpečení&nbsp;zvýší důchod o tzv. výchovné. To se v Česku
-  vyplácí od roku 2023. Získává je ten z rodičů, který o dítě pečoval
+  připadla muži převážná a následně výlučná péče o jejich dvě nezletilé děti.
+  Roky plynuly, syn a dcera dospěli a muž dosáhl důchodového věku. Čekal, že mu
+  Česká správa sociálního zabezpečení&nbsp;zvýší důchod o tzv. výchovné. To se v
+  Česku vyplácí od roku 2023. Získává je ten z rodičů, který o dítě pečoval
   ve&nbsp;větším rozsahu. Úřad uznal, že takovým pečujícím byl v případě mladší
   dcery právě otec. U staršího syna to však odmítl. Změny dosáhl až po více než
   dvou letech ombudsman.&nbsp;</p>
