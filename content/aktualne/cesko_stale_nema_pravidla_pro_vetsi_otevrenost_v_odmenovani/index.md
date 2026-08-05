@@ -1,6 +1,8 @@
 ---
 title: Česko stále nemá pravidla pro větší otevřenost v odměňování
 date: 2026-08-05T08:48:00
+vystupy:
+  - tz
 perex: <p>7. června 2026 uplynula lhůta, do kdy měly členské státy Evropské unie
   převzít do svého práva pravidla pro větší transparentnost v odměňování žen a
   mužů. Česká republika zatím potřebné úpravy právních předpisů nepřijala.
