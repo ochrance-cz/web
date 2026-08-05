@@ -101,16 +101,27 @@ sections:
       **Sekretariát**
       telefon: (+420) 542 542 555
   - title: Sekce právní
-    intro: |-
+    intro: >-
       **Jana Gregorová**
+
       ředitelka sekce
+
       telefon: 542 542 360
+
       fax: 542 542 332
+
       e-mail: jana.gregorova@ochrance.cz 
 
+
       **Sekretariát:**
-      Michaela Nováková, tel: 542 542 238
-      Hana Suská, tel: 542 542 380
+
+      Michaela Nováková, tel: 542 542 238, michaela.novakova@ochrance.cz
+
+      Hana Suská, tel: 542 542 380, hana.suska@ochrance.cz                                                                                                                           Natália Hrušková, tel: 542 542 556, natalia.hruskova@ochrance.cz
+
+      Robert Jungmann, tel: 542 542 270, robert.jungmann@ochrance.cz
+
+      Aneta Řehková, tel. 542 542 285, aneta.rehkova@ochrance.cz
   - title: Odbor vnitřní správy
     intro: |-
       **Petr Lesa**
@@ -285,6 +296,18 @@ lawyers:
         role: právnička (sociálně-právní ochrana dětí, ústavní výchova)
         phone: 542 542 214
         email: barbora.lastuvkova@ochrance.cz
+      - email: magdalena.konecna@ochrance.cz
+        name: Magdalena Konečná
+        role: výzkumná pracovnice (monitoring)
+        phone: 542 542 303
+      - name: Monika Chvílová
+        role: odborná referentka (koordinátorka participace)
+        phone: 542 542 209
+        email: monika.chvilova@ochrance.cz
+      - name: Johana Mertová
+        role: odborná referentka (sociální pracovnice, monitoring)
+        phone: 542 542 210
+        email: johana.mertova@ochrance.cz
   - title: Odbor veřejného pořádku, zdravotnictví a práce
     intro: >
       matriky, evidence obyvatel, občanské a cestovní průkazy, státní občanství,
@@ -357,6 +380,14 @@ lawyers:
         role: "právnička "
         phone: 542 542 221
         email: eva.nejezchlebova@ochrance.cz
+      - name: Adéla Stárková
+        role: právnička
+        phone: 542 542 344
+        email: adela.starkova@ochrance.cz
+      - name: Anežka Vaňáčková
+        role: právnička
+        phone: 542 542 383
+        email: anezka.vanackova@ochrance.cz
   - title: Odbor sociálního zabezpečení
     intro: dávky pomoci v hmotné nouzi, příspěvek na péči, dávky pro zdravotně
       postižené, důchody, dávky nemocenského pojištění, dávky státní sociální
@@ -463,6 +494,10 @@ lawyers:
         role: právnička (věci cizinců)
         phone: 542 542 297
         email: beata.szakacsova@ochrance.cz
+      - name: "Petra Khollová "
+        role: monitor
+        phone: 542 542 297
+        email: petra.khollova@ochrance.cz
   - title: Odbor rovného zacházení
     intro: >
       poskytování metodické pomoci obětem diskriminace, provádění výzkumu v
@@ -538,10 +573,6 @@ lawyers:
         role: vedoucí odboru
         phone: 542 542 315
         email: milan.svoboda@ochrance.cz
-      - name: Petra Šelengová
-        role: právnička
-        phone: 542 542 261
-        email: petra.benackova@ochrance.cz
       - name: Cristina Boušková
         role: právnička
         phone: 542 542 287
@@ -591,6 +622,14 @@ lawyers:
         email: petra.novakova@ochrance.cz
       - name: Klára Štěpánková
         role: monitor
+        email: klara.stepankova@ochrance.cz
+      - name: Petra Nováková
+        role: monitor
+        phone: 542 542 263
+        email: petra.novakova@ochrance.cz
+      - name: Klára Štěpánková
+        role: monitor
+        phone: 542 542 269
         email: klara.stepankova@ochrance.cz
   - title: Odbor ochrany práv osob se zdravotním postižením
     people:
@@ -665,16 +704,16 @@ lawyers:
         role: právník, Oddělení metodiky a analýz
         phone: 542 542 374
         email: petr.polak@ochrance.cz
+      - name: Eliška Havla Pomyjová
+        role: odborná referentka (koordinátorka participace a lidskoprávního vzdělávání)
+        phone: 542 542 265
+        email: eliskahavla.pomyjova@ochrance.cz
   - title: Oddělení výzkumu
     people:
       - name: Jakub Konečný
         role: vedoucí oddělení
         phone: 542 542 232
         email: jakub.konecny@ochrance.cz
-      - name: Lucie Jirmásková
-        role: výzkumná pracovnice
-        phone: 542 542 265
-        email: lucie.novotna@ochrance.cz
       - name: Eva Čermáková
         role: výzkumná pracovnice
         phone: 542 542 355
@@ -683,8 +722,4 @@ lawyers:
         role: výzkumná pracovnice
         phone: 542 542 349
         email: veronika.prokschova@ochrance.cz
-      - name: Magdalena Konečná
-        role: výzkumná pracovnice
-        phone: 542 542 303
-        email: magdalena.konecna@ochrance.cz
 ---
