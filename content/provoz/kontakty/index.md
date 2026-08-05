@@ -117,7 +117,9 @@ sections:
 
       Michaela Nováková, tel: 542 542 238, michaela.novakova@ochrance.cz
 
-      Hana Suská, tel: 542 542 380, hana.suska@ochrance.cz                                                                                                                           Natália Hrušková, tel: 542 542 556, natalia.hruskova@ochrance.cz
+      Hana Suská, tel: 542 542 380, hana.suska@ochrance.cz                                                                                                                           
+
+      Natália Hrušková, tel: 542 542 556, natalia.hruskova@ochrance.cz
 
       Robert Jungmann, tel: 542 542 270, robert.jungmann@ochrance.cz
 
@@ -617,12 +619,6 @@ lawyers:
         role: právník
         phone: 542 542 286
         email: adam.stasek@ochrance.cz
-      - name: Petra Nováková
-        role: monitor
-        email: petra.novakova@ochrance.cz
-      - name: Klára Štěpánková
-        role: monitor
-        email: klara.stepankova@ochrance.cz
       - name: Petra Nováková
         role: monitor
         phone: 542 542 263
