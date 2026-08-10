@@ -5,8 +5,11 @@ perex: >
   poskytované v zařízeních před špatným zacházením. Dohlíží rovněž na provádění
   vyhoštění a předávání cizinců.
 illustration: DET-23.png
-hp: |
-  Ombudsman *sleduje* zacházení s těmito lidmi a podmínky v zařízeních, *upozorňuje* na zjištěné dílčí i systémové nedostatky a prosazuje jejich nápravu, *vzdělává* odbornou i širokou veřejnost, a *spolupracuje* s dalšími aktéry na prevenci špatného zacházení.
+hp: >
+  Ombudsman *sleduje* zacházení s těmito lidmi a podmínky v zařízeních,
+  *upozorňuje* na zjištěné dílčí i systémové nedostatky a prosazuje jejich
+  nápravu, *vzdělává* odbornou i širokou veřejnost, a *spolupracuje* s dalšími
+  aktéry na prevenci špatného zacházení.
 we-can:
   - Pokud vy sami nebo váš blízký čelíte špatnému zacházení v takovém zařízení.
   - Můžeme jednat se zařízením nebo jeho zřizovatelem, aby podmínky v zařízení
@@ -115,6 +118,8 @@ Ombudsman navštěvuje zařízení vazební věznice, věznice a ústavy pro vý
 [Zpráva z návštěv věznic (2016)](https://www.ochrance.cz/uploads-import/ESO/14-2014-NZ-Souhrnna_zprava_z_navstev_veznic.pdf) 
 
 **D﻿alší dokumenty z oblasti vězeňství**
+
+[Zdravotní služby ve věznicích (2026)](/media/2026-37-inf-cze_healthcare_in_prison.pdf)[](/media/komentar_k_revidovanym_evropskym_vezenskym_pravidlum_2020_.pdf)
 
 [Komentář k revidovaným Evropským vězeňským pravidlům (2020)](/media/komentar_k_revidovanym_evropskym_vezenskym_pravidlum_2020_.pdf)
 
