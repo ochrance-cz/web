@@ -119,7 +119,7 @@ title: "2025"
 <a href="https://www.ochrance.cz/info106/2025/19_2025_odpoved_priloha2.pdf">Příloha 2.</a></p>
 <p>
 <a href="https://www.ochrance.cz/info106/2025/19_2025_odpoved_priloha3.pdf">Příloha 3.</a></p>
-<h3>21/2025 – Informace ke spisům z&nbsp;oblasti Vězeňství11/2025 – Informace ke spisu z&nbsp;oblasti Správa na úseku zaměstnanosti</h3>
+<h3>21/2025 – Informace ke spisům z&nbsp;oblasti Vězeňství</h3>
 <p>
 <a href="https://www.ochrance.cz/info106/2025/21_2025_zadost.pdf">Žádost o informace.</a></p>
 <p>
