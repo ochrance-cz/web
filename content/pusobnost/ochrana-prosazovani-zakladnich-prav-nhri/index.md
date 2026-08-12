@@ -76,9 +76,6 @@ Jestli máte zájem stát se součástí připravovaného poradního orgánu, sl
 
 {{< rozbal "Vzdělávání a další zdroje o lidských právech" >}}
 
-### 
-**Vzdělávání a další zdroje o lidských právech**
-
 Pokud byste se chtěli o lidských právech dozvědět více, existuje celá řada užitečných zdrojů, které tyto informace nabízejí. My sami jsme například vytvořili [e-learning antidiskriminačního práva](https://diskriminace.ochrance.cz/login).
 
 Na stránkách Kanceláře vládního zmocněnce můžete také najít spoustu [tematických příruček](https://mezisoudy.cz/tematicke-prirucky), které se věnují různým tématům z rozhodovací praxe Evropského soudu pro lidská práva. Kancelář vládního zmocněnce zde navíc vydává svůj čtvrtletní [Zpravodaj KVZ](https://mezisoudy.cz/zpravodaj-kvz), kde ve spolupráci s námi, Ústavním soudem, Nejvyšším soudem a Nejvyšším správním soudem informuje o dění před Evropským soudem pro lidská práva a dalších orgánů.
