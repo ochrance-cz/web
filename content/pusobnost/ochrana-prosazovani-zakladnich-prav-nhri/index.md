@@ -74,6 +74,29 @@ Nikdo nemůže obsáhnout všechny zkušenosti a pohledy na otázky lidských pr
 
 Jestli máte zájem stát se součástí připravovaného poradního orgánu, sledujte naše webové stránky. 
 
+{{< rozbal "Nejčastější otázky a odpovědi o NHRI" >}}
+
+### 
+**Vzdělávání a další zdroje o lidských právech**
+
+Pokud byste se chtěli o lidských právech dozvědět více, existuje celá řada užitečných zdrojů, které tyto informace nabízejí. My sami jsme například vytvořili [e-learning antidiskriminačního práva](https://diskriminace.ochrance.cz/login).
+
+Na stránkách Kanceláře vládního zmocněnce můžete také najít spoustu [tematických příruček](https://mezisoudy.cz/tematicke-prirucky), které se věnují různým tématům z rozhodovací praxe Evropského soudu pro lidská práva. Kancelář vládního zmocněnce zde navíc vydává svůj čtvrtletní [Zpravodaj KVZ](https://mezisoudy.cz/zpravodaj-kvz), kde ve spolupráci s námi, Ústavním soudem, Nejvyšším soudem a Nejvyšším správním soudem informuje o dění před Evropským soudem pro lidská práva a dalších orgánů.
+
+Přehledy aktuální judikatury pravidelně zpracovávají také analytická oddělení soudů. K dispozici je tak [Bulletin
+Ústavního soudu](https://www.usoud.cz/bulletin-us) i [Bulletin Nejvyššího soudu](https://www.nsoud.cz/zahranicni-vztahy/bulletin/2026), ve kterých najdete mimo jiné anotace klíčových rozhodnutí Evropského soudu pro lidská práva, Soudního dvora EU a vrcholných soudů dalších evropských zemí.
+
+Kromě českých zdrojů můžete využít i řadu evropských a mezinárodních vzdělávacích platforem:
+
+* Rada Evropy (program HELP): Nabízí rozsáhlý [katalog on-line kurzů](https://help.elearning.ext.coe.int/local/edcatalog/pages/courses.php?filters=%7B%22custom_coe_language%22%3A%5B%22English%22%5D%7D) v různých jazykových mutacích, přičemž 17 kurzů je dostupných přímo v českém jazyce.
+* Dánský institut pro lidská práva (Dánská NHRI): Poskytuje [katalog 39 on-line kurzů](https://training.humanrights.dk/course/index.php?categoryid=all) zaměřených na zajímavá témata, jako jsou například Lidská práva a technologie nebo Lidská práva a byznys.
+* Akademie evropského práva (ERA): Zpřístupňuje materiály zaměřené na [antidiskriminační právo EU](https://eu-anti-discrimination-law.era.int/) a [rovnost žen a mužů v EU](https://eu-gender-equality-law.era.int/) a nabízí i další placené kurzy k právu EU.
+* Agentura EU pro základní práva (FRA): Na jejích stránkách najdete [informace k Listině základních práv EU](https://fra.europa.eu/en/eu-charter).
+* Evropská síť národních lidskoprávních institucí (ENNHRI): Nabízí přehled a informace o tom, [co mohou NHRI
+  v Evropě dělat v různých oblastech](https://ennhri.org/our-work/learning-resources/).
+
+{{< /rozbal >}}
+
 ### **Mezinárodní spolupráce**
 
 Jsme členem [ENNHRI](https://ennhri.org/). ENNHRI je evropská síť národních institucí pro lidská práva. Díky členství si můžeme vyměňovat zkušenosti a učit se od podobných institucí v jiných zemích.
