@@ -1,6 +1,6 @@
 ---
-title: Věková diskriminace na trhu práce se týká lidí i ve středním věku,
-  ukazuje výzkumná zpráva zástupce ombudsmanky a vědců z Masarykovy univerzity
+title: Věková diskriminace na trhu práce se týká lidí i ve středním věku,
+  ukazuje výzkumná zpráva zástupce ombudsmanky a vědců z Masarykovy univerzity
 date: 2026-08-13T07:42:00
 vystupy:
   - tz
