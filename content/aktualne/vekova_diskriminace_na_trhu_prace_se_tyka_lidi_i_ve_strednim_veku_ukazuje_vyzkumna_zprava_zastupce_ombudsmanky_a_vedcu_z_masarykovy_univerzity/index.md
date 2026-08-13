@@ -28,7 +28,7 @@ attachments:
 <p>
 <strong>Výzkum se uskutečnil formou tzv. korespondenčního experimentu</strong></p>
 <p>Korespondenční experiment je metoda vyvinutá pro spolehlivou detekci diskriminačního jednání, která umožňuje mít pod plnou kontrolou veškerou standardizovanou emailovou komunikaci mezi fiktivními uchazeči a reálnými zaměstnavateli. Výsledky tak nemohou být ovlivněny například osobním projevem uchazeče a dalšími vlivy, které by bylo obtížné udržet shodné pro všechny zaměstnavatele.</p>
-<p>Profily fiktivních uchazečů o zaměstnání byli vytvořeny pro muže od 40 do 55 let s běžným českým jménem, bydlištěm nedaleko nabízené práce a životopisem odpovídajícím požadavkům zaměstnavatele. Konkrétní věk neuváděly životopisy přímo – zaměstnavatelé ho však mohli odhadnout podle roku ukončení vzdělání.&nbsp;</p></blockquote>
+<p>Profily fiktivních uchazečů o zaměstnání byli vytvořeny pro muže od 40 do 55 let s&nbsp;běžným českým jménem, bydlištěm nedaleko nabízené práce a životopisem odpovídajícím požadavkům zaměstnavatele. Konkrétní věk neuváděly životopisy přímo – zaměstnavatelé ho však mohli odhadnout podle roku ukončení vzdělání.&nbsp;</p></blockquote>
 <p>Ačkoli je výběr nového zaměstnance věcí zaměstnavatele, jeho svoboda má své limity – jedním z&nbsp;nich je zákaz diskriminace. Zaměstnavatel by například zpravidla vůbec neměl zjišťovat věk uchazeče. Tato ochrana však v&nbsp;praxi příliš nefunguje, informaci o věku lze totiž obvykle z&nbsp;dalších údajů v&nbsp;životopise snadno odhadnout (například podle data ukončení studia).</p>
 <p>Zájemce o práci se navíc většinou vůbec nedozví, že si jej zaměstnavatel nevybral právě z důvodu věku. I v případě, kdy má jasné signály, že se tak stalo, nebývá snadné diskriminaci prokázat ani se jí bránit.&nbsp;</p>
 <p>Kromě diskriminačních zjištění týkajících se věku přinesl výzkum i další poznatek. Životopisy uchazečů s běžnými českými jmény získávaly výrazně méně pozitivních reakcí u pozic označených jako vhodné pro občany třetích zemí než u ostatních pozic.&nbsp;</p>
@@ -37,7 +37,7 @@ attachments:
 <strong>Příklady z&nbsp;praxe ombudsmana</strong></p>
 <ul>
 <li>
-<p>Muž se ucházel o místo ve společnosti podnikající v automobilovém průmyslu. Několikrát telefonicky hovořil s náboráři z agentury, kteří jej odmítli kvůli jeho vyššímu věku s tím, že práce v automobilovém průmyslu je fyzicky náročná. V tomto případě se diskriminaci nepodařilo prokázat.</p>
+<p>Muž se ucházel o místo ve společnosti podnikající v automobilovém průmyslu. Několikrát telefonicky hovořil s náboráři z&nbsp;agentury, kteří jej odmítli kvůli jeho vyššímu věku s tím, že práce v automobilovém průmyslu je fyzicky náročná. V&nbsp;tomto případě se diskriminaci nepodařilo prokázat.</p>
 <p>&nbsp; 
 <a href="https://eso.ochrance.cz/Nalezene/Edit/13648">Podrobnosti k případu</a></p></li>
 <li>
