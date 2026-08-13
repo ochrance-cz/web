@@ -19,7 +19,7 @@ attachments:
 <img src="https://www.ochrance.cz/aktualne/vekova_diskriminace_na_trhu_prace_se_tyka_lidi_i_ve_strednim_veku_ukazuje_vyzkumna_zprava_zastupce_ombudsmanky_a_vedcu_z_masarykovy_univerzity/obr_1.png" alt="Logo veřejného ochránce práv a Masarykovy univerzity"></figure>
 <p>„
 <i>Pokud jsou lidé při hledání práce znevýhodňováni z důvodů, které nesouvisejí s jejich schopnostmi nebo kvalifikací, dochází nejen k porušení zásady rovného zacházení, ale také ke ztrátě cenného lidského potenciálu. Diskriminace na trhu práce tak představuje problém jak pro jednotlivce, který jí čelí, tak pro společnost jako celek,“</i> zasazuje zástupce ombudsmanky Vít Alexander Schorm závěry experimentu do širších souvislostí.&nbsp;</p>
-<p>Konkrétně vyčíslená data shrnuje Štěpán Mikula, výzkumník z ECON MUNI: „
+<p>Konkrétně vyčíslená data shrnuje Štěpán Mikula, výzkumník z ECON&nbsp;MUNI: „
 <i>Diskriminace lidí v&nbsp;předdůchodovém věku je známý problém, který byl potvrzen mnoha výzkumy napříč evropskými zeměmi. Experiment však ukázal, že věková diskriminace začíná mnohem dříve. Už ve středním věku snižuje každý rok věku šanci pozitivní reakce zaměstnavatele v&nbsp;průměru o 0,3 procentního bodu.“</i></p>
 <p>Závěry o vlivu věku na trhu práce vycházejí ze „zkušeností“
 <i>&nbsp;</i>4&nbsp;280 fiktivních uchazečů, mužů ve věku 40 až 55 let. Právě tolik odpovědí totiž vědci rozeslali na nabídky inzerované v&nbsp;databázi Úřadu práce. I když každý z&nbsp;odeslaných životopisů odpovídal požadavkům inzerované pozice, pozitivní odezva přišla jen v&nbsp;menšině případů: U lidí ve&nbsp;
