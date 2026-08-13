@@ -21,8 +21,8 @@ attachments:
 <i>Pokud jsou lidé při hledání práce znevýhodňováni z důvodů, které nesouvisejí s jejich schopnostmi nebo kvalifikací, dochází nejen k porušení zásady rovného zacházení, ale také ke ztrátě cenného lidského potenciálu. Diskriminace na trhu práce tak představuje problém jak pro jednotlivce, který jí čelí, tak pro společnost jako celek,“</i> zasazuje zástupce ombudsmanky Vít Alexander Schorm závěry experimentu do širších souvislostí.&nbsp;</p>
 <p>Konkrétně vyčíslená data shrnuje Štěpán Mikula, výzkumník z ECON MUNI: „
 <i>Diskriminace lidí v&nbsp;předdůchodovém věku je známý problém, který byl potvrzen mnoha výzkumy napříč evropskými zeměmi. Experiment však ukázal, že věková diskriminace začíná mnohem dříve. Už ve středním věku snižuje každý rok věku šanci pozitivní reakce zaměstnavatele v&nbsp;průměru o 0,3 procentního bodu.“</i></p>
-<p>Závěry o vlivu věku na trhu práce vycházejí ze „zkušeností
-<i>“&nbsp;</i>4&nbsp;280 fiktivních uchazečů, mužů ve věku 40 až 55 let. Právě tolik odpovědí totiž vědci rozeslali na nabídky inzerované v&nbsp;databázi Úřadu práce. I když každý z&nbsp;odeslaných životopisů odpovídal požadavkům inzerované pozice, pozitivní odezva přišla jen v&nbsp;menšině případů: U lidí ve&nbsp;
+<p>Závěry o vlivu věku na trhu práce vycházejí ze „zkušeností“
+<i>&nbsp;</i>4&nbsp;280 fiktivních uchazečů, mužů ve věku 40 až 55 let. Právě tolik odpovědí totiž vědci rozeslali na nabídky inzerované v&nbsp;databázi Úřadu práce. I když každý z&nbsp;odeslaných životopisů odpovídal požadavkům inzerované pozice, pozitivní odezva přišla jen v&nbsp;menšině případů: U lidí ve&nbsp;
 <i> </i>věku 40–44 let se jednalo o 28,9 % případů. Pokud životopis odpovídal muži ve věku 51–55 let, pravděpodobnost pozitivní reakce zaměstnavatele klesla o téměř 3&nbsp;procentní body, a tím se snížily i jeho vyhlídky na získání práce.</p>
 <blockquote>
 <p>
