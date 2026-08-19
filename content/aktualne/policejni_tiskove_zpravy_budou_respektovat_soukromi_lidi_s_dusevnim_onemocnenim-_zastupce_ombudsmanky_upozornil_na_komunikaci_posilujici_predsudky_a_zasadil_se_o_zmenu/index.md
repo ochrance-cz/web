@@ -1,5 +1,5 @@
 ---
-title: "Policejní tiskové zprávy budou respektovat soukromí lidí s duševním
+title: "Policejní tiskové zprávy budou respektovat soukromí lidí s duševním
   onemocněním. Zástupce ombudsmanky upozornil na komunikaci posilující předsudky
   a zasadil se o změnu "
 date: 2026-08-19T08:44:00
