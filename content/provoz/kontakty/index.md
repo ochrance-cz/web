@@ -346,10 +346,6 @@ lawyers:
         role: právnička (přestupky)
         phone: 542 542 343
         email: helena.pindejova@ochrance.cz
-      - name: Anna Slováčková
-        role: právnička (doprava, veřejné cesty)
-        phone: 542 542 383
-        email: slovackova@ochrance.cz
       - name: Pavel Šitavanc
         role: právník (zdravotnictví)
         phone: 542 542 668
@@ -390,6 +386,10 @@ lawyers:
         role: právnička
         phone: 542 542 383
         email: anezka.vanackova@ochrance.cz
+      - name: Anežka Burdová
+        role: právnička
+        phone: 542 542 298
+        email: anezka.burdova@ochrance.cz
   - title: Odbor sociálního zabezpečení
     intro: dávky pomoci v hmotné nouzi, příspěvek na péči, dávky pro zdravotně
       postižené, důchody, dávky nemocenského pojištění, dávky státní sociální
@@ -450,6 +450,14 @@ lawyers:
         email: katerina.quittova@ochrance.cz
         phone: 542 542 363
         role: právnička (důchody)
+      - name: Michaela Denková
+        role: právnička
+        phone: 542 542 205
+        email: michaela.denkova@ochrance.cz
+      - name: Nikol Foldynová
+        role: právnička
+        phone: 542 542 204
+        email: nikol.foldynova@ochrance.cz
   - title: Odbor justice, migrace a financí
     intro: daně, cla, správní a místní poplatky, cizinecké záležitosti (víza,
       dlouhodobý pobyt, azyl, vyhoštění aj.), státní správa soudnictví (průtahy
@@ -627,6 +635,10 @@ lawyers:
         role: monitor
         phone: 542 542 269
         email: klara.stepankova@ochrance.cz
+      - name: Tereza Slachová
+        role: právnička
+        phone: 542 542 261
+        email: tereza.slachova@ochrance.cz
   - title: Odbor ochrany práv osob se zdravotním postižením
     people:
       - name: Romana Jakešová
