@@ -4,8 +4,9 @@ translationKey: ochrana-a-prosazovani-zakladnich-prav-a-svobod-NHRI
 draft: false
 illustration: zelena_budova_na_podzim.jpg
 headerColor: green
-perex: "Národní lidskoprávní instituce (NHRI) je nezávislá instituce určená k
-  ochraně a prosazování lidských práv. "
+perex: Národní lidskoprávní instituce (NHRI) je nezávislá instituce určená k
+  ochraně a prosazování lidských práv. V České republice je národní lidskoprávní
+  institucí ombudsman (veřejný ochránce práv).
 cta:
   title: "Máte informace o nějakém systémovém problému v oblasti lidských práv,
     kterým by se mohl zabývat ombudsman? Napište nám na e-mail:
