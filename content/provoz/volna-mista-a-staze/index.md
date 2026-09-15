@@ -4,10 +4,9 @@ linksAfter: []
 ---
 <h2>
 <strong>Volná místa</strong></h2>
-<p>V tuto chvíli hledáme&nbsp;</p>
+<p>V tuto chvíli hledáme právníky/právničky na daňovou a justiční agendu. Více informací v 
+<a href="https://www.ochrance.cz/aktualne/hledame_pravniky_pravnicky_na_danovou_a_justicni_agendu/">inzerátu</a>.</p>
 <ul>
-<li>
-<a href="https://www.ochrance.cz/aktualne/hledame_vyzkumniky_nebo_vyzkumnice_se_zamerenim_na_sledovani_zakladnich_a_nebo_prav_deti/">výzkumníky či výzkumnice</a></li>
 <li>
 <a href="https://www.ochrance.cz/aktualne/hledame_ucetni_nebo_ucetniho/">účetní/účetního</a></li></ul>
 <p>
