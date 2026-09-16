@@ -301,3 +301,5 @@ Redirect 301 /fileadmin/user_upload/Letaky/Zdravotni-pojisteni-cizincu.pdf /leta
 Redirect 301 /fileadmin/user_upload/Letaky/Zdravotnictvi-stiznosti.pdf /letaky/zdravotnictvi-stiznosti/zdravotnictvi-stiznosti.pdf
 Redirect 301 /fileadmin/user_upload/Letaky/Znalci.pdf /letaky/znalci/znalci.pdf
 Redirect 301 /fileadmin/user_upload/Letaky/Zvlastni-opravneni.pdf /letaky/zvlastni-opravneni/zvlastni-opravneni.pdf
+
+Redirect 301 /manifest-o-ustavni-peci/ /
