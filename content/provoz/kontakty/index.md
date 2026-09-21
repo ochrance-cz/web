@@ -516,10 +516,10 @@ lawyers:
       střední, vyšší odborné a vysokoškolské vzdělávání, postup České školní
       inspekce a Ministerstva školství, mládeže a tělovýchovy)
     people:
-      - name: Jana Kvasnicová
+      - name: Iva Palkovská
         role: vedoucí odboru
-        phone: 542 542 334
-        email: jana.kvasnicova@ochrance.cz
+        phone: 542 542 254
+        email: iva.palkovska@ochrance.cz
       - name: Eva Kočí Svobodová
         role: právnička
         phone: 542 542 280
@@ -564,10 +564,6 @@ lawyers:
         role: právnička
         phone: 542 542 247
         email: eva.nehudkova@ochrance.cz
-      - name: Iva Palkovská
-        role: "právnička "
-        phone: 542 542 254
-        email: iva.palkovska@ochrance.cz
       - name: Hana Brablcová
         role: "právnička "
         phone: 542 542 215
