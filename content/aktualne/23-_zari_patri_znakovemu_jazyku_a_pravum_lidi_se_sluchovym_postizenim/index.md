@@ -6,7 +6,7 @@ vystupy:
 perex: <p>Lidé se sluchovým postižením se ve svém životě potýkají s&nbsp;řadou
   překážek. Veřejný prostor například často nepočítá s&nbsp;tím, že pro některé
   z&nbsp;nich je jediným způsobem komunikace znakový jazyk. Mezinárodní den
-  neslyšících a Mezinárodního den znakových jazyků, které připadají na 23. září,
+  neslyšících a Mezinárodní den znakových jazyků, které připadají na 23. září,
   jsou jednou z příležitostí, jak si to připomenout.&nbsp;</p>
 ---
 <p>I když je Mezinárodní den neslyšících a znakových jazyků dobrý moment, kdy na práva lidí s&nbsp;postižením upozornit, Kancelář ombudsmana a dětského ombudsmana jim nezapomíná věnovat péči ani po zbytek roku. Řadu svých materiálů a akcí tlumočí do znakového jazyka. Lidé se sluchovým postižením mívají své zastoupení mezi členy poradních orgánů ombudsmana. A v&nbsp;neposlední řadě se ombudsmanští představitelé věnují konkrétním případům nebo oblastem, kdy mohou být práva lidí se sluchovým&nbsp;postižením ohrožena.&nbsp;</p>
