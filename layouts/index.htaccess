@@ -302,4 +302,4 @@ Redirect 301 /fileadmin/user_upload/Letaky/Zdravotnictvi-stiznosti.pdf /letaky/z
 Redirect 301 /fileadmin/user_upload/Letaky/Znalci.pdf /letaky/znalci/znalci.pdf
 Redirect 301 /fileadmin/user_upload/Letaky/Zvlastni-opravneni.pdf /letaky/zvlastni-opravneni/zvlastni-opravneni.pdf
 
-Redirect 301 /manifest-o-ustavni-peci/ /
+Redirect 301 /manifest-o-ustavni-peci/ /dokument/kamil_fousek_manifest_o_ustavni_peci_aneb_dustojnost_na_pridel/
