@@ -9,7 +9,7 @@ date: 2026-09-22
 vystupy:
   - publikace
 attachmentsTop:
-  - title: "Kamil Fousek: Manifest o ústavní péči aneb Důstojnost na příděl"
+  - title: E-kniha Manifest o ústavní péči aneb Důstojnost na příděl
     file: https://www.ochrance.cz/dokument/kamil_fousek_manifest_o_ustavni_peci_aneb_dustojnost_na_pridel/manifest_o_ustavni_peci_aneb_dustojnost_na_pridel.pdf
 attachments: []
 ---
