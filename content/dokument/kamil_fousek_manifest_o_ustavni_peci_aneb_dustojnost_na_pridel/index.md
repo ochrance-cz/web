@@ -8,9 +8,10 @@ perex: Osobní svědectví Kamila Fouska, autora, který fungování sociálníc
 date: 2026-09-22
 vystupy:
   - publikace
-attachments:
-  - file: https://www.ochrance.cz/dokument/kamil_fousek_manifest_o_ustavni_peci_aneb_dustojnost_na_pridel/manifest_o_ustavni_peci_aneb_dustojnost_na_pridel.pdf
-    title: "Kamil Fousek: Manifest o ústavní péči aneb Důstojnost na příděl"
+attachmentsTop:
+  - title: "Kamil Fousek: Manifest o ústavní péči aneb Důstojnost na příděl"
+    file: https://www.ochrance.cz/dokument/kamil_fousek_manifest_o_ustavni_peci_aneb_dustojnost_na_pridel/manifest_o_ustavni_peci_aneb_dustojnost_na_pridel.pdf
+attachments: []
 ---
 <blockquote>
 <p>
