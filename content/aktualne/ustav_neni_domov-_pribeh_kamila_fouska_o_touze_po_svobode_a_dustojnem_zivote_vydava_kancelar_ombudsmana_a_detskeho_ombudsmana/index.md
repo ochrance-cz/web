@@ -42,4 +42,4 @@ perex: <p>Život mezi zdmi ústavu pro lidi s&nbsp;postižením otevřeně popis
 <strong>Chcete si přečíst knihu Kamila Fouska?</strong></p>
 <p>
 <a href="https://www.ochrance.cz/dokument/kamil_fousek_manifest_o_ustavni_peci_aneb_dustojnost_na_pridel/">
-<strong>&nbsp;Stáhněte si ji v elektronické podob zdarma.&nbsp;</strong></a></p></blockquote>
+<strong>&nbsp;Stáhněte si ji v elektronické podobě zdarma.&nbsp;</strong></a></p></blockquote>
