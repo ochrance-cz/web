@@ -29,7 +29,7 @@ perex: <p>Život mezi zdmi ústavu pro lidi s&nbsp;postižením otevřeně popis
 <p>
 <strong>O autorovi „Manifestu“&nbsp;</strong></p>
 <p>
-<strong>Kamil Fousek</strong> (*17. července 1983) žije od narození s dětskou mozkovou obrnou a těžkým tělesným postižením. Je odkázán na pomoc druhých. Od mládí hledá vlastní způsoby, jak tvořit, vyjadřovat své pocity, zkušenosti i pohled na svět.</p>
+<strong>Kamil Fousek</strong> žije od narození s dětskou mozkovou obrnou a těžkým tělesným postižením. Je odkázán na pomoc druhých. Od mládí hledá vlastní způsoby, jak tvořit, vyjadřovat své pocity, zkušenosti i pohled na svět.</p>
 <p>Už jako dospívající psal básně a postupně svůj tvůrčí záběr rozšířil. Nadále píše, vystupuje jako DJ, věnuje se grafické tvorbě.</p>
 <p>Autor nemůže běžně používat klávesnici. Text vzniká tak, že na obrazovce myší vybírá a postupně odklikává jednotlivá písmena. Každá věta, každý odstavec a každý delší text proto znamenají nejen myšlenku a tvůrčí práci, ale také značné množství soustředění a vytrvalosti.</p>
 <p>V posledních letech do jeho tvorby výrazně vstoupila také osobní zkušenost s institucionální péčí.&nbsp;</p>
