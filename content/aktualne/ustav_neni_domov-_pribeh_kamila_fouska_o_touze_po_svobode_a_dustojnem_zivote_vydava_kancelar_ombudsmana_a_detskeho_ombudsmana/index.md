@@ -37,6 +37,9 @@ perex: <p>Život mezi zdmi ústavu pro lidi s&nbsp;postižením otevřeně popis
 <p>Kamil Fousek dnes žije v chráněném bydlení, pokračuje ve své tvorbě a zároveň se zapojuje do&nbsp;debaty o deinstitucionalizaci a o tom, jak by měla vypadat podpora lidí, kteří potřebují každodenní pomoc.</p>
 <p>
 <a href="https://petminutslavykamilafouska.euweb.cz/pet-minut-slavy-kamila-fouska-art-brut-grafiky-eseje-djkam23/?fbclid=IwY2xjawQ7AqJleHRuA2FlbQIxMABzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeZa2M9mKZUsPasM8_lgaRg2HxbrIGlwA_8aAMrhE2ElUGzz0-BUMmuJXm-Hc_aem_BOtpToj4u_HrtDwOJiOB0w">Webové stránky autora</a></p></blockquote>
+<blockquote>
+<p>
+<strong>Chcete si přečíst knihu Kamila Fouska?</strong></p>
 <p>
 <a href="https://www.ochrance.cz/manifest-o-ustavni-peci">
-<strong>Knihu si můžete stáhnout zdarma</strong></a></p>
+<strong>&nbsp;Stáhněte si ji v elektronické podob zdarma.&nbsp;</strong></a></p></blockquote>
