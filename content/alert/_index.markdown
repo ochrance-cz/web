@@ -1,9 +1,10 @@
 ---
-title: "AKTUÁLNĚ: Během vánočních svátků bude osobní příjem i infolinka dostupná
-  do 22. 12. Opět se na vás budeme těšit od 5. 1. Děkujeme za pochopení."
+title: Vydali jsme osobní svědectví o životě mezi zdmi ústavu pro lidi s
+  postižením. Stáhněte si zdarma e-knihu „Manifest o ústavní péči aneb
+  Důstojnost na příděl“
 prefix: ""
-active: false
+active: true
 ---
-Chtěli bychom vás také upozornit, že z technických důvodů nyní nelze provést podání pomocí O-portálu. Po tuto  se na ombudsmana či dětského ombudsmana můžete obrátit e-mailem na podatelna@ochrance.cz. 
+Život mezi zdmi ústavu pro lidi s postižením otevřeně popisuje kniha „Manifest o ústavní péči aneb Důstojnost na příděl“. Jde o osobní svědectví Kamila Fouska, autora, který fungování sociálních služeb zažil na vlastní kůži. Jeho příběh jsme právě vydali knižně. I tímto způsobem chce podpořit svou dlouhodobou snahu o to, aby lidé s postižením mohli žít důstojně a nezávisle – v přirozeném prostředí mimo velké instituce. 
 
-Na nápravě usilovně pracujeme. Děkujeme za pochopení.
+[E-kniha ke stažení](https://www.ochrance.cz/dokument/kamil_fousek_manifest_o_ustavni_peci_aneb_dustojnost_na_pridel/)
