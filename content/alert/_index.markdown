@@ -1,6 +1,7 @@
 ---
-title: Vydali jsme osobní svědectví o životě v ústavu pro lidi s postižením.
-  Stáhněte si zdarma e-knihu „Manifest o ústavní péči aneb Důstojnost na příděl“
+title: Vydali jsme osobní svědectví Kamila Fouska o životě v ústavu pro lidi s
+  postižením. Stáhněte si zdarma e-knihu „Manifest o ústavní péči aneb
+  Důstojnost na příděl“
 prefix: ""
 active: true
 ---
