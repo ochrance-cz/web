@@ -14,6 +14,9 @@ attachments:
   - title: "Diskriminace uchazečů o zaměstnání na trhu práce: Zpráva z
       korespondenčního experimentu v České republice"
     file: https://www.ochrance.cz/dokument/diskriminace_uchazecu_o_zamestnani_na_trhu_prace_zprava_z_korespondencniho_experimentu_v_ceske_republice/diskriminace_uchazecu_o_zamestnani_na_trhu_prace.pdf
+  - file: https://www.ochrance.cz/uploads-import/ESO/discrimination_against_job_seekers_in_the_labour_market_report_on_a_correspondence_experiment_in_the_czech_republic.pdf
+    title: "Discrimination against job seekers in the labour market: Report on a
+      correspondence experiment in the Czech Republic"
 ---
 <figure class="image">
 <img src="https://www.ochrance.cz/aktualne/vekova_diskriminace_na_trhu_prace_se_tyka_lidi_i_ve_strednim_veku_ukazuje_vyzkumna_zprava_zastupce_ombudsmanky_a_vedcu_z_masarykovy_univerzity/obr_1.png" alt="Logo veřejného ochránce práv a Masarykovy univerzity"></figure>
