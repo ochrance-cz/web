@@ -59,7 +59,7 @@ sections:
       - title: "Zastali jsme se babičky, po které chtěl úřad práce vrátit víc peněz, než
           musela "
         id: 115/2025/DO
-        eso: ""
+        eso: https://eso.ochrance.cz/Nalezene/Edit/15088
         body: >-
           <blockquote>
 
