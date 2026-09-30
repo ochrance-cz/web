@@ -113,7 +113,7 @@ perex: <p>Vybrali jsme kandidáty do poradních orgánů ombudsmanky a jejího
 
 
 <p>
-<strong>Poradní orgánu pro práva lidí s postižením&nbsp;</strong></p>
+<strong>Poradní orgán pro práva lidí s postižením&nbsp;</strong></p>
 <p>Členy poradního orgánu jsme vybírali s&nbsp;ohledem na to, aby v&nbsp;něm měli zastoupení lidé s různými zkušenostmi a potřebami souvisejícími s&nbsp;postižením. Mysleli jsme i na ty, jejichž hlas bývá méně slyšet. Usilovali jsme také o pokrytí důležitých oblastí Úmluvy o právech osob se zdravotním postižením a o propojení žité zkušenosti, odbornosti a advokační práce. Chtěli jsme vytvořit různorodou skupinu, která bude zástupci ombudsmanky přinášet podněty z komunit i každodenního života lidí s postižením.</p>
 <p>Budeme rádi za Vaši zpětnou vazbu. Veřejné konzultace se týká níže uvedených členek a členů. Svou zpětnou vazbu můžete poslat na&nbsp;e-mail 
 <a href="mailto:Poradni.CRPD@ochrance.cz">Poradni.CRPD@ochrance.cz</a> do 14. 10. 2026.</p>
@@ -151,7 +151,7 @@ perex: <p>Vybrali jsme kandidáty do poradních orgánů ombudsmanky a jejího
 <p>Ředitelka Aliance pro individualizovanou podporu, která hájí práva a zájmy lidí se zdravotním postižením a jejich blízkých. Dlouhodobě se věnuje sociální politice, systému sociálních služeb a prosazování podmínek pro důstojný a nezávislý život lidí s postižením v komunitě. Má také osobní zkušenost se systémem podpory díky svému zdravotnímu postižení.</p>
 <p>
 <strong>Eri Mrtva</strong></p>
-<p>Umělec a aktivista, který se věnuje spravedlivější společnosti se zaměřením na queer lidi a lidi s postižením. Věnuje se psaní, intermediálnímu umění a konzultacím přístupnosti.&nbsp;&nbsp;
+<p>Umělec a aktivista, který se věnuje spravedlivější společnosti se zaměřením na queer lidi a lidi s postižením. Věnuje se psaní, intermediálnímu umění a konzultacím přístupnosti.&nbsp;&nbsp;&nbsp;
 <strong>&nbsp;</strong></p>
 <p>
 <strong>Michal Prager</strong></p>
