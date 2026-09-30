@@ -180,6 +180,10 @@ perex: <p>Vybrali jsme kandidáty do poradních orgánů ombudsmanky a jejího
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 {{< /rozbal >}}
+
+
+<p>https://youtu.be/F23VfHAzVog</p>
