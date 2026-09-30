@@ -70,6 +70,9 @@ perex: <p>Vybrali jsme kandidáty do poradních orgánů ombudsmanky a jejího
 <strong>Zbyněk Roboch</strong></p>
 <p>Předseda spolku DIALOGOS, který hájí zájmy lidí se zkušeností s&nbsp;duševním onemocněním. Oblasti duševního zdraví se věnuje dlouhodobě, jak profesně tak i jako koníčku. Pracoval, mimo jiné, v Národním ústavu duševního zdraví nebo v týmu nemocničního ombudsmana v&nbsp;Psychiatrické nemocnici Bohnice. Nyní pracuje v Psychiatrické klinice v Praze. Je spolutvůrcem podcastu o duševním zdraví a závislostech.&nbsp;</p>
 <p>
+<strong>Jaroslav Stránský</strong></p>
+<p>Vedoucí právního oddělení Českomoravské konfederace odborových svazů, odborník na pracovní právo a právo sociálního zabezpečení. Externě se podílí na výuce pracovního práva a sociálního dialogu na Právnické fakultě Masarykovy univerzity. Věnuje se přednáškové a lektorské činnosti v oblasti pracovněprávních vztahů, je autorem několika publikací v oblasti pracovního práva, včetně komentáře k zákoníku práce.</p>
+<p>
 <strong>Gracián&nbsp;Svačina</strong></p>
 <p>Předseda Aliance center duševního zdraví. Dlouhodobě se věnuje rozvoji komunitní péče o lidi s vážným duševním onemocněním. Ve své práci propojuje zkušenosti z praxe center duševního zdraví se systémovým rozvojem zdravotně-sociálních služeb a prosazuje ochranu práv lidí s psychosociálním postižením, dostupnost komunitních služeb a mezioborovou spolupráci.</p>
 <p>
@@ -84,11 +87,13 @@ perex: <p>Vybrali jsme kandidáty do poradních orgánů ombudsmanky a jejího
 <p>
 <strong>Lucie Vidovićová</strong></p>
 <p>Socioložka a sociální gerontoložka. Jako odborná asistentka působí na katedře sociologie Fakulty sociálních studií Masarykovy univerzity, kde spoluzaložila Centrum pro výzkum stárnutí. Od roku 2001 spolupracuje i s Výzkumným institutem práce a sociálních věcí. Má zkušenost jako neformální pečující.&nbsp;</p>
-<p>
-<strong>Jaroslav Stránský</strong></p>
-<p>Vedoucí právního oddělení Českomoravské konfederace odborových svazů, odborník na pracovní právo a právo sociálního zabezpečení. Externě se podílí na výuce pracovního práva a sociálního dialogu na Právnické fakultě Masarykovy univerzity. Věnuje se přednáškové a lektorské činnosti v oblasti pracovněprávních vztahů, je autorem několika publikací v oblasti pracovního práva, včetně komentáře k zákoníku práce.</p>
+<p>&nbsp;</p>
+
 
 {{< /rozbal >}}
+
+
+
 
 {{< rozbal "Stálí hosté" >}}
 
@@ -103,7 +108,9 @@ perex: <p>Vybrali jsme kandidáty do poradních orgánů ombudsmanky a jejího
 <p>Ivana Veselá&nbsp;</p>
 <p>&nbsp;</p>
 
+
 {{< /rozbal >}}
+
 
 <p>
 <strong>Poradní orgánu pro práva lidí s postižením&nbsp;</strong></p>
@@ -144,7 +151,7 @@ perex: <p>Vybrali jsme kandidáty do poradních orgánů ombudsmanky a jejího
 <p>Ředitelka Aliance pro individualizovanou podporu, která hájí práva a zájmy lidí se zdravotním postižením a jejich blízkých. Dlouhodobě se věnuje sociální politice, systému sociálních služeb a prosazování podmínek pro důstojný a nezávislý život lidí s postižením v komunitě. Má také osobní zkušenost se systémem podpory díky svému zdravotnímu postižení.</p>
 <p>
 <strong>Eri Mrtva</strong></p>
-<p>Umělec a aktivista, který se věnuje spravedlivější společnosti se zaměřením na queer lidi a lidi s postižením. Věnuje se psaní, intermediálnímu umění a konzultacím přístupnosti.&nbsp;
+<p>Umělec a aktivista, který se věnuje spravedlivější společnosti se zaměřením na queer lidi a lidi s postižením. Věnuje se psaní, intermediálnímu umění a konzultacím přístupnosti.&nbsp;&nbsp;
 <strong>&nbsp;</strong></p>
 <p>
 <strong>Michal Prager</strong></p>
@@ -163,7 +170,7 @@ perex: <p>Vybrali jsme kandidáty do poradních orgánů ombudsmanky a jejího
 <p>Neslyšící manažerka advokační činnosti v Asociaci neslyšících, nedoslýchavých a jejich přátel (ASNEP), která se celý život věnuje hájení práv lidí se sluchovým postižením. Jako dcera neslyšících rodičů a matka neslyšících dětí propojuje profesní expertizu s hlubokou osobní zkušeností napříč generacemi. Dlouhodobě usiluje o odstraňování komunikačních a systémových bariér ve veřejném prostoru.</p>
 <p>
 <strong>Eliška Šulcová</strong></p>
-<p>Členka krajského advokačního týmu Aliance pro individualizovanou podporu a pracovní skupiny pro tvorbu Střednědobého plánu rozvoje sociálních služeb 2028–2032. Více než dva roky se věnuje participaci na rozvoji sociálních služeb v Praze. &nbsp;Od roku 2008 je na vozíku s paraplegií.</p>
+<p>Členka krajského advokačního týmu Aliance pro individualizovanou podporu a pracovní skupiny pro tvorbu Střednědobého plánu rozvoje sociálních služeb 2028–2032. Více než dva roky se věnuje participaci na rozvoji sociálních služeb v Praze. Od roku 2008 je na vozíku s paraplegií.</p>
 <p>
 <strong>Henryk Josef Tietjen</strong></p>
 <p>Student politologie, vášnivý dobrovolník, který žije se zbytky zraku. Chce, aby Česká republika byla přístupná všem, bez rozdílu. Všímá si problémů kolem sebe a snaží se je artikulovat na správných místech.</p>
@@ -173,5 +180,6 @@ perex: <p>Vybrali jsme kandidáty do poradních orgánů ombudsmanky a jejího
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+
 
 {{< /rozbal >}}
