@@ -88,6 +88,7 @@ perex: <p>Vybrali jsme kandidáty do poradních orgánů ombudsmanky a jejího
 <strong>Jaroslav Stránský</strong></p>
 <p>Vedoucí právního oddělení Českomoravské konfederace odborových svazů, odborník na pracovní právo a právo sociálního zabezpečení. Externě se podílí na výuce pracovního práva a sociálního dialogu na Právnické fakultě Masarykovy univerzity. Věnuje se přednáškové a lektorské činnosti v oblasti pracovněprávních vztahů, je autorem několika publikací v oblasti pracovního práva, včetně komentáře k zákoníku práce.</p>
 
+{{< /rozbal >}}
 
 {{< rozbal "Stálí hosté" >}}
 
@@ -101,6 +102,9 @@ perex: <p>Vybrali jsme kandidáty do poradních orgánů ombudsmanky a jejího
 <p>Josef Středula&nbsp;</p>
 <p>Ivana Veselá&nbsp;</p>
 <p>&nbsp;</p>
+
+{{< /rozbal >}}
+
 <p>
 <strong>Poradní orgánu pro práva lidí s postižením&nbsp;</strong></p>
 <p>Členy poradního orgánu jsme vybírali s&nbsp;ohledem na to, aby v&nbsp;něm měli zastoupení lidé s různými zkušenostmi a potřebami souvisejícími s&nbsp;postižením. Mysleli jsme i na ty, jejichž hlas bývá méně slyšet. Usilovali jsme také o pokrytí důležitých oblastí Úmluvy o právech osob se zdravotním postižením a o propojení žité zkušenosti, odbornosti a advokační práce. Chtěli jsme vytvořit různorodou skupinu, která bude zástupci ombudsmanky přinášet podněty z komunit i každodenního života lidí s postižením.</p>
@@ -169,3 +173,5 @@ perex: <p>Vybrali jsme kandidáty do poradních orgánů ombudsmanky a jejího
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+
+{{< /rozbal >}}
