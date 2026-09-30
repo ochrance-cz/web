@@ -186,4 +186,6 @@ perex: <p>Vybrali jsme kandidáty do poradních orgánů ombudsmanky a jejího
 {{< /rozbal >}}
 
 
-<p>https://youtu.be/F23VfHAzVog</p>
+
+
+{{< youtube "F23VfHAzVog" >}}
