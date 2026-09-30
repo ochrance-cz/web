@@ -104,8 +104,17 @@ perex: <p>Vybrali jsme kandidáty do poradních orgánů ombudsmanky a jejího
 <p>
 <strong>Poradní orgánu pro práva lidí s postižením&nbsp;</strong></p>
 <p>Členy poradního orgánu jsme vybírali s&nbsp;ohledem na to, aby v&nbsp;něm měli zastoupení lidé s různými zkušenostmi a potřebami souvisejícími s&nbsp;postižením. Mysleli jsme i na ty, jejichž hlas bývá méně slyšet. Usilovali jsme také o pokrytí důležitých oblastí Úmluvy o právech osob se zdravotním postižením a o propojení žité zkušenosti, odbornosti a advokační práce. Chtěli jsme vytvořit různorodou skupinu, která bude zástupci ombudsmanky přinášet podněty z komunit i každodenního života lidí s postižením.</p>
-<p>&nbsp;</p>
 <p>Budeme rádi za Vaši zpětnou vazbu. Veřejné konzultace se týká níže uvedených členek a členů. Svou zpětnou vazbu můžete poslat na&nbsp;e-mail 
 <a href="mailto:Poradni.CRPD@ochrance.cz">Poradni.CRPD@ochrance.cz</a> do 14. 10. 2026.</p>
-<p>Setkání se budou účastnit i stálí hosté.</p>
+
+
+{{< rozbal "Medailonky kandidátů" >}}
+
+
+<p>
+<strong>Natálie Ficencová</strong></p>
+<p>Vedoucí pro rozvoj a vnější vztahy v Amnesty International, kde vede lidskoprávní vzdělávání. Už přes dvanáct let se věnuje podpoře upozaďovaných skupin, zejména v oblasti práv lidí s postižením, neurodivergence a rovnosti. Je také bývalou osobní asistentkou, autistickou sebeobhájkyní, autorkou blogu www.zrzi.cz a osvojitelkou tří romských dětí, z nichž jedno má kombinované postižení.</p>
+<p>
+<strong>Andrea Procházková</strong></p>
+<p>Právnička zaměřující se na otázky lidských práv. V letech 2017–2024 působila v týdeníku Respekt jako novinářka. Od roku 2025 je v advokacii, kde se věnuje právům lidí s PAS+ a také rodinnému a trestnímu právu. Má doktorát z ústavního práva se zaměřením na lidská práva a strategickou litigaci a působí jako odborná asistentka na Katedře ústavního práva Právnické fakulty Univerzity Karlovy.</p>
 <p>&nbsp;</p>
