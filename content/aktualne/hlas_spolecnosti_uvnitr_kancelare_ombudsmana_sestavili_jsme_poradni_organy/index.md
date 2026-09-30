@@ -112,9 +112,60 @@ perex: <p>Vybrali jsme kandidáty do poradních orgánů ombudsmanky a jejího
 
 
 <p>
+<strong>Karin Bednarzová</strong></p>
+<p>Lektorka, metodička a konzultantka v oblasti sociálních služeb. Zaměřuje se zejména na služby věnované lidem se zdravotním znevýhodněním. Soustřeďuje se zejména na možnosti podpory a pomoci směřující k&nbsp;běžnému prožívání života v&nbsp;přirozeném prostředí. Ve své praxi propojuje přímou práci s lidmi se znevýhodněním s&nbsp;různými formami podpory poskytovatelů a pracovníků sociálních služeb v&nbsp;jejich práci.&nbsp;</p>
+<p>
+<strong>David Černý</strong></p>
+<p>Redaktor regionální televize. Zajímá se o práva lidí se zdravotním postižením, legislativu a její dopady v praxi. Plánuje se věnovat zejména duševnímu zdraví a prevenci sociálního vyloučení lidí s postižením.</p>
+<p>
+<strong>Štěpán Dyll</strong></p>
+<p>Sebeobhájce, který se věnuje prosazování práv lidí s mentálním postižením a duševním onemocněním. Sám takovéto znevýhodnění má a tak ví, že život s ním není vždy lehký. Aktivně se zúčastnil několika konferencí, kde sdílel své zkušenosti. Žije aktivním životem s mnoha koníčky, pracuje, má několik výučních listů.&nbsp;</p>
+<p>
 <strong>Natálie Ficencová</strong></p>
 <p>Vedoucí pro rozvoj a vnější vztahy v Amnesty International, kde vede lidskoprávní vzdělávání. Už přes dvanáct let se věnuje podpoře upozaďovaných skupin, zejména v oblasti práv lidí s postižením, neurodivergence a rovnosti. Je také bývalou osobní asistentkou, autistickou sebeobhájkyní, autorkou blogu www.zrzi.cz a osvojitelkou tří romských dětí, z nichž jedno má kombinované postižení.</p>
 <p>
+<strong>Nicole Fryčová</strong></p>
+<p>Právnička v&nbsp;&nbsp;Národní radě osob se zdravotním postižením. Od roku 2019 předsedá Výboru pro přístupnost veřejné správy a veřejných služeb při Radě vlády pro osoby se zdravotním postižením. Od prosince roku 2024 je členkou Rady vlády pro osoby se zdravotním postižením za občanskou společnost. Prosazuje a hájí práva a zájmy lidí se zdravotním postižením. &nbsp;Je v každodenním kontaktu s lidmi s různými potřebami, to vše jí pomáhá ke komplexnímu vhledu. Od narození je prakticky nevidomá.</p>
+<p>
+<strong>Lenka Hečková</strong></p>
+<p>Právnička se zaměřením zejména na témata související s lidskými právy, rovnými příležitostmi, inkluzí a diskriminací různě znevýhodněných skupin, zejména osob se zdravotním postižením. Dlouhodobě spolupracuje se Society for All, vede projekt Týmy duševního zdraví při střediscích výchovné péče, je členkou správní rady Aliance pro individualizovanou podporu a spolupracovnicí spolku DownSyndrom CZ.</p>
+<p>
+<strong>Lucie Hodková</strong></p>
+<p>Sociálně-rehabilitační konzultantka v organizaci Tichý svět. Věnuje se podpoře osob se sluchovým postižením, osvětě a vzdělávání veřejnosti. Sama žije s Usherovým syndromem a do poradního orgánu plánuje přinést propojení znalosti praxe i osobního pohledu člověka, který se setkává s bariérami spojenými se sluchovým a zrakovým postižením.</p>
+<p>
+<strong>Markéta Křečková</strong></p>
+<p>Sociální pracovnice a koordinátorka Asociace komunitních služeb v oblasti duševního zdraví. Dlouhodobě se věnuje právům lidí s postižením, reformě péče o duševní zdraví a zapojování lidí s vlastní zkušeností do rozhodování o službách a systému podpory. Vychází přitom také z vlastní zkušenosti s duševním onemocněním a systémem psychiatrické péče.</p>
+<p>
+<strong>Kristýna Mlejnková</strong></p>
+<p>Ředitelka Aliance pro individualizovanou podporu, která hájí práva a zájmy lidí se zdravotním postižením a jejich blízkých. Dlouhodobě se věnuje sociální politice, systému sociálních služeb a prosazování podmínek pro důstojný a nezávislý život lidí s postižením v komunitě. Má také osobní zkušenost se systémem podpory díky svému zdravotnímu postižení.</p>
+<p>
+<strong>Eri Mrtva</strong></p>
+<p>Umělec a aktivista, který se věnuje spravedlivější společnosti se zaměřením na queer lidi a lidi s postižením. Věnuje se psaní, intermediálnímu umění a konzultacím přístupnosti.&nbsp;
+<strong>&nbsp;</strong></p>
+<p>
+<strong>Michal Prager</strong></p>
+<p>Sebeobhájce, lektor a odborník na sociální služby, osobní asistenci a bezbariérovost. Je spoluzakladatelem spolku Žít po svém a hlavním autorem výzkumné zprávy Strategie přežití. Prosazuje právo na nezávislý a důstojný život. Propojuje přitom žitou zkušenost člověka s postižením a odborné znalosti.</p>
+<p>
 <strong>Andrea Procházková</strong></p>
 <p>Právnička zaměřující se na otázky lidských práv. V letech 2017–2024 působila v týdeníku Respekt jako novinářka. Od roku 2025 je v advokacii, kde se věnuje právům lidí s PAS+ a také rodinnému a trestnímu právu. Má doktorát z ústavního práva se zaměřením na lidská práva a strategickou litigaci a působí jako odborná asistentka na Katedře ústavního práva Právnické fakulty Univerzity Karlovy.</p>
+<p>
+<strong>Jakub Purdjak</strong></p>
+<p>Ředitel organizace AGAPO, která podporuje lidi se zdravotním a sociálním znevýhodněním při získání a udržení zaměstnání na otevřeném trhu práce. Dlouhodobě se věnuje podporovanému zaměstnávání a přechodu mladých lidí ze školy do samostatného života. V poradním orgánu plánuje zastupovat také hlas Asociace pro otevřený trh práce (APOT).</p>
+<p>
+<strong>Jitka Reineltová</strong></p>
+<p>Ředitelka organizace PARENT PROJECT a dlouhodobě pečující maminka o syna s Duchennovou svalovou dystrofií. Věnuje se ochraně práv lidí se zdravotním postižením, podpoře pečujících a prosazování dostupnějších zdravotních a sociálních služeb. Do své práce propojuje osobní zkušenost s poznatky rodin z celé České republiky.</p>
+<p>
+<strong>Pavlína Spilková</strong></p>
+<p>Neslyšící manažerka advokační činnosti v Asociaci neslyšících, nedoslýchavých a jejich přátel (ASNEP), která se celý život věnuje hájení práv lidí se sluchovým postižením. Jako dcera neslyšících rodičů a matka neslyšících dětí propojuje profesní expertizu s hlubokou osobní zkušeností napříč generacemi. Dlouhodobě usiluje o odstraňování komunikačních a systémových bariér ve veřejném prostoru.</p>
+<p>
+<strong>Eliška Šulcová</strong></p>
+<p>Členka krajského advokačního týmu Aliance pro individualizovanou podporu a pracovní skupiny pro tvorbu Střednědobého plánu rozvoje sociálních služeb 2028–2032. Více než dva roky se věnuje participaci na rozvoji sociálních služeb v Praze. &nbsp;Od roku 2008 je na vozíku s paraplegií.</p>
+<p>
+<strong>Henryk Josef Tietjen</strong></p>
+<p>Student politologie, vášnivý dobrovolník, který žije se zbytky zraku. Chce, aby Česká republika byla přístupná všem, bez rozdílu. Všímá si problémů kolem sebe a snaží se je artikulovat na správných místech.</p>
+<p>
+<strong>Anna Karolina Tomoszková</strong></p>
+<p>Studentka šestiletého studijního oboru na Gymnáziu Olomouc-Hejčín. Má osobní zkušenost s dětskou mozkovou obrnou a epilepsií. Ve volném čase se věnuje paraplavání. Několik let se podílela na projektu inkluzivního hřiště, rok působila v poradní skupině mladých lidí UNICEF (Youth Advisory Board) a pracuje jako vedoucí na vědeckotechnických příměstských táborech Geniátor.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 <p>&nbsp;</p>
