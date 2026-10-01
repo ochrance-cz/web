@@ -32,12 +32,15 @@ title: GDPR a ochrana osobních údajů
 <li>
 <strong>zástupců spolupracujících úřadů, institucí a organizací</strong> za účelem seznámení s činností ochránce a ochránce práv dětí a poznatky, které z jejich činnosti vyplynuly;</li>
 <li>
-<strong>jednotlivců, organizací a dalších subjektů</strong>, kteří ochránci a ochránci práv dětí sdělují informace za účelem prosazování práv a svobod podle zákona č. 349/1999 Sb., o veřejném ochránci práv a o ochránci práv dětí, ve znění pozdějších předpisů.</li></ol>
+<strong>jednotlivců, organizací a dalších subjektů</strong>, kteří ochránci a ochránci práv dětí sdělují informace za účelem prosazování práv a svobod podle zákona č. 349/1999 Sb., o veřejném ochránci práv a o ochránci práv dětí, ve znění pozdějších předpisů;</li>
+<li>
+<strong>uvedené ve formuláři chatbota</strong>, kterého Kancelář provozuje na svých webových stránkách, za účelem vyhledání relevantních výstupů.</li></ol>
 <p>S &nbsp;osobními údaji, které zpracováváme, se mohou seznámit pouze zaměstnanci a&nbsp;zaměstnankyně Kanceláře veřejného ochránce práv a ochránce práv dětí, kteří jsou na&nbsp;základě svého organizačního a&nbsp;pracovního zařazení oprávněni s&nbsp; osobními údaji nakládat. Mimo Kancelář veřejného ochránce práv a ochránce práv dětí můžeme zpracovávané osobní údaje zpřístupnit:</p>
 <ul>
 <li>úřadům, institucím, zařízením a&nbsp;dalším osobám, jejichž činností se veřejný ochránce práv a ochránce práv dětí mohou&nbsp;zabývat, pokud je to nezbytné pro&nbsp;vyřízení podnětu;</li>
 <li>na základě zákona a&nbsp;se souhlasem ochránce nebo ochránce práv dětí orgánům veřejné moci (např.&nbsp;orgánům činným v&nbsp;trestním řízení, soudu);</li>
-<li>kontrolním orgánům, je-li to nezbytné v&nbsp;souvislosti s&nbsp;kontrolou činnosti Kanceláře veřejného ochránce práv a ochránce práv dětí.</li></ul>
+<li>kontrolním orgánům, je-li to nezbytné v&nbsp;souvislosti s&nbsp;kontrolou činnosti Kanceláře veřejného ochránce práv a ochránce práv dětí;</li>
+<li>dalším osobám a organizacím na základě platných smluv v rozsahu nezbytném pro účely zpracování.</li></ul>
 <p>Pseudoanonymizované údaje vybraných osob, které se nás obrátily podnětem, zpřístupňujeme prostřednictvím 
 <a href="https://eso.ochrance.cz/">Evidence stanovisek ochránce (ESO)</a>, abychom informovali veřejnost o činnosti veřejného ochránce práv a ochránce práv dětí.</p>
 <h2>Jak právo chrání Vaše osobní údaje?</h2>
