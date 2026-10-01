@@ -56,6 +56,14 @@ sections:
       e-mail: marek.kosik@ochrance.cz
 
 
+      **Zuzana Jarabinská**
+
+      telefon: (+420) 542 542 284
+
+      e-mail: zuzana.jarabinska@ochrance.cz
+
+
+
       ### **Oddělení PR a marketingu**
 
 
@@ -432,11 +440,6 @@ lawyers:
         role: právnička (důchody, dávky s cizím prvkem, nemocenské pojištění)
         phone: 542 542 369
         email: katerina.pavlickova@ochrance.cz
-      - name: Ivana Polášková
-        role: právnička (dávky pomoci v hmotné nouzi, dávky pro osoby se zdravotním
-          postižením, dávky státní sociální podpory)
-        phone: 542 542 387
-        email: ivana.polaskova@ochrance.cz
       - name: Zuzana Ščuková
         role: právnička (dávky pomoci v hmotné nouzi, státní sociální podpora, dávky pro
           osoby se zdravotním postižením)
@@ -446,10 +449,6 @@ lawyers:
         role: "právnička "
         phone: 542 542 296
         email: andrea.vasickova@ochrance.cz
-      - name: Kateřina Quittová
-        email: katerina.quittova@ochrance.cz
-        phone: 542 542 363
-        role: právnička (důchody)
       - name: Michaela Denková
         role: právnička
         phone: 542 542 205
@@ -564,10 +563,10 @@ lawyers:
         role: právnička
         phone: 542 542 247
         email: eva.nehudkova@ochrance.cz
-      - name: Hana Brablcová
-        role: "právnička "
+      - name: Marek Sedlák
+        role: právník
         phone: 542 542 215
-        email: hana.brablcova@ochrance.cz
+        email: marek.sedlak@ochrance.cz
   - title: Odbor dohledu nad omezováním osobní svobody
     intro: >
       provádění systematických preventivních návštěv v zařízení, kde se mohou
@@ -673,6 +672,10 @@ lawyers:
         role: právnička
         phone: 542 542 332
         email: "nina.lenorakova@ochrance.cz   "
+      - name: Kateřina Ševčíková
+        role: právnička
+        phone: 542 542 257
+        email: katerina.sevcikova@ochrance.cz
   - title: Odbor strategií, metodik a koordinace
     people:
       - name: Veronika Bazalová
@@ -704,10 +707,6 @@ lawyers:
         role: právnička, Oddělení metodiky a analýz
         phone: 542 542 373
         email: kristina.kruzlicova@ochrance.cz
-      - name: Petr Polák
-        role: právník, Oddělení metodiky a analýz
-        phone: 542 542 374
-        email: petr.polak@ochrance.cz
       - name: Eliška Havla Pomyjová
         role: odborná referentka (koordinátorka participace a lidskoprávního vzdělávání)
         phone: 542 542 265
