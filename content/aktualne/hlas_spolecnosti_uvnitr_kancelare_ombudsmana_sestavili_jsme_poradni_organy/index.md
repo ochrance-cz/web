@@ -98,6 +98,7 @@ perex: <p>Vybrali jsme kandidáty do poradních orgánů ombudsmanky a jejího
 {{< rozbal "Stálí hosté" >}}
 
 
+<p>Kateřina Bursíková Jacques</p>
 <p>Natálie Ficencová</p>
 <p>Nicole Fryčová</p>
 <p>Zdeněk Kapitán&nbsp;</p>
@@ -151,7 +152,7 @@ perex: <p>Vybrali jsme kandidáty do poradních orgánů ombudsmanky a jejího
 <p>Ředitelka Aliance pro individualizovanou podporu, která hájí práva a zájmy lidí se zdravotním postižením a jejich blízkých. Dlouhodobě se věnuje sociální politice, systému sociálních služeb a prosazování podmínek pro důstojný a nezávislý život lidí s postižením v komunitě. Má také osobní zkušenost se systémem podpory díky svému zdravotnímu postižení.</p>
 <p>
 <strong>Eri Mrtva</strong></p>
-<p>Umělec a aktivista, který se věnuje spravedlivější společnosti se zaměřením na queer lidi a lidi s postižením. Věnuje se psaní, intermediálnímu umění a konzultacím přístupnosti.&nbsp;&nbsp;&nbsp;
+<p>Umělec a aktivista, který se věnuje spravedlivější společnosti se zaměřením na queer lidi a lidi s postižením. Věnuje se psaní, intermediálnímu umění a konzultacím přístupnosti.&nbsp;&nbsp;&nbsp;&nbsp;
 <strong>&nbsp;</strong></p>
 <p>
 <strong>Michal Prager</strong></p>
