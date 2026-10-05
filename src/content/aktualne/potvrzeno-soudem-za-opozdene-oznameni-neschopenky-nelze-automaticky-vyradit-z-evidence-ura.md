@@ -1,0 +1,28 @@
+---
+title: "Potvrzeno soudem:  za opožděné oznámení neschopenky nelze automaticky
+  vyřadit z evidence úřadu práce"
+date: 2020-09-25T00:00:00.000Z
+perex: Nejvyšší správní soud potvrdil názor zástupkyně ombudsmana Moniky
+  Šimůnkové, že v případě stěžovatele nemohlo být opožděné oznámení dočasné
+  neschopnosti důvodem jeho automatického vyřazení z evidence úřadu práce.
+  Stěžovatel, jehož případem se zástupkyně ombudsmana zabývala, se díky tomu
+  vrací do evidence uchazečů o zaměstnání, a nebude mít dluh na zdravotním
+  pojištění.
+kategorie:
+  - tz
+---
+Zástupkyně ombudsmana se opakovaně setkává s případy lidí, kteří během evidence na úřadu práce onemocněli, navštívili lékaře, z vážných důvodů oznámili úřadu práce svou dočasnou neschopnost plnit povinnosti uchazeče o zaměstnání se zpožděním  a úřad práce je za to bez dalšího vyřadil z evidence.
+
+*„Postup úřadu práce je nepřiměřený situaci a velice tvrdý. Lidé, kteří se na mne obracejí, se nevyhýbali svým povinnostem, nejednali účelově, pouze potvrzení své  nemoci neoznámili z nejrůznějších důvodů úřadu práce  ihned. Kvůli tomu byli vyřazeni z evidence, přišli o podporu v nezaměstnanosti, o zdravotní pojištění hrazené státem, ztratili nárok na dávky pomoci v hmotné nouzi,“* vysvětluje zástupkyně ombudsmana.
+
+Jeden z případů, kterým se zabývala a v němž vytýkala nesprávný postup úřadu práce a ministerstva v řízení o vyřazení stěžovatele z evidence, se dostal až k Nejvyššímu správnímu soudu. Stěžovatel onemocněl a  lékařka mu ve čtvrtek v podvečer vystavila dočasnou neschopenku. Úřadu práce ji už nestihl večer doručit ani oznámit, protože  internet doma nemá, veřejná knihovna s internetem už měla zavřeno a telefonovat na úřad ve večerních hodinách považoval za zbytečné. Protože nemohl chodit, jeho družka zkoušela druhý den na úřad práce volat, ale protože nebyl úřední den, nedovolala se. Stěžovatel nevěděl, že lze poslat SMS zprávu o dočasné neschopnosti  na pevnou linku úřadu práce. Netušil ani, že je na  budově úřadu práce schránka, do níž lze potvrzení o dočasné  neschopnosti vhodit. Potvrzení o dočasné neschopnosti  tak jeho družka předala úřadu práce až v pondělí. Úřad práce nepřihlížel ke všem okolnostem, nezohlednil složitou  situaci, v níž se stěžovatel nacházel, a přistoupil k přísnému a nepřiměřeně formalistnímu rozhodnutí o sankčním vyřazení stěžovatele z evidence uchazečů o zaměstnání. Ani zástupkyni ombudsmana se nepodařilo na základě závěrů šetření postoj úřadu práce a ministerstva změnit, proto se stěžovatel obrátil na správní soudy – nejprve správní žalobou na Městský soud v Praze, poté kasační stížností na Nejvyšší správní soud. Ten rozsudkem ze dne 7. září 2020\[1\] zrušil rozhodnutí Ministerstva práce a sociálních věcí, které potvrdilo rozhodnutí úřadu práce o vyřazení stěžovatele z evidence. Soud se ztotožnil s názorem zástupkyně ombudsmana a stejně jako ona vytkl oběma úřadům, že postupovaly v rozporu se smyslem a cílem zákona o zaměstnanosti. Nejvyšší správní soud shodně jako zástupkyně ombudsmana uzavřel, že důvody, pro které stěžovatel nesplnil svou oznamovací povinnost dle § 27 odst. 3 zákona o zaměstnanosti, lze považovat za „vážné“, resp. „hodné zvláštního zřetele“ podle § 5 písm. c) bod 7 zákona o zaměstnanosti. Dodal, že správní orgány měly naplnění těchto důvodů hodnotit vstřícně s ohledem na celkové okolnosti případu a s přihlédnutím ke smyslu právní úpravy v oblasti politiky zaměstnanosti. Stěžovatel se tak vrací do evidence úřadu práce a soud mu rovněž přiznal náklady soudního řízení.
+
+*„Jsem ráda, že má případ šťastný konec, ale současně mě mrzí, že se úřady tak zarputile bránily jednat méně formalisticky a vidět za paragrafy člověka. Není dobrým signálem, když jsou lidé nuceni prosoudit si individuálně své případy, přestože je zde dřívější judikatura, která by měla být úřadům vodítkem,“* připomíná zástupkyně ombudsmana dřívější judikaturu Nejvyššího správního soudu, která úřadu práce jasně ukládala povinnost posuzovat adekvátnost trestu k závažnosti porušení povinnosti.
+
+V současné době už se na oznamování dočasné  neschopnosti úřadu práce vztahuje nová právní úprava. Novela zákona o zaměstnanosti prodloužila od 14. 4. 2020 lhůtu pro oznámení dočasné neschopnosti úřadu práce  na 3 kalendářní dny ode dne vystavení potvrzení.
+
+
+
+* * *
+
+\[1\] Rozsudek Nejvyššího správního soudu ze dne 7. 9. 2020, č. j. 1 Ads 213/2020-33; [www.nssoud.cz](http://www.nssoud.cz/ "Otevření do nového okna")

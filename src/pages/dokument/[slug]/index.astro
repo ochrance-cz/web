@@ -1,0 +1,43 @@
+---
+// Document detail — mirrors layouts/dokument/single.html.
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import TextHeader from '../../../components/TextHeader.astro';
+import MarkdownContent from '../../../components/MarkdownContent.astro';
+import NewsletterForm from '../../../components/NewsletterForm.astro';
+import { renderMarkdown } from '../../../lib/markdown';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('dokument', (e) => !e.data.draft);
+  return entries.map((entry) => ({ params: { slug: entry.id }, props: { entry } }));
+}
+
+const { entry } = Astro.props;
+const { data } = entry;
+
+// Resolve vystupy term slugs → titles (collection may be empty in isolation).
+const terms = await getCollection('vystupy');
+const termTitle = new Map(terms.map((t) => [t.id, t.data.title as string]));
+const tags = (data.vystupy ?? []).map((s) => termTitle.get(s) ?? s);
+
+const perexHtml = data.perex ? await renderMarkdown(data.perex) : '';
+---
+<BaseLayout title={data.title} description={data.perex} lang="cs">
+  <main data-pagefind-body>
+    <TextHeader title={data.title} date={data.date} tags={tags} locale="cs" />
+
+    <div>
+      <section>
+        {perexHtml && <div class="perex" set:html={perexHtml} />}
+
+        <MarkdownContent content={entry.body} />
+        {entry.id === 'prihlaseni_k_odberu_zpravodaje_ombudsmana' && <NewsletterForm />}
+
+        {data.file && (
+          <a href={data.file} class="_button">Stáhnout dokument</a>
+        )}
+
+      </section>
+    </div>
+  </main>
+</BaseLayout>

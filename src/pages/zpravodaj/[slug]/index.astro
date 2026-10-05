@@ -1,0 +1,86 @@
+---
+import * as pageCopy0 from '../../../components/page-content/section-pages/zpravodaj.astro';
+// Zpravodaj issue detail — header, PDF download, perex, author, then the
+// issue's articles grouped by section (from the zpravodaj-articles child
+// collection), each rendered with its body HTML and ESO link.
+import type { GetStaticPaths } from 'astro';
+import { getCollection, type CollectionEntry } from 'astro:content';
+import SingleLayout from '../../../layouts/SingleLayout.astro';
+import NewsletterArticle from '../../../components/NewsletterArticle.astro';
+
+export const getStaticPaths = (async () => {
+  const issues = await getCollection('zpravodaj');
+  return issues.map((issue) => ({
+    params: { slug: issue.id },
+    props: { issue },
+  }));
+}) satisfies GetStaticPaths;
+
+interface Props {
+  issue: CollectionEntry<'zpravodaj'>;
+}
+const { issue } = Astro.props;
+const { slug } = Astro.params;
+import { data as section } from '../../../components/page-content/section-pages/zpravodaj.astro';
+
+// Articles for this issue, ordered.
+const allArticles = await getCollection('zpravodaj-articles');
+const articles = allArticles
+  .filter((a) => a.data.parent === slug)
+  .sort((a, b) => a.data.order - b.data.order);
+
+// Keep each article's anchor + section for grouping and rendering.
+const rendered = articles.map((article) => ({
+  article,
+  anchor: `item-${article.data.order}`,
+}));
+
+// Group (preserving order) by section title for the TOC + body sections.
+type Group = { section: string; items: typeof rendered };
+const groups: Group[] = [];
+for (const r of rendered) {
+  const section = r.article.data.section ?? '';
+  const last = groups[groups.length - 1];
+  if (last && last.section === section) last.items.push(r);
+  else groups.push({ section, items: [r] });
+}
+---
+<SingleLayout
+  title={issue.data.title}
+  lang="cs"
+  bodyClass="_magazine"
+  header={{ backlink: { href: '/zpravodaj/', label: section.backlinkLabel ?? '' } }}
+>
+  {issue.data.file && (
+    <p><a href={issue.data.file} class="_button">{section.printLabel}</a></p>
+  )}
+
+  {issue.data.perex && <div class="perex" set:html={issue.data.perex} />}
+
+  {issue.data.author && <p class="author"><i>{issue.data.author}</i></p>}
+
+  {groups.length > 0 && (
+    <>
+      <h2>{section.contentsTitle}</h2>
+      {groups.map((group) => (
+        <>
+          {group.section && <h3>{group.section}</h3>}
+          <ul class="_link-list">
+            {group.items.map((r) => (
+              <li><a href={`#${r.anchor}`}>{r.article.data.title}</a></li>
+            ))}
+          </ul>
+        </>
+      ))}
+    </>
+  )}
+
+  {groups.map((group) => (
+    <section>
+      {group.section && <h2>{group.section}</h2>}
+      {group.items.map(({ article, anchor }) => (
+        <NewsletterArticle article={article} anchor={anchor} />
+      ))}
+    </section>
+  ))}
+</SingleLayout>

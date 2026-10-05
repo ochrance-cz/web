@@ -37,7 +37,7 @@ access:
     budovy vyhrazena vhodná parkovací místa a pokud při příjezdu ohlásí tuto
     potřebu na recepci, je jim zajištěn bezbariérový přístup do budovy a
     případná asistence.
-  pic: /images/kontakt.jpg
+  pic: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/images/kontakt.jpg
 pressAgent:
   role: "Kontakt pro média "
   name: Michaela Vaisová

@@ -1,0 +1,22 @@
+---
+title: Fungující systém památkové péče by mohl zabránit případům, jako je
+  Ostravica či havířovské nádraží
+date: 2014-08-05T00:00:00.000Z
+perex: Co nejrychlejší přijetí nového památkového zákona, který by nahradil
+  nevyhovující právní úpravu z roku 1987, je nezbytným krokem k zajištění
+  správně fungujícího systému státní památkové péče. Zástupce veřejné ochránkyně
+  práv Stanislav Křeček proto vítá, že ministerstvo kultury na novém zákoně
+  intenzivně pracuje, a v rámci jednání poradního sboru uplatnil své poznatky
+  získané z šetření konkrétních případů.
+kategorie:
+  - tz
+---
+Nový zákon by měl upravit možnosti dotací vlastníkům nemovitostí v památkových územích a posiluje pravomoci Památkové inspekce, což koresponduje s dřívějšími doporučeními ochránce Poslanecké sněmovně. Zástupce veřejné ochránkyně práv rovněž vítá, že připravovaný zákon počítá s tím, že se památkově chráněná území stanoví opatřením obecné povahy, což zaručí větší míru zapojení veřejnosti a dotčených vlastníků.
+
+Pro účinné zajištění ochrany kulturních památek je však podle zástupce ochránkyně zásadní, aby nový památkový zákon zajistil podmínky pro výrazný posun v oblasti náhradního výkonu rozhodnutí orgánů státní památkové péče v případech, kdy vlastníci nemovitých kulturních památek dlouhodobě neplní své povinnosti a nechávají památku chátrat. Takových případů jsou stovky, stačí nahlédnout do seznamu nejohroženějších památek v České republice, nebo připomenout v poslední době medializovaný případ bývalého obchodního domu Ostravica, kterým se zástupce ochránkyně zabývá z vlastní iniciativy. *„Jsem přesvědčen, že má-li stát zájem na památkové ochraně, musí být schopen vyšší intervence,“* míní zástupce veřejné ochránkyně práv Stanislav Křeček a dodává: *„Pokud je veřejným zájmem, tedy zájmem státu, udržet památku v dobrém stavu a uchovat její hodnotu, musí být schopen v případě nezájmu vlastníka památky zasáhnout, postarat se o její záchranu a náklady pak po vlastníkovi důsledně vymáhat.“*
+
+V souvislosti s památkovou ochranou se však opakovaně objevují případy architektonicky cenných staveb, pro něž se dodatečně hledají důvody pro prohlášení za kulturní památky v situacích, kdy stavbám hrozí demolice. Známým příkladem je demolice bývalého obchodního domu Ještěd architektů Karla Hubáčka a Miroslava Masáka v centru Liberce, kterou se v roce 2007 zabýval i veřejný ochránce práv. Podobným příkladem ze současnosti je aktuálně probíhající řízení o prohlášení železničního nádraží v Havířově za kulturní památku. Tyto případy svědčí o nedostatcích v systému státní památkové péče, kdy jsou opakovaně podávány návrhy na prohlášení objektu za památku, aniž by hned napoprvé došlo ke komplexnímu a jednoznačnému posouzení památkové hodnoty. Výsledkem jsou pak opakované návrhy, které hledají další důvody a přinášejí nové skutečnosti svědčící o veřejném zájmu na zachování objektu.
+
+Současně však tyto případy potvrzují přetrvávající nesoučinnost mezi stavebními úřady a orgány památkové péče. V praxi se památkáři často až dodatečně dozvídají o vydaném povolení k odstranění stavby, která by si možná zasluhovala památkovou ochranu.
+
+Prohlášení stavby za kulturní památku by však podle zástupce ombudsmanky nemělo být vnímáno jako účelový nástroj zabránění demolice ve chvíli, kdy je už o odstranění stavby rozhodnuto nebo se o jejím odstranění vede řízení u stavebního úřadu. Stát nemůže chránit všechny hodnotné stavby. To je především úkolem místních samospráv, které by měly usilovat o ochranu architektonického obrazu svého města či obce. K tomu mohou využívat dobře zpracované územní plány, spolupráci se stavebním úřadem a vlastníky staveb, které sice nejsou památkami, ale dotvářejí charakter a vzhled místa, nebo jsou samy o sobě urbanistickou hodnotou, kterou je v daném území třeba chránit a zachovat pro budoucí generace. *„Rozhodnutí o demolici takto významných, i když zákonem nechráněných, objektů by měla předcházet i debata s odbornou i laickou veřejností,“* upozorňuje zástupce ombudsmanky Stanislav Křeček a dodává na příkladu havířovského nádraží: *„Hlas předních odborníků na architekturu a historii architektury a design by neměl zapadnout a měl by být jak pro město Havířov, tak pro vlastníka stavby vážným důvodem pro to, aby záměr demolice stavby důkladně zvážili.“*

@@ -9,7 +9,7 @@ perex: >
   jak předejít tomu, aby vaše dovolená neskončila předčasně v&nbsp;tamní cele a
   aby se vám hned na začátku neprodražila.&nbsp;</p>
 attachments:
-  - file: https://www.ochrance.cz/aktualne/zastupce_ombudsmana_radi_ceskym_turistum_jak_se_vyhnout_neprijemnostem_na_mexickych_letistich/letak_jak_se_pripravit_na_vstupni_kontrolu_na_letistich_v_mexiku.pdf
+  - file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/zastupce_ombudsmana_radi_ceskym_turistum_jak_se_vyhnout_neprijemnostem_na_mexickych_letistich/letak_jak_se_pripravit_na_vstupni_kontrolu_na_letistich_v_mexiku.pdf
     title: "Leták ombudsmana: Jak se připravit na vstupní kontrolu na letištích v
       Mexiku"
   - title: Desatero pro cestovatele do Cancúnu a okolí (Velvyslanectví ČR v Mexiku)
@@ -29,4 +29,4 @@ attachments:
 
 <p>Zástupce ombudsmana současně připravil pro české turisty informační leták. V&nbsp;něm radí, jak se připravit na vstupní kontrolu na letištích v&nbsp;Mexiku a jak se případně bránit proti postupu místních imigračních úředníků.</p>
 
-<p><img alt="letak_jak_se_pripravit_na_vstupni_kontrolu_na_letistich_v_mexiku.png" src="https://www.ochrance.cz/aktualne/zastupce_ombudsmana_radi_ceskym_turistum_jak_se_vyhnout_neprijemnostem_na_mexickych_letistich/letak_jak_se_pripravit_na_vstupni_kontrolu_na_letistich_v_mexiku.png" /></p>
+<p><img alt="letak_jak_se_pripravit_na_vstupni_kontrolu_na_letistich_v_mexiku.png" src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/zastupce_ombudsmana_radi_ceskym_turistum_jak_se_vyhnout_neprijemnostem_na_mexickych_letistich/letak_jak_se_pripravit_na_vstupni_kontrolu_na_letistich_v_mexiku.png" /></p>

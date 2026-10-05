@@ -1,0 +1,143 @@
+---
+// Full HTML shell. Mirrors layouts/_default/baseof.html.
+import '../styles/style.scss';
+import { getCollection } from 'astro:content';
+import Meta from '../components/Meta.astro';
+import AlertStrip from '../components/AlertStrip.astro';
+import SiteHeader from '../components/SiteHeader.astro';
+import SiteFooter from '../components/SiteFooter.astro';
+import type { NavLink } from '../components/SiteHeader.astro';
+import type { FooterLink } from '../components/SiteFooter.astro';
+import { t } from '../lib/i18n';
+
+interface AlertData {
+  active?: boolean;
+  title?: string;
+  href?: string;
+  prefix?: string;
+}
+
+interface NavData {
+  helpLinks?: NavLink[];
+  workLinks?: NavLink[];
+  groupLinks?: NavLink[];
+  portalLink?: string;
+  searchHref?: string;
+  translatedHref?: string;
+}
+
+interface FooterData {
+  email?: string;
+  phone?: string;
+  accessibility?: import('../components/SiteFooter.astro').AccessibilityStatement;
+  social?: import('../components/SiteFooter.astro').SocialLinks;
+  overviewLinks?: FooterLink[];
+}
+
+interface Props {
+  title: string;
+  description?: string;
+  lang?: 'cs' | 'en';
+  bodyClass?: string;
+  canonical?: string;
+  noIndex?: boolean;
+  ogImage?: string;
+  alternates?: { lang: string; href: string }[];
+  alert?: AlertData;
+  nav?: NavData;
+  footer?: FooterData;
+}
+
+const {
+  title,
+  description,
+  lang = 'cs',
+  bodyClass,
+  canonical,
+  noIndex = false,
+  ogImage,
+  alternates = [],
+  alert,
+  nav = {},
+  footer = {},
+} = Astro.props;
+
+// Site-wide alert strip: load the locale's alert singleton unless a prop overrides it.
+let resolvedAlert: AlertData = alert ?? {};
+if (!alert) {
+  try {
+    const alertEntries = await getCollection(lang === 'en' ? 'alert-en' : 'alert');
+    const a = alertEntries[0]?.data as Record<string, unknown> | undefined;
+    if (a) {
+      resolvedAlert = {
+        active: Boolean(a.active),
+        title: typeof a.title === 'string' ? a.title : '',
+        href: typeof a.href === 'string' ? a.href : (lang === 'en' ? '/en/' : '/'),
+        prefix: typeof a.prefix === 'string' ? a.prefix : '',
+      };
+    }
+  } catch {
+    /* alert collection missing — strip stays hidden */
+  }
+}
+
+
+const GA_ID = 'G-5RPY19JN9L';
+---
+<!DOCTYPE html>
+<html lang={lang}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{title} | Ombudsman</title>
+
+    {noIndex && <meta name="robots" content="noindex, nofollow" />}
+
+    <Meta
+      title={title}
+      description={description}
+      lang={lang}
+      canonical={canonical}
+      ogImage={ogImage}
+      alternates={alternates}
+    />
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+
+    <link rel="preload" href="/fonts/open-sans-fontface/fonts/Bold/OpenSans-Bold.woff" as="font" type="font/woff" crossorigin />
+    <link rel="preload" href="/fonts/open-sans-fontface/fonts/Regular/OpenSans-Regular.woff" as="font" type="font/woff" crossorigin />
+    <link rel="preload" href="/fonts/fontawesome-free-6.4.2-web/webfonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="/fonts/daxline/Fonts/5764632/aae167a7-9a23-484f-9760-d1b54002602f.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="/fonts/fontawesome-free-6.4.2-web/webfonts/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin />
+
+    <script async src={`https://www.googletagmanager.com/gtag/js?id=${GA_ID}`}></script>
+    <script is:inline define:vars={{ GA_ID }}>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() { dataLayer.push(arguments); }
+      gtag('js', new Date());
+      gtag('config', GA_ID);
+    </script>
+  </head>
+  <body class={bodyClass}>
+    <nav class="m-accessibility" aria-labelledby="m-accessibility">
+      <p id="m-accessibility" class="visuallyhidden">Přístupnostní navigace</p>
+      <a class="skip-link" href="#main-content" tabindex="0" title="Přejít k obsahu (Klávesová zkratka: Alt + 2)" accesskey="2">{t(lang, 'skip-to-content')}</a>
+    </nav>
+
+    <AlertStrip {...resolvedAlert} />
+
+    <SiteHeader locale={lang} translatedHref={nav.translatedHref} />
+
+    <div id="main-content" data-pagefind-body>
+      <slot />
+    </div>
+
+    <SiteFooter locale={lang} />
+
+    <script>
+      import '../scripts/index.js';
+    </script>
+  </body>
+</html>

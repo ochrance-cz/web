@@ -6,6 +6,6 @@ vystupy:
   - doporuceni
 attachmentsTop:
   - title: Doporučení veřejné ochránkyně práv k povinnému předškolnímu vzdělávání
-    file: https://www.ochrance.cz/uploads-import/ESO/75-2018-DIS-VB-doporuceni.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/75-2018-DIS-VB-doporuceni.pdf
 ---
 <p>Od roku 2017 je poslední rok mateřské školy povinný. Do školky tak musejí chodit všechny pětileté děti. Ukázalo se ale, že v&nbsp;prvním roce fungování 3 % těchto dětí do školky nechodila. Obcím jako zřizovatelům mateřských škol jsme proto doporučovali, aby vypracovali srozumitelný informační leták pro rodiče a aby leták vhodně šířili. Dalším opatřením je terénní a sociální práce v&nbsp;rodinách a vstřícná komunikace mateřské školy s&nbsp;rodinou.</p>

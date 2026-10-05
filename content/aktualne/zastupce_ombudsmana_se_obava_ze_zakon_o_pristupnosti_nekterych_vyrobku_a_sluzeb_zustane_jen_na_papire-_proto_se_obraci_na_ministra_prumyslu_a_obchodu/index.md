@@ -17,7 +17,7 @@ perex: <p>Na konci června začne platit zákon o požadavcích na přístupnost
 attachments:
   - title: O přístupnosti zboží a služeb
     link: https://www.ochrance.cz/pristupnost/3-pristupnost-zbozi-a-sluzeb/
-  - file: https://www.ochrance.cz/aktualne/zastupce_ombudsmana_se_obava_ze_zakon_o_pristupnosti_nekterych_vyrobku_a_sluzeb_zustane_jen_na_papire-_proto_se_obraci_na_ministra_prumyslu_a_obchodu/dopis_ministrovi_prumyslu_a_obchodu_final.pdf
+  - file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/zastupce_ombudsmana_se_obava_ze_zakon_o_pristupnosti_nekterych_vyrobku_a_sluzeb_zustane_jen_na_papire-_proto_se_obraci_na_ministra_prumyslu_a_obchodu/dopis_ministrovi_prumyslu_a_obchodu_final.pdf
     title: Dopis ministrovi průmyslu a obchodu
 ---
 <p>„Z jednání pracovní skupiny k přístupnosti digitálních služeb vyplynulo, že návodné dokumenty k&nbsp;zákonu, které ministerstvo sepsalo, nepůsobí zdařile. Některé subjekty, které mají na naplňování zákona dohlížet (například Česká obchodní inspekce), avizovaly, že žádné kontroly provádět nebudou. Mimo jiné proto, že na provádění kontrol nedostaly žádné zaměstnance,“ shrnul některá zjištění zástupce ombudsmana Vít Alexander Schorm.</p>

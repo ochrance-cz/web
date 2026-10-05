@@ -1,0 +1,22 @@
+---
+title: Česká školní inspekce podcenila šikanu na základní škole
+date: 2018-08-10T00:00:00.000Z
+perex: Základní škola nedokázala zabránit šikaně chlapce, který čelil slovním
+  a fyzickým úrokům. Jeho matka se proto obrátila na Českou školní inspekci
+  (ČŠI). Inspekce shledala její stížnost částečně nedůvodnou a částečně
+  neprůkaznou. Ombudsmanka během svého šetření konstatovala dvě pochybení
+  v činnosti inspekce. Ta neprovedla ve škole kontrolu a nezabývala se tedy tím,
+  zda k šikaně skutečně dochází. Šikana je závažný problém a její dopady
+  na životy dětí nelze zlehčovat.
+kategorie:
+  - tz
+---
+Syn stěžovatelky byl žákem se speciálními vzdělávacími potřebami – trpí Aspergerovým syndromem – a stal se terčem šikany na základní škole. Šikana měla podobu slovní i fyzickou. Podle matky základní škola i přes její naléhání situaci neřešila a její syn nebyl schopen plnit své školní povinnosti.
+
+ČSI postavila své šetření především na vyjádřeních členů vedení školy. Ti označovali projevy šikany za „klukovinu“ a reakce matky za přehnané. Inspekce konstatovala, že základní škola zajistila bezpečnost a ochranu zdraví žáků. V závěrech šetření připustila, že škola podcenila v počátcích přípravu žáků na projevy syna stěžovatelky a nenastavila pravidla pro komunikaci s rodinou.
+
+Stěžovatelka se následně obrátila na ombudsmanku. Šetření inspekce vyčítala zdlouhavý postup, že považovala bez ověření za pravdivá vyjádření ředitele školy a také to, že inspekce nebrala v potaz, že hlavní agresor byl synem jedné z učitelek této školy.
+
+„*Česká školní inspekce jednala v rozporu s principem efektivnosti, protože se ani nezabývala tím, že by ve škole provedla kontrolu. Porušila také zásadu materiální pravdy, protože se nesnažila zjistit pravý stav věcí přímo ve škole. Přitom tvrzení matky byla závažná. Tvrdila, že se šikana syna zhoršuje, dochází k fyzickému napadání a škola nechce šikanu řešit,*“ říká k případu ombudsmanka a dodává: „*základní pochybení inspekce pak spatřuji v tom, že všechny dokumenty, ze kterých vycházela, vykreslují jenom jeden pohled na to, co se v rozhodném období v této základní škole dělo.*“
+
+Ústřední školní inspektor pochybení uznal a přijal potřebná opatření k nápravě. Se závěry ombudsmanky budou seznámeni také ostatní ředitelé oblastních inspektorátů ČŠI.

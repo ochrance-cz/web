@@ -1,0 +1,40 @@
+---
+title: Ombudsman dnes na jednání vlády k loteriím a nezákonné praxi Ministerstva
+  financí
+date: 2012-02-08T00:00:00.000Z
+perex: Na dnešním zasedání se bude vláda zabývat materiálem týkajícím se
+  dlouhodobé nezákonné praxe Ministerstva financí spočívající v nerespektování
+  zákona č. 202/1990 Sb., o loteriích (loterijní zákon) a obecně závazných
+  vyhlášek obcí přijatých za účelem regulace hazardu. Materiál vládě předložil
+  veřejný ochránce práv s doporučením, aby vláda uložila Ministerstvu financí
+  změnu správní praxe a prosadila tak i realizaci opatření k nápravě, která
+  ochránce ministerstvu navrhoval.
+kategorie:
+  - tz
+---
+Možnost obrátit se na vládu je jedním ze zákonných oprávnění, k nimž ochránce přistupuje v závažných případech, kdy úřad pokračuje v nezákonném jednání, odmítá své pochybení uznat a napravit ho a není jiného nadřízeného orgánu, na nějž by se ochránce mohl obrátit.
+
+Ministr financí sice nabídl ochránci osobní jednání, ale z vyrozumění ministra ke stanovisku ochránce, z předchozích jednání mezi ochráncem a ministerstvem i z pokračující praxe ministerstva je zřejmé, že ministerstvo s právním názorem ochránce nesouhlasí a nehodlá provést opatření k náhradě. Osobní jednání ochránce s ministrem by tedy jen stěží mohlo přinést nějaký posun. Pokud by ministerstvo disponovalo argumenty, jimiž by svůj postoj mohlo odůvodnit, seznámilo by s nimi ochránce ve svém vyrozumění k jeho závěrečnému stanovisku a rovněž by tyto argumenty zazněly na předchozích jednání zástupců ministerstva a ochránce.
+
+JUDr. Varvařovský bude na jednání přítomen, aby osobně vládu seznámil se svými závěry a argumenty.
+
+Ministerstvo podle ochránce nesprávně interpretovalo a používalo zákon o loteriích a chybovalo tak při povolování tzv. „jiných technických herních zařízení“, jejichž typickými představiteli jsou interaktivní videoloterijní terminály (IVT). **Zjednodušeně řečeno, ministerstvo rozhodovalo tak, jako kdyby se zákon o loteriích na tato herní zařízení nevztahoval.** Jde přitom o obdobná herní zařízení, jako klasické výherní automaty (VHP) povolovaným obcemi. K nezákonnému postupu došlo patrně řádově v tisících případů.
+
+Nejzásadnějším a dlouhodobým pochybení ministerstva je skutečnost, že ministerstvo při povolování těchto tzv. „jiných technických herních zařízení“ v rozporu se zákonným příkazem nepoužilo ustanovení druhé části loterijního zákona platící pro výherní hrací automaty, takže například.:
+
+-   jako maximální výše sázky u interaktivních videoloterijních terminálů ministerstvo povolovalo 1000 Kč, přestože zákon umožňuje 2, 5 nebo 50 Kč
+-   maximální hodinovou prohru ministerstvo povolilo 252 000 Kč, přestože loterijní zákon připouští 1000, 2000 nebo 10 000 Kč.
+-   ministerstvo nerespektovalo zákaz umístění přístrojů na určitých místech, jako je sousedství škol, lékařů apod.
+-   zatímco zákon umožňuje vydat povolení maximálně na 1 rok, ministerstvo vydávalo povolení na 10 let a nyní je nově vydává na 3 roky
+
+**Ministerstvo financí rovněž dlouhodobě nerespektuje právní předpisy vydávané obcemi za účelem regulace hazardu**. **Přitom obecně závazné vyhlášky obcí** vydané na základě ustanovení § 50 odst. 4 loterijního zákona **přímo dopadají a vždy dopadaly také na provozování těchto tzv. „jiných technických herních zařízení“** obsluhovaných přímo hráči s možností okamžité výhry a výplaty. Shodný názor vyjevil rovněž Ústavní soud ve svém nálezu sp. zn. Pl. ÚS 29/10 ze dne 14. června 2011 -Chrastava. 
+
+**Dokonce i kdyby v loterijním zákoně neexistovalo výslovné zmocnění, mohly by obce regulovat tato zařízení již na základě samotného ustanovení § 10 písm. a) zákona o obcích** (nález Ústavního soudu sp. zn. Pl. ÚS 56/10 ze dne 7. září 2011 – Františkovy Lázně). 
+
+**Navzdory těmto skutečnostem ministerstvo masově zasahovalo do ústavního práva obcí na samosprávu tím, že při rozhodování o umístění jednotlivých zařízení ignorovalo vydané vyhlášky obcí.** 
+
+Dle názoru veřejného ochránce práv **je nezákonné každé povolení interaktivního videoloterijního terminálu (IVT), či obdobného zařízení, které bylo vydáno do území, v němž obec svojí vyhláškou hazard vyloučila.**
+
+Ochránce rovněž vytýká ministerstvu, že namísto obcí, které jsou k tomu věcně příslušné, samo povolovalo provozování technických zařízení, která jsou ve skutečnosti VHP (byť vícemístnými) a spadají tak do kompetencí obecních úřadů. Jedná se o elektromechanickou ruletu a kostky v podobě kompaktních zařízení a tzv. triplexy.
+
+**Ministerstvo financí svá pochybení neuznává a odmítá možnost jejich nápravy využitím ustanovení § 43 odst. 1 (případně odst. 5) loterijního zákona, které mu umožňuje již vydaná povolení zrušit nebo změnit.**

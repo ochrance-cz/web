@@ -13,7 +13,7 @@ perex: "V podcastu vysvětlíme základní mechanismy, jak lze daň z příjmů 
 
 
 
-Další podrobnější informace naleznete v [Základní příručce k dani z příjmu](https://www.ochrance.cz/uploads-import/Letaky/Dan-z-prijmu.pdf?fbclid=IwAR2p6PEoA2vo4KOwbhPmO0Dy_0Usr8Hfm1MPTVm-Xl6M5y_9jQzN90TixlE), kterou vytvořil ombudsman ve spolupráci s Komorou daňových poradců a Finanční správou.
+Další podrobnější informace naleznete v [Základní příručce k dani z příjmu](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/Letaky/Dan-z-prijmu.pdf?fbclid=IwAR2p6PEoA2vo4KOwbhPmO0Dy_0Usr8Hfm1MPTVm-Xl6M5y_9jQzN90TixlE), kterou vytvořil ombudsman ve spolupráci s Komorou daňových poradců a Finanční správou.
 
 Příští podcast se bude vztahovat ke Světovému dni spotřebitelských práv, dozvíte se, kdy máte práva spotřebitele a jak vám s jejich uplatněním ombudsman může pomoci.
 

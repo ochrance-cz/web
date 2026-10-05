@@ -2,7 +2,7 @@
 title: Zpravodaj ombudsmana za březen a duben 2025
 month: 5
 year: 2025
-file: https://www.ochrance.cz/zpravodaj/za_brezen_a_duben_2025/zpravodaj_brezen_a_duben_2025.pdf
+file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/zpravodaj/za_brezen_a_duben_2025/zpravodaj_brezen_a_duben_2025.pdf
 sections:
   - title: Úvodní slovo
     articles:
@@ -34,12 +34,12 @@ sections:
 
           <p>
 
-          <a href="https://www.ochrance.cz/uploads-import/ESO/2821_24_BPK_ZSO.pdf">Závěrečné stanovisko</a></p>
-        eso: https://www.ochrance.cz/uploads-import/ESO/2821-24-BPK%20Z18.pdf
+          <a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/2821_24_BPK_ZSO.pdf">Závěrečné stanovisko</a></p>
+        eso: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/2821-24-BPK%20Z18.pdf
       - title: "Nabádáme úřady, aby žádaly překlady cizojazyčných dokumentů jen, když je
           to opravdu nutné "
         id: 3248/2024/VOP
-        eso: https://www.ochrance.cz/uploads-import/ESO/3248-24-RM-Z18.pdf
+        eso: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/3248-24-RM-Z18.pdf
         body: >-
           <blockquote>
 
@@ -51,7 +51,7 @@ sections:
       - title: "Usilujeme o účinnější opatření před výskytem bakterie legionella v
           ubytovacích zařízeních "
         id: 7214/2024/VOP
-        eso: https://www.ochrance.cz/uploads-import/ESO/7214-24-BV-Z18.pdf
+        eso: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/7214-24-BV-Z18.pdf
         body: >-
           <blockquote>
 
@@ -99,7 +99,7 @@ sections:
           <p>Pro určení, odkdy syn stěžovatelky začal být zdravotně pojištěný v&nbsp;České republice, bylo rozhodné, kdy začal být poživatelem invalidního důchodu pro invaliditu třetího stupně. Protože jsme se setkali s&nbsp;dvojím možným výkladem pojmu „poživatel důchodu“, požádali jsme o vyjádření Ministerstvo práce a sociálních věcí. Podle něj se dítě stává poživatelem invalidního důchodu až ode dne, kdy poprvé obdrželo výplatu invalidního důchodu. S&nbsp;tímto závěrem nesouhlasila VZP. Trvala na tom, že je určující, odkdy má dítě nárok na výplatu důchodu, a nikoli, kdy mu ČSSZ důchod fakticky vyplatí. Obrátili jsme se proto na Ministerstvo zdravotnictví a žádali ho o nápravu. Ministerstvo se však přiklonilo k&nbsp;výkladu VZP.</p>
       - title: "Zabývali jsme se demolicí Čočkovy vily v Plzni "
         id: 816/2025/VOP/MH
-        eso: https://www.ochrance.cz/uploads-import/ESO/816-25-MH-ZZ17.pdf
+        eso: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/816-25-MH-ZZ17.pdf
         body: >-
           <p>Majitel historické Čočkovy vily, která se má stát kulturní
           památkou, odstranil bez povolení její střechu a&nbsp;následně požádal
@@ -115,7 +115,7 @@ sections:
       - title: "Přesvědčili jsme ČSSZ, aby muži dorovnala důchod do výhodnější minimální
           výše "
         id: 3931/2023/VOP
-        eso: https://www.ochrance.cz/uploads-import/ESO/3931_2023_VOP%20zpr%C3%A1va%20o%20%C5%A1et%C5%99en%C3%AD%20%C2%A7%2018.pdf
+        eso: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/3931_2023_VOP%20zpr%C3%A1va%20o%20%C5%A1et%C5%99en%C3%AD%20%C2%A7%2018.pdf
         body: >-
           <p>Česká správa sociálního zabezpečení (ČSSZ) je povinna poskytovat
           příjemcům českého důchodu, kteří bydlí v ČR a jimž byl důchod přiznán
@@ -163,13 +163,13 @@ sections:
           pokuta až 500 000 Kč. Podrobný postup, jak při podávání stížnosti
           postupovat, naleznete 
 
-          <a href="https://www.ochrance.cz/letaky/socialni-sluzby/socialni-sluzby.pdf">v&nbsp;našem letáku</a>.</p>
+          <a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/socialni-sluzby/socialni-sluzby.pdf">v&nbsp;našem letáku</a>.</p>
 
           <p>Na nutnost postihovat případy špatného zacházení, tedy jednání, které nerespektuje lidskou důstojnost, například nezajištění bezpečí, nerespektování sociální autonomie, posilování závislosti na poskytované péči nebo neodůvodněného používání omezovacích prostředků upozorňujeme už od roku 2016. Na tuto potřebu nyní reaguje novela, která stanovuje, že poskytovatelé sociálních služeb musí respektovat a chránit soukromí, integritu a důstojnost klientů, kterým poskytují sociální službu. Pokud tuto povinnost poruší, bude hrozit poskytovateli od 1. ledna 2026 pokuta až 300 000 Kč.</p>
       - title: "Apelujeme na úřady, aby při vyřizování žádostí vyžadovaly jen skutečně
           nutné doklady "
         id: 3379/2024/VOP
-        eso: https://www.ochrance.cz/uploads-import/ESO/3379_2024_VOP%20z%C3%A1v%C4%9Bre%C4%8Dn%C3%A9%20stanovisko%20%C2%A7%2019.pdf
+        eso: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/3379_2024_VOP%20z%C3%A1v%C4%9Bre%C4%8Dn%C3%A9%20stanovisko%20%C2%A7%2019.pdf
         body: >-
           <blockquote>
 
@@ -215,7 +215,7 @@ sections:
     articles:
       - title: "Připomněli jsme spolku, že nemůže diskriminovat tanečníky s postižením "
         id: 3054/2024/VOP
-        eso: https://www.ochrance.cz/uploads-import/ESO/3054_2024_VOP%20Zpr%C3%A1va%20o%20zji%C5%A1t%C4%9Bn%C3%AD%20diskriminace.pdf
+        eso: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/3054_2024_VOP%20Zpr%C3%A1va%20o%20zji%C5%A1t%C4%9Bn%C3%AD%20diskriminace.pdf
         body: >-
           <blockquote>
 
@@ -226,7 +226,7 @@ sections:
           <p>Dospěli jsme k&nbsp;závěru, že postup spolku byl vůči ženě diskriminační v&nbsp;podobě nepřijetí přiměřeného opatření ve prospěch člověka s&nbsp;postižením. Spolku jsme doporučili, aby ženě umožnil docházet na lekce s&nbsp;doprovodem. Teprve potom může spolek posoudit, zda účast stěžovatelky s&nbsp;doprovodem skutečně narušuje průběh lekcí.</p>
       - title: "Přiměli jsme agenturu práce, aby lépe posuzovala fyzickou kondici
           uchazečů, nikoli jejich věk "
-        eso: https://www.ochrance.cz/uploads-import/ESO/4349-2023-IP-ZZ-13-final.pdf
+        eso: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/4349-2023-IP-ZZ-13-final.pdf
         body: >-
           <blockquote>
 
@@ -253,7 +253,7 @@ sections:
       - title: "Transformace dětských domovů funguje. Dětský domov Moravská Třebová je
           toho důkazem "
         id: 34/2024/NZ
-        eso: https://www.ochrance.cz/uploads-import/ESO/NZ34_2024_zprava.pdf
+        eso: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/NZ34_2024_zprava.pdf
         body: >-
           <p>Navštívili jsme Dětský domov Moravská Třebová, který prochází
           transformací. To znamená, že&nbsp;postupně zavádí prvky, kterými chce

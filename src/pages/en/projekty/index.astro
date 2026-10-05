@@ -1,0 +1,48 @@
+---
+import PageHeader from '../../../components/site-copy/headers/en-projekty.astro';
+import * as pageCopy0 from '../../../components/page-content/section-pages-en/projekty.astro';
+// Projects listing (en). Mirrors layouts/projekty/list.html for the -en collection.
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import PicHeader from '../../../components/PicHeader.astro';
+import LinkList from '../../../components/LinkList.astro';
+import ProjektyCta from '../../../components/projekty/ProjektyCta.astro';
+import { renderMarkdown } from '../../../lib/markdown';
+import { t } from '../../../lib/i18n';
+import { url } from '../../../lib/paths';
+
+const lang = 'en';
+
+import { data as index } from '../../../components/page-content/section-pages-en/projekty.astro';
+
+const entries = await getCollection('projekty-en');
+const slugOf = (e: (typeof entries)[number]) => e.id;
+const byTitle = (a: (typeof entries)[number], b: (typeof entries)[number]) =>
+  a.data.title.localeCompare(b.data.title, 'en');
+
+const toLinks = (list: typeof entries) =>
+  list.sort(byTitle).map((e) => ({ title: e.data.title, link: url(lang, 'projekty', slugOf(e)) }));
+
+const ongoing = toLinks(entries.filter((e) => e.data.ongoing === true));
+const past = toLinks(entries.filter((e) => e.data.ongoing !== true));
+
+const description = 'description' in index ? String(index.description) : undefined;
+const descHtml = description ? await renderMarkdown(description) : '';
+---
+<BaseLayout title={index.title} description={description} lang={lang}>
+  <main>
+    <PageHeader />
+
+    <section>
+      {descHtml && <div class="perex" set:html={descHtml} />}
+
+      <h2>{t(lang, 'current-projects')}</h2>
+      <LinkList items={ongoing} />
+
+      <h2>{t(lang, 'past-projects')}</h2>
+      <LinkList items={past} />
+    </section>
+
+    <ProjektyCta lang={lang} />
+  </main>
+</BaseLayout>

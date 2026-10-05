@@ -51,5 +51,5 @@ attachments:
 <strong>Co je ještě dobré vědět?</strong></p>
 <p>Ostatní části maturitní zkoušky (písemná práce, ústní zkoušky) přezkoumává krajský úřad.</p>
 <p>Další podrobnosti najdete v&nbsp;
-<a href="https://www.ochrance.cz/letaky/skolstvi/skolstvi.pdf"> letáku ombudsmana Školství – část Neudělal/a jsem maturitu. Mohu se nějak bránit?</a></p></blockquote>
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/skolstvi/skolstvi.pdf"> letáku ombudsmana Školství – část Neudělal/a jsem maturitu. Mohu se nějak bránit?</a></p></blockquote>
 <p>*Vzhledem k zvyklostem používáme výraz studenti, ačkoli z&nbsp;hlediska zákona jde o žáky.&nbsp;</p>

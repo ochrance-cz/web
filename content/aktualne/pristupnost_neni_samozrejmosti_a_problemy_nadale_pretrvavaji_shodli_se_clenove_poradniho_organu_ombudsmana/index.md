@@ -15,12 +15,12 @@ perex: <p>Poradní orgán veřejného ochránce práv pro oblast práv lidí
   nepřístupné.&nbsp;</p>
 attachments:
   - title: Usnesení poradního orgánu k přístupnosti
-    file: https://www.ochrance.cz/dokument/usneseni_k_pristupnosti/usneseni_k_pristupnosti.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/dokument/usneseni_k_pristupnosti/usneseni_k_pristupnosti.pdf
   - title: Tisková zpráva ze zasedání poradního orgánu v listopadu 2023 (hlavním
       tématem jednání byla také přístupnost)
     file: https://www.ochrance.cz/aktualne/poradni_organ_ombudsmana_pro_oblast_lidi_s_postizenim_se_dnes_venuje_pristupnosti_verejnych_budov_i_sluzeb/
   - title: Zápis z 18. zasedání
-    file: https://www.ochrance.cz/aktualne/pristupnost_neni_samozrejmosti_a_problemy_nadale_pretrvavaji_shodli_se_clenove_poradniho_organu_ombudsmana/18._zasedani_po_strucny_zapis_brezen_2025_1_.docx
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/pristupnost_neni_samozrejmosti_a_problemy_nadale_pretrvavaji_shodli_se_clenove_poradniho_organu_ombudsmana/18._zasedani_po_strucny_zapis_brezen_2025_1_.docx
 ---
 <p>
 <i>„Přístupnost nesouvisí pouze s&nbsp;fyzickým prostředím, ale také s možností dostat se k&nbsp;informacím, vzdělání, službám nebo zaměstnání. V&nbsp;dnešní době se nejedná o nic samozřejmého a týká se to každého z nás. Je to také jeden z&nbsp;prostředků pro zajištění rovností příležitostí pro všechny lidi. Abychom dosáhli co největší přístupnosti, musíme spolupracovat, pojmenovávat problémy a hledat společně řešení,“&nbsp;</i>uvedl zástupce ombudsmana Vít Alexander Schorm.&nbsp;</p>
@@ -28,7 +28,7 @@ attachments:
 <i>„Problém není v&nbsp;tom, že by většina lidí neměla o přístupnost zájem, ale v&nbsp;tom, že si problém vůbec neuvědomuje. Je tedy na nás více problematiku vysvětlovat a propagovat. Nemyslím si, že by pak společnost s&nbsp;tvořením přístupnějšího prostředí, informací a služeb měla problém,“&nbsp;</i>řekl během jednání člen Martin Okáč.&nbsp;</p>
 <p>Další častá potíž spočívá v tom, že se ani u nově budovaných staveb nedodržují požadavky přístupnosti zakotvené v&nbsp;právních předpisech a technických normách. Po řádné kolaudaci tak budova nevyhovuje lidem s&nbsp;postižením. Ombudsman v&nbsp;nedávné době řešil například kauzu novostavby v&nbsp;Praze, kdy zhotovitel stavby postavil nevhodný nájezd pro kočárky či chybně provedl vyhrazená parkovací místa („dvojitá bariéra“ – schodky, výstupy do zeleně s&nbsp;betonovými prvky).</p>
 <p>Ombudsman již v&nbsp;minulosti provedl 
-<a href="https://www.ochrance.cz/uploads-import/ESO/32_2022_OZP_final.pdf">výzkum přístupnosti veřejných budov a služeb lidem s&nbsp;postižením</a>, na který nyní navázal návrhem doporučení. Na zasedání zástupce ombudsmana obojí představil a diskutoval s&nbsp;členy, kteří uplatnili své připomínky a praktické poznatky. 
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/32_2022_OZP_final.pdf">výzkum přístupnosti veřejných budov a služeb lidem s&nbsp;postižením</a>, na který nyní navázal návrhem doporučení. Na zasedání zástupce ombudsmana obojí představil a diskutoval s&nbsp;členy, kteří uplatnili své připomínky a praktické poznatky. 
 <i>„Odborníci nerozumí tomu, proč se například v&nbsp;doporučení objevují věci, které nejsou v&nbsp;žádném právním předpisu upravené. Je potřeba jim vysvětlit, že normy a předpisy neobsahují vše potřebné pro přístupné prostředí a že se na přístupnost, ale také doporučení musíme dívat jiným pohledem. A to pohledem článku 9 Úmluvy,“&nbsp;</i>připomínkovala Doporučení Nicole Fryčová.</p>
 <p>V&nbsp;návaznosti na projednávaná témata přijal poradní orgán 
 <a href="https://www.ochrance.cz/vystupy/poradni-organ-crpd/">usnesení</a>. V&nbsp;něm vyzývá ombudsmana k&nbsp;tomu, aby i nadále monitoroval naplňování právních požadavků na přístupnost, pokračoval v&nbsp;podpoře aktivního zapojení odborníků a nadále spolupracoval s&nbsp;lidmi s&nbsp;postižením.&nbsp;</p>
@@ -61,6 +61,6 @@ attachments:
 <strong>zajišťuje informovanost</strong> lidí s&nbsp;postižením, organizací hájící jejich práva a&nbsp;široké veřejnosti o&nbsp;činnost ombudsmana v&nbsp;oblasti monitorování podle Úmluvy.&nbsp;&nbsp;</p>
 <p>
 <br>Poradní orgán má&nbsp;svůj 
-<a href="https://www.ochrance.cz/media/jednaci_rad_poradniho_organu.doc">Jednací řád</a> a&nbsp; 
-<a href="https://www.ochrance.cz/media/statut_poradniho_organu.docx">Statut</a>. 
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/media/jednaci_rad_poradniho_organu.doc">Jednací řád</a> a&nbsp; 
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/media/statut_poradniho_organu.docx">Statut</a>. 
 <a href="https://www.ochrance.cz/vystupy/poradni-organ-crpd/">Výstupy </a>poradního orgánu jsou veřejné.</p></li></ul></blockquote>

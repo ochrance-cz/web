@@ -1,0 +1,22 @@
+---
+import type { AttachmentItem } from '../../lib/attachment-files';
+
+interface Props {
+  locale: 'cs' | 'en';
+  seeing?: string;
+  roma?: string;
+  kids?: string;
+  attachments?: AttachmentItem[];
+}
+const { locale, seeing, roma, kids, attachments = [] } = Astro.props;
+const en = locale === 'en';
+const links = [
+  ...attachments.map(item => ({ href: item.file || item.link, label: item.title || item.text || (en ? 'Attachment' : 'Příloha') })),
+  { href: roma, label: en ? 'Romani version' : 'Romská verze' },
+  { href: seeing, label: en ? 'Accessible version for people with visual impairments' : 'Verze pro osoby se zrakovým postižením' },
+  { href: kids, label: en ? 'Version for children' : 'Dětská verze' },
+].filter(link => link.href);
+---
+{links.length > 0 && <ul class="_link-list">
+  {links.map(link => <li><a href={link.href}>{link.label}</a></li>)}
+</ul>}

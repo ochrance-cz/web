@@ -1,0 +1,17 @@
+---
+title: Stanovisko ombudsmana k tvrzení nové ministryně práce a sociálních věcí o
+  povinnosti využívat sKartu
+date: 2012-11-20T00:00:00.000Z
+perex: ""
+kategorie:
+  - tz
+---
+V demokratickém právním státě lze povinnosti ukládat pouze na základě zákona. Povinnost příjemce jakékoli sociální dávky převzít sKartu žádným zákonem stanovena nebyla. Rovněž není zákonem stanovena ani sankce zastavení výplaty dávky pro případ, že klient sKartu nepřevezme. Přechodná ustanovení k zákonu č. 366/2011 Sb., o změně zákona o pomoci v hmotné nouzi, stanoví, **že do dne vydání karty sociálních systémů se dávky vyplácejí dosavadním způsobem**, tj. převodem na platební účet určený klientem nebo v hotovosti (poštovní poukázkou). **Vydáním karty se rozumí její převzetí klientem**, což potvrdil  [v písemném vyjádření](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/Ostatni_dokumenty/Vyjadreni-MPSV_odmitnuti-sKarty.pdf "Otevření do nového okna")  (329.6 kB, Adobe Acrobat dokument)i dřívější ministr práce a sociálních věcí Jaromír Drábek. **Do dne převzetí karty má tedy příjemce dávky nárok na to, aby mu Úřad práce ČR vyplácel dávky dosavadním způsobem**. Takovýto postup stanoví, alespoň pro dříve přiznané dávky, i aktuální metodika Generálního ředitelstvím Úřadu práce České republiky.
+
+Aktuální právní úprava tedy nebrání zachování výplaty nepojistných sociálních dávek dosavadním způsobem. Jinou věcí je, zda respektováním principu dobrovolnosti sKarty, plynoucího ze zákona, neporuší Ministerstvo práce a sociálních věcí smlouvu, kterou uzavřelo s Českou spořitelnou na zajištění administrace výplaty nepojistných dávek a dávek z oblasti státní politiky zaměstnanosti a na provozování karty sociálních systémů. Této smlouvy se však ministerstvo nemůže dovolávat při postupu vůči příjemcům dávek. **Vůči příjemcům dávek je smlouva mezi ministerstvem a Českou spořitelnou zcela nerozhodná. Nárok na výplatu dávky je upraven předpisy veřejného práva, které nelze měnit soukromoprávním ujednáním** (viz prastará právní zásada *„Ius publicum privatorum pactis mutari non potest“).* Smlouva proto nemůže příjemce dávky zavazovat, a to minimálně do okamžiku, kdy sKartu převezme a podepíše souhlas s Podmínkami České spořitelny, a. s. pro vydání sKarty a otevření platebního účtu.
+
+Skutečnost, že se stát prostřednictvím Ministerstva práce a sociálních věcí rozhodl zajistit výplatu nepojistných sociálních dávek prostřednictvím soukromého subjektu, navíc přináší do vztahu občana a státu zcela nové a zbytečné problémy. Vzniká tím jakýsi spletenec soukromého a veřejného práva, v němž se občan obtížně orientuje a není s to rozeznat, jaké povinnosti mu stanoví stát předpisy veřejného práva (zákonem) a jaká práva a povinnosti mu vyplývají ze smluvního vztahu s Českou spořitelnou, a. s.
+
+*„Jako veřejnému ochránci práv mi nepřísluší hodnotit technologické aspekty či ekonomické přínosy sKarty. Jsem však přesvědčen, že by stát měl respektovat zákony. Pokud se příjemce dávky z jakéhokoli lidsky pochopitelného důvodu rozhodne sKartu odmítnout, není možné, aby mu stát svévolně výplatu dávky zastavil,“* konstatuje ombudsman Pavel Varvařovský.
+
+Další aspekty nové právní úpravy výplaty dávek prostřednictvím karty sociálních systémů jsou shrnuty v tiskové zprávě ze dne 8. srpna 2012, která je dostupná [zde](/tiskove-zpravy/tiskove-zpravy-2012/ochrance-upozornuje-na-protipravni-aspekty-tzv-karty-socialnich-systemu-skarty/).

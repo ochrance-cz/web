@@ -1,0 +1,53 @@
+---
+import { getCollection, getEntry } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getNews } from '../lib/news';
+import PicHeader from './PicHeader.astro';
+import NewsPreview from './NewsPreview.astro';
+import Collapsible from './Collapsible.astro';
+import { renderMarkdown } from '../lib/markdown';
+
+interface Props { mode: 'year' | 'all' }
+const { mode } = Astro.props;
+const category = 'doporuceni';
+const term = await getEntry('vystupy', category);
+const title = term?.data.plural ?? term?.data.title ?? 'Doporučení';
+const perexHtml = term?.data.perex ? await renderMarkdown(term.data.perex) : '';
+const [news, documents] = await Promise.all([
+  getNews('aktualne', (entry) => !entry.data.draft),
+  getCollection('dokument', (entry) => !entry.data.draft),
+]);
+const items = [
+  ...news.filter((entry) => entry.data.vystupy?.includes(category)).map((entry) => ({ section: 'aktualne', entry })),
+  ...documents.filter((entry) => entry.data.vystupy?.includes(category)).map((entry) => ({ section: 'dokument', entry })),
+].sort((a, b) => new Date(b.entry.data.date ?? 0).getTime() - new Date(a.entry.data.date ?? 0).getTime());
+const byYear = new Map<string, typeof items>();
+for (const item of items) {
+  const year = item.entry.data.date ? String(new Date(item.entry.data.date).getUTCFullYear()) : 'Bez data';
+  if (!byYear.has(year)) byYear.set(year, []);
+  byYear.get(year)!.push(item);
+}
+---
+<BaseLayout title={title} lang="cs">
+  <main data-pagefind-body>
+    <PicHeader title={title} illustration={term?.data.illustration} />
+    <section class="_news single-col">
+      {perexHtml && <div class="perex" set:html={perexHtml} />}
+      <nav aria-label="Zobrazení doporučení">
+        <ul class="_horizontal-list">
+          <li><a href="/vystupy/doporuceni/" class={mode === 'year' ? 'selected' : undefined} aria-current={mode === 'year' ? 'page' : undefined}>Dle roku</a></li>
+          <li><a href="/doporuceni-vse/" class={mode === 'all' ? 'selected' : undefined} aria-current={mode === 'all' ? 'page' : undefined}>Všechna doporučení</a></li>
+        </ul>
+      </nav>
+      {mode === 'all' ? items.map(({ section, entry }) => (
+        <NewsPreview href={`/${section}/${entry.id}/`} title={entry.data.title} pic={'illustration' in entry.data ? entry.data.illustration : undefined} perex={entry.data.perex} date={entry.data.date} tags={entry.data.vystupy} locale="cs" />
+      )) : [...byYear].map(([year, entries], index) => (
+        <Collapsible title={year} id={`recommendations-${year === 'Bez data' ? 'undated' : year}`} open={index === 0}>
+          {entries.map(({ section, entry }) => (
+            <NewsPreview href={`/${section}/${entry.id}/`} title={entry.data.title} pic={'illustration' in entry.data ? entry.data.illustration : undefined} perex={entry.data.perex} date={entry.data.date} tags={entry.data.vystupy} headingLevel={4} locale="cs" />
+          ))}
+        </Collapsible>
+      ))}
+    </section>
+  </main>
+</BaseLayout>

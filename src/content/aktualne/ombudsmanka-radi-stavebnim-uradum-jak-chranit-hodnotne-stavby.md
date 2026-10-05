@@ -1,0 +1,18 @@
+---
+title: Ombudsmanka radí stavebním úřadům, jak chránit hodnotné stavby
+date: 2018-01-30T00:00:00.000Z
+perex: Ombudsmanka vydala „návod“, jak by měly stavební úřady posuzovat případy,
+  kdy stavební úpravy změní vzhled stavby. Kvůli nejednotnému postupu úřadů
+  dochází podle ombudsmanky v některých případech k necitlivým a nevratným
+  zásahům do architektonických hodnot staveb, které sice nejsou památkově
+  chráněné, ale spoluutvářejí vzhled obcí a měst.
+kategorie:
+  - tz
+---
+Podle stavebního zákona je třeba stavební povolení k takovým úpravám, kterými dochází ke změně vzhledu stavby. Výklad neurčitého pojmu „změna vzhledu stavby“ je přitom ponechán na stavebních úřadech. Ty musí při vydávání stavebního povolení posuzovat nejen změnu vnějších prvků stavby, ale vyhodnocovat změnu také v souvislosti s charakterem okolní zástavby a s charakterem území v jejich správním obvodu. V praxi však dochází k neodůvodněným rozdílům v tom, jak jednotlivé stavební úřady změnu vzhledu stavby posuzují. Ombudsmanka se proto rozhodla vydat Desatero dobré praxe pro posouzení stavebních úprav měnících vzhled památkově nechráněných staveb. Stavebním úřadům by měl tento „návod“ pomoci řádně a transparentně vyhodnocovat stavební úpravy zejména architektonicky a urbanisticky hodnotných staveb.
+
+*„Chránit architektonický obraz obce či města je úkolem místních samospráv a děje se tak v první řadě prostřednictvím kvalitních územních plánů. Stavební úřady však musí ke kultivaci prostředí přispívat tím, že budou svými rozhodnutími uvážlivě chránit a rozvíjet hodnotu staveb i urbanistického celku obecně,“* vysvětluje ombudsmanka Anna Šabatová důvody vydání Desatera.
+
+Stavební úřad musí podle ombudsmanky především shromáždit podklady o rozsahu předpokládaných, či již dokončených stavebních úprav a objektivně vyhodnotit, zda se vzhled stavby změní či změnil. Posuzuje přitom vnější viditelné části, tj. zejména výšku a orientaci stavby, její rozměry a tvar, stavebně technické provedení fasády a její barevnost, tvar střechy, umístění a členění okenních a dveřních výplní. Vzhledem k tomu, že stavební úřad má přispívat ke kultivaci existujícího prostředí, musí při posuzování stavebních úprav současně přihlížet také k zasazení stavby do území, k charakteru okolní zástavby apod. Pokud například dojde k zateplení stavby, současně jsou odstraněny zdobné prvky fasády, okna jsou vyměněna za tvarově odlišná a fasáda dostane novou barvu, jde zcela jednoznačně o stavební úpravy, které mění vzhled stavby a mohou být provedeny jen na základě stavebního povolení. To by stavební úřad neměl vydat, jestliže by změna vzhledu stavby narušila architektonický a urbanistický ráz stávající zástavby. V případě pochybností by stavební úřad měl přizvat k posouzení stavebních úprav odborníka, např. autorizovaného inspektora, znalce nebo specializované odborné pracoviště.
+
+Desatero dobré praxe je k dispozici  [zde](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/Letaky/Desatero_stavebni_urady.pdf "Otevření do nového okna") (1.1 MB, Adobe Acrobat dokument).

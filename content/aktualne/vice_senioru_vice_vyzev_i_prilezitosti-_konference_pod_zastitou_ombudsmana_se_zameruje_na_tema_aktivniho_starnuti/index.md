@@ -20,9 +20,9 @@ attachments:
   - title: "Podcast Na kávu s ombudsmanem: Věk nesmí být strašákem ani důvodem k
       diskriminaci "
     link: https://www.ochrance.cz/aktualne/na_kavu_s_ombudsmanem_127-_dil_vek_nesmi_byt_strasakem_ani_duvodem_k_diskriminaci/
-  - file: https://www.ochrance.cz/aktualne/vice_senioru_vice_vyzev_i_prilezitosti-_konference_pod_zastitou_ombudsmana_se_zameruje_na_tema_aktivniho_starnuti/vekova_dis_1cast.pdf
+  - file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/vice_senioru_vice_vyzev_i_prilezitosti-_konference_pod_zastitou_ombudsmana_se_zameruje_na_tema_aktivniho_starnuti/vekova_dis_1cast.pdf
     title: Seriál o věkové diskriminaci na téma práce
-  - file: https://www.ochrance.cz/aktualne/vice_senioru_vice_vyzev_i_prilezitosti-_konference_pod_zastitou_ombudsmana_se_zameruje_na_tema_aktivniho_starnuti/pdf_vekova_diskriminace_2.cast.pdf
+  - file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/vice_senioru_vice_vyzev_i_prilezitosti-_konference_pod_zastitou_ombudsmana_se_zameruje_na_tema_aktivniho_starnuti/pdf_vekova_diskriminace_2.cast.pdf
     title: Seriál o věkové diskriminaci na téma služby
 ---
 <p>Podíl starších lidí v Česku vzrostl za posledních 20 let z přibližně 14 % na téměř 21 %. Do roku 2050 dosáhne 65+ let bezmála 30 % obyvatel Česka. Alespoň takový je odhad Českého statistického úřadu. Stoupající počet lidí v&nbsp;seniorském věku je pádný argument, proč tématu stárnutí věnovat pozornost.&nbsp;</p>
@@ -42,8 +42,8 @@ attachments:
 <tr>
 <td>
 <figure class="image">
-<img src="https://www.ochrance.cz/aktualne/vice_senioru_vice_vyzev_i_prilezitosti-_konference_pod_zastitou_ombudsmana_se_zameruje_na_tema_aktivniho_starnuti/dsc_3794.jpg" alt="Publikum Fóra aktivního stárnutí. V popředí sedí Stanislav Křeček, Vít Alexander Schorm a Marian Jurečka."></figure></td>
+<img src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/vice_senioru_vice_vyzev_i_prilezitosti-_konference_pod_zastitou_ombudsmana_se_zameruje_na_tema_aktivniho_starnuti/dsc_3794.jpg" alt="Publikum Fóra aktivního stárnutí. V popředí sedí Stanislav Křeček, Vít Alexander Schorm a Marian Jurečka."></figure></td>
 <td>
 <figure class="image">
-<img src="https://www.ochrance.cz/aktualne/vice_senioru_vice_vyzev_i_prilezitosti-_konference_pod_zastitou_ombudsmana_se_zameruje_na_tema_aktivniho_starnuti/dsc_3809.jpg" alt="Fórum aktivního stárnutí zahajují Stanislav Křeček, Vít Alexander Schorm, Klára Šeďová a Marian Jurečka."></figure></td></tr></tbody></table></figure>
+<img src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/vice_senioru_vice_vyzev_i_prilezitosti-_konference_pod_zastitou_ombudsmana_se_zameruje_na_tema_aktivniho_starnuti/dsc_3809.jpg" alt="Fórum aktivního stárnutí zahajují Stanislav Křeček, Vít Alexander Schorm, Klára Šeďová a Marian Jurečka."></figure></td></tr></tbody></table></figure>
 <p>&nbsp;</p>

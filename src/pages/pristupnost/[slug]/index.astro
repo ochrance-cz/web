@@ -1,0 +1,104 @@
+---
+import * as pageCopy0 from '../../../components/page-content/section-pages/pristupnost.astro';
+// /pristupnost/<slug>/ — Accessibility detail page.
+// Mirrors layouts/pristupnost/single.html (chapters + plain pages) and
+// layouts/gallery/single.html (the `budova` page).
+//   * single.html: TextHeader → <div contentBackdrop?><section> with perex,
+//     links, body, linksAfter, then the always-present prev/next chapter nav
+//     (_pristupnost-navigation) computed from the parent /pristupnost/ chapters[].
+//   * gallery/single.html: TextHeader → <section _zigzag-gallery> of figures
+//     (from the editable Markdown body) → cta-contact.
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import TextHeader from '../../../components/TextHeader.astro';
+import LinkList from '../../../components/LinkList.astro';
+import CtaContact from '../../../components/CtaContact.astro';
+import MarkdownContent from '../../../components/MarkdownContent.astro';
+import { renderMarkdown } from '../../../lib/markdown';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('pristupnost');
+  return entries.map((entry) => ({ params: { slug: entry.id }, props: { entry } }));
+}
+
+const { entry } = Astro.props;
+// Loosely typed view so optional Hugo params (perex/links/linksAfter/
+// contentBackdrop/type) can be reproduced even when absent from the schema.
+const data = entry.data as Record<string, any>;
+
+const isGallery = entry.id === 'budova';
+const galleryRendered = isGallery
+  ? entry.body.split(/(?=^## )/m).filter((part) => part.trim()).map((part) => {
+      const image = part.match(/^!\[([^\]]*)\]\(([^)]+)\)\s*$/m);
+      return {
+        pic: image?.[2],
+        alt: image?.[1] ?? '',
+        body: image ? part.replace(image[0], '').trim() : part.trim(),
+      };
+    })
+  : [];
+
+// Chapter prev/next nav from _index.chapters[].
+import { data as indexData } from '../../../components/page-content/section-pages/pristupnost.astro';
+const entries = await getCollection('pristupnost');
+const titleBySlug = new Map(entries.map((e) => [e.id, e.data.title]));
+const chapterSlugs: string[] = (indexData.chapters ?? []).map((c: { chapter?: string }) =>
+  (c.chapter ?? '').replace(/\/index$/, '')
+);
+const chapterIndex = chapterSlugs.indexOf(entry.id);
+const isChapter = chapterIndex !== -1;
+const prev =
+  isChapter && chapterIndex > 0
+    ? { href: `/pristupnost/${chapterSlugs[chapterIndex - 1]}/`, title: titleBySlug.get(chapterSlugs[chapterIndex - 1]) }
+    : isChapter
+      ? { href: '/pristupnost/', title: 'Obsah příručky' }
+      : null;
+const next =
+  isChapter && chapterIndex < chapterSlugs.length - 1
+    ? { href: `/pristupnost/${chapterSlugs[chapterIndex + 1]}/`, title: titleBySlug.get(chapterSlugs[chapterIndex + 1]) }
+    : null;
+
+const perexHtml = data.perex ? await renderMarkdown(data.perex) : '';
+---
+<BaseLayout title={entry.data.title} lang="cs">
+  <main data-pagefind-body>
+    <TextHeader
+      title={entry.data.title}
+      locale="cs"
+      backlink={{ href: '/pristupnost/', label: 'zpět na obsah sekce' }}
+    />
+
+    {isGallery ? (
+      <>
+        <section class="_zigzag-gallery">
+          {galleryRendered.map((g) => (
+            <figure class="item">
+              {g.pic && (
+                <div class="img-wrapper">
+                  <img src={g.pic} alt={g.alt} />
+                </div>
+              )}
+              <div class="description">
+                <MarkdownContent content={g.body} />
+              </div>
+            </figure>
+          ))}
+        </section>
+        <CtaContact phone="542 542 888" email="podatelna@ochrance.cz" />
+      </>
+    ) : (
+      <div class={data.contentBackdrop || undefined}>
+        <section>
+          {perexHtml && <div class="perex" set:html={perexHtml} />}
+          {data.links && <LinkList items={data.links} />}
+          <MarkdownContent content={entry.body} />
+          {data.linksAfter && <LinkList items={data.linksAfter} />}
+          <div class="_pristupnost-navigation">
+            {prev && <a href={prev.href}>{prev.title}</a>}
+            {next && <a href={next.href}>{next.title}</a>}
+          </div>
+        </section>
+      </div>
+    )}
+  </main>
+</BaseLayout>

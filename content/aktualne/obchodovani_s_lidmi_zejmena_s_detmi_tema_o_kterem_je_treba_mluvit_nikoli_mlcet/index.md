@@ -14,8 +14,8 @@ perex: <p>Organizace La Strada pomáhá obětem obchodování a u 246 ukrajinsk�
 <p>Cílem komiksu je vybavit děti a mladé lidi schopností sami sebe odhalit jako oběť obchodu s&nbsp;lidmi. Dále je motivovat k&nbsp;vyhledání pomoci, pokud se obětí skutečně stanou. Díky této osvětě se dá zabránit neštěstí.&nbsp;</p>
 <p>Jsme rádi, že se můžeme do tohoto proFotka zachycuje účastníky předávání cen za nejlepší komiks v oblasti osvěty obchodu s lidmi.jektu zapojit, společně s&nbsp;organizací La Strada Česká republika, o.p.s., Úřadem vysokého komisaře OSN pro uprchlíky v&nbsp;České republice a UNICEFem.&nbsp;</p>
 <figure class="image">
-<img src="https://www.ochrance.cz/aktualne/obchodovani_s_lidmi_zejmena_s_detmi_tema_o_kterem_je_treba_mluvit_nikoli_mlcet/vyherci_01_upravene_3_.jpg" alt="Fotka zachycuje účastníky předávání cen za nejlepší komiks v oblasti osvěty obchodu s lidmi."></figure>
+<img src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/obchodovani_s_lidmi_zejmena_s_detmi_tema_o_kterem_je_treba_mluvit_nikoli_mlcet/vyherci_01_upravene_3_.jpg" alt="Fotka zachycuje účastníky předávání cen za nejlepší komiks v oblasti osvěty obchodu s lidmi."></figure>
 <figure class="image">
-<img src="https://www.ochrance.cz/aktualne/obchodovani_s_lidmi_zejmena_s_detmi_tema_o_kterem_je_treba_mluvit_nikoli_mlcet/plakaty_upravene_.jpg" alt="Fotka zachycuje paní, která si prohlíží vystavené komiksy."></figure>
+<img src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/obchodovani_s_lidmi_zejmena_s_detmi_tema_o_kterem_je_treba_mluvit_nikoli_mlcet/plakaty_upravene_.jpg" alt="Fotka zachycuje paní, která si prohlíží vystavené komiksy."></figure>
 <figure class="image">
-<img src="https://www.ochrance.cz/aktualne/obchodovani_s_lidmi_zejmena_s_detmi_tema_o_kterem_je_treba_mluvit_nikoli_mlcet/plakat_predani_upravene_.jpg" alt="Fotka zachycuje plakát, který informuje o slavnostním předávání cen za nejlepší komiks a plakát na téma obchodování s lidmi a dětmi."></figure>
+<img src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/obchodovani_s_lidmi_zejmena_s_detmi_tema_o_kterem_je_treba_mluvit_nikoli_mlcet/plakat_predani_upravene_.jpg" alt="Fotka zachycuje plakát, který informuje o slavnostním předávání cen za nejlepší komiks a plakát na téma obchodování s lidmi a dětmi."></figure>

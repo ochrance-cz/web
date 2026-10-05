@@ -26,6 +26,6 @@ perex: >
 
 <p><a href="https://www.ochrance.cz/aktualne/ombudsman_se_snazi_pomoci_byvalym_klientum_bohemia_energy_a_dalsich_dodavatelu_energii/">Tisková zpráva ze 4. 11. 2021</a></p>
 
-<p><a href="https://www.ochrance.cz/letaky/ochrana-spotrebitele/ochrana-spotrebitele.pdf">Leták &ndash; ochrana spotřebitele</a></p>
+<p><a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/ochrana-spotrebitele/ochrana-spotrebitele.pdf">Leták &ndash; ochrana spotřebitele</a></p>
 
-<p><a href="https://www.ochrance.cz/letaky/mop/mop.pdf">Leták &ndash; mimořádná okamžitá pomoc</a></p>
+<p><a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/mop/mop.pdf">Leták &ndash; mimořádná okamžitá pomoc</a></p>

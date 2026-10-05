@@ -18,9 +18,9 @@ perex: >
 attachments:
   - title: "Usnesení Krajského soudu v Ostravě - pobočka v Olomouci č. j. 65 A
       18/2020-383 "
-    file: https://www.ochrance.cz/aktualne/planovana_stavba_santovka_tower_v_olomouci_miri_k_nejvyssimu_spravnimu_soudu_ombudsman_podal_kasacni_stiznost/65a_18_2020_76.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/planovana_stavba_santovka_tower_v_olomouci_miri_k_nejvyssimu_spravnimu_soudu_ombudsman_podal_kasacni_stiznost/65a_18_2020_76.pdf
   - title: Kasační stížnost VOP
-    file: https://www.ochrance.cz/aktualne/planovana_stavba_santovka_tower_v_olomouci_miri_k_nejvyssimu_spravnimu_soudu_ombudsman_podal_kasacni_stiznost/santovka-szd_5-20_-_kasacni_stiznost_vop.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/planovana_stavba_santovka_tower_v_olomouci_miri_k_nejvyssimu_spravnimu_soudu_ombudsman_podal_kasacni_stiznost/santovka-szd_5-20_-_kasacni_stiznost_vop.pdf
 ---
 <p>Žalobou ve veřejném zájmu se ombudsman u olomoucké pobočky ostravského krajského soudu domáhal zrušení územního rozhodnutí o umístění stavby Šantovka Tower vydaného olomouckým magistrátem. Umístění výškové budovy v&nbsp;sousedství městské památkové rezervace podle něj současně porušuje hned několik veřejných zájmů. Kromě zájmu na ochraně Městské památkové rezervace Olomouc a na zachování hodnot území města Olomouce, které chrání olomoucký územní plán, jde podle ombudsmana také o veřejný zájem na ochraně životního prostředí, a v&nbsp;neposlední řadě také o veřejný zájem na nestranném rozhodování orgánu státní správy.</p>
 

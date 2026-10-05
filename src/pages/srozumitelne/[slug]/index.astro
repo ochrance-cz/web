@@ -1,0 +1,61 @@
+---
+// Chapter detail for "Jak psát srozumitelně". Mirrors layouts/srozumitelne/single.html:
+// text-header banner (with "zpět na obsah příručky" backlink) → contentBackdrop
+// wrapper → <section> with the body + the `_srozumitelne-navigation` prev/next.
+// The body is rendered via the shared markdown helper so we can post-process
+// `<!-- sloupce:ID -->` markers into two-column comparison <dl>s from _index params.
+import type { GetStaticPaths } from 'astro';
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import TextHeader from '../../../components/TextHeader.astro';
+import { renderMarkdown } from '../../../lib/markdown';
+import { loadGuideIndex, loadTwoColMap, sortChapters } from '../_guide';
+
+export const getStaticPaths = (async () => {
+  const { order } = await loadGuideIndex();
+  const chapters = sortChapters(await getCollection('srozumitelne'), order);
+  return chapters.map((entry, i) => ({
+    params: { slug: entry.id },
+    props: {
+      entry,
+      prev: i > 0 ? chapters[i - 1] : null,
+      next: i < chapters.length - 1 ? chapters[i + 1] : null,
+    },
+  }));
+}) satisfies GetStaticPaths;
+
+const { entry, prev, next } = Astro.props;
+
+const twoColMap = await loadTwoColMap();
+let bodyHtml = await renderMarkdown(entry.body ?? '');
+// Replace each `<!-- sloupce:ID -->` marker with its rendered comparison table.
+bodyHtml = bodyHtml.replace(/<!--\s*sloupce:([\w-]+)\s*-->/g, (whole, id: string) =>
+  twoColMap[id] ?? whole,
+);
+---
+<BaseLayout title={entry.data.title} lang="cs" bodyClass="srozumitelne">
+  <main data-pagefind-body>
+    <TextHeader
+      title={entry.data.title}
+      locale="cs"
+      backlink={{ href: '/srozumitelne/', label: 'zpět na obsah příručky' }}
+    />
+
+    <div>
+      <section>
+        <Fragment set:html={bodyHtml} />
+
+        <div class="_srozumitelne-navigation">
+          {prev ? (
+            <a href={`/srozumitelne/${prev.id}/`}>{prev.data.title}</a>
+          ) : (
+            <a href="/srozumitelne/">Obsah příručky</a>
+          )}
+          {next && (
+            <a href={`/srozumitelne/${next.id}/`}>{next.data.title}</a>
+          )}
+        </div>
+      </section>
+    </div>
+  </main>
+</BaseLayout>

@@ -1,0 +1,136 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import TextHeader from '../../components/TextHeader.astro';
+import CtaContact from '../../components/CtaContact.astro';
+import { renderMarkdown } from '../../lib/markdown';
+import { t } from '../../lib/i18n';
+import { getEntry } from 'astro:content';
+
+// Landing page: reproduces layouts/podejte-stiznost/list.html (cs branch).
+const entry = await getEntry('podejte-stiznost', 'main');
+
+const online = entry!.data.online!;
+const emailMethod = entry!.data.emailMethod!;
+const postMethod = entry!.data.postMethod!;
+const inpersonMethod = entry!.data.inpersonMethod!;
+const accessibility = entry!.data.accessibility!;
+const contact = entry!.data.contact;
+
+// Downloadable form lists and help block now live in the content frontmatter.
+const emailForms = entry!.data.email ?? [];
+const postForms = entry!.data.post ?? [];
+const inpersonForms = entry!.data.inperson ?? [];
+const submission = entry!.data.submission;
+const exampleForms = submission?.['example-links'] ?? [];
+
+const dlForm = t('cs', 'dl-form');
+const dlExample = t('cs', 'dl-example');
+
+const submissionBodyHtml = await renderMarkdown(submission?.body ?? '');
+---
+<BaseLayout title={entry!.data.title} lang="cs" canonical={new URL('/podejte-stiznost/', Astro.site || Astro.url).href}>
+  <main data-pagefind-body>
+    <TextHeader
+      title={entry!.data.title}
+      description={entry!.body}
+      descriptionInfoIcon={true}
+      descriptionIcon={entry!.data.introIcon}
+      locale="cs"
+    />
+
+    <section>
+      <h2>{online.icon && <img class="_heading-image" src={online.icon} alt="" aria-hidden="true" />}{online.title}</h2>
+      <p>{online.intro} <a href={online.url}>{online.linkLabel}</a></p>
+      <p><a href={online.url} class="_button large">{online.buttonLabel}</a></p>
+
+      <h2>{accessibility.icon && <img class="_heading-image" src={accessibility.icon} alt="" aria-hidden="true" />}{accessibility.title}</h2>
+      <p>{accessibility.intro}</p>
+
+      <p class="_button--wrapper">
+        {accessibility.links.map((link, index) => <>{index > 0 && ' '}<a href={link.link} class="_button">{link.text}</a></>)}
+      </p>
+
+      <h2>{emailMethod.icon && <img class="_heading-image" src={emailMethod.icon} alt="" aria-hidden="true" />}{emailMethod.title}</h2>
+      <p>{emailMethod.intro}
+      <strong><a href={`mailto:${emailMethod.address}`}>{emailMethod.address}</a></strong></p>
+
+      <div class="_download-collapsible">
+        <input type="checkbox" id="nav-opener-email" />
+        <div class="box">
+          <p class="title">
+            <label role="button" tabindex="0" class="opener" for="nav-opener-email" aria-controls="email-content" aria-expanded="false">{dlForm}</label>
+          </p>
+          <ul id="email-content">
+            {emailForms.map((it) => <li><a href={it.link}>{it.desc}</a></li>)}
+          </ul>
+        </div>
+      </div>
+
+      <h2>{postMethod.icon && <img class="_heading-image" src={postMethod.icon} alt="" aria-hidden="true" />}{postMethod.title}</h2>
+      <p>{postMethod.intro}</p>
+      <p>{postMethod.address.split('\n').map((line, index) => <>{index > 0 && <br />}{line}</>)}</p>
+
+      <div class="_download-collapsible">
+        <input type="checkbox" id="nav-opener-post" />
+        <div class="box">
+          <p class="title">
+            <label role="button" tabindex="0" class="opener" for="nav-opener-post" aria-controls="post-content" aria-expanded="false">{dlForm}</label>
+          </p>
+          <ul id="post-content">
+            {postForms.map((it) => <li><a href={it.link}>{it.desc}</a></li>)}
+          </ul>
+        </div>
+      </div>
+
+      <p><a href="#help">{postMethod.helpLabel}</a></p>
+
+      <h2>{inpersonMethod.icon && <img class="_heading-image" src={inpersonMethod.icon} alt="" aria-hidden="true" />}{inpersonMethod.title}</h2>
+      <p>{inpersonMethod.intro}</p>
+      <p>{inpersonMethod.address.split('\n').map((line, index) => <>{index > 0 && <br />}{line}</>)}</p>
+      <p>{inpersonMethod.note}</p>
+
+      <div class="_download-collapsible">
+        <input type="checkbox" id="nav-opener-inperson" />
+        <div class="box">
+          <p class="title">
+            <label role="button" tabindex="0" class="opener" for="nav-opener-inperson" aria-controls="inperson-content" aria-expanded="false">{dlForm}</label>
+          </p>
+          <ul id="inperson-content">
+            {inpersonForms.map((it) => <li><a href={it.link}>{it.desc}</a></li>)}
+          </ul>
+        </div>
+      </div>
+
+      <hr />
+      <div id="help">
+        <h2 id="help">{submission?.icon
+          ? <img class="_heading-image" src={submission.icon} alt="" aria-hidden="true" />
+          : <span class="_icon-info" aria-hidden="true"></span>}{submission?.title}</h2>
+
+        <Fragment set:html={submissionBodyHtml} />
+
+        <div class="_download-collapsible">
+          <input type="checkbox" id="nav-opener-example" />
+          <div class="box">
+            <p class="title">
+              <label role="button" tabindex="0" class="opener" for="nav-opener-example" aria-controls="example-content" aria-expanded="false">{dlExample}</label>
+            </p>
+            <ul id="example-content">
+              {exampleForms.map((it) => <li><a href={it.link}>{it.desc}</a></li>)}
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <CtaContact
+      title={contact?.title}
+      label={contact?.label}
+      phoneLabel={contact?.phoneLabel}
+      emailLabel={contact?.emailLabel}
+      phone={contact?.phone ?? ''}
+      email={contact?.email ?? ''}
+      pic={contact?.pic}
+    />
+  </main>
+</BaseLayout>

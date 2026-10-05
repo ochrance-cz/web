@@ -1,0 +1,20 @@
+---
+import { readFileSync } from 'node:fs';
+import { join } from 'node:path';
+import matter from 'gray-matter';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { renderMarkdown } from '../lib/markdown';
+import TextHeader from '../components/TextHeader.astro';
+
+const src = matter(readFileSync(join(process.cwd(), 'src/sitedata/err/404.md'), 'utf8'));
+const title = (src.data as { title?: string }).title ?? 'Stránka nenalezena (chyba 404)';
+const body = await renderMarkdown(src.content);
+---
+<BaseLayout title={title} lang="cs">
+  <main>
+    <TextHeader title={title} locale="cs" />
+    <section>
+      <div set:html={body} />
+    </section>
+  </main>
+</BaseLayout>

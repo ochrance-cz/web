@@ -13,7 +13,7 @@ perex: >
   důchod.</p>
 attachments:
   - title: Jak změnit důchod
-    file: https://www.ochrance.cz/letaky/chci-zmenit-duchod/chci-zmenit-duchod.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/chci-zmenit-duchod/chci-zmenit-duchod.pdf
   - title: Zpráva o šetření - Kazachstán
     file: https://eso.ochrance.cz/Nalezene/Edit/9780
     link: ""

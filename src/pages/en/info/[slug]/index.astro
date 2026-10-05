@@ -1,0 +1,18 @@
+---
+// /en/info/<slug>/ — detail of an info page (en).
+import { getCollection } from 'astro:content';
+import SingleLayout from '../../../../layouts/SingleLayout.astro';
+import MarkdownContent from '../../../../components/MarkdownContent.astro';
+
+export async function getStaticPaths() {
+  const entries = (await getCollection('info-en')).filter((e) => !e.data.draft);
+  return entries.map((entry) => ({ params: { slug: entry.id }, props: { entry } }));
+}
+
+const { entry } = Astro.props;
+const { title, illustration, links } = entry.data;
+---
+<SingleLayout title={title} lang="en" links={links}>
+  {illustration && <img src={illustration} alt={title} />}
+  <MarkdownContent content={entry.body} />
+</SingleLayout>

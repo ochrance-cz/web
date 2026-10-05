@@ -7,5 +7,5 @@ vystupy:
 attachmentsTop:
   - title: "Fourth Monitoring Report: Implementation of the Right to Equal Treatment
       and Protection against Discrimination"
-    file: https://www.ochrance.cz/uploads-import/ESO/OMB-2%20MZ_2024_EN_onlaine%2005-24-1.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/OMB-2%20MZ_2024_EN_onlaine%2005-24-1.pdf
 ---

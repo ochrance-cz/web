@@ -1,0 +1,23 @@
+---
+title: Nová publikace Stanoviska 13 - Ochrana vod
+date: 2016-04-28T00:00:00.000Z
+perex: Edicí Stanoviska se veřejný ochránce práv už od roku 2007 snaží usnadnit
+  širší veřejnosti i úřadům orientaci v zákonech, prováděcích vyhláškách
+  a rozsudcích správních soudů. Publikace s pořadovým číslem 13 - Ochrana vod
+  – je tentokrát určena všem, kdo musí řešit záležitosti podle vodního práva, ať
+  už jde například o budování studní, likvidaci odpadních vod, připojení staveb
+  na vodovodní nebo kanalizační řad, ochranu před povodněmi apod.
+kategorie:
+  - tz
+---
+Hlavní část publikace tvoří kapitoly věnované základním otázkám a tematickým okruhům. Na úvod jsou vysvětleny klíčové pojmy právních předpisů a působnost jednotlivých úřadů a institucí v oblasti vod. Z témat se publikace věnuje především vodovodním a kanalizačním přípojkám a žumpám, studnám a domovním čistírnám odpadních vod. Popsán je proces povolování, tj. kdy a jaké povolení jsou nutná, které úřady je vydávají, kdo je účastníkem řízení, jaké jsou povinnosti nových vlastníků pozemků či staveb, kde dochází k nakládání s vodami apod. Samostatné kapitoly se věnují problematice údržby vodních toků, tj. například povinností správce toku, a také záplavovým územím, procesu jejich stanovení a možnosti obrany proti stanovenému záplavovému území, právům a povinnostem osob v záplavovém území apod.
+
+Všechna vysvětlená a popsaná témata přibližují v následující části publikace příklady konkrétních šetření, která vedl veřejný ochránce práv v minulých letech. Vybraná stanoviska popisují různé situace, k nimž v praxi dochází, vysvětlují postup úřadů i s hodnocením, kdy byl správný a kdy naopak ochránce konstatoval pochybení. Vždy je připojeno podrobné stanovisko ochránce, jak má být daná situace řešena.
+
+Publikaci doplňují také vybraná soudní rozhodnutí, která se týkají ochrany vod.
+
+Publikace Ochrana vod by měla být návodem, jak řešit situace, s nimiž se lidé mohou nejčastěji setkat. Současně může být i pomůckou a inspirací pro správní úřady na úseku vodního práva. Proto byla rozeslána všem vodoprávním úřadům, krajským úřadům, Ministerstvu zemědělství, Ministerstvu životního prostředí a Ministerstvu pro místní rozvoj.
+
+Všem zájemcům je publikace trvale k dispozici v elektronické podobě  [zde](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/Publikace/sborniky_stanoviska/Sbornik_Ochrana_vod.pdf "Otevření do nového okna") (1.8 MB, Adobe Acrobat dokument).
+
+Další publikace edice Stanoviska najdete [zde](/dalsi-aktivity/publikace/sborniky-stanoviska/).

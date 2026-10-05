@@ -5,7 +5,7 @@ vystupy:
   - vyzkumy
 attachmentsTop:
   - title: Bezbariérovost ve stavebním právu
-    file: https://www.ochrance.cz/uploads-import/ESO/Vl.%20in%20-%203822-21-JSV%20-11%20(v%C3%BDzkum%20bezbar)-final.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/Vl.%20in%20-%203822-21-JSV%20-11%20(v%C3%BDzkum%20bezbar)-final.pdf
 ---
 <h3>&nbsp;</h3>
 

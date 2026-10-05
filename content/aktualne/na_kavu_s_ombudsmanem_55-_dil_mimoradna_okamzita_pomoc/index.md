@@ -25,17 +25,17 @@ perex: >
 
 <p><a href="https://www.mpsv.cz/kalkulacka-pro-vypocet-zivotniho-minima">Kalkulačka pro výpočet životního minima</a></p>
 
-<p><a href="https://www.ochrance.cz/uploads-import/ESO/SZD%2025-20-JH-doporu%C4%8Den%C3%AD_002.pdf">Výsledky šetření k MOP pro děti </a>&nbsp;</p>
+<p><a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/SZD%2025-20-JH-doporu%C4%8Den%C3%AD_002.pdf">Výsledky šetření k MOP pro děti </a>&nbsp;</p>
 
 <h4>Informační letáky</h4>
 
-<p><a href="https://www.ochrance.cz/letaky/mop/mop.pdf">Mimořádná okamžitá pomoc</a></p>
+<p><a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/mop/mop.pdf">Mimořádná okamžitá pomoc</a></p>
 
-<p><a href="https://www.ochrance.cz/letaky/mimoradna-okamzita-pomoc-pro-nezaopatrene-deti/mop-pro-deti.pdf">Mimořádná okamžitá pomoc pro nezaopatřené děti</a></p>
+<p><a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/mimoradna-okamzita-pomoc-pro-nezaopatrene-deti/mop-pro-deti.pdf">Mimořádná okamžitá pomoc pro nezaopatřené děti</a></p>
 
-<p><a href="https://www.ochrance.cz/letaky/rizeni-o-davkach-pomoci-v-hn/rizeni-o-davkach-pomoci-v-hn.pdf">Řízení o dávkách pomoci v hmotné nouzi a příspěvku na bydlení</a></p>
+<p><a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/rizeni-o-davkach-pomoci-v-hn/rizeni-o-davkach-pomoci-v-hn.pdf">Řízení o dávkách pomoci v hmotné nouzi a příspěvku na bydlení</a></p>
 
-<p><a href="https://www.ochrance.cz/letaky/davky-na-bydleni/davky-na-bydleni.pdf">Dávky na bydlení</a><br />
+<p><a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/davky-na-bydleni/davky-na-bydleni.pdf">Dávky na bydlení</a><br />
 &nbsp;</p>
 
 <p>&nbsp;</p>

@@ -24,13 +24,13 @@ perex: >
 
 <p><strong>Nápomocné vám budou také naše informační letáky</strong></p>
 
-<p><a href="https://www.ochrance.cz/letaky/necinnost-uradu/necinnost-uradu.pdf">Nečinnost úřadů </a>&nbsp;</p>
+<p><a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/necinnost-uradu/necinnost-uradu.pdf">Nečinnost úřadů </a>&nbsp;</p>
 
-<p><a href="https://www.ochrance.cz/letaky/zadost-necinnost/formular-opatreni_proti_necinnosti-urad.docx">Žádost o uplatnění opatření proti nečinnosti</a> a ve <a href="https://www.ochrance.cz/letaky/zadost-necinnost/verze-formulare-k-tisku-a-vyplneni-rukou.pdf">verzi pro tisk</a></p>
+<p><a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/zadost-necinnost/formular-opatreni_proti_necinnosti-urad.docx">Žádost o uplatnění opatření proti nečinnosti</a> a ve <a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/zadost-necinnost/verze-formulare-k-tisku-a-vyplneni-rukou.pdf">verzi pro tisk</a></p>
 
-<p><a href="https://www.ochrance.cz/letaky/zadost-o-zadostiucenini-spravni/formular-zadostiucineni_delka_spravniho_rizeni.docx">Žádost o přiměřené zadostiučinění za nepřiměřenou délku správního řízení</a></p>
+<p><a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/zadost-o-zadostiucenini-spravni/formular-zadostiucineni_delka_spravniho_rizeni.docx">Žádost o přiměřené zadostiučinění za nepřiměřenou délku správního řízení</a></p>
 
-<p><a href="https://www.ochrance.cz/letaky/zadost-o-zadostiucenini-spravni/formular-zadostiucineni_delka_spravniho_rizeni_priloha.pdf">Průvodní informace k žádosti</a></p>
+<p><a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/zadost-o-zadostiucenini-spravni/formular-zadostiucineni_delka_spravniho_rizeni_priloha.pdf">Průvodní informace k žádosti</a></p>
 
 <p><a href="https://www.ochrance.cz/aktualne/desatero-dobre-praxe-pro-posouzeni-zadosti-o-odskodneni/">Desatero dobré praxe pro posouzení žádosti o odškodnění</a></p>
 

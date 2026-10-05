@@ -18,7 +18,7 @@ perex: V dnešním podcastu pokračujeme v tématu z minulého týdne, kterým j
 
 <h3>Související odkazy:</h3>
 
-<p><a href="https://www.ochrance.cz/vystupy/publikace/stanoviska/Sbornik_Pohrebnictvi.pdf">Sborník ombudsmana Pohřebnictví</a></p>
+<p><a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/vystupy/publikace/stanoviska/Sbornik_Pohrebnictvi.pdf">Sborník ombudsmana Pohřebnictví</a></p>
 
 <p><a href="https://www.mmr.cz/cs/ministerstvo/pohrebnictvi">Ministerstvo pro místní rozvoj - pohřebnictví</a></p>
 

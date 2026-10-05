@@ -1,0 +1,20 @@
+---
+title: "Případ pro ombudsmana: Dlažba pro všechny"
+date: 2010-11-25T00:00:00.000Z
+perex: V pátek 26. 11. vysílá Česká televize na ČT1 v 18:25 třináctý díl cyklu
+  Případ pro ombudsmana (repríze v pondělí 29. 11. ve 12:25 na ČT2). Díl nazvaný
+  Dlažba pro všechny se týká veřejných staveb, jejichž výstavba či rekonstrukce
+  je povolována bez toho, aby splňovaly podmínky pro přístupnost osobám se
+  zdravotním postižením.
+kategorie:
+  - tz
+---
+Spis VOP 3939/2008V červenci 2008 se na ochránce obrátil prezident Sjednocené organizace nevidomých a slabozrakých ČR (dále SONS) s žádostí o pomoc v souvislosti s povolováním výstavby či rekonstrukce veřejných staveb tak, aby bylo zajištěno jejich užívání osobami se zdravotním postižením. Současně předložil i podnět týkající se konkrétní stavby. Jednalo se o provedení stavebních úprav veřejných komunikací (silnic a chodníků) v historické části Jindřichova Hradce, na níž SONS demonstroval potíže praxe se zabezpečením užívání veřejných staveb osobami se zdravotním postižením. Upozornil, že při realizaci této stavební akce nebyly respektovány obecně technické požadavky na výstavbu vyplývající z tzv. bezbariérové vyhlášky (konkrétně nerespektování požadavku na rozměrové a materiálové provedení umělých vodících linií, signálních a varovných pásů).
+
+Ochránce šetřením zjistil, že cestou mimořádných opravných prostředků bylo z podnětu SONS původní kolaudační rozhodnutí z roku 2007 krajským úřadem zrušeno. Důvodem byla existence závad na stavbě, které brání samostatnému užívání osobami se zrakovým postižením.
+
+Město Jindřichův Hradec, coby investor, provedl v roce 2009 úpravy chodníků a stavební úřad vydal nové kolaudační rozhodnutí. SONS ho opět napadl u krajského úřadu s tím, že materiál použitý na provedené signální a varovné pásy je nevhodný. Krajský úřad námitce nevyhověl a podnět odložil.
+
+Ochránce ocenil snahu města, které zčásti provedlo nápravu, a současně chápe argument, že pokud by muselo dojít k celkovému předláždění, stálo by to velké finanční prostředky, které město nyní nemá. Na druhou stranu ochránce chápe i postoj nevidomých. Protože se jedná o případ ilustrující obecný problém, dospěl ochránce k názoru, že by byla vhodná systémová změna, tj. změna v legislativě. Za tímto účelem vyvolal jednání se zástupci Vládního výboru pro zdravotně postižené občany Úřadu vlády ČR a zástupci Národní rady osob se zdravotním postižením ČR. V současné době probíhá odborná diskuze, zda cestou legislativních změn ustavit speciální správní orgán, který by hájil zájmy osob se zdravotním postižením ve stavebních řízeních, nebo ustavit nový odbor autorizace inženýrů a techniků „bezbariérové řešení staveb“. Tím by se dosáhlo, že projektová dokumentace stavby předkládaná stavebnímu úřadu by byla zpracována osobou s potřebnou kvalifikací a znalostmi v oblasti bezbariérového řešení staveb.
+
+Starší díly cyklu Případ pro ombudsmana je možné zhlédnout v archivu České televize na [www.ceskatelevize.cz](http://www.ceskatelevize.cz/ "Otevření do nového okna")

@@ -2,7 +2,7 @@
 title: Zpravodaj ombudsmana za květen a červen 2025
 month: 7
 year: 2025
-file: https://www.ochrance.cz/zpravodaj/za_kveten_a_cerven_2025/zpravodaj_kveten_a_cerven_2025.pdf
+file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/zpravodaj/za_kveten_a_cerven_2025/zpravodaj_kveten_a_cerven_2025.pdf
 sections:
   - title: Úvodní slovo
     articles:
@@ -103,7 +103,7 @@ sections:
       - title: "Upozornili jsme silniční úřad, že při rušení železničního přejezdu měl
           prověřit námitku města, které ho považuje za potřebný při povodních "
         id: 6650/2024/VOP
-        eso: https://www.ochrance.cz/uploads-import/ESO/6650-24-M%C4%8C-ZZ.pdf
+        eso: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/6650-24-M%C4%8C-ZZ.pdf
         body: >-
           <blockquote>
 

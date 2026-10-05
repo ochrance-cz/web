@@ -13,7 +13,7 @@ perex: >
   o&nbsp;svých zjištěních jednat se zástupci ústavů, Ministerstva spravedlnosti
   ČR, Vězeňské služby ČR, soudů, státního zastupitelství.</p>
 attachments:
-  - file: https://www.ochrance.cz/uploads-import/ESO/5-2019-NZ-MKL_Souhrna_zprava_zabezpecovaci_detence.pdf
+  - file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/5-2019-NZ-MKL_Souhrna_zprava_zabezpecovaci_detence.pdf
     title: Zpráva z návštěv zabezpečovací detence
 ---
 <!-- imported from the old website -->

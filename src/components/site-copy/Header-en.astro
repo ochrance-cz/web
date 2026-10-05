@@ -1,0 +1,103 @@
+---
+import LangSwitcher from '../LangSwitcher.astro';
+interface Props { translatedHref?: string }
+const { translatedHref } = Astro.props;
+---
+<header class="_site-header">
+<div class="backdrop">
+<div class="root-link">
+<a tabindex="0" href="/en/">
+<img class="logo" src="/images/logo-en.svg" width="200" alt="Ombudsman - Home Page">
+</a>
+</div>
+<div class="_collapsible-nav">
+<input type="checkbox" id="site-nav-toggle">
+<label role="button" class="hide-nav nav-opener opener" for="site-nav-toggle" aria-haspopup="menu" aria-controls="site-nav" aria-expanded="true">
+</label>
+<div class="box">
+<h3 class="title">
+<label tabindex="0" class="opener nav-opener" for="site-nav-toggle" aria-haspopup="menu" aria-controls="site-nav" aria-expanded="false">
+Menu
+</label>
+</h3>
+<nav id="site-nav" aria-label="Main menu">
+<ul>
+<input type="checkbox" id="help-checkbox">
+<li class="dropdown">
+<label role="button" tabindex="0" class="dropdown-title opener keyboard-only-opener" for="help-checkbox" aria-haspopup="menu" aria-controls="help-dropdown" aria-expanded="false"> I need help </label>
+<ul class="dropdown-menu" role="menu" id="help-dropdown">
+<li>
+<a tabindex="0" href="/en/potrebuji-pomoc/problem-s-uradem/">
+<span class="icon-arrow" aria-hidden="true">
+</span>I have a problem with an official authority </a>
+</li>
+<li>
+<a tabindex="0" href="/en/potrebuji-pomoc/omezeni-na-svobode/">
+<span class="icon-arrow" aria-hidden="true">
+</span>People restricted in their freedom are treated badly </a>
+</li>
+<li>
+<a tabindex="0" href="/en/potrebuji-pomoc/diskriminace/">
+<span class="icon-arrow" aria-hidden="true">
+</span>I think I am being discriminated against </a>
+</li>
+<li>
+<a tabindex="0" href="/en/potrebuji-pomoc/postizeni/">
+<span class="icon-arrow" aria-hidden="true">
+</span>I have problems related to my disability </a>
+</li>
+<li>
+<a tabindex="0" href="/en/not-sure">
+<span class="icon-question" aria-hidden="true">
+</span>I am not sure how to deal with a difficult life situation </a>
+</li>
+<li>
+<a tabindex="0" href="/en/info/obcane-eu/">
+<span class="icon-arrow" aria-hidden="true">
+</span>I am a citizen of the European Union </a>
+</li>
+<li>
+<a href="https://portal.ochrance.cz">Administration and registration of complaints</a>
+</li>
+</ul>
+</li>
+<input type="checkbox" id="work-checkbox">
+<li class="dropdown">
+<label role="button" tabindex="0" class="dropdown-title opener keyboard-only-opener" for="work-checkbox" aria-haspopup="menu" aria-controls="work-dropdown" aria-expanded="false"> Our work </label>
+<ul class="dropdown-menu" role="menu" id="work-dropdown">
+<li>
+<a tabindex="0" href="/en/vystupy/">
+<span class="icon-arrow" aria-hidden="true">
+</span>Publications </a>
+</li>
+<li>
+<a tabindex="0" href="/en/projekty/">
+<span class="icon-arrow" aria-hidden="true">
+</span>Projects </a>
+</li>
+</ul>
+</li>
+<li class="group">
+<ul>
+<li>
+<a tabindex="0" href="/en/o-nas/">About us</a>
+</li>
+<li>
+<a tabindex="0" href="/en/aktualne/">News</a>
+</li>
+<li>
+<a tabindex="0" href="/en/kontakt/">Contact</a>
+</li>
+</ul>
+</li>
+<li>
+<a tabindex="0" href="/en/hledat/" class="search" aria-label="Search"> Search </a>
+</li>
+<LangSwitcher locale="en" href={translatedHref} >
+</LangSwitcher>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+</header>

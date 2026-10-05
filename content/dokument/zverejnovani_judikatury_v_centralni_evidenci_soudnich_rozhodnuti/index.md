@@ -5,5 +5,5 @@ vystupy:
   - vyzkumy
 attachmentsTop:
   - title: "Zveřejňování judikatury v centrální evidenci soudních rozhodnutí "
-    file: https://www.ochrance.cz/uploads-import/ESO/4292-15-JHO-vysledky_vyzkumu__849056_.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/4292-15-JHO-vysledky_vyzkumu__849056_.pdf
 ---

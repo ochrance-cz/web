@@ -5,5 +5,5 @@ vystupy:
   - researches
 attachmentsTop:
   - title: Good Practice in the Provision of Housing to Vulnerable People
-    file: https://www.ochrance.cz/uploads-import/ESO/OMB-5%20dobra-praxe_EN_online%2005-24-1.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/OMB-5%20dobra-praxe_EN_online%2005-24-1.pdf
 ---

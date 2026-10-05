@@ -25,9 +25,9 @@ perex: >-
 <blockquote>
 <p>Další informace najdete v našich&nbsp;letácích či na webových stránkách:</p>
 <p>
-<a href="https://www.ochrance.cz/letaky/detsky-ombudsman/detsky-ombudsman.pdf">Pravomoci dětského ombudsmana: co dělá a co ne</a></p>
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/detsky-ombudsman/detsky-ombudsman.pdf">Pravomoci dětského ombudsmana: co dělá a co ne</a></p>
 <p>
-<a href="https://www.ochrance.cz/letaky/detsky-ombudsman-zvlastni-opravneni/detsky-ombudsman-zvlastni-opravneni.pdf">Zvláštní oprávnění dětského ombudsmana</a></p>
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/detsky-ombudsman-zvlastni-opravneni/detsky-ombudsman-zvlastni-opravneni.pdf">Zvláštní oprávnění dětského ombudsmana</a></p>
 <p>
 <a href="https://deti.ochrance.cz/pomoc/">Jak mohou děti kontaktovat dětského ombudsmana?</a></p></blockquote>
 <p>

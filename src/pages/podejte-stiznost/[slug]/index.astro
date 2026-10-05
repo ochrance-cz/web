@@ -1,0 +1,17 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import ComplaintMain from '../index.astro';
+import { getPageEntries } from '../../../lib/page-content';
+
+// Detail page: reproduces layouts/podejte-stiznost/single.html (braille, czj).
+export async function getStaticPaths() {
+  const pages = await getPageEntries('podejte-stiznost');
+  return [
+    { params: { slug: 'main' }, props: { entry: null } },
+    ...pages.map((entry) => ({ params: { slug: entry.id }, props: { entry } })),
+  ];
+}
+
+const { entry } = Astro.props;
+---
+{entry ? <BaseLayout title={entry.data.title} lang="cs"><entry.Content /></BaseLayout> : <ComplaintMain />}

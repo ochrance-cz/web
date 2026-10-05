@@ -5,5 +5,5 @@ vystupy:
   - recommendations
 attachmentsTop:
   - title: Citizens of the European Union in the Czech Republic
-    file: https://www.ochrance.cz/dokument/obcane_evropske_unie_v_ceske_republice/recommendations-eu-citizens-in-cz.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/dokument/obcane_evropske_unie_v_ceske_republice/recommendations-eu-citizens-in-cz.pdf
 ---

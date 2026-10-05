@@ -33,4 +33,4 @@ perex: >
 
 <p>V neposlední řadě ombudsmanka v&nbsp;žalobě upozorňuje na&nbsp;systémovou podjatost úředníků magistrátu. <em>&bdquo;Proti vydanému územnímu rozhodnutí se kvůli jeho nezákonnosti mohlo odvolat město Olomouc, ale neučinilo tak. Důvodem může být mimo jiné existence smlouvy s&nbsp;developerem. Ten se dokonce dopisem přímo obrátil na&nbsp;primátora, tajemníka a&nbsp;další klíčové představitele města s&nbsp;důraznou připomínkou závazku města nečinit žádné kroky proti projektu. Uvedený postup developera nelze vnímat jinak, než jako nátlak na&nbsp;město, aby dodrželo své smluvní závazky a&nbsp;v&nbsp;územním řízení nepostupovalo nezávisle,&ldquo;</em> konstatuje ombudsmanka. Podle ní jde o&nbsp;ukázkový příklad rizika systémové podjatosti, obzvlášť v&nbsp;kontextu nezákonného správního rozhodování.</p>
 
-<p><a href="https://www.ochrance.cz/uploads-import/ESO/ZVZ_Santovka_SZD-5-2020_001_001_Copy.pdf">Celý text žaloby</a></p>
+<p><a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/ZVZ_Santovka_SZD-5-2020_001_001_Copy.pdf">Celý text žaloby</a></p>

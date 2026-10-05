@@ -21,7 +21,7 @@ attachments:
 <p>Marii Kmecové i ostatním oceněným srdečně gratulujeme!</p>
 <blockquote>
 <figure class="image image-style-align-left">
-<img src="https://www.ochrance.cz/aktualne/oceneni_flamma_pro_pravni_expertky_marie_kmecova_z_kancelare_ombudsmana_mezi_laureatkami/marie_kmecova.jpg" alt="Portrétní fotografie Marie Kmecové"></figure>
+<img src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/oceneni_flamma_pro_pravni_expertky_marie_kmecova_z_kancelare_ombudsmana_mezi_laureatkami/marie_kmecova.jpg" alt="Portrétní fotografie Marie Kmecové"></figure>
 <p>
 <strong>Marie Kmecová</strong>&nbsp;(42) vystudovala právo a v&nbsp;rámci doktorského studia také zdravotnickou etiku. Působí v&nbsp;oblasti ochrany práv lidí zbavených svobody, jako právnička Kanceláře veřejného ochránce práv a členka Evropského výboru pro zabránění mučení a nelidskému či ponižujícímu zacházení nebo trestání (CPT). V&nbsp;rámci monitorování podmínek a zacházení na místech zbavení svobody navštívila na sto zařízení v&nbsp;České republice a instituce v&nbsp;15 dalších evropských zemích. Podílí se na zavádění lidskoprávních standardů do české právní úpravy a praxe, příležitostně přednáší a publikuje. Ve volném čase se baví přípravou dětského tábora pro děti a ráda zajde do divadla nebo na koncert.</p></blockquote>
 <blockquote>

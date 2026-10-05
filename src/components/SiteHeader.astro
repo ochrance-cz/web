@@ -1,0 +1,16 @@
+---
+import HeaderCs from './site-copy/Header-cs.astro';
+import HeaderEn from './site-copy/Header-en.astro';
+// Site header: logo + collapsible navigation with two dropdowns.
+// Locale components keep navigation text in native editable source.
+
+export interface NavLink {
+  href: string;
+  label: string;
+  icon?: string;
+}
+
+interface Props { locale?: 'cs' | 'en'; translatedHref?: string }
+const { locale = 'cs', translatedHref } = Astro.props;
+---
+{locale === 'en' ? <HeaderEn translatedHref={translatedHref} /> : <HeaderCs translatedHref={translatedHref} />}

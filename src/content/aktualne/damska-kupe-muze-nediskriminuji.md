@@ -1,0 +1,28 @@
+---
+title: Dámská kupé muže nediskriminují
+date: 2018-03-16T00:00:00.000Z
+perex: Dámské oddíly ve vlacích nemohou výrazněji omezit přístup mužů
+  k využívání vlakové dopravy, takže se nejedná o diskriminaci. Představují
+  pouze šest vyhrazených míst v celém vlaku a využívají se jen v některých
+  spojích. Podle ombudsmanky navíc dámská kupé sledují legitimní cíl zvýšit
+  pocit bezpečí cestujících žen, tedy i zvýšit zájem žen o cestování vlakem.
+kategorie:
+  - tz
+---
+Ombudsmanka Anna Šabatová se zabývala několika stížnostmi na tzv. dámská kupé ve vlacích. Muži v nich poukazovali na problémy, s nimiž se při cestování vlakem setkali. Jeden například musel opustit dámské kupé na základě požadavku spolucestujících žen a měl pak problém najít v přeplněném vlaku volné místo. Další cestoval s manželkou a průvodčí se dotázal ostatních žen v dámském kupé, jestli jim přítomnost muže nevadí. Stěžovatelé se těmito situacemi cítili dotčeni a považovali je za diskriminační.
+
+Podobné stížnosti řešil i předchozí ombudsman Pavel Varvařovský v roce 2012 po zavedení dámských kupé. České dráhy odůvodňovaly zavedení dámských oddílů snahou zvýšit zájem žen o cestování vlakem. Ženy se podle nich cestování vlakem mnohdy vyhýbají kvůli pocitu nebezpečí. Ombudsman dospěl k závěru, že takový cíl je ve smyslu antidiskriminačního zákona legitimní.\[1\]
+
+Na základě nových podnětů se ombudsmanka Anna Šabatová rozhodla záležitost dámských kupé znovu prověřit a zjistit, jak se udávaný cíl daří naplňovat.
+
+České dráhy potvrdily, že cílem dámských kupé je i nadále zvyšovat pocit bezpečí a komfort žen při cestování. Napomáhá tomu mimo jiné i skutečnost, že dámské oddíly se nacházejí v sousedství oddílu vlakového doprovodu. Motivem pro zavedení služby byly dle sdělení ČD podněty cestujících z let 2011-2012, v nichž se zejména ženy ohrazovaly proti cestování s cizími muži (z důvodu narušení osobní zóny). ČD se inspirovaly také v zahraničí (Rakousko, Německo), kde byly podobné oddíly zřízeny již dříve. ČD považují službu za standardní nabídku, která si získala své zákazníky a svůj účel splnila.
+
+Po pečlivém zhodnocení celé situace ombudsmanka potvrdila závěry svého předchůdce. *„Zvyšovat pocit bezpečí a zájem žen o cestování vlakem je legitimním cílem, kterého lze dosáhnout zřizováním dámských kupé,“* konstatuje ombudsmanka Anna Šabatová a dodává: *„Důležitá je skutečnost, že dámská kupé nemohou výrazněji omezit, nebo dokonce vyloučit přístup mužů k vlakové dopravě, protože tato kupé nejsou zřizována ve všech vlacích. Tam, kde dámská kupé jsou, představují pouhých 6 míst v celém vlaku.“*  
+
+Podle zjištění ombudsmanky však České dráhy nedostatečně vyhodnocují, jak se zavedením dámských kupé daří dosahovat sledovaného cíle. Doporučila proto provést průzkum mezi cestujícími ženami a zjistit nárůst jejich pocitu bezpečí či četnosti využívání dopravy vlaky ČD. Doporučila také zvážit i jiná opatření, která by rovněž mohla vést k naplnění sledovaného cíle.
+
+České dráhy přislíbily, že dotazy na vnímání dámských oddílů, pocit bezpečí či četnost využívání zahrnou do pravidelného průzkumu spokojenosti realizovaného v roce 2018. Informovaly také ombudsmanku o dalších opatřeních k zajištění bezpečí cestujících, kterým je přítomnost pracovníků bezpečnostní agentury v některých vlacích. Při rozšiřování vozové základny také České dráhy upřednostňují vozy s velkoprostorovým uspořádáním, které jsou obecně vnímané jako bezpečnější než uzavřená kupé. Dámská kupé, která se vyskytují zejména ve vlacích s oddílovým uspořádáním (uzavřená kupé), tak postupně mohou ztratit na významu.
+
+* * *
+
+*\[1\] blíže například zpráva veřejného ochránce práv ze dne 21. března 2012, sp. zn. 38/2012/DIS, dostupné z [http://eso.ochrance.cz/Nalezene/Edit/1832](http://eso.ochrance.cz/Nalezene/Edit/1832 "Otevření do nového okna")*

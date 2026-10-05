@@ -72,7 +72,7 @@ Informace o podnětech veřejnému ochránci práv – 542 542 888.
 **Adresa internetové stránky:**\
 Kancelář veřejného ochránce práv nemá vlastní internetovou stránku. Informace o Kanceláři veřejného ochránce práv jsou uvedeny v samostatné sekci na internetové stránce veřejného ochránce práv [www.ochrance.cz](http://www.ochrance.cz/).
 
-**Adresa e-podatelny:** podatelna![](/uploads-import/uploads/RTEmagicC_dd44351e3b.png.png)ochrance.cz
+**Adresa e-podatelny:** podatelna![](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/uploads/RTEmagicC_dd44351e3b.png.png)ochrance.cz
 
 **ID datové schránky:** jz5adky
 
@@ -297,7 +297,7 @@ zákon č. 563/1991 Sb., o účetnictví, ve znění pozdějších předpis�
 
 Kancelář veřejného ochránce práv nevydává žádné vlastní právní předpisy.
 
-# [Přehled účelů zpracování osobních údajů ](https://www.ochrance.cz/uploads-import/Kancelar/Info_dle_101.pdf)
+# [Přehled účelů zpracování osobních údajů ](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/Kancelar/Info_dle_101.pdf)
 
 ## Úhrady za poskytování informací
 

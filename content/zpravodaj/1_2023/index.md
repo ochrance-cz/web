@@ -4,7 +4,7 @@ month: 1
 year: 2023
 perex: ""
 author: ""
-file: https://www.ochrance.cz/zpravodaj/1_2023/zpravodaj-ombudsmana-1-2023.pdf
+file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/zpravodaj/1_2023/zpravodaj-ombudsmana-1-2023.pdf
 sections:
   - articles:
       - body: >

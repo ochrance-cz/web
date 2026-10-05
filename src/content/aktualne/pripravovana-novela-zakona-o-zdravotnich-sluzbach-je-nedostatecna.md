@@ -1,0 +1,28 @@
+---
+title: Připravovaná novela zákona o zdravotních službách je nedostatečná
+date: 2020-09-22T00:00:00.000Z
+perex: Ministerstvu zdravotnictví jsme odeslali rozsáhlé připomínky
+  k připravované novele zákona o zdravotních službách a podmínkách jejich
+  poskytování. Některé z připomínek inicioval také nově zvolený poradní orgán
+  ombudsmana, který pomáhá s monitorováním naplňování Úmluvy o právech osob se
+  zdravotním postižením. Připravovaná novela má bohužel nejen v této oblasti
+  řadu nedostatků, o jejichž nápravu usilujeme. Některé body novely na druhou
+  stranu oceňujeme, např. návrh, podle kterého budou mít poskytovatelé
+  sociálních služeb poskytující také zdravotní služby povinnost mít oprávnění
+  k poskytování zdravotních služeb podle zákona o zdravotních službách.
+kategorie:
+  - tz
+---
+„Novela například ruší většinu ustanovení občanského zákoníku, která se týkají práva na duševní a tělesnou integritu a zásahů do ní. Důvodová zpráva uvádí, že rušená ustanovení jsou duplicitní, protože jsou řešena v zákonu o zdravotních službách. Jenomže k zásahům do tělesné a duševní integrity dochází i mimo rámec poskytování zdravotních služeb. Pokud by tedy toto ustanovení bylo odstraněno z občanského zákoníku, už by tyto zásahy kromě oblasti zdravotních služeb nebyly nijak právně ošetřeny,“ vysvětluje jeden z problémů novely zástupkyně ombudsmana Monika Šimůnková a dodává: „mimo zákonnou ochranu by se tak člověk dostal například v situaci, kdy by využíval psychologické poradenství, služby léčitelů nebo kosmetické úpravy, jako je tetování nebo piercing. Navrhujeme proto zachovat obecná ustanovení občanského zákoníku a duplicitní úpravy naopak vyřadit ze zákona o zdravotních službách.“
+
+##### Některé z problémů, na které jsme upozornili:
+
+ 
+
+-   Dlouhodobě žádáme zakotvení přestupku ponižujícího zacházení, který bohužel v současné novele opět chybí. Ponižující zacházení je nejčastější přestupek, na který při svých kontrolách zařízení (např. LDN, domovy pro seniory) narážíme a pro který stále chybí opora v zákoně. Proto jsme v připomínkách navrhli zakotvení tohoto přestupku, který by zabránil nepostižitelnosti zásahů do důstojnosti a integrity ze strany poskytovatele zdravotních služeb.
+-   Dlouhodobě požadujeme zakotvení přestupků neoprávněného použití omezovacího prostředku. Za přestupek by mělo být považováno, když je omezovací prostředek použit z jiných důvodů, než je odvrácení bezprostředního ohrožení života, zdraví nebo bezpečnosti pacienta nebo jiných osob, nebo pokud použití trvalo v době, kdy již důvody pro použití pominuly.
+-   Navrhujeme také sjednotit v praxi mnohdy rozdílný přístup orgánů při vyřizování stížností podle zákona o zdravotních službách. Například při vyřizování stížnosti na poskytování zdravotních služeb s následkem smrti některé správní orgány vždy ustavují nezávislou odbornou komisi, jiné však nikoliv.
+-   Za nepřípustnou považujeme navrhovanou možnost ukončení péče o pacienta vázanou na nejasně vymezený pojem jednání v rozporu s dobrými mravy. Navrhujeme pro možnost ukončení péče volit jiné, jasně formulované podmínky.
+-   Považujeme za nutné umožnit celodenní pobyt zákonného zástupce nebo opatrovníka ve zdravotnickém zařízení i za trvání protiepidemických opatření. V případě, že v takové situaci budou zakázány návštěvy, je nanejvýš vhodné přijmout doprovázející osobu.
+
+Připomínky byly připravovány ve spolupráci s nově zvoleným poradním orgánem ombudsmana, který pomáhá s monitorováním naplňování Úmluvy o právech osob se zdravotním postižením. Složení poradního orgánu: [https://www.ochrance.cz/monitorovani-prav-lidi-se-zdravotnim-postizenim/poradni-organ/clenove/](/monitorovani-prav-lidi-se-zdravotnim-postizenim/poradni-organ/clenove/)

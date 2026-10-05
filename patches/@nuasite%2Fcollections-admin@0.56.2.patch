@@ -1,0 +1,615 @@
+diff --git a/node_modules/@nuasite/collections-admin/.bun-tag-59249364fd9b75ce b/.bun-tag-59249364fd9b75ce
+new file mode 100644
+index 0000000000000000000000000000000000000000..e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+diff --git a/node_modules/@nuasite/collections-admin/.bun-tag-6cc242f2a0cd4ed1 b/.bun-tag-6cc242f2a0cd4ed1
+new file mode 100644
+index 0000000000000000000000000000000000000000..e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+diff --git a/node_modules/@nuasite/collections-admin/.bun-tag-6cf4a1a902f19abb b/.bun-tag-6cf4a1a902f19abb
+new file mode 100644
+index 0000000000000000000000000000000000000000..e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+diff --git a/node_modules/@nuasite/collections-admin/.bun-tag-828c8f90c24b5f1f b/.bun-tag-828c8f90c24b5f1f
+new file mode 100644
+index 0000000000000000000000000000000000000000..e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+diff --git a/node_modules/@nuasite/collections-admin/.bun-tag-83b91c883579955b b/.bun-tag-83b91c883579955b
+new file mode 100644
+index 0000000000000000000000000000000000000000..e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+diff --git a/node_modules/@nuasite/collections-admin/.bun-tag-890b38040d72af12 b/.bun-tag-890b38040d72af12
+new file mode 100644
+index 0000000000000000000000000000000000000000..e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+diff --git a/src/app.tsx b/src/app.tsx
+index 0e36091e3de0d0acfe9c151c3d8ea91e5702db9c..ca8d491c8b0d2dace9405fb664e27c11e2cb6da3 100644
+--- a/src/app.tsx
++++ b/src/app.tsx
+@@ -19,6 +19,7 @@
+ import { type CmsClient, CmsClientError, createClient } from '@nuasite/cms-client'
+ import type { CollectionDefinition, CollectionEntryInfo } from '@nuasite/cms-types'
+ import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
++import { compareCzechCollections } from './collection-order'
+ import { EntryCreate } from './entry-create'
+ import { EntryEditor } from './entry-editor'
+ import './styles.css'
+@@ -143,23 +144,21 @@ function Sidebar({ collections, loading, error, activeCollection, onSelect, onRe
+ 	onReload: () => void
+ 	onClose?: () => void
+ }) {
+-	// Group glob-nested collections (e.g. `jsem-otazky` under `jsem`) below their
+-	// parent, indented, so the menu mirrors the content structure.
+-	const childrenByParent = new Map<string, CollectionDefinition[]>()
+-	for (const c of collections) {
+-		if (!c.parentCollection) continue
+-		const arr = childrenByParent.get(c.parentCollection) ?? []
+-		arr.push(c)
+-		childrenByParent.set(c.parentCollection, arr)
+-	}
+-	const topLevel = collections.filter((c) => !c.parentCollection)
++	const [czOpen, setCzOpen] = useState(true)
++	const [enOpen, setEnOpen] = useState(false)
++	useEffect(() => {
++		if (activeCollection?.endsWith('-en')) setEnOpen(true)
++	}, [activeCollection])
++	const byLabel = (locale: string) => (a: CollectionDefinition, b: CollectionDefinition) => a.label.localeCompare(b.label, locale)
++	const cz = collections.filter(c => !c.name.endsWith('-en')).sort(compareCzechCollections)
++	const en = collections.filter(c => c.name.endsWith('-en')).sort(byLabel('en'))
+ 
+-	const item = (c: CollectionDefinition, depth: number) => (
++	const item = (c: CollectionDefinition) => (
+ 		<button
+ 			key={c.name}
+ 			type="button"
+ 			className={`nua-cadmin-nav-item${c.name === activeCollection ? ' is-active' : ''}`}
+-			style={depth > 0 ? { paddingLeft: 12 + depth * 14 } : undefined}
++			style={{ paddingLeft: 26 }}
+ 			onClick={() => onSelect(c.name)}
+ 			title={c.name}
+ 		>
+@@ -180,9 +179,14 @@ function Sidebar({ collections, loading, error, activeCollection, onSelect, onRe
+ 					? <button type="button" className="nua-cadmin-nav-state nua-cadmin-nav-error" onClick={onReload}>Failed to load — retry</button>
+ 					: null}
+ 				{!loading && !error && collections.length === 0 ? <div className="nua-cadmin-nav-state">No content types</div> : null}
+-				{!loading && !error
+-					? topLevel.flatMap((c) => [item(c, 0), ...(childrenByParent.get(c.name) ?? []).map((child) => item(child, 1))])
+-					: null}
++			{!loading && !error
++				? <>
++					<button type="button" className="nua-cadmin-nav-group" aria-expanded={czOpen} onClick={() => setCzOpen(v => !v)}>{czOpen ? '▾' : '▸'} CZ kolekce</button>
++					{czOpen ? cz.map(item) : null}
++					<button type="button" className="nua-cadmin-nav-group" aria-expanded={enOpen} onClick={() => setEnOpen(v => !v)}>{enOpen ? '▾' : '▸'} EN kolekce</button>
++					{enOpen ? en.map(item) : null}
++				</>
++				: null}
+ 			</nav>
+ 		</aside>
+ 	)
+@@ -193,11 +197,12 @@ function Sidebar({ collections, loading, error, activeCollection, onSelect, onRe
+ // ============================================================================
+ 
+ const ENTRIES_PAGE_SIZE = 50
+-const ENTRIES_FIELDS = 'slug,title,draft,pathname'
++const ENTRIES_FIELDS = 'slug,title,draft,pathname,previewPathname'
+ 
+-function EntriesTable({ client, collection, onOpen, onCreate }: {
++function EntriesTable({ client, collection, dateField, onOpen, onCreate }: {
+ 	client: CmsClient
+ 	collection: string
++	dateField?: string
+ 	onOpen: (slug: string) => void
+ 	onCreate: () => void
+ }) {
+@@ -207,9 +212,16 @@ function EntriesTable({ client, collection, onOpen, onCreate }: {
+ 	const [error, setError] = useState<CmsClientError | Error | null>(null)
+ 	const [loading, setLoading] = useState(true)
+ 	const [loadingMore, setLoadingMore] = useState(false)
++	const [sortMode, setSortMode] = useState<'title' | 'date'>(dateField ? 'date' : 'title')
++	const [sort, setSort] = useState<'asc' | 'desc'>(dateField ? 'desc' : 'asc')
++	const english = collection.endsWith('-en')
++	// An older page/sort request must never replace the currently selected result.
++	const requestVersion = useRef(0)
++	useEffect(() => () => { requestVersion.current++ }, [])
+ 
+ 	const loadPage = useCallback(
+ 		async (nextCursor: string | undefined, append: boolean) => {
++			const version = ++requestVersion.current
+ 			if (append) setLoadingMore(true)
+ 			else setLoading(true)
+ 			setError(null)
+@@ -219,18 +231,24 @@ function EntriesTable({ client, collection, onOpen, onCreate }: {
+ 					draft: 'all',
+ 					limit: ENTRIES_PAGE_SIZE,
+ 					cursor: nextCursor,
++					sort,
++					sortField: sortMode === 'date' && dateField ? dateField : 'title',
+ 				})
++				if (version !== requestVersion.current) return
+ 				setRows((prev) => (append ? [...prev, ...result.entries] : result.entries))
+ 				setCursor(result.cursor)
+ 				setHasMore(result.hasMore)
+ 			} catch (e: unknown) {
++				if (version !== requestVersion.current) return
+ 				setError(e instanceof Error ? e : new Error(String(e)))
+ 			} finally {
+-				setLoading(false)
+-				setLoadingMore(false)
++				if (version === requestVersion.current) {
++					setLoading(false)
++					setLoadingMore(false)
++				}
+ 			}
+ 		},
+-		[client, collection],
++		[client, collection, dateField, sortMode, sort],
+ 	)
+ 
+ 	useEffect(() => {
+@@ -240,12 +258,22 @@ function EntriesTable({ client, collection, onOpen, onCreate }: {
+ 		void loadPage(undefined, false)
+ 	}, [loadPage])
+ 
+-	if (loading) return <Spinner label="Loading entries…" />
++	if (loading) return <Spinner label={english ? "Loading entries…" : "Načítání záznamů…"} />
+ 	if (error) return <ErrorState error={error} onRetry={() => void loadPage(undefined, false)} />
+ 
+ 	const toolbar = (
+ 		<div className="nua-cadmin-entries-toolbar">
+-			<button type="button" className="nua-cadmin-btn nua-cadmin-btn-primary" onClick={onCreate}>+ New entry</button>
++			<button type="button" className="nua-cadmin-btn nua-cadmin-btn-primary" onClick={onCreate}>{english ? '+ New entry' : '+ Nový záznam'}</button>
++			<select className="nua-cadmin-btn" aria-label={english ? 'Sort entries by' : 'Řadit záznamy podle'} value={sortMode}
++				onChange={event => { const next = event.target.value as 'title' | 'date'; setSortMode(next); setSort(next === 'date' ? 'desc' : 'asc') }}>
++				<option value="title">{english ? 'Alphabetically' : 'Podle abecedy'}</option>
++				{dateField ? <option value="date">{english ? 'Publication date' : 'Podle data zveřejnění'}</option> : null}
++			</select>
++			<button type="button" className="nua-cadmin-btn" onClick={() => setSort(value => value === 'desc' ? 'asc' : 'desc')}>
++				{sortMode === 'date'
++					? (sort === 'desc' ? (english ? 'Newest first' : 'Nejnovější napřed') : (english ? 'Oldest first' : 'Nejstarší napřed'))
++					: (sort === 'asc' ? (english ? 'A → Z' : 'A → Z') : (english ? 'Z → A' : 'Z → A'))}
++			</button>
+ 		</div>
+ 	)
+ 
+@@ -253,7 +281,7 @@ function EntriesTable({ client, collection, onOpen, onCreate }: {
+ 		return (
+ 			<div>
+ 				{toolbar}
+-				<EmptyState label="This collection has no entries." />
++				<EmptyState label={english ? "This collection has no entries." : "Tato kolekce nemá žádné záznamy."} />
+ 			</div>
+ 		)
+ 	}
+@@ -264,10 +292,10 @@ function EntriesTable({ client, collection, onOpen, onCreate }: {
+ 			<table className="nua-cadmin-table">
+ 				<thead>
+ 					<tr>
+-						<th>Slug</th>
+-						<th>Title</th>
+-						<th>Draft</th>
+-						<th>Pathname</th>
++						<th>{english ? 'URL identifier' : 'URL identifikátor'}</th>
++						<th>{english ? 'Title' : 'Název'}</th>
++						<th>{english ? 'Draft' : 'Koncept'}</th>
++						<th>{english ? 'Preview' : 'Náhled'}</th>
+ 					</tr>
+ 				</thead>
+ 				<tbody>
+@@ -275,8 +303,10 @@ function EntriesTable({ client, collection, onOpen, onCreate }: {
+ 						<tr key={entry.slug} className="nua-cadmin-row" onClick={() => onOpen(entry.slug)}>
+ 							<td className="nua-cadmin-cell-mono">{entry.slug}</td>
+ 							<td>{entry.title ?? <span className="nua-cadmin-field-empty">—</span>}</td>
+-							<td>{entry.draft ? <span className="nua-cadmin-badge nua-cadmin-badge-draft">draft</span> : ''}</td>
+-							<td className="nua-cadmin-cell-mono">{entry.pathname ?? '—'}</td>
++							<td>{entry.draft ? <span className="nua-cadmin-badge nua-cadmin-badge-draft">{english ? 'Draft' : 'Koncept'}</span> : ''}</td>
++							<td className="nua-cadmin-cell-mono">{entry.pathname || entry.previewPathname
++                                ? <a href={entry.pathname ?? entry.previewPathname} target="_blank" rel="noopener noreferrer" onClick={event => event.stopPropagation()}>{english ? 'Open preview' : 'Otevřít náhled'}</a>
++                                : '—'}</td>
+ 						</tr>
+ 					))}
+ 				</tbody>
+@@ -284,7 +314,7 @@ function EntriesTable({ client, collection, onOpen, onCreate }: {
+ 			{hasMore
+ 				? (
+ 					<button type="button" className="nua-cadmin-load-more" disabled={loadingMore} onClick={() => void loadPage(cursor, true)}>
+-						{loadingMore ? 'Loading…' : 'Load more'}
++						{loadingMore ? (english ? 'Loading…' : 'Načítání…') : (english ? 'Load more' : 'Načíst další')}
+ 					</button>
+ 				)
+ 				: null}
+@@ -375,8 +405,10 @@ export function CollectionsAdminApp({ apiBase, onClose }: CollectionsAdminAppPro
+ 					{state.view === 'entries'
+ 						? (
+ 							<EntriesTable
++								key={state.collection}
+ 								client={client}
+ 								collection={state.collection}
++								dateField={activeCollection?.fields.find(field => field.name === 'date' && (field.type === 'date' || field.type === 'datetime'))?.name}
+ 								onOpen={(slug) => goDetail(state.collection, slug)}
+ 								onCreate={() => goCreate(state.collection)}
+ 							/>
+diff --git a/node_modules/@nuasite/collections-admin/src/collection-order.ts b/src/collection-order.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..5b5e02fba83557f23bcaba27cf7b2da1a3108c04
+--- /dev/null
++++ b/src/collection-order.ts
+@@ -0,0 +1,9 @@
++import type { CollectionDefinition } from '@nuasite/cms-types'
++
++// The editor's frequently used Czech collections come first; English stays
++// in its separate section. Collection IDs are stable when labels change.
++const frequent = ['aktualne', 'letaky', 'dokument', 'provoz-kontakty', 'zpravodaj', 'info106', 'alert']
++export function compareCzechCollections(a: CollectionDefinition, b: CollectionDefinition): number {
++	const rank = (name: string) => { const index = frequent.indexOf(name); return index < 0 ? frequent.length : index }
++	return rank(a.name) - rank(b.name) || a.label.localeCompare(b.label, 'cs') || a.name.localeCompare(b.name, 'cs')
++}
+diff --git a/src/entry-create.tsx b/src/entry-create.tsx
+index 517b4cedded32c7c8c34bf72cb6f92ae910be569..155b962c0a228cd2288423ddc3fcf2e7a7e94b83 100644
+--- a/src/entry-create.tsx
++++ b/src/entry-create.tsx
+@@ -138,15 +138,15 @@ export function EntryCreate({ client, definition, collection, onCreated, onCance
+ 				? (
+ 					<div className="nua-cadmin-field">
+ 						<div className="nua-cadmin-field-label">
+-							<span>Body</span>
++							<span>{collection.endsWith('-en') ? 'Main text' : 'Hlavní text'}</span>
+ 							<span className="nua-cadmin-field-type">markdown</span>
+ 						</div>
+-						<textarea
+-							className="nua-cadmin-body-editor"
+-							value={draft.body}
+-							rows={10}
+-							onChange={e => setDraft(prev => ({ ...prev, body: e.target.value }))}
+-						/>
++                        <FieldEditor
++                            field={{ name: 'body', type: 'markdown', required: false }}
++                            value={draft.body}
++                            onChange={body => setDraft(prev => ({ ...prev, body: String(body ?? '') }))}
++                            ctx={ctx}
++                        />
+ 					</div>
+ 				)
+ 				: null}
+diff --git a/src/entry-editor.tsx b/src/entry-editor.tsx
+index ea69b2b7527b3293e58a3c72d0c67c43151197dc..b855f60693f85d2bb7b0e8d95fe3f53f1df8bf77 100644
+--- a/src/entry-editor.tsx
++++ b/src/entry-editor.tsx
+@@ -40,6 +40,27 @@ import { type EditorContext, FieldEditor } from './field-editor'
+ 
+ const SAVE_DEBOUNCE_MS = 700
+ 
++function previewTarget(pathname: string): { url: string; frame?: HTMLIFrameElement } {
++	const documents = [document]
++	try {
++		if (window.parent !== window) documents.push(window.parent.document)
++	} catch { /* The host may be on another origin. */ }
++	for (const doc of documents) {
++		const frames = [...doc.querySelectorAll<HTMLIFrameElement>('iframe')]
++		const frame = frames.find(item => {
++			try { return new URL(item.src).hostname.startsWith('dev-') && new URL(item.src).hostname.endsWith('.nuasite.com') }
++			catch { return false }
++		})
++		if (frame) return { url: new URL(pathname, frame.src).href, frame }
++		const address = [...doc.querySelectorAll<HTMLInputElement>('input')].find(item => {
++			try { const host = new URL(item.value).hostname; return host.startsWith('dev-') && host.endsWith('.nuasite.com') }
++			catch { return false }
++		})
++		if (address) return { url: new URL(pathname, address.value).href }
++	}
++	return { url: new URL(pathname, window.location.href).href }
++}
++
+ type SaveStatus =
+ 	| { kind: 'idle' }
+ 	| { kind: 'saving' }
+@@ -245,6 +266,15 @@ export function EntryEditor({ client, definition, collection, slug, onDeleted, o
+ 		}
+ 	}, [client, collection, slug, fields, saver])
+ 
++	const previewPathname = collection === 'zpravodaj-articles' && slug
++		? `/zpravodaj/clanky/${encodeURIComponent(slug)}/`
++		: null
++	useEffect(() => {
++		if (!previewPathname || collection !== 'zpravodaj-articles') return
++		const { url, frame } = previewTarget(previewPathname)
++		if (frame && frame.src !== url) frame.src = url
++	}, [collection, previewPathname])
++
+ 	// Load component definitions for the MDX editor (once per client; mdx only).
+ 	useEffect(() => {
+ 		if (!isMdx) return
+@@ -403,6 +433,7 @@ export function EntryEditor({ client, definition, collection, slug, onDeleted, o
+ 			<div className="nua-cadmin-editor-toolbar">
+ 				<StatusBadge status={status} />
+ 				<span className="nua-cadmin-spacer" />
++				{previewPathname ? <a className="nua-cadmin-btn" href={previewTarget(previewPathname).url} target="_blank" rel="noopener noreferrer">{collection.endsWith('-en') ? 'Open preview' : 'Otevřít náhled'}</a> : null}
+ 				<button type="button" className="nua-cadmin-btn nua-cadmin-btn-ghost" onClick={() => void onRename()}>Rename</button>
+ 				<button type="button" className="nua-cadmin-btn nua-cadmin-btn-danger" onClick={() => void onDelete()}>Delete</button>
+ 			</div>
+@@ -422,11 +453,10 @@ export function EntryEditor({ client, definition, collection, slug, onDeleted, o
+ 						? (
+ 							<div className="nua-cadmin-field">
+ 								<div className="nua-cadmin-field-label">
+-									<span>Body</span>
++									<span>{collection.endsWith('-en') ? 'Main text' : 'Hlavní text'}</span>
+ 									<span className="nua-cadmin-field-type">{isMdx ? 'mdx' : 'markdown'}</span>
+ 								</div>
+-								{isMdx
+-									? (
++								{(
+ 										<MdxBodyEditor
+ 											value={draft.body}
+ 											onChange={onBody}
+@@ -436,7 +466,7 @@ export function EntryEditor({ client, definition, collection, slug, onDeleted, o
+ 											mediaContext={mediaContext}
+ 										/>
+ 									)
+-									: <textarea className="nua-cadmin-body-editor" value={draft.body} rows={16} onChange={e => onBody(e.target.value)} />}
++									}
+ 							</div>
+ 						)
+ 						: null}
+diff --git a/src/field-editor.tsx b/src/field-editor.tsx
+index 942d72328a05c98e86440f2d9654e0cac3c9e306..3529e2a66ba4d22c5538a16277622aad300fdfd8 100644
+--- a/src/field-editor.tsx
++++ b/src/field-editor.tsx
+@@ -12,6 +12,7 @@ import {
+ 	blankValue,
+ 	type CmsClient,
+ 	coerceInput,
++	fieldLabel,
+ 	loadAllEntries,
+ 	valueToArray,
+ 	valueToBoolean,
+@@ -185,7 +186,11 @@ function DateWidget({ field, value, onChange }: { field: FieldDefinition; value:
+ 			type={DATE_INPUT_TYPE[field.type] ?? 'date'}
+ 			className="nua-cadmin-input"
+ 			value={valueToDateInput(value, field.type)}
+-			onChange={e => onChange(coerceInput(field.type, e.target.value))}
++			onChange={e => onChange(
++				!field.required && (field.type === 'date' || field.type === 'datetime') && e.target.value === ''
++					? null // Explicit clear: undefined disappears from the PATCH and keeps the old date.
++					: coerceInput(field.type, e.target.value),
++			)}
+ 		/>
+ 	)
+ }
+@@ -267,6 +272,7 @@ const EMPTY_SNAPSHOT: ReferenceSnapshot = { options: [], loading: true, paging:
+ interface ReferenceStore {
+ 	getSnapshot: () => ReferenceSnapshot
+ 	subscribe: (onChange: () => void) => () => void
++	refresh: () => void
+ }
+ 
+ function toOption(entry: { slug: string; title?: string }): ReferenceOption {
+@@ -320,6 +326,7 @@ function createReferenceStore(client: CmsClient, collection: string): ReferenceS
+ 
+ 	return {
+ 		getSnapshot: () => snapshot,
++		refresh: () => { void load() },
+ 		subscribe(onChange) {
+ 			const first = subscribers.size === 0
+ 			subscribers.add(onChange)
+@@ -581,6 +588,12 @@ function ReferenceWidget({ field, value, onChange, ctx }: FieldEditorProps) {
+ 	const target = field.collection
+ 	const snapshot = useReferenceOptions(ctx.client, target)
+ 	const current = valueToInput(value)
++	useEffect(() => {
++		if (target !== 'vystupy' && target !== 'vystupy-en') return
++		const refresh = () => referenceStoreFor(ctx.client, target).refresh()
++		window.addEventListener('focus', refresh)
++		return () => window.removeEventListener('focus', refresh)
++	}, [ctx.client, target])
+ 
+ 	// No target collection, or the lookup failed outright → fall back to a free-text
+ 	// slug input rather than blocking the editor.
+@@ -599,14 +612,19 @@ function ReferenceWidget({ field, value, onChange, ctx }: FieldEditorProps) {
+ 	if (snapshot.loading) {
+ 		return <div className="nua-cadmin-field-loading">Loading {target}…</div>
+ 	}
+-	return (
++	return <>
+ 		<ReferenceCombobox
+ 			target={target}
+ 			snapshot={snapshot}
+ 			value={current}
+ 			onChange={slug => onChange(coerceInput('reference', slug))}
+ 		/>
+-	)
++		{target === 'vystupy' || target === 'vystupy-en'
++			? <a className="nua-cadmin-reference-create" href={`${window.location.pathname}#/c/${target}/new`} target="_blank" rel="noopener noreferrer">
++				{target === 'vystupy' ? '+ Přidat kategorii' : '+ Add category'}
++			</a>
++			: null}
++	</>
+ }
+ // ============================================================================
+ // Array repeater — recurses the item widget.
+@@ -614,6 +632,13 @@ function ReferenceWidget({ field, value, onChange, ctx }: FieldEditorProps) {
+ 
+ function ArrayWidget({ field, value, onChange, ctx }: FieldEditorProps) {
+ 	const items = valueToArray(value)
++	const contactCollection = ctx.collection === 'provoz-kontakty' || ctx.collection === 'provoz-kontakty-en'
++	const contactGroups = contactCollection && field.name === 'lawyers'
++	const contactPeople = contactCollection && field.name === 'people'
++	const collapsible = contactGroups || contactPeople
++	const english = ctx.collection.endsWith('-en')
++	const [expanded, setExpanded] = useState<Set<number>>(() => new Set())
++	const dragSource = useRef<number | null>(null)
+ 	const itemType: FieldType = field.itemType ?? 'text'
+ 	const itemField: FieldDefinition = {
+ 		name: field.name,
+@@ -635,9 +660,18 @@ function ArrayWidget({ field, value, onChange, ctx }: FieldEditorProps) {
+ 	const removeItem = useCallback(
+ 		(index: number) => {
+ 			onChange(items.filter((_, i) => i !== index))
++			setExpanded(new Set())
+ 		},
+ 		[items, onChange],
+ 	)
++	const movePerson = useCallback((from: number, to: number) => {
++		if (!contactPeople || from === to || from < 0 || to < 0 || from >= items.length || to >= items.length) return
++		const next = items.slice()
++		const [person] = next.splice(from, 1)
++		next.splice(to, 0, person)
++		onChange(next.map((item, index) => ({ ...valueToObject(item), order: index + 1 })))
++		setExpanded(new Set())
++	}, [contactPeople, items, onChange])
+ 	// An object item is built from the schema (`newRepeaterItem` in cms-types, shared with every
+ 	// other editor and with `nua check`): required keys seeded, optional ones left out. Appending
+ 	// a bare `{}` writes frontmatter the next build refuses. A scalar item starts blank and stays
+@@ -646,24 +680,51 @@ function ArrayWidget({ field, value, onChange, ctx }: FieldEditorProps) {
+ 	const addItem = useCallback(() => {
+ 		const seeded = itemType === 'object' && field.fields ? newRepeaterItem(field.fields) : blankValue(itemType)
+ 		onChange([...items, seeded])
+-	}, [items, itemType, field.fields, onChange])
++		if (collapsible) setExpanded(previous => new Set(previous).add(items.length))
++	}, [items, itemType, field.fields, onChange, collapsible])
++	const itemTitle = (item: unknown, index: number) => {
++		const data = valueToObject(item)
++		if (contactGroups) return valueToInput(data.title) || (english ? `Contact group ${index + 1}` : `Kategorie kontaktů ${index + 1}`)
++		return valueToInput(data.name) || (english ? `Person ${index + 1}` : `Osoba ${index + 1}`)
++	}
++	const addLabel = contactGroups
++		? (english ? '+ Add contact group' : '+ Přidat kategorii kontaktů')
++		: contactPeople
++			? (english ? '+ Add person to this group' : '+ Přidat člověka do této kategorie')
++			: '+ Add item'
+ 
+ 	return (
+ 		<div className="nua-cadmin-array">
+ 			{items.length === 0 ? <div className="nua-cadmin-field-empty">No items.</div> : null}
+ 			{items.map((item, index) => (
+ 				// Array items have no stable id; positional index keys are correct here.
+-				<div key={index} className="nua-cadmin-array-item">
+-					<div className="nua-cadmin-array-item-body">
++				<div key={index} className={`nua-cadmin-array-item${collapsible ? ' is-collapsible' : ''}`}
++					onDragOver={contactPeople ? event => event.preventDefault() : undefined}
++					onDrop={contactPeople ? event => { event.preventDefault(); movePerson(dragSource.current ?? -1, index); dragSource.current = null } : undefined}
++				>
++					{collapsible ? <div className="nua-cadmin-array-item-header">
++						{contactPeople ? <span className="nua-cadmin-drag-handle" draggable title={english ? 'Drag to reorder' : 'Přetažením změnit pořadí'}
++							onDragStart={event => { dragSource.current = index; event.dataTransfer.effectAllowed = 'move' }}
++							onDragEnd={() => { dragSource.current = null }}>☰</span> : null}
++						<button type="button" className="nua-cadmin-array-toggle" aria-expanded={expanded.has(index)}
++							onClick={() => setExpanded(previous => { const next = new Set(previous); next.has(index) ? next.delete(index) : next.add(index); return next })}>
++							{expanded.has(index) ? '▾' : '▸'} {itemTitle(item, index)}
++						</button>
++						{contactPeople ? <>
++							<button type="button" className="nua-cadmin-order-btn" disabled={index === 0} aria-label={english ? 'Move person up' : 'Posunout osobu nahoru'} onClick={() => movePerson(index, index - 1)}>↑</button>
++							<button type="button" className="nua-cadmin-order-btn" disabled={index === items.length - 1} aria-label={english ? 'Move person down' : 'Posunout osobu dolů'} onClick={() => movePerson(index, index + 1)}>↓</button>
++						</> : null}
++					</div> : null}
++					<div className="nua-cadmin-array-item-body" hidden={collapsible && !expanded.has(index)}>
+ 						<FieldEditor field={itemField} value={item} onChange={next => setItem(index, next)} ctx={ctx} />
+ 					</div>
+-					<button type="button" className="nua-cadmin-icon-btn" aria-label="Remove item" onClick={() => removeItem(index)}>
++					<button type="button" className="nua-cadmin-icon-btn" aria-label={english ? 'Remove item' : 'Odebrat položku'} onClick={() => removeItem(index)}>
+ 						×
+ 					</button>
+ 				</div>
+ 			))}
+ 			<button type="button" className="nua-cadmin-add-btn" onClick={addItem}>
+-				+ Add item
++				{addLabel}
+ 			</button>
+ 		</div>
+ 	)
+@@ -690,10 +751,11 @@ function ObjectWidget({ field, value, onChange, ctx }: FieldEditorProps) {
+ 			{subFields.map(sub => (
+ 				<div key={sub.name} className="nua-cadmin-object-field">
+ 					<div className="nua-cadmin-field-label">
+-						<span>{sub.name}</span>
++						<span>{fieldLabel(sub)}</span>
+ 						<span className="nua-cadmin-field-type">{sub.type}</span>
+ 					</div>
+ 					<FieldEditor field={sub} value={obj[sub.name]} onChange={next => setKey(sub.name, next)} ctx={ctx} />
++					{sub.help ? <div className="nua-cadmin-field-help">{sub.help}</div> : null}
+ 				</div>
+ 			))}
+ 		</div>
+diff --git a/src/styles.css b/src/styles.css
+index de1d12fb88db13e5ad1b8ea8ff1029be16363945..82b92f804a3c9138e14be66214cca902311a07e5 100644
+--- a/src/styles.css
++++ b/src/styles.css
+@@ -88,6 +88,24 @@
+ 	cursor: pointer;
+ }
+ 
++.nua-cadmin-nav-group {
++	width: 100%;
++	padding: 10px;
++	border: 0;
++	background: transparent;
++	text-align: left;
++	font: inherit;
++	font-weight: 700;
++	cursor: pointer;
++}
++
++.nua-cadmin-reference-create {
++	display: inline-block;
++	margin-top: 6px;
++	color: var(--nua-cadmin-accent);
++	font-size: 12px;
++}
++
+ .nua-cadmin-nav-item:hover {
+ 	background: var(--nua-cadmin-border);
+ }
+@@ -582,6 +600,61 @@ select.nua-cadmin-input:focus {
+ 	gap: 6px;
+ }
+ 
++.nua-cadmin-array-item.is-collapsible {
++	position: relative;
++	display: block;
++	padding: 8px 36px 8px 8px;
++	border: 1px solid var(--nua-cadmin-border);
++	border-radius: 6px;
++}
++
++.nua-cadmin-array-item-header {
++	display: flex;
++	align-items: center;
++	gap: 6px;
++}
++
++.nua-cadmin-array-toggle {
++	flex: 1;
++	min-width: 0;
++	border: 0;
++	background: transparent;
++	color: inherit;
++	text-align: left;
++	cursor: pointer;
++}
++
++.nua-cadmin-drag-handle {
++	cursor: grab;
++	user-select: none;
++}
++
++.nua-cadmin-order-btn {
++	border: 0;
++	background: transparent;
++	color: var(--nua-cadmin-muted);
++	cursor: pointer;
++}
++
++.nua-cadmin-order-btn:disabled {
++	opacity: 0.4;
++	cursor: default;
++}
++
++.nua-cadmin-array-item.is-collapsible > .nua-cadmin-icon-btn {
++	position: absolute;
++	top: 5px;
++	right: 5px;
++}
++
++.nua-cadmin-array-item-body[hidden] {
++	display: none;
++}
++
++.nua-cadmin-array-item.is-collapsible > .nua-cadmin-array-item-body:not([hidden]) {
++	margin-top: 8px;
++}
++
+ .nua-cadmin-array-item-body {
+ 	flex: 1;
+ 	min-width: 0;

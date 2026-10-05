@@ -1,0 +1,9 @@
+---
+title: Deinstitutionalisation and transformation of social services
+perex: approach of the regions and the Ministry of Labour and Social Affairs, as reflected in strategy documents
+date: 2024-07-24T08:38:54.487Z
+vystupy:
+  - researches
+---
+
+- [Deinstitutionalisation and transformation of social services](<https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/deinstitutionalisation_and_transformation_of_social_services.pdf>)

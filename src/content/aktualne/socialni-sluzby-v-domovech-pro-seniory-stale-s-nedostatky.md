@@ -1,0 +1,32 @@
+---
+title: Sociální služby v domovech pro seniory stále s nedostatky
+date: 2007-05-21T00:00:00.000Z
+perex: ""
+kategorie:
+  - tz
+---
+Návštěvy v domovech pro seniory odhalily opakující se nedostatky v dodržování práv klientů a rovněž problémy v aplikaci zákona č. 108/2006 Sb. o sociálních službách.
+
+V letošním roce navštívili pracovníci Kanceláře veřejného ochránce práv 24 domovů různých zřizovatelů v celé České republice. Zaměřili se zejména na dodržování práv klientů těchto zařízení (právo na osobní svobodu, právo na soukromí, na rodinný a partnerský život, právo na kvalitní a kvalifikovanou péči aj.) a také na postup při uzavírání smluv mezi domovy a klienty a na obsah těchto smluv.
+
+Vzhledem k tomu, že šetření odhalila přetrvávající nedostatky, problémy a nejasnosti ve výkladu zákona, rozhodl se veřejný ochránce práv uspořádat ještě před zpracováním souhrnné zprávy z návštěv domovů pro seniory pracovní seminář, na který pozval ředitele Odboru sociálních služeb Ministerstva práce a sociálních věcí ČR, pracovníky odborů sociálních věcí jednotlivých krajů ČR, zástupce domovů pro seniory, zástupce Asociace poskytovatelů sociálních služeb ČR a Národního centra ošetřovatelství a nelékařských zdravotnických oborů. Cílem semináře je jednak účastníky seznámit s výsledky návštěv, ale především se v diskuzi společně pokusit najít řešení nejpalčivějších problémů.
+
+### Systém sociálních služeb není soběstačný a zákon s tím počítá
+
+Sociální služby v domovech pro seniory mají smluvní charakter, proto se veřejný ochránce práv ve svém šetření zaměřil na obsah smluv mezi zařízením a klientem a na proces jejich uzavírání. Přestože si je veřejný ochránce práv vědom smluvní volnosti obou stran a skutečnosti, že s jeho názorem může poskytovatel sociálních služeb naložit, jak sám uzná za vhodné, považuje za nutné upozornit například na skutečnost, že v převážné většině případů byla ve smlouvách klientům stanovena výše úhrady za ubytování a stravu nad jejich finanční možnosti. Některá zařízení neměla jasnou představu o tom, jak evidovat rozdíl mezi stanovenou výší úhrady a faktickou částkou, kterou je klient schopen platit. V některých případech začaly domovy tento rozdíl evidovat jako pohledávku vůči klientovi, což je špatný výklad zákona o sociálních službách.
+
+Zákon předvídá možnost služeb, které nebudou plně uhrazeny. Tím je dán neziskový charakter poskytovaných služeb v případě zachovaného veřejného dofinancování, se kterým se počítá i do dalších let. Systém sociálních služeb tedy není ekonomicky plně soběstačný a zákon s ekonomickou ztrátou u jednotlivých zařízení počítá. Ustanovení § 73 odst. 3 zákona totiž jasně stanoví, že po úhradě za ubytování a stravu musí klientovi zůstat minimálně 15 % jeho příjmu. Nedostatek finančních prostředků klienta zároveň není legitimním důvodem pro odmítnutí poskytnutí služby.
+
+V souvislosti s výší úhrady za ubytování je třeba zdůraznit, že zákon stanovuje maximální možnou cenu (160 Kč/den za ubytování a 140 Kč/den za stravu) a že reálná cena uvedená ve smlouvě musí vždy odpovídat kvalitě poskytované daným zařízením.
+
+Problematické je rovněž uzavírání smluv mezi domovy pro seniory a osobami, které sice nejsou zbavené právní způsobilosti, ale fakticky nejsou schopny samostatně jednat. V těchto případech jsou smlouvy uzavírány prostřednictvím obecního úřadu obce s rozšířenou působností, což je v praxi poměrně formální záležitost – úředník může jen těžko posuzovat každou jednotlivou smlouvu. Nemůže si tedy ověřovat, jestli je konkrétní smlouva pro jeho opatrovance vhodná, „ušitá mu na míru“.
+
+### Práva klientů v domovech jsou stále omezována
+
+Jedno z práv, které bývá klientům často upíráno, je právo svobodně se rozhodnout a s ním spojené právo na přiměřené riziko. Děje se tak z důvodů obav personálu z případné odpovědnosti za zranění klienta nebo za způsobenou škodu. V některých případech se veřejný ochránce práv setkával s praxí, kdy domov například podmiňoval samostatnou vycházku klienta zbaveného právní způsobilosti souhlasem opatrovníka. Tento postup ochránce již dříve kritizoval. V domovech je totiž i spousta klientů, kteří sice nejsou zbaveni právní způsobilosti (takže souhlas opatrovníka nepotřebují), ale samostatné opuštění domova pro ně představuje stejné, ne-li vyšší riziko (např. u klientů s demencí). Srovnání se nabízí i osobami, které jsou zbavené právní způsobilosti, bydlí ve svém bytě a jejich opatrovníkem byl ustanoven obecní úřad. Pokud chtějí tito lidé opustit byt, učiní tak, aniž by opatrovníka žádali nebo mu to oznamovali. Domovy pro seniory musí individuálně posuzovat stav klientů i možná rizika.
+
+Podobně odmítavě vnímá veřejný ochránce práv i domácí řády, které stanovují, že klient může domov opustit pouze se souhlasem personálu. Žádný z pracovníků zařízení ve skutečnosti nemá právo zakázat klientovi opuštění domova. Mohou mu nanejvýš dávat doporučení (např. nevycházet z důvodu špatného počasí), případně požádat, aby je klient o svém odchodu informoval.
+
+Nejvýraznější omezení práva na osobní svobodu bylo shledáno u klientů trpících Alzheimerovou chorobou či psychickými poruchami. Tito klienti jsou v převážné většině umístěni na samostatných odděleních. Od ostatních jsou odděleni uzamčenými dveřmi, mříží apod. a pohybovat se mohou pouze v rámci oddělení. V souvislosti s touto klientelou se ochránce domnívá, že zařízení musí zhodnotit své možnosti poskytnout těmto klientům pomoc a péči při současném respektování jejich práv. Pokud toho zařízení není schopno, nemělo by tyto klienty vůbec přijímat. Nepřijatelná je například praxe, kdy byly na jednom pokoji zamknuty 3 klientky s demencí (jedna konala potřebu na toaletním křesle, druhá se snažila dostat z pokoje ven a třetí posedávala na posteli).
+
+Opakující se nedostatky je v domovech pro seniory možné vidět i v přístupu ke klientovi jako k partnerovi. Schopnosti klientů jsou převážně hodnoceny plošně a ve většině domovů se klienti musí podřizovat režimovým opatřením (stejný budíček, rozpis koupání apod.) a nemohou si zvolit denní režim podle svých přání a potřeb. Právě v individuálním přístupu a v komunikaci s klienty vidí ochránce velké rezervy, přestože si je vědom, že možnosti domovů jsou do jisté míry limitovány počtem personálu (ne zdravotnického, ale pracovníků v sociálních službách). Nedostatek personálu by ale podle ochránce neměl znamenat rezignaci zařízení na plnění povinností a základních činností, k nimž patří například i zprostředkování kontaktu klientů se společenským prostředím nebo naplňování osobních potřeb klientů.

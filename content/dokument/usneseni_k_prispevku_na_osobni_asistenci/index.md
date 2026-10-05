@@ -5,7 +5,7 @@ date: 2025-03-31
 vystupy:
   - poradni-organ-crpd
 attachmentsTop:
-  - file: https://www.ochrance.cz/dokument/usneseni_k_prispevku_na_osobni_asistenci/usneseni_k_prispevku_na_osobni_asistenciusneseni_2025_18_k_prispevku_na_osobni_asistenci.pdf
+  - file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/dokument/usneseni_k_prispevku_na_osobni_asistenci/usneseni_k_prispevku_na_osobni_asistenciusneseni_2025_18_k_prispevku_na_osobni_asistenci.pdf
     title: Usnesení poradního orgánu veřejného ochránce práv pro oblast ochrany práv
       osob se zdravotním postižením
 ---

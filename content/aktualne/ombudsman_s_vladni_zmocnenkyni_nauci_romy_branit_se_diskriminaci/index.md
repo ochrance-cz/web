@@ -9,7 +9,7 @@ perex: >
   sítích. Chtějí v&nbsp;něm Romům vysvětlit, jak poznat diskriminaci a jak se jí
   bránit.</p>
 attachments:
-  - file: https://www.ochrance.cz/aktualne/ombudsman_s_vladni_zmocnenkyni_nauci_romy_branit_se_diskriminaci/romove_brante_se_diskriminaci.pdf
+  - file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/ombudsman_s_vladni_zmocnenkyni_nauci_romy_branit_se_diskriminaci/romove_brante_se_diskriminaci.pdf
     title: Informační leták „Romové, braňte se diskriminaci“ shrnující celý seriál
 ---
 <p>&bdquo;<em>K dnešnímu Mezinárodnímu dni Romů přejeme všem Romům, aby se s&nbsp;diskriminací nemuseli potýkat. Bohužel však od lidí, kteří se na nás obracejí, víme, že spousta Romů diskriminaci stále čelí. Připravili jsme proto společně několikadílný facebookový seriál, ve kterém Romům vysvětlíme, jak poznat zakázanou diskriminaci a jak se proti ní bránit,</em>&ldquo; uvedli ombudsman Stanislav Křeček a vládní zmocněnkyně pro záležitosti romské menšiny Lucie Fuková.</p>
@@ -30,4 +30,4 @@ attachments:
 
 <p>Definicí anticikanismu se zabývá také první díl seriálu.</p>
 
-<p><img alt="1._dil_serialu.png" src="https://www.ochrance.cz/aktualne/ombudsman_s_vladni_zmocnenkyni_nauci_romy_branit_se_diskriminaci/1._dil_serialu.png" /></p>
+<p><img alt="1._dil_serialu.png" src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/ombudsman_s_vladni_zmocnenkyni_nauci_romy_branit_se_diskriminaci/1._dil_serialu.png" /></p>

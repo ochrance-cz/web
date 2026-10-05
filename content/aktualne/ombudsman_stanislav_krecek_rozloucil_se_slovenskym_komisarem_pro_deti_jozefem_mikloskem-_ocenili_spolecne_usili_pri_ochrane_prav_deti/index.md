@@ -18,4 +18,4 @@ perex: <p>Ombudsman Stanislav Křeček se v Brně setkal se slovenským komisař
 <i>„Sdílení zkušeností nám pomohlo lépe reagovat na aktuální výzvy. Blízkost našich zemí činí tuto spolupráci nejen přirozenou, ale i nezbytnou pro ochranu mladé generace,“</i> sdělil komisař pro děti Mikloško. Nový dětský ombudsman Martin Beneš na setkání dodal: 
 <i>„Chceme i dále stavět a rozvíjet mezinárodní spolupráci ve prospěch ochrany práv dětí.“&nbsp;</i></p>
 <figure class="image">
-<img src="https://www.ochrance.cz/aktualne/ombudsman_stanislav_krecek_rozloucil_se_slovenskym_komisarem_pro_deti_jozefem_mikloskem-_ocenili_spolecne_usili_pri_ochrane_prav_deti/dsc_6782.jpg" alt="Ombudsman Křeček předává dar slovenskému komisaři pro děti."></figure>
+<img src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/ombudsman_stanislav_krecek_rozloucil_se_slovenskym_komisarem_pro_deti_jozefem_mikloskem-_ocenili_spolecne_usili_pri_ochrane_prav_deti/dsc_6782.jpg" alt="Ombudsman Křeček předává dar slovenskému komisaři pro děti."></figure>

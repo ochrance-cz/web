@@ -12,10 +12,10 @@ perex: >
   pravidla, i případy z&nbsp;praxe ochránce shromážděné v&nbsp;průběhu
   posledních dvanácti let.</p>
 attachments:
-  - file: https://www.ochrance.cz/aktualne/ombudsman_vydal_praktickou_prirucku_pro_rodice_na_pracovnim_trhu/strucna_doporuceni_pro_rodice_na_pracovnim_trhu.pdf
+  - file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/ombudsman_vydal_praktickou_prirucku_pro_rodice_na_pracovnim_trhu/strucna_doporuceni_pro_rodice_na_pracovnim_trhu.pdf
     title: Stručná doporučení pro rodiče na pracovním trhu
   - title: Celá příručka Rodičovství a diskriminace v práci
-    file: https://www.ochrance.cz/dokument/rodicovstvi_a_diskriminace_v_praci/rodicovstvi-a-diskriminace-doporuceni.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/dokument/rodicovstvi_a_diskriminace_v_praci/rodicovstvi-a-diskriminace-doporuceni.pdf
     link: ""
 ---
 <p>Každoročně se na ombudsmana obracejí lidé, kteří se cítí být diskriminováni z&nbsp;důvodu rodičovství. Ombudsman rodičům poskytuje metodickou pomoc. Mnohým z&nbsp;nich totiž k&nbsp;řešení situace postačuje, pokud se v&nbsp;nastalé situaci zvládnou lépe zorientovat či načerpat argumenty pro jednání se zaměstnavatelem. Právě takovým lidem ochránce směřuje tuto příručku.</p>

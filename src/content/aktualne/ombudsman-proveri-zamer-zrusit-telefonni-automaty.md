@@ -1,0 +1,14 @@
+---
+title: Ombudsman prověří záměr zrušit telefonní automaty
+date: 2020-06-02T00:00:00.000Z
+perex: Ombudsman se rozhodl zahájit šetření z vlastní iniciativy v souvislosti
+  se záměrem Českého telekomunikačního úřadu od příštího roku neuložit povinnost
+  provozovat veřejné telefonní automaty. Podle ombudsmana takovému kroku musí
+  předcházet důsledné ověření, že služba skutečně není potřebná nebo že je
+  dostatečně zajištěna jinak – komerčně.
+kategorie:
+  - tz
+---
+*„Chápu, že jsou modernější prostředky elektronické komunikace a veřejnost upouští od využívání telefonních automatů, jejichž provoz je víc a víc nákladnější. Mám ale za to, že v některých oblastech, zejména nepokrytých dostatečným mobilním signálem, a v určitých (např. krizových) situacích mají telefonní automaty stále své místo a opodstatnění. Před jejich zrušením má být nade vši pochybnost ověřeno, že je veřejnost skutečně nepotřebuje, že existuje jejich plnohodnotná alternativa, nebo že jsou dostatečně dostupné na komerčním základě. Nestačí jen argumentovat narůstající finanční nákladností jejich provozu,“* vyjadřuje ombudsman Stanislav Křeček pochybnosti o opodstatnění záměru ČTÚ zrušit povinně provozované telefonní automaty.
+
+Je sice na správním uvážení ČTÚ, zda podle zákona o elektronických komunikacích neuloží povinnost veřejné telefonní automaty provozovat, jeho úvaha ale musí být odůvodněná a podložená, o čemž podle ombudsmana lze nyní pochybovat. Ačkoliv ze záměru plyne, že si ČTÚ k němu zajistil informace a vyjádření od dotčených subjektů, jednoznačně z nich však neplyne, že by provoz telefonních automatů nebyl potřebný a je možné je zrušit. Podle ombudsmana se ČTÚ v odůvodnění záměru ([www.ctu.cz/vyzva-k-uplatneni-pripominek-k-zameru-neulozit-v-ramci-univerzalni-sluzby-povinnost-poskytovat-dilci](http://www.ctu.cz/vyzva-k-uplatneni-pripominek-k-zameru-neulozit-v-ramci-univerzalni-sluzby-povinnost-poskytovat-dilci "Otevření do nového okna") ) nevypořádal s rozpory v obdržených vyjádřeních a k záměru přistupuje z nejistých argumentů – např. z nejistého předpokladu budoucího pokrytí míst bez dostatečného signálu. Činí tak přitom za situace, kdy ví, že komerčně provozované telefonní automaty jsou rušeny, a aniž je ze záměru jisté, zda a jaké důsledky jejich komerční výpadek může mít. Ombudsman se proto obrátil na předsedkyni ČTÚ s žádostí o podrobnější objasnění důvodů přijetí záměru zrušit veřejné telefonní automaty a o zaslání dokladů, z nichž ČTÚ vycházel.

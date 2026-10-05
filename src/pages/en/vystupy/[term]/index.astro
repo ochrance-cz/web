@@ -1,0 +1,68 @@
+---
+// /en/vystupy/<term>/ — output-category landing: header (title/plural, perex,
+// illustration) then AKTUALNE + DOKUMENT (EN) entries tagged with this category,
+// newest first (NewsPreview-style). Mirrors src/pages/vystupy/[term]/index.astro.
+import type { GetStaticPaths } from 'astro';
+import { getCollection } from 'astro:content';
+import { getNews } from '../../../../lib/news';
+import BaseLayout from '../../../../layouts/BaseLayout.astro';
+import PicHeader from '../../../../components/PicHeader.astro';
+import NewsPreview from '../../../../components/NewsPreview.astro';
+import { renderMarkdown } from '../../../../lib/markdown';
+import { url } from '../../../../lib/paths';
+
+export const getStaticPaths = (async () => {
+  const terms = (await getCollection('vystupy-en')) ?? [];
+  return terms.map((term) => ({
+    params: { term: term.id },
+    props: { term },
+  }));
+}) satisfies GetStaticPaths;
+
+const { term } = Astro.props;
+const termKey = term.id;
+const termSlug = term.id;
+
+const matches = (tags?: string[]) => (tags ?? []).some((v) => v === termKey || v === termSlug);
+
+const [aktualneAll, dokumentAll] = await Promise.all([
+  getNews('aktualne-en'),
+  getCollection('dokument-en'),
+]);
+const aktualne = (aktualneAll ?? [])
+  .filter((e) => matches(e.data.vystupy))
+  .map((e) => ({ section: 'aktualne', entry: e }));
+const dokument = (dokumentAll ?? [])
+  .filter((e) => matches(e.data.vystupy))
+  .map((e) => ({ section: 'dokument', entry: e }));
+
+const items = [...aktualne, ...dokument].sort((a, b) => {
+  const da = a.entry.data.date ? new Date(a.entry.data.date).getTime() : 0;
+  const db = b.entry.data.date ? new Date(b.entry.data.date).getTime() : 0;
+  return db - da; // newest first
+});
+
+const headerTitle = term.data.plural ?? term.data.title;
+const perexHtml = term.data.perex ? await renderMarkdown(term.data.perex) : '';
+---
+<BaseLayout title={headerTitle} lang="en">
+  <main>
+    <PicHeader title={headerTitle} illustration={term.data.illustration} />
+    <section>
+      {perexHtml && <div class="perex" set:html={perexHtml} />}
+    </section>
+    <section class="_news single-col">
+      {items.map(({ section, entry }) => (
+        <NewsPreview
+          href={url('en', section, entry.id)}
+          title={entry.data.title}
+          pic={'illustration' in entry.data ? (entry.data as { illustration?: string }).illustration : undefined}
+          perex={entry.data.perex}
+          date={entry.data.date}
+          tags={entry.data.vystupy ?? []}
+          locale="en"
+        />
+      ))}
+    </section>
+  </main>
+</BaseLayout>

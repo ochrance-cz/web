@@ -19,7 +19,7 @@ perex: <p>Baví vás práce s lidmi? Komunikace je vaší silnou stránkou? Hled
 <li>správu uživatelů/ek v&nbsp;dalších systémech souvisejících s&nbsp;personální agendou;</li>
 <li>spolupráci se&nbsp;mzdovou účtárnou a dalšími útvary napříč organizací.</li></ul>
 <p>Bližší popis pracovní pozice i s&nbsp;ohledem na to, co může zajímat lidi se zdravotním omezením, najdete v&nbsp;dokumentu 
-<a href="https://www.ochrance.cz/aktualne/hledame_personalistu_nebo_personalistku/jak_vypada_prace_personalisty_ci_personalistky_v_kancelari_verejneho_ochrance_prav_a_ochrance_prav_deti.pdf">Jak vypadá práce personalisty/personalistky v Kanceláři veřejného ochránce práv a ochránce práv dětí.pdf</a></p>
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/hledame_personalistu_nebo_personalistku/jak_vypada_prace_personalisty_ci_personalistky_v_kancelari_verejneho_ochrance_prav_a_ochrance_prav_deti.pdf">Jak vypadá práce personalisty/personalistky v Kanceláři veřejného ochránce práv a ochránce práv dětí.pdf</a></p>
 <p>&nbsp;</p>
 <p>
 <strong>Hledáme člověka:</strong></p>
@@ -44,6 +44,6 @@ perex: <p>Baví vás práce s lidmi? Komunikace je vaší silnou stránkou? Hled
 <li>možnost zařazení dítěte do dětské skupiny v&nbsp;budově pracoviště;</li>
 <li>práci v&nbsp;centru Brna s&nbsp;možností parkování.</li></ul>
 <p>Záleží nám na&nbsp;rozmanitosti. Jste vítáni bez ohledu na&nbsp;věk, pohlaví, zdravotní stav, rasu, etnický původ, národnost, sexuální orientaci, náboženské vyznání či&nbsp;světový názor. Jsme náročný, ale férový zaměstnavatel. Pokud vás zajímá blíže, jak to u nás chodí, koukněte do naší&nbsp;
-<a href="https://www.ochrance.cz/media/personalni_strategie.pdf">personální strategie</a>.</p>
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/media/personalni_strategie.pdf">personální strategie</a>.</p>
 <p>Jestli se k&nbsp;nám chcete připojit, napište nám do 14. července na&nbsp;adresu&nbsp;
 <strong>lzicarova@ochrance.cz</strong>. Napište nám, proč s&nbsp;námi chcete spolupracovat a připojte Váš strukturovaný životopis. Napište také, pokud máte nějaké specifické potřeby nebo doplňující otázky (například v&nbsp;souvislosti se zdravotním omezením).&nbsp;</p>

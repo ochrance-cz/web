@@ -15,7 +15,7 @@ perex: <p>Když i obyčejné polknutí doušku vody představuje problém, je d�
   který&nbsp;připomíná potřebu větší osvěty v této oblasti.</p>
 attachments:
   - title: leták Asociace klinických logopedů Světový den polykání
-    file: https://www.ochrance.cz/aktualne/porucha_polykani_pod_lupou_ombudsman_hosti_setkani_logopedu_odborniku_a_pacientu_ke_svetovemu_dni_polykani/letak_-_svetovy_den_polykani.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/porucha_polykani_pod_lupou_ombudsman_hosti_setkani_logopedu_odborniku_a_pacientu_ke_svetovemu_dni_polykani/letak_-_svetovy_den_polykani.pdf
   - title: "připomínka vyhlášky "
     file: http://kvopap:81/KVOPEsoSearch/Nalezene/Edit/107199
 ---

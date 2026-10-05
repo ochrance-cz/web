@@ -1,0 +1,51 @@
+---
+// "All research" aggregator. Mirrors layouts/research-special/single.html:
+// lists every dokument tagged with the "vyzkumy" output.
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PicHeader from '../../components/PicHeader.astro';
+import NewsPreview from '../../components/NewsPreview.astro';
+import { getCollection } from 'astro:content';
+import { t } from '../../lib/i18n';
+import MarkdownContent from '../../components/MarkdownContent.astro';
+
+import source from '../../page-copy/vyzkumy-vse/index.md?raw';
+import matter from 'gray-matter';
+const parsed = matter(source);
+const entry = { data: parsed.data, body: parsed.content };
+const title = entry.data.title;
+
+const items = (await getCollection('dokument'))
+  .filter((d) => ((d.data as any).vystupy ?? []).includes('vyzkumy'))
+  .sort(
+    (a, b) =>
+      new Date((b.data as any).date ?? 0).getTime() - new Date((a.data as any).date ?? 0).getTime(),
+  );
+---
+<BaseLayout title={title} lang="cs">
+  <main data-pagefind-body>
+    <PicHeader title={title} />
+    <div>
+      <section>
+        <MarkdownContent content={entry.body} />
+      </section>
+      <section class="_news single-col">
+        <nav aria-label="Zobrazení výzkumů">
+          <ul class="_horizontal-list">
+            <li><a href="/vystupy/vyzkumy/">{t('cs', 'research-by-year')}</a></li>
+            <li><a href="/vyzkumy-vse/" class="selected" aria-current="page">{t('cs', 'research-all')}</a></li>
+          </ul>
+        </nav>
+        {items.map((d) => (
+          <NewsPreview
+            href={`/dokument/${d.id}/`}
+            title={d.data.title}
+            perex={(d.data as any).perex}
+            date={(d.data as any).date}
+            tags={(d.data as any).vystupy ?? []}
+            locale="cs"
+          />
+        ))}
+      </section>
+    </div>
+  </main>
+</BaseLayout>

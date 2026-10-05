@@ -1,0 +1,38 @@
+---
+title: Novela zákona o pomoci v hmotné nouzi sociální situaci lidí ještě zhorší
+date: 2014-01-20T00:00:00.000Z
+perex: Zástupce ombudsmana zásadně nesouhlasí s návrhem novely zákona o pomoci
+  v hmotné nouzi, který bude současná vláda v demisi projednávat ve středu
+  22. ledna 2014.
+kategorie:
+  - tz
+---
+![](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/uploads/RTEmagicC_Krecek-web.jpg.jpg)Novela má řešit problém poskytování vysokých částek doplatku na bydlení na často podstandardní bydlení v ubytovnách, bydlení v prostorech, které nejsou zkolaudovány k bydlení, výplatu několika doplatků na bydlení na jeden prostor (byt či jednotku v ubytovně) aj. Podle zástupce ombudsmana však zákon v předkládané podobě situaci lidí ohrožených ztrátou bydlení ještě zhorší.
+
+*„Legislativní řešení těchto problémů je nutné, ale předkládaný zákon je připravován horkou jehlou. Vůbec nebere v úvahu např. i změny v novém občanském zákoníku. U lidí, kteří bydlí často v předražených podstandardních ubytovnách, navrhovaná novela povede spíše k dalšímu prohlubování jejich sociálního vyloučení,“* kritizuje návrh zástupce ombudsmana Stanislav Křeček.
+
+Už v rámci připomínkového řízení k novele vyjádřil veřejný ochránce práv zásadní nesouhlas zejména s těmito navrhovanými parametry:
+
+-   **Časové omezení poskytování doplatku na bydlení na jiný než obytný prostor (typicky ubytovnu) na 6 měsíců**.
+
+Podle zástupce ombudsmana lze očekávat, že po uplynutí této doby značná část obyvatel ubytoven ztratí bydlení v důsledku toho, že je nebude mít z čeho hradit. V současné době ovšem neexistuje komplexní úprava sociálního bydlení, která by těmto osobám garantovala zajištění lidsky důstojného bydlení. Návrh zákona neobsahuje ani rozšíření jiných alternativ k bydlení v ubytovnách, např. zvýšení kapacit azylového bydlení, apod. Ve svém důsledku tak navrhovaná právní úprava může vést k popření ústavně zaručeného práva na pomoc v hmotné nouzi, která je nezbytná k zajištění základních životních podmínek, mezi které patří rovněž bydlení. Návrh nerespektuje, že podle nového občanského zákoníku je možné nájemní smlouvu uzavřít k jakémukoliv i nebytovému prostoru.
+
+-   **Podmínění nároku na doplatek na bydlení uzavřením smlouvy minimálně na 3 měsíce**.
+
+V důsledku této změny nebudou mít nárok na doplatek na bydlení nájemci s nájemní smlouvou či obyvatelé ubytoven se smlouvou o ubytování sjednanou na dobu kratší než 3 měsíce, kterým pronajímatelé či ubytovatelé neumožní uzavření smlouvy na dobu delší a pravidelně ji dodatky prodlužují. Zástupce veřejného ochránce práv je přesvědčen, že jednání pronajímatelů či ubytovatelů nemůže jít k tíži těchto osob.
+
+-   **Odlišné vymezení bytu od nového občanského zákoníku**.
+
+I když nový občanský zákoník liberalizuje nájemní vztahy a umožňuje sjednat platnou nájemní smlouvu i k prostoru, který není zkolaudován jako byt, navrhovaná právní úprava definuje byt odkazem na předpisy veřejného stavebního práva (bytem se rozumí prostor, který je jako byt zkolaudován). Na jiný než obytný prostor lze poskytnout doplatek na bydlení pouze na základě správního uvážení úřadu práce, pokud jsou dány důvody hodné zvláštního zřetele a pokud prostor splňuje poměrně přísné bytové standardy, které řada stávajících ubytovacích zařízení (stavěných dle dřívějších méně přísných právních předpisů) nesplní. V důsledku toho hrozí řadě obyvatelů ubytoven ztráta bydlení. Navrhovaná právní úprava také zcela opomíjí judikát Nejvyššího správního soudu, podle něhož je možné přiznat v určitých případech příspěvek na bydlení (a tudíž i nárokový doplatek na bydlení), pokud žadatel o dávku užívá k bydlení stavbu určenou k rekreaci.
+
+-   **Povinnost žadatele doložit, že pronajatý prostor splňuje podmínky bytového standardu**.
+
+Žadatel o dávku nemá běžně k dispozici kolaudační rozhodnutí či dokonce část projektové dokumentace, takže tyto povinnosti nemůže splnit. Pro uzavření nájemní smlouvy navíc není splnění takového standardu z hlediska nového občanského zákoníku zapotřebí.
+
+-   **Nezakotvení možnosti získat doplatek na bydlení na nájem či podnájem části bytu** (nejčastěji pokoje), přestože došlo k zásadní liberalizaci nájemních vztahů v důsledku přijetí nového občanského zákoníku.
+
+**Zástupce veřejného ochránce práv je přesvědčen, že by v této podobě vláda neměla návrh zákona o pomoci v hmotné nouzi schvalovat. Novela zákona nepřináší řešení situace lidí ohrožených ztrátou bydlení, naopak riziko sociálního vyloučení zvyšuje.**
+
+ 
+
+ [Celé znění připomínek k zákonu, jak je ochránce předložil](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/Zvlastni_opravneni/Pripominky/PDCJ3164-2013_MPSV_O-pomoci-v-hmotne-nouzi.pdf "Otevření do nového okna") (247.4 kB, Adobe Acrobat dokument)

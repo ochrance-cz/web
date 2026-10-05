@@ -1,0 +1,19 @@
+---
+interface Props {
+  items: { href: string; title: string; perexHtml: string }[];
+}
+const { items } = Astro.props;
+---
+<ul class="_link-list situation-list">
+  {items.map(item => (
+    <li><a href={item.href}>{item.title}</a>
+      {item.perexHtml && <div class="annotation" set:html={item.perexHtml} />}
+    </li>
+  ))}
+</ul>
+
+<style>
+  .situation-list > li + li { margin-top: 1.5rem; }
+  .annotation { margin-top: .4rem; text-indent: 0; font-size: 1rem; }
+  .annotation :global(p) { margin: 0; }
+</style>

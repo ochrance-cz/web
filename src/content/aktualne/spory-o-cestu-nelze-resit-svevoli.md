@@ -1,0 +1,27 @@
+---
+title: Spory o cestu nelze řešit svévolí
+date: 2008-07-28T00:00:00.000Z
+perex: ""
+kategorie:
+  - tz
+---
+Na ochránce se neustále obracejí lidé se stížnostmi na to, že jim někdo brání ve využívání přístupové cesty k jejich domu, chalupě či chatě. Majitel pozemku, na němž se cesta nachází, na ni obvykle umístí nějakou překážku (plot, závoru apod.), což vyvolá konflikt s jejími uživateli. K typickým sporům dochází právě v jarních a letních měsících např. v chatových oblastech.
+
+Podstatné pro řešení sporu je v první řadě určit, zda se jedná o veřejně přístupnou účelovou komunikaci, tj. o pozemek, který je využíván jako dopravní cesta pro vozidla nebo chodce a slouží ke spojení nemovitostí. Nezáleží na tom, jestli je pozemek jako cesta zapsán v katastru nemovitostí. Rozhodující je faktický stav „v terénu“, souhlas některého z předchozích vlastníků cesty a její nezbytnost pro dopravní obsluhu daných nemovitostí. Jestliže vlastník pozemku umístí na takovouto přístupovou cestu překážku bez souhlasu silničního správního úřadu, jde o protiprávní jednání.
+
+I přes opakované upozorňování úřadů a vydání speciálního sborníku Veřejné cesty, se ochránce stále setkává se situacemi, kdy obecní úřad neví, že je silničním správním úřadem. Neví, že musí chránit veřejný přístup na pozemní komunikace a řešit stížnosti občanů na to, že jim někdo v jejich užívání brání.
+
+Obecní úřad, coby silniční správní úřad, musí v první řadě rozhodnout, jestli se jedná o účelovou komunikaci či nikoli. Zde naráží ochránce na často opakovanou chybu, kdy úřad záležitost uzavře bez řešení poté, co zjistí, že pozemek není v katastru nemovitostí zapsán jako komunikace. Chybnost takového postupu konstatoval vedle ochránce i Ústavní soud. Obecní úřad musí posoudit:
+
+-   zda je v terénu patrná stálá cesta,
+-   zda tato cesta slouží jako přístup k určitým nemovitostem nebo k obhospodařování zemědělských či lesních pozemků,
+-   zda vlastník pozemku projevil souhlas s veřejným užíváním cesty (jednou udělený souhlas zavazuje i pozdější vlastníky cesty) případně jde o cestu veřejně užívanou od nepaměti (až dosud nikdo veřejnosti v užívání cesty nebránil),
+-   zda je tato přístupová cesta nezbytná pro napojení nebo obsluhu nemovitostí, k nimž vede (tj. jde o nezbytnou komunikační potřebu).
+
+Jestliže tyto podmínky cesta splňuje, jedná se o účelovou komunikaci. Pokud účelová komunikace v minulosti vznikla jako veřejně přístupná a silniční správní úřad (tím je obecní úřad) nerozhodl o omezení přístupu na ni, nemůže vlastník svévolně bránit veřejnosti v jejím užívání, ať už fyzickou zábranou nebo např. vybíráním poplatku za průchod. Je povinností silničního správního úřadu nařídit odstranění překážky a opětovné zprůjezdnění komunikace bez omezení.
+
+Podle judikatury Nejvyššího správního soudu by měl obecní úřad řešit překážky na účelových komunikacích stejně, jako překážky na komunikacích místních. Má tedy vydat správní rozhodnutí, kterým uloží vlastníkovi překážek lhůtu k jejich odstranění. Správní řízení zahajuje nejen z moci úřední, ale i na návrh osoby, k jejíž nemovitosti zajišťuje komunikace přístup. Silniční správní úřad může také za uzavření veřejně přístupné pozemní komunikace bez povolení udělit pokutu až do výše 500 000 Kč.
+
+Ochránce doporučuje úřadům i občanům, aby sporné otázky týkající se užívání veřejných cest řešili dříve, než dojde ke konfliktu.
+
+Pokud někde existuje spor o to, zda se jedná o veřejnou cestu či nikoliv, vlastník nebo uživatelé cesty (majitelé napojených nemovitostí) by měli požádat obecní úřad o rozhodnutí. Obecní úřad rozhodne podle § 142 správního řádu, zda jde o veřejně přístupnou účelovou komunikaci či nikoliv (tzv. deklaratorní rozhodnutí). Pokud kterákoliv ze stran není s rozhodnutím obecního úřadu spokojená, může se proti němu odvolat. Odvolání posoudí krajský úřad. Proti jeho rozhodnutí je dále možné podat správní žalobu a celý spor o cestu tak může nezávisle rozsoudit krajský soud. Spory o existenci komunikací jsou složité a často mají obě strany pocit, že jsou v právu. Proto je rozumné takové spory řešit cestou úřední, případně soudní – nikoliv svévolí.

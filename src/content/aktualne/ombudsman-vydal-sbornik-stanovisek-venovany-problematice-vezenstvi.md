@@ -1,0 +1,33 @@
+---
+title: Ombudsman vydal sborník stanovisek věnovaný problematice vězeňství
+date: 2019-06-20T00:00:00.000Z
+perex: Ombudsman vydal v pořadí druhý sborník věnovaný problematice vězeňství.
+  Obsáhlá publikace shrnuje právní stanoviska ombudsmana k této problematice
+  z let 2010 až 2018. Ombudsman se vězeňství věnuje již od svého vzniku
+  a od roku 2006 pak provádí systematické návštěvy míst, kde jsou lidé omezeni
+  na svobodě, kam patří také věznice. Ombudsman je ze zákona povinen dohlížet
+  na to, aby ve věznicích nedocházelo k mučení, či jinému špatnému zacházení,
+  aby byla respektována lidská důstojnost a aby život člověka odsouzeného
+  k výkonu trestu odnětí svobody neztrácel smysl. Sborník proto přináší jednak
+  výklad toho, co vyžaduje právní úprava a dále přináší výběr stanovisek
+  ombudsmana za uplynulých deset let.
+kategorie:
+  - tz
+---
+Za jednotlivými právními stanovisky ombudsmana se přitom skrývají konkrétní lidské osudy. Třeba případ muže, který pro těžký zdravotní stav požádal o odklad trestu, soud jeho žádosti vyhověl, ale rozhodnutí mu doručil pozdě. Muž nastoupil do vězení, kde po několika týdnech zemřel.
+
+V dalším případě byl muž převezen do civilní nemocnice ke gastroskopickému vyšetření. V přítomnosti dvou dozorců mu bylo vyšetření provedeno v situaci, kdy ležel spoután na nohou i na rukou. V jiném případě zase ombudsman řešil permanentní kamerový dozor na celách ve vazební věznici, čímž docházelo k porušování práva na soukromí.
+
+Ostatně jedním z cílů trestu má být náprava odsouzeného a jeho návrat do společnosti po vykonání trestu. Během trestu má odsouzený stejně jako jakýkoliv jiný člověk právo na lidskou důstojnost, slušné zacházení nebo na kontakt s vnějším světem. Podmínky, jaké ve věznicích panují, vypovídají především o společnosti, která trestá.
+
+České vězeňství se bohužel dlouhodobě potýká s přeplněností věznic. Tento velký problém výrazně ovlivňuje život vězňů a také práci příslušníků vězeňské služby. V rámci Evropské unie máme jeden z nejvyšších podílů vězňů v populaci.
+
+Sborník shrnuje, jaké mají být například materiální podmínky ve věznicích a vybavení jednotlivých cel, jak se má předcházet šikaně nebo jak se má řešit, pokud k ní dojde, jak se má přistupovat ke kázeňským trestům nebo k používání donucovacích prostředků. Publikace je díky šíři pokrytých témat určena nejen odborné veřejnosti nebo ředitelům věznic, ale může pomoci také právním zástupcům odsouzených nebo jejich příbuzným.
+
+Díky desítkám systematických návštěv, které právníci a právničky ombudsmana vykonali ve věznicích České republiky, přináší publikace nejen shrnutí toho, jak by situace měla vypadat, ale také reflektuje reálný zjištěný stav nebo nejčastějších prohřešky.
+
+Zveřejněná stanoviska ombudsmana pak nejčastěji vychází z podnětů samotných vězňů nebo jejich příbuzných. Ombudsman obdrží každý rok několik set takových podnětů. V roce 2018 to bylo 450 podnětů.
+
+##### Sborník Vězeňství II:
+
+[https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/Publikace/sborniky\_stanoviska/Sbornik\_Vezenstvi\_II.pdf](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/Publikace/sborniky_stanoviska/Sbornik_Vezenstvi_II.pdf)

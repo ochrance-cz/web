@@ -1,0 +1,26 @@
+---
+title: Ombudsmanka zahajuje letošní nejdůležitější setkání k prevenci špatného
+  zacházení
+date: 2017-11-14T00:00:00.000Z
+perex: 14\. – 15. 11. 2017 se v Praze koná nejvýznamnější setkání zástupců
+  evropských národních preventivních mechanismů, tj. institucí, které
+  systematicky dohlížejí na práva lidí v psychiatrických léčebnách, věznicích,
+  dětských domovech, LDN, zařízeních pro seniory, policejních celách a jiných
+  zařízeních, kde dochází k omezení svobody. Evropské NPM fórum pořádá
+  ve spolupráci s českou ombudsmankou Rada Evropy a Evropská unie.
+kategorie:
+  - tz
+---
+Setkání, které se v minulosti konalo např. v Paříži, Vídni nebo Štrasburku, slouží k výměně zkušeností a diskuzi o metodách práce národních preventivních mechanismů, o prevenci špatného zacházení s osobami omezenými na svobodě atd. Pražské setkání, které uvede česká ombudsmanka, se zaměří především na činnost národních preventivních mechanismů v rámci legislativního procesu v jednotlivých zemích i na mezinárodní úrovni, na možnosti ovlivnit nebo se podílet na tvorbě předpisů a dalších norem týkajících se podmínek a zacházení s lidmi omezenými na svobodě. Národní preventivní mechanismy totiž nejen dohlížejí na dodržování existujících norem, ale velmi často jsou také těmi, kdo je interpretují a usilují o jejich zdokonalení. Mnohdy také národní preventivní mechanismy svými doporučeními formují nové standardy zacházení v těch aspektech života nebo v nových jevech, které existující normy nepokrývají. Příkladem mohou být Standardy péče o ohrožené děti a jejich rodiny, které český ombudsman formuloval v roce 2012.
+
+Dalším tématem Evropského NPM fóra je vzdělávání pracovníků národních preventivních mechanismů a předávání znalostí a zkušeností v rámci týmů, které provádějí návštěvy zařízení.
+
+Setkání v Praze se účastní šéfové a další zástupci národních preventivních mechanismů z Rakouska, Chorvatska, Maďarska, Itálie, Slovinska, Velké Británie, Arménie, Albánie, Rumunska a dalších zemí, dále zástupci Rady Evropy, Evropského výboru pro prevenci proti mučení (CPT) aj.
+
+**Národní preventivní mechanismy** jsou nezávislé orgány, které vykonávají systematické návštěvy míst a zařízení, kde se nacházejí nebo se mohou nacházet osoby omezené na svobodě. Cílem je posílit ochranu těchto osob před ponižujícím zacházením a trestáním, či před jiným špatným zacházením. V řadě zemí je tímto orgánem ombudsman, v některých zemích může jít o specializovanou jinou nezávislou instituci.
+
+**V České republice** je od roku 2006 národním preventivním mechanismem **ombudsman**. Od roku 2006 provedl na 400 návštěv zařízení a v úhrnu tak prověřil podmínky např. téměř 12 500 vězňů, 9 000 seniorů a více než 2 000 dětí.
+
+Návštěvy provádí ombudsman bez předchozího ohlášení, může vstupovat do všech míst zařízení, nahlížet do veškeré dokumentace, vést rozhovory se zaměstnanci i s klienty zařízení (nebo pacienty, či vězněnými osobami). Zjišťuje přitom, jak se s lidmi omezenými na svobodě zachází, v jakých podmínkách žijí, zda jsou respektována jejich práva a důstojnost, a snaží se posílit jejich ochranu před špatným zacházením. Svá zjištění a doporučení ombudsman předává nejen samotným zařízením, ale i jejich zřizovatelům, ústředním orgánům státní správy a rovněž je zveřejňuje.
+
+Podrobnosti o činnosti ombudsmana jako národního preventivního mechanismu najdete [zde](/ochrana-osob-omezenych-na-svobode/).

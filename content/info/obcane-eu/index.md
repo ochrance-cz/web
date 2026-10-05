@@ -41,11 +41,11 @@ title: Jsem občan Evropské unie
 <p>Evropská unie zařídila, aby v&nbsp;každém státě byl určený úřad, který občanům EU pomáhá. Jejich seznam je dostupný na&nbsp; 
 <a href="http://ec.europa.eu/social/main.jsp?catId=1277&amp;langId=en">webových stránkách Evropské komise</a>. V&nbsp;Česku je tímto úřadem ombudsman.</p>
 <p>Více informací o&nbsp;tom, jak vám může ochránce pomoci, najdete v&nbsp; 
-<a href="https://www.ochrance.cz/letaky/obcane-eu/obcane-eu.pdf">letáku</a> o pomoci občanům EU nebo v&nbsp;dalších letácích&nbsp; 
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/obcane-eu/obcane-eu.pdf">letáku</a> o pomoci občanům EU nebo v&nbsp;dalších letácích&nbsp; 
 <a href="https://www.ochrance.cz/situace/cestovani/">pro cizince</a> nebo&nbsp; 
 <a href="https://www.ochrance.cz/situace/prace/">o práci</a> (také v&nbsp;dalších jazykových verzích).</p>
 <p>Pokud se budete chtít podívat, jakými případy s&nbsp;přesahem do&nbsp;evropského práva se ochránce v&nbsp;minulosti zabýval, můžete si přečíst&nbsp; 
-<a href="https://www.ochrance.cz/uploads-import/Publikace/sborniky_stanoviska/Sbornik_Obcanstvi_EU.pdf">Sborník stanovisek Občanství Evropské unie</a></p>
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/Publikace/sborniky_stanoviska/Sbornik_Obcanstvi_EU.pdf">Sborník stanovisek Občanství Evropské unie</a></p>
 
 
 {{< /rozbal >}}
@@ -72,10 +72,10 @@ title: Jsem občan Evropské unie
 <li>Alternativně můžete využít SOLVIT – SOLVIT je bezplatná online služba, která vám může pomoci vyřešit problémy s&nbsp;úřady, pokud nepostupovaly podle práva Evropské unie. Pro více informací se podívejte na&nbsp; 
 <a href="http://ec.europa.eu/solvit/index_cs.htm">webové stránky SOLVIT</a>.</li></ul>
 <p>
-<img src="https://www.ochrance.cz/uploads-import/uploads/RTEmagicC_solvit-logo_cs.jpg.jpg" alt=""></p>
+<img src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/uploads/RTEmagicC_solvit-logo_cs.jpg.jpg" alt=""></p>
 <p>V&nbsp;každém případě se můžete obrátit na&nbsp; 
 <strong>ombudsmana</strong> – můžeme vám poradit, jaká jsou vaše práva a&nbsp;jak se nejlépe bránit. Také se můžete obrátit na&nbsp; 
-<a href="/uploads-import/Letaky/Organizace-uprchlicka-cizinecka-problematika.pdf">neziskové organizace</a>, které pomáhají cizincům v&nbsp;Česku.</p>
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/Letaky/Organizace-uprchlicka-cizinecka-problematika.pdf">neziskové organizace</a>, které pomáhají cizincům v&nbsp;Česku.</p>
 
 
 {{< /rozbal >}}
@@ -329,7 +329,7 @@ title: Jsem občan Evropské unie
 <ul>
 <li>Zdravotní péče –&nbsp;jako občan EU&nbsp;máte právo na&nbsp;stejnou zdravotní péči jako čeští občané</li>
 <li>Na kvalitu poskytnuté zdravotní péče nebo přístup personálu si&nbsp;můžete stěžovat, více informací v našem letáku 
-<a href="https://www.ochrance.cz/uploads-import/Letaky/Zdravotnictvi-stiznosti.pdf">Stížnosti ve zdravotnictví </a>nebo na stránce 
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/Letaky/Zdravotnictvi-stiznosti.pdf">Stížnosti ve zdravotnictví </a>nebo na stránce 
 <a href="https://www.nzip.cz/clanek/237-pravo-na-podani-stiznosti">Národního zdravotnického informačního portálu</a>&nbsp; ( 
 <a href="https://www.nzip.cz/">Národní zdravotnický informační portál</a>&nbsp;→ Životní situace → Práva pacienta → Právo na podání stížnosti)</li>
 <li>Zdravotně pojištění (v&nbsp;systému veřejného zdravotního pojištění) můžete být jen v&nbsp;jednom státě Evropské unie</li>
@@ -407,7 +407,7 @@ title: Jsem občan Evropské unie
 <a href="http://www.msmt.cz/">www.msmt.cz</a>&nbsp;→ Vzdělávání → Předškolní vzdělávání → Dotazy a&nbsp;odpovědi → Nejčastější dotazy k&nbsp;předškolnímu vzdělávání)</li>
 <li>Základní školy (ZŠ) – v&nbsp;ČR&nbsp;platí povinná školní docházka. Děti musí absolvovat 9&nbsp;let základní školy. Děti zpravidla nastupují do&nbsp;první třídy ZŠ&nbsp;v&nbsp;6 letech a&nbsp;dokončí ji&nbsp;v&nbsp;15 letech.</li>
 <li>Střední školy (SŠ) – V&nbsp;České republice existuje několik typů středních škol. Více informací naleznete&nbsp; 
-<a href="https://www.ochrance.cz/uploads-import/Obcanstvi_EU/UNHCR-Vzdelavani_v_CR-prirucka_pro_rodice.pdf">v&nbsp;příručce pro rodiče</a>.</li>
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/Obcanstvi_EU/UNHCR-Vzdelavani_v_CR-prirucka_pro_rodice.pdf">v&nbsp;příručce pro rodiče</a>.</li>
 <li>Univerzity – v&nbsp;České republice existuje několik vysokých škol a&nbsp;univerzit. Jejich seznam naleznete na stránkách 
 <a href="https://msmt.gov.cz/vzdelavani/vysoke-skolstvi/prehled-vysokych-skol-v-cr-3">Ministerstva školství, mládeže a tělovýchovy</a>&nbsp;( 
 <a href="http://www.msmt.cz/">www.msmt.cz</a>&nbsp;→ Vzdělávání → Vysoké školství → Přehled vysokých škol v&nbsp;ČR)</li>
@@ -416,8 +416,8 @@ title: Jsem občan Evropské unie
 <a href="https://archiv-nuv.npi.cz/t/cizinci-podpurna-opatreni.html">Národního ústavu pro vzdělávání</a> ( 
 <a href="http://www.nuv.cz/">www.nuv.cz</a>&nbsp; Témata → Společné vzdělávání → SVP, nadaní, cizinci → Děti/žáci–cizinci a&nbsp;děti/žáci s&nbsp;odlišným mateřským jazykem → Cizinci – podpůrná opatření).</li>
 <li>Přehledné informace o&nbsp;českém vzdělávacím systému naleznete&nbsp; 
-<a href="https://www.ochrance.cz/uploads-import/Obcanstvi_EU/UNHCR-Vzdelavani_v_CR-prirucka_pro_rodice.pdf">v&nbsp;této příručce</a>. Jak Vám může pomoct ombudsman v&nbsp;oblasti školství, se&nbsp;dozvíte v&nbsp;našem&nbsp; 
-<a href="https://www.ochrance.cz/uploads-import/Letaky/Skolstvi.pdf">letáku</a>.</li></ul>
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/Obcanstvi_EU/UNHCR-Vzdelavani_v_CR-prirucka_pro_rodice.pdf">v&nbsp;této příručce</a>. Jak Vám může pomoct ombudsman v&nbsp;oblasti školství, se&nbsp;dozvíte v&nbsp;našem&nbsp; 
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/Letaky/Skolstvi.pdf">letáku</a>.</li></ul>
 <h3>Bydlení</h3>
 <ul>
 <li>V&nbsp;ČR&nbsp;existují dva druhy bydlení – obecní a&nbsp;soukromé.</li>
@@ -425,14 +425,14 @@ title: Jsem občan Evropské unie
 <a href="https://www.policie.cz/clanek/oddeleni-pobytovych-agend.aspx">příslušnému odboru cizinecké policie</a>) v&nbsp;místě pobytu.</li>
 <li>V&nbsp;ČR&nbsp;máte možnost si&nbsp;koupit vlastní bydlení (byt, dům), popř. si&nbsp;byt nebo dům pronajmout. Bydlení můžete hledat buď sami, nebo se&nbsp;obrátit na&nbsp;realitní kancelář, která Vám s&nbsp;hledáním pomůže. Musíte však počítat s&nbsp;tím, že&nbsp;služby realitní kanceláře jsou placené. Proto se&nbsp;nejdříve informuje, jakou odměnu bude realitní kancelář za&nbsp;její služby požadovat.</li>
 <li>Nájem vzniká písemnou smlouvou mezi pronajímatelem a&nbsp;nájemcem (Vámi). Práva nájemců jsou chráněna občanským zákoníkem. Stručný přehled o&nbsp;nájmu obsahuje také náš&nbsp; 
-<a href="https://www.ochrance.cz/uploads-import/Letaky/Najem-bytu.pdf">leták</a>.</li>
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/Letaky/Najem-bytu.pdf">leták</a>.</li>
 <li>Pokud si&nbsp;chcete pořídit vlastní nemovitost, můžete se&nbsp;obrátit na&nbsp;některou z&nbsp;bank, která nabízí hypoteční služby.</li>
 <li>Více informací o nájmu bytu naleznete v 
 <a href="https://www.dtest.cz/clanek-5849/smlouva-o-najmu-bytu">článku dTestu</a>.</li>
 <li>Některá města nabízejí i&nbsp;tzv.&nbsp; 
 <strong>obecní bydlení</strong>, které slouží osobám s&nbsp;nižším finančním příjmem. Proto bývá nájem nižší. Informujte se&nbsp;v&nbsp;místě bydliště, zdali město tuto možnost nabízí a&nbsp;zdali splňujete podmínky, abyste se&nbsp;mohli ucházet o&nbsp;obecní byt.</li>
 <li>Více informací o&nbsp;obecním bydlení Vám poskytne náš&nbsp; 
-<a href="https://www.ochrance.cz/uploads-import/Letaky/Bydleni.pdf">informační leták</a>.</li></ul>
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/Letaky/Bydleni.pdf">informační leták</a>.</li></ul>
 
 
 {{< /rozbal >}}
@@ -465,7 +465,7 @@ title: Jsem občan Evropské unie
 
 <ul>
 <li>
-<a href="/uploads-import/DISKRIMINACE/pravni_predpisy/ADZ-2017.pdf">Antidiskriminační zákon</a></li>
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/DISKRIMINACE/pravni_predpisy/ADZ-2017.pdf">Antidiskriminační zákon</a></li>
 <li>
 <a href="http://eur-lex.europa.eu/legal-content/CS/TXT/?qid=1521463397727&amp;uri=CELEX:12012E/TXT">Smlouva o fungování Evropské unie</a></li>
 <li>

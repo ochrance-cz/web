@@ -1,0 +1,69 @@
+---
+// Text header with optional published date, tags, backlink and description.
+import { renderMarkdown } from '../lib/markdown';
+import { t } from '../lib/i18n';
+import FormattedDate from './FormattedDate.astro';
+import Tags from './Tags.astro';
+
+interface Props {
+  title: string;
+  date?: Date | string;
+  description?: string;
+  headerColor?: string;
+  headerIcon?: string;
+  tags?: string[];
+  locale?: 'cs' | 'en';
+  descriptionInfoIcon?: boolean;
+  descriptionIcon?: string;
+  /** Optional "back to …" link rendered above the description. */
+  backlink?: { href: string; label: string };
+}
+
+const {
+  title,
+  date,
+  description,
+  headerColor = '',
+  headerIcon,
+  tags = [],
+  locale = 'cs',
+  descriptionInfoIcon = false,
+  descriptionIcon,
+  backlink,
+} = Astro.props;
+
+const descHtml = description ? await renderMarkdown(description) : '';
+const sortDate =
+  date && !isNaN(new Date(date).getTime())
+    ? new Date(date).toISOString().slice(0, 10)
+    : undefined;
+---
+<div
+  class:list={['_backdrop', 'header', headerColor]}
+  data-pagefind-sort={sortDate ? `date:${sortDate}` : undefined}
+>
+  <header class="_text-header">
+    {headerIcon && (
+      <p><img src={headerIcon} width="50" /></p>
+    )}
+    {date && (
+      <p class="details" data-pagefind-ignore>
+        {t(locale, 'published')}
+        <FormattedDate date={date} locale={locale} />
+        <Tags tags={tags} />
+      </p>
+    )}
+
+    <h1>{title}</h1>
+    <div class="perex">
+      {backlink && (
+        <p><a href={backlink.href}>{backlink.label}</a></p>
+      )}
+
+      {descriptionIcon
+        ? <img class="_heading-image" src={descriptionIcon} alt="" aria-hidden="true" />
+        : <span class={descriptionInfoIcon ? 'icon-info' : ''} aria-hidden="true"></span>}
+      {descHtml && <Fragment set:html={descHtml} />}
+    </div>
+  </header>
+</div>

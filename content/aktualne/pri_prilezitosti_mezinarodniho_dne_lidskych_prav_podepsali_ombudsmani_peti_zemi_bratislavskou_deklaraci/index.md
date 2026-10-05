@@ -11,7 +11,7 @@ perex: <p>Veřejní ochránci práv z pěti&nbsp;různých států, včetně Če
   spolupráci a výměnu zkušeností.</p>
 attachments:
   - title: Bratislavská deklarace
-    file: https://www.ochrance.cz/aktualne/pri_prilezitosti_mezinarodniho_dne_lidskych_prav_podepsali_ombudsmani_peti_zemi_bratislavskou_deklaraci/bratislava_declaration.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/pri_prilezitosti_mezinarodniho_dne_lidskych_prav_podepsali_ombudsmani_peti_zemi_bratislavskou_deklaraci/bratislava_declaration.pdf
 ---
 <p>Slovenský ombudsman Róbert Dobrovodský včera přivítal v&nbsp;Bratislavě své kolegy z Ázerbájdžánu, Srbska, Gruzie a Česka. Stalo se tak u příležitosti mezinárodního minisummitu ombudsmanů.</p>
 <p>Vyvrcholením společného setkání byl podpis Bratislavské deklarace. Ta svým obsahem potvrzuje univerzální hodnotu lidských práv zakotvených v mezinárodních dokumentech a ústavách jednotlivých zemí.&nbsp;</p>
@@ -20,4 +20,4 @@ attachments:
 <a href="https://www.ochrance.cz/pusobnost/dohled-nad-omezovanim-osobni-svobody/">národních preventivních mechanismů (NPM)</a>. Jejich hlavní úkol v&nbsp;této roli spočívá v ochraně osob před mučením a jiným nelidským či ponižujícím zacházením.</p>
 <p>V závěru summitu obdržel veřejný ochránce práv Stanislav Křeček od Róberta Dobrovodského „Ďakovný list” za dlouholetou spolupráci, profesionální přístup a budování dobých vztahů mezi slovenskou a českou ombudsmanskou institucí, což přispělo k efektivnější ochraně občanů.</p>
 <figure class="image">
-<img src="https://www.ochrance.cz/aktualne/pri_prilezitosti_mezinarodniho_dne_lidskych_prav_podepsali_ombudsmani_peti_zemi_bratislavskou_deklaraci/mezinarodni_summit.png" alt="mezinarodni_summit.png"></figure>
+<img src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/pri_prilezitosti_mezinarodniho_dne_lidskych_prav_podepsali_ombudsmani_peti_zemi_bratislavskou_deklaraci/mezinarodni_summit.png" alt="mezinarodni_summit.png"></figure>

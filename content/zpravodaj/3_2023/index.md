@@ -4,7 +4,7 @@ month: 3
 year: 2023
 perex: ""
 author: ""
-file: https://www.ochrance.cz/zpravodaj/3_2023/zpravodaj-ombudsmana-3-2023.pdf
+file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/zpravodaj/3_2023/zpravodaj-ombudsmana-3-2023.pdf
 sections:
   - articles:
       - body: >
@@ -57,7 +57,7 @@ sections:
           <p>Starostka obce se k&nbsp;našim závěrům ani přes urgenci nevyjádřila. Situaci se podařilo vyřešit tím, že známý opatrované souhlasil s&nbsp;převzetím opatrovnictví. Přestože jsme šetření ukončili, doporučili jsme starostce obce několik opatření, pro případ, že by se v budoucnu opět stala opatrovnicí. Jedním z&nbsp;nich je absolvování vzdělání a zkoušky odborné způsobilosti pro výkon veřejného opatrovnictví.</p>
 
 
-          <p>Šetřený případ ilustruje neutěšenou situaci v&nbsp;oblasti veřejného opatrovnictví, na kterou jsme upozornili již ve Výroční zprávě ochránce za rok 2021 (<a href="https://www.ochrance.cz/dokument/zpravy_pro_poslaneckou_snemovnu_2021/vyrocni-zprava-2021.pdf">s. 11</a>).</p>
+          <p>Šetřený případ ilustruje neutěšenou situaci v&nbsp;oblasti veřejného opatrovnictví, na kterou jsme upozornili již ve Výroční zprávě ochránce za rok 2021 (<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/dokument/zpravy_pro_poslaneckou_snemovnu_2021/vyrocni-zprava-2021.pdf">s. 11</a>).</p>
         title: "Co (ne)může dělat veřejný opatrovník? "
         id: 6528/2020/VOP
         eso: https://eso.ochrance.cz/Nalezene/Edit/10850

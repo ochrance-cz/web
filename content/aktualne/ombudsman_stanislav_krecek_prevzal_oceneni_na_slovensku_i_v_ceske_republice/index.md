@@ -24,4 +24,4 @@ perex: <p>Hned dvě ocenění získal v&nbsp;krátkém časovém sledu ombudsman
 <strong>Stanislav Křeček</strong> zasvětil svůj profesní život nejen právu, ale i ochraně lidí, kteří se sami často nemohou bránit – mezi nimi zejména dětí.&nbsp; Jeho životní příběh zahrnuje studium geologie, výtvarného umění i práv. V 70. letech byl nucen opustit justici a pracoval jako dělník či horník. Po roce 1990 působil jako advokát, dlouholetý poslanec a předseda Sdružení nájemníků ČR. V roce 2013 byl zvolen zástupcem veřejného ochránce práv a od února 2020 zastává funkci veřejného ochránce práv.&nbsp;
 <br>Od mládí je také aktivním skautem – od roku 1953 je členem tehdy ilegálního skautského oddílu, nositelem skautských vyznamenání Stříbrná Syrinx a Medaile díků.</p></blockquote>
 <figure class="image">
-<img src="https://www.ochrance.cz/aktualne/ombudsman_stanislav_krecek_prevzal_oceneni_na_slovensku_i_v_ceske_republice/predavani_cen.png" alt="predavani_cen.png"></figure>
+<img src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/ombudsman_stanislav_krecek_prevzal_oceneni_na_slovensku_i_v_ceske_republice/predavani_cen.png" alt="predavani_cen.png"></figure>

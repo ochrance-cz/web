@@ -8,5 +8,5 @@ vystupy:
 attachmentsTop:
   - title: Usnesení poradního orgánu veřejného ochránce práv pro oblast ochrany práv
       osob se zdravotním postižením
-    file: https://www.ochrance.cz/dokument/usneseni_k_pristupnosti/usneseni_k_pristupnosti.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/dokument/usneseni_k_pristupnosti/usneseni_k_pristupnosti.pdf
 ---

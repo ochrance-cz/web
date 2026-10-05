@@ -5,5 +5,5 @@ vystupy:
   - vyzkumy
 attachmentsTop:
   - title: "Výzkum naplněnosti sbírky listin "
-    file: https://www.ochrance.cz/uploads-import/ESO/VL%20%20in%20%2064-12-VBG-PZV%C5%A0.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/VL%20%20in%20%2064-12-VBG-PZV%C5%A0.pdf
 ---

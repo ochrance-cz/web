@@ -20,7 +20,7 @@ perex: <p>Aktuálně rozšiřujeme náš IT tým v oblasti kybernetické bezpeč
 <li>řešit antivirovou problematiku,</li>
 <li>vykonávat činnost v&nbsp;oblasti projektů ICT spolufinancovaných ze zdrojů EU.</li></ul>
 <p>Bližší popis pracovní pozice i s&nbsp;ohledem na to, co může zajímat lidi se zdravotním omezením, najdete v&nbsp;
-<a href="/media/analytik_kyberneticke_bezpecnosti.pdf">tomto dokumentu</a>.</p>
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/media/analytik_kyberneticke_bezpecnosti.pdf">tomto dokumentu</a>.</p>
 <h4>
 <strong>Co od Vás požadujeme:</strong></h4>
 <ul>
@@ -50,7 +50,7 @@ perex: <p>Aktuálně rozšiřujeme náš IT tým v oblasti kybernetické bezpeč
 <li>příspěvek na stravování ve výši 96 Kč na den,</li>
 <li>práci v&nbsp;centru Brna s&nbsp;možností parkování.</li></ul>
 <p>Záleží nám na&nbsp;rozmanitosti. Jste vítáni bez ohledu na&nbsp;věk, pohlaví, zdravotní stav, rasu, etnický původ, národnost, sexuální orientaci, náboženské vyznání či&nbsp;světový názor. Jsme náročný, ale férový zaměstnavatel. Pokud vás zajímá blíže, jak to u nás chodí, koukněte do naší&nbsp;
-<a href="https://www.ochrance.cz/media/personalni_strategie.pdf">personální strategie</a>.</p>
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/media/personalni_strategie.pdf">personální strategie</a>.</p>
 <p>Jestli se k&nbsp;nám chcete připojit, napište nám na&nbsp;adresu&nbsp;
 <a href="mailto:michalcova@ochrance.cz">
 <strong>michalcova@ochrance.cz</strong></a>

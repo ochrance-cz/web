@@ -1,0 +1,21 @@
+---
+title: ČOI může trestat nekalé praktiky autobazarů
+date: 2010-07-16T00:00:00.000Z
+perex: Jestliže autobazar nabízí auto bez konkrétního a jasně srozumitelného
+  poučení kupujícího, že stav tachometru nemusí odpovídat počtu skutečně
+  najetých kilometrů, jedná se podle zástupkyně ochránce o klamavou obchodní
+  praktiku.
+kategorie:
+  - tz
+---
+Na zástupkyni ochránce se obrátilo několik občanů se stížností na nečinnost ČOI, která nepostihla autobazary za poskytování zkreslených informací o stavu ojetého vozidla. Jednalo se zejména o udávání stavu tachometru, resp. počtu najetých kilometrů. Tyto případy nedávaly možnost systémového řešení, proto zahájila zástupkyně ochránce šetření z vlastní iniciativy.
+
+Jestliže autobazar nabízí auto bez konkrétního a jasně srozumitelného poučení kupujícího, že stav tachometru nemusí odpovídat počtu skutečně najetých kilometrů, jedná se podle zástupkyně ochránce o klamavou obchodní praktiku. Prodejce se své odpovědnosti za vlastnosti nabízeného zboží nemůže zbavit tím, že např. v prodejně vyvěsí obecnou informaci, že neodpovídá za stav tachometru.
+
+Průměrný spotřebitel vychází podle zástupkyně ochránce z toho, že stav tachometru odpovídá počtu najetých kilometrů. Ve skutečnosti se však jedná o dva zcela odlišné údaje. Jestliže bazar neupozorní kupujícího na případný rozpor údajů, dopouští se nekalých obchodních praktik, tj. chování, jehož podstatou je cílená snaha nepravdivým či nesprávným údajem uvést spotřebitele v omyl a přimět ho k uzavření smlouvy, k níž by se jinak nezavázal. Údaj o najetých kilometrech je důležitou a podstatnou informací, která vypovídá o míře opotřebení vozidla a hraje významnou roli v rozhodování o koupi vozu.
+
+Z výsledků šetření zástupkyně ochránce vyplynulo, že rozsah působnosti ČOI se může uplatňovat v mnohem větší šíři. ČOI by se neměla omezovat pouze na prověřování formálního vyřizování reklamací, ale může šetřit i klamavé jednání a nekalé obchodní praktiky.
+
+Česká obchodní inspekce (ČOI) přistoupila na doporučení zástupkyně ochránce s tím, že bude stížnosti kupujících na postup autobazarů šetřit jako možnou nekalou obchodní praktiku. ČOI se rovněž zaměří na kupní smlouvy bazarů. Pokud totiž autobazar uvede v kupní smlouvě stav tachometru a současně se zaváže, že stav vozidla odpovídá jeho opotřebení a počtu najetých kilometrů, je možné z toho dovodit, že tachometr ukazuje skutečný počet najetých kilometrů. Jestliže by se ukázalo, že tyto údaje nebyly shodné a stav tachometru neodpovídal počtu najetých kilometrů, jednalo by se ze strany autobazaru o porušení zákona o ochraně spotřebitele. ČOI by takové jednání sankcionovala jako nekalou obchodní praktiku. Současně bude ČOI stěžovatele v takových případech upozorňovat na možnost odstoupit od kupní smlouvy.
+
+Zástupkyně ochránce v této souvislosti upozorňuje, že je třeba rozlišovat případy, kdy je autobazar prodávajícím a kdy pouze zprostředkovatelem. Jestliže prodávající uzavře s autobazarem smlouvu o zprostředkování, bazar se zaváže vyhledat vhodné zájemce, ale bez písemné plné moci není oprávněn za prodávajícího uzavřít kupní smlouvu. I s touto plnou mocí však odpovědnost za pravdivost údajů ve smlouvě nese prodávající. Pokud však autobazar převzal automobil do prodeje na základě smlouvy o obstarání prodeje, může s kupujícím uzavřít kupní smlouvu svým jménem a jako prodejce odpovídá kupujícímu za vlastnosti a vady vozu ve smlouvě uvedené.

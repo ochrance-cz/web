@@ -44,7 +44,7 @@ attachments:
 <br>
 <strong>8.&nbsp;</strong>&nbsp;&nbsp;&nbsp; 
 <strong>Nahrávku poskytněte pouze orgánům oprávněným ji posoudit</strong> (o koho jde právě ve vašem případě, zjistíte v 
-<a href="https://www.ochrance.cz/letaky/zdravotnictvi-stiznosti/zdravotnictvi-stiznosti.pdf">letáku ombudsmana Zdravotnictví: Stížnosti ve zdravotnictví</a>)&nbsp;
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/zdravotnictvi-stiznosti/zdravotnictvi-stiznosti.pdf">letáku ombudsmana Zdravotnictví: Stížnosti ve zdravotnictví</a>)&nbsp;
 <br>
 <strong>9.</strong>&nbsp;&nbsp;&nbsp;&nbsp; 
 <strong>Nahrávku nezveřejňujte ani jinak nešiřte. &nbsp;</strong>&nbsp;

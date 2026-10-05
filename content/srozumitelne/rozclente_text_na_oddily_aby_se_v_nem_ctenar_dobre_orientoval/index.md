@@ -8,13 +8,13 @@ Na první pohled: který text byste si přečetli radši?
 
 {{% nevhodne %}}
 
-![Pohled na jednolitou masu textu.](https://www.ochrance.cz/srozumitelne/rozclente_text_na_oddily_aby_se_v_nem_ctenar_dobre_orientoval/masa_textu.png)
+![Pohled na jednolitou masu textu.](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/srozumitelne/rozclente_text_na_oddily_aby_se_v_nem_ctenar_dobre_orientoval/masa_textu.png)
 
 {{% /nevhodne %}}
 
 {{% vhodne %}}
 
-![Text s krátkými odstavci členěný nadpisy a zarovnaný vlevo. Odkazy jsou v poznámkách pod čarou.](https://www.ochrance.cz/srozumitelne/rozclente_text_na_oddily_aby_se_v_nem_ctenar_dobre_orientoval/struktura.png)
+![Text s krátkými odstavci členěný nadpisy a zarovnaný vlevo. Odkazy jsou v poznámkách pod čarou.](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/srozumitelne/rozclente_text_na_oddily_aby_se_v_nem_ctenar_dobre_orientoval/struktura.png)
 
 {{% /vhodne %}}
 

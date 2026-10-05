@@ -1,0 +1,27 @@
+---
+// Renders a list of links. Items carry href (file|link) and a label (text|title).
+export interface LinkListItem {
+  title?: string;
+  text?: string;
+  link?: string;
+  file?: string;
+}
+
+interface Props {
+  items?: LinkListItem[];
+}
+
+const { items = [] } = Astro.props;
+
+function href(item: LinkListItem): string {
+  return (item.file ?? item.link ?? '') as string;
+}
+function label(item: LinkListItem): string {
+  return (item.text ?? item.title ?? '') as string;
+}
+---
+<ul class="_link-list">
+  {items.map((item) => (
+    <li><a href={href(item)}>{label(item)}</a></li>
+  ))}
+</ul>

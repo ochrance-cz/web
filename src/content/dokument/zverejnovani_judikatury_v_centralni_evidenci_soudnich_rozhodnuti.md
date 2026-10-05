@@ -1,0 +1,8 @@
+---
+title: "Zveřejňování judikatury v centrální evidenci soudních rozhodnutí "
+date: 2016-11-07T14:43:16.339Z
+vystupy:
+  - vyzkumy
+---
+
+- [Zveřejňování judikatury v centrální evidenci soudních rozhodnutí ](<https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/4292-15-JHO-vysledky_vyzkumu__849056_.pdf>)

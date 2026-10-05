@@ -1,0 +1,36 @@
+---
+title: Sourozenci mají právo vyrůstat spolu
+date: 2018-01-24T00:00:00.000Z
+perex: Pěstounská rodina pečovala o skupinu pěti sourozenců. Děti byly v rodině
+  tři roky. Měly velmi silné vazby na pěstouny i širší rodinu. Dle zpráv orgánu
+  sociálně-právní ochrany dětí (OSPOD) fungovala péče bez jakýchkoli problémů.
+  V rodině bohužel došlo k tragickému úmrtí nejstaršího ze sourozenců. Následně
+  byli sourozenci na základně předběžného opatření z rodiny odňati a rozděleni.
+  Děti ztratily kontakt s pěstouny i mezi sebou navzájem. Z šetření ombudsmanky
+  vyplynulo, že tak závažný zásah do rodinného života dětí nebyl nezbytný.
+  Shledala v práci OSPOD sérii závažných pochybení.
+kategorie:
+  - tz
+---
+K úmrtí v rodině došlo shodou nešťastných okolností v důsledku potyčky dvou chlapců. Na straně pěstounů nebylo shledáno žádné provinění. Jejich tříletou péči hodnotil kladně jak OSPOD, tak krajský úřad, který zprostředkoval pěstounskou péči. Přesto podal OSPOD návrh na odebrání dětí z rodiny a zároveň na rozdělení sourozenců. Byť lze pochopit předběžnou opatrnost, mohl děti dočasně svěřit členům širší rodiny pěstounů, kteří nabídli svou pomoc a měli s dětmi velmi dobré vztahy.
+
+Děti tímto krokem ztratily kontakt s pěstouny, na které si vypěstovaly silné vazby. Jejich setrvání v rodině přitom od počátku podporovala také psycholožka, která je měl v péči. Pěstouni získali až po dvou měsících kontakt pouze se staršími sourozenci a to pouze jednou za měsíc. S mladšími se neviděli vůbec.
+
+Děti byly rozděleny po dvou k různým pěstounům a OSPOD jim nezajistil vzájemný a pravidelný kontakt. Vztah mezi sourozenci je přitom předmětem ústavněprávní i mezinárodněprávní ochrany. Také podle Směrnice OSN o náhradní péči o děti by sourozenci mimo závažných případů neměli být oddělováni.
+
+Příslušný OSPOD dokonce následně podal odvolání proti rozsudku prvoinstančního soudu proti výroku o stanovení styku dětí s původními pěstouny. Odvolací soud vyhověl a došlo tak k úplnému zpřetrhání vazeb dětí na původní pěstounskou rodinu. OSPOD ani v tomto ohledu nehájil nejlepší zájem dětí.
+
+„*Podání návrhu OSPOD na nařízení předběžného opatření o odebrání dětí z původní pěstounské rodiny pokládám za nesprávný. Zejména proto, že děti byly velmi silně citově vázány k pěstounům a dále proto, že došlo k rozdělení pevné sourozenecké skupiny. Nadto následně došlo mezi sourozenci i k nepřípustnému přetrhání kontaktů. Stejně tak došlo k přetrhání kontaktu dětí s původní pěstounskou rodinou,*“ dodává ombudsmanka Anna Šabatová.
+
+V tomto případě pochybil nejen příslušný OSPOD, ale také magistrát a krajský úřad. Každý však jinou měrou. Sourozence po několika letech sporů již nebylo možné vrátit do původní pěstounské rodiny. Na základě šetření ombudsmanky zpracoval příslušný OSPOD, ale i jeho nadřízený krajský úřad, systémová opatření, která by měla podobným excesům do budoucna zabránit.
+
+##### Přijatá opatření:
+
+ 
+
+-   Pracovníci OSPOD budou přistupovat k odebrání dětí z původního rodinného prostředí pouze ve velmi výjimečných případech, a to na základě důkladného vyhodnocení situace v rodině, kdy ze zjištěných skutečností vyplyne bezprostřední ohrožení dítěte.
+-   Pracovníci OSPOD budou v případech nutnosti umístění dítěte mimo rodinu vždy jako první kontaktovat širší rodinu nebo blízké příbuzné, případně další osoby rodině blízké, které jsou s dětmi v kontaktu a znají se s nimi.
+-   Primárním zájmem ze strany sociálních pracovníků OSPOD je zachování sourozenecké vazby.
+-   Pravidelný a dostatečný kontakt sourozenců v případě jejich rozdělení OSPOD vždy „nastaví“ v rámci případové konference nebo v rámci „případového setkání“.
+-   Taktéž případné kontakty bývalých pěstounů s dětmi OSPOD nastaví nejpozději do 1 měsíce od vydání usnesení o předběžném opatření v rámci případové konference za účasti všech participujících.
+-   V případě záměru zvýšení počtu dětí svěřených do pěstounské rodiny bude OSPOD informovat krajský úřad, který prováděl původní posouzení pěstounů, a svěření dalších dětí s ním bude konzultovat.

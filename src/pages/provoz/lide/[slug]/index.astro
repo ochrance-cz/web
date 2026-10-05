@@ -1,0 +1,22 @@
+---
+import { getCollection } from 'astro:content';
+import SingleLayout from '../../../../layouts/SingleLayout.astro';
+
+export async function getStaticPaths() {
+  return (await getCollection('lide')).map(person => ({ params: { slug: person.id }, props: { person } }));
+}
+const { person } = Astro.props;
+const departmentId = typeof person.data.department === 'string' ? person.data.department : person.data.department.id;
+const department = (await getCollection('oddeleni')).find(entry => entry.id === departmentId);
+const visible = person.data.visible !== false;
+---
+<SingleLayout title={visible ? person.data.title : 'Archivovaný kontakt'} lang="cs" noIndex canonical={new URL('/provoz/kontakty/', Astro.site).href} header={{ backlink: { href: '/provoz/kontakty/', label: 'Kontakty' } }}>
+  {visible ? <section class="_provoz-section">
+    {department && <h2>{department.data.title}</h2>}
+    <ul class="_provoz-people"><li>
+      <strong>{person.data.title}</strong>{person.data.role && <span>, {person.data.role}</span>}
+      {person.data.phone && <span><br />telefon: {person.data.phone}</span>}
+      {person.data.email && <span><br />e-mail: <a href={`mailto:${person.data.email}`}>{person.data.email}</a></span>}
+    </li></ul>
+  </section> : <p>Tento kontakt je archivovaný a na stránce Kontaktů se nezobrazuje.</p>}
+</SingleLayout>

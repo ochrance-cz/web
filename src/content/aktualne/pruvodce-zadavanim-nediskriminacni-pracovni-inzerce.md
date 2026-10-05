@@ -1,0 +1,16 @@
+---
+title: Průvodce zadáváním nediskriminační pracovní inzerce
+date: 2011-08-01T00:00:00.000Z
+perex: Spolupráce ombudsmana s provozovatelem pracovních portálů jobs.cz
+  a prace.cz přináší zaměstnavatelům pomůcku pro zadávání náborových inzerátů,
+  které nediskriminují a naopak jim mohou přivést nové kvalitní zaměstnance.
+kategorie:
+  - tz
+---
+Doporučení veřejného ochránce práv k vyloučení projevů diskriminace v pracovní inzerci padlo na úrodnou půdu. Prakticky okamžitě po jeho vydání se na ochránce začaly obracet personální agentury a provozovatelé portálů s pracovní inzercí s žádostmi o poskytnutí stanoviska a s konkrétními dotazy na jeho využití. Jejich zájem byl veden jasným cílem – seznámit se s tím, co je či není diskriminace, a jaké požadavky zaměstnavatelů či formulace inzerátů mohou mít diskriminační charakter.
+
+Konkrétním výsledkem praktického využití doporučení ombudsmana je projekt provozovatele pracovních portálů jobs.cz a práce.cz (společnost LMC, s. r. o.), který se vydal cestou kultivace a vzdělávání zaměstnavatelů zveřejňujících nabídky práce na těchto portálech. Ve spolupráci s ombudsmanem připravil průvodce férovým náborem zaměstnanců, který je od 1. srpna dostupný na adrese [www.lmc.eu/ferove](http://www.lmc.eu/ferove "Otevření do nového okna")  a také prostřednictvím systému pro správu náborového procesu LMC G2.
+
+Přehledný průvodce ukáže zadavatelům inzerátů, jakým formulacím by se měli vyhnout, a vysvětlí jim také proč. Pro snadné pochopení nabízí srovnání vhodných formulací s diskriminačními a uvádí modelové příklady, jak by „férový“ inzerát mohl vypadat. Zaměstnavatelé by si touto cestou, přímo při zadávání inzerátů, měli postupně osvojit pravidla rovného zacházení a být si vědomi nejen rizik (v případě diskriminace mohou čelit žalobě pro porušení antidiskriminačního zákona), ale také přínosu v podobě konkurenční výhody a zvýšení prestiže firmy.
+
+Zaměstnanci oceňují rovný přístup a zaměstnavatel, který dodržuje zákony a nediskriminuje, má mnohem lepší možnosti výběru kvalitních zaměstnanců. Osvojení pravidel rovného zacházení by zaměstnavatele mělo přivést k poznání, že nediskriminační jednání je nijak neomezuje ve výběru kvalitních zaměstnanců, naopak jim přináší mnohem lepší postavení na pracovním trhu.

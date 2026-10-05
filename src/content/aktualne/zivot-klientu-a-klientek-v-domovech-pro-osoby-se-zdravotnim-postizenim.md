@@ -1,0 +1,29 @@
+---
+title: Život klientů a klientek v domovech pro osoby se zdravotním postižením
+date: 2021-02-11T00:00:00.000Z
+perex: Životem klientek a klientů v domovech pro osoby se zdravotním postižením
+  se ombudsman zabývá již od roku 2006. Jelikož z dlouhodobých poznatků vyplývá,
+  že realizace práv garantovaných Úmluvou o právech osob se zdravotním
+  postižením není naplňována, rozhodla se zástupkyně ombudsmana Monika Šimůnková
+  systematicky zmapovat situaci v domovech pro osoby se zdravotním postižením
+  (DOZP). Tématy výzkumu byly především otázky týkající se nastavení služby pro
+  nezletilé, zaměstnávání klientů a zajištění zdravotní péče. Na základě
+  výsledků šetření budou připravena doporučení pro tato zařízení. Osloveny byly
+  všechny dané služby registrované k červnu 2019. Tři čtvrtiny z nich se výzkumu
+  zúčastnilo, celkem tedy 156 zařízení.
+kategorie:
+  - tz
+---
+Domovy pro osoby se zdravotním postižením poskytují podle zákona o sociálních službách pobytové sociální služby lidem, kteří mají z důvodu zdravotního postižení sníženou soběstačnost a jejichž situace vyžaduje pravidelnou pomoc jiné fyzické́ osoby. V DOZP žije v současnosti více než devět tisíc osob. Většinu z nich zřizují kraje nebo obce. Sběr dat probíhal na podzim roku 2019. 
+
+“Podle Úmluvy o právech osob se zdravotním postižením (dále jen Úmluva) mají lidé s postižením právo zvolit si, kde a s kým budou žít. Měli by mít přístup ke službám poskytovaným v domácím prostředí. Nezávislý způsob života v přirozeném prostředí je cílem probíhajícího procesu deinstitucionalizace pobytových sociálních služeb. Byť v tomto ohledu došlo k určitému posunu, stále bohužel přetrvává institucionální způsob péče, tedy spíše velká zařízení nemocničního typu. V zařízení jsou tak i lidé, kteří by s menší podporou zvládli běžný život mimo zařízení. Právě velikost zařízení byla také limitující při řešení epidemie, kdy klienti zůstali po dlouhou dobu izolováni od okolního světa,” vysvětluje zástupkyně ombudsmana Monika Šimůnková.  
+
+"Zatímco jednotlivá zařízení pracují, jak nejlépe mohou, problémem je samotné nastavení systému s preferencí velkých zařízení, což je odpovědností Ministerstva práce a sociálních věcí (MPSV). Pokud MPSV například doporučuje maximální kapacitu těchto domovů na dvanáct klientů, pak z našeho výzkumu vyplývá, že více než osmdesát procent zařízení tuto kapacitu významně překračuje,” uvádí zástupkyně ombudsmana.  
+
+“Co se týče dětí v těchto zařízeních bohužel často postrádáme spolupráci zařízení a orgánů sociálně-právní ochrany dětí, které by se měly zabývat jejich situací, zejména v případech, které se týkají odchodů dětí z těchto zařízení do náhradní péče nebo zpět do jejich rodin. Jak jsme dále zjistili, většina dětí žije ve velkých zařízeních, která mají daleko k rodinnému prostředí. Ve třinácti zařízeních se dokonce nacházelo pouze jedno nebo dvě děti mezi samými dospělými. V takových případech reálně hrozí, že jsou děti izolovány od svých vrstevníků.  Jen třetina dětí se navrátí do rodiny nebo nalezne náhradní rodinnou péči. V těchto věcech máme vůči dětem stále obrovský dluh,” říká Monika Šimůnková.    
+
+Svůj výzkum v zařízeních DOZP dokončila také organizace Rytmus, která pomáhá lidem s postižením vést běžný život. Zabývala se pohledem klientů, které dotazovali sami lidé s mentálním postižením. Jednou ze sledovaných oblastí bylo zaměstnávání lidí s postižením: “Klienti v DOZP obvykle nemají představu o tom, co to vůbec práce je, že by měla být smluvně ošetřena a měla by za ni být vyplacena adekvátní mzda. Prací se v těchto zařízeních obvykle myslí jakákoli pravidelná činnost, bez ohledu na její společenský význam, smluvní vztahy nebo mzdu. Může mít podobu výpomoci v kuchyni nebo na zahradě a odměnou bývá třeba kapesné. Častěji však klienti navštěvují chráněné dílny bez nároku na mzdu,” přibližuje podmínky pracujících Štěpán Matuška z organizace Rytmus, který se na výzkumu podílel. 
+
+##### Výzkumná zpráva:
+
+[https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/CRPD/Vyzkumy/6-2019-domovy-pro-osoby-s-postizenim.pdf](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/CRPD/Vyzkumy/6-2019-domovy-pro-osoby-s-postizenim.pdf)

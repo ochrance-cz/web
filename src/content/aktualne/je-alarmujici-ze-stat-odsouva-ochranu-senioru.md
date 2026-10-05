@@ -1,0 +1,20 @@
+---
+title: Je alarmující, že stát odsouvá ochranu seniorů
+date: 2019-07-23T00:00:00.000Z
+perex: Vláda včera přijala nesouhlasné stanovisko k poslaneckému návrhu, který
+  navrhoval zavést přestupek v sociálních službách za špatné zacházení.
+  Ombudsmanka s důvody odmítnutí nesouhlasí a nepovažuje za šťastné, aby vláda
+  čekala se zavedením přestupku až do roku 2021, kdy je plánována účinnost
+  přislíbené připravované vládní novely.
+kategorie:
+  - tz
+---
+Ombudsmanka dlouhodobě upozorňuje, že by špatné zacházení v sociálních službách mělo být přestupkem. Pokud totiž policie dojde k závěru, že jednání ze strany zařízení nedosahuje intenzity trestného činu, celá věc tím končí, přestože mohlo jít o závažný zásah do důstojnosti, soukromí, o ponižující zacházení aj. Stát by měl konečně začít práva seniorů a nemocných v zařízeních efektivně chránit.
+
+Na rozdíl od vlády je ombudsmanka přesvědčena, že po 13 letech účinnosti standardů v sociálních službách nelze pochybovat o tom, že by kontrolní orgány nerozpoznaly, co je zásahem do důstojnosti nebo soukromí klienta zařízení sociálních služeb. Odsunutím možnosti uložit sankci za špatné zacházení se nejméně na další dva roky fakticky „zmrazí“ možnost křehké seniory účinně chránit.
+
+Sociální služby se dlouhodobě potýkají s problémy. Poskytovatelům chybí finanční prostředky na zlepšování materiálních podmínek i na zajištění personálu. Platy v sociálních službách nejsou konkurenceschopné a zařízení už několik let nedokážou sehnat nejen dost personálu, ale nemohou sehnat zejména kvalifikované pracovníky, zejména v přímé péči nebo zdravotní sestry. Ombudsmanka přitom na základě  [poznatků ze systematických návštěv](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/7-2013-NZ-Zprava_z_navstev.pdf "Otevření do nového okna") (797.6 kB, Adobe Acrobat dokument) zařízení sociálních služeb dlouhodobě upozorňuje, že právě nedostatek personálu bývá často příčinou zásahů do důstojnosti a soukromí klientů a vede k omezování jejich práv.
+
+Ve špatném stavu je i  inspekce kvality sociálních služeb MPSV. Mezi jiným i v důsledku ukončení spolupráce s externími odborníky na danou oblast se rapidně snížil počet provedených inspekcí. Zatímco v roce 2017 bylo provedeno 305 inspekcí ve 166 pobytových zařízeních, o rok později jich bylo už jen 222 v 93 pobytových zařízeních. V letošním roce nastává další pokles, v prvním pololetí bylo provedeno jen 72 inspekcí ve 43 zařízeních. Ani tímto způsobem tak není zaručena kvalita sociálních služeb, ani dostatečná úroveň ochrany práv seniorů.
+
+Statistická ročenka MPSV uvádí, že na konci roku 2017 bylo v pobytových sociálních službách 76 148 osob, z toho více než 15 000 trvale upoutaných na lůžko. Podle ombudsmanky je alarmující, že těmto seniorům stát nedokáže zaručit důstojné zacházení, když chybí dostatečné materiální a personální zajištění sociálních služeb, chybí zajištění fungující a efektivní inspekce a nyní se nejméně na další dva roky má odsunout i možnost sankce za špatné zacházení.

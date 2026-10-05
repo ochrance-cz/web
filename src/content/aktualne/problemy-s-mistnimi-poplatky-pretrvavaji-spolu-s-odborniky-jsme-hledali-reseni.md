@@ -1,0 +1,24 @@
+---
+title: Problémy s místními poplatky přetrvávají. Spolu s odborníky jsme hledali řešení
+date: 2015-06-29T00:00:00.000Z
+perex: O aktuálních problémech správy místních poplatků jsme diskutovali se
+  zástupci Ministerstva financí, krajských a obecních úřadů i akademické obce.
+  Na kulatém stole pořádaném 19. června jsme se dotkli témat jako vyměřování
+  poplatku za komunální odpad nezletilým a jeho následného vymáhání, nebo
+  problémů spojených s místním poplatkem z ubytovací kapacity.
+kategorie:
+  - tz
+---
+Již Otakar Motejl v roce 2008 upozornil na problematičnost vyměřování poplatku za komunální odpad nemajetným nezletilým dětem bez možnosti vymáhat ho na jejich rodičích. Od roku 2013 právní úprava umožňuje vyměřit poplatek zákonným zástupcům dítěte, proto doporučujeme, aby již obecní úřady poplatek nevyměřovaly dětem (až na odůvodněné výjimky), ale oběma zákonným zástupcům dítěte společně a nerozdílně.
+
+Aktuálně probíhají exekuce k vymožení starších nedoplatků dětí. Nejvyšší správní soud však v listopadu 2014 [dospěl k závěru](http://www.nssoud.cz/files/SOUDNI_VYKON/2014/0116_1As__1400029_20150121072956_prevedeno.pdf "Otevření do nového okna") , že poplatek není řádně vyměřen, pokud obecní úřad v daňovém řízení jednal se zákonným zástupcem dítěte, jehož zájmy odporovaly zájmům dítěte (například u nařízené ústavní výchovy dětí). Exekuční řízení, v nichž se vymáhají vadně vyměřené poplatky, je třeba zastavit. Diskutovali jsme rovněž o [povinnosti obecního úřadu](http://portal.gov.cz/app/zakony/zakonPar.jsp?page=0&idBiblio=48272&recShow=11&nr=359~2F1999&rpp=15#parCnt "Otevření do nového okna") , vázaného jinak mlčenlivostí podle daňového řádu, informovat orgány sociálně-právní ochrany dětí o dluhu dítěte.
+
+##### Postup úřadů při vymáhání nedoplatků
+
+Obecní úřady jsou oprávněné nedoplatky na místních poplatcích vymáhat daňovou exekucí, mohou však využít i soudních exekutorů. Debatovali jsme proto o tom, jak vykládat jejich povinnost vymáhat nedoplatek tak, aby náklady nebyly ve zjevném nepoměru k samotnému nedoplatku. Pokud mohou nedoplatek vymoci srážkami ze mzdy nebo postižením účtu u banky, měly by se o to obecní úřady pokusit. Pokud to není možné, mohou se obrátit na soudního exekutora, nicméně bez zapojení advokáta. Zástupci Olomouce a Jihlavy uvedli, že přesně tak jejich města v současnosti postupují.
+
+Odpolední část se věnovala ostatním místním poplatkům. Nejvíce se mluvilo o místním poplatku z ubytovací kapacity, konkrétně o problematičnosti zpoplatnění lůžek v ubytovnách obsazených lidmi, kteří v nich fakticky trvale bydlí.
+
+Cílem kulatého stolu o správě místních poplatků bylo nejenom identifikovat problematické momenty v praxi úřadů, ale také pokusit se nalézt možná východiska. *„Jsme rádi, že si odborná veřejnost vyměnila zkušenosti z různorodých praxí, a že zazněly návrhy na možná řešení problematických situací s využitím do budoucna,“* uzavírá organizátorka Radka Kloudová z Kanceláře veřejného ochránce práv.
+
+Pro veřejnost jsme na toto téma připravili zjednodušený návod se zásadami placení místního poplatku za komunální odpad.

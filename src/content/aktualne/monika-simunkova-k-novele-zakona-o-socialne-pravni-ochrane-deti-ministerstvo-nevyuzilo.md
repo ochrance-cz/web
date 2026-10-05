@@ -1,0 +1,26 @@
+---
+title: "Monika Šimůnková k novele zákona o sociálně-právní ochraně dětí:
+  ministerstvo nevyužilo šanci sjednotit péči"
+date: 2020-01-30T00:00:00.000Z
+perex: Ombudsman již od roku 2006 upozorňuje na roztříštěnost péče o ohrožené
+  děti. Situace se v této oblasti bohužel příliš nezlepšuje. V současnosti
+  ombudsman připomínkuje návrh novely zákona o sociálně-právní ochraně dětí,
+  který předkládá Ministerstvo práce a sociálních věcí. Zástupkyně ombudsmanky
+  Monika Šimůnková upozorňuje na některé problematické body navrhovaného zákona.
+  Ty se týkají například zajištění dostupnosti psychologické péče v zařízeních
+  pro děti vyžadující okamžitou pomoc nebo problematické úpravy odměny
+  pěstouna-prarodiče.
+kategorie:
+  - tz
+---
+„Dlouhodobě upozorňujeme, že systém péče o ohrožené děti je roztříštěný. A na to doplácejí především samotné děti. V závislosti na tom, do jakého zařízení je dítě umístěno, se odvíjí také to, podle jakého zákona s ním bude zacházeno. MPSV ve svém aktuálním návrhu nevyužilo šanci sjednotit péči o děti alespoň v těch institucích, které pod něj spadají, což jsou zařízení pro děti vyžadující okamžitou pomoc (ZDVOP) a domovy pro osoby se zdravotním postižením (DOZP) upravené v zákoně o sociálních službách,“ říká zástupkyně ombudsmanky Monika Šimůnková.
+
+Jedna z připomínek připravované novely zákona se týká zajištění psychologické pomoci dětem umístěným ve ZDVOP na základě smlouvy. V navrhovaném zákoně je totiž stanoveno pouze poskytnutí zdravotních služeb. „Velká část dětí žijících v zařízeních pro děti vyžadující okamžitou pomoc vyžaduje akutní, intenzivní a pravidelnou psychologickou péči. Tyto děti často přicházejí z velmi konfliktního prostředí a prošly si mnohdy traumaty, která si ani neumíme představit. Proto musí zákon pamatovat na zajištění psychologické péče,“ vysvětluje Monika Šimůnková.
+
+Další zásadní připomínka se týká odměny pěstouna-prarodiče. Současná zákonná úprava stanovuje, že odměna pěstouna náleží prarodiči pouze v případě hodném zvláštního zřetele. Praxe však ukázala, že posuzování tohoto „zvláštního zřetele“, a tedy poskytnutí odměny pěstounovi, se liší nejen mezi jednotlivými kraji, ale dokonce i v rámci nich. „Pěstoun-prarodič dnes nemá jistotu, zda a za jakých podmínek má na tuto odměnu nárok. MPSV v minulosti tyto problémy připouštělo a slibovalo nápravu v novém zákoně. Stávající návrh však bohužel toto nejasné vymezení zachovává,“ doplňuje Monika Šimůnková.
+
+Jiná připomínka se týká pobytu dítěte ve ZDVOP na základě smlouvy. Dítě se do zařízení může dostat rozhodnutím soudu, nebo se souhlasem rodiče či osoby odpovědné za výchovu dítěte, přičemž žádost o umístění může podat i dítě. Pobyt na základě rozhodnutí soudu slouží jako výchovné nebo preventivní opatření. Smluvní pobyt se naopak blíží pobytové sociální službě a je založen na titulu soukromoprávním.
+
+„Navzdory rozdílné povaze obou režimů lze předpokládat, že se zařízení nebudou stavebně ani organizačně členit na dvě části. Nebylo by to ostatně ani vhodné. Je však problematické, že návrh zákona nijak neupravuje pobyt dítěte na základě smlouvy. V obou případech je třeba zajistit ochranu dítěte stejně jako jeho práva. To by měl vymezit právě zákon a smlouva by pak měla být sjednána v těchto zákonem stanovených mezích,“ vysvětluje nedostatky novely zákona o sociálně-právní ochraně dětí Monika Šimůnková. 
+
+Tyto a další připomínky budou projednány v pondělí 3. února na Ministerstvu práce a sociálních věcí.

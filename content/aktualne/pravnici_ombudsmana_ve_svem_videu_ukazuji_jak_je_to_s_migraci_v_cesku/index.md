@@ -9,7 +9,7 @@ perex: Téma migrace se dlouhodobě často objevuje v médiích i ve veřejné d
   rozdíl mezi migrantem a uprchlíkem? Tušili jste, že nelegálně pobývající
   cizinci tvoří asi 1 % z celkového počtu cizinců v ČR?
 attachments:
-  - file: https://www.ochrance.cz/aktualne/pravnici_ombudsmana_ve_svem_videu_ukazuji_jak_je_to_s_migraci_v_cesku/migrace_v_cr-fakta_a_cisla.pdf
+  - file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/pravnici_ombudsmana_ve_svem_videu_ukazuji_jak_je_to_s_migraci_v_cesku/migrace_v_cr-fakta_a_cisla.pdf
     title: Migrace v ČR - Fakta a čísla
 ---
 

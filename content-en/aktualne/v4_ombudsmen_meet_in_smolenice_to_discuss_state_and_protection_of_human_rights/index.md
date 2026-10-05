@@ -21,6 +21,6 @@ perex: >
 
 <p>They will also deal with the current challenges and experiences of the V4 countries with the performance of the mandate of the National Preventive Mechanism.&nbsp;Specifically, how it works in facilities where persons are deprived of their liberty, the human rights challenges posed by migratory flows, and more.&nbsp;</p>
 
-<p><img alt="v4_en_web.jpg" src="https://www.ochrance.cz/en/aktualne/v4_ombudsmen_meet_in_smolenice_to_discuss_state_and_protection_of_human_rights/v4_en_web.jpg" /></p>
+<p><img alt="v4_en_web.jpg" src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/en/aktualne/v4_ombudsmen_meet_in_smolenice_to_discuss_state_and_protection_of_human_rights/v4_en_web.jpg" /></p>
 
 <p>&nbsp;</p>

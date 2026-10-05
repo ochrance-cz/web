@@ -11,4 +11,4 @@ perex:
 
 <!-- imported from the old website -->
 
-<p>Do budovy bude možné vstoupit vchodem pro lidi s postižením v podloubí budovy u parkoviště vpravo od schodů (při pohledu na budovu). S další orientací v budově pomůže asistent-informátor za dveřmi provizorního vstupu.</p><p><img src="/uploads-import/uploads/RTEmagicC_KVOP-vstup.jpg.jpg" width="635" height="484" alt="" /></p><p></p>
+<p>Do budovy bude možné vstoupit vchodem pro lidi s postižením v podloubí budovy u parkoviště vpravo od schodů (při pohledu na budovu). S další orientací v budově pomůže asistent-informátor za dveřmi provizorního vstupu.</p><p><img src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/uploads/RTEmagicC_KVOP-vstup.jpg.jpg" width="635" height="484" alt="" /></p><p></p>

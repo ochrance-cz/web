@@ -7,6 +7,6 @@ vystupy:
   - doporuceni
 attachmentsTop:
   - title: Doložky mlčenlivosti k výši odměny
-    file: https://www.ochrance.cz/uploads-import/ESO/Dolozky_mlceni.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/Dolozky_mlceni.pdf
 ---
 <p>Zákoník práce zaměstnavateli zakazuje ukládat zaměstnanci povinnosti nad rámec zákona. Zároveň však stanovuje zaměstnanci povinnost nejednat v&nbsp;rozporu s oprávněnými zájmy zaměstnavatele, což v&nbsp;určitých případech může znamenat i potřebu, aby zaměstnanec nesděloval informace o svém platu nebo mzdě. Doporučení se zabývá otázkou, kdy takové opatření je a kdy není v&nbsp;souladu s&nbsp;platným právem, jak by měly orgány inspekce práce postupovat při jeho přezkumu a jaké důsledky by měly vyvozovat.</p>

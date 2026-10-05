@@ -17,7 +17,7 @@ perex: >
 
 <p>&nbsp;</p>
 
-<p>Více informací naleznete ve <a href="https://www.ochrance.cz/uploads-import/ESO/Brozura%20vazebni%20veznice%2010-22%20online.pdf">Zprávě z návštěv vazebních věznic</a> a v&nbsp;<a href="https://www.ochrance.cz/aktualne/nejcastejsi_problemy_ve_vazebnich_veznicich_nedostatek_soukromi_malo_svetla_i_vzduchu_a_minimalni_moznost_traveni_casu_mimo_cely/">tiskové zprávě</a>.</p>
+<p>Více informací naleznete ve <a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/Brozura%20vazebni%20veznice%2010-22%20online.pdf">Zprávě z návštěv vazebních věznic</a> a v&nbsp;<a href="https://www.ochrance.cz/aktualne/nejcastejsi_problemy_ve_vazebnich_veznicich_nedostatek_soukromi_malo_svetla_i_vzduchu_a_minimalni_moznost_traveni_casu_mimo_cely/">tiskové zprávě</a>.</p>
 
 <p>&nbsp;</p>
 

@@ -1,0 +1,19 @@
+---
+title: Euroobčané, máte právo účastnit se komunálních voleb
+date: 2014-09-08T00:00:00.000Z
+perex: I přes odmítavé stanovisko ministra vnitra je ochránkyně přesvědčena,
+  že občané EU s potvrzením o přechodném pobytu v České republice mají právo
+  účastnit se komunálních voleb. Rozhodla se proto poskytnout jim návod, jak
+  postupovat, a argumenty, které mohou při prosazení svého práva využít.
+kategorie:
+  - tz
+---
+Smlouva o fungování EU dává občanům Evropské unie, kteří v České republice dlouhodobě pobývají a bylo jim vydáno potvrzení k přechodnému pobytu, mají právo účastnit se voleb do obecních zastupitelstev. Vzhledem k tomu, že v praxi jim je toto právo upíráno, iniciovala veřejná ochránkyně práv jednání s ministrem vnitra a doporučila mu změnit pravidla účasti občanů EU s přechodným pobytem v ČR už v letošních komunálních volbách.
+
+Ministr vnitra se ve svém stanovisku z 5. září 2014 s doporučením veřejné ochránkyně práv neztotožnil. Informoval ji, že ministerstvo v budoucnu plánuje předložení nového volebního zákona, který by jejich volební právo mohl upravit. Pro nadcházející volby do zastupitelstev obcí však požadavek na změnu metodiky, která by situaci uvedla do souladu s právem EU, odmítl.
+
+Ochránkyně je přesvědčena, že i přes toto odmítavé stanovisko je možné, aby občané EU s potvrzením o přechodném pobytu v České republice svého aktivního volebního práva využili již v nadcházejících říjnových volbách do zastupitelstev obcí. Volební právo jim totiž přiznává přímo právo Evropské unie, k jehož dodržení se Česká republika zavázala. Podle ochránkyně není nutné čekat na nový volební zákon, který by chybnou transpozici evropského práva napravil, ale je přesvědčena, že v tomto případě je možné použít přímo evropské právo.
+
+Občané EU, kteří se chtějí účastnit komunálních voleb, se podle ochránkyně mohou odvolat přímo na ustanovení Smlouvy o fungování EU a příslušnou směrnici, která ji provádí, a požádat v obci, kde jsou hlášeni k přechodnému pobytu, o zápis do dodatku seznamu voličů. Podrobný postup při uplatnění aktivního volebního práva, včetně možnosti následného přezkumu soudem, je popsán  [zde](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/VOP/Tiskove_zpravy_prilohy/volebni-pravo-cizinci-postup.pdf "Otevření do nového okna") (209.4 kB, Adobe Acrobat dokument). Podrobný popis argumentace přímým účinkem práva EU, který při svém jednání s obecním úřadem i ve správní žalobě mohou cizinci uplatnit, je k dispozici  [zde](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/VOP/Tiskove_zpravy_prilohy/zalobni-argumentace-primy-ucinek-prava-EU.pdf "Otevření do nového okna") (313.9 kB, Adobe Acrobat dokument).
+
+K právnímu názoru veřejné ochránkyně práv se připojuje rovněž Konsorcium nevládních organizací pracujících s migranty, jehož členské organizace jsou zároveň ochotny poskytnout bezplatnou právní pomoc občanům EU, kteří chtějí o uplatnění svého volebního práva usilovat. Seznam kontaktů na organizace, na něž je možné se v jednotlivých městech obrátit, najdete  [zde](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/VOP/Tiskove_zpravy_prilohy/seznam-kontaktnich-mist.pdf "Otevření do nového okna") (119 kB, Adobe Acrobat dokument).

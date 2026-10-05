@@ -2,7 +2,7 @@
 title: Zpravodaj ombudsmana za leden a únor 2024
 month: 1
 year: 2024
-file: https://www.ochrance.cz/zpravodaj/za_leden_a_unor_2024/zpravodaj_leden_a_unor_2023.pdf
+file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/zpravodaj/za_leden_a_unor_2024/zpravodaj_leden_a_unor_2023.pdf
 sections:
   - title: Úvodní slovo
     articles:
@@ -138,7 +138,7 @@ sections:
           </blockquote>
 
 
-          <p>Řešili jsme dotaz tří sourozenců, kteří společně zdědili byt po rodičích. Byt teď pronajímají. Ptali se, zda musí každý z&nbsp;nich za byt zaplatit poplatek za komunální odpad. V&nbsp;obci je zavedený poplatek za <a href="https://www.ochrance.cz/letaky/komunalni-odpad/komunalni-odpad.pdf">obecní systém odpadového hospodářství</a>.</p>
+          <p>Řešili jsme dotaz tří sourozenců, kteří společně zdědili byt po rodičích. Byt teď pronajímají. Ptali se, zda musí každý z&nbsp;nich za byt zaplatit poplatek za komunální odpad. V&nbsp;obci je zavedený poplatek za <a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/komunalni-odpad/komunalni-odpad.pdf">obecní systém odpadového hospodářství</a>.</p>
 
 
           <p>Nejprve je třeba zjistit, zda má nájemce u sourozenců přihlášený trvalý pobyt. Pokud ano, platí poplatek za komunální odpad jenom on. Pokud tam nájemce ani nikdo jiný nemá přihlášený trvalý pobyt, musí zaplatit poplatek sourozenci. To, že poplatek mají zaplatit společně a nerozdílně, znamená, že například může jeden z nich uhradit celý poplatek, nebo každý zaplatí třetinu. Záleží, jak se mezi sebou domluví.</p>

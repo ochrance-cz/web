@@ -1,0 +1,25 @@
+---
+title: Problémů rodin je hodně – mnohé se ochránkyni daří řešit
+date: 2017-05-16T00:00:00.000Z
+perex: Včerejší Mezinárodní den rodin připomněl důležitost rodiny a její
+  nezastupitelnou roli ve společnosti. Také veřejná ochránkyně práv se velice
+  často setkává s tématem rodiny, ať už jde o problémy ve vztazích rodičů
+  a dětí, kam v rámci ochrany práv dětí vstupuje stát, nebo o podmínky života
+  rodin, když jde o sociální podporu, nebo například o slaďování rodinného
+  a pracovního života apod.
+kategorie:
+  - tz
+---
+V loňském roce řešila veřejná ochránkyně práv o čtvrtinu víc podnětů týkajících se rodin a ochrany práv dětí. Přímo činnosti orgánu sociálně-právní ochrany dětí se týkalo 360 podnětů. Nejčastěji šlo o problémy úpravy styku dítěte s rodičem resp. bránění ve styku. Ochránkyně zde opakovaně vytýká zejména nedostatečné úsilí sociálních pracovníků při zprostředkování kontaktu dítěte s rodičem, nedůsledné využívání možností, které by mohly situaci v rodině zlepšit a vést k rychlejšímu řešení konfliktů, ale i nečinnost, kterou sociální pracovníci umožní např. déletrvající negativní působení rodiče na dítě.
+
+Ve většině případů se podaří zajistit nápravu a mnohdy ochránkyně najde ve spolupráci s úřady způsob, jak pomoc rodinám zajistit. Příkladem je Magistrát hlavního města Prahy, který v odůvodněných případech uhradí první návštěvu mediátora rodinám v tíživé finanční situaci.
+
+*„Oceňuji, že magistrát přistoupil na naše doporučení a zpřístupní mediaci i rodinám, které by si jinak tuto placenou službu nemohly dovolit. Mediace přitom může rodinné konflikty řešit méně stresujícím způsobem a rychleji než soudní řízení. Je to rozhodně dobrý příklad prorodinné politiky magistrátu,“* uvádí veřejná ochránkyně práv Anna Šabatová.
+
+Ve své výroční zprávě uvádí i další příklady, kdy se podařilo situaci vyřešit v zájmu dětí a jejich rodin.
+
+Téma rodiny řeší ochránkyně také v oblasti sociálního zabezpečení. V loňském roce obdržela 111 podnětů týkajících se dávek státní sociální podpory, zejména rodičovského příspěvku, ale také přídavku na dítě nebo porodného.
+
+Za vážnou považuje ochránkyně situaci některých osvojitelů, kteří převezmou dítě z pěstounské péče, ale na rodičovský příspěvek nemají nárok, protože ten už byl vyčerpán. Upozornila na to Ministerstvo práce a sociálních věcí, které připravilo novelu zákona o státní sociální podpoře. Ta je nyní v legislativním procesu.
+
+Úspěchem ochránkyně je zajištění větší flexibility rodičovského příspěvku a možnost jeho rychlejšího čerpání hlavně pro osoby samostatně výdělečně činné a osoby neaktivní. Podle ochránkyně tento krok napomůže slaďování rodinného a pracovního života. Umožní rodičům flexibilněji reagovat na změny v rodině a podle potřeby se dřív vrátit do zaměstnání.

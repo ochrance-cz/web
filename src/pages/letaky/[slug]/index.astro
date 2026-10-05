@@ -1,0 +1,39 @@
+---
+import Downloads from '../../../components/letaky/Downloads.astro';
+// Leaflet detail (cs) — mirrors Hugo layouts/letaky/single.html:
+// text-header (title only) + a plain backdrop div > section with the body and
+// the "Stáhnout dokument" download button. Alternate formats / attachments are
+// surfaced on the listing, not here (same as production).
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import TextHeader from '../../../components/TextHeader.astro';
+import { getCollection } from 'astro:content';
+import MarkdownContent from '../../../components/MarkdownContent.astro';
+import { detailSlug } from '../../../components/letaky/helpers';
+import { getLeafletAttachments } from '../../../lib/leaflet-attachments';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('letaky');
+  return entries.map((entry) => ({
+    params: { slug: detailSlug(entry) },
+    props: { entry },
+  }));
+}
+
+const LOCALE = 'cs' as const;
+const { entry } = Astro.props;
+const { title, file } = entry.data;
+---
+<BaseLayout title={title} lang={LOCALE}>
+  <main data-pagefind-body>
+    <TextHeader title={title} locale={LOCALE} />
+
+    <div>
+      <section>
+        <MarkdownContent content={entry.body} />
+
+        {file && <a href={file} class="_button">Stáhnout dokument</a>}
+        <Downloads locale={LOCALE} {...entry.data} attachments={getLeafletAttachments(LOCALE, entry.id)} />
+      </section>
+    </div>
+  </main>
+</BaseLayout>

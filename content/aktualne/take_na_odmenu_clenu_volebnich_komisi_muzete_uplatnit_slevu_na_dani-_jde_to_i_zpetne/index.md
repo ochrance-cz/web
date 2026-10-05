@@ -23,7 +23,7 @@ perex: >
 
 <p>Dobrá zpráva pro všechny volební komisaře je, že rok 2022 byl poslední, kdy museli zdanění odměn řešit. Od začátku roku 2023 už odměny za práci ve volební&nbsp;komisi dani z&nbsp;příjmů nepodléhají.</p>
 
-<p>Základní pravidla pro danění příjmů si lidé mohou přečíst v&nbsp;<a href="https://www.ochrance.cz/letaky/dan-z-prijmu/dan-z-prijmu.pdf">příručce</a> na webu veřejného ochránce práv. <a href="https://www.mfcr.cz/cs/verejny-sektor/uzemni-rozpocty/metodicka-podpora/2018/zdaneni-odmeny-clena-okrskove-volebni-ko-33101/">Stanovisko</a> ke zdanění odměn členů okrskových volebních komisí vydalo i Ministerstvo financí.</p>
+<p>Základní pravidla pro danění příjmů si lidé mohou přečíst v&nbsp;<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/dan-z-prijmu/dan-z-prijmu.pdf">příručce</a> na webu veřejného ochránce práv. <a href="https://www.mfcr.cz/cs/verejny-sektor/uzemni-rozpocty/metodicka-podpora/2018/zdaneni-odmeny-clena-okrskove-volebni-ko-33101/">Stanovisko</a> ke zdanění odměn členů okrskových volebních komisí vydalo i Ministerstvo financí.</p>
 
 <p>Vyplnění daňového přiznání lidem zjednoduší portál <a href="https://adisspr.mfcr.cz/pmd/home">Moje daně</a> provozovaný Finanční správou ČR. Je přitom třeba pamatovat na to, že do daňového přiznání je třeba zahrnout všechny zdanitelné příjmy, které volební komisař v&nbsp;daném roce měl.</p>
 

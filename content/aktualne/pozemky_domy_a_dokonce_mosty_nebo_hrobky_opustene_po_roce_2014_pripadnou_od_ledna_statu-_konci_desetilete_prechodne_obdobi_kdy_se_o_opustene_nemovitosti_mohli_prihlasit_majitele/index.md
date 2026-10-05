@@ -22,7 +22,7 @@ perex: >
   území.&nbsp;</p>
 attachments:
   - title: Sborník pohřebnictví
-    file: https://www.ochrance.cz/vystupy/edice-stanoviska/Sbornik_Pohrebnictvi.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/vystupy/edice-stanoviska/Sbornik_Pohrebnictvi.pdf
   - title: Podcast Na kávu s ombudsmanem, díl 43 - Pohřebnictví 1
     file: https://www.ochrance.cz/aktualne/na_kavu_s_ombudsmanem_43-_dil_pohrebnictvi_i/
   - title: Podcast Na kávu s ombudsmanem, díl 44 - Pohřebnictví 2

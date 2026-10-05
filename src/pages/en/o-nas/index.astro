@@ -1,0 +1,96 @@
+---
+import PageHeader from '../../../components/site-copy/headers/en-o-nas.astro';
+import * as pageCopy0 from '../../../components/page-content/section-pages-en/o-nas.astro';
+import { getPageEntries } from '../../../lib/page-content';
+// About us — listing page (en). Mirrors layouts/o-nas/list.html:
+//   text-header + (portraits: ombudsman & deputy) + body/links
+//   + scope (pusobnost) link-list + ops (provoz) link-list + footer-pic.
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import TextHeader from '../../../components/TextHeader.astro';
+import Pic from '../../../components/Pic.astro';
+import LinkList from '../../../components/LinkList.astro';
+import { renderMarkdown } from '../../../lib/markdown';
+import { t } from '../../../lib/i18n';
+
+const indexEntry = pageCopy0;
+import { data as idata } from '../../../components/page-content/section-pages-en/o-nas.astro';
+
+const resolveLink = (link: string) =>
+  /^(https?:|\/)/.test(link) ? link : `/en/o-nas/${link}/`;
+const indexLinks = (idata.links ?? []).map((l: any) => ({ ...l, link: resolveLink(l.link) }));
+
+// Portraits: only ombudsman + deputy, in that order.
+const all = await getPageEntries('o-nas-en');
+const portraitOrder = ['ombudsman', 'deputy'];
+const portraits = portraitOrder
+  .map((id) => all.find((e) => e.id === id))
+  .filter((e): e is NonNullable<typeof e> => Boolean(e))
+  .map((e) => ({ href: `/en/o-nas/${e.id}/`, title: e.data.title, name: e.data.name, pic: e.data.pic }));
+
+// Scope: pusobnost pages by title.
+const enCollate = (a: string, b: string) => a.localeCompare(b, 'en');
+const scopeLinks = (await getCollection('pusobnost-en'))
+  .filter((e) => e.data.draft !== true)
+  .sort((a, b) => enCollate(a.data.title, b.data.title))
+  .map((e) => ({ href: `/en/pusobnost/${e.id}/`, title: e.data.title }));
+
+// Operations: provoz pages by title.
+const opsEntries = await getCollection('provoz-en');
+const opsLinks = opsEntries
+  .filter((e) => e.data.draft !== true)
+  .sort((a, b) => enCollate(a.data.title, b.data.title))
+  .map((e) => ({ href: `/en/provoz/${e.id}/`, title: e.data.title }));
+---
+<BaseLayout title={idata.title} description={idata.description} lang="en">
+  <main class="_about-us" data-pagefind-body>
+    <PageHeader />
+
+    <div class="_backdrop overflow-l">
+      <section class="portraits">
+        {portraits.map((p) => (
+          <div>
+            {p.pic && <Pic src={p.pic} />}
+            <p>
+              <a href={p.href}>{p.name ?? p.title}</a>
+              {p.name && <><br />{p.title}</>}
+            </p>
+          </div>
+        ))}
+      </section>
+
+      <section>
+        <indexEntry.default />
+        {indexLinks.length > 0 && <LinkList items={indexLinks} />}
+      </section>
+    </div>
+
+    <div class="_backdrop cta">
+      <section class="_full">
+        <h2>{t('en', 'scope')}</h2>
+        <ul class="_link-list two-col">
+          {scopeLinks.map((l) => (
+            <li><a href={l.href}>{l.title}</a></li>
+          ))}
+        </ul>
+      </section>
+    </div>
+
+    <section class="_full">
+      <h2>{t('en', 'ops')}</h2>
+      <ul class="_link-list two-col">
+        {opsLinks.map((l) => (
+          <li><a href={l.href}>{l.title}</a></li>
+        ))}
+      </ul>
+    </section>
+
+    <footer class="_footer-pic">
+      <div class="text">
+        <h2>{t('en', 'want-to-know-more')}</h2>
+        <p>{t('en', 'more-what-we-do')}</p>
+        <p><a href="/en/news/" class="_button">{t('en', 'news')}</a></p>
+      </div>
+    </footer>
+  </main>
+</BaseLayout>

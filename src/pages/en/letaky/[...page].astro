@@ -1,0 +1,67 @@
+---
+// Leaflet listing (en) — mirror of /letaky/ from the letaky-en collection.
+// Mirrors Hugo layouts/letaky/list.html: each link points DIRECTLY at the PDF,
+// with an optional nested list of attachments / visually-impaired versions.
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import PicHeader from '../../../components/PicHeader.astro';
+import { getCollection } from 'astro:content';
+import { renderMarkdown } from '../../../lib/markdown';
+import { t } from '../../../lib/i18n';
+import { url } from '../../../lib/paths';
+import { getLeafletAttachments } from '../../../lib/leaflet-attachments';
+
+export async function getStaticPaths() {
+  return [{ params: { page: undefined } }];
+}
+
+const LOCALE = 'en' as const;
+const LIST_TITLE = 'I am not sure how to deal with a difficult life situation';
+const ILLUSTRATION = 'https://cdn.nuasite.com/assets/ochrance-web-lj8h86/images/nevite-si-rady.jpg';
+
+const entries = (await getCollection('letaky-en')).sort((a, b) =>
+  a.data.title.localeCompare(b.data.title, 'en')
+);
+
+const perexHtml = await renderMarkdown(t(LOCALE, 'leaflets-intro'));
+
+// Mirror Hugo's `replaceRE " -[  ]" " – "` — normalise " - " to a real en dash.
+const dash = (s: string) => s.replace(/ -[\s ]/g, ' – ');
+---
+<BaseLayout title={LIST_TITLE} lang={LOCALE}>
+  <main>
+    <PicHeader title={LIST_TITLE} illustration={ILLUSTRATION} />
+
+    <section>
+      {perexHtml && <div class="perex" set:html={perexHtml} />}
+
+      <ul class="_horizontal-list">
+        <li><a href={url(LOCALE, 'situace')}>{t(LOCALE, 'handouts-by-sit')}</a></li>
+        <li><a href={url(LOCALE, 'letaky')} class="selected">{t(LOCALE, 'handouts-all')}</a></li>
+      </ul>
+
+      <ul class="_link-list">
+        {entries.map((entry) => {
+          const { title, file, situace = [], seeing } = entry.data;
+          const attachments = getLeafletAttachments(LOCALE, entry.id);
+          const hasAlt = attachments.length > 0 || !!seeing;
+          return (
+            <li>
+              <a href={file}>{dash(title)}</a>
+              {situace.includes('Formuláře') && <span class="_label">Formulář</span>}
+              {hasAlt && (
+                <ul>
+                  {attachments.map((a) => (
+                    <li><a href={a.file || a.link}>{a.title || a.text || 'attachment'}</a></li>
+                  ))}
+                  {seeing && <li><a href={seeing}>accessible version for people with visual impairments</a></li>}
+                </ul>
+              )}
+            </li>
+          );
+        })}
+      </ul>
+
+      <p><a href={url(LOCALE, 'situace')} class="_button">{t(LOCALE, 'all-situations')}</a></p>
+    </section>
+  </main>
+</BaseLayout>

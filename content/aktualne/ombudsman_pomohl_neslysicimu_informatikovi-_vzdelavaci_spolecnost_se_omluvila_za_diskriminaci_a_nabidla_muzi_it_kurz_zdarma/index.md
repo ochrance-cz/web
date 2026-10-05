@@ -18,11 +18,11 @@ attachments:
   - title: "Posouzení námitky diskriminace, sp. zn.: 5791/2023/VOP"
     file: https://eso.ochrance.cz/Nalezene/Edit/13010
   - title: Leták – Diskriminace
-    file: https://www.ochrance.cz/letaky/rovne-zachazeni/rovne-zachazeni.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/rovne-zachazeni/rovne-zachazeni.pdf
 ---
 <p><em>&bdquo;Tento případ dokazuje, že často opravdu stačí druhé straně vysvětlit situaci a na diskriminační jednání poukázat. Ideální by samozřejmě bylo, kdyby k&nbsp;diskriminaci v&nbsp;první řadě vůbec nedošlo. Právě proto je důležité o pravidlech rovného zacházení veřejně mluvit a vysvětlovat, co říká antidiskriminační zákon,&ldquo;</em> ocenil reakci vzdělávací společnosti ombudsman Stanislav Křeček.</p>
 
-<p>V&nbsp;<a href="https://www.ochrance.cz/uploads-import/ESO/5791-23-VOP-VB-12-final.pdf">posouzení</a> škole vysvětlil, že podle antidiskriminačního zákona musí přijmout přiměřená opatření, aby odborné vzdělávání zpřístupnila i lidem s&nbsp;postižením. To v&nbsp;případě neslyšícího informatika neudělala.</p>
+<p>V&nbsp;<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/5791-23-VOP-VB-12-final.pdf">posouzení</a> škole vysvětlil, že podle antidiskriminačního zákona musí přijmout přiměřená opatření, aby odborné vzdělávání zpřístupnila i lidem s&nbsp;postižením. To v&nbsp;případě neslyšícího informatika neudělala.</p>
 
 <blockquote>
 <p><strong>Co jsou přiměřená opatření? </strong></p>

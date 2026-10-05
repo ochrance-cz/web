@@ -1,0 +1,31 @@
+---
+title: Ombudsman s vládní zmocněnkyní naučí Romy bránit se diskriminaci
+date: 2024-04-08T08:53:59.824Z
+perex: Dnešním Mezinárodním dnem Romů ombudsman společně s vládní zmocněnkyní
+  pro záležitosti romské menšiny zahájili několikadílný seriál na sociálních
+  sítích. Chtějí v něm Romům vysvětlit, jak poznat diskriminaci a jak se jí
+  bránit.
+kategorie:
+  - tz
+---
+„*K dnešnímu Mezinárodnímu dni Romů přejeme všem Romům, aby se s diskriminací nemuseli potýkat. Bohužel však od lidí, kteří se na nás obracejí, víme, že spousta Romů diskriminaci stále čelí. Připravili jsme proto společně několikadílný facebookový seriál, ve kterém Romům vysvětlíme, jak poznat zakázanou diskriminaci a jak se proti ní bránit,*“ uvedli ombudsman Stanislav Křeček a vládní zmocněnkyně pro záležitosti romské menšiny Lucie Fuková.
+
+Romové se v seriálu také dozví, které důvody diskriminace a oblasti života jsou zákonem zakázané. Ukážeme jim, jak se v takových případech bránit. Poradíme, co udělat, když se stanou svědkem nebo obětí projevu předsudečné nenávisti (označované také jako hate speech a hate crime).
+
+> **Co může být diskriminace?**
+> 
+> *Zaměstnavatel nepřijal uchazeče o zaměstnání, protože je Rom. To je diskriminace.*
+> 
+> *Diskriminace je také to, když obec odmítla pronajmout byt ženě, protože je Romka.*
+> 
+> *A když ředitel nechtěl přijmout do školy chlapce, protože jsou Romové, je také diskriminace. Potvrdil to i soud.*
+
+„*Jsem ráda, že jsme letos na Mezinárodní den Romů zase o krok blíže ke společnosti, která umí řešit problematiku diskriminace Romů. Vláda by měla schválit definici anticikanismu, která pomáhá zvyšovat povědomí o různých formách diskriminace, předsudků a nenávisti, kterým Romové ve svém každodenním životě čelí. Je to významné symbolické gesto pro celou společnost, ale také nástroj, který bude pomáhat v konkrétních životních situacích. Především je to ale jasné vyjádření, že tu protiromské postoje nemají místo,“* řekla Fuková.
+
+Definicí anticikanismu se zabývá také první díl seriálu.
+
+![1.\_dil\_serialu.png](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/ombudsman_s_vladni_zmocnenkyni_nauci_romy_branit_se_diskriminaci/1._dil_serialu.png)
+
+**Související odkazy**
+
+- [Informační leták „Romové, braňte se diskriminaci“ shrnující celý seriál](<https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/ombudsman_s_vladni_zmocnenkyni_nauci_romy_branit_se_diskriminaci/romove_brante_se_diskriminaci.pdf>)

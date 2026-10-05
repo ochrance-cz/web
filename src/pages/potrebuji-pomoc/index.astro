@@ -1,0 +1,40 @@
+---
+import PageHeader from '../../components/site-copy/headers/cs-potrebuji-pomoc.astro';
+import * as pageCopy0 from '../../components/page-content/section-pages/potrebuji-pomoc.astro';
+import { getCollection } from 'astro:content';
+
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import TextHeader from '../../components/TextHeader.astro';
+import { renderMarkdown } from '../../lib/markdown';
+import { url } from '../../lib/paths';
+
+const locale = 'cs' as const;
+
+const entries = (await getCollection('potrebuji-pomoc')).sort((a, b) =>
+  a.data.title.localeCompare(b.data.title, 'cs'),
+);
+
+const previews = await Promise.all(
+  entries.map(async (entry) => ({
+    title: entry.data.title,
+    href: url(locale, 'potrebuji-pomoc', entry.id),
+    perexHtml: entry.data.perex ? await renderMarkdown(entry.data.perex) : '',
+  })),
+);
+
+const title = pageCopy0.data.title;
+---
+<BaseLayout title={title} lang={locale}>
+  <main data-pagefind-weight="10">
+    <PageHeader />
+
+    <section>
+      {previews.map((p) => (
+        <article class="_article-preview">
+          <h3><a href={p.href}>{p.title}</a></h3>
+          {p.perexHtml && <Fragment set:html={p.perexHtml} />}
+        </article>
+      ))}
+    </section>
+  </main>
+</BaseLayout>

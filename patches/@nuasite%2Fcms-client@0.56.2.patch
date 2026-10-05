@@ -1,0 +1,24 @@
+diff --git a/src/client.ts b/src/client.ts
+index 8d32e110c69e458c0a601281737e6263f83e49b7..44a6c4ab9e0bd0a06e847733bd33d0b409329468 100644
+--- a/src/client.ts
++++ b/src/client.ts
+@@ -166,6 +166,10 @@ export interface GetEntriesOptions {
+ 	/** Opaque continuation cursor from a previous page's `cursor`. */
+ 	cursor?: string
+ 	limit?: number
++	/** Sort direction for the collection's declared orderBy field. */
++	sort?: 'asc' | 'desc'
++	/** Sort by title or a declared date field; omitted for the collection default. */
++	sortField?: string
+ }
+ 
+ // ============================================================================
+@@ -366,6 +370,8 @@ export function createClient(apiBase: string): CmsClient {
+ 			if (options.draft !== undefined) params.set('draft', options.draft)
+ 			if (options.cursor !== undefined) params.set('cursor', options.cursor)
+ 			if (options.limit !== undefined) params.set('limit', String(options.limit))
++			if (options.sort !== undefined) params.set('sort', options.sort)
++			if (options.sortField !== undefined) params.set('sortField', options.sortField)
+ 			const query = params.toString()
+ 			const suffix = query === '' ? '' : `?${query}`
+ 			return request<CmsEntriesListResult>(`/collections/${encodeURIComponent(collection)}/entries${suffix}`)

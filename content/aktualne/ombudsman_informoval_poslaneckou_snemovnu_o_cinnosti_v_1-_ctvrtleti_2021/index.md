@@ -12,7 +12,7 @@ perex: "Ombudsman obdržel v prvním čtvrtletí letošního roku celkem 2069 po
   antidiskriminačním zákonem. "
 attachments:
   - title: Zpráva za 1. čtvrtletí roku 2021
-    link: https://www.ochrance.cz/dokument/zpravy_pro_poslaneckou_snemovnu_2021/zprava_za_1._ctvrtleti_roku_2021.pdf
+    link: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/dokument/zpravy_pro_poslaneckou_snemovnu_2021/zprava_za_1._ctvrtleti_roku_2021.pdf
 ---
 Ombudsman v tomto období také vydal čtyři doporučení – ke sčítání lidu, domů a bytů v roce 2021; k přístupnosti pořadu „Události“ České televize; ke zřizování vyhrazených parkovišť pro osoby se zdravotním postižením a k očkování klientů zařízení zdravotních a sociálních služeb se sníženou schopností rozhodování nebo s podpůrným opatřením.
 

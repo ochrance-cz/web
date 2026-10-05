@@ -1,0 +1,53 @@
+---
+// Renders provoz `sections[]` and `lawyers[]` loose object arrays (used by /provoz/kontakty).
+// sections[]: { title, intro(markdown) }
+// lawyers[]:  { title, intro(markdown), people[]: { name, role, phone, email } }
+import { renderMarkdown } from '../../lib/markdown';
+
+interface Person {
+  name?: string;
+  order?: number;
+  departmentHead?: boolean;
+  role?: string;
+  phone?: string;
+  email?: string;
+}
+interface Group {
+  title?: string;
+  intro?: string;
+  people?: Person[];
+}
+
+interface Props {
+  sections?: Group[];
+  lawyers?: Group[];
+  lang?: 'cs' | 'en';
+}
+
+const { sections = [], lawyers = [], lang = 'cs' } = Astro.props;
+const groups: Group[] = [...sections, ...lawyers] as Group[];
+
+const rendered = await Promise.all(
+  groups.map(async (g) => ({
+    ...g,
+    introHtml: g.intro ? await renderMarkdown(g.intro) : '',
+  }))
+);
+---
+{rendered.map((g) => (
+  <section class="_provoz-section">
+    {g.title && <h2>{g.title}</h2>}
+    {g.introHtml && <div set:html={g.introHtml} />}
+    {g.people && g.people.length > 0 && (
+      <ul class="_provoz-people">
+        {[...g.people].sort((a, b) => Number(b.departmentHead === true) - Number(a.departmentHead === true) || (a.order ?? Infinity) - (b.order ?? Infinity)).map((p) => (
+          <li>
+            {p.name && <strong>{p.name}</strong>}{p.role && <span>, {p.role}</span>}
+            {p.phone && <span><br />{lang === 'en' ? 'phone' : 'telefon'}: {p.phone}</span>}
+            {p.email && <span><br />e-mail: <a href={`mailto:${p.email}`}>{p.email}</a></span>}
+          </li>
+        ))}
+      </ul>
+    )}
+  </section>
+))}

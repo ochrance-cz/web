@@ -1,0 +1,21 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+
+const title = "Hledání";
+---
+<BaseLayout title={title} lang="cs">
+  <main class="_pagefind">
+    <section>
+    <h1>{title}</h1>
+    <link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
+    <div id="search"></div>
+    <script src="/pagefind/pagefind-ui.js" is:inline></script>
+    <script is:inline>
+      window.addEventListener('DOMContentLoaded', () => {
+        new PagefindUI({ element: '#search', showSubResults: true });
+      });
+    </script>
+    </section>
+  </main>
+</BaseLayout>

@@ -5,5 +5,5 @@ vystupy:
   - vyzkumy
 attachmentsTop:
   - title: Přístupnost veřejných budov a služeb lidem s postižením
-    link: https://www.ochrance.cz/uploads-import/ESO/32_2022_OZP_final.pdf
+    link: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/32_2022_OZP_final.pdf
 ---

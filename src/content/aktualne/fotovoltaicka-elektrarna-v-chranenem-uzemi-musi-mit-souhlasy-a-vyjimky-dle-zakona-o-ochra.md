@@ -1,0 +1,20 @@
+---
+title: Fotovoltaická elektrárna v chráněném území musí mít souhlasy a výjimky
+  dle zákona o ochraně přírody
+date: 2011-11-03T00:00:00.000Z
+perex: Z hlediska zájmů ochrany přírody a krajiny vyžaduje stavba fotovoltaické
+  elektrárny, pokud je umisťovaná na území Natura 2000 do ptačí oblasti
+  vyhlášené nařízením vlády a na území výskytu zvláště chráněných druhů rostlin
+  a živočichů, nezbytné souhlasy a stanoviska orgánu ochrany přírody a krajiny.
+kategorie:
+  - tz
+---
+Předmětem šetření veřejného ochránce práv ve 3. čtvrtletí roku 2011 byla stavba fotovoltaické výrobny elektrické energie v k.ú. Moldava v Krušných horách. Stavba byla umístěna na území obce bez územního plánu a vymezeného zastavitelného území, z hledisek zájmů chráněných zákonem o ochraně přírody a krajiny na území Natura 2000, do Ptačí oblasti Východní Krušné hory a oblasti výskytu zvláště chráněných druhů rostlin a živočichů.
+
+Veřejný ochránce práv konstatoval, že se stavební úřad Městského úřadu Duchcov a Magistrát města Teplice (příslušný orgán ochrany přírody a krajiny) dopustily při povolování záměru zcela zásadních pochybení. Stavební povolení bylo ve sloučeném územním a stavebním řízení vydáno v rozporu se zákonem, pochybení se dopustil také orgán ochrany přírody a krajiny, když pro toto řízení vydal souhrnné stanovisko, v němž neinformoval o povinnosti předložit nutné souhlasy a výjimky dle zákona o ochraně přírody a krajiny. Je pravdou, že v době vydání stavebního povolení pro předmětnou stavbu, tj. v polovině roku 2008, neměly správní orgány zpravidla větších zkušeností s povolovacími procesy pro stavby fotovoltaických elektráren, obzvláště pak správní orgány nižších stupňů. O to větší pozornost měla být podle zástupkyně ombudsmana věnována posouzení záměru, včetně podrobného seznámení se se stavem lokality, v němž měl být umístěn, a v případě jakýchkoliv nejasností měly být povolovací procesy konzultovány s nadřízeným správním orgánem v rámci jeho metodické pomoci. Ve vztahu k postupu Krajského úřadu Ústeckého kraje však zástupkyně ombudsmana vyjádřil rovněž nesouhlas s tím, jak krajský úřad posoudil podnět k přezkumu vydaného stavebního povolení. Výhrady chová také vůči rozhodnutí, kterým krajský úřad povolil dle ustanovení § 56 zákona o ochraně přírody a krajiny výjimku z ochranných podmínek zvláště chráněných druhů rostlin a živočichů.
+
+V souvislosti s šetřením tohoto případu je třeba uvést, že již v době, kdy se občanské sdružení na ochránce obrátilo, byly prostředky, jak správní orgány přimět ke změně či zrušení rozhodnutí, na základě kterých byla předmětná stavba realizována, velice omezené. Stavební povolení pro stavbu fotovoltaické elektrárny Moldava nabylo právní moci dne 29. 9. 2009, tj. je pravomocné téměř dva roky. Současně také již proběhlo a bylo usnesením zastaveno i přezkumné řízení vedené krajským úřadem, když krajský úřad sice konstatoval nezákonnost, nicméně pro dobrou víru stavebníka nebylo toto nezákonné rozhodnutí zrušeno.
+
+Se svými závěry a zjištěnými nedostatky zástupkyně ochránce seznámila všechny dotčené úřady a požádala je o stanovisko a informaci o přijatých opatřeních k nápravě.
+
+ [Plné znění zprávy o šetření.](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/STANOVISKA/Zivotni_prostredi/Ostatni_priroda/4983-10-JG-ZZ.pdf "Otevření do nového okna") (321.8 kB, Adobe Acrobat dokument)

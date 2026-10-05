@@ -3,7 +3,7 @@ title: Veřejná ochránkyně práv
 name: JUDr. Eva Kostolanská
 pic: img-20260408-wa0001.jpg
 order: 1
-footerPic: /images/kontakt.jpg
+footerPic: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/images/kontakt.jpg
 quote: ""
 bio: >-
   Slib do funkce veřejné ochránkyně práv složila 18. června 2026.
@@ -47,9 +47,8 @@ areas:
   - area: Daně, poplatky a cla
     desc: daně a správa daní, místní poplatky, správní poplatky, cla
   - area: Věci cizinců
-    desc: Pobyt cizinců, azylové řízení a integrace azylantů, soudní rozhodování ve
-      věcech cizinců, rozhodnutí o správním vyhoštění, rozhodnutí o zajištění,
-      konzulární služba aj.
+    desc: Pobyt cizinců, azylové řízení a integrace azylantů, rozhodnutí o správním
+      vyhoštění, rozhodnutí o zajištění, konzulární služba aj.
   - area: Podnikání a ochrana spotřebitele
     desc: správa na úseku podnikání, činnost živnostenských úřadů, ochrana
       spotřebitele, ČOI

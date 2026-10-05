@@ -13,9 +13,9 @@ perex: <p>Opatrovnice neumožnila vyřízení občanského průkazu muži, jeho�
   zastal a pomohl mu průkaz získat.&nbsp;</p>
 attachments:
   - title: Leták ombudsmana k tématu omezení svéprávnosti
-    file: https://www.ochrance.cz/letaky/rizeni-o-omezeni-svepravnosti/rizeni-o-omezeni-svepravnosti.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/rizeni-o-omezeni-svepravnosti/rizeni-o-omezeni-svepravnosti.pdf
   - title: Leták ombudsmana „Opatrovník“
-    file: https://www.ochrance.cz/letaky/opatrovnik/opatrovnik.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/opatrovnik/opatrovnik.pdf
 ---
 <p>Zcela pochopitelná touha cítit se důstojně motivovala muže omezeného ve svéprávnosti k&nbsp;tomu, aby usiloval o získání občanského průkazu. Ten by mu také usnadnil situace, se kterými se běžně setkává každý z&nbsp;nás – například využití služeb pošty, kontakt s&nbsp;policií či lékaři, ale třeba i registraci do knihovny. Bez dokladu muž přicházel i o možnost účastnit se v&nbsp;rámci své komunity zájezdů do zahraničí.</p>
 <p>Z&nbsp;pohledu práva mu přitom v&nbsp;cestě za jeho přáním stát se držitelem občanského průkazu nic nebránilo. V&nbsp;roce 2020 jej sice soud omezil ve věci vyřizování dokladů, o&nbsp;tři roky později ale vydal nový rozsudek, v&nbsp;němž již tuto oblast vypustil.&nbsp;</p>

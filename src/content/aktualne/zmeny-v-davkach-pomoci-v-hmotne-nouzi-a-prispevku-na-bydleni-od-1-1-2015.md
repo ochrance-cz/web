@@ -1,0 +1,22 @@
+---
+title: Změny v dávkách pomoci v hmotné nouzi a příspěvku na bydlení od 1. 1. 2015
+date: 2014-12-15T00:00:00.000Z
+perex: Od 1. 1. 2015 se mění některé podmínky pro přiznání dávek pomoci v hmotné
+  nouzi a příspěvku na bydlení a pro určování jejich výše. Veřejná ochránkyně
+  práv uplatňovala připomínky k těmto změnám, které navazovaly na dlouhodobou
+  snahu ochránce umožnit přiznání nárokových dávek na bydlení i k jiným
+  nemovitostem než bytům (rekreační objekt, část bytu), pokud umožňují lidsky
+  důstojné bydlení. V průběhu legislativního procesu byly některé z těchto
+  připomínek do návrhu zákona zapracovány.
+kategorie:
+  - tz
+---
+Nejdůležitější novinky v právní úpravě příspěvku na živobytí a dávek na bydlení jsou tyto (podrobněji viz letáky Dávky pomoci v hmotné nouzi a Dávky na bydlení:
+
+-   **O doplatek na bydlení si vedle vlastníka a nájemce bytu může požádat také vlastník rekreační stavby, který ji využívá k trvalému bydlení, či osoba užívající k bydlení jiný než obytný prostor (nezkolaudovaný jako byt).** Úřad práce může doplatek na bydlení přiznat, pokud rekreační stavba a jiný než obytný prostor splní tzv. **standardy kvality bydlení**. V případě bydlení v jiném než obytném prostoru úřad práce ještě posoudí, zda jsou dány důvody hodné zvláštního zřetele pro poskytnutí dávky. Příspěvek na bydlení úřad práce přizná pouze vlastníkovi či nájemci bytu, který je podle rozhodnutí stavebního úřadu určen k trvalému bydlení / jako byt zkolaudován.
+-   **Od 1. 1. 2015 úřad práce přizná doplatek na bydlení také nájemci části bytu (pokoje v bytě), který je v hmotné nouzi, pokud úřad dospěje k závěru, že jde o případ hodný zvláštního zřetele.** Jestliže v bytě žije více osob, které se společně neposuzují, úřad práce určí náklady na bydlení žadatele o doplatek na bydlení podílem z nákladů za celý byt.
+-   **Osoba v hmotné nouzi bydlící v ubytovně může doplatek na bydlení získat, pokud ubytovací zařízení splní požadavky zákona o ochraně veřejného zdraví** (úřad práce bude splnění těchto požadavků hodnotit od května 2015), **a bude-li s poskytováním doplatku na bydlení souhlasit obec**, na jejímž území se ubytovací zařízení nachází. Se zavedením podmínky souhlasu obce veřejná ochránkyně práv vyjádřila nesouhlas při projednávání návrhu zákona v Senátu (viz [Tisková zpráva ze dne 21. října 2014](/tiskove-zpravy/tiskove-zpravy-2014/navrhovana-pomoc-obcim-zbavit-se-ubytoven-povede-k-bezdomovectvi/)).
+-   **K získání doplatku na bydlení nemusí mít žadatel o dávku od 1. 1. 2015 trvalý pobyt v obci, v níž se byt nachází.** Pokud o doplatek na bydlení požádá vlastník či nájemce bytu, úřad práce jej vyzve, aby uplatnil žádost i o příspěvek na bydlení a nahlásil si trvalý pobyt na adresu bytu, který užívá.  
+-   **Od 1. 1. 2015 úřad práce přizná doplatek na bydlení pouze žadateli, který současně splní podmínky pro přiznání příspěvku na živobytí.** Výjimkou je, pokud žadatel o doplatek na bydlení tyto podmínky nesplní, ale jeho příjem nepřevyšuje 1,3 násobek jeho částky živobytí.
+-   **Úřad práce zohlední pouze 80 % příjmu z důchodu pro dávky pomoci v hmotné nouzi.** Tato změna může pomoci zejména osamělým důchodcům s nízkým důchodem k získání dávek pomoci v hmotné nouzi.     
+-   **Úřad práce může přiznat příspěvek na bydlení vlastníku či nájemci bytu neprodleně po přestěhování**, neboť namísto skutečných nákladů na bydlení za předchozí kalendářní čtvrtletí, které žadatel o dávku nemůže prokázat, započítá 80 % normativních nákladů na bydlení.

@@ -13,9 +13,9 @@ perex: <p>Nezaměstnaní si v&nbsp;minulosti nemohli dovolit zapomenout na žád
   zákona promítlo až nyní.</p>
 attachments:
   - title: Vyřazení z evidence uchazečů o zaměstnání úřadem práce (leták ombudsmana)
-    link: https://www.ochrance.cz/letaky/vyrazeni-z-evidence-up/vyrazeni-z-evidence-up.pdf
+    link: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/vyrazeni-z-evidence-up/vyrazeni-z-evidence-up.pdf
   - title: Sborník stanovisek ombudsmana „Nezaměstnaní a úřad práce“
-    link: https://www.ochrance.cz/media/sbornik_nezamestnani_a_urad_prace.pdf
+    link: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/media/sbornik_nezamestnani_a_urad_prace.pdf
 ---
 <p>Splést si datum schůzky, nebo na ni jednoduše úplně zapomenout? Stává se. Když však jde o stanovenou schůzku nezaměstnaného člověka s referentem úřadu práce, může mít takové nedopatření vážné následky. Od 1. října tohoto roku je však zákon benevolentnější. První zmeškanou schůzku za období dvanácti měsíců po sobě uchazeči o zaměstnání totiž toleruje.</p>
 <blockquote>

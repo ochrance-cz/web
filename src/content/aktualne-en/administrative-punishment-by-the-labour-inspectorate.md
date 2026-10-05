@@ -1,0 +1,14 @@
+---
+title: Administrative punishment by the Labour Inspectorate
+date: 2016-12-15T00:00:00.000Z
+perex: ""
+categories:
+  - news
+---
+The Ombudsman examined the filing of a complainant who referred to the inconsistent procedure of the District Labour Inspectorate which, on the basis of the complainant’s petition for the inspection of the employer, learned of the breach of the employer’s labour-law duties and ordered the employer to remedy the shortcomings ascertained during the inspection. However, the District Labour Inspectorate did not impose any fine on the employer for an administrative offence, not even after inspections carried out repeatedly in the past.
+
+After inquiring into the matter, the Ombudsman concluded there was an error on the part of the District Labour Inspectorate consisting in the failure to initiate administrative proceedings on administrative offences of the employer. The Ombudsman believes that once the District Labour Inspectorate learns of the facts of the case to an extent that allows for a preliminary legal assessment indicating a violation of the law, the District Labour Inspectorate is obliged to initiate administrative proceedings on an administrative offence, regardless of the imposition and potential performance of measures for the remedy of shortcomings ascertained during the inspection. Initiation of administrative proceedings on an administrative offence is therefore not a matter of discretion of the District Labour Inspectorate, but is rather governed by the principle of court-directed (ex officio) proceedings. According to the principle of legality, the District Labour Inspectorate is obliged to investigate into all administrative offences ascertained.
+
+It assesses the existence of the material criteria of an administrative offence only during the course of the initiated administrative proceedings. If the District Labour Inspectorate reaches the conclusion that the criteria were not met, there is no administrative offence and the administrative authority discontinues the proceedings. The District Labour Inspectorate takes into account any potential remedy of a shortcoming or repentance when determining the amount of the penalty only.
+
+As the District Labour Inspectorate disagreed with the conclusions of her inquiry, the Ombudsman issued a final statement in this matter and proposed a remedial measure. Since the Inspectorate accepted the proposed measures subsequently, the Ombudsman concluded the inquiry.

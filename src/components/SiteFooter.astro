@@ -1,0 +1,34 @@
+---
+// Site footer: overview links, social channels, contact, copyright.
+import FooterCs from './site-copy/Footer-cs.astro';
+import FooterEn from './site-copy/Footer-en.astro';
+
+export interface FooterLink {
+  href: string;
+  label: string;
+}
+
+export interface AccessibilityStatement {
+  intro: string;
+  mainHref: string;
+  movement: string;
+  seeing: string;
+  hearing: string;
+  otherIntro: string;
+  otherHref: string;
+  otherLabel: string;
+}
+
+export interface SocialLinks {
+  facebook: FooterLink;
+  twitter: FooterLink;
+  instagram: FooterLink;
+  linkedin: FooterLink;
+  youtube: FooterLink;
+  podcast: FooterLink;
+}
+
+interface Props { locale?: 'cs' | 'en' }
+const { locale = 'cs' } = Astro.props;
+---
+{locale === 'en' ? <FooterEn /> : <FooterCs />}

@@ -1,0 +1,21 @@
+---
+title: Ombudsmanka brání fasádu historického domu v Olomouci
+date: 2015-08-13T00:00:00.000Z
+perex: Olomouc – Známý dům U Zlaté koule z 19. století se zdobenou neorenesanční
+  fasádou nedávno překrylo polystyrenové zateplení a křiklavé barvy. Podle
+  místních i odborníků se jednalo o necitlivý zásah do vzhledu historické
+  budovy. Přestože olomoucký stavební úřad původně namítal nemožnost zasáhnout,
+  po upozornění veřejné ochránkyně práv zahájil s majitelem domu řízení
+  o odstranění nepovolených stavebních úprav.
+kategorie:
+  - tz
+---
+Stavební úřad původně přijal argumentaci majitele, že se jedná jen o takzvané udržovací práce. Na ty není potřeba stavební povolení ani ohlášení, proto úřad nezasáhl. Jak ale upozornila veřejná ochránkyně práv, pokud dochází ke změně vzhledu budovy, měl by stavební úřad posoudit, zda plánované změny nenaruší urbanistické a architektonické hodnoty stávající zástavby. *„To, že stavba není zapsaná jako památka, ještě neznamená, že nemá mít ochranu. Dohlížet na zachování architektonicky hodnotné zástavby by měly obce a stavební úřady,“* vysvětluje veřejná ochránkyně práv Anna Šabatová.
+
+Ve své praxi se ombudsmanka často setkává s námitkou úřadů, že k ochraně architektonicky cenných staveb bez statusu kulturní památky nemají účinné právní nástroje. *„Stavební zákon přitom obsahuje několik ustanovení, která ochranu urbanistických a architektonických hodnot zástavby řeší,“* podotýká právník z Kanceláře veřejné ochránkyně práv Marek Hanák. *„Obce mohou architektonicky hodnotné stavby na svém území popsat a zakotvit zejména ve svých územně analytických podkladech, ideálně po konzultacích s občany. Stavební úřad pak musí při posuzování stavebních záměrů hodnoty území zohlednit,“* doplňuje.
+
+K posouzení souladu stavby s urbanisticko-architektonickým charakterem okolní zástavby si stavební úřad může vyžádat podklady od stavebníka a vyjádření dalších dotčených orgánů. Na jejich základě pak posoudí, zda je chystaná stavební změna v pořádku. Pokud by stavebník rozhodnutí úřadu nerespektoval nebo chystané změny předem neohlásil, hrozí mu pokuta a nutnost již provedené nepovolené stavební změny odstranit, případně mu stavební úřad může uložit povinnost obnovit předcházející stav stavby. „I na první pohled technologicky jednoduché změny, které ale výrazně ovlivňují vzhled stavby a jejího okolí, je lepší předem konzultovat se stavebním úřadem. Stavebník se tak vyhne pokutám nebo možným komplikacím v budoucnu,“ uzavírá právník Hanák. 
+
+![](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/uploads/RTEmagicC_Dum_U_Zlate_koule_01.png.png)
+
+Srovnání podoby olomouckého historického domu U Zlaté koule z 19. století před (vlevo) a po úpravách (vpravo). Foto: koláž iDNES.cz

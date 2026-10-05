@@ -3,7 +3,7 @@ title: Zástupce veřejné ochránkyně práv a ochránce práv dětí
 name: JUDr. Vít Alexander Schorm
 pic: zvop_schorm_-_kopie_orez.jpg
 order: 2
-footerPic: /images/kontakt.jpg
+footerPic: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/images/kontakt.jpg
 quote: ""
 bio: >-
   Funkční období od 1. listopadu 2022.
@@ -57,4 +57,6 @@ areas:
   - area: Činnost Vězeňské služby ČR
   - area: "Školství "
     desc: Správa na úseku školství, akademická samospráva aj.
+  - area: Konzulární služba, superlegalizace a ostatní působnost MZV
+  - area: "Soudní rozhodování ve věcech cizinců "
 ---

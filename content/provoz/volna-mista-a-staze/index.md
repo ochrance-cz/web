@@ -4,11 +4,9 @@ linksAfter: []
 ---
 <h2>
 <strong>Volná místa</strong></h2>
-<p>V tuto chvíli hledáme právníky/právničky na daňovou a justiční agendu. Více informací v 
-<a href="https://www.ochrance.cz/aktualne/hledame_pravniky_pravnicky_na_danovou_a_justicni_agendu/">inzerátu</a>.</p>
-<ul>
-<li>
-<a href="https://www.ochrance.cz/aktualne/hledame_ucetni_nebo_ucetniho/">účetní/účetního</a></li></ul>
+<p>V tuto chvíli 
+<a href="https://www.ochrance.cz/aktualne/hledame_personalistu_nebo_personalistku/">Hledáme personalistu nebo personalistku</a>.</p>
+<p>&nbsp;</p>
 <p>
 <strong>Stáže pro studenty právnických fakult</strong></p>
 <p>Na stáž se můžete přihlásit přes svou právnickou fakultu v&nbsp;Brně, Olomouci a Praze. Pokud nevíte, koho ve škole oslovit, napište kolegyni Haně Suské na adresu 
@@ -22,7 +20,7 @@ linksAfter: []
 <li>Uděláme, co půjde, abychom naplnili Vaše individuální potřeby a umožnili Vám sladit pracovní a osobní život.</li>
 <li>Žádáme profesionalitu a výkonnost.</li></ul>
 <p>Více se můžete dozvědět také v 
-<a href="https://www.ochrance.cz/media/personalni_strategie.pdf">personální strategii</a>.</p>
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/media/personalni_strategie.pdf">personální strategii</a>.</p>
 <h2>
 <strong>Co nabízíme zaměstnancům?</strong></h2>
 <ul>

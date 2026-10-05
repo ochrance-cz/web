@@ -1,0 +1,24 @@
+---
+title: Ochránce doporučil úřadům řešit dopady úsporných opatření
+date: 2011-03-21T00:00:00.000Z
+perex: V důsledku zrušení sociálního příplatku se některé rodiny
+  s nezaopatřenými dětmi dostaly do tíživé sociální situace, neboť ztratily
+  příjem, na němž byly existenčně závislé. Příspěvek pobíraly rodiny, jejichž
+  celkový příjem nedosahoval dvojnásobku životního minima, a sloužil ke krytí
+  nákladů na výchovu a výživu dětí.
+kategorie:
+  - tz
+---
+Ochránce se proto obrátil na krajské úřady s doporučením, jakým způsobem by měly postupovat při řešení dopadů úsporných opatření v sociální oblasti, a rovněž v tomto smyslu informoval i ministerstvo práce a sociálních věcí. Doporučení je však i osvětou směrem k takto postiženým rodinám, jak mohou svoji situaci řešit.
+
+**1.**  **Rodiny, které dosud nepobíraly dávky pomoci v hmotné nouzi**, by se měly obrátit na sociální odbor místně příslušného pověřeného obecního úřadu s žádostí o **příspěvek na živobytí a o doplatek na bydlení**. Příspěvek na živobytí je opakovanou dávkou pomoci v hmotné nouzi určenou ke krytí základních životních potřeb příjemce a jeho rodiny, tj. zejména stravy, ošacení, obuvi atd. Úřad bude při posuzování žádosti vycházet z příjmů, kterých rodina dosáhla ve třech měsících předcházejících měsíci, v němž byla žádost podána. Pokud rodina požádala o příspěvek na živobytí a doplatek na bydlení už v únoru 2011, měl by úřad vycházet z toho, že v únoru došlo u rodiny k podstatnému poklesu příjmů (sociální příplatek za prosinec 2010 byl vyplacen v lednu 2011), a pro účely rozhodování o dávkách by měl vycházet pouze z příjmů, které rodina získala v únoru 2011.
+
+Tyto rodiny mohou zvážit rovněž podání žádosti o mimořádnou okamžitou pomoc (zejména na krytí nutného jednorázového výdaje, případně na úhradu odůvodněných nákladů souvisejících se vzděláním nebo zájmovou činností dítěte)
+
+**2.**  **Rodiny, které byly příjemci dávek pomoci v hmotné nouzi**, by měly na sociálním odboru obecního úřadu podat žádost o **mimořádnou okamžitou pomoc z důvodu ohrožení sociálním vyloučením,** o **mimořádnou okamžitou pomoc na úhradu nezbytného jednorázového výdaje**, případně o **mimořádnou okamžitou pomoc ke krytí odůvodněných nákladů souvisejících se vzděláním nebo zájmovou činností dítěte**.
+
+U těchto rodin dojde až do dubna ke krácení příspěvku na živobytí, protože jeho výše je počítána z příjmů v měsíci, za nějž má být poskytnuta, a v předchozích dvou měsících. Ještě v lednu byly příjmy rodiny vyšší o sociální příplatky.
+
+K řešení výpadku příjmů ochránce takto postiženým rodinám doporučuje podat žádost o mimořádnou okamžitou pomoc – zejména mimořádnou pomoc z důvodu ohrožení osoby sociálním vyloučením (mohou o ni současně požádat všechny společně posuzované osoby v rodině, dávka může být poskytnuta až do výše 1000 Kč s tím, že součet dávek poskytnutých jedné osobě nesmí v kalendářním roce překročit čtyřnásobek životního minima jednotlivce, tj. 12 504 Kč).
+
+Druhou možností je mimořádná okamžitá pomoc na úhradu nezbytného jednorázového výdaje (např. i výdaje na bydlení). Třetí možností je mimořádná okamžitá pomoc ke krytí odůvodněných nákladů souvisejících se vzděláním nebo zájmovou činností nezaopatřeného dítěte. Zde připadá do úvahy např. krytí nákladů na vzdělávání dítěte v mateřské škole, na jízdné do školy, stravné ve školní jídelně apod.

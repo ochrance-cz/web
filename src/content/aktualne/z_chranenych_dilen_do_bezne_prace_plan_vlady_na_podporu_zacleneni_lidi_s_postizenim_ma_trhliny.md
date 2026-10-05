@@ -1,0 +1,47 @@
+---
+title: Z chráněných dílen do běžné práce? Plán vlády na podporu začlenění lidí s
+  postižením má trhliny
+date: 2026-01-23T09:24:00.000Z
+perex: Lidé s postižením stále narážejí na vážné překážky při hledání a udržení
+  práce na běžném trhu. Změnit to má plán vlády, na jehož tvorbě se podílel
+  ombudsman. Důležité návrhy, které měly pomoci lidem opustit chráněná
+  pracoviště a získat běžnou práci, se ale do dokumentu nedostaly. I proto se
+  sešli členové poradního orgánu, aby diskutovali připomínky a návrhy k vládnímu
+  plánu na téma práce a vyslechli si zkušenosti v oblasti zaměstnávání lidí s
+  postižením.
+kategorie:
+  - aktualita
+---
+Naďa Trávníčková je sebeobhájkyní – ženou s intelektovým postižením, která sdílí své zkušenosti a vystupuje sama za sebe. Dva roky pracuje a zajišťuje, aby se lidé vraceli do čistých kanceláří a domácností. Ve své práci je šťastná, navzdory tomu, že se setkala se šikanou kolegů. Tu se brzy podařilo vyřešit. Na prosincovém zasedání poradního orgánu se podělila o to, proč je pro ni práce důležitá: *„Abych si mohla vydělat peníze, abych si za ně mohla něco koupit (…). Abych mohla jezdit třeba na dovolené, do Chorvatska, jako jsem byla letošní rok (pozn.: 2025) poprvé.“* Výpověď Nadi Trávníčkové ukazuje, že i když mají lidé s postižením podobné cíle a přání, nemají stejné příležitosti.
+
+To potvrzují také další sebeobhájci, jejichž názory shrnula na setkání poradního orgánu sociální pracovnice Kristýna Hanzlíčková: *„Cítí předsudky od zaměstnavatelů. Třeba proto, že mají opatrovníka, který musí podepisovat smlouvu. A to může odrazovat zaměstnavatele od toho, aby je přijal. Nemají pak kde nabrat pracovní zkušenosti, když je nikdo nechce zaměstnat. Taky jsou odkázáni pracovat v chráněných dílnách či sociálních podnicích, kde nemají hodně peněz. Někdy pociťují, že pracovní tempo je příliš rychlé.“*    
+ 
+
+**Potvrzeno daty: Každý má co nabídnout. Ale ne každý má stejnou příležitost to ukázat**
+
+Zkušenosti lidí s postižením podporují také data. Kancelář ombudsmana a dětského ombudsmana minulý rok zveřejnila  [ukazatelovu zprávu](https://www.ochrance.cz/aktualne/co_chybi_aby_mohli_zit_stejne_jako_ostatni_zastupce_ombudsmana_zjistoval_jak_cesko_naplnuje_prava_lidi_s_postizenim/) o tom, jak Česká republika naplňuje své povinnosti vyplývající z Úmluvy o právech osob se zdravotním postižením *.* Ta kromě přetrvávající nízké zaměstnanost lidí s postižením ukazuje i na překážky v přístupu této skupiny obyvatel na otevřený pracovní trh.
+
+*„Zaměstnávání se dotýká celé řady oblastí – od vzdělávání a podpory na trhu práce, přes postoje zaměstnavatelů a společnosti až třeba k sociálnímu zabezpečení. Bez cílené podpory se situace nezmění. Proto jsme na poradním orgánu diskutovali návrhy opatření, které předkládáme do Národního plánu podpory rovných příležitostí pro osoby se zdravotním postižením na období let 2026–2030,“* vysvětlil zástupce ombudsmana a dětského ombudsmana Vít Alexander Schorm. Národní plán podpory je dokument, který reaguje na potřeby lidí s postižením v oblasti přístupnosti, bydlení, asistence i zaměstnávání s důrazem na naplňování Úmluvy o právech osob se zdravotním postižením.
+
+ 
+
+> **Co je Národní plán podpory rovných příležitostí?**
+> 
+> Je to strategický dokument vlády, který navazuje na předchozí plány. Základním účelem dokumentu je zajistit rovná práva a vyrovnávání příležitostí pro lidi s postižením. Důraz přitom klade na podporu důstojného a nezávislého života a prostředí, které je co nejméně omezující.
+> 
+> Ombudsman se stal součástí pracovní skupiny k přípravě nového Národního plánu rovných příležitostí pro osoby se zdravotním postižením pro období 2026 –2030, kterou zřídila Rada vlády pro osoby se zdravotním postižením. Ne všechny návrhy ombudsmana se do dokumentu dostaly. Týká se to zejména konkrétních kroků k omezení dlouhodobé segregace na chráněném trhu práce a podpory přechodu na otevřený trh. V prosinci minulého roku [k plánu odeslal své připomínky](https://eso.ochrance.cz/Nalezene/Edit/14120) a nyní čeká na jejich vypořádání.
+
+**Plánu chybí měřitelné cíle a silnější spolupráce mezi rezorty**
+
+Výsledkem diskuze poradního orgánu je [usnesení](https://www.ochrance.cz/dokument/usneseni_k_pravu_na_praci_zamestnani_habilitaci_a_rehabilitaci_lidi_s_postizenim/). V něm členové orgánu upozorňují na nedostupnost podpory pro lidi s postižením v produktivním věku, kteří nepracují, mají vyšší stupeň invalidity nebo nejsou vedeni na Úřadu práce. Také zdůrazňují slabé propojení sociálních služeb se zaměstnáváním a dlouhodobý růst chráněných pracovních míst na úkor otevřeného trhu práce. Současně poukazují na přetrvávající finanční, sociální i právní bariéry.
+
+Vyzývají proto ombudsmana, aby v národním plánu prosazoval jasné a měřitelné cíle, posílení spolupráce státu v oblasti podpory práce, odstranění odrazujících nastavení sociálního zabezpečení a systémová opatření, která povedou k většímu zaměstnávání lidí se zdravotním postižením na běžném trhu práce.
+
+> **Poradní orgán pro oblast práv lidí s postižením**
+> 
+> -   **předkládá** ombudsmanovi  **systémová témata** v oblasti ochrany práv lidí s postižením,
+> -   **poskytuje** ombudsmanovi  **konzultace** a praktické informace,
+> -   podílí se na  **připomínkování právních předpisů** ombudsmanem a zaujímá stanoviska k jeho strategickým dokumentům týkajícím se práv lidí s postižením,
+> -   **získává podněty** od lidí s postižením, organizací hájících jejich práva a od pečujících osob,
+> -   **zajišťuje informovanost** lidí s postižením, organizací hájící jejich práva a široké veřejnosti o činnost ombudsmana v oblasti monitorování podle Úmluvy.
+> -   Poradní orgán má svůj  [Jednací řád](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/media/jednaci_rad_poradniho_organu.doc) a  [Statut](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/media/statut_poradniho_organu.docx),  [Výstupy](https://www.ochrance.cz/vystupy/poradni-organ-crpd/) poradního orgánu jsou veřejné.

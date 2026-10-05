@@ -43,7 +43,7 @@ attachments:
 <li>Důvody předložené Ministerstvem školství jsou v rozporu s údaji o nárůstu využívání dalšího pedagogického pracovníka v&nbsp;běžných i speciálních třídách po roce 2020. Zatímco Ministerstvo uvádí, že nárůst využívání této podpory je přechodný, data ukazují setrvalý nárůst od roku 2019.</li>
 <li>Po roce 2020 stoupl počet dětí se speciálními vzdělávacími potřebami, které se vzdělávají doma. Stát tento trend dosud nezmapoval z pohledu rovných příležitostí a nevysvětlil dopady na nejvíce zranitelné děti. Zrušením „dalšího učitele“ hrozí, že dojde k prohloubení&nbsp;vyloučení dětí se speciálními vzdělávacími potřebami ze vzdělávacího systému a posílení závislosti jejich rodičů na pomoci státu.</li></ul>
 <p>
-<a href="https://www.ochrance.cz/aktualne/stovky_deti_se_specialnimi_vzdelavacimi_potrebami_se_neobejdou_bez_druheho_pedagoga_osud_tohoto_podpurneho_opatreni_je_ale_nejisty/31527-24_priloha.pdf">Podrobněji v&nbsp;příloze dopisu adresovanému Ministerstvu školství</a></p></blockquote>
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/stovky_deti_se_specialnimi_vzdelavacimi_potrebami_se_neobejdou_bez_druheho_pedagoga_osud_tohoto_podpurneho_opatreni_je_ale_nejisty/31527-24_priloha.pdf">Podrobněji v&nbsp;příloze dopisu adresovanému Ministerstvu školství</a></p></blockquote>
 <blockquote>
 <p>
 <strong>Příběh, kde pomáhá „další učitel“&nbsp;</strong></p>

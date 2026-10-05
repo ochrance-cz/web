@@ -1,0 +1,8 @@
+---
+title: Good Practice in the Provision of Housing to Vulnerable People
+date: 2023-12-11T08:45:48.974Z
+vystupy:
+  - researches
+---
+
+- [Good Practice in the Provision of Housing to Vulnerable People](<https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/OMB-5%20dobra-praxe_EN_online%2005-24-1.pdf>)

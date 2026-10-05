@@ -8,5 +8,5 @@ vystupy:
   - vyzkumy
 attachmentsTop:
   - title: "Křižovatky ochrany "
-    file: https://www.ochrance.cz/uploads-import/ESO/54_2020_OZP_v%C3%BDzkum.docx.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/54_2020_OZP_v%C3%BDzkum.docx.pdf
 ---

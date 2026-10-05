@@ -11,9 +11,9 @@ perex: <p>People with disabilities in the Czech Republic still face major
   Disabilities.</p>
 attachments:
   - title: Full research report
-    file: https://www.ochrance.cz/en/dokument/how_czechia_fulfils_its_obligations_under_the_convention_on_the_rights_of_persons_with_disabilities/human_rights_indicators-based_analysis.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/en/dokument/how_czechia_fulfils_its_obligations_under_the_convention_on_the_rights_of_persons_with_disabilities/human_rights_indicators-based_analysis.pdf
   - title: Summary factsheet
-    file: https://www.ochrance.cz/en/aktualne/deputy_defender_reveals_gaps_in_the_rights_and_opportunities_for_people_with_disabilities_in_the_czech_republic/summary_factsheet_1_.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/en/aktualne/deputy_defender_reveals_gaps_in_the_rights_and_opportunities_for_people_with_disabilities_in_the_czech_republic/summary_factsheet_1_.pdf
 ---
 <p>This research is the first of its kind to examine how the rights of persons with disabilities are implemented in practice, using human-rights indicators. These indicators provide an understanding of the real-life situation of people with disabilities – not just what the law provides, but what the State actually does and the practical impact of its actions.&nbsp;</p>
 <blockquote>

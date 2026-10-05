@@ -1,0 +1,9 @@
+---
+title: Usnesení k právu na práci, zaměstnání, habilitaci a rehabilitaci lidí s postižením
+perex: 17. prosince 2025 (přijaté po projednání na 21. zasedání hlasováním mimo zasedání)
+date: 2026-01-14T00:00:00.000Z
+vystupy:
+  - poradni-organ-crpd
+---
+
+- [Usnesení k právu na práci, zaměstnání, habilitaci a rehabilitaci lidí s postižením](<https://cdn.nuasite.com/assets/ochrance-web-lj8h86/dokument/usneseni_k_pravu_na_praci_zamestnani_habilitaci_a_rehabilitaci_lidi_s_postizenim/usneseni_kpravu_na_praci_zamestnani_habilitaci_a_rehabilitaci_lidi_s_postizenim.pdf>)

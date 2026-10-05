@@ -7,7 +7,7 @@ date: 2026-01-14
 vystupy:
   - poradni-organ-crpd
 attachmentsTop:
-  - file: https://www.ochrance.cz/dokument/usneseni_k_pravu_na_praci_zamestnani_habilitaci_a_rehabilitaci_lidi_s_postizenim/usneseni_kpravu_na_praci_zamestnani_habilitaci_a_rehabilitaci_lidi_s_postizenim.pdf
+  - file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/dokument/usneseni_k_pravu_na_praci_zamestnani_habilitaci_a_rehabilitaci_lidi_s_postizenim/usneseni_kpravu_na_praci_zamestnani_habilitaci_a_rehabilitaci_lidi_s_postizenim.pdf
     title: Usnesení k právu na práci, zaměstnání, habilitaci a rehabilitaci lidí s
       postižením
 ---

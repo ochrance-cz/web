@@ -2,7 +2,7 @@
 title: Zpravodaj ombudsmana 3/2022
 month: 3
 year: 2022
-file: https://www.ochrance.cz/zpravodaj/3_2022/zpravodaj-ombudsmana-3-2022.pdf
+file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/zpravodaj/3_2022/zpravodaj-ombudsmana-3-2022.pdf
 sections:
   - title: Veřejná správa
     articles:
@@ -304,7 +304,7 @@ sections:
     articles:
       - body: >
           <p>Ochránce vydal <a
-          href="https://www.ochrance.cz/uploads-import/ESO/40-22-BVT-doporu%C4%8Den%C3%AD%20-%20obce-final.pdf">doporučení
+          href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/40-22-BVT-doporu%C4%8Den%C3%AD%20-%20obce-final.pdf">doporučení
           </a>k postupu územních samospráv odmítajících ubytování romských
           ukrajinských uprchlíků na svých územích. Učinil tak na podkladě
           otevřených prohlášení některých obcí a krajů, které se na toto téma

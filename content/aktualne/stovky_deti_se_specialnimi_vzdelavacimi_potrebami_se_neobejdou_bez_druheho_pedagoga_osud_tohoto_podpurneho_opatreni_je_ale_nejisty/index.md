@@ -13,14 +13,14 @@ perex: >
   míru podpory, než jim může poskytnout asistent pedagoga.</p>
 attachments:
   - title: "Dopis veřejného ochránce práv ministrovi školství "
-    file: https://www.ochrance.cz/aktualne/stovky_deti_se_specialnimi_vzdelavacimi_potrebami_se_neobejdou_bez_druheho_pedagoga_osud_tohoto_podpurneho_opatreni_je_ale_nejisty/31527-24_dopis_msmt_lrv.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/stovky_deti_se_specialnimi_vzdelavacimi_potrebami_se_neobejdou_bez_druheho_pedagoga_osud_tohoto_podpurneho_opatreni_je_ale_nejisty/31527-24_dopis_msmt_lrv.pdf
   - title: Výhrady veřejného ochránce práv ke zrušení podpůrného opatření „využití
       dalšího pedagogického pracovníka“ v návrhu novely školského zákona
-    file: https://www.ochrance.cz/aktualne/stovky_deti_se_specialnimi_vzdelavacimi_potrebami_se_neobejdou_bez_druheho_pedagoga_osud_tohoto_podpurneho_opatreni_je_ale_nejisty/31527-24_priloha.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/stovky_deti_se_specialnimi_vzdelavacimi_potrebami_se_neobejdou_bez_druheho_pedagoga_osud_tohoto_podpurneho_opatreni_je_ale_nejisty/31527-24_priloha.pdf
 ---
 <p>Změna se do návrhu dostala až po skončení připomínkového řízení. <em>&bdquo;Neproběhla široká odborná diskuse, a tedy ani důkladné posouzení dopadů do života dětí, jejich rodičů a škol. Změna působí jako nepřiměřený zásah do práva dětí s&nbsp;postižením na vzdělání,&ldquo;</em> říká zástupce veřejného ochránce práv Vít Alexander Schorm. Přitom se toto <a href="https://www.zakonyprolidi.cz/cs/2004-561#p16">podpůrné opatření</a> podle dat ministerstva školství využívá stále častěji.</p>
 
-<p><img alt="dalsi_pedagog_-_pocty.png" src="https://www.ochrance.cz/aktualne/stovky_deti_se_specialnimi_vzdelavacimi_potrebami_se_neobejdou_bez_druheho_pedagoga_osud_tohoto_podpurneho_opatreni_je_ale_nejisty/dalsi_pedagog_-_pocty.png" />Jak zástupce ombudsmana dodává, <em>&bdquo;děti zjevně dostávají toto podpůrné opatření z&nbsp;dobrého důvodu. Shromáždili jsme popis řady případů konkrétních žáků, pro které je možnost mít druhého pedagoga při vzdělávání zásadní.&ldquo;</em></p>
+<p><img alt="dalsi_pedagog_-_pocty.png" src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/stovky_deti_se_specialnimi_vzdelavacimi_potrebami_se_neobejdou_bez_druheho_pedagoga_osud_tohoto_podpurneho_opatreni_je_ale_nejisty/dalsi_pedagog_-_pocty.png" />Jak zástupce ombudsmana dodává, <em>&bdquo;děti zjevně dostávají toto podpůrné opatření z&nbsp;dobrého důvodu. Shromáždili jsme popis řady případů konkrétních žáků, pro které je možnost mít druhého pedagoga při vzdělávání zásadní.&ldquo;</em></p>
 
 <blockquote>
 <p><strong>Další pedagog v&nbsp;praxi: příklady využití podpůrného opatření u dětí se speciálními vzdělávacími potřebami</strong></p>

@@ -8,7 +8,7 @@ vystupy:
 attachmentsTop:
   - title: "Doporučení veřejného ochránce práv k naplňování práva na rovné zacházení
       s žadateli o pronájem obecního bytu "
-    file: https://www.ochrance.cz/uploads-import/ESO/4%20-%20Doporu%C4%8Den%C3%AD_byty_%2022-2001-AH%C5%98-M%C4%8C-IH-JH.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/4%20-%20Doporu%C4%8Den%C3%AD_byty_%2022-2001-AH%C5%98-M%C4%8C-IH-JH.pdf
 attachments:
   - title: Výzkum na obecní bydlení z pohledu práva na rovné zacházení a role obcí
       při řešení bytové nouze

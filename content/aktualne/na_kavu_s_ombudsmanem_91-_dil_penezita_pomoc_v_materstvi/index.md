@@ -17,7 +17,7 @@ perex: >
 
 <p>&nbsp;</p>
 
-<p>Nápomocný vám může být také leták ombudsmana <a href="https://www.ochrance.cz/letaky/penezita-pomoc-v-materstvi-materska/materska.pdf">Peněžitá pomoc v&nbsp;mateřství</a>&nbsp;a&nbsp;předchozí díl podcastu&nbsp;<a href="https://www.ochrance.cz/aktualne/na_kavu_s_ombudsmanem_90-_dil_rodicovsky_prispevek/">Rodičovský příspěvek</a>.</p>
+<p>Nápomocný vám může být také leták ombudsmana <a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/penezita-pomoc-v-materstvi-materska/materska.pdf">Peněžitá pomoc v&nbsp;mateřství</a>&nbsp;a&nbsp;předchozí díl podcastu&nbsp;<a href="https://www.ochrance.cz/aktualne/na_kavu_s_ombudsmanem_90-_dil_rodicovsky_prispevek/">Rodičovský příspěvek</a>.</p>
 
 <p>&nbsp;</p>
 

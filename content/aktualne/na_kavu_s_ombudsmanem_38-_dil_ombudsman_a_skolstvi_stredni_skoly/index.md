@@ -17,7 +17,7 @@ perex: Dnešní podcast věnovaný středním školám uzavírá sérii Ombudsma
 
 <p>&nbsp;</p>
 
-<p><a href="https://www.ochrance.cz/vystupy/publikace/stanoviska/Sbornik_Skolstvi.pdf">Sborník stanovisek veřejného ochránce práv, Školství</a></p>
+<p><a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/vystupy/publikace/stanoviska/Sbornik_Skolstvi.pdf">Sborník stanovisek veřejného ochránce práv, Školství</a></p>
 
 <p>Podcast se další pátek k příležitosti Mezinárodního dne seniorů zaměří na služby a komplikace s jejich reklamacemi, s nimiž se senioři či jejich blízcí běžně mohou setkat. Věnovat se budeme třeba mobilním a poštovním službám, penzijním produktům či životnímu pojištění.</p>
 

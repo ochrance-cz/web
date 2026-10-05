@@ -2,7 +2,7 @@
 title: Zpravodaj ombudsmana za červenec a srpen 2024
 month: 9
 year: 2024
-file: https://www.ochrance.cz/zpravodaj/za_cervenec_a_srpen_2024/zpravodaj_cervenec_a_srpen_2024.pdf
+file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/zpravodaj/za_cervenec_a_srpen_2024/zpravodaj_cervenec_a_srpen_2024.pdf
 sections:
   - title: Úvodní slovo
     articles:

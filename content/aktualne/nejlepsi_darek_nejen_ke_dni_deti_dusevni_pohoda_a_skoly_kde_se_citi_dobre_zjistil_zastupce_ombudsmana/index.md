@@ -15,11 +15,11 @@ perex: <p>Méně tlaku a více podpory, to by si přála většina dětí ve sv�
 attachments:
   - title: Problematické oblasti života v Česku z pohledu dětí a mladých lidí (11–25
       let), výzkumná zpráva 2025
-    file: https://www.ochrance.cz/uploads-import/ESO/VI1827_25_BJ_vyzkumna_zprava.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/VI1827_25_BJ_vyzkumna_zprava.pdf
   - title: Podrobněji o dětském ombudsmanovi
     file: https://deti.ochrance.cz/kdo/detskyombudsman
   - title: Co nejvíce tíží děti a mladé v ČR? (obrázek ke stažení)
-    file: https://www.ochrance.cz/aktualne/nejlepsi_darek_nejen_ke_dni_deti_dusevni_pohoda_a_skoly_kde_se_citi_dobre_zjistil_zastupce_ombudsmana/co_nejvice_tizi_deti_a_mlade_v_cr.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/nejlepsi_darek_nejen_ke_dni_deti_dusevni_pohoda_a_skoly_kde_se_citi_dobre_zjistil_zastupce_ombudsmana/co_nejvice_tizi_deti_a_mlade_v_cr.pdf
 ---
 <p>Téměř 300 dětí a mladých lidí ve věku 11–25 let se podělilo v&nbsp;rámci výzkumu Kanceláře ombudsmana o názor na to, co jejich generaci nejvíce tíží. I když věkový rozptyl mezi nejmladšími a nejstaršími dotazovanými byl značný, na dvou nejpalčivějších oblastech se shodla většina z&nbsp;nich: duševní zdraví a&nbsp;školství.&nbsp;</p>
 <p>
@@ -30,7 +30,7 @@ attachments:
 <i>„Stejný vzdělávací systém po stovky let, velký objem učiva, informace jsou dnes všude dohledatelný, místo toho aby se víc zaměřovalo na práci s technologií, zdravými návyky, stravování.“</i></p>
 <p>Tento názor zdaleka není ojedinělý. Podobná sdělení se v&nbsp;dotaznících objevovala opakovaně.&nbsp;Děti, teenageři i mladí lidé na prahu dospělosti shodně kritizují, že se učí látku, která je v&nbsp;praxi nevyužitelná a neaktuální. Často by uvítali větší digitalizaci vzdělávání. Řadě z&nbsp;nich také nevyhovuje přístup učitelů, který považují za zkostnatělý.</p>
 <figure class="image">
-<img src="https://www.ochrance.cz/aktualne/nejlepsi_darek_nejen_ke_dni_deti_dusevni_pohoda_a_skoly_kde_se_citi_dobre_zjistil_zastupce_ombudsmana/top_5_problemy_deti.jpg" alt="Obrázek je ikonografika s nadpisem Co nejvíce tíží děti a mladě v ČR, 5 nejvýznamnějších oblastí. Odkaz na leták ve formátu PDF naleznete dole pod textem."></figure>
+<img src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/nejlepsi_darek_nejen_ke_dni_deti_dusevni_pohoda_a_skoly_kde_se_citi_dobre_zjistil_zastupce_ombudsmana/top_5_problemy_deti.jpg" alt="Obrázek je ikonografika s nadpisem Co nejvíce tíží děti a mladě v ČR, 5 nejvýznamnějších oblastí. Odkaz na leták ve formátu PDF naleznete dole pod textem."></figure>
 <p>Mladší děti (11–14 let) vnímají jako velmi problematické také sociální sítě, výchovu v&nbsp;rodinách či ochranu zvířat. U mladých ve věku 15–25 let se zase do pětice největších bolestí dostala témata, jako je bydlení, zejména jeho nedostupnost a vysoká cena, a obavy z pracovního uplatnění.&nbsp;</p>
 <p>Zástupce ombudsmana Vít Alexander Schorm, který bude mít do zvolení dětského ombudsmana tuto agendu na starosti, bere dětské hlasy vážně: 
 <i>„Většinu problémů, které dnešní děti v Česku tíží nejvíc, není snadné vyřešit. Je však důležité, že je mladá generace umí přesvědčivě popsat. Na nás dospělých pak je, abychom děti a mladé nejen vyslyšeli, ale také je zapojili do hledání nejvhodnějšího řešení. To je jeden z&nbsp;důvodů, proč dětský ombudsman bude zřizovat svůj poradní orgán složený z&nbsp;dětí. Stejně tak vítám iniciativy řady ministerstev, která pozvolna usilují o zapojení dětí a mladých lidí do svých činností, například v&nbsp;podobě zřizování panelů pro mládež.“</i></p>

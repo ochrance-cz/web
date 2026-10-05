@@ -16,10 +16,10 @@ attachments:
       ve vězeňství ze dne 5. 4. 2024
   - file: https://www.ochrance.cz/aktualne/klicovym-problemem-vezenstvi-je-preplnenost/
     title: Negativní dopady přeplněnosti věznic
-  - file: https://www.ochrance.cz/uploads-import/Publikace/sborniky_stanoviska/Sbornik_Vezenstvi_II.pdf
+  - file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/Publikace/sborniky_stanoviska/Sbornik_Vezenstvi_II.pdf
     title: Sborník stanovisek ochránce – Vězeňství II (2019)
   - title: Zpráva z návštěv věznic (2016)
-    file: https://www.ochrance.cz/uploads-import/ESO/14-2014-NZ-Souhrnna_zprava_z_navstev_veznic.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/14-2014-NZ-Souhrnna_zprava_z_navstev_veznic.pdf
 ---
 <p>Připravovaná&nbsp; 
 <a href="https://odok.cz/portal/veklep/material/KORND3QJZZZ3/">novela trestního zákoníku</a> je součástí legislativního plánu vlády a přináší zásadní změny, díky nimž by měl klesnout počet vězňů. Významným krokem k tomu je přehodnocení některých trestných činů a snížení ukládaných trestů, které bývají někdy v&nbsp;naprostém nepoměru k&nbsp;závažnosti postihované kriminality. 

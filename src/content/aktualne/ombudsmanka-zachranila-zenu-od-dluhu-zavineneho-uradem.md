@@ -1,0 +1,21 @@
+---
+title: Ombudsmanka zachránila ženu od dluhu zaviněného úřadem
+date: 2017-02-16T00:00:00.000Z
+perex: Ochránkyni se podařilo vyřešit potíže prababičky, která si vzala do péče
+  své dvě pravnučky. Chybou úřadu jí totiž vznikl přeplatek na rodičovském
+  příspěvku a přídavcích na děti. Díky ochránkyni přistoupilo ministerstvo
+  na řešení, které ženu nepoškodilo.
+kategorie:
+  - tz
+---
+Na ombudsmanku se obrátila stěžovatelka, která si vzala do péče své dvě malé pravnučky. Jejich matka o ně neměla zájem, odstěhovala se ze společné domácnosti, kde zanechala starší dceru, a mladší umístila do dětského centra. Stěžovatelka – prababička dětí – požádala o pomoc orgán sociálně-právní ochrany dětí, protože se dětí chtěla ujmout. Sociální pracovníci s tím souhlasili a podali soudu návrh na svěření dětí do péče prababičky předběžným opatřením. Soud návrhu vyhověl, prababička se o děti starala a na základě tohoto soudního rozhodnutí dostávala rodičovský příspěvek a přídavky na děti.
+
+Po šesti měsících však krajský soud původní rozhodnutí zrušil, protože zjistil, že orgán sociálně-právní ochrany dětí nebyl v tomto případě vůbec oprávněn za prababičku dětí návrh na předběžné opatření podat. Upozornil, že podle zákona si o vydání předběžného opatření na svěření dětí do péče měla požádat prababička.
+
+Prababička to udělala a novým soudním rozhodnutím jí děti byly, tentokrát správně, svěřeny do péče. Problém byl ale s vyplacenými dávkami. Oněch předchozích šest měsíců sice o děti pečovala, ale bez platného soudního rozhodnutí, tudíž neměla nárok na rodičovský příspěvek a přídavky na děti. Úřad práce jí vyčíslil přeplatek ve výši 31.600 Kč.
+
+Veřejná ochránkyně práv dospěla k závěru, že by prababička měla na dávky nárok, kdyby jí OSPOD správně poradil, aby sama podala návrh soudu na vydání předběžného opatření. *„Věřím tomu, že sociální pracovníci jednali v dobrém úmyslu, ale měli vědět, že v tomto případě nemohou sami podat návrh soudu. Svým jednáním tak zavinili dluh, který pak stěžovatelce vznikl,“* vysvětluje veřejná ochránkyně práv. Stěžovatelce proto poradila, aby požádala Ministerstvo práce a sociálních věcí o odškodnění.
+
+Ministerstvo nejdříve uznalo chybný postup úřadu, ale odmítlo odškodnění poskytnout s odůvodněním, že prababička zatím přeplatek nevrátila, proto jí nevznikla škoda. Ochránkyně však ministerstvo upozornila, že podle nového občanského zákoníku se za škodu považuje i vznik dluhu. Poukázala také na to, že se lpěním na byrokratických postupech zhoršuje sociální situace stěžovatelky, která si nemůže dovolit uhradit požadovanou částku, i když jen dočasně, protože by ji pak dostala od státu zpět formou odškodnění.
+
+Ministerstvo se nakonec s názorem ochránkyně ztotožnilo a přiznalo stěžovatelce odškodnění ve výši 31 600 Kč. Ta pak mohla tuto částku použít na úhradu nezaviněného přeplatku na rodičovském příspěvku a přídavcích na děti. *„Je to možná zvláštní transakce, ale je podle zákona nutná. Prababička zaplatí přeplatek na dávkách, účetně tak bude vše vyrovnáno, ale ve skutečnosti o nic nepřijde,“* uzavírá ochránkyně.

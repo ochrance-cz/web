@@ -18,9 +18,9 @@ perex: <p>Ombudsmanka Anna Šabatová se od roku 2016 intenzivněji věnovala
   vydala také doporučení pro dotčené státní orgány. </p>
 attachments:
   - title: Výzkum
-    file: https://www.ochrance.cz/uploads-import/ESO/47-2019-DIS-PZ-Vyzkumna_zprava.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/47-2019-DIS-PZ-Vyzkumna_zprava.pdf
   - title: Doporučení
-    file: https://www.ochrance.cz/uploads-import/ESO/67-2018-DIS-JV-doporuceni.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/67-2018-DIS-JV-doporuceni.pdf
 ---
 <p>Nenávistné projevy na&nbsp;internetu a&nbsp;rozhodování českých soudů</p>
 <p>V&nbsp;rámci výzkumu nás informovaly oslovené okresní soudy o&nbsp;celkem 47&nbsp;rozhodnutích týkajících se nenávistných projevů na&nbsp;internetu, která v&nbsp;rámci trestních řízení vydaly ve&nbsp;sledovaném období od&nbsp;ledna 2016 do&nbsp;června 2019. Nenávistných projevů, o&nbsp;kterých české soudy rozhodovaly, se téměř vždy dopustil muž (94&nbsp;% případů), u&nbsp;kterého nic nenaznačuje jeho příslušnost k&nbsp;některé menšině (94&nbsp;%) a&nbsp;který ještě nebyl soudně trestán (91&nbsp;%). Většina incidentů, které se dostaly před soudy, se odehrála na&nbsp;sociální síti Facebook (83&nbsp;%).</p>

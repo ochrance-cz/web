@@ -35,7 +35,7 @@ perex: >
 
 <p><a href="https://eso.ochrance.cz/Nalezene/Edit/9554">Sankce</a> - Novobystřicko</p>
 
-<p><a href="https://www.ochrance.cz/letaky/sousedske-spory/sousedske-spory.pdf">Leták &ndash; sousedské spory</a></p>
+<p><a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/sousedske-spory/sousedske-spory.pdf">Leták &ndash; sousedské spory</a></p>
 
 <p>&nbsp;</p>
 

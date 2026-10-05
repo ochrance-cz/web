@@ -1,0 +1,38 @@
+---
+title: Závěry z šetření ochránkyně v oblasti důchodů
+date: 2016-11-08T00:00:00.000Z
+perex: Veřejná ochránkyně práv dostává dlouhodobě nejvíce podnětů týkajících se
+  důchodů. V letech 2014 a 2015 obdržela ochránkyně celkem 857 podnětů z této
+  agendy. V 70 % případů jsme stěžovatelům pomohli formou rady nebo jiné pomoci,
+  aniž by došlo k zahájení šetření. Ve 185 případech jsme zahájili šetření.
+  Z těchto případů jsme v 87 konstatovali pochybení (47 %), většinou ze strany
+  České správy sociálního zabezpečení (ČSSZ). V drtivé většině případů orgány
+  uznaly svá pochybení, a pokud to bylo ještě možné, chyby napravily. Celkově
+  spolupráci s ČSSZ hodnotíme pozitivně. Musíme také upozornit, že se na nás
+  obrací rostoucí počet lidí, kteří nedosáhnou na starobní důchod.
+kategorie:
+  - tz
+---
+Ochránkyně se věnuje takřka výhradně těm případům práce ČSSZ, se kterými se na ni obrátí stěžovatelé. Níže uvedené nedostatky a jejich procentuální rozložení je proto možné vztahovat pouze na tyto šetřené případy a to jen v oblasti důchodů. Nelze je zobecňovat na veškerou práci ČSSZ.
+
+Nejčastějším nedostatkem za uplynulé dva roky byla chybná práce s **lékařskými posudky** a špatné stanovení data vzniku invalidity (28 %). Následuje **nesprávně započtené období pojištění** (27 %) a **chyby ve správním řízení** (21 %).
+
+Téměř třetina zjištěných pochybení se týká **chybného určení data vzniku invalidity a nedostatečného vypořádání se s lékařskými nálezy**. Chybně stanovené datum vzniku invalidity znamená, že žadateli o přiznání invalidního důchodu byl určen vznik invalidity k pozdějšímu datu, než vyplývalo z lékařských zpráv a dalších podkladů.  Protože splnění podmínky potřebné doby pojištění se počítá zpětně v období 10 či 20 let před vznikem invalidity, v těchto případech byli žadatelé o důchod poškozeni – nesprávným stanovením data vzniku invalidity buď získali důchod později, získali jej nižší nebo dokonce nezískali žádný. Pokud jim žádný důchod nebyl přiznán, byli žadatelé často odkázání pouze na pomoc v hmotné nouzi, což je aktuálně 3410 Kč měsíčně na živobytí pro jednu osobu.
+
+Nezřídka se jedná o chybné stanovení v rámci několika let. Lékařské posudky, o které se stanovení vzniku invalidity opírá, byly často nedostačující a neprůkazné. Opakovaně se setkáváme s jevem, kdy je vznik invalidity určen až datem, kdy lékař provede vyšetření za účelem posouzení, zda daný člověk je nebo není invalidní. Posudek přitom nebere v potaz lékařské zprávy a nálezy z předchozích let, které často dokazují, že stěžovatel trpěl zdravotním postižením, jež je příčinou invalidity, již mnohem dříve.  V takových případech ochránkyně vytýká ČSSZ, že datum vzniku invalidity není přesvědčivě odůvodněno. Ke správným závěrům ČSSZ však mohou přispět i lidé, kteří o invalidní důchod žádají.  Měli by dbát o to, aby všechny odborné nálezy od lékařů – specialistů měl vždy k dispozici jejich ošetřující lékař, který pro ČSSZ připravuje podklady.
+
+Ve více než jedné čtvrtině případů (27 %) **ČSSZ nezhodnotila správně dobu pojištění**, což obvykle vedlo k odmítnutí přiznání nároku na důchod nebo opět k nižší výši důchodu. Příčiny těchto pochybení se různí, nicméně obvykle se jedná o nezapočtení určitých období zaměstnání, kvůli němuž žadatel nezíská nárok na důchod nebo obdrží nižší důchod. Příkladem může být postup v případě stěžovatelky, která doložila, že byla řádně zaměstnaná, ale neměla vinou zaměstnavatele vystaveny evidenční listy důchodového pojištění. ČSSZ proto důchod odmítla přiznat. Správně však měla vycházet z podkladů, které byly nepochybné a nepoškozovat žadatelku za chybu zaměstnavatele.
+
+**Chyby ve správním řízení** (21 %) zahrnují nesprávnou aplikaci zákonných postupů, která vede k nepřiznání důchodů, ke stanovení nesprávné – obvykle nižší – částky, nebo k zastavení vyplácení důchodu.  Dalšími jevy jsou zasílání důchodů či písemností na nesprávnou adresu nebo přehlédnutí žádosti o změnu způsobu vyplácení důchodů.
+
+Sborník stanovisek veřejného ochránce práv v oblasti důchodů
+
+Veřejný ochránce práv se problematice důchodů věnuje od počátků své existence. Po osmi letech jsme vydali druhý sborník, který shrnuje stanoviska ochránce. V těchto osmi letech se na nás obrátilo více než 3500 stěžovatelů.
+
+V uplynulém období (2008-2016) lze za nejpodstatnější označit změny, které odstartovaly po roce 2010 a týkají se invalidních a starobních důchodů. Zavedena byla třístupňová invalidita a postupně se zvyšovala potřebná doba pojištění pro nárok na starobní důchod. Současně se také oddaloval samotný důchodový věk. Z těchto změn vyplývají nové problémy, se kterými se na nás lidé v tomto období obraceli.
+
+V posledních letech se na nás obrací **rostoucí počet lidí, kteří nemají nárok na starobní důchod**. Důvodem je zvyšující se počet let, které musí mít člověk odpracováno, aby mu byl starobní důchod přiznán. Ten se z původních 25 let zvyšuje až ke konečné hranici 35 let (v roce 2019). Nutná doba pojištění pro vznik nároku na starobní důchod tak v České republice bude patřit k nejdelším na světě. Dosažení 35 let pojištění komplikují životní situace, jako je studium, výpadky na trhu práce nebo zdravotní komplikace. Podobně sledujeme **rostoucí počet vdov bez vdovských důchodů**.
+
+Po roce 2011 pak došlo ke zmírnění podmínek na sirotčí důchod, čímž byla vyslyšena dlouhodobá snaha veřejného ochránce práv o vstřícnější úpravu vůči dětem. 
+
+![](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/uploads/RTEmagicC_Duchody_soczab_Graf_2014_2015.png.png)

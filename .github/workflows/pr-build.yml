@@ -1,0 +1,39 @@
+name: PR build
+
+on:
+  pull_request:
+    branches:
+      - main
+
+permissions:
+  contents: read
+
+concurrency:
+  group: pr-build-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: 1.3.13
+
+      - name: Build
+        run: |
+          bun install --frozen-lockfile
+          bun run verify:media-index
+          bun run verify:cms
+          bun run verify:collection-ux
+          bun run verify:editor-content
+          bun run build
+          bun run verify:launch
+          bun run verify:r2
+          bun run verify:preview-routes
+          bun run verify:pletivo

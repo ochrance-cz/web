@@ -14,7 +14,7 @@ perex: >
   prodiskutují.&nbsp;</p>
 attachments:
   - title: Tisková zpráva
-    file: https://www.ochrance.cz/aktualne/deti_by_chtely_aby_je_dospeli_brali_vazne-_temata_z_prvni_detske_ombudsmanske_konference_budou_moct_podrobneji_probrat_na_navazujicich_workshopech/tiskova_zprava_-_zhodnoceni_detske_konference.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/deti_by_chtely_aby_je_dospeli_brali_vazne-_temata_z_prvni_detske_ombudsmanske_konference_budou_moct_podrobneji_probrat_na_navazujicich_workshopech/tiskova_zprava_-_zhodnoceni_detske_konference.pdf
 ---
 <p>Dětská konference<a href="#_ftn1">[1]</a> svedla v&nbsp;polovině června do Kanceláře veřejného ochránce práv devadesát dětí ze škol z&nbsp;celé České republiky. Tito žáci druhých stupňů základních škol nebo víceletých gymnázií si účast na konferenci zajistili díky tomu, že v <a href="https://deti.ochrance.cz/kdo/jak_ombudsmana_vidi_deti_digitalni_galerie_souteze_jak_pomaha_ombudsman_detem/">soutěžních příspěvcích</a> ukázali svůj pohled na to, jak ombudsman pomáhá dětem. Přímo na konferenci pak mladí účastníci mohli nejen diskutovat s&nbsp;ombudsmanem a jeho zástupkyní, ale zažili například i premiéru série osvětových videí o působnosti ombudsmana, kterými provází jejich vrstevnice vlogerka Anička.</p>
 
@@ -43,4 +43,4 @@ attachments:
 <hr />
 <p><a href="#_ftnref1"><strong><strong>[1]</strong></strong></a> Dětská konference a tisková zpráva jsou realizovány v&nbsp;rámci projektu<em> </em>Posílení aktivit veřejného ochránce práv v&nbsp;ochraně lidských práv (směrem k&nbsp;ustavení Národní lidskoprávní instituce v&nbsp;ČR), číslo projektu LP-PDP3-001. Projekt je součástí Programu lidská práva financovaného z&nbsp;Norských fondů 2014-2021 prostřednictvím Ministerstva financí.</p>
 
-<p><a href="#_ftnref2"><strong><strong>[2]</strong></strong></a> Více ve <a href="https://www.ochrance.cz/dokument/zpravy_pro_poslaneckou_snemovnu_2021/vyrocni-zprava-2021.pdf">Výroční zprávě za rok 2021</a>, str. 38 &ndash; 39.</p>
+<p><a href="#_ftnref2"><strong><strong>[2]</strong></strong></a> Více ve <a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/dokument/zpravy_pro_poslaneckou_snemovnu_2021/vyrocni-zprava-2021.pdf">Výroční zprávě za rok 2021</a>, str. 38 &ndash; 39.</p>

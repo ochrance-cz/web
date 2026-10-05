@@ -1,0 +1,88 @@
+---
+// Detail page wrapper. Mirrors layouts/_default/single.html.
+import BaseLayout from './BaseLayout.astro';
+import TextHeader from '../components/TextHeader.astro';
+import LinkList from '../components/LinkList.astro';
+import type { LinkListItem } from '../components/LinkList.astro';
+import { renderMarkdown } from '../lib/markdown';
+
+interface HeaderData {
+  date?: Date | string;
+  description?: string;
+  headerColor?: string;
+  headerIcon?: string;
+  tags?: string[];
+  descriptionInfoIcon?: boolean;
+  backlink?: { href: string; label: string };
+}
+
+interface Props {
+  title: string;
+  description?: string;
+  lang?: 'cs' | 'en';
+  header?: HeaderData;
+  /** Body perex (markdown/HTML), rendered above the content. */
+  perex?: string;
+  links?: LinkListItem[];
+  linksAfter?: LinkListItem[];
+  contentBackdrop?: string;
+  bodyClass?: string;
+  canonical?: string;
+  noIndex?: boolean;
+  ogImage?: string;
+  alternates?: { lang: string; href: string }[];
+  alert?: Record<string, unknown>;
+  nav?: Record<string, unknown>;
+  footer?: Record<string, unknown>;
+}
+
+const {
+  title,
+  description,
+  lang = 'cs',
+  header = {},
+  perex,
+  links,
+  linksAfter,
+  contentBackdrop,
+  bodyClass,
+  canonical,
+  noIndex = false,
+  ogImage,
+  alternates,
+  alert,
+  nav,
+  footer,
+} = Astro.props;
+
+const perexHtml = perex ? await renderMarkdown(perex) : '';
+---
+<BaseLayout
+  title={title}
+  description={description}
+  lang={lang}
+  bodyClass={bodyClass}
+  canonical={canonical}
+  noIndex={noIndex}
+  ogImage={ogImage}
+  alternates={alternates}
+  alert={alert as any}
+  nav={nav as any}
+  footer={footer as any}
+>
+  <main data-pagefind-body={!noIndex || undefined} data-pagefind-ignore={noIndex || undefined}>
+    <TextHeader title={title} locale={lang} {...header} />
+
+    <div class={contentBackdrop}>
+      <section>
+        {perexHtml && <div class="perex" set:html={perexHtml} />}
+
+        {links && links.length > 0 && <LinkList items={links} />}
+
+        <slot />
+
+        {linksAfter && linksAfter.length > 0 && <LinkList items={linksAfter} />}
+      </section>
+    </div>
+  </main>
+</BaseLayout>

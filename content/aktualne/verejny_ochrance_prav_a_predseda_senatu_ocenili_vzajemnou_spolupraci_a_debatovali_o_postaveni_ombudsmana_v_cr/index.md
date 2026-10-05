@@ -12,4 +12,4 @@ perex: <p>Veřejný ochránce práv Stanislav Křeček se setkal s předsedou Se
 <p>„S
 <i>polupráce se Senátem si velmi vážím. Zejména oceňuji otevřený dialog jak s Organizačním výborem Senátu, tak s jednotlivými výbory, které se pravidelně zabývají zprávami veřejného ochránce práv. Důležité pro nás jsou ale také podněty samotných senátorů, kteří přinášejí konkrétní zjištění ze své každodenní práce s občany. Na tyto podněty vždy aktivně reaguji,</i>“ uvedl ombudsman Stanislav Křeček.</p>
 <figure class="image">
-<img src="https://www.ochrance.cz/aktualne/verejny_ochrance_prav_a_predseda_senatu_ocenili_vzajemnou_spolupraci_a_debatovali_o_postaveni_ombudsmana_v_cr/foto.jpg" alt="Veřejný ochránce práv Stanislav Křeček na setkání s předsedou Senátu Parlamentu České republiky Milošem Vystrčilem"></figure>
+<img src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/verejny_ochrance_prav_a_predseda_senatu_ocenili_vzajemnou_spolupraci_a_debatovali_o_postaveni_ombudsmana_v_cr/foto.jpg" alt="Veřejný ochránce práv Stanislav Křeček na setkání s předsedou Senátu Parlamentu České republiky Milošem Vystrčilem"></figure>

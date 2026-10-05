@@ -2,7 +2,7 @@
 title: Zpravodaj ombudsmana a dětského ombudsmana za březen a duben 2026
 month: 5
 year: 2026
-file: https://www.ochrance.cz/zpravodaj/zpravodaj_ombudsmana_a_detskeho_ombudsmana_za_brezen_a_duben_2026/zpravodaj_brezen_a_duben_2026.pdf
+file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/zpravodaj/zpravodaj_ombudsmana_a_detskeho_ombudsmana_za_brezen_a_duben_2026/zpravodaj_brezen_a_duben_2026.pdf
 sections:
   - title: Úvodní slovo
     articles:
@@ -146,7 +146,7 @@ sections:
 
           <p>V našem 
 
-          <a href="https://www.ochrance.cz/letaky/azbestova_strecha/azbestova-strecha.pdf">letáku</a> informujeme, jaká pravidla platí při výměně azbestové střechy za novou.</p>
+          <a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/azbestova_strecha/azbestova-strecha.pdf">letáku</a> informujeme, jaká pravidla platí při výměně azbestové střechy za novou.</p>
       - title: "Dotace na vytápění: jeden dům, dvě domácnosti – ale jen jedna dotace "
         id: 5609/2024/VOP
         eso: https://eso.ochrance.cz/Nalezene/Edit/14304

@@ -21,15 +21,15 @@ perex: >
 
 <h3><strong>Nápomocné vám budou také naše informační letáky</strong></h3>
 
-<p><a href="https://www.ochrance.cz/letaky/osetrovne/osetrovne.pdf"><strong>Ošetřovné</strong></a></p>
+<p><a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/osetrovne/osetrovne.pdf"><strong>Ošetřovné</strong></a></p>
 
-<p><a href="https://www.ochrance.cz/letaky/dlouhodobe-osetrovne/dlouhodobe-osetrovne.pdf"><strong>Dlouhodobé ošetřovné</strong></a></p>
+<p><a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/dlouhodobe-osetrovne/dlouhodobe-osetrovne.pdf"><strong>Dlouhodobé ošetřovné</strong></a></p>
 
-<p><a href="https://www.ochrance.cz/letaky/prispevek-na-peci/prispevek-na-peci.pdf"><strong>Příspěvek na péči</strong></a></p>
+<p><a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/prispevek-na-peci/prispevek-na-peci.pdf"><strong>Příspěvek na péči</strong></a></p>
 
-<p><a href="https://www.ochrance.cz/letaky/rizeni-o-davkach-pro-osoby-s-postizenim/rizeni-o-davkach-pro-osoby-s-postizenim.pdf"><strong>Řízení o dávkách pro osoby se zdravotním postižením</strong></a></p>
+<p><a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/rizeni-o-davkach-pro-osoby-s-postizenim/rizeni-o-davkach-pro-osoby-s-postizenim.pdf"><strong>Řízení o dávkách pro osoby se zdravotním postižením</strong></a></p>
 
-<p><a href="https://www.ochrance.cz/letaky/soudni-ochrana-proti_spravnim-organum/soudni-ochrana-proti_spravnim-organum.pdf"><strong>Soudní ochrana</strong></a></p>
+<p><a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/soudni-ochrana-proti_spravnim-organum/soudni-ochrana-proti_spravnim-organum.pdf"><strong>Soudní ochrana</strong></a></p>
 
 <h3><strong>Odkazy na užitečné stránky Ministerstva práce a sociálních věcí</strong></h3>
 

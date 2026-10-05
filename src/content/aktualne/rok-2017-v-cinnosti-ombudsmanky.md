@@ -1,0 +1,70 @@
+---
+title: Rok 2017 v činnosti ombudsmanky
+date: 2018-04-10T00:00:00.000Z
+perex: V roce 2017 jsme obdrželi 8 191 podnětů a vyřídili jich 8 266. Provedli
+  jsme návštěvu 22 zařízení, v nichž jsou lidé omezeni na svobodě. Vzrostl počet
+  podnětů v působnosti, tedy těch, kterými jsme se mohli zabývat a mohli lidem
+  pomoci s řešením jejich problémů. Historicky jich bylo nejvíc – 68 %, tj.
+  5 600 podnětů.
+kategorie:
+  - tz
+---
+Výrazně jsme se zaměřili na osvětu, uspořádali jsme 65 konferencí, seminářů a workshopů, kterých se zúčastnilo téměř 1700 zejména pracovníků státní správy. S cílem zvyšovat povědomí lidí o jejich právech v konkrétních situacích a pomáhat úřadům, aby postupovaly správně a nechybovaly, jsme vydali tematické publikace k problematice dávek pomoci v hmotné nouzi, sociálně-právní ochrany dětí a ochraně práv občanů EU a také řadu osvětových materiálů (např. k problematice místních poplatků, stavebních úprav hodnotných památkově nechráněných objektů, k sociální práci při řešení nepříznivé sociální situace, k řešení stížností na poskytovatele zdravotních služeb aj.).
+
+Podařilo se dosáhnout úspěšného naplnění 6 předložených doporučení na změnu právních předpisů, z toho v jednom případě (zastupování dítěte pěstounem v řízení o dávkách pro osoby se zdravotním postižením) k realizaci doporučení došlo během necelého roku (prosadit změnu zákona přitom trvá průměrně 3,5 roku).
+
+##### NA CO SI LIDÉ STĚŽOVALI
+
+Obdrželi jsme celkem 8 191 podnětů, z toho 40 jich přišlo od dětí. Ačkoli jde o téměř totožné číslo jako v předchozím roce, proměnily se některé oblasti a témata stížností:
+
+-   V posledních třech letech zaznamenáváme setrvalý růst počtu podnětů v oblasti sociálního zabezpečení. Každý rok přibývá dalších více než 100 lidí, kteří s problémy v této oblasti hledají pomoc ombudsmana. V roce 2017 se meziroční nárůst tematicky týkal zejména příspěvku na péči, dávek pro osoby se zdravotním postižením, nemocenského pojištění, sociálního zabezpečení s cizím prvkem a rovněž důchodů. U příspěvků na péči a dávek pro osoby se zdravotním postižením stoupavý trend pokračoval i v prvním čtvrtletí roku 2018. 
+-   Ještě výrazněji vzrostl počet stížností týkajících se práce a zaměstnanosti (meziročně o 39 %), především v souvislosti s evidencí uchazečů o zaměstnání a podporou v nezaměstnanosti. V roce 2017 jsme se opakovaně zabývali postupem úřadů práce při rozhodování o vyřazení z evidence uchazečů o zaměstnání. Apelovali jsme na úřady, aby skutečně srozumitelně poučovaly uchazeče o jejich právech a povinnostech, protože důsledky vyřazení jsou tvrdé.
+-   Zvýšil se i počet stížností na průtahy v soudních řízeních – ve většině případů se nám daří dosáhnout obnovení plynulosti soudního řízení.
+-   Výrazněji se naopak snížil počet stížností týkajících se správy pozemních komunikací a stížností, v nichž je namítána diskriminace.
+-   Navštívili jsme 22 zařízení, kde jsou lidé omezeni na svobodě. Šlo především o léčebny pro dlouhodobě nemocné, policejní cely a psychiatrické nemocnice (se zaměřením na výkon soudem nařízeného ochranného léčení).
+
+##### DOPORUČENÍ KE ZMĚNĚ ZÁKONŮ
+
+Kromě nových, aktuálně předložených doporučení adresovala ombudsmanka během svého funkčního období Poslanecké sněmovně zatím celkem 37 doporučení na změnu právních předpisů. Dosud se podařilo dosáhnout požadovaných změn v 16 případech, z toho 6 bylo realizováno právě v roce 2017:
+
+-   Ochrana soukromí zaměstnanců – usilovali jsme o novelizaci zákona o inspekci práce, kterou by byl do zákona vložen nový správní delikt a přestupek na úseku ochrany soukromí zaměstnanců.
+-   Rodičovský příspěvek – usilovali jsme o zrušení povinnosti souhlasu druhého rodiče a rozšíření možnosti volby způsobu čerpání dávky na další skupiny rodičů.
+-   Úprava výše soudního poplatku za podání antidiskriminační žaloby. Chtěli jsme odstranit procentuální podíl z výše požadované náhrady nemajetkové újmy a snížení poplatku na 1000 Kč.
+-   Přeřazování odsouzených – šlo o úpravu procesního postupu při přeřazování a zařazování odsouzených v rámci typu věznice, a to včetně opravného prostředku.
+-   Veřejné zdravotní pojištění osob, které podstupují ústavní ochranné léčení – usilovali jsme, aby i tito lidé byli zařazeni mezi ty, za něž platí pojistné stát (jako je tomu např. u osob ve vazbě nebo trestu odnětí svobody).
+-   Zastupování dítěte pěstounem v řízení o dávkách pro osoby se zdravotním postižením – usilovali jsme o to, aby pěstouni mohli za svěřené dítě vyřizovat a přijímat dávku pro osoby se zdravotním postižením.
+
+Bohužel, dosud se nepodařilo prosadit některá doporučení směřující zejména k větší ochraně práv seniorů, např.:
+
+-   doporučení umožnit nezávislé prošetřování stížností na kvalitu sociálních služeb,
+-   doporučení umožnit stížnosti na zdravotní péči v zařízeních sociálních služeb.
+
+##### NOVĚ PŘEDKLÁDANÁ DOPORUČENÍ KE ZMĚNĚ PRÁVNÍCH PŘEDPISŮ
+
+##### 1\. Osvobození od daně z nabytí nemovitých věcí i pro bytové jednotky v rodinných domech
+
+Koupíte-li si byt v bytovém domě, budete osvobozeni od nabývací daně (z nabytí nemovitosti). Koupíte-li si identický byt v rodinném domě, osvobozeni nebudete. Toto rozlišení postrádá smysl a jde o nedůvodné rozdílné zacházení. Doporučila jsem proto přijetí novely, která tyto rozdíly odstraní, a to i zpětně.
+
+##### 2\. Povinný zápis do zvláštní matriky
+
+Zrušení nutnosti dokládat pro nejrůznější úřední jednání doklady ze zvláštní matriky v Brně o událostech, k nimž došlo v zahraničí (rodné listy, úmrtní listy, oddací listy), neboť tato matrika nestíhá a zásadně se tak zdržuje např. vyřizování českého pasu pro české dítě narozené v cizině, vyřizování rodičovského příspěvku pro něj, apod. Řada států se spokojuje s originálními doklady a zvláštní matriku vůbec nemá..
+
+##### 3\. Sterilizace jako podmínka úřední změny pohlaví trans lidí
+
+Žijí mezi námi lidé, jejichž pohlavní identita (vnímání sebe sama jako muž/žena) se neshoduje s biologickým pohlavím, se kterým se narodili. Nejde o volbu či přání, tedy něco, co mohl člověk sám ovlivnit. Dle převládajícího názoru odborníků se základ pohlavní identity vytváří již v rámci nitroděložního vývoje. Někteří z trans lidí si přejí přizpůsobit své tělo pohlaví, které vnitřně prožívají. Někteří však tento sled chirurgických zákroků podstoupit nechtějí nebo nemohou. Například se obávají zdravotních rizik, která s sebou přináší náročný operativní zákrok, zejména ve spojení s vyšším věkem, nemocí či jinými životními těžkostmi. Úřední změna pohlaví však u nás bez operace není možná. Toto je v rozporu s názorem Evropského soudu pro lidská práva. Jedná se o problém relativně malé skupiny osob, ale tento nesoulad české právní úpravy s mezinárodními závazky je třeba řešit.
+
+##### 4\. Řízení o úhradě některých zdravotních služeb z veřejného zdravotního pojištění
+
+O některých zdravotnických službách rozhoduje zdravotní pojišťovna (výjimečná léčba, lázně, doprovod dítěte,…). Přestože soudní judikatura jasně říká, že jde o správní řízení a má se postupovat podle správního řádu zaručujícího všechna procesní práva pacientů, praxe postupuje podle vnitřních metodik. Je proto třeba přijmout zákon, který uvážlivě upraví případné odchylky od správního řádu, a trvat ve zbytku na jeho plném užití.
+
+##### 5\. Zásah do důstojnosti osob při poskytování sociálních služeb jako přestupek
+
+Lidé v zařízeních sociálních služeb jsou ve zranitelném postavení a je třeba zajistit jejich ochranu. Doporučujeme zakotvení přestupku v sociálních službách postihujícího zásahy do soukromí, bezpečí a integrity osob. Dnes totiž nelze trestat a tím také odrazovat od zanedbání proleženin, nerespektování vůle klienta pobytové sociální služby, neřešení podvýživy apod., pokud nedosahuje intenzity spáchání některého trestného činu
+
+##### PŘIPOMÍNKOVÁ ŘÍZENÍ
+
+Poznatky z šetření využila ombudsmanka v rámci 108 připomínek k 18 návrhům zákonů a právních předpisů s cílem eliminovat možné problematické dopady právní úpravy na životy občanů a dopředu tak odstranit problémy dřív, než vzniknou. Polovina připomínek ombudsmanky byla buď zcela, nebo alespoň částečně akceptována a zohledněna.
+
+Připomínkovali jsme např. zákon o sociálních službách, nelegislativní materiál k řešení systémové podjatosti stavebních úřadů, návrhy vyhlášek o požadavcích na minimální personální zajištění zdravotních služeb a minimální technické a věcné vybavení zdravotnických zařízení aj.
+
+Podařilo se tak např. zajistit, aby do vyhlášky Ministerstva zdravotnictví o požadavcích na minimální technické a věcné vybavení zdravotnických zařízení byla mezi základní prostory záchytných stanic zařazena i zvláštní místnost pro umístění agresivního pacienta odděleně od ostatních. Podle našich zjištění se umístěním agresivního pacienta do mnohalůžkové místnosti zvyšuje napětí i bezpečnostní rizika. Jestliže je pak pacient přikurtován a zůstává ve společné místnosti, je vzhledem k ostatním pacientům ve vysoce zranitelném postavení, protože mnohdy zde neprobíhá nepřetržitý dohled. S ohledem na bezpečnost pacienta, ostatních pacientů i personálu, jsme doporučovali zřídit v záchytných stanicích oddělenou místnost pro dočasné umístění pacientů.

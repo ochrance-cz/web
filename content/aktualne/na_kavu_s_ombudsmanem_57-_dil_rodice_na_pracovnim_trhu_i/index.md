@@ -13,7 +13,7 @@ perex: >
 ---
 <h4><strong>Odkaz na příručku</strong></h4>
 
-<p><a href="https://www.ochrance.cz/dokument/rodicovstvi_a_diskriminace_v_praci/rodicovstvi-a-diskriminace-doporuceni.pdf">Rodičovství a diskriminace v&nbsp;práci: praktická příručka práva na rovné zacházení rodiče na pracovním trhu</a></p>
+<p><a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/dokument/rodicovstvi_a_diskriminace_v_praci/rodicovstvi-a-diskriminace-doporuceni.pdf">Rodičovství a diskriminace v&nbsp;práci: praktická příručka práva na rovné zacházení rodiče na pracovním trhu</a></p>
 
 <p>&nbsp;</p>
 

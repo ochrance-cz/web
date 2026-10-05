@@ -17,7 +17,7 @@ perex: >
 
 <p>&nbsp;</p>
 
-<p>Více také v&nbsp;našem informačním letáku <a href="https://www.ochrance.cz/letaky/poskytovani-informaci/poskytovani-informaci.pdf">Poskytování informací</a> a ve sborníku <a href="https://www.ochrance.cz/vystupy/edice-stanoviska/Sbornik_Informace.pdf">Informace</a>.</p>
+<p>Více také v&nbsp;našem informačním letáku <a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/poskytovani-informaci/poskytovani-informaci.pdf">Poskytování informací</a> a ve sborníku <a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/vystupy/edice-stanoviska/Sbornik_Informace.pdf">Informace</a>.</p>
 
 <p>&nbsp;</p>
 

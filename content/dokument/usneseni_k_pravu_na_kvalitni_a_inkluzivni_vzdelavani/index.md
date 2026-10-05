@@ -7,5 +7,5 @@ vystupy:
   - poradni-organ-crpd
 attachmentsTop:
   - title: Usnesení k právu na kvalitní a inkluzivní vzdělávání
-    file: https://www.ochrance.cz/dokument/usneseni_k_pravu_na_kvalitni_a_inkluzivni_vzdelavani/usneseni_ke_vzdelavani.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/dokument/usneseni_k_pravu_na_kvalitni_a_inkluzivni_vzdelavani/usneseni_ke_vzdelavani.pdf
 ---

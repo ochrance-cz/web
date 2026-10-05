@@ -11,7 +11,7 @@ perex: >
   informace o překážkách, na které ve svém životě narážejí.</p>
 attachments:
   - title: Leták - rovné zacházení
-    file: https://www.ochrance.cz/letaky/rovne-zachazeni/rovne-zachazeni.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/rovne-zachazeni/rovne-zachazeni.pdf
 ---
 <p>Praktické poznatky nevládních organizací i dalších pomáhajících pracovníků jsou pro ombudsmana cenný zdroj informací v&nbsp;oblasti rovného zacházení. Proto uspořádal kulatý stůl, na kterém právníci jeho kanceláře představili případy z&nbsp;oblasti diskriminace i další aktivity v&nbsp;této oblasti. Účastníci kulatého stolu naopak sdíleli zkušenosti z&nbsp;terénu. Tato výměna informací pomáhá ombudsmanovi, aby lépe zacílil právní podporu a dostal ji i k&nbsp;těm nejpotřebnějším.</p>
 
@@ -29,4 +29,4 @@ attachments:
 
 <p>Setkání bylo jednou z&nbsp;akcí, které ombudsman uspořádal k připomenutí letošního patnáctého výročí přijetí antidiskriminačního zákona. Navázal tím také na pravidelná setkání se zástupci nevládních organizací, která probíhala v&nbsp;minulosti. Na podzim připravuje odbornou konferenci v&nbsp;Praze, která se bude věnovat také pomoci obětem diskriminace.</p>
 
-<p><img alt="dis_postup.png" src="https://www.ochrance.cz/aktualne/pomoc_obetem_diskriminace_je_spolecny_cil_ombudsmana_i_nevladnich_organizaci/dis_postup.png" /></p>
+<p><img alt="dis_postup.png" src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/pomoc_obetem_diskriminace_je_spolecny_cil_ombudsmana_i_nevladnich_organizaci/dis_postup.png" /></p>

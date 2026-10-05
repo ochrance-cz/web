@@ -1,0 +1,34 @@
+---
+import PageHeader from '../../components/site-copy/headers/cs-nas-pribeh.astro';
+import * as pageCopy0 from '../../components/page-content/section-pages/nas-pribeh.astro';
+import { getPageEntries } from '../../lib/page-content';
+// Listing / chapter index of the "Náš příběh" guide. Mirrors Hugo
+// layouts/nas-pribeh/list.html: text-header then a <section> with the
+// "Obsah" chapter list (chapters ordered by `num`).
+
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import TextHeader from '../../components/TextHeader.astro';
+
+const pages = (await getPageEntries('nas-pribeh')).sort(
+  (a, b) => (a.data.num ?? 0) - (b.data.num ?? 0),
+);
+
+import { data as section } from '../../components/page-content/section-pages/nas-pribeh.astro';
+const pageTitle = section.title;
+---
+<BaseLayout title={pageTitle} lang="cs">
+  <main>
+    <PageHeader />
+
+    <section>
+      <h2>{section.contentsTitle}</h2>
+      <ul class="_link-list">
+        {pages.map((p) => (
+          <li>
+            <a href={`/nas-pribeh/${p.id}/`}>{p.data.title}</a>
+          </li>
+        ))}
+      </ul>
+    </section>
+  </main>
+</BaseLayout>

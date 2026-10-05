@@ -1,0 +1,23 @@
+---
+title: Skončíte-li v zaměstnání po rodičovské dovolené, přihlaste se na úřadu
+  práce do 3 dnů
+date: 2014-01-22T00:00:00.000Z
+perex: Rodiče, kteří se vrátí do zaměstnání po rodičovské dovolené a jejich
+  pracovní poměr následně skončí, by si měli dát pozor, aby se na úřadu práce
+  přihlásili nejpozději do tří pracovních dnů. Pokud se totiž do evidence úřadu
+  práce přihlásí později, bude jim přiznána jen minimální podpora
+  v nezaměstnanosti.
+kategorie:
+  - tz
+---
+![](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/uploads/RTEmagicC_women-work.jpg.jpg)Veřejný ochránce práv se opakovaně setkává s případy žen, které po rodičovské dovolené nastoupily do zaměstnání, po nějaké době dostaly výpověď pro nadbytečnost nebo pracovní poměr samy ukončily a přihlásily se na úřadu práce. Namísto předpokládané podpory v nezaměstnanosti vypočítané z průměrného výdělku v posledním zaměstnání, jim však byla přiznána jen minimální podpora ve výši cca 3000 Kč. Z důvodu neznalosti či nesprávného poučení ze strany úřadu práce o důsledcích se totiž do evidence uchazečů o zaměstnání přihlásily až po více než třech pracovních dnech od ukončení pracovního poměru.
+
+Zákon o zaměstnanosti stanoví, že na podporu má nárok osoba, která byla zaměstnána nebo výdělečně činná alespoň 12 měsíců v posledních dvou letech před zařazením do evidence na úřadu práce. Tuto podmínku splňuje i ten, kdo se v rozhodujícím období dvou let věnoval osobní péči o dítě ve věku do 4 let (tj. rodičovská dovolená), protože ta je považována za náhradní dobu zaměstnání.
+
+Podpora v nezaměstnanosti se vypočítává ze mzdy v posledním zaměstnání, a zákon o zaměstnanosti rovněž říká, že ten, kdo se na úřadu práce přihlásí nejpozději do 3 pracovních dnů po skončení zaměstnání, je do evidence uchazečů zaměstnání zařazen ode dne následujícího po skončení pracovního poměru. Nedochází tedy k přetržce a evidence na úřadu práce přímo navazuje na poslední zaměstnání.
+
+Úskalí spočívá v tom, že **pokud se rodič, který byl před posledním zaměstnáním na rodičovské dovolené, nepřihlásí na úřadu práce do tří dnů, jako poslední zaměstnání se mu bude počítat péče o dítě do 4 let**. Pokud by se přihlásil do tří dnů, evidence na úřadu práce přímo navazuje na zaměstnání a podpora se počítá z jeho skutečné průměrné mzdy. Jestliže se však přihlásí později, automaticky se předpokládá, že dobu bezprostředně před zařazením do evidence rodič strávil opět péčí o dítě, tj. náhradní dobou zaměstnání. Za tu se podpora vypočte z průměrné mzdy v národním hospodářství, tj. zhruba ve výši 2600 – 3500 Kč.
+
+Případy takto postižených žen nejsou ojedinělé a mnohé ve svých stížnostech uvádějí, že byly úřadem práce nesprávně poučeny o tom, jaké důsledky pro ně může mít přihlášení se do evidence uchazečů o zaměstnání po době delší než 3 pracovní dny od ukončení pracovního poměru. **Zástupce veřejného ochránce práv proto upozorňuje rodiče, kteří po návratu z rodičovské dovolené skončí v zaměstnání, aby se na úřadu práce přihlásili ihned, nejpozději do tří pracovních dnů. Jinak jim hrozí, že budou dostávat jen minimální podporu**.
+
+Současně zástupce ombudsmana apeluje na úřady práce, aby uchazečům o zaměstnání vysvětlovaly důsledky, které pro ně může mít nedodržení lhůty pro přihlášení do evidence uchazečů o zaměstnání.

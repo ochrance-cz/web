@@ -1,0 +1,20 @@
+---
+// /info106/ — list of yearly "poskytnuté informace dle 106/1999" pages (cs only).
+import { getCollection } from 'astro:content';
+import ListLayout from '../../layouts/ListLayout.astro';
+
+const entries = (await getCollection('info106')).sort((a, b) =>
+  b.id.localeCompare(a.id, 'cs', { numeric: true })
+);
+
+const pages = entries.map((e) => ({
+  title: e.data.title,
+  href: `/info106/${e.id}/`,
+}));
+---
+<ListLayout
+  title="Přehled poskytnutých informací podle zákona č. 106/1999 Sb., o svobodném přístupu k informacím"
+  lang="cs"
+  pages={pages}
+  includeInSearchIndex={true}
+/>

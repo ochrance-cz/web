@@ -1,0 +1,8 @@
+---
+title: Vyjádření k volebnímu právu lidí s postižením pro Výbor OSN pro práva osob se zdravotním postižením
+date: 2025-05-15T00:00:00.000Z
+vystupy:
+  - doporuceni
+---
+
+- [Vyjádření veřejného ochránce práv k volebnímu právu lidí s postižením ](<https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/Volby%20v%20%C3%BAstavn%C3%ADch%20za%C5%99%C3%ADzen%C3%ADch_001.pdf>)

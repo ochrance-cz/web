@@ -2,7 +2,7 @@
 title: Zpravodaj ombudsmana za březen a duben 2024
 month: 5
 year: 2024
-file: https://www.ochrance.cz/zpravodaj/za_brezen_a_duben_2024/zpravodaj_brezen_a_duben_2024.pdf
+file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/zpravodaj/za_brezen_a_duben_2024/zpravodaj_brezen_a_duben_2024.pdf
 sections:
   - title: Úvodní slovo
     articles:
@@ -37,7 +37,7 @@ sections:
           <p>Stěžovatelka oznámila úřadu přestupek. Ten ji následně vyrozuměl o tom, že její oznámení odkládá. Ve vyrozumění ji přitom odkázal pouze na <a href="https://www.e-sbirka.cz/sb/2016/250#par_76-odst_1-pism_a">&sect; 76 odst. 1 písm. a)</a> zákona č. 250/2016 Sb. Stěžovatelka s&nbsp;postupem úřadu nesouhlasila. Proto mu zaslala e-mailem bez elektronického podpisu stížnost. Přestože ji adresovala několika zaměstnancům úřadu, nikdo jí neodpověděl.</p>
 
 
-          <p>Shledali jsme, že úřad postupoval v&nbsp;rozporu s&nbsp;<a href="https://www.ochrance.cz/dokument/principy-dobre-spravy/principy-dobre-spravy.pdf">principy dobré správy</a> (přesvědčivost a otevřenost), když stěžovatelce blíže neodůvodnil svůj postup. Mohl v&nbsp;ní totiž vyvolat pochybnosti nejen o správnosti, ale i o nestranném posouzení přestupku. Nesouhlasili jsme rovněž s&nbsp;tím, že úřad nevyzval stěžovatelku k&nbsp;doplnění jejího e-mailu. Přestože mu zákon výslovně neukládá tuto povinnost, lze ji rovněž dovodit z&nbsp;principů dobré správy (vstřícnost, efektivnost). Úřad uznal obě pochybení. Přislíbil proto, že v&nbsp;budoucnu bude postupovat v&nbsp;souladu s&nbsp;našimi závěry.</p>
+          <p>Shledali jsme, že úřad postupoval v&nbsp;rozporu s&nbsp;<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/dokument/principy-dobre-spravy/principy-dobre-spravy.pdf">principy dobré správy</a> (přesvědčivost a otevřenost), když stěžovatelce blíže neodůvodnil svůj postup. Mohl v&nbsp;ní totiž vyvolat pochybnosti nejen o správnosti, ale i o nestranném posouzení přestupku. Nesouhlasili jsme rovněž s&nbsp;tím, že úřad nevyzval stěžovatelku k&nbsp;doplnění jejího e-mailu. Přestože mu zákon výslovně neukládá tuto povinnost, lze ji rovněž dovodit z&nbsp;principů dobré správy (vstřícnost, efektivnost). Úřad uznal obě pochybení. Přislíbil proto, že v&nbsp;budoucnu bude postupovat v&nbsp;souladu s&nbsp;našimi závěry.</p>
         title: "Poučili jsme úřad o potřebě zohlednit principy dobré správy "
         id: 6836/2023/VOP
         eso: https://eso.ochrance.cz/Nalezene/Edit/12860

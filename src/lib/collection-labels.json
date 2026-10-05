@@ -1,0 +1,116 @@
+{
+  "homepage": {
+    "label": "Úvodní stránka"
+  },
+  "homepage-en": {
+    "label": "Homepage"
+  },
+  "aktualne": {
+    "label": "Aktuality"
+  },
+  "aktualne-en": {
+    "label": "News"
+  },
+  "dokument": {
+    "label": "Dokumenty"
+  },
+  "dokument-en": {
+    "label": "Documents"
+  },
+  "letaky": {
+    "label": "Letáky"
+  },
+  "letaky-en": {
+    "label": "Leaflets"
+  },
+  "vzdelavaci-akce": {
+    "label": "Vzdělávací akce"
+  },
+  "zpravodaj": {
+    "label": "Zpravodaj"
+  },
+  "zpravodaj-articles": {
+    "label": "Zpravodaj – články"
+  },
+  "eso": {
+    "label": "ESO"
+  },
+  "pusobnost": {
+    "label": "Působnost"
+  },
+  "pusobnost-en": {
+    "label": "Our mandate"
+  },
+  "projekty": {
+    "label": "Projekty"
+  },
+  "projekty-en": {
+    "label": "Projects"
+  },
+  "pristupnost": {
+    "label": "Přístupnost"
+  },
+  "pristupnost-en": {
+    "label": "Accessibility"
+  },
+  "info": {
+    "label": "Další informace"
+  },
+  "info-en": {
+    "label": "Further information"
+  },
+  "info106": {
+    "label": "Poskytované informace (106)"
+  },
+  "provoz": {
+    "label": "Provoz"
+  },
+  "provoz-en": {
+    "label": "Office operations"
+  },
+  "lide": {
+    "label": "Lidé"
+  },
+  "oddeleni": {
+    "label": "Oddělení"
+  },
+  "provoz-kontakty": {
+    "label": "Kontakty"
+  },
+  "srozumitelne": {
+    "label": "Srozumitelně příručka"
+  },
+  "umluva": {
+    "label": "Úmluva (CRPD)"
+  },
+  "situace": {
+    "label": "Situace"
+  },
+  "situace-en": {
+    "label": "Situations"
+  },
+  "vystupy": {
+    "label": "Kategorie výstupů"
+  },
+  "vystupy-en": {
+    "label": "Output categories"
+  },
+  "podejte-stiznost": {
+    "label": "Podejte stížnost"
+  },
+  "podejte-stiznost-en": {
+    "label": "File a complaint"
+  },
+  "potrebuji-pomoc": {
+    "label": "Potřebuji pomoc"
+  },
+  "potrebuji-pomoc-en": {
+    "label": "I need help"
+  },
+  "alert": {
+    "label": "Informační lišta webu"
+  },
+  "alert-en": {
+    "label": "Sitewide notice bar"
+  }
+}

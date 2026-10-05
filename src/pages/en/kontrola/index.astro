@@ -1,0 +1,19 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+
+import TextHeader from '../../../components/TextHeader.astro';
+import MarkdownContent from '../../../components/MarkdownContent.astro';
+
+import source from '../../../page-copy/kontrola-en/index.md?raw';
+import matter from 'gray-matter';
+const parsed = matter(source);
+const entry = { data: parsed.data, body: parsed.content };
+---
+<BaseLayout title={entry.data.title} lang="en">
+  <main data-pagefind-body>
+    <TextHeader title={entry.data.title} locale="en" />
+    <section>
+      <MarkdownContent content={entry.body} />
+    </section>
+  </main>
+</BaseLayout>

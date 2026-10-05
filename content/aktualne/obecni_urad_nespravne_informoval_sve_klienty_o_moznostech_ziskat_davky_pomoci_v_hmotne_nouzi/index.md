@@ -13,4 +13,4 @@ perex: Sociální odbor obecního úřadu poskytoval svým klientům v tíživé
 
 <p>Ombudsman apeluje, že úřady musí svým klientům v tíživé sociální situaci poskytovat správné informace mimo jiné o možnostech získat od Úřadu práce ČR dávky pomoci v hmotné nouzi. Na základě zprávy ombudsmana sociální odbor obecního úřadu chybný text svého poučení pro klienty opravil.</p>
 
-<p>Ombudsman o tomto případu informoval také poslance v&nbsp;rámci <a href="https://www.ochrance.cz/media/2021-ii-q.pdf">zprávy o činnosti za 2. čtvrtletí letošního roku</a>.</p>
+<p>Ombudsman o tomto případu informoval také poslance v&nbsp;rámci <a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/media/2021-ii-q.pdf">zprávy o činnosti za 2. čtvrtletí letošního roku</a>.</p>

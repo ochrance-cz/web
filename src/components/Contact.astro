@@ -1,0 +1,23 @@
+---
+// A single contact card (photo + name + email + phone).
+interface Props {
+  name: string;
+  email?: string;
+  phone?: string;
+  pic?: string;
+}
+
+const { name, email, phone, pic } = Astro.props;
+---
+<div class="_contact">
+  {pic && (
+    <div class="img-wrapper">
+      <img src={pic} alt="" aria-hidden="true" />
+    </div>
+  )}
+  <p>
+    <strong>{name}</strong>
+    {email && (<><br /><a class="email" href={`mailto:${email}`}>{email}</a></>)}
+    {phone && (<><br /><span class="phone">{phone}</span></>)}
+  </p>
+</div>

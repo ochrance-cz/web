@@ -9,4 +9,4 @@ perex: "<p>Ve dnech 16. a 17. září zavítal na studijní návštěvu veř
 
 <!-- imported from the old website -->
 
-<p><img src="/uploads-import/uploads/RTEmagicC_gruzinci-01.jpg.jpg" height="467" width="622" alt="" /></p><p><img src="/uploads-import/uploads/RTEmagicC_gruzinci-03.jpg.jpg" height="467" width="622" alt="" /></p><p><img src="/uploads-import/uploads/RTEmagicC_gruzinci-02.jpg.jpg" height="467" width="622" alt="" /></p>
+<p><img src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/uploads/RTEmagicC_gruzinci-01.jpg.jpg" height="467" width="622" alt="" /></p><p><img src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/uploads/RTEmagicC_gruzinci-03.jpg.jpg" height="467" width="622" alt="" /></p><p><img src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/uploads/RTEmagicC_gruzinci-02.jpg.jpg" height="467" width="622" alt="" /></p>

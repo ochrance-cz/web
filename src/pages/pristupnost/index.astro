@@ -1,0 +1,23 @@
+---
+import PageHeader from '../../components/site-copy/headers/cs-pristupnost.astro';
+import * as pageCopy0 from '../../components/page-content/section-pages/pristupnost.astro';
+// /pristupnost/ — Accessibility section index. Mirrors layouts/_default/list.html
+// for the `pristupnost` section. It carries `hidePages: true`, so no flat child list is
+// rendered; the chapters nav is the `_pristupnost-nav-list` block in the body.
+
+import ListLayout from '../../layouts/ListLayout.astro';
+import { renderMarkdown } from '../../lib/markdown';
+
+const indexEntry = pageCopy0;
+import { data as data } from '../../components/page-content/section-pages/pristupnost.astro';
+---
+<ListLayout
+  title={data.title}
+  lang="cs"
+  perex={data.perex}
+  hidePages={data.hidePages ?? false}
+  includeInSearchIndex={data.includeInSearchIndex ?? false}
+>
+  <PageHeader slot="header" />
+  <indexEntry.default />
+</ListLayout>

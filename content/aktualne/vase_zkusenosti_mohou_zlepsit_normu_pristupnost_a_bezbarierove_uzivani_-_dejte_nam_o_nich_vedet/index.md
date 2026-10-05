@@ -10,7 +10,7 @@ perex: <p>Podporujeme participaci lidí s&nbsp;postižením a vůbec všech, kdo
 attachments:
   - title: "Leták: Vaše zkušenosti mohou zlepšit normu „Přístupnost a bezbariérové
       užívání“. Dejte nám o nich vědět!"
-    file: https://www.ochrance.cz/aktualne/vase_zkusenosti_mohou_zlepsit_normu_pristupnost_a_bezbarierove_uzivani_-_dejte_nam_o_nich_vedet/pristupnost_pripominky.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/vase_zkusenosti_mohou_zlepsit_normu_pristupnost_a_bezbarierove_uzivani_-_dejte_nam_o_nich_vedet/pristupnost_pripominky.pdf
 ---
 <p>Pro odeslání připomínek využijte 
 <a href="https://forms.gle/Gokh9vS3D1zkeqWJ8">tento formulář</a>. Slouží odborné i laické veřejnosti a&nbsp;lze jej volně šířit. Připomínky sbíráme průběžně a&nbsp;dlouhodobě – posílat je můžete bez časového omezení.</p>

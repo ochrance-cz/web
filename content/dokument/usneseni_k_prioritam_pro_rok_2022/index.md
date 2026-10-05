@@ -7,5 +7,5 @@ vystupy:
 attachmentsTop:
   - title: Usnesení poradního orgánu veřejného ochránce práv pro oblast ochrany práv
       osob se zdravotním postižením k prioritám pro rok 2022
-    file: https://www.ochrance.cz/dokument/usneseni_k_prioritam_pro_rok_2022/usneseni_2022_6_k_prioritam_2022.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/dokument/usneseni_k_prioritam_pro_rok_2022/usneseni_2022_6_k_prioritam_2022.pdf
 ---

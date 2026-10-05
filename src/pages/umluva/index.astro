@@ -1,0 +1,39 @@
+---
+import PageHeader from '../../components/site-copy/headers/cs-umluva.astro';
+import * as pageCopy0 from '../../components/page-content/section-pages/umluva.astro';
+// /umluva/ — listing of CRPD articles (cs only). Mirrors Hugo layouts/_default/list.html
+// for the `umluva` section: section intro (_index body + perex) then an article list.
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { renderMarkdown } from '../../lib/markdown';
+import { sortArticles } from './_articles';
+
+const articles = sortArticles(await getCollection('umluva'));
+
+const indexEntry = pageCopy0;
+import { data as index } from '../../components/page-content/section-pages/umluva.astro';
+const title = index.title ?? 'Úmluva o právech osob se zdravotním postižením';
+const perex = index.perex;
+const perexHtml = perex ? await renderMarkdown(perex) : '';
+---
+<BaseLayout title={title} lang="cs">
+  <main data-pagefind-body data-pagefind-weight="10">
+    <PageHeader />
+
+    <section>
+      <div class="perex" set:html={perexHtml} />
+
+      <div><indexEntry.default /></div>
+
+      <h2 id="obsah">Obsah</h2>
+
+      <ul class="_link-list">
+        {articles.map((a) => (
+          <li>
+            <a href={`/umluva/${a.id}/`}>{a.data.title}</a>
+          </li>
+        ))}
+      </ul>
+    </section>
+  </main>
+</BaseLayout>

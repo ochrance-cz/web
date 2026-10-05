@@ -7,13 +7,13 @@ vystupy:
   - vyzkumy
 attachmentsTop:
   - title: Zpráva o šetření z vlastní iniciativy ve věci přezkumu maturitních zkoušek
-    file: https://www.ochrance.cz/uploads-import/ESO/573-2016-VOP-JV-Z18.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/573-2016-VOP-JV-Z18.pdf
 attachments:
   - title: Závěrečné stanovisko s návrhem opatření k nápravě ve věci přezkumu
       maturitních zkoušek
-    file: https://www.ochrance.cz/uploads-import/ESO/573-2016-VOP-JV-ZSO.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/573-2016-VOP-JV-ZSO.pdf
   - title: Vyrozumění vládě o nezákonné správní praxi ministerstva školství
-    file: https://www.ochrance.cz/uploads-import/ESO/13-18-JV-SZD-Vyrozumeni_III.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/13-18-JV-SZD-Vyrozumeni_III.pdf
   - title: Tisková zpráva k výsledku šetření ve věci přezkumu maturitních zkoušek
     file: https://www.ochrance.cz/aktualne/prezkumy-maturit-budou-transparentnejsi-a-lepe-oduvodnovane/
 ---

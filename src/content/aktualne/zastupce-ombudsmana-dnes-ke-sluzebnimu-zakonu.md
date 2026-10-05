@@ -1,0 +1,19 @@
+---
+title: Zástupce ombudsmana dnes ke služebnímu zákonu
+date: 2014-01-23T00:00:00.000Z
+perex: Zástupce ombudsmana Stanislav Křeček se dnes v Poslanecké sněmovně
+  účastní pracovního semináře ke služebnímu zákonu „Kvalitní státní správa.
+  Cesta k řádné správě věcí veřejných.“, který se koná pod záštitou předsedy
+  ústavně právního výboru.
+kategorie:
+  - tz
+---
+V panelové diskuzi seznámí účastníky se svým názorem na projednávanou novelu zákona č. 218/2991 Sb., o službě státních zaměstnanců (sněmovní tisk č. 71).
+
+Zástupce veřejného ochránce práv zejména kvituje, že s ohledem na aktuální záměr zákonodárce by měla mít budoucí úprava služebního poměru veřejnoprávní charakter. Právě toto bylo od začátku nejdůležitější připomínkou a požadavkem veřejného ochránce práv, který považuje charakter normy za naprosto klíčový.
+
+Vztah státu a zaměstnance ve službě je zcela jiné povahy, než je tomu u běžného pracovněprávního vztahu. Odpovídají tomu i specifické a přísnější povinnosti či omezení pro jednotlivce ve službě, které jsou však kompenzovány jinými benefity. Podle zástupce ombudsmana však v předkládaném návrhu možná až příliš převažují omezení a svazující povinnosti nad benefity, které byly z důvodu proklamované finanční náročnosti odstraněny. Příkladem je zrušení příspěvku k důchodu, nenárokových odměn za příkladnou práci, zrušení některých příplatků apod. Zástupce ombudsmana však respektuje, že je na vůli zákonodárce, jaký přístup ke státním zaměstnancům zvolí, jak rozsáhlé výhody jim výměnou za jiná omezení poskytne.
+
+![](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/uploads/RTEmagicC_publicservant.jpg.jpg)Za problematickou a příliš vysokou považuje zástupce ombudsmana odpovědnost státního zaměstnance za škodu) až osminásobek průměrného měsíčního platu v případě nedbalostního jednání). Za vhodnější také považuje stanovit platové tarify např. přílohou ke služebnímu zákonu, na rozdíl od navrhované koncepce stanovit je nařízením vlády. Zaručí se tak, že změna platových tarifů nebude možná pouze rozhodnutím ministerstva, resp. vlády, ale bude nutné ji projednat jako změnu zákona. V platném znění služebního zákona jsou tarify uvedeny přímo v zákoně.
+
+Veřejný ochránce práv vždy požadoval, aby služební zákon zakotvil větší odpolitizování státní správy na ústřední úrovni, pravidelné prokazování dostatečné odbornosti pro udržení se ve službách státu, což by umožnilo flexibilní obměnu těch, kdo předvídatelnému a transparentnímu kritériu odbornosti nevyhoví. Služební zákon by měl rovněž upravit povinný kariérní systém, který by umožňoval motivovat a udržet schopné zaměstnance ve službách státu.

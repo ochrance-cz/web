@@ -1,0 +1,24 @@
+---
+title: Pomoc seniorům jednou z priorit ombudsmanky
+date: 2017-09-29T00:00:00.000Z
+perex: Mezinárodní den seniorů připadající na 1. 10. je připomínkou, že by se
+  společnost měla zajímat o kvalitu života starší generace. Pro ombudsmanku je
+  to jedna z nejdůležitějších skupin lidí, na jejichž problémy se zaměřuje.
+  Neřeší jen potíže jednotlivců, ale zaměřuje se i na zlepšování kvality služeb
+  a na dobré zacházení se seniory v zařízeních sociálních služeb a rovněž
+  na rovné zacházení nejen se seniory, ale i s těmi, kdo o své blízké
+  v seniorském věku pečují.
+kategorie:
+  - tz
+---
+Senioři velmi často nedokážou svá práva hájit sami a potřebují pomoc. Tu jim vždy účinně poskytoval ombudsman:
+
+-   V uplynulých 10 letech se na ombudsmana obrátilo s žádostí o pomoc 29 160 lidí ve věku nad 60 let.
+-   Senioři nejčastěji řeší problémy se starobním důchodem, příspěvkem na péči, exekucemi, s bydlením, zdravotnictvím a sociálními službami.
+-   Jen v souvislosti se starobním důchodem se na ombudsmana za 10 let obrátilo téměř 3000 seniorů. Naprosté většině z nich ombudsman pomohl radou či doporučením, co mají ve své věci udělat. Ve 344 případech, kdy ombudsman zjistil nedostatky v přiznaném důchodu, dosáhl jejich odstranění a konkrétního zlepšení situace seniora.
+-   1 milion Kč byl dosud největší doplatek na starobním důchodu, kterého se ombudsmanovi podařilo dosáhnout. Šlo o seniorku, která řadu let nepobírala žádný důchod, protože jí nebyla započítána doba pojištění, kterou získala v jiném státě. Po zohlednění mezistátní dohody o sociálním zabezpečení jí byl v roce 2014 důchod přiznán a zpětně doplacen.
+-   Za posledních 10 let provedl ombudsman 128 návštěv zařízení sociálních služeb a prověřil podmínky téměř 9 000 seniorů, kteří v těchto zařízeních žijí. Otevřel také veřejnou diskuzi o neregistrovaných zařízeních pro seniory a kvalitě poskytovaných služeb.
+
+Ombudsmanka se zasazuje o rovné zacházení a možnost slaďovat rodinný a pracovní život. Netýká se to jen žen, které se vrací po rodičovské dovolené, ale i těch, kdo pečují o své stárnoucí rodiče nebo příbuzné. I tito lidé jsou v zaměstnání často znevýhodňováni.
+
+Mezinárodní den seniorů: [http://www.un.org/en/events/olderpersonsday/](http://www.un.org/en/events/olderpersonsday/ "Otevření do nového okna")

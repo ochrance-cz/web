@@ -1,0 +1,24 @@
+---
+// Alphabetical (Czech collation) index of pages, rendered as a link list.
+// Mirrors layouts/partials/pages-map.html (which only sorts; markup lived in
+// the consuming template). Pass pre-resolved {title, href} pairs.
+export interface PagesMapItem {
+  title: string;
+  href: string;
+}
+
+interface Props {
+  pages?: PagesMapItem[];
+  locale?: 'cs' | 'en';
+}
+
+const { pages = [], locale = 'cs' } = Astro.props;
+
+const collator = new Intl.Collator(locale, { sensitivity: 'base' });
+const sorted = [...pages].sort((a, b) => collator.compare(a.title, b.title));
+---
+<ul class="_link-list">
+  {sorted.map((page) => (
+    <li><a href={page.href}>{page.title}</a></li>
+  ))}
+</ul>

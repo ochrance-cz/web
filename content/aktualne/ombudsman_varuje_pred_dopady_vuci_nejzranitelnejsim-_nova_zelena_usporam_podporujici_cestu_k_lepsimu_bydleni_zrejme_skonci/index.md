@@ -10,7 +10,7 @@ perex: >-
   <a href="https://novazelenausporam.cz/">Nová zelená úsporám</a>, dotace, která trvala již šestnáct let. Za tu dobu pomohla více než půl milionu domácnostem snížit účty za energie, či zlepšit bydlení. Pro některé zároveň představovala jedinou možnost, jak vůbec dosáhnout na důstojný domov. Ombudsman Stanislav Křeček proto apeluje na premiéra Andreje Babiše, aby vláda dotační program zachovala.</p>
 attachments:
   - title: Dopis ombudsmana premiérovi
-    file: https://www.ochrance.cz/aktualne/ombudsman_varuje_pred_dopady_vuci_nejzranitelnejsim-_nova_zelena_usporam_podporujici_cestu_k_lepsimu_bydleni_zrejme_skonci/7811-2026_uv_cr_premier_zelena_usporam.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/ombudsman_varuje_pred_dopady_vuci_nejzranitelnejsim-_nova_zelena_usporam_podporujici_cestu_k_lepsimu_bydleni_zrejme_skonci/7811-2026_uv_cr_premier_zelena_usporam.pdf
 ---
 <p>
 <i>„Zaznamenal jsem znepokojení občanů ohledně budoucnosti programu Nová zelená úsporám. Plány na jeho výrazné omezení či zrušení vyvolávají obavy zejména mezi seniory, osobami se zdravotním postižením či nízkopříjmovými rodinami</i>. 

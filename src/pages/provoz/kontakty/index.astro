@@ -1,0 +1,17 @@
+---
+import { getCollection } from 'astro:content';
+import SingleLayout from '../../../layouts/SingleLayout.astro';
+import ProvozSections from '../../../components/provoz/ProvozSections.astro';
+import { contactGroups } from '../../../lib/contact-directory';
+
+const [[page], departments, people] = await Promise.all([
+  getCollection('provoz-kontakty'),
+  getCollection('oddeleni'),
+  getCollection('lide'),
+]);
+if (!page) throw new Error('Missing Czech contact page');
+const groups = contactGroups(departments, people);
+---
+<SingleLayout title={page.data.title} lang="cs">
+  <ProvozSections sections={page.data.sections} lawyers={groups} lang="cs" />
+</SingleLayout>

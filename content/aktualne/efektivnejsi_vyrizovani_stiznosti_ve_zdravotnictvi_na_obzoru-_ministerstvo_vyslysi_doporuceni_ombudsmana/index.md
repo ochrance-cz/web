@@ -8,7 +8,7 @@ perex: >-
   <p>Nedostatek odborníků – to je jedna z&nbsp;hlavních věcí, která komplikuje
   vyřizování stížností ve zdravotnictví. Ukázal to&nbsp;
 
-  <a href="https://www.ochrance.cz/uploads-import/ESO/V%C3%BDzkum%2012344-22-MJ-Z18-37-.pdf">výzkum</a> ombudsmana zveřejněný začátkem roku 2025. Ombudsman poskytl Ministerstvu zdravotnictví doporučení, jak současnou praxi zlepšit. To již zareagovalo prvními vstřícnými kroky.</p>
+  <a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/V%C3%BDzkum%2012344-22-MJ-Z18-37-.pdf">výzkum</a> ombudsmana zveřejněný začátkem roku 2025. Ombudsman poskytl Ministerstvu zdravotnictví doporučení, jak současnou praxi zlepšit. To již zareagovalo prvními vstřícnými kroky.</p>
 attachments:
   - title: Tisková zpráva ze dne 4. 2. 2025 – Šetření stížností ve zdravotnictví pod
       lupou. Výzkum ombudsmana ukázal, že správním orgánům chybí hlavně

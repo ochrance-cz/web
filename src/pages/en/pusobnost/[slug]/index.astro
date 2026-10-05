@@ -1,0 +1,50 @@
+---
+// Scope-of-authority detail page (en). Mirrors layouts/pusobnost/single.html:
+// pic-header → backdrop div → section (perex, content, the /pusobnost/ section's
+// "seeMore" note) → CTA. Markup inlined here per parity conventions.
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../../../layouts/BaseLayout.astro';
+import PicHeader from '../../../../components/PicHeader.astro';
+import Cta from '../../../../components/Cta.astro';
+import MarkdownContent from '../../../../components/MarkdownContent.astro';
+import { renderMarkdown } from '../../../../lib/markdown';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('pusobnost-en', (e) => !e.data.draft);
+  return entries.map((entry) => ({ params: { slug: entry.id }, props: { entry } }));
+}
+
+const { entry } = Astro.props;
+const { title, illustration, headerColor, perex, cta } = entry.data;
+
+// /pusobnost/ section's `seeMore` param, rendered inline (Hugo `markdownify`).
+const SEE_MORE =
+  'Have a look at the outputs from [our activites](/en/vystupy/) or look up interesting cases we dealt with in the [Defender’s Opinions Register](https://eso.ochrance.cz/).';
+
+const perexHtml = perex ? await renderMarkdown(perex) : '';
+const seeMoreHtml = (await renderMarkdown(SEE_MORE))
+  .trim()
+  .replace(/^<p>([\s\S]*)<\/p>$/, '$1');
+---
+<BaseLayout title={title} lang="en">
+  <main data-pagefind-body>
+    <PicHeader title={title} illustration={illustration} headerColor={headerColor ?? ''} />
+
+    <div>
+      <section>
+        {perexHtml && <div class="perex" set:html={perexHtml} />}
+
+        <MarkdownContent content={entry.body} />
+
+        <p>
+          <span class="_icon-info" aria-hidden="true"></span>
+          <Fragment set:html={seeMoreHtml} />
+        </p>
+      </section>
+    </div>
+
+    {cta && cta.title && (
+      <Cta title={cta.title} btnLink={cta.btnLink} locale="en" />
+    )}
+  </main>
+</BaseLayout>

@@ -19,7 +19,7 @@ perex: >
 
 <p>&nbsp;</p>
 
-<p>Více informací naleznete v <a href="https://www.ochrance.cz/uploads-import/ESO/Brozura%20detska%20psychiatrie%2008-22%20online.pdf">souhrnné zprávě ombudsmana k&nbsp;dětské psychiatrii</a>.</p>
+<p>Více informací naleznete v <a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/Brozura%20detska%20psychiatrie%2008-22%20online.pdf">souhrnné zprávě ombudsmana k&nbsp;dětské psychiatrii</a>.</p>
 
 <p>&nbsp;</p>
 

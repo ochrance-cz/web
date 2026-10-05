@@ -16,7 +16,7 @@ perex: <p>Chystaná novela zákona o spotřebitelském úvěru by mohla&nbsp;zá
   splácených a sjednaných úvěrů.&nbsp;</p>
 attachments:
   - title: "Leták ombudsmana „Ochrana spotřebitele“ "
-    file: https://www.ochrance.cz/letaky/ochrana-spotrebitele/ochrana-spotrebitele.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/ochrana-spotrebitele/ochrana-spotrebitele.pdf
   - title: Plné znění připomínek ombudsmana k návrhu zákon
     file: https://eso.ochrance.cz/nalezene/edit/13636
   - title: "Informace Ministerstva financí k meziresortnímu připomínkovému řízení k

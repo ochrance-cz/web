@@ -5,5 +5,5 @@ vystupy:
   - vyzkumy
 attachmentsTop:
   - title: Šetření stížností ve zdravotnictví správními orgány
-    link: https://www.ochrance.cz/uploads-import/ESO/V%C3%BDzkum%2012344-22-MJ-Z18-37-.pdf
+    link: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/V%C3%BDzkum%2012344-22-MJ-Z18-37-.pdf
 ---

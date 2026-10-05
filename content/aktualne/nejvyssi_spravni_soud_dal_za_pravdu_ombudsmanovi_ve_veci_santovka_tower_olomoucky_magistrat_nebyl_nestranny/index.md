@@ -15,21 +15,21 @@ perex: >
   nestranné jednání ze strany úředníků.&nbsp;</p>
 attachments:
   - title: Rozsudek NSS ze dne 29.1.2025
-    file: https://www.ochrance.cz/aktualne/nejvyssi_spravni_soud_dal_za_pravdu_ombudsmanovi_ve_veci_santovka_tower_olomoucky_magistrat_nebyl_nestranny/rozhodnuti_nss_29.1.2025.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/nejvyssi_spravni_soud_dal_za_pravdu_ombudsmanovi_ve_veci_santovka_tower_olomoucky_magistrat_nebyl_nestranny/rozhodnuti_nss_29.1.2025.pdf
   - title: Usnesení Nejvyššího správního soudu 1 As 146/2024 – 75 ze dne 15. 8. 2024
-    file: https://www.ochrance.cz/aktualne/nejvyssi_spravni_soud_dal_za_pravdu_ombudsmanovi_ve_veci_santovka_tower_olomoucky_magistrat_nebyl_nestranny/0146_1as_2400075_20240815103346_2_.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/nejvyssi_spravni_soud_dal_za_pravdu_ombudsmanovi_ve_veci_santovka_tower_olomoucky_magistrat_nebyl_nestranny/0146_1as_2400075_20240815103346_2_.pdf
   - title: Tisková zpráva ze dne 4. 7. 2024 – podání druhé kasační stížnosti
     file: https://www.ochrance.cz/aktualne/o_planovane_stavbe_santovka_tower_v_olomouci_bude_podruhe_rozhodovat_nejvyssi_spravni_soud_ombudsman_podal_kasacni_stiznost/
   - title: Kasační stížnost ze dne 3. 7. 2024
-    file: https://www.ochrance.cz/aktualne/nejvyssi_spravni_soud_dal_za_pravdu_ombudsmanovi_ve_veci_santovka_tower_olomoucky_magistrat_nebyl_nestranny/kasacni_stiznost_vop.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/nejvyssi_spravni_soud_dal_za_pravdu_ombudsmanovi_ve_veci_santovka_tower_olomoucky_magistrat_nebyl_nestranny/kasacni_stiznost_vop.pdf
   - title: Usnesení Krajského soudu v Ostravě - pobočka v Olomouci 65 A 18/2020 ze
       dne 20. 3. 2024
-    file: https://www.ochrance.cz/aktualne/nejvyssi_spravni_soud_dal_za_pravdu_ombudsmanovi_ve_veci_santovka_tower_olomoucky_magistrat_nebyl_nestranny/usneseni_ks_ostrava_65_a_18-2020_20.3.2024_.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/nejvyssi_spravni_soud_dal_za_pravdu_ombudsmanovi_ve_veci_santovka_tower_olomoucky_magistrat_nebyl_nestranny/usneseni_ks_ostrava_65_a_18-2020_20.3.2024_.pdf
   - title: Tisková zpráva ze dne 24. 1. 2024 – Nejvyšší správní soud vyhověl kasační
       stížnosti
     file: https://www.ochrance.cz/aktualne/spor_kolem_vyskove_stavby_santovka_tower_v_olomouci_se_vraci_pred_krajsky_soud-_nejvyssi_spravni_soud_vyhovel_stiznosti_ombudsmana/
   - title: Rozsudek Nejvyššího správního soudu 1 As 174/2022 – 92 ze dne 24. 1. 2024
-    file: https://www.ochrance.cz/aktualne/nejvyssi_spravni_soud_dal_za_pravdu_ombudsmanovi_ve_veci_santovka_tower_olomoucky_magistrat_nebyl_nestranny/0174_1as_2200092_20240124081855.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/nejvyssi_spravni_soud_dal_za_pravdu_ombudsmanovi_ve_veci_santovka_tower_olomoucky_magistrat_nebyl_nestranny/0174_1as_2200092_20240124081855.pdf
   - title: Tisková zpráva ze dne 29. 8. 2022 – přiznání odkladného účinku kasační
       stížnosti
     file: https://www.ochrance.cz/aktualne/nejvyssi_spravni_soud_priznal_odkladny_ucinek_kasacni_stiznosti_ombudsmana_v_pripade_olomoucke_santovka_tower/

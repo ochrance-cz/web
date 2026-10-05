@@ -7,4 +7,4 @@ date: 2015-02-13
 perex: <p>Ochránkyně vydala již dříve avizovanou souhrnnou zprávu z návštěv
   ubytovacích zařízení, která bez oprávnění poskytují péči seniorům.</p>
 ---
-<p>Zpráva je dostupná <a href="https://www.ochrance.cz/uploads-import/ESO/28-2014-NZ_Souhrnna_zprava_-_neregistrovana_zarizeni__CJ_.pdf">zde</a>.</p>
+<p>Zpráva je dostupná <a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/28-2014-NZ_Souhrnna_zprava_-_neregistrovana_zarizeni__CJ_.pdf">zde</a>.</p>

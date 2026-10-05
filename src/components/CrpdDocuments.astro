@@ -1,0 +1,74 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PicHeader from './PicHeader.astro';
+import Collapsible from './Collapsible.astro';
+import NewsPreview from './NewsPreview.astro';
+import { renderMarkdown } from '../lib/markdown';
+
+interface Props { term: CollectionEntry<'vystupy'> }
+const { term } = Astro.props;
+const title = term.data.plural ?? term.data.title;
+const perexHtml = term.data.perex ? await renderMarkdown(term.data.perex) : '';
+const documents = (await getCollection('dokument', (entry) => !entry.data.draft))
+  .filter((entry) => entry.data.vystupy?.includes('poradni-organ-crpd'))
+  .sort((a, b) => new Date(b.data.date ?? 0).getTime() - new Date(a.data.date ?? 0).getTime());
+const isMinute = (entry: CollectionEntry<'dokument'>) => /^Zápis\b/iu.test(entry.data.title);
+const yearOf = (entry: CollectionEntry<'dokument'>) => entry.data.date
+  ? String(new Date(entry.data.date).getFullYear()) : 'Bez data';
+// Meeting dates are prose, not Markdown list markers ("16. prosince …").
+const meetingPerex = (perex?: string) => perex?.trim().replace(
+  /^(\s*\d+)\.(?=\s+(?:ledna|února|března|dubna|května|června|července|srpna|září|října|listopadu|prosince)(?:\s|$))/gmu,
+  '$1\\.',
+);
+const columns = [
+  { id: 'usneseni', title: 'Usnesení', documents: documents.filter((entry) => !isMinute(entry)) },
+  { id: 'zapisy', title: 'Zápisy', documents: documents.filter(isMinute) },
+].map((column) => ({
+  ...column,
+  years: [...new Set(column.documents.map(yearOf))].map((year) => ({
+    year, entries: column.documents.filter((entry) => yearOf(entry) === year),
+  })),
+}));
+---
+<BaseLayout title={title} lang="cs">
+  <main data-pagefind-body>
+    <PicHeader title={title} illustration={term.data.illustration} />
+    {perexHtml && <section class="perex" set:html={perexHtml} />}
+    <section class="crpd-columns" aria-label="Dokumenty poradního orgánu CRPD">
+      {columns.map((column) => (
+        <div class="crpd-column _news single-col" role="region" aria-labelledby={`crpd-${column.id}`}>
+          <h2 id={`crpd-${column.id}`}>{column.title}</h2>
+          {column.years.map(({ year, entries }) => (
+            <Collapsible title={year} id={`crpd-${column.id}-${year}`}>
+              {entries.map((entry) => (
+                <NewsPreview
+                  href={`/dokument/${entry.id}/`}
+                  title={entry.data.title}
+                  perex={meetingPerex(entry.data.perex)}
+                  date={entry.data.date}
+                  headingLevel={4}
+                  locale="cs"
+                />
+              ))}
+            </Collapsible>
+          ))}
+        </div>
+      ))}
+    </section>
+  </main>
+</BaseLayout>
+
+<style>
+  .crpd-columns {
+    display: grid;
+    gap: 2rem;
+    max-width: 40rem;
+  }
+  .crpd-column { min-width: 0; }
+  .crpd-column h2 { margin: 0 0 1rem; }
+  @media (min-width: 650px) {
+    .crpd-columns { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  }
+</style>

@@ -1,0 +1,8 @@
+---
+title: Kontrola zacházení v psychiatrických zařízeních a používání omezovacích prostředků
+date: 2015-02-24T13:25:07.501Z
+vystupy:
+  - vyzkumy
+---
+
+- [Kontrola zacházení v psychiatrických zařízeních a používání omezovacích prostředků](<https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/Vyzkum_-_omezovaci_prostredky_v_psychiatrickych_zarizenich_.pdf>)

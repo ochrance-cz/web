@@ -1,0 +1,29 @@
+---
+// Shared "_footer-pic" CTA for the projekty listing + detail pages.
+// Mirrors layouts/partials/check-scope.html inside the layouts/projekty footer.
+import { t } from '../../lib/i18n';
+import { url } from '../../lib/paths';
+
+interface Props {
+  lang: 'cs' | 'en';
+  /** Optional decorative footer image (already an absolute /media or /images path). */
+  footerPic?: string;
+}
+
+const { lang, footerPic } = Astro.props;
+---
+<footer class="_footer-pic">
+  <div class="text">
+    <h2>{t(lang, 'want-to-know-more')}</h2>
+    <p>{t(lang, 'more-what-we-do')}</p>
+    <p><a href={url(lang, 'pusobnost')} class="_button">{t(lang, 'check-scope')}</a></p>
+  </div>
+
+  {footerPic && (
+    <div class="single-hue-pic-wrapper">
+      <div class="single-hue-pic">
+        <img src={footerPic} alt="" aria-hidden="true" />
+      </div>
+    </div>
+  )}
+</footer>

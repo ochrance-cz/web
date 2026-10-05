@@ -1,0 +1,65 @@
+---
+import PageHeader from '../../components/site-copy/headers/cs-vzdelavaci-akce.astro';
+import * as pageCopy0 from '../../components/page-content/section-pages/vzdelavaci-akce.astro';
+// Educational events listing — sorted by startDate desc, 20 per page.
+// URLs mirror Hugo pretty-pagination: page 1 = /vzdelavaci-akce/,
+// page n = /vzdelavaci-akce/page/n/.
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import EventPreview from '../../components/EventPreview.astro';
+import Pagination from '../../components/Pagination.astro';
+import { renderMarkdown } from '../../lib/markdown';
+
+export async function getStaticPaths() {
+  const PAGE_SIZE = 20;
+  const entries = await getCollection('vzdelavaci-akce');
+  const sorted = entries.sort((a, b) => {
+    const da = a.data.startDate ? new Date(a.data.startDate).getTime() : 0;
+    const db = b.data.startDate ? new Date(b.data.startDate).getTime() : 0;
+    return db - da; // desc
+  });
+
+  const totalPages = Math.max(1, Math.ceil(sorted.length / PAGE_SIZE));
+  const paths = [];
+  for (let i = 0; i < totalPages; i++) {
+    const items = sorted.slice(i * PAGE_SIZE, (i + 1) * PAGE_SIZE);
+    paths.push({
+      params: { page: i === 0 ? undefined : `page/${i + 1}` },
+      props: { items, currentPage: i + 1, totalPages },
+    });
+  }
+  return paths;
+}
+
+const { items, currentPage, totalPages } = Astro.props;
+
+const indexEntry = pageCopy0;
+import { data as indexData } from '../../components/page-content/section-pages/vzdelavaci-akce.astro';
+const title: string = indexData.title ?? 'Vzdělávací akce';
+---
+<BaseLayout title={title} lang="cs">
+  <main>
+    <PageHeader />
+
+    <section class="_events single-col">
+      <indexEntry.default />
+
+      {items.map((entry) => (
+        <EventPreview
+          href={`/vzdelavaci-akce/${entry.id}/`}
+          title={entry.data.title}
+          startDate={entry.data.startDate}
+          perex={entry.data.perex}
+          locale="cs"
+        />
+      ))}
+
+      <Pagination
+        currentPage={currentPage}
+        totalPages={totalPages}
+        baseUrl="/vzdelavaci-akce/"
+        locale="cs"
+      />
+    </section>
+  </main>
+</BaseLayout>

@@ -15,9 +15,9 @@ perex: <p>Ústavní a ochranná výchova dětí, odškodňování protiprávně
   instituci.</p>
 attachments:
   - title: "Výroční zpráva 2024 "
-    file: https://www.ochrance.cz/dokument/zpravy_pro_poslaneckou_snemovnu_2024/vyrocni-zprava-2024.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/dokument/zpravy_pro_poslaneckou_snemovnu_2024/vyrocni-zprava-2024.pdf
   - title: Factsheet ke stažení v pdf
-    file: https://www.ochrance.cz/dokument/zpravy_pro_poslaneckou_snemovnu_2024/rok-2024-shrnuti.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/dokument/zpravy_pro_poslaneckou_snemovnu_2024/rok-2024-shrnuti.pdf
 ---
 <p>&nbsp;„ 
 <i>Rád bych vyzdvihl důležitý moment loňského roku. V&nbsp;jeho závěru projednávala Poslanecká sněmovna zřízení dětského ombudsmana a národní lidskoprávní instituce. Před několika týdny byl vznik obého již definitivně schválen. Česká republika tak dala najevo, že má zájem práva dětí i lidská práva obecně nejen dodržovat, ale také je aktivně prosazovat a&nbsp;předcházet jejich porušování. Na nové povinnosti se naše kancelář intenzivně připravuje. V&nbsp;tuto chvíli nás od nich totiž dělí už jen pár týdnů. Začneme je vykonávat, jak nám předepisuje zákon, od&nbsp;1.&nbsp;července. Veřejnost má od dětského ombudsmana velká očekávání.</i> 
@@ -69,10 +69,10 @@ attachments:
 <a href="https://eso.ochrance.cz/Nalezene/Edit/12324">ženu z&nbsp;Ukrajiny, která nedostala humanitární dávku</a>. Z&nbsp;jiného soudku je například 
 <a href="https://eso.ochrance.cz/Nalezene/Edit/13042">Národní sportovní agentura a její nejednoznačné a málo konkrétní podmínky pro žadatele o dotaci.</a>&nbsp;</p>
 <figure class="image">
-<img src="https://www.ochrance.cz/aktualne/lonsky_rok_ombudsmana_v_kostce_setreni_zamerena_na_deti_v_ustavech_odskodnovani_protipravnich_sterilizaci_ci_dustojny_zivot_pro_lidi_zavisle_na_peci/1.jpg" alt="Obrázek je ikonografika s nadpisem Rok 2024, shrnutí. Odkaz na leták ve formátu PDF naleznete dole pod textem."></figure>
+<img src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/lonsky_rok_ombudsmana_v_kostce_setreni_zamerena_na_deti_v_ustavech_odskodnovani_protipravnich_sterilizaci_ci_dustojny_zivot_pro_lidi_zavisle_na_peci/1.jpg" alt="Obrázek je ikonografika s nadpisem Rok 2024, shrnutí. Odkaz na leták ve formátu PDF naleznete dole pod textem."></figure>
 <figure class="image">
-<img src="https://www.ochrance.cz/aktualne/lonsky_rok_ombudsmana_v_kostce_setreni_zamerena_na_deti_v_ustavech_odskodnovani_protipravnich_sterilizaci_ci_dustojny_zivot_pro_lidi_zavisle_na_peci/2.jpg" alt="2.jpg"></figure>
+<img src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/lonsky_rok_ombudsmana_v_kostce_setreni_zamerena_na_deti_v_ustavech_odskodnovani_protipravnich_sterilizaci_ci_dustojny_zivot_pro_lidi_zavisle_na_peci/2.jpg" alt="2.jpg"></figure>
 <figure class="image">
-<img src="https://www.ochrance.cz/aktualne/lonsky_rok_ombudsmana_v_kostce_setreni_zamerena_na_deti_v_ustavech_odskodnovani_protipravnich_sterilizaci_ci_dustojny_zivot_pro_lidi_zavisle_na_peci/3.jpg" alt="3.jpg"></figure>
+<img src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/lonsky_rok_ombudsmana_v_kostce_setreni_zamerena_na_deti_v_ustavech_odskodnovani_protipravnich_sterilizaci_ci_dustojny_zivot_pro_lidi_zavisle_na_peci/3.jpg" alt="3.jpg"></figure>
 <figure class="image">
-<img src="https://www.ochrance.cz/aktualne/lonsky_rok_ombudsmana_v_kostce_setreni_zamerena_na_deti_v_ustavech_odskodnovani_protipravnich_sterilizaci_ci_dustojny_zivot_pro_lidi_zavisle_na_peci/4.jpg" alt="4.jpg"></figure>
+<img src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/lonsky_rok_ombudsmana_v_kostce_setreni_zamerena_na_deti_v_ustavech_odskodnovani_protipravnich_sterilizaci_ci_dustojny_zivot_pro_lidi_zavisle_na_peci/4.jpg" alt="4.jpg"></figure>

@@ -1,0 +1,31 @@
+---
+import PageHeader from '../../../components/site-copy/headers/en-situace.astro';
+import * as pageCopy0 from '../../../components/page-content/section-pages-en/situace.astro';
+// /en/not-sure/ — overview of life situations in English.
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import SituationList from '../../../components/SituationList.astro';
+import { renderMarkdown } from '../../../lib/markdown';
+import { url } from '../../../lib/paths';
+
+const terms = (await getCollection('situace-en')) ?? [];
+terms.sort((a, b) => a.data.title.localeCompare(b.data.title, 'en'));
+
+const items = await Promise.all(
+  terms.map(async (t) => ({
+    href: url('en', 'situace', t.id),
+    title: t.data.title,
+    perexHtml: t.data.perex ? await renderMarkdown(t.data.perex) : '',
+  }))
+);
+
+const pageTitle = pageCopy0.data.title;
+---
+<BaseLayout title={pageTitle} lang="en">
+  <main>
+    <PageHeader />
+    <section>
+      <SituationList items={items} />
+    </section>
+  </main>
+</BaseLayout>

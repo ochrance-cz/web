@@ -1,0 +1,43 @@
+---
+title: The CRPD Department’s survey on the employment of people with
+  disabilities in the public sector
+date: 2020-04-17T00:00:00.000Z
+perex: ""
+categories:
+  - news
+---
+Within Article 27 of the Convention (work and employment), we conducted a survey focusing on mapping the conditions of and impediments to employment of people with disabilities in the public sector. Indeed, we assume that public administration should lead by example in creating appropriate working conditions for employees with disabilities.
+
+Using a questionnaire survey and personal interviews, we wanted to obtain a better idea about the situation on the ground, approaches to employment of people with disabilities and the actual accessibility of workplaces, specific jobs for people with disabilities in the public sector, as well as the possibilities of making reasonable adjustments. We addressed all the ministries, regional authorities and organisational components of the State with the questionnaire. The collection of data took place from September to December 2019.
+
+##### Preliminary results of the survey
+
+ 
+
+-   The practice of individual authorities differs significantly
+
+The individual authorities comply with the statutory mandatory quota for people with disabilities in completely different ways. Some employ people with disabilities as little as possible and do not deal with this issue any further. Other authorities try to avoid a penalty in the form of a levy to the State budget and adhere to the mandatory quota by combining employment of people with disabilities with purchases of products and services. The last type are authorities that have experience with disabled employees and naturally exceed the mandatory four-percent quota by following specific strategies.
+
+ 
+
+-   People with more serious limitations tend not to be employed in public administration
+
+Persons with first- to third-degree disabilities can be found among disabled employees in public administration. In the case of higher degrees of disability, these pertain mostly to dietary limitations, cancer patients and patients with limited mobility. People with visual, hearing or mental disabilities are practically not present in public administration and do not even register for selection procedures. Authorities themselves do not actively seek them, not even if they lack workforce and have long-term vacancies.
+
+ 
+
+-   The system is not ready for people with work performance limitations
+
+Public authorities only have a narrow room to manoeuvre in terms of possibilities for a flexible approach to their employees. They have a fixed structure and numbers of work positions assigned to carry out their duties. This negatively reflects in the options to meet the requirements for reducing working time, dividing working time or creating new jobs for people with disabilities. The frequent impossibility to make construction modifications due to lease arrangements in public office buildings is also a limiting factor.
+
+ 
+
+-   The principle of levies to the State budget (as penalties for not employing disabled people) is not functional in the case of public administration bodies
+
+The penalty mechanism based on levies to the State budget, as a compensation for not employing people with disabilities, does not sufficiently motivate the authorities. On the one hand, there are authorities which always make sure that the levies do not apply to them as this would have an unfavourable impact on their budget. On the other hand, there are (mostly larger) authorities for which the amounts of levies reach millions of crowns. It is also problematic that this is merely a question of transferring money between individual chapters of the State budget and the motivational effect is thus completely absent here.
+
+ 
+
+-   §    Contributions towards active employment policy and contributions towards employment of people with disabilities are not intended for public administration bodies
+
+Section 107 (2) of the Employment Act excludes the possibility of providing contributions towards employment of people with disabilities and contributions towards active employment policy to organisational components of the State and State contributory organisations. Public administration bodies do not have financial reserves available for adapting their workplaces, working times or other reasonable adjustments that would enable them to hire disabled persons. The State has thus set up a system which has exclusively punitive effects; it fails to provide appropriate support to public administration bodies in employing people with disabilities.

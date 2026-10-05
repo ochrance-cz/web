@@ -1,0 +1,59 @@
+---
+import PageHeader from '../../components/site-copy/headers/cs-aktualne.astro';
+import * as pageCopy0 from '../../components/page-content/section-pages/aktualne.astro';
+// News listing (cs). Mirrors layouts/aktualne/list.html: pic-header + a
+// `_news single-col` of news-preview cards (h2) + pagination. Filtered to the
+// home page's `aktuality` categories, paginated by 20.
+// Page 1 = /aktualne/, page N = /aktualne/page/N/.
+import { getNews } from '../../lib/news';
+import { newsCategories } from '../../lib/news-categories';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PicHeader from '../../components/PicHeader.astro';
+import NewsPreview from '../../components/NewsPreview.astro';
+import Pagination from '../../components/Pagination.astro';
+
+export async function getStaticPaths() {
+  const PAGE_SIZE = 20;
+  const aktuality = newsCategories.cs;
+
+  const entries = (await getNews('aktualne', (e) => e.data.draft !== true))
+    .filter((e) => (e.data.vystupy ?? []).some((v: string) => aktuality.has(v)))
+    .sort((a, b) => new Date(b.data.date ?? 0).getTime() - new Date(a.data.date ?? 0).getTime());
+
+  const totalPages = Math.max(1, Math.ceil(entries.length / PAGE_SIZE));
+  const paths = [];
+  for (let i = 1; i <= totalPages; i++) {
+    const items = entries.slice((i - 1) * PAGE_SIZE, i * PAGE_SIZE);
+    paths.push({
+      params: { page: i === 1 ? undefined : `page/${i}` },
+      props: { items, currentPage: i, totalPages },
+    });
+  }
+  return paths;
+}
+
+const { items, currentPage, totalPages } = Astro.props;
+import { data as section } from '../../components/page-content/section-pages/aktualne.astro';
+---
+<BaseLayout title={section.title} lang="cs">
+  <main>
+    <PageHeader />
+
+    <section class="_news single-col">
+      {items.map((entry) => (
+        <NewsPreview
+          href={`/aktualne/${entry.id}/`}
+          title={entry.data.title}
+          pic={entry.data.illustration || undefined}
+          perex={entry.data.perex}
+          date={entry.data.date}
+          tags={entry.data.vystupy ?? []}
+          locale="cs"
+          headingLevel={2}
+        />
+      ))}
+
+      <Pagination currentPage={currentPage} totalPages={totalPages} baseUrl="/aktualne/" locale="cs" />
+    </section>
+  </main>
+</BaseLayout>

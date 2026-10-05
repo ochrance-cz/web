@@ -15,9 +15,9 @@ perex: <p>Na ombudsmana se obrátil muž, který od České správy sociálního
   stupeň nárok. ČSSZ muži zvýšila invalidní důchod a zpětně doplatila 268 124
   Kč. &nbsp;</p>
 attachments:
-  - file: https://www.ochrance.cz/letaky/chci-zmenit-duchod/chci-zmenit-duchod.pdf
+  - file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/chci-zmenit-duchod/chci-zmenit-duchod.pdf
     title: Chci změnit (zvýšit) důchod
-  - file: https://www.ochrance.cz/letaky/potrebuji-invalidni-duchod/potrebuji-invalidni-duchod.pdf
+  - file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/potrebuji-invalidni-duchod/potrebuji-invalidni-duchod.pdf
     title: Potřebuji invalidní důchod
 ---
 <p>Pro získání invalidního důchodu je důležitý posudek od lékaře. Ten ho musí přesvědčivě odůvodnit a určit okamžik vzniku invalidity, který je pak klíčový pro nárok na důchod. Od toho se odvíjí také jeho výše. Podle posudku se následně určuje období, ve kterém se zjišťuje potřebná doba pojištění pro nárok na invalidní důchod. Datum musí být proto řádně odůvodněno a stanoveno co nejpřesněji k&nbsp;okamžiku, kdy se pracovní schopnost člověka snížila až na stupeň odpovídající invaliditě. Tak tomu v&nbsp;případě stěžovatele nebylo. 

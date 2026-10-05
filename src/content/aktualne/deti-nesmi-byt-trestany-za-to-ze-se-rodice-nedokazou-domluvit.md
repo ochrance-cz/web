@@ -1,0 +1,46 @@
+---
+title: Děti nesmí být „trestány“ za to, že se rodiče nedokážou domluvit
+date: 2011-07-14T00:00:00.000Z
+perex: ""
+kategorie:
+  - tz
+---
+Z Úmluvy o právech dítěte (čl. 9 odst. 3), Listiny základních práv a svobod (čl. 32 odst. 4) i zákona o rodině vyplývá, že děti mají právo na rodičovskou výchovu a péči. Recipročně je právem rodičů péče o děti a jejich výchova. I po svěření dítěte do péče jednoho z rodičů soudem mají rodičovskou zodpovědnost rodiče oba. Dítě a rodič, jemuž nebylo svěřeno do výchovy, mají nadále právo na vzájemný kontakt. V České republice však chybí dostatečná síť a zázemí pro odbornou terapeutickou práci s rozvedenými rodiči, která by jim pomohla zvládnout komunikaci a v zájmu dítěte spolu vycházet minimálně v záležitostech, které se týkají dítěte a jeho výchovy. Stále častěji se proto vyskytují případy, kdy rodič, jemuž je dítě svěřeno do péče s ním manipuluje proti druhému rodiči natolik, že dítě pak jakýkoli styk s tímto rodičem odmítá. Při následném vymáhání styku není dítě na setkání a pobyt s druhým rodičem dostatečně připravováno, naopak bývá traumatizováno. Přibývá případů, kdy si rodiče reakci dítěte dokonce natáčejí. Ojedinělé nejsou ani případy, kdy jsou k emocionálně vyhrocenému předávání dítěte mezi rodiči zvána dokonce i média. Někdy jsou vztahy mezi rodiči tak vyhrocené, že soud přistoupí k odebrání manipulovaného dítěte z rodiny a dočasně ho umístí do tzv. neutrálního prostředí. To je zejména dítětem vnímáno jako trest. Podle zástupkyně ochránce je třeba systematicky se zabývat zejména postupem a mechanismem naplňování práva dětí na kontakt s oběma rodiči.
+
+Veřejný ochránce práv se opakovaně zabývá případy, kdy dítě bylo dočasně odebráno rodičům a umístěno do tzv. neutrálního prostředí, aby nebylo vystavováno manipulaci a opakovaně traumatizováno. V České republice však chybí specializovaná zařízení pro podobné případy, proto musely být děti umístěny do ústavních zařízení, kde však s dítětem ani s rodinou nebývá dostatečně a včas pracováno (například na odbourání uměle vypěstovaného odporu k jednomu z rodičů).
+
+Neexistenci vhodného zařízení, které by vytvářeno skutečně „neutrální prostředí“, považuje zástupkyně ochránce za výrazný systémový problém. Mohlo by jít o specializovaná odborná pracoviště ústavního či ambulantního charakteru, kde by byli společně rodiče i dítě, aby dítě nevnímalo pobyt v zařízení jako trest. Vhodnou variantou se pro krajní případy jeví dočasná „profesionální“ pěstounská péče. Za klíčovou pak zástupkyně ochránce považuje účinnou práci s rodiči, mediaci či terapii s nácvikem dovedností, které by vedly k tomu, že si rodiče budou schopni dítě předávat a vzájemně se informovat o věcech s dítětem souvisejících.
+
+Řadě zvlášť vyhrocených případů by podle zástupkyně ochránce zabránila důsledná práce orgánů sociálně-právní ochrany dětí (OSPOD). Zde vidí zástupkyně ochránce značné mezery a vytýká OSPODům, že nevyužívají všech zákonných nástrojů. Zejména neukládají rodičům povinnost využít pomoc odborného poradenského zařízení, tj. povinně absolvovat mediaci nebo terapii (podle ustanovení § 12 odst. 1 písm. a) a b) zákona č. 359/1999 Sb., o sociálně-právní ochraně dětí) a realizovat předávání dítěte za účasti odborníků.
+
+Podle zástupkyně ochránce je také nezbytné, aby negativní a sankční opatření orgánů sociálně-právní ochrany dětí i soudů směřovala výhradně proti rodičům, nikoli proti dětem, které jsou fakticky oběťmi bojů a nevraživosti rodičů. Řešení také musí přijít rychle a včas, dřív než dojde k eskalaci problémů. Orgány sociálně-právní ochrany dětí by měly mít k dispozici kontakty na mediátory a terapeuty schopné pomoci v zájmu dítěte obnovit vztahy mezi rodiči přinejmenším na té úrovni, aby si rodiče byli schopni dítě v klidu předávat a komunikovat spolu o věcech, které s dítětem a jeho výchovou souvisejí.
+
+Zcela zásadně je podle zástupkyně ochránce třeba odmítnout natáčení dítěte na kameru a medializaci případu ze strany rodičů. Takové jednání by orgány sociálně-právní ochrany dětí měly naopak vyhodnocovat jako projevy manipulace a okamžitě přistupovat ke krokům k ochraně zájmů a práv dítěte.
+
+Přestože není možné, aby orgány sociálně-právní rezignovaly na prosazení práva dítěte na styk s oběma rodiči v situaci, kdy rodič, jemuž je dítě svěřeno do péče, tento kontakt odmítá, zástupkyně ochránce připouští, že mohou existovat i velmi výjimečné případy, kdy okamžité vymáhání styku s druhým rodičem není v zájmu dítěte. Je však nezbytné takové případy posuzovat individuálně a s přizváním odborníků vyhodnotit, co je skutečnou příčinou odmítání na straně dítěte.  V krajních případech může být v zájmu dítěte vhodnější nevynucovat styk s druhým rodičem okamžitě, ale usilovat nejprve o obnovení komunikace rodičů a teprve následně o nenásilné obnovování vztahů rodiče s dítětem. V mnoha případech by pak dítě styk s druhým rodičem bez problémů zvládlo, ale nejprve je nutné odborně pracovat s rodiči.
+
+#### Některé zvlášť alarmující případy dokládající problém neexistence neutrálního prostředí a chybějící mediace či rodinné terapie
+
+##### 1.  umístění dětí do ústavního zařízení z důvodu manipulativního jednání matky
+
+Odborné posudky se shodují v tom, že matka silně manipuluje své dva syny (ve věku 14 a 11 let) proti jejich otci. Chlapci se s otcem nechtějí stýkat.
+
+OSPOD vyvíjel aktivity k obnovení vztahů chlapců s otcem, snažil se vztah mezi rodiči řešit domluvou, doporučením, poradenskou činností apod. Neuložil však rodičům povinnost návštěvy odborného poradenského zařízení. Soud následně rozhodl o umístění dětí do tzv. neutrálního prostředí. Chlapci byli nejprve umístěni do zařízení pro děti vyžadující okamžitou pomoc, které však bylo pro daný případ nevhodné. Po měsíci byli přemístěni do diagnostického ústavu a odtud po týdnu do dětského domova. Terapeutická práce, která by vedla k obnovení jejich vztahu k otci, nebyla zahájena ihned, ale až po pěti měsících v dětském domově, tedy až půl roku po odebrání z péče matky. Ani pobyt v neutrálním prostředí tak výsledky nepřinesl. Chlapci naopak vnímali umístění do dětského domova jako trest, který zapříčinil otec vymáháním styku.
+
+Vztah rodičů se nezlepšil, děti byly vráceny do péče matky a k otci zaujímají i nadále iracionální negativní postoj. Přestože styk s otcem probíhá v odborném pracovišti, chlapci s otcem nekomunikují.
+
+##### 2.  odnětí dětí z péče matky v důsledku manipulace ze strany otce
+
+Podle posudků je manipulátorem v tomto případě otec, který svými syny manipuluje proti matce už od rozpadu vztahu obou rodičů. Otec se snaží dostat syny do pasivní role, závislosti na sobě, neusiluje o rozšiřování sociálních kompetencí dětí a jeho výchovná způsobilost není rozvinutá.
+
+Ochránce se tímto případem opakovaně zabýval už od roku 2007 a opakovaně konstatoval řadu pochybení. Poté, co byl starší syn svěřen do péče otce a mladší zůstal v péči matky, došlo k přerušení kontaktu mezi sourozenci, což mladší z bratrů špatně snášel. Orgány sociálně právní ochrany dětí nevyužívaly svých pravomocí, nereagovaly na tajné styky otce s mladším synem, nerespektovaly znalecké posudky a postupovaly na základě jednostranných a neprověřených informací otce. Výsledkem je odmítavý postoj mladšího syna vůči matce, který nyní tvoří část jeho identity. Poté, co došlo ke svěření i mladšího syna do péče otce, styk chlapců s matkou neprobíhá, synové ji odmítají, ačkoli podle znalce nemají objektivní důvody.
+
+Styk obou synů s matkou by měl probíhat v neutrálním prostředí za přítomnosti odborníků.
+
+##### 3.  odmítání otce v důsledku dlouhodobého bránění styku s ním
+
+Od rozpadu vztahu rodičů matka úmyslně bránila styku syna s otcem. Zpočátku to odůvodňovala nízkým věkem dítěte, následně nemocemi, nechutí dítěte, změnami bydliště apod.
+
+OSPOD až po třech letech navrhl realizaci styku s otcem v neutrálním prostředí za účasti psychologa. Po dlouhá léta k němu touto formou skutečně docházelo, ovšem matka i při takto stanoveném styku dělala vše proto, aby chlapec vztah s otcem nenavázal. V současnosti chlapec otce striktně odmítá.
+
+OSPOD nevyužil všech zákonných možností a opatření vůči matce, nenavrhl ani vypracování znaleckého posudku v rámci opatrovnického řízení, přestože je manipulace ze strany matky zjevná. OSPOD měl navrhnout soudu, aby rozhodl o tzv. navykacím režimu a účasti na mediačním jednání nebo na rodinné či jiné vhodné terapii. Zástupkyně ochránce považuje také za účelné, aby prostřednictvím návrhu OSPOD rozhodl soud o matčině povinnosti otce písemně informovat o podstatných záležitostech týkajících se dítěte.

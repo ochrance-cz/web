@@ -1,0 +1,30 @@
+---
+title: Ombudsman žádá vládu o řešení průtahů v činnosti ministerstev
+date: 2007-06-15T00:00:00.000Z
+perex: ""
+kategorie:
+  - tz
+---
+Vzhledem k neúnosným průtahům v činnosti Ministerstva pro místní rozvoj a Ministerstva práce a sociálních věcí, které nebyly odstraněny ani po opakovaných jednáních se současnými i předchozími ministry, rozhodl se veřejný ochránce práv předložit celou záležitost vládě s žádostí, aby resortní ministry vyzvala k nápravě. Stanovisko k průtahům u obou ministerstev bylo vládě předloženo 12. června 2007.
+
+Veřejný ochránce práv zahájil již v březnu 2005 z vlastní iniciativy šetření směřující proti Ministerstvu pro místní rozvoj, a to na základě stížností řady osob, jež se týkaly průtahů ve vyřizování podání na úseku stavebního řádu. V říjnu 2005 pak zahájil obdobné šetření směřující proti Ministerstvu práce a sociálních věcí, rovněž na základě stížností týkajících se průtahů v činnosti ministerstva při vyřizování odvolání proti rozhodnutím úřadů práce o vyřazení z evidence uchazečů o zaměstnání.
+
+Správní orgán je obecně povinen vydat rozhodnutí bez zbytečného odkladu, nejpozději pak do 30 dnů od zahájení řízení. V přezkumném řízení je správní orgán povinen sdělit podateli do 30 dnů i skutečnost, že neshledal důvody k zahájení přezkumného řízení. Nedodržení lhůt stanovených správním řádem představuje zásah pro práva na spravedlivý proces, které je zakotveno v čl. 38 odst. 2 Listiny základních práv a svobod a čl. 6 Úmluvy o ochraně lidských práv a základních svobod.
+
+### Průtahy na ministerstvu pro místní rozvoj
+
+Vzhledem k tomu, že příslušná složka MMR výrazným způsobem nestíhá vyřizovat podněty k přezkumnému řízení, veřejný ochránce práv v minulosti několikrát inicioval jednání s předchozími ministry pro místní rozvoj a jejich náměstky. Přestože je zřejmé, že ministři postupně přijali dílčí opatření k řešení nedodělků, nejsou tyto kroky k nápravě dostatečné. Podle sdělení náměstka ministra pro místní rozvoj z ledna 2007 dochází dokonce ke zhoršení, neboť došlo k meziročnímu nárůstu agendy ve všech oblastech. Situace ve vyřizování podání na úseku stavebního řádu je tedy alarmující.
+
+Pro ilustraci: V roce 2006 obdržela příslušná složka MMR celkem 2793 podání. Ze 141 odvolání jich do konce roku vyřídila 82. Z 305 podnětů k přezkumnému řízení jich do konce roku vyřídila pouze 77, ze 41 žádostí o náhradu škody pak bylo do konce roku vyřízeno 22 žádostí.
+
+Ochránce proto dospěl k závěru, že již nemá smysl v dané věci korespondovat s resortním ministrem a jeho podřízenými, neboť prostředky nápravy ze strany ministra se ukázaly jako nefunkční a problém neřešící. Z tohoto důvodu se ochránce rozhodl předložit věc vládě, kterou žádá, aby usnesením uložila ministrovi pro místní rozvoj posílit příslušný odbor ministerstva a provést organizační změny tak, aby došlo k výraznému zlepšení neutěšené situace.
+
+### Průtahy na ministerstvu práce a sociálních věcí
+
+Šetření ukázalo, že příslušná složka MPSV výrazným způsobem nestíhá vyřizovat odvolání proti rozhodnutím úřadů práce. Veřejný ochránce práv proto několikrát inicioval jednání s předchozím ministrem práce a sociálních věcí, na jejichž základě došlo k částečnému personálnímu posílení daného úseku. Situace, která byla v analýze rizik MPSV v roce 2005 označena za velmi vážnou, je stále alarmující a hrozí kolapsem.
+
+Podle sdělení ministra práce a sociálních věcí ze dne 16. května 2007 bylo za rok 2006 bylo podáno 3.831 odvolání. Za první tři měsíce roku 2007 dalších 801 odvolání. K 1. dubnu 2007 evidovalo MPSV celkem 1858 nevyřízených případů. Počet odvolání předaných úřady práce v období od 1. října 2006 do 31. března 2007 činil 1.765, z toho nerozhodnutých podání předaných před 1. říjnem 2006 bylo celkem 2.377.
+
+Zájem uchazečů na včasném ukončení správního řízení je o to významnější, že odvolání v těchto věcech nemá odkladný účinek, tj. účinky vyřazení z evidence nastanou ihned po vydání rozhodnutí úřadu práce. Uchazeč je tak v době rozhodování odvolacího orgánu odkázán pouze na dávky hmotné nouze ve výši existenčního minima (2.020,- Kč).
+
+Dosavadní dílčí opatření nepovažuje veřejný ochránce práv za dostačující. Kromě toho, že jsou dotčena práva občanů, je třeba vidět i potenciální finanční dopad, a to v situaci, kdy se postižené osoby začnou domáhat odškodnění za nesprávný úřední postup dle zákona č. 82/1998 Sb. Ochránce proto dospěl k závěru, že již nemá smysl dále v této věci korespondovat s resortním ministrem a rozhodl se předložit věc vládě.

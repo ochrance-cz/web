@@ -8,10 +8,10 @@ perex: >
   s&nbsp;osobním příjmem podnětů. <em>Poznámka 1. 11. 2023: výběrové řízení bylo
   ukončeno.</em></p>
 attachments:
-  - file: https://www.ochrance.cz/aktualne/hledame_kolegu_nebo_kolegyni_na_vypomoc_s_osobnim_prijmem_podnetu/letak_inzerat_na_vypomoc_s_osobnim_prijmem.pdf
+  - file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/hledame_kolegu_nebo_kolegyni_na_vypomoc_s_osobnim_prijmem_podnetu/letak_inzerat_na_vypomoc_s_osobnim_prijmem.pdf
     title: Inzerát ve formě PDF letáku
 ---
-<p><img alt="lista_inzerat.png" src="https://www.ochrance.cz/aktualne/hledame_kolegu_nebo_kolegyni_na_vypomoc_s_osobnim_prijmem_podnetu/lista_inzerat.png" /><strong>Práce na této pozici zahrnuje:</strong></p>
+<p><img alt="lista_inzerat.png" src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/hledame_kolegu_nebo_kolegyni_na_vypomoc_s_osobnim_prijmem_podnetu/lista_inzerat.png" /><strong>Práce na této pozici zahrnuje:</strong></p>
 
 <ul>
 	<li>komunikaci s lidmi, kteří osobně přicházejí podat podnět veřejnému ochránci práv,</li>

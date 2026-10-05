@@ -22,4 +22,4 @@ attachments:
 <a href="https://www.ochrance.cz/aktualne/seniory_v_bzeneckem_domove_u_sv-_marusky_ohrozuje_spatne_zachazeni_upozornuje_zastupce_ombudsmana/">například zjištění zástupce ombudsmana o seniorech ohrožených špatným zacházením v bzeneckém Domově u sv. Marušky</a>.&nbsp;</p>
 <p>Poslankyně Helena Válková ocenila jasnost, stručnost a odbornost zpráv pro Poslaneckou sněmovnu.&nbsp;</p>
 <figure class="image">
-<img src="https://www.ochrance.cz/aktualne/ombudsman_a_zastupce_ombudsmana_informovali_peticni_vybor_o_sve_praci_v_uplynulych_mesicich-_historicky_poprve_i_o_agende_detskeho_ombudsmana/peticni_vybor.png" alt="Schůze Petičního výboru "></figure>
+<img src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/ombudsman_a_zastupce_ombudsmana_informovali_peticni_vybor_o_sve_praci_v_uplynulych_mesicich-_historicky_poprve_i_o_agende_detskeho_ombudsmana/peticni_vybor.png" alt="Schůze Petičního výboru "></figure>

@@ -17,7 +17,7 @@ attachments:
   - title: Podrobněji o dětském ombudsmanovi
     file: https://deti.ochrance.cz/kdo/detskyombudsman//
   - title: Fact sheet – 25 let ombudsmana v ČR
-    file: https://www.ochrance.cz/aktualne/od_reseni_stiznosti_k_systematicke_ochrane_lidskych_prav-_kancelar_ombudsmana_porada_konferenci_k_25-_vyroci/factsheet_do_tz.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/od_reseni_stiznosti_k_systematicke_ochrane_lidskych_prav-_kancelar_ombudsmana_porada_konferenci_k_25-_vyroci/factsheet_do_tz.pdf
 ---
 <p>Řadu významných hostů přivítala ve středu 21. května Kancelář ombudsmana na konferenci nazvané „25 let činnosti veřejného ochránce práv“. Patří k&nbsp;nim například ombudsmani Slovenska a Maďarska – Róbert Dobrovodský a Ákos Kozma, zástupce polského ombudsmana Adam Krzywoń, slovenský komisař pro děti Jozef Mikloško, předseda Nejvyššího správního soudu Karel Šimka, nejvyšší státní tajemník Jindřich Fryč či zástupci akademické sféry David Kosař a Dalibor Jílek.</p>
 <p>

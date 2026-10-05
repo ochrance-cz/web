@@ -11,7 +11,7 @@ description: >-
 
 
   Dětský ombudsman (oficiálně ochránce práv dětí) se zaměřuje na případy, kdy může být na svých právech dotčeno dítě. V těchto případech chrání před jednáním úřadů a dalších institucí, pokud je toto jednání v rozporu s právem, neodpovídá principům demokratického právního státu, nebo jsou úřady nečinné. Také plní úkoly, které v oblasti ochrany práv dítěte vyplývají z Úmluvy o právech dítěte a z dalších mezinárodních smluv.
-footerPic: /images/kontakt.jpg
+footerPic: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/images/kontakt.jpg
 links:
   - link: historie
     text: Historie úřadu ombudsmana a dětského ombudsmana

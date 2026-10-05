@@ -1,0 +1,18 @@
+---
+title: Seriál Ochránce – 3. díl – stavební řízení
+date: 2012-09-11T00:00:00.000Z
+perex: V neděli 23. 9. ve 11:20h vysílá ČT2 3. díl pořadu Ochránce o problémech,
+  do kterých se lidé dostávají ve vztahu k úřadům, tentokrát o činnosti
+  stavebních úřadů. Reprízu dílu uvidíte na ČT2 v úterý 25. 9. v 9:00h.
+kategorie:
+  - tv
+---
+Problémy se stavebními úřady. Sporná rozhodnutí, stížnosti na nečinnost stavebních úřadů. Režie Z. Skokan
+
+Bourá váš soused stodolu a jeho sutiny ohrožují vaši pohodu? Jste přesvědčení, že rekonstrukce domu, ve kterém bydlíte, nepokračuje podle platných předpisů a norem? Při řešení podobných problémů se lidé často obracejí na stavební úřad. A v dnešním díle Ochránce se dovíte, co dělat, když ani to nepomůže. Když stavební úřady rozhodnou jinak, než se vám zdá logické, anebo když dlouho otálejí a nerozhodují vůbec. Přineseme vám například i příběh starousedlíků, kteří svému novému sousedovi dali souhlas k vybudování školícího střediska a dnes je z něj proti původním plánům rušná restaurace s desítkami denních hostů.
+
+Manželé D. podali ochránci podnět s žádostí o pomoc při řešení výměny výtahu v domě. Jsou vlastníky bytové jednotky v tomto domě a paní D. je osobou zdravotně postiženou (chůze výhradně o francouzských holích, neschopná chůze po schodech). Namítali, že nově osazený výtah v bytovém domě nerespektuje požadavky tzv. bezbariérové vyhlášky. Nově osazený výtah totiž zastavuje v mezipatře a ztěžuje tak paní D. přístup do bytu, protože musí překonávat několik schodů. Stavební úřad jim sdělil, že výměna výtahu nevyžaduje stavební povolení a jde pouze o udržovací práce. S tím stěžovatelé nesouhlasili, protože výtah má jiné rozměry, jinou nosnost a je i jinak technicky provedení, nejedná se tedy o prostou výměnu.
+
+Manželům P. se díky nečinnosti stavebního úřadu zřítila štítová zeď. Majitelka sousedního domu se totiž rozhodla svoji stavbu odstranit a ačkoli jí stavební úřad stanovil podmínku, že musí zabezpečit ponechané štítové zdivo proti navlhání, majitelka to nerespektovala. Svůj dům zbourala a odkryté štítové zdi ponechala odkryté. Stěžovatelé bohužel nebyli dostatečně důslední, pokud jde urgování stavebního úřadu. Ačkoli stavební úřad nekonal, na ombudsmana se obrátili až po několika letech, kdy se štítová zeď zřítila.
+
+Paní R. a její sousedé dlouhodobě bojují proti užívání blízké stavby v rozporu s kolaudačním rozhodnutím. Objekt byl zkolaudován jako vzdělávací středisko, ale majitel z něj od počátku udělal restauraci pro veřejnost. Stavební úřad sice vedl s vlastníkem stavby správní řízení a uložil pokuty, ale vždy jen u dolní hranice sazby. Pokuty tak neměly žádný dopad a vlastník dál provozuje nepovolenou restauraci. Stavební úřad nepřikročil k razantnějším krokům, které mu zákon umožňuje, aby zajistil respektování práva.

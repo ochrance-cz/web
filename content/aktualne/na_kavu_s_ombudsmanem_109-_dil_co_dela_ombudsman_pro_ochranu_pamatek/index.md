@@ -20,7 +20,7 @@ perex: >
 
 <p><strong>Související odkazy:</strong></p>
 
-<p><a href="https://www.ochrance.cz/vystupy/edice-stanoviska/Pamatkova_pece.pdf">Sborník Památková péče</a></p>
+<p><a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/vystupy/edice-stanoviska/Pamatkova_pece.pdf">Sborník Památková péče</a></p>
 
 <p><a href="https://mk.gov.cz/obcan-a-nakladani-s-pamatkovym-fondem-cs-241">Ministerstvo kultury &ndash; občan a nakládání s&nbsp;památkovým fondem</a></p>
 

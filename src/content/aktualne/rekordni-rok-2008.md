@@ -1,0 +1,23 @@
+---
+title: Rekordní rok 2008
+date: 2009-01-14T00:00:00.000Z
+perex: V průběhu roku 2008 se na ochránce obrátili občané se 7051 podněty, což
+  je nejvíc za celou dobu existence institutu veřejného ochránce práv v České
+  republice. Mezi přijatými podněty převažovaly stížnosti v záležitostech,
+  jejichž řešení je v působnosti ochránce. Tento příznivý poměr – 56 % podnětů
+  v působnosti proti 44 % směřujícím mimo působnost – je důkazem dobré
+  informovanosti občanů o činnosti, působnosti a možnostech veřejného ochránce
+  práv a svědčí také o vyšším právním povědomí českých občanů. V evropském
+  srovnání zároveň poměr 56:44 představuje téměř unikát. Naprostá většina
+  evropských ombudsmanů, dokonce i v zemích, kde institut ombudsmana existuje
+  několik desetiletí, se totiž setkává s opačnou situací a v jejich agendě
+  převažuje vyřizování stížností, které jsou mimo působnost a s nimiž ombudsmani
+  nemohou občanům pomoci.
+kategorie:
+  - tz
+---
+K meziročnímu nárůstu přijatých podnětů došlo ve všech oblastech práva a prvenství si dlouhodobě drží oblast sociálního zabezpečení. Počet stížností týkajících se této oblasti se v roce 2008 přiblížil tisícovce. Následuje problematika stavebnictví a regionálního rozvoje, zdravotnictví a také stížnosti týkající se vězeňství, práce policie a armády. Mezi stížnostmi mimo působnost ochránce zcela převažují civilněprávní záležitosti.
+
+V uplynulém roce ochránce vyřídil 6969 podnětů, z nichž u 482 konstatoval pochybení na straně úřadů. Většina pochybení však byla napravena, ať již v samotném průběhu šetření nebo úřad přijal opatření, která ochránce navrhl po ukončení šetření. Pouze v sedmi případech se v roce 2008 nepodařilo ze strany příslušného úřadu dosáhnout odstranění nedostatků. V šesti případech byl ochránce nucen přistoupit k uložení sankcí a obrátil se na k nadřízenému úřadu, případně k ministerstvu, což nakonec ve všech případech vedlo k úspěchu. V jednom případě ochránce využil zvláštního oprávnění a inicioval legislativní změnu.
+
+Problematika sociálního zabezpečení představuje z hlediska činnosti ochránce největší objem přijímaných i vyřizovaných stížností. Není proto překvapením, že i „jubilejní“ sedmitisící přijatý podnět patří do této oblasti. Na ochránce se v něm obrátila stěžovatelka z Uherskohradišťska s námitkou, že pochybením pracovnice okresní správy sociálního zabezpečení přišla o výplatu vdovského důchodu za roky 1995 – 2005. Podle jejího odhadu tím přišla o více než čtvrt milionu korun.

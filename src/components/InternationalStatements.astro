@@ -1,0 +1,44 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PicHeader from './PicHeader.astro';
+import NewsPreview from './NewsPreview.astro';
+
+interface Props { mode: 'type' | 'year' | 'all' }
+const { mode } = Astro.props;
+const title = 'Vyjádření pro mezinárodní orgány';
+const category = 'vyjadreni-pro-mezinarodni-organy';
+const documents = (await getCollection('dokument', (entry) => !entry.data.draft))
+  .filter((entry) => entry.data.vystupy?.includes(category))
+  .sort((a, b) => new Date(b.data.date ?? 0).getTime() - new Date(a.data.date ?? 0).getTime());
+const yearOf = (date: Date | undefined | null) => date ? String(new Date(date).getFullYear()) : 'Bez data';
+const groups = mode === 'type'
+  ? ['CEDAW', 'OHCHR'].map((label) => ({ label, entries: documents.filter((entry) => entry.data.organ === label) }))
+  : [...new Set(documents.map((entry) => yearOf(entry.data.date)))].map((label) => ({
+      label, entries: documents.filter((entry) => yearOf(entry.data.date) === label),
+    }));
+---
+<BaseLayout title={title} lang="cs">
+  <main data-pagefind-body>
+    <PicHeader title={title} />
+    <section class="_news single-col">
+      <nav aria-label="Zobrazení vyjádření">
+        <ul class="_horizontal-list">
+          <li><a href="/vystupy/vyjadreni-pro-mezinarodni-organy/" class={mode === 'type' ? 'selected' : undefined} aria-current={mode === 'type' ? 'page' : undefined}>Dle typu</a></li>
+          <li><a href="/vyjadreni-dle-roku/" class={mode === 'year' ? 'selected' : undefined} aria-current={mode === 'year' ? 'page' : undefined}>Dle roku</a></li>
+          <li><a href="/vyjadreni-vse/" class={mode === 'all' ? 'selected' : undefined} aria-current={mode === 'all' ? 'page' : undefined}>Všechna vyjádření</a></li>
+        </ul>
+      </nav>
+      {mode === 'all' ? documents.map((entry) => (
+        <NewsPreview href={`/dokument/${entry.id}/`} title={entry.data.title} date={entry.data.date} tags={entry.data.vystupy} locale="cs" />
+      )) : groups.filter((group) => group.entries.length).map((group) => (
+        <section>
+          <h2>{group.label}</h2>
+          {group.entries.map((entry) => (
+            <NewsPreview href={`/dokument/${entry.id}/`} title={entry.data.title} date={entry.data.date} tags={entry.data.vystupy} locale="cs" />
+          ))}
+        </section>
+      ))}
+    </section>
+  </main>
+</BaseLayout>

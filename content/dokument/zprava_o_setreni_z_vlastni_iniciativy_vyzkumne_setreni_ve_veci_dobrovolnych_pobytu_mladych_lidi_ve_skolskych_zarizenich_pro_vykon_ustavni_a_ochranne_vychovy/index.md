@@ -9,5 +9,5 @@ attachmentsTop:
   - title: Zpráva o šetření z vlastní iniciativy (výzkumné šetření) ve věci
       dobrovolných pobytů mladých lidí ve školských zařízeních pro výkon ústavní
       a ochranné výchovy
-    file: https://www.ochrance.cz/uploads-import/ESO/5157_2015_VOP_Z18.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/5157_2015_VOP_Z18.pdf
 ---

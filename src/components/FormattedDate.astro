@@ -1,0 +1,59 @@
+---
+// Localizes a date. Czech month names mirror data/months.yml.
+interface Props {
+  date: Date | string;
+  locale?: 'cs' | 'en';
+  class?: string;
+  hideMonth?: boolean;
+  hideYear?: boolean;
+}
+
+const {
+  date,
+  locale = 'cs',
+  class: className = '',
+  hideMonth = false,
+  hideYear = false,
+} = Astro.props;
+
+const csMonths: Record<number, string> = {
+  1: 'ledna',
+  2: 'února',
+  3: 'března',
+  4: 'dubna',
+  5: 'května',
+  6: 'června',
+  7: 'července',
+  8: 'srpna',
+  9: 'září',
+  10: 'října',
+  11: 'listopadu',
+  12: 'prosince',
+};
+
+const enMonths = [
+  'January', 'February', 'March', 'April', 'May', 'June',
+  'July', 'August', 'September', 'October', 'November', 'December',
+];
+
+const d = date instanceof Date ? date : new Date(date);
+const valid = !isNaN(d.getTime());
+
+const day = d.getDate();
+const monthIdx = d.getMonth(); // 0-based
+const year = d.getFullYear();
+
+const datetime = valid ? d.toISOString() : '';
+
+let label = '';
+if (valid) {
+  if (locale === 'en') {
+    label = `${enMonths[monthIdx]} ${day}, ${year}`;
+  } else {
+    label = `${day}.`;
+    if (!hideMonth) label += ` ${csMonths[monthIdx + 1]}`;
+    if (!hideYear) label += ` ${year}`;
+  }
+}
+---
+<time class:list={['post-date', className]} datetime={datetime}>{label}</time>

@@ -13,7 +13,7 @@ perex: <p>Bez standardního připomínkového řízení a s řadou problematick�
 attachments:
   - title: Připomínky k novele stavebního zákona adresované Hospodářskému výboru,
       Ústavně právnímu výboru a Výboru pro veřejnou správu a regionální rozvoj
-    file: https://www.ochrance.cz/aktualne/ochrana_prirody_a_pamatek_v_ohrozeni_kvuli_novele_stavebniho_zakona-_ombudsman_se_obraci_na_poslance/dopis_vyborum_novela_stavebniho_zakona.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/ochrana_prirody_a_pamatek_v_ohrozeni_kvuli_novele_stavebniho_zakona-_ombudsman_se_obraci_na_poslance/dopis_vyborum_novela_stavebniho_zakona.pdf
   - title: "Tisková zpráva z 18. 12. 2025 „Ombudsman vyzývá poslance, aby alespoň
       oni prodiskutovali s odbornou veřejností novelu stavebního zákona“ "
     link: https://www.ochrance.cz/aktualne/ombudsman_vyzyva_poslance_aby_alespon_oni_prodiskutovali_s_odbornou_verejnosti_novelu_stavebniho_zakona/
@@ -51,4 +51,4 @@ attachments:
 <li>soudní ochrana se zužuje tím, že žalobu nebude možné dodatečně rozšířit,</li>
 <li>zásadním problémem je také oslabení závaznosti územních plánů. Stavební úřad bude moci povolit stavbu i v rozporu s nimi, na základě vágně formulovaných podmínek.</li></ul></blockquote>
 <figure class="image">
-<img src="https://www.ochrance.cz/aktualne/ochrana_prirody_a_pamatek_v_ohrozeni_kvuli_novele_stavebniho_zakona-_ombudsman_se_obraci_na_poslance/novela_stavebniho_zakona_mensi.png" alt="novela stavebního zákona 2026 nový stavební zákon změny ve stavebním zákoně"></figure>
+<img src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/ochrana_prirody_a_pamatek_v_ohrozeni_kvuli_novele_stavebniho_zakona-_ombudsman_se_obraci_na_poslance/novela_stavebniho_zakona_mensi.png" alt="novela stavebního zákona 2026 nový stavební zákon změny ve stavebním zákoně"></figure>

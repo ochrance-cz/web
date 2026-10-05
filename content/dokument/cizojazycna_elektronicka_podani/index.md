@@ -5,5 +5,5 @@ vystupy:
   - vyzkumy
 attachmentsTop:
   - title: Cizojazyčná elektronická podání
-    file: https://www.ochrance.cz/dokument/cizojazycna_elektronicka_podani/cizojazycna-elektronicka-podani.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/dokument/cizojazycna_elektronicka_podani/cizojazycna-elektronicka-podani.pdf
 ---

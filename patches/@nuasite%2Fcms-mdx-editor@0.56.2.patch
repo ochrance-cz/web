@@ -1,0 +1,132 @@
+diff --git a/src/format-toolbar.tsx b/src/format-toolbar.tsx
+index 109d4ba6ec3f6ecec2b2de9f4a246375d18896b2..492254c172d0df4369ddda12dc2a20fbb1626ae3 100644
+--- a/src/format-toolbar.tsx
++++ b/src/format-toolbar.tsx
+@@ -6,6 +6,7 @@
+  * original mini-editor's formatting-only toolbar.
+  */
+ import { type Editor, editorViewCtx } from '@milkdown/core'
++import { TextSelection } from '@milkdown/prose/state'
+ import {
+ 	liftListItemCommand,
+ 	toggleEmphasisCommand,
+@@ -159,6 +160,8 @@ export function FormatToolbar({ editor, listStyles, media, mediaContext, field,
+ 	const formats = useFormatTracking(editor)
+ 	const [linkOpen, setLinkOpen] = useState(false)
+ 	const [mediaOpen, setMediaOpen] = useState(false)
++	const [pdfOpen, setPdfOpen] = useState(false)
++	const [pdfSelection, setPdfSelection] = useState<{ from: number; to: number } | null>(null)
+ 	const [youtubeOpen, setYoutubeOpen] = useState(false)
+ 	const [pendingImage, setPendingImage] = useState<{ url: string; alt: string } | null>(null)
+ 	const disabled = editor === null
+@@ -182,6 +185,32 @@ export function FormatToolbar({ editor, listStyles, media, mediaContext, field,
+ 		removeLinkMark(view)
+ 	}
+ 
++	const openPdfLibrary = () => {
++		if (!editor || !media) return
++		const { from, to } = editor.ctx.get(editorViewCtx).state.selection
++		setPdfSelection({ from, to })
++		setPdfOpen(true)
++	}
++
++	const applyPdf = (url: string, filename: string) => {
++		setPdfOpen(false)
++		if (!editor || !pdfSelection) return
++		const view = editor.ctx.get(editorViewCtx)
++		const max = view.state.doc.content.size
++		const from = Math.min(pdfSelection.from, max)
++		const to = Math.min(pdfSelection.to, max)
++		if (from === to) {
++			const label = filename.replace(/\.pdf$/i, '') || 'PDF'
++			view.dispatch(view.state.tr.insertText(label, from, to))
++			view.dispatch(view.state.tr.setSelection(TextSelection.create(view.state.doc, from, from + label.length)))
++		} else {
++			view.dispatch(view.state.tr.setSelection(TextSelection.create(view.state.doc, from, to)))
++		}
++		view.focus()
++		editor.action(callCommand(toggleLinkCommand.key, { href: url }))
++		setPdfSelection(null)
++	}
++
+ 	return (
+ 		<div style={toolbarRoot}>
+ 			<div style={bar}>
+@@ -236,6 +265,7 @@ export function FormatToolbar({ editor, listStyles, media, mediaContext, field,
+ 				<Btn active={youtubeOpen} title="Insert YouTube" onClick={() => !disabled && setYoutubeOpen(v => !v)}>YouTube</Btn>
+ 				<span style={sep} />
+ 				<Btn active={formats.link || linkOpen} title="Link" onClick={() => !disabled && setLinkOpen(v => !v)}>🔗 Link</Btn>
++				{media ? <Btn title="Attach a PDF to selected text" onClick={openPdfLibrary}>📄 PDF</Btn> : null}
+ 				{media ? <Btn title="Insert image" onClick={() => !disabled && setMediaOpen(true)}>🖼 Image</Btn> : null}
+ 				{onInsertComponent
+ 					? (
+@@ -308,6 +338,20 @@ export function FormatToolbar({ editor, listStyles, media, mediaContext, field,
+ 					/>
+ 				)
+ 				: null}
++
++			{pdfOpen && media
++				? (
++					<MediaLibrary
++						media={media}
++						context={mediaContext}
++						field={field}
++						accept="application/pdf,.pdf"
++						initialTypeFilter="document"
++						onSelect={(url, name) => applyPdf(url, name ?? 'PDF')}
++						onClose={() => { setPdfOpen(false); setPdfSelection(null) }}
++					/>
++				)
++				: null}
+ 		</div>
+ 	)
+ }
+diff --git a/src/media-library.tsx b/src/media-library.tsx
+index ee4e6f933f9769a636bd3e8da0fc5ad08c9a638b..a6ccae85a6e01cae5e12c3d10e013ab54914a518 100644
+--- a/src/media-library.tsx
++++ b/src/media-library.tsx
+@@ -118,6 +118,7 @@ export interface MediaLibraryProps {
+ 	field?: string
+ 	/** File-input `accept`. Defaults to images + PDF. */
+ 	accept?: string
++	initialTypeFilter?: MediaTypeFilter
+ 	onSelect: (url: string, alt?: string) => void
+ 	onClose: () => void
+ }
+@@ -231,12 +232,12 @@ const tileCaption: React.CSSProperties = {
+ 	textOverflow: 'ellipsis',
+ }
+ 
+-export function MediaLibrary({ media, context, field, accept = 'image/*,application/pdf', onSelect, onClose }: MediaLibraryProps) {
++export function MediaLibrary({ media, context, field, accept = 'image/*,application/pdf', initialTypeFilter = 'all', onSelect, onClose }: MediaLibraryProps) {
+ 	const [items, setItems] = useState<MediaItem[]>([])
+ 	const [folders, setFolders] = useState<MediaFolderItem[]>([])
+ 	const [currentFolder, setCurrentFolder] = useState('')
+ 	const [searchQuery, setSearchQuery] = useState('')
+-	const [typeFilter, setTypeFilter] = useState<MediaTypeFilter>('all')
++	const [typeFilter, setTypeFilter] = useState<MediaTypeFilter>(initialTypeFilter)
+ 	/** First page of the current folder — the grid is replaced by a placeholder. */
+ 	const [loading, setLoading] = useState(false)
+ 	/** A follow-up page — the grid stays on screen underneath. */
+@@ -273,7 +274,7 @@ export function MediaLibrary({ media, context, field, accept = 'image/*,applicat
+ 		else setLoadingMore(true)
+ 		setErrorMsg(null)
+ 		try {
+-			const result = await media.listMedia({ folder: listing.folder || undefined, limit: pageSize, cursor: listing.cursor })
++			const result = await media.listMedia({ folder: listing.folder || undefined, limit: pageSize, cursor: listing.cursor, includeProjectImages: !listing.folder })
+ 			if (!mountedRef.current || listingRef.current !== listing) return
+ 			listing.pages += 1
+ 			setFolders(prev => mergeFolders(prev, result.folders))
+diff --git a/src/media-source.ts b/src/media-source.ts
+index 194a7910e404490cff02a3c5002ba7dbe65cd4dc..ad972e4b26c8ccfa591bd8903a1c114f2f46bcb3 100644
+--- a/src/media-source.ts
++++ b/src/media-source.ts
+@@ -20,7 +20,7 @@ export interface MediaUploadContext {
+ }
+ 
+ export interface MediaSource {
+-	listMedia(options?: { folder?: string; cursor?: string; limit?: number }): Promise<MediaListResult>
++	listMedia(options?: { folder?: string; cursor?: string; limit?: number; includeProjectImages?: boolean }): Promise<MediaListResult>
+ 	uploadMedia(file: File, context?: MediaUploadContext): Promise<MediaUploadResult>
+ 	createFolder?(folder: string): Promise<{ success: boolean; error?: string }>
+ 	/**

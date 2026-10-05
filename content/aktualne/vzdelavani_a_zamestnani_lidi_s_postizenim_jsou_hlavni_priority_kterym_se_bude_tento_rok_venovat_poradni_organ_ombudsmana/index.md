@@ -24,7 +24,7 @@ attachments:
     link: https://www.ochrance.cz/aktualne/komunitni_socialni_sluzby_musi_definovat_primo_zakon_shodl_se_poradni_organ_ombudsmana_pro_oblast_prav_lidi_s_postizenim/
   - title: Usnesení poradního orgánu veřejného ochránce práv pro oblast ochrany práv
       osob se zdravotním postižením
-    file: https://www.ochrance.cz/aktualne/vzdelavani_a_zamestnani_lidi_s_postizenim_jsou_hlavni_priority_kterym_se_bude_tento_rok_venovat_poradni_organ_ombudsmana/usneseni_2024_17_k_prioritam_2025.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/vzdelavani_a_zamestnani_lidi_s_postizenim_jsou_hlavni_priority_kterym_se_bude_tento_rok_venovat_poradni_organ_ombudsmana/usneseni_2024_17_k_prioritam_2025.pdf
   - file: ""
     link: https://www.ochrance.cz/aktualne/poradni_organ_ombudsmana_se_letos_bude_zabyvat_predevsim_pravem_lidi_s_postizenim_na_nezavisly_zivot_a_pristupnosti_webovych_stranek_i_mobilnich_aplikaci/
     title: Tisková zpráva ze zasedání poradního orgánu v březnu 2024

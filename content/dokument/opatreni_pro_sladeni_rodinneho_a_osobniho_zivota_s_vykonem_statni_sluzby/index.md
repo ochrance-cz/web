@@ -8,7 +8,7 @@ vystupy:
   - doporuceni
 attachmentsTop:
   - title: Opatření pro sladění rodinného a osobního života s výkonem státní služby
-    file: https://www.ochrance.cz/uploads-import/ESO/32-2018-DIS_JKV_doporuceni_graficka_verze.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/32-2018-DIS_JKV_doporuceni_graficka_verze.pdf
 ---
 <p>Na základě našeho 
 <a href="https://www.ochrance.cz/dokument/sladovani_pracovniho_osobniho_a_rodinneho_zivota_na_ministerstvech_cr/">výzkumu z&nbsp;roku 2017 zaměřeného na slaďování osobního a rodinného života na ministerstvech</a> vydáváme doporučení, jak situaci zaměstnanců ve státní službě zlepšit. Doporučení je určeno především služebním úřadům, které se výzkumu zúčastnily, mnohé závěry jsou však použitelné obecně.</p>

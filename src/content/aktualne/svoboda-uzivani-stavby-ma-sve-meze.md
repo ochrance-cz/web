@@ -1,0 +1,39 @@
+---
+title: Svoboda užívání stavby má své meze
+date: 2017-06-28T00:00:00.000Z
+perex: Často se setkáváme s problémem, kdy je stavba využívána k jinému účelu,
+  než k jakému byla původně zkolaudována. Střetává se zde soukromé právo
+  vlastníka užívat stavbu podle svého s požadavkem práva veřejného, které chrání
+  veřejný zájem. Proto je třeba ustanovení o tom, že stavba může být užívána jen
+  k účelu, ke kterému byla kolaudována vykládat tak, aby byla respektována vůle
+  vlastníka, ale současně chráněn i veřejný zájem. K porušení veřejného zájmu
+  dochází zpravidla tehdy, pokud je nemovitost odňata účelu bydlení, k čemuž
+  byla kolaudována, a bydlení, jak tomuto pojmu rozumíme, je nahrazeno
+  podnikatelským záměrem, který s bydlením nemá nic společného. Krom vnitřních
+  bezpečnostních a hygienických předpisů je nutné posuzovat také vliv užívání
+  stavby na své okolí. Zástupce veřejné ochránkyně práv, JUDr. Stanislav Křeček,
+  šetřil případ, kdy byla stavba zkolaudována jako rodinný dům, ale reálně je
+  využívána jako ubytovací zařízení. Okolí je tak zatěžováno hlukem a zvýšenou
+  dopravou.
+kategorie:
+  - tz
+---
+Vyhláška o obecných požadavcích na využívání území definuje pojmy „stavby pro bydlení“, „stavby pro rodinnou rekreaci“ a „ubytovacího zařízení“. V šetřeném případě byla stavba zkolaudována jako stavba pro bydlení, ale reálně je využívána jako ubytovací zařízení pro veřejnost. To jednoznačně vyplývá z webové prezentace majitelů, kde nabízejí apartmán a další čtyři pokoje o celkové dispozici 27 lůžek. Podobně byla stavba prezentována v nabídce cestovní kanceláře.
+
+Stěžovatel se obrátil na JUDr. Stanislava Křečka, protože byl obtěžován zejména zvýšeným hlukem a dopravou, která souvisela s provozem ubytovacího zařízení. Jeho předchozí podněty stavebnímu úřadu se nesetkaly s pozitivní odezvou.
+
+Příslušný stavební úřad města Chrast konstatoval, že je využívání stavby v pořádku. Podobně reagoval příslušný živnostenský úřad města Chrudim. Podle stavebního úřadu užívání stavby rodinného domu jejími vlastníky nebo jinými osobami k dočasnému pobytu nevyžaduje změnu v účelu užívání stavby. Nebylo však přihlédnuto k tomu, k čemu je stavba reálně v současné době používána.
+
+Podle Nejvyššího soudu (2012) skutečně není nutné, aby schválení stavebního úřadu podléhala každá drobná změna v užívání stavby. Avšak podle rozsudku Nejvyššího správního soudu z roku 2014 je účelem řízení o změně v užívání stavby prozkoumat dopady navrhované změny v užívání stavby.
+
+**Stavbu tedy lze v některých případech užívat variabilně, ne však zcela zjevně v rozporu se schváleným účelem.**
+
+V šeřeném případě se jednalo o rodinný dům, který není užíván vlastníkem, ale je pronajímán jako „vhodný pro rodinnou dovolenou, firemní školení, přátelská setkání i nejrůznější oslavy.“ Na stránkách cestovní kanceláře pak byla stavba inzerována, jako „nový, luxusně zařízený rekreační objekt s bazénem vhodný k ubytování pro náročné klientely.“
+
+**Zástupce veřejné ochránkyně práv, JUDr. Stanislav Křeček, k tomu uvádí:** *„Mám za to, že mantinely variability užívání stavby rodinného domu jsou v tomto případě maximálně překračovány. U pronájmu k firemním akcím není dle mého názoru převažujícím účelem uspokojení potřeby bydlení, ale podnikatelského záměru, uspokojení společenské potřeby a poskytnutí prostoru za účelem sdružení osob k jejich zábavě, případně vzdělání. Užívání stavby takovým způsobem má nepochybně zcela jiné dopady na okolí, než kdyby byla stavba skutečně užívána jako rodinný dům, tedy k bydlení.“*
+
+O výsledcích šetření jsme informovali krajský úřad Pardubického kraje. Ten se s výsledky šetření ztotožnil. Rovněž považuje za nepřípustné, aby stavební úřad rezignoval na rozlišování mezi rodinným domem a ubytovacím zařízením. Vyzval proto stavební úřad města Chrast, aby znovu posoudil, zda je stavba v Hroubovicích užívána v souladu s povoleným účelem užívání a zda tedy nedochází k tomu, aby veřejný zájem nebyl respektován. Se závěry šetření JUDr. Stanislava Křečka se ztotožnil rovněž živnostenský úřad. Nyní je tedy na stavebním úřadu, aby sjednal nápravu.
+
+ [Zpráva o šetření](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/Zprava_o_setreni_ve_veci_uzivani_stavby_rodinneho_domu_.pdf "Otevření do nového okna") (226.4 kB, Adobe Acrobat dokument)
+
+ [Závěrečné stanovisko](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/Zaverecne_stanovisko_s_navrhem_opatreni_k_naprave_ve_veci_uzivani_stavby_rodinneho_domu.pdf "Otevření do nového okna") (531.5 kB, Adobe Acrobat dokument)

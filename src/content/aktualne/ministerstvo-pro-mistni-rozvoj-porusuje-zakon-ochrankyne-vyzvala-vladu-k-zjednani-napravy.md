@@ -1,0 +1,33 @@
+---
+title: Ministerstvo pro místní rozvoj porušuje zákon. Ochránkyně vyzvala vládu k
+  zjednání nápravy
+date: 2016-09-01T00:00:00.000Z
+perex: Ministerstvo pro místní rozvoj odmítá jako jediné poskytovat odškodnění
+  za nepřiměřenou délku řízení. Nejčastěji se jedná o řízení před stavebními
+  úřady. Veřejná ochránkyně práv se snažila přesvědčit ministryni a její
+  náměstky, aby od této nezákonné praxe upustili. Bohužel marně. Nyní se proto
+  obrací na vládu, aby ministerstvu uložila zjednání nápravy.
+kategorie:
+  - tz
+---
+Veřejná ochránkyně práv dlouhodobě monitoruje postup ústředních institucí státní správy při vyřizování žádostí o odškodnění. V této činnosti navazuje na své předchůdce. Již v roce 2012 konstatoval tehdejší ochránce, že Ministerstvo pro místní rozvoj odmítá nároky na poskytnutí odškodnění (zadostiučinění) za nemajetkovou újmu, způsobenou především nepřiměřenou délkou řízení. Ve většině případů se jedná o nepřiměřenou délku řízení před stavebními úřady.
+
+Ministryně pro místní rozvoj ochránkyni ve svých písemných vyjádřeních ujišťovala, že ministerstvo poskytování odškodnění neodmítá. Naše analýza však prokázala pravý opak:
+
+ 
+
+-   v období od 1. ledna 2010 do 1. června 2015 obdrželo ministerstvo 250 žádostí o odškodnění;
+-   ani v jednom případě ministerstvo neshledalo nárok jako důvodný;
+-   v 75 případech proto žadatelé uplatnili svůj nárok u soudu;
+-   v 10 případech soud žadatelům zadostiučinění za nemajetkovou újmu již přiznal;
+-   o řadě dalších žalob nebylo doposud rozhodnuto, nicméně lze předpokládat, že o mnohých rozhodne soud stejným způsobem.
+
+ 
+
+##### Hlavní nedostatky Ministerstva pro místní rozvoj
+
+Ministerstvo pro místní rozvoj je jediným ústředním orgánem, který odmítá poskytovat odškodnění (zadostiučinění) za nemajetkovou újmu, způsobenou především nepřiměřenou délkou řízení. Postupuje v rozporu se zákonem č. 82/1998 Sb., s [Desaterem dobré praxe,](/aktualne/tiskove-zpravy-2010/desatero-dobre-praxe-pro-posouzeni-zadosti-o-odskodneni/) i s dosavadní ustálenou judikaturou Nejvyššího soudu a Evropského soudu pro lidská práva.
+
+Ministerstvo nepoučuje žadatele o jejich právu domáhat se odškodnění u příslušného soudu. Ministerstvo také nevyzývá žadatele k doplnění v případech, kdy v žádosti chybí některý z důležitých podkladů, bez něhož není možné žádost objektivně posoudit.
+
+Veřejná ochránkyně práv proto navrhla vládě uložit ministryni Karle Šlechtové, aby Ministerstvo pro místní rozvoj svou praxi změnilo a zmíněné nedostatky napravilo.

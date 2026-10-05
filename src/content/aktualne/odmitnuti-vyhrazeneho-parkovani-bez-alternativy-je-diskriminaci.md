@@ -1,0 +1,21 @@
+---
+title: Odmítnutí vyhrazeného parkování bez alternativy je diskriminací
+date: 2012-05-24T00:00:00.000Z
+perex: Obec by měla se zřízením parkování pro zdravotně postiženou osobu
+  souhlasit vždy, pokud tomu nebrání závažný důvod a pokud potižený nemůže
+  využít jiné, srovnatelné řešení. Pokud obec odmítne individuální parkovací
+  místo zřídit, aniž nabídne přiměřenou alternativu, dopouští se diskriminace.
+kategorie:
+  - tz
+---
+Aby se osoby se zdravotním postižením mohly zapojit do běžného života v co nejširší míře, musí mít zejména možnost svobodně a bez obtíží se pohybovat. Tomuto účelu slouží i vyhrazená parkovací místa umožňující hendikepovaným parkovat co možná nejblíže úřadům, nákupních střediskům apod. Z téhož důvodu má osoba se zdravotním postižením možnost žádat o zřízení vyhrazeného parkovacího místa také v blízkosti bydliště. Zřízení vyhrazeného parkování povoluje silniční správní úřad, ovšem pouze za předpokladu, že s tím souhlasí vlastník komunikace. Na ochránce se opakovaně obracejí stěžovatelé s námitkami, že obce, jako vlastníci místních komunikací, odmítají vyhrazená parkovací místa zřizovat, což vnímají jako diskriminaci. Ochránce proto na základě konkrétních případů formuloval principy, kterými by se obce měly v rámci povolování vyhrazeného parkování řídit, aby jejich rozhodování neporušovalo antidiskriminační zákon.
+
+Diskriminací zdravotně postižených není jen nerovné zacházení, ale i pasivita, tj. aktivní nepřijetí opatření, která by postiženým umožnila využívat službu určenou veřejnosti. V takových případech se jedná o nepřímou diskriminaci. Výjimkou jsou pouze situace, kdy by přijetí určitého opatření představovalo nepřiměřené zatížení a současně by existovalo adekvátní „náhradní“ řešení.
+
+Vlastníkem místních komunikací jsou obce. Jde tedy o veřejný majetek a užívání místních komunikací je veřejnou službou. Obec by proto měla se zřízením vyhrazeného parkování pro zdravotně postiženou osobu souhlasit vždy, pokud tomu nebrání závažný důvod a pokud zdravotně postižený nemůže využít jiné, srovnatelné a přiměřené řešení.
+
+Obce obvykle hájí svůj nesouhlas se zřízením vyhrazeného parkování nedostatečnou kapacitou běžných parkovacích míst a tedy nemožností vyhovět všem žádostem o individuální vyhrazená parkování. Podle ochránce však takové odůvodnění samo o sobě nestačí. Není-li možné vyhovět všem žadatelům například právě pro nedostatečné kapacity parkovacích míst, musí obec individuálně zkoumat míru potřeby a užitku vyhrazeného parkování pro každého konkrétního žadatele. Pokud z povahy zdravotního postižení vyplývá, že vyhrazené parkování je pro žadatele nezbytné, může obec s jeho zřízením nesouhlasit jen za předpokladu, že existuje reálné alternativní řešení situace postiženého, které mu umožní využívat služby rovnocenným způsobem jako osobě bez postižení. **Pokud obec odmítne zřídit individuální parkovací místo a nenabídne jiné řešení, dopouští se diskriminace ve smyslu antidiskriminačního zákona.**
+
+Ochránce se často setkává s případy, kdy obec stanoví podmínku, že žadatel o vyhrazené parkovací místo musí být sám držitelem řidičského oprávnění nebo vlastníkem vozidla. Taková podmínka však nemá zákonné opodstatnění a zcela opomíjí fakt, že právě zdravotní postižení může být překážkou získání řidičského oprávnění, což ovšem nemá žádný vliv na potřebu zdravotně postiženého parkovat co nejblíže bydlišti. Stejně tak není podle ochránce přípustné obecně odmítat žádosti o zřízení vyhrazeného parkovacího místa, pokud žadatel trpí jiným než pohybovým postižením. Obec musí i v těchto situacích individuálně vyhodnotit potřebu žadatele parkovat co nejblíže bydlišti ve vztahu k povaze zdravotního postižení (může jít např. o poruchu orientačních schopností apod.).
+
+Plné znění doporučení s příklady z praxe najdete  [zde](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/DISKRIMINACE/Doporuceni/Doporuceni-parkovani_159-2011.pdf "Otevření do nového okna") (406.5 kB, Adobe Acrobat dokument).

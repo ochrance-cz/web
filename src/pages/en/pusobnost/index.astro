@@ -1,0 +1,19 @@
+---
+// Listing of the Ombudsman's scope of authority (en). Mirrors /en/pusobnost/
+// (layouts/_default/list.html): text-header + section of `_article-preview`
+// child previews (NOT a card grid).
+import { getCollection } from 'astro:content';
+import ListLayout from '../../../layouts/ListLayout.astro';
+
+const TITLE = 'Scope of Public Defender’s authority';
+
+const pages = (await getCollection('pusobnost-en'))
+  .filter((e) => !e.data.draft)
+  .sort((a, b) => a.data.title.localeCompare(b.data.title, 'en'))
+  .map((e) => ({
+    title: e.data.title,
+    href: `/en/pusobnost/${e.id}/`,
+    perex: e.data.perex,
+  }));
+---
+<ListLayout title={TITLE} lang="en" pages={pages} />

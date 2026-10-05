@@ -1,0 +1,26 @@
+---
+title: Ombudsmanka pomohla nevidomému, kterému město nechtělo pronajmout byt
+date: 2017-08-22T00:00:00.000Z
+perex: Nevidomý muž z jižních Čech žil v domě se svými rodiči. Vzhledem
+  k vrozené poruše imunity trpěl v domě častými infekcemi dýchacích cest
+  z důvodu zvýšené vlhkosti domu. Rozhodl se proto svůj problém řešit a požádal
+  o pronájem městského bytu. Město mu však byt odmítlo pronajmout a to právě
+  kvůli jeho zdravotnímu postižení. Takové jednání je však nepřípustné.
+kategorie:
+  - tz
+---
+Městský byt byl nabízen tzv. obálkovou metodou. Měl jej dostat zájemce, který nabídne nevyšší cenu. Nevidomý muž nabídl nejvyšší cenu a podle zveřejněných kritérií s ním tedy měla být uzavřena nájemní smlouva. Město však byt nabídlo druhému v pořadí, protože se obávalo, že by muselo byt dodatečně upravovat s ohledem na potřeby muže se zdravotním postižením. On sám přitom žádné úpravy nepožadoval.
+
+Je třeba zdůraznit, že město není oprávněné hodnotit zdravotní stav stěžovatele a nemůže samo posuzovat, jaké bydlení je pro něj vhodné. Takové hodnocení přísluší pouze lékaři. Z lékařských posudků je přitom zjevné, že daný muž se je schopen o sebe postarat. V minulosti absolvoval konzervatoř a zajišťoval si sám běžné životní potřeby.
+
+Muž požádal o pomoc ombudsmanku, která jednání města označila za diskriminační. Doporučila muži bránit se antidiskriminační žalobou, což nevidomý také učinil. Obrátil se na doporučení ochránkyně na Pro bono alianci.
+
+JUDr. Petr Veselý pak pro svého klienta dosáhl u soudu dvou vítězství. Krajský soud potvrdil rozsudek prvostupňového soudu, který dal žalobci za pravdu. Jednání města bylo vůči nevidomému skutečně diskriminační. Soud v rozsudku městu přikázal uveřejnit omluvu a zaplatit muži finanční kompenzaci.
+
+ [Rozsudek Okresního soudu v Jindřichově Hradci](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/DISKRIMINACE/aktuality/Rozsudek-OS-Jindr-Hradec.pdf "Otevření do nového okna") (387.4 kB, Adobe Acrobat dokument)
+
+ [Rozsudek Krajského soudu v Českých Budějovicích](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/VOP/Tiskove_zpravy_prilohy/8Co_960_2017.pdf "Otevření do nového okna") (215.1 kB, Adobe Acrobat dokument)
+
+ 
+
+**Možnosti ombudsmanky pomáhat lidem se zdravotním postižením se do budoucna zlepší. Od 1. ledna 2018 se ombudsman stane orgánem pro monitorování naplňování Úmluvy o právech osob se zdravotním postižením.**

@@ -1,0 +1,21 @@
+---
+title: Stavební úřad v Ústí nad Labem i krajský úřad tolerují nezákonné jednání
+date: 2013-07-15T00:00:00.000Z
+perex: Stavební úřad Magistrátu města Ústí nad Labem i jeho odvolací instance
+  krajský úřad jsou dlouhodobě nečinné a vědomě tak tolerují existenci černých
+  staveb. Soubor hospodářských objektů v Němčí u Malečova vznikl bez stavebního
+  povolení již na počátku 90. let a správní úřady dosud nesplnily své zákonné
+  povinnosti, nerozhodly žádným způsobem o černých stavbách a neuložily ani
+  pokuty.
+kategorie:
+  - tz
+---
+![](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/img/Ikony/Krecek-03b.jpg)Stavební úřad Ústí nad Labem se stavbami začal zabývat v roce 2000, ale za dobu téměř deseti let nebyl schopen vydat pravomocné rozhodnutí ve věci. V roce 2010 proto převzal řízení o odstranění části staveb Krajský úřad Ústeckého kraje, ale ani ten dosud rozhodnutí nevydal, přestože ho k tomu vyzvalo i Ministerstvo pro místní rozvoj a je na něj rovněž podána žaloba pro nečinnost. Stavební úřad Ústí nad Labem se navíc přestal o nepovolené stavby zajímat od okamžiku, kdy se krajský úřad ujal jednoho konkrétního správního řízení (nepřevzal veškerou působnost stavebního úřadu) s odůvodněním, že tuto záležitost řeší krajský úřad.
+
+Výhrady zástupce veřejného ochránce práv, že krajský úřad vede řízení o odstranění pouze části staveb, nikoli všech, a že tedy trvá povinnost zabývat se ostatními nelegálně postavenými objekty, stavební úřad odmítá. Stejně tak nerespektuje zákonnou povinnost provádět kontrolní prohlídky nepovolených staveb a dohlížet na to, že nejsou užívány, případně za nepovolené užívání ukládat sankce. Stavebník tak už dvacet let profituje z nezákonného jednání, aniž by mu úřady uložily jedinou pokutu za porušování stavebního zákona.
+
+Podle zástupce veřejného ochránce práv jde o bezprecedentní liknavost úřadů vůči nezákonnému jednání vlastníka nepovolených staveb. Občanům, kteří zákony dodržují, tak dávají státní orgány jasný signál, že se nezákonnost vyplácí a je beztrestná. Vzhledem k tomu, že se nepodařilo zjednat nápravu ani prostřednictvím nadřízeného orgánu a jak stavební úřad, tak krajský úřad na další výzvy zástupce veřejného ochránce práv nereagují, rozhodl se zástupce ombudsmana využít svého zákonného oprávnění a informovat o popsaném škodlivém stavu veřejnost.
+
+ [Plný text zprávy z šetření](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/STANOVISKA/Stavebni_rad_a_uzemni_planovani/663-11-SN-ZZ.pdf "Otevření do nového okna") (189.9 kB, Adobe Acrobat dokument)
+
+ [Plný text následného stanoviska s doporučením opatření k nápravě](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/STANOVISKA/Stavebni_rad_a_uzemni_planovani/663-11-SN-ZSO.pdf "Otevření do nového okna") (204.3 kB, Adobe Acrobat dokument)

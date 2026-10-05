@@ -15,7 +15,7 @@ perex: >
   například tím, že v&nbsp;daném případě prověří postup úřadů.&nbsp;&nbsp;</p>
 attachments:
   - title: Usnesení petičního výboru Poslanecké sněmovny ze dne 7. května 2024
-    file: https://www.ochrance.cz/aktualne/peticni_vybor_poslanecke_snemovny_projednal_vyrocni_zpravu_ombudsmana_za_rok_2023/up0186_zvop_23_t665.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/peticni_vybor_poslanecke_snemovny_projednal_vyrocni_zpravu_ombudsmana_za_rok_2023/up0186_zvop_23_t665.pdf
 ---
 <p><em>&bdquo;Zatímco v&nbsp;roce 2013 bylo v&nbsp;působnosti 57 % příchozích podnětů, vloni už to bylo téměř 73 % ze všech případu, kdy lidé žádali o pomoc. Tradičně nejvíc případů, bezmála 1.500, se i vloni týkalo sociálního zabezpečení,&ldquo; </em>uvedl ombudsman Stanislav Křeček.</p>
 

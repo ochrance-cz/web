@@ -1,0 +1,27 @@
+---
+title: Ombudsmanka se poprvé připojuje ke Dni vzácných onemocnění
+date: 2019-02-19T00:00:00.000Z
+perex: Už podvanácté se 28. 2. koná mezinárodní Den vzácných onemocnění.
+  Na celém světě se k němu připojují stovky pacientských organizací, lékařů,
+  poskytovatelů sociálních služeb, nevládních organizací, vědců a dalších.
+  Poprvé se do organizace Dne vzácných onemocnění zapojuje i veřejná ochránkyně
+  práv, aby tím vyjádřila podporu celosvětové komunitě lidí se vzácným
+  onemocněním.
+kategorie:
+  - tz
+---
+*„Den vzácných onemocnění je příležitostí dozvědět se víc o lidech, kteří trpí vzácným onemocněním, porozumět jejich potřebám a různým aspektům jejich života. Odtud pak vede cesta k potřebné pomoci a podpoře pro ně, i pro jejich rodiny,“* vysvětluje ombudsmanka Anna Šabatová a dodává, že toto téma ji zajímá z více pohledů: *„Lidé se vzácným onemocněním jsou jiní, často za sebou mají léta čekání na diagnózu a léčbu, pokud vůbec existuje, a vždy se setkávají s nepochopením okolí. Mým úkolem je pomáhat lidem, kteří se odlišují, mají specifické potřeby a mohou být ostatní společností pro svou jinakost vylučováni. Současně je mým úkolem prosazovat práva lidí se zdravotním postižením a usilovat o to, aby mohli žít v maximální možné míře samostatně a zapojeni do společnosti.“*
+
+Letošním tématem Dne vzácných onemocnění je budování mostů mezi zdravotní a sociální péčí pro lidi se vzácným onemocněním.
+
+V Brně se v rámci programu koná od 16 h tradiční setkání v Mendelově muzeu (Mendlovo nám. 1a, Brno) s přednáškami a diskuzemi. Vystoupí na nich i právnička Kanceláře veřejného ochránce práv Veronika Vítková. Hovořit bude o právu na nezávislý život. Vstup je zdarma, ale kvůli omezené kapacitě sálu je nutná rezervace prostřednictvím formuláře pod tímto odkazem [https://1url.cz/PMBoW](https://1url.cz/PMBoW).
+
+Na přednášky navazuje kulturní program v divadle Barka v podání Divadla Járy Pokojského. Půjde o sérii nekorektních skečů v představení „Kriplíci aneb příhody ze života hmyzu“ v podání herců se zdravotním postižením i bez něj.
+
+Právníci Kanceláře veřejného ochránce práv se také společně s dětmi z dětské skupiny Kanceláře připojí k malování obličejů a následnému focení, které je součástí celosvětové kampaně ke Dni vzácných onemocnění. Sdílením těchto fotek na sociálních sítích pod hashtagem #ShowYourRare nebo #RareDiseaseDay je možné vyjádřit podporu lidem se vzácným onemocněním. Fotky budou také sdíleny na webu a facebooku ombudsmanky.
+
+Den vzácných onemocnění vyhlásila v roce 2008 evropská organizace EURORDIS sdružující více než 800 organizací pacientů se vzácným onemocněním nejen v Evropě, ale dnes už v 70 zemích světa. Usiluje o zlepšení kvality života lidí se vzácným onemocněním a jejich rodin.
+
+Za vzácná onemocnění se označují taková, která postihují nejvýše 5 lidí z deseti tisíc. Takových onemocnění existuje na světě více než 8 000 a jen v Evropě trpí vzácným onemocněním asi 30 milionů lidí.
+
+[Podrobnosti o akci v Brně](https://test.ochrance.cz/monitorovani-prav-lidi-se-zdravotnim-postizenim/aktuality-z-monitorovani/aktuality-z-monitorovani-2019/brno-slavi-den-vzacnych-onemocneni-2019/)

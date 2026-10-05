@@ -18,9 +18,9 @@ perex: <p>Práva a hlas dětí v Česku od 1. července posílí nová instituce
   brněnské Kanceláře ombudsmana.</p>
 attachments:
   - title: Dětský ombudsman – jak ti pomůže? (informační leták)
-    file: https://www.ochrance.cz/aktualne/uz_zacatkem_prazdnin_zacne_detsky_ombudsman_pracovat_po_boku_sveho_starsiho_sourozence_zatim_v_zastoupeni/detsky_ombudsman_letak_pro_deti.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/uz_zacatkem_prazdnin_zacne_detsky_ombudsman_pracovat_po_boku_sveho_starsiho_sourozence_zatim_v_zastoupeni/detsky_ombudsman_letak_pro_deti.pdf
   - title: Logo dětského ombudsmana
-    file: https://www.ochrance.cz/aktualne/uz_zacatkem_prazdnin_zacne_detsky_ombudsman_pracovat_po_boku_sveho_starsiho_sourozence_zatim_v_zastoupeni/do_logo_reverz_krivky.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/uz_zacatkem_prazdnin_zacne_detsky_ombudsman_pracovat_po_boku_sveho_starsiho_sourozence_zatim_v_zastoupeni/do_logo_reverz_krivky.pdf
 ---
 <p>Již od 1. července se budou moci děti v&nbsp;Česku obracet na dětského ombudsmana. Prozatím se jeho činností chopí Vít Alexander Schorm, který zároveň působí jako zástupce stávajícího ombudsmana. Na nové úkoly se již připravuje:&nbsp; 
 <i>„Zkušenosti ze zahraničí naznačují, že počty podnětů týkající se dětí se vznikem nové instituce dětského ombudsmana a s&nbsp;tím související širší osvětou narostou. Tento trend ostatně sledujeme v posledních měsících i v&nbsp;naší kanceláři.&nbsp;V&nbsp;dlouhodobějším horizontu se dětský ombudsman bude zabývat i celospolečenskými problémy. Které to jsou, naznačil například náš&nbsp;</i> 
@@ -34,14 +34,14 @@ attachments:
 <blockquote>
 <p>&nbsp;</p>
 <figure class="image">
-<img src="https://www.ochrance.cz/aktualne/uz_zacatkem_prazdnin_zacne_detsky_ombudsman_pracovat_po_boku_sveho_starsiho_sourozence_zatim_v_zastoupeni/slide_-_do_tv_ci_tz_-_volba_do_1.png" alt="Grafika popisuje Kdo se může stát dětským ombudsmanem. Dětským ombudsmanem může být zvolena fyzická osoba, jejíž znalosti, zkušenosti a morální vlastnosti jsou předpokladem, že bude svoji funkci řádně zastávat. Další požadavky jsou: státní občanství České republiky; svéprávnost; bezúhonnost; věk nejméně 35 let; ukončené VŠ vzdělání získané v magisterském studijním programu v oblasti práva; nejméně 5 let praxe v oblasti ochrany práv dětí v období předchozích 10 let."></figure>
+<img src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/uz_zacatkem_prazdnin_zacne_detsky_ombudsman_pracovat_po_boku_sveho_starsiho_sourozence_zatim_v_zastoupeni/slide_-_do_tv_ci_tz_-_volba_do_1.png" alt="Grafika popisuje Kdo se může stát dětským ombudsmanem. Dětským ombudsmanem může být zvolena fyzická osoba, jejíž znalosti, zkušenosti a morální vlastnosti jsou předpokladem, že bude svoji funkci řádně zastávat. Další požadavky jsou: státní občanství České republiky; svéprávnost; bezúhonnost; věk nejméně 35 let; ukončené VŠ vzdělání získané v magisterském studijním programu v oblasti práva; nejméně 5 let praxe v oblasti ochrany práv dětí v období předchozích 10 let."></figure>
 <p>&nbsp;</p></blockquote>
 <p>Zatímco už bude kancelář obou ombudsmanů plnit nové úkoly, na poslancích spočine povinnost zvolit historicky prvního dětského ombudsmana. Vybírat budou až ze&nbsp;6 kandidátů, které navrhne prezident, Senát a zástupci vysokých škol – tzv.&nbsp; 
 <a href="https://www.crc.muni.cz/o-ckr/statut">Česká konference rektorů</a>.</p>
 <blockquote>
 <p>&nbsp;</p>
 <figure class="image">
-<img src="https://www.ochrance.cz/aktualne/uz_zacatkem_prazdnin_zacne_detsky_ombudsman_pracovat_po_boku_sveho_starsiho_sourozence_zatim_v_zastoupeni/slide_-_do_tv-tz_-_volba_do_2.png" alt="Grafika popisuje, jak se volí dětský ombudsman. Senát, prezident a Česká konference rektorů vyberou po 2 kandidátech, ty pak hodnotí hodnoticí komise Poslanecké sněmovny. Pak volí Poslanecká sněmovna."></figure>
+<img src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/uz_zacatkem_prazdnin_zacne_detsky_ombudsman_pracovat_po_boku_sveho_starsiho_sourozence_zatim_v_zastoupeni/slide_-_do_tv-tz_-_volba_do_2.png" alt="Grafika popisuje, jak se volí dětský ombudsman. Senát, prezident a Česká konference rektorů vyberou po 2 kandidátech, ty pak hodnotí hodnoticí komise Poslanecké sněmovny. Pak volí Poslanecká sněmovna."></figure>
 <p>&nbsp;</p></blockquote>
 <p>Česko se tak dočká svého dětského ombudsmana jako jedna z&nbsp;posledních zemí v&nbsp;Evropě. V českém veřejném prostoru se však o něm hovoří už řadu let.&nbsp;</p>
 <p>V&nbsp;minulosti se vyskytly se i úvahy o tom, že by dětský ombudsman mohl fungovat v&nbsp;samostatném úřadu. Nakonec ale zvítězila úspornější varianta. Zázemí mu poskytne Kancelář&nbsp;ombudsmana v&nbsp;Brně. Spolu s&nbsp;ní navíc získá i špičkové odborné know how, zkušenosti a fungující vazby třeba na sociální služby, školství, zdravotnictví i soudy.</p>

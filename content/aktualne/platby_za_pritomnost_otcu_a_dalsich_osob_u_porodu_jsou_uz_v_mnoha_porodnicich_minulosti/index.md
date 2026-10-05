@@ -26,7 +26,7 @@ attachments:
   - title: Mapa s přehledem porodnic
     link: https://www.google.com/maps/d/u/0/edit?mid=1xLl8WxWOJgA5fhz5oqfm4683KjvoVzpr&usp=sharing
 ---
-<p><img alt="mapa_printscreen.png" src="https://www.ochrance.cz/aktualne/platby_za_pritomnost_otcu_a_dalsich_osob_u_porodu_jsou_uz_v_mnoha_porodnicich_minulosti/mapa_printscreen.png" /></p>
+<p><img alt="mapa_printscreen.png" src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/platby_za_pritomnost_otcu_a_dalsich_osob_u_porodu_jsou_uz_v_mnoha_porodnicich_minulosti/mapa_printscreen.png" /></p>
 
 <h4>&rarr;&nbsp;<a href="https://www.google.com/maps/d/u/0/edit?mid=1xLl8WxWOJgA5fhz5oqfm4683KjvoVzpr&amp;usp=sharing">Odkaz na interaktivní mapu porodnic</a></h4>
 

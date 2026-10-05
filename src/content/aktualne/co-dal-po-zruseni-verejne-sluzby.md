@@ -1,0 +1,27 @@
+---
+title: Co dál po zrušení veřejné služby?
+date: 2012-12-06T00:00:00.000Z
+perex: Ačkoli se podle rozhodnutí Ústavního soudu veřejná služba ruší dnem
+  vyhlášení nálezu ve Sbírce zákonů (což lze očekávat v nejbližších dnech),
+  od 27. listopadu, kdy Ústavní soud svůj nález veřejně vyhlásil, nesmí být
+  žádní další uchazeči o zaměstnání k výkonu veřejné služby zařazeni.
+kategorie:
+  - tz
+---
+27\. listopadu 2012 rozhodl Ústavní soud ([nález Pl. ÚS 1/12](http://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-1-12_1 "Otevření do nového okna") ) o zrušení části zákona o zaměstnanosti, týkající se povinnosti osob vedených v evidenci uchazečů o zaměstnání po dobu delší než dva měsíce vykonávat bez nároku na odměnu tzv. veřejnou službu. Podle Ústavního soudu takto koncipovaná veřejná služba porušuje princip rovnosti, zákaz libovůle, zákaz nucené práce, ohrožuje právo na zachování lidské důstojnosti a porušuje právo na spravedlivou odměnu za práci.
+
+Ústavní soud svým rozhodnutím vyslyšel názor a stanovisko veřejného ochránce práv, který se k problematice veřejné služby [vyjádřil jako tzv. amicus curiae](/zvlastni-opravneni/ustavni-soud/2012-verejna-sluzba/). Ochránce Ústavnímu soudu v rámci svých stanovisek předložil informace o řadě konkrétních případů, na nichž soudu objasnil svůj názor o neústavnosti veřejné služby.
+
+Ačkoli se podle rozhodnutí Ústavního soudu veřejná služba ruší dnem vyhlášení nálezu ve Sbírce zákonů (což lze očekávat v nejbližších dnech), od 27. listopadu, kdy Ústavní soud svůj nález veřejně vyhlásil, nesmí být žádní další uchazeči o zaměstnání k výkonu veřejné služby zařazeni. Pro ty, co již veřejnou službu vykonávají, platí, že pokud ji nadále vykonávat odmítnou, úřad práce už s nimi nesmí zahájit správní řízení o sankčním vyřazení z evidence uchazečů o zaměstnání.
+
+Veřejná služba je nadále pojímána výlučně jako dobrovolná aktivita a ti, kdo už ji vykonávají, ji mohou bez následků opustit.
+
+Dle názoru veřejného ochránce práv by jako doplňková a dobrovolná aktivita měla být veřejná služba nadále nabízena osobám, které jsou skutečně ohroženy možnou ztrátou pracovních návyků, např. osobám dlouhodobě nezaměstnaným, které nevykonávají práci ani na základě některé z dohod o pracích konaných mimo pracovní poměr, či si sami práci aktivně nehledají, popř. osobám dlouhodobě se nacházejícím v hmotné nouzi. Veřejná služba by podle názoru ochránce neměla v žádném případě suplovat primární roli úřadu práce, kterou je bezpochyby zprostředkování vhodného zaměstnání uchazeči či poradenská činnost.  
+
+V řadě případů však již došlo k pravomocnému sankčnímu vyřazení uchazečů z evidence uchazečů o zaměstnání na úřadu práce z důvodu odmítnutí veřejné služby bez vážných důvodů. Ochránce má za to, že poté, co bude nález Ústavního soudu vyhlášen ve Sbírce zákonů, měli by být vyřazení uchazeči na základě své žádosti neprodleně znovu do evidence zařazeni. Není tedy třeba vyčkávat uplynutí zákonné lhůty 6 měsíců ode dne vyřazení, která je jinak s vyřazením z těchto důvodů spojena.
+
+Ačkoli zrušení části právního předpisu nemůže v ČR působit zpětně, Je nepochybné, že úřady práce při výkonu státní moci nemohou vyhlášený nález Ústavního soudu ignorovat (Blíže viz např. Rozsudek Nejvyššího soudu ze dne 16.4.2008, sp.zn. 21 Cdo 1704/2007).
+
+Možnost opětovného zařazení do evidence před uplynutím lhůty šesti měsíců ochránce opírá o ustanovení § 71 odst. 2 zákona č. 182/1993 Sb., o Ústavním soudu, ve znění pozdějších předpisů. To umožňuje odstranit pouze některé negativní dopady zrušeného právního předpisu, k nimž došlo před tím, než Ústavní soud shledal jeho neústavnost. Přestože pravomocná rozhodnutí o vyřazení vydaná na základě právního předpisu, který byl Ústavním soudem zrušen, zůstávají nedotčena, práva a povinnosti podle takových rozhodnutí již nelze vykonávat. Dřívějším zařazením do evidence úřadu práce tak v těchto případech dojde ke zhojení následků rozhodnutí o vyřazení vydaných na základě předpisu, později zrušeného pro neústavnost.
+
+Ochránce doporučuje uchazečům, kteří byli z evidence vyřazeni z důvodu nevykonání veřejné služby, aby si podali žádost o zařazení do evidence (písemně na příslušné pobočce Úřadu práce ČR). Pokud bude žádost konkrétního uchazeče úřadem práce zamítnuta z důvodu nesplnění zákonné lhůty 6 měsíců ode dne vyřazení, je ochránce připraven se těmito případy zabývat. K podání stížnosti ochránci je třeba doložit fotokopie veškerých písemností vztahujících se k věci (tzn. rozhodnutí o vyřazení z evidence, rozhodnutí o nezařazení do evidence a další)(Bližší informace viz [http://www.ochrance.cz/stiznosti-na-urady/jak-podat-stiznost/](/stiznosti-na-urady/jak-podat-stiznost/))

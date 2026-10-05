@@ -19,7 +19,7 @@ attachments:
       školských zařízeních – výzkumná zpráva: sp. zn. 63/2022/DIS"
     file: https://eso.ochrance.cz/Nalezene/Edit/12336
   - title: Shrnutí a doporučení z výzkumu
-    file: https://www.ochrance.cz/aktualne/epilepsie_cukrovka_nebo_alergie-_ucitele_se_leckdy_boji_pomahat_zakum_se_zdravotnimi_problemy-_jasnejsi_pravidla_pro_zdravotni_podporu_ted_vznikaji_i_diky_vyzkumu_ombudsmana/63-2022-dis_shrnuti_a_doporuceni.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/epilepsie_cukrovka_nebo_alergie-_ucitele_se_leckdy_boji_pomahat_zakum_se_zdravotnimi_problemy-_jasnejsi_pravidla_pro_zdravotni_podporu_ted_vznikaji_i_diky_vyzkumu_ombudsmana/63-2022-dis_shrnuti_a_doporuceni.pdf
 ---
 <p>Přístup k&nbsp;žákům, kteří s ohledem na své zdraví potřebují dohled či podporu, se v&nbsp;současnosti i kvůli nejasným předpisům ve školách různí. To potvrzuje nejen výzkum ombudsmana, ale i zkušenosti rodičů nebo pacientských sdružení. Někde vyučující vcelku běžně sledují, zda žákům není špatně, dohlížejí, aby si vzali lék, nebo hlídají dietní opatření. Jinde naopak takovou odpovědnost odmítají z&nbsp;obavy z&nbsp;možného postihu. Připravovaný společný dokument ministerstev školství a zdravotnictví by měl mimo jiné pomoci rozlišit, jakou zdravotní pomoc může zvládnout i poučený laik, tedy nejen rodič, ale třeba i učitel.</p>
 

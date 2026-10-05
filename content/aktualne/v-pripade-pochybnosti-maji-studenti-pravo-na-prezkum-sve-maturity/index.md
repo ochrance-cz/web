@@ -43,4 +43,4 @@ perex: <p>V tomto období zažívají někteří studenti středních škol hork
 
 <p>Pokud student s&nbsp;přezkumem u&nbsp;krajského úřadu nebo ministerstva neuspěje, může se obrátit s&nbsp;žalobou k&nbsp;soudu. Žalobu musí podat ve&nbsp;lhůtě dvou měsíců od&nbsp;doručení výsledku přezkumu. Žaloba se podává ke&nbsp;krajskému soudu podle sídla úřadu, který o&nbsp;přezkumu rozhodoval (v&nbsp;případě ministerstva jde o&nbsp;Městský soud v&nbsp;Praze).</p>
 
-<p>Bližší informace k&nbsp;soudní ochraně naleznete na&nbsp;&nbsp;<a href="/stiznosti-na-urady/chcete-si-stezovat/zivotni-situace-problemy-a-jejich-reseni/soudni-ochrana-proti-rozhodnuti-spravnich-organu/">https://www.ochrance.cz/letaky/soudni-ochrana-proti_spravnim-organum/soudni-ochrana-proti_spravnim-organum.pdf</a></p>
+<p>Bližší informace k&nbsp;soudní ochraně naleznete na&nbsp;&nbsp;<a href="/stiznosti-na-urady/chcete-si-stezovat/zivotni-situace-problemy-a-jejich-reseni/soudni-ochrana-proti-rozhodnuti-spravnich-organu/">https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/soudni-ochrana-proti_spravnim-organum/soudni-ochrana-proti_spravnim-organum.pdf</a></p>

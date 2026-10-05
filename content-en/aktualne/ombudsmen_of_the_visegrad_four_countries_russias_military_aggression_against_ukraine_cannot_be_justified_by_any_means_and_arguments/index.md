@@ -12,7 +12,7 @@ perex: >
   society.</p>
 attachments:
   - title: V4 Ombudsmen - Joint Statement
-    file: https://www.ochrance.cz/en/aktualne/ombudsmen_of_the_visegrad_four_countries_russias_military_aggression_against_ukraine_cannot_be_justified_by_any_means_and_arguments/v4_ombudsmen_-_joint_statement.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/en/aktualne/ombudsmen_of_the_visegrad_four_countries_russias_military_aggression_against_ukraine_cannot_be_justified_by_any_means_and_arguments/v4_ombudsmen_-_joint_statement.pdf
 ---
 <p>In their joint statement, the ombudsmen point out that the countries of the Visegrad Four are and most probably will be among the countries that will receive huge numbers of refugees from Ukraine. <em>&bdquo;</em><em>As Ombudspersons of these states, we believe that it is both our legal and moral duty to provide effective and timely support and assistance to Ukrainian citizens and all people fleeing war-torn Ukraine on our territories, with special attention to the most vulnerable groups of people like children, older person, persons with disabilities, pregnant women, etc.&quot;</em> the statement says.</p>
 

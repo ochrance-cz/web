@@ -1,0 +1,23 @@
+---
+title: Vláda odmítla návrhy ombudsmanky, které měly lidem ulehčit život
+date: 2019-01-11T00:00:00.000Z
+perex: Vláda dnes projednala dva návrhy ombudsmanky. První se týkal možnosti
+  dálkového nahlížení do spisů, který měl lidem ulehčit komunikaci s úřady.
+  Ombudsmanka chtěla, aby úřady účastníkům řízení umožnily dálkové nahlížení
+  do spisů formou zaslání kopií. Lidé by tak nemuseli jezdit všude osobně, což
+  je pro některé lidi nepřekonatelná překážka. V druhém případě ombudsmanka
+  žádala, aby úřady upozorňovaly účastníky řízení na možnost soudního přezkumu.
+  Lidé totiž mnohdy neví, že v případě nesouhlasu s úředním rozhodnutím mají
+  právo obrátit se na soud.
+kategorie:
+  - tz
+---
+*„Rozhodnutí vlády mě zklamalo, protože se v obou případech jednalo o jednoduché změny zákonů, které by měly pozitivní dopad na životy lidí. Pořád se mluví o elektronizaci a vstřícnosti veřejné správy, ale situace je dnes taková, že pokud lidé chtějí nahlédnout do svého spisu u konkrétního úřadu, musí mnohdy jezdit osobně stejně jako v devatenáctém století. Některé úřady přitom kopie dokumentů elektronicky zasílají a není důvod, proč by to nemohly a neměly dělat všechny,“* říká ombudsmanka Anna Šabatová a dodává: *„Ve druhém mém požadavku pak platí, že má každý právo na to, aby jeho záležitost byla projednána nezávislým a nestranným soudem. Proto jsem chtěla, aby úřady o této možnosti účastníky řízení povinně informovaly. Aby lidé věděli, že se mohou proti rozhodnutí úřadu, se kterým nesouhlasí, dále bránit a domáhat se tak spravedlnosti.“*
+
+Vláda v případě dálkového nahlížení do spisů uložila ministru vnitra, aby metodicky sjednotil stávající praxi, kdy některé úřady dálkové nahlížení umožňují a jiné neumožňují. Z toho však nevyplývá, jakým způsobem praxi sjednotí. Lze jen doufat, že vyjde vstříc občanům.
+
+Návrhy ombudsmanky:
+
+[Umožnění dálkového nahlížení do spisů](/aktualne/tiskove-zpravy-2018/ombudsmanka-zada-o-snizeni-byrokracie-a-zatezovani-lidi-pri-nahlizeni-do-spisu/) (doporučení ke změně zákona)
+
+[Povinnost správních orgánů poučovat o možnosti soudního přezkumu rozhodnutí](/aktualne/tiskove-zpravy-2018/ombudsmanka-zada-vladu-aby-urady-informovaly-obcany-o-moznosti-nezavisleho-soudniho-pre/) (doporučení ke změně zákona)

@@ -1,0 +1,221 @@
+diff --git a/node_modules/@nuasite/cms/.bun-tag-3a2e722424541aae b/.bun-tag-3a2e722424541aae
+new file mode 100644
+index 0000000000000000000000000000000000000000..e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+diff --git a/src/dev-middleware.ts b/src/dev-middleware.ts
+index c77772362bea9aede3cca673228550e61711b147..99b39b6a2c4a26a5eda025a4d7caa1bae60b20c0 100644
+--- a/src/dev-middleware.ts
++++ b/src/dev-middleware.ts
+@@ -797,9 +797,14 @@ export function buildCollectionManifestPages(
+ 
+ 		// Only patch entries whose resolved pathname/preview target differs from what they
+ 		// already have, so unchanged definitions keep their identity.
+-		const previewPathname = def.fragment ? def.previewOf : undefined
+ 		const patchedEntries = def.entries?.map(e => {
+ 			const pathname = resolvePathname(e)
++			const parent = e.data?.parent
++			const previewPathname = def.fragment
++				? (def.name === 'zpravodaj-articles' && typeof parent === 'string' && parent
++					? `/zpravodaj/${encodeURIComponent(parent)}/`
++					: def.previewOf)
++				: undefined
+ 			if (pathname === e.pathname && previewPathname === e.previewPathname) return e
+ 			const { pathname: _oldPathname, previewPathname: _oldPreview, ...rest } = e
+ 			const patched: CollectionEntryInfo = { ...rest }
+diff --git a/src/editor/components/toolbar.tsx b/src/editor/components/toolbar.tsx
+index e6c0c1941ef0d5df3935a21ea5d069e7f9c5c34d..a43dcdb0ee37ec9eb1b258055d0c68dda07297ea 100644
+--- a/src/editor/components/toolbar.tsx
++++ b/src/editor/components/toolbar.tsx
+@@ -96,8 +96,7 @@ export const Toolbar = ({ callbacks, collectionDefinitions }: ToolbarProps) => {
+ 	}
+ 
+ 	// When collection management is disabled (e.g. it lives in the host app's
+-	// Collections tab), hide the in-preview collection browser entry points.
+-	// Inline editing of the current page's content ("Edit Content") is kept.
++	// Collections tab), hide every legacy in-preview collection editor entry point.
+ 	const collectionManagementEnabled = signals.config.value.features?.collectionManagement !== false
+ 
+ 	if (collectionDefinitions) {
+@@ -125,7 +124,7 @@ export const Toolbar = ({ callbacks, collectionDefinitions }: ToolbarProps) => {
+ 				}))
+ 				: []
+ 
+-			if (currentPageCollection && callbacks.onEditContent) {
++			if (collectionManagementEnabled && currentPageCollection && callbacks.onEditContent) {
+ 				contentItems.unshift({
+ 					label: 'Edit Content',
+ 					icon: (
+@@ -151,42 +150,8 @@ export const Toolbar = ({ callbacks, collectionDefinitions }: ToolbarProps) => {
+ 		}
+ 	}
+ 
+-	topLevelItems.push(
+-		{
+-			label: 'Edit Page',
+-			icon: (
+-				<svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+-					<path d="M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497z" />
+-				</svg>
+-			),
+-			onClick: () => callbacks.onEdit(),
+-			isActive: isEditing,
+-		},
+-		{
+-			label: 'New Page',
+-			icon: (
+-				<svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+-					<path d="M12 5v14m-7-7h14" />
+-				</svg>
+-			),
+-			onClick: () => signals.setCreatePageOpen(true),
+-		},
+-	)
+-
+-	const destructiveItems: MenuItem[] = [
+-		{
+-			label: 'Delete Page',
+-			icon: (
+-				<svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+-					<path d="M3 6h18M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2" />
+-				</svg>
+-			),
+-			onClick: () => {
+-				const pathname = window.location.pathname
+-				signals.openDeletePageDialog({ pathname })
+-			},
+-		},
+-	]
++	// This project edits pages in the Collections panel; omit the legacy page editor.
++	const destructiveItems: MenuItem[] = []
+ 
+ 	const settingsItems: MenuItem[] = []
+ 
+diff --git a/src/editor/index.tsx b/src/editor/index.tsx
+index 9acc5f6ef8a50b1f3670ce30243be416049c13a2..f7bb4ff10a88892761636aab70a1f7cd26d7dda2 100644
+--- a/src/editor/index.tsx
++++ b/src/editor/index.tsx
+@@ -28,7 +28,7 @@ import { Toolbar } from './components/toolbar'
+ import { getConfig } from './config'
+ import { Z_INDEX } from './constants'
+ import { disableAllInteractiveElements, enableAllInteractiveElements, logDebug } from './dom'
+-import { discardAllChanges, handleColorChange, saveAllChanges, startEditMode, stopEditMode, toggleShowOriginal } from './editor'
++import { discardAllChanges, handleColorChange, saveAllChanges, toggleShowOriginal } from './editor'
+ import { canRedo, canUndo, performRedo, performUndo } from './history'
+ import {
+ 	useBgImageHoverDetection,
+@@ -57,7 +57,7 @@ import {
+ 	updateSettings,
+ } from './signals'
+ import * as signals from './signals'
+-import { hasAnyMarkdownDraft, hasPendingEntryNavigation, loadEditingState, loadSettingsFromStorage, saveSettingsToStorage } from './storage'
++import { hasAnyMarkdownDraft, hasPendingEntryNavigation, loadSettingsFromStorage, saveSettingsToStorage } from './storage'
+ import { STRINGS } from './strings'
+ import CMS_STYLES from './styles.css?inline'
+ import { generateCSSVariables, resolveTheme } from './themes'
+@@ -118,13 +118,6 @@ const CmsUI = () => {
+ 		return () => document.removeEventListener('astro:after-swap', onNavigation)
+ 	}, [])
+ 
+-	// Auto-restore edit mode if it was active before a page refresh (e.g. after save triggers HMR)
+-	useEffect(() => {
+-		if (loadEditingState() && !signals.isEditing.value) {
+-			startEditMode(config, updateUI)
+-		}
+-	}, [config, updateUI])
+-
+ 	// Waits for the manifest before opening — currentPageCollection depends on it.
+ 	const draftAutoOpenedRef = useRef(false)
+ 	const manifestState = signals.manifest.value
+@@ -288,17 +281,8 @@ const CmsUI = () => {
+ 	}, [handleBlockEditorClose])
+ 
+ 	// Editor control handlers
+-	const handleEditToggle = useCallback(async () => {
+-		if (signals.isEditing.value) {
+-			hideTooltip()
+-			stopEditMode(updateUI)
+-		} else if (signals.currentPageCollection.value) {
+-			await openMarkdownEditorForCurrentPage()
+-		} else {
+-			signals.isSelectMode.value = false
+-			await startEditMode(config, updateUI)
+-		}
+-	}, [config, updateUI, hideTooltip])
++	// The legacy page editor is disabled for this project.
++	const handleEditToggle = useCallback(() => {}, [])
+ 
+ 	const handleCompare = useCallback(() => {
+ 		toggleShowOriginal(config, updateUI)
+diff --git a/src/editor/signals.ts b/src/editor/signals.ts
+index f6715434d03cb6c21234e97a28d0c6138002f1e2..ce27f7d9f882d0b7ace8fbeb75013e3ea4df22b6 100644
+--- a/src/editor/signals.ts
++++ b/src/editor/signals.ts
+@@ -1468,7 +1468,7 @@ export function setFeatures(features: CmsConfig['features']): void {
+ 	const current = config.value.features
+ 	const next = { ...current, ...features }
+ 	// Bail out when nothing actually changes, to avoid re-triggering effects.
+-	if (current?.selectElement === next.selectElement && current?.collectionManagement === next.collectionManagement) return
++	if (current?.selectElement === next.selectElement && current?.collectionManagement === next.collectionManagement && current?.pageEditing === next.pageEditing) return
+ 	config.value = { ...config.value, features: next }
+ }
+ 
+diff --git a/src/field-types.ts b/src/field-types.ts
+index 92507b0b8c79dd9febe94f685c8c2fcff9717e56..84a59a22b17853d30121601e53301ffb7caab73c 100644
+--- a/src/field-types.ts
++++ b/src/field-types.ts
+@@ -154,7 +154,7 @@ export const n = {
+ 	/** Object schema */
+ 	object: <T extends z.ZodRawShape>(shape: T) => z.object(shape),
+ 	/** Array schema */
+-	array: <T extends z.ZodTypeAny>(schema: T) => z.array(schema),
++	array: <T extends z.ZodTypeAny>(schema: T, _hints?: LayoutHints) => z.array(schema),
+ 	/**
+ 	 * Enum schema — a closed option list, rendered as a select.
+ 	 *
+@@ -173,7 +173,7 @@ export const n = {
+ 
+ 	// --- CMS semantic types ---
+ 	/** Boolean / checkbox */
+-	boolean: () => withOrderBy(z.boolean().describe('cms:checkbox')),
++	boolean: (_hints?: LayoutHints) => withOrderBy(z.boolean().describe('cms:checkbox')),
+ 	/** Number input with optional min/max/step */
+ 	number: (hints?: NumberHints) => {
+ 		let schema = z.number()
+diff --git a/src/local-admin.ts b/src/local-admin.ts
+index a713f9fff833d166c5c2ff07f4b415c84a7c7551..66060af3f3ff60acade64471fea7c0e35fdb194c 100644
+--- a/src/local-admin.ts
++++ b/src/local-admin.ts
+@@ -107,7 +107,10 @@ export interface AdminPeerLoader {
+ export const defaultAdminPeerLoader: AdminPeerLoader = {
+ 	async loadCreateSidecar() {
+ 		const moduleId = '@nuasite/cms-sidecar'
+-		const loaded = await import(moduleId).then(
++		// Load optional peers outside Vite's SSR module runner. A dev-server
++		// restart can close that runner and otherwise leave /_nua/admin at 501.
++		const nativeImport = new Function('id', 'return import(id)') as (id: string) => Promise<any>
++		const loaded = await nativeImport(moduleId).then(
+ 			(mod: { createServer: typeof CreateSidecarServer }) => mod,
+ 			() => null,
+ 		)
+@@ -115,7 +118,8 @@ export const defaultAdminPeerLoader: AdminPeerLoader = {
+ 	},
+ 	async isCollectionsAdminInstalled() {
+ 		const moduleId = '@nuasite/collections-admin'
+-		return import(moduleId).then(
++		const nativeImport = new Function('id', 'return import(id)') as (id: string) => Promise<unknown>
++		return nativeImport(moduleId).then(
+ 			() => true,
+ 			() => false,
+ 		)
+diff --git a/src/types.ts b/src/types.ts
+index 24ebe20867ac193184c9d6e21538e564027ee8db..46c1cd3e7c4749290ce3583cc361e01a4dc92411 100644
+--- a/src/types.ts
++++ b/src/types.ts
+@@ -346,6 +346,8 @@ export type CmsPostMessage =
+ 
+ export interface CmsFeatures {
+ 	selectElement?: boolean
++	/** Hide legacy page-source editing actions while keeping collection content editing. */
++	pageEditing?: boolean
+ 	/**
+ 	 * Controls the in-preview collection browser/management UI (browse collections,
+ 	 * list/open entries). Defaults to enabled. When `false`, the widget hides this

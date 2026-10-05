@@ -1,0 +1,20 @@
+---
+title: Defender’s main findings in the 1st quarter of 2016
+date: 2016-05-13T00:00:00.000Z
+perex: ""
+categories:
+  - news
+---
+In the past quarter, the Defender examined the legality of the **generally binding ordinance of the city of Karlovy Vary concerning gambling**.  The City Hall did not by itself specify the places where gambling was to be allowed; it left the choice to the Union of Gambling Industry (in Czech: Unie herního průmyslu). However, the power to regulate gambling belongs to the municipalities, not to the Union of Gambling Industry or any other private entity. The Defender criticised the Ministry of the Interior for its failure to assess the city’s selection of criteria. The Ministry accepted my arguments and forwarded the case for inquiry by the Office for the Protection of Competition.
+
+The Defender issued a recommendation concerning **enrolment in primary schools**, especially with respect to the determination of criteria compliant with the Schools Act and the Anti-Discrimination Act in terms of children falling under / not falling under a certain school’s catchment area. The recommendation was issued in reaction to the growing number of complaints and queries received by the Defender in 2015 from parents, non-profit organisations and local governments. These recommendations are primarily meant to help parents and headteachers. The Defender has also sent my recommendation to the Ministry of Education, Youth and Sports. She invited the Ministry to adopt an implementing legal regulation **unifying the conditions for enrolment of children in primary schools**.
+
+**The Defender sent to the Ministry also her second recommendation concerning amendment to the Decree on Pre-School Education**. According to the current wording of the Decree, free pre-school education shall only be provided to children at the age of six. However, the wording of the law stipulates that it should be free regardless of the current age of the child,  making the current Decree at variance with the law.
+
+This quarterly report also includes an **extraordinary annex focusing on the Defender’s activities as the national preventive mechanism**. The 10 years of Defender’s activities in this area revealed obstacles which cannot be removed or remedied by the Defender alone. These problems concern the system as a whole and bring lots of difficulties and limitations to the citizens in their everyday lives. In the annex, we focus on three areas.
+
+The first concerns the **deteriorating situation in the area of institutional care for the elderly**. The number of elderly people is growing, while the number of medical workers in facilities providing care to the elderly is decreasing. The individual facilities are also usually strictly classified as facilities providing “social care” or “health care”. Such classification, however, does not take into account the real needs of the elderly, who often require care in both of the aforementioned areas, albeit to varying degrees and in varying ratios. 
+
+The second area facing long-term problems concerns **institutional care of vulnerable children**. The Czech Republic has difficulties in this area mainly in terms of the fragmentation of care, where the responsibility and funding is split among several ministries. The very fact **children are still being placed in these facilities** is problematic, putting the Czech Republic clearly behind the other European countries.
+
+The final area concerns chiefly the proposal to address this problem. Each year, the Defender receives **dozens of complaints from prisoners and their families who are asking for relocation** to a prison closer to the family’s residence. Maintaining contact with the family is one of the key factors enabling re-integration of the convict into society following the end of his or her imprisonment and preventing future recidivism – in which, unfortunately, the Czech Republic has long been a “leader” among European countries.

@@ -16,7 +16,7 @@ perex: <p>V dlouhodobě neřešené situaci u nás žijí lidé se zdravotním
 attachments:
   - title: "Jak požádat o příspěvek na péči (leták ombudsmana a dětského ombudsmana:
       Řízení o dávkách pro osoby se zdravotním postižením)"
-    link: https://www.ochrance.cz/letaky/rizeni-o-davkach-pro-osoby-s-postizenim/rizeni-o-davkach-pro-osoby-s-postizenim.pdf
+    link: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/rizeni-o-davkach-pro-osoby-s-postizenim/rizeni-o-davkach-pro-osoby-s-postizenim.pdf
 ---
 <p>Celý život přispívali do slovenského důchodového systému. Nyní ale žijí v&nbsp;Česku – třeba kvůli rodinným vazbám. Pokud jsou to zároveň lidé ve vysokém věku nebo mají&nbsp; závažné zdravotní postižení a potřebují každodenní péči, ocitají se v&nbsp;náročné sociální situaci. Klíčovou pomoc v&nbsp;podobě finančního příspěvku však prozatím nemohou získat.&nbsp;</p>
 <p>
@@ -33,6 +33,6 @@ attachments:
 <strong>O příspěvku na péči</strong></p>
 <p>Příspěvek na péči může dostat člověk, který kvůli dlouhodobě nepříznivému zdravotnímu stavu sám nezvládá běžné denní aktivity (například komunikaci, stravování, oblékání, hygienu,…), a proto potřebuje každodenní pomoc někoho jiného. Z příspěvku si tuto pomoc může zaplatit.</p>
 <p>Podrobněji viz&nbsp; 
-<a href="https://www.ochrance.cz/letaky/prispevek-na-peci/prispevek-na-peci.pdf">leták ombudsmana a dětského ombudsmana</a>&nbsp;</p></blockquote>
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/prispevek-na-peci/prispevek-na-peci.pdf">leták ombudsmana a dětského ombudsmana</a>&nbsp;</p></blockquote>
 <figure class="image">
-<img src="https://www.ochrance.cz/aktualne/krok_kupredu_ne_konec_problemu_i_se_slovenskym_duchodem_mohou_vazne_nemocni_dosahnout_na_prispevek_na_peci-_ombudsmani_ale_dal_hledaji_systemove_reseni/dsc_6323-2_web.jpg" alt="Slovenský ombudsman  Róbert Dobrovodský a český ombudsman Stanislav Křeček u Sochy spravedlnosti v Kanceláři ombudsmana a dětského ombudsmana"></figure>
+<img src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/krok_kupredu_ne_konec_problemu_i_se_slovenskym_duchodem_mohou_vazne_nemocni_dosahnout_na_prispevek_na_peci-_ombudsmani_ale_dal_hledaji_systemove_reseni/dsc_6323-2_web.jpg" alt="Slovenský ombudsman  Róbert Dobrovodský a český ombudsman Stanislav Křeček u Sochy spravedlnosti v Kanceláři ombudsmana a dětského ombudsmana"></figure>

@@ -27,4 +27,4 @@ attachments:
 
 <p>Už od května se zlepšila také situace odsouzených, kteří pracovat nemohou a žádné další příjmy nemají. Ze stokoruny na sto padesát korun měsíčně totiž stouplo po dvaceti letech takzvané sociální kapesné pro odsouzené. To dostávají typicky starší nebo nemocní odsouzení bez nároku na starobní nebo invalidní důchod.</p>
 
-<p><img alt="Graf Rozdělení příjmů odsouzených od ledna 2025" src="https://www.ochrance.cz/aktualne/vsechny_prijmy_odsouzenych_se_budou_od_pristiho_roku_rozdelovat_podle_stejnych_pravidel/graf_-_penize_odsouzenych.png" /></p>
+<p><img alt="Graf Rozdělení příjmů odsouzených od ledna 2025" src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/vsechny_prijmy_odsouzenych_se_budou_od_pristiho_roku_rozdelovat_podle_stejnych_pravidel/graf_-_penize_odsouzenych.png" /></p>

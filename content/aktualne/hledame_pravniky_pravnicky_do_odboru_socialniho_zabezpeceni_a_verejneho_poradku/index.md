@@ -21,7 +21,7 @@ perex: <p>Chcete dělat právo, které má dopad na skutečné životy lidí? Hl
 <li>Vedení odborných seminářů pro pracovníky veřejné správy i laickou veřejnost. </li>
 <li>Reprezentace Kanceláře veřejného ochránce práv a ochránce práv dětí na národní i mezinárodní úrovni.</li></ul>
 <p>Bližší popis pracovní pozice i s&nbsp;ohledem na to, co může zajímat lidi se zdravotním omezením, najdete v&nbsp;
-<a href="/media/check_list_pravnik_ci_pravnicka_socialni_zabezpeceni_a_verejny_poradek_.pdf">tomto dokumentu</a>.</p>
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/media/check_list_pravnik_ci_pravnicka_socialni_zabezpeceni_a_verejny_poradek_.pdf">tomto dokumentu</a>.</p>
 <p>
 <strong>Co od Vás požadujeme:</strong></p>
 <ul>
@@ -48,7 +48,7 @@ perex: <p>Chcete dělat právo, které má dopad na skutečné životy lidí? Hl
 <li>příspěvek na stravování ve výši 96 Kč na den,</li>
 <li>práci v&nbsp;centru Brna s&nbsp;možností parkování.</li></ul>
 <p>Záleží nám na&nbsp;rozmanitosti. Jste vítáni bez ohledu na&nbsp;věk, pohlaví, zdravotní stav, rasu, etnický původ, národnost, sexuální orientaci, náboženské vyznání či&nbsp;světový názor. Jsme náročný, ale férový zaměstnavatel. Pokud vás zajímá blíže, jak to u nás chodí, koukněte do naší&nbsp;
-<a href="https://www.ochrance.cz/media/personalni_strategie.pdf">personální strategie</a>.</p>
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/media/personalni_strategie.pdf">personální strategie</a>.</p>
 <p>Jestli se k&nbsp;nám chcete připojit, napište nám do&nbsp;
 <strong>11.6 2026</strong> na&nbsp;adresu&nbsp;
 <strong>michalcova@ochrance.cz</strong>. Napište nám, proč s&nbsp;námi chcete spolupracovat, o kterou z&nbsp;pozic byste měli zájem a připojte Váš strukturovaný životopis. Napište také, pokud máte nějaké specifické potřeby nebo doplňující otázky (například v&nbsp;souvislosti se zdravotním omezením).</p>

@@ -10,7 +10,7 @@ attachments:
   - file: setkani_lidi_s_psychosocialnim_postizenim.jpg
     title: Fotka ze setkání
 ---
-<p><img alt="setkani_lidi_s_psychosocialnim_postizenim.jpg" src="https://www.ochrance.cz/aktualne/setkani_lidi_s_psychosocialnim_postizenim/setkani_lidi_s_psychosocialnim_postizenim.jpg" style="float:right" /></p>
+<p><img alt="setkani_lidi_s_psychosocialnim_postizenim.jpg" src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/setkani_lidi_s_psychosocialnim_postizenim/setkani_lidi_s_psychosocialnim_postizenim.jpg" style="float:right" /></p>
 
 <p>Na&nbsp;setkání Mgr.&nbsp;Zuzana Durajová představila nedávný výzkum v&nbsp;oblasti rozhodování soudů o&nbsp;omezování svéprávnosti a&nbsp;užívání podpůrných opatření v&nbsp;rozhodování &bdquo;Křižovatky autonomie&ldquo;. Mgr.&nbsp;Matěj Stříteský hovořil o&nbsp;průběhu návštěv psychiatrických nemocnic v&nbsp;květnu a&nbsp;červnu 2020 a&nbsp;o&nbsp;tom, jak epidemie koronaviru COVID-19 dopadla na&nbsp;práva pacientů. Dále se řešila připravovaná novela zákona o&nbsp;zdravotních službách, např.&nbsp;chystané zrušení užívání síťových lůžek či&nbsp;nová úprava dříve vyslovené vůle. Pan Josef Závišek (SPDN ČR) a&nbsp;Blanka Veškrnová (Práh jižní Morava) informovali o&nbsp;vývoji z&nbsp;Rady vlády pro duševní zdraví, zejména o&nbsp;plánovaném novém kontrolním mechanismu, který v&nbsp;současnosti vzniká. Setkání se krátce zúčastnila i&nbsp;zástupkyně veřejného ochránce práv, Mgr.&nbsp;Monika Šimůnková, která s&nbsp;účastníky diskutovala o&nbsp;různých tématech.</p>
 

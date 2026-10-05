@@ -23,7 +23,7 @@ attachments:
   - title: Zpráva o šetření – poskytování peněžité pomoci obětem trestných činů
     file: https://eso.ochrance.cz/Nalezene/Edit/12256
   - title: Výběr ze zprávy o šetření – shrnutí a doporučení
-    file: https://www.ochrance.cz/aktualne/zastupce_ombudsmana_chce_zlepsit_postaveni_obeti_trestnych_cinu_zadajicich_o_penezitou_pomoc_od_statu-_s_ministerstvem_spravedlnosti_bude_jednat_o_svych_doporucenich/priloha_-_shrnuti_a_doporuceni.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/zastupce_ombudsmana_chce_zlepsit_postaveni_obeti_trestnych_cinu_zadajicich_o_penezitou_pomoc_od_statu-_s_ministerstvem_spravedlnosti_bude_jednat_o_svych_doporucenich/priloha_-_shrnuti_a_doporuceni.pdf
   - title: Práva obětí stručně
     file: https://www.infovictims.cz/cz/prava-obeti-trestnch-cin
   - title: Formuláře žádostí o peněžitou pomoc (dole v seznamu)
@@ -35,7 +35,7 @@ attachments:
 
 <p>Pro výpočet peněžité pomoci se bude používat průměrná mzda dva roky před podáním žádosti o peněžitou pomoc. Ilustrační částky pro žádosti podané v&nbsp;letošním roce vypočítali předkladatelé v&nbsp;důvodové zprávě: &nbsp;</p>
 
-<p><img alt="penezita_pomoc_-_srovnani.png" src="https://www.ochrance.cz/aktualne/penezita_pomoc_pro_obeti_trestnych_cinu_by_se_mohla_zvysit-_zmenu_pozadoval_i_ombudsman/penezita_pomoc_-_srovnani.png" />Ombudsman v&nbsp;minulosti doporučoval také zavedení paušální částky peněžité pomoci i pro oběti sexuálních deliktů a pro týrané děti. Tato změna se ale nakonec do návrhu nedostala. Oběti z&nbsp;těchto dvou skupin tak budou muset i nadále prokazovat vznik &ndash; typicky psychické &ndash; újmy. <em>&bdquo;Jako promarněnou příležitost vnímám, že návrh nepočítá se zřízením zvláštního účtu, kam by směřovaly prostředky z&nbsp;</em><a href="https://verejnazaloba.cz/vice-o-sz/vse-podstatne-o-trestnim-rizeni/odklony/"><em>odklonů v&nbsp;trestním řízení</em></a><em>. Podle důvodové zprávy mají prostředky z odklonů nadále vylepšovat bilanci státního rozpočtu. Mám za to, že z odklonů by se měla výslovně financovat jak přímo peněžitá pomoc, tak například i právní pomoc obětem, kterou poskytují pomáhající organizace,&ldquo;</em> zhodnotil &nbsp;Schorm.</p>
+<p><img alt="penezita_pomoc_-_srovnani.png" src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/penezita_pomoc_pro_obeti_trestnych_cinu_by_se_mohla_zvysit-_zmenu_pozadoval_i_ombudsman/penezita_pomoc_-_srovnani.png" />Ombudsman v&nbsp;minulosti doporučoval také zavedení paušální částky peněžité pomoci i pro oběti sexuálních deliktů a pro týrané děti. Tato změna se ale nakonec do návrhu nedostala. Oběti z&nbsp;těchto dvou skupin tak budou muset i nadále prokazovat vznik &ndash; typicky psychické &ndash; újmy. <em>&bdquo;Jako promarněnou příležitost vnímám, že návrh nepočítá se zřízením zvláštního účtu, kam by směřovaly prostředky z&nbsp;</em><a href="https://verejnazaloba.cz/vice-o-sz/vse-podstatne-o-trestnim-rizeni/odklony/"><em>odklonů v&nbsp;trestním řízení</em></a><em>. Podle důvodové zprávy mají prostředky z odklonů nadále vylepšovat bilanci státního rozpočtu. Mám za to, že z odklonů by se měla výslovně financovat jak přímo peněžitá pomoc, tak například i právní pomoc obětem, kterou poskytují pomáhající organizace,&ldquo;</em> zhodnotil &nbsp;Schorm.</p>
 
 <blockquote>
 <p><strong>Co jsou to odklony v&nbsp;trestním řízení? </strong></p>

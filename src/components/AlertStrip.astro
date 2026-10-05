@@ -1,0 +1,16 @@
+---
+// Site-wide alert strip. Renders only when active.
+interface Props {
+  active?: boolean;
+  title?: string;
+  href?: string;
+  prefix?: string;
+}
+
+const { active = false, title = '', href = '', prefix } = Astro.props;
+---
+{active && (
+  <div class="_alert-strip">
+    <p>{prefix ? `${prefix}: ` : ''}<a href={href}>{title}</a></p>
+  </div>
+)}

@@ -1,0 +1,33 @@
+---
+title: Ombudsman criticised the system of transfer compensation in child hockey
+date: 2017-06-19T00:00:00.000Z
+perex: (with CTK) – Czech parents have to pay up to 70,000 crowns for
+  the transfer of their child from one ice-hockey club to another, which is
+  quite absurd and unethical, they complain. Ombudsman Anna Sabatova criticised
+  the system.
+categories:
+  - news
+---
+Some 5000 children annually switch between hockey clubs in the Czech Republic. Their parents often pay a high compensation in the form of a sponsor's gift to the new club. It sends the money to the original club that is entitled to it unless the clubs agree on a free transfer.
+
+The clubs charge 35,000 for a sixth grader, aged about 11-12 years, and 70,000 crowns for an eighth grader, aged 14-15 years.
+
+Ombudsman Anna Sabatova recently criticised the system of transfer compensation in child hockey.
+
+*"It is not right if a family had to be considering whether the child would end playing hockey completely since it cannot afford to pay the compensation to the club, for instance, because the family moved to another town,"* Sabatova told.
+
+However, she is not authorised to deal with the practice of the Czech Ice-Hockey Association within her powers. This is why she turned to the Education, Youth and Sport Ministry asking it to tackle the situation.
+
+The ministry said it would open a debate with the association on this issue.
+
+According to Lidove noviny (newspaper), critics of the system point out that the problems with the training of underage hockey players have been reflected in the bad performance of the Czech hockey national team as well. It has ended without medals at five world championships in a row.
+
+Compensations for transfers in child hockey do not exist in any other "advanced hockey countries," such as Canada, Finland, Sweden and the United States. They do not discriminate against talented young hockey players on the grounds of their families' financial situation.
+
+One of the parents, father of successful hockey forward Pavel Zacha Junior, who plays in NHL now, points out that the transfer system in child hockey has a devastating effect.
+
+If an underage player wants to leave the club in which he does not feel well, his parents must pay for it a lot. This is why the players often end with hockey completely, he added.
+
+Yet sport should eliminate and not escalate social discrepancies, Lidove noviny writes.
+
+Within the Education Ministry's new concept of support for sport 2016-2025, subsidies are to be sent directly to sport clubs, which might help relieve the parents of young hockey players of the high costs.

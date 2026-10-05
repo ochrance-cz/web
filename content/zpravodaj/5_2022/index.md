@@ -2,7 +2,7 @@
 title: Zpravodaj ombudsmana 5/2022
 month: 5
 year: 2022
-file: https://www.ochrance.cz/zpravodaj/5_2022/zpravodaj-ombudsmana-5-2022.pdf
+file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/zpravodaj/5_2022/zpravodaj-ombudsmana-5-2022.pdf
 sections:
   - title: Veřejná správa
     articles:

@@ -1,0 +1,22 @@
+---
+title: Záruka obce či státu místo kauce pro pronajímatele
+date: 2020-03-04T00:00:00.000Z
+perex: Obce, stát či jiné instituce by podle ombudsmana mohly přispět k řešení
+  bytových problémů. Řada lidí a rodin nezíská nájemní smlouvu, protože nedokáže
+  složit obvykle požadovanou kauci ve výši tří měsíčních nájmů. Místo
+  vynakládání sociálních dávek na to, aby skončily jako kauce na účtu
+  pronajímatele, by obce či stát mohly poskytnout smluvně zajištěnou záruku.
+kategorie:
+  - tz
+---
+Zdá se, že jedním z problémů, které ztěžují přístup k bydlení resp., uzavírání smluv o nájmu bytu, je požadavek pronajímatele na to, aby nájemce před podpisem smlouvy složil jakousi kauci, tedy finanční částku, která by byla pronajímateli k dispozici, pokud by nájemce neplnil své povinnosti, především by neplatil nájemné. Náš občanský zákoník nazývá takovou finanční částku „jistotou“ a její podmínky jsou upraveny v § 2254 občanského zákoníku.
+
+Z tohoto ustanovení ovšem vyplývá, že zákon **žádnou povinnost** skládat nějakou kauci (jistotu) nestanoví! Je zde pouze uvedeno, že pokud se nájemce a pronajímatel na takové kauci/jistotě dohodnou, nesmí být vyšší než trojnásobek měsíčního nájemného.  Pokud si nic takového neujednají, žádná povinnost nájemci nevznikne.
+
+Požadavek pronajímatelů, kteří bez ujednání o jistotě odmítají nájemní smlouvy s nájemci uzavřít, je vcelku pochopitelný a nelze proti tomu ničeho rozumného namítat.  Při současné výši nájmů je však požadavek složit trojnásobek a ještě zaplatit běžný nájem na měsíc předem (a to původní návrh občanského zákoníku počítal s šestinásobkem nájemného!) pro mnoho rodin vážnou překážkou k uzavření nájemní smlouvy k bytu, a tedy k získání bydlení.
+
+Na požadavek pronajímatelů lze ovšem reagovat i jinak než složením finanční částky. Ta ostatně v okamžiku podpisu nájemní smlouvy není zapotřebí, neboť se její využití předpokládá až později, při případném porušení povinnosti nájemníka. V jednotlivých a naléhavých případech by mohla být tato kauze nahrazena smluvně zajištěným příslibem instituce – státu, obce, charitativní organizace -, že převezmou případné závazky nájemce, které by v budoucnu plynuly z dohody o jistotě. Jinak řečeno, např. obec by se zaručila za svého občana, aby mu pomohla získat bydlení. Bylo by to možná lepší a efektivnější, než poskytovat zájemcům o bydlení peníze ze sociálních dávek na to, aby je složili na účet pronajímatele jako kauci.
+
+Nebylo by to někdy možné a přijatelné řešení? Řada lidí i rodin by byla schopna řádně platit nájem a mohla by získat bydlení, ale nemají finanční prostředky na jednorázovou kauci. Stát i obce by tak v mnoha případech mohly vyřešit bytové problémy svých občanů. Zeptám se na to představitelů obcí a poslanců.
+
+Stanislav Křeček, ombudsman

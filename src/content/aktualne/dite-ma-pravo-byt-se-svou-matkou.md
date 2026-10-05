@@ -1,0 +1,23 @@
+---
+title: Dítě má právo být se svou matkou
+date: 2020-10-09T00:00:00.000Z
+perex: Na zástupkyni ombudsmana Moniku Šimůnkovou se obrátil dědeček
+  sedmnáctiměsíční holčičky, jejíž matka nastoupila výkon trestu. Matce nebylo
+  vyhověno, aby se o své dítě mohla starat i ve vězení. Žádost matky byla
+  zamítnuta s tím, že v době ukončení trestu budou dítěti více než čtyři roky
+  – věznice umožňují výkon trestu s dítětem obvykle do tří let věku. Na straně
+  matky stál přitom Orgán sociálně-právní ochrany dětí, dětská lékařka
+  i psycholožka, kteří potvrzovali její mateřské kompetence i zájem o dceru
+  pečovat. Otec dítěte zemřel při autonehodě a o dítě se neměl kdo jiný
+  postarat. Místo mateřské péče by tak dítě čekal dětský domov. Naštěstí se
+  situaci podařilo po zásahu zástupkyně ombudsmana napravit.
+kategorie:
+  - tz
+---
+Dědeček, jehož syn je otcem dítěte, se na zástupkyni obrátil v lednu letošního roku. Se svou ženou matce dítěte pomáhal dle svých možností, přičemž ona sama byla dle jeho slov vzornou a pečující matkou. Musela však nastoupit výkon trestu v délce tří a půl let. Podala si žádost o umístění do oddělení pro matky s dětmi, která však byla zamítnuta, protože v době ukončení trestu budou dítěti více než čtyři roky. 
+
+„Po seznámení s případem jsem se obrátila na ředitelku věznice. Nelze připustit, aby trest matky dopadl také na dítě. V takové situaci se musíme řídit Úmluvou o právech dítěte, která stanovuje, že máme sledovat vždy nejlepší zájem dítěte. Nejlepším zájmem zvláště takto malého dítěte je bezpochyby zůstat se svou matkou, ač omezenou na svobodě. Že je plně kompetentní se o dítě starat potvrdil nejen dědeček dítěte, ale také OSPOD, dětská lékařka a psycholožka. V rodině navíc nebyl nikdo, kdo by se o takto malé dítě mohl postarat. Otec tragicky zahynul, a dědeček pracoval a žil dlouhodobě v zahraničí,“ vysvětluje okolnosti případu zástupkyně ombudsmana.
+
+„Základním právem dítěte je záruka, že na něj bude brán ohled v případě jakéhokoliv rozhodnutí, které na něj může mít nějaký dopad. Mezi taková rozhodnutí patří rozhodnutí soudů a správních orgánů, veřejných i soukromých institucí a dalších. V takovém případě je třeba, aby daný orgán zhodnotil možné pozitivní i negativní účinky rozhodnutí na vývoj dítěte a aby stanovil a posoudil zájem dítěte. V tomto případě je také nutné brát v potaz, že udržování rodinných vazeb je zásadním nástrojem prevence recidivy a prostředkem pro znovu začlenění do společnosti.  Rostoucí množství důkazů poukazuje zejména na to, že umístění na oddíle pro matky s dětmi snižuje u vězněných žen riziko recidivy a usnadňuje pozdější návrat do společnosti,“ uzavírá Monika Šimůnková.
+
+Matka dítěte si v průběhu šetření podala novou žádost o umístění do oddělení pro matky s dětmi, ředitelka věznice reflektovala širší okolnosti případu a matce bylo vyhověno. Případ jsme tak mohli uzavřít.

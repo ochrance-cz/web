@@ -10,7 +10,7 @@ perex: >
   aby se dostali k&nbsp;cizím penězům. Častou praxí je také navádění na odkaz či
   stažení přiloženého souboru se škodlivým virem nebo malwarem.</p>
 attachments:
-  - file: https://www.ochrance.cz/aktualne/na_kavu_s_ombudsmanem_97-_dil_podvodna_jednani_v_e-prostoru/letak_e-podvody.pdf
+  - file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/na_kavu_s_ombudsmanem_97-_dil_podvodna_jednani_v_e-prostoru/letak_e-podvody.pdf
     title: Leták Pozor na e-podvody
 ---
 
@@ -21,7 +21,7 @@ attachments:
 
 <p>&nbsp;</p>
 
-<p><img alt="1.png" src="https://www.ochrance.cz/aktualne/na_kavu_s_ombudsmanem_97-_dil_podvodna_jednani_v_e-prostoru/1.png" /><img alt="2.png" src="https://www.ochrance.cz/aktualne/na_kavu_s_ombudsmanem_97-_dil_podvodna_jednani_v_e-prostoru/2.png" /><img alt="3.png" src="https://www.ochrance.cz/aktualne/na_kavu_s_ombudsmanem_97-_dil_podvodna_jednani_v_e-prostoru/3.png" /><img alt="4.png" src="https://www.ochrance.cz/aktualne/na_kavu_s_ombudsmanem_97-_dil_podvodna_jednani_v_e-prostoru/4.png" /></p>
+<p><img alt="1.png" src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/na_kavu_s_ombudsmanem_97-_dil_podvodna_jednani_v_e-prostoru/1.png" /><img alt="2.png" src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/na_kavu_s_ombudsmanem_97-_dil_podvodna_jednani_v_e-prostoru/2.png" /><img alt="3.png" src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/na_kavu_s_ombudsmanem_97-_dil_podvodna_jednani_v_e-prostoru/3.png" /><img alt="4.png" src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/na_kavu_s_ombudsmanem_97-_dil_podvodna_jednani_v_e-prostoru/4.png" /></p>
 
 <p>V&nbsp;příštím podcastu se budeme věnovat dětem v ústavní péči.</p>
 

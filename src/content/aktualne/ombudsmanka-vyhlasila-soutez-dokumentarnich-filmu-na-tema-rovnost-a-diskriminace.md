@@ -1,0 +1,34 @@
+---
+title: Ombudsmanka vyhlásila soutěž dokumentárních filmů na téma rovnost a
+  diskriminace
+date: 2019-03-18T00:00:00.000Z
+perex: Letos uplyne deset let od chvíle, kdy vstoupil v platnost
+  antidiskriminační zákon. Při této příležitosti se ombudsmanka rozhodla
+  vyhlásit soutěž krátkých dokumentárních filmů na téma rovnost nebo
+  diskriminace. Vítězné snímky se budou promítat na Letní filmové škole
+  v Uherském hradišti. Soutěž je určena mladým lidem ve věku patnáct
+  až devatenáct let.
+kategorie:
+  - tz
+---
+Nejlepší filmy vybere porota, ve které usedne náměstkyně pro řízení Sekce pro lidská práva Martina Štěpánková, dokumentaristka Apolena Rychlíková, dokumentarista Vít Klusák, youtuberka a bloggerka Petra Voráčková (RestlessChildCZ). Vyhlášeny budou 21. června v sídle ombudsmanky.
+
+<o:p></o:p>
+
+*„Chceme vědět, jak mladí lidé vnímají svět. Zda jej považují za spravedlivý, jaké konkrétní problémy podle nich způsobuje nerovnost, co je ve společnosti trápí a co jim naopak dělá radost,“* říká k soutěži ombudsmanka Anna Šabatová a dodává: *„Mladí lidé se věnují natáčení videí mnohem více, než bývalo zvykem. Chceme jim nabídnout možnost jak tuto dovednost zúročit. Vítězkám a vítězům proto nabízíme dokumentární workshop s Apolenou Rychlíkovou, jeden den na natáčení s Vítem Klusákem a akreditace na Mezinárodní festival dokumentárních filmů v Jihlavě.“*
+
+##### Pravidla soutěže:
+
+ 
+
+-   Soutěžit mohou až čtyřčlenné týmy studentek a studentů středních škol, učilišť nebo gymnázií ve věku 15 – 19 let.
+-   Filmy zařazené do soutěžní kategorie Rovnost by měly poukázat na pozitivní řešení nerovného zacházení, na férovost a dobrou praxi, na zvyšování rovnosti ve společnosti.
+-   Filmy v soutěžní kategorii Diskriminace se naopak mají věnovat společenské kritice v oblasti nerovného zacházení, konkrétním příkladům nespravedlností a negativním zkušenostem.
+-   Filmy musí být dlouhé do 10 minut a natočené ve formátu mp4, nejméně v HD rozlišení s poměrem stran 16:9. Zvuková stopa by měla být co nejkvalitnější i vzhledem k tomu, že výherní snímky budou promítány v kinosálech. Ve filmu musí být uvedená jména všech autorek či autorů a název snímku.
+-   Hotové video mohou soutěžící přihlásit do 30. dubna 2019.
+
+Soutěž pořádá Kancelář veřejného ochránce práv pod záštitou Informačního centra OSN v Praze a European Network of Equality Bodies. Partnerem soutěže je LFŠ Uherské Hradiště a MFDF Jihlava.
+
+##### Více informací o soutěži:
+
+[https://equaldoc.ochrance.cz/](https://equaldoc.ochrance.cz/)

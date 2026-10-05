@@ -25,9 +25,9 @@ perex: <p>Prezident na konci června podepsal dvě novely zákonů, které uleh�
 <strong>Chráněný účet</strong></p>
 <p>Pokud exekutor dlužníkovi zablokuje účet v bance, na který mu chodí chráněné příjmy, může si nechat zřídit tzv. chráněný účet, na který se tyto peníze budou převádět. Peníze na chráněném účtu může dlužník běžně používat, exekuce se na něj nevztahuje.</p>
 <p>
-<a href="https://www.ochrance.cz/letaky/exekuce/exekuce.pdf">Podrobnější informace o exekuci a chráněném účtu</a></p></blockquote>
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/exekuce/exekuce.pdf">Podrobnější informace o exekuci a chráněném účtu</a></p></blockquote>
 <p>Zcela odlišná situace však nastávala, pokud se lidé zadlužili vůči státu (například na daních, pojistném na sociální či zdravotní pojištění, místních poplatcích, pokutách, …). U exekucí vedených úřady (tzv. 
-<a href="https://www.ochrance.cz/letaky/danova-exekuce/danova-exekuce.pdf">daňová exekuce</a>) totiž zákon zřízení chráněného účtu neumožňoval. To dlužníka vyřadilo z využívání bankovních služeb. Nemohl si prakticky na účet nechat posílat mzdu či důchod a platit z něj nájem, energie a další běžné platby, které dnes již zpravidla probíhají elektronicky.</p>
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/danova-exekuce/danova-exekuce.pdf">daňová exekuce</a>) totiž zákon zřízení chráněného účtu neumožňoval. To dlužníka vyřadilo z využívání bankovních služeb. Nemohl si prakticky na účet nechat posílat mzdu či důchod a platit z něj nájem, energie a další běžné platby, které dnes již zpravidla probíhají elektronicky.</p>
 <p>Ombudsman proto již od počátku upozorňoval na toto bezdůvodně nerovné postavení mezi dlužníky. Nyní se mu konečně podařilo prosadit změnu a podmínky narovnat.&nbsp;</p>
 <p>
 <i>„Nevidím důvod, aby existovaly rozdíly v&nbsp;ochraně práv dlužníků podle toho, jestli exekuci vede soudní exekutor nebo stát. I člověk, který dluží peníze státu, potřebuje stále fungovat v&nbsp;dnešní digitální ekonomice a společnosti. To není dost dobře možné bez fungujícího bankovního účtu. Jsem proto rád, že se podařilo tuto nespravedlnost odstranit,“</i> vysvětlil ombudsman Stanislav Křeček.</p>

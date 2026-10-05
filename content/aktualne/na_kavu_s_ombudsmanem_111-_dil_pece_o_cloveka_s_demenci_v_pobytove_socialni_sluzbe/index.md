@@ -19,7 +19,7 @@ perex: >
 
 <p>&nbsp;</p>
 
-<p>Více informací o tématu najdete také ve <a href="https://www.ochrance.cz/dokument/zpravy_pro_poslaneckou_snemovnu_2023/vyrocni-zprava-2023.pdf">Výroční zprávě za rok 2023</a>. Nalistujte si stranu 111.</p>
+<p>Více informací o tématu najdete také ve <a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/dokument/zpravy_pro_poslaneckou_snemovnu_2023/vyrocni-zprava-2023.pdf">Výroční zprávě za rok 2023</a>. Nalistujte si stranu 111.</p>
 
 <p>&nbsp;</p>
 

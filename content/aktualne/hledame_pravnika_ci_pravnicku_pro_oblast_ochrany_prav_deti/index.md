@@ -46,7 +46,7 @@ perex: <p>Chcete se podílet na ochraně práv dětí a přispívat k&nbsp;prosa
 <li>příspěvek na stravování ve výši 89 Kč na den,</li>
 <li>práci v&nbsp;centru Brna s&nbsp;možností parkování.</li></ul>
 <p>Výběrová řízení probíhají v souladu s naší 
-<a href="https://www.ochrance.cz/media/personalni_strategie.pdf">Personální strategií</a>.</p>
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/media/personalni_strategie.pdf">Personální strategií</a>.</p>
 <p>Jestli se k&nbsp;nám chcete připojit, napište nám do&nbsp; 
 <strong>25. 5. 2025</strong> na&nbsp;adresu&nbsp; 
 <a href="mailto:lzicarova@ochrance.cz">

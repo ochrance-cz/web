@@ -26,7 +26,7 @@ perex: <p>Vláda v pondělí 25. května schválila bezpečnostní novelu, kter�
 <p>
 <strong>Soudy budou rozhodovat bez jednání&nbsp;</strong></p>
 <p>Návrh zákona navíc oslabuje možnost bránit se proti rozhodnutím státu u soudu. Týká se to zejména povolení k&nbsp;zvláštnímu dlouhodobému pobytu nebo podmínek pro změnu zaměstnání u lidí se zaměstnaneckou kartou. Horší pozici budou mít také lidé, kteří čekají na vyhoštění v 
-<a href="https://www.ochrance.cz/letaky/zarizeni-pro-zajisteni-cizincu/zarizeni-pro-zajisteni-cizincu.pdf">zařízeních pro zajištění cizinců.</a></p>
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/zarizeni-pro-zajisteni-cizincu/zarizeni-pro-zajisteni-cizincu.pdf">zařízeních pro zajištění cizinců.</a></p>
 <p>„
 <i>Pokud lidé v žalobě výslovně nepožádají o soudní jednání, soudy rozhodnou automaticky bez něj. Pro cizince bez přístupu k okamžité právní pomoci to bude obrovský problém,“</i> upozorňuje Schorm. Připomíná přitom, že stát 
 <a href="https://www.ochrance.cz/aktualne/pravni_pomoc_cizincum_vyjde_statni_kasu_na_vic_penez-_ministerstvo_chysta_drahou_zakazku_pro_advokaty/">zastavil financování právní, psychologické a sociální pomoci</a>, kterou cizincům donedávna poskytovaly neziskové organizace.</p>

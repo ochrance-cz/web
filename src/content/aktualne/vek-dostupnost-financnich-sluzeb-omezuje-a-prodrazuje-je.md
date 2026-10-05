@@ -1,0 +1,47 @@
+---
+title: Věk dostupnost finančních služeb omezuje a prodražuje je
+date: 2013-09-11T00:00:00.000Z
+perex: Zamezení přístupu k finančním službám pouze z důvodu věku se v České
+  republice vyskytuje, i když v ne příliš vysoké míře. Vyšší věk však
+  v některých případech pořízení určitého finančního produktu či služby výrazně
+  prodražuje. Tyto závěry vyplývají z výzkumu, který vůbec poprvé v České
+  republice soustavněji zmapoval dostupnost finančních produktů starším
+  klientům, a tedy jejich možnou diskriminaci z důvodu věku.
+kategorie:
+  - tz
+---
+*„Impulsem k provedení výzkumu byly stížnosti seniorů na nedostupnost některých finančních služeb po dosažení určité věkové hranice,“* vysvětluje zástupce ombudsmana Stanislav Křeček s tím, že nejčastěji se senioři setkávali s odmítnutím žádosti o vydání kreditní karty, ačkoli šlo např. o dlouhodobé klienty bank, držitele zlatých platebních karet, solventní klienty, kteří kartu potřebovali např. kvůli půjčení automobilu v zahraničí, rezervace hotelu přes internet apod.
+
+Výzkum měl dvě části – první v podobě anonymního dotazníkového šetření, druhá formou situačního testování. Dotazníky byly osloveny všechny banky a pobočky zahraničních bank (45), všechny pojišťovny a pobočky zahraničních pojišťoven (52) a vybraní nebankovní poskytovatelé finančních služeb (43). Situačním testováním byl ověřen postup třinácti klíčových bank zaměřených na drobné klienty, dvou pojišťoven a tří nebankovních institucí, které figuranti navštívili (případně telefonicky kontaktovali) s žádostí o poskytnutí konkrétního produktu.
+
+Vzhledem k tomu, že účelem výzkumu nebylo sankcionování konkrétních institucí, ale systematické prověření rovného zacházení s žadateli, údaje o zapojených subjektech zůstanou anonymní.
+
+### Životní pojištění pro seniory omezují všichni
+
+Z dotazníkového šetření vyplývá, že nejhůře dostupnou službou pro seniory je životní pojištění. Jeho poskytnutí věkově omezují všechny dotazované pojišťovny. S ohledem na povahu tohoto produktu je však stanovení přiměřeně vysoké věkové hranice legitimní, což platí i pro hypoteční úvěry, jejichž poskytnutí omezuje věkem zhruba třetina dotazovaných subjektů.
+
+Úrazové pojištění věkově omezuje 90 % pojišťoven a nejpřísnější podmínky z pohledu věkových limitů platí pro poskytování pojištění schopnosti splácet, které dotazované finanční instituce odmítají poskytovat v průměru od 63 let věku klienta.
+
+Z toho, co finanční instituce v dotaznících deklarovaly, vyplývá, že relativně nejdostupnější je seniorům finanční leasing, havarijní pojištění, povinné ručení, kreditní karty a kontokorent. Každou z těchto služeb věkově omezuje vždy pouze jedna instituce.
+
+### Cestovní pojištění dostupné, ale za dvojnásobnou cenu
+
+Jestliže je poskytování služeb krátkodobého charakteru, např. kreditní karty, krátkodobé spotřebitelské úvěry, kontokorent apod. omezeno horní věkovou hranicí, jedná se o diskriminaci založenou na věku.
+
+Situační testování, které faktickou dostupnost produktů ověřovalo, ukázalo, že dva ze třinácti testovaných subjektů (15 %) omezují poskytnutí kreditních karet na základě věku klienta bez zkoumání jakýchkoli dalších okolností, tedy se dopouštějí diskriminace. Jeden subjekt popřel před testující osobou, že poskytuje kreditní karty, ačkoli je na internetu inzeruje. Vyskytl se i případ, kdy si pracovník poskytnutím kreditní karty nebyl jistý a naznačoval, že věk může být problémem.
+
+K odmítnutí pouze z důvodu věku došlo také u dvou z patnácti testovaných poskytovatelů spotřebitelských úvěrů (13 %). Je také nutné zmínit, že v jednom případě testovaná instituce odmítla sčítat starobní důchod s jinými zdroji příjmu pro účely výpočtu minimální výše příjmu, což může představovat nepřímou diskriminaci. Ve dvou případech pracovníci naznačovali, že věk může být pro poskytnutí spotřebitelského úvěru problém.
+
+Pouze u cestovního pojištění není podle situačního testování věk překážkou. Figuruje však jako faktor, který cenu pojištění významně zvyšuje. U klientů nad 70 let se cena pojistného zvyšuje o 66 – 200 %, přičemž v průměru jde o 100% „přirážku“. Některé pojišťovny zavádějí i kategorii klientů nad 80 let, kterým pak cenu pojistného zvyšují o dalších 50 – 81 %. Pouze dvě z devíti testovaných pojišťoven neumožňují osobám starším 80 let uzavřít cestovní pojištění přes internet.
+
+*„Jestliže se pojišťovna rozhodne od určitého věku zvyšovat cenu pojistného za krátkodobou službu, např. za cestovní pojištění, je nutné, aby toto rozdílné zacházení opřela o přesné pojistněmatematické a statistické údaje a aby byl rozdíl ve výši pojistného přiměřený. Pokud pouze o pár měsíců či dnů starší osoba musí platit pojistné ve výši dvojnásobku ve srovnání s mladší osobou, jeví se to jako nepřiměřené, ale bez dalšího to za diskriminaci označit nelze,“* konstatuje zástupce veřejného ochránce práv.
+
+Zachování lidské důstojnosti předpokládá, že i lidé vyššího věku budou mít přístup ke všem službám nabízeným veřejnosti, pokud tomu nebrání povaha služby. Starší lidé mají právo být respektováni. K tomu, aby i v seniorském věku mohli být aktivní, je nutné, aby s nimi bylo zacházeno jako s rovnocennými partnery a nikoli jako s osobami, u nichž každým dnem hrozí riziko úmrtí, a tedy nebudou schopny dostát svým závazkům.
+
+Zástupce veřejného ochránce práv si je vědom toho, že mohou existovat důvody, které mohou používání věkových omezení v konkrétních případech ospravedlňovat, například povinnost bank postupovat obezřetně a neuzavírat smlouvy, které by mohly poškozovat zájmy vkladatelů a ohrožovat stabilitu banky. Na druhou stranu jsou ale finanční služby nabízeny a poskytovány spotřebitelům, proto na ně dopadá ochrana spotřebitele a zákaz diskriminace. Obecně proto nelze seniorům odmítat finanční služby pouze z důvodu věku. Rovné zacházení se seniory přitom není podle zástupce ombudsmana jen naplněním zákonné povinnosti, ale zvyšuje kredit finanční instituce ve společnosti.
+
+Zástupce ombudsmana věří, že výzkum bude východiskem pro širší diskuzi o kvalitě poskytování finančních služeb spotřebitelům. Podporu výzkumu vyjádřily Česká národní banka, Česká obchodní inspekce, Finanční arbitryně, Česká bankovní asociace, Česká asociace pojišťoven a Česká leasingová a finanční asociace.
+
+ [Celá zpráva z výzkumu](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/DISKRIMINACE/Vyzkum/Vyzkum_financni-sluzby-pro-seniory_grafika.pdf "Otevření do nového okna") (712.3 kB, Adobe Acrobat dokument)
+
+![](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/uploads/RTEmagicC_TK-2013-09-11.jpg.jpg)*JUDr. Stanislav Křeček, zástupce veřejného ochránce práv, Mgr. Jana Kvasnicová z oddělení rovného zacházení a Mgr. Marína Urbániková z oddělení metodiky a analýz Kanceláře veřejného ochránce práv představují výsledky výzkumu na tiskové konferenci 11. 9. 2013*

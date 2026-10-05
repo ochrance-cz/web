@@ -12,7 +12,7 @@ perex: >
   má i své mouchy.</p>
 attachments:
   - title: Leták Co jsou to datovky?
-    file: https://www.ochrance.cz/aktualne/na_kavu_s_ombudsmanem_94-_dil_co_je_to_datova_schranka/datova_schranka_letak.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/na_kavu_s_ombudsmanem_94-_dil_co_je_to_datova_schranka/datova_schranka_letak.pdf
 ---
 
 
@@ -22,7 +22,7 @@ attachments:
 
 <p>&nbsp;</p>
 
-<p>Vše najdete shrnuto také v našem <a href="https://www.ochrance.cz/aktualne/na_kavu_s_ombudsmanem_94-_dil_co_je_to_datova_schranka/datova_schranka_letak.pdf">letáku</a>.</p>
+<p>Vše najdete shrnuto také v našem <a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/na_kavu_s_ombudsmanem_94-_dil_co_je_to_datova_schranka/datova_schranka_letak.pdf">letáku</a>.</p>
 
 <p>&nbsp;</p>
 

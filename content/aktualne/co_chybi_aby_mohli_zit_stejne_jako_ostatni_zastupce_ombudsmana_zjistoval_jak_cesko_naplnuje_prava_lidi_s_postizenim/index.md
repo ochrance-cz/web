@@ -11,16 +11,16 @@ perex: <p>V České republice stále existují překážky, které lidem s posti
   se zdravotním postižením. Hodnocení ukazuje, že stát plní své povinnosti jen z
   38 %.</p>
 attachments:
-  - file: https://www.ochrance.cz/dokument/jak_cesko_plni_sve_povinnosti_z_umluvy_o_pravech_osob_se_zdravotnim_postizenim/analyza_s_vyuzitim_lidskopravnich_ukazatelu.pdf
+  - file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/dokument/jak_cesko_plni_sve_povinnosti_z_umluvy_o_pravech_osob_se_zdravotnim_postizenim/analyza_s_vyuzitim_lidskopravnich_ukazatelu.pdf
     title: Výzkumná zpráva v českém jazyce
   - title: Shrnutí výzkumu (factsheet) v českém jazyce
-    file: https://www.ochrance.cz/dokument/jak_cesko_plni_sve_povinnosti_z_umluvy_o_pravech_osob_se_zdravotnim_postizenim/shrnuti_vyzkumu_factsheet_cj.pdf
-  - file: https://www.ochrance.cz/dokument/jak_cesko_plni_sve_povinnosti_z_umluvy_o_pravech_osob_se_zdravotnim_postizenim/human_rights_indicators-based_analysis.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/dokument/jak_cesko_plni_sve_povinnosti_z_umluvy_o_pravech_osob_se_zdravotnim_postizenim/shrnuti_vyzkumu_factsheet_cj.pdf
+  - file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/dokument/jak_cesko_plni_sve_povinnosti_z_umluvy_o_pravech_osob_se_zdravotnim_postizenim/human_rights_indicators-based_analysis.pdf
     title: Výzkumná zpráva v anglickém jazyce
   - title: Shrnutí výzkumu (factsheet) v anglickém jazyce
-    file: https://www.ochrance.cz/dokument/jak_cesko_plni_sve_povinnosti_z_umluvy_o_pravech_osob_se_zdravotnim_postizenim/shrnuti_vyzkumu_factsheet_en.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/dokument/jak_cesko_plni_sve_povinnosti_z_umluvy_o_pravech_osob_se_zdravotnim_postizenim/shrnuti_vyzkumu_factsheet_en.pdf
   - title: Shrnutí výzkumu ve snadném čtení
-    link: https://www.ochrance.cz/dokument/jak_cesko_plni_sve_povinnosti_z_umluvy_o_pravech_osob_se_zdravotnim_postizenim/shrnuti_vyzkumu_ve_snadnem_cteni.pdf
+    link: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/dokument/jak_cesko_plni_sve_povinnosti_z_umluvy_o_pravech_osob_se_zdravotnim_postizenim/shrnuti_vyzkumu_ve_snadnem_cteni.pdf
   - title: Shrnutí výzkumu v českém znakovém jazyce (video)
     file: https://youtu.be/wFIGGA25QcE
 ---

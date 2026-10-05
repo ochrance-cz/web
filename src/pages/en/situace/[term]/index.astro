@@ -1,0 +1,57 @@
+---
+// /en/situace/<term>/ — situation term landing (en): header then LETAKY-EN
+// tagged with this situation. Mirrors /situace/<term>/.
+//
+// NOTE: in this worktree the `letaky-en` collection is EMPTY (owned by another
+// worker). The page renders header + empty list and MUST build cleanly; the
+// real leaflet listing populates at the reconverge phase after merge.
+import type { GetStaticPaths } from 'astro';
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../../../layouts/BaseLayout.astro';
+import PicHeader from '../../../../components/PicHeader.astro';
+import LinkList from '../../../../components/LinkList.astro';
+import { renderMarkdown } from '../../../../lib/markdown';
+import { url } from '../../../../lib/paths';
+import { t } from '../../../../lib/i18n';
+
+export const getStaticPaths = (async () => {
+  const terms = (await getCollection('situace-en')) ?? [];
+  return terms.map((term) => ({
+    params: { term: term.id },
+    props: { term },
+  }));
+}) satisfies GetStaticPaths;
+
+const { term } = Astro.props;
+const termKey = term.id;
+const termSlug = term.id;
+
+const letaky = (await getCollection('letaky-en')) ?? [];
+const items = letaky
+  .filter((l) => (l.data.situace ?? []).some((s) => s === termKey || s === termSlug))
+  .map((l) => ({
+    link: url('en', 'letaky', l.id),
+    title: l.data.title,
+  }))
+  .sort((a, b) => a.title.localeCompare(b.title, 'en'));
+
+const perexHtml = await renderMarkdown(term.data.perex);
+---
+<BaseLayout title={term.data.title} lang="en">
+  <main>
+    <PicHeader title={term.data.title} illustration={term.data.illustration} />
+    <section>
+      <div class="perex" set:html={perexHtml} />
+
+      <ul class="_horizontal-list">
+        <li><a href={url('en', 'situace', termSlug)} class="selected">{t('en', 'handouts-by-sit')}</a></li>
+        <li><a href={url('en', 'letaky')}>{t('en', 'handouts-all')}</a></li>
+      </ul>
+
+      {/* Leaflet listing — empty in this worktree; populates at reconverge. */}
+      <LinkList items={items} />
+
+      <p><a class="_button back" href="/en/not-sure/">{t('en', 'all-situations')}</a></p>
+    </section>
+  </main>
+</BaseLayout>

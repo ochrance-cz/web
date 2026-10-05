@@ -7,7 +7,7 @@ perex: V tomto zpravodaji máte možnost nahlédnout do pestrého výběru pří
   roku 2022. Řešily se třeba důchody, maturity, těžba, děti, doktoři a dětští
   doktoři.
 author: Přejeme příjemné čtení.
-file: https://www.ochrance.cz/zpravodaj/2_2022/zpravodaj-ombudsmana-2-2022.pdf
+file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/zpravodaj/2_2022/zpravodaj-ombudsmana-2-2022.pdf
 sections:
   - title: Veřejná správa
     articles:
@@ -506,5 +506,5 @@ sections:
         title: "Doporučení: Praktická příručka práva na rovné zacházení rodiče na
           pracovním trhu "
         id: 63/2020/DIS
-        eso: https://www.ochrance.cz/dokument/rodicovstvi_a_diskriminace_v_praci/rodicovstvi-a-diskriminace-doporuceni.pdf
+        eso: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/dokument/rodicovstvi_a_diskriminace_v_praci/rodicovstvi-a-diskriminace-doporuceni.pdf
 ---

@@ -18,7 +18,7 @@ attachments:
   - title: Celé znění doporučení
     link: https://eso.ochrance.cz/Nalezene/Edit/9016
   - title: Informační leták
-    link: https://www.ochrance.cz/uploads-import/Letaky/Ockovani_klientu_s_omezenou_svepravnosti.pdf
+    link: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/Letaky/Ockovani_klientu_s_omezenou_svepravnosti.pdf
 ---
 „Jedná se o praktické doporučení pro poskytovatele zdravotních služeb provádějících očkování, zaměstnance zařízení sociálních či zdravotních služeb, ale také pro opatrovníky a další podpůrné osoby klientů,” vysvětluje zástupkyně ombudsmana.
 

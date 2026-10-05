@@ -1,0 +1,15 @@
+---
+import { getCollection } from 'astro:content';
+import SingleLayout from '../../../../layouts/SingleLayout.astro';
+import ProvozSections from '../../../../components/provoz/ProvozSections.astro';
+import { contactGroups } from '../../../../lib/contact-directory';
+export async function getStaticPaths() {
+  return (await getCollection('oddeleni')).map(department => ({ params: { slug: department.id }, props: { department } }));
+}
+const { department } = Astro.props;
+const groups = contactGroups([department], await getCollection('lide'));
+---
+<SingleLayout title={department.data.title} lang="cs" noIndex canonical={new URL('/provoz/kontakty/', Astro.site).href} header={{ backlink: { href: '/provoz/kontakty/', label: 'Kontakty' } }}>
+  <ProvozSections lawyers={groups} />
+  {!groups.length && <p>V tomto oddělení zatím nejsou žádné zveřejněné kontakty.</p>}
+</SingleLayout>

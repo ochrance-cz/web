@@ -27,4 +27,4 @@ attachments:
 
 <p>Máte-li ke&nbsp;kurzu dotaz nebo připomínku, napište nám&nbsp;na adresu&nbsp;<a href="mailto:elearning@ochrance.cz">elearning@ochrance.cz</a>.</p>
 
-<p><img alt="dis_e-learning_printscreen.png" src="https://www.ochrance.cz/aktualne/diskriminace_v_bydleni_vzdelavani_nebo_praci-_vyzkousejte_dalsi_casti_e-learningu_ombudsmana/dis_e-learning_printscreen.png" /></p>
+<p><img alt="dis_e-learning_printscreen.png" src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/diskriminace_v_bydleni_vzdelavani_nebo_praci-_vyzkousejte_dalsi_casti_e-learningu_ombudsmana/dis_e-learning_printscreen.png" /></p>

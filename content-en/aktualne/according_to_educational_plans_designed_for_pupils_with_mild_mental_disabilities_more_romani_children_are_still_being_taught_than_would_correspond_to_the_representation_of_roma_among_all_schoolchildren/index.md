@@ -19,7 +19,7 @@ perex: >
   is ensured.</p>
 attachments:
   - title: Press Release - The Equal Treatment Monitoring - 2022
-    file: https://www.ochrance.cz/en/aktualne/according_to_educational_plans_designed_for_pupils_with_mild_mental_disabilities_more_romani_children_are_still_being_taught_than_would_correspond_to_the_representation_of_roma_among_all_schoolchildren/press_release_-_the_equal_treatment_monitoring_-_2022.docx
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/en/aktualne/according_to_educational_plans_designed_for_pupils_with_mild_mental_disabilities_more_romani_children_are_still_being_taught_than_would_correspond_to_the_representation_of_roma_among_all_schoolchildren/press_release_-_the_equal_treatment_monitoring_-_2022.docx
   - title: Monitoring report 2022
     file: https://www.ochrance.cz/uploads-import/ESO/monitorovaci-zprava_2023-WEB-EN%2010-23.pdf
   - title: Monitoring report 2021
@@ -34,10 +34,10 @@ attachments:
     file: https://www.ochrance.cz/dokument/doporuceni_verejne_ochrankyne_prav_k_povinnemu_predskolnimu_vzdelavani/
   - title: Ombudswoman's recommendations on joint education of Roma and non-Roma
       children (2018)
-    file: https://www.ochrance.cz/uploads-import/ESO/86-2017-DIS-VB_English_Summary.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/86-2017-DIS-VB_English_Summary.pdf
   - title: Ombudswoman's recommendations on equal access to pre-school education
       (2018)
-    file: https://www.ochrance.cz/uploads-import/ESO/14-2017-DIS-VB-recommendation-EN.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/14-2017-DIS-VB-recommendation-EN.pdf
   - title: Ombudsman's research on the ethnic composition of pupils in former
       special schools (2012 - Czech only)
     file: "
@@ -48,11 +48,11 @@ attachments:
 
 <p>According to the Ombudsman, the situation could be improved by using more appropriate diagnostic tools that can better detect the possible impact of social disadvantage. These include tests that focus on mapping child&#39;s cognitive processes or tests tracking the development of child&#39;s abilities over time, rather than comparing the results to a predetermined scale of assessments. However, available information suggests that the replacement of outdated diagnostic tools by more modern ones is slow.</p>
 
-<p><img alt="eng_monitorovaci_zprava_-_tabulka_1.png" src="https://www.ochrance.cz/en/aktualne/according_to_educational_plans_designed_for_pupils_with_mild_mental_disabilities_more_romani_children_are_still_being_taught_than_would_correspond_to_the_representation_of_roma_among_all_schoolchildren/eng_monitorovaci_zprava_-_tabulka_1.png" /></p>
+<p><img alt="eng_monitorovaci_zprava_-_tabulka_1.png" src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/en/aktualne/according_to_educational_plans_designed_for_pupils_with_mild_mental_disabilities_more_romani_children_are_still_being_taught_than_would_correspond_to_the_representation_of_roma_among_all_schoolchildren/eng_monitorovaci_zprava_-_tabulka_1.png" /></p>
 
 <p>The Ombudsman monitors preschool education for Romani children as well, because kindergartens can help children to compensate for the disadvantages of the environment. However, the proportion of Roma children in the non-compulsory years of kindergartens is still low and even decreasing in the compulsory years.</p>
 
-<p><img alt="monitorovaci_zprava_-_tabulka_oprava.png" src="https://www.ochrance.cz/en/aktualne/according_to_educational_plans_designed_for_pupils_with_mild_mental_disabilities_more_romani_children_are_still_being_taught_than_would_correspond_to_the_representation_of_roma_among_all_schoolchildren/monitorovaci_zprava_-_tabulka_oprava.png" /></p>
+<p><img alt="monitorovaci_zprava_-_tabulka_oprava.png" src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/en/aktualne/according_to_educational_plans_designed_for_pupils_with_mild_mental_disabilities_more_romani_children_are_still_being_taught_than_would_correspond_to_the_representation_of_roma_among_all_schoolchildren/monitorovaci_zprava_-_tabulka_oprava.png" /></p>
 
 <p>Although the situation in the education of Romani pupils has not changed in many respects, the Ombudsman acknowledged as a great success the completion of extensive <a href="https://www.edu.cz/vysledky-vyzkumu-overeni-dopadu-zavedeni-povinneho-posledniho-rocniku-predskolniho-vzdelavani/">research</a> focused on the impact of compulsory year of preschool education on the education of Romani pupils. In this research, the authors of the study in socially excluded localities, among other things, investigated the main reasons for the non-participation of Romani children in preschool education. Because the parents themselves did not attend kindergartens, they have no idea about their advantages and therefore often do not enlist their children there either. Some parents did not know that children of unemployed parents can also attend kindergartens. Last but not least, in addition to the lack of kindergartens close to home, the insufficient capacity of kindergartens also plays a role.</p>
 

@@ -13,8 +13,8 @@ perex: >
   volebního práva se týkají i vězněných osob.</p>
 attachments:
   - title: Principy přístupnosti volebních místností
-    file: https://www.ochrance.cz/aktualne/jaka_jsou_uskali_pristupnosti_voleb_s_naplnenim_volebniho_prava_mohou_mit_problem_nejen_lide_s_postizenim_ale_napriklad_i_ti_omezeni_na_svobode/principy_pristupnosti_volebnich_mistnosti.pdf
-  - file: https://www.ochrance.cz/aktualne/jaka_jsou_uskali_pristupnosti_voleb_s_naplnenim_volebniho_prava_mohou_mit_problem_nejen_lide_s_postizenim_ale_napriklad_i_ti_omezeni_na_svobode/dotaznik_-_souhrnna_informace_o_volebni_mistnosti.docx
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/jaka_jsou_uskali_pristupnosti_voleb_s_naplnenim_volebniho_prava_mohou_mit_problem_nejen_lide_s_postizenim_ale_napriklad_i_ti_omezeni_na_svobode/principy_pristupnosti_volebnich_mistnosti.pdf
+  - file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/jaka_jsou_uskali_pristupnosti_voleb_s_naplnenim_volebniho_prava_mohou_mit_problem_nejen_lide_s_postizenim_ale_napriklad_i_ti_omezeni_na_svobode/dotaznik_-_souhrnna_informace_o_volebni_mistnosti.docx
     title: Dotazník - souhrnná informace o volební místnosti
 ---
 <p><strong>Volby a lidé s&nbsp;postižením &ndash; dostanou se do volební místnosti?</strong></p>
@@ -31,7 +31,7 @@ attachments:
 
 <p>Veřejný ochránce práv také letos uspěl s&nbsp;připomínkou k návrhu&nbsp;zákona o správě voleb, aby už soudy v&nbsp;řízení o svéprávnosti v&nbsp;budoucnu nesměly lidem omezit výkon aktivního volebního práva. Ombudsman upozornil, že takové omezení možnosti volit je v&nbsp;rozporu s&nbsp;Úmluvou OSN o právech osob ze zdravotním postižením. V <a href="https://apps.odok.cz/veklep-history-version?pid=KORNCJ9BFZQG">meziresortním&nbsp;připomínkovém řízení</a> Ministerstvo vnitra připomínku ombudsmana akceptovalo.</p>
 
-<p><img alt="principy_pristupnosti_volebnich_mistnosti.png" src="https://www.ochrance.cz/aktualne/jaka_jsou_uskali_pristupnosti_voleb_s_naplnenim_volebniho_prava_mohou_mit_problem_nejen_lide_s_postizenim_ale_napriklad_i_ti_omezeni_na_svobode/principy_pristupnosti_volebnich_mistnosti.png" /></p>
+<p><img alt="principy_pristupnosti_volebnich_mistnosti.png" src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/jaka_jsou_uskali_pristupnosti_voleb_s_naplnenim_volebniho_prava_mohou_mit_problem_nejen_lide_s_postizenim_ale_napriklad_i_ti_omezeni_na_svobode/principy_pristupnosti_volebnich_mistnosti.png" /></p>
 
 <p><strong>Vězněné osoby &ndash; překážky lidi k&nbsp;urnám nepustí</strong></p>
 

@@ -24,6 +24,6 @@ perex: Bývalí klienti Bohemia Energy a dalších dodavatelů energií, kteří
 
 <p><strong>Přílohy:</strong>&nbsp;</p>
 
-<p><a href="https://www.ochrance.cz/letaky/ochrana-spotrebitele/ochrana-spotrebitele.pdf">Leták &ndash; ochrana spotřebitele</a></p>
+<p><a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/ochrana-spotrebitele/ochrana-spotrebitele.pdf">Leták &ndash; ochrana spotřebitele</a></p>
 
-<p><a href="https://www.ochrance.cz/letaky/mop/mop.pdf">Leták &ndash; mimořádná okamžitá pomoc</a></p>
+<p><a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/mop/mop.pdf">Leták &ndash; mimořádná okamžitá pomoc</a></p>

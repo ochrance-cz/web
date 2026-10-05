@@ -20,7 +20,7 @@ attachments:
     file: https://www.ochrance.cz/aktualne/tisice_lidi_se_zdravotnim_postizenim_jsou_v_cesku_omezeni_ve_svepravnosti_pritom_by_mnohym_stacila_jen_podpora_shoduji_se_clenove_poradniho_organu_ombudsmana/
   - title: "Výzkum 2020: Křižovatky autonomie. Praxe soudů při rozhodování o
       podpůrných opatřeních"
-    file: https://www.ochrance.cz/uploads-import/ESO/Krizovatky_autonomie.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/Krizovatky_autonomie.pdf
 ---
 <p>S&nbsp;problémy při zacházení s vlastními uloženými penězi se muž žijící ve středních Čechách potýkal hned dvakrát: poprvé, když si chtěl zrušit stavební spoření a založit nové. Protože naspořil víc než dvacet tisíc korun, banka požadovala, aby za něj spoření obstarala opatrovnice. Podruhé se ocitl na čas bez prostředků, než se dostal k nové platební kartě, kterou banka poslala opatrovnici žijící v&nbsp;jiném městě. Muž přitom nutně potřeboval peníze na běžné výdaje, proto chtěl vybrat pět tisíc korun z&nbsp;vkladní knížky. Ve stížnosti ombudsmanovi popsal, že ani to mu s&nbsp;odkazem na opatrovnici na pobočce neumožnili. Také na vkladní knížce měl víc než dvacet tisíc.</p>
 

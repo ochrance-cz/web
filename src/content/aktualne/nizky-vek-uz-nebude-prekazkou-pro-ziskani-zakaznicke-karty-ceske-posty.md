@@ -1,0 +1,24 @@
+---
+title: Nízký věk už nebude překážkou pro získání zákaznické karty České pošty
+date: 2016-12-09T00:00:00.000Z
+perex: Česká pošta bude od 1. ledna 2017 poskytovat zákaznické karty nově taky
+  osobám mladším 15 let. Tuto změnu inicioval svým podnětem v roce 2014 tehdy
+  čtrnáctiletý stěžovatel, kterému Česká pošta odmítla zvýhodněnou kartu
+  s ohledem na jeho věk poskytnout. Se stížností neuspěl u Českého
+  telekomunikačního úřadu ani u poštovní ombudsmanky. Veřejná ochránkyně práv mu
+  však během svého šetření dala za pravdu a podmínky České pošty se proto změní
+  pro všechny.
+kategorie:
+  - tz
+---
+Český telekomunikační úřad (ČTÚ) si s podnětem našeho stěžovatele z počátku nevěděl příliš rady. Poštovní ombudsmanka pak jeho stížnost zamítla ze dvou důvodů. Prvním byla tehdejší nemožnost doručit doporučenou zásilku do vlastních rukou adresáta mladšího 15 let. Druhým důvodem je nezpůsobilost osob mladších 15 let udělit souhlas s užitím osobních údajů.
+
+Stěžovatel podmínky České pošty považoval za diskriminační, protože zákaznická karta přináší svým držitelům slevy na některé služby poskytované poštou a zjednodušuje podávání zásilek.
+
+Veřejná ochránkyně práv chápe motivy pošty týkající se ochrany osobních údajů a vnímá je jako legitimní. Nicméně platný souhlas se zpracováním osobních údajů může udělit nezletilá osoba se souhlasem zákonného zástupce i před dosažením 15 let věku, stejně tak jej může udělit samotný zákonný zástupce.
+
+Vyloučení všech osob mladších 15 let z poskytování zákaznické karty je proto nepřiměřeným opatřením. Zákaznická karta má vliv na podmínky poskytování a cenu základních služeb.  Proto jsou obchodní podmínky zákaznické karty podle ochránkyně součástí poštovních podmínek podléhajících kontrole ČTÚ. V rámci šetření došlo k vzájemnému vyjasnění, že ČTÚ sice v této věci nemůže České poště nařídit změnu podmínek zákaznické, ale může ji pokutovat, pokud by byly diskriminační.
+
+Česká pošta uznala výhrady veřejné ochránkyně práv a od 1. ledna 2017 mění podmínky pro vydávání zákaznických karet osobám mladším 15 let. Celé znění zprávy naleznete [zde](http://eso.ochrance.cz/Nalezene/Edit/4210 "Otevření do nového okna") .
+
+Už v minulém roce Česká pošta změnila podmínky pro přebírání zásilek do vlastních rukou tak, aby je mohli dostávat také adresáti mladší 15 let. Této změny dosáhl svým podnětem u veřejné ochránkyně práv stejný stěžovatel: [Adresáti mladší 15 let mají právo přebírat zásilky určené do vlastních rukou.](/aktualne/tiskove-zpravy-2016/adresati-mladsi-15-let-maji-pravo-prebirat-zasilky-urcene-do-vlastnich-rukou/)

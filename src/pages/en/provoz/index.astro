@@ -1,0 +1,18 @@
+---
+import PageHeader from '../../../components/site-copy/headers/en-provoz.astro';
+import * as pageCopy0 from '../../../components/page-content/section-pages-en/provoz.astro';
+// /en/provoz/ — list of operational-info pages (en).
+import { getCollection } from 'astro:content';
+import ListLayout from '../../../layouts/ListLayout.astro';
+
+const entries = (await getCollection('provoz-en'))
+  .filter((e) => !e.data.draft)
+  .sort((a, b) => a.data.title.localeCompare(b.data.title, 'cs'));
+
+const pages = entries.map((e) => ({
+  title: e.data.title,
+  href: `/en/provoz/${e.id}/`,
+}));
+import { data as section } from '../../../components/page-content/section-pages-en/provoz.astro';
+---
+<ListLayout title={section.title} lang="en" pages={pages} includeInSearchIndex={true} ><PageHeader slot="header" /></ListLayout>

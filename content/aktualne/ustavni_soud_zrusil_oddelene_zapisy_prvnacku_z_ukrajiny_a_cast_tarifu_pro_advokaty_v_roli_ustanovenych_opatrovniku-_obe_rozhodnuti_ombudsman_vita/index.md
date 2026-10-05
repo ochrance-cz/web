@@ -13,7 +13,7 @@ perex: <p>Školy už nebudou moci organizovat zvláštní zápisy pro ukrajinsk�
 attachments:
   - title: Vyjádření ombudsmana a dětského ombudsmana ke dvojím zápisům pro Ústavní
       soud – plné znění
-    link: https://www.ochrance.cz/aktualne/zastavi_ustavni_soud_oddelene_zapisy_prvnacku_z_ukrajiny_zruseni_je_namiste_shoduji_se_ombudsman_i_zastupce_detskeho_ombudsmana/vyjadreni_verejneho_ochrance_prav_a_ochrance_prav_deti.pdf
+    link: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/zastavi_ustavni_soud_oddelene_zapisy_prvnacku_z_ukrajiny_zruseni_je_namiste_shoduji_se_ombudsman_i_zastupce_detskeho_ombudsmana/vyjadreni_verejneho_ochrance_prav_a_ochrance_prav_deti.pdf
   - title: Tisková zpráva Ústavního soudu „Ústavní soud zrušil neústavní úpravu
       přijímání ukrajinských dětí k základnímu vzdělávání“
     link: https://www.usoud.cz/aktualne/ustavni-soud-zrusil-neustavni-upravu-prijimani-ukrajinskych-deti-k-zakladnimu-vzdelavani

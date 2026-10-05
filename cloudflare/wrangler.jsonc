@@ -1,0 +1,30 @@
+{
+  "$schema": "https://unpkg.com/wrangler@4/config-schema.json",
+  "name": "ochrance-web",
+  "main": "src/index.ts",
+  "compatibility_date": "2025-09-01",
+  // The account that holds the domekpolopate.cz zone comes from CLOUDFLARE_ACCOUNT_ID.
+  "assets": {
+    "directory": "../dist",
+    "binding": "ASSETS",
+    "html_handling": "auto-trailing-slash",
+    // No not_found_handling: a path without an asset must reach the Worker, which
+    // looks it up among the old URLs before answering with the 404 page.
+    //
+    // Everything that has an asset is served without running the Worker. These
+    // prefixes would otherwise be caught by the wildcard rules in _redirects and
+    // sent to the incomplete R2 snapshot.
+    "run_worker_first": ["/uploads-import/*", "/uploads-deti/*", "/fileadmin/user_upload/*", "/uploads/*"]
+  },
+  // workers.dev stays on so the build can be checked before the DNS cutover.
+  "workers_dev": true,
+  "routes": [
+    // www.ochrance.cz is a custom hostname (Cloudflare for SaaS) of this zone.
+    { "pattern": "www.ochrance.cz/*", "zone_name": "domekpolopate.cz" }
+  ],
+  "vars": {
+    "LEGACY_ORIGIN": "https://www.soubory.ochrance.cz",
+    "CDN_ASSETS": "https://cdn.nuasite.com/assets/ochrance-web-lj8h86"
+  },
+  "observability": { "enabled": true }
+}

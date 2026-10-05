@@ -6,5 +6,5 @@ vystupy:
   - vyzkumy
 attachmentsTop:
   - title: Křižovatky autonomie
-    file: https://www.ochrance.cz/uploads-import/ESO/Krizovatky_autonomie.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/Krizovatky_autonomie.pdf
 ---

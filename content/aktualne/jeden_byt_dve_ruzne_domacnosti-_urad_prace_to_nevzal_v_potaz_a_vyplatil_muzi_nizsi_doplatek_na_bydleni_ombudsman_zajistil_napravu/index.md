@@ -14,7 +14,7 @@ attachments:
     file: https://eso.ochrance.cz/Nalezene/Edit/14094
 ---
 <p>Nákupy či úklid každý sám za sebe &nbsp;– &nbsp;ač muž a žena sdíleli jeden byt, hospodařili zvlášť. Jazykem úřadů vedli dvě oddělené domácnosti. &nbsp;Nejde o zanedbatelný detail. Odvíjí se od něj výše doplatku na bydlení či tzv. 
-<a href="https://www.ochrance.cz/letaky/superdavka/superdavka.pdf">superdávky</a> (nové dávky sociální pomoci). Přesvědčil se o tom i muž, který si v bytě své spolubydlící a zároveň „domácí“ pronajímal jeden z&nbsp;pokojů.&nbsp;</p>
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/superdavka/superdavka.pdf">superdávky</a> (nové dávky sociální pomoci). Přesvědčil se o tom i muž, který si v bytě své spolubydlící a zároveň „domácí“ pronajímal jeden z&nbsp;pokojů.&nbsp;</p>
 <p>Když si na úřadu práce o doplatek požádal, dočkal se nižšího obnosu, než předpokládal. Částky stanovené jednotlivými rozhodnutími mu na úhradu bydlení nestačily. A tak se v jednom případě proti výši doplatku odvolal i na Ministerstvo práce a sociálních věcí. Neúspěšně. Obrátil se proto na ombudsmana Stanislava Křečka. Ten jeho případ prověřil a zjistil, že úředníci při výpočtu dávky chybovali.&nbsp;</p>
 <p>
 <i>„Úřad práce počítal s&nbsp;náklady na bydlení na jednu místnost v&nbsp;bytě. Místo toho však měl vzít v&nbsp;potaz náklady na celý byt a ty rovným dílem rozdělit mezi oba&nbsp;obyvatele. Muže tato chyba připravila o více než sedm a půl tisíce korun. Nakonec však úřad svůj omyl uznal a částku muži doplatil,"&nbsp;</i>sdělil ombudsman Stanislav Křeček 
@@ -46,6 +46,6 @@ attachments:
 <strong>Podrobnosti a další informace viz letáky ombudsmana:</strong></p>
 <ul>
 <li>
-<a href="https://www.ochrance.cz/letaky/doplatek-na-bydleni/doplatek-na-bydleni.pdf">„ Doplatek na bydlení“</a></li>
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/doplatek-na-bydleni/doplatek-na-bydleni.pdf">„ Doplatek na bydlení“</a></li>
 <li>„ 
-<a href="https://www.ochrance.cz/letaky/superdavka/superdavka.pdf">Superdávka</a>“&nbsp;</li></ul></blockquote>
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/superdavka/superdavka.pdf">Superdávka</a>“&nbsp;</li></ul></blockquote>

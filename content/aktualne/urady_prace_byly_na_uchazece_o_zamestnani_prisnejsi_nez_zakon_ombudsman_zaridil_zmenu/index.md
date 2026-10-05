@@ -14,7 +14,7 @@ perex: >
   o zaměstnanosti ale takovou povinnost lidem nestanovuje. Po upozornění
   ombudsmana teď Úřad práce poučení změnil.</p>
 attachments:
-  - file: https://www.ochrance.cz/aktualne/urady_prace_byly_na_uchazece_o_zamestnani_prisnejsi_nez_zakon_ombudsman_zaridil_zmenu/dodatek_k_zakladnimu_pouceni_uoz.pdf
+  - file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/urady_prace_byly_na_uchazece_o_zamestnani_prisnejsi_nez_zakon_ombudsman_zaridil_zmenu/dodatek_k_zakladnimu_pouceni_uoz.pdf
     title: Dodatek k základnímu poučení uchazeče o zaměstnání
 ---
 <p>Uchazeči o zaměstnání&nbsp;se už nemusí bát, že je úřad práce vyřadí z&nbsp;evidence kvůli nezákonným podmínkám pro sjednávání schůzek. Úřad změnil sporné poučení uchazečů, které kritizoval&nbsp; ombudsman i soudy, včetně <a href="https://vyhledavac.nssoud.cz/DokumentOriginal/Text/707599">Nejvyššího správního soudu</a>.</p>

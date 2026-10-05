@@ -1,0 +1,54 @@
+---
+import PageHeader from '../../components/site-copy/headers/cs-vystupy.astro';
+import * as pageCopy0 from '../../components/page-content/section-pages/vystupy.astro';
+// /vystupy/ — list of output categories. Mirrors the Hugo vystupy terms page
+// (layouts/vystupy/terms.html): an explicit `itemOrder` (from the section
+// frontmatter) first — including the hardcoded "Zpravodaj" link — then any
+// remaining `listed: true` categories, sorted by plural.
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import TextHeader from '../../components/TextHeader.astro';
+import LinkList from '../../components/LinkList.astro';
+import { url } from '../../lib/paths';
+
+const terms = (await getCollection('vystupy')) ?? [];
+
+import { data as section } from '../../components/page-content/section-pages/vystupy.astro';
+const itemOrder: string[] = String(section.itemOrder ?? '')
+  .split('\n')
+  .map((s) => s.trim())
+  .filter(Boolean);
+
+const byPlural = new Map(terms.map((c) => [c.data.plural ?? c.data.title, c]));
+
+const items: { link: string; text: string }[] = [];
+const seen = new Set<string>();
+
+for (const label of itemOrder) {
+  if (label === 'Zpravodaj') {
+    items.push({ link: url('cs', 'zpravodaj'), text: 'Zpravodaj' });
+    continue;
+  }
+  const term = byPlural.get(label);
+  if (term) {
+    items.push({ link: url('cs', 'vystupy', term.id), text: label });
+    seen.add(label);
+  }
+}
+
+// Remaining listed categories not already placed by itemOrder.
+terms
+  .filter((c) => c.data.listed === true && !seen.has(c.data.plural ?? c.data.title))
+  .sort((a, b) => (a.data.plural ?? a.data.title).localeCompare(b.data.plural ?? b.data.title, 'cs'))
+  .forEach((c) => items.push({ link: url('cs', 'vystupy', c.id), text: c.data.plural ?? c.data.title }));
+
+const pageTitle = section.title ?? 'Výstupy z činností';
+---
+<BaseLayout title={pageTitle} lang="cs">
+  <main>
+    <PageHeader />
+    <section>
+      <LinkList items={items} />
+    </section>
+  </main>
+</BaseLayout>

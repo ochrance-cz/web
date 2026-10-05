@@ -13,7 +13,7 @@ perex: >
   social change, such as the epidemic of covid and the war in Ukraine.</p>
 attachments:
   - title: Joint Statement - V4 Ombudsmen - 2022
-    file: https://www.ochrance.cz/en/aktualne/ombudsmen_from_the_czech_republic_hungary_and_poland_call_for_preserving_the_continuity_of_national_ombudsman_institutions_and_highlight_their_indispensable_role_in_democies_based_on_the_rule_of_law/joint_statement_v4_kromeriz_2022.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/en/aktualne/ombudsmen_from_the_czech_republic_hungary_and_poland_call_for_preserving_the_continuity_of_national_ombudsman_institutions_and_highlight_their_indispensable_role_in_democies_based_on_the_rule_of_law/joint_statement_v4_kromeriz_2022.pdf
 ---
 <p><em>&quot;We call on national governments and parliaments to ensure that the protection of human rights at the national level is in no way limited or compromised. This includes ensuring the continuity of the Ombudsman&#39;s office,&quot;</em> the ombudsmen said in their joint statement, referring to the situation in Slovakia, which has been without an ombudsman for many months. The Slovak Office was represented at this year&#39;s meeting of the V4 ombudsman institutions by the Director General of the Section for the Protection of Fundamental Rights and Freedoms Tomáš Čitbaj.</p>
 

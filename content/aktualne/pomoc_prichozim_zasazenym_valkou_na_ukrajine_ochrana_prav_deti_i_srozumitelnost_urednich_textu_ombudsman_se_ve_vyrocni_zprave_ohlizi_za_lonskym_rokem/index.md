@@ -16,7 +16,7 @@ perex: >
 attachments:
   - title: Výroční zpráva veřejného ochránce práv za rok 2022
     link: ""
-    file: https://www.ochrance.cz/dokument/zpravy_pro_poslaneckou_snemovnu_2022/vyrocni-zprava-2022.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/dokument/zpravy_pro_poslaneckou_snemovnu_2022/vyrocni-zprava-2022.pdf
 ---
 <h4><strong>Ombudsman se v&nbsp;95 % šetření s&nbsp;úřady domluví, aby své chyby napravily </strong></h4>
 
@@ -38,7 +38,7 @@ attachments:
 
 <p>Nejčastěji se na ombudsmana lidé obraceli v&nbsp;oblastech <strong>sociálního zabezpečení</strong> (1449 stížností); <strong>armády, police a vězeňství</strong> (521 stížností); <strong>stavebního řádu a regionálního rozvoje</strong> (503 stížností) a <strong>ochrany práv dětí, mládeže a rodiny</strong> (444 stížností). Nejvíce podnětů (10&nbsp;415) ale ombudsman v&nbsp;roce 2022 dostal v&nbsp;souvislosti se zmiňovanou očkovací vyhláškou.</p>
 
-<p><img alt="graf_do_tz_vyrocka.png" src="https://www.ochrance.cz/aktualne/pomoc_prichozim_zasazenym_valkou_na_ukrajine_ochrana_prav_deti_i_srozumitelnost_urednich_textu_ombudsman_se_ve_vyrocni_zprave_ohlizi_za_lonskym_rokem/graf_do_tz_vyrocka.png" /></p>
+<p><img alt="graf_do_tz_vyrocka.png" src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/pomoc_prichozim_zasazenym_valkou_na_ukrajine_ochrana_prav_deti_i_srozumitelnost_urednich_textu_ombudsman_se_ve_vyrocni_zprave_ohlizi_za_lonskym_rokem/graf_do_tz_vyrocka.png" /></p>
 
 <h4><strong>Očkovací vyhláška</strong></h4>
 

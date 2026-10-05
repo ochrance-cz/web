@@ -18,7 +18,7 @@ perex: <p>Hledáme pečlivého a komunikativního člověka, který v&nbsp;týmo
 <li>organizace konferencí, kulatých stolů, PR akcích a oficiálních návštěv, </li>
 <li>tvorba odborných podkladů pro veřejného&nbsp;ochránce&nbsp;práv,&nbsp;ochránce práv dětí a jejich zástupce a podílení se na PR ombudsmanů.&nbsp;</li></ul>
 <p>Bližší popis pracovní pozice i s&nbsp;ohledem na to, co může zajímat lidi se zdravotním omezením, najdete v&nbsp;
-<a href="/media/jak_vypada_prace_asistenta_vop_do_a_jejich_zastupce.pdf">tomto dokumentu</a>.</p>
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/media/jak_vypada_prace_asistenta_vop_do_a_jejich_zastupce.pdf">tomto dokumentu</a>.</p>
 <h4>
 <strong>Co od Vás očekáváme</strong></h4>
 <ul>
@@ -42,7 +42,7 @@ perex: <p>Hledáme pečlivého a komunikativního člověka, který v&nbsp;týmo
 <li>příspěvek na stravování ve výši 96 Kč na den,</li>
 <li>práci v&nbsp;centru Brna s&nbsp;možností parkování.</li></ul>
 <p>Záleží nám na&nbsp;rozmanitosti. Jste vítáni bez ohledu na&nbsp;věk, pohlaví, zdravotní stav, rasu, etnický původ, národnost, sexuální orientaci, náboženské vyznání či&nbsp;světový názor. Jsme náročný, ale férový zaměstnavatel. Pokud vás zajímá blíže, jak to u nás chodí, koukněte do naší&nbsp;
-<a href="https://www.ochrance.cz/media/personalni_strategie.pdf">personální strategie</a>.</p>
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/media/personalni_strategie.pdf">personální strategie</a>.</p>
 <p>Jestli se k&nbsp;nám chcete připojit, napište nám do&nbsp;
 <strong>4. února 2026</strong> na&nbsp;adresu&nbsp;
 <strong>michalcova@ochrance.cz</strong>.&nbsp; Připojte Váš strukturovaný životopis. Napište také, pokud máte nějaké specifické potřeby nebo doplňující otázky (například v&nbsp;souvislosti se zdravotním omezením).&nbsp;</p>

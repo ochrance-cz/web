@@ -1,0 +1,21 @@
+---
+title: Zástupce ochránkyně varuje před „nevyžádanými“ prémiovými SMS
+date: 2014-03-04T00:00:00.000Z
+perex: Prostřednictvím prémiových SMS zpráv je možné jednoduše a rychle koupit
+  jízdenku na MHD, zaplatit za parkování, hlasovat v televizní soutěži, zakoupit
+  si nový vyzváněcí tón apod. Někteří klienti si však stěžují, že podle
+  vyúčtování mobilního operátora mají platit částky v řádu několika set nebo
+  i tisíc korun za zaslání prémiových SMS zpráv, které si nevyžádali,
+  neobjednali a neudělili ani souhlas s jejich zasíláním.
+kategorie:
+  - tz
+---
+O těchto případech opakovaně informovala média a zabýval se jimi i zástupce veřejné ochránkyně práv Stanislav Křeček. Konstatoval, že každý klient, kterému jsou účtovány „nevyžádané“ prémiové SMS zprávy, se sice může obrátit na státní dozorové orgány (Český telekomunikační úřad, Úřad pro ochranu osobních údajů, Česká obchodní inspekce) s podezřením na spáchání správního deliktu, ale jejich pravomoci jsou limitované. Mohou sankcionovat protizákonné jednání, ale nemohou rozhodovat individuální spory.
+
+![](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/uploads/RTEmagicC_sms.jpg.jpg)Prémiové SMS nejsou službou elektronických komunikací, aby je mohl prověřit Český telekomunikační úřad. Prémiové SMS neposílají mobilní operátoři, ale různé společnosti, kterým operátoři pouze umožňují provoz dané služby a zajišťují výběr plateb od zákazníků. V rámci reklamačního řízení tak může ČTÚ pouze prověřit, zda došlo k zaslání zprávy, ale nikoli zda k zaslání existoval právní důvod (souhlas, objednání). Stížnosti klientů se však týkají neoprávněnosti účtování zpráv, tedy otázky platnosti uzavření smluvního vztahu mezi zasílatelem zpráv a jejich příjemcem (tj. existence souhlasu se zasíláním zpráv). Druhou stranou sporu, který **může rozhodnout výhradně soud**, tedy není mobilní operátor, ale zasílatel prémiové SMS zprávy.
+
+Zástupce ochránkyně Stanislav Křeček v této souvislosti upozorňuje, že na straně zasílatele zpráv může docházet k **bezdůvodnému obohacení** podle ustanovení § 2991 občanského zákoníku. Poškozený klient se ho může domáhat podáním žaloby k soudu. Jestliže si klient zaslání prémiové SMS zprávy skutečně neobjednal, vztahuje se na něj rovněž ustanovení § 1838 občanského zákoníku, dle něhož „dodal-li podnikatel spotřebiteli něco bez objednávky a ujal-li se spotřebitel držby, hledí se na spotřebitele jako na poctivého držitele. Spotřebitel nemusí na své náklady podnikateli nic vracet, ani ho o tom vyrozumět.“
+
+Každý uživatel mobilního telefonu by měl podle zástupce ochránkyně pečlivě zvažovat, kdy a jakému poskytovateli dá souhlas se zasíláním prémiových SMS zpráv. Je namístě zjistit si, zda individuální klientské nastavení umožňuje přijímání prémiových SMS zpráv. Jestliže klient služby třetích stran nevyužívá a ani v budoucnu jejich využití nepředpokládá, může operátora požádat o deaktivaci této služby. V případě obdržení „nevyžádaných“ prémiových SMS zpráv je třeba především komunikovat s mobilním operátorem a zjistit podrobnosti o odesílateli těchto zpráv. Poté je třeba co nejrychleji vyhledat kvalifikovanou právní pomoc a učinit potřebné kroky k ochraně svých práv, včetně podání **žaloby k civilnímu soudu** proti zasílateli prémiových SMS zpráv.
+
+Zástupce ochránkyně rovněž upozorňuje, že v případě, kdy je klientům zasílána prémiová SMS zpráva, která vzbuzuje dojem, že je pouze informační či inzertní SMS zprávou (např. nabídka zapojení do určité hry apod.), ačkoli jde ve skutečnosti o prémiovou SMS zprávu zpoplatněnou vyšší částkou, je namístě obrátit se i na **Úřad pro ochranu osobních údajů**. Ten může prověřit, zda je obchodní sdělení zasíláno v souladu se zákonem o některých službách informační společnosti.

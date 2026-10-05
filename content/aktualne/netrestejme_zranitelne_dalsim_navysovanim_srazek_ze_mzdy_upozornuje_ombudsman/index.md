@@ -13,9 +13,9 @@ perex: >
   dovolené.</p>
 attachments:
   - title: Informační leták ombudsmana Srážky ze mzdy
-    file: https://www.ochrance.cz/letaky/srazky-ze-mzdy/srazky-ze-mzdy.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/srazky-ze-mzdy/srazky-ze-mzdy.pdf
   - title: Dopis s apelem ombudsmana poslancům (ze října 2023)
-    file: https://www.ochrance.cz/aktualne/netrestejme_zranitelne_dalsim_navysovanim_srazek_ze_mzdy_upozornuje_ombudsman/dopis_ps_pcr.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/netrestejme_zranitelne_dalsim_navysovanim_srazek_ze_mzdy_upozornuje_ombudsman/dopis_ps_pcr.pdf
   - title: Související článek na Novinky.cz
     file: https://www.novinky.cz/clanek/ekonomika-vlada-zvazuje-novy-bic-na-dluzniky-40457157
   - file: https://www.clovekvtisni.cz/nevladni-organizace-zasadne-nesouhlasi-s-navrhem-exekutoru-na-zavedeni-tzv-fixni-srazky-v-exekuci-11017gp

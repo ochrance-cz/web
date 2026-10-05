@@ -50,6 +50,6 @@ perex: <p>Ledové sprchy, samotka, zesměšňování i krádeže… a potom svob
 <li>
 <strong>zajišťuje informovanost</strong>&nbsp;lidí s&nbsp;postižením, organizací hájící jejich práva a&nbsp;široké veřejnosti o&nbsp;činnost ombudsmana v&nbsp;oblasti monitorování podle Úmluvy. </li>
 <li>Poradní orgán má&nbsp;svůj&nbsp; 
-<a href="https://www.ochrance.cz/media/jednaci_rad_poradniho_organu.doc">Jednací řád</a>&nbsp;a&nbsp; 
-<a href="https://www.ochrance.cz/media/statut_poradniho_organu.docx">Statut</a>, 
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/media/jednaci_rad_poradniho_organu.doc">Jednací řád</a>&nbsp;a&nbsp; 
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/media/statut_poradniho_organu.docx">Statut</a>, 
 <a href="https://www.ochrance.cz/vystupy/poradni-organ-crpd/">Výstupy</a> poradního orgánu jsou veřejné.</li></ul></blockquote>

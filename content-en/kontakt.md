@@ -22,7 +22,7 @@ access:
 
     Take the tram heading in the direction of Masarykova čtvrt. Get off at Obilní trh (it takes about 10 minutes to get there). Follow the tram tracks and after 50 metres turn left to see the Office of the Public Defender of Rights.
   universal: ""
-  pic: /images/kontakt.jpg
+  pic: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/images/kontakt.jpg
 pressAgent:
   role: ""
   name: ""

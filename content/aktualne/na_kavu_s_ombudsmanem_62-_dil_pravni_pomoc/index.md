@@ -20,7 +20,7 @@ perex: >
 
 <p>&nbsp;</p>
 
-<p>Další informace naleznete také v&nbsp;našem letáku <a href="https://www.ochrance.cz/letaky/pravni-pomoc/pravni-pomoc.pdf">Právní pomoc</a>.</p>
+<p>Další informace naleznete také v&nbsp;našem letáku <a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/pravni-pomoc/pravni-pomoc.pdf">Právní pomoc</a>.</p>
 
 <p>&nbsp;</p>
 

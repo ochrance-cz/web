@@ -1,0 +1,15 @@
+---
+title: Kulatý stůl na téma věková diskriminace
+date: 2018-02-28T00:00:00.000Z
+perex: Ombudsmanka dnes pořádá kulatý stůl o právních aspektech věkové
+  diskriminace –  především v oblasti práce a zaměstnání. Kulatého stolu se
+  účastní zaměstnanci ministerstev, orgánů inspekce práce, soudci nebo zástupci
+  neziskového sektoru.
+kategorie:
+  - tz
+---
+Náplní kulatého stolu je seznámení s případy ombudsmanky; s případy, které řešily české soudy nebo Soudní dvůr EU, a diskuze nad nimi. Právničky kanceláře ombudsmanky také blíže představí účastníkům možnosti obrany, které lidé dotčení věkovou diskriminací mohou využít, a seznámí je s možnostmi dokazování diskriminace pomocí empirických dat. V neposlední řadě budou účastníci kulatého stolu moci sdílet své praktické zkušenosti z této oblasti.
+
+Věková diskriminace je tématem, kterému se ombudsmanka rozhodla se v roce 2018 věnovat, a upozornit tak na něj.
+
+Po kulatém stole se bude od 18:00 v prostorách Kanceláře konat promítání filmu Život začíná po stovce. Film dokumentuje příběh švédské blogerky, která se navzdory svému věku nebojí žít naplno.

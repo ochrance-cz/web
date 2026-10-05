@@ -9,7 +9,7 @@ perex: <p>Chcete se podílet na ochraně práv občanů a zlepšovat fungování
   státu nad územní samosprávou? Pokud jste si u některé z těchto otázek řekli
   ano, pak možná hledáme právě vás.</p>
 attachments:
-  - file: https://www.ochrance.cz/aktualne/hledame_pravnika_pravnicku_do_tymu_verejneho_poradku_zdravotnictvi_a_prace/jak_vypada_prace_v_odboru_verejne_spravy_zdravotnictvi_a_prace.pdf
+  - file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/hledame_pravnika_pravnicku_do_tymu_verejneho_poradku_zdravotnictvi_a_prace/jak_vypada_prace_v_odboru_verejne_spravy_zdravotnictvi_a_prace.pdf
     title: Jak vypadá práce právníka/právničky v odboru veřejného pořádku,
       zdravotnictví a práce?
 ---
@@ -24,7 +24,7 @@ attachments:
 <li>Vedení odborných seminářů pro pracovníky veřejné správy i laickou veřejnost.</li>
 <li>Reprezentace Kanceláře veřejného ochránce práv a ochránce práv dětí na národní i mezinárodní úrovni.</li></ul>
 <p>Bližší popis pracovní pozice i s&nbsp;ohledem na to, co může zajímat lidi se zdravotním omezením, najdete v 
-<a href="https://www.ochrance.cz/aktualne/hledame_pravnika_pravnicku_do_tymu_verejneho_poradku_zdravotnictvi_a_prace/jak_vypada_prace_v_odboru_verejne_spravy_zdravotnictvi_a_prace.pdf">přiloženém&nbsp;dokumentu</a>.</p>
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/hledame_pravnika_pravnicku_do_tymu_verejneho_poradku_zdravotnictvi_a_prace/jak_vypada_prace_v_odboru_verejne_spravy_zdravotnictvi_a_prace.pdf">přiloženém&nbsp;dokumentu</a>.</p>
 <h4>
 <strong>Co od Vás požadujeme:</strong></h4>
 <ul>
@@ -49,7 +49,7 @@ attachments:
 <li>příspěvek na stravování ve výši 89 Kč na den,</li>
 <li>práci v&nbsp;centru Brna s&nbsp;možností parkování.</li></ul>
 <p>Záleží nám na&nbsp;rozmanitosti. Jste vítáni bez ohledu na&nbsp;věk, pohlaví, zdravotní stav, rasu, etnický původ, národnost, sexuální orientaci, náboženské vyznání či&nbsp;světový názor. Jsme náročný, ale férový zaměstnavatel. Pokud vás zajímá blíže, jak to u nás chodí, koukněte do naší&nbsp; 
-<a href="https://www.ochrance.cz/media/personalni_strategie.pdf">personální strategie</a>.</p>
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/media/personalni_strategie.pdf">personální strategie</a>.</p>
 <p>Jestli se k&nbsp;nám chcete připojit, napište nám do&nbsp; 
 <strong>12. 11. 2025</strong> na&nbsp;adresu&nbsp; 
 <strong>wiszova@ochrance.cz</strong>. Napište nám, proč s&nbsp;námi chcete spolupracovat a připojte Váš strukturovaný životopis. Napište také, pokud máte nějaké specifické potřeby nebo doplňující otázky (například v&nbsp;souvislosti se zdravotním omezením).&nbsp;</p>

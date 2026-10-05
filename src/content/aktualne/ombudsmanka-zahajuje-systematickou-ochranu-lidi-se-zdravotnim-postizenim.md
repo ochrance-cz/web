@@ -1,0 +1,42 @@
+---
+title: Ombudsmanka zahajuje systematickou ochranu lidí se zdravotním postižením
+date: 2018-02-12T00:00:00.000Z
+perex: Veřejná ochránkyně práv se od 1. ledna 2018 komplexně zabývá naplňováním
+  práv lidí se zdravotním postižením. Prioritními oblastmi monitorování budou
+  vzdělání, práce, přístupnost, svéprávnost a sociální zabezpečení.
+kategorie:
+  - tz
+---
+Z údajů Českého statistického úřadu vyplývá, že nejméně každý desátý člověk v České republice je osobou se zdravotním postižením, jejich právům se až dosud systematicky nikdo nevěnoval.
+
+Od 1. ledna 2018 se ombudsmanka stala monitorovacím orgánem pro práva osob se zdravotním postižením. Její dosavadní působnost se tak rozšířila o provádění výzkumů, vydávání zpráv a doporučení k otázkám týkajícím se naplňování práv lidí se zdravotním postižením a o osvětovou činnost s cílem zvyšovat povědomí veřejnosti o právech lidí se zdravotním postižením.
+
+*„Až dosud se v České republice nikdo právy lidí se zdravotním postižením nezabýval komplexně a v nejširších souvislostech. Ombudsman vždy mohl řešit individuální stížnosti ve vztahu k orgánům státní správy a později i k otázkám rovného zacházení, až nyní ale můžeme skutečně plošně a systematicky pomáhat věci měnit a zlepšovat,“* oceňuje novou pravomoc ombudsmanka Anna Šabatová a dodává: *„Už nyní se na nás obracejí lide se zdravotním postižení s nejrůznějšími systémovými problémy, jako je dostupnost služeb pro děti a dospělé s poruchou autistického spektra, dostupnost terénních služeb, nedostatečná výše příspěvku na péči, která by reflektovala skutečnou potřebu a umožnila zajištění adekvátní služby. Narůstá i počet podnětů týkajících se problematiky zaměstnávání lidí s postižením na chráněném trhu práce. Už delší dobu se také zabýváme problematikou dostupnosti asistenčních a tlumočnických služeb.“*
+
+Jedním z prvořadých úkolů ombudsmanky je zřídit poradní orgán, který bude zárukou aktivního zapojení osob se zdravotním postižením do monitorování práv podle úmluvy. V jedenáctičlenném poradním orgánu by měli být lidé zastupující různé typy zdravotního postižení, lidé, kteří se angažují v oblasti ochrany práv osob se zdravotním postižením. Poradní orgán bude navrhovat systémová témata a priority, bude společně s ombudsmankou připomínkovat právní předpisy a zaujímat stanoviska ke strategickým dokumentům. *„Hlavním předpokladem pro členství v poradním orgánu je odbornost a zkušenost. Byla bych ráda, kdyby se do něj zapojily všechny skupiny zdravotně postižených,“* vysvětluje ombudsmanka.
+
+12\. února zahajuje ombudsmanka sérii setkání v regionech, na která jsou zváni lidé se zdravotním postižením a organizace, v nichž se sdružují, organizace pracující s lidmi se zdravotním postižením, lidé hájící práva lidí se zdravotním postižením i široká veřejnost. Právě zde se bude poprvé diskutovat o tématech, kterým by se měla ombudsmanka věnovat, a rovněž zde bude možné nominovat členy poradního orgánu. První setkání určené pro Jihomoravský a Olomoucký kraj se uskuteční v Brně 12. 2., následují setkání v Liberci (19. 2.), Českých Budějovicích (23. 2.), Karlových Varech (28. 2.), Hradci Králové (2. 3.), Ostravě (14. 3.) a v Praze. Podrobnosti jsou na www.ochrance.cz.
+
+### Prioritní témata
+
+*„Postupně se budeme zabývat všemi oblastmi uvedenými v Úmluvě, tedy přístupností, svéprávností, životem v komunitě, vzděláním, prací a zaměstnáním a sociálním zabezpečením. Jsou vzájemně propojeny a doplňují se. Určují také standard, k němuž by společnost měla směřovat. V každé oblasti si proto budeme postupně stanovovat priority, které budeme sledovat, a na základě zjištění a zhodnocení budeme formulovat doporučení,“* vysvětluje ombudsmanka.
+
+##### Přístupnost
+
+Aby lidé se zdravotním postižením mohli žít nezávisle a zapojovat se do všech oblastí života, musí mít zajištěn přístup do budov, k dopravě, informacím, službám a zařízením poskytovaným veřejně. Stěžejním úkolem tedy bude ověřit, zda a jak stát vyhlásil minimální standardy přístupnosti a jak sleduje jejich plnění. Je totiž povinností státu odstraňovat překážky bránící přístupnosti, vyhlásit minimální standardy přístupnosti u nových staveb a služeb a vypracovat plán na odstranění stávajících překážek. Budeme zjišťovat, jaký podíl konkrétních typů budov (školy, zdravotnická zařízení, úřady) splňuje minimální standardy přístupnosti. Zaměříme se také na reálnou dostupnost asistenčních a tlumočnických služeb, jejich časovou, místní i finanční dostupnost. Kromě povinnost označovat veřejně přístupné budovy také v Braillově písmu a ve snadno srozumitelných formách, totiž úmluva OSN také zdůrazňuje, že lidé se zdravotním postižením mají mít k dispozici různé formy asistence, včetně profesionálních tlumočníků znakového jazyka, průvodců a předčitatelů.
+
+##### Svéprávnost
+
+Lidé se zdravotním postižením mají právo rozhodovat o sobě samých a svém životě. K tomu jim stát musí zajistit potřebnou podporu. Je třeba zajistit, aby lidé se zdravotním postižením mohli účinně projevovat svou vůli a ta byla respektována. Budeme proto sledovat, jestli stát definuje nástroje podpory a nástroje prevence zneužití, jak probíhá kontrola a opatření k nápravě.
+
+##### Vzdělání
+
+Ombudsmanka se zaměří např. na mapování situace ve vzdělávání, na sledování procesu inkluze ve vztahu k přiměřenosti úprav pro studenty se zdravotním postižením. Kvalitní inkluzivní vzdělání je totiž nutné k plnému zapojení lidí se zdravotním postižením do společnosti. Je třeba zpřístupnit výuku speciálních dovedností (český znakový jazyk, Braillovo písmo aj.), poskytnout lidem se zdravotním postižením dostatečné a individuální úpravy ve vzdělávání. Rovněž je nutné vzdělávat pedagogy i studenty v přijímání lidí s jejich odlišnostmi. Ombudsmanka se rovněž zaměří na zlepšování spolupráce rodičů, škol a speciálních pedagogických poraden.
+
+##### Práce a zaměstnání
+
+Lidé se zdravotním postižením nesmí být diskriminováni na pracovním trhu. Mají mít stejné příležitosti a stejné možnosti odměny za práci jako zdravé osoby. Musí mít stejnou možnost rozhodnout se o volbě povolání a mají právo na přiměřenou pomoc při hledání vhodného zaměstnání. Stát by také měl definovat prostředky podpory zaměstnávání osob se zdravotním postižením. Ombudsmanka se proto zaměří na to, zda existují právně zakotvené a vymahatelné záruky ochrany lidí se zdravotním postižením na trhu práce před diskriminací a zneužíváním. Bude zjišťovat, jestli stát kontroluje zneužívání nástrojů a opatření na podporu zaměstnávání osob se zdravotním postižením, jak stát definuje sankce a jaká je úroveň zaměstnanosti lidí se zdravotním postižením.
+
+##### Životní úroveň a sociální ochrana
+
+Lidé se zdravotním postižením mají právo na přiměřenou životní úroveň a stát jim má garantovat sociální ochranu. Musí také poskytnout záruky, že lidé se zdravotním postižením budou mít stejný přístup ke všem státem nabízeným benefitům. Ombudsmana proto bude zjišťovat, zda je lidem se zdravotním postižením zajištěno odpovídající poradenství, finanční pomoc a respitní péče, zda je naplňováno jejich právo na odpovídající kompenzační pomůcky a další pomoc, která jim usnadní každodenní život. Bude také sledovat, zda mají lidé se zdravotním postižením přístup k programům sociální ochrany a programům snížení chudoby, k odpovídajícím dávkovým systémům, k programům sociálního bydlení apod.

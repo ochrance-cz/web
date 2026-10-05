@@ -17,7 +17,7 @@ perex: >
   Institution (NHRI).</p>
 attachments:
   - title: V4 Ombudsmen Joint Declaration 2023
-    file: https://www.ochrance.cz/en/aktualne/in_a_joint_statement_the_representatives_of_the_ombuds_institutions_of_the_visegrad_four_countries_stressed_that_any_extension_of_their_powers_requires_adequate_funding_and_staffing/v4_ombudsmen_joint_declaration_2023.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/en/aktualne/in_a_joint_statement_the_representatives_of_the_ombuds_institutions_of_the_visegrad_four_countries_stressed_that_any_extension_of_their_powers_requires_adequate_funding_and_staffing/v4_ombudsmen_joint_declaration_2023.pdf
 ---
 <p><em>&bdquo;The public authorities primarily responsible for the budgets of the ombuds institutions must consider that assigning new responsibilities to our institutions without a corresponding increase in resources significantly impedes our ability to provide effective assistance to individuals in need,&ldquo;</em> said the ombudsmen from Poland, Hungary and Slovakia and Czech Deputy Ombudsman Vít Alexander Schorm in a joint statement.</p>
 

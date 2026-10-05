@@ -1,0 +1,38 @@
+---
+import Downloads from '../../../../components/letaky/Downloads.astro';
+// Leaflet detail (en) — mirror of /letaky/<slug>/ from the letaky-en collection.
+// Same shared Hugo layouts/letaky/single.html structure as the cs detail, so the
+// download button label is the hardcoded Czech "Stáhnout dokument" (matches prod).
+import BaseLayout from '../../../../layouts/BaseLayout.astro';
+import TextHeader from '../../../../components/TextHeader.astro';
+import { getCollection } from 'astro:content';
+import MarkdownContent from '../../../../components/MarkdownContent.astro';
+import { detailSlug } from '../../../../components/letaky/helpers';
+import { getLeafletAttachments } from '../../../../lib/leaflet-attachments';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('letaky-en');
+  return entries.map((entry) => ({
+    params: { slug: detailSlug(entry) },
+    props: { entry },
+  }));
+}
+
+const LOCALE = 'en' as const;
+const { entry } = Astro.props;
+const { title, file } = entry.data;
+---
+<BaseLayout title={title} lang={LOCALE}>
+  <main data-pagefind-body>
+    <TextHeader title={title} locale={LOCALE} />
+
+    <div>
+      <section>
+        <MarkdownContent content={entry.body} />
+
+        {file && <a href={file} class="_button">Download document</a>}
+        <Downloads locale={LOCALE} {...entry.data} attachments={getLeafletAttachments(LOCALE, entry.id)} />
+      </section>
+    </div>
+  </main>
+</BaseLayout>

@@ -33,9 +33,9 @@ perex: >
 
 <p><a href="https://eso.ochrance.cz/Nalezene/Edit/9850">Křižovatky ochrany. Zkušenosti obcí při výkonu opatrovnictví a dalších úkonech při ochraně zranitelných dospělých</a> &ndash; výzkumná zpráva, 2021</p>
 
-<p><a href="https://www.ochrance.cz/uploads-import/CRPD/Vyzkumy/2018_61_Vyzkum-svepravnost.pdf">Křižovatky autonomie. Praxe soudů při rozhodování o podpůrných opatřeních</a> &ndash; výzkumná zpráva, 2021</p>
+<p><a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/CRPD/Vyzkumy/2018_61_Vyzkum-svepravnost.pdf">Křižovatky autonomie. Praxe soudů při rozhodování o podpůrných opatřeních</a> &ndash; výzkumná zpráva, 2021</p>
 
-<p><a href="https://www.ochrance.cz/letaky/opatrovnik/opatrovnik.pdf">Opatrovník</a> -&nbsp; leták</p>
+<p><a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/opatrovnik/opatrovnik.pdf">Opatrovník</a> -&nbsp; leták</p>
 
 <p><a href="https://www.ochrance.cz/aktualne/verejny-opatrovnik-nesmi-prenaset-sve-povinnosti-na-poskytovatele-pobytove-socialni-sluz/">Tisková zpráva 15.&nbsp;září 2020</a> - Veřejný opatrovník nesmí přenášet své povinnosti na poskytovatele pobytové sociální služby</p>
 

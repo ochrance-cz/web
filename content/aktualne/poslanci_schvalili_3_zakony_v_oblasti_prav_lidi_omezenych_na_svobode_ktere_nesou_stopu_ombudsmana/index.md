@@ -9,7 +9,7 @@ perex: <p>Sněmovna schválila ve třetím čtení tři důležitá témata veř
   změny přijmou, začne vše platit od 1. ledna 2026.</p>
 attachments:
   - title: "Výzkumná zpráva: Zranitelné skupiny lidí v ochranném léčení"
-    file: https://www.ochrance.cz/uploads-import/ESO/10-2023-NZ_vyzkumna_zprava.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/10-2023-NZ_vyzkumna_zprava.pdf
   - file: https://www.ochrance.cz/aktualne/ombudsman_prinasi_prvni_ucelenou_analyzu_dat_zamerenych_na_zranitelne_pacienty_v_ochrannem_leceni/
     title: "Tisková zpráva ze dne 15. 11. 2024: Ombudsman přináší první ucelenou
       analýzu dat zaměřených na zranitelné pacienty v ochranném léčení"

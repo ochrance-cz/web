@@ -1,0 +1,43 @@
+---
+import PageHeader from '../../components/site-copy/headers/cs-dokument.astro';
+import * as pageCopy0 from '../../components/page-content/section-pages/dokument.astro';
+// Documents listing — mirrors layouts/_default/list.html: a single page listing
+// ALL documents (newest first) as article previews (h3 link + perex). No pagination,
+// no dates/tags — exactly as the original Hugo _default/list.html renders.
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import TextHeader from '../../components/TextHeader.astro';
+import { renderMarkdown } from '../../lib/markdown';
+
+export async function getStaticPaths() {
+  const dtime = (d: Date | string | undefined) => (d ? new Date(d).getTime() || 0 : 0);
+  const entries = (await getCollection('dokument', (e) => !e.data.draft)).sort(
+    (a, b) => dtime(b.data.date) - dtime(a.data.date),
+  );
+  const previews = await Promise.all(
+    entries.map(async (entry) => ({
+      id: entry.id,
+      title: entry.data.title,
+      perexHtml: entry.data.perex ? await renderMarkdown(entry.data.perex) : '',
+    })),
+  );
+  return [{ params: { page: undefined }, props: { previews } }];
+}
+
+const { previews } = Astro.props;
+import { data as section } from '../../components/page-content/section-pages/dokument.astro';
+---
+<BaseLayout title={section.title} lang="cs">
+  <main data-pagefind-weight="10">
+    <PageHeader />
+
+    <section>
+      {previews.map((p) => (
+        <article class="_article-preview">
+          <h3><a href={`/dokument/${p.id}/`}>{p.title}</a></h3>
+          {p.perexHtml && <Fragment set:html={p.perexHtml} />}
+        </article>
+      ))}
+    </section>
+  </main>
+</BaseLayout>

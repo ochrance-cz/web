@@ -11,9 +11,9 @@ perex: >
   nejčastější podněty a problémy, ale také doporučení ke změnám právních
   předpisů nebo vydané sankce v případech, kdy nedosáhl nápravy.</p>
 attachments:
-  - file: https://www.ochrance.cz/aktualne/ombudsman_dostal_vloni_7_988_podnetu_zahajil_849_setreni_z_toho_56_z_vlastni_iniciativy_prehled_cinnosti_prinasi_ve_vyrocni_zprave/vyznamne_momenty_roku_2021.pdf
+  - file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/ombudsman_dostal_vloni_7_988_podnetu_zahajil_849_setreni_z_toho_56_z_vlastni_iniciativy_prehled_cinnosti_prinasi_ve_vyrocni_zprave/vyznamne_momenty_roku_2021.pdf
     title: Významné momenty roku 2021
-  - file: https://www.ochrance.cz/dokument/zpravy_pro_poslaneckou_snemovnu_2021/vyrocni-zprava-2021.pdf
+  - file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/dokument/zpravy_pro_poslaneckou_snemovnu_2021/vyrocni-zprava-2021.pdf
     title: Výroční zpráva roku 2021
 ---
 <p>V roce 2021 přišlo ombudsmanovi 7 988 podnětů, celých 70 % z&nbsp;nich spadalo do působnosti veřejného ochránce práv a mohl se jimi zabývat. Po poklesu v prvním&nbsp;&bdquo;covidovém&ldquo; roce tak podíl podnětů v&nbsp;působnosti vloni opět stoupl.</p>
@@ -46,7 +46,7 @@ attachments:
 
 <h3><strong>Rovné zacházení a diskriminace</strong></h3>
 
-<p>Téma covidových opatření rezonovalo i v&nbsp;agendě rovného zacházení. Zabývali jsme se pravidly testování žáků ve školách nebo možnostmi očkování pro cizince. V létě vyšla první z řady <a href="https://www.ochrance.cz/uploads-import/ESO/OMBUDSMAN-NF_monitor-z-01_CZ.pdf">monitorovacích zpráv o rovném zacházení</a>. Popisujeme v&nbsp;ní kritéria pro další systematické sledování problematiky vzdělávání Romů, rovného odměňování žen a mužů a některých procesních otázek.</p>
+<p>Téma covidových opatření rezonovalo i v&nbsp;agendě rovného zacházení. Zabývali jsme se pravidly testování žáků ve školách nebo možnostmi očkování pro cizince. V létě vyšla první z řady <a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/OMBUDSMAN-NF_monitor-z-01_CZ.pdf">monitorovacích zpráv o rovném zacházení</a>. Popisujeme v&nbsp;ní kritéria pro další systematické sledování problematiky vzdělávání Romů, rovného odměňování žen a mužů a některých procesních otázek.</p>
 
 <h3><strong>Monitorování práv lidí s postižením</strong></h3>
 
@@ -58,6 +58,6 @@ attachments:
 
 <h3><strong>Vybraná fakta</strong></h3>
 
-<p><img alt="1.png" src="https://www.ochrance.cz/aktualne/ombudsman_dostal_vloni_7_988_podnetu_zahajil_849_setreni_z_toho_56_z_vlastni_iniciativy_prehled_cinnosti_prinasi_ve_vyrocni_zprave/1.png" /><img alt="2.png" src="https://www.ochrance.cz/aktualne/ombudsman_dostal_vloni_7_988_podnetu_zahajil_849_setreni_z_toho_56_z_vlastni_iniciativy_prehled_cinnosti_prinasi_ve_vyrocni_zprave/2.png" /></p>
+<p><img alt="1.png" src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/ombudsman_dostal_vloni_7_988_podnetu_zahajil_849_setreni_z_toho_56_z_vlastni_iniciativy_prehled_cinnosti_prinasi_ve_vyrocni_zprave/1.png" /><img alt="2.png" src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/ombudsman_dostal_vloni_7_988_podnetu_zahajil_849_setreni_z_toho_56_z_vlastni_iniciativy_prehled_cinnosti_prinasi_ve_vyrocni_zprave/2.png" /></p>
 
 <h3>&nbsp;</h3>

@@ -12,7 +12,7 @@ perex: >
   rozvoj. Žádá nápravu.</p>
 attachments:
   - title: Dopis ministrovi pro místní rozvoj
-    file: https://www.ochrance.cz/aktualne/informacni_system_mel_urychlit_stavebni_rizeni_zatim_jej_ale_naopak_zdrzuje_stezuji_si_stavebni_urady/dopis_ministru_ivanu_bartosovi.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/informacni_system_mel_urychlit_stavebni_rizeni_zatim_jej_ale_naopak_zdrzuje_stezuji_si_stavebni_urady/dopis_ministru_ivanu_bartosovi.pdf
 ---
 <p>Podle stavebních úřadů nový informační systém práci nezrychluje, ale naopak prodlužuje jakýkoliv úkon, a to nikoliv v zanedbatelné míře. Ombudsmanovi se množí stížnosti stavebních úřadů. Nespokojenost zaznamenal také v&nbsp;médiích. &nbsp;<em>&bdquo;Za jednu z nejvážnějších výhrad, která se v reakcích stavebních úřadů opakuje, považuji, že nový systém práci úředníků zpomaluje, místo toho, aby ji zjednodušil a urychlil,</em>&ldquo;<em> </em>uvedl ombudsman Stanislav Křeček.</p>
 

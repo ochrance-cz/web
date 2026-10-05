@@ -25,12 +25,12 @@ perex: <p>Do konce srpna si můžou lidé prohlédnout výstavu komiksů přímo
 <td>
 <p>&nbsp;</p>
 <figure class="image">
-<img src="https://www.ochrance.cz/aktualne/vystava_komiksu_s_nazvem_kreslena_pravda_je_k_videni_v_brne_v_nasi_kancelari_vystavujeme_dila_mladych_umelcu_na_tema_obchodovani_s_lidmi/4.png" alt="Na snímnku je jeden z vystavených návrhů výstavy."></figure>
+<img src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/vystava_komiksu_s_nazvem_kreslena_pravda_je_k_videni_v_brne_v_nasi_kancelari_vystavujeme_dila_mladych_umelcu_na_tema_obchodovani_s_lidmi/4.png" alt="Na snímnku je jeden z vystavených návrhů výstavy."></figure>
 <p>&nbsp;</p></td>
 <td>
 <p>&nbsp;</p>
 <figure class="image">
-<img src="https://www.ochrance.cz/aktualne/vystava_komiksu_s_nazvem_kreslena_pravda_je_k_videni_v_brne_v_nasi_kancelari_vystavujeme_dila_mladych_umelcu_na_tema_obchodovani_s_lidmi/2.png" alt="Na obrázku je dětský pěvecký sbor, který přišel výstavu zahájit."></figure>
+<img src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/vystava_komiksu_s_nazvem_kreslena_pravda_je_k_videni_v_brne_v_nasi_kancelari_vystavujeme_dila_mladych_umelcu_na_tema_obchodovani_s_lidmi/2.png" alt="Na obrázku je dětský pěvecký sbor, který přišel výstavu zahájit."></figure>
 <p>&nbsp;</p></td></tr></tbody></table></figure>
 <p>Potřeba zvyšovat povědomí o nucené práci mezi dětmi vzrostla spolu s&nbsp;přílivem dětí a mladistvých, kteří se do Česka odstěhovali v&nbsp;důsledku ruské invaze na Ukrajinu. Ti se často ocitají ve velmi zranitelné pozici. Z&nbsp;potřeby komunikovat více s dětmi vzešel nápad nechat mladé lidi najít jazyk, kterému jasně a názorně porozumí. A tím jazykem se staly příběhy zpracované komiksem.</p>
 <blockquote>

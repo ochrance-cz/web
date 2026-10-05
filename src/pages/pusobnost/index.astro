@@ -1,0 +1,24 @@
+---
+// Listing of the Ombudsman's scope of authority (cs). Mirrors /pusobnost/
+// (layouts/_default/list.html): text-header + section of `_article-preview`
+// child previews (NOT a card grid).
+import { getCollection } from 'astro:content';
+import ListLayout from '../../layouts/ListLayout.astro';
+
+const TITLE = 'Působnost ombudsmana';
+
+const pages = (await getCollection('pusobnost'))
+  .filter((e) => !e.data.draft)
+  .sort((a, b) => {
+    const wa = a.data.weight ?? Number.POSITIVE_INFINITY;
+    const wb = b.data.weight ?? Number.POSITIVE_INFINITY;
+    if (wa !== wb) return wa - wb;
+    return a.data.title.localeCompare(b.data.title, 'cs');
+  })
+  .map((e) => ({
+    title: e.data.title,
+    href: `/pusobnost/${e.id}/`,
+    perex: e.data.perex,
+  }));
+---
+<ListLayout title={TITLE} lang="cs" pages={pages} />

@@ -1,0 +1,19 @@
+---
+// Language switch: cs `/` <-> en `/en/`. Pass `href` for a translated page.
+interface Props {
+  locale: 'cs' | 'en';
+  href?: string;
+}
+
+const { locale, href } = Astro.props;
+
+const toEnglish = locale === 'cs';
+const target = href ?? (toEnglish ? '/en/' : '/');
+const code = toEnglish ? 'EN' : 'CS';
+const lang = toEnglish ? 'en' : 'cs';
+const ariaLabel = toEnglish ? 'EN: English version' : 'CS: Česká verze';
+---
+<li lang={lang} class="language-tools">
+  <a tabindex="0" href={target} class="lang" aria-label={ariaLabel}>{code}</a>
+  <slot />
+</li>

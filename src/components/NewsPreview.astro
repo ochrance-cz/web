@@ -1,0 +1,57 @@
+---
+// News card: image, title, date, perex, tags.
+import { renderMarkdown } from '../lib/markdown';
+import FormattedDate from './FormattedDate.astro';
+import Tags from './Tags.astro';
+
+interface Props {
+  href: string;
+  title: string;
+  pic?: string;
+  perex?: string;
+  date?: Date | string;
+  tags?: string[];
+  icon?: string;
+  locale?: 'cs' | 'en';
+  headingLevel?: 2 | 3 | 4 | 5;
+  showMeta?: boolean;
+}
+
+const {
+  href,
+  title,
+  pic,
+  perex,
+  date,
+  tags = [],
+  icon = 'arrow',
+  locale = 'cs',
+  headingLevel = 3,
+  showMeta = true,
+} = Astro.props;
+
+const Heading = `h${headingLevel}` as 'h2' | 'h3' | 'h4' | 'h5';
+const perexHtml = perex ? await renderMarkdown(perex) : '';
+---
+<article class="_news-preview">
+  {pic && (
+    <div class="img-wrapper">
+      <img src={pic} alt="" aria-hidden="true" />
+    </div>
+  )}
+
+  <div class="content-wrapper">
+    <Heading>
+      <a href={href}><span class={`icon-${icon}`} aria-hidden="true"></span>{title}</a>
+    </Heading>
+
+    {date && showMeta && (
+      <p class="details">
+        <FormattedDate date={date} locale={locale} />
+        <Tags tags={tags} />
+      </p>
+    )}
+
+    {perexHtml && <Fragment set:html={perexHtml} />}
+  </div>
+</article>

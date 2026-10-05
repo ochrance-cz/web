@@ -21,7 +21,7 @@ attachments:
   - title: Tisková zpráva ze dne 2. 12. 2022 - Lidé s postižením chtějí být slyšet
     file: https://www.ochrance.cz/aktualne/lide_s_postizenim_chteji_byt_slyset_pomaha_jim_v_tom_i_ombudsman/
   - title: Leták - stížnost na sociální službu
-    file: https://www.ochrance.cz/letaky/stiznost-na-socialni-sluzbu/stiznost-na-socialni-sluzbu.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/stiznost-na-socialni-sluzbu/stiznost-na-socialni-sluzbu.pdf
 ---
 <p><em>&bdquo;Věřím, že se z&nbsp;tragického osudu Doroty Šandorové dokážeme poučit a instituce odpovědné za dostupné, kvalitní a bezpečné služby začnou činit kroky tak, aby lidé s&nbsp;postižením mohli žít v&nbsp;komunitě s&nbsp;odpovídající podporou. Pro Dorotu Šandorovou je již pozdě. Za zdmi ústavů ale žije spousta lidí s postižením, u nichž máme stále možnost jejich příběh změnit,</em>&ldquo; uvedl ombudsman Stanislav Křeček.</p>
 

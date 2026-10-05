@@ -11,7 +11,7 @@ perex: >
   akce podle nich představují hrubé a bezprecedentní porušení mezinárodního
   práva a útok na hodnoty demokratické a civilizované společnosti.</p>
 attachments:
-  - file: https://www.ochrance.cz/aktualne/predstavitele_ombudsmanskych_instituci_statu_visegradske_ctyrky_ruskou_vojenskou_agresi_proti_ukrajine_nelze_ospravedlnit_zadnymi_prostredky_a_argumenty/v4-ombudsmen-joint-statement.pdf
+  - file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/predstavitele_ombudsmanskych_instituci_statu_visegradske_ctyrky_ruskou_vojenskou_agresi_proti_ukrajine_nelze_ospravedlnit_zadnymi_prostredky_a_argumenty/v4-ombudsmen-joint-statement.pdf
     title: Společné prohlášení ombudsmanů států V4
 ---
 

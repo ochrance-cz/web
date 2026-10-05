@@ -27,4 +27,4 @@ perex: >
 
 <p>Proto je podle ombudsmana potřeba nejprve jednorázově zvýšit příspěvky na péči, aby alespoň odpovídaly úrovni podpory pro osoby se zdravotním postižením v roce 2007. Teprve pak se dá zavést jejich pravidelná valorizace.</p>
 
-<p>Podrobnosti ke všem legislativním doporučením jsou shrnuté ve <a href="https://www.ochrance.cz/dokument/zpravy_pro_poslaneckou_snemovnu_2022/vyrocni-zprava-2022.pdf">výroční zprávě</a> veřejného ochránce práv za rok 2022 na stranách 10 až 13.</p>
+<p>Podrobnosti ke všem legislativním doporučením jsou shrnuté ve <a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/dokument/zpravy_pro_poslaneckou_snemovnu_2022/vyrocni-zprava-2022.pdf">výroční zprávě</a> veřejného ochránce práv za rok 2022 na stranách 10 až 13.</p>

@@ -24,7 +24,7 @@ attachments: []
 
 <p>&nbsp;</p>
 
-<p><img alt="3a.jpg" src="https://www.ochrance.cz/aktualne/ombudsman_se_pripojil_k_oslave_steho_vyroci_prav_deti_na_bratislavskem_hrade/3a.jpg" /></p>
+<p><img alt="3a.jpg" src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/ombudsman_se_pripojil_k_oslave_steho_vyroci_prav_deti_na_bratislavskem_hrade/3a.jpg" /></p>
 
 <p>&nbsp;</p>
 

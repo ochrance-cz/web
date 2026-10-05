@@ -15,8 +15,8 @@ perex: >
   systematicky zabývat.</p>
 attachments:
   - title: Doporučení veřejného ochránce práv
-    file: https://www.ochrance.cz/uploads-import/ESO/Doporu%C4%8Den%C3%AD%2054-2024-OZP-PH-2%20final_001.pdf
-  - file: https://www.ochrance.cz/aktualne/chronicky_unavovy_syndrom_meni_zivoty_lidi_presto_se_o_nem_malo_vi-_zastupce_ombudsmana_zada_ministerstvo_zdravotnictvi_aby_se_onemocnenim_zacalo_zabyvat/chronicky_unavovy_syndrom.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/Doporu%C4%8Den%C3%AD%2054-2024-OZP-PH-2%20final_001.pdf
+  - file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/chronicky_unavovy_syndrom_meni_zivoty_lidi_presto_se_o_nem_malo_vi-_zastupce_ombudsmana_zada_ministerstvo_zdravotnictvi_aby_se_onemocnenim_zacalo_zabyvat/chronicky_unavovy_syndrom.pdf
     title: Leták s fakty o chronickém únavovém syndromu
 ---
 <p>&bdquo;<em>Z&nbsp;veřejně dostupných zdrojů usuzuji, že se stát systematicky nevěnuje situaci lidí s&nbsp;ME/CFS a nesbírá o ní data.</em> <em>Situaci těchto lidí považuji za závažnou, přičemž stát dosud nepodnikl žádné kroky k&nbsp;jejímu zlepšení.</em> <em>Proto vydávám doporučení k&nbsp;podpoře naplňování jejich práv</em>,&ldquo; uvedl zástupce ombudsmana Vít Alexander Schorm. Doporučení má sloužit jako podklad pro další diskuzi s&nbsp;politiky, úřady a&nbsp;odborníky.</p>
@@ -31,7 +31,7 @@ attachments:
 
 <p>Téměř polovina lidí, kteří pociťují příznaky chronického únavového syndromu, diagnózu stále nemá stanovenu. Podle studie Nadačního fondu Neúnavní se 70&nbsp;% dotazovaných nikdy nesetkalo s&nbsp;lékařem, který má znalosti o onemocnění ME/CFS. Chybějící povědomí o nemoci může vést k&nbsp;pozdní nebo nesprávné diagnóze a&nbsp;doporučování nevhodné léčby. Neexistuje žádné pracoviště, které by se na toto onemocnění specializovalo.</p>
 
-<p><img alt="chronicky_unavovy_syndrom_1_.png" src="https://www.ochrance.cz/aktualne/chronicky_unavovy_syndrom_meni_zivoty_lidi_presto_se_o_nem_malo_vi-_zastupce_ombudsmana_zada_ministerstvo_zdravotnictvi_aby_se_onemocnenim_zacalo_zabyvat/chronicky_unavovy_syndrom_1_.png" />(data pochází ze <a href="https://neunavni.cz/wp-content/uploads/2024/02/Studie-Situace-pacientu-s-ME_CFS-v-CR-2024.pdf">studie Neúnavní</a>)</p>
+<p><img alt="chronicky_unavovy_syndrom_1_.png" src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/chronicky_unavovy_syndrom_meni_zivoty_lidi_presto_se_o_nem_malo_vi-_zastupce_ombudsmana_zada_ministerstvo_zdravotnictvi_aby_se_onemocnenim_zacalo_zabyvat/chronicky_unavovy_syndrom_1_.png" />(data pochází ze <a href="https://neunavni.cz/wp-content/uploads/2024/02/Studie-Situace-pacientu-s-ME_CFS-v-CR-2024.pdf">studie Neúnavní</a>)</p>
 
 <p>Zástupce ombudsmana se obrátil na Ministerstvo zdravotnictví. Požádal ho,<strong> </strong>aby se situací lidí s&nbsp;ME/CFS začalo systematicky zabývat. &bdquo;<em>Ministerstvo by mělo přijmout opatření, která zajistí, aby byli lékaři informováni o tomto onemocnění a aby měli pacienti a jejich blízcí přístup k&nbsp;ověřeným a srozumitelným informacím. Je potřeba, aby vznikl doporučený diagnostický postup i postup léčby a vybudovala se specializovaná pracoviště pro diagnostiku a léčbu ME/CFS</em>,&ldquo;<em> </em>uvedl Vít Alexander Schorm.</p>
 

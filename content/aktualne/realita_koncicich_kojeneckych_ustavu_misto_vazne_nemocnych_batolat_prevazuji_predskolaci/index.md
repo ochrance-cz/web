@@ -18,7 +18,7 @@ attachments:
   - title: Souhrnná zpráva z návštěv 2024
     file: https://www.ochrance.cz/uploads-import/ESO/Souhrnn%C3%A1%20zpr%C3%A1va-doporu%C4%8Den%C3%AD%2036-24-OZP-PH-2+17-24-NZ-PH-2%20final%20PH+KI+SKO+VAS.pdf
   - title: Factsheet se shrnutím souhrnné zprávy z návštěv 2024
-    file: https://www.ochrance.cz/aktualne/realita_koncicich_kojeneckych_ustavu_misto_vazne_nemocnych_batolat_prevazuji_predskolaci/kojenecke_ustavy_-factsheet.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/realita_koncicich_kojeneckych_ustavu_misto_vazne_nemocnych_batolat_prevazuji_predskolaci/kojenecke_ustavy_-factsheet.pdf
   - title: Videa ombudsmana k problematice kojeneckých ústavů
     file: https://www.ochrance.cz/alert/
 ---
@@ -34,4 +34,4 @@ attachments:
 
 <p>&bdquo;<em>Řešení nebude jednoduché, ale je naší povinností podpořit, aby děti mohly vyrůstat v&nbsp;rodině. A když to nejde, tak jim alespoň zajistit život, který bude co nejvíce odpovídat rodinnému prostředí</em>,&ldquo; uzavřel Schorm.</p>
 
-<p><img alt="factsheet_kojenaky_1.png" src="https://www.ochrance.cz/aktualne/realita_koncicich_kojeneckych_ustavu_misto_vazne_nemocnych_batolat_prevazuji_predskolaci/factsheet_kojenaky_1.png" /><img alt="factsheet_kojenaky_2.png" src="https://www.ochrance.cz/aktualne/realita_koncicich_kojeneckych_ustavu_misto_vazne_nemocnych_batolat_prevazuji_predskolaci/factsheet_kojenaky_2.png" /></p>
+<p><img alt="factsheet_kojenaky_1.png" src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/realita_koncicich_kojeneckych_ustavu_misto_vazne_nemocnych_batolat_prevazuji_predskolaci/factsheet_kojenaky_1.png" /><img alt="factsheet_kojenaky_2.png" src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/realita_koncicich_kojeneckych_ustavu_misto_vazne_nemocnych_batolat_prevazuji_predskolaci/factsheet_kojenaky_2.png" /></p>

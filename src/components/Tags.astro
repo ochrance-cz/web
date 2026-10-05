@@ -1,0 +1,29 @@
+---
+// Renders a list of taxonomy term titles as tags. The stored values are vystupy
+// term keys (e.g. "tz"); mirror Hugo's tags.html by resolving each to its term
+// title (e.g. "Tisková zpráva") via the vystupy collection.
+import { getCollection } from 'astro:content';
+
+interface Props {
+  tags?: string[];
+}
+
+const { tags = [] } = Astro.props;
+
+let titleByKey = new Map<string, string>();
+try {
+  const terms = await getCollection('vystupy' as any);
+  titleByKey = new Map(terms.map((t: any) => [t.id, String(t.data.title ?? t.id)]));
+} catch {
+  /* vystupy collection missing — fall back to raw keys */
+}
+
+const labels = tags.map((tag) => titleByKey.get(tag) ?? tag);
+---
+{labels.length > 0 && (
+  <span class="_tags">
+    {labels.map((label) => (
+      <span class="_tag">{label}</span>
+    ))}
+  </span>
+)}

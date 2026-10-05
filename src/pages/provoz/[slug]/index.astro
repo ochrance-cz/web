@@ -1,0 +1,23 @@
+---
+// /provoz/<slug>/ — detail (cs). Renders body + sections[]/lawyers[] if present.
+import { getCollection } from 'astro:content';
+import SingleLayout from '../../../layouts/SingleLayout.astro';
+import ProvozSections from '../../../components/provoz/ProvozSections.astro';
+import { renderMarkdown } from '../../../lib/markdown';
+
+export async function getStaticPaths() {
+  const entries = (await getCollection('provoz')).filter((e) => !e.data.draft);
+  return entries.filter((entry) => entry.id !== 'kontakty')
+    .map((entry) => ({ params: { slug: entry.id }, props: { entry } }));
+}
+
+const { entry } = Astro.props;
+const { title, links, linksAfter, sections, lawyers } = entry.data as Record<string, any>;
+const bodyHtml = entry.body ? await renderMarkdown(entry.body) : '';
+---
+<SingleLayout title={title} lang="cs" links={links} linksAfter={linksAfter}>
+  <Fragment set:html={bodyHtml} />
+  {((sections && sections.length > 0) || (lawyers && lawyers.length > 0)) && (
+    <ProvozSections sections={sections} lawyers={lawyers} />
+  )}
+</SingleLayout>

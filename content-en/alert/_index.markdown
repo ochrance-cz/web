@@ -5,17 +5,17 @@ prefix: ALERT
 draft: false
 active: true
 ---
-* Українці, які застраховані в Чехії, також мають право отримувати допомогу в медичній страховій компанії. Вони можуть отримати допомогу, наприклад, за заняття спортом або щеплення. Детальніше у [документі ВЗП](/media/vzp_brozura-vyhody-2024.pdf).
-* [Уразлива особа та термінове розміщення](/media/mop_nouzove_ubytovani_ua.pdf)
-* [Zranitelná osoba a nouzové ubytování](/media/mop_nouzove_ubytovani_cz.pdf)
-* [Як омбудсмен може допомогти українцям,що переїхали в Чехію у зв’язку з війною](https://www.ochrance.cz/letaky/jak_ombudsman_muze_pomoct_prichozim_z_ukrajiny/jak-ombudsman-muze-pomoct-prichozim-z-ukrajiny-ua.pdf)
+* Українці, які застраховані в Чехії, також мають право отримувати допомогу в медичній страховій компанії. Вони можуть отримати допомогу, наприклад, за заняття спортом або щеплення. Детальніше у [документі ВЗП](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/media/vzp_brozura-vyhody-2024.pdf).
+* [Уразлива особа та термінове розміщення](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/media/mop_nouzove_ubytovani_ua.pdf)
+* [Zranitelná osoba a nouzové ubytování](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/media/mop_nouzove_ubytovani_cz.pdf)
+* [Як омбудсмен може допомогти українцям,що переїхали в Чехію у зв’язку з війною](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/jak_ombudsman_muze_pomoct_prichozim_z_ukrajiny/jak-ombudsman-muze-pomoct-prichozim-z-ukrajiny-ua.pdf)
 
-  [Jak ombudsman může pomoct příchozím z Ukrajiny](https://www.ochrance.cz/letaky/jak_ombudsman_muze_pomoct_prichozim_z_ukrajiny/jak-ombudsman-muze-pomoct-prichozim-z-ukrajiny.pdf)
+  [Jak ombudsman může pomoct příchozím z Ukrajiny](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/jak_ombudsman_muze_pomoct_prichozim_z_ukrajiny/jak-ombudsman-muze-pomoct-prichozim-z-ukrajiny.pdf)
 
-  [Как омбудсмен может помочь украинцам, переехавшимв Чехию в связи с войной](https://www.ochrance.cz/letaky/jak_ombudsman_muze_pomoct_prichozim_z_ukrajiny/jak-ombudsman-muze-pomoct-prichozim-z-ukrajiny-ru.pdf)
-* [](https://www.ochrance.cz/letaky/jak_ombudsman_muze_pomoct_prichozim_z_ukrajiny/jak-ombudsman-muze-pomoct-prichozim-z-ukrajiny-ru.pdf)[Тимчасовий захист: продовження](/media/ua_prodlouzeni_obecne.pdf)
+  [Как омбудсмен может помочь украинцам, переехавшимв Чехию в связи с войной](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/jak_ombudsman_muze_pomoct_prichozim_z_ukrajiny/jak-ombudsman-muze-pomoct-prichozim-z-ukrajiny-ru.pdf)
+* [](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/jak_ombudsman_muze_pomoct_prichozim_z_ukrajiny/jak-ombudsman-muze-pomoct-prichozim-z-ukrajiny-ru.pdf)[Тимчасовий захист: продовження](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/media/ua_prodlouzeni_obecne.pdf)
 
-[Тимчасовий захист: Представник неповнолітнього](/media/ua_vazby_obecne_verze_pro_online.pdf)
+[Тимчасовий захист: Представник неповнолітнього](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/media/ua_vazby_obecne_verze_pro_online.pdf)
 
 * ЯК ШУКАТИ РОБОТУ - ІСТОРІЯ ІРИНИ 
 
@@ -59,7 +59,7 @@ active: true
   Відповіді на питання, які можеть тебе тепер  турбувати
 
   <https://deti.ochrance.cz/aktuality/dlja-ditei-z-ukrajini-vid-ombudsmana-ombudsman-detem-z-ukrajiny/>
-* [ВАЖЛИВА ІНФОРМАЦІЯ ПРО МЕДИЧНЕ СТРАХУВАННЯ](/media/zdravotni_pojisteni_a4_ua.pdf)
+* [ВАЖЛИВА ІНФОРМАЦІЯ ПРО МЕДИЧНЕ СТРАХУВАННЯ](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/media/zdravotni_pojisteni_a4_ua.pdf)
 
 **Детальніша інфромація щодо перебування в Чеській Республіці**
 
@@ -81,7 +81,7 @@ active: true
 
 **Ви привезли разом з собою з України до Чеської Республіки домашню тваринку?**
 
-[Якщо це собака, кіт чи фретка(домашній тхір), дійте наступним чином:](https://www.ochrance.cz/letaky/letak-zvirata-ua/letak-zvirata-ua.pdf)
+[Якщо це собака, кіт чи фретка(домашній тхір), дійте наступним чином:](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/letak-zvirata-ua/letak-zvirata-ua.pdf)
 
 **1.** Перших **10 днів** тваринку постійно тримайте біля себе;
 

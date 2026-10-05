@@ -8,10 +8,10 @@ attachmentsTop:
     file: Annual_2017.pdf
 
   - title: NPM Annual Report 2017
-    file: /fileadmin/user_upload/ochrana_osob/Zpravy-vyrocni/2017-DET-annual-report.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/fileadmin/user_upload/ochrana_osob/Zpravy-vyrocni/2017-DET-annual-report.pdf
 
   - tile: Summary Report on Protection Against Discrimination 2017
-    file: /fileadmin/user_upload/DISKRIMINACE/Vyrocni_zpravy/Summary_report_on_protection_against_discrimination_2017.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/fileadmin/user_upload/DISKRIMINACE/Vyrocni_zpravy/Summary_report_on_protection_against_discrimination_2017.pdf
 ---
 
 **[Report for the 4th Quarter of 2017](2017_4-Q_EN.pdf)**

@@ -1,0 +1,33 @@
+---
+// Checkbox-based accordion. Body is the default <slot/>.
+// Usage: <Collapsible title="…"><Content/></Collapsible>
+interface Props {
+  title: string;
+  open?: boolean;
+  id?: string;
+}
+
+const { title, open = false, id } = Astro.props;
+const fieldId = id ?? `collapsible-${Math.random().toString(36).slice(2, 10)}`;
+---
+<div class="_collapsible">
+  <input type="checkbox" id={fieldId} checked={open} />
+  <div class="box">
+    <h3 class="title">
+      <span class="chevron" aria-hidden="true"></span>
+      <label
+        role="button"
+        tabindex="0"
+        class="opener"
+        for={fieldId}
+        aria-controls={`${fieldId}-content`}
+        aria-expanded={open ? 'true' : 'false'}
+      >
+        {title}
+      </label>
+    </h3>
+    <div class="content" id={`${fieldId}-content`}>
+      <slot />
+    </div>
+  </div>
+</div>

@@ -15,4 +15,4 @@ perex: "The Annual Report 2020 brings comprehensive information about the
   security, public policy, family, healthcare and labour, rules of construction
   procedure, judiciary, migration, and finance. "
 ---
-<p>The Annual Report 2020 can be accessed on the following link: <a href="https://www.ochrance.cz/en/dokument/annual_report_2020/annual_report_2020.pdf">https://www.ochrance.cz/en/dokument/annual_report_2020/annual_report_2020.pdf</a></p>
+<p>The Annual Report 2020 can be accessed on the following link: <a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/en/dokument/annual_report_2020/annual_report_2020.pdf">https://cdn.nuasite.com/assets/ochrance-web-lj8h86/en/dokument/annual_report_2020/annual_report_2020.pdf</a></p>

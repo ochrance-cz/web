@@ -18,7 +18,7 @@ perex: <p>Likvidace zdraví nebezpečného azbestu má od ledna jasnější prav
 <blockquote>
 <p>
 <strong>Chystáte se zbavit azbestu a tápete, jak postupovat správně? </strong>Nechte se provést naším srozumitelným&nbsp;
-<a href="https://www.ochrance.cz/letaky/azbestova_strecha/azbestova-strecha.pdf">letákem s&nbsp;aktuálně platnou úpravou</a>.&nbsp;</p></blockquote>
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/azbestova_strecha/azbestova-strecha.pdf">letákem s&nbsp;aktuálně platnou úpravou</a>.&nbsp;</p></blockquote>
 <h4>Efektivní pro stavbu, nebezpečný při práci. Co je azbest?</h4>
 <p>Azbest je minerál, který se v&nbsp;minulém století začal široce používat nejen ve stavebnictví. Výhodou tohoto materiálu byla nehořlavost, odolnost vůči kyselinám, elektrická nevodivost, pevnost a&nbsp;ohebnost. Už více než 30 let se ale musí stavět bez azbestu. Zjistilo se, že může být pro člověka nebezpečný. Při práci s&nbsp;ním se do vzduchu uvolňují velice malá vlákna, která mohou proniknout hluboko do plic a vyvolat různá onemocnění, včetně rakoviny. Ne vždy je třeba se ho obávat. Pokud je azbestový materiál něčím zakrytý, nebo je jinak zajištěno, že se jeho vlákna nemohou uvolňovat do vzduchu, nemá nepříznivý vliv na zdraví. Uvolňování azbestových vláken hrozí až v&nbsp;souvislosti s&nbsp;jeho narušováním (lámáním, vrtáním).</p>
 <p>&nbsp;</p>

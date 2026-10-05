@@ -1,7 +1,7 @@
 ---
 title: Veřejný ochránce práv
 claim: Pomáháme bez rozdílu
-headerPic: /media/budova2.jpg
+headerPic: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/media/budova2.jpg
 headerPicAlt: Na fotce je zachycená zelená přístavba Kanceláře společně se
   spojovacím krčkem, který vede do původní budovy.
 situationsTitle: Potřebuji pomoc

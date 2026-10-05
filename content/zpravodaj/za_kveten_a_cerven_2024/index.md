@@ -2,7 +2,7 @@
 title: Zpravodaj ombudsmana za květen a červen 2024
 month: 7
 year: 2024
-file: https://www.ochrance.cz/zpravodaj/za_kveten_a_cerven_2024/zpravodaj_kveten_a_cerven_2024.pdf
+file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/zpravodaj/za_kveten_a_cerven_2024/zpravodaj_kveten_a_cerven_2024.pdf
 sections:
   - articles:
       - body: >
@@ -64,7 +64,7 @@ sections:
           <p>Někdy se nám také nepodaří zjistit, co se skutečně stalo. Například když si opatrovaný stěžoval, že byl opatrovník arogantní (<a href="https://eso.ochrance.cz/Nalezene/Edit/12982">4834/2023/VOP</a>) nebo se mu vkrádá do bytu a ničí jeho zařízení (<a href="https://eso.ochrance.cz/Nalezene/Edit/12966">5198/2023/VOP</a>).</p>
 
 
-          <p>Zkušenosti samotných obcí s&nbsp;veřejným opatrovnictvím jsme zjišťovali již v&nbsp;roce 2021 (<a href="https://www.ochrance.cz/uploads-import/ESO/54_2020_OZP_v%C3%BDzkum.docx.pdf">OZP/54/2020</a>).</p>
+          <p>Zkušenosti samotných obcí s&nbsp;veřejným opatrovnictvím jsme zjišťovali již v&nbsp;roce 2021 (<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/54_2020_OZP_v%C3%BDzkum.docx.pdf">OZP/54/2020</a>).</p>
         title: Veřejní opatrovníci většinou o opatrované pečují řádně
       - body: >
           <blockquote>
@@ -319,10 +319,10 @@ sections:
           </blockquote>
 
 
-          <p>Již dříve jsme zjistili, že takovou podporu nedostávají klienti některých domovů pro osoby se&nbsp;zdravotním postižením (<a href="https://www.ochrance.cz/uploads-import/ESO/Vykon_volebniho_prava_v_DOZP_28_2019_OZP.pdf">OZP/28/2019</a>).</p>
+          <p>Již dříve jsme zjistili, že takovou podporu nedostávají klienti některých domovů pro osoby se&nbsp;zdravotním postižením (<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/Vykon_volebniho_prava_v_DOZP_28_2019_OZP.pdf">OZP/28/2019</a>).</p>
 
 
-          <p>Proto jsme později vydali pro tato zařízení doporučení (<a href="https://www.ochrance.cz/uploads-import/ESO/32_2020_OZP__OK_doporu%C4%8Den%C3%AD%20-%20volby%20final_001.pdf">OZP/32/2020</a>) a nyní jsme pro ně připravili také praktický návod (<a href="https://www.ochrance.cz/aktualne/ombudsman_pripravil_prakticky_navod_ktery_pomuze_volit_lidem_s_postizenim_v_pobytovych_sluzbach/">desatero</a>).</p>
+          <p>Proto jsme později vydali pro tato zařízení doporučení (<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/32_2020_OZP__OK_doporu%C4%8Den%C3%AD%20-%20volby%20final_001.pdf">OZP/32/2020</a>) a nyní jsme pro ně připravili také praktický návod (<a href="https://www.ochrance.cz/aktualne/ombudsman_pripravil_prakticky_navod_ktery_pomuze_volit_lidem_s_postizenim_v_pobytovych_sluzbach/">desatero</a>).</p>
         title: "Někteří lidé s postižením potřebují pomoc, aby mohli hlasovat ve volbách
           "
         release: https://www.ochrance.cz/aktualne/ombudsman_pripravil_prakticky_navod_ktery_pomuze_volit_lidem_s_postizenim_v_pobytovych_sluzbach/
@@ -336,7 +336,7 @@ sections:
           </blockquote>
 
 
-          <p>Zkoumali jsme činnost rozkladových komisí na ministerstvech i jejich jednací řády. Zjistili jsme, že některé komise porušují pravidla nebo se řídí nesprávným nebo nedostatečným jednacím řádem (<a href="https://www.ochrance.cz/uploads-import/ESO/souhrn%20poznatk%C5%AF.pdf">souhrn poznatků</a> a <a href="https://www.ochrance.cz/uploads-import/ESO/p%C5%99ehled%20obsahu%20jednac%C3%ADch%20%C5%99%C3%A1d%C5%AF.pdf">přehled obsahu jednacích řádů</a>).</p>
+          <p>Zkoumali jsme činnost rozkladových komisí na ministerstvech i jejich jednací řády. Zjistili jsme, že některé komise porušují pravidla nebo se řídí nesprávným nebo nedostatečným jednacím řádem (<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/souhrn%20poznatk%C5%AF.pdf">souhrn poznatků</a> a <a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/p%C5%99ehled%20obsahu%20jednac%C3%ADch%20%C5%99%C3%A1d%C5%AF.pdf">přehled obsahu jednacích řádů</a>).</p>
 
 
           <p>Proto jsme <a href="https://eso.ochrance.cz/Nalezene/Edit/12948">doporučili</a>, aby ministerstva například:</p>

@@ -17,7 +17,7 @@ perex: >
 
 <p>&nbsp;</p>
 
-<p>Nápomocný vám bude také náš <strong><a href="https://www.ochrance.cz/letaky/rodicovsky-prispevek/rodicovsky-prispevek.pdf">informační leták</a>.</strong></p>
+<p>Nápomocný vám bude také náš <strong><a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/rodicovsky-prispevek/rodicovsky-prispevek.pdf">informační leták</a>.</strong></p>
 
 <p>&nbsp;</p>
 

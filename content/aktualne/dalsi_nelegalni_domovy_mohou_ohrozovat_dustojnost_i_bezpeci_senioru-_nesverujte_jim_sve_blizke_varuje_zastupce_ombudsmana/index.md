@@ -56,13 +56,13 @@ attachments:
 <p>Můžete se obrátit na obecní úřad obce s&nbsp;rozšířenou působností, která vám může v&nbsp;rámci sociální práce s&nbsp;hledáním vhodné služby pomoci.</p>
 <p>Pokud nebudete úspěšní, obraťte se na sociální odbor ve svém kraji. Kraje ze zákona odpovídají za to, že jsou sociální služby na jejich území dostupné.</p>
 <p>Více informací najde v&nbsp; 
-<a href="https://www.ochrance.cz/letaky/socialni-sluzby/socialni-sluzby.pdf">Letáku ombudsmana</a>.&nbsp;</p></blockquote>
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/socialni-sluzby/socialni-sluzby.pdf">Letáku ombudsmana</a>.&nbsp;</p></blockquote>
 <p>
 <strong>Ochrana klientů před špatným zacházením</strong></p>
 <p>Zástupce ombudsmana Schorm všem z&nbsp;těchto tří popsaných zařízení doporučil, ať svou činnost legalizují, registrují se, nebo ať ji ukončí. Ani jedno však k&nbsp;žádnému z&nbsp;těchto řešení nepřistoupilo a podle informací, které má Kancelář ombudsmana a dětského ombudsmana k&nbsp;dispozici, v&nbsp;činnosti pokračují.</p>
 <p>Neregistrované domovy pro seniory nejsou v Česku ojedinělé. Současně u nás chybí dostatečná nabídka potřebných legálně provozovaných služeb, včetně těch, které lidem umožní zůstat v&nbsp;domácím prostředí. Na tyto skutečnosti upozorňuje Vít Alexander Schorm dlouhodobě.</p>
 <p>Také proto Kancelář ombudsmana zařízení poskytující péči bez oprávnění dlouhodobě mapuje. V&nbsp;roce 2015 o nich vydala&nbsp; 
-<a href="https://www.ochrance.cz/uploads-import/ESO/28-2014-NZ_Souhrnna_zprava_-_neregistrovana_zarizeni__CJ_.pdf">souhrnnou zprávu</a>. Aktuálně zástupce ombudsmana sbírá a vyhodnocuje rovněž data o zkušenostech krajských úřadů s nelegálními zařízeními. Zajímá jej, do jaké míry mají o jejich činnosti povědomí, jak přistupují k&nbsp;sankcím nebo třeba zda s&nbsp;nimi zařízení vedou soudní spory.&nbsp;Jakmile bude výzkum ukončen, plánuje Schorm na základě jeho výsledků formulovat legislativní doporučení.</p>
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/28-2014-NZ_Souhrnna_zprava_-_neregistrovana_zarizeni__CJ_.pdf">souhrnnou zprávu</a>. Aktuálně zástupce ombudsmana sbírá a vyhodnocuje rovněž data o zkušenostech krajských úřadů s nelegálními zařízeními. Zajímá jej, do jaké míry mají o jejich činnosti povědomí, jak přistupují k&nbsp;sankcím nebo třeba zda s&nbsp;nimi zařízení vedou soudní spory.&nbsp;Jakmile bude výzkum ukončen, plánuje Schorm na základě jeho výsledků formulovat legislativní doporučení.</p>
 <blockquote>
 <p>Doposud poslední informace o neregistrovaném zařízení medializoval Vít Alexander Schorm přibližně před rokem. Tehdy se jednalo o varování před službami 
 <a href="https://www.ochrance.cz/aktualne/seniory_v_bzeneckem_domove_u_sv-_marusky_ohrozuje_spatne_zachazeni_upozornuje_zastupce_ombudsmana/">Domova u svaté Marušky</a> v Bzenci.</p></blockquote>

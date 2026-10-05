@@ -1,0 +1,66 @@
+---
+import PageHeader from '../../components/site-copy/headers/cs-zpravodaj.astro';
+import * as pageCopy0 from '../../components/page-content/section-pages/zpravodaj.astro';
+// Zpravodaj (newsletter) listing — issues grouped by year (desc), month desc.
+import type { GetStaticPaths, Page } from 'astro';
+import { getCollection, type CollectionEntry } from 'astro:content';
+import ListLayout from '../../layouts/ListLayout.astro';
+import MagazinePreview from '../../components/MagazinePreview.astro';
+import Collapsible from '../../components/Collapsible.astro';
+import { url } from '../../lib/paths';
+
+type Issue = CollectionEntry<'zpravodaj'>;
+
+export const getStaticPaths = (async ({ paginate }) => {
+  const issues = await getCollection('zpravodaj');
+  const sorted = issues.sort((a, b) => {
+    const ya = a.data.year ?? 0;
+    const yb = b.data.year ?? 0;
+    if (yb !== ya) return yb - ya;
+    return (b.data.month ?? 0) - (a.data.month ?? 0);
+  });
+  // Single page (all issues); [...page] route resolves to /zpravodaj/.
+  return paginate(sorted, { pageSize: 1000 });
+}) satisfies GetStaticPaths;
+
+interface Props {
+  page: Page<Issue>;
+}
+const { page } = Astro.props;
+
+// Group issues (already sorted year desc, month desc) by year.
+const byYear = new Map<number, Issue[]>();
+for (const issue of page.data) {
+  const y = issue.data.year ?? 0;
+  if (!byYear.has(y)) byYear.set(y, []);
+  byYear.get(y)!.push(issue);
+}
+const years = [...byYear.keys()].sort((a, b) => b - a);
+import { data as section } from '../../components/page-content/section-pages/zpravodaj.astro';
+---
+<ListLayout title={section.title} lang="cs">
+  <PageHeader slot="header" />
+  <div class="_magazine">
+    {years.map((year, i) => (
+      <Collapsible title={String(year)} open={i === 0} id={`year-${year}`}>
+        {byYear.get(year)!.map((issue) => (
+          <div class="_magazine-issue">
+            <MagazinePreview
+              href={url('cs', 'zpravodaj', issue.id)}
+              title={issue.data.title}
+              perex={issue.data.perex}
+              headingLevel={4}
+              locale="cs"
+            />
+            <p class="details">
+              {issue.data.month ? <span>{issue.data.month}/{year}</span> : <span>{year}</span>}
+              {issue.data.file && (
+                <> · <a href={issue.data.file}>{section.indexPrintLabel}</a></>
+              )}
+            </p>
+          </div>
+        ))}
+      </Collapsible>
+    ))}
+  </div>
+</ListLayout>

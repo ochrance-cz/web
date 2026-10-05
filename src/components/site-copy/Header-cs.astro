@@ -1,0 +1,135 @@
+---
+import LangSwitcher from '../LangSwitcher.astro';
+import SignLanguageVideo from '../SignLanguageVideo.astro';
+interface Props { translatedHref?: string }
+const { translatedHref } = Astro.props;
+---
+<header class="_site-header">
+<div class="backdrop">
+<div class="root-link">
+<a tabindex="0" href="/">
+<img class="logo" src="/images/logo.svg" width="200" alt="Ombudsman - domovská stránka">
+</a>
+</div>
+<div class="_collapsible-nav">
+<input type="checkbox" id="site-nav-toggle">
+<label role="button" class="hide-nav nav-opener opener" for="site-nav-toggle" aria-haspopup="menu" aria-controls="site-nav" aria-expanded="true">
+</label>
+<div class="box">
+<h3 class="title">
+<label tabindex="0" class="opener nav-opener" for="site-nav-toggle" aria-haspopup="menu" aria-controls="site-nav" aria-expanded="false">
+Menu
+</label>
+</h3>
+<nav id="site-nav" aria-label="Hlavní menu">
+<ul>
+<input type="checkbox" id="help-checkbox">
+<li class="dropdown">
+<label role="button" tabindex="0" class="dropdown-title opener keyboard-only-opener" for="help-checkbox" aria-haspopup="menu" aria-controls="help-dropdown" aria-expanded="false"> Potřebuji pomoc </label>
+<ul class="dropdown-menu" role="menu" id="help-dropdown">
+<li>
+<a tabindex="0" href="/potrebuji-pomoc/problem-s-uradem/">
+<span class="icon-arrow" aria-hidden="true">
+</span>Mám problém s úřadem nebo státní institucí </a>
+</li>
+<li>
+<a tabindex="0" href="/potrebuji-pomoc/omezeni-na-svobode/">
+<span class="icon-arrow" aria-hidden="true">
+</span>Špatně zacházejí s lidmi omezenými na svobodě </a>
+</li>
+<li>
+<a tabindex="0" href="/potrebuji-pomoc/diskriminace/">
+<span class="icon-arrow" aria-hidden="true">
+</span>Cítím se být diskriminován </a>
+</li>
+<li>
+<a tabindex="0" href="/potrebuji-pomoc/postizeni/">
+<span class="icon-arrow" aria-hidden="true">
+</span>Potýkám se s problémy kvůli svému postižení </a>
+</li>
+<li>
+<a tabindex="0" href="/pusobnost/ochrana-prosazovani-zakladnich-prav-nhri/">
+<span class="icon-arrow" aria-hidden="true">
+</span>Hledám informace o lidských právech </a>
+</li>
+<li>
+<a tabindex="0" href="/situace/">
+<span class="icon-question" aria-hidden="true">
+</span>Nevím si rady se svou životní situací </a>
+</li>
+<li>
+<a tabindex="0" href="https://deti.ochrance.cz">
+<span class="icon-kids" aria-hidden="true">
+</span>Jsem dítě a hledám pomoc </a>
+</li>
+<li>
+<a tabindex="0" href="/pusobnost/obcane-eu/">
+<span class="icon-arrow" aria-hidden="true">
+</span>Jsem občan Evropské unie </a>
+</li>
+<li>
+<a href="https://portal.ochrance.cz">Správa a evidence podnětů</a>
+</li>
+</ul>
+</li>
+<input type="checkbox" id="work-checkbox">
+<li class="dropdown">
+<label role="button" tabindex="0" class="dropdown-title opener keyboard-only-opener" for="work-checkbox" aria-haspopup="menu" aria-controls="work-dropdown" aria-expanded="false"> Naše činnost </label>
+<ul class="dropdown-menu" role="menu" id="work-dropdown">
+<li>
+<a tabindex="0" href="/info/setreni/">
+<span class="icon-arrow" aria-hidden="true">
+</span>Jak probíhá šetření? </a>
+</li>
+<li>
+<a tabindex="0" href="/vystupy/">
+<span class="icon-arrow" aria-hidden="true">
+</span>Výstupy z činností </a>
+</li>
+<li>
+<a tabindex="0" href="/vzdelavaci-akce/">
+<span class="icon-arrow" aria-hidden="true">
+</span>Vzdělávací akce </a>
+</li>
+<li>
+<a tabindex="0" href="/projekty/">
+<span class="icon-arrow" aria-hidden="true">
+</span>Projekty a spolupráce KVOP </a>
+</li>
+<li>
+<a tabindex="0" href="/srozumitelne/">
+<span class="icon-arrow" aria-hidden="true">
+</span>Jak psát srozumitelně úřední texty </a>
+</li>
+<li>
+<a tabindex="0" href="/eso/">
+<span class="icon-eso" aria-hidden="true">
+</span>Evidence stanovisek ombudsmana (ESO) </a>
+</li>
+</ul>
+</li>
+<li class="group">
+<ul>
+<li>
+<a tabindex="0" href="/o-nas/">O nás</a>
+</li>
+<li>
+<a tabindex="0" href="/aktualne/">Aktuálně</a>
+</li>
+<li>
+<a tabindex="0" href="/kontakt/">Kontakt</a>
+</li>
+</ul>
+</li>
+<li>
+<a tabindex="0" href="/hledat/" class="search" aria-label="Hledání"> Hledání </a>
+</li>
+<LangSwitcher locale="cs" href={translatedHref} >
+<SignLanguageVideo />
+</LangSwitcher>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+</header>

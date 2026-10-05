@@ -1,9 +1,0 @@
-{{ with . }}
-<a href="{{ .Permalink }}" class="_button">
-  {{ with .Params.menuTitle }}
-    {{ . }}
-  {{ else }}
-    {{- .Title -}}
-  {{ end }}
-</a>
-{{ end }}

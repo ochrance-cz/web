@@ -21,8 +21,8 @@ Přístupnost nemíří jen na člověka s postižením, ale také na člověka 
 
 - [celý text Úmluvy](https://www.mpsv.cz/documents/20142/225526/Umluva_o_pravech_osob_se_ZP.pdf/1e95a34b-cbdf-0829-3da2-148865b8a4a8)
 - [článek 9 Úmluvy k přístupnosti v českém znakovém jazyce](https://www.ochrance.cz/umluva/clanek-09-pristupnost/)
-- [Úmluva ve formě pro snadné čtení](https://www.ochrance.cz/pusobnost/monitorovani-prav-osob-se-zdravotnim-postizenim/mezinarodni_umluva_ETR.pdf) (PDF, 4,98 MB)
-- [Komentář Výboru OSN k](https://www.ochrance.cz/media/obecny_komentar_c._8.pdf) přístupnosti (PDF, 257 kB)
+- [Úmluva ve formě pro snadné čtení](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/pusobnost/monitorovani-prav-osob-se-zdravotnim-postizenim/mezinarodni_umluva_ETR.pdf) (PDF, 4,98 MB)
+- [Komentář Výboru OSN k](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/media/obecny_komentar_c._8.pdf) přístupnosti (PDF, 257 kB)
 
 Díky tomu se ale zlepšuje přístupnost nejen pro lidi s postižením, ale pro všechny.
 

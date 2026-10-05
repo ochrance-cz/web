@@ -65,7 +65,7 @@ links: []
 <p>
 <img src="https://test.ochrance.cz/uploads/RTEmagicC_solvit-logo_en.jpg.jpg" alt="">In all cases, you may turn to 
 <strong>Ombudsman</strong> – we may advise you on your rights and the&nbsp;best way how to defend your rights. There are also non-governmental organizations that 
-<a href="https://www.ochrance.cz/fileadmin/user_upload/Letaky/A-Organizations-providing-legal-assistance_V-17.pdf">provide assistance to foreigners.</a></p>
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/fileadmin/user_upload/Letaky/A-Organizations-providing-legal-assistance_V-17.pdf">provide assistance to foreigners.</a></p>
 
 
 {{< /rozbal >}}
@@ -335,7 +335,7 @@ links: []
 <a href="https://europa.eu/youreurope/citizens/consumers/financial-products-and-services/bank-accounts-eu/index_en.htm">account</a>.</li>
 <li>You can see also&nbsp; 
 <a href="https://eso.ochrance.cz/Nalezene/Edit/9476">recommendations&nbsp;</a>with&nbsp; 
-<a href="https://www.ochrance.cz/uploads-import/ESO/recommendations.pdf">infographic&nbsp;</a>of the Defender for stating library rules so&nbsp;that these would refrain from discriminating EU&nbsp;citizens on&nbsp;the grounds of&nbsp;their nationality.&nbsp;</li></ul>
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/recommendations.pdf">infographic&nbsp;</a>of the Defender for stating library rules so&nbsp;that these would refrain from discriminating EU&nbsp;citizens on&nbsp;the grounds of&nbsp;their nationality.&nbsp;</li></ul>
 <h3>Taxes</h3>
 <ul>
 <li>Payment of&nbsp;income taxes depends on&nbsp;whether you are a&nbsp;tax resident or&nbsp;tax non-resident. If&nbsp;you are a&nbsp;Czech&nbsp; 
@@ -389,7 +389,7 @@ links: []
 <li>If you wish to&nbsp;purchase real estate, you can ask a&nbsp;bank, which offers mortgage services.</li>
 <li>Some cities offer council housing too. Council housing is&nbsp;mainly offered to&nbsp;people with a&nbsp;lower income. For this reason, the&nbsp;council housing is&nbsp;usually cheaper. You may ask the&nbsp;municipal authority in&nbsp;your city, if&nbsp;they also offer council housing and on&nbsp;what conditions.</li>
 <li>More information is available in 
-<a href="https://www.ochrance.cz/uploads-import/Letaky/Najem-bytu.pdf">our text</a>&nbsp;or&nbsp;in 
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/Letaky/Najem-bytu.pdf">our text</a>&nbsp;or&nbsp;in 
 <a href="https://www.dtest.cz/clanek-5849/smlouva-o-najmu-bytu">the article of the dTest </a>(only in Czech).</li></ul>
 
 
@@ -422,7 +422,7 @@ links: []
 
 
 <p>
-<a href="https://www.ochrance.cz/fileadmin/user_upload/DISKRIMINACE/pravni_predpisy/Anti-discrimination-Act.pdf">
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/fileadmin/user_upload/DISKRIMINACE/pravni_predpisy/Anti-discrimination-Act.pdf">
 <strong>Antidiscrimination Act</strong></a></p>
 <p>
 <a href="http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1521463397727&amp;uri=CELEX%3A12012E%2FTXT">Treaty on the Functioning of the European Union</a></p>

@@ -1,0 +1,83 @@
+---
+// Paginator: prev/next + numbered pages with ellipsis.
+// URL convention (Hugo pretty URLs): page 1 = baseUrl, page n = `${baseUrl}page/n/`.
+import { t } from '../lib/i18n';
+
+interface Props {
+  currentPage: number;
+  totalPages: number;
+  baseUrl: string;
+  locale?: 'cs' | 'en';
+}
+
+const { currentPage, totalPages, baseUrl, locale = 'cs' } = Astro.props;
+
+function withSlash(u: string): string {
+  return u.endsWith('/') ? u : `${u}/`;
+}
+function pageUrl(n: number): string {
+  const base = withSlash(baseUrl);
+  return n <= 1 ? base : `${base}page/${n}/`;
+}
+
+const hasPrev = currentPage > 1;
+const hasNext = currentPage < totalPages;
+
+// Decide which numbers to show, inserting ellipses for gaps.
+type Item = { type: 'page'; n: number } | { type: 'ellipsis' };
+const items: Item[] = [];
+let ellipsed = false;
+for (let n = 1; n <= totalPages; n++) {
+  const right = totalPages - n;
+  const show =
+    n <= 3 ||
+    right === 0 ||
+    (n > currentPage - 2 && n < currentPage + 2);
+  if (show) {
+    items.push({ type: 'page', n });
+    ellipsed = false;
+  } else if (!ellipsed) {
+    items.push({ type: 'ellipsis' });
+    ellipsed = true;
+  }
+}
+---
+{totalPages > 1 && (
+  <section class="_pagination">
+    <nav aria-label={t(locale, 'pagination')}>
+      <ul>
+        <li class:list={['previous', { disabled: !hasPrev }]}>
+          <a
+            href={hasPrev ? pageUrl(currentPage - 1) : undefined}
+            class="page-link"
+            aria-label={t(locale, 'pagination-prev')}
+          >
+            <span class="visuallyhidden">{t(locale, 'prev')}</span>
+          </a>
+        </li>
+
+        {items.map((item) =>
+          item.type === 'page' ? (
+            <li class:list={[{ active: item.n === currentPage }]}>
+              <a class="page-link" href={pageUrl(item.n)}>
+                <span class="visuallyhidden">{t(locale, 'page')} </span>{item.n}
+              </a>
+            </li>
+          ) : (
+            <li class="disabled"><span aria-hidden="true">&nbsp;&hellip;&nbsp;</span></li>
+          )
+        )}
+
+        <li class:list={['next', { disabled: !hasNext }]}>
+          <a
+            href={hasNext ? pageUrl(currentPage + 1) : undefined}
+            class="page-link"
+            aria-label={t(locale, 'pagination-next')}
+          >
+            <span class="visuallyhidden">{t(locale, 'next')}</span>
+          </a>
+        </li>
+      </ul>
+    </nav>
+  </section>
+)}

@@ -1,0 +1,21 @@
+---
+title: Long-lasting non-observance of the Lotteries Act and municipal edicts
+date: 2012-07-20T00:00:00.000Z
+perex: ""
+categories:
+  - news
+---
+The Defender informed the Chamber of Deputies that the Ministry of Finance has not taken measures to remedy its previous illegal practice in permitting betting games operated through so-called other technical gaming equipment (e.g. video lottery terminals). 
+
+Since the Government of the Czech Republic has already addressed the Defender’s advice regarding this matter without having asked the Ministry of Finance to adopt from his point of view sufficient remedial measures, the Defender ceased his activities regarding lottery permits by submitting report to the Chamber of Deputies, as anticipated by the Public Defender of Rights Act.  
+
+The Ministry of Finance’s most fundamental and long-lasting shortcoming is that when permitting so-called other technical gaming equipment, in violation of a statutory order it did not apply relevant provisions of the Lotteries Act valid for gaming machines, so that for example:
+
+-   the Ministry permitted the maximum bet per game of CZK 1,000 in case of video lottery terminals although the law allows CZK 2 or 5 or 50,
+-   the maximum loss per hour is CZK 252,000, although the Lotteries Act allows CZK 1,000 or 2,000 or 10,000,
+-   the Ministry did not respect the prohibition of installation of machines in specific locations, for example in the vicinity of schools, doctor’s offices, etc.,
+-   while the law allows the issuance of permits for a maximum of one year, the Ministry was issuing permits for an indefinite period of time or for 10 year and now it is issuing permits for 3 years.
+
+Additionally, the Ministry of Finance has long failed to respect legal regulations issued by municipalities to regulate gaming although municipal edicts issued by virtue of relevant provisions of the Lotteries Act have and have always had a direct impact not just on gaming machines but also on the operation of so-called other technical gaming equipment operated directly by the gamer with possibility of instant win and payments. An identical opinion was also expressed by the Constitutional Court in its judgment File Ref. No. Pl. ÚS 29/10 dated 14 June 2011 (Chrastava). In the Defender’s opinion, the constitutional right of municipalities to self-government is therefore being interfered with too. 
+
+With regret the Defender has to say that the Ministry not only generally refuses to bring most of the issued permits into accord with the law but it will not annul those permits which it will find upon expressed warnings by municipalities to be at variance with municipal edicts effective no later than as of 31 December 2011. The only exception (resulting from Government Resolution No. 347 of 16 May 2012) is annulment of permits issued by the Ministry when a relevant municipal edict already existed. The Defender considers this limitation inappropriate and at variance with the mentioned judgment of the Constitutional Court, which envisages possibility of a subsequent conflict between issued permits and municipal edicts that are adopted later.

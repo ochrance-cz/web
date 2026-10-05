@@ -1,0 +1,17 @@
+# Read by Cloudflare (production). Nua previews ignore this file.
+# The same headers the old .htaccess sent, minus the obsolete X-XSS-Protection.
+/*
+  Strict-Transport-Security: max-age=31536000
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: SAMEORIGIN
+
+# Astro puts a content hash into these file names.
+/_astro/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/fonts/*
+  Cache-Control: public, max-age=31536000
+
+# The workers.dev address is for checks before a release, not for search engines.
+https://:worker.:account.workers.dev/*
+  X-Robots-Tag: noindex

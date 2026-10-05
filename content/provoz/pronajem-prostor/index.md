@@ -14,9 +14,9 @@ title: Pronájem prostor
 <li>Pro podání pohoštění či&nbsp;neformální setkání je možno využít předsálí</li></ul>
 <h3>Dispoziční možnosti</h3>
 <p>
-<a href="/uploads-import/img/Saly/VS_skolni_uprava_144_osob.pdf">Školní úprava</a></p>
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/img/Saly/VS_skolni_uprava_144_osob.pdf">Školní úprava</a></p>
 <p>
-<a href="/uploads-import/img/Saly/VS_koncertni_uprava_216_osob.pdf">Koncertní úprava</a></p>
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/img/Saly/VS_koncertni_uprava_216_osob.pdf">Koncertní úprava</a></p>
 <p>
 <img src="velky_sal_1.jpg" alt="Na fotografii je zobrazen velký sál. Jsou v něm rozestavěny židle v řadách a na straně místnosti jsou pokojové rostliny."></p>
 <p>

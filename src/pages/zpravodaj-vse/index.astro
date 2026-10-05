@@ -1,0 +1,41 @@
+---
+// "All magazine issues" aggregator. Mirrors layouts/zpravodaj-special/single.html.
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PicHeader from '../../components/PicHeader.astro';
+import MagazinePreview from '../../components/MagazinePreview.astro';
+import { getCollection } from 'astro:content';
+import { t } from '../../lib/i18n';
+import MarkdownContent from '../../components/MarkdownContent.astro';
+
+import source from '../../page-copy/zpravodaj-vse/index.md?raw';
+import matter from 'gray-matter';
+const parsed = matter(source);
+const entry = { data: parsed.data, body: parsed.content };
+const title = entry.data.title;
+
+const issues = (await getCollection('zpravodaj')).sort((a, b) => {
+  const ay = Number((a.data as any).year ?? 0);
+  const by = Number((b.data as any).year ?? 0);
+  if (by !== ay) return by - ay;
+  return Number((b.data as any).month ?? 0) - Number((a.data as any).month ?? 0);
+});
+---
+<BaseLayout title={title} lang="cs">
+  <main data-pagefind-body>
+    <PicHeader title={title} />
+    <div>
+      <section>
+        <MarkdownContent content={entry.body} />
+      </section>
+      <section class="_news single-col">
+        <ul class="_horizontal-list">
+          <li><a href="/zpravodaj/">{t('cs', 'magazine-by-year')}</a></li>
+          <li><a href="/zpravodaj-vse/" class="selected">{t('cs', 'magazine-all')}</a></li>
+        </ul>
+        {issues.map((m) => (
+          <MagazinePreview href={`/zpravodaj/${m.id}/`} title={m.data.title} locale="cs" />
+        ))}
+      </section>
+    </div>
+  </main>
+</BaseLayout>

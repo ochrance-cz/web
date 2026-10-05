@@ -1,0 +1,29 @@
+---
+title: Úřad práce chybně snížil podporu v nezaměstnanosti při ukončení
+  pracovního poměru zaměstnancem
+date: 2013-11-11T00:00:00.000Z
+perex: "Sankce: Úřad práce ČR, krajská pobočka v Pardubicích, kontaktní
+  pracoviště Hlinsko, postupoval nepřípustným způsobem, když snížil podporu
+  v nezaměstnanosti uchazečce, která sama ukončila pracovní poměr. Nevyhodnotil
+  totiž, zda existovaly vážné důvodů, kvůli nimž uchazečka pracovní poměr
+  ukončila."
+kategorie:
+  - tz
+---
+Úřad práce, ani nadřízené Ministerstvo práce a sociálních věcí s těmito závěry veřejného ochránce práv nesouhlasí a nepřijaly žádná navrhovaná opatření k nápravě. Ochránce se proto rozhodl případ zveřejnit.
+
+Jestliže někdo ukončí poměr bez vážného důvodu, náleží mu podpora v nezaměstnanosti pouze ve výši 45 % průměrného čistého měsíčního výdělku (oproti standardním 65 %). Protože zákon nemůže obsáhnout a vyjmenovat všechny vážné důvody, pro které zaměstnanec může sám svůj pracovní poměr ukončit, vedle výčtu některých konkrétních důvodů uznává i „jiné vážné osobní důvody, například etické, mravní či náboženské, nebo důvody hodné zvláštního zřetele“. Je pak na úřadu práce, aby ve správním řízení spolehlivě zjistil skutečný stav věci a posoudil vážnost důvodů pro ukončení pracovního poměru.
+
+![](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/uploads/RTEmagicC_graf-dolu.jpg.jpg)Paní V. ukončila svůj pracovní poměr dohodou, v níž nebyly uvedeny důvody. Na úřadu práce upřesnila, že důvodem bylo přestěhování se za budoucím manželem. Úřad práce však vyšel z písemné dohody a ke sdělenému důvodu pouze konstatoval, že v daném případě není možné aplikovat § 5 písm. c) zákona o zaměstnanosti, neboť ještě nejsou manželé, a dále, že se nejedná ani o jiné vážné osobní důvody nebo důvody hodné zvláštního zřetele. V průběhu správního řízení pak již úřad práce stěžovatelku nevyzval, aby doložila vážný důvod, který pro ukončení pracovního poměru měla (tedy aby hodnověrným způsobem prokázala vztah s panem V. a plánovaný sňatek) a bez dalšího jí přiznal sníženou podporu v nezaměstnanosti. Informaci o sňatku předala paní V. úřadu až poté, co už Ministerstvo práce a sociálních věcí zamítlo její odvolání a rozhodnutí Úřadu práce ČR potvrdilo.
+
+Veřejný ochránce práv dospěl k závěru, že úřad práce pochybil, když se v rámci správního řízení nesnažil objektivně zjistit skutečný stav věci, nezajímaly ho okolnosti ani důvod ukončení pracovního poměru. V důsledku toho ani nepožadoval po paní V. žádné důkazy k jeho prokázání. Její důvod přitom podle ochránce bylo možné považovat za vážný osobní důvod, případně za důvod hodný zvláštního zřetele a bylo možné jej i prokázat (potvrzení matriky o termínu svatby, prohlášení nastávajícího manžela apod.). Paní V. tak podle ochránce měla být přiznána podpora v nezaměstnanosti v plné výši.
+
+Jako opatření k nápravě ochránce navrhoval, aby úřad práce zahájil nové správní řízení a vydal nové rozhodnutí o doplacení neprávem odepřené části podpory v nezaměstnanosti. Dále požadoval, aby byli zaměstnanci úřadu práce i ministerstva seznámeni se závěry ochránce a byli metodicky vedeni tak, aby se podobná pochybení neopakovala.
+
+Úřad práce žádná opatření k nápravě nepřijal, stejně jako Ministerstvo práce a sociálních věcí.
+
+Ačkoli zákon nevyžaduje, aby byly důvody ukončení pracovního poměru uvedeny písemně v dohodě o ukončení pracovního poměru či výpovědi zaměstnance, veřejný ochránce práv doporučuje, aby ti, kdo pracovní poměr končí ze své vlastní iniciativy, usilovali o to, aby důvod byl v dohodě (výpovědi) uveden, tj. aby byl zřejmý. Jinak (s ohledem na postoj Úřadu práce ČR i Ministerstva práce a sociálních věcí) riskují, že jim bude bez dalšího přiznána snížená podpora v nezaměstnanosti.
+
+ [Zpráva o šetření](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/STANOVISKA/prace_a_zamestnanost/Urad_prace/1755-2012-PS-ZZ.pdf "Otevření do nového okna") (224.8 kB, Adobe Acrobat dokument)
+
+ [Stanovisko ochránce](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/STANOVISKA/prace_a_zamestnanost/Urad_prace/1755-2012-PS-ZSO.pdf "Otevření do nového okna") (234.7 kB, Adobe Acrobat dokument)

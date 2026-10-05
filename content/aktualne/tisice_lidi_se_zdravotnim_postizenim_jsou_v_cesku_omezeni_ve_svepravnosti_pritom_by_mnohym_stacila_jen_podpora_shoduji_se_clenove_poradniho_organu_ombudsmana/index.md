@@ -12,7 +12,7 @@ perex: >
   množství lidí se zdravotním postižením je v&nbsp;České republice omezeno ve
   svéprávnosti. Soudy totiž stále často přistupují k&nbsp;omezování svéprávnosti
   namísto jiných způsobů podpory. Dokládá to i <a
-  href="https://www.ochrance.cz/uploads-import/ESO/Krizovatky_autonomie.pdf">výzkum
+  href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/Krizovatky_autonomie.pdf">výzkum
   ombudsmana</a>. Lidé omezení ve svéprávnosti nemohou samostatně rozhodovat
   v&nbsp;důležitých oblastech svého života. Nemohou třeba volně hospodařit
   s&nbsp;vlastním majetkem, rozhodovat o svém zdraví, uzavírat manželství nebo
@@ -22,7 +22,7 @@ perex: >
   občanský zákoník nadále umožňuje omezit svéprávnost a svěřit osobu se
   zdravotním postižením do částečného opatrovnictví.</p>
 attachments:
-  - file: https://www.ochrance.cz/aktualne/tisice_lidi_se_zdravotnim_postizenim_jsou_v_cesku_omezeni_ve_svepravnosti_pritom_by_mnohym_stacila_jen_podpora_shoduji_se_clenove_poradniho_organu_ombudsmana/usneseni_2023_12_k_podpurnym_opatrenim.pdf
+  - file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/tisice_lidi_se_zdravotnim_postizenim_jsou_v_cesku_omezeni_ve_svepravnosti_pritom_by_mnohym_stacila_jen_podpora_shoduji_se_clenove_poradniho_organu_ombudsmana/usneseni_2023_12_k_podpurnym_opatrenim.pdf
     title: Usnesení poradního orgánu veřejného ochránce práv pro oblast ochrany práv
       osob se zdravotním postižením
 ---
@@ -40,6 +40,6 @@ attachments:
 
 <p>Lidi s postižením mohou využít různé formy pomoci. Kromě podpůrce jim můžou v&nbsp;právním jednání neformálně pomáhat také sociální služby. K&nbsp;tomu ale potřebují adekvátní příspěvek na péči. Nedávno se <a href="https://www.ochrance.cz/aktualne/pro_lidi_s_postizenim_je_zvyseni_prispevku_na_peci_nezbytnou_podminkou_aby_mohli_vest_dustojny_a_plnohodnotny_zivot_upozornuje_zastupce_ombudsmana/">zástupce ombudsmana Vít Alexander Schorm obrátil v&nbsp;této věci na premiéra Petra Fialu</a>. Ministerstvo financí se&nbsp;totiž i&nbsp;přes varování odborníků postavilo proti pravidelné valorizaci příspěvku, přitom jeho hodnota se kvůli inflaci stále snižuje. &bdquo;<em>Lidé s&nbsp;postižením mají právo žít samostatný a nezávislý život a k&nbsp;důstojnému životu potřebují odpovídající příspěvek na péči,&ldquo; upozornil zástupce ombudsmana.</em></p>
 
-<p>Ombudsman apeloval na vládu už v&nbsp;roce 2021, aby předložila návrh zákona, který by komplexně upravoval problematiku opatrovnictví a podpůrných opatření, včetně stanovení ústředního orgánu odpovědného za tuto oblast (<a href="https://www.ochrance.cz/dokument/zpravy_pro_poslaneckou_snemovnu_2021/vyrocni-zprava-2021.pdf">více na str. 11 Výroční zprávy ombudsmana za rok 2021</a>).</p>
+<p>Ombudsman apeloval na vládu už v&nbsp;roce 2021, aby předložila návrh zákona, který by komplexně upravoval problematiku opatrovnictví a podpůrných opatření, včetně stanovení ústředního orgánu odpovědného za tuto oblast (<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/dokument/zpravy_pro_poslaneckou_snemovnu_2021/vyrocni-zprava-2021.pdf">více na str. 11 Výroční zprávy ombudsmana za rok 2021</a>).</p>
 
-<p><img alt="7.png" src="https://www.ochrance.cz/aktualne/tisice_lidi_se_zdravotnim_postizenim_jsou_v_cesku_omezeni_ve_svepravnosti_pritom_by_mnohym_stacila_jen_podpora_shoduji_se_clenove_poradniho_organu_ombudsmana/7.png" /><img alt="8.png" src="https://www.ochrance.cz/aktualne/tisice_lidi_se_zdravotnim_postizenim_jsou_v_cesku_omezeni_ve_svepravnosti_pritom_by_mnohym_stacila_jen_podpora_shoduji_se_clenove_poradniho_organu_ombudsmana/8.png" />Více informací v&nbsp;letáku <a href="https://www.ochrance.cz/letaky/podpora-v-pravnim-jednani/podpora-v-pravnim-jednani.pdf">Podpora v&nbsp;právním jednání</a>.</p>
+<p><img alt="7.png" src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/tisice_lidi_se_zdravotnim_postizenim_jsou_v_cesku_omezeni_ve_svepravnosti_pritom_by_mnohym_stacila_jen_podpora_shoduji_se_clenove_poradniho_organu_ombudsmana/7.png" /><img alt="8.png" src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/tisice_lidi_se_zdravotnim_postizenim_jsou_v_cesku_omezeni_ve_svepravnosti_pritom_by_mnohym_stacila_jen_podpora_shoduji_se_clenove_poradniho_organu_ombudsmana/8.png" />Více informací v&nbsp;letáku <a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/podpora-v-pravnim-jednani/podpora-v-pravnim-jednani.pdf">Podpora v&nbsp;právním jednání</a>.</p>

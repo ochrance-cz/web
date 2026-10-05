@@ -8,15 +8,15 @@ date: 2026-03-24
 <p>Podrobnější přehled o toho, co jste nám psali, najdete níže.</p>
 <h3>Autoři podnětů</h3>
 <figure class="image">
-<img src="https://www.ochrance.cz/dokument/hledame_temata_ktera_potrebuji_nasi_pozornost/kolacovy_graf.png" alt="Koláčový graf: Organizace 19 %, Jednotlivci 81 %"></figure>
+<img src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/dokument/hledame_temata_ktera_potrebuji_nasi_pozornost/kolacovy_graf.png" alt="Koláčový graf: Organizace 19 %, Jednotlivci 81 %"></figure>
 <p>Častěji nám psali jednotlivci a to ve čtyřech pětinách všech odpovědí (81 %). Pouze necelá pětina odpovědí, k&nbsp;nám přišla od organizací – neziskových organizací, sociálních služeb či samospráv (19 %). &nbsp;</p>
 <h3>Oblasti života</h3>
 <figure class="image">
-<img src="https://www.ochrance.cz/dokument/hledame_temata_ktera_potrebuji_nasi_pozornost/cloud.png" alt="Obrázek zachycuje příklady oblastí, na které upozorňovali respondenti: životní prostředí a klima, práce a podnikání, bydlení, majetek a daně, bezpečnostní služby, sociální pomoc a zabezpečení, rodina a péče o dítě, právní stát, rovnost a netolerance, zdraví a bioetika, spravedlivý proces, vzdělávání."></figure>
+<img src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/dokument/hledame_temata_ktera_potrebuji_nasi_pozornost/cloud.png" alt="Obrázek zachycuje příklady oblastí, na které upozorňovali respondenti: životní prostředí a klima, práce a podnikání, bydlení, majetek a daně, bezpečnostní služby, sociální pomoc a zabezpečení, rodina a péče o dítě, právní stát, rovnost a netolerance, zdraví a bioetika, spravedlivý proces, vzdělávání."></figure>
 <p>Nejvíce zaznívala témata, která se týkala rodiny a péče o děti (22 %) či sociálních služeb, pomoci a zabezpečení (21 %). O něco méně, ale pořád velmi často jste popisovali problémy v&nbsp;oblastech rovnosti a netolerance (15 %), zdraví (14 %) a bydlení (13 %).&nbsp;</p>
 <h3>Dotčené skupiny</h3>
 <figure class="image">
-<img src="https://www.ochrance.cz/dokument/hledame_temata_ktera_potrebuji_nasi_pozornost/skupiny_obyvatel_2.png" alt="Graf „Kterých skupin obyvatel se podněty nejčastěji týkaly?“ Děti a mladí dospělí 354, Lidé s postižením 303, Celá populace ČR 204, Ženy a dívky 135, Starší lidé 80, Lidé ohrožení chudobou 72, Cizinci 46, Oběti trestných činů 42, Pečující 32, Lidé omezení na svobodě 29, LGBTIQ+ 25, Jiné 41. Celkový počet podnětů byl 804. Součet dat v tabulce je však vyšší. Některé podněty totiž zahrnují více skupin."></figure>
+<img src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/dokument/hledame_temata_ktera_potrebuji_nasi_pozornost/skupiny_obyvatel_2.png" alt="Graf „Kterých skupin obyvatel se podněty nejčastěji týkaly?“ Děti a mladí dospělí 354, Lidé s postižením 303, Celá populace ČR 204, Ženy a dívky 135, Starší lidé 80, Lidé ohrožení chudobou 72, Cizinci 46, Oběti trestných činů 42, Pečující 32, Lidé omezení na svobodě 29, LGBTIQ+ 25, Jiné 41. Celkový počet podnětů byl 804. Součet dat v tabulce je však vyšší. Některé podněty totiž zahrnují více skupin."></figure>
 <p>Téměř v&nbsp;polovině případů se témata týkala dětí a mladých dospělých (44 %). Následovala témata související s lidmi s&nbsp;postižením (38 %) a témata, která se vztahují k celé populaci Česka (31 %).</p>
 <h3>Příklady témat, které jste nám zaslali&nbsp;</h3>
 <p>Zaslali jste nám konkrétní podněty, které souvisí s bezpečím, důstojností či ochranou zranitelných skupin lidí. Níže shrnujeme některé hlavní problémy, 
@@ -38,12 +38,12 @@ date: 2026-03-24
 <a href="https://eso.ochrance.cz/">https://eso.ochrance.cz/</a>.</p>
 <p>Na základě stížností rodičů jsme také šetřili praxi OSPOD při podpoře 
 <strong>kontaktu dětí s&nbsp;rodiči ve výkonu trestu</strong>. Na základě 
-<a href="https://www.ochrance.cz/uploads-import/ESO/VI%204353-22-TK%20Z18%20final.pdf">našeho doporučení</a> vydalo v&nbsp;roce 2025 Ministerstvo práce a sociálních věcí v&nbsp;roce 2025 metodický materiál 
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/VI%204353-22-TK%20Z18%20final.pdf">našeho doporučení</a> vydalo v&nbsp;roce 2025 Ministerstvo práce a sociálních věcí v&nbsp;roce 2025 metodický materiál 
 <a href="https://mpsv.gov.cz/cms/documents/53d61e1f-d3db-d274-f5a1-d068cd6b543f/Metodika_d%C4%9Bti%20v%C4%9Bzn%C4%9Bn%C3%BDch%20rodi%C4%8D%C5%AF_OSPOD.pdf">Spolupráce orgánů sociálně-právní ochrany dětí a Vězeňské služby ve věcech kontaktů dětí s uvězněnými rodiči a osobami blízkými</a>, které má za cíl sjednotit praxi jednotlivých úřadů.</p>
 <p>Dlouhodobě se také zasazujeme o 
 <strong>kvalitní a dostupnou náhradní rodinnou péči</strong>. V&nbsp;minulosti jsme například upozornili na pochybení krajských úřadů 
-<a href="https://www.ochrance.cz/uploads-import/ESO/2226-2020%20V%C3%BDzkumn%C3%A1%20zpr%C3%A1va.pdf">při vyhledávání pěstounů a osvojitelů</a> nebo při 
-<a href="https://www.ochrance.cz/uploads-import/ESO/v%C3%BDzkumn%C3%A1%20zpr%C3%A1va%206324-2021_new.pdf">vedení spisů dětí v pěstounské péči na přechodnou dobu</a>. Pěstounské péči na přechodnou dobu a jejímu fungování jsme věnovali také jeden z&nbsp;našich 
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/2226-2020%20V%C3%BDzkumn%C3%A1%20zpr%C3%A1va.pdf">při vyhledávání pěstounů a osvojitelů</a> nebo při 
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/v%C3%BDzkumn%C3%A1%20zpr%C3%A1va%206324-2021_new.pdf">vedení spisů dětí v pěstounské péči na přechodnou dobu</a>. Pěstounské péči na přechodnou dobu a jejímu fungování jsme věnovali také jeden z&nbsp;našich 
 <a href="https://www.youtube.com/watch?v=QdbuQDDFLxY&amp;embeds_referring_euri=https%3A%2F%2Fwww.ochrance.cz%2F&amp;source_ve_path=MjM4NTE">podcastů Na kávu s Ombudsmanem</a>.&nbsp;</p>
 <blockquote>
 <h4>
@@ -55,12 +55,12 @@ date: 2026-03-24
 <li>přetrvávající předsudky vůči rodičům se zdravotním postižením ohledně schopnosti pečovat o dítě.</li></ul>
 <p>V&nbsp;minulosti jsme se věnovali 
 <strong>dostupnosti služeb pro lidi s&nbsp;PAS</strong>. Na základě našeho 
-<a href="https://www.ochrance.cz/uploads-import/ESO/45_2018_OZP_VV__DOPORUCENI_VOP-final.pdf">doporučení</a> vydalo Ministerstvo práce a sociálních věcí 
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/45_2018_OZP_VV__DOPORUCENI_VOP-final.pdf">doporučení</a> vydalo Ministerstvo práce a sociálních věcí 
 <a href="https://mpsv.gov.cz/cms/documents/ca10faf3-7d54-ec1e-0cff-6d651d3d246b/Metodika-pro-zjistovani-dostupnosti-socialnich-sluzeb-pro-osoby-s-poruchami-autistickeho-spektra.pdf">Metodiku pro zjišťování dostupnosti sociálních služeb pro osoby s poruchami autistického spektra</a> určenou pro krajské úřady při plánování služeb. Na základě našeho 
 <a href="https://www.ochrance.cz/aktualne/lide-s-postizenim-maji-pravo-na-dostupnou-zubni-peci/">doporučení</a> se také zlepšila dostupnost zubní péče pro lidi s&nbsp;PAS a mentálním postižením. Všeobecná zdravotní pojišťovna letos poprvé zveřejnila 
 <a href="https://www.vzp.cz/pojistenci/informace-a-zivotni-situace/stomatologicka-pece/prehled-stomatologickych-pracovist-dle-vybranych-vykonu?fbclid=IwY2xjawQJJuBleHRuA2FlbQIxMABicmlkETBvNzJsSmpjTk42ZG9pVzlPc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHi2BV2gxtyU-TvatFHrtZ3n1mt2hMlRvMXlk2yOl4EMxyVAGH74SQh2vyw77_aem_734dS8R4NPFUV_-zX4OOEw#v854-5-6">seznam speciálních ordinací</a>, které můžou využít pacienti, u nichž je běžné ošetření v ordinaci příliš náročné nebo problematické.</p>
 <p>V&nbsp;našem 
-<a href="https://www.ochrance.cz/uploads-import/ESO/27-2022-OZP-vyzkum.pdf">výzkumu z&nbsp;roku 2023</a> jsme zjistili 
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/27-2022-OZP-vyzkum.pdf">výzkumu z&nbsp;roku 2023</a> jsme zjistili 
 <strong>nedostatky v přístupu jednotlivých krajů při&nbsp;deinstitucionalizaci a transformaci sociálních služeb</strong>. V&nbsp;současné době dokončujeme hned dva navazující dokumenty – analýzu závazků v&nbsp;oblasti nezávislého života lidí s&nbsp;postižením ve společnosti a doporučení k&nbsp;tomu, jak v&nbsp;deinstitucionalizaci postupovat. Oba plánujeme vydat v&nbsp;půlce tohoto roku.</p>
 <blockquote>
 <h4>
@@ -107,7 +107,7 @@ date: 2026-03-24
 <li>neadekvátní ochranu před hlukem a porušováním nočního klidu.</li></ul>
 <p>Dostupným bydlením se už také zabýváme. V&nbsp;minulosti jsme posuzovali, zda 
 <a href="https://www.ochrance.cz/aktualne/vyzkum-obecni-bydleni-z-pohledu-prava-na-rovne-zachazeni/">pravidla pro přidělování obecních bytů neznevýhodňují některé skupiny zranitelných osob</a> a mapovali jsme 
-<a href="https://www.ochrance.cz/uploads-import/ESO/OMB-5%20dobra-praxe_CZ_online%2005-24-1.pdf">dobrou praxi v zajišťování bydlení pro zranitelné lidi</a>. Také jsme upozornili na to, že i v&nbsp;případech, kdy nepůjde o diskriminaci, může 
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/OMB-5%20dobra-praxe_CZ_online%2005-24-1.pdf">dobrou praxi v zajišťování bydlení pro zranitelné lidi</a>. Také jsme upozornili na to, že i v&nbsp;případech, kdy nepůjde o diskriminaci, může 
 <a href="https://www.ochrance.cz/aktualne/nejasna_komunikace_a_neprimerene_tvrdy_postup_obci_pri_nakladani_s_mestskymi_byty_zapricinily_podezreni_na_diskriminaci-_ombudsman_vyzyva_k_naprave/">nejasná komunikace a nepřiměřeně tvrdý postup obcí při nakládání s městskými představovat porušení principů dobré správy</a>. 
 <strong>Podporovali jsme také přijetí zákona o podpoře v bydlení</strong>, jehož cílem je snížení bytové krize v ČR.</p>
 <p>
@@ -134,8 +134,8 @@ date: 2026-03-24
 <a href="https://eso.ochrance.cz/Nalezene/Edit/12256">zprávu</a> o jejím poskytování. O něco později jsme pomohli prosadit 
 <a href="https://www.ochrance.cz/aktualne/penezita_pomoc_obetem_trestnych_cinu_zustava_uz_deset_let_stejna-_na_miste_je_jeji_zvyseni_shoduje_se_zastupce_ombudsmana_s_pomahajicimi_organizacemi/">valorizaci peněžité pomoci</a> a 
 <a href="https://www.ochrance.cz/aktualne/ombudsman_podporuje_pozmenovaci_navrh_k_lex_anicka_-_zajistil_by_stabilni_financovani_pomoci_obetem_trestnych_cinu/">změnu financování pomoci obětem z odklonů a majetkových trestních sankcí</a>. Připravili jsme také nové, srozumitelné a jednodušší formuláře 
-<a href="https://www.ochrance.cz/letaky/zadost_obeti_trestneho_cinu_o_penezitou_pomoc/formular-zadost-obeti-o-penezitou-pomoc.pdf">pro přímé oběti</a> a 
-<a href="https://www.ochrance.cz/letaky/zadost_pozustale_ho_po_obeti_trestneho_cinu_o_penezitou_pomoc/formular-zadost-pozustaleho-o-penezitou-pomoc.pdf">pozůstalé po obětech</a> k podání žádosti o peněžitou pomoc a přesvědčili jsme Ministerstvo spravedlnosti, aby se jimi inspirovalo.</p>
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/zadost_obeti_trestneho_cinu_o_penezitou_pomoc/formular-zadost-obeti-o-penezitou-pomoc.pdf">pro přímé oběti</a> a 
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/zadost_pozustale_ho_po_obeti_trestneho_cinu_o_penezitou_pomoc/formular-zadost-pozustaleho-o-penezitou-pomoc.pdf">pozůstalé po obětech</a> k podání žádosti o peněžitou pomoc a přesvědčili jsme Ministerstvo spravedlnosti, aby se jimi inspirovalo.</p>
 <p>Pro zranitelné osoby v postavení podezřelých či obviněných, je klíčová 
 <strong>orientace v&nbsp;jejich právech a průběhu trestního řízení</strong>. Od loňského roku proto 
 <strong>spolupracujeme s&nbsp;Policí ČR na revizi poučení pro oběti i pachatele trestních činů</strong> s využitím naší příručky 
@@ -220,7 +220,7 @@ date: 2026-03-24
 <p>V&nbsp;případě, že chcete svoji odpovědi nahrát ve znakovém jazyce, můžete odkaz na nahrávku poslat na e-mail&nbsp; 
 <a href="mailto:participace@ochrance.cz">participace@ochrance.cz</a>.</p>
 <figure class="image">
-<img style="aspect-ratio:98/96;" src="https://www.ochrance.cz/dokument/hledame_temata_ktera_potrebuji_nasi_pozornost/symbol_snadno_srozumitelnych_informaci.png" alt="symbol_snadno_srozumitelnych_informaci.png" width="98" height="96"></figure>
+<img style="aspect-ratio:98/96;" src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/dokument/hledame_temata_ktera_potrebuji_nasi_pozornost/symbol_snadno_srozumitelnych_informaci.png" alt="symbol_snadno_srozumitelnych_informaci.png" width="98" height="96"></figure>
 <p>Je tento text pro vás nesrozumitelný? Ozvěte se nám&nbsp;na e-mail&nbsp; 
 <a href="mailto:participace@ochrance.cz">participace@ochrance.cz</a> nebo na telefonní číslo&nbsp;725&nbsp;988&nbsp;016.</p>
 <h2>

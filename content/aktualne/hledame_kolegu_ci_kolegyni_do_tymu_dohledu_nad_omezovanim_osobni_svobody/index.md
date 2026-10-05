@@ -18,7 +18,7 @@ perex: <p>Už 20 let národní preventivní mechanismus přispívá k ochraně p
 <li>Vedení odborných seminářů pro&nbsp;pracovníky zařízení.</li>
 <li>Reprezentaci Kanceláře veřejného ochránce práv a ochránce práv dětí na&nbsp;národní i&nbsp;mezinárodní úrovni.</li></ul>
 <p>Bližší popis pracovní pozice i s&nbsp;ohledem na to, co může zajímat lidi se zdravotním omezením, najdete v&nbsp; 
-<a href="/media/jak_vypada_prace_pravnika_npm.pdf">tomto dokumentu</a>.</p>
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/media/jak_vypada_prace_pravnika_npm.pdf">tomto dokumentu</a>.</p>
 <h4>
 <strong>Co od Vás požadujeme:</strong></h4>
 <ul>
@@ -43,7 +43,7 @@ perex: <p>Už 20 let národní preventivní mechanismus přispívá k ochraně p
 <li>příspěvek na stravování ve výši 96 Kč na den,</li>
 <li>práci v&nbsp;centru Brna s&nbsp;možností parkování.</li></ul>
 <p>Záleží nám na&nbsp;rozmanitosti. Jste vítáni bez ohledu na&nbsp;věk, pohlaví, zdravotní stav, rasu, etnický původ, národnost, sexuální orientaci, náboženské vyznání či&nbsp;světový názor. Jsme náročný, ale férový zaměstnavatel. Pokud vás zajímá blíže, jak to u nás chodí, koukněte do naší&nbsp; 
-<a href="https://www.ochrance.cz/media/personalni_strategie.pdf">personální strategie</a>.</p>
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/media/personalni_strategie.pdf">personální strategie</a>.</p>
 <blockquote>
 <p>Jestli se k&nbsp;nám chcete připojit, napište nám do&nbsp;28. ledna na&nbsp;adresu&nbsp; 
 <strong>michalcova@ochrance.cz</strong>. Napište nám, proč s&nbsp;námi chcete spolupracovat a připojte Váš strukturovaný životopis. Napište také, pokud máte nějaké specifické potřeby nebo doplňující otázky (například v&nbsp;souvislosti se zdravotním omezením).&nbsp;</p>

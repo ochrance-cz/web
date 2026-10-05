@@ -26,13 +26,13 @@ attachments:
 
 <p>Na pováženou je podle zástupce ombudsmana už skutečnost, že na národní ani krajské úrovni neexistuje shoda, jaké služby je možné považovat za komunitní. <em>&bdquo;Náš výzkum ukázal, že strategické dokumenty státu i krajů trpí mnoha podstatnými nedostatky. Není jasné už to, zda všichni znají a pojmenovávají ten správný cíl. Přitom deinstitucionalizace není k diskuzi o tom, zda ano, či ne. Je k diskuzi o tom, jak. A to musíme hledat za pomoci lidí, jichž se právo na důstojný život podle Úmluvy o právech lidí se zdravotním postižením týká,&ldquo;</em> shrnul zástupce ombudsmana Vít Alexander Schorm.</p>
 
-<p><a href="https://www.ochrance.cz/media/obecny_komentar_c._5.pdf">Úmluva</a> podle něj dává <a href="https://www.ochrance.cz/media/pokyny_k_deinstitucionalizaci.pdf">jasná vodítka</a>, jak by měl přechod od ústavní péče ke službám komunitního typu vypadat. Aktuální strategické dokumenty krajů ale většinou postrádají důraz na rušení institucí a neřeší ani riziko, že se ústavní prvky znovu objeví i v&nbsp;transformovaných službách. <em>&bdquo;Ve výsledku pak hrozí, že místo komunitních služeb budou vznikat &sbquo;ústavy na plocho&lsquo;, tedy zařízení pro menší počet klientů, ve kterých ale budou mít život organizovaný podobně jako ve velkém ústavu,&ldquo;</em> uvedl Schorm.</p>
+<p><a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/media/obecny_komentar_c._5.pdf">Úmluva</a> podle něj dává <a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/media/pokyny_k_deinstitucionalizaci.pdf">jasná vodítka</a>, jak by měl přechod od ústavní péče ke službám komunitního typu vypadat. Aktuální strategické dokumenty krajů ale většinou postrádají důraz na rušení institucí a neřeší ani riziko, že se ústavní prvky znovu objeví i v&nbsp;transformovaných službách. <em>&bdquo;Ve výsledku pak hrozí, že místo komunitních služeb budou vznikat &sbquo;ústavy na plocho&lsquo;, tedy zařízení pro menší počet klientů, ve kterých ale budou mít život organizovaný podobně jako ve velkém ústavu,&ldquo;</em> uvedl Schorm.</p>
 
 <p>Na nedostatek soukromí, hromadný časový rozvrh a další nepříjemnosti spojené s životem v&nbsp;ústavu poukázala ve svém vystoupení i sebeobhájkyně Kamila Ježková. V&nbsp;zařízení, kde bydlela, si například nemohli s&nbsp;ostatními klienty vzít jídlo kdykoli mimo určené časy. A zažila i to, že když se zamilovala, v&nbsp;ústavu je s partnerem oddělili.</p>
 
 <p>Celý výzkum plánuje zástupce ombudsmana zveřejnit počátkem příštího roku. Zároveň připravuje i doporučení k&nbsp;deinstitucionalizaci a zapojení lidí s&nbsp;postižením.</p>
 
-<p><img alt="logo_nf_male.png" src="https://www.ochrance.cz/aktualne/lide_s_postizenim_sdileli_u_ombudsmana_sve_zkusenosti_s_pobytem_v_ustavu_i_s_vlastni_cestou_k_nezavislemu_zivotu/logo_nf_male.png" /></p>
+<p><img alt="logo_nf_male.png" src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/lide_s_postizenim_sdileli_u_ombudsmana_sve_zkusenosti_s_pobytem_v_ustavu_i_s_vlastni_cestou_k_nezavislemu_zivotu/logo_nf_male.png" /></p>
 
 <p>&nbsp;</p>
 

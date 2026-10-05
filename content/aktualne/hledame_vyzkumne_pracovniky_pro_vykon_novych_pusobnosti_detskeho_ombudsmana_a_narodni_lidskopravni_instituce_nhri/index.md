@@ -10,7 +10,7 @@ perex: >-
   <a href="https://www.ochrance.cz/aktualne/od_dnesniho_dne_najdou_deti_pravni_ochranu_pod_kridly_detskeho_ombudsmana_hlidacim_psem_lidskych_prav_se_stava_narodni_lidskopravni_instituce_nhri_vse_pod_jednou_strechou_v_brne/">nových působností</a>&nbsp;otevíráme výběrové řízení na pozici výzkumný pracovník/pracovnice se zaměřením na sledování základních práv a svobod a/nebo se zaměřením na práva dětí.&nbsp;Záleží nám na rozmanitosti. Jste vítáni bez ohledu na věk, pohlaví, zdravotní stav, rasu, etnický původ, národnost, sexuální orientaci, náboženské vyznání či světový názor.</p>
 ---
 <p>Jsme náročný, ale férový zaměstnavatel. Podpoříme Vaši jedinečnost a další rozvoj. Sdílíme znalosti a zkušenosti, pořádáme školení, konference, nabízíme výuku jazyků, supervize a další. Uděláme, co půjde, abychom naplnili Vaše individuální potřeby a umožnili Vám sladit pracovní a osobní život. Na oplátku žádáme profesionalitu a výkonnost. Pokud vás zajímá blíže, jaký jsme zaměstnavatel, koukněte do naší 
-<a href="https://www.ochrance.cz/media/personalni_strategie.pdf">personální strategie</a>.</p>
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/media/personalni_strategie.pdf">personální strategie</a>.</p>
 <p>
 <strong>Pracovní náplň bude spočívat především v&nbsp;těchto činnostech:</strong></p>
 <ul>

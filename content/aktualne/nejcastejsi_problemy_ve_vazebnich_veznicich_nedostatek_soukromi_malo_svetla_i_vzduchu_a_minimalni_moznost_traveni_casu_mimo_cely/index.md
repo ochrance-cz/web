@@ -37,9 +37,9 @@ perex: >
 
 <p><a href="https://eso.ochrance.cz/Nalezene/Edit/10920">Souhrnná zpráva z návštěv&nbsp;vazebních věznic</a> (2022)</p>
 
-<p><a href="https://www.ochrance.cz/uploads-import/ESO/EVP_CS_FIN.pdf">Evropská vězeňská pravidla</a> (2021)</p>
+<p><a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/EVP_CS_FIN.pdf">Evropská vězeňská pravidla</a> (2021)</p>
 
-<p><a href="https://www.ochrance.cz/uploads-import/ochrana_osob/ZARIZENI/Veznice/Pravidla-Nelsona-Mandely.pdf">Standardní minimální pravidla OSN pro zacházení s&nbsp;vězněnými osobami (Pravidla Nelsona Mandely)</a></p>
+<p><a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ochrana_osob/ZARIZENI/Veznice/Pravidla-Nelsona-Mandely.pdf">Standardní minimální pravidla OSN pro zacházení s&nbsp;vězněnými osobami (Pravidla Nelsona Mandely)</a></p>
 
 <p>(2020)</p>
 

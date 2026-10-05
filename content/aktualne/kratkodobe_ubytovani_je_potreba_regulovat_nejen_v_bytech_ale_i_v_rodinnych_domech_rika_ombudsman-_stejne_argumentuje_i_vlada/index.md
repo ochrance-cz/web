@@ -13,7 +13,7 @@ attachments:
   - title: Stanovisko vlády k návrhu zákona o cestovním ruchu
     file: https://odok.gov.cz/portal/veklep/material/ALBSDRV99BCD/KORNDSP8748M
   - title: Vyjádření ombudsmana k návrhu zákona o cestovním ruchu
-    file: https://www.ochrance.cz/aktualne/kratkodobe_ubytovani_je_potreba_regulovat_nejen_v_bytech_ale_i_v_rodinnych_domech_rika_ombudsman-_stejne_argumentuje_i_vlada/12621-2026_vyjadreni_pro_vladu.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/kratkodobe_ubytovani_je_potreba_regulovat_nejen_v_bytech_ale_i_v_rodinnych_domech_rika_ombudsman-_stejne_argumentuje_i_vlada/12621-2026_vyjadreni_pro_vladu.pdf
   - title: Sdílené ubytování dostalo pravidla. Ministerstvo vydalo metodiku, po
       které volal jak ombudsman, tak hlavní město Praha (tisková zpráva z roku
       2022)

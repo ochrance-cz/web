@@ -1,0 +1,47 @@
+---
+// SEO / Open Graph meta tags + language alternates.
+interface Props {
+  title: string;
+  description?: string;
+  lang?: 'cs' | 'en';
+  canonical?: string;
+  ogImage?: string;
+  ogType?: string;
+  siteName?: string;
+  /** hreflang alternates, e.g. [{ lang: 'en', href: '/en/...' }]. */
+  alternates?: { lang: string; href: string }[];
+}
+
+const {
+  title,
+  description,
+  lang = 'cs',
+  canonical,
+  ogImage,
+  ogType = 'website',
+  siteName = 'Ombudsman',
+  alternates = [],
+} = Astro.props;
+
+const fullTitle = `${title} | Ombudsman`;
+const ogLocale = lang === 'en' ? 'en_US' : 'cs_CZ';
+---
+{description && <meta name="description" content={description} />}
+{canonical && <link rel="canonical" href={canonical} />}
+
+<meta property="og:type" content={ogType} />
+<meta property="og:title" content={fullTitle} />
+{description && <meta property="og:description" content={description} />}
+<meta property="og:site_name" content={siteName} />
+<meta property="og:locale" content={ogLocale} />
+{canonical && <meta property="og:url" content={canonical} />}
+{ogImage && <meta property="og:image" content={ogImage} />}
+
+<meta name="twitter:card" content={ogImage ? 'summary_large_image' : 'summary'} />
+<meta name="twitter:title" content={fullTitle} />
+{description && <meta name="twitter:description" content={description} />}
+{ogImage && <meta name="twitter:image" content={ogImage} />}
+
+{alternates.map((alt) => (
+  <link rel="alternate" hreflang={alt.lang} href={alt.href} />
+))}

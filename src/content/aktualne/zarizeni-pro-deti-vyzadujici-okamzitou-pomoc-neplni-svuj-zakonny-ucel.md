@@ -1,0 +1,51 @@
+---
+title: Zařízení pro děti vyžadující okamžitou pomoc neplní svůj zákonný účel
+date: 2019-06-12T00:00:00.000Z
+perex: V roce 2016 zahájila ombudsmanka návštěvy v zařízeních pro děti
+  vyžadující okamžitou pomoc. Jedním z cílů bylo zjistit, jak vypadá krizová
+  pomoc dětem a jejich rodinám. V čem pomoc spočívá a jak je úspěšná. Tato
+  zařízení vznikla v roce 1999 a měla sloužit jako krizová zařízení pro děti,
+  které se ocitly bez jakékoliv péče nebo byly jinak vážně ohroženy. Těm měla
+  zařízení poskytnout péči po dobu nezbytnou, než se najde jiné a dlouhodobé
+  řešení. Jak se však ukázalo po návštěvě jedenácti zařízení v průběhu tří let,
+  současná praxe se od původního záměru značně posunula. V současnosti je
+  v České republice provozováno celkem 60 zařízení pro děti vyžadující okamžitou
+  pomoc.
+kategorie:
+  - tz
+---
+*„Návštěvy zařízení ukázaly, že většina z nich neplní krizový charakter a děti v nich žijí déle, než předpokládá zákon. Ne všechna zařízení také dostatečně pracují s rodinami dětí, čímž snižují jejich šanci na návrat domů. Zařízení se často soustředí zejména na hmotné zabezpečení dítěte, jako je poskytnutí stravy a ubytování, a upozaďují psychologickou pomoc dítěti,“* říká ombudsmanka Anna Šabatová.
+
+Zařízení pro děti vyžadující okamžitou pomoc jsou často zřizována při zařízeních zdravotnického či školského typu, jako jsou zejména dětské domovy nebo dětské domovy pro děti do 3 let (bývalé kojenecké ústavy). V takových případech je nelze považovat za zařízení rodinného typu, což ale předpokládá zákon, který je zřizuje.
+
+## Systémové problémy v zařízeních pro děti vyžadující okamžitou pomoc
+
+##### Nepřiměřená délka pobytu dětí v zařízení určenému k poskytování krátkodobé pomoci
+
+Délka pobytu dítěte v zařízení pro děti vyžadující okamžitou pomoc na základě žádosti OSPOD nebo žádosti dítěte může být maximálně 1 rok. Z celkového počtu 125 dětí jich však 33 žilo v zařízeních v době návštěvy déle než jeden rok.
+
+Průměrná doba pobytu byla přibližně 11,5 měsíců. To, co zákon považuje za maximální možnou délku pobytu, kterou lze akceptovat pouze ve výjimečných případech, se ve skutečnosti ukazuje být běžnou praxí. Tato zařízení však nejsou uzpůsobena k dlouhodobé systematické pomoci dětem.
+
+##### Umísťování malých dětí do zařízení pro děti vyžadující okamžitou pomoc
+
+Mezinárodní organizace nebo organizace zabývající se péčí o děti Českou republiku opakovaně upozorňují, že péče o malé děti, a zvláště o mladší tří let, má být poskytována výhradně v rodině. Opakovaně na to upozorňuje také ombudsmanka.
+
+Z celkového počtu 125 dětí v navštívených zařízeních jich bylo 71 přijato ve věku nižším než 7 let, 24 z nich dokonce ve věku nižším než 3 roky.
+
+Pracovníci se setkali s dítětem, které mělo v době návštěvy 6,5 let a v zařízení žilo již 3 roky. A také s dítětem, jemuž byly 3 roky, a v zařízení žilo od 1 měsíce věku.
+
+##### Špatné bytové či majetkové poměry rodiny jako důvod pro umístění
+
+Zákon stanoví, že nedostatečné bytové poměry nebo majetkové poměry rodičů nemohou být samy o sobě důvodem pro rozhodnutí soudu o ústavní výchově, jestliže jsou jinak rodiče způsobilí zabezpečit řádnou výchovu dítěte a plnění dalších povinností vyplývajících z jejich rodičovské odpovědnosti.
+
+Z návštěv zařízení však bohužel vyplynulo, že u téměř 40 % dětí, které v zařízeních žijí, je jediným důvodem pro pobyt v zařízení a tedy odloučení od rodiny špatná bytová či materiální situace rodiny.
+
+##### Slučování více druhů zařízení pro děti tzv. pod jednu střechu
+
+Zařízení pro děti vyžadující okamžitou pomoc mají vytvářet materiální, technické a hygienické podmínky pro poskytování sociálněprávní ochrany tak, aby se co nejvíce podobaly podmínkám v přirozeném rodinném prostředí.
+
+Praxe je však taková, že většina zařízení pro děti vyžadující okamžitou pomoc (celkem 33 z 60 aktuálně fungujících) není zřízena samostatně, ale je součástí některého ze zařízení pro výkon ústavní výchovy nebo dětských domovů pro děti do 3 let věku.
+
+ 
+
+**Závěrečná zpráva:  [Zařízení pro děti vyžadující okamžitou pomoc](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ochrana_osob/ZARIZENI/Ustavni_vychova/2019_0110_Zprava_DET_zarizeni_pro_deti_A4_CS_04_web.pdf "Otevření do nového okna") (1.4 MB, Adobe Acrobat dokument)**

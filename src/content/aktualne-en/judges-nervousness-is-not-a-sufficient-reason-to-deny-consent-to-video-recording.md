@@ -1,0 +1,19 @@
+---
+title: Judge’s nervousness is not a sufficient reason to deny consent to video
+  recording
+date: 2018-10-03T00:00:00.000Z
+perex: ""
+categories:
+  - news
+---
+The Deputy Ombudsman inquired into the manner of resolution of a complaint against an inappropriate conduct of a judge of the Regional Court in Ostrava. The complaint was directed against, inter alia, the presiding judge of the appellate chamber, who had prohibited the complainant from making a video recording of the hearing because “he was nervous when filmed”. The complainant also objected to the composition of the appellate chamber.
+
+The president of the court concluded that the complaint was substantively unfounded but noted that the complainant’s submission expressed his disagreement with the procedure and decision of the appellate chamber and potential remedies could be sought by means specified by relevant procedural rules. She summarised that the complainant had incurred no harm to his rights in the relevant proceedings: he prevailed in the dispute, was present at the hearing and made an audio recording.
+
+Nevertheless, the Deputy Ombudsman concluded that the president of the court had made an error in dealing with the complaint. Firstly, denying consent to video recording requires a relevant and legitimate reason, even though the law does not require that a reason be stated for denial of consent to video recording. If the judge denies consent to video recording, this has the same ultimate effect as if he forbade it, i.e. limited the publicity of the hearing.
+
+The Deputy Ombudsman also concluded that the fact the judge is “nervous” when filmed is not a legitimate reason for not giving consent to recording. Judges are professionals and the high standards for their conduct serve to increase public confidence in the judiciary, which is a necessary prerequisite for its independence. The fact that the court ultimately decided in favour of the complainant is irrelevant in this regard.
+
+The president of the court also made an error when she classified the submission as filed against the court’s procedure. Conduct of a judge that jeopardises or even merely undermines trust in the independence, impartiality and fairness of judicial decision-making or the independence, impartiality and dignity of the judicial office constitutes inappropriate conduct.
+
+The president of the court admitted she had made an error in dealing with the complaint and made sufficient steps to remedy the situation.

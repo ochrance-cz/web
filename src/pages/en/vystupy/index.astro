@@ -1,0 +1,31 @@
+---
+import PageHeader from '../../../components/site-copy/headers/en-vystupy.astro';
+import * as pageCopy0 from '../../../components/page-content/section-pages-en/vystupy.astro';
+// /en/vystupy/ — list of output ("Publications") categories. Mirrors the Czech
+// vystupy landing (src/pages/vystupy/index.astro). The Czech landing orders by
+// an explicit `itemOrder` from its Hugo `_index`; the EN section has no
+// `itemOrder`, so (as production /en/vystupy/ shows) the list is simply the
+// `listed: true` categories sorted by plural. No hardcoded "Zpravodaj" link.
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import TextHeader from '../../../components/TextHeader.astro';
+import LinkList from '../../../components/LinkList.astro';
+import { url } from '../../../lib/paths';
+
+const terms = (await getCollection('vystupy-en')) ?? [];
+
+const items = terms
+  .filter((c) => c.data.listed === true)
+  .sort((a, b) => (a.data.plural ?? a.data.title).localeCompare(b.data.plural ?? b.data.title, 'en'))
+  .map((c) => ({ link: url('en', 'vystupy', c.id), text: c.data.plural ?? c.data.title }));
+
+const pageTitle = pageCopy0.data.title;
+---
+<BaseLayout title={pageTitle} lang="en">
+  <main>
+    <PageHeader />
+    <section>
+      <LinkList items={items} />
+    </section>
+  </main>
+</BaseLayout>

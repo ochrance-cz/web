@@ -23,10 +23,10 @@ perex: <p>Až do 18. listopadu si mohou návštěvníci Galerie U Františkánů
 <tr>
 <td>
 <figure class="image">
-<img src="https://www.ochrance.cz/aktualne/pohlednout_na_kreslenou_pravdu_diky_komiksu-_reditelka_la_strady_a_zastupce_detskeho_ombudsmana_spolecne_zahajili_vystavu_o_obchodovani_s_lidmi/vernisaz_5.jpg" alt="Na snímku je jeden z plakátů výstavy. Je na něm drobná postavička v rohu, po  které se sápe stín ruky. Pod obrázkem jsou údaje, kam se můžou oběti vykořisťování obrátit."></figure></td>
+<img src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/pohlednout_na_kreslenou_pravdu_diky_komiksu-_reditelka_la_strady_a_zastupce_detskeho_ombudsmana_spolecne_zahajili_vystavu_o_obchodovani_s_lidmi/vernisaz_5.jpg" alt="Na snímku je jeden z plakátů výstavy. Je na něm drobná postavička v rohu, po  které se sápe stín ruky. Pod obrázkem jsou údaje, kam se můžou oběti vykořisťování obrátit."></figure></td>
 <td>
 <figure class="image">
-<img src="https://www.ochrance.cz/aktualne/pohlednout_na_kreslenou_pravdu_diky_komiksu-_reditelka_la_strady_a_zastupce_detskeho_ombudsmana_spolecne_zahajili_vystavu_o_obchodovani_s_lidmi/vernisaz_6.jpg" alt="Na snímku ze zástupce dětského ombudsmana, jak si prohlíží jedno z vystavovaných děl."></figure></td></tr></tbody></table></figure>
+<img src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/pohlednout_na_kreslenou_pravdu_diky_komiksu-_reditelka_la_strady_a_zastupce_detskeho_ombudsmana_spolecne_zahajili_vystavu_o_obchodovani_s_lidmi/vernisaz_6.jpg" alt="Na snímku ze zástupce dětského ombudsmana, jak si prohlíží jedno z vystavovaných děl."></figure></td></tr></tbody></table></figure>
 <p>Výtvarnou soutěž, z&nbsp;níž komiksy a plakáty vyvstaly, pořádala organizace La Strada ve spolupráci s Kanceláří veřejného ochránce práv a ochránce práv dětí za podpory Dětského fondu OSN a Úřadu vysokého komisaře OSN pro uprchlíky v ČR. Organizace La Strada se prevencí obchodu s&nbsp;lidmi a vykořisťováním v&nbsp;Česku zabývá už 30 let, což zahájení výstavy taktéž připomnělo. Výtvarníci se museli seznámit s&nbsp; životními útrapami obchodovaných dětí třeba i proto, aby se vyhnuli nevhodným stereotypům, které nám někdy brání rozpoznat obchodované lidi.
 <i>&nbsp;</i></p>
 <p>
@@ -39,8 +39,8 @@ perex: <p>Až do 18. listopadu si mohou návštěvníci Galerie U Františkánů
 <tr>
 <td>
 <figure class="image">
-<img src="https://www.ochrance.cz/aktualne/pohlednout_na_kreslenou_pravdu_diky_komiksu-_reditelka_la_strady_a_zastupce_detskeho_ombudsmana_spolecne_zahajili_vystavu_o_obchodovani_s_lidmi/vernisaz_katalog_ii.jpg" alt="Na snímku je katalog z vernisáže se všemi výtvarnými pracemi."></figure></td>
+<img src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/pohlednout_na_kreslenou_pravdu_diky_komiksu-_reditelka_la_strady_a_zastupce_detskeho_ombudsmana_spolecne_zahajili_vystavu_o_obchodovani_s_lidmi/vernisaz_katalog_ii.jpg" alt="Na snímku je katalog z vernisáže se všemi výtvarnými pracemi."></figure></td>
 <td>
 <figure class="image">
-<img src="https://www.ochrance.cz/aktualne/pohlednout_na_kreslenou_pravdu_diky_komiksu-_reditelka_la_strady_a_zastupce_detskeho_ombudsmana_spolecne_zahajili_vystavu_o_obchodovani_s_lidmi/vernisaz_3.jpg" alt="Na fotografii si právničky Kanceláře ombudsmana prohlížejí vystavovaný obrázek."></figure></td></tr></tbody></table></figure>
+<img src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/pohlednout_na_kreslenou_pravdu_diky_komiksu-_reditelka_la_strady_a_zastupce_detskeho_ombudsmana_spolecne_zahajili_vystavu_o_obchodovani_s_lidmi/vernisaz_3.jpg" alt="Na fotografii si právničky Kanceláře ombudsmana prohlížejí vystavovaný obrázek."></figure></td></tr></tbody></table></figure>
 <p>Výstupem výstavy je tištěný katalog se všemi komiksy. V současnosti se dokončují práce na letáku, který po tisku bude Kancelář ombudsmana a dětského ombudsmana společně s La Stradou a dalšími partnery šířit v několika jazykových verzích ve veřejném prostoru.</p>

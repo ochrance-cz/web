@@ -18,7 +18,7 @@ attachments:
   - title: Tisková zpráva – 16. 11. 2023
     file: https://www.ochrance.cz/aktualne/zastupce_ombudsmana_chce_zlepsit_postaveni_obeti_trestnych_cinu_zadajicich_o_penezitou_pomoc_od_statu-_s_ministerstvem_spravedlnosti_bude_jednat_o_svych_doporucenich/
 ---
-<p><img alt="24_02_21_penezita_pomoc.png" src="https://www.ochrance.cz/aktualne/penezita_pomoc_obetem_trestnych_cinu_zustava_uz_deset_let_stejna-_na_miste_je_jeji_zvyseni_shoduje_se_zastupce_ombudsmana_s_pomahajicimi_organizacemi/24_02_21_penezita_pomoc.png" /></p>
+<p><img alt="24_02_21_penezita_pomoc.png" src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/penezita_pomoc_obetem_trestnych_cinu_zustava_uz_deset_let_stejna-_na_miste_je_jeji_zvyseni_shoduje_se_zastupce_ombudsmana_s_pomahajicimi_organizacemi/24_02_21_penezita_pomoc.png" /></p>
 
 <p><em>&bdquo;</em><a href="https://www.zakonyprolidi.cz/cs/2013-45#p28"><em>Současná výše</em></a><em> peněžité pomoci už nepostačuje, na tom se shodneme i s&nbsp;Ministerstvem spravedlnosti. Doufám, že bychom se v&nbsp;dohledné době mohli dočkat i konkrétního návrhu, o kolik by mohla pomoc pro oběti trestných činů narůst. Zvýšení částek si pak vyžádá změnu zákona,&ldquo;</em> vysvětlil zástupce ombudsmana Vít Alexander Schorm.</p>
 

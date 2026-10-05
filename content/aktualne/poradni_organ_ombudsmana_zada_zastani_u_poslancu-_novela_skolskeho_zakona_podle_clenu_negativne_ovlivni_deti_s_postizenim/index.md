@@ -13,7 +13,7 @@ perex: >
   a neotevření školního poradenského pracoviště nepedagogickým pracovníkům
   negativně ovlivní vzdělávání dětí s&nbsp;postižením.</p>
 attachments:
-  - file: https://www.ochrance.cz/aktualne/poradni_organ_ombudsmana_zada_zastani_u_poslancu-_novela_skolskeho_zakona_podle_clenu_negativne_ovlivni_deti_s_postizenim/usneseni_2024_16_k_novele_skolskeho_zakona_a_zakona_o_pedagogickych_pracovnicich.pdf
+  - file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/poradni_organ_ombudsmana_zada_zastani_u_poslancu-_novela_skolskeho_zakona_podle_clenu_negativne_ovlivni_deti_s_postizenim/usneseni_2024_16_k_novele_skolskeho_zakona_a_zakona_o_pedagogickych_pracovnicich.pdf
     title: Usnesení poradního orgánu k novele školského zákona a zákona o
       pedagogických pracovnících
   - title: Tisková zpráva z 3. 9. 2024

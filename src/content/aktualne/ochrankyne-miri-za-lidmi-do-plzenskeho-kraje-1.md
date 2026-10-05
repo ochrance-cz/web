@@ -1,0 +1,21 @@
+---
+title: Ochránkyně míří za lidmi do Plzeňského kraje
+date: 2015-10-01T00:00:00.000Z
+perex: Ve středu 14. října budou mít lidé v Plzeňském kraji příležitost setkat
+  se s veřejnou ochránkyní práv Annou Šabatovou. Lidé toho mohou využít
+  k získání informací o tom, jak řešit některé životní situace, mohou přímo
+  podat podnět k šetření, dozví se, s čím vším jim může ombudsman pomoci.
+kategorie:
+  - tz
+---
+Návštěva začne ráno v Domově pro osoby se zdravotním Stod, kde se ochránkyně seznámí s prací personálu, podmínkami v domově a péčí o klienty.
+
+**V 11:00 h bude za přítomnosti ochránkyně otevřen dočasný informační stánek na Krajském úřadě Plzeňského kraje**. Až do 15:30 sem mohou lidé přicházet se svými problémy. Právníci Kanceláře veřejného ochránce práv jim budou vysvětlovat působnost a pravomoci ochránkyně a na místě s nimi také mohou sepsat či převzít podnět k šetření, tedy stížnost na úřady nebo na diskriminaci.
+
+V průběhu dne **se ochránkyně setká také se zástupci kraje a obcí**. Neformálně budou hovořit o nejčastějších problémech, s nimiž se lidé na ochránkyni obracejí, ale také o potížích, které řeší úřady.
+
+V dopoledních hodinách se uskuteční i speciální výukový program pro studenty vybrané střední školy. Studenti se budou moci zapojit do interaktivní hry, při níž budou řešit situace, které mohou potkat i je samotné. Dozví se víc o svých právech i právech druhých, o tom, jak se bránit při porušování práv, s čím jim může pomoci veřejná ochránkyně práv, kdy a jak se na ni obracet.
+
+Návštěvu Plzeňského kraje zakončí večerní **setkání ochránkyně s občany v Knihovně města Plzně od 17:00 h**. Ti, kdo se ho zúčastní, se mohou těšit na krátké divadelní představení, které jim na reálném příběhu ukáže hlavní téma diskuze – co dělat, když se setkáte s diskriminací v zaměstnání. Účastníci večera se sami mohou do představení zapojovat se svými zkušenostmi a radami, jak problém řešit. Veřejná ochránkyně práv a její spolupracovníci pak lidem vysvětlí, jak mají postupovat, co říkají právní předpisy, jaké jsou možnosti ochránkyně pomoci při řešení těchto problémů apod. Prostor však bude i pro dotazy k dalším životním situacím a k vysvětlení, čím se ochránkyně může zabývat, s jakými problémy lidem pomáhá. Vstup na večerní setkání je volný.
+
+![](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/uploads/RTEmagicC_esf_eu_16.jpg.jpg)

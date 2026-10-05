@@ -18,9 +18,9 @@ perex: >
   práci u České správy sociálního zabezpečení (ČSSZ).</p>
 attachments:
   - title: DPP a DPČ při evidenci na úřadu práce
-    file: https://www.ochrance.cz/aktualne/ombudsman_v_dobe_letnich_brigad_upozornuje_na_povinnost_nezamestnanych_v_evidenci_uradu_prace_vcasne_nahlaseni_privydelku_usetri_neprijemnosti_i_penize/dpp_a_dpc_prehled.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/ombudsman_v_dobe_letnich_brigad_upozornuje_na_povinnost_nezamestnanych_v_evidenci_uradu_prace_vcasne_nahlaseni_privydelku_usetri_neprijemnosti_i_penize/dpp_a_dpc_prehled.pdf
   - title: Leták - vyřazení z evidence uchazečů o práci
-    file: https://www.ochrance.cz/letaky/vyrazeni-z-evidence-up/vyrazeni-z-evidence-up.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/vyrazeni-z-evidence-up/vyrazeni-z-evidence-up.pdf
 ---
 <p>Povinné oznámení možného přivýdělku úřadu práce se vztahuje jak na dohody o provedení práce (DPP), tak na dohody o pracovní činnosti (DPČ). Důsledky pro nezaměstnané se liší podle typu dohody. Pokud si při práci na DPČ lidé vydělají maximálně polovinu minimální mzdy, mohou zůstat v&nbsp;evidenci uchazečů o zaměstnání a stát za ně nadále platí&nbsp; zdravotní pojištění. Po dobu trvání &nbsp;DPČ nemají nárok na podporu v&nbsp;nezaměstnanosti. Naproti tomu lidé pracující na DPP v&nbsp;evidenci nezaměstnaných vůbec být nesmí a nemohou ani dostávat podporu.</p>
 
@@ -32,4 +32,4 @@ attachments:
 
 <p>Problémům mohou nezaměstnaní v&nbsp;evidenci úřadu práce předejít především sami, když budou přivýdělek důsledně oznamovat. Od 1. července mají zaměstnavatelé navíc novou povinnost <a href="https://www.zakonyprolidi.cz/cs/1992-589#p9a">informovat</a> Českou správy sociálního zabezpečení kromě DPČ nově také o všech DPP<em>. </em>Do 20. srpna pak musí stihnout doplnit informace o dříve uzavřených dohodách. <em>&bdquo;Úřady práce si budou moci ověřit, zda nezaměstnaný nějakou dohodu neuzavřel. To by mohlo zabránit extrémním případům, kdy lidé musí vracet podporu za dlouhé měsíce jenom proto, že zapomněli na trvající dohody z&nbsp;minulosti,&ldquo;</em> věří ombudsman Stanislav Křeček.</p>
 
-<p><img alt="dpp_a_dpc_prehled.png" src="https://www.ochrance.cz/aktualne/ombudsman_v_dobe_letnich_brigad_upozornuje_na_povinnost_nezamestnanych_v_evidenci_uradu_prace_vcasne_nahlaseni_privydelku_usetri_neprijemnosti_i_penize/dpp_a_dpc_prehled.png" /></p>
+<p><img alt="dpp_a_dpc_prehled.png" src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/ombudsman_v_dobe_letnich_brigad_upozornuje_na_povinnost_nezamestnanych_v_evidenci_uradu_prace_vcasne_nahlaseni_privydelku_usetri_neprijemnosti_i_penize/dpp_a_dpc_prehled.png" /></p>

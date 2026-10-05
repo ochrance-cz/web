@@ -18,11 +18,11 @@ perex: >
 
 <p>&nbsp;</p>
 
-<p><a href="https://www.ochrance.cz/letaky/zdravotnictvi-stiznosti/zdravotnictvi-stiznosti.pdf">Leták stížnosti ve zdravotnictví</a>&nbsp;</p>
+<p><a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/zdravotnictvi-stiznosti/zdravotnictvi-stiznosti.pdf">Leták stížnosti ve zdravotnictví</a>&nbsp;</p>
 
 <p><a href="https://www.ochrance.cz/aktualne/na_kavu_s_ombudsmanem_84-_dil_psychiatrie/">Odkaz na podcast č. 84</a></p>
 
-<p><a href="https://www.ochrance.cz/letaky/stiznost-na-socialni-sluzbu/stiznost-na-socialni-sluzbu.pdf">Leták stížnosti v&nbsp;sociálních službách</a>&nbsp;</p>
+<p><a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/stiznost-na-socialni-sluzbu/stiznost-na-socialni-sluzbu.pdf">Leták stížnosti v&nbsp;sociálních službách</a>&nbsp;</p>
 
 <p>&nbsp;</p>
 

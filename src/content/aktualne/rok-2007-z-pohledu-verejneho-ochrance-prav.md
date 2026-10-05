@@ -1,0 +1,62 @@
+---
+title: Rok 2007 z pohledu veřejného ochránce práv
+date: 2008-04-24T00:00:00.000Z
+perex: ""
+kategorie:
+  - tz
+---
+V průběhu roku 2007 se na ochránce obrátili občané s 6 062 stížnostmi a žádostmi o pomoc. Skladba podnětů se prakticky neodlišovala od minulých let – převažovaly podněty v působnosti, mimo působnost směřovalo 42 % podnětů. Nejvíce občanů se na ochránce trvale obrací s problémy v oblasti sociálního zabezpečení, státní správy soudů, stavebního řádu, policie a zdravotnictví. Především v oblasti sociálního zabezpečení zaznamenal ochránce v uplynulém roce nejvýraznější nárůst počtu stížností. K meziročnímu poklesu došlo naopak u stížností z oblasti samosprávy, práva na informace, problematiky daní, cla a poplatků, dopravy a rovněž v oblasti ochrany práv dětí, mládeže a rodiny. Trvale absolutně nejvyšší počet podnětů, s nimiž se občané na ochránce obracejí, se týká civilněprávních věcí, které nespadají do působnosti a ochránce může pomoci pouze právní radou.
+
+Ve 33 případech využil ochránce svého oprávnění zahájit šetření z vlastní iniciativy. Jednalo se o problémy obecného charakteru nebo o takové situace, kdy se ochránce o postupu úřadů dozvěděl z hromadných sdělovacích prostředků.
+
+#### 420 pochybení a žaloba ve veřejném zájmu
+
+Ve 420 případech zjistil ochránce pochybení úřadu, které ve 12 případech úřad nenapravil a neprojevil snahu přijmout navrhovaná opatření. Ochránce proto využil „sankčního“ oprávnění a o chybném jednání vyrozuměl nadřízený orgán daného úřadu nebo informoval veřejnost. V rámci sankčního oprávnění se také obrátil na vládu v záležitosti průtahů v činnosti Ministerstva pro místní rozvoj (přezkumná řízení na úseku stavebního řádu) a Ministerstva práce a sociálních věcí (odvolací řízení v případě vyřazení z evidence uchazečů o zaměstnání). Vláda na základě zprávy ochránce uložila resortním ministrům, aby realizovali opatření k zajištění dodržování lhůt stanovených správním řádem. Ke konci roku obdržel ochránce informace o přijatých opatřeních, jejichž účinnost v současné době vyhodnocuje.
+
+V roce 2007 byl ochránce nucen přistoupit i k mimořádnému opatření, kdy navrhl nejvyšší státní zástupkyni podání žaloby k ochraně veřejného zájmu. Krajský úřad Zlínského kraje prodloužil povolení nakládat s odpady i přesto, že podle znaleckých posudků došlo činností firmy ke kontaminaci půdy a několikanásobnému překročení limitních hodnot nebezpečných látek. Přestože dochází k ohrožení lidského zdraví a negativním dopadům na životní prostředí, krajský úřad se záležitostí odmítá znovu zabývat.
+
+### Významné případy
+
+#### Vystěhování romských rodin ze Vsetína
+
+V šetření z vlastní iniciativy zjistil ochránce nedostatky v systému vyplácení sociálních dávek, nečinnosti orgánu sociálně-právní ochrany dětí Městského úřadu Vsetín v oblasti zákonem požadované práce s rodinami a v prevenci k zajištění práva dětí na příznivý vývoj. Nečinný byl i stavební úřad, který léta pouze přihlížel zhoršujícímu se stavebně-technickému stavu domu na ul. Smetanova.
+
+Především však ochránce kritizoval vystěhování šesti rodin ze Vsetína na Olomoucko a Jesenicko a přenesení odpovědnosti na jiné obce. Tři z rodin přitom neměly vůči Vsetínu žádné dluhy, ostatní tři rodiny svůj dluh řádně splácely. Přestěhovány byly do domů ve velmi špatném technickém stavu. Obzvlášť špatná je situace rodiny vystěhované do obce Čechy pod Kosířem, kde stavební úřad dokonce nařídil demolici stavby, protože ohrožovala zdraví a životy osob. Rodina za těchto okolností odmítla dům převzít do vlastnictví. Město Vsetín, kterému nemovitost aktuálně patří, rodině v zimě odpojilo elektrický proud, přestože rodina nejen řádně splácí půjčku, ale každý měsíc u starosty obce deponuje i částku na úhradu plynu a elektřiny.
+
+Problémy, s nimiž se rodina díky nezákonnému postupu města Vsetín potýká, by se nyní mohly vyřešit. Na společném jednání město Vsetín přislíbilo, že na své náklady zajistí nezbytnou opravu, aby dům splňoval podmínky pro trvalé bydlení.
+
+#### Nepovolený sklad odpadů v Libčanech
+
+Zástupkyně ochránce zahájila šetření případu nepovoleného skladování nebezpečných občanů v Libčanech u Hradce Králové. Cílem je prověřit postup správních orgánů, které včas nezabránily nepovolené a nebezpečné činnosti. Šetření má také zjistit, jak byla zajištěna bezpečnost občanů, zdraví lidí a ochrana životního prostředí. V současné době probíhá vyhodnocování podkladů získaných při osobním jednání se zástupci Ministerstva životního prostředí.
+
+#### Kontroly nad dodržováním pracovněprávních předpisů
+
+Ochránce ukončil šetření z vlastní iniciativy ve věci kontroly nad dodržováním pracovněprávních a mzdových předpisů orgány inspekce práce. Ochránce upozornil především na nedůslednost prováděných kontrolních šetření, kdy oblastní inspektoráty práce neměly důsledně prokázáno, že zaměstnavatel odstranil zjištěné nedostatky nebo přijal taková opatření, aby se chyby neopakovaly. Inspektorátům ochránce dále vytkl neukládání sankcí tam, kdy došlo k závažným zásahům do práv zaměstnanců. Za zvláště alarmující považuje ochránce nedostačující počet inspektorů, což snižuje efektivní výkon kontroly.
+
+#### Zákaz styku s dítětem
+
+Nově se ochránce v roce 2007 setkával s případy, kdy orgány sociálně-právní ochrany dětí rozhodovaly, že dítě umístěné v zařízení okamžité pomoci nebude mít kontakt s rodiči a dalšími členy rodiny. Děti se pak skutečně nesměly stýkat s rodiči i přesto, že o tom nerozhodl soud, který jako jediný má pravomoc upravit styk s rodiči. Orgány sociálně-právní ochrany dětí se tak dopouštějí výrazného překračování svých pravomocí, protože veřejná moc musí být vždy vykonávána pouze na základě zákona a v jeho mezích. Ochránce doporučil krajským úřadům, aby se ve své kontrolní a metodické činnosti zaměřily především na následnou sociální práci OSPOD, tedy na situace následující po odnětí dítěte z péče rodičů.
+
+#### Velké dopravní stavby
+
+Ochránce opakovaně zaznamenává nedobrou praxi při projednávání velkých infrastrukturních staveb. Vedle četné satelitní zástavby okolí krajských měst a rozsáhlých projektů obchodních a logistických center se ochránce i nadále setkává s nekoncepčním přístupem resortu dopravy k investicím do silniční infrastruktury. Typická je absence investiční strategie, nekoordinované řešení dopravních staveb nebo upřednostňování finančně náročných řešení. Problémem zůstává i neprovázanost povolovacích procedur, což potvrdilo i šetření ve věci plánované rychlostní komunikace R52 Brno – Vídeň.
+
+### Doporučení Poslanecké sněmovně
+
+Ochránce v Souhrnné zprávě upozorňuje na některé legislativní podněty z minulých let, které dosud nebyly reálně splněny a předkládá nová doporučení vyplývající z výsledků šetření.
+
+Ochránce např. doporučuje zpracovat do konce roku 2008 návrh zákona, který vyřeší vlastnické vztahy k nemovitostem, jež jsou v katastru nemovitostí evidovány bez vlastníka. Ke stejnému termínu doporučuje předložení návrhu novely zákona o hornické činnosti, který uloží těžebním společnostem povinnost předložit dohody o vyřešení střetu zájmů i s vlastníky dotčených objektů v případech, kdy o to písemně požádají.
+
+Ochránce Sněmovně také doporučuje, aby požádala vládu o schválení věcného záměru zákona o sociálním bydlení do konce roku 2008 a o předložení návrhu zákona o sociálním bydlení do června 2009.
+
+V oblasti důchodového pojištění ochránce doporučuje, aby byla do konce roku 2008 předložena novela zákona o důchodovém pojištění, kterou bude garantována minimální výše důchodu osobám, které dlouhodobě pečovaly o blízkou závislou osobu a neměly tak možnost získat v rozhodném období výdělek.
+
+Nově ochránce doporučuje Poslanecké sněmovně, aby požádala vládu o schválení věcného záměru nového zákona o ochraně spotřebitele, který by mj. svěřil vybraným orgánům oprávnění závazně rozhodovat spotřebitelské spory obdobně, jako je tomu u Českého telekomunikačního úřadu. Ochránce dále doporučuje předložení novely zákona o obcích, krajích a hl. městě Praze, který by obsahoval ustanovení o hospodaření s majetkem samosprávných celků, pravidla pro hospodaření s byty aj., jak bylo uvedeno v návrhu Ministerstva vnitra předloženém do vnějšího připomínkového řízení.
+
+V oblasti sociální politiky doporučuje ochránce sněmovně, aby požádala vládu o předložení novely zákona o důchodovém pojištění, která zakotví nárok na sirotčí důchod alespoň v minimální garantované výši i těm osiřelým dětem, jejichž rodiče v okamžiku smrti nesplnili podmínky pro nárok na starobní či invalidní důchod.
+
+V oblasti sociálně-právní ochrany dětí doporučuje ochránce mimo jiné předložení novely zákona o rodině, podle které by rozhodnutí o odnětí dítěte bylo vydáváno vždy jen na dobu určitou, přičemž pokud by trvaly důvody pro odnětí dítěte, musely by být specifikovány v novém rozhodnutí. Vytvoří se tak dohled nad prověřováním trvání důvodů pro umístění dítěte mimo rodinu.
+
+ 
+
+Celý text  [Souhrnné zprávy za rok 2007](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/zpravy_pro_poslaneckou_snemovnu/Souhrnna_zprava_VOP_2007.pdf "Otevření do nového okna") (1.2 MB, Adobe Acrobat dokument).

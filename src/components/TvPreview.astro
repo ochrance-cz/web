@@ -1,0 +1,54 @@
+---
+// Media/TV card: image, date+tags, title (h4), perex.
+import { renderMarkdown } from '../lib/markdown';
+import FormattedDate from './FormattedDate.astro';
+import Tags from './Tags.astro';
+
+interface Props {
+  href: string;
+  title: string;
+  pic?: string;
+  perex?: string;
+  date?: Date | string;
+  tags?: string[];
+  icon?: string;
+  locale?: 'cs' | 'en';
+  showMeta?: boolean;
+}
+
+const {
+  href,
+  title,
+  pic,
+  perex,
+  date,
+  tags = [],
+  icon = 'arrow',
+  locale = 'cs',
+  showMeta = true,
+} = Astro.props;
+
+const perexHtml = perex ? await renderMarkdown(perex) : '';
+---
+<article class="_news-preview">
+  {pic && (
+    <div class="img-wrapper">
+      <img src={pic} alt="" aria-hidden="true" />
+    </div>
+  )}
+
+  <div>
+    {date && showMeta && (
+      <p class="details">
+        <FormattedDate date={date} locale={locale} />
+        <Tags tags={tags} />
+      </p>
+    )}
+
+    <h4>
+      <a href={href}><span class={`icon-${icon}`} aria-hidden="true"></span>{title}</a>
+    </h4>
+
+    {perexHtml && <Fragment set:html={perexHtml} />}
+  </div>
+</article>

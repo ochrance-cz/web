@@ -17,4 +17,4 @@ CS">naží se</span><span lang="CS"> veřejnosti</span><span lang="CS" style="ms
 ombudsman </span><span lang="CS">Stanislav Křeček.</span></p>
 
 <p class="MsoNormal"><span lang="CS" style="mso-fareast-language:CS">Leták je dostupný
-<a href="/uploads-import/Letaky/Ochrana-zvirat.pdf" target="_blank">zde</a></span></p>
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/Letaky/Ochrana-zvirat.pdf" target="_blank">zde</a></span></p>

@@ -1,0 +1,36 @@
+---
+// Listing of the "Jak psát srozumitelně" guide — the table of contents.
+// Mirrors layouts/srozumitelne/list.html: a text-header banner + a single
+// <section> whose `_link-list` of chapters (in TOC reading order) is interleaved
+// with the `textcontent` section headings/intros from _index.markdown.
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import TextHeader from '../../components/TextHeader.astro';
+import { loadGuideIndex, loadTextContent, sortChapters } from './_guide';
+
+const { title: pageTitle, order } = await loadGuideIndex();
+const chapters = sortChapters(await getCollection('srozumitelne'), order);
+const textContent = await loadTextContent();
+
+// Build the interleaved TOC exactly like list.html: walk chapters in order and,
+// whenever a `textcontent` block targets the upcoming chapter, close the current
+// list, emit the block's HTML, then reopen a fresh list before its <li>.
+const esc = (s: string) =>
+  s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+let listHtml = '<ul class="_link-list">';
+for (const c of chapters) {
+  const block = textContent[c.id];
+  if (block) listHtml += `</ul>\n${block}\n<ul class="_link-list">`;
+  listHtml += `<li><a href="/srozumitelne/${c.id}/">${esc(c.data.title)}</a></li>`;
+}
+listHtml += '</ul>';
+---
+<BaseLayout title={pageTitle} lang="cs" bodyClass="srozumitelne">
+  <main>
+    <TextHeader title={pageTitle} locale="cs" />
+
+    <section>
+      <Fragment set:html={listHtml} />
+    </section>
+  </main>
+</BaseLayout>

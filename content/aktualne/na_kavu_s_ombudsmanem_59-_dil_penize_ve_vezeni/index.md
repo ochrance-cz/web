@@ -23,9 +23,9 @@ perex: >
 
 <p><strong>Související odkazy</strong></p>
 
-<p><a href="https://www.ochrance.cz/uploads-import/ESO/14-2014-NZ-Souhrnna_zprava_z_navstev_veznic.pdf">Zpráva ze systematických návštěv veřejného ochránce práv &ndash; VĚZNICE</a></p>
+<p><a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/14-2014-NZ-Souhrnna_zprava_z_navstev_veznic.pdf">Zpráva ze systematických návštěv veřejného ochránce práv &ndash; VĚZNICE</a></p>
 
-<p><a href="https://www.ochrance.cz/vystupy/edice-stanoviska/Sbornik_Vezenstvi_II.pdf">Sborník stanovisek veřejného ochránce práv &ndash; VĚZEŇSTVÍ II</a></p>
+<p><a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/vystupy/edice-stanoviska/Sbornik_Vezenstvi_II.pdf">Sborník stanovisek veřejného ochránce práv &ndash; VĚZEŇSTVÍ II</a></p>
 
 <p>&nbsp;</p>
 

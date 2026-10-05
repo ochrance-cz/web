@@ -1,0 +1,24 @@
+---
+import { getCollection } from 'astro:content';
+import SingleLayout from '../../../../layouts/SingleLayout.astro';
+import NewsletterArticle from '../../../../components/NewsletterArticle.astro';
+
+export async function getStaticPaths() {
+  return (await getCollection('zpravodaj-articles')).map(article => ({
+    params: { slug: article.id }, props: { article },
+  }));
+}
+const { article } = Astro.props;
+const issue = (await getCollection('zpravodaj')).find(issue => issue.id === article.data.parent);
+const issuePath = `/zpravodaj/${encodeURIComponent(article.data.parent)}/`;
+---
+<SingleLayout
+  title={article.data.title}
+  lang="cs"
+  bodyClass="_magazine"
+  canonical={new URL(`${issuePath}#item-${article.data.order}`, Astro.site).href}
+  header={{ backlink: { href: `${issuePath}#item-${article.data.order}`, label: issue?.data.title ?? 'Zpravodaj' } }}
+>
+  {article.data.section && <h2>{article.data.section}</h2>}
+  <NewsletterArticle article={article} />
+</SingleLayout>

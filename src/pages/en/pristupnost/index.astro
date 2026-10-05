@@ -1,0 +1,15 @@
+---
+import PageHeader from '../../../components/site-copy/headers/en-pristupnost.astro';
+import * as pageCopy0 from '../../../components/page-content/section-pages-en/pristupnost.astro';
+// /en/pristupnost/ — English Accessibility section index.
+// The English source has no `_index.md`, so this is a plain list of the section's
+// pages (Hugo auto-generates the section list).
+import { getCollection } from 'astro:content';
+import ListLayout from '../../../layouts/ListLayout.astro';
+
+const pages = (await getCollection('pristupnost-en'))
+  .sort((a, b) => a.data.title.localeCompare(b.data.title))
+  .map((entry) => ({ title: entry.data.title, href: `/en/pristupnost/${entry.id}/` }));
+import { data as section } from '../../../components/page-content/section-pages-en/pristupnost.astro';
+---
+<ListLayout title={section.title} lang="en" pages={pages} includeInSearchIndex ><PageHeader slot="header" /></ListLayout>

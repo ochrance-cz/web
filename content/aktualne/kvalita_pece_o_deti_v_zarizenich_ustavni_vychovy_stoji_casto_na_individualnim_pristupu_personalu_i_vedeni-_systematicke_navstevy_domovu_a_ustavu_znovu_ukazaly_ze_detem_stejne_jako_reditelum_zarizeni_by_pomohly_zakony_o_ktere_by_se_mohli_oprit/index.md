@@ -19,7 +19,7 @@ attachments:
   - title: Souhrnná zpráva z návštěv zařízení pro výkon ústavní výchovy
     file: https://eso.ochrance.cz/Nalezene/Edit/10388
   - title: Shrnutí a doporučení
-    file: https://www.ochrance.cz/aktualne/kvalita_pece_o_deti_v_zarizenich_ustavni_vychovy_stoji_casto_na_individualnim_pristupu_personalu_i_vedeni-_systematicke_navstevy_domovu_a_ustavu_znovu_ukazaly_ze_detem_stejne_jako_reditelum_zarizeni_by_pomohly_zakony_o_ktere_by_se_mohli_oprit/ustavni_vychova_-_shrnuti_a_doporuceni.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/kvalita_pece_o_deti_v_zarizenich_ustavni_vychovy_stoji_casto_na_individualnim_pristupu_personalu_i_vedeni-_systematicke_navstevy_domovu_a_ustavu_znovu_ukazaly_ze_detem_stejne_jako_reditelum_zarizeni_by_pomohly_zakony_o_ktere_by_se_mohli_oprit/ustavni_vychova_-_shrnuti_a_doporuceni.pdf
 ---
 <p><em>&bdquo;V současné době u nás v&nbsp;dětských domovech či výchovných ústavech žije na 6.500 dětí, což je stále velmi mnoho. Přestože bych je ráda viděla vyrůstat mimo ústavy, nejlépe v&nbsp;rodinném prostředí, akceptuji, že ústavní výchova má v současném&nbsp;systému péče o děti svou úlohu, a oceňuji práci všech, kteří se na starosti o děti v zařízeních podílejí. Věřím, že systematickými návštěvami a sledováním chodu těchto zařízení pomáháme, aby ústavy mohly vytvořit dětem co nejlepší podmínky. Ty jsou nezbytné pro to, aby mělo co největší množství dětí šanci žít plnohodnotný dospělý život,&ldquo;</em> předeslala zástupkyně ombudsmana Monika Šimůnková.</p>
 

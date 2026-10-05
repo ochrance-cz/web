@@ -1,0 +1,423 @@
+@import 'svg';
+
+// Open Sans
+$OpenSansPath: '/fonts/open-sans-fontface/fonts';
+
+@import 'open-sans/variables';
+@import 'open-sans/mixins';
+@import 'open-sans/Regular';
+@import 'open-sans/Italic';
+@import 'open-sans/Bold';
+
+// FontAwesome
+@import 'fontawesome/functions';
+@import 'fontawesome/variables';
+
+@font-face {
+  font-family: 'FontAwesome';
+  src: url('/fonts/fontawesome-free-6.4.2-web/webfonts/fa-solid-900.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'FontAwesome-Brands';
+  src: url('/fonts/fontawesome-free-6.4.2-web/webfonts/fa-brands-400.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@mixin fa-icon($icon, $color: $green) {
+  font-family: 'FontAwesome';
+  content: fa-content($icon);
+  display: inline-block;
+  color: $color;
+  font-size: 120%;
+  position: relative;
+  top: 0.1em;
+}
+
+// Daxline Pro
+@font-face {
+  font-family: 'Daxline';
+  src: url('/fonts/daxline/Fonts/5764632/aae167a7-9a23-484f-9760-d1b54002602f.woff2') format('woff2');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@mixin font-size($small, $large: false) {
+  font-size: $small;
+
+  @if $large {
+    @include medium {
+      font-size: $large;
+      font-size: clamp(#{$large * 0.7}, relFontSize($large), $large);
+    }
+  }
+}
+
+@function relFontSize($pxSize) {
+  @return $pxSize / 1200px * 100vw;
+}
+
+@mixin font-size-s {
+  @include font-size(14px, 16px);
+}
+
+@mixin font-size-m {
+  @include font-size(16px, 18px);
+}
+
+@mixin font-size-l {
+  @include font-size(20px, 24px);
+}
+
+@mixin font-size-xl {
+  @include font-size(24px, 32px);
+}
+
+@mixin font-size-xxl {
+  @include font-size(28px, 40px);
+}
+
+@mixin font-size-xxxl {
+  @include font-size(28px, 50px);
+}
+
+@mixin font-family-headline {
+  font-family: 'Daxline', 'Open Sans', sans-serif;
+}
+
+@mixin font-family-bread {
+  font-family: 'Open Sans', sans-serif;
+}
+
+:root {
+  color: $black;
+  @include font-family-bread;
+  @include font-size-m;
+}
+
+h1,
+h2 {
+  @include font-family-headline;
+  line-height: 1.2;
+  letter-spacing: -0.02em;
+  margin-left: -0.05em;
+  @include font-size-xxxl;
+}
+
+h2 {
+  @include font-size-xxl;
+  margin: 3rem 0 1rem;
+
+  @include medium {
+    margin: 4rem 0 1rem;
+  }
+}
+
+h3 {
+  @include font-size-l;
+  letter-spacing: -0.02em;
+
+  &.large {
+    @include font-size-xl;
+  }
+}
+
+h4 {
+  margin-bottom: 0.25em;
+
+  & + p,
+  & + ul,
+  & + ol {
+    margin-top: 0;
+  }
+}
+
+p {
+  line-height: 1.4;
+}
+
+.perex {
+  margin: 1rem 0 2rem;
+
+  @include medium {
+    margin: 4rem 0;
+  }
+
+  p {
+    @include font-size-l;
+  }
+
+  p:first-child {
+    margin-top: 0;
+  }
+
+  p:last-child {
+    margin-bottom: 0;
+  }
+}
+
+a {
+  color: $green;
+  text-decoration: underline;
+
+  &[href$='.pdf']::after,
+  &[href$='.doc']::after,
+  &[href$='.docx']::after,
+  &[href$='.odt']::after {
+    content: 'PDF';
+
+    color: $black;
+    font-weight: normal;
+    display: inline-block;
+    white-space: nowrap;
+    background: $green-bright;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    padding: 0.1rem 0.8rem;
+    border-radius: 1rem;
+    margin: 0 0.25em;
+    vertical-align: top;
+    text-indent: 0;
+  }
+
+  &[href$='.doc']::after {
+    content: 'DOC';
+  }
+
+  &[href$='.docx']::after {
+    content: 'DOCX';
+  }
+
+  &[href$='.odt']::after {
+    content: 'ODT';
+  }
+
+  &:hover {
+    color: $black;
+  }
+
+  &[href]:hover,
+  &[href]:focus-visible {
+    text-decoration-thickness: 2px;
+    text-underline-offset: 0.15em;
+    cursor: pointer;
+  }
+}
+
+h3 a {
+  color: $green;
+
+  &:hover {
+    color: black;
+  }
+}
+
+ol,
+ul {
+  margin-bottom: 2rem;
+  padding-left: 1.3rem;
+
+  li {
+    margin-bottom: 1rem;
+
+    ul {
+      margin-top: 1rem;
+    }
+  }
+
+  &._we-can {
+    padding-left: 2rem;
+
+    li {
+      list-style-type: none;
+
+      > p:first-child {
+        display: inline;
+      }
+
+      &:before {
+        @include fa-icon($fa-var-check);
+        margin-left: -2rem;
+        width: 2rem;
+      }
+    }
+  }
+
+  &._we-cannot {
+    padding-left: 2rem;
+
+    li {
+      list-style-type: none;
+
+      > p:first-child {
+        display: inline;
+      }
+
+      &:before {
+        @include fa-icon($fa-var-times, $pink);
+        margin-left: -2rem;
+        width: 2rem;
+      }
+    }
+  }
+}
+
+hr {
+  border: solid $border-gray;
+  border-width: 1px 0 0;
+  margin: 4rem 0;
+}
+
+blockquote {
+  margin: 0 0 2.5rem;
+
+  background: $green-bright;
+  border-radius: 4px;
+  padding: 1rem;
+
+  footer,
+  .quote-attribution {
+    font-style: normal;
+    display: block;
+    height: 0;
+    margin-top: -1rem;
+    line-height: 2;
+
+    position: relative;
+    top: 1rem;
+    left: -1rem;
+  }
+
+  p:first-child {
+    margin-top: 0;
+  }
+
+  p:last-child {
+    margin-bottom: 0;
+  }
+
+  &.quotes {
+    p:first-child {
+      text-indent: -0.4rem;
+
+      &::before {
+        content: '„';
+      }
+    }
+
+    p:last-child {
+      margin-bottom: 0;
+      &::after {
+        content: '“';
+      }
+    }
+  }
+}
+
+._typo--small {
+  @include font-size-s;
+}
+
+._big-link {
+  font-weight: bold;
+  color: $green;
+  @include font-size-l;
+
+  .arrow::before {
+    display: inline-block;
+    width: 1.5em;
+    height: 1.2em;
+    vertical-align: bottom;
+    content: ' ';
+
+    @include svg-bg($arrow, $green, 0% 50%);
+  }
+
+  &:hover {
+    color: $black;
+
+    .arrow::before {
+      @include svg-bg($arrow, $black, 0% 50%);
+    }
+  }
+}
+
+._icon-info::before {
+  @include fa-icon($fa-var-info-circle, $green);
+  padding-right: 0.5em;
+}
+
+._ck4 {
+  img {
+    display: block;
+    max-width: 100%;
+    margin: 1rem 0;
+    box-sizing: border-box;
+    padding: 0;
+  }
+
+  @include medium {
+    img[style*='float:left'],
+    img[style*='float: left'] {
+      margin: 0 1rem 1rem 0;
+      max-width: 45%;
+    }
+
+    img[style*='float:right'],
+    img[style*='float: right'] {
+      margin: 0 0 1rem 1rem;
+      max-width: 45%;
+    }
+  }
+}
+
+pre {
+  background: #eee;
+  border-radius: 3px;
+  padding: 1rem;
+}
+
+.copy {
+  color: $green;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.copied {
+  position: relative;
+
+  &::before {
+    @include fa-icon($fa-var-check, $green);
+    position: absolute;
+    top: -1rem;
+    left: -1rem;
+  }
+}
+
+._umluva-backlink a {
+  line-height: 2rem;
+
+  &::before {
+    display: inline-block;
+    content: '';
+    width: 2rem;
+    height: 2rem;
+    vertical-align: middle;
+    padding-right: 0.5rem;
+    @include svg-bg($backArrow, $green, 0% 0%);
+    background-size: 2rem;
+  }
+}
+._heading-image {
+  width: 1.5em;
+  height: 1.5em;
+  margin-right: .4em;
+  object-fit: contain;
+  vertical-align: middle;
+}

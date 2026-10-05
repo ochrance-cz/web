@@ -7,5 +7,5 @@ vystupy:
   - researches
 attachmentsTop:
   - title: Deinstitutionalisation and transformation of social services
-    file: https://www.ochrance.cz/uploads-import/ESO/deinstitutionalisation_and_transformation_of_social_services.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/deinstitutionalisation_and_transformation_of_social_services.pdf
 ---

@@ -1,0 +1,15 @@
+---
+title: Identity of representatives of the public in a courtroom
+date: 2012-11-21T00:00:00.000Z
+perex: Establishment of identity of representatives of the public in a courtroom
+  as an incorrect official procedure pursuant to Act No. 82/1999 Coll.
+categories:
+  - news
+---
+In a complaint that the ombudsman dealt with, complainants attended a trial (two as representatives of the public and one as an attorney of a participant in the proceedings). After the trial began, the judge asked the representatives of the public to give their names and surnames and to present their identity cards or otherwise they would be led out of the courtroom. Subsequently, the president of the court refused to address a complaint of the complainants because the judge in question had meanwhile resigned from his post. After making an inquiry, the ombudsman arrived at the following conclusions:
+
+If a judge presiding over a criminal case requires representatives of the public to present an identity card under the sanction of their being led out of the courtroom and this procedure is not supported in particular by factual and legal circumstances of the trial (Sec. 209 (1) of the Rules of Criminal Procedure), the judge commits inappropriate conduct and wrong official procedure. Such practice may rightfully displease representatives of the public since the mentioned procedure is a typical symptom of the so-called cabinet justice, which has no place in a democratic rule of law.
+
+A body of the state court administration is obliged to look into a complaint about inappropriate conduct of a judge despite the fact that during the period between the filing of the complaint and the handling of the complaint the judge resigned. The mentioned procedure has a preventive, reparation and satisfaction function. Every complaint about inappropriate conduct of a judge duly investigated and handled gives a signal to the public that judicial officers give due care to the judicial ethics code. Although it is not possible to file a motion to commence a disciplinary procedure, an individual may seek from the state appropriate satisfaction for non-proprietary damage that a judge has caused by his or her inappropriate conduct. This motion needs to be filed within six months from the day the injured learnt of the occurrence of non-proprietary damage. Therefore, a body of the state court administration should handle a complaint about inappropriate conduct of a judge who has resigned from his post within a period not exceeding six months after the day the complainant learnt of non-proprietary damage. 
+
+The president of the court, as a body of the state court administration, eventually agreed with these conclusions.

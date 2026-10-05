@@ -2,7 +2,7 @@
 title: Zpravodaj ombudsmana a dětského ombudsmana za listopad a prosinec 2025
 month: 1
 year: 2026
-file: https://www.ochrance.cz/zpravodaj/zpravodaj_ombudsmana_a_detskeho_ombudsmana_za_listopad_a_prosinec_2025/zpravodaj_listopad_prosinec_2025.pdf
+file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/zpravodaj/zpravodaj_ombudsmana_a_detskeho_ombudsmana_za_listopad_a_prosinec_2025/zpravodaj_listopad_prosinec_2025.pdf
 sections:
   - title: Úvodní slovo
     articles:
@@ -50,7 +50,7 @@ sections:
           <p>S postupem policie jsme nesouhlasili a obrátili jsme se na Policejní prezidium. Upozornili jsme, že provozovatel neměl dostatečný časový předstih ke splnění povinnosti. Nadřízený orgán nám dal za pravdu a rozhodnutí o pokutě zrušil.</p>
       - title: Po našem zásahu úřad zlepšil komunikaci s náročnými klienty
         id: 3671/2025/VOP
-        eso: https://www.ochrance.cz/uploads-import/ESO/3671-25-MJ-9_final.pdf
+        eso: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/3671-25-MJ-9_final.pdf
         body: >-
           <p>Otec chtěl nahlédnout do spisu OSPOD ve věci svého syna. Přišel na
           úřad pod silným tlakem probíhajícího soudního řízení. Když mu úřad
@@ -107,7 +107,7 @@ sections:
       - title: "Upozornili jsme na diskriminační pravidla města týkající se vyhrazeného
           parkování "
         id: 1779/2025/VOP
-        eso: https://www.ochrance.cz/uploads-import/ESO/1779-2025-VOP-LK-4.pdf
+        eso: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/1779-2025-VOP-LK-4.pdf
         body: >-
           <blockquote>
 
@@ -119,7 +119,7 @@ sections:
       - title: Zdravotní omezení dítěte vyžaduje spolupráci, ne uzavírání dveří.
           Vyjasnili jsme povinnosti školy vůči dívce s diabetem
         id: 15896/2022/VOP
-        eso: https://www.ochrance.cz/uploads-import/ESO/15896-2022-VOP-JKV_ZZ-14-final.pdf
+        eso: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/15896-2022-VOP-JKV_ZZ-14-final.pdf
         body: >-
           <blockquote>
 
@@ -137,7 +137,7 @@ sections:
       - title: "Navzdory vlastnictví garáže žádal muž s postižením po městské části
           parkovací místo. Přiklonili jsme se na stranu radnice "
         id: 2928/2025/VOP
-        eso: https://www.ochrance.cz/uploads-import/ESO/2928-25-LK%20Z-final.pdf
+        eso: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/2928-25-LK%20Z-final.pdf
         body: >-
           <blockquote>
 

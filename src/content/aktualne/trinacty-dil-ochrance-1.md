@@ -1,0 +1,22 @@
+---
+title: Třináctý díl Ochránce
+date: 2013-11-29T00:00:00.000Z
+perex: V neděli 1. prosince v 11:40 h začíná na ČT2 třináctý díl pořadu
+  Ochránce. První příběh se dotýká obyvatel pražského sídliště Spořilov a života
+  v hluku a znečištěném ovzduší. Na začátku druhého případu stála koupě domu
+  na vesnici a vidina bydlení v pohodě, která se změnila v dlouhý spor u úřadů
+  i soudu. Třetí příběh je o komplikacích se změnou rodného příjmení po svatbě.
+  Opakování tohoto dílu je na programu ČT2 ve středu 4. 12. ve 13:10 a další
+  reprízy jsou pak zařazeny do vysílání ČT2 v neděli a úterý vždy po půlnoci.
+kategorie:
+  - tz
+---
+Úřady vám někdy namísto pomoci spíše házejí klacky pod nohy. Boj s hlukem a znečištěným vzduchem z nadměrné dopravy, podivné praktiky stavebního úřadu a komplikace se změnou rodného příjmení.
+
+Obyvatelé pražského sídliště Spořilov musí už déle než tři roky každý den snášet nadměrný hluk a silně znečištěný vzduch. Obytnou zónu totiž protíná frekventovaná čtyřproudá silnice, na kterou byla v roce 2010, po dostavbě části Pražského okruhu a jeho zprovoznění v svedena veškerá těžká tranzitní nákladní doprava z Jižní spojky, tj. z šestiproudé dálnice určené pro tranzitní dopravu obklopující Spořilov ze severovýchodu, byla převedena na čtyřproudou silnici Spořilovská, která se nachází ve východní části městské čtvrti a vede přímo podél sídlištní části Spořilova. K už tak obrovské dopravní zátěži pražské čtvrti Spořilov, která čítá okolo 300 tis. dopravních prostředků na okolních dálnicích a silnicích (pražská magistrála, dálnice D1 a Jižní spojka) denně, tak byla počátkem září 2010 svedena ještě veškerá kamionová doprava z celé Prahy (resp. z Jižní spojky). Pod okny řady obyvatel v centru sídliště, kde žije přes 10 tisíc obyvatel, projíždí denně 11 tisíc kamiónů s hmotností nad 12 tun.
+
+Rodina Rosových-Váňových si pořídila dům na vesnici, aby mohla bydlet v klidu a pohodě. Stal se ale pravý opak. Špatný stav nemovitosti se totiž zhoršil díky necitlivé rekonstrukci vedlejšího domu a jeho nepovoleným stavebním úpravám. To vyvolalo sousedský spor, který prošel řadou úřadů, skončil i u soudu a mimo jiné také na stole ombudsmana.
+
+Když se paní Petra Kročilová v roce 2008 vdávala, nechala si své rodné příjmení. Po čase ale zjistila, že jí to komplikuje život víc, než čekala, a dodatečně tedy chtěla převzít příjmení manželovo. Na matričním úřadě jí ale k jejímu překvapení řekli, že se taková změna projeví nejen v oddacím, ale i v rodném listu. Její žádost byla totiž posuzována nikoli jako změna v souvislosti se sňatkem, ale jako když někdo žádá o změnu, protože jeho příjmení je např. zesměšňující apod. Pak se změna provede všude. S tím, že by měla ztratit své příjmení za svobodna jen proto, že manželovo příjmení nepřevzala hned po svatbě, se paní Kročilová nehodlala smířit. Nakonec se ukázalo, že jde o případ, kdy nad zdravým selským rozumem převáží byrokracie, a chyba není v zákoně, jen v jeho výkladu.
+
+Tento díl najdete po odvysílání v archivu ČT na [http://www.ceskatelevize.cz/porady/10363268581-ochrance/313281381960006/](http://www.ceskatelevize.cz/porady/10363268581-ochrance/313281381960006/ "Otevření do nového okna")

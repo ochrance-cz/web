@@ -6,7 +6,7 @@ date: 2024-10-09T12:39:31.488Z
 vystupy:
   - poradni-organ-crpd
 attachmentsTop:
-  - file: https://www.ochrance.cz/dokument/usneseni_k_prispevku_na_peci/usneseni_2024_16_k_prispevku_na_peci.pdf
+  - file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/dokument/usneseni_k_prispevku_na_peci/usneseni_2024_16_k_prispevku_na_peci.pdf
     title: Usnesení poradního orgánu veřejného ochránce práv pro oblast ochrany práv
       osob se zdravotním postižením k příspěvku na péči
 ---

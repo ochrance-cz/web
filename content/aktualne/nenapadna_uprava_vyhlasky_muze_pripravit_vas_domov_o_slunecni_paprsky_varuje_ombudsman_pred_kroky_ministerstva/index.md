@@ -13,7 +13,7 @@ perex: <p>Zdánlivě drobná změna ve vyhlášce o požadavcích na výstavbu m
   a vůči plánované novince se ohradil.</p>
 attachments:
   - title: "Připomínky ombudsmana zaslané Ministerstvu pro místní rozvoj "
-    file: https://www.ochrance.cz/aktualne/nenapadna_uprava_vyhlasky_muze_pripravit_vas_domov_o_slunecni_paprsky_varuje_ombudsman_pred_kroky_ministerstva/35017-25_pripominky_vyhlaska_o_pozadavcich_na_vystavbu.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/nenapadna_uprava_vyhlasky_muze_pripravit_vas_domov_o_slunecni_paprsky_varuje_ombudsman_pred_kroky_ministerstva/35017-25_pripominky_vyhlaska_o_pozadavcich_na_vystavbu.pdf
   - title: "Návrh vyhlášky, kterou se mění vyhláška o požadavcích na výstavbu "
     link: https://odok.gov.cz/portal/veklep/material/ALBSDJ5DKVKK/
   - title: "Stávající znění vyhlášky o požadavcích na výstavbu "
@@ -24,7 +24,7 @@ attachments:
 <p>
 <i>&nbsp;„Navrhovaná změna má potenciál významně snížit hodnotu stávajících staveb a citelně tak zasáhnout jejich vlastníky. Je neodůvodnitelné, aby jim novelizace vyhlášky odňala právo na obranu proti podstatnému zásahu do jejich vlastnických práv,“&nbsp;</i>domnívá se ombudsman Stanislav Křeček.&nbsp;</p>
 <figure class="image">
-<img src="https://www.ochrance.cz/aktualne/nenapadna_uprava_vyhlasky_muze_pripravit_vas_domov_o_slunecni_paprsky_varuje_ombudsman_pred_kroky_ministerstva/vyhlaska.jpg" alt="Stávající formulace ve vyhlášce o požadavcích na výstavbu: …Vnitřní prostor stavby musí být navržen a proveden tak, aby bylo zajištěno jeho denní osvětlení podle účelu užívání stavby. … Navrhovaná změna ve vyhlášce o požadavcích na výstavbu: …Stavba musí být navržena a provedena tak, aby bylo zajištěno denní osvětlení jejích vnitřních prostor. Pro účely této vyhlášky se za denní osvětlení nepovažuje požadavek na proslunění, a to ani pro stávající stavby ovlivněné navrhovanou stavbou. …"></figure>
+<img src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/nenapadna_uprava_vyhlasky_muze_pripravit_vas_domov_o_slunecni_paprsky_varuje_ombudsman_pred_kroky_ministerstva/vyhlaska.jpg" alt="Stávající formulace ve vyhlášce o požadavcích na výstavbu: …Vnitřní prostor stavby musí být navržen a proveden tak, aby bylo zajištěno jeho denní osvětlení podle účelu užívání stavby. … Navrhovaná změna ve vyhlášce o požadavcích na výstavbu: …Stavba musí být navržena a provedena tak, aby bylo zajištěno denní osvětlení jejích vnitřních prostor. Pro účely této vyhlášky se za denní osvětlení nepovažuje požadavek na proslunění, a to ani pro stávající stavby ovlivněné navrhovanou stavbou. …"></figure>
 <p>&nbsp;</p>
 <p>Již dříve městské stavební předpisy z&nbsp;požadavku na proslunění slevily v Praze a Brně, kde je vzhledem k&nbsp;hustotě zástavby specifická situace. Připravovaná novela vyhlášky by ale podobným způsobem zasáhla i do všech dalších měst a obcí.&nbsp;</p>
 <p>

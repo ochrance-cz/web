@@ -1,0 +1,25 @@
+---
+title: Opatrovník nemůže ignorovat přání člověka, jehož zájmy má zastupovat
+date: 2019-10-04T00:00:00.000Z
+perex: Na ombudsmanku se obrátila žena, která byla omezena ve svéprávnosti
+  v průběhu výkonu ústavní formy ochranného léčení. Opatrovníkem bylo jmenováno
+  město. Žena se na ombudsmanku obrátila s podezřením na pochybení opatrovníka
+  především v oblasti hospodaření s majetkem, stěžovala si také na nedostatečný
+  kontakt a celkový nezájem o její osud. Ombudsmanka během svého šetření dala
+  ženě za pravdu a podařilo se jí sjednat v jejím případu dostatečnou nápravu.
+kategorie:
+  - tz
+---
+Žena měla poloviční podíl na chatě, kterou zdědila se svým bratrem, a vlastnila auto. V době, kdy se na ombudsmanku obrátila, věděla, že opatrovník s majetkem nakládá, nicméně bez ohledu na její přání a bez toho, aby jí o těchto krocích řádně informoval. Po konzultaci s opatrovníkem žena souhlasila s prodejem svého spoluvlastnického podílu na chatě, nesouhlasila však s částkou, za kterou měl být prodán. Opatrovník na její výhrady nedbal a předložil okresnímu soudu ke schválení smlouvu o prodeji. To zdůvodnil tak, že vzhledem k zdravotnímu stavu žena chatu neužívá a v budoucnu využívat nebude.
+
+„Při jednání jménem opatrované by měl opatrovník jednat spolu s ní, jen pokud to není možné, může jednat v jejím zájmu,“ vysvětluje ombudsmanka Anna Šabatová a dodává: „hospodaření s majetkem opatrované je jedním ze základních povinností opatrovníka. Zároveň jde o oblast, jež je nejpodrobněji upravena zákonem a nejpečlivěji kontrolována soudem. Při nakládání s majetkem opatrované musí opatrovník postupovat s péčí řádného hospodáře.  To znamená, že se opatrovník musí starat o svěřený majetek a chránit ho s dostatečnou předvídavostí.“
+
+Z rozhodnutí opatrovníka došlo také k likvidaci auta stěžovatelky. Auto bylo v průběhu blokového čištění odtaženo na parkoviště a později pozbylo platné osvědčení o technické způsobilosti. Žena ho nevyužívala a narůstaly jí poplatky za parkování. S likvidací by pravděpodobně sama souhlasila, avšak tento krok s ní opatrovník vůbec neprojednal. O likvidaci svého auta se dozvěděla až během šetření ombudsmanky.
+
+„Opatrovník by měl sloužit jako vykonavatel vůle opatrované. Jeho samostatné jednání je zákonem omezeno na případy, kdy není možné názor opatrované zjistit, ať už z důvodu jeho kognitivního omezení, nebo se jedná o situaci, která nesnese odkladu. Vždy však musí opatrované vysvětlit povahu a následky právního jednání, které za ni činí,“ uvádí k případu ombudsmanka Anna Šabatová.
+
+Žena si také stěžovala na nedostatečný zájem opatrovníka o ni během pobytu v psychiatrické nemocnici. Z šetření ombudsmanky vyplynulo, že ji pracovnice pověřena opatrovnictvím navštěvovala jednou za rok a jiný kontakt se odehrával pouze písemně a to z iniciativy stěžovatelky. Pracovnice se také nezajímala o zdravotní stav ženy nebo o to, jestli v nemocnici nějak nestrádá. Netušila například ani to, zda má žena povoleny vycházky.
+
+„Pro řádný výkon povinností opatrovníka je nezbytný osobní kontakt s opatrovanou. Zákon stanoví, že opatrovník musí s opatrovanou udržovat vhodným způsobem a v potřebném rozsahu pravidelné spojení a projevovat o ni skutečný zájem,“ vysvětluje ombudsmanka a dále uvádí: „to, že je žena v ochranném léčení, kde jsou její potřeby částečně uspokojeny, neznamená, že opatrovník může absolutně rezignovat na veškeré své povinnosti.“
+
+Ombudsmanka vytkla městu, které mělo zajišťovat výkon opatrovnictví, celou řadu pochybení. Město nakonec chyby uznalo a sjednalo dostatečnou nápravu, která by podobným situacím měla do budoucna zabránit.

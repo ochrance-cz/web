@@ -9,7 +9,7 @@ perex: <p>Pro návštěvníky Noci práva chystá ombudsman prohlídky budovy, d
   sestřihu střípků, které připomenou uplynulé čtvrtstoletí ombudsmana
   v&nbsp;Česku.</p>
 attachments:
-  - file: https://www.ochrance.cz/aktualne/navstivte_potemnelou_kancelar_ombudsmana_5-_brezna_se_na_vas_tesime_na_noci_prava/pozvanka_na_noc_prava.pdf
+  - file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/navstivte_potemnelou_kancelar_ombudsmana_5-_brezna_se_na_vas_tesime_na_noci_prava/pozvanka_na_noc_prava.pdf
     title: Program
 ---
 <h3>Kdy a kde?&nbsp;</h3>

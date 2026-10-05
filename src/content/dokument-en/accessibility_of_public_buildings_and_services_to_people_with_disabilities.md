@@ -1,0 +1,8 @@
+---
+title: Accessibility of public buildings and services to people with disabilities
+date: 2024-07-24T08:29:28.341Z
+vystupy:
+  - researches
+---
+
+- [Accessibility of public buildings and services to people with disabilities](<https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/accessibility_of_public_buildings_and_services_to_people_with_disabilities.pdf>)

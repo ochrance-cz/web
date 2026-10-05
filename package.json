@@ -1,47 +1,59 @@
 {
-  "name": "ombudsman",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "name": "ochrance-web",
+  "version": "2.0.0",
+  "description": "ochrance.cz \u2014 Astro + @nuasite/nua",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "fixCsv": "cd content/instituce/eso && iconv -f cp1250 -t utf8 export.csv | sed 's/\"/\"\"/g' | sed 's/;/\",\"/g' | sed 's/^/\"/g' | sed 's/$/\"/g' > export.fixed.csv",
-    "build": "deno run --no-check --allow-write ./config-gen/index.ts",
-    "buildEditor": "webpack --progress",
-    "buildEditor:watch": "webpack --watch --progress"
+    "dev": "bun node_modules/astro/bin/astro.mjs dev",
+    "start": "bun run dev",
+    "build": "nua build && pagefind --site dist",
+    "preview": "nua preview",
+    "content:clean": "bun scripts/clean-editor-content.ts",
+    "verify:cms": "bun scripts/verify-cms.ts",
+    "verify:contacts": "bun scripts/verify-contact-directory.ts",
+    "verify:collection-ux": "bun scripts/verify-collection-ux.ts",
+    "verify:preview-routes": "bun scripts/verify-preview-routes.ts",
+    "media:index": "bun scripts/index-content-media.ts",
+    "verify:media-index": "bun scripts/index-content-media.ts --check",
+    "verify:pletivo": "bun scripts/verify-pletivo.ts",
+    "verify:editor-content": "bun scripts/verify-editor-content.ts",
+    "verify:launch": "bun scripts/verify-launch.ts",
+    "verify:r2": "bun scripts/verify-r2-assets.ts"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jan-martinek/ochrance-cz.git"
-  },
-  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/jan-martinek/ochrance-cz/issues"
-  },
-  "homepage": "https://github.com/jan-martinek/ochrance-cz#readme",
-  "dependencies": {
-    "@ckeditor/ckeditor5-dev-utils": "^43.0.1",
-    "@ckeditor/ckeditor5-react": "^9.4.0",
-    "@types/markdown-it": "^12.0.3",
-    "ckeditor5": "^44.1.0",
-    "css-loader": "^5.2.4",
-    "decap-cms-app": "^3.4.0",
-    "decap-cms-core": "^3.5.0",
-    "decap-cms-locales": "^3.2.0",
-    "markdown-it": "^12.1.0",
-    "postcss-loader": "^8.1.1",
-    "raw-loader": "^4.0.2",
-    "react": "^18.3.1",
-    "sass-loader": "^11.1.1",
-    "style-loader": "^2.0.0",
-    "ts-loader": "^9.5.1",
-    "typescript": "^5.7.3",
-    "uuid": "^8.3.2",
-    "webpack": "^5.97.1"
-  },
   "devDependencies": {
-    "@types/uuid": "^8.3.1",
-    "webpack-cli": "^6.0.1"
+    "@nuasite/cms-sidecar": "0.56.2",
+    "@nuasite/collections-admin": "0.56.2",
+    "@nuasite/nua": "0.56.2",
+    "@types/node": "^22",
+    "@types/turndown": "^5.0.6",
+    "react": "19.2.1",
+    "react-dom": "19.2.1",
+    "remark-mdx": "3.1.1",
+    "turndown": "^7.2.4",
+    "turndown-plugin-gfm": "^1.0.2"
+  },
+  "dependencies": {
+    "@astrojs/rss": "^4",
+    "gray-matter": "^4.0.3",
+    "pagefind": "^1.4.0",
+    "rehype-raw": "^7",
+    "rehype-stringify": "^10",
+    "remark-gfm": "^4",
+    "remark-parse": "^11",
+    "remark-rehype": "^11",
+    "sass": "^1.83",
+    "unified": "^11",
+    "unist-util-visit": "^5",
+    "vfile": "^6",
+    "yaml": "^2.9.0"
+  },
+  "patchedDependencies": {
+    "@nuasite/cms@0.56.2": "patches/@nuasite%2Fcms@0.56.2.patch",
+    "@nuasite/cms-core@0.56.2": "patches/@nuasite%2Fcms-core@0.56.2.patch",
+    "@nuasite/cms-mdx-editor@0.56.2": "patches/@nuasite%2Fcms-mdx-editor@0.56.2.patch",
+    "@nuasite/cms-client@0.56.2": "patches/@nuasite%2Fcms-client@0.56.2.patch",
+    "@nuasite/cms-sidecar@0.56.2": "patches/@nuasite%2Fcms-sidecar@0.56.2.patch",
+    "@nuasite/collections-admin@0.56.2": "patches/@nuasite%2Fcollections-admin@0.56.2.patch"
   }
 }

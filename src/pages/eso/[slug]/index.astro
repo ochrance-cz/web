@@ -1,0 +1,56 @@
+---
+// ESO detail page — at /eso/<slug>/. cs only.
+// Mirrors layouts/eso/single.html: pic-header, perex, body, the eso[] item
+// list ("Kde hledat tato stanoviska?"), the YouTube tutorial, and the button.
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import PicHeader from '../../../components/PicHeader.astro';
+import Button from '../../../components/Button.astro';
+import MarkdownContent from '../../../components/MarkdownContent.astro';
+import { renderMarkdown } from '../../../lib/markdown';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('eso');
+  return entries.map((entry) => ({
+    params: { slug: entry.id },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const perexHtml = entry.data.perex ? await renderMarkdown(entry.data.perex) : '';
+const items = (entry.data.eso ?? []).filter((i) => i.title);
+const promo = {
+  "locationTitle": "Kde hledat tato stanoviska?",
+  "tutorialTitle": "Jak používat ESO?",
+  "youtubeId": "lBpJjN13Q8E",
+  "buttonHref": "https://eso.ochrance.cz",
+  "buttonLabel": "Vstoupit do ESO"
+};
+const youtubeHtml = await renderMarkdown(`{{< youtube "${promo.youtubeId}" >}}`);
+---
+<BaseLayout title={entry.data.title} description={entry.data.perex} lang="cs">
+  <main data-pagefind-body data-pagefind-weight="10">
+    <PicHeader title={entry.data.title} illustration={entry.data.illustration} alt="" />
+
+    <div>
+      <section>
+        {perexHtml && <div class="perex" set:html={perexHtml} />}
+
+        <MarkdownContent content={entry.body} />
+
+        <h2>{promo.locationTitle}</h2>
+        <ul>
+          {items.map((item) => (
+            <li>{item.title}</li>
+          ))}
+        </ul>
+
+        <h2>{promo.tutorialTitle}</h2>
+        <Fragment set:html={youtubeHtml} />
+
+        <p><Button href={promo.buttonHref} label={promo.buttonLabel} /></p>
+      </section>
+    </div>
+  </main>
+</BaseLayout>

@@ -20,7 +20,7 @@ perex: >
 
 <p><strong>Více také v&nbsp;našem informačním letáku</strong></p>
 
-<p><a href="https://www.ochrance.cz/letaky/uzemni-plan/uzemni-plan.pdf">Územní plán obce</a></p>
+<p><a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/uzemni-plan/uzemni-plan.pdf">Územní plán obce</a></p>
 
 <p>&nbsp;</p>
 

@@ -1,0 +1,16 @@
+---
+// /info106/<slug>/ — detail (body = PDF link HTML). cs only.
+import { getCollection } from 'astro:content';
+import SingleLayout from '../../../layouts/SingleLayout.astro';
+import MarkdownContent from '../../../components/MarkdownContent.astro';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('info106');
+  return entries.map((entry) => ({ params: { slug: entry.id }, props: { entry } }));
+}
+
+const { entry } = Astro.props;
+---
+<SingleLayout title={entry.data.title} lang="cs">
+  <MarkdownContent content={entry.body} />
+</SingleLayout>

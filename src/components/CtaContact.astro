@@ -1,0 +1,49 @@
+---
+// Contact CTA backdrop (phone + e-mail with portrait).
+interface Props {
+  phone?: string;
+  email?: string;
+  pic?: string;
+  title?: string;
+  label?: string;
+  phoneLabel?: string;
+  emailLabel?: string;
+}
+
+const {
+  phone = '',
+  email = '',
+  pic = 'https://cdn.nuasite.com/assets/ochrance-web-lj8h86/images/potrebujete-pomoc-vasickova.jpg',
+  title = 'Potřebujete pomoci se stížností, nebo si nejste podáním jistí?',
+  label = 'Kontaktujte nás',
+  phoneLabel = 'Telefon',
+  emailLabel = 'E-mail',
+} = Astro.props;
+---
+<div class="_backdrop cta">
+  <section class="_cta-contact">
+    <div class="">
+      <h2>{title}</h2>
+    </div>
+
+    {pic && (
+      <div class="img-wrapper">
+        <img src={pic} alt="" />
+      </div>
+    )}
+
+    <div class="contacts">
+      <p>{label}</p>
+      <ul>
+        <li>
+          <span class="phone-label">{phoneLabel}: </span>
+          <span class="phone">{phone}</span>
+        </li>
+        <li>
+          <span class="email-label">{emailLabel}: </span>
+          <a href={`mailto:${email}`}>{email}</a>
+        </li>
+      </ul>
+    </div>
+  </section>
+</div>

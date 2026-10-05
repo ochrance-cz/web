@@ -1,0 +1,17 @@
+---
+title: Sleva nesmí znevýhodňovat
+date: 2020-10-20T00:00:00.000Z
+perex: Ombudsman chce prověřit slevy na správních poplatcích při využití portálu
+  občana, který obce a města zavádějí v rámci elektronických služeb. Sleva sice
+  má oporu v zákoně, ale současně může podle ombudsmana nepříznivě dopadat
+  např. na starší občany nevyužívající internet.
+kategorie:
+  - tz
+---
+Na ombudsmana se obrátil stěžovatel s námitkou, že město zřídilo portál občana a zavádí 20% slevu z poplatku za psy a poplatku za svoz komunálního odpadu, pokud je platba provedena přes portál. Stěžovatel namítal, že jsou tím znevýhodněni lidé, kteří nepoužívají internet.
+
+Stěžovatel sice upozornil na slevu při správě místních poplatků, ale navedl tím ombudsmana k problematickým slevám u správních poplatků. *„Město postupuje v souladu se zákonem, když snižuje správní poplatky o 20 % při podání na elektronickém formuláři. Otázkou však je, jestli je tato zákonná sleva spravedlivá. Ve výsledku totiž města vybírají vyšší poplatky například od seniorů, sociálně znevýhodněných občanů, kteří buď nemají přístup k internetu, nebo internet využívají jen omezeně. Domnívám se, že zákony by neměly znevýhodňovat osoby, které z nejrůznějších důvodů nevyužívají moderní technologie,“* vysvětluje ombudsman.
+
+Portály občana zavádějí obce a města v návaznosti na Portál občana Ministerstva vnitra ČR, který má přispívat k elektronizaci služeb státu. Předpokládá se, že tímto způsobem se posílí možnost občanů komunikovat s orgány veřejné moci na dálku a povede to k elektronizaci služeb státu. V návaznosti na zákon o právu na digitální služby došlo ke změně zákona o správních poplatcích. Podle ní správní úřad sníží poplatek o 20 %, nejvýše však o 1000 Kč, pokud je žádost nebo jiný návrh k provedení úkonu podán na elektronickém formuláři. Sleva neplatí, pokud žádost nelze podat jinak než na elektronickém formuláři.
+
+*„Chápu snahu státu o digitalizaci státní správy a motivování lidí k využívání elektronických služeb, nemělo by ale přitom docházet ke znevýhodňování určitých skupin občanů,“* uvádí ombudsman. Rozhodl se proto oslovit Ministerstvo vnitra ve věci dané právní úpravy a zjistit víc o důvodech, které vedly k zavedení relativně vysoké slevy na poplatcích při použití elektronických formulářů. Zejména ho zajímá, zda se ministerstvo zabývalo také možnými negativními dopady, zejména znevýhodněním určitých skupin občanů, kteří z objektivních důvodů moderní technologie nevyužívají.

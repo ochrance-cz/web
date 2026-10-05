@@ -10,7 +10,7 @@ perex: >
   lidí s postižením ohrožených nevhodným nastavením českého systému sociálních a
   zdravotních služeb a podpory pečujících.</p>
 attachments:
-  - file: https://www.ochrance.cz/aktualne/zapojte_se_s_nami_do_noci_dustojnosti_8-_ledna_v_kancelari_ombudsmana/noc_dustojnosti_-_pozvanka.pdf
+  - file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/zapojte_se_s_nami_do_noci_dustojnosti_8-_ledna_v_kancelari_ombudsmana/noc_dustojnosti_-_pozvanka.pdf
     title: "Pozvánka s programem "
 ---
 <p>Cílem této pietní akce je&nbsp;uctění památky Doroty Šandorové, klientky domova pro osoby s postižením, kterou před třemi lety v noci z 6. na 7. ledna usmrtil pracovník v přímé péči.</p>

@@ -13,14 +13,14 @@ perex: >
   odrazí se v našich doporučeních pro vznikající Národní koncepci ochranného
   léčení.</p>
 attachments:
-  - file: https://www.ochrance.cz/uploads-import/ESO/10-2023-NZ_vyzkumna_zprava.pdf
+  - file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/10-2023-NZ_vyzkumna_zprava.pdf
     title: "Výzkumná zpráva „Zranitelné skupiny lidí v ochranném léčení“ "
 ---
 <p>Zatímco u mladistvých a cizinců je příčina zranitelnosti zřejmá &ndash; u jedněch je to nižší úroveň životních zkušeností, u druhých jazyková bariéra &ndash;, ženy se v&nbsp;náročnější situaci ocitají v&nbsp;důsledku téměř neexistujících specializovaných ženských oddělení.</p>
 
 <p>Doposud chyběla data, která by mapovala počty zranitelných pacientů a jejich obtíže. Pouze individuální podněty, které se dostaly k&nbsp;rukám ombudsmana, naznačovaly okruh problémů, s&nbsp;nimiž se potkávají (šestnáctiletý chlapec na&nbsp;oddělení mezi dospělými muži;&nbsp;žena absolvující ochranné léčení na&nbsp;příjmovém oddělení, protože chybělo adekvátní místo poskytující dlouhodobou péči ženám; cizinec neúčastnící se skupinové psychoterapie kvůli jazykovým překážkám). Výzkumné šetření Kanceláře veřejného ochránce práv nyní přináší na zranitelné osoby v&nbsp;ochranné léčbě komplexní pohled.</p>
 
-<p>V době sběru dat (duben 2023) podstupovalo ochrannou léčbu celkem 867 pacientů. Z&nbsp;toho 115 lidí patří do skupiny zranitelných osob. Největší podíl (84&nbsp;%) tvoří ženy, 13&nbsp;% pacientů představují cizinci (z toho jsou dvě ženy) a asi (4&nbsp;%) tvoří pacienti, kteří byli při zahájení ochranné léčby nezletilí. <img alt="grafy.jpg" src="https://www.ochrance.cz/aktualne/ombudsman_prinasi_prvni_ucelenou_analyzu_dat_zamerenych_na_zranitelne_pacienty_v_ochrannem_leceni/grafy.jpg" /></p>
+<p>V době sběru dat (duben 2023) podstupovalo ochrannou léčbu celkem 867 pacientů. Z&nbsp;toho 115 lidí patří do skupiny zranitelných osob. Největší podíl (84&nbsp;%) tvoří ženy, 13&nbsp;% pacientů představují cizinci (z toho jsou dvě ženy) a asi (4&nbsp;%) tvoří pacienti, kteří byli při zahájení ochranné léčby nezletilí. <img alt="grafy.jpg" src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/ombudsman_prinasi_prvni_ucelenou_analyzu_dat_zamerenych_na_zranitelne_pacienty_v_ochrannem_leceni/grafy.jpg" /></p>
 
 <p>Mezi pacienty-cizinci je nejvýrazněji zastoupena ukrajinská národnost (40&nbsp;%), přes desetinu tvoří lidé z&nbsp;Bulharska (12,5&nbsp;%) a stejný podíl lidé z&nbsp;Polska. Jiné národnosti jsou ojedinělé. Jejich znalost češtiny se u třetiny z&nbsp;nich pohybuje na úrovni A1, takže rozumí nanejvýše základním slovům a jednoduchým větám.</p>
 

@@ -8,13 +8,13 @@ attachmentsTop:
     file: 2019-Annual_Report.pdf
 
   - title: NPM Annual Report 2019
-    file: /fileadmin/user_upload/ochrana_osob/Zpravy-vyrocni/VZ_DET_2019_EN.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/fileadmin/user_upload/ochrana_osob/Zpravy-vyrocni/VZ_DET_2019_EN.pdf
 
   - title: Summary Report on Protection Against Discrimination 2019
-    file: /fileadmin/user_upload/DISKRIMINACE/Vyrocni_zpravy/VZ_DIS_2019_EN.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/fileadmin/user_upload/DISKRIMINACE/Vyrocni_zpravy/VZ_DIS_2019_EN.pdf
 
   - title: Monitoring of Rights of People with Disabilities 2019
-    file: /fileadmin/user_upload/CRPD/Vyrocni_zpravy/VZ_CRPD_2019_EN.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/fileadmin/user_upload/CRPD/Vyrocni_zpravy/VZ_CRPD_2019_EN.pdf
 ---
 
 **[Information on activities for the 4th quarter of 2019](2019_4_Q_EN.pdf)** + Annex: [Matters in which adequate remedial measures have not been achieved](2019_4_Q-Sanction_EN.pdf)

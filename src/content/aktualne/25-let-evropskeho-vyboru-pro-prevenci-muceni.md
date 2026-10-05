@@ -1,0 +1,24 @@
+---
+title: 25 let Evropského výboru pro prevenci mučení
+date: 2015-03-24T00:00:00.000Z
+perex: CPT své narozeniny oslavil na počátku března konferencí s podtitulem
+  Inventura a vykročení vpřed. Veřejná ochránkyně práv, představitelka českého
+  národního preventivního mechanismu (NPM), byla při tom.
+kategorie:
+  - tz
+---
+V roce 2015 si rodina evropských národů připomíná 25. výročí činnosti Evropského výboru pro prevenci mučení a nelidského nebo ponižujícího zacházení nebo trestání. Vedle aktualizace svých standardů výbor rovněž předkládá nové výzvy. Ústředním tématem výroční konference ve Štrasburku byl boj s nepostižitelností personálu detenčních zařízení při páchání špatného zacházení. Ve 24. výroční zprávě výbor označuje jako zvláštní výzvu pro svou práci fenomén zastrašování a odvetných opatření (vůči umístěným osobám ze strany personálu).
+
+Úvodní odborný příspěvek přednesl Jean-Marie Delarue, člověk, který v letech 2008–2014 vykonával ve Francii funkci národního preventivního mechanismu. Ve svém vystoupení tváří v tvář dvěma stovkám odborníků z celé Evropy vyslovil, co považuje za klíčové pro NPM i pro ochranu před špatným zacházením na místech omezení osobní svobody obecně.
+
+-   Předně pan Delarue klade velký důraz na nezávislost NPM; znamená podle něho také nepodílet se na aktivitách spojených s vládou jako mocí.
+-   Upozorňuje na nutnost pracovat s tím, že práce NPM nemá každodenní viditelné plody – klade to nároky na trpělivost a přesvědčivost.
+-   Vidí jako smysluplné pro NPM sdílet metodu (na plenárním fóru výslovně ocenil spolupráci francouzského a českého NPM).
+-   Nabídl neradostnou francouzskou zkušenost: Problematika terorismu a organizovaného zločinu dává prostor divným konstrukcím jakési „soutěže“ mezi lidskými právy a zájmy občanů. Hledání rovnováhy mezi ochranou bezpečnosti a základními svobodami nelze nahradit úvahou, že buď jedno, nebo druhé. Většinou související teoretické úvahy zastírají přízemní fakt, že na nějaká opatření chybí peníze.
+-   Jasně vyslovil závislost mezi počtem (nedostatkem) personálu a brutalitou (odkazoval se na své zkušenosti ve vztahu k francouzskému vězeňství), a tak nesmí být žádný prostor pro kompromisy.
+-   Položil provokativní otázku: Jak vést vězně k respektování zákona, když se ve vězení zákon nerespektuje, když strážný má vždy pravdu?
+-   Důležitým tématem jsou podle něj tzv. reprisals, tedy odvetná opatření. Francouzský NPM se například setkal při návštěvě věznice s tím, že personál si pořídil seznam vězňů, kteří si v minulosti na něco NPM stěžovali.
+
+Mezi účastníky konference měli čestné místo také představitelé Podvýboru pro prevenci mučení (SPT), kteří mj. oznámili, že k Opčnímu protokolu k úmluvě proti mučení (OPCAT) přistoupilo již více než 70 států světa. Národních preventivních mechanismů bylo zřízeno 60. 
+
+Pro více informací o konferenci viz [cpt25.htm](http://www.cpt.coe.int/en/conferences/cpt25.htm "Otevření do nového okna") .

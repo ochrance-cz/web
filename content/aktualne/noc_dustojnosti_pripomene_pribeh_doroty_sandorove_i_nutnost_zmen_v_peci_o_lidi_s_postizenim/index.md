@@ -24,8 +24,8 @@ perex: <p>Bolestný příběh Doroty Šandorové znovu připomene, že důstojno
 <p>
 <strong>Příběhy lidí a potřeba podpory v komunitě</strong></p>
 <p>Na akci zazní i svědectví lidí, kteří chtějí žít běžný život mimo ústav. Ukazují, že rozhodující není diagnóza, ale dostupnost vhodných služeb. 
-<a href="https://www.ochrance.cz/uploads-import/ESO/27-2022-OZP-vyzkum.pdf">Výzkum ombudsmana</a> z&nbsp;roku 2023 upozornil, že v Česku chybí kapacity komunitního bydlení, podpůrných služeb i krizové pomoci. Nejvíce to dopadá na lidi s chováním náročným na péči a na jejich rodiny. 
-<a href="https://www.ochrance.cz/dokument/jak_cesko_plni_sve_povinnosti_z_umluvy_o_pravech_osob_se_zdravotnim_postizenim/analyza_s_vyuzitim_lidskopravnich_ukazatelu.pdf">Analýza ombudsmana</a> z roku 2025 pak ukazuje, že v Česku se dodržuje právo na nezávislý způsob života jen z 38 %.</p>
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/27-2022-OZP-vyzkum.pdf">Výzkum ombudsmana</a> z&nbsp;roku 2023 upozornil, že v Česku chybí kapacity komunitního bydlení, podpůrných služeb i krizové pomoci. Nejvíce to dopadá na lidi s chováním náročným na péči a na jejich rodiny. 
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/dokument/jak_cesko_plni_sve_povinnosti_z_umluvy_o_pravech_osob_se_zdravotnim_postizenim/analyza_s_vyuzitim_lidskopravnich_ukazatelu.pdf">Analýza ombudsmana</a> z roku 2025 pak ukazuje, že v Česku se dodržuje právo na nezávislý způsob života jen z 38 %.</p>
 <p>Zástupce ombudsmana a dětského ombudsmana proto zdůrazňuje nutnost systémových změn: „ 
 <i>Je potřeba, aby stát konečně posunul transformaci ústavní péče z papíru do praxe. Ústavy nemohou být jedinou volbou. Lidé s postižením mají právo na důstojný život, a ne na život v izolaci</i>.“</p>
 <p>Příběh Doroty Šandorové si můžete přečíst v&nbsp;oceněném 

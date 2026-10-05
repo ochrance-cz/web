@@ -1,0 +1,25 @@
+---
+title: Třetí díl Ochránce
+date: 2016-01-22T00:00:00.000Z
+perex: V neděli 24. 1. od 17:15 můžete na ČT2 sledovat třetí díl pořadu
+  Ochránce. Tentokrát se příběhy týkají potíží s katastrálním úřadem při
+  majetkovém vyrovnání bývalých manželů, přiznávání mimořádné dávky pomoci
+  v hmotné nouzi a snahy občanů pořizovat si kopie ze spisů k některým velkým
+  stavebním záměrům. Reprízy pořadu jsou na programu ČT2 následující čtvrtek
+  v 18:55 a v pátek ve 14:15.
+kategorie:
+  - tz
+---
+##### Oprava chyby v katastru nemovitostí
+
+Katastrální úřad zapsal v roce 1996 vlastnické právo k domu dnes již bývalému manželovi stěžovatelky na základě kolaudačního rozhodnutí, které však nikdy nenabylo právní moci, jak se později ukázalo. Stěžovatelka proto žádalo o opravu chyby. Zeměměřický a katastrální inspektorát potvrdil, že záznam podle nepravomocného kolaudačního rozhodnutí neměl být proveden, ale současně odmítl provést opravu, protože k zaznamenání změny nebyla doložena žádná listina.
+
+##### Námitky proti výši mimořádné dávky pomoci v hmotné nouzi
+
+Stěžovatelka žádala o přiznání dávky mimořádné okamžité pomoci na úhradu nákladů spojených s pořízením nebo opravou nezbytných základních předmětů dlouhodobé potřeby. Žádala o dávku ve výši 20 000 Kč na předměty dlouhodobé potřeby (postele pro děti, skříně, matrace, stůl, židle, topení aj.). Vyplaceno jí bylo jen 6000 Kč, aniž by jí byl oznámen důvod tohoto snížení. Nemohla se tedy ani neprodleně bránit. Námitky podala ihned poté, co jí bylo rozhodnutí úřadu doručeno, jenže úřad se námitkami odmítl zabývat s tím, že byly podány opožděně. Ukázalo se, že rozhodnutí bylo vydáno 8. 2., ale doručeno až 22. 2., takže mezitím uběhla patnáctidenní lhůta pro podání námitek.
+
+##### Odepření kopie dokumentace stavby účastníkům řízení
+
+Na ochránce se obrátilo občanské sdružení v záležitosti postupu stavebního úřadu. Podstatou byla námitka, že stavební úřad znemožňuje účastníkům územního řízení pořídit si kopie některých zásadních částí spisu, kupř. ve věcech „Bytový dům Brno Bílého“, „Rekonstrukce Vaňkova náměstí v Brně“ nebo „přístavba domu na ul. Františky Stránecké“. Stavební úřad svůj postup odůvodňoval tím, že jde o součást projektové dokumentace stavby a k pořízení kopie je nutné doložit souhlas pořizovatele dokumentace nebo vlastníka stavby.
+
+Podívejte se na tento díl v archívu ČT: [http://www.ceskatelevize.cz/porady/10363268581-ochrance/314281381960003/](http://www.ceskatelevize.cz/porady/10363268581-ochrance/314281381960003/ "Otevření do nového okna")

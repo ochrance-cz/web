@@ -1,0 +1,28 @@
+---
+title: Diskuze nad vybranými problémy aplikace stavebního práva
+date: 2013-05-07T00:00:00.000Z
+perex: Je balkón či lodžie společnou částí bytového domu nebo je součástí bytové
+  jednotky? Je zasklívání lodžie změnou vzhledu stavby domu? Jak mají stavební
+  úřady při povolování stavby uplatňovat zásadu „šetrnosti k zájmům vlastníků
+  sousedních pozemků a staveb“? Toto jsou jen některé otázky, o nich diskutovali
+  účastníci kulatého stolu pořádaného veřejným ochráncem práv 25. 4. 2013.
+  Pozvání na něj přijali zástupci Ministerstva pro místní rozvoj, krajských
+  úřadů a Magistrátů hlavního města Prahy a města Brna, tedy úřadů působících
+  v roli ústředního správního orgánu státní správy na úseku stavebního řádu
+  a odvolacích správních orgánů, které mají široké zkušenosti s aplikací
+  stavebního zákona.
+kategorie:
+  - tz
+---
+Cílem setkání bylo seznámit se vzájemně se zkušenostmi úřadů v konkrétních otázkách stavebního práva a porovnat je s poznatky veřejného ochránce práv z četných šetření. Smyslem diskuze bylo napomoci zajištění jednotných postupů správních orgánů v praxi.
+
+Závěry diskuze je možné shrnout do následujících bodů:
+
+-   Ve věci určení, zda konkrétní balkón či lodžie je společnou částí bytového domu, či je součástí resp. příslušenstvím bytové jednotky, z diskuse zúčastněných vyplynulo, že k této otázce nelze přijmout jednoznačný závěr. Aktuální judikatura klade důraz na vůli vlastníků jednotek, která je vyjádřena v Prohlášení vlastníka budovy. Právě způsob, jakým jsou balkón či lodžie vymezeny v Prohlášení vlastníka budovy, je rozhodný pro určení, zda se jedná o součást resp. příslušenství bytové jednotky, či zda jde o společnou část domu. 
+-   Ve věci změny vzhledu stavby domu v důsledku „zasklívání“ lodžií se zúčastnění shodli, že posouzení této otázky je výsledkem volného hodnocení důkazů, jež obecně náleží příslušnému stavebnímu úřadu. Ten musí, podle ochránce, vždy přesvědčivě zdůvodnit, proč konkrétní „zasklení“ není změnou vzhledu stavby a naopak. Přitom je nezbytné přihlédnout ke konkrétním okolnostem, jako je např. rozsah zasklení, charakter domu dotčeného zasklením, a v neposlední řadě též charakter území, v němž se dům nachází.
+-   Ve věci případného ustavení (nového) orgánu, který by hájil zvláštní zájmy na dodržení požadavků bezbariérového užívání staveb *(pozn. Vyhláška MMR č. 398/2009 Sb., o obecných technických požadavcích zabezpečujících bezbariérové užívání staveb),* se zástupci správních úřadů shodli, že není důvod usilovat o jeho zřízení. Respektování požadavků bezbariérovosti je v prvé řadě na odpovědnosti projektanta, který jako klíčová osoba v procesu výstavby odpovídá za správnost, úplnost a celistvost jím zpracované projektové dokumentace, jakož i za bezpečnost stavby a její proveditelnost podle této dokumentace. V diskusi zúčastnění uvedli, že spolupracují s regionálními pracovišti organizací hájících zájmy zdravotně hendikepovaných. Zástupci Ministerstva pro místní rozvoj připomněli, že zajišťují pro pracovníky stavebních úřadů odborné semináře na téma bezbariérovosti. 
+-   Ve věci respektování zásady „být šetrný k zájmům vlastníků sousedních pozemků a staveb“, která se promítá nejen do fáze umísťování stavby, ale též do fáze provádění stavby, z diskuse účastníků vyplynulo, že stavební úřady nemají mnoho praktických zkušeností s interpretací a aplikací této zásady, resp. že v této otázce jejich současná správní praxe není jednotná. Veřejný ochránce práv se proto obrátí na Ministerstvo pro místní rozvoj jako ústřední správní orgán, aby vydalo metodický pokyn, ze kterého by stavební úřady mohly vycházet při uplatňování stavebním zákonem zakotvené zásady „šetrnosti k  sousedství“.
+-   Ve věci přezkoumání opatření stavebních úřadů (např. územní souhlas, souhlas s ohlášením, kolaudační souhlas) se účastníci shodli, že stavební zákon (zákon č. 183/2006 Sb., ve znění pozdějších předpisů) stanoví toliko správní lhůty, ve kterých je možné opatření stavebních úřadů přezkoumat. Procesní pravidla a příslušnost správního orgánu k provedení přezkumného řízení se řídí částí čtvrtou správního řádu (zákon č. 500/2004 Sb., ve znění pozdějších předpisů).  Přezkumným správním orgánem je tak stavební úřad, který opatření vydal.  Jelikož jsou v odborných kruzích známy i odlišné právní názory (které příslušnost k přezkumu přičítají nadřízenému správnímu orgánu), veřejný ochránce práv se obrátí na Ministerstvo pro místní rozvoj, aby v zájmu odstranění případných aplikačních nejasností vydalo k této otázce metodický pokyn.
+-   Ve věci možnosti obrany proti certifikátu autorizovaného inspektora zúčastnění vyjádřili respekt k usnesení zvláštního senátu *(pozn. Usnesení zvláštního senátu zřízeného podle zákona č. 131/2002 Sb., o rozhodování některých kompetenčních sporů ze dne 6. 9. 2012,  č.j. Konf 25/2012-9,* [*www.nssoud.cz*](http://www.nssoud.cz/ "Otevření do nového okna") *)*, ve kterém judikoval, že tento certifikát není správním rozhodnutím. Současně senát uvedl, že osoby, které by mohly být dotčeny vznikem práva stavby na základě certifikátu, mohou využít postupu podle § 142 správního řádu (zákon č. 500/2004 Sb., ve znění pozdějších předpisů), které upravuje zvláštní řízení o určení právního vztahu.  Diskuse ukázala, že v praxi panuje nejasnost o rozsahu, v jakém by měly stavební úřady v rámci řízení o určení právního vztahu certifikát autorizovaného inspektora přezkoumávat.
+
+S ohledem na příznivé reakce ze strany oslovených správních úřadů, bude i v budoucnu ochránce pokračovat v diskusi s odbornou veřejností nad vybranými aplikačními problémy stavebního práva.

@@ -14,7 +14,7 @@ perex: <p>Veřejný ochránce práv vyjadřuje plnou podporu pozměňovacímu n�
 attachments:
   - title: Znění pozměňovacího návrhu poslanců k novele zákona o soudech a soudcích
       tzv. „lex Anička“
-    file: https://www.ochrance.cz/aktualne/ombudsman_podporuje_pozmenovaci_navrh_k_lex_anicka_-_zajistil_by_stabilni_financovani_pomoci_obetem_trestnych_cinu/pozmenovaci_navrh.docx
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/ombudsman_podporuje_pozmenovaci_navrh_k_lex_anicka_-_zajistil_by_stabilni_financovani_pomoci_obetem_trestnych_cinu/pozmenovaci_navrh.docx
 ---
 <p>
 <i>&nbsp;„Stát má pozitivní závazek obětem trestných činů pomáhat. Bez adekvátní podpory neziskového sektoru ale není schopen tuto pomoc zajistit</i>,“ uvedl zástupce ombudsmana Vít Alexander Schorm.&nbsp;</p>

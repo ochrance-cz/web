@@ -30,7 +30,7 @@ perex: >
 
 <p>Závěrečný třetí panel se zaměří na praktické otázky fungování instituce ombudsmana jako NHRI. Unijní rámec bude prezentovat zástupkyně Agentury EU pro základní práva (FRA). Prostor dostanou zástupci občanské společnosti a nevládního sektoru. Praktický pohled přidají odborníci z úřadů estonského a slovinského ombudsmana. Jejich instituce jsou zároveň i estonskou, resp. slovinskou NHRI.</p>
 
-<p><img alt="logo_nf_male.png" src="https://www.ochrance.cz/aktualne/v_kancelari_ombudsmana_budou_o_moznem_vzniku_ceske_narodni_lidskopravni_instituce_nhri_v_pondeli_diskutovat_odbornici_na_ochranu_lidskych_prav_ze_sedmi_evropskych_statu/logo_nf_male.png" /></p>
+<p><img alt="logo_nf_male.png" src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/v_kancelari_ombudsmana_budou_o_moznem_vzniku_ceske_narodni_lidskopravni_instituce_nhri_v_pondeli_diskutovat_odbornici_na_ochranu_lidskych_prav_ze_sedmi_evropskych_statu/logo_nf_male.png" /></p>
 
 <hr />
 <p><a href="#_ftnref1">[1]</a> Posílení aktivit veřejného ochránce práv v ochraně lidských práv (směrem k ustavení Národní lidskoprávní instituce v ČR), číslo projektu LP-PDP3-001. Projekt je součástí Programu lidská práva financovaného z Norských fondů 2014-2021 prostřednictvím Ministerstva financí,</p>

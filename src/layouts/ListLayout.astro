@@ -1,0 +1,115 @@
+---
+// Section list page wrapper. Mirrors layouts/_default/list.html.
+import BaseLayout from './BaseLayout.astro';
+import TextHeader from '../components/TextHeader.astro';
+import LinkList from '../components/LinkList.astro';
+import type { LinkListItem } from '../components/LinkList.astro';
+import { renderMarkdown } from '../lib/markdown';
+
+interface HeaderData {
+  date?: Date | string;
+  description?: string;
+  headerColor?: string;
+  headerIcon?: string;
+  tags?: string[];
+  descriptionInfoIcon?: boolean;
+  backlink?: { href: string; label: string };
+}
+
+interface ChildPage {
+  title: string;
+  href: string;
+  perex?: string;
+}
+
+interface Props {
+  title: string;
+  description?: string;
+  lang?: 'cs' | 'en';
+  header?: HeaderData;
+  /** Body perex (markdown/HTML). */
+  perex?: string;
+  /** When set, renders a link list instead of the body perex/child previews. */
+  links?: LinkListItem[];
+  /** Child page previews (rendered when no `links` and not hidden). */
+  pages?: ChildPage[];
+  hidePages?: boolean;
+  includeInSearchIndex?: boolean;
+  bodyClass?: string;
+  canonical?: string;
+  ogImage?: string;
+  alternates?: { lang: string; href: string }[];
+  alert?: Record<string, unknown>;
+  nav?: Record<string, unknown>;
+  footer?: Record<string, unknown>;
+}
+
+const {
+  title,
+  description,
+  lang = 'cs',
+  header = {},
+  perex,
+  links,
+  pages = [],
+  hidePages = false,
+  includeInSearchIndex = false,
+  bodyClass,
+  canonical,
+  ogImage,
+  alternates,
+  alert,
+  nav,
+  footer,
+} = Astro.props;
+
+const hasLinks = !!(links && links.length > 0);
+const perexHtml = perex ? await renderMarkdown(perex) : '';
+
+const childPages = await Promise.all(
+  pages.map(async (p) => ({
+    ...p,
+    perexHtml: p.perex ? await renderMarkdown(p.perex) : '',
+  }))
+);
+---
+<BaseLayout
+  title={title}
+  description={description}
+  lang={lang}
+  bodyClass={bodyClass}
+  canonical={canonical}
+  ogImage={ogImage}
+  alternates={alternates}
+  alert={alert as any}
+  nav={nav as any}
+  footer={footer as any}
+>
+  <main data-pagefind-body={includeInSearchIndex ? '' : undefined} data-pagefind-weight="10">
+    <slot name="header">
+      <TextHeader title={title} locale={lang} {...header} />
+    </slot>
+
+    <section>
+      {hasLinks ? (
+        <>
+          <LinkList items={links!} />
+          <slot />
+        </>
+      ) : (
+        <>
+          {perexHtml && <div class="perex" set:html={perexHtml} />}
+
+          <slot />
+
+          {!hidePages && childPages.map((page) => (
+            <article class="_article-preview">
+              <h3><a href={page.href}>{page.title}</a></h3>
+              {page.perexHtml && <Fragment set:html={page.perexHtml} />}
+            </article>
+          ))}
+        </>
+      )}
+    </section>
+  </main>
+</BaseLayout>

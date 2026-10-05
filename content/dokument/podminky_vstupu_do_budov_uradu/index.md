@@ -5,5 +5,5 @@ vystupy:
   - vyzkumy
 attachmentsTop:
   - title: Podmínky vstupu do budov úřadů
-    file: https://www.ochrance.cz/uploads-import/ESO/vyzkum%205734-21-DV.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/vyzkum%205734-21-DV.pdf
 ---

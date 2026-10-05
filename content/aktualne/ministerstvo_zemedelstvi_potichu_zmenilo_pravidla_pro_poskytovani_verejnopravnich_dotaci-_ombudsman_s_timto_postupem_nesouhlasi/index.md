@@ -22,9 +22,9 @@ attachments:
   - title: Zpráva o šetření ombudsmana
     file: https://eso.ochrance.cz/Nalezene/Edit/11588
   - title: Dopis zaslaný ministrovi zemědělství
-    file: https://www.ochrance.cz/uploads-import/ESO/11-23-SZD-v%C3%BDzva%20%C3%BA%C5%99adu-4.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/11-23-SZD-v%C3%BDzva%20%C3%BA%C5%99adu-4.pdf
   - title: Doporučení pro Ministerstvo zemědělství
-    file: https://www.ochrance.cz/aktualne/ministerstvo_zemedelstvi_potichu_zmenilo_pravidla_pro_poskytovani_verejnopravnich_dotaci-_ombudsman_s_timto_postupem_nesouhlasi/doporuceni_pro_ministerstvo_zemedelstvi.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/ministerstvo_zemedelstvi_potichu_zmenilo_pravidla_pro_poskytovani_verejnopravnich_dotaci-_ombudsman_s_timto_postupem_nesouhlasi/doporuceni_pro_ministerstvo_zemedelstvi.pdf
 ---
 <p>
 <i>„Dotace nejsou soukromý obchod, mají se řídit podle transparentních pravidel veřejné správy. Podpůrný a garanční rolnický a lesnický fond rozhoduje o poskytování podpory z&nbsp;veřejných peněz, tudíž nejedná jako soukromník. Navíc tímto postupem zvyšuje nejistotu žadatelů a ohrožuje spravedlivé a přezkoumatelné poskytování dotací. Aby byla zajištěna spravedlivost a především transparentnost přerozdělování veřejných peněz, podpořil bych změnu zákona v&nbsp;přesně opačném duchu – jasné stanovení, že dotace se soukromoprávní smlouvou neposkytují,“&nbsp;</i>uvedl ombudsman Stanislav Křeček.</p>

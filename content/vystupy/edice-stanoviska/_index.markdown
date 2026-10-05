@@ -9,12 +9,12 @@ perex: Od roku 2007 vydává ombudsman tematické publikace v ediční řadě
   Publikace je ale užitečná i pro neodborníky, protože jim umožní zorientovat se
   v tématu a seznámit se se svými právy.
 ---
-* [29 – Veřejné cesty – místní a účelové komunikace ](/media/sbornik_verejne_cesty_mistni_a_ucelove_komunikace.pdf)(2025)
-* [28 – Nezaměstnání a úřad práce](/media/sbornik_nezamestnani_a_urad_prace_aktualizovane-vydani-2026_.pdf) (aktualizované vydání – stav k 1. 1. 2026)
-* [2﻿7 – Důchody s cizím prvkem](/media/sbornik_duchody_s_cizim_prvkem.pdf) (2023)
-* [2﻿6 – Důchody III](/media/sbornik_duchody_iii.pdf) (2023)
-* [25 – Ochrana zvířat](/media/sbornik_ochrana_zvirat.pdf)﻿ (2023)
-* [2﻿4  – Zdravotní pojištění ](/media/zdravotni-pojisteni.pdf)﻿ (2022)
+* [29 – Veřejné cesty – místní a účelové komunikace ](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/media/sbornik_verejne_cesty_mistni_a_ucelove_komunikace.pdf)(2025)
+* [28 – Nezaměstnání a úřad práce](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/media/sbornik_nezamestnani_a_urad_prace_aktualizovane-vydani-2026_.pdf) (aktualizované vydání – stav k 1. 1. 2026)
+* [2﻿7 – Důchody s cizím prvkem](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/media/sbornik_duchody_s_cizim_prvkem.pdf) (2023)
+* [2﻿6 – Důchody III](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/media/sbornik_duchody_iii.pdf) (2023)
+* [25 – Ochrana zvířat](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/media/sbornik_ochrana_zvirat.pdf)﻿ (2023)
+* [2﻿4  – Zdravotní pojištění ](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/media/zdravotni-pojisteni.pdf)﻿ (2022)
 * [23 – Školství](Sbornik_Skolstvi.pdf) (2021)
 * [22 – Odstraňování staveb II](Sbornik_Odstranovani_staveb_II.pdf) (2020)
 * [21 – Informace](Sbornik_Informace.pdf) (2020)

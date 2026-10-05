@@ -83,5 +83,5 @@ Na dětského ombudsmana se může obrátit každé dítě, a to i bez vědomí 
 
 Informace (nejen) pro děti najdete na [deti.ochrance.cz](https://deti.ochrance.cz/) a v našich informačních letácích[](<>)
 
-* [Dětský ombudsman aneb ochránce práv dětí: co dělá a co ne?](https://www.ochrance.cz/letaky/detsky-ombudsman/detsky-ombudsman.pdf)
-* [](https://www.ochrance.cz/letaky/detsky-ombudsman-zvlastni-opravneni/detsky-ombudsman-zvlastni-opravneni.pdf)[Dětský ombudsman: pomáhá i jinak (zvláštní oprávnění)](https://www.ochrance.cz/letaky/detsky-ombudsman-zvlastni-opravneni/detsky-ombudsman-zvlastni-opravneni.pdf)
+* [Dětský ombudsman aneb ochránce práv dětí: co dělá a co ne?](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/detsky-ombudsman/detsky-ombudsman.pdf)
+* [](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/detsky-ombudsman-zvlastni-opravneni/detsky-ombudsman-zvlastni-opravneni.pdf)[Dětský ombudsman: pomáhá i jinak (zvláštní oprávnění)](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/detsky-ombudsman-zvlastni-opravneni/detsky-ombudsman-zvlastni-opravneni.pdf)

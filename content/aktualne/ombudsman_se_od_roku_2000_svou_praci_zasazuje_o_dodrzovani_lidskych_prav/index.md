@@ -31,11 +31,11 @@ perex: >
 
 <p><strong>Na našich sociálních sítích jsme pro vás v&nbsp;poslední době připravili seriál s osvětou, jak nediskriminovat v&nbsp;pracovní inzerci a na co si dát pozor, když si hledáte pracovní místo</strong></p>
 
-<p><img alt="diskriminace_1.jpg" src="https://www.ochrance.cz/aktualne/ombudsman_se_od_roku_2000_svou_praci_zasazuje_o_dodrzovani_lidskych_prav/diskriminace_1.jpg" /><img alt="diskriminace_2.jpg" src="https://www.ochrance.cz/aktualne/ombudsman_se_od_roku_2000_svou_praci_zasazuje_o_dodrzovani_lidskych_prav/diskriminace_2.jpg" /><img alt="diskriminace_3.jpg" src="https://www.ochrance.cz/aktualne/ombudsman_se_od_roku_2000_svou_praci_zasazuje_o_dodrzovani_lidskych_prav/diskriminace_3.jpg" /><img alt="diskriminace_4.png" src="https://www.ochrance.cz/aktualne/ombudsman_se_od_roku_2000_svou_praci_zasazuje_o_dodrzovani_lidskych_prav/diskriminace_4.png" /></p>
+<p><img alt="diskriminace_1.jpg" src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/ombudsman_se_od_roku_2000_svou_praci_zasazuje_o_dodrzovani_lidskych_prav/diskriminace_1.jpg" /><img alt="diskriminace_2.jpg" src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/ombudsman_se_od_roku_2000_svou_praci_zasazuje_o_dodrzovani_lidskych_prav/diskriminace_2.jpg" /><img alt="diskriminace_3.jpg" src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/ombudsman_se_od_roku_2000_svou_praci_zasazuje_o_dodrzovani_lidskych_prav/diskriminace_3.jpg" /><img alt="diskriminace_4.png" src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/ombudsman_se_od_roku_2000_svou_praci_zasazuje_o_dodrzovani_lidskych_prav/diskriminace_4.png" /></p>
 
 <h4><strong>Čím se ombudsman zabýval, komu pomáhal a co v&nbsp;poslední době podnikl v&nbsp;rámci osvěty a prevence k&nbsp;předcházení diskriminace? </strong></h4>
 
-<p>Shrnutí, zajímavosti a data za posledních 15 let najdete v&nbsp;našem <a href="https://www.ochrance.cz/aktualne/ombudsman_uz_15_let_pomaha_s_diskriminaci-_vyroci_si_pripomnel_na_konferenci_v_senatu_spolecne_s_obetmi_nerovneho_zachazeni/factsheet_15_let_bojujeme_proti_diskriminaci.pdf">factsheetu</a></p>
+<p>Shrnutí, zajímavosti a data za posledních 15 let najdete v&nbsp;našem <a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/ombudsman_uz_15_let_pomaha_s_diskriminaci-_vyroci_si_pripomnel_na_konferenci_v_senatu_spolecne_s_obetmi_nerovneho_zachazeni/factsheet_15_let_bojujeme_proti_diskriminaci.pdf">factsheetu</a></p>
 
 <p><a href="https://www.ochrance.cz/situace/diskriminace/">Konkrétní případy diskriminace</a>, se kterými se můžete nejčastěji v&nbsp;každodenním osobním a pracovním životě setkat</p>
 
@@ -47,6 +47,6 @@ perex: >
 
 <p><a href="https://www.ochrance.cz/dokument/doporuceni_pro_zamestnavatele/">Jak se vyhnout diskriminaci na pracovišti</a>? Jaké jsou nejčastější případy a jak jim předcházet?&nbsp;</p>
 
-<p><a href="https://www.ochrance.cz/aktualne/zeny_v_cesku_se_kvuli_tehotenstvi_a_materstvi_setkavaji_v_praci_s_mnohymi_barierami_potvrdil_vyzkum_verejneho_ochrance_prav/vyzkumna_zprava_tehotenstvi_a_materstvi_na_pracovisti.pdf">Jaké máme doporučení pro těhotné ženy a matky na pracovišti</a>? Jaká mají matky práva a na co si dát pozor, aby u nich nedošlo k&nbsp;diskriminaci? Co například dělat, když se chcete do práce vrátit dříve z&nbsp;mateřské dovolené?&nbsp;&nbsp;</p>
+<p><a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/zeny_v_cesku_se_kvuli_tehotenstvi_a_materstvi_setkavaji_v_praci_s_mnohymi_barierami_potvrdil_vyzkum_verejneho_ochrance_prav/vyzkumna_zprava_tehotenstvi_a_materstvi_na_pracovisti.pdf">Jaké máme doporučení pro těhotné ženy a matky na pracovišti</a>? Jaká mají matky práva a na co si dát pozor, aby u nich nedošlo k&nbsp;diskriminaci? Co například dělat, když se chcete do práce vrátit dříve z&nbsp;mateřské dovolené?&nbsp;&nbsp;</p>
 
 <p>Koukněte se také na naše <a href="https://www.ochrance.cz/dokument/monitorovaci_zpravy/">monitorovací a shrnující zprávy</a></p>

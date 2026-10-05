@@ -15,9 +15,9 @@ perex: >
   mohou ve výjimečných případech požádat o prominutí poplatku.</p>
 attachments:
   - title: Leták Komunální odpad
-    file: https://www.ochrance.cz/letaky/komunalni-odpad/komunalni-odpad.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/komunalni-odpad/komunalni-odpad.pdf
   - title: Leták Komunální odpad-promíjení poplatku
-    file: https://www.ochrance.cz/letaky/komunalni-odpad_promijeni-poplatku/komunalni-odpad_promijeni-poplatku.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/komunalni-odpad_promijeni-poplatku/komunalni-odpad_promijeni-poplatku.pdf
   - title: Zpráva o šetření sp. zn. 11814/2022/VOP
     file: https://eso.ochrance.cz/Nalezene/Edit/12438
 ---

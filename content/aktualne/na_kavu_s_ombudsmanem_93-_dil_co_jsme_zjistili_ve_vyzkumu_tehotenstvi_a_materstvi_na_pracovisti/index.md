@@ -21,11 +21,11 @@ perex: >
 
 <p>K výzkumu probíhá 22. 6. 2023 také konference, kterou můžete sledovat zdarma online. Odkaz na stream naleznete na webu www.ochrance.cz v oranžové liště nahoře.</p>
 
-<p><img alt="program_1.png" src="https://www.ochrance.cz/aktualne/na_kavu_s_ombudsmanem_93-_dil_co_jsme_zjistili_ve_vyzkumu_tehotenstvi_a_materstvi_na_pracovisti/program_1.png" /><img alt="program_2.png" src="https://www.ochrance.cz/aktualne/na_kavu_s_ombudsmanem_93-_dil_co_jsme_zjistili_ve_vyzkumu_tehotenstvi_a_materstvi_na_pracovisti/program_2.png" /></p>
+<p><img alt="program_1.png" src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/na_kavu_s_ombudsmanem_93-_dil_co_jsme_zjistili_ve_vyzkumu_tehotenstvi_a_materstvi_na_pracovisti/program_1.png" /><img alt="program_2.png" src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/na_kavu_s_ombudsmanem_93-_dil_co_jsme_zjistili_ve_vyzkumu_tehotenstvi_a_materstvi_na_pracovisti/program_2.png" /></p>
 
 <h4><strong>Související užitečné odkazy</strong></h4>
 
-<p><a href="https://www.ochrance.cz/uploads-import/ESO/30-2023-DIS_M%C5%A0-final.pdf">Výzkum Těhotenství a mateřství na pracovišti</a>&nbsp;</p>
+<p><a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/30-2023-DIS_M%C5%A0-final.pdf">Výzkum Těhotenství a mateřství na pracovišti</a>&nbsp;</p>
 
 <p><a href="https://www.ochrance.cz/dokument/rodicovstvi_a_diskriminace_v_praci/">Praktická příručka práva na rovné zacházení rodiče na pracovním trhu</a>&nbsp;</p>
 

@@ -1,0 +1,65 @@
+---
+// Project detail (en). Mirrors layouts/projekty/single.html for the -en collection.
+import type { GetStaticPaths } from 'astro';
+import { getCollection } from 'astro:content';
+import { getNews } from '../../../../lib/news';
+import BaseLayout from '../../../../layouts/BaseLayout.astro';
+import TextHeader from '../../../../components/TextHeader.astro';
+import NewsPreview from '../../../../components/NewsPreview.astro';
+import MarkdownContent from '../../../../components/MarkdownContent.astro';
+import ProjektyCta from '../../../../components/projekty/ProjektyCta.astro';
+import { renderMarkdown } from '../../../../lib/markdown';
+import { t } from '../../../../lib/i18n';
+import { url } from '../../../../lib/paths';
+
+export const getStaticPaths = (async () => {
+  const entries = await getCollection('projekty-en');
+  return entries.map((entry) => ({
+    params: { slug: entry.id },
+    props: { entry },
+  }));
+}) satisfies GetStaticPaths;
+
+const lang = 'en';
+const { entry } = Astro.props;
+const { data } = entry;
+
+
+// Related news: aktualne-en entries whose `project` matches this project's title.
+const relatedNews = (await getNews('aktualne-en')).filter(
+  (e) => (e.data as { project?: string }).project === data.title,
+);
+---
+<BaseLayout title={data.title} lang={lang}>
+  <main data-pagefind-body>
+    <TextHeader title={data.title} locale={lang} />
+
+    <section>
+
+      <MarkdownContent content={entry.body} />
+
+    </section>
+
+    {relatedNews.length > 0 && (
+      <div class="_backdrop news">
+        <section class="_news single-col">
+          <h2>{t(lang, 'news')}</h2>
+          {relatedNews.map((n) => (
+            <NewsPreview
+              href={url(lang, 'aktualne', n.id)}
+              title={n.data.title}
+              pic={n.data.illustration}
+              perex={n.data.perex}
+              date={n.data.date}
+              tags={n.data.vystupy ?? []}
+              locale={lang}
+            />
+          ))}
+        </section>
+      </div>
+    )}
+
+
+    <ProjektyCta lang={lang} />
+  </main>
+</BaseLayout>

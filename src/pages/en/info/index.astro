@@ -1,0 +1,24 @@
+---
+import PageHeader from '../../../components/site-copy/headers/en-info.astro';
+import * as pageCopy0 from '../../../components/page-content/section-pages-en/info.astro';
+// /en/info/ — list of info pages (en).
+import { getCollection } from 'astro:content';
+import ListLayout from '../../../layouts/ListLayout.astro';
+
+const entries = (await getCollection('info-en'))
+  .filter((e) => !e.data.draft)
+  .sort((a, b) => {
+    const ao = a.data.order ?? Number.POSITIVE_INFINITY;
+    const bo = b.data.order ?? Number.POSITIVE_INFINITY;
+    if (ao !== bo) return ao - bo;
+    return a.data.title.localeCompare(b.data.title, 'en');
+  });
+
+const pages = entries.map((e) => ({
+  title: e.data.title,
+  href: `/en/info/${e.id}/`,
+  perex: e.data.hp,
+}));
+import { data as section } from '../../../components/page-content/section-pages-en/info.astro';
+---
+<ListLayout title={section.title} lang="en" pages={pages} includeInSearchIndex={true} ><PageHeader slot="header" /></ListLayout>

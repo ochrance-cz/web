@@ -14,4 +14,4 @@ perex: >
 
 <p>V&nbsp;současnosti ombudsman finalizuje také druhou monitorovací zprávu o rovném zacházení, v&nbsp;níž se mimo jiné věnuje vzdělávání Romů. V&nbsp;první zprávě uvedl, že bude důležité sledovat kvalifikované odhady podílu romských dětí ve školách, stejně tak počet škol s vyšším podílem romských žáků nebo podíl romských žáků v povinném posledním ročníku mateřských škol. Zaměřuje se také na případné změny ve vzdělávání pedagogů, zda se učí o specificích práce s žáky s odlišnými kulturními a životními podmínkami, nebo jestli systém dalšího vzdělávání zahrne modul metodické podpory ve vztahu k romským žákům.</p>
 
-<p><a href="https://www.ochrance.cz/uploads-import/ESO/OMBUDSMAN-NF_monitor-z-01_CZ.pdf">První monitorovací zpráva</a></p>
+<p><a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/OMBUDSMAN-NF_monitor-z-01_CZ.pdf">První monitorovací zpráva</a></p>

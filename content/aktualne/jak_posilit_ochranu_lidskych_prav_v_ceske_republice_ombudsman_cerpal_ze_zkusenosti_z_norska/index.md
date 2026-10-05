@@ -26,9 +26,9 @@ perex: >
   programu Legislativní rada vlády</a>.</p>
 attachments:
   - title: Tisková zpráva
-    file: https://www.ochrance.cz/aktualne/jak_posilit_ochranu_lidskych_prav_v_ceske_republice_ombudsman_cerpal_ze_zkusenosti_z_norska/tz_-_zaver_projektu_nf_lp-pdp3-001.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/jak_posilit_ochranu_lidskych_prav_v_ceske_republice_ombudsman_cerpal_ze_zkusenosti_z_norska/tz_-_zaver_projektu_nf_lp-pdp3-001.pdf
   - title: Stručné shrnutí výstupů projektu
-    file: https://www.ochrance.cz/aktualne/jak_posilit_ochranu_lidskych_prav_v_ceske_republice_ombudsman_cerpal_ze_zkusenosti_z_norska/strucne_shrnuti_vystupu_projektu_nf_lp-pdp3-001.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/jak_posilit_ochranu_lidskych_prav_v_ceske_republice_ombudsman_cerpal_ze_zkusenosti_z_norska/strucne_shrnuti_vystupu_projektu_nf_lp-pdp3-001.pdf
 ---
 
 
@@ -42,7 +42,7 @@ attachments:
 
 <p>V rámci podpory práv dětí se v&nbsp;Kanceláři ombudsmana konala <a href="https://www.ochrance.cz/aktualne/deti_na_ombudsmanske_konferenci_zjistovaly_jak_jim_muze_pomahat_verejny_ochrance_prav-_politici_a_odbornici_mezitim_diskutovali_o_detskem_ombudsmanovi/">dětská konference</a> a následně se žáci středních a základních škol v&nbsp;participačních skupinách věnovali <a href="https://deti.ochrance.cz/aktualne/zkusme_to_zmenit/">přemýšlení o změnách ve svých školách</a>, <a href="https://deti.ochrance.cz/aktualne/stredoskolaci_chteji_menit_svet_kolem_sebe_dnes_nam_predstavili_sve_napady/">přípravě projektů</a> na zlepšení svého okolí, a diskuzím o <a href="https://deti.ochrance.cz/aktualne/muze_se_stretavat_pravo_na_soukromi_s_pravem_na_sdileni_informaci/">právu na soukromí</a> nebo o <a href="https://deti.ochrance.cz/aktualne/je_tezke_pomerovat_mezi_jednotlivymi_pravy/">poměřování mezi jednotlivými právy</a>.&nbsp;</p>
 
-<p>Na workshopech sdílel veřejný ochránce práv s odborníky zjištění například z&nbsp;výzkumů zabývajících se dobrou praxí při <a href="https://www.ochrance.cz/aktualne/ombudsman_zmapoval_dobrou_praxi_pri_zajistovani_dustojneho_bydleni_pro_lidi_ze_zranitelnych_skupin-_dari_se_predevsim_diky_dostatecne_podpore_lidi_pri_zabydlovani_i_zarukam_pro_vlastniky_bytu/">zajišťování bydlení pro zranitelné skupiny obyvatel</a>, <a href="https://www.ochrance.cz/projekty/posileni-aktivit/11_29_pristupnost_a_bezbarierove_uzivani_staveb_prezentace.pdf">přístupností</a> budov i služeb pro lidi s&nbsp;postižením nebo <a href="https://eso.ochrance.cz/Nalezene/Edit/9920">situací pracovníků z&nbsp;jiných státu Evropské unie</a>. Mezi osmi doporučeními týkajícími se ochrany ohrožených dětí a jejich rodin jsou například ta, jak by <a href="https://eso.ochrance.cz/Nalezene/Edit/12304">vězeňská služba</a> a <a href="https://eso.ochrance.cz/Nalezene/Edit/12302">orgány sociálně právní ochrany dětí</a> mohly zlepšit setkávání a ostatní kontakty dětí s&nbsp;vězněnými rodiči. Další doporučení se týkají například <a href="https://eso.ochrance.cz/Nalezene/Edit/9872">vyhledávání pěstounů na přechodnou dobu</a> nebo <a href="https://www.ochrance.cz/projekty/posileni-aktivit/7_Doporuceni-ochrance-ve-veci-zvyseni-odmen-pestounum-na-prechodnou-dobu.pdf">zvýšení jejich odměn</a>.</p>
+<p>Na workshopech sdílel veřejný ochránce práv s odborníky zjištění například z&nbsp;výzkumů zabývajících se dobrou praxí při <a href="https://www.ochrance.cz/aktualne/ombudsman_zmapoval_dobrou_praxi_pri_zajistovani_dustojneho_bydleni_pro_lidi_ze_zranitelnych_skupin-_dari_se_predevsim_diky_dostatecne_podpore_lidi_pri_zabydlovani_i_zarukam_pro_vlastniky_bytu/">zajišťování bydlení pro zranitelné skupiny obyvatel</a>, <a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/projekty/posileni-aktivit/11_29_pristupnost_a_bezbarierove_uzivani_staveb_prezentace.pdf">přístupností</a> budov i služeb pro lidi s&nbsp;postižením nebo <a href="https://eso.ochrance.cz/Nalezene/Edit/9920">situací pracovníků z&nbsp;jiných státu Evropské unie</a>. Mezi osmi doporučeními týkajícími se ochrany ohrožených dětí a jejich rodin jsou například ta, jak by <a href="https://eso.ochrance.cz/Nalezene/Edit/12304">vězeňská služba</a> a <a href="https://eso.ochrance.cz/Nalezene/Edit/12302">orgány sociálně právní ochrany dětí</a> mohly zlepšit setkávání a ostatní kontakty dětí s&nbsp;vězněnými rodiči. Další doporučení se týkají například <a href="https://eso.ochrance.cz/Nalezene/Edit/9872">vyhledávání pěstounů na přechodnou dobu</a> nebo <a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/projekty/posileni-aktivit/7_Doporuceni-ochrance-ve-veci-zvyseni-odmen-pestounum-na-prechodnou-dobu.pdf">zvýšení jejich odměn</a>.</p>
 
 <p>Veřejný ochránce práv také sledoval, jak zařízení, kde jsou lidé omezení na osobní svobodě, plní jeho dosavadní doporučení. Pracovníci Kanceláře ombudsmana si to ověřili v celkem dvaceti zařízeních různého typu &ndash; od věznic, přes policejní cely, psychiatrické nemocnice a zařízení pro cizince až po dětské domovy.</p>
 
@@ -73,7 +73,7 @@ attachments:
 
 <p>4 doporučení v oblasti práva na rovné zacházení</p>
 
-<p><a href="https://www.ochrance.cz/projekty/posileni-aktivit/umluva_crpd-logo.pdf">Úmluvu o právech osob se zdravotním postižením ve snadném čtení</a></p>
+<p><a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/projekty/posileni-aktivit/umluva_crpd-logo.pdf">Úmluvu o právech osob se zdravotním postižením ve snadném čtení</a></p>
 
 <p><a href="https://deti.ochrance.cz/aktualne/chces_konecne_porozumet_umluve_o_pravech_ditete/">Úmluvu o právech dítěte ve znění srozumitelném dětem</a></p>
 

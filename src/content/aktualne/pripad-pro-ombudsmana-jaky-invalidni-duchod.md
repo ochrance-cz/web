@@ -1,0 +1,13 @@
+---
+title: "Případ pro ombudsmana: Jaký invalidní důchod"
+date: 2010-02-19T00:00:00.000Z
+perex: Neslyšící matka dvou dětí ve svém podnětu Kanceláři VOP namítala, že její
+  invalidní důchod je ve srovnání s ostatními stejně postiženými nižší.
+kategorie:
+  - tv
+---
+# Jaký invalidní důchod
+
+**Spis.značka VOP 3171/2003**
+
+Bylo shledáno pochybení České správy sociálního zabezpečení a došlo k nápravě nežádoucího stavu. Pro některé to může znamenat zanedbatelnou částku, která nechybí, pro jiné existenční záchranu a přežití v těžkých podmínkách kraje s vysokou nezaměstnaností.

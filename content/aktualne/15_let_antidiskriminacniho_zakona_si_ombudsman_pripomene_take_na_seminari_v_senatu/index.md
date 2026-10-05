@@ -16,7 +16,7 @@ perex: >
 
   <p>Seminář je možné sledovat také online prostřednictvím přenosu <a href="https://www.senat.cz/">Senátu</a>.</p>
 attachments:
-  - file: https://www.ochrance.cz/aktualne/15_let_antidiskriminacniho_zakona_si_ombudsman_pripomene_take_na_seminari_v_senatu/program_-15_let_antidiskriminacniho_zakona_1.pdf
+  - file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/15_let_antidiskriminacniho_zakona_si_ombudsman_pripomene_take_na_seminari_v_senatu/program_-15_let_antidiskriminacniho_zakona_1.pdf
     title: Program semináře 15 let antidiskriminačního zákona
 ---
-<p><img alt="Jedná se o obrázek s programem semináře. V PDF je k dispozici v příloze níže." src="https://www.ochrance.cz/aktualne/15_let_antidiskriminacniho_zakona_si_ombudsman_pripomene_take_na_seminari_v_senatu/program_.png" /></p>
+<p><img alt="Jedná se o obrázek s programem semináře. V PDF je k dispozici v příloze níže." src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/15_let_antidiskriminacniho_zakona_si_ombudsman_pripomene_take_na_seminari_v_senatu/program_.png" /></p>

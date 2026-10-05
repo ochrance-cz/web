@@ -9,5 +9,5 @@ attachmentsTop:
   - title: Usnesení poradního orgánu veřejného ochránce práv pro oblast ochrany práv
       osob se zdravotním postižením k dostupnosti sociálních služeb komunitního
       charakteru na území hlavního města Prahy
-    file: https://www.ochrance.cz/dokument/usneseni_k_dostupnosti_socialnich_sluzeb_komunitniho_charakteru_na_uzemi_hlavniho_mesta_prahy/usneseni_2024_15_k_dostupnosti_soc._sluzeb_v_hl._m._praze.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/dokument/usneseni_k_dostupnosti_socialnich_sluzeb_komunitniho_charakteru_na_uzemi_hlavniho_mesta_prahy/usneseni_2024_15_k_dostupnosti_soc._sluzeb_v_hl._m._praze.pdf
 ---

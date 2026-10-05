@@ -15,10 +15,10 @@ perex: >
 attachments:
   - title: Nález Ústavního soudu
     file: https://www.usoud.cz/fileadmin/user_upload/Tiskova_mluvci/Publikovane_nalezy/2024/3-1951-21_AN.pdf
-  - file: https://www.ochrance.cz/uploads-import/ESO/27-24-OZP-KL-1.pdf
+  - file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/27-24-OZP-KL-1.pdf
     title: Vyjádření veřejného ochránce práv jako amici curiae
   - title: Informační leták Opatrovník
-    file: https://www.ochrance.cz/letaky/opatrovnik/opatrovnik.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/opatrovnik/opatrovnik.pdf
 ---
 <p>Ombudsman se už v&nbsp;minulosti vymezil proti usnesení Nejvyššího správního soudu (NSS), který v&nbsp;roce 2021 dovodil, že obce nevykonávají veřejné opatrovnictví v přenesené působnosti. Ombudsman &nbsp;navrhl, aby toto rozhodnutí NSS nebylo zveřejněno ve sbírce. Argumentoval, že se NSS odchýlil od ustálené judikatury i praxe veřejného opatrovnictví a fakticky popřel pravomoc ombudsmana dále šetřit stížnosti na veřejné opatrovnictví. NSS však přes jeho výhrady rozhodnutí ve sbírce uveřejnil.</p>
 
@@ -39,4 +39,4 @@ attachments:
 <p>&nbsp;</p>
 
 <hr />
-<p><a href="#_ftnref1">[1]</a> Více informací například v&nbsp;legislativním doporučení, které je uvedeno na straně 16 ve <a href="https://www.ochrance.cz/dokument/zpravy_pro_poslaneckou_snemovnu_2023/vyrocni-zprava-2023.pdf">Výroční zprávě za rok 2023</a>.</p>
+<p><a href="#_ftnref1">[1]</a> Více informací například v&nbsp;legislativním doporučení, které je uvedeno na straně 16 ve <a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/dokument/zpravy_pro_poslaneckou_snemovnu_2023/vyrocni-zprava-2023.pdf">Výroční zprávě za rok 2023</a>.</p>

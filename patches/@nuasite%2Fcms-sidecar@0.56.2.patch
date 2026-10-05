@@ -1,0 +1,105 @@
+diff --git a/node_modules/@nuasite/cms-sidecar/.bun-tag-537970ea77a3265 b/.bun-tag-537970ea77a3265
+new file mode 100644
+index 0000000000000000000000000000000000000000..e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+diff --git a/src/server.ts b/src/server.ts
+index 980938e5db7bc958eeb9e2ad5cbbc6e35b4964fd..9e212a95bcb22629fe703a92f60ca9310adc08e6 100644
+--- a/src/server.ts
++++ b/src/server.ts
+@@ -511,10 +511,15 @@ function entryWithPageUrl(def: CollectionDefinition, entry: CollectionEntryInfo,
+ 	// The fragment short-circuit sits above every pathname source, so a source added below
+ 	// can never fabricate a URL for a collection that has no page.
+ 	if (def.fragment) {
+-		if (entry.pathname === undefined && entry.previewPathname === def.previewOf) return entry
++		// Magazine articles render on their selected issue, not on the all-issues index.
++		const parent = entry.data?.parent
++		const preview = def.name === 'zpravodaj-articles' && typeof parent === 'string' && parent
++			? `/zpravodaj/${encodeURIComponent(parent)}/`
++			: def.previewOf
++		if (entry.pathname === undefined && entry.previewPathname === preview) return entry
+ 		const { pathname: _pathname, previewPathname: _previewPathname, ...rest } = entry
+ 		const projected: CollectionEntryInfo = { ...rest }
+-		if (def.previewOf !== undefined) projected.previewPathname = def.previewOf
++		if (preview !== undefined) projected.previewPathname = preview
+ 		return projected
+ 	}
+ 	if (entry.pathname !== undefined) return entry
+@@ -541,7 +546,15 @@ export function createServer(opts: CreateServerOptions): CmsSidecarServer {
+ 
+ 	async function scanList(): Promise<CollectionDefinition[]> {
+ 		const map = await core.scanCollections()
++		// Projects may provide navigation labels and hide technical collections from
++		// the browser without removing the data the public site still reads.
++		let navigation: Record<string, { label?: string; hidden?: boolean }> = {}
++		try {
++			navigation = JSON.parse(await fs.readFile('src/lib/collection-labels.json'))
++		} catch { /* optional project metadata */ }
+ 		return Object.values(map)
++			.filter(def => navigation[def.name]?.hidden !== true)
++			.map(def => ({ ...def, label: navigation[def.name]?.label ?? def.label }))
+ 	}
+ 
+ 	async function resolveCollection(name: string): Promise<CollectionDefinition | null> {
+@@ -747,7 +760,36 @@ export function createServer(opts: CreateServerOptions): CmsSidecarServer {
+ 		const routes = await resolveCollectionRoutes(fs).catch(() => new Map<string, CollectionRoute>())
+ 		const route = routes.get(collection)
+ 		const all = (def.entries ?? []).map(e => entryWithPageUrl(def, e, route))
+-		const filtered = filterByDraft(all, query.draft)
++		let filtered = filterByDraft(all, query.draft)
++		const sort = url.searchParams.get('sort')
++		const requestedField = url.searchParams.get('sortField')
++		const dateField = def.fields.find(field => field.name === requestedField && (field.type === 'date' || field.type === 'datetime'))
++		const key = requestedField === 'title' ? 'title' : dateField?.name ?? (requestedField ? undefined : def.orderBy)
++		if (key && (sort === 'asc' || sort === 'desc')) {
++			const direction = sort === 'desc' ? -1 : 1
++			const locale = collection.endsWith('-en') ? 'en' : 'cs'
++			// Normalize before comparison: YAML dates, ISO strings, empty editor writes
++			// and invalid legacy dates can coexist. Undated entries stay last both ways.
++			const value = (entry: CollectionEntryInfo): string | number | undefined => {
++				if (key === 'title') return entry.title || entry.slug
++				const raw = entry.data?.[key]
++				if (raw == null || raw === '') return undefined
++				const time = raw instanceof Date ? raw.getTime() : Date.parse(String(raw))
++				return Number.isFinite(time) ? time : undefined
++			}
++			filtered = [...filtered].sort((a, b) => {
++				const left = value(a)
++				const right = value(b)
++				const tie = (a.title || a.slug).localeCompare(b.title || b.slug, locale) || a.slug.localeCompare(b.slug, locale)
++				if (left === undefined && right === undefined) return tie
++				if (left === undefined) return 1
++				if (right === undefined) return -1
++				const order = typeof left === 'number' && typeof right === 'number'
++					? left - right
++					: String(left).localeCompare(String(right), locale)
++				return order * direction || tie
++			})
++		}
+ 
+ 		const offset = decodeCursor(query.cursor)
+ 		const limit = query.limit ?? DEFAULT_LIMIT
+@@ -962,7 +1004,24 @@ export function createServer(opts: CreateServerOptions): CmsSidecarServer {
+ 		}
+ 
+ 		const offset = projectOffset ?? 0
+-		const projectImages = await listProjectImages(fs, { exclude: { dir: adapter.staticFiles?.dir, root } })
++		const localImages = await listProjectImages(fs, { exclude: { dir: adapter.staticFiles?.dir, root } })
++		let projectImages = localImages
++		try {
++			const referenced = JSON.parse(await fs.readFile('src/lib/content-media.json')) as MediaItem[]
++			const seen = new Set(items.map(item => item.url))
++			const unique = referenced.filter(item => {
++				if (seen.has(item.url)) return false
++				seen.add(item.url)
++				return true
++			})
++			// Show real site photographs before the project's icons and document files.
++			// The media library initially loads one page and otherwise looks almost empty.
++			projectImages = [
++				...unique.filter(item => item.contentType.startsWith('image/')),
++				...localImages.filter(item => !seen.has(item.url)),
++				...unique.filter(item => !item.contentType.startsWith('image/')),
++			]
++		} catch { /* optional content-media index */ }
+ 		const slice = projectImages.slice(offset, offset + Math.max(0, limit - items.length))
+ 		items.push(...slice)
+ 

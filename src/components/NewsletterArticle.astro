@@ -1,0 +1,22 @@
+---
+import { render, type CollectionEntry } from 'astro:content';
+import { data as section } from './page-content/section-pages/zpravodaj.astro';
+interface Props {
+  article: CollectionEntry<'zpravodaj-articles'>;
+  anchor?: string;
+}
+const { article, anchor } = Astro.props;
+const { Content } = await render(article);
+---
+<article id={anchor} class="_magazine-article">
+  <h3>
+    {article.data.title}
+    {article.data.id && <> (sp. zn. {article.data.id})</>}
+  </h3>
+  <Content />
+  {article.data.eso && (
+    <ul class="_link-list">
+      <li><a href={article.data.eso}>{section.esoLinkLabel}</a></li>
+    </ul>
+  )}
+</article>

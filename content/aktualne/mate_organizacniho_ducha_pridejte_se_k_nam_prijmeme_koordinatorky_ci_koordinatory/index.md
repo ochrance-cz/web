@@ -24,7 +24,7 @@ perex: <p>Rozšiřte naše řady! &nbsp;Kancelář veřejného ochránce práv a
 <br>•&nbsp;&nbsp;&nbsp;&nbsp;analyzovat vzdělávací potřeby cílových skupin z hlediska lidskoprávního vzdělávání.</p>
 <p>
 <strong>Bližší popis pracovní pozice i s ohledem na to, co může zajímat lidi se zdravotním omezením, najdete </strong>
-<a href="/media/jak_vypada_prace_koordinatora_participace_a_vzdelavani_pro_oblast_lidskych_prav.pdf">
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/media/jak_vypada_prace_koordinatora_participace_a_vzdelavani_pro_oblast_lidskych_prav.pdf">
 <strong>v tomto dokumentu.</strong></a></p>
 <p>
 <strong>Co od Vás požadujeme:</strong>&nbsp;&nbsp;
@@ -51,7 +51,7 @@ perex: <p>Rozšiřte naše řady! &nbsp;Kancelář veřejného ochránce práv a
 <br>•&nbsp;&nbsp;&nbsp;&nbsp;připravovat, řídit a realizovat vzdělávací projekty zaměřené na osvětu a vzdělávání v ochraně práv dětí.</p>
 <p>
 <strong>Bližší popis pracovní pozice i s ohledem na to, co může zajímat lidi se zdravotním omezením, najdete </strong>
-<a href="/media/jak_vypada_prace_koordinatora_participace_a_vzdelavani_pro_oblast_ochrany_prav_deti.pdf">
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/media/jak_vypada_prace_koordinatora_participace_a_vzdelavani_pro_oblast_ochrany_prav_deti.pdf">
 <strong>v tomto dokumentu</strong></a> 
 <strong>.</strong></p>
 <p>

@@ -16,7 +16,7 @@ perex: >
 
 <p>&nbsp;</p>
 
-<p>Více také v&nbsp;našem informačním letáku <a href="https://www.ochrance.cz/letaky/psychiatricka-nemocnice/psychiatricka-nemocnice.pdf">Pobyt na psychiatrii</a>.</p>
+<p>Více také v&nbsp;našem informačním letáku <a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/psychiatricka-nemocnice/psychiatricka-nemocnice.pdf">Pobyt na psychiatrii</a>.</p>
 
 <p>&nbsp;</p>
 

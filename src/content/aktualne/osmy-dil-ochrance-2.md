@@ -1,0 +1,25 @@
+---
+title: Osmý díl Ochránce
+date: 2016-02-26T00:00:00.000Z
+perex: Hluk ze střelnice u bytové zástavby, přestupkové řízení po napadení
+  sousedem, a diskriminace lidí se zdravotním postižením v lázních – takové
+  případy nabízí 8. díl pořadu Ochránce. Sledovat ho můžete na ČT2 v neděli
+  28. 2. v 18:15 h, reprízy pak ve čtvrtek v 18:55 h a v pátek ve 13:05 h.
+kategorie:
+  - tz
+---
+#####  O střelnici
+
+„Pustím vám video, které jsem si nazvala „100 střel za 4 minuty“,“ těmito slova začíná případ stěžovatelky, které život ztrpčoval hluk z bývalé myslivecké, nyní komerční střelnice v blízkosti obytné zástavby. Jednala s vlastníkem areálu, obracela se na úřady, spolu s více než 250 občany dané lokality sepsali petici proti hluku.
+
+Měřením se prokázalo, že byly překročeny hygienické limity hluku.  V návaznosti na to byla provozovateli uložena pokuta a jednalo se s ním o nezbytných protihlukových opatřeních. Nic z toho ale nepomohlo a hluk pokračoval.
+
+##### Potíže se sousedem
+
+Jaké to je, když si sousedé dělají naschvály, nesnáší se a napadají se, zažil stěžovatel z Olomouce. Soused ho napadl a zranil. Přestupková komise to začala projednávat jako přestupek proti občanskému soužití drobným ublížením na zdraví. V řízení však docházelo k průtahům. Úřad nařizoval projednávání v dlouhých intervalech a vždy vyhověl omluvám právního zástupce obviněného, takže znovu a znovu projednávání odkládal. Nakonec uplynul rok a nebylo rozhodnuto. Právě rok je lhůta, po které zaniká odpovědnost za přestupek, a pro přestupkovou komisi tím případ skončil a podezřelý z přestupku vyvázl bez trestu.
+
+##### Speciálně cviční psi v lázních
+
+Stěžovatelé jsou osoby se zdravotním postižením a potřebují pomoc speciálně vycvičeného asistenčního psa. Chtěli absolvovat pobyt v lázních, ale při domluvě zmínili i skutečnost, že s sebou budou mít asistenčního psa. Dozvěděli se, že jejich pobyt v lázních je možný, ale jen s ubytováním v jednom konkrétním pavilonu, kde by platili jednak za sebe poplatek za nadstandardní ubytování, ale také příplatek za psa. Dohromady by museli připlatit více než 13 000 Kč. Rozhodli se proto absolvovat lázeňský pobyt bez asistenčního psa, ale byli přesvědčeni, že se stali obětí diskriminace. 
+
+Přehrajte si díl z archivu ČT: [http://www.ceskatelevize.cz/porady/10363268581-ochrance/315281381960008/](http://www.ceskatelevize.cz/porady/10363268581-ochrance/315281381960008/ "Otevření do nového okna")

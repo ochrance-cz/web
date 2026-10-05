@@ -1,0 +1,34 @@
+---
+import pictogram from '../assets/czj-pictogram.webp';
+---
+<button type="button" class="czj-trigger" aria-label="Video v českém znakovém jazyce: jak podat podnět" aria-haspopup="dialog" aria-controls="czj-video-dialog" lang="cs">
+  <svg width="52" height="40" viewBox="0 0 52 40" aria-hidden="true" focusable="false">
+    <defs>
+      <mask id="czj-pictogram-mask" maskUnits="userSpaceOnUse" x="0" y="0" width="52" height="40" style="mask-type: luminance">
+        <image href={pictogram.src} width="52" height="40" style="filter: invert(1)" />
+      </mask>
+    </defs>
+    <rect width="52" height="40" fill="currentColor" mask="url(#czj-pictogram-mask)" />
+  </svg>
+</button>
+<dialog id="czj-video-dialog" class="czj-dialog" aria-labelledby="czj-video-title" lang="cs">
+  <button type="button" class="czj-close" aria-label="Zavřít video">×</button>
+  <h2 id="czj-video-title">Jak podat podnět v českém znakovém jazyce</h2>
+  <iframe data-video-src="https://www.youtube-nocookie.com/embed/fUEnHbXzQs0" title="Jak podat podnět v českém znakovém jazyce" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <p><a href="https://www.youtube.com/watch?v=fUEnHbXzQs0">Otevřít video na YouTube</a></p>
+</dialog>
+
+<script>
+  const trigger = document.querySelector<HTMLButtonElement>('.czj-trigger');
+  const dialog = document.querySelector<HTMLDialogElement>('#czj-video-dialog');
+  const close = dialog?.querySelector<HTMLButtonElement>('.czj-close');
+  const frame = dialog?.querySelector<HTMLIFrameElement>('iframe');
+
+  trigger?.addEventListener('click', () => {
+    if (!dialog || !frame) return;
+    frame.src = frame.dataset.videoSrc ?? '';
+    dialog.showModal();
+  });
+  close?.addEventListener('click', () => dialog?.close());
+  dialog?.addEventListener('close', () => frame?.removeAttribute('src'));
+</script>

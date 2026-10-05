@@ -13,7 +13,7 @@ perex: >-
   zaměstnavatel. Pokud vás zajímá blíže, jak to u nás chodí, koukněte do
   naší&nbsp; 
 
-  <a href="https://www.ochrance.cz/media/personalni_strategie.pdf">personální strategie</a>.</p>
+  <a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/media/personalni_strategie.pdf">personální strategie</a>.</p>
 
   <p>Právě hledáme:</p>
 

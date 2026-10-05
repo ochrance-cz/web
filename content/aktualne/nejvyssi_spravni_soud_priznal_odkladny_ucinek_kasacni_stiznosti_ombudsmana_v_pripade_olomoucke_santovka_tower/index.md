@@ -13,9 +13,9 @@ perex: >
   povolení.</p>
 attachments:
   - title: Usnesení NSS o přiznání odkladného účinku
-    file: https://www.ochrance.cz/aktualne/nejvyssi_spravni_soud_priznal_odkladny_ucinek_kasacni_stiznosti_ombudsmana_v_pripade_olomoucke_santovka_tower/santovka_-_usneseni_nss_-_odkladny_ucinek_1as_174_2022.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/nejvyssi_spravni_soud_priznal_odkladny_ucinek_kasacni_stiznosti_ombudsmana_v_pripade_olomoucke_santovka_tower/santovka_-_usneseni_nss_-_odkladny_ucinek_1as_174_2022.pdf
   - title: Kasační stížnost
-    file: https://www.ochrance.cz/aktualne/nejvyssi_spravni_soud_priznal_odkladny_ucinek_kasacni_stiznosti_ombudsmana_v_pripade_olomoucke_santovka_tower/santovka-szd_5-20_-_kasacni_stiznost_vop.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/nejvyssi_spravni_soud_priznal_odkladny_ucinek_kasacni_stiznosti_ombudsmana_v_pripade_olomoucke_santovka_tower/santovka-szd_5-20_-_kasacni_stiznost_vop.pdf
 ---
 <p>Veřejný ochránce práv chtěl žádostí o přiznání odkladného účinku předejít tomu, že by olomoucký magistrát vydal investorovi stavební povolení dřív, než skončí soudní řízení o kasační stížnosti. Po vydání stavebního povolení by totiž investor mohl podle platné právní úpravy začít stavět a dále pokračovat bez ohledu na případný úspěch kasační stížnosti ombudsmana u NSS. V&nbsp;takovém případě by podle ombudsmana bylo i vítězství u soudu fakticky bezcenné, protože by druhou největší městskou památkovou rezervaci v&nbsp;ČR postihla újma, kterou by již nebylo možné napravit.</p>
 

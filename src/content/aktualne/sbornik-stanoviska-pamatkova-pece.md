@@ -1,0 +1,22 @@
+---
+title: Sborník Stanoviska – Památková péče
+date: 2012-09-25T00:00:00.000Z
+perex: Publikace Památková péče je praktickou příručkou pro zájemce o památkovou
+  péči, pro vlastníky kulturních památek a především pro pracovníky orgánů
+  státní památkové péče, památkkových ústavů a dalších institucí.
+kategorie:
+  - tz
+---
+Další z řady tematických publikací podrobně vysvětlující výkon státní správy z pohledu ombudsmana je sborník Stanoviska – Památková péče. Ochránce touto formou seznamuje odbornou i širší veřejnost se svými poznatky a přináší ucelený výklad postupu správních orgánů ve věcech týkajících se památkové péče. Publikace tak může sloužit jako metodická pomůcka úředníkům, ale bude zajímavým zdrojem informací i pro další zájemce o tuto problematiku.
+
+V rámci své činnosti se ochránce opakovaně setkává s případy, které naznačují, že některé negativní jevy v oblasti památkové péče, mají dlouhodobý charakter odvíjející se od stávající právní úpravy. Jeho poznatky proto mohou pomoci i při přípravě změn v systému památkové péče, které Ministerstvo kultury ČR chystá.
+
+Mezi nejzávažnější a opakující se nedostatky památkové péče je neúčinnost ochrany kulturních památek, jejichž vlastníci zanedbávají své zákonné povinnosti udržovat památku v dobrém stavu. Orgány státní památkové péče sice mají pravomoci, jak vlastníka k plnění povinností přimět, ale ne vždy je dostatečně využívají. Nevyužita zůstává zejména možnost provést opatření k zachování památky na náklady vlastníka. Mnoho kulturních památek se proto nachází v havarijním stavu.
+
+Sborník Památková péče by se měl stát jak praktickou pomůckou širší veřejnosti, která se o památkovou péči zajímá, včetně samotných vlastníků kulturních památek, tak i pomůckou pracovníkům orgánů státní památkové péče, národních památkových ústavů a dalších odborných organizací.
+
+Vedle vysvětlení základních pojmů a povinností vlastníka se publikace věnuje objasnění role a postavení jednotlivých orgánů a organizací působících v oblasti péče o kulturní památky. Vysvětluje proces ochrany památek, postup a možnosti jednotlivých orgánů a doplňuje je vybranými soudními rozhodnutími.
+
+Podstatnou část publikace tvoří konkrétní případy, kterými se ochránce na úseku památkové péče zabýval. Právě na nich je nejlépe vysvětlen právní názor ochránce a rovněž způsob, jak by měly zodpovědné orgány státu postupovat v ochraně kulturního bohatství země.
+
+Publikace Památková péče není prodejná a je přímo distribuována příslušným úřadům a institucím. Pro další zájemce je pak k dispozici v elektronické podobě [zde](/dalsi-aktivity/publikace/sborniky-stanoviska/).

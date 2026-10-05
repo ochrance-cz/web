@@ -1,0 +1,8 @@
+---
+import SingleLayout from '../../layouts/SingleLayout.astro';
+import MarkdownContent from '../../components/MarkdownContent.astro';
+import copy from '../../page-copy/images.json';
+---
+<SingleLayout title={copy.title} lang="cs">
+  <MarkdownContent content={copy.body} />
+</SingleLayout>

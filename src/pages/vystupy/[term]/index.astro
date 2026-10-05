@@ -1,0 +1,128 @@
+---
+// /vystupy/<term>/ — output-category landing: header (title/plural, perex,
+// illustration) then AKTUALNE + DOKUMENT entries tagged with this category,
+// newest first (NewsPreview-style).
+//
+import type { GetStaticPaths } from 'astro';
+import { getCollection } from 'astro:content';
+import { getNews } from '../../../lib/news';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import PicHeader from '../../../components/PicHeader.astro';
+import NewsPreview from '../../../components/NewsPreview.astro';
+import { renderMarkdown } from '../../../lib/markdown';
+import { url } from '../../../lib/paths';
+import InternationalStatements from '../../../components/InternationalStatements.astro';
+import LinkList from '../../../components/LinkList.astro';
+import CrpdDocuments from '../../../components/CrpdDocuments.astro';
+import Recommendations from '../../../components/Recommendations.astro';
+import Collapsible from '../../../components/Collapsible.astro';
+import { t } from '../../../lib/i18n';
+
+export const getStaticPaths = (async () => {
+  const terms = (await getCollection('vystupy')) ?? [];
+  return terms.map((term) => ({
+    params: { term: term.id },
+    props: { term },
+  }));
+}) satisfies GetStaticPaths;
+
+const { term } = Astro.props;
+const termKey = term.id;
+const termSlug = term.id;
+
+const matches = (tags?: string[]) => (tags ?? []).some((v) => v === termKey || v === termSlug);
+
+const [aktualneAll, dokumentAll] = await Promise.all([
+  getNews('aktualne'),
+  getCollection('dokument'),
+]);
+const aktualne = (aktualneAll ?? [])
+  .filter((e) => matches(e.data.vystupy))
+  .map((e) => ({ section: 'aktualne', entry: e }));
+const dokument = (dokumentAll ?? [])
+  .filter((e) => matches(e.data.vystupy))
+  .map((e) => ({ section: 'dokument', entry: e }));
+
+const items = [...aktualne, ...dokument].sort((a, b) => {
+  const da = a.entry.data.date ? new Date(a.entry.data.date).getTime() : 0;
+  const db = b.entry.data.date ? new Date(b.entry.data.date).getTime() : 0;
+  return db - da; // newest first
+});
+
+const researchByYear = new Map<string, typeof items>();
+if (term.id === 'vyzkumy') {
+  for (const item of items) {
+    const year = item.entry.data.date
+      ? String(new Date(item.entry.data.date).getUTCFullYear()) : 'Bez data';
+    if (!researchByYear.has(year)) researchByYear.set(year, []);
+    researchByYear.get(year)!.push(item);
+  }
+}
+const researchYears = [...researchByYear].sort(([a], [b]) =>
+  a === 'Bez data' ? 1 : b === 'Bez data' ? -1 : Number(b) - Number(a),
+);
+
+const headerTitle = term.data.plural ?? term.data.title;
+const perexHtml = term.data.perex ? await renderMarkdown(term.data.perex) : '';
+---
+{term.id === 'doporuceni' ? <Recommendations mode="year" /> : term.id === 'poradni-organ-crpd' ? <CrpdDocuments term={term} /> : term.id === 'vyjadreni-pro-mezinarodni-organy' ? <InternationalStatements mode="type" /> : <BaseLayout title={headerTitle} lang="cs">
+  <main>
+    <PicHeader title={headerTitle} illustration={term.data.illustration} />
+    <section class:list={{ 'research-section': term.id === 'vyzkumy' }}>
+      {perexHtml && <div class="perex" set:html={perexHtml} />}
+      {term.id === 'publikace' && (
+        <nav aria-label="Druhy publikací">
+          <LinkList items={[
+            { link: '/vystupy/edice-stanoviska/', text: 'Edice Stanoviska' },
+            { link: '/vystupy/sbornik/', text: 'Sborníky z konferencí' },
+            { link: '/vystupy/rocenky-uprchlickeho-a-cizineckeho-prava/', text: 'Ročenky uprchlického a cizineckého práva' },
+            { link: '/vystupy/vyrocni_zprava_o_diskriminaci/', text: 'Výroční zprávy o diskriminaci' },
+          ]} />
+        </nav>
+      )}
+    </section>
+    <section class:list={['_news', 'single-col', { 'research-section': term.id === 'vyzkumy' }]}>
+      {term.id === 'vyzkumy' && (
+        <nav aria-label="Zobrazení výzkumů">
+          <ul class="_horizontal-list">
+            <li><a href="/vystupy/vyzkumy/" class="selected" aria-current="page">{t('cs', 'research-by-year')}</a></li>
+            <li><a href="/vyzkumy-vse/">{t('cs', 'research-all')}</a></li>
+          </ul>
+        </nav>
+      )}
+      {term.id === 'vyzkumy' ? researchYears.map(([year, entries], index) => (
+        <Collapsible title={year} id={`research-${year === 'Bez data' ? 'undated' : year}`} open={index === 0}>
+          {entries.map(({ section, entry }) => (
+            <NewsPreview
+              href={url('cs', section, entry.id)}
+              title={entry.data.title}
+              pic={'illustration' in entry.data ? (entry.data as { illustration?: string }).illustration : undefined}
+              perex={entry.data.perex}
+              date={entry.data.date}
+              tags={entry.data.vystupy ?? []}
+              headingLevel={4}
+              locale="cs"
+            />
+          ))}
+        </Collapsible>
+      )) : items.map(({ section, entry }) => (
+        <NewsPreview
+          href={url('cs', section, entry.id)}
+          title={entry.data.title}
+          pic={'illustration' in entry.data ? (entry.data as { illustration?: string }).illustration : undefined}
+          perex={entry.data.perex}
+          date={entry.data.date}
+          tags={entry.data.vystupy ?? []}
+          locale="cs"
+        />
+      ))}
+    </section>
+  </main>
+</BaseLayout>}
+
+<style>
+  /* Match the nested sections on the "Všechny výzkumy" page. */
+  .research-section {
+    margin: 3rem auto;
+  }
+</style>

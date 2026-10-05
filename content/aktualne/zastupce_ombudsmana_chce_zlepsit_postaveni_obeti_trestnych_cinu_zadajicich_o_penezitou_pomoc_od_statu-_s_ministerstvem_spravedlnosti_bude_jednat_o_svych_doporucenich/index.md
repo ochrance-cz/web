@@ -24,8 +24,8 @@ attachments:
   - title: Zpráva o šetření – poskytování peněžité pomoci obětem trestných činů
     file: https://eso.ochrance.cz/Nalezene/Edit/12256
   - title: Výběr ze zprávy o šetření – shrnutí a doporučení
-    file: https://www.ochrance.cz/aktualne/zastupce_ombudsmana_chce_zlepsit_postaveni_obeti_trestnych_cinu_zadajicich_o_penezitou_pomoc_od_statu-_s_ministerstvem_spravedlnosti_bude_jednat_o_svych_doporucenich/priloha_-_shrnuti_a_doporuceni.pdf
-  - file: https://www.ochrance.cz/aktualne/zastupce_ombudsmana_chce_zlepsit_postaveni_obeti_trestnych_cinu_zadajicich_o_penezitou_pomoc_od_statu-_s_ministerstvem_spravedlnosti_bude_jednat_o_svych_doporucenich/priloha_-_tabulka_-_maximalni_vyse_penezite_pomoci.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/zastupce_ombudsmana_chce_zlepsit_postaveni_obeti_trestnych_cinu_zadajicich_o_penezitou_pomoc_od_statu-_s_ministerstvem_spravedlnosti_bude_jednat_o_svych_doporucenich/priloha_-_shrnuti_a_doporuceni.pdf
+  - file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/zastupce_ombudsmana_chce_zlepsit_postaveni_obeti_trestnych_cinu_zadajicich_o_penezitou_pomoc_od_statu-_s_ministerstvem_spravedlnosti_bude_jednat_o_svych_doporucenich/priloha_-_tabulka_-_maximalni_vyse_penezite_pomoci.pdf
     title: Tabulka - maximální výše peněžité pomoci
   - title: Práva obětí stručně
     file: https://www.infovictims.cz/cz/prava-obeti-trestnch-cin

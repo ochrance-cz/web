@@ -1,0 +1,19 @@
+---
+title: I v domově pro seniory či léčebně mají lidé právo účastnit se voleb
+date: 2013-10-11T00:00:00.000Z
+perex: Občané, kteří nemohou volit přímo ve volební místnosti podle místa svého
+  trvalého bydliště, protože se nacházejí např. v zařízeních pro seniory,
+  psychiatrických léčebnách, nemocnicích, porodnicích, policejních celách
+  či ve výkonu vazby či trestu odnětí svobody apod., nejsou zbaveni volebního
+  práva. Musí jim být umožněno volit prostřednictvím zápisu do zvláštního
+  seznamu nebo na základě voličského průkazu.
+kategorie:
+  - tz
+---
+Pobytová zařízení by měla s klienty o účasti na volbách komunikovat a všem, kdo projeví zájem, umožnit volit tím, že je nechají zapsat do zvláštního seznamu voličů. Nejvyšší správní soud již dříve konstatoval, že zdravotnická zařízení a zařízení sociálních služeb jsou povinna aktivně, řádně a včas informovat voliče ve svém zařízení o možnosti účastnit se voleb. Nemají tedy čekat, zda se některý z klientů či pacientů o své právo volit sám přihlásí, ale mají povinnost se jich aktivně dotazovat, zda chtějí být vyškrtnuti ze seznamu voličů v místě svého trvalého pobytu a zapsáni do zvláštního seznamu v místě zařízení. Rozhodnutí NSS se dá adekvátně vztáhnout na jakákoli zařízení, v nichž jsou lidé v závislém postavení. Zařízení jsou povinna vytvořit seznam voličů a předat ho obci, v níž se zařízení nachází, aby mohli být tito občané zapsáni do zvláštního seznamu voličů.  
+
+![](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/uploads/RTEmagicC_volby.jpg.jpg)V případě volby prostřednictvím zápisu do zvláštního seznamu voličů hlasuje občan do přenosné urny, se kterou se za ním dostaví dva členové okrskové místně příslušné volební komise. V některých větších zařízeních a nemocnicích může být volební okrsek zřízen přímo v areálu.
+
+Zapsání do zvláštního seznamu zařizuje správa či velitel zařízení a pro letošní předčasné volby do Poslanecké sněmovny končí tato možnost v pátek 18. října.
+
+Další možností je tzv. voličský průkaz, vhodný především pro občany, kteří nevědí, kde se budou v den voleb nacházet, nebo např. mají na termín voleb naplánovanou hospitalizaci apod. Voličský průkaz se vystavuje na základě písemné žádosti s úředně ověřeným podpisem, anebo na základě osobní žádosti na obecním úřadě až do okamžiku uzavření stálého seznamu voličů. O voličský průkaz je možné zažádat již od 10. října.

@@ -1,0 +1,39 @@
+._about-person {
+  .img-wrapper {
+    // Portraits load from the CDN, so Pic cannot read their intrinsic size and
+    // emit width/height. Reserve the box here instead — same trick as ._about-us.
+    aspect-ratio: 0.7;
+
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      filter: grayscale(100%);
+    }
+  }
+
+  .big-quote {
+    border: solid $border-gray;
+    border-width: 1px 0;
+    border-radius: 0;
+    background: transparent;
+
+    p {
+      @include font-size-xl;
+      text-indent: -0.4em;
+      max-width: 67%;
+    }
+  }
+
+  @include medium {
+    .bio {
+      @include grid(3fr 4fr);
+      grid-column-gap: 4rem;
+      max-width: 80vw;
+    }
+
+    .bio-text {
+      margin-top: 4rem;
+    }
+  }
+}

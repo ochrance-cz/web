@@ -1,0 +1,33 @@
+---
+title: Pitná voda už není samozřejmost
+date: 2019-09-23T00:00:00.000Z
+perex: Na počátku důsledků klimatických změn konfliktů o zdroje přibývá. Měli
+  bychom se připravit na další dekády
+kategorie:
+  - tz
+---
+Otočíme kohoutkem a teče z něj neomezené množství pitné vody. Pokládáme to za podobnou samozřejmost jako dýchání nebo chůzi. Nedostatek vody vnímáme jako věc exotických zemí, které se utápějí v dalekých pouštích. Voda však už není taková samozřejmost ani v našich zeměpisných šířkách. V minulých letech jsme mohli vidět dosud nevídané vyhlášky některých obcí, které v letních měsících omezovaly odběr vody svým občanům. V některých obcích se dokonce objevily cisterny s pitnou vodou v ulicích, protože ta z kohoutku náhle nebyla.
+
+V uplynulých letech jsem řešila rostoucí počet případů, které se týkaly sporů o vodu v případě vrtů. Jádro sporu bylo vždy velmi podobné. Vlastníci existujících studní a vrtů, které jim mnohdy slouží jako jediné zdroje pitné vody, neměli informace o tom, že se v sousedství bude provádět hydrogeologický průzkumný vrt. Již samotným provedením průzkumného vrtu však může dojít k poklesu hladiny v sousedních vrtech a studních nebo ke změně složení vody. K takovým případům docházelo, stejně jako k situacím, kdy někteří lidé využívali průzkumný vrt, na který nebylo potřeba žádné povolení, neoprávněně coby vrt trvalý.
+
+Zdroj vody jednoho člověka ohrožoval vodu druhého. O tom, že byl proveden zkušební vrt, se přitom majitel toho stávajícího dozvěděl až po jeho provedení, kdy zjistil, že jeho zdroj vody nenadále vyschl.
+
+Od prvního ledna letošního roku je účinná novela vodního zákona, která zapracovala mé připomínky z této oblasti. Už k průzkumnému vrtu je potřeba souhlas vodoprávního úřadu. Při vrtání musí být přítomen hydrogeolog, který má kontrolovat také hladiny vody v sousedních studních. Přijatá opatření by měla zabránit situacím, kdy jeden zdroj vody je vybudován na úkor zdroje sousedního.
+
+##### Konflikty mezi sousedy
+
+Přijatý zákon však pouze klopýtá za rychle se měnícím světem, ve kterém nás probíhající globální oteplování staví před nečekané problémy. V České republice dnes žije zhruba milion obyvatel bez přístupu k veřejnému vodovodu, kdy jsou zásobováni ze studní, vrtů nebo malých lokálních vodovodů. Obvyklým zdrojem vody je voda podzemní, jejíž hladina v posledních letech klesá. Zájem médií letos upoutaly případy lidí, kteří čekali neúměrně dlouho na povolení k vybudování vrtu. Netýkalo se to přitom jen těch, kdo si stavěli zcela nový zdroj vody, ale také těch, komu jejich studny a vrty vyschly. Důsledkům klimatických změn nebudeme čelit až někdy v nedohledné budoucnosti, my jim čelíme už dnes.
+
+Problémy se netýkají jen sousedních domů, ale také sousedních států. V současnosti se v Polsku plánuje rozšíření hnědouhelného dolu Turów, který leží asi dva kilometry od české hranice v sousedství Libereckého kraje. Tato oblast se již dnes potýká se suchem a nedostatkem vody. Při rozšíření dolu hrozí, že voda v českých studních a vrtech nenávratně zmizí. Problému se věnuje české ministerstvo životního prostředí. Proměnu světa odráží asi nejlépe argument polské těžební společnosti, že hranice dolu byly takto stanoveny před 25 lety a nikomu to nevadilo.
+
+Co ještě před čtvrtstoletím prošlo bez povšimnutí, je dnes zdrojem konfliktu. Obavy o zdroj pitné vody stojí za konfliktem ohledně povolení těžby štěrkopísku u Moravského Písku, kde existuje obava, že povolení těžby této suroviny ve Zlínském kraji ohrozí zdroj pitné vody až pro 130 tisíc obyvatel především ze sousedního Jihomoravského kraje. Zmínění těchto krajů může vypadat jako malichernost, když se přece oba nacházejí v jedné zemi, ale pro posuzování celé věci je zásadní. Mimo jiné zde dochází ke konfliktu, kdy věc posuzují úřady z jednoho kraje, zatímco negativní důsledky mohou dopadnout na území spadající pod úřady, které byly z posuzování celé věci pro příslušnost k jinému kraji vyloučeny.
+
+Celá věc je zajímavá také proto, že se odehrává dnes a před čtvrtstoletím by nejspíš podobně jako polský důl takový rozruch nezpůsobila.
+
+##### Oprašme zásadu předběžné opatrnosti
+
+Jisté je, že časy se změnily a my se jim budeme muset přizpůsobit. Měli bychom oprášit a zrevidovat zásadu předběžné opatrnosti. Pokud zmíněné konflikty pozorujeme dnes, na počátku důsledků klimatických změn, pak bychom se měli připravit na to, co nás čeká v dalším čtvrtstoletí. Ve své praxi narážím na argument, že se něco takto dělalo nebo posuzovalo vždy. Ukazuje se, že již dnes budeme muset mnoho věcí dělat jinak, abychom mohli žít v budoucnu alespoň trochu stejně.
+
+Anna Šabatová, ombudsmanka
+
+Komentář vyšel 17. září 2019 v Lidových novinách.

@@ -1,0 +1,21 @@
+---
+title: Exekuce na dávky pomoci v hmotné nouzi v Chomutově
+date: 2009-02-18T00:00:00.000Z
+perex: Na základě informací o exekucích prováděných zabavením hotových peněz
+  pocházejících z právě vyplacených dávek pomoci v hmotné nouzi v prostorách
+  Magistrátu města Chomutova ochránce podal Ministerstvu spravedlnosti podnět
+  k výkonu státního dohledu nad exekuční činností soudního exekutora.
+kategorie:
+  - tz
+---
+Popsaný postup ochránce považuje za nezákonný.
+
+Není pochyb o tom, že dávky pomoci v hmotné nouzi exekuci nepodléhají (§ 317 odst. 2 občanského soudního řádu). Na tom nic nemění ani skutečnost, že po okamžiku výplaty dávek dochází k jejich zabavení takzvaným prodejem movitých věcí, za které se považují i hotové peníze. Pokud totiž není pochyb o tom, že takové peníze pocházejí z dávek, ochrana „dávek“ trvá.
+
+Nehledě na popsaný zákaz postižení dávek pomoci v hmotné nouzi jsou hotové peníze při exekuci chráněny i jinak. Dle ustanovení § 322 odst. 1 občanského soudního řádu totiž nesmějí být exekucí postiženy ty věci (včetně hotových peněz), které povinní nezbytně potřebují k uspokojování hmotných potřeb svých a své rodiny. Ustanovení § 322 odst. 2 písm. d) občanského soudního řádu, které výslovně zakazuje postihnout hotové peníze do částky 1.000 Kč, je pouze jedním z příkladů. Neplatí tedy nutně, že jde o nepřekročitelnou částku bez ohledu na velikost rodiny, a tím její nezbytné potřeby. Vezměme také v úvahu, že uvedený „limit“ 1.000 Kč (dříve Kčs) platí v nezměněné výši od účinnosti občanského soudního řádu, tedy od 1. dubna 1964!
+
+Osoby, kterým byly peníze popsaným způsobem zabaveny, mohou soudu podat návrh, aby exekuci na jejich majetek vedenou prodejem movitých věcí v rozsahu postižení hotových peněz pocházejících z výplaty dávek pomoci v hmotné nouzi v částce, která jim byla zabavena, částečně zastavil.
+
+Nad rámec problému ochránce upozorňuje na nesprávnost tvrzení o možnosti plného zabavení dávek pomoci v hmotné nouzi po jejich připsání na účet u banky. Na základě ustanovení § 310 občanského soudního řádu se totiž opět uplatní ustanovení § 317 odst. 2 občanského soudního řádu vylučující dávky pomoci v hmotné nouzi z exekuce. Proto ani dávky připsané na účet v době jeho postižení exekucí nelze postihnout zcela – ochrana (kromě změny způsobu výplaty budoucích dávek) opět spočívá v podání návrhu na částečné zastavení exekuce.
+
+Ochránce tedy nežádá nic než dodržení zákonného postupu.

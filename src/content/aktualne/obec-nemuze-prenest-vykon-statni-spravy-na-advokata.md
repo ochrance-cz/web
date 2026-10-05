@@ -1,0 +1,25 @@
+---
+title: Obec nemůže přenést výkon státní správy na advokáta
+date: 2013-04-30T00:00:00.000Z
+perex: Není možné, aby státní správu vykonávali advokáti. Správní rozhodnutí
+  a další správní akty musí být vždy vydávány příslušnými úřady. Pokud úřad
+  potřebuje v rámci přípravy služeb advokáta, musí se jednat pouze o právní
+  poradenství. Listina vydaná advokátní kanceláří, i když je vydávána za správní
+  rozhodnutí úřadu, není veřejnou listinou ve smyslu správního řádu a adresáty
+  nezavazuje.
+kategorie:
+  - tz
+---
+Na nezákonnou praxi ochránce upozornil Poslaneckou sněmovnu v rámci své pravidelné zprávy o činnosti a ilustroval tak důsledky potíží některých malých obcí.
+
+Obce s malým obecním úřadem, nebo ty, kde úřad tvoří pouze starosta, na výkon státní správy nestačí. Dlouhodobě na to ochránce upozorňuje zejména v silniční správní oblasti. Právě případ obce na Pardubicku, která se rozhodla složité rozhodování předat na základě plné moci advokátní kanceláři. Tak pak pod svou hlavičkou vedla správní řízení a vydávala rozhodnutí.
+
+Právní řád ovšem nepřipouští, aby státní správu vykonávali advokáti. Výkon státní správy je realizací veřejného práva. Uplatňuje se při něm proto metoda veřejnoprávní regulace, jež říká, že ten, kdo realizuje veřejnou moc, může činit jen to, co mu zákon dovoluje. Správní akty úřadů tedy musejí být vydávány příslušnými úřady (pod jejich hlavičkou a s podpisem oprávněné osoby), nelze je přenést na soukromou osobu. Advokát může obec zastupovat v záležitostech spadajících do samostatné působnosti, ale pokud chce úřad využít služeb advokáta ve správním aktu, může jít pouze o konzultace či poradenství.
+
+Postup obce, která zplnomocnila advokáta k vedení správního řízení v rozhodování o existenci či neexistenci veřejné účelové komunikace, považuje ochránce za nepřípustnou komercionalizaci státní správy a připomíná, že „správní“ rozhodnutí vydané advokátem je paaktem, adresáty nezavazuje a není veřejnou listinou ve smyslu § 53 odst. 3 správního řádu.  
+
+Jestliže je věc, kterou má úřad řešit složitá, zákon o obcích v takové situaci umožňuje žádat o metodickou pomoc krajský úřad nebo uzavřít tzv. veřejnoprávní smlouvu, na jejímž základě může státní správu za „malou“ obec vykonávat úřad obce s rozšířenou působností, u něhož je předpoklad lepší personální i odborné vybavenosti.
+
+V tomto konkrétním případě obec s  názorem ochránce na nezákonnost svého postupu nesouhlasila a argumentovala tím, že advokátem vydané správní rozhodnutí obsahuje všechny náležitosti předepsané správním řádem.  Správně naopak postupoval krajský úřad, který věc obci odňal a delegoval ji na jinou obec ve svém správním obvodu.
+
+ [Celá zpráva z šetření](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/STANOVISKA/Spravni_rizeni/3302-12-OZ-ZZ.pdf "Otevření do nového okna") (227.4 kB, Adobe Acrobat dokument).

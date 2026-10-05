@@ -1,0 +1,24 @@
+---
+title: Desátý díl Ochránce
+date: 2016-03-10T00:00:00.000Z
+perex: Devastace přístupové cesty kvůli stavbě, nezhodnocení péče při výpočtu
+  důchodu a podivné značení zákazu vjezdu. Případy, které si našly cestu na stůl
+  ombudsmanky. Desátý díl pořadu Ochránce s těmito případy můžete sledovat
+  na ČT2 v neděli 13. 3. v 18:15 h, reprízy ve čtvrtek v 18:55 h a v pátek
+  ve 13:45 h.
+kategorie:
+  - tz
+---
+##### Klidná ulice jako příjezdová cesta na velkou stavbu
+
+Stěžovatelka žádala o pomoc v záležitosti devastace silnice, přilehlých chodníků a plotů v jejich ulici v souvislosti s výstavbou 22 vil v dané lokalitě. Do té doby klidná ulice se stala jedinou přístupovou cestou ke stavbě a obyvatelé namítali, že na tak intenzivní zátěž z nákladní dopravy nebyla stavěna. Podle stěžovatelky neberou úřady na zřetel stížnosti lidí a odmítají nevyhovující a nebezpečný stav komunikace řešit. Z fotografií bylo patrné, že komunikace byla opakovaně opravována v místech, kde došlo k propadnutí vozovky, chodník je zvlněný, na domě stěžovatelky jsou patrně vlivem sedání stavby popraskané obkladačky, fasáda domu je špinavá.
+
+##### Nezhodnocení péče o osobu blízkou při výpočtu důchodu
+
+Matka stěžovatele byla uznána částečně bezmocnou a jeho manželka o ni devět let pečovala. Tato doba jí pak ale nebyla zhodnocena jako náhradní doba zaměstnání. Až do 31. 12. 1995 se totiž jako doba účasti na důchodovém zabezpečení uznávala doba osobní péče o osobu blízkou, která byla převážně nebo úplně bezmocná. Částečná bezmocnost opečovávané osoby se tehdy pro důchod nezapočítávala. Jediným řešením tedy mohla být zpětně provedená revize zdravotního stavu matky, pokud by se zjistilo, že byla ve skutečnosti převážně nebo úplně bezmocná, jak uváděl stěžovatel.
+
+##### Podivné značení zákazu vjezdu
+
+Stěžovatel, má trvalý pobyt hlášen v Hradci Králové, ale už řadu let žije v obci Kramolná. Podle správních orgánů se jednou při jízdě autem dopustil přestupku, protože porušil příkaz zákazu vjezdu na silnici mezi obcemi Kramolná a Vysokov. Ukázalo se, že na silnici ve směru Kramolná – Vysokov, je značka zákaz vjezdu s dodatkovou tabulkou „Občanům Kramolny a Vysokova vjezd povolen“. Ve směru Vysokov – Kramolná pak byla rovněž značka zákazu vjezdu, tentokrát s dodatkovou tabulkou znění „Mimo obyvatel Vysokova a Kramolny a vjezdu na letiště“. Stěžovatele zastavila policie ve směru Kramolná – Vysokov a přestupek byl spatřován v tom, že není občanem obce, jen obyvatelem. Při této logice by mohl silnici využívat jen v opačném směru.
+
+Sledujte v archivu ČT: [http://www.ceskatelevize.cz/porady/10363268581-ochrance/315281381960010/](http://www.ceskatelevize.cz/porady/10363268581-ochrance/315281381960010/ "Otevření do nového okna")

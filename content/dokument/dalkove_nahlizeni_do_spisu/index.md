@@ -5,6 +5,6 @@ vystupy:
   - vyzkumy
 attachmentsTop:
   - link: ""
-    file: https://www.ochrance.cz/uploads-import/ESO/2600-17-M%C5%A0-VZ.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/2600-17-M%C5%A0-VZ.pdf
     title: Dálkové nahlížení do spisu
 ---

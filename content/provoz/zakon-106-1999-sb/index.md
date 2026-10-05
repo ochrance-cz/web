@@ -16,7 +16,7 @@ links:
 <ul>
 <li>Žádost se podává ústně nebo písemně, a&nbsp;to i&nbsp;prostřednictvím sítě nebo služby elektronických komunikací. Elektronická žádost musí být podána prostřednictvím elektronické podatelny Kanceláře veřejného ochránce práv a ochránce práv dětí&nbsp; 
 <a href="mailto:podatelna@ochrance.cz">podatelna 
-<img src="/uploads-import/uploads/RTEmagicC_zavinac_38.png.png" alt="">ochrance.cz</a>&nbsp;&nbsp;nebo prostřednictvím datové schránky&nbsp; 
+<img src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/uploads/RTEmagicC_zavinac_38.png.png" alt="">ochrance.cz</a>&nbsp;&nbsp;nebo prostřednictvím datové schránky&nbsp; 
 <strong>ID:</strong>&nbsp;jz5adky</li>
 <li>Ze žádosti musí být zřejmé, komu je určena, kdo ji činí a&nbsp;že&nbsp;se žadatel domáhá poskytnutí informace podle zákona č.&nbsp;106/1999&nbsp;Sb., o&nbsp;svobodném přístupu k&nbsp;informacím.</li>
 <li>Žádost nemusí být zaslána na&nbsp;zvláštním formuláři nebo být odůvodněna a&nbsp;nemusí obsahovat žádné podklady. Za&nbsp;její podání se nehradí žádné poplatky. Kancelář za&nbsp;poskytnutí informací může vyžadovat úhradu. Výše úhrady se řídí&nbsp;Sazebníkem úhrad za poskytování informací podle zákona č. 106/1999 Sb., o svobodném přístupu k informacím, ve znění pozdějších předpisů, viz níže.</li></ul>

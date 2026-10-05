@@ -1,0 +1,26 @@
+---
+title: Seriál Ochránce – 1. díl &ndash; Ochrana osobních údajů
+date: 2012-09-06T00:00:00.000Z
+perex: V neděli 9. 9. v 11:20h vysílá ČT2 první díl nové řady pořadu Ochránce
+  o problémech, do kterých se lidé dostávají ve vztahu k úřadům. Reprízu dílu
+  uvidíte na ČT2 v úterý 11. 9. v 9:00h.
+kategorie:
+  - tv
+---
+## Osobní údaje a jejich ochrana. Jak se bránit zneužití citlivých dat?
+
+Jméno, adresa, rodné číslo, vlastnoruční podpis. Občanský průkaz je takovou malou databází citlivých údajů. A nejen on. Tyto informace figurují také v různých centrálních registrech, na stránkách mnoha úřadů a institucí nebo dokonce veřejně na internetu. Při troše šikovnosti se k nim může dostat prakticky kdokoli. Anebo je poskytneme někomu sami – třeba při žádosti o různé zákaznické karty. O tom, co dělat, když vaše osobní údaje někdo zneužije, bude i úvodní díl nové série případů z kanceláře veřejného ochránce práv.
+
+Pan P. se stal obětí „kanadského“ žertíku. Někdo jeho jménem zveřejnil inzerát a pan P. čelil obtěžování. Inzertní společnosti sice hned po upozornění inzeráty stáhly z internetu, ale škoda už byla napáchána. Protože údaje, které byly v inzerátu použity, pocházely z veřejně dostupných zdrojů, nešlo o trestný čin, ale o přestupek. Jak ale zjistit, kdo inzeráty podal? Má policie právo zjišťovat informace o uživateli IP adresy? Je e-mail osobním údajem?
+
+Pan K. prodával byt. Zjistil, že kupující, která pracovala na Finančním úřadu, si jeho a jeho rodinu „lustrovala“ v daňovém informačním systému ADIS a Evidenci obyvatel okresního ředitelství Policie ČR. Protože tyto databáze obsahují citlivé osobní údaje, mají do něj přístup jen určití pracovníci a jen v rámci plnění svých pracovních povinností. V tomto případě šlo o zneužití přístupu k soukromému účelu.
+
+Koučink Akademie chtěla e-mailem rozesílat obchodní nabídku na e-mailové adresy, které sesbírali z různých stránek na internetu. Pro jistotu se dotázali Úřadu pro ochranu osobních údajů, jestli takto mohou postupovat. Dozvěděli se, přestože jsou e-mailové adresy veřejně dostupné, je nezákonné posílat jim nevyžádané obchodní nabídky.
+
+Další díly seriálu Ochránce vysílá ČT2 vždy v neděli v 11:20h. Témata nejbližších dílů:
+
+16\. 9. Právo na spravedlnost. Průtahy v soudním řízení.
+
+23\. 9. Problémy se stavebními úřady.
+
+Starší díly a série najdete v archivu ČT na [www.ceskatelevize.cz](http://www.ceskatelevize.cz/ "Otevření do nového okna") ![](https://www.ochrance.cz/typo3/ext/od_linkdesc/icons/external.gif)

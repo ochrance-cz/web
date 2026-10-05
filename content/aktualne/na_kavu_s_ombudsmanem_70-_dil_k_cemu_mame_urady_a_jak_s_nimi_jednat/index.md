@@ -23,13 +23,13 @@ perex: >
 
 <p>&nbsp;</p>
 
-<p><a href="https://www.ochrance.cz/letaky/zadost-necinnost/formular-opatreni_proti_necinnosti-urad.docx">Formulář opatření proti nečinnosti úřadu</a> nebo <a href="https://www.ochrance.cz/letaky/zadost-necinnost/verze-formulare-k-tisku-a-vyplneni-rukou.pdf">ve verzi pro tisk</a>.</p>
+<p><a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/zadost-necinnost/formular-opatreni_proti_necinnosti-urad.docx">Formulář opatření proti nečinnosti úřadu</a> nebo <a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/zadost-necinnost/verze-formulare-k-tisku-a-vyplneni-rukou.pdf">ve verzi pro tisk</a>.</p>
 
-<p><a href="https://www.ochrance.cz/letaky/necinnost-uradu/necinnost-uradu.pdf">Leták Nečinnost úřadů</a></p>
+<p><a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/necinnost-uradu/necinnost-uradu.pdf">Leták Nečinnost úřadů</a></p>
 
 <p><a href="https://www.ochrance.cz/potrebuji-pomoc/problem-s-uradem/">Mám problém s úřadem</a></p>
 
-<p><a href="https://www.ochrance.cz/letaky/spravni-rad/spravni-rad.pdf">Leták Správní řád</a></p>
+<p><a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/spravni-rad/spravni-rad.pdf">Leták Správní řád</a></p>
 
 <p><a href="https://www.ochrance.cz/dokument/principy-dobre-spravy/">Principy dobré správy</a></p>
 

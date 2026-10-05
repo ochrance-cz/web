@@ -1,0 +1,13 @@
+---
+parent: "za_kveten_a_cerven_2024"
+title: "Pokud pacient není schopen odmítnout zdravotní péči, která ho udrží naživu, musí odmítnutí péče nebo její ukončení schválit soud "
+order: 9
+section: Pomohli jsme vyjasnit právní úpravu
+id: 9/2023/NZ
+eso: https://eso.ochrance.cz/Nalezene/Edit/12920
+---
+> Pokud pacient k životu potřebuje zdravotní péči, která není marná (zbytečná), musí ji dostat (i bez souhlasu), ledaže ji odmítne. Jeho odmítnutí musí být informované (musí dostat informace a vysvětlení) a svobodné (musí se rozhodnout sám). Pokud pacient není takového rozhodnutí schopen (často kvůli svému onemocnění) a dříve takové přání nevyslovil (podle § 38 občanského zákoníku), nemůže tuto péči odmítnout jeho opatrovník, blízcí, ani lékaři. Pokud předpokládají, že by takovou péči odmítl, musejí požádat soud, aby to schválil (podle § 101 občanského zákoníku).
+
+V Psychiatrické nemocnici v Jihlavě pobývá od roku 2016 pacientka s demencí v pokročilém stádiu. Její zdravotní stav se stále zhoršuje. Nyní již jen leží a s okolím se dorozumívá jen křikem. Na její zdravotnické dokumentaci byl nalepený lístek s pokynem „nezachraňovat za každou cenu, rodina si nepřeje \[vyjmenované zdravotní úkony\]“. To by například znamenalo, že kdyby již nebyla schopna sama polykat, nemocnice by jí do žaludku nezavedla sondu, kterou by ji krmila, a nechala by ji tedy umřít hlady. Pacientka již není schopna vyjádřit svou vůli (odmítnout výživu sondou) a dříve nevyslovila takové přání. Nemocnice vychází z přání rodiny, která uvedla, že by si pacientka nepřála prodlužovat takový život.
+
+Nemocnici jsme vysvětlili, že pacientce musí poskytnout zdravotní péči, kterou potřebuje k životu, tedy, že se nemůže řídit přáním rodiny, ale jedině rozhodnutím soudu. Ani soudy ale pro své rozhodování nemají pravidla, protože české zákony neurčují podmínky pro ukončení zdravotní péče, která udržuje při životě pacienty, kteří tuto péči nemohou odmítnout. Na to jsme upozornili Ministerstvo zdravotnictví. Tato pravidla přitom musejí dodržet právo na život podle článku 2 Úmluvy o ochraně lidských práv a základních svobod. Například jako francouzská úprava (více v rozsudku Evropského soudu pro lidská práva [Lambert proti Francii](http://eslp.justice.cz/justice/judikatura_eslp.nsf/0/6248E2A0AE97F911C1257EEE003CE4F3/$file/Lambert%20a%20ostatn%C3%AD%20proti%20Francii_anotace.pdf?open&)). Ministerstvo zdravotnictví přislíbilo, že zajistí doplnění pravidel do zákona.

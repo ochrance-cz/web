@@ -1,0 +1,20 @@
+---
+title: Neregistrovaná zařízení sociálních služeb v době epidemie
+date: 2020-12-02T00:00:00.000Z
+perex: V současnosti se provádí plošné antigenní testování na onemocnění COVID
+  19 v zařízeních sociálních služeb a míří do nich také potřebné ochranné
+  zdravotní prostředky. Určitá část péče o seniory je však poskytována mimo
+  systém, v neregistrovaných zařízeních sociálních služeb, která poskytují péči
+  bez oprávnění a bez kontroly.
+kategorie:
+  - tz
+---
+Na rizika poskytování péče a služeb osobám závislým na péči těmito zařízeními dlouhodobě upozorňujeme veřejnost i odpovědná ministerstva (např.  [zpráva z návštěv zařízení poskytující péči bez oprávnění](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ochrana_osob/ZARIZENI/Socialni_sluzby/SZ-Neregistrovana_web.pdf "Otevření do nového okna") (582.8 kB, Adobe Acrobat dokument) z roku 2015). Stát nemá možnost nikterak ovlivnit ani kontrolovat kvalitu poskytované péče a podmínky v těchto zařízeních. Rozvoj pandemie poukázal na další stinnou stránku takto poskytovaných služeb a odhalil rizika pro zranitelné osoby, kterým jsou poskytovány.
+
+Obvykle se jedná o zařízení, jež mají nejblíže k domovům pro seniory. Nevztahuje se na ně povinnost plošného testování ani zásobování potřebnými ochrannými prostředky. Zástupkyně ombudsmana se obrátila na hlavní hygieničku Jarmilu Rážovou a ředitele krajských úřadů, aby je požádala o řešení této situace.
+
+*„Ombudsman dlouhodobě upozorňuje na problémy v zařízeních, která poskytují sociální služby bez oprávnění. V čase současné epidemie se na ně bohužel nevztahují přijatá opatření, vedení zařízení se jimi nemusí řídit a nemusí testovat zaměstnance ani klienty. Nikdo dnes netuší, zda jsou v těchto zařízeních klienti před nákazou chráněni, kolik jich je nakaženo nebo zda mají dostatek ochranných prostředků. Ohroženi jsou nejen klienti, ale samozřejmě také personál,“* vysvětluje zástupkyně ombudsmana Monika Šimůnková.
+
+Zástupkyně však zdůrazňuje, že poskytnutí pomoci klientům v těchto zařízeních není v žádném případě legitimizací činnosti neregistrovaných subjektů. Jde o ochranu zranitelných osob v rámci současné bezprecedentní epidemické situace, neboť i seniorům v neregistrovaných zařízeních pochopitelně hrozí stejná rizika jako v zařízeních, která své služby poskytují legálně.
+
+Této problematice se věnuje dnešní kulatý stůl s názvem Šikana seniorů v pobytových zařízeních, který pořádá poslankyně Monika Červíčková a zástupkyně ombudsmana Monika Šimůnková se jej účastní. Diskuzi probíhající od 9:15 do 10:45 si můžete pustit online na odkazu: [https://www.psp.cz/sqw/hp.sqw?k=1362&fbclid=IwAR1MqKBRkyO4gvXosaabyClRMAyAwU3WTZQtE4urE-gQkKfHzuT1ROaa9yk](https://www.psp.cz/sqw/hp.sqw?k=1362&fbclid=IwAR1MqKBRkyO4gvXosaabyClRMAyAwU3WTZQtE4urE-gQkKfHzuT1ROaa9yk).

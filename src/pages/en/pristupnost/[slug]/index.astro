@@ -1,0 +1,43 @@
+---
+// /en/pristupnost/<slug>/ — English Accessibility detail page.
+// The English content is served by the same layouts/pristupnost/single.html as
+// the Czech section, so every page (incl. `budova`) renders as: TextHeader →
+// <div contentBackdrop?><section> with perex, links, body, linksAfter and the
+// always-present (here empty — no EN chapters) _pristupnost-navigation div.
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../../../layouts/BaseLayout.astro';
+import TextHeader from '../../../../components/TextHeader.astro';
+import LinkList from '../../../../components/LinkList.astro';
+import MarkdownContent from '../../../../components/MarkdownContent.astro';
+import { renderMarkdown } from '../../../../lib/markdown';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('pristupnost-en');
+  return entries.map((entry) => ({ params: { slug: entry.id }, props: { entry } }));
+}
+
+const { entry } = Astro.props;
+// Loosely typed view so optional Hugo params can be reproduced when present.
+const data = entry.data as Record<string, any>;
+
+const perexHtml = data.perex ? await renderMarkdown(data.perex) : '';
+---
+<BaseLayout title={entry.data.title} lang="en">
+  <main data-pagefind-body>
+    <TextHeader
+      title={entry.data.title}
+      locale="en"
+      backlink={{ href: '/en/pristupnost/', label: 'zpět na obsah sekce' }}
+    />
+
+    <div class={data.contentBackdrop || undefined}>
+      <section>
+        {perexHtml && <div class="perex" set:html={perexHtml} />}
+        {data.links && <LinkList items={data.links} />}
+        <MarkdownContent content={entry.body} />
+        {data.linksAfter && <LinkList items={data.linksAfter} />}
+        <div class="_pristupnost-navigation"></div>
+      </section>
+    </div>
+  </main>
+</BaseLayout>

@@ -13,27 +13,27 @@ perex: <p>Zástupce ombudsmana ve svém vyjádření pro Výbor OSN pro práva o
   volebního práva.</p>
 attachments:
   - title: Vyjádření zástupce ombudsmana pro Výbor OSN pro práva lidí s postižením
-    file: https://www.ochrance.cz/aktualne/zastupce_ombudsmana_informoval_vybor_osn_o_zkusenostech_s_vykonem_volebniho_prava_lidi_s_postizenim/volby_v_ustavnich_zarizenich_osn.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/zastupce_ombudsmana_informoval_vybor_osn_o_zkusenostech_s_vykonem_volebniho_prava_lidi_s_postizenim/volby_v_ustavnich_zarizenich_osn.pdf
   - title: "Přístupnější volby pro lidi s těžkým zrakovým postižením "
-    file: https://www.ochrance.cz/aktualne/zastupce_ombudsmana_informoval_vybor_osn_o_zkusenostech_s_vykonem_volebniho_prava_lidi_s_postizenim/vyjadreni_sons_volby_osn.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/zastupce_ombudsmana_informoval_vybor_osn_o_zkusenostech_s_vykonem_volebniho_prava_lidi_s_postizenim/vyjadreni_sons_volby_osn.pdf
   - title: Vyjádření k přístupnosti voleb pro osoby s intelektovým znevýhodněním
-    file: https://www.ochrance.cz/aktualne/zastupce_ombudsmana_informoval_vybor_osn_o_zkusenostech_s_vykonem_volebniho_prava_lidi_s_postizenim/vyjadreni_k_volebnimu_pravu_sebeobhajci_hradec.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/zastupce_ombudsmana_informoval_vybor_osn_o_zkusenostech_s_vykonem_volebniho_prava_lidi_s_postizenim/vyjadreni_k_volebnimu_pravu_sebeobhajci_hradec.pdf
   - title: Praktický návod, který pomůže volit lidem s postižením v pobytových
       službách
     file: https://www.ochrance.cz/aktualne/ombudsman_pripravil_prakticky_navod_ktery_pomuze_volit_lidem_s_postizenim_v_pobytovych_sluzbach/
-  - file: https://www.ochrance.cz/uploads-import/ESO/32_2020_OZP__OK_doporu%C4%8Den%C3%AD%20-%20volby%20final_001.pdf
+  - file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/32_2020_OZP__OK_doporu%C4%8Den%C3%AD%20-%20volby%20final_001.pdf
     title: Podpora voliče v pobytové sociální službě
   - title: Principy přístupnosti volebních místností
-    file: https://www.ochrance.cz/aktualne/jaka_jsou_uskali_pristupnosti_voleb_s_naplnenim_volebniho_prava_mohou_mit_problem_nejen_lide_s_postizenim_ale_napriklad_i_ti_omezeni_na_svobode/principy_pristupnosti_volebnich_mistnosti.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/jaka_jsou_uskali_pristupnosti_voleb_s_naplnenim_volebniho_prava_mohou_mit_problem_nejen_lide_s_postizenim_ale_napriklad_i_ti_omezeni_na_svobode/principy_pristupnosti_volebnich_mistnosti.pdf
   - title: Souhrnná informace o volební místnosti (dotazník)
-    file: https://www.ochrance.cz/aktualne/zastupce_ombudsmana_informoval_vybor_osn_o_zkusenostech_s_vykonem_volebniho_prava_lidi_s_postizenim/dotaznik_-_souhrnna_informace_o_volebni_mistnosti_1_.docx
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/zastupce_ombudsmana_informoval_vybor_osn_o_zkusenostech_s_vykonem_volebniho_prava_lidi_s_postizenim/dotaznik_-_souhrnna_informace_o_volebni_mistnosti_1_.docx
   - file: https://www.ochrance.cz/aktualne/lide-se-zdravotnim-postizenim-a-volby/
     title: Lidé se zdravotním postižením a volby
   - title: "Doporučení: Výkon volebního práva v domovech pro osoby se zdravotním
       postižením (2020"
-    file: https://www.ochrance.cz/uploads-import/CRPD/Doporuceni/28-2019_doporuceni-volebni-pravo.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/CRPD/Doporuceni/28-2019_doporuceni-volebni-pravo.pdf
   - title: "Doporučení: Podpora voliče v pobytové sociální službě (2021)"
-    file: https://www.ochrance.cz/uploads-import/ESO/32_2020_OZP__OK_doporu%C4%8Den%C3%AD%20-%20volby%20final_001.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/32_2020_OZP__OK_doporu%C4%8Den%C3%AD%20-%20volby%20final_001.pdf
 ---
 <p>Účelem vyjádření není zhodnotit poměry v&nbsp;České republice, ale odpovědět na výzvu výboru. Ta je určena jednotlivcům, organizacím a orgánům smluvních států, aby přispěli svými zkušenostmi o tom, jak je volební právo realizováno u nich, případně jaké bariéry brání lidem s&nbsp;postižením plně se účastnit voleb a dalších procesů. Výbor tak chce získat podklady pro tvorbu obecného komentáře k&nbsp;článku 29 Úmluvy o právech osob se zdravotním postižením, jenž zaručuje lidem s&nbsp;postižením právo účastnit se politického a společenského života (viz rámeček 2).&nbsp;</p>
 <p>Ombudsman navštívil mezi lety 2018 a 2021 dvanáct domovů pro osoby se zdravotním postižením. Při svých návštěvách se zaměřil mimo jiné na to, jak klienti uplatňují své volební právo, případně jaké podpory se jim dostává. Zjistil několik závažných pochybení, které popsal ve dvou doporučeních pro podporu voličů v&nbsp;sociální pobytové službě.</p>
@@ -53,7 +53,7 @@ attachments:
 <p>
 <i>Graf: Poměr klientů v jednotlivých zařízeních navštívených v&nbsp;roce 2018 a 2021 s&nbsp;omezenou svéprávnosti v&nbsp;oblasti volebního práva, s&nbsp;omezenou svéprávností bez omezení volebního práva a plnou svéprávností.&nbsp;</i></p>
 <figure class="image">
-<img src="https://www.ochrance.cz/aktualne/zastupce_ombudsmana_informoval_vybor_osn_o_zkusenostech_s_vykonem_volebniho_prava_lidi_s_postizenim/graf.png" alt="graf.png"></figure>
+<img src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/zastupce_ombudsmana_informoval_vybor_osn_o_zkusenostech_s_vykonem_volebniho_prava_lidi_s_postizenim/graf.png" alt="graf.png"></figure>
 <blockquote>
 <p>
 <strong>Úmluva OSN o právech osob se zdravotním postižením</strong></p>

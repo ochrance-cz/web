@@ -5,5 +5,5 @@ vystupy:
   - vyzkumy
 attachmentsTop:
   - title: Přístup k sociální službě domov pro seniory
-    file: https://www.ochrance.cz/uploads-import/ochrana_osob/ZARIZENI/Socialni_sluzby/Vyzkum-2013_pristup-k-socialni-sluzbe_web.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ochrana_osob/ZARIZENI/Socialni_sluzby/Vyzkum-2013_pristup-k-socialni-sluzbe_web.pdf
 ---

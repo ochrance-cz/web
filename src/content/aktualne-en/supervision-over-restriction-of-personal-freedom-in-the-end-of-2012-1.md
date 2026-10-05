@@ -1,0 +1,21 @@
+---
+title: Supervision over restriction of personal freedom in the end of 2012
+date: 2013-02-07T00:00:00.000Z
+perex: Within the fourth quarter of 2012 the ombudsman conducted eight
+  systematic visits, held meeting with the directors of visited institution for
+  children and prepared the systematic visits to institutions for persons
+  suffering from dementia.
+categories:
+  - news
+---
+Within the supervision over restriction of personal freedom, the employees of the Office of the Public Defenders of Rights have conducted eight systematic visits to institutions within the fourth quarter of 2012. These included five subsequent visits to school facilities implementing institutional and protective education, two systematic visits to children’s homes and a systematic visit of a police cell.
+
+Within the assessment of the results from the entire set of visits to institutions for children, meeting with the directors of visited institutions was held. Presentation on the topic of diagnostic institutions and Educational care centers is being prepared by the Public Defender for the first quarter of 2013. The employees of the office have further conducted lectures within educational activities held by the Judicial Academy for Curatorial Judgers (information acquired from the analysis of court decisions that the Defender has published in the Report on systematic visits of Schools implementing institutional and protective education).
+
+The Defender has utilized his authority to penalize in relation to systematic visits to the Educational Institute Chrastava and that due to the fact that it was not apparent from the reaction of its headmistress, whether repeated recommendations to adopt measures will be observed. The Defender thus informed the authority, which is the Ministry of Education, Youth and Sports, about the case. In regard to the visit to the Children’s Psychiatric Hospital Louny, established by the Ministry of Health and imposed with an identical sanction, a key meeting has taken place during the monitored period. This meeting was attended by the employees of the Office of the Public Defender of Rights and specialists from the field of child psychology and dealt with the future of this hospital 
+
+Preparation of systematic visits to institutions holding persons suffering from dementia were being prepared and will commence in 2013.
+
+The area of prison services and knowledge acquired from systematic visits and from investigations of claims of individuals were presented at a conference that the Defender held in Brno in November. One of the most important topics was the court review of the decision of the Prison Services of the Czech Republic to impose a disciplinary punishment.
+
+Within the completion of tasks arising from the so-called Return Regulation, monitoring of deportation has been performed – monitoring of the execution of a punishment of deportation (land and air part) from the Czech Republic (Václav Havel Airport Prague) to the People’s Democratic Republic of Algeria (airport in Algiers). A Review from the scientific seminar “Return Regulation: deportation, detention and court review” held in 2011 was completed and published on the web pages of the Public Defender.

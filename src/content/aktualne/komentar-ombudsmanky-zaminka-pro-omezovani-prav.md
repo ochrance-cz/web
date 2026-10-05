@@ -1,0 +1,36 @@
+---
+title: "Komentář ombudsmanky: Záminka pro omezování práv"
+date: 2019-03-14T00:00:00.000Z
+perex: Veřejná kontrola a rychlost stavebního řízení nejsou v opozici.
+kategorie:
+  - tz
+---
+Každý, kdo se někdy pokusil postavit dům, by asi dokázal dlouze popisovat, jakým nekonečným utrpením musel projít během vyřízení stavebního povolení. Délka stavebního řízení patří v České republice k těm nejdelším na světě. Vzhledem k tomu, jak velká část populace má osobní zkušenost se složitostí a zdlouhavostí povolovacího řízení, je poměrně překvapivé, že se v posledních letech podařilo tento problém zarámovat jako důsledek obstrukcí občanských nebo ekologických sdružení. 
+
+Tato víra došla dokonce tak daleko, že novela stavebního zákona platná od 1. ledna 2018 vyloučila účast veřejnosti ve většině stavebních řízení vedených podle stavebního zákona, a to kvůli poslaneckému pozměňovacímu návrhu. Již během krátkého období účinnosti této novely lze přitom konstatovat, že délka stavebního řízení opět narostla, a to o několik měsíců. Délka stavebního řízení totiž v drtivé většině případů s připomínkami veřejnosti nijak nesouvisí. Zato souvisí s komplikovaností samotné zákonné úpravy a s průtahy na straně stavebních úřadů. Délka řízení se pouze účelově zneužívá k omezení práv občanů. 
+
+V minulém roce obdržel ombudsman více než šest set podnětů v oblasti stavebnictví. V případech, kdy zahájíme šetření, konstatujeme v 88 procentech pochybení stavebního úřadu. Na celkové délce řízení se dle našich poznatků nejvíce podílí nedodržování lhůt stavebními úřady, složitost právní úpravy, nestabilita právní úpravy, stavební nekázeň, konflikty zájmů a personální situace na stavebních úřadech. V mnoha ohledech jde o vzájemně propojené problémy. 
+
+##### Nestabilita právní úpravy 
+
+Stavební zákon je komplikovaný a nepřehledný nejen pro ty, kdo chtějí stavět, ale také pro samotné stavební úřady. Komplikovanost právní úpravy pak prodlužuje jednotlivé procesy a zvyšuje chybovost úřadů. S komplikovaností stavebního zákona souvisí nestabilita právní úpravy. Stavební zákon prochází neustále dalšími a dalšími novelizacemi, které dále zvyšují jeho nepřehlednost a to opět pro obě strany – stavebníky i úředníky. 
+
+Stavební úřady poukazují na tíživou personální situaci, kdy se jim nedaří obsazovat místa dostatkem kvalifikovaných pracovníků. Množství legislativních změn je přitom jedním z faktorů, které odrazují od práce v této oblasti. Chtít pracovat na stavebním úřadě dnes znamená vrhnout se do neustále se měnící změti předpisů. Nedostatečné personální obsazení pak prodlužuje celé rozhodování a otevírá prostor pro chybná rozhodnutí, jejich následné napadání ze strany všech účastníků řízení, a tedy další prodlužování celého řízení. 
+
+Druhou stranou problémů je stavební nekázeň, což je nejčastější stížnost, kterou ombudsman v této oblasti dostává. Jedná se o tzv. černé stavby, což je dlouhodobě neřešený problém. Málokdy dochází k odstranění černé stavby a někteří stavebníci tohoto poznatku zneužívají. Veřejnost je v této situaci bezbranná. 
+
+Za těchto okolností dochází k dalšímu omezení práv lidí rozhodovat o tom, jaké stavby v jejich okolí vyrostou. Vytvořila se falešná příčina všech těžkostí, aniž by se řešila skutečná příčina neúměrné délky stavebních řízení. 
+
+Kontrola veřejné správy ze strany veřejnosti je ukazatelem míry demokratičnosti každé společnosti. Jednou z těchto kontrol je právě možnost veřejnosti vstupovat za určitých podmínek do stavebního řízení a vznášet připomínky, se kterými se veřejná správa musí umět vyrovnat, tedy rozhodnout, zda jsou dané připomínky oprávněné a zda skutečnosti, na které připomínky poukazují, jsou v souladu s platnou právní úpravou. Dosavadní praxe je bohužel taková, že se veřejnost z možnosti kontroly vylučuje. Jde však o zásah do ústavně garantovaných práv. 
+
+##### Zájmy developerů 
+
+Obávám se, že ministerstvo pro místní rozvoj neprovedlo analýzu příčin, které stojí za neúměrnou délkou stavebních řízení. Bez znalosti těchto příčin je však nelze odstranit. Za této situace přitom uzavřelo smlouvu se soukromým subjektem, Hospodářskou komorou, aby vypracovala zcela nový stavební zákon. Stavební zákon je však norma, která nemůže plnit pouze přání soukromých subjektů, ale musí také zohlednit důslednou veřejnou kontrolu a ochranu veřejných zájmů, jako je ochrana životního prostředí nebo kulturních památek. 
+
+Osobně mám značné obavy, jak velké ohledy bude brát subjekt hájící zájmy převážně velkých developerských investorů na zájmy ostatních účastníků řízení, včetně veřejnosti, vznášet připomínky ke stavebnímu řízení a aktivně tak ovlivňovat kvalitu prostředí, ve kterém žijí. 
+
+Délka stavebních řízení se využívá jako záminka pro samoúčelné omezování práv veřejnosti. Skandinávské státy jsou mírou participace veřejnosti proslulé, a přesto trvá podle Světové banky vyřízení stavebního povolení v Dánsku 64 dnů a ve Finsku 65 dnů, zatímco u nás v průměru 246 dnů. Veřejná kontrola a rychlost stavebního řízení totiž nejsou v opozici. Musíme proto trvat na tom, aby nový stavební zákon vrátil veřejnosti její práva.
+
+Anna Šabatová, ombudsmanka
+
+Komentář vyšel v Lidových novinách 6. března 2019

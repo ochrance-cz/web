@@ -16,9 +16,9 @@ perex: >
 attachments:
   - title: Usnesení poradního orgánu k vymezení sociálních služeb komunitního
       charakteru
-    file: https://www.ochrance.cz/aktualne/komunitni_socialni_sluzby_musi_definovat_primo_zakon_shodl_se_poradni_organ_ombudsmana_pro_oblast_prav_lidi_s_postizenim/usneseni_2024_15_k_vymezeni_socialnich_sluzeb_komunitniho_charakteru.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/komunitni_socialni_sluzby_musi_definovat_primo_zakon_shodl_se_poradni_organ_ombudsmana_pro_oblast_prav_lidi_s_postizenim/usneseni_2024_15_k_vymezeni_socialnich_sluzeb_komunitniho_charakteru.pdf
   - title: Memorandum k deinstitucionalizaci
-    file: https://www.ochrance.cz/aktualne/komunitni_socialni_sluzby_musi_definovat_primo_zakon_shodl_se_poradni_organ_ombudsmana_pro_oblast_prav_lidi_s_postizenim/memorandum_-_deinstitucionalizace.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/komunitni_socialni_sluzby_musi_definovat_primo_zakon_shodl_se_poradni_organ_ombudsmana_pro_oblast_prav_lidi_s_postizenim/memorandum_-_deinstitucionalizace.pdf
 ---
 <p><em>&bdquo;Lidé s postižením mají v zásadě právo žít samostatný život v komunitě. Pokud se nepodaří alespoň rámcově v zákoně definovat komunitní službu, je možné, že se zafixuje současný stav, kdy mnozí lidé s&nbsp;postižením směřují do&nbsp;ústavů. Přitom by s&nbsp;podporou vhodných služeb mohli vést mnohem samostatnější a důstojnější život,&ldquo;</em> shrnul na zasedání poradního orgánu své obavy zástupce ombudsmana Vít Alexander Schorm.</p>
 

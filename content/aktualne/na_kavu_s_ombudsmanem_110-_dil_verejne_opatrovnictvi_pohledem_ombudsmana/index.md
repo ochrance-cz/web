@@ -20,17 +20,17 @@ perex: >
 
 <p><strong>Výzkumné zprávy:</strong></p>
 
-<p><a href="https://www.ochrance.cz/uploads-import/CRPD/Vyzkumy/2018_61_Vyzkum-svepravnost.pdf">https://www.ochrance.cz/uploads-import/CRPD/Vyzkumy/2018_61_Vyzkum-svepravnost.pdf</a></p>
+<p><a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/CRPD/Vyzkumy/2018_61_Vyzkum-svepravnost.pdf">https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/CRPD/Vyzkumy/2018_61_Vyzkum-svepravnost.pdf</a></p>
 
-<p><a href="https://www.ochrance.cz/uploads-import/ESO/54_2020_OZP_v%C3%BDzkum.docx.pdf">https://www.ochrance.cz/uploads-import/ESO/54_2020_OZP_v%C3%BDzkum.docx.pdf</a></p>
+<p><a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/54_2020_OZP_v%C3%BDzkum.docx.pdf">https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/54_2020_OZP_v%C3%BDzkum.docx.pdf</a></p>
 
 <p>&nbsp;</p>
 
 <p><strong>Leták:</strong></p>
 
-<p><a href="https://www.ochrance.cz/letaky/podpora-v-pravnim-jednani/podpora-v-pravnim-jednani.pdf">https://www.ochrance.cz/letaky/podpora-v-pravnim-jednani/podpora-v-pravnim-jednani.pdf</a></p>
+<p><a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/podpora-v-pravnim-jednani/podpora-v-pravnim-jednani.pdf">https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/podpora-v-pravnim-jednani/podpora-v-pravnim-jednani.pdf</a></p>
 
-<p><a href="https://www.ochrance.cz/letaky/opatrovnik/opatrovnik.pdf">https://www.ochrance.cz/letaky/opatrovnik/opatrovnik.pdf</a></p>
+<p><a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/opatrovnik/opatrovnik.pdf">https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/opatrovnik/opatrovnik.pdf</a></p>
 
 <p>&nbsp;</p>
 

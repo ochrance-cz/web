@@ -1,0 +1,26 @@
+---
+// Educational-event card: date, title, perex.
+import { renderMarkdown } from '../lib/markdown';
+import FormattedDate from './FormattedDate.astro';
+
+interface Props {
+  href: string;
+  title: string;
+  startDate?: Date | string;
+  perex?: string;
+  locale?: 'cs' | 'en';
+}
+
+const { href, title, startDate, perex, locale = 'cs' } = Astro.props;
+const perexHtml = perex ? await renderMarkdown(perex) : '';
+---
+<article class="_event-preview single-col">
+  {startDate && (
+    <p class="date">
+      <FormattedDate date={startDate} locale={locale} />
+    </p>
+  )}
+  <h3><a href={href}>{title}</a></h3>
+
+  {perexHtml && <Fragment set:html={perexHtml} />}
+</article>

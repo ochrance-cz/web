@@ -11,7 +11,7 @@ perex: <p>O ukončení zvláštních zápisů do prvních tříd pro ukrajinské
   je za neopodstatněné, škodlivé a&nbsp;protiústavní.</p>
 attachments:
   - title: Vyjádření ombudsmana a dětského ombudsmana pro Ústavní soud
-    file: https://www.ochrance.cz/aktualne/zastavi_ustavni_soud_oddelene_zapisy_prvnacku_z_ukrajiny_zruseni_je_namiste_shoduji_se_ombudsman_i_zastupce_detskeho_ombudsmana/vyjadreni_verejneho_ochrance_prav_a_ochrance_prav_deti.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/zastavi_ustavni_soud_oddelene_zapisy_prvnacku_z_ukrajiny_zruseni_je_namiste_shoduji_se_ombudsman_i_zastupce_detskeho_ombudsmana/vyjadreni_verejneho_ochrance_prav_a_ochrance_prav_deti.pdf
   - title: "Ombudsman nesouhlasí s oddělenými zápisy ukrajinských prvňáčků do
       základních škol (tisková zpráva ze 7. února 2025) "
     link: https://www.ochrance.cz/aktualne/ombudsman_nesouhlasi_s_oddelenymi_zapisy_ukrajinskych_prvnacku_do_zakladnich_skol/

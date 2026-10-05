@@ -5,5 +5,5 @@ vystupy:
   - vyzkumy
 attachmentsTop:
   - title: Realizace práva na informace v praxi
-    file: https://www.ochrance.cz/uploads-import/ESO/98-2014-VOP-VBG__poskytovani_informaci_-_vykum_.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/98-2014-VOP-VBG__poskytovani_informaci_-_vykum_.pdf
 ---

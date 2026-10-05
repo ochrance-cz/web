@@ -1,0 +1,32 @@
+---
+title: Spotřebitelských sporů neubývá, lidem chybí právní povědomí
+date: 2015-01-22T00:00:00.000Z
+perex: Více než stovka občanů se v loňském roce obrátila na veřejnou ochránkyni
+  práv, protože se cítili být poškozeni nebo podvedeni jednáním různých
+  podnikatelských subjektů. Jde přitom o pouhý zlomek lidí, kteří se jako
+  spotřebitelé dostanou do potíží a zkusí se obrátit i na veřejného ochránce
+  práv, přestože ten nemůže do soukromoprávních sporů zasahovat a může se
+  zabývat pouze případným postupem orgánů státní správy (zejména České obchodní
+  inspekce) vůči podnikatelům.
+kategorie:
+  - tz
+---
+Zástupce ochránkyně Stanislav Křeček je přesvědčen, že opakující se problémy jsou jednak důsledkem přetrvávajícího nízkého právního povědomí veřejnosti, ale i nových prodejních strategií některých podnikatelů. *„Lidsky nejvážnější jsou opakující se případy seniorů, kteří se nechají vmanipulovat do uzavření pro ně nevýhodné smlouvy. Právě na ně se prodejci často zaměřují,“* hodnotí celospolečenský problém zástupce veřejné ochránkyně práv Stanislav Křeček a dodává: *„Ochrana spotřebitele se sice zvyšuje, ale je pořád pozadu za praxí. Podnikatelé přicházejí stále s novými metodami, jak klienty oslovovat a získávat. Jsou neustále o krok napřed.“*
+
+Od 15. 1. 2014 musí prodejci a pořadatelé předváděcích akcí předem hlásit České obchodní inspekci informace o každé plánované akci a rovněž byly stanoveny náležitosti pozvánky k účasti na akcích. Podle zástupce veřejné ochránkyně práv jde o krok správným směrem. Česká obchodní inspekce tím získává přehled o předváděcích akcích a může je kontrolovat. Pokud pořadatel akci předem neohlásí, vystavuje se riziku sankce ze strany ČOI.
+
+### Od smlouvy se dá odstoupit, ale nesmí se s tím otálet
+
+Zpřísnění podmínek pro pořadatele předváděcích akcí a tedy zvýšení ochrany spotřebitele neznamená, že by si lidé neměli dávat pozor na to, jaké smlouvy podepisují, k čemu se zavazují. Na uzavřené smlouvy totiž nemá vliv ani případná pokuta uložená pořadateli za prokázané nezákonné jednání. Ze zjištění zástupce ochránkyně navíc vyplývá, že ubylo stížností na prodejní zájezdy, ale přibývá případů týkajících se podomního prodeje a jiných forem předváděcích akcí. *„Častěji než v minulosti se na nás loni obraceli lidé, kteří se dostali do problémů v souvislosti se změnou dodavatele energií. Prakticky vždy šlo o uzavření smlouvy na základě návštěvy zástupce dodavatele energií u zákazníka doma,“* konstatuje zástupce ochránkyně Stanislav Křeček a dodává: *„Lidé stále zapomínají nebo neví, že od spotřebitelské smlouvy uzavřené mimo provozovnu podnikatele lze do 14 dnů odstoupit bez udání důvodů. I když tedy podepíší smlouvu, kterou podepsat nechtěli, nic není ztraceno, pokud do 14 dnů písemně zašlou podnikateli vyrozumění, že odstupují od smlouvy, na adresu k tomuto účelu uvedenou ve smlouvě.“*
+
+Zástupce ochránkyně také upozorňuje, že v případě podomního prodeje mohou vedle zvyšování právního povědomí lidí přispět k ochraně spotřebitele i obce. Ty mohou na svém území tržním řádem podomní a pochůzkový prodej plošně zakázat, pokud je přitom respektována zásada proporcionality s ohledem na svobodu podnikat. Potvrdil to i Ústavní soud v řízení, k němuž se zástupce ochránkyně připojil jako vedlejší účastník.
+
+### Oznamování změny cen energií
+
+Spotřebitelské spory v oblasti dodávek energií řeší Energetický regulační úřad, a to ať už jde o nekalé jednání prodejců energií nebo např. spory o omezení nebo přerušení dodávek energií. V souvislosti s ochranou spotřebitele v dodávkách energie se zástupce ochránkyně zabýval vedle stížností na podomní nabídky změny dodavatele energie také stížnostmi na neoznamování změn ceny energií zákazníkům.
+
+Energetický zákon dává poskytovatelům na výběr, zda odběratele informují o změnách cen adresně nebo neadresně formou zveřejnění. Zástupce ochránkyně dospěl k závěru, že energetický zákon v tomto směru nezohledňuje energetické směrnice Evropského parlamentu a Rady, které vyžadují, aby byl odběratel adresně informován o každém zvýšení cen. Současně zástupce ochránkyně poukázal na to, že současná právní úprava může vést k nerovnému zacházení, protože starší lidé častěji nemají přístup k internetu, aby se o zvýšení cen dozvěděli, a navíc je nepřiměřené po zákazníkovi požadovat, aby sám aktivně a pravidelně kontroloval stránky poskytovatele energií nebo navštěvoval kontaktní místa dodavatele a zjišťoval, zda nedochází ke změně ceny energií.
+
+Na základě těchto zjištění následně veřejná ochránkyně práv uplatnila připomínku k chystané novele energetického zákona a navrhla jeho úpravu tak, aby poskytovatel energie byl povinen adresně informovat odběratele o každém zvýšení cen. Její připomínka byla akceptována.
+
+Další informace o ochraně spotřebitele a odpovědi na časté dotazy najdete zde.

@@ -9,7 +9,7 @@ attachmentsTop:
   - title: Ochrana před špatným zacházením 2015
     file: 2015-DET-vyrocni-zprava.pdf
   - title: Ochrana před diskriminací 2015
-    file: https://www.ochrance.cz/dokument/2015/2015-dis-vyrocni-zprava.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/dokument/2015/2015-dis-vyrocni-zprava.pdf
 ---
 <p><strong><a href="2015_4_Q.pdf">Zpráva za 4. čtvrtletí roku 2015</a></strong></p>
 

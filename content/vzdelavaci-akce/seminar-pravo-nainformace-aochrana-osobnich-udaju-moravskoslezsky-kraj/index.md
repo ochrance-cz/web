@@ -12,4 +12,4 @@ startDate: 2019-11-12
 <p>   - zneužití práva na informace</p>
 <p></p>
 <p></p>
-<p><span style="font-size: 12.8px;">POZVÁNKA S PROGRAMEM <a href="/uploads-import/projekt_ESF/00_2019_VA/SEMINARE/11_12_Pravo_na_informace_Ostrava/11_12_Pravo_na_informace_a_ochrana_osobnich_udaju_POZVANKA.pdf" target="_blank">ZDE</a> (385.1 kB, Adobe Acrobat dokument)</span></p>
+<p><span style="font-size: 12.8px;">POZVÁNKA S PROGRAMEM <a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/projekt_ESF/00_2019_VA/SEMINARE/11_12_Pravo_na_informace_Ostrava/11_12_Pravo_na_informace_a_ochrana_osobnich_udaju_POZVANKA.pdf" target="_blank">ZDE</a> (385.1 kB, Adobe Acrobat dokument)</span></p>

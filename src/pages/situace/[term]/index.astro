@@ -1,0 +1,52 @@
+---
+// /situace/<term>/ — situation term landing: header (title,
+// perex, illustration) then the LETAKY (leaflets) tagged with this situation.
+//
+// NOTE: in this worktree the `letaky` collection is EMPTY (owned by another
+// worker). The page renders header + empty list and MUST build cleanly; the
+// real leaflet listing populates at the reconverge phase after merge.
+import type { GetStaticPaths } from 'astro';
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import PicHeader from '../../../components/PicHeader.astro';
+import LinkList from '../../../components/LinkList.astro';
+import { renderMarkdown } from '../../../lib/markdown';
+import { url } from '../../../lib/paths';
+import { t } from '../../../lib/i18n';
+
+export const getStaticPaths = (async () => {
+  const terms = (await getCollection('situace')) ?? [];
+  return terms.map((term) => ({
+    params: { term: term.id },
+    props: { term },
+  }));
+}) satisfies GetStaticPaths;
+
+const { term } = Astro.props;
+const termKey = term.id;
+const termSlug = term.id;
+
+const letaky = (await getCollection('letaky')) ?? [];
+const items = letaky
+  .filter((l) => (l.data.situace ?? []).some((s) => s === termKey || s === termSlug))
+  .map((l) => ({
+    link: url('cs', 'letaky', l.id),
+    title: l.data.title,
+  }))
+  .sort((a, b) => a.title.localeCompare(b.title, 'cs'));
+
+const perexHtml = await renderMarkdown(term.data.perex);
+---
+<BaseLayout title={term.data.title} lang="cs">
+  <main>
+    <PicHeader title={term.data.title} illustration={term.data.illustration} />
+    <section>
+      <div class="perex" set:html={perexHtml} />
+
+      {/* Leaflet listing — empty in this worktree; populates at reconverge. */}
+      <LinkList items={items} />
+
+      <p><a class="_button back" href={url('cs', 'situace')}>{t('cs', 'all-situations')}</a></p>
+    </section>
+  </main>
+</BaseLayout>

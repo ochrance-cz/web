@@ -22,7 +22,7 @@ perex: >
 
 <p><strong>Související odkaz</strong></p>
 
-<p><a href="https://www.ochrance.cz/uploads-import/ESO/22-2017-NZ_Souhrnna_zprava_Policejni_cely_2017_CZ.pdf">Souhrnná zpráva k návštěvám policejních cel</a></p>
+<p><a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/22-2017-NZ_Souhrnna_zprava_Policejni_cely_2017_CZ.pdf">Souhrnná zpráva k návštěvám policejních cel</a></p>
 
 <p>&nbsp;</p>
 

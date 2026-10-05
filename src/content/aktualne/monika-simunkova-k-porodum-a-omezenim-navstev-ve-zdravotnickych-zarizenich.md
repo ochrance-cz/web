@@ -1,0 +1,18 @@
+---
+title: Monika Šimůnková k porodům a omezením návštěv ve zdravotnických zařízeních
+date: 2020-04-03T00:00:00.000Z
+perex: Na základě mimořádného opatření ministerstva zdravotnictví je s účinností
+  od 28. března 2020 nařízen zákaz návštěv pacientů ve zdravotnických
+  zařízeních, ve kterých se poskytuje lůžková péče, s výjimkou (mimo jiné)
+  návštěv nezletilých pacientů. Zároveň je tímto opatřením rovněž s některými
+  výjimkami zakázána přítomnost třetích osob při porodu.
+kategorie:
+  - tz
+---
+Podle zpráv z médií jsou ale v některých nemocnicích omezovány návštěvy dětí jejich zákonnými zástupci. Takové zákazy nemají oporu v zákoně ani v mimořádném opatření ministerstva zdravotnictví. Naopak jsou tyto návštěvy výjimkou ministerstva povoleny.
+
+“V některých porodnicích údajně dochází také k omezování styku matek a novorozenců. Žádný zákon či opatření ministerstva však neumožňuje omezit bezprostřední kontakt mezi rodičkou a novorozeným dítětem (tzv. bonding). Stejně tak neumožňuje jakékoli jiné nepřiměřené oddělení novorozence od matky. Plošné uplatňování této praxe bez jakéhokoliv individuálního hodnocení nepovažuji za souladné s právními předpisy. Prvotní kontakt dítěte s matkou je zcela zásadní pro zdárný vývoj dítěte,” vysvětluje zástupkyně ombudsmana Monika Šimůnková.
+
+“Zákon mi neumožňuje, abych se zabývala přímo postupem porodnic nebo jiných zařízení, kde jsou hospitalizovány děti. Doporučuji však všem, kteří se v takové situaci ocitnou, aby si stěžovali nejprve řediteli příslušného zdravotnického zařízení a následně krajskému úřadu. Jak by měl krajský úřad stížnost vyřídit najdete v letáku [Zdravotnictví - Stížnosti ve zdravotnictví](/uploads-importLetaky/Zdravotnictvi-stiznosti.pdf). Pokud budete přesvědčeni, že krajský úřad nevyřídil stížnost řádně, mohu již jeho postup přezkoumat. Ráda bych všechny ujistila, že veškeré vaše podněty budu pečlivě prošetřeny,” říká Monika Šimůnková.
+
+Dodává, že teoreticky by platil stejný postup i u stížností, které se týkají plošného zákazu (až na výjimky) přítomnosti otců u porodu. „Za situace, kdy je tento zákaz plošný a je vydán přímo ministerstvem, nemohu v tomto přístup krajských úřadů kritizovat. Nemocnice musí dodržovat opatření ministerstva a krajský úřad jim to nemůže vytýkat. Pokud se však již k plošným zákazům přistupuje, je vždy nutné poměřovat a vážit jednotlivá práva a zkoumat to, zda není možné přijmout jiná, méně omezující opatření. Pevně věřím, že ministr zdravotnictví činí kroky, aby práva dětí a rodičů v těchto případech nebyla omezována ve vyšší míře, než je nezbytně nutné a současně taková omezení trvala jen nezbytně nutnou dobu,” uzavírá Monika Šimůnková.

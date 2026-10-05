@@ -8,8 +8,8 @@ vystupy:
 attachmentsTop: []
 attachments:
   - title: Rodičovství a diskriminace v práci
-    file: https://www.ochrance.cz/uploads-import/ESO/rodicovstvi-a-diskriminace-doporuceni.pdf
-  - file: https://www.ochrance.cz/uploads-import/ESO/parenthood-and-discrimination-recommendation.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/rodicovstvi-a-diskriminace-doporuceni.pdf
+  - file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/parenthood-and-discrimination-recommendation.pdf
     title: Parenthood and discrimination at work
   - title: "Podcast: Rodiče na pracovním trhu I"
     file: https://www.ochrance.cz/aktualne/na_kavu_s_ombudsmanem_57-_dil_rodice_na_pracovnim_trhu_i/

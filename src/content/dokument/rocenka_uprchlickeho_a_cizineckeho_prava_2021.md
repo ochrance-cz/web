@@ -1,0 +1,11 @@
+---
+title: Ročenka uprchlického a cizineckého práva 2020/2021
+perex: Sborník z vědeckého semináře ze dne 22. října 2021 v Brně.
+date: 2022-06-16T10:00:01.106Z
+vystupy:
+  - rocenky-uprchlickeho-a-cizineckeho-prava
+---
+
+Ročenku tvoří příspěvky, které zazněly na vědeckém semináři konaném dne 22. října 2021 v Kanceláři veřejného ochránce práv – Aktuální otázky uprchlického a cizineckého práva, a další odborné příspěvky, které souvisí s tématem uprchlického a cizineckého práva.
+
+- [Ročenka uprchlického a cizineckého práva 2020/2021](<https://cdn.nuasite.com/assets/ochrance-web-lj8h86/dokument/rocenka_uprchlickeho_a_cizineckeho_prava_2021/cizinecke_pravo_-_2021-2022_-_2022_-_148x210_s_obalkou.pdf>)

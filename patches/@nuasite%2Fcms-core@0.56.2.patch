@@ -1,0 +1,141 @@
+diff --git a/node_modules/@nuasite/cms-core/.bun-tag-4bc8184ef966852f b/.bun-tag-4bc8184ef966852f
+new file mode 100644
+index 0000000000000000000000000000000000000000..e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+diff --git a/node_modules/@nuasite/cms-core/.bun-tag-5b1c7328f7607df2 b/.bun-tag-5b1c7328f7607df2
+new file mode 100644
+index 0000000000000000000000000000000000000000..e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+diff --git a/node_modules/@nuasite/cms-core/.bun-tag-984723aff7630dac b/.bun-tag-984723aff7630dac
+new file mode 100644
+index 0000000000000000000000000000000000000000..e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+diff --git a/src/collection-scanner.ts b/src/collection-scanner.ts
+index 4c56c29e5df2e66bd7f0500f9a2335046f35581d..060f9afa74f059ef513e59f0cdbb36ecfd4fa1ba 100644
+--- a/src/collection-scanner.ts
++++ b/src/collection-scanner.ts
+@@ -503,6 +503,7 @@ async function buildDataCollectionDefinition(
+ 	const sourceBasePath = getCollectionSourceBasePath(basePath, collectionName, contentDir)
+ 	const fieldMap = new Map<string, FieldObservation>()
+ 	const entryInfos: CollectionEntryInfo[] = []
++	let hasDraft = false
+ 	const ext = sources.some(s => s.relPath.endsWith('.json'))
+ 		? 'json' as const
+ 		: sources.some(s => s.relPath.endsWith('.yaml'))
+@@ -529,10 +530,13 @@ async function buildDataCollectionDefinition(
+ 		// deliberate change from the old `name`-first order; declare `titleField` to
+ 		// pin a different field.
+ 		const title = deriveEntryTitle(data)
++		const draft = data.draft === true
++		if (draft) hasDraft = true
+ 		entryInfos.push({
+ 			slug: source.slug,
+ 			title,
+ 			sourcePath: path.join(sourceBasePath, source.relPath),
++			...(draft ? { draft: true } : {}),
+ 			data,
+ 		})
+ 
+@@ -542,6 +546,7 @@ async function buildDataCollectionDefinition(
+ 	return assembleCollectionDefinition(collectionName, contentDir, fieldMap, entryInfos, sources.length, {
+ 		type: 'data',
+ 		fileExtension: ext,
++		supportsDraft: hasDraft,
+ 	})
+ }
+ 
+@@ -648,8 +653,12 @@ function applyParsedConfig(
+ 		const fieldsByName = new Map(def.fields.map(f => [f.name, f]))
+ 		for (const pf of parsedColl.fields) {
+ 			const field = fieldsByName.get(pf.name)
+-			if (!field) continue
+-			applyParsedFieldOverrides(field, pf)
++			if (field) {
++				applyParsedFieldOverrides(field, pf)
++			} else {
++				// A declared field must be editable before its first value is saved.
++				def.fields.push(parsedFieldToFieldDefinition(pf))
++			}
+ 		}
+ 
+ 		// Declarative form layout from `defineCmsCollection({ cms })`.
+@@ -731,6 +740,11 @@ function applyParsedFieldLayout(field: FieldDefinition, pf: ParsedField): void {
+  * and offers a remove button. Merging here would defeat that.
+  */
+ function applyParsedFieldOverrides(field: FieldDefinition, pf: ParsedField): void {
++	if (pf.reference && !pf.reference.isArray) {
++		field.type = 'reference'
++		field.collection = pf.reference.target
++		field.options = undefined
++	}
+ 	if (pf.type) {
+ 		field.type = pf.type
+ 		// Parsed options only ever come from a declared `(z|n).enum([…])`, so they are a
+@@ -774,6 +788,10 @@ function parsedFieldToFieldDefinition(pf: ParsedField): FieldDefinition {
+ 		type: pf.type ?? (pf.fields ? 'object' : 'text'),
+ 		required: pf.required,
+ 	}
++	if (pf.reference && !pf.reference.isArray) {
++		fd.type = 'reference'
++		fd.collection = pf.reference.target
++	}
+ 	if (pf.options) {
+ 		fd.options = pf.options
+ 		fd.optionsClosed = true
+@@ -1175,6 +1193,27 @@ export async function scanCollections(
+ 	detectDerivedHrefFields(collections)
+ 	assignSemanticRoles(collections)
+ 	applyCollectionOrderBy(collections, parsed)
++	// Optional project-level field vocabulary, applied after schema labels so shared
++	// sub-schemas can be presented in the language of each collection.
++	try {
++		const labels = JSON.parse(await fs.readFile('src/lib/field-labels.json')) as Record<'cs' | 'en', Record<string, string>>
++		const collectionLabels = JSON.parse(await fs.readFile('src/lib/collection-labels.json')) as Record<string, { label: string }>
++		for (const [name, definition] of Object.entries(collections)) {
++			const locale = name.endsWith('-en') ? 'en' : 'cs'
++			const words = labels[locale] ?? {}
++			const localize = (fields: FieldDefinition[]) => {
++				for (const field of fields) {
++					const translation = words[field.name]
++					const foreignLabel = locale === 'en' && field.label && /[áčďéěíňóřšťúůýž]|^(Nadpis|Název|Popis|Odkaz|Jméno|Pořadí|Role a agenda)/i.test(field.label)
++					const standardContentLabel = (field.name === 'body' || field.name === 'perex') && name !== 'alert' && name !== 'alert-en'
++					if (translation && (!field.label || foreignLabel || standardContentLabel)) field.label = translation
++					if (field.type === 'reference' && field.collection && collectionLabels[field.collection]) field.label = collectionLabels[field.collection]!.label
++					if (field.fields) localize(field.fields)
++				}
++			}
++			localize(definition.fields)
++		}
++	} catch { /* optional field vocabulary */ }
+ 	warnOnPathnameCollisions(collections)
+ 
+ 	return collections
+diff --git a/src/content-config-ast.ts b/src/content-config-ast.ts
+index 90dca973ba584f85515cfedfa9172c84405d8197..ee4c153efc684e4e12da385293a827f6d26725e7 100644
+--- a/src/content-config-ast.ts
++++ b/src/content-config-ast.ts
+@@ -907,6 +907,13 @@ function analyzeBaseCall(node: t.CallExpression, field: ParsedField, bindings: B
+ 	// and a plain `z.boolean()` declares the very same field.
+ 	if ((ns === 'z' || ns === 'n') && fn === 'boolean') {
+ 		field.type = 'boolean'
++		if (ns === 'n') {
++			const hintsArg = node.arguments[0]
++			if (hintsArg?.type === 'ObjectExpression') {
++				const layout = parseFieldLayoutFromObject(hintsArg)
++				if (layout) field.layout = layout
++			}
++		}
+ 		return
+ 	}
+ 
+@@ -944,6 +951,13 @@ function analyzeBaseCall(node: t.CallExpression, field: ParsedField, bindings: B
+ 
+ 	// (z|n).array(<inner>)  →  array; inspect the element type
+ 	if ((ns === 'z' || ns === 'n') && fn === 'array') {
++		if (ns === 'n') {
++			const hintsArg = node.arguments[1]
++			if (hintsArg?.type === 'ObjectExpression') {
++				const layout = parseFieldLayoutFromObject(hintsArg)
++				if (layout) field.layout = layout
++			}
++		}
+ 		const innerRaw = node.arguments[0]
+ 		if (!innerRaw) return
+ 		const inner = resolveExpression(innerRaw, bindings)

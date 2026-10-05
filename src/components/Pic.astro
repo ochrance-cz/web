@@ -1,0 +1,49 @@
+---
+// Simple image wrapper. desc renders as an optional caption.
+// Reads the image's intrinsic dimensions at build time to emit an
+// `aspect-ratio` hint (plus width/height), matching Hugo's pic.html and
+// reserving layout space to prevent shift. Missing files are skipped.
+import { renderMarkdown } from '../lib/markdown';
+import sharp from 'sharp';
+import path from 'node:path';
+
+interface Props {
+  src: string;
+  alt?: string;
+  desc?: string;
+}
+
+const { src, alt = '', desc } = Astro.props;
+const descHtml = desc ? await renderMarkdown(desc) : '';
+
+// src is an absolute path like /media/... or /images/... resolving to a file
+// under public/. Resolve its intrinsic dimensions, accounting for EXIF rotation.
+let width: number | undefined;
+let height: number | undefined;
+if (src.startsWith('/')) {
+  try {
+    const filePath = path.join(process.cwd(), 'public', src);
+    const meta = await sharp(filePath).metadata();
+    if (meta.width && meta.height) {
+      // EXIF orientation 5-8 implies a 90° rotation: swap stored dimensions.
+      const rotated = typeof meta.orientation === 'number' && meta.orientation >= 5;
+      width = rotated ? meta.height : meta.width;
+      height = rotated ? meta.width : meta.height;
+    }
+  } catch {
+    // File missing or unreadable: skip the dimension hint, don't crash the build.
+  }
+}
+const style = width && height ? `aspect-ratio: ${width} / ${height}` : undefined;
+---
+<div class="img-wrapper">
+  <img
+    src={src}
+    alt={alt}
+    aria-hidden={alt ? undefined : 'true'}
+    style={style}
+    width={width}
+    height={height}
+  />
+  {descHtml && <p class="desc" set:html={descHtml} />}
+</div>

@@ -15,7 +15,7 @@ attachments:
   - title: Webová stránka s podrobnostmi k dotazníku
     file: https://www.ochrance.cz/dokument/hledame_temata_ktera_potrebuji_nasi_pozornost/
   - title: Leták s QR kódem
-    file: https://www.ochrance.cz/aktualne/vidite_problem_ktery_by_nemel_zustat_bez_povsimnuti_podelte_se_s_nami_o_temata_ktera_podle_vas_potrebuji_pozornost_ombudsmana_ci_detskeho_ombudsmana/hledame-temata-letak-qr.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/vidite_problem_ktery_by_nemel_zustat_bez_povsimnuti_podelte_se_s_nami_o_temata_ktera_podle_vas_potrebuji_pozornost_ombudsmana_ci_detskeho_ombudsmana/hledame-temata-letak-qr.pdf
 ---
 <p>
 <strong>Jaká témata sbíráme?</strong></p>

@@ -1,0 +1,28 @@
+---
+title: >-
+  Důchody, stavby, životní prostředí, ale i zdravotnictví bude mít na starosti
+  nová ombudsmanka Eva Kostolanská
+date: 2026-06-29T12:27:00.000Z
+perex: >-
+  Ombudsmanka Eva Kostolanská a její zástupce Vít Alexander Schorm se dohodli na
+  rozdělení působností, kterým se budou v následujících letech věnovat. Po
+  ombudsmanovi Stanislavu Křečkovi si Kostolanská převzala většinu agend
+  spjatých se sociálním zabezpečením, veřejným pořádkem, zdravotnictvím, prací,
+  stavebním řádem a životním prostředním. Svému zástupci oproti ombudsmanovi
+  Křečkovi přenechala oblast rovného zacházení a diskriminace.
+kategorie:
+  - tz
+---
+Ve čtvrtek 18. června nahradila Eva Kostolanská ve funkci ombudsmana Stanislava Křečka. Od té chvíle začala podle zákona běžet třicetidenní lhůta, ve které si měli se zástupcem Vítem Alexanderem Schormem rovnoměrně rozdělit působnosti. K tomu došlo v prvních dnech působení nové ombudsmanky.
+
+  
+*„Díky své profesní zkušenosti dobře znám fungování veřejné správy i práci Kanceláře veřejného ochránce práv. Vím, kde nejčastěji vznikají spory mezi lidmi a úřady a jaké možnosti má ombudsman při ochraně jejich práv. I proto jsem si vybrala právě ty agendy, ve kterých se lidé s veřejnou správou dostávají do konfliktu nejčastěji. Věřím, že právě zde mohu své zkušenosti nejlépe využít a lidem skutečně pomáhat,“* sdělila ombudsmanka Kostolanská.
+
+  
+Společně se zástupcem se dohodli na zachování rozdělení většiny působností, jaké panovalo za funkčního období ombudsmana Křečka. Výjimkou jsou pouze věci cizinců, které ze zástupce přecházejí na novou ombudsmanku. Ta naopak svěřila svému zástupci agendu diskriminace a rovného zacházení.
+
+  
+*„Jsem rád, že můžu pokračovat v dosavadní práci v oblasti ochraně práv lidí s postižením a dohledem nad místy, kde žijí lidé omezení na svobodě. Nadále se budu věnovat tématům sociálních služeb, ochranného léčení nebo veřejného opatrovnictví,“* představil zástupce ombudsmanky Schorm, který se těší i na výkon agendy rovného zacházení.
+
+- [Seznam působností, kterým se věnuje ombudsmanka](<https://www.ochrance.cz/o-nas/ombudsman/>)
+- [Seznam působností, kterým se věnuje zástupce ombudsmanky](<https://www.ochrance.cz/o-nas/deputy/>)

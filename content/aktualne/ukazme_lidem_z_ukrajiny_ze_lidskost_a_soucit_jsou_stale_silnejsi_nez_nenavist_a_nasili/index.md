@@ -10,7 +10,7 @@ perex: >
   Pojměme 24. únor jako příležitost nejen ke vzpomínce na oběti této války, ale
   také k vyjádření pevného závazku dále pomáhat těm, kteří to potřebují.</p>
 attachments:
-  - file: https://www.ochrance.cz/aktualne/ukazme_lidem_z_ukrajiny_ze_lidskost_a_soucit_jsou_stale_silnejsi_nez_nenavist_a_nasili/infografika_-_vyzvy_lidi_z_ukrajiny.pdf
+  - file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/ukazme_lidem_z_ukrajiny_ze_lidskost_a_soucit_jsou_stale_silnejsi_nez_nenavist_a_nasili/infografika_-_vyzvy_lidi_z_ukrajiny.pdf
     title: "Infografika: S jakými výzvami se u nás lidé z Ukrajiny potýkají?"
 ---
 <p>&bdquo;<em>Trváme na tom, aby byla dodržována práva všech lidí, bez ohledu na jejich původ, náboženství nebo politické přesvědčení</em>,&ldquo; uvedl ombudsman Stanislav Křeček a zástupce ombudsmana Vít Alexander Schorm ho doplnil: &bdquo;<em>Děkujeme všem, kdo projevují solidaritu a snaží se přispět k nalezení různých řešení. Společně můžeme ukázat, že lidskost a soucit jsou stále silnější než nenávist a násilí</em>.&ldquo;</p>
@@ -19,4 +19,4 @@ attachments:
 
 <p>Přiložená infografika ilustruje některé výzvy, kterým lidé z&nbsp;Ukrajiny čelí.</p>
 
-<p><img alt="dvoulete_vyroci_valky_na_ukrajine_infografika_.png" src="https://www.ochrance.cz/aktualne/ukazme_lidem_z_ukrajiny_ze_lidskost_a_soucit_jsou_stale_silnejsi_nez_nenavist_a_nasili/dvoulete_vyroci_valky_na_ukrajine_infografika_.png" /></p>
+<p><img alt="dvoulete_vyroci_valky_na_ukrajine_infografika_.png" src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/ukazme_lidem_z_ukrajiny_ze_lidskost_a_soucit_jsou_stale_silnejsi_nez_nenavist_a_nasili/dvoulete_vyroci_valky_na_ukrajine_infografika_.png" /></p>

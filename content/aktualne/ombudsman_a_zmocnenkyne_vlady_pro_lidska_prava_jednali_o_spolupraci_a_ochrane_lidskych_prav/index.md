@@ -17,7 +17,7 @@ perex: <p>Ombudsman Stanislav Křeček se dnes setkal se zmocněnkyní vlády pr
 <a href="https://www.ochrance.cz/dokument/co_je_to_narodni_lidskopravni_instituce_a_proc_ji_v_cesku_potrebujeme/">se stal ombudsman v červenci 2025</a>.</p>
 <p>&nbsp;</p>
 <figure class="image">
-<img src="https://www.ochrance.cz/aktualne/ombudsman_a_zmocnenkyne_vlady_pro_lidska_prava_jednali_o_spolupraci_a_ochrane_lidskych_prav/dsc_5435-2.jpg" alt="Ombudsman Stanislav Křeček pózuje po boku vládní zmocněnkyně pro lidská práva Taťány Malé."></figure>
+<img src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/ombudsman_a_zmocnenkyne_vlady_pro_lidska_prava_jednali_o_spolupraci_a_ochrane_lidskych_prav/dsc_5435-2.jpg" alt="Ombudsman Stanislav Křeček pózuje po boku vládní zmocněnkyně pro lidská práva Taťány Malé."></figure>
 <p>
 <br>
 <i>„Naše činnost se v řadě oblastí přirozeně prolínají – například v boji proti diskriminaci, ochraně menšin či osob omezených na svobodě. Zatímco ombudsman přináší nezávislou kritickou reflexi a identifikuje problémy, já mám možnost tato zjištění proměňovat v politická a legislativní řešení,“</i> uvedla zmocněnkyně Taťána Malá.</p>

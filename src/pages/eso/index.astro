@@ -1,0 +1,49 @@
+---
+import PageHeader from '../../components/site-copy/headers/cs-eso.astro';
+import * as pageCopy0 from '../../components/page-content/section-pages/eso.astro';
+// ESO listing — Evidence stanovisek ombudsmana (ESO). cs only, at /eso/.
+// Mirrors layouts/eso/list.html: text-header, _index perex, "Vstoupit do ESO"
+// button, _index body (the YouTube tutorial), then rank-sorted card previews.
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import TextHeader from '../../components/TextHeader.astro';
+import Button from '../../components/Button.astro';
+import { renderMarkdown } from '../../lib/markdown';
+
+const indexEntry = pageCopy0;
+import { data as index } from '../../components/page-content/section-pages/eso.astro';
+const listTitle = index.title ?? 'Evidence stanovisek ombudsmana (ESO)';
+const listPerex = index.perex;
+const listPerexHtml = listPerex ? await renderMarkdown(listPerex) : '';
+
+const entries = (await getCollection('eso')).sort(
+  (a, b) => (a.data.rank ?? 0) - (b.data.rank ?? 0)
+);
+const cards = await Promise.all(
+  entries.map(async (entry) => ({
+    slug: entry.id,
+    title: entry.data.title,
+    perexHtml: entry.data.perex ? await renderMarkdown(entry.data.perex) : '',
+  }))
+);
+---
+<BaseLayout title={listTitle} description={listPerex} lang="cs">
+  <main data-pagefind-body data-pagefind-weight="10">
+    <PageHeader />
+
+    <section>
+      {listPerexHtml && <div class="perex" set:html={listPerexHtml} />}
+
+      <p><Button href="https://eso.ochrance.cz" label="Vstoupit do ESO" /></p>
+
+      <indexEntry.default />
+
+      {cards.map((card) => (
+        <article class="_article-preview">
+          <h3><a href={`/eso/${card.slug}/`}>{card.title}</a></h3>
+          {card.perexHtml && <Fragment set:html={card.perexHtml} />}
+        </article>
+      ))}
+    </section>
+  </main>
+</BaseLayout>

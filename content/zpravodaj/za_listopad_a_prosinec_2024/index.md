@@ -2,7 +2,7 @@
 title: Zpravodaj ombudsmana za listopad a prosinec 2024
 month: 1
 year: 2025
-file: https://www.ochrance.cz/zpravodaj/za_listopad_a_prosinec_2024/zpravodaj_listopad_a_prosinec_2024.pdf
+file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/zpravodaj/za_listopad_a_prosinec_2024/zpravodaj_listopad_a_prosinec_2024.pdf
 sections:
   - title: Úvodní slovo
     articles:
@@ -254,7 +254,7 @@ sections:
           href="https://www.facebook.com/groups/319938625441179/permalink/1798071770961183/">facebookovém
           příspěvku</a>.</p><figure class="image"><img
           style="aspect-ratio:1385/1039;"
-          src="https://www.ochrance.cz/zpravodaj/za_listopad_a_prosinec_2024/norsko_zpravodaj_foto.jpg"
+          src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/zpravodaj/za_listopad_a_prosinec_2024/norsko_zpravodaj_foto.jpg"
           alt="Na skupinové fotce jsou zachyceni zaměstnanci Kanceláře
           ombudsmana a zástupce ombudsmana s norskými partnery." width="1385"
           height="1039"></figure>

@@ -21,7 +21,7 @@ perex: Chystáte se na léto vyjet za prací do některé ze zemí Evropské uni
 
 <p><br data-tomark-pass="" />
 <br />
-Praktické rady naleznete také v příručce<a data-tomark-pass="" href="https://www.ochrance.cz/uploads-import/Letaky/Prazdniny-bezpecne.pdf?fbclid=IwAR2y1QCHNyG2RI0MqS7TAYcn5VPJgXXxemqq1yDURl08goQa3sIJj2V_ENw">Prázdniny bezpečně s ombudsmanem</a>, ve které odpovídáme na nejčastější otázky spojené s letními prázdninami.</p>
+Praktické rady naleznete také v příručce<a data-tomark-pass="" href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/Letaky/Prazdniny-bezpecne.pdf?fbclid=IwAR2y1QCHNyG2RI0MqS7TAYcn5VPJgXXxemqq1yDURl08goQa3sIJj2V_ENw">Prázdniny bezpečně s ombudsmanem</a>, ve které odpovídáme na nejčastější otázky spojené s letními prázdninami.</p>
 
 <p><br data-tomark-pass="" />
 <br />

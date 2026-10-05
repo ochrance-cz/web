@@ -1,0 +1,8 @@
+---
+title: Kontakty dětí a rodičů ve výkonu trestu odnětí svobody
+date: 2023-11-13T14:31:05.647Z
+vystupy:
+  - vyzkumy
+---
+
+- [Kontakty dětí a rodičů ve výkonu trestu odnětí svobody](<https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/VI%204353-22_sociologick%C3%BD%20v%C3%BDzkum.pdf>)

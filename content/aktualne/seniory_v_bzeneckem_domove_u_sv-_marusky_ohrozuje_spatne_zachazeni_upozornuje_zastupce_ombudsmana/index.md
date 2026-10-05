@@ -13,14 +13,14 @@ perex: <p>Laici podávající léky bez potřebné kvalifikace, nedostatečně z
   upomínce na jeho výtky nereagovalo.</p>
 attachments:
   - title: Zpráva ze systematické návštěvy
-    file: https://www.ochrance.cz/uploads-import/ESO/NZ%2025-2024_zprava.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/NZ%2025-2024_zprava.pdf
   - title: Výzva spolku
-    file: https://www.ochrance.cz/uploads-import/ESO/NZ25_2024_vyzva_spolek.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/NZ25_2024_vyzva_spolek.pdf
   - title: Opakovaná výzva
-    file: https://www.ochrance.cz/uploads-import/ESO/NZ25_2024_vyzva_spolek_opakovana.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/NZ25_2024_vyzva_spolek_opakovana.pdf
   - title: "Ubytovací zařízení poskytující péči bez oprávnění – zpráva ze
       systematických návštěv ombudsmana "
-    file: https://www.ochrance.cz/uploads-import/ESO/28-2014-NZ_Souhrnna_zprava_-_neregistrovana_zarizeni__CJ_.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/28-2014-NZ_Souhrnna_zprava_-_neregistrovana_zarizeni__CJ_.pdf
 ---
 <p>Už od první chvíle bylo jasné, že návštěva týmu kanceláře ombudsmana v&nbsp;Domově u sv. Marušky nebude probíhat standardně. Personál je nejprve odmítl vpustit dovnitř, a i když nakonec omezený vstup umožnil, po zhruba čtyřech hodinách další spolupráci zcela odepřel.</p>
 <p>Přístup do prostor domova stejně jako k&nbsp;dokumentaci tak měla návštěva omezený. Proto nemohla v&nbsp;plném rozsahu zhodnotit, zda dochází ke špatnému zacházení se zdejšími klienty, seniory závislými na&nbsp;poskytované péči. Zjištěné poznatky nicméně ukázaly vysoké riziko takového zacházení.</p>

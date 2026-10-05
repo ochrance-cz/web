@@ -14,7 +14,7 @@ perex: >
   dává.</p>
 attachments:
   - title: Leták - nečinnost úřadů
-    file: https://www.ochrance.cz/letaky/necinnost-uradu/necinnost-uradu.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/necinnost-uradu/necinnost-uradu.pdf
 ---
 <p>Od nového stavebního zákona si jeho autoři i stavebníci slibují především rychlejší a jednodušší povolování staveb. Dosud stavební úřady zpravidla rozhodovaly nejprve o umístění stavby a až následně o jejím povolení. Podle nového stavebního zákona stavebníky čeká <a href="https://www.zakonyprolidi.cz/cs/2021-283/zneni-20240701#cast6-hlava3">pouze jedno</a> povolování. Novinkou je i takzvané zrychlené řízení. Pokud stavebník požádá o povolení stavby tímto způsobem a doloží všechny potřebné podklady, například úplnou projektovou dokumentaci, všechna vyjádření dotčených úřadů i souhlasy sousedů, stavební úřad mu vydá povolení jako první úkon v&nbsp;řízení. Stavebník může mít povolení v&nbsp;ruce ani ne za měsíc od podání žádosti.</p>
 

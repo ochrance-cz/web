@@ -16,7 +16,7 @@ Pokud je řádek delší, špatně se nám pokračuje na začátek dalšího ř�
 
 {{% nevhodne %}}
 
-![Obrázek ukazuje nesnáze při čtení řádků přesahujících 110 znaků včetně mezer.](https://www.ochrance.cz/srozumitelne/naformatujte_text_prehledne/radek_120.png)
+![Obrázek ukazuje nesnáze při čtení řádků přesahujících 110 znaků včetně mezer.](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/srozumitelne/naformatujte_text_prehledne/radek_120.png)
 
 {{% /nevhodne %}}
 
@@ -28,7 +28,7 @@ Víme o tom, že na mnoha úřadech a soudech zarovnávat do bloku musíte, prot
 
 {{% nevhodne %}}
 
-![Obrázek ukazuje popsané neduhy textu zarovnaného do bloku.](https://www.ochrance.cz/srozumitelne/naformatujte_text_prehledne/text-blok.png)
+![Obrázek ukazuje popsané neduhy textu zarovnaného do bloku.](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/srozumitelne/naformatujte_text_prehledne/text-blok.png)
 
 {{% /nevhodne %}}
 

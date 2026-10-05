@@ -13,4 +13,4 @@ perex: <p>Zaměstnanci veřejnoprávních médií dnes vstoupili do výstražné
 <p>Nezávislá média veřejné služby a jejich schopnost poskytovat veřejnosti důvěryhodné informace považujeme za důležitou součást demokratické společnosti. Současně respektujeme, že otázka jejich financování je předmětem veřejné a politické debaty. Jsme připraveni odborně spolupracovat na případných legislativních změnách i s příslušnými institucemi, včetně Rady pro rozhlasové a televizní vysílání.</p>
 <p>&nbsp;</p>
 <figure class="image">
-<img src="https://www.ochrance.cz/aktualne/na_podporu_nezavislosti_verejnopravnich_medii_jsme_oblekli_cernou_barvu/fb_prispevek.png" alt="Na snímku je ombudsmanka, dětský ombudsman a jejich zástupce. Za nimi stojí jejich tým. Všichni jsou oblečení v černé. Pózují před budovou své kanceláře."></figure>
+<img src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/na_podporu_nezavislosti_verejnopravnich_medii_jsme_oblekli_cernou_barvu/fb_prispevek.png" alt="Na snímku je ombudsmanka, dětský ombudsman a jejich zástupce. Za nimi stojí jejich tým. Všichni jsou oblečení v černé. Pózují před budovou své kanceláře."></figure>

@@ -10,7 +10,7 @@ perex: >
   mohou lidé využít.&nbsp;</p>
 attachments:
   - title: Infografika v PDF
-    file: https://www.ochrance.cz/aktualne/mate_koupeny_zajezd_na_rhodos_ombudsman_radi_jak_postupovat/jak_postupovat_u_zajezdu_na_rhodos.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/mate_koupeny_zajezd_na_rhodos_ombudsman_radi_jak_postupovat/jak_postupovat_u_zajezdu_na_rhodos.pdf
 ---
 <p>Lidé, kteří mají koupený zájezd na požárem zasažené jižní polovině ostrova, mají nárok bez jakékoli sankce odstoupit od uzavřené cestovní smlouvy (pokud to již předtím sama neudělala cestovní kancelář).</p>
 
@@ -30,8 +30,8 @@ attachments:
 
 <p>Ombudsman podotýká, že ne všechny nároky je třeba řešit s&nbsp;pořadatelem zájezdu. Část nároků pokrývá cestovní pojištění, které se k&nbsp;zájezdům sjednává. Zde je důležitý rozsah a podmínky ujednané ve smlouvě, většina cestovních pojištění kryje nutná lékařská ošetření, úrazy, pojištění zavazadel apod.</p>
 
-<p>Ombudsman se snaží pomáhat informováním preventivně. Do jeho kompetencí nepatří prověřování postupů cestovních kanceláří. Více v&nbsp;informačním letáku <a href="https://www.ochrance.cz/letaky/ochrana-spotrebitele/ochrana-spotrebitele.pdf">Ochrana spotřebitele</a>.</p>
+<p>Ombudsman se snaží pomáhat informováním preventivně. Do jeho kompetencí nepatří prověřování postupů cestovních kanceláří. Více v&nbsp;informačním letáku <a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/ochrana-spotrebitele/ochrana-spotrebitele.pdf">Ochrana spotřebitele</a>.</p>
 
-<p><img alt="rhodos_infograf..png" src="https://www.ochrance.cz/aktualne/mate_koupeny_zajezd_na_rhodos_ombudsman_radi_jak_postupovat/rhodos_infograf..png" /></p>
+<p><img alt="rhodos_infograf..png" src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/mate_koupeny_zajezd_na_rhodos_ombudsman_radi_jak_postupovat/rhodos_infograf..png" /></p>
 
-<p><img alt="2._prispevek.png" src="https://www.ochrance.cz/aktualne/mate_koupeny_zajezd_na_rhodos_ombudsman_radi_jak_postupovat/2._prispevek.png" /></p>
+<p><img alt="2._prispevek.png" src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/mate_koupeny_zajezd_na_rhodos_ombudsman_radi_jak_postupovat/2._prispevek.png" /></p>

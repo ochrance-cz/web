@@ -2,7 +2,7 @@
 title: Čtěte po sobě (přehled a pomůcka k tisku)
 num: 55
 ---
-Můžete použít následující přehled a [pomůcku k tisku](https://www.ochrance.cz/uploads-import/ESO/p%C5%99%C3%ADru%C4%8Dka/Prirucka%20srozumitelneho%20psani%20A4.pdf):
+Můžete použít následující přehled a [pomůcku k tisku](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/p%C5%99%C3%ADru%C4%8Dka/Prirucka%20srozumitelneho%20psani%20A4.pdf):
 
 #### Komu píšu? Co píšu?
 

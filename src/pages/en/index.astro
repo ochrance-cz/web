@@ -1,0 +1,82 @@
+---
+import { getCollection, getEntry } from 'astro:content';
+import { getNews } from '../../lib/news';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import NewsPreview from '../../components/NewsPreview.astro';
+import { renderMarkdown } from '../../lib/markdown';
+import { t } from '../../lib/i18n';
+import { newsCategories } from '../../lib/news-categories';
+
+const lang = 'en' as const;
+const home = (await getEntry('homepage-en', 'index'))!.data;
+const aktuality = newsCategories.en;
+
+const help = (await getCollection('potrebuji-pomoc-en'))
+  .sort((a, b) => (a.data.order ?? 0) - (b.data.order ?? 0));
+
+const news = (await getNews('aktualne-en'))
+  .filter((e) => (e.data.vystupy ?? []).some((v: string) => aktuality.has(v)))
+  .sort((a, b) => new Date(b.data.date ?? 0).getTime() - new Date(a.data.date ?? 0).getTime())
+  .slice(0, 3);
+---
+<BaseLayout title={home.title} description={home.claim} lang={lang}>
+  <main>
+    <header class="_home-header">
+      {home.headerPic && <img src={home.headerPic} alt={home.headerPicAlt ?? ''} />}
+      <p class="motto">{home.claim}</p>
+    </header>
+
+    <section class="_full single-col">
+      <h2>{home.situationsTitle}</h2>
+      <ul class="layout _full two-col">
+        {help.map(async (p) => (
+          <li class="_home-link">
+            <h3>
+              <a href={p.data.link ?? `/en/potrebuji-pomoc/${p.id}/`}>
+                <span class={`icon-${p.data.icon ?? 'arrow'}`} aria-hidden="true"></span>
+                {p.data.title}
+              </a>
+            </h3>
+            {p.data.hp && <div set:html={await renderMarkdown(p.data.hp)} />}
+          </li>
+        ))}
+      </ul>
+    </section>
+
+    <div class="_backdrop news">
+      <section class="_news">
+        <h2>{t(lang, 'news')}</h2>
+        {news.map((e) => (
+          <NewsPreview
+            href={`/en/aktualne/${e.id}/`}
+            title={e.data.title}
+            date={e.data.date}
+            perex={e.data.perex}
+            pic={e.data.illustration}
+            tags={e.data.vystupy}
+            locale={lang}
+          />
+        ))}
+        <p><a href="/en/aktualne/" class="_button">{t(lang, 'more-news')}</a></p>
+      </section>
+    </div>
+    {(home.activities?.length ?? 0) > 0 && <>
+    <section class="_full single-col">
+      <h2>{home.cinnostTitle}</h2>
+      <ul class="layout _full two-col">
+        {(home.activities ?? []).map(async (v) => (
+          <li class="_home-link">
+            <h3>
+              <a href={v.href}>
+                <span class={`icon-${v.icon}`} aria-hidden="true"></span>
+                {v.title}
+              </a>
+            </h3>
+            {v.hp && <div set:html={await renderMarkdown(v.hp)} />}
+          </li>
+        ))}
+      </ul>
+    </section>
+    </>}
+  </main>
+</BaseLayout>

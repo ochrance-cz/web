@@ -1,0 +1,8 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getPageEntries } from '../../lib/page-content';
+const [entry] = await getPageEntries('kontakt');
+---
+<BaseLayout title={entry.data.title} description={entry.data.description ?? entry.data.perex} lang="cs">
+  <entry.Content />
+</BaseLayout>

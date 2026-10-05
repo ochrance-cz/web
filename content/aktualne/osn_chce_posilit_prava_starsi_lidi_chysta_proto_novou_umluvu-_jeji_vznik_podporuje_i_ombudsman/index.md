@@ -12,14 +12,14 @@ perex: <p>Práva&nbsp;lidí ve vyšším věku je potřeba posílit, domnívá s
 ---
 <p>Starší lidé často čelí věkové diskriminaci. Mívají obtížnější přístup ke zdravotní péči, sociálnímu zabezpečení nebo třeba k bydlení. K&nbsp;takovému závěru došla&nbsp; 
 <a href="https://www.age-platform.eu/un-convention-explained-4-key-questions-answered/">pracovní skupina pro stárnutí fungující při OSN</a>. Že se tento typ diskriminace nevyhýbá ani lidem v&nbsp;Česku dokládají i&nbsp; 
-<a href="https://www.ochrance.cz/letaky/diskriminace-z-duvodu-veku/diskriminace-z-duvodu-veku.pdf">případy, se kterými se setkává Kancelář ombudsmana a dětského ombudsmana</a>.&nbsp;</p>
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/diskriminace-z-duvodu-veku/diskriminace-z-duvodu-veku.pdf">případy, se kterými se setkává Kancelář ombudsmana a dětského ombudsmana</a>.&nbsp;</p>
 <blockquote>
 <p>
 <strong>Osvětové informace Kanceláře ombudsmana a dětského ombudsmana k&nbsp;věkové diskriminaci:</strong></p>
 <p>
-<a href="https://www.ochrance.cz/aktualne/vice_senioru_vice_vyzev_i_prilezitosti-_konference_pod_zastitou_ombudsmana_se_zameruje_na_tema_aktivniho_starnuti/vekova_dis_1cast.pdf">Seriál o věkové diskriminaci – práce</a></p>
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/vice_senioru_vice_vyzev_i_prilezitosti-_konference_pod_zastitou_ombudsmana_se_zameruje_na_tema_aktivniho_starnuti/vekova_dis_1cast.pdf">Seriál o věkové diskriminaci – práce</a></p>
 <p>
-<a href="https://www.ochrance.cz/aktualne/vice_senioru_vice_vyzev_i_prilezitosti-_konference_pod_zastitou_ombudsmana_se_zameruje_na_tema_aktivniho_starnuti/pdf_vekova_diskriminace_2.cast.pdf">Seriál o věkové diskriminaci – služby</a></p>
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/vice_senioru_vice_vyzev_i_prilezitosti-_konference_pod_zastitou_ombudsmana_se_zameruje_na_tema_aktivniho_starnuti/pdf_vekova_diskriminace_2.cast.pdf">Seriál o věkové diskriminaci – služby</a></p>
 <p>
 <a href="https://www.ochrance.cz/aktualne/na_kavu_s_ombudsmanem_127-_dil_vek_nesmi_byt_strasakem_ani_duvodem_k_diskriminaci/">Podcast Na kávu s ombudsmanem: Věk nesmí být strašákem ani důvodem k diskriminaci&nbsp;</a></p></blockquote>
 <p>Kvůli této situaci před časem OSN doporučila přísnější prosazování ochrany práv starších lidí. Zároveň dospěla k&nbsp;rozhodnutí, že by jejich práva měla zaručovat i samostatná mezinárodní Úmluva. Letos na jaře proto OSN vyzvala členské státy a další aktéry, aby se do příprav zapojily a pomohly Úmluvu vybudovat. Na konci letošního dubna zareagovala i Česká republika a přišla s&nbsp; 

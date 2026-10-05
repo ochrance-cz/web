@@ -2,7 +2,7 @@
 title: Zpravodaj ombudsmana 2/2023
 month: 2
 year: 2023
-file: https://www.ochrance.cz/zpravodaj/2_2023/zpravodaj-ombudsmana-2-2023.pdf
+file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/zpravodaj/2_2023/zpravodaj-ombudsmana-2-2023.pdf
 sections:
   - title: Pomohli jsme napravit chybu úřadu
     articles:

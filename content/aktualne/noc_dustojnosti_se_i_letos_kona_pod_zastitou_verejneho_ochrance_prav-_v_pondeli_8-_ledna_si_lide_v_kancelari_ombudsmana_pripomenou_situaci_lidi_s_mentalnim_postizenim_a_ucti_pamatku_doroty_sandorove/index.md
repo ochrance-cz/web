@@ -12,7 +12,7 @@ perex: >
   roky poté, co tuto ženu s mentálním postižením v&nbsp;noci na 7. ledna 2021
   usmrtil pečovatel v&nbsp;domově pro lidi s postižením. Právě počátkem ledna se
   proto na její památku už podruhé koná <a
-  href="https://www.ochrance.cz/aktualne/zapojte_se_s_nami_do_noci_dustojnosti_8-_ledna_v_kancelari_ombudsmana/noc_dustojnosti_-_pozvanka.pdf">Noc
+  href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/zapojte_se_s_nami_do_noci_dustojnosti_8-_ledna_v_kancelari_ombudsmana/noc_dustojnosti_-_pozvanka.pdf">Noc
   důstojnosti</a>. Záštitu nad ní stejně jako vloni převzal veřejný ochránce
   práv. <a href="https://en.mapy.cz/s/gojazohula">V&nbsp;Brně pořádá</a>
   odpolední diskuzi <em>&bdquo;Důstojný život pro všechny&ldquo;</em> zaměřenou

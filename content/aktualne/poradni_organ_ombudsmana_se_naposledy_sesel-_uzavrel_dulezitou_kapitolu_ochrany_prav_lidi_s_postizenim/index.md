@@ -36,7 +36,7 @@ attachments:
 <tr>
 <td>
 <figure class="image">
-<img src="https://www.ochrance.cz/aktualne/poradni_organ_ombudsmana_se_naposledy_sesel-_uzavrel_dulezitou_kapitolu_ochrany_prav_lidi_s_postizenim/dsc_5566.jpg" alt="Zasedání Poradního orgánu ombudsmana, hovoří ombudsman Stanislav Křeček"></figure></td>
+<img src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/poradni_organ_ombudsmana_se_naposledy_sesel-_uzavrel_dulezitou_kapitolu_ochrany_prav_lidi_s_postizenim/dsc_5566.jpg" alt="Zasedání Poradního orgánu ombudsmana, hovoří ombudsman Stanislav Křeček"></figure></td>
 <td>
 <figure class="image">
-<img src="https://www.ochrance.cz/aktualne/poradni_organ_ombudsmana_se_naposledy_sesel-_uzavrel_dulezitou_kapitolu_ochrany_prav_lidi_s_postizenim/dsc_5693.jpg" alt="Zasedání Poradního orgánu ombudsmana, diskuze členů "></figure></td></tr></tbody></table></figure>
+<img src="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/poradni_organ_ombudsmana_se_naposledy_sesel-_uzavrel_dulezitou_kapitolu_ochrany_prav_lidi_s_postizenim/dsc_5693.jpg" alt="Zasedání Poradního orgánu ombudsmana, diskuze členů "></figure></td></tr></tbody></table></figure>

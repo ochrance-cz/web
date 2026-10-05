@@ -19,20 +19,20 @@ attachments:
     link: https://eso.ochrance.cz/Nalezene/Edit/14088
   - title: "Výzkum z roku 2025: Jak Česko plní své povinnosti z Úmluvy o právech
       osob se zdravotním postižením?  "
-    link: https://www.ochrance.cz/uploads-import/ESO/Ukazatele%2073-2024-OZP-22-v%C3%BDzkum%20final.pdf
+    link: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/Ukazatele%2073-2024-OZP-22-v%C3%BDzkum%20final.pdf
   - title: "Výzkum z roku 2023: Deinstitucionalizace a transformace sociálních
       služeb – přístup krajů a Ministerstva práce a sociálních věcí ve
       strategických dokumentech"
-    link: https://www.ochrance.cz/uploads-import/ESO/27-2022-OZP-vyzkum.pdf
+    link: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/27-2022-OZP-vyzkum.pdf
   - title: "Výzkum z roku 2020: Dostupnost sociálních služeb pro děti s postižením a
       jejich rodiny "
-    link: https://www.ochrance.cz/uploads-import/CRPD/Vyzkumy/11-2019_Vyzkum_soc-sluzby-pro-deti-s-postizenim.pdf
+    link: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/CRPD/Vyzkumy/11-2019_Vyzkum_soc-sluzby-pro-deti-s-postizenim.pdf
   - title: "Výzkum z roku 2018: Dostupnost sociálních služeb pro lidi s poruchou
       autistického spektra"
-    link: https://www.ochrance.cz/uploads-import/ESO/45_2018_OZP_VV_VYZKUMNA_ZPRAVA-final.pdf
+    link: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/45_2018_OZP_VV_VYZKUMNA_ZPRAVA-final.pdf
 ---
 <p>Mezinárodní organizace Autism-Europe, hájící práva lidí s&nbsp;autismem a jejich rodiny, kritizuje Česko. Podle ní země porušuje některé závazky vůči lidem s&nbsp;postižením vyplývající z 
-<a href="https://www.ochrance.cz/uploads-import/ochrana_osob/Umluvy/Evropska_socialni_charta.pdf">Evropské sociální charty</a>.</p>
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ochrana_osob/Umluvy/Evropska_socialni_charta.pdf">Evropské sociální charty</a>.</p>
 <p>Výtky se týkají především nedostatku komunitních sociálních služeb pro lidi s postižením, zejména pro lidi s autismem, mentálním postižením či chováním náročným na péči. Podpora vhodných služeb je v&nbsp;Česku nepostačující, veřejné finance směřují hlavně do velkých ústavních zařízení.&nbsp;</p>
 <p>Dokument se zabývá i obtížnou situací rodin, které o své blízké s&nbsp;postižením pečují v&nbsp;domácím prostředí. Ty bývají často na hraně sil, peněz i sociální izolace.&nbsp;</p>
 <p>Za Českou republiku se stížností zabývá Kancelář vládního zmocněnce. Do projednávání se zapojili také ombudsman Stanislav Křeček, v&nbsp;jehož kompetenci je ochrana před diskriminací, a Vít Alexander Schorm, zástupce ombudsmana a dětského ombudsmana.&nbsp;</p>

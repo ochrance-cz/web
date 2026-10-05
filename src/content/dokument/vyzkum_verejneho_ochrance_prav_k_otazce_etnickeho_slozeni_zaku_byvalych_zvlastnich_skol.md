@@ -1,0 +1,11 @@
+---
+title: Etnické složení žáků bývalých zvláštních školl
+perex: Jaké bylo zastoupení romských žáků na bývalých zvláštních školách v roce 2012
+date: 2012-05-30T07:56:13.970Z
+vystupy:
+  - vyzkumy
+---
+
+- [Výzkum veřejného ochránce práv k otázce etnického složení žáků bývalých zvláštních škol](<https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/234-2011-DIS-MC_Vyzkumna_zprava.pdf>)
+
+Výzkum navazuje na rozhodnutí Evropského soudu pro lidská práva ve věci [D. H. proti České republice](https://hudoc.echr.coe.int/eng?i=001-160352) z roku 2007. Soud tehdy konstatoval, že Česká republika diskriminuje romské žáky, když je nadměrně zařazuje do škol a tříd pro žáky s lehkým mentálním postižením. V roce 2012 jsme navštívili 67 základních škol, kde se vzdělávali žáci s lehkým mentálním postižením. Pozorováním a úsudkem třídních učitelů jsme spočítali, že až 32 % žáků těchto škol jsou Romové. Takový podíl je nepřiměřený v porovnání s podílem Romů v české společnosti a poukazuje na přetrvávající nepřímou diskriminaci.

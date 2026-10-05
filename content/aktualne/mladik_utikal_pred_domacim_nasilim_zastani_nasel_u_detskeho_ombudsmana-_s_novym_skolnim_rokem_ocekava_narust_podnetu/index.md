@@ -12,11 +12,11 @@ perex: <p>Dospívající chlapec utekl od mámy a otčíma k babičce, protože 
   nárůst podnětů zejména z&nbsp;oblasti školství.</p>
 attachments:
   - title: Leták pro děti Dětský ombudsman – Jak ti pomůže
-    file: https://www.ochrance.cz/aktualne/uz_zacatkem_prazdnin_zacne_detsky_ombudsman_pracovat_po_boku_sveho_starsiho_sourozence_zatim_v_zastoupeni/detsky_ombudsman_letak_pro_deti.pdf
-  - file: https://www.ochrance.cz/letaky/detsky-ombudsman/detsky-ombudsman.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/uz_zacatkem_prazdnin_zacne_detsky_ombudsman_pracovat_po_boku_sveho_starsiho_sourozence_zatim_v_zastoupeni/detsky_ombudsman_letak_pro_deti.pdf
+  - file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/detsky-ombudsman/detsky-ombudsman.pdf
     title: "Leták Dětský ombudsman aneb ochránce práv dětí: co dělá a co ne?"
   - title: "Leták Dětský ombudsman: pomáhá i jinak (zvláštní oprávnění)"
-    file: https://www.ochrance.cz/letaky/detsky-ombudsman-zvlastni-opravneni/detsky-ombudsman-zvlastni-opravneni.pdf
+    file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/detsky-ombudsman-zvlastni-opravneni/detsky-ombudsman-zvlastni-opravneni.pdf
 ---
 <p>
 <i>„Musím pochválit čerstvě sedmnáctiletého chlapce, že se dokázal sám obrátit na všechna místa, která byla vhodná. Mrzí mě, že se mu ani přesto ihned nedostalo potřebné pomoci</i>,“ uvedl zástupce ombudsmana a dětského ombudsmana Vít Alexander Schorm k&nbsp;situaci, že policie mladíka odbyla s&nbsp;tím, že nic dělat nebude. Prodleva nastala i u OSPOD. Případ si totiž mezi sebou předávala dvě pracoviště a v&nbsp;době dovolených to neproběhlo nejrychleji.</p>

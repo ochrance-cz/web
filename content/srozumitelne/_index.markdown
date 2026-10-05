@@ -78,10 +78,10 @@ textcontent:
   - before: proc/index
     text: >-
       ![obrázek titulní strany příručky srozumitelného
-      psaní](/media/prirucka_titulka_na_web_mala.jpg)
+      psaní](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/media/prirucka_titulka_na_web_mala.jpg)
 
 
-      [příručka ke stažení/tisku](https://www.ochrance.cz/uploads-import/ESO/p%C5%99%C3%ADru%C4%8Dka/Prirucka_srozumitelneho_psani_tisk.pdf)
+      [příručka ke stažení/tisku](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/p%C5%99%C3%ADru%C4%8Dka/Prirucka_srozumitelneho_psani_tisk.pdf)
 
 
       Verze ke stažení/tisku neobsahuje příklady přepsaných písemností ([Písemnosti před a po](https://www.ochrance.cz/srozumitelne/prepsane_pisemnosti/)).

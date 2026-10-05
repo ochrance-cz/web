@@ -1,11 +1,9 @@
 ---
-title: Vydali jsme osobní svědectví Kamila Fouska o životě v ústavu pro lidi s
-  postižením. Stáhněte si zdarma e-knihu „Manifest o ústavní péči aneb
-  Důstojnost na příděl“
+title: "AKTUÁLNĚ: Během vánočních svátků bude osobní příjem i infolinka dostupná
+  do 22. 12. Opět se na vás budeme těšit od 5. 1. Děkujeme za pochopení."
 prefix: ""
-active: true
+active: false
 ---
-*„Autor knihy Kamil Fousek popisuje svou osobní zkušenost s životem v ústavu bez obalu. Jeho syrový a strhující příběh ukazuje, jak důležitá je pro člověka svoboda i důstojnost. Tedy něco, co statistiky nebo úřední zprávy zachytí jen těžko. Kniha ‚Manifest o ústavní péči‘ nám dává lepší možnost tomu porozumět. A právě proto jsme se ji rozhodli vydat,“* říká ombudsmanka Eva Kostolanská. 
+Chtěli bychom vás také upozornit, že z technických důvodů nyní nelze provést podání pomocí O-portálu. Po tuto  se na ombudsmana či dětského ombudsmana můžete obrátit e-mailem na podatelna@ochrance.cz. 
 
-
-[E-kniha ke stažení](https://www.ochrance.cz/dokument/kamil_fousek_manifest_o_ustavni_peci_aneb_dustojnost_na_pridel/)
+Na nápravě usilovně pracujeme. Děkujeme za pochopení.

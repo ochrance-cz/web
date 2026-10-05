@@ -21,9 +21,9 @@ perex: >
 <p><strong>Odkazy na související l</strong><strong>etáky</strong></p>
 
 <p><br />
-<a href="https://www.ochrance.cz/letaky/potrebuji-invalidni-duchod/potrebuji-invalidni-duchod.pdf">Potřebuji invalidní důchod</a></p>
+<a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/potrebuji-invalidni-duchod/potrebuji-invalidni-duchod.pdf">Potřebuji invalidní důchod</a></p>
 
-<p><a href="https://www.ochrance.cz/letaky/chci-zmenit-duchod/chci-zmenit-duchod.pdf">Chci změnit (zvýšit) důchod</a></p>
+<p><a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/letaky/chci-zmenit-duchod/chci-zmenit-duchod.pdf">Chci změnit (zvýšit) důchod</a></p>
 
 <p>&nbsp;</p>
 
