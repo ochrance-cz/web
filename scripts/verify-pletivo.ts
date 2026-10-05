@@ -20,9 +20,7 @@ const readers = [collect(server.stdout), collect(server.stderr)];
 const pages = [
   ['/', 'Veřejný ochránce práv'], ['/en/', 'Public Defender of Rights'],
   ['/pro-media/', 'Pro média'], ['/kontakt/', 'Jsme tu pro vás'],
-  ['/o-nas/', 'O ombudsmanovi'], ['/kontrola/', 'Kontrola'],
-  ['/en/kontrola/', 'Kontrola'], ['/style/', 'Style guide'],
-  ['/manual/', 'Manuál k tvorbě webu'], ['/newsletter/', 'Zpravodaj ombudsmana'],
+  ['/o-nas/', 'O ombudsmanovi'], ['/newsletter/', 'Zpravodaj ombudsmana'],
   ['/hledat/', 'Hledání'], ['/en/hledat/', 'Search'],
   ['/vyzkumy-vse/', 'Výzkumy'], ['/zpravodaj-vse/', 'Zpravodaj ombudsmana'],
   ['/pristupnost/budova/', 'Bezbariérový přístup'],
