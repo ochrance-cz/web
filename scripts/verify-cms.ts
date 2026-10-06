@@ -64,7 +64,7 @@ const fixedPages = new Set([
   'alert', 'alert-en', 'kontakt', 'kontakt-en', 'kontrola', 'kontrola-en',
   'newsletter', 'manual', 'hledat', 'hledat-en', 'pro-media',
   'provoz-kontakty', 'zpravodaj-vse',
-  'vyzkumy-vse', 'style',
+  'vyzkumy-vse', 'style', 'chatbot',
 ]);
 let saved = 0;
 let created = 0;

@@ -696,5 +696,20 @@ export const collections = {
     }),
     cms: { fragment: true, previewOf: '/en/' },
   }),
+  // One switch for the AI chatbot on every Czech and English page.
+  chatbot: defineCmsCollection({
+    loader: glob({ pattern: SINGLE, base: './src/content/chatbot' }),
+    schema: n.object({
+      date: n.date({ label: 'Datum publikace', help: 'U vypínače nemá význam, ponechte prázdné.' }).nullable().optional(),
+      title: n.text({ label: 'Název', help: 'Jen pro přehled v administraci, na webu se nezobrazuje.' }).optional(),
+      active: n.boolean({ label: 'Zobrazit chatbota', help: 'Okno AI asistenta na všech stránkách webu. Změna se projeví po nasazení, obvykle do několika minut.' }).optional().or(blank)
+        // A typo must not fail the build, or the chatbot could not be switched off.
+        .catch(ctx => {
+          console.warn(`chatbot.active: invalid value ${JSON.stringify(ctx.value)}, chatbot stays off`);
+          return undefined;
+        }),
+    }),
+    cms: { fragment: true, previewOf: '/' },
+  }),
 
 };

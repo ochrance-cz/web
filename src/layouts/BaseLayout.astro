@@ -81,6 +81,10 @@ if (!alert) {
   }
 }
 
+// AI chatbot, switched on and off in src/content/chatbot/index.yaml.
+const chatbotEntries = await getCollection('chatbot');
+const showChatbot = chatbotEntries[0]?.data.active === true;
+
 
 const GA_ID = 'G-5RPY19JN9L';
 ---
@@ -119,6 +123,8 @@ const GA_ID = 'G-5RPY19JN9L';
       gtag('js', new Date());
       gtag('config', GA_ID);
     </script>
+
+    {showChatbot && <script is:inline async src="https://aibot.nanotrix.ai/ui/ombudsman/externi/main/loader.js"></script>}
   </head>
   <body class={bodyClass}>
     <nav class="m-accessibility" aria-labelledby="m-accessibility">

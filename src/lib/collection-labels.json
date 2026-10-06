@@ -112,5 +112,8 @@
   },
   "alert-en": {
     "label": "Sitewide notice bar"
+  },
+  "chatbot": {
+    "label": "AI chatbot"
   }
 }

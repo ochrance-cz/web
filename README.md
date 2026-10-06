@@ -40,6 +40,8 @@ Většina obrázků a příloh není v repozitáři, leží na CDN. Obrázky ve 
 
 Obsah upravuje redakce v CMS Nua. CMS pracuje přímo se soubory v repozitáři: s kolekcemi v `src/content/` a s texty v komponentách stránek.
 
+AI chatbota na všech stránkách zapíná a vypíná hodnota `active` v souboru [`src/content/chatbot/index.yaml`](src/content/chatbot/index.yaml) ve větvi `main`. Smí být jen `true` (zobrazit) nebo `false` (skrýt), malými písmeny a bez uvozovek. Jiná hodnota chatbota vypne. Upravit ji jde přímo na GitHubu, nebo v CMS v kolekci AI chatbot. Po uložení se web znovu nasadí, změna je venku obvykle do několika minut. Pokud je běh „Deploy to Cloudflare“ v záložce Actions červený, změna se na web nedostala.
+
 ## Nasazení
 
 Produkční web běží na Cloudflare jako Worker se statickými soubory. Workflow `.github/workflows/deploy-cloudflare.yml` web sestaví a nasadí adresář `dist/` podle `cloudflare/wrangler.jsonc`. Spouští se po každém pushi do `main`, v pracovní dny v 6:00 UTC a ručně. Nasazuje jen v repozitáři `ochrance-cz/web`.
