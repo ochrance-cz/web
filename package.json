@@ -18,6 +18,7 @@
     "verify:pletivo": "bun scripts/verify-pletivo.ts",
     "verify:editor-content": "bun scripts/verify-editor-content.ts",
     "verify:launch": "bun scripts/verify-launch.ts",
+    "verify:file-urls": "bun scripts/verify-file-urls.ts",
     "verify:r2": "bun scripts/verify-r2-assets.ts"
   },
   "license": "ISC",

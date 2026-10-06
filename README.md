@@ -34,7 +34,7 @@ Pull requesty do `main` projdou buildem a kontrolami v `.github/workflows/pr-bui
 - `scripts/` – kontrolní skripty a jednorázové skripty z převodu webu z Hugo, ponechané kvůli dohledatelnosti
 - `content/`, `content-en/`, `data/` – obsah původního webu v Hugo, ze kterého převod vycházel. Build webu je nepoužívá.
 
-Většina obrázků a příloh není v repozitáři, web je načítá z CDN.
+Většina obrázků a příloh není v repozitáři, leží na CDN. Obrázky ve stránkách se načítají přímo odtud, přílohy vrací produkční web pod vlastní adresou.
 
 ## Úpravy obsahu
 
@@ -47,6 +47,7 @@ Produkční web běží na Cloudflare jako Worker se statickými soubory. Workfl
 Většinu adres obslouží přímo statické soubory. Worker v `cloudflare/` navíc:
 
 - zpřístupňuje adresáře `/uploads-import/` a `/uploads-deti/`, které zůstávají na původním serveru,
+- vrací pod adresou webu přílohy uložené na CDN,
 - přesměrovává adresy původního webu, které už neexistují, na jejich nové umístění.
 
 Workflow potřebuje v GitHub Actions secrets `CLOUDFLARE_API_TOKEN` a `CLOUDFLARE_ACCOUNT_ID`. Nastavení, lokální spuštění Workeru a kontroly provozu popisuje [`cloudflare/README.md`](cloudflare/README.md).

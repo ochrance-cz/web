@@ -5,6 +5,7 @@ import { remarkCzechTypography } from './src/remark/czech-typography';
 import { remarkShortcodes } from './src/remark/shortcodes';
 import { redirects } from './src/lib/redirects';
 import { mergeRedirects } from './src/lib/merge-redirects';
+import { ownOriginFiles } from './src/lib/own-origin-files';
 import { collectionLabels } from './src/lib/collection-labels';
 
 const site = process.env.DEPLOY_PRIME_URL || 'https://www.ochrance.cz/';
@@ -21,7 +22,8 @@ export default defineConfig({
   },
   redirects: Object.fromEntries(Object.entries(redirects).map(([from, destination]) => [from, { destination, status: 301 }])),
   // Runs after nua's integration, which would otherwise clobber public/_redirects.
-  integrations: [mergeRedirects()],
+  // Only the Cloudflare Worker can serve the CDN's files under the site's own paths.
+  integrations: [mergeRedirects(), ...(process.env.DEPLOY_TARGET === 'cloudflare' ? [ownOriginFiles()] : [])],
   nua: {
     // Collection data contains Markdown fields, including some historical HTML
     // tables. Disable MDX so those fields can render with rehype-raw.

@@ -10,9 +10,13 @@ import { join } from 'node:path';
 //
 // An `oldUrl` leads to the page that declares it; where that page moved, the old
 // server is asked where the URL goes today. A target is kept only when the build
-// (or the CDN behind its redirect rules) really has it.
-const ref = process.argv[2] ?? 'origin/main';
+// (or the CDN behind its redirect rules) really has it. Run it on a build without
+// DEPLOY_TARGET: the Cloudflare build drops the rules that say what is on the CDN.
+// The last commit of the Hugo site; `main` has been the Astro site since the launch.
+const ref = process.argv[2] ?? '17958d2f2';
 const LEGACY = 'https://www.soubory.ochrance.cz';
+// The Worker serves this tree under the site's own paths.
+const CDN_ASSETS = 'https://cdn.nuasite.com/assets/ochrance-web-lj8h86';
 const OWN_ORIGINS = [LEGACY, 'https://www.ochrance.cz', 'http://www.ochrance.cz'];
 // Served by the Worker from the old server, so they exist without being in the build.
 const LEGACY_FILE_PREFIXES = ['/uploads-import/', '/uploads-deti/'];
@@ -52,6 +56,10 @@ for (const line of readFileSync(join(dist, '_redirects'), 'utf8').split('\n')) {
   patternRules.push({ pattern: new RegExp(`^${source}$`), to });
 }
 
+if (!patternRules.some(rule => rule.to.startsWith(CDN_ASSETS))) {
+  throw new Error('dist/_redirects has no rules for the CDN. Run `bun run build` without DEPLOY_TARGET.');
+}
+
 /** Destination of the first placeholder rule matching `path`, as the asset layer would send it. */
 function applyPatternRule(path: string): string | null {
   for (const { pattern, to } of patternRules) {
@@ -66,6 +74,9 @@ async function existsOnCdn(url: string): Promise<boolean> {
   return response.ok;
 }
 
+/** CDN URL of a file → its path on the site; anything else stays as it is. */
+const onSite = (target: string) => (target.startsWith(CDN_ASSETS) ? target.slice(CDN_ASSETS.length) : target);
+
 /** Where the build answers `target`, or null when it would be a 404. */
 async function resolveInBuild(target: string): Promise<string | null> {
   if (isExternal(target)) return target;
@@ -75,9 +86,9 @@ async function resolveInBuild(target: string): Promise<string | null> {
   if (isFile(join(dist, decoded, 'index.html'))) return `${stripSlash(path)}/${suffix}`.replace(/^\/\//, '/');
   if (isFile(join(dist, decoded))) return target;
   const exact = exactRules.get(stripSlash(decoded));
-  if (exact) return exact;
+  if (exact) return onSite(exact);
   const onCdn = applyPatternRule(decoded);
-  return onCdn && (await existsOnCdn(onCdn)) ? onCdn : null;
+  return onCdn && (await existsOnCdn(onCdn)) ? onSite(onCdn) : null;
 }
 
 async function legacyLocation(path: string): Promise<string | null> {

@@ -1,13 +1,15 @@
+import { FILE_PATH } from './file-path';
 import legacyRedirects from './legacy-redirects.json';
 
 // The site itself is static: Cloudflare serves `dist/` without running this code.
-// The Worker only covers what the old Apache did around the site: the file trees
-// the office still uploads to on the old server, and redirects from retired URLs.
+// The Worker covers what is not in the build: the file trees the office still
+// uploads to on the old server, the files kept on the CDN, and redirects from
+// retired URLs.
 interface Env {
   ASSETS: { fetch(request: Request): Promise<Response> };
   /** Old server, reachable only under this name: the www host now points to Cloudflare. */
   LEGACY_ORIGIN: string;
-  /** R2 snapshot of the legacy file trees, used when the old server has no answer. */
+  /** R2 with the files moved out of the repository, under the same paths as on the site. */
   CDN_ASSETS: string;
 }
 
@@ -30,7 +32,7 @@ const LEGACY_PATH_REWRITES: Array<{ pattern: RegExp; to: string; dropQuery?: boo
   { pattern: /^\/dalsi-aktivity\/archiv-vzdelavacich-akci.*$/, to: '/vzdelavaci-akce/', dropQuery: true },
 ];
 
-const LEGACY_TIMEOUT_MS = 10_000;
+const ORIGIN_TIMEOUT_MS = 10_000;
 // Cache API refuses bigger objects on Free/Pro; the videos in /uploads-import/ go straight through.
 const MAX_CACHED_BYTES = 100 * 1024 * 1024;
 // One hour at the edge so a file replaced under the same name shows up the same day.
@@ -52,42 +54,54 @@ export default {
     }
 
     if (LEGACY_FILE_PREFIXES.some(prefix => url.pathname.startsWith(prefix))) {
-      return serveLegacyFile(request, url, env, ctx);
+      return serveFile(request, url, env, ctx, true);
     }
 
     // Nothing of ours: the asset layer still applies its own _redirects.
     const response = await env.ASSETS.fetch(request);
-    return response.status === 404 ? notFound(url, env) : response;
+    if (response.status !== 404) return response;
+    // The build links to its files under the site's own address; they live on the CDN.
+    return FILE_PATH.test(url.pathname) ? serveFile(request, url, env, ctx, false) : notFound(url, env);
   },
 };
 
-async function serveLegacyFile(request: Request, url: URL, env: Env, ctx: Context): Promise<Response> {
+async function serveFile(
+  request: Request,
+  url: URL,
+  env: Env,
+  ctx: Context,
+  onLegacyServer: boolean
+): Promise<Response> {
   if (request.method !== 'GET' && request.method !== 'HEAD') {
     return new Response('Method Not Allowed', { status: 405, headers: { Allow: 'GET, HEAD' } });
   }
 
-  // The query string never selected a different file on the old server.
+  // The query string never selected a different file, on the old server or on the CDN.
   const cacheUrl = url.origin + url.pathname;
   const cache = (caches as unknown as { default: Cache }).default;
   const cached = await cache.match(new Request(cacheUrl, { headers: conditionalHeaders(request) }));
   if (cached) return forMethod(request, withSource(cached, 'cache'));
 
-  const legacy = await fetchFile(env.LEGACY_ORIGIN + url.pathname, request);
-  if (legacy && legacy.status >= 300 && legacy.status < 400 && legacy.status !== 304) {
-    return rewriteLegacyRedirect(legacy, env);
-  }
-  if (legacy && isFile(legacy)) {
-    return forMethod(request, store(legacy, 'legacy', request, cacheUrl, cache, ctx));
+  let legacyIsDown = false;
+  if (onLegacyServer) {
+    const legacy = await fetchFile(env.LEGACY_ORIGIN + url.pathname, request);
+    if (legacy && legacy.status >= 300 && legacy.status < 400 && legacy.status !== 304) {
+      return rewriteLegacyRedirect(legacy, env);
+    }
+    if (legacy && isFile(legacy)) {
+      return forMethod(request, store(legacy, 'legacy', request, cacheUrl, cache, ctx));
+    }
+    legacyIsDown = isDown(legacy);
   }
 
-  const snapshot = await fetchFile(env.CDN_ASSETS + url.pathname, request);
-  if (snapshot && isFile(snapshot)) {
-    return forMethod(request, store(snapshot, 'cdn', request, cacheUrl, cache, ctx));
+  // For the legacy trees the CDN only holds a snapshot, used when the old server has no answer.
+  const cdn = await fetchFile(env.CDN_ASSETS + url.pathname, request);
+  if (cdn && isFile(cdn)) {
+    return forMethod(request, store(cdn, 'cdn', request, cacheUrl, cache, ctx));
   }
 
-  // A file that may well exist must not be reported as gone just because the old server is down.
-  const legacyIsDown = !legacy || legacy.status >= 500 || legacy.status === 429;
-  if (legacyIsDown) {
+  // A file that may well exist must not be reported as gone just because its origin is down.
+  if (legacyIsDown || isDown(cdn)) {
     return new Response('Soubor je dočasně nedostupný.', {
       status: 503,
       headers: { 'Content-Type': 'text/plain; charset=utf-8', 'Retry-After': '300', 'Cache-Control': 'no-store' },
@@ -106,9 +120,11 @@ async function notFound(url: URL, env: Env): Promise<Response> {
 async function fetchFile(target: string, request: Request): Promise<Response | null> {
   const controller = new AbortController();
   // Guards the wait for headers only; a large download must not be cut off mid-stream.
-  const timer = setTimeout(() => controller.abort(), LEGACY_TIMEOUT_MS);
+  const timer = setTimeout(() => controller.abort(), ORIGIN_TIMEOUT_MS);
   try {
     return await fetch(target, {
+      // A HEAD must not make the origin send the whole file.
+      method: request.method,
       headers: conditionalHeaders(request),
       redirect: 'manual',
       signal: controller.signal,
@@ -131,6 +147,10 @@ function conditionalHeaders(request: Request): Headers {
 
 function isFile(response: Response): boolean {
   return response.status === 200 || response.status === 206 || response.status === 304;
+}
+
+function isDown(response: Response | null): boolean {
+  return !response || response.status >= 500 || response.status === 429;
 }
 
 function store(

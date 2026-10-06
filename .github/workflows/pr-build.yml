@@ -37,3 +37,12 @@ jobs:
           bun run verify:r2
           bun run verify:preview-routes
           bun run verify:pletivo
+
+      # The checks above look at the build as Nua previews serve it; production
+      # rewrites file links, and a failure there would otherwise first block a deploy.
+      - name: Build for Cloudflare
+        env:
+          DEPLOY_TARGET: cloudflare
+        run: |
+          bun run build
+          bun run verify:file-urls

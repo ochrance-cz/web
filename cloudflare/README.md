@@ -12,11 +12,13 @@ www.ochrance.cz  CNAME  fallback.domekpolopate.cz   (DNS u regzone)
         ▼
 Cloudflare, zóna domekpolopate.cz, route www.ochrance.cz/*
         │
-        ├─ soubor z dist/ existuje ............ statický asset, Worker se nespouští
         ├─ /uploads-import/*, /uploads-deti/* .. Worker → https://www.soubory.ochrance.cz (VPS Zoner)
         │                                        když VPS neodpoví nebo soubor nemá → kopie na cdn.nuasite.com
+        ├─ pravidlo v _redirects z buildu ...... přesměrování bez Workeru
+        ├─ soubor z dist/ existuje ............. statický asset, Worker se nespouští
         ├─ staré URL (TYPO3, .htaccess) ........ Worker → 301 podle src/legacy-redirects.json
-        └─ cokoli jiného ....................... _redirects z buildu, jinak stránka 404
+        ├─ jiná cesta s příponou souboru ....... Worker → stejná cesta na cdn.nuasite.com
+        └─ cokoli jiného ....................... stránka 404
 
 deti.ochrance.cz CNAME fallback.domekpolopate.cz → Worker ochrance-deti, jen statické soubory
 
@@ -48,31 +50,69 @@ mimo kopii na CDN vrátí 503.
 Worker si soubory z VPS drží hodinu v cache Cloudflare, aby server dostával
 jen zlomek požadavků.
 
+## Soubory z CDN pod adresou webu
+
+Přílohy a obrázky webu leží na R2 v účtu Nua (`cdn.nuasite.com`), pod stejnými
+cestami, jaké měly na starém webu. Obsah v repozitáři na ně odkazuje adresou
+CDN, protože jen ta funguje v náhledech Nua a v CMS.
+
+Produkční build (`DEPLOY_TARGET=cloudflare`, nastavuje ho deploy workflow) tyto
+adresy upraví krokem `../src/lib/own-origin-files.ts`:
+
+- odkazy na soubory (`href`) vedou na cestu na webu, například
+  `/info106/2013/soubor.pdf`. Stejné cesty mají i kopie stránek v Markdownu,
+  které Nua odvozuje z hotového HTML,
+- adresy mimo odkazy (RSS, vypsaný text) dostanou `https://www.ochrance.cz`,
+- všechno vložené do stránky přes `src` (obrázky, video) zůstává na CDN, jinak
+  by každé zobrazení spouštělo Worker,
+- z `_redirects` zmizí pravidla, která staré cesty souborů posílala na CDN.
+
+Worker pak cestu s příponou, kterou build neobsahuje, stáhne z CDN a vrátí pod
+adresou webu, s hlavičkou `x-ochrance-source: cdn`. Hodinu ji drží v cache
+stejně jako soubory z VPS. Když soubor na CDN není, vrátí stránku 404, a když
+CDN neodpovídá, 503.
+
+Co je „cesta s příponou", určuje `src/file-path.ts`. Stejné pravidlo používá
+build, takže odkaz na soubor bez přípony nechá na CDN, kde funguje.
+
+Odkazy do `/uploads-import/` (zhruba čtvrtina souborů včetně skoro všech videí)
+jdou jako každý požadavek na tento adresář nejdřív na VPS a teprve potom na
+CDN. Soubor nahrazený na VPS pod stejným jménem se tak na webu projeví, ale
+když VPS neodpovídá, čeká se na kopii z CDN až 10 sekund.
+
+Redakce nic nemění: soubory dál nahrává v CMS a v obsahu zůstává adresa CDN.
+`bun run verify:file-urls` po produkčním buildu ověří, že je přepis úplný.
+Pouští ho deploy i kontrola pull requestů.
+
 ## Co je v repozitáři
 
 | Soubor | K čemu |
 | --- | --- |
 | `wrangler.jsonc` | Worker, assety z `../dist`, route, adresy VPS a CDN |
-| `src/index.ts` | proxy živých adresářů, stará přesměrování, stránka 404 |
+| `src/index.ts` | proxy živých adresářů a souborů z CDN, stará přesměrování, stránka 404 |
+| `src/file-path.ts` | pravidlo, které cesty Worker hledá na CDN; sdílí ho s buildem |
 | `src/legacy-redirects.json` | 1 885 starých URL → nové (generovaný soubor) |
 | `scripts/build-legacy-redirects.ts` | generátor přesměrování |
+| `../src/lib/own-origin-files.ts` | produkční build: odkazy na soubory vedou na web, ne na CDN |
 | `../public/_headers` | bezpečnostní hlavičky a cache statických souborů |
 | `setup-zone.sh` | nastavení zóny a custom hostnames přes `cf` CLI |
 | `../.github/workflows/deploy-cloudflare.yml` | build a deploy z `main` v `ochrance-cz/web` |
 
-Přesměrování se generují ze starého Hugo repozitáře (`ochrance-cz/web`, remote
-`origin`): z ručních pravidel v `layouts/index.htaccess` a z `oldUrl` jednotlivých
-stránek. Cíl se zapíše jen tehdy, když ho nový build opravdu obsahuje.
+Přesměrování se generují z posledního commitu původního webu v Hugo
+(`17958d2f2`): z ručních pravidel v `layouts/index.htaccess` a z `oldUrl`
+jednotlivých stránek. Cíl se zapíše jen tehdy, když ho nový build opravdu
+obsahuje. Generátor potřebuje build bez `DEPLOY_TARGET`, protože z pravidel
+v `_redirects` zjišťuje, co je na CDN. Na produkčním buildu skončí chybou.
 
 ```bash
 bun run build
-bun cloudflare/scripts/build-legacy-redirects.ts            # volitelně ref, výchozí origin/main
+bun cloudflare/scripts/build-legacy-redirects.ts            # volitelně jiný ref
 ```
 
 ## Lokální spuštění
 
 ```bash
-bun run build
+DEPLOY_TARGET=cloudflare bun run build
 cd cloudflare
 ulimit -n 61000
 CHOKIDAR_USEPOLLING=true npx wrangler dev --port 8799
@@ -158,6 +198,9 @@ curl -sI "$H/uploads-import/ESO/Stanovisko%20final.pdf" \
 curl -sI $H/uploads-deti/user_upload/Prilohy/navod__1_.pdf | head -1 # 200
 curl -sI $H/fileadmin/user_upload/ESO/6059-2015-IP-Z.pdf \
   | grep -iE 'HTTP|location'                                         # 301 → /uploads-import/…
+curl -sI $H/info106/2009/2009-datova_schranka.pdf \
+  | grep -iE 'HTTP|x-ochrance-source'                                # 200, cdn nebo cache
+curl -s $H/info106/2009/ | grep -c 'href="https://cdn.nuasite.com'   # 0
 curl -sI $H/kontakty/ | grep -iE 'HTTP|location'                     # 301 → /kontakt/
 curl -sI http://ochrance.cz/ | grep -iE 'HTTP|location'              # 301 → https (VPS)
 
@@ -197,9 +240,13 @@ odmítá.
   Každá nová stránka přidá zhruba tři. Workers Paid (5 USD měsíčně) limit
   zvedá na 100 000.
 - Statické soubory se do denního limitu 100 000 požadavků Workeru nepočítají.
-  Worker běží jen pro živé adresáře a pro adresy, které v buildu nejsou. Po
-  vyčerpání limitu vrací tyto adresy 429, statický web běží dál.
-- `_redirects` smí mít 2 000 statických a 100 dynamických pravidel, build má
-  574 a 27. Proto jsou stará přesměrování ve Workeru, ne v `_redirects`.
+  Worker běží pro živé adresáře, pro soubory z CDN a pro adresy, které v buildu
+  nejsou. Počítá se i stažení, které Worker vyřídí z cache. Za prvních 19 hodin po spuštění, ještě bez souborů z CDN, to bylo
+  30 714 požadavků. Po vyčerpání limitu vrací tyto adresy 429, statický web běží
+  dál. Workers Paid (5 USD měsíčně) má v ceně 10 milionů požadavků měsíčně.
+- `_redirects` smí mít 2 000 statických a 100 dynamických pravidel, produkční
+  build má 164 statických. Proto jsou stará přesměrování ve Workeru, ne
+  v `_redirects`.
 - Média webu zůstávají na `cdn.nuasite.com` (R2 v účtu Nua), web odkazuje
-  na zhruba 6 400 souborů.
+  na zhruba 6 400 souborů. Pod adresou webu je vrací Worker, vložené obrázky
+  a videa načítá prohlížeč přímo z CDN.

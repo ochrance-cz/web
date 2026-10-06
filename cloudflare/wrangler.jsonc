@@ -12,8 +12,9 @@
     // looks it up among the old URLs before answering with the 404 page.
     //
     // Everything that has an asset is served without running the Worker. These
-    // prefixes would otherwise be caught by the wildcard rules in _redirects and
-    // sent to the incomplete R2 snapshot.
+    // prefixes always run it: the old server has their current files, also the
+    // few with a copy in the build. A build without DEPLOY_TARGET=cloudflare
+    // would moreover redirect them to the incomplete R2 snapshot.
     "run_worker_first": ["/uploads-import/*", "/uploads-deti/*", "/fileadmin/user_upload/*", "/uploads/*"]
   },
   // workers.dev stays on so the build can be checked before the DNS cutover.

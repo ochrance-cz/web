@@ -45,9 +45,12 @@ jobs:
           bun-version: 1.3.13
 
       - name: Build
+        env:
+          DEPLOY_TARGET: cloudflare
         run: |
           bun install --frozen-lockfile
           bun run build
+          bun run verify:file-urls
 
       # Static assets are uploaded by content hash, so only changed files travel.
       - name: Deploy
