@@ -42,6 +42,13 @@ export default {
   async fetch(request: Request, env: Env, ctx: Context): Promise<Response> {
     const url = new URL(request.url);
 
+    // New CMS uploads share /uploads/ with old TYPO3 URLs. Serve files in the
+    // current build before applying the historical rewrite for missing files.
+    if (url.pathname.startsWith('/uploads/')) {
+      const asset = await env.ASSETS.fetch(request);
+      if (asset.status !== 404) return asset;
+    }
+
     // First, as on the old server: an old leaflet URL leads to its current version,
     // not to the stale file the path rewrite below would find.
     const target = redirects[url.pathname.replace(/\/+$/, '') || '/'];
