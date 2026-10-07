@@ -1,7 +1,9 @@
 ---
-title: 'Hlas společnosti uvnitř Kanceláře ombudsmana: Sestavili jsme poradní orgány'
-date: 2026-09-30T08:49:00.000Z
-perex: "Vybrali jsme kandidáty do poradních orgánů ombudsmanky a jejího zástupce. Ombudsmanka sestavila poradní orgán pro lidská práva. Zástupce ombudsmanů pak pro práva lidí s\_postižením. Ke kandidátům se teď může veřejnost vyjádřit."
+title: "Hlas společnosti uvnitř Kanceláře ombudsmana: Sestavili jsme poradní orgány"
+date: '2026-09-30T08:49:00.000Z'
+perex: Vybrali jsme kandidáty do poradních orgánů ombudsmanky a jejího zástupce.
+  Ombudsmanka sestavila poradní orgán pro lidská práva. Zástupce ombudsmanů pak
+  pro práva lidí s postižením. Ke kandidátům se teď může veřejnost vyjádřit.
 kategorie:
   - aktualita
 ---
@@ -11,7 +13,7 @@ Při sestavování poradního orgánu jsme kladli důraz na zastoupení odlišn�
 
 Jaký je váš názor na vybrané kandidáty? Veřejná konzultace se týká níže uvedených členek a členů. Svou zpětnou vazbu můžete poslat na e-mail [Poradni.NHRI@ochrance.cz](mailto:Poradni.CRPD@ochrance.cz) do 14. 10. 2026.
 
-\{\{\< rozbal "Medailonky kandidátů" \>\}\}
+\{\{\< rozbal "Medailonky kandidátů" >}}
 
 **Daniel Bartoň**
 
@@ -47,7 +49,7 @@ Psychiatr, sexuolog a manažer ve zdravotnictví. Působil jako ředitel Psychia
 
 **Barbora Křižanová**
 
-Manažerka Iniciativy 8000důvodů Nadace J&T, téměř patnáct let zkušeností v oblasti advokační činnosti zaměřené na problematiku ohrožených dětí včetně dětí s postižením, specializuje se na transformaci systému péče o ohrožené děti. Pracovala v mezinárodní organizaci Lumos.
+Manažerka Iniciativy 8000důvodů Nadace J\&T, téměř patnáct let zkušeností v oblasti advokační činnosti zaměřené na problematiku ohrožených dětí včetně dětí s postižením, specializuje se na transformaci systému péče o ohrožené děti. Pracovala v mezinárodní organizaci Lumos.
 
 **Iva Kuchyňková**
 
@@ -107,13 +109,9 @@ Socioložka a sociální gerontoložka. Jako odborná asistentka působí na kat
 
  
 
- 
+\{\{\< /rozbal >}}
 
-\{\{\< /rozbal \>\}\}
-
- 
-
-\{\{\< rozbal "Stálí hosté" \>\}\}
+\{\{\< rozbal "Stálí hosté" >}}
 
 Kateřina Bursíková Jacques
 
@@ -135,9 +133,7 @@ Ivana Veselá 
 
  
 
- 
-
-\{\{\< /rozbal \>\}\}
+\{\{\< /rozbal >}}
 
 **Poradní orgán pro práva lidí s postižením** 
 
@@ -145,7 +141,7 @@ Ivana Veselá 
 
 Budeme rádi za Vaši zpětnou vazbu. Veřejné konzultace se týká níže uvedených členek a členů. Svou zpětnou vazbu můžete poslat na e-mail [Poradni.CRPD@ochrance.cz](mailto:Poradni.CRPD@ochrance.cz) do 14. 10. 2026.
 
-\{\{\< rozbal "Medailonky kandidátů" \>\}\}
+\{\{\< rozbal "Medailonky kandidátů" >}}
 
 **Karin Bednarzová**
 
@@ -161,7 +157,7 @@ Sebeobhájce, který se věnuje prosazování práv lidí s mentálním postiže
 
 **Natálie Ficencová**
 
-Vedoucí pro rozvoj a vnější vztahy v Amnesty International, kde vede lidskoprávní vzdělávání. Už přes dvanáct let se věnuje podpoře upozaďovaných skupin, zejména v oblasti práv lidí s postižením, neurodivergence a rovnosti. Je také bývalou osobní asistentkou, autistickou sebeobhájkyní, autorkou blogu www.zrzi.cz a osvojitelkou tří romských dětí, z nichž jedno má kombinované postižení.
+Vedoucí pro rozvoj a vnější vztahy v Amnesty International, kde vede lidskoprávní vzdělávání. Už přes dvanáct let se věnuje podpoře upozaďovaných skupin, zejména v oblasti práv lidí s postižením, neurodivergence a rovnosti. Je také bývalou osobní asistentkou, autistickou sebeobhájkyní, autorkou blogu [www.zrzi.cz](http://www.zrzi.cz) a osvojitelkou tří romských dětí, z nichž jedno má kombinované postižení.
 
 **Nicole Fryčová**
 
@@ -219,24 +215,14 @@ Student politologie, vášnivý dobrovolník, který žije se zbytky zraku. Chce
 
 Studentka šestiletého studijního oboru na Gymnáziu Olomouc-Hejčín. Má osobní zkušenost s dětskou mozkovou obrnou a epilepsií. Ve volném čase se věnuje paraplavání. Několik let se podílela na projektu inkluzivního hřiště, rok působila v poradní skupině mladých lidí UNICEF (Youth Advisory Board) a pracuje jako vedoucí na vědeckotechnických příměstských táborech Geniátor.
 
- 
-
- 
+ ![ae2a2d06-a20b-4044-b4d8-68915e16c9f5.png](/uploads/ae2a2d06-a20b-4044-b4d8-68915e16c9f5.png "něco")
 
  
 
- 
+ 
 
  
 
- 
-
- 
-
- 
-
-\{\{\< /rozbal \>\}\}
-
- 
+\{\{\< /rozbal >}}
 
 ::youtube{#F23VfHAzVog}
