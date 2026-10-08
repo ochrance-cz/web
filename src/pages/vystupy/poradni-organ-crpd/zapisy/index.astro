@@ -1,0 +1,8 @@
+---
+import { getEntry } from 'astro:content';
+import CrpdDocuments from '../../../../components/CrpdDocuments.astro';
+
+const term = await getEntry('vystupy', 'poradni-organ-crpd');
+if (!term) throw new Error('Chybí kategorie poradni-organ-crpd');
+---
+<CrpdDocuments term={term} mode="zapisy" />
