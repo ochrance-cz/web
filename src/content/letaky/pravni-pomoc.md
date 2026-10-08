@@ -2,5 +2,5 @@
 title: "Právní pomoc "
 situace:
   - pravni-pomoc-a-poradenstvi
-file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/media/letaky/pravni-pomoc/pravni-pomoc.pdf
+file: /uploads/422fdf91-be7b-4aa4-97bd-f96887c3df1e.pdf
 ---
