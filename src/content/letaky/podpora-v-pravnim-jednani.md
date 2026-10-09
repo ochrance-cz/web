@@ -3,5 +3,5 @@ title: Podpora v právním jednání
 situace:
   - lide-se-zdravotnim-postizenim
   - pravni-pomoc-a-poradenstvi
-file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/media/letaky/podpora_v_pravnim_jednani/podpora-v-pravnim-jednani.pdf
+file: /uploads/6fed3543-153e-4b38-9c5f-c768fef47350.pdf
 ---
