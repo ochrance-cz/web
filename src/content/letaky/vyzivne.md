@@ -2,5 +2,5 @@
 title: "Výživné na dítě "
 situace:
   - rodina
-file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/media/letaky/vyzivne/vyzivne.pdf
+file: /uploads/3b8b38ed-b1af-4cd6-b9b0-dd420e630193.pdf
 ---
