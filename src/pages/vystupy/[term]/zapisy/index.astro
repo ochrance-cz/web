@@ -1,0 +1,14 @@
+---
+import type { GetStaticPaths } from 'astro';
+import { getCollection } from 'astro:content';
+import AdvisoryBodyDocuments from '../../../../components/AdvisoryBodyDocuments.astro';
+import { advisoryBodies } from '../../../../lib/advisory-bodies';
+
+export const getStaticPaths = (async () => {
+  const terms = await getCollection('vystupy', (term) => advisoryBodies.has(term.id));
+  return terms.map((term) => ({ params: { term: term.id }, props: { term } }));
+}) satisfies GetStaticPaths;
+
+const { term } = Astro.props;
+---
+<AdvisoryBodyDocuments term={term} mode="zapisy" />
