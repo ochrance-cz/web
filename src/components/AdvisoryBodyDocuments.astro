@@ -13,10 +13,11 @@ interface Props {
 }
 const { term, mode = 'usneseni' } = Astro.props;
 const title = term.data.plural ?? term.data.title;
+const base = `/vystupy/${term.id}/`;
 const perexHtml = term.data.perex ? await renderMarkdown(term.data.perex) : '';
 const isMinute = (entry: CollectionEntry<'dokument'>) => /^Zápis\b/iu.test(entry.data.title);
 const documents = (await getCollection('dokument', (entry) => !entry.data.draft))
-  .filter((entry) => entry.data.vystupy?.includes('poradni-organ-crpd'))
+  .filter((entry) => entry.data.vystupy?.includes(term.id))
   .filter((entry) => mode === 'zapisy' ? isMinute(entry) : !isMinute(entry))
   .sort((a, b) => new Date(b.data.date ?? 0).getTime() - new Date(a.data.date ?? 0).getTime());
 const yearOf = (entry: CollectionEntry<'dokument'>) => entry.data.date
@@ -33,16 +34,16 @@ const years = [...new Set(documents.map(yearOf))].map((year) => ({
 <BaseLayout title={title} lang="cs">
   <main data-pagefind-body>
     <PicHeader title={title} illustration={term.data.illustration} />
-    {perexHtml && <section class="perex crpd-section" set:html={perexHtml} />}
-    <section class="_news single-col crpd-section">
-      <nav aria-label="Zobrazení dokumentů poradního orgánu CRPD">
+    {perexHtml && <section class="perex advisory-section" set:html={perexHtml} />}
+    <section class="_news single-col advisory-section">
+      <nav aria-label={`Zobrazení dokumentů: ${title}`}>
         <ul class="_horizontal-list">
-          <li><a href="/vystupy/poradni-organ-crpd/" class={mode === 'usneseni' ? 'selected' : undefined} aria-current={mode === 'usneseni' ? 'page' : undefined}>Usnesení</a></li>
-          <li><a href="/vystupy/poradni-organ-crpd/zapisy/" class={mode === 'zapisy' ? 'selected' : undefined} aria-current={mode === 'zapisy' ? 'page' : undefined}>Zápisy</a></li>
+          <li><a href={base} class={mode === 'usneseni' ? 'selected' : undefined} aria-current={mode === 'usneseni' ? 'page' : undefined}>Usnesení</a></li>
+          <li><a href={`${base}zapisy/`} class={mode === 'zapisy' ? 'selected' : undefined} aria-current={mode === 'zapisy' ? 'page' : undefined}>Zápisy</a></li>
         </ul>
       </nav>
       {years.map(({ year, entries }, index) => (
-        <Collapsible title={year} id={`crpd-${mode}-${year === 'Bez data' ? 'undated' : year}`} open={index === 0}>
+        <Collapsible title={year} id={`${term.id}-${mode}-${year === 'Bez data' ? 'undated' : year}`} open={index === 0}>
           {entries.map((entry) => (
             <NewsPreview
               href={`/dokument/${entry.id}/`}
@@ -55,12 +56,13 @@ const years = [...new Set(documents.map(yearOf))].map((year) => ({
           ))}
         </Collapsible>
       ))}
+      {years.length === 0 && <p>Zatím zde nejsou žádné dokumenty.</p>}
     </section>
   </main>
 </BaseLayout>
 
 <style>
-  .crpd-section {
+  .advisory-section {
     margin: 3rem auto;
   }
 </style>
