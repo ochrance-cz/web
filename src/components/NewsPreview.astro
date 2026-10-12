@@ -48,7 +48,7 @@ const perexHtml = perex ? await renderMarkdown(perex) : '';
     {date && showMeta && (
       <p class="details">
         <FormattedDate date={date} locale={locale} />
-        <Tags tags={tags} />
+        <Tags tags={tags} locale={locale} />
       </p>
     )}
 

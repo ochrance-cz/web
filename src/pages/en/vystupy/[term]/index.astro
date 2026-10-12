@@ -10,6 +10,7 @@ import PicHeader from '../../../../components/PicHeader.astro';
 import NewsPreview from '../../../../components/NewsPreview.astro';
 import { renderMarkdown } from '../../../../lib/markdown';
 import { url } from '../../../../lib/paths';
+import InternationalStatements from '../../../../components/InternationalStatements.astro';
 
 export const getStaticPaths = (async () => {
   const terms = (await getCollection('vystupy-en')) ?? [];
@@ -45,7 +46,7 @@ const items = [...aktualne, ...dokument].sort((a, b) => {
 const headerTitle = term.data.plural ?? term.data.title;
 const perexHtml = term.data.perex ? await renderMarkdown(term.data.perex) : '';
 ---
-<BaseLayout title={headerTitle} lang="en">
+{term.id === 'statements-to-international-bodies' ? <InternationalStatements mode="type" locale="en" /> : <BaseLayout title={headerTitle} lang="en">
   <main>
     <PicHeader title={headerTitle} illustration={term.data.illustration} />
     <section>
@@ -65,4 +66,4 @@ const perexHtml = term.data.perex ? await renderMarkdown(term.data.perex) : '';
       ))}
     </section>
   </main>
-</BaseLayout>
+</BaseLayout>}

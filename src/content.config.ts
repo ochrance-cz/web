@@ -150,6 +150,7 @@ export const collections = {
       date: n.date({ label: 'Publication date' }).orderBy('desc').nullable().optional(),
       perex: n.textarea({ label: 'Lead' }).optional(),
       vystupy: n.array(reference('vystupy-en'), { label: 'Output categories', help: 'Select existing categories. Add a new one in the Output categories collection.' }).optional().transform(referenceIds),
+      organ: n.enum(['CEDAW', 'OHCHR'], { label: 'International body', help: 'Only for statements to international bodies.' }).optional(),
       file: n.file({ label: 'File for the Download document button', help: 'Optional file shown as a separate button below the text. Insert other file links directly into the document text.' }).optional(),
     }),
     cms: { pathname: [{ literal: 'en' }, { literal: 'dokument' }, { field: 'slug' }] },
