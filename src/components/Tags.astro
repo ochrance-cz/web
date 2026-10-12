@@ -6,13 +6,14 @@ import { getCollection } from 'astro:content';
 
 interface Props {
   tags?: string[];
+  locale?: 'cs' | 'en';
 }
 
-const { tags = [] } = Astro.props;
+const { tags = [], locale = 'cs' } = Astro.props;
 
 let titleByKey = new Map<string, string>();
 try {
-  const terms = await getCollection('vystupy' as any);
+  const terms = await getCollection((locale === 'en' ? 'vystupy-en' : 'vystupy') as any);
   titleByKey = new Map(terms.map((t: any) => [t.id, String(t.data.title ?? t.id)]));
 } catch {
   /* vystupy collection missing — fall back to raw keys */
