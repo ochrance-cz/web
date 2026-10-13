@@ -25,6 +25,14 @@ const {
 
 const fullTitle = `${title} | Ombudsman`;
 const ogLocale = lang === 'en' ? 'en_US' : 'cs_CZ';
+
+// Social networks need absolute URLs; pages without their own image share the homepage hero.
+const base = Astro.site ?? Astro.url;
+const ogUrl = canonical ?? new URL(Astro.url.pathname, base).href;
+const ogImageUrl = new URL(ogImage ?? (lang === 'en' ? '/images/og-default-en.jpg' : '/images/og-default.jpg'), base).href;
+const ogImageAlt = ogImage ? fullTitle : lang === 'en'
+  ? 'Ombudsman – Public Defender of Rights: Being here for everyone'
+  : 'Ombudsman – veřejný ochránce práv: Pomáháme bez rozdílu';
 ---
 {description && <meta name="description" content={description} />}
 {canonical && <link rel="canonical" href={canonical} />}
@@ -34,13 +42,17 @@ const ogLocale = lang === 'en' ? 'en_US' : 'cs_CZ';
 {description && <meta property="og:description" content={description} />}
 <meta property="og:site_name" content={siteName} />
 <meta property="og:locale" content={ogLocale} />
-{canonical && <meta property="og:url" content={canonical} />}
-{ogImage && <meta property="og:image" content={ogImage} />}
+<meta property="og:url" content={ogUrl} />
+<meta property="og:image" content={ogImageUrl} />
+{!ogImage && <meta property="og:image:width" content="1200" />}
+{!ogImage && <meta property="og:image:height" content="630" />}
+<meta property="og:image:alt" content={ogImageAlt} />
 
-<meta name="twitter:card" content={ogImage ? 'summary_large_image' : 'summary'} />
+<meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:title" content={fullTitle} />
 {description && <meta name="twitter:description" content={description} />}
-{ogImage && <meta name="twitter:image" content={ogImage} />}
+<meta name="twitter:image" content={ogImageUrl} />
+<meta name="twitter:image:alt" content={ogImageAlt} />
 
 {alternates.map((alt) => (
   <link rel="alternate" hreflang={alt.lang} href={alt.href} />
