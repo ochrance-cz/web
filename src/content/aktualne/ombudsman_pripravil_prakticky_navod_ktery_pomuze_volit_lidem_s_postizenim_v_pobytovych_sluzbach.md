@@ -11,7 +11,9 @@ kategorie:
 ---
 Desatero pomůže poskytovatelům pobytových sociálních služeb podpořit jejich klienty ve výkonu volebního práva.
 
-![volby-1.jpg](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/ombudsman_pripravil_prakticky_navod_ktery_pomuze_volit_lidem_s_postizenim_v_pobytovych_sluzbach/volby-1.jpg)![volby2.jpg](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/ombudsman_pripravil_prakticky_navod_ktery_pomuze_volit_lidem_s_postizenim_v_pobytovych_sluzbach/volby2.jpg)
+![volby-1.jpg](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/ombudsman_pripravil_prakticky_navod_ktery_pomuze_volit_lidem_s_postizenim_v_pobytovych_sluzbach/volby-1.jpg)
+
+![volby2.jpg](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/ombudsman_pripravil_prakticky_navod_ktery_pomuze_volit_lidem_s_postizenim_v_pobytovych_sluzbach/volby2.jpg)
 
 Ombudsman se dlouhodobě věnuje zajištění efektivního výkonu volebního práva pro lidi s postižením. V minulosti například vydal [doporučení pro podporu voličů v pobytových sociálních zařízeních](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/32_2020_OZP__OK_doporu%C4%8Den%C3%AD%20-%20volby%20final_001.pdf). Také vytvořil [dotazník pro obce](https://www.ochrance.cz/aktualne/jaka_jsou_uskali_pristupnosti_voleb_s_naplnenim_volebniho_prava_mohou_mit_problem_nejen_lide_s_postizenim_ale_napriklad_i_ti_omezeni_na_svobode/), jehož vyplnění může občanům přiblížit, jak v dané obci přístupně volit.
 

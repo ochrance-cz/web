@@ -6,6 +6,7 @@ import rehypeRaw from 'rehype-raw';
 import rehypeStringify from 'rehype-stringify';
 import { VFile } from 'vfile';
 import { legacyImageAttributes } from '../remark/legacy-image-attributes';
+import { bodyGalleries } from '../remark/body-galleries';
 import { remarkCzechTypography } from '../remark/czech-typography';
 import { remarkShortcodes } from '../remark/shortcodes';
 
@@ -20,6 +21,7 @@ const processor = unified()
   .use(remarkRehype, { allowDangerousHtml: true })
   .use(rehypeRaw)
   .use(legacyImageAttributes)
+  .use(bodyGalleries)
   .use(rehypeStringify, { allowDangerousHtml: true });
 
 /**

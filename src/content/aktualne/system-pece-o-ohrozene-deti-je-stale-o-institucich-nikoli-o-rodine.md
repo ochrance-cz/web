@@ -53,18 +53,4 @@ Tisková konference veřejného ochránce práv 28. 8. 2013:
 
 ![](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/uploads/RTEmagicC_TK-2013-08-28-II.jpg.jpg)![](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/uploads/RTEmagicC_TK-2013-08-28b-II.jpg.jpg)
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
 *ombudsman a vedoucí oddělení dohledu nad omezováním osobní svobody na tiskové konferenci*

@@ -38,4 +38,6 @@ Upozorňujeme, že testování paměti je určeno **těm, kteří nejsou v pé
 
  
 
-![](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/uploads/RTEmagicC_A_logo.png.png)![](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/uploads/RTEmagicC_ochrance_logo_03.jpg.jpg)
+![](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/uploads/RTEmagicC_A_logo.png.png)
+
+![](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/uploads/RTEmagicC_ochrance_logo_03.jpg.jpg)

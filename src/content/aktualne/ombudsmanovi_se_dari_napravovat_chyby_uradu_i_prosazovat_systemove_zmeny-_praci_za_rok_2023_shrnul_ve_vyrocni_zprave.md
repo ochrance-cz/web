@@ -30,7 +30,9 @@ Největší očekávanou výzvou pro úřad ombudsmana je v roce 2024 podle obo
 
 \{\{\< youtube "WAnvSgqXoa0" \>\}\}
 
-![vop\_podnety\_2023.png](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/ombudsmanovi_se_dari_napravovat_chyby_uradu_i_prosazovat_systemove_zmeny-_praci_za_rok_2023_shrnul_ve_vyrocni_zprave/vop_podnety_2023.png)![graf\_pochybeni.png](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/ombudsmanovi_se_dari_napravovat_chyby_uradu_i_prosazovat_systemove_zmeny-_praci_za_rok_2023_shrnul_ve_vyrocni_zprave/graf_pochybeni.png)
+![vop\_podnety\_2023.png](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/ombudsmanovi_se_dari_napravovat_chyby_uradu_i_prosazovat_systemove_zmeny-_praci_za_rok_2023_shrnul_ve_vyrocni_zprave/vop_podnety_2023.png)
+
+![graf\_pochybeni.png](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/ombudsmanovi_se_dari_napravovat_chyby_uradu_i_prosazovat_systemove_zmeny-_praci_za_rok_2023_shrnul_ve_vyrocni_zprave/graf_pochybeni.png)
 
 **Související odkazy**
 

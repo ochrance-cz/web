@@ -9,7 +9,9 @@ perex: Často se na ombudsmana s žádostí o pomoc obracejí lidé, kteří se
 kategorie:
   - tz
 ---
-![2.png](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/ombudsman_varuje_pred_spoofingem_davejte_si_pozor_komu_poskytujete_informace_podvody_jsou_dnes_velmi_sofistikovane/2.png)![4.png](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/ombudsman_varuje_pred_spoofingem_davejte_si_pozor_komu_poskytujete_informace_podvody_jsou_dnes_velmi_sofistikovane/4.png)
+![2.png](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/ombudsman_varuje_pred_spoofingem_davejte_si_pozor_komu_poskytujete_informace_podvody_jsou_dnes_velmi_sofistikovane/2.png)
+
+![4.png](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/ombudsman_varuje_pred_spoofingem_davejte_si_pozor_komu_poskytujete_informace_podvody_jsou_dnes_velmi_sofistikovane/4.png)
 
 **Související odkazy**
 

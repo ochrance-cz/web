@@ -18,7 +18,9 @@ kategorie:
 
 K výzkumu probíhá 22. 6. 2023 také konference, kterou můžete sledovat zdarma online. Odkaz na stream naleznete na webu www.ochrance.cz v oranžové liště nahoře.
 
-![program\_1.png](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/na_kavu_s_ombudsmanem_93-_dil_co_jsme_zjistili_ve_vyzkumu_tehotenstvi_a_materstvi_na_pracovisti/program_1.png)![program\_2.png](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/na_kavu_s_ombudsmanem_93-_dil_co_jsme_zjistili_ve_vyzkumu_tehotenstvi_a_materstvi_na_pracovisti/program_2.png)
+![program\_1.png](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/na_kavu_s_ombudsmanem_93-_dil_co_jsme_zjistili_ve_vyzkumu_tehotenstvi_a_materstvi_na_pracovisti/program_1.png)
+
+![program\_2.png](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/na_kavu_s_ombudsmanem_93-_dil_co_jsme_zjistili_ve_vyzkumu_tehotenstvi_a_materstvi_na_pracovisti/program_2.png)
 
 #### **Související užitečné odkazy**
 

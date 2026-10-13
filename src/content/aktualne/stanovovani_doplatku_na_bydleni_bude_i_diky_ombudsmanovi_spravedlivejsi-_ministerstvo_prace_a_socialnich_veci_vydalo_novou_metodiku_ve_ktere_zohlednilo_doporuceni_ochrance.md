@@ -19,7 +19,9 @@ Ombudsman zjistil, že téměř každé druhé kontaktní pracoviště čerpalo 
 
 Závěry výzkumu ombudsman projednal na kulatém stole se zástupci úřadu práce a Ministerstva práce a sociálních věcí. Ministerstvo na základě jednání s ombudsmanem vydalo nový metodický pokyn, který zohledňuje doporučení z jeho výzkumu. Po vydání pokynu také proškolilo zaměstnance úřadu práce v této problematice.
 
-![3.png](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/stanovovani_doplatku_na_bydleni_bude_i_diky_ombudsmanovi_spravedlivejsi-_ministerstvo_prace_a_socialnich_veci_vydalo_novou_metodiku_ve_ktere_zohlednilo_doporuceni_ochrance/3.png)![4.png](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/stanovovani_doplatku_na_bydleni_bude_i_diky_ombudsmanovi_spravedlivejsi-_ministerstvo_prace_a_socialnich_veci_vydalo_novou_metodiku_ve_ktere_zohlednilo_doporuceni_ochrance/4.png)
+![3.png](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/stanovovani_doplatku_na_bydleni_bude_i_diky_ombudsmanovi_spravedlivejsi-_ministerstvo_prace_a_socialnich_veci_vydalo_novou_metodiku_ve_ktere_zohlednilo_doporuceni_ochrance/3.png)
+
+![4.png](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/stanovovani_doplatku_na_bydleni_bude_i_diky_ombudsmanovi_spravedlivejsi-_ministerstvo_prace_a_socialnich_veci_vydalo_novou_metodiku_ve_ktere_zohlednilo_doporuceni_ochrance/4.png)
 
 **Související odkazy**
 
