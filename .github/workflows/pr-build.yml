@@ -32,6 +32,7 @@ jobs:
           bun run verify:cms
           bun run verify:collection-ux
           bun run verify:editor-content
+          bun run verify:emphasis
           bun run build
           bun run verify:launch
           bun run verify:r2

@@ -146,7 +146,7 @@ odpovídáme na Vaši stížnost doručenou dne 2. 12. 2019. Nesouhlasíte s tí
 
 **Ve sporu s pojišťovnou Vám nemůžeme pomoci.**
 
-Podle zákona* nesmíme zasahovat přímo do vztahů mezi pojišťovnami a jejich klienty… \[…]
+Podle zákona\* nesmíme zasahovat přímo do vztahů mezi pojišťovnami a jejich klienty… \[…]
 
 > \* Zákon č. 6/19963 Sb., o České národní bance, zákon č. 277/2009 Sb., o pojišťovnictví, zákon č. 170/2018 Sb., o distribuci pojištění a zajištění, zákon č. 634/1992 Sb., o ochraně spotřebitele.
 
