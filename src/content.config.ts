@@ -72,7 +72,7 @@ export const collections = {
         hp: n.textarea({ label: 'Perex pod nadpisem' }),
       }), { label: 'Aktivity' }).optional(),
     }),
-    cms: { pathname: [{ literal: '/' }] },
+    cms: { label: 'Úvodní stránka', order: 100, group: 'Další obsah', pathname: [{ literal: '/' }] },
   }),
   'homepage-en': defineCmsCollection({
     loader: glob({ pattern: SINGLE, base: './src/content/homepage-en', generateId: indexEntryId }),
@@ -91,7 +91,7 @@ export const collections = {
         hp: n.textarea({ label: 'Lead under heading' }),
       }), { label: 'Activities' }).optional(),
     }),
-    cms: { pathname: [{ literal: 'en' }] },
+    cms: { label: 'Homepage', order: 200, group: 'Anglická verze webu', pathname: [{ literal: 'en' }] },
   }),
 
   // ===================== NEWS / DOCUMENTS / LEAFLETS =====================
@@ -106,6 +106,7 @@ export const collections = {
       draft: n.boolean({ label: "Koncept" }).optional().or(blank),
     }),
     cms: {
+      label: 'Aktuálně', order: 1,
       pathname: [{ literal: 'aktualne' }, { field: 'slug' }],
       sidebar: ['date', 'obrazek', 'draft'],
       sections: [
@@ -123,6 +124,7 @@ export const collections = {
       illustration: n.image({ label: 'Lead image', sidebar: true }).optional(),
     }),
     cms: {
+      label: 'News', order: 200, group: 'Anglická verze webu',
       pathname: [{ literal: 'en' }, { literal: 'aktualne' }, { field: 'slug' }],
       sidebar: ['date', 'illustration'],
       sections: [
@@ -136,12 +138,12 @@ export const collections = {
       title: n.text({ label: 'Název' }),
       date: n.date({ label: 'Datum publikace' }).orderBy('desc').nullable().optional(),
       perex: n.textarea({ label: 'Perex' }).optional(),
-      vystupy: n.array(reference('vystupy'), { label: 'Kategorie výstupů', help: 'Vyberte existující kategorie. Novou přidejte v kolekci Kategorie výstupů.' }).optional().transform(referenceIds),
+      vystupy: n.array(reference('vystupy'), { label: 'Kategorie výstupů', help: 'Vyberte existující kategorie. Novou přidejte v kolekci Výstupy z činností – kategorie.' }).optional().transform(referenceIds),
       organ: n.enum(['CEDAW', 'OHCHR'], { label: 'Mezinárodní orgán', help: 'Pouze pro vyjádření pro mezinárodní orgány.' }).optional(),
       file: n.file({ label: 'Soubor pro tlačítko Stáhnout dokument', help: 'Volitelný soubor se zobrazí jako samostatné tlačítko pod textem. Ostatní odkazy na soubory vložte přímo do textu dokumentu.' }).optional(),
       draft: n.boolean({ label: "Koncept" }).optional().or(blank),
     }),
-    cms: { pathname: [{ literal: 'dokument' }, { field: 'slug' }] },
+    cms: { label: 'Dokumenty', order: 3, pathname: [{ literal: 'dokument' }, { field: 'slug' }] },
   }),
   'dokument-en': defineCmsCollection({
     loader: glob({ pattern: RICH_CONTENT, base: './src/content/dokument-en', generateId: indexEntryId }),
@@ -149,11 +151,11 @@ export const collections = {
       title: n.text({ label: 'Title' }),
       date: n.date({ label: 'Publication date' }).orderBy('desc').nullable().optional(),
       perex: n.textarea({ label: 'Lead' }).optional(),
-      vystupy: n.array(reference('vystupy-en'), { label: 'Output categories', help: 'Select existing categories. Add a new one in the Output categories collection.' }).optional().transform(referenceIds),
+      vystupy: n.array(reference('vystupy-en'), { label: 'Output categories', help: 'Select existing categories. Add a new one in the Publications – categories collection.' }).optional().transform(referenceIds),
       organ: n.enum(['CEDAW', 'OHCHR'], { label: 'International body', help: 'Only for statements to international bodies.' }).optional(),
       file: n.file({ label: 'File for the Download document button', help: 'Optional file shown as a separate button below the text. Insert other file links directly into the document text.' }).optional(),
     }),
-    cms: { pathname: [{ literal: 'en' }, { literal: 'dokument' }, { field: 'slug' }] },
+    cms: { label: 'Documents', order: 200, group: 'Anglická verze webu', pathname: [{ literal: 'en' }, { literal: 'dokument' }, { field: 'slug' }] },
   }),
   letaky: defineCmsCollection({
     loader: glob({ pattern: RICH_CONTENT, base: './src/content/letaky', generateId: indexEntryId }),
@@ -167,7 +169,7 @@ export const collections = {
       kids: n.file({ label: 'Dětská verze', help: 'Volitelná dětská verze zobrazená pod hlavním letákem.' }).optional(),
       draft: n.boolean({ label: "Koncept" }).optional().or(blank),
     }),
-    cms: { pathname: [{ literal: 'letaky' }, { field: 'slug' }] },
+    cms: { label: 'Letáky', order: 2, pathname: [{ literal: 'letaky' }, { field: 'slug' }] },
   }),
   'letaky-en': defineCmsCollection({
     loader: glob({ pattern: RICH_CONTENT, base: './src/content/letaky-en', generateId: indexEntryId }),
@@ -178,7 +180,7 @@ export const collections = {
       file: n.file({ label: 'Main leaflet download' }).optional(),
       seeing: n.file({ label: 'Accessible version for people with visual impairments', help: 'Optional accessible version shown below the main leaflet.' }).optional(),
     }),
-    cms: { pathname: [{ literal: 'en' }, { literal: 'letaky' }, { field: 'slug' }] },
+    cms: { label: 'Leaflets', order: 200, group: 'Anglická verze webu', pathname: [{ literal: 'en' }, { literal: 'letaky' }, { field: 'slug' }] },
   }),
 
   // The detail copy remains editable directly in the page preview. These data
@@ -194,7 +196,7 @@ export const collections = {
       link: n.url({ label: 'Vlastní cíl odkazu' }).optional(),
       icon: n.text({ label: 'Ikona na homepage' }).optional(),
     }),
-    cms: { pathname: [{ literal: 'potrebuji-pomoc' }, { field: 'slug' }] },
+    cms: { label: 'Potřebuji pomoc', order: 100, group: 'Další obsah', pathname: [{ literal: 'potrebuji-pomoc' }, { field: 'slug' }] },
   }),
   'potrebuji-pomoc-en': defineCmsCollection({
     loader: glob({ pattern: BUNDLE, base: './src/content/potrebuji-pomoc-en', generateId: indexEntryId }),
@@ -207,7 +209,7 @@ export const collections = {
       link: n.url({ label: 'Custom link target' }).optional(),
       icon: n.text({ label: 'Homepage icon' }).optional(),
     }),
-    cms: { pathname: [{ literal: 'en' }, { literal: 'potrebuji-pomoc' }, { field: 'slug' }] },
+    cms: { label: 'I need help', order: 200, group: 'Anglická verze webu', pathname: [{ literal: 'en' }, { literal: 'potrebuji-pomoc' }, { field: 'slug' }] },
   }),
 
   // ===================== EVENTS / NEWSLETTER / ESO =====================
@@ -219,7 +221,7 @@ export const collections = {
       startDate: n.date({ label: "Datum začátku" }).nullable().optional(),
       perex: n.textarea({ label: "Perex" }).optional(),
     }),
-    cms: { pathname: [{ literal: 'vzdelavaci-akce' }, { field: 'slug' }] },
+    cms: { label: 'Vzdělávací akce', order: 100, group: 'Další obsah', pathname: [{ literal: 'vzdelavaci-akce' }, { field: 'slug' }] },
   }),
   zpravodaj: defineCmsCollection({
     loader: glob({ pattern: BUNDLE, base: './src/content/zpravodaj', generateId: indexEntryId }),
@@ -232,7 +234,7 @@ export const collections = {
       perex: n.textarea({ label: "Perex" }).optional(),
       file: n.file({ label: "Soubor" }).optional(),
     }),
-    cms: { pathname: [{ literal: 'zpravodaj' }, { field: 'slug' }] },
+    cms: { label: 'Zpravodaj', order: 7, pathname: [{ literal: 'zpravodaj' }, { field: 'slug' }] },
   }),
   'zpravodaj-articles': defineCmsCollection({
     loader: glob({ pattern: RICH_CONTENT, base: './src/content/zpravodaj-articles', generateId: indexEntryId }),
@@ -246,6 +248,7 @@ export const collections = {
       order: n.number({ label: 'Pořadí ve vydání', help: 'Určuje pořadí článků i jejich odkaz v obsahu.' }),
     }),
     cms: {
+      label: 'Zpravodaj – články', order: 8,
       pathname: [{ literal: 'zpravodaj' }, { literal: 'clanky' }, { field: 'slug' }],
       sections: [
         { title: 'Vydání zpravodaje — vyberte existující', fields: ['parent', 'order', 'section'] },
@@ -263,7 +266,7 @@ export const collections = {
       perex: n.textarea({ label: 'Perex' }).optional(),
       eso: n.array(z.object({ title: n.text({ label: "Název" }).optional() }), { label: "Stanoviska ESO" }).optional(),
     }),
-    cms: { pathname: [{ literal: 'eso' }, { field: 'slug' }] },
+    cms: { label: 'Evidence stanovisek ombudsmana (ESO)', order: 100, group: 'Další obsah', pathname: [{ literal: 'eso' }, { field: 'slug' }] },
   }),
 
   // ===================== ABOUT / SCOPE / HELP =====================
@@ -280,6 +283,7 @@ export const collections = {
       cta: z.object({ title: n.text({ label: "Název" }).optional(), btnLink: n.url({ label: "Cíl tlačítka" }).optional() }).optional(),
     }),
     cms: {
+      label: 'Působnost ombudsmana', order: 100, group: 'Další obsah',
       pathname: [{ literal: 'pusobnost' }, { field: 'slug' }],
       sidebar: ['headerColor', 'illustration', 'perex', 'cta', 'draft'],
       sections: [{ title: 'Stránka', fields: ['title'] }],
@@ -297,6 +301,7 @@ export const collections = {
       cta: z.object({ title: n.text({ label: "Title" }).optional(), btnLink: n.url({ label: "Button URL" }).optional() }).optional(),
     }),
     cms: {
+      label: 'Scope of Public Defender’s authority', order: 200, group: 'Anglická verze webu',
       pathname: [{ literal: 'en' }, { literal: 'pusobnost' }, { field: 'slug' }],
       sidebar: ['headerColor', 'illustration', 'perex', 'cta', 'draft'],
       sections: [{ title: 'Page', fields: ['title'] }],
@@ -311,6 +316,7 @@ export const collections = {
       ongoing: n.boolean({ label: 'Probíhající projekt' }).optional().or(blank),
     }),
     cms: {
+      label: 'Projekty a spolupráce KVOP', order: 100, group: 'Další obsah',
       pathname: [{ literal: 'projekty' }, { field: 'slug' }],
       sidebar: ['draft', 'ongoing'],
       sections: [
@@ -326,6 +332,7 @@ export const collections = {
       ongoing: n.boolean({ label: 'Ongoing project' }).optional().or(blank),
     }),
     cms: {
+      label: 'Projects', order: 200, group: 'Anglická verze webu',
       pathname: [{ literal: 'en' }, { literal: 'projekty' }, { field: 'slug' }],
       sidebar: ['ongoing'],
       sections: [
@@ -347,7 +354,7 @@ export const collections = {
       // stored, they would reach the CMS as text inputs and a typed string would break the build.
       chapters: n.array(z.object({ title: n.text({ label: "Název" }).optional(), link: n.url({ label: "Cíl odkazu" }).optional() }), { label: "Kapitoly" }).optional(),
     }),
-    cms: { pathname: [{ literal: 'pristupnost' }, { field: 'slug' }] },
+    cms: { label: 'Přístupnost', order: 100, group: 'Další obsah', pathname: [{ literal: 'pristupnost' }, { field: 'slug' }] },
   }),
   'pristupnost-en': defineCmsCollection({
     loader: glob({ pattern: RICH_CONTENT, base: './src/content/pristupnost-en', generateId: indexEntryId }),
@@ -355,7 +362,7 @@ export const collections = {
       date: n.date({ label: 'Publication date', help: 'Optional publication date for sorting entries. Leave unknown historical dates empty.' }).nullable().optional(),
       title: n.text({ label: 'Title' }),
     }),
-    cms: { pathname: [{ literal: 'en' }, { literal: 'pristupnost' }, { field: 'slug' }] },
+    cms: { label: 'Accessibility', order: 200, group: 'Anglická verze webu', pathname: [{ literal: 'en' }, { literal: 'pristupnost' }, { field: 'slug' }] },
   }),
   info: defineCmsCollection({
     loader: glob({ pattern: RICH_CONTENT, base: './src/content/info', generateId: indexEntryId }),
@@ -368,7 +375,7 @@ export const collections = {
       illustration: n.image({ label: "Ilustrace" }).optional(),
       links: n.array(linkItem, { label: "Odkazy" }).optional(),
     }),
-    cms: { pathname: [{ literal: 'info' }, { field: 'slug' }] },
+    cms: { label: 'Další informace', order: 100, group: 'Další obsah', pathname: [{ literal: 'info' }, { field: 'slug' }] },
   }),
   'info-en': defineCmsCollection({
     loader: glob({ pattern: RICH_CONTENT, base: './src/content/info-en', generateId: indexEntryId }),
@@ -381,7 +388,7 @@ export const collections = {
       illustration: n.image({ label: "Image" }).optional(),
       links: n.array(linkItemEn, { label: "Links" }).optional(),
     }),
-    cms: { pathname: [{ literal: 'en' }, { literal: 'info' }, { field: 'slug' }] },
+    cms: { label: 'Information', order: 200, group: 'Anglická verze webu', pathname: [{ literal: 'en' }, { literal: 'info' }, { field: 'slug' }] },
   }),
   info106: defineCmsCollection({
     loader: glob({ pattern: RICH_CONTENT, base: './src/content/info106', generateId: indexEntryId }),
@@ -389,7 +396,7 @@ export const collections = {
       date: n.date({ label: 'Datum publikace', help: 'Volitelné datum zveřejnění pro řazení záznamů. Neznámá historická data ponechte prázdná.' }).nullable().optional(),
       title: n.text({ label: 'Název' }),
     }),
-    cms: { pathname: [{ literal: 'info106' }, { field: 'slug' }] },
+    cms: { label: 'Poskytnuté informace podle zákona č. 106/1999 Sb.', order: 9, pathname: [{ literal: 'info106' }, { field: 'slug' }] },
   }),
   provoz: defineCmsCollection({
     loader: glob({ pattern: RICH_CONTENT, base: './src/content/provoz', generateId: indexEntryId }),
@@ -401,6 +408,7 @@ export const collections = {
       linksAfter: n.array(linkItem, { label: "Odkazy za textem" }).optional(),
     }),
     cms: {
+      label: 'Provozní informace', order: 100, group: 'Další obsah',
       pathname: [{ literal: 'provoz' }, { field: 'slug' }],
       sidebar: ['draft'],
       sections: [
@@ -420,6 +428,7 @@ export const collections = {
       linksAfter: n.array(linkItemEn, { label: "Links after text" }).optional(),
     }),
     cms: {
+      label: 'Office operations', order: 200, group: 'Anglická verze webu',
       pathname: [{ literal: 'en' }, { literal: 'provoz' }, { field: 'slug' }],
       sidebar: ['draft'],
       sections: [
@@ -443,10 +452,11 @@ export const collections = {
       order: n.number({ label: 'Pořadí v oddělení', help: 'Vedoucí je vždy první. Ostatní lidé se řadí podle čísla od nejnižšího; bez čísla jsou na konci, podle jména.' }).optional().or(blank),
     }),
     cms: {
+      label: 'Kontakty – lidé', order: 5,
       pathname: [{ literal: 'provoz' }, { literal: 'lide' }, { field: 'slug' }],
       sections: [
         { title: 'Člověk', fields: ['title', 'role', 'email', 'phone'] },
-        { title: 'Oddělení — vyberte existující; nové přidejte v kolekci Oddělení', fields: ['department', 'departmentHead', 'order'] },
+        { title: 'Oddělení — vyberte existující; nové přidejte v kolekci Kontakty – oddělení', fields: ['department', 'departmentHead', 'order'] },
         { title: 'Viditelnost na stránce Kontakty (vypnuté = skryté)', fields: ['visible'], collapsed: false },
       ],
     },
@@ -456,10 +466,10 @@ export const collections = {
     schema: n.object({
       date: n.date({ label: 'Datum publikace' }).nullable().optional(),
       title: n.text({ label: 'Název' }),
-      intro: n.textarea({ label: 'Popis oddělení', help: 'Agenda oddělení nebo společné kontaktní údaje. Jednotlivé lidi spravujte v kolekci Lidé.' }).optional(),
+      intro: n.textarea({ label: 'Popis oddělení', help: 'Agenda oddělení nebo společné kontaktní údaje. Jednotlivé lidi spravujte v kolekci Kontakty – lidé.' }).optional(),
       order: n.number({ label: 'Pořadí oddělení', help: 'Nižší číslo se zobrazí výše na stránce Kontakty.' }).optional().or(blank),
     }),
-    cms: { pathname: [{ literal: 'provoz' }, { literal: 'oddeleni' }, { field: 'slug' }] },
+    cms: { label: 'Kontakty – oddělení', order: 6, pathname: [{ literal: 'provoz' }, { literal: 'oddeleni' }, { field: 'slug' }] },
   }),
   'provoz-kontakty': defineCmsCollection({
     loader: glob({ pattern: SINGLE, base: './src/content/provoz-kontakty' }),
@@ -469,6 +479,7 @@ export const collections = {
       sections: n.array(provozSection, { label: 'Základní kontaktní bloky' }).optional(),
     }),
     cms: {
+      label: 'Kontakty', order: 4,
       pathname: [{ literal: 'provoz' }, { literal: 'kontakty' }],
       sections: [
         { title: 'Základní kontakty', fields: ['title', 'sections'] },
@@ -484,7 +495,7 @@ export const collections = {
       title: n.text({ label: 'Název' }),
       num: n.number({ label: "Číslo" }).optional().or(blank),
     }),
-    cms: { pathname: [{ literal: 'srozumitelne' }, { field: 'slug' }] },
+    cms: { label: 'Jak psát srozumitelně úřední texty', order: 100, group: 'Další obsah', pathname: [{ literal: 'srozumitelne' }, { field: 'slug' }] },
   }),
 
   umluva: defineCmsCollection({
@@ -493,7 +504,7 @@ export const collections = {
       date: n.date({ label: 'Datum publikace', help: 'Volitelné datum zveřejnění pro řazení záznamů. Neznámá historická data ponechte prázdná.' }).nullable().optional(),
       title: n.text({ label: 'Název' }),
     }),
-    cms: { pathname: [{ literal: 'umluva' }, { field: 'slug' }] },
+    cms: { label: 'Úmluva v českém znakovém jazyce', order: 100, group: 'Další obsah', pathname: [{ literal: 'umluva' }, { field: 'slug' }] },
   }),
 
   // ===================== TAXONOMIES =====================
@@ -505,7 +516,7 @@ export const collections = {
       perex: n.textarea({ label: 'Perex' }).optional(),
       illustration: n.image({ label: "Ilustrace" }).optional(),
     }),
-    cms: { pathname: [{ literal: 'situace' }, { field: 'slug' }] },
+    cms: { label: 'Životní situace', order: 100, group: 'Další obsah', pathname: [{ literal: 'situace' }, { field: 'slug' }] },
   }),
   'situace-en': defineCmsCollection({
     loader: glob({ pattern: BUNDLE, base: './src/content/situace-en', generateId: indexEntryId }),
@@ -515,7 +526,7 @@ export const collections = {
       perex: n.textarea({ label: 'Lead' }).optional(),
       illustration: n.image({ label: "Image" }).optional(),
     }),
-    cms: { pathname: [{ literal: 'en' }, { literal: 'situace' }, { field: 'slug' }] },
+    cms: { label: 'Situations', order: 200, group: 'Anglická verze webu', pathname: [{ literal: 'en' }, { literal: 'situace' }, { field: 'slug' }] },
   }),
   vystupy: defineCmsCollection({
     loader: glob({ pattern: BUNDLE, base: './src/content/vystupy', generateId: indexEntryId }),
@@ -527,7 +538,7 @@ export const collections = {
       perex: n.textarea({ label: "Perex" }).optional(),
       illustration: n.image({ label: "Ilustrace" }).optional(),
     }),
-    cms: { pathname: [{ literal: 'vystupy' }, { field: 'slug' }] },
+    cms: { label: 'Výstupy z činností – kategorie', order: 100, group: 'Další obsah', pathname: [{ literal: 'vystupy' }, { field: 'slug' }] },
   }),
   'vystupy-en': defineCmsCollection({
     loader: glob({ pattern: BUNDLE, base: './src/content/vystupy-en', generateId: indexEntryId }),
@@ -541,7 +552,7 @@ export const collections = {
       // No `media` here: unlike the Czech terms, no English one carries it and nothing
       // renders it — a boolean the CMS has never seen a value for degrades to a text input.
     }),
-    cms: { pathname: [{ literal: 'en' }, { literal: 'vystupy' }, { field: 'slug' }] },
+    cms: { label: 'Publications – categories', order: 200, group: 'Anglická verze webu', pathname: [{ literal: 'en' }, { literal: 'vystupy' }, { field: 'slug' }] },
   }),
 
   // ===================== SINGLETONS / DATA PAGES =====================
@@ -606,6 +617,7 @@ export const collections = {
       }).optional(),
     }),
     cms: {
+      label: 'Podejte podnět', order: 100, group: 'Další obsah',
       pathname: [{ literal: 'podejte-stiznost' }],
       sections: [
         { title: 'Úvod', fields: ['title'] },
@@ -664,6 +676,7 @@ export const collections = {
       }).optional(),
     }),
     cms: {
+      label: 'Submit a complaint', order: 200, group: 'Anglická verze webu',
       pathname: [{ literal: 'en' }, { literal: 'podejte-stiznost' }],
       sections: [
         { title: 'Introduction', fields: ['title'] },
@@ -684,7 +697,7 @@ export const collections = {
       prefix: n.text({ label: 'Krátký štítek' }).optional(),
       href: n.url({ label: 'Cíl odkazu' }).optional(),
     }),
-    cms: { fragment: true, previewOf: '/' },
+    cms: { label: 'Informační lišta webu', order: 10, fragment: true, previewOf: '/' },
   }),
   'alert-en': defineCmsCollection({
     loader: glob({ pattern: SINGLE, base: './src/content/alert-en' }),
@@ -695,7 +708,7 @@ export const collections = {
       prefix: n.text({ label: 'Short prefix' }).optional(),
       href: n.url({ label: 'Link URL' }).optional(),
     }),
-    cms: { fragment: true, previewOf: '/en/' },
+    cms: { label: 'Sitewide notice bar', order: 200, group: 'Anglická verze webu', fragment: true, previewOf: '/en/' },
   }),
   // One switch for the AI chatbot on every Czech and English page.
   chatbot: defineCmsCollection({
@@ -710,7 +723,7 @@ export const collections = {
           return undefined;
         }),
     }),
-    cms: { fragment: true, previewOf: '/' },
+    cms: { label: 'AI chatbot', order: 100, group: 'Další obsah', fragment: true, previewOf: '/' },
   }),
 
 };

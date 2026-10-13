@@ -6,7 +6,7 @@
     "label": "Homepage"
   },
   "aktualne": {
-    "label": "Aktuality"
+    "label": "Aktuálně"
   },
   "aktualne-en": {
     "label": "News"
@@ -33,16 +33,16 @@
     "label": "Zpravodaj – články"
   },
   "eso": {
-    "label": "ESO"
+    "label": "Evidence stanovisek ombudsmana (ESO)"
   },
   "pusobnost": {
-    "label": "Působnost"
+    "label": "Působnost ombudsmana"
   },
   "pusobnost-en": {
-    "label": "Our mandate"
+    "label": "Scope of Public Defender’s authority"
   },
   "projekty": {
-    "label": "Projekty"
+    "label": "Projekty a spolupráce KVOP"
   },
   "projekty-en": {
     "label": "Projects"
@@ -57,49 +57,49 @@
     "label": "Další informace"
   },
   "info-en": {
-    "label": "Further information"
+    "label": "Information"
   },
   "info106": {
-    "label": "Poskytované informace (106)"
+    "label": "Poskytnuté informace podle zákona č. 106/1999 Sb."
   },
   "provoz": {
-    "label": "Provoz"
+    "label": "Provozní informace"
   },
   "provoz-en": {
     "label": "Office operations"
   },
   "lide": {
-    "label": "Lidé"
+    "label": "Kontakty – lidé"
   },
   "oddeleni": {
-    "label": "Oddělení"
+    "label": "Kontakty – oddělení"
   },
   "provoz-kontakty": {
     "label": "Kontakty"
   },
   "srozumitelne": {
-    "label": "Srozumitelně příručka"
+    "label": "Jak psát srozumitelně úřední texty"
   },
   "umluva": {
-    "label": "Úmluva (CRPD)"
+    "label": "Úmluva v českém znakovém jazyce"
   },
   "situace": {
-    "label": "Situace"
+    "label": "Životní situace"
   },
   "situace-en": {
     "label": "Situations"
   },
   "vystupy": {
-    "label": "Kategorie výstupů"
+    "label": "Výstupy z činností – kategorie"
   },
   "vystupy-en": {
-    "label": "Output categories"
+    "label": "Publications – categories"
   },
   "podejte-stiznost": {
-    "label": "Podejte stížnost"
+    "label": "Podejte podnět"
   },
   "podejte-stiznost-en": {
-    "label": "File a complaint"
+    "label": "Submit a complaint"
   },
   "potrebuji-pomoc": {
     "label": "Potřebuji pomoc"
