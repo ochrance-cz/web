@@ -22,7 +22,7 @@ const perexHtml = data.perex ? await renderMarkdown(data.perex) : '';
 const bodyHtml = data.body ? await renderMarkdown(data.body) : '';
 const illustration = data.illustration || undefined;
 ---
-<BaseLayout title={data.title} lang={lang} description={data.perex}>
+<BaseLayout title={data.title} lang={lang} description={data.perex} ogImage={illustration}>
   <main data-pagefind-body>
     <TextHeader
       title={data.title}
