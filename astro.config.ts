@@ -1,6 +1,7 @@
 import { defineConfig } from '@nuasite/nua/config';
 import rehypeRaw from 'rehype-raw';
 import { legacyImageAttributes } from './src/remark/legacy-image-attributes';
+import { bodyGalleries } from './src/remark/body-galleries';
 import { remarkCzechTypography } from './src/remark/czech-typography';
 import { remarkShortcodes } from './src/remark/shortcodes';
 import { redirects } from './src/lib/redirects';
@@ -40,7 +41,7 @@ export default defineConfig({
   markdown: {
     // Shortcodes first (reconstruct/replace before typography mangles text), then typography.
     remarkPlugins: [remarkShortcodes, remarkCzechTypography],
-    rehypePlugins: [rehypeRaw, legacyImageAttributes], // CMS/TYPO3 raw HTML in bodies survives
+    rehypePlugins: [rehypeRaw, legacyImageAttributes, bodyGalleries], // CMS/TYPO3 raw HTML in bodies survives
     remarkRehype: { allowDangerousHtml: true },
   },
   vite: {

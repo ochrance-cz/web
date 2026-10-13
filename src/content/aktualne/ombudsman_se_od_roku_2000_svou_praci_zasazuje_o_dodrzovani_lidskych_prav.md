@@ -29,7 +29,13 @@ Ombudsman spolupracuje s organizacemi, které se ochranou lidských práv zabý
 
 **Na našich sociálních sítích jsme pro vás v poslední době připravili seriál s osvětou, jak nediskriminovat v pracovní inzerci a na co si dát pozor, když si hledáte pracovní místo**
 
-![diskriminace\_1.jpg](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/ombudsman_se_od_roku_2000_svou_praci_zasazuje_o_dodrzovani_lidskych_prav/diskriminace_1.jpg)![diskriminace\_2.jpg](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/ombudsman_se_od_roku_2000_svou_praci_zasazuje_o_dodrzovani_lidskych_prav/diskriminace_2.jpg)![diskriminace\_3.jpg](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/ombudsman_se_od_roku_2000_svou_praci_zasazuje_o_dodrzovani_lidskych_prav/diskriminace_3.jpg)![diskriminace\_4.png](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/ombudsman_se_od_roku_2000_svou_praci_zasazuje_o_dodrzovani_lidskych_prav/diskriminace_4.png)
+![diskriminace\_1.jpg](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/ombudsman_se_od_roku_2000_svou_praci_zasazuje_o_dodrzovani_lidskych_prav/diskriminace_1.jpg)
+
+![diskriminace\_2.jpg](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/ombudsman_se_od_roku_2000_svou_praci_zasazuje_o_dodrzovani_lidskych_prav/diskriminace_2.jpg)
+
+![diskriminace\_3.jpg](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/ombudsman_se_od_roku_2000_svou_praci_zasazuje_o_dodrzovani_lidskych_prav/diskriminace_3.jpg)
+
+![diskriminace\_4.png](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/ombudsman_se_od_roku_2000_svou_praci_zasazuje_o_dodrzovani_lidskych_prav/diskriminace_4.png)
 
 #### **Čím se ombudsman zabýval, komu pomáhal a co v poslední době podnikl v rámci osvěty a prevence k předcházení diskriminace?**
 

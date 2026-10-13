@@ -25,7 +25,9 @@ Ombudsman proto v souhrnné zprávě z návštěv směřoval doporučení Mini
 
 „*Řešení nebude jednoduché, ale je naší povinností podpořit, aby děti mohly vyrůstat v rodině. A když to nejde, tak jim alespoň zajistit život, který bude co nejvíce odpovídat rodinnému prostředí*,“ uzavřel Schorm.
 
-![factsheet\_kojenaky\_1.png](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/realita_koncicich_kojeneckych_ustavu_misto_vazne_nemocnych_batolat_prevazuji_predskolaci/factsheet_kojenaky_1.png)![factsheet\_kojenaky\_2.png](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/realita_koncicich_kojeneckych_ustavu_misto_vazne_nemocnych_batolat_prevazuji_predskolaci/factsheet_kojenaky_2.png)
+![factsheet\_kojenaky\_1.png](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/realita_koncicich_kojeneckych_ustavu_misto_vazne_nemocnych_batolat_prevazuji_predskolaci/factsheet_kojenaky_1.png)
+
+![factsheet\_kojenaky\_2.png](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/realita_koncicich_kojeneckych_ustavu_misto_vazne_nemocnych_batolat_prevazuji_predskolaci/factsheet_kojenaky_2.png)
 
 **Související odkazy**
 

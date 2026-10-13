@@ -15,7 +15,13 @@ kategorie:
 
  
 
-![1.png](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/na_kavu_s_ombudsmanem_97-_dil_podvodna_jednani_v_e-prostoru/1.png)![2.png](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/na_kavu_s_ombudsmanem_97-_dil_podvodna_jednani_v_e-prostoru/2.png)![3.png](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/na_kavu_s_ombudsmanem_97-_dil_podvodna_jednani_v_e-prostoru/3.png)![4.png](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/na_kavu_s_ombudsmanem_97-_dil_podvodna_jednani_v_e-prostoru/4.png)
+![1.png](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/na_kavu_s_ombudsmanem_97-_dil_podvodna_jednani_v_e-prostoru/1.png)
+
+![2.png](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/na_kavu_s_ombudsmanem_97-_dil_podvodna_jednani_v_e-prostoru/2.png)
+
+![3.png](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/na_kavu_s_ombudsmanem_97-_dil_podvodna_jednani_v_e-prostoru/3.png)
+
+![4.png](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/na_kavu_s_ombudsmanem_97-_dil_podvodna_jednani_v_e-prostoru/4.png)
 
 V příštím podcastu se budeme věnovat dětem v ústavní péči.
 

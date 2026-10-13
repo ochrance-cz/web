@@ -6,6 +6,7 @@ import Meta from '../components/Meta.astro';
 import AlertStrip from '../components/AlertStrip.astro';
 import SiteHeader from '../components/SiteHeader.astro';
 import SiteFooter from '../components/SiteFooter.astro';
+import GalleryViewer from '../components/GalleryViewer.astro';
 import type { NavLink } from '../components/SiteHeader.astro';
 import type { FooterLink } from '../components/SiteFooter.astro';
 import { t } from '../lib/i18n';
@@ -141,6 +142,8 @@ const GA_ID = 'G-5RPY19JN9L';
     </div>
 
     <SiteFooter locale={lang} />
+
+    <GalleryViewer />
 
     <script>
       import '../scripts/index.js';

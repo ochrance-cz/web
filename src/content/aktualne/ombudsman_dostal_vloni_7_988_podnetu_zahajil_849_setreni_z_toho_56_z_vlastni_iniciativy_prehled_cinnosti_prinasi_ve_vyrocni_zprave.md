@@ -52,7 +52,9 @@ Vloni jsme pomohli například podnikatelům v úpadku, kteří neměli nárok n
 
 ### **Vybraná fakta**
 
-![1.png](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/ombudsman_dostal_vloni_7_988_podnetu_zahajil_849_setreni_z_toho_56_z_vlastni_iniciativy_prehled_cinnosti_prinasi_ve_vyrocni_zprave/1.png)![2.png](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/ombudsman_dostal_vloni_7_988_podnetu_zahajil_849_setreni_z_toho_56_z_vlastni_iniciativy_prehled_cinnosti_prinasi_ve_vyrocni_zprave/2.png)
+![1.png](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/ombudsman_dostal_vloni_7_988_podnetu_zahajil_849_setreni_z_toho_56_z_vlastni_iniciativy_prehled_cinnosti_prinasi_ve_vyrocni_zprave/1.png)
+
+![2.png](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/aktualne/ombudsman_dostal_vloni_7_988_podnetu_zahajil_849_setreni_z_toho_56_z_vlastni_iniciativy_prehled_cinnosti_prinasi_ve_vyrocni_zprave/2.png)
 
 **Související odkazy**
 

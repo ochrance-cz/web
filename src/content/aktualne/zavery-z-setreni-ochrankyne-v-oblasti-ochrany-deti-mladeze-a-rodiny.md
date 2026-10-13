@@ -37,7 +37,11 @@ O odebrání dítěte z péče nebo omezení styků s rodinou může rozhodno
 
 ### Zjištěná pochybení v letech 2014 a 2015
 
-![](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/uploads/RTEmagicC_ospod-1.jpg.jpg) ![](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/uploads/RTEmagicC_ospod-2.jpg.jpg) ![](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/uploads/RTEmagicC_ospod-3.jpg.jpg)  
+![](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/uploads/RTEmagicC_ospod-1.jpg.jpg)
+
+![](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/uploads/RTEmagicC_ospod-2.jpg.jpg)
+
+![](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/uploads/RTEmagicC_ospod-3.jpg.jpg)  
 
  
 

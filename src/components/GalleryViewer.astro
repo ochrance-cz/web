@@ -1,0 +1,138 @@
+---
+// Styly a prohlížeč fotografií pro galerie, které z fotografií vložených za sebou
+// v textu tvoří src/remark/body-galleries.ts. Popisky pro čtečky obrazovky doplní
+// skript podle jazyka stránky.
+---
+<script>
+  (() => {
+    const english = document.documentElement.lang === 'en';
+    const labels = english
+      ? { gallery: 'Photo gallery', close: 'Close gallery', prev: 'Previous photo', next: 'Next photo', thumbnails: 'Choose a photo', enlarge: 'Enlarge photo', photo: 'Photo' }
+      : { gallery: 'Fotogalerie', close: 'Zavřít galerii', prev: 'Předchozí fotografie', next: 'Další fotografie', thumbnails: 'Výběr fotografie', enlarge: 'Zvětšit fotografii', photo: 'Fotografie' };
+    const label = (element: Element | null, text: string) => element?.setAttribute('aria-label', text);
+    document.querySelectorAll('.editorial-gallery').forEach((gallery) => {
+      label(gallery, labels.gallery);
+      label(gallery.querySelector('dialog'), labels.gallery);
+      label(gallery.querySelector('.gallery-close'), labels.close);
+      label(gallery.querySelector('.gallery-prev'), labels.prev);
+      label(gallery.querySelector('.gallery-next'), labels.next);
+      label(gallery.querySelector('.gallery-thumbnails'), labels.thumbnails);
+      // A photo without alternative text would leave its button unnamed for screen readers.
+      gallery.querySelectorAll('.gallery-open').forEach((button, i) => {
+        if (!button.querySelector('img')?.alt.trim()) label(button, `${labels.enlarge} ${i + 1}`);
+      });
+    });
+    const states = new WeakMap<Element, { opener?: HTMLElement; index: number }>();
+    const show = (gallery: Element, next: number) => {
+      const buttons = Array.from(gallery.querySelectorAll<HTMLButtonElement>('.gallery-open'));
+      const index = (next + buttons.length) % buttons.length;
+      const dialog = gallery.querySelector('dialog')!;
+      const button = buttons[index]!;
+      const originalImage = button.querySelector('img')!;
+      const image = dialog.querySelector<HTMLImageElement>('.gallery-full')!;
+      image.src = button.dataset.src || originalImage.currentSrc || originalImage.src;
+      image.alt = originalImage.alt;
+      dialog.querySelector('.gallery-caption')!.textContent = button.closest('figure')?.querySelector('figcaption')?.textContent || '';
+      dialog.querySelector('.gallery-position')!.textContent = `${index + 1} / ${buttons.length}`;
+      const thumbnails = dialog.querySelector('.gallery-thumbnails')!;
+      if (!thumbnails.children.length) buttons.forEach((source, i) => {
+        const thumbnail = document.createElement('button');
+        thumbnail.type = 'button';
+        const alt = source.querySelector('img')!.alt;
+        thumbnail.setAttribute('aria-label', `${labels.photo} ${i + 1}${alt ? `: ${alt}` : ''}`);
+        const thumbImage = source.querySelector('img')!.cloneNode() as HTMLImageElement;
+        thumbImage.alt = '';
+        thumbnail.append(thumbImage);
+        thumbnails.append(thumbnail);
+      });
+      Array.from(thumbnails.children).forEach((thumbnail, i) => thumbnail.setAttribute('aria-pressed', String(i === index)));
+      states.set(gallery, { ...states.get(gallery), index });
+    };
+    document.addEventListener('click', (event) => {
+      if (!(event.target instanceof Element)) return;
+      const gallery = event.target.closest('.editorial-gallery');
+      if (!gallery) return;
+      const dialog = gallery.querySelector('dialog')!;
+      const opener = event.target.closest<HTMLElement>('.gallery-open');
+      if (opener) {
+        states.set(gallery, { opener, index: 0 });
+        show(gallery, Array.from(gallery.querySelectorAll('.gallery-open')).indexOf(opener));
+        dialog.showModal();
+        return;
+      }
+      const index = states.get(gallery)?.index || 0;
+      if (event.target.closest('.gallery-close') || event.target === dialog) dialog.close();
+      else if (event.target.closest('.gallery-prev')) show(gallery, index - 1);
+      else if (event.target.closest('.gallery-next')) show(gallery, index + 1);
+      else {
+        const thumbnail = event.target.closest('.gallery-thumbnails button');
+        if (thumbnail) show(gallery, Array.from(thumbnail.parentElement!.children).indexOf(thumbnail));
+      }
+    });
+    document.addEventListener('keydown', (event) => {
+      if (!(event.target instanceof Element)) return;
+      const gallery = event.target.closest('.editorial-gallery');
+      if (!gallery?.querySelector('dialog')!.open) return;
+      if (event.key === 'ArrowLeft' || event.key === 'ArrowRight') {
+        event.preventDefault();
+        show(gallery, (states.get(gallery)?.index || 0) + (event.key === 'ArrowLeft' ? -1 : 1));
+      }
+    });
+    document.addEventListener('close', (event) => {
+      if (!(event.target instanceof HTMLDialogElement) || !event.target.matches('.gallery-dialog')) return;
+      const gallery = event.target.closest('.editorial-gallery')!;
+      event.target.querySelector('.gallery-full')!.removeAttribute('src');
+      states.get(gallery)?.opener?.focus();
+    }, true);
+  })();
+</script>
+<style is:global>
+  .editorial-gallery { margin: 2rem 0; }
+  /* Mřížka o šesti sloupcích: první fotografie přes celou šířku, další po třech. */
+  .gallery-grid { display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 1rem; margin: 0; padding: 0; list-style: none; }
+  .gallery-grid > li { grid-column: span 2; padding: 0; margin: 0; min-width: 0; }
+  .gallery-grid > li::before { display: none; }
+  /* Neúplnou poslední řadu vyrovnáme: zbývají-li dvě fotografie, jsou na polovinu šířky;
+     zbývá-li jedna, poslední čtyři fotografie tvoří dvě řady po dvou. */
+  .gallery-grid > li:not(:first-child):nth-child(3n):last-child,
+  .gallery-grid > li:not(:first-child):nth-child(3n+2):nth-last-child(2),
+  .gallery-grid > li:not(:first-child):nth-child(3n+2):last-child,
+  .gallery-grid > li:not(:first-child):nth-child(3n+1):nth-last-child(2),
+  .gallery-grid > li:not(:first-child):nth-child(3n):nth-last-child(3),
+  .gallery-grid > li:not(:first-child):nth-child(3n+2):nth-last-child(4) { grid-column: span 3; }
+  .gallery-grid > li:first-child { grid-column: 1 / -1; margin-bottom: .5rem; }
+  /* Dvě fotografie stojí vedle sebe. */
+  .gallery-grid > li:first-child:nth-last-child(2),
+  .gallery-grid > li:nth-child(2):last-child { grid-column: span 3; margin-bottom: 0; }
+  .gallery-grid figure { margin: 0; }
+  .gallery-open { display: block; width: 100%; padding: 0; border: 0; border-radius: 4px; overflow: hidden; background: transparent; cursor: pointer; }
+  .gallery-grid .gallery-open img { display: block; width: 100%; max-width: none; height: auto; margin: 0; aspect-ratio: 4 / 3; object-fit: cover; }
+  /* Velká první fotografie si ponechá svůj poměr stran; dvojice má stejný výřez jako ostatní náhledy. */
+  .gallery-grid > li:first-child:not(:nth-last-child(2)) img { aspect-ratio: auto; object-fit: contain; }
+  .gallery-grid figcaption { padding: .5rem 0; font-size: 1rem; }
+  .gallery-dialog { position: fixed; inset: 0; margin: 0; width: 100%; height: 100dvh; max-width: none; max-height: none; padding: 0; border: 0; border-radius: 0; background: rgb(0 0 0 / 90%); color: white; overflow: hidden; }
+  html:has(.gallery-dialog[open]) { overflow: hidden; }
+  body:has(.gallery-dialog[open]) { overflow: hidden; }
+  .gallery-dialog::backdrop { background: transparent; }
+  .gallery-stage { position: absolute; inset: 5rem 5rem 25vh; margin: 0; text-align: center; pointer-events: none; }
+  .gallery-dialog .gallery-full { display: block; max-width: 100%; max-height: calc(100% - 3rem); width: auto; height: auto; margin: auto; object-fit: contain; }
+  .gallery-stage figcaption { padding: .5rem; color: white; }
+  .gallery-close { position: absolute; right: 1rem; top: 1rem; color: white; font-size: 2rem; line-height: 1; background: transparent; border: 0; }
+  .gallery-prev, .gallery-next { position: absolute; top: 35vh; left: 2rem; width: 3rem; height: 3rem; color: white; font-size: 3rem; line-height: 1; background: transparent; border: 0; padding: 0; }
+  .gallery-next { left: auto; right: 2rem; }
+  .gallery-dialog button { min-width: 44px; min-height: 44px; cursor: pointer; }
+  .gallery-thumbnails { position: absolute; top: 80vh; left: 50%; transform: translateX(-50%); display: flex; gap: 1rem; max-width: 95vw; overflow-x: auto; }
+  .gallery-thumbnails button { flex: 0 0 10vh; width: 10vh; height: 10vh; border: 2px solid #999; border-radius: 4px; padding: 0; background: transparent; overflow: hidden; }
+  .gallery-thumbnails button[aria-pressed='true'] { border-color: #7fc2ba; }
+  .gallery-thumbnails img { width: 100%; height: 100%; display: block; margin: 0; object-fit: cover; }
+  .gallery-position { position: absolute; bottom: 1rem; width: 100%; text-align: center; }
+  .gallery-open:focus-visible, .gallery-dialog button:focus-visible { outline: 3px solid #7fc2ba; outline-offset: 3px; }
+  .gallery-open:hover { opacity: .85; }
+  @media (max-width: 600px) {
+    .gallery-grid { gap: .5rem; }
+    .gallery-stage { inset: 4rem 3.25rem 25vh; }
+    .gallery-prev { left: .25rem; }
+    .gallery-next { right: .25rem; }
+    .gallery-thumbnails { gap: .5rem; }
+  }
+</style>
