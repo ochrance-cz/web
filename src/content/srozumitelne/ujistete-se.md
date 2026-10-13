@@ -134,7 +134,7 @@ V našem příkladu o přijetí do školky jsme vysvětlili právní pravidlo. O
 
 \{\{% pravni %\}\}
 
-K předškolnímu vzdělávání smí ředitel MŠ přijmout pouze dítě, které se podrobilo všem stanoveným pravidelným očkováním nebo které má doklad, že je proti nákaze imunní, nebo které se nemůže očkování podrobit, protože má doklad o tom, že mu zdravotní stav brání v podání očkovací látky (trvalá kontraindikace).*)
+K předškolnímu vzdělávání smí ředitel MŠ přijmout pouze dítě, které se podrobilo všem stanoveným pravidelným očkováním nebo které má doklad, že je proti nákaze imunní, nebo které se nemůže očkování podrobit, protože má doklad o tom, že mu zdravotní stav brání v podání očkovací látky (trvalá kontraindikace).\*)
 
 \*) § 34 odst. 5 školského zákona: „Při přijímání dětí k předškolnímu vzdělávání je třeba dodržet podmínky stanovené zvláštním právním předpisem.“ Tím je zákon o ochraně veřejného zdraví, § 50: Mateřská škola může „přijmout pouze dítě, které se podrobilo stanoveným pravidelným očkováním, má doklad, že je proti nákaze imunní nebo se nemůže očkování podrobit pro trvalou kontraindikaci“. Pojem trvalá kontraindikace vykládá § 46 odst. 2 zákona o ochraně veřejného zdraví: „Pravidelné \[…] očkování se neprovede při \[…] zjištění zdravotního stavu, který brání podání očkovací látky (trvalá kontraindikace).“
 
@@ -152,7 +152,7 @@ Nebo:
 
 \{\{% pravni %\}\}
 
-Aby byla komunikace veřejně přístupná, nestačí, že její vlastník souhlasí s tím, aby ji užíval konkrétně určený okruh osob (například sousedé), ale – podle rozhodnutí soudů – musí souhlasit i s jejím obecným užíváním, tedy s tím, aby „cestu užíval blíže neurčený okruh osob (tj. veřejnost)“.*)
+Aby byla komunikace veřejně přístupná, nestačí, že její vlastník souhlasí s tím, aby ji užíval konkrétně určený okruh osob (například sousedé), ale – podle rozhodnutí soudů – musí souhlasit i s jejím obecným užíváním, tedy s tím, aby „cestu užíval blíže neurčený okruh osob (tj. veřejnost)“.\*)
 
 \*) Např. rozsudek Nejvyššího správního soudu ze dne 30. 11. 2015, č. j. 6 As 213/2015-14, č. 3371/2016 Sb. NSS, dostupný na www.nssoud.cz.
 

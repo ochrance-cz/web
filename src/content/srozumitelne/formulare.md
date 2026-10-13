@@ -70,7 +70,7 @@ Porovnejte následující dvě verze formuláře o ustanovení zvláštního př
 
 \{\{% nevhodne %\}\}
 
-Vyjádření oprávněného příjemce dávky důchodového pojištění*):
+Vyjádření oprávněného příjemce dávky důchodového pojištění\*):
 
 ☐ Souhlas
 

@@ -1,6 +1,9 @@
 diff --git a/node_modules/@nuasite/cms/.bun-tag-3a2e722424541aae b/.bun-tag-3a2e722424541aae
 new file mode 100644
 index 0000000000000000000000000000000000000000..e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+diff --git a/node_modules/@nuasite/cms/.bun-tag-88ae3a9980be05b7 b/.bun-tag-88ae3a9980be05b7
+new file mode 100644
+index 0000000000000000000000000000000000000000..e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
 diff --git a/src/dev-middleware.ts b/src/dev-middleware.ts
 index c77772362bea9aede3cca673228550e61711b147..99b39b6a2c4a26a5eda025a4d7caa1bae60b20c0 100644
 --- a/src/dev-middleware.ts
@@ -21,6 +24,46 @@ index c77772362bea9aede3cca673228550e61711b147..99b39b6a2c4a26a5eda025a4d7caa1ba
  			if (pathname === e.pathname && previewPathname === e.previewPathname) return e
  			const { pathname: _oldPathname, previewPathname: _oldPreview, ...rest } = e
  			const patched: CollectionEntryInfo = { ...rest }
+diff --git a/src/editor/components/markdown-inline-editor.tsx b/src/editor/components/markdown-inline-editor.tsx
+index 860872fc2e1a07dba41470ec88080cb4b5252327..5a0676661d12513725bced4ab32c517c366f1dc8 100644
+--- a/src/editor/components/markdown-inline-editor.tsx
++++ b/src/editor/components/markdown-inline-editor.tsx
+@@ -15,6 +15,7 @@ import { useCallback, useEffect, useRef, useState } from 'preact/hooks'
+ import { lift } from 'prosemirror-commands'
+ import { useLinkPopover } from '../hooks/useLinkPopover'
+ import { cn } from '../lib/cn'
++import { keepMarkWhitespaceOutside } from '../mark-whitespace'
+ import { uploadMedia } from '../markdown-api'
+ import { insertMdxComponentCommand, mdxComponentPlugin } from '../milkdown-mdx-plugin'
+ import { type ActiveFormats, defaultActiveFormats, isInListType, setupFormatTracking, toggleHeading } from '../milkdown-utils'
+@@ -87,6 +88,7 @@ export function MarkdownInlineEditor({
+ 					.config((ctx) => {
+ 						ctx.set(rootCtx, editorRef.current)
+ 						ctx.set(defaultValueCtx, initialContentRef.current)
++						keepMarkWhitespaceOutside(ctx)
+ 						ctx.get(listenerCtx).markdownUpdated((_, markdown) => {
+ 							setContent(markdown)
+ 							updateMarkdownContent(markdown)
+diff --git a/src/editor/components/mdx-block-view.tsx b/src/editor/components/mdx-block-view.tsx
+index 389acd04190b6a12309e33e3369e7a129e8d583a..67e30becb071f23cb2977b3d5a07b1f38d76fe58 100644
+--- a/src/editor/components/mdx-block-view.tsx
++++ b/src/editor/components/mdx-block-view.tsx
+@@ -15,6 +15,7 @@ import type { ComponentChildren } from 'preact'
+ import { useCallback, useEffect, useMemo, useRef, useState } from 'preact/hooks'
+ import { useLinkPopover } from '../hooks/useLinkPopover'
+ import { getComponentDefinition } from '../manifest'
++import { keepMarkWhitespaceOutside } from '../mark-whitespace'
+ import { MDX_EXPR_PREFIX } from '../milkdown-mdx-plugin'
+ import { type ActiveFormats, defaultActiveFormats, isInListType, setupFormatTracking, toggleHeading } from '../milkdown-utils'
+ import { manifest, openMediaLibraryWithCallback } from '../signals'
+@@ -93,6 +94,7 @@ function MiniMilkdownEditor({ value, onChange }: { value: string; onChange: (v:
+ 				.config((ctx) => {
+ 					ctx.set(rootCtx, el)
+ 					ctx.set(defaultValueCtx, value)
++					keepMarkWhitespaceOutside(ctx)
+ 					ctx.get(listenerCtx).markdownUpdated((_, md) => {
+ 						latestMarkdown.current = md
+ 					})
 diff --git a/src/editor/components/toolbar.tsx b/src/editor/components/toolbar.tsx
 index e6c0c1941ef0d5df3935a21ea5d069e7f9c5c34d..a43dcdb0ee37ec9eb1b258055d0c68dda07297ea 100644
 --- a/src/editor/components/toolbar.tsx
@@ -145,6 +188,78 @@ index 9acc5f6ef8a50b1f3670ce30243be416049c13a2..f7bb4ff10a88892761636aab70a1f7cd
  
  	const handleCompare = useCallback(() => {
  		toggleShowOriginal(config, updateUI)
+diff --git a/node_modules/@nuasite/cms/src/editor/mark-whitespace.ts b/src/editor/mark-whitespace.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f15ffc8bfc2a11be82e8a90b02e8279cc5ba77ea
+--- /dev/null
++++ b/src/editor/mark-whitespace.ts
+@@ -0,0 +1,66 @@
++import { remarkStringifyOptionsCtx } from '@milkdown/core'
++import type { Ctx } from '@milkdown/ctx'
++
++// Bold/italic must not start or end with whitespace in Markdown: `**Otázka?  **`
++// is not bold, and the site shows the asterisks literally. Milkdown moves plain
++// spaces out of a mark on save, but not a non-breaking space or a tab (typical of
++// text pasted from Word), so move any such edge whitespace outside the markers.
++// Line breaks stay inside: emitted outside, they could start a new block.
++
++type Handler = (node: any, parent: any, state: any, info: any) => string
++
++const MARKS = new Set(['strong', 'emphasis', 'delete'])
++const LEADING = /^[^\S\r\n]+/
++const TRAILING = /[^\S\r\n]+$/
++
++function edgeText(node: any, edge: 'first' | 'last'): any {
++	const children = node.children
++	if (!Array.isArray(children) || children.length === 0) return undefined
++	const child = edge === 'first' ? children[0] : children[children.length - 1]
++	if (child.type === 'text') return child
++	return MARKS.has(child.type) ? edgeText(child, edge) : undefined
++}
++
++function isEmpty(node: any): boolean {
++	if (node.type === 'text') return node.value === ''
++	return MARKS.has(node.type) && (node.children ?? []).every(isEmpty)
++}
++
++function prune(node: any): void {
++	if (!MARKS.has(node.type) || !Array.isArray(node.children)) return
++	node.children = node.children.filter((child: any) => !isEmpty(child))
++	node.children.forEach(prune)
++}
++
++function keepWhitespaceOutside(handler: Handler): Handler {
++	const wrapped: Handler = (node, parent, state, info) => {
++		const copy = structuredClone(node)
++		const first = edgeText(copy, 'first')
++		const leading = first?.value.match(LEADING)?.[0] ?? ''
++		if (leading) first.value = first.value.slice(leading.length)
++		const last = edgeText(copy, 'last')
++		const trailing = last?.value.match(TRAILING)?.[0] ?? ''
++		if (trailing) last.value = last.value.slice(0, -trailing.length)
++		if (!leading && !trailing) return handler(node, parent, state, info)
++
++		prune(copy)
++		if (isEmpty(copy)) return leading + trailing
++		return leading + handler(copy, parent, state, {
++			...info,
++			before: leading ? leading.slice(-1) : info.before,
++			after: trailing ? trailing[0] : info.after,
++		}) + trailing
++	}
++	return Object.assign(wrapped, { peek: (handler as any).peek })
++}
++
++/** Call from `Editor.make().config(...)`, before the serializer is created. */
++export function keepMarkWhitespaceOutside(ctx: Ctx): void {
++	ctx.update(remarkStringifyOptionsCtx, (options) => {
++		const handlers: Record<string, Handler> = { ...(options.handlers as Record<string, Handler>) }
++		for (const type of ['strong', 'emphasis']) {
++			if (handlers[type]) handlers[type] = keepWhitespaceOutside(handlers[type])
++		}
++		return { ...options, handlers }
++	})
++}
 diff --git a/src/editor/signals.ts b/src/editor/signals.ts
 index f6715434d03cb6c21234e97a28d0c6138002f1e2..ce27f7d9f882d0b7ace8fbeb75013e3ea4df22b6 100644
 --- a/src/editor/signals.ts

@@ -1,3 +1,6 @@
+diff --git a/node_modules/@nuasite/cms-mdx-editor/.bun-tag-76105377a6899edc b/.bun-tag-76105377a6899edc
+new file mode 100644
+index 0000000000000000000000000000000000000000..e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
 diff --git a/src/format-toolbar.tsx b/src/format-toolbar.tsx
 index 109d4ba6ec3f6ecec2b2de9f4a246375d18896b2..492254c172d0df4369ddda12dc2a20fbb1626ae3 100644
 --- a/src/format-toolbar.tsx
@@ -81,6 +84,98 @@ index 109d4ba6ec3f6ecec2b2de9f4a246375d18896b2..492254c172d0df4369ddda12dc2a20fb
  		</div>
  	)
  }
+diff --git a/node_modules/@nuasite/cms-mdx-editor/src/mark-whitespace.ts b/src/mark-whitespace.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f15ffc8bfc2a11be82e8a90b02e8279cc5ba77ea
+--- /dev/null
++++ b/src/mark-whitespace.ts
+@@ -0,0 +1,66 @@
++import { remarkStringifyOptionsCtx } from '@milkdown/core'
++import type { Ctx } from '@milkdown/ctx'
++
++// Bold/italic must not start or end with whitespace in Markdown: `**Otázka?  **`
++// is not bold, and the site shows the asterisks literally. Milkdown moves plain
++// spaces out of a mark on save, but not a non-breaking space or a tab (typical of
++// text pasted from Word), so move any such edge whitespace outside the markers.
++// Line breaks stay inside: emitted outside, they could start a new block.
++
++type Handler = (node: any, parent: any, state: any, info: any) => string
++
++const MARKS = new Set(['strong', 'emphasis', 'delete'])
++const LEADING = /^[^\S\r\n]+/
++const TRAILING = /[^\S\r\n]+$/
++
++function edgeText(node: any, edge: 'first' | 'last'): any {
++	const children = node.children
++	if (!Array.isArray(children) || children.length === 0) return undefined
++	const child = edge === 'first' ? children[0] : children[children.length - 1]
++	if (child.type === 'text') return child
++	return MARKS.has(child.type) ? edgeText(child, edge) : undefined
++}
++
++function isEmpty(node: any): boolean {
++	if (node.type === 'text') return node.value === ''
++	return MARKS.has(node.type) && (node.children ?? []).every(isEmpty)
++}
++
++function prune(node: any): void {
++	if (!MARKS.has(node.type) || !Array.isArray(node.children)) return
++	node.children = node.children.filter((child: any) => !isEmpty(child))
++	node.children.forEach(prune)
++}
++
++function keepWhitespaceOutside(handler: Handler): Handler {
++	const wrapped: Handler = (node, parent, state, info) => {
++		const copy = structuredClone(node)
++		const first = edgeText(copy, 'first')
++		const leading = first?.value.match(LEADING)?.[0] ?? ''
++		if (leading) first.value = first.value.slice(leading.length)
++		const last = edgeText(copy, 'last')
++		const trailing = last?.value.match(TRAILING)?.[0] ?? ''
++		if (trailing) last.value = last.value.slice(0, -trailing.length)
++		if (!leading && !trailing) return handler(node, parent, state, info)
++
++		prune(copy)
++		if (isEmpty(copy)) return leading + trailing
++		return leading + handler(copy, parent, state, {
++			...info,
++			before: leading ? leading.slice(-1) : info.before,
++			after: trailing ? trailing[0] : info.after,
++		}) + trailing
++	}
++	return Object.assign(wrapped, { peek: (handler as any).peek })
++}
++
++/** Call from `Editor.make().config(...)`, before the serializer is created. */
++export function keepMarkWhitespaceOutside(ctx: Ctx): void {
++	ctx.update(remarkStringifyOptionsCtx, (options) => {
++		const handlers: Record<string, Handler> = { ...(options.handlers as Record<string, Handler>) }
++		for (const type of ['strong', 'emphasis']) {
++			if (handlers[type]) handlers[type] = keepWhitespaceOutside(handlers[type])
++		}
++		return { ...options, handlers }
++	})
++}
+diff --git a/src/mdx-body-editor.tsx b/src/mdx-body-editor.tsx
+index d9d890794512db0332576e0e4a1aa8ae0426c9db..8aba4b9465c928c2dcbca2ecfe0452b97267a535 100644
+--- a/src/mdx-body-editor.tsx
++++ b/src/mdx-body-editor.tsx
+@@ -17,6 +17,7 @@ import type { CmsListStyle, ComponentDefinition } from '@nuasite/cms-types'
+ import { useEffect, useRef, useState } from 'react'
+ import { ComponentPicker } from './component-picker'
+ import { FormatToolbar } from './format-toolbar'
++import { keepMarkWhitespaceOutside } from './mark-whitespace'
+ import { insertMdxComponentCommand, mdxComponentNode, mdxEsmNode, remarkMdxPlugin } from './mdx-plugin'
+ import { type ComponentResolver, createMdxComponentView } from './mdx-view'
+ import type { MediaContext, MediaSource } from './media-source'
+@@ -163,6 +164,7 @@ export function MdxBodyEditor({ value, onChange, components, listStyles, media,
+ 				.config((ctx) => {
+ 					ctx.set(rootCtx, el)
+ 					ctx.set(defaultValueCtx, latest.current)
++					keepMarkWhitespaceOutside(ctx)
+ 					ctx.get(listenerCtx).markdownUpdated((_, md) => {
+ 						latest.current = md
+ 						if (ready.current && !settingExternal.current) onChangeRef.current(md)
 diff --git a/src/media-library.tsx b/src/media-library.tsx
 index ee4e6f933f9769a636bd3e8da0fc5ad08c9a638b..a6ccae85a6e01cae5e12c3d10e013ab54914a518 100644
 --- a/src/media-library.tsx
@@ -130,3 +225,23 @@ index 194a7910e404490cff02a3c5002ba7dbe65cd4dc..ad972e4b26c8ccfa591bd8903a1c114f
  	uploadMedia(file: File, context?: MediaUploadContext): Promise<MediaUploadResult>
  	createFolder?(folder: string): Promise<{ success: boolean; error?: string }>
  	/**
+diff --git a/src/slot-editor.tsx b/src/slot-editor.tsx
+index 932f62a6fcb34d4fc339b2ba7eff83ef30f40146..f5fac2863417c54aeb7ebd5f7bd52142c17164e2 100644
+--- a/src/slot-editor.tsx
++++ b/src/slot-editor.tsx
+@@ -15,6 +15,7 @@ import { gfm } from '@milkdown/preset-gfm'
+ import { replaceAll } from '@milkdown/utils'
+ import { useEffect, useRef, useState } from 'react'
+ import { FormatToolbar } from './format-toolbar'
++import { keepMarkWhitespaceOutside } from './mark-whitespace'
+ 
+ const wrapper: React.CSSProperties = { border: '1px solid #e4e4e7', borderRadius: 6, background: '#fff' }
+ const host: React.CSSProperties = { padding: '6px 10px', minHeight: 60, fontSize: 13, lineHeight: 1.5, outline: 'none' }
+@@ -38,6 +39,7 @@ export function SlotEditor({ value, onChange }: { value: string; onChange: (mark
+ 				.config((ctx) => {
+ 					ctx.set(rootCtx, el)
+ 					ctx.set(defaultValueCtx, latest.current)
++					keepMarkWhitespaceOutside(ctx)
+ 					ctx.get(listenerCtx).markdownUpdated((_, md) => {
+ 						latest.current = md
+ 					})
