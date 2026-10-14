@@ -1,8 +1,8 @@
 diff --git a/src/client.ts b/src/client.ts
-index 8d32e110c69e458c0a601281737e6263f83e49b7..44a6c4ab9e0bd0a06e847733bd33d0b409329468 100644
+index 177ee29c89b54ad3939934c83e5ddcff1eb31c5b..88258a060ae996691597e0ea844455bffd84a9d3 100644
 --- a/src/client.ts
 +++ b/src/client.ts
-@@ -166,6 +166,10 @@ export interface GetEntriesOptions {
+@@ -176,6 +176,10 @@ export interface GetEntriesOptions {
  	/** Opaque continuation cursor from a previous page's `cursor`. */
  	cursor?: string
  	limit?: number
@@ -13,7 +13,7 @@ index 8d32e110c69e458c0a601281737e6263f83e49b7..44a6c4ab9e0bd0a06e847733bd33d0b4
  }
  
  // ============================================================================
-@@ -366,6 +370,8 @@ export function createClient(apiBase: string): CmsClient {
+@@ -388,6 +392,8 @@ export function createClient(apiBase: string): CmsClient {
  			if (options.draft !== undefined) params.set('draft', options.draft)
  			if (options.cursor !== undefined) params.set('cursor', options.cursor)
  			if (options.limit !== undefined) params.set('limit', String(options.limit))

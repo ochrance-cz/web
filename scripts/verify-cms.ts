@@ -153,7 +153,9 @@ for (const [name, definition] of Object.entries(collections)) {
   assert.ok(reread, `${name}: created entry re-reads`);
   if (richBody) assert.equal((await core.getEntry(name, newSlug))?.content, entry.content, `${name}: visual body survives create/read`);
   for (const key of Object.keys(newData)) {
-    assert.equal(JSON.stringify(reread[key]), JSON.stringify(newData[key]), `${name}: ${key} survives create/read`);
+    // Creating an entry leaves out fields the form left blank (''), as the editors do.
+    const expected = newData[key] === '' ? undefined : newData[key];
+    assert.equal(JSON.stringify(reread[key]), JSON.stringify(expected), `${name}: ${key} survives create/read`);
   }
   created++;
   const deletedEntry = await core.deleteEntry(name, newSlug);
@@ -269,8 +271,7 @@ for (const name of ['podejte-stiznost', 'podejte-stiznost-en']) {
     assert.equal(fields.find(field => field.name === method)?.fields?.find(field => field.name === 'icon')?.type, 'image', `${name}.${method}: icon is uploadable`);
   }
 }
-const editorToolbar = readFileSync('node_modules/@nuasite/cms/src/editor/components/toolbar.tsx', 'utf8');
-assert.match(editorToolbar, /collectionManagementEnabled && currentPageCollection && callbacks\.onEditContent/, 'legacy black collection editor is disabled with collection management');
+// The editor loads from the CDN, not node_modules, so a patch to its source never applied: the guard below is what disables the legacy collection editor.
 assert.match(readFileSync('src/scripts/index.js', 'utf8'), /setupLegacyCollectionEditorGuard/, 'hosted CDN editor is guarded on every page');
 
 const server = createServer({ core, fs: disk, root: process.cwd(), coreVersion: 'verification' });

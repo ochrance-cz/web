@@ -1,0 +1,61 @@
+diff --git a/src/field-types.ts b/src/field-types.ts
+index 1de407c84ef06fc26677395ca5565ddd13a86b6f..e79dfb6e2f853d17fba2d62a85d80877292f050f 100644
+--- a/src/field-types.ts
++++ b/src/field-types.ts
+@@ -154,7 +154,7 @@ export const n = {
+ 	/** Object schema */
+ 	object: <T extends z.ZodRawShape>(shape: T) => z.object(shape),
+ 	/** Array schema */
+-	array: <T extends z.ZodTypeAny>(schema: T) => z.array(schema),
++	array: <T extends z.ZodTypeAny>(schema: T, _hints?: LayoutHints) => z.array(schema),
+ 	/**
+ 	 * Enum schema — a closed option list, rendered as a select.
+ 	 *
+@@ -173,7 +173,7 @@ export const n = {
+ 
+ 	// --- CMS semantic types ---
+ 	/** Boolean / checkbox */
+-	boolean: () => withOrderBy(z.boolean().describe('cms:checkbox')),
++	boolean: (_hints?: LayoutHints) => withOrderBy(z.boolean().describe('cms:checkbox')),
+ 	/** Number input with optional min/max/step */
+ 	number: (hints?: NumberHints) => {
+ 		let schema = z.number()
+diff --git a/src/local-admin.ts b/src/local-admin.ts
+index 81b0b36e350362da9c33599f43c33e2fefc20b46..dc4004bea9c7d41d95f54ad8b482d395e450d82a 100644
+--- a/src/local-admin.ts
++++ b/src/local-admin.ts
+@@ -110,7 +110,10 @@ export interface AdminPeerLoader {
+ export const defaultAdminPeerLoader: AdminPeerLoader = {
+ 	async loadCreateSidecar() {
+ 		const moduleId = '@nuasite/cms-sidecar'
+-		const loaded = await import(moduleId).then(
++		// Load optional peers outside Vite's SSR module runner. A dev-server
++		// restart can close that runner and otherwise leave /_nua/admin at 501.
++		const nativeImport = new Function('id', 'return import(id)') as (id: string) => Promise<any>
++		const loaded = await nativeImport(moduleId).then(
+ 			(mod: { createServer: typeof CreateSidecarServer }) => mod,
+ 			() => null,
+ 		)
+@@ -118,7 +121,8 @@ export const defaultAdminPeerLoader: AdminPeerLoader = {
+ 	},
+ 	async isCollectionsAdminInstalled() {
+ 		const moduleId = '@nuasite/collections-admin'
+-		return import(moduleId).then(
++		const nativeImport = new Function('id', 'return import(id)') as (id: string) => Promise<unknown>
++		return nativeImport(moduleId).then(
+ 			() => true,
+ 			() => false,
+ 		)
+diff --git a/src/types.ts b/src/types.ts
+index 24ebe20867ac193184c9d6e21538e564027ee8db..46c1cd3e7c4749290ce3583cc361e01a4dc92411 100644
+--- a/src/types.ts
++++ b/src/types.ts
+@@ -346,6 +346,8 @@ export type CmsPostMessage =
+ 
+ export interface CmsFeatures {
+ 	selectElement?: boolean
++	/** Hide legacy page-source editing actions while keeping collection content editing. */
++	pageEditing?: boolean
+ 	/**
+ 	 * Controls the in-preview collection browser/management UI (browse collections,
+ 	 * list/open entries). Defaults to enabled. When `false`, the widget hides this

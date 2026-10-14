@@ -2,7 +2,7 @@ import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';
 import { createCmsCore, createNodeFs, parseConfigSource } from '@nuasite/cms-core';
 import { createServer } from '@nuasite/cms-sidecar';
-import { compareCzechCollections } from '../node_modules/@nuasite/collections-admin/src/collection-order';
+import { resolveCollectionNav } from '@nuasite/cms-types';
 
 const disk = createNodeFs(process.cwd());
 // Check the literal schema, before the local vocabulary patch can conceal a
@@ -25,9 +25,21 @@ for (const [name, definition] of parsed) {
 
 const realCore = createCmsCore(disk);
 const definitions = await realCore.scanCollections();
-const requestedFirst = ['aktualne', 'letaky', 'dokument', 'provoz-kontakty', 'zpravodaj', 'info106', 'alert'];
-const czechNavigation = Object.values(definitions).filter(c => !c.name.endsWith('-en')).sort(compareCzechCollections);
-assert.deepEqual(czechNavigation.slice(0, requestedFirst.length).map(c => c.name), requestedFirst, 'Frequent Czech collections precede alphabetic remainder');
+// The admin menu comes from `cms: { order, group }` in the content config, arranged by
+// the shared `resolveCollectionNav`. Labels compare in the project's language, which the
+// CMS reads from `i18n.defaultLocale` in astro.config.ts.
+const navigation = resolveCollectionNav(Object.values(definitions), { locale: 'cs' });
+const names = (section: (typeof navigation)[number]) => section.items.flatMap(item => [item.collection.name, ...item.children.map(child => child.name)]);
+const requestedFirst = ['aktualne', 'letaky', 'dokument', 'provoz-kontakty', 'lide', 'oddeleni', 'zpravodaj', 'zpravodaj-articles', 'info106', 'alert'];
+assert.equal(navigation[0]?.group, undefined, 'Frequent collections come first, without a heading');
+assert.deepEqual(names(navigation[0]), requestedFirst, 'Frequent Czech collections in the editors\' order');
+assert.deepEqual(navigation.slice(1).map(section => section.group), ['Další obsah', 'Anglická verze webu'], 'Remaining Czech content, then the English version');
+for (const section of navigation) {
+  for (const name of names(section)) {
+    assert.equal(name.endsWith('-en'), section.group === 'Anglická verze webu', `${name}: listed in the section of its language`);
+  }
+}
+assert.deepEqual(navigation.flatMap(names).sort(), Object.keys(definitions).sort(), 'Every collection is listed once');
 assert(definitions.pusobnost.entries?.some(e => e.slug === 'obcane-eu'), 'EU citizens page is editable under Působnost');
 assert(!definitions.info.entries?.some(e => e.slug === 'obcane-eu'), 'EU citizens page is absent from Info');
 for (const [name, definition] of Object.entries(definitions)) {

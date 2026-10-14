@@ -1,0 +1,134 @@
+diff --git a/src/format-toolbar.tsx b/src/format-toolbar.tsx
+index 4fea5ab7276cec1a1ff3c59035b7a35e9edd2282..f36d3e72ba91e36a97a865ea458ca6f641c4f52e 100644
+--- a/src/format-toolbar.tsx
++++ b/src/format-toolbar.tsx
+@@ -10,6 +10,7 @@
+  * given. Without one, the alt and caption are still editable.
+  */
+ import { type Editor, editorViewCtx } from '@milkdown/core'
++import { TextSelection } from '@milkdown/prose/state'
+ import {
+ 	liftListItemCommand,
+ 	toggleEmphasisCommand,
+@@ -185,6 +186,8 @@ export function FormatToolbar({ editor, listStyles, media, mediaContext, field,
+ 	const [linkOpen, setLinkOpen] = useState(false)
+ 	/** What a pick in the media library does: insert a new image, or replace the one being edited. */
+ 	const [mediaPurpose, setMediaPurpose] = useState<'insert' | 'replace' | null>(null)
++	/** Selection a PDF link is attached to, kept while the library has the focus; `null` when closed. */
++	const [pdfSelection, setPdfSelection] = useState<{ from: number; to: number } | null>(null)
+ 	const [youtubeOpen, setYoutubeOpen] = useState(false)
+ 	const [pendingImage, setPendingImage] = useState<{ url: string; alt: string } | null>(null)
+ 	const [imageEdit, setImageEdit] = useState<ImageEdit | null>(null)
+@@ -226,6 +229,33 @@ export function FormatToolbar({ editor, listStyles, media, mediaContext, field,
+ 		editor?.ctx.get(editorViewCtx).focus()
+ 	}
+ 
++	const openPdfLibrary = () => {
++		if (!editor || !media) return
++		const { from, to } = editor.ctx.get(editorViewCtx).state.selection
++		setPdfSelection({ from, to })
++	}
++
++	// Links the picked PDF to the selection saved on open. With nothing selected, the file name
++	// (without `.pdf`) is inserted as the link text first.
++	const applyPdf = (url: string, name: string | undefined) => {
++		const saved = pdfSelection
++		setPdfSelection(null)
++		if (!editor || !saved) return
++		const view = editor.ctx.get(editorViewCtx)
++		const max = view.state.doc.content.size
++		const from = Math.min(saved.from, max)
++		const to = Math.min(saved.to, max)
++		if (from === to) {
++			const label = (name ?? '').replace(/\.pdf$/i, '') || 'PDF'
++			view.dispatch(view.state.tr.insertText(label, from, to))
++			view.dispatch(view.state.tr.setSelection(TextSelection.create(view.state.doc, from, from + label.length)))
++		} else {
++			view.dispatch(view.state.tr.setSelection(TextSelection.create(view.state.doc, from, to)))
++		}
++		view.focus()
++		editor.action(callCommand(toggleLinkCommand.key, { href: url }))
++	}
++
+ 	const removeLink = () => {
+ 		setLinkOpen(false)
+ 		if (!editor) return
+@@ -288,6 +318,7 @@ export function FormatToolbar({ editor, listStyles, media, mediaContext, field,
+ 				<Btn active={youtubeOpen} title="Insert YouTube" onClick={() => !disabled && setYoutubeOpen(v => !v)}>YouTube</Btn>
+ 				<span style={sep} />
+ 				<Btn active={formats.link || linkOpen} title="Link" onClick={() => !disabled && setLinkOpen(v => !v)}>🔗 Link</Btn>
++				{media && allowImageInsert ? <Btn title="Attach a PDF to selected text" onClick={() => !disabled && openPdfLibrary()}>📄 PDF</Btn> : null}
+ 				{media && allowImageInsert ? <Btn title="Insert image" onClick={() => !disabled && setMediaPurpose('insert')}>🖼 Image</Btn> : null}
+ 				{selectedImage
+ 					? (
+@@ -394,6 +425,20 @@ export function FormatToolbar({ editor, listStyles, media, mediaContext, field,
+ 					/>
+ 				)
+ 				: null}
++
++			{pdfSelection && media
++				? (
++					<MediaLibrary
++						media={media}
++						context={mediaContext}
++						field={field}
++						accept="application/pdf,.pdf"
++						initialTypeFilter="document"
++						onSelect={applyPdf}
++						onClose={() => setPdfSelection(null)}
++					/>
++				)
++				: null}
+ 		</div>
+ 	)
+ }
+diff --git a/src/media-library.tsx b/src/media-library.tsx
+index da96c3351a30ba40900331573a2e1453fe693990..ea441bf225eccf5d23ada09e9d62d9cc57f668bd 100644
+--- a/src/media-library.tsx
++++ b/src/media-library.tsx
+@@ -122,6 +122,8 @@ export interface MediaLibraryProps {
+ 	field?: string
+ 	/** File-input `accept`. Defaults to images + PDF. */
+ 	accept?: string
++	/** Tab the gallery opens on. Defaults to `'all'`. */
++	initialTypeFilter?: MediaTypeFilter
+ 	onSelect: (url: string, alt?: string) => void
+ 	onClose: () => void
+ }
+@@ -250,12 +252,12 @@ const tileCaption: React.CSSProperties = {
+ 	textOverflow: 'ellipsis',
+ }
+ 
+-export function MediaLibrary({ media, context, field, accept = 'image/*,application/pdf', onSelect, onClose }: MediaLibraryProps) {
++export function MediaLibrary({ media, context, field, accept = 'image/*,application/pdf', initialTypeFilter = 'all', onSelect, onClose }: MediaLibraryProps) {
+ 	const [items, setItems] = useState<MediaItem[]>([])
+ 	const [folders, setFolders] = useState<MediaFolderItem[]>([])
+ 	const [currentFolder, setCurrentFolder] = useState('')
+ 	const [searchQuery, setSearchQuery] = useState('')
+-	const [typeFilter, setTypeFilter] = useState<MediaTypeFilter>('all')
++	const [typeFilter, setTypeFilter] = useState<MediaTypeFilter>(initialTypeFilter)
+ 	/** First page of the current folder — the grid is replaced by a placeholder. */
+ 	const [loading, setLoading] = useState(false)
+ 	/** A follow-up page — the grid stays on screen underneath. */
+@@ -314,6 +316,8 @@ export function MediaLibrary({ media, context, field, accept = 'image/*,applicat
+ 				limit: pageSize,
+ 				cursor: listing.cursor,
+ 				type: listing.type,
++				// The project scan has no folders, so the sidecar merges it in at the root only.
++				...(listing.folder ? {} : { includeProjectImages: true }),
+ 			})
+ 			if (!mountedRef.current || listingRef.current !== listing) return
+ 			listing.pages += 1
+diff --git a/src/media-source.ts b/src/media-source.ts
+index 34b85fe60a7a7dbde62eea4a4bdf9c5df0ec47aa..533cecc7c31d13f722b7f501499bd8f1736b3e03 100644
+--- a/src/media-source.ts
++++ b/src/media-source.ts
+@@ -25,7 +25,7 @@ export interface MediaSource {
+ 	 * gallery reads `MediaListResult.appliedType` to find out, and filters what it loaded when the
+ 	 * answer came back unfiltered.
+ 	 */
+-	listMedia(options?: { folder?: string; cursor?: string; limit?: number; type?: MediaTypeFilter }): Promise<MediaListResult>
++	listMedia(options?: { folder?: string; cursor?: string; limit?: number; type?: MediaTypeFilter; includeProjectImages?: boolean }): Promise<MediaListResult>
+ 	uploadMedia(file: File, context?: MediaUploadContext): Promise<MediaUploadResult>
+ 	createFolder?(folder: string): Promise<{ success: boolean; error?: string }>
+ 	/**

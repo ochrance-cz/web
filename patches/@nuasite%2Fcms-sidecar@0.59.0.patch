@@ -1,0 +1,67 @@
+diff --git a/src/server.ts b/src/server.ts
+index 58f90c573d42631c121f546fdbecf23959e35f41..470d8eef093ca737bf96a2ed7d6c214c318c8cbb 100644
+--- a/src/server.ts
++++ b/src/server.ts
+@@ -790,7 +790,36 @@ export function createServer(opts: CreateServerOptions): CmsSidecarServer {
+ 		const routes = await collectionRoutes.get().catch(() => new Map<string, CollectionRoute>())
+ 		const route = routes.get(collection)
+ 		const all = (def.entries ?? []).map(e => entryWithPageUrl(def, e, route))
+-		const filtered = filterByDraft(all, query.draft)
++		let filtered = filterByDraft(all, query.draft)
++		const sort = url.searchParams.get('sort')
++		const requestedField = url.searchParams.get('sortField')
++		const dateField = def.fields.find(field => field.name === requestedField && (field.type === 'date' || field.type === 'datetime'))
++		const key = requestedField === 'title' ? 'title' : dateField?.name ?? (requestedField ? undefined : def.orderBy)
++		if (key && (sort === 'asc' || sort === 'desc')) {
++			const direction = sort === 'desc' ? -1 : 1
++			const locale = collection.endsWith('-en') ? 'en' : 'cs'
++			// Normalize before comparison: YAML dates, ISO strings, empty editor writes
++			// and invalid legacy dates can coexist. Undated entries stay last both ways.
++			const value = (entry: CollectionEntryInfo): string | number | undefined => {
++				if (key === 'title') return entry.title || entry.slug
++				const raw = entry.data?.[key]
++				if (raw == null || raw === '') return undefined
++				const time = raw instanceof Date ? raw.getTime() : Date.parse(String(raw))
++				return Number.isFinite(time) ? time : undefined
++			}
++			filtered = [...filtered].sort((a, b) => {
++				const left = value(a)
++				const right = value(b)
++				const tie = (a.title || a.slug).localeCompare(b.title || b.slug, locale) || a.slug.localeCompare(b.slug, locale)
++				if (left === undefined && right === undefined) return tie
++				if (left === undefined) return 1
++				if (right === undefined) return -1
++				const order = typeof left === 'number' && typeof right === 'number'
++					? left - right
++					: String(left).localeCompare(String(right), locale)
++				return order * direction || tie
++			})
++		}
+ 
+ 		const offset = decodeCursor(query.cursor)
+ 		const limit = query.limit ?? DEFAULT_LIMIT
+@@ -1015,7 +1044,23 @@ export function createServer(opts: CreateServerOptions): CmsSidecarServer {
+ 		// The scan is one unpaginated list, so its filter is a plain one — and the offset the cursor
+ 		// carries indexes the *filtered* list, which is stable for as long as the tree is.
+ 		const offset = projectOffset ?? 0
+-		const projectImages = filterMediaItems(await listProjectImages(fs, { exclude: { dir: adapter.staticFiles?.dir, root } }), type)
++		const localImages = await listProjectImages(fs, { exclude: { dir: adapter.staticFiles?.dir, root } })
++		let scanned = localImages
++		try {
++			// Media the content links to on the CDN, indexed by the project. Deduplicated against the
++			// scan only, never against this page's adapter items: the offset in the cursor has to
++			// count into the same list on every page.
++			const referenced = JSON.parse(await fs.readFile('src/lib/content-media.json')) as MediaItem[]
++			const seen = new Set<string>()
++			const unique = referenced.filter(item => !seen.has(item.url) && seen.add(item.url))
++			// Real site photographs first, then the project's own files, then linked documents.
++			scanned = [
++				...unique.filter(item => item.contentType.startsWith('image/')),
++				...localImages.filter(item => !seen.has(item.url)),
++				...unique.filter(item => !item.contentType.startsWith('image/')),
++			]
++		} catch { /* optional content-media index */ }
++		const projectImages = filterMediaItems(scanned, type)
+ 		const slice = projectImages.slice(offset, offset + Math.max(0, limit - items.length))
+ 		items.push(...slice)
+ 

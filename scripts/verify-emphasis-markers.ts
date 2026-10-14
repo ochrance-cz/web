@@ -7,13 +7,14 @@ import remarkStringify from 'remark-stringify';
 import { visit } from 'unist-util-visit';
 import assert from 'node:assert/strict';
 import { Ctx, Container, Clock } from '@milkdown/ctx';
-import { editorViewCtx, nodesCtx, marksCtx, remarkStringifyOptionsCtx } from '@milkdown/core';
+import { editorViewCtx, nodesCtx, marksCtx, remarkPluginsCtx, remarkStringifyOptionsCtx } from '@milkdown/core';
 import { schema as commonmarkSchema } from '@milkdown/preset-commonmark';
 import { schema as gfmSchema } from '@milkdown/preset-gfm';
 import { Schema } from '@milkdown/prose/model';
 import { SerializerState } from '@milkdown/transformer';
-import { keepMarkWhitespaceOutside } from '../node_modules/@nuasite/cms-mdx-editor/src/mark-whitespace';
-import { keepMarkWhitespaceOutside as keepNativeMarkWhitespaceOutside } from '../node_modules/@nuasite/cms/src/editor/mark-whitespace';
+// Neither package exports the plugin, so it is read from the installed sources.
+import { markWhitespacePlugin } from '../node_modules/@nuasite/cms-mdx-editor/src/mark-whitespace';
+import { markWhitespacePlugin as nativeMarkWhitespacePlugin } from '../node_modules/@nuasite/cms/src/editor/mark-whitespace';
 
 // Bold/italic whose markers sit next to whitespace inside them (`**Otázka?  **`,
 // typically a non-breaking space pasted from Word) is not emphasis in Markdown:
@@ -30,15 +31,23 @@ const remark = unified().use(remarkParse).use(remarkGfm);
 
 // Save with the editors' real serializer: bold/italic ending or starting with a
 // non-breaking space (pasted from Word), inside a highlighted box, must stay bold.
-for (const keepOutside of [keepMarkWhitespaceOutside, keepNativeMarkWhitespaceOutside]) {
+// The fix is a remark plugin (`$remark`) that wraps the compiler, so it has to be
+// registered on the same unified processor the serializer stringifies with.
+for (const plugin of [markWhitespacePlugin, nativeMarkWhitespacePlugin]) {
   const ctx = new Ctx(new Container(), new Clock());
   // The paragraph serializer reads the editor view; there is none outside the browser.
-  ctx.inject(nodesCtx).inject(marksCtx).inject(remarkStringifyOptionsCtx).inject(editorViewCtx, {} as any);
+  ctx.inject(nodesCtx).inject(marksCtx).inject(remarkStringifyOptionsCtx).inject(remarkPluginsCtx, []).inject(editorViewCtx, {} as any);
+  // Nothing here waits on editor timers (the plugin waits for InitReady).
   (ctx as any).wait = async () => {};
-  for (const plugin of [...commonmarkSchema, ...gfmSchema]) await plugin(ctx)();
-  keepOutside(ctx);
+  for (const part of [...commonmarkSchema, ...gfmSchema, ...plugin]) await part(ctx)();
+  const registered = ctx.get(remarkPluginsCtx);
+  assert.equal(registered.length, 1, 'the mark whitespace plugin registers one remark plugin');
   const schema = new Schema({ nodes: Object.fromEntries(ctx.get(nodesCtx)), marks: Object.fromEntries(ctx.get(marksCtx)) });
-  const editorRemark = unified().use(remarkParse).use(remarkStringify, ctx.get(remarkStringifyOptionsCtx)).use(remarkGfm);
+  // Used after remark-stringify: the plugin wraps the compiler that one installs.
+  const editorRemark = registered.reduce(
+    (processor: any, { plugin: remarkPlugin, options }) => processor.use(remarkPlugin, options),
+    unified().use(remarkParse).use(remarkStringify, ctx.get(remarkStringifyOptionsCtx)).use(remarkGfm),
+  );
   const { strong, emphasis } = schema.marks;
   const doc = schema.node('doc', null, [schema.node('blockquote', null, [
     schema.node('paragraph', null, [schema.text('Otázka?\u00a0\u00a0', [strong.create()])]),
@@ -67,7 +76,7 @@ for (const file of bodies) {
     const raw = body.slice(start, end);
     if (!/(?<!\\)\*/.test(raw)) return;
     const line = node.position.start.line + lineOffset;
-    const snippet = raw.replace(/ /g, '⍽').replace(/\s+/g, ' ').trim().slice(0, 120);
+    const snippet = raw.replace(/\u00a0/g, '⍽').replace(/\s+/g, ' ').trim().slice(0, 120);
     findings.push(`${file}:${line}  ${snippet}`);
   });
 }

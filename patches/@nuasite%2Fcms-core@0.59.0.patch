@@ -1,17 +1,8 @@
-diff --git a/node_modules/@nuasite/cms-core/.bun-tag-4bc8184ef966852f b/.bun-tag-4bc8184ef966852f
-new file mode 100644
-index 0000000000000000000000000000000000000000..e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
-diff --git a/node_modules/@nuasite/cms-core/.bun-tag-5b1c7328f7607df2 b/.bun-tag-5b1c7328f7607df2
-new file mode 100644
-index 0000000000000000000000000000000000000000..e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
-diff --git a/node_modules/@nuasite/cms-core/.bun-tag-984723aff7630dac b/.bun-tag-984723aff7630dac
-new file mode 100644
-index 0000000000000000000000000000000000000000..e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
 diff --git a/src/collection-scanner.ts b/src/collection-scanner.ts
-index 4c56c29e5df2e66bd7f0500f9a2335046f35581d..060f9afa74f059ef513e59f0cdbb36ecfd4fa1ba 100644
+index d19b57a36a740da45d27e7f6d3f2a7bc7f2d9ba5..2bface33fe275fcdffa98423be68b4ec2c3afc09 100644
 --- a/src/collection-scanner.ts
 +++ b/src/collection-scanner.ts
-@@ -503,6 +503,7 @@ async function buildDataCollectionDefinition(
+@@ -524,6 +524,7 @@ async function buildDataCollectionDefinition(
  	const sourceBasePath = getCollectionSourceBasePath(basePath, collectionName, contentDir)
  	const fieldMap = new Map<string, FieldObservation>()
  	const entryInfos: CollectionEntryInfo[] = []
@@ -19,7 +10,7 @@ index 4c56c29e5df2e66bd7f0500f9a2335046f35581d..060f9afa74f059ef513e59f0cdbb36ec
  	const ext = sources.some(s => s.relPath.endsWith('.json'))
  		? 'json' as const
  		: sources.some(s => s.relPath.endsWith('.yaml'))
-@@ -529,10 +530,13 @@ async function buildDataCollectionDefinition(
+@@ -550,10 +551,13 @@ async function buildDataCollectionDefinition(
  		// deliberate change from the old `name`-first order; declare `titleField` to
  		// pin a different field.
  		const title = deriveEntryTitle(data)
@@ -33,15 +24,15 @@ index 4c56c29e5df2e66bd7f0500f9a2335046f35581d..060f9afa74f059ef513e59f0cdbb36ec
  			data,
  		})
  
-@@ -542,6 +546,7 @@ async function buildDataCollectionDefinition(
- 	return assembleCollectionDefinition(collectionName, contentDir, fieldMap, entryInfos, sources.length, {
+@@ -564,6 +568,7 @@ async function buildDataCollectionDefinition(
+ 		path: sourceBasePath,
  		type: 'data',
  		fileExtension: ext,
 +		supportsDraft: hasDraft,
  	})
  }
  
-@@ -648,8 +653,12 @@ function applyParsedConfig(
+@@ -686,8 +691,12 @@ function applyParsedConfig(
  		const fieldsByName = new Map(def.fields.map(f => [f.name, f]))
  		for (const pf of parsedColl.fields) {
  			const field = fieldsByName.get(pf.name)
@@ -56,30 +47,7 @@ index 4c56c29e5df2e66bd7f0500f9a2335046f35581d..060f9afa74f059ef513e59f0cdbb36ec
  		}
  
  		// Declarative form layout from `defineCmsCollection({ cms })`.
-@@ -731,6 +740,11 @@ function applyParsedFieldLayout(field: FieldDefinition, pf: ParsedField): void {
-  * and offers a remove button. Merging here would defeat that.
-  */
- function applyParsedFieldOverrides(field: FieldDefinition, pf: ParsedField): void {
-+	if (pf.reference && !pf.reference.isArray) {
-+		field.type = 'reference'
-+		field.collection = pf.reference.target
-+		field.options = undefined
-+	}
- 	if (pf.type) {
- 		field.type = pf.type
- 		// Parsed options only ever come from a declared `(z|n).enum([…])`, so they are a
-@@ -774,6 +788,10 @@ function parsedFieldToFieldDefinition(pf: ParsedField): FieldDefinition {
- 		type: pf.type ?? (pf.fields ? 'object' : 'text'),
- 		required: pf.required,
- 	}
-+	if (pf.reference && !pf.reference.isArray) {
-+		fd.type = 'reference'
-+		fd.collection = pf.reference.target
-+	}
- 	if (pf.options) {
- 		fd.options = pf.options
- 		fd.optionsClosed = true
-@@ -1175,6 +1193,27 @@ export async function scanCollections(
+@@ -1233,6 +1242,27 @@ export async function scanCollections(
  	detectDerivedHrefFields(collections)
  	assignSemanticRoles(collections)
  	applyCollectionOrderBy(collections, parsed)
@@ -106,12 +74,12 @@ index 4c56c29e5df2e66bd7f0500f9a2335046f35581d..060f9afa74f059ef513e59f0cdbb36ec
 +	} catch { /* optional field vocabulary */ }
  	warnOnPathnameCollisions(collections)
  
- 	return collections
+ 	// The report has to describe the disk as this scan found it, so it is built here and not
 diff --git a/src/content-config-ast.ts b/src/content-config-ast.ts
-index 90dca973ba584f85515cfedfa9172c84405d8197..ee4c153efc684e4e12da385293a827f6d26725e7 100644
+index ecc61c97346d0e85be787c21f4317ed8e859c737..61ab56e67be314ba5f9bb2ed2fbb41a98c904609 100644
 --- a/src/content-config-ast.ts
 +++ b/src/content-config-ast.ts
-@@ -907,6 +907,13 @@ function analyzeBaseCall(node: t.CallExpression, field: ParsedField, bindings: B
+@@ -1510,6 +1510,13 @@ function analyzeBaseCall(node: t.CallExpression, field: ParsedField, bindings: B
  	// and a plain `z.boolean()` declares the very same field.
  	if ((ns === 'z' || ns === 'n') && fn === 'boolean') {
  		field.type = 'boolean'
@@ -125,7 +93,7 @@ index 90dca973ba584f85515cfedfa9172c84405d8197..ee4c153efc684e4e12da385293a827f6
  		return
  	}
  
-@@ -944,6 +951,13 @@ function analyzeBaseCall(node: t.CallExpression, field: ParsedField, bindings: B
+@@ -1547,6 +1554,13 @@ function analyzeBaseCall(node: t.CallExpression, field: ParsedField, bindings: B
  
  	// (z|n).array(<inner>)  →  array; inspect the element type
  	if ((ns === 'z' || ns === 'n') && fn === 'array') {
