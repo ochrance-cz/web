@@ -40,7 +40,7 @@ roots.forEach(walk);
 // editors may want to link it again, so a removed reference is no reason to drop it. That also
 // keeps an edit in the CMS, which commits straight to main, from breaking the check below.
 const indexed = existsSync(output) ? JSON.parse(readFileSync(output, 'utf8')) as Array<{ url: string }> : [];
-const known = new Set(indexed.map(item => item.url));
+const known = new Set(indexed.map(item => item.url).filter(url => cdn.test(url)));
 const missing = [...urls].filter(url => !known.has(url) && contentType(url));
 const items = [...new Set([...known, ...urls])].map(url => {
   const mime = contentType(url);
@@ -51,6 +51,8 @@ const items = [...new Set([...known, ...urls])].map(url => {
 const serialized = `${JSON.stringify(items)}\n`;
 if (process.argv.includes('--check')) {
   if (missing.length) throw new Error(`Content links to ${missing.length} CDN files the media index lacks, e.g. ${missing[0]}. Run bun run media:index.`);
+  // The editor drops the whole index when one entry is malformed, so a hand edit has to match what the script writes.
+  if (readFileSync(output, 'utf8') !== serialized) throw new Error('Content media index is not as bun run media:index writes it. Run it.');
 } else {
   writeFileSync(output, serialized);
 }
