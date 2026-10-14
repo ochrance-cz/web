@@ -5,7 +5,6 @@ import { bodyGalleries } from './src/remark/body-galleries';
 import { remarkCzechTypography } from './src/remark/czech-typography';
 import { remarkShortcodes } from './src/remark/shortcodes';
 import { redirects } from './src/lib/redirects';
-import { mergeRedirects } from './src/lib/merge-redirects';
 import { ownOriginFiles } from './src/lib/own-origin-files';
 import { collectionLabels } from './src/lib/collection-labels';
 
@@ -22,9 +21,10 @@ export default defineConfig({
     routing: { prefixDefaultLocale: false },
   },
   redirects: Object.fromEntries(Object.entries(redirects).map(([from, destination]) => [from, { destination, status: 301 }])),
-  // Runs after nua's integration, which would otherwise clobber public/_redirects.
-  // Only the Cloudflare Worker can serve the CDN's files under the site's own paths.
-  integrations: [mergeRedirects(), ...(process.env.DEPLOY_TARGET === 'cloudflare' ? [ownOriginFiles()] : [])],
+  // nua merges public/_redirects, these `redirects` and the CMS's src/_redirects into
+  // dist/_redirects itself. Only the Cloudflare Worker can serve the CDN's files under
+  // the site's own paths.
+  integrations: [...(process.env.DEPLOY_TARGET === 'cloudflare' ? [ownOriginFiles()] : [])],
   nua: {
     // Collection data contains Markdown fields, including some historical HTML
     // tables. Disable MDX so those fields can render with rehype-raw.

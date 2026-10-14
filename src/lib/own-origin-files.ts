@@ -60,8 +60,10 @@ export function rewriteRedirects(text: string): string {
  * previews. On Cloudflare the Worker serves the same files under the site's own
  * paths (cloudflare/src/index.ts), so the production build links to them there.
  *
- * Has to follow `mergeRedirects`, whose `_redirects` it rewrites. Nua derives its
- * Markdown copies of the pages from the HTML only afterwards, so they agree.
+ * Runs after nua has merged public/_redirects and the config's `redirects` into
+ * `_redirects`, which it rewrites; the CMS merges its own rules in after this, and
+ * those point at uploads, not the CDN. Nua derives its Markdown copies of the pages
+ * from the HTML only afterwards, so they agree.
  */
 export function ownOriginFiles(): AstroIntegration {
   let siteOrigin: string | undefined;
