@@ -14,7 +14,9 @@ permissions:
   contents: read
 
 concurrency:
-  group: pr-build-${{ github.event.pull_request.number || github.ref }}
+  # A pull request keeps only its newest run; each push to main gets its own, so a failure
+  # points at the commit that caused it.
+  group: pr-build-${{ github.event.pull_request.number || github.sha }}
   cancel-in-progress: true
 
 jobs:
