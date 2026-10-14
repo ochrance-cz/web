@@ -109,6 +109,8 @@
   .gallery-grid .gallery-open img { display: block; width: 100%; max-width: none; height: auto; margin: 0; aspect-ratio: 4 / 3; object-fit: cover; }
   /* Velká první fotografie si ponechá svůj poměr stran; dvojice má stejný výřez jako ostatní náhledy. */
   .gallery-grid > li:first-child:not(:nth-last-child(2)) img { aspect-ratio: auto; object-fit: contain; }
+  /* Článek „Zeptejte se Otakara“: první screenshot chatbota je příliš velký, zobrazíme ho zmenšený. */
+  .gallery-grid > li:first-child .gallery-open[data-src$="2643a7a8-633c-45c4-a23f-6ed3f4a00885.png"] { width: 50%; }
   .gallery-grid figcaption { padding: .5rem 0; font-size: 1rem; }
   .gallery-dialog { position: fixed; inset: 0; margin: 0; width: 100%; height: 100dvh; max-width: none; max-height: none; padding: 0; border: 0; border-radius: 0; background: rgb(0 0 0 / 90%); color: white; overflow: hidden; }
   html:has(.gallery-dialog[open]) { overflow: hidden; }
