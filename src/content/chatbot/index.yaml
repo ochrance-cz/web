@@ -1,3 +1,2 @@
-# AI chatbot na všech stránkách webu: true = zobrazit, false = skrýt.
 title: AI asistent Otakar
-active: false
+active: true
