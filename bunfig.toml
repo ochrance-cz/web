@@ -1,0 +1,21 @@
+[install]
+# Exempt the @nuasite/* packages from the global `minimumReleaseAge` supply-chain delay:
+# they are first-party, published and controlled by us, so the cool-off buys nothing here
+# and only holds back fixes this site needs. The guard still applies to every third-party
+# package. bun matches exact names, not scope globs, so each package (direct and transitive)
+# is listed; add any new @nuasite package the lockfile gains.
+minimumReleaseAgeExcludes = [
+	"@nuasite/checks",
+	"@nuasite/cli",
+	"@nuasite/cms",
+	"@nuasite/cms-client",
+	"@nuasite/cms-core",
+	"@nuasite/cms-mdx-editor",
+	"@nuasite/cms-sidecar",
+	"@nuasite/cms-types",
+	"@nuasite/collections-admin",
+	"@nuasite/components",
+	"@nuasite/core",
+	"@nuasite/llm-enhancements",
+	"@nuasite/nua",
+]
