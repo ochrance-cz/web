@@ -2,7 +2,7 @@ diff --git a/node_modules/@nuasite/cms-mdx-editor/.bun-tag-76105377a6899edc b/.b
 new file mode 100644
 index 0000000000000000000000000000000000000000..e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
 diff --git a/src/format-toolbar.tsx b/src/format-toolbar.tsx
-index 109d4ba6ec3f6ecec2b2de9f4a246375d18896b2..492254c172d0df4369ddda12dc2a20fbb1626ae3 100644
+index 109d4ba6ec3f6ecec2b2de9f4a246375d18896b2..626e0dfa0e2ab5d4589b00aad9b984a66fa6c0d0 100644
 --- a/src/format-toolbar.tsx
 +++ b/src/format-toolbar.tsx
 @@ -6,6 +6,7 @@
@@ -13,7 +13,29 @@ index 109d4ba6ec3f6ecec2b2de9f4a246375d18896b2..492254c172d0df4369ddda12dc2a20fb
  import {
  	liftListItemCommand,
  	toggleEmphasisCommand,
-@@ -159,6 +160,8 @@ export function FormatToolbar({ editor, listStyles, media, mediaContext, field,
+@@ -24,7 +25,7 @@ import { ImagePopover } from './image-popover'
+ import { LinkPopover } from './link-popover'
+ import { MediaLibrary } from './media-library'
+ import type { MediaContext, MediaSource } from './media-source'
+-import { type ActiveFormats, defaultActiveFormats, isInListType, removeLinkMark, setupFormatTracking, toggleHeading } from './milkdown-utils'
++import { type ActiveFormats, defaultActiveFormats, isInListType, liftOutOfBlockquote, removeLinkMark, setupFormatTracking, toggleHeading } from './milkdown-utils'
+ import { setListStyleCommand } from './styled-list-plugin'
+ import { insertYoutubeCommand } from './youtube-plugin'
+ import { YoutubePopover } from './youtube-popover'
+@@ -155,10 +156,21 @@ function Btn({ active, title, onClick, style, children }: {
+ 	)
+ }
+ 
++/** Quote button: unwrap one level when already inside a blockquote, otherwise wrap. */
++function toggleBlockquote(editor: Editor, active: boolean) {
++	if (active) {
++		liftOutOfBlockquote(editor.ctx.get(editorViewCtx))
++		return
++	}
++	editor.action(callCommand(wrapInBlockquoteCommand.key))
++}
++
+ export function FormatToolbar({ editor, listStyles, media, mediaContext, field, onInsertComponent }: FormatToolbarProps) {
  	const formats = useFormatTracking(editor)
  	const [linkOpen, setLinkOpen] = useState(false)
  	const [mediaOpen, setMediaOpen] = useState(false)
@@ -22,7 +44,7 @@ index 109d4ba6ec3f6ecec2b2de9f4a246375d18896b2..492254c172d0df4369ddda12dc2a20fb
  	const [youtubeOpen, setYoutubeOpen] = useState(false)
  	const [pendingImage, setPendingImage] = useState<{ url: string; alt: string } | null>(null)
  	const disabled = editor === null
-@@ -182,6 +185,32 @@ export function FormatToolbar({ editor, listStyles, media, mediaContext, field,
+@@ -182,6 +194,32 @@ export function FormatToolbar({ editor, listStyles, media, mediaContext, field,
  		removeLinkMark(view)
  	}
  
@@ -55,7 +77,13 @@ index 109d4ba6ec3f6ecec2b2de9f4a246375d18896b2..492254c172d0df4369ddda12dc2a20fb
  	return (
  		<div style={toolbarRoot}>
  			<div style={bar}>
-@@ -236,6 +265,7 @@ export function FormatToolbar({ editor, listStyles, media, mediaContext, field,
+@@ -231,11 +269,12 @@ export function FormatToolbar({ editor, listStyles, media, mediaContext, field,
+ 						</select>
+ 					)
+ 					: null}
+-				<Btn active={formats.blockquote} title="Quote" onClick={() => editor?.action(callCommand(wrapInBlockquoteCommand.key))}>❝</Btn>
++				<Btn active={formats.blockquote} title="Quote" onClick={() => editor && toggleBlockquote(editor, formats.blockquote)}>❝</Btn>
+ 				<Btn title="Insert table" onClick={() => editor?.action(callCommand(insertTableCommand.key, { row: 3, col: 3 }))}>▦ Table</Btn>
  				<Btn active={youtubeOpen} title="Insert YouTube" onClick={() => !disabled && setYoutubeOpen(v => !v)}>YouTube</Btn>
  				<span style={sep} />
  				<Btn active={formats.link || linkOpen} title="Link" onClick={() => !disabled && setLinkOpen(v => !v)}>🔗 Link</Btn>
@@ -63,7 +91,7 @@ index 109d4ba6ec3f6ecec2b2de9f4a246375d18896b2..492254c172d0df4369ddda12dc2a20fb
  				{media ? <Btn title="Insert image" onClick={() => !disabled && setMediaOpen(true)}>🖼 Image</Btn> : null}
  				{onInsertComponent
  					? (
-@@ -308,6 +338,20 @@ export function FormatToolbar({ editor, listStyles, media, mediaContext, field,
+@@ -308,6 +347,20 @@ export function FormatToolbar({ editor, listStyles, media, mediaContext, field,
  					/>
  				)
  				: null}
@@ -225,6 +253,41 @@ index 194a7910e404490cff02a3c5002ba7dbe65cd4dc..ad972e4b26c8ccfa591bd8903a1c114f
  	uploadMedia(file: File, context?: MediaUploadContext): Promise<MediaUploadResult>
  	createFolder?(folder: string): Promise<{ success: boolean; error?: string }>
  	/**
+diff --git a/src/milkdown-utils.ts b/src/milkdown-utils.ts
+index af1d703061fb16b2bc65d1077194b1fdc45cf4f0..bd5954a453f8cc8e2b79ee886b8be4e4d5aae4ea 100644
+--- a/src/milkdown-utils.ts
++++ b/src/milkdown-utils.ts
+@@ -5,6 +5,7 @@
+  * (it never depended on preact — it operates on the raw view).
+  */
+ import { type Editor, editorViewCtx } from '@milkdown/core'
++import { liftTarget } from '@milkdown/prose/transform'
+ import type { EditorView } from '@milkdown/prose/view'
+ 
+ export interface ActiveFormats {
+@@ -123,6 +124,22 @@ export function toggleHeading(view: EditorView, level: number): void {
+ 	view.focus()
+ }
+ 
++/**
++ * Lift the selected blocks out of the innermost blockquote around them — one
++ * level per call, so nested quotes can be unwrapped step by step. Returns false
++ * when the selection is not inside a blockquote.
++ */
++export function liftOutOfBlockquote(view: EditorView): boolean {
++	const { state } = view
++	const { $from, $to } = state.selection
++	const range = $from.blockRange($to, node => node.type.name === 'blockquote')
++	const target = range ? liftTarget(range) : null
++	if (!range || target == null) return false
++	view.dispatch(state.tr.lift(range, target).scrollIntoView())
++	view.focus()
++	return true
++}
++
+ /** Remove the link mark around the current cursor/selection. */
+ export function removeLinkMark(view: EditorView): void {
+ 	const { state } = view
 diff --git a/src/slot-editor.tsx b/src/slot-editor.tsx
 index 932f62a6fcb34d4fc339b2ba7eff83ef30f40146..f5fac2863417c54aeb7ebd5f7bd52142c17164e2 100644
 --- a/src/slot-editor.tsx
