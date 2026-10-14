@@ -10,7 +10,8 @@ perex: Virtuální Otakar bude pomáhat lidem s hledáním informací na webu
   konkrétní postup v různých životních situacích z více z více než 140
   informačních letáků. Poradí si s cizími jazyky i dotazem formulovaným běžnou
   řečí.
-kategorie: []
+kategorie:
+  - tz
 draft: false
 ---
 Najít konkrétní informaci na rozsáhlém webu nemusí být vždy jednoduché. Zdlouhavé proklikávání nahradí na webu ombudsmana chatbot využívající umělou inteligenci. Kancelář ombudsmana ho spouští pro veřejnost. „*Snažíme se být co nejvíce otevření lidem. Chtěli jsme využít možností, které dnešní AI technologie nabízejí, a usnadnit tak uživatelům hledání na našem webu. Věříme, že tak jednodušeji a rychleji získají informaci, co potřebují,“* uvedl vedoucí Kanceláře veřejného ochránce práv a ochránce práv dětí Pavel Pořízek a doplňuje i vysvětlení symboliky jména chatbota: *„Virtuálního pomocníka jsme pojmenovali Otakar na počest prvního ombudsmana. Otakar Motejl tak bude symbolicky dál pomáhat lidem.“*
