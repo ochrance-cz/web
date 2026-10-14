@@ -4,12 +4,17 @@ on:
   pull_request:
     branches:
       - main
+  # The CMS commits straight to main, so a change that breaks a check would
+  # otherwise first show up on the next pull request, as someone else's failure.
+  push:
+    branches:
+      - main
 
 permissions:
   contents: read
 
 concurrency:
-  group: pr-build-${{ github.event.pull_request.number }}
+  group: pr-build-${{ github.event.pull_request.number || github.ref }}
   cancel-in-progress: true
 
 jobs:
