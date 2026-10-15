@@ -23,7 +23,7 @@ draft: false
 
   <br />
 
- Bližší popis pracovní pozice i s ohledem na to, co může zajímat lidi se zdravotním omezením, najdete v tomto dokumentu.
+ Bližší popis pracovní pozice i s ohledem na to, co může zajímat lidi se zdravotním omezením, najdete v [tomto dokumentu](/assets/f07d87435319-checklist-pr-marketing.pdf).
 
 <br />
 
