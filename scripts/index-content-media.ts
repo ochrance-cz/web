@@ -1,4 +1,4 @@
-import { readdirSync, readFileSync, writeFileSync } from 'node:fs';
+import { existsSync, readdirSync, readFileSync, writeFileSync } from 'node:fs';
 import { extname, join } from 'node:path';
 
 const roots = ['src/content', 'src/components', 'src/page-copy'].map(dir => join(process.cwd(), dir));
@@ -36,7 +36,13 @@ function contentType(url: string): string | null {
 }
 
 roots.forEach(walk);
-const items = [...urls].map(url => {
+// The index only grows. A file stays on the CDN after the last link to it is edited away, and
+// editors may want to link it again, so a removed reference is no reason to drop it. That also
+// keeps an edit in the CMS, which commits straight to main, from breaking the check below.
+const indexed = existsSync(output) ? JSON.parse(readFileSync(output, 'utf8')) as Array<{ url: string }> : [];
+const known = new Set(indexed.map(item => item.url).filter(url => cdn.test(url)));
+const missing = [...urls].filter(url => !known.has(url) && contentType(url));
+const items = [...new Set([...known, ...urls])].map(url => {
   const mime = contentType(url);
   if (!mime) return null;
   const filename = decodeURIComponent(new URL(url).pathname.split('/').at(-1) ?? '');
@@ -44,8 +50,10 @@ const items = [...urls].map(url => {
 }).filter(item => item !== null).sort((a, b) => a.filename.localeCompare(b.filename) || a.url.localeCompare(b.url));
 const serialized = `${JSON.stringify(items)}\n`;
 if (process.argv.includes('--check')) {
-  if (readFileSync(output, 'utf8') !== serialized) throw new Error('Content media index is out of date. Run bun run media:index.');
+  if (missing.length) throw new Error(`Content links to ${missing.length} CDN files the media index lacks, e.g. ${missing[0]}. Run bun run media:index.`);
+  // The editor drops the whole index when one entry is malformed, so a hand edit has to match what the script writes.
+  if (readFileSync(output, 'utf8') !== serialized) throw new Error('Content media index is not as bun run media:index writes it. Run it.');
 } else {
   writeFileSync(output, serialized);
 }
-console.log(`Indexed ${items.length} referenced CDN assets (${items.filter(item => item.contentType.startsWith('image/')).length} images).`);
+console.log(`Indexed ${items.length} CDN assets (${items.filter(item => item.contentType.startsWith('image/')).length} images), ${[...urls].filter(url => contentType(url)).length} referenced by the content.`);
