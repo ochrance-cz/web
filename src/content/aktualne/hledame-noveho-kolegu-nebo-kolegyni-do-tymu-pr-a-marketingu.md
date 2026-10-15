@@ -21,7 +21,11 @@ draft: false
 * pomoc při organizování PR akcí Kanceláře (Noc práva, Den dětí, dny otevřených dveří,…),
 * spolupráce na dalších PR a marketingových aktivitách Kanceláře (tvorba ombudsmanského zpravodaje, monitoring médií, příprava podkladů pro novináře, produkce podcastů,…).
 
- 
+  <br />
+
+ Bližší popis pracovní pozice i s ohledem na to, co může zajímat lidi se zdravotním omezením, najdete v tomto dokumentu.
+
+<br />
 
 **Jak si Vás představujeme?**
 
@@ -53,8 +57,6 @@ draft: false
 * odborný růst, jazykovou výuku,
 * příspěvek na stravování ve výši 96 Kč na den,
 * práci v centru Brna s možností parkování.
-
-  <br />
 
 Pozice je vhodná i pro absolventy a absolventky.
 
