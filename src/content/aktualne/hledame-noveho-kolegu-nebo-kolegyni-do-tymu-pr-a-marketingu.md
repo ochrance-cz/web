@@ -21,11 +21,11 @@ draft: false
 * pomoc při organizování PR akcí Kanceláře (Noc práva, Den dětí, dny otevřených dveří,…),
 * spolupráce na dalších PR a marketingových aktivitách Kanceláře (tvorba ombudsmanského zpravodaje, monitoring médií, příprava podkladů pro novináře, produkce podcastů,…).
 
-  <br />
+ 
 
  Bližší popis pracovní pozice i s ohledem na to, co může zajímat lidi se zdravotním omezením, najdete v [tomto dokumentu](/assets/f07d87435319-checklist-pr-marketing.pdf).
 
-<br />
+ 
 
 **Jak si Vás představujeme?**
 
