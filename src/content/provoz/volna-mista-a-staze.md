@@ -4,9 +4,7 @@ linksAfter: []
 ---
 ## **Volná místa**
 
-Nyní neprobíhá žádné výběrové řízení.
-
-Pokud se přesto chcete ucházet o místo, pošlete nám svůj životopis na adresu [michalcova@ochrance.cz](mailto:michalcova@ochrance.cz) a napište, o jakou práci máte zájem.
+Aktuálně hledáme kolegu či kolegyni do týmu PR a marketingu. Více informací najdete v [inzerátu](https://https://www.ochrance.cz/aktualne/hledame-noveho-kolegu-nebo-kolegyni-do-tymu-pr-a-marketingu/).
 
 **Stáže pro studenty právnických fakult**
 
