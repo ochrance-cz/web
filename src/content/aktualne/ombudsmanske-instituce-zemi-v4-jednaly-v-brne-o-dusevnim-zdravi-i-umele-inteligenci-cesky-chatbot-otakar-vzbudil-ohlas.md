@@ -7,7 +7,8 @@ perex: Brno se na tři dny stalo centrem středoevropské ochrany práv. Ombudsm
   sídle české Kanceláře ombudsmanů, aby řešili výzvy a dopady AI, nebo duševní
   zdraví lidskoprávní optikou. Dotkli se i strategického plánování a
   prioritizace své práce v době rostoucí agendy.
-kategorie: []
+kategorie:
+  - tz
 draft: false
 ---
 Zatímco ve čtvrtek rezonovala na jednání ombudsmanských institucí Visegrádské čtyřky především umělá inteligence, dnešní diskuze se zaměřila na duševním zdraví. „*Pro letošní setkání jsme vybrali témata, která považujeme za mimořádně aktuální a která dobře odrážejí výzvy, jimž dnes naše instituce čelí. Umělá inteligence nám otevírá nové možnosti, jak naši práci zefektivnit, ale současně přináší otázky týkající se bezpečnosti a ochrany základních práv. Také v naší Kanceláři hledáme cesty, jak ji smysluplně a bezpečně využívat. Zároveň vnímáme, že mění i podobu některých podnětů, se kterými se na nás lidé obracejí*,“ uvedla ombudsmanka Eva Kostolanská.
