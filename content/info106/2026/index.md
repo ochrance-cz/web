@@ -86,3 +86,8 @@ title: "2026"
 <a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/info106/2026/20_2026_zadost_2.pdf">Žádost o informace 2.</a></p>
 <p>
 <a href="https://cdn.nuasite.com/assets/ochrance-web-lj8h86/info106/2026/20_2026_odpoved.pdf">Odpověď na žádost.</a></p>
+<h2>21 – Informace ke spisu</h2>
+<p>
+<a href="/assets/768ddfcfc2ba-21-2026-zadost.pdf">Žádost o informace</a>.</p>
+<p>
+<a href="/assets/d57fe2e0aeef-21-2026-odpoved.pdf">Odpověď na žádost</a>.</p>
