@@ -3,6 +3,6 @@ title: Státní zaměstnanci
 situace:
   - prace
   - statni-sprava-a-samosprava
-file: /uploads/eead36ab-4d5e-4ffd-b44c-953a81326e83.pdf
-draft: true
+file: /uploads/eb000afc-9bd9-4f72-a8cd-75897f177375.pdf
+draft: false
 ---
