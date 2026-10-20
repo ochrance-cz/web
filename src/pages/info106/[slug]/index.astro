@@ -1,5 +1,5 @@
 ---
-// /info106/<slug>/ — detail (body = PDF link HTML). cs only.
+// /info106/<slug>/ — one year: optional body, then each request with links to its documents. cs only.
 import { getCollection } from 'astro:content';
 import SingleLayout from '../../../layouts/SingleLayout.astro';
 import MarkdownContent from '../../../components/MarkdownContent.astro';
@@ -10,7 +10,19 @@ export async function getStaticPaths() {
 }
 
 const { entry } = Astro.props;
+const requests = (entry.data.zadosti ?? [])
+  .map((request) => ({ ...request, dokumenty: (request.dokumenty ?? []).filter((doc) => doc.nazev || doc.soubor) }))
+  .filter((request) => request.oznaceni || request.dokumenty.length > 0);
+const fileName = (url: string) => decodeURIComponent(url.split(/[?#]/)[0].split('/').at(-1) ?? '') || 'Dokument';
 ---
 <SingleLayout title={entry.data.title} lang="cs">
   <MarkdownContent content={entry.body} />
+  {requests.map((request) => (
+    <>
+      {request.oznaceni && <h2>{request.oznaceni}</h2>}
+      {request.dokumenty.map((doc) => (
+        <p>{doc.soubor ? <a href={doc.soubor}>{doc.nazev || fileName(doc.soubor)}</a> : doc.nazev}</p>
+      ))}
+    </>
+  ))}
 </SingleLayout>
