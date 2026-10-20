@@ -54,6 +54,18 @@ const provozSection = z.object({
   intro: n.textarea({ label: 'Text' }).optional(),
 });
 
+// info106: one entry per year, a request per inquiry, any number of files under it.
+// A document without a file shows its name as plain text (older years list a few that way).
+// Keys are Czech: the hosted dashboard labels fields inside arrays by their key, not `label`.
+const info106Document = z.object({
+  nazev: n.text({ label: 'Název dokumentu', help: 'Například Žádost o informace, Odpověď na žádost, Příloha 1.' }).optional(),
+  soubor: n.file({ label: 'Soubor (PDF, Word…)', accept: '.pdf,.doc,.docx,.odt,.xls,.xlsx,.ods,.rtf,.txt' }).optional(),
+});
+const info106Request = z.object({
+  oznaceni: n.text({ label: 'Označení žádosti', help: 'Například 12/2026 – Informace z oblasti Vězeňství.' }).optional(),
+  dokumenty: n.array(info106Document, { label: 'Dokumenty' }).optional(),
+});
+
 export const collections = {
   homepage: defineCmsCollection({
     loader: glob({ pattern: BUNDLE, base: './src/content/homepage', generateId: indexEntryId }),
@@ -394,9 +406,17 @@ export const collections = {
     loader: glob({ pattern: RICH_CONTENT, base: './src/content/info106', generateId: indexEntryId }),
     schema: n.object({
       date: n.date({ label: 'Datum publikace', help: 'Volitelné datum zveřejnění pro řazení záznamů. Neznámá historická data ponechte prázdná.' }).nullable().optional(),
-      title: n.text({ label: 'Název' }),
+      title: n.text({ label: 'Název', help: 'Rok, například 2026.' }),
+      zadosti: n.array(info106Request, { label: 'Žádosti' }).optional(),
     }),
-    cms: { label: 'Poskytnuté informace podle zákona č. 106/1999 Sb.', order: 9, pathname: [{ literal: 'info106' }, { field: 'slug' }] },
+    cms: {
+      label: 'Poskytnuté informace podle zákona č. 106/1999 Sb.', order: 9,
+      pathname: [{ literal: 'info106' }, { field: 'slug' }],
+      sections: [
+        { title: 'Rok', fields: ['title'] },
+        { title: 'Žádosti a jejich dokumenty', fields: ['zadosti'] },
+      ],
+    },
   }),
   provoz: defineCmsCollection({
     loader: glob({ pattern: RICH_CONTENT, base: './src/content/provoz', generateId: indexEntryId }),
