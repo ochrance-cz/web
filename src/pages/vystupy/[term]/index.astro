@@ -1,6 +1,6 @@
 ---
 // /vystupy/<term>/ — output-category landing: header (title/plural, perex,
-// illustration) then AKTUALNE + DOKUMENT entries tagged with this category,
+// illustration, optional Markdown body) then AKTUALNE + DOKUMENT entries tagged with this category,
 // newest first (NewsPreview-style).
 //
 import type { GetStaticPaths } from 'astro';
@@ -65,12 +65,14 @@ const researchYears = [...researchByYear].sort(([a], [b]) =>
 
 const headerTitle = term.data.plural ?? term.data.title;
 const perexHtml = term.data.perex ? await renderMarkdown(term.data.perex) : '';
+const bodyHtml = term.data.text ? await renderMarkdown(term.data.text) : '';
 ---
 {term.id === 'doporuceni' ? <Recommendations mode="year" /> : advisoryBodies.has(term.id) ? <AdvisoryBodyDocuments term={term} /> : term.id === 'vyjadreni-pro-mezinarodni-organy' ? <InternationalStatements mode="type" /> : <BaseLayout title={headerTitle} lang="cs">
   <main>
     <PicHeader title={headerTitle} illustration={term.data.illustration} />
     <section class:list={{ 'research-section': term.id === 'vyzkumy' }}>
       {perexHtml && <div class="perex" set:html={perexHtml} />}
+      {bodyHtml && <Fragment set:html={bodyHtml} />}
       {term.id === 'publikace' && (
         <nav aria-label="Druhy publikací">
           <LinkList items={[
