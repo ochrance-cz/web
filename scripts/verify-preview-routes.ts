@@ -3,6 +3,7 @@ import { existsSync, readFileSync } from 'node:fs';
 import { createCmsCore, createNodeFs } from '@nuasite/cms-core';
 import { createServer } from '@nuasite/cms-sidecar';
 import { getLeafletAttachments } from '../src/lib/leaflet-attachments';
+import { leafletFilePath } from '../src/lib/leaflet-file';
 
 // Check the actual sidecar contract consumed by the Nua admin. A route derived
 // directly from the schema can be correct while the editor still receives no
@@ -53,13 +54,15 @@ for (const [name, definition] of Object.entries(collections)) {
       assert.ok(existsSync(html), `${name}/${entry.slug}: editor preview ${target} is missing (${html})`);
       if (name === 'letaky' || name === 'letaky-en') {
         const rendered = readFileSync(html, 'utf8').replaceAll('&amp;', '&');
+        const locale = name === 'letaky-en' ? 'en' : 'cs';
         for (const field of ['file', 'seeing', 'roma', 'kids']) {
           const value = source.data?.[field];
           if (typeof value === 'string' && value) {
-            assert.ok(rendered.includes(value), `${name}/${entry.slug}: ${field} is editable but absent from its preview`);
+            // The build links an uploaded leaflet file by its stable address; the hosted preview links the upload.
+            const href = field === 'file' ? leafletFilePath(locale, entry.slug, value) ?? value : value;
+            assert.ok(rendered.includes(href), `${name}/${entry.slug}: ${field} is editable but absent from its preview`);
           }
         }
-        const locale = name === 'letaky-en' ? 'en' : 'cs';
         const attachments = getLeafletAttachments(locale, entry.slug);
         for (const attachment of attachments) {
             if (typeof attachment !== 'object' || attachment === null) continue;
