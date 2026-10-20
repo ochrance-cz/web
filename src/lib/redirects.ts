@@ -19,8 +19,8 @@ export const redirects: Record<string, string> = {
     '/aktualne/osn_zasady_ucinneho_vysetrovani_a_dokumentovani_muceni_a_spatneho_zachazeni_konecne_v_cestine/',
   // Sources stay site paths — a redirect cannot be keyed on an absolute URL.
   // Targets point straight at the CDN so the browser takes one hop, not two.
-  '/letaky/sluzebni-pomer-ozbrojene-slozky/sluzebni-pomer-ozbrojene-slozky.pdf':
-    'https://cdn.nuasite.com/assets/ochrance-web-lj8h86/versions/6274dbc087032c2d3f735c7b7dca1fd21c90982c7d0d6ac298b4dfa2a9c81272/letaky/statni-sluzba/statni-sluzba.pdf',
+  // The leaflet's stable address, which follows its file when the CMS replaces it (src/lib/leaflet-file.ts).
+  '/letaky/sluzebni-pomer-ozbrojene-slozky/sluzebni-pomer-ozbrojene-slozky.pdf': '/letaky/statni-sluzba/statni-sluzba.pdf',
   '/uploads-import/ochrana_osob/Umluvy/vezenstvi/R_2006_2_Evr_vezen_pravidla_.pdf':
     'https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/EVP_CS_FIN.pdf',
   '/skolska-zarizeni-2022':
