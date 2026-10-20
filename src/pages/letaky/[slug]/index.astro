@@ -10,6 +10,7 @@ import { getCollection } from 'astro:content';
 import MarkdownContent from '../../../components/MarkdownContent.astro';
 import { detailSlug } from '../../../components/letaky/helpers';
 import { getLeafletAttachments } from '../../../lib/leaflet-attachments';
+import { leafletFileHref } from '../../../lib/leaflet-file';
 
 export async function getStaticPaths() {
   const entries = await getCollection('letaky');
@@ -21,7 +22,8 @@ export async function getStaticPaths() {
 
 const LOCALE = 'cs' as const;
 const { entry } = Astro.props;
-const { title, file } = entry.data;
+const { title } = entry.data;
+const file = leafletFileHref(LOCALE, detailSlug(entry), entry.data.file);
 ---
 <BaseLayout title={title} lang={LOCALE}>
   <main data-pagefind-body>

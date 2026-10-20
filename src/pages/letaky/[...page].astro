@@ -10,6 +10,8 @@ import { renderMarkdown } from '../../lib/markdown';
 import { t } from '../../lib/i18n';
 import { url } from '../../lib/paths';
 import { getLeafletAttachments } from '../../lib/leaflet-attachments';
+import { leafletFileHref } from '../../lib/leaflet-file';
+import { detailSlug } from '../../components/letaky/helpers';
 
 export async function getStaticPaths() {
   return [{ params: { page: undefined } }];
@@ -44,7 +46,8 @@ const dash = (s: string) => s.replace(/ -[\s ]/g, ' – ');
 
       <ul class="_link-list">
         {entries.map((entry) => {
-          const { title, file, situace = [], roma, seeing, kids } = entry.data;
+          const { title, situace = [], roma, seeing, kids } = entry.data;
+          const file = leafletFileHref(LOCALE, detailSlug(entry), entry.data.file);
           const attachments = getLeafletAttachments(LOCALE, entry.id);
           const hasAlt = attachments.length > 0 || !!roma || !!seeing || !!kids;
           return (
