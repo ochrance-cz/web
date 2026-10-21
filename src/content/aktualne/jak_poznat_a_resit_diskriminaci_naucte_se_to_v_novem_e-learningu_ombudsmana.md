@@ -1,6 +1,6 @@
 ---
 title: Jak poznat a řešit diskriminaci? Naučte se to v novém e-learningu ombudsmana
-date: 2023-03-01T14:32:26.114Z
+date: '2023-03-01T14:32:26.114Z'
 perex: Vytvořili jsme online kurz o antidiskriminačním právu. Je vhodný pro
   každého, kdo chce rozumět tomu, jak diskriminaci poznat a řešit. Kurz bude mít
   celkem šest částí (modulů). První část kurzu spouštíme u příležitosti Zero
@@ -24,4 +24,4 @@ Máte-li ke kurzu dotaz nebo připomínku, napište nám na adresu [elearning
 
 **Související odkazy**
 
-- [Vstup do e-learningu](<https://diskriminace.netventic.net/course-info/?show&id=30>)
+* [Vstup do e-learningu](https://diskriminace.ochrance.cz/login)
