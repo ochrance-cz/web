@@ -22,6 +22,9 @@ other = "Naše činnost"
 [need-help]
 other = "Potřebuji pomoc"
 
+[download-audio]
+other = "Stáhnout audio"
+
 [download-pdf]
 other = "Stáhnout PDF"
 

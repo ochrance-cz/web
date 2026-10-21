@@ -42,6 +42,15 @@ const illustration = data.illustration || undefined;
 
         <div class="perex" set:html={perexHtml} />
 
+        {data.audio && (
+          <div class="_no-print">
+            {data.audioCaption && <p><strong>{data.audioCaption}</strong></p>}
+            <p>
+              <a class="_button" href={data.audio} download>{t(lang, 'download-audio')}</a>
+            </p>
+          </div>
+        )}
+
 
         <div class="_ck4">
           <Fragment set:html={bodyHtml} />

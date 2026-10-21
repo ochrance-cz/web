@@ -103,6 +103,8 @@ export const collections = {
       perex: n.textarea({ label: 'Perex', help: 'Krátké úvodní shrnutí. Pro odkazy nebo zvýraznění můžete použít Markdown.' }).optional(),
       kategorie: n.array(reference('vystupy'), { label: "Kategorie" }).optional().transform(referenceIds),
       obrazek: n.image({ label: 'Úvodní obrázek', sidebar: true }).optional(),
+      audio: n.file({ label: 'Audio pod perexem', accept: 'audio/*,.mp3,.wav,.m4a,.ogg', help: 'Volitelná nahrávka (MP3, WAV, M4A), typicky krátká citace pro rozhlas. Pod perexem se zobrazí tlačítko Stáhnout audio.' }).optional(),
+      audioPopis: n.text({ label: 'Popis audia', help: 'Zobrazí se nad tlačítkem, aby bylo jasné, co se stahuje. Například Citace ombudsmana Stanislava Křečka k inspekci věznice.' }).optional(),
       draft: n.boolean({ label: "Koncept" }).optional().or(blank),
     }),
     cms: {
@@ -111,6 +113,7 @@ export const collections = {
       sidebar: ['date', 'obrazek', 'draft'],
       sections: [
         { title: 'Základní údaje', fields: ['title', 'perex', 'kategorie'] },
+        { title: 'Audio', fields: ['audio', 'audioPopis'] },
       ],
     },
   }),
@@ -122,6 +125,8 @@ export const collections = {
       perex: n.textarea({ label: 'Lead', help: 'Short introduction. Markdown links and emphasis are supported.' }).optional(),
       categories: n.array(reference('vystupy-en'), { label: 'Categories' }).optional().transform(referenceIds),
       illustration: n.image({ label: 'Lead image', sidebar: true }).optional(),
+      audio: n.file({ label: 'Audio below the lead', accept: 'audio/*,.mp3,.wav,.m4a,.ogg', help: 'Optional recording (MP3, WAV, M4A), typically a short quote for radio. Shown below the lead as a Download audio button.' }).optional(),
+      audioCaption: n.text({ label: 'Audio caption', help: 'Shown above the button so it is clear what is being downloaded.' }).optional(),
     }),
     cms: {
       label: 'News', order: 200, group: 'Anglická verze webu',
@@ -129,6 +134,7 @@ export const collections = {
       sidebar: ['date', 'illustration'],
       sections: [
         { title: 'Basic information', fields: ['title', 'perex', 'categories'] },
+        { title: 'Audio', fields: ['audio', 'audioCaption'] },
       ],
     },
   }),
