@@ -1,6 +1,6 @@
 ---
 // /vystupy/<term>/ — output-category landing: header (title/plural, perex,
-// illustration, optional Markdown body) then AKTUALNE + DOKUMENT entries tagged with this category,
+// illustration) then AKTUALNE + DOKUMENT entries tagged with this category,
 // newest first (NewsPreview-style).
 //
 import type { GetStaticPaths } from 'astro';
@@ -47,7 +47,8 @@ const dokument = (dokumentAll ?? [])
 const items = [...aktualne, ...dokument].sort((a, b) => {
   const da = a.entry.data.date ? new Date(a.entry.data.date).getTime() : 0;
   const db = b.entry.data.date ? new Date(b.entry.data.date).getTime() : 0;
-  return db - da; // newest first
+  // Newest first; same-day entries by the number in their slug, e.g. Stanoviska 27 before 25.
+  return db - da || b.entry.id.localeCompare(a.entry.id, 'cs', { numeric: true });
 });
 
 const researchByYear = new Map<string, typeof items>();
@@ -65,20 +66,19 @@ const researchYears = [...researchByYear].sort(([a], [b]) =>
 
 const headerTitle = term.data.plural ?? term.data.title;
 const perexHtml = term.data.perex ? await renderMarkdown(term.data.perex) : '';
-const bodyHtml = term.data.text ? await renderMarkdown(term.data.text) : '';
 ---
 {term.id === 'doporuceni' ? <Recommendations mode="year" /> : advisoryBodies.has(term.id) ? <AdvisoryBodyDocuments term={term} /> : term.id === 'vyjadreni-pro-mezinarodni-organy' ? <InternationalStatements mode="type" /> : <BaseLayout title={headerTitle} lang="cs">
   <main>
     <PicHeader title={headerTitle} illustration={term.data.illustration} />
     <section class:list={{ 'research-section': term.id === 'vyzkumy' }}>
       {perexHtml && <div class="perex" set:html={perexHtml} />}
-      {bodyHtml && <Fragment set:html={bodyHtml} />}
       {term.id === 'publikace' && (
         <nav aria-label="Druhy publikací">
           <LinkList items={[
             { link: '/vystupy/edice-stanoviska/', text: 'Edice Stanoviska' },
             { link: '/vystupy/sbornik/', text: 'Sborníky z konferencí' },
             { link: '/vystupy/rocenky-uprchlickeho-a-cizineckeho-prava/', text: 'Ročenky uprchlického a cizineckého práva' },
+            { link: '/vystupy/edice-dobre-spravni-praxe/', text: 'Edice dobré správní praxe' },
             { link: '/vystupy/vyrocni_zprava_o_diskriminaci/', text: 'Výroční zprávy o diskriminaci' },
           ]} />
         </nav>

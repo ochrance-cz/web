@@ -8,6 +8,7 @@ perex: Ombudsmanka žádá vládu, aby napravila nezákonnou praxi úřadů prá
   věci nápravu nezjednala, proto o ni ombudsmanka žádá vládu.
 kategorie:
   - tz
+  - pro-vladu
 ---
 Příspěvky aktivní politiky zaměstnanosti poskytuje stát prostřednictvím úřadů práce s cílem zvýšit šance lidí vedených v evidenci úřadů práce na jejich uplatnění na trhu práce.  Může jít např. o příspěvek na zřízení společensky účelného pracovního místa, o příspěvek na dojíždění, o příspěvek na zapracování, o úhradu rekvalifikace apod.
 

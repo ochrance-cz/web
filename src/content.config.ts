@@ -556,7 +556,6 @@ export const collections = {
       plural: n.text({ label: "Název v množném čísle" }).optional(),
       listed: n.boolean({ label: "Zobrazit v seznamu" }).optional().or(blank),
       perex: n.textarea({ label: "Perex" }).optional(),
-      text: n.textarea({ label: 'Text pod perexem', help: 'Volitelný text v Markdownu zobrazený pod perexem, např. seznam publikací ke stažení.' }).optional(),
       illustration: n.image({ label: "Ilustrace" }).optional(),
     }),
     cms: { label: 'Výstupy z činností – kategorie', order: 100, group: 'Další obsah', pathname: [{ literal: 'vystupy' }, { field: 'slug' }] },

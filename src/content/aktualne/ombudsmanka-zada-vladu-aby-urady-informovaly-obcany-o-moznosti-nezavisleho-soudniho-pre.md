@@ -9,6 +9,7 @@ perex: Každý má ústavně garantované právo, aby jeho záležitost byla pro
   účastníka řízení o právu podat proti správnímu rozhodnutí žalobu k soudu.
 kategorie:
   - tz
+  - pro-vladu
 ---
 Většina správních rozhodnutí je právně v pořádku. Existují však i rozhodnutí vadná a nezákonná, protože každý systém nutně generuje nějaké chyby. Pro efektivní zajištění práva na spravedlivý a nestranný proces by proto měla všechna konečná správní rozhodnutí obsahovat poučení o možnosti podat proti správnímu rozhodnutí žalobu. Jedině tak lze zabránit propadnutí nároku na soudní ochranu pro neznalost práva.
 

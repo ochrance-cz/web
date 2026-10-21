@@ -10,6 +10,7 @@ perex: Ombudsmanka se postupem ministerstva školství při přezkumech maturitn
   takový.
 kategorie:
   - tz
+  - pro-vladu
 ---
 „*V roce 2016 jsem zahájila šetření, při kterém naši právníci analyzovali 500 náhodně vybraných spisů vedených ministerstvem ve věci přezkumů maturitních zkoušek. Z analýzy vyplynulo několik oblastí, které odporují zákonu. Jedná se například o poskytování všech materiálů, ze kterých ministerstvo při rozhodování vychází nebo o řádné odůvodňování jednotlivých rozhodnutí, aby byla srozumitelná a přezkoumatelná tak, jak vyžaduje judikatura Nejvyššího správního soudu,*“ říká k případu ombudsmanka Anna Šabatová a dodává: *„přes opakovaná jednání s ministerstvem však bohužel nedošlo k nápravě nezákonného jednání.“*
 

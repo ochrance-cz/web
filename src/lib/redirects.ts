@@ -26,6 +26,22 @@ export const redirects: Record<string, string> = {
   '/skolska-zarizeni-2022':
     'https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/ESO/%C5%A0kolsk%C3%A1-za%C5%99%C3%ADzen%C3%AD_CZ_el-verze.pdf',
   '/vystupy/vz-diskriminace/': '/vystupy/vyrocni_zprava_o_diskriminaci/',
+  // Pages of the old site restored from the Web Archive as documents.
+  '/zvlastni-opravneni/vlada-cr/2018-mmr-dotace/': '/dokument/pro-vladu-2018-mmr-dotace/',
+  '/zvlastni-opravneni/vlada-cr/2017-sanatorium-lotos/': '/dokument/pro-vladu-2017-sanatorium-lotos/',
+  '/zvlastni-opravneni/vlada-cr/2016-mmr-vykon-rozhodnuti/': '/dokument/pro-vladu-2016-mmr-vykon-rozhodnuti/',
+  '/zvlastni-opravneni/vlada-cr/2016-mmr-odskodnovani/': '/dokument/pro-vladu-2016-mmr-odskodnovani/',
+  '/zvlastni-opravneni/vlada-cr/2016-asistencni-psi/': '/dokument/pro-vladu-2016-asistencni-psi/',
+  '/zvlastni-opravneni/vlada-cr/2015-limity-pro-cistirny-vod/': '/dokument/pro-vladu-2015-limity-pro-cistirny-vod/',
+  '/zvlastni-opravneni/vlada-cr/2015-neregistrovana-zarizeni/': '/dokument/pro-vladu-2015-neregistrovana-zarizeni/',
+  '/zvlastni-opravneni/vlada-cr/2012-odskodnovani/': '/dokument/pro-vladu-2012-odskodnovani/',
+  '/zvlastni-opravneni/vlada-cr/2012-soudni-prutahy/': '/dokument/pro-vladu-2012-soudni-prutahy/',
+  '/zvlastni-opravneni/vlada-cr/2012-regulace-hazardu/': '/dokument/pro-vladu-2012-regulace-hazardu/',
+  '/zvlastni-opravneni/vlada-cr/2011-blokovani-udaju/': '/dokument/pro-vladu-2011-blokovani-udaju/',
+  '/zvlastni-opravneni/vlada-cr/2011-spravni-poplatek-za-kopie/': '/dokument/pro-vladu-2011-spravni-poplatek-za-kopie/',
+  '/zvlastni-opravneni/vlada-cr/2011-poskozovani-komunikaci/': '/dokument/pro-vladu-2011-poskozovani-komunikaci/',
+  '/dalsi-aktivity/publikace/sborniky-stanoviska/matriky-dodatky/': '/dokument/aktualni_dodatky_ke_sborniku_matricni_urady/',
+  '/stiznosti-na-urady/stanoviska-ochrance/stanoviska-matriky/': '/dokument/aktualni_dodatky_ke_sborniku_matricni_urady/',
   // English sections use localized slugs in production; we serve them at Czech slugs.
   '/en/projects/': '/en/projekty/',
   '/en/news/': '/en/aktualne/',

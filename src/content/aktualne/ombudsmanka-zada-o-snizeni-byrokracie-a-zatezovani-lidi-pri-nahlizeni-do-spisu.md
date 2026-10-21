@@ -10,6 +10,7 @@ perex: Ombudsmanka žádá vládu, aby zajistila účastníkům správních ří
   jednoznačně umožnila změnou zákona.
 kategorie:
   - tz
+  - pro-vladu
 ---
 Nahlížení do spisu probíhá formou poskytnutí kopie, ale zákon nespecifikuje, jak konkrétně má být kopie předána. Podle ombudsmanky tak není důvod trvat na fyzické přítomnosti žadatele na pracovišti úřadu.
 

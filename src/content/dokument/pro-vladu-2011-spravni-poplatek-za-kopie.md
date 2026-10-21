@@ -1,0 +1,9 @@
+---
+title: "Správní poplatek za kopie z úředního spisu"
+date: 2011-01-01T00:00:00.000Z
+perex: "V roce 2011 doporučil ochránce vládě, aby změnila Sazebník správních poplatků (konkrétně položky č. 3) obsažený v příloze zákona o správních poplatcích (zákon č. 634/2004 Sb., ve znění pozdějších předpisů). Jádrem problému je skutečnost, že zaplacení poplatku hrubě převyšujícího náklady za pořízení kopie z úředního spisu, se vyžaduje i po účastnících dosud neskončených správních řízení. To podle ochránce odporuje právu na spravedlivý proces. Ochránce doporučil **změnu sazebníku tak, aby buďto klesla cena fotokopie za jednu stránku na běžnou komerční úroveň (namísto 15,- Kč jen 1,50 Kč), nebo aby zákon zcela osvobodil od placení předmětného poplatku účastníky pravomocně neskončených řízení**. Vláda na základě doporučení ochránce uložila usnesením č. 633 ze dne 24. srpna 2011 ministru vnitra, aby předložil novelu zákona o správních poplatcích, která bude vycházet z doporučení ochránce."
+vystupy:
+ - pro-vladu
+---
+
+Ministerstvo vnitra na sklonku roku 2011 usnesení vlády splnilo, avšak dle názoru ochránce **připravená novela nenaplňuje jeho doporučení**. Správní poplatek má být snížen jen částečně (na 15,- Kč za první 5,- Kč za každou další stranu) a účastníci probíhajících správních řízení nebudou ze zákona osvobozeni (osvobodit účastníky řízení bude možné jen na základě správní úvahy úřadu a z „důvodů hodných zvláštního zřetele“). Podle poznatků ministerstva vnitra je přitom výnos tohoto poplatku zcela marginálním rozpočtovým příjmem a mnohé úřady jej již nyní po účastnících řízení nevyžadují. Ochránce nerozumí důvodům podoby předkládané novely a uplatnil k ní své připomínky. Vláda připomínky ochránce již nezohlednila a návrh novely bude předložen Poslanecké sněmovně v podobě připravené ministerstvem.
