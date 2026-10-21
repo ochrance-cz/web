@@ -1,4 +1,4 @@
-import { readdir, readFile } from 'node:fs/promises';
+import { copyFile, mkdir, readdir, readFile } from 'node:fs/promises';
 import { join } from 'node:path';
 
 type Locale = 'cs' | 'en';
@@ -17,19 +17,16 @@ export function leafletFilePath(locale: Locale, slug: string, file: string | und
   return `${locale === 'en' ? '/en' : ''}/letaky/${slug}/${slug}.${ext}`;
 }
 
-/** Where pages link the file. The address exists only through `_redirects`, so `astro dev` links the upload itself. */
+/** Where pages link the file. The address exists only in the build, so `astro dev` and the CMS preview link the upload itself. */
 export function leafletFileHref(locale: Locale, slug: string, file: string | undefined): string | undefined {
   return (import.meta.env.PROD && leafletFilePath(locale, slug, file)) || file;
 }
 
 const COLLECTIONS: [Locale, string][] = [['cs', 'src/content/letaky'], ['en', 'src/content/letaky-en']];
 
-/**
- * `_redirects` rules from each leaflet's stable address to its current upload.
- * 302, not 301: browsers cache a 301, and would keep the old file after a replacement.
- */
-export async function leafletFileRedirects(): Promise<string[]> {
-  const rules: string[] = [];
+/** Each leaflet with an uploaded main file: its stable address and the upload it serves. */
+export async function leafletFiles(): Promise<{ from: string; file: string }[]> {
+  const files: { from: string; file: string }[] = [];
   for (const [locale, dir] of COLLECTIONS) {
     const names = await readdir(dir).catch(() => [] as string[]);
     for (const name of names.filter(n => n.endsWith('.md')).sort()) {
@@ -37,7 +34,32 @@ export async function leafletFileRedirects(): Promise<string[]> {
       const frontmatter = text.match(/^---\n([\s\S]*?)\n---/)?.[1] ?? '';
       const file = frontmatter.match(/^file:\s*['"]?([^'"\n]+?)['"]?\s*$/m)?.[1];
       const from = leafletFilePath(locale, name.slice(0, -'.md'.length), file);
-      if (from) rules.push(`${from} ${file} 302`);
+      if (from && file) files.push({ from, file });
+    }
+  }
+  return files;
+}
+
+/**
+ * Copy each leaflet's current upload to its stable address in the build and return
+ * the `_redirects` rules that serve it there. A redirect would leave the upload's
+ * random name in the address bar, and editors copy links from there.
+ * The `200` rule to itself outranks older rules for the same path, such as one
+ * pointing at the file the leaflet had before the CMS.
+ */
+export async function publishLeafletFiles(dist: URL, warn: (message: string) => void): Promise<string[]> {
+  const rules: string[] = [];
+  for (const { from, file } of await leafletFiles()) {
+    const source = new URL(`.${file}`, dist);
+    const target = new URL(`.${from}`, dist);
+    try {
+      await mkdir(new URL('.', target), { recursive: true });
+      await copyFile(source, target);
+      rules.push(`${from} ${from} 200`);
+    } catch (error) {
+      // Without the upload in the build, at least lead to wherever it is served.
+      warn(`Leaflet file ${file} for ${from} not copied: ${String(error)}`);
+      rules.push(`${from} ${file} 302`);
     }
   }
   return rules;

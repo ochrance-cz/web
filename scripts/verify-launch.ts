@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import { readFileSync, readdirSync } from 'node:fs';
 import { createHash } from 'node:crypto';
 import snapshot from './fixtures/launch-snapshot.json';
-import { leafletFileRedirects } from '../src/lib/leaflet-file';
+import { leafletFiles } from '../src/lib/leaflet-file';
 
 const rules = readFileSync('dist/_redirects', 'utf8').split('\n')
   .map(line => line.trim()).filter(line => line && !line.startsWith('#'))
@@ -54,7 +54,7 @@ for (const url of snapshot.urls) {
 }
 assert.equal(failures.length, 0, failures.join('\n'));
 // A leaflet's stable address follows the file the CMS holds now, so only its target is checked.
-const leafletAddresses = new Set((await leafletFileRedirects()).map(rule => rule.split(/\s+/)[0]));
+const leafletAddresses = new Set((await leafletFiles()).map(({ from }) => from));
 for (const [path, expected] of Object.entries(snapshot.assets)) {
   const file = resolve(path);
   if (leafletAddresses.has(path)) continue;

@@ -1,6 +1,6 @@
 import { readFile, writeFile } from 'node:fs/promises';
 import type { AstroIntegration } from 'astro';
-import { leafletFileRedirects } from './leaflet-file';
+import { publishLeafletFiles } from './leaflet-file';
 
 const sourceOf = (line: string) => line.split(/\s+/)[0] ?? '';
 const isRule = (line: string) => Boolean(line) && !line.startsWith('#');
@@ -38,7 +38,7 @@ export function mergeRedirects(): AstroIntegration {
 				const generated = rules(await readFile(target, 'utf-8').catch(() => ''));
 				const ours = rules(await readFile('public/_redirects', 'utf-8').catch(() => ''));
 				const cms = rules(await readFile('src/_redirects', 'utf-8').catch(() => ''));
-				const leaflets = await leafletFileRedirects();
+				const leaflets = await publishLeafletFiles(dir, message => logger.warn(message));
 				if (!ours.length && !cms.length && !leaflets.length) return;
 
 				const seen = new Set<string>();
