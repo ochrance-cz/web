@@ -29,4 +29,4 @@ Ombudsmanka se opakovaně zabývá případy, kdy stavby nesplňují požadavky 
 
 Na přístupnost staveb mohou mít vliv také změny stavebních předpisů. Ombudsmanka proto bude sledovat, jak se připravované změny promítnou do práv lidí s postižením. I proto považuje za důležité, aby se lidé se svou zkušeností mohli do přípravy pravidel zapojit.
 
-Jak připomínkovat návrhy technických norem
+[Jak připomínkovat návrhy technických norem](/assets/20065a40ec71-letak-verejne-pripominkovani-22-10-26.pdf)
