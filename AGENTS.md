@@ -34,7 +34,7 @@ Administrace čte konfiguraci staticky ze zdrojového kódu, ne spuštěním.
 - Verze `@nuasite/*` je v `package.json` třikrát a v klíčích i názvech souborů `patchedDependencies`. Při zvednutí verze se patche v `patches/` musí převést (`bun patch`, `bun patch --commit`); `bun install --frozen-lockfile` na nesedícím patchi spadne.
 - `bunfig.toml` vyjímá balíčky `@nuasite/*` z čekací lhůty na nové verze. Přibude-li v `bun.lock` nový balíček `@nuasite`, doplň ho tam.
 - Verze editoru v `cms.src` se se zvednutím balíčků sama neposune. Před změnou ověř, že na CDN existuje (`curl -I https://cdn.nuasite.com/script/<verze>/cms-editor.js`).
-- Patch `cms-mdx-editor` obsahuje undo/redo a tlačítko ❝, které rámeček i odebere, převzaté z nuasite. Vyjdou v 0.62.1; při přechodu na ni tuhle část patche smaž. Zbytek patchů jsou úpravy lokální administrace, které nuasite zatím nemá.
+- Patch `cms-mdx-editor` obsahuje undo/redo a tlačítko ❝, které rámeček i odebere, převzaté z nuasite. Vyjdou v prvním vydání po 0.62.0; při přechodu na něj tuhle část patche smaž. Zbytek patchů jsou úpravy lokální administrace, které nuasite zatím nemá.
 - `_redirects` slučuje nua. Navíc běží tři vlastní kroky v `astro.config.ts`: stálé adresy letáků (`src/lib/leaflet-file.ts`), přesná pravidla před vzory (`src/lib/redirect-order.ts`) a pro Cloudflare přepis odkazů na soubory (`src/lib/own-origin-files.ts`), který se řadí až za integrace nua.
 
 ## Před merge do `main`
