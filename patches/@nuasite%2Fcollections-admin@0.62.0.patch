@@ -298,7 +298,7 @@ index ea69b2b7527b3293e58a3c72d0c67c43151197dc..91a326e115218b338e4c423040545cdc
  						)
  						: null}
 diff --git a/src/field-editor.tsx b/src/field-editor.tsx
-index 942d72328a05c98e86440f2d9654e0cac3c9e306..2e76e97d1a8b2a6b0db40d2d844710b16db12aa7 100644
+index 85fa0f8cef4e5770c4f335a97d82ffa784affede..9b5646105722bbb730c25c1e5c09f4af95a0564b 100644
 --- a/src/field-editor.tsx
 +++ b/src/field-editor.tsx
 @@ -12,6 +12,7 @@ import {

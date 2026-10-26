@@ -1,8 +1,8 @@
 diff --git a/src/server.ts b/src/server.ts
-index 58f90c573d42631c121f546fdbecf23959e35f41..470d8eef093ca737bf96a2ed7d6c214c318c8cbb 100644
+index 653509161afd698fe9b14e6af4a5584e7b0c8a5f..f881d63c2bba2bd3cf88fc4e68c1a3b8e137594f 100644
 --- a/src/server.ts
 +++ b/src/server.ts
-@@ -790,7 +790,36 @@ export function createServer(opts: CreateServerOptions): CmsSidecarServer {
+@@ -825,7 +825,36 @@ export function createServer(opts: CreateServerOptions): CmsSidecarServer {
  		const routes = await collectionRoutes.get().catch(() => new Map<string, CollectionRoute>())
  		const route = routes.get(collection)
  		const all = (def.entries ?? []).map(e => entryWithPageUrl(def, e, route))
@@ -40,7 +40,7 @@ index 58f90c573d42631c121f546fdbecf23959e35f41..470d8eef093ca737bf96a2ed7d6c214c
  
  		const offset = decodeCursor(query.cursor)
  		const limit = query.limit ?? DEFAULT_LIMIT
-@@ -1015,7 +1044,23 @@ export function createServer(opts: CreateServerOptions): CmsSidecarServer {
+@@ -1050,7 +1079,23 @@ export function createServer(opts: CreateServerOptions): CmsSidecarServer {
  		// The scan is one unpaginated list, so its filter is a plain one — and the offset the cursor
  		// carries indexes the *filtered* list, which is stable for as long as the tree is.
  		const offset = projectOffset ?? 0

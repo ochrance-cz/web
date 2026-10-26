@@ -41,7 +41,7 @@ export default defineConfig({
       cmsConfig: {
         // Keep metadata open for both Markdown entries and data-only collections.
         openMetadataByDefault: true,
-        features: { collectionManagement: false, pageEditing: false },
+        features: { collectionManagement: false },
       },
     },
   },

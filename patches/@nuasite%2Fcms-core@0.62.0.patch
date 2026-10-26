@@ -1,8 +1,8 @@
 diff --git a/src/collection-scanner.ts b/src/collection-scanner.ts
-index d19b57a36a740da45d27e7f6d3f2a7bc7f2d9ba5..2bface33fe275fcdffa98423be68b4ec2c3afc09 100644
+index 2108bb903edc07f16248e7549478356ae237b420..3e8ef66cf37fd3c440aebb7ca2f97f8a1e954e30 100644
 --- a/src/collection-scanner.ts
 +++ b/src/collection-scanner.ts
-@@ -524,6 +524,7 @@ async function buildDataCollectionDefinition(
+@@ -529,6 +529,7 @@ async function buildDataCollectionDefinition(
  	const sourceBasePath = getCollectionSourceBasePath(basePath, collectionName, contentDir)
  	const fieldMap = new Map<string, FieldObservation>()
  	const entryInfos: CollectionEntryInfo[] = []
@@ -10,7 +10,7 @@ index d19b57a36a740da45d27e7f6d3f2a7bc7f2d9ba5..2bface33fe275fcdffa98423be68b4ec
  	const ext = sources.some(s => s.relPath.endsWith('.json'))
  		? 'json' as const
  		: sources.some(s => s.relPath.endsWith('.yaml'))
-@@ -550,10 +551,13 @@ async function buildDataCollectionDefinition(
+@@ -555,10 +556,13 @@ async function buildDataCollectionDefinition(
  		// deliberate change from the old `name`-first order; declare `titleField` to
  		// pin a different field.
  		const title = deriveEntryTitle(data)
@@ -24,7 +24,7 @@ index d19b57a36a740da45d27e7f6d3f2a7bc7f2d9ba5..2bface33fe275fcdffa98423be68b4ec
  			data,
  		})
  
-@@ -564,6 +568,7 @@ async function buildDataCollectionDefinition(
+@@ -569,6 +573,7 @@ async function buildDataCollectionDefinition(
  		path: sourceBasePath,
  		type: 'data',
  		fileExtension: ext,
@@ -32,23 +32,8 @@ index d19b57a36a740da45d27e7f6d3f2a7bc7f2d9ba5..2bface33fe275fcdffa98423be68b4ec
  	})
  }
  
-@@ -686,8 +691,12 @@ function applyParsedConfig(
- 		const fieldsByName = new Map(def.fields.map(f => [f.name, f]))
- 		for (const pf of parsedColl.fields) {
- 			const field = fieldsByName.get(pf.name)
--			if (!field) continue
--			applyParsedFieldOverrides(field, pf)
-+			if (field) {
-+				applyParsedFieldOverrides(field, pf)
-+			} else {
-+				// A declared field must be editable before its first value is saved.
-+				def.fields.push(parsedFieldToFieldDefinition(pf))
-+			}
- 		}
- 
- 		// Declarative form layout from `defineCmsCollection({ cms })`.
-@@ -1233,6 +1242,27 @@ export async function scanCollections(
- 	detectDerivedHrefFields(collections)
+@@ -1254,6 +1259,27 @@ export async function scanCollections(
+ 	for (const def of Object.values(collections)) pairImageAltFields(def.fields)
  	assignSemanticRoles(collections)
  	applyCollectionOrderBy(collections, parsed)
 +	// Optional project-level field vocabulary, applied after schema labels so shared
@@ -76,10 +61,10 @@ index d19b57a36a740da45d27e7f6d3f2a7bc7f2d9ba5..2bface33fe275fcdffa98423be68b4ec
  
  	// The report has to describe the disk as this scan found it, so it is built here and not
 diff --git a/src/content-config-ast.ts b/src/content-config-ast.ts
-index ecc61c97346d0e85be787c21f4317ed8e859c737..61ab56e67be314ba5f9bb2ed2fbb41a98c904609 100644
+index 6bc337835f3ce2612ddd1694569a950d246c5f98..acc6bd8a75ca225dc9bfb7ef84316a0e88945a37 100644
 --- a/src/content-config-ast.ts
 +++ b/src/content-config-ast.ts
-@@ -1510,6 +1510,13 @@ function analyzeBaseCall(node: t.CallExpression, field: ParsedField, bindings: B
+@@ -1511,6 +1511,13 @@ function analyzeBaseCall(node: t.CallExpression, field: ParsedField, bindings: B
  	// and a plain `z.boolean()` declares the very same field.
  	if ((ns === 'z' || ns === 'n') && fn === 'boolean') {
  		field.type = 'boolean'
@@ -93,7 +78,7 @@ index ecc61c97346d0e85be787c21f4317ed8e859c737..61ab56e67be314ba5f9bb2ed2fbb41a9
  		return
  	}
  
-@@ -1547,6 +1554,13 @@ function analyzeBaseCall(node: t.CallExpression, field: ParsedField, bindings: B
+@@ -1548,6 +1555,13 @@ function analyzeBaseCall(node: t.CallExpression, field: ParsedField, bindings: B
  
  	// (z|n).array(<inner>)  →  array; inspect the element type
  	if ((ns === 'z' || ns === 'n') && fn === 'array') {
