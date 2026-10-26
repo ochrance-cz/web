@@ -15,7 +15,7 @@ export async function getStaticPaths() {
 }
 
 const { entry } = Astro.props;
-const { title, illustration, headerColor, perex, cta } = entry.data;
+const { title, illustration, illustrationAlt, headerColor, perex, cta } = entry.data;
 
 // /pusobnost/ section's `seeMore` param, rendered inline (Hugo `markdownify`).
 const SEE_MORE =
@@ -28,7 +28,7 @@ const seeMoreHtml = (await renderMarkdown(SEE_MORE))
 ---
 <BaseLayout title={title} lang="en">
   <main data-pagefind-body>
-    <PicHeader title={title} illustration={illustration} headerColor={headerColor ?? ''} />
+    <PicHeader title={title} illustration={illustration} alt={illustrationAlt} headerColor={headerColor ?? ''} />
 
     <div>
       <section>

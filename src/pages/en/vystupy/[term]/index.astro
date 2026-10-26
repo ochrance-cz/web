@@ -48,7 +48,7 @@ const perexHtml = term.data.perex ? await renderMarkdown(term.data.perex) : '';
 ---
 {term.id === 'statements-to-international-bodies' ? <InternationalStatements mode="type" locale="en" /> : <BaseLayout title={headerTitle} lang="en">
   <main>
-    <PicHeader title={headerTitle} illustration={term.data.illustration} />
+    <PicHeader title={headerTitle} illustration={term.data.illustration} alt={term.data.illustrationAlt} />
     <section>
       {perexHtml && <div class="perex" set:html={perexHtml} />}
     </section>

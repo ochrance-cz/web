@@ -10,9 +10,9 @@ export async function getStaticPaths() {
 }
 
 const { entry } = Astro.props;
-const { title, illustration, links } = entry.data;
+const { title, illustration, illustrationAlt, links } = entry.data;
 ---
 <SingleLayout title={title} lang="cs" links={links}>
-  {illustration && <img src={illustration} alt={title} />}
+  {illustration && <img src={illustration} alt={illustrationAlt ?? ''} aria-hidden={illustrationAlt ? undefined : 'true'} />}
   <MarkdownContent content={entry.body} />
 </SingleLayout>

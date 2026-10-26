@@ -30,7 +30,7 @@ for (const item of items) {
 ---
 <BaseLayout title={title} lang="cs">
   <main data-pagefind-body>
-    <PicHeader title={title} illustration={term?.data.illustration} />
+    <PicHeader title={title} illustration={term?.data.illustration} alt={term?.data.illustrationAlt} />
     <section class="_news single-col">
       {perexHtml && <div class="perex" set:html={perexHtml} />}
       <nav aria-label="Zobrazení doporučení">

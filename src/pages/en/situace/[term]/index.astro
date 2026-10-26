@@ -39,7 +39,7 @@ const perexHtml = await renderMarkdown(term.data.perex);
 ---
 <BaseLayout title={term.data.title} lang="en">
   <main>
-    <PicHeader title={term.data.title} illustration={term.data.illustration} />
+    <PicHeader title={term.data.title} illustration={term.data.illustration} alt={term.data.illustrationAlt} />
     <section>
       <div class="perex" set:html={perexHtml} />
 

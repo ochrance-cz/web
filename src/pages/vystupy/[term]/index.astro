@@ -69,7 +69,7 @@ const perexHtml = term.data.perex ? await renderMarkdown(term.data.perex) : '';
 ---
 {term.id === 'doporuceni' ? <Recommendations mode="year" /> : advisoryBodies.has(term.id) ? <AdvisoryBodyDocuments term={term} /> : term.id === 'vyjadreni-pro-mezinarodni-organy' ? <InternationalStatements mode="type" /> : <BaseLayout title={headerTitle} lang="cs">
   <main>
-    <PicHeader title={headerTitle} illustration={term.data.illustration} />
+    <PicHeader title={headerTitle} illustration={term.data.illustration} alt={term.data.illustrationAlt} />
     <section class:list={{ 'research-section': term.id === 'vyzkumy' }}>
       {perexHtml && <div class="perex" set:html={perexHtml} />}
       {term.id === 'publikace' && (

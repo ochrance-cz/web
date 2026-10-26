@@ -33,7 +33,7 @@ const years = [...new Set(documents.map(yearOf))].map((year) => ({
 ---
 <BaseLayout title={title} lang="cs">
   <main data-pagefind-body>
-    <PicHeader title={title} illustration={term.data.illustration} />
+    <PicHeader title={title} illustration={term.data.illustration} alt={term.data.illustrationAlt} />
     {perexHtml && <section class="perex advisory-section" set:html={perexHtml} />}
     <section class="_news single-col advisory-section">
       <nav aria-label={`Zobrazení dokumentů: ${title}`}>
