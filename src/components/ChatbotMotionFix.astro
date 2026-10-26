@@ -1,0 +1,44 @@
+---
+// The Nanotrix chatbot button pulses forever until a visitor opens the chat.
+// The pulse animates box-shadow, so the browser repaints the page 60 times
+// a second on every idle page. This limits the animations to a few runs and
+// turns them off for visitors who ask for reduced motion.
+//
+// The widget renders into an open shadow root and reuses one that already
+// exists, so we attach it first and add the sheet through adoptedStyleSheets,
+// which survives the widget replacing the root's innerHTML.
+// Remove once Nanotrix fixes the animations in their widget.
+---
+<script is:inline>
+  (() => {
+    const HOST_ID = 'nanotrix-chatbot-widget-host';
+    const CSS = `
+      #chat-toggle.attention, .online-indicator { animation-iteration-count: 3 !important; }
+      #chat-toggle.attention.bounce-in { animation-iteration-count: 1, 3 !important; }
+      @media (prefers-reduced-motion: reduce) {
+        #chat-toggle, .online-indicator, .welcome-bubble { animation: none !important; transition: none !important; }
+      }`;
+
+    const patch = (host) => {
+      try {
+        const root = host.shadowRoot || host.attachShadow({ mode: 'open' });
+        const sheet = new CSSStyleSheet();
+        sheet.replaceSync(CSS);
+        root.adoptedStyleSheets = [...root.adoptedStyleSheets, sheet];
+      } catch {
+        // Older browsers without constructable stylesheets keep the widget as it is.
+      }
+    };
+
+    const existing = document.getElementById(HOST_ID);
+    if (existing) return patch(existing);
+
+    const observer = new MutationObserver(() => {
+      const host = document.getElementById(HOST_ID);
+      if (!host) return;
+      observer.disconnect();
+      patch(host);
+    });
+    observer.observe(document.body, { childList: true });
+  })();
+</script>

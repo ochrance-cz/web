@@ -5,6 +5,7 @@ import { getCollection } from 'astro:content';
 import Meta from '../components/Meta.astro';
 import AlertStrip from '../components/AlertStrip.astro';
 import SiteHeader from '../components/SiteHeader.astro';
+import ChatbotMotionFix from '../components/ChatbotMotionFix.astro';
 import SiteFooter from '../components/SiteFooter.astro';
 import GalleryViewer from '../components/GalleryViewer.astro';
 import type { NavLink } from '../components/SiteHeader.astro';
@@ -144,6 +145,8 @@ const GA_ID = 'G-5RPY19JN9L';
     <SiteFooter locale={lang} />
 
     <GalleryViewer />
+
+    {showChatbot && <ChatbotMotionFix />}
 
     <script>
       import '../scripts/index.js';
