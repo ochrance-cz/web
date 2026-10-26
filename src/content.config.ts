@@ -115,12 +115,13 @@ export const collections = {
       perex: n.textarea({ label: 'Perex', help: 'Krátké úvodní shrnutí. Pro odkazy nebo zvýraznění můžete použít Markdown.' }).optional(),
       kategorie: n.array(reference('vystupy'), { label: "Kategorie" }).optional().transform(referenceIds),
       obrazek: n.image({ label: 'Úvodní obrázek', sidebar: true }).optional(),
+      obrazekAlt: n.text({ label: 'Popis úvodního obrázku', help: 'Alternativní text pro nevidomé a čtečky obrazovky. Popište, co je na obrázku.', sidebar: true }).optional(),
       draft: n.boolean({ label: "Koncept" }).optional().or(blank),
     }),
     cms: {
       label: 'Aktuálně', order: 1,
       pathname: [{ literal: 'aktualne' }, { field: 'slug' }],
-      sidebar: ['date', 'obrazek', 'draft'],
+      sidebar: ['date', 'obrazek', 'obrazekAlt', 'draft'],
       sections: [
         { title: 'Základní údaje', fields: ['title', 'perex', 'kategorie'] },
       ],
@@ -134,11 +135,12 @@ export const collections = {
       perex: n.textarea({ label: 'Lead', help: 'Short introduction. Markdown links and emphasis are supported.' }).optional(),
       categories: n.array(reference('vystupy-en'), { label: 'Categories' }).optional().transform(referenceIds),
       illustration: n.image({ label: 'Lead image', sidebar: true }).optional(),
+      illustrationAlt: n.text({ label: 'Lead image alt text', help: 'Describes the image for screen readers.', sidebar: true }).optional(),
     }),
     cms: {
       label: 'News', order: 200, group: 'Anglická verze webu',
       pathname: [{ literal: 'en' }, { literal: 'aktualne' }, { field: 'slug' }],
-      sidebar: ['date', 'illustration'],
+      sidebar: ['date', 'illustration', 'illustrationAlt'],
       sections: [
         { title: 'Basic information', fields: ['title', 'perex', 'categories'] },
       ],

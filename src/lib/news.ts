@@ -22,6 +22,7 @@ export function newsEntries<C extends NewsCollection>(entries: CollectionEntry<C
         body: entry.body,
         vystupy: collection === 'aktualne' ? cs.kategorie : en.categories,
         illustration: collection === 'aktualne' ? cs.obrazek : en.illustration,
+        illustrationAlt: collection === 'aktualne' ? cs.obrazekAlt : en.illustrationAlt,
       },
     };
   });
