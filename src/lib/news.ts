@@ -23,6 +23,8 @@ export function newsEntries<C extends NewsCollection>(entries: CollectionEntry<C
         vystupy: collection === 'aktualne' ? cs.kategorie : en.categories,
         illustration: collection === 'aktualne' ? cs.obrazek : en.illustration,
         illustrationAlt: collection === 'aktualne' ? cs.obrazekAlt : en.illustrationAlt,
+        audio: collection === 'aktualne' ? cs.audio : en.audio,
+        audioCaption: collection === 'aktualne' ? cs.audioPopis : en.audioCaption,
       },
     };
   });

@@ -22,6 +22,9 @@ other = "Our work"
 [need-help]
 other = "I need help"
 
+[download-audio]
+other = "Download audio"
+
 [download-pdf]
 other = "Download PDF"
 
