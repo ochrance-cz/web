@@ -505,7 +505,7 @@ export const collections = {
     cms: { label: 'Kontakty – oddělení', order: 6, pathname: [{ literal: 'provoz' }, { literal: 'oddeleni' }, { field: 'slug' }] },
   }),
   'provoz-kontakty': defineCmsCollection({
-    loader: glob({ pattern: SINGLE, base: './src/content/provoz-kontakty' }),
+    loader: glob({ pattern: SINGLE, base: './src/content/provoz-kontakty', }),
     schema: n.object({
       date: n.date({ label: 'Datum publikace', help: 'Volitelné datum zveřejnění pro řazení záznamů. Neznámá historická data ponechte prázdná.' }).nullable().optional(),
       title: n.text({ label: 'Název' }),
@@ -728,7 +728,7 @@ export const collections = {
     },
   }),
   alert: defineCmsCollection({
-    loader: glob({ pattern: SINGLE, base: './src/content/alert' }),
+    loader: glob({ pattern: SINGLE, base: './src/content/alert', }),
     schema: n.object({
       date: n.date({ label: 'Datum publikace', help: 'Volitelné datum zveřejnění pro řazení záznamů. Neznámá historická data ponechte prázdná.' }).nullable().optional(),
       title: n.text({ label: 'Název', help: 'Krátký odkaz zobrazovaný nad hlavičkou na všech českých stránkách.' }).optional(),
@@ -739,7 +739,7 @@ export const collections = {
     cms: { label: 'Informační lišta webu', order: 10, fragment: true, previewOf: '/' },
   }),
   'alert-en': defineCmsCollection({
-    loader: glob({ pattern: SINGLE, base: './src/content/alert-en' }),
+    loader: glob({ pattern: SINGLE, base: './src/content/alert-en', }),
     schema: n.object({
       date: n.date({ label: 'Publication date', help: 'Optional publication date for sorting entries. Leave unknown historical dates empty.' }).nullable().optional(),
       title: n.text({ label: 'Title', help: 'Short link shown above the header on every English page.' }).optional(),
@@ -751,7 +751,7 @@ export const collections = {
   }),
   // One switch for the AI chatbot on every Czech and English page.
   chatbot: defineCmsCollection({
-    loader: glob({ pattern: SINGLE, base: './src/content/chatbot' }),
+    loader: glob({ pattern: SINGLE, base: './src/content/chatbot', }),
     schema: n.object({
       date: n.date({ label: 'Datum publikace', help: 'U vypínače nemá význam, ponechte prázdné.' }).nullable().optional(),
       title: n.text({ label: 'Název', help: 'Jen pro přehled v administraci, na webu se nezobrazuje.' }).optional(),
