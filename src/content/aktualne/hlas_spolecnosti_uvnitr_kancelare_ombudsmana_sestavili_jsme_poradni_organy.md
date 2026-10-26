@@ -1,7 +1,9 @@
 ---
-title: 'Hlas společnosti uvnitř Kanceláře ombudsmana: Sestavili jsme poradní orgány'
-date: 2026-09-30T08:49:00.000Z
-perex: "Vybrali jsme kandidáty do poradních orgánů ombudsmanky a jejího zástupce. Ombudsmanka sestavila poradní orgán pro lidská práva. Zástupce ombudsmanů pak pro práva lidí s\_postižením. Ke kandidátům se teď může veřejnost vyjádřit."
+title: "Hlas společnosti uvnitř Kanceláře ombudsmana: Sestavili jsme poradní orgány"
+date: '2026-09-30T08:49:00.000Z'
+perex: Vybrali jsme kandidáty do poradních orgánů ombudsmanky a jejího zástupce.
+  Ombudsmanka sestavila poradní orgán pro lidská práva. Zástupce ombudsmanů pak
+  pro práva lidí s postižením. Ke kandidátům se teď může veřejnost vyjádřit.
 kategorie:
   - aktualita
 ---
@@ -11,7 +13,7 @@ Při sestavování poradního orgánu jsme kladli důraz na zastoupení odlišn�
 
 Jaký je váš názor na vybrané kandidáty? Veřejná konzultace se týká níže uvedených členek a členů. Svou zpětnou vazbu můžete poslat na e-mail [Poradni.NHRI@ochrance.cz](mailto:Poradni.CRPD@ochrance.cz) do 14. 10. 2026.
 
-\{\{\< rozbal "Medailonky kandidátů" \>\}\}
+\{\{\< rozbal "Medailonky kandidátů" >}}
 
 **Daniel Bartoň**
 
@@ -47,7 +49,7 @@ Psychiatr, sexuolog a manažer ve zdravotnictví. Působil jako ředitel Psychia
 
 **Barbora Křižanová**
 
-Manažerka Iniciativy 8000důvodů Nadace J&T, téměř patnáct let zkušeností v oblasti advokační činnosti zaměřené na problematiku ohrožených dětí včetně dětí s postižením, specializuje se na transformaci systému péče o ohrožené děti. Pracovala v mezinárodní organizaci Lumos.
+Manažerka Iniciativy 8000důvodů Nadace J\&T, téměř patnáct let zkušeností v oblasti advokační činnosti zaměřené na problematiku ohrožených dětí včetně dětí s postižením, specializuje se na transformaci systému péče o ohrožené děti. Pracovala v mezinárodní organizaci Lumos.
 
 **Iva Kuchyňková**
 
@@ -55,8 +57,8 @@ Manažerka pro sociální advokacii Charity Česká republika. Vychází z více
 
 **Kateřina Mahdalová**
 
-Datová novinářka a analytička, která se dlouhodobě věnuje práci s veřejnými daty, jejich interpretaci a srozumitelnému vysvětlování složitých společenských témat. Zaměřuje se zejména na lidská práva, vzdělávání, sociální nerovnosti a fungování veřejných institucí.
-
+Novinářka, analytička a vysokoškolská pedagožka, která se dlouhodobě věnuje veřejným datům a jejich využití při vysvětlování složitých společenských témat. Zaměřuje se zejména na lidská práva, vzdělávání, sociální nerovnosti, systémy vládnutí a fungování státu a jeho institucí. Je dvojnásobná laureátka Novinářské ceny Nadace OSF a držitelka Data Journalism Award. Do poradního orgánu přináší schopnost spojovat datovou analýzu s porozuměním tomu, jaké konkrétní dopady mají veřejné politiky na životy lidí.\
+\
 **Maroš Matiaško**
 
 Lidskoprávní expert a advokát. Dlouhodobě spolupracuje s českým a mezinárodním nevládním sektorem. Zakládal Fórum pro lidská práva, působil na Evropském soudu pro lidská práva ve Štrasburku. Věnuje se problematice práv zranitelných skupin, špatnému zacházení a sociálním právům.
@@ -107,13 +109,9 @@ Socioložka a sociální gerontoložka. Jako odborná asistentka působí na kat
 
  
 
- 
+\{\{\< /rozbal >}}
 
-\{\{\< /rozbal \>\}\}
-
- 
-
-\{\{\< rozbal "Stálí hosté" \>\}\}
+\{\{\< rozbal "Stálí hosté" >}}
 
 Kateřina Bursíková Jacques
 
@@ -135,9 +133,7 @@ Ivana Veselá 
 
  
 
- 
-
-\{\{\< /rozbal \>\}\}
+\{\{\< /rozbal >}}
 
 **Poradní orgán pro práva lidí s postižením** 
 
@@ -145,7 +141,7 @@ Ivana Veselá 
 
 Budeme rádi za Vaši zpětnou vazbu. Veřejné konzultace se týká níže uvedených členek a členů. Svou zpětnou vazbu můžete poslat na e-mail [Poradni.CRPD@ochrance.cz](mailto:Poradni.CRPD@ochrance.cz) do 14. 10. 2026.
 
-\{\{\< rozbal "Medailonky kandidátů" \>\}\}
+\{\{\< rozbal "Medailonky kandidátů" >}}
 
 **Karin Bednarzová**
 
@@ -161,7 +157,7 @@ Sebeobhájce, který se věnuje prosazování práv lidí s mentálním postiže
 
 **Natálie Ficencová**
 
-Vedoucí pro rozvoj a vnější vztahy v Amnesty International, kde vede lidskoprávní vzdělávání. Už přes dvanáct let se věnuje podpoře upozaďovaných skupin, zejména v oblasti práv lidí s postižením, neurodivergence a rovnosti. Je také bývalou osobní asistentkou, autistickou sebeobhájkyní, autorkou blogu www.zrzi.cz a osvojitelkou tří romských dětí, z nichž jedno má kombinované postižení.
+Vedoucí pro rozvoj a vnější vztahy v Amnesty International, kde vede lidskoprávní vzdělávání. Už přes dvanáct let se věnuje podpoře upozaďovaných skupin, zejména v oblasti práv lidí s postižením, neurodivergence a rovnosti. Je také bývalou osobní asistentkou, autistickou sebeobhájkyní, autorkou blogu [www.zrzi.cz](http://www.zrzi.cz) a osvojitelkou tří romských dětí, z nichž jedno má kombinované postižení.
 
 **Nicole Fryčová**
 
@@ -221,22 +217,12 @@ Studentka šestiletého studijního oboru na Gymnáziu Olomouc-Hejčín. Má oso
 
  
 
- 
+ 
 
  
 
- 
-
  
 
- 
-
- 
-
- 
-
-\{\{\< /rozbal \>\}\}
-
- 
+\{\{\< /rozbal >}}
 
 ::youtube{#F23VfHAzVog}
