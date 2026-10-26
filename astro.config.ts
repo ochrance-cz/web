@@ -37,6 +37,10 @@ export default defineConfig({
     // tables. Disable MDX so those fields can render with rehype-raw.
     mdx: false,
     cms: {
+      // The inline editor in the preview, pinned: cdn.nuasite.com/script/latest/ lags
+      // behind the releases. It does not follow the @nuasite/* version by itself;
+      // before moving it, check that the version exists on the CDN.
+      src: 'https://cdn.nuasite.com/script/0.62.0/cms-editor.js',
       collections: collectionLabels,
       cmsConfig: {
         // Keep metadata open for both Markdown entries and data-only collections.
