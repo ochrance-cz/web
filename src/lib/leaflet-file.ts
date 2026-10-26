@@ -1,5 +1,6 @@
-import { copyFile, mkdir, readdir, readFile } from 'node:fs/promises';
+import { copyFile, mkdir, readdir, readFile, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
+import type { AstroIntegration } from 'astro';
 
 type Locale = 'cs' | 'en';
 
@@ -47,7 +48,7 @@ export async function leafletFiles(): Promise<{ from: string; file: string }[]> 
  * The `200` rule to itself outranks older rules for the same path, such as one
  * pointing at the file the leaflet had before the CMS.
  */
-export async function publishLeafletFiles(dist: URL, warn: (message: string) => void): Promise<string[]> {
+async function publishLeafletFiles(dist: URL, warn: (message: string) => void): Promise<string[]> {
   const rules: string[] = [];
   for (const { from, file } of await leafletFiles()) {
     const source = new URL(`.${file}`, dist);
@@ -63,4 +64,31 @@ export async function publishLeafletFiles(dist: URL, warn: (message: string) => 
     }
   }
   return rules;
+}
+
+/**
+ * Publishes the leaflets' stable addresses in the build. nua has already merged
+ * `public/_redirects` and the config's `redirects` into `dist/_redirects`; the rules
+ * for the leaflets go ahead of those and replace any for the same path, since
+ * `public/_redirects` still points some of them at the file the leaflet had before
+ * the CMS. The CMS merges the editors' `src/_redirects` in after this, ahead of
+ * everything, so an editor's rule for the path still wins.
+ */
+export function leafletFileAddresses(): AstroIntegration {
+  return {
+    name: 'ochrance:leaflet-files',
+    hooks: {
+      'astro:build:done': async ({ dir, logger }) => {
+        const rules = await publishLeafletFiles(dir, message => logger.warn(message));
+        if (!rules.length) return;
+        const target = new URL('_redirects', dir);
+        const sources = new Set(rules.map(rule => rule.split(' ')[0]));
+        const built = (await readFile(target, 'utf-8').catch(() => ''))
+          .split('\n')
+          .filter(line => line.trim() && !sources.has(line.trim().split(/\s+/)[0]));
+        await writeFile(target, [...rules, ...built, ''].join('\n'), 'utf-8');
+        logger.info(`Published ${rules.length} leaflet files at their stable addresses`);
+      },
+    },
+  };
 }
