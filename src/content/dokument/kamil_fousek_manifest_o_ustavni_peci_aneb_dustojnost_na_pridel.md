@@ -2,7 +2,7 @@
 title: 'Kamil Fousek: Manifest o ústavní péči aneb Důstojnost na příděl'
 date: 2026-09-22T00:00:00.000Z
 vystupy:
-  - publikace
+  - dalsi-publikace
 perex: "Osobní svědectví Kamila Fouska, autora, který fungování sociálních služeb zažil na vlastní kůži vydala Kancelář ombudsmana a dětského ombudsmana. I tímto způsobem chce podpořit svou dlouhodobou snahu o to, aby lidé s\_postižením mohli žít důstojně a nezávisle – v\_přirozeném prostředí mimo velké instituce."
 ---
 > **O autorovi „Manifestu“** 

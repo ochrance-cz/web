@@ -7,6 +7,7 @@ perex: Ombudsmanka se rozhodla vyrozumět vládu o tom, že jí Ministerstvo 
   státního občanství s odvoláním, že jde o utajované informace.
 kategorie:
   - tz
+  - pro-vladu
 ---
 Zákon o veřejném ochránci práv opravňuje ombudsmana provádět šetření postupu úřadů při výkonu  státní správy, tedy i Ministerstva vnitra, které jako správní orgán rozhoduje o žádostech o udělení státního občanství. Ombudsman má proto právo seznámit se se všemi podklady, na základě kterých ministerstvo rozhodovalo. Jen tak může zhodnotit, z jakých relevantních informací ministerstvo vycházelo, jak s podklady pracovalo, kterým informacím z nich přikládalo větší váhu a proč a zda své závěry řádně odůvodnilo.
 

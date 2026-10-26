@@ -15,6 +15,7 @@ perex: Přestože má Úřad pro ochranu hospodářské soutěže vykonávat doh
   efektivní dohled nad veřejnými zakázkami.
 kategorie:
   - tz
+  - pro-vladu
 ---
 Ombudsmanka vychází z šetření, které z vlastní iniciativy vedl její zástupce s cílem ověřit, jak se v činnosti ÚOHS projevuje zavedení poplatku 10 000 Kč za podání podnětu týkajícího se veřejných zakázek. Zjistil, že z rozhodnutí předsedy ÚOHS byl postup úřadu nastaven tak, že se s písemnostmi nezaplaceného podnětu nesměl seznámit žádný z odpovědných právníků, ani místopředseda úřadu zodpovědný za sekci veřejných zakázek. Úřad vyšel z toho, že zákon o zadávání veřejných zakázek podání podnětu zpoplatnil, tudíž nezaplacený podnět je nezákonný podnět.
 
