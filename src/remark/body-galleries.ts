@@ -1,4 +1,5 @@
 import type { Element, ElementContent, Properties, Root, RootContent } from 'hast';
+import { isResizable, resized, srcset } from '../lib/cdn-image';
 
 /**
  * Turn a paragraph of two or more images into a photo gallery, in every collection.
@@ -11,7 +12,6 @@ import type { Element, ElementContent, Properties, Root, RootContent } from 'has
  * bodies are often rendered without their file path). Runs after legacyImageAttributes, whose
  * saved inline sizes would override the grid.
  */
-const CDN_ORIGIN = 'https://cdn.nuasite.com';
 const THUMB_WIDTHS = [320, 640, 1200];
 const LEAD_SIZES = '(max-width: 600px) 90vw, 800px';
 const THUMB_SIZES = '(max-width: 600px) 30vw, 270px';
@@ -28,13 +28,6 @@ const text = (value: string): ElementContent => ({ type: 'text', value });
 const isElement = (node: RootContent | ElementContent): node is Element => node.type === 'element';
 
 const isWhitespace = (node: ElementContent): boolean => node.type === 'text' && node.value.trim() === '';
-
-/** Resized CDN image; other sources are served as they are. */
-const resized = (src: string, width: number): string => {
-  if (!src.startsWith(`${CDN_ORIGIN}/`) || src.endsWith('.svg')) return src;
-  const { origin, pathname, search } = new URL(src);
-  return `${origin}/cdn-cgi/image/width=${width},quality=85,format=auto${pathname}${search}`;
-};
 
 /** The images of a paragraph that contains two or more images and nothing else. */
 const galleryImages = (node: Element): Element[] | undefined => {
@@ -55,9 +48,9 @@ const galleryItem = (image: Element, index: number): Element => {
   delete image.properties.title;
   delete image.properties.style;
   delete image.properties.align;
-  if (src.startsWith(`${CDN_ORIGIN}/`) && !src.endsWith('.svg')) {
+  if (isResizable(src)) {
     image.properties.src = resized(src, THUMB_WIDTHS[THUMB_WIDTHS.length - 1]!);
-    image.properties.srcset = THUMB_WIDTHS.map((w) => `${resized(src, w)} ${w}w`).join(', ');
+    image.properties.srcset = srcset(src, THUMB_WIDTHS);
     image.properties.sizes = index === 0 ? LEAD_SIZES : THUMB_SIZES;
   }
   image.properties.loading ??= 'lazy';

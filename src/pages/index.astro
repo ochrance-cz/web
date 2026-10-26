@@ -2,6 +2,7 @@
 import { getCollection, getEntry } from 'astro:content';
 import { getNews } from '../lib/news';
 import BaseLayout from '../layouts/BaseLayout.astro';
+import HeroImage from '../components/HeroImage.astro';
 import NewsPreview from '../components/NewsPreview.astro';
 import { renderMarkdown } from '../lib/markdown';
 import { t } from '../lib/i18n';
@@ -28,7 +29,7 @@ const cinnost = home.activities ?? [];
   <main>
     <header class="_home-header">
       {home.headerPic && (
-        <img src={home.headerPic} alt={home.headerPicAlt ?? ''} />
+        <HeroImage src={home.headerPic} alt={home.headerPicAlt ?? ''} />
       )}
       <p class="motto">{home.claim}</p>
     </header>

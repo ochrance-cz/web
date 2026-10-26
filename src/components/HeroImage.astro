@@ -1,0 +1,20 @@
+---
+import { resized, srcset } from '../lib/cdn-image';
+
+// Full-width photo at the top of the homepage and the page's largest paint.
+// CDN images go out resized to the screen instead of the 2000px original.
+interface Props {
+  src: string;
+  alt?: string;
+}
+
+const { src, alt = '' } = Astro.props;
+const WIDTHS = [640, 960, 1280, 1600, 2000] as const;
+---
+<img
+  src={resized(src, 1600)}
+  srcset={srcset(src, WIDTHS)}
+  sizes="100vw"
+  alt={alt}
+  fetchpriority="high"
+/>
