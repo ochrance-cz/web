@@ -28,4 +28,5 @@ Veřejná ochránkyně práv proto navrhla vládě uložit ministryni Karle Šle
 
 - [Vyrozumění vlády](/uploads/2f9062b3-560e-4498-99ff-b2e5630b0713.pdf)
 - [Předkládací zpráva](/uploads/a468dcc9-b851-47ed-b3bb-0f1bd001cc9a.pdf)
+
 Dne 5. září 2016 vláda projednávání tohoto bodu **přerušila**, neboť **ze strany Ministerstva pro místní rozvoj došlo v rámci jednání vlády k určitému posunu ve vnímání celé problematiky**. V říjnu 2016 ministerstvo ochránkyni informovalo o přijatých opatření k nápravě. **Ochránkyně považuje přijatá opatření za dostatečná**, proto již na dalším projednávání vládou nadále netrvá a **předložený materiál stáhla**.

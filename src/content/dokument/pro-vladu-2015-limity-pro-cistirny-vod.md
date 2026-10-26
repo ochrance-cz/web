@@ -19,4 +19,5 @@ Příkladem může být čistírna odpadních vod Veverská Bítýška, která b
 Doporučení ochránkyně přichází v době, kdy je vládě připraven k projednání návrh nového nařízení o ukazatelích a hodnotách přípustného znečištění povrchových a odpadních vod. Změnu by tedy bylo možné projednat při této příležitosti.
 
 - [Celý text doporučení vládě](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/uploads-import/Zvlastni_opravneni/Vlada/SZD_3-15-JBV-doporuceni_BAT.pdf)
+
 Vláda doporučení ochránkyně odmítla. V diskuzi ministrů bylo pouze navrženo, aby vznikla pracovní skupina, která by připravila návrh nové tabulky s přísnějšími limity.
