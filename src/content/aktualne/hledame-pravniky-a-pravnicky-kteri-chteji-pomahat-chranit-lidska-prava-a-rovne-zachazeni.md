@@ -38,7 +38,7 @@ Je možné se specializovat, ale i kombinovat více činností.
 
  
 
-Bližší popis pracovní pozice i s ohledem na to, co může zajímat lidi se zdravotním omezením, najdete v tomto dokumentu: odkaz na checklist.
+Bližší popis pracovní pozice i s ohledem na to, co může zajímat lidi se zdravotním omezením, najdete v tomto dokumentu: [odkaz na checklist](/assets/a5293397c9fe-check-list-pravnik-nhri.pdf).
 
  
 
@@ -73,7 +73,7 @@ Bližší popis pracovní pozice i s ohledem na to, co může zajímat lidi se 
 
  
 
-Bližší popis pracovní pozice i s ohledem na to, co může zajímat lidi se zdravotním omezením, najdete v tomto dokumentu: odkaz na checklist.
+Bližší popis pracovní pozice i s ohledem na to, co může zajímat lidi se zdravotním omezením, najdete v tomto dokumentu: [odkaz na checklist](/assets/66669398c4c6-check-list-pravnik-orz.pdf).
 
  
 
