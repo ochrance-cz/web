@@ -32,15 +32,13 @@ draft: false
 * spolupráci na přehledech odborné literatury,
 * evidenci a analýzu stanovisek veřejného ochránce práv (ESO).
 
-<br />
-
 Je možné se specializovat, ale i kombinovat více činností.
 
- 
+<br />
 
 Bližší popis pracovní pozice i s ohledem na to, co může zajímat lidi se zdravotním omezením, najdete v tomto dokumentu: [odkaz na checklist](/assets/a5293397c9fe-check-list-pravnik-nhri.pdf).
 
- 
+<br />
 
 ### **Co od Vás požadujeme:**
 
@@ -57,10 +55,6 @@ Bližší popis pracovní pozice i s ohledem na to, co může zajímat lidi se 
 
  
 
- 
-
- 
-
 ## **PRÁVNÍK/PRÁVNIČKA DO ODBORU ROVNÉHO ZACHÁZENÍ**
 
 ### **Práce na této pozici zahrnuje:**
@@ -71,11 +65,11 @@ Bližší popis pracovní pozice i s ohledem na to, co může zajímat lidi se 
 * zpracování připomínek k právním předpisům,
 * &#x20;reprezentaci Kanceláře veřejného ochránce práv a ochránce práv dětí na národní i mezinárodní úrovni na jednáních, vzdělávacích a osvětových akcích.
 
- 
+  <br />
 
 Bližší popis pracovní pozice i s ohledem na to, co může zajímat lidi se zdravotním omezením, najdete v tomto dokumentu: [odkaz na checklist](/assets/66669398c4c6-check-list-pravnik-orz.pdf).
 
- 
+<br />
 
 ### **Co od Vás požadujeme:**
 
@@ -87,8 +81,6 @@ Bližší popis pracovní pozice i s ohledem na to, co může zajímat lidi se 
 * otevřenost, zájem o nové věci, aktivní a inovativní přístup, flexibilitu a týmového ducha,
 * &#x20;dobrou znalost mezinárodních smluv a dokumentů OSN, Rady Evropy, Evropské unie v dané oblasti, včetně judikatury Evropského soudu pro lidská práva (ESLP)a Soudního dvora EU,
 * znalost práva EU (volný pohyb osob a související judikatura SDEU) je výhodou.
-
- 
 
 **Co Vám nabízíme:**
 
