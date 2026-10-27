@@ -5,7 +5,7 @@ date: '2026-10-27'
 ---
 ## **Volná místa**
 
-Aktuálně hledáme kolegu či kolegyni do týmu PR a marketingu. Více informací najdete v [inzerátu](https://https://www.ochrance.cz/aktualne/hledame-noveho-kolegu-nebo-kolegyni-do-tymu-pr-a-marketingu/).
+Aktuálně hledáme kolegu či kolegyni do týmu PR a marketingu. Více informací najdete v [inzerátu](https://www.ochrance.cz/aktualne/hledame-noveho-kolegu-nebo-kolegyni-do-tymu-pr-a-marketingu/).
 
 Aktuálně také hledáme právničky/právníky do odboru rovného zacházení a pro oblast sledování základních práv a svobod. Více informací najdete v [inzerátu](https://www.ochrance.cz/aktualne/hledame-pravniky-a-pravnicky-kteri-chteji-pomahat-chranit-lidska-prava-a-rovne-zachazeni/).
 
