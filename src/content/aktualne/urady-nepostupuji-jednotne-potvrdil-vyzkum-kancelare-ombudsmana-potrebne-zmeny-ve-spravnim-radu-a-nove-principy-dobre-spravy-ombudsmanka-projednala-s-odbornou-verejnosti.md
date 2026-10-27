@@ -46,7 +46,7 @@ Zjištění z dotazníkového šetření nyní poslouží jako podklad pro dalš
 >
 > Kde nedává jasnou odpověď zákon, měly by úředníky vést [Principy dobré správy](https://www.ochrance.cz/dokument/principy-dobre-spravy/principy-dobre-spravy.pdf). Jde o neformální dokument, který vychází z ústavních zásad, obecných právních principů, morálních pravidel i legitimních společenských očekávání.
 >
-> O jejich současnou podobou se zasloužil první ombudsman Otakar Motejl. Ombudsmanka k jejich modernizaci přistupuje po dvaceti letech od jejich vzniku.
+> O jejich současnou podobou se zasloužil první ombudsman Otakar Motejl. Ombudsmanka Eva Kostolanská k jejich modernizaci přistupuje po dvaceti letech od jejich vzniku.
 
 Na doporučení pro ministerstvo i na formulaci nového „Desatera“ bude ombudsmanka Kostolanská spolupracovat s úředníky, zástupci soudů i neziskových organizací. S představením prvních návrhů začala již na konferenci „Dobrá správa v praxi: od principů k paragrafům“, kde odbornou veřejnost seznámila i s výsledky výzkumu. V debatě zástupci úřadů poukazovali na to, že jejich pracovní zátěž roste. I to budou doporučení a „Desatero“ zohledňovat.
 
