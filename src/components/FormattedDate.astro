@@ -1,4 +1,5 @@
 ---
+import { publicationTime } from '../lib/publication-time';
 // Localizes a date. Czech month names mirror data/months.yml.
 interface Props {
   date: Date | string;
@@ -43,7 +44,8 @@ const day = d.getDate();
 const monthIdx = d.getMonth(); // 0-based
 const year = d.getFullYear();
 
-const datetime = valid ? d.toISOString() : '';
+// Machine-readable moment: a CMS time without a zone is Prague time.
+const datetime = valid ? publicationTime(date)?.toISOString() ?? '' : '';
 
 let label = '';
 if (valid) {

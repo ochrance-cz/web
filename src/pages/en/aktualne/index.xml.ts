@@ -1,5 +1,6 @@
 import rss from '@astrojs/rss';
 import { getNews } from '../../../lib/news';
+import { publicationTime } from '../../../lib/publication-time';
 import type { APIContext } from 'astro';
 
 export async function GET(context: APIContext) {
@@ -13,7 +14,7 @@ export async function GET(context: APIContext) {
     items: entries.map((entry) => ({
       title: entry.data.title,
       link: `/en/aktualne/${entry.id}/`,
-      pubDate: entry.data.date ? new Date(entry.data.date) : undefined,
+      pubDate: publicationTime(entry.data.date),
       description: entry.data.perex,
     })),
   });

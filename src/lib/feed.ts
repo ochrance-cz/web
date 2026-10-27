@@ -1,5 +1,6 @@
 import rss from '@astrojs/rss';
 import { getCollection } from 'astro:content';
+import { publicationTime } from './publication-time';
 
 type Locale = 'cs' | 'en';
 
@@ -14,7 +15,7 @@ export async function buildHomeFeed(locale: Locale, site: string | URL | undefin
     .map((e: any) => ({
       title: e.data.title,
       link: `${prefix}${e.id}/`,
-      pubDate: e.data.date ? new Date(e.data.date) : undefined,
+      pubDate: publicationTime(e.data.date),
       description: (e.data.perex ?? '').replace(/<[^>]*>/g, '').trim(),
     }));
   return rss({
