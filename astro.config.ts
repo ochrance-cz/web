@@ -40,7 +40,7 @@ export default defineConfig({
       // The inline editor in the preview, pinned: cdn.nuasite.com/script/latest/ lags
       // behind the releases. It does not follow the @nuasite/* version by itself;
       // before moving it, check that the version exists on the CDN.
-      src: 'https://cdn.nuasite.com/script/0.62.0/cms-editor.js',
+      src: 'https://cdn.nuasite.com/script/0.63.1/cms-editor.js',
       collections: collectionLabels,
       cmsConfig: {
         // Keep metadata open for both Markdown entries and data-only collections.

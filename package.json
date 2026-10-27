@@ -24,9 +24,9 @@
   },
   "license": "ISC",
   "devDependencies": {
-    "@nuasite/cms-sidecar": "0.62.0",
-    "@nuasite/collections-admin": "0.62.0",
-    "@nuasite/nua": "0.62.0",
+    "@nuasite/cms-sidecar": "0.63.1",
+    "@nuasite/collections-admin": "0.63.1",
+    "@nuasite/nua": "0.63.1",
     "@types/node": "^22",
     "@types/turndown": "^5.0.6",
     "react": "19.2.1",
@@ -51,11 +51,11 @@
     "yaml": "^2.9.0"
   },
   "patchedDependencies": {
-    "@nuasite/cms@0.62.0": "patches/@nuasite%2Fcms@0.62.0.patch",
-    "@nuasite/cms-core@0.62.0": "patches/@nuasite%2Fcms-core@0.62.0.patch",
-    "@nuasite/cms-client@0.62.0": "patches/@nuasite%2Fcms-client@0.62.0.patch",
-    "@nuasite/cms-sidecar@0.62.0": "patches/@nuasite%2Fcms-sidecar@0.62.0.patch",
-    "@nuasite/cms-mdx-editor@0.62.0": "patches/@nuasite%2Fcms-mdx-editor@0.62.0.patch",
-    "@nuasite/collections-admin@0.62.0": "patches/@nuasite%2Fcollections-admin@0.62.0.patch"
+    "@nuasite/cms@0.63.1": "patches/@nuasite%2Fcms@0.63.1.patch",
+    "@nuasite/cms-core@0.63.1": "patches/@nuasite%2Fcms-core@0.63.1.patch",
+    "@nuasite/cms-client@0.63.1": "patches/@nuasite%2Fcms-client@0.63.1.patch",
+    "@nuasite/cms-sidecar@0.63.1": "patches/@nuasite%2Fcms-sidecar@0.63.1.patch",
+    "@nuasite/cms-mdx-editor@0.63.1": "patches/@nuasite%2Fcms-mdx-editor@0.63.1.patch",
+    "@nuasite/collections-admin@0.63.1": "patches/@nuasite%2Fcollections-admin@0.63.1.patch"
   }
 }
