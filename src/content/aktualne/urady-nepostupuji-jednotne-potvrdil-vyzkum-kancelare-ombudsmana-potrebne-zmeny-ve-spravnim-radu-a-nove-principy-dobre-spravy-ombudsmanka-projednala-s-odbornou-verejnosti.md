@@ -58,7 +58,7 @@ Na doporučení pro ministerstvo i na formulaci nového „Desatera“ bude ombu
 >
 > Pokud člověk pošle úřední korespondenci přímo na e-mail úředníka místo na podatelnu, nemůže si být jistý, jak s ní úřad naloží.
 >
-> 2. Opakovaná, kverulantní\*\*\* a agresivní či urážlivá komunikace vůči úřadu
+> 2. Opakovaná, kverulantní\* a agresivní či urážlivá komunikace vůči úřadu
 >
 > Pokud úřad dostane opakovaně stejné podněty nebo agresivně laděnou komunikaci, většinou postupuje stejně, jako by šlo o zcela nový či bezproblémový podnět. Řada úřadů by však uvítala metodiku či legislativní změnu, která by jim umožnila taková podání zpoplatnit či odložit.
 >
