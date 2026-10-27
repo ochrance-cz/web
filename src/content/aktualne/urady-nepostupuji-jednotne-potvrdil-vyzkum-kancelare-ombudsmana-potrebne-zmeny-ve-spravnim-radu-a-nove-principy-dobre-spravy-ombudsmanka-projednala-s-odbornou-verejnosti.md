@@ -34,7 +34,7 @@ Jednou z takových oblastí je vyřizování problematických podnětů. V tut
 
 Jednotně nepřistupují úředníci ani k požadavku lidí, kteří chtějí nahlédnout do spisu, aniž aby úřad museli fyzicky navštívit. Část úřadů je vstřícná a poskytuje kopie listin na dálku, např. do datové schránky, část nikoli. V případě odmítnutí úřady nejčastěji argumentují tím, že jim to neumožňuje zákon (58 %), nebo technickými limity (46 %).
 
-Odlišně probíhá také informování občanů o vyřízení jejich podnětů. Značná část úřadů (40 %) je vyrozumí automaticky i bez výslovné žádosti, další část (45 %) pouze v některých případech a 13 % úřadů volí neformální vyřízení. Malý zlomek úřadů (2 %) podatele podnětu nevyrozumí, ani když o to výslovně požádá. Není ustálené ani to, zda podateli vysvětlí důvody svého postupu.
+Odlišně probíhá také informování občanů o vyřízení jejich podnětů. Značná část úřadů (40 %) je vyrozumí automaticky i bez výslovné žádosti, další část (45 %) pouze v některých případech a 13 % úřadů volí neformální vyřízení. Malý zlomek úřadů (2 %) podatele podnětu nevyrozumí, ani když o to výslovně požádá. Rovněž není ustálené, zda podateli vysvětlí důvody svého postupu.
 
 Pokud úřad zasílá rozhodnutí, standardně v něm bývá informace o možnosti odvolání, už ne ale poučení o správní žalobě. To totiž správní řád nevyžaduje. Přesto více než pětina úřadů o možnosti podat správní žalobu poučuje.
 
