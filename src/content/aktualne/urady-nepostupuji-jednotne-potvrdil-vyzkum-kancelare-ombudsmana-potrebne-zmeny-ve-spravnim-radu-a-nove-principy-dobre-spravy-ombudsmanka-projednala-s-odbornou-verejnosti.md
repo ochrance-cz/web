@@ -54,37 +54,35 @@ Na doporučení pro ministerstvo i na formulaci nového „Desatera“ bude ombu
 
 > **Kancelář ombudsmana a dětského ombudsmana se zaměřila na osm konkrétních oblastí správního řádu, které se opakovaně ukazují jako problematické a úřady v nich postupují nejednotně:**
 >
-> 1.       E-maily doručené přímo úředníkům místo na podatelnu
+> 1. E-maily doručené přímo úředníkům místo na podatelnu
 >
 > Pokud člověk pošle úřední korespondenci přímo na e-mail úředníka místo na podatelnu, nemůže si být jistý, jak s ní úřad naloží.
 >
-> 2.       Opakovaná, kverulantní\*\*\* a agresivní či urážlivá komunikace vůči úřadu
+> 2. Opakovaná, kverulantní\*\*\* a agresivní či urážlivá komunikace vůči úřadu
 >
 > Pokud úřad dostane opakovaně stejné podněty nebo agresivně laděnou komunikaci, většinou postupuje stejně, jako by šlo o zcela nový či bezproblémový podnět. Řada úřadů by však uvítala metodiku či legislativní změnu, která by jim umožnila taková podání zpoplatnit či odložit.
 >
-> 3.       Informování občanů o vyřízení jejich podnětů
+> 3. Informování občanů o vyřízení jejich podnětů
 >
 > Pokud člověk podá podnět k zahájení řízení, musí ho úřad na požádání informovat, jak s podnětem naložil. Přístup úřadů k informování se však značně liší.
 >
-> 4.       Vyřizování podání elektronické korespondence bez elektronického podpisu
+> 4. Vyřizování podání elektronické korespondence bez elektronického podpisu
 >
 > Pokud člověk pošle elektronickou komunikaci bez podpisu tam, kde jej správní řád vyžaduje, úřady reagují různě.
 >
-> 5.       Zapůjčování spisů mezi úřady
+> 5. Zapůjčování spisů mezi úřady
 >
-> Převládají vlastní zaběhnuté postupy než jednotná metodická pravidla. To může vést
+> Převládají vlastní zaběhnuté postupy než jednotná metodická pravidla. To může vést k rozdílům, jak rychle a jakým způsobem si úřady spisy zapůjčí.
 >
-> k rozdílům, jak rychle a jakým způsobem si úřady spisy zapůjčí.
->
-> 6.       Dálkové nahlížení do spisu (zaslání kopie listin ze spisu)
+> 6. Dálkové nahlížení do spisu (zaslání kopie listin ze spisu)
 >
 > Pokud člověk žádá o zaslání kopie listin ze spisu poštou, e-mailem nebo do datové schránky, záleží na konkrétním úřadu, zda mu vyjde vstříc.
 >
-> 7.       Poučení o správní žalobě
+> 7. Poučení o správní žalobě
 >
 > Z rozhodnutí se účastník řízení standardně dozví o možnosti odvolání, nikoli však o možnosti podat správní žalobu.
 >
-> 8.       Nesprávně podané odvolání
+> 8. Nesprávně podané odvolání
 >
 > Pokud člověk odešle odvolání nadřízenému úřadu namísto úřadu, který vydal rozhodnutí, musí jej nadřízený úřad přeposlat. Odvolání pak ale může dojít až po uplynutí lhůty pro jeho podání.
 >
