@@ -111,7 +111,7 @@ export const collections = {
     loader: glob({ pattern: RICH_CONTENT, base: './src/content/aktualne', generateId: indexEntryId }),
     schema: n.object({
       title: n.text({ label: 'Název', help: 'Titulek aktuality zobrazený na webu.' }),
-      date: n.date({ label: 'Datum publikace', sidebar: true }).orderBy('desc').nullable().optional(),
+      date: n.datetime({ label: 'Datum a čas publikace', help: 'Čas se na webu nezobrazuje, určuje pořadí aktualit zveřejněných ve stejný den.', sidebar: true }).orderBy('desc').nullable().optional(),
       perex: n.textarea({ label: 'Perex', help: 'Krátké úvodní shrnutí. Pro odkazy nebo zvýraznění můžete použít Markdown.' }).optional(),
       kategorie: n.array(reference('vystupy'), { label: "Kategorie" }).optional().transform(referenceIds),
       obrazek: n.image({ label: 'Úvodní obrázek', sidebar: true }).optional(),
@@ -134,7 +134,7 @@ export const collections = {
     loader: glob({ pattern: RICH_CONTENT, base: './src/content/aktualne-en', generateId: indexEntryId }),
     schema: n.object({
       title: n.text({ label: 'Title' }),
-      date: n.date({ label: 'Publication date' }).orderBy('desc').nullable().optional(),
+      date: n.datetime({ label: 'Publication date and time', help: 'The time is not shown on the site; it orders news published on the same day.' }).orderBy('desc').nullable().optional(),
       perex: n.textarea({ label: 'Lead', help: 'Short introduction. Markdown links and emphasis are supported.' }).optional(),
       categories: n.array(reference('vystupy-en'), { label: 'Categories' }).optional().transform(referenceIds),
       illustration: n.image({ label: 'Lead image', sidebar: true }).optional(),

@@ -5,13 +5,15 @@ import { createServer } from '@nuasite/cms-sidecar';
 import { resolveCollectionNav } from '@nuasite/cms-types';
 
 const disk = createNodeFs(process.cwd());
+// News carry a publication time so same-day items keep their publishing order.
+const dateType = (name: string) => name === 'aktualne' || name === 'aktualne-en' ? 'datetime' : 'date';
 // Check the literal schema, before the local vocabulary patch can conceal a
 // Czech label in a shared English sub-schema.
 const parsed = parseConfigSource(readFileSync('src/content.config.ts', 'utf8'));
 for (const [name, definition] of parsed) {
   const english = name.endsWith('-en');
   assert.equal(definition.fields.find(f => f.name === 'title')?.layout?.label, english ? 'Title' : name === 'lide' ? 'Jméno' : 'Název', `${name}: consistent entry title`);
-  assert.equal(definition.fields.find(f => f.name === 'date')?.type, 'date', `${name}: publication date available`);
+  assert.equal(definition.fields.find(f => f.name === 'date')?.type, dateType(name), `${name}: publication date available`);
   const walk = (fields: typeof definition.fields) => {
     for (const field of fields) {
       if (english) assert.doesNotMatch(field.layout?.label ?? '', /[áčďéěíňóřšťúůýž]/i, `${name}.${field.name}: literal label language`);
@@ -43,7 +45,7 @@ assert.deepEqual(navigation.flatMap(names).sort(), Object.keys(definitions).sort
 assert(definitions.pusobnost.entries?.some(e => e.slug === 'obcane-eu'), 'EU citizens page is editable under Působnost');
 assert(!definitions.info.entries?.some(e => e.slug === 'obcane-eu'), 'EU citizens page is absent from Info');
 for (const [name, definition] of Object.entries(definitions)) {
-  assert.equal(definition.fields.find(f => f.name === 'date')?.type, 'date', `${name}: publication date reaches the editor API, even when empty`);
+  assert.equal(definition.fields.find(f => f.name === 'date')?.type, dateType(name), `${name}: publication date reaches the editor API, even when empty`);
 }
 // The scanner must retain fields declared in the schema even when no entry has
 // ever stored one. Reproduce the missing-input bug without compatibility seeds.
@@ -55,7 +57,7 @@ const unseeded = await createCmsCore({
   },
 }).scanCollections();
 for (const [name, definition] of Object.entries(unseeded)) {
-  assert.equal(definition.fields.find(f => f.name === 'date')?.type, 'date', `${name}: declared date exists before first save`);
+  assert.equal(definition.fields.find(f => f.name === 'date')?.type, dateType(name), `${name}: declared date exists before first save`);
 }
 // Fix the scan snapshot only: the real sidecar sorting, projection and cursor
 // code is exercised with adversarial dates without writing editorial files.
