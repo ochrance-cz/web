@@ -14,7 +14,7 @@ kategorie:
 draft: false
 date: '2026-10-27'
 ---
-Občané od úřadů očekávají srozumitelný, předvídatelný a jednotný přístup. Jako opora by k tomu měl sloužit [správní řád](https://e-sbirka.gov.cz/sb/2004/500/2025-07-01?f=500%2F2004\&zalozka=text), ten ale ne na všechno nabízí jednoznačnou odpověď. *„Pokud úředníci nenajdou ve správním řádu jasné vodítko, hledají pochopitelně řešení vlastními cestami. Pak se ale stává, že dva různé úřady – nebo dokonce dva úředníci na témže pracovišti – vyřídí obdobnou situaci odlišně. To je nevyhovující a matoucí stav jak pro úřady, tak pro občany,“* říká ombudsmanka Eva Kostolanská.
+Občané od úřadů očekávají srozumitelný, předvídatelný a jednotný přístup. Jako opora by k tomu úředníkům měl sloužit [správní řád](https://e-sbirka.gov.cz/sb/2004/500/2025-07-01?f=500%2F2004\&zalozka=text), ten ale ne na všechno nabízí jednoznačnou odpověď. *„Pokud úředníci nenajdou ve správním řádu jasné vodítko, hledají pochopitelně řešení vlastními cestami. Pak se ale stává, že dva různé úřady – nebo dokonce dva úředníci na témže pracovišti – vyřídí obdobnou situaci odlišně. To je nevyhovující a matoucí stav jak pro úřady, tak pro občany,“* říká ombudsmanka Eva Kostolanská.
 
 > **Komentáře úřadů k nejednotné správní praxi a rozdílným výkladům právních předpisů:**
 >
