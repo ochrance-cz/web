@@ -1,4 +1,4 @@
-date: null
+date: "null"
 title: Eliška Hejtmánková
 department: odbor-verejneho-poradku-zdravotnictvi-a-prace
 visible: true
@@ -6,3 +6,4 @@ order: 50
 role: právnička (přestupky, sousedské spory)
 phone: 542 542 336
 email: eliska.cisarova@ochrance.cz
+departmentHead: true
