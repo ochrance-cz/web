@@ -28,101 +28,81 @@ Naším cílem je posilovat přístupnost informací pro všechny bez rozdílu. 
 
 \{\{\< rozbal "Členové poradního orgánu" >}}
 
-Poradní orgán má 17 členů. Jeho členy jsou lidé s postižením a lidé hájící práva lidí s postižením. Při jmenování členů poradního orgánu přihlíží ombudsman zejména k jejich **odbornosti a angažovanosti v oblasti ochrany práv lidí s postižením**.
+Členy poradního orgánu jsou lidé s postižením a lidé hájící práva lidí s postižením. Při jmenování členů poradního orgánu přihlíží ombudsman zejména k jejich **odbornosti a angažovanosti v oblasti ochrany práv lidí s postižením**.
 
-**Daniel Bartoň**
+**Karin Bednarzová**
 
-Advokát a odborný asistent na Evangelické teologické fakultě Univerzity Karlovy. Často zastupuje oběti sexuálních deliktů a domácího násilí. Obdržel titul Genderman za vnášení racionálního, odborného a o praxi opřeného pohledu do diskuse o sexuálně podmíněném násilí. Podílel se na přípravě nové definice znásilnění, za což obdržel Cenu zmocněnkyně vlády pro lidská práva.
+Lektorka, metodička a konzultantka v oblasti sociálních služeb. Zaměřuje se zejména na služby věnované lidem se zdravotním znevýhodněním. Soustřeďuje se zejména na možnosti podpory a pomoci směřující k běžnému prožívání života v přirozeném prostředí. Ve své praxi propojuje přímou práci s lidmi se znevýhodněním s různými formami podpory poskytovatelů a pracovníků sociálních služeb v jejich práci. 
 
-**Marian Dancso**
+**David Černý**
 
-Pedagog a komunální politik. Ve své odborné činnosti se zaměřuje na inkluzivní politiku ve vzdělávání, její zavádění do vzdělávacích procesů a prosazování rovných příležitostí.
+Redaktor regionální televize. Zajímá se o práva lidí se zdravotním postižením, legislativu a její dopady v praxi. Plánuje se věnovat zejména duševnímu zdraví a prevenci sociálního vyloučení lidí s postižením.
 
-**Kristýna Fuchsová**
+**Štěpán Dyll**
 
-Právnička v organizacích DROM, romské středisko a IQ Roma servis, kde se dlouhodobě věnuje přímé právní pomoci lidem ve zranitelném postavení. Zaměřuje se na právo na bydlení, ochranu nájemníků, rodinné a správní právo a zastupování obětí diskriminace. Usiluje o to, aby byla právní ochrana dostupná všem a soudní praxe zohledňovala lidský rozměr i potřeby znevýhodněných osob.
+Sebeobhájce, který se věnuje prosazování práv lidí s mentálním postižením a duševním onemocněním. Sám takovéto znevýhodnění má a tak ví, že život s ním není vždy lehký. Aktivně se zúčastnil několika konferencí, kde sdílel své zkušenosti. Žije aktivním životem s mnoha koníčky, pracuje, má několik výučních listů. 
 
-**Lucie Fuková**
+**Natálie Ficencová**
 
-Bývalá vládní zmocněnkyně pro záležitosti romské menšiny. Více než dvacet let se věnuje ochraně práv Romů a Romek, podpoře jejich participace, kvalitnímu vzdělávání, připomínání romského holocaustu a komunitnímu organizování.
+Vedoucí pro rozvoj a vnější vztahy v Amnesty International, kde vede lidskoprávní vzdělávání. Už přes dvanáct let se věnuje podpoře upozaďovaných skupin, zejména v oblasti práv lidí s postižením, neurodivergence a rovnosti. Je také bývalou osobní asistentkou, autistickou sebeobhájkyní, autorkou blogu [www.zrzi.cz](http://www.zrzi.cz) a osvojitelkou tří romských dětí, z nichž jedno má kombinované postižení.
 
-**Věra Havlíková**
+**Nicole Fryčová**
 
-Manažerka advokačního týmu organizace SOFA, kde se věnuje systémovým změnám v oblasti duševního zdraví dětí, rovného přístupu ke vzdělávání a podpory ohrožených dětí. Podílí se na prosazování opatření zaměřených na včasnou identifikaci ohrožených dětí a posilování spolupráce mezi školstvím, zdravotnictvím a sociální oblastí. Zkušenosti čerpá z advokační i pedagogické praxe.
+Právnička v  Národní radě osob se zdravotním postižením. Od roku 2019 předsedá Výboru pro přístupnost veřejné správy a veřejných služeb při Radě vlády pro osoby se zdravotním postižením. Od prosince roku 2024 je členkou Rady vlády pro osoby se zdravotním postižením za občanskou společnost. Prosazuje a hájí práva a zájmy lidí se zdravotním postižením.  Je v každodenním kontaktu s lidmi s různými potřebami, to vše jí pomáhá ke komplexnímu vhledu. Od narození je prakticky nevidomá.
 
-**Matěj Hollan**
+**Lenka Hečková**
 
-Politik a občanský aktivista. Společně s ombudsmanem stojí za vymístěním hazardu z veřejného prostoru. Jako náměstek primátora města Brna prosadil pilotní zavedení Housing First v Česku. Od roku 2019 je ředitelem Asociace poskytovatelů adiktologických služeb a členem Rady vlády pro koordinaci protidrogové politiky. V oblasti závislostí se zaměřuje zejména na digitální závislosti a advokacii tématu závislostí. Je činný v česko-německých tématech, stojí za Deklarací smíření 2015 a pozváním Sudetoněmeckého krajanského sdružení do Brna v roce 2026. Je nositelem Ceny Františka Kriegla. 
+Právnička se zaměřením zejména na témata související s lidskými právy, rovnými příležitostmi, inkluzí a diskriminací různě znevýhodněných skupin, zejména osob se zdravotním postižením. Dlouhodobě spolupracuje se Society for All, vede projekt Týmy duševního zdraví při střediscích výchovné péče, je členkou správní rady Aliance pro individualizovanou podporu a spolupracovnicí spolku DownSyndrom CZ.
 
-**Martin Hollý** 
+**Lucie Hodková**
 
-Psychiatr, sexuolog a manažer ve zdravotnictví. Působil jako ředitel Psychiatrické nemocnice Bohnice a jako předseda Psychiatrické společnosti České lékařské společnosti J. E. Purkyně. V současnosti vede Centrum duševní rehabilitace v Rehabilitační nemocnici Beroun.Dlouhodobě se věnuje organizaci psychiatrické péče, transformaci institucionálních služeb, rozvoji komunitní péče. Podílí se rovněž na odborných a koncepčních aktivitách Ministerstva zdravotnictví a na vzdělávání zdravotnických profesionálů.
+Sociálně-rehabilitační konzultantka v organizaci Tichý svět. Věnuje se podpoře osob se sluchovým postižením, osvětě a vzdělávání veřejnosti. Sama žije s Usherovým syndromem a do poradního orgánu plánuje přinést propojení znalosti praxe i osobního pohledu člověka, který se setkává s bariérami spojenými se sluchovým a zrakovým postižením.
 
-**Klára Kalibová**
+**Markéta Křečková**
 
-Ředitelka nevládní organizace In IUSTITIA a advokátka. Ve své praxi se komplexně věnuje tématu předsudečného násilí zastupováním obětí, analytickou činností i prosazováním systémových a legislativních změn. Je místopředsedkyně Výboru pro práva obětí, panelu expertů při Ministerstvu spravedlnosti a podsekce České advokátní komory pro práva poškozeného. 
+Sociální pracovnice a koordinátorka Asociace komunitních služeb v oblasti duševního zdraví. Dlouhodobě se věnuje právům lidí s postižením, reformě péče o duševní zdraví a zapojování lidí s vlastní zkušeností do rozhodování o službách a systému podpory. Vychází přitom také z vlastní zkušenosti s duševním onemocněním a systémem psychiatrické péče.
 
-**Barbora Křižanová**
+**Kristýna Mlejnková**
 
-Manažerka Iniciativy 8000důvodů Nadace J\&T, téměř patnáct let zkušeností v oblasti advokační činnosti zaměřené na problematiku ohrožených dětí včetně dětí s postižením, specializuje se na transformaci systému péče o ohrožené děti. Pracovala v mezinárodní organizaci Lumos.
+Ředitelka Aliance pro individualizovanou podporu, která hájí práva a zájmy lidí se zdravotním postižením a jejich blízkých. Dlouhodobě se věnuje sociální politice, systému sociálních služeb a prosazování podmínek pro důstojný a nezávislý život lidí s postižením v komunitě. Má také osobní zkušenost se systémem podpory díky svému zdravotnímu postižení.
 
-**Iva Kuchyňková**
+**Eri Mrtva**
 
-Manažerka pro sociální advokacii Charity Česká republika. Vychází z více než třicetileté praxe v sociální oblasti, včetně přímé práce, provádění inspekcí kvality sociálních služeb. Věnuje se ochraně lidských práv, prosazování systémových změn, metodické podpoře služeb a zastupování Charity v odborných platformách v ČR i na evropské úrovni.
+Umělec a aktivista, který se věnuje spravedlivější společnosti se zaměřením na queer lidi a lidi s postižením. Věnuje se psaní, intermediálnímu umění a konzultacím přístupnosti.      
 
-**Kateřina Mahdalová**
+**Michal Prager**
 
-Novinářka, analytička a vysokoškolská pedagožka, která se dlouhodobě věnuje veřejným datům a jejich využití při vysvětlování složitých společenských témat. Zaměřuje se zejména na lidská práva, vzdělávání, sociální nerovnosti, systémy vládnutí a fungování státu a jeho institucí. Je dvojnásobná laureátka Novinářské ceny Nadace OSF a držitelka Data Journalism Award. Do poradního orgánu přináší schopnost spojovat datovou analýzu s porozuměním tomu, jaké konkrétní dopady mají veřejné politiky na životy lidí.\
-\
-**Maroš Matiaško**
+Sebeobhájce, lektor a odborník na sociální služby, osobní asistenci a bezbariérovost. Je spoluzakladatelem spolku Žít po svém a hlavním autorem výzkumné zprávy Strategie přežití. Prosazuje právo na nezávislý a důstojný život. Propojuje přitom žitou zkušenost člověka s postižením a odborné znalosti.
 
-Lidskoprávní expert a advokát. Dlouhodobě spolupracuje s českým a mezinárodním nevládním sektorem. Zakládal Fórum pro lidská práva, působil na Evropském soudu pro lidská práva ve Štrasburku. Věnuje se problematice práv zranitelných skupin, špatnému zacházení a sociálním právům.
+**Andrea Procházková**
 
-**Pavel Mühlpachr**
+Právnička zaměřující se na otázky lidských práv. V letech 2017–2024 působila v týdeníku Respekt jako novinářka. Od roku 2025 je v advokacii, kde se věnuje právům lidí s PAS+ a také rodinnému a trestnímu právu. Má doktorát z ústavního práva se zaměřením na lidská práva a strategickou litigaci a působí jako odborná asistentka na Katedře ústavního práva Právnické fakulty Univerzity Karlovy.
 
-Vysokoškolský profesor v oboru sociální práce. Vystudoval sociologii, andragogiku, habilitoval v oboru pedagogika. Ve své publikační činnosti se zaměřuje na oblast sociální pedagogiky, sociální patologie, sociální práce. Jeho výzkumy se soustředí na sociální oblasti. Dlouhodobě působil na vysokých školách v zahraničí.
+**Jakub Purdjak**
 
-**Petr Najman**
+Ředitel organizace AGAPO, která podporuje lidi se zdravotním a sociálním znevýhodněním při získání a udržení zaměstnání na otevřeném trhu práce. Dlouhodobě se věnuje podporovanému zaměstnávání a přechodu mladých lidí ze školy do samostatného života. V poradním orgánu plánuje zastupovat také hlas Asociace pro otevřený trh práce (APOT).
 
-Právník a ředitel Centra pro dítě a rodinu Valika, které působí v Karlovarském kraji. V oblasti sociálně-právní ochrany dětí a náhradní rodinné péče působí téměř 20 let, mimo jiné jako předseda poradního sboru hejtmana. Do poradního orgánu plánuje přinést unikátní spojení právní praxe, osobní zkušenosti pěstouna, a především autentický pohled z prostředí strukturálně postiženého regionu.
+**Jitka Reineltová**
 
-**Karel Nodes**
+Ředitelka organizace PARENT PROJECT a dlouhodobě pečující maminka o syna s Duchennovou svalovou dystrofií. Věnuje se ochraně práv lidí se zdravotním postižením, podpoře pečujících a prosazování dostupnějších zdravotních a sociálních služeb. Do své práce propojuje osobní zkušenost s poznatky rodin z celé České republiky.
 
-Aktivista věnující se ochraně lidských práv, zejména práv LGBT+ osob. Sleduje legislativní a společensky změny ovlivňujících postavení menšin. Za svou práci v oblasti práv LGBT+ lidí získal v roce 2023 ocenění vládní zmocněnkyně pro lidská práva.
+**Pavlína Spilková**
 
-**Jan Oujeský**
+Neslyšící manažerka advokační činnosti v Asociaci neslyšících, nedoslýchavých a jejich přátel (ASNEP), která se celý život věnuje hájení práv lidí se sluchovým postižením. Jako dcera neslyšících rodičů a matka neslyšících dětí propojuje profesní expertizu s hlubokou osobní zkušeností napříč generacemi. Dlouhodobě usiluje o odstraňování komunikačních a systémových bariér ve veřejném prostoru.
 
-Manažer Místní akční skupiny Podbrněnsko, kde se věnuje rozvoji venkova, komunitnímu plánování a posilování občanské společnosti v regionech.  Ve své práci i veřejném působení se zaměřuje na komplexní regionální rozvoj, který vedle infrastruktury propojuje s občanskou společností a komunitami, posilování mezilidské solidarity a ochranou lidské důstojnosti přímo v terénu. Reprezentuje síť Místních akčních skupin jako klíčového partnera pro přenos lidskoprávních témat do každodenního života v obcích. 
+**Eliška Šulcová**
 
-**Zbyněk Roboch**
+Členka krajského advokačního týmu Aliance pro individualizovanou podporu a pracovní skupiny pro tvorbu Střednědobého plánu rozvoje sociálních služeb 2028–2032. Více než dva roky se věnuje participaci na rozvoji sociálních služeb v Praze. Od roku 2008 je na vozíku s paraplegií.
 
-Předseda spolku DIALOGOS, který hájí zájmy lidí se zkušeností s duševním onemocněním. Oblasti duševního zdraví se věnuje dlouhodobě, jak profesně tak i jako koníčku. Pracoval, mimo jiné, v Národním ústavu duševního zdraví nebo v týmu nemocničního ombudsmana v Psychiatrické nemocnici Bohnice. Nyní pracuje v Psychiatrické klinice v Praze. Je spolutvůrcem podcastu o duševním zdraví a závislostech. 
+**Henryk Josef Tietjen**
 
-**Jaroslav Stránský**
+Student politologie, vášnivý dobrovolník, který žije se zbytky zraku. Chce, aby Česká republika byla přístupná všem, bez rozdílu. Všímá si problémů kolem sebe a snaží se je artikulovat na správných místech.
 
-Vedoucí právního oddělení Českomoravské konfederace odborových svazů, odborník na pracovní právo a právo sociálního zabezpečení. Externě se podílí na výuce pracovního práva a sociálního dialogu na Právnické fakultě Masarykovy univerzity. Věnuje se přednáškové a lektorské činnosti v oblasti pracovněprávních vztahů, je autorem několika publikací v oblasti pracovního práva, včetně komentáře k zákoníku práce.
+**Anna Karolina Tomoszková**
 
-**Gracián Svačina**
+Studentka šestiletého studijního oboru na Gymnáziu Olomouc-Hejčín. Má osobní zkušenost s dětskou mozkovou obrnou a epilepsií. Ve volném čase se věnuje paraplavání. Několik let se podílela na projektu inkluzivního hřiště, rok působila v poradní skupině mladých lidí UNICEF (Youth Advisory Board) a pracuje jako vedoucí na vědeckotechnických příměstských táborech Geniátor.
 
-Předseda Aliance center duševního zdraví. Dlouhodobě se věnuje rozvoji komunitní péče o lidi s vážným duševním onemocněním. Ve své práci propojuje zkušenosti z praxe center duševního zdraví se systémovým rozvojem zdravotně-sociálních služeb a prosazuje ochranu práv lidí s psychosociálním postižením, dostupnost komunitních služeb a mezioborovou spolupráci.
-
-**Anna Šabatová**
-
-Signatářka a mluvčí Charty 77, spoluzakladatelka Výboru na obranu nespravedlivě stíhaných, předsedkyně Českého helsinského výbor, členka Evropského výboru pro zabránění mučení, zástupkyně ombudsmana a posléze ombudsmanka. Ochranou lidských práv se zabývá celoživotně. 
-
-**Tomáš Ščuka**
-
-Ředitel organizace Romani hub. Dlouhodobě se věnuje ochraně lidských práv, boji proti diskriminaci Romů a podpoře rovného zacházení. Profesně se zaměřuje na lidská práva, evropské právo, vzdělávání a advokační činnost, přičemž propojuje zkušenosti z evropských institucí s každodenní prací v oblasti bezplatného právního poradenství a podpory romské komunity.
-
-**Monika Šimůnková**
-
-Bývalá zmocněnkyně pro lidská práva a zástupkyně ombudsmana, nyní členka Výboru pro práva dětí při Radě vlády, předsednictva Českého helsinského výboru a správní rady organizace Života 90. Celý svůj profesní život se věnuje lidskoprávním tématům, zejména oblasti ochraně práv dětí a ostatních zranitelných skupin obyvatel. V současné době participuje na projektu Českého helsinského výboru týkajícího se dětí vězněných rodičů.
-
-**Lucie Vidovićová**
-
-Socioložka a sociální gerontoložka. Jako odborná asistentka působí na katedře sociologie Fakulty sociálních studií Masarykovy univerzity, kde spoluzaložila Centrum pro výzkum stárnutí. Od roku 2001 spolupracuje i s Výzkumným institutem práce a sociálních věcí. Má zkušenost jako neformální pečující. 
-
-\{\{\< /rozbal >}}
+ \{\{\< /rozbal >}}
 
 Důležitým partnerem je pro nás Výbor OSN pro práva osob se zdravotním postižením. Výbor OSN totiž sleduje, jak státy plní své povinnosti podle Úmluvy a doporučuje jim, jak zlepšit situaci lidí s postižením. Výbor OSN informujeme o svých poznatcích týkajících se dodržování práv lidí s postižením v České republice. Také připomínkujeme jeho návrhy obecných komentářů k Úmluvě.
 
@@ -187,6 +167,8 @@ Výbor OSN vydává obecné komentáře k jednotlivým článkům Úmluvy, aby 
 #### [Pokyny pro rušení ústavů pro osoby se zdravotním postižením vztahující se i na mimořádné situace](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/media/pokyny_k_deinstitucionalizaci.pdf)
 
 \{\{\< /rozbal >}}
+
+<br />
 
 ### Navštěvujeme zařízení
 
