@@ -1,5 +1,5 @@
 ---
-title: "Různé zkušenosti, nové pohledy. V Kanceláři ombudsmanů poprvé jednaly
+title: "Různé zkušenosti, nové pohledy. V Kanceláři ombudsmanů poprvé jednaly
   nové poradní orgány  "
 date: 2026-11-03T14:30:00.000Z
 perex: "Při ochraně lidských práv budou ombudsmance Evě Kostolanské a jejímu
