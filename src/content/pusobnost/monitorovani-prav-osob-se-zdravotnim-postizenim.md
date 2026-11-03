@@ -102,11 +102,12 @@ Student politologie, vášnivý dobrovolník, který žije se zbytky zraku. Chce
 
 Studentka šestiletého studijního oboru na Gymnáziu Olomouc-Hejčín. Má osobní zkušenost s dětskou mozkovou obrnou a epilepsií. Ve volném čase se věnuje paraplavání. Několik let se podílela na projektu inkluzivního hřiště, rok působila v poradní skupině mladých lidí UNICEF (Youth Advisory Board) a pracuje jako vedoucí na vědeckotechnických příměstských táborech Geniátor.
 
- \{\{\< /rozbal >}}
+\{\{\< /rozbal >}}
 
 Důležitým partnerem je pro nás Výbor OSN pro práva osob se zdravotním postižením. Výbor OSN totiž sleduje, jak státy plní své povinnosti podle Úmluvy a doporučuje jim, jak zlepšit situaci lidí s postižením. Výbor OSN informujeme o svých poznatcích týkajících se dodržování práv lidí s postižením v České republice. Také připomínkujeme jeho návrhy obecných komentářů k Úmluvě.
 
 \{\{\< rozbal "Výbor OSN pro práva osob se zdravotním postižením" >}}
+
 Má **[18 členů](https://www.ohchr.org/EN/HRBodies/CRPD/Pages/Membership.aspx)** , volí je smluvní státy. Úmluva vyžaduje, aby se jednalo o osoby s výraznými morálními kvalitami a současně odborníky v oblastech, na které se vztahuje. Smluvní státy by měly dbát také na spravedlivé zastoupení mužů a žen ze všech částí světa.
 
 Výbor zasedá zpravidla dvakrát ročně, a to v Ženevě ve Švýcarsku. V současnosti je jeho předsedkyní **Rosemary Kayess** z Austrálie.
