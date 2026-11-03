@@ -5,8 +5,7 @@ perex: "Při ochraně lidských práv budou ombudsmance Evě Kostolanské a jej�
   zástupci Vítu Alexandru Schormovi pomáhat dva poradní orgány. Poprvé se sešly
   v pondělí 2. listopadu. Jejich nové členky, členové i stálí hosté při této
   příležitosti převzali slavnostní jmenování. "
-kategorie: []
-vystupy:
+kategorie:
   - tz
 draft: false
 ---
