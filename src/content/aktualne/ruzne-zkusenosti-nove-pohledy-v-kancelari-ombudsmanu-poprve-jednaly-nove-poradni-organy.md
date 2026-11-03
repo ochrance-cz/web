@@ -18,7 +18,7 @@ Poradní orgán pro lidská práva a poradní orgán pro práva lidí s postiž
 
 První společné setkání však patřilo zejména představení priorit, na které se chce Kancelář od ledna 2027 zaměřit a do nichž chce poradní orgány zapojit. *„Pro období následujících tří let jsme si vybrali tři hlavní témata. Bydlení, duševní zdraví a péči o ohrožené děti. Jde o oblasti, ve kterých se problémy často prolínají a které žádná instituce nemůže vyřešit sama. O to důležitější jsou pro nás pohledy lidí s různými životními zkušenostmi,“* uvedla *o*mbudsmanka Eva Kostolanská.
 
-Zástupce ombudsmanky Vít Alexander Schorm zase připomněl, že práce poradního orgánu pro práva lidí s postižením již v minulosti přinesla konkrétní výsledky: „Opakovaně jsme se přesvědčili, že zkušenosti lidí s postižením nám pomáhají odhalovat problémy, které bychom jinak nemuseli zaznamenat. Poznatky členů a členek poradního orgánu jsme využili například při připomínkách k novele zákona o sociálních službách.“
+Zástupce ombudsmanky Vít Alexander Schorm zase připomněl, že práce poradního orgánu pro práva lidí s postižením již v minulosti přinesla konkrétní výsledky: *„Opakovaně jsme se přesvědčili, že zkušenosti lidí s postižením nám pomáhají odhalovat problémy, které bychom jinak nemuseli zaznamenat. Poznatky členů a členek poradního orgánu jsme využili například při připomínkách k novele zákona o sociálních službách.“*
 
 Spolupráci s poradními orgány na prioritních tématech vítá také dětský ombudsman Martin Beneš.
 
