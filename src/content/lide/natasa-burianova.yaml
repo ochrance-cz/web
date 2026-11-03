@@ -1,8 +1,8 @@
 title: Nataša Burianová
 department: odbor-socialniho-zabezpeceni
-visible: false
-order: 14
+visible: true
+order: 131
 role: právnička
 phone: 542 542 296
 email: Natasa.Burianova@ochrance.cz
-departmentHead: true
+departmentHead: false
