@@ -1,6 +1,7 @@
 ---
 title: "Různé zkušenosti, nové pohledy. V Kanceláři ombudsmanů poprvé jednaly
   nové poradní orgány  "
+date: 2026-11-03T14:30:00.000Z
 perex: "Při ochraně lidských práv budou ombudsmance Evě Kostolanské a jejímu
   zástupci Vítu Alexandru Schormovi pomáhat dva poradní orgány. Poprvé se sešly
   v pondělí 2. listopadu. Jejich nové členky, členové i stálí hosté při této
