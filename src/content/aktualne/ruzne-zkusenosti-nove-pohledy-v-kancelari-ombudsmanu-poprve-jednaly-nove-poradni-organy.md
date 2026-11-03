@@ -6,6 +6,8 @@ perex: "Při ochraně lidských práv budou ombudsmance Evě Kostolanské a jej�
   v pondělí 2. listopadu. Jejich nové členky, členové i stálí hosté při této
   příležitosti převzali slavnostní jmenování. "
 kategorie: []
+vystupy:
+  - tz
 draft: false
 ---
 Poradní orgán pro lidská práva a poradní orgán pro práva lidí s postižením by měly Kanceláři ombudsmana a dětského ombudsmana přinášet důležitá témata, žité zkušenosti i odborné pohledy.
