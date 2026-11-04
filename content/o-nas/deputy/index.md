@@ -32,8 +32,6 @@ bio: >-
 
   Od 1. července 2025 je také zástupcem dětského ombudsmana.
 areas:
-  - area: Ochrana dětí, mládeže a rodiny
-    desc: Činnost orgánů OSPOD, ústavní výchova, dávky pěstounské péče
   - area: Rovné zacházení a ochrana před diskriminací
     desc: ""
   - area: "Státní správa soudnictví "
