@@ -12,5 +12,7 @@ Příloha: [Věci, v nichž nebylo dosaženo nápravy:](https://cdn.nuasite.com/
 
 Příloha: [Věci, v nichž nebylo dosaženo nápravy](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/dokument/zpravy_pro_poslaneckou_snemovnu_2026/2026-ii-q-sankce.pdf): odmítnutí VZP zdravotně pojistit občany EU v soudem nařízeném léčení
 
+[Zpráva za 3. čtvrtletí roku 2026](/assets/c081532af57b-2026-iii-q.pdf)
+
 -   [Shrnutí z agendy ombudsmanky](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/dokument/zpravy_pro_poslaneckou_snemovnu_2026/2026-ii-q-shrnuti-vop.pdf)
 -   [Shrnutí z agendy dětského ombudsmana](https://cdn.nuasite.com/assets/ochrance-web-lj8h86/dokument/zpravy_pro_poslaneckou_snemovnu_2026/2026-ii-q-shrnuti-do.pdf)
