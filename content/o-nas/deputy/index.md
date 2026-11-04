@@ -57,4 +57,6 @@ areas:
     desc: Správa na úseku školství, akademická samospráva aj.
   - area: Konzulární služba, superlegalizace a ostatní působnost MZV
   - area: "Soudní rozhodování ve věcech cizinců "
+  - area: Ochrana dětí, mládeže a rodiny
+    desc: Činnost orgánů OSPOD, ústavní výchova, dávky pěstounské péče
 ---
