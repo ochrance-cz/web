@@ -17,7 +17,8 @@ const pages = (await getCollection('pusobnost'))
   })
   .map((e) => ({
     title: e.data.title,
-    href: `/pusobnost/${e.id}/`,
+    // Dětský ombudsman has its own site; the heading links there.
+    href: e.id === 'rodina-zdravotnictvi-a-prace' ? 'https://deti.ochrance.cz/' : `/pusobnost/${e.id}/`,
     perex: e.data.perex,
   }));
 ---

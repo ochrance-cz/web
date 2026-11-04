@@ -5,13 +5,15 @@ interface Props {
   illustration?: string;
   headerColor?: string;
   alt?: string;
+  /** When set, the title links to this URL. */
+  href?: string;
 }
 
-const { title, illustration, headerColor = '', alt = '' } = Astro.props;
+const { title, illustration, headerColor = '', alt = '', href } = Astro.props;
 ---
 <div class:list={['_backdrop', 'header', headerColor]}>
   <header class="_pic-header">
-    <h1>{title}</h1>
+    <h1>{href ? <a href={href}>{title}</a> : title}</h1>
 
     {illustration && (
       <div class="single-hue-pic-wrapper">

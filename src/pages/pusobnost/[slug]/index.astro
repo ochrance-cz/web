@@ -17,6 +17,10 @@ export async function getStaticPaths() {
 const { entry } = Astro.props;
 const { title, illustration, illustrationAlt, headerColor, perex, cta } = entry.data;
 
+// Dětský ombudsman: section content removed, heading points to the children's site.
+const DETI_URL = 'https://deti.ochrance.cz/';
+const isDeti = entry.id === 'rodina-zdravotnictvi-a-prace';
+
 // /pusobnost/ section's `seeMore` param (content/pusobnost/_index.markdown),
 // rendered inline (Hugo `markdownify`) inside the info-note paragraph.
 const SEE_MORE = entry.id === 'ochrana-prosazovani-zakladnich-prav-nhri'
@@ -30,20 +34,22 @@ const seeMoreHtml = (await renderMarkdown(SEE_MORE))
 ---
 <BaseLayout title={title} lang="cs">
   <main data-pagefind-body>
-    <PicHeader title={title} illustration={illustration} alt={illustrationAlt} headerColor={headerColor ?? ''} />
+    <PicHeader title={title} illustration={illustration} alt={illustrationAlt} headerColor={headerColor ?? ''} href={isDeti ? DETI_URL : undefined} />
 
-    <div>
-      <section>
-        {perexHtml && <div class="perex" set:html={perexHtml} />}
+    {!isDeti && (
+      <div>
+        <section>
+          {perexHtml && <div class="perex" set:html={perexHtml} />}
 
-        <MarkdownContent content={entry.body} />
+          <MarkdownContent content={entry.body} />
 
-        <p>
-          <span class="_icon-info" aria-hidden="true"></span>
-          <Fragment set:html={seeMoreHtml} />
-        </p>
-      </section>
-    </div>
+          <p>
+            <span class="_icon-info" aria-hidden="true"></span>
+            <Fragment set:html={seeMoreHtml} />
+          </p>
+        </section>
+      </div>
+    )}
 
     {cta && cta.title && (
       <Cta title={cta.title} btnLink={cta.btnLink} locale="cs" />

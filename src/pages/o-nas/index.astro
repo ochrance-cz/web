@@ -39,7 +39,10 @@ const scopeLinks = [
   ...pusobnost
     .filter((e) => e.id !== NHRI)
     .sort((a, b) => csCollate(a.data.title, b.data.title)),
-].map((e) => ({ href: `/pusobnost/${e.id}/`, title: e.data.title }));
+].map((e) => ({
+  href: e.id === 'rodina-zdravotnictvi-a-prace' ? 'https://deti.ochrance.cz/' : `/pusobnost/${e.id}/`,
+  title: e.data.title,
+}));
 
 // Operations: provoz pages by title.
 const opsEntries = await getCollection('provoz');
