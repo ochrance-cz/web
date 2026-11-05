@@ -1,7 +1,7 @@
 // Single-letter Czech prepositions/conjunctions (k, s, v, z, o, u, a, i) must not end a line.
-// Joins the letter to the following word with a non-breaking space.
-const ONE_LETTER = /(^|[\s(„"'>])([ksvzouaiKSVZOUAI])\s+/g;
-const NBSP = ' ';
+// Joins the letter to the following word with a non-breaking space (U+00A0).
+const ONE_LETTER = /(^|[\s(„"'>])([ksvzouaiKSVZOUAI])[ \t\r\n]+/g;
+const NBSP = '\u00a0';
 
 /** Apply the rule to plain text (no markup). */
 export function nbspOneLetter(text: string | undefined | null): string {
