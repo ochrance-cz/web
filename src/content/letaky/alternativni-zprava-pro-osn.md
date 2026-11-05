@@ -2,5 +2,5 @@
 title: Alternativní zpráva pro OSN
 situace:
   - lide-se-zdravotnim-postizenim
-file: https://cdn.nuasite.com/assets/ochrance-web-lj8h86/media/letaky/alternativni-zprava-pro-osn/alternativni-zprava-pro-osn.pdf
+file: /uploads/2a5b3a9f-3108-4fb2-9d23-0452d4d86ebe.pdf
 ---
