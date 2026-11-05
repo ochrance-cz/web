@@ -1,6 +1,7 @@
 ---
 title: "Kompostárna znepříjemnila život lidem v okolí. Ombudsmanka se zastala
   muže, kterého stavební úřad nepřizval k řízení "
+date: 2026-11-05T00:00:00.000Z
 perex: "Zápach, potkani, kouř při pálení či ohrožení podzemních vod. Na to si
   stěžovali někteří lidé žijící poblíž obecní kompostárny. Jejich nevole
   pramenila i z toho, že k řízení, které proběhlo před samotným umístěním
