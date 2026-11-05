@@ -19,9 +19,13 @@ export async function getStaticPaths() {
 const lang = 'cs' as const;
 const { entry } = Astro.props;
 const { data } = entry;
-const titleText = nbspOneLetter(data.title);
-const perexHtml = data.perex ? nbspOneLetterHtml(await renderMarkdown(data.perex)) : '';
-const bodyHtml = data.body ? nbspOneLetterHtml(await renderMarkdown(data.body)) : '';
+// Pravidlo „jednopísmenkové slovo nezůstává na konci řádku“ platí jen pro tento jeden článek.
+const nbspOnly = entry.id === 'kompostarna-zneprijemnila-zivot-lidem-v-okoli-ombudsmanka-se-zastala-muze-ktereho-stavebni-urad-neprizval-k-rizeni';
+const fixText = (v: string) => (nbspOnly ? nbspOneLetter(v) : v);
+const fixHtml = (v: string) => (nbspOnly ? nbspOneLetterHtml(v) : v);
+const titleText = fixText(data.title);
+const perexHtml = data.perex ? fixHtml(await renderMarkdown(data.perex)) : '';
+const bodyHtml = data.body ? fixHtml(await renderMarkdown(data.body)) : '';
 const illustration = data.illustration || undefined;
 const illustrationAlt = data.illustrationAlt ?? '';
 ---
