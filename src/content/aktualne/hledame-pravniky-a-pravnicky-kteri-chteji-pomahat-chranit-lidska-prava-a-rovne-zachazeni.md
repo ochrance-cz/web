@@ -34,11 +34,7 @@ draft: false
 
 Je možné se specializovat, ale i kombinovat více činností.
 
-<br />
-
 Bližší popis pracovní pozice i s ohledem na to, co může zajímat lidi se zdravotním omezením, najdete v tomto dokumentu: [odkaz na checklist](/assets/a5293397c9fe-check-list-pravnik-nhri.pdf).
-
-<br />
 
 ### **Co od Vás požadujeme:**
 
@@ -65,11 +61,7 @@ Bližší popis pracovní pozice i s ohledem na to, co může zajímat lidi se 
 * zpracování připomínek k právním předpisům,
 * &#x20;reprezentaci Kanceláře veřejného ochránce práv a ochránce práv dětí na národní i mezinárodní úrovni na jednáních, vzdělávacích a osvětových akcích.
 
-  <br />
-
 Bližší popis pracovní pozice i s ohledem na to, co může zajímat lidi se zdravotním omezením, najdete v tomto dokumentu: [odkaz na checklist](/assets/66669398c4c6-check-list-pravnik-orz.pdf).
-
-<br />
 
 ### **Co od Vás požadujeme:**
 

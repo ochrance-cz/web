@@ -169,8 +169,6 @@ Výbor OSN vydává obecné komentáře k jednotlivým článkům Úmluvy, aby 
 
 \{\{\< /rozbal >}}
 
-<br />
-
 ### Navštěvujeme zařízení
 
 #### Počty provedených návštěv zařízení

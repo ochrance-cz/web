@@ -50,8 +50,6 @@ Zjištění z dotazníkového šetření nyní poslouží jako podklad pro dalš
 
 Na doporučení pro ministerstvo i na formulaci nového „Desatera“ bude ombudsmanka Kostolanská spolupracovat s úředníky, zástupci soudů i neziskových organizací. S představením prvních návrhů začala již na konferenci „Dobrá správa v praxi: od principů k paragrafům“, kde odbornou veřejnost seznámila i s výsledky výzkumu. V debatě zástupci úřadů poukazovali na to, že jejich pracovní zátěž roste. I to budou doporučení a „Desatero“ zohledňovat.
 
-<br />
-
 > **Kancelář ombudsmana a dětského ombudsmana se zaměřila na osm konkrétních oblastí správního řádu, které se opakovaně ukazují jako problematické a úřady v nich postupují nejednotně:**
 >
 > 1. E-maily doručené přímo úředníkům místo na podatelnu
@@ -86,12 +84,8 @@ Na doporučení pro ministerstvo i na formulaci nového „Desatera“ bude ombu
 >
 > Pokud člověk odešle odvolání nadřízenému úřadu namísto úřadu, který vydal rozhodnutí, musí jej nadřízený úřad přeposlat. Odvolání pak ale může dojít až po uplynutí lhůty pro jeho podání.
 >
-> <br />
->
 > *\** Kverulantní komunikace – podání, jehož cílem zpravidla není vyřešení problému, ale
 >
 > opakované zatěžování úřadu, vyvolávání sporů nebo komplikování jeho činnosti.
-
-<br />
 
 [Výzkumná zpráva „Postup správních orgánů u vybraných oblastí správního řádu“](https://www.ochrance.cz/uploads-import/ESO/1-26-SZD-V%C3%BDzkum_postup_%C3%BA%C5%99ad%C5%AF_s%C5%99.pdf)
