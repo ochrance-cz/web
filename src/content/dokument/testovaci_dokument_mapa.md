@@ -1,8 +1,7 @@
 ---
 title: Testovací dokument mapa
-date: 2022-05-06T06:47:39.815Z
+date: '2022-05-06T06:47:39.815Z'
 ---
-
 ### Testovací nadpis
 
 Tedy je text pod testovacím nadpisem-
@@ -15,7 +14,9 @@ Tady bude text před mapou
 
 Tady bude text pod mapou
 
-* * *
+Tesxt 2
+
+***
 
 Úprava
 
