@@ -4,9 +4,10 @@
 // a second on every idle page. This limits the animations to a few runs and
 // turns them off for visitors who ask for reduced motion.
 //
-// The widget renders into an open shadow root and reuses one that already
-// exists, so we attach it first and add the sheet through adoptedStyleSheets,
-// which survives the widget replacing the root's innerHTML.
+// The widget renders into an open shadow root. Since 5 Nov 2026 it treats an
+// existing root as "already running" and stops, so we must not attach one.
+// We wrap the host's attachShadow instead and add the sheet to the root the
+// widget creates. adoptedStyleSheets survives the widget setting innerHTML.
 // Remove once Nanotrix fixes the animations in their widget.
 ---
 <script is:inline>
@@ -19,15 +20,24 @@
         #chat-toggle, .online-indicator, .welcome-bubble { animation: none !important; transition: none !important; }
       }`;
 
-    const patch = (host) => {
+    const addSheet = (root) => {
       try {
-        const root = host.shadowRoot || host.attachShadow({ mode: 'open' });
         const sheet = new CSSStyleSheet();
         sheet.replaceSync(CSS);
         root.adoptedStyleSheets = [...root.adoptedStyleSheets, sheet];
       } catch {
         // Older browsers without constructable stylesheets keep the widget as it is.
       }
+    };
+
+    const patch = (host) => {
+      if (host.shadowRoot) return addSheet(host.shadowRoot);
+      const attachShadow = host.attachShadow;
+      host.attachShadow = function (init) {
+        const root = attachShadow.call(this, init);
+        addSheet(root);
+        return root;
+      };
     };
 
     const existing = document.getElementById(HOST_ID);
