@@ -1,3 +1,0 @@
----
-title: Další informace
----

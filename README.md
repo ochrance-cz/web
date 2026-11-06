@@ -32,7 +32,7 @@ Pull requesty do `main` projdou buildem a kontrolami v `.github/workflows/pr-bui
 - `cloudflare/` – Worker pro produkční provoz a jeho dokumentace
 - `patches/` – úpravy balíčků Nua, které Bun použije při `bun install`
 - `scripts/` – kontrolní skripty a jednorázové skripty z převodu webu z Hugo, ponechané kvůli dohledatelnosti
-- `content/`, `content-en/`, `data/` – obsah původního webu v Hugo, ze kterého převod vycházel. Build webu je nepoužívá.
+- `data/` – data původního webu v Hugo, ze kterého převod vycházel. Původní obsah (`content/`, `content-en/`) je smazaný, najdete ho v historii gitu.
 
 Většina obrázků a příloh není v repozitáři, leží na CDN. Obrázky ve stránkách se načítají přímo odtud, přílohy vrací produkční web pod vlastní adresou.
 

@@ -1,4 +1,0 @@
----
-title: Pozvánka
-slug: pozvanka
----
