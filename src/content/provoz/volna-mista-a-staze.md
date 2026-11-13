@@ -5,7 +5,9 @@ date: '2026-10-27'
 ---
 ## **Volná místa**
 
-Aktuálně hledáme právničky/právníky do odboru rovného zacházení a pro oblast sledování základních práv a svobod. Více informací najdete v [inzerátu](https://www.ochrance.cz/aktualne/hledame-pravniky-a-pravnicky-kteri-chteji-pomahat-chranit-lidska-prava-a-rovne-zachazeni/).
+Nyní neprobíhá žádné výběrové řízení.
+
+Pokud se přesto chcete ucházet o místo, pošlete nám svůj životopis na adresu michalcova@ochrance.cz a napište, o jakou práci máte zájem. 
 
 **Stáže pro studenty právnických fakult**
 
