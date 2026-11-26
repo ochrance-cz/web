@@ -31,3 +31,5 @@ draft: false
 > ### Reklamy u silnic pod přísnějším dohledem: Magistrát musí rozhodovat podle aktuálních stanovisek policie
 >
 > Pražský magistrát povoloval reklamní zařízení u silnic na základě několik let starých stanovisek policie, přestože se dopravní situace mezitím mohla změnit. Naše šetření ukázalo, že takový postup byl nezákonný, protože každou novou žádost musí policie posoudit podle aktuální situace. Magistrát naše výhrady přijal a nově vyžaduje čerstvé stanovisko policie i důkladnější kontrolu vydávaných rozhodnutí.
+
+[Zpravodaj ombudsmana a dětského ombudsmana za září a říjen 2026](https://www.ochrance.cz/zpravodaj/zpravodaj-ombudsmana-a-detskeho-ombudsmana-za-zari-a-rijen-2026/)
