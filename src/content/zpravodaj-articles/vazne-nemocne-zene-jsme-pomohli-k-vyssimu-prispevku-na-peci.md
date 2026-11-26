@@ -3,7 +3,7 @@ parent: zpravodaj-ombudsmana-a-detskeho-ombudsmana-za-zari-a-rijen-2026
 title: "Vážně nemocné ženě jsme pomohli k vyššímu příspěvku na péči "
 order: 2
 section: Pomohli jsme napravit chybu úřadu
-id: sp. zn. 5422/2025/VOP
+id: 5422/2025/VOP
 ---
 > Posudkový lékař by měl u každé základní životní potřeby uvést, zda a případně jak onemocnění posuzovaného ovlivňuje její výkon. Nejpečlivěji přitom musí odůvodnit své závěry tehdy, pokud je potřeba pomoci výslovně zmíněná v podkladové dokumentaci (nejčastěji v záznamu ze sociálního šetření či v nálezu praktického lékaře).
 
