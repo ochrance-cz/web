@@ -9,7 +9,3 @@ Chráníme lidi před špatným zacházením. Proto navštěvujeme zařízení, 
 V září 2026 jsme uskutečnili systematickou návštěvu Dětského domova Vrchlabí a policejních cel ve Svitavách a Chrudimi. Také jsme v jednom případě monitorovali prvotní prověřování cizince, a to ex post v Přijímacím středisku Zastávka.
 
 V říjnu 2026 proběhla systematická návštěva Dětského domova Karlovy Vary a Ostrov a chráněného bydlení Centrum sociálních služeb Děčín. Ve dvou případech jsme provedli monitoring prvotního prověřování cizince, a to ex post na inspektorátu cizinecké policie Letiště Praha a v Přijímacím středisku Zastávka. Rovněž jsme uskutečnili monitoring azylového hraničního řízení v Přijímacím středisku MV ČR Praha – Ruzyně.
-
-V září 2026 jsme uskutečnili systematickou návštěvu Dětského domova Vrchlabí a policejních cel ve Svitavách a Chrudimi. Také jsme v jednom případě monitorovali prvotní prověřování cizince, a to ex post v Přijímacím středisku Zastávka.
-
-V říjnu 2026 proběhla systematická návštěva Dětského domova Karlovy Vary a Ostrov a chráněného bydlení Centrum sociálních služeb Děčín. Ve dvou případech jsme provedli monitoring prvotního prověřování cizince, a to ex post na inspektorátu cizinecké policie Letiště Praha a v Přijímacím středisku Zastávka. Rovněž jsme uskutečnili monitoring azylového hraničního řízení v Přijímacím středisku MV ČR Praha – Ruzyně.
