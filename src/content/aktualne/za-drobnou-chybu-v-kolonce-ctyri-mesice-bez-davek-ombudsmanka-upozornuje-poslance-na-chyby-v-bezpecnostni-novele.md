@@ -53,4 +53,4 @@ Kromě vyloučení soudních přezkumů, sankcí u humanitární dávky a změn 
 >
 > Jde o speciální pobyt pro držitele dočasné ochrany, kteří v České republice dlouhodobě pobývají, jsou ekonomicky soběstační a splňují další stanovené podmínky. Zvláštní dlouhodobý pobyt jim poskytuje záruku setrvání na území i po skončení dočasné ochrany na dalších pět let. 
 
-[Dřívější zpráva: "Zástupce ombudsmana kritizuje změny pravidel pro cizince"](https://https://www.ochrance.cz/aktualne/i_neumyslna_chyba_muze_znamenat_ztratu_podpory-_zastupce_ombudsmana_kritizuje_zmeny_pravidel_pro_cizince/)
+[Dřívější zpráva: „Zástupce ombudsmana kritizuje změny pravidel pro cizince“](https://https://www.ochrance.cz/aktualne/i_neumyslna_chyba_muze_znamenat_ztratu_podpory-_zastupce_ombudsmana_kritizuje_zmeny_pravidel_pro_cizince/)
