@@ -15,15 +15,11 @@ draft: false
 ---
  *„Představte si, že se jedete postarat o nemocné blízké, kteří žijí mimo Schengen. Může uběhnout měsíc nebo víc. Když se chcete vrátit zpátky, očekáváte, že bude vše jako dřív. Pokud jste ale cizinec, čeká vás automatický zánik dočasné ochrany. Nemůžete se proti tomu bránit a nikdo vám o tom nemusí říct,“* ukazuje ombudsmanka na konkrétním případu, jaké změny přináší tzv. bezpečnostní novela.
 
-<br />
-
 **Unijnímu právu navzdory**
 
 Kromě pobytu v zahraničí může cizinec přijít o dočasnou ochranu, pokud je odsouzen ze spáchání trestného činu, ale také přečinu s peněžitým trestem. Následek je stejný. To ale neodpovídá výčtu konkrétních důvodů, jak jsou uvedeny ve [směrnici o dočasné ochraně](https://eur-lex.europa.eu/legal-content/CS/ALL/?uri=CELEX:32001L0055). K jejímu dodržování se stát zavázal.
 
 „*Novela také přináší změny u humanitární dávky. Stačí, aby člověk nezareagoval na výzvu úřadu, nebo mu poskytl nepřesný údaj, a může se ocitnout čtyři měsíce bez podpory. Úředníci nemají možnost zohlednit konkrétní situaci člověka a sankci neuplatnit. Proti postupu úřadů se člověk nemůže bránit a to je nepřiměřeně přísné zvláště pro seniory, lidi s postižením a pečující, které může drobné pochybení uvrhnout do dluhové pasti,“* popisuje ombudsmanka další z bodů, které odporují znění směrnice o dočasné ochraně.
-
-<br />
 
 **Bez možnosti bránit se u soudu**
 
@@ -32,8 +28,6 @@ Bezpečnostní novela uzavírá cestu k soudu u zvláštního dlouhodobého pob
 *„Další případ, ve kterém se cizinci nebudou nově moci obrátit na soudy, je nesplnění podmínek pro změnu zaměstnavatele. I v tom jde bezpečností novela proti unijnímu právu, které garantuje cizinci možnost předložit věc soudu, pokud mu stát změnu zaměstnavatele neumožní,“* doplňuje Kostolanská.
 
 Kromě vyloučení soudních přezkumů, sankcí u humanitární dávky a změn u dočasné ochrany se její výtky vztahují také na vynucený přístup do telefonu cizinců bez předchozího schválení soudem či jiným nezávislým orgánem. Celkový výčet ombudsmančiných připomínek shrnuje [dokument](https://eso.ochrance.cz/Nalezene/Edit/15016).
-
-<br />
 
 > **Kdo má nárok na dočasnou ochranu?**
 >
@@ -57,8 +51,6 @@ Kromě vyloučení soudních přezkumů, sankcí u humanitární dávky a změn 
 >
 > **Co je zvláštní dlouhodobý pobyt?**
 >
-> Jde o speciální pobyt pro držitele dočasné ochrany, kteří v České republice dlouhodobě pobývají, jsou ekonomicky soběstační a splňují další stanovené podmínky. Zvláštní dlouhodobý pobyt jim poskytuje záruku setrvání na území i po skončení dočasné ochrany na dalších pět let.
-
-<br />
+> Jde o speciální pobyt pro držitele dočasné ochrany, kteří v České republice dlouhodobě pobývají, jsou ekonomicky soběstační a splňují další stanovené podmínky. Zvláštní dlouhodobý pobyt jim poskytuje záruku setrvání na území i po skončení dočasné ochrany na dalších pět let. 
 
 [Dřívější zpráva: "Zástupce ombudsmana kritizuje změny pravidel pro cizince"](https://https://www.ochrance.cz/aktualne/i_neumyslna_chyba_muze_znamenat_ztratu_podpory-_zastupce_ombudsmana_kritizuje_zmeny_pravidel_pro_cizince/)
