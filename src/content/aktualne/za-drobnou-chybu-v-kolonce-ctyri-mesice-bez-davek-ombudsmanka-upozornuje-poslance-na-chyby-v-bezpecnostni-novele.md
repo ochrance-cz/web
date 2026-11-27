@@ -10,7 +10,7 @@ perex: Ombudsmanka Eva Kostolanská poslala předsedům poslaneckých klubů
   schvalování zvážili.
 kategorie:
   - aktualita
-draft: true
+draft: false
 ---
  *„Představte si, že se jedete postarat o nemocné blízké, kteří žijí mimo Schengen. Může uběhnout měsíc nebo víc. Když se chcete vrátit zpátky, očekáváte, že bude vše jako dřív. Pokud jste ale cizinec, čeká vás automatický zánik dočasné ochrany. Nemůžete se proti tomu bránit a nikdo vám o tom nemusí říct,“* ukazuje ombudsmanka na konkrétním případu, jaké změny přináší tzv. bezpečnostní novela.
 
